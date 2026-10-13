@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 2d8a535e348680bde91bd9e251254cedc97656a8880bb2edfe4356e92aed4629
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10714, N-10715, N-10716
-  - Reused Nodes Appearing: N-11
+  - New Nodes Introduced: N-10714, N-10716
+  - Reused Nodes Appearing: N-11, N-10715
   - Hole-minted Nodes (wave1b): N-375
   - Hole-minted Nodes (wave3): N-514, N-515
   - (see registers)

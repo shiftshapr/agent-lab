@@ -103,6 +103,26 @@
         "claim": "C-1160",
         "node": "N-56",
         "reason": "anchored artifact A-1102.1 is the Aaron Wexler-sent Hamptons invitations; ep3 41:32 'Aaron Wexler sent out some of the invitations'"
+      },
+      {
+        "claim": "C-3824",
+        "node": "N-30",
+        "reason": "claim text: 'an online piece alleged her husband hit someone'; ep84 skeleton fill"
+      },
+      {
+        "claim": "C-3840",
+        "node": "N-30",
+        "reason": "claim text: 'pressured Justin Streiff to call her husband'; transcript 09:05 'call your husband'"
+      },
+      {
+        "claim": "C-4583",
+        "node": "N-30",
+        "reason": "claim text: 'told her and her husband'; transcript 38:58 'in front of my entire team'"
+      },
+      {
+        "claim": "C-4590",
+        "node": "N-30",
+        "reason": "transcript 50:21 'my husband was present confirmed it'"
       }
     ],
     "first_name_ok": [
@@ -354,6 +374,27 @@
           50
         ],
         "reason": "Nicole Rothstein (intro ep77): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
+      },
+      {
+        "id": "N-663",
+        "episodes": [
+          75
+        ],
+        "reason": "Marco Rubio is named in C-3580 text (ep75); first minted in the 2026-10-13 skeleton fill at ep111. The ep75 claim predates the person node; Wave 4 debt."
+      },
+      {
+        "id": "N-612",
+        "episodes": [
+          80
+        ],
+        "reason": "Scott Bessent is named in C-2512 text (ep80); first minted in the 2026-10-13 skeleton fill at ep84. Wave 4 debt."
+      },
+      {
+        "id": "N-611",
+        "episodes": [
+          83
+        ],
+        "reason": "Katherine Locastro is named in A-1902.2 text (ep83); first minted in the 2026-10-13 skeleton fill at ep84. Wave 4 debt."
       }
     ]
   },

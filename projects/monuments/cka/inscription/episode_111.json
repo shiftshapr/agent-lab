@@ -7,15 +7,3450 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
-    "extraction_timestamp": "2026-09-27T20:00:00Z",
-    "model_version": "MiniMax-M2.5",
+    "video_timestamp_range": "00:00:00–01:22:06",
+    "extraction_timestamp": "2026-10-13T21:38:38Z",
+    "model_version": "claude-manual-extract-seq111",
     "transcript_sha256": "c712347d8eaed2c3f4d138d1c3341477fcf064c6a3a6da584168a38f51b1366b",
-    "analysis_date": "2026-09-27"
+    "analysis_date": "2026-10-13"
   },
-  "executive_summary": "",
-  "artifacts": [],
-  "nodes": [],
-  "claims": [],
-  "memes": []
+  "executive_summary": "The host returns from a trip to Russia and responds to the media reaction to it. She says the episode thumbnail of her with Vladimir Putin is AI-generated (A-2617.1). She also says the trip was a family vacation that she and her husband paid for themselves, that their request for a Putin interview was denied, and that she joined a family panel at the St. Petersburg International Economic Forum (SPIEF), which a Trump administration delegation also attended. She plays a montage of critics (A-2618.1) and reads a Laura Loomer post (A-2618.2). In the post, Loomer alleges, citing a source, that the host and her husband met Alexander Dugin in Italy, and calls for FARA registration and FinCEN flags on their bank accounts. The host denies ever meeting Dugin. She then describes a medical emergency during the trip. According to the host, an American former-military member of their security detail had a stroke on the second day and needed emergency brain surgery in a Russian hospital, after years of failing to get a VA appointment.\n\nThe host then argues that there is a historical link between radical Zionism and Russia. She cites the People's Will assassination of Tsar Alexander II, an article by Deborah Hertz on Jewish women radicals (A-2620.1), the Romanov executions under Yakov Yurovsky, and a New York Times article on Julius Hammer's financing of the Soviet Bureau and diamond smuggling into New York (A-2620.2). She shows her video from the Church of the Savior on Spilled Blood (A-2621.1) and photos from the trip (A-2621.2), and urges viewers to visit Russia.\n\nIn the second segment the host covers Turning Point USA's Women's Leadership Summit. She plays clips of Erika Kirk being heckled as protecting pedophiles (A-2622.1), Dana Loesch reciting Bible verses on widows (A-2622.2), and Alex Clark announcing her engagement on stage (A-2622.3). She says insiders told her the summit struggled to attract young women and that female chapter leaders declined to attend. She reads Alex Clark's posts, including one asking \"how did Putin taste?\" (A-2623.1) and one claiming credit for prompting Trump's rant against the host (A-2623.2). She also says Clark tried to get the sponsor Paleo Valley to drop the show, and she plays clips of Clark's fiancé, Vance Voytberg (A-2623.5).\n\nThe final segment covers the video in which Charlie Kirk appears to appoint Erika Kirk to run Turning Point USA (A-2625.2). The host recaps how the video came to light and plays a supercut of Charlie Kirk's views on women and careers (A-2624.1). She says TPUSA showed the video only to Daily Mail reporters, that donors present remember Charlie saying the board would figure it out, and that his Aspen presentation mentioned Erika only once (A-2625.1). The host says she believes the clip is doctored. She reads her emailed questions to TPUSA (A-2626.1) and the reply from the TPUSA X account saying the video was real and Charlie \"wasn't kidding\" (A-2626.2). In the comments she says the White House asked her to narrow her FOIA request on Erika Kirk and the correspondents' dinner shooting (A-2627.1).",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2617",
+      "family_ref": "A-2617",
+      "bundle_name": "Episode Thumbnail Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2617.1",
+          "ref": "A-2617.1",
+          "description": "Episode thumbnail showing the host with Vladimir Putin, which the host says is AI-generated",
+          "related_claims": [
+            "C-4322"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-639"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:01:02",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2618",
+      "family_ref": "A-2618",
+      "bundle_name": "Russia Trip Media Reaction Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2618.1",
+          "ref": "A-2618.1",
+          "description": "Montage of commentators reacting to the host's attendance at the St. Petersburg International Economic Forum",
+          "related_claims": [
+            "C-4326"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-662",
+            "N-639",
+            "N-10948"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:04:21",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2618.2",
+          "ref": "A-2618.2",
+          "description": "Laura Loomer post alleging a Dugin meeting and calling for FARA registration and FinCEN flags (shown and read aloud)",
+          "related_claims": [
+            "C-4327",
+            "C-4329"
+          ],
+          "related_nodes": [
+            "N-60",
+            "N-3",
+            "N-30",
+            "N-662",
+            "N-663",
+            "N-10949"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:06:42",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2619",
+      "family_ref": "A-2619",
+      "bundle_name": "Military-Merger Headline Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2619.1",
+          "ref": "A-2619.1",
+          "description": "Host reference to the headline \"Congress discreetly moves to merge US military even closer to Israel's\" (unclear whether shown)",
+          "related_claims": [
+            "C-4335"
+          ],
+          "related_nodes": [
+            "N-10026"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:14:26",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2620",
+      "family_ref": "A-2620",
+      "bundle_name": "Russian Revolutionary History Sources Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2620.1",
+          "ref": "A-2620.1",
+          "description": "Deborah Hertz article \"Dangerous Politics, Dangerously Asens, Love and Terror Among Jewish Women Radicals in Zarist Russia\" (quoted aloud)",
+          "related_claims": [
+            "C-4337",
+            "C-4338"
+          ],
+          "related_nodes": [
+            "N-665",
+            "N-666",
+            "N-10951"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:20:16",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2620.2",
+          "ref": "A-2620.2",
+          "description": "New York Times article \"The Riddle of Armand Hammer\" (quoted aloud)",
+          "related_claims": [
+            "C-4341",
+            "C-4342"
+          ],
+          "related_nodes": [
+            "N-668",
+            "N-669",
+            "N-670",
+            "N-671",
+            "N-672"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:24:59",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2621",
+      "family_ref": "A-2621",
+      "bundle_name": "Host's Russia Trip Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2621.1",
+          "ref": "A-2621.1",
+          "description": "Host's video shot at the Church of the Savior on Spilled Blood in St. Petersburg, including its ceiling",
+          "related_claims": [
+            "C-4343"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-665",
+            "N-10952"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:27:36",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2621.2",
+          "ref": "A-2621.2",
+          "description": "Host's photos from the Russia trip (grocery stores, Christian icons, an old Bible)",
+          "related_claims": [
+            "C-4345"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-22"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:31:00",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2622",
+      "family_ref": "A-2622",
+      "bundle_name": "Women's Leadership Summit Clips Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2622.1",
+          "ref": "A-2622.1",
+          "description": "Clip of Erika Kirk being heckled during her summit speech",
+          "related_claims": [
+            "C-4347"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-10008"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:38:18",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2622.2",
+          "ref": "A-2622.2",
+          "description": "Clip of Dana Loesch's summit speech reciting Bible verses on widows",
+          "related_claims": [
+            "C-4351"
+          ],
+          "related_nodes": [
+            "N-673",
+            "N-10008"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:41:37",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2622.3",
+          "ref": "A-2622.3",
+          "description": "Clip of Alex Clark's summit speech on a \"God-honoring single season\" ending in her engagement announcement",
+          "related_claims": [
+            "C-4353"
+          ],
+          "related_nodes": [
+            "N-99",
+            "N-10008"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:46:04",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2623",
+      "family_ref": "A-2623",
+      "bundle_name": "Alex Clark Posts and Clips Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2623.1",
+          "ref": "A-2623.1",
+          "description": "Alex Clark post replying to the host about the summit audience (shown and read aloud)",
+          "related_claims": [
+            "C-4355"
+          ],
+          "related_nodes": [
+            "N-99",
+            "N-3",
+            "N-639"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:48:33",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2623.2",
+          "ref": "A-2623.2",
+          "description": "Alex Clark post claiming credit for prompting Trump's rant against the host",
+          "related_claims": [
+            "C-4359"
+          ],
+          "related_nodes": [
+            "N-99",
+            "N-5"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:51:07",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2623.3",
+          "ref": "A-2623.3",
+          "description": "Alex Clark post about Aubrey's husband",
+          "related_claims": [
+            "C-4360"
+          ],
+          "related_nodes": [
+            "N-99",
+            "N-563"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:51:07",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2623.4",
+          "ref": "A-2623.4",
+          "description": "Supercut of Alex Clark on masculinity",
+          "related_claims": [],
+          "related_nodes": [
+            "N-99"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:51:55",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2623.5",
+          "ref": "A-2623.5",
+          "description": "Clips of Vance Voytberg (fiddle class, Alliance Defending Freedom introduction, Running on Butter blog)",
+          "related_claims": [
+            "C-4361",
+            "C-4362"
+          ],
+          "related_nodes": [
+            "N-674",
+            "N-10954"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:53:38",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2624",
+      "family_ref": "A-2624",
+      "bundle_name": "Charlie Kirk on Women and Careers Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2624.1",
+          "ref": "A-2624.1",
+          "description": "Supercut of Charlie Kirk on women prioritizing family over career",
+          "related_claims": [
+            "C-4364"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:56:40",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2625",
+      "family_ref": "A-2625",
+      "bundle_name": "Aspen Event Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2625.1",
+          "ref": "A-2625.1",
+          "description": "Clip of Charlie Kirk's final Aspen presentation naming Turning Point Faith partners",
+          "related_claims": [
+            "C-4371",
+            "C-4372"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-11"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:03:31",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2625.2",
+          "ref": "A-2625.2",
+          "description": "Summit clip of Erika Kirk's walk-out including the Charlie Kirk \"I appoint my wife\" segment",
+          "related_claims": [
+            "C-4373",
+            "C-4374"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-10664"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:05:07",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2626",
+      "family_ref": "A-2626",
+      "bundle_name": "TPUSA Correspondence on the Appointment Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2626.1",
+          "ref": "A-2626.1",
+          "description": "Host's email to Turning Point USA seeking comment on the video (read aloud)",
+          "related_claims": [
+            "C-4375"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-10000"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:05:58",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2626.2",
+          "ref": "A-2626.2",
+          "description": "TPUSA X account reply to the host (shown and read aloud)",
+          "related_claims": [
+            "C-4378"
+          ],
+          "related_nodes": [
+            "N-10000"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:07:26",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2627",
+      "family_ref": "A-2627",
+      "bundle_name": "White House FOIA Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2627.1",
+          "ref": "A-2627.1",
+          "description": "Host verbal reference to the White House response to her FOIA requests on Erika Kirk (not shown)",
+          "related_claims": [
+            "C-4383"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-10700"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:19:14",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Subject of the disputed \"I appoint my wife\" clip, the women-and-career supercut and the Aspen presentation; the host repeats that he attended Catholic mass and was changing his mind on Israel.",
+      "related_artifacts": [
+        "A-2624.1",
+        "A-2625.1",
+        "A-2625.2"
+      ],
+      "related_claims": [
+        "C-4347",
+        "C-4352",
+        "C-4357",
+        "C-4360",
+        "C-4363",
+        "C-4364",
+        "C-4366",
+        "C-4367",
+        "C-4368",
+        "C-4369",
+        "C-4371",
+        "C-4372",
+        "C-4373",
+        "C-4374",
+        "C-4375",
+        "C-4378",
+        "C-4380"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 17,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Heckled at the Women's Leadership Summit; her Harvest church partnership, the appointment video, her fundraising use of Charlie's letter and the White House FOIA are discussed.",
+      "related_artifacts": [
+        "A-2622.1",
+        "A-2625.1",
+        "A-2625.2",
+        "A-2627.1"
+      ],
+      "related_claims": [
+        "C-4347",
+        "C-4348",
+        "C-4352",
+        "C-4354",
+        "C-4363",
+        "C-4366",
+        "C-4367",
+        "C-4369",
+        "C-4370",
+        "C-4371",
+        "C-4373",
+        "C-4374",
+        "C-4375",
+        "C-4383",
+        "C-4384"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 15,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; recounts her Russia trip and her security staffer's medical emergency, and her email to TPUSA, outreach to Aspen donors and FOIA requests.",
+      "related_artifacts": [
+        "A-2617.1",
+        "A-2618.1",
+        "A-2618.2",
+        "A-2621.1",
+        "A-2621.2",
+        "A-2623.1",
+        "A-2626.1"
+      ],
+      "related_claims": [
+        "C-4322",
+        "C-4323",
+        "C-4325",
+        "C-4326",
+        "C-4327",
+        "C-4328",
+        "C-4329",
+        "C-4330",
+        "C-4331",
+        "C-4332",
+        "C-4333",
+        "C-4334",
+        "C-4335",
+        "C-4336",
+        "C-4343",
+        "C-4345",
+        "C-4346",
+        "C-4350",
+        "C-4355",
+        "C-4356",
+        "C-4357",
+        "C-4358",
+        "C-4359",
+        "C-4370",
+        "C-4374",
+        "C-4375",
+        "C-4376",
+        "C-4378",
+        "C-4379",
+        "C-4381",
+        "C-4382",
+        "C-4383",
+        "C-4384"
+      ],
+      "tags": [],
+      "evidence_count": 7,
+      "claim_count": 33,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "His administration is said to have sent a delegation to SPIEF; Alex Clark claims credit for prompting his rant against the host.",
+      "related_artifacts": [
+        "A-2623.2"
+      ],
+      "related_claims": [
+        "C-4324",
+        "C-4359"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-11",
+      "ref": "N-11",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "Named by the host as the person Charlie repeatedly called out in his Aspen presentation.",
+      "related_artifacts": [
+        "A-2625.1"
+      ],
+      "related_claims": [
+        "C-4372"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Transcript spellings \"Andrew Kolb\" and \"Andrew Kolburt\". Messaged by the host about the video; earlier said an intern runs the TPUSA X account; Aubrey is described as having worked for him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4360",
+        "C-4376",
+        "C-4377",
+        "C-4379"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-15",
+      "ref": "N-15",
+      "name": "Justin Strife",
+      "type": "person",
+      "description": "Transcript spelling \"Justin Streif\". Messaged by the host about the appointment video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4376"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Cited by the host for his Russian grocery-store visit and as having \"stole my shine\" with a Putin interview.",
+      "related_artifacts": [
+        "A-2621.2"
+      ],
+      "related_claims": [
+        "C-4323",
+        "C-4345"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-27",
+      "ref": "N-27",
+      "name": "Kanye West",
+      "type": "person",
+      "description": "Cited as not allowed to perform in the West, alongside the host's Australia ban.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4346"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-30",
+      "ref": "N-30",
+      "name": "George (Candace's husband)",
+      "type": "person",
+      "description": "Named George Farmer in the Loomer post; alleged by Loomer's source to have met Dugin in Italy, which the host denies; planned the Russia trip with the host.",
+      "related_artifacts": [
+        "A-2618.2"
+      ],
+      "related_claims": [
+        "C-4323",
+        "C-4325",
+        "C-4327",
+        "C-4329",
+        "C-4330"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Transcript spelling \"Megan Kelly\". Cited for saying Mark Levin would hurt her and as the November 2025 interviewer to whom Erika Kirk first described the appointment video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4344",
+        "C-4363"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-60",
+      "ref": "N-60",
+      "name": "Laura Loomer",
+      "type": "person",
+      "description": "Alleged a Dugin meeting with the host's husband and called for FARA registration and FinCEN flags.",
+      "related_artifacts": [
+        "A-2618.2"
+      ],
+      "related_claims": [
+        "C-4327",
+        "C-4329"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-82",
+      "ref": "N-82",
+      "name": "Brigitte Macron",
+      "type": "person",
+      "description": "Subject of the host's Becoming Brigitte series, which she says went viral in Russia.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4381"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Named among the critics of the host's Russia trip and, with Mark Levin, as Zionists who \"rewrite history.\"",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4344"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-99",
+      "ref": "N-99",
+      "name": "Alex Clark",
+      "type": "person",
+      "description": "Announced her engagement at the summit; her posts mocking the host (\"how did Putin taste?\"), claiming credit for Trump's rant and targeting Aubrey's husband are read; the host says she pressured Paleo Valley.",
+      "related_artifacts": [
+        "A-2622.3",
+        "A-2623.1",
+        "A-2623.2",
+        "A-2623.3",
+        "A-2623.4"
+      ],
+      "related_claims": [
+        "C-4352",
+        "C-4353",
+        "C-4354",
+        "C-4355",
+        "C-4356",
+        "C-4357",
+        "C-4358",
+        "C-4359",
+        "C-4360",
+        "C-4361"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-162",
+      "ref": "N-162",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Suggested by the host to have known why TPUSA said the video would be dismissed as AI.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4365"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-249",
+      "ref": "N-249",
+      "name": "Mark Levin",
+      "type": "person",
+      "description": "Megyn Kelly is cited as believing he would hurt her; the host questions his family's Russian origins.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4344"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-348",
+      "ref": "N-348",
+      "name": "Victor Marx",
+      "type": "person",
+      "description": "An emailer told the host he named Greg Laurie as his mentor.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4349"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-461",
+      "ref": "N-461",
+      "name": "Greg Laurie",
+      "type": "person",
+      "description": "Pastor of Harvest church, with which Erika Kirk toured; the church faces a Romania lawsuit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4348",
+        "C-4349"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-462",
+      "ref": "N-462",
+      "name": "Paul Havsgaard",
+      "type": "person",
+      "description": "Transcript spelling \"Paul Habsgard\". Per the host, Greg Laurie's defense is that Havsgaard acted alone in Romania.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4348"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-563",
+      "ref": "N-563",
+      "name": "Aubrey Lech",
+      "type": "person",
+      "description": "\"Aubrey\" whose husband Alex Clark called weird; mapped with medium confidence.",
+      "related_artifacts": [
+        "A-2623.3"
+      ],
+      "related_claims": [
+        "C-4360"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-593",
+      "ref": "N-593",
+      "name": "Thomas Massie",
+      "type": "person",
+      "description": "Said to be honoring USS Liberty survivors; earlier TPUSA X exchange with him led Kolvet to say an intern runs the account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4336",
+        "C-4377"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-662",
+      "ref": "N-662",
+      "name": "Alexander Dugin",
+      "type": "person",
+      "description": "First named by the host at 00:00:01 in episode 111. Russian philosopher whom Laura Loomer's source alleges met the host's husband in Italy; the host denies ever meeting him. Alias: Dugan.",
+      "related_artifacts": [
+        "A-2618.1",
+        "A-2618.2"
+      ],
+      "related_claims": [
+        "C-4326",
+        "C-4327",
+        "C-4328",
+        "C-4334",
+        "C-4350"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-639",
+      "ref": "N-639",
+      "name": "Vladimir Putin",
+      "type": "person",
+      "description": "First named by the host at 00:01:02 in episode 111. Russian president; the host says her interview request was denied and critics claim he invited her to speak.",
+      "related_artifacts": [
+        "A-2617.1",
+        "A-2618.1",
+        "A-2623.1"
+      ],
+      "related_claims": [
+        "C-4322",
+        "C-4323",
+        "C-4326",
+        "C-4334",
+        "C-4350",
+        "C-4355"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-663",
+      "ref": "N-663",
+      "name": "Marco Rubio",
+      "type": "person",
+      "description": "First named by the host at 00:06:42 in episode 111. Tagged as \"Secretary Rubio\" in Laura Loomer's post calling for the host to be investigated.",
+      "related_artifacts": [
+        "A-2618.2"
+      ],
+      "related_claims": [
+        "C-4329"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-664",
+      "ref": "N-664",
+      "name": "Phil Tourney",
+      "type": "person",
+      "description": "First named by the host at 00:14:26 in episode 111. USS Liberty survivor the host interviewed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4336"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-665",
+      "ref": "N-665",
+      "name": "Tsar Alexander II",
+      "type": "person",
+      "description": "First named by the host at 00:19:26 in episode 111. Russian tsar assassinated in 1881 by the People's Will; the Church of the Savior on Spilled Blood marks the site.",
+      "related_artifacts": [
+        "A-2620.1",
+        "A-2621.1"
+      ],
+      "related_claims": [
+        "C-4337",
+        "C-4343"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-666",
+      "ref": "N-666",
+      "name": "Deborah Hertz",
+      "type": "person",
+      "description": "First named by the host at 00:20:16 in episode 111. Author of the article on Jewish women radicals in tsarist Russia that the host quotes.",
+      "related_artifacts": [
+        "A-2620.1"
+      ],
+      "related_claims": [
+        "C-4338"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-667",
+      "ref": "N-667",
+      "name": "Yakov Yurovsky",
+      "type": "person",
+      "description": "First named by the host at 00:22:27 in episode 111. Bolshevik executioner who, per the host, led the murder of the Romanov family.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4339"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-668",
+      "ref": "N-668",
+      "name": "Vladimir Lenin",
+      "type": "person",
+      "description": "First named by the host at 00:23:20 in episode 111. Soviet leader under whom, per the host, the communist regime and mass killings began; appointed Ludwig Martens per the NYT article.",
+      "related_artifacts": [
+        "A-2620.2"
+      ],
+      "related_claims": [
+        "C-4340",
+        "C-4341"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-669",
+      "ref": "N-669",
+      "name": "Armie Hammer",
+      "type": "person",
+      "description": "First named by the host at 00:24:15 in episode 111. Actor whose family history the host introduces via the Hammer story.",
+      "related_artifacts": [
+        "A-2620.2"
+      ],
+      "related_claims": [
+        "C-4341"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-670",
+      "ref": "N-670",
+      "name": "Julius Hammer",
+      "type": "person",
+      "description": "First named by the host at 00:24:59 in episode 111. Per the New York Times article read by the host, financed the Soviet Bureau and converted smuggled diamonds into cash.",
+      "related_artifacts": [
+        "A-2620.2"
+      ],
+      "related_claims": [
+        "C-4341",
+        "C-4342"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-671",
+      "ref": "N-671",
+      "name": "Armand Hammer",
+      "type": "person",
+      "description": "First named by the host at 00:24:59 in episode 111. Subject of the New York Times article \"The Riddle of Armand Hammer\"; denies the diamond account.",
+      "related_artifacts": [
+        "A-2620.2"
+      ],
+      "related_claims": [
+        "C-4341",
+        "C-4342"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-672",
+      "ref": "N-672",
+      "name": "Ludwig Martens",
+      "type": "person",
+      "description": "First named by the host at 00:25:49 in episode 111. Russian-German engineer appointed by Lenin to head the unofficial Soviet Bureau in New York.",
+      "related_artifacts": [
+        "A-2620.2"
+      ],
+      "related_claims": [
+        "C-4341"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-673",
+      "ref": "N-673",
+      "name": "Dana Loesch",
+      "type": "person",
+      "description": "First named by the host at 00:41:37 in episode 111. Transcript spelling \"Dana Lash\" (also addressed as \"Dana\" at 27:36 and 29:21). Summit speaker who recited widow verses and, per the host, said she was working with Putin and Dugin. Alias: Dana Lash.",
+      "related_artifacts": [
+        "A-2622.2"
+      ],
+      "related_claims": [
+        "C-4350",
+        "C-4351"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-674",
+      "ref": "N-674",
+      "name": "Vance Voytberg",
+      "type": "person",
+      "description": "First named by the host at 00:52:41 in episode 111. Alex Clark's fiancé; says he works for Alliance Defending Freedom and runs the blog Running on Butter.",
+      "related_artifacts": [
+        "A-2623.5"
+      ],
+      "related_claims": [
+        "C-4361",
+        "C-4362"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Organization whose summit, handling of the appointment video, X account and fundraising practices are criticized.",
+      "related_artifacts": [
+        "A-2626.1",
+        "A-2626.2"
+      ],
+      "related_claims": [
+        "C-4347",
+        "C-4351",
+        "C-4352",
+        "C-4354",
+        "C-4356",
+        "C-4365",
+        "C-4366",
+        "C-4367",
+        "C-4368",
+        "C-4375",
+        "C-4376",
+        "C-4377",
+        "C-4378",
+        "C-4380"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 14,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10008",
+      "ref": "N-10008",
+      "name": "YWLS Conference",
+      "type": "investigation_target",
+      "description": "The summit, renamed the Women's Leadership Summit, where Erika Kirk was heckled and Dana Loesch and Alex Clark spoke.",
+      "related_artifacts": [
+        "A-2622.1",
+        "A-2622.2",
+        "A-2622.3"
+      ],
+      "related_claims": [
+        "C-4347",
+        "C-4351",
+        "C-4352",
+        "C-4353",
+        "C-4354",
+        "C-4373"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10026",
+      "ref": "N-10026",
+      "name": "Israel",
+      "type": "investigation_target",
+      "description": "Subject of the reported US military merger headline.",
+      "related_artifacts": [
+        "A-2619.1"
+      ],
+      "related_claims": [
+        "C-4335"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10056",
+      "ref": "N-10056",
+      "name": "Kirk-Israel Narrative Dispute",
+      "type": "investigation_target",
+      "description": "The host restates that Charlie Kirk was changing his mind about Israel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4357"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10070",
+      "ref": "N-10070",
+      "name": "Daily Mail",
+      "type": "investigation_target",
+      "description": "Reporters were shown the appointment video exclusively, per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4368"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10194",
+      "ref": "N-10194",
+      "name": "TPUSA Succession Plan Disclosure Timeline",
+      "type": "investigation_target",
+      "description": "Erika Kirk's November 2025 Megyn Kelly interview introduced the appointment video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4363"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10350",
+      "ref": "N-10350",
+      "name": "Charlie Kirk Catholicism Journey",
+      "type": "investigation_target",
+      "description": "The host restates that Charlie attended Catholic mass, sometimes daily.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4357"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10376",
+      "ref": "N-10376",
+      "name": "AmFest Tent Recreation Approval Chain",
+      "type": "investigation_target",
+      "description": "The host cites the recreated tent for selfies alongside the displayed microphone.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4366"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10401",
+      "ref": "N-10401",
+      "name": "Romania / Eastern Europe Trafficking Cluster",
+      "type": "investigation_target",
+      "description": "Context for the allegation the heckler referenced about Erika Kirk's past.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4348"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10411",
+      "ref": "N-10411",
+      "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
+      "type": "investigation_target",
+      "description": "The host says the church Erika Kirk partnered with is being sued and the lawsuit is ongoing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4348"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10437",
+      "ref": "N-10437",
+      "name": "Aspen Donor Recall Verification",
+      "type": "investigation_target",
+      "description": "Donors and Erika fans present say the appointment never happened; the host has contacted the donors.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4369",
+        "C-4370",
+        "C-4382"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10451",
+      "ref": "N-10451",
+      "name": "USS Liberty Incident Cover-up Investigation",
+      "type": "investigation_target",
+      "description": "Thomas Massie's announced honor for survivors; the host's Phil Tourney interview.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4336"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10538",
+      "ref": "N-10538",
+      "name": "Turning Point Action / Thomas Massie Disavowal Incident",
+      "type": "investigation_target",
+      "description": "Kolvet's earlier statement that an intern runs the TPUSA X account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4377"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10583",
+      "ref": "N-10583",
+      "name": "Aspen Donor Audio Integrity Question",
+      "type": "investigation_target",
+      "description": "Attendees believe the clip was spliced from different points of the event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4370",
+        "C-4374"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10584",
+      "ref": "N-10584",
+      "name": "Aspen Donor Event Memory Discrepancy",
+      "type": "investigation_target",
+      "description": "Donors recall \"the board would figure it out,\" not an appointment.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4369"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10637",
+      "ref": "N-10637",
+      "name": "WHCD Incident Reconstruction",
+      "type": "investigation_target",
+      "description": "The host's narrowed FOIA asks for emails on Erika Kirk and the correspondents' dinner shooting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4383"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10664",
+      "ref": "N-10664",
+      "name": "Charlie Kirk Aspen Audio Authenticity Question",
+      "type": "investigation_target",
+      "description": "The host says definitively she believes the appointment clip is doctored; TPUSA's X account says it is real.",
+      "related_artifacts": [
+        "A-2625.2"
+      ],
+      "related_claims": [
+        "C-4363",
+        "C-4365",
+        "C-4368",
+        "C-4371",
+        "C-4373",
+        "C-4374",
+        "C-4378",
+        "C-4379",
+        "C-4380"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10700",
+      "ref": "N-10700",
+      "name": "Pending FOIA Requests",
+      "type": "investigation_target",
+      "description": "The White House asked the host to narrow her Erika Kirk FOIA request.",
+      "related_artifacts": [
+        "A-2627.1"
+      ],
+      "related_claims": [
+        "C-4383",
+        "C-4384"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10888",
+      "ref": "N-10888",
+      "name": "Department of War",
+      "type": "investigation_target",
+      "description": "The host says it appears to have been involved in the White House emails about Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4384"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10948",
+      "ref": "N-10948",
+      "name": "St. Petersburg International Economic Forum (SPIEF)",
+      "type": "organization",
+      "description": "Annual economic forum in St. Petersburg, described by the host as the \"Davos of the East,\" where she spoke on a family panel. She says a Trump administration delegation also attended. Critics claimed Putin invited her and that she appeared alongside Dugin.",
+      "related_artifacts": [
+        "A-2618.1"
+      ],
+      "related_claims": [
+        "C-4324",
+        "C-4325",
+        "C-4326",
+        "C-4328"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10949",
+      "ref": "N-10949",
+      "name": "Alexander Dugin–George Farmer Italy Meeting Allegation",
+      "type": "topic",
+      "description": "Investigation target: Laura Loomer's source-based claim that Alexander Dugin met the host's husband George Farmer in a secret meeting in Italy about a month before the Russia trip, used to call for FARA registration and FinCEN flags. The host denies ever meeting Dugin.",
+      "related_artifacts": [
+        "A-2618.2"
+      ],
+      "related_claims": [
+        "C-4327",
+        "C-4328",
+        "C-4329"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10950",
+      "ref": "N-10950",
+      "name": "US Department of Veterans Affairs (VA)",
+      "type": "organization",
+      "description": "The host says her security staffer tried for years to get a VA appointment before suffering a stroke in Russia, and that members of his platoon died by suicide after failing to get appointments.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4332",
+        "C-4333"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10951",
+      "ref": "N-10951",
+      "name": "People's Will",
+      "type": "organization",
+      "description": "Russian revolutionary group (Narodnaya Volya) that, per the host, plotted the 1881 assassination of Tsar Alexander II; the host reads Deborah Hertz's figures on its membership.",
+      "related_artifacts": [
+        "A-2620.1"
+      ],
+      "related_claims": [
+        "C-4337",
+        "C-4338"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-10952",
+      "ref": "N-10952",
+      "name": "Church of the Savior on Spilled Blood",
+      "type": "place",
+      "description": "Church in St. Petersburg built on the spot where Alexander II's carriage was bombed; the host shows her own video from it.",
+      "related_artifacts": [
+        "A-2621.1"
+      ],
+      "related_claims": [
+        "C-4343"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10953",
+      "ref": "N-10953",
+      "name": "Paleo Valley",
+      "type": "organization",
+      "description": "Sponsor of the host's show; the host says Alex Clark made private calls demanding it drop the show.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4358"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10954",
+      "ref": "N-10954",
+      "name": "Alliance Defending Freedom",
+      "type": "organization",
+      "description": "Christian legal organization (ADF) where Alex Clark's fiancé Vance Voytberg says he works.",
+      "related_artifacts": [
+        "A-2623.5"
+      ],
+      "related_claims": [
+        "C-4362"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10923",
+      "ref": "N-10923",
+      "name": "White House Military Office Erika Kirk Amplification Email",
+      "type": "topic",
+      "description": "Investigation target: the email the host says was sent by the White House Military Office through the White House Communications Agency about 25 minutes after Sara Sidner's 9:25 p.m. upload of the Erika Kirk clip on the night of the April 25 WHCD shooting. In this episode the host says her report was true, that Erika Kirk is considered an \"emotional asset,\" and that the Department of War appears to have been involved; her narrowed FOIA request seeks these emails.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4384"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-4322",
+      "ref": "C-4322",
+      "label": "Episode thumbnail of the host with Putin is AI-generated",
+      "claim": "The host says the photo on the episode thumbnail is AI-generated and that President Putin was not in the studio.",
+      "anchored_artifacts": [
+        "A-2617.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:01:02",
+      "investigative_direction": "Examine the thumbnail image file and its provenance metadata.",
+      "transcript_snippet": "The photo on our thumbnail is AI. President Putin is not, in fact, in studio today.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-639"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4323",
+      "ref": "C-4323",
+      "label": "Host's request for a Putin interview was denied; she has sought one for about five years",
+      "claim": "The host says she and her husband formally requested an interview with Vladimir Putin for the trip and were denied, and that she has been trying to interview him for about five years, including a pitch while she worked at The Daily Wire.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:34",
+      "investigative_direction": "Obtain the host's interview request correspondence with the Kremlin press office and the denial.",
+      "transcript_snippet": "And so, we put in a formal request, and that request was denied, as it is every year. I've actually been trying to interview Vladimir Putin for like 5 years now.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-30",
+        "N-639",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4324",
+      "ref": "C-4324",
+      "label": "Trump administration sent a delegation to SPIEF",
+      "claim": "The host says the Trump administration sent an entire delegation to the same St. Petersburg International Economic Forum she attended, and that it went unreported.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10948"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:32",
+      "investigative_direction": "Check SPIEF 2026 participant lists and State Department or administration records for an official US delegation.",
+      "transcript_snippet": "Trump administration sent an entire delegation to this same conference. Nobody reported on them.",
+      "mentions_person_refs": [
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4325",
+      "ref": "C-4325",
+      "label": "Host paid for the Russia trip herself and joined a SPIEF family panel on invitation",
+      "claim": "The host says the Russia trip was a family vacation that her family paid for, and that after extending the trip she was asked to join a SPIEF panel on family.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10948"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:32",
+      "investigative_direction": "Review the host's travel bookings and payments and the SPIEF panel invitation correspondence.",
+      "transcript_snippet": "Who's pay Who's paying for We're paying for it cuz it's a family vacation. That's we pay for our own vacations.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-30"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4326",
+      "ref": "C-4326",
+      "label": "Commentator montage claims Putin personally asked the host to speak at SPIEF",
+      "claim": "In a montage of critics played by the host, one commentator says Putin himself asked the host to speak at the convention, and another says she spoke at SPIEF alongside Putin, Alexander Dugin and members of the Russian government. The host later calls the claim that Putin personally invited her a lie.",
+      "anchored_artifacts": [
+        "A-2618.1"
+      ],
+      "related_nodes": [
+        "N-10948"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:21",
+      "investigative_direction": "Obtain the SPIEF program and the organizers' record of who invited the host to the family panel.",
+      "transcript_snippet": "So, the latest is Putin himself has just asked Can- Candace Owens to speak today um at this convention.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-639",
+        "N-662"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4327",
+      "ref": "C-4327",
+      "label": "Laura Loomer says sources told her Dugin met the host's husband in Italy",
+      "claim": "The host says Laura Loomer claimed that, according to her sources, Alexander Dugin met the host's husband George in a secret meeting in Italy about a month earlier.",
+      "anchored_artifacts": [
+        "A-2618.2"
+      ],
+      "related_nodes": [
+        "N-10949"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:53",
+      "investigative_direction": "Ask Loomer for her source and compare Dugin's and George Farmer's travel records for Italy in that period.",
+      "transcript_snippet": "Laura Loomer who said that sources told her that Alexander Dugin, which they were all very focused on Alexander Dugin, actually met with my husband George in Italy a month ago in some secret meeting.",
+      "mentions_person_refs": [
+        "N-60",
+        "N-662",
+        "N-30",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4328",
+      "ref": "C-4328",
+      "label": "Host denies ever meeting Alexander Dugin",
+      "claim": "The host says she has never met Alexander Dugin and did not know he was speaking at SPIEF.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10948",
+        "N-10949"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:53",
+      "investigative_direction": "Review SPIEF session rosters and any photographic record of the host and Dugin together.",
+      "transcript_snippet": "Because I've never met Alexander Dugin. We still don't know Alexander Dugin, but I would like to know Alexander Dugin. I had no idea he was speaking at this SPIEF conference.",
+      "contradicts_claim_refs": [
+        "C-4327"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-662"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4329",
+      "ref": "C-4329",
+      "label": "Loomer post called for FARA registration and FinCEN flags and tagged Treasury and Rubio",
+      "claim": "The host reads a Laura Loomer post saying the host should be forced to register under FARA and that her and George Farmer's bank accounts should be flagged by FinCEN, and says Loomer tagged the US Treasury and Secretary Rubio. The host says Russia did not pay for her trip.",
+      "anchored_artifacts": [
+        "A-2618.2"
+      ],
+      "related_nodes": [
+        "N-10949"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:42",
+      "investigative_direction": "Archive the original Loomer post with its timestamp and tags.",
+      "transcript_snippet": "Candace should be forced to register with FARA. And her bank accounts and her husband George Farmer bank accounts should be flagged by FinCEN while she is in Russia.",
+      "mentions_person_refs": [
+        "N-60",
+        "N-3",
+        "N-30",
+        "N-663"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4330",
+      "ref": "C-4330",
+      "label": "American security staffer collapsed on the second day in Russia",
+      "claim": "The host says that on their second day in Russia the family's American former-military security member collapsed at breakfast, and that their European security member suspected a stroke and urged them to call paramedics.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:07:43",
+      "investigative_direction": "Obtain the paramedic call record and hospital admission record (with family consent).",
+      "transcript_snippet": "our American um military person had had collapsed at breakfast and he sort of said, \"Look, he's okay.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-30"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4331",
+      "ref": "C-4331",
+      "label": "Security staffer needed emergency brain surgery for a massive clot in a Russian hospital",
+      "claim": "The host says the hospital told them the staffer needed immediate brain surgery for a massive clot, that he might not survive the night, and that an emergency visa had to be arranged for his wife.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:10:45",
+      "investigative_direction": "Obtain the hospital's surgical record and the wife's emergency visa record (with consent).",
+      "transcript_snippet": "they informed us that he immediately was going to have to have brain surgery. That there was a massive clot in his brain.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4332",
+      "ref": "C-4332",
+      "label": "Staffer had tried for years to get a VA appointment",
+      "claim": "The host says the staffer's wife told her that he knew something was wrong and had been trying to get an appointment with the VA for years.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10950"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:36",
+      "investigative_direction": "Obtain the veteran's VA appointment-request history (with consent).",
+      "transcript_snippet": "He knew something was wrong and he had been trying to get an appointment with the VA for years.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4333",
+      "ref": "C-4333",
+      "label": "Staffer's platoon survived a sonar blast and several members later died by suicide",
+      "claim": "According to the host, the staffer's wife said he and his platoon had survived a sonar blast, that the VA suggested his symptoms could be PTSD, and that several platoon members died by suicide after they could not get appointments.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10950"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:34",
+      "investigative_direction": "Identify the unit and incident and check VA records and casualty reports for the platoon.",
+      "transcript_snippet": "His wife then explained to me that multiple people that were in his platoon committed suicide because they similarly could not get appointments um when they knew something was wrong.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4334",
+      "ref": "C-4334",
+      "label": "Staffer is still recovering in Russia",
+      "claim": "The host says the staffer received an immediate CAT scan and surgery in Russia, with no special privileges, and is still recovering there.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:14:26",
+      "investigative_direction": "Confirm the staffer's current status through his family.",
+      "transcript_snippet": "He's He's still in recovery. Uh, he is still in Russia.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-639",
+        "N-662"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4335",
+      "ref": "C-4335",
+      "label": "Headline says Congress is moving to merge the US military closer to Israel's",
+      "claim": "The host says a trending headline reported that Congress was discreetly moving to merge the US military even closer to Israel's.",
+      "anchored_artifacts": [
+        "A-2619.1"
+      ],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:26",
+      "investigative_direction": "Locate the article and the legislative provision it describes.",
+      "transcript_snippet": "I think you guys saw the headlines of Congress discreetly moves to merge US military even closer to Israel's.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4336",
+      "ref": "C-4336",
+      "label": "Thomas Massie announced an honor for USS Liberty survivors",
+      "claim": "The host says Thomas Massie announced that he was doing something to honor the survivors of the USS Liberty, and that her interview with survivor Phil Tourney went viral.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10451"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:26",
+      "investigative_direction": "Locate Massie's announcement (resolution, bill or event) and its date.",
+      "transcript_snippet": "Then we have at the same time Thomas Massie announcing that he's doing something to honor the survivors of the USS Liberty Phil Tourney being the person that I interviewed.",
+      "mentions_person_refs": [
+        "N-593",
+        "N-664",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4337",
+      "ref": "C-4337",
+      "label": "People's Will plotted the assassination of Tsar Alexander II",
+      "claim": "The host says the assassination of Tsar Alexander II was plotted by the terrorist group People's Will, and that Jews, though only 4% of the population, were overrepresented in it.",
+      "anchored_artifacts": [
+        "A-2620.1"
+      ],
+      "related_nodes": [
+        "N-10951"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:26",
+      "investigative_direction": "Consult historical scholarship on the membership of Narodnaya Volya and the 1881 assassination.",
+      "transcript_snippet": "Um we could can start with the assassination of Tsar Alexander II. It was plotted by a terrorist group in Russia, known in English as the People's Will.",
+      "mentions_person_refs": [
+        "N-665"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4338",
+      "ref": "C-4338",
+      "label": "Hertz article: 95 Jewish women made up almost a third of the People's Will's 348 women",
+      "claim": "The host reads Deborah Hertz's article, which says the People's Will had 2,193 activists in the 1880s, including 95 Jewish women who made up almost a third of its 348 women.",
+      "anchored_artifacts": [
+        "A-2620.1"
+      ],
+      "related_nodes": [
+        "N-10951"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:39",
+      "investigative_direction": "Locate the Hertz article and check the figures against its cited membership data.",
+      "transcript_snippet": "Among these 2,000, some radicals were 95 Jewish women who represented almost a third of the only 348 women that were in the party.",
+      "mentions_person_refs": [
+        "N-666"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4339",
+      "ref": "C-4339",
+      "label": "Romanov execution was led by Yakov Yurovsky",
+      "claim": "The host says the murder of the Romanov family was led by the Bolshevik executioner Yakov Yurovsky, whom she describes as a Talmudic Jew.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:22:27",
+      "investigative_direction": "Consult historical records of the 1918 Yekaterinburg execution.",
+      "transcript_snippet": "The assassination of the Romanov family was led by the Bolshevik executioner Yakov Yurovsky.",
+      "mentions_person_refs": [
+        "N-667"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4340",
+      "ref": "C-4340",
+      "label": "More than 60 million Russian Christians were murdered under communism",
+      "claim": "The host says that after the revolution, with the communist regime under Vladimir Lenin, more than 60 million Russian Christians were murdered.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:23:20",
+      "investigative_direction": "Compare the figure with demographic and historical estimates of Soviet repression deaths.",
+      "transcript_snippet": "The communist regime began under Vladimir Lenin. Uh the greatest genocide of all time began. Is a better way of saying it. More than 60 million Russian Christians were then ruthlessly murdered.",
+      "mentions_person_refs": [
+        "N-668"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4341",
+      "ref": "C-4341",
+      "label": "Julius Hammer financed Ludwig Martens' unofficial Soviet Bureau",
+      "claim": "The host reads a New York Times article, \"The Riddle of Armand Hammer,\" saying Lenin sent Ludwig Martens to the US. According to the article, Julius Hammer gave the bureau interim financing, paid its rent and was made its commercial attaché.",
+      "anchored_artifacts": [
+        "A-2620.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:25:49",
+      "investigative_direction": "Retrieve the New York Times article and the historical record of the Russian Soviet Government Bureau in New York.",
+      "transcript_snippet": "But since Martens could not get control of the Russian funds immediately, he turned to Julius Hammer for interim financing.",
+      "mentions_person_refs": [
+        "N-668",
+        "N-669",
+        "N-670",
+        "N-671",
+        "N-672"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4342",
+      "ref": "C-4342",
+      "label": "Soviet Bureau was financed by diamonds smuggled into New York",
+      "claim": "The host reads from the New York Times article that by 1918 the Soviet Union was financing the Soviet Bureau by smuggling diamonds into New York, and that Julius Hammer converted them into cash. The article notes that Armand Hammer denies this.",
+      "anchored_artifacts": [
+        "A-2620.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:25:49",
+      "investigative_direction": "Check the article's source (a fellow party member's autobiography) and period customs and Lusk Committee records.",
+      "transcript_snippet": "By 1918, the Soviet Union was financing the Soviet Bureau by smuggling diamonds into New York.",
+      "mentions_person_refs": [
+        "N-670",
+        "N-671"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4343",
+      "ref": "C-4343",
+      "label": "Church of the Savior on Spilled Blood stands where Alexander II was bombed",
+      "claim": "The host shows her video of the Church of the Savior on Spilled Blood and says it was built on the spot in St. Petersburg where Alexander II's carriage was bombed.",
+      "anchored_artifacts": [
+        "A-2621.1"
+      ],
+      "related_nodes": [
+        "N-10952"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:36",
+      "investigative_direction": "Consult the church's construction history.",
+      "transcript_snippet": "The the church is called appropriately called the Church of the Savior on Spilled Blood and this is a video so you guys can see that's where his carriage was bombed.",
+      "mentions_person_refs": [
+        "N-665",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4344",
+      "ref": "C-4344",
+      "label": "Megyn Kelly said Mark Levin would hurt her if he could",
+      "claim": "The host says Megyn Kelly has said she truly believes that Mark Levin would hurt her if he could get away with it.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:28:41",
+      "investigative_direction": "Locate the Megyn Kelly episode in which she made the statement.",
+      "transcript_snippet": "she truly believes that if Mark Levin could get away with it, he would hurt her.",
+      "mentions_person_refs": [
+        "N-46",
+        "N-249",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4345",
+      "ref": "C-4345",
+      "label": "Russia carries a level four US travel advisory",
+      "claim": "While showing her trip photos, the host says Russia is under a level four travel advisory, which she contrasts with how safe and clean she found it.",
+      "anchored_artifacts": [
+        "A-2621.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:31:00",
+      "investigative_direction": "Check the State Department travel advisory level for Russia at the time.",
+      "transcript_snippet": "How on Earth is this a country that is at a level four travel advisory?",
+      "mentions_person_refs": [
+        "N-3",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4346",
+      "ref": "C-4346",
+      "label": "Host is banned from Australia",
+      "claim": "The host says she is banned from entering Australia, and that Kanye West is not allowed to perform in the West, which she attributes to ideological sanctioning.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:32:04",
+      "investigative_direction": "Review the Australian visa refusal decision and any court ruling on it.",
+      "transcript_snippet": "They are you know Candace can't even get into Australia. She's banned from Australia.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4347",
+      "ref": "C-4347",
+      "label": "Erika Kirk was heckled as protecting pedophiles during her summit speech",
+      "claim": "In a clip played by the host, a heckler shouts \"Erika Kirk protects pedophiles\" during Erika Kirk's Women's Leadership Summit speech. The host corrects herself, saying Erika was accused of protecting pedophiles, not of being one.",
+      "anchored_artifacts": [
+        "A-2622.1"
+      ],
+      "related_nodes": [
+        "N-10008",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:18",
+      "investigative_direction": "Obtain full event footage and any venue security report on the heckler.",
+      "transcript_snippet": "But the joy of the Lord withstands all. >> Erika Kirk protects pedophiles.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4348",
+      "ref": "C-4348",
+      "label": "Erika Kirk partnered with Greg Laurie's Harvest church, which faces a Romania trafficking lawsuit",
+      "claim": "The host says Erika Kirk went on tour with Greg Laurie's Harvest church. According to the host, the church is being sued over alleged trafficking in Romania, the lawsuit is ongoing, and Laurie's position is that Paul Havsgaard acted alone.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10411",
+        "N-10401"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:20",
+      "investigative_direction": "Pull the docket of the Harvest Christian Fellowship Romania lawsuits and the Erika Kirk–Harvest tour schedule.",
+      "transcript_snippet": "you would partner with a church that is quite literally being sued for the very same reasons. Now, the lawsuit is not over.",
+      "supports_claim_refs": [
+        "C-2087"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-461",
+        "N-462"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4349",
+      "ref": "C-4349",
+      "label": "Emailer says Victor Marx named Greg Laurie as his mentor",
+      "claim": "The host says someone emailed her that Victor Marx has said his mentor was Greg Laurie.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:40:20",
+      "investigative_direction": "Search Victor Marx's interviews and books for statements about Greg Laurie as a mentor.",
+      "transcript_snippet": "And actually someone emailed me and said that Victor Marx said that his like mentor was Greg Laurie.",
+      "mentions_person_refs": [
+        "N-348",
+        "N-461"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4350",
+      "ref": "C-4350",
+      "label": "Dana Loesch said the host is working with Putin and Dugin",
+      "claim": "The host says Dana Loesch said the host could not go to Russia and was working with Putin and Dugin.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:41:37",
+      "investigative_direction": "Locate Loesch's broadcast or post making the statement.",
+      "transcript_snippet": "Which brings us to Dana Lash, the one who just said you can't go to Russia, and Candace is working with Putin and Dugan.",
+      "mentions_person_refs": [
+        "N-673",
+        "N-3",
+        "N-639",
+        "N-662"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4351",
+      "ref": "C-4351",
+      "label": "Dana Loesch recited Bible verses on widows in her summit speech",
+      "claim": "In a clip played by the host, Dana Loesch recites Exodus 22:22 and other verses on afflicting widows at the Turning Point summit. The host calls this part of a \"grift.\"",
+      "anchored_artifacts": [
+        "A-2622.2"
+      ],
+      "related_nodes": [
+        "N-10008",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:28",
+      "investigative_direction": "Obtain the full speech recording from the summit.",
+      "transcript_snippet": "Exodus 22:22, \"You shall not afflict any widow or fatherless child.",
+      "mentions_person_refs": [
+        "N-673"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4352",
+      "ref": "C-4352",
+      "label": "Insiders say TPUSA struggled to draw young women to the summit",
+      "claim": "The host says people inside Turning Point USA told her they were unhappy with how few young women wanted to attend the summit, and that the audience skewed older.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10008",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:21",
+      "investigative_direction": "Obtain registration and attendance figures by age for the 2026 summit against prior years.",
+      "transcript_snippet": "they were not happy with the numbers of young women who did not want to attend what used to be called the Young Women's Leadership Summit.",
+      "mentions_person_refs": [
+        "N-99",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4353",
+      "ref": "C-4353",
+      "label": "Alex Clark announced her engagement on stage at the summit",
+      "claim": "In a clip played by the host, Alex Clark ends a speech on being single by announcing on stage that she is engaged.",
+      "anchored_artifacts": [
+        "A-2622.3"
+      ],
+      "related_nodes": [
+        "N-10008"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:30",
+      "investigative_direction": "Full summit footage.",
+      "transcript_snippet": "Which reminds me, there's one thing I haven't told you guys.",
+      "mentions_person_refs": [
+        "N-99"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4354",
+      "ref": "C-4354",
+      "label": "Female chapter leaders declined to attend; the summit dropped \"Young\" from its name",
+      "claim": "The host says many female TPUSA chapter leaders declined to attend the summit because they dislike Erika Kirk and the organization's direction. She suggests that is why it was renamed the Women's Leadership Summit after ten years as the Young Women's Leadership Summit.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10008",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:49",
+      "investigative_direction": "Compare chapter-leader attendance lists with prior years and date the rebranding decision.",
+      "transcript_snippet": "many of their own chapter leaders declined to make the trip, female chapter leaders, cuz they don't like Erika and they don't like the direction that the organization is taking.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-99"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4355",
+      "ref": "C-4355",
+      "label": "Alex Clark post asked the host \"how did Putin taste?\"",
+      "claim": "The host reads Alex Clark's reply, which says the rename was already in the works, that the host's audience is \"leftists hate watching and Russian bots,\" and asks \"how did Putin taste?\"",
+      "anchored_artifacts": [
+        "A-2623.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:48:33",
+      "investigative_direction": "Archive the original post.",
+      "transcript_snippet": "I'd worry less about ours and more about the fact that yours seems to consist primarily primarily of leftists hate watching and Russian bots.",
+      "mentions_person_refs": [
+        "N-99",
+        "N-3",
+        "N-639"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4356",
+      "ref": "C-4356",
+      "label": "Host alleges TPUSA made secret calls telling partners not to advertise with her",
+      "claim": "The host alleges that Turning Point USA made secret phone calls telling people they could not do ads with her if they wanted to work with TPUSA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:33",
+      "investigative_direction": "Interview sponsors and advertisers who dropped or declined the host's show.",
+      "transcript_snippet": "while making secret phone calls and telling people you you shouldn't uh do ads with Candace, you know, because if you want to work with us, you can't work with Candace.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-99"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4357",
+      "ref": "C-4357",
+      "label": "Charlie Kirk attended Catholic mass, sometimes daily, and was changing his mind on Israel",
+      "claim": "The host repeats that Charlie Kirk was attending Catholic mass, sometimes daily, and was changing his mind about Israel, which she says started Alex Clark's conflict with her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10350",
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:16",
+      "investigative_direction": "Interview parish clergy and Charlie Kirk's associates about his mass attendance and views on Israel in 2025.",
+      "transcript_snippet": "About the fact that Charlie was attending at Catholic mass sometimes daily and that he was changing his mind about Israel.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-99",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4358",
+      "ref": "C-4358",
+      "label": "Alex Clark made calls to get Paleo Valley to drop the host's show",
+      "claim": "The host says Alex Clark made private phone calls demanding that the sponsor Paleo Valley drop the host's show.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10953"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:16",
+      "investigative_direction": "Ask Paleo Valley about any contact from Alex Clark or TPUSA.",
+      "transcript_snippet": "She made private phone calls demanding that we get dropped by our sponsor Paleo Valley.",
+      "mentions_person_refs": [
+        "N-99",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4359",
+      "ref": "C-4359",
+      "label": "Alex Clark claimed credit for prompting Trump's rant against the host",
+      "claim": "The host reads an Alex Clark post saying that she, in the Oval Office, prompted Trump's first rant about the host. The host says this is not true.",
+      "anchored_artifacts": [
+        "A-2623.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:51:07",
+      "investigative_direction": "Check White House visitor logs for Alex Clark and the timing of Trump's posts about the host.",
+      "transcript_snippet": "Guess who prompted Trump's rant on her the first time. Yours truly in the Oval Office.",
+      "mentions_person_refs": [
+        "N-99",
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4360",
+      "ref": "C-4360",
+      "label": "Alex Clark attacked Aubrey's husband and shared private correspondence with Charlie",
+      "claim": "The host says Alex Clark went after Aubrey, who used to work for Andrew Kolvet, by calling her husband weird and sharing a private correspondence with Charlie Kirk, and then posted that he was \"catching strays.\"",
+      "anchored_artifacts": [
+        "A-2623.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:51:07",
+      "investigative_direction": "Archive Alex Clark's posts and the correspondence she shared.",
+      "transcript_snippet": "describing her husband as weird sharing a private correspondence with Charlie just to hurt her",
+      "mentions_person_refs": [
+        "N-99",
+        "N-563",
+        "N-14",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4361",
+      "ref": "C-4361",
+      "label": "Alex Clark is engaged to Vance Voytberg, seven years her junior",
+      "claim": "The host says Alex Clark is engaged to Vance Voytberg, seven years younger, who runs a health blog where he calls readers his \"fellow buttercups.\"",
+      "anchored_artifacts": [
+        "A-2623.5"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:52:41",
+      "investigative_direction": "Public records and the couple's own announcements.",
+      "transcript_snippet": "they learned that she was engaged to a man seven years her junior, um who no person in their right mind would accuse of being masculine, a man named Vance Voytberg",
+      "mentions_person_refs": [
+        "N-99",
+        "N-674"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4362",
+      "ref": "C-4362",
+      "label": "Vance Voytberg works for Alliance Defending Freedom and runs Running on Butter",
+      "claim": "In clips played by the host, Vance Voytberg says he lives in Scottsdale, Arizona, works for Alliance Defending Freedom, and runs the blog Running on Butter.",
+      "anchored_artifacts": [
+        "A-2623.5"
+      ],
+      "related_nodes": [
+        "N-10954"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:38",
+      "investigative_direction": "Check ADF staff listings and the Running on Butter site.",
+      "transcript_snippet": "My name is Vance. I live in Scottsdale, Arizona. Um I'm here working for a Christian legal organization called Alliance Defending Freedom.",
+      "mentions_person_refs": [
+        "N-674"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4363",
+      "ref": "C-4363",
+      "label": "Erika Kirk first raised the appointment video in a November 2025 Megyn Kelly interview",
+      "claim": "The host says Erika Kirk first raised the video in a November 2025 interview with Megyn Kelly. According to the host, Erika said there that Charlie named her CEO at a private event three weeks before his death.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10194",
+        "N-10664"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:43",
+      "investigative_direction": "Retrieve the Megyn Kelly interview and the Aspen event date.",
+      "transcript_snippet": "Erika introduced this video to the public conscience herself back in November of 2025 in an interview with Megan Kelly, claiming that Charlie named her as a CEO at a private event just 3 weeks before his death.",
+      "supports_claim_refs": [
+        "C-2657"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-46",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4364",
+      "ref": "C-4364",
+      "label": "Charlie Kirk said women should prioritize family over career",
+      "claim": "In a supercut played by the host, Charlie Kirk says women should put family and children far above career and find a husband before 25. In one clip he tells a would-be surgeon to spend time with babies before choosing a career.",
+      "anchored_artifacts": [
+        "A-2624.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:56:40",
+      "investigative_direction": "Source each clip in the supercut to its original event and date.",
+      "transcript_snippet": "I think that we've gone wrong here, that women should prioritize family and children way above career. That they should try to find their husband before they're 25.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4365",
+      "ref": "C-4365",
+      "label": "TPUSA first said it withheld the video because people would call it AI",
+      "claim": "The host says Turning Point USA first said it did not want to release the video because people would say it was AI, and she suggests Blake Neff knew something about it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10664"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:14",
+      "investigative_direction": "Locate the original TPUSA statement and its author.",
+      "transcript_snippet": "they at first said that they didn't want to release the video because people would say that it was AI.",
+      "mentions_person_refs": [
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4366",
+      "ref": "C-4366",
+      "label": "Bloody microphone displayed in glass case at Mar-a-Lago fundraiser and AmFest",
+      "claim": "The host says TPUSA displayed the bloody microphone Charlie Kirk held when he died in a glass case for donors at its annual Mar-a-Lago fundraiser, moved it to AmFest, and recreated the tent he died under for selfies.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10376"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:58",
+      "investigative_direction": "Event photos from the Mar-a-Lago fundraiser and AmFest, and the chain of custody of the microphone.",
+      "transcript_snippet": "they put the actual bloody microphone that he was holding when he died in a glass encasement for donors to ooh and aah at at their annual fundraising event at Mar-a-Lago.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4367",
+      "ref": "C-4367",
+      "label": "Erika Kirk used a personal letter from Charlie in a fundraising email",
+      "claim": "The host says Erika Kirk recently included a personal letter Charlie Kirk wrote her in a fundraising email.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:58",
+      "investigative_direction": "Obtain the fundraising email.",
+      "transcript_snippet": "Erika also recently included a personal letter that Charlie wrote her in a fundraising email",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4368",
+      "ref": "C-4368",
+      "label": "TPUSA showed the video only to Daily Mail reporters, citing donor protection",
+      "claim": "The host says TPUSA showed the video exclusively to Daily Mail reporters and told them it was withheld to protect donors. She says that excuse is false because the camera stayed on Charlie Kirk and never showed the audience.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10070",
+        "N-10000",
+        "N-10664"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:43",
+      "investigative_direction": "Retrieve the Daily Mail article and the reporters' description of what they were shown.",
+      "transcript_snippet": "They decided to exclusively show it to some reporters over at the Daily Mail who would in turn act as the arbiter of truth, I suppose.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4369",
+      "ref": "C-4369",
+      "label": "Donors present recall Charlie saying the board would figure it out",
+      "claim": "The host says donors and TPUSA employees who were present say the appointment never happened. According to her, they remember Charlie Kirk answering that the board would figure it out and referring to Steve Jobs trusting his lieutenants.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10584",
+        "N-10437"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:02:31",
+      "investigative_direction": "On-record interviews with the Aspen attendees and the full event recording.",
+      "transcript_snippet": "But they remember Charlie answering and saying that the board would figure it out.",
+      "supports_claim_refs": [
+        "C-2694",
+        "C-2888"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4370",
+      "ref": "C-4370",
+      "label": "Attendees who are Erika fans also do not remember the appointment",
+      "claim": "The host says she asked people who were there and are fans of Erika Kirk, and that they do not remember the appointment and believe the clip was spliced from different points of the event.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10437",
+        "N-10583"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:02:31",
+      "investigative_direction": "Forensic comparison of the released clip with the full Aspen footage.",
+      "transcript_snippet": "They believe that this clip has been doctored from different points at the event.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4371",
+      "ref": "C-4371",
+      "label": "Charlie's Aspen presentation mentioned Erika only once, for Turning Point Faith",
+      "claim": "The host says she has Charlie Kirk's final Aspen presentation, that Erika Kirk was not in the room for part of it, and that his only mention of her was that she helps with Turning Point Faith.",
+      "anchored_artifacts": [
+        "A-2625.1"
+      ],
+      "related_nodes": [
+        "N-10664"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:03:31",
+      "investigative_direction": "Full Aspen presentation recording and attendance record.",
+      "transcript_snippet": "And throughout the entire presentation there was only one mention of Erika in his entire vision that she helps out with Turning Point Faith",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4372",
+      "ref": "C-4372",
+      "label": "Tyler Bowyer was repeatedly called out in Charlie's Aspen presentation",
+      "claim": "The host says Tyler Bowyer sat to Charlie Kirk's left in the Aspen presentation and was called out repeatedly, making him the likelier successor.",
+      "anchored_artifacts": [
+        "A-2625.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:04:20",
+      "investigative_direction": "Full Aspen presentation recording.",
+      "transcript_snippet": "it would have been Tyler Bowyer who is to his left and who he calls out repeatedly throughout this presentation.",
+      "mentions_person_refs": [
+        "N-11",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4373",
+      "ref": "C-4373",
+      "label": "Summit clip contains Charlie saying \"I appoint my wife to run Turning Point USA\"",
+      "claim": "The clip played by the host, presented at the summit as Erika Kirk's walk-out, contains Charlie Kirk saying \"I appoint my wife to run Turning Point USA if something happens to me. Erika would do a great job.\"",
+      "anchored_artifacts": [
+        "A-2625.2"
+      ],
+      "related_nodes": [
+        "N-10664",
+        "N-10008"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:05:07",
+      "investigative_direction": "Obtain the original unedited footage.",
+      "transcript_snippet": "I appoint my wife to run Turning Point USA if something happens to me. Erika would do a great job.",
+      "supports_claim_refs": [
+        "C-2889"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4374",
+      "ref": "C-4374",
+      "label": "Host asserts the appointment clip is doctored",
+      "claim": "The host says she believes the clip is doctored, asking who Charlie is looking at since Erika is not in the audience. She also says TPUSA has never claimed the footage was not doctored.",
+      "anchored_artifacts": [
+        "A-2625.2"
+      ],
+      "related_nodes": [
+        "N-10664",
+        "N-10583"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:05:07",
+      "investigative_direction": "Forensic video analysis of the clip and the full Aspen recording.",
+      "transcript_snippet": "So, I will say definitively that I believe that this clip is doctored. Who is he looking at? Erika's not in the audience.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4375",
+      "ref": "C-4375",
+      "label": "Host emailed TPUSA asking whether the video was doctored or out of context",
+      "claim": "The host reads her email to TPUSA asking it to confirm whether the video is authentic and undoctored, whether Charlie was speaking in jest, and whether it disputes the donors she identified.",
+      "anchored_artifacts": [
+        "A-2626.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:05:58",
+      "investigative_direction": "The email thread and any official TPUSA reply.",
+      "transcript_snippet": "Can you confirm that the video shared is entirely authentic and has not been doctored in any way? A simple yes or no will suffice.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4376",
+      "ref": "C-4376",
+      "label": "Host messaged Kolvet, Streif and TPUSA's lawyer; the reply came from the TPUSA X account",
+      "claim": "The host says she sent her questions to Andrew Kolvet, Justin Streif and TPUSA's lawyer, but the only response came from the TPUSA X account.",
+      "anchored_artifacts": [
+        "A-2626.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:06:42",
+      "investigative_direction": "Message logs and any reply from Kolvet or Streif.",
+      "transcript_snippet": "I messaged Andrew Kolvet, I messaged Justin Streif, and I messaged the lawyer that they use to answer questions.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-15"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4377",
+      "ref": "C-4377",
+      "label": "Kolvet once said an intern runs the TPUSA X account",
+      "claim": "The host says that after a TPUSA X post about Thomas Massie, Andrew Kolvet called to say an intern, not senior staff, runs the TPUSA account.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10538",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:06:42",
+      "investigative_direction": "Locate the Massie–TPUSA exchange and Kolvet's statement about it.",
+      "transcript_snippet": "Andrew Kolvet made a phone call and said, \"Oh, we don't run our TPUSA account. An intern runs that.\"",
+      "mentions_person_refs": [
+        "N-14",
+        "N-593"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4378",
+      "ref": "C-4378",
+      "label": "TPUSA X account says the video is real and Charlie was not kidding",
+      "claim": "The host reads the TPUSA X reply saying the video is real, that the host has known so for seven months, and that \"Charlie wasn't kidding.\"",
+      "anchored_artifacts": [
+        "A-2626.2"
+      ],
+      "related_nodes": [
+        "N-10000",
+        "N-10664"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:07:26",
+      "investigative_direction": "Archive the post and ask TPUSA whether it is an official spokesperson statement.",
+      "transcript_snippet": "Hey, Candace. The video was real as you apparently have known for 7 months.",
+      "contradicts_claim_refs": [
+        "C-4374"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4379",
+      "ref": "C-4379",
+      "label": "Host is seeking clearance to publish the full Aspen video",
+      "claim": "The host says she is waiting for TPUSA to agree that she can publish the full Aspen video, and that she is discussing with her lawyers whether she can release it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10664"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:08:06",
+      "investigative_direction": "Follow whether the full video is released.",
+      "transcript_snippet": "we're waiting for them to respond that it's okay for us to publish the entirety of the Aspen video",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4380",
+      "ref": "C-4380",
+      "label": "TPUSA partnered with AI companies that make after-death videos",
+      "claim": "The host says TPUSA entered relationships with several AI companies that specialize in after-death videos following Charlie Kirk's death.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10664"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:08:58",
+      "investigative_direction": "Identify TPUSA's AI vendor contracts and announcements after September 2025.",
+      "transcript_snippet": "I do think it's very strange that they entered into relationships with all these AI companies following his death who specialize in making after-death videos.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4381",
+      "ref": "C-4381",
+      "label": "Becoming Brigitte series is widely watched in Russia",
+      "claim": "The host says that at interviews after her panel she was asked many questions about her Becoming Brigitte series, and Russians told her they watch the show but are afraid to comment.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:13:42",
+      "investigative_direction": "Viewer analytics by country for the series.",
+      "transcript_snippet": "I had no idea how viral the series went becoming Brigitte in um Russia.",
+      "mentions_person_refs": [
+        "N-82",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4382",
+      "ref": "C-4382",
+      "label": "Host has contacted the Aspen donors and plans to name them",
+      "claim": "The host says she has contacted the donors who asked the question at Aspen, giving one an extra day after texting, and plans to name them and share the full video.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10437"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:17:14",
+      "investigative_direction": "Donor responses, if any are published.",
+      "transcript_snippet": "I'm going to tell you guys who the donors are and I want to share the full video. I want I've reached out to the donors um hoping they can just respond.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4383",
+      "ref": "C-4383",
+      "label": "White House asked the host to narrow her FOIA request on Erika Kirk",
+      "claim": "The host says the White House responded to her FOIA requests by asking her to narrow a request for emails mentioning Erika Kirk across three days. She says she resubmitted it, asking specifically for emails about Erika Kirk and the correspondents' dinner shooting.",
+      "anchored_artifacts": [
+        "A-2627.1"
+      ],
+      "related_nodes": [
+        "N-10700",
+        "N-10637"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:19:14",
+      "investigative_direction": "The FOIA request numbers and agency correspondence.",
+      "transcript_snippet": "Speaking of Erika Kirk, the White House has gotten back to us with our FOIA requests, and they're like, \"We need you to slim it down.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4384",
+      "ref": "C-4384",
+      "label": "Erika Kirk is treated as an \"emotional asset\" and the Department of War was involved in the emails",
+      "claim": "The host says her earlier report on the White House emails was true, that Erika Kirk is considered an \"emotional asset,\" and that the Department of War appears to have been involved in the emails.",
+      "anchored_artifacts": [
+        "A-2627.1"
+      ],
+      "related_nodes": [
+        "N-10923",
+        "N-10888",
+        "N-10700"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:20:03",
+      "investigative_direction": "FOIA production of White House Military Office and White House Communications Agency email from the night of the shooting.",
+      "transcript_snippet": "Obviously, I told you guys the truth, that was real. Uh she's considered an emotional asset, um and that it looks like the Department of War was who was involved with these emails.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-36",
+      "ref": "M-36",
+      "canonical_term": "Play Stupid Games Win Stupid Prizes",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 111,
+          "video_timestamp": "00:51:07",
+          "speaker_node_ref": "N-3",
+          "quote": "o sorry to the boyfriend now fiance for catching strays here. But you play stupid games you win stupid prizes. The truth has to come out. Yeah, she...",
+          "context": "Later reuse of Play Stupid Games Win Stupid Prizes in CKA seq 111.",
+          "confidence": "high",
+          "tags": [
+            "charlie",
+            "proverb",
+            "merch_adjacent",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-56",
+      "ref": "M-56",
+      "canonical_term": "Clown World",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 111,
+          "video_timestamp": "00:07:43",
+          "speaker_node_ref": "N-3",
+          "quote": "lexander Dugin. I don't know what this is other than Cirque du Soleil Clown World. But before we get into why cuz there is a reason why in particul...",
+          "context": "Later reuse of Clown World in CKA seq 111.",
+          "confidence": "high",
+          "tags": [
+            "absurd",
+            "residual",
+            "institution",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-64",
+      "ref": "M-64",
+      "canonical_term": "Audacity of the Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 111,
+          "video_timestamp": "00:17:50",
+          "speaker_node_ref": "N-3",
+          "quote": "Um and anyway, the audacity of the gaslighting I guess sort of became this undercurrent theme which rather neatly threads into Zionism.",
+          "context": "Host ties the VA's treatment of her security staffer to media coverage of her trip.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "gaslight",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-35",
+      "ref": "M-35",
+      "canonical_term": "Rabbit Hole",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 111,
+          "video_timestamp": "00:26:44",
+          "speaker_node_ref": "N-3",
+          "quote": "The rabbit hole you could fall into following and tracing how these diamonds came to America um is quite stunning.",
+          "context": "Host on the Hammer family and Soviet diamond smuggling.",
+          "confidence": "high",
+          "tags": [
+            "research",
+            "history",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-105",
+      "ref": "M-105",
+      "canonical_term": "You Will Know Them by Their Fruits",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 111,
+          "video_timestamp": "00:28:41",
+          "speaker_node_ref": "N-3",
+          "quote": "What is your true inheritance? You will know them by the fruit. That's what the Bible says.",
+          "context": "Host addresses Mark Levin about his family's Russian origins.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "scripture",
+            "running_bit"
+          ]
+        },
+        {
+          "episode": 111,
+          "video_timestamp": "00:31:00",
+          "speaker_node_ref": "N-3",
+          "quote": "They want me to go to prison for going to Russia on a family vacation. You will know them by their fruits.",
+          "context": "Host on calls to investigate her trip.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "scripture",
+            "running_bit"
+          ]
+        },
+        {
+          "episode": 111,
+          "video_timestamp": "01:14:58",
+          "speaker_node_ref": "N-3",
+          "quote": "Like I said though, you will know these commies by their fruits.",
+          "context": "Host in the comments segment on censorship in the US.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "scripture",
+            "running_bit"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-74",
+      "ref": "M-74",
+      "canonical_term": "Believe Your Own Eyes",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 111,
+          "video_timestamp": "00:29:21",
+          "speaker_node_ref": "N-3",
+          "quote": "I want you to go for yourself. I want you to use your own eyes, and I want you to believe your own eyes.",
+          "context": "Host urges viewers to visit Russia themselves.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-37",
+      "ref": "M-37",
+      "canonical_term": "Grifter",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 111,
+          "video_timestamp": "00:39:09",
+          "speaker_node_ref": "N-3",
+          "quote": "This is kind of like the entire new Turning Point grift.",
+          "context": "Host on Erika Kirk's reply to the heckler.",
+          "confidence": "high",
+          "tags": [
+            "grift",
+            "tpusa",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 111,
+          "video_timestamp": "00:40:20",
+          "speaker_node_ref": "N-3",
+          "quote": "Erika being involved with like the bringing really kind of this whole faith grift to Turning Point USA.",
+          "context": "Host on Erika Kirk's faith-tour partnerships.",
+          "confidence": "high",
+          "tags": [
+            "grift",
+            "tpusa",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 111,
+          "video_timestamp": "00:43:13",
+          "speaker_node_ref": "N-3",
+          "quote": "You shall worship the widow. I'm going to keep telling you the widow.",
+          "context": "Host mocks Dana Loesch's string of widow verses.",
+          "confidence": "high",
+          "tags": [
+            "widow",
+            "mockery",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 111,
+          "video_timestamp": "01:21:32",
+          "speaker_node_ref": "N-3",
+          "quote": "So, if you guys could just support me the widow by going to candaceowens. com and buying a stop anti-candaceism mug",
+          "context": "Host parodies the widow framing in her merch plug.",
+          "confidence": "high",
+          "tags": [
+            "widow",
+            "mockery",
+            "merch_adjacent",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 111,
+          "video_timestamp": "00:48:33",
+          "speaker_node_ref": "N-3",
+          "quote": "reversing virtually every position and value that Charlie had while trying to gaslight the public into believing that this really was Charlie's vision.",
+          "context": "Host on Alex Clark as the face of \"Turning Point 2.0.\"",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "tpusa",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 111,
+          "video_timestamp": "00:56:40",
+          "speaker_node_ref": "N-3",
+          "quote": "take a listen to his perspective that they're now gaslighting us over.",
+          "context": "Host introduces the Charlie Kirk supercut on women and careers.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "tpusa",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-106",
+      "ref": "M-106",
+      "canonical_term": "Turning Coat USA",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 111,
+          "video_timestamp": "00:48:33",
+          "speaker_node_ref": "N-3",
+          "quote": "Alex Clark really is a perfect mascot for Turning Point 2.0, better known as Turning Coat USA",
+          "context": "Host's nickname for the post-Charlie Turning Point USA.",
+          "confidence": "high",
+          "tags": [
+            "nickname",
+            "tpusa",
+            "roast"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 111,
+          "video_timestamp": "01:13:42",
+          "speaker_node_ref": "N-3",
+          "quote": "Two Tone Tommy writes, \"If France's president read make him a sandwich, would he fix the first dude a roast beef on a hard roll with extra mayonnaise?\"",
+          "context": "Host reads a viewer comment riffing on the book title and Brigitte Macron.",
+          "confidence": "high",
+          "tags": [
+            "comment",
+            "book",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-23",
+      "ref": "M-23",
+      "canonical_term": "Battle Bun",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 111,
+          "video_timestamp": "01:14:58",
+          "speaker_node_ref": "N-3",
+          "quote": "Jess Happy writes, \"Welcome back. You are glowing and your battle bun is fire.",
+          "context": "Host reads a viewer comment on her hairstyle.",
+          "confidence": "high",
+          "tags": [
+            "comment",
+            "look",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-95",
+      "ref": "M-95",
+      "canonical_term": "Emotional Response Asset",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 111,
+          "video_timestamp": "01:20:03",
+          "speaker_node_ref": "N-3",
+          "quote": "Uh she's considered an emotional asset, um and that it looks like the Department of War was who was involved with these emails.",
+          "context": "Host repeats her earlier framing of Erika Kirk from the White House email story.",
+          "confidence": "medium",
+          "tags": [
+            "catchphrase",
+            "erika_kirk",
+            "psyop",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-107",
+      "ref": "M-107",
+      "canonical_term": "Stop Anti-Candaceism",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 111,
+          "video_timestamp": "01:20:38",
+          "speaker_node_ref": "N-3",
+          "quote": "We decided for 6 million we have to demand that they stop anti-candaceism. It's an ill. It's just It's a hate that mutates.",
+          "context": "Host parodies antisemitism rhetoric with a new merch mug and plays the victim.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "parody",
+            "comedy"
+          ]
+        }
+      ]
+    }
+  ]
 }

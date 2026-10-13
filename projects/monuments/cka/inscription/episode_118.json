@@ -7,13 +7,13 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
-    "extraction_timestamp": "2026-09-27T20:00:00Z",
-    "model_version": "MiniMax-M2.5",
+    "video_timestamp_range": "00:00:00–00:54:59",
+    "extraction_timestamp": "2026-10-13T21:47:03Z",
+    "model_version": "claude-manual-extract-seq118",
     "transcript_sha256": "34410b87b3905bed4aa35f76bd6e73c4fd1f749747c3c02fc87512e448bd6163",
-    "analysis_date": "2026-09-27"
+    "analysis_date": "2026-10-13"
   },
-  "executive_summary": "Ep 118 advances Epstein reemergence thesis. Candace links Erika Kirk to Next Model Management (Faith Kates, close Epstein friend). Displays DoD org chart placing Stephen Feinberg (Cerberus/DynCorp owner) above Bradley Hantel. Details DynCorp Bosnia trafficking via Bolkovac book. Reads Ratajkowski's The Cut essay excerpt to critique. Comments include Anna's Epstein genealogy claim and Ukraine ministry concerns.",
+  "executive_summary": "The host opens with a New York Times report that the Trump administration met in the White House Situation Room to plan its public handling of the Epstein files (A-2691.1). She repeats her earlier report that, the day before the files were released, Andrew Kolvet was at the White House executive office building. She says that at the same time he passed off a pre-recorded Charlie Kirk Show episode with Kash Patel as live from Arizona. She corrects a remark from the previous episode: Charlie and Erika Kirk's first date in August 2018 coincided with the Epstein scandal first breaking, not with Epstein's death. She then restates that Erika Kirk spent time at the offices of Next Model Management, which she describes as run by close Epstein friend Faith Kates. According to the host, former workers there alleged that Erika was the point of contact for the model apartment. She argues that Turning Point USA should explain this connection, since Erika now speaks at high schools.\n\nThe host returns to the SAM 702 flight that stopped in Tucson and stayed overnight at Fort Huachuca on September 8, 2025. She says it was organized by the office of Under Secretary of Defense for Intelligence Bradley Hansel, and that her FOIA request was put at number 3,500 under a burden exception (A-2692.1). Showing a Department of Defense org chart (A-2693.1), she corrects her earlier statement that Hansel reports directly to Pete Hegseth: Deputy Secretary Stephen Feinberg sits between them. She describes Feinberg as the wealthiest member of the administration and co-founder of Cerberus Capital Management. She says Cerberus owned the private military contractor DynCorp from 2010 to 2020. Using Blackwater as a comparison, she recounts the DynCorp Bosnia sex-trafficking scandal exposed by investigator Kathryn Bolkovac, drawing on Bolkovac's book (A-2694.1). She also says Department of War offices orchestrated messaging to boost Erika Kirk after the White House Correspondents' Dinner shooting. She adds that Mikey McCoy's wife Elizabeth (Kravchuk) McCoy comes from a Ukrainian family whose ministry rescues orphans in Ukraine (A-2695.1).\n\nIn the second segment the host criticizes Emily Ratajkowski's essay \"Mother Effer\" in The Cut and reads several excerpts aloud (A-2522.1). In the comments segment she says the FBI denied a FOIA request for three days of someone's schedule. She also calls the theory that an explosive went off under Charlie Kirk's chest \"very viable.\" She places the New York Times account early in the Trump administration, and she affirms a viewer's claim about the birthplaces of Jeffrey Epstein's grandparents (A-2696).",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -40,27 +40,2207 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2691",
+      "family_ref": "A-2691",
+      "bundle_name": "New York Times Epstein Files Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2691.1",
+          "ref": "A-2691.1",
+          "description": "Host verbal reference to the New York Times article on the Trump administration's Situation Room strategy over the Epstein files (not shown)",
+          "related_claims": [
+            "C-4722",
+            "C-4733",
+            "C-4755",
+            "C-4769"
+          ],
+          "related_nodes": [
+            "N-5",
+            "N-85",
+            "N-388",
+            "N-10324"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:00:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2692",
+      "family_ref": "A-2692",
+      "bundle_name": "FOIA Responses Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2692.1",
+          "ref": "A-2692.1",
+          "description": "Host verbal reference to the response to her FOIA request on the SAM 702 flight, placing it at number 3,500 under a \"heavy burden exception\" (not shown)",
+          "related_claims": [
+            "C-4740"
+          ],
+          "related_nodes": [
+            "N-443",
+            "N-10671",
+            "N-10700",
+            "N-10888"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:11:06",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2692.2",
+          "ref": "A-2692.2",
+          "description": "Host verbal reference to the FBI's denial of her request for three days of someone's schedule as too complicated (not shown)",
+          "related_claims": [
+            "C-4765"
+          ],
+          "related_nodes": [
+            "N-69",
+            "N-10014",
+            "N-10700"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:43:47",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2693",
+      "family_ref": "A-2693",
+      "bundle_name": "Department of Defense Org Chart Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2693.1",
+          "ref": "A-2693.1",
+          "description": "Department of Defense (Department of War) organizational chart with faces added for Pete Hegseth, Stephen Feinberg and Bradley Hansel (shown)",
+          "related_claims": [
+            "C-4741",
+            "C-4742"
+          ],
+          "related_nodes": [
+            "N-605",
+            "N-707",
+            "N-443",
+            "N-10888"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:11:06",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2694",
+      "family_ref": "A-2694",
+      "bundle_name": "Kathryn Bolkovac Book Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2694.1",
+          "ref": "A-2694.1",
+          "description": "Host verbal reference to the book by DynCorp whistleblower Kathryn Bolkovac, which she says she downloaded and speed-read (not shown)",
+          "related_claims": [
+            "C-4749",
+            "C-4750",
+            "C-4751"
+          ],
+          "related_nodes": [
+            "N-710",
+            "N-711",
+            "N-10993",
+            "N-10995"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:18:41",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2695",
+      "family_ref": "A-2695",
+      "bundle_name": "Good Call Ministries Website Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2695.1",
+          "ref": "A-2695.1",
+          "description": "Website of The Good Call Ministries Rescue Operations, Ukraine relief page (shown)",
+          "related_claims": [
+            "C-4759",
+            "C-4761"
+          ],
+          "related_nodes": [
+            "N-221",
+            "N-10996"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:27:04",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2696",
+      "family_ref": "A-2696",
+      "bundle_name": "Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2696.1",
+          "ref": "A-2696.1",
+          "description": "YouTube comment by Gnome 2024 on Ukraine orphan ministries (read aloud)",
+          "related_claims": [
+            "C-4759"
+          ],
+          "related_nodes": [
+            "N-10996"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:27:47",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2696.2",
+          "ref": "A-2696.2",
+          "description": "Viewer comment by James the least on the White House Epstein files \"crash out\" (read aloud)",
+          "related_claims": [
+            "C-4769"
+          ],
+          "related_nodes": [
+            "N-5",
+            "N-36"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:48:32",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2696.3",
+          "ref": "A-2696.3",
+          "description": "Viewer comment by Anna on Jeffrey Epstein's grandparents (read aloud)",
+          "related_claims": [
+            "C-4770"
+          ],
+          "related_nodes": [
+            "N-9"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:49:17",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "His first date with Erika Kirk is dated against the Epstein scandal; the host discusses Trump's calls to him over Epstein, his trust in those around him and the explosive theory.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4724",
+        "C-4725",
+        "C-4733",
+        "C-4734",
+        "C-4766",
+        "C-4767",
+        "C-4768"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the Next Model Management questions, the Fort Huachuca sighting, the alibi dispute and the alleged Department of War amplification campaign.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4725",
+        "C-4728",
+        "C-4729",
+        "C-4731",
+        "C-4738",
+        "C-4739",
+        "C-4758",
+        "C-4767",
+        "C-4768"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
     {
       "@type": "Person",
       "@id": "N-3",
       "ref": "N-3",
       "name": "Candace Owens",
       "type": "person",
-      "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
+      "description": "Host; corrects two of her own earlier statements and reads the Ratajkowski article.",
+      "related_artifacts": [
+        "A-2522.1"
+      ],
+      "related_claims": [
+        "C-3753"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "His Situation Room meeting on the Epstein files, his Epstein relationship, his calls to Charlie Kirk and his pardon of the Blackwater guards are discussed.",
+      "related_artifacts": [
+        "A-2691.1",
+        "A-2696.2"
+      ],
+      "related_claims": [
+        "C-4722",
+        "C-4727",
+        "C-4732",
+        "C-4733",
+        "C-4742",
+        "C-4745",
+        "C-4746",
+        "C-4747",
+        "C-4755",
+        "C-4757",
+        "C-4769"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 11,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Central figure; the host argues his network re-emerged around the Charlie Kirk story.",
+      "related_artifacts": [
+        "A-2696.3"
+      ],
+      "related_claims": [
+        "C-4722",
+        "C-4723",
+        "C-4725",
+        "C-4726",
+        "C-4727",
+        "C-4728",
+        "C-4729",
+        "C-4730",
+        "C-4732",
+        "C-4770"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-11",
+      "ref": "N-11",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "Named by the host as someone whose life she did not know about while working at TPUSA.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-4767"
+      ],
       "tags": [],
       "evidence_count": 0,
-      "claim_count": 0,
+      "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "low",
-      "related_nodes": []
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Transcript spellings \"Andrew Kolbe\", \"Andrew Kolb\" and \"Andrew Kobach\". Said to have been at the White House executive office building while airing a pre-recorded show, and named in the alibi dispute.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4723",
+        "C-4724",
+        "C-4739"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-28",
+      "ref": "N-28",
+      "name": "Mitt Romney",
+      "type": "person",
+      "description": "Named as having become friends with Netanyahu at the Boston Consulting Group.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4736"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Transcript \"Bibi Netanyahu\"; named in the Boston Consulting Group link and as \"BB\" in a viewer comment.",
+      "related_artifacts": [
+        "A-2696.2"
+      ],
+      "related_claims": [
+        "C-4736"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-47",
+      "ref": "N-47",
+      "name": "Ghislaine Maxwell",
+      "type": "person",
+      "description": "Party to the defamation lawsuit whose unsealing the host says began the 2018 Epstein exposure.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4725",
+        "C-4726"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Guest on the pre-recorded Charlie Kirk Show episode; the host criticizes the FBI under him for denying her FOIA request.",
+      "related_artifacts": [
+        "A-2692.2"
+      ],
+      "related_claims": [
+        "C-4724",
+        "C-4765"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-85",
+      "ref": "N-85",
+      "name": "Pam Bondi",
+      "type": "person",
+      "description": "Named for the \"binder episode\" and as no longer in the White House.",
+      "related_artifacts": [
+        "A-2691.1"
+      ],
+      "related_claims": [
+        "C-4722",
+        "C-4769"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Transcript \"Mikey McCormick\"; named as Elizabeth Kravchuk's husband.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4759"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-221",
+      "ref": "N-221",
+      "name": "Eliza McCoy",
+      "type": "person",
+      "description": "Transcript \"Elizabeth Kravchuk\". The host says she is a wealthy Ukrainian whose family ministry rescues orphans in Ukraine.",
+      "related_artifacts": [
+        "A-2695.1"
+      ],
+      "related_claims": [
+        "C-4759",
+        "C-4760",
+        "C-4761"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Mitch Snow believes he saw him at the Fort Huachuca meeting; the host says he has not given a clear alibi.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4737",
+        "C-4739"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-369",
+      "ref": "N-369",
+      "name": "Mitch Snow",
+      "type": "person",
+      "description": "Fort Huachuca eyewitness whose sightings of Harpole and Erika Kirk are restated.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4734",
+        "C-4737",
+        "C-4738"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-388",
+      "ref": "N-388",
+      "name": "Dan Bongino",
+      "type": "person",
+      "description": "The host believes he was an obvious source for the New York Times article.",
+      "related_artifacts": [
+        "A-2691.1"
+      ],
+      "related_claims": [
+        "C-4755"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-443",
+      "ref": "N-443",
+      "name": "Bradley Hansell",
+      "type": "person",
+      "description": "Transcript \"Bradley Hantel\", \"Bradley Hansel\" and \"Bradley Hansell\". Under Secretary of Defense for Intelligence whose office the host says organized SAM 702.",
+      "related_artifacts": [
+        "A-2692.1",
+        "A-2693.1"
+      ],
+      "related_claims": [
+        "C-4735",
+        "C-4736",
+        "C-4738",
+        "C-4740",
+        "C-4741",
+        "C-4756",
+        "C-4758"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-582",
+      "ref": "N-582",
+      "name": "Faith Kates",
+      "type": "person",
+      "description": "Described as a close Epstein friend who ran Next Model Management and supported him after his 2009 arrest.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4728",
+        "C-4730"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-605",
+      "ref": "N-605",
+      "name": "Pete Hegseth",
+      "type": "person",
+      "description": "Secretary of Defense (War) at the top of the org chart; the host mentions rumors that he might be fired.",
+      "related_artifacts": [
+        "A-2693.1"
+      ],
+      "related_claims": [
+        "C-4740",
+        "C-4741",
+        "C-4758"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "The host says Erika Kirk reaches high schools through its chapters and that it should answer the Next Model Management question.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4731",
+        "C-4758"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10014",
+      "ref": "N-10014",
+      "name": "Federal Bureau of Investigation",
+      "type": "investigation_target",
+      "description": "The host says it denied her request for three days of someone's schedule.",
+      "related_artifacts": [
+        "A-2692.2"
+      ],
+      "related_claims": [
+        "C-4765"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10075",
+      "ref": "N-10075",
+      "name": "White House",
+      "type": "investigation_target",
+      "description": "Site of the Situation Room meeting and of Kolvet's reported visit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4722",
+        "C-4723"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10085",
+      "ref": "N-10085",
+      "name": "Exit Wound / Bullet Trajectory Discrepancy",
+      "type": "investigation_target",
+      "description": "The host's explosive-under-the-chest theory, based on how Charlie Kirk's body moved.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4766"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10202",
+      "ref": "N-10202",
+      "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
+      "type": "investigation_target",
+      "description": "The host criticizes the FBI's handling of her FOIA request.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4765"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10324",
+      "ref": "N-10324",
+      "name": "Epstein Files Release Status",
+      "type": "investigation_target",
+      "description": "The administration's handling and partial release of the Epstein files.",
+      "related_artifacts": [
+        "A-2691.1"
+      ],
+      "related_claims": [
+        "C-4722",
+        "C-4723",
+        "C-4725",
+        "C-4733",
+        "C-4755"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10367",
+      "ref": "N-10367",
+      "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+      "type": "investigation_target",
+      "description": "Mitch Snow's lobby sighting is restated.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4738"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10370",
+      "ref": "N-10370",
+      "name": "Fort Huachuca Morning Meeting Investigation",
+      "type": "investigation_target",
+      "description": "The meeting Mitch Snow says he stumbled on.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4737"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10373",
+      "ref": "N-10373",
+      "name": "Brian Harpole Fort Huachuca Presence Verification",
+      "type": "investigation_target",
+      "description": "Mitch Snow believes he saw Harpole at the meeting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4737"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10401",
+      "ref": "N-10401",
+      "name": "Romania / Eastern Europe Trafficking Cluster",
+      "type": "investigation_target",
+      "description": "Eastern European trafficking in the Epstein and DynCorp accounts.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4727",
+        "C-4751"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10417",
+      "ref": "N-10417",
+      "name": "Fort Huachuca Erika Presence Investigation",
+      "type": "investigation_target",
+      "description": "Mitch Snow's identification of Erika Kirk by her eyes.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4738"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10472",
+      "ref": "N-10472",
+      "name": "Fort Huachuca Alibi Investigation",
+      "type": "investigation_target",
+      "description": "The host says no clear alibis have been provided.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4739"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10519",
+      "ref": "N-10519",
+      "name": "Erika Kirk Next Model Management Involvement",
+      "type": "investigation_target",
+      "description": "Erika Kirk's presence at the Next Model Management offices.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4728",
+        "C-4729"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10524",
+      "ref": "N-10524",
+      "name": "Faith Kates – Epstein Relationship Scope",
+      "type": "investigation_target",
+      "description": "Kates' support of Epstein after 2009.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4730"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10532",
+      "ref": "N-10532",
+      "name": "Next Model Management / Erica Kirk Connection",
+      "type": "investigation_target",
+      "description": "The host's call for Turning Point USA to address the connection.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4728"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10574",
+      "ref": "N-10574",
+      "name": "Romney–Netanyahu–Utah Connection Network",
+      "type": "investigation_target",
+      "description": "The Boston Consulting Group link is restated.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4736"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10586",
+      "ref": "N-10586",
+      "name": "Pam Bondi Dismissal Context Question",
+      "type": "investigation_target",
+      "description": "Bondi is no longer in the White House.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4769"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10671",
+      "ref": "N-10671",
+      "name": "SAM702 / Fort Huachuca September 9 Passenger Manifest",
+      "type": "investigation_target",
+      "description": "The SAM 702 flight route and the FOIA request on it.",
+      "related_artifacts": [
+        "A-2692.1"
+      ],
+      "related_claims": [
+        "C-4734",
+        "C-4735",
+        "C-4740"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10698",
+      "ref": "N-10698",
+      "name": "Next Model Management / MC2 Trafficking Connection to Erica Kirk",
+      "type": "investigation_target",
+      "description": "Workers' allegation that Erika Kirk was the point of contact for the model apartment.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4729"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10700",
+      "ref": "N-10700",
+      "name": "Pending FOIA Requests",
+      "type": "investigation_target",
+      "description": "The host's FOIA requests to the Department of War and FBI.",
+      "related_artifacts": [
+        "A-2692.1",
+        "A-2692.2"
+      ],
+      "related_claims": [
+        "C-4740",
+        "C-4757",
+        "C-4765"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10701",
+      "ref": "N-10701",
+      "name": "Andrew Kolbenschlag EEOB Presence / Kash Patel Connection",
+      "type": "investigation_target",
+      "description": "Kolvet's executive office building visit and the pre-recorded Kash Patel show.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4723",
+        "C-4724"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10871",
+      "ref": "N-10871",
+      "name": "Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Why Refi)",
+      "type": "investigation_target",
+      "description": "The Situation Room meeting on the Epstein files.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4722"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10888",
+      "ref": "N-10888",
+      "name": "Department of War",
+      "type": "investigation_target",
+      "description": "Organization whose org chart, intelligence office and alleged messaging campaign are discussed.",
+      "related_artifacts": [
+        "A-2692.1",
+        "A-2693.1"
+      ],
+      "related_claims": [
+        "C-4735",
+        "C-4740",
+        "C-4741",
+        "C-4742",
+        "C-4758"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10899",
+      "ref": "N-10899",
+      "name": "Paramount Tactical Valhalla",
+      "type": "investigation_target",
+      "description": "Transcript \"Paramount not so Tactical\"; said that the alibi photo children were not Erika Kirk's.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4739"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-706",
+      "ref": "N-706",
+      "name": "Virginia Giuffre",
+      "type": "person",
+      "description": "First named by the host at 00:02:29 in episode 118 (as \"Virginia\"; full name at 00:06:38). Party to the defamation lawsuit with Ghislaine Maxwell; Trump says he employed her at Mar-a-Lago.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4725",
+        "C-4726",
+        "C-4732"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-707",
+      "ref": "N-707",
+      "name": "Stephen Feinberg",
+      "type": "person",
+      "description": "First named by the host at 00:11:06 in episode 118. Aliases: Steven Feinberg. Deputy Secretary of Defense, co-founder of Cerberus Capital Management.",
+      "related_artifacts": [
+        "A-2693.1"
+      ],
+      "related_claims": [
+        "C-4741",
+        "C-4742",
+        "C-4743",
+        "C-4747",
+        "C-4754",
+        "C-4756",
+        "C-4758"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-708",
+      "ref": "N-708",
+      "name": "Betsy DeVos",
+      "type": "person",
+      "description": "First named by the host at 00:16:00 in episode 118. Trump's first-term Secretary of Education and sister of Erik Prince.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4746"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-709",
+      "ref": "N-709",
+      "name": "Erik Prince",
+      "type": "person",
+      "description": "First named by the host at 00:16:00 in episode 118. Founder of Blackwater.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4746"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-710",
+      "ref": "N-710",
+      "name": "Kathryn Bolkovac",
+      "type": "person",
+      "description": "First named by the host at 00:17:45 in episode 118. Aliases: Catherine Bolkovac. DynCorp investigator in Bosnia who exposed the trafficking scandal.",
+      "related_artifacts": [
+        "A-2694.1"
+      ],
+      "related_claims": [
+        "C-4749",
+        "C-4750",
+        "C-4751",
+        "C-4753",
+        "C-4754"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-711",
+      "ref": "N-711",
+      "name": "Ben Johnston",
+      "type": "person",
+      "description": "First named by the host at 00:18:41 in episode 118. DynCorp employee who filed similar reports and was fired.",
+      "related_artifacts": [
+        "A-2694.1"
+      ],
+      "related_claims": [
+        "C-4750"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-712",
+      "ref": "N-712",
+      "name": "Emily Ratajkowski",
+      "type": "person",
+      "description": "First named by the host at 00:33:21 in episode 118. Author of the essay \"Mother Effer\" in The Cut.",
+      "related_artifacts": [
+        "A-2522.1"
+      ],
+      "related_claims": [
+        "C-4762",
+        "C-4763",
+        "C-4764"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10992",
+      "ref": "N-10992",
+      "name": "Cerberus Capital Management",
+      "type": "organization",
+      "description": "Private investment firm the host says Stephen Feinberg co-founded in 1992, with about 70 billion in assets under management. She says it bought DynCorp in 2010 and owned it for ten years, and that Feinberg says he has divested from it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4743",
+        "C-4747",
+        "C-4754",
+        "C-4756"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-707",
+        "N-10993"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10993",
+      "ref": "N-10993",
+      "name": "DynCorp",
+      "type": "organization",
+      "description": "Private military contractor the host says was owned by Cerberus Capital Management from 2010 to 2020. She ties it to the 1990s Bosnia sex-trafficking scandal exposed by Kathryn Bolkovac.",
+      "related_artifacts": [
+        "A-2694.1"
+      ],
+      "related_claims": [
+        "C-4747",
+        "C-4748",
+        "C-4749",
+        "C-4750",
+        "C-4752",
+        "C-4753",
+        "C-4754"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-10992",
+        "N-10995"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10994",
+      "ref": "N-10994",
+      "name": "Blackwater",
+      "type": "organization",
+      "description": "Private military company founded by Erik Prince. The host uses it to illustrate the private military business, citing $2 billion in government contracts from 1997 to 2010 and the Iraq convoy shooting whose convicted guards Trump pardoned.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4744",
+        "C-4745",
+        "C-4746"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-709"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10995",
+      "ref": "N-10995",
+      "name": "DynCorp Bosnia Sex-Trafficking Scandal",
+      "type": "topic",
+      "description": "Investigation target: the 1990s scandal, exposed in the early 2000s and made into a 2010 film, in which DynCorp employees serving with the UN International Police Task Force in Bosnia were accused of buying underage women and facilitating sex trafficking. The host says victims came from Ukraine, Croatia, Bosnia and Romania, that whistleblowers Kathryn Bolkovac and Ben Johnston were fired, and that contractors were shielded by immunity.",
+      "related_artifacts": [
+        "A-2694.1"
+      ],
+      "related_claims": [
+        "C-4748",
+        "C-4749",
+        "C-4750",
+        "C-4751",
+        "C-4752",
+        "C-4753"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-710",
+        "N-711",
+        "N-10993"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10923",
+      "ref": "N-10923",
+      "name": "White House Military Office Erika Kirk Amplification Email",
+      "type": "topic",
+      "description": "Investigation target: the communication the host says listed Erika Kirk as an \"emotional asset\" after the White House Correspondents' Dinner shooting. In this episode she says the Department of War office headed by Hegseth, Feinberg and Hansel orchestrated messaging to make Erika the number one trend by morning.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4758"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2",
+        "N-443",
+        "N-707"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10996",
+      "ref": "N-10996",
+      "name": "Good Call Ministries",
+      "type": "organization",
+      "description": "Ministry, shown on air as \"The Good Call Ministries Rescue Operations,\" that the host says belongs to the family of Elizabeth (Kravchuk) McCoy and rescues orphans in Ukraine.",
+      "related_artifacts": [
+        "A-2695.1",
+        "A-2696.1"
+      ],
+      "related_claims": [
+        "C-4759",
+        "C-4760",
+        "C-4761"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-221"
+      ]
     }
   ],
   "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-4722",
+      "ref": "C-4722",
+      "label": "New York Times reports Trump met top officials in the Situation Room over the Epstein files",
+      "claim": "Citing the New York Times, the host says Trump met his top officials in the White House Situation Room to work out a public plan for the Epstein files.",
+      "anchored_artifacts": [
+        "A-2691.1"
+      ],
+      "related_nodes": [
+        "N-10324",
+        "N-10871",
+        "N-10075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Retrieve the New York Times article and any official account of Situation Room meetings on the Epstein files.",
+      "transcript_snippet": "So much so that Trump decided to meet with his top officials in the situation room to work through a public plan.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-85",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4723",
+      "ref": "C-4723",
+      "label": "Kolvet was at the White House executive office building the day before the Epstein files release",
+      "claim": "The host repeats her earlier report that, the day before the administration released the Epstein files, Andrew Kolvet was seen at the White House executive office building.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10701",
+        "N-10075",
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:49",
+      "investigative_direction": "White House and EEOB visitor logs for the day before the Epstein files release.",
+      "transcript_snippet": "But the day before Andrew Kolbe was mysteriously seen at the White House, particularly in the executive office building.",
+      "supports_claim_refs": [
+        "C-2422"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4724",
+      "ref": "C-4724",
+      "label": "Kolvet pre-recorded a Charlie Kirk Show episode with Kash Patel to appear to be in Arizona",
+      "claim": "The host says Kolvet pre-recorded a Charlie Kirk Show episode with Kash Patel as guest and presented it as though he were live in Arizona.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10701"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:49",
+      "investigative_direction": "Charlie Kirk Show production records and broadcast metadata for that episode.",
+      "transcript_snippet": "What I mean is essentially he pre-recorded a Charlie Kirk show with episode with Kash Patel as his guest.",
+      "supports_claim_refs": [
+        "C-2421"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-69",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4725",
+      "ref": "C-4725",
+      "label": "Charlie and Erika Kirk's first date in August 2018 coincided with the Epstein scandal breaking",
+      "claim": "Correcting her previous episode, the host says that Charlie and Erika Kirk's first date in August 2018, not Epstein's death, coincided with the Epstein scandal first breaking. She says that was when the Maxwell–Giuffre defamation lawsuit was unsealed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:29",
+      "investigative_direction": "Kirk wedding and dating accounts versus the court docket for the unsealing of Giuffre v. Maxwell.",
+      "transcript_snippet": "It was rather when when Charlie and Erika went on their first date in August of 2018 of 2018, that was the exact same timeframe when the Epstein scandal initially broke out, right?",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-9",
+        "N-47",
+        "N-706"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4726",
+      "ref": "C-4726",
+      "label": "Miami Herald Epstein exposé was published in November 2018",
+      "claim": "The host says the Maxwell–Giuffre lawsuit led to a major Miami Herald exposé on Epstein and his plea deal, published in November 2018.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:41",
+      "investigative_direction": "Miami Herald \"Perversion of Justice\" publication date.",
+      "transcript_snippet": "It was like the a big brewing of a storm, and then the piece dropped in November of 2018.",
+      "mentions_person_refs": [
+        "N-9",
+        "N-47",
+        "N-706"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4727",
+      "ref": "C-4727",
+      "label": "Epstein's trafficking network was embedded in pageantry and modeling",
+      "claim": "The host says Epstein's trafficking network was deeply embedded in pageants and modeling, funneling impoverished Eastern European minors into modeling agencies and Victoria's Secret runways. She notes that Trump ran Miss Universe when he knew Epstein.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10401"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:41",
+      "investigative_direction": "Court records and reporting on Epstein's links to modeling agencies and Victoria's Secret.",
+      "transcript_snippet": "Jeffrey Epstein's trafficking network was once deeply embedded in the pageantry and modeling world.",
+      "mentions_person_refs": [
+        "N-9",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4728",
+      "ref": "C-4728",
+      "label": "Erika Kirk spent time at Next Model Management, run by Epstein friend Faith Kates",
+      "claim": "The host says that while living in New York, Erika Kirk spent time at the offices of Next Model Management, a talent agency she says was run by close Epstein friend Faith Kates.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10519",
+        "N-10532"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:03",
+      "investigative_direction": "Next Model Management staff records and the host's sources for Erika's presence there.",
+      "transcript_snippet": "we discovered she was hanging around at the Next Model Management offices, which was a talent agency that was run by close Jeffrey Epstein friend Faith Kates",
+      "mentions_person_refs": [
+        "N-2",
+        "N-582",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4729",
+      "ref": "C-4729",
+      "label": "Former Next workers allege Erika Kirk was point of contact for the model apartment",
+      "claim": "According to the host, people who worked at Next Model Management alleged that Erika was the point of contact for the model apartment. She says they found this suspicious because Epstein was often at their offices.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10698",
+        "N-10519"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:03",
+      "investigative_direction": "Interviews with the former Next Model Management workers; model apartment lease records.",
+      "transcript_snippet": "the people who worked there alleged that Erika was the point of contact for the model apartment and they find it to be suspicious because Jeffrey Epstein was often at their offices.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4730",
+      "ref": "C-4730",
+      "label": "Faith Kates supported Epstein after his 2009 arrest",
+      "claim": "The host says Faith Kates never turned her back on Epstein and supported him after his 2009 arrest. She adds that many Eastern European models who passed through Kates' office were later flown to parties in the Virgin Islands.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10524"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:53",
+      "investigative_direction": "Epstein estate emails and flight records involving Kates and Next models.",
+      "transcript_snippet": "Faith Kates, I should mention, never turned her back on Jeffrey Epstein. She supported him even after that 2009 arrest.",
+      "mentions_person_refs": [
+        "N-582",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4731",
+      "ref": "C-4731",
+      "label": "Erika Kirk speaks at high schools through Turning Point USA chapters",
+      "claim": "The host says Erika Kirk now has access to American high school students through Turning Point USA's high school chapters and is speaking at high schools across the country.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:38",
+      "investigative_direction": "TPUSA high school chapter program and Erika Kirk's school speaking schedule.",
+      "transcript_snippet": "Erika Kirk now has access to American high school students via Turning Points USA Club of America.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4732",
+      "ref": "C-4732",
+      "label": "Trump and Epstein fell out over a real estate deal",
+      "claim": "The host says Trump has said he employed Virginia Giuffre at Mar-a-Lago and kicked Epstein out, but she believes their disagreement was actually over a real estate deal.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:06:38",
+      "investigative_direction": "Reporting on the Trump–Epstein bidding dispute over the Palm Beach Maison de L'Amitié property.",
+      "transcript_snippet": "Truly, I think the reason that they um had disagreement, it was actually over a real estate deal.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-9",
+        "N-706"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4733",
+      "ref": "C-4733",
+      "label": "Trump called Charlie Kirk upset about criticism of the Epstein network",
+      "claim": "The host says it has emerged that Trump called Charlie Kirk, upset that Kirk was letting people criticize the Epstein network and demand clarity.",
+      "anchored_artifacts": [
+        "A-2691.1"
+      ],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:45",
+      "investigative_direction": "The New York Times account and Charlie Kirk Show staff on Trump's calls to Kirk about Epstein.",
+      "transcript_snippet": "And then we learn that he's calling Charlie Kirk. Right? He's and upset about Charlie Kirk allowing people to roast the Epstein network, demanding clarity.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4734",
+      "ref": "C-4734",
+      "label": "SAM 702 stopped in Tucson for about 4 hours on September 8 before overnighting at Fort Huachuca",
+      "claim": "The host says the SAM 702 plane flew to Tucson on September 8, two days before the assassination, and stayed there about four hours. She says it then flew to Fort Huachuca, stayed overnight, and left for El Paso mid-morning on September 9.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10671"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:29",
+      "investigative_direction": "ADS-B flight data and Air Force mission records for SAM 702 on September 8–9, 2025.",
+      "transcript_snippet": "the plane that flew to Tucson, Arizona on September 8th, 2 days before Charlie's assassination, landed and hung out in Tucson for about 4 hours before it carried on to the Intel base in Fort Huachuca, Arizona, where it stayed overnight.",
+      "mentions_person_refs": [
+        "N-369",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4735",
+      "ref": "C-4735",
+      "label": "Bradley Hansel's office organized the SAM 702 flight",
+      "claim": "The host says the office that organized the SAM 702 flight was that of the Under Secretary of Defense for Intelligence, Bradley Hansel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10671",
+        "N-10888"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:29",
+      "investigative_direction": "Department of War travel and mission-request records for SAM 702.",
+      "transcript_snippet": "Now, the person whose office organized that plane is the Under Secretary of Defense for Intelligence, a man named Bradley Hantel.",
+      "supports_claim_refs": [
+        "C-2909"
+      ],
+      "mentions_person_refs": [
+        "N-443"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4736",
+      "ref": "C-4736",
+      "label": "Hansel worked at the Boston Consulting Group, where Romney and Netanyahu became friends",
+      "claim": "The host repeats that Bradley Hansel worked for the Boston Consulting Group, where she says Mitt Romney and Benjamin Netanyahu became best friends.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10574"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:29",
+      "investigative_direction": "Hansel's official biography and BCG employment records.",
+      "transcript_snippet": "about how he used to work for the Boston Consulting Group, where Mitt Romney and Bibi Netanyahu became best friends over there.",
+      "supports_claim_refs": [
+        "C-2913",
+        "C-2930"
+      ],
+      "mentions_person_refs": [
+        "N-443",
+        "N-28",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4737",
+      "ref": "C-4737",
+      "label": "Mitch Snow believes he saw Brian Harpole at the Fort Huachuca meeting",
+      "claim": "The host says Mitch Snow believes he saw Brian Harpole at a meeting he stumbled upon at Fort Huachuca. She allows that he may be wrong, but says the reaction to the story tells her he saw someone important.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10373",
+        "N-10370"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:33",
+      "investigative_direction": "Fort Huachuca visitor and meeting records for September 9, 2025; Harpole's travel records.",
+      "transcript_snippet": "And the meeting in which Mitch Snow believes that he saw Brian Harpole.",
+      "mentions_person_refs": [
+        "N-369",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4738",
+      "ref": "C-4738",
+      "label": "Mitch Snow saw Erika Kirk in the Fort Huachuca hotel lobby on September 8",
+      "claim": "The host says Mitch Snow believes he saw Erika Kirk in a Fort Huachuca hotel lobby on September 8, leaving and getting into a green pickup truck. She says he recognized her eyes and that Hansel may have stayed at the same hotel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10417",
+        "N-10367"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:33",
+      "investigative_direction": "Base lodging registers and gate logs for September 8, 2025.",
+      "transcript_snippet": "They saw her in that lobby on the 8th leaving, jumping into a green pickup truck, and her eyes reminded him of an ex-girlfriend's eyes, and that's why he clocked her.",
+      "mentions_person_refs": [
+        "N-369",
+        "N-2",
+        "N-443"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4739",
+      "ref": "C-4739",
+      "label": "Paramount Tactical said the alibi children were not Erika Kirk's",
+      "claim": "The host says neither Brian Harpole nor Erika Kirk has given a clear alibi. She says Andrew Kolvet offered children as Erika's and then retracted that, and Paramount Tactical said the children were not Erika's.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10899",
+        "N-10472"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:20",
+      "investigative_direction": "Paramount Tactical's statements and the original alibi photograph.",
+      "transcript_snippet": "Or Paramount not so Tactical said, \"No, they're not Erika's.\"",
+      "supports_claim_refs": [
+        "C-2906"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-2",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4740",
+      "ref": "C-4740",
+      "label": "Host's FOIA request on SAM 702 was placed at number 3,500 under a burden exception",
+      "claim": "The host says her FOIA request was moved to the back of the queue under a \"heavy burden exception\" because several departments must coordinate, leaving her at number 3,500.",
+      "anchored_artifacts": [
+        "A-2692.1"
+      ],
+      "related_nodes": [
+        "N-10671",
+        "N-10700",
+        "N-10888"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:06",
+      "investigative_direction": "The FOIA acknowledgment letter and tracking number.",
+      "transcript_snippet": "They need to coordinate with multiple departments, and we're number 3,500 to hear back.",
+      "mentions_person_refs": [
+        "N-443",
+        "N-605"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4741",
+      "ref": "C-4741",
+      "label": "Stephen Feinberg sits between Hansel and Hegseth as Deputy Secretary of Defense",
+      "claim": "Correcting her earlier statement that Bradley Hansel reports directly to Pete Hegseth, the host shows an org chart and says Deputy Secretary of Defense Stephen Feinberg sits between them.",
+      "anchored_artifacts": [
+        "A-2693.1"
+      ],
+      "related_nodes": [
+        "N-10888"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:06",
+      "investigative_direction": "The official Department of War organizational chart.",
+      "transcript_snippet": "There is one man in between Bradley and Pete Hegseth. A man named Stephen Feinberg who occupies the position of Deputy Secretary of Defense.",
+      "mentions_person_refs": [
+        "N-443",
+        "N-605",
+        "N-707"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4742",
+      "ref": "C-4742",
+      "label": "Feinberg is the wealthiest person in the Trump administration",
+      "claim": "The host says Stephen Feinberg is the wealthiest person in the Trump administration, worth about 5 billion, and would lead the department if Hegseth were removed.",
+      "anchored_artifacts": [
+        "A-2693.1"
+      ],
+      "related_nodes": [
+        "N-10888"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:04",
+      "investigative_direction": "Feinberg's financial disclosure filings and published net-worth estimates.",
+      "transcript_snippet": "What we can state definitively is that he is the wealthiest person in the Trump administration.",
+      "mentions_person_refs": [
+        "N-707",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4743",
+      "ref": "C-4743",
+      "label": "Feinberg co-founded Cerberus Capital Management in 1992",
+      "claim": "The host says Feinberg co-founded Cerberus Capital Management in 1992 and that the fund has about 70 billion in assets under management.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10992"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:59",
+      "investigative_direction": "Cerberus corporate history and SEC Form ADV filings.",
+      "transcript_snippet": "Well, in 1992 he co-founded uh Cerberus Capital Management.",
+      "mentions_person_refs": [
+        "N-707"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4744",
+      "ref": "C-4744",
+      "label": "Blackwater received $2 billion in government contracts from 1997 to 2010",
+      "claim": "Using it as an example of the private military business, the host says Blackwater received $2 billion in government contracts between 1997 and 2010.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10994"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:58",
+      "investigative_direction": "Federal contract databases and congressional reports on Blackwater contracts.",
+      "transcript_snippet": "Blackwater in total received $2 billion in government contracts between 1997 and 2010."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4745",
+      "ref": "C-4745",
+      "label": "Four Blackwater guards were convicted and Trump pardoned them",
+      "claim": "The host says Blackwater guards escorting a US Embassy convoy in Iraq killed 14 civilians and injured 20. She says four were convicted, one of murder and three of manslaughter, and Trump pardoned all of them in his first term.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10994"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:00",
+      "investigative_direction": "Court records for the Nisour Square convictions and the December 2020 pardon records.",
+      "transcript_snippet": "Uh like I said, four men were convicted, one of murder, three others of manslaughter charges, but no worries because when Trump got into office the first time around, he pardoned all of them.",
+      "mentions_person_refs": [
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4746",
+      "ref": "C-4746",
+      "label": "Betsy DeVos is the sister of Blackwater founder Erik Prince",
+      "claim": "The host says Betsy DeVos, Trump's first-term Secretary of Education, is the sister of Erik Prince, the founder of Blackwater.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10994"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:00",
+      "investigative_direction": "Public biographies of DeVos and Prince.",
+      "transcript_snippet": "And Betsy DeVos' brother is a man named Erik Prince, who is the founder of Blackwater.",
+      "mentions_person_refs": [
+        "N-708",
+        "N-709",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4747",
+      "ref": "C-4747",
+      "label": "Feinberg owned DynCorp from 2010 to 2020 while joining the Trump administration in 2017",
+      "claim": "The host says Feinberg owned the private military group DynCorp outright from 2010 to 2020 and joined the first Trump administration in 2017, which she calls controversial.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10993",
+        "N-10992"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:49",
+      "investigative_direction": "DynCorp ownership filings and Feinberg's 2017 Intelligence Advisory Board appointment.",
+      "transcript_snippet": "Stephen Feinberg outright owning a military mercenary group um from 2010 through to 2020, he joined Trump administration in 2017 the first go around",
+      "mentions_person_refs": [
+        "N-707",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4748",
+      "ref": "C-4748",
+      "label": "DynCorp scandal ran from the 1990s and became a film in 2010",
+      "claim": "The host says the DynCorp scandal took shape in the 1990s, came to light through a whistleblower in the early 2000s, and was made into a film in 2010.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10993",
+        "N-10995"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:45",
+      "investigative_direction": "Release records for the film \"The Whistleblower\" and the Bosnia case history.",
+      "transcript_snippet": "The scandal began to take shape in the 1990s until the whistle was finally blown in the early 2000s. Movie made in 2010.",
+      "mentions_person_refs": [
+        "N-10995"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4749",
+      "ref": "C-4749",
+      "label": "Kathryn Bolkovac found DynCorp employees buying underage women in Bosnia",
+      "claim": "The host says Kathryn Bolkovac, a DynCorp investigator in Bosnia, found that several DynCorp employees were buying underage women and facilitating sex trafficking.",
+      "anchored_artifacts": [
+        "A-2694.1"
+      ],
+      "related_nodes": [
+        "N-10993",
+        "N-10995"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:45",
+      "investigative_direction": "Bolkovac's book and the UK employment tribunal ruling in Bolkovac v. DynCorp.",
+      "transcript_snippet": "Catherine Bolkovac, um a a DynCorp investigator in Bosnia discovered that several DynCorp employees were involved in purchasing underage women and facilitating sex trafficking.",
+      "mentions_person_refs": [
+        "N-710"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4750",
+      "ref": "C-4750",
+      "label": "Ben Johnston filed similar reports and both whistleblowers were fired",
+      "claim": "The host says DynCorp employee Ben Johnston filed similar reports and that both he and Bolkovac were fired. She adds that Bolkovac had been trained in the Dallas–Fort Worth area.",
+      "anchored_artifacts": [
+        "A-2694.1"
+      ],
+      "related_nodes": [
+        "N-10993",
+        "N-10995"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:41",
+      "investigative_direction": "Johnston's lawsuit filings in Texas and the Bolkovac tribunal record.",
+      "transcript_snippet": "Another employee, Ben Johnston, filed similar reports. Both were then fired by the company",
+      "mentions_person_refs": [
+        "N-711",
+        "N-710"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4751",
+      "ref": "C-4751",
+      "label": "Trafficked women came from Ukraine, Croatia, Bosnia and Romania",
+      "claim": "The host says Bolkovac's book shows that the trafficked underage women came from Ukraine, Croatia, Bosnia and especially Romania.",
+      "anchored_artifacts": [
+        "A-2694.1"
+      ],
+      "related_nodes": [
+        "N-10995",
+        "N-10401"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:41",
+      "investigative_direction": "Bolkovac's book and UN/OSCE trafficking reports on Bosnia.",
+      "transcript_snippet": "the trafficked underage women were coming from Ukraine, Croatia, Bosnia, and of course Romania.",
+      "mentions_person_refs": [
+        "N-710"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4752",
+      "ref": "C-4752",
+      "label": "Trafficked women were lured with beautician jobs and had their passports taken",
+      "claim": "The host says the UN International Police Task Force and DynCorp were charged with trafficking and covering it up. She says impoverished young women were offered jobs such as beautician, then had their passports taken and were forced into prostitution over the border.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10995",
+        "N-10993"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:09",
+      "investigative_direction": "Human Rights Watch's 2002 Bosnia trafficking report and IPTF internal investigations.",
+      "transcript_snippet": "offering them like roles as a beautician, and then taking their passports and forcing them into prostitution over the border.",
+      "mentions_person_refs": [
+        "N-10993"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4753",
+      "ref": "C-4753",
+      "label": "DynCorp contractors enjoyed immunity and the company kept its US contracts",
+      "claim": "The host says the officers involved had immunity from prosecution in foreign territories, and that DynCorp faced no consequences and continued its relationship with the US government.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10993",
+        "N-10995"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:39",
+      "investigative_direction": "Status of Forces agreements for Bosnia and DynCorp federal contract history after 2002.",
+      "transcript_snippet": "So, in the end, DynCorp got off scot-free and just continued their relationship with the United States government.",
+      "mentions_person_refs": [
+        "N-710"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4754",
+      "ref": "C-4754",
+      "label": "DynCorp was sold to Cerberus in 2010, the year the film came out",
+      "claim": "The host says that in 2010, when the film about the scandal came out, DynCorp was sold to Feinberg's Cerberus, which owned it for the next ten years.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10993",
+        "N-10992"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:39",
+      "investigative_direction": "The 2010 Cerberus–DynCorp acquisition filing and the 2020 sale to Amentum.",
+      "transcript_snippet": "Now, when her movie about the scandal came out in 2010, DynCorp sold to Stephen Feinberg's Cerberus. It was owned by Cerberus for the next 10 years.",
+      "mentions_person_refs": [
+        "N-707",
+        "N-710"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4755",
+      "ref": "C-4755",
+      "label": "Host believes Dan Bongino was a source for the New York Times article",
+      "claim": "The host says the New York Times article seemed well sourced and that Dan Bongino appeared to her to be an obvious source, since he would have been privy to the discussions.",
+      "anchored_artifacts": [
+        "A-2691.1"
+      ],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:26",
+      "investigative_direction": "The New York Times article's attributions; Bongino's public statements.",
+      "transcript_snippet": "I believe the New York Times article was very well sourced and I believe that one of their obvious sources to me as I read the article seemed like it was Dan Bongino.",
+      "mentions_person_refs": [
+        "N-388",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4756",
+      "ref": "C-4756",
+      "label": "Feinberg says he divested from Cerberus but ties remain unclear",
+      "claim": "The host says Stephen Feinberg has said he divested from Cerberus Capital, but argues he still has financial ties to it that are unclear.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10992"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:22",
+      "investigative_direction": "Feinberg's ethics agreement and OGE Form 278 disclosures.",
+      "transcript_snippet": "I know since uh Stephen Feinberg has said that he has divested um from Cerberus Capital",
+      "mentions_person_refs": [
+        "N-707",
+        "N-443"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4757",
+      "ref": "C-4757",
+      "label": "Host is told the administration is trying to make FOIA requests harder",
+      "claim": "The host says she is told the Trump administration is trying to make FOIA requests more difficult and to hold documents as classified for a period of time.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10700"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:22",
+      "investigative_direction": "Recent DOJ/OIP FOIA guidance and executive orders on classification.",
+      "transcript_snippet": "from what I am told, they are trying to make it more difficult uh for people to FOIA requests",
+      "mentions_person_refs": [
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4758",
+      "ref": "C-4758",
+      "label": "Department of War offices orchestrated messaging to make Erika Kirk the top trend",
+      "claim": "The host repeats that Erika Kirk was listed as an \"emotional asset\" after the White House Correspondents' Dinner shooting. She says the Department of War, under Hansel, Feinberg and Hegseth, orchestrated messaging to boost her artificially and wanted her to be the number one trend by morning.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10888",
+        "N-10923",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:18",
+      "investigative_direction": "The underlying email and its distribution list, sought through FOIA.",
+      "transcript_snippet": "were orchestrating messaging to artificially boost Erika. They wanted her as the number one trend by morning.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-443",
+        "N-707",
+        "N-605"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4759",
+      "ref": "C-4759",
+      "label": "Elizabeth Kravchuk McCoy's family ministry rescues orphans in Ukraine",
+      "claim": "The host says Mikey McCoy's wife, Elizabeth Kravchuk, is a wealthy Ukrainian, possibly born in Ukraine, whose family says it escaped the Bolsheviks and whose ministry rescues orphans in Ukraine.",
+      "anchored_artifacts": [
+        "A-2695.1",
+        "A-2696.1"
+      ],
+      "related_nodes": [
+        "N-10996"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:20",
+      "investigative_direction": "The ministry's nonprofit filings and Eliza McCoy's family history.",
+      "transcript_snippet": "But yes, her family's ministry is rescuing orphans in Ukraine.",
+      "mentions_person_refs": [
+        "N-221",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4760",
+      "ref": "C-4760",
+      "label": "Host hears SUVs escort Kravchuk's family in Ukraine",
+      "claim": "The host says she hears that when Elizabeth Kravchuk McCoy goes to Ukraine, SUVs wait to escort her family.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10996"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:20",
+      "investigative_direction": "Travel records and the host's source for the escort claim.",
+      "transcript_snippet": "I actually hear that when she goes to Ukraine our F U SUVs waiting uh to escort her family.",
+      "mentions_person_refs": [
+        "N-221"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4761",
+      "ref": "C-4761",
+      "label": "Good Call Ministries website describes Ukraine orphan relief",
+      "claim": "The host shows the website of The Good Call Ministries Rescue Operations, which lists refugees, the elderly, orphans and the handicapped and says its hearts are heavy for Ukraine, \"specifically the orphans.\"",
+      "anchored_artifacts": [
+        "A-2695.1"
+      ],
+      "related_nodes": [
+        "N-10996"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:04",
+      "investigative_direction": "Archived copies of the ministry website and its financial disclosures.",
+      "transcript_snippet": "Here is their website, The Good Call Ministries Rescue Operations. Refugees, elderly, orphans, handicapped."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4762",
+      "ref": "C-4762",
+      "label": "Ratajkowski separated from her husband within a year of giving birth",
+      "claim": "The host says Emily Ratajkowski became known for the \"Blurred Lines\" video. She says Ratajkowski and her husband separated within about a year of her giving birth.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:34:14",
+      "investigative_direction": "Public reporting on Ratajkowski's separation and divorce filing dates.",
+      "transcript_snippet": "Uh she gave birth, they were separated uh within a year, I believe",
+      "mentions_person_refs": [
+        "N-712"
+      ]
+    },
     {
       "@type": "Claim",
       "@id": "C-3753",
@@ -78,7 +2258,357 @@
       "mentions_person_refs": [
         "N-3"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4763",
+      "ref": "C-4763",
+      "label": "Ratajkowski's essay says she embodied a \"villain\" after her divorce",
+      "claim": "The host reads a passage from Ratajkowski's essay saying the character she embodied after her divorce, during a period of compulsive dating, was a villain.",
+      "anchored_artifacts": [
+        "A-2522.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:35:30",
+      "investigative_direction": "Compare with the published text in The Cut.",
+      "transcript_snippet": "the character that I had learned to embody after my divorce in my period of compulsively dating was a villain.",
+      "mentions_person_refs": [
+        "N-712"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4764",
+      "ref": "C-4764",
+      "label": "Ratajkowski's essay quotes a friend on her school drop-off appearance",
+      "claim": "The host reads a passage in which a friend tells Ratajkowski she sometimes seems like a 40-year-old divorcee and sometimes a 22-year-old, after watching her navigate school drop-off in shorts and lip liner.",
+      "anchored_artifacts": [
+        "A-2522.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:36:41",
+      "investigative_direction": "Compare with the published text in The Cut.",
+      "transcript_snippet": "my friend said after watching me in shorts and lip liner navigate the the clickish politics of school drop-off.",
+      "mentions_person_refs": [
+        "N-712"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4765",
+      "ref": "C-4765",
+      "label": "FBI denied the host's request for three days of someone's schedule",
+      "claim": "The host says the FBI took 20 days to deny her request and told her it was too complicated, although she asked only for three days of someone's schedule.",
+      "anchored_artifacts": [
+        "A-2692.2"
+      ],
+      "related_nodes": [
+        "N-10014",
+        "N-10202",
+        "N-10700"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:47",
+      "investigative_direction": "The FBI FOIA denial letter and request number.",
+      "transcript_snippet": "Why did you deny it my my 20 days and tell me that it's because it's too complicated. We're asking you for 3 days of someone's schedule.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4766",
+      "ref": "C-4766",
+      "label": "Host considers an explosive under Charlie Kirk's chest a viable theory",
+      "claim": "The host says she now considers it a very viable theory that an explosive went off under Charlie Kirk's chest. She says this fits the way his body moved, which first made her think he was shot from below.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10085"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:47",
+      "investigative_direction": "Autopsy and medical examiner findings; high-resolution footage of the moment of impact.",
+      "transcript_snippet": "Suddenly they suddenly do make sense when you believe or consider that an explosive went off under his chest",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4767",
+      "ref": "C-4767",
+      "label": "Charlie Kirk saved himself for marriage and Erika was his first real relationship",
+      "claim": "Answering a viewer, the host says Charlie Kirk trusted those around him, saved himself for marriage, and that Erika was his first real relationship.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:45:31",
+      "investigative_direction": "Charlie Kirk's own public statements on dating and marriage.",
+      "transcript_snippet": "And like I said, you know, Charlie saved himself for for marriage.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-11",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4768",
+      "ref": "C-4768",
+      "label": "Erika Kirk brought pastors into Charlie Kirk's faith life",
+      "claim": "The host says Charlie let Erika take over the faith side of his life and that she brought in many pastors, whom he had no reason to suspect.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:10",
+      "investigative_direction": "TPUSA Faith staffing and speaker records after 2021.",
+      "transcript_snippet": "he lets her get involved in the faith department, as he did, and she's bringing in all these pastors",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4769",
+      "ref": "C-4769",
+      "label": "The New York Times account covers the start of the Trump administration, before the Iran rift",
+      "claim": "Answering a viewer, the host says the New York Times was recounting events from the start of the administration, when Trump began to \"crash out\" over the files. She says this was long before the Iran episode, and that Pam Bondi is no longer in the White House.",
+      "anchored_artifacts": [
+        "A-2691.1",
+        "A-2696.2"
+      ],
+      "related_nodes": [
+        "N-10586",
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:32",
+      "investigative_direction": "The dates of the events described in the New York Times article.",
+      "transcript_snippet": "The New York Times was recounting everything that happened at the beginning of the administration when Trump began to crash out over the files.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-85"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4770",
+      "ref": "C-4770",
+      "label": "Three of Jeffrey Epstein's four grandparents were born in Russia",
+      "claim": "A viewer says three of Jeffrey Epstein's four grandparents were born in Russia and the fourth in Lithuania, and the host affirms this as correct.",
+      "anchored_artifacts": [
+        "A-2696.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:49:17",
+      "investigative_direction": "Census and immigration records for Epstein's grandparents.",
+      "transcript_snippet": "Also, three out of four of Jeffrey Epstein's grandparents were born in Russia.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-9"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-40",
+      "ref": "M-40",
+      "canonical_term": "Truman Show",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 118,
+          "video_timestamp": "00:25:18",
+          "speaker_node_ref": "N-3",
+          "quote": "I don't think it's just Charlie who's living in a Truman Show. I think we're all living in a Truman Show and our government is involved in the most despicable crimes overseas.",
+          "context": "Host widens the Truman Show frame from Charlie Kirk to the public after the Department of War amplification claim.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "staged_reality",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-82",
+      "ref": "M-82",
+      "canonical_term": "Make That Make Sense",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 118,
+          "video_timestamp": "00:25:18",
+          "speaker_node_ref": "N-3",
+          "quote": "That was a focus of the Department of War. Why? Somebody make that make sense to me.",
+          "context": "Host challenges why the Department of War would focus on boosting Erika Kirk.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "rhetorical_challenge",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 118,
+          "video_timestamp": "00:32:31",
+          "speaker_node_ref": "N-3",
+          "quote": "because right now we're doing my book which is make him a sandwich, right? Where I tackle feminism.",
+          "context": "Host ties her book to the Ratajkowski essay segment.",
+          "confidence": "high",
+          "tags": [
+            "book_plug",
+            "feminism",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 118,
+          "video_timestamp": "00:37:26",
+          "speaker_node_ref": "N-3",
+          "quote": "again it's cuz I'm reading my book right now, Make Me a Sandwich, and I and I describe these two competing and both wrong viewpoints of modern feminism.",
+          "context": "Host references the book again (spoken as \"Make Me a Sandwich\") while criticizing the essay.",
+          "confidence": "high",
+          "tags": [
+            "book_plug",
+            "feminism",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 118,
+          "video_timestamp": "00:49:17",
+          "speaker_node_ref": "N-3",
+          "quote": "We love and support you in all that you do. Go Max.",
+          "context": "Host reads Tony Hill's comment signing off with the catchphrase.",
+          "confidence": "high",
+          "tags": [
+            "chat_elevate",
+            "battle_cry",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 118,
+          "video_timestamp": "00:53:22",
+          "speaker_node_ref": "N-3",
+          "quote": "I want my money back. Go Max Canis Crisis King.",
+          "context": "Host reads the Elsassinator's comment ending with the catchphrase.",
+          "confidence": "high",
+          "tags": [
+            "chat_elevate",
+            "battle_cry",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-23",
+      "ref": "M-23",
+      "canonical_term": "Battle Bun",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 118,
+          "video_timestamp": "00:50:45",
+          "speaker_node_ref": "N-3",
+          "quote": "The El Sassinator writes, \"Battle bun.\" And is that a maroon button-down?",
+          "context": "Viewer greets the host's hairstyle with the catchphrase; host answers about her aubergine shirt.",
+          "confidence": "high",
+          "tags": [
+            "chat_elevate",
+            "appearance",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 118,
+          "video_timestamp": "00:53:22",
+          "speaker_node_ref": "N-3",
+          "quote": "Battlebun, is that a maroon button-down?",
+          "context": "Host rereads the same comment in full.",
+          "confidence": "high",
+          "tags": [
+            "chat_elevate",
+            "appearance",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 118,
+          "video_timestamp": "00:53:22",
+          "speaker_node_ref": "N-3",
+          "quote": "Christ is king. We need you, a voice for the people",
+          "context": "Host reads the refrain in a viewer comment and responds \"yes to all of that.\"",
+          "confidence": "high",
+          "tags": [
+            "chat_elevate",
+            "faith",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-10",
+      "ref": "M-10",
+      "canonical_term": "Happy Warrior",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 118,
+          "video_timestamp": "00:53:22",
+          "speaker_node_ref": "N-3",
+          "quote": "And just remember that that was something that Charlie always wanted for people to be happy warriors.",
+          "context": "Host closes by invoking Charlie Kirk's happy warrior ideal.",
+          "confidence": "high",
+          "tags": [
+            "closing",
+            "memorial_frame",
+            "reuse"
+          ]
+        }
+      ]
+    }
+  ]
 }

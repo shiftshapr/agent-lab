@@ -12,8 +12,8 @@
 - **Model Version**: grok-manual-extract-seq158
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10864, N-10865, N-10866, N-10867, N-10868
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-22, N-30, N-36, N-37, N-14, N-194, N-242, N-284, N-221, N-272, N-7, N-508, N-162, N-10056, N-10198, N-10218, N-10839, N-10859, N-10860, N-10863, N-10, N-8, N-13, N-16, N-18
+  - New Nodes Introduced: N-10864, N-10866, N-10867, N-10868
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-22, N-30, N-36, N-37, N-14, N-194, N-242, N-284, N-221, N-272, N-7, N-508, N-162, N-10056, N-10198, N-10218, N-10839, N-10859, N-10860, N-10863, N-10, N-8, N-13, N-16, N-18, N-10865
   - (see registers)
   - Person band: persons minted in this quality pass use N-8+ (see node register). Minted here or reused: Clara Molot, Sergio Gor, Caleb Chilcutt, Andrew Wilson. Tim Dylan not minted. Leah Thomas not minted.
 

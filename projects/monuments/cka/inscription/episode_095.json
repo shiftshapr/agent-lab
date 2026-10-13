@@ -7,15 +7,2829 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
-    "extraction_timestamp": "2026-09-27T20:00:00Z",
-    "model_version": "MiniMax-M2.5",
+    "video_timestamp_range": "00:00:00–00:56:45",
+    "extraction_timestamp": "2026-10-13T21:30:39Z",
+    "model_version": "claude-manual-extract-seq095",
     "transcript_sha256": "1c2893d4ba31a7ea4741fc8d1e8ae31e1893e4014c6f34889114ddfea981d077",
-    "analysis_date": "2026-09-27"
+    "analysis_date": "2026-10-13"
   },
-  "executive_summary": "Ep 95 advances three threads. (1) YouTuber Nicci's analysis argues the back-camera footage Terryl shared was zoomed vs. wide-angle shots at other 2025 tour stops; the behind-head angle appeared only with the 2025 American Comeback Tour. (2) A tip describes a 2016 Scottsdale dinner with Lori Frantzve, Larry Ginta, gun-patent holders, and Erika Frantzve. (3) Candace rebuts Blake Neff's X-post on the Robinson charging document. Plus Laura Loomer's tweet, a 2019 Spectator profile, and a viewer question on whether Charlie Kirk was cremated.",
-  "artifacts": [],
-  "nodes": [],
-  "claims": [],
-  "memes": []
+  "executive_summary": "The host plays an analysis by the YouTuber Nicci (A-2537.1) arguing that the back-camera footage Terrell Farnsworth showed the host over FaceTime was likely zoomed in or cropped. Nicci's clip compares it with wide-angle back-camera shots from other 2025 American Comeback Tour stops. The host adds the opening of her FaceTime call with Terrell (A-2538.1), in which she says he opens a drive she suspects is the camera's SD card on his desktop in Scottsdale. She says that in their September 17 and 19 conversations Terrell never told her he lacked the footage or had given the SD card to federal agents. She also notes that Charlie Kirk was seated on a new platform and that, by her review, the camera directly behind his head first appeared in 2025 (A-2539).\n\nAccording to an unverified tip the host relays (A-2540.1), in late 2016 Lori Frantzve and Larry Ginta met the holders of a pending patent for an interchangeable-caliber gun. The tip says the four had dinner in Scottsdale, where Lori and Larry offered access to government contracts and Erika Frantzve arrived unannounced. The host says Erika was then dating Cabot Phillips, not Charlie Kirk, and that nothing came of the deal. She links this to Victor Marx's interest in the Fold AR patent and to her view that Jeffrey Epstein began his career in weapons trafficking.\n\nThe host rebuts a Blake Neff X post calling her dishonest about whether Tyler Robinson's parents recognized the rifle (A-2541.1). She cites a Daily Mail headline (A-2541.2) and a Robinson text message from the charging document (A-2541.3). She again asks TPUSA to answer donors' claims that Charlie never named Erika his successor at Aspen. She then reads Laura Loomer's \"God hates you\" tweet (A-2542.1) and quotes a 2019 Spectator profile in which Loomer described cocaine use, a suicide attempt and social-media addiction (A-2542.2).\n\nIn the comments segment the host discusses the continuance fight in the Robinson case and asks for tips on whether Charlie Kirk's body was cremated (A-2543.1). She also notes newly added lines in Robinson's messages, comments on Kash Patel's suit against The Atlantic, and announces an interview with Corby Hall after Victor Marx declined to join him.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2537",
+      "family_ref": "A-2537",
+      "bundle_name": "Nicci Back-Camera Analysis Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2537.1",
+          "ref": "A-2537.1",
+          "description": "YouTuber Nicci's video comparing Terrell Farnsworth's shared back-camera footage with wide-angle back-camera shots from 2025 American Comeback Tour stops (played)",
+          "related_claims": [
+            "C-3830",
+            "C-3831",
+            "C-3832"
+          ],
+          "related_nodes": [
+            "N-576",
+            "N-267",
+            "N-1",
+            "N-10799",
+            "N-10908"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:02:17",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2538",
+      "family_ref": "A-2538",
+      "bundle_name": "Terrell Farnsworth FaceTime Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2538.1",
+          "ref": "A-2538.1",
+          "description": "Opening of the host's September 19 FaceTime call with Terrell Farnsworth, showing him opening a file on his computer desktop (played, with freeze frame)",
+          "related_claims": [
+            "C-3835",
+            "C-3838"
+          ],
+          "related_nodes": [
+            "N-267",
+            "N-3",
+            "N-10808",
+            "N-10810"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:06:17",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2539",
+      "family_ref": "A-2539",
+      "bundle_name": "Tour Tabling Setup Stills Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2539.1",
+          "ref": "A-2539.1",
+          "description": "Stills (from Nicci) of Charlie Kirk seated on platforms at 2025 tour tabling events, including Utah (shown)",
+          "related_claims": [
+            "C-3843",
+            "C-3844"
+          ],
+          "related_nodes": [
+            "N-576",
+            "N-1",
+            "N-10908"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:12:32",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2539.2",
+          "ref": "A-2539.2",
+          "description": "Photos of Charlie Kirk tabling on the 2024 Brainwashed tour (March 7, 2024; University of Wisconsin, September 5, 2024; Northern Arizona University, October 15, 2024) with no camera behind his head (shown)",
+          "related_claims": [
+            "C-3845"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-10908"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:14:37",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2540",
+      "family_ref": "A-2540",
+      "bundle_name": "Lori Frantzve Gun Patent Tip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2540.1",
+          "ref": "A-2540.1",
+          "description": "Host verbal reference to a tip about a late-2016 Scottsdale dinner on a pending gun patent (not shown)",
+          "related_claims": [
+            "C-3847",
+            "C-3849",
+            "C-3850",
+            "C-3851",
+            "C-3852",
+            "C-3853",
+            "C-3854"
+          ],
+          "related_nodes": [
+            "N-500",
+            "N-397",
+            "N-2",
+            "N-10907"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:15:52",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2541",
+      "family_ref": "A-2541",
+      "bundle_name": "Blake Neff X Exchange Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2541.1",
+          "ref": "A-2541.1",
+          "description": "Blake Neff X post accusing the host of misrepresenting the Robinson charging document (read aloud)",
+          "related_claims": [
+            "C-3858"
+          ],
+          "related_nodes": [
+            "N-162",
+            "N-3",
+            "N-40",
+            "N-10022"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:27:35",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2541.2",
+          "ref": "A-2541.2",
+          "description": "Daily Mail headline (and an MSN article) the host posted in reply to Neff",
+          "related_claims": [
+            "C-3859"
+          ],
+          "related_nodes": [
+            "N-40",
+            "N-10070",
+            "N-10022"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:28:52",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2541.3",
+          "ref": "A-2541.3",
+          "description": "Tyler Robinson text message from the charging document about his father wanting photos of the rifle (shown/read)",
+          "related_claims": [
+            "C-3860"
+          ],
+          "related_nodes": [
+            "N-40",
+            "N-10077",
+            "N-10022"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:30:16",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2542",
+      "family_ref": "A-2542",
+      "bundle_name": "Laura Loomer Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2542.1",
+          "ref": "A-2542.1",
+          "description": "Laura Loomer X post directed at the host (read aloud)",
+          "related_claims": [
+            "C-3864"
+          ],
+          "related_nodes": [
+            "N-60",
+            "N-3",
+            "N-1",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:33:51",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2542.2",
+          "ref": "A-2542.2",
+          "description": "The Spectator 2019 article \"The Tale of Laura Loomer\" (quoted on screen)",
+          "related_claims": [
+            "C-3866",
+            "C-3870"
+          ],
+          "related_nodes": [
+            "N-60"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:35:40",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2542.3",
+          "ref": "A-2542.3",
+          "description": "Clip of Laura Loomer on Alex Jones's show (played)",
+          "related_claims": [
+            "C-3871"
+          ],
+          "related_nodes": [
+            "N-60",
+            "N-93"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:39:28",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2543",
+      "family_ref": "A-2543",
+      "bundle_name": "DIA Tip Solicitation Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2543.1",
+          "ref": "A-2543.1",
+          "description": "Host verbal tip request on whether Charlie Kirk was cremated, with a source-protection pledge (no displayed artifact)",
+          "related_claims": [
+            "C-3879"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-1",
+            "N-10751"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:49:03",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2543.2",
+          "ref": "A-2543.2",
+          "description": "Viewer comment (Keeping faith with Father Joseph) offering footage, and the host's request to email it (read aloud)",
+          "related_claims": [
+            "C-3880"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:49:43",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination victim; his back-camera footage, tabling setup, Aspen successor audio and burial or cremation are discussed.",
+      "related_artifacts": [
+        "A-2537.1",
+        "A-2539.1",
+        "A-2539.2",
+        "A-2542.1",
+        "A-2543.1"
+      ],
+      "related_claims": [
+        "C-3827",
+        "C-3830",
+        "C-3838",
+        "C-3843",
+        "C-3844",
+        "C-3845",
+        "C-3854",
+        "C-3861",
+        "C-3862",
+        "C-3863",
+        "C-3864",
+        "C-3876",
+        "C-3877",
+        "C-3878",
+        "C-3879"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 15,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Named by Terrell as the reason he removed the camera; the tip places her (as Erika Frantzve) at a 2016 gun-patent dinner; her Aspen succession claim, victim's-rights assertion and handling of Charlie's body are questioned.",
+      "related_artifacts": [
+        "A-2540.1",
+        "A-2542.1"
+      ],
+      "related_claims": [
+        "C-3834",
+        "C-3837",
+        "C-3852",
+        "C-3853",
+        "C-3854",
+        "C-3861",
+        "C-3862",
+        "C-3864",
+        "C-3875",
+        "C-3876",
+        "C-3877",
+        "C-3878"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 12,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; recounts her September 17 and 19 calls with Terrell Farnsworth, rebuts Blake Neff, and is the target of Laura Loomer's tweet.",
+      "related_artifacts": [
+        "A-2538.1",
+        "A-2541.1",
+        "A-2542.1",
+        "A-2543.1",
+        "A-2543.2"
+      ],
+      "related_claims": [
+        "C-3830",
+        "C-3833",
+        "C-3835",
+        "C-3836",
+        "C-3840",
+        "C-3858",
+        "C-3862",
+        "C-3864",
+        "C-3869",
+        "C-3879",
+        "C-3880"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 11,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "The host says Laura Loomer speaks to him several times a day and questions his fitness, citing his post calling the host, Tucker Carlson and Megyn Kelly mentally ill.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3865",
+        "C-3867",
+        "C-3872"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "The host asserts he began his career in weapons trafficking and was brought into Iran-Contra.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3856",
+        "C-3857"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-15",
+      "ref": "N-15",
+      "name": "Justin Strife",
+      "type": "person",
+      "description": "Transcript spelling \"Justin Streiff\". Named in the host's account of pressure to call her husband about whether she recorded the footage.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3840"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Named among those Trump called mentally ill.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3872"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-30",
+      "ref": "N-30",
+      "name": "George (Candace's husband)",
+      "type": "person",
+      "description": "Referred to as \"your husband\"; said to have been called by Justin Streiff about whether the host recorded the footage.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3840"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Accused; his parents' alleged recognition of the rifle, his text messages and the continuance fight in his case are discussed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3838",
+        "C-3842",
+        "C-3858",
+        "C-3859",
+        "C-3860",
+        "C-3873",
+        "C-3874",
+        "C-3875",
+        "C-3881"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-41",
+      "ref": "N-41",
+      "name": "Spencer Cox",
+      "type": "person",
+      "description": "Referred to as \"Governor Cox\"; viewers noted he appointed the judge in the Robinson case.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3873"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Transcript spellings \"Megan Kelly\" and \"Meghan Kelly\". Erika Kirk told her TPUSA has the Aspen video; named among those Trump called mentally ill.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3862",
+        "C-3872"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-48",
+      "ref": "N-48",
+      "name": "Robert Maxwell",
+      "type": "person",
+      "description": "Said by the host to have introduced Epstein into the Iran-Contra affair.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3857"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-54",
+      "ref": "N-54",
+      "name": "Lance Twiggs",
+      "type": "person",
+      "description": "Transcript spelling \"Lance Twig\". His phone is cited as one secured by federal agents; recipient of the \"pooch\" message.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3838",
+        "C-3881"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-60",
+      "ref": "N-60",
+      "name": "Laura Loomer",
+      "type": "person",
+      "description": "Her \"God hates you\" tweet, her 2019 Spectator profile, her firearm prohibition and her access to Trump are discussed.",
+      "related_artifacts": [
+        "A-2542.1",
+        "A-2542.2",
+        "A-2542.3"
+      ],
+      "related_claims": [
+        "C-3864",
+        "C-3865",
+        "C-3866",
+        "C-3867",
+        "C-3868",
+        "C-3869",
+        "C-3870",
+        "C-3871",
+        "C-3872"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "The host says he is suing The Atlantic over a report that he is a drunk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3882"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-93",
+      "ref": "N-93",
+      "name": "Alex Jones",
+      "type": "person",
+      "description": "Host of the show on which the Loomer clip was recorded.",
+      "related_artifacts": [
+        "A-2542.3"
+      ],
+      "related_claims": [
+        "C-3871"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-162",
+      "ref": "N-162",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Transcript spellings \"Blake enough\" and \"Blakey Neff\". Called the host dishonest on X about the Robinson charging document; she presses him on the Aspen video.",
+      "related_artifacts": [
+        "A-2541.1"
+      ],
+      "related_claims": [
+        "C-3828",
+        "C-3858",
+        "C-3861",
+        "C-3862"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Named among TPUSA employees who did not call 911.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3828",
+        "C-3829"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-267",
+      "ref": "N-267",
+      "name": "Terrell Farnsworth",
+      "type": "person",
+      "description": "Transcript spellings \"Terrell\" and \"Tarrio\". Camera operator who took down the back camera, showed the host the footage over FaceTime and, she suspects, kept the SD card.",
+      "related_artifacts": [
+        "A-2537.1",
+        "A-2538.1"
+      ],
+      "related_claims": [
+        "C-3827",
+        "C-3828",
+        "C-3829",
+        "C-3830",
+        "C-3832",
+        "C-3833",
+        "C-3834",
+        "C-3835",
+        "C-3836",
+        "C-3837",
+        "C-3839",
+        "C-3841"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 12,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-290",
+      "ref": "N-290",
+      "name": "Xavier Poussard",
+      "type": "person",
+      "description": "Transcript spelling \"Xavier Boussard\". Credited by the host for journalism on Epstein's Iran-Contra link.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3857"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-348",
+      "ref": "N-348",
+      "name": "Victor Marx",
+      "type": "person",
+      "description": "The host says he wanted the Fold AR patent for Israel, was later sued by the patent holder in the tip, and declined to appear with Corby Hall.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3848",
+        "C-3855",
+        "C-3883"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-349",
+      "ref": "N-349",
+      "name": "Corby Hall",
+      "type": "person",
+      "description": "Fold AR patent holder whom Victor Marx sought to push out; scheduled for an interview the next day.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3848",
+        "C-3883"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-372",
+      "ref": "N-372",
+      "name": "Cabot Phillips",
+      "type": "person",
+      "description": "The host says Erika Frantzve was dating him in late 2016.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3854"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-397",
+      "ref": "N-397",
+      "name": "Larry Guinta",
+      "type": "person",
+      "description": "Transcript spelling \"Larry Ginta\". Erika Kirk's stepfather; at the 2016 gun-patent dinner per the tip.",
+      "related_artifacts": [
+        "A-2540.1"
+      ],
+      "related_claims": [
+        "C-3847",
+        "C-3849",
+        "C-3850",
+        "C-3851"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-500",
+      "ref": "N-500",
+      "name": "Lori Frantzve",
+      "type": "person",
+      "description": "Transcript spelling \"Lori Frantzbe\". Erika Kirk's mother; per the tip she pursued a pending gun patent in 2016 while promoting G-Tech Industries.",
+      "related_artifacts": [
+        "A-2540.1"
+      ],
+      "related_claims": [
+        "C-3847",
+        "C-3849",
+        "C-3850",
+        "C-3851",
+        "C-3852",
+        "C-3853"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-576",
+      "ref": "N-576",
+      "name": "Nicey (YouTuber)",
+      "type": "person",
+      "description": "Transcript spellings \"Nicci\" and \"Niecy\". Her analysis argues the back-camera footage was zoomed or cropped and documents the platform setup.",
+      "related_artifacts": [
+        "A-2537.1",
+        "A-2539.1"
+      ],
+      "related_claims": [
+        "C-3830",
+        "C-3831",
+        "C-3841"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-613",
+      "ref": "N-613",
+      "name": "Melania Trump",
+      "type": "person",
+      "description": "First named by the host at 00:36:45 in episode 095. Referred to as \"Melania\"; people in her circle are said to have called Laura Loomer the person most likely to harm Donald Trump.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3867"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Organization whose staff, camera setup, Aspen audio and tent recreation are discussed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3828",
+        "C-3842",
+        "C-3843",
+        "C-3844",
+        "C-3846",
+        "C-3862",
+        "C-3863"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10006",
+      "ref": "N-10006",
+      "name": "Fox News",
+      "type": "investigation_target",
+      "description": "Asked Erika Kirk where Charlie Kirk is buried.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3876"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Site where, per Nicci, the back camera was either zoomed that day or the footage cropped afterwards.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3832"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10022",
+      "ref": "N-10022",
+      "name": "Robinson Father Turn-In Narrative",
+      "type": "investigation_target",
+      "description": "Whether Tyler Robinson's parents recognized the rifle or photos of the suspect.",
+      "related_artifacts": [
+        "A-2541.1",
+        "A-2541.2",
+        "A-2541.3"
+      ],
+      "related_claims": [
+        "C-3858",
+        "C-3859",
+        "C-3860"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10023",
+      "ref": "N-10023",
+      "name": "Epstein Israeli Intelligence Asset Allegation",
+      "type": "investigation_target",
+      "description": "The host ties Epstein to weapons trafficking and Iran-Contra via a former Mossad agent's testimony.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3856",
+        "C-3857"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10070",
+      "ref": "N-10070",
+      "name": "Daily Mail",
+      "type": "investigation_target",
+      "description": "Published the family-heirloom headline the host cited to Neff.",
+      "related_artifacts": [
+        "A-2541.2"
+      ],
+      "related_claims": [
+        "C-3859"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10077",
+      "ref": "N-10077",
+      "name": "Robinson-Lance Text Chain Authenticity",
+      "type": "investigation_target",
+      "description": "The rifle-photo message and newly added \"pooch\" line in Robinson's messages.",
+      "related_artifacts": [
+        "A-2541.3"
+      ],
+      "related_claims": [
+        "C-3860",
+        "C-3881"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10300",
+      "ref": "N-10300",
+      "name": "Justin Strife Post-Assassination Phone Call",
+      "type": "investigation_target",
+      "description": "Streiff's call to the host's husband about whether she recorded the footage.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3840"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10323",
+      "ref": "N-10323",
+      "name": "Charlie Kirk Burial Status / Catholic Funeral Mass",
+      "type": "investigation_target",
+      "description": "The host asks whether Charlie was buried after a Catholic funeral mass or cremated.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3878"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10346",
+      "ref": "N-10346",
+      "name": "Terrell Farnsworth Camera Removal Justification",
+      "type": "investigation_target",
+      "description": "Terrell's stated reason (protecting Erika) for removing the camera.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3827",
+        "C-3837"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10376",
+      "ref": "N-10376",
+      "name": "AmFest Tent Recreation Approval Chain",
+      "type": "investigation_target",
+      "description": "The tent recreation for selfies is cited again.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3863"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10570",
+      "ref": "N-10570",
+      "name": "Defense Discovery Dumping Strategy",
+      "type": "investigation_target",
+      "description": "600,000 files given to the defense in March and the continuance request.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3874",
+        "C-3875"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10581",
+      "ref": "N-10581",
+      "name": "Tyler Robinson Defense – Chain of Custody / Documents",
+      "type": "investigation_target",
+      "description": "The host urges the defense to obtain the unzoomed back-camera footage.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3842"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10590",
+      "ref": "N-10590",
+      "name": "Laura Loomer Influence on Trump Policy Question",
+      "type": "investigation_target",
+      "description": "Loomer's phone access to Trump and her role as adviser.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3865",
+        "C-3872"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10600",
+      "ref": "N-10600",
+      "name": "Victor Marx 51% Fold AR Acquisition Attempt",
+      "type": "investigation_target",
+      "description": "Recalled as Marx wanting the patent and pushing Corby Hall out.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3848"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10613",
+      "ref": "N-10613",
+      "name": "Victor Marx / Corby Hall On-Air Interview Proposal",
+      "type": "investigation_target",
+      "description": "Marx declined to join; the Corby Hall interview goes ahead.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3883"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10618",
+      "ref": "N-10618",
+      "name": "Victor Marx IDF / Israeli Defense Group Connection",
+      "type": "investigation_target",
+      "description": "The host says Marx wanted the patent for Israel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3848"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10626",
+      "ref": "N-10626",
+      "name": "Erika Kirk Speedy Trial Motion (January 16)",
+      "type": "investigation_target",
+      "description": "The host anticipates the judge refusing a continuance because Erika asserted her victim's rights.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3875"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10628",
+      "ref": "N-10628",
+      "name": "Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
+      "type": "investigation_target",
+      "description": "The host says Loomer cannot own a gun in any of the 50 states.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3868"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10664",
+      "ref": "N-10664",
+      "name": "Charlie Kirk Aspen Audio Authenticity Question",
+      "type": "investigation_target",
+      "description": "Donors told the host Charlie never said the \"I appoint Erika\" line at Aspen.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3861",
+        "C-3862"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10751",
+      "ref": "N-10751",
+      "name": "Charlie Kirk Cremation/Burial Status Verification",
+      "type": "investigation_target",
+      "description": "The host asks whether Charlie Kirk was cremated.",
+      "related_artifacts": [
+        "A-2543.1"
+      ],
+      "related_claims": [
+        "C-3877",
+        "C-3878",
+        "C-3879"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10759",
+      "ref": "N-10759",
+      "name": "Kirk Burial / Cremation Status",
+      "type": "investigation_target",
+      "description": "The body was reportedly moved a couple of times.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3877"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10799",
+      "ref": "N-10799",
+      "name": "Back-Camera Footage Discrepancy",
+      "type": "investigation_target",
+      "description": "Nicci's finding that the shared footage was zoomed or cropped, hiding the ground.",
+      "related_artifacts": [
+        "A-2537.1"
+      ],
+      "related_claims": [
+        "C-3830",
+        "C-3831",
+        "C-3832",
+        "C-3841"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10801",
+      "ref": "N-10801",
+      "name": "Terrell Post-Removal Communications",
+      "type": "investigation_target",
+      "description": "The host's September 17 and 19 calls with Terrell.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3833",
+        "C-3834",
+        "C-3836"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10808",
+      "ref": "N-10808",
+      "name": "Terrell SD Card-to-Laptop Transfer Sequence",
+      "type": "investigation_target",
+      "description": "The \"YOLO\" drive on Terrell's desktop in Scottsdale.",
+      "related_artifacts": [
+        "A-2538.1"
+      ],
+      "related_claims": [
+        "C-3835",
+        "C-3839"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10810",
+      "ref": "N-10810",
+      "name": "SD Card Chain-of-Custody Investigation",
+      "type": "investigation_target",
+      "description": "Whether the SD card was ever given to federal agents.",
+      "related_artifacts": [
+        "A-2538.1"
+      ],
+      "related_claims": [
+        "C-3835",
+        "C-3836",
+        "C-3838"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10812",
+      "ref": "N-10812",
+      "name": "Terrell Farnsworth Evidence-Handling Question",
+      "type": "investigation_target",
+      "description": "Terrell's possession of the footage in Arizona.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3836",
+        "C-3839"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10870",
+      "ref": "N-10870",
+      "name": "Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum",
+      "type": "investigation_target",
+      "description": "Transcript spelling \"Wiyre Fy\". The host ties the new back camera to the sponsorship deal.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3846"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10907",
+      "ref": "N-10907",
+      "name": "Lori Frantzve 2016 Gun Patent Dinner",
+      "type": "topic",
+      "description": "Investigation target: a tip that in late fall 2016 Lori Frantzve and Larry Ginta met two holders of a pending patent for an interchangeable-caliber gun. The tip says they met at a Salt Lake City expo where Lori was promoting G-Tech Industries' EMP technology. They then held a dinner in Scottsdale, offered an introduction to their G-Tech angel investor and claimed access to government contracts. According to the tip, Erika Frantzve arrived unannounced, and her mother mentioned that Erika was dating a man with big political connections. The host says nothing came of the deal, the patent is now approved, and the patent holder later had a lawsuit with Victor Marx.",
+      "related_artifacts": [
+        "A-2540.1"
+      ],
+      "related_claims": [
+        "C-3847",
+        "C-3849",
+        "C-3850",
+        "C-3851",
+        "C-3852",
+        "C-3853",
+        "C-3854",
+        "C-3855"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-500",
+        "N-397",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10908",
+      "ref": "N-10908",
+      "name": "Back-Camera and Platform Setup Introduction (2025 Tour)",
+      "type": "topic",
+      "description": "Investigation target: when and why Turning Point USA began seating Charlie Kirk on a raised platform and placing a camera directly behind his head at tabling events. The host and Nicci say no such camera appears on the 2024 Brainwashed tour and that it arrived with the 2025 American Comeback Tour. The host says it coincided with the Why Refi sponsorship deal.",
+      "related_artifacts": [
+        "A-2537.1",
+        "A-2539.1",
+        "A-2539.2"
+      ],
+      "related_claims": [
+        "C-3831",
+        "C-3843",
+        "C-3844",
+        "C-3845",
+        "C-3846"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-1",
+        "N-576"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-3827",
+      "ref": "C-3827",
+      "label": "Terrell took down the back footage about four minutes after Charlie was struck",
+      "claim": "The host says Terrell raced to take down the back-camera footage minutes after Charlie Kirk was struck, which her team estimated at about four minutes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10346"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:22",
+      "investigative_direction": "Time-sync the viral video of the camera takedown against the shot time on September 10, 2025.",
+      "transcript_snippet": "the one that Terrell raced the footage that he raced to take down just minutes after Charlie was struck. Literally I I think we estimated about 4 minutes after Charlie was struck.",
+      "mentions_person_refs": [
+        "N-267",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3828",
+      "ref": "C-3828",
+      "label": "No Turning Point employee called 911",
+      "claim": "The host says none of the Turning Point USA employees, including Mikey McCoy, Blake Neff and Terrell, called 911.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:17",
+      "investigative_direction": "Obtain Utah County and UVU 911 call logs for September 10, 2025 and match caller numbers against TPUSA staff.",
+      "transcript_snippet": "none of the Turning Point employees called 911. Not Mikey, not Blake, not Terrell.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-162",
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3829",
+      "ref": "C-3829",
+      "label": "Terrell recorded a selfie video after the shooting",
+      "claim": "The host says Terrell recorded himself in a selfie video after the shooting, which she calls worse than Mikey McCoy walking away.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:17",
+      "investigative_direction": "Archive the original selfie video with its metadata and posting time.",
+      "transcript_snippet": "Terrell was perhaps the worst almost worse than Mikey walking away would be Terrell recording himself in a selfie video.",
+      "supports_claim_refs": [
+        "C-1464"
+      ],
+      "mentions_person_refs": [
+        "N-267",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3830",
+      "ref": "C-3830",
+      "label": "Nicci found the footage shown on FaceTime was likely edited",
+      "claim": "The host says the YouTuber Nicci discovered that the back-camera footage Terrell showed her on FaceTime was likely edited.",
+      "anchored_artifacts": [
+        "A-2537.1"
+      ],
+      "related_nodes": [
+        "N-10799"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:17",
+      "investigative_direction": "Obtain the original, unedited SD-card file and compare its frame dimensions and metadata with the version shown on FaceTime.",
+      "transcript_snippet": "Nicci discovered that the camera footage which was shown to me on FaceTime was likely edited.",
+      "mentions_person_refs": [
+        "N-576",
+        "N-267",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3831",
+      "ref": "C-3831",
+      "label": "Back-camera shots at other 2025 American Comeback Tour stops were wide-angle",
+      "claim": "Nicci's video shows back-camera shots from American Comeback Tour stops, including Florida State University on February 28, 2025 and the University of Southern California on March 3, 2025, as well as San Francisco, San Diego, Long Beach, Boise and Washington State.",
+      "anchored_artifacts": [
+        "A-2537.1"
+      ],
+      "related_nodes": [
+        "N-10799",
+        "N-10908"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:17",
+      "investigative_direction": "Collect TPUSA livestream archives for each 2025 tour stop and compare back-camera framing.",
+      "transcript_snippet": "On February 28th, 2025, the American Comeback Tour did a stop at Florida State University and here is the back camera shot.",
+      "mentions_person_refs": [
+        "N-576"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3832",
+      "ref": "C-3832",
+      "label": "UVU footage either zoomed that day or cropped afterwards",
+      "claim": "Nicci's video says the back camera was always used as a wide-angle camera, yet the ground cannot be seen in the UVU footage Terrell shared. It concludes that either the camera was zoomed in that day or Terrell zoomed in afterwards and showed a cropped version.",
+      "anchored_artifacts": [
+        "A-2537.1"
+      ],
+      "related_nodes": [
+        "N-10799",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:36",
+      "investigative_direction": "Obtain the camera's recorded settings and the native file from September 10, 2025 to determine whether the zoom was optical at capture or applied in editing.",
+      "transcript_snippet": "The camera is a wide-angle camera and was always used as such. However, in the footage that Terrell has selectively shared with Candace, you cannot see the ground.",
+      "mentions_person_refs": [
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3833",
+      "ref": "C-3833",
+      "label": "Host phoned Terrell on September 17 after the takedown video went viral",
+      "claim": "The host says she phoned Terrell on September 17 because footage of him taking down the camera was going viral, and that it took him two days to get back to her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10801"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:30",
+      "investigative_direction": "Produce the host's call logs with Terrell Farnsworth for September 17–19, 2025.",
+      "transcript_snippet": "I phoned him on September the 17th because the footage started going viral of him taking down the camera.",
+      "mentions_person_refs": [
+        "N-267",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3834",
+      "ref": "C-3834",
+      "label": "Terrell agreed on September 19 to show the footage after citing Erika",
+      "claim": "The host says Terrell was hesitant on September 17, saying he wanted to protect the footage and Erika Kirk, and that on September 19 he agreed to get on a call and show her the footage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10801"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:16",
+      "investigative_direction": "Obtain Terrell's messages with the host and with Erika Kirk between September 17 and 19, 2025.",
+      "transcript_snippet": "And then on the 19th, he sort of broke and said, \"Okay, no, let's just get on the call. I'm happy to show you the footage.\"",
+      "mentions_person_refs": [
+        "N-267",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3835",
+      "ref": "C-3835",
+      "label": "The \"YOLO\" drive on Terrell's desktop is likely the camera's SD card",
+      "claim": "Showing the opening of her FaceTime call, the host says she suspects the \"YOLO\" drive on Terrell's desktop is what he named the SD card, which she says he should not have had. She notes that Sony cameras automatically label a \"clip\" folder.",
+      "anchored_artifacts": [
+        "A-2538.1"
+      ],
+      "related_nodes": [
+        "N-10808",
+        "N-10810"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:17",
+      "investigative_direction": "Have a forensic examiner review the FaceTime recording, and obtain the SD card's volume label and chain-of-custody records.",
+      "transcript_snippet": "It is my suspicion that that YOLO drive that you're seeing on the left-hand side is likely what he named his SD card.",
+      "mentions_person_refs": [
+        "N-267",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3836",
+      "ref": "C-3836",
+      "label": "Terrell never said he lacked the footage or had given the SD card to the feds",
+      "claim": "The host says that in their September 17 and 19 conversations Terrell never told her he did not have the footage or the SD card, or that he had given the SD card to federal agents.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10810",
+        "N-10812",
+        "N-10801"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:29",
+      "investigative_direction": "Request FBI evidence logs showing whether and when the back-camera SD card was collected.",
+      "transcript_snippet": "Terrell and I are speaking on the 17th and on the 19th and at no point in our conversations does he say to me, \"I don't have the footage or I don't have the SD card.\"",
+      "mentions_person_refs": [
+        "N-267",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3837",
+      "ref": "C-3837",
+      "label": "Terrell said he removed the camera to protect Erika",
+      "claim": "The host says Terrell told her he removed the SD card and took the camera down because he wanted to protect Erika Kirk and did not want her to see Charlie dying again, and that he had spoken with Erika about it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10346"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:21",
+      "investigative_direction": "Obtain Terrell's communications with Erika Kirk on September 10–11, 2025.",
+      "transcript_snippet": "And his answer was because he wanted to protect Erika. He didn't want Erika to see the footage.",
+      "mentions_person_refs": [
+        "N-267",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3838",
+      "ref": "C-3838",
+      "label": "Charlie Kirk's phone was not given to the feds",
+      "claim": "The host says it has been learned that Charlie Kirk's phone was not given to federal agents, unlike Tyler Robinson's and Lance Twiggs's phones, and that the back footage was likewise not secured.",
+      "anchored_artifacts": [
+        "A-2538.1"
+      ],
+      "related_nodes": [
+        "N-10810"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:21",
+      "investigative_direction": "Request FBI and Utah evidence inventories listing devices collected from Charlie Kirk and TPUSA staff.",
+      "transcript_snippet": "So now we have a situation where Charlie's phone we've learned was not given to the feds.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-40",
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3839",
+      "ref": "C-3839",
+      "label": "Terrell took the footage back to Scottsdale",
+      "claim": "The host says that, based on her conversation with Terrell and the FaceTime video, he was able to take the footage back to Arizona and open it on his desktop in Scottsdale.",
+      "anchored_artifacts": [
+        "A-2538.1"
+      ],
+      "related_nodes": [
+        "N-10808",
+        "N-10812"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:05",
+      "investigative_direction": "Establish Terrell's travel from Utah to Arizona and the file-creation timestamps on his computer.",
+      "transcript_snippet": "Terrell was able to take that footage back to Arizona. He's opening that on his desktop in Arizona back in Scottsdale.",
+      "mentions_person_refs": [
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3840",
+      "ref": "C-3840",
+      "label": "Justin Streiff was pressed to call the host's husband about whether she recorded the footage",
+      "claim": "The host relays a producer's suggestion that federal agents learned of Terrell's footage from her show and pressured Justin Streiff to call her husband to ask whether she had recorded it. The host rejects the idea that agents only learned of it then.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10300"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:05",
+      "investigative_direction": "Obtain the date and content of Justin Strife's call to the host's husband.",
+      "transcript_snippet": "that's why they started putting pressure on um Justin Streiff to call your husband and see if you had recorded the footage.",
+      "mentions_person_refs": [
+        "N-15",
+        "N-30",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3841",
+      "ref": "C-3841",
+      "label": "Host believes Terrell zoomed in to hide the ground",
+      "claim": "The host agrees with Nicci that Terrell very likely zoomed in on the footage and says she believes he did so to obscure the view of the ground, which she says may show something that would solve the murder.",
+      "anchored_artifacts": [
+        "A-2537.1"
+      ],
+      "related_nodes": [
+        "N-10799"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:48",
+      "investigative_direction": "Subpoena the native back-camera file and compare its field of view with the FaceTime version.",
+      "transcript_snippet": "So yes, Niecy, I I agree with you um that it is very likely that he zoomed in on that footage and I believe the reason he did that was to obscure our view of the ground",
+      "mentions_person_refs": [
+        "N-576",
+        "N-267"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3842",
+      "ref": "C-3842",
+      "label": "Turning Point has the unzoomed footage",
+      "claim": "The host says Turning Point USA has the back-camera footage, that it should show the entire ground area, and that Tyler Robinson's defense should obtain it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10581"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:51",
+      "investigative_direction": "Defense subpoena to TPUSA for all camera media recorded at UVU on September 10, 2025.",
+      "transcript_snippet": "That footage should not be zoomed in. She's correct. Turning Point has that footage.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3843",
+      "ref": "C-3843",
+      "label": "Charlie sat on a chair on a raised platform, a new setup",
+      "claim": "The host says that at the UVU event Charlie Kirk sat on a chair on a platform that put him above the table. She says that in years of tabling with him across the United States they were never on platforms.",
+      "anchored_artifacts": [
+        "A-2539.1"
+      ],
+      "related_nodes": [
+        "N-10908",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:36",
+      "investigative_direction": "Obtain TPUSA event-production specifications and staging orders for 2024–2025 tabling events.",
+      "transcript_snippet": "Charlie oddly is on a chair that is upon a platform that seats him above the table.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3844",
+      "ref": "C-3844",
+      "label": "The camera behind Charlie's head first appeared in 2025",
+      "claim": "The host says her team could not find any tabling event before late 2024 with a camera directly behind Charlie Kirk's head, and that it appears to have arrived in 2025 with the American Comeback Tour.",
+      "anchored_artifacts": [
+        "A-2539.1"
+      ],
+      "related_nodes": [
+        "N-10908",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:42",
+      "investigative_direction": "Crowdsource and date every TPUSA tabling video to find the first appearance of the rear camera angle.",
+      "transcript_snippet": "we couldn't find a time before late 2024 when Charlie is table in and there's a camera directly behind his head. That appears to have arrived in 2025.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3845",
+      "ref": "C-3845",
+      "label": "No camera behind Charlie's head on the 2024 Brainwashed tour",
+      "claim": "The host shows Brainwashed tour photos from March 7, 2024, the University of Wisconsin on September 5, 2024, and Northern Arizona University on October 15, 2024, and says none had a camera behind Charlie Kirk's head.",
+      "anchored_artifacts": [
+        "A-2539.2"
+      ],
+      "related_nodes": [
+        "N-10908"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:37",
+      "investigative_direction": "Verify the dates and locations of the photos against TPUSA's 2024 tour schedule.",
+      "transcript_snippet": "And here is Charlie at Northern Arizona University on October 15th, 2024. Again, the brainwashed tour. There is no camera behind his head.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3846",
+      "ref": "C-3846",
+      "label": "The new camera arrived with the Why Refi sponsorship deal",
+      "claim": "The host says the rear camera angle seems to have arrived specifically with TPUSA's big sponsorship deal with \"Wiyre Fy\" (Why Refi).",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10870",
+        "N-10908",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:38",
+      "investigative_direction": "Compare the Why Refi sponsorship contract dates and deliverables with the first appearance of the rear camera.",
+      "transcript_snippet": "That's also seems to have arrived specifically with the big sponsorship deal with Wiyre Fy as well."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3847",
+      "ref": "C-3847",
+      "label": "Lori Frantzve and Larry Ginta pursued a patent-pending interchangeable-caliber gun",
+      "claim": "According to a tip relayed by the host, Lori Frantzve and Larry Ginta were interested in a patent-pending gun with interchangeable calibers, achieved by extending the cylinder. The host says the patent has since been approved.",
+      "anchored_artifacts": [
+        "A-2540.1"
+      ],
+      "related_nodes": [
+        "N-10907"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:43",
+      "investigative_direction": "Search USPTO records for interchangeable-caliber revolver patents filed around 2016 and their inventors.",
+      "transcript_snippet": "Similarly, Lori Frantzve and Larry were interested in a gun pending patent and this was going to be a gun that was and is today the only now patent approved weapon that features interchangeable calibers, okay?",
+      "mentions_person_refs": [
+        "N-500",
+        "N-397"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3848",
+      "ref": "C-3848",
+      "label": "Victor Marx wanted the Fold AR patent for Israel",
+      "claim": "The host says Victor Marx wanted Corby Hall's Fold AR patent for Israel and sought to push Hall out so he would sell it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10600",
+        "N-10618"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:43",
+      "investigative_direction": "Obtain Marx–Hall correspondence on the proposed acquisition and any named Israeli buyer.",
+      "transcript_snippet": "Victor Marx wants the patent for Israel. Let me remind you, Victor Marx wanted the patent for Israel.",
+      "mentions_person_refs": [
+        "N-348",
+        "N-349"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3849",
+      "ref": "C-3849",
+      "label": "Lori and Larry met the patent holders at a Salt Lake City expo and offered their G-Tech angel investor",
+      "claim": "According to the tip, Lori Frantzve and Larry Ginta met the patent holders at a Salt Lake City expo where Lori was promoting G-Tech Industries' EMP technology. The tip says they offered to introduce them to G-Tech's angel investor. The host says \"allegedly\".",
+      "anchored_artifacts": [
+        "A-2540.1"
+      ],
+      "related_nodes": [
+        "N-10907"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:04",
+      "investigative_direction": "Identify the 2016 Salt Lake City expo's exhibitor list and G-Tech Industries' corporate filings and investors.",
+      "transcript_snippet": "Allegedly, at this time she and Larry um meet some the guys that have this patent pending and they offer to introduce these guys to their angel investor for G-Tech Industries.",
+      "mentions_person_refs": [
+        "N-500",
+        "N-397"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3850",
+      "ref": "C-3850",
+      "label": "Late-2016 Scottsdale dinner with Lori, Larry and the would-be gun company owners",
+      "claim": "According to the tip, a dinner was held in Scottsdale in late 2016 with Lori Frantzve, Larry Ginta and the two would-be company owners to discuss the patent, before the gun was manufactured.",
+      "anchored_artifacts": [
+        "A-2540.1"
+      ],
+      "related_nodes": [
+        "N-10907"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:04",
+      "investigative_direction": "Interview the patent holders and identify the restaurant and date of the dinner.",
+      "transcript_snippet": "So they set up a dinner back in Scottsdale, Arizona. Again, this is going to be late 2016. At this dinner you have Lori, you have Larry Ginta, and the two would-be company owners.",
+      "mentions_person_refs": [
+        "N-500",
+        "N-397"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3851",
+      "ref": "C-3851",
+      "label": "Lori and Larry offered access to government contracts",
+      "claim": "According to the tip, what Lori Frantzve and Larry Ginta offered in exchange for a stake in the patent was access to government contracts.",
+      "anchored_artifacts": [
+        "A-2540.1"
+      ],
+      "related_nodes": [
+        "N-10907"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:04",
+      "investigative_direction": "Search federal contracting databases for awards to Lori Frantzve-linked entities.",
+      "transcript_snippet": "So they were there to discuss only the patent, a potential deal for it, um and what they could offer in exchange for it. The answer being, we have access to government contracts.",
+      "mentions_person_refs": [
+        "N-500",
+        "N-397"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3852",
+      "ref": "C-3852",
+      "label": "Erika Frantzve arrived unannounced at the dinner",
+      "claim": "According to the tip, Erika Frantzve arrived unannounced and late at the Scottsdale dinner and joined the business discussion about the patent.",
+      "anchored_artifacts": [
+        "A-2540.1"
+      ],
+      "related_nodes": [
+        "N-10907"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:11",
+      "investigative_direction": "Corroborate the tipster's account with the second patent holder or other diners.",
+      "transcript_snippet": "My favorite part of the story is who strolls in unannounced at this dinner to sweeten up the potential deal. None other than Erika Frantzve.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-500"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3853",
+      "ref": "C-3853",
+      "label": "Lori said Erika was newly dating a man with big political connections",
+      "claim": "According to the tip, Erika's mother said at the dinner that Erika was a couple of months into dating a man with very big political connections.",
+      "anchored_artifacts": [
+        "A-2540.1"
+      ],
+      "related_nodes": [
+        "N-10907"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:11",
+      "investigative_direction": "Interview the tipster about the exact words used and the dinner date.",
+      "transcript_snippet": "Her mother says, \"Oh, well, she's It's not known yet, but she's just now dating a guy that has some very big political connections.",
+      "mentions_person_refs": [
+        "N-500",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3854",
+      "ref": "C-3854",
+      "label": "Erika was dating Cabot Phillips, not Charlie Kirk, at the time",
+      "claim": "The host says the tipster assumed the boyfriend was Charlie Kirk, but by her team's timeline Erika was dating Cabot Phillips at that time.",
+      "anchored_artifacts": [
+        "A-2540.1"
+      ],
+      "related_nodes": [
+        "N-10907"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:24",
+      "investigative_direction": "Establish dates of Erika Frantzve's relationship with Cabot Phillips from contemporaneous social-media posts.",
+      "transcript_snippet": "the person in retrospect thought that she was talking about Charlie Kirk, but she actually wasn't at this time, according to our timeline, Erika was dating Cabot Phillips.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-372",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3855",
+      "ref": "C-3855",
+      "label": "The patent holder later had a lawsuit with Victor Marx",
+      "claim": "The host says nothing came of the dinner and that the person involved with the patent later got into a lawsuit with Victor Marx, the outcome of which she has not yet established.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10907"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:34",
+      "investigative_direction": "Search state and federal court dockets for litigation between Victor Marx and the patent holder.",
+      "transcript_snippet": "the person that was involved with this patent, eventually got into a little uh lawsuit with Victor Marx.",
+      "mentions_person_refs": [
+        "N-348"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3856",
+      "ref": "C-3856",
+      "label": "Jeffrey Epstein began his career in weapons trafficking",
+      "claim": "The host asserts that Jeffrey Epstein began his career in weapons trafficking.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10023"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:26",
+      "investigative_direction": "Review published testimony and reporting on Epstein's early business activity.",
+      "transcript_snippet": "Jeffrey Epstein, we we speak about the files and we talk about the blackmail and we talk about the sex, but Jeffrey Epstein began his career in weapons trafficking.",
+      "mentions_person_refs": [
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3857",
+      "ref": "C-3857",
+      "label": "A former Mossad agent testified Robert Maxwell brought Epstein into Iran-Contra",
+      "claim": "The host says a former Mossad agent testified that Epstein was introduced by Robert Maxwell and brought into the Iran-Contra affair, crediting Xavier Poussard's journalism.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10023"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:45",
+      "investigative_direction": "Locate the testimony referenced (likely Ari Ben-Menashe's) and its original source.",
+      "transcript_snippet": "Because a former Mossad agent testified to that effect, that he was introduced by Robert Maxwell and brought into the Iran-Contra affair.",
+      "mentions_person_refs": [
+        "N-9",
+        "N-48",
+        "N-290"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3858",
+      "ref": "C-3858",
+      "label": "Blake Neff wrote that Robinson's parents recognized photos of the suspect, not the gun",
+      "claim": "The host reads Blake Neff's X post saying the charging document shows Tyler Robinson's parents did not recognize the gun but recognized FBI-released photos of the suspect. The post says only then did they suspect the rifle was a match, after the FBI had announced finding a bolt-action rifle.",
+      "anchored_artifacts": [
+        "A-2541.1"
+      ],
+      "related_nodes": [
+        "N-10022"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:35",
+      "investigative_direction": "Compare the charging document's account with the FBI's public releases on September 11–12, 2025.",
+      "transcript_snippet": "They recognized photos of the suspect, which were released by the FBI as looking like their son.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3859",
+      "ref": "C-3859",
+      "label": "Daily Mail reported Robinson's father recognized a family heirloom in media reports",
+      "claim": "The host says she replied to Neff with headlines including a Daily Mail story that Tyler Robinson's father realized his son was the shooter after seeing a family heirloom in media reports, and an MSN story that he had recognized the rifle.",
+      "anchored_artifacts": [
+        "A-2541.2"
+      ],
+      "related_nodes": [
+        "N-10070",
+        "N-10022"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:52",
+      "investigative_direction": "Archive the Daily Mail and MSN articles with publication dates and sourcing.",
+      "transcript_snippet": "Like this one in the Daily Mail, \"Tyler Robinson's father realized his son was shooter after seeing family heirloom in media reports.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3860",
+      "ref": "C-3860",
+      "label": "Robinson message said the feds released a photo of the \"very unique\" rifle",
+      "claim": "The host reads a Tyler Robinson text message from the charging document saying his dad wanted photos of the rifle and the feds had released a photo of it. She argues this made it fair for media to conclude his father recognized the rifle.",
+      "anchored_artifacts": [
+        "A-2541.3"
+      ],
+      "related_nodes": [
+        "N-10077",
+        "N-10022"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:16",
+      "investigative_direction": "Compare the message's timestamp with the time of the FBI's rifle-photo release.",
+      "transcript_snippet": "My dad wants photos of the rifle. He says grandpa wants to know who has what. The feds released a photo of the rifle and it is very unique.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3861",
+      "ref": "C-3861",
+      "label": "Donors say Charlie never named Erika his successor at Aspen",
+      "claim": "The host says multiple donors told her Charlie Kirk never said \"I appoint Erika Kirk to be the CEO and chairman\" at Aspen, either on stage or at a smaller dinner of about 10 to 12 people. She says the donors believe the released audio is AI.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10664"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:16",
+      "investigative_direction": "Obtain the original Aspen recording with metadata for forensic audio analysis, and attendee statements.",
+      "transcript_snippet": "They claim that he never said that in Aspen.",
+      "supports_claim_refs": [
+        "C-2694"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3862",
+      "ref": "C-3862",
+      "label": "TPUSA declined to share the Aspen video and Neff called the host a psychopath",
+      "claim": "The host says Erika Kirk told Megyn Kelly that TPUSA has the Aspen video, yet it declined to share it. She says Blake Neff instead accused her of being a psychopath, as with a knife on a subway, as the reason it could not be shared.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10664",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:07",
+      "investigative_direction": "Archive Neff's statement and Erika Kirk's Megyn Kelly interview remark on the video.",
+      "transcript_snippet": "And you accused me of being a psychopath with with a with a gun or a knife rather on a subway and that's why you couldn't share it.",
+      "supports_claim_refs": [
+        "C-2661"
+      ],
+      "mentions_person_refs": [
+        "N-162",
+        "N-2",
+        "N-46",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3863",
+      "ref": "C-3863",
+      "label": "TPUSA put up a recreation of the tent Charlie died under for selfies",
+      "claim": "The host says TPUSA put up a recreation of the tent Charlie Kirk died under for selfies.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10376",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:07",
+      "investigative_direction": "Collect AmFest photos and TPUSA event plans showing the tent recreation.",
+      "transcript_snippet": "you you put up a tent uh a recreation of a tent that Charlie had died under for selfies.",
+      "supports_claim_refs": [
+        "C-1991"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3864",
+      "ref": "C-3864",
+      "label": "Laura Loomer tweeted \"God hates you\" at the host",
+      "claim": "The host reads Laura Loomer's tweet to her saying God gave Charlie to Erika because God hates the host, and says it drew about 6,000 replies.",
+      "anchored_artifacts": [
+        "A-2542.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:33:51",
+      "investigative_direction": "Archive the post with its timestamp and reply count.",
+      "transcript_snippet": "God hates you at Real Candace O. It's why he gave Charlie to Erika and why you didn't even get to say goodbye to him.",
+      "mentions_person_refs": [
+        "N-60",
+        "N-3",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3865",
+      "ref": "C-3865",
+      "label": "Loomer says she speaks to Trump several times a day",
+      "claim": "The host says that, according to Laura Loomer, she speaks to Donald Trump by phone multiple times a day, and that one of his first calls after attacking Iran was to her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10590"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:03",
+      "investigative_direction": "Locate Loomer's public statements on call frequency and the reported post-strike call.",
+      "transcript_snippet": "According to her, multiple times a day she speaks to him on the phone. One of the first phone calls he made after attacking Iran was to Laura Loomer.",
+      "mentions_person_refs": [
+        "N-60",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3866",
+      "ref": "C-3866",
+      "label": "2019 Spectator profile: Loomer described cocaine use and a suicide attempt",
+      "claim": "The host quotes a 2019 Spectator article, \"The Tale of Laura Loomer,\" in which Loomer said she dealt with depression by using cocaine at 23. She also said she once drove to a cliff in February and tried to kill herself.",
+      "anchored_artifacts": [
+        "A-2542.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:35:40",
+      "investigative_direction": "Retrieve the 2019 Spectator article and confirm the quotes.",
+      "transcript_snippet": "I had really bad anxiety and depression and then I started to basically deal with depression by doing cocaine.",
+      "mentions_person_refs": [
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3867",
+      "ref": "C-3867",
+      "label": "People in Melania's circle say Loomer is the person most likely to harm Trump",
+      "claim": "The host says that, as she understands it, people in Melania Trump's circle have said Laura Loomer would be the person most likely to harm Donald Trump.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:36:45",
+      "investigative_direction": "Identify any on-record source from Melania Trump's staff or associates.",
+      "transcript_snippet": "as I understand it, Melania is in her circle, have said this, that she would be the most likely person to harm Donald Trump.",
+      "mentions_person_refs": [
+        "N-613",
+        "N-60",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3868",
+      "ref": "C-3868",
+      "label": "Laura Loomer is not allowed to own guns",
+      "claim": "The host says Laura Loomer is not allowed to own guns, and later that there are 50 states in which she cannot own one.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10628"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:45",
+      "investigative_direction": "Check NICS-disqualifying records such as involuntary commitment orders in Florida.",
+      "transcript_snippet": "So, you can understand why she's not allowed to own guns.",
+      "mentions_person_refs": [
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3869",
+      "ref": "C-3869",
+      "label": "Loomer said she wants the host's children to suffer and live on the streets",
+      "claim": "The host says Laura Loomer said the day before that she wants the host's children to suffer and live on the streets, and that Loomer is also attacking the host's lawyer and in-laws.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:37:41",
+      "investigative_direction": "Archive Loomer's posts referencing the host's children, lawyer and in-laws.",
+      "transcript_snippet": "She wants my children to suffer and to live on the streets because she doesn't like that I'm against what Israel is doing.",
+      "mentions_person_refs": [
+        "N-60",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3870",
+      "ref": "C-3870",
+      "label": "Loomer told the Spectator she became addicted to social media",
+      "claim": "The host quotes the Spectator article in which Loomer said, after losing Twitter access, that she became addicted to social media, substituted her lows with adrenaline rushes on Twitter, and had withdrawals when banned.",
+      "anchored_artifacts": [
+        "A-2542.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:38:28",
+      "investigative_direction": "Retrieve the 2019 Spectator article and confirm the quote.",
+      "transcript_snippet": "I became addicted to social media. I kind of lived off of the adrenaline.",
+      "mentions_person_refs": [
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3871",
+      "ref": "C-3871",
+      "label": "Clip of Loomer on Alex Jones saying her life was ruined",
+      "claim": "The host plays a clip of Laura Loomer on Alex Jones's show shouting that her life is ruined and that she does not want people calling her a conspiracy theorist.",
+      "anchored_artifacts": [
+        "A-2542.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:39:28",
+      "investigative_direction": "Identify the Infowars episode and air date of the clip.",
+      "transcript_snippet": "I don't want TO LISTEN TO PEOPLE TELL ME THAT I'M A CONSPIRACY THEORIST.",
+      "mentions_person_refs": [
+        "N-60",
+        "N-93"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3872",
+      "ref": "C-3872",
+      "label": "Trump called Tucker Carlson, Megyn Kelly and the host mentally ill while taking Loomer's advice on Iran",
+      "claim": "The host says Donald Trump tweeted that Tucker Carlson, Megyn Kelly and Candace Owens are mentally ill while inviting Laura Loomer into his inner circle for advice on Iran.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10590"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:28",
+      "investigative_direction": "Archive the Truth Social post and its date.",
+      "transcript_snippet": "If he makes a conscious decision to tweet out that Tucker Carlson and Meghan Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-22",
+        "N-46",
+        "N-3",
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3873",
+      "ref": "C-3873",
+      "label": "The Robinson judge was appointed by Governor Cox",
+      "claim": "The host says many people looked into the judge in Tyler Robinson's case and found it suspicious that he was appointed by Governor Cox and lacked experience for a case of this size.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:43:49",
+      "investigative_direction": "Check the Utah judicial appointment record for the presiding judge.",
+      "transcript_snippet": "I know a lot of people um had looked into the judge and thought that it was very suspicious that he was appointed by Governor Cox",
+      "mentions_person_refs": [
+        "N-41",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3874",
+      "ref": "C-3874",
+      "label": "600,000 files were dumped on the defense in March",
+      "claim": "The host says prosecutors dumped 600,000 files on Tyler Robinson's defense in March, about seven months into the case, making a continuance reasonable.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10570"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:48",
+      "investigative_direction": "Review the court's discovery orders and the defense's continuance motion.",
+      "transcript_snippet": "We looked they dumped 600,000 files on them in March.",
+      "supports_claim_refs": [
+        "C-2615"
+      ],
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3875",
+      "ref": "C-3875",
+      "label": "Judge earlier assured the defense a trial date could be moved",
+      "claim": "The host says the defense asked not to set a date until discovery was in hand, and the judge replied that the date could always be bumped. She says a refusal now, after Erika Kirk asserted her victim's rights, would be telling.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10626",
+        "N-10570"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:48",
+      "investigative_direction": "Obtain the hearing transcript in which the date was set.",
+      "transcript_snippet": "Remember, the the the defense said, \"Let's not put a day on the calendar until we have our discovery stuff and we we'll have a better idea.\"",
+      "mentions_person_refs": [
+        "N-2",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3876",
+      "ref": "C-3876",
+      "label": "Erika's \"one thing for my kids\" reply to Fox News on the burial location",
+      "claim": "The host says that when Fox News asked Erika Kirk where Charlie Kirk was buried, she asked to keep one thing for her kids. The host disputes that reasoning.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10006",
+        "N-10751"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:03",
+      "investigative_direction": "Archive the Fox News interview segment with its air date.",
+      "transcript_snippet": "And they asked about where he was buried, and it was like, \"One thing for your kids, girl, you took us into the casket.",
+      "supports_claim_refs": [
+        "C-1897"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3877",
+      "ref": "C-3877",
+      "label": "Erika moved Charlie's body a couple of times",
+      "claim": "The host says she learned early on that Erika Kirk had moved Charlie Kirk's body a couple of times.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10751",
+        "N-10759"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:03",
+      "investigative_direction": "Obtain Utah and Arizona burial-transit permits and funeral-home records.",
+      "transcript_snippet": "And I I had wondered because I learned early on that she had moved the body a couple of times.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3878",
+      "ref": "C-3878",
+      "label": "Charlie's body first went to a burial and cremation service",
+      "claim": "The host says Charlie Kirk's body was first taken to a burial plus cremation services provider and then somewhere else, and asks whether he was cremated after a Catholic funeral mass.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10751",
+        "N-10323"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:09",
+      "investigative_direction": "Identify the first funeral provider and check cremation authorization records.",
+      "transcript_snippet": "at first his body was taken to a place that was a a burial plus cremation services, and then it was taken somewhere else",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3879",
+      "ref": "C-3879",
+      "label": "Host asks for tips on whether Charlie Kirk was cremated and pledges source protection",
+      "claim": "The host asks for tips at candaceowens.com on whether Charlie Kirk was cremated, says she will fully protect sources' identities, and says none of her sources has ever been outed.",
+      "anchored_artifacts": [
+        "A-2543.1"
+      ],
+      "related_nodes": [
+        "N-10751"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:03",
+      "investigative_direction": "Track tips received on the cremation question and corroborate with funeral records.",
+      "transcript_snippet": "More tips at candaceowens. com. More tips at candaceowens. com. We will protect your identity entirely.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3880",
+      "ref": "C-3880",
+      "label": "Viewer says they have footage that could change the investigation",
+      "claim": "The host reads a viewer comment from \"Keeping faith with Father Joseph\" saying they have footage that could change the investigation, and asks them to email it to the show.",
+      "anchored_artifacts": [
+        "A-2543.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:49:43",
+      "investigative_direction": "Follow up on whether the footage was submitted and authenticate it.",
+      "transcript_snippet": "Keeping faith with Father Joseph writes, Candace, I have footage that could change the investigation. DM me. Email it to us.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3881",
+      "ref": "C-3881",
+      "label": "New sentences, including the \"pooch\" line, were added to Robinson's messages",
+      "claim": "The host says that in the affidavits, ellipses in Tyler Robinson's previously released messages have been filled with added sentences. One, sent to Lance Twiggs, reads \"I hope that pooch has a bad sniffer.\"",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10077"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:43",
+      "investigative_direction": "Compare the message text in the original charging document with the later affidavits line by line.",
+      "transcript_snippet": "they had some ellipses at various points in the messages that we got, and they've added sentences.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3882",
+      "ref": "C-3882",
+      "label": "Kash Patel is suing The Atlantic over a report that he is a drunk",
+      "claim": "The host says Kash Patel is suing The Atlantic because it reported that he is a drunk.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:52:39",
+      "investigative_direction": "Check federal and state dockets for a Patel v. The Atlantic defamation complaint.",
+      "transcript_snippet": "And I feel like Kash Patel right now suing um is it The Atlantic because they said that he's a drunk.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-3883",
+      "ref": "C-3883",
+      "label": "Victor Marx declined to join Corby Hall; Hall interview to air next day",
+      "claim": "The host says Victor Marx did not want to join Corby Hall on the show, so she kept her appointment with Hall for an interview airing the next day. She says Marx had demanded to bring his wife and set terms of engagement.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10613"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:47",
+      "investigative_direction": "Obtain the host's correspondence with Victor Marx on interview terms.",
+      "transcript_snippet": "Obviously, you know, Victor Marx uh did not want to join with Corby Hall. So we kept our appointment with Corby Hall.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-348",
+        "N-349"
+      ]
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 95,
+          "video_timestamp": "00:49:03",
+          "speaker_node_ref": "N-3",
+          "quote": "More tips at candaceowens. com. More tips at candaceowens. com. We will protect your identity entirely. You can trust us. We have protected our sources from the very beginning.",
+          "context": "Host asks for tips on whether Charlie Kirk was cremated and pledges source protection.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia",
+            "crowdsource",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 95,
+          "video_timestamp": "00:49:43",
+          "speaker_node_ref": "N-3",
+          "quote": "Email it to us. Um, I'll look out for that. More tips at CandaceOwens. com.",
+          "context": "Host asks a viewer who says they have footage to email it in.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia",
+            "crowdsource",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-15",
+      "ref": "M-15",
+      "canonical_term": "We Don't Know But We Know",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 95,
+          "video_timestamp": "00:45:56",
+          "speaker_node_ref": "N-3",
+          "quote": "You know, we don't know, no, but we know.",
+          "context": "Host on what a refused continuance would reveal about the Robinson judge.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "gut_certainty",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-75",
+      "ref": "M-75",
+      "canonical_term": "I'll Say Allegedly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 95,
+          "video_timestamp": "00:18:04",
+          "speaker_node_ref": "N-3",
+          "quote": "And I'm going to say allegedly here, but I am telling you the truth. Allegedly, at this time she and Larry um meet some the guys that have this patent pending",
+          "context": "Host hedges the tip about Lori Frantzve's 2016 gun-patent dinner.",
+          "confidence": "high",
+          "tags": [
+            "hedge",
+            "tip",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-44",
+      "ref": "M-44",
+      "canonical_term": "It's Giving",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 95,
+          "video_timestamp": "00:50:27",
+          "speaker_node_ref": "N-3",
+          "quote": "If you go back and look at her tweets, it's not You don't say like I love like if she's like I'm in love. I love. It's It's giving fatal attraction.",
+          "context": "Host on Laura Loomer's devotion to Donald Trump.",
+          "confidence": "high",
+          "tags": [
+            "vibe",
+            "roast",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-45",
+      "ref": "M-45",
+      "canonical_term": "Spiritual Warfare",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 95,
+          "video_timestamp": "00:33:51",
+          "speaker_node_ref": "N-3",
+          "quote": "Trump, that's one of his top advisers, is surrounded by people who are quite literally in need of an exorcism. I'm not saying that for dramatic effect.",
+          "context": "Host frames Laura Loomer's tweet as demonic and Trump's circle as needing exorcism; reprised at 00:50:27 (\"she is very much in need of an exorcism\").",
+          "confidence": "medium",
+          "tags": [
+            "spiritual",
+            "roast",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-85",
+      "ref": "M-85",
+      "canonical_term": "Send Blake Some Kit",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 95,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "We definitely have to send him some kid. I was asking the producers what should we send him? We should maybe send him some some maca hats make America Christian again.",
+          "context": "Host opens by calling Blake Neff her \"arch-nemesis\" and \"super fan\" and proposes sending him merch.",
+          "confidence": "high",
+          "tags": [
+            "roast",
+            "merch",
+            "running_bit"
+          ]
+        },
+        {
+          "episode": 95,
+          "video_timestamp": "00:43:49",
+          "speaker_node_ref": "N-3",
+          "quote": "you can head to candaceowens. com and grab yourself some kit, maybe some kit that we're going to send to Blakey Neff.",
+          "context": "Host reprises the bit in the merch plug.",
+          "confidence": "high",
+          "tags": [
+            "roast",
+            "merch",
+            "running_bit"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-86",
+      "ref": "M-86",
+      "canonical_term": "That's My Opinion, I'm Sticking to It",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 95,
+          "video_timestamp": "00:10:51",
+          "speaker_node_ref": "N-3",
+          "quote": "That's my position and I'm going to stick to that.",
+          "context": "Host on her view that the hidden ground footage would solve Charlie's murder.",
+          "confidence": "medium",
+          "tags": [
+            "catchphrase",
+            "stance"
+          ]
+        },
+        {
+          "episode": 95,
+          "video_timestamp": "00:53:22",
+          "speaker_node_ref": "N-3",
+          "quote": "Anyways, that's my opinion. I'm sticking to it.",
+          "context": "Host closes her riff on Kash Patel's suit against The Atlantic.",
+          "confidence": "medium",
+          "tags": [
+            "catchphrase",
+            "stance"
+          ]
+        }
+      ]
+    }
+  ]
 }

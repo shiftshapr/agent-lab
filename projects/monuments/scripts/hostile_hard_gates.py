@@ -100,10 +100,10 @@ def _p2_findings(monument_dir: Path) -> list[Finding]:
     if ep9.is_file():
         t = ep9.read_text(encoding="utf-8")
         if "**N-10127**" in t and not re.search(
-            r"^Related Nodes:.*\bN-1193\b", t, re.MULTILINE | re.IGNORECASE
+            r"^Related Nodes:.*\bN-10127\b", t, re.MULTILINE | re.IGNORECASE
         ):
             pre = t.split("## 4. Node Register")[0]
-            if not re.search(r"^\*Related:.*\bN-1193\b", pre, re.MULTILINE):
+            if not re.search(r"^\*Related:.*\bN-10127\b", pre, re.MULTILINE):
                 out.append(
                     Finding("P2", "ORPHAN_NODE", 9, "N-10127", "Poland not on Claim/Artifact Related")
                 )

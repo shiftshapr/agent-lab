@@ -12,8 +12,8 @@
 - **Model Version**: grok-manual-extract-seq159
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10869, N-10870, N-10871, N-10872, N-10873
-  - Reused Nodes Appearing: N-1, N-2, N-9, N-22, N-36, N-37, N-40, N-46, N-5, N-69, N-82, N-85, N-98, N-14, N-194, N-277, N-221, N-447, N-272, N-7, N-508, N-276, N-547, N-387, N-162, N-10033, N-10056, N-10324, N-10388, N-10839, N-10859, N-10860, N-10863, N-10864, N-10866, N-10868, N-10, N-13, N-18, N-8, N-19, N-20, N-21, N-23, N-24, N-25, N-26, N-28, N-29, N-132, N-153, N-163
+  - New Nodes Introduced: N-10869, N-10872, N-10873
+  - Reused Nodes Appearing: N-1, N-2, N-9, N-22, N-36, N-37, N-40, N-46, N-5, N-69, N-82, N-85, N-98, N-14, N-194, N-277, N-221, N-447, N-272, N-7, N-508, N-276, N-547, N-387, N-162, N-10033, N-10056, N-10324, N-10388, N-10839, N-10859, N-10860, N-10863, N-10864, N-10866, N-10868, N-10, N-13, N-18, N-8, N-19, N-20, N-21, N-23, N-24, N-25, N-26, N-28, N-29, N-132, N-153, N-163, N-10870, N-10871
   - Hole-minted Nodes (remap-ep159): N-128, N-154, N-155, N-161
   - (see registers)
   - Person band: persons minted in this quality pass use N-8+ (see node register). Taylor Scornovako was not minted. Leah Thomas was not minted (phantom on the ep 158 true-new line only). Tim Dylan stays N-283 and N-283. Karoline Leavitt stays N-286. Pam Bondi, Todd Blanche, and Baron Coleman stay on their existing ids.

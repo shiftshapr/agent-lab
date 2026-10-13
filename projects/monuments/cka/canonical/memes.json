@@ -2,7 +2,7 @@
   "version": 1,
   "description": "Canonical dictionary of memes, euphemisms, and codes \u2013 shared across monuments",
   "updated": "2026-10-08T19:40:19Z",
-  "next_id": 85,
+  "next_id": 120,
   "entries": {
     "M-1": {
       "canonical_term": "(meme) Grieving Widow",
@@ -885,6 +885,286 @@
       "definition": "Host refusal to submit to pressure / evil",
       "context": "cka",
       "first_episode": 40
+    },
+    "M-85": {
+      "canonical_term": "(meme) Send Blake Some Kit",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host opens by calling Blake Neff her \"arch-nemesis\" and \"super fan\" and proposes sending him merch.",
+      "context": "cka",
+      "first_episode": 95
+    },
+    "M-86": {
+      "canonical_term": "(meme) That's My Opinion, I'm Sticking to It",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host on her view that the hidden ground footage would solve Charlie's murder.",
+      "context": "cka",
+      "first_episode": 95
+    },
+    "M-87": {
+      "canonical_term": "(meme) Military Bros",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's mocking label for the veteran YouTubers (Paramount Tactical / Valhalla) who tried to dissuade her from interviewing Mitch Snow.",
+      "context": "cka",
+      "first_episode": 100
+    },
+    "M-88": {
+      "canonical_term": "(meme) Ted Bundy Doing a Mr. Rogers Impression",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host reads Shane Cashman's line about Jeremy Boreing, which her team found the most accurate description.",
+      "context": "cka",
+      "first_episode": 100
+    },
+    "M-89": {
+      "canonical_term": "(meme) Grain of Crack Cocaine",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host repeats a line from an earlier episode, quoted back by a viewer, about how to take Laura Loomer's claims.",
+      "context": "cka",
+      "first_episode": 100
+    },
+    "M-90": {
+      "canonical_term": "(meme) Erika, Go Home",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host says Erika Kirk's \"I just want to go home\" line took the public's long-running advice.",
+      "context": "cka",
+      "first_episode": 101
+    },
+    "M-91": {
+      "canonical_term": "(meme) World of Make-Believe",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host frames the WHCD shooting and its aftermath as staged-feeling.",
+      "context": "cka",
+      "first_episode": 101
+    },
+    "M-92": {
+      "canonical_term": "(meme) Paramount Not So Tactical",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mocks Gary Melton for accidentally confirming facts against TPUSA's line.",
+      "context": "cka",
+      "first_episode": 103
+    },
+    "M-93": {
+      "canonical_term": "(meme) Trust Me Bro",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host explains why she is withholding the email itself.",
+      "context": "cka",
+      "first_episode": 104
+    },
+    "M-94": {
+      "canonical_term": "(meme) Erika Is Just Different",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mocks Erika Kirk approving the book order on the day of the assassination.",
+      "context": "cka",
+      "first_episode": 104
+    },
+    "M-95": {
+      "canonical_term": "(meme) Emotional Response Asset",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host seizes on the email's phrase for Erika Kirk.",
+      "context": "cka",
+      "first_episode": 105
+    },
+    "M-96": {
+      "canonical_term": "(meme) Unholy Alliance",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host opens the episode with the framing.",
+      "context": "cka",
+      "first_episode": 105
+    },
+    "M-97": {
+      "canonical_term": "(meme) Take the Erika",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host coins the phrase, casting endorsements of Erika Kirk as vaccine-campaign messaging.",
+      "context": "cka",
+      "first_episode": 106
+    },
+    "M-98": {
+      "canonical_term": "(meme) Operation Warp Widow",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host names the Erika Kirk rollout after Operation Warp Speed as she opens the WHCD email segment.",
+      "context": "cka",
+      "first_episode": 106
+    },
+    "M-99": {
+      "canonical_term": "(meme) Boo-ya Blake",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host nicknames Blake Neff over his attempted \"gotcha\" post on the Daily Mail article.",
+      "context": "cka",
+      "first_episode": 106
+    },
+    "M-100": {
+      "canonical_term": "(meme) Epstein Class",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host opens the episode after Massie's loss by naming the moneyed elite the \"Epstein class.\"",
+      "context": "cka",
+      "first_episode": 108
+    },
+    "M-101": {
+      "canonical_term": "(meme) Icarus Birdies",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host frames the arrogance of the powerful as an Icarus moment.",
+      "context": "cka",
+      "first_episode": 108
+    },
+    "M-102": {
+      "canonical_term": "(meme) Chronic Common Sense",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host rejects Marx's explanation of his early death post.",
+      "context": "cka",
+      "first_episode": 108
+    },
+    "M-103": {
+      "canonical_term": "(meme) Snakes in Charlie's Garden",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host ties the will appointment to the people around Charlie Kirk.",
+      "context": "cka",
+      "first_episode": 108
+    },
+    "M-104": {
+      "canonical_term": "(meme) Brigitte Bardot (Studio Doll)",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host personifies her Brigitte Macron doll, nicknamed \"Brigitte Bardot,\" celebrating its \"first national headline.\"",
+      "context": "cka",
+      "first_episode": 109
+    },
+    "M-105": {
+      "canonical_term": "(meme) You Will Know Them by Their Fruits",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host addresses Mark Levin about his family's Russian origins.",
+      "context": "cka",
+      "first_episode": 111
+    },
+    "M-106": {
+      "canonical_term": "(meme) Turning Coat USA",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's nickname for the post-Charlie Turning Point USA.",
+      "context": "cka",
+      "first_episode": 111
+    },
+    "M-107": {
+      "canonical_term": "(meme) Stop Anti-Candaceism",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host parodies antisemitism rhetoric with a new merch mug and plays the victim.",
+      "context": "cka",
+      "first_episode": 111
+    },
+    "M-108": {
+      "canonical_term": "(meme) Ivanka Glow",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mocks the bright backlighting in Ivanka Trump's podcast clip as a halo.",
+      "context": "cka",
+      "first_episode": 112
+    },
+    "M-109": {
+      "canonical_term": "(meme) Ivanka the Explorer",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's running nickname for Ivanka Trump over her story of \"discovering\" Sazan Island.",
+      "context": "cka",
+      "first_episode": 113
+    },
+    "M-110": {
+      "canonical_term": "(meme) Tap Tap Tap",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mocks Hegseth's \"tap tap tap bombs\" line from the CENTCOM press remarks.",
+      "context": "cka",
+      "first_episode": 113
+    },
+    "M-111": {
+      "canonical_term": "(meme) Larry Loomer",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's running bit calling Laura Loomer \"Larry.\"",
+      "context": "cka",
+      "first_episode": 113
+    },
+    "M-112": {
+      "canonical_term": "(meme) Troll the Trolls",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host turns TPUSA's \"troll the trolls\" explanation for the appointment video against Kolvet.",
+      "context": "cka",
+      "first_episode": 113
+    },
+    "M-113": {
+      "canonical_term": "(meme) FOIA FU",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mocks the FOIA office's indefinite-delay response on Hansell's SAM702 records.",
+      "context": "cka",
+      "first_episode": 114
+    },
+    "M-114": {
+      "canonical_term": "(meme) FOIA Around and Find Out",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host opens the FOIA update.",
+      "context": "cka",
+      "first_episode": 115
+    },
+    "M-115": {
+      "canonical_term": "(meme) Punt the Chihuahua",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host revisits last week's line about Alex Clark in response to a viewer comment.",
+      "context": "cka",
+      "first_episode": 115
+    },
+    "M-116": {
+      "canonical_term": "(meme) Broken Bomb Dog Noses",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mocks the bomb dogs' failure to find the rifle or be brought to Charlie Kirk's seat.",
+      "context": "cka",
+      "first_episode": 116
+    },
+    "M-117": {
+      "canonical_term": "(meme) Paver Emergency",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host riffs on the contractor's phrase for the Sunday paving of the crime scene.",
+      "context": "cka",
+      "first_episode": 116
+    },
+    "M-118": {
+      "canonical_term": "(meme) Boiling the Frog Slowly",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host describes the gradual change in Charlie Kirk's mic placement on the fall 2024 tour as boiling the frog, and recalls using the expression before.",
+      "context": "cka",
+      "first_episode": 117
+    },
+    "M-119": {
+      "canonical_term": "(meme) All My Homies Do Work in Eastern Europe",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mocks the recurring Eastern European orphanage charity links among TPUSA figures after naming Soter Global Ministries.",
+      "context": "cka",
+      "first_episode": 117
     }
   },
   "types": {

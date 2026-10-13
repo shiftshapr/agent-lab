@@ -7,15 +7,3061 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
-    "extraction_timestamp": "2026-09-27T20:00:00Z",
-    "model_version": "MiniMax-M2.5",
+    "video_timestamp_range": "00:00:00–00:52:19",
+    "extraction_timestamp": "2026-10-13T21:35:51Z",
+    "model_version": "claude-manual-extract-seq109",
     "transcript_sha256": "236fef943cef52f96fb592632078d6db31c6860180f563aebb89ad68873b8fa5",
-    "analysis_date": "2026-09-27"
+    "analysis_date": "2026-10-13"
   },
-  "executive_summary": "Episode presents a multi-pronged investigation: an NSA FOIA response redirecting the request to the Office of the Secretary of War and Joint Staff; Pentagon correspondent Gabrielle Kuchta's X thread exposing Vine & Fig Tree (VFT) as a pro-Israel operation with White House ties via Sebastian Gorka and NSC director Shawn Chenowith; targeting of Candace's 3-year-old daughter by Natalie Jean Beisner; and TPUSA figures Andrew Kolvet and Blake Neff using the 'ghost of Charlie Kirk' to attack Thomas Massie. Evidentiary value is concentrated in Kuchta's published VFT Dropbox receipts and the FOIA trail.",
-  "artifacts": [],
-  "nodes": [],
-  "claims": [],
-  "memes": []
+  "executive_summary": "The host opens by showing a Hollywood Reporter headline about Hunter Biden appearing in her home studio next to her Brigitte Macron doll (A-2609.1). She then turns to a weekend shooting incident at the White House and gives an update on her FOIA requests about the email that, she says, asked for Erika Kirk's \"I Want to Go Home\" clip to be artificially boosted after the White House Correspondents' Dinner shooting. According to the host, the White House denied only that the White House Military Office drafted the email and then stopped replying when she copied Steven Cheung. The NSA answered her request by saying it was not seeking NSA records and redirecting it to the Office of the Secretary of War and/or the Joint Staff (A-2610.1). The host reads this as a redirect to Pete Hegseth's office.\n\nReturning to Fort Huachuca, the host restates Mitch Snow's account of seeing Brian Harpole leave a meeting on the morning of September 9, and Harpole's alibi that he flew from Texas to Salt Lake City at 2:30 p.m. She recaps the flight of an Air Force plane with the call sign SAM 702: it left Fort Huachuca at 11:43 a.m. that day, landed in El Paso at 1:31 p.m. and then flew to Andrews Air Force Base (A-2611.1). She rules out Pete Hegseth as a passenger because of his 3:00 p.m. Washington meeting with Singapore's Minister of Defense. She says nothing places Kash Patel on that date, and that she has filed a FOIA request about the flight. She also says Harpole's lawsuit and Brigitte Macron's lawsuit filing both contain verifiably false statements about her.\n\nThe longest segment reads former Pentagon correspondent Gabrielle Kuchta's X thread on Vine & Fig Tree (VFT) (A-2612). According to the thread, VFT is a pro-Israel organization that met Sebastian Gorka at the White House. Kuchta writes that she was then asked, through a third party the host says Kuchta later names as the NSC's Shawn Chenowith, to write a script for an AI-generated video for the NSC and Gorka. She says a Dropbox of VFT reports profiled dissident-right accounts, the host among them, as susceptible to foreign influence. One report attributed distrust of the Charlie Kirk assassination narrative to Russian, Iranian and Pakistani propaganda and called it \"an urgent national security threat.\" Internal comments floated using Matt Walsh or Michael Knowles and collaborating with NCRI. The host ties NCRI to an earlier report featuring her face that framed \"Christ is King\" as antisemitic.\n\nThe host then addresses a tweet by Natalie Jean Beisner about her 3-year-old daughter (A-2613). She next criticizes Andrew Kolvet and Blake Neff for saying on The Charlie Kirk Show that Charlie Kirk had privately been frustrated with Thomas Massie (A-2614.1). Against this she sets a post by Massie's legislative director, Raphael Schriber, saying that Kolvet had phoned Massie's office on March 12, 2026 to apologize for a TPUSA video calling Massie a RINO (A-2614.2). She marks day 54 of her countdown asking TPUSA to release the alleged AI video of Charlie Kirk appointing Erika Kirk as CEO. In the comments segment she reads viewer notes on Erika Kirk and Victor Marx and on a leaker in Kanye West's circle (A-2615), and announces a week off air for a family trip to St. Petersburg.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2609",
+      "family_ref": "A-2609",
+      "bundle_name": "Hollywood Reporter Headline Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2609.1",
+          "ref": "A-2609.1",
+          "description": "Hollywood Reporter article headline on Hunter Biden in the host's home studio (shown)",
+          "related_claims": [
+            "C-4267"
+          ],
+          "related_nodes": [
+            "N-646",
+            "N-82",
+            "N-10945"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:00:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2610",
+      "family_ref": "A-2610",
+      "bundle_name": "White House Email FOIA and Comment Requests Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2610.1",
+          "ref": "A-2610.1",
+          "description": "NSA response to the host's FOIA request (read aloud)",
+          "related_claims": [
+            "C-4274",
+            "C-4275"
+          ],
+          "related_nodes": [
+            "N-10068",
+            "N-10700",
+            "N-10923",
+            "N-605"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:06:15",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2610.2",
+          "ref": "A-2610.2",
+          "description": "Host verbal reference to the White House's denial and her follow-up email copying Steven Cheung (not shown)",
+          "related_claims": [
+            "C-4271",
+            "C-4272",
+            "C-4273"
+          ],
+          "related_nodes": [
+            "N-163",
+            "N-10923"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:05:12",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2611",
+      "family_ref": "A-2611",
+      "bundle_name": "SAM 702 Fort Huachuca Flight Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2611.1",
+          "ref": "A-2611.1",
+          "description": "Host's recap of the September 9 Air Force flight data (Fort Huachuca 11:43 a.m. – El Paso 1:31 p.m. – Andrews Air Force Base, call sign SAM 702)",
+          "related_claims": [
+            "C-4280",
+            "C-4281",
+            "C-4282",
+            "C-4284"
+          ],
+          "related_nodes": [
+            "N-10671",
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:09:42",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2611.2",
+          "ref": "A-2611.2",
+          "description": "Host verbal reference to Pete Hegseth's September 9 schedule and photographs of his meeting with Singapore's Minister of Defense (not shown)",
+          "related_claims": [
+            "C-4283"
+          ],
+          "related_nodes": [
+            "N-605"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:12:02",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2612",
+      "family_ref": "A-2612",
+      "bundle_name": "Gabrielle Kuchta Vine & Fig Tree Thread Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2612.1",
+          "ref": "A-2612.1",
+          "description": "Gabrielle Kuchta's earlier statement on Pentagon press restrictions (read aloud)",
+          "related_claims": [
+            "C-4286"
+          ],
+          "related_nodes": [
+            "N-654",
+            "N-605"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:13:30",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2612.2",
+          "ref": "A-2612.2",
+          "description": "Gabrielle Kuchta's X thread on Vine & Fig Tree (read aloud)",
+          "related_claims": [
+            "C-4287",
+            "C-4288",
+            "C-4289",
+            "C-4290",
+            "C-4291",
+            "C-4292",
+            "C-4293",
+            "C-4294",
+            "C-4295",
+            "C-4296",
+            "C-4297",
+            "C-4298",
+            "C-4300",
+            "C-4301",
+            "C-4302"
+          ],
+          "related_nodes": [
+            "N-654",
+            "N-655",
+            "N-656",
+            "N-10946",
+            "N-10947"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:15:42",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2612.3",
+          "ref": "A-2612.3",
+          "description": "Screenshots of the VFT Dropbox folders and documents posted by Kuchta (shown)",
+          "related_claims": [
+            "C-4291",
+            "C-4301"
+          ],
+          "related_nodes": [
+            "N-654",
+            "N-10946"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:23:55",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2613",
+      "family_ref": "A-2613",
+      "bundle_name": "Natalie Jean Beisner Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2613.1",
+          "ref": "A-2613.1",
+          "description": "Host's Sunday tweet about her daughter's Messi jersey (shown)",
+          "related_claims": [
+            "C-4304"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-30"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:30:23",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2613.2",
+          "ref": "A-2613.2",
+          "description": "Natalie Jean Beisner's tweet about the host's daughter (shown)",
+          "related_claims": [
+            "C-4304"
+          ],
+          "related_nodes": [
+            "N-660"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:31:07",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2613.3",
+          "ref": "A-2613.3",
+          "description": "Natalie Jean Beisner's Instagram profile (shown)",
+          "related_claims": [
+            "C-4305",
+            "C-4306"
+          ],
+          "related_nodes": [
+            "N-660"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:31:07",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2614",
+      "family_ref": "A-2614",
+      "bundle_name": "Thomas Massie / TPUSA Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2614.1",
+          "ref": "A-2614.1",
+          "description": "Clip from The Charlie Kirk Show of Andrew Kolvet and Blake Neff discussing Charlie Kirk's views on Thomas Massie (played)",
+          "related_claims": [
+            "C-4312"
+          ],
+          "related_nodes": [
+            "N-14",
+            "N-162",
+            "N-593",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:37:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2614.2",
+          "ref": "A-2614.2",
+          "description": "Raphael Schriber's tweet to Andrew Kolvet (read aloud)",
+          "related_claims": [
+            "C-4313",
+            "C-4314"
+          ],
+          "related_nodes": [
+            "N-661",
+            "N-14",
+            "N-593",
+            "N-10538"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:39:16",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2615",
+      "family_ref": "A-2615",
+      "bundle_name": "Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2615.1",
+          "ref": "A-2615.1",
+          "description": "Viewer comment (James The Least) on Erika Kirk and Victor Marx (read aloud)",
+          "related_claims": [
+            "C-4317"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-348"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:45:41",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2615.2",
+          "ref": "A-2615.2",
+          "description": "Viewer comment (Sean Kadkhoui) asking about the leaker to Erika Kirk from Kanye West's circle (read aloud)",
+          "related_claims": [
+            "C-4318"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-27"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:46:31",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2616",
+      "family_ref": "A-2616",
+      "bundle_name": "Lawsuit Filings Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2616.1",
+          "ref": "A-2616.1",
+          "description": "Host verbal reference to Brigitte Macron's lawsuit filing describing her as a UK–US dual citizen (not shown)",
+          "related_claims": [
+            "C-4276"
+          ],
+          "related_nodes": [
+            "N-82",
+            "N-10270"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:07:53",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2616.2",
+          "ref": "A-2616.2",
+          "description": "Host verbal reference to Brian Harpole's lawsuit on why he did the Shawn Ryan interview (not shown)",
+          "related_claims": [
+            "C-4277"
+          ],
+          "related_nodes": [
+            "N-272",
+            "N-229"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:08:43",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "The VFT report attributes distrust of his assassination narrative to foreign propaganda. Kolvet and Neff speak for his private views on Thomas Massie, and the host cites his September 9 message abandoning the pro-Israel cause.",
+      "related_artifacts": [
+        "A-2614.1"
+      ],
+      "related_claims": [
+        "C-4294",
+        "C-4295",
+        "C-4308",
+        "C-4310",
+        "C-4311",
+        "C-4312",
+        "C-4315"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Subject of the \"I Want to Go Home\" amplification email, the alleged AI appointment video, and viewer comments on Victor Marx and a leaker in Kanye West's circle.",
+      "related_artifacts": [
+        "A-2615.1",
+        "A-2615.2"
+      ],
+      "related_claims": [
+        "C-4270",
+        "C-4278",
+        "C-4308",
+        "C-4310",
+        "C-4317",
+        "C-4318"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; pursues FOIA requests and is named in the VFT reports. She disputes statements about herself in lawsuit filings and responds to a tweet about her daughter.",
+      "related_artifacts": [
+        "A-2613.1"
+      ],
+      "related_claims": [
+        "C-4272",
+        "C-4276",
+        "C-4277",
+        "C-4279",
+        "C-4285",
+        "C-4292",
+        "C-4298",
+        "C-4304",
+        "C-4315"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "Transcript spelling \"J. D. Vance\". The VFT data reportedly compiles information about his 2028 run.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4300"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "The host refers to repeated assassination attempts on him and alleges insider trading around his announcements and meme coins.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4268",
+        "C-4269",
+        "C-4320"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Says on The Charlie Kirk Show that Charlie Kirk was privately frustrated with Thomas Massie. Raphael Schriber's tweet says he had apologized to Massie's office in March.",
+      "related_artifacts": [
+        "A-2614.1",
+        "A-2614.2"
+      ],
+      "related_claims": [
+        "C-4311",
+        "C-4313",
+        "C-4314"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Named among the accounts profiled in the VFT reports.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4292"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-27",
+      "ref": "N-27",
+      "name": "Kanye West",
+      "type": "person",
+      "description": "Referred to as \"Kanye\". A viewer asks about a leaker to Erika Kirk from his circle.",
+      "related_artifacts": [
+        "A-2615.2"
+      ],
+      "related_claims": [
+        "C-4318"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-30",
+      "ref": "N-30",
+      "name": "George (Candace's husband)",
+      "type": "person",
+      "description": "Appears in the host's Messi jersey tweet (\"Husband, it's a Messi jersey\").",
+      "related_artifacts": [
+        "A-2613.1"
+      ],
+      "related_claims": [
+        "C-4304"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Referred to as \"BB\"; the host says he went on Fox News the day after the assassination and said he did not kill Charlie Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4316"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "The host says there is no indication of where he was on September 9 and links the SAM plane to Las Vegas, where he is from.",
+      "related_artifacts": [
+        "A-2611.1"
+      ],
+      "related_claims": [
+        "C-4284"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-82",
+      "ref": "N-82",
+      "name": "Brigitte Macron",
+      "type": "person",
+      "description": "Her doll sits in the host's studio in the Hollywood Reporter headline. Her lawsuit filing is said to call the host a UK–US dual citizen.",
+      "related_artifacts": [
+        "A-2609.1",
+        "A-2616.1"
+      ],
+      "related_claims": [
+        "C-4267",
+        "C-4276"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Michael Knowles",
+      "type": "person",
+      "description": "VFT internal comments reportedly contemplate getting him to publish on behalf of VFT.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4296"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-162",
+      "ref": "N-162",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "Called \"Blakey\" in the host's countdown. On The Charlie Kirk Show he says Charlie Kirk would have grown more frustrated with Massie, including over Epstein.",
+      "related_artifacts": [
+        "A-2614.1"
+      ],
+      "related_claims": [
+        "C-4308",
+        "C-4312"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-163",
+      "ref": "N-163",
+      "name": "Steven Cheung",
+      "type": "person",
+      "description": "The host says she copied him on her follow-up to the White House and that he was copied on the original email.",
+      "related_artifacts": [
+        "A-2610.2"
+      ],
+      "related_claims": [
+        "C-4273"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-166",
+      "ref": "N-166",
+      "name": "Matt Walsh",
+      "type": "person",
+      "description": "VFT internal comments reportedly contemplate getting him to publish on behalf of VFT.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4296"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-205",
+      "ref": "N-205",
+      "name": "Nick Fuentes",
+      "type": "person",
+      "description": "Profiled in the VFT reports; internal comments reportedly suggest undermining his Christian identity.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4292",
+        "C-4296"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-213",
+      "ref": "N-213",
+      "name": "Joe Kent",
+      "type": "person",
+      "description": "VFT collected polling on his resignation; the host says TPUSA joined in smearing him as a leaker.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4293",
+        "C-4299"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-217",
+      "ref": "N-217",
+      "name": "Nick Shirley",
+      "type": "person",
+      "description": "Named in the Kuchta thread; the host suggests he may be intentionally platformed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4290"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-229",
+      "ref": "N-229",
+      "name": "Shawn Ryan",
+      "type": "person",
+      "description": "Brian Harpole's interview on his podcast is cited in Harpole's lawsuit.",
+      "related_artifacts": [
+        "A-2616.2"
+      ],
+      "related_claims": [
+        "C-4277"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "His lawsuit, alibi flight and the Fort Huachuca sighting by Mitch Snow are revisited.",
+      "related_artifacts": [
+        "A-2616.2"
+      ],
+      "related_claims": [
+        "C-4277",
+        "C-4278",
+        "C-4279",
+        "C-4281"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-324",
+      "ref": "N-324",
+      "name": "Hodge Twins",
+      "type": "person",
+      "description": "Named among the accounts profiled in the VFT reports.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4292"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-348",
+      "ref": "N-348",
+      "name": "Victor Marx",
+      "type": "person",
+      "description": "Transcript spelling \"Victor Marks\". A viewer comment says he and Erika Kirk are close.",
+      "related_artifacts": [
+        "A-2615.1"
+      ],
+      "related_claims": [
+        "C-4317"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-369",
+      "ref": "N-369",
+      "name": "Mitch Snow",
+      "type": "person",
+      "description": "His account of seeing Brian Harpole at Fort Huachuca is restated; the host says she confirmed his presence but not his identification.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4278",
+        "C-4279"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-384",
+      "ref": "N-384",
+      "name": "Ian Carroll",
+      "type": "person",
+      "description": "Named among the accounts profiled in the VFT reports.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4292"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-447",
+      "ref": "N-447",
+      "name": "Johnny Moore",
+      "type": "person",
+      "description": "Named by the host as on the NCRI \"Christ is King\" report.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4298"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-593",
+      "ref": "N-593",
+      "name": "Thomas Massie",
+      "type": "person",
+      "description": "Kentucky congressman whom the host says Charlie Kirk called a favorite. He is the subject of the Kolvet/Neff segment, the Schriber tweet and the AIPAC spending allegation.",
+      "related_artifacts": [
+        "A-2614.1",
+        "A-2614.2"
+      ],
+      "related_claims": [
+        "C-4310",
+        "C-4311",
+        "C-4312",
+        "C-4313",
+        "C-4314",
+        "C-4319"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-605",
+      "ref": "N-605",
+      "name": "Pete Hegseth",
+      "type": "person",
+      "description": "The host says the NSA redirected her FOIA to his office. She rules him out of the SAM 702 flight because of his Singapore meeting, and Kuchta criticized his Pentagon press rules.",
+      "related_artifacts": [
+        "A-2610.1",
+        "A-2611.1",
+        "A-2611.2",
+        "A-2612.1"
+      ],
+      "related_claims": [
+        "C-4275",
+        "C-4282",
+        "C-4283",
+        "C-4286"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-607",
+      "ref": "N-607",
+      "name": "Jordan Peterson",
+      "type": "person",
+      "description": "Named by the host as on the NCRI \"Christ is King\" report.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4298"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Accused by the host of using \"the ghost of Charlie Kirk\" against Massie and of offering private screenings of the alleged AI video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4299",
+        "C-4308",
+        "C-4309",
+        "C-4313",
+        "C-4314",
+        "C-4315"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10068",
+      "ref": "N-10068",
+      "name": "NSA",
+      "type": "investigation_target",
+      "description": "First agency to respond to the host's FOIA request, redirecting it to the Office of the Secretary of War and/or the Joint Staff.",
+      "related_artifacts": [
+        "A-2610.1"
+      ],
+      "related_claims": [
+        "C-4274"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10070",
+      "ref": "N-10070",
+      "name": "Daily Mail",
+      "type": "investigation_target",
+      "description": "The host says TPUSA has been reaching out to Daily Mail reporters about the alleged AI video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4309"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10075",
+      "ref": "N-10075",
+      "name": "White House",
+      "type": "investigation_target",
+      "description": "Site of the weekend shooting incident and of the VFT meeting with Sebastian Gorka.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4269",
+        "C-4287"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10083",
+      "ref": "N-10083",
+      "name": "AIPAC",
+      "type": "investigation_target",
+      "description": "The host says AIPAC spent money to remove Thomas Massie.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4319"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10270",
+      "ref": "N-10270",
+      "name": "Macron Defamation Lawsuit Delaware Venue Question",
+      "type": "investigation_target",
+      "description": "Linked to the host's statement that Brigitte Macron's filing wrongly calls her a dual citizen.",
+      "related_artifacts": [
+        "A-2616.1"
+      ],
+      "related_claims": [
+        "C-4276"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10367",
+      "ref": "N-10367",
+      "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+      "type": "investigation_target",
+      "description": "Mitch Snow's account, which the host says she confirmed apart from his identification of Harpole.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4278",
+        "C-4279"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10373",
+      "ref": "N-10373",
+      "name": "Brian Harpole Fort Huachuca Presence Verification",
+      "type": "investigation_target",
+      "description": "The host restates that she still cannot confirm Snow's identification of Harpole.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4278",
+        "C-4279"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10538",
+      "ref": "N-10538",
+      "name": "Turning Point Action / Thomas Massie Disavowal Incident",
+      "type": "investigation_target",
+      "description": "Schriber's tweet says Kolvet blamed the RINO video on an intern and apologized.",
+      "related_artifacts": [
+        "A-2614.2"
+      ],
+      "related_claims": [
+        "C-4313",
+        "C-4314"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10546",
+      "ref": "N-10546",
+      "name": "Joe Kent Resignation Aftermath Pattern",
+      "type": "investigation_target",
+      "description": "VFT reportedly collected polling and response data around Kent's resignation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4293"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10551",
+      "ref": "N-10551",
+      "name": "Joe Kent Leak Accusation Chain",
+      "type": "investigation_target",
+      "description": "The host says Kent is being called a leaker for investigating the assassination.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4299"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10605",
+      "ref": "N-10605",
+      "name": "Erika Kirk–Victor Marx Relationship Verification",
+      "type": "investigation_target",
+      "description": "A viewer comment asserts the two are close.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4317"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10637",
+      "ref": "N-10637",
+      "name": "WHCD Incident Reconstruction",
+      "type": "investigation_target",
+      "description": "The White House Correspondents' Dinner shooting is the context for the amplification email and the host's FOIA requests.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4270",
+        "C-4271"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10643",
+      "ref": "N-10643",
+      "name": "Harpole Fort Huachuca Alibi Question",
+      "type": "investigation_target",
+      "description": "The host restates Harpole's 2:30 p.m. Texas–Salt Lake City alibi flight and offers the SAM plane as an alternative.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4281"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10664",
+      "ref": "N-10664",
+      "name": "Charlie Kirk Aspen Audio Authenticity Question",
+      "type": "investigation_target",
+      "description": "The host's countdown asks TPUSA to release the alleged AI video of Charlie Kirk appointing Erika Kirk as CEO, whose audio was played at AmFest.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4308",
+        "C-4309",
+        "C-4310"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10666",
+      "ref": "N-10666",
+      "name": "Nick Shirley Background and Backing Verification",
+      "type": "investigation_target",
+      "description": "The host suggests Shirley's naming in the Kuchta thread points to outside platforming.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4290"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10671",
+      "ref": "N-10671",
+      "name": "SAM702 / Fort Huachuca September 9 Passenger Manifest",
+      "type": "investigation_target",
+      "description": "The host recaps the SAM 702 route and timing and says she has filed a FOIA request about who was aboard.",
+      "related_artifacts": [
+        "A-2611.1"
+      ],
+      "related_claims": [
+        "C-4280",
+        "C-4282",
+        "C-4283",
+        "C-4284",
+        "C-4285"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10700",
+      "ref": "N-10700",
+      "name": "Pending FOIA Requests",
+      "type": "investigation_target",
+      "description": "The NSA's redirect and the new SAM 702 request are added to the host's FOIA trail.",
+      "related_artifacts": [
+        "A-2610.1"
+      ],
+      "related_claims": [
+        "C-4274",
+        "C-4285"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10815",
+      "ref": "N-10815",
+      "name": "NCRI Report Provenance and Authorship",
+      "type": "investigation_target",
+      "description": "The host names NCRI as a group VFT suggested collaborating with and as the author of the \"Christ is King\" report featuring her face.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4297",
+        "C-4298"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10887",
+      "ref": "N-10887",
+      "name": "Las Vegas",
+      "type": "investigation_target",
+      "description": "The host says the SAM plane flies around Las Vegas, where Kash Patel is from.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4284"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-646",
+      "ref": "N-646",
+      "name": "Hunter Biden",
+      "type": "person",
+      "description": "First named by the host at 00:00:01 in episode 109. Guest on the host's previous episode; the subject of the Hollywood Reporter headline.",
+      "related_artifacts": [
+        "A-2609.1"
+      ],
+      "related_claims": [
+        "C-4267"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-653",
+      "ref": "N-653",
+      "name": "Ryan Routh",
+      "type": "person",
+      "description": "First named by the host at 00:02:27 in episode 109. The would-be assassin in the golf-course attempt on Donald Trump. Aliases: Ryan Ruth (transcript spelling).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4268"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-654",
+      "ref": "N-654",
+      "name": "Gabrielle Kuchta",
+      "type": "person",
+      "description": "First named by the host at 00:13:30 in episode 109. Former Pentagon chief correspondent (\"Gabby\") who published the X thread on Vine & Fig Tree. Aliases: Gabby Kuchta.",
+      "related_artifacts": [
+        "A-2612.1",
+        "A-2612.2",
+        "A-2612.3"
+      ],
+      "related_claims": [
+        "C-4286",
+        "C-4287",
+        "C-4288",
+        "C-4289",
+        "C-4291",
+        "C-4301",
+        "C-4302"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-655",
+      "ref": "N-655",
+      "name": "Sebastian Gorka",
+      "type": "person",
+      "description": "First named by the host at 00:15:42 in episode 109. White House official who, per the Kuchta thread, met VFT at the White House and for whom the AI video was to be made.",
+      "related_artifacts": [
+        "A-2612.2"
+      ],
+      "related_claims": [
+        "C-4287",
+        "C-4288",
+        "C-4289",
+        "C-4302",
+        "C-4303"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-656",
+      "ref": "N-656",
+      "name": "Shawn Chenowith",
+      "type": "person",
+      "description": "First named by the host at 00:15:42 in episode 109. Described by the host as director of cognitive advantage at the National Security Council and identified by Kuchta, per the host, as the third party who contacted her.",
+      "related_artifacts": [
+        "A-2612.2"
+      ],
+      "related_claims": [
+        "C-4288"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-657",
+      "ref": "N-657",
+      "name": "Jackson Hinkle",
+      "type": "person",
+      "description": "First named by the host at 00:17:38 in episode 109. Named among the accounts profiled in the VFT reports.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4292"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-658",
+      "ref": "N-658",
+      "name": "Mario Nawfal",
+      "type": "person",
+      "description": "First named by the host at 00:17:38 in episode 109. Named among the accounts profiled in the VFT reports.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4292"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-659",
+      "ref": "N-659",
+      "name": "Joel Finkelstein",
+      "type": "person",
+      "description": "First named by the host at 00:21:20 in episode 109. Named in the Kuchta thread as founder of NCRI.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4297"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-660",
+      "ref": "N-660",
+      "name": "Natalie Jean Beisner",
+      "type": "person",
+      "description": "First named by the host at 00:30:23 in episode 109. Posted the tweet about the host's 3-year-old daughter; the host describes her as an actress. Aliases: Natalie Beisner.",
+      "related_artifacts": [
+        "A-2613.2",
+        "A-2613.3"
+      ],
+      "related_claims": [
+        "C-4304",
+        "C-4305",
+        "C-4306"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-661",
+      "ref": "N-661",
+      "name": "Raphael Schriber",
+      "type": "person",
+      "description": "First named by the host at 00:39:16 in episode 109. Described as legislative director for Thomas Massie; tweeted at Andrew Kolvet about the March 12, 2026 apology call.",
+      "related_artifacts": [
+        "A-2614.2"
+      ],
+      "related_claims": [
+        "C-4313",
+        "C-4314"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10945",
+      "ref": "N-10945",
+      "name": "The Hollywood Reporter",
+      "type": "organization",
+      "description": "Entertainment trade publication that ran the headline \"How Hunter Biden ended up in Candace Owens' home studio next to her Brigitte Macron doll,\" which the host shows at the top of the episode.",
+      "related_artifacts": [
+        "A-2609.1"
+      ],
+      "related_claims": [
+        "C-4267"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-646"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10923",
+      "ref": "N-10923",
+      "name": "White House Military Office Erika Kirk Amplification Email",
+      "type": "topic",
+      "description": "Investigation target: the internal email that, according to the host, asked for Erika Kirk's \"I Want to Go Home\" clip from the night of the White House Correspondents' Dinner shooting to be artificially boosted. The host says it described her as an emotional asset, sought to make the clip number one overnight and asked for surrogates to push it, about an hour after the shooting. The White House denied only that the White House Military Office drafted it, and the NSA redirected the host's FOIA request to the Office of the Secretary of War and/or the Joint Staff.",
+      "related_artifacts": [
+        "A-2610.1",
+        "A-2610.2"
+      ],
+      "related_claims": [
+        "C-4270",
+        "C-4271",
+        "C-4272",
+        "C-4273",
+        "C-4274",
+        "C-4275"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-163",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10946",
+      "ref": "N-10946",
+      "name": "Vine & Fig Tree",
+      "type": "organization",
+      "description": "Pro-Israel organization (\"VFT\") that Gabrielle Kuchta says has ties to the administration and met Sebastian Gorka at the White House. According to her thread, it commissioned a script for an AI-generated video for the NSC and kept reports profiling conservative and dissident-right accounts as susceptible to foreign influence. Its Dropbox reportedly held material on burner profiles, burner ad accounts, troll content briefs and audience segmentation.",
+      "related_artifacts": [
+        "A-2612.2",
+        "A-2612.3"
+      ],
+      "related_claims": [
+        "C-4287",
+        "C-4288",
+        "C-4289",
+        "C-4291",
+        "C-4292",
+        "C-4293",
+        "C-4294",
+        "C-4295",
+        "C-4296",
+        "C-4297",
+        "C-4300",
+        "C-4301"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 12,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-654",
+        "N-655"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10947",
+      "ref": "N-10947",
+      "name": "National Security Council",
+      "type": "organization",
+      "description": "The host says Shawn Chenowith is its director of cognitive advantage. According to Kuchta's thread, the VFT AI-generated video was to be made on behalf of the NSC and Sebastian Gorka.",
+      "related_artifacts": [
+        "A-2612.2"
+      ],
+      "related_claims": [
+        "C-4288",
+        "C-4289"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-656"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10916",
+      "ref": "N-10916",
+      "name": "Thomas Massie Kentucky Primary Outside Spending",
+      "type": "topic",
+      "description": "Investigation target: the outside money the host says AIPAC spent to remove Thomas Massie, whom the host implies lost his race. Also includes TPUSA's public and private positions on the race.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4319"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-593",
+        "N-10083"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-4267",
+      "ref": "C-4267",
+      "label": "Hollywood Reporter ran a headline on Hunter Biden in the host's studio next to her Brigitte Macron doll",
+      "claim": "The host says the Hollywood Reporter published an article headlined \"How Hunter Biden ended up in Candace Owens' home studio next to her Brigitte Macron doll.\"",
+      "anchored_artifacts": [
+        "A-2609.1"
+      ],
+      "related_nodes": [
+        "N-10945"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Locate the Hollywood Reporter article by its headline and publication date.",
+      "transcript_snippet": "They published this, \"How Hunter Biden ended up in Candace Owens' home studio next to her Brigitte Macron doll.\"",
+      "mentions_person_refs": [
+        "N-646",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4268",
+      "ref": "C-4268",
+      "label": "Second assassination attempt on Trump took place on a golf course, by Ryan Routh",
+      "claim": "The host says the second assassination attempt on Donald Trump happened on a golf course and that the would-be assassin was \"Ryan Ruth\" (Ryan Routh).",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:27",
+      "investigative_direction": "Federal charging documents and trial record in the Ryan Routh golf-course case.",
+      "transcript_snippet": "Second one, okay, happened on a golf course. We were there. We covered it, diligently reporting on Ryan Ruth, the uh would-be assassin.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-653"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4269",
+      "ref": "C-4269",
+      "label": "Another White House shooting incident this weekend; the perpetrator fired and was killed",
+      "claim": "The host says another shooting incident happened at the White House over the weekend, in which the perpetrator fired shots and was killed, and nobody else died.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:18",
+      "investigative_direction": "Secret Service and Metropolitan Police incident reports for the White House shooting the weekend before May 26, 2026.",
+      "transcript_snippet": "Apparently, another one and another one happened this weekend at the White House. Uh perpetrator fired bullets. He was killed.",
+      "mentions_person_refs": [
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4270",
+      "ref": "C-4270",
+      "label": "Internal email requested artificial boosting of Erika Kirk's \"I Want to Go Home\" clip about an hour after the shooting",
+      "claim": "The host says an internal email she shared asked for the artificial boosting of Erika Kirk's \"I Want to Go Home\" clip, described her as an emotional asset and sought to make the clip number one overnight with help from surrogates, about an hour after the shooting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10923",
+        "N-10637"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:25",
+      "investigative_direction": "Obtain the email and its distribution list and headers through FOIA to the Department of War, the Joint Staff and the White House Communications Agency.",
+      "transcript_snippet": "Making an Erika Kirk clip go viral describing her as an emotional asset, making sure this is number one overnight, reach out to the surrogates, get this thing going. We're talking like an hour after the shooting.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4271",
+      "ref": "C-4271",
+      "label": "White House denied only that the White House Military Office drafted the email",
+      "claim": "The host says the White House first denied that anyone in the military office drafted or sent the email, but with the specific wording \"The White House Military Office did not draft the email,\" which she calls intentionally evasive.",
+      "anchored_artifacts": [
+        "A-2610.2"
+      ],
+      "related_nodes": [
+        "N-10923",
+        "N-10637"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:12",
+      "investigative_direction": "The White House press office's written reply to the host's comment request, and whether other offices sent messages on the same distribution lists.",
+      "transcript_snippet": "But we noticed that specific language, that specific verbiage, that specific denial. The White House Military Office did not draft the email.",
+      "mentions_person_refs": [
+        "N-10637"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4272",
+      "ref": "C-4272",
+      "label": "Multiple DOD offices have access to the distribution lists",
+      "claim": "The host says her team learned that multiple offices within the Department of Defense have access to various distribution lists, which she says makes the White House denial narrow.",
+      "anchored_artifacts": [
+        "A-2610.2"
+      ],
+      "related_nodes": [
+        "N-10923"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:12",
+      "investigative_direction": "DOD and White House Communications Agency documentation on who can send to the distribution lists named on the email.",
+      "transcript_snippet": "We then learned that multiple offices within the DOD have access to various distribution lists.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4273",
+      "ref": "C-4273",
+      "label": "Steven Cheung was copied on the original email and did not answer the follow-up",
+      "claim": "The host says she copied Steven Cheung and the communications team on a follow-up asking whether the email was fake, notes that Cheung was copied on the original, and says the White House then stopped responding.",
+      "anchored_artifacts": [
+        "A-2610.2"
+      ],
+      "related_nodes": [
+        "N-10923"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:12",
+      "investigative_direction": "The host's sent follow-up and any White House reply; the original email's CC line.",
+      "transcript_snippet": "Did you get this email, Steve? Cuz I see you were CC'd on the original one.\" And poof.",
+      "mentions_person_refs": [
+        "N-163"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4274",
+      "ref": "C-4274",
+      "label": "NSA responded to the FOIA request by redirecting it to the Office of the Secretary of War and/or the Joint Staff",
+      "claim": "The host says the NSA was the first agency to answer her records request. It wrote that she did not appear to be seeking NSA records and that it had redirected the request to the Office of the Secretary of War and/or the Joint Staff.",
+      "anchored_artifacts": [
+        "A-2610.1"
+      ],
+      "related_nodes": [
+        "N-10068",
+        "N-10700",
+        "N-10923"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:15",
+      "investigative_direction": "The NSA FOIA response letter and case number, and the tracking number assigned by the Office of the Secretary of War / Joint Staff FOIA office.",
+      "transcript_snippet": "They wrote, \"You do not appear to be seeking records created or controlled by the NSA. We redirected your request to the Office of the Secretary of War and/or the uh Joint Staff.\"",
+      "mentions_person_refs": [
+        "N-10700",
+        "N-10923"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4275",
+      "ref": "C-4275",
+      "label": "Host reads the NSA redirect as pointing to Pete Hegseth's office",
+      "claim": "The host says that instead of denying the email exists, the NSA redirected the request to Pete Hegseth's office, and she suggests he would know something about it.",
+      "anchored_artifacts": [
+        "A-2610.1"
+      ],
+      "related_nodes": [
+        "N-10923"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:05",
+      "investigative_direction": "The Office of the Secretary of War's eventual FOIA response and any search records for the email.",
+      "transcript_snippet": "You know, rather than denying the existence of the email, they redirected it to Pete Hegseth's office.",
+      "mentions_person_refs": [
+        "N-605"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4276",
+      "ref": "C-4276",
+      "label": "Host denies being a UK–US dual citizen as stated in Brigitte Macron's lawsuit filing",
+      "claim": "The host says a lawsuit filing by Brigitte Macron stated that she was a dual citizen of the UK and America. She says she is not and has never applied for dual citizenship.",
+      "anchored_artifacts": [
+        "A-2616.1"
+      ],
+      "related_nodes": [
+        "N-10270"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:53",
+      "investigative_direction": "The Macron complaint's party-citizenship allegations in the Delaware filing.",
+      "transcript_snippet": "see Brigitte Macron who put in a lawsuit filing, I think this was totally accidental, that I was a dual citizen of uh the UK and America.",
+      "mentions_person_refs": [
+        "N-82",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4277",
+      "ref": "C-4277",
+      "label": "Host says she never mentioned Harpole until 2 days after his viral Shawn Ryan interview, contrary to his lawsuit",
+      "claim": "The host says Brian Harpole's lawsuit suggests he felt compelled to do the Shawn Ryan interview because of her online conspiracies. She says she never mentioned him on her show until 2 days after that interview went viral.",
+      "anchored_artifacts": [
+        "A-2616.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:08:43",
+      "investigative_direction": "Compare the host's episode archive dates with the Shawn Ryan Show release date for the Harpole interview and the lawsuit's allegations.",
+      "transcript_snippet": "when I had never so much as mentioned Brian Harpole on the show until 2 days after his car crash interview that went viral for all the wrong reasons.",
+      "supports_claim_refs": [
+        "C-2817"
+      ],
+      "mentions_person_refs": [
+        "N-272",
+        "N-229",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4278",
+      "ref": "C-4278",
+      "label": "Mitch Snow says he saw Brian Harpole walking out of a meeting at Fort Huachuca",
+      "claim": "The host restates Mitch Snow's account that, on the morning at Fort Huachuca after he says he saw Erika Kirk at a hotel, he saw Brian Harpole walking out of a meeting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10367",
+        "N-10373"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:43",
+      "investigative_direction": "Fort Huachuca visitor and meeting attendance logs for September 9, 2025.",
+      "transcript_snippet": "the night after he claims to who seen Erika at some hotel, He claims that he saw Brian Harpole walking out of some meeting.",
+      "mentions_person_refs": [
+        "N-369",
+        "N-272",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4279",
+      "ref": "C-4279",
+      "label": "Host confirmed Snow's presence and the police call but not his identification",
+      "claim": "The host says she confirmed that Mitch Snow was at Fort Huachuca and that the police were called, but she still cannot confirm his memory of who he saw.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10367",
+        "N-10373"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:42",
+      "investigative_direction": "Fort Huachuca military police call logs and the attendee list for the meeting Snow describes.",
+      "transcript_snippet": "confirmed he was there, confirmed the police were called, everything he said uh was accurate. Could not confirm, still cannot confirm his memory of who he saw.",
+      "mentions_person_refs": [
+        "N-369",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4280",
+      "ref": "C-4280",
+      "label": "Air Force plane left Fort Huachuca at 11:43 a.m. on September 9 and landed in El Paso at 1:31 p.m.",
+      "claim": "The host says an Air Force plane left Fort Huachuca at 11:43 a.m. local time on September 9, flew to El Paso, Texas, and landed at 1:31 p.m. local time.",
+      "anchored_artifacts": [
+        "A-2611.1"
+      ],
+      "related_nodes": [
+        "N-10671"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:42",
+      "investigative_direction": "ADS-B and FAA flight records for the aircraft using call sign SAM 702 on September 9, 2025.",
+      "transcript_snippet": "on September 9th, it left Fort Huachuca at 11:43 a. m. local time. Um and it flew to El Paso, Texas."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4281",
+      "ref": "C-4281",
+      "label": "Harpole's alibi was a 2:30 p.m. flight from Texas to Salt Lake City",
+      "claim": "The host says Brian Harpole's alibi was that he flew from Texas to Salt Lake City at 2:30 in the afternoon. She says the SAM plane could have carried someone from the Fort Huachuca meeting to Texas.",
+      "anchored_artifacts": [
+        "A-2611.1"
+      ],
+      "related_nodes": [
+        "N-10643"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:42",
+      "investigative_direction": "Airline manifest and boarding records for Harpole's September 9, 2025 Texas–Salt Lake City flight.",
+      "transcript_snippet": "he attempted to drop some alibi of I flew out at 2:30 in the afternoon from Texas uh up to Utah, Salt Lake City.",
+      "mentions_person_refs": [
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4282",
+      "ref": "C-4282",
+      "label": "The plane then flew El Paso to Andrews using call sign SAM 702",
+      "claim": "The host says the plane then flew from El Paso to Andrews Air Force Base using the Special Air Mission call sign SAM 702, which designates flights carrying senior government officials, foreign dignitaries or high-ranking VIPs.",
+      "anchored_artifacts": [
+        "A-2611.1"
+      ],
+      "related_nodes": [
+        "N-10671"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:53",
+      "investigative_direction": "USAF 89th Airlift Wing mission records and passenger manifest for SAM 702 on September 9, 2025.",
+      "transcript_snippet": "Then that plane flies from El Paso to Andrews Air Force Base, Washington, D. C. Now, the reason that flight was relevant and caught a lot of attention early on was because it used a SAM call sign, SAM 702."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4283",
+      "ref": "C-4283",
+      "label": "Pete Hegseth was in Washington at 3:00 p.m. on September 9 greeting Singapore's Minister of Defense",
+      "claim": "The host says Pete Hegseth's schedule placed him in Washington, D.C., at 3:00 p.m. on September 9 greeting Singapore's Minister of Defense, so he was not likely aboard. She adds that he has flown on that exact plane under a SAM call sign before.",
+      "anchored_artifacts": [
+        "A-2611.2"
+      ],
+      "related_nodes": [
+        "N-10671"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:02",
+      "investigative_direction": "The Department of War public schedule and photos of the September 9, 2025 meeting with Singapore's defense minister, and past SAM 702 manifests.",
+      "transcript_snippet": "I checked Pete Hegseth's schedule on September 9th. He was in Washington, D. C. at 3:00 p. m. uh greeting Singapore's Minister of Defense.",
+      "mentions_person_refs": [
+        "N-605"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4284",
+      "ref": "C-4284",
+      "label": "No indication where Kash Patel was on September 9",
+      "claim": "The host says there is no indication of where Kash Patel was on September 9 and notes that the SAM plane flies around Las Vegas, where he is from.",
+      "anchored_artifacts": [
+        "A-2611.1"
+      ],
+      "related_nodes": [
+        "N-10671",
+        "N-10887"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:02",
+      "investigative_direction": "FBI Director public schedule and travel records for September 9, 2025.",
+      "transcript_snippet": "Kash Patel, however, we have absolutely no indication where Kash Patel was on September 9th. Truly. And it's interesting cuz that SAM character is flying around Las Vegas.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4285",
+      "ref": "C-4285",
+      "label": "Host filed a FOIA request about the SAM flight",
+      "claim": "The host says she has filed a FOIA request to find out who was aboard the SAM flight.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10671",
+        "N-10700"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:46",
+      "investigative_direction": "The FOIA request and its tracking number with the Air Force or the Department of War.",
+      "transcript_snippet": "Uh so, I decided, \"Hey, we should probably file an FOIA request.\"",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4286",
+      "ref": "C-4286",
+      "label": "Gabrielle Kuchta was fired as Pentagon chief correspondent after criticizing Hegseth's press rules",
+      "claim": "The host says Gabrielle Kuchta was fired as the Pentagon's chief correspondent. According to the host, Kuchta says this followed her criticism of Pete Hegseth's new rules limiting press access to the Pentagon.",
+      "anchored_artifacts": [
+        "A-2612.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:13:30",
+      "investigative_direction": "Kuchta's employer's statement on her departure and the Pentagon press-access policy announcement.",
+      "transcript_snippet": "she was fired as the Pentagon's chief correspondent. Uh she claims she was fired after she criticized uh Pete Hegseth for having established new rules that actually limited the press's access to the Pentagon.",
+      "mentions_person_refs": [
+        "N-654",
+        "N-605"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4287",
+      "ref": "C-4287",
+      "label": "Kuchta: VFT is a pro-Israel organization that met Sebastian Gorka at the White House",
+      "claim": "According to Gabrielle Kuchta's thread read by the host, Vine & Fig Tree (VFT) is a pro-Israel organization with ties to the administration that met Sebastian Gorka at the White House earlier this year.",
+      "anchored_artifacts": [
+        "A-2612.2"
+      ],
+      "related_nodes": [
+        "N-10946",
+        "N-10075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:42",
+      "investigative_direction": "White House visitor logs for VFT representatives and Gorka's meeting calendar.",
+      "transcript_snippet": "VFT is a pro-Israel organization with ties to the administration. Earlier this year, VFT was at the White House meeting with Sebastian Gorka.",
+      "mentions_person_refs": [
+        "N-654",
+        "N-655"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4288",
+      "ref": "C-4288",
+      "label": "Kuchta was asked through a third party, identified as NSC's Shawn Chenowith, to script write for VFT",
+      "claim": "According to Kuchta's thread, shortly after the White House meeting she was contacted through a third party and asked to write scripts for VFT. The host says Kuchta later identifies this person as Shawn Chenowith, director of cognitive advantage at the National Security Council, who works under and with Gorka.",
+      "anchored_artifacts": [
+        "A-2612.2"
+      ],
+      "related_nodes": [
+        "N-10946",
+        "N-10947"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:42",
+      "investigative_direction": "NSC staff directory for a director of cognitive advantage and Kuchta's later posts naming the contact.",
+      "transcript_snippet": "she later identifies this person to be Shawn Chenowith, who is the director of cognitive advantage at the US uh at the National Security Council.",
+      "mentions_person_refs": [
+        "N-654",
+        "N-656",
+        "N-655"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4289",
+      "ref": "C-4289",
+      "label": "The script was for an AI-generated video on behalf of the White House, NSC and Gorka",
+      "claim": "According to Kuchta's thread, she was told the script would be used for an AI-generated video made on behalf of the White House, specifically for the NSC and Sebastian Gorka. She says it was routed through VFT so it would not look like it came from the White House.",
+      "anchored_artifacts": [
+        "A-2612.2"
+      ],
+      "related_nodes": [
+        "N-10946",
+        "N-10947"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:30",
+      "investigative_direction": "Kuchta's correspondence with the third party and any published AI video matching the brief.",
+      "transcript_snippet": "I was told the script would be used to create an AI-generated video on behalf of the White House, specifically for the NSC and Sebastian Gorka.",
+      "mentions_person_refs": [
+        "N-654",
+        "N-655"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4290",
+      "ref": "C-4290",
+      "label": "Kuchta thread names Nick Shirley as having benefited from the same approach",
+      "claim": "According to the host's reading of Kuchta's thread, the approach \"worked out for them and Nick Shirley,\" and the host suggests Shirley may be intentionally platformed by other forces.",
+      "anchored_artifacts": [
+        "A-2612.2"
+      ],
+      "related_nodes": [
+        "N-10666"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:30",
+      "investigative_direction": "The full Kuchta thread text and any VFT documents referencing Nick Shirley.",
+      "transcript_snippet": "I mean, it worked out for them and Nick Shirley Pause. Nick Shirley, the guy who infiltrated the favela in 48 hours flat.",
+      "mentions_person_refs": [
+        "N-217"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4291",
+      "ref": "C-4291",
+      "label": "Kuchta was given a Dropbox of VFT research with seven folders",
+      "claim": "According to Kuchta's thread, she was given a Dropbox link with research, polling data, internal comments and strategy material compiled by VFT and the third party, organized in seven folders.",
+      "anchored_artifacts": [
+        "A-2612.2",
+        "A-2612.3"
+      ],
+      "related_nodes": [
+        "N-10946"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:30",
+      "investigative_direction": "Authenticate the Dropbox contents and metadata (authorship, creation dates) shown in Kuchta's screenshots.",
+      "transcript_snippet": "I was then given a Dropbox link containing research, polling data, internal comments, and strategy material compiled by the FT and the third party involved. Inside the Dropbox were seven folders.",
+      "mentions_person_refs": [
+        "N-654"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4292",
+      "ref": "C-4292",
+      "label": "VFT reports profile dissident-right accounts, including the host, as vulnerable to foreign influence",
+      "claim": "According to Kuchta's thread, VFT reports monitor major conservative and dissident-right accounts and frame them as vulnerable to or participating in foreign influence operations. Those named include Nick Fuentes, the Hodge Twins, Candace Owens, Tucker Carlson, Jackson Hinkle, Ian Carroll and Mario Nawfal.",
+      "anchored_artifacts": [
+        "A-2612.2"
+      ],
+      "related_nodes": [
+        "N-10946"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:38",
+      "investigative_direction": "The VFT reports in the Dropbox folders and their stated methodology.",
+      "transcript_snippet": "The reports include information regarding Nick Fuentes, the Hodge Twins, Candace Owens, Tucker Carlson, Jackson Hinkle, Ian Carroll, and Mario Nawfal, just to name a few.",
+      "mentions_person_refs": [
+        "N-205",
+        "N-324",
+        "N-3",
+        "N-22",
+        "N-657",
+        "N-384",
+        "N-658"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4293",
+      "ref": "C-4293",
+      "label": "VFT collected polling on Joe Kent's resignation",
+      "claim": "According to Kuchta's thread, VFT also collected polling and response data about Joe Kent's resignation from the administration.",
+      "anchored_artifacts": [
+        "A-2612.2"
+      ],
+      "related_nodes": [
+        "N-10946",
+        "N-10546"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:38",
+      "investigative_direction": "The Joe Kent polling file in the VFT Dropbox and the polling vendor.",
+      "transcript_snippet": "They also collected polling and response data surrounding Joe Kent's resignation from the administration.",
+      "mentions_person_refs": [
+        "N-213"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4294",
+      "ref": "C-4294",
+      "label": "VFT report blames distrust of the Kirk assassination narrative on Russian, Iranian and Pakistani propaganda",
+      "claim": "According to Kuchta's thread, one VFT report argues that distrust surrounding Charlie Kirk's assassination was mostly due to Americans falling for Russian, Iranian and Pakistani propaganda networks.",
+      "anchored_artifacts": [
+        "A-2612.2"
+      ],
+      "related_nodes": [
+        "N-10946"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:38",
+      "investigative_direction": "The Charlie Kirk report in the VFT Dropbox and the data sources it cites.",
+      "transcript_snippet": "In another report, they argue that distrust surrounding Charlie Kirk's assassination was mostly due to Americans falling for Russian, Iranian, and Pakistani propaganda networks.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4295",
+      "ref": "C-4295",
+      "label": "VFT Kirk report calls the distrust \"an urgent national security threat\"",
+      "claim": "According to Kuchta's thread, the same Charlie Kirk report says the distrust \"represents an urgent national security threat and demands a whole-of-government response on par with cyber attacks on terrorism.\"",
+      "anchored_artifacts": [
+        "A-2612.2"
+      ],
+      "related_nodes": [
+        "N-10946"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:21",
+      "investigative_direction": "The exact passage in the VFT report and whether any government document adopts similar language.",
+      "transcript_snippet": "In that same Charlie Kirk report, they state, quote, \"This represents an urgent national security threat and demands a whole-of-government response on par with cyber attacks on terrorism.\"",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4296",
+      "ref": "C-4296",
+      "label": "VFT internal comments: undermine Fuentes's Christian identity; get Matt Walsh or Michael Knowles to publish",
+      "claim": "According to Kuchta's thread, VFT internal comments say undermining Nick Fuentes's Christian identity is \"probably a good idea\" and consider getting Matt Walsh or Michael Knowles to publish on behalf of VFT.",
+      "anchored_artifacts": [
+        "A-2612.2"
+      ],
+      "related_nodes": [
+        "N-10946"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:20",
+      "investigative_direction": "The internal comment threads in the Dropbox and any outreach records to Walsh or Knowles.",
+      "transcript_snippet": "They talk about going after Fuentes stating that undermining his Christian identity is probably a good idea. They contemplate getting Matt Walsh or Michael Knowles to publish on behalf of VFT.",
+      "mentions_person_refs": [
+        "N-205",
+        "N-166",
+        "N-102"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4297",
+      "ref": "C-4297",
+      "label": "VFT comments suggest collaborating with NCRI, founded by Joel Finkelstein",
+      "claim": "According to Kuchta's thread, VFT internal comments suggest collaborating with NCRI, founded by Joel Finkelstein, which it describes as a multi-million-dollar organization that tracks hate speech on social media.",
+      "anchored_artifacts": [
+        "A-2612.2"
+      ],
+      "related_nodes": [
+        "N-10946",
+        "N-10815"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:20",
+      "investigative_direction": "NCRI's corporate records and any partnership or contact with VFT.",
+      "transcript_snippet": "They suggest collaborating with NCRI funded with NCRI which was founded by Joel Finkelstein, a multi-million dollar organization that tracks hate speech on social media.",
+      "mentions_person_refs": [
+        "N-659"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4298",
+      "ref": "C-4298",
+      "label": "NCRI published the \"Christ is King\" report featuring the host's face, with Johnny Moore and Jordan Peterson",
+      "claim": "The host says NCRI produced the report featuring her face that claimed \"Christ is King\" was antisemitic, and that Johnny Moore and Jordan Peterson were also on that report.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10815"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:20",
+      "investigative_direction": "The NCRI \"Christ is King\" report's author list, partners and published images.",
+      "transcript_snippet": "They were also the ones that came with the report with my face on it uh claiming that Christ is King was suddenly anti-Semitic.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-447",
+        "N-607"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4299",
+      "ref": "C-4299",
+      "label": "TPUSA joined in smearing Joe Kent as a leaker for investigating the assassination",
+      "claim": "The host says Joe Kent has been called weak and a leaker for trying to investigate whether the assassination was a foreign influence operation, and that the organization Erika Kirk heads got behind the smearing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10551",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:20",
+      "investigative_direction": "TPUSA and Charlie Kirk Show posts and segments about Joe Kent after his resignation.",
+      "transcript_snippet": "The way you're treating Joe Kent for trying to investigate whether or not his assassination could have been a foreign influence operation. Calling him weak, referring to him as a leak a leaker.",
+      "mentions_person_refs": [
+        "N-213",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4300",
+      "ref": "C-4300",
+      "label": "VFT data compiles information on JD Vance's 2028 run and advises politicians",
+      "claim": "According to Kuchta's thread, an internal comment discusses advising politicians on the basis of VFT data, which also compiles information on JD Vance's 2028 run, and says \"There is definitely a way to use this in our favor.\"",
+      "anchored_artifacts": [
+        "A-2612.2"
+      ],
+      "related_nodes": [
+        "N-10946"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:35",
+      "investigative_direction": "The VFT 2028 file and any VFT engagements with campaign staff.",
+      "transcript_snippet": "Another internal comment weighs in on how they will advise politicians based on their data, which also compiles information surrounding J. D. Vance's 2028 run.",
+      "mentions_person_refs": [
+        "N-4"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4301",
+      "ref": "C-4301",
+      "label": "VFT documents discuss burner profiles, burner ad accounts and troll content briefs",
+      "claim": "According to Kuchta's thread, the documents discuss burner profiles, burner ad accounts, AI-generated interview-style videos, audience personas, troll content briefs, engagement testing and ideological audience segmentation.",
+      "anchored_artifacts": [
+        "A-2612.2",
+        "A-2612.3"
+      ],
+      "related_nodes": [
+        "N-10946"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:55",
+      "investigative_direction": "Platform takedown records for burner accounts and ad accounts linked to VFT.",
+      "transcript_snippet": "The documents uh also discuss burner profiles, burner ad accounts, AI-generated interview-style videos, audience personas, troll content briefs, engagement testing, and ideological audience segmentation.",
+      "mentions_person_refs": [
+        "N-654"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4302",
+      "ref": "C-4302",
+      "label": "Kuchta points to the White House's 16-page counterterrorism strategy touted by Gorka",
+      "claim": "According to Kuchta's thread, anyone wondering whether the White House listens to VFT should review the White House's latest 16-page counterterrorism strategy, which Sebastian Gorka touted.",
+      "anchored_artifacts": [
+        "A-2612.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:23:55",
+      "investigative_direction": "Compare the text of the White House counterterrorism strategy with the language of the VFT reports.",
+      "transcript_snippet": "it's worth reviewing the White House's latest 16-page counterterrorism strategy touted by Gorka.",
+      "mentions_person_refs": [
+        "N-654",
+        "N-655"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4303",
+      "ref": "C-4303",
+      "label": "Host says Gorka was not cleared in the first administration over ties to British intelligence",
+      "claim": "The host says Sebastian Gorka was not cleared in the first Trump administration because of his past and his ties to British intelligence, and that he has long been \"credibly accused\" of being a spy.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:24:59",
+      "investigative_direction": "Reporting and records on Gorka's security clearance status in 2017.",
+      "transcript_snippet": "he didn't even get cleared in the first administration because of his past and to to British intelligence, his ties to British intelligence.",
+      "mentions_person_refs": [
+        "N-655"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4304",
+      "ref": "C-4304",
+      "label": "Natalie Jean Beisner tweeted about the host's 3-year-old daughter after her Messi jersey post",
+      "claim": "The host says that after she tweeted a joke about her 3-year-old daughter in a Messi jersey, Natalie Jean Beisner tweeted \"Candace's daughter is going to grow up to be a mega Or in prison or both.\"",
+      "anchored_artifacts": [
+        "A-2613.1",
+        "A-2613.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:31:07",
+      "investigative_direction": "Archive of Beisner's X post and its timestamp.",
+      "transcript_snippet": "So, Natalie Jean Beisner tweeted this. Candace's daughter is going to grow up to be a mega Or in prison or both.",
+      "mentions_person_refs": [
+        "N-660",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4305",
+      "ref": "C-4305",
+      "label": "Beisner's Instagram has more posts about the host than the host's own profile",
+      "claim": "The host says Natalie Jean Beisner's Instagram profile has more posts about the host than the host's own profile does.",
+      "anchored_artifacts": [
+        "A-2613.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:31:07",
+      "investigative_direction": "An archived capture of Beisner's Instagram grid on the date of the episode.",
+      "transcript_snippet": "there's more posts about me on her profile than there are uh on my profile.",
+      "mentions_person_refs": [
+        "N-660"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4306",
+      "ref": "C-4306",
+      "label": "Host says Beisner is an actress and may have changed her name",
+      "claim": "The host says there could be a name change in Natalie Jean Beisner's past and that her team can confirm Beisner is an actress, whom she describes as \"washed-up D-list.\"",
+      "anchored_artifacts": [
+        "A-2613.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:32:12",
+      "investigative_direction": "IMDb and SAG-AFTRA listings and any public name-change records for Natalie Jean Beisner.",
+      "transcript_snippet": "It looks like there There could be a name change somewhere. We started just prodding, but what we can confirm is that she's just another washed-up D-list actress looking for her next gig.",
+      "mentions_person_refs": [
+        "N-660"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4307",
+      "ref": "C-4307",
+      "label": "Host says her team already found interesting things about Beisner",
+      "claim": "The host says she will look into accounts that post all day and that her team has already found \"interesting things\" about Natalie Jean Beisner.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:33:53",
+      "investigative_direction": "A follow-up segment presenting the findings.",
+      "transcript_snippet": "I'll let you know what I discover because we did already interesting things about Natalie Jean Beisner.",
+      "mentions_person_refs": [
+        "N-660"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4308",
+      "ref": "C-4308",
+      "label": "Day 54 without TPUSA releasing the alleged AI video of Charlie Kirk appointing Erika Kirk as CEO",
+      "claim": "The host says it has been 54 days with no response to her request that Blake Neff and TPUSA release the alleged AI video of Charlie Kirk appointing Erika Kirk as CEO.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10664",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:11",
+      "investigative_direction": "TPUSA's release, or refusal to release, of the full video and its original file metadata.",
+      "transcript_snippet": "54 long days and long nights of no response to the AI alleged AI video of Charlie Kirk appointing Erika as CEO.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4309",
+      "ref": "C-4309",
+      "label": "TPUSA reaching out to Daily Mail reporters with offers of private screenings",
+      "claim": "The host says TPUSA has been reaching out to Daily Mail reporters about the video and compares the offered private screening to the October 7th video screenings.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10070",
+        "N-10000",
+        "N-10664"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:11",
+      "investigative_direction": "Daily Mail reporting referencing a TPUSA screening of the appointment video.",
+      "transcript_snippet": "I don't know why they're reaching out to Daily Mail reporters and we're saying they can have a screening like it's like the October 7th video.",
+      "mentions_person_refs": [
+        "N-10000",
+        "N-10664"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4310",
+      "ref": "C-4310",
+      "label": "Audio of the appointment was played as Erika Kirk's walkout music at AmFest",
+      "claim": "The host says TPUSA played the audio as Erika Kirk's walkout music at AmFest, so it should also release the video.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10664"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:01",
+      "investigative_direction": "AmFest program footage of Erika Kirk's walkout and the audio source file.",
+      "transcript_snippet": "You guys are the ones that played it. It was her walkout music as she soaked it in.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4311",
+      "ref": "C-4311",
+      "label": "Charlie Kirk repeatedly called Thomas Massie one of his favorite congressmen",
+      "claim": "The host says Charlie Kirk was very clear, and said multiple times, that Thomas Massie was one of his favorite congressmen. She contrasts this with Andrew Kolvet and Blake Neff now saying he was privately frustrated with Massie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:51",
+      "investigative_direction": "Archived Charlie Kirk Show and social video clips in which Kirk praises Massie.",
+      "transcript_snippet": "Charlie, who was very clear that Thomas Massie was one of his favorite congressmen, said it multiple times, you could listen to Charlie in his words",
+      "supports_claim_refs": [
+        "C-2469"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-593",
+        "N-14",
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4312",
+      "ref": "C-4312",
+      "label": "Kolvet says Charlie Kirk was privately frustrated by Massie's big beautiful bill vote",
+      "claim": "In the clip played, a speaker the host identifies as Andrew Kolvet says Charlie Kirk was privately \"really, really frustrated\" that Massie did not vote for the big beautiful bill. Blake Neff adds that Kirk would have grown more frustrated as Massie criticized Trump on debt, war and Epstein.",
+      "anchored_artifacts": [
+        "A-2614.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:37:01",
+      "investigative_direction": "The full Charlie Kirk Show episode and any contemporaneous Kirk statements on Massie's vote.",
+      "transcript_snippet": "But he was pretty frustrated that Massie didn't vote on in the affirmative on the big beautiful bill because it was essentially the totality of President Trump's first year agenda wrapped into one bill.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-162",
+        "N-1",
+        "N-593"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4313",
+      "ref": "C-4313",
+      "label": "Schriber: Kolvet called Massie's office on March 12, 2026 to apologize for TPUSA's RINO video",
+      "claim": "According to a tweet read by the host from Raphael Schriber, legislative director for Thomas Massie, Andrew Kolvet called Massie's office on March 12, 2026. Schriber says Kolvet apologized for a TPUSA video labeling Massie a RINO and blamed it on a 20-year-old intern.",
+      "anchored_artifacts": [
+        "A-2614.2"
+      ],
+      "related_nodes": [
+        "N-10538",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:16",
+      "investigative_direction": "Massie office phone logs for March 12, 2026 and the TPUSA video post.",
+      "transcript_snippet": "Andrew Kolvet, didn't you call our office a few months ago on March 12th, 2026 to be exact, profusely apologizing for TPUSA posting a video of Thomas Massie labeling him a rhino",
+      "mentions_person_refs": [
+        "N-661",
+        "N-14",
+        "N-593"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4314",
+      "ref": "C-4314",
+      "label": "Schriber: Kolvet said TPUSA would stay out of the race and he personally wanted Massie to win",
+      "claim": "According to Schriber's tweet, Kolvet asked the office to pass on his sincere apologies to Massie and said TPUSA was not going to get involved in the race but that he personally wanted Massie to win.",
+      "anchored_artifacts": [
+        "A-2614.2"
+      ],
+      "related_nodes": [
+        "N-10538",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:16",
+      "investigative_direction": "Kolvet's response to Schriber and any TPUSA spending in the Kentucky race.",
+      "transcript_snippet": "Didn't you ask us to express your sincere apologies to Massie and that TPUSA was not going to get involved with the race, but that you personally wanted Massie to win?",
+      "mentions_person_refs": [
+        "N-661",
+        "N-14",
+        "N-593"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4315",
+      "ref": "C-4315",
+      "label": "Charlie Kirk announced the day before he died he was abandoning the pro-Israel cause",
+      "claim": "The host says Charlie Kirk announced the day before he died that he was left with no choice but to abandon the pro-Israel cause. She says TPUSA figures denied the message existed until she released it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:10",
+      "investigative_direction": "The original September 9, 2025 message and its recipients.",
+      "transcript_snippet": "In fact, he announced that the day before he died. He was left with no choice but to abandon the pro-Israel cause. A tweet that message they all denied existed.",
+      "supports_claim_refs": [
+        "C-2874"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4316",
+      "ref": "C-4316",
+      "label": "Netanyahu went on Fox News the day after the assassination to deny involvement",
+      "claim": "The host says Benjamin Netanyahu went on Fox News the day after Charlie Kirk's assassination and said he did not kill him.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:40:55",
+      "investigative_direction": "Fox News interview archive for September 11, 2025.",
+      "transcript_snippet": "I bet it was Iran that made BB go on Fox News the next day and say, \"I didn't kill him. It wasn't me.\"",
+      "mentions_person_refs": [
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4317",
+      "ref": "C-4317",
+      "label": "Viewer comment: Erika Kirk and Victor Marx are close",
+      "claim": "A viewer comment read by the host says Erika Kirk and Victor Marx are close; the host says Erika Kirk's character can be judged by the people around her.",
+      "anchored_artifacts": [
+        "A-2615.1"
+      ],
+      "related_nodes": [
+        "N-10605"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:41",
+      "investigative_direction": "Public appearances and posts showing contact between Erika Kirk and Victor Marx.",
+      "transcript_snippet": "James The Least writes, \"The fact that Erika Kirk and Victor Marks are close is the least surprising thing ever.\"",
+      "mentions_person_refs": [
+        "N-2",
+        "N-348"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4318",
+      "ref": "C-4318",
+      "label": "Erika Kirk had someone in Kanye West's circle leaking to her",
+      "claim": "Responding to a viewer, the host says Erika Kirk had someone in Kanye West's circle leaking to her and playing both sides, and admits she never found out who it was.",
+      "anchored_artifacts": [
+        "A-2615.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:46:31",
+      "investigative_direction": "Communications between Erika Kirk and members of Kanye West's team.",
+      "transcript_snippet": "Crazy, crazy that Erika had someone in Kanye's circle and was playing both sides of that.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4319",
+      "ref": "C-4319",
+      "label": "AIPAC spent money to remove Thomas Massie",
+      "claim": "The host says Charlie Kirk would not have appreciated money being spent by AIPAC to remove Thomas Massie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10083",
+        "N-10916"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:37",
+      "investigative_direction": "FEC independent-expenditure filings by AIPAC-affiliated PACs in Kentucky's 4th district primary.",
+      "transcript_snippet": "he would not have appreciated money being spent by AIPAC to remove him.",
+      "mentions_person_refs": [
+        "N-593",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4320",
+      "ref": "C-4320",
+      "label": "Host alleges insider trading on Trump announcements and meme coins",
+      "claim": "The host alleges that people are insider trading on Trump's forthcoming announcements and that his meme coins take wealth from people who have little.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:49:00",
+      "investigative_direction": "SEC and CFTC trading-pattern data around major Trump announcements, and on-chain records for Trump-linked meme coins.",
+      "transcript_snippet": "He makes an announcement. People are like insider trading on what they know the forthcoming announcement is.",
+      "mentions_person_refs": [
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4321",
+      "ref": "C-4321",
+      "label": "Host will be off air next week for a family trip to St. Petersburg",
+      "claim": "The host says she will be off air for the entire next week because she is taking a family trip to St. Petersburg.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:50:02",
+      "investigative_direction": "The show's upload schedule for the following week.",
+      "transcript_snippet": "I am going to be off air next week. Next week, I'm actually going to St. Petersburg.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-41",
+      "ref": "M-41",
+      "canonical_term": "Sock Puppet",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 109,
+          "video_timestamp": "00:13:30",
+          "speaker_node_ref": "N-3",
+          "quote": "l bots on X. We know the comment section. They're basically just like sock puppets at this point, uh trying to convince you they're real people wit...",
+          "context": "Later reuse of Sock Puppet in CKA seq 109.",
+          "confidence": "high",
+          "tags": [
+            "bots",
+            "astroturf",
+            "israel",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-13",
+      "ref": "M-13",
+      "canonical_term": "Fake and Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 109,
+          "video_timestamp": "00:04:25",
+          "speaker_node_ref": "N-3",
+          "quote": "We don't know if the streets are safe, but they're out here worrying about boosting Erika. Feels a little fake and gay. Just going to say it. Feels a little fake and gay.",
+          "context": "Host on the email asking for Erika Kirk's clip to be boosted an hour after the shooting.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "erika_kirk",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 109,
+          "video_timestamp": "00:46:31",
+          "speaker_node_ref": "N-3",
+          "quote": "Okay, if I have to pick, I would say the fakest and gayest moment for me is the I just want to go home clip just because the email itself is just insane.",
+          "context": "Host answers a viewer poll on the \"most fake and gay moment of 2026.\"",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "chat_elevate",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-44",
+      "ref": "M-44",
+      "canonical_term": "It's Giving",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 109,
+          "video_timestamp": "00:02:27",
+          "speaker_node_ref": "N-3",
+          "quote": "And I'm going to keep it real with you, Trump. It's giving Munchausen syndrome.",
+          "context": "Host mocks the frequency of assassination attempts on Trump.",
+          "confidence": "high",
+          "tags": [
+            "roast",
+            "comedy",
+            "trump",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-79",
+      "ref": "M-79",
+      "canonical_term": "Pass the Sniff Test",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 109,
+          "video_timestamp": "00:16:30",
+          "speaker_node_ref": "N-3",
+          "quote": "The story a little weird. It just didn't for me pass the sniff test. I'm sorry, Nick.",
+          "context": "Host on Nick Shirley's favela story after he is named in the Kuchta thread.",
+          "confidence": "high",
+          "tags": [
+            "plausibility",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-54",
+      "ref": "M-54",
+      "canonical_term": "Psyop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 109,
+          "video_timestamp": "00:13:30",
+          "speaker_node_ref": "N-3",
+          "quote": "Uh it's it's all one psychological operation.",
+          "context": "Host on pro-Israel bot accounts before reading the Kuchta thread.",
+          "confidence": "high",
+          "tags": [
+            "psyop",
+            "bots",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 109,
+          "video_timestamp": "00:22:35",
+          "speaker_node_ref": "N-3",
+          "quote": "And Dr. Jordan Peterson all trying to convince you in a psyop that if you think Christ is King you might be falling for the dark tetrad.",
+          "context": "Host on the NCRI \"Christ is King\" report.",
+          "confidence": "high",
+          "tags": [
+            "psyop",
+            "ncri",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 109,
+          "video_timestamp": "00:22:35",
+          "speaker_node_ref": "N-3",
+          "quote": "Christ is King is anti-Semitic. You know who they partnered with on that?",
+          "context": "Host mocks the NCRI report that framed the phrase as antisemitic.",
+          "confidence": "high",
+          "tags": [
+            "faith",
+            "ncri",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-84",
+      "ref": "M-84",
+      "canonical_term": "Bend the Knee",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 109,
+          "video_timestamp": "00:43:13",
+          "speaker_node_ref": "N-3",
+          "quote": "I think it's totally demonic to ask people to publicly say something about their parents or people that they have relationships with. I bending the knee.",
+          "context": "Host explains why she did not ask Hunter Biden to criticize his father.",
+          "confidence": "medium",
+          "tags": [
+            "refusal",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 109,
+          "video_timestamp": "00:44:15",
+          "speaker_node_ref": "N-3",
+          "quote": "The grieving widow stick has failed. You guys put a lot of money behind it.",
+          "context": "Host responds to a viewer contrasting Hunter Biden's emotion with Erika Kirk's.",
+          "confidence": "high",
+          "tags": [
+            "erika_kirk",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-95",
+      "ref": "M-95",
+      "canonical_term": "Emotional Response Asset",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 109,
+          "video_timestamp": "00:04:25",
+          "speaker_node_ref": "N-3",
+          "quote": "Making an Erika Kirk clip go viral describing her as an emotional asset, making sure this is number one overnight",
+          "context": "Host recaps the email's description of Erika Kirk.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "erika_kirk",
+            "psyop"
+          ]
+        },
+        {
+          "episode": 109,
+          "video_timestamp": "00:20:23",
+          "speaker_node_ref": "N-3",
+          "quote": "Why don't you blame your emotional response assets for not being able to quite sell this one to the American people?",
+          "context": "Host turns the email's phrase back on the administration after the VFT report.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "erika_kirk",
+            "psyop"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-104",
+      "ref": "M-104",
+      "canonical_term": "Brigitte Bardot (Studio Doll)",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 109,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "Congratulations to our little Brigitte Bardot, the Hollywood Reporter.",
+          "context": "Host personifies her Brigitte Macron doll, nicknamed \"Brigitte Bardot,\" celebrating its \"first national headline.\"",
+          "confidence": "high",
+          "tags": [
+            "running_bit",
+            "macron",
+            "comedy"
+          ]
+        },
+        {
+          "episode": 109,
+          "video_timestamp": "00:01:44",
+          "speaker_node_ref": "N-3",
+          "quote": "Go, Brigitte Bardot. Go, Brigitte Bardot. It's your birthday. It's your birthday.",
+          "context": "Host keeps up the doll bit after the intro.",
+          "confidence": "high",
+          "tags": [
+            "running_bit",
+            "macron",
+            "comedy"
+          ]
+        }
+      ]
+    }
+  ]
 }

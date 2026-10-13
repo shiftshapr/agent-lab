@@ -12,8 +12,8 @@
 - **Model Version**: grok-manual-extract-seq157
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10859, N-10860, N-10861, N-10862, N-10863
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-277, N-229, N-272, N-7, N-276, N-162, N-10221, N-10243, N-10645, N-10373, N-10675, N-10694, N-10839, N-10840, N-8, N-10, N-11, N-12
+  - New Nodes Introduced: N-10859, N-10860, N-10861
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-277, N-229, N-272, N-7, N-276, N-162, N-10221, N-10243, N-10645, N-10373, N-10675, N-10694, N-10839, N-10840, N-8, N-10, N-11, N-12, N-10862, N-10863
   - (see registers)
   - Person band: persons minted in this quality pass use N-8+ (see node register). Minted here or reused: Maycee Crofts, Caleb Chilcutt, Tyler Bowyer, Kip Crofts. Baron Coleman spelling corrected, no new person.
 

@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: fd62017fc03da5f558a7a5932524ae356911ad85bc96f8539a17038700b77b76
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10582, N-10583, N-10584, N-10585, N-10586
+  - New Nodes Introduced: N-10583, N-10584, N-10585, N-10586
   - Hole-minted Nodes (wave3): N-428
-  - Reused Nodes Appearing: N-421
+  - Reused Nodes Appearing: N-421, N-10582
   - (see registers)
 
 ## 2. Executive Summary

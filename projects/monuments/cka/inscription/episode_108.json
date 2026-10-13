@@ -7,15 +7,2860 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
-    "extraction_timestamp": "2026-09-27T20:00:00Z",
-    "model_version": "MiniMax-M2.5",
+    "video_timestamp_range": "00:00:00–00:57:23",
+    "extraction_timestamp": "2026-10-13T21:37:06Z",
+    "model_version": "claude-manual-extract-seq108",
     "transcript_sha256": "dd4e700c56736dbdc3d3959df1b6fe1418bfbdd897bf28c5b3e11ae9accc8d98",
-    "analysis_date": "2026-09-27"
+    "analysis_date": "2026-10-13"
   },
-  "executive_summary": "",
-  "artifacts": [],
-  "nodes": [],
-  "claims": [],
-  "memes": []
+  "executive_summary": "The host opens by noting Thomas Massie's loss in Kentucky and says the fallout from her interview with Victor Marx the day before led her to send preservation letters in her defamation lawsuit with Brian Harpole. She plays Marx's post-interview video on X (A-2599.1) and clips from the interview (A-2600) in which he explains why he was among the first to announce Charlie Kirk's death – about an hour and 20 minutes before the president's announcement. Marx says he watched the shooting once, relied on his team of former special operations men, and then deleted the post as premature. The host rejects this account. She contrasts it with her own September 10 text exchange with Andrew Kolvet (A-2601.1) and argues that Marx, who says he knew Frank Turek and the security team and whose team took over security 48 hours later, would have sought information from them. She says she sent Marx a legal preservation letter (A-2602.1) and another to Paramount Not So Tactical (A-2602.2). She also highlights Marx's text to Erika Kirk that \"they just wanted Charlie\" (A-2600.3).\n\nThe host then says that, according to sources she trusts, Erika Kirk told multiple people that she and Charlie Kirk were due to sign updated end-of-life documents on September 15, 2025 (A-2603.1). She also says Erika communicated that a TPUSA board member would help with the changes, which the host says the Daily Mail later confirmed. She sets out two options – that Erika lied, or that a life event prompted the change – and places the appointment alongside a $10 million corporate life insurance payout, an alleged $10 million missing from TPUSA, a cancelled DOJ internal audit, and Charlie's \"they're going to kill me\" texts. As a comparison she recounts the Kouri Richins case (A-2604.1), in which she says changes to a will and to life insurance were central to the prosecution, and she invites investigators to contact her.\n\nIn shorter segments the host says the White House is still not answering her FOIA request on White House Correspondents' Dinner communications. She mentions an email in which Erika Kirk was \"written in as an emotional asset\" (A-2605.1) and TPUSA's offer of a private Daily Mail screening of the disputed video. She says press headlines misrepresented a Tyler Robinson defense filing (A-2606) and explains that the defense, still without discovery, wants preliminary-hearing evidence sealed in case it is later ruled inadmissible. She discusses Joe Rogan's remarks about Theo Von, Theo Von's response, and Rogan's recorded apology (A-2607). In the comments she calls a rumor about Erika Kirk trademarking Charlie's name unfounded (A-2608.1). Agreeing with a viewer (A-2608.2), she says Marx's post came around the time Erika and Kolvet learned of the death, and she repeats that Jack Hibbs's circle said Israel knew first.",
+  "artifacts": [
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2599",
+      "family_ref": "A-2599",
+      "bundle_name": "Victor Marx Post-Interview Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2599.1",
+          "ref": "A-2599.1",
+          "description": "Victor Marx video posted on X after his interview with the host (played)",
+          "related_claims": [
+            "C-4215",
+            "C-4216"
+          ],
+          "related_nodes": [
+            "N-348",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:02:47",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2600",
+      "family_ref": "A-2600",
+      "bundle_name": "Victor Marx Interview Clips Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2600.1",
+          "ref": "A-2600.1",
+          "description": "Clip from the host's interview with Victor Marx on his early, later-deleted post announcing Charlie Kirk's death (played)",
+          "related_claims": [
+            "C-4217",
+            "C-4218",
+            "C-4219",
+            "C-4220"
+          ],
+          "related_nodes": [
+            "N-348",
+            "N-3",
+            "N-1",
+            "N-7"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:04:50",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2600.2",
+          "ref": "A-2600.2",
+          "description": "Clip from the interview on Marx visiting Erika Kirk's home and his team relieving the security team (played)",
+          "related_claims": [
+            "C-4228",
+            "C-4229"
+          ],
+          "related_nodes": [
+            "N-348",
+            "N-2"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:13:43",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2600.3",
+          "ref": "A-2600.3",
+          "description": "Clip from the interview on Marx's text to Erika Kirk while she was at the hospital (played)",
+          "related_claims": [
+            "C-4230"
+          ],
+          "related_nodes": [
+            "N-348",
+            "N-2",
+            "N-10942"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:14:49",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2601",
+      "family_ref": "A-2601",
+      "bundle_name": "Host–Kolvet September 10 Text Exchange Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2601.1",
+          "ref": "A-2601.1",
+          "description": "Host's September 10 text exchange with Andrew Kolvet (read aloud)",
+          "related_claims": [
+            "C-4223",
+            "C-4224"
+          ],
+          "related_nodes": [
+            "N-14",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:10:12",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2602",
+      "family_ref": "A-2602",
+      "bundle_name": "Harpole Lawsuit Preservation Letters Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2602.1",
+          "ref": "A-2602.1",
+          "description": "Host verbal reference to the legal preservation letter sent to Victor Marx (not shown)",
+          "related_claims": [
+            "C-4214",
+            "C-4227"
+          ],
+          "related_nodes": [
+            "N-348",
+            "N-272",
+            "N-10651"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:12:44",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2602.2",
+          "ref": "A-2602.2",
+          "description": "Host verbal reference to the preservation letter sent to Paramount Not So Tactical (not shown)",
+          "related_claims": [
+            "C-4231"
+          ],
+          "related_nodes": [
+            "N-10899"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:15:46",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2603",
+      "family_ref": "A-2603",
+      "bundle_name": "September 15 End-of-Life Documents Sources Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2603.1",
+          "ref": "A-2603.1",
+          "description": "Host verbal reference to her evidence that Erika Kirk told multiple people about a September 15 appointment to sign updated end-of-life documents (not shown; sources not named)",
+          "related_claims": [
+            "C-4232",
+            "C-4246"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1",
+            "N-10943"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:16:26",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2604",
+      "family_ref": "A-2604",
+      "bundle_name": "Kouri Richins Book Tour Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2604.1",
+          "ref": "A-2604.1",
+          "description": "TV interview clip of Kouri Richins promoting her children's book Are You With Me (played)",
+          "related_claims": [
+            "C-4242",
+            "C-4243"
+          ],
+          "related_nodes": [
+            "N-650",
+            "N-10944"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:25:32",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2605",
+      "family_ref": "A-2605",
+      "bundle_name": "White House Correspondents' Dinner Communications Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2605.1",
+          "ref": "A-2605.1",
+          "description": "Host verbal reference to the communication in which Erika Kirk was \"written in as an emotional asset\" (not shown)",
+          "related_claims": [
+            "C-4248"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-10923"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:32:07",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2605.2",
+          "ref": "A-2605.2",
+          "description": "Host verbal reference to her FOIA request for White House Correspondents' Dinner communications (not shown)",
+          "related_claims": [
+            "C-4247"
+          ],
+          "related_nodes": [
+            "N-10700",
+            "N-10637"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:32:07",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2606",
+      "family_ref": "A-2606",
+      "bundle_name": "Tyler Robinson Seal Request Coverage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2606.1",
+          "ref": "A-2606.1",
+          "description": "Fox News headline on the Tyler Robinson defense seeking to restrict evidence (shown)",
+          "related_claims": [
+            "C-4251"
+          ],
+          "related_nodes": [
+            "N-40",
+            "N-10006"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:34:07",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2606.2",
+          "ref": "A-2606.2",
+          "description": "AP News headline on the defense asking to seal evidence (shown)",
+          "related_claims": [
+            "C-4252"
+          ],
+          "related_nodes": [
+            "N-40"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:34:43",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2606.3",
+          "ref": "A-2606.3",
+          "description": "NewsNation headline on the defense seeking to seal evidence (shown)",
+          "related_claims": [
+            "C-4252"
+          ],
+          "related_nodes": [
+            "N-40"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:34:43",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2606.4",
+          "ref": "A-2606.4",
+          "description": "Tyler Robinson defense filing page listing the items to be sealed and the reasons (shown)",
+          "related_claims": [
+            "C-4254",
+            "C-4255",
+            "C-4256",
+            "C-4257"
+          ],
+          "related_nodes": [
+            "N-40",
+            "N-54",
+            "N-10581",
+            "N-10782"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:37:12",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2607",
+      "family_ref": "A-2607",
+      "bundle_name": "Joe Rogan–Theo Von Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2607.1",
+          "ref": "A-2607.1",
+          "description": "Joe Rogan clip discussing Theo Von's SSRI use and mental state (played)",
+          "related_claims": [
+            "C-4258",
+            "C-4259",
+            "C-4260"
+          ],
+          "related_nodes": [
+            "N-274",
+            "N-149"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:39:00",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2607.2",
+          "ref": "A-2607.2",
+          "description": "Theo Von's response to the Rogan clip (read aloud)",
+          "related_claims": [
+            "C-4261"
+          ],
+          "related_nodes": [
+            "N-149"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:41:33",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2607.3",
+          "ref": "A-2607.3",
+          "description": "Joe Rogan's recorded apology regarding Theo Von (played)",
+          "related_claims": [
+            "C-4262"
+          ],
+          "related_nodes": [
+            "N-274",
+            "N-149"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:43:09",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2608",
+      "family_ref": "A-2608",
+      "bundle_name": "Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2608.1",
+          "ref": "A-2608.1",
+          "description": "Viewer comment (Seven Sheets) read on air about Erika Kirk trademarking Charlie Kirk's name",
+          "related_claims": [
+            "C-4263"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:49:12",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2608.2",
+          "ref": "A-2608.2",
+          "description": "Viewer comment (Zack Cassello) read on air about the timing of Victor Marx's Instagram post",
+          "related_claims": [
+            "C-4264"
+          ],
+          "related_nodes": [
+            "N-348",
+            "N-14",
+            "N-10622"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:52:19",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Assassination victim. The episode covers the timing of the first announcements of his death, the reported September 15 end-of-life document appointment, his life insurance, the alleged missing $10 million and his \"they're going to kill me\" texts.",
+      "related_artifacts": [
+        "A-2600.1",
+        "A-2603.1",
+        "A-2608.1"
+      ],
+      "related_claims": [
+        "C-4217",
+        "C-4218",
+        "C-4219",
+        "C-4222",
+        "C-4223",
+        "C-4225",
+        "C-4228",
+        "C-4230",
+        "C-4232",
+        "C-4233",
+        "C-4234",
+        "C-4235",
+        "C-4236",
+        "C-4237",
+        "C-4238",
+        "C-4239",
+        "C-4240",
+        "C-4252",
+        "C-4263",
+        "C-4265"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 20,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Said by the host to have told multiple people about a September 15 end-of-life document appointment. She received Victor Marx's \"they just wanted Charlie\" text, was described as an \"emotional asset\" in White House communications, and is the subject of a trademark rumor the host dismisses.",
+      "related_artifacts": [
+        "A-2600.2",
+        "A-2600.3",
+        "A-2603.1",
+        "A-2605.1",
+        "A-2608.1"
+      ],
+      "related_claims": [
+        "C-4217",
+        "C-4221",
+        "C-4223",
+        "C-4228",
+        "C-4229",
+        "C-4230",
+        "C-4232",
+        "C-4233",
+        "C-4234",
+        "C-4246",
+        "C-4248",
+        "C-4249",
+        "C-4250",
+        "C-4253",
+        "C-4263",
+        "C-4264"
+      ],
+      "tags": [],
+      "evidence_count": 5,
+      "claim_count": 16,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; defendant in Brian Harpole's defamation suit. She sends preservation letters, reads her own September 10 texts with Andrew Kolvet, and is awaiting a White House FOIA response.",
+      "related_artifacts": [
+        "A-2599.1",
+        "A-2600.1",
+        "A-2601.1"
+      ],
+      "related_claims": [
+        "C-4214",
+        "C-4215",
+        "C-4217",
+        "C-4223",
+        "C-4224",
+        "C-4226",
+        "C-4227",
+        "C-4231",
+        "C-4232",
+        "C-4238",
+        "C-4247",
+        "C-4263"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 12,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "His announcement of Charlie Kirk's death is the reference point for the timing of Victor Marx's post.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4217"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Transcript spelling \"Frank Chirico\". Marx says he knows him; the host says he and the security team took Charlie Kirk to the hospital.",
+      "related_artifacts": [
+        "A-2600.1"
+      ],
+      "related_claims": [
+        "C-4220",
+        "C-4225"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Transcript spelling \"Andrew Kolb\". His September 10 texts with the host are read aloud; the host says he ran Charlie Kirk's Twitter and learned of the death shortly after Marx posted.",
+      "related_artifacts": [
+        "A-2601.1",
+        "A-2608.2"
+      ],
+      "related_claims": [
+        "C-4223",
+        "C-4224",
+        "C-4239",
+        "C-4264"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Accused shooter whose defense seeks to have preliminary-hearing evidence sealed pending discovery.",
+      "related_artifacts": [
+        "A-2606.1",
+        "A-2606.2",
+        "A-2606.3",
+        "A-2606.4"
+      ],
+      "related_claims": [
+        "C-4251",
+        "C-4252",
+        "C-4253",
+        "C-4254",
+        "C-4256",
+        "C-4257"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Transcript spelling \"Megan Kelly\". The host says Erika Kirk told her that Charlie only expressed his succession wish three weeks before his death.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4233"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-54",
+      "ref": "N-54",
+      "name": "Lance Twiggs",
+      "type": "person",
+      "description": "Transcript spelling \"Lance Lance Twiggs\". Expected to testify at the preliminary hearing, per the host.",
+      "related_artifacts": [
+        "A-2606.4"
+      ],
+      "related_claims": [
+        "C-4255"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-149",
+      "ref": "N-149",
+      "name": "Theo Von",
+      "type": "person",
+      "description": "Subject of Joe Rogan's remarks about SSRI use and his mental state; responded that the clip was \"mostly cap.\"",
+      "related_artifacts": [
+        "A-2607.1",
+        "A-2607.2",
+        "A-2607.3"
+      ],
+      "related_claims": [
+        "C-4258",
+        "C-4259",
+        "C-4261",
+        "C-4262"
+      ],
+      "tags": [],
+      "evidence_count": 3,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Named by the host as having had Charlie Kirk's laptop.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4240"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-212",
+      "ref": "N-212",
+      "name": "Jack Hibbs",
+      "type": "person",
+      "description": "The host says he and TPUSA faith-adjacent figures were among the first to say Charlie Kirk had died and that Israel knew first.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4265"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Transcript spellings \"Bryan Harpold\" and \"Brian Harpole\". Head of Charlie Kirk's security team and plaintiff suing the host for defamation; the host seeks Marx's communications with the security team.",
+      "related_artifacts": [
+        "A-2602.1"
+      ],
+      "related_claims": [
+        "C-4214",
+        "C-4226",
+        "C-4227"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-274",
+      "ref": "N-274",
+      "name": "Joe Rogan",
+      "type": "person",
+      "description": "His comments about Theo Von drew backlash; he later recorded an apology, which the host praises.",
+      "related_artifacts": [
+        "A-2607.1",
+        "A-2607.3"
+      ],
+      "related_claims": [
+        "C-4258",
+        "C-4259",
+        "C-4260",
+        "C-4261",
+        "C-4262"
+      ],
+      "tags": [],
+      "evidence_count": 2,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-276",
+      "ref": "N-276",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Named only as \"Dan\" alongside Brian Harpole when the host speculates about the security team's communications with Marx.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4227"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-348",
+      "ref": "N-348",
+      "name": "Victor Marx",
+      "type": "person",
+      "description": "Transcript spellings \"Victor Mark\" and \"Victor March\". Colorado gubernatorial candidate interviewed the day before. His early, later-deleted post announcing Charlie Kirk's death, his text to Erika Kirk and his team's takeover of security are scrutinized; the host has sent him a preservation letter.",
+      "related_artifacts": [
+        "A-2599.1",
+        "A-2600.1",
+        "A-2600.2",
+        "A-2600.3",
+        "A-2602.1",
+        "A-2608.2"
+      ],
+      "related_claims": [
+        "C-4214",
+        "C-4215",
+        "C-4216",
+        "C-4217",
+        "C-4218",
+        "C-4219",
+        "C-4220",
+        "C-4221",
+        "C-4222",
+        "C-4226",
+        "C-4227",
+        "C-4228",
+        "C-4229",
+        "C-4230",
+        "C-4264"
+      ],
+      "tags": [],
+      "evidence_count": 6,
+      "claim_count": 15,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-350",
+      "ref": "N-350",
+      "name": "Eileen Marx",
+      "type": "person",
+      "description": "Victor Marx's wife; the host says she mentors Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4221"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-593",
+      "ref": "N-593",
+      "name": "Thomas Massie",
+      "type": "person",
+      "description": "The host opens by noting he lost in Kentucky.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4213"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-650",
+      "ref": "N-650",
+      "name": "Kouri Richins",
+      "type": "person",
+      "description": "First named by the host at 00:24:28 in episode 108. Utah widow whom the host says was found guilty of murdering her husband after writing a children's book on grief. Transcript spelling \"Kouri D. Richins\".",
+      "related_artifacts": [
+        "A-2604.1"
+      ],
+      "related_claims": [
+        "C-4241",
+        "C-4242",
+        "C-4243",
+        "C-4244",
+        "C-4245"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-10944"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-651",
+      "ref": "N-651",
+      "name": "Eric Richins",
+      "type": "person",
+      "description": "First named by the host at 00:26:29 in episode 108. Kouri Richins's husband, who the host says covertly transferred his estate to his sister before he was killed. Transcript spelling \"Eric Richens\".",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4244",
+        "C-4245"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-10944"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "N-652",
+      "ref": "N-652",
+      "name": "Ed Galvin",
+      "type": "person",
+      "description": "First named by the host at 00:52:19 in episode 108. Named in the comments as a candidate the host calls embarrassing, with no crowd at his victory party. Kept in the transcript spelling (see Optional Flags).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4266"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-10916"
+      ]
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Organization whose board member was reportedly to help with the will changes, from which $10 million was allegedly missing, and which offered the Daily Mail a private screening of the disputed video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4235",
+        "C-4246",
+        "C-4249"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10006",
+      "ref": "N-10006",
+      "name": "Fox News",
+      "type": "investigation_target",
+      "description": "Ran a headline on the Tyler Robinson defense seeking to restrict evidence that the host says misrepresented the filing.",
+      "related_artifacts": [
+        "A-2606.1"
+      ],
+      "related_claims": [
+        "C-4251"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10014",
+      "ref": "N-10014",
+      "name": "Federal Bureau of Investigation",
+      "type": "investigation_target",
+      "description": "Its DNA report (towel, screwdriver) is among the items the defense seeks to seal; the host mocks the FBI's \"non-investigation.\"",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4256"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10026",
+      "ref": "N-10026",
+      "name": "Israel",
+      "type": "investigation_target",
+      "description": "The host says Jack Hibbs's circle claimed Israel knew of the death first.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4265"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10070",
+      "ref": "N-10070",
+      "name": "Daily Mail",
+      "type": "investigation_target",
+      "description": "The host says it confirmed that a TPUSA board member was helping with the Kirks' affairs and that TPUSA offered it a private screening of the disputed video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4246",
+        "C-4249"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10075",
+      "ref": "N-10075",
+      "name": "White House",
+      "type": "investigation_target",
+      "description": "Still not answering the host's FOIA request on White House Correspondents' Dinner communications.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4247"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10132",
+      "ref": "N-10132",
+      "name": "TPUSA DOGE Department / Financial Audit",
+      "type": "investigation_target",
+      "description": "The host says Charlie Kirk set up a DOJ internal audit to find an alleged missing $10 million, cancelled after his death.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4235",
+        "C-4236"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10194",
+      "ref": "N-10194",
+      "name": "TPUSA Succession Plan Disclosure Timeline",
+      "type": "investigation_target",
+      "description": "Erika Kirk's account to Megyn Kelly that Charlie only expressed his succession wish three weeks before his death.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4233"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10322",
+      "ref": "N-10322",
+      "name": "Charlie Kirk Life Insurance Policy & Beneficiary",
+      "type": "investigation_target",
+      "description": "The host says the corporate policy included a $10 million payout for Erika Kirk and the children.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4234"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10340",
+      "ref": "N-10340",
+      "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+      "type": "investigation_target",
+      "description": "The \"they're going to kill me\" texts the host cites as context for the planned will change.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4237"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10455",
+      "ref": "N-10455",
+      "name": "Andrew Kolvet Charlie Kirk Twitter Control Claim",
+      "type": "investigation_target",
+      "description": "The host repeats that Kolvet was running Charlie Kirk's Twitter.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4239"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10581",
+      "ref": "N-10581",
+      "name": "Tyler Robinson Defense – Chain of Custody / Documents",
+      "type": "investigation_target",
+      "description": "The defense's lack of discovery and its request to seal preliminary-hearing evidence.",
+      "related_artifacts": [
+        "A-2606.4"
+      ],
+      "related_claims": [
+        "C-4253",
+        "C-4254"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10605",
+      "ref": "N-10605",
+      "name": "Erika Kirk–Victor Marx Relationship Verification",
+      "type": "investigation_target",
+      "description": "Eileen Marx's mentoring of Erika Kirk and the Marxes' visit to the Kirk home in the first days.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4221",
+        "C-4228"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10622",
+      "ref": "N-10622",
+      "name": "Early-Death-Announcement Timeline Verification",
+      "type": "investigation_target",
+      "description": "Timing of Victor Marx's post relative to the president's announcement and to when Erika Kirk and Andrew Kolvet learned of the death.",
+      "related_artifacts": [
+        "A-2608.2"
+      ],
+      "related_claims": [
+        "C-4217",
+        "C-4264"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10637",
+      "ref": "N-10637",
+      "name": "WHCD Incident Reconstruction",
+      "type": "investigation_target",
+      "description": "White House Correspondents' Dinner communications sought by the host's FOIA request.",
+      "related_artifacts": [
+        "A-2605.2"
+      ],
+      "related_claims": [
+        "C-4247"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10651",
+      "ref": "N-10651",
+      "name": "Brian Harpole Lawsuit Coordination Question",
+      "type": "investigation_target",
+      "description": "The Harpole defamation suit, within which the host sent preservation letters to Victor Marx and others.",
+      "related_artifacts": [
+        "A-2602.1"
+      ],
+      "related_claims": [
+        "C-4214",
+        "C-4226",
+        "C-4227"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10664",
+      "ref": "N-10664",
+      "name": "Charlie Kirk Aspen Audio Authenticity Question",
+      "type": "investigation_target",
+      "description": "The disputed video, of which the host says TPUSA offered the Daily Mail a private screening and to whose audio Erika Kirk walked out.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4249",
+        "C-4250"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10679",
+      "ref": "N-10679",
+      "name": "Lance Twiggs Preliminary Hearing Testimony Limitation",
+      "type": "investigation_target",
+      "description": "The host says the state plans to call five officers and Lance Twiggs at the preliminary hearing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4255"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10700",
+      "ref": "N-10700",
+      "name": "Pending FOIA Requests",
+      "type": "investigation_target",
+      "description": "The host's FOIA request on White House Correspondents' Dinner communications.",
+      "related_artifacts": [
+        "A-2605.2"
+      ],
+      "related_claims": [
+        "C-4247"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10782",
+      "ref": "N-10782",
+      "name": "Tyler Robinson Case Evidence Inventory",
+      "type": "investigation_target",
+      "description": "The FBI DNA report and ATF ballistics report listed as items 31 and 32 in the defense filing.",
+      "related_artifacts": [
+        "A-2606.4"
+      ],
+      "related_claims": [
+        "C-4256",
+        "C-4257"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10813",
+      "ref": "N-10813",
+      "name": "Foreign / Israeli Angle Investigation",
+      "type": "investigation_target",
+      "description": "The claim by Jack Hibbs's circle that Israel knew of the death first.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4265"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10899",
+      "ref": "N-10899",
+      "name": "Paramount Tactical Valhalla",
+      "type": "investigation_target",
+      "description": "Called \"Paramount not so tactical\" by the host; she says she sent it a preservation letter and names it as part of the media and influencer orbit.",
+      "related_artifacts": [
+        "A-2602.2"
+      ],
+      "related_claims": [
+        "C-4231"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10916",
+      "ref": "N-10916",
+      "name": "Thomas Massie Kentucky Primary Outside Spending",
+      "type": "topic",
+      "description": "Thomas Massie's Kentucky primary loss, which the host frames as an attempt to buy an outcome with money; it connects to her comments on the candidate she calls \"Ed Galvin.\"",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-4213",
+        "C-4266"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-593",
+        "N-652"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10942",
+      "ref": "N-10942",
+      "name": "Victor Marx \"They Only Wanted Charlie\" Text to Erika Kirk",
+      "type": "topic",
+      "description": "Investigation target: the text Victor Marx says he sent Erika Kirk while she was at the hospital, telling her \"nobody's going to kill you\" and that \"they just wanted Charlie.\" The host asks who \"they\" are and why that would be a first text to a widow.",
+      "related_artifacts": [
+        "A-2600.3"
+      ],
+      "related_claims": [
+        "C-4230"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-348",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10943",
+      "ref": "N-10943",
+      "name": "Charlie Kirk September 15 End-of-Life Document Appointment",
+      "type": "topic",
+      "description": "Investigation target: the host's report that Erika Kirk told multiple people that she and Charlie Kirk were due to sign updated end-of-life documents on Monday, September 15, 2025. She also reportedly said a TPUSA board member would help with the changes. The host asks what life event would have prompted the change and offers investigators the names of the people Erika told.",
+      "related_artifacts": [
+        "A-2603.1"
+      ],
+      "related_claims": [
+        "C-4232",
+        "C-4246"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10944",
+      "ref": "N-10944",
+      "name": "Kouri Richins Murder Case",
+      "type": "topic",
+      "description": "The Utah case of Kouri Richins, who the host says was found guilty of murdering her husband Eric Richins after publishing a children's grief book. The host says his covert estate transfer and her attempted life insurance beneficiary change were central to the prosecution. She cites the case as precedent for scrutinizing will changes around an unexpected death.",
+      "related_artifacts": [
+        "A-2604.1"
+      ],
+      "related_claims": [
+        "C-4241",
+        "C-4242",
+        "C-4243",
+        "C-4244",
+        "C-4245"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high",
+      "related_nodes": [
+        "N-650",
+        "N-651"
+      ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10923",
+      "ref": "N-10923",
+      "name": "White House Military Office Erika Kirk Amplification Email",
+      "type": "topic",
+      "description": "The communication in which, per the host, Erika Kirk was \"written in as an emotional asset just over an hour after shots are fired\" at the White House Correspondents' Dinner, with the focus on making her video \"number one in the morning.\"",
+      "related_artifacts": [
+        "A-2605.1"
+      ],
+      "related_claims": [
+        "C-4248"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium",
+      "related_nodes": [
+        "N-2"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "@type": "Claim",
+      "@id": "C-4213",
+      "ref": "C-4213",
+      "label": "Thomas Massie lost his Kentucky primary",
+      "claim": "The host says Thomas Massie lost in Kentucky the day before the episode.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10916"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:00",
+      "investigative_direction": "Check the certified Kentucky Republican primary results for Massie's congressional district in May 2026.",
+      "transcript_snippet": "I know some people are not feeling too happy today because Thomas Massie lost in Kentucky.",
+      "mentions_person_refs": [
+        "N-593"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4214",
+      "ref": "C-4214",
+      "label": "Host sent preservation letters in her lawsuit with Brian Harpole after the Marx interview",
+      "claim": "The host says the fallout from her Victor Marx interview led her to send several preservation letters in her ongoing lawsuit with Brian Harpole.",
+      "anchored_artifacts": [
+        "A-2602.1"
+      ],
+      "related_nodes": [
+        "N-10651"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:44",
+      "investigative_direction": "Check the Harpole v. Owens docket and counsel correspondence for the preservation letters and their recipients.",
+      "transcript_snippet": "the fallout from Victor Marx's interview yesterday is trending all across social media, and it inspired me to send out a few preservation letters in my ongoing lawsuit with Bryan Harpold.",
+      "mentions_person_refs": [
+        "N-348",
+        "N-272",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4215",
+      "ref": "C-4215",
+      "label": "Victor Marx called the interview a 1-hour no-moderator debate",
+      "claim": "In a video posted on X after the interview, Victor Marx thanks his team and says the interview was \"a 1-hour no moderator debate,\" answering critics who say he does not debate.",
+      "anchored_artifacts": [
+        "A-2599.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:47",
+      "investigative_direction": "Retrieve Victor Marx's X post of May 19–20, 2026 and its timestamp.",
+      "transcript_snippet": "What I would say is for those of you who said Victor doesn't debate, that was a 1-hour no moderator debate.",
+      "mentions_person_refs": [
+        "N-348",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4216",
+      "ref": "C-4216",
+      "label": "Victor Marx says scrutiny began only because he entered politics and is winning the governor's race",
+      "claim": "Victor Marx says in his video that all the scrutiny started only because he entered politics, and that he is winning the Colorado governor's race.",
+      "anchored_artifacts": [
+        "A-2599.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:47",
+      "investigative_direction": "Compare public polling for the 2026 Colorado gubernatorial primary with the dates of the earliest public allegations about Marx.",
+      "transcript_snippet": "Uh look, all of this has started only because I entered into the political realm. Period. And uh and because I'm winning the governor's race.",
+      "mentions_person_refs": [
+        "N-348"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4217",
+      "ref": "C-4217",
+      "label": "Victor Marx's deleted death post came about 1 hour 20 minutes before the president's announcement",
+      "claim": "In the interview clip the host says Victor Marx was first to post a video, later removed, saying Charlie Kirk had died, about an hour and 20 minutes before the president's announcement. She says it was around the time Kirk's family or people at the hospital learned of the death.",
+      "anchored_artifacts": [
+        "A-2600.1"
+      ],
+      "related_nodes": [
+        "N-10622"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:50",
+      "investigative_direction": "Recover the archived Instagram story or video with platform timestamps and compare it with Trump's Truth Social post time on September 10, 2025.",
+      "transcript_snippet": "you were first to post a video that was later on removed saying that Charlie had passed and this video was about an hour and 20 minutes before the president's announcement.",
+      "supports_claim_refs": [
+        "C-3702"
+      ],
+      "mentions_person_refs": [
+        "N-348",
+        "N-1",
+        "N-5",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4218",
+      "ref": "C-4218",
+      "label": "Marx says he learned of the shooting from a text by a father whose son was at the event",
+      "claim": "Victor Marx says someone texted him that his son was at Charlie Kirk's event, that Kirk had just been shot, and that it did not look good.",
+      "anchored_artifacts": [
+        "A-2600.1"
+      ],
+      "related_nodes": [
+        "N-10622"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:43",
+      "investigative_direction": "Obtain the text message and sender identity from Marx's phone records via subpoena.",
+      "transcript_snippet": "I I had someone text me and he said, \"My son is at Charlie's event and Charlie was just shot.",
+      "mentions_person_refs": [
+        "N-348",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4219",
+      "ref": "C-4219",
+      "label": "Marx says he watched the shooting once and his former special operations team judged it fatal",
+      "claim": "Victor Marx says he watched the shooting video only once, while his team, many of them former special operations men, viewed it several times and told him Charlie Kirk would not survive.",
+      "anchored_artifacts": [
+        "A-2600.1"
+      ],
+      "related_nodes": [
+        "N-10622"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:34",
+      "investigative_direction": "Identify the team members present with Marx on September 10, 2025 and obtain their statements and communications from that afternoon.",
+      "transcript_snippet": "I watched Charlie being shot one time. And my team uh many who are former special operations guys in combat minutes, lots of experience, they viewed it multiple times cuz I wouldn't.",
+      "supports_claim_refs": [
+        "C-3713"
+      ],
+      "mentions_person_refs": [
+        "N-348",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4220",
+      "ref": "C-4220",
+      "label": "Marx says he took the post down as premature after seeing no one else post",
+      "claim": "Victor Marx says that after posting that Charlie Kirk had died he saw no one else posting it, felt it was premature, and pulled it down.",
+      "anchored_artifacts": [
+        "A-2600.1"
+      ],
+      "related_nodes": [
+        "N-10622"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:34",
+      "investigative_direction": "Obtain Instagram deletion metadata for the post and any archived copies.",
+      "transcript_snippet": "I put it up and then I didn't see anybody else posting it. I thought it was premature and I I pulled it down cuz it just felt wrong that I would post it.",
+      "mentions_person_refs": [
+        "N-348",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4221",
+      "ref": "C-4221",
+      "label": "Eileen Marx mentors Erika Kirk",
+      "claim": "The host says Victor Marx told her during the interview that his wife Eileen mentors Erika Kirk and that the two became very close.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10605"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:31",
+      "investigative_direction": "Review the full Marx interview and public records of Eileen Marx's ministry contacts with Erika Kirk.",
+      "transcript_snippet": "You told us elsewhere in the interview that Eileen and Erika, they got so close because well, your wife, your bride, mentors Erika, right?",
+      "mentions_person_refs": [
+        "N-348",
+        "N-350",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4222",
+      "ref": "C-4222",
+      "label": "Marx's team took over Charlie Kirk's security apparatus 48 hours later in Phoenix",
+      "claim": "The host says Victor Marx told her his team took over the security apparatus in Phoenix a mere 48 hours after the shooting because the existing team was tired and stressed.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:07:31",
+      "investigative_direction": "Obtain TPUSA and Kirk family security staffing records for September 11–14, 2025.",
+      "transcript_snippet": "You were so close to Charlie's security apparatus, in fact, that you were able to swiftly coordinate taking over for them a mere 48 hours later in Phoenix, remember?",
+      "mentions_person_refs": [
+        "N-348",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4223",
+      "ref": "C-4223",
+      "label": "Kolvet texted the host \"Shot for sure\" on September 10",
+      "claim": "The host reads her September 10 text exchange with Andrew Kolvet, in which she wrote \"Please say he's okay\" and he replied \"I don't know. Pray.\" and \"Shot for sure.\"",
+      "anchored_artifacts": [
+        "A-2601.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:10:12",
+      "investigative_direction": "Verify message timestamps from the host's and Kolvet's phones.",
+      "transcript_snippet": "\"Please say he's okay.\" I wrote. \"I don't know. Pray.\" \"Shot for sure.\" Andrew writes back.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4224",
+      "ref": "C-4224",
+      "label": "Kolvet told the host Charlie Kirk was shot \"in the neck head area\"",
+      "claim": "The host says that when she asked where Charlie Kirk was shot, Andrew Kolvet replied \"In the neck head area.\"",
+      "anchored_artifacts": [
+        "A-2601.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:10:12",
+      "investigative_direction": "Verify the message timestamp and compare it with when the shooting footage first circulated.",
+      "transcript_snippet": "I said, \"We just prayed before I texted. Any details on where he was shot? I am freaking out.\" He says, \"In the neck head area.\"",
+      "mentions_person_refs": [
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4225",
+      "ref": "C-4225",
+      "label": "Frank Turek and the security team took Charlie Kirk to the hospital",
+      "claim": "The host says Frank Turek and the security team took Charlie Kirk to the hospital and so should have been first to know he was dead.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:11:12",
+      "investigative_direction": "Obtain Timpanogos Hospital arrival records and the security team's call logs for September 10, 2025.",
+      "transcript_snippet": "Actually, Frank Chirico and the security team should have been the first to know that Charlie was dead. They took him to the hospital.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4226",
+      "ref": "C-4226",
+      "label": "Host is being sued by Brian Harpole, head of Charlie Kirk's security team",
+      "claim": "The host says she is currently being sued by Brian Harpole, whom she calls head of Charlie Kirk's security team.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10651"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:00",
+      "investigative_direction": "Pull the complaint and docket in Harpole's defamation suit against the host.",
+      "transcript_snippet": "I'm currently being sued by Brian Harpole, head of Charlie's security team.",
+      "mentions_person_refs": [
+        "N-272",
+        "N-3",
+        "N-348"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4227",
+      "ref": "C-4227",
+      "label": "Host sent Victor Marx a legal preservation letter",
+      "claim": "The host says that because she is being sued for defamation, her side sent Victor Marx a legal preservation letter earlier that day. She says his communications with the security team during the critical hours, possibly with Brian or Dan, may be relevant.",
+      "anchored_artifacts": [
+        "A-2602.1"
+      ],
+      "related_nodes": [
+        "N-10651"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:44",
+      "investigative_direction": "Obtain the letter and any subsequent subpoena for Marx's September 10, 2025 communications with the security team.",
+      "transcript_snippet": "I'm being sued for defamation, which is why we sent earlier today Victor Mark's legal preservation letter.",
+      "mentions_person_refs": [
+        "N-348",
+        "N-272",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4228",
+      "ref": "C-4228",
+      "label": "Victor Marx went to Erika and Charlie Kirk's home in the first two days",
+      "claim": "In the interview the host says Victor Marx was among the first, in the first two days, to go to Erika and Charlie Kirk's home to comfort her.",
+      "anchored_artifacts": [
+        "A-2600.2"
+      ],
+      "related_nodes": [
+        "N-10605"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:44",
+      "investigative_direction": "Obtain visitor or security logs for the Kirk residence for September 10–12, 2025.",
+      "transcript_snippet": "actually maybe it was actually just you in the first 2 days that went uh to Erika and Charlie's place to provide her um some comfort.",
+      "supports_claim_refs": [
+        "C-3703"
+      ],
+      "mentions_person_refs": [
+        "N-348",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4229",
+      "ref": "C-4229",
+      "label": "Marx says his team relieved an exhausted security team that had no secondary",
+      "claim": "Victor Marx says he brought his team immediately to relieve the first security team, whom he knew and was in contact with, because they were suffering trauma and exhaustion and had no secondary team.",
+      "anchored_artifacts": [
+        "A-2600.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:13:43",
+      "investigative_direction": "Identify who asked Marx's team to provide security and obtain related communications.",
+      "transcript_snippet": "we brought our team uh immediately uh to help give relief for the first security team who I knew, who I was in contact with, and they were suffering trauma and exhaustion. They didn't have a secondary.",
+      "mentions_person_refs": [
+        "N-348",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4230",
+      "ref": "C-4230",
+      "label": "Marx texted Erika Kirk that \"they just wanted Charlie\"",
+      "claim": "Victor Marx says he texted Erika Kirk while she was at the hospital that nobody was going to kill her or the children and that \"They just wanted Charlie.\" The host asks who \"they\" are.",
+      "anchored_artifacts": [
+        "A-2600.3"
+      ],
+      "related_nodes": [
+        "N-10942"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:49",
+      "investigative_direction": "Obtain the text and its timestamp from Marx's or Erika Kirk's phone records.",
+      "transcript_snippet": "I was just telling her nobody's going to kill you. You're safe, you and the kids. No one's coming after you. They just wanted Charlie.",
+      "mentions_person_refs": [
+        "N-348",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4231",
+      "ref": "C-4231",
+      "label": "Host sent a preservation letter to Paramount Not So Tactical",
+      "claim": "The host says she also sent a preservation letter to the account she calls \"Paramount not so tactical.\"",
+      "anchored_artifacts": [
+        "A-2602.2"
+      ],
+      "related_nodes": [
+        "N-10899",
+        "N-10651"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:46",
+      "investigative_direction": "Confirm the letter's recipient and date through the host's counsel.",
+      "transcript_snippet": "because we also sent out some more preservation letters. I also sent one to Paramount not so tactical.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4232",
+      "ref": "C-4232",
+      "label": "Erika Kirk told multiple people she and Charlie were to sign updated end-of-life documents on September 15",
+      "claim": "The host says that, according to sources she trusts and evidence she holds, Erika Kirk told multiple people in the weeks after the assassination that she and Charlie Kirk had an appointment to sign updated end-of-life documents on September 15. The host notes Erika may have lied.",
+      "anchored_artifacts": [
+        "A-2603.1"
+      ],
+      "related_nodes": [
+        "N-10943"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:26",
+      "investigative_direction": "Identify the Kirks' estate attorney and any calendar entry or engagement letter for a September 15, 2025 signing.",
+      "transcript_snippet": "she shared with people that Charlie and her were due to sign updated end-of-life documents on September 15th.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4233",
+      "ref": "C-4233",
+      "label": "Erika Kirk told Megyn Kelly Charlie expressed his succession wish only three weeks before his death",
+      "claim": "The host says Erika Kirk told Megyn Kelly that Charlie Kirk had only expressed the aspiration for her to lead three weeks before his death.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10194"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:28",
+      "investigative_direction": "Review the Megyn Kelly interview transcript for Erika Kirk's exact wording.",
+      "transcript_snippet": "this would sort of rank similar to her telling Megan Kelly that Charlie had only just expressed an aspirin three weeks before his untimely death.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-46",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4234",
+      "ref": "C-4234",
+      "label": "Charlie Kirk's corporate life insurance included a $10 million payout for Erika and the children",
+      "claim": "The host says she is told Charlie Kirk already had a corporate life insurance policy that included a $10 million payout for Erika Kirk and the children.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10322"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:57",
+      "investigative_direction": "Check TPUSA Form 990 disclosures and any key-person insurance records naming beneficiaries.",
+      "transcript_snippet": "Charlie already had a corporate life insurance policy which included, I am told, a $10 million payout for Erika and the children.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4235",
+      "ref": "C-4235",
+      "label": "Charlie Kirk told people $10 million was missing from his company",
+      "claim": "The host alleges that Charlie Kirk was telling people that $10 million was missing from his company.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10132",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:52",
+      "investigative_direction": "Interview the people Kirk told and review TPUSA financial statements for unexplained shortfalls.",
+      "transcript_snippet": "But in the midst of Charlie telling people that $10 million was missing from his company, allegedly,",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4236",
+      "ref": "C-4236",
+      "label": "Charlie Kirk's DOJ internal audit was cancelled after his death",
+      "claim": "The host says Charlie Kirk set up a DOJ internal audit to locate the alleged missing $10 million and that it was cancelled after his death.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10132"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:52",
+      "investigative_direction": "Obtain TPUSA internal memos on the audit or DOGE department and any later cancellation notice.",
+      "transcript_snippet": "in the midst of him establishing a DOJ internal audit to locate this alleged $10 million, which was subsequently canceled in the wake of his death.",
+      "supports_claim_refs": [
+        "C-1876"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4237",
+      "ref": "C-4237",
+      "label": "Charlie Kirk texted those closest to him \"They're going to kill me\"",
+      "claim": "The host says Charlie Kirk texted those closest to him that \"They're going to kill me\" and that he thought he would be killed the next day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10340"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:52",
+      "investigative_direction": "Obtain the original messages and recipients from the phones of Kirk's inner circle.",
+      "transcript_snippet": "In the midst of him texting those closest to him and saying, \"They're going to kill me.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4238",
+      "ref": "C-4238",
+      "label": "Charlie Kirk said \"I want Candace back\"",
+      "claim": "The host says Charlie Kirk was saying \"I want Candace back,\" which she attributes to her having warned him not to trust the people around him.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:23:50",
+      "investigative_direction": "Identify who heard Kirk say this and when, and obtain any written messages.",
+      "transcript_snippet": "He's asking, \"I want Candace back.\" Why? Why does he want Candace back? Because I told him not to trust any of those people.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4239",
+      "ref": "C-4239",
+      "label": "Andrew Kolvet ran Charlie Kirk's Twitter",
+      "claim": "The host says Andrew Kolvet was running Charlie Kirk's Twitter account, as part of her point that people around Kirk had access to everything.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10455"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:50",
+      "investigative_direction": "Obtain X account login and session records for @charliekirk11.",
+      "transcript_snippet": "I believe I know everyone had access to everything. Andrew Kolb was running his Twitter.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4240",
+      "ref": "C-4240",
+      "label": "Mikey McCoy had Charlie Kirk's laptop",
+      "claim": "The host says Mikey McCoy had Charlie Kirk's laptop and that everyone had access to Kirk's everything because he was too trusting.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:24:28",
+      "investigative_direction": "Establish custody of Kirk's laptop and devices before and after September 10, 2025.",
+      "transcript_snippet": "Uh Mikey had his laptop. I mean, everybody did have access to Charlie's everything because he was too trusting.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4241",
+      "ref": "C-4241",
+      "label": "Kouri Richins was found guilty of murdering her husband after a grief book tour",
+      "claim": "The host says Utah widow Kouri Richins was found guilty of murdering her husband, who died of an overdose. She says Richins had written a children's grief book, Are You With Me, and promoted it on a public tour.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10944"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:28",
+      "investigative_direction": "Check the Summit County, Utah court record for the verdict in State v. Kouri Richins.",
+      "transcript_snippet": "the one in Utah, ironically, who was found guilty of murdering her husband out in but but like not instantly.",
+      "mentions_person_refs": [
+        "N-650"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4242",
+      "ref": "C-4242",
+      "label": "Kouri Richins said on TV her husband died unexpectedly at 39",
+      "claim": "In a TV clip promoting her book, Kouri Richins says her husband died unexpectedly the previous year at age 39, with March 4 marking the first anniversary.",
+      "anchored_artifacts": [
+        "A-2604.1"
+      ],
+      "related_nodes": [
+        "N-10944"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:32",
+      "investigative_direction": "Locate the original broadcast and its air date.",
+      "transcript_snippet": "So, my husband passed away unexpectedly last year. So, it's March 4th was a 1-year anniversary for us, and um he was 39.",
+      "mentions_person_refs": [
+        "N-650"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4243",
+      "ref": "C-4243",
+      "label": "Kouri Richins was arrested a month after the book interview",
+      "claim": "The host says Kouri Richins was arrested a month after the interview, more than a year after her husband's death.",
+      "anchored_artifacts": [
+        "A-2604.1"
+      ],
+      "related_nodes": [
+        "N-10944"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:29",
+      "investigative_direction": "Check the arrest date in Summit County, Utah records against the broadcast date.",
+      "transcript_snippet": "A month later, she would be arrested over a year after her husband had passed away.",
+      "mentions_person_refs": [
+        "N-650"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4244",
+      "ref": "C-4244",
+      "label": "Eric Richins covertly transferred his estate to his sister before his death",
+      "claim": "The host says Eric Richins covertly transferred his entire estate and business interests into his sister's name a few weeks before he was murdered, out of fear that his wife would kill him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10944"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:29",
+      "investigative_direction": "Review trial testimony and estate filings in the Richins case.",
+      "transcript_snippet": "her husband, uh Eric Richens, also her victim, gratefully and successfully managed to transfer his entire estate and business interests into his sister's name covertly a few weeks before he passed away",
+      "mentions_person_refs": [
+        "N-651",
+        "N-650"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4245",
+      "ref": "C-4245",
+      "label": "Kouri Richins attempted to change the beneficiary of her husband's life insurance",
+      "claim": "The host says the court heard that Kouri Richins tried to change the beneficiary of her husband's corporate life insurance so that she would receive 100% of the payout.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10944"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:25",
+      "investigative_direction": "Review trial exhibits on the insurance beneficiary change in the Richins case.",
+      "transcript_snippet": "the court heard that Kouri herself attempted to change the beneficiary of his corporate life insurance so that she would receive it 100% of the payout.",
+      "mentions_person_refs": [
+        "N-650",
+        "N-651"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4246",
+      "ref": "C-4246",
+      "label": "Erika Kirk said a TPUSA board member would help with the will changes, which the Daily Mail later confirmed",
+      "claim": "The host says her sources reported that Erika Kirk said a TPUSA board member was going to help with the end-of-life changes. She says the Daily Mail later confirmed this when it reported speaking with a TPUSA board member who said he was helping with those affairs.",
+      "anchored_artifacts": [
+        "A-2603.1"
+      ],
+      "related_nodes": [
+        "N-10943",
+        "N-10070",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:40",
+      "investigative_direction": "Identify the TPUSA board member quoted in the Daily Mail AI-video investigation and ask about his role in the Kirks' estate planning.",
+      "transcript_snippet": "Erika also communicated that a Turning Point USA board member was going to be helping them with those changes.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4247",
+      "ref": "C-4247",
+      "label": "Host filed a FOIA request on White House Correspondents' Dinner communications and the White House has not responded",
+      "claim": "The host says her team filed a FOIA request for White House Correspondents' Dinner communications and that the White House is still not responding.",
+      "anchored_artifacts": [
+        "A-2605.2"
+      ],
+      "related_nodes": [
+        "N-10700",
+        "N-10637",
+        "N-10075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:07",
+      "investigative_direction": "Track the FOIA request number and statutory response deadline.",
+      "transcript_snippet": "The White House Correspondents Dinner communications are very relevant, which is why we filed an FOIA request.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4248",
+      "ref": "C-4248",
+      "label": "Erika Kirk was written in as an \"emotional asset\" just over an hour after shots were fired",
+      "claim": "The host says White House Correspondents' Dinner communications wrote Erika Kirk in as an \"emotional asset\" just over an hour after shots were fired, focused on making her video number one in the morning.",
+      "anchored_artifacts": [
+        "A-2605.1"
+      ],
+      "related_nodes": [
+        "N-10923"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:07",
+      "investigative_direction": "Obtain the original email with headers and timestamps and compare them with the WHCD incident timeline.",
+      "transcript_snippet": "Erika Kirk written in as an emotional asset just over an hour after shots are fired",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4249",
+      "ref": "C-4249",
+      "label": "TPUSA offered the Daily Mail a private screening of the disputed video",
+      "claim": "The host says TPUSA went to the Daily Mail offering to host a private screening, perhaps on Zoom, to show that the disputed video was real.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10070",
+        "N-10664",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:07",
+      "investigative_direction": "Review the Daily Mail article describing the screening and request the screened file for forensic analysis.",
+      "transcript_snippet": "I mean, how ill-advisable to go to the Daily Mail to say \"We're going to host a little private screening with you.\"",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4250",
+      "ref": "C-4250",
+      "label": "Erika Kirk walked out to only the audio of the video",
+      "claim": "The host says TPUSA told people the video existed and then had Erika Kirk walk out to just its audio.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10664"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:12",
+      "investigative_direction": "Identify the event where the audio was played for Erika Kirk's walk-out and whether video was ever released.",
+      "transcript_snippet": "Uh to tell people that it existed and then decided to have Erika walk out to just the audio of it.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4251",
+      "ref": "C-4251",
+      "label": "Fox News headline said the Robinson defense moved to restrict evidence and testimony",
+      "claim": "The host shows a Fox News headline saying the Tyler Robinson defense moved to restrict evidence and testimony, and says it did not represent reality.",
+      "anchored_artifacts": [
+        "A-2606.1"
+      ],
+      "related_nodes": [
+        "N-10006"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:07",
+      "investigative_direction": "Compare the Fox News article with the defense motion filed in Utah Fourth District Court.",
+      "transcript_snippet": "This was the headline of Fox News. Tyler Robinson hearing the defense advised to restrict evidence and testimony in the Charlie Kirk assassination.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4252",
+      "ref": "C-4252",
+      "label": "AP and NewsNation reported the defense sought to seal evidence",
+      "claim": "The host shows AP News and NewsNation headlines saying lawyers for the man accused of killing Charlie Kirk sought to seal evidence in the hearing.",
+      "anchored_artifacts": [
+        "A-2606.2",
+        "A-2606.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:34:43",
+      "investigative_direction": "Retrieve the AP and NewsNation articles and compare them with the filing.",
+      "transcript_snippet": "Lawyers for the man accused of killing Charlie Kirk asked to seal evidence in parts of a key hearing. Uh NewsNation. Lawyers for the accused Charlie Kirk shooter seek to seal evidence in court.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4253",
+      "ref": "C-4253",
+      "label": "The Robinson defense still has not received its discovery requests",
+      "claim": "The host says that as the preliminary hearing approaches, the defense still has not received its discovery requests, while the state and victim Erika Kirk want to present evidence not yet provided to the defense.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10581"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:43",
+      "investigative_direction": "Check the docket for discovery motions, orders and the state's production log.",
+      "transcript_snippet": "The defense still has not received their discovery requests.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4254",
+      "ref": "C-4254",
+      "label": "The defense asks that preliminary-hearing evidence be sealed in case it is later ruled inadmissible",
+      "claim": "The host says the defense is asking that, if the preliminary hearing proceeds without discovery, the evidence be sealed in case it later becomes inadmissible, and that the filing explains item by item why.",
+      "anchored_artifacts": [
+        "A-2606.4"
+      ],
+      "related_nodes": [
+        "N-10581"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:34",
+      "investigative_direction": "Obtain the defense motion to seal and its exhibit table from the court record.",
+      "transcript_snippet": "then you should seal the quote-unquote evidence in case it becomes inadmissible down the line.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4255",
+      "ref": "C-4255",
+      "label": "The state plans to call five officers and Lance Twiggs at the preliminary hearing",
+      "claim": "The host says the prosecution is bringing five officers and Lance Twiggs to testify at the preliminary hearing and will show text messages whose authenticity is unverified.",
+      "anchored_artifacts": [
+        "A-2606.4"
+      ],
+      "related_nodes": [
+        "N-10679"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:18",
+      "investigative_direction": "Check the state's witness list for the preliminary hearing.",
+      "transcript_snippet": "They're they're bringing five officers to say things. They're going to have Lance Lance Twiggs as testimony to say things.",
+      "mentions_person_refs": [
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4256",
+      "ref": "C-4256",
+      "label": "The sealing list includes the FBI DNA report on the towel and screwdriver",
+      "claim": "The host shows the filing, which lists as item 31 the FBI DNA report on the towel and the screwdriver among the evidence the defense wants sealed.",
+      "anchored_artifacts": [
+        "A-2606.4"
+      ],
+      "related_nodes": [
+        "N-10014",
+        "N-10782"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:12",
+      "investigative_direction": "Obtain the filing's exhibit list and the FBI laboratory report once unsealed.",
+      "transcript_snippet": "Um here's 31. Case in point, the FBI DNA report, right? The towel, the screwdriver.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4257",
+      "ref": "C-4257",
+      "label": "The defense says it has not been able to see the gun; the ATF ballistics report is item 32",
+      "claim": "The host says the defense has not been able to see the gun and that item 32 on the sealing list is the ATF ballistics report.",
+      "anchored_artifacts": [
+        "A-2606.4"
+      ],
+      "related_nodes": [
+        "N-10782"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:12",
+      "investigative_direction": "Check defense filings on access to the rifle and the ATF report's disclosure date.",
+      "transcript_snippet": "They said they weren't even able to see the gun. Listed 32, the ATF ballistics report.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4258",
+      "ref": "C-4258",
+      "label": "Joe Rogan said Theo Von's Netflix taping was shelved",
+      "claim": "In a clip, Joe Rogan says Theo Von had a Netflix taping that went badly and was shelved and never used.",
+      "anchored_artifacts": [
+        "A-2607.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:39:00",
+      "investigative_direction": "Check Netflix's release records and reporting on any unreleased Theo Von special.",
+      "transcript_snippet": "He had a Netflix taping and it didn't go well. It was like they actually never they shelved it. They never used it.",
+      "mentions_person_refs": [
+        "N-274",
+        "N-149"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4259",
+      "ref": "C-4259",
+      "label": "Rogan said Theo Von told a crowd he was \"trying not to take my own life\"",
+      "claim": "Joe Rogan says there is a video of Theo Von telling a crowd he was trying not to take his own life.",
+      "anchored_artifacts": [
+        "A-2607.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:39:00",
+      "investigative_direction": "Locate the crowd video and its context; the host says Theo told her it was taken out of context.",
+      "transcript_snippet": "Look, I'm just I'm trying not to take my own life. That's what I'm trying to do right now.",
+      "mentions_person_refs": [
+        "N-274",
+        "N-149"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4260",
+      "ref": "C-4260",
+      "label": "Rogan said the chemical-imbalance explanation for SSRIs is not real",
+      "claim": "Joe Rogan says the chemical-imbalance theory of how SSRIs work is not real, citing recent studies.",
+      "anchored_artifacts": [
+        "A-2607.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:40:04",
+      "investigative_direction": "Review the 2022 Moncrieff et al. umbrella review on serotonin and depression and the responses to it.",
+      "transcript_snippet": "but here's the thing about that chemical imbalance thing, that's not real.",
+      "mentions_person_refs": [
+        "N-274"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4261",
+      "ref": "C-4261",
+      "label": "Theo Von responded that the Rogan clip was \"mostly cap\"",
+      "claim": "The host says Theo Von responded to the viral clip that it was \"mostly cap\" and that he is doing fine.",
+      "anchored_artifacts": [
+        "A-2607.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:41:33",
+      "investigative_direction": "Retrieve Theo Von's post and its timestamp.",
+      "transcript_snippet": "Theo Von responded and said, this is mostly cap.",
+      "mentions_person_refs": [
+        "N-149",
+        "N-274"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4262",
+      "ref": "C-4262",
+      "label": "Joe Rogan recorded a standalone apology for the first time in his show's history",
+      "claim": "The host says Joe Rogan did something he had never done in his show's history by recording an apology about Theo Von. In the clip Rogan says he had already apologized to Theo privately.",
+      "anchored_artifacts": [
+        "A-2607.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:41:33",
+      "investigative_direction": "Check the Joe Rogan Experience feed for the standalone apology episode and any precedent.",
+      "transcript_snippet": "Joe Rogan did something that he's never done in the history of his show where he just recorded him apologizing.",
+      "mentions_person_refs": [
+        "N-274",
+        "N-149"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4263",
+      "ref": "C-4263",
+      "label": "Host says the Erika Kirk trademark lawsuit rumor is unfounded",
+      "claim": "Responding to a viewer, the host says the rumor that Erika Kirk rushed to trademark Charlie Kirk's name and is being sued by his parents is, as far as she knows, an internet rumor.",
+      "anchored_artifacts": [
+        "A-2608.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:49:12",
+      "investigative_direction": "Search USPTO filings for \"Charlie Kirk\" marks and their applicants and filing dates, and court records for any suit by Kirk's parents.",
+      "transcript_snippet": "Um I think that was just an internet rumor. I never heard that.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4264",
+      "ref": "C-4264",
+      "label": "Marx's post came around when Erika learned of the death and just before Kolvet did",
+      "claim": "Agreeing with a viewer, the host says Victor Marx's Instagram post came at about the time Erika Kirk learned of the death and slightly before Andrew Kolvet did. She says this signals that someone at the hospital, perhaps the security team or Erika, told him.",
+      "anchored_artifacts": [
+        "A-2608.2"
+      ],
+      "related_nodes": [
+        "N-10622"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:19",
+      "investigative_direction": "Build a minute-level timeline from Marx's post metadata, hospital records and Kolvet's and Erika Kirk's phone logs.",
+      "transcript_snippet": "It was when right around the timeline when Erika finds out, it's actually a little bit before when Andrew Kolvet finds out.",
+      "mentions_person_refs": [
+        "N-348",
+        "N-2",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4265",
+      "ref": "C-4265",
+      "label": "Jack Hibbs's circle said early that Charlie had died and that Israel knew first",
+      "claim": "The host says Pastor Jack Hibbs and TPUSA faith-adjacent figures were among the first to say Charlie Kirk had died, and that they said Israel knew first.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10813",
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:19",
+      "investigative_direction": "Timestamp Jack Hibbs's earliest public statements and identify the Israeli news source he cited.",
+      "transcript_snippet": "Pastor Jack Hibbs and that little orbit of TPUSA faith-adjacent people-ish were also the among the first to say uh that Charlie had passed and that for some reason Israel knew first.",
+      "mentions_person_refs": [
+        "N-212",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-4266",
+      "ref": "C-4266",
+      "label": "Ed Galvin had no crowd at his victory party",
+      "claim": "The host says the candidate she calls Ed Galvin had no crowd at his victory party and had the camera zoomed in on his face to hide it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10916"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:09",
+      "investigative_direction": "Review broadcast and wide-shot footage of the candidate's primary-night victory event.",
+      "transcript_snippet": "You had to have uh the camera zoomed in real close to your face so people couldn't see the the no crowd that showed up even to your victory party.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-652"
+      ]
+    }
+  ],
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-100",
+      "ref": "M-100",
+      "canonical_term": "Epstein Class",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 108,
+          "video_timestamp": "00:00:00",
+          "speaker_node_ref": "N-3",
+          "quote": "There's this sheer arrogance right now of the Epstein class. That's what they are. They are the Epstein class.",
+          "context": "Host opens the episode after Massie's loss by naming the moneyed elite the \"Epstein class.\"",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "framing",
+            "elites"
+          ]
+        },
+        {
+          "episode": 108,
+          "video_timestamp": "00:33:12",
+          "speaker_node_ref": "N-3",
+          "quote": "We've got power. We've got money. We've got Epstein class connections.",
+          "context": "Host mimics TPUSA's supposed self-assurance.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "roast"
+          ]
+        },
+        {
+          "episode": 108,
+          "video_timestamp": "00:50:57",
+          "speaker_node_ref": "N-3",
+          "quote": "I've seen it happen a great many times, and we are headed in that direction with the Epstein class.",
+          "context": "Host reprises the phrase in the comments segment.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "framing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-101",
+      "ref": "M-101",
+      "canonical_term": "Icarus Birdies",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 108,
+          "video_timestamp": "00:00:44",
+          "speaker_node_ref": "N-3",
+          "quote": "it's a not-so-unique moment when Icarus flies a little too close to the sun.",
+          "context": "Host frames the arrogance of the powerful as an Icarus moment.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "metaphor",
+            "running_bit"
+          ]
+        },
+        {
+          "episode": 108,
+          "video_timestamp": "00:01:53",
+          "speaker_node_ref": "N-3",
+          "quote": "There are a lot of little Icarus birdies flying around in America.",
+          "context": "Host applies the image to Victor Marx's interview conduct.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "roast",
+            "running_bit"
+          ]
+        },
+        {
+          "episode": 108,
+          "video_timestamp": "00:33:12",
+          "speaker_node_ref": "N-3",
+          "quote": "Every so many little Icarus birdies just flying so close to the sun.",
+          "context": "Host applies it to TPUSA and Erika Kirk's handling of the disputed video.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "roast",
+            "running_bit"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-102",
+      "ref": "M-102",
+      "canonical_term": "Chronic Common Sense",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 108,
+          "video_timestamp": "00:07:31",
+          "speaker_node_ref": "N-3",
+          "quote": "I know how many people at home, you guys also suffer from this chronic condition in today's world. Common sense, Victor.",
+          "context": "Host rejects Marx's explanation of his early death post.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "comedy",
+            "roast"
+          ]
+        },
+        {
+          "episode": 108,
+          "video_timestamp": "00:21:59",
+          "speaker_node_ref": "N-3",
+          "quote": "Again, as sufferers of chronic common sense, in literally every murder mystery ever in real life and within the world of fiction",
+          "context": "Host reprises the bit while discussing the September 15 will appointment.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "comedy"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-92",
+      "ref": "M-92",
+      "canonical_term": "Paramount Not So Tactical",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 108,
+          "video_timestamp": "00:15:46",
+          "speaker_node_ref": "N-3",
+          "quote": "I also sent one to Paramount not so tactical.",
+          "context": "Host names the account as a recipient of a preservation letter.",
+          "confidence": "high",
+          "tags": [
+            "roast",
+            "nickname",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 108,
+          "video_timestamp": "00:36:18",
+          "speaker_node_ref": "N-3",
+          "quote": "You would have Paramount not so tactical and their influencer orbit of people saying, \"Boo-ya! Boo-ya!",
+          "context": "Host lists it among outlets that would spin unsealed evidence.",
+          "confidence": "high",
+          "tags": [
+            "roast",
+            "nickname",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-103",
+      "ref": "M-103",
+      "canonical_term": "Snakes in Charlie's Garden",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 108,
+          "video_timestamp": "00:22:52",
+          "speaker_node_ref": "N-3",
+          "quote": "I am fully within my right to wonder if he realized that there were a few snakes in his garden.",
+          "context": "Host ties the will appointment to the people around Charlie Kirk.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "metaphor"
+          ]
+        },
+        {
+          "episode": 108,
+          "video_timestamp": "00:23:50",
+          "speaker_node_ref": "N-3",
+          "quote": "All of the people that the world now sees are the snakes that were in Charlie's garden. I saw them first, and I warned Charlie about those people.",
+          "context": "Host says she warned Charlie Kirk about his inner circle.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "metaphor"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-95",
+      "ref": "M-95",
+      "canonical_term": "Emotional Response Asset",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 108,
+          "video_timestamp": "00:32:07",
+          "speaker_node_ref": "N-3",
+          "quote": "Erika Kirk written in as an emotional asset just over an hour after shots are fired",
+          "context": "Host returns to the White House communications' description of Erika Kirk.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "erika_kirk",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 108,
+          "video_timestamp": "00:24:28",
+          "speaker_node_ref": "N-3",
+          "quote": "Remember that grieving widow we told you about a few months ago?",
+          "context": "Host introduces Kouri Richins as a parallel to Erika Kirk.",
+          "confidence": "high",
+          "tags": [
+            "grieving_widow",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 108,
+          "video_timestamp": "00:24:28",
+          "speaker_node_ref": "N-3",
+          "quote": "Here is a little quick clip to jog your memory about Kouri on tour as the grieving widow.",
+          "context": "Host introduces the Kouri Richins book-tour clip.",
+          "confidence": "high",
+          "tags": [
+            "grieving_widow",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-80",
+      "ref": "M-80",
+      "canonical_term": "Jog Your Memory",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 108,
+          "video_timestamp": "00:24:28",
+          "speaker_node_ref": "N-3",
+          "quote": "Here is a little quick clip to jog your memory about Kouri on tour as the grieving widow.",
+          "context": "Host uses the phrase to introduce a clip.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-15",
+      "ref": "M-15",
+      "canonical_term": "We Don't Know But We Know",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 108,
+          "video_timestamp": "00:55:53",
+          "speaker_node_ref": "N-3",
+          "quote": "We don't know no, but we know. And soon we're going to know no.",
+          "context": "Host plugs the merch line carrying the catchphrase.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "merch",
+            "reuse"
+          ]
+        }
+      ]
+    }
+  ]
 }
