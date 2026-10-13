@@ -11,6 +11,7 @@
 - **Transcript SHA-256**: 027972826917e7ed3d60ede399594503c96a505a5fc947c067de3c3bc5488af4
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (valhalla-split): N-11001
   - New Nodes Introduced:  N-377, N-380, N-10375, N-10376, N-10377, N-10378, N-10379, N-10380
   - Reused Nodes Appearing: N-2
   - Tip-minted Nodes (wave2): N-10899, N-10900
@@ -167,7 +168,7 @@ Video Timestamp: 01:08:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2001, N-10899, N-10375*
+*Related: C-2001, N-10899, N-10375, N-11001*
 
 ---
 
@@ -250,7 +251,16 @@ Investigative Pressure: High
 
 *Related: C-1998, A-1574.1, N-10375*
 
-**N-10899** Paramount Tactical Valhalla
+**N-11001** Valhalla VFT
+
+Node Type: Organization
+Military-commentary YouTube channel ("the Valhalla guy"), distinct from Gary Melton's Paramount Tactical; the host groups the two among the military YouTubers who warned her off Mitch Snow (ep51).
+
+*Related: C-2001, A-1576.2*
+
+---
+
+**N-10899** Paramount Tactical
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -530,7 +540,7 @@ Claim: A top fan comment from the prior episode, read aloud on air, identifies t
 Anchored Artifacts: A-1576.2
 Mentions:
 
-Related Nodes: N-10375, N-10899
+Related Nodes: N-10375, N-10899, N-11001
 
 Investigative Direction: Verify the comment against the original thread and consider the commenter's stated credentials in assessing the credibility of the criticism.
 

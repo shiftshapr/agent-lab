@@ -322,7 +322,7 @@ First named by the host at 00:10:20 in episode 105. Described as an information 
 
 *Related: C-4126, A-2581.2*
 
-**N-635** Ryan Ripian
+**N-635** Ryan Rippeon
 
 First named by the host at 00:10:20 in episode 105. Described as commander of naval communications and a recipient of the email.
 
@@ -448,7 +448,7 @@ The host says the email came from the Department of Defense through the White Ho
 
 *Related: C-4111, C-4118, C-4123, A-2581.1, A-2581.3*
 
-**N-10899** Paramount Tactical Valhalla
+**N-10899** Paramount Tactical
 
 Account whose host showed and then disowned the relevance of the Fort Huachuca alibi photo.
 
@@ -784,11 +784,11 @@ Investigative Direction: Confirm the named individuals' positions and their incl
 
 ---
 
-**C-4126** Gustav Anderly and Ryan Ripian, military communications staff, were on the email
+**C-4126** Gustav Anderly and Ryan Rippeon, military communications staff, were on the email
 
 Claim Timestamp: 00:10:20
 
-Claim: The host says Gustav Anderly, a WHCA information systems manager, and Ryan Ripian, commander of naval communications, were recipients of the email.
+Claim: The host says Gustav Anderly, a WHCA information systems manager, and Ryan Rippeon, commander of naval communications, were recipients of the email.
 
 Transcript Snippet: Uh Gustav Anderly, also military position, information systems manager at the White House Communications Agency. And Ryan Ripian, Ryan Ripian is the commander of naval communications.
 
@@ -1619,7 +1619,7 @@ Confidence: high
 - **DIA beats**: a scan for the required tip/bounty phrases found no hits (the only "tip" match is inside "multiple" in a sponsor read). No DIA claim, artifact or M-12 occurrence was inscribed, and M-14 does not air.
 - **Artifacts verbally referenced but not shown**: A-2587.2 (earlier Paramount Tactical stream clip, not replayed) and A-2588.1 (Tracy Martin's statement). Sara Sidner's CNN upload of the Erika Kirk clip is referenced but not re-shown, so no artifact was made for it. The host says the email shown (A-2581.1) is her own retyping, not the original document.
 - **Duration discrepancy**: the skeleton meta gave 00:56:29; the transcript front matter gives 53:39, which is used here.
-- **Name matching**: "Sydney Sidner" is mapped to N-379 Sarah Sidner (CNN). "Steven Chong" is mapped to N-163 Steven Cheung. "Harit Dylan" and "Dylan Law Group" are mapped to N-382 Harmeet Dhillon and N-10652. "Caroline Lev" (15:44) is read as Karoline Leavitt. "Andrew Kovvat", "Kovette" and "Kovat" are mapped to N-14. The email recipients "Richard Smaly", "Gustav Anderly", "Ryan Ripian" and "Michaela Mott" are minted as new persons with the transcript spellings, which are unverified auto-caption renderings. "Kevin Olirri", "Olyri" and "Kevin Liry" are treated as Kevin O'Leary. Gary Melton is minted as a person (N-628) separate from the org node N-10899 Paramount Tactical Valhalla, and the integrator may wish to link them.
+- **Name matching**: "Sydney Sidner" is mapped to N-379 Sarah Sidner (CNN). "Steven Chong" is mapped to N-163 Steven Cheung. "Harit Dylan" and "Dylan Law Group" are mapped to N-382 Harmeet Dhillon and N-10652. "Caroline Lev" (15:44) is read as Karoline Leavitt. "Andrew Kovvat", "Kovette" and "Kovat" are mapped to N-14. The email recipients "Richard Smaly", "Gustav Anderly", "Ryan Rippeon" and "Michaela Mott" are minted as new persons with the transcript spellings, which are unverified auto-caption renderings. "Kevin Olirri", "Olyri" and "Kevin Liry" are treated as Kevin O'Leary. Gary Melton is minted as a person (N-628) separate from the org node N-10899 Paramount Tactical Valhalla, and the integrator may wish to link them.
 - **Transcription ambiguities**: "White House Correspondence Agency" in the read quote (09:00) is taken to mean the White House Communications Agency. "acidic"/"acetic" Jews is kept as written and read as Hasidic. "Fort Wuka" means Fort Huachuca. "Charlie Cook" (26:33, 35:20) is read as Charlie Kirk. The host says "Department of Justice" at 12:19 where context suggests Defense. "SCOPS" and "scops" are probably "psyops."
 - **Factual caveat**: C-4110 records the host's statement that Putin has been president for 22 years as spoken, without correction.
 - **Not inscribed as claims (admission test)**: "We are living inside of an episode of Black Mirror"; "operation mockingbird on steroids"; "We, all of us, we were the actual targets"; Erika Kirk as "a piece of military technology" or "Israeli tech"; "she socially engineered Charlie"; the military controlling X and trends; the aim of data centers being a surveillance state; Trump as "the ultimate Trojan horse"; the Charlie Kirk Show hosts "maybe kind of hate Charlie Kirk"; Erika Kirk having trouble producing real tears; the ballroom "surrogates" gut feeling; and rhetorical questions about Erika's West Wing visit.

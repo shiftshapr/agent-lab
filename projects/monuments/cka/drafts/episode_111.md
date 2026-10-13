@@ -23,7 +23,7 @@ The host returns from a trip to Russia and responds to the media reaction to it.
 
 The host then argues that there is a historical link between radical Zionism and Russia. She cites the People's Will assassination of Tsar Alexander II, an article by Deborah Hertz on Jewish women radicals (A-2620.1), the Romanov executions under Yakov Yurovsky, and a New York Times article on Julius Hammer's financing of the Soviet Bureau and diamond smuggling into New York (A-2620.2). She shows her video from the Church of the Savior on Spilled Blood (A-2621.1) and photos from the trip (A-2621.2), and urges viewers to visit Russia.
 
-In the second segment the host covers Turning Point USA's Women's Leadership Summit. She plays clips of Erika Kirk being heckled as protecting pedophiles (A-2622.1), Dana Loesch reciting Bible verses on widows (A-2622.2), and Alex Clark announcing her engagement on stage (A-2622.3). She says insiders told her the summit struggled to attract young women and that female chapter leaders declined to attend. She reads Alex Clark's posts, including one asking "how did Putin taste?" (A-2623.1) and one claiming credit for prompting Trump's rant against the host (A-2623.2). She also says Clark tried to get the sponsor Paleo Valley to drop the show, and she plays clips of Clark's fiancé, Vance Voytberg (A-2623.5).
+In the second segment the host covers Turning Point USA's Women's Leadership Summit. She plays clips of Erika Kirk being heckled as protecting pedophiles (A-2622.1), Dana Loesch reciting Bible verses on widows (A-2622.2), and Alex Clark announcing her engagement on stage (A-2622.3). She says insiders told her the summit struggled to attract young women and that female chapter leaders declined to attend. She reads Alex Clark's posts, including one asking "how did Putin taste?" (A-2623.1) and one claiming credit for prompting Trump's rant against the host (A-2623.2). She also says Clark tried to get the sponsor Paleo Valley to drop the show, and she plays clips of Clark's fiancé, Vance Voetberg (A-2623.5).
 
 The final segment covers the video in which Charlie Kirk appears to appoint Erika Kirk to run Turning Point USA (A-2625.2). The host recaps how the video came to light and plays a supercut of Charlie Kirk's views on women and careers (A-2624.1). She says TPUSA showed the video only to Daily Mail reporters, that donors present remember Charlie saying the board would figure it out, and that his Aspen presentation mentioned Erika only once (A-2625.1). The host says she believes the clip is doctored. She reads her emailed questions to TPUSA (A-2626.1) and the reply from the TPUSA X account saying the video was real and Charlie "wasn't kidding" (A-2626.2). In the comments she says the White House asked her to narrow her FOIA request on Erika Kirk and the correspondents' dinner shooting (A-2627.1).
 
@@ -214,7 +214,7 @@ Confidence Level: High
 
 *Related: N-99*
 
-**A-2623.5** Clips of Vance Voytberg (fiddle class, Alliance Defending Freedom introduction, Running on Butter blog)
+**A-2623.5** Clips of Vance Voetberg (fiddle class, Alliance Defending Freedom introduction, Running on Butter blog)
 
 Quoted text: "My name is Vance. I live in Scottsdale, Arizona. Um I'm here working for a Christian legal organization called Alliance Defending Freedom."
 
@@ -519,7 +519,7 @@ First named by the host at 00:41:37 in episode 111. Transcript spelling "Dana La
 
 *Related: C-4350, C-4351, A-2622.2*
 
-**N-674** Vance Voytberg
+**N-674** Vance Voetberg
 
 First named by the host at 00:52:41 in episode 111. Alex Clark's fiancé; says he works for Alliance Defending Freedom and runs the blog Running on Butter.
 
@@ -684,7 +684,7 @@ Sponsor of the host's show; the host says Alex Clark made private calls demandin
 **N-10954** Alliance Defending Freedom
 
 Node Type: Organization
-Christian legal organization (ADF) where Alex Clark's fiancé Vance Voytberg says he works.
+Christian legal organization (ADF) where Alex Clark's fiancé Vance Voetberg says he works.
 
 *Related: C-4362, A-2623.5*
 
@@ -1267,11 +1267,11 @@ Investigative Direction: Archive Alex Clark's posts and the correspondence she s
 
 ---
 
-**C-4361** Alex Clark is engaged to Vance Voytberg, seven years her junior
+**C-4361** Alex Clark is engaged to Vance Voetberg, seven years her junior
 
 Claim Timestamp: 00:52:41
 
-Claim: The host says Alex Clark is engaged to Vance Voytberg, seven years younger, who runs a health blog where he calls readers his "fellow buttercups."
+Claim: The host says Alex Clark is engaged to Vance Voetberg, seven years younger, who runs a health blog where he calls readers his "fellow buttercups."
 
 Transcript Snippet: they learned that she was engaged to a man seven years her junior, um who no person in their right mind would accuse of being masculine, a man named Vance Voytberg
 
@@ -1281,11 +1281,11 @@ Investigative Direction: Public records and the couple's own announcements.
 
 ---
 
-**C-4362** Vance Voytberg works for Alliance Defending Freedom and runs Running on Butter
+**C-4362** Vance Voetberg works for Alliance Defending Freedom and runs Running on Butter
 
 Claim Timestamp: 00:53:38
 
-Claim: In clips played by the host, Vance Voytberg says he lives in Scottsdale, Arizona, works for Alliance Defending Freedom, and runs the blog Running on Butter.
+Claim: In clips played by the host, Vance Voetberg says he lives in Scottsdale, Arizona, works for Alliance Defending Freedom, and runs the blog Running on Butter.
 
 Transcript Snippet: My name is Vance. I live in Scottsdale, Arizona. Um I'm here working for a Christian legal organization called Alliance Defending Freedom.
 
@@ -1861,7 +1861,7 @@ Confidence: high
 - **Duration mismatch**: the skeleton's Video Timestamp Range said 00:56:29, but the transcript front matter gives 1:22:06. The range is set to 01:22:06 per the spec. The skeleton's M-56 occurrence timestamp (00:07:43) and its truncated quote are kept verbatim, although the "Clown World" line sits in the [06:42] paragraph.
 - **DIA scan**: no real DIA beat. The only hits are "candaceowens. com" at 01:20:38 and 01:21:32, both merch plugs, not tip requests. The host's mention that "someone emailed me" about Victor Marx and Greg Laurie (00:40:20, C-4349) is a received tip but uses none of the scan phrases. She also says she reached out to the Aspen donors (C-4382). No M-12 or M-14 occurrences are added.
 - **Artifacts verbally referenced but not clearly shown**: A-2619.1 (the "Congress discreetly moves to merge US military" headline; the host says "you guys saw the headlines") and A-2627.1 (the White House FOIA response, a verbal reference only). The Daily Mail article on the video, the Megyn Kelly interview, Erika Kirk's fundraising email with Charlie's letter, and Trump's posts about the host are mentioned but not shown, so they are not inscribed as artifacts.
-- **Name matching**: "Dana Lash" (41:37) is minted as N-673 Dana Loesch. The context is the Turning Point summit speaker who attacked the host over Russia, and the host's earlier asides to "Dana" (27:36, 29:21) are taken to be her; nodes.tsv has no row for her. "Dugan" (41:37) is Alexander Dugin. "Paul Habsgard" is mapped to N-462 Paul Havsgaard through its alias. "Aubrey" (51:07) is mapped to N-563 Aubrey Lech with medium confidence. The transcript says "Aubrey, Aubrey's husband. Um the one who used to work uh for Andrew Kolb at", so it is ambiguous whether Aubrey or her husband worked for Kolvet. "Andrew Kolb"/"Andrew Kolburt" are mapped to N-14. "Justin Streif" is mapped to N-15. "Megan Kelly" is mapped to N-46. "Vladimir Putin" reuses the node title minted as N-662 in staging episode 105. "Vance Voytberg" spelling is unverified and kept as transcribed. "Secretary Rubio" is minted as N-663 Marco Rubio from the host's reading of Loomer's tags.
+- **Name matching**: "Dana Lash" (41:37) is minted as N-673 Dana Loesch. The context is the Turning Point summit speaker who attacked the host over Russia, and the host's earlier asides to "Dana" (27:36, 29:21) are taken to be her; nodes.tsv has no row for her. "Dugan" (41:37) is Alexander Dugin. "Paul Habsgard" is mapped to N-462 Paul Havsgaard through its alias. "Aubrey" (51:07) is mapped to N-563 Aubrey Lech with medium confidence. The transcript says "Aubrey, Aubrey's husband. Um the one who used to work uh for Andrew Kolb at", so it is ambiguous whether Aubrey or her husband worked for Kolvet. "Andrew Kolb"/"Andrew Kolburt" are mapped to N-14. "Justin Streif" is mapped to N-15. "Megan Kelly" is mapped to N-46. "Vladimir Putin" reuses the node title minted as N-662 in staging episode 105. "Vance Voetberg" spelling is unverified and kept as transcribed. "Secretary Rubio" is minted as N-663 Marco Rubio from the host's reading of Loomer's tags.
 - **Topic reuse**: N-10923 reuses the exact title "White House Military Office Erika Kirk Amplification Email" from staging episode 105. M-95 reuses the title "Emotional Response Asset" from staging episode 105, although here the host says only "emotional asset."
 - **Transcription ambiguities**: "Dangerously Asens" and "Zarist Russia" in the Hertz article title are kept as transcribed. "Candace Tovia Moscowins" is a joke name. "WLS" in the email is the Women's Leadership Summit. "Conrad" in the TPUSA reply is likely "comrade." "Maxwell class" (01:11:42) probably means "Maxwell clan."
 - **Possible cross-episode links considered**: C-4373 Supports C-2889 (ep 102) and could also link C-2685 (ep 90, same audio line). C-4369 Supports C-2694 and C-2888. C-4363 Supports C-2657. C-4348 Supports C-2087. The host's mention of the clip as Erika's "walk out music" could link C-2656 (ep 88), but the summit setting differs from AmFest, so it is left out. C-4365 might relate to C-2661 (ep 88, Blake Neff refused to release the video) but is not the same proposition.
@@ -1869,7 +1869,7 @@ Confidence: high
   - "Zionism rots your brain"
   - "Everything … we have been told about Russia is a lie"
   - "It is our society that is on the decline"
-  - The characterizations of Alex Clark ("terrible, cruel human being", "punt the Chihuahua") and of Vance Voytberg as "objectively effeminate"
+  - The characterizations of Alex Clark ("terrible, cruel human being", "punt the Chihuahua") and of Vance Voetberg as "objectively effeminate"
   - "Women don't trust her"
   - Claims that TPUSA is "filled with closeted gay men" and that "everyone at Turning Point is hooking up with one another" (unattributed and not specific)
   - Charlie Kirk "just wasn't smart enough to put it in his will" (sarcasm)

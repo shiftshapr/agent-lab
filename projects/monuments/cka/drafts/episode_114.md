@@ -23,7 +23,7 @@
 
 The host plays a viral clip from Tucker Carlson's interview with Mario Nawfal (A-2646.1). In it Carlson says Dan Bongino told him that Trump shut down the Butler investigation, and that Bongino became "hysterical" when Carlson raised Thomas Matthew Crooks's social media posts, which the public had been told did not exist. The host then plays Bongino's response video (A-2647.1). In it Bongino calls the claim "100% made up" and shows a November 21 Fox News article by Brooke Singman saying the FBI concluded Crooks acted alone and the case sits in "pending inactive" status (A-2647.2). He also shows his texts to Carlson (A-2647.3). The host argues that the November article predates the December conversation Carlson described. She also argues that Bongino's text telling Carlson to ask the president to release "more information" confirms that more information is being withheld. She says she is inclined to believe Butler was a real attempt that served as a "gangster" warning to Trump.
 
-The host next reads a New York Times piece on the White House's handling of the Epstein files (A-2648.1). According to the article, on July 12, 2025 Trump called Charlie Kirk and scolded him after the Turning Point USA Student Action Summit turned into "an Epstein grievance fest." She places this on her timeline (A-2649.1) the day after Tucker Carlson's July 11 summit speech. She then sets Erika Kirk's July 14 Calvary Chapel speech in Long Beach, where Erika spoke after a pro-Israel introduction by James Katis (A-2650.1, A-2650.2), against a memory she says she had forgotten. After she taped an interview with Carlson in Maine that July (A-2651.1), the host says, Carlson told her he had just had dinner with Charlie and Erika Kirk and that Erika was "hardcore on the anti-Israel train." The host calls this evidence that Erika Kirk changes her persona by audience, and she revisits the July 18 UVU request, the Why Refi sponsorship, the Hamptons retreat and the Aspen retreat.
+The host next reads a New York Times piece on the White House's handling of the Epstein files (A-2648.1). According to the article, on July 12, 2025 Trump called Charlie Kirk and scolded him after the Turning Point USA Student Action Summit turned into "an Epstein grievance fest." She places this on her timeline (A-2649.1) the day after Tucker Carlson's July 11 summit speech. She then sets Erika Kirk's July 14 Calvary Chapel speech in Long Beach, where Erika spoke after a pro-Israel introduction by James Kaddis (A-2650.1, A-2650.2), against a memory she says she had forgotten. After she taped an interview with Carlson in Maine that July (A-2651.1), the host says, Carlson told her he had just had dinner with Charlie and Erika Kirk and that Erika was "hardcore on the anti-Israel train." The host calls this evidence that Erika Kirk changes her persona by audience, and she revisits the July 18 UVU request, the Why Refi sponsorship, the Hamptons retreat and the Aspen retreat.
 
 The host then turns to Bradley Hansell's September trip on SAM702 (A-2652.1). She says it ran Joint Base Andrews–Colorado Springs–Tucson–Fort Huachuca (September 8)–El Paso, and that the 19-hour stop at Fort Huachuca was the longest. She reads the Department of War FOIA office's reply to her request for the flight's passenger records (A-2653.1). The reply invokes "unusual circumstances", including consultation with other agencies, and places the request in a complex processing queue of about 3,534 open requests. She calls it an "FOFU."
 
@@ -124,7 +124,7 @@ Confidence Level: High
 
 *Related: C-4508, N-2, N-681, N-10264, N-10970*
 
-**A-2650.2** James Katis PragerU video (shown)
+**A-2650.2** James Kaddis PragerU video (shown)
 
 Quoted text: "I'm an Egyptian pastor who supports Israel."
 
@@ -439,9 +439,9 @@ First named by the host at 00:19:42 in episode 114. Described as a Marine on Eri
 
 *Related: C-4505*
 
-**N-681** James Katis
+**N-681** James Kaddis
 
-First named by the host at 00:19:42 in episode 114. Egyptian pastor the host says runs Turning Point USA Faith and introduced Erika Kirk at his Calvary Chapel church. Aliases: James Catis.
+First named by the host at 00:19:42 in episode 114. Egyptian pastor the host says runs Turning Point USA Faith and introduced Erika Kirk at his Calvary Chapel church. Aliases: James Kaddis.
 
 *Related: C-4505, C-4506, C-4509, A-2650.1, A-2650.2*
 
@@ -483,7 +483,7 @@ Carlson's account of Crooks's undisclosed social media posts.
 
 **N-10131** PragerU
 
-Hosts James Katis's "Egyptian pastor who supports Israel" video.
+Hosts James Kaddis's "Egyptian pastor who supports Israel" video.
 
 *Related: C-4509, A-2650.2*
 
@@ -531,7 +531,7 @@ Hansell's stop at Davis-Monthan in Tucson before Fort Huachuca.
 
 **N-10398** Turning Point USA Faith Structure
 
-The host says James Katis runs Turning Point USA Faith.
+The host says James Kaddis runs Turning Point USA Faith.
 
 *Related: C-4506*
 
@@ -987,7 +987,7 @@ Investigative Direction: Review the full video of Carlson's July 11, 2025 SAS sp
 
 Claim Timestamp: 00:19:42
 
-Claim: The host says that on July 14, 2025 Erika Kirk took a private flight to Long Beach, California with Katherine Locastro (once Mikey McCoy's assistant), bodyguard Derek Niekerk and Marine Jonathan Barcelo, and spoke at James Katis's Calvary Chapel church.
+Claim: The host says that on July 14, 2025 Erika Kirk took a private flight to Long Beach, California with Katherine Locastro (once Mikey McCoy's assistant), bodyguard Derek Niekerk and Marine Jonathan Barcelo, and spoke at James Kaddis's Calvary Chapel church.
 
 Transcript Snippet: This July 14th date, Erika travels aboard a private flight to Long Beach, California. She's got Katherine Loccastro.
 
@@ -998,11 +998,11 @@ Investigative Direction: Obtain flight records for the July 14, 2025 Long Beach 
 
 ---
 
-**C-4506** Host says James Katis is Egyptian and runs Turning Point USA Faith
+**C-4506** Host says James Kaddis is Egyptian and runs Turning Point USA Faith
 
 Claim Timestamp: 00:19:42
 
-Claim: The host says James Katis is an Egyptian, radically pro-Israel pastor who runs Turning Point USA Faith.
+Claim: The host says James Kaddis is an Egyptian, radically pro-Israel pastor who runs Turning Point USA Faith.
 
 Transcript Snippet: James Catis is that icky guy who is Egyptian and runs Turning Point USA faith.
 
@@ -1031,7 +1031,7 @@ Investigative Direction: Review SAS 2025 event footage and attendee reports for 
 
 Claim Timestamp: 00:20:49
 
-Claim: In the clip played, Erika Kirk says the record of Israel is constant invasion and warfare in the promised land; the host notes the pro-Israel introduction given by James Katis.
+Claim: In the clip played, Erika Kirk says the record of Israel is constant invasion and warfare in the promised land; the host notes the pro-Israel introduction given by James Kaddis.
 
 Transcript Snippet: the record of Israel is that there is constant invasion and warfare in the promised land.
 
@@ -1042,11 +1042,11 @@ Investigative Direction: Obtain the full recording of the July 14, 2025 Calvary 
 
 ---
 
-**C-4509** James Katis made a PragerU video as an Egyptian pastor who supports Israel
+**C-4509** James Kaddis made a PragerU video as an Egyptian pastor who supports Israel
 
 Claim Timestamp: 00:21:49
 
-Claim: The host shows what she says is James Katis's PragerU video, titled in effect "I'm an Egyptian pastor who supports Israel."
+Claim: The host shows what she says is James Kaddis's PragerU video, titled in effect "I'm an Egyptian pastor who supports Israel."
 
 Transcript Snippet: This is literally his Prageru video. I'm an Egyptian pastor who supports Israel.
 
@@ -1696,9 +1696,9 @@ Confidence: medium
 ## 7. Optional Flags
 
 - **Duration**: the skeleton's Video Timestamp Range (00:56:29) did not match the transcript front matter (1:02:38); it has been set to 00:00:00–01:02:38. The skeleton's Ledger Summary claim-range lines and its stray template heading were replaced per spec.
-- **Artifacts referenced but not shown or uncertain**: A-2649.1 (host's timeline; plotted on air, presumably on screen), A-2650.2 (James Katis PragerU video; "This is literally his Prageru video" suggests it was shown), A-2657.1 (verbal appeal only). The New York Times article, US magazine article and Elizabeth Lane's tweet are referenced; only the NYT text is read aloud (A-2648.1).
+- **Artifacts referenced but not shown or uncertain**: A-2649.1 (host's timeline; plotted on air, presumably on screen), A-2650.2 (James Kaddis PragerU video; "This is literally his Prageru video" suggests it was shown), A-2657.1 (verbal appeal only). The New York Times article, US magazine article and Elizabeth Lane's tweet are referenced; only the NYT text is read aloud (A-2648.1).
 - **DIA scan**: one keyword hit, "more tips@candice. com" (01:00:06). The host misspoke it while meaning to plug support for the show, and corrected herself ("Why would you guys give me more tips?"). It directly follows her appeal to Kirk family members to "Reach out ... I'd keep it all off record". It is treated as a DIA beat (C-4540, A-2657.1, M-12), but the integrator may prefer to drop it given the slip. "candace Owens. com" at the same mark is a support/merch plug, not a DIA beat. The 19:42 remark "I've received so many emails about him" relays past tips without a request and is not inscribed.
-- **Name matching**: "Mario Nofl" / "Mario Knoff" mapped to Mario Nawfal (title reused from staging episode 109). "Katherine Loccastro" reuses the staging title Katherine Locastro (episode 084). "Derek Nerk" mapped to N-428 Derek Niekerk (earlier drafts list Niekerk on the same Long Beach flight). "Jonathan Barcelo" is new (earlier draft spelling "Jonathan Barcello"). "James Catis" / "James Katis" is minted as N-681 James Katis; the real spelling may be Kaddis and is unverified. "Bradley Hansel" maps to N-443 Bradley Hansell. "Brook Singman" (named by Bongino) is minted as N-689 Brooke Singman. "Chris Ray" maps to N-271 Christopher Wray. "Stacy taps on their shoulder" (28:47) probably refers to Stacy Sheridan (existing node), but she is not cited because only the first name is given. "Pete Hegsth" (00:43, Pete Hegseth, existing node) is named only in passing and is not cited. "Andy Shaker", "Jasmine" and "Justin" in the Bongino clip are unidentified show staff and not minted. "Elizabeth Lane" is mapped to N-6.
+- **Name matching**: "Mario Nofl" / "Mario Knoff" mapped to Mario Nawfal (title reused from staging episode 109). "Katherine Loccastro" reuses the staging title Katherine Locastro (episode 084). "Derek Nerk" mapped to N-428 Derek Niekerk (earlier drafts list Niekerk on the same Long Beach flight). "Jonathan Barcelo" is new (earlier draft spelling "Jonathan Barcello"). "James Kaddis" / "James Kaddis" is minted as N-681 James Kaddis; the real spelling may be Kaddis and is unverified. "Bradley Hansel" maps to N-443 Bradley Hansell. "Brook Singman" (named by Bongino) is minted as N-689 Brooke Singman. "Chris Ray" maps to N-271 Christopher Wray. "Stacy taps on their shoulder" (28:47) probably refers to Stacy Sheridan (existing node), but she is not cited because only the first name is given. "Pete Hegsth" (00:43, Pete Hegseth, existing node) is named only in passing and is not cited. "Andy Shaker", "Jasmine" and "Justin" in the Bongino clip are unidentified show staff and not minted. "Elizabeth Lane" is mapped to N-6.
 - **Transcription ambiguities**: "Fort Wuka" = Fort Huachuca; "ZAS" = SAS; "why Rei" = Why Refi; "Aster at the Aspen investor retreat" is kept as spoken; "FOI AFU" / "FOFU" / "fifu" are kept as spoken. The host's "Larry Loomer" is a deliberate nickname for Laura Loomer (N-60).
 - **Cross-episode links**: C-4510 Supports C-1675 (July 18 UVU request), C-4519 Supports C-1128 (Hamptons intervention), C-4525 Supports C-2909 (Hansell's title). Possible links left out: C-2111 (episode 58, Fort Huachuca-affiliated individuals saw Erika at the base; different source from Mitch Snow) and C-2677 (episode 89, Trump said to be satisfied with the Butler investigation; related but a different proposition).
 - **Not inscribed as claims (admission test)**: "Erika's a psychopath" and related characterisations; "Trump betrayed Charlie Kirk"; "Trump is very vain"; the two-option staged-versus-warning framing (only the host's preferred option is inscribed, as C-4492); Bongino "is just lying" and the demeanour reading; "Kash Patel ... constantly looks like he is in a state of terror"; "Trump, I believe, said yes" (kept only as context in C-4520); "the organization died with Charlie"; rhetorical questions on who Hansell picked up or dropped off; the viewer joke about Ivanka and an Albanian nuclear bomb.

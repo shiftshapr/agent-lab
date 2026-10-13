@@ -21,13 +21,13 @@
 
 ## 2. Executive Summary
 
-The host opens with a resurfaced Charlie Kirk video, credited to an X user, in which he says the Butler, Pennsylvania assassination-attempt narrative "doesn't make any sense." In it he points to the shooter being identified by the Secret Service three hours beforehand and to no one being fired (A-2658.1). She then says people close to Butler contacted her about Mark A. Liti ("Leiti"/"Ley" in the transcript), a Surefire Wireline supervisor who died on August 23, 2022 in what local news called a burn-barrel accident (A-2659.1). According to the host, Liti's work involved the explosive PETN, and a week before his death he allegedly confessed to his high school friend that he had taken explosives from work, which the ATF was said to be investigating. She says that friend was Corey Comperatore, who was killed at the Butler rally after an unknown woman escorted his family to the front. She also notes that Liti was Facebook friends with members of the Crooks family and that the Comperatore family is not satisfied with the investigation.
+The host opens with a resurfaced Charlie Kirk video, credited to an X user, in which he says the Butler, Pennsylvania assassination-attempt narrative "doesn't make any sense." In it he points to the shooter being identified by the Secret Service three hours beforehand and to no one being fired (A-2658.1). She then says people close to Butler contacted her about Mark Liti ("Leiti"/"Ley" in the transcript), a Surefire Wireline supervisor who died on August 23, 2022 in what local news called a burn-barrel accident (A-2659.1). According to the host, Liti's work involved the explosive PETN, and a week before his death he allegedly confessed to his high school friend that he had taken explosives from work, which the ATF was said to be investigating. She says that friend was Corey Comperatore, who was killed at the Butler rally after an unknown woman escorted his family to the front. She also notes that Liti was Facebook friends with members of the Crooks family and that the Comperatore family is not satisfied with the investigation.
 
 The host connects PETN to the September 2024 pager attack in Lebanon and Syria. She plays survivor stories (A-2660.1) and a 60 Minutes clip of Mossad agents describing shell companies and a "Truman Show" (A-2660.2), and shows a Reuters graphic estimating six grams of PETN per pager (A-2660.3). She then plays a May 2025 YouTube test in which 20 grams of PETN is said to match a .30-06 gunshot (A-2661.1). She raises this against the theory that Charlie Kirk's road microphone was rigged with PETN, and questions Benjamin Netanyahu's golden-pager gift to Donald Trump.
 
 In the FOIA segment, the host reads her request for Kash Patel's schedule and travel for September 7–10, 2025 (A-2662.2). She says the request was prompted partly by an FBI plane that flew Richmond to Salt Lake City and back on September 8 (A-2662.1). The FBI replied that "unusual circumstances" apply (A-2662.3), and Blake Neff mocked the request on X (A-2663.1). She also plays Joe Rogan asking on Cameron Hanes's podcast who killed Charlie Kirk (A-2664.1).
 
-In the final segments the host plays Erika Kirk breaking down on her show with Pastor James Catis (A-2665.1) and repeats her account of the Department of War email that called Erika an "emotional asset" (A-2666.1). She then says she recently remembered a one-day trip to Tucker Carlson's house in Maine. According to the host, Carlson told her and her husband that Erika was "very hardcore against Israel," more so than Charlie, and that she hated the pastors around him. The host sets this against Erika's later pro-Israel stance. In the comments she discusses Erika's CK trademarks (A-2667.1) and says Ben Shapiro is spreading rumors about her trip to Russia.
+In the final segments the host plays Erika Kirk breaking down on her show with Pastor James Kaddis (A-2665.1) and repeats her account of the Department of War email that called Erika an "emotional asset" (A-2666.1). She then says she recently remembered a one-day trip to Tucker Carlson's house in Maine. According to the host, Carlson told her and her husband that Erika was "very hardcore against Israel," more so than Charlie, and that she hated the pastors around him. The host sets this against Erika's later pro-Israel stance. In the comments she discusses Erika's CK trademarks (A-2667.1) and says Ben Shapiro is spreading rumors about her trip to Russia.
 
 ## 3. Artifact Register
 
@@ -46,9 +46,9 @@ Confidence Level: High
 
 ---
 
-**A-2659** Mark A. Liti Death Coverage Bundle
+**A-2659** Mark Liti Death Coverage Bundle
 
-**A-2659.1** Local news coverage of Mark A. Liti's burn-barrel death, including an interview with his brother Chris (played)
+**A-2659.1** Local news coverage of Mark Liti's burn-barrel death, including an interview with his brother Chris (played)
 
 Quoted text: "It's being called a freak accident. A healthy, active 48-year-old killed when something inside the burn barrel he was using ignited, causing an explosion, sending shrapnel flying through the air."
 
@@ -178,7 +178,7 @@ Confidence Level: High
 
 **A-2665** Erika Kirk Show Clip Bundle
 
-**A-2665.1** Clip of Erika Kirk breaking down on her show with Pastor James Catis after a viewer question is read (played)
+**A-2665.1** Clip of Erika Kirk breaking down on her show with Pastor James Kaddis after a viewer question is read (played)
 
 Quoted text: "Why does it seem like the closer you get to God, the harder the devil works on you?"
 
@@ -300,13 +300,13 @@ The host says he is spreading a rumor that she was spending time with Vladimir P
 
 **N-105** Thomas Matthew Crooks
 
-Referred to only through "the Crooks family"; the host says Mark A. Liti was Facebook friends with members of it.
+Referred to only through "the Crooks family"; the host says Mark Liti was Facebook friends with members of it.
 
 *Related: C-4557*
 
 **N-106** Corey Comperatore
 
-Transcript spellings "Corey Comparator" and "Cory Comparator". Described as Mark A. Liti's high school friend and confidant, killed at the Butler rally; his family is said to be dissatisfied with the investigation.
+Transcript spellings "Corey Comparator" and "Cory Comparator". Described as Mark Liti's high school friend and confidant, killed at the Butler rally; his family is said to be dissatisfied with the investigation.
 
 *Related: C-4541, C-4551, C-4554, C-4555, C-4556, C-4570*
 
@@ -340,15 +340,15 @@ Transcript spelling "Dan Bonino". The host calls his reaction to Butler strange.
 
 *Related: C-4569*
 
-**N-691** Mark A. Liti
+**N-691** Mark Liti
 
 First named by the host at 00:06:04 in episode 115. Supervisor at Surefire Wireline LLC who died on August 23, 2022, aged 48, in what was reported as a burn-barrel explosion; the host says he allegedly took explosives from work. Aliases: Mark A. Leiti; Mark Ley; Mark Le; Mark A. Ley; Mark a lady.
 
 *Related: C-4547, C-4548, C-4549, C-4550, C-4551, C-4552, C-4554, C-4557, A-2659.1*
 
-**N-692** Chris Ley
+**N-692** Chris Liti
 
-First named by the host at 00:07:01 in episode 115. Named in the news clip as Mark A. Liti's older brother, still trying to process his death.
+First named by the host at 00:07:01 in episode 115. Named in the news clip as Mark Liti's older brother, still trying to process his death.
 
 *Related: C-4548, A-2659.1*
 
@@ -370,7 +370,7 @@ First named by the host at 00:33:58 in episode 115. Joe Rogan's podcast guest in
 
 *Related: C-4579, A-2664.1*
 
-**N-681** James Katis
+**N-681** James Kaddis
 
 First named by the host at 00:35:47 in episode 115. Pastor who co-hosts Erika Kirk's show and read the viewer question that preceded her breakdown.
 
@@ -510,17 +510,17 @@ Investigation target: the host's FOIA request for FBI Director Kash Patel's offi
 
 *Related: C-4574, C-4575, C-4576, C-4577, A-2662.2, A-2662.3, A-2663.1, N-69*
 
-**N-10972** Mark A. Liti Burn Barrel Death
+**N-10972** Mark Liti Burn Barrel Death
 
 Node Type: Topic
-Investigation target: the August 23, 2022 death of Mark A. Liti, 48, reported as a freak burn-barrel explosion in which shrapnel struck his neck. The host says Liti supervised PETN-using perforating work at Surefire Wireline in Kittanning, Pennsylvania, allegedly confessed a week earlier to taking explosives from work, and was under ATF investigation. She says his confidant was Corey Comperatore, killed at Butler on July 13, 2024.
+Investigation target: the August 23, 2022 death of Mark Liti, 48, reported as a freak burn-barrel explosion in which shrapnel struck his neck. The host says Liti supervised PETN-using perforating work at Surefire Wireline in Kittanning, Pennsylvania, allegedly confessed a week earlier to taking explosives from work, and was under ATF investigation. She says his confidant was Corey Comperatore, killed at Butler on July 13, 2024.
 
 *Related: C-4547, C-4548, C-4549, C-4550, C-4551, C-4552, C-4553, C-4554, C-4557, A-2659.1, N-691, N-106*
 
 **N-10973** Surefire Wireline LLC
 
 Node Type: Organization
-Kittanning, Pennsylvania oil and gas services company specializing in pump-down perforating; the host says Mark A. Liti was a supervisor there.
+Kittanning, Pennsylvania oil and gas services company specializing in pump-down perforating; the host says Mark Liti was a supervisor there.
 
 *Related: C-4549, C-4550, N-691*
 
@@ -534,7 +534,7 @@ The explosive PETN, which the host says is used in well perforating, was used in
 **N-10975** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
 
 Node Type: Organization
-Federal agency the host says was investigating Mark A. Liti over explosives taken from work.
+Federal agency the host says was investigating Mark Liti over explosives taken from work.
 
 *Related: C-4552, N-691, N-693*
 
@@ -687,11 +687,11 @@ Investigative Direction: Obtain TPUSA compensation records for security staff be
 
 ---
 
-**C-4547** Mark A. Liti died on August 23, 2022 in a burn-barrel explosion
+**C-4547** Mark Liti died on August 23, 2022 in a burn-barrel explosion
 
 Claim Timestamp: 00:06:04
 
-Claim: The host says Mark A. Liti, 48, died on August 23, 2022 when something exploded in the burn barrel in his backyard and a piece of shrapnel struck his neck; local news called it a freak accident.
+Claim: The host says Mark Liti, 48, died on August 23, 2022 when something exploded in the burn barrel in his backyard and a piece of shrapnel struck his neck; local news called it a freak accident.
 
 Transcript Snippet: There was a man named Mark A. Leiti, and he died in a rather bizarre accident. Uh the initial story is that he was in his backyard messing around with his burn barrel when something suddenly exploded.
 
@@ -706,7 +706,7 @@ Investigative Direction: Obtain the coroner's report, police incident report and
 
 Claim Timestamp: 00:07:01
 
-Claim: According to the news clip, Mark A. Liti's brother Chris was still processing the death and the family did not know what ignited inside the barrel.
+Claim: According to the news clip, Mark Liti's brother Chris was still processing the death and the family did not know what ignited inside the barrel.
 
 Transcript Snippet: The lady family still doesn't know what ignited inside the barrel that caused that explosion.
 
@@ -721,7 +721,7 @@ Investigative Direction: Check whether investigators, the ATF or the coroner ide
 
 Claim Timestamp: 00:07:51
 
-Claim: The host says Mark A. Liti was a supervisor at Surefire Wireline LLC in Kittanning, Pennsylvania, a company that does pump-down perforating of oil and gas wells.
+Claim: The host says Mark Liti was a supervisor at Surefire Wireline LLC in Kittanning, Pennsylvania, a company that does pump-down perforating of oil and gas wells.
 
 Transcript Snippet: Mark Ley, not mentioned here in that news clip, was a supervisor for a company called Surefire Wireline LLC. that is in Kittening, Pennsylvania.
 
@@ -751,7 +751,7 @@ Investigative Direction: Check industry and ATF documentation on the explosives 
 
 Claim Timestamp: 00:08:45
 
-Claim: The host alleges that a week before he died, Mark A. Liti confessed to his longtime high school friend that he had illegally taken explosives from his job.
+Claim: The host alleges that a week before he died, Mark Liti confessed to his longtime high school friend that he had illegally taken explosives from his job.
 
 Transcript Snippet: Allegedly, Mark A. Ley had confessed to his longtime high school friend just a week before he died um that he had illegally taken some explosives from his job.
 
@@ -766,14 +766,14 @@ Investigative Direction: Identify the source of the confession account and any A
 
 Claim Timestamp: 00:08:45
 
-Claim: The host says the ATF was apparently investigating Mark A. Liti over the explosives, according to what a former ATF agent named Courtney Thief reportedly confided.
+Claim: The host says the ATF was apparently investigating Mark Liti over the explosives, according to what a former ATF agent named Courtney Thief reportedly confided.
 
 Transcript Snippet: The ATF was apparently investigating for this, investigating him for this.
 
 Anchored Artifacts:
 Mentions: N-691, N-693
 Related Nodes: N-10975, N-10972
-Investigative Direction: FOIA the ATF for any 2022 investigation into explosives missing from Surefire Wireline or involving Mark A. Liti.
+Investigative Direction: FOIA the ATF for any 2022 investigation into explosives missing from Surefire Wireline or involving Mark Liti.
 
 ---
 
@@ -796,7 +796,7 @@ Investigative Direction: Confirm the driving distance between Kittanning and the
 
 Claim Timestamp: 00:10:45
 
-Claim: The host says Mark A. Liti's longtime high school friend, to whom he confided taking the explosives, was Corey Comperatore.
+Claim: The host says Mark Liti's longtime high school friend, to whom he confided taking the explosives, was Corey Comperatore.
 
 Transcript Snippet: Mark Le's friend's name was Cory Comparator. Yes, it was Cory Comparator who Mark Ley had confided his secret to that he had done something that he wasn't supposed to.
 
@@ -842,7 +842,7 @@ Investigative Direction: Check the autopsy and the FBI's Butler investigative fi
 
 Claim Timestamp: 00:11:53
 
-Claim: The host says Mark A. Liti was Facebook friends with various members of the Crooks family, while calling it possibly a small-town coincidence.
+Claim: The host says Mark Liti was Facebook friends with various members of the Crooks family, while calling it possibly a small-town coincidence.
 
 Transcript Snippet: It's worth noting that Mark a lady is also friends with various members of the Crooks family on Facebook.
 
@@ -1183,11 +1183,11 @@ Investigative Direction: Identify the Joe Rogan Experience episode and its relea
 
 ---
 
-**C-4580** Erika Kirk broke down on her show with Pastor James Catis
+**C-4580** Erika Kirk broke down on her show with Pastor James Kaddis
 
 Claim Timestamp: 00:35:47
 
-Claim: The host says Erika Kirk broke down on her show with Pastor James Catis over the weekend after a viewer question was read, and that she, the host, was then blamed for it.
+Claim: The host says Erika Kirk broke down on her show with Pastor James Kaddis over the weekend after a viewer question was read, and that she, the host, was then blamed for it.
 
 Transcript Snippet: This time it was on her show with James, Pastor James Catis, uh when somebody wrote in a question.
 
@@ -1418,7 +1418,7 @@ Confidence: high
 Video Timestamp: 00:06:04
 Speaker: N-3
 Quote: Buckle up, ladies and gentlemen, because we are going on a journey
-Context: Host launches the Mark A. Liti story.
+Context: Host launches the Mark Liti story.
 Tags: catchphrase, segue, reuse
 Confidence: high
 
@@ -1611,7 +1611,7 @@ Confidence: medium
 
 - **Artifacts verbally referenced but not shown**: A-2666.1 (the Department of War / White House "emotional asset" email). A-2662.1 (FBI plane flight) is described in detail, but the transcript does not show whether flight data was on screen.
 - **DIA scan**: the only hit is "candace Owens. com" (51:13), a merch plug, so it is not a DIA beat. There are no tip requests or bounties; M-12 is not used.
-- **Name matching**: The skeleton's "Mark A. Liti" (transcript "Mark A. Leiti", "Mark Ley", "Mark Le", "Mark A. Ley", "Mark a lady") is minted as N-691. His brother is minted as N-692 under the transcript spelling "Chris Ley"; the surname may also be Liti. "Courtney Thief" (N-693, described as a former ATF agent) comes from a garbled sentence, so both the name and the role are uncertain. "Corey/Cory Comparator" is mapped to N-106 Corey Comperatore. "Cameron Haynes" is minted as N-695 Cameron Hanes. "James Catis" (N-681) and "Vladimir Putin" (N-639) reuse titles from staging episodes 112 and 105/111. "Blick Nef" is mapped to N-162, "Andrew Kovette" to N-14, "Dan Bonino" to N-388, "Bill Aman" to N-37 and "Rob McCoyy" to N-17. "The Crooks family" is linked to N-105 only as the family name.
+- **Name matching**: The skeleton's "Mark Liti" (transcript "Mark A. Leiti", "Mark Ley", "Mark Le", "Mark A. Ley", "Mark a lady") is minted as N-691. His brother is minted as N-692 under the transcript spelling "Chris Liti"; the surname may also be Liti. "Courtney Thief" (N-693, described as a former ATF agent) comes from a garbled sentence, so both the name and the role are uncertain. "Corey/Cory Comparator" is mapped to N-106 Corey Comperatore. "Cameron Haynes" is minted as N-695 Cameron Hanes. "James Kaddis" (N-681) and "Vladimir Putin" (N-639) reuse titles from staging episodes 112 and 105/111. "Blick Nef" is mapped to N-162, "Andrew Kovette" to N-14, "Dan Bonino" to N-388, "Bill Aman" to N-37 and "Rob McCoyy" to N-17. "The Crooks family" is linked to N-105 only as the family name.
 - **Meme title spellings**: The merch meme appears in staging as "Stop Anti-Candism" (112), "Stop Anti-Candaceism" (111) and "Anti-Candacism" (113). This episode uses the 112 spelling. "Punt the Chihuahua" (M-115) also aired in episodes 111 and 116 but has not been minted in staging before, so the integrator may need to merge it.
 - **Transcription ambiguities**: "PE TN", "PN", "PET and" and "PE10" all refer to PETN. "Ken Kiddening" and "Kittening" refer to Kittanning. "MSAD" is the transcript's spelling of Mossad. "306" is .30-06. "Sar Jafal" and "Hussein Teny" are survivors named in the pager clip; no nodes were made for them. X user "Crystal Smalland" is credited with finding the Charlie Kirk video and is treated as a handle, not a node.
 - **Garbled passage**: around 11:53–12:21 the transcript reads "Just 2. Months after the Butler shooting, um Cory Comparator loses his life" before turning to the pager attack "on September 17th. And on September 18th of 2024"; the sentence seems to have lost words and was not inscribed.

@@ -13,7 +13,7 @@
     "transcript_sha256": "6a70160ad25b0671d6727882cdd16b59ea5327ccea326b1fd84e733d4157fb26",
     "analysis_date": "2026-10-13"
   },
-  "executive_summary": "The host opens with questions about Victor Marx, who she says has now answered her Instagram message and whom she will try to book on the show. She asks why Marx was the first documented public figure to announce Charlie Kirk's death and how he came to be close to Erika Kirk. According to her, TPUSA insiders say Charlie Kirk and Marx had a falling out and stopped following each other on social media. She plays an October 2023 Charlie Kirk Show clip in which Marx reports from Israel and says his group's relationships with IDF special forces commanders \"are extensive\" (A-2566.1). From Colorado, where Marx is running for governor, she turns to the state's other ties to the story. She points to Charlie Kirk's planned September 11 event at Charis Bible College, which she says had no security plan. She reads Brian Harpole's court filing, which says he was not told of the visit (A-2567.1), and a local media item confirming the event (A-2567.2). She also sets out September 10 flight data for N582MM, a plane she says Charlie Kirk used as his main aircraft. She says it left Denver 25 minutes before the shooting, flew to Pierre, South Dakota, and Chicago, and landed in Provo at 6:57 p.m. (A-2568.1).\n\nThe host then reviews the Evergreen High School shooting in Jefferson County, Colorado, which she says happened at almost the same minute as the Charlie Kirk shooting. She gives the official account that 16-year-old Desmond Holly shot two students and then himself. Drawing on emails from local parents (A-2569.1, A-2569.2) and a CBS Colorado interview with the roofer Delmar Martinez, who filmed part of the incident (A-2569.3), she lists open questions. These are the unidentified first 911 caller, mutual-aid officers knocking on locked classroom doors, the job site Martinez was working on, which locals could not find, and a traffic crash the school resource officer was dispatched to that, she says, has never been documented.\n\nIn the third segment the host returns to the Fort Huachuca alibi. She plays Paramount Tactical's Gary Melton reading on air an alibi she says Erika Kirk and Andrew Kolvet supplied (A-2570.2), along with a photo of children stamped September 9, 8:33 a.m. (A-2570.3). She notes that Melton has now tweeted that the boy is not Erika Kirk's son (A-2570.4). She says sources who know the family told her neither child is Erika Kirk's. She then names VFX LA as the Hollywood AI and deepfake company that, she says, TPUSA's Marcus Wada met with after Charlie Kirk's death. She shows the company's voice-cloning and lip-sync work (A-2571.1, A-2571.2) and connects it to donors who say Charlie Kirk never made the \"I appoint Erika Kirk\" statement.\n\nIn the comments segment the host relays an insider rumor that Turning Point Action was missing $10 million. She says Superfeed, a company where she places Lori Frantzve on the board alongside Tyler Bowyer, powers the TPUSA app. She revisits Erika Kirk's Glenn Beck statement on Charlie Kirk's night-before texts, asks a former Aurora police officer to send records through the tips email (A-2573.1), and reads a local comment that the Clear Creek Sheriff's Office likely took part in the Evergreen response (A-2572.5).",
+  "executive_summary": "The host opens with questions about Victor Marx, who she says has now answered her Instagram message and whom she will try to book on the show. She asks why Marx was the first documented public figure to announce Charlie Kirk's death and how he came to be close to Erika Kirk. According to her, TPUSA insiders say Charlie Kirk and Marx had a falling out and stopped following each other on social media. She plays an October 2023 Charlie Kirk Show clip in which Marx reports from Israel and says his group's relationships with IDF special forces commanders \"are extensive\" (A-2566.1). From Colorado, where Marx is running for governor, she turns to the state's other ties to the story. She points to Charlie Kirk's planned September 11 event at Charis Bible College, which she says had no security plan. She reads Brian Harpole's court filing, which says he was not told of the visit (A-2567.1), and a local media item confirming the event (A-2567.2). She also sets out September 10 flight data for N582MM, a plane she says Charlie Kirk used as his main aircraft. She says it left Denver 25 minutes before the shooting, flew to Pierre, South Dakota, and Chicago, and landed in Provo at 6:57 p.m. (A-2568.1).\n\nThe host then reviews the Evergreen High School shooting in Jefferson County, Colorado, which she says happened at almost the same minute as the Charlie Kirk shooting. She gives the official account that 16-year-old Desmond Holly shot two students and then himself. Drawing on emails from local parents (A-2569.1, A-2569.2) and a CBS Colorado interview with the roofer Delmer Martinez, who filmed part of the incident (A-2569.3), she lists open questions. These are the unidentified first 911 caller, mutual-aid officers knocking on locked classroom doors, the job site Martinez was working on, which locals could not find, and a traffic crash the school resource officer was dispatched to that, she says, has never been documented.\n\nIn the third segment the host returns to the Fort Huachuca alibi. She plays Paramount Tactical's Gary Melton reading on air an alibi she says Erika Kirk and Andrew Kolvet supplied (A-2570.2), along with a photo of children stamped September 9, 8:33 a.m. (A-2570.3). She notes that Melton has now tweeted that the boy is not Erika Kirk's son (A-2570.4). She says sources who know the family told her neither child is Erika Kirk's. She then names VFX LA as the Hollywood AI and deepfake company that, she says, TPUSA's Marcus Wada met with after Charlie Kirk's death. She shows the company's voice-cloning and lip-sync work (A-2571.1, A-2571.2) and connects it to donors who say Charlie Kirk never made the \"I appoint Erika Kirk\" statement.\n\nIn the comments segment the host relays an insider rumor that Turning Point Action was missing $10 million. She says Superfeed, a company where she places Lori Frantzve on the board alongside Tyler Bowyer, powers the TPUSA app. She revisits Erika Kirk's Glenn Beck statement on Charlie Kirk's night-before texts, asks a former Aurora police officer to send records through the tips email (A-2573.1), and reads a local comment that the Clear Creek Sheriff's Office likely took part in the Evergreen response (A-2572.5).",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -172,7 +172,7 @@
           "@type": "Artifact",
           "@id": "A-2569.3",
           "ref": "A-2569.3",
-          "description": "CBS Colorado news segment interviewing roofer Delmar Martinez, with his footage",
+          "description": "CBS Colorado news segment interviewing roofer Delmer Martinez, with his footage",
           "related_claims": [
             "C-4029",
             "C-4033"
@@ -936,7 +936,7 @@
       "@type": "Person",
       "@id": "N-632",
       "ref": "N-632",
-      "name": "Delmar Martinez",
+      "name": "Delmer Martinez",
       "type": "person",
       "description": "First named by the host at 00:13:58 in episode 103. Roofer who filmed part of the Evergreen incident and was interviewed by CBS Colorado. Aliases: Delmer Martinez.",
       "related_artifacts": [
@@ -976,7 +976,7 @@
       "@type": "Person",
       "@id": "N-634",
       "ref": "N-634",
-      "name": "Jessica Garza",
+      "name": "Jessica Ghawi",
       "type": "person",
       "description": "First named by the host at 00:53:58 in episode 103. The host's name for an Aurora theater shooting victim who, she says, had survived an earlier shooting at a food court in Canada; the host is unsure of the name.",
       "related_artifacts": [],
@@ -1359,7 +1359,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10899",
       "ref": "N-10899",
-      "name": "Paramount Tactical Valhalla",
+      "name": "Paramount Tactical",
       "type": "investigation_target",
       "description": "Gary Melton's show and channel, on which the alibi and the children's photo aired.",
       "related_artifacts": [
@@ -1408,7 +1408,7 @@
       "ref": "N-10920",
       "name": "Evergreen High School Shooting (September 10, 2025) Open Questions",
       "type": "topic",
-      "description": "Investigation target: the Evergreen High School shooting in Jefferson County, Colorado, at about 12:21 p.m. on September 10, 2025. Open questions raised by local parents and the host: the identity and location of the first 911 caller, which outside agency's officers knocked on locked classroom doors, which job site roofer Delmar Martinez was working, and the undocumented traffic crash to which the part-time school resource officer was dispatched.",
+      "description": "Investigation target: the Evergreen High School shooting in Jefferson County, Colorado, at about 12:21 p.m. on September 10, 2025. Open questions raised by local parents and the host: the identity and location of the first 911 caller, which outside agency's officers knocked on locked classroom doors, which job site roofer Delmer Martinez was working, and the undocumented traffic crash to which the part-time school resource officer was dispatched.",
       "related_artifacts": [
         "A-2569.1",
         "A-2569.2",
@@ -1968,8 +1968,8 @@
       "@type": "Claim",
       "@id": "C-4029",
       "ref": "C-4029",
-      "label": "Holly shot Matthew Silverstone at South Olive Road and Buffalo Park Road; Delmar Martinez filmed it",
-      "claim": "The host says Desmond Holly shot a second student, Matthew Silverstone, at the intersection of South Olive Road and Buffalo Park Road, and that roofer Delmar Martinez filmed the confrontation.",
+      "label": "Holly shot Matthew Silverstone at South Olive Road and Buffalo Park Road; Delmer Martinez filmed it",
+      "claim": "The host says Desmond Holly shot a second student, Matthew Silverstone, at the intersection of South Olive Road and Buffalo Park Road, and that roofer Delmer Martinez filmed the confrontation.",
       "anchored_artifacts": [
         "A-2569.3"
       ],
@@ -2043,7 +2043,7 @@
       "@id": "C-4033",
       "ref": "C-4033",
       "label": "Martinez told CBS Colorado he was on a roofing job and pulled over after a police car sped past",
-      "claim": "In the CBS Colorado segment, Delmar Martinez says he and a coworker were working a roofing job in Evergreen and were driving on Buffalo Park Road when a police officer sped past them, after which they stopped and he filmed.",
+      "claim": "In the CBS Colorado segment, Delmer Martinez says he and a coworker were working a roofing job in Evergreen and were driving on Buffalo Park Road when a police officer sped past them, after which they stopped and he filmed.",
       "anchored_artifacts": [
         "A-2569.3"
       ],
@@ -2609,7 +2609,7 @@
       "@id": "C-4060",
       "ref": "C-4060",
       "label": "An Aurora theater victim had survived an earlier shooting at a Canadian food court",
-      "claim": "The host says a woman shot in the Aurora theater, whom she believes was named Jessica Garza, had just survived another shooting at a food court in Canada, and calls the story strange.",
+      "claim": "The host says a woman shot in the Aurora theater, whom she believes was named Jessica Ghawi, had just survived another shooting at a food court in Canada, and calls the story strange.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],

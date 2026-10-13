@@ -21,7 +21,7 @@
 
 ## 2. Executive Summary
 
-The host expands on the theory that Charlie Kirk was killed by an explosive shaped charge hidden in his clip-on Rode wireless microphone. She credits Don Porter, a friend of Corey Comperatore, for the leads behind her previous Butler episode, and says the microphone theory was first put forward by an X user she names as John Bray. Using a mashup of Charlie Kirk's 2024 events (A-2668.1), she says he used a single handheld microphone until the fall 2024 You're Being Brainwashed tour, when a clipped wireless mic held by a magnetic clip was added (A-2668.2). She lists what she calls supporting evidence: bomb dogs were on scene but were not brought to where Charlie Kirk sat; contractors were called on a Sunday to pave over the scene by Monday, which a contractor says the governor and the FBI wanted (A-2669); a YouTuber's 20 g PETN test left a hole about the size of a .30-06 round (A-2670.1); and shards appear in photos of the transport SUV (A-2671.1), which John Bray says are ABS plastic from the microphone.
+The host expands on the theory that Charlie Kirk was killed by an explosive shaped charge hidden in his clip-on Rode wireless microphone. She credits Don Porter, a friend of Corey Comperatore, for the leads behind her previous Butler episode, and says the microphone theory was first put forward by an X user she names as Jon Bray. Using a mashup of Charlie Kirk's 2024 events (A-2668.1), she says he used a single handheld microphone until the fall 2024 You're Being Brainwashed tour, when a clipped wireless mic held by a magnetic clip was added (A-2668.2). She lists what she calls supporting evidence: bomb dogs were on scene but were not brought to where Charlie Kirk sat; contractors were called on a Sunday to pave over the scene by Monday, which a contractor says the governor and the FBI wanted (A-2669); a YouTuber's 20 g PETN test left a hole about the size of a .30-06 round (A-2670.1); and shards appear in photos of the transport SUV (A-2671.1), which Jon Bray says are ABS plastic from the microphone.
 
 The host also revisits points she says undermine the case against Tyler Robinson and the conduct of the Turning Point USA team. These include five other sets of prints on the rifle, no gunshot residue test, Terrell Farnsworth removing the SD card from the camera behind Charlie Kirk's head, and Mikey McCoy and Blake Neff calling family rather than 911. She contrasts a Jack Hibbs interview with Frank Turek (A-2672.1) against Turek's account to Megyn Kelly that his FaceTime call stayed open until he reached the hotel (A-2672.2). She says Kash Patel had the hospital footage taken, and that no one at TPUSA has confirmed seeing the live stream TPUSA said it was sending to its office. She asks for tips about the October 10 explosion at Accurate Energetic Systems in Hickman County, Tennessee, which she says some believe could be where a device was assembled (A-2673.1).
 
@@ -408,7 +408,7 @@ First named by the host at 00:02:16 in episode 116. Friend of Corey Comperatore 
 
 *Related: C-4593*
 
-**N-697** John Bray
+**N-697** Jon Bray
 
 First named by the host at 00:03:00 in episode 116. X user the host credits with first positing the exploding-microphone theory. Aliases: John Braden; John Blake.
 
@@ -566,7 +566,7 @@ Host says outside the front wound Charlie Kirk was in very good condition.
 
 **N-10678** SUV Floorboard Shard Mic Identification
 
-The SUV shards John Bray says are ABS plastic from the Rode mic.
+The SUV shards Jon Bray says are ABS plastic from the Rode mic.
 
 *Related: C-4613, C-4615, A-2671.1*
 
@@ -584,7 +584,7 @@ The Kash Patel itinerary and Erika Kirk email requests, and the reduced-scope re
 
 **N-10705** Charlie's Road Microphone Glass Origin Investigation Target
 
-John Bray's theory that the SUV shards are the shattered mic housing.
+Jon Bray's theory that the SUV shards are the shattered mic housing.
 
 *Related: C-4594, C-4613*
 
@@ -709,18 +709,18 @@ Investigative Direction: Confirm Don Porter's relationship to Corey Comperatore 
 
 ---
 
-**C-4594** Exploding-microphone theory was first posited by X user John Bray
+**C-4594** Exploding-microphone theory was first posited by X user Jon Bray
 
 Claim Timestamp: 00:03:00
 
-Claim: The host says the theory that Charlie Kirk was killed by an explosive in his Rode microphone was first posited by an X user, John Bray, who has worked on it since September. She says he contacted her when she published the photos from inside the SUV.
+Claim: The host says the theory that Charlie Kirk was killed by an explosive in his Rode microphone was first posited by an X user, Jon Bray, who has worked on it since September. She says he contacted her when she published the photos from inside the SUV.
 
 Transcript Snippet: It was a theory that was at first posited by an ex-user named John Bray and you should go down that rabbit hole. He has done so much work on this. Really truly he has worked on this since September.
 
 Anchored Artifacts:
 Mentions: N-697, N-1, N-3
 Related Nodes: N-10768, N-10705
-Investigative Direction: Locate John Bray's X posts on the theory and their earliest dates.
+Investigative Direction: Locate Jon Bray's X posts on the theory and their earliest dates.
 
 ---
 
@@ -773,7 +773,7 @@ Investigative Direction: Identify the exact microphone model used on September 1
 
 Claim Timestamp: 00:08:07
 
-Claim: The host says the theorized explosive would be a shaped charge, typically in a copper or lead capsule, which directs the blast so that it functions like a bullet without a bullet's power; she credits John Bray with explaining the idea.
+Claim: The host says the theorized explosive would be a shaped charge, typically in a copper or lead capsule, which directs the blast so that it functions like a bullet without a bullet's power; she credits Jon Bray with explaining the idea.
 
 Transcript Snippet: This would be what is known as a shaped charge. I've learned this recently, and John Braden was trying to explain it to me on X
 
@@ -997,11 +997,11 @@ Investigative Direction: Obtain the original SD card file and compare its frame 
 
 ---
 
-**C-4613** John Bray says the SUV photos show shards of the mic's ABS plastic
+**C-4613** Jon Bray says the SUV photos show shards of the mic's ABS plastic
 
 Claim Timestamp: 00:25:01
 
-Claim: The host says John Bray told her that her SUV interior photos were the missing piece of his theory, showing what would be shards of the hard ABS plastic housing of the Rode mic.
+Claim: The host says Jon Bray told her that her SUV interior photos were the missing piece of his theory, showing what would be shards of the hard ABS plastic housing of the Rode mic.
 
 Transcript Snippet: he said that my video was the missing piece to his theory that he was looking for what would have been shards of the ABS plastic that is used on the road bike.
 
@@ -1659,7 +1659,7 @@ Confidence: high
 Video Timestamp: 00:03:00
 Speaker: N-3
 Quote: It was a theory that was at first posited by an ex-user named John Bray and you should go down that rabbit hole.
-Context: Host points viewers to John Bray's work on the exploding-mic theory.
+Context: Host points viewers to Jon Bray's work on the exploding-mic theory.
 Tags: research, reuse
 Confidence: high
 
@@ -1832,7 +1832,7 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2673.1 (tip request, nothing shown). The host also refers without showing anything to Erika Kirk's Bari Weiss interview, the September 16 TPUSA Zoom call, Kash Patel's FOIA response letter (she says it was shown on the prior day's show) and the Epstein-binders tweet ("I don't know if you have my tweet"). A-2674.6 is logged at Medium because it is unclear whether the photo was put on screen.
 - **DIA beats**: one real beat (44:47, tips@candaceowens.com for the Hickman County explosion, repeated as "More tips@candaceowens. com" in the same paragraph); it is logged as C-4634, A-2673.1 and M-12. At 01:03:56 the host thanks Evie for "a massive uh tip," which is about her hairstyle, not a DIA beat. No bounty and no CIA merch phrase aired, so M-14 is not used.
-- **Name matching**: "John Bray" (03:00), "John Braden" (08:07) and "John Blake" (25:01, 26:45) are treated as one new person, N-697 John Bray, because the context (X user, mic theory, SUV photos) is the same. The correct spelling is unverified. "Terrell", "Taral" and "Tara Farnsworth" are mapped to N-267. "Frank Terrick" (25:46) is mapped to N-7 Frank Turek. "Zachariah Qureshi" and "Sam Qureshi" are mapped to N-420 Zachariah Karashy; the host corrects herself to Zachariah on air. "Blake" at 30:41 is taken as Blake Neff. "The governor" in the contractor clip is presumably Spencer Cox, but he is not named, so he is not mentioned. "Ashley" in the control room (03:00, 01:03:02) is a staff member and is not minted.
+- **Name matching**: "Jon Bray" (03:00), "John Braden" (08:07) and "John Blake" (25:01, 26:45) are treated as one new person, N-697 Jon Bray, because the context (X user, mic theory, SUV photos) is the same. The correct spelling is unverified. "Terrell", "Taral" and "Tara Farnsworth" are mapped to N-267. "Frank Terrick" (25:46) is mapped to N-7 Frank Turek. "Zachariah Qureshi" and "Sam Qureshi" are mapped to N-420 Zachariah Karashy; the host corrects herself to Zachariah on air. "Blake" at 30:41 is taken as Blake Neff. "The governor" in the contractor clip is presumably Spencer Cox, but he is not named, so he is not mentioned. "Ashley" in the control room (03:00, 01:03:02) is a staff member and is not minted.
 - **Possible duplicate topic**: N-10923 reuses the staging title WHCD "Emotional Asset" Email Verification (episode 106). Other staging drafts use "White House Military Office Erika Kirk Amplification Email" for what may be the same email; the integrator may want to merge them.
 - **Transcription ambiguities**: "Rode"/"road mic"/"road bike" (the Rode wireless microphone), "PTN" (PETN), "ex-user" (X user), "Hampton Summit" (Hamptons) and "Built" (Built Inc.). Snippets keep "the.30-06" without a space, as the transcript has it.
 - **Cross-episode links left out**: C-1235 (episode 7, UVU repaved within about 48 hours) conflicts on timing with the contractor's Sunday account, but it is not clearly the same proposition, so it is not linked. C-1366 (SD card removal on law-enforcement instruction) may relate to C-4611, but the source of the instruction differs, so it is left unlinked.

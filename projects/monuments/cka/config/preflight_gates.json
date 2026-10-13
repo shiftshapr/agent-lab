@@ -123,6 +123,16 @@
         "claim": "C-4590",
         "node": "N-30",
         "reason": "transcript 50:21 'my husband was present confirmed it'"
+      },
+      {
+        "claim": "C-3909",
+        "node": "N-628",
+        "reason": "first name only: transcript 'Andrew messaged Gary, that's Paramount Tactical' / 'Gary has confirmed to me'; Gary Melton runs Paramount Tactical (Daveed, 2026-10-13)"
+      },
+      {
+        "claim": "C-3912",
+        "node": "N-628",
+        "reason": "first name only: transcript 'Andrew messaged Gary, that's Paramount Tactical' / 'Gary has confirmed to me'; Gary Melton runs Paramount Tactical (Daveed, 2026-10-13)"
       }
     ],
     "first_name_ok": [

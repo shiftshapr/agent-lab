@@ -310,7 +310,8 @@
           ],
           "related_nodes": [
             "N-10899",
-            "N-10375"
+            "N-10375",
+            "N-11001"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -662,7 +663,7 @@
       "@type": "Organization",
       "@id": "N-10899",
       "ref": "N-10899",
-      "name": "Paramount Tactical Valhalla",
+      "name": "Paramount Tactical",
       "type": "organization",
       "description": "Source of the stream clip in which Andrew Kolbet's instructions were read aloud.",
       "related_artifacts": [
@@ -718,6 +719,22 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11001",
+      "ref": "N-11001",
+      "name": "Valhalla VFT",
+      "type": "organization",
+      "description": "Military-commentary YouTube channel (\"the Valhalla guy\"), distinct from Gary Melton's Paramount Tactical.",
+      "related_artifacts": [
+        "A-1576.2"
+      ],
+      "related_claims": [
+        "C-2001"
+      ],
+      "tags": [],
+      "organization_kind": "media_outlet"
     }
   ],
   "claims": [
@@ -962,7 +979,8 @@
       ],
       "related_nodes": [
         "N-10375",
-        "N-10899"
+        "N-10899",
+        "N-11001"
       ],
       "tags": [],
       "claim_timestamp": "01:08:04",

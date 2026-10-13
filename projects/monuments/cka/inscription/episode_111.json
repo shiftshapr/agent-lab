@@ -13,7 +13,7 @@
     "transcript_sha256": "c712347d8eaed2c3f4d138d1c3341477fcf064c6a3a6da584168a38f51b1366b",
     "analysis_date": "2026-10-13"
   },
-  "executive_summary": "The host returns from a trip to Russia and responds to the media reaction to it. She says the episode thumbnail of her with Vladimir Putin is AI-generated (A-2617.1). She also says the trip was a family vacation that she and her husband paid for themselves, that their request for a Putin interview was denied, and that she joined a family panel at the St. Petersburg International Economic Forum (SPIEF), which a Trump administration delegation also attended. She plays a montage of critics (A-2618.1) and reads a Laura Loomer post (A-2618.2). In the post, Loomer alleges, citing a source, that the host and her husband met Alexander Dugin in Italy, and calls for FARA registration and FinCEN flags on their bank accounts. The host denies ever meeting Dugin. She then describes a medical emergency during the trip. According to the host, an American former-military member of their security detail had a stroke on the second day and needed emergency brain surgery in a Russian hospital, after years of failing to get a VA appointment.\n\nThe host then argues that there is a historical link between radical Zionism and Russia. She cites the People's Will assassination of Tsar Alexander II, an article by Deborah Hertz on Jewish women radicals (A-2620.1), the Romanov executions under Yakov Yurovsky, and a New York Times article on Julius Hammer's financing of the Soviet Bureau and diamond smuggling into New York (A-2620.2). She shows her video from the Church of the Savior on Spilled Blood (A-2621.1) and photos from the trip (A-2621.2), and urges viewers to visit Russia.\n\nIn the second segment the host covers Turning Point USA's Women's Leadership Summit. She plays clips of Erika Kirk being heckled as protecting pedophiles (A-2622.1), Dana Loesch reciting Bible verses on widows (A-2622.2), and Alex Clark announcing her engagement on stage (A-2622.3). She says insiders told her the summit struggled to attract young women and that female chapter leaders declined to attend. She reads Alex Clark's posts, including one asking \"how did Putin taste?\" (A-2623.1) and one claiming credit for prompting Trump's rant against the host (A-2623.2). She also says Clark tried to get the sponsor Paleo Valley to drop the show, and she plays clips of Clark's fiancé, Vance Voytberg (A-2623.5).\n\nThe final segment covers the video in which Charlie Kirk appears to appoint Erika Kirk to run Turning Point USA (A-2625.2). The host recaps how the video came to light and plays a supercut of Charlie Kirk's views on women and careers (A-2624.1). She says TPUSA showed the video only to Daily Mail reporters, that donors present remember Charlie saying the board would figure it out, and that his Aspen presentation mentioned Erika only once (A-2625.1). The host says she believes the clip is doctored. She reads her emailed questions to TPUSA (A-2626.1) and the reply from the TPUSA X account saying the video was real and Charlie \"wasn't kidding\" (A-2626.2). In the comments she says the White House asked her to narrow her FOIA request on Erika Kirk and the correspondents' dinner shooting (A-2627.1).",
+  "executive_summary": "The host returns from a trip to Russia and responds to the media reaction to it. She says the episode thumbnail of her with Vladimir Putin is AI-generated (A-2617.1). She also says the trip was a family vacation that she and her husband paid for themselves, that their request for a Putin interview was denied, and that she joined a family panel at the St. Petersburg International Economic Forum (SPIEF), which a Trump administration delegation also attended. She plays a montage of critics (A-2618.1) and reads a Laura Loomer post (A-2618.2). In the post, Loomer alleges, citing a source, that the host and her husband met Alexander Dugin in Italy, and calls for FARA registration and FinCEN flags on their bank accounts. The host denies ever meeting Dugin. She then describes a medical emergency during the trip. According to the host, an American former-military member of their security detail had a stroke on the second day and needed emergency brain surgery in a Russian hospital, after years of failing to get a VA appointment.\n\nThe host then argues that there is a historical link between radical Zionism and Russia. She cites the People's Will assassination of Tsar Alexander II, an article by Deborah Hertz on Jewish women radicals (A-2620.1), the Romanov executions under Yakov Yurovsky, and a New York Times article on Julius Hammer's financing of the Soviet Bureau and diamond smuggling into New York (A-2620.2). She shows her video from the Church of the Savior on Spilled Blood (A-2621.1) and photos from the trip (A-2621.2), and urges viewers to visit Russia.\n\nIn the second segment the host covers Turning Point USA's Women's Leadership Summit. She plays clips of Erika Kirk being heckled as protecting pedophiles (A-2622.1), Dana Loesch reciting Bible verses on widows (A-2622.2), and Alex Clark announcing her engagement on stage (A-2622.3). She says insiders told her the summit struggled to attract young women and that female chapter leaders declined to attend. She reads Alex Clark's posts, including one asking \"how did Putin taste?\" (A-2623.1) and one claiming credit for prompting Trump's rant against the host (A-2623.2). She also says Clark tried to get the sponsor Paleo Valley to drop the show, and she plays clips of Clark's fiancé, Vance Voetberg (A-2623.5).\n\nThe final segment covers the video in which Charlie Kirk appears to appoint Erika Kirk to run Turning Point USA (A-2625.2). The host recaps how the video came to light and plays a supercut of Charlie Kirk's views on women and careers (A-2624.1). She says TPUSA showed the video only to Daily Mail reporters, that donors present remember Charlie saying the board would figure it out, and that his Aspen presentation mentioned Erika only once (A-2625.1). The host says she believes the clip is doctored. She reads her emailed questions to TPUSA (A-2626.1) and the reply from the TPUSA X account saying the video was real and Charlie \"wasn't kidding\" (A-2626.2). In the comments she says the White House asked her to narrow her FOIA request on Erika Kirk and the correspondents' dinner shooting (A-2627.1).",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -354,7 +354,7 @@
           "@type": "Artifact",
           "@id": "A-2623.5",
           "ref": "A-2623.5",
-          "description": "Clips of Vance Voytberg (fiddle class, Alliance Defending Freedom introduction, Running on Butter blog)",
+          "description": "Clips of Vance Voetberg (fiddle class, Alliance Defending Freedom introduction, Running on Butter blog)",
           "related_claims": [
             "C-4361",
             "C-4362"
@@ -1273,7 +1273,7 @@
       "@type": "Person",
       "@id": "N-674",
       "ref": "N-674",
-      "name": "Vance Voytberg",
+      "name": "Vance Voetberg",
       "type": "person",
       "description": "First named by the host at 00:52:41 in episode 111. Alex Clark's fiancé; says he works for Alliance Defending Freedom and runs the blog Running on Butter.",
       "related_artifacts": [
@@ -1778,7 +1778,7 @@
       "ref": "N-10954",
       "name": "Alliance Defending Freedom",
       "type": "organization",
-      "description": "Christian legal organization (ADF) where Alex Clark's fiancé Vance Voytberg says he works.",
+      "description": "Christian legal organization (ADF) where Alex Clark's fiancé Vance Voetberg says he works.",
       "related_artifacts": [
         "A-2623.5"
       ],
@@ -2579,8 +2579,8 @@
       "@type": "Claim",
       "@id": "C-4361",
       "ref": "C-4361",
-      "label": "Alex Clark is engaged to Vance Voytberg, seven years her junior",
-      "claim": "The host says Alex Clark is engaged to Vance Voytberg, seven years younger, who runs a health blog where he calls readers his \"fellow buttercups.\"",
+      "label": "Alex Clark is engaged to Vance Voetberg, seven years her junior",
+      "claim": "The host says Alex Clark is engaged to Vance Voetberg, seven years younger, who runs a health blog where he calls readers his \"fellow buttercups.\"",
       "anchored_artifacts": [
         "A-2623.5"
       ],
@@ -2598,8 +2598,8 @@
       "@type": "Claim",
       "@id": "C-4362",
       "ref": "C-4362",
-      "label": "Vance Voytberg works for Alliance Defending Freedom and runs Running on Butter",
-      "claim": "In clips played by the host, Vance Voytberg says he lives in Scottsdale, Arizona, works for Alliance Defending Freedom, and runs the blog Running on Butter.",
+      "label": "Vance Voetberg works for Alliance Defending Freedom and runs Running on Butter",
+      "claim": "In clips played by the host, Vance Voetberg says he lives in Scottsdale, Arizona, works for Alliance Defending Freedom, and runs the blog Running on Butter.",
       "anchored_artifacts": [
         "A-2623.5"
       ],

@@ -402,7 +402,7 @@ First named by the host at 00:26:29 in episode 108. Kouri Richins's husband, who
 
 *Related: C-4244, C-4245, N-10944*
 
-**N-652** Ed Galvin
+**N-652** Ed Gallrein
 
 First named by the host at 00:52:19 in episode 108. Named in the comments as a candidate the host calls embarrassing, with no crowd at his victory party. Kept in the transcript spelling (see Optional Flags).
 
@@ -534,7 +534,7 @@ The claim by Jack Hibbs's circle that Israel knew of the death first.
 
 *Related: C-4265*
 
-**N-10899** Paramount Tactical Valhalla
+**N-10899** Paramount Tactical
 
 Called "Paramount not so tactical" by the host; she says she sent it a preservation letter and names it as part of the media and influencer orbit.
 
@@ -543,7 +543,7 @@ Called "Paramount not so tactical" by the host; she says she sent it a preservat
 **N-10916** Thomas Massie Kentucky Primary Outside Spending
 
 Node Type: Topic
-Thomas Massie's Kentucky primary loss, which the host frames as an attempt to buy an outcome with money; it connects to her comments on the candidate she calls "Ed Galvin."
+Thomas Massie's Kentucky primary loss, which the host frames as an attempt to buy an outcome with money; it connects to her comments on the candidate she calls "Ed Gallrein."
 
 *Related: C-4213, C-4266, N-593, N-652*
 
@@ -1360,11 +1360,11 @@ Investigative Direction: Timestamp Jack Hibbs's earliest public statements and i
 
 ---
 
-**C-4266** Ed Galvin had no crowd at his victory party
+**C-4266** Ed Gallrein had no crowd at his victory party
 
 Claim Timestamp: 00:55:09
 
-Claim: The host says the candidate she calls Ed Galvin had no crowd at his victory party and had the camera zoomed in on his face to hide it.
+Claim: The host says the candidate she calls Ed Gallrein had no crowd at his victory party and had the camera zoomed in on his face to hide it.
 
 Transcript Snippet: You had to have uh the camera zoomed in real close to your face so people couldn't see the the no crowd that showed up even to your victory party.
 
@@ -1586,7 +1586,7 @@ Confidence: high
 
 - **DIA beats**: no qualifying hits. The only keyword hit is "CandaceOwens. com" (55:53), a merch plug rather than a tip request, so no M-12 occurrence was added. The host's invitations to investigators to contact her for the names of the people Erika Kirk told (21:59, 27:25) offer information rather than ask for tips, so they were not treated as DIA beats.
 - **Artifacts verbally referenced but not shown**: A-2602.1 (Marx preservation letter), A-2602.2 (Paramount preservation letter), A-2603.1 (the host's evidence and sources on the September 15 appointment), A-2605.1 (the "emotional asset" communication) and A-2605.2 (the FOIA request). The host also cites a Daily Mail article on a TPUSA board member and the AI video without showing it.
-- **Name matching**: "Frank Chirico" (11:12) is mapped to N-7 Frank Turek, as he and the security team drove Kirk to the hospital; the alias list includes "Frank Churik." "Dan" (12:44) is mapped to N-276 Dan Flood from context (named with Brian Harpole as security). "Ed Galvin" (52:19, 55:09) is minted as N-652 in the transcript spelling; context (Massie's loss, victory party) suggests Massie's primary opponent, possibly Ed Gallrein, but this is unconfirmed and the integrator should check. "Victor Mark"/"Victor March" are mapped to N-348; "Bryan Harpold" to N-272; "Andrew Kolb" to N-14; "Megan Kelly" to N-46.
+- **Name matching**: "Frank Chirico" (11:12) is mapped to N-7 Frank Turek, as he and the security team drove Kirk to the hospital; the alias list includes "Frank Churik." "Dan" (12:44) is mapped to N-276 Dan Flood from context (named with Brian Harpole as security). "Ed Gallrein" (52:19, 55:09) is minted as N-652 in the transcript spelling; context (Massie's loss, victory party) suggests Massie's primary opponent, possibly Ed Gallrein, but this is unconfirmed and the integrator should check. "Victor Mark"/"Victor March" are mapped to N-348; "Bryan Harpold" to N-272; "Andrew Kolb" to N-14; "Megan Kelly" to N-46.
 - **Reused staging titles**: N-10916 uses the episode 104 title "Thomas Massie Kentucky Primary Outside Spending". N-10923 and M-95 use the episode 105 titles "White House Military Office Erika Kirk Amplification Email" and "Emotional Response Asset". M-92 uses the episodes 103/105 title "Paramount Not So Tactical". Episode 104 names the same email "White House Military Office "I Want to Go Home" Amplification Email", so the integrator should reconcile the two.
 - **Transcription ambiguities**: "an aspirin three weeks before" (17:28) is likely "an aspiration"; kept as transcribed. "Eric Richens" vs "Kouri Richins" and "Kouri D. Richins" kept as spoken. "in combat minutes" (06:34) is unclear. The 28:40–30:40 and 46:20–47:58 gaps are breaks with no transcript.
 - **Duration**: the skeleton meta gave 00:56:29; the range was reset to the transcript front-matter duration 57:23.
@@ -1599,6 +1599,6 @@ Confidence: high
   - The two-option analysis of whether Erika lied
   - "Israel didn't do nothing … assassinate a sitting president" sarcasm
   - Slave-code and 9/11 historical asides
-  - Insults directed at Ed Galvin
+  - Insults directed at Ed Gallrein
 - **Minor beats not inscribed**: the Nimi Skin Care sponsor read; the Hunter Biden interview airing the next day at 5:00 p.m. Eastern; the show being off for Memorial Day; the YouTube channel "flirting with 6 million" subscribers; the host's college Xanax prescription anecdote; the viewer question on the LA mosque shooting (the host did not follow it); and the data-center comment.
 - **Cross-episode links**: C-4217 Supports C-3702, C-4219 Supports C-3713, C-4228 Supports C-3703 (all episode 107), and C-4236 Supports C-1876 (DOJ audit cancelled). Links left out: C-4237 vs C-2274/C-2787 (kill-me texts; recipients and framing differ); C-4261 vs C-1365 (Theo Von denial in episode 14 appears to be an earlier, different incident); C-4217 vs C-2748 (episode 93 gives a 1:13 PM time, not the same proposition); C-4232 vs C-3414 (episode 150 is later and cannot be linked).

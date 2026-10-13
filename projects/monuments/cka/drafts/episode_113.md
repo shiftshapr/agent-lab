@@ -544,7 +544,7 @@ The host opens by asking when the widowed CEO and chairman of TPUSA must answer 
 
 *Related: C-4434*
 
-**N-10899** Paramount Tactical Valhalla
+**N-10899** Paramount Tactical
 
 Called "Paramount Not So Tactical"; the host says it debunked the Fort Huachuca alibi.
 

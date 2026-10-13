@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq103
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (skeleton): N-628, N-629, N-630, N-631, N-632, N-633, N-634, N-10920, N-10921, N-10922
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-194, N-215, N-242, N-272, N-276, N-348, N-369, N-434, N-500, N-10000, N-10012, N-10026, N-10074, N-10340, N-10367, N-10388, N-10396, N-10450, N-10470, N-10472, N-10518, N-10547, N-10604, N-10605, N-10613, N-10618, N-10664, N-10899, N-10903
+  - Tip-minted Nodes (skeleton): N-629, N-630, N-631, N-632, N-633, N-634, N-10920, N-10921, N-10922
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-194, N-215, N-242, N-272, N-276, N-348, N-369, N-434, N-500, N-10000, N-10012, N-10026, N-10074, N-10340, N-10367, N-10388, N-10396, N-10450, N-10470, N-10472, N-10518, N-10547, N-10604, N-10605, N-10613, N-10618, N-10664, N-10899, N-10903, N-628
   - Claim Range: C-4005–C-4061
   - (see registers)
 
@@ -21,7 +21,7 @@
 
 The host opens with questions about Victor Marx, who she says has now answered her Instagram message and whom she will try to book on the show. She asks why Marx was the first documented public figure to announce Charlie Kirk's death and how he came to be close to Erika Kirk. According to her, TPUSA insiders say Charlie Kirk and Marx had a falling out and stopped following each other on social media. She plays an October 2023 Charlie Kirk Show clip in which Marx reports from Israel and says his group's relationships with IDF special forces commanders "are extensive" (A-2566.1). From Colorado, where Marx is running for governor, she turns to the state's other ties to the story. She points to Charlie Kirk's planned September 11 event at Charis Bible College, which she says had no security plan. She reads Brian Harpole's court filing, which says he was not told of the visit (A-2567.1), and a local media item confirming the event (A-2567.2). She also sets out September 10 flight data for N582MM, a plane she says Charlie Kirk used as his main aircraft. She says it left Denver 25 minutes before the shooting, flew to Pierre, South Dakota, and Chicago, and landed in Provo at 6:57 p.m. (A-2568.1).
 
-The host then reviews the Evergreen High School shooting in Jefferson County, Colorado, which she says happened at almost the same minute as the Charlie Kirk shooting. She gives the official account that 16-year-old Desmond Holly shot two students and then himself. Drawing on emails from local parents (A-2569.1, A-2569.2) and a CBS Colorado interview with the roofer Delmar Martinez, who filmed part of the incident (A-2569.3), she lists open questions. These are the unidentified first 911 caller, mutual-aid officers knocking on locked classroom doors, the job site Martinez was working on, which locals could not find, and a traffic crash the school resource officer was dispatched to that, she says, has never been documented.
+The host then reviews the Evergreen High School shooting in Jefferson County, Colorado, which she says happened at almost the same minute as the Charlie Kirk shooting. She gives the official account that 16-year-old Desmond Holly shot two students and then himself. Drawing on emails from local parents (A-2569.1, A-2569.2) and a CBS Colorado interview with the roofer Delmer Martinez, who filmed part of the incident (A-2569.3), she lists open questions. These are the unidentified first 911 caller, mutual-aid officers knocking on locked classroom doors, the job site Martinez was working on, which locals could not find, and a traffic crash the school resource officer was dispatched to that, she says, has never been documented.
 
 In the third segment the host returns to the Fort Huachuca alibi. She plays Paramount Tactical's Gary Melton reading on air an alibi she says Erika Kirk and Andrew Kolvet supplied (A-2570.2), along with a photo of children stamped September 9, 8:33 a.m. (A-2570.3). She notes that Melton has now tweeted that the boy is not Erika Kirk's son (A-2570.4). She says sources who know the family told her neither child is Erika Kirk's. She then names VFX LA as the Hollywood AI and deepfake company that, she says, TPUSA's Marcus Wada met with after Charlie Kirk's death. She shows the company's voice-cloning and lip-sync work (A-2571.1, A-2571.2) and connects it to donors who say Charlie Kirk never made the "I appoint Erika Kirk" statement.
 
@@ -107,7 +107,7 @@ Confidence Level: Medium
 
 *Related: C-4032, N-10920*
 
-**A-2569.3** CBS Colorado news segment interviewing roofer Delmar Martinez, with his footage
+**A-2569.3** CBS Colorado news segment interviewing roofer Delmer Martinez, with his footage
 
 Quoted text: "Martinez tells CBS Colorado he and another coworker were working a roofing job in Evergreen. They were driving along Buffalo Park Road near Olive Road when a police officer sped past them and got out of their car."
 
@@ -390,7 +390,7 @@ First named by the host at 00:13:00 in episode 103. The second Evergreen High Sc
 
 *Related: C-4029, A-2569.3*
 
-**N-632** Delmar Martinez
+**N-632** Delmer Martinez
 
 First named by the host at 00:13:58 in episode 103. Roofer who filmed part of the Evergreen incident and was interviewed by CBS Colorado. Aliases: Delmer Martinez.
 
@@ -402,7 +402,7 @@ First named by the host at 00:37:32 in episode 103. Deceased baseball commentato
 
 *Related: C-4050, A-2571.1*
 
-**N-634** Jessica Garza
+**N-634** Jessica Ghawi
 
 First named by the host at 00:53:58 in episode 103. The host's name for an Aurora theater shooting victim who, she says, had survived an earlier shooting at a food court in Canada; the host is unsure of the name.
 
@@ -516,7 +516,7 @@ Donors' insistence that the "I appoint Erika Kirk" statement is AI, now linked b
 
 *Related: C-4047, C-4051, C-4053, C-4054, A-2572.1*
 
-**N-10899** Paramount Tactical Valhalla
+**N-10899** Paramount Tactical
 
 Gary Melton's show and channel, on which the alibi and the children's photo aired.
 
@@ -532,7 +532,7 @@ Investigation target: the plane with tail number N582MM, tied to Paradise Jets, 
 **N-10920** Evergreen High School Shooting (September 10, 2025) Open Questions
 
 Node Type: Topic
-Investigation target: the Evergreen High School shooting in Jefferson County, Colorado, at about 12:21 p.m. on September 10, 2025. Open questions raised by local parents and the host: the identity and location of the first 911 caller, which outside agency's officers knocked on locked classroom doors, which job site roofer Delmar Martinez was working, and the undocumented traffic crash to which the part-time school resource officer was dispatched.
+Investigation target: the Evergreen High School shooting in Jefferson County, Colorado, at about 12:21 p.m. on September 10, 2025. Open questions raised by local parents and the host: the identity and location of the first 911 caller, which outside agency's officers knocked on locked classroom doors, which job site roofer Delmer Martinez was working, and the undocumented traffic crash to which the part-time school resource officer was dispatched.
 
 *Related: C-4027, C-4028, C-4029, C-4030, C-4031, C-4032, C-4033, C-4034, C-4035, C-4036, C-4037, C-4038, C-4061, A-2569.1, A-2569.2, A-2569.3, A-2572.5*
 
@@ -912,11 +912,11 @@ Investigative Direction: Review the Jefferson County Sheriff's Office incident r
 
 ---
 
-**C-4029** Holly shot Matthew Silverstone at South Olive Road and Buffalo Park Road; Delmar Martinez filmed it
+**C-4029** Holly shot Matthew Silverstone at South Olive Road and Buffalo Park Road; Delmer Martinez filmed it
 
 Claim Timestamp: 00:13:58
 
-Claim: The host says Desmond Holly shot a second student, Matthew Silverstone, at the intersection of South Olive Road and Buffalo Park Road, and that roofer Delmar Martinez filmed the confrontation.
+Claim: The host says Desmond Holly shot a second student, Matthew Silverstone, at the intersection of South Olive Road and Buffalo Park Road, and that roofer Delmer Martinez filmed the confrontation.
 
 Transcript Snippet: And he does this at the intersection of South Olive Road and Buffalo Park Road. Uh a roofer, a guy who's literally working on roofs in construction, a man named Delmar Martinez, filmed this initial confrontation.
 
@@ -974,7 +974,7 @@ Investigative Direction: Obtain the October 10 sheriff's update and the list of 
 
 Claim Timestamp: 00:19:42
 
-Claim: In the CBS Colorado segment, Delmar Martinez says he and a coworker were working a roofing job in Evergreen and were driving on Buffalo Park Road when a police officer sped past them, after which they stopped and he filmed.
+Claim: In the CBS Colorado segment, Delmer Martinez says he and a coworker were working a roofing job in Evergreen and were driving on Buffalo Park Road when a police officer sped past them, after which they stopped and he filmed.
 
 Transcript Snippet: Martinez tells CBS Colorado he and another coworker were working a roofing job in Evergreen.
 
@@ -1382,7 +1382,7 @@ Investigative Direction: Follow up on any records requests submitted through the
 
 Claim Timestamp: 00:53:58
 
-Claim: The host says a woman shot in the Aurora theater, whom she believes was named Jessica Garza, had just survived another shooting at a food court in Canada, and calls the story strange.
+Claim: The host says a woman shot in the Aurora theater, whom she believes was named Jessica Ghawi, had just survived another shooting at a food court in Canada, and calls the story strange.
 
 Transcript Snippet: The fact that she had just survived another shooting. Um missed it in a food court up in Canada.
 
@@ -1527,8 +1527,8 @@ Confidence: high
 - **Possible duplicate node**: N-10903 (N582MM TPUSA-Associated Plane Flight Pattern) matches N-10903 in staged episode 084, which also tracked N582MM's Pierre–Chicago–Provo route on September 10. That node has no global id in nodes.tsv yet, so the integrator should merge the two. Ep 084's placeholder claims on the same route (Baron Coleman's tracking) cannot be linked as Supports until they have global ids.
 - **Inconsistency in the host's account**: she says Charlie Kirk used N582MM for "basically all of 2023" and then "all through 2025" (09:26–10:19). The tail number is first read as "9582 MM" and later as "N582 MM". Both are preserved as spoken.
 - **Name matching**: "Andrew Colbet", "Andrew Cole" and "Andrew Kolb" are mapped to N-14 Andrew Kolvet. "Justin Streif" maps to N-15 (alias). "Jesse Waters" maps to N-215. Gary Melton is also transcribed "Gary Moulton" and "Gary Mountain" and is minted as N-628; Paramount Tactical is matched to the org N-10899 Paramount Tactical Valhalla. "Colby Hall" (22:06) is taken as Corby Hall but is not cited. "Victor Marks" (22:50) is Victor Marx. "Larry Loomer" (00:01) is presumably Laura Loomer, but she is not cited. "Dick Shirley" (45:48) is presumably Nick Shirley, also not cited. "Ericka" is Erika Kirk.
-- **Uncertain person**: "Jessica Garza" (N-634) is the host's own hedged name ("I believe her name was"). The Aurora victim who survived the 2012 Toronto Eaton Centre food-court shooting is publicly reported as Jessica Ghawi (Redfield). The transcript spelling is kept, and the name should be verified before integration.
-- **Transcription ambiguities**: "Fort Wat Chuca" is Fort Huachuca. "Smith & Wesson.38" is kept as written. "Deshaun Holly" and "Holly Desmond Holly" refer to Desmond Holly. "Matthew Stone" (18:49) is taken as Matthew Silverstone. "Delmer Martinez" is Delmar Martinez. The email address is transcribed "more tips@canasown. com". "Pride of Charlie" (50:23) is probably the Bride of Charlie series. "they act Superfeed" is garbled.
+- **Uncertain person**: "Jessica Ghawi" (N-634) is the host's own hedged name ("I believe her name was"). The Aurora victim who survived the 2012 Toronto Eaton Centre food-court shooting is publicly reported as Jessica Ghawi (Redfield). The transcript spelling is kept, and the name should be verified before integration.
+- **Transcription ambiguities**: "Fort Wat Chuca" is Fort Huachuca. "Smith & Wesson.38" is kept as written. "Deshaun Holly" and "Holly Desmond Holly" refer to Desmond Holly. "Matthew Stone" (18:49) is taken as Matthew Silverstone. "Delmer Martinez" is Delmer Martinez. The email address is transcribed "more tips@canasown. com". "Pride of Charlie" (50:23) is probably the Bride of Charlie series. "they act Superfeed" is garbled.
 - **DIA scan**: one real hit, "more tips@canasown. com" at 53:58 (C-4059, A-2573.1, M-12). The 04:29 remark "I received a few tips into our inbox" relays tips already received rather than asking for or paying off a tip, and matches none of the scan phrases, so it is recorded only as C-4012, not as a DIA beat. The Candace Intelligence Agency merch phrase does not air (no M-14).
 - **Not inscribed as claims (admission test)**: The following were left out as opinion, framing or rhetoric:
   - "I don't really buy his pastoral act"

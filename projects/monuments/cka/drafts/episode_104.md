@@ -22,7 +22,7 @@
 
 ## 2. Executive Summary
 
-The host says the White House Military Office sent a communications email at about 9:49 p.m. Eastern on the night of the White House Correspondents' Dinner shooting, and that the White House then tried to rescind it. She dates the shooting to 8:36 p.m. and says Sarah Sidner of CNN was the first to post Erika Kirk's "I just want to go home" clip, at 9:25 p.m., citing Instagram metadata (A-2575.1). She reads the part of the email that calls the clip the incident's "strongest emotional response" asset and recommends that all channels and "approved surrogates" amplify it overnight (A-2574.1). The host does not show the email. She says the Department of Defense uses a "canary" watermarking tactic to trace leakers, and she names three people she says were copied: Steven Cheung, Ryan Ripian and Gustav Anderly of the White House Communications Agency. She adds that, according to her sources, the recall failed and recipients were ordered to delete the email (A-2574.2).
+The host says the White House Military Office sent a communications email at about 9:49 p.m. Eastern on the night of the White House Correspondents' Dinner shooting, and that the White House then tried to rescind it. She dates the shooting to 8:36 p.m. and says Sarah Sidner of CNN was the first to post Erika Kirk's "I just want to go home" clip, at 9:25 p.m., citing Instagram metadata (A-2575.1). She reads the part of the email that calls the clip the incident's "strongest emotional response" asset and recommends that all channels and "approved surrogates" amplify it overnight (A-2574.1). The host does not show the email. She says the Department of Defense uses a "canary" watermarking tactic to trace leakers, and she names three people she says were copied: Steven Cheung, Ryan Rippeon and Gustav Anderly of the White House Communications Agency. She adds that, according to her sources, the recall failed and recipients were ordered to delete the email (A-2574.2).
 
 The host then relays a tips-line story she says was verified with receipts (A-2576.1). According to the host, Justin Strife, who had been promoted to TPUSA chief operating officer seven days before the assassination, allegedly called a book printer on September 10 to at least double the order for Charlie Kirk's book "Stop in the Name of God", after getting Erika Kirk's approval. She repeats an outside source's and an insider's accounts that about $10 million was missing from Turning Point Action. She also says Strife runs Winning Team Publishing, which Sergio Gor and Donald Trump Jr. founded. She relays a rumor that Gor left his White House deputy chief of staff role after clashing with Elon Musk, including over Jared Isaacman's appointment, and over an alleged relationship. She plays Erika Kirk's remarks at Gor's ambassador-to-India ceremony (A-2577.1).
 
@@ -359,7 +359,7 @@ Referred to as the Department of Defense; said to use canary watermarking to tra
 
 *Related: C-4067*
 
-**N-10899** Paramount Tactical Valhalla
+**N-10899** Paramount Tactical
 
 Transcript spelling "Paramount not so tactical"; named among those sent to call Mitch Snow a liar.
 
@@ -371,7 +371,7 @@ The host says she had agreed to a private court process with the Daily Wire.
 
 *Related: C-4104*
 
-**N-635** Ryan Ripian
+**N-635** Ryan Rippeon
 
 First named by the host at 00:04:55 in episode 104. Named as copied on the White House Military Office email.
 
@@ -404,7 +404,7 @@ First named by the host at 00:35:22 in episode 104. Exiled Iranian actress named
 **N-10923** White House Military Office Erika Kirk Amplification Email
 
 Node Type: Topic
-Investigation target: a White House Military Office communications email sent at about 9:49 p.m. Eastern on the night of the WHCD shooting. The host says it described an "Amendment to the Erika Kirk video clip" and recommended that all channels, digital partners and "approved surrogates" amplify the clip overnight. She says it was copied to Steven Cheung, Ryan Ripian and Gustav Anderly (White House Communications Agency), carried canary watermarks, and that the White House tried to recall it and then ordered recipients to delete it.
+Investigation target: a White House Military Office communications email sent at about 9:49 p.m. Eastern on the night of the WHCD shooting. The host says it described an "Amendment to the Erika Kirk video clip" and recommended that all channels, digital partners and "approved surrogates" amplify the clip overnight. She says it was copied to Steven Cheung, Ryan Rippeon and Gustav Anderly (White House Communications Agency), carried canary watermarks, and that the White House tried to recall it and then ordered recipients to delete it.
 
 *Related: C-4062, C-4066, C-4067, C-4069, C-4070, C-4071, C-4072, C-4074, C-4075, C-4076, A-2574.1, A-2574.2, N-163, N-635, N-636*
 
@@ -557,11 +557,11 @@ Investigative Direction: Compare copies of TPUSA all-staff emails from different
 
 ---
 
-**C-4069** Steven Cheung, Ryan Ripian and Gustav Anderly were copied on the email
+**C-4069** Steven Cheung, Ryan Rippeon and Gustav Anderly were copied on the email
 
 Claim Timestamp: 00:04:55
 
-Claim: The host says Steven Cheung, Ryan Ripian and Gustav Anderly were among those copied on the White House Military Office email.
+Claim: The host says Steven Cheung, Ryan Rippeon and Gustav Anderly were among those copied on the White House Military Office email.
 
 Transcript Snippet: Uh Steven Cheung was copied on the email. Um, Ryan Ripian was copied on the email and gentleman named Gustav Anderly was copied on the email.
 
@@ -1393,7 +1393,7 @@ Confidence: high
 - **Artifacts verbally referenced but not shown**: A-2574.1 (the White House Military Office email is read aloud but deliberately not shown, which the host attributes to canary watermarking), A-2574.2 (deletion-order emails), A-2576.1 (tips-line receipts) and A-2580.1 (Blake Neff's X posts).
 - **Skeleton handling**: The existing N-16 and N-163 rows and the M-42 occurrence are kept with their ids and text; only their placeholder *Related:* lines were filled in. The N-163 description mentions an "Epstein situation-room attendee read", which does not appear in this transcript; it is kept verbatim from the skeleton. The skeleton's ledger line "Hole-minted Nodes (remap-ep104): N-163" was replaced by "(see registers)" per the spec. Its Video Timestamp Range (00:56:29) was corrected to the transcript duration, 49:46.
 - **Name matching**: "Justin Strife" (chapter title "Justin Streiff") is mapped to N-15. "Blakey Nef" is N-162 Blake Neff. "Captain Adam Nef" / "Commander Nef" is N-326. "Sarah Seidner" is N-379 Sarah Sidner. "Don Trump Jr." is N-33. The "mysterious Pierre" is linked only to topic N-10493; he is not matched to the existing Pierre S. du Pont person node, because the transcript gives no surname.
-- **New-person spellings**: "Ryan Ripian" and "Gustav Anderly" are kept as spoken; real spellings are unverified. N-624 is named Jessica Reed Kraus (transcript "Jessica Reed Krauss", handle rendered "House and Drinking Habit"). For N-638, the host says she is "definitely not saying this name right" ("Gosh Farani", "Gosh Fani", "Farhani", "Verahani", "Verhani"). The node is named Golshifteh Farahani, the exiled Iranian actress whose name these spellings appear to render; the integrator should verify this. "Ike Cromoter" (21:13), named as someone whose "guy" Gor is, could not be matched and was not minted.
+- **New-person spellings**: "Ryan Rippeon" and "Gustav Anderly" are kept as spoken; real spellings are unverified. N-624 is named Jessica Reed Kraus (transcript "Jessica Reed Krauss", handle rendered "House and Drinking Habit"). For N-638, the host says she is "definitely not saying this name right" ("Gosh Farani", "Gosh Fani", "Farhani", "Verahani", "Verhani"). The node is named Golshifteh Farahani, the exiled Iranian actress whose name these spellings appear to render; the integrator should verify this. "Ike Cromoter" (21:13), named as someone whose "guy" Gor is, could not be matched and was not minted.
 - **Transcription ambiguities**: "rescend" / "resend" for rescind, and "plat platforms", are kept as written. "Breijit / Breijgit / Breit Mcronone" (Brigitte Macron), "Emanuel Mcronone", "capta" (CAPTCHA) and "Vavlla" (favela) are kept as written. The host says Strife "he's not just the CEO" (20:14) but elsewhere calls him COO; COO is used.
 - **Possible cross-episode links left out**: C-4064 was not linked to C-2791 (Washington Post: Secret Service fired at the WHCD suspect), because the host says the agents fired "at one another", a different proposition. C-4097–C-4099 were not linked to C-2901/C-2552 (Nick Shirley's own infiltration claims), because they concern teacher praise, not the infiltration. C-4081–C-4083 were not linked to C-2114 (Buckmans' $10 million gift), which is a different proposition.
 - **Not inscribed as claims (admission test)**: Several statements were not inscribed:

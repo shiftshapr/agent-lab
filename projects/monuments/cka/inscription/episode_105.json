@@ -755,7 +755,7 @@
       "@type": "Person",
       "@id": "N-635",
       "ref": "N-635",
-      "name": "Ryan Ripian",
+      "name": "Ryan Rippeon",
       "type": "person",
       "description": "First named by the host at 00:10:20 in episode 105. Described as commander of naval communications and a recipient of the email.",
       "related_artifacts": [
@@ -1165,7 +1165,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10899",
       "ref": "N-10899",
-      "name": "Paramount Tactical Valhalla",
+      "name": "Paramount Tactical",
       "type": "investigation_target",
       "description": "Account whose host showed and then disowned the relevance of the Fort Huachuca alibi photo.",
       "related_artifacts": [
@@ -1760,8 +1760,8 @@
       "@type": "Claim",
       "@id": "C-4126",
       "ref": "C-4126",
-      "label": "Gustav Anderly and Ryan Ripian, military communications staff, were on the email",
-      "claim": "The host says Gustav Anderly, a WHCA information systems manager, and Ryan Ripian, commander of naval communications, were recipients of the email.",
+      "label": "Gustav Anderly and Ryan Rippeon, military communications staff, were on the email",
+      "claim": "The host says Gustav Anderly, a WHCA information systems manager, and Ryan Rippeon, commander of naval communications, were recipients of the email.",
       "anchored_artifacts": [
         "A-2581.2"
       ],

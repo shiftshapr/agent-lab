@@ -33,27 +33,35 @@ Fills the 19 CKA episodes whose drafts had empty registers: seq 84, 95, 100, 101
 
 Claim density averages about 56 per episode, against about 20 in earlier waves. Every claim has a verbatim snippet.
 
-## Needs human review
+## Needs your ear (open after web checks)
 
-**Possible wrong identity**
-- **"Jessica Garza"** (ep103): the host's hedged name for an Aurora victim who had survived a Toronto shooting. The public record has **Jessica Ghawi (Redfield)**. Kept as spoken; verify.
-- **Golshifteh Farahani** (ep104): inferred from the host's mispronunciations.
-- **"Kayla Robinson"** (ep100, Daily Wire interim CEO): may be Caleb Robinson.
-- **"Ed Galvin"** (ep108): may be Ed Gallrein.
-- **Eliza McCoy (N-221):** mapped from "Elizabeth McCord" in ep84 and from "Elizabeth Kravchuk" in ep118.
+Each row has the node, why it is open, what the transcript says, and a link to the spoken moment.
 
-**Unverified spellings (kept as the transcript has them)**
-- Sergeant Dupey; "Jamie" (pilot); Ryan Ripian; Gustav Anderly; Richard Smaly; Michaela Mott; Father Klein.
-- Shawn Chenowith; Raphael Schriber; Gabrielle Kuchta; James Katis; Vance Voytberg; "Auto Buscher".
-- Curtis Kolvet (surname from "Kolvet's brother"); Courtney Thief; Chris Ley; Robert Golow; John Bray; Desmond Holly; Matthew Silverstone; Mark A. Liti.
+| Node | Name as transcribed | Why open | Transcript says | Watch |
+|---|---|---|---|---|
+| N-609 | Sergeant Dupey | Sound-alike only: possibly Sgt. Nick Dupaix (Provo PD spokesperson); no source ties him to this call. | "Uh myself and Sergeant Dupey are uh in route to Provo Airport. Uh victim's wife is arriving at 3:30." (ep84 00:02:15) | [clip](https://youtu.be/DEtFh2Ff-58?t=135) |
+| N-610 | Jamie (Charlie Kirk's pilot) | No public source names the pilot. | "I know that his first name is Jamie, but that's all I know. I think he might be from Texas and I would like to know more about Jamie." (ep84 00:11:05) | [clip](https://youtu.be/DEtFh2Ff-58?t=665) |
+| N-636 | Gustav Anderly | Recipient on the disputed WHMO email as read by the host; no public record. | "Uh Steven Cheung was copied on the email. Um, Ryan Ripian was copied on the email and gentleman named Gustav Anderly was copied on the email." (ep104 00:04:55) | [clip](https://youtu.be/7FS1tUeSfdE?t=295) |
+| N-640 | Richard Smaly | Same email; no public record (only an unrelated chemist). | "We covered some of this yesterday with Steven Chong who is the White House communications director. Richard Smaly who is the communications officer" (ep105 00:10:20) | [clip](https://youtu.be/Pb7UlpRdW6U?t=620) |
+| N-641 | Michaela Mott | Same email; ep112 reads a fuller "Michaela Mott Marzuka"; no record. | "They also have someone named Michaela Mott who was on this email also Navy." (ep105 00:11:19) | [clip](https://youtu.be/Pb7UlpRdW6U?t=679) |
+| N-615 | Father Klein | Weak lead: Fr. Don Kline, St. Bernadette, Scottsdale (Kirk spoke of him); not confirmed as the person meant. | "Dinner that night together, which I am aware of because it was with Father Klein." (ep100 00:21:38) | [clip](https://youtu.be/k1b1NDCrNFs?t=1298) |
+| N-704 | Curtis Kolvet | Only source is the host ("Andrew Kolvet's brother Curtis"). | "Andrew Corbett's brother, Curtis, is currently stationed in Romania as a lieutenant colonel." (ep117 00:24:24) | [clip](https://youtu.be/G3zdOeHpvS0?t=1464) |
+| N-693 | Courtney Thief | Transcript reads "Courtney Thief, who was a former ATF agent"; no match found. | "Allegedly, Mark A. Ley had confessed to his longtime high school friend just a week before he died um that he had illegally taken some explosives from his job." (ep115 00:08:45) | [clip](https://youtu.be/5NQyGuRYbU8?t=525) |
+| N-716 | Robert Golow | Private AV worker the host asks for tips on; no match. | "He was brought on, I am told, of course after I stopped touring with Charlie, when they started doing the redundancy of the microphone in 2024. He's actually fr" (ep119 00:11:31) | [clip](https://youtu.be/VMNWMXX1vO8?t=691) |
+| N-690 | Jonathan Barcelo | Named on the host's Long Beach flight list; no public record. | "This July 14th date, Erika travels aboard a private flight to Long Beach, California. She's got Katherine Loccastro." (ep114 00:19:42) | [clip](https://youtu.be/WoXd4oLwd3w?t=1182) |
+| N-696 | Don Porter | Tied to Corey Comperatore by the host only; no record. | "It was Corey Comparators a friend who refused to let the circumstances go regarding the Butler assassination. He's actually the one that reached out to me and p" (ep116 00:02:16) | [clip](https://youtu.be/h76ZN-xXC6c?t=136) |
+| N-699 | Dan Merrill | Likely "Dan Merrell" (single partisan source); confirm in clip. | "just a few days later, they had sent another government team to go in and to dig out all of the soil. 8 to 10 in of soil." (ep117 00:06:08) | [clip](https://youtu.be/G3zdOeHpvS0?t=368) |
+| N-660 | Natalie Jean Beisner | Actress-commentator Natalie Beisner fits; middle name "Jean" unconfirmed; tweet not found. | "So, Natalie Jean Beisner tweeted this. Candace's daughter is going to grow up to be a mega Or in prison or both." (ep109 00:31:07) | [clip](https://youtu.be/BxN2-aeMYIs?t=1867) |
 
-**Modelling questions**
-- **Gary Melton (new person) vs N-10899 "Paramount Tactical Valhalla":** C-2907 treats Paramount Tactical and Valhalla as separate entities, so the node may need splitting.
-- **New Dhillon Law Group and Show Faith by Works LLC org nodes** sit next to the existing topic N-10652. Consider Ties edges.
+## Resolved since the first push
+- **Name checks:** web searches confirmed or corrected 14 names. They are renamed, with the transcribed spelling kept as an alias, and listed in `name_verification.csv` with sources. Examples: Ed Gallrein (was Ed Galvin), Caleb Robinson (was "Kayla Robinson"), Jessica Ghawi (was "Jessica Garza"), Gabrielle Cuccia, Raphael Schreiber, Shawn Chenoweth, Vance Voetberg, Mark and Chris Liti, Delmer Martinez, James Kaddis (likely), Jon Bray (likely), Otto Busher (likely) and Ryan Rippeon (likely).
+- **Caleb Robinson** is first named in ep90 (C-2688), so his introduction moved there, with a Mentions link on C-2688.
+- **Paramount Tactical split (Daveed):** N-10899 is now **Paramount Tactical**, Gary Melton's channel. The old label "Paramount Tactical Valhalla" is kept as an alias.
+  - New org **N-11001 Valhalla VFT**, a separate YouTuber. The ep51 transcript says "Paramount Tactical account in Valhalla", ep97 "Paramount Tactical and the Valhalla guy", and ep100 "You had Valhalla".
+  - Valhalla is linked on C-2001 and A-1576.2 (ep51) and on C-3887 and C-3889 (ep100).
+  - **Gary Melton (N-628)** is now linked as a person on C-3909 and C-3912 (ep100: "Andrew messaged Gary, that's Paramount Tactical"), and his introduction moved to ep100.
+  - Merged claim text that says "Paramount Tactical Valhalla" (ep51) stays as aired.
 
-**Links not yet added (follow-up pass)**
-- Links between episodes in this batch (agents could only link to already-indexed claims). For example, ep106's host concession that the Military Office may not have sent the WHCD email should Qualify the ep104/105 email claims. In ep118, the host's two on-air self-corrections are recorded as claims without Revises links.
-- Links to later episodes (for example the ep117 CPR claims against C-2968+). These are left for Wave 4 date work.
-
-**Companion**
-- Same-host `Supports:` maps to `isCorroboratedBy`, which BRC-222 defines as independent. That raised corroboration edges from 9 to 114; it is to be fixed in the companion mapping.
+## Still to do
+- Add links between episodes in this batch (e.g. ep106's concession should Qualify the ep104/105 email claims, plus the ep118 self-corrections), and links to later episodes in Wave 4.
+- Companion: same-host `Supports:` maps to `isCorroboratedBy` (9 → 114 edges); fix in the companion mapping.

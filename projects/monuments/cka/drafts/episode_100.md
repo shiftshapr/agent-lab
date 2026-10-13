@@ -12,10 +12,11 @@
 - **Model Version**: claude-manual-extract-seq100
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (skeleton-gary): N-628
   - Hole-minted Nodes (reintro-ep100): N-10681, N-10689, N-10768
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-614, N-615, N-616, N-617, N-618, N-619, N-10909, N-10910, N-10911, N-10912
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-15, N-22, N-30, N-60, N-97, N-162, N-166, N-215, N-225, N-229, N-234, N-272, N-276, N-337, N-369, N-374, N-384, N-10000, N-10126, N-10238, N-10367, N-10373, N-10375, N-10378, N-10385, N-10416, N-10417, N-10437, N-10449, N-10450, N-10472, N-10631, N-10643, N-10651, N-10898, N-10899, N-10900
+  - Tip-minted Nodes (skeleton): N-614, N-615, N-616, N-618, N-619, N-10909, N-10910, N-10911, N-10912
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-15, N-22, N-30, N-60, N-97, N-162, N-166, N-215, N-225, N-229, N-234, N-272, N-276, N-337, N-369, N-374, N-384, N-10000, N-10126, N-10238, N-10367, N-10373, N-10375, N-10378, N-10385, N-10416, N-10417, N-10437, N-10449, N-10450, N-10472, N-10631, N-10643, N-10651, N-10898, N-10899, N-10900, N-11001, N-617
   - Claim Range: C-3884–C-3948
   - (see registers)
 
@@ -421,7 +422,7 @@ First named by the host at 00:28:52 in episode 100. The host alleges he received
 
 *Related: C-3916*
 
-**N-617** Kayla Robinson (Daily Wire interim CEO)
+**N-617** Caleb Robinson
 
 First named by the host at 00:37:43 in episode 100. Named as the Daily Wire's interim CEO who traveled to London with George Farmer to meet investors (transcript spelling; see Optional Flags).
 
@@ -565,7 +566,24 @@ The host says it was pitched the George Farmer report in 2024 and declined.
 
 *Related: C-3927, C-3928*
 
-**N-10899** Paramount Tactical Valhalla
+**N-11001** Valhalla VFT
+
+Node Type: Organization
+Military-commentary YouTube channel ("the Valhalla guy"), distinct from Gary Melton's Paramount Tactical; the host groups the two among the military YouTubers who warned her off Mitch Snow (ep100).
+
+*Related: C-3887, C-3889*
+
+---
+
+**N-628** Gary Melton
+
+Runs the Paramount Tactical YouTube channel (N-10899); named by first name in episode 100 ("Andrew messaged Gary, that's Paramount Tactical").
+
+*Related: C-3909, C-3912*
+
+---
+
+**N-10899** Paramount Tactical
 
 The military YouTubers who attacked Mitch Snow and read Kolvet's alibi texts on air; their host Gary is named.
 
@@ -661,7 +679,7 @@ Transcript Snippet: First and foremost, that Mitch was never at Fort Huachuca, t
 
 Anchored Artifacts:
 Mentions: N-369, N-384
-Related Nodes: N-10899, N-10375
+Related Nodes: N-10899, N-10375, N-11001
 Investigative Direction: Archive the Paramount Tactical / Valhalla streams and posts from that period, and compare them with Mitch Snow's military service records (DD-214) and Fort Huachuca base-access logs.
 
 ---
@@ -692,7 +710,7 @@ Transcript Snippet: Uh but of course did what they asked, delivered his warrant 
 
 Anchored Artifacts:
 Mentions: N-384, N-3
-Related Nodes: N-10899
+Related Nodes: N-10899, N-11001
 Investigative Direction: Obtain Ian Carroll's messages to the host from that period and any communications between him and the Paramount Tactical / Valhalla hosts.
 
 ---
@@ -994,7 +1012,7 @@ Claim: The host says Andrew Kolvet messaged Gary of Paramount Tactical that Erik
 Transcript Snippet: Andrew messaged Gary, that's Paramount Tactical, saying that Erika was with Charlie on the 9th at the office all day.
 
 Anchored Artifacts: A-2549.2
-Mentions: N-14, N-2, N-1
+Mentions: N-14, N-2, N-1, N-628
 Related Nodes: N-10899, N-10472
 Investigative Direction: Obtain Kolvet's messages to the Paramount Tactical host and TPUSA office access logs for September 9, 2025.
 
@@ -1038,7 +1056,7 @@ Claim: The host says Gary of Paramount Tactical confirmed to her that Andrew Kol
 Transcript Snippet: Gary has confirmed to me that Andrew's messages are related to Erika's schedule on the 9th and not the 8th.
 
 Anchored Artifacts: A-2549.2
-Mentions: N-14, N-2
+Mentions: N-14, N-2, N-628
 Related Nodes: N-10899, N-10472
 Investigative Direction: Obtain the Paramount Tactical host's statement and the dated Kolvet messages.
 
@@ -1228,7 +1246,7 @@ Investigative Direction: Confirm the dates of Boreing's leave as CEO and of the 
 
 Claim Timestamp: 00:37:43
 
-Claim: The host says her husband traveled to London with the Daily Wire's interim CEO, whom the transcript names as "Kayla Robinson," and introduced the company to his and his father's circle of investors.
+Claim: The host says her husband traveled to London with the Daily Wire's interim CEO, whom the transcript names as "Caleb Robinson," and introduced the company to his and his father's circle of investors.
 
 Transcript Snippet: They went to London, him and the co-CEO or the just the CEO at that time, the interim full CEO. Kayla Robinson, George introduced them to all of his circle of investor friends
 
@@ -1771,7 +1789,7 @@ Confidence: high
 - **Artifacts verbally referenced but not shown**: A-2544.1 (preservation orders and the lawyers' email requesting Ian Carroll's address), A-2544.2 (the preservation order served on Bednarz), A-2547.1 (the earlier tips-email request) and A-2554.1 (the Zachary Lewis case details the host says she posted on X). The Harpole complaint itself is described but not shown in this episode.
 - **DIA beat**: the only keyword hit is the recalled request "please send it to us tips@kcsun. com" (00:11:02). It was treated as a DIA beat (C-3896, A-2547.1, M-12), although it is a retrospective account of an earlier call for footage rather than a new request. The address is kept as transcribed and is likely a caption error for the show's tips address. The "interesting lead today about Blake Bednarz" (01:06:06) is a tip received but matched no keyword; it is recorded as C-3948 without an M-12 occurrence. M-14 does not air.
 - **Name matching**: Harpole is transcribed as "Bryan Harsin" (00:00:01, 00:01:19), "Brian Hopple", "Bryant Harpole", "Brett Harrelson", "Brian Hurlbut", "Brian Harpool" and "Brian Harp"; all are mapped to N-272 from context. "Barron"/"Baron Cohen" is mapped to N-337 Baron Coleman, and "Andrew Colvin" (comments) to N-14. "Blake Bendaris" and "Blake Bednarz" are treated as the same new person, N-614 Douglas Blake Bednarz. "Dylan Law Group" is minted as N-10910 Dhillon Law Group; the integrator should reconcile it with the existing topic "Dhillon Law Group / Show Faith by Works Connection".
-- **Uncertain identities**: "Kayla Robinson" (N-617), the Daily Wire interim CEO, is kept in the transcript spelling and is likely Caleb Robinson; the integrator should verify. "Father Klein" (N-615) could not be matched to any existing node. "Gary" of Paramount Tactical is folded into N-10899 rather than minted, because only his first name is given (the existing Gary Ham node is a different person, a pastor). "Mark Meadows, the Secretary of Homeland Security" (C-3932) is kept as transcribed; the name is likely wrong and no person node was minted. "Matt Saracens" (00:52:31, named as someone who could speak to Loomer for Boreing) is unmatched; it may be Matt Slauson, who appears in prior claim C-2850. It is not inscribed.
+- **Uncertain identities**: "Caleb Robinson" (N-617), the Daily Wire interim CEO, is kept in the transcript spelling and is likely Caleb Robinson; the integrator should verify. "Father Klein" (N-615) could not be matched to any existing node. "Gary" of Paramount Tactical is folded into N-10899 rather than minted, because only his first name is given (the existing Gary Ham node is a different person, a pastor). "Mark Meadows, the Secretary of Homeland Security" (C-3932) is kept as transcribed; the name is likely wrong and no person node was minted. "Matt Saracens" (00:52:31, named as someone who could speak to Loomer for Boreing) is unmatched; it may be Matt Slauson, who appears in prior claim C-2850. It is not inscribed.
 - **Internal inconsistency**: Coleman's clip says Bednarz "is not listed in this lawsuit" (00:07:17), but at 00:11:02 the host says "They're listing him in the lawsuit." This may mean the complaint shows his material without naming him as a defendant; it is preserved as spoken.
 - **Defamation safety**: Bednarz's accusations against Harpole (C-3891, C-3894), the YouTuber's allegations about Mitch Snow's past (C-3901), the George Farmer arrest allegations (C-3920, C-3921, C-3930) and the Zachary Lewis charges (C-3936 to C-3940; not convicted) are all attributed and none is stated as fact.
 - **Not inscribed as claims (admission test)**: The following were excluded as characterizations, opinions or rhetoric:

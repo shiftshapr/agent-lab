@@ -1282,9 +1282,9 @@
       "@type": "Person",
       "@id": "N-703",
       "ref": "N-703",
-      "name": "Auto Buscher",
+      "name": "Otto Busher",
       "type": "person",
-      "description": "First named by the host at 00:18:27 in episode 117. Transcript spelling \"Colonel Auto Buscher\"; a US military colonel the host says partnered with Erika Kirk's Romanian Angels and was accused online of trafficking. The correct spelling is unverified.",
+      "description": "First named by the host at 00:18:27 in episode 117. Transcript spelling \"Colonel Otto Busher\"; a US military colonel the host says partnered with Erika Kirk's Romanian Angels and was accused online of trafficking. The correct spelling is unverified.",
       "related_artifacts": [],
       "related_claims": [
         "C-4682",
@@ -2032,7 +2032,7 @@
       "ref": "N-10990",
       "name": "Black Sea Rotational Force",
       "type": "organization",
-      "description": "US Marine rotational force the host says set up a base in Romania in 2010 that was later accused of trafficking and prostituting children. She ties it to Erika Kirk's Romanian Angels partnership with Colonel \"Auto Buscher.\"",
+      "description": "US Marine rotational force the host says set up a base in Romania in 2010 that was later accused of trafficking and prostituting children. She ties it to Erika Kirk's Romanian Angels partnership with Colonel \"Otto Busher.\"",
       "related_artifacts": [],
       "related_claims": [
         "C-4681",
@@ -2736,7 +2736,7 @@
       "@id": "C-4682",
       "ref": "C-4682",
       "label": "Erika Kirk's Romanian Angels partnered with a colonel accused online of trafficking through the base",
-      "claim": "The host says Erika Kirk's Romanian Angels drew criticism online when people realized she was partnering with Colonel \"Auto Buscher,\" whom the host says was accused of setting up the base and trafficking children through it. This is presented as an accusation, not an established fact.",
+      "claim": "The host says Erika Kirk's Romanian Angels drew criticism online when people realized she was partnering with Colonel \"Otto Busher,\" whom the host says was accused of setting up the base and trafficking children through it. This is presented as an accusation, not an established fact.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10990",
@@ -2874,7 +2874,7 @@
       "@id": "C-4689",
       "ref": "C-4689",
       "label": "Erika Kirk began the Romanian Angels Project in late 2012 on a US Marine base",
-      "claim": "The host says that in late 2012 Erika Kirk began her Romanian Angels Project, working in some capacity with \"Auto Buscher\" and partnering with the US Marines on a Marine base.",
+      "claim": "The host says that in late 2012 Erika Kirk began her Romanian Angels Project, working in some capacity with \"Otto Busher\" and partnering with the US Marines on a Marine base.",
       "anchored_artifacts": [
         "A-2685.1"
       ],

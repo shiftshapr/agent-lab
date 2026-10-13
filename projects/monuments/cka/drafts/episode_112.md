@@ -25,7 +25,7 @@ The host then reads two follow-up emails (A-2630.1, A-2630.2) that she sent to J
 
 In the second segment the host plays Ivanka Trump on David Senra's podcast saying she and Jared Kushner found a 1,400-hectare Mediterranean island while swimming from a friend's boat (A-2632.1). The host identifies the island as Sazan Island off Albania and says the friend was Nat Rothschild. A news report (A-2633.1) describes a fourth day of protests in Tirana against the Affinity Partners resort project, Prime Minister Edi Rama's statement that the investment will not stop, and an investigation opened by Albania's anti-corruption agency. A Tim Dillon clip (A-2634.1) criticizes the Trump family as "Tsarists."
 
-In the final segments the host shows a US Weekly email (A-2635.1) giving her 24 hours to respond to a print story about Erika Kirk that quotes Tracy Martin and James Catis. She disputes Tracy Martin's claim that Charlie Kirk was scared to answer her calls and alleges that the byline is a non-existent journalist. She also comments on Ariana Grande's split from Ethan Slater. In the comments segment she criticizes Andrew Kolvet's association with Paramount Tactical and repeats her demand for a yes-or-no answer from Turning Point USA.
+In the final segments the host shows a US Weekly email (A-2635.1) giving her 24 hours to respond to a print story about Erika Kirk that quotes Tracy Martin and James Kaddis. She disputes Tracy Martin's claim that Charlie Kirk was scared to answer her calls and alleges that the byline is a non-existent journalist. She also comments on Ariana Grande's split from Ethan Slater. In the comments segment she criticizes Andrew Kolvet's association with Paramount Tactical and repeats her demand for a yes-or-no answer from Turning Point USA.
 
 ## 3. Artifact Register
 
@@ -378,7 +378,7 @@ First named by the host at 00:39:21 in episode 112. Transcript spelling "Ed Rama
 
 *Related: C-4423, A-2633.1*
 
-**N-681** James Katis
+**N-681** James Kaddis
 
 First named by the host at 00:43:36 in episode 112. Transcript spelling kept. Described by the host as running the TPUSA faith department and as quoted in the US Weekly story.
 
@@ -468,7 +468,7 @@ Received the redirected FOIA request and replied that it was too burdensome; the
 
 *Related: C-4406, C-4407, C-4408, C-4409, C-4410, A-2631.1, A-2631.2, A-2631.3*
 
-**N-10899** Paramount Tactical Valhalla
+**N-10899** Paramount Tactical
 
 Transcript "Paramount Not So Tactical" / "Paramount Tactical". The host says the account accidentally exposed its use of ChatGPT and its place in an influencer network.
 
@@ -1169,18 +1169,18 @@ Investigative Direction: Obtain the full US Weekly email and compare with the pu
 
 ---
 
-**C-4427** The US Weekly story quotes Tracy Martin and James Catis
+**C-4427** The US Weekly story quotes Tracy Martin and James Kaddis
 
 Claim Timestamp: 00:43:36
 
-Claim: The host says the story quotes Erika Kirk's friends Tracy Martin and James Catis, who she says runs the TPUSA faith department, and calls her demonic.
+Claim: The host says the story quotes Erika Kirk's friends Tracy Martin and James Kaddis, who she says runs the TPUSA faith department, and calls her demonic.
 
 Transcript Snippet: Tracy Martin, James Catis, who runs the faith department, the most despicable department at Turning Point USA.
 
 Anchored Artifacts: A-2635.1
 Mentions: N-557, N-681
 Related Nodes: N-10960
-Investigative Direction: Check the published US Weekly article for the named sources and confirm James Catis's TPUSA role.
+Investigative Direction: Check the published US Weekly article for the named sources and confirm James Kaddis's TPUSA role.
 
 ---
 
@@ -1494,7 +1494,7 @@ Confidence: high
 - **A-2629.1**: the heckling clip at 07:05 is untranscribed apart from "Hey, come over here." Its content is inferred from the host's lead-in, so confidence is Low.
 - **Duration**: the skeleton gave 00:56:29; the transcript front matter gives 58:30, which is used here.
 - **Existing meme occurrence**: the skeleton's M-41 occurrence (stamped 00:46:24) is kept verbatim. The quoted words appear in the [44:57] paragraph.
-- **Name matching**: "Dana Lash" is taken to be Dana Loesch (N-673; no node in nodes.tsv). "Andrew Kovette/Kovett" is matched to N-14, "Greg Lori" to N-461 Greg Laurie, "Blake Nef" to N-162, "Bradley Hansel" to N-443, "Pete Hegsath" to N-605, "Tim Dylan" to N-283 and "Barry Weiss" to N-284. "Richard Smallley" and "Michaela Mott Marzuka" use the staging titles Richard Smaly and Michaela Mott from episode 105, and Gustav Anderly and Graham Allen also reuse staging titles. "Saison Island" is taken to be Sazan Island, "Nathan Rothschild" Nat Rothschild and "Ed Rama" Edi Rama. "James Catis" is kept as spelled, since the TPUSA faith-department figure could not be confidently matched. "Paul Leva" is the alleged fake byline and gets no node. "Ed Gowin not even running in Kentucky" (22:34) is unclear (possibly Ed Gallrein) and gets no node.
+- **Name matching**: "Dana Lash" is taken to be Dana Loesch (N-673; no node in nodes.tsv). "Andrew Kovette/Kovett" is matched to N-14, "Greg Lori" to N-461 Greg Laurie, "Blake Nef" to N-162, "Bradley Hansel" to N-443, "Pete Hegsath" to N-605, "Tim Dylan" to N-283 and "Barry Weiss" to N-284. "Richard Smallley" and "Michaela Mott Marzuka" use the staging titles Richard Smaly and Michaela Mott from episode 105, and Gustav Anderly and Graham Allen also reuse staging titles. "Saison Island" is taken to be Sazan Island, "Nathan Rothschild" Nat Rothschild and "Ed Rama" Edi Rama. "James Kaddis" is kept as spelled, since the TPUSA faith-department figure could not be confidently matched. "Paul Leva" is the alleged fake byline and gets no node. "Ed Gowin not even running in Kentucky" (22:34) is unclear (possibly Ed Gallrein) and gets no node.
 - **Topic reuse**: two staging titles exist for the WHCD email (episode 104 "White House Military Office 'I Want to Go Home' Amplification Email" and episode 105 "White House Military Office Erika Kirk Amplification Email"). N-10923 uses the episode 105 title, and the integrator should merge the two. M-95 reuses the staging meme title "Emotional Response Asset", and M-92 reuses "Paramount Not So Tactical".
 - **Cross-episode link**: C-4403 Supports C-2888 (episode 102, donors assert the "I appoint my wife" clip was faked). Episode 102 places the donors at Aspen, while this episode refers to "your WLS event" and a later donor dinner, so the venue mapping is uncertain. C-2982 (episode 122, pending FOIA requests including NSA) is later and is not linked. The JD Vance "empty crowd" claim (C-4390) may relate to the existing topic "TPUSA UGA Event Crowd-Size Failure", but the event is not named, so it is not linked.
 - **Not inscribed as claims (admission test)**:

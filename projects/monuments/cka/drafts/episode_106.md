@@ -23,7 +23,7 @@ The host opens by confirming that the circulating trailer is real: she has inter
 
 The host then frames Erika Kirk's rise as "the COVID vaccine" – an institutionally backed rollout whose critics are pathologized – and shows vaccine-incentive headlines and a "dark triad" vaccination study (A-2591). On the Aspen video, she restates that Erika Kirk told Megyn Kelly about a video of Charlie Kirk naming her CEO. She says sources with direct knowledge told her Charlie only said he trusted his lieutenants, which she argues would imply the CEO line was added with AI. After 46 days of requests, she says, Turning Point USA screened the footage privately for the Daily Mail. She reads from Charlie Spearing's paywalled article (A-2593): an anonymous board member's account of the couple's estate planning, the paper's "exclusive access," and TPUSA's donor-privacy reason for not releasing the video. She also says an insider told her Erika inherited about $10 million under Charlie's will, and that TPUSA met with a Hollywood AI company that makes posthumous videos. She shows reaction posts and her exchange with Blake Neff (A-2594).
 
-In the third segment, which the host calls "operation warp widow," she returns to her report of an email sent about an hour after the White House Correspondents' Dinner shooting. According to the host, it sought to boost Erika Kirk's "I want to go home" clip and called her an "emotional asset." Axios reporter Mark Caputo posted a White House Military Office denial (A-2595.1), which Graham Allen, Andrew Kolvet and Blake Neff promoted (A-2595.2). The host says her producer received the identical denial within four and a half minutes. She concedes the Military Office may not have sent the email, but says it was sent and received through a distribution list. She says the White House has not answered her follow-up asking whether an April 25 email copied to Steven Cheung, Richard Smalley and Ryan Rippien exists (A-2595.4).
+In the third segment, which the host calls "operation warp widow," she returns to her report of an email sent about an hour after the White House Correspondents' Dinner shooting. According to the host, it sought to boost Erika Kirk's "I want to go home" clip and called her an "emotional asset." Axios reporter Mark Caputo posted a White House Military Office denial (A-2595.1), which Graham Allen, Andrew Kolvet and Blake Neff promoted (A-2595.2). The host says her producer received the identical denial within four and a half minutes. She concedes the Military Office may not have sent the email, but says it was sent and received through a distribution list. She says the White House has not answered her follow-up asking whether an April 25 email copied to Steven Cheung, Richard Smalley and Ryan Rippeon exists (A-2595.4).
 
 The host then airs Department of Defense payment records (A-2596.1) showing, she says, that Paramount Tactical, run by Gary Melton, received $39,000 on September 24, 2025 and $151,000 for night vision equipment on September 29, 2025. She notes that he does not make his own gear, and also recalls a DoD contract to the father of "decoy boy number two." The episode closes with a young fan's Ben Shapiro horse video and viewer comments, during which the host says she is done voting until the assassination is solved.
 
@@ -404,7 +404,7 @@ First named by the host at 00:35:13 in episode 106. Named in the host's follow-u
 
 *Related: C-4199, C-4202, A-2595.4*
 
-**N-635** Ryan Ripian
+**N-635** Ryan Rippeon
 
 First named by the host at 00:35:13 in episode 106. Named in the host's follow-up as copied on the April 25 email; the host copied him on her second email. Aliases: Ryan Rippey.
 
@@ -470,7 +470,7 @@ Referred to as the Department of Defense; source of the September 2025 payments 
 
 *Related: C-4203, C-4206, C-4207, C-4208, A-2596.1*
 
-**N-10899** Paramount Tactical Valhalla
+**N-10899** Paramount Tactical
 
 Referred to as "Paramount Tactical" and "Paramount, not so tactical"; the host calls it TPUSA's leading online defender of Erika Kirk and a recipient of DoD payments.
 
@@ -507,7 +507,7 @@ Investigation target: the host's report that TPUSA met with a Hollywood AI compa
 **N-10923** White House Military Office Erika Kirk Amplification Email
 
 Node Type: Topic
-Investigation target: the email the host says went out about an hour after the White House Correspondents' Dinner shooting. According to the host, it asked that Erika Kirk's "I want to go home" clip be boosted through White House surrogates and called her an "emotional asset," and it was sent on April 25 via a distribution list with Steven Cheung, Richard Smalley and Ryan Rippien copied.
+Investigation target: the email the host says went out about an hour after the White House Correspondents' Dinner shooting. According to the host, it asked that Erika Kirk's "I want to go home" clip be boosted through White House surrogates and called her an "emotional asset," and it was sent on April 25 via a distribution list with Steven Cheung, Richard Smalley and Ryan Rippeon copied.
 
 *Related: C-4192, C-4193, C-4194, C-4195, C-4196, C-4197, C-4198, C-4199, C-4200, C-4201, C-4202, A-2595.4, N-10637*
 
@@ -1058,14 +1058,14 @@ Investigative Direction: Identify the distribution list in the original email he
 
 Claim Timestamp: 00:35:13
 
-Claim: The host reads her follow-up email asking the White House whether it claims no email was sent or received on the evening of April 25 with Steven Cheung, Richard Smalley and Ryan Rippien copied, quoting the "Addendum Erika Kirk video clip" language.
+Claim: The host reads her follow-up email asking the White House whether it claims no email was sent or received on the evening of April 25 with Steven Cheung, Richard Smalley and Ryan Rippeon copied, quoting the "Addendum Erika Kirk video clip" language.
 
 Transcript Snippet: are you claiming that an email was not sent or received at all on the evening of April 25th with Steven Cheung, Richard Smalley, and Ryan Rippien carbon copied with the below language in part
 
 Anchored Artifacts: A-2595.4
 Mentions: N-3, N-163, N-640, N-635, N-2
 Related Nodes: N-10923, N-10075
-Investigative Direction: Ask Steven Cheung, Richard Smalley and Ryan Rippien directly whether they received the April 25 email.
+Investigative Direction: Ask Steven Cheung, Richard Smalley and Ryan Rippeon directly whether they received the April 25 email.
 
 ---
 
@@ -1426,7 +1426,7 @@ Confidence: high
 
 - **DIA beats**: no hits for any DIA trigger phrase (tips, tip line, candaceowens.com, send us an email, decentralized intelligence, DCIA, bounty) in this transcript, so no M-12 or M-14 occurrence was added.
 - **Artifacts verbally referenced but not shown**: the original WHCD email and the host's retyped post of it; Erika Kirk's first Charlie Kirk Show appearance (C-4187); Paramount Tactical's website (C-4207); the Built contract records (C-4208). The Megyn Kelly interview (A-2592.1) appears to be on screen ("look at the tears in her eye"), but the exact clip is unclear, hence Medium confidence.
-- **Name matching**: "Bryan Hubble" (37:55) is matched to N-272 Brian Harpole from context: the person who gave an interview to Paramount Tactical, in line with C-2906/C-2907. "Andrew Kolbatz"/"Andrew Kolb" map to N-14, and "Laky Neff"/"Blakey fake and F" map to N-162 Blake Neff. "Eric and Kirk" (33:08) is read as Erika Kirk. "Ryan Rippien" (35:13) and "Ryan Rippey" (36:27) are treated as one new person, N-635, with spelling unverified. "Gary" and "Gary Melton" are treated as the Paramount Tactical operator (N-628). Paramount Tactical is mapped to the existing organization N-10899 "Paramount Tactical Valhalla". Prior claim C-2907 names Paramount Tactical and Valhalla separately, so the integrator should confirm this node covers Paramount Tactical itself.
+- **Name matching**: "Bryan Hubble" (37:55) is matched to N-272 Brian Harpole from context: the person who gave an interview to Paramount Tactical, in line with C-2906/C-2907. "Andrew Kolbatz"/"Andrew Kolb" map to N-14, and "Laky Neff"/"Blakey fake and F" map to N-162 Blake Neff. "Eric and Kirk" (33:08) is read as Erika Kirk. "Ryan Rippeon" (35:13) and "Ryan Rippey" (36:27) are treated as one new person, N-635, with spelling unverified. "Gary" and "Gary Melton" are treated as the Paramount Tactical operator (N-628). Paramount Tactical is mapped to the existing organization N-10899 "Paramount Tactical Valhalla". Prior claim C-2907 names Paramount Tactical and Valhalla separately, so the integrator should confirm this node covers Paramount Tactical itself.
 - **Decoy boy number two**: the host does not name him or his father; C-4208 links to N-10577/N-10578 and Supports C-2632 (Built Inc. Air Force/Navy awards) on the shared proposition. Mentions of Ahmed Qureshi were left out because he is not named on air.
 - **Transcription ambiguities**: "Brigitte doll" (00:00:01, 03:44) is kept as spoken and not matched to any node. "pointing her ICO" (48:43) is presumably "appointing her CEO". "Hollywood companies that specialize in IA" is kept as spoken. "Phil Turney" is named only as the host's top-ranked interview, so no claim cites him.
 - **Cross-episode links left out**: the WHCD email story itself was first broken in an earlier episode ("last week"), but no matching claim appears in claims_index.tsv (episodes 103–105 have no indexed claims), so C-4192/C-4193 carry no Supports link. C-4198 (the Military Office may not have sent the email) may qualify the host's earlier attribution; it is left unlinked for the same reason. C-4175 (TPUSA released the audio) relates to C-2889 but is not the same proposition.

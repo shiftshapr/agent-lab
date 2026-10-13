@@ -951,7 +951,7 @@
       "@type": "Person",
       "@id": "N-652",
       "ref": "N-652",
-      "name": "Ed Galvin",
+      "name": "Ed Gallrein",
       "type": "person",
       "description": "First named by the host at 00:52:19 in episode 108. Named in the comments as a candidate the host calls embarrassing, with no crowd at his victory party. Kept in the transcript spelling (see Optional Flags).",
       "related_artifacts": [],
@@ -1353,7 +1353,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10899",
       "ref": "N-10899",
-      "name": "Paramount Tactical Valhalla",
+      "name": "Paramount Tactical",
       "type": "investigation_target",
       "description": "Called \"Paramount not so tactical\" by the host; she says she sent it a preservation letter and names it as part of the media and influencer orbit.",
       "related_artifacts": [
@@ -1374,7 +1374,7 @@
       "ref": "N-10916",
       "name": "Thomas Massie Kentucky Primary Outside Spending",
       "type": "topic",
-      "description": "Thomas Massie's Kentucky primary loss, which the host frames as an attempt to buy an outcome with money; it connects to her comments on the candidate she calls \"Ed Galvin.\"",
+      "description": "Thomas Massie's Kentucky primary loss, which the host frames as an attempt to buy an outcome with money; it connects to her comments on the candidate she calls \"Ed Gallrein.\"",
       "related_artifacts": [],
       "related_claims": [
         "C-4213",
@@ -2551,8 +2551,8 @@
       "@type": "Claim",
       "@id": "C-4266",
       "ref": "C-4266",
-      "label": "Ed Galvin had no crowd at his victory party",
-      "claim": "The host says the candidate she calls Ed Galvin had no crowd at his victory party and had the camera zoomed in on his face to hide it.",
+      "label": "Ed Gallrein had no crowd at his victory party",
+      "claim": "The host says the candidate she calls Ed Gallrein had no crowd at his victory party and had the camera zoomed in on his face to hide it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10916"

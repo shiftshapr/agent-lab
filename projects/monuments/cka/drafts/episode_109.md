@@ -25,9 +25,9 @@ The host opens by showing a Hollywood Reporter headline about Hunter Biden appea
 
 Returning to Fort Huachuca, the host restates Mitch Snow's account of seeing Brian Harpole leave a meeting on the morning of September 9, and Harpole's alibi that he flew from Texas to Salt Lake City at 2:30 p.m. She recaps the flight of an Air Force plane with the call sign SAM 702: it left Fort Huachuca at 11:43 a.m. that day, landed in El Paso at 1:31 p.m. and then flew to Andrews Air Force Base (A-2611.1). She rules out Pete Hegseth as a passenger because of his 3:00 p.m. Washington meeting with Singapore's Minister of Defense. She says nothing places Kash Patel on that date, and that she has filed a FOIA request about the flight. She also says Harpole's lawsuit and Brigitte Macron's lawsuit filing both contain verifiably false statements about her.
 
-The longest segment reads former Pentagon correspondent Gabrielle Kuchta's X thread on Vine & Fig Tree (VFT) (A-2612). According to the thread, VFT is a pro-Israel organization that met Sebastian Gorka at the White House. Kuchta writes that she was then asked, through a third party the host says Kuchta later names as the NSC's Shawn Chenowith, to write a script for an AI-generated video for the NSC and Gorka. She says a Dropbox of VFT reports profiled dissident-right accounts, the host among them, as susceptible to foreign influence. One report attributed distrust of the Charlie Kirk assassination narrative to Russian, Iranian and Pakistani propaganda and called it "an urgent national security threat." Internal comments floated using Matt Walsh or Michael Knowles and collaborating with NCRI. The host ties NCRI to an earlier report featuring her face that framed "Christ is King" as antisemitic.
+The longest segment reads former Pentagon correspondent Gabrielle Cuccia's X thread on Vine & Fig Tree (VFT) (A-2612). According to the thread, VFT is a pro-Israel organization that met Sebastian Gorka at the White House. Kuchta writes that she was then asked, through a third party the host says Kuchta later names as the NSC's Shawn Chenoweth, to write a script for an AI-generated video for the NSC and Gorka. She says a Dropbox of VFT reports profiled dissident-right accounts, the host among them, as susceptible to foreign influence. One report attributed distrust of the Charlie Kirk assassination narrative to Russian, Iranian and Pakistani propaganda and called it "an urgent national security threat." Internal comments floated using Matt Walsh or Michael Knowles and collaborating with NCRI. The host ties NCRI to an earlier report featuring her face that framed "Christ is King" as antisemitic.
 
-The host then addresses a tweet by Natalie Jean Beisner about her 3-year-old daughter (A-2613). She next criticizes Andrew Kolvet and Blake Neff for saying on The Charlie Kirk Show that Charlie Kirk had privately been frustrated with Thomas Massie (A-2614.1). Against this she sets a post by Massie's legislative director, Raphael Schriber, saying that Kolvet had phoned Massie's office on March 12, 2026 to apologize for a TPUSA video calling Massie a RINO (A-2614.2). She marks day 54 of her countdown asking TPUSA to release the alleged AI video of Charlie Kirk appointing Erika Kirk as CEO. In the comments segment she reads viewer notes on Erika Kirk and Victor Marx and on a leaker in Kanye West's circle (A-2615), and announces a week off air for a family trip to St. Petersburg.
+The host then addresses a tweet by Natalie Jean Beisner about her 3-year-old daughter (A-2613). She next criticizes Andrew Kolvet and Blake Neff for saying on The Charlie Kirk Show that Charlie Kirk had privately been frustrated with Thomas Massie (A-2614.1). Against this she sets a post by Massie's legislative director, Raphael Schreiber, saying that Kolvet had phoned Massie's office on March 12, 2026 to apologize for a TPUSA video calling Massie a RINO (A-2614.2). She marks day 54 of her countdown asking TPUSA to release the alleged AI video of Charlie Kirk appointing Erika Kirk as CEO. In the comments segment she reads viewer notes on Erika Kirk and Victor Marx and on a leaker in Kanye West's circle (A-2615), and announces a week off air for a family trip to St. Petersburg.
 
 ## 3. Artifact Register
 
@@ -94,9 +94,9 @@ Confidence Level: Low
 
 ---
 
-**A-2612** Gabrielle Kuchta Vine & Fig Tree Thread Bundle
+**A-2612** Gabrielle Cuccia Vine & Fig Tree Thread Bundle
 
-**A-2612.1** Gabrielle Kuchta's earlier statement on Pentagon press restrictions (read aloud)
+**A-2612.1** Gabrielle Cuccia's earlier statement on Pentagon press restrictions (read aloud)
 
 Quoted text: "Let's call this what it is. They are limiting freedom of movement in the name of national security."
 
@@ -107,7 +107,7 @@ Confidence Level: Medium
 
 *Related: C-4286, N-654, N-605*
 
-**A-2612.2** Gabrielle Kuchta's X thread on Vine & Fig Tree (read aloud)
+**A-2612.2** Gabrielle Cuccia's X thread on Vine & Fig Tree (read aloud)
 
 Quoted text: "There's a company called Vine and Fig Tree, VFT. VFT is a pro-Israel organization with ties to the administration. Earlier this year, VFT was at the White House meeting with Sebastian Gorka. Shortly after that White House meeting, I was contacted through a third party and asked to script write for VFT."
 
@@ -177,7 +177,7 @@ Confidence Level: High
 
 *Related: C-4312, N-14, N-162, N-593, N-1*
 
-**A-2614.2** Raphael Schriber's tweet to Andrew Kolvet (read aloud)
+**A-2614.2** Raphael Schreiber's tweet to Andrew Kolvet (read aloud)
 
 Quoted text: "Andrew Kolvet, didn't you call our office a few months ago on March 12th, 2026 to be exact, profusely apologizing for TPUSA posting a video of Thomas Massie labeling him a rhino that you blamed on some 20-year-old TPUSA intern that was excited about Jake Paul and that you would have never allowed it?"
 
@@ -272,7 +272,7 @@ The host refers to repeated assassination attempts on him and alleges insider tr
 
 **N-14** Andrew Kolvet
 
-Says on The Charlie Kirk Show that Charlie Kirk was privately frustrated with Thomas Massie. Raphael Schriber's tweet says he had apologized to Massie's office in March.
+Says on The Charlie Kirk Show that Charlie Kirk was privately frustrated with Thomas Massie. Raphael Schreiber's tweet says he had apologized to Massie's office in March.
 
 *Related: C-4311, C-4313, C-4314, A-2614.1, A-2614.2*
 
@@ -546,9 +546,9 @@ First named by the host at 00:02:27 in episode 109. The would-be assassin in the
 
 *Related: C-4268*
 
-**N-654** Gabrielle Kuchta
+**N-654** Gabrielle Cuccia
 
-First named by the host at 00:13:30 in episode 109. Former Pentagon chief correspondent ("Gabby") who published the X thread on Vine & Fig Tree. Aliases: Gabby Kuchta.
+First named by the host at 00:13:30 in episode 109. Former Pentagon chief correspondent ("Gabby") who published the X thread on Vine & Fig Tree. Aliases: Gabrielle Cuccia.
 
 *Related: C-4286, C-4287, C-4288, C-4289, C-4291, C-4301, C-4302, A-2612.1, A-2612.2, A-2612.3*
 
@@ -558,7 +558,7 @@ First named by the host at 00:15:42 in episode 109. White House official who, pe
 
 *Related: C-4287, C-4288, C-4289, C-4302, C-4303, A-2612.2*
 
-**N-656** Shawn Chenowith
+**N-656** Shawn Chenoweth
 
 First named by the host at 00:15:42 in episode 109. Described by the host as director of cognitive advantage at the National Security Council and identified by Kuchta, per the host, as the third party who contacted her.
 
@@ -588,7 +588,7 @@ First named by the host at 00:30:23 in episode 109. Posted the tweet about the h
 
 *Related: C-4304, C-4305, C-4306, A-2613.2, A-2613.3*
 
-**N-661** Raphael Schriber
+**N-661** Raphael Schreiber
 
 First named by the host at 00:39:16 in episode 109. Described as legislative director for Thomas Massie; tweeted at Andrew Kolvet about the March 12, 2026 apology call.
 
@@ -611,14 +611,14 @@ Investigation target: the internal email that, according to the host, asked for 
 **N-10946** Vine & Fig Tree
 
 Node Type: Organization
-Pro-Israel organization ("VFT") that Gabrielle Kuchta says has ties to the administration and met Sebastian Gorka at the White House. According to her thread, it commissioned a script for an AI-generated video for the NSC and kept reports profiling conservative and dissident-right accounts as susceptible to foreign influence. Its Dropbox reportedly held material on burner profiles, burner ad accounts, troll content briefs and audience segmentation.
+Pro-Israel organization ("VFT") that Gabrielle Cuccia says has ties to the administration and met Sebastian Gorka at the White House. According to her thread, it commissioned a script for an AI-generated video for the NSC and kept reports profiling conservative and dissident-right accounts as susceptible to foreign influence. Its Dropbox reportedly held material on burner profiles, burner ad accounts, troll content briefs and audience segmentation.
 
 *Related: C-4287, C-4288, C-4289, C-4291, C-4292, C-4293, C-4294, C-4295, C-4296, C-4297, C-4300, C-4301, A-2612.2, A-2612.3, N-654, N-655*
 
 **N-10947** National Security Council
 
 Node Type: Organization
-The host says Shawn Chenowith is its director of cognitive advantage. According to Kuchta's thread, the VFT AI-generated video was to be made on behalf of the NSC and Sebastian Gorka.
+The host says Shawn Chenoweth is its director of cognitive advantage. According to Kuchta's thread, the VFT AI-generated video was to be made on behalf of the NSC and Sebastian Gorka.
 
 *Related: C-4288, C-4289, A-2612.2, N-656*
 
@@ -917,11 +917,11 @@ Investigative Direction: The FOIA request and its tracking number with the Air F
 
 ---
 
-**C-4286** Gabrielle Kuchta was fired as Pentagon chief correspondent after criticizing Hegseth's press rules
+**C-4286** Gabrielle Cuccia was fired as Pentagon chief correspondent after criticizing Hegseth's press rules
 
 Claim Timestamp: 00:13:30
 
-Claim: The host says Gabrielle Kuchta was fired as the Pentagon's chief correspondent. According to the host, Kuchta says this followed her criticism of Pete Hegseth's new rules limiting press access to the Pentagon.
+Claim: The host says Gabrielle Cuccia was fired as the Pentagon's chief correspondent. According to the host, Kuchta says this followed her criticism of Pete Hegseth's new rules limiting press access to the Pentagon.
 
 Transcript Snippet: she was fired as the Pentagon's chief correspondent. Uh she claims she was fired after she criticized uh Pete Hegseth for having established new rules that actually limited the press's access to the Pentagon.
 
@@ -936,7 +936,7 @@ Investigative Direction: Kuchta's employer's statement on her departure and the 
 
 Claim Timestamp: 00:15:42
 
-Claim: According to Gabrielle Kuchta's thread read by the host, Vine & Fig Tree (VFT) is a pro-Israel organization with ties to the administration that met Sebastian Gorka at the White House earlier this year.
+Claim: According to Gabrielle Cuccia's thread read by the host, Vine & Fig Tree (VFT) is a pro-Israel organization with ties to the administration that met Sebastian Gorka at the White House earlier this year.
 
 Transcript Snippet: VFT is a pro-Israel organization with ties to the administration. Earlier this year, VFT was at the White House meeting with Sebastian Gorka.
 
@@ -947,11 +947,11 @@ Investigative Direction: White House visitor logs for VFT representatives and Go
 
 ---
 
-**C-4288** Kuchta was asked through a third party, identified as NSC's Shawn Chenowith, to script write for VFT
+**C-4288** Kuchta was asked through a third party, identified as NSC's Shawn Chenoweth, to script write for VFT
 
 Claim Timestamp: 00:15:42
 
-Claim: According to Kuchta's thread, shortly after the White House meeting she was contacted through a third party and asked to write scripts for VFT. The host says Kuchta later identifies this person as Shawn Chenowith, director of cognitive advantage at the National Security Council, who works under and with Gorka.
+Claim: According to Kuchta's thread, shortly after the White House meeting she was contacted through a third party and asked to write scripts for VFT. The host says Kuchta later identifies this person as Shawn Chenoweth, director of cognitive advantage at the National Security Council, who works under and with Gorka.
 
 Transcript Snippet: she later identifies this person to be Shawn Chenowith, who is the director of cognitive advantage at the US uh at the National Security Council.
 
@@ -1327,7 +1327,7 @@ Investigative Direction: The full Charlie Kirk Show episode and any contemporane
 
 Claim Timestamp: 00:39:16
 
-Claim: According to a tweet read by the host from Raphael Schriber, legislative director for Thomas Massie, Andrew Kolvet called Massie's office on March 12, 2026. Schriber says Kolvet apologized for a TPUSA video labeling Massie a RINO and blamed it on a 20-year-old intern.
+Claim: According to a tweet read by the host from Raphael Schreiber, legislative director for Thomas Massie, Andrew Kolvet called Massie's office on March 12, 2026. Schriber says Kolvet apologized for a TPUSA video labeling Massie a RINO and blamed it on a 20-year-old intern.
 
 Transcript Snippet: Andrew Kolvet, didn't you call our office a few months ago on March 12th, 2026 to be exact, profusely apologizing for TPUSA posting a video of Thomas Massie labeling him a rhino
 
@@ -1640,7 +1640,7 @@ Confidence: high
 - **Duration**: the skeleton's Video Timestamp Range (00:56:29) has been corrected to the transcript front-matter duration of 52:19.
 - **Artifacts verbally referenced but not shown**: A-2610.2 (the White House denial and the host's follow-up email), A-2611.2 (Hegseth's September 9 schedule), A-2616.1 (Brigitte Macron's lawsuit filing) and A-2616.2 (Brian Harpole's lawsuit). A-2611.1 is the host's recap of flight data; it is unclear whether a flight map was shown.
 - **DIA scan**: no tip request, bounty or tip-line beat airs. The only hit is "Go to Candace Owens. com" (50:58), which is a merch plug, so M-12 and M-14 are not used.
-- **Name matching**: "Ryan Ruth" is minted as N-653 Ryan Routh. "Victor Marks" is N-348 Victor Marx. "BB" is N-36 Benjamin Netanyahu. "Joel Finkelstein" is minted as N-659 and is not matched to the existing Norman Finkelstein node. "Shawn Chenowith", "Raphael Schriber" and "Kuchta" are kept as spelled in the transcript; real spellings are unverified. "Sean Kadkhoui" and "James The Least" are viewer handles and are not minted.
+- **Name matching**: "Ryan Ruth" is minted as N-653 Ryan Routh. "Victor Marks" is N-348 Victor Marx. "BB" is N-36 Benjamin Netanyahu. "Joel Finkelstein" is minted as N-659 and is not matched to the existing Norman Finkelstein node. "Shawn Chenoweth", "Raphael Schreiber" and "Kuchta" are kept as spelled in the transcript; real spellings are unverified. "Sean Kadkhoui" and "James The Least" are viewer handles and are not minted.
 - **Cross-staging reuse**: N-10923 uses the exact title from staging episode 104 ("White House Military Office "I Want to Go Home" Amplification Email"). Staging episode 105 names the same email "White House Military Office Erika Kirk Amplification Email", so the integrator should merge the two. N-10916 reuses the title "Thomas Massie Kentucky Primary Outside Spending" from staging. M-95 reuses the title "Emotional Response Asset" from another staging episode.
 - **New meme M-104**: the host's Brigitte Macron doll ("Brigitte Bardot") also appears in episode 107's transcript, which suggests a running bit. The integrator should check whether 107 mints it under a different title.
 - **Possible cross-episode link left out**: C-4281 (Harpole's alibi flight from Texas at "2:30 in the afternoon") differs from C-2904 (ep 102: "1:49 PM Dallas to Salt Lake City"). Because the host does not present it as a correction, no edge was added.

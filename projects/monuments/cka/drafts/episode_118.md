@@ -416,7 +416,7 @@ Organization whose org chart, intelligence office and alleged messaging campaign
 
 *Related: C-4735, C-4740, C-4741, C-4742, C-4758, A-2692.1, A-2693.1*
 
-**N-10899** Paramount Tactical Valhalla
+**N-10899** Paramount Tactical
 
 Transcript "Paramount not so Tactical"; said that the alibi photo children were not Erika Kirk's.
 

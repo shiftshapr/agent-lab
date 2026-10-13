@@ -654,6 +654,18 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-617",
+      "ref": "N-617",
+      "name": "Caleb Robinson",
+      "type": "person",
+      "description": "Daily Wire chief executive; first named by the host at 00:23:21 in episode 90 (ADF board seat).",
+      "related_claims": [
+        "C-2688"
+      ],
+      "tags": []
     }
   ],
   "claims": [
@@ -788,7 +800,9 @@
       "tags": [],
       "claim_timestamp": "00:23:21",
       "investigative_direction": "Cross-check ADF public filings (Form 990, board roster) for Caleb Robinson's name and tenure.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-617"
+      ]
     },
     {
       "@type": "Claim",

@@ -1061,7 +1061,7 @@
       "@type": "Person",
       "@id": "N-617",
       "ref": "N-617",
-      "name": "Kayla Robinson (Daily Wire interim CEO)",
+      "name": "Caleb Robinson",
       "type": "person",
       "description": "First named by the host at 00:37:43 in episode 100. Named as the Daily Wire's interim CEO who traveled to London with George Farmer to meet investors (transcript spelling; see Optional Flags).",
       "related_artifacts": [],
@@ -1522,10 +1522,46 @@
       "investigative_pressure": "medium"
     },
     {
+      "@type": "Organization",
+      "@id": "N-11001",
+      "ref": "N-11001",
+      "name": "Valhalla VFT",
+      "type": "organization",
+      "description": "Military-commentary YouTube channel (\"the Valhalla guy\"), distinct from Gary Melton's Paramount Tactical; the host groups the two among the military YouTubers who warned her off Mitch Snow (ep100).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3887",
+        "C-3889"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-628",
+      "ref": "N-628",
+      "name": "Gary Melton",
+      "type": "person",
+      "description": "Runs the Paramount Tactical YouTube channel (N-10899); named by first name in episode 100 (\"Andrew messaged Gary, that's Paramount Tactical\").",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-3909",
+        "C-3912"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
       "@type": "InvestigationTarget",
       "@id": "N-10899",
       "ref": "N-10899",
-      "name": "Paramount Tactical Valhalla",
+      "name": "Paramount Tactical",
       "type": "investigation_target",
       "description": "The military YouTubers who attacked Mitch Snow and read Kolvet's alibi texts on air; their host Gary is named.",
       "related_artifacts": [
@@ -1750,7 +1786,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10899",
-        "N-10375"
+        "N-10375",
+        "N-11001"
       ],
       "tags": [],
       "claim_timestamp": "00:03:03",
@@ -1792,7 +1829,8 @@
       "claim": "The host says Ian Carroll, after failing to convince her, bowed out but delivered to her the warnings from the military YouTubers, who said they were in communication with lieutenant colonels.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10899"
+        "N-10899",
+        "N-11001"
       ],
       "tags": [],
       "claim_timestamp": "00:04:04",
@@ -2241,7 +2279,8 @@
       "mentions_person_refs": [
         "N-14",
         "N-2",
-        "N-1"
+        "N-1",
+        "N-628"
       ]
     },
     {
@@ -2304,7 +2343,8 @@
       "transcript_snippet": "Gary has confirmed to me that Andrew's messages are related to Erika's schedule on the 9th and not the 8th.",
       "mentions_person_refs": [
         "N-14",
-        "N-2"
+        "N-2",
+        "N-628"
       ]
     },
     {
@@ -2568,7 +2608,7 @@
       "@id": "C-3925",
       "ref": "C-3925",
       "label": "George Farmer introduced the Daily Wire's interim CEO to London investors",
-      "claim": "The host says her husband traveled to London with the Daily Wire's interim CEO, whom the transcript names as \"Kayla Robinson,\" and introduced the company to his and his father's circle of investors.",
+      "claim": "The host says her husband traveled to London with the Daily Wire's interim CEO, whom the transcript names as \"Caleb Robinson,\" and introduced the company to his and his father's circle of investors.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10126",

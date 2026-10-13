@@ -536,9 +536,9 @@ First named by the host at 00:17:32 in episode 117. Arizona pastor, father of Ph
 
 *Related: C-4677, C-4679, C-4680, C-4683, A-2684.1, A-2684.2, A-2685.1*
 
-**N-703** Auto Buscher
+**N-703** Otto Busher
 
-First named by the host at 00:18:27 in episode 117. Transcript spelling "Colonel Auto Buscher"; a US military colonel the host says partnered with Erika Kirk's Romanian Angels and was accused online of trafficking. The correct spelling is unverified.
+First named by the host at 00:18:27 in episode 117. Transcript spelling "Colonel Otto Busher"; a US military colonel the host says partnered with Erika Kirk's Romanian Angels and was accused online of trafficking. The correct spelling is unverified.
 
 *Related: C-4682, C-4689*
 
@@ -770,7 +770,7 @@ Transcript spellings "Soder Global Ministries" and "Soteria Global Ministries". 
 **N-10990** Black Sea Rotational Force
 
 Node Type: Organization
-US Marine rotational force the host says set up a base in Romania in 2010 that was later accused of trafficking and prostituting children. She ties it to Erika Kirk's Romanian Angels partnership with Colonel "Auto Buscher."
+US Marine rotational force the host says set up a base in Romania in 2010 that was later accused of trafficking and prostituting children. She ties it to Erika Kirk's Romanian Angels partnership with Colonel "Otto Busher."
 
 *Related: C-4681, C-4682, C-4689, N-703*
 
@@ -1238,7 +1238,7 @@ Investigative Direction: Check state incorporation and IRS determination dates f
 
 Claim Timestamp: 00:18:27
 
-Claim: The host says Erika Kirk's Romanian Angels drew criticism online when people realized she was partnering with Colonel "Auto Buscher," whom the host says was accused of setting up the base and trafficking children through it. This is presented as an accusation, not an established fact.
+Claim: The host says Erika Kirk's Romanian Angels drew criticism online when people realized she was partnering with Colonel "Otto Busher," whom the host says was accused of setting up the base and trafficking children through it. This is presented as an accusation, not an established fact.
 
 Transcript Snippet: This is what landed Erika's Romanian Angels in some hot water online when they realized she was partnering with Colonel Auto Buscher
 
@@ -1343,7 +1343,7 @@ Investigative Direction: Pull FAA and Romanian civil aviation registry history f
 
 Claim Timestamp: 00:23:15
 
-Claim: The host says that in late 2012 Erika Kirk began her Romanian Angels Project, working in some capacity with "Auto Buscher" and partnering with the US Marines on a Marine base.
+Claim: The host says that in late 2012 Erika Kirk began her Romanian Angels Project, working in some capacity with "Otto Busher" and partnering with the US Marines on a Marine base.
 
 Transcript Snippet: In late 2012, we all we know uh that Erika begins her Romanian Angels Project
 
@@ -2009,7 +2009,7 @@ Confidence: high
 - **DIA scan**: one real DIA beat, the $10,000 bounty at 00:54:23 (C-4716, A-2690.1, M-12). The "very nice tip" at 00:52:57 is a viewer's monetary chat tip (Zammit) and was not treated as a DIA beat. The host's account of the flood of emails from audio professionals (09:48, 12:50) contains none of the DIA trigger phrases and is handled as C-4667/C-4671, not as DIA. No Candace Intelligence Agency merch phrase airs, so M-14 is not used.
 - **Artifacts verbally referenced but not shown**: A-2681.1 (host's phone call with Terrell Farnsworth), A-2689.1 (WHCD "emotional asset" email) and A-2690.1 (the $10,000 bounty). The "graphic" (A-2678.1) and the science article (A-2678.2) are described as shown, but their text is only partly read.
 - **Speaker uncertainty in clips**: the necklace clips at 01:20–03:22 are not labelled in the transcript. A-2677.1 appears to be Erika Kirk. A-2677.2 appears to be Frank Turek (consistent with prior C-1962). A-2677.3 is identified as Andrew Kolvet on Laura Ingraham's show only by the host's later remark at 38:48.
-- **Name matching**: "Taylor Boyer" mapped to N-11 Tyler Bowyer. "Andrew Corbett" (24:24) and "Andrew Cole" (55:47) mapped to N-14 Andrew Kolvet from context. "Andrew Cypher" mapped to N-338 Andrew Seifer. "Blakey Naft" mapped to N-162 Blake Neff. "Ryan Harpole" mapped to N-272 Brian Harpole. "Tara", "Taro", "Carol" and "Turrell" Farnsworth mapped to N-267. "Soder" / "Soteria" Global Ministries treated as Soter Global Ministries (N-10989), the spelling the host also uses. "Colonel Auto Buscher" (N-703) is kept in transcript spelling; the true name is unverified. "Curtis" is minted as Curtis Kolvet (N-704) on the brother relationship alone. "Laura Ingram" is minted as Laura Ingraham (N-705); she has no row in nodes.tsv.
+- **Name matching**: "Taylor Boyer" mapped to N-11 Tyler Bowyer. "Andrew Corbett" (24:24) and "Andrew Cole" (55:47) mapped to N-14 Andrew Kolvet from context. "Andrew Cypher" mapped to N-338 Andrew Seifer. "Blakey Naft" mapped to N-162 Blake Neff. "Ryan Harpole" mapped to N-272 Brian Harpole. "Tara", "Taro", "Carol" and "Turrell" Farnsworth mapped to N-267. "Soder" / "Soteria" Global Ministries treated as Soter Global Ministries (N-10989), the spelling the host also uses. "Colonel Otto Busher" (N-703) is kept in transcript spelling; the true name is unverified. "Curtis" is minted as Curtis Kolvet (N-704) on the brother relationship alone. "Laura Ingram" is minted as Laura Ingraham (N-705); she has no row in nodes.tsv.
 - **Not minted**: "Rick", "Dan" and "Justin" in Harpole's clip (possibly Rick Cutler, Dan Flood and a Justin, who exist in nodes.tsv, but not confirmed from this transcript); Druski ("Jurski", no row in nodes.tsv; staging episode 084 mints him as N-699); Ivanka Trump (joke only, used for meme M-109); Natalia (orphan, no surname); Dana Loesch ("Dana Lash", rhetorical mention only); Tucker Carlson and Baron Coleman (mentions without a claim); Nissy and the Erika Jayne Girardi signature misreading (joke).
 - **Transcription ambiguities**: "Loews E building" (kept as spoken), "road mic" / "road bike" for Rode mic, ".30-ought-six" / ".30-06", "first day date", "Teen Miss America crown" (the title is unverified), "headedtocannasoans. com" (merch URL).
 - **Meme spelling for the integrator**: staging has three titles for the same merch joke ("Stop Anti-Candism" in 112, "Stop Anti-Candaceism" in 111, "Anti-Candacism" in 113); M-107 follows 113 and the transcript spelling. M-109 reuses "Ivanka the Explorer" and M-103 reuses "Snakes in Charlie's Garden" from staging.

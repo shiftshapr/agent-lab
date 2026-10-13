@@ -4,7 +4,7 @@
   "monument": "cka",
   "remap_note": "2026-10-13 (Daveed): ids compacted with no holes and no tombstones. Persons N-1..N-607, topic/org/place N-10000..N-10902; old to new ids in audits/id_compaction_2026-10-13/id_map.csv. Earlier remap history (BoC remap, batches 1-2, catch-up, waves 1-3) is in git history and the audits folders, which keep the ids of their time.",
   "next_person_id": 722,
-  "next_investigation_id": 11001,
+  "next_investigation_id": 11002,
   "nodes": {
     "N-1": {
       "canonical_name": "Charlie Kirk",
@@ -13578,9 +13578,10 @@
       ]
     },
     "N-10899": {
-      "canonical_name": "Paramount Tactical Valhalla",
+      "canonical_name": "Paramount Tactical",
       "type": "organization",
       "aliases": [
+        "Paramount Tactical Valhalla",
         "Paramount Tactical Valhalla (livestream account)"
       ],
       "episodes": [
@@ -14280,10 +14281,14 @@
       ]
     },
     "N-617": {
-      "canonical_name": "Kayla Robinson (Daily Wire interim CEO)",
+      "canonical_name": "Caleb Robinson",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Kayla Robinson",
+        "Kayla Robinson (Daily Wire interim CEO)"
+      ],
       "episodes": [
+        90,
         100
       ]
     },
@@ -14386,6 +14391,7 @@
         "Gary Mountain"
       ],
       "episodes": [
+        100,
         103,
         105,
         106
@@ -14421,10 +14427,10 @@
       ]
     },
     "N-632": {
-      "canonical_name": "Delmar Martinez",
+      "canonical_name": "Delmer Martinez",
       "type": "person",
       "aliases": [
-        "Delmer Martinez"
+        "Delmar Martinez"
       ],
       "episodes": [
         103
@@ -14439,17 +14445,22 @@
       ]
     },
     "N-634": {
-      "canonical_name": "Jessica Garza",
+      "canonical_name": "Jessica Ghawi",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Jessica Garza",
+        "Jessica Redfield"
+      ],
       "episodes": [
         103
       ]
     },
     "N-635": {
-      "canonical_name": "Ryan Ripian",
+      "canonical_name": "Ryan Rippeon",
       "type": "person",
       "aliases": [
+        "Capt. Ryan A. Rippeon",
+        "Ryan Ripian",
         "Ryan Rippien"
       ],
       "episodes": [
@@ -14607,9 +14618,11 @@
       ]
     },
     "N-652": {
-      "canonical_name": "Ed Galvin",
+      "canonical_name": "Ed Gallrein",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Ed Galvin"
+      ],
       "episodes": [
         108
       ]
@@ -14625,10 +14638,12 @@
       ]
     },
     "N-654": {
-      "canonical_name": "Gabrielle Kuchta",
+      "canonical_name": "Gabrielle Cuccia",
       "type": "person",
       "aliases": [
-        "Gabby Kuchta"
+        "Gabby Cuccia",
+        "Gabby Kuchta",
+        "Gabrielle Kuchta"
       ],
       "episodes": [
         109
@@ -14643,9 +14658,11 @@
       ]
     },
     "N-656": {
-      "canonical_name": "Shawn Chenowith",
+      "canonical_name": "Shawn Chenoweth",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Shawn Chenowith"
+      ],
       "episodes": [
         109
       ]
@@ -14686,9 +14703,11 @@
       ]
     },
     "N-661": {
-      "canonical_name": "Raphael Schriber",
+      "canonical_name": "Raphael Schreiber",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Raphael Schriber"
+      ],
       "episodes": [
         109
       ]
@@ -14791,9 +14810,11 @@
       ]
     },
     "N-674": {
-      "canonical_name": "Vance Voytberg",
+      "canonical_name": "Vance Voetberg",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Vance Voytberg"
+      ],
       "episodes": [
         111
       ]
@@ -14850,10 +14871,11 @@
       ]
     },
     "N-681": {
-      "canonical_name": "James Katis",
+      "canonical_name": "James Kaddis",
       "type": "person",
       "aliases": [
-        "James Catis"
+        "James Catis",
+        "James Katis"
       ],
       "episodes": [
         112,
@@ -14938,11 +14960,12 @@
       ]
     },
     "N-691": {
-      "canonical_name": "Mark A. Liti",
+      "canonical_name": "Mark Liti",
       "type": "person",
       "aliases": [
         "Mark A. Leiti",
         "Mark A. Ley",
+        "Mark A. Liti",
         "Mark Le",
         "Mark Ley",
         "Mark a lady"
@@ -14952,9 +14975,11 @@
       ]
     },
     "N-692": {
-      "canonical_name": "Chris Ley",
+      "canonical_name": "Chris Liti",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Chris Ley"
+      ],
       "episodes": [
         115
       ]
@@ -14994,11 +15019,12 @@
       ]
     },
     "N-697": {
-      "canonical_name": "John Bray",
+      "canonical_name": "Jon Bray",
       "type": "person",
       "aliases": [
         "John Blake",
-        "John Braden"
+        "John Braden",
+        "John Bray"
       ],
       "episodes": [
         116
@@ -15052,9 +15078,12 @@
       ]
     },
     "N-703": {
-      "canonical_name": "Auto Buscher",
+      "canonical_name": "Otto Busher",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Auto Buscher",
+        "Col. Otto Busher"
+      ],
       "episodes": [
         117
       ]
@@ -15785,9 +15814,11 @@
       ]
     },
     "N-10972": {
-      "canonical_name": "Mark A. Liti Burn Barrel Death",
+      "canonical_name": "Mark Liti Burn Barrel Death",
       "type": "topic",
-      "aliases": [],
+      "aliases": [
+        "Mark A. Liti Burn Barrel Death"
+      ],
       "episodes": [
         115
       ]
@@ -16015,6 +16046,18 @@
       "aliases": [],
       "episodes": [
         119
+      ]
+    },
+    "N-11001": {
+      "canonical_name": "Valhalla VFT",
+      "type": "organization",
+      "aliases": [
+        "Valhalla",
+        "the Valhalla guy"
+      ],
+      "episodes": [
+        51,
+        100
       ]
     }
   }

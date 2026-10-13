@@ -13,7 +13,7 @@
     "transcript_sha256": "a316d7453a384cbd49985112bbc5db6432257f1fd1bc2e359ce7d4447e782b63",
     "analysis_date": "2026-10-13"
   },
-  "executive_summary": "The host opens with Dana Loesch, whom she says posted more than 23 times on X after claiming she did not care that people mocked her \"widow\" scripture speech at the Young Women's Leadership Summit (A-2628.1). The host says her sources told her that Erika Kirk cut her own speech short after an attendee called her a \"pedophile protector\" and then left the summit without closing it out. She plays a Dana Loesch audio clip saying Erika \"wasn't there for the whole weekend\" (A-2628.2). The host contrasts this with Charlie Kirk's habit of facing hecklers (A-2629.1). She alleges that Erika invented a Secret Service threat to avoid an event with JD Vance, that Erika partners with people such as Greg Laurie who are accused of trafficking, and that Erika personally phoned clergy and attendees to discourage them from attending the host's Catholics for Catholics event in March. She also alleges that Erika directed Andrew Kolvet's statement that Charlie only liked Catholic architecture.\n\nThe host then reads two follow-up emails (A-2630.1, A-2630.2) that she sent to Justin Strife, Andrew Kolvet and the TPUSA lawyer. The emails ask for an on-record yes or no on whether the WLS video in which Charlie Kirk appears to appoint Erika to run Turning Point USA is authentic. She says the only reply was a TPUSA X account post sharing her email (A-2630.3). She names the donors who asked the question as Julie and Arthur Fields of North Carolina, saying this removes TPUSA's stated reason for withholding the full video. According to the host, a donor source says the video is doctored, and Charlie told the donors at a later dinner only that the board would figure out succession. On the \"emotional asset\" email, the host says the NSA redirected her FOIA request to the Department of War (A-2631.1). She says the Department of War called the request too burdensome (A-2631.2), and that her office then narrowed it to named recipients including Bradley Hansel, Richard Smaly, Gustav Anderly and Michaela Mott (A-2631.3).\n\nIn the second segment the host plays Ivanka Trump on David Senra's podcast saying she and Jared Kushner found a 1,400-hectare Mediterranean island while swimming from a friend's boat (A-2632.1). The host identifies the island as Sazan Island off Albania and says the friend was Nat Rothschild. A news report (A-2633.1) describes a fourth day of protests in Tirana against the Affinity Partners resort project, Prime Minister Edi Rama's statement that the investment will not stop, and an investigation opened by Albania's anti-corruption agency. A Tim Dillon clip (A-2634.1) criticizes the Trump family as \"Tsarists.\"\n\nIn the final segments the host shows a US Weekly email (A-2635.1) giving her 24 hours to respond to a print story about Erika Kirk that quotes Tracy Martin and James Catis. She disputes Tracy Martin's claim that Charlie Kirk was scared to answer her calls and alleges that the byline is a non-existent journalist. She also comments on Ariana Grande's split from Ethan Slater. In the comments segment she criticizes Andrew Kolvet's association with Paramount Tactical and repeats her demand for a yes-or-no answer from Turning Point USA.",
+  "executive_summary": "The host opens with Dana Loesch, whom she says posted more than 23 times on X after claiming she did not care that people mocked her \"widow\" scripture speech at the Young Women's Leadership Summit (A-2628.1). The host says her sources told her that Erika Kirk cut her own speech short after an attendee called her a \"pedophile protector\" and then left the summit without closing it out. She plays a Dana Loesch audio clip saying Erika \"wasn't there for the whole weekend\" (A-2628.2). The host contrasts this with Charlie Kirk's habit of facing hecklers (A-2629.1). She alleges that Erika invented a Secret Service threat to avoid an event with JD Vance, that Erika partners with people such as Greg Laurie who are accused of trafficking, and that Erika personally phoned clergy and attendees to discourage them from attending the host's Catholics for Catholics event in March. She also alleges that Erika directed Andrew Kolvet's statement that Charlie only liked Catholic architecture.\n\nThe host then reads two follow-up emails (A-2630.1, A-2630.2) that she sent to Justin Strife, Andrew Kolvet and the TPUSA lawyer. The emails ask for an on-record yes or no on whether the WLS video in which Charlie Kirk appears to appoint Erika to run Turning Point USA is authentic. She says the only reply was a TPUSA X account post sharing her email (A-2630.3). She names the donors who asked the question as Julie and Arthur Fields of North Carolina, saying this removes TPUSA's stated reason for withholding the full video. According to the host, a donor source says the video is doctored, and Charlie told the donors at a later dinner only that the board would figure out succession. On the \"emotional asset\" email, the host says the NSA redirected her FOIA request to the Department of War (A-2631.1). She says the Department of War called the request too burdensome (A-2631.2), and that her office then narrowed it to named recipients including Bradley Hansel, Richard Smaly, Gustav Anderly and Michaela Mott (A-2631.3).\n\nIn the second segment the host plays Ivanka Trump on David Senra's podcast saying she and Jared Kushner found a 1,400-hectare Mediterranean island while swimming from a friend's boat (A-2632.1). The host identifies the island as Sazan Island off Albania and says the friend was Nat Rothschild. A news report (A-2633.1) describes a fourth day of protests in Tirana against the Affinity Partners resort project, Prime Minister Edi Rama's statement that the investment will not stop, and an investigation opened by Albania's anti-corruption agency. A Tim Dillon clip (A-2634.1) criticizes the Trump family as \"Tsarists.\"\n\nIn the final segments the host shows a US Weekly email (A-2635.1) giving her 24 hours to respond to a print story about Erika Kirk that quotes Tracy Martin and James Kaddis. She disputes Tracy Martin's claim that Charlie Kirk was scared to answer her calls and alleges that the byline is a non-existent journalist. She also comments on Ariana Grande's split from Ethan Slater. In the comments segment she criticizes Andrew Kolvet's association with Paramount Tactical and repeats her demand for a yes-or-no answer from Turning Point USA.",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -942,7 +942,7 @@
       "@type": "Person",
       "@id": "N-681",
       "ref": "N-681",
-      "name": "James Katis",
+      "name": "James Kaddis",
       "type": "person",
       "description": "First named by the host at 00:43:36 in episode 112. Transcript spelling kept. Described by the host as running the TPUSA faith department and as quoted in the US Weekly story.",
       "related_artifacts": [
@@ -1228,7 +1228,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10899",
       "ref": "N-10899",
-      "name": "Paramount Tactical Valhalla",
+      "name": "Paramount Tactical",
       "type": "investigation_target",
       "description": "Transcript \"Paramount Not So Tactical\" / \"Paramount Tactical\". The host says the account accidentally exposed its use of ChatGPT and its place in an influencer network.",
       "related_artifacts": [],
@@ -2289,8 +2289,8 @@
       "@type": "Claim",
       "@id": "C-4427",
       "ref": "C-4427",
-      "label": "The US Weekly story quotes Tracy Martin and James Catis",
-      "claim": "The host says the story quotes Erika Kirk's friends Tracy Martin and James Catis, who she says runs the TPUSA faith department, and calls her demonic.",
+      "label": "The US Weekly story quotes Tracy Martin and James Kaddis",
+      "claim": "The host says the story quotes Erika Kirk's friends Tracy Martin and James Kaddis, who she says runs the TPUSA faith department, and calls her demonic.",
       "anchored_artifacts": [
         "A-2635.1"
       ],
@@ -2299,7 +2299,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:43:36",
-      "investigative_direction": "Check the published US Weekly article for the named sources and confirm James Catis's TPUSA role.",
+      "investigative_direction": "Check the published US Weekly article for the named sources and confirm James Kaddis's TPUSA role.",
       "transcript_snippet": "Tracy Martin, James Catis, who runs the faith department, the most despicable department at Turning Point USA.",
       "mentions_person_refs": [
         "N-557",

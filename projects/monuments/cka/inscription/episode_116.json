@@ -13,7 +13,7 @@
     "transcript_sha256": "2865a9d56acee8144f7dfdfc4058179e5766001a04f9d76441ddbe53abe0b055",
     "analysis_date": "2026-10-13"
   },
-  "executive_summary": "The host expands on the theory that Charlie Kirk was killed by an explosive shaped charge hidden in his clip-on Rode wireless microphone. She credits Don Porter, a friend of Corey Comperatore, for the leads behind her previous Butler episode, and says the microphone theory was first put forward by an X user she names as John Bray. Using a mashup of Charlie Kirk's 2024 events (A-2668.1), she says he used a single handheld microphone until the fall 2024 You're Being Brainwashed tour, when a clipped wireless mic held by a magnetic clip was added (A-2668.2). She lists what she calls supporting evidence: bomb dogs were on scene but were not brought to where Charlie Kirk sat; contractors were called on a Sunday to pave over the scene by Monday, which a contractor says the governor and the FBI wanted (A-2669); a YouTuber's 20 g PETN test left a hole about the size of a .30-06 round (A-2670.1); and shards appear in photos of the transport SUV (A-2671.1), which John Bray says are ABS plastic from the microphone.\n\nThe host also revisits points she says undermine the case against Tyler Robinson and the conduct of the Turning Point USA team. These include five other sets of prints on the rifle, no gunshot residue test, Terrell Farnsworth removing the SD card from the camera behind Charlie Kirk's head, and Mikey McCoy and Blake Neff calling family rather than 911. She contrasts a Jack Hibbs interview with Frank Turek (A-2672.1) against Turek's account to Megyn Kelly that his FaceTime call stayed open until he reached the hotel (A-2672.2). She says Kash Patel had the hospital footage taken, and that no one at TPUSA has confirmed seeing the live stream TPUSA said it was sending to its office. She asks for tips about the October 10 explosion at Accurate Energetic Systems in Hickman County, Tennessee, which she says some believe could be where a device was assembled (A-2673.1).\n\nIn the second segment, the host recounts a public exchange on X with the FBI's account (A-2674). The exchange followed her post that the FBI called her FOIA request for Kash Patel's three-day pre-assassination travel itinerary too burdensome. The account replied that she had misquoted it and that calling the request \"denied\" was \"a lie for clickbait.\" She also says a FOIA request for emails naming Erika Kirk after the White House Correspondents' Dinner shooting was called too burdensome, and she points to the Department of Justice's Epstein binders event as clickbait of its own.\n\nThe host then gives a health update on a veteran who travelled with her team to Russia (A-2675). She says he served 12 years, including in SEAL Team One, was repeatedly denied a VA appointment, and had a seizure the day after landing; a Russian hospital took him into surgery. In the comments (A-2676), she denies ever dismissing the exploding-mic theory and revisits Frank Turek's account of finding Charlie Kirk's necklace on his backpack. She argues that the necklace broke before Charlie Kirk reacted to the wound. She also restates that Connor Henderson interned in the Timpanogos emergency department and is a long-time friend of Zachariah Qureshi, whose father co-founded Built with a Henderson.",
+  "executive_summary": "The host expands on the theory that Charlie Kirk was killed by an explosive shaped charge hidden in his clip-on Rode wireless microphone. She credits Don Porter, a friend of Corey Comperatore, for the leads behind her previous Butler episode, and says the microphone theory was first put forward by an X user she names as Jon Bray. Using a mashup of Charlie Kirk's 2024 events (A-2668.1), she says he used a single handheld microphone until the fall 2024 You're Being Brainwashed tour, when a clipped wireless mic held by a magnetic clip was added (A-2668.2). She lists what she calls supporting evidence: bomb dogs were on scene but were not brought to where Charlie Kirk sat; contractors were called on a Sunday to pave over the scene by Monday, which a contractor says the governor and the FBI wanted (A-2669); a YouTuber's 20 g PETN test left a hole about the size of a .30-06 round (A-2670.1); and shards appear in photos of the transport SUV (A-2671.1), which Jon Bray says are ABS plastic from the microphone.\n\nThe host also revisits points she says undermine the case against Tyler Robinson and the conduct of the Turning Point USA team. These include five other sets of prints on the rifle, no gunshot residue test, Terrell Farnsworth removing the SD card from the camera behind Charlie Kirk's head, and Mikey McCoy and Blake Neff calling family rather than 911. She contrasts a Jack Hibbs interview with Frank Turek (A-2672.1) against Turek's account to Megyn Kelly that his FaceTime call stayed open until he reached the hotel (A-2672.2). She says Kash Patel had the hospital footage taken, and that no one at TPUSA has confirmed seeing the live stream TPUSA said it was sending to its office. She asks for tips about the October 10 explosion at Accurate Energetic Systems in Hickman County, Tennessee, which she says some believe could be where a device was assembled (A-2673.1).\n\nIn the second segment, the host recounts a public exchange on X with the FBI's account (A-2674). The exchange followed her post that the FBI called her FOIA request for Kash Patel's three-day pre-assassination travel itinerary too burdensome. The account replied that she had misquoted it and that calling the request \"denied\" was \"a lie for clickbait.\" She also says a FOIA request for emails naming Erika Kirk after the White House Correspondents' Dinner shooting was called too burdensome, and she points to the Department of Justice's Epstein binders event as clickbait of its own.\n\nThe host then gives a health update on a veteran who travelled with her team to Russia (A-2675). She says he served 12 years, including in SEAL Team One, was repeatedly denied a VA appointment, and had a seizure the day after landing; a Russian hospital took him into surgery. In the comments (A-2676), she denies ever dismissing the exploding-mic theory and revisits Frank Turek's account of finding Charlie Kirk's necklace on his backpack. She argues that the necklace broke before Charlie Kirk reacted to the wound. She also restates that Connor Henderson interned in the Timpanogos emergency department and is a long-time friend of Zachariah Qureshi, whose father co-founded Built with a Henderson.",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -943,7 +943,7 @@
       "@type": "Person",
       "@id": "N-697",
       "ref": "N-697",
-      "name": "John Bray",
+      "name": "Jon Bray",
       "type": "person",
       "description": "First named by the host at 00:03:00 in episode 116. X user the host credits with first positing the exploding-microphone theory. Aliases: John Braden; John Blake.",
       "related_artifacts": [
@@ -1433,7 +1433,7 @@
       "ref": "N-10678",
       "name": "SUV Floorboard Shard Mic Identification",
       "type": "investigation_target",
-      "description": "The SUV shards John Bray says are ABS plastic from the Rode mic.",
+      "description": "The SUV shards Jon Bray says are ABS plastic from the Rode mic.",
       "related_artifacts": [
         "A-2671.1"
       ],
@@ -1493,7 +1493,7 @@
       "ref": "N-10705",
       "name": "Charlie's Road Microphone Glass Origin Investigation Target",
       "type": "investigation_target",
-      "description": "John Bray's theory that the SUV shards are the shattered mic housing.",
+      "description": "Jon Bray's theory that the SUV shards are the shattered mic housing.",
       "related_artifacts": [],
       "related_claims": [
         "C-4594",
@@ -1826,8 +1826,8 @@
       "@type": "Claim",
       "@id": "C-4594",
       "ref": "C-4594",
-      "label": "Exploding-microphone theory was first posited by X user John Bray",
-      "claim": "The host says the theory that Charlie Kirk was killed by an explosive in his Rode microphone was first posited by an X user, John Bray, who has worked on it since September. She says he contacted her when she published the photos from inside the SUV.",
+      "label": "Exploding-microphone theory was first posited by X user Jon Bray",
+      "claim": "The host says the theory that Charlie Kirk was killed by an explosive in his Rode microphone was first posited by an X user, Jon Bray, who has worked on it since September. She says he contacted her when she published the photos from inside the SUV.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10768",
@@ -1835,7 +1835,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:03:00",
-      "investigative_direction": "Locate John Bray's X posts on the theory and their earliest dates.",
+      "investigative_direction": "Locate Jon Bray's X posts on the theory and their earliest dates.",
       "transcript_snippet": "It was a theory that was at first posited by an ex-user named John Bray and you should go down that rabbit hole. He has done so much work on this. Really truly he has worked on this since September.",
       "mentions_person_refs": [
         "N-697",
@@ -1910,7 +1910,7 @@
       "@id": "C-4598",
       "ref": "C-4598",
       "label": "A shaped charge can act directionally like a bullet",
-      "claim": "The host says the theorized explosive would be a shaped charge, typically in a copper or lead capsule, which directs the blast so that it functions like a bullet without a bullet's power; she credits John Bray with explaining the idea.",
+      "claim": "The host says the theorized explosive would be a shaped charge, typically in a copper or lead capsule, which directs the blast so that it functions like a bullet without a bullet's power; she credits Jon Bray with explaining the idea.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10768"
@@ -2217,8 +2217,8 @@
       "@type": "Claim",
       "@id": "C-4613",
       "ref": "C-4613",
-      "label": "John Bray says the SUV photos show shards of the mic's ABS plastic",
-      "claim": "The host says John Bray told her that her SUV interior photos were the missing piece of his theory, showing what would be shards of the hard ABS plastic housing of the Rode mic.",
+      "label": "Jon Bray says the SUV photos show shards of the mic's ABS plastic",
+      "claim": "The host says Jon Bray told her that her SUV interior photos were the missing piece of his theory, showing what would be shards of the hard ABS plastic housing of the Rode mic.",
       "anchored_artifacts": [
         "A-2671.1"
       ],
@@ -3131,7 +3131,7 @@
           "video_timestamp": "00:03:00",
           "speaker_node_ref": "N-3",
           "quote": "It was a theory that was at first posited by an ex-user named John Bray and you should go down that rabbit hole.",
-          "context": "Host points viewers to John Bray's work on the exploding-mic theory.",
+          "context": "Host points viewers to Jon Bray's work on the exploding-mic theory.",
           "confidence": "high",
           "tags": [
             "research",
