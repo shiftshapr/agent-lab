@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: ccc088e1afd1c59b5e5cc5c2b2958206b92ce5ce72a69a6b3b4672840c3aa324
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10668, N-10669, N-10670, N-10671, N-10672, N-10673
-  - Hole-minted Nodes (wave3): N-675, N-676
-  - Reused Nodes Appearing: N-10235, N-3, N-69, N-70, N-102, N-186
+  - New Nodes Introduced: N-10593, N-10594, N-10595, N-10596, N-10597, N-10598
+  - Hole-minted Nodes (wave3): N-430, N-431
+  - Reused Nodes Appearing: N-10169, N-3, N-40, N-41, N-69, N-135
   - (see registers)
 
 # EVOLUTION 90 ANALYSIS
@@ -40,7 +40,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-04-13
 Confidence Level: High
 
-*Related: C-2682, C-2683, C-2684, N-69, N-10668*
+*Related: C-2682, C-2683, C-2684, N-40, N-10593*
 
 **A-1948.2** State Filing – Preliminary Hearing Evidence Notice (re: forensic extractions)
 
@@ -50,7 +50,7 @@ Video Timestamp: 00:47:08–00:48:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2684, N-69, N-10670*
+*Related: C-2684, N-40, N-10595*
 
 ---
 
@@ -64,7 +64,7 @@ Video Timestamp: 00:12:25–00:13:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (audio-only; video withheld)
 
-*Related: C-2685, C-2688, N-1, N-2, N-10669*
+*Related: C-2685, C-2688, N-1, N-2, N-10594*
 
 ---
 
@@ -78,7 +78,7 @@ Video Timestamp: 00:13:17–00:14:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2686, C-2687, N-10672*
+*Related: C-2686, C-2687, N-10597*
 
 ---
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:21:42–00:23:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2687, N-2, N-3, N-10671*
+*Related: C-2687, N-2, N-3, N-10596*
 
 **A-1951.2** ADF internal board presentation slide – Caleb Robinson board seat
 
@@ -102,7 +102,7 @@ Video Timestamp: 00:23:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (referenced, partial)
 
-*Related: C-2688, N-10671*
+*Related: C-2688, N-10596*
 
 ---
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:42:44–00:43:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2692, N-69, N-10673*
+*Related: C-2692, N-40, N-10598*
 
 ---
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:40:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbally referenced only)
 
-*Related: C-2693, N-69, N-10668*
+*Related: C-2693, N-40, N-10593*
 
 ---
 
@@ -186,26 +186,26 @@ Video Timestamp: 00:09:44–00:16:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbally referenced only – no recording displayed)
 
-*Related: C-2694, N-1, N-2, N-10669*
+*Related: C-2694, N-1, N-2, N-10594*
 
 ---
 
 ## 4. Node Register
 
-**N-675** Pope Leo XIV
+**N-430** Pope Leo XIV
 
 First named by the host at 00:00:01 in episode 90. Aliases: Pope Leo, Pope Leo the 14th, His Holiness Pope Leo, Leo XIV.
 
 *Related: C-2689, C-2690, C-2691, C-2696*
 
-**N-676** Doug Terry
+**N-431** Doug Terry
 
 First named by the host at 00:33:31 in episode 90.
 
 *Related: C-2682, C-2683*
 
 
-**N-10668** Tyler Robinson Filing Timeline Discrepancy
+**N-10593** Tyler Robinson Filing Timeline Discrepancy
 
 Persistent inconsistency between defense-motion timestamps, search-warrant timestamps, and publicly reported federal booking timeline.
 
@@ -214,11 +214,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1948.1, A-1956.1, C-2682, C-2693, N-69*
+*Related: A-1948.1, A-1956.1, C-2682, C-2693, N-40*
 
 ---
 
-**N-10669** Aspen Donor Inconsistency
+**N-10594** Aspen Donor Inconsistency
 
 Host's claim that two Aspen-event donors deny the audio quote occurred at the event; audio vs. donor memory discrepancy.
 
@@ -231,7 +231,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10670** Forensic Extraction Evidence Presentation Question
+**N-10595** Forensic Extraction Evidence Presentation Question
 
 State's stated intention not to offer forensic-extraction evidence from seized electronics at preliminary hearing.
 
@@ -240,11 +240,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1948.2, C-2684, N-69*
+*Related: A-1948.2, C-2684, N-40*
 
 ---
 
-**N-10671** Ben Shapiro / Daily Wire Influence on Alliance Defending Freedom
+**N-10596** Ben Shapiro / Daily Wire Influence on Alliance Defending Freedom
 
 Pattern of host assertions regarding Daily Wire personnel at ADF and ADF litigation coordination with Erika Kirk.
 
@@ -257,7 +257,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10672** Charlie GPT Pitch Question
+**N-10597** Charlie GPT Pitch Question
 
 Admitted pre-death pitches for AI "Charlie GPT" product and host's open question about whether a pitch was accepted.
 
@@ -270,7 +270,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10673** Lance Twiggs Federal Asset Question
+**N-10598** Lance Twiggs Federal Asset Question
 
 Host's speculative but anchored concern regarding Lance Twiggs's status in light of Discord statement and Robinson's relationship.
 
@@ -279,7 +279,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1948.2, A-1955.1, C-2692, N-69*
+*Related: A-1948.2, A-1955.1, C-2692, N-40*
 
 ---
 
@@ -292,9 +292,9 @@ Claim Timestamp: 00:33:31
 Claim: The defense Motion to Exclude Still Photography records a Miranda advisement at the 3-hour-36-minute mark of an interview video, which the host identifies as 6:25 p.m. on September 11, 2025.
 
 Anchored Artifacts: A-1948.1
-Mentions: N-69, N-676
+Mentions: N-40, N-431
 
-Related Nodes: N-10668
+Related Nodes: N-10593
 
 Investigative Direction: Obtain certified copy of motion and underlying video exhibit; cross-reference timestamp with booking and arrest records.
 
@@ -307,7 +307,7 @@ Claim Timestamp: 00:33:31
 Claim: During the recorded Mirandization referenced in A-1948.1, Robinson asked to speak with attorney Doug Terry and noted Terry's office was closed.
 
 Anchored Artifacts: A-1948.1
-Mentions: N-69, N-676
+Mentions: N-40, N-431
 
 Related Nodes:
 
@@ -322,9 +322,9 @@ Claim Timestamp: 00:47:08
 Claim: In a state filing on preliminary-hearing evidence, the prosecution states it does not intend to offer evidence obtained through forensic extractions of electronics seized in the case, while reserving the right to show photographs of text-message contents captured from a device.
 
 Anchored Artifacts: A-1948.2
-Mentions: N-69
+Mentions: N-40
 
-Related Nodes: N-10670
+Related Nodes: N-10595
 
 Investigative Direction: Obtain the underlying filing directly and confirm language; assess chain-of-custody implications.
 
@@ -339,7 +339,7 @@ Claim: An audio recording played in the episode contains the phrase "I appoint m
 Anchored Artifacts: A-1949.1
 Mentions: N-1, N-2
 
-Related Nodes: N-10669
+Related Nodes: N-10594
 
 Investigative Direction: Authenticate timestamp, venue, and speakers; obtain the unredacted video referenced by Turning Point USA.
 
@@ -352,9 +352,9 @@ Claim Timestamp: 00:13:17
 Claim: In a recorded interview clip, Andrew Kolvet states that pitches for a "Charlie GPT" product were received multiple times.
 
 Anchored Artifacts: A-1950.1
-Mentions: N-42
+Mentions: N-14
 
-Related Nodes: N-10672
+Related Nodes: N-10597
 
 Investigative Direction: Identify the date and outlet of the interview; obtain full interview transcript; verify whether any pitch was accepted.
 
@@ -369,7 +369,7 @@ Claim: An internal Alliance Defending Freedom CEO video played in the episode re
 Anchored Artifacts: A-1951.1
 Mentions: N-2, N-3
 
-Related Nodes: N-10671
+Related Nodes: N-10596
 
 Investigative Direction: Authenticate the internal video; obtain the underlying ADF board materials.
 
@@ -383,7 +383,7 @@ Claim: According to host testimony supported by an ADF internal presentation, Da
 
 Anchored Artifacts: A-1951.2
 
-Related Nodes: N-10671
+Related Nodes: N-10596
 
 Investigative Direction: Cross-check ADF public filings (Form 990, board roster) for Caleb Robinson's name and tenure.
 
@@ -396,7 +396,7 @@ Claim Timestamp: 00:52:54
 Claim: A Trump Truth Social post is read aloud in the episode calling Pope Leo XIV "weak on crime" and criticizing the Pope's positions on Iran, Venezuela, and criticism of the President.
 
 Anchored Artifacts: A-1952.1
-Mentions: N-675
+Mentions: N-430
 
 Related Nodes:
 
@@ -411,7 +411,7 @@ Claim Timestamp: 00:57:23
 Claim: In a video response played in the episode, Pope Leo XIV states his message is "blessed are the peacemakers" and that he does not view his role as political.
 
 Anchored Artifacts: A-1953.1
-Mentions: N-675
+Mentions: N-430
 
 Related Nodes:
 
@@ -426,7 +426,7 @@ Claim Timestamp: 00:59:24
 Claim: In a press-conference clip, Trump defends the AI image of himself as Jesus by stating he thought it depicted him as a doctor / Red Cross worker.
 
 Anchored Artifacts: A-1954.1
-Mentions: N-675
+Mentions: N-430
 
 Related Nodes:
 
@@ -441,9 +441,9 @@ Claim Timestamp: 00:42:44
 Claim: A Discord statement published in The Hill on September 12, 2025, asserts that Discord identified an account associated with the suspect but found no evidence the suspect planned the incident or promoted violence on Discord.
 
 Anchored Artifacts: A-1955.1
-Mentions: N-69
+Mentions: N-40
 
-Related Nodes: N-10673
+Related Nodes: N-10598
 
 Investigative Direction: Retrieve the original Discord statement and The Hill article for exact text.
 
@@ -456,9 +456,9 @@ Claim Timestamp: 00:40:19
 Claim: Host references a search warrant indicating Tyler Robinson arrived at the Washington County Sheriff's Office at 10:26 p.m. with his parents.
 
 Anchored Artifacts: A-1956.1
-Mentions: N-69
+Mentions: N-40
 
-Related Nodes: N-10668
+Related Nodes: N-10593
 
 Investigative Direction: Obtain the search warrant docket entry and verify exact time/date stamps.
 
@@ -473,7 +473,7 @@ Claim: Host testifies that two TPUSA donors who attended the Aspen investor retr
 Anchored Artifacts: A-1957.1
 Mentions: N-1, N-2
 
-Related Nodes: N-10669
+Related Nodes: N-10594
 
 Investigative Direction: Identify and contact the donors for recorded testimony; obtain any contemporaneous notes or attendee lists.
 
@@ -486,9 +486,9 @@ Claim Timestamp: 00:47:50
 Claim: Per the filing excerpt read aloud, the state intends to offer two exhibits that used cameras to record the contents of text messages, rather than forensic-extraction evidence.
 
 Anchored Artifacts: A-1948.2
-Mentions: N-69, N-84
+Mentions: N-40, N-54
 
-Related Nodes: N-10670, N-10673
+Related Nodes: N-10595, N-10598
 
 Investigative Direction: Obtain filing directly; assess admissibility standards for photographs-vs-forensic-extraction under Utah rules of evidence.
 
@@ -501,7 +501,7 @@ Claim Timestamp: 00:51:46–00:58:29
 Claim: Host places the Trump Truth Social attack on Pope Leo XIV and the papal response during the Easter period.
 
 Anchored Artifacts: A-1952.1, A-1953.1
-Mentions: N-675
+Mentions: N-430
 
 Related Nodes:
 
@@ -516,9 +516,9 @@ Claim Timestamp: 00:43:32
 Claim: Host asserts (based on the Discord statement and subsequent federal characterization) that the federal government initially described the messages as Discord and later revised the description to iMessage.
 
 Anchored Artifacts: A-1955.1
-Mentions: N-69
+Mentions: N-40
 
-Related Nodes: N-10673
+Related Nodes: N-10598
 
 Investigative Direction: Obtain all federal court filings referencing the messaging platform used; compare earliest FBI statements with later court filings.
 
@@ -533,7 +533,7 @@ Claim: The host says her source told her that around 7:00 p.m. people locally be
 Transcript Snippet: I believe that my source was on the money when they said that they knew it was Tyler Robinson at 7:00.
 
 Anchored Artifacts: 
-Mentions: N-3, N-69, N-70, N-102, N-186
+Mentions: N-3, N-40, N-41, N-69, N-135
 Related Nodes: 
 Investigative Direction: Obtain the time-stamped local texts and dispatch logs for the Warner Valley pickup; compare against the 8:00 p.m. press-conference statements.
 

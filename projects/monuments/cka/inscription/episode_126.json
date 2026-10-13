@@ -56,9 +56,9 @@
             "C-3027"
           ],
           "related_nodes": [
-            "N-11116",
-            "N-11117",
-            "N-809"
+            "N-10717",
+            "N-10718",
+            "N-517"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -76,8 +76,8 @@
             "C-3028"
           ],
           "related_nodes": [
-            "N-11117",
-            "N-809"
+            "N-10718",
+            "N-517"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -103,7 +103,7 @@
             "C-3029"
           ],
           "related_nodes": [
-            "N-11116"
+            "N-10717"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -138,7 +138,7 @@
             "C-3034"
           ],
           "related_nodes": [
-            "N-11118"
+            "N-10719"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -164,7 +164,7 @@
             "C-3032"
           ],
           "related_nodes": [
-            "N-11116"
+            "N-10717"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -190,7 +190,7 @@
             "C-3035"
           ],
           "related_nodes": [
-            "N-11119"
+            "N-10720"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -214,7 +214,7 @@
           "description": "Comperatore Statement on \"Inside Job\" Belief Regarding Butler",
           "related_claims": [],
           "related_nodes": [
-            "N-11123"
+            "N-10724"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -232,7 +232,7 @@
             "C-3038"
           ],
           "related_nodes": [
-            "N-11123"
+            "N-10724"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -259,7 +259,7 @@
             "C-3040"
           ],
           "related_nodes": [
-            "N-11121"
+            "N-10722"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -286,7 +286,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-11122"
+            "N-10723"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -301,8 +301,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11116",
-      "ref": "N-11116",
+      "@id": "N-10717",
+      "ref": "N-10717",
       "name": "Losee Center–Library Route Discrepancy",
       "type": "investigation_target",
       "description": "Investigative target: the geographic and testimonial claim that items/persons near the Fulton Library are linked to a \"route\" from Losee Center despite distance.",
@@ -324,8 +324,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11117",
-      "ref": "N-11117",
+      "@id": "N-10718",
+      "ref": "N-10718",
       "name": "Abandoned Tactical Items Testing Discontinued",
       "type": "investigation_target",
       "description": "Investigative target: the FBI/ATF lab decision to halt DNA/other analysis on the abandoned backpack, jacket, gloves (and up to 9 items).",
@@ -346,8 +346,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11118",
-      "ref": "N-11118",
+      "@id": "N-10719",
+      "ref": "N-10719",
       "name": "Prosecution Non-Call of Rooftop Eyewitness",
       "type": "investigation_target",
       "description": "Investigative target: the absence of the rooftop eyewitness from the prosecution's witness list despite recorded video and filed report.",
@@ -366,8 +366,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11119",
-      "ref": "N-11119",
+      "@id": "N-10720",
+      "ref": "N-10720",
       "name": "Bank of America Network Connection",
       "type": "investigation_target",
       "description": "Investigative target: recurring Bank of America/Merrill Lynch consultancy or employment ties among figures in the investigation orbit (Tyler Bowyer's father, Frank Turek, others).",
@@ -383,13 +383,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-37"
+        "N-11"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11120",
-      "ref": "N-11120",
+      "@id": "N-10721",
+      "ref": "N-10721",
       "name": "Comperatore \"Inside Job\" Allegation",
       "type": "investigation_target",
       "description": "Investigative target: Helen Comperatore's on-record assertion that Butler shooting involved an inside collaborator with Thomas Crooks.",
@@ -405,13 +405,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11123"
+        "N-10724"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11121",
-      "ref": "N-11121",
+      "@id": "N-10722",
+      "ref": "N-10722",
       "name": "Clock Tower X / Israeli Influence Operation",
       "type": "investigation_target",
       "description": "Investigative target: Brad Parscale's firm contracted by Israeli foreign ministry for digital influence campaign; Time-reported failure and cost figures.",
@@ -430,8 +430,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11122",
-      "ref": "N-11122",
+      "@id": "N-10723",
+      "ref": "N-10723",
       "name": "Carhartt \"Freedom Shirt\" Origin",
       "type": "investigation_target",
       "description": "Investigative target: provenance of the custom Carhartt shirt worn by Charlie on Sept 10; absence of Carhartt as documented TPUSA vendor.",
@@ -452,8 +452,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11123",
-      "ref": "N-11123",
+      "@id": "N-10724",
+      "ref": "N-10724",
       "name": "Butler Shooting Insider Involvement Claim",
       "type": "investigation_target",
       "description": "Investigative target: Helen Comperatore's claim that Butler shooting involved an \"inside\" collaborator and her appeal to President Trump.",
@@ -471,7 +471,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11120"
+        "N-10721"
       ]
     },
     {
@@ -492,11 +492,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-37",
-      "ref": "N-37",
+      "@id": "N-11",
+      "ref": "N-11",
       "name": "Tyler Bowyer",
       "type": "person",
-      "description": "Person Tyler Bowyer (N-37).",
+      "description": "Person Tyler Bowyer (N-11).",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -507,8 +507,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Comments revisit CPR narratives vs unnamed fire captain.",
@@ -523,8 +523,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-75",
-      "ref": "N-75",
+      "@id": "N-46",
+      "ref": "N-46",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
@@ -539,8 +539,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-685",
-      "ref": "N-685",
+      "@id": "N-440",
+      "ref": "N-440",
       "name": "Brad Parscale",
       "type": "person",
       "description": "Named by the host at 00:34:37 in episode 126; first introduced in episode 99.",
@@ -557,8 +557,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-809",
-      "ref": "N-809",
+      "@id": "N-517",
+      "ref": "N-517",
       "name": "Jennifer Faumuina",
       "type": "person",
       "description": "First named by the host at 00:08:30 in episode 126. Aliases: Jennifer Filomena, Jennifer Felomina, Jennifer Faumina.",
@@ -572,8 +572,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-808",
-      "ref": "N-808",
+      "@id": "N-516",
+      "ref": "N-516",
       "name": "Nate Walker",
       "type": "person",
       "description": "First named by the host at 00:03:16 in episode 126.",
@@ -601,14 +601,14 @@
         "A-2139.1"
       ],
       "related_nodes": [
-        "N-11116",
-        "N-11117"
+        "N-10717",
+        "N-10718"
       ],
       "tags": [],
       "claim_timestamp": "00:08:30",
       "investigative_direction": "Obtain hearing transcript or video exhibits to verify item count (three vs. nine) and chain of custody.",
       "mentions_person_refs": [
-        "N-809"
+        "N-517"
       ]
     },
     {
@@ -621,13 +621,13 @@
         "A-2139.2"
       ],
       "related_nodes": [
-        "N-11117"
+        "N-10718"
       ],
       "tags": [],
       "claim_timestamp": "00:09:25",
       "investigative_direction": "Obtain FBI/ATF lab correspondence and UVU communications log for the testing discontinuation instruction.",
       "mentions_person_refs": [
-        "N-809"
+        "N-517"
       ]
     },
     {
@@ -640,7 +640,7 @@
         "A-2140.1"
       ],
       "related_nodes": [
-        "N-11116"
+        "N-10717"
       ],
       "tags": [],
       "claim_timestamp": "00:16:09",
@@ -657,7 +657,7 @@
         "A-2140.2"
       ],
       "related_nodes": [
-        "N-11116"
+        "N-10717"
       ],
       "tags": [],
       "claim_timestamp": "00:18:26",
@@ -689,7 +689,7 @@
         "A-2141.1"
       ],
       "related_nodes": [
-        "N-11116"
+        "N-10717"
       ],
       "tags": [],
       "claim_timestamp": "00:22:01",
@@ -704,7 +704,7 @@
       "claim": "Host states that initial police scanner traffic described a person in a face mask and tactical gear, contrasting with subsequent federal narrative claims of jeans-only attire.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11116"
+        "N-10717"
       ],
       "tags": [],
       "claim_timestamp": "00:19:08",
@@ -721,7 +721,7 @@
         "A-2140.3"
       ],
       "related_nodes": [
-        "N-11118"
+        "N-10719"
       ],
       "tags": [],
       "claim_timestamp": "00:14:25",
@@ -738,13 +738,13 @@
         "A-2142.1"
       ],
       "related_nodes": [
-        "N-11119"
+        "N-10720"
       ],
       "tags": [],
       "claim_timestamp": "00:07:20",
       "investigative_direction": "Verify Bank of America consultancy records and corroborate the 2011 firing and stated reason.",
       "mentions_person_refs": [
-        "N-16"
+        "N-7"
       ]
     },
     {
@@ -757,15 +757,15 @@
         "A-2138.1"
       ],
       "related_nodes": [
-        "N-11122"
+        "N-10723"
       ],
       "tags": [],
       "claim_timestamp": "00:03:16",
       "investigative_direction": "Obtain full Megyn Kelly interview and any prior on-record statements by Walker.",
       "mentions_person_refs": [
         "N-1",
-        "N-75",
-        "N-808"
+        "N-46",
+        "N-516"
       ]
     },
     {
@@ -778,8 +778,8 @@
         "A-2143.1"
       ],
       "related_nodes": [
-        "N-11120",
-        "N-11123"
+        "N-10721",
+        "N-10724"
       ],
       "tags": [],
       "claim_timestamp": "00:29:15",
@@ -796,7 +796,7 @@
         "A-2143.2"
       ],
       "related_nodes": [
-        "N-11123"
+        "N-10724"
       ],
       "tags": [],
       "claim_timestamp": "00:31:50",
@@ -813,13 +813,13 @@
         "A-2144.1"
       ],
       "related_nodes": [
-        "N-11121"
+        "N-10722"
       ],
       "tags": [],
       "claim_timestamp": "00:34:37",
       "investigative_direction": "Obtain Time article in full; verify spend figures and named individuals (e.g., Eyal Yakoby).",
       "mentions_person_refs": [
-        "N-685"
+        "N-440"
       ]
     },
     {
@@ -832,13 +832,13 @@
         "A-2144.1"
       ],
       "related_nodes": [
-        "N-11121"
+        "N-10722"
       ],
       "tags": [],
       "claim_timestamp": "00:35:39",
       "investigative_direction": "Verify the $1.5M/day figure against the Time article text and any underlying contracts/filings cited.",
       "mentions_person_refs": [
-        "N-685"
+        "N-440"
       ]
     },
     {
@@ -851,7 +851,7 @@
         "A-2145.1"
       ],
       "related_nodes": [
-        "N-11122"
+        "N-10723"
       ],
       "tags": [],
       "claim_timestamp": "00:01:37",

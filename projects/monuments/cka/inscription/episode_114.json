@@ -34,8 +34,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
@@ -50,8 +50,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
@@ -66,8 +66,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-148",
-      "ref": "N-148",
+      "@id": "N-105",
+      "ref": "N-105",
       "name": "Thomas Matthew Crooks",
       "type": "person",
       "description": "July 13, 2024 Trump-rally rooftop shooter; subject of scraped online-history doc.",
@@ -82,8 +82,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-629",
-      "ref": "N-629",
+      "@id": "N-388",
+      "ref": "N-388",
       "name": "Dan Bongino",
       "type": "person",
       "description": "Reused; first introduced in episode 15.",
@@ -112,10 +112,10 @@
       "transcript_snippet": "this story, the butler story, perhaps the butler cover up, whatever it is, terrified Dan Bonino and terrified Kash Patel.",
       "mentions_person_refs": [
         "N-3",
-        "N-50",
-        "N-629",
-        "N-102",
-        "N-148"
+        "N-22",
+        "N-388",
+        "N-69",
+        "N-105"
       ]
     }
   ],

@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 027972826917e7ed3d60ede399594503c96a505a5fc947c067de3c3bc5488af4
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-614, N-621, N-10446, N-10447, N-10448, N-10449, N-10450, N-10451
+  - New Nodes Introduced:  N-377, N-380, N-10375, N-10376, N-10377, N-10378, N-10379, N-10380
   - Reused Nodes Appearing: N-2
-  - Tip-minted Nodes (wave2): N-11390, N-11391
+  - Tip-minted Nodes (wave2): N-10899, N-10900
   - (see registers)
 
 ---
@@ -41,7 +41,7 @@ Video Timestamp: 00:04:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1989, C-1990, N-443, N-2, N-10447*
+*Related: C-1989, C-1990, N-283, N-2, N-10376*
 
 **A-1568.2** Tim Dillon clip – RFK Jr. / "What's going on" segment
 
@@ -51,7 +51,7 @@ Video Timestamp: 00:14:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1992, N-443*
+*Related: C-1992, N-283*
 
 **A-1568.3** Tim Dillon clip – "satanic pedophiles" / apartment monologue segment
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:21:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1993, N-443*
+*Related: C-1993, N-283*
 
 **A-1569** AmFest Reporter Tent Description Clip
 
@@ -73,7 +73,7 @@ Video Timestamp: 00:09:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1991, N-10447*
+*Related: C-1991, N-10376*
 
 **A-1570** Barry Weiss CBS Hunter Cosgrove Clip
 
@@ -85,7 +85,7 @@ Video Timestamp: 00:17:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1994, N-444, N-614, N-2, N-10448*
+*Related: C-1994, N-284, N-377, N-2, N-10377*
 
 **A-1571** Charlie Kirk / Justice Smith MK Ultra Interview Clip
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:35:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1995, N-1, N-621*
+*Related: C-1995, N-1, N-380*
 
 **A-1572** Alex Jones InfoWars Declaration Clip
 
@@ -109,7 +109,7 @@ Video Timestamp: 00:40:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1996, N-128*
+*Related: C-1996, N-93*
 
 **A-1573** Paramount Tactical Valhalla Stream Clip
 
@@ -121,7 +121,7 @@ Video Timestamp: 00:48:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1997, N-11390, N-42, N-2, N-10451*
+*Related: C-1997, N-10899, N-14, N-2, N-10380*
 
 **A-1574** Mitch Snow's Son Interview Clip
 
@@ -133,7 +133,7 @@ Video Timestamp: 00:45:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1998, N-597, N-424, N-10446*
+*Related: C-1998, N-369, N-272, N-10375*
 
 **A-1575** Daily Wire Re-released Trailer (2021)
 
@@ -145,7 +145,7 @@ Video Timestamp: 00:30:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1999, N-11391, N-10450*
+*Related: C-1999, N-10900, N-10379*
 
 **A-1576** Top Comments Bundle (from prior episode, read aloud)
 
@@ -157,7 +157,7 @@ Video Timestamp: 01:07:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2000, N-10447, N-1*
+*Related: C-2000, N-10376, N-1*
 
 **A-1576.2** Army sniper comment read aloud: "Retired army law enforcement here. Paramount Tactical Valhalla. They are an embarrassment to me as a vet."
 
@@ -167,7 +167,7 @@ Video Timestamp: 01:08:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2001, N-11390, N-10446*
+*Related: C-2001, N-10899, N-10375*
 
 ---
 
@@ -182,9 +182,9 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1991, C-1994, C-1995, C-2000, A-1568.1, A-1569.1, A-1570.1, A-1571.1, A-1576.1, N-10447*
+*Related: C-1991, C-1994, C-1995, C-2000, A-1568.1, A-1569.1, A-1570.1, A-1571.1, A-1576.1, N-10376*
 
-**N-42** Andrew Kolvet
+**N-14** Andrew Kolvet
 
 Central figure in the alleged coordination of attacks on Mitch Snow; multiple spelling variants used on air (Kolbect, Kolvet, Kolbe, Kolbintz, Kolvintz).
 
@@ -193,9 +193,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1997, A-1573.1, N-10449*
+*Related: C-1997, A-1573.1, N-10378*
 
-**N-443** Tim Dillon
+**N-283** Tim Dillon
 
 Source of three artifact-anchored comedy clips played on air.
 
@@ -206,7 +206,7 @@ Investigative Pressure: Low
 
 *Related: C-1989, C-1990, C-1992, C-1993, A-1568.1, A-1568.2, A-1568.3*
 
-**N-444** Bari Weiss
+**N-284** Bari Weiss
 
 On-camera CBS interviewer who introduced Hunter Cosgrove to Erica Kirk at the AmFest / CBS stage event.
 
@@ -217,7 +217,7 @@ Investigative Pressure: Medium
 
 *Related: C-1994, A-1570.1*
 
-**N-614** Hunter Cosgrove (UVU student)
+**N-377** Hunter Cosgrove (UVU student)
 
 Utah Valley University student identified by Barry Weiss as the last person Charlie Kirk spoke to before being shot; name also rendered "Hunter Kozak" in host narration.
 
@@ -226,9 +226,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1994, A-1570.1, N-10448*
+*Related: C-1994, A-1570.1, N-10377*
 
-**N-128** Alex Jones
+**N-93** Alex Jones
 
 Source of declaration-of-war clip against Candace over Mitch Snow coverage.
 
@@ -239,7 +239,7 @@ Investigative Pressure: Medium
 
 *Related: C-1996, A-1572.1*
 
-**N-597** Mitch Snow
+**N-369** Mitch Snow
 
 Subject and source of Fort Huachuca sightings testimony; his son's interview (A-1574) provides partial corroboration.
 
@@ -248,9 +248,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1998, A-1574.1, N-10446*
+*Related: C-1998, A-1574.1, N-10375*
 
-**N-11390** Paramount Tactical Valhalla
+**N-10899** Paramount Tactical Valhalla
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -264,7 +264,7 @@ Investigative Pressure: Medium
 
 *Related: C-1997, C-2001, A-1573.1, A-1576.2*
 
-**N-424** Brian Harpole
+**N-272** Brian Harpole
 
 Named in host discussion of Mitch Snow's Fort Huachuca sightings; referenced in the son's interview clip regarding the September 9 contact.
 
@@ -273,9 +273,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1574.1, N-10446*
+*Related: A-1574.1, N-10375*
 
-**N-621** Justice Smith
+**N-380** Justice Smith
 
 Interviewer in the October 2024 Charlie Kirk MK Ultra clip.
 
@@ -286,7 +286,7 @@ Investigative Pressure: Low
 
 *Related: C-1995, A-1571.1*
 
-**N-11391** Daily Wire
+**N-10900** Daily Wire
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -298,9 +298,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1999, A-1575.1, N-10450*
+*Related: C-1999, A-1575.1, N-10379*
 
-**N-10446** Fort Huachuca Sighting Verification
+**N-10375** Fort Huachuca Sighting Verification
 
 Persistent target verifying Mitch Snow's claims about Brian Harpole at a top-brass meeting on the morning of September 9 and the Candlewood Inn sightings on September 8. Partial corroboration via the son's interview (A-1574) and Army sniper comment (A-1576.2).
 
@@ -309,9 +309,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1998, C-2001, A-1574.1, A-1576.2, N-597, N-424*
+*Related: C-1998, C-2001, A-1574.1, A-1576.2, N-369, N-272*
 
-**N-10447** AmFest Tent Recreation Approval Chain
+**N-10376** AmFest Tent Recreation Approval Chain
 
 Persistent target tracking who approved the tent recreation at AmFest and whether attendees took informal organizing activity (selfies) with the replica.
 
@@ -322,7 +322,7 @@ Investigative Pressure: High
 
 *Related: C-1989, C-1991, C-2000, A-1568.1, A-1569.1, A-1576.1, N-1*
 
-**N-10448** Hunter Cosgrove / Kozak Identity Discrepancy
+**N-10377** Hunter Cosgrove / Kozak Identity Discrepancy
 
 Persistent target verifying the correct spelling and identity of the UVU student introduced by Barry Weiss.
 
@@ -331,9 +331,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1994, A-1570.1, N-614*
+*Related: C-1994, A-1570.1, N-377*
 
-**N-10449** Andrew Kolbet Coordination with Attackers of Mitch Snow
+**N-10378** Andrew Kolbet Coordination with Attackers of Mitch Snow
 
 Persistent target verifying whether Andrew Kolbet coordinated with Alex Jones, Paramount Tactical Valhalla, Ian Carroll, and others to discredit Mitch Snow.
 
@@ -342,9 +342,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1997, A-1573.1, N-42*
+*Related: C-1997, A-1573.1, N-14*
 
-**N-10450** Daily Wire Social Media Reactivation
+**N-10379** Daily Wire Social Media Reactivation
 
 Persistent target verifying why the Daily Wire reactivated Candace's YouTube and Instagram and re-released her 2021 trailer on her own channels.
 
@@ -353,9 +353,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1999, A-1575.1, N-11391*
+*Related: C-1999, A-1575.1, N-10900*
 
-**N-10451** Erica Kirk September 8 Alibi
+**N-10380** Erica Kirk September 8 Alibi
 
 Persistent target verifying whether Erica Kirk was at the Fort Huachuca Candlewood Inn on September 8, in light of Andrew Kolbet's written alibi instructions and the phone-call/dinner exchange referenced by host.
 
@@ -377,9 +377,9 @@ Claim Timestamp: 00:04:47
 Claim: A Tim Dillon comedy segment played on air describes Turning Point USA's AmFest event as a "right wing abomination" and "bad reality show."
 
 Anchored Artifacts: A-1568.1
-Mentions: N-443
+Mentions: N-283
 
-Related Nodes: N-10447
+Related Nodes: N-10376
 
 Investigative Direction: Verify Tim Dillon's segment against the original recording and timestamp the exact quoted phrases.
 
@@ -390,7 +390,7 @@ Claim Timestamp: 00:04:47
 Claim: A Tim Dillon comedy segment played on air observes that Erica Kirk walked out to a pyrotechnic display in a glittering pantsuit three months after Charlie Kirk's killing and immediately pivoted to discussing the election of J. D. Vance.
 
 Anchored Artifacts: A-1568.1
-Mentions: N-2, N-443, N-1
+Mentions: N-2, N-283, N-1
 
 
 Investigative Direction: Verify the quoted observations against video footage of the AmFest opening and identify the precise sequence of Erica Kirk's stage appearance.
@@ -404,7 +404,7 @@ Claim: An on-scene reporter played on air described, with the tent visible behin
 Anchored Artifacts: A-1569.1
 Mentions: N-1
 
-Related Nodes: N-10447
+Related Nodes: N-10376
 
 Investigative Direction: Identify the reporter and outlet, obtain the original broadcast segment, and verify the timeline of when the tent replica was displayed.
 
@@ -415,7 +415,7 @@ Claim Timestamp: 00:14:17
 Claim: A Tim Dillon comedy segment played on air characterizes RFK Jr. as the least scandal-prone member of the current administration while noting recurring leaked text scandals involving him.
 
 Anchored Artifacts: A-1568.2
-Mentions: N-443
+Mentions: N-283
 
 
 Investigative Direction: Verify the segment against the source recording and identify which text leaks are being referenced.
@@ -427,7 +427,7 @@ Claim Timestamp: 00:21:38
 Claim: A Tim Dillon comedy segment played on air asserts that contemporary culture is the product of denial of elite pedophilia and that this denial has produced "slop," "nothingness," and "emptiness."
 
 Anchored Artifacts: A-1568.3
-Mentions: N-443
+Mentions: N-283
 
 
 Investigative Direction: Verify the segment against the source recording; assess whether the host's framing of this clip as investigative commentary is supported by the artifact.
@@ -439,9 +439,9 @@ Claim Timestamp: 00:17:33
 Claim: A Barry Weiss CBS segment played on air introduces Hunter Cosgrove as the last person Charlie Kirk ever spoke to and brings him on stage to ask Erica Kirk a question.
 
 Anchored Artifacts: A-1570.1
-Mentions: N-2, N-444, N-614, N-1
+Mentions: N-2, N-284, N-377, N-1
 
-Related Nodes: N-10448
+Related Nodes: N-10377
 
 Investigative Direction: Verify the spelling "Cosgrove" against the original CBS broadcast and against public identification of the UVU student; confirm the timeline and question content.
 
@@ -452,7 +452,7 @@ Claim Timestamp: 00:35:58
 Claim: An October 2024 interview clip played on air shows Charlie Kirk telling Justice Smith that there is no evidence MK Ultra ended, that Operation Mockingbird 2 is in effect, and that the CIA is actively involved in domestic mind manipulation.
 
 Anchored Artifacts: A-1571.1
-Mentions: N-1, N-621
+Mentions: N-1, N-380
 
 
 Investigative Direction: Verify the clip against the original October 2024 interview recording; identify the publication or platform where the original interview was published.
@@ -464,7 +464,7 @@ Claim Timestamp: 00:40:44
 Claim: An Alex Jones InfoWars segment played on air declares war on Candace Owens in connection with her coverage of Mitch Snow and labels her a "globalist agent."
 
 Anchored Artifacts: A-1572.1
-Mentions: N-128, N-3, N-597
+Mentions: N-93, N-3, N-369
 
 
 Investigative Direction: Identify the original InfoWars episode date and timestamp; verify the exact wording and the broader context of Jones's statement.
@@ -476,9 +476,9 @@ Claim Timestamp: 00:48:18
 Claim: A Paramount Tactical Valhalla livestream segment played on air shows the host reading written instructions from Andrew Kolvet providing an alibi for Erica Kirk on the morning of September 9, then saying "Sorry Andrew, I screwed that up" after sharing content he was told not to share.
 
 Anchored Artifacts: A-1573.1
-Mentions: N-2, N-42
+Mentions: N-2, N-14
 
-Related Nodes: N-10451, N-11390
+Related Nodes: N-10380, N-10899
 
 Investigative Direction: Obtain the full unedited Paramount Tactical Valhalla stream; verify the original wording of Andrew Kolvet's instructions and the chain of custody.
 
@@ -489,9 +489,9 @@ Claim Timestamp: 00:45:37
 Claim: An interview clip played on air shows Mitch Snow's adult son stating he was contacted on September 9 by military police asking about Mitch Snow as the listed emergency contact, and describing Fort Huachuca access protocols and amenities consistent with Mitch Snow's account of being on post.
 
 Anchored Artifacts: A-1574.1
-Mentions: N-424, N-597
+Mentions: N-272, N-369
 
-Related Nodes: N-10446
+Related Nodes: N-10375
 
 Investigative Direction: Identify the interviewer and platform; obtain the unedited interview recording to assess whether the son's statements corroborate or contradict Mitch Snow's account.
 
@@ -504,7 +504,7 @@ Claim: The Daily Wire reactivated Candace Owens' previously privatized YouTube c
 Anchored Artifacts: A-1575.1
 Mentions: N-3
 
-Related Nodes: N-10450, N-11391
+Related Nodes: N-10379, N-10900
 
 Investigative Direction: Confirm via YouTube and Instagram audit logs that the reactivation and re-upload occurred; obtain the trailer file metadata to verify the 2021 production date.
 
@@ -517,7 +517,7 @@ Claim: A top fan comment from the prior episode, read aloud on air, characterize
 Anchored Artifacts: A-1576.1
 Mentions: N-1
 
-Related Nodes: N-10447
+Related Nodes: N-10376
 
 Investigative Direction: Verify the comment against the original top-comments thread and identify the commenter's account.
 
@@ -530,7 +530,7 @@ Claim: A top fan comment from the prior episode, read aloud on air, identifies t
 Anchored Artifacts: A-1576.2
 Mentions:
 
-Related Nodes: N-10446, N-11390
+Related Nodes: N-10375, N-10899
 
 Investigative Direction: Verify the comment against the original thread and consider the commenter's stated credentials in assessing the credibility of the criticism.
 
@@ -541,9 +541,9 @@ Claim Timestamp: 00:49:10
 Claim: The host asserts on air that the Paramount Tactical Valhalla stream's accidental exposure of Andrew Kolvet's written instructions confirms coordination between Andrew Kolbet and the parties attacking Mitch Snow, undermining the prior "Andrew went rogue" narrative.
 
 Anchored Artifacts: A-1573.1
-Mentions: N-42, N-597
+Mentions: N-14, N-369
 
-Related Nodes: N-10449, N-11390
+Related Nodes: N-10378, N-10899
 
 Investigative Direction: Obtain additional communication between Andrew Kolbet and the involved accounts; verify whether the "rogue" narrative was authorized at higher TPUSA levels.
 

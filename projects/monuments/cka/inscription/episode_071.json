@@ -30,7 +30,7 @@
             "C-2326"
           ],
           "related_nodes": [
-            "N-910"
+            "N-567"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -58,7 +58,7 @@
             "C-2329"
           ],
           "related_nodes": [
-            "N-910"
+            "N-567"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -84,7 +84,7 @@
             "C-2330"
           ],
           "related_nodes": [
-            "N-10570"
+            "N-10499"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -111,7 +111,7 @@
             "C-2332"
           ],
           "related_nodes": [
-            "N-10570"
+            "N-10499"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -189,7 +189,7 @@
             "C-2335"
           ],
           "related_nodes": [
-            "N-10570"
+            "N-10499"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -215,8 +215,8 @@
             "C-2336"
           ],
           "related_nodes": [
-            "N-907",
-            "N-10568"
+            "N-564",
+            "N-10497"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -234,8 +234,8 @@
             "C-2337"
           ],
           "related_nodes": [
-            "N-907",
-            "N-10568"
+            "N-564",
+            "N-10497"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -262,8 +262,8 @@
             "C-2339"
           ],
           "related_nodes": [
-            "N-907",
-            "N-10568"
+            "N-564",
+            "N-10497"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -290,9 +290,9 @@
             "C-2341"
           ],
           "related_nodes": [
-            "N-890",
-            "N-908",
-            "N-10569"
+            "N-557",
+            "N-565",
+            "N-10498"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -321,8 +321,8 @@
             "C-2345"
           ],
           "related_nodes": [
-            "N-909",
-            "N-10571"
+            "N-566",
+            "N-10500"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -340,7 +340,7 @@
             "C-2346"
           ],
           "related_nodes": [
-            "N-909"
+            "N-566"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -366,7 +366,7 @@
             "C-2347"
           ],
           "related_nodes": [
-            "N-10570"
+            "N-10499"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -407,8 +407,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-890",
-      "ref": "N-890",
+      "@id": "N-557",
+      "ref": "N-557",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
@@ -425,16 +425,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-907",
-        "N-908",
-        "N-10568",
-        "N-10569"
+        "N-564",
+        "N-565",
+        "N-10497",
+        "N-10498"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-907",
-      "ref": "N-907",
+      "@id": "N-564",
+      "ref": "N-564",
       "name": "Thomas Martin (Tucson Border Patrol Director)",
       "type": "person",
       "description": "Director / Deputy Chief Patrol Agent with US Border Patrol / DHS in Tucson since at least 1985; potentially same person as Tracy Martin's husband.",
@@ -455,14 +455,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-890",
-        "N-10568"
+        "N-557",
+        "N-10497"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-908",
-      "ref": "N-908",
+      "@id": "N-565",
+      "ref": "N-565",
       "name": "Tracy Martin's Daughter (Unnamed)",
       "type": "person",
       "description": "Allegedly Erica Kirk's assistant; reportedly scheduled to attend UVU on September 10, 2025.",
@@ -479,15 +479,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-890",
+        "N-557",
         "N-2",
-        "N-10569"
+        "N-10498"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-909",
-      "ref": "N-909",
+      "@id": "N-566",
+      "ref": "N-566",
       "name": "Carrie Prejean Bowler",
       "type": "person",
       "description": "Questioner of Seth Dillon at the Religious Liberty Commission hearing on antisemitism; Catholic activist.",
@@ -505,8 +505,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-910",
-      "ref": "N-910",
+      "@id": "N-567",
+      "ref": "N-567",
       "name": "Brian Kilmeade",
       "type": "person",
       "description": "Interviewer of Andrew Kolvet on TPUSA halftime viewership.",
@@ -527,8 +527,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10568",
-      "ref": "N-10568",
+      "@id": "N-10497",
+      "ref": "N-10497",
       "name": "Thomas Martin Identity Verification",
       "type": "investigation_target",
       "description": "Open question: Is the Thomas Martin identified as Director / Deputy Chief Patrol Agent with US Border Patrol / DHS in Tucson (since at least 1985) the same person as Tracy Martin's husband Thomas Martin?",
@@ -549,14 +549,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-890",
-        "N-907"
+        "N-557",
+        "N-564"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10569",
-      "ref": "N-10569",
+      "@id": "N-10498",
+      "ref": "N-10498",
       "name": "Tracy's Daughter Erika Assistant Status Verification",
       "type": "investigation_target",
       "description": "Open question: Is Tracy Martin's daughter actually Erica Kirk's assistant, and was she actually scheduled to attend UVU on September 10, 2025?",
@@ -573,15 +573,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-890",
-        "N-908",
+        "N-557",
+        "N-565",
         "N-2"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10570",
-      "ref": "N-10570",
+      "@id": "N-10499",
+      "ref": "N-10499",
       "name": "TPUSA Halftime Viewership Authenticity",
       "type": "investigation_target",
       "description": "Investigative target: The discrepancy between Andrew Kolvet's claimed TPUSA halftime viewership metrics (6M–20M+ concurrent) and the YouTube screenshot metrics (5,839 views / 175 comments / 667,000 likes), plus the comment-to-view ratio anomaly.",
@@ -608,8 +608,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10571",
-      "ref": "N-10571",
+      "@id": "N-10500",
+      "ref": "N-10500",
       "name": "Hamptons Meeting Characterization Evolution",
       "type": "investigation_target",
       "description": "Investigative target: Evolution in Seth Dillon's characterization of the Hamptons meeting, from prior \"spirited debate\" framing to current on-the-record admission of \"heated\" debate about Israel.",
@@ -627,7 +627,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-909"
+        "N-566"
       ]
     },
     {
@@ -664,8 +664,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-37",
-      "ref": "N-37",
+      "@id": "N-11",
+      "ref": "N-11",
       "name": "Tyler Bowyer",
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
@@ -695,8 +695,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-67",
-      "ref": "N-67",
+      "@id": "N-38",
+      "ref": "N-38",
       "name": "Seth Dillon",
       "type": "person",
       "description": "Subject of Hampton retreat confrontation with Charlie Kirk over hypothetical anti-Netanyahu tweet.",
@@ -711,8 +711,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-75",
-      "ref": "N-75",
+      "@id": "N-46",
+      "ref": "N-46",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
@@ -752,13 +752,13 @@
         "A-1751.1"
       ],
       "related_nodes": [
-        "N-10570"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:08:37–00:09:39",
       "investigative_direction": "Cross-reference Kolvet's interview statement against any contemporaneous social media archives or third-party tracking data.",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -771,13 +771,13 @@
         "A-1751.1"
       ],
       "related_nodes": [
-        "N-10570"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:08:37–00:09:39",
       "investigative_direction": "Verify whether the 10M figure is supported by any third-party analytics for Rumble or YouTube.",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -790,13 +790,13 @@
         "A-1751.1"
       ],
       "related_nodes": [
-        "N-10570"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:08:37–00:09:39",
       "investigative_direction": "Verify the 20M aggregate figure against partner broadcaster analytics if/when released.",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -809,7 +809,7 @@
         "A-1752.1"
       ],
       "related_nodes": [
-        "N-10570"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:10:39",
@@ -825,7 +825,7 @@
         "A-1753.1"
       ],
       "related_nodes": [
-        "N-10570"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:11:41–00:12:58",
@@ -841,7 +841,7 @@
         "A-1753.1"
       ],
       "related_nodes": [
-        "N-10570"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:11:41–00:12:58",
@@ -893,7 +893,7 @@
         "A-1756.1"
       ],
       "related_nodes": [
-        "N-10570"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:16:12",
@@ -909,13 +909,13 @@
         "A-1757.1"
       ],
       "related_nodes": [
-        "N-10568"
+        "N-10497"
       ],
       "tags": [],
       "claim_timestamp": "00:20:59",
       "investigative_direction": "Attempt to retrieve LinkedIn snapshot via archive; cross-check against federal personnel directories.",
       "mentions_person_refs": [
-        "N-907"
+        "N-564"
       ]
     },
     {
@@ -928,13 +928,13 @@
         "A-1757.2"
       ],
       "related_nodes": [
-        "N-10568"
+        "N-10497"
       ],
       "tags": [],
       "claim_timestamp": "00:22:02",
       "investigative_direction": "Retrieve ZoomInfo archive; cross-check federal personnel records.",
       "mentions_person_refs": [
-        "N-907"
+        "N-564"
       ]
     },
     {
@@ -947,13 +947,13 @@
         "A-1758.1"
       ],
       "related_nodes": [
-        "N-10568"
+        "N-10497"
       ],
       "tags": [],
       "claim_timestamp": "00:22:02–00:24:12",
       "investigative_direction": "Obtain full text of the 1985 Times Union article and verify Thomas Martin's role and tenure.",
       "mentions_person_refs": [
-        "N-907"
+        "N-564"
       ]
     },
     {
@@ -966,13 +966,13 @@
         "A-1758.1"
       ],
       "related_nodes": [
-        "N-10568"
+        "N-10497"
       ],
       "tags": [],
       "claim_timestamp": "00:22:02–00:24:12",
       "investigative_direction": "Obtain full text and verify direct quote attribution.",
       "mentions_person_refs": [
-        "N-907"
+        "N-564"
       ]
     },
     {
@@ -985,15 +985,15 @@
         "A-1759.1"
       ],
       "related_nodes": [
-        "N-10569"
+        "N-10498"
       ],
       "tags": [],
       "claim_timestamp": "00:24:52",
       "investigative_direction": "Authenticate text messages; verify daughter's attendance plans through UVU records or eyewitnesses.",
       "mentions_person_refs": [
         "N-2",
-        "N-890",
-        "N-908"
+        "N-557",
+        "N-565"
       ]
     },
     {
@@ -1006,14 +1006,14 @@
         "A-1759.1"
       ],
       "related_nodes": [
-        "N-10569"
+        "N-10498"
       ],
       "tags": [],
       "claim_timestamp": "00:24:52",
       "investigative_direction": "Authenticate text messages; cross-reference with daughter's subsequent statements or activities.",
       "mentions_person_refs": [
-        "N-890",
-        "N-908"
+        "N-557",
+        "N-565"
       ]
     },
     {
@@ -1026,14 +1026,14 @@
         "A-1760.1"
       ],
       "related_nodes": [
-        "N-10571"
+        "N-10500"
       ],
       "tags": [],
       "claim_timestamp": "00:30:34–00:40:02",
       "investigative_direction": "Obtain official hearing transcript or recording.",
       "mentions_person_refs": [
-        "N-909",
-        "N-67"
+        "N-566",
+        "N-38"
       ]
     },
     {
@@ -1046,13 +1046,13 @@
         "A-1760.1"
       ],
       "related_nodes": [
-        "N-10571"
+        "N-10500"
       ],
       "tags": [],
       "claim_timestamp": "00:33:44–00:36:06",
       "investigative_direction": "Cross-reference with prior Hamptons participants' public statements and any contemporaneous notes.",
       "mentions_person_refs": [
-        "N-67"
+        "N-38"
       ]
     },
     {
@@ -1065,13 +1065,13 @@
         "A-1760.1"
       ],
       "related_nodes": [
-        "N-10571"
+        "N-10500"
       ],
       "tags": [],
       "claim_timestamp": "00:35:13–00:36:06",
       "investigative_direction": "Compare admission against earlier public statements by Hamptons participants and Charlie Kirk's own descriptions.",
       "mentions_person_refs": [
-        "N-67"
+        "N-38"
       ]
     },
     {
@@ -1084,14 +1084,14 @@
         "A-1760.1"
       ],
       "related_nodes": [
-        "N-10571"
+        "N-10500"
       ],
       "tags": [],
       "claim_timestamp": "00:35:13–00:36:06",
       "investigative_direction": "Cross-reference with Charlie Kirk's own public statements about the Hamptons meeting.",
       "mentions_person_refs": [
         "N-1",
-        "N-67"
+        "N-38"
       ]
     },
     {
@@ -1104,14 +1104,14 @@
         "A-1760.2"
       ],
       "related_nodes": [
-        "N-10571"
+        "N-10500"
       ],
       "tags": [],
       "claim_timestamp": "00:31:24–00:32:50",
       "investigative_direction": "Obtain full hearing transcript.",
       "mentions_person_refs": [
-        "N-909",
-        "N-67"
+        "N-566",
+        "N-38"
       ]
     },
     {
@@ -1124,13 +1124,13 @@
         "A-1761.1"
       ],
       "related_nodes": [
-        "N-10570"
+        "N-10499"
       ],
       "tags": [],
       "claim_timestamp": "00:17:44",
       "investigative_direction": "Archive the original tweet and any associated image; verify whether it remains public.",
       "mentions_person_refs": [
-        "N-37"
+        "N-11"
       ]
     },
     {
@@ -1150,7 +1150,7 @@
         "N-1",
         "N-2",
         "N-3",
-        "N-75"
+        "N-46"
       ]
     },
     {

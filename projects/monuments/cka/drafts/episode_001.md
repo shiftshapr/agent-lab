@@ -16,8 +16,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1077, A-1078, A-1079, A-1080, A-2514
   - Claim Range: C-1115-C-1124, C-3719
-  - New Nodes Introduced: N-59, N-60, N-61, N-62, N-63, N-64, N-10067, N-10068, N-10069, N-10070, N-10071, N-10072, N-10073, N-10074, N-10075
-  - Reused Nodes Appearing: N-1, N-2, N-42, N-56, N-10000, N-3
+  - New Nodes Introduced: N-30, N-31, N-32, N-33, N-34, N-35, N-10002, N-10003, N-10004, N-10005, N-10006, N-10007, N-10008, N-10009, N-10010
+  - Reused Nodes Appearing: N-1, N-2, N-14, N-27, N-10000, N-3
 
 ## 3. Artifact Register
 
@@ -26,7 +26,7 @@
 **A-1077.1** Backstage celebration clip of 'Charlie dance' after Kanye West's tweet about Candace.
 Event Timestamp: 2022-05-01
 Video Timestamp: 00:10:29–00:10:44
-*Related: C-1115, C-1116, N-1, N-3, N-56*
+*Related: C-1115, C-1116, N-1, N-3, N-27*
 Transcript Snippet: I found a clip of us backstage on that day when that tweet happened…
 Confidence: high
 
@@ -58,7 +58,7 @@ Confidence: medium
 **A-1078.1** Photo of Charlie Kirk wearing Yeezys given to him by Kanye West.
 Event Timestamp: 2022
 Video Timestamp: 00:11:28–00:11:40
-*Related: C-1115, N-1, N-56*
+*Related: C-1115, N-1, N-27*
 Transcript Snippet: He was wearing a pair of Yeezys that Kanye gave him and he looked really cool.
 Confidence: high
 
@@ -76,7 +76,7 @@ Confidence: high
 **A-1079.2** Text chain where Charlie approves of Candace's then-boyfriend George (now husband) after one evening together.
 Event Timestamp: 2018-2019
 Video Timestamp: 00:18:09–00:18:19
-*Related: C-1119, N-1, N-3, N-59*
+*Related: C-1119, N-1, N-3, N-30*
 Transcript Snippet: His heart is wonderful. You guys are meant for each other. I see it brilliantly and clearly.
 Confidence: high
 
@@ -94,14 +94,14 @@ Confidence: high
 **A-1080.1** Kanye West's 'Power' played as the touring hype song before stage events and during #MeToo prep montage.
 Event Timestamp: 2018-2022
 Video Timestamp: 00:09:59–00:10:06
-*Related: C-1121, N-1, N-3, N-56, N-10073*
+*Related: C-1121, N-1, N-3, N-27, N-10008*
 Transcript Snippet: Kanye's Power kind of became our theme song for the tour.
 Confidence: high
 
 **A-1080.2** Host recounts YWLS conference press scrum during concurrent 'him too' / #MeToo controversy.
 Event Timestamp: 2018
 Video Timestamp: 00:14:20–00:14:35
-*Related: C-1123, N-1, N-3, N-42, N-60, N-61, N-64, N-10073*
+*Related: C-1123, N-1, N-3, N-14, N-31, N-32, N-35, N-10008*
 Transcript Snippet: And then we had at the same time the YWLS conference. So the reporters who already hated us just completely they just swooped in there…
 Confidence: high
 
@@ -111,7 +111,7 @@ Confidence: high
 
 **A-2514.1** Host anecdote that Don Jr. and Eric Trump gave Charlie Kirk a suit-fitting gift certificate (verbal reference; no displayed artifact)
 Video Timestamp: 00:08:00–00:08:34
-*Related: C-3719, N-1, N-62, N-63*
+*Related: C-3719, N-1, N-33, N-34*
 Transcript Snippet: Don and Eric got him a gift certificate. I think it was for his birthday to a fancy suit place to go get fitted.
 Confidence: medium
 
@@ -137,7 +137,7 @@ Host of the series; close personal/professional partner of Charlie Kirk from 201
 
 ---
 
-**N-59** George (Candace's husband)
+**N-30** George (Candace's husband)
 
 Node Type: Person
 Candace Owens' husband; met in the UK; Charlie Kirk approved of him after one evening.
@@ -156,7 +156,7 @@ Charlie Kirk's wife; subject of the 'Kirk vs Frantzey' name plan text chain.
 
 ---
 
-**N-60** Rush Limbaugh
+**N-31** Rush Limbaugh
 
 Node Type: Person
 Conservative radio host referenced as Charlie Kirk's admired figure and aspirational model for a national show.
@@ -167,7 +167,7 @@ Conservative radio host referenced as Charlie Kirk's admired figure and aspirati
 
 ---
 
-**N-61** Dave Rubin
+**N-32** Dave Rubin
 
 Node Type: Person
 Joined an early TPUSA event with Candace and Charlie when the original headliner dropped out.
@@ -178,7 +178,7 @@ Joined an early TPUSA event with Candace and Charlie when the original headliner
 
 ---
 
-**N-62** Donald Trump Jr.
+**N-33** Donald Trump Jr.
 
 Node Type: Person
 Mentioned as having pressed Charlie to buy better-fitting suits along with Eric Trump.
@@ -189,7 +189,7 @@ Mentioned as having pressed Charlie to buy better-fitting suits along with Eric 
 
 ---
 
-**N-63** Eric Trump
+**N-34** Eric Trump
 
 Node Type: Person
 Co-gifted Charlie Kirk a suit-fitting gift certificate with Don Jr.
@@ -200,7 +200,7 @@ Co-gifted Charlie Kirk a suit-fitting gift certificate with Don Jr.
 
 ---
 
-**N-56** Kanye West
+**N-27** Kanye West
 
 Node Type: Person
 Tweeted 'I love the way Candace Owens thinks'; gave Charlie Kirk Yeezys; source of 'Power' hype song.
@@ -209,7 +209,7 @@ Tweeted 'I love the way Candace Owens thinks'; gave Charlie Kirk Yeezys; source 
 
 ---
 
-**N-42** Andrew Kolvet
+**N-14** Andrew Kolvet
 
 Node Type: Person
 Turning Point figure who stood with Charlie Kirk during the 'him too' press incident.
@@ -220,7 +220,7 @@ Turning Point figure who stood with Charlie Kirk during the 'him too' press inci
 
 ---
 
-**N-64** Sarah (Charlie's assistant)
+**N-35** Sarah (Charlie's assistant)
 
 Node Type: Person
 Charlie's assistant at Turning Point during the #MeToo press moment.
@@ -232,7 +232,7 @@ Uncertainty: Last name not given in transcript.
 
 ---
 
-**N-10067** Charlie Kirk Death and Memorial
+**N-10002** Charlie Kirk Death and Memorial
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -242,7 +242,7 @@ The death event and subsequent memorial episodes; host references seeing the foo
 
 ---
 
-**N-10068** Charlie-Candace Friendship Continuity
+**N-10003** Charlie-Candace Friendship Continuity
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -252,7 +252,7 @@ Host asserts the personal/professional friendship with Charlie Kirk was never br
 
 ---
 
-**N-10069** Kanye Tweet About Candace Owens
+**N-10004** Kanye Tweet About Candace Owens
 
 Node Type: Topic
 Topic Kind: event
@@ -262,7 +262,7 @@ Kanye West's public tweet praising Candace Owens; celebrated by Charlie and Cand
 
 ---
 
-**N-10070** Charlie Kirk Spiritual Transformation
+**N-10005** Charlie Kirk Spiritual Transformation
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -282,7 +282,7 @@ Founded by Charlie Kirk; current 501(c)(3); described as the biggest conservativ
 
 ---
 
-**N-10071** Fox News
+**N-10006** Fox News
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -292,7 +292,7 @@ Charlie's rule was 'never say no to Fox News'; described as 4 hits/day including
 
 ---
 
-**N-10072** Republican National Committee (RNC)
+**N-10007** Republican National Committee (RNC)
 
 Node Type: Organization
 Organization Kind: political_party
@@ -302,7 +302,7 @@ Charlie Kirk at age 23 told Candace he planned to take control of the RNC.
 
 ---
 
-**N-10073** YWLS Conference
+**N-10008** YWLS Conference
 
 Node Type: Organization
 Organization Kind: conference
@@ -313,7 +313,7 @@ Uncertainty: Acronym not expanded in transcript.
 
 ---
 
-**N-10074** Philadelphia
+**N-10009** Philadelphia
 
 Node Type: Place
 Place Kind: city
@@ -323,7 +323,7 @@ Site of Antifa incident at a restaurant where Charlie and Candace were chased ou
 
 ---
 
-**N-10075** Chicago O'Hare Airport
+**N-10010** Chicago O'Hare Airport
 
 Node Type: Place
 Place Kind: venue
@@ -341,8 +341,8 @@ Claim Timestamp: 00:10:29
 Claim: Following Kanye West's tweet praising Candace Owens, Charlie and Candace celebrated backstage doing a 'Charlie dance,' as documented in a shown video clip.
 Transcript Snippet: I found a clip of us backstage on that day when that tweet happened…
 Anchored Artifacts: A-1077.1, A-1078.1, A-1080.1
-Mentions: N-1, N-3, N-42, N-56, N-61, N-64
-Related Nodes: N-10069, N-10073
+Mentions: N-1, N-3, N-14, N-27, N-32, N-35
+Related Nodes: N-10004, N-10008
 Confidence: high
 Investigative Direction: Verify the exact date of the Kanye tweet and cross-reference with the shown backstage clip timestamp.
 
@@ -355,8 +355,8 @@ Claim Timestamp: 00:11:28
 Claim: Charlie Kirk was gifted a pair of Yeezys by Kanye West and was photographed wearing them, per a photo shown in the episode.
 Transcript Snippet: He was wearing a pair of Yeezys that Kanye gave him and he looked really cool.
 Anchored Artifacts: A-1078.1
-Mentions: N-1, N-56
-Related Nodes: N-10069
+Mentions: N-1, N-27
+Related Nodes: N-10004
 Confidence: medium
 Uncertainty: Photo shown but specific source/date of gift not independently confirmed.
 Investigative Direction: Verify the Yeezys gift claim against Kanye West's public statements or social media.
@@ -382,8 +382,8 @@ Claim Timestamp: 00:14:20
 Claim: While the YWLS conference ran concurrently with the viral 'him too' / #MeToo backlash, hostile reporters converged on Candace and Charlie's team; Charlie Kirk and Andrew Kolvet held the line backing Candace's due-process stance.
 Transcript Snippet: And then we had at the same time the YWLS conference. So the reporters who already hated us just completely they just swooped in there…
 Anchored Artifacts: A-1080.2
-Mentions: N-1, N-3, N-42, N-61, N-64
-Related Nodes: N-10073
+Mentions: N-1, N-3, N-14, N-32, N-35
+Related Nodes: N-10008
 Confidence: high
 Investigative Direction: Identify YWLS conference date/location and contemporaneous press coverage of the 'him too' shirt incident.
 
@@ -397,7 +397,7 @@ Claim: Charlie Kirk enforced a team rule to never decline Fox News bookings, ave
 Transcript Snippet: Charlie's rule was never say no to Fox News… four hits a day up at 4:00 a.m. for Fox and Friends First.
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10071
+Related Nodes: N-10006
 Confidence: medium
 Investigative Direction: Corroborate via TPUSA staff schedules or published Fox booking logs from the cited era.
 
@@ -411,7 +411,7 @@ Claim: Charlie Kirk and Candace Owens were chased out of a Philadelphia restaura
 Transcript Snippet: We got chased out of a Philadelphia restaurant by Antifa and they threw water and they threw an egg on Charlie.
 Anchored Artifacts: A-1077.3
 Mentions: N-1, N-3
-Related Nodes: N-10074
+Related Nodes: N-10009
 Confidence: high
 Investigative Direction: Identify the restaurant and date via news reports of the incident.
 
@@ -423,8 +423,8 @@ Claim Timestamp: 00:18:09
 Claim: After a single evening with Candace's then-boyfriend George in the UK, Charlie Kirk texted that George and Candace were 'meant for each other,' per a shown text chain.
 Transcript Snippet: His heart is wonderful. You guys are meant for each other. I see it brilliantly and clearly.
 Anchored Artifacts: A-1079.2
-Mentions: N-1, N-3, N-59
-Related Nodes: N-10068
+Mentions: N-1, N-3, N-30
+Related Nodes: N-10003
 Confidence: high
 Investigative Direction: Verify the UK trip date and the text chain contents against any saved screenshots.
 
@@ -437,7 +437,7 @@ Claim: A text chain between Charlie and Candace jokes that Erika Frantzey should
 Transcript Snippet: Mrs. Erika Kirk sounds so much better than Mrs. Eric. ... "Marry me. It's a logistics thing."
 Anchored Artifacts: A-1079.3
 Mentions: N-1, N-2, N-3
-Related Nodes: N-10068
+Related Nodes: N-10003
 Confidence: high
 Investigative Direction: Confirm the text chain timing predates the Kirk/Frantzey marriage announcement.
 
@@ -449,8 +449,8 @@ Claim Timestamp: 00:09:59
 Claim: Kanye West's 'Power' became the de facto theme/hype song for the Turning Point USA tour, played before stage events and during pre-event prep, per multiple playbacks in the episode.
 Transcript Snippet: Kanye's Power kind of became our theme song for the tour.
 Anchored Artifacts: A-1077.1, A-1080.1
-Mentions: N-1, N-3, N-56
-Related Nodes: N-10069
+Mentions: N-1, N-3, N-27
+Related Nodes: N-10004
 Confidence: medium
 Investigative Direction: Verify through other tour-event footage whether 'Power' was consistently used as hype music.
 
@@ -463,7 +463,7 @@ Claim: At age 23, Charlie Kirk told Candace Owens during a Macaroni Grill planni
 Transcript Snippet: Then I'm going to probably take control of the RNC. I mean, he's 23 years old, right?
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10000, N-10072, N-10075
+Related Nodes: N-10000, N-10007, N-10010
 Confidence: low
 Uncertainty: No artifact shown backing this anecdote; relies entirely on host recollection.
 Investigative Direction: Cross-reference any other contemporaneous accounts of this stated ambition; flag as self-reported through host.
@@ -477,7 +477,7 @@ Claim Timestamp: 00:08:10
 Claim: The host recounts that Don Jr. and Eric Trump teased Charlie Kirk about his ill-fitting suits and eventually gave him a gift certificate, she believes for his birthday, to a fancy suit place to get fitted.
 Transcript Snippet: Don and Eric got him a gift certificate. I think it was for his birthday to a fancy suit place to go get fitted.
 Anchored Artifacts: A-2514.1
-Mentions: N-1, N-62, N-63
+Mentions: N-1, N-33, N-34
 Confidence: medium
 Investigative Direction: Corroborate the gift anecdote with any public statement from Donald Trump Jr. or Eric Trump.
 

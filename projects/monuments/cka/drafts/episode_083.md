@@ -29,8 +29,8 @@
 
 - Artifact Families Introduced: A-1895, A-1896, A-1897, A-1898, A-1899, A-1900, A-1901, A-1902
 - Claim Range: C-2560–C-2580
-  - New Nodes Introduced: N-10633, N-10634, N-10635, N-10636, N-10637, N-10638
-  - Reused Nodes Appearing: N-37
+  - New Nodes Introduced: N-10560, N-10561, N-10562, N-10563, N-10564, N-10565
+  - Reused Nodes Appearing: N-11
 - Existing Nodes Reused: N-1 Charlie Kirk; N-2 Erica Kirk; N-3 Candace Owens; Andrew Kolvet; Frank Turek; Frank (TPUSA counsel); Nick Searcy; Stacey Sheridan; Joe Rogan; Alexis Wilkins; Kash Patel; Joe Kent; General Michael Flynn; Tucker Carlson; Allie Stuckey; Yair Netanyahu; Tim Dillon; Tyler Bowyer; Pam Bondi; Thomas Massie; Vladimir Putin; Alexander Dugin; Bibi Netanyahu; Turning Point USA (institution)
 
 ## 6. Meme Register
@@ -68,7 +68,7 @@ Video Timestamp: 00:05:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2560, N-2, N-10633*
+*Related: C-2560, N-2, N-10560*
 
 **A-1896** Alexis Wilkins X Thread (13-part)
 
@@ -80,7 +80,7 @@ Video Timestamp: 00:28:11–00:39:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2568, C-2569, C-2570, C-2571, C-2572, C-2573, N-3, N-10636*
+*Related: C-2568, C-2569, C-2570, C-2571, C-2572, C-2573, N-3, N-10563*
 
 **A-1896.2** Yair Netanyahu retweet of Alexis Wilkins thread
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:39:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2574, N-10636*
+*Related: C-2574, N-10563*
 
 **A-1897** Daily Wire Article – Catholic Convert Boom
 
@@ -102,7 +102,7 @@ Video Timestamp: 00:40:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2575, N-10637*
+*Related: C-2575, N-10564*
 
 **A-1898** Nick Searcy Confirmation – Andrew Kolvet Livestream
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:21:05–00:24:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2567, N-10635*
+*Related: C-2567, N-10562*
 
 **A-1900** Catholic Growth News Articles Bundle
 
@@ -138,7 +138,7 @@ Video Timestamp: 00:42:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2576, N-10637*
+*Related: C-2576, N-10564*
 
 **A-1900.2** News article: "More Americans joining Catholic Church than leaving for the first time in decades" (August 2025)
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:42:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2577, N-10637*
+*Related: C-2577, N-10564*
 
 **A-1900.3** London Times article: "Catholics outnumber Anglicans two to one among Gen Z churchgoers"
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:43:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2578, N-10637*
+*Related: C-2578, N-10564*
 
 **A-1901** Allie Stuckey Twitter Exchange on Catholic Growth
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:41:40–00:42:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2579, N-10637*
+*Related: C-2579, N-10564*
 
 **A-1902** Elizabeth Kravchuk McCoy Account of September 10
 
@@ -182,7 +182,7 @@ Video Timestamp: 00:11:23–00:14:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2562, C-2563, C-2564, C-2565, N-10634, N-10638*
+*Related: C-2562, C-2563, C-2564, C-2565, N-10561, N-10565*
 
 **A-1902.2** Per McCoy's account: Mikey McCoy met the party at the Utah airport; Elizabeth went in with Erica to see Charlie's body; Katherine LoCastro was sent to retrieve an item from the bloodied car
 
@@ -192,13 +192,13 @@ Video Timestamp: 00:18:09–00:20:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2566, N-10634*
+*Related: C-2566, N-10561*
 
 ---
 
 # Node Register
 
-**N-10633** Tarmac Hug Timeline Reconciliation Question
+**N-10560** Tarmac Hug Timeline Reconciliation Question
 
 Persistent investigative target: Frank Turek estimates Erica at hospital around 4:00 p.m.; the plane allegedly carrying Andrew Kolvet landed approximately 4:40 p.m.; transit to hospital is at minimum 20 minutes. The host's reconciliation hypothesis: Erica arrived on an earlier flight; Andrew landed aboard Charlie's plane at 3:31 p.m. Utah time.
 
@@ -207,9 +207,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1895.1, C-2560, C-2580, N-2, N-10638*
+*Related: A-1895.1, C-2560, C-2580, N-2, N-10565*
 
-**N-10634** Stacey Sheridan September 10 Location Verification
+**N-10561** Stacey Sheridan September 10 Location Verification
 
 Stacey Sheridan allegedly not at the TPUSA Scottsdale office on September 10 and "allegedly home in Scottsdale." Host issues an "APB" for sightings.
 
@@ -220,7 +220,7 @@ Investigative Pressure: Medium
 
 *Related: A-1902.1, C-2565*
 
-**N-10635** Hopkinson Aircraft Erica Sighting Confirmation
+**N-10562** Hopkinson Aircraft Erica Sighting Confirmation
 
 Whether Erica Kirk was physically present at Hopkinson Aircraft on September 10, 2025; the only contacted witness declined to confirm or deny.
 
@@ -231,7 +231,7 @@ Investigative Pressure: Medium
 
 *Related: A-1899.1, C-2567*
 
-**N-10636** Alexis Wilkins 13-Part Thread Analysis
+**N-10563** Alexis Wilkins 13-Part Thread Analysis
 
 Verification and substantive analysis of the allegations in Alexis Wilkins's X thread alleging a 22-month foreign-linked influence operation and identifying Candace, Tucker, Joe Kent, and General Flynn as network participants.
 
@@ -242,7 +242,7 @@ Investigative Pressure: Low
 
 *Related: A-1896.1, A-1896.2, C-2568, C-2569, C-2570, C-2571, C-2572, C-2573, C-2574*
 
-**N-10637** Catholic Church Growth Discourse
+**N-10564** Catholic Church Growth Discourse
 
 Set of public-facing artifacts (Daily Wire article, news items, prior Allie Stuckey tweet) documenting the discursive shift on Catholic Church growth in the U.S. and the Zionism/anti-Zionism framing.
 
@@ -253,7 +253,7 @@ Investigative Pressure: Low
 
 *Related: A-1897.1, A-1900.1, A-1900.2, A-1900.3, A-1901.1, C-2575, C-2576, C-2577, C-2578, C-2579*
 
-**N-10638** Erica Kirk Arizona Activity Verification Gap
+**N-10565** Erica Kirk Arizona Activity Verification Gap
 
 Persistent target: verification of Erica's whereabouts in the late-morning to early-afternoon window on September 10, 2025 (TPUSA office presence, time with mother, time at Hopkinson Aircraft, time at airport). Multiple alibis are described; cross-witness consistency is incomplete.
 
@@ -262,11 +262,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1899.1, A-1902.1, C-2567, C-2565, N-10633, N-10634, N-10635*
+*Related: A-1899.1, A-1902.1, C-2567, C-2565, N-10560, N-10561, N-10562*
 
 ---
 
-**N-37** Tyler Bowyer
+**N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -284,9 +284,9 @@ Claim Timestamp: 00:05:20
 Claim: Frank Turek, on his own podcast, stated Erica Kirk "probably got there, I don't know, somewhere around 4:00 p.m. maybe" to Timpanogos Hospital.
 
 Anchored Artifacts: A-1895.1
-Mentions: N-2, N-16
+Mentions: N-2, N-7
 
-Related Nodes: N-10633
+Related Nodes: N-10560
 
 Investigative Direction: Obtain the full Frank Turek podcast episode audio and verify the exact quoted time estimate and context.
 
@@ -297,7 +297,7 @@ Claim Timestamp: 00:03:30
 Claim: Nick Searcy confirmed to the host that Andrew Kolvet's livestream was authentically live during the 9–10 a.m. Pacific block on September 10, 2025.
 
 Anchored Artifacts: A-1898.1
-Mentions: N-42
+Mentions: N-14
 
 Related Nodes:
 
@@ -310,9 +310,9 @@ Claim Timestamp: 00:11:23
 Claim: Per Elizabeth McCoy's account, she was the first person called after the 12:23 p.m. MST shooting.
 
 Anchored Artifacts: A-1902.1
-Mentions: N-326
+Mentions: N-221
 
-Related Nodes: N-10638
+Related Nodes: N-10565
 
 Investigative Direction: Compare McCoy's account with phone records and call detail records from Mikey McCoy's device.
 
@@ -323,7 +323,7 @@ Claim Timestamp: 00:11:23
 Claim: Per Elizabeth McCoy's account, Mikey McCoy rang her first after the shooting and then conferenced in Erika.
 
 Anchored Artifacts: A-1902.1
-Mentions: N-326, N-272
+Mentions: N-221, N-194
 
 Related Nodes:
 
@@ -336,7 +336,7 @@ Claim Timestamp: 00:14:00
 Claim: Per Elizabeth McCoy's account, Lauren Tonchech, a long-time TPUSA employee, volunteered to drive her approximately 30 minutes to Scottsdale airport.
 
 Anchored Artifacts: A-1902.1
-Mentions: N-326
+Mentions: N-221
 
 Related Nodes:
 
@@ -350,7 +350,7 @@ Claim: Per the host's reporting, Stacey Sheridan was not at the Turning Point US
 
 Anchored Artifacts: A-1902.1
 
-Related Nodes: N-10634, N-10638
+Related Nodes: N-10561, N-10565
 
 Investigative Direction: Obtain independent witness sightings or surveillance/phone-location data for September 10.
 
@@ -361,7 +361,7 @@ Claim Timestamp: 00:18:09
 Claim: Per Elizabeth McCoy's account, Mikey McCoy met them outside at the Utah airport, and Elizabeth went in with Erica to see Charlie's body for the first time.
 
 Anchored Artifacts: A-1902.2
-Mentions: N-326, N-272
+Mentions: N-221, N-194
 
 Related Nodes:
 
@@ -376,7 +376,7 @@ Claim: A Hopkinson Aircraft employee contacted by the host would neither confirm
 Anchored Artifacts: A-1899.1
 Mentions: N-2
 
-Related Nodes: N-10635, N-10638
+Related Nodes: N-10562, N-10565
 
 Investigative Direction: Identify and contact additional Hopkinson staff or obtain facility access logs/surveillance for September 10.
 
@@ -387,9 +387,9 @@ Claim Timestamp: 00:28:11
 Claim: Alexis Wilkins published a 13-part X thread alleging a foreign-linked influence network operating for 22 months against the Trump administration and implicating Candace Owens, Tucker Carlson, Joe Kent, and General Flynn.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-3, N-50, N-314, N-310
+Mentions: N-3, N-22, N-216, N-213
 
-Related Nodes: N-10636
+Related Nodes: N-10563
 
 Investigative Direction: Verify the thread's existence, length, and contents via direct archive; assess the substantive claims on their merits.
 
@@ -400,9 +400,9 @@ Claim Timestamp: 00:34:40
 Claim: The Alexis Wilkins thread alleges that within hours of the Kirk assassination, Candace publicly attributed the killing to Israel and targeted Kirk's widow by name. The host rejects this characterization.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-3, N-314
+Mentions: N-3, N-216
 
-Related Nodes: N-10636
+Related Nodes: N-10563
 
 Investigative Direction: Review Candace Owens's posts and public statements from September 10–11, 2025, for any direct attribution and naming.
 
@@ -413,9 +413,9 @@ Claim Timestamp: 00:32:58
 Claim: The Alexis Wilkins thread identifies General Michael Flynn as the "anchor of a digital infrastructure" repeatedly activated at major Republican fracture points, via his listed role at Catholics for Catholics.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-314
+Mentions: N-216
 
-Related Nodes: N-10636
+Related Nodes: N-10563
 
 Investigative Direction: Verify General Flynn's role as listed at Catholics for Catholics and the basis for the activation claim.
 
@@ -426,9 +426,9 @@ Claim Timestamp: 00:33:48
 Claim: The Alexis Wilkins thread cites Russia Today retweeting certain accounts as evidence of foreign coordination.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-314
+Mentions: N-216
 
-Related Nodes: N-10636
+Related Nodes: N-10563
 
 Investigative Direction: Verify RT coverage and assess whether RT retweets constitute evidence of foreign coordination.
 
@@ -439,9 +439,9 @@ Claim Timestamp: 00:34:40
 Claim: The Alexis Wilkins thread, at "Chapter 3," states that within hours of Kirk's assassination, Candace publicly attributed the killing to Israel and targeted Kirk's widow by name.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-3, N-314
+Mentions: N-3, N-216
 
-Related Nodes: N-10636
+Related Nodes: N-10563
 
 Investigative Direction: Compare thread text to Candace's on-air and posted statements from September 10–11, 2025.
 
@@ -452,9 +452,9 @@ Claim Timestamp: 00:35:30
 Claim: The Alexis Wilkins thread treats Joe Kent's resignation as further evidence of the alleged network, citing Russia Today coverage.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-314, N-310
+Mentions: N-216, N-213
 
-Related Nodes: N-10636
+Related Nodes: N-10563
 
 Investigative Direction: Verify the cited Russia Today coverage and assess the inferential link.
 
@@ -465,9 +465,9 @@ Claim Timestamp: 00:39:43
 Claim: The first retweet of Alexis Wilkins's thread was by Yair Netanyahu.
 
 Anchored Artifacts: A-1896.2
-Mentions: N-314
+Mentions: N-216
 
-Related Nodes: N-10636
+Related Nodes: N-10563
 
 Investigative Direction: Verify via direct archive of the thread's early engagement.
 
@@ -479,7 +479,7 @@ Claim: The Daily Wire article "The Catholic convert boom is real, but a trouble 
 
 Anchored Artifacts: A-1897.1
 
-Related Nodes: N-10637
+Related Nodes: N-10564
 
 Investigative Direction: Obtain and read the full Daily Wire article to verify exact phrasing.
 
@@ -491,7 +491,7 @@ Claim: A referenced news article reports U.S. Catholic population growth trends 
 
 Anchored Artifacts: A-1900.1
 
-Related Nodes: N-10637
+Related Nodes: N-10564
 
 Investigative Direction: Locate and verify the cited article.
 
@@ -503,7 +503,7 @@ Claim: An August 2025 news article reports that more Americans are joining the C
 
 Anchored Artifacts: A-1900.2
 
-Related Nodes: N-10637
+Related Nodes: N-10564
 
 Investigative Direction: Locate and verify the cited August 2025 article.
 
@@ -515,7 +515,7 @@ Claim: A London Times article reports that Catholics outnumber Anglicans two to 
 
 Anchored Artifacts: A-1900.3
 
-Related Nodes: N-10637
+Related Nodes: N-10564
 
 Investigative Direction: Locate and verify the cited London Times article.
 
@@ -527,7 +527,7 @@ Claim: Allie Stuckey previously replied to the host's tweet denying Catholic Chu
 
 Anchored Artifacts: A-1901.1
 
-Related Nodes: N-10637
+Related Nodes: N-10564
 
 Investigative Direction: Verify via Twitter/X archive of @AllieStuckey tweets from the cited period.
 
@@ -538,9 +538,9 @@ Claim Timestamp: 00:09:15
 Claim: The host hypothesizes that to reconcile Frank Turek's 4:00 p.m. hospital estimate with Andrew Kolvet's tarmac-hug account, Erica must have arrived on an earlier flight while Andrew landed aboard Charlie Kirk's plane at 3:31 p.m. Utah time.
 
 Anchored Artifacts: A-1895.1 (reconciliation anchor)
-Mentions: N-2, N-42, N-1, N-16
+Mentions: N-2, N-14, N-1, N-7
 
-Related Nodes: N-10633
+Related Nodes: N-10560
 
 Investigative Direction: Obtain manifests for all private flights into Provo on September 10; cross-reference with passenger lists and airport surveillance.
 

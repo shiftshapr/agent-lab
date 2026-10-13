@@ -30,7 +30,7 @@
             "C-2366"
           ],
           "related_nodes": [
-            "N-91",
+            "N-60",
             "N-2"
           ],
           "tags": [],
@@ -60,7 +60,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-10577"
+            "N-10506"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -88,8 +88,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-364",
-            "N-10577"
+            "N-242",
+            "N-10506"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -109,8 +109,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-364",
-            "N-10578"
+            "N-242",
+            "N-10507"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -137,9 +137,9 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-313",
+            "N-215",
             "N-1",
-            "N-10580"
+            "N-10509"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -158,8 +158,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-313",
-            "N-10580"
+            "N-215",
+            "N-10509"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -185,7 +185,7 @@
             "C-2371"
           ],
           "related_nodes": [
-            "N-909"
+            "N-566"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -203,7 +203,7 @@
             "C-2371"
           ],
           "related_nodes": [
-            "N-909"
+            "N-566"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -229,8 +229,8 @@
             "C-2370"
           ],
           "related_nodes": [
-            "N-909",
-            "N-936"
+            "N-566",
+            "N-574"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -260,8 +260,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-940",
-            "N-10581"
+            "N-575",
+            "N-10510"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -287,7 +287,7 @@
             "C-2375"
           ],
           "related_nodes": [
-            "N-10581"
+            "N-10510"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -302,8 +302,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-91",
-      "ref": "N-91",
+      "@id": "N-60",
+      "ref": "N-60",
       "name": "Laura Loomer",
       "type": "person",
       "description": "Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.",
@@ -321,8 +321,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-909",
-      "ref": "N-909",
+      "@id": "N-566",
+      "ref": "N-566",
       "name": "Carrie Prejean Bowler",
       "type": "person",
       "description": "Catholic activist and former Miss California; removed from the White House Religious Liberty Commission following a hearing where she challenged the IHRA definition of anti-Semitism.",
@@ -342,8 +342,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-936",
-      "ref": "N-936",
+      "@id": "N-574",
+      "ref": "N-574",
       "name": "Dan Patrick",
       "type": "person",
       "description": "Texas Lieutenant Governor; announced Carrie Prejean Bowler's removal from the Religious Liberty Commission on X.",
@@ -361,8 +361,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-313",
-      "ref": "N-313",
+      "@id": "N-215",
+      "ref": "N-215",
       "name": "Jesse Watters",
       "type": "person",
       "description": "Fox News host; interviewer in the Fox News interview clip of Erika Kirk discussed in this episode.",
@@ -381,8 +381,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-364",
-      "ref": "N-364",
+      "@id": "N-242",
+      "ref": "N-242",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Host of the December 12, 2025 interview in which Erika Kirk appeared in Charlie Kirk's home office.",
@@ -404,8 +404,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-940",
-      "ref": "N-940",
+      "@id": "N-575",
+      "ref": "N-575",
       "name": "\"Matt\" (TPUSA Halftime Show Producer)",
       "type": "person",
       "description": "First-name-only reference by an informant to the producer of the TPUSA All-American Halftime Show, who reportedly hyped the crowd and promised Trump viewership.",
@@ -421,8 +421,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10577",
-      "ref": "N-10577",
+      "@id": "N-10506",
+      "ref": "N-10506",
       "name": "Wedding Photo Disappearance Discrepancy",
       "type": "investigation_target",
       "description": "Persistent investigation target: a wedding photo of Charlie and Erika Kirk was visible in the background of Charlie's home studio during the September 8, 2025 broadcast, but absent from the same background during Erika Kirk's December 12, 2025 Glenn Beck interview conducted from that office. Three competing explanations are advanced in the episode: (A) Andrew Kolvet moved it; (B) Erika moved it; (C) Charlie himself moved it on September 9, 2025.",
@@ -447,8 +447,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10578",
-      "ref": "N-10578",
+      "@id": "N-10507",
+      "ref": "N-10507",
       "name": "Charlie Kirk Phone Access Question",
       "type": "investigation_target",
       "description": "Investigation target: Charlie Kirk's cell phone has not been publicly seized by law enforcement; Erika Kirk publicly claims to possess it. The episode asserts she used it as a prop during the Glenn Beck interview (\"And I have his cell phone\") to deny that Charlie sent pre-death messages.",
@@ -470,8 +470,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10579",
-      "ref": "N-10579",
+      "@id": "N-10508",
+      "ref": "N-10508",
       "name": "Tyler Robinson Evidence Sufficiency Question",
       "type": "investigation_target",
       "description": "Investigation target: Candace Owens' standing claim, restated in this episode, that no public evidence has been produced tying Tyler Robinson to the assassination, and that the case serves as the \"final thing\" before broader institutional collapse concerns crystallize. (Inscribed only as a target; the claim itself is interpretive commentary and is not inscribed as a C-claim.)",
@@ -485,8 +485,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10580",
-      "ref": "N-10580",
+      "@id": "N-10509",
+      "ref": "N-10509",
       "name": "September 9, 2025 Night Activity Reconstruction Question",
       "type": "investigation_target",
       "description": "Investigation target: reconciliation of competing accounts of what occurred the night before the assassination – specifically Erika's account (midnight Tokyo return, snack at 2:45 a.m., toddler bedroom swap, wedding ring removal, prayer with priest before tour); Candace Owens' speculation of an argument related to Charlie's pivot on Israel; and the absence of a clear daytime schedule for September 9, 2025.",
@@ -509,8 +509,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10581",
-      "ref": "N-10581",
+      "@id": "N-10510",
+      "ref": "N-10510",
       "name": "TPUSA All-American Halftime Show Authenticity Question",
       "type": "investigation_target",
       "description": "Investigation target: questions raised in this episode about whether the TPUSA All-American Halftime Show functioned as a genuine live event versus a staged production using camera tricks, audience placement, multiple takes, and modest stipends; whether Erika Kirk's absence from filming is meaningful; and the counter-evidence that Trump was watching the official Bad Bunny halftime show at Mar-a-Lago.",
@@ -610,7 +610,7 @@
         "A-1773.1"
       ],
       "related_nodes": [
-        "N-10577"
+        "N-10506"
       ],
       "tags": [],
       "claim_timestamp": "00:03:08",
@@ -631,14 +631,14 @@
         "A-1773.1"
       ],
       "related_nodes": [
-        "N-10577"
+        "N-10506"
       ],
       "tags": [],
       "claim_timestamp": "00:04:44",
       "investigative_direction": "Obtain the full Glenn Beck segment in higher resolution to confirm the absence; cross-reference any subsequent public appearances from the same office to determine whether the photo ever returned.",
       "mentions_person_refs": [
         "N-2",
-        "N-364",
+        "N-242",
         "N-1"
       ]
     },
@@ -658,7 +658,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-91"
+        "N-60"
       ]
     },
     {
@@ -671,14 +671,14 @@
         "A-1774.1"
       ],
       "related_nodes": [
-        "N-10577"
+        "N-10506"
       ],
       "tags": [],
       "claim_timestamp": "00:04:44",
       "investigative_direction": "Compare Erika's \"first time back\" framing against any other documented visits to the office in the intervening period; check the New York Times home tour piece for prior access claims.",
       "mentions_person_refs": [
         "N-2",
-        "N-364"
+        "N-242"
       ]
     },
     {
@@ -691,7 +691,7 @@
         "A-1775.1"
       ],
       "related_nodes": [
-        "N-10580"
+        "N-10509"
       ],
       "tags": [],
       "claim_timestamp": "00:10:40",
@@ -711,14 +711,14 @@
         "A-1774.2"
       ],
       "related_nodes": [
-        "N-10578"
+        "N-10507"
       ],
       "tags": [],
       "claim_timestamp": "00:21:54",
       "investigative_direction": "Obtain and review the phone records/text messages cited by Candace Owens in prior episodes; cross-reference with the alleged Dan Flood iMessage account.",
       "mentions_person_refs": [
         "N-2",
-        "N-364",
+        "N-242",
         "N-1"
       ]
     },
@@ -736,8 +736,8 @@
       "claim_timestamp": "00:34:48",
       "investigative_direction": "Verify the official announcement and date; document the stated cause and any subsequent statement from Carrie Prejean Bowler.",
       "mentions_person_refs": [
-        "N-909",
-        "N-936"
+        "N-566",
+        "N-574"
       ]
     },
     {
@@ -754,7 +754,7 @@
       "claim_timestamp": "00:30:14",
       "investigative_direction": "Obtain the full hearing transcript and video; cross-reference against official Catholic teaching documents on Zionism.",
       "mentions_person_refs": [
-        "N-909"
+        "N-566"
       ]
     },
     {
@@ -767,7 +767,7 @@
         "A-1778.1"
       ],
       "related_nodes": [
-        "N-10581"
+        "N-10510"
       ],
       "tags": [],
       "claim_timestamp": "00:37:45",
@@ -783,7 +783,7 @@
         "A-1778.1"
       ],
       "related_nodes": [
-        "N-10581"
+        "N-10510"
       ],
       "tags": [],
       "claim_timestamp": "00:37:45",
@@ -799,7 +799,7 @@
         "A-1778.1"
       ],
       "related_nodes": [
-        "N-10581"
+        "N-10510"
       ],
       "tags": [],
       "claim_timestamp": "00:37:45",
@@ -818,7 +818,7 @@
         "A-1779.1"
       ],
       "related_nodes": [
-        "N-10581"
+        "N-10510"
       ],
       "tags": [],
       "claim_timestamp": "00:42:01",
@@ -837,7 +837,7 @@
         "A-1778.1"
       ],
       "related_nodes": [
-        "N-10581"
+        "N-10510"
       ],
       "tags": [],
       "claim_timestamp": "00:37:45",
@@ -853,14 +853,14 @@
         "A-1774.2"
       ],
       "related_nodes": [
-        "N-10578"
+        "N-10507"
       ],
       "tags": [],
       "claim_timestamp": "00:21:54",
       "investigative_direction": "Determine whether Charlie Kirk's phone was ever in law enforcement custody and returned to Erika; subpoena carrier records for relevant period.",
       "mentions_person_refs": [
         "N-2",
-        "N-364",
+        "N-242",
         "N-1"
       ]
     }

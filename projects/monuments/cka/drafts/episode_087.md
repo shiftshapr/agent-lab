@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: b4380e6d087a8764d74904be2628e149d3b959bb6ee30a42cff982058d3dc8cf
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10648, N-10649, N-10650, N-10652, N-10653, N-10654, N-10655, N-10656
-  - Hole-minted Nodes (wave3): N-665, N-666, N-667, N-668, N-669, N-670, N-671, N-672
-  - Reused Nodes Appearing: N-10219, N-57, N-10642
+  - New Nodes Introduced: N-10574, N-10575, N-10576, N-10577, N-10578, N-10579, N-10580, N-10581
+  - Hole-minted Nodes (wave3): N-420, N-421, N-422, N-423, N-424, N-425, N-426, N-427
+  - Reused Nodes Appearing: N-10153, N-28, N-10569
   - (see registers)
 
 ---
@@ -43,7 +43,7 @@
 - Artifact Families Introduced: A-1917, A-1918, A-1919, A-1920, A-1921, A-1922, A-1923, A-1924, A-1925, A-1926
 - Claim Range: C-2626–C-2653
 - New People Nodes Introduced: none (Wave 2: local ids removed)
-- New Investigation Target Nodes Introduced: N-10648, N-10649, N-10650, N-10652, N-10653, N-10654, N-10655, N-10656
+- New Investigation Target Nodes Introduced: N-10574, N-10575, N-10576, N-10577, N-10578, N-10579, N-10580, N-10581
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -72,7 +72,7 @@ Confidence Level: Medium
 
 *Display excerpt:* "this article in the New York Times back in 2012 says a friendship dating to to 1976 resonates in 2012, and that is about, and it goes in, and you should read it, about their remarkable friendship."
 
-*Related: C-2626, N-10648*
+*Related: C-2626, N-10574*
 
 ---
 
@@ -88,7 +88,7 @@ Confidence Level: High
 
 *Quoted text:* "The subject for the horrific shooting today that took the life of Charlie Kirk is now in custody. Thank you to the local and state authorities in Utah for your partnership with the FBI. We will provide updates when able."
 
-*Related: C-2627, C-2628, N-10653*
+*Related: C-2627, C-2628, N-10578*
 
 **A-1918.2** Kash Patel X Post: Subject Released After Interrogation (5:59 PM)
 
@@ -100,7 +100,7 @@ Confidence Level: High
 
 *Quoted text:* "The subject in custody has been released after an interrogation by law enforcement. Our investigation continues, and we will continue to release information in interest of transparency."
 
-*Related: C-2627, C-2628, N-10653*
+*Related: C-2627, C-2628, N-10578*
 
 ---
 
@@ -116,7 +116,7 @@ Confidence Level: Medium
 
 *Display details read aloud:* "president and COO of Built Incorporated, which is based in Dallas-Fort Worth, Texas... he is the commanding officer, the headquarters of the East Coast... a captain... May 2024 to present... co-founded Built back in 2015 when he was full-time as an O5."
 
-*Related: C-2629, C-2630, C-2631, N-10652*
+*Related: C-2629, C-2630, C-2631, N-10577*
 
 ---
 
@@ -132,7 +132,7 @@ Confidence Level: Medium
 
 *Data points read aloud:* "first little contract is a $50,000 contract way back in 2019... 3.1 million... $185,000, we've got 49,000... 4.9, 2.4... June 1 and June 16 of 2025... 7.4 million from the Air Force and just under a quarter million from the Navy."
 
-*Related: C-2631, C-2632, N-10652*
+*Related: C-2631, C-2632, N-10577*
 
 **A-1920.2** Baron Coleman Audio Clip – Built Inc. Contract Analysis
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:12:44–00:15:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2631, C-2632, N-10652*
+*Related: C-2631, C-2632, N-10577*
 
 ---
 
@@ -158,7 +158,7 @@ Confidence Level: Medium
 
 *Display details read aloud:* "vice president of their user experience... Gina Romney also went to BYU."
 
-*Related: C-2633, N-10648*
+*Related: C-2633, N-10574*
 
 ---
 
@@ -174,7 +174,7 @@ Confidence Level: High
 
 *Quoted excerpts:* "The science which is known as comparative bullet lead analysis was first used after President John F. Kennedy's assassination in 1963... In 2004... the National Academy of Sciences concluded that variations in the manufacturing process rendered the FBI's testimony about the science unreliable and potentially misleading... A year later... the bureau abandoned the analysis."
 
-*Related: C-2635, C-2636, N-10642*
+*Related: C-2635, C-2636, N-10569*
 
 ---
 
@@ -268,7 +268,7 @@ Confidence Level: Medium
 
 *Quoted text:* "Dr. Steven Jones, a physicist at BYU, published a study in 2009 proving advanced thermite-based explosives in abundance in the dust from ground zero on 9/11."
 
-*Related: C-2638, N-10649*
+*Related: C-2638, N-10575*
 
 **A-1926.4** Seven Sheets Comment – Praise for Investigative Team
 
@@ -284,49 +284,49 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-665** Zachariah Karashy
+**N-420** Zachariah Karashy
 
 First named by the host at 00:06:41 in episode 87. Aliases: Zachariah Karashi.
 
 *Related: C-2627, C-2628, C-2629*
 
-**N-666** Ahmed Qureshi
+**N-421** Ahmed Qureshi
 
 First named by the host at 00:09:45 in episode 87. Aliases: Ahmed Karashi, Akhmed Karashi.
 
 *Related: C-2627, C-2628, C-2629, C-2631, C-2632, C-2633, C-2634, C-2638*
 
-**N-667** Nathan Henderson
+**N-422** Nathan Henderson
 
 First named by the host at 00:16:55 in episode 87.
 
 *Related: C-2631, C-2632, C-2633, C-2634, C-2638*
 
-**N-669** Connor Henderson
+**N-424** Connor Henderson
 
 First named by the host at 00:17:51 in episode 87.
 
 *Related: C-2631, C-2632, C-2633, C-2634, C-2638*
 
-**N-668** Gina Romney Henderson
+**N-423** Gina Romney Henderson
 
 First named by the host at 00:16:55 in episode 87. Aliases: Gina Romney.
 
 *Related: C-2631, C-2632, C-2633, C-2634, C-2638*
 
-**N-671** Caleb Cunningham
+**N-426** Caleb Cunningham
 
 First named by the host at 00:25:43 in episode 87.
 
 *Related: C-2639, C-2640, C-2641, C-2642, C-2644, C-2649, C-2650*
 
-**N-670** Jeffrey Knuckles
+**N-425** Jeffrey Knuckles
 
 First named by the host at 00:25:43 in episode 87.
 
 *Related: C-2639, C-2640, C-2641, C-2642, C-2644, C-2649, C-2650*
 
-**N-672** Michael Shawn Covey
+**N-427** Michael Shawn Covey
 
 First named by the host at 00:27:39 in episode 87.
 
@@ -337,7 +337,7 @@ First named by the host at 00:27:39 in episode 87.
 
 
 
-**N-10648** Romney–Netanyahu–Utah Connection Network
+**N-10574** Romney–Netanyahu–Utah Connection Network
 
 Persistent investigative target across multiple episodes. Anchored by 1976 Boston Consulting Group friendship and BYU/Jerusalem pipeline claims.
 
@@ -348,7 +348,7 @@ Investigative Pressure: High
 
 *Related: A-1917.1, A-1921.1, A-1924.2, C-2626, C-2633, C-2648*
 
-**N-10649** BYU Jerusalem CIA Recruitment Question
+**N-10575** BYU Jerusalem CIA Recruitment Question
 
 Host asserts (without on-screen artifact) that BYU Jerusalem Center is a CIA recruitment location for elite Mormon youth.
 
@@ -359,7 +359,7 @@ Investigative Pressure: Medium
 
 *Related: A-1926.3, C-2642*
 
-**N-10650** Timpanogos Hospital Records / Chain of Custody
+**N-10576** Timpanogos Hospital Records / Chain of Custody
 
 Persistent target: FBI seized hospital footage on 2025-09-10; Connor Henderson alleged to have worked as ER scribe at the same facility; Andrew Zenger appointed CEO days before the event.
 
@@ -370,7 +370,7 @@ Investigative Pressure: High
 
 *Related: C-2634, C-2638, C-2639*
 
-**N-10642** Comparative Bullet Lead Analysis Revival
+**N-10569** Comparative Bullet Lead Analysis Revival
 
 FBI technique used post-JFK 1963, abandoned 2005 after 2004 NAS finding. Host alleges FBI is reviving CBLA to connect Tyler Robinson's weapon to crime scene bullet.
 
@@ -381,7 +381,7 @@ Investigative Pressure: High
 
 *Related: A-1922.1, C-2635, C-2636*
 
-**N-10652** Built Inc. Federal Contracting Pattern
+**N-10577** Built Inc. Federal Contracting Pattern
 
 Defense contractor receiving anomalous $7.4M Air Force + ~$240K Navy contracts in June 2025 after years of small contracts; co-founded by Ahmed Qureshi and Nathan Henderson.
 
@@ -392,7 +392,7 @@ Investigative Pressure: High
 
 *Related: A-1919.1, A-1920.1, A-1920.2, C-2631, C-2632*
 
-**N-10653** Decoy Subject Investigation (Karashy/Qureshi)
+**N-10578** Decoy Subject Investigation (Karashy/Qureshi)
 
 Pattern of false/early "got the guy" announcements and pre-event detention of subjects around September 10. Includes George Zin and Zachariah Qureshi.
 
@@ -403,7 +403,7 @@ Investigative Pressure: High
 
 *Related: A-1918.1, A-1918.2, C-2628*
 
-**N-10654** Robbie Hild–Romney Family Tie Verification
+**N-10579** Robbie Hild–Romney Family Tie Verification
 
 Host cannot relocate source document connecting Hild family to Romney family; requests viewer email tips.
 
@@ -414,7 +414,7 @@ Investigative Pressure: Medium
 
 *Related: A-1924.2, C-2648*
 
-**N-10655** Andrew Zenger CIA Contract Work Question
+**N-10580** Andrew Zenger CIA Contract Work Question
 
 Open question whether Andrew Zenger has been/was recruited to or contracts with CIA, given Jerusalem-era roommate pattern.
 
@@ -425,7 +425,7 @@ Investigative Pressure: Medium
 
 *Related: C-2643, C-2644*
 
-**N-10656** Tyler Robinson Defense – Chain of Custody / Documents
+**N-10581** Tyler Robinson Defense – Chain of Custody / Documents
 
 Persistent target across series; host urges Robinson defense to demand full document disclosure including 600,000 documents.
 
@@ -438,7 +438,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-57** Mitt Romney
+**N-28** Mitt Romney
 
 Node Type: Person
 Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.
@@ -456,9 +456,9 @@ Claim Timestamp: 00:03:21–00:04:22
 Claim: A 2012 New York Times article confirms that the friendship between Mitt Romney and Benjamin Netanyahu dates to 1976 when both worked at the Boston Consulting Group.
 
 Anchored Artifacts: A-1917.1
-Mentions: N-57, N-65
+Mentions: N-28, N-36
 
-Related Nodes: N-10648
+Related Nodes: N-10574
 
 Investigative Direction: Obtain the NYT 2012 article in full and verify the 1976 Boston Consulting Group employment dates against public records.
 
@@ -471,9 +471,9 @@ Claim Timestamp: 00:08:11
 Claim: Kash Patel authored an X post at approximately 4:21 PM MST on 2025-09-10 stating that the subject in the Charlie Kirk shooting was in custody.
 
 Anchored Artifacts: A-1918.1
-Mentions: N-1, N-102, N-665, N-666
+Mentions: N-1, N-69, N-420, N-421
 
-Related Nodes: N-10653
+Related Nodes: N-10578
 
 Investigative Direction: Verify the tweet's exact timestamp and confirm the subject's identity against law enforcement records.
 
@@ -486,9 +486,9 @@ Claim Timestamp: 00:09:01
 Claim: At 5:59 PM the same day, Kash Patel posted that the previously detained subject had been released after interrogation by law enforcement, with no further explanation given.
 
 Anchored Artifacts: A-1918.2
-Mentions: N-102, N-665, N-666
+Mentions: N-69, N-420, N-421
 
-Related Nodes: N-10653
+Related Nodes: N-10578
 
 Investigative Direction: Obtain law enforcement records documenting the detention, interrogation, and release; cross-reference with identity of "Zachariah Karashy."
 
@@ -501,9 +501,9 @@ Claim Timestamp: 00:06:41–00:09:45
 Claim: The young man detained and released after interrogation is referred to as "Zachariah Karashy," with the host later connecting him to Ahmed Qureshi's son "Zachariah."
 
 Anchored Artifacts: A-1918.1, A-1918.2
-Mentions: N-665, N-666
+Mentions: N-420, N-421
 
-Related Nodes: N-10653
+Related Nodes: N-10578
 
 Investigative Direction: Confirm spelling of "Karashy" vs. "Qureshi" against official detention records; the name discrepancy requires resolution.
 
@@ -516,9 +516,9 @@ Claim Timestamp: 00:10:27–00:12:44
 Claim: Ahmed Qureshi's LinkedIn profile lists him as President/COO of Built Incorporated, an O6 commanding officer (Navy Captain) at East Coast HQ since May 2024.
 
 Anchored Artifacts: A-1919.1
-Mentions: N-666
+Mentions: N-421
 
-Related Nodes: N-10652
+Related Nodes: N-10577
 
 Investigative Direction: Verify current rank and command assignment via official military biography.
 
@@ -531,9 +531,9 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: Built Incorporated was co-founded by Ahmed Qureshi (an O5 at the time) and Nathan Henderson in 2015.
 
 Anchored Artifacts: A-1919.1, A-1920.1
-Mentions: N-666, N-667, N-669, N-668
+Mentions: N-421, N-422, N-424, N-423
 
-Related Nodes: N-10652
+Related Nodes: N-10577
 
 Investigative Direction: Cross-check corporate registration records (Secretary of State filings in Texas) for Built Incorporated founders and incorporation date.
 
@@ -546,9 +546,9 @@ Claim Timestamp: 00:15:43–00:16:05
 Claim: USA Spending records show Built Incorporated received approximately $7.4M from the Air Force and just under $240K from the Navy in June 2025, with the largest contracts dated June 1 and June 16, 2025.
 
 Anchored Artifacts: A-1920.1, A-1920.2
-Mentions: N-666, N-667, N-669, N-668
+Mentions: N-421, N-422, N-424, N-423
 
-Related Nodes: N-10652
+Related Nodes: N-10577
 
 Investigative Direction: Retrieve the raw USA Spending entries for Built Inc. by UEI, confirm contract amounts and dates against Baron Coleman's timeline.
 
@@ -561,9 +561,9 @@ Claim Timestamp: 00:17:51
 Claim: Gina Romney Henderson's LinkedIn profile identifies her as Vice President of User Experience at Built Incorporated and as a BYU alumna.
 
 Anchored Artifacts: A-1921.1
-Mentions: N-666, N-667, N-669, N-668
+Mentions: N-421, N-422, N-424, N-423
 
-Related Nodes: N-10648
+Related Nodes: N-10574
 
 Investigative Direction: Confirm employment and BYU degree via LinkedIn and university alumni records; investigate "Romney" family-tie claim.
 
@@ -576,9 +576,9 @@ Claim Timestamp: 00:17:51–00:19:43
 Claim: Connor Henderson worked as an emergency room scribe at Timpanogos Hospital from 2024 until approximately the time of Charlie Kirk's assassination.
 
 Anchored Artifacts: (host assertion; LinkedIn described but specific URL not pinned)
-Mentions: N-1, N-666, N-667, N-669, N-668
+Mentions: N-1, N-421, N-422, N-424, N-423
 
-Related Nodes: N-10650
+Related Nodes: N-10576
 
 Investigative Direction: Obtain Connor Henderson's actual LinkedIn profile; verify Timpanogos HR records of scribe employment.
 
@@ -592,7 +592,7 @@ Claim: Per a 2007 Washington Post article, the FBI formally abandoned comparativ
 
 Anchored Artifacts: A-1922.1
 
-Related Nodes: N-10642
+Related Nodes: N-10569
 
 Investigative Direction: Retrieve the 2004 NAS report and 2007 WaPo article in full; verify FBI's formal abandonment date.
 
@@ -605,9 +605,9 @@ Claim Timestamp: 00:32:26–00:34:18
 Claim: The FBI is bringing the previously abandoned comparative bullet lead analysis technique back into use in an effort to connect Tyler Robinson's weapon to the alleged crime scene bullet.
 
 Anchored Artifacts: A-1922.1
-Mentions: N-69
+Mentions: N-40
 
-Related Nodes: N-10642
+Related Nodes: N-10569
 
 Investigative Direction: Obtain court filings and ATF lab reports in the Robinson case to confirm whether CBLA is being used or referenced.
 
@@ -635,9 +635,9 @@ Claim Timestamp: 00:16:55–00:17:51
 Claim: The Qureshi and Henderson families lived in the same house in Keller, Texas; the host offers alternative explanations (vacation rental, sale) but asserts cohabitation is not in dispute.
 
 Anchored Artifacts: (host assertion; no public records shown)
-Mentions: N-666, N-667, N-669, N-668
+Mentions: N-421, N-422, N-424, N-423
 
-Related Nodes: N-10652
+Related Nodes: N-10577
 
 Investigative Direction: Pull property records for Keller, Texas to identify ownership/residency history of both families.
 
@@ -650,9 +650,9 @@ Claim Timestamp: 00:23:46
 Claim: Andrew Zenger was appointed CEO of Timpanogos Hospital on August 19, 2025, weeks before the September 10 event.
 
 Anchored Artifacts: (host assertion; not displayed on screen)
-Mentions: N-192, N-671, N-670, N-672
+Mentions: N-137, N-426, N-425, N-427
 
-Related Nodes: N-10650
+Related Nodes: N-10576
 
 Investigative Direction: Confirm via Timpanogos press releases, LinkedIn, or Utah business filings.
 
@@ -665,7 +665,7 @@ Claim Timestamp: 00:23:46–00:24:39
 Claim: Prior to Timpanogos, Andrew Zenger served as COO of Medical City in McKinney, Texas.
 
 Anchored Artifacts: (host assertion; not displayed on screen)
-Mentions: N-192, N-671, N-670, N-672
+Mentions: N-137, N-426, N-425, N-427
 
 Related Nodes:
 
@@ -680,9 +680,9 @@ Claim Timestamp: 00:24:39
 Claim: Andrew Zenger attended BYU Jerusalem, with the host noting he was there during the 2012 Romney presidential campaign season.
 
 Anchored Artifacts: (host assertion)
-Mentions: N-192, N-671, N-670, N-672
+Mentions: N-137, N-426, N-425, N-427
 
-Related Nodes: N-10649
+Related Nodes: N-10575
 
 Investigative Direction: Confirm via BYU Jerusalem Center enrollment records or alumni directory.
 
@@ -695,9 +695,9 @@ Claim Timestamp: 00:24:39–00:25:43
 Claim: Per a single unnamed source, the BYU Jerusalem Center is used by the CIA to recruit elite Mormon youth, with the program director being Israeli.
 
 Anchored Artifacts: (host assertion; no artifact shown; fails admission test without displayed evidence)
-Mentions: N-192, N-671, N-670, N-672
+Mentions: N-137, N-426, N-425, N-427
 
-Related Nodes: N-10649
+Related Nodes: N-10575
 
 Investigative Direction: Obtain corroborating documentation; on-screen artifact required to elevate from claim to inscribed record.
 
@@ -711,7 +711,7 @@ Claim: The CIA uses a company called Metro One Talent to interview and onboard B
 
 Anchored Artifacts: (host assertion; no displayed evidence)
 
-Related Nodes: N-10649, N-10655
+Related Nodes: N-10575, N-10580
 
 Investigative Direction: Identify Metro One Talent corporate records and any government contract listings.
 
@@ -724,9 +724,9 @@ Claim Timestamp: 00:27:39
 Claim: Michael Shawn Covey, a roommate of Andrew Zenger from the Jerusalem period, contracts with the CIA.
 
 Anchored Artifacts: (host assertion; no displayed evidence)
-Mentions: N-192, N-671, N-670, N-672
+Mentions: N-137, N-426, N-425, N-427
 
-Related Nodes: N-10655
+Related Nodes: N-10580
 
 Investigative Direction: Verify any government contract records for "Michael Shawn Covey."
 
@@ -740,7 +740,7 @@ Claim: Robbie Hild attended BYU, played lacrosse, and appears to have graduated 
 
 Anchored Artifacts: A-1924.2
 
-Related Nodes: N-10219
+Related Nodes: N-10153
 
 Investigative Direction: Confirm via BYU athletics records and class roster.
 
@@ -782,7 +782,7 @@ Claim: Viewers and social media indicate the Hild family is married into the Rom
 
 Anchored Artifacts: A-1924.2
 
-Related Nodes: N-10219, N-10654
+Related Nodes: N-10153, N-10579
 
 Investigative Direction: Verify via marriage records, family genealogical databases, or corroborating viewer emails with documentation.
 
@@ -795,7 +795,7 @@ Claim Timestamp: 00:25:43–00:26:30
 Claim: Caleb Cunningham was in Jerusalem with Andrew Zenger during the Romney 2012 presidential campaign and was active on the campaign.
 
 Anchored Artifacts: (host assertion)
-Mentions: N-192, N-671, N-670, N-672
+Mentions: N-137, N-426, N-425, N-427
 
 Related Nodes:
 
@@ -810,7 +810,7 @@ Claim Timestamp: 00:25:43–00:26:30
 Claim: Jeffrey Knuckles was in Jerusalem with Andrew Zenger during the 2012 Romney campaign period and later served as an advisor to Romney's campaign.
 
 Anchored Artifacts: (host assertion)
-Mentions: N-192, N-671, N-670, N-672
+Mentions: N-137, N-426, N-425, N-427
 
 Related Nodes:
 
@@ -826,7 +826,7 @@ Claim: BYU is said to recruit CIA talent from its Hawaii and Jerusalem campuses 
 
 Anchored Artifacts: (host assertion; comment A-1926.3 touches BYU but does not anchor CIA claim)
 
-Related Nodes: N-10649
+Related Nodes: N-10575
 
 Investigative Direction: Identify any open-source reporting on BYU recruitment ties.
 
@@ -840,7 +840,7 @@ Claim: BYU physicist Dr. Steven Jones published a 2009 study demonstrating advan
 
 Anchored Artifacts: A-1926.3
 
-Related Nodes: N-10649
+Related Nodes: N-10575
 
 Investigative Direction: Retrieve the actual 2009 paper and verify the journal of publication and peer review status.
 
@@ -853,9 +853,9 @@ Claim Timestamp: 00:43:39–00:44:25
 Claim: Viewer Kael Miles suggests the Robinson defense should make ~600,000 documents public for review; host concurs and offers to serve as unpaid document-review army.
 
 Anchored Artifacts: A-1926.1
-Mentions: N-69
+Mentions: N-40
 
-Related Nodes: N-10656
+Related Nodes: N-10581
 
 Investigative Direction: Identify the document set being referenced and any pending defense motions for discovery.
 
@@ -901,7 +901,7 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-10207+)
+- [x] People nodes use the global people ledger (N-10141+)
 - [x] Non-person investigation targets use the 1648 series
 - [x] No speculative claims inscribed as evidence-backed claims (host-only assertions flagged)
 - [x] Names preserved exactly (Karashy/Qureshi discrepancy flagged)

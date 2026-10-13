@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: adca755f11f97530ce6adde89de991d04818ffab651baee8be2f4e7f2c5d59fc
 
 - **Episode Ledger Summary**:
- - New Nodes Introduced: N-11209, N-11210, N-11211, N-11212
- - Hole-minted Nodes (wave3): N-967
- - Reused Nodes Appearing: N-37, N-46, N-949
+ - New Nodes Introduced: N-10810, N-10811, N-10812, N-10813
+ - Hole-minted Nodes (wave3): N-592
+ - Reused Nodes Appearing: N-11, N-18, N-581
  - (see registers)
 
 # Episode 144 Analysis
@@ -37,7 +37,7 @@ Episode 144 Ledger Summary:
 - Artifact Families Introduced: A-2301, A-2302, A-2303, A-2304, A-2305, A-2306, A-2307, A-2308, A-2309
 - Claim Range: C-3313–C-3325
 - New Nodes Introduced (people): none (Wave 2: local ids removed)
-- New Nodes Introduced (investigation targets): N-11209, N-11210, N-11211, N-11212
+- New Nodes Introduced (investigation targets): N-10810, N-10811, N-10812, N-10813
 - Existing Nodes Reused: Recurring figures (Charlie Kirk, Erica Kirk, Tyler Robinson, Tyler Bowyer, Terrell Farnsworth, Philip Goldsbury, Andrew Kolvet, Blake Neff, Allan Robertson, etc.) – see Optional Flags
 
 ---
@@ -92,7 +92,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:17:30–00:18:30
 Confidence Level: Medium (identity redacted by sender)
 
-*Related: C-3319, N-11210*
+*Related: C-3319, N-10811*
 
 ---
 
@@ -105,7 +105,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:18:30–00:19:30
 Confidence Level: High
 
-*Related: C-3316, N-11209*
+*Related: C-3316, N-10810*
 
 **A-2304.2** Audio: Sergeant Mark Bricker (SBI) testimony stating the Utah County Attorney's Office created the 20-minute sizzle reel
 
@@ -114,7 +114,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:18:30–00:19:30
 Confidence Level: High
 
-*Related: C-3317, N-11209, N-11210*
+*Related: C-3317, N-10810, N-10811*
 
 ---
 
@@ -127,7 +127,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:16:30–00:17:30
 Confidence Level: High
 
-*Related: C-3318, C-3320, N-11210*
+*Related: C-3318, C-3320, N-10811*
 
 **A-2305.2** Video: Slow-motion replay of the modified aspect-ratio footage
 
@@ -135,7 +135,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:17:00–00:17:30
 Confidence Level: High
 
-*Related: C-3318, C-3320, N-11210*
+*Related: C-3318, C-3320, N-10811*
 
 ---
 
@@ -148,7 +148,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:25:30–00:28:00
 Confidence Level: High
 
-*Related: C-3321, N-224*
+*Related: C-3321, N-162*
 
 **A-2306.2** Audio: Andrew Wilson defending Candace on the Hitler-clip interpretation, stating she was making a comparison to nationalism
 
@@ -157,7 +157,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:33:00–00:35:40
 Confidence Level: High
 
-*Related: C-3322, N-224, N-46*
+*Related: C-3322, N-162, N-18*
 
 **A-2306.3** Audio: Blake Neff claiming Candace and Charlie Kirk were not friends after 2018/2019
 
@@ -166,7 +166,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:40–00:38:50
 Confidence Level: High
 
-*Related: C-3323, N-224*
+*Related: C-3323, N-162*
 
 **A-2306.4** Audio: Andrew Kolvet recounting Candace saying she would "burn down that organization" if the wrong people took over TPUSA
 
@@ -227,7 +227,7 @@ Confidence Level: High
 
 ## IV. Node Register
 
-**N-967** Mark Bricker
+**N-592** Mark Bricker
 
 First named by the host at 00:18:29 in episode 144.
 
@@ -235,7 +235,7 @@ First named by the host at 00:18:29 in episode 144.
 
 
 
-**N-11209** SD Card Chain-of-Custody Investigation
+**N-10810** SD Card Chain-of-Custody Investigation
 
 Persistent target concerning the physical SD cards removed from Charlie Kirk's shooting scene and their disposition relative to investigators, the Utah County Attorney's Office, and SBI.
 
@@ -248,7 +248,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11210** Aspect-Ratio Modification Investigation
+**N-10811** Aspect-Ratio Modification Investigation
 
 Persistent target concerning who decreased the aspect ratio of the 20-minute sizzle reel presented at the preliminary hearing, and why.
 
@@ -261,7 +261,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11211** Terrell Farnsworth Evidence-Handling Question
+**N-10812** Terrell Farnsworth Evidence-Handling Question
 
 Persistent target concerning Terrell's stated intent, sequence of actions, and consultation with Philip Goldsbury in the immediate aftermath of the shooting.
 
@@ -274,7 +274,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11212** Foreign / Israeli Angle Investigation
+**N-10813** Foreign / Israeli Angle Investigation
 
 Persistent target concerning the BB Netanyahu letter, Charlie Kirk's alleged pull-back from pro-Israel stance, and Andrew Kolvet's contemporaneous briefings to Candace.
 
@@ -287,7 +287,7 @@ Investigative Pressure: High
 
 ---
 
-**N-37** Tyler Bowyer
+**N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -296,7 +296,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 ---
 
-**N-46** Andrew Wilson
+**N-18** Andrew Wilson
 
 Node Type: Person
 Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
@@ -314,9 +314,9 @@ Claim Timestamp: 00:02:00–00:04:10
 Claim: Terrell Farnsworth inserted an SD card into his laptop and worked on it within approximately 10 minutes of Charlie Kirk being shot, as shown in episode footage.
 
 Anchored Artifacts: A-2301.1, A-2301.2
-Mentions: N-410, N-1, N-949
+Mentions: N-267, N-1, N-581
 
-Related Nodes: N-11209, N-11211
+Related Nodes: N-10810, N-10812
 
 Investigative Direction: Obtain the original raw footage and forensic metadata to confirm SD-card insertion sequence; cross-reference with David Hull testimony on chain of custody.
 
@@ -329,9 +329,9 @@ Claim Timestamp: 00:02:00–00:04:10
 Claim: Episode footage shows Terrell Farnsworth displaying content on his laptop screen to Philip Goldsbury approximately 10 minutes after Charlie Kirk's death.
 
 Anchored Artifacts: A-2301.2
-Mentions: N-410, N-1
+Mentions: N-267, N-1
 
-Related Nodes: N-11211
+Related Nodes: N-10812
 
 Investigative Direction: Identify and interview Philip Goldsbury regarding the content shown; obtain his contemporaneous account.
 
@@ -344,9 +344,9 @@ Claim Timestamp: 00:04:20–00:04:50
 Claim: Per David Hull's preliminary-hearing testimony referenced by Ana Kasparian, Terrell Farnsworth did not turn over the physical SD card to investigators; only Google links and a flash drive were provided.
 
 Anchored Artifacts: A-2302.1, A-2304.1
-Mentions: N-410, N-297, N-949
+Mentions: N-267, N-207, N-581
 
-Related Nodes: N-11209
+Related Nodes: N-10810
 
 Investigative Direction: Confirm SD-card disposition against official evidence logs; subpoena physical media if it exists.
 
@@ -359,9 +359,9 @@ Claim Timestamp: 00:18:30–00:19:30
 Claim: Lead investigator David Hull testified at the preliminary hearing that he did not receive the physical SD cards taken from the scene.
 
 Anchored Artifacts: A-2304.1
-Mentions: N-949
+Mentions: N-581
 
-Related Nodes: N-11209
+Related Nodes: N-10810
 
 Investigative Direction: Obtain the preliminary-hearing transcript and confirm testimony verbatim.
 
@@ -374,9 +374,9 @@ Claim Timestamp: 00:18:30–00:19:30
 Claim: SBI Sergeant Mark Bricker testified at the preliminary hearing that the Utah County Attorney's Office – not the court – created the 20-minute sizzle reel shown in court.
 
 Anchored Artifacts: A-2304.2
-Mentions: N-967
+Mentions: N-592
 
-Related Nodes: N-11209, N-11210
+Related Nodes: N-10810, N-10811
 
 Investigative Direction: Obtain Bricker's full preliminary-hearing testimony; request the prosecution's production logs and version history for the sizzle reel.
 
@@ -390,7 +390,7 @@ Claim: The aspect ratio of the 20-minute sizzle reel shown at the preliminary he
 
 Anchored Artifacts: A-2305.1, A-2305.2
 
-Related Nodes: N-11210
+Related Nodes: N-10811
 
 Investigative Direction: Have a forensic video analyst compare the sizzle reel against raw UVU surveillance footage to quantify the aspect-ratio shift.
 
@@ -404,7 +404,7 @@ Claim: Per an email from an anonymous federal-court employee read on air, video 
 
 Anchored Artifacts: A-2303.1
 
-Related Nodes: N-11210
+Related Nodes: N-10811
 
 Investigative Direction: Verify the email's authenticity through metadata; corroborate with court policy documentation. Treat as anonymous-source claim pending verification.
 
@@ -417,9 +417,9 @@ Claim Timestamp: 00:19:30–00:20:30
 Claim: The host asserts that the entity which decreased the aspect ratio was the prosecution (Utah County Attorney's Office), the FBI, or another party – but not the court itself.
 
 Anchored Artifacts: A-2304.2, A-2305.1
-Mentions: N-967
+Mentions: N-592
 
-Related Nodes: N-11210
+Related Nodes: N-10811
 
 Investigative Direction: Trace the production chain of the sizzle reel through prosecution discovery logs; identify all parties with custody between raw footage and exhibit.
 
@@ -432,7 +432,7 @@ Claim Timestamp: 00:25:30–00:28:00
 Claim: On the Kolvet/Neff podcast, Andrew Kolvet stated that Candace conceded the debate early and repeatedly and predicted the loss would "age well" for him.
 
 Anchored Artifacts: A-2306.1
-Mentions: N-224, N-42
+Mentions: N-162, N-14
 
 Related Nodes:
 
@@ -447,7 +447,7 @@ Claim Timestamp: 00:33:00–00:35:40
 Claim: On the Kolvet/Neff podcast, Andrew Wilson stated that after reviewing the clip he concluded Candace was making a nationalism comparison rather than apologizing for Hitler, and pushed back on Blake Neff's framing.
 
 Anchored Artifacts: A-2306.2
-Mentions: N-46, N-224
+Mentions: N-18, N-162
 
 Related Nodes:
 
@@ -477,9 +477,9 @@ Claim Timestamp: 00:51:00–00:54:00
 Claim: Text messages and calls between Candace and Andrew Kolvet from September 11–14, 2025 show Kolvet briefing Candace on the Bill Aman summit, the BB Netanyahu letter, and Charlie Kirk's text messages to Dan Flood the night before.
 
 Anchored Artifacts: A-2308.1, A-2308.2
-Mentions: N-42, N-1, N-65, N-434, N-66
+Mentions: N-14, N-1, N-36, N-276, N-37
 
-Related Nodes: N-11212
+Related Nodes: N-10813
 
 Investigative Direction: Preserve the original text-message exports with metadata; obtain contemporaneous corroboration from other TPUSA insiders if available.
 
@@ -489,13 +489,13 @@ Investigative Direction: Preserve the original text-message exports with metadat
 
 Claim Timestamp: 00:50:09
 
-Claim: C-3324 spells the summit host 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-66): the host says Andrew Kolvet was the one telling her about the Bill Ackman summit on September 12, 2025.
+Claim: C-3324 spells the summit host 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-37): the host says Andrew Kolvet was the one telling her about the Bill Ackman summit on September 12, 2025.
 
 Transcript Snippet: on the 12th, you were the one that was telling me about the Bill Aman summit.
 
 Anchored Artifacts: A-2308.1, A-2308.2
-Mentions: N-66, N-42
-Related Nodes: N-11212
+Mentions: N-37, N-14
+Related Nodes: N-10813
 Revises: C-3324
 Confidence: medium
 Investigative Direction: Read with C-3324; match the text-message exports under the corrected spelling Bill Ackman.
@@ -509,9 +509,9 @@ Claim Timestamp: 00:51:00–00:54:00
 Claim: Per text/call artifacts, Andrew Kolvet told Candace on September 14, 2025 that the TPUSA board had already voted in Erica Kirk to take over the organization, and asked her not to announce it yet.
 
 Anchored Artifacts: A-2308.1, A-2308.2
-Mentions: N-2, N-42
+Mentions: N-2, N-14
 
-Related Nodes: N-11212
+Related Nodes: N-10813
 
 Investigative Direction: Cross-reference with TPUSA corporate filings, board minutes, and Erica Kirk's public statements around the leadership transition.
 
@@ -526,8 +526,8 @@ All artifacts in §III include Related lines referencing claims and nodes. All c
 ## VII. Optional Flags
 
 - **Name uncertainty:** "Terrell Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsbury" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kovette" and "Kulvette"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Alan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Nolles" may also be rendered "Michael Knowles" in prior ledger – requires human verification.
-- **Wave 1 reconciliation:** Terrell Farnsworth is N-410, Andrew Kolvet is N-42, Blake Neff is N-224, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsbury and David Hull have no CKA person node. The topic ids N-10207.. never denoted these people and claim references were retargeted.
-- **Likely-existing investigation targets flagged:** N-11209 (SD card chain of custody), N-11210 (aspect ratio modification), N-11211 (Terrell handling), N-11212 (foreign/Israeli angle) are thematically continuous with prior episodes; existing N-IDs should be substituted if lower-numbered equivalents exist.
+- **Wave 1 reconciliation:** Terrell Farnsworth is N-267, Andrew Kolvet is N-14, Blake Neff is N-162, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsbury and David Hull have no CKA person node. The topic ids N-10141.. never denoted these people and claim references were retargeted.
+- **Likely-existing investigation targets flagged:** N-10810 (SD card chain of custody), N-10811 (aspect ratio modification), N-10812 (Terrell handling), N-10813 (foreign/Israeli angle) are thematically continuous with prior episodes; existing N-IDs should be substituted if lower-numbered equivalents exist.
 - **Anonymous source:** A-2303.1 (federal-court employee email) is anonymous; the host explicitly preserves the sender's anonymity. Treat C-3319 as a single-source claim until corroborated.
 - **Transcript ambiguity:** The "Beavis and Butt-Head" podcast name is used by the host as a pejorative descriptor for the Kolvet/Neff show; it is unclear whether this is also the show's actual title or solely a rhetorical label.
 - **Host inference flagged:** Candace's reading of A-2301.1 and A-2301.2 (that Terrell "inserts an SD card" and "zoomed in") is a host interpretation of footage, not a transcription of on-screen text. Inscribed as a host interpretation claim anchored to the footage artifacts rather than as an established fact.
@@ -543,8 +543,8 @@ All artifacts in §III include Related lines referencing claims and nodes. All c
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-10207+ for new)
-- [x] Non-person investigation targets use the 1000 series (N-11209+ for new)
+- [x] People nodes use the global people ledger (N-10141+ for new)
+- [x] Non-person investigation targets use the 1000 series (N-10810+ for new)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved as appearing (with uncertainty flags where variant spellings occur)
 - [x] Formatting consistent across registers

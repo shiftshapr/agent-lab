@@ -30,7 +30,7 @@
             "C-1980"
           ],
           "related_nodes": [
-            "N-133",
+            "N-97",
             "N-1",
             "N-2",
             "N-3"
@@ -59,9 +59,9 @@
             "C-1981"
           ],
           "related_nodes": [
-            "N-50",
+            "N-22",
             "N-1",
-            "N-133"
+            "N-97"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -88,8 +88,8 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-133",
-            "N-607"
+            "N-97",
+            "N-374"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -115,8 +115,8 @@
             "C-1983"
           ],
           "related_nodes": [
-            "N-599",
-            "N-10442"
+            "N-371",
+            "N-10371"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -142,9 +142,9 @@
             "C-1984"
           ],
           "related_nodes": [
-            "N-599",
-            "N-606",
-            "N-10442"
+            "N-371",
+            "N-373",
+            "N-10371"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -170,9 +170,9 @@
             "C-1985"
           ],
           "related_nodes": [
-            "N-605",
-            "N-597",
-            "N-10443"
+            "N-372",
+            "N-369",
+            "N-10372"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -198,8 +198,8 @@
             "C-1987"
           ],
           "related_nodes": [
-            "N-597",
-            "N-10441"
+            "N-369",
+            "N-10370"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -217,9 +217,9 @@
             "C-1986"
           ],
           "related_nodes": [
-            "N-424",
-            "N-10441",
-            "N-10444"
+            "N-272",
+            "N-10370",
+            "N-10373"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -237,8 +237,8 @@
             "C-1987"
           ],
           "related_nodes": [
-            "N-597",
-            "N-10441"
+            "N-369",
+            "N-10370"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -253,8 +253,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
+      "@id": "N-97",
+      "ref": "N-97",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Daily Wire founder; figure whose AmFest speech, prior pettiness toward the host, and asserted pressure on TPUSA donors regarding Tucker Carlson form the structural backbone of this episode's first half.",
@@ -276,8 +276,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "Speaker at AmFest whose on-stage statements are used as an artifact to support the claim that Charlie Kirk was pressured to remove Tucker from the roster.",
@@ -294,13 +294,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-133"
+        "N-97"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-599",
-      "ref": "N-599",
+      "@id": "N-371",
+      "ref": "N-371",
       "name": "Mark Amodei",
       "type": "person",
       "description": "U.S. Representative (NV); subject of contradictory public-record claims regarding his whereabouts on September 9, 2025.",
@@ -318,13 +318,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10442"
+        "N-10371"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Charlie Kirk's security officer; travel logs referenced as supporting the possibility he attended the Fort Huachuca morning meeting.",
@@ -341,14 +341,14 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-10441",
-        "N-10444"
+        "N-10370",
+        "N-10373"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-605",
-      "ref": "N-605",
+      "@id": "N-372",
+      "ref": "N-372",
       "name": "Cabot Phillips",
       "type": "person",
       "description": "Daily Wire / Morning Wire contributor; identified by Mitch from a photograph as a person seen at Fort Huachuca; subject of a separate dating-history claim involving Erika Kirk.",
@@ -365,14 +365,14 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-10443",
-        "N-10445"
+        "N-10372",
+        "N-10374"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-606",
-      "ref": "N-606",
+      "@id": "N-373",
+      "ref": "N-373",
       "name": "Diligent Dennison",
       "type": "person",
       "description": "X poster; author of the read-aloud post analyzing Mark Amodei's alibi and identifying missed roll calls.",
@@ -388,14 +388,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-599",
-        "N-10442"
+        "N-371",
+        "N-10371"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-607",
-      "ref": "N-607",
+      "@id": "N-374",
+      "ref": "N-374",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Then-CEO of the Daily Wire; conducted the town hall–style firing of Candace Owens captured in A-1563.1.",
@@ -416,8 +416,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-597",
-      "ref": "N-597",
+      "@id": "N-369",
+      "ref": "N-369",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Fort Huachuca witness; his access, NDA-related lawsuit paperwork, and direction-request video are referenced as verified by the host.",
@@ -436,13 +436,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10441"
+        "N-10370"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10441",
-      "ref": "N-10441",
+      "@id": "N-10370",
+      "ref": "N-10370",
       "name": "Fort Huachuca Morning Meeting Investigation",
       "type": "investigation_target",
       "description": "Persistent investigable target: an alleged early-morning meeting at Fort Huachuca on September 9, 2025, whose attendees include (per witness) a congressman and a Daily Wire contributor.",
@@ -462,16 +462,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-599",
-        "N-424",
-        "N-605",
-        "N-597"
+        "N-371",
+        "N-272",
+        "N-372",
+        "N-369"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10442",
-      "ref": "N-10442",
+      "@id": "N-10371",
+      "ref": "N-10371",
       "name": "Mark Amodei September 9 Alibi Verification",
       "type": "investigation_target",
       "description": "Persistent inconsistency between Amodei's own X claim of full-day attendance in D.C. and Diligent Dennison's record-based analysis of missed morning roll calls.",
@@ -489,14 +489,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-599",
-        "N-606"
+        "N-371",
+        "N-373"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10443",
-      "ref": "N-10443",
+      "@id": "N-10372",
+      "ref": "N-10372",
       "name": "Cabot Phillips Fort Huachuca Presence Verification",
       "type": "investigation_target",
       "description": "Verification target: whether Cabot Phillips was in fact at Fort Huachuca on September 9, 2025; pending response to host's outreach.",
@@ -512,14 +512,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-605",
-        "N-597"
+        "N-372",
+        "N-369"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10444",
-      "ref": "N-10444",
+      "@id": "N-10373",
+      "ref": "N-10373",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
       "type": "investigation_target",
       "description": "Verification target: whether Brian Harpole attended the Fort Huachuca morning meeting; travel logs cited as enabling but not confirming attendance.",
@@ -535,14 +535,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-424",
-        "N-10441"
+        "N-272",
+        "N-10370"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10445",
-      "ref": "N-10445",
+      "@id": "N-10374",
+      "ref": "N-10374",
       "name": "Erika Kirk Pre-Charlie Dating History Verification",
       "type": "investigation_target",
       "description": "Verification target: whether Erika Kirk publicly stated she never dated anyone before Charlie Kirk, and the status of social-media evidence showing otherwise (Cabot Phillips).",
@@ -557,7 +557,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-605"
+        "N-372"
       ]
     },
     {
@@ -610,8 +610,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-37",
-      "ref": "N-37",
+      "@id": "N-11",
+      "ref": "N-11",
       "name": "Tyler Bowyer",
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
@@ -625,8 +625,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-98",
-      "ref": "N-98",
+      "@id": "N-67",
+      "ref": "N-67",
       "name": "Mark Herman (director, Candace show)",
       "type": "person",
       "description": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host jokes about his travel schedule delaying book club; he answers \"I'm going to Fort Huachuca\" and she replies \"To get your intelligence training.\" The exchange reads as on-air banter. No claim anchor; registered for cross-episode continuity.",
@@ -657,7 +657,7 @@
         "N-1",
         "N-2",
         "N-3",
-        "N-133"
+        "N-97"
       ]
     },
     {
@@ -674,8 +674,8 @@
       "claim_timestamp": "00:24:37 – 00:26:29",
       "investigative_direction": "Obtain the full unedited Carlson speech; verify the specific donor names and corroborate through contemporaneous TPUSA communications.",
       "mentions_person_refs": [
-        "N-50",
-        "N-133",
+        "N-22",
+        "N-97",
         "N-1"
       ]
     },
@@ -694,8 +694,8 @@
       "investigative_direction": "Obtain the full leaked town hall video; verify the exact date, attendance count, and the specific X posts cited as grounds.",
       "mentions_person_refs": [
         "N-3",
-        "N-133",
-        "N-607"
+        "N-97",
+        "N-374"
       ]
     },
     {
@@ -708,13 +708,13 @@
         "A-1564.1"
       ],
       "related_nodes": [
-        "N-10442"
+        "N-10371"
       ],
       "tags": [],
       "claim_timestamp": "00:35:44",
       "investigative_direction": "Retrieve the original X post URL; cross-reference with the House Appropriations Committee's published September 9 video and the House roll call record.",
       "mentions_person_refs": [
-        "N-599"
+        "N-371"
       ]
     },
     {
@@ -727,14 +727,14 @@
         "A-1565.1"
       ],
       "related_nodes": [
-        "N-10442"
+        "N-10371"
       ],
       "tags": [],
       "claim_timestamp": "00:36:36",
       "investigative_direction": "Independently verify against the official House roll call vote record for September 9, 2025; verify flight routing feasibility for Amodei to have been at Fort Huachuca that morning and back in D.C. for the third roll call.",
       "mentions_person_refs": [
-        "N-599",
-        "N-606"
+        "N-371",
+        "N-373"
       ]
     },
     {
@@ -747,14 +747,14 @@
         "A-1566.1"
       ],
       "related_nodes": [
-        "N-10443"
+        "N-10372"
       ],
       "tags": [],
       "claim_timestamp": "00:41:56 – 00:43:14",
       "investigative_direction": "Corroborate through independent identification sources; verify Cabot Phillips's whereabouts between September 4 and 10, 2025 (including Morning Wire appearance records); await response from Cabot Phillips to host's outreach.",
       "mentions_person_refs": [
-        "N-597",
-        "N-605"
+        "N-369",
+        "N-372"
       ]
     },
     {
@@ -767,14 +767,14 @@
         "A-1567.2"
       ],
       "related_nodes": [
-        "N-10441",
-        "N-10444"
+        "N-10370",
+        "N-10373"
       ],
       "tags": [],
       "claim_timestamp": "00:37:30",
       "investigative_direction": "Obtain or display the actual travel logs; corroborate against airline / charter records; await response from Brian Harpole to host's iMessage outreach.",
       "mentions_person_refs": [
-        "N-424"
+        "N-272"
       ]
     },
     {
@@ -788,13 +788,13 @@
         "A-1567.3"
       ],
       "related_nodes": [
-        "N-10441"
+        "N-10370"
       ],
       "tags": [],
       "claim_timestamp": "00:33:21 – 00:34:20",
       "investigative_direction": "Display or publish the underlying verification documents; obtain third-party corroboration beyond host's assertions.",
       "mentions_person_refs": [
-        "N-597"
+        "N-369"
       ]
     },
     {
@@ -805,14 +805,14 @@
       "claim": "The host reports that Erika Kirk publicly stated she had not dated anyone before Charlie Kirk, which the host characterizes as contradicting social-media evidence of a prior relationship with Cabot Phillips and his family.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10445"
+        "N-10374"
       ],
       "tags": [],
       "claim_timestamp": "00:40:44 – 00:45:06",
       "investigative_direction": "Locate the original Erika Kirk statement (interview, podcast, or social-media post); obtain screenshots of the cited social-media evidence (painting lessons, family interactions); obtain corroboration from family members including Nicole Rothstein.",
       "mentions_person_refs": [
         "N-2",
-        "N-605",
+        "N-372",
         "N-1"
       ]
     }

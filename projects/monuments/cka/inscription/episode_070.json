@@ -132,9 +132,9 @@
             "C-2322"
           ],
           "related_nodes": [
-            "N-903",
-            "N-789",
-            "N-10563"
+            "N-563",
+            "N-504",
+            "N-10492"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -161,7 +161,7 @@
             "C-2324"
           ],
           "related_nodes": [
-            "N-443",
+            "N-283",
             "N-2"
           ],
           "tags": [],
@@ -188,7 +188,7 @@
             "C-2325"
           ],
           "related_nodes": [
-            "N-10563"
+            "N-10492"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -203,8 +203,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-903",
-      "ref": "N-903",
+      "@id": "N-563",
+      "ref": "N-563",
       "name": "Aubrey Lech",
       "type": "person",
       "description": "Former TPUSA public relations manager; spoke publicly about termination process in self-published video. Artifact-backed person new to the series record.",
@@ -223,14 +223,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-789",
-        "N-10563"
+        "N-504",
+        "N-10492"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-789",
-      "ref": "N-789",
+      "@id": "N-504",
+      "ref": "N-504",
       "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "Identified on-air as CMO of Turning Point USA; named by Aubrey Lech as present at her termination meeting.",
@@ -246,13 +246,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-903"
+        "N-563"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-443",
-      "ref": "N-443",
+      "@id": "N-283",
+      "ref": "N-283",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Comedian / podcaster; artifact-backed on-air clip commenting on Erika Kirk and political performance.",
@@ -274,8 +274,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10563",
-      "ref": "N-10563",
+      "@id": "N-10492",
+      "ref": "N-10492",
       "name": "TPUSA Post-Charlie Loyalty-Test Termination Pattern",
       "type": "investigation_target",
       "description": "Persistent investigative target: alleged practice of terminating TPUSA staff on the basis of third-party hearsay (e.g., Uber driver conversation) and suspected narrative-dissent.",
@@ -295,14 +295,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-903",
-        "N-789"
+        "N-563",
+        "N-504"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10564",
-      "ref": "N-10564",
+      "@id": "N-10493",
+      "ref": "N-10493",
       "name": "Pierre / French Donor Investigation",
       "type": "investigation_target",
       "description": "Unconfirmed French individual, alleged by host to have committed \"billions\" to Turning Point USA after Charlie Kirk's death and to have known of the death before the public; identity and provenance not artifact-anchored in this episode.",
@@ -315,13 +315,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-10565"
+        "N-10494"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10565",
-      "ref": "N-10565",
+      "@id": "N-10494",
+      "ref": "N-10494",
       "name": "Erika Kirk September 10 Morning Itinerary Discrepancy",
       "type": "investigation_target",
       "description": "Discrepancy between Erika's stated post-Utah-flight sequence (Jesse Watters interview) and host's alleged contradictory evidence regarding her whereabouts on the morning of 2025-09-10.",
@@ -342,8 +342,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10566",
-      "ref": "N-10566",
+      "@id": "N-10495",
+      "ref": "N-10495",
       "name": "BB Netanyahu Hamptons Dinner Allegation",
       "type": "investigation_target",
       "description": "Host allegation that BB Netanyahu hosted a dinner Charlie attended in the Hamptons and was turned down regarding \"taking Turning Point USA to the next level\"; sourced only to host and to Andrew Kolvet-as-told-to-host, not to an artifact displayed in this episode.",
@@ -361,8 +361,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10567",
-      "ref": "N-10567",
+      "@id": "N-10496",
+      "ref": "N-10496",
       "name": "Egyptian Planes Investigation",
       "type": "investigation_target",
       "description": "Host-raised investigative target referencing \"Egyptian planes\" that allegedly departed Delaware; no artifact anchor in this episode.",
@@ -374,7 +374,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10565"
+        "N-10494"
       ]
     },
     {
@@ -427,8 +427,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
@@ -443,8 +443,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-313",
-      "ref": "N-313",
+      "@id": "N-215",
+      "ref": "N-215",
       "name": "Jesse Watters",
       "type": "person",
       "description": "Fox News host; interviewer in the Fox News interview clip of Erika Kirk discussed in this episode.",
@@ -528,7 +528,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-313"
+        "N-215"
       ]
     },
     {
@@ -541,14 +541,14 @@
         "A-1746.2"
       ],
       "related_nodes": [
-        "N-10565"
+        "N-10494"
       ],
       "tags": [],
       "claim_timestamp": "00:19:42–00:20:30",
       "investigative_direction": "Cross-check flight manifests, tarmac timing, and Andrew Kolvet's stated arrival sequence against the Watters account.",
       "mentions_person_refs": [
         "N-2",
-        "N-313"
+        "N-215"
       ]
     },
     {
@@ -565,7 +565,7 @@
       "claim_timestamp": "00:24:02–00:28:28",
       "investigative_direction": "Verify Lech's employment dates and termination date via TPUSA / ATK records.",
       "mentions_person_refs": [
-        "N-903"
+        "N-563"
       ]
     },
     {
@@ -578,15 +578,15 @@
         "A-1747.1"
       ],
       "related_nodes": [
-        "N-10563"
+        "N-10492"
       ],
       "tags": [],
       "claim_timestamp": "00:24:02–00:28:28",
       "investigative_direction": "Identify the Turning Point executive referenced in the Uber driver conversation; verify whether the conversation occurred as described.",
       "mentions_person_refs": [
-        "N-789",
-        "N-903",
-        "N-42"
+        "N-504",
+        "N-563",
+        "N-14"
       ]
     },
     {
@@ -599,13 +599,13 @@
         "A-1747.1"
       ],
       "related_nodes": [
-        "N-10563"
+        "N-10492"
       ],
       "tags": [],
       "claim_timestamp": "00:24:02–00:28:28",
       "investigative_direction": "Compare the stated termination rationale (Uber-driver hearsay) against Lech's stated belief; seek additional former-employee testimony.",
       "mentions_person_refs": [
-        "N-903",
+        "N-563",
         "N-1"
       ]
     },
@@ -623,9 +623,9 @@
       "claim_timestamp": "00:24:02–00:28:28",
       "investigative_direction": "Verify Marina Munz's title and organizational role via TPUSA public records.",
       "mentions_person_refs": [
-        "N-789",
-        "N-903",
-        "N-42"
+        "N-504",
+        "N-563",
+        "N-14"
       ]
     },
     {
@@ -642,7 +642,7 @@
       "claim_timestamp": "00:33:22–00:35:00",
       "investigative_direction": "Identify the source episode of the Dillon clip and capture the full surrounding context.",
       "mentions_person_refs": [
-        "N-443"
+        "N-283"
       ]
     },
     {
@@ -660,7 +660,7 @@
       "investigative_direction": "Locate the unedited Dillon segment to determine whether the Erika line was delivered sarcastically, earnestly, or in mixed register.",
       "mentions_person_refs": [
         "N-2",
-        "N-443"
+        "N-283"
       ]
     },
     {
@@ -673,7 +673,7 @@
         "A-1749.1"
       ],
       "related_nodes": [
-        "N-10563"
+        "N-10492"
       ],
       "tags": [],
       "claim_timestamp": "00:35:13–00:36:03",

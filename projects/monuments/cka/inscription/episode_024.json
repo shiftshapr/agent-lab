@@ -175,11 +175,11 @@
             "C-1575"
           ],
           "related_nodes": [
-            "N-11386",
-            "N-11385",
-            "N-311",
+            "N-10895",
+            "N-10894",
+            "N-214",
             "N-2",
-            "N-10286"
+            "N-10216"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -197,7 +197,7 @@
             "C-1576"
           ],
           "related_nodes": [
-            "N-10286"
+            "N-10216"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -215,9 +215,9 @@
             "C-1577"
           ],
           "related_nodes": [
-            "N-311",
-            "N-11386",
-            "N-10286"
+            "N-214",
+            "N-10895",
+            "N-10216"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -243,7 +243,7 @@
             "C-1578"
           ],
           "related_nodes": [
-            "N-10287"
+            "N-10217"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -394,8 +394,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-311",
-      "ref": "N-311",
+      "@id": "N-214",
+      "ref": "N-214",
       "name": "Michael Starr",
       "type": "person",
       "description": "Journalist for the Jerusalem Post named as the writer of the article claiming Erika Kirk would accept a posthumous Pillars of Jerusalem Award on Charlie Kirk's behalf; later acknowledged on X that the Israeli government press office \"wavered\" on the claim.",
@@ -413,16 +413,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11385",
-        "N-11386",
+        "N-10894",
+        "N-10895",
         "N-2",
-        "N-10286"
+        "N-10216"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "TPUSA spokesperson who publicly denied any knowledge of the reported posthumous Israel award in a post on X.",
@@ -439,13 +439,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-10286"
+        "N-10216"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-313",
-      "ref": "N-313",
+      "@id": "N-215",
+      "ref": "N-215",
       "name": "Jesse Watters",
       "type": "person",
       "description": "Host of the Fox News interview with Erica Kirk that is teased as upcoming at episode time. (Name preserved as transcript renders it.)",
@@ -466,8 +466,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-314",
-      "ref": "N-314",
+      "@id": "N-216",
+      "ref": "N-216",
       "name": "Alexis Wilkins",
       "type": "person",
       "description": "Country music artist; the girlfriend whom Kash Patel publicly defended on X in the tweet read in this episode.",
@@ -483,13 +483,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-102"
+        "N-69"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "Director of the FBI; subject of host commentary following the X defense tweet of his girlfriend and prior criticism over alleged use of FBI aircraft for personal travel.",
@@ -505,13 +505,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-314"
+        "N-216"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-228",
-      "ref": "N-228",
+      "@id": "N-166",
+      "ref": "N-166",
       "name": "Matt Walsh",
       "type": "person",
       "description": "Daily Wire personality referenced (hearsay) by the host as the subject of an outreach to host Charlie Kirk's show after his death, conditioned on inviting Ben Shapiro.",
@@ -525,8 +525,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-319",
-      "ref": "N-319",
+      "@id": "N-218",
+      "ref": "N-218",
       "name": "Douglas Murray",
       "type": "person",
       "description": "Listed by Jerusalem Post / Israeli War Room as a presenter of the reported Pillars of Jerusalem Award.",
@@ -542,13 +542,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10286"
+        "N-10216"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-320",
-      "ref": "N-320",
+      "@id": "N-219",
+      "ref": "N-219",
       "name": "Yael Eckstein",
       "type": "person",
       "description": "Listed by Jerusalem Post / Israeli War Room as a presenter of the reported Pillars of Jerusalem Award.",
@@ -564,13 +564,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10286"
+        "N-10216"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-321",
-      "ref": "N-321",
+      "@id": "N-220",
+      "ref": "N-220",
       "name": "Jürgen Bühler",
       "type": "person",
       "description": "Listed as a presenter of the reported Pillars of Jerusalem Award (spelled \"Jürgen Bühler\" in Jerusalem Post reporting cited in episode).",
@@ -586,13 +586,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10286"
+        "N-10216"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10286",
-      "ref": "N-10286",
+      "@id": "N-10216",
+      "ref": "N-10216",
       "name": "TPUSA Posthumous Israel Award Reporting Discrepancy",
       "type": "investigation_target",
       "description": "Persistent discrepancy between Jerusalem Post / Israeli War Room reporting that Erica Kirk would accept a Pillars of Jerusalem Award on Charlie Kirk's behalf and Andrew Kolbenschlag's on-record statement that TPUSA had not heard of the award and that the CEO was not scheduled to participate.",
@@ -612,17 +612,17 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-311",
-        "N-42",
-        "N-11385",
-        "N-11386",
+        "N-214",
+        "N-14",
+        "N-10894",
+        "N-10895",
         "N-2"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10287",
-      "ref": "N-10287",
+      "@id": "N-10217",
+      "ref": "N-10217",
       "name": "TPUSA Leadership Transparency Pressure (Post-Charlie)",
       "type": "investigation_target",
       "description": "Persistent pressure articulated in this episode on TPUSA leadership (CEO/chairman Erica Kirk; Tyler Bowyer; etc.) to publicly disclose what they can about Rob McCoy, Mikey McCoy/McColgan, Taryl, and the timeline of phone calls/texts surrounding Charlie Kirk's death.",
@@ -637,7 +637,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-70"
+        "N-41"
       ]
     },
     {
@@ -658,8 +658,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-41",
+      "ref": "N-41",
       "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
@@ -674,11 +674,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-37",
-      "ref": "N-37",
+      "@id": "N-11",
+      "ref": "N-11",
       "name": "Tyler Bowyer",
       "type": "person",
-      "description": "Person Tyler Bowyer (N-37).",
+      "description": "Person Tyler Bowyer (N-11).",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -689,8 +689,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11385",
-      "ref": "N-11385",
+      "@id": "N-10894",
+      "ref": "N-10894",
       "name": "Jerusalem Post",
       "type": "organization",
       "description": "News outlet whose reporting (by Michael Starr) was cited in the Israeli War Room X post asserting that Erica Kirk would accept the posthumous award.",
@@ -706,15 +706,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-311",
-        "N-10286"
+        "N-214",
+        "N-10216"
       ],
       "organization_kind": "media_outlet"
     },
     {
       "@type": "Organization",
-      "@id": "N-11386",
-      "ref": "N-11386",
+      "@id": "N-10895",
+      "ref": "N-10895",
       "name": "Israeli War Room",
       "type": "organization",
       "description": "X account that reposted the Jerusalem Post claim about the Pillars of Jerusalem Award.",
@@ -730,15 +730,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11385",
-        "N-10286"
+        "N-10894",
+        "N-10216"
       ],
       "organization_kind": "media_outlet"
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
@@ -753,8 +753,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
@@ -769,8 +769,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
+      "@id": "N-97",
+      "ref": "N-97",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
@@ -785,8 +785,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-148",
-      "ref": "N-148",
+      "@id": "N-105",
+      "ref": "N-105",
       "name": "Thomas Matthew Crooks",
       "type": "person",
       "description": "July 13, 2024 Trump-rally rooftop shooter; subject of scraped online-history doc.",
@@ -801,8 +801,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-293",
-      "ref": "N-293",
+      "@id": "N-205",
+      "ref": "N-205",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Banned on Instagram/YouTube yet clipped widely; Atlantic also lists him among Elephant Clipping banned subjects.",
@@ -845,7 +845,7 @@
       "claim_timestamp": "00:04:07",
       "investigative_direction": "Verify the full RJC recording for the complete quote and any surrounding context.",
       "mentions_person_refs": [
-        "N-50"
+        "N-22"
       ]
     },
     {
@@ -877,8 +877,8 @@
       "investigative_direction": "Verify by reviewing Ben Shapiro's full segment; assess the framing in light of host's counter-evidence (Joe Rogan clip, photo, and claimed text messages).",
       "mentions_person_refs": [
         "N-1",
-        "N-50",
-        "N-133"
+        "N-22",
+        "N-97"
       ]
     },
     {
@@ -896,8 +896,8 @@
       "investigative_direction": "Locate the underlying Charlie Kirk statement Ben Shapiro cites to verify the attribution and original context.",
       "mentions_person_refs": [
         "N-1",
-        "N-293",
-        "N-133"
+        "N-205",
+        "N-97"
       ]
     },
     {
@@ -933,7 +933,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-133"
+        "N-97"
       ]
     },
     {
@@ -946,19 +946,19 @@
         "A-1317.1"
       ],
       "related_nodes": [
-        "N-10286",
-        "N-11385",
-        "N-11386"
+        "N-10216",
+        "N-10894",
+        "N-10895"
       ],
       "tags": [],
       "claim_timestamp": "00:21:26",
       "investigative_direction": "Verify by independently locating the original Jerusalem Post article by Michael Starr, the Israeli War Room X post, and the Christian Media Summit program to confirm whether the award and presenters are real and whether Erika Kirk is listed.",
       "mentions_person_refs": [
         "N-2",
-        "N-311",
-        "N-319",
-        "N-320",
-        "N-321"
+        "N-214",
+        "N-218",
+        "N-219",
+        "N-220"
       ]
     },
     {
@@ -971,15 +971,15 @@
         "A-1317.2"
       ],
       "related_nodes": [
-        "N-10286"
+        "N-10216"
       ],
       "tags": [],
       "claim_timestamp": "00:22:13",
       "investigative_direction": "Verify by locating Kolbenschlag's original X post and any subsequent follow-up from TPUSA.",
       "mentions_person_refs": [
         "N-2",
-        "N-42",
-        "N-311"
+        "N-14",
+        "N-214"
       ]
     },
     {
@@ -992,14 +992,14 @@
         "A-1317.3"
       ],
       "related_nodes": [
-        "N-10286",
-        "N-11386"
+        "N-10216",
+        "N-10895"
       ],
       "tags": [],
       "claim_timestamp": "00:23:04",
       "investigative_direction": "Verify the original Michael Starr X post and corroborate with any subsequent Jerusalem Post correction or retraction.",
       "mentions_person_refs": [
-        "N-311",
+        "N-214",
         "N-2"
       ]
     },
@@ -1013,14 +1013,14 @@
         "A-1318.1"
       ],
       "related_nodes": [
-        "N-10287"
+        "N-10217"
       ],
       "tags": [],
       "claim_timestamp": "00:30:31",
       "investigative_direction": "Verify by reviewing the full Jesse Waters interview once aired and any subsequent court filings on the camera question.",
       "mentions_person_refs": [
         "N-2",
-        "N-313"
+        "N-215"
       ]
     },
     {
@@ -1037,8 +1037,8 @@
       "claim_timestamp": "00:37:40",
       "investigative_direction": "Verify by locating Patel's original X post, and corroborate against any reporting or inspector general review of his use of FBI aircraft for personal travel.",
       "mentions_person_refs": [
-        "N-102",
-        "N-314"
+        "N-69",
+        "N-216"
       ]
     },
     {
@@ -1055,8 +1055,8 @@
       "claim_timestamp": "00:45:55",
       "investigative_direction": "Independently confirm the test scores from public records; assess whether any reporting substantiates a \"playbook\" pattern.",
       "mentions_person_refs": [
-        "N-148",
-        "N-69"
+        "N-105",
+        "N-40"
       ]
     },
     {
@@ -1108,8 +1108,8 @@
       "investigative_direction": "This is a host interpretive stance; verification is anchored to A-1314.1.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-50",
-        "N-133"
+        "N-22",
+        "N-97"
       ]
     }
   ],

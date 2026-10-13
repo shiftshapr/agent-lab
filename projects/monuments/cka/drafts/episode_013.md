@@ -33,8 +33,8 @@
 ### Episode X Ledger Summary
 - Artifact Families Introduced: A-1196, A-1197, A-1198, A-1199, A-1200, A-1201, A-1202, A-1203, A-1204, A-1205, A-1206, A-1207, A-1208
 - Claim Range: C-1337–C-1353, C-3754
-  - New Nodes Introduced:  N-191, N-192, N-193, N-194, N-195, N-196, N-197, N-198, N-199, N-200, N-10218, N-10219, N-10220, N-10221, N-10222, N-10223
-  - Reused Nodes Appearing: N-3, N-69, N-176
+  - New Nodes Introduced:  N-136, N-137, N-138, N-139, N-140, N-141, N-142, N-143, N-144, N-145, N-10152, N-10153, N-10154, N-10155, N-10156, N-10157
+  - Reused Nodes Appearing: N-3, N-40, N-126
 
 Third, a Phil Lyman campaign endorsement by George Zinn is documented via Wayback Machine dating back to at least June 6, 2024; this is presented to address earlier speculation rather than to advance new claims.
 
@@ -56,7 +56,7 @@ Video Timestamp: 00:10:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (artifact clearly stated, video played)
 
-*Related: C-1337, C-1340, N-69, N-183, N-200, N-10218*
+*Related: C-1337, C-1340, N-40, N-133, N-145, N-10152*
 
 ---
 
@@ -70,7 +70,7 @@ Video Timestamp: 00:03:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1338, N-69, N-71, N-10223*
+*Related: C-1338, N-40, N-42, N-10157*
 
 **A-1197.2** Wayback Machine capture confirming the Zinn endorsement text has been present at least since 2024-06-06
 
@@ -80,7 +80,7 @@ Video Timestamp: 00:03:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1338, N-69, N-71*
+*Related: C-1338, N-40, N-42*
 
 ---
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:04:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host source)
 
-*Related: C-1341, N-191, N-10220*
+*Related: C-1341, N-136, N-10154*
 
 **A-1199.2** Host-source reporting: Andrew Zanger named as new CEO and lead surgeon at the regional hospital receiving Charlie Kirk
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:04:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host source)
 
-*Related: C-1341, N-192, N-10220*
+*Related: C-1341, N-137, N-10154*
 
 **A-1199.3** Host-source reporting: Judge Tony F. Graph Jr. appointed May 2025 by Governor Spencer Cox to the fourth district court; presides over Tyler Robinson case
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:06:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host source)
 
-*Related: C-1341, N-193, N-10220*
+*Related: C-1341, N-138, N-10154*
 
 **A-1199.4** Host-source reporting: new (unnamed) coroner on the case
 
@@ -138,7 +138,7 @@ Video Timestamp: 00:06:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host source)
 
-*Related: C-1341, N-10220*
+*Related: C-1341, N-10154*
 
 ---
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:27:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
 
-*Related: C-1344, C-1345, C-1346, N-197, N-198*
+*Related: C-1344, C-1345, C-1346, N-142, N-143*
 
 ---
 
@@ -166,7 +166,7 @@ Video Timestamp: 00:35:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1347, N-195, N-75 (Megyn Kelly)*
+*Related: C-1347, N-140, N-46 (Megyn Kelly)*
 
 ---
 
@@ -180,7 +180,7 @@ Video Timestamp: 00:35:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1348, N-75 (Megyn Kelly), N-195*
+*Related: C-1348, N-46 (Megyn Kelly), N-140*
 
 ---
 
@@ -194,7 +194,7 @@ Video Timestamp: 00:35:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1349, N-196, N-75 (Megyn Kelly)*
+*Related: C-1349, N-141, N-46 (Megyn Kelly)*
 
 **A-1203.2** X reply by Megyn Kelly to Constantine Kissen: "The more one insists that I say what one demands me to, the more committed I get in my refusal." (and follow-up: "Your response proves the opposite of what it purports to.")
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:38:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1348, N-75 (Megyn Kelly), N-196*
+*Related: C-1348, N-46 (Megyn Kelly), N-141*
 
 ---
 
@@ -218,7 +218,7 @@ Video Timestamp: 00:43:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (third-party producer report)
 
-*Related: C-1350, N-194, N-198 (Larry Ellison), N-10223*
+*Related: C-1350, N-139, N-143 (Larry Ellison), N-10157*
 
 ---
 
@@ -246,7 +246,7 @@ Video Timestamp: 00:46:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (comment-supplied)
 
-*Related: C-1352, N-199 (Michael Bert), N-? (Richard Ramirez)*
+*Related: C-1352, N-144 (Michael Bert), N-? (Richard Ramirez)*
 
 ---
 
@@ -260,7 +260,7 @@ Video Timestamp: 00:47:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (comment-supplied)
 
-*Related: C-1351, N-10218*
+*Related: C-1351, N-10152*
 
 ---
 
@@ -274,7 +274,7 @@ Video Timestamp: 00:47:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (comment-supplied)
 
-*Related: N-10218 (tenuous; primarily commentary)*
+*Related: N-10152 (tenuous; primarily commentary)*
 
 ---
 
@@ -282,7 +282,7 @@ Confidence Level: Low (comment-supplied)
 
 ### People
 
-**N-183** Shainer Broderick
+**N-133** Shainer Broderick
 Family member of Phil Lyman who recorded footage at the Lyman property reviewing the shooter's route, deleted his social media after contact, and is named by host as the source of the camera footage clip played on air.
 
 Evidence Count: 1
@@ -290,11 +290,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1196.1, C-1340, N-69, N-200*
+*Related: A-1196.1, C-1340, N-40, N-145*
 
 ---
 
-**N-71** George Zinn
+**N-42** George Zinn
 Local figure who appears as one of ~20 featured endorsements on Phil Lyman's campaign website; the endorsement has been publicly accessible since at least 2024-06-06 per Wayback.
 
 Evidence Count: 2
@@ -302,11 +302,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1197.1, A-1197.2, C-1338, N-69*
+*Related: A-1197.1, A-1197.2, C-1338, N-40*
 
 ---
 
-**N-191** Robert "BS" (FBI SAC, Utah)
+**N-136** Robert "BS" (FBI SAC, Utah)
 FBI Special Agent in Charge recently installed over the Utah bureau by Kash Patel; previously held a long tenure in DC. First major case: Charlie Kirk assassination.
 
 Evidence Count: 1
@@ -314,11 +314,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1199.1, C-1341, N-10220*
+*Related: A-1199.1, C-1341, N-10154*
 
 ---
 
-**N-192** Andrew Zanger
+**N-137** Andrew Zanger
 Recently appointed CEO and lead surgeon at the regional hospital where Charlie Kirk was taken; flagged by host because the hospital was not the nearest and did not rank highly for trauma/neck-wound capability.
 
 Evidence Count: 1
@@ -326,11 +326,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium-High (involves routing question)
 
-*Related: A-1199.2, C-1341, N-10220, N-1*
+*Related: A-1199.2, C-1341, N-10154, N-1*
 
 ---
 
-**N-193** Judge Tony F. Graf Jr.
+**N-138** Judge Tony F. Graf Jr.
 Recently appointed to the fourth district court in May 2025 by Governor Spencer Cox; presides over Tyler Robinson case.
 
 Evidence Count: 1
@@ -338,11 +338,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1199.3, C-1341, N-10220*
+*Related: A-1199.3, C-1341, N-10154*
 
 ---
 
-**N-194** Erika "Erikica" Mindle
+**N-139** Erika "Erikica" Mindle
 Self-described in host's producer note as American Israeli Jewish former IDF soldier; named as TikTok Public Policy Manager of Hate Speech since July 2025.
 
 Evidence Count: 1
@@ -350,11 +350,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1204.1, C-1350, N-10218*
+*Related: A-1204.1, C-1350, N-10152*
 
 ---
 
-**N-195** Florida Dab (X handle)
+**N-140** Florida Dab (X handle)
 X account characterized by host as "Ziobot"/pro-Israel; initiated the social-media pressure exchange with Megyn Kelly over separation from Candace Owens.
 
 Evidence Count: 1
@@ -366,7 +366,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-196** Constantine Kissen
+**N-141** Constantine Kissen
 X account / commenter who joined the Florida Dab → Megyn Kelly thread; described by host as an "agent of Israel."
 
 Evidence Count: 2
@@ -378,7 +378,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-197** Deborah Lee
+**N-142** Deborah Lee
 Host of the influencer meeting with Netanyahu; raised the question about evangelical support post-Kirk assassination.
 
 Evidence Count: 1
@@ -390,7 +390,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-198** Larry Ellison
+**N-143** Larry Ellison
 Named by host as a party in the TikTok deal and as openly identifying as "an agent of Israel."
 
 Evidence Count: 0
@@ -402,7 +402,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-199** Michael Bert
+**N-144** Michael Bert
 Defense attorney named in on-air comment as previously representing Richard Ramirez ("the Nightstalker"); said to be one of Tyler Robinson's lawyers.
 
 Evidence Count: 1
@@ -414,7 +414,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-200** Unidentified Lyman-Family Woman (Shainer's aunt)
+**N-145** Unidentified Lyman-Family Woman (Shainer's aunt)
 Speaker in A-1196.1 footage; produced the statement "I wondered if the girl had given him stuff…if there is an accomplice." Identity not publicly established in the episode.
 
 Evidence Count: 1
@@ -422,13 +422,13 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High (cooperative witness)
 
-*Related: A-1196.1, C-1340, N-183, N-69, N-10218*
+*Related: A-1196.1, C-1340, N-133, N-40, N-10152*
 
 ---
 
 ### Investigation Targets
 
-**N-10218** Unidentified Female / "Accomplice" in Shooter Footage
+**N-10152** Unidentified Female / "Accomplice" in Shooter Footage
 Persistent target referenced across host reporting, anonymous tip, and Shainer Broadick footage; the FBI has not, per host, publicly identified or released her.
 
 Evidence Count: 3
@@ -436,11 +436,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1196.1, A-1207.1, C-1337, C-1340, N-200, N-183*
+*Related: A-1196.1, A-1207.1, C-1337, C-1340, N-145, N-133*
 
 ---
 
-**N-10219** "Robbie Hild" Identity Verification
+**N-10153** "Robbie Hild" Identity Verification
 X-handle candidate allegedly from Washington; named by viewer's reverse-image search. Per host, no one has come forward to personally identify him, raising the possibility of a synthetic identity.
 
 Evidence Count: 1
@@ -448,11 +448,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1196.1, N-183 (Shainer Broadick context)*
+*Related: A-1196.1, N-133 (Shainer Broadick context)*
 
 ---
 
-**N-10220** Case-Personnel Cluster Anomalies
+**N-10154** Case-Personnel Cluster Anomalies
 Composite target covering the simultaneous arrival of new senior figures (FBI SAC "Robert BS," hospital CEO/surgeon Andrew Zanger, Judge Tony F. Graph Jr., unnamed new coroner) onto the case.
 
 Evidence Count: 3
@@ -460,11 +460,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium-High
 
-*Related: A-1198.1, A-1199.1–A-1199.4, C-1341, N-191, N-192, N-193*
+*Related: A-1198.1, A-1199.1–A-1199.4, C-1341, N-136, N-137, N-138*
 
 ---
 
-**N-10221** Autopsy Record – Utah Privacy Statute Application
+**N-10155** Autopsy Record – Utah Privacy Statute Application
 Discrete legal target: confirmation that an autopsy was conducted and that Utah statutory default is privacy absent family release.
 
 Evidence Count: 0
@@ -476,7 +476,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10222** Hospital Routing Anomaly
+**N-10156** Hospital Routing Anomaly
 Discrete question why Charlie was transported to a regional hospital that was neither nearest nor ranked highly for neck trauma capability.
 
 Evidence Count: 1
@@ -484,11 +484,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1199.2, C-1341, N-192*
+*Related: A-1199.2, C-1341, N-137*
 
 ---
 
-**N-10223** TPUSA Faith Packet / Israel References Claim
+**N-10157** TPUSA Faith Packet / Israel References Claim
 Composite target referencing an attendee-submitted TPUSA Faith Packet said to mention Israel eight times; framed as a Turning Point directionality question.
 
 Evidence Count: 1
@@ -509,9 +509,9 @@ Claim Timestamp: 00:00:49
 Claim: The episode presents that a woman was captured alongside the shooter in doorbell-camera footage from houses near the venue, and that the FBI had not at the time of the episode publicly released or acknowledged that footage.
 
 Anchored Artifacts: A-1196.1
-Mentions: N-200
+Mentions: N-145
 
-Related Nodes: N-10218
+Related Nodes: N-10152
 
 Investigative Direction: Obtain the underlying doorbell-camera footage independently; cross-check against FBI public statements and the TMZ September 11 release.
 
@@ -524,7 +524,7 @@ Claim Timestamp: 00:03:00
 Claim: George Zinn was featured as one of approximately twenty endorsers on Phil Lyman's campaign website, with the text present on Wayback Machine no later than 2024-06-06.
 
 Anchored Artifacts: A-1197.1, A-1197.2
-Mentions: N-69, N-71, N-92
+Mentions: N-40, N-42, N-61
 
 
 Investigative Direction: Verify current status of the endorsement on the live Lyman campaign site; obtain Wayback snapshots across the full 2024-2025 window.
@@ -552,9 +552,9 @@ Claim Timestamp: 00:10:44
 Claim: In footage recorded by Shainer Broadick, his aunt (identified as a Lyman family member) states on camera that she wondered if "the girl" had given the shooter items and that there might have been an accomplice.
 
 Anchored Artifacts: A-1196.1
-Mentions: N-69, N-183, N-200
+Mentions: N-40, N-133, N-145
 
-Related Nodes: N-10218
+Related Nodes: N-10152
 
 Investigative Direction: Identify and interview the female speaker; obtain the original unwiped file; secure any raw footage she retained.
 
@@ -567,9 +567,9 @@ Claim Timestamp: 00:04:53
 Claim: Multiple senior officials involved in the case were recent appointments at the time of the event – FBI SAC "Robert BS" (installed by Kash Patel after a long DC tenure), hospital CEO and lead surgeon Andrew Zanger, Judge Tony F. Graph Jr. (fourth district court, appointed May 2025 by Governor Cox), and a new (unnamed) coroner.
 
 Anchored Artifacts: A-1199.1, A-1199.2, A-1199.3, A-1199.4
-Mentions: N-191, N-192, N-193, N-70, N-102
+Mentions: N-136, N-137, N-138, N-41, N-69
 
-Related Nodes: N-10220, N-10222
+Related Nodes: N-10154, N-10156
 
 Investigative Direction: Confirm each appointment's date and predecessor; verify Andrew Zanger's direct involvement in Charlie Kirk's surgical care.
 
@@ -584,7 +584,7 @@ Claim: Despite public rumors to the contrary, an autopsy of Charlie Kirk was per
 Anchored Artifacts: A-1199.4 (host source)
 Mentions: N-1
 
-Related Nodes: N-10221
+Related Nodes: N-10155
 
 Investigative Direction: Verify through official medical examiner channels or court filings.
 
@@ -599,7 +599,7 @@ Claim: Under Utah law, autopsy reports are kept private; only the immediate fami
 Anchored Artifacts: A-1199.4 (host source)
 Mentions: N-1
 
-Related Nodes: N-10221
+Related Nodes: N-10155
 
 Investigative Direction: Confirm against the current Utah Code provision on medical examiner reports and the practice of the named office.
 
@@ -612,7 +612,7 @@ Claim Timestamp: 00:27:00
 Claim: Benjamin Netanyahu conducted an on-camera meeting with US influencer Deborah Lee to discuss shaping US opinion, including in the context of Charlie Kirk's assassination.
 
 Anchored Artifacts: A-1200.1
-Mentions: N-197, N-65, N-1
+Mentions: N-142, N-36, N-1
 
 
 Investigative Direction: Obtain the original full footage and timestamp metadata; identify any co-attendees not named in the clip.
@@ -626,7 +626,7 @@ Claim Timestamp: 00:28:34
 Claim: In the influencer meeting, Netanyahu identified TikTok and X as the most important battlegrounds, expressed hope that the TikTok deal would go through, and described Elon Musk as a friend to be spoken with.
 
 Anchored Artifacts: A-1200.1
-Mentions: N-197, N-198
+Mentions: N-142, N-143
 
 
 Investigative Direction: Locate the full exchange; verify the exact statements against the unedited clip.
@@ -640,7 +640,7 @@ Claim Timestamp: 00:28:34
 Claim: In the meeting, Netanyahu stated, in essence, that the means of fighting must match the battlefield and identified social media as the most important battlefield of the present moment.
 
 Anchored Artifacts: A-1200.1
-Mentions: N-197
+Mentions: N-142
 
 
 Investigative Direction: Verify the full quote in its original-language form; identify the context (who prompted the metaphor).
@@ -654,7 +654,7 @@ Claim Timestamp: 00:35:01
 Claim: An X account identifying as "Florida Dab" publicly told Megyn Kelly she must separate from Candace Owens, or "many of us" would separate from Kelly.
 
 Anchored Artifacts: A-1201.1
-Mentions: N-195, N-3, N-75
+Mentions: N-140, N-3, N-46
 
 
 Investigative Direction: Archive the original post; identify the account's operator; map its network of similar accounts.
@@ -668,7 +668,7 @@ Claim Timestamp: 00:35:51
 Claim: Megyn Kelly publicly replied to Florida Dab and to Constantine Kissen that she would not separate from or condemn Candace Owens or Tucker Carlson, characterizing the demand as one she would resist.
 
 Anchored Artifacts: A-1202.1, A-1203.2
-Mentions: N-195, N-196, N-75, N-50, N-3
+Mentions: N-140, N-141, N-46, N-22, N-3
 
 
 Investigative Direction: Capture full thread context including replies not quoted on air.
@@ -682,7 +682,7 @@ Claim Timestamp: 00:35:51
 Claim: Constantine Kissen posted on X to Megyn Kelly characterizing Candace Owens' and Tucker Carlson's behavior as "extreme and so deranged" and questioning why Kelly was not confronting them.
 
 Anchored Artifacts: A-1203.1, A-1203.2
-Mentions: N-196, N-50, N-3, N-75
+Mentions: N-141, N-22, N-3, N-46
 
 
 Investigative Direction: Verify the post is from the same handle the host means; identify its operator and pattern of activity.
@@ -696,7 +696,7 @@ Claim Timestamp: 00:43:16
 Claim: A producer-supplied note identifies "Erika/Erikica Mindle" as a former IDF soldier and as TikTok's Public Policy Manager of Hate Speech since July 2025.
 
 Anchored Artifacts: A-1204.1
-Mentions: N-194
+Mentions: N-139
 
 
 Investigative Direction: Verify the named individual's employment, role title, and dates through LinkedIn, TikTok corporate disclosures, or press releases.
@@ -724,7 +724,7 @@ Claim Timestamp: 00:46:36
 Claim: One of Tyler Robinson's defense lawyers, Michael Bert, previously represented Richard Ramirez ("the Nightstalker").
 
 Anchored Artifacts: A-1206.1
-Mentions: N-199, N-69
+Mentions: N-144, N-40
 
 
 Investigative Direction: Verify against state bar records and published case dockets for both Ramirez and Robinson.
@@ -754,8 +754,8 @@ Claim: The host says it is a fact that there are old photos of a younger Tyler R
 Transcript Snippet: It is a fact that Tyler Robinson, we can't confirm that this is Mike Mitchell, but there are old photos of Tyler Robinson when he's a lot younger visiting his uncle Mikey.
 
 Anchored Artifacts: 
-Mentions: N-3, N-69, N-176
-Related Nodes: N-10217
+Mentions: N-3, N-40, N-126
+Related Nodes: N-10151
 Investigative Direction: Locate the photos the host refers to and establish who "uncle Mikey" is; check any Mike Mitchell link against the public record.
 
 ---
@@ -841,7 +841,7 @@ Confidence: high
 
 - Speculation / Framing Premise (failed Claim Admission Test): "I feel like we are in stronger than a theory and more of a hunch that this was a military operation and people that executed this are actually from overseas." Recorded as framing premise only – no artifact anchor.
 - Speculation / Framing Premise: "Tyler Robinson … we can't confirm that this is Mike Mitchell" – speculation on identity substitution; no artifact anchor.
-- Speculation / Framing Premise: Skepticism about "Robbie Hild"'s true identity – labeled N-10219 for tracking, but not inscribed as a claim.
+- Speculation / Framing Premise: Skepticism about "Robbie Hild"'s true identity – labeled N-10153 for tracking, but not inscribed as a claim.
 - Artifact verbally referenced but not shown: Russian-language translated article about "White Lotus sect" training fighters (article cited but not displayed in the transcript).
 - Transcript ambiguity: The "FBI" new head is referred to by host as "Robert BS" (possibly phonetic / partial nickname); spelling uncertain – preserved exactly.
 - Transcript ambiguity: "Erika Mindle" / "Erikica Mindle" – spelling varies within the host's own narration.

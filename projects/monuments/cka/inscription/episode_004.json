@@ -34,8 +34,8 @@
             "C-1177"
           ],
           "related_nodes": [
-            "N-69",
-            "N-84"
+            "N-40",
+            "N-54"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -53,9 +53,9 @@
             "C-1179"
           ],
           "related_nodes": [
-            "N-69",
-            "N-84",
-            "N-71"
+            "N-40",
+            "N-54",
+            "N-42"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -72,7 +72,7 @@
             "C-1179"
           ],
           "related_nodes": [
-            "N-69",
+            "N-40",
             "N-1"
           ],
           "tags": [],
@@ -91,7 +91,7 @@
             "C-1183"
           ],
           "related_nodes": [
-            "N-69"
+            "N-40"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -108,7 +108,7 @@
             "C-1179"
           ],
           "related_nodes": [
-            "N-69"
+            "N-40"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -125,7 +125,7 @@
             "C-1179"
           ],
           "related_nodes": [
-            "N-69"
+            "N-40"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -142,8 +142,8 @@
             "C-1181"
           ],
           "related_nodes": [
-            "N-69",
-            "N-84"
+            "N-40",
+            "N-54"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -160,7 +160,7 @@
             "C-1179"
           ],
           "related_nodes": [
-            "N-69"
+            "N-40"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -178,8 +178,8 @@
             "C-1181"
           ],
           "related_nodes": [
-            "N-69",
-            "N-84"
+            "N-40",
+            "N-54"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -196,8 +196,8 @@
             "C-1181"
           ],
           "related_nodes": [
-            "N-69",
-            "N-84"
+            "N-40",
+            "N-54"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -222,7 +222,7 @@
             "C-1179"
           ],
           "related_nodes": [
-            "N-70"
+            "N-41"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -239,7 +239,7 @@
             "C-1182"
           ],
           "related_nodes": [
-            "N-70"
+            "N-41"
           ],
           "tags": [],
           "event_timestamp": "2025-09-12",
@@ -273,7 +273,7 @@
             "C-1183"
           ],
           "related_nodes": [
-            "N-69"
+            "N-40"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -298,7 +298,7 @@
             "C-1179"
           ],
           "related_nodes": [
-            "N-69"
+            "N-40"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -316,7 +316,7 @@
             "C-1183"
           ],
           "related_nodes": [
-            "N-70"
+            "N-41"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -333,7 +333,7 @@
             "C-1176"
           ],
           "related_nodes": [
-            "N-69"
+            "N-40"
           ],
           "tags": [],
           "event_timestamp": "2025-09-12",
@@ -359,8 +359,8 @@
             "C-3736"
           ],
           "related_nodes": [
-            "N-50",
-            "N-65",
+            "N-22",
+            "N-36",
             "N-1"
           ],
           "tags": [],
@@ -379,7 +379,7 @@
             "C-3736"
           ],
           "related_nodes": [
-            "N-50",
+            "N-22",
             "N-1"
           ],
           "tags": [],
@@ -397,7 +397,7 @@
             "C-1185"
           ],
           "related_nodes": [
-            "N-75",
+            "N-46",
             "N-1"
           ],
           "tags": [],
@@ -423,7 +423,7 @@
             "C-1185"
           ],
           "related_nodes": [
-            "N-45",
+            "N-17",
             "N-1",
             "N-3"
           ],
@@ -476,8 +476,8 @@
             "C-1183"
           ],
           "related_nodes": [
-            "N-70",
-            "N-69"
+            "N-41",
+            "N-40"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -491,8 +491,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "22-year-old alleged killer of Charlie Kirk; subject of indictment text messages analyzed in episode.",
@@ -529,8 +529,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-84",
-      "ref": "N-84",
+      "@id": "N-54",
+      "ref": "N-54",
       "name": "Lance Twigs",
       "type": "person",
       "description": "22-year-old boyfriend/roommate of Tyler Robinson; received the keyboard note; central to host's 'Lance being protected' thesis.",
@@ -616,8 +616,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-71",
-      "ref": "N-71",
+      "@id": "N-42",
+      "ref": "N-42",
       "name": "George Zinn",
       "type": "person",
       "description": "Initial suspect ('the decoy boy') released hours later; central to host's multi-person theory.",
@@ -635,8 +635,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-41",
+      "ref": "N-41",
       "name": "Spencer Cox",
       "type": "person",
       "description": "Utah governor; press conference source for outfit consistency claim; subject of host's 'mouthpiece' criticism.",
@@ -657,8 +657,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-65",
-      "ref": "N-65",
+      "@id": "N-36",
+      "ref": "N-36",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Israeli Prime Minister; alleged by Tucker/Candace to have hijacked Charlie's memory.",
@@ -676,8 +676,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-45",
-      "ref": "N-45",
+      "@id": "N-17",
+      "ref": "N-17",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Charlie Kirk's pastor; issued statement asking Candace to stop investigating during mourning.",
@@ -695,8 +695,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "Source of clips claiming Charlie was financially pressured over Candace invitation.",
@@ -715,8 +715,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-75",
-      "ref": "N-75",
+      "@id": "N-46",
+      "ref": "N-46",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Corroborating voice on donor pressure tactics.",
@@ -734,8 +734,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "Tweeted that subject in custody (George Zinn) was released; referenced for timeline.",
@@ -751,8 +751,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-99",
-      "ref": "N-99",
+      "@id": "N-68",
+      "ref": "N-68",
       "name": "Skyler",
       "type": "person",
       "description": "Production staff member operating timeline/graphics during episode.",
@@ -771,8 +771,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-103",
-      "ref": "N-103",
+      "@id": "N-70",
+      "ref": "N-70",
       "name": "Lance Twigs's Mother",
       "type": "person",
       "description": "Allegedly holds Bachelor of Science from Stanford University in psychology; flagged by host as 'running theme'.",
@@ -788,8 +788,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-104",
-      "ref": "N-104",
+      "@id": "N-71",
+      "ref": "N-71",
       "name": "Matt Gaetz",
       "type": "person",
       "description": "Congressman confirming Tucker's claims via tweet.",
@@ -807,8 +807,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-67",
-      "ref": "N-67",
+      "@id": "N-38",
+      "ref": "N-38",
       "name": "Seth Dillon",
       "type": "person",
       "description": "Babylon Bee CEO cited as pressuring Charlie to disinvite Candace.",
@@ -824,8 +824,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-86",
-      "ref": "N-86",
+      "@id": "N-55",
+      "ref": "N-55",
       "name": "Josh Hammer",
       "type": "person",
       "description": "Challenged by Candace to release his message threads with Charlie.",
@@ -841,8 +841,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-68",
-      "ref": "N-68",
+      "@id": "N-39",
+      "ref": "N-39",
       "name": "Dave Smith",
       "type": "person",
       "description": "Commentator referenced as part of broader pushback on BB Netany/Yahoo narrative.",
@@ -861,8 +861,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10103",
-      "ref": "N-10103",
+      "@id": "N-10038",
+      "ref": "N-10038",
       "name": "Text Message Language Anomaly",
       "type": "topic",
       "description": "Use of words like 'retrieve' and 'vehicle' presented as inconsistent with 22-year-old casual texting.",
@@ -882,8 +882,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10104",
-      "ref": "N-10104",
+      "@id": "N-10039",
+      "ref": "N-10039",
       "name": "Missing Text Message Timestamps",
       "type": "topic",
       "description": "Indictment text messages released without timestamps, blocking independent chronology.",
@@ -908,8 +908,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10105",
-      "ref": "N-10105",
+      "@id": "N-10040",
+      "ref": "N-10040",
       "name": "Robinson On-Campus Linger Timeline",
       "type": "topic",
       "description": "Allegation that Robinson lingered on campus for hours after the shooting attempting to retrieve rifle.",
@@ -935,8 +935,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10106",
-      "ref": "N-10106",
+      "@id": "N-10041",
+      "ref": "N-10041",
       "name": "Note Under Keyboard Disposal",
       "type": "topic",
       "description": "Note directing Lance to look under keyboard was destroyed after a photograph was taken.",
@@ -955,8 +955,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10107",
-      "ref": "N-10107",
+      "@id": "N-10042",
+      "ref": "N-10042",
       "name": "Outfit Change Claim",
       "type": "topic",
       "description": "Robinson's text references changing outfits and leaving rifle in bush; alleged inconsistency with Cox's same-outfit-for-33-hours claim.",
@@ -979,8 +979,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10108",
-      "ref": "N-10108",
+      "@id": "N-10043",
+      "ref": "N-10043",
       "name": "Two-Person Theory (Maroon vs Stairs)",
       "type": "topic",
       "description": "Host hypothesis that the maroon-shirt person at 8:07 AM differs from the person shown walking the stairs.",
@@ -1001,8 +1001,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10109",
-      "ref": "N-10109",
+      "@id": "N-10044",
+      "ref": "N-10044",
       "name": "Lance Twigs Protection Allegation",
       "type": "topic",
       "description": "Allegation that Lance was quickly released despite apartment raid and seizure of electronics; family claims feds were dishonest.",
@@ -1023,8 +1023,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10110",
-      "ref": "N-10110",
+      "@id": "N-10045",
+      "ref": "N-10045",
       "name": "Stanford Psychology Family Pattern",
       "type": "topic",
       "description": "Host's note that Lance's mother holds Stanford BS in psychology, alleged to be a 'running theme' in fed ops.",
@@ -1041,8 +1041,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10111",
-      "ref": "N-10111",
+      "@id": "N-10046",
+      "ref": "N-10046",
       "name": "Federal Conspiracy Allegation",
       "type": "topic",
       "description": "Host's overarching claim of federal-level conspiracy in Charlie Kirk's murder, framing the episode's investigation.",
@@ -1061,8 +1061,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10112",
-      "ref": "N-10112",
+      "@id": "N-10047",
+      "ref": "N-10047",
       "name": "Donor Intimidation of Charlie Kirk",
       "type": "topic",
       "description": "Allegation that donors financially pressured Charlie over Candace's invitation to Turning Point conference.",
@@ -1094,7 +1094,7 @@
         "A-1104.2"
       ],
       "related_nodes": [
-        "N-10103"
+        "N-10038"
       ],
       "tags": [],
       "claim_timestamp": "00:00:41",
@@ -1103,9 +1103,9 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-2",
-        "N-69",
-        "N-84",
-        "N-99"
+        "N-40",
+        "N-54",
+        "N-68"
       ]
     },
     {
@@ -1124,8 +1124,8 @@
         "A-1106.3"
       ],
       "related_nodes": [
-        "N-10104",
-        "N-10111"
+        "N-10039",
+        "N-10046"
       ],
       "tags": [],
       "claim_timestamp": "00:03:33",
@@ -1133,7 +1133,7 @@
       "transcript_snippet": "the obvious thing, there's no timestamps. Right away, major red flag.",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1146,7 +1146,7 @@
         "A-1104.1"
       ],
       "related_nodes": [
-        "N-10106"
+        "N-10041"
       ],
       "tags": [],
       "claim_timestamp": "00:05:27",
@@ -1154,8 +1154,8 @@
       "transcript_snippet": "even though he destroyed the note, he took a picture of it… we're not going to be able to see either anyways.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-69",
-        "N-84"
+        "N-40",
+        "N-54"
       ]
     },
     {
@@ -1170,7 +1170,7 @@
         "A-1110.1"
       ],
       "related_nodes": [
-        "N-10105"
+        "N-10040"
       ],
       "tags": [],
       "claim_timestamp": "00:08:15",
@@ -1178,10 +1178,10 @@
       "transcript_snippet": "the earliest that that message could have been sent out is after 5:30 p.m.",
       "confidence": "medium",
       "mentions_person_refs": [
+        "N-40",
+        "N-42",
         "N-69",
-        "N-71",
-        "N-102",
-        "N-70"
+        "N-41"
       ]
     },
     {
@@ -1200,7 +1200,7 @@
         "A-1106.1"
       ],
       "related_nodes": [
-        "N-10105"
+        "N-10040"
       ],
       "tags": [],
       "claim_timestamp": "00:10:04",
@@ -1208,7 +1208,7 @@
       "transcript_snippet": "I'm lingering around there. I'm trying to get the vehicle… I will have left no evidence.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1221,7 +1221,7 @@
         "A-1104.4"
       ],
       "related_nodes": [
-        "N-10107"
+        "N-10042"
       ],
       "tags": [],
       "claim_timestamp": "00:12:07",
@@ -1229,7 +1229,7 @@
       "transcript_snippet": "I had to leave it in a bush where I changed outfits… only thing I left was the rifle wrapped in a towel.",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1244,7 +1244,7 @@
         "A-1105.3"
       ],
       "related_nodes": [
-        "N-10109"
+        "N-10044"
       ],
       "tags": [],
       "claim_timestamp": "00:26:12",
@@ -1252,7 +1252,7 @@
       "transcript_snippet": "Why would they release Lance? Wouldn't you think that you would be detained like for at least 24 hours?",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-84"
+        "N-54"
       ]
     },
     {
@@ -1267,8 +1267,8 @@
         "A-1110.1"
       ],
       "related_nodes": [
-        "N-10107",
-        "N-10111"
+        "N-10042",
+        "N-10046"
       ],
       "tags": [],
       "claim_timestamp": "00:29:45",
@@ -1277,7 +1277,7 @@
       "confidence": "low",
       "uncertainty_note": "Source-based claim; no independent corroboration presented in episode.",
       "mentions_person_refs": [
-        "N-70"
+        "N-41"
       ]
     },
     {
@@ -1292,8 +1292,8 @@
         "A-1110.1"
       ],
       "related_nodes": [
-        "N-10108",
-        "N-10111"
+        "N-10043",
+        "N-10046"
       ],
       "tags": [],
       "claim_timestamp": "00:33:19",
@@ -1302,7 +1302,7 @@
       "confidence": "low",
       "uncertainty_note": "Framed by host as a 'gut'/'vibe' assessment; no forensic comparison presented.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1313,7 +1313,7 @@
       "claim": "Lance Twigs's mother holds a Bachelor of Science from Stanford University in psychology, which the host describes as a 'running theme' in federal operations.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10110"
+        "N-10045"
       ],
       "tags": [],
       "claim_timestamp": "00:36:23",
@@ -1322,8 +1322,8 @@
       "confidence": "low",
       "uncertainty_note": "Degree claim not independently sourced; presented as host assertion.",
       "mentions_person_refs": [
-        "N-103",
-        "N-84"
+        "N-70",
+        "N-54"
       ]
     },
     {
@@ -1339,7 +1339,7 @@
         "A-1109.1"
       ],
       "related_nodes": [
-        "N-10112"
+        "N-10047"
       ],
       "tags": [],
       "claim_timestamp": "00:45:45",
@@ -1349,12 +1349,12 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-50",
-        "N-65",
-        "N-75",
-        "N-104",
-        "N-67",
-        "N-86"
+        "N-22",
+        "N-36",
+        "N-46",
+        "N-71",
+        "N-38",
+        "N-55"
       ]
     },
     {
@@ -1368,7 +1368,7 @@
         "A-1107.2"
       ],
       "related_nodes": [
-        "N-10112"
+        "N-10047"
       ],
       "tags": [],
       "claim_timestamp": "00:45:45–00:46:15",
@@ -1380,7 +1380,7 @@
       ],
       "mentions_person_refs": [
         "N-1",
-        "N-50"
+        "N-22"
       ]
     },
     {
@@ -1397,8 +1397,8 @@
       "transcript_snippet": "My theory is that we are not being told the truth and I think that there are multiple people that were involved including George Zinn.",
       "mentions_person_refs": [
         "N-3",
-        "N-71",
-        "N-69"
+        "N-42",
+        "N-40"
       ]
     }
   ],
@@ -1444,7 +1444,7 @@
         {
           "episode": 4,
           "video_timestamp": "00:51:22",
-          "speaker_node_ref": "N-104",
+          "speaker_node_ref": "N-71",
           "quote": "Yes, they were behaving like demons. There's just no question.",
           "context": "Matt Gaetz tweet quoted by Candace to corroborate 'demons' framing.",
           "confidence": "high",

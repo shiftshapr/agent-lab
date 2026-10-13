@@ -176,7 +176,7 @@
             "C-2536"
           ],
           "related_nodes": [
-            "N-10620"
+            "N-10547"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,7 +195,7 @@
             "C-2538"
           ],
           "related_nodes": [
-            "N-10622"
+            "N-10549"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -221,7 +221,7 @@
             "C-2539"
           ],
           "related_nodes": [
-            "N-10623"
+            "N-10550"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -334,8 +334,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10620",
-      "ref": "N-10620",
+      "@id": "N-10547",
+      "ref": "N-10547",
       "name": "September 10 Plane Logistics Discrepancy",
       "type": "investigation_target",
       "description": "Persistent inconsistency between Andrew Kolvet's stated location (Santa Barbara with wife, departing 3:19 p.m. Utah time) and PR text-chain timestamps indicating he was unavailable and \"on the plane\" during the 1:30–3:25 p.m. Utah window.",
@@ -358,8 +358,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10621",
-      "ref": "N-10621",
+      "@id": "N-10548",
+      "ref": "N-10548",
       "name": "Tarmac Hug Account Discrepancy",
       "type": "investigation_target",
       "description": "Host's recollection that Kolvet described being alone on a G5/G6 and \"collapsing\" into Erika's arms on the Provo tarmac, contrasted with later public story of his wife being on the plane; Erika did not corroborate the wife-on-plane fact when asked directly.",
@@ -371,13 +371,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10620"
+        "N-10547"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10622",
-      "ref": "N-10622",
+      "@id": "N-10549",
+      "ref": "N-10549",
       "name": "Egyptian Plane Transponding Correlation",
       "type": "investigation_target",
       "description": "Host's on-screen calendar shows Egyptian aircraft transponding at Provo and Scottsdale coinciding with key Sept 10 events (Andrew's \"this just loaded\" message; Wyre plane landings). Underlying data source not independently sourced in episode.",
@@ -396,8 +396,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10623",
-      "ref": "N-10623",
+      "@id": "N-10550",
+      "ref": "N-10550",
       "name": "Blake Neff \"Two Phones\" Implication",
       "type": "investigation_target",
       "description": "Host interprets Blake Neff's phrasing \"I put that phone away\" after calling his mother as implying possession of a second phone.",
@@ -415,8 +415,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10624",
-      "ref": "N-10624",
+      "@id": "N-10551",
+      "ref": "N-10551",
       "name": "Joe Kent Leak Accusation Chain",
       "type": "investigation_target",
       "description": "Sequence of public accusations (Alex Clark, Laura Loomer, Andrew Kolvet on-air) that Joe Kent leaked material specifically to harm Erika Kirk. Host contests this framing.",
@@ -438,8 +438,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10625",
-      "ref": "N-10625",
+      "@id": "N-10552",
+      "ref": "N-10552",
       "name": "Aubrey Termination Circumstances",
       "type": "investigation_target",
       "description": "Host alleges Aubrey was assigned death-statement drafting on Sept 10 while Andrew was unavailable, later terminated in connection with an Uber-driver conversation reported by Marina.",
@@ -506,8 +506,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
@@ -522,8 +522,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
@@ -538,8 +538,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-91",
-      "ref": "N-91",
+      "@id": "N-60",
+      "ref": "N-60",
       "name": "Laura Loomer",
       "type": "person",
       "description": "Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.",
@@ -554,8 +554,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-130",
-      "ref": "N-130",
+      "@id": "N-95",
+      "ref": "N-95",
       "name": "Jack Posobiec",
       "type": "person",
       "description": "Commentator and former Navy intelligence officer; defended by host.",
@@ -570,8 +570,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-135",
-      "ref": "N-135",
+      "@id": "N-99",
+      "ref": "N-99",
       "name": "Alex Clark",
       "type": "person",
       "description": "Podcaster named by host and defended by AllieBeth Stuckey (A-1537.1) against host's accusation of misrepresenting Charlie Kirk's stance on architecture.",
@@ -586,8 +586,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
@@ -602,8 +602,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-310",
-      "ref": "N-310",
+      "@id": "N-213",
+      "ref": "N-213",
       "name": "Joe Kent",
       "type": "person",
       "description": "Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.",
@@ -618,8 +618,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-374",
-      "ref": "N-374",
+      "@id": "N-249",
+      "ref": "N-249",
       "name": "Mark Levin",
       "type": "person",
       "description": "Conservative commentator; named as defender of Alan Dershowitz.",
@@ -634,8 +634,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-427",
-      "ref": "N-427",
+      "@id": "N-274",
+      "ref": "N-274",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Host of The Joe Rogan Experience; clip (A-1443.1) discussing conspiracies.",
@@ -650,8 +650,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-789",
-      "ref": "N-789",
+      "@id": "N-504",
+      "ref": "N-504",
       "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "Marina (TPUSA CMO) (wave3 orphan mint).",
@@ -678,15 +678,15 @@
         "A-1877.1"
       ],
       "related_nodes": [
-        "N-10620"
+        "N-10547"
       ],
       "tags": [],
       "claim_timestamp": "00:02:10",
       "investigative_direction": "Compare Kent's claims against any FBI/NCTC public statements; review case-file jurisdiction transfers to Utah authorities.",
       "mentions_person_refs": [
-        "N-50",
+        "N-22",
         "N-1",
-        "N-310"
+        "N-213"
       ]
     },
     {
@@ -704,7 +704,7 @@
       "investigative_direction": "Verify via West Wing access logs and any corroborating witnesses to the June encounter.",
       "mentions_person_refs": [
         "N-1",
-        "N-310"
+        "N-213"
       ]
     },
     {
@@ -715,14 +715,14 @@
       "claim": "Andrew Kolvet retweeted a post suggesting Joe Kent should be arrested for leaking classified documents.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10624"
+        "N-10551"
       ],
       "tags": [],
       "claim_timestamp": "00:00:42",
       "investigative_direction": "Confirm via archived Kolvet X timeline.",
       "mentions_person_refs": [
-        "N-42",
-        "N-310"
+        "N-14",
+        "N-213"
       ]
     },
     {
@@ -735,15 +735,15 @@
         "A-1879.1"
       ],
       "related_nodes": [
-        "N-10624"
+        "N-10551"
       ],
       "tags": [],
       "claim_timestamp": "00:05:36",
       "investigative_direction": "Retrieve Clark's full X thread and any cited evidence.",
       "mentions_person_refs": [
         "N-2",
-        "N-135",
-        "N-310"
+        "N-99",
+        "N-213"
       ]
     },
     {
@@ -760,8 +760,8 @@
       "claim_timestamp": "00:06:26",
       "investigative_direction": "Cross-check against DoD / military service records.",
       "mentions_person_refs": [
-        "N-130",
-        "N-310"
+        "N-95",
+        "N-213"
       ]
     },
     {
@@ -774,16 +774,16 @@
         "A-1880.2"
       ],
       "related_nodes": [
-        "N-10624"
+        "N-10551"
       ],
       "tags": [],
       "claim_timestamp": "00:07:00",
       "investigative_direction": "Retrieve Loomer's full post; trace whether she cites source for the accusation.",
       "mentions_person_refs": [
         "N-3",
-        "N-91",
+        "N-60",
         "N-2",
-        "N-310"
+        "N-213"
       ]
     },
     {
@@ -796,15 +796,15 @@
         "A-1878.1"
       ],
       "related_nodes": [
-        "N-10624"
+        "N-10551"
       ],
       "tags": [],
       "claim_timestamp": "00:09:30",
       "investigative_direction": "Obtain full unedited radio segment; verify chain of custody.",
       "mentions_person_refs": [
-        "N-42",
+        "N-14",
         "N-1",
-        "N-310"
+        "N-213"
       ]
     },
     {
@@ -817,14 +817,14 @@
         "A-1878.2"
       ],
       "related_nodes": [
-        "N-10624"
+        "N-10551"
       ],
       "tags": [],
       "claim_timestamp": "00:11:16",
       "investigative_direction": "Verify against any direct messaging logs or third-party corroboration.",
       "mentions_person_refs": [
-        "N-42",
-        "N-310"
+        "N-14",
+        "N-213"
       ]
     },
     {
@@ -837,13 +837,13 @@
         "A-1881.1"
       ],
       "related_nodes": [
-        "N-10620"
+        "N-10547"
       ],
       "tags": [],
       "claim_timestamp": "00:21:46",
       "investigative_direction": "Timestamp-verify the chat export; cross-reference with FAA flight logs and cell-tower records.",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -856,13 +856,13 @@
         "A-1881.1"
       ],
       "related_nodes": [
-        "N-10620"
+        "N-10547"
       ],
       "tags": [],
       "claim_timestamp": "00:23:16",
       "investigative_direction": "Verify the exact wording against export; check plane Wi-Fi / message buffering logs if obtainable.",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -875,14 +875,14 @@
         "A-1881.1"
       ],
       "related_nodes": [
-        "N-10620",
-        "N-10625"
+        "N-10547",
+        "N-10552"
       ],
       "tags": [],
       "claim_timestamp": "00:24:14",
       "investigative_direction": "Confirm via call detail records and corroborate with Aubrey directly if possible.",
       "mentions_person_refs": [
-        "N-789"
+        "N-504"
       ]
     },
     {
@@ -893,13 +893,13 @@
       "claim": "Aubrey, who drafted the Sept 10 death statement, was later terminated in connection with a conversation with an Uber driver that Marina Medvin reportedly overheard.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10625"
+        "N-10552"
       ],
       "tags": [],
       "claim_timestamp": "00:25:31",
       "investigative_direction": "Verify with Aubrey or HR/witness records.",
       "mentions_person_refs": [
-        "N-789"
+        "N-504"
       ]
     },
     {
@@ -912,8 +912,8 @@
         "A-1881.2"
       ],
       "related_nodes": [
-        "N-10620",
-        "N-10622"
+        "N-10547",
+        "N-10549"
       ],
       "tags": [],
       "claim_timestamp": "00:29:39",
@@ -930,8 +930,8 @@
         "A-1881.2"
       ],
       "related_nodes": [
-        "N-10620",
-        "N-10622"
+        "N-10547",
+        "N-10549"
       ],
       "tags": [],
       "claim_timestamp": "00:35:39",
@@ -948,13 +948,13 @@
         "A-1882.1"
       ],
       "related_nodes": [
-        "N-10623"
+        "N-10550"
       ],
       "tags": [],
       "claim_timestamp": "00:33:30",
       "investigative_direction": "Direct verification only possible via Blake Neff or device forensics.",
       "mentions_person_refs": [
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -972,7 +972,7 @@
       "investigative_direction": "Verify CIA documentary provenance and Erika's pageant participation against public records.",
       "mentions_person_refs": [
         "N-2",
-        "N-427"
+        "N-274"
       ]
     },
     {
@@ -989,7 +989,7 @@
       "claim_timestamp": "00:43:46",
       "investigative_direction": "Retrieve full tweet and any subsequent clarification.",
       "mentions_person_refs": [
-        "N-374"
+        "N-249"
       ]
     },
     {
@@ -1006,7 +1006,7 @@
       "claim_timestamp": "00:43:46",
       "investigative_direction": "Retrieve original tweet.",
       "mentions_person_refs": [
-        "N-427"
+        "N-274"
       ]
     },
     {
@@ -1017,7 +1017,7 @@
       "claim": "Candace Owens states she had never had a single communication with Joe Kent until after Charlie Kirk's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10624"
+        "N-10551"
       ],
       "tags": [],
       "claim_timestamp": "00:45:46",
@@ -1025,7 +1025,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-310"
+        "N-213"
       ]
     }
   ],

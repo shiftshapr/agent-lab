@@ -30,8 +30,8 @@
             "C-1321"
           ],
           "related_nodes": [
-            "N-92",
-            "N-10212"
+            "N-61",
+            "N-10146"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -56,8 +56,8 @@
             "C-1322"
           ],
           "related_nodes": [
-            "N-92",
-            "N-10212"
+            "N-61",
+            "N-10146"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -83,8 +83,8 @@
             "C-1324"
           ],
           "related_nodes": [
-            "N-92",
-            "N-10212"
+            "N-61",
+            "N-10146"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -110,7 +110,7 @@
             "C-1325"
           ],
           "related_nodes": [
-            "N-184"
+            "N-134"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -137,7 +137,7 @@
             "C-1334"
           ],
           "related_nodes": [
-            "N-184"
+            "N-134"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -163,7 +163,7 @@
             "C-1327"
           ],
           "related_nodes": [
-            "N-10213"
+            "N-10147"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -190,9 +190,9 @@
             "C-1335"
           ],
           "related_nodes": [
-            "N-186",
-            "N-102",
-            "N-10216"
+            "N-135",
+            "N-69",
+            "N-10150"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -218,8 +218,8 @@
             "C-1330"
           ],
           "related_nodes": [
-            "N-176",
-            "N-10217"
+            "N-126",
+            "N-10151"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -245,8 +245,8 @@
             "C-1331"
           ],
           "related_nodes": [
-            "N-65",
-            "N-10214"
+            "N-36",
+            "N-10148"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -272,8 +272,8 @@
             "C-1328"
           ],
           "related_nodes": [
-            "N-92",
-            "N-183"
+            "N-61",
+            "N-133"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -291,8 +291,8 @@
             "C-1328"
           ],
           "related_nodes": [
-            "N-92",
-            "N-183"
+            "N-61",
+            "N-133"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -318,7 +318,7 @@
             "C-1326"
           ],
           "related_nodes": [
-            "N-184"
+            "N-134"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -344,7 +344,7 @@
             "C-1327"
           ],
           "related_nodes": [
-            "N-10213"
+            "N-10147"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -383,8 +383,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-183",
-      "ref": "N-183",
+      "@id": "N-133",
+      "ref": "N-133",
       "name": "Shainer Broderick",
       "type": "person",
       "description": "Phil Lyman's nephew (per Broderick's own Instagram and LinkedIn) or cousin (per Phil's revised claim to the host); retraced the killer's footpath with two companions shortly after the shooting and produced a map used by media. Wiped his LinkedIn and Facebook and cleared/privatized his Instagram following the host's previous episode.",
@@ -401,15 +401,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-92",
-        "N-184",
-        "N-10213"
+        "N-61",
+        "N-134",
+        "N-10147"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-184",
-      "ref": "N-184",
+      "@id": "N-134",
+      "ref": "N-134",
       "name": "Gernot Omer",
       "type": "person",
       "description": "Austrian national; identified by the host as one of two companions in the Broderick companion photo. Matched to a BearingPoint Graz software team YouTube video and a German-language \"Anniversary Hike\" blog; LinkedIn indicates relocation to Utah in May 2024 for a software engineering role at JP Morgan Chase.",
@@ -431,8 +431,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-65",
-      "ref": "N-65",
+      "@id": "N-36",
+      "ref": "N-36",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Israeli Prime Minister; referenced as having released the May Charlie Kirk letter roughly two weeks after the September 10 assassination. (Note: transcript renders the familiar \"Bibi\" as \"BB\"; preserved as transcribed; flagged.)",
@@ -448,13 +448,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10214"
+        "N-10148"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-186",
-      "ref": "N-186",
+      "@id": "N-135",
+      "ref": "N-135",
       "name": "Robert Bowles",
       "type": "person",
       "description": "Reported as the individual installed to lead the Utah FBI field office in August 2025 following Kash Patel's purge of prior leadership; described as based in DC for decades and in his first week on the job at the time of the shooting.",
@@ -471,14 +471,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-102",
-        "N-10216"
+        "N-69",
+        "N-10150"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-176",
-      "ref": "N-176",
+      "@id": "N-126",
+      "ref": "N-126",
       "name": "Mike Mitchell",
       "type": "person",
       "description": "Salt Lake County Sheriff's Office detective; per a 1999 article, conducts online undercover work creating personas to identify suspected pedophiles. Flag: this entity is likely to already possess a node ID from prior episodes covering his role in the Charlie Kirk case; verify ledger and merge if confirmed.",
@@ -494,13 +494,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10217"
+        "N-10151"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "FBI Director; per a Daily Mail article cited in the episode, fired the chief of the Utah FBI Bureau and other personnel and replaced them with Robert Bowles in August 2025, weeks before the assassination. Flag: may already have a node ID from prior episodes; verify ledger and merge if confirmed.",
@@ -516,14 +516,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-186",
-        "N-10216"
+        "N-135",
+        "N-10150"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10212",
-      "ref": "N-10212",
+      "@id": "N-10146",
+      "ref": "N-10146",
       "name": "Phil Lyman Location Discrepancy",
       "type": "investigation_target",
       "description": "Persistent inconsistency across three artifact-anchored sources regarding Phil Lyman's position at the moment of the shot: (1) Alex Jones interview places him at the east end outdoors, (2) NewsNation interview places him entering a building and then running out, and (3) video with 12:23 metadata timestamp shows him already inside the Sorenson Center building walking out calmly.",
@@ -543,13 +543,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-92"
+        "N-61"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10213",
-      "ref": "N-10213",
+      "@id": "N-10147",
+      "ref": "N-10147",
       "name": "Unidentified Goth Person in Broderick Companion Photo",
       "type": "investigation_target",
       "description": "The second of two foreign companions in the photo with Shainer Broderick; matched by a Belfast viewer to a person on the Provo gothic-underground site \"Buzzard and Bees.\" Remains unidentified by name as of this episode.",
@@ -566,13 +566,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-183"
+        "N-133"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10214",
-      "ref": "N-10214",
+      "@id": "N-10148",
+      "ref": "N-10148",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
       "type": "investigation_target",
       "description": "Host assertion that approximately 48 hours before his death Charlie Kirk informed Turning Point USA staff, Jewish donors, and a rabbi that he was abandoning the pro-Israel cause, and that he intended to bring Candace Owens back. Currently host-testimony only with no displayed artifact in this episode; TPUSA has been publicly challenged to deny. Verification target.",
@@ -588,13 +588,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-65"
+        "N-36"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10215",
-      "ref": "N-10215",
+      "@id": "N-10149",
+      "ref": "N-10149",
       "name": "Hospital Routing Discrepancy",
       "type": "investigation_target",
       "description": "Host assertion that Timpanogos Regional Hospital was not the closest trauma-equipped facility and that the hospital had just named Andrew Zenger as a new CEO/surgeon on the same day Charlie's tour was announced. Lacks displayed artifact in this episode; verification target.",
@@ -608,8 +608,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10216",
-      "ref": "N-10216",
+      "@id": "N-10150",
+      "ref": "N-10150",
       "name": "Utah FBI Personnel Replacement",
       "type": "investigation_target",
       "description": "Verified via Daily Mail: Kash Patel fired the Utah FBI Bureau chief and additional personnel, replaced by Robert Bowles in August 2025; Bowles in his first week on the job at the time of the shooting. Investigation target remains: who approved the timing, who vetted Bowles, and what the chain of command was on September 10.",
@@ -626,14 +626,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-186",
-        "N-102"
+        "N-135",
+        "N-69"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10217",
-      "ref": "N-10217",
+      "@id": "N-10151",
+      "ref": "N-10151",
       "name": "Mike Mitchell Undercover Role Verification",
       "type": "investigation_target",
       "description": "Verification target: confirm whether the Detective Mike Mitchell named in the 1999 article is the same Mike Mitchell involved in the Charlie Kirk case, his tenure length (article states approximately one year as of 1999), and whether his specialty in online decoy personas is causally connected to the George Zinn decoy-boy episode.",
@@ -649,13 +649,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-176"
+        "N-126"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-92",
-      "ref": "N-92",
+      "@id": "N-61",
+      "ref": "N-61",
       "name": "Phil Lyman",
       "type": "person",
       "description": "Utah Lt. Gov. candidate; per host, the GMA connection was routed through his campaign to Tiffany Barker.",
@@ -686,8 +686,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-128",
-      "ref": "N-128",
+      "@id": "N-93",
+      "ref": "N-93",
       "name": "Alex Jones",
       "type": "person",
       "description": "Source of declaration-of-war clip against Candace over Mitch Snow coverage.",
@@ -712,14 +712,14 @@
         "A-1183.1"
       ],
       "related_nodes": [
-        "N-10212"
+        "N-10146"
       ],
       "tags": [],
       "claim_timestamp": "00:12:16–00:14:30",
       "investigative_direction": "Compare Phil's Alex Jones account verbatim against (a) the NewsNation account (C-1322) and (b) the 12:23 video metadata (A-1185.1) to characterize the discrepancy as edit, memory, or misrepresentation.",
       "mentions_person_refs": [
-        "N-92",
-        "N-128"
+        "N-61",
+        "N-93"
       ]
     },
     {
@@ -732,13 +732,13 @@
         "A-1184.1"
       ],
       "related_nodes": [
-        "N-10212"
+        "N-10146"
       ],
       "tags": [],
       "claim_timestamp": "00:14:45–00:15:55",
       "investigative_direction": "Cross-reference timestamp of \"ran out\" with the 12:23 video metadata (A-1185.1) to determine whether Phil was inside or approaching at the moment of the shot.",
       "mentions_person_refs": [
-        "N-92"
+        "N-61"
       ]
     },
     {
@@ -751,13 +751,13 @@
         "A-1185.1"
       ],
       "related_nodes": [
-        "N-10212"
+        "N-10146"
       ],
       "tags": [],
       "claim_timestamp": "00:16:43",
       "investigative_direction": "Obtain original file with full EXIF metadata; forensically confirm capture time, device, and chain of custody.",
       "mentions_person_refs": [
-        "N-92"
+        "N-61"
       ]
     },
     {
@@ -770,14 +770,14 @@
         "A-1185.1"
       ],
       "related_nodes": [
-        "N-10212"
+        "N-10146"
       ],
       "tags": [],
       "claim_timestamp": "00:17:21–00:18:35",
       "investigative_direction": "Compare visible individuals in A-1185.1 with the two companions in the Broderick photo (A-1192.1); determine whether they are the same individuals.",
       "mentions_person_refs": [
-        "N-92",
-        "N-128"
+        "N-61",
+        "N-93"
       ]
     },
     {
@@ -790,14 +790,14 @@
         "A-1186.1"
       ],
       "related_nodes": [
-        "N-10213"
+        "N-10147"
       ],
       "tags": [],
       "claim_timestamp": "00:10:39–00:11:29",
       "investigative_direction": "Obtain the original Broderick companion photo from prior episode; perform controlled side-by-side facial comparison and reach out to BearingPoint HR to confirm Gernot Omer's employment dates.",
       "mentions_person_refs": [
-        "N-184",
-        "N-183"
+        "N-134",
+        "N-133"
       ]
     },
     {
@@ -814,7 +814,7 @@
       "claim_timestamp": "00:11:29–00:12:20",
       "investigative_direction": "Capture and archive the LinkedIn profile as displayed; verify with JP Morgan Chase HR whether the employment record matches.",
       "mentions_person_refs": [
-        "N-184"
+        "N-134"
       ]
     },
     {
@@ -828,7 +828,7 @@
         "A-1188.1"
       ],
       "related_nodes": [
-        "N-10213"
+        "N-10147"
       ],
       "tags": [],
       "claim_timestamp": "00:19:14–00:19:58",
@@ -849,8 +849,8 @@
       "claim_timestamp": "00:06:43–00:07:30",
       "investigative_direction": "Archive Instagram and LinkedIn snapshots from prior to deletion/scrub; reconcile with Phil Lyman's later \"cousin, not nephew\" revision.",
       "mentions_person_refs": [
-        "N-92",
-        "N-183"
+        "N-61",
+        "N-133"
       ]
     },
     {
@@ -863,14 +863,14 @@
         "A-1189.1"
       ],
       "related_nodes": [
-        "N-10216"
+        "N-10150"
       ],
       "tags": [],
       "claim_timestamp": "00:30:55–00:32:40",
       "investigative_direction": "Obtain the underlying DOJ/FBI HR records for the Utah field office; verify the date of Robert Bowles's transfer and the names of all removed personnel.",
       "mentions_person_refs": [
-        "N-102",
-        "N-186",
+        "N-69",
+        "N-135",
         "N-1"
       ]
     },
@@ -884,13 +884,13 @@
         "A-1190.1"
       ],
       "related_nodes": [
-        "N-10217"
+        "N-10151"
       ],
       "tags": [],
       "claim_timestamp": "00:21:52–00:22:45",
       "investigative_direction": "Confirm continuity between the 1999 Salt Lake County Sheriff's Office Mitchell and the Mike Mitchell referenced in the Charlie Kirk investigation; obtain his full service record.",
       "mentions_person_refs": [
-        "N-176"
+        "N-126"
       ]
     },
     {
@@ -903,13 +903,13 @@
         "A-1191.1"
       ],
       "related_nodes": [
-        "N-10214"
+        "N-10148"
       ],
       "tags": [],
       "claim_timestamp": "00:34:37–00:35:21",
       "investigative_direction": "Obtain the original letter or email (timestamp, metadata); reconcile with contemporaneous statements by TPUSA staff and the host's 48-hour claim.",
       "mentions_person_refs": [
-        "N-65",
+        "N-36",
         "N-1"
       ]
     },
@@ -944,7 +944,7 @@
       "claim_timestamp": "00:09:47–00:10:39",
       "investigative_direction": "Confirm authorship and dating of the blog; verify Gernot Omer's participation in the original 20-year-old hike and the 10-year reunion.",
       "mentions_person_refs": [
-        "N-184"
+        "N-134"
       ]
     },
     {
@@ -957,13 +957,13 @@
         "A-1189.1"
       ],
       "related_nodes": [
-        "N-10216"
+        "N-10150"
       ],
       "tags": [],
       "claim_timestamp": "00:30:55–00:32:40",
       "investigative_direction": "Verify Bowles's official start date via FBI HR records and tie to the timeline of investigative actions on September 10.",
       "mentions_person_refs": [
-        "N-186",
+        "N-135",
         "N-1"
       ]
     },
@@ -983,7 +983,7 @@
       "transcript_snippet": "he's somebody who has been in DC for decades. So, seems to me to be an unusual placement to then want to re-up your entire life",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-186"
+        "N-135"
       ]
     }
   ],

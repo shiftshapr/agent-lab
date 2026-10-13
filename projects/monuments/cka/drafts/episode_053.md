@@ -29,9 +29,9 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1587, A-1588, A-1589, A-1590, A-1591, A-1592, A-1593, A-1594, A-1595
   - Claim Range: C-2016–C-2025
-  - New Nodes Introduced: N-640, N-641, N-642, N-643, N-644, N-645, N-646, N-647, N-648, N-10456, N-10457, N-10458, N-10459, N-10460, N-10461, N-10462
+  - New Nodes Introduced: N-398, N-399, N-400, N-401, N-402, N-403, N-404, N-405, N-406, N-10385, N-10386, N-10387, N-10388, N-10389, N-10390, N-10391
   - Reused Nodes Appearing: 
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), and other pre-existing nodes (referenced where contextually applicable – Ben Shapiro, Tyler Bowyer, Tucker Carlson, Megan Kelly presumed to exist), N-37
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), and other pre-existing nodes (referenced where contextually applicable – Ben Shapiro, Tyler Bowyer, Tucker Carlson, Megan Kelly presumed to exist), N-11
 
 ---
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:06:31–00:09:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2016, C-2017, C-2024, N-640, N-10456*
+*Related: C-2016, C-2017, C-2024, N-398, N-10385*
 
 ---
 
@@ -71,7 +71,7 @@ Video Timestamp: 00:11:04–00:12:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2018, N-640, N-10456*
+*Related: C-2018, N-398, N-10385*
 
 ---
 
@@ -85,7 +85,7 @@ Video Timestamp: 00:09:24–00:11:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2017, N-640, N-10456*
+*Related: C-2017, N-398, N-10385*
 
 ---
 
@@ -99,7 +99,7 @@ Video Timestamp: 00:24:45–00:27:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2019, C-2025, N-642, N-643, N-644, N-645, N-646, N-10457, N-10462*
+*Related: C-2019, C-2025, N-400, N-401, N-402, N-403, N-404, N-10386, N-10391*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:18:09–00:19:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2020, N-641, N-642, N-10457*
+*Related: C-2020, N-399, N-400, N-10386*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:47:47–00:49:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2021, C-2022, N-647, N-10458, N-10461*
+*Related: C-2021, C-2022, N-405, N-10387, N-10390*
 
 ---
 
@@ -141,7 +141,7 @@ Video Timestamp: 00:44:48–00:45:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (exact date and identity of "oracle" figure not independently verified)
 
-*Related: C-2023, N-1, N-648, N-10460*
+*Related: C-2023, N-1, N-406, N-10389*
 
 ---
 
@@ -176,7 +176,7 @@ Confidence Level: High (as displayed text)
 ## IV. Node Register
 
 
-**N-640** Maggie Wagner
+**N-398** Maggie Wagner
 
 Person who received a Daily Wire audition approach to host a show mocking Candace Owens and Tucker Carlson; declined the role. Provided email, text message, and AI video sample as artifacts.
 
@@ -185,11 +185,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1587.1, A-1588.1, A-1589.1, C-2016, C-2017, C-2018, C-2024, N-10456*
+*Related: A-1587.1, A-1588.1, A-1589.1, C-2016, C-2017, C-2018, C-2024, N-10385*
 
 ---
 
-**N-641** Steve Bannon
+**N-399** Steve Bannon
 
 Former Breitbart chairman referenced via Amfest audio clip describing Ben Shapiro's pattern of attempted hostile takeovers of conservative organizations.
 
@@ -198,11 +198,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1591.1, C-2020, N-642, N-10457*
+*Related: A-1591.1, C-2020, N-400, N-10386*
 
 ---
 
-**N-642** Andrew Breitbart
+**N-400** Andrew Breitbart
 
 Founder of Breitbart News; died March 1, 2012. Subject of Bannon's account and Shapiro's own resignation statement referencing mentorship and editor-at-large role.
 
@@ -211,11 +211,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1590.1, A-1591.1, C-2020, C-2025, N-641, N-10457, N-10462*
+*Related: A-1590.1, A-1591.1, C-2020, C-2025, N-399, N-10386, N-10391*
 
 ---
 
-**N-643** Jamie Weinstein
+**N-401** Jamie Weinstein
 
 Named in host's recounting (not from artifact) as the alleged co-conspirator with Ben Shapiro in the Breitbart/Fields affair and identified as Michelle Fields' husband at the time. No displayed artifact anchors this; tracked here for potential cross-episode verification.
 
@@ -224,11 +224,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-644, N-10457, N-10462*
+*Related: N-402, N-10386, N-10391*
 
 ---
 
-**N-644** Michelle Fields
+**N-402** Michelle Fields
 
 Breitbart reporter who alleged assault by Corey Lewandowski; central figure in the 2016 Breitbart scandal referenced in Shapiro's resignation statement.
 
@@ -237,11 +237,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1590.1, C-2019, N-643, N-645, N-10462*
+*Related: A-1590.1, C-2019, N-401, N-403, N-10391*
 
 ---
 
-**N-645** Corey Lewandowski
+**N-403** Corey Lewandowski
 
 Former Trump campaign manager alleged to have assaulted Michelle Fields at a 2016 event; named in Shapiro's resignation statement.
 
@@ -250,11 +250,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1590.1, C-2019, N-644, N-10462*
+*Related: A-1590.1, C-2019, N-402, N-10391*
 
 ---
 
-**N-646** Austin Smith
+**N-404** Austin Smith
 
 Former Arizona state representative and Turning Point Action leader, age 30. Sentenced for petition signature fraud including forging a dead woman's signature.
 
@@ -263,11 +263,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1592.1, C-2021, C-2022, N-10458, N-10461*
+*Related: A-1592.1, C-2021, C-2022, N-10387, N-10390*
 
 ---
 
-**N-647** Michael Cormier
+**N-405** Michael Cormier
 
 Forensic technician (age 61) referenced by host as involved in Andrew Breitbart's autopsy who allegedly died from "military-grade arsenic poisoning." Claim presented via host recounting only; no artifact displayed.
 
@@ -276,11 +276,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-642*
+*Related: N-400*
 
 ---
 
-**N-648** Charlie Kirk's "Oracle" Figure
+**N-406** Charlie Kirk's "Oracle" Figure
 
 Older Jewish man described in Charlie Kirk's text messages as someone Charlie visited for spiritual reasons regarding his premonitions of dying young. Identity not disclosed; described as having met Charlie through a gifted school in Chicago.
 
@@ -289,11 +289,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1593.1, C-2023, N-10460*
+*Related: A-1593.1, C-2023, N-10389*
 
 ---
 
-**N-75** Megyn Kelly
+**N-46** Megyn Kelly
 
 Subject of host's claim that Ben Shapiro demanded her allegiance against Candace and Tucker Carlson, and has since been attacked by "his stooges."
 
@@ -302,11 +302,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-10457*
+*Related: N-10386*
 
 ---
 
-**N-98** Mark Herman (director, Candace show)
+**N-67** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host directs him to take the Daily Wire AI audition video full screen ("Mark, we can actually take this full screen"). Not the "Mark Carlson" named earlier in the episode. No claim anchor; registered for cross-episode continuity.
 
@@ -319,7 +319,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10456** Daily Wire Show Targeting Candace Owens / Tucker Carlson
+**N-10385** Daily Wire Show Targeting Candace Owens / Tucker Carlson
 
 Investigation target: the proposed Daily Wire show whose audition involved an AI-generated video mocking Candace Owens, and whose casting process targeted young Christian women.
 
@@ -328,11 +328,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1587.1, A-1588.1, A-1589.1, C-2016, C-2017, C-2018, C-2024, N-640*
+*Related: A-1587.1, A-1588.1, A-1589.1, C-2016, C-2017, C-2018, C-2024, N-398*
 
 ---
 
-**N-10457** Ben Shapiro Hostile Takeover Pattern
+**N-10386** Ben Shapiro Hostile Takeover Pattern
 
 Investigation target: persistent claim across the series that Ben Shapiro has attempted hostile takeovers of multiple conservative organizations (Breitbart, David Horowitz's organization, Turning Point) and that his founding of the Daily Wire was preceded by a manufactured scandal.
 
@@ -341,11 +341,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1590.1, A-1591.1, C-2019, C-2020, C-2025, N-641, N-642, N-643, N-644, N-645, N-75, N-10462*
+*Related: A-1590.1, A-1591.1, C-2019, C-2020, C-2025, N-399, N-400, N-401, N-402, N-403, N-46, N-10391*
 
 ---
 
-**N-10458** Tyler Bowyer Investigation Question
+**N-10387** Tyler Bowyer Investigation Question
 
 Investigation target: host's persistent claim that Tyler Bowyer staffed nearly everyone around Charlie Kirk and requires further investigation. This episode cites Austin Smith's criminal sentencing and an unnamed source's claim that Bowyer offered jobs in exchange for favors.
 
@@ -354,11 +354,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1592.1, N-646, N-10461, N-37*
+*Related: A-1592.1, N-404, N-10390, N-11*
 
 ---
 
-**N-10459** Missing Money from Turning Point Action
+**N-10388** Missing Money from Turning Point Action
 
 Investigation target: host's claim that "a lot of money was missing from Turning Point Action," described as unconfirmed but with a "strong lead."
 
@@ -367,11 +367,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-10458*
+*Related: N-10387*
 
 ---
 
-**N-10460** Charlie Kirk Premonition Dreams
+**N-10389** Charlie Kirk Premonition Dreams
 
 Investigation target: persistent claim across the series that Charlie Kirk had extensive premonition dreams and text-message disclosures of dying young, and that an "oracle" figure confirmed these visions.
 
@@ -380,11 +380,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1593.1, C-2023, N-1, N-648*
+*Related: A-1593.1, C-2023, N-1, N-406*
 
 ---
 
-**N-10461** Austin Smith / Turning Point Action Fraud Connection
+**N-10390** Austin Smith / Turning Point Action Fraud Connection
 
 Investigation target: link between Austin Smith's signature fraud and his role at Turning Point Action, with host's broader implication that this reflects personnel and integrity issues inside Turning Point.
 
@@ -393,11 +393,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1592.1, C-2021, C-2022, N-646, N-10458*
+*Related: A-1592.1, C-2021, C-2022, N-404, N-10387*
 
 ---
 
-**N-10462** Ben Shapiro Daily Wire Founding Narrative
+**N-10391** Ben Shapiro Daily Wire Founding Narrative
 
 Investigation target: host's claim that the Daily Wire's launch in 2016 was preceded by a manufactured scandal involving Ben Shapiro, Jamie Weinstein, and Michelle Fields to undermine Breitbart News.
 
@@ -406,11 +406,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1590.1, N-642, N-643, N-644, N-645, N-10457*
+*Related: A-1590.1, N-400, N-401, N-402, N-403, N-10386*
 
 ---
 
-**N-37** Tyler Bowyer
+**N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -428,9 +428,9 @@ Claim Timestamp: 00:06:31
 Claim: A Daily Wire producer contacted Maggie Wagner approximately two days after Ben Shapiro's Amfest speech to audition her for a solo show presented as a comedy show to critique both sides of politics but centered on mocking Candace Owens and Tucker Carlson.
 
 Anchored Artifacts: A-1587.1
-Mentions: N-640, N-50, N-3, N-133
+Mentions: N-398, N-22, N-3, N-97
 
-Related Nodes: N-10456
+Related Nodes: N-10385
 
 Investigative Direction: Verify the timeline of the Amfest speech and confirm the producer's identity (protected in this episode); obtain any additional documentation Maggie may have referenced.
 
@@ -443,9 +443,9 @@ Claim Timestamp: 00:07:36
 Claim: The audition script and accompanying AI video sample sent to Maggie Wagner were entirely dedicated to making fun of Candace Owens, with the producer explicitly stating the show would mock Candace or Tucker when they "say something crazy."
 
 Anchored Artifacts: A-1587.1, A-1589.1
-Mentions: N-640, N-3
+Mentions: N-398, N-3
 
-Related Nodes: N-10456
+Related Nodes: N-10385
 
 Investigative Direction: Obtain and verify the full audition script and AI video; confirm the producer's statements directly via call recordings referenced by Maggie.
 
@@ -458,9 +458,9 @@ Claim Timestamp: 00:11:04
 Claim: Maggie Wagner declined the Daily Wire audition role, texting the producer that making fun of Candace did not feel true to her beliefs.
 
 Anchored Artifacts: A-1588.1
-Mentions: N-640
+Mentions: N-398
 
-Related Nodes: N-10456
+Related Nodes: N-10385
 
 Investigative Direction: Verify the text message thread against phone records and identify the producer's account.
 
@@ -473,9 +473,9 @@ Claim Timestamp: 00:24:45
 Claim: Ben Shapiro publicly resigned from Breitbart News on March 13, 2016 at 9:00 PM Pacific, citing the company's handling of Michelle Fields' assault allegations against Corey Lewandowski.
 
 Anchored Artifacts: A-1590.1
-Mentions: N-642, N-644, N-645, N-133
+Mentions: N-400, N-402, N-403, N-97
 
-Related Nodes: N-10457, N-10462
+Related Nodes: N-10386, N-10391
 
 Investigative Direction: Cross-reference the resignation statement against contemporaneous Breitbart News coverage and internal communications.
 
@@ -488,9 +488,9 @@ Claim Timestamp: 00:18:09
 Claim: Steve Bannon stated at Amfest that Ben Shapiro "tried to take over Breitbart," "tried to take over David Horowitz's [organization]," and predicted he "will make a move on Turning Point."
 
 Anchored Artifacts: A-1591.1
-Mentions: N-641, N-642, N-278, N-133
+Mentions: N-399, N-400, N-197, N-97
 
-Related Nodes: N-10457
+Related Nodes: N-10386
 
 Investigative Direction: Obtain the full Amfest Bannon speech and verify the complete context; cross-reference Bannon's prior public statements about Shapiro.
 
@@ -503,9 +503,9 @@ Claim Timestamp: 00:48:50
 Claim: Austin Smith, age 30, former Arizona state representative and Turning Point Action leader, was scheduled to be sentenced Tuesday for using nominating petitions that contained forged signatures, including forging a dead woman's signature, in a 2024 primary election bid.
 
 Anchored Artifacts: A-1592.1
-Mentions: N-646
+Mentions: N-404
 
-Related Nodes: N-10458, N-10461
+Related Nodes: N-10387, N-10390
 
 Investigative Direction: Obtain the court docket and judgment from the Arizona sentencing court; confirm Austin Smith's exact dates of employment at Turning Point Action.
 
@@ -518,9 +518,9 @@ Claim Timestamp: 00:49:14
 Claim: Austin Smith plead guilty in mid-November to charges of attempted fraudulent schemes and practices and illegal signing of election petitions.
 
 Anchored Artifacts: A-1592.1
-Mentions: N-646
+Mentions: N-404
 
-Related Nodes: N-10461
+Related Nodes: N-10390
 
 Investigative Direction: Obtain the plea agreement and charging documents from the Arizona court.
 
@@ -533,9 +533,9 @@ Claim Timestamp: 00:44:48
 Claim: Charlie Kirk sent Candace text messages describing an older Jewish man from Chicago (described as having been matched with Charlie through a gifted school) who confirmed Charlie's visions that he would die young and that his death would "save humanity."
 
 Anchored Artifacts: A-1593.1
-Mentions: N-1, N-648
+Mentions: N-1, N-406
 
-Related Nodes: N-10460
+Related Nodes: N-10389
 
 Investigative Direction: Obtain the original text message thread for verification; investigate the identity of the "oracle" figure and his connection to the gifted school.
 
@@ -548,9 +548,9 @@ Claim Timestamp: 00:06:31
 Claim: The Daily Wire producer who contacted Maggie Wagner was described by Maggie as being in "panic mode" about casting the show, having only come up with the show concept the day before contacting her.
 
 Anchored Artifacts: A-1587.1
-Mentions: N-640
+Mentions: N-398
 
-Related Nodes: N-10456
+Related Nodes: N-10385
 
 Investigative Direction: Verify the timeline of the show's conception against internal Daily Wire communications if obtainable.
 
@@ -563,9 +563,9 @@ Claim Timestamp: 00:25:28
 Claim: Per Shapiro's own resignation statement, he was hired by Andrew Breitbart as editor-at-large of Breitbart News approximately two weeks before Andrew Breitbart's death on March 1, 2012.
 
 Anchored Artifacts: A-1590.1
-Mentions: N-642, N-133
+Mentions: N-400, N-97
 
-Related Nodes: N-10457, N-10462
+Related Nodes: N-10386, N-10391
 
 Investigative Direction: Verify the exact date of Shapiro's hiring through Breitbart employment records or contemporaneous reporting.
 
@@ -632,8 +632,8 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (starting N-640)
-- [x] Non-person investigation targets use the 1000 series (N-10456+)
+- [x] People nodes use the global people ledger (starting N-398)
+- [x] Non-person investigation targets use the 1000 series (N-10385+)
 - [x] No speculative claims were inscribed as evidence-backed claims
 - [x] Names are preserved exactly or uncertainty is noted
 - [x] Formatting is consistent with protocol

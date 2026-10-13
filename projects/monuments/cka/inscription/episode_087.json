@@ -30,8 +30,8 @@
             "C-2626"
           ],
           "related_nodes": [
-            "N-10207",
-            "N-10648"
+            "N-10141",
+            "N-10574"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -58,7 +58,7 @@
             "C-2628"
           ],
           "related_nodes": [
-            "N-10653"
+            "N-10578"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -77,7 +77,7 @@
             "C-2628"
           ],
           "related_nodes": [
-            "N-10653"
+            "N-10578"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -105,7 +105,7 @@
             "C-2631"
           ],
           "related_nodes": [
-            "N-10652"
+            "N-10577"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -132,7 +132,7 @@
             "C-2632"
           ],
           "related_nodes": [
-            "N-10652"
+            "N-10577"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -151,7 +151,7 @@
             "C-2632"
           ],
           "related_nodes": [
-            "N-10652"
+            "N-10577"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -177,7 +177,7 @@
             "C-2633"
           ],
           "related_nodes": [
-            "N-10648"
+            "N-10574"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -204,7 +204,7 @@
             "C-2636"
           ],
           "related_nodes": [
-            "N-10642"
+            "N-10569"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -340,7 +340,7 @@
             "C-2626"
           ],
           "related_nodes": [
-            "N-10207",
+            "N-10141",
             "N-1"
           ],
           "tags": [],
@@ -359,7 +359,7 @@
             "C-2638"
           ],
           "related_nodes": [
-            "N-10649"
+            "N-10575"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -388,8 +388,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10219",
-      "ref": "N-10219",
+      "@id": "N-10153",
+      "ref": "N-10153",
       "name": "\"Robbie Hild\" Identity Verification",
       "type": "investigation_target",
       "description": "X-handle candidate allegedly from Washington; named by viewer's reverse-image search. Per host, no one has come forward to personally identify him, raising the possibility of a synthetic identity.",
@@ -404,8 +404,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10648",
-      "ref": "N-10648",
+      "@id": "N-10574",
+      "ref": "N-10574",
       "name": "Romney–Netanyahu–Utah Connection Network",
       "type": "investigation_target",
       "description": "Persistent investigative target across multiple episodes. Anchored by 1976 Boston Consulting Group friendship and BYU/Jerusalem pipeline claims.",
@@ -427,8 +427,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10649",
-      "ref": "N-10649",
+      "@id": "N-10575",
+      "ref": "N-10575",
       "name": "BYU Jerusalem CIA Recruitment Question",
       "type": "investigation_target",
       "description": "Host asserts (without on-screen artifact) that BYU Jerusalem Center is a CIA recruitment location for elite Mormon youth.",
@@ -446,8 +446,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10650",
-      "ref": "N-10650",
+      "@id": "N-10576",
+      "ref": "N-10576",
       "name": "Timpanogos Hospital Records / Chain of Custody",
       "type": "investigation_target",
       "description": "Persistent target: FBI seized hospital footage on 2025-09-10; Connor Henderson alleged to have worked as ER scribe at the same facility; Andrew Zenger appointed CEO days before the event.",
@@ -465,8 +465,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10652",
-      "ref": "N-10652",
+      "@id": "N-10577",
+      "ref": "N-10577",
       "name": "Built Inc. Federal Contracting Pattern",
       "type": "investigation_target",
       "description": "Defense contractor receiving anomalous $7.4M Air Force + ~$240K Navy contracts in June 2025 after years of small contracts; co-founded by Ahmed Qureshi and Nathan Henderson.",
@@ -487,8 +487,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10653",
-      "ref": "N-10653",
+      "@id": "N-10578",
+      "ref": "N-10578",
       "name": "Decoy Subject Investigation (Karashy/Qureshi)",
       "type": "investigation_target",
       "description": "Pattern of false/early \"got the guy\" announcements and pre-event detention of subjects around September 10. Includes George Zin and Zachariah Qureshi.",
@@ -507,8 +507,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10654",
-      "ref": "N-10654",
+      "@id": "N-10579",
+      "ref": "N-10579",
       "name": "Robbie Hild–Romney Family Tie Verification",
       "type": "investigation_target",
       "description": "Host cannot relocate source document connecting Hild family to Romney family; requests viewer email tips.",
@@ -526,8 +526,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10655",
-      "ref": "N-10655",
+      "@id": "N-10580",
+      "ref": "N-10580",
       "name": "Andrew Zenger CIA Contract Work Question",
       "type": "investigation_target",
       "description": "Open question whether Andrew Zenger has been/was recruited to or contracts with CIA, given Jerusalem-era roommate pattern.",
@@ -544,8 +544,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10656",
-      "ref": "N-10656",
+      "@id": "N-10581",
+      "ref": "N-10581",
       "name": "Tyler Robinson Defense – Chain of Custody / Documents",
       "type": "investigation_target",
       "description": "Persistent target across series; host urges Robinson defense to demand full document disclosure including 600,000 documents.",
@@ -595,8 +595,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-57",
-      "ref": "N-57",
+      "@id": "N-28",
+      "ref": "N-28",
       "name": "Mitt Romney",
       "type": "person",
       "description": "Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.",
@@ -610,8 +610,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10642",
-      "ref": "N-10642",
+      "@id": "N-10569",
+      "ref": "N-10569",
       "name": "Comparative Bullet Lead Analysis Revival",
       "type": "investigation_target",
       "description": "FBI technique used post-JFK 1963, abandoned 2005 after 2004 NAS finding. Host alleges FBI is reviving CBLA to connect Tyler Robinson's weapon to crime scene bullet.",
@@ -646,8 +646,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-65",
-      "ref": "N-65",
+      "@id": "N-36",
+      "ref": "N-36",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
@@ -662,8 +662,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
@@ -678,8 +678,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
@@ -694,8 +694,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-192",
-      "ref": "N-192",
+      "@id": "N-137",
+      "ref": "N-137",
       "name": "Andrew Zanger",
       "type": "person",
       "description": "Andrew Zanger (wave3 orphan mint).",
@@ -717,8 +717,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-665",
-      "ref": "N-665",
+      "@id": "N-420",
+      "ref": "N-420",
       "name": "Zachariah Karashy",
       "type": "person",
       "description": "First named by the host at 00:06:41 in episode 87. Aliases: Zachariah Karashi.",
@@ -736,8 +736,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-666",
-      "ref": "N-666",
+      "@id": "N-421",
+      "ref": "N-421",
       "name": "Ahmed Qureshi",
       "type": "person",
       "description": "First named by the host at 00:09:45 in episode 87. Aliases: Ahmed Karashi, Akhmed Karashi.",
@@ -760,8 +760,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-667",
-      "ref": "N-667",
+      "@id": "N-422",
+      "ref": "N-422",
       "name": "Nathan Henderson",
       "type": "person",
       "description": "First named by the host at 00:16:55 in episode 87.",
@@ -781,8 +781,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-669",
-      "ref": "N-669",
+      "@id": "N-424",
+      "ref": "N-424",
       "name": "Connor Henderson",
       "type": "person",
       "description": "First named by the host at 00:17:51 in episode 87.",
@@ -802,8 +802,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-668",
-      "ref": "N-668",
+      "@id": "N-423",
+      "ref": "N-423",
       "name": "Gina Romney Henderson",
       "type": "person",
       "description": "First named by the host at 00:16:55 in episode 87. Aliases: Gina Romney.",
@@ -823,8 +823,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-671",
-      "ref": "N-671",
+      "@id": "N-426",
+      "ref": "N-426",
       "name": "Caleb Cunningham",
       "type": "person",
       "description": "First named by the host at 00:25:43 in episode 87.",
@@ -846,8 +846,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-670",
-      "ref": "N-670",
+      "@id": "N-425",
+      "ref": "N-425",
       "name": "Jeffrey Knuckles",
       "type": "person",
       "description": "First named by the host at 00:25:43 in episode 87.",
@@ -869,8 +869,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-672",
-      "ref": "N-672",
+      "@id": "N-427",
+      "ref": "N-427",
       "name": "Michael Shawn Covey",
       "type": "person",
       "description": "First named by the host at 00:27:39 in episode 87.",
@@ -902,14 +902,14 @@
         "A-1917.1"
       ],
       "related_nodes": [
-        "N-10648"
+        "N-10574"
       ],
       "tags": [],
       "claim_timestamp": "00:03:21–00:04:22",
       "investigative_direction": "Obtain the NYT 2012 article in full and verify the 1976 Boston Consulting Group employment dates against public records.",
       "mentions_person_refs": [
-        "N-57",
-        "N-65"
+        "N-28",
+        "N-36"
       ]
     },
     {
@@ -922,16 +922,16 @@
         "A-1918.1"
       ],
       "related_nodes": [
-        "N-10653"
+        "N-10578"
       ],
       "tags": [],
       "claim_timestamp": "00:08:11",
       "investigative_direction": "Verify the tweet's exact timestamp and confirm the subject's identity against law enforcement records.",
       "mentions_person_refs": [
         "N-1",
-        "N-102",
-        "N-665",
-        "N-666"
+        "N-69",
+        "N-420",
+        "N-421"
       ]
     },
     {
@@ -944,15 +944,15 @@
         "A-1918.2"
       ],
       "related_nodes": [
-        "N-10653"
+        "N-10578"
       ],
       "tags": [],
       "claim_timestamp": "00:09:01",
       "investigative_direction": "Obtain law enforcement records documenting the detention, interrogation, and release; cross-reference with identity of \"Zachariah Karashy.\"",
       "mentions_person_refs": [
-        "N-102",
-        "N-665",
-        "N-666"
+        "N-69",
+        "N-420",
+        "N-421"
       ]
     },
     {
@@ -966,14 +966,14 @@
         "A-1918.2"
       ],
       "related_nodes": [
-        "N-10653"
+        "N-10578"
       ],
       "tags": [],
       "claim_timestamp": "00:06:41–00:09:45",
       "investigative_direction": "Confirm spelling of \"Karashy\" vs. \"Qureshi\" against official detention records; the name discrepancy requires resolution.",
       "mentions_person_refs": [
-        "N-665",
-        "N-666"
+        "N-420",
+        "N-421"
       ]
     },
     {
@@ -986,13 +986,13 @@
         "A-1919.1"
       ],
       "related_nodes": [
-        "N-10652"
+        "N-10577"
       ],
       "tags": [],
       "claim_timestamp": "00:10:27–00:12:44",
       "investigative_direction": "Verify current rank and command assignment via official military biography.",
       "mentions_person_refs": [
-        "N-666"
+        "N-421"
       ]
     },
     {
@@ -1006,16 +1006,16 @@
         "A-1920.1"
       ],
       "related_nodes": [
-        "N-10652"
+        "N-10577"
       ],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
       "investigative_direction": "Cross-check corporate registration records (Secretary of State filings in Texas) for Built Incorporated founders and incorporation date.",
       "mentions_person_refs": [
-        "N-666",
-        "N-667",
-        "N-669",
-        "N-668"
+        "N-421",
+        "N-422",
+        "N-424",
+        "N-423"
       ]
     },
     {
@@ -1029,16 +1029,16 @@
         "A-1920.2"
       ],
       "related_nodes": [
-        "N-10652"
+        "N-10577"
       ],
       "tags": [],
       "claim_timestamp": "00:15:43–00:16:05",
       "investigative_direction": "Retrieve the raw USA Spending entries for Built Inc. by UEI, confirm contract amounts and dates against Baron Coleman's timeline.",
       "mentions_person_refs": [
-        "N-666",
-        "N-667",
-        "N-669",
-        "N-668"
+        "N-421",
+        "N-422",
+        "N-424",
+        "N-423"
       ]
     },
     {
@@ -1051,16 +1051,16 @@
         "A-1921.1"
       ],
       "related_nodes": [
-        "N-10648"
+        "N-10574"
       ],
       "tags": [],
       "claim_timestamp": "00:17:51",
       "investigative_direction": "Confirm employment and BYU degree via LinkedIn and university alumni records; investigate \"Romney\" family-tie claim.",
       "mentions_person_refs": [
-        "N-666",
-        "N-667",
-        "N-669",
-        "N-668"
+        "N-421",
+        "N-422",
+        "N-424",
+        "N-423"
       ]
     },
     {
@@ -1071,17 +1071,17 @@
       "claim": "Connor Henderson worked as an emergency room scribe at Timpanogos Hospital from 2024 until approximately the time of Charlie Kirk's assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10650"
+        "N-10576"
       ],
       "tags": [],
       "claim_timestamp": "00:17:51–00:19:43",
       "investigative_direction": "Obtain Connor Henderson's actual LinkedIn profile; verify Timpanogos HR records of scribe employment.",
       "mentions_person_refs": [
         "N-1",
-        "N-666",
-        "N-667",
-        "N-669",
-        "N-668"
+        "N-421",
+        "N-422",
+        "N-424",
+        "N-423"
       ]
     },
     {
@@ -1094,7 +1094,7 @@
         "A-1922.1"
       ],
       "related_nodes": [
-        "N-10642"
+        "N-10569"
       ],
       "tags": [],
       "claim_timestamp": "00:32:26–00:33:30",
@@ -1111,13 +1111,13 @@
         "A-1922.1"
       ],
       "related_nodes": [
-        "N-10642"
+        "N-10569"
       ],
       "tags": [],
       "claim_timestamp": "00:32:26–00:34:18",
       "investigative_direction": "Obtain court filings and ATF lab reports in the Robinson case to confirm whether CBLA is being used or referenced.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1146,16 +1146,16 @@
       "claim": "The Qureshi and Henderson families lived in the same house in Keller, Texas; the host offers alternative explanations (vacation rental, sale) but asserts cohabitation is not in dispute.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10652"
+        "N-10577"
       ],
       "tags": [],
       "claim_timestamp": "00:16:55–00:17:51",
       "investigative_direction": "Pull property records for Keller, Texas to identify ownership/residency history of both families.",
       "mentions_person_refs": [
-        "N-666",
-        "N-667",
-        "N-669",
-        "N-668"
+        "N-421",
+        "N-422",
+        "N-424",
+        "N-423"
       ]
     },
     {
@@ -1166,16 +1166,16 @@
       "claim": "Andrew Zenger was appointed CEO of Timpanogos Hospital on August 19, 2025, weeks before the September 10 event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10650"
+        "N-10576"
       ],
       "tags": [],
       "claim_timestamp": "00:23:46",
       "investigative_direction": "Confirm via Timpanogos press releases, LinkedIn, or Utah business filings.",
       "mentions_person_refs": [
-        "N-192",
-        "N-671",
-        "N-670",
-        "N-672"
+        "N-137",
+        "N-426",
+        "N-425",
+        "N-427"
       ]
     },
     {
@@ -1190,10 +1190,10 @@
       "claim_timestamp": "00:23:46–00:24:39",
       "investigative_direction": "Verify via Medical City Healthcare press releases or LinkedIn employment history.",
       "mentions_person_refs": [
-        "N-192",
-        "N-671",
-        "N-670",
-        "N-672"
+        "N-137",
+        "N-426",
+        "N-425",
+        "N-427"
       ]
     },
     {
@@ -1204,16 +1204,16 @@
       "claim": "Andrew Zenger attended BYU Jerusalem, with the host noting he was there during the 2012 Romney presidential campaign season.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10649"
+        "N-10575"
       ],
       "tags": [],
       "claim_timestamp": "00:24:39",
       "investigative_direction": "Confirm via BYU Jerusalem Center enrollment records or alumni directory.",
       "mentions_person_refs": [
-        "N-192",
-        "N-671",
-        "N-670",
-        "N-672"
+        "N-137",
+        "N-426",
+        "N-425",
+        "N-427"
       ]
     },
     {
@@ -1224,16 +1224,16 @@
       "claim": "Per a single unnamed source, the BYU Jerusalem Center is used by the CIA to recruit elite Mormon youth, with the program director being Israeli.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10649"
+        "N-10575"
       ],
       "tags": [],
       "claim_timestamp": "00:24:39–00:25:43",
       "investigative_direction": "Obtain corroborating documentation; on-screen artifact required to elevate from claim to inscribed record.",
       "mentions_person_refs": [
-        "N-192",
-        "N-671",
-        "N-670",
-        "N-672"
+        "N-137",
+        "N-426",
+        "N-425",
+        "N-427"
       ]
     },
     {
@@ -1244,8 +1244,8 @@
       "claim": "The CIA uses a company called Metro One Talent to interview and onboard BYU Jerusalem recruits.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10649",
-        "N-10655"
+        "N-10575",
+        "N-10580"
       ],
       "tags": [],
       "claim_timestamp": "00:26:30",
@@ -1260,16 +1260,16 @@
       "claim": "Michael Shawn Covey, a roommate of Andrew Zenger from the Jerusalem period, contracts with the CIA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10655"
+        "N-10580"
       ],
       "tags": [],
       "claim_timestamp": "00:27:39",
       "investigative_direction": "Verify any government contract records for \"Michael Shawn Covey.\"",
       "mentions_person_refs": [
-        "N-192",
-        "N-671",
-        "N-670",
-        "N-672"
+        "N-137",
+        "N-426",
+        "N-425",
+        "N-427"
       ]
     },
     {
@@ -1282,7 +1282,7 @@
         "A-1924.2"
       ],
       "related_nodes": [
-        "N-10219"
+        "N-10153"
       ],
       "tags": [],
       "claim_timestamp": "00:29:30–00:30:18",
@@ -1334,8 +1334,8 @@
         "A-1924.2"
       ],
       "related_nodes": [
-        "N-10219",
-        "N-10654"
+        "N-10153",
+        "N-10579"
       ],
       "tags": [],
       "claim_timestamp": "00:19:43–00:30:18",
@@ -1354,10 +1354,10 @@
       "claim_timestamp": "00:25:43–00:26:30",
       "investigative_direction": "Cross-reference Romney 2012 campaign staff lists and BYU Jerusalem Center enrollment.",
       "mentions_person_refs": [
-        "N-192",
-        "N-671",
-        "N-670",
-        "N-672"
+        "N-137",
+        "N-426",
+        "N-425",
+        "N-427"
       ]
     },
     {
@@ -1372,10 +1372,10 @@
       "claim_timestamp": "00:25:43–00:26:30",
       "investigative_direction": "Verify via Romney 2012 campaign staff biographies.",
       "mentions_person_refs": [
-        "N-192",
-        "N-671",
-        "N-670",
-        "N-672"
+        "N-137",
+        "N-426",
+        "N-425",
+        "N-427"
       ]
     },
     {
@@ -1386,7 +1386,7 @@
       "claim": "BYU is said to recruit CIA talent from its Hawaii and Jerusalem campuses specifically.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10649"
+        "N-10575"
       ],
       "tags": [],
       "claim_timestamp": "00:47:08–00:48:01",
@@ -1403,7 +1403,7 @@
         "A-1926.3"
       ],
       "related_nodes": [
-        "N-10649"
+        "N-10575"
       ],
       "tags": [],
       "claim_timestamp": "00:48:01",
@@ -1420,13 +1420,13 @@
         "A-1926.1"
       ],
       "related_nodes": [
-        "N-10656"
+        "N-10581"
       ],
       "tags": [],
       "claim_timestamp": "00:43:39–00:44:25",
       "investigative_direction": "Identify the document set being referenced and any pending defense motions for discovery.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     }
   ],

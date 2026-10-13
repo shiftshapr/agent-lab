@@ -33,7 +33,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-11190"
+            "N-10791"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -51,7 +51,7 @@
             "C-3260"
           ],
           "related_nodes": [
-            "N-11192"
+            "N-10793"
           ],
           "tags": [],
           "video_timestamp": "00:10:05",
@@ -67,7 +67,7 @@
             "C-3261"
           ],
           "related_nodes": [
-            "N-11190"
+            "N-10791"
           ],
           "tags": [],
           "video_timestamp": "00:11:53",
@@ -83,7 +83,7 @@
             "C-3262"
           ],
           "related_nodes": [
-            "N-11190"
+            "N-10791"
           ],
           "tags": [],
           "video_timestamp": "00:13:22",
@@ -205,7 +205,7 @@
             "C-3267"
           ],
           "related_nodes": [
-            "N-11191"
+            "N-10792"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -231,7 +231,7 @@
             "C-3267"
           ],
           "related_nodes": [
-            "N-11191"
+            "N-10792"
           ],
           "tags": [],
           "video_timestamp": "00:27:34",
@@ -255,7 +255,7 @@
             "C-3269"
           ],
           "related_nodes": [
-            "N-10207"
+            "N-10141"
           ],
           "tags": [],
           "video_timestamp": "00:32:20",
@@ -271,7 +271,7 @@
             "C-3269"
           ],
           "related_nodes": [
-            "N-10207"
+            "N-10141"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -289,7 +289,7 @@
             "C-3271"
           ],
           "related_nodes": [
-            "N-10207"
+            "N-10141"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -314,8 +314,8 @@
             "C-3272"
           ],
           "related_nodes": [
-            "N-929",
-            "N-46"
+            "N-573",
+            "N-18"
           ],
           "tags": [],
           "video_timestamp": "00:39:29",
@@ -393,7 +393,7 @@
             "C-3275"
           ],
           "related_nodes": [
-            "N-11192"
+            "N-10793"
           ],
           "tags": [],
           "video_timestamp": "00:52:51",
@@ -407,7 +407,7 @@
           "description": "Lady Di comment: requests Rachel Wilson not attend the upcoming debate",
           "related_claims": [],
           "related_nodes": [
-            "N-929"
+            "N-573"
           ],
           "tags": [],
           "video_timestamp": "00:54:01",
@@ -491,8 +491,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11190",
-      "ref": "N-11190",
+      "@id": "N-10791",
+      "ref": "N-10791",
       "name": "Parking-Garage Subject Identity Discrepancy",
       "type": "investigation_target",
       "description": "Persistent investigative target: whether the subject of the parking-garage surveillance stills is in fact Tyler Robinson, given apparent physical-trait discrepancies (left-handedness, high socks, hat-above-head positioning, broad build).",
@@ -515,8 +515,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11191",
-      "ref": "N-11191",
+      "@id": "N-10792",
+      "ref": "N-10792",
       "name": "George Zinn Device Identification",
       "type": "investigation_target",
       "description": "Open investigative target: identify the walkie-talkie / iPhone-like device visible during George Zinn's arrest footage.",
@@ -535,8 +535,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11192",
-      "ref": "N-11192",
+      "@id": "N-10793",
+      "ref": "N-10793",
       "name": "Tyler Robinson Handedness Verification",
       "type": "investigation_target",
       "description": "Open investigative target: verify Tyler Robinson's handedness against the left-hand-dominant behavior observed in parking-garage footage and against Lance Twigs's apparent handedness.",
@@ -558,8 +558,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-46",
-      "ref": "N-46",
+      "@id": "N-18",
+      "ref": "N-18",
       "name": "Andrew Wilson",
       "type": "person",
       "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
@@ -573,8 +573,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
@@ -589,8 +589,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-71",
-      "ref": "N-71",
+      "@id": "N-42",
+      "ref": "N-42",
       "name": "George Zinn",
       "type": "person",
       "description": "Arrested for claiming to be the shooter on incident day; per host, told Utah Valley nurses he was paid.",
@@ -605,8 +605,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-84",
-      "ref": "N-84",
+      "@id": "N-54",
+      "ref": "N-54",
       "name": "Lance Twiggs",
       "type": "person",
       "description": "Robinson's partner; recipient of FBI-released text chain",
@@ -621,8 +621,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -637,8 +637,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-929",
-      "ref": "N-929",
+      "@id": "N-573",
+      "ref": "N-573",
       "name": "Rachel Wilson",
       "type": "person",
       "description": "First named by the host at 00:39:29 in episode 140.",
@@ -667,8 +667,8 @@
         "A-2267.2"
       ],
       "related_nodes": [
-        "N-11190",
-        "N-11192"
+        "N-10791",
+        "N-10793"
       ],
       "tags": [],
       "claim_timestamp": "00:10:05",
@@ -684,7 +684,7 @@
         "A-2267.3"
       ],
       "related_nodes": [
-        "N-11190"
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "00:11:53",
@@ -700,7 +700,7 @@
         "A-2267.4"
       ],
       "related_nodes": [
-        "N-11190"
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "00:13:22",
@@ -721,7 +721,7 @@
       "claim_timestamp": "00:06:12",
       "investigative_direction": "Compile the visual catalog used by major outlets on 2025-09-12 through 2025-09-15 and assess the proportion of maroon-shirt imagery vs. available alternatives.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -738,7 +738,7 @@
       "claim_timestamp": "00:07:34",
       "investigative_direction": "Obtain or verify the screen-recorded archive; cross-reference the original Facebook page if accessible.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -751,13 +751,13 @@
         "A-2269.1"
       ],
       "related_nodes": [
-        "N-11192"
+        "N-10793"
       ],
       "tags": [],
       "claim_timestamp": "00:11:14",
       "investigative_direction": "Obtain court records or biographical sources documenting Lance Twigs's stated handedness.",
       "mentions_person_refs": [
-        "N-84"
+        "N-54"
       ]
     },
     {
@@ -774,7 +774,7 @@
       "claim_timestamp": "00:18:42",
       "investigative_direction": "Obtain the full Agent Hoole testimony transcript and Officer Goforth's body-cam footage; verify the encounter's actual content (stop vs. drive-by).",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -788,13 +788,13 @@
         "A-2272.1"
       ],
       "related_nodes": [
-        "N-11191"
+        "N-10792"
       ],
       "tags": [],
       "claim_timestamp": "00:27:34",
       "investigative_direction": "Submit the close-up image to federal-law-enforcement-adjacent technical specialists for device identification; cross-check inventory and purpose.",
       "mentions_person_refs": [
-        "N-71"
+        "N-42"
       ]
     },
     {
@@ -878,8 +878,8 @@
       "claim_timestamp": "00:39:29",
       "investigative_direction": "Obtain the full debate recording and date; verify whether this was a sanctioned call-in.",
       "mentions_person_refs": [
-        "N-46",
-        "N-929"
+        "N-18",
+        "N-573"
       ]
     },
     {
@@ -897,7 +897,7 @@
       "investigative_direction": "Review body-cam footage, phone-records evidence, and contemporaneous witness statements regarding McQuaid's actions immediately post-shooting.",
       "mentions_person_refs": [
         "N-1",
-        "N-272"
+        "N-194"
       ]
     },
     {
@@ -925,13 +925,13 @@
       "claim": "The host states that court documents show Tyler Robinson taking notes with his right hand, establishing right-handedness; this is presented in response to viewer Impala's reference to a phone outline in Tyler's right pocket in a dorm-room photo.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11192"
+        "N-10793"
       ],
       "tags": [],
       "claim_timestamp": "00:52:51",
       "investigative_direction": "Obtain the specific court exhibit referenced and confirm the right-hand note-taking image.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -944,7 +944,7 @@
         "A-2276.1"
       ],
       "related_nodes": [
-        "N-11190"
+        "N-10791"
       ],
       "tags": [],
       "claim_timestamp": "00:04:18",

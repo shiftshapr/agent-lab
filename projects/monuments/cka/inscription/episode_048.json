@@ -30,9 +30,9 @@
             "C-1960"
           ],
           "related_nodes": [
-            "N-590",
-            "N-281",
-            "N-10429"
+            "N-367",
+            "N-199",
+            "N-10358"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -57,9 +57,9 @@
             "C-1962"
           ],
           "related_nodes": [
-            "N-16",
+            "N-7",
             "N-1",
-            "N-10433"
+            "N-10362"
           ],
           "tags": [],
           "video_timestamp": "00:26:46",
@@ -85,10 +85,10 @@
             "C-1966"
           ],
           "related_nodes": [
-            "N-552",
-            "N-10434",
-            "N-10435",
-            "N-10436"
+            "N-337",
+            "N-10363",
+            "N-10364",
+            "N-10365"
           ],
           "tags": [],
           "video_timestamp": "00:34:52",
@@ -111,9 +111,9 @@
             "C-1967"
           ],
           "related_nodes": [
-            "N-424",
-            "N-10436",
-            "N-10437"
+            "N-272",
+            "N-10365",
+            "N-10366"
           ],
           "tags": [],
           "video_timestamp": "00:41:47",
@@ -137,7 +137,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10433"
+            "N-10362"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -151,8 +151,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-590",
-      "ref": "N-590",
+      "@id": "N-367",
+      "ref": "N-367",
       "name": "Andrew Colberg",
       "type": "person",
       "description": "X user whose attributed \"man of steel\" quotation post is contested by host sources as not being a direct surgeon statement.",
@@ -168,13 +168,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10429"
+        "N-10358"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-281",
-      "ref": "N-281",
+      "@id": "N-199",
+      "ref": "N-199",
       "name": "Lee Trotter",
       "type": "person",
       "description": "Surgeon named on air as having performed the procedure on Charlie Kirk at Timpanogos Regional Hospital. Alleged by host sources to have communicated a frangible-bullet theory rather than the \"man of steel\" quotation.",
@@ -190,13 +190,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10429"
+        "N-10358"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Passenger in the vehicle transporting Charlie Kirk; source of on-air statements regarding FBI clearance of the vehicle and discovery of Charlie's necklace.",
@@ -213,13 +213,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10433"
+        "N-10362"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-552",
-      "ref": "N-552",
+      "@id": "N-337",
+      "ref": "N-337",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Video creator whose segment on SAM call signs and August 25–26 flight logs is played on air.",
@@ -238,14 +238,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10434",
-        "N-10435"
+        "N-10363",
+        "N-10364"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Security contractor named as having begun UVU event intel gathering on August 24 per his own statement; named by an unnamed eyewitness (\"Elvis guy\") as allegedly observed at a September 9 meeting.",
@@ -261,13 +261,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10436"
+        "N-10365"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-596",
-      "ref": "N-596",
+      "@id": "N-368",
+      "ref": "N-368",
       "name": "Harry",
       "type": "person",
       "description": "Producer/investigator on host's team referenced by name regarding Fort Huachuca inquiry and the upcoming eyewitness testimony segment.",
@@ -279,13 +279,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10436"
+        "N-10365"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10429",
-      "ref": "N-10429",
+      "@id": "N-10358",
+      "ref": "N-10358",
       "name": "Surgeon Quotation Authenticity Question",
       "type": "investigation_target",
       "description": "Discrepancy between the quotation attributed to \"the surgeon\" on Colberg's X post (A-1552.1) and host sources' claim that no such statement was made by Dr. Lee Trotter.",
@@ -301,14 +301,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-590",
-        "N-281"
+        "N-367",
+        "N-199"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10430",
-      "ref": "N-10430",
+      "@id": "N-10359",
+      "ref": "N-10359",
       "name": "Hospital Federal Access Question",
       "type": "investigation_target",
       "description": "Allegation that federal officers at Timpanogos Regional Hospital blocked Dr. Lee Trotter from returning to the operating room, and that a phone call to a political figure resulted in stand-down orders.",
@@ -320,13 +320,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-281"
+        "N-199"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10431",
-      "ref": "N-10431",
+      "@id": "N-10360",
+      "ref": "N-10360",
       "name": "Gun Discovery Procedure Question",
       "type": "investigation_target",
       "description": "Allegation that bomb dogs from the Pleasant Grove sheriff's department cleared the area without finding the gun, and that federal officers then directed three officers with combined experience of less than 1.5 years to re-search the area, after which the gun was found. Also: Freya's \"condensed scent trace\" methodology.",
@@ -341,8 +341,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10432",
-      "ref": "N-10432",
+      "@id": "N-10361",
+      "ref": "N-10361",
       "name": "White Toyota RAV4 FBI Badge Question",
       "type": "investigation_target",
       "description": "Allegation that shortly after the shot, an officer pulled over a white Toyota RAV4 and the driver flashed an FBI badge, ending the encounter.",
@@ -356,8 +356,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10433",
-      "ref": "N-10433",
+      "@id": "N-10362",
+      "ref": "N-10362",
       "name": "Vehicle Disposition Question",
       "type": "investigation_target",
       "description": "Allegation that the transport vehicle was towed, then quickly moved for cleaning and auction without insurance inspection, and that the rental company owner instructed it never be returned to the facility.",
@@ -372,13 +372,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-16"
+        "N-7"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10434",
-      "ref": "N-10434",
+      "@id": "N-10363",
+      "ref": "N-10363",
       "name": "SAM000 Flight Manifest Question",
       "type": "investigation_target",
       "description": "Discrepancy in Coleman's segment between stated route (\"from Joint Base Andrews to Colorado Springs\") and displayed log (landing Las Vegas 4:48 p.m. on August 25). Manifest of the SAM000 passenger(s) remains unknown.",
@@ -394,13 +394,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-552"
+        "N-337"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10435",
-      "ref": "N-10435",
+      "@id": "N-10364",
+      "ref": "N-10364",
       "name": "SAM658/RCH658 Call Sign Switch Question",
       "type": "investigation_target",
       "description": "Coleman display shows RCH658 designation on Las Vegas departure and SAM658 designation on return leg to Andrews, which Coleman's framework ties to VIP boarding/deboarding at the Colorado Springs stop.",
@@ -417,13 +417,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-552"
+        "N-337"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10436",
-      "ref": "N-10436",
+      "@id": "N-10365",
+      "ref": "N-10365",
       "name": "Sept 9 Fort Huachuca Meeting Question",
       "type": "investigation_target",
       "description": "Alleged meeting reportedly observed by unnamed \"Elvis guy\" eyewitness; tied by host to alleged Sept 9 SAM jet presence and to Brian Harpole's whereabouts.",
@@ -438,15 +438,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-552",
-        "N-424",
-        "N-596"
+        "N-337",
+        "N-272",
+        "N-368"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10437",
-      "ref": "N-10437",
+      "@id": "N-10366",
+      "ref": "N-10366",
       "name": "Operation Valhalla Strike",
       "type": "investigation_target",
       "description": "Host statement that a military exercise named Operation Valhalla Strike ran August 24–27, 2025. Coincides on August 24 with Brian Harpole's stated start of UVU event intelligence gathering (A-1555.1).",
@@ -462,7 +462,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-424"
+        "N-272"
       ]
     },
     {
@@ -483,8 +483,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-98",
-      "ref": "N-98",
+      "@id": "N-67",
+      "ref": "N-67",
       "name": "Mark Herman (director, Candace show)",
       "type": "person",
       "description": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host defers to him (\"I'm letting you Mark make a decision here\") on whether to show one of six photos of the transport vehicle interior on air. No claim anchor; registered for cross-episode continuity.",
@@ -498,8 +498,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Person the host names while answering a super chat, as having described a phone-call moment with Mikey that the host identifies as inconsistent with a three-way call. No artifact shown. Flagged for human verification.",
@@ -564,8 +564,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-629",
-      "ref": "N-629",
+      "@id": "N-388",
+      "ref": "N-388",
       "name": "Dan Bongino",
       "type": "person",
       "description": "Reused; first introduced in episode 15.",
@@ -580,8 +580,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10113",
-      "ref": "N-10113",
+      "@id": "N-10048",
+      "ref": "N-10048",
       "name": "Charlie Kirk Assassination Investigation",
       "type": "topic",
       "description": "Umbrella investigation thread encompassing all episode-13 evidence streams.",
@@ -607,14 +607,14 @@
         "A-1552.1"
       ],
       "related_nodes": [
-        "N-10429"
+        "N-10358"
       ],
       "tags": [],
       "claim_timestamp": "00:03:52",
       "investigative_direction": "Obtain original Colberg post via direct retrieval or archive, and compare against any direct surgeon statements or hospital records.",
       "mentions_person_refs": [
-        "N-281",
-        "N-590",
+        "N-199",
+        "N-367",
         "N-1"
       ]
     },
@@ -628,13 +628,13 @@
         "A-1553.1"
       ],
       "related_nodes": [
-        "N-10433"
+        "N-10362"
       ],
       "tags": [],
       "claim_timestamp": "00:27:47",
       "investigative_direction": "Cross-reference with FBI case file records, impound logs, and any Megyn Kelly show segment timestamps.",
       "mentions_person_refs": [
-        "N-16"
+        "N-7"
       ]
     },
     {
@@ -647,13 +647,13 @@
         "A-1553.1"
       ],
       "related_nodes": [
-        "N-10433"
+        "N-10362"
       ],
       "tags": [],
       "claim_timestamp": "00:27:47",
       "investigative_direction": "Verify against any chain-of-custody documentation for Charlie's personal effects.",
       "mentions_person_refs": [
-        "N-16"
+        "N-7"
       ]
     },
     {
@@ -666,13 +666,13 @@
         "A-1554.1"
       ],
       "related_nodes": [
-        "N-10434"
+        "N-10363"
       ],
       "tags": [],
       "claim_timestamp": "00:36:19",
       "investigative_direction": "Cross-check against USAF flight plan records and ATC telephonic call sign logs.",
       "mentions_person_refs": [
-        "N-552"
+        "N-337"
       ]
     },
     {
@@ -685,14 +685,14 @@
         "A-1554.1"
       ],
       "related_nodes": [
-        "N-10434",
-        "N-10436"
+        "N-10363",
+        "N-10365"
       ],
       "tags": [],
       "claim_timestamp": "00:38:14",
       "investigative_direction": "Obtain raw flight plan and ATC records to verify origin, call sign, and destination.",
       "mentions_person_refs": [
-        "N-552"
+        "N-337"
       ]
     },
     {
@@ -705,14 +705,14 @@
         "A-1554.1"
       ],
       "related_nodes": [
-        "N-10434",
-        "N-10435"
+        "N-10363",
+        "N-10364"
       ],
       "tags": [],
       "claim_timestamp": "00:39:24",
       "investigative_direction": "Obtain radar track records and ADS-B exchange logs for August 26 to verify route and transponder gap.",
       "mentions_person_refs": [
-        "N-552"
+        "N-337"
       ]
     },
     {
@@ -725,13 +725,13 @@
         "A-1554.1"
       ],
       "related_nodes": [
-        "N-10435"
+        "N-10364"
       ],
       "tags": [],
       "claim_timestamp": "00:39:24",
       "investigative_direction": "Cross-reference the call sign change with any known VIP boarding or deboarding records at Colorado Springs on August 26.",
       "mentions_person_refs": [
-        "N-552"
+        "N-337"
       ]
     },
     {
@@ -744,14 +744,14 @@
         "A-1555.1"
       ],
       "related_nodes": [
-        "N-10436",
-        "N-10437"
+        "N-10365",
+        "N-10366"
       ],
       "tags": [],
       "claim_timestamp": "00:41:47",
       "investigative_direction": "Corroborate against any contemporaneous operational records and against the Operation Valhalla Strike timeline.",
       "mentions_person_refs": [
-        "N-424"
+        "N-272"
       ]
     },
     {
@@ -764,7 +764,7 @@
         "A-1556.1"
       ],
       "related_nodes": [
-        "N-10433"
+        "N-10362"
       ],
       "tags": [],
       "claim_timestamp": "00:30:33",
@@ -799,7 +799,7 @@
       "claim": "The host says she has never seen a more extreme cover-up than the Charlie Kirk cover-up the feds are engaged in, and links it to reports, which she says Trump confirmed, that Dan Bongino will step down from the FBI; she suggests Bongino may have realised how far the corruption goes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10113"
+        "N-10048"
       ],
       "tags": [],
       "claim_timestamp": "00:24:40",
@@ -808,7 +808,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-629",
+        "N-388",
         "N-5"
       ]
     }

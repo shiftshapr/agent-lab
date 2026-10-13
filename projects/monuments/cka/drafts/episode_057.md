@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 9d571c5e39368da2d0dcbf89e5a2db6cd0af4a443b631215c547c80343eab731
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-720, N-721, N-724, N-726, N-727, N-10484, N-10485, N-10486, N-10487
+  - New Nodes Introduced: N-465, N-466, N-467, N-468, N-469, N-10413, N-10414, N-10415, N-10416
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -63,7 +63,7 @@ Video Timestamp: 00:08:22–00:09:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2097, C-2098, C-2099, N-10484, N-720*
+*Related: C-2097, C-2098, C-2099, N-10413, N-465*
 
 **A-1628.2** Be Inspired clip – Project Looking Glass segment with Bill Wood testimony
 
@@ -73,7 +73,7 @@ Video Timestamp: 00:13:05–00:15:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2097, C-2098, N-10484, N-720*
+*Related: C-2097, C-2098, N-10413, N-465*
 
 **A-1628.3** Be Inspired clip – The Matrix / 2012 convergence / CIA document segment
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:17:07–00:18:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2098, C-2099, N-10484*
+*Related: C-2098, C-2099, N-10413*
 
 **A-1629** CERN Ritual Article Bundle
 
@@ -95,7 +95,7 @@ Video Timestamp: 00:36:29–00:37:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2100, C-2101, N-10485*
+*Related: C-2100, C-2101, N-10414*
 
 **A-1630** CERN Ritual Video Bundle
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:38:17–00:39:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2100, C-2101, N-10485*
+*Related: C-2100, C-2101, N-10414*
 
 **A-1631** Daily Wire Egyptian Airways Parody Video Bundle
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:40:52–00:42:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (video explicitly displayed)
 
-*Related: C-2102, N-10487, N-3*
+*Related: C-2102, N-10416, N-3*
 
 **A-1632** Pompeo Gaza History Book Clip Bundle
 
@@ -131,7 +131,7 @@ Video Timestamp: 00:43:34–00:44:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip explicitly played)
 
-*Related: C-2103, N-721*
+*Related: C-2103, N-466*
 
 **A-1633** Charlie Kirk Text Message Reference Bundle
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:04:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (quote reproduced, not displayed on screen per transcript)
 
-*Related: N-10486*
+*Related: N-10415*
 
 **A-1634** Comment Section Read-Aloud Bundle
 
@@ -166,7 +166,7 @@ Video Timestamp: 00:47:28–00:48:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (personal testimony)
 
-*Related: C-2106, N-726*
+*Related: C-2106, N-468*
 
 **A-1634.2** Read-aloud comment from "Marzy" (today's episode): claim that ICE agents receive training and recruitment from Israel/IDF
 
@@ -176,7 +176,7 @@ Video Timestamp: 00:51:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (unattributed)
 
-*Related: C-2107, N-727*
+*Related: C-2107, N-469*
 
 **A-1634.3** Read-aloud comment from "Anderson" (today's episode): personal testimony about sleep paralysis ("hatman shadow man"), being in a "gate" program as a child, and being given the "pink drink" (fluoride)
 
@@ -193,7 +193,7 @@ Confidence Level: Low (personal testimony)
 ## 4. Node Register
 
 
-**N-720** Bill Wood
+**N-465** Bill Wood
 
 Former Navy Seal with high-level clearance; Project Camelot interviewee whose testimony about Project Looking Glass is the central source in the Be Inspired clip.
 
@@ -202,9 +202,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1628.2, C-2097, N-10484*
+*Related: A-1628.2, C-2097, N-10413*
 
-**N-721** Mike Pompeo
+**N-466** Mike Pompeo
 
 Former US Secretary of State / CIA director; presents in A-1632.1 advocating framing of Gaza history in textbooks to favor Israeli narrative.
 
@@ -215,7 +215,7 @@ Investigative Pressure: Medium
 
 *Related: A-1632.1, C-2103*
 
-**N-724** Bill Montgomery
+**N-467** Bill Montgomery
 
 Referenced by host as deceased military figure; alleged to have co-founded Turning Point USA with Charlie Kirk and to have orchestrated Charlie's early "Schaefer security."
 
@@ -228,7 +228,7 @@ Investigative Pressure: Low (requires verification of identity and TPUSA co-foun
 
 *Optional Flag: Name uncertainty – host identifies him as a Turning Point USA co-founder; this role attribution requires verification against public TPUSA founding records.*
 
-**N-726** Carly
+**N-468** Carly
 
 Commenter (previous episode); daughter of an MP who allegedly investigated pentagrams on a US military base in 1982.
 
@@ -239,7 +239,7 @@ Investigative Pressure: Low
 
 *Related: A-1634.1, C-2106*
 
-**N-727** Marzy
+**N-469** Marzy
 
 Commenter (today's episode); raises ICE/IDF training claim that the host then discusses.
 
@@ -250,7 +250,7 @@ Investigative Pressure: Low
 
 *Related: A-1634.2, C-2107*
 
-**N-98** Mark Herman (director, Candace show)
+**N-67** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host brings him on to explain CERN; he describes its 1954 founding, the Higgs boson search, the Large Hadron Collider, and the 2012 "God particle" observation, prefacing that he is not a particle physicist. No claim anchor; registered for cross-episode continuity.
 
@@ -261,7 +261,7 @@ Investigative Pressure: Low
 
 *Related: None*
 
-**N-10484** Project Looking Glass Allegation
+**N-10413** Project Looking Glass Allegation
 
 Persistent investigative target: claim that a US military/CIA device capable of viewing future timelines was shut down after 2012 convergence; supported by whistleblower Bill Wood testimony and a referenced CIA document.
 
@@ -270,9 +270,9 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1628.1, A-1628.2, A-1628.3, C-2097, C-2098, C-2099, N-720*
+*Related: A-1628.1, A-1628.2, A-1628.3, C-2097, C-2098, C-2099, N-465*
 
-**N-10485** CERN Satantic Ritual Claim
+**N-10414** CERN Satantic Ritual Claim
 
 Investigative target: episode's presentation of a "satanic human sacrifice" at CERN grounds, CERN's "prank" framing, and host's challenge to that framing.
 
@@ -283,7 +283,7 @@ Investigative Pressure: Medium
 
 *Related: A-1629.1, A-1630.1, C-2100, C-2101*
 
-**N-10486** Charlie Kirk Premonition Pattern
+**N-10415** Charlie Kirk Premonition Pattern
 
 Persistent investigative target across the series: Charlie Kirk's alleged foreknowledge (via text messages to Candace) that he would die young and that his death would relate to Turning Point USA.
 
@@ -294,7 +294,7 @@ Investigative Pressure: Medium
 
 *Related: A-1633.1, A-1633.2, C-2104, C-2105, N-1*
 
-**N-10487** Daily Wire Stalking Pattern
+**N-10416** Daily Wire Stalking Pattern
 
 Investigative target: ongoing alleged "gangstalking" pattern by Daily Wire against Candace Owens, with the Egyptian Airways parody video (A-1631.1) cited as the latest escalation.
 
@@ -316,9 +316,9 @@ Claim Timestamp: 00:13:05
 Claim: The Be Inspired clip (A-1628.2) presents whistleblower Bill Wood's account that the US military operated a device called Project Looking Glass that could view potential future timelines and was shut down because all timelines converged on December 21, 2012.
 
 Anchored Artifacts: A-1628.2
-Mentions: N-720
+Mentions: N-465
 
-Related Nodes: N-10484
+Related Nodes: N-10413
 
 Investigative Direction: Locate the original Project Camelot interview with Bill Wood; check declassified military/CIA records and FOIA releases for any program matching the description.
 
@@ -332,7 +332,7 @@ Claim: The Be Inspired clip (A-1628.3) references a CIA-released document that e
 
 Anchored Artifacts: A-1628.3
 
-Related Nodes: N-10484
+Related Nodes: N-10413
 
 Investigative Direction: Locate the referenced CIA document in the CIA FOIA reading room or CREST archive; identify its actual title, declassification date, and contents.
 
@@ -346,7 +346,7 @@ Claim: The host endorses the Be Inspired clip's framing that The Matrix (1999 re
 
 Anchored Artifacts: A-1628.3
 
-Related Nodes: N-10484
+Related Nodes: N-10413
 
 Investigative Direction: Compare The Matrix's documented production context (Wachowskis, 1999) with declassified Project Looking Glass timeline; separately assess the host's adjacent claim that "the script for The Matrix was stolen allegedly."
 
@@ -360,7 +360,7 @@ Claim: An article read verbatim in the episode describes a "satanic human sacrif
 
 Anchored Artifacts: A-1629.1, A-1630.1
 
-Related Nodes: N-10485
+Related Nodes: N-10414
 
 Investigative Direction: Identify the YouTuber who originally published the video; verify the date and circumstances of the alleged incident; determine whether any criminal investigation was opened.
 
@@ -374,7 +374,7 @@ Claim: The episode presents that a CERN spokesperson characterized the staged ri
 
 Anchored Artifacts: A-1629.1
 
-Related Nodes: N-10485
+Related Nodes: N-10414
 
 Investigative Direction: Locate CERN's official statement on the incident; identify the spokesperson and the date of the statement; determine whether the woman depicted has been identified.
 
@@ -389,7 +389,7 @@ Claim: A Daily Wire video dropped on Candace Owens's old social media accounts p
 Anchored Artifacts: A-1631.1
 Mentions: N-3
 
-Related Nodes: N-10487
+Related Nodes: N-10416
 
 Investigative Direction: Locate the Daily Wire video directly on its original publication platform; verify the date it was posted on Candace's social media accounts; confirm whether it was targeted specifically at her.
 
@@ -402,7 +402,7 @@ Claim Timestamp: 00:43:34
 Claim: Mike Pompeo is presented stating that future history books must not focus on "the victims of Gaza" but instead should frame Israel as the aggrieved party and Iran/Hamas as the aggressor, and that this requires real-time shaping of how adults talk to children about the war.
 
 Anchored Artifacts: A-1632.1
-Mentions: N-721
+Mentions: N-466
 
 
 Investigative Direction: Identify the original Pompeo interview (publication, host, date) and watch in full context; verify whether the quoted framing matches the full statement; check whether accompanying applause is from a single event or edited.
@@ -418,7 +418,7 @@ Claim: The host references (from earlier episodes, via prior text-message displa
 Anchored Artifacts: A-1633.1
 Mentions: N-3, N-1
 
-Related Nodes: N-10486
+Related Nodes: N-10415
 
 Investigative Direction: Locate the specific text messages in the earlier episode(s) where they were displayed; capture exact wording and date stamps.
 
@@ -433,7 +433,7 @@ Claim: The host presents Charlie Kirk's assertion (via referenced text messages)
 Anchored Artifacts: A-1633.1
 Mentions: N-1
 
-Related Nodes: N-10486
+Related Nodes: N-10415
 
 Investigative Direction: Locate the specific text messages in which Charlie makes this claim; verify the timing relative to TPUSA founding (2012) and Charlie's death.
 
@@ -446,7 +446,7 @@ Claim Timestamp: 00:47:28
 Claim: Read-aloud commenter Carly presents testimony that her father was a Military Police officer stationed with "Lieutenant Aquino" in 1982, was investigating pentagrams on the base, and was forced off a subsequent child-abuse investigation under the rationale "MPs don't investigate felonies."
 
 Anchored Artifacts: A-1634.1
-Mentions: N-726
+Mentions: N-468
 
 
 Investigative Direction: Identify the military base, the "Lieutenant Aquino" referenced, and whether any contemporaneous investigation records (1982-era) can corroborate the pentagram and child-abuse investigation claims.
@@ -460,7 +460,7 @@ Claim Timestamp: 00:51:51
 Claim: Read-aloud commenter Marzy presents the claim that ICE agents receive training and recruitment directly from Israel via the IDF.
 
 Anchored Artifacts: A-1634.2
-Mentions: N-727
+Mentions: N-469
 
 
 Investigative Direction: Verify any documented ICE–Israeli-government training partnerships; check DHS, ICE, and Israeli Ministry of Public Security public records for formal training agreements.

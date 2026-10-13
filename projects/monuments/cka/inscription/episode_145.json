@@ -84,7 +84,7 @@
             "C-3332"
           ],
           "related_nodes": [
-            "N-11214"
+            "N-10815"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -135,7 +135,7 @@
             "C-3337"
           ],
           "related_nodes": [
-            "N-11213"
+            "N-10814"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -161,7 +161,7 @@
             "C-3339"
           ],
           "related_nodes": [
-            "N-11213"
+            "N-10814"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -186,7 +186,7 @@
             "C-3335"
           ],
           "related_nodes": [
-            "N-11213"
+            "N-10814"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -211,7 +211,7 @@
             "C-3334"
           ],
           "related_nodes": [
-            "N-11213"
+            "N-10814"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -272,8 +272,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11213",
-      "ref": "N-11213",
+      "@id": "N-10814",
+      "ref": "N-10814",
       "name": "Pentagon–State Department–TPUSA Coordinated Messaging Operation",
       "type": "investigation_target",
       "description": "Persistent thesis, anchored across multiple artifacts in this episode, asserting that the Department of War, the State Department (via Under Secretary Sarah Rogers), Turning Point USA allies (Blake Neff, Andrew Kolvet), and financier Bill Ackman are jointly executing a messaging operation against the host's investigation into the Charlie Kirk assassination.",
@@ -299,8 +299,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11214",
-      "ref": "N-11214",
+      "@id": "N-10815",
+      "ref": "N-10815",
       "name": "NCRI Report Provenance and Authorship",
       "type": "investigation_target",
       "description": "Persistent question regarding the authorship, funding, and institutional backing of the NCRI \"Permission to Kill\" report; host asserts it was authored by Kairos company, the former PR firm of Andrew Kolvet.",
@@ -320,8 +320,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11215",
-      "ref": "N-11215",
+      "@id": "N-10816",
+      "ref": "N-10816",
       "name": "Charlie Kirk September 9, 2025 Text Messages",
       "type": "investigation_target",
       "description": "Host asserts (without artifact) that Charlie Kirk texted multiple people on September 9, 2025 stating he wanted the host back in his life. No artifact shown in this episode; requires independent verification.",
@@ -386,8 +386,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
@@ -402,8 +402,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-66",
-      "ref": "N-66",
+      "@id": "N-37",
+      "ref": "N-37",
       "name": "Bill Ackman",
       "type": "person",
       "description": "Named as boosting Pounds thread and as on Howard Hughes Inc board today.",
@@ -418,8 +418,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
@@ -434,8 +434,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
+      "@id": "N-97",
+      "ref": "N-97",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
@@ -450,8 +450,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-135",
-      "ref": "N-135",
+      "@id": "N-99",
+      "ref": "N-99",
       "name": "Alex Clark",
       "type": "person",
       "description": "Podcaster named by host and defended by AllieBeth Stuckey (A-1537.1) against host's accusation of misrepresenting Charlie Kirk's stance on architecture.",
@@ -466,8 +466,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-138",
-      "ref": "N-138",
+      "@id": "N-102",
+      "ref": "N-102",
       "name": "Michael Knowles",
       "type": "person",
       "description": "Subject of audio clip A-1851.1; named as godfather to Candace Owens' daughter.",
@@ -482,8 +482,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
@@ -498,8 +498,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-774",
-      "ref": "N-774",
+      "@id": "N-495",
+      "ref": "N-495",
       "name": "Blake Lively",
       "type": "person",
       "description": "Named party in the Baldoni litigation; text-message correspondent with Taylor Swift per A-1665.1.",
@@ -514,8 +514,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-775",
-      "ref": "N-775",
+      "@id": "N-496",
+      "ref": "N-496",
       "name": "Justin Baldoni",
       "type": "person",
       "description": "Named party in the Lively litigation; subject of Taylor Swift's December 2024 text per A-1665.1.",
@@ -579,7 +579,7 @@
       "claim_timestamp": "00:13:27",
       "investigative_direction": "Independent corroboration of the encounter is achievable via flight manifests or third-party witnesses.",
       "mentions_person_refs": [
-        "N-775"
+        "N-496"
       ]
     },
     {
@@ -596,7 +596,7 @@
       "claim_timestamp": "00:14:29",
       "investigative_direction": "Verify via flight records or independent statements from Baldoni or his representatives.",
       "mentions_person_refs": [
-        "N-775"
+        "N-496"
       ]
     },
     {
@@ -609,7 +609,7 @@
         "A-2312.1"
       ],
       "related_nodes": [
-        "N-11214"
+        "N-10815"
       ],
       "tags": [],
       "claim_timestamp": "00:28:26",
@@ -628,13 +628,13 @@
         "A-2312.1"
       ],
       "related_nodes": [
-        "N-11214"
+        "N-10815"
       ],
       "tags": [],
       "claim_timestamp": "00:28:26",
       "investigative_direction": "Verify Kairos company's involvement in NCRI; verify Kolvet's prior or current relationship with Kairos.",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -647,13 +647,13 @@
         "A-2312.1"
       ],
       "related_nodes": [
-        "N-11214"
+        "N-10815"
       ],
       "tags": [],
       "claim_timestamp": "00:28:26",
       "investigative_direction": "Compare the NCRI report publication date to the court docket for the Robinson preliminary hearing.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -684,13 +684,13 @@
         "A-2317.1"
       ],
       "related_nodes": [
-        "N-11213"
+        "N-10814"
       ],
       "tags": [],
       "claim_timestamp": "00:31:33",
       "investigative_direction": "Retrieve the original Kolvet post; verify timestamp and current status (deleted vs. live).",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -703,14 +703,14 @@
         "A-2316.1"
       ],
       "related_nodes": [
-        "N-11213"
+        "N-10814"
       ],
       "tags": [],
       "claim_timestamp": "00:31:33",
       "investigative_direction": "Retrieve the specific Bill Ackman post; verify date and quoted text.",
       "mentions_person_refs": [
         "N-1",
-        "N-66"
+        "N-37"
       ]
     },
     {
@@ -723,7 +723,7 @@
         "A-2314.1"
       ],
       "related_nodes": [
-        "N-11213"
+        "N-10814"
       ],
       "tags": [],
       "claim_timestamp": "00:34:07",
@@ -739,7 +739,7 @@
         "A-2314.1"
       ],
       "related_nodes": [
-        "N-11213"
+        "N-10814"
       ],
       "tags": [],
       "claim_timestamp": "00:34:53",
@@ -759,7 +759,7 @@
       "claim_timestamp": "00:33:25",
       "investigative_direction": "Retrieve the Blake Neff post directly; verify quoted text.",
       "mentions_person_refs": [
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -786,7 +786,7 @@
         "A-2314.1"
       ],
       "related_nodes": [
-        "N-11213"
+        "N-10814"
       ],
       "tags": [],
       "claim_timestamp": "00:32:35",
@@ -806,9 +806,9 @@
       "claim_timestamp": "00:37:33",
       "investigative_direction": "Retrieve TPUSA's official tour announcement; verify lineup and dates.",
       "mentions_person_refs": [
-        "N-138",
-        "N-133",
-        "N-135"
+        "N-102",
+        "N-97",
+        "N-99"
       ]
     },
     {
@@ -825,7 +825,7 @@
       "claim_timestamp": "00:17:34",
       "investigative_direction": "Obtain the full CCRD filing; verify the quoted passage in original context.",
       "mentions_person_refs": [
-        "N-774"
+        "N-495"
       ]
     },
     {
@@ -842,7 +842,7 @@
       "claim_timestamp": "00:17:34",
       "investigative_direction": "Verify by reading the full CCRD filing; compare to subsequent court filings.",
       "mentions_person_refs": [
-        "N-774"
+        "N-495"
       ]
     },
     {
@@ -859,16 +859,16 @@
         "A-2317.1"
       ],
       "related_nodes": [
-        "N-11213"
+        "N-10814"
       ],
       "tags": [],
       "claim_timestamp": "00:35:45",
       "investigative_direction": "Independently verify each component of the coordination claim; obtain responses from named individuals or their representatives; review FOIA disclosures for SGE activity at the Department of War.",
       "mentions_person_refs": [
-        "N-42",
+        "N-14",
         "N-1",
-        "N-66",
-        "N-224"
+        "N-37",
+        "N-162"
       ]
     }
   ],

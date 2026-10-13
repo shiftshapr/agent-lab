@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: aad9b594be730478a8051e834c8dd3ae3c76a0895b472f75831b8b225046f268
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-451, N-453, N-454, N-455, N-456, N-457, N-458, N-459, N-460, N-461, N-10354, N-10355, N-10356, N-10357, N-10358, N-10359, N-10360, N-10361, N-10362, N-10363, N-10364, N-10365, N-10366, N-10367, N-10368
+  - New Nodes Introduced: N-288, N-289, N-290, N-291, N-292, N-293, N-294, N-295, N-296, N-297, N-10283, N-10284, N-10285, N-10286, N-10287, N-10288, N-10289, N-10290, N-10291, N-10292, N-10293, N-10294, N-10295, N-10296, N-10297
   - Reused Nodes Appearing: none
-  - Hole-minted Nodes (w2_1): N-628
+  - Hole-minted Nodes (w2_1): N-387
   - (see registers)
 
 ## 2. Executive Summary
@@ -53,7 +53,7 @@ Video Timestamp: 00:02:49–00:04:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text reproduced verbatim)
 
-*Related: C-1781, C-1784, C-1786, N-3, N-628, N-117, N-69, N-454*
+*Related: C-1781, C-1784, C-1786, N-3, N-387, N-82, N-40, N-290*
 
 ---
 
@@ -67,7 +67,7 @@ Video Timestamp: 00:10:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quoted on air)
 
-*Related: C-1782, N-628, N-3, N-1*
+*Related: C-1782, N-387, N-3, N-1*
 
 ---
 
@@ -81,7 +81,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (article title and one paragraph read on air; full URL not displayed)
 
-*Related: C-1783, N-455, N-10364, N-3*
+*Related: C-1783, N-291, N-10293, N-3*
 
 ---
 
@@ -95,7 +95,7 @@ Video Timestamp: 00:13:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read aloud summary, not full verbatim)
 
-*Related: C-1783, N-10364*
+*Related: C-1783, N-10293*
 
 ---
 
@@ -109,7 +109,7 @@ Video Timestamp: 00:15:59–00:17:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (specific units, dates, and host-cited source)
 
-*Related: C-1783, N-10361, N-69*
+*Related: C-1783, N-10290, N-40*
 
 ---
 
@@ -123,7 +123,7 @@ Video Timestamp: 00:18:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quoted verbatim)
 
-*Related: C-1784, N-69*
+*Related: C-1784, N-40*
 
 ---
 
@@ -137,7 +137,7 @@ Video Timestamp: 00:19:45–00:21:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud with explicit quotes)
 
-*Related: C-1785, C-1786, A-1465.1, A-1468.1, N-10368*
+*Related: C-1785, C-1786, A-1465.1, A-1468.1, N-10297*
 
 ---
 
@@ -151,7 +151,7 @@ Video Timestamp: 00:20:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (paraphrased on air)
 
-*Related: C-1785, N-456, N-10368*
+*Related: C-1785, N-292, N-10297*
 
 ---
 
@@ -165,7 +165,7 @@ Video Timestamp: 00:25:55–00:26:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single source email; treat as source-claim)
 
-*Related: C-1789, N-10354*
+*Related: C-1789, N-10283*
 
 **A-1469.2** Section: 920 North King Street, Wilmington – claim that three federal agencies work together in one building; identified in connection with a foreign dignitary escort and the attorneys filing the host's Brigitte-lawsuit paperwork.
 
@@ -175,7 +175,7 @@ Video Timestamp: 00:24:24–00:25:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single source email, uncorroborated in episode)
 
-*Related: C-1790, N-10355*
+*Related: C-1790, N-10284*
 
 **A-1469.3** Section: Bracebridge Complex at 1100 North King Street – originally built as Maryland Bank headquarters 1995; Bank of America acquired 2006 and pulled out of the buildings in 2018; in 2024 legislation was passed to provide financial support to the Longwood Foundation (founded by Pierre S. du Pont) to operate it as an educational center; complex spans six buildings connected to both French Street and King Street.
 
@@ -185,7 +185,7 @@ Video Timestamp: 00:28:30–00:31:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (partially corroborated by A-1471)
 
-*Related: C-1791, C-1792, C-1793, N-10356, N-10358, N-459, N-460*
+*Related: C-1791, C-1792, C-1793, N-10285, N-10287, N-295, N-296*
 
 **A-1469.4** Section: Incyte Corporation – claim that the long-time CEO of Incyte was Hervé Hopineau (host self-corrects: "Hervé Hope No, Hopineau"), a French national who recently transitioned from CEO to advisor; Incyte owns the construction site across from 920 North King Street and is plugged into federal medical supply chains including VA/military health care interfaces.
 
@@ -195,7 +195,7 @@ Video Timestamp: 00:33:11–00:34:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single source; spelling uncertain)
 
-*Related: C-1794, N-457, N-10357*
+*Related: C-1794, N-293, N-10286*
 
 **A-1469.5** Section: Wilmington Savings Fund Society / Wilmington Trust – claim that in 1990 most lower Delaware WSFS branches were sold to Wilmington Trust, founded by T. Coleman du Pont (French-American du Pont family); Wilmington Trust located at 1100 North Market Street, on Rodney Square, next to 1100 North King Street.
 
@@ -205,7 +205,7 @@ Video Timestamp: 00:30:58–00:32:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single source email)
 
-*Related: C-1795, N-461, N-10358, N-10359*
+*Related: C-1795, N-297, N-10287, N-10288*
 
 **A-1469.6** Section: 500 North Delaware Avenue – claim that the FBI has a presence in this building (which the source calls "another bank center"); also references MGM Delaware Avenue law firm (Suite 200) sitting directly below the FBI suite (Suite 300) per the source.
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:30:58–00:33:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single source email)
 
-*Related: C-1796, N-10360*
+*Related: C-1796, N-10289*
 
 **A-1469.7** Section: Wilmington LGBT/transgender services inventory – proximity list (Theater, "The Queen," Wilmington University LGBTQ programs, Transition Delaware LLC, plastic surgeons).
 
@@ -225,7 +225,7 @@ Video Timestamp: 00:43:10–00:46:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (source-internal inventory, not a documentary record)
 
-*Related: N-10354 (context only)*
+*Related: N-10283 (context only)*
 
 ---
 
@@ -239,7 +239,7 @@ Video Timestamp: 00:28:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (visual anchor only)
 
-*Related: N-10355, N-10356*
+*Related: N-10284, N-10285*
 
 **A-1470.2** Map showing Bracebridge Complex at 1100 North King Street spanning six connected buildings, and the adjacent 1100 North Market Street / Rodney Square.
 
@@ -249,7 +249,7 @@ Video Timestamp: 00:30:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (visual anchor only)
 
-*Related: N-10356, N-10359*
+*Related: N-10285, N-10288*
 
 ---
 
@@ -263,7 +263,7 @@ Video Timestamp: 00:28:30–00:29:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (article referenced but URL not visible)
 
-*Related: C-1791, N-10356*
+*Related: C-1791, N-10285*
 
 **A-1471.2** Local coverage quote from Miriam Deed: "I just feel like I don't understand why we're doing this without there being more accountability."
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:30:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (quoted on air)
 
-*Related: C-1791, N-458, N-10356*
+*Related: C-1791, N-294, N-10285*
 
 ---
 
@@ -287,7 +287,7 @@ Video Timestamp: 00:38:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed on screen)
 
-*Related: C-1797, N-10360*
+*Related: C-1797, N-10289*
 
 ---
 
@@ -301,7 +301,7 @@ Video Timestamp: 00:47:39–00:48:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-1800, N-451, N-88*
+*Related: C-1800, N-288, N-57*
 
 ---
 
@@ -315,7 +315,7 @@ Video Timestamp: 00:56:17–00:56:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed on screen)
 
-*Related: C-1801, N-453, N-451*
+*Related: C-1801, N-289, N-288*
 
 ---
 
@@ -329,7 +329,7 @@ Video Timestamp: 00:39:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (described on air; specific photo not displayed)
 
-*Related: C-1798, N-117, N-10365*
+*Related: C-1798, N-82, N-10294*
 
 **A-1475.2** Photograph of Brigitte Macron with Zelensky at an interstate meeting (September 4, 2025); separately a daytime photo of Brigitte with a Saudi Arabia orchestra event.
 
@@ -339,7 +339,7 @@ Video Timestamp: 00:39:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (described on air)
 
-*Related: C-1799, N-117, N-10365*
+*Related: C-1799, N-82, N-10294*
 
 ---
 
@@ -353,7 +353,7 @@ Video Timestamp: 00:53:57–00:54:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (live readout)
 
-*Related: C-1802, N-3, N-10366*
+*Related: C-1802, N-3, N-10295*
 
 ---
 
@@ -367,7 +367,7 @@ Video Timestamp: 00:15:59–00:17:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host assertion; specific source URL not displayed)
 
-*Related: C-1786, N-10361, N-10368*
+*Related: C-1786, N-10290, N-10297*
 
 ---
 
@@ -381,7 +381,7 @@ Video Timestamp: 00:21:39–00:22:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host assertion; not artifact-verified in episode)
 
-*Related: C-1787, N-10362*
+*Related: C-1787, N-10291*
 
 ---
 
@@ -395,13 +395,13 @@ Video Timestamp: 00:22:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (specific date and number read on air)
 
-*Related: C-1788, N-10363*
+*Related: C-1788, N-10292*
 
 ---
 
 ## 4. Node Register
 
-**N-451** Adam Sosnick
+**N-288** Adam Sosnick
 
 PBD Podcast personality; on-air subject of clip claiming host has no famous friends and is the figure blamed by Eric Bolling in A-1474 ("that Alex guy").
 
@@ -414,7 +414,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-88** Patrick Bet-David
+**N-57** Patrick Bet-David
 
 Host of PBD Podcast; platform through which Sosnick segment was aired.
 
@@ -427,7 +427,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-453** Eric Bolling
+**N-289** Eric Bolling
 
 Television personality and political commentator; author of the apology email in A-1474 referencing the PBD incident involving Candace Owens.
 
@@ -440,7 +440,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-454** Xavier Poussard
+**N-290** Xavier Poussard
 
 French journalist; named in Candace Owens's November 25 tweet (A-1461.1) as also at risk.
 
@@ -453,7 +453,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-455** Freddy Ponton
+**N-291** Freddy Ponton
 
 Article author of "Past as Prologue, Safari Club Illuminates Candace Owens' allegations" (A-1463.1); provides contextual framing linking the host's allegations to historical covert-operation patterns.
 
@@ -462,11 +462,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1463.1, N-10364*
+*Related: A-1463.1, N-10293*
 
 ---
 
-**N-456** Andy Parrish
+**N-292** Andy Parrish
 
 X poster identifying as former chief of staff to a Republican state representative (state not specified on air); source of the Camp Riley / Camp Ripley correction.
 
@@ -475,11 +475,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1468.1, C-1785, N-10368*
+*Related: A-1468.1, C-1785, N-10297*
 
 ---
 
-**N-457** Hervé Hopineau
+**N-293** Hervé Hopineau
 
 Identified in source email A-1469.4 as long-time CEO of Incyte and a French national, recently transitioned to advisor role. Spelling uncertainty: host false-starts with "Hervé Hope" before correcting to "Hopineau."
 
@@ -488,11 +488,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.4, C-1794, N-10357*
+*Related: A-1469.4, C-1794, N-10286*
 
 ---
 
-**N-458** Miriam Deed
+**N-294** Miriam Deed
 
 Public commenter quoted in local coverage (A-1471.2) expressing concern about lack of accountability regarding the Bracebridge Complex.
 
@@ -501,11 +501,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1471.2, N-10356*
+*Related: A-1471.2, N-10285*
 
 ---
 
-**N-459** Pierre S. du Pont
+**N-295** Pierre S. du Pont
 
 Founder of Longwood Foundation (per source email A-1469.3); member of French-American du Pont family descended from Pierre Samuel du Pont de Nemours.
 
@@ -514,11 +514,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.3, C-1792, C-1793, N-10356, N-10358, N-461*
+*Related: A-1469.3, C-1792, C-1793, N-10285, N-10287, N-297*
 
 ---
 
-**N-460** T. Coleman du Pont
+**N-296** T. Coleman du Pont
 
 French-American then-president of du Pont; per source email A-1469.5, founder of Wilmington Trust, which acquired most lower-Delaware WSFS branches in 1990.
 
@@ -527,11 +527,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.5, C-1795, N-459, N-10358, N-10359*
+*Related: A-1469.5, C-1795, N-295, N-10287, N-10288*
 
 ---
 
-**N-461** Pavel Durov
+**N-297** Pavel Durov
 
 Founder of Telegram; X poster whose on-air quote (A-1462.1) endorses plausibility of French involvement claims.
 
@@ -544,7 +544,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-628** Emmanuel Macron
+**N-387** Emmanuel Macron
 
 French President; the host relays a source claim that the Macrons paid for her assassination and discusses the Macron defamation suit (transcript 02:49 to 04:49).
 
@@ -553,11 +553,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1461.1, A-1462.1, C-1781, N-117, N-3*
+*Related: A-1461.1, A-1462.1, C-1781, N-82, N-3*
 
 ---
 
-**N-10354** French Street Wilmington Historical Cluster
+**N-10283** French Street Wilmington Historical Cluster
 
 Persistent claim that Wilmington's North French Street originated as Willing Street in Thomas Willing's grid and was renamed after 1790s Haitian/French Revolution refugee settlement; central to the alleged "French network" narrative.
 
@@ -570,7 +570,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10355** 920 North King Street Federal Presence
+**N-10284** 920 North King Street Federal Presence
 
 Claim that three federal agencies work together at 920 North King Street, Wilmington; also identified as the address to which a foreign dignitary was escorted and where the attorneys filing Candace Owens's Brigitte-lawsuit paperwork are housed.
 
@@ -583,7 +583,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10356** Bracebridge Complex French Connection
+**N-10285** Bracebridge Complex French Connection
 
 1100 North King Street complex: originally Maryland Bank HQ (1995), Bank of America acquired (2006) and vacated (2018); 2024 legislation supporting Longwood Foundation (Pierre S. du Pont) to operate as educational center; six connected buildings on French Street and King Street.
 
@@ -592,11 +592,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1469.3, A-1470.2, A-1471.1, A-1471.2, C-1791, C-1793, N-458, N-459*
+*Related: A-1469.3, A-1470.2, A-1471.1, A-1471.2, C-1791, C-1793, N-294, N-295*
 
 ---
 
-**N-10357** Incyte Corporation French CEO
+**N-10286** Incyte Corporation French CEO
 
 Claim that long-time Incyte CEO was Hervé Hopineau (French national), now advisor; Incyte owns the construction site across from 920 North King and is plugged into VA/military health care supply chains.
 
@@ -605,11 +605,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.4, C-1794, N-457*
+*Related: A-1469.4, C-1794, N-293*
 
 ---
 
-**N-10358** Longwood Foundation / Pierre du Pont Educational Center
+**N-10287** Longwood Foundation / Pierre du Pont Educational Center
 
 Claim that 2024 legislation provided financial support to the Longwood Foundation (founded by Pierre S. du Pont) to function as an educational center at Bracebridge.
 
@@ -618,11 +618,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.3, C-1792, N-459*
+*Related: A-1469.3, C-1792, N-295*
 
 ---
 
-**N-10359** Wilmington Trust / T. Coleman du Pont
+**N-10288** Wilmington Trust / T. Coleman du Pont
 
 Claim that the Wilmington Trust was founded by T. Coleman du Pont; located at 1100 North Market Street on Rodney Square, adjacent to Bracebridge; acquired WSFS branches in 1990.
 
@@ -631,11 +631,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.5, C-1795, N-460, N-10360*
+*Related: A-1469.5, C-1795, N-296, N-10289*
 
 ---
 
-**N-10360** Rodney Square / 500 Delaware Avenue Federal Cluster
+**N-10289** Rodney Square / 500 Delaware Avenue Federal Cluster
 
 Claim that 500 North Delaware Avenue hosts an FBI presence; MGM Delaware Avenue law firm occupies Suite 200 directly below the FBI Suite 300; located on Rodney Square alongside Wilmington Trust and Bracebridge.
 
@@ -648,7 +648,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10361** French Foreign Legion US Training August 2025
+**N-10290** French Foreign Legion US Training August 2025
 
 Joint training exercises: (a) FFL 2nd Foreign Infantry Regiment with US Marines 6th Marine Regiment in California, August 2–25, 2025 (A-1465.1, confirmed by France 24 / French Ministry); (b) Operation Valhalla joint military-civilian exercise at Camp Ripley, MN, August 25–27, 2025 (A-1477.1, host-cited).
 
@@ -657,11 +657,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1465.1, A-1477.1, C-1783, C-1786, N-10368*
+*Related: A-1465.1, A-1477.1, C-1783, C-1786, N-10297*
 
 ---
 
-**N-10362** Operation Bright Star August–September 2025
+**N-10291** Operation Bright Star August–September 2025
 
 Claim that Operation Bright Star (bi-annual US-Egypt joint operation in Cairo) ran August 29 – September 10, 2025, ending on the day of the Charlie Kirk assassination.
 
@@ -674,7 +674,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10363** FFL Six-Regiment Command Change August 2025
+**N-10292** FFL Six-Regiment Command Change August 2025
 
 Per an August 20, 2025 article (A-1479.1), six French Foreign Legion regiments underwent changes of command in mid-August 2025.
 
@@ -687,7 +687,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10364** Safari Club Intelligence Network
+**N-10293** Safari Club Intelligence Network
 
 Wikipedia-summarized covert alliance of intelligence services formed in 1976 (members including pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, France, Israel, Djibouti, South Africa); central to Ponton's framing of plausibility.
 
@@ -696,11 +696,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1463.1, A-1464.1, C-1783, N-455*
+*Related: A-1463.1, A-1464.1, C-1783, N-291*
 
 ---
 
-**N-10365** Brigitte Macron Schedule Gap September 4–10, 2025
+**N-10294** Brigitte Macron Schedule Gap September 4–10, 2025
 
 Documented Brigitte Macron public appearances on September 4, 2025 (Paris Design Week, Zelensky photo, Saudi Arabia orchestra); six-day absence in public schedule before Charlie Kirk's September 10 assassination. Not a separate artifact in this episode beyond A-1475.1/A-1475.2.
 
@@ -709,11 +709,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1475.1, A-1475.2, C-1798, C-1799, N-117*
+*Related: A-1475.1, A-1475.2, C-1798, C-1799, N-82*
 
 ---
 
-**N-10366** YouTube Live Poll: Lawsuit as Government Operation
+**N-10295** YouTube Live Poll: Lawsuit as Government Operation
 
 Poll results from live show: 24,856 votes, 93% Yes on "Do you think that this lawsuit was an operation against me?"
 
@@ -726,7 +726,7 @@ Investigative Pressure: Low (audience opinion, not factual claim)
 
 ---
 
-**N-10367** Camp Riley vs Camp Ripley Typo Issue
+**N-10296** Camp Riley vs Camp Ripley Typo Issue
 
 Host typed "Camp Riley" in her X post when referring to Camp Ripley, Minnesota; the French Ministry and France 24 used this typo to assert the host's broader allegations were unfounded; Andy Parrish identified the correct camp name.
 
@@ -735,11 +735,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (typographical, not factual conflict)
 
-*Related: A-1467.1, A-1468.1, A-1477.1, C-1785, N-456, N-10361*
+*Related: A-1467.1, A-1468.1, A-1477.1, C-1785, N-292, N-10290*
 
 ---
 
-**N-10368** Eric Bolling / PBD Podcast Apology Incident
+**N-10297** Eric Bolling / PBD Podcast Apology Incident
 
 Eric Bolling sent an apology email to Candace Owens's PR after a PBD segment in which he claimed she had not been friends with Charlie Kirk since 2017; he blamed "that Alex guy" (Adam Sosnick) and said he did not even know Adam's name (initially referring to him as "Sam").
 
@@ -748,7 +748,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1474.1, C-1801, N-453, N-451*
+*Related: A-1474.1, C-1801, N-289, N-288*
 
 ---
 
@@ -761,7 +761,7 @@ Claim Timestamp: 00:02:49
 Claim: On November 25, 2025, Candace Owens publicly stated via X that a high-ranking French government employee claimed the Macrons had executed upon and paid for her assassination, with the green light given to a GIGN team including one Israeli operative, and that Charlie Kirk's assassin trained with the French Foreign Legion's 13th Brigade.
 
 Anchored Artifacts: A-1461.1
-Mentions: N-3, N-628, N-117, N-454, N-1
+Mentions: N-3, N-387, N-82, N-290, N-1
 Investigative Direction: Obtain the underlying source communication; verify the identity and position of the French government contact; cross-check with FBI/Counterterrorism response records (FOIA where possible).
 
 ---
@@ -773,7 +773,7 @@ Claim Timestamp: 00:10:41
 Claim: Telegram founder Pavel Durov publicly stated that after reviewing Charlie Kirk's prior comments about Macron's France, he finds Candace Owens's information about French involvement in Kirk's death entirely plausible.
 
 Anchored Artifacts: A-1462.1
-Mentions: N-1, N-3, N-461
+Mentions: N-1, N-3, N-297
 Investigative Direction: Locate original Durov X post (date, full context) and verify any prior Durov statements about the 300% tariff framing.
 
 ---
@@ -785,8 +785,8 @@ Claim Timestamp: 00:11:57
 Claim: Article author Freddy Ponton argued that the hesitation in dismissing Owens's allegations comes not from trust in her but from documented precedent of multi-state covert operations, citing the 1976 Safari Club intelligence alliance.
 
 Anchored Artifacts: A-1463.1, A-1464.1
-Mentions: N-455
-Related Nodes: N-10364
+Mentions: N-291
+Related Nodes: N-10293
 Investigative Direction: Verify Ponton's article URL; corroborate the Safari Club member list against declassified records; assess whether the Safari Club precedent materially maps onto the present allegations.
 
 ---
@@ -798,7 +798,7 @@ Claim Timestamp: 00:18:50
 Claim: The French Ministry of the Armed Forces issued a public statement that Tyler Robinson was never part of the French Foreign Legion and could not have trained with it if he did not serve in an American military unit.
 
 Anchored Artifacts: A-1466.1
-Mentions: N-69
+Mentions: N-40
 Investigative Direction: Obtain original Ministry press release with date and spokesperson; cross-reference with Tyler Robinson's known background; verify the formal French position via Élysée or Ministry press archives.
 
 ---
@@ -810,8 +810,8 @@ Claim Timestamp: 00:20:28
 Claim: A Camp Riley does not exist in Minnesota; Camp Ripley is the correct name, as identified by Andy Parrish on X.
 
 Anchored Artifacts: A-1467.1, A-1468.1
-Mentions: N-456
-Related Nodes: N-10367
+Mentions: N-292
+Related Nodes: N-10296
 Investigative Direction: Confirm Camp Ripley as the relevant installation; identify whether Minot AFB personnel participated in a Camp Ripley exercise in late August 2025 via official press releases.
 
 ---
@@ -823,7 +823,7 @@ Claim Timestamp: 00:19:45
 Claim: A France 24 article reports that the French Ministry of the Armed Forces confirmed the August 2–25, 2025 California FFL training exercise and formally denied a follow-on exercise at a "Camp Riley" in Minnesota, noting no such camp exists.
 
 Anchored Artifacts: A-1467.1, A-1465.1
-Related Nodes: N-10361, N-10367
+Related Nodes: N-10290, N-10296
 Investigative Direction: Locate original France 24 article; verify whether the Ministry's denial extends to any Camp Ripley exercise or only to "Camp Riley" as named.
 
 ---
@@ -836,7 +836,7 @@ Claim: Operation Bright Star, a bi-annual US-Egypt joint military operation in C
 
 Anchored Artifacts: A-1478.1
 Mentions: N-1
-Related Nodes: N-10362
+Related Nodes: N-10291
 Investigative Direction: Verify Operation Bright Star 2025 dates via US Central Command or Egyptian military press releases; confirm exercise scope and participating units.
 
 ---
@@ -848,7 +848,7 @@ Claim Timestamp: 00:22:30
 Claim: An article dated August 20, 2025 reported a change of command across six French Foreign Legion regiments in mid-August 2025.
 
 Anchored Artifacts: A-1479.1
-Related Nodes: N-10363
+Related Nodes: N-10292
 Investigative Direction: Locate original article; obtain official command-change notices; identify the six regiments and whether any are the 2nd Foreign Infantry Regiment.
 
 ---
@@ -860,7 +860,7 @@ Claim Timestamp: 00:25:55
 Claim: Per a source email, North French Street in Wilmington, Delaware originated in the 1790s when a cluster of French-speaking refugees from Haiti and the French Revolution settled along Willing Street, and the nickname French Street took over.
 
 Anchored Artifacts: A-1469.1
-Related Nodes: N-10354
+Related Nodes: N-10283
 Investigative Direction: Verify via Wilmington city historical archives; corroborate the Thomas Willing grid and 1790s French/Haitian refugee settlement pattern with academic historical sources.
 
 ---
@@ -872,7 +872,7 @@ Claim Timestamp: 00:24:24
 Claim: A source email asserts that three federal agencies work together at 920 North King Street, Wilmington, Delaware – the same address connected to the foreign-dignitary escort and to the attorneys filing the Macron-lawsuit paperwork.
 
 Anchored Artifacts: A-1469.2
-Related Nodes: N-10355
+Related Nodes: N-10284
 Investigative Direction: Identify the specific federal agencies at 920 North King Street via public lease records; verify the attorneys-of-record for the Macron v. Owens Delaware filing and their physical address.
 
 ---
@@ -884,7 +884,7 @@ Claim Timestamp: 00:28:30
 Claim: Bank of America vacated the Bracebridge Complex in 2018, leaving the building empty, per local coverage and source email.
 
 Anchored Artifacts: A-1469.3, A-1471.1, A-1471.2
-Related Nodes: N-10356
+Related Nodes: N-10285
 Investigative Direction: Verify Bank of America's Bracebridge exit via Wilmington business filings or news archives; obtain Miriam Deed comment context (which public meeting or hearing).
 
 ---
@@ -896,8 +896,8 @@ Claim Timestamp: 00:30:13
 Claim: Per the source email, the Longwood Foundation was founded by Pierre S. du Pont, a member of the French-American du Pont family descended from Pierre Samuel du Pont de Nemours.
 
 Anchored Artifacts: A-1469.3
-Mentions: N-459
-Related Nodes: N-10358
+Mentions: N-295
+Related Nodes: N-10287
 Investigative Direction: Verify Longwood Foundation founding date and founder via IRS Form 990 filings and du Pont family genealogical records.
 
 ---
@@ -909,8 +909,8 @@ Claim Timestamp: 00:29:23
 Claim: Per the source email, 2024 legislation was passed to provide financial support to the Longwood Foundation to function as an educational center at the Bracebridge Complex.
 
 Anchored Artifacts: A-1469.3
-Mentions: N-459
-Related Nodes: N-10356, N-10358
+Mentions: N-295
+Related Nodes: N-10285, N-10287
 Investigative Direction: Identify the specific Delaware legislation; obtain bill text and legislative history.
 
 ---
@@ -922,8 +922,8 @@ Claim Timestamp: 00:33:11
 Claim: Per the source email, Hervé Hopineau (a French national) served as the long-time CEO of Incyte Corporation before recently transitioning to an advisor role.
 
 Anchored Artifacts: A-1469.4
-Mentions: N-457
-Related Nodes: N-10357
+Mentions: N-293
+Related Nodes: N-10286
 Investigative Direction: Verify Incyte CEO succession records via SEC filings; confirm Hopineau's nationality and dates of service.
 
 ---
@@ -935,8 +935,8 @@ Claim Timestamp: 00:30:58
 Claim: Per the source email, T. Coleman du Pont founded the Wilmington Trust, which in 1990 acquired most lower-Delaware branches of Wilmington Savings Fund Society (WSFS).
 
 Anchored Artifacts: A-1469.5
-Mentions: N-460
-Related Nodes: N-10359
+Mentions: N-296
+Related Nodes: N-10288
 Investigative Direction: Verify Wilmington Trust founding date and founder via corporate filings and historical records; cross-check the 1990 WSFS branch transfer.
 
 ---
@@ -948,7 +948,7 @@ Claim Timestamp: 00:30:58
 Claim: Per the source email, the FBI has a presence at 500 North Delaware Avenue, with MGM Delaware Avenue law firm occupying Suite 200 directly below the FBI Suite 300.
 
 Anchored Artifacts: A-1469.6
-Related Nodes: N-10360
+Related Nodes: N-10289
 Investigative Direction: Identify the FBI tenant at 500 Delaware Avenue via federal lease records; confirm MGM Delaware Avenue's suite location.
 
 ---
@@ -960,7 +960,7 @@ Claim Timestamp: 00:38:00
 Claim: Per the Ace Partners website, the firm's mission is to identify, invest in, and support startups in aerospace and defense technology with a specific focus on Israel.
 
 Anchored Artifacts: A-1472.1
-Related Nodes: N-10360
+Related Nodes: N-10289
 Investigative Direction: Verify the current Ace Partners portfolio and confirm Satys as a portfolio company; cross-reference Israeli corporate registry.
 
 ---
@@ -972,8 +972,8 @@ Claim Timestamp: 00:39:55
 Claim: Brigitte Macron opened Paris Design Week on September 4, 2025, with the French Minister of Culture.
 
 Anchored Artifacts: A-1475.1
-Mentions: N-117
-Related Nodes: N-10365
+Mentions: N-82
+Related Nodes: N-10294
 Investigative Direction: Verify via Paris Design Week official programming and French Ministry of Culture announcements.
 
 ---
@@ -985,8 +985,8 @@ Claim Timestamp: 00:39:55
 Claim: Brigitte Macron was photographed with Ukrainian President Zelensky on September 4, 2025, during an interstate meeting that also included a Saudi Arabia orchestra event.
 
 Anchored Artifacts: A-1475.2
-Mentions: N-117
-Related Nodes: N-10365
+Mentions: N-82
+Related Nodes: N-10294
 Investigative Direction: Verify via Élysée Palace official photo archive; cross-check date and location with Ukrainian presidential records.
 
 ---
@@ -998,7 +998,7 @@ Claim Timestamp: 00:47:39
 Claim: On Patrick Bet-David's podcast, Adam Sosnick stated that Candace Owens has burned bridges with Turning Point USA, the Daily Wire, PragerU, Charlie Kirk, and Steven Crowder, and cannot be defended by named public figures.
 
 Anchored Artifacts: A-1473.1
-Mentions: N-88, N-451, N-406, N-3, N-1
+Mentions: N-57, N-288, N-265, N-3, N-1
 Investigative Direction: Obtain the full podcast segment; assess whether Sosnick's bridge-burning claims are factually substantiated; verify named relationships with past colleagues.
 
 ---
@@ -1010,8 +1010,8 @@ Claim Timestamp: 00:56:17
 Claim: Eric Bolling sent an apology email to Candace Owens's PR in which he blamed "that Alex guy" (identified in the episode as Adam Sosnick) for the on-air conflict and said Bolling did not even know Sosnick's name at the time of recording.
 
 Anchored Artifacts: A-1474.1
-Mentions: N-451, N-453, N-3
-Related Nodes: N-10368
+Mentions: N-288, N-289, N-3
+Related Nodes: N-10297
 Investigative Direction: Verify authenticity of the email; corroborate Bolling's claim that he initially called Sosnick "Sam"; obtain the full original PBD segment context.
 
 ---
@@ -1024,7 +1024,7 @@ Claim: Of approximately 24,856 voters in a YouTube live poll asking "Do you thin
 
 Anchored Artifacts: A-1476.1
 Mentions: N-3
-Related Nodes: N-10366
+Related Nodes: N-10295
 Investigative Direction: Treat as audience-opinion snapshot only; not a factual claim. Useful for tracking audience sentiment, not as evidence of underlying claim.
 
 ---

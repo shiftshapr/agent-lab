@@ -31,8 +31,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10572",
-            "N-10574"
+            "N-10501",
+            "N-10503"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -59,8 +59,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-298",
-            "N-10573"
+            "N-208",
+            "N-10502"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -86,9 +86,9 @@
             "C-2352"
           ],
           "related_nodes": [
-            "N-916",
-            "N-298",
-            "N-10573"
+            "N-569",
+            "N-208",
+            "N-10502"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -116,7 +116,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-70"
+            "N-41"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -144,7 +144,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-70"
+            "N-41"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,8 +195,8 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-75",
-            "N-298"
+            "N-46",
+            "N-208"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -223,10 +223,10 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-298",
-            "N-916",
-            "N-42",
-            "N-10573"
+            "N-208",
+            "N-569",
+            "N-14",
+            "N-10502"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -250,8 +250,8 @@
           "related_claims": [],
           "related_nodes": [
             "N-2",
-            "N-364",
-            "N-10576"
+            "N-242",
+            "N-10505"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -277,9 +277,9 @@
             "C-2362"
           ],
           "related_nodes": [
-            "N-919",
-            "N-920",
-            "N-789"
+            "N-571",
+            "N-572",
+            "N-504"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -319,8 +319,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-75",
-      "ref": "N-75",
+      "@id": "N-46",
+      "ref": "N-46",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Subject of viral Piers Morgan interview clip; made statements on Charlie Kirk's changed position on Israel.",
@@ -342,8 +342,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-298",
-      "ref": "N-298",
+      "@id": "N-208",
+      "ref": "N-208",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Interviewer in the Megyn Kelly clip artifact.",
@@ -357,13 +357,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-75"
+        "N-46"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-916",
-      "ref": "N-916",
+      "@id": "N-569",
+      "ref": "N-569",
       "name": "Lynn Forester de Rothschild",
       "type": "person",
       "description": "Subject of Epstein document entry listing her as Corcoran Group Inc. President.",
@@ -379,13 +379,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10573"
+        "N-10502"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-917",
-      "ref": "N-917",
+      "@id": "N-570",
+      "ref": "N-570",
       "name": "Pamela Liebman",
       "type": "person",
       "description": "Per unnamed TikToker, the publicly identified President and CEO of the Corcoran Group since 2000.",
@@ -400,14 +400,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-916",
-        "N-10573"
+        "N-569",
+        "N-10502"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-903",
-      "ref": "N-903",
+      "@id": "N-563",
+      "ref": "N-563",
       "name": "Aubrey Lech",
       "type": "person",
       "description": "Former Turning Point USA employee; subject of recorded private investigator visit to her home.",
@@ -423,13 +423,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-920"
+        "N-572"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-919",
-      "ref": "N-919",
+      "@id": "N-571",
+      "ref": "N-571",
       "name": "\"Mike\" (Private Investigator)",
       "type": "person",
       "description": "Unidentified individual recorded outside Aubrey Lich's home stating a legal firm asked him to photograph the property.",
@@ -445,13 +445,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-903"
+        "N-563"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-920",
-      "ref": "N-920",
+      "@id": "N-572",
+      "ref": "N-572",
       "name": "TikToker (Unnamed)",
       "type": "person",
       "description": "Creator of A-1769.1 video presenting Corcoran Group / Epstein document findings about Erika Kirk.",
@@ -469,8 +469,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Turning Point USA figure; posted \"Superman neck\" on X (post referenced, not displayed).",
@@ -485,13 +485,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-10576"
+        "N-10505"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-364",
-      "ref": "N-364",
+      "@id": "N-242",
+      "ref": "N-242",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Referenced by host as recipient of an alleged false statement from Erika Kirk about Charlie's pre-death text messages.",
@@ -504,13 +504,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-10576"
+        "N-10505"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-65",
-      "ref": "N-65",
+      "@id": "N-36",
+      "ref": "N-36",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Referenced by host in connection with alleged Hamptons call and a cancelled Palm Beach filming session.",
@@ -523,13 +523,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-10576"
+        "N-10505"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-281",
-      "ref": "N-281",
+      "@id": "N-199",
+      "ref": "N-199",
       "name": "Lee Trotter",
       "type": "person",
       "description": "Surgeon; host alleges Erika initiated three-way call with Trotter and Andrew Kolvet on day of Charlie's funeral re: bullet trajectory.",
@@ -542,14 +542,14 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-42",
-        "N-10576"
+        "N-14",
+        "N-10505"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-789",
-      "ref": "N-789",
+      "@id": "N-504",
+      "ref": "N-504",
       "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "Turning Point USA CMO; host references her questioning of Aubrey Lich regarding an Uber ride.",
@@ -561,13 +561,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-903"
+        "N-563"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10572",
-      "ref": "N-10572",
+      "@id": "N-10501",
+      "ref": "N-10501",
       "name": "Erika Kirk Real Estate License Timing Question",
       "type": "investigation_target",
       "description": "Discrepancy between Erika's NY real estate license issuance (presumed October 24, 2018) and the same month as her first dating of Charlie Kirk.",
@@ -588,8 +588,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10573",
-      "ref": "N-10573",
+      "@id": "N-10502",
+      "ref": "N-10502",
       "name": "Erika Kirk Corcoran Group Employment Verification",
       "type": "investigation_target",
       "description": "Persistent question regarding Erika Kirk's stated real estate career at Corcoran Group and overlapping Epstein document listing of Lynn Forester de Rothschild as Corcoran Group Inc. President.",
@@ -609,14 +609,14 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-916",
-        "N-917"
+        "N-569",
+        "N-570"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10574",
-      "ref": "N-10574",
+      "@id": "N-10503",
+      "ref": "N-10503",
       "name": "Erika Kirk September 10 Assistant Pull-Back Investigation",
       "type": "investigation_target",
       "description": "Host-asserted but not artifact-anchored: Tracy Martin allegedly withdrew her daughter (Erika's assistant) from the UVU event due to a \"bad feeling.\"",
@@ -633,8 +633,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10575",
-      "ref": "N-10575",
+      "@id": "N-10504",
+      "ref": "N-10504",
       "name": "Erika Kirk Educational Timeline Verification Gap",
       "type": "investigation_target",
       "description": "Host's call for verification: multiple universities listed (Regis, Loyola Marymount, Arizona State, Liberty) with no corroborating witnesses.",
@@ -651,8 +651,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10576",
-      "ref": "N-10576",
+      "@id": "N-10505",
+      "ref": "N-10505",
       "name": "Erika Kirk Post-Assassination Conduct Composite",
       "type": "investigation_target",
       "description": "Composite investigation target covering host allegations regarding: (a) three-way funeral-day call with Dr. Lee Trotter, (b) alleged false statement to Glenn Beck, (c) alleged memory lapse regarding Hamptons Bibi Netanyahu call, (d) \"Superman neck\" framing.",
@@ -667,10 +667,10 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-42",
-        "N-364",
-        "N-65",
-        "N-281"
+        "N-14",
+        "N-242",
+        "N-36",
+        "N-199"
       ]
     },
     {
@@ -691,8 +691,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-41",
+      "ref": "N-41",
       "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
@@ -707,8 +707,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-37",
-      "ref": "N-37",
+      "@id": "N-11",
+      "ref": "N-11",
       "name": "Tyler Bowyer",
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
@@ -722,8 +722,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-537",
-      "ref": "N-537",
+      "@id": "N-333",
+      "ref": "N-333",
       "name": "Hunter Kozak",
       "type": "person",
       "description": "Audience member at CBS town hall identified by host as the questioner who asked Charlie Kirk his last question prior to the assassination.",
@@ -738,8 +738,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-890",
-      "ref": "N-890",
+      "@id": "N-557",
+      "ref": "N-557",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
@@ -754,8 +754,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-908",
-      "ref": "N-908",
+      "@id": "N-565",
+      "ref": "N-565",
       "name": "Tracy Martin's Daughter (Unnamed)",
       "type": "person",
       "description": "Allegedly Erica Kirk's assistant; reportedly scheduled to attend UVU on September 10, 2025.",
@@ -770,8 +770,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10556",
-      "ref": "N-10556",
+      "@id": "N-10485",
+      "ref": "N-10485",
       "name": "Erika Kirk September 10 Alibi Investigation",
       "type": "investigation_target",
       "description": "Persistent target. Host's claim that Erika was with Tracy Martin, not Lorie Fonfe, on September 10 rests on tips and Tracy Martin's self-reported friendship. No direct artifact in this episode anchors the alibi location claim itself.",
@@ -797,14 +797,14 @@
         "A-1769.1"
       ],
       "related_nodes": [
-        "N-10573"
+        "N-10502"
       ],
       "tags": [],
       "claim_timestamp": "00:26:41",
       "investigative_direction": "Obtain and verify the original USA Today article and confirm Erika's stated tenure and role at Corcoran.",
       "mentions_person_refs": [
         "N-2",
-        "N-917",
+        "N-570",
         "N-1"
       ]
     },
@@ -819,14 +819,14 @@
         "A-1769.1"
       ],
       "related_nodes": [
-        "N-10573"
+        "N-10502"
       ],
       "tags": [],
       "claim_timestamp": "00:27:38",
       "investigative_direction": "Locate the underlying Epstein document entry and verify the document identifier, page, and original source.",
       "mentions_person_refs": [
-        "N-916",
-        "N-917"
+        "N-569",
+        "N-570"
       ]
     },
     {
@@ -839,7 +839,7 @@
         "A-1763.1"
       ],
       "related_nodes": [
-        "N-10572"
+        "N-10501"
       ],
       "tags": [],
       "claim_timestamp": "00:31:35",
@@ -863,7 +863,7 @@
       "investigative_direction": "Compare memorial account against contemporaneous text records between Bowyer and host.",
       "mentions_person_refs": [
         "N-2",
-        "N-37",
+        "N-11",
         "N-1"
       ]
     },
@@ -918,8 +918,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-75",
-        "N-298"
+        "N-46",
+        "N-208"
       ]
     },
     {
@@ -937,8 +937,8 @@
       "investigative_direction": "Locate any corroborating communications (messages, recordings) between Kelly and Charlie Kirk on Israel topics.",
       "mentions_person_refs": [
         "N-1",
-        "N-75",
-        "N-298"
+        "N-46",
+        "N-208"
       ]
     },
     {
@@ -956,8 +956,8 @@
       "investigative_direction": "Identify the parties alleged to have applied pressure; obtain any public or private documentation of the pressure campaign.",
       "mentions_person_refs": [
         "N-3",
-        "N-75",
-        "N-298"
+        "N-46",
+        "N-208"
       ]
     },
     {
@@ -975,8 +975,8 @@
       "investigative_direction": "Verify against Kelly's guest appearance logs.",
       "mentions_person_refs": [
         "N-3",
-        "N-75",
-        "N-298"
+        "N-46",
+        "N-208"
       ]
     },
     {
@@ -989,14 +989,14 @@
         "A-1769.1"
       ],
       "related_nodes": [
-        "N-10573"
+        "N-10502"
       ],
       "tags": [],
       "claim_timestamp": "00:26:41",
       "investigative_direction": "Pursue independently whether any financial records connect Erika Kirk, Corcoran Group, or related entities to unusual payment flows.",
       "mentions_person_refs": [
         "N-2",
-        "N-920"
+        "N-572"
       ]
     },
     {
@@ -1013,8 +1013,8 @@
       "claim_timestamp": "00:37:32",
       "investigative_direction": "Identify the legal firm referenced; determine whether this individual is licensed as a process server or private investigator.",
       "mentions_person_refs": [
-        "N-903",
-        "N-919"
+        "N-563",
+        "N-571"
       ]
     },
     {
@@ -1032,7 +1032,7 @@
       "investigative_direction": "Cross-reference host concurrence with other artifact-backed accounts of Charlie Kirk's pre-death Israel position.",
       "mentions_person_refs": [
         "N-3",
-        "N-75",
+        "N-46",
         "N-1"
       ]
     },
@@ -1044,7 +1044,7 @@
       "claim": "The host says it is a fact that Erika Kirk's assistant, the daughter of Tracy Martin, whom she chooses not to name, was supposed to go to UVU on September 10, which she says tracks with Erika's admission that she also considered going.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10556"
+        "N-10485"
       ],
       "tags": [],
       "claim_timestamp": "00:04:05",
@@ -1053,8 +1053,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-890",
-        "N-908"
+        "N-557",
+        "N-565"
       ]
     },
     {
@@ -1073,7 +1073,7 @@
         "N-3",
         "N-1",
         "N-2",
-        "N-537"
+        "N-333"
       ]
     }
   ],

@@ -34,7 +34,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1772, A-1773, A-1774, A-1775, A-1776, A-1777, A-1778, A-1779
   - Claim Range: C-2364–C-2377
-  - New Nodes Introduced:  N-936, N-940, N-10577, N-10578, N-10579, N-10580, N-10581
+  - New Nodes Introduced:  N-574, N-575, N-10506, N-10507, N-10508, N-10509, N-10510
   - Reused Nodes Appearing: 
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)
 
@@ -64,7 +64,7 @@ Confidence Level: High
 
 Text read on air: "It is time for Mrs. Erika Kirk to sue Candace Owens. She has gone too far."
 
-*Related: C-2366, N-91, N-2*
+*Related: C-2366, N-60, N-2*
 
 ---
 
@@ -78,7 +78,7 @@ Video Timestamp: 00:03:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2364, C-2365, N-1, N-2, N-10577*
+*Related: C-2364, C-2365, N-1, N-2, N-10506*
 
 ---
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:04:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2365, C-2367, N-2, N-364, N-10577*
+*Related: C-2365, C-2367, N-2, N-242, N-10506*
 
 **A-1774.2** Segment: Erika Kirk denying Charlie sent messages that "they're going to get me"; asserting she possesses his cell phone
 
@@ -102,7 +102,7 @@ Video Timestamp: 00:21:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2369, C-2377, N-2, N-364, N-10578*
+*Related: C-2369, C-2377, N-2, N-242, N-10507*
 
 ---
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:10:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2368, N-2, N-313, N-10580*
+*Related: C-2368, N-2, N-215, N-10509*
 
 **A-1775.2** Segment: Jesse Watters asking "Tell me about the day before the shooting"; Erika's edited response mentioning priest/dinner, death threats, Erika's mother in Phoenix, Charlie saying "Home needs you"
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:16:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2368, N-2, N-313, N-10580*
+*Related: C-2368, N-2, N-215, N-10509*
 
 ---
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:29:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2371, N-909*
+*Related: C-2371, N-566*
 
 **A-1776.2** Segment: Carrie Prejean Bowler stating "I'm a Catholic and Catholics do not embrace Zionism"
 
@@ -150,7 +150,7 @@ Video Timestamp: 00:30:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2371, N-909*
+*Related: C-2371, N-566*
 
 ---
 
@@ -166,7 +166,7 @@ Confidence Level: High
 
 Text excerpt: "Carrie Preaching Baller has been removed from President Trump's religious liberty commission… No member of the commission has the right to hijack a hearing for their own personal and political agenda on any issue."
 
-*Related: C-2370, N-909, N-936*
+*Related: C-2370, N-566, N-574*
 
 ---
 
@@ -180,7 +180,7 @@ Video Timestamp: 00:37:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2372, C-2373, C-2374, C-2376, N-2, N-940, N-10581*
+*Related: C-2372, C-2373, C-2374, C-2376, N-2, N-575, N-10510*
 
 ---
 
@@ -194,14 +194,14 @@ Video Timestamp: 00:42:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2375, N-10581*
+*Related: C-2375, N-10510*
 
 ---
 
 ## IV. Node Register
 
 
-**N-91** Laura Loomer
+**N-60** Laura Loomer
 
 Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.
 
@@ -214,7 +214,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-909** Carrie Prejean Bowler
+**N-566** Carrie Prejean Bowler
 
 Catholic activist and former Miss California; removed from the White House Religious Liberty Commission following a hearing where she challenged the IHRA definition of anti-Semitism.
 
@@ -227,7 +227,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-936** Dan Patrick
+**N-574** Dan Patrick
 
 Texas Lieutenant Governor; announced Carrie Prejean Bowler's removal from the Religious Liberty Commission on X.
 
@@ -240,7 +240,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-313** Jesse Watters
+**N-215** Jesse Watters
 
 Fox News host; interviewer in the Fox News interview clip of Erika Kirk discussed in this episode.
 
@@ -253,7 +253,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-364** Glenn Beck
+**N-242** Glenn Beck
 
 Host of the December 12, 2025 interview in which Erika Kirk appeared in Charlie Kirk's home office.
 
@@ -266,7 +266,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-940** "Matt" (TPUSA Halftime Show Producer)
+**N-575** "Matt" (TPUSA Halftime Show Producer)
 
 First-name-only reference by an informant to the producer of the TPUSA All-American Halftime Show, who reportedly hyped the crowd and promised Trump viewership.
 
@@ -279,7 +279,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10577** Wedding Photo Disappearance Discrepancy
+**N-10506** Wedding Photo Disappearance Discrepancy
 
 Persistent investigation target: a wedding photo of Charlie and Erika Kirk was visible in the background of Charlie's home studio during the September 8, 2025 broadcast, but absent from the same background during Erika Kirk's December 12, 2025 Glenn Beck interview conducted from that office. Three competing explanations are advanced in the episode: (A) Andrew Kolvet moved it; (B) Erika moved it; (C) Charlie himself moved it on September 9, 2025.
 
@@ -292,7 +292,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10578** Charlie Kirk Phone Access Question
+**N-10507** Charlie Kirk Phone Access Question
 
 Investigation target: Charlie Kirk's cell phone has not been publicly seized by law enforcement; Erika Kirk publicly claims to possess it. The episode asserts she used it as a prop during the Glenn Beck interview ("And I have his cell phone") to deny that Charlie sent pre-death messages.
 
@@ -305,7 +305,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10579** Tyler Robinson Evidence Sufficiency Question
+**N-10508** Tyler Robinson Evidence Sufficiency Question
 
 Investigation target: Candace Owens' standing claim, restated in this episode, that no public evidence has been produced tying Tyler Robinson to the assassination, and that the case serves as the "final thing" before broader institutional collapse concerns crystallize. (Inscribed only as a target; the claim itself is interpretive commentary and is not inscribed as a C-claim.)
 
@@ -318,7 +318,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10580** September 9, 2025 Night Activity Reconstruction Question
+**N-10509** September 9, 2025 Night Activity Reconstruction Question
 
 Investigation target: reconciliation of competing accounts of what occurred the night before the assassination – specifically Erika's account (midnight Tokyo return, snack at 2:45 a.m., toddler bedroom swap, wedding ring removal, prayer with priest before tour); Candace Owens' speculation of an argument related to Charlie's pivot on Israel; and the absence of a clear daytime schedule for September 9, 2025.
 
@@ -331,7 +331,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10581** TPUSA All-American Halftime Show Authenticity Question
+**N-10510** TPUSA All-American Halftime Show Authenticity Question
 
 Investigation target: questions raised in this episode about whether the TPUSA All-American Halftime Show functioned as a genuine live event versus a staged production using camera tricks, audience placement, multiple takes, and modest stipends; whether Erika Kirk's absence from filming is meaningful; and the counter-evidence that Trump was watching the official Bad Bunny halftime show at Mar-a-Lago.
 
@@ -355,7 +355,7 @@ Claim: A wedding photo of Charlie and Erika Kirk was visible in the background o
 Anchored Artifacts: A-1773.1
 Mentions: N-1, N-2
 
-Related Nodes: N-10577
+Related Nodes: N-10506
 
 Investigative Direction: Compare the September 8, 2025 broadcast frame against prior home-studio broadcasts to establish when the wedding photo first appeared and whether it was a permanent fixture.
 
@@ -368,9 +368,9 @@ Claim Timestamp: 00:04:44
 Claim: The wedding photo was absent from the background during Erika Kirk's December 12, 2025 Glenn Beck interview filmed from Charlie Kirk's home office – the same space where it was visible on September 8, 2025.
 
 Anchored Artifacts: A-1774.1, A-1773.1
-Mentions: N-2, N-364, N-1
+Mentions: N-2, N-242, N-1
 
-Related Nodes: N-10577
+Related Nodes: N-10506
 
 Investigative Direction: Obtain the full Glenn Beck segment in higher resolution to confirm the absence; cross-reference any subsequent public appearances from the same office to determine whether the photo ever returned.
 
@@ -383,7 +383,7 @@ Claim Timestamp: 00:01:14
 Claim: Laura Loomer posted on X stating "It is time for Mrs. Erika Kirk to sue Candace Owens. She has gone too far."
 
 Anchored Artifacts: A-1772.1
-Mentions: N-2, N-3, N-91
+Mentions: N-2, N-3, N-60
 
 
 Investigative Direction: Verify the post's existence on X, capture the timestamp, and document whether Erika or TPUSA responded.
@@ -397,9 +397,9 @@ Claim Timestamp: 00:04:44
 Claim: During the December 12, 2025 Glenn Beck interview, Erika Kirk stated she had not been in Charlie's home office "for a very long time."
 
 Anchored Artifacts: A-1774.1
-Mentions: N-2, N-364
+Mentions: N-2, N-242
 
-Related Nodes: N-10577
+Related Nodes: N-10506
 
 Investigative Direction: Compare Erika's "first time back" framing against any other documented visits to the office in the intervening period; check the New York Times home tour piece for prior access claims.
 
@@ -414,7 +414,7 @@ Claim: During a Fox News interview, Erika Kirk stated that Charlie Kirk removed 
 Anchored Artifacts: A-1775.1
 Mentions: N-2, N-1
 
-Related Nodes: N-10580
+Related Nodes: N-10509
 
 Investigative Direction: Obtain the original Fox News segment; check whether jewelry handling on the night before is corroborated by any other witness or by luggage/clothing evidence.
 
@@ -427,9 +427,9 @@ Claim Timestamp: 00:21:54
 Claim: During the December 12, 2025 Glenn Beck interview, Erika Kirk denied that Charlie Kirk had messaged people the day before saying "I'm going to be murdered" or "they're coming after me."
 
 Anchored Artifacts: A-1774.2
-Mentions: N-2, N-364, N-1
+Mentions: N-2, N-242, N-1
 
-Related Nodes: N-10578
+Related Nodes: N-10507
 
 Investigative Direction: Obtain and review the phone records/text messages cited by Candace Owens in prior episodes; cross-reference with the alleged Dan Flood iMessage account.
 
@@ -442,7 +442,7 @@ Claim Timestamp: 00:34:48
 Claim: Carrie Prejean Bowler was removed from the White House Religious Liberty Commission, announced by Dan Patrick on X.
 
 Anchored Artifacts: A-1777.1
-Mentions: N-909, N-936
+Mentions: N-566, N-574
 
 
 Investigative Direction: Verify the official announcement and date; document the stated cause and any subsequent statement from Carrie Prejean Bowler.
@@ -456,7 +456,7 @@ Claim Timestamp: 00:30:14
 Claim: During the Religious Liberty Commission hearing, Carrie Prejean Bowler stated "I'm a Catholic and Catholics do not embrace Zionism."
 
 Anchored Artifacts: A-1776.2
-Mentions: N-909
+Mentions: N-566
 
 
 Investigative Direction: Obtain the full hearing transcript and video; cross-reference against official Catholic teaching documents on Zionism.
@@ -471,7 +471,7 @@ Claim: Per informant testimony, the TPUSA All-American Halftime Show was pre-fil
 
 Anchored Artifacts: A-1778.1
 
-Related Nodes: N-10581
+Related Nodes: N-10510
 
 Investigative Direction: Confirm production location and dates through venue records; compare against TPUSA's own promotional claims about the event.
 
@@ -485,7 +485,7 @@ Claim: Per informant testimony, participants in the TPUSA halftime show were com
 
 Anchored Artifacts: A-1778.1
 
-Related Nodes: N-10581
+Related Nodes: N-10510
 
 Investigative Direction: Cross-reference any 1099 or payment records; compare to industry-standard compensation for halftime show performers.
 
@@ -500,7 +500,7 @@ Claim: Per informant testimony, Erika Kirk was not present during the TPUSA half
 Anchored Artifacts: A-1778.1
 Mentions: N-2
 
-Related Nodes: N-10581
+Related Nodes: N-10510
 
 Investigative Direction: Confirm via TPUSA production schedules, attendee lists, or on-site photography whether Erika had any documented presence during filming.
 
@@ -515,7 +515,7 @@ Claim: A photograph shows Donald Trump at Mar-a-Lago during the Super Bowl broad
 Anchored Artifacts: A-1779.1
 Mentions: N-5
 
-Related Nodes: N-10581
+Related Nodes: N-10510
 
 Investigative Direction: Confirm photograph provenance and timestamp; cross-reference with Trump's public schedule for the evening.
 
@@ -529,7 +529,7 @@ Claim: Per informant testimony, songs at the TPUSA halftime show filming require
 
 Anchored Artifacts: A-1778.1
 
-Related Nodes: N-10581
+Related Nodes: N-10510
 
 Investigative Direction: Corroborate with any production logs, call sheets, or additional witness testimony.
 
@@ -542,9 +542,9 @@ Claim Timestamp: 00:21:54
 Claim: During the December 12, 2025 Glenn Beck interview, Erika Kirk stated "And I have his cell phone" in the context of denying that Charlie sent pre-death messages.
 
 Anchored Artifacts: A-1774.2
-Mentions: N-2, N-364, N-1
+Mentions: N-2, N-242, N-1
 
-Related Nodes: N-10578
+Related Nodes: N-10507
 
 Investigative Direction: Determine whether Charlie Kirk's phone was ever in law enforcement custody and returned to Erika; subpoena carrier records for relevant period.
 
@@ -556,7 +556,7 @@ Investigative Direction: Determine whether Charlie Kirk's phone was ever in law 
 - A-1773.1 (Sept 8, 2025 home studio broadcast) shows the wedding photo present.
 - A-1774.1 (Dec 12, 2025 Glenn Beck interview, same office) shows the wedding photo absent.
 - A-1774.1 also captures Erika's claim of not having been in the office for a long time.
-- C-2364, C-2365, C-2367 all reference N-10577.
+- C-2364, C-2365, C-2367 all reference N-10506.
 
 This is the central inscribed contradiction of the episode: an artifact-backed before/after paired with a verbal claim that is difficult to reconcile with the visible change in the same physical space.
 
@@ -599,6 +599,6 @@ Confidence: high
 
 - **Claim failed admission test (not inscribed):** Candace Owens' speculation that "Charlie and Erika were arguing that night" over Israel pivot is interpretive commentary drawing on the artifacts but not directly supported by any artifact in this episode; not inscribed.
 
-- **Claim failed admission test (not inscribed):** Candace Owens' claim that Tyler Robinson's case has produced no evidence tying him to the assassination is interpretive commentary; not inscribed as a C-claim, but tracked as investigation target N-10579.
+- **Claim failed admission test (not inscribed):** Candace Owens' claim that Tyler Robinson's case has produced no evidence tying him to the assassination is interpretive commentary; not inscribed as a C-claim, but tracked as investigation target N-10508.
 
 ---

@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 885939e5060d01cec89ba6e17fe5ab38343e86673762e177efb309ef1b930d63
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-590, N-596, N-10429, N-10430, N-10431, N-10432, N-10433, N-10434, N-10435, N-10436, N-10437
-  - Reused Nodes Appearing: N-224, N-3, N-1, N-629, N-5
+  - New Nodes Introduced: N-367, N-368, N-10358, N-10359, N-10360, N-10361, N-10362, N-10363, N-10364, N-10365, N-10366
+  - Reused Nodes Appearing: N-162, N-3, N-1, N-388, N-5
   - (see registers)
 
 ## 2. Executive Summary
@@ -50,7 +50,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Read aloud on air by the host. Contains attributed quotation: "Absolutely, the bullet should have gone through... His bone was so healthy and the density was so, so impressive that he's like the man of steel." Quotation framed as having come from "the surgeon."
 
-*Related: C-1960, N-590, N-281, N-10429*
+*Related: C-1960, N-367, N-199, N-10358*
 
 ---
 
@@ -63,7 +63,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Audio clip played on air. Turek states: "They roped off the vehicle that we took out of there as a crime scene... we couldn't get into the vehicle until the FBI cleared it... draped over my bag was Charlie's necklace that had a cross and medallions on it."
 
-*Related: C-1961, C-1962, N-16, N-10433*
+*Related: C-1961, C-1962, N-7, N-10362*
 
 ---
 
@@ -76,7 +76,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Video clip played on air. Coleman defines SAM (Special Air Mission) call signs, states SAM000 is rarely used and indicates highly sensitive VIP manifests. Displayed on screen: flight landing Las Vegas at 4:48 p.m. local time on August 25 with SAM000 call sign; RCH658 flight departing Las Vegas at 3:14 p.m. on August 26 with missing transponder data; landing in Colorado Springs; subsequent SAM658 return flight to Joint Base Andrews. Coleman states SAM000 on August 25 flew "from Joint Base Andrews to Colorado Springs."
 
-*Related: C-1963, C-1964, C-1965, C-1966, N-552, N-10434, N-10435, N-10436*
+*Related: C-1963, C-1964, C-1965, C-1966, N-337, N-10363, N-10364, N-10365*
 
 ---
 
@@ -89,7 +89,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Audio clip played on air. Harpole states: "the 24th of the month prior... that first information came in on the 24th and then the information share starts." Host frames this as the same date Operation Valhalla Strike began (Aug 24).
 
-*Related: C-1967, N-424, N-10436, N-10437*
+*Related: C-1967, N-272, N-10365, N-10366*
 
 ---
 
@@ -104,14 +104,14 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Description: Six photographs held by the host. Host states at ~31:17 that the team considered displaying one described as "the back row" photo that is "not so gory." A photo is briefly displayed on screen.
 
-*Related: C-1968, N-10433*
+*Related: C-1968, N-10362*
 
 ---
 
 ## 4. Node Register
 
 
-**N-590** Andrew Colberg
+**N-367** Andrew Colberg
 
 X user whose attributed "man of steel" quotation post is contested by host sources as not being a direct surgeon statement.
 
@@ -120,11 +120,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1552.1, C-1960, N-10429*
+*Related: A-1552.1, C-1960, N-10358*
 
 ---
 
-**N-281** Lee Trotter
+**N-199** Lee Trotter
 
 Surgeon named on air as having performed the procedure on Charlie Kirk at Timpanogos Regional Hospital. Alleged by host sources to have communicated a frangible-bullet theory rather than the "man of steel" quotation.
 
@@ -133,11 +133,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1552.1, C-1960, N-10429*
+*Related: A-1552.1, C-1960, N-10358*
 
 ---
 
-**N-16** Frank Turek
+**N-7** Frank Turek
 
 Passenger in the vehicle transporting Charlie Kirk; source of on-air statements regarding FBI clearance of the vehicle and discovery of Charlie's necklace.
 
@@ -146,11 +146,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1553.1, C-1961, C-1962, N-10433*
+*Related: A-1553.1, C-1961, C-1962, N-10362*
 
 ---
 
-**N-552** Baron Coleman
+**N-337** Baron Coleman
 
 Video creator whose segment on SAM call signs and August 25–26 flight logs is played on air.
 
@@ -159,11 +159,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1554.1, C-1963, C-1964, C-1965, C-1966, N-10434, N-10435*
+*Related: A-1554.1, C-1963, C-1964, C-1965, C-1966, N-10363, N-10364*
 
 ---
 
-**N-424** Brian Harpole
+**N-272** Brian Harpole
 
 Security contractor named as having begun UVU event intel gathering on August 24 per his own statement; named by an unnamed eyewitness ("Elvis guy") as allegedly observed at a September 9 meeting.
 
@@ -172,11 +172,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1555.1, C-1967, N-10436*
+*Related: A-1555.1, C-1967, N-10365*
 
 ---
 
-**N-596** Harry
+**N-368** Harry
 
 Producer/investigator on host's team referenced by name regarding Fort Huachuca inquiry and the upcoming eyewitness testimony segment.
 
@@ -185,11 +185,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-10436*
+*Related: N-10365*
 
 ---
 
-**N-224** Blake Neff
+**N-162** Blake Neff
 
 Person the host names while answering a super chat, as having described a phone-call moment with Mikey that the host identifies as inconsistent with a three-way call. No artifact shown. Flagged for human verification.
 
@@ -202,7 +202,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-98** Mark Herman (director, Candace show)
+**N-67** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host defers to him ("I'm letting you Mark make a decision here") on whether to show one of six photos of the transport vehicle interior on air. No claim anchor; registered for cross-episode continuity.
 
@@ -215,7 +215,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10429** Surgeon Quotation Authenticity Question
+**N-10358** Surgeon Quotation Authenticity Question
 
 Discrepancy between the quotation attributed to "the surgeon" on Colberg's X post (A-1552.1) and host sources' claim that no such statement was made by Dr. Lee Trotter.
 
@@ -224,11 +224,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1552.1, C-1960, N-590, N-281*
+*Related: A-1552.1, C-1960, N-367, N-199*
 
 ---
 
-**N-10430** Hospital Federal Access Question
+**N-10359** Hospital Federal Access Question
 
 Allegation that federal officers at Timpanogos Regional Hospital blocked Dr. Lee Trotter from returning to the operating room, and that a phone call to a political figure resulted in stand-down orders.
 
@@ -237,11 +237,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-281*
+*Related: N-199*
 
 ---
 
-**N-10431** Gun Discovery Procedure Question
+**N-10360** Gun Discovery Procedure Question
 
 Allegation that bomb dogs from the Pleasant Grove sheriff's department cleared the area without finding the gun, and that federal officers then directed three officers with combined experience of less than 1.5 years to re-search the area, after which the gun was found. Also: Freya's "condensed scent trace" methodology.
 
@@ -254,7 +254,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10432** White Toyota RAV4 FBI Badge Question
+**N-10361** White Toyota RAV4 FBI Badge Question
 
 Allegation that shortly after the shot, an officer pulled over a white Toyota RAV4 and the driver flashed an FBI badge, ending the encounter.
 
@@ -267,7 +267,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10433** Vehicle Disposition Question
+**N-10362** Vehicle Disposition Question
 
 Allegation that the transport vehicle was towed, then quickly moved for cleaning and auction without insurance inspection, and that the rental company owner instructed it never be returned to the facility.
 
@@ -276,11 +276,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1553.1, A-1556.1, N-16*
+*Related: A-1553.1, A-1556.1, N-7*
 
 ---
 
-**N-10434** SAM000 Flight Manifest Question
+**N-10363** SAM000 Flight Manifest Question
 
 Discrepancy in Coleman's segment between stated route ("from Joint Base Andrews to Colorado Springs") and displayed log (landing Las Vegas 4:48 p.m. on August 25). Manifest of the SAM000 passenger(s) remains unknown.
 
@@ -289,11 +289,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1554.1, C-1964, N-552*
+*Related: A-1554.1, C-1964, N-337*
 
 ---
 
-**N-10435** SAM658/RCH658 Call Sign Switch Question
+**N-10364** SAM658/RCH658 Call Sign Switch Question
 
 Coleman display shows RCH658 designation on Las Vegas departure and SAM658 designation on return leg to Andrews, which Coleman's framework ties to VIP boarding/deboarding at the Colorado Springs stop.
 
@@ -302,11 +302,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1554.1, C-1965, C-1966, N-552*
+*Related: A-1554.1, C-1965, C-1966, N-337*
 
 ---
 
-**N-10436** Sept 9 Fort Huachuca Meeting Question
+**N-10365** Sept 9 Fort Huachuca Meeting Question
 
 Alleged meeting reportedly observed by unnamed "Elvis guy" eyewitness; tied by host to alleged Sept 9 SAM jet presence and to Brian Harpole's whereabouts.
 
@@ -315,11 +315,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1554.1, A-1555.1, N-552, N-424, N-596*
+*Related: A-1554.1, A-1555.1, N-337, N-272, N-368*
 
 ---
 
-**N-10437** Operation Valhalla Strike
+**N-10366** Operation Valhalla Strike
 
 Host statement that a military exercise named Operation Valhalla Strike ran August 24–27, 2025. Coincides on August 24 with Brian Harpole's stated start of UVU event intelligence gathering (A-1555.1).
 
@@ -328,7 +328,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1555.1, C-1967, N-424*
+*Related: A-1555.1, C-1967, N-272*
 
 ---
 
@@ -341,9 +341,9 @@ Claim Timestamp: 00:03:52
 Claim: Andrew Colberg's X post contains a quotation attributed to "the surgeon" describing Charlie Kirk's neck bone as "so healthy and the density was so, so impressive that he's like the man of steel," and stating the bullet "should have just gone through and through."
 
 Anchored Artifacts: A-1552.1
-Mentions: N-281, N-590, N-1
+Mentions: N-199, N-367, N-1
 
-Related Nodes: N-10429
+Related Nodes: N-10358
 
 Investigative Direction: Obtain original Colberg post via direct retrieval or archive, and compare against any direct surgeon statements or hospital records.
 
@@ -356,9 +356,9 @@ Claim Timestamp: 00:27:47
 Claim: Frank Turek states on a podcast that the transport vehicle was roped off as a crime scene and that he could not access it until the FBI cleared it, at which point he retrieved his computer bag.
 
 Anchored Artifacts: A-1553.1
-Mentions: N-16
+Mentions: N-7
 
-Related Nodes: N-10433
+Related Nodes: N-10362
 
 Investigative Direction: Cross-reference with FBI case file records, impound logs, and any Megyn Kelly show segment timestamps.
 
@@ -371,9 +371,9 @@ Claim Timestamp: 00:27:47
 Claim: Frank Turek states on a podcast that Charlie's necklace, bearing a cross and medallions, was draped over his computer bag inside the transport vehicle, and that he handed it to a police officer who stated they had been searching for it.
 
 Anchored Artifacts: A-1553.1
-Mentions: N-16
+Mentions: N-7
 
-Related Nodes: N-10433
+Related Nodes: N-10362
 
 Investigative Direction: Verify against any chain-of-custody documentation for Charlie's personal effects.
 
@@ -386,9 +386,9 @@ Claim Timestamp: 00:36:19
 Claim: Baron Coleman states that SAM000 is a rarely used Special Air Mission call sign reserved for highly sensitive passenger manifests where the White House or US Air Force wish to be deliberately vague about who is aboard.
 
 Anchored Artifacts: A-1554.1
-Mentions: N-552
+Mentions: N-337
 
-Related Nodes: N-10434
+Related Nodes: N-10363
 
 Investigative Direction: Cross-check against USAF flight plan records and ATC telephonic call sign logs.
 
@@ -401,9 +401,9 @@ Claim Timestamp: 00:38:14
 Claim: Baron Coleman states that on August 25, 2025, a flight using the SAM000 call sign operated from Joint Base Andrews toward Colorado Springs, the location of the 10th Special Forces Group.
 
 Anchored Artifacts: A-1554.1
-Mentions: N-552
+Mentions: N-337
 
-Related Nodes: N-10434, N-10436
+Related Nodes: N-10363, N-10365
 
 Investigative Direction: Obtain raw flight plan and ATC records to verify origin, call sign, and destination.
 
@@ -416,9 +416,9 @@ Claim Timestamp: 00:39:24
 Claim: Baron Coleman displays a flight log showing an aircraft departing Las Vegas on August 26, 2025 at 3:14 p.m. under the call sign RCH658, with transponder data missing before landing at Colorado Springs.
 
 Anchored Artifacts: A-1554.1
-Mentions: N-552
+Mentions: N-337
 
-Related Nodes: N-10434, N-10435
+Related Nodes: N-10363, N-10364
 
 Investigative Direction: Obtain radar track records and ADS-B exchange logs for August 26 to verify route and transponder gap.
 
@@ -431,9 +431,9 @@ Claim Timestamp: 00:39:24
 Claim: Baron Coleman displays a flight log showing the same aircraft returning from Colorado Springs to Joint Base Andrews under the SAM658 call sign.
 
 Anchored Artifacts: A-1554.1
-Mentions: N-552
+Mentions: N-337
 
-Related Nodes: N-10435
+Related Nodes: N-10364
 
 Investigative Direction: Cross-reference the call sign change with any known VIP boarding or deboarding records at Colorado Springs on August 26.
 
@@ -446,9 +446,9 @@ Claim Timestamp: 00:41:47
 Claim: Brian Harpole states in an interview that the intelligence gathering and preparation process for the UVU event began on August 24, with information sharing and conference calls commencing that date.
 
 Anchored Artifacts: A-1555.1
-Mentions: N-424
+Mentions: N-272
 
-Related Nodes: N-10436, N-10437
+Related Nodes: N-10365, N-10366
 
 Investigative Direction: Corroborate against any contemporaneous operational records and against the Operation Valhalla Strike timeline.
 
@@ -463,7 +463,7 @@ Claim: Candace Owens states that she is in possession of six photographs depicti
 Anchored Artifacts: A-1556.1
 Mentions: N-3, N-1
 
-Related Nodes: N-10433
+Related Nodes: N-10362
 
 Investigative Direction: Establish chain of custody for the photographs and verify provenance and date of capture.
 
@@ -492,8 +492,8 @@ Claim: The host says she has never seen a more extreme cover-up than the Charlie
 Transcript Snippet: I have never seen one more extreme than this Charlie Kirk cover-up that the feds are engaged in.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-629, N-5
-Related Nodes: N-10113
+Mentions: N-3, N-1, N-388, N-5
+Related Nodes: N-10048
 Investigative Direction: Track Bongino's departure announcement and any statement he makes on the Kirk investigation.
 
 ---

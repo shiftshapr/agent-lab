@@ -33,8 +33,8 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-782",
-            "N-10509"
+            "N-499",
+            "N-10438"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -60,8 +60,8 @@
             "C-2184"
           ],
           "related_nodes": [
-            "N-785",
-            "N-10509"
+            "N-501",
+            "N-10438"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -79,7 +79,7 @@
             "C-2185"
           ],
           "related_nodes": [
-            "N-785"
+            "N-501"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -105,12 +105,12 @@
             "C-2186"
           ],
           "related_nodes": [
-            "N-783",
-            "N-639",
-            "N-785",
-            "N-786",
-            "N-10511",
-            "N-10513"
+            "N-500",
+            "N-397",
+            "N-501",
+            "N-502",
+            "N-10440",
+            "N-10442"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -128,9 +128,9 @@
             "C-2187"
           ],
           "related_nodes": [
-            "N-783",
-            "N-639",
-            "N-10511"
+            "N-500",
+            "N-397",
+            "N-10440"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -156,9 +156,9 @@
             "C-2186"
           ],
           "related_nodes": [
-            "N-785",
-            "N-786",
-            "N-10513"
+            "N-501",
+            "N-502",
+            "N-10442"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -184,7 +184,7 @@
             "C-2188"
           ],
           "related_nodes": [
-            "N-70"
+            "N-41"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -212,9 +212,9 @@
             "C-2191"
           ],
           "related_nodes": [
-            "N-42",
-            "N-790",
-            "N-10510"
+            "N-14",
+            "N-505",
+            "N-10439"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -240,9 +240,9 @@
             "C-2192"
           ],
           "related_nodes": [
-            "N-42",
-            "N-789",
-            "N-10510"
+            "N-14",
+            "N-504",
+            "N-10439"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -260,9 +260,9 @@
             "C-2193"
           ],
           "related_nodes": [
-            "N-789",
-            "N-790",
-            "N-10510"
+            "N-504",
+            "N-505",
+            "N-10439"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -295,13 +295,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-10509"
+        "N-10438"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-782",
-      "ref": "N-782",
+      "@id": "N-499",
+      "ref": "N-499",
       "name": "Jaco Booyens",
       "type": "person",
       "description": "Referenced by host as confirming authenticity of A-1669.1.",
@@ -319,8 +319,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-783",
-      "ref": "N-783",
+      "@id": "N-500",
+      "ref": "N-500",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Erica Kirk's mother; 20% stakeholder of record in Desert Spirit Tech LLC; co-filer of Euro Tech in Cincinnati, Ohio.",
@@ -337,16 +337,16 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-639",
+        "N-397",
         "N-2",
-        "N-10511",
-        "N-10512"
+        "N-10440",
+        "N-10441"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-639",
-      "ref": "N-639",
+      "@id": "N-397",
+      "ref": "N-397",
       "name": "Larry Guinta",
       "type": "person",
       "description": "Erica Kirk's stepfather; listed as stakeholder and registered agent of Desert Spirit Tech LLC.",
@@ -363,14 +363,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-783",
-        "N-10511"
+        "N-500",
+        "N-10440"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-785",
-      "ref": "N-785",
+      "@id": "N-501",
+      "ref": "N-501",
       "name": "Lyle Reems",
       "type": "person",
       "description": "Self-identified (per host) as Tohono O'odham Nation member; 1998 indictee for sexual conduct with minor under 15; co-filer of Desert Spirit Tech LLC.",
@@ -391,14 +391,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-786",
-        "N-10511"
+        "N-502",
+        "N-10440"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-786",
-      "ref": "N-786",
+      "@id": "N-502",
+      "ref": "N-502",
       "name": "Shelly Reems",
       "type": "person",
       "description": "Lyle Reems's wife; co-filer of Desert Spirit Tech LLC and Generation Seven Farms.",
@@ -415,13 +415,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-785"
+        "N-501"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "TPUSA figure who confronted employee regarding Uber-driver conversation per A-1675.1.",
@@ -439,13 +439,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10510"
+        "N-10439"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-789",
-      "ref": "N-789",
+      "@id": "N-504",
+      "ref": "N-504",
       "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "Named by host as employee involved in Uber-driver conversation and as participant in the fake-Zoom termination setup per A-1675.2.",
@@ -463,13 +463,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10510"
+        "N-10439"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-790",
-      "ref": "N-790",
+      "@id": "N-505",
+      "ref": "N-505",
       "name": "\"Frank\" (TPUSA General Counsel)",
       "type": "person",
       "description": "Named in termination recording A-1674.1; also referenced in A-1675.2 as general counsel who conducted home-visit termination.",
@@ -487,13 +487,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10510"
+        "N-10439"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10509",
-      "ref": "N-10509",
+      "@id": "N-10438",
+      "ref": "N-10438",
       "name": "Identity of Christian Zionist Donor (Unverified)",
       "type": "investigation_target",
       "description": "Persistent unresolved target: the host states Turning Point USA has not named the sender of A-1669.1.",
@@ -514,8 +514,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10510",
-      "ref": "N-10510",
+      "@id": "N-10439",
+      "ref": "N-10439",
       "name": "TPUSA Termination Cause Investigation",
       "type": "investigation_target",
       "description": "Persistent unresolved target: the actual cause(s) of the TPUSA terminations referenced in A-1674.1, A-1675.1, A-1675.2.",
@@ -538,15 +538,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-42",
-        "N-789",
-        "N-790"
+        "N-14",
+        "N-504",
+        "N-505"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10511",
-      "ref": "N-10511",
+      "@id": "N-10440",
+      "ref": "N-10440",
       "name": "Desert Spirit Tech LLC Business Purpose Question",
       "type": "investigation_target",
       "description": "Persistent unresolved target: stated business activity of Desert Spirit Tech LLC.",
@@ -564,15 +564,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-783",
-        "N-639",
-        "N-785"
+        "N-500",
+        "N-397",
+        "N-501"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10512",
-      "ref": "N-10512",
+      "@id": "N-10441",
+      "ref": "N-10441",
       "name": "Euro Tech / Cincinnati Business Investigation",
       "type": "investigation_target",
       "description": "Persistent unresolved target: the \"Euro Tech\" company Lori Frantzve formed in Cincinnati, Ohio; host indicates it has not been fully examined yet.",
@@ -584,13 +584,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-783"
+        "N-500"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10513",
-      "ref": "N-10513",
+      "@id": "N-10442",
+      "ref": "N-10442",
       "name": "Sacaton \"Rose and Thobe\" Address Verification",
       "type": "investigation_target",
       "description": "Persistent unresolved target: whether 26 Rose and Thobe (Desert Spirit Tech) and 21 Rose and Thobe (Generation Seven Farms) correspond to actual physical addresses.",
@@ -607,15 +607,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-783",
-        "N-785",
-        "N-786"
+        "N-500",
+        "N-501",
+        "N-502"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-41",
+      "ref": "N-41",
       "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
@@ -630,8 +630,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-37",
-      "ref": "N-37",
+      "@id": "N-11",
+      "ref": "N-11",
       "name": "Tyler Bowyer",
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
@@ -661,8 +661,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
@@ -687,13 +687,13 @@
         "A-1669.1"
       ],
       "related_nodes": [
-        "N-10509"
+        "N-10438"
       ],
       "tags": [],
       "claim_timestamp": "00:07:27",
       "investigative_direction": "Obtain the original device or screenshot of the message; identify the sender through metadata or corroborating testimony; determine whether Turning Point USA has internal records of this message.",
       "mentions_person_refs": [
-        "N-50",
+        "N-22",
         "N-3",
         "N-1"
       ]
@@ -714,7 +714,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-782"
+        "N-499"
       ]
     },
     {
@@ -731,7 +731,7 @@
       "claim_timestamp": "00:12:31",
       "investigative_direction": "Pull certified court records from the relevant Arizona county (likely Pinal or Maricopa) to confirm indictment, charges, age of complainant, and disposition details.",
       "mentions_person_refs": [
-        "N-785"
+        "N-501"
       ]
     },
     {
@@ -748,7 +748,7 @@
       "claim_timestamp": "00:12:31",
       "investigative_direction": "Verify dismissal-without-prejudice status in court records; check statute of limitations to determine whether refiling remains a legal possibility.",
       "mentions_person_refs": [
-        "N-785"
+        "N-501"
       ]
     },
     {
@@ -762,17 +762,17 @@
         "A-1672.1"
       ],
       "related_nodes": [
-        "N-10511",
-        "N-10513"
+        "N-10440",
+        "N-10442"
       ],
       "tags": [],
       "claim_timestamp": "00:13:25",
       "investigative_direction": "Pull the certified Arizona Corporation Commission filing for Desert Spirit Tech LLC; identify the actual place of business and any annual reports or amendments.",
       "mentions_person_refs": [
-        "N-639",
-        "N-783",
-        "N-785",
-        "N-786"
+        "N-397",
+        "N-500",
+        "N-501",
+        "N-502"
       ]
     },
     {
@@ -785,14 +785,14 @@
         "A-1671.2"
       ],
       "related_nodes": [
-        "N-10511"
+        "N-10440"
       ],
       "tags": [],
       "claim_timestamp": "00:16:12",
       "investigative_direction": "Obtain the original publication or archival copy of the Arizona Chinese News issue carrying the notice to confirm the stated business activity description.",
       "mentions_person_refs": [
-        "N-639",
-        "N-783"
+        "N-397",
+        "N-500"
       ]
     },
     {
@@ -809,7 +809,7 @@
       "claim_timestamp": "00:21:30",
       "investigative_direction": "Retrieve the original post from X/Twitter (including any deletions or edits) and identify which \"background\" Bowyer was referencing.",
       "mentions_person_refs": [
-        "N-37"
+        "N-11"
       ]
     },
     {
@@ -822,14 +822,14 @@
         "A-1674.1"
       ],
       "related_nodes": [
-        "N-10510"
+        "N-10439"
       ],
       "tags": [],
       "claim_timestamp": "00:26:45",
       "investigative_direction": "Obtain the termination documentation referenced in the audio (\"email with social security and links\" plus year-end bonus in final paycheck); identify the employee and obtain their signed release or separation agreement.",
       "mentions_person_refs": [
-        "N-42",
-        "N-790",
+        "N-14",
+        "N-505",
         "N-1"
       ]
     },
@@ -843,13 +843,13 @@
         "A-1674.1"
       ],
       "related_nodes": [
-        "N-10510"
+        "N-10439"
       ],
       "tags": [],
       "claim_timestamp": "00:27:24",
       "investigative_direction": "Cross-check time-tracking or HR records to verify hours worked.",
       "mentions_person_refs": [
-        "N-790"
+        "N-505"
       ]
     },
     {
@@ -862,13 +862,13 @@
         "A-1674.1"
       ],
       "related_nodes": [
-        "N-10510"
+        "N-10439"
       ],
       "tags": [],
       "claim_timestamp": "00:28:48",
       "investigative_direction": "Obtain HR personnel file to confirm or refute the absence of any prior negative review.",
       "mentions_person_refs": [
-        "N-790"
+        "N-505"
       ]
     },
     {
@@ -881,14 +881,14 @@
         "A-1675.1"
       ],
       "related_nodes": [
-        "N-10510"
+        "N-10439"
       ],
       "tags": [],
       "claim_timestamp": "00:22:28",
       "investigative_direction": "Identify the CMO named and obtain any internal investigation notes; verify whether the Uber driver conversation actually occurred.",
       "mentions_person_refs": [
-        "N-42",
-        "N-789"
+        "N-14",
+        "N-504"
       ]
     },
     {
@@ -901,14 +901,14 @@
         "A-1675.2"
       ],
       "related_nodes": [
-        "N-10510"
+        "N-10439"
       ],
       "tags": [],
       "claim_timestamp": "00:32:06",
       "investigative_direction": "Obtain direct on-record confirmation from Marina Minas; obtain any contemporaneous communications (texts, voicemails) memorializing the home-visit termination.",
       "mentions_person_refs": [
-        "N-789",
-        "N-790"
+        "N-504",
+        "N-505"
       ]
     }
   ],

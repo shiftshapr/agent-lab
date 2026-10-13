@@ -42,12 +42,12 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-43",
-            "N-10411",
-            "N-10413",
-            "N-10417",
-            "N-10419",
-            "N-10421"
+            "N-15",
+            "N-10340",
+            "N-10342",
+            "N-10346",
+            "N-10348",
+            "N-10350"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -75,7 +75,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10408"
+            "N-10337"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -116,8 +116,8 @@
             "C-1940"
           ],
           "related_nodes": [
-            "N-326",
-            "N-10412"
+            "N-221",
+            "N-10341"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -144,9 +144,9 @@
             "C-1933"
           ],
           "related_nodes": [
-            "N-224",
-            "N-10409",
-            "N-10410"
+            "N-162",
+            "N-10338",
+            "N-10339"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -176,11 +176,11 @@
             "C-1936"
           ],
           "related_nodes": [
-            "N-272",
-            "N-326",
-            "N-45",
-            "N-10409",
-            "N-10410"
+            "N-194",
+            "N-221",
+            "N-17",
+            "N-10338",
+            "N-10339"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -223,9 +223,9 @@
             "C-1957"
           ],
           "related_nodes": [
-            "N-75",
-            "N-555",
-            "N-10414"
+            "N-46",
+            "N-338",
+            "N-10343"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -268,8 +268,8 @@
             "C-1945"
           ],
           "related_nodes": [
-            "N-426",
-            "N-10415"
+            "N-273",
+            "N-10344"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -297,8 +297,8 @@
             "C-1948"
           ],
           "related_nodes": [
-            "N-11389",
-            "N-10422"
+            "N-10898",
+            "N-10351"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -324,7 +324,7 @@
             "C-1957"
           ],
           "related_nodes": [
-            "N-10414"
+            "N-10343"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -351,7 +351,7 @@
             "C-1958"
           ],
           "related_nodes": [
-            "N-10414"
+            "N-10343"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -377,8 +377,8 @@
             "C-1949"
           ],
           "related_nodes": [
-            "N-547",
-            "N-310"
+            "N-335",
+            "N-213"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -428,7 +428,7 @@
           "description": "Curbster super chat: prayer-support message",
           "related_claims": [],
           "related_nodes": [
-            "N-563"
+            "N-343"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -456,7 +456,7 @@
           "description": "Zachary Loft super chat: questions on lack of livestream and Brandon Tatum IG follow",
           "related_claims": [],
           "related_nodes": [
-            "N-565"
+            "N-344"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -471,7 +471,7 @@
           "description": "Mr. Bruce Lee super chat: botted chat observation",
           "related_claims": [],
           "related_nodes": [
-            "N-566"
+            "N-345"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -486,7 +486,7 @@
           "description": "Will Wallace super chat: security-support donation",
           "related_claims": [],
           "related_nodes": [
-            "N-567"
+            "N-346"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -514,7 +514,7 @@
           "description": "Isabella Mazzone super chat: request for elaboration on Charlie's Catholicism journey",
           "related_claims": [],
           "related_nodes": [
-            "N-562"
+            "N-342"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -529,7 +529,7 @@
           "description": "Lamp super chat: question on Qatar's role in media criticism",
           "related_claims": [],
           "related_nodes": [
-            "N-568"
+            "N-347"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -566,15 +566,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-43",
-        "N-10411",
-        "N-10421"
+        "N-15",
+        "N-10340",
+        "N-10350"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-43",
-      "ref": "N-43",
+      "@id": "N-15",
+      "ref": "N-15",
       "name": "Justin Strife",
       "type": "person",
       "description": "TPUSA executive present throughout the meeting; framed opening question on aim; described as having \"reffed\" the conversation.",
@@ -595,8 +595,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Charlie Kirk assistant; subject of contested post-incident phone-call sequence.",
@@ -616,15 +616,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-326",
-        "N-45",
-        "N-10409"
+        "N-221",
+        "N-17",
+        "N-10338"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-326",
-      "ref": "N-326",
+      "@id": "N-221",
+      "ref": "N-221",
       "name": "Eliza McCoy",
       "type": "person",
       "description": "Mikey McCoy's wife; reportedly first person called after shooting; described as having been removed from public narrative.",
@@ -642,14 +642,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-272",
-        "N-10410"
+        "N-194",
+        "N-10339"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-45",
-      "ref": "N-45",
+      "@id": "N-17",
+      "ref": "N-17",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Mikey McCoy's father; pastor; subject of claim that he does not actually work for TPUSA; described by host as having hit the stage at the memorial claiming \"America's pastor.\"",
@@ -665,14 +665,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10419",
-        "N-10424"
+        "N-10348",
+        "N-10353"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Provided prior public account of Mikey McCoy's reaction and call sequence; contradicted by TPUSA call logs.",
@@ -690,14 +690,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-272",
-        "N-10409"
+        "N-194",
+        "N-10338"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-426",
-      "ref": "N-426",
+      "@id": "N-273",
+      "ref": "N-273",
       "name": "Tim Pool",
       "type": "person",
       "description": "Made two contradictory statements about Candace's security within one week.",
@@ -715,13 +715,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10415"
+        "N-10344"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-75",
-      "ref": "N-75",
+      "@id": "N-46",
+      "ref": "N-46",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Reportedly offered to moderate potential livestream conversation between Candace and TPUSA.",
@@ -742,8 +742,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-547",
-      "ref": "N-547",
+      "@id": "N-335",
+      "ref": "N-335",
       "name": "Turkey Tom",
       "type": "person",
       "description": "Produced video authenticating Tyler Robinson Discord chat messaging style.",
@@ -759,13 +759,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-310"
+        "N-213"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-71",
-      "ref": "N-71",
+      "@id": "N-42",
+      "ref": "N-42",
       "name": "George Zinn",
       "type": "person",
       "description": "Arrested for claiming to be the shooter on incident day; per host, told Utah Valley nurses he was paid.",
@@ -781,13 +781,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10425"
+        "N-10354"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "Allegedly angry at Tulsi Gabbard and Joe Kent over terrorist-angle investigation.",
@@ -803,13 +803,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10426"
+        "N-10355"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-550",
-      "ref": "N-550",
+      "@id": "N-336",
+      "ref": "N-336",
       "name": "Tulsi Gabbard",
       "type": "person",
       "description": "Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.",
@@ -825,13 +825,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10426"
+        "N-10355"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-310",
-      "ref": "N-310",
+      "@id": "N-213",
+      "ref": "N-213",
       "name": "Joe Kent",
       "type": "person",
       "description": "Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.",
@@ -847,13 +847,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10426"
+        "N-10355"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-552",
-      "ref": "N-552",
+      "@id": "N-337",
+      "ref": "N-337",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Produced video on Camp Wa Chuka and charred-hands electrocution theory.",
@@ -867,13 +867,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10423"
+        "N-10352"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-67",
-      "ref": "N-67",
+      "@id": "N-38",
+      "ref": "N-38",
       "name": "Seth Dillon",
       "type": "person",
       "description": "Subject of Hampton retreat confrontation with Charlie Kirk over hypothetical anti-Netanyahu tweet.",
@@ -889,13 +889,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10416"
+        "N-10345"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-65",
-      "ref": "N-65",
+      "@id": "N-36",
+      "ref": "N-36",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Allegedly offered to fund TPUSA to the next level; offer reportedly turned down by Charlie Kirk.",
@@ -911,13 +911,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10413"
+        "N-10342"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-555",
-      "ref": "N-555",
+      "@id": "N-338",
+      "ref": "N-338",
       "name": "Andrew Seifer",
       "type": "person",
       "description": "Identified on Charlie Kirk Show as TPUSA head of field.",
@@ -933,13 +933,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10414"
+        "N-10343"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-556",
-      "ref": "N-556",
+      "@id": "N-339",
+      "ref": "N-339",
       "name": "Greg Schaefer",
       "type": "person",
       "description": "Operated Shafer Security; Charlie Kirk's initial security company employing Dan Flood and Brian Harpole.",
@@ -955,13 +955,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10415"
+        "N-10344"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Source (per host) for Bibi Netanyahu funding offer; name distinct from Andrew Kolvet as spelled in transcript.",
@@ -977,13 +977,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10413"
+        "N-10342"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-558",
-      "ref": "N-558",
+      "@id": "N-340",
+      "ref": "N-340",
       "name": "Viva Frey",
       "type": "person",
       "description": "Commentator who discussed Turkey Tom video and Tyler Robinson text-message authenticity on the show.",
@@ -1002,8 +1002,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-561",
-      "ref": "N-561",
+      "@id": "N-341",
+      "ref": "N-341",
       "name": "Marissa",
       "type": "person",
       "description": "Named PragerU contact (per host).",
@@ -1017,13 +1017,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10197"
+        "N-10131"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-562",
-      "ref": "N-562",
+      "@id": "N-342",
+      "ref": "N-342",
       "name": "Isabella Mazzone",
       "type": "person",
       "description": "Donor; raised Charlie Kirk Catholicism question.",
@@ -1037,13 +1037,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10421"
+        "N-10350"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-563",
-      "ref": "N-563",
+      "@id": "N-343",
+      "ref": "N-343",
       "name": "Curbster",
       "type": "person",
       "description": "Donor; prayer-support message.",
@@ -1059,8 +1059,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-565",
-      "ref": "N-565",
+      "@id": "N-344",
+      "ref": "N-344",
       "name": "Zachary Loft",
       "type": "person",
       "description": "Donor; asked about lack of livestream.",
@@ -1076,8 +1076,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-566",
-      "ref": "N-566",
+      "@id": "N-345",
+      "ref": "N-345",
       "name": "Mr. Bruce Lee",
       "type": "person",
       "description": "Donor; raised botted-chat observation.",
@@ -1093,8 +1093,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-567",
-      "ref": "N-567",
+      "@id": "N-346",
+      "ref": "N-346",
       "name": "Will Wallace",
       "type": "person",
       "description": "Donor; security-support donation.",
@@ -1110,8 +1110,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-568",
-      "ref": "N-568",
+      "@id": "N-347",
+      "ref": "N-347",
       "name": "Lamp",
       "type": "person",
       "description": "Donor; raised Qatar-role question.",
@@ -1127,8 +1127,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10408",
-      "ref": "N-10408",
+      "@id": "N-10337",
+      "ref": "N-10337",
       "name": "Tyler Robinson Prosecution Evidence Base",
       "type": "investigation_target",
       "description": "Persistent question over what evidence exists beyond the charging affidavit; what investigators have shared with victim family; probable cause hearing scope.",
@@ -1147,8 +1147,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10409",
-      "ref": "N-10409",
+      "@id": "N-10338",
+      "ref": "N-10338",
       "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
       "type": "investigation_target",
       "description": "Contested sequence of Mikey McCoy's first calls; discrepancy between Blake Neff's narrative and the call logs.",
@@ -1167,15 +1167,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-272",
-        "N-326",
-        "N-224"
+        "N-194",
+        "N-221",
+        "N-162"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10410",
-      "ref": "N-10410",
+      "@id": "N-10339",
+      "ref": "N-10339",
       "name": "Elizabeth McCoy Disappearance From Public Narrative",
       "type": "investigation_target",
       "description": "Question over why Elizabeth McCoy has been removed from the publicly-circulated version of the post-shooting call sequence.",
@@ -1192,13 +1192,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-326"
+        "N-221"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10411",
-      "ref": "N-10411",
+      "@id": "N-10340",
+      "ref": "N-10340",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
       "type": "investigation_target",
       "description": "Pre-incident messages received by Andrew Kolvet (\"they're going to kill me\") and Dan Flood (\"the left is going to kill me\"); authentication status.",
@@ -1220,8 +1220,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10412",
-      "ref": "N-10412",
+      "@id": "N-10341",
+      "ref": "N-10341",
       "name": "Andrew Kolvet Surgeon Bullet Description",
       "type": "investigation_target",
       "description": "Question over Andrew Kolvet's contact with the operating surgeon; HIPAA implications; basis for the \"man of steel\" tweet.",
@@ -1241,8 +1241,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10413",
-      "ref": "N-10413",
+      "@id": "N-10342",
+      "ref": "N-10342",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
       "type": "investigation_target",
       "description": "Alleged offer to take TPUSA to next level; reported Charlie Kirk rejection; contradiction with Andrew Kolvet's $150 million denial.",
@@ -1259,14 +1259,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-65",
-        "N-42"
+        "N-36",
+        "N-14"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10414",
-      "ref": "N-10414",
+      "@id": "N-10343",
+      "ref": "N-10343",
       "name": "Tyler Robinson Rooftop Access Timeline",
       "type": "investigation_target",
       "description": "Disputed earliest public date of UVU courtyard disclosure; August 27 vs September 2.",
@@ -1286,13 +1286,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-555"
+        "N-338"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10415",
-      "ref": "N-10415",
+      "@id": "N-10344",
+      "ref": "N-10344",
       "name": "Candace Owens Security Arrangement",
       "type": "investigation_target",
       "description": "Question over Candace's security team and its relationship (or not) to Charlie Kirk's security apparatus.",
@@ -1313,14 +1313,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-426",
-        "N-556"
+        "N-273",
+        "N-339"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10416",
-      "ref": "N-10416",
+      "@id": "N-10345",
+      "ref": "N-10345",
       "name": "Hampton Retreat Seth Dillon Confrontation",
       "type": "investigation_target",
       "description": "Alleged confrontation between Seth Dillon and Charlie Kirk over hypothetical anti-Netanyahu tweet.",
@@ -1336,13 +1336,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-67"
+        "N-38"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10417",
-      "ref": "N-10417",
+      "@id": "N-10346",
+      "ref": "N-10346",
       "name": "Terrell Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Contested justification for removal of cameras at UVU event before shooting.",
@@ -1363,8 +1363,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10418",
-      "ref": "N-10418",
+      "@id": "N-10347",
+      "ref": "N-10347",
       "name": "Egyptian Planes Israel Flight Pattern",
       "type": "investigation_target",
       "description": "Alleged pattern of Egyptian planes turning off transponders when flying in/out of Israel.",
@@ -1380,8 +1380,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10419",
-      "ref": "N-10419",
+      "@id": "N-10348",
+      "ref": "N-10348",
       "name": "Rob McCoy TPUSA Affiliation Claim",
       "type": "investigation_target",
       "description": "Question over whether Rob McCoy has any actual affiliation with TPUSA.",
@@ -1397,13 +1397,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-45"
+        "N-17"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10420",
-      "ref": "N-10420",
+      "@id": "N-10349",
+      "ref": "N-10349",
       "name": "Bari Weiss CBS Interview Question Selection",
       "type": "investigation_target",
       "description": "Alleged pre-selection of questions at CBS interview; relationship to \"podcaster Candace Owens\" question.",
@@ -1419,8 +1419,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10421",
-      "ref": "N-10421",
+      "@id": "N-10350",
+      "ref": "N-10350",
       "name": "Charlie Kirk Catholicism Journey",
       "type": "investigation_target",
       "description": "Charlie Kirk's reported attendance at mass and intent to begin Catholic conversion process.",
@@ -1438,13 +1438,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-562"
+        "N-342"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10422",
-      "ref": "N-10422",
+      "@id": "N-10351",
+      "ref": "N-10351",
       "name": "Candace Husband Qatari Passport Claim",
       "type": "investigation_target",
       "description": "New York Post allegation that Candace's husband holds Qatari passport/citizenship; contradicted by Candace.",
@@ -1460,13 +1460,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11389"
+        "N-10898"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10423",
-      "ref": "N-10423",
+      "@id": "N-10352",
+      "ref": "N-10352",
       "name": "Camp Wa Chuka Investigation",
       "type": "investigation_target",
       "description": "Reported follow-up on Camp Wa Chuka air base and Baron Coleman video collaboration.",
@@ -1480,13 +1480,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-552"
+        "N-337"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10424",
-      "ref": "N-10424",
+      "@id": "N-10353",
+      "ref": "N-10353",
       "name": "Rob McCoy Wikipedia TPUSA Faith Entry",
       "type": "investigation_target",
       "description": "Alleged Wikipedia update claiming Rob McCoy founded Turning Point USA Faith.",
@@ -1500,13 +1500,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-45"
+        "N-17"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10425",
-      "ref": "N-10425",
+      "@id": "N-10354",
+      "ref": "N-10354",
       "name": "George Zin Self-Incriminating Hospital Statement",
       "type": "investigation_target",
       "description": "Alleged statement by George Zin to Utah Valley nurses that he was paid to claim to be the shooter.",
@@ -1522,13 +1522,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-71"
+        "N-42"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10426",
-      "ref": "N-10426",
+      "@id": "N-10355",
+      "ref": "N-10355",
       "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
       "type": "investigation_target",
       "description": "Alleged dispute over investigation of potential terrorist angle.",
@@ -1544,15 +1544,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-102",
-        "N-550",
-        "N-310"
+        "N-69",
+        "N-336",
+        "N-213"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10427",
-      "ref": "N-10427",
+      "@id": "N-10356",
+      "ref": "N-10356",
       "name": "Brian Harpole Dan Flood Text Misattribution",
       "type": "investigation_target",
       "description": "Claim that text message Brian Harpole showed on camera belonged to Dan Flood.",
@@ -1568,8 +1568,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10428",
-      "ref": "N-10428",
+      "@id": "N-10357",
+      "ref": "N-10357",
       "name": "UVU Walk-Through Disputed",
       "type": "investigation_target",
       "description": "Allegation that no security walk-through was performed at UVU on incident day.",
@@ -1601,8 +1601,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-37",
-      "ref": "N-37",
+      "@id": "N-11",
+      "ref": "N-11",
       "name": "Tyler Bowyer",
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
@@ -1616,8 +1616,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11389",
-      "ref": "N-11389",
+      "@id": "N-10898",
+      "ref": "N-10898",
       "name": "New York Post",
       "type": "organization",
       "description": "Published profile article on Candace Owens referenced in episode.",
@@ -1635,7 +1635,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10422"
+        "N-10351"
       ],
       "organization_kind": "media_outlet"
     },
@@ -1657,8 +1657,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-59",
-      "ref": "N-59",
+      "@id": "N-30",
+      "ref": "N-30",
       "name": "George (Candace's husband)",
       "type": "person",
       "description": "Comments satire about Oxford Hebrew class shame and House in Habit spin.",
@@ -1673,8 +1673,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
@@ -1689,8 +1689,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-410",
-      "ref": "N-410",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
@@ -1705,8 +1705,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -1721,8 +1721,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10197",
-      "ref": "N-10197",
+      "@id": "N-10131",
+      "ref": "N-10131",
       "name": "PragerU",
       "type": "organization",
       "description": "Media platform on which Xaviaer DuRousseau's Hamptons response video was published; employs Marissa Strait.",
@@ -1754,8 +1754,8 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-43",
-        "N-59"
+        "N-15",
+        "N-30"
       ]
     },
     {
@@ -1768,7 +1768,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10411"
+        "N-10340"
       ],
       "tags": [],
       "claim_timestamp": "00:06:18",
@@ -1788,14 +1788,14 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10411"
+        "N-10340"
       ],
       "tags": [],
       "claim_timestamp": "00:06:18",
       "investigative_direction": "Obtain the original message from Andrew Kolvet or his device records.",
       "mentions_person_refs": [
         "N-2",
-        "N-42",
+        "N-14",
         "N-1"
       ]
     },
@@ -1809,14 +1809,14 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10411"
+        "N-10340"
       ],
       "tags": [],
       "claim_timestamp": "00:06:18",
       "investigative_direction": "Obtain original Dan Flood message through his records or testimony.",
       "mentions_person_refs": [
         "N-2",
-        "N-434",
+        "N-276",
         "N-1"
       ]
     },
@@ -1831,14 +1831,14 @@
         "A-1540.1"
       ],
       "related_nodes": [
-        "N-10408"
+        "N-10337"
       ],
       "tags": [],
       "claim_timestamp": "00:17:03",
       "investigative_direction": "Verify the May probable cause hearing date through Utah court records; compare against public charging documents.",
       "mentions_person_refs": [
         "N-2",
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1851,7 +1851,7 @@
         "A-1540.1"
       ],
       "related_nodes": [
-        "N-10408"
+        "N-10337"
       ],
       "tags": [],
       "claim_timestamp": "00:19:00",
@@ -1867,7 +1867,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10408"
+        "N-10337"
       ],
       "tags": [],
       "claim_timestamp": "00:21:02",
@@ -1887,7 +1887,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10408"
+        "N-10337"
       ],
       "tags": [],
       "claim_timestamp": "00:21:02",
@@ -1903,14 +1903,14 @@
         "A-1543.1"
       ],
       "related_nodes": [
-        "N-10409"
+        "N-10338"
       ],
       "tags": [],
       "claim_timestamp": "00:23:53",
       "investigative_direction": "Obtain the call logs directly from Mikey McCoy or from phone carrier records.",
       "mentions_person_refs": [
-        "N-272",
-        "N-326"
+        "N-194",
+        "N-221"
       ]
     },
     {
@@ -1923,16 +1923,16 @@
         "A-1543.1"
       ],
       "related_nodes": [
-        "N-10409"
+        "N-10338"
       ],
       "tags": [],
       "claim_timestamp": "00:27:12",
       "investigative_direction": "Verify the three-way call sequence against carrier records.",
       "mentions_person_refs": [
         "N-2",
-        "N-45",
-        "N-272",
-        "N-326"
+        "N-17",
+        "N-194",
+        "N-221"
       ]
     },
     {
@@ -1949,7 +1949,7 @@
       "claim_timestamp": "00:23:53",
       "investigative_direction": "Verify against official identity records.",
       "mentions_person_refs": [
-        "N-272"
+        "N-194"
       ]
     },
     {
@@ -1963,14 +1963,14 @@
         "A-1543.1"
       ],
       "related_nodes": [
-        "N-10409"
+        "N-10338"
       ],
       "tags": [],
       "claim_timestamp": "00:26:28",
       "investigative_direction": "Cross-reference Blake Neff's recorded statement against the verified call sequence.",
       "mentions_person_refs": [
-        "N-224",
-        "N-272"
+        "N-162",
+        "N-194"
       ],
       "contradicts_claim_refs": [
         "C-1932"
@@ -1986,14 +1986,14 @@
         "A-1543.1"
       ],
       "related_nodes": [
-        "N-10410"
+        "N-10339"
       ],
       "tags": [],
       "claim_timestamp": "00:28:48",
       "investigative_direction": "Investigate the editorial decisions that excluded Elizabeth McCoy from circulated accounts.",
       "mentions_person_refs": [
         "N-2",
-        "N-326"
+        "N-221"
       ]
     },
     {
@@ -2006,14 +2006,14 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10413"
+        "N-10342"
       ],
       "tags": [],
       "claim_timestamp": "00:32:14",
       "investigative_direction": "Identify the three sources and obtain documentary evidence of the offer.",
       "mentions_person_refs": [
         "N-2",
-        "N-65",
+        "N-36",
         "N-1"
       ]
     },
@@ -2027,14 +2027,14 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10413"
+        "N-10342"
       ],
       "tags": [],
       "claim_timestamp": "00:32:14",
       "investigative_direction": "Verify Andrew Kolb's specific statement; clarify whether this is the same person as Andrew Kolvet.",
       "mentions_person_refs": [
-        "N-42",
-        "N-65"
+        "N-14",
+        "N-36"
       ]
     },
     {
@@ -2042,10 +2042,10 @@
       "@id": "C-3741",
       "ref": "C-3741",
       "label": "Host Says Some of the Paid Campaigns Attacking Her Are Paid by PragerU",
-      "claim": "The host says she has the names of people in paid campaigns attacking her, that some are paid by PR firms and \"too many\" are paid by PragerU, and that she knows Marissa (N-561) there.",
+      "claim": "The host says she has the names of people in paid campaigns attacking her, that some are paid by PR firms and \"too many\" are paid by PragerU, and that she knows Marissa (N-341) there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10197"
+        "N-10131"
       ],
       "tags": [],
       "claim_timestamp": "00:32:14",
@@ -2054,7 +2054,7 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-3",
-        "N-561"
+        "N-341"
       ]
     },
     {
@@ -2067,14 +2067,14 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10419",
-        "N-10424"
+        "N-10348",
+        "N-10353"
       ],
       "tags": [],
       "claim_timestamp": "00:11:35",
       "investigative_direction": "Verify Rob McCoy's formal affiliations independently of his self-presentation.",
       "mentions_person_refs": [
-        "N-45"
+        "N-17"
       ]
     },
     {
@@ -2087,14 +2087,14 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10417"
+        "N-10346"
       ],
       "tags": [],
       "claim_timestamp": "00:09:23",
       "investigative_direction": "Verify TPUSA's documented livestream policy and Farnsworth's specific authority on incident day.",
       "mentions_person_refs": [
         "N-2",
-        "N-410"
+        "N-267"
       ]
     },
     {
@@ -2107,14 +2107,14 @@
         "A-1541.1"
       ],
       "related_nodes": [
-        "N-10412"
+        "N-10341"
       ],
       "tags": [],
       "claim_timestamp": "00:12:24",
       "investigative_direction": "Verify the original tweet content and the surgeon's identity.",
       "mentions_person_refs": [
-        "N-326",
-        "N-42",
+        "N-221",
+        "N-14",
         "N-1"
       ]
     },
@@ -2129,14 +2129,14 @@
         "A-1541.2"
       ],
       "related_nodes": [
-        "N-10412"
+        "N-10341"
       ],
       "tags": [],
       "claim_timestamp": "00:13:14",
       "investigative_direction": "Verify Kolvet's stated communication with the surgeon and HIPAA implications.",
       "mentions_person_refs": [
-        "N-326",
-        "N-42"
+        "N-221",
+        "N-14"
       ]
     },
     {
@@ -2149,13 +2149,13 @@
         "A-1545.1"
       ],
       "related_nodes": [
-        "N-10415"
+        "N-10344"
       ],
       "tags": [],
       "claim_timestamp": "00:44:36",
       "investigative_direction": "Verify the earlier Tim Pool statement against his show archive.",
       "mentions_person_refs": [
-        "N-426",
+        "N-273",
         "N-3"
       ]
     },
@@ -2169,13 +2169,13 @@
         "A-1545.2"
       ],
       "related_nodes": [
-        "N-10415"
+        "N-10344"
       ],
       "tags": [],
       "claim_timestamp": "00:45:27",
       "investigative_direction": "Verify the current claim against any documented security employment records.",
       "mentions_person_refs": [
-        "N-426",
+        "N-273",
         "N-3",
         "N-1",
         "N-2"
@@ -2191,18 +2191,18 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10415"
+        "N-10344"
       ],
       "tags": [],
       "claim_timestamp": "00:46:06",
       "investigative_direction": "Verify Greg Shafer's public statement and Shafer Security's documented client list.",
       "mentions_person_refs": [
         "N-2",
-        "N-556",
-        "N-424",
+        "N-339",
+        "N-272",
         "N-3",
         "N-1",
-        "N-434"
+        "N-276"
       ]
     },
     {
@@ -2215,7 +2215,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10415"
+        "N-10344"
       ],
       "tags": [],
       "claim_timestamp": "00:46:06",
@@ -2235,7 +2235,7 @@
         "A-1546.1"
       ],
       "related_nodes": [
-        "N-11389"
+        "N-10898"
       ],
       "tags": [],
       "claim_timestamp": "00:41:01",
@@ -2254,7 +2254,7 @@
         "A-1546.1"
       ],
       "related_nodes": [
-        "N-11389"
+        "N-10898"
       ],
       "tags": [],
       "claim_timestamp": "00:41:47",
@@ -2274,14 +2274,14 @@
         "A-1546.1"
       ],
       "related_nodes": [
-        "N-10422",
-        "N-11389"
+        "N-10351",
+        "N-10898"
       ],
       "tags": [],
       "claim_timestamp": "00:41:01",
       "investigative_direction": "Verify travel and passport records.",
       "mentions_person_refs": [
-        "N-59"
+        "N-30"
       ]
     },
     {
@@ -2298,10 +2298,10 @@
       "claim_timestamp": "00:53:11",
       "investigative_direction": "Verify Turkey Tom's claimed Discord membership through chat logs or other participants.",
       "mentions_person_refs": [
-        "N-310",
-        "N-547",
-        "N-558",
-        "N-69"
+        "N-213",
+        "N-335",
+        "N-340",
+        "N-40"
       ]
     },
     {
@@ -2314,13 +2314,13 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10425"
+        "N-10354"
       ],
       "tags": [],
       "claim_timestamp": "00:56:50",
       "investigative_direction": "Verify through hospital records, nurse testimony, or police interview of Zin.",
       "mentions_person_refs": [
-        "N-71"
+        "N-42"
       ]
     },
     {
@@ -2333,15 +2333,15 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10426"
+        "N-10355"
       ],
       "tags": [],
       "claim_timestamp": "00:56:14",
       "investigative_direction": "Verify through any on-record statements from the named individuals.",
       "mentions_person_refs": [
-        "N-102",
-        "N-310",
-        "N-550"
+        "N-69",
+        "N-213",
+        "N-336"
       ]
     },
     {
@@ -2354,7 +2354,7 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10421"
+        "N-10350"
       ],
       "tags": [],
       "claim_timestamp": "00:11:35",
@@ -2374,14 +2374,14 @@
         "A-1539.1"
       ],
       "related_nodes": [
-        "N-10416"
+        "N-10345"
       ],
       "tags": [],
       "claim_timestamp": "00:31:16",
       "investigative_direction": "Verify through any recording or attendee corroboration of the retreat.",
       "mentions_person_refs": [
-        "N-65",
-        "N-67",
+        "N-36",
+        "N-38",
         "N-1"
       ]
     },
@@ -2395,13 +2395,13 @@
         "A-1544.2"
       ],
       "related_nodes": [
-        "N-10414"
+        "N-10343"
       ],
       "tags": [],
       "claim_timestamp": "00:51:02",
       "investigative_direction": "Verify Andrew Seifer's official TPUSA title.",
       "mentions_person_refs": [
-        "N-555"
+        "N-338"
       ]
     },
     {
@@ -2414,13 +2414,13 @@
         "A-1544.2"
       ],
       "related_nodes": [
-        "N-10414"
+        "N-10343"
       ],
       "tags": [],
       "claim_timestamp": "00:51:02",
       "investigative_direction": "Verify the specific August 27 post referenced.",
       "mentions_person_refs": [
-        "N-555"
+        "N-338"
       ]
     },
     {
@@ -2433,7 +2433,7 @@
         "A-1547.1"
       ],
       "related_nodes": [
-        "N-10414"
+        "N-10343"
       ],
       "tags": [],
       "claim_timestamp": "00:52:22",
@@ -2449,7 +2449,7 @@
         "A-1548.1"
       ],
       "related_nodes": [
-        "N-10414"
+        "N-10343"
       ],
       "tags": [],
       "claim_timestamp": "00:52:22",

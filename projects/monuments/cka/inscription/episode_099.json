@@ -54,7 +54,7 @@
             "C-2858"
           ],
           "related_nodes": [
-            "N-552"
+            "N-337"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -104,7 +104,7 @@
             "C-2862"
           ],
           "related_nodes": [
-            "N-11392"
+            "N-10901"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -147,7 +147,7 @@
             "C-2866"
           ],
           "related_nodes": [
-            "N-11392"
+            "N-10901"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -187,7 +187,7 @@
             "C-2867"
           ],
           "related_nodes": [
-            "N-86"
+            "N-55"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -213,7 +213,7 @@
             "C-2869"
           ],
           "related_nodes": [
-            "N-624"
+            "N-383"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -239,7 +239,7 @@
             "C-2871"
           ],
           "related_nodes": [
-            "N-625"
+            "N-384"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -265,7 +265,7 @@
             "C-2871"
           ],
           "related_nodes": [
-            "N-120"
+            "N-85"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -296,7 +296,7 @@
             "C-2875"
           ],
           "related_nodes": [
-            "N-623"
+            "N-382"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -345,8 +345,8 @@
             "C-2878"
           ],
           "related_nodes": [
-            "N-774",
-            "N-775"
+            "N-495",
+            "N-496"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -371,7 +371,7 @@
             "C-2879"
           ],
           "related_nodes": [
-            "N-774"
+            "N-495"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -396,8 +396,8 @@
             "C-2880"
           ],
           "related_nodes": [
-            "N-775",
-            "N-774"
+            "N-496",
+            "N-495"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -414,7 +414,7 @@
             "C-2881"
           ],
           "related_nodes": [
-            "N-775"
+            "N-496"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -439,8 +439,8 @@
             "C-2882"
           ],
           "related_nodes": [
-            "N-775",
-            "N-774"
+            "N-496",
+            "N-495"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -466,7 +466,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-86"
+            "N-55"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -503,8 +503,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10732",
-      "ref": "N-10732",
+      "@id": "N-10657",
+      "ref": "N-10657",
       "name": "Salem Media Foreign Agent Registration Status",
       "type": "investigation_target",
       "description": "Persistent question of whether Salem Media Network's contractual relationship with Clock Tower X LLC renders it a foreign-agent platform for Israel under FARA.",
@@ -526,13 +526,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10737"
+        "N-10662"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10733",
-      "ref": "N-10733",
+      "@id": "N-10658",
+      "ref": "N-10658",
       "name": "Josh Hammer Show Audience Anomaly",
       "type": "investigation_target",
       "description": "Persistent discrepancy between Josh Hammer's documented low Newsweek/YouTube view counts (~355–665) and his ongoing placement on Salem Podcast Network.",
@@ -548,14 +548,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-86",
-        "N-10732"
+        "N-55",
+        "N-10657"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10734",
-      "ref": "N-10734",
+      "@id": "N-10659",
+      "ref": "N-10659",
       "name": "Pam Bondi Foreign Influence Task Force Disbanding",
       "type": "investigation_target",
       "description": "February 5, 2025 DOJ directive disbanding Foreign Influence Task Force and limiting FARA criminal enforcement to espionage-class conduct only.",
@@ -573,14 +573,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-120",
-        "N-10737"
+        "N-85",
+        "N-10662"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10735",
-      "ref": "N-10735",
+      "@id": "N-10660",
+      "ref": "N-10660",
       "name": "Hospital \"No Neck Left\" Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Persistent inconsistency between contemporaneous reports from hospital staff (and relayed through Andrew Kolvet to host and Tucker Carlson) that Charlie Kirk had \"no neck left,\" and the later public visual record showing Charlie Kirk's neck was intact enough for open-casket viewing.",
@@ -594,8 +594,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10736",
-      "ref": "N-10736",
+      "@id": "N-10661",
+      "ref": "N-10661",
       "name": "Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)",
       "type": "investigation_target",
       "description": "Lawsuit in which April 2, 2025 ruling dismissed 10 of 13 Lively claims; ultimately settled two weeks before scheduled trial.",
@@ -614,14 +614,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-774",
-        "N-775"
+        "N-495",
+        "N-496"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10737",
-      "ref": "N-10737",
+      "@id": "N-10662",
+      "ref": "N-10662",
       "name": "2025 FARA Propaganda Timeline Convergence",
       "type": "investigation_target",
       "description": "Persistent investigative question raised by the host regarding the temporal clustering of (a) Bondi's February 5 FARA Task Force disbanding, (b) Brad Parscale's January 10 Salem CSO role, (c) Dhillon Law Group's August 27 paperwork drafting, (d) Dhillon's April 7 DOJ swearing-in, (e) Clock Tower X / Show Faith by Works FARA filings on September 18, (f) Charlie Kirk's September 9 message and September 10 assassination, (g) Netanyahu's September 12 denial, and (h) Josh Hammer's October 15/23 Salem show launch.",
@@ -649,16 +649,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-120",
-        "N-62",
-        "N-10732",
-        "N-10734"
+        "N-85",
+        "N-33",
+        "N-10657",
+        "N-10659"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10738",
-      "ref": "N-10738",
+      "@id": "N-10663",
+      "ref": "N-10663",
       "name": "Mikey McCoy Witness Reliability Question",
       "type": "investigation_target",
       "description": "Persistent investigative question about Mikey McCoy's role, demeanor, and current disposition following the assassination; framed by host as possible \"weak link\" among Kirk's inner circle.",
@@ -676,8 +676,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-623",
-      "ref": "N-623",
+      "@id": "N-382",
+      "ref": "N-382",
       "name": "Harmeet Dhillon",
       "type": "person",
       "description": "Assistant Attorney General for Civil Rights, sworn in April 7, 2025 per the host's timeline (36:54); the host says both FARA-registered companies worked with \"Harmeet Dhillon's Dhillon Law Group firm\" (19:09).",
@@ -695,8 +695,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-624",
-      "ref": "N-624",
+      "@id": "N-383",
+      "ref": "N-383",
       "name": "Lara Trump",
       "type": "person",
       "description": "Named (31:21) in the Salem Media announcement of a landmark deal with Donald Trump Jr. and Lara Trump (\"that's Eric Trump's wife\").",
@@ -714,8 +714,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-625",
-      "ref": "N-625",
+      "@id": "N-384",
+      "ref": "N-384",
       "name": "Ian Carroll",
       "type": "person",
       "description": "Commentator whose show segment on Pam Bondi disbanding the FBI Foreign Influence Task Force is played (33:16).",
@@ -733,8 +733,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-626",
-      "ref": "N-626",
+      "@id": "N-385",
+      "ref": "N-385",
       "name": "Ryan Reynolds",
       "type": "person",
       "description": "Actor, Blake Lively's husband; named (46:25, 49:08) as having developed the Deadpool character that mocks Justin Baldoni.",
@@ -750,8 +750,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-627",
-      "ref": "N-627",
+      "@id": "N-386",
+      "ref": "N-386",
       "name": "Hugh Jackman",
       "type": "person",
       "description": "Actor in Deadpool & Wolverine; named by the host (49:08, 51:02), including arriving at the It Ends With Us premiere.",
@@ -768,8 +768,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11392",
-      "ref": "N-11392",
+      "@id": "N-10901",
+      "ref": "N-10901",
       "name": "Havas Media",
       "type": "organization",
       "description": "French advertising company (host, 14:54 and 43:14); per the FARA filings, contracted Show Faith by Works and Clock Tower X on behalf of the Israeli Ministry of Foreign Affairs. The transcript renders it \"Habas Media\" at 16:50 and 36:54.",
@@ -791,8 +791,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
@@ -807,8 +807,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-65",
-      "ref": "N-65",
+      "@id": "N-36",
+      "ref": "N-36",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
@@ -823,8 +823,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-73",
-      "ref": "N-73",
+      "@id": "N-44",
+      "ref": "N-44",
       "name": "Greta Van Susteren",
       "type": "person",
       "description": "News host on which Netanyahu reportedly lied about contents of a May letter from Charlie Kirk.",
@@ -839,8 +839,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -855,8 +855,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-685",
-      "ref": "N-685",
+      "@id": "N-440",
+      "ref": "N-440",
       "name": "Brad Parscale",
       "type": "person",
       "description": "First named by the host at 00:16:06 in episode 99.",
@@ -873,8 +873,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-62",
-      "ref": "N-62",
+      "@id": "N-33",
+      "ref": "N-33",
       "name": "Donald Trump Jr.",
       "type": "person",
       "description": "Mentioned as having pressed Charlie to buy better-fitting suits along with Eric Trump.",
@@ -937,7 +937,7 @@
       "claim_timestamp": "00:06:41",
       "investigative_direction": "Obtain full unedited Coleman segment; verify no other named attribution in original show notes.",
       "mentions_person_refs": [
-        "N-552",
+        "N-337",
         "N-1"
       ]
     },
@@ -955,8 +955,8 @@
       "claim_timestamp": "00:12:44",
       "investigative_direction": "Obtain full unedited Van Susteren segment and verify whether the question was pre-arranged as host alleges.",
       "mentions_person_refs": [
-        "N-65",
-        "N-73",
+        "N-36",
+        "N-44",
         "N-1"
       ]
     },
@@ -974,7 +974,7 @@
       "claim_timestamp": "00:12:44",
       "investigative_direction": "Cross-check segment against Van Susteren's own post-show statements.",
       "mentions_person_refs": [
-        "N-73",
+        "N-44",
         "N-1"
       ]
     },
@@ -989,8 +989,8 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-10737",
-        "N-11392"
+        "N-10662",
+        "N-10901"
       ],
       "tags": [],
       "claim_timestamp": "00:14:54",
@@ -1007,7 +1007,7 @@
         "A-2048.2"
       ],
       "related_nodes": [
-        "N-10737"
+        "N-10662"
       ],
       "tags": [],
       "claim_timestamp": "00:14:54",
@@ -1024,9 +1024,9 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-10732",
-        "N-10737",
-        "N-11392"
+        "N-10657",
+        "N-10662",
+        "N-10901"
       ],
       "tags": [],
       "claim_timestamp": "00:15:34",
@@ -1042,13 +1042,13 @@
         "A-2049.1"
       ],
       "related_nodes": [
-        "N-10732"
+        "N-10657"
       ],
       "tags": [],
       "claim_timestamp": "00:16:57",
       "investigative_direction": "Verify corporate registration records for Clock Tower X LLC.",
       "mentions_person_refs": [
-        "N-685"
+        "N-440"
       ]
     },
     {
@@ -1061,7 +1061,7 @@
         "A-2049.2"
       ],
       "related_nodes": [
-        "N-10732"
+        "N-10657"
       ],
       "tags": [],
       "claim_timestamp": "00:16:57",
@@ -1078,13 +1078,13 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-10732"
+        "N-10657"
       ],
       "tags": [],
       "claim_timestamp": "00:16:57",
       "investigative_direction": "Cross-check Salem press releases and LinkedIn / corporate filings for Parscale's title and dates.",
       "mentions_person_refs": [
-        "N-685"
+        "N-440"
       ]
     },
     {
@@ -1097,13 +1097,13 @@
         "A-2050.1"
       ],
       "related_nodes": [
-        "N-10733"
+        "N-10658"
       ],
       "tags": [],
       "claim_timestamp": "00:24:59",
       "investigative_direction": "Capture live Newsweek view counts at multiple points in time; compare to alternative analytics.",
       "mentions_person_refs": [
-        "N-86"
+        "N-55"
       ]
     },
     {
@@ -1116,14 +1116,14 @@
         "A-2051.1"
       ],
       "related_nodes": [
-        "N-10732"
+        "N-10657"
       ],
       "tags": [],
       "claim_timestamp": "00:31:21",
       "investigative_direction": "Obtain Salem's official press release and SEC / corporate disclosures.",
       "mentions_person_refs": [
-        "N-62",
-        "N-624"
+        "N-33",
+        "N-383"
       ]
     },
     {
@@ -1136,13 +1136,13 @@
         "A-2051.1"
       ],
       "related_nodes": [
-        "N-10732"
+        "N-10657"
       ],
       "tags": [],
       "claim_timestamp": "00:32:23",
       "investigative_direction": "Verify M-News corporate filings; confirm 30% acquisition price and structure.",
       "mentions_person_refs": [
-        "N-62"
+        "N-33"
       ]
     },
     {
@@ -1157,15 +1157,15 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-10734",
-        "N-10737"
+        "N-10659",
+        "N-10662"
       ],
       "tags": [],
       "claim_timestamp": "00:34:17",
       "investigative_direction": "Obtain DOJ memorandum directly; confirm effective date and operative language.",
       "mentions_person_refs": [
-        "N-120",
-        "N-625"
+        "N-85",
+        "N-384"
       ]
     },
     {
@@ -1178,13 +1178,13 @@
         "A-2053.1"
       ],
       "related_nodes": [
-        "N-10734"
+        "N-10659"
       ],
       "tags": [],
       "claim_timestamp": "00:34:17",
       "investigative_direction": "Compare DOJ internal guidance before and after February 5, 2025; assess any subsequent FARA prosecutions.",
       "mentions_person_refs": [
-        "N-120"
+        "N-85"
       ]
     },
     {
@@ -1197,13 +1197,13 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-10737"
+        "N-10662"
       ],
       "tags": [],
       "claim_timestamp": "00:36:54",
       "investigative_direction": "Confirm via DOJ announcement and Senate confirmation records.",
       "mentions_person_refs": [
-        "N-623"
+        "N-382"
       ]
     },
     {
@@ -1216,9 +1216,9 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-10732",
-        "N-10737",
-        "N-11392"
+        "N-10657",
+        "N-10662",
+        "N-10901"
       ],
       "tags": [],
       "claim_timestamp": "00:36:54",
@@ -1240,7 +1240,7 @@
       "investigative_direction": "Obtain the original group text record; verify the participant list and exact wording.",
       "mentions_person_refs": [
         "N-1",
-        "N-86"
+        "N-55"
       ]
     },
     {
@@ -1253,8 +1253,8 @@
         "A-2054.1"
       ],
       "related_nodes": [
-        "N-10732",
-        "N-10737"
+        "N-10657",
+        "N-10662"
       ],
       "tags": [],
       "claim_timestamp": "00:36:54",
@@ -1273,7 +1273,7 @@
         "A-2055.1"
       ],
       "related_nodes": [
-        "N-10737"
+        "N-10662"
       ],
       "tags": [],
       "claim_timestamp": "00:39:40",
@@ -1289,14 +1289,14 @@
         "A-2056.1"
       ],
       "related_nodes": [
-        "N-10736"
+        "N-10661"
       ],
       "tags": [],
       "claim_timestamp": "00:47:29",
       "investigative_direction": "Obtain the actual April 2 court order; verify which claims survived and on what grounds.",
       "mentions_person_refs": [
-        "N-774",
-        "N-775"
+        "N-495",
+        "N-496"
       ]
     },
     {
@@ -1309,13 +1309,13 @@
         "A-2056.1"
       ],
       "related_nodes": [
-        "N-10736"
+        "N-10661"
       ],
       "tags": [],
       "claim_timestamp": "00:47:29",
       "investigative_direction": "Verify against Lively's official public statement archive.",
       "mentions_person_refs": [
-        "N-774"
+        "N-495"
       ]
     },
     {
@@ -1328,13 +1328,13 @@
         "A-2057.1"
       ],
       "related_nodes": [
-        "N-10736"
+        "N-10661"
       ],
       "tags": [],
       "claim_timestamp": "00:48:28",
       "investigative_direction": "Obtain screenshot of the Community Notes annotation; capture timestamp and full text.",
       "mentions_person_refs": [
-        "N-774"
+        "N-495"
       ]
     },
     {
@@ -1351,10 +1351,10 @@
       "claim_timestamp": "00:50:04",
       "investigative_direction": "Verify via official film credits and supplementary marketing material; confirm Baldoni-as-target framing.",
       "mentions_person_refs": [
-        "N-774",
-        "N-775",
-        "N-626",
-        "N-627"
+        "N-495",
+        "N-496",
+        "N-385",
+        "N-386"
       ]
     },
     {
@@ -1371,7 +1371,7 @@
       "claim_timestamp": "00:50:30",
       "investigative_direction": "Obtain deleted scene footage or trade press reporting on cut material.",
       "mentions_person_refs": [
-        "N-775"
+        "N-496"
       ]
     },
     {
@@ -1388,9 +1388,9 @@
       "claim_timestamp": "00:51:57",
       "investigative_direction": "Obtain independent eyewitness corroboration and any press coverage of the premiere seating arrangement.",
       "mentions_person_refs": [
-        "N-774",
-        "N-775",
-        "N-627"
+        "N-495",
+        "N-496",
+        "N-386"
       ]
     },
     {
@@ -1403,14 +1403,14 @@
         "A-2061.1"
       ],
       "related_nodes": [
-        "N-10738"
+        "N-10663"
       ],
       "tags": [],
       "claim_timestamp": "00:57:03",
       "investigative_direction": "Obtain the original McCoy message screenshot; verify the exact language and date.",
       "mentions_person_refs": [
-        "N-42",
-        "N-272"
+        "N-14",
+        "N-194"
       ]
     }
   ],

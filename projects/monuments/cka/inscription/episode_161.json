@@ -31,10 +31,10 @@
             "C-3681"
           ],
           "related_nodes": [
-            "N-447",
-            "N-11376",
-            "N-11379",
-            "N-11214",
+            "N-287",
+            "N-10885",
+            "N-10888",
+            "N-10815",
             "N-3"
           ],
           "tags": [],
@@ -62,13 +62,13 @@
             "C-3684"
           ],
           "related_nodes": [
-            "N-11371",
-            "N-11372",
-            "N-11374",
-            "N-10078",
+            "N-10880",
+            "N-10881",
+            "N-10883",
+            "N-10013",
             "N-10000",
-            "N-46",
-            "N-477",
+            "N-18",
+            "N-308",
             "N-3"
           ],
           "tags": [],
@@ -96,11 +96,11 @@
             "C-3687"
           ],
           "related_nodes": [
-            "N-11380",
-            "N-582",
-            "N-579",
-            "N-11377",
-            "N-42",
+            "N-10889",
+            "N-361",
+            "N-358",
+            "N-10886",
+            "N-14",
             "N-10000"
           ],
           "tags": [],
@@ -127,14 +127,14 @@
             "C-3689"
           ],
           "related_nodes": [
-            "N-11382",
-            "N-11373",
-            "N-580",
-            "N-583",
-            "N-584",
-            "N-585",
+            "N-10891",
+            "N-10882",
+            "N-359",
+            "N-362",
+            "N-363",
+            "N-364",
             "N-2",
-            "N-11378"
+            "N-10887"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -160,9 +160,9 @@
             "C-3691"
           ],
           "related_nodes": [
-            "N-11375",
-            "N-11371",
-            "N-11382"
+            "N-10884",
+            "N-10880",
+            "N-10891"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -187,8 +187,8 @@
             "C-3692"
           ],
           "related_nodes": [
-            "N-580",
-            "N-581",
+            "N-359",
+            "N-360",
             "N-2"
           ],
           "tags": [],
@@ -214,9 +214,9 @@
             "C-3693"
           ],
           "related_nodes": [
-            "N-11381",
-            "N-242",
-            "N-293"
+            "N-10890",
+            "N-173",
+            "N-205"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -256,8 +256,8 @@
   "nodes": [
     {
       "@type": "Organization",
-      "@id": "N-11371",
-      "ref": "N-11371",
+      "@id": "N-10880",
+      "ref": "N-10880",
       "name": "Monster Lab / Clippet",
       "type": "organization",
       "description": "DBA / trade names for the clipping-pay company hosting Elephant Clipping and related campaigns; ownership at the top remains unknown per host LLC search.",
@@ -277,14 +277,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-579",
-        "N-11372"
+        "N-358",
+        "N-10881"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-11372",
-      "ref": "N-11372",
+      "@id": "N-10881",
+      "ref": "N-10881",
       "name": "Elephant Clipping Campaign",
       "type": "topic",
       "description": "Matt Servius's flagship political clipping campaign paying for GOP/TPUSA-aligned shorts and anti-Candace edits via Discord.",
@@ -302,14 +302,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11371",
-        "N-579"
+        "N-10880",
+        "N-358"
       ]
     },
     {
       "@type": "Organization",
-      "@id": "N-11373",
-      "ref": "N-11373",
+      "@id": "N-10882",
+      "ref": "N-10882",
       "name": "Enclave and Key",
       "type": "organization",
       "description": "Las Vegas marketing company (CEO Blake Wynn) whose staff emails appear on Google Drive folders seeding Erika/TPUSA clipping campaigns; Romania footprint noted by host.",
@@ -326,14 +326,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-580",
-        "N-11378"
+        "N-359",
+        "N-10887"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-11374",
-      "ref": "N-11374",
+      "@id": "N-10883",
+      "ref": "N-10883",
       "name": "Anti-Candace Paid Clipping Campaign",
       "type": "topic",
       "description": "Million-dollar-scale Discord bounties and PR/DoD-adjacent character attacks during Tyler Robinson prelim week and ongoing smear packages.",
@@ -349,14 +349,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11372",
+        "N-10881",
         "N-3"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-11375",
-      "ref": "N-11375",
+      "@id": "N-10884",
+      "ref": "N-10884",
       "name": "Wayback Machine Monster Lab September 2025 Wipe",
       "type": "topic",
       "description": "Archive captures from September 12, 2025 forward that only show loading; host frames as track-cleaning around go-live / first Erika campaign.",
@@ -373,13 +373,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11371"
+        "N-10880"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-11376",
-      "ref": "N-11376",
+      "@id": "N-10885",
+      "ref": "N-10885",
       "name": "Jennica Pounds DoD Special Government Employee Thread",
       "type": "topic",
       "description": "Undisclosed DoD hire posting anti-Candace / pro-official-narrative thread during Tyler Robinson prelim week; later resignation.",
@@ -396,14 +396,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-447",
-        "N-11379"
+        "N-287",
+        "N-10888"
       ]
     },
     {
       "@type": "Place",
-      "@id": "N-11377",
-      "ref": "N-11377",
+      "@id": "N-10886",
+      "ref": "N-10886",
       "name": "Latvia",
       "type": "place",
       "description": "Claimed operating base for Matt Servius / Clippet elephant-clipping service in the Atlantic reporting.",
@@ -419,13 +419,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-579"
+        "N-358"
       ]
     },
     {
       "@type": "Place",
-      "@id": "N-11378",
-      "ref": "N-11378",
+      "@id": "N-10887",
+      "ref": "N-10887",
       "name": "Las Vegas",
       "type": "place",
       "description": "Enclave and Key HQ city; host restates Hughes / Adelson / Wynn / Patel syndicate framing.",
@@ -440,15 +440,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11373",
-        "N-10320",
-        "N-11143"
+        "N-10882",
+        "N-10249",
+        "N-10744"
       ]
     },
     {
       "@type": "Organization",
-      "@id": "N-11379",
-      "ref": "N-11379",
+      "@id": "N-10888",
+      "ref": "N-10888",
       "name": "Department of War",
       "type": "organization",
       "description": "Host name for DoD; employer of Jennica Pounds as special government employee; tied to Erika emotional-asset optics.",
@@ -463,14 +463,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-447",
-        "N-994"
+        "N-287",
+        "N-605"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-11380",
-      "ref": "N-11380",
+      "@id": "N-10889",
+      "ref": "N-10889",
       "name": "Atlantic Elephant Clipping Expose",
       "type": "topic",
       "description": "Ali Breland September 2026 Atlantic investigation into paid conservative clipping ops.",
@@ -488,13 +488,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-582"
+        "N-361"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-11381",
-      "ref": "N-11381",
+      "@id": "N-10890",
+      "ref": "N-10890",
       "name": "Andrew Tate Hustlers University Clipping Economy",
       "type": "topic",
       "description": "Clip-army affiliate model credited as pioneer of the modern clipping economy later copied by political ops.",
@@ -510,13 +510,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-242"
+        "N-173"
       ]
     },
     {
       "@type": "Topic",
-      "@id": "N-11382",
-      "ref": "N-11382",
+      "@id": "N-10891",
+      "ref": "N-10891",
       "name": "Erika Kirk September 15 2025 Google Drive Clip Seed",
       "type": "topic",
       "description": "Erika videos uploaded to campaign drives five days after Charlie's death; host asks why she needed selling before the \"I forgive him\" speech.",
@@ -539,8 +539,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11383",
-      "ref": "N-11383",
+      "@id": "N-10892",
+      "ref": "N-10892",
       "name": "Audacity of the Gaslight Framing",
       "type": "topic",
       "description": "Host recurring label (and joke book title) for TPUSA/orbit denials of funded campaigns while preparing Erika CEO optics.",
@@ -561,8 +561,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-447",
-      "ref": "N-447",
+      "@id": "N-287",
+      "ref": "N-287",
       "name": "Jennica Pounds",
       "type": "person",
       "description": "X personality \"data republican\"; host says she was a DoD special government employee who posted an anti-Candace thread without disclosure, then resigned.",
@@ -579,14 +579,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11376",
-        "N-11379"
+        "N-10885",
+        "N-10888"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-579",
-      "ref": "N-579",
+      "@id": "N-358",
+      "ref": "N-358",
       "name": "Matt Servius",
       "type": "person",
       "description": "Latvian operator promoting Elephant Clipping under Monster Lab / Clippet trade names; LinkedIn framed as running not owning.",
@@ -604,15 +604,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11371",
-        "N-11372",
-        "N-11377"
+        "N-10880",
+        "N-10881",
+        "N-10886"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-580",
-      "ref": "N-580",
+      "@id": "N-359",
+      "ref": "N-359",
       "name": "Blake Wynn",
       "type": "person",
       "description": "Enclave and Key CEO; Steve Wynn's nephew; framed as Erika Kirk close friend supplying/adjacent to early Erika clip drives and public appearances.",
@@ -631,15 +631,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11373",
+        "N-10882",
         "N-2",
-        "N-581"
+        "N-360"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-581",
-      "ref": "N-581",
+      "@id": "N-360",
+      "ref": "N-360",
       "name": "Steve Wynn",
       "type": "person",
       "description": "Billionaire conservative mega-donor; uncle of Blake Wynn; non-response to Atlantic comment request noted.",
@@ -654,14 +654,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-580",
-        "N-11378"
+        "N-359",
+        "N-10887"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-582",
-      "ref": "N-582",
+      "@id": "N-361",
+      "ref": "N-361",
       "name": "Ali Breland",
       "type": "person",
       "description": "Atlantic journalist credited for the elephant-clipping investigation the host walks through.",
@@ -677,13 +677,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11380"
+        "N-10889"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-583",
-      "ref": "N-583",
+      "@id": "N-362",
+      "ref": "N-362",
       "name": "Jules Katz",
       "type": "person",
       "description": "Enclave and Key chief of staff; Atlantic says company-email uploads to campaign Google Drives.",
@@ -699,13 +699,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11373"
+        "N-10882"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-584",
-      "ref": "N-584",
+      "@id": "N-363",
+      "ref": "N-363",
       "name": "Benjamin Goodman",
       "type": "person",
       "description": "Enclave VP of operations; Atlantic says he reposted drive files after deletions using a non-Enclave email.",
@@ -722,13 +722,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11373"
+        "N-10882"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-585",
-      "ref": "N-585",
+      "@id": "N-364",
+      "ref": "N-364",
       "name": "Jack O'Hara",
       "type": "person",
       "description": "Head of media production at an Enclave subsidiary; Atlantic says company and personal emails appear on drive uploads.",
@@ -744,13 +744,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11373"
+        "N-10882"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-472",
-      "ref": "N-472",
+      "@id": "N-305",
+      "ref": "N-305",
       "name": "Miriam Adelson",
       "type": "person",
       "description": "Host \"Miriam Medson\" ASR jab about purchasing the presidency for $300M; Vegas/Adelson thread.",
@@ -764,13 +764,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11378"
+        "N-10887"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-586",
-      "ref": "N-586",
+      "@id": "N-365",
+      "ref": "N-365",
       "name": "Robert F. Kennedy Jr.",
       "type": "person",
       "description": "Named among Elephant Clipping banned subjects (with Megyn Kelly, Nick Fuentes, Tucker Carlson, Riley Gaines); host also jokes big-pharma wealth may explain the RFK ban.",
@@ -786,13 +786,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11372"
+        "N-10881"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-477",
-      "ref": "N-477",
+      "@id": "N-308",
+      "ref": "N-308",
       "name": "Dean Withers",
       "type": "person",
       "description": "Listed with Candace as a non-approved figure in the August TPUSA clipping instructions.",
@@ -808,7 +808,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11372"
+        "N-10881"
       ]
     },
     {
@@ -829,7 +829,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11382",
+        "N-10891",
         "N-10000"
       ]
     },
@@ -852,8 +852,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11382",
-        "N-580"
+        "N-10891",
+        "N-359"
       ]
     },
     {
@@ -876,8 +876,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11374",
-        "N-11366"
+        "N-10883",
+        "N-10875"
       ]
     },
     {
@@ -895,7 +895,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-11372"
+        "N-10881"
       ]
     },
     {
@@ -915,13 +915,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-580"
+        "N-359"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Comments revisit CPR narratives vs unnamed fire captain.",
@@ -935,13 +935,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11365"
+        "N-10874"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
@@ -956,13 +956,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-10000",
-        "N-580"
+        "N-359"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-46",
-      "ref": "N-46",
+      "@id": "N-18",
+      "ref": "N-18",
       "name": "Andrew Wilson",
       "type": "person",
       "description": "August 14 debate becomes $75k Discord clip-pivot to make him look good vs Candace.",
@@ -980,8 +980,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-52",
-      "ref": "N-52",
+      "@id": "N-24",
+      "ref": "N-24",
       "name": "Riley Gaines",
       "type": "person",
       "description": "Named among Elephant Clipping banned subjects.",
@@ -993,13 +993,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-11372"
+        "N-10881"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-59",
-      "ref": "N-59",
+      "@id": "N-30",
+      "ref": "N-30",
       "name": "George (Candace's husband)",
       "type": "person",
       "description": "Comments satire about Oxford Hebrew class shame and House in Habit spin.",
@@ -1013,8 +1013,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
@@ -1029,13 +1029,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10078"
+        "N-10013"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-75",
-      "ref": "N-75",
+      "@id": "N-46",
+      "ref": "N-46",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
@@ -1047,13 +1047,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-11372"
+        "N-10881"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
@@ -1067,13 +1067,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-580"
+        "N-359"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
+      "@id": "N-97",
+      "ref": "N-97",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
@@ -1087,13 +1087,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11371"
+        "N-10880"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-144",
-      "ref": "N-144",
+      "@id": "N-103",
+      "ref": "N-103",
       "name": "Chris",
       "type": "person",
       "description": "On-air ask to pull Elephant Clipping flow chart.",
@@ -1107,8 +1107,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-169",
-      "ref": "N-169",
+      "@id": "N-119",
+      "ref": "N-119",
       "name": "Elon Musk",
       "type": "person",
       "description": "Named in Blake Wynn Mar-a-Lago election-night seating recount.",
@@ -1120,13 +1120,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-580"
+        "N-359"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-170",
-      "ref": "N-170",
+      "@id": "N-120",
+      "ref": "N-120",
       "name": "Vivek Ramaswamy",
       "type": "person",
       "description": "Atlantic: sub-campaigns offer extra money for favorable Vivek clips (Ohio governor race).",
@@ -1140,13 +1140,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11372"
+        "N-10881"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-205",
-      "ref": "N-205",
+      "@id": "N-149",
+      "ref": "N-149",
       "name": "Theo Von",
       "type": "person",
       "description": "Host notes Theo Von episode released / >1M views; kids call him Uncle Theo.",
@@ -1160,8 +1160,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
@@ -1175,8 +1175,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-242",
-      "ref": "N-242",
+      "@id": "N-173",
+      "ref": "N-173",
       "name": "Tate Brothers (Andrew and Tristan)",
       "type": "person",
       "description": "Andrew Tate credited as clipping-economy pioneer via Hustlers University; Romania/UK filings teased for later.",
@@ -1192,13 +1192,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11381"
+        "N-10890"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -1212,13 +1212,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11382"
+        "N-10891"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-293",
-      "ref": "N-293",
+      "@id": "N-205",
+      "ref": "N-205",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Banned on Instagram/YouTube yet clipped widely; Atlantic also lists him among Elephant Clipping banned subjects.",
@@ -1232,13 +1232,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11372"
+        "N-10881"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-406",
-      "ref": "N-406",
+      "@id": "N-265",
+      "ref": "N-265",
       "name": "Steven Crowder",
       "type": "person",
       "description": "Atlantic: Crowder campaign on Monster Lab (~$30k) also linked to Enclave drives; producer sneak-in for Wilson debate recalled.",
@@ -1252,13 +1252,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11373"
+        "N-10882"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -1272,13 +1272,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11365"
+        "N-10874"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-443",
-      "ref": "N-443",
+      "@id": "N-283",
+      "ref": "N-283",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Host joke about booking Theo Von and Tim Dillon when super pregnant.",
@@ -1292,8 +1292,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-550",
-      "ref": "N-550",
+      "@id": "N-336",
+      "ref": "N-336",
       "name": "Tulsi Gabbard",
       "type": "person",
       "description": "Extra-money sub-campaigns and Instagram photos with Kirks/Wynn noted.",
@@ -1307,13 +1307,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-580"
+        "N-359"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-909",
-      "ref": "N-909",
+      "@id": "N-566",
+      "ref": "N-566",
       "name": "Carrie Prejean Bowler",
       "type": "person",
       "description": "Traveling with Candace in Spain when coordinated smear wave hit.",
@@ -1332,8 +1332,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-994",
-      "ref": "N-994",
+      "@id": "N-605",
+      "ref": "N-605",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Pounds resignation praises Hegseth leadership; DoW framing.",
@@ -1347,7 +1347,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11379"
+        "N-10888"
       ]
     },
     {
@@ -1369,13 +1369,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11374"
+        "N-10883"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10078",
-      "ref": "N-10078",
+      "@id": "N-10013",
+      "ref": "N-10013",
       "name": "Discord",
       "type": "investigation_target",
       "description": "Assignment channel for clipping campaigns and site of Tyler Robinson alleged confession lore.",
@@ -1390,13 +1390,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11372"
+        "N-10881"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10091",
-      "ref": "N-10091",
+      "@id": "N-10026",
+      "ref": "N-10026",
       "name": "Israel",
       "type": "investigation_target",
       "description": "Host: Israeli-aligned interests in who is attacked/protected by clipping ops; \"Israel did nothing\" syndicate framing.",
@@ -1410,13 +1410,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11374"
+        "N-10883"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10320",
-      "ref": "N-10320",
+      "@id": "N-10249",
+      "ref": "N-10249",
       "name": "\"Mormon Mafia\" Allegation",
       "type": "investigation_target",
       "description": "Reused Vegas vulture / Hughes-company chop-up framing tied to Wynn/Adelson pieces.",
@@ -1430,14 +1430,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11143",
-        "N-11378"
+        "N-10744",
+        "N-10887"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11143",
-      "ref": "N-11143",
+      "@id": "N-10744",
+      "ref": "N-10744",
       "name": "Howard Hughes Death Investigation",
       "type": "investigation_target",
       "description": "Prior Hughes topic reused for Las Vegas company takeover narrative.",
@@ -1451,13 +1451,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10320"
+        "N-10249"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11214",
-      "ref": "N-11214",
+      "@id": "N-10815",
+      "ref": "N-10815",
       "name": "NCRI Report Provenance and Authorship",
       "type": "investigation_target",
       "description": "Pounds thread reinforced NCRI step-by-step blaming Candace for Erika dehumanization.",
@@ -1471,13 +1471,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-447"
+        "N-287"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11365",
-      "ref": "N-11365",
+      "@id": "N-10874",
+      "ref": "N-10874",
       "name": "UVU Independent Review Unnamed Fire Captain CPR Redaction",
       "type": "investigation_target",
       "description": "Comments continue: fire captain CPR on a body dead ~15 minutes as dog not barking; still seeking identity.",
@@ -1491,14 +1491,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-424",
-        "N-16"
+        "N-272",
+        "N-7"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11366",
-      "ref": "N-11366",
+      "@id": "N-10875",
+      "ref": "N-10875",
       "name": "Candyland Illegal-Nanny Mansion NDA Smear",
       "type": "investigation_target",
       "description": "Opening satire of commenters volunteering as nannies after yesterday's Candyland package.",
@@ -1517,8 +1517,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
@@ -1533,8 +1533,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-66",
-      "ref": "N-66",
+      "@id": "N-37",
+      "ref": "N-37",
       "name": "Bill Ackman",
       "type": "person",
       "description": "Named as boosting Pounds thread and as on Howard Hughes Inc board today.",
@@ -1561,20 +1561,20 @@
         "A-2497.1"
       ],
       "related_nodes": [
-        "N-11376",
-        "N-11379",
-        "N-11214"
+        "N-10885",
+        "N-10888",
+        "N-10815"
       ],
       "tags": [],
       "claim_timestamp": "00:01:42",
       "investigative_direction": "Archive the thread + employment paperwork dates; compare boost graph to paid clipping windows.",
       "mentions_person_refs": [
-        "N-447",
+        "N-287",
         "N-3",
         "N-2",
-        "N-42",
-        "N-66",
-        "N-69"
+        "N-14",
+        "N-37",
+        "N-40"
       ]
     },
     {
@@ -1582,12 +1582,12 @@
       "@id": "C-3775",
       "ref": "C-3775",
       "label": "Bill Ackman is the 'Bill Aman' who boosted the thread in C-3680 (revises C-3680)",
-      "claim": "C-3680 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-66): the host says Jennica Pounds' thread was instantly boosted by Andrew Kolvet and Bill Ackman as if they had casually come across it.",
+      "claim": "C-3680 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-37): the host says Jennica Pounds' thread was instantly boosted by Andrew Kolvet and Bill Ackman as if they had casually come across it.",
       "anchored_artifacts": [
         "A-2497.1"
       ],
       "related_nodes": [
-        "N-11376"
+        "N-10885"
       ],
       "tags": [],
       "claim_timestamp": "00:01:42",
@@ -1598,9 +1598,9 @@
         "C-3680"
       ],
       "mentions_person_refs": [
-        "N-66",
-        "N-42",
-        "N-447"
+        "N-37",
+        "N-14",
+        "N-287"
       ]
     },
     {
@@ -1613,15 +1613,15 @@
         "A-2497.1"
       ],
       "related_nodes": [
-        "N-11376",
-        "N-11379"
+        "N-10885",
+        "N-10888"
       ],
       "tags": [],
       "claim_timestamp": "00:04:02",
       "investigative_direction": "Preserve resignation post; confirm SGE appointment dates vs thread timestamps.",
       "mentions_person_refs": [
-        "N-447",
-        "N-994"
+        "N-287",
+        "N-605"
       ]
     },
     {
@@ -1634,9 +1634,9 @@
         "A-2498.1"
       ],
       "related_nodes": [
-        "N-11374",
-        "N-11371",
-        "N-10078",
+        "N-10883",
+        "N-10880",
+        "N-10013",
         "N-10000"
       ],
       "tags": [],
@@ -1647,7 +1647,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1660,16 +1660,16 @@
         "A-2498.1"
       ],
       "related_nodes": [
-        "N-11372",
+        "N-10881",
         "N-10000",
-        "N-11371"
+        "N-10880"
       ],
       "tags": [],
       "claim_timestamp": "00:10:03",
       "investigative_direction": "Hash-preserve campaign screenshots and Discord message IDs.",
       "mentions_person_refs": [
         "N-3",
-        "N-477",
+        "N-308",
         "N-1"
       ]
     },
@@ -1683,9 +1683,9 @@
         "A-2498.1"
       ],
       "related_nodes": [
-        "N-11372",
+        "N-10881",
         "N-10000",
-        "N-10078"
+        "N-10013"
       ],
       "tags": [],
       "claim_timestamp": "00:12:06",
@@ -1694,7 +1694,7 @@
         "C-3687"
       ],
       "mentions_person_refs": [
-        "N-46",
+        "N-18",
         "N-3"
       ]
     },
@@ -1708,27 +1708,27 @@
         "A-2499.1"
       ],
       "related_nodes": [
-        "N-11380",
-        "N-11377",
-        "N-11372",
-        "N-11371",
-        "N-10078"
+        "N-10889",
+        "N-10886",
+        "N-10881",
+        "N-10880",
+        "N-10013"
       ],
       "tags": [],
       "claim_timestamp": "00:14:10",
       "investigative_direction": "Preserve Atlantic article + Servius promo videos; map budget months to Candace harassment windows.",
       "mentions_person_refs": [
-        "N-582",
-        "N-579",
-        "N-586",
-        "N-75",
-        "N-293",
-        "N-52",
-        "N-170",
-        "N-550",
-        "N-133",
-        "N-406",
-        "N-50"
+        "N-361",
+        "N-358",
+        "N-365",
+        "N-46",
+        "N-205",
+        "N-24",
+        "N-120",
+        "N-336",
+        "N-97",
+        "N-265",
+        "N-22"
       ]
     },
     {
@@ -1741,8 +1741,8 @@
         "A-2499.1"
       ],
       "related_nodes": [
-        "N-11374",
-        "N-11380"
+        "N-10883",
+        "N-10889"
       ],
       "tags": [],
       "claim_timestamp": "00:18:40",
@@ -1751,7 +1751,7 @@
         "N-3",
         "N-2",
         "N-5",
-        "N-59"
+        "N-30"
       ]
     },
     {
@@ -1765,8 +1765,8 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-11377",
-        "N-11383"
+        "N-10886",
+        "N-10892"
       ],
       "tags": [],
       "claim_timestamp": "00:21:21",
@@ -1775,7 +1775,7 @@
         "C-3684"
       ],
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -1788,9 +1788,9 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-11382",
-        "N-11373",
-        "N-11378"
+        "N-10891",
+        "N-10882",
+        "N-10887"
       ],
       "tags": [],
       "claim_timestamp": "00:21:21",
@@ -1798,10 +1798,10 @@
       "mentions_person_refs": [
         "N-2",
         "N-1",
-        "N-580",
-        "N-583",
-        "N-584",
-        "N-585"
+        "N-359",
+        "N-362",
+        "N-363",
+        "N-364"
       ]
     },
     {
@@ -1814,20 +1814,20 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-11373",
-        "N-11371",
-        "N-10078"
+        "N-10882",
+        "N-10880",
+        "N-10013"
       ],
       "tags": [],
       "claim_timestamp": "00:28:58",
       "investigative_direction": "Timeline deletions vs reporter emails; recover drive revisions from recipients.",
       "mentions_person_refs": [
-        "N-580",
-        "N-581",
-        "N-583",
-        "N-584",
-        "N-585",
-        "N-582"
+        "N-359",
+        "N-360",
+        "N-362",
+        "N-363",
+        "N-364",
+        "N-361"
       ]
     },
     {
@@ -1840,8 +1840,8 @@
         "A-2501.1"
       ],
       "related_nodes": [
-        "N-11375",
-        "N-11371"
+        "N-10884",
+        "N-10880"
       ],
       "tags": [],
       "claim_timestamp": "00:41:06",
@@ -1860,9 +1860,9 @@
         "A-2501.1"
       ],
       "related_nodes": [
-        "N-11382",
-        "N-11375",
-        "N-11371"
+        "N-10891",
+        "N-10884",
+        "N-10880"
       ],
       "tags": [],
       "claim_timestamp": "00:43:19",
@@ -1881,15 +1881,15 @@
         "A-2502.1"
       ],
       "related_nodes": [
-        "N-11373"
+        "N-10882"
       ],
       "tags": [],
       "claim_timestamp": "00:27:17",
       "investigative_direction": "Preserve full Fargo Talks episode; map Blake-Erika public appearances list.",
       "mentions_person_refs": [
-        "N-580",
+        "N-359",
         "N-2",
-        "N-581"
+        "N-360"
       ]
     },
     {
@@ -1902,14 +1902,14 @@
         "A-2503.1"
       ],
       "related_nodes": [
-        "N-11381"
+        "N-10890"
       ],
       "tags": [],
       "claim_timestamp": "00:49:58",
       "investigative_direction": "Document Hustlers University affiliate mechanics vs Monster Lab Discord payout rules.",
       "mentions_person_refs": [
-        "N-242",
-        "N-293"
+        "N-173",
+        "N-205"
       ]
     },
     {
@@ -1922,8 +1922,8 @@
         "A-2504.1"
       ],
       "related_nodes": [
-        "N-11371",
-        "N-11375"
+        "N-10880",
+        "N-10884"
       ],
       "tags": [],
       "claim_timestamp": "00:44:24",
@@ -1945,7 +1945,7 @@
         "A-2504.1"
       ],
       "related_nodes": [
-        "N-10091"
+        "N-10026"
       ],
       "tags": [],
       "claim_timestamp": "01:10:26",
@@ -1965,20 +1965,20 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-11378",
-        "N-10320",
-        "N-11143",
-        "N-11373"
+        "N-10887",
+        "N-10249",
+        "N-10744",
+        "N-10882"
       ],
       "tags": [],
       "claim_timestamp": "00:45:09",
       "investigative_direction": "Map corporate ownership links among Enclave, Hughes remnants, and Adelson/Wynn entities.",
       "mentions_person_refs": [
-        "N-580",
-        "N-66",
-        "N-102",
-        "N-472",
-        "N-581"
+        "N-359",
+        "N-37",
+        "N-69",
+        "N-305",
+        "N-360"
       ]
     },
     {
@@ -1986,12 +1986,12 @@
       "@id": "C-3776",
       "ref": "C-3776",
       "label": "Bill Ackman is the 'Bill Aman' on the Howard Hughes board in C-3696 (revises C-3696)",
-      "claim": "C-3696 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-66): the host ties Bill Ackman's seat on the board of Howard Hughes Inc. into her Las Vegas money-syndicate framing.",
+      "claim": "C-3696 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-37): the host ties Bill Ackman's seat on the board of Howard Hughes Inc. into her Las Vegas money-syndicate framing.",
       "anchored_artifacts": [
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-11378"
+        "N-10887"
       ],
       "tags": [],
       "claim_timestamp": "00:46:30",
@@ -2002,8 +2002,8 @@
         "C-3696"
       ],
       "mentions_person_refs": [
-        "N-66",
-        "N-102"
+        "N-37",
+        "N-69"
       ]
     },
     {
@@ -2017,9 +2017,9 @@
         "A-2500.1"
       ],
       "related_nodes": [
-        "N-11383",
+        "N-10892",
         "N-10000",
-        "N-11382"
+        "N-10891"
       ],
       "tags": [],
       "claim_timestamp": "00:33:53",
@@ -2029,7 +2029,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -2042,7 +2042,7 @@
         "A-2476.1"
       ],
       "related_nodes": [
-        "N-11365"
+        "N-10874"
       ],
       "tags": [],
       "claim_timestamp": "00:55:45",
@@ -2065,7 +2065,7 @@
         "A-2474.1"
       ],
       "related_nodes": [
-        "N-11366"
+        "N-10875"
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
@@ -2087,7 +2087,7 @@
         "A-2498.1"
       ],
       "related_nodes": [
-        "N-11374"
+        "N-10883"
       ],
       "tags": [],
       "claim_timestamp": "01:03:57",
@@ -2258,7 +2258,7 @@
         {
           "episode": 161,
           "video_timestamp": "00:28:06",
-          "speaker_node_ref": "N-580",
+          "speaker_node_ref": "N-359",
           "quote": "but then there's this much more rare bucket Erika Kirk fits into it you fit into it and a couple other people fit into it which is that I look up to you guys as human beings.",
           "context": "Blake Wynn Fargo Talks clip; host echoes \"rare bucket\" description of Erika.",
           "confidence": "high",

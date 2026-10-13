@@ -29,9 +29,9 @@
 
 - Artifact Families Introduced: A-1686, A-1687, A-1688, A-1689
 - Claim Range: C-2206–C-2224
-  - New Nodes Introduced:  N-796, N-10517, N-10518, N-10519, N-10520, N-10521
+  - New Nodes Introduced:  N-508, N-10446, N-10447, N-10448, N-10449, N-10450
   - Reused Nodes Appearing: 
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk – preserved as N-2 series entry; note: transcript renders "Erika" – see Optional Flags); N-410 (Terrell Farnsworth)
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk – preserved as N-2 series entry; note: transcript renders "Erika" – see Optional Flags); N-267 (Terrell Farnsworth)
 
 ## 6. Meme Register
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:24:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2206, C-2207, C-2220, N-264, N-410*
+*Related: C-2206, C-2207, C-2220, N-190, N-267*
 
 **A-1686.2** Main Address – "Family" Framing, Job-Safety Assurance, Self-Correction Around "Happy"
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:17:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2206, C-2208, C-2209, C-2210, N-264, N-10519*
+*Related: C-2206, C-2208, C-2209, C-2210, N-190, N-10448*
 
 **A-1686.3** Closing Segment – "Be Soft With One Another," Airplane 15-Minute Story Attributed to "Usha," "So Sweet, God Bless You All"
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:26:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2206, C-2211, C-2212, N-2, N-10519*
+*Related: C-2206, C-2211, C-2212, N-2, N-10448*
 
 **A-1687** TPUSA Board Announcement Letter Bundle
 
@@ -104,7 +104,7 @@ Video Timestamp: 00:09:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2213, C-2214, N-2, N-796*
+*Related: C-2213, C-2214, N-2, N-508*
 
 **A-1688** Jeremy Boreing Interview Clip Bundle
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:39:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2215, N-607*
+*Related: C-2215, N-374*
 
 **A-1688.2** Boreing on Candace as "Nuclear Energy" Doing "An Incredible Amount of Damage"
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:40:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2216, C-2221, N-607*
+*Related: C-2216, C-2221, N-374*
 
 **A-1688.3** Boreing Comparing Candace's Show to "Rhetorical Pornography"
 
@@ -136,7 +136,7 @@ Video Timestamp: 00:41:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2217, C-2222, N-607*
+*Related: C-2217, C-2222, N-374*
 
 **A-1688.4** Boreing Claiming Candace Said "I Believe What the People Believe" on Two Occasions
 
@@ -146,7 +146,7 @@ Video Timestamp: 00:44:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2218, C-2223, N-607*
+*Related: C-2218, C-2223, N-374*
 
 **A-1689** The Bulwark Podcast Clip Bundle
 
@@ -158,13 +158,13 @@ Video Timestamp: 00:47:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2219, C-2224, N-607, N-10520*
+*Related: C-2219, C-2224, N-374, N-10449*
 
 ---
 
 # IV. NODE REGISTER
 
-**N-607** Jeremy Boreing
+**N-374** Jeremy Boreing
 
 Former CEO of The Daily Wire. Subject of multiple artifact-anchored claims in this episode regarding his characterization of Candace Owens and his management of the company's Hungarian production.
 
@@ -173,9 +173,9 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1688.1, A-1688.2, A-1688.3, A-1688.4, A-1689.1, C-2215, C-2216, C-2217, C-2218, C-2219, C-2221, C-2222, C-2223, C-2224, N-10520*
+*Related: A-1688.1, A-1688.2, A-1688.3, A-1688.4, A-1689.1, C-2215, C-2216, C-2217, C-2218, C-2219, C-2221, C-2222, C-2223, C-2224, N-10449*
 
-**N-264** Stacy Sheridan
+**N-190** Stacy Sheridan
 
 Head of Fundraising for Turning Point USA. Referenced by name during the September 16 corporate Zoom call ("even Stacy said he's going to…find ways to speak to us"). Host alleges Sheridan traveled with Erika to Utah and was present at the hospital and during the casket arrival.
 
@@ -186,7 +186,7 @@ Investigative Pressure: Medium
 
 *Related: A-1686.2, C-2208*
 
-**N-796** Doug DeGroot
+**N-508** Doug DeGroot
 
 TPUSA board member. Author of the September 17, 2025 board letter (A-1687.1) announcing Erika Kirk as CEO and Chair of Turning Point USA.
 
@@ -197,7 +197,7 @@ Investigative Pressure: Low
 
 *Related: A-1687.1, C-2213, C-2214*
 
-**N-410** Terrell Farnsworth
+**N-267** Terrell Farnsworth
 
 Identified by host during playback of the September 16 Zoom call as audible in the background of the recording.
 
@@ -208,7 +208,7 @@ Investigative Pressure: Low
 
 *Related: A-1686.1, C-2220*
 
-**N-10517** Hamptons Summit / Netanyahu Funding Offer Discrepancy
+**N-10446** Hamptons Summit / Netanyahu Funding Offer Discrepancy
 
 Persistent discrepancy between Andrew Kolvet's account (Netanyahu offered to fund TPUSA "to the next level") and Erika Kirk's account (no funding offer was made; Bibi was calling about a May letter) regarding the Hamptons retreat phone call.
 
@@ -219,7 +219,7 @@ Investigative Pressure: High
 
 *Related: N-2*
 
-**N-10518** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
+**N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
 
 Persistent discrepancy regarding whether Dr. Lee Trotter acted independently and violated HIPAA, or whether Erika Kirk was present on a three-way call with the surgeon on the day of Charlie Kirk's funeral mass, and whether the "Superman neck" statement originated from her.
 
@@ -230,7 +230,7 @@ Investigative Pressure: High
 
 *Related: N-2*
 
-**N-10519** TPUSA September 16 Corporate Call Framing Pattern
+**N-10448** TPUSA September 16 Corporate Call Framing Pattern
 
 Investigation target concerning Erika Kirk's "family" / job-safety framing of TPUSA staff in the September 16 Zoom call, juxtaposed by host against subsequent employee terminations she reports learning about from ex-staff.
 
@@ -241,7 +241,7 @@ Investigative Pressure: Medium
 
 *Related: A-1686.2, A-1686.3, C-2207, C-2208, C-2209, C-2210, C-2211, N-2*
 
-**N-10520** Daily Wire Hungary Production Expenditure Investigation
+**N-10449** Daily Wire Hungary Production Expenditure Investigation
 
 Persistent target concerning the financial scale and rationale of Daily Wire's Hungary-based production, including reporting that it involved approximately 100 extras, marsh sequences, transport to Italy, and bulls imported from Spain.
 
@@ -250,9 +250,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1689.1, C-2219, C-2224, N-607*
+*Related: A-1689.1, C-2219, C-2224, N-374*
 
-**N-10521** Fort Huachuca PR Response Coordination Question
+**N-10450** Fort Huachuca PR Response Coordination Question
 
 Persistent question regarding coordination between Erika Kirk and Andrew Kolvet on the Fort Huachuca PR response, allegedly routed through Paramount Tactical rather than directly to Candace Owens following their four-hour sit-down.
 
@@ -274,9 +274,9 @@ Claim Timestamp: 00:09:08
 Claim: A corporate-wide Zoom call addressed by Erika Kirk to Turning Point USA employees took place on September 16, 2025 – approximately five-and-a-half days after Charlie Kirk's death – with the public board announcement following one day later.
 
 Anchored Artifacts: A-1686.1, A-1686.2, A-1686.3
-Mentions: N-264, N-1, N-2
+Mentions: N-190, N-1, N-2
 
-Related Nodes: N-10519
+Related Nodes: N-10448
 
 Investigative Direction: Verify call metadata, attendee list, and recording provenance; cross-reference against the September 17 public board announcement (A-1687.1).
 
@@ -289,7 +289,7 @@ Claim: The opening of the September 16 Zoom call features visible Zoom "thumbs u
 Anchored Artifacts: A-1686.1
 Mentions: N-2
 
-Related Nodes: N-10519
+Related Nodes: N-10448
 
 Investigative Direction: Obtain unedited full recording; confirm reaction icons, laughter timing, and participant count.
 
@@ -300,9 +300,9 @@ Claim Timestamp: 00:17:35
 Claim: During the September 16 call, Erika Kirk repeatedly addressed Turning Point USA employees as "family," stating "your family if you want to," "I want our family to stay together," and "this is your chosen family."
 
 Anchored Artifacts: A-1686.2
-Mentions: N-264, N-2
+Mentions: N-190, N-2
 
-Related Nodes: N-10519
+Related Nodes: N-10448
 
 Investigative Direction: Compile every instance of "family" usage; obtain termination records of named attendees to verify the host's juxtaposition.
 
@@ -315,7 +315,7 @@ Claim: During the September 16 call, Erika Kirk stated, "I will fight like hell 
 Anchored Artifacts: A-1686.2
 Mentions: N-2
 
-Related Nodes: N-10519
+Related Nodes: N-10448
 
 Investigative Direction: Cross-reference against TPUSA termination data from Q4 2025 onward; identify whether attendees retained employment.
 
@@ -328,7 +328,7 @@ Claim: During the September 16 call, Erika Kirk interrupted herself mid-sentence
 Anchored Artifacts: A-1686.2
 Mentions: N-2, N-1
 
-Related Nodes: N-10519
+Related Nodes: N-10448
 
 Investigative Direction: Obtain unedited recording; confirm whether the self-correction is verbatim as transcribed.
 
@@ -341,7 +341,7 @@ Claim: During the September 16 call, Erika Kirk told TPUSA employees to "be soft
 Anchored Artifacts: A-1686.3
 Mentions: N-2
 
-Related Nodes: N-10519
+Related Nodes: N-10448
 
 Investigative Direction: Verify exact phrasing on unedited recording; trace adoption timeline of the "everybody grieves differently" framing across TPUSA communications.
 
@@ -354,7 +354,7 @@ Claim: During the September 16 call, Erika Kirk shared an airplane analogy ("15 
 Anchored Artifacts: A-1686.3
 Mentions: N-2
 
-Related Nodes: N-10519
+Related Nodes: N-10448
 
 Investigative Direction: Identify the "Usha" referenced; verify identity and whether the analogy was shared privately on the tarmac as Erika describes.
 
@@ -365,7 +365,7 @@ Claim Timestamp: 00:09:08
 Claim: The September 17, 2025 public letter announcing Erika Kirk as Turning Point USA's new CEO and Chair was authored by Doug DeGroot as a board member.
 
 Anchored Artifacts: A-1687.1
-Mentions: N-796, N-2
+Mentions: N-508, N-2
 
 
 Investigative Direction: Obtain original signed letter; verify Doug DeGroot's role on the TPUSA board at the time of issuance.
@@ -377,7 +377,7 @@ Claim Timestamp: 00:09:08
 Claim: The September 17, 2025 board letter opens with a citation to Ecclesiastes, attributing the quote to King Solomon, and frames Kirk's appointment as a divinely ordained test: "mankind is to be tested by God."
 
 Anchored Artifacts: A-1687.1
-Mentions: N-796
+Mentions: N-508
 
 
 Investigative Direction: Verify exact wording against original letter; document all subsequent TPUSA communications invoking similar framing.
@@ -389,7 +389,7 @@ Claim Timestamp: 00:39:00
 Claim: In a podcast interview, Jeremy Boreing stated, "I certainly think that hiring Candace is probably the biggest mistake of my professional life so far."
 
 Anchored Artifacts: A-1688.1
-Mentions: N-607, N-3
+Mentions: N-374, N-3
 
 
 Investigative Direction: Identify the source podcast and episode date; verify Boreing's full context for the statement.
@@ -401,7 +401,7 @@ Claim Timestamp: 00:40:30
 Claim: In a podcast interview, Jeremy Boreing stated: "Candace is like nuclear energy, you know, if you if you harness it properly, she can power a city. If you lose control, she'll flatten the city."
 
 Anchored Artifacts: A-1688.2
-Mentions: N-607, N-3
+Mentions: N-374, N-3
 
 
 Investigative Direction: Identify source podcast and date; verify exact quote and surrounding context.
@@ -413,7 +413,7 @@ Claim Timestamp: 00:41:59
 Claim: In a podcast interview, Jeremy Boreing stated Candace Owens "is at war with the widow of her purported best friend" and characterized her content as a "kind of pornography" and "rhetorical pornography," adding that "you shouldn't be able to look at it if you're under 18."
 
 Anchored Artifacts: A-1688.3
-Mentions: N-607, N-3
+Mentions: N-374, N-3
 
 
 Investigative Direction: Identify source podcast and date; verify quote against full unedited clip.
@@ -425,7 +425,7 @@ Claim Timestamp: 00:44:36
 Claim: In a podcast interview, Jeremy Boreing claimed that on two separate occasions when he asked Candace what she believes, she answered, "I believe what the people believe. I am the voice of the people."
 
 Anchored Artifacts: A-1688.4
-Mentions: N-607
+Mentions: N-374
 
 
 Investigative Direction: Identify source podcast and date; verify whether Candace Owens has ever publicly responded to or denied this characterization.
@@ -437,9 +437,9 @@ Claim Timestamp: 00:47:50
 Claim: In a Bulwark podcast segment, the host described Daily Wire's Hungary production as including approximately 100 extras staging fist fights in a marsh, traveling to Italy for additional filming, and importing bulls from Spain for the production.
 
 Anchored Artifacts: A-1689.1
-Mentions: N-607
+Mentions: N-374
 
-Related Nodes: N-10520
+Related Nodes: N-10449
 
 Investigative Direction: Identify the Bulwark episode and date; verify whether Daily Wire or Boreing has disputed these production details.
 
@@ -450,7 +450,7 @@ Claim Timestamp: 00:16:46
 Claim: During the September 16 Zoom call playback, host identifies Teo Farnsworth as audible in the background of the recording.
 
 Anchored Artifacts: A-1686.1
-Mentions: N-410
+Mentions: N-267
 
 
 Investigative Direction: Confirm Teo Farnsworth's identity and role at TPUSA at the time of the call; verify whether he was a scheduled participant.
@@ -462,7 +462,7 @@ Claim Timestamp: 00:40:30
 Claim: Candace Owens asserts that Boreing's explicit framing of why he hired her – tied to her willingness to critique Black Lives Matter – is "objectively racist."
 
 Anchored Artifacts: A-1688.2
-Mentions: N-607, N-3
+Mentions: N-374, N-3
 
 
 Investigative Direction: Evaluate the host's interpretive claim against the verbatim Boreing quote; consider whether Boreing's prior public statements confirm or rebut this framing.
@@ -474,7 +474,7 @@ Claim Timestamp: 00:43:46
 Claim: Candace Owens rejects Boreing's pornography analogy and argues it functions as deflection from documented sexual exploitation, including alleged Israeli sexual blackmail and the 2002 Gaza pornography broadcasts.
 
 Anchored Artifacts: A-1688.3
-Mentions: N-607, N-3
+Mentions: N-374, N-3
 
 
 Investigative Direction: Document the factual claims about Israeli sexual blackmail and Gaza pornography broadcasts; identify primary sources for each.
@@ -486,7 +486,7 @@ Claim Timestamp: 00:44:36
 Claim: Candace Owens rejects Boreing's account of her saying "I believe what the people believe," describing it as "obviously made up" and an "amoral statement."
 
 Anchored Artifacts: A-1688.4
-Mentions: N-607, N-3
+Mentions: N-374, N-3
 
 
 Investigative Direction: Compare Boreing's account against any other contemporaneous documentation of the alleged conversations.
@@ -498,9 +498,9 @@ Claim Timestamp: 00:48:28
 Claim: Candace Owens concurs with the Bulwark host's characterization of Daily Wire's Hungary production as financially extravagant and possibly connected to a debt-reduction departure agreement.
 
 Anchored Artifacts: A-1689.1
-Mentions: N-607, N-3
+Mentions: N-374, N-3
 
-Related Nodes: N-10520
+Related Nodes: N-10449
 
 Investigative Direction: Identify any public Daily Wire financial disclosures or departure-agreement terms that corroborate Bulwark's reporting.
 

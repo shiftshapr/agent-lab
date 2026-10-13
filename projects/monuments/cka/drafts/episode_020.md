@@ -12,11 +12,11 @@
 - **Transcript SHA-256**: 8e3767219910081da3667951aa2631008c1fef13d2bd87a539a898bb6428508e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-269, N-272, N-273, N-277, N-278, N-281, N-283, N-284, N-285, N-10262, N-10263, N-10264, N-10265
+  - New Nodes Introduced:  N-193, N-194, N-195, N-196, N-197, N-199, N-200, N-201, N-202, N-10196, N-10197, N-10198, N-10199
   - Reused Nodes Appearing: none
-  - Hole-minted Nodes (remap-ep20): N-182
+  - Hole-minted Nodes (remap-ep20): N-132
 
-The episode advances several investigative threads already active in the series (Mikey McCoy's actions on September 10, the trauma-hospital routing question, the "306 bullet wound" forensic question, and TPUSA personnel analysis) while introducing a new artifact family tied to the alleged UVU Hospital medical record. The text-message artifacts and audio clips are the structural core of the episode's evidentiary record., N-37, N-182
+The episode advances several investigative threads already active in the series (Mikey McCoy's actions on September 10, the trauma-hospital routing question, the "306 bullet wound" forensic question, and TPUSA personnel analysis) while introducing a new artifact family tied to the alleged UVU Hospital medical record. The text-message artifacts and audio clips are the structural core of the episode's evidentiary record., N-11, N-132
 
 ## 6. Meme Register
 
@@ -95,7 +95,7 @@ Confidence Level: High
 
 Contents (read on air): Candace – "Yo, Kanye West writing a philosophy book called Break the Simulation. We need him, Charlie. He is Blexit AF." Charlie – "I love Kanye. He's my soul brother. I will find a way to him. I promise we have to."
 
-*Related: C-1490, C-1491, N-1, N-56*
+*Related: C-1490, C-1491, N-1, N-27*
 
 **A-1270.2** Text exchange, evening of April 20, 2018 (eve of Kanye tweet)
 
@@ -107,7 +107,7 @@ Confidence Level: High
 
 Contents (read on air): Charlie – "I'm on a run and I'm blasting Kanye West and we're on the brink of something big and like this is our time." Candace – "So exciting. It's our time." Charlie – "Yes."
 
-*Related: C-1492, N-1, N-56*
+*Related: C-1492, N-1, N-27*
 
 **A-1270.3** Text exchange, morning of April 21, 2018 (after Kanye tweet)
 
@@ -119,7 +119,7 @@ Confidence Level: High
 
 Contents (read on air): Candace – "Please pick up because I was shaking." Charlie – "I am freaking the f out."
 
-*Related: C-1493, N-1, N-56*
+*Related: C-1493, N-1, N-27*
 
 ---
 
@@ -135,7 +135,7 @@ Confidence Level: Medium (originals deleted per host; not independently verified
 
 Contents (read on air): "A change in energy … which stuns high consciousness people does not mean bad. It simply means that it's cosmic. A paradigm is shifting." Also: "Several high consciousness people I've spoken to independently told me about feeling a shift in energy. Something is going on. It happened two to three weeks ago. I'm not talking politics or elections. It's much bigger energy shift."
 
-*Related: C-1494, C-1495, N-269*
+*Related: C-1494, C-1495, N-193*
 
 ---
 
@@ -151,7 +151,7 @@ Confidence Level: High
 
 Contents (referenced on air): "I love the way Candace Owens thinks."
 
-*Related: C-1496, N-56*
+*Related: C-1496, N-27*
 
 ---
 
@@ -167,7 +167,7 @@ Confidence Level: High
 
 Contents (played on air): Adams states Kanye "ripped a hole in reality with seven words" and "freed a lot of people from a mental prison."
 
-*Related: C-1497, N-266*
+*Related: C-1497, N-191*
 
 ---
 
@@ -199,7 +199,7 @@ Confidence Level: High
 
 Contents (played on air): Kovett states Charlie had drilled into Mikey's brain that "If anything ever happens to me, you call Erika." Kovett further states Mikey was taking social-video clips for the group chat at the time of the shot, not on the phone, and that he put his fingers in his ears due to the loud blast.
 
-*Related: C-1499, C-1500, N-42, N-272, N-1, N-2*
+*Related: C-1499, C-1500, N-14, N-194, N-1, N-2*
 
 ---
 
@@ -215,7 +215,7 @@ Confidence Level: High
 
 Contents (played on air): Marlo characterizes online suggestion that Mikey McCoy was part of a conspiracy to murder Charlie as "vile," compares the mindset of conspiracy theorists to drug addiction or pornography, and frames the activity as addictive.
 
-*Related: C-1501, N-273, N-272*
+*Related: C-1501, N-195, N-194*
 
 ---
 
@@ -231,7 +231,7 @@ Confidence Level: High
 
 Contents (played on air): Turk states "there's a difference between a possibility and evidence for a possibility," tells critics to "shut up" without evidence, and defends Mikey McCoy as a "24-year-old who at the time when Charlie was shot was 23 and was a hero that day."
 
-*Related: C-1502, N-16, N-272*
+*Related: C-1502, N-7, N-194*
 
 ---
 
@@ -247,7 +247,7 @@ Confidence Level: Medium (read on air; underlying document not displayed in full
 
 Contents (read on air): "Hi all. There was a media event that took place today that led to a trauma patient. Due to the nature of the situation, the only individuals who will be allowed in the chart will be Deborah and myself. No one else is allowed to hover or open the chart. Jacob blank. Deb and I will be doing the log tomorrow. Thanks."
 
-*Related: C-1503, C-1504, N-10262*
+*Related: C-1503, C-1504, N-10196*
 
 ---
 
@@ -263,7 +263,7 @@ Confidence Level: Medium
 
 Contents (played on air): Webb states Rob McCoy "does have this strange military background," identifies him as a NAR figure, and links the McCoy orbit to the $25 million-and-above NAR donor network and the Ziklag organization.
 
-*Related: C-1505, C-1506, N-45, N-10264*
+*Related: C-1505, C-1506, N-17, N-10198*
 
 ---
 
@@ -279,7 +279,7 @@ Confidence Level: Medium
 
 Contents (read on air): Reports that French tax forms list Brigitte Macron under "Jean Michelle" as male, citing Mr. Burme (described as a government official) and a staffer who has worked with the Macrons since 2017. Host also references prior "Becoming Breit" series.
 
-*Related: C-1507, C-1508, N-117*
+*Related: C-1507, C-1508, N-82*
 
 ---
 
@@ -295,7 +295,7 @@ Confidence Level: Medium
 
 Contents (read on air): Livingstone tweet captioned on air as a complaint after Candace issued a copyright strike against re-uploaded Book Club content watermarked "Milk Bar TV."
 
-*Related: C-1509, N-277*
+*Related: C-1509, N-196*
 
 ---
 
@@ -311,13 +311,13 @@ Confidence Level: Medium (chart described in transcript; full content not transc
 
 Contents (per host narration): Lists Frank Turk, Andrew Kovett, Rob McCoy, Mikey McCoy, Tyler Bowyer and identifies military-family members including Captain Kurt Kovvet, Captain Robert Kovvet, Roy Edgar McCoy (naval captain, assistant chief of staff for psychological warfare).
 
-*Related: C-1505, C-1506, N-42, N-272, N-16, N-45, N-70, N-10264, N-37*
+*Related: C-1505, C-1506, N-14, N-194, N-7, N-17, N-41, N-10198, N-11*
 
 ---
 
 ## 4. Node Register
 
-**N-56** Kanye West
+**N-27** Kanye West
 
 Musician; subject of the April 21, 2018 tweet that the episode anchors as a transformational event in Candace Owens' public career.
 
@@ -330,7 +330,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-269** Mike Cernovich
+**N-193** Mike Cernovich
 
 Commentator; author of an April 2018 tweet thread on cosmic "energy shift" referenced by the host as corroborating her and Charlie's premonitions.
 
@@ -343,7 +343,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-266** Scott Adams
+**N-191** Scott Adams
 
 Commentator; subject of audio clip characterizing Kanye's April 2018 tweet as having "ripped a hole in reality."
 
@@ -356,7 +356,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-42** Andrew Kolvet
+**N-14** Andrew Kolvet
 
 TPUSA spokesperson (per on-air clip); authored the public explanation of Mikey McCoy's post-shooting actions.
 
@@ -365,11 +365,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1275.1, A-1282.1, C-1499, C-1500, N-272, N-1, N-2*
+*Related: A-1275.1, A-1282.1, C-1499, C-1500, N-194, N-1, N-2*
 
 ---
 
-**N-272** Mikey McCoy
+**N-194** Mikey McCoy
 
 Charlie Kirk's chief of staff (per on-air references); subject of behavioral questions on September 10, 2025 and the focus of TPUSA's on-air defense.
 
@@ -378,11 +378,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1275.1, A-1276.1, A-1277.1, A-1282.1, C-1499, C-1500, C-1501, C-1502, N-1, N-42, N-16, N-45, N-10263*
+*Related: A-1275.1, A-1276.1, A-1277.1, A-1282.1, C-1499, C-1500, C-1501, C-1502, N-1, N-14, N-7, N-17, N-10197*
 
 ---
 
-**N-273** Alex Marlo
+**N-195** Alex Marlo
 
 Breitbart News; subject of on-air clip dismissing conspiracy allegations against Mikey McCoy and characterizing online speculation as addictive.
 
@@ -395,7 +395,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-16** Frank Turek
+**N-7** Frank Turek
 
 Former U.S. Navy officer, Christian apologist; subject of on-air clip defending Mikey McCoy and rebuking Candace for advancing unevidenced claims.
 
@@ -408,7 +408,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-45** Rob McCoy
+**N-17** Rob McCoy
 
 Pastor; subject of George Webb audio clip and the on-screen military-connections chart. Father identified as Roy Edgar McCoy (naval captain, assistant chief of staff for psychological warfare).
 
@@ -417,11 +417,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1279.1, A-1282.1, C-1505, C-1506, N-10264*
+*Related: A-1279.1, A-1282.1, C-1505, C-1506, N-10198*
 
 ---
 
-**N-117** Brigitte Macron
+**N-82** Brigitte Macron
 
 Spouse of Emmanuel Macron (transcribed by host as "Breijit Mcronone"); subject of French tax-form reporting cited as showing "Jean Michelle" male registration.
 
@@ -434,7 +434,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-277** Nathan Livingstone
+**N-196** Nathan Livingstone
 
 Operator of "Milk Bar TV" account; subject of host's account of book-club content reuse and copyright strike.
 
@@ -447,7 +447,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-278** David Horowitz
+**N-197** David Horowitz
 
 Activist; referenced on air as initial conduit between Candace and Kanye post-April 2018 tweet.
 
@@ -460,7 +460,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-217** John Mappin
+**N-157** John Mappin
 
 UK-based donors (spelling uncertain per transcript); identified on air as facilitators of the December 2018 UK event where Candace first met her husband. Name uncertainty flagged.
 
@@ -473,7 +473,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-281** Lee Trotter
+**N-199** Lee Trotter
 
 Surgeon referenced on air as having worked on Charlie Kirk; host alleges Air Force residency at Keesler Air Force Medical Center and possible active Air Force service.
 
@@ -486,7 +486,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-249** Deidra Weiss Amaro
+**N-179** Deidra Weiss Amaro
 
 Medical examiner referenced on air; host alleges Army rank of major and Ericsson family lineage tied to Boyd Corporation.
 
@@ -499,7 +499,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-283** Roy Edgar McCoy
+**N-200** Roy Edgar McCoy
 
 Naval captain (deceased, per context); father of Rob McCoy; host alleges service as assistant chief of staff for psychological warfare in the Navy.
 
@@ -508,11 +508,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1279.1, A-1282.1, N-45*
+*Related: A-1279.1, A-1282.1, N-17*
 
 ---
 
-**N-284** Jacob Blank
+**N-201** Jacob Blank
 
 Signatory of the UVU Hospital internal message restricting access to the Charlie Kirk trauma file.
 
@@ -525,7 +525,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-285** George Webb
+**N-202** George Webb
 
 Investigative journalist; subject of on-air audio clip providing commentary on Rob McCoy's military background and NAR/Ziklag connections.
 
@@ -538,7 +538,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10262** UVU Hospital Charlie Kirk Medical File Access Question
+**N-10196** UVU Hospital Charlie Kirk Medical File Access Question
 
 Persistent question raised by host's receipt of an internal UVU Hospital message (A-1278.1) restricting file access and by tipster claims that Kirk was treated at UVU rather than Timpanogos.
 
@@ -547,11 +547,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1278.1, C-1503, C-1504, N-284*
+*Related: A-1278.1, C-1503, C-1504, N-201*
 
 ---
 
-**N-10263** TPUSA Military-Personnel Network
+**N-10197** TPUSA Military-Personnel Network
 
 Persistent question regarding the density of U.S. military-background personnel inside TPUSA and adjacent media (host frames as "military simulation" hypothesis). Supported by A-1279.1, A-1282.1.
 
@@ -560,11 +560,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1279.1, A-1282.1, C-1505, C-1506, N-42, N-272, N-16, N-45, N-70*
+*Related: A-1279.1, A-1282.1, C-1505, C-1506, N-14, N-194, N-7, N-17, N-41*
 
 ---
 
-**N-10264** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)
 
 Persistent discrepancy between TPUSA's explanation (A-1275.1) of McCoy's actions (ear-covering, video capture, delayed call to Erica) and the host's behavioral analysis of the same video.
 
@@ -573,11 +573,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1275.1, A-1276.1, A-1277.1, C-1499, C-1500, C-1501, C-1502, N-272*
+*Related: A-1275.1, A-1276.1, A-1277.1, C-1499, C-1500, C-1501, C-1502, N-194*
 
 ---
 
-**N-10265** Susie Wiles Eulogy-Selection Question
+**N-10199** Susie Wiles Eulogy-Selection Question
 
 Host's flagged curiosity regarding the selection of Susie Wiles (spelled "Susie Wiles" in one place) as a Kirk eulogist; no artifact-anchored explanation given.
 
@@ -586,11 +586,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-182*
+*Related: N-132*
 
 ---
 
-**N-37** Tyler Bowyer
+**N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -599,7 +599,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 ---
 
-**N-182** Susie Wiles
+**N-132** Susie Wiles
 
 Node Type: Person
 White House chief of staff. Host questions her Kirk eulogy and names her in Epstein-file situation-room meetings.
@@ -617,7 +617,7 @@ Claim Timestamp: 00:03:50
 Claim: In the April 13, 2018 text exchange (A-1270.1), Candace tells Charlie that Kanye West was writing a philosophy book titled "Break the Simulation" and explicitly tags him "Blexit AF."
 
 Anchored Artifacts: A-1270.1
-Mentions: N-1, N-56
+Mentions: N-1, N-27
 
 Investigative Direction: Obtain independent verification of the text exchange (carrier records, device forensics).
 
@@ -630,7 +630,7 @@ Claim Timestamp: 00:03:50
 Claim: Charlie's reply in the April 13, 2018 text exchange states he loves Kanye and "will find a way to him" with a promise to do so.
 
 Anchored Artifacts: A-1270.1
-Mentions: N-1, N-56
+Mentions: N-1, N-27
 
 Investigative Direction: Obtain independent verification of the text exchange and any subsequent contact logs between Charlie and Kanye representatives.
 
@@ -643,7 +643,7 @@ Claim Timestamp: 00:05:35
 Claim: Charlie's April 20, 2018 evening text states he is running while blasting Kanye West and that "we're on the brink of something big and like this is our time."
 
 Anchored Artifacts: A-1270.2
-Mentions: N-1, N-56
+Mentions: N-1, N-27
 
 Investigative Direction: Obtain independent verification of the text exchange and corroborating device or carrier records.
 
@@ -656,7 +656,7 @@ Claim Timestamp: 00:06:20
 Claim: The April 21, 2018 morning text exchange shows Candace "shaking" and Charlie writing "I am freaking the f out."
 
 Anchored Artifacts: A-1270.3
-Mentions: N-1, N-56
+Mentions: N-1, N-27
 
 Investigative Direction: Obtain independent verification of the text exchange and timestamps.
 
@@ -669,7 +669,7 @@ Claim Timestamp: 00:04:50
 Claim: Mike Cernovich posted a series of tweets around April 16, 2018 stating that high-consciousness people were reporting a paradigm-level energy shift that began two-to-three weeks earlier.
 
 Anchored Artifacts: A-1271.1
-Mentions: N-269
+Mentions: N-193
 
 Investigative Direction: Obtain archived copies of Cernovich's tweet thread (Wayback Machine, third-party archives) to verify wording and dating.
 
@@ -682,7 +682,7 @@ Claim Timestamp: 00:04:50
 Claim: Host asserts that Cernovich's tweets confirmed her and Charlie's contemporaneous experience of the same shift.
 
 Anchored Artifacts: A-1271.1
-Mentions: N-269
+Mentions: N-193
 
 Investigative Direction: Identify and timestamp any other contemporaneous public statements or private messages corroborating the "energy shift" framing.
 
@@ -695,7 +695,7 @@ Claim Timestamp: 00:06:50
 Claim: Kanye West posted "I love the way Candace Owens thinks" on April 21, 2018.
 
 Anchored Artifacts: A-1272.1
-Mentions: N-56, N-3
+Mentions: N-27, N-3
 
 Investigative Direction: Obtain archived copy of original Kanye tweet from independent platform (e.g., Wayback Machine, X data export).
 
@@ -708,7 +708,7 @@ Claim Timestamp: 00:07:00–00:09:05
 Claim: Scott Adams, in commentary played on air, stated Kanye "ripped a hole in reality with seven words" and "freed a lot of people from a mental prison."
 
 Anchored Artifacts: A-1273.1
-Mentions: N-266
+Mentions: N-191
 
 Investigative Direction: Locate and timestamp original Scott Adams video; verify exact wording against played clip.
 
@@ -734,7 +734,7 @@ Claim Timestamp: 00:39:46–00:44:30
 Claim: In TPUSA audio played on air, Andrew Kovett states Charlie repeatedly instructed Mikey that "If anything ever happens to me, you call Erika," and that Mikey followed that protocol after the shot.
 
 Anchored Artifacts: A-1275.1
-Mentions: N-1, N-2, N-42, N-272
+Mentions: N-1, N-2, N-14, N-194
 
 Investigative Direction: Verify whether Mikey McCoy himself has publicly corroborated Kovett's account, and obtain any contemporaneous record of the alleged instruction.
 
@@ -747,7 +747,7 @@ Claim Timestamp: 00:39:46–00:44:30
 Claim: Kovett states Mikey was taking social-video clips for the TPUSA group chat at the time of the shot, with the phone in his hand only as he covered his ears due to the loud blast.
 
 Anchored Artifacts: A-1275.1
-Mentions: N-1, N-42, N-272
+Mentions: N-1, N-14, N-194
 
 Investigative Direction: Obtain the full video clip from which Kovett's narration derives, and time-stamp Mikey's actions frame-by-frame.
 
@@ -760,7 +760,7 @@ Claim Timestamp: 00:46:30–00:48:30
 Claim: In Breitbart audio played on air, Alex Marlo characterizes suggestion that Mikey McCoy was part of a conspiracy to murder Charlie as "vile" and likens the mindset fueling such claims to drug or pornography addiction.
 
 Anchored Artifacts: A-1276.1
-Mentions: N-272, N-273
+Mentions: N-194, N-195
 
 Investigative Direction: Identify date and outlet of Marlo's full segment; obtain full unedited clip.
 
@@ -773,7 +773,7 @@ Claim Timestamp: 00:50:30–00:52:30
 Claim: Frank Turk states there is a "difference between a possibility and evidence for a possibility," tells critics without evidence to "shut up," and characterizes Mikey McCoy's actions on September 10, 2025 as heroic given his age (23) at the time.
 
 Anchored Artifacts: A-1277.1
-Mentions: N-16, N-272
+Mentions: N-7, N-194
 
 Investigative Direction: Identify date and outlet of Turk's full segment; confirm Mikey McCoy's age at the time of the September 10 event.
 
@@ -786,8 +786,8 @@ Claim Timestamp: 00:32:30–00:35:00
 Claim: Host displays a UVU Hospital internal message dated September 10, 2025 (received per host at 20:08) instructing staff that only "Deborah" and "Jacob Blank" are allowed to access the trauma-patient chart.
 
 Anchored Artifacts: A-1278.1
-Mentions: N-1, N-284
-Related Nodes: N-10262
+Mentions: N-1, N-201
+Related Nodes: N-10196
 
 Investigative Direction: Obtain independent verification of the message (forensic metadata, screenshots from multiple UVU staff); identify the two named individuals and their institutional roles.
 
@@ -801,7 +801,7 @@ Claim: Host asserts that tipsters from UVU medical staff have confirmed that Cha
 
 Anchored Artifacts: A-1278.1
 Mentions: N-1
-Related Nodes: N-10262
+Related Nodes: N-10196
 
 Investigative Direction: Obtain independent verification from UVU medical staff or institutional records; reconcile with the contemporaneous routing to Timpanogos Regional Hospital.
 
@@ -814,8 +814,8 @@ Claim Timestamp: 00:23:30–00:24:30
 Claim: George Webb states on air that Rob McCoy has a "strange military background" and was guiding Charlie toward a NAR-aligned apostolic movement; host asserts Rob McCoy's father Roy Edgar McCoy was a naval captain and assistant chief of staff for psychological warfare in the Navy.
 
 Anchored Artifacts: A-1279.1, A-1282.1
-Mentions: N-45, N-283, N-285
-Related Nodes: N-10263
+Mentions: N-17, N-200, N-202
+Related Nodes: N-10197
 
 Investigative Direction: Obtain Roy Edgar McCoy's official Navy service record; confirm Webb's claim against public biographical sources.
 
@@ -828,8 +828,8 @@ Claim Timestamp: 00:23:30–00:24:30
 Claim: George Webb states on air that Rob McCoy was connected to the New Apostolic Reformation (NAR) donor network Ziklag, described as "$25 million and above" Christian-right donors.
 
 Anchored Artifacts: A-1279.1
-Mentions: N-45, N-285
-Related Nodes: N-10263
+Mentions: N-17, N-202
+Related Nodes: N-10197
 
 Investigative Direction: Obtain independent verification of Ziklag's donor list and any documented overlap with TPUSA personnel or events.
 
@@ -842,7 +842,7 @@ Claim Timestamp: 00:57:30–00:59:30
 Claim: Host cites reporting, attributed to a French government official named Mr. Burme, that Brigitte Macron's French tax account lists her name as "Jean Michelle" and sex as male.
 
 Anchored Artifacts: A-1280.1
-Mentions: N-117
+Mentions: N-82
 
 Investigative Direction: Obtain the original French reporting, the Burme statement, and any tax-form documentation referenced; verify the dating of the records.
 
@@ -855,7 +855,7 @@ Claim Timestamp: 00:57:30–00:59:30
 Claim: Host rejects the public suggestion that the "Jean Michelle" entry was the product of a hacker, arguing the risk/reward of hacking a sitting president's records solely to change a name entry is implausible.
 
 Anchored Artifacts: A-1280.1
-Mentions: N-117
+Mentions: N-82
 
 Investigative Direction: Identify and obtain the original reporting cited by host; obtain French government statement (if any) addressing the discrepancy.
 
@@ -868,7 +868,7 @@ Claim Timestamp: 00:55:30–00:56:30
 Claim: Host states Nathan Livingstone ("Milk Bar TV") re-uploaded Book Club content watermarked with his own branding, and after being issued a copyright strike publicly complained that Candace was trying to silence him.
 
 Anchored Artifacts: A-1281.1
-Mentions: N-277
+Mentions: N-196
 
 Investigative Direction: Obtain archived copies of Livingstone's tweet and the original watermarked re-upload; verify the platform's copyright-strike record.
 
@@ -881,7 +881,7 @@ Claim Timestamp: 00:57:00–00:58:00
 Claim: Host discusses David Horowitz in episode narrative (register anchor).
 
 Anchored Artifacts: A-1281.1
-Mentions: N-278
+Mentions: N-197
 
 
 Investigative Direction: Tie to primary on-screen artifact in a follow-up pass if needed.
@@ -895,7 +895,7 @@ Claim Timestamp: 00:58:00–00:59:00
 Claim: Host discusses John Mappen (Arena Mappen / Nina variants) in Macron-related segment.
 
 Anchored Artifacts: A-1280.1
-Mentions: N-217
+Mentions: N-157
 
 
 Investigative Direction: Obtain on-screen citations from the Macron segment.
@@ -909,7 +909,7 @@ Claim Timestamp: 00:59:00–01:00:00
 Claim: Host references Dr. Lee Trotter in medical-report discussion (register anchor).
 
 Anchored Artifacts: A-1278.1
-Mentions: N-281
+Mentions: N-199
 
 
 Investigative Direction: Cross-reference hospital message artifacts.
@@ -923,7 +923,7 @@ Claim Timestamp: 01:00:00–01:01:00
 Claim: Host references Dr. Deidra Weiss Amaro in UVU trauma-file discussion (register anchor).
 
 Anchored Artifacts: A-1278.1
-Mentions: N-249
+Mentions: N-179
 
 
 Investigative Direction: Verify spelling against hospital records if released.

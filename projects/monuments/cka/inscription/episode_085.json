@@ -37,7 +37,7 @@
             "C-2588"
           ],
           "related_nodes": [
-            "N-10641"
+            "N-10568"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -120,7 +120,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10640"
+            "N-10567"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -150,8 +150,8 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-70",
-            "N-10639"
+            "N-41",
+            "N-10566"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -179,7 +179,7 @@
             "C-2600"
           ],
           "related_nodes": [
-            "N-10639"
+            "N-10566"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -198,7 +198,7 @@
             "C-2602"
           ],
           "related_nodes": [
-            "N-10639"
+            "N-10566"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -344,8 +344,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10639",
-      "ref": "N-10639",
+      "@id": "N-10566",
+      "ref": "N-10566",
       "name": "Tyler Robinson Confession Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Persistent inconsistency between Governor Cox's claim (A-1907.1, C-2597) that Robinson \"confessed or implied\" guilt and Sheriff Brooksby's account (A-1908.2) which contains no reference to any confession. The host further asserts no signed confession statement was produced.",
@@ -366,8 +366,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10640",
-      "ref": "N-10640",
+      "@id": "N-10567",
+      "ref": "N-10567",
       "name": "French Intelligence (DGSE) Involvement in Charlie Kirk Assassination Investigation",
       "type": "investigation_target",
       "description": "Persistent unresolved target referenced via the host's November 2025 tweet (A-1906.1) and tied by the host to the broader French Masonic lodge case (A-1903.1). Direct evidence linking DGSE to the Charlie Kirk assassination is not presented in this episode.",
@@ -386,8 +386,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10641",
-      "ref": "N-10641",
+      "@id": "N-10568",
+      "ref": "N-10568",
       "name": "Athanor Lodge / French Freemason Murder Trial",
       "type": "investigation_target",
       "description": "Discrete investigative event introduced in this episode via A-1903.1, in which 22 defendants including DGSE officers face charges for running a hit-squad network inside the Athanor Masonic lodge. Treated by the host as context for Charlie Kirk case theory.",
@@ -428,8 +428,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Comments revisit CPR narratives vs unnamed fire captain.",
@@ -444,8 +444,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
@@ -460,8 +460,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-264",
-      "ref": "N-264",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Stacy Sheridan",
       "type": "person",
       "description": "TPUSA figure identified by the host as the person who tapped the donor's shoulder in church and invited her to sit with Erica. Host states Sheridan's role is donor intelligence (\"smelling money\").",
@@ -476,8 +476,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-437",
-      "ref": "N-437",
+      "@id": "N-278",
+      "ref": "N-278",
       "name": "Nate Brooksby",
       "type": "person",
       "description": "Washington County Sheriff who held the September 17, 2025 press conference at which he stated \"Our job was not to interview. Our job was just to get him here\" and that \"my friend drove Tyler and his parents to my office where he was greeted by plain clothes detectives.\"",
@@ -492,8 +492,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-444",
-      "ref": "N-444",
+      "@id": "N-284",
+      "ref": "N-284",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Named among fall-2025 public appearances in the host’s wardrobe catalog rebutting “only thing that fit.”",
@@ -508,8 +508,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-41",
+      "ref": "N-41",
       "name": "Spencer Cox",
       "type": "person",
       "description": "Spencer Cox (wave3 orphan mint).",
@@ -527,8 +527,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-664",
-      "ref": "N-664",
+      "@id": "N-419",
+      "ref": "N-419",
       "name": "Daniel Balou",
       "type": "person",
       "description": "First named by the host at 00:10:32 in episode 85.",
@@ -545,8 +545,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-663",
-      "ref": "N-663",
+      "@id": "N-418",
+      "ref": "N-418",
       "name": "Frederick Vaglio",
       "type": "person",
       "description": "First named by the host at 00:10:32 in episode 85.",
@@ -563,8 +563,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-652",
-      "ref": "N-652",
+      "@id": "N-407",
+      "ref": "N-407",
       "name": "Jean-Luc Baguer",
       "type": "person",
       "description": "First named by the host at 00:10:32 in episode 85.",
@@ -591,7 +591,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-10641"
+        "N-10568"
       ],
       "tags": [],
       "claim_timestamp": "00:05:42",
@@ -608,7 +608,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-10641"
+        "N-10568"
       ],
       "tags": [],
       "claim_timestamp": "00:06:50",
@@ -625,7 +625,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-10641"
+        "N-10568"
       ],
       "tags": [],
       "claim_timestamp": "00:06:50",
@@ -642,7 +642,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-10641"
+        "N-10568"
       ],
       "tags": [],
       "claim_timestamp": "00:08:40",
@@ -659,7 +659,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-10641"
+        "N-10568"
       ],
       "tags": [],
       "claim_timestamp": "00:09:40",
@@ -676,7 +676,7 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-10641"
+        "N-10568"
       ],
       "tags": [],
       "claim_timestamp": "00:09:40",
@@ -693,15 +693,15 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-10641"
+        "N-10568"
       ],
       "tags": [],
       "claim_timestamp": "00:10:32",
       "investigative_direction": "Verify role assignments via French court documents.",
       "mentions_person_refs": [
-        "N-664",
-        "N-663",
-        "N-652"
+        "N-419",
+        "N-418",
+        "N-407"
       ]
     },
     {
@@ -714,15 +714,15 @@
         "A-1903.1"
       ],
       "related_nodes": [
-        "N-10641"
+        "N-10568"
       ],
       "tags": [],
       "claim_timestamp": "00:11:16",
       "investigative_direction": "Verify incident via French press reporting or court records.",
       "mentions_person_refs": [
-        "N-664",
-        "N-663",
-        "N-652"
+        "N-419",
+        "N-418",
+        "N-407"
       ]
     },
     {
@@ -741,8 +741,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-69",
-        "N-444"
+        "N-40",
+        "N-284"
       ]
     },
     {
@@ -778,7 +778,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-1",
-        "N-16"
+        "N-7"
       ]
     },
     {
@@ -796,9 +796,9 @@
       "investigative_direction": "Verify against other contemporaneous accounts.",
       "mentions_person_refs": [
         "N-2",
-        "N-264",
+        "N-190",
         "N-1",
-        "N-16"
+        "N-7"
       ]
     },
     {
@@ -815,7 +815,7 @@
       "claim_timestamp": "00:20:50",
       "investigative_direction": "Cross-check with other accounts of plane arrangements.",
       "mentions_person_refs": [
-        "N-16"
+        "N-7"
       ]
     },
     {
@@ -828,7 +828,7 @@
         "A-1906.1"
       ],
       "related_nodes": [
-        "N-10640"
+        "N-10567"
       ],
       "tags": [],
       "claim_timestamp": "00:15:25",
@@ -848,14 +848,14 @@
         "A-1907.1"
       ],
       "related_nodes": [
-        "N-10639"
+        "N-10566"
       ],
       "tags": [],
       "claim_timestamp": "00:40:25",
       "investigative_direction": "Cross-reference with Brooksby's account.",
       "mentions_person_refs": [
-        "N-70",
-        "N-69"
+        "N-41",
+        "N-40"
       ]
     },
     {
@@ -868,13 +868,13 @@
         "A-1907.1"
       ],
       "related_nodes": [
-        "N-10639"
+        "N-10566"
       ],
       "tags": [],
       "claim_timestamp": "00:40:25",
       "investigative_direction": "Cross-reference with Brooksby's account.",
       "mentions_person_refs": [
-        "N-70"
+        "N-41"
       ]
     },
     {
@@ -887,13 +887,13 @@
         "A-1907.1"
       ],
       "related_nodes": [
-        "N-10639"
+        "N-10566"
       ],
       "tags": [],
       "claim_timestamp": "00:40:25",
       "investigative_direction": "Identify whether any signed confession statement exists; reconcile with Brooksby's account which contains no such claim.",
       "mentions_person_refs": [
-        "N-70"
+        "N-41"
       ]
     },
     {
@@ -906,7 +906,7 @@
         "A-1908.1"
       ],
       "related_nodes": [
-        "N-10639"
+        "N-10566"
       ],
       "tags": [],
       "claim_timestamp": "00:35:31",
@@ -923,13 +923,13 @@
         "A-1908.1"
       ],
       "related_nodes": [
-        "N-10639"
+        "N-10566"
       ],
       "tags": [],
       "claim_timestamp": "00:36:15",
       "investigative_direction": "Verify against other sources.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -942,7 +942,7 @@
         "A-1908.1"
       ],
       "related_nodes": [
-        "N-10639"
+        "N-10566"
       ],
       "tags": [],
       "claim_timestamp": "00:36:15",
@@ -959,13 +959,13 @@
         "A-1908.2"
       ],
       "related_nodes": [
-        "N-10639"
+        "N-10566"
       ],
       "tags": [],
       "claim_timestamp": "00:41:56",
       "investigative_direction": "Verify against court records and other accounts.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -978,13 +978,13 @@
         "A-1908.2"
       ],
       "related_nodes": [
-        "N-10639"
+        "N-10566"
       ],
       "tags": [],
       "claim_timestamp": "00:42:54",
       "investigative_direction": "Compare with Cox's framing of an outright confession (C-2597).",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1035,7 +1035,7 @@
       "claim_timestamp": "00:28:15",
       "investigative_direction": "Obtain official Washington County Commission statement and any press release explaining the resignation.",
       "mentions_person_refs": [
-        "N-437"
+        "N-278"
       ]
     },
     {
@@ -1067,7 +1067,7 @@
       "claim_timestamp": "00:29:07",
       "investigative_direction": "Obtain the full Commission statement.",
       "mentions_person_refs": [
-        "N-437"
+        "N-278"
       ]
     },
     {

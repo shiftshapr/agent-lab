@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 270e4d6bd7c7e45e5b54085cd242a98cd8703f80aa479f990d94ccfcff20d864
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-434, N-435, N-437, N-10341, N-10342, N-10343
+  - New Nodes Introduced:  N-276, N-277, N-278, N-10270, N-10271, N-10272
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -53,7 +53,7 @@ Video Timestamp: 00:12:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1759, C-1760, N-1, N-3, N-10341*
+*Related: C-1759, C-1760, N-1, N-3, N-10270*
 
 ---
 
@@ -67,7 +67,7 @@ Video Timestamp: 00:18:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1761, N-3, N-10341*
+*Related: C-1761, N-3, N-10270*
 
 ---
 
@@ -81,7 +81,7 @@ Video Timestamp: 00:34:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1762, N-424, N-434, N-435, N-344, N-10343*
+*Related: C-1762, N-272, N-276, N-277, N-229, N-10272*
 
 ---
 
@@ -95,7 +95,7 @@ Video Timestamp: 00:34:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1762, C-1763, N-424, N-434, N-435, N-10343*
+*Related: C-1762, C-1763, N-272, N-276, N-277, N-10272*
 
 ---
 
@@ -109,7 +109,7 @@ Video Timestamp: 00:41:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1764, C-1765, C-1766, N-437, N-10342*
+*Related: C-1764, C-1765, C-1766, N-278, N-10271*
 
 ---
 
@@ -129,7 +129,7 @@ Confidence Level: High
 
 ## 4. Node Register
 
-**N-424** Brian Harpole
+**N-272** Brian Harpole
 
 Turning Point USA head of security; appeared on Shawn Ryan show and is alleged by host to have misrepresented the provenance of text messages read during that interview.
 
@@ -138,11 +138,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1447.1, A-1448.1, C-1762, N-10343*
+*Related: A-1447.1, A-1448.1, C-1762, N-10272*
 
 ---
 
-**N-434** Dan Flood
+**N-276** Dan Flood
 
 Turning Point USA security figure identified as the author of the text exchange to Chief Jeff Long about Sorenson Center rooftop access.
 
@@ -151,11 +151,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1448.1, C-1763, N-10343*
+*Related: A-1448.1, C-1763, N-10272*
 
 ---
 
-**N-435** Jeff Long
+**N-277** Jeff Long
 
 UVU Police Chief identified as correspondent in the Flood text exchange; subject of host's allegation that Harpole misrepresented the communication channel.
 
@@ -164,11 +164,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1448.1, C-1763, N-10343*
+*Related: A-1448.1, C-1763, N-10272*
 
 ---
 
-**N-344** Shawn Ryan
+**N-229** Shawn Ryan
 
 Host of the interview platform on which Brian Harpole appeared; identified by host as having "got played" by the Harpole appearance.
 
@@ -177,11 +177,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1447.1, N-424*
+*Related: A-1447.1, N-272*
 
 ---
 
-**N-437** Nate Brooksby
+**N-278** Nate Brooksby
 
 Washington County Sheriff who held the September 17, 2025 press conference at which he stated "Our job was not to interview. Our job was just to get him here" and that "my friend drove Tyler and his parents to my office where he was greeted by plain clothes detectives."
 
@@ -190,11 +190,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1449.1, C-1764, C-1765, C-1766, N-10342*
+*Related: A-1449.1, C-1764, C-1765, C-1766, N-10271*
 
 ---
 
-**N-98** Mark Herman (director, Candace show)
+**N-67** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here, in comments, the host asks him what classifies someone as a dignitary and he answers that it is a broad term covering senior government figures, aides, and even religious leaders. No claim anchor; registered for cross-episode continuity.
 
@@ -207,7 +207,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10341** Macron Defamation Lawsuit Delaware Venue Question
+**N-10270** Macron Defamation Lawsuit Delaware Venue Question
 
 Persistent investigative target regarding why the Macron defamation suit was filed in Delaware despite host's Tennessee domicile and lack of Delaware-based defamation; intersects with the Wilmington Satis hanger, 920 King Street facility, and the host's broader "France angle."
 
@@ -220,7 +220,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10342** Tyler Robinson Washington County Surveillance Footage Gap
+**N-10271** Tyler Robinson Washington County Surveillance Footage Gap
 
 Persistent investigative target regarding the unavailability of surveillance footage of Tyler Robinson at the Washington County Sheriff's office, including the 30-day retention explanation and Washington County's denial that footage was shared with involved agencies.
 
@@ -229,11 +229,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1449.1, C-1764, C-1765, C-1766, N-437*
+*Related: A-1449.1, C-1764, C-1765, C-1766, N-278*
 
 ---
 
-**N-10343** Harpole–Flood Text Attribution Discrepancy
+**N-10272** Harpole–Flood Text Attribution Discrepancy
 
 Persistent investigative target regarding host's assertion that Brian Harpole presented text messages between Dan Flood and UVU Police Chief Jeff Long using phrasing consistent with claiming them as his own communications during the Shawn Ryan interview.
 
@@ -242,7 +242,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1447.1, A-1448.1, C-1762, C-1763, N-424, N-434, N-435*
+*Related: A-1447.1, A-1448.1, C-1762, C-1763, N-272, N-276, N-277*
 
 ---
 
@@ -256,7 +256,7 @@ Claim: The displayed text exchange documents Charlie Kirk informing Candace Owen
 
 Anchored Artifacts: A-1445.1
 Mentions: N-1, N-3
-Related Nodes: N-10341
+Related Nodes: N-10270
 Investigative Direction: Authenticate text message metadata; identify the specific White House staffer or office referenced; cross-reference with White House call logs.
 
 ---
@@ -269,7 +269,7 @@ Claim: The displayed text exchange documents Charlie Kirk informing host that "T
 
 Anchored Artifacts: A-1445.1
 Mentions: N-1, N-3
-Related Nodes: N-10341
+Related Nodes: N-10270
 Investigative Direction: Cross-reference with the host's separately claimed Feb 26 Trump call; verify call records; confirm POTUS-side initiator.
 
 ---
@@ -282,7 +282,7 @@ Claim: Displayed legal-team communication asserts the Macron lawsuit should be m
 
 Anchored Artifacts: A-1446.1
 Mentions: N-3
-Related Nodes: N-10341
+Related Nodes: N-10270
 Investigative Direction: Obtain the underlying court filings and motion-to-dismiss documents; verify jurisdictional analysis against Macron Delaware corporate registrations; check final ruling on motion.
 
 ---
@@ -294,8 +294,8 @@ Claim Timestamp: 00:34:36
 Claim: Host asserts Brian Harpole described the Dan Flood–Jeff Long text exchange using phrasing consistent with presenting it as his own correspondence, rather than identifying it as a Flood–Long exchange.
 
 Anchored Artifacts: A-1447.1, A-1448.1
-Mentions: N-344, N-424, N-434, N-435
-Related Nodes: N-10343
+Mentions: N-229, N-272, N-276, N-277
+Related Nodes: N-10272
 Investigative Direction: Compare full Shawn Ryan interview transcript with authenticated text-message records; verify who authored and received the communications.
 
 ---
@@ -307,8 +307,8 @@ Claim Timestamp: 00:34:36
 Claim: The text exchange as read in the episode documents an outreach about student roof access (Sorenson Center staircases to walkways/roofs near the CK setup), a request for either controlled access or TP personnel presence, and Chief Long's response "I got you covered."
 
 Anchored Artifacts: A-1448.1
-Mentions: N-434, N-435
-Related Nodes: N-10343
+Mentions: N-276, N-277
+Related Nodes: N-10272
 Investigative Direction: Authenticate text records via UVU and Turning Point; cross-reference with UVU Police event-day access logs and rooftop control measures.
 
 ---
@@ -320,8 +320,8 @@ Claim Timestamp: 00:41:28
 Claim: KUTV investigative report documents that Washington County Sheriff's office responded to records requests stating there were no records responsive to requests for surveillance footage of Tyler Robinson at the facility.
 
 Anchored Artifacts: A-1449.1
-Mentions: N-437, N-69
-Related Nodes: N-10342
+Mentions: N-278, N-40
+Related Nodes: N-10271
 Investigative Direction: Submit additional GRAMA requests; check for court-issued preservation orders; verify chain-of-custody with other involved agencies.
 
 ---
@@ -333,8 +333,8 @@ Claim Timestamp: 00:41:28
 Claim: Washington County Sheriff's office response to the generalized records request, as reported by KUTV, stated that "the surveillance footage is no longer available after the 30-day retention period."
 
 Anchored Artifacts: A-1449.1
-Mentions: N-437
-Related Nodes: N-10342
+Mentions: N-278
+Related Nodes: N-10271
 Investigative Direction: Obtain Washington County's written retention policy; verify standard practice for high-profile cases; check whether Utah County or any other agency holds preserved copies.
 
 ---
@@ -346,8 +346,8 @@ Claim Timestamp: 00:41:28
 Claim: Washington County Sheriff Nate Brooksby, in his September 17, 2025 press conference as reported by KUTV, stated: "Within the hour, my friend drove Tyler and his parents to my office where he was greeted by plain clothes detectives."
 
 Anchored Artifacts: A-1449.1
-Mentions: N-437, N-69
-Related Nodes: N-10342
+Mentions: N-278, N-40
+Related Nodes: N-10271
 Investigative Direction: Cross-reference Brooksby's account with charging documents, defense filings, witness statements, and any subsequent corrections.
 
 ---
@@ -359,7 +359,7 @@ Claim Timestamp: 00:14:15
 Claim: The played audio clip documents Tucker Carlson at a Turning Point event criticizing Epstein-connected wealth (Gulf Streams, island, ranch, NYC residence), naming Bill Ackman, and arguing U.S. wealth is not merit-based.
 
 Anchored Artifacts: A-1450.1
-Mentions: N-50
+Mentions: N-22
 Related Nodes:
 Investigative Direction: Obtain full speech transcript and video; verify exact date, venue, and audience; cross-reference with TPUSA's own published event materials.
 

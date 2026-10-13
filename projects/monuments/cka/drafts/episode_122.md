@@ -28,8 +28,8 @@
 **Episode Ledger Summary**
 - Artifact Families Introduced: A-2104, A-2105, A-2106, A-2107, A-2108, A-2109
 - Claim Range: C-2969–C-2985
-  - New Nodes Introduced: N-11094, N-11095, N-11096, N-11097, N-11098, N-11099, N-11100, N-11101, N-11102
-  - Reused Nodes Appearing: N-37, N-688
+  - New Nodes Introduced: N-10696, N-10697, N-10698, N-10699, N-10700, N-10701, N-10702, N-10703, N-10704
+  - Reused Nodes Appearing: N-11, N-443
 - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk, N-3 Candace Owens
 
 ---
@@ -56,7 +56,7 @@ Video Timestamp: 00:02:03–00:04:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-curated selection)
 
-*Related: C-2969, N-11094*
+*Related: C-2969, N-10696*
 
 **A-2104.2** Video clip of a man holding only a maroon shirt in the moments after the shot
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:04:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2970, N-11094*
+*Related: C-2970, N-10696*
 
 ---
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:13:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2976, N-11095*
+*Related: C-2976, N-10697*
 
 **A-2107.2** Photograph allegedly showing James Rawlinson in Romania in 2023 wearing maroon beret
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:25:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (documentary broadcast)
 
-*Related: C-2978, N-11102*
+*Related: C-2978, N-10704*
 
 ---
 
@@ -156,7 +156,7 @@ Video Timestamp: 00:32:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2979, C-2980, N-11097*
+*Related: C-2979, C-2980, N-10699*
 
 ---
 
@@ -166,7 +166,7 @@ Confidence Level: High
 
 ## Investigation Targets
 
-**N-11094** Maroon Shirt Audience Identification
+**N-10696** Maroon Shirt Audience Identification
 
 Persistent investigative target: identification of individuals in maroon shirts in the September 10 audience and their organizational affiliations.
 
@@ -177,7 +177,7 @@ Investigative Pressure: High
 
 *Related: A-2104.1, A-2104.2, C-2969, C-2970*
 
-**N-11095** 19th Special Forces / Utah-Romania Deployment Pattern
+**N-10697** 19th Special Forces / Utah-Romania Deployment Pattern
 
 Investigative target: convergence of multiple identified individuals (Rawlinson, Curtis Colvett, Tyler Bowyer, Philip Goldsberry Jr.) on Romanian military / charitable operations.
 
@@ -186,9 +186,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2107.1, C-2976, N-70, N-37*
+*Related: A-2107.1, C-2976, N-41, N-11*
 
-**N-11096** Next Model Management / MC2 Trafficking Connection to Erica Kirk
+**N-10698** Next Model Management / MC2 Trafficking Connection to Erica Kirk
 
 Investigative target: allegation that Erica Kirk was involved in "modeling apartments" for Next Model Management and MC2 during the period covered by pending trafficking litigation.
 
@@ -199,7 +199,7 @@ Investigative Pressure: High
 
 *Related: C-2981, N-2*
 
-**N-11097** Brian Harpole vs Frank Turek CPR Contradiction
+**N-10699** Brian Harpole vs Frank Turek CPR Contradiction
 
 Investigative target: contradiction between Brian Harpole's prior podcast statements (no CPR performed) and Frank Turek's prior podcast statements (CPR was performed, no exit wound on back of neck).
 
@@ -210,7 +210,7 @@ Investigative Pressure: Medium
 
 *Related: A-2109.1, C-2979, C-2980*
 
-**N-11098** Pending FOIA Requests
+**N-10700** Pending FOIA Requests
 
 Investigative target: cluster of FOIA requests filed by host's team – NSA (Erica emotional asset email), DHS/Secret Service/EOP (WAVES entries), FBI (Kash Patel schedule), FBI plane flight logs, Bradley Hansell travel schedule September 7-10.
 
@@ -221,7 +221,7 @@ Investigative Pressure: Medium
 
 *Related: C-2982*
 
-**N-11099** Andrew Kolbenschlag EEOB Presence / Kash Patel Connection
+**N-10701** Andrew Kolbenschlag EEOB Presence / Kash Patel Connection
 
 Investigative target: verification of Kolbenschlag's location (EEOB vs Arizona) and meeting attendees on day of pre-recorded Kirk Show appearance.
 
@@ -232,7 +232,7 @@ Investigative Pressure: Medium
 
 *Related: C-2985*
 
-**N-11100** Lance Twiggs Maroon Shirt Identification
+**N-10702** Lance Twiggs Maroon Shirt Identification
 
 Investigative target: identification of Lance Twiggs as the maroon-shirted individual visible in audience footage.
 
@@ -243,7 +243,7 @@ Investigative Pressure: Medium
 
 *Related: C-2983*
 
-**N-11101** Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)
+**N-10703** Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)
 
 Investigative target: host's theory that Tyler Robinson was set up by Lance Twiggs and is not the actual shooter.
 
@@ -254,7 +254,7 @@ Investigative Pressure: High
 
 *Related: C-2984*
 
-**N-11102** Mossad "Truman Show" Analogy Application
+**N-10704** Mossad "Truman Show" Analogy Application
 
 Investigative target: application of the 60 Minutes Mossad agents' description of Israeli operations as a "Truman Show" production to the Charlie Kirk assassination.
 
@@ -267,7 +267,7 @@ Investigative Pressure: Low (interpretive framing)
 
 ---
 
-**N-37** Tyler Bowyer
+**N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -286,7 +286,7 @@ Claim: A series of photographs displayed during the episode depicts multiple you
 
 Anchored Artifacts: A-2104.1
 Mentions: N-1
-Related Nodes: N-11094
+Related Nodes: N-10696
 Investigative Direction: Cross-reference photographs with attendee registration, social media, and military records to identify individuals.
 
 ---
@@ -298,7 +298,7 @@ Claim Timestamp: 00:04:49
 Claim: A video clip displayed during the episode shows a man fumbling among a group while holding a maroon shirt (not wearing it) in the moments after the shot.
 
 Anchored Artifacts: A-2104.2
-Related Nodes: N-11094
+Related Nodes: N-10696
 Investigative Direction: Obtain full uncirculated video footage from multiple angles to confirm and identify the individual.
 
 ---
@@ -371,7 +371,7 @@ Claim Timestamp: 00:13:17
 Claim: An article displayed during the episode identifies Mihail Kogălniceanu air base in Constanta, Romania as a Task Force 82 / joint base location for 82nd Airborne operations.
 
 Anchored Artifacts: A-2107.1
-Related Nodes: N-11095
+Related Nodes: N-10697
 Investigative Direction: Confirm article source, date, and unit assignment through DoD public affairs records.
 
 ---
@@ -395,7 +395,7 @@ Claim Timestamp: 00:25:08
 Claim: An audio clip from a 60 Minutes interview of former Mossad agents, played during the episode, includes the description of Israeli operations as a "global production company" running a "Truman Show" with shell companies hiding Israeli involvement.
 
 Anchored Artifacts: A-2108.1
-Related Nodes: N-11102
+Related Nodes: N-10704
 Investigative Direction: Locate the full 60 Minutes episode transcript and air date; verify the speakers' identities and former agency affiliation.
 
 ---
@@ -407,8 +407,8 @@ Claim Timestamp: 00:32:34
 Claim: A podcast audio clip of Frank Turek, played during the episode, contains his statement that he did not believe there was an exit wound on the back of Charlie Kirk's neck during the car transport.
 
 Anchored Artifacts: A-2109.1
-Mentions: N-1, N-16
-Related Nodes: N-11097
+Mentions: N-1, N-7
+Related Nodes: N-10699
 Investigative Direction: Compare against the official autopsy report and Brian Harpole's prior podcast statements.
 
 ---
@@ -420,8 +420,8 @@ Claim Timestamp: 00:32:34
 Claim: The same podcast audio clip of Frank Turek contains his statement that he was "sometimes doing CPR" with Charlie "a foot away."
 
 Anchored Artifacts: A-2109.1
-Mentions: N-1, N-16
-Related Nodes: N-11097
+Mentions: N-1, N-7
+Related Nodes: N-10699
 Investigative Direction: Cross-reference against Brian Harpole's prior podcast statements that no CPR was performed and that the focus was on the wound.
 
 ---
@@ -434,7 +434,7 @@ Claim: During the episode, the host asserts that multiple people with direct kno
 
 Anchored Artifacts: None displayed in this episode (host assertion referencing prior Epstein-series content)
 Mentions: N-2
-Related Nodes: N-11096
+Related Nodes: N-10698
 Investigative Direction: Obtain class action complaint, defendant discovery, and corroborate host's named sources under oath.
 *Flag: Claim failed admission test on artifact anchor – host assertion only; underlying lawsuit referenced but not displayed.*
 
@@ -447,8 +447,8 @@ Claim Timestamp: 00:43:06–00:45:23
 Claim: The host states the team has filed FOIA requests to the NSA (Erica emotional asset email), DHS/Secret Service/EOP (WAVES entries for Erica), FBI (Kash Patel schedule), and for FBI plane flight logs and Bradley Hansell's travel schedule September 7-10.
 
 Anchored Artifacts: None displayed
-Mentions: N-102, N-688
-Related Nodes: N-11098
+Mentions: N-69, N-443
+Related Nodes: N-10700
 Investigative Direction: Verify FOIA request submissions via the agencies' tracking portals and any responses.
 *Flag: Claim failed admission test on artifact anchor – host assertion only.*
 
@@ -461,8 +461,8 @@ Claim Timestamp: 01:00:41
 Claim: During the episode, the host identifies Lance Twiggs as the individual walking in a maroon shirt in audience footage from the same day.
 
 Anchored Artifacts: None displayed (referenced footage from prior episode)
-Mentions: N-84
-Related Nodes: N-11100
+Mentions: N-54
+Related Nodes: N-10702
 Investigative Direction: Obtain higher-resolution frame-by-frame comparison and corroborate via independent witnesses.
 *Flag: Claim failed admission test on artifact anchor – host assertion referencing footage from prior episode.*
 
@@ -475,8 +475,8 @@ Claim Timestamp: 01:00:41
 Claim: During the episode, the host states her belief, based on evidence presented thus far, that Tyler Robinson did not kill Charlie Kirk and was set up by Lance Twiggs.
 
 Anchored Artifacts: None displayed in this episode
-Mentions: N-69, N-1, N-84
-Related Nodes: N-11101
+Mentions: N-40, N-1, N-54
+Related Nodes: N-10703
 Investigative Direction: Examine public charging documents, defense filings, Robinson's alibi evidence, and Twiggs's digital footprint.
 *Flag: Claim failed admission test on artifact anchor – host belief/interpretation.*
 
@@ -489,8 +489,8 @@ Claim Timestamp: 00:44:23–00:46:13
 Claim: The host states Andrew Kolbenschlag appeared to be live in studio on the Charlie Kirk Show hosting Kash Patel, but was actually pre-recorded and physically located 5 hours away in the Executive Office Building in Washington D.C.
 
 Anchored Artifacts: None displayed
-Mentions: N-42, N-102
-Related Nodes: N-11099
+Mentions: N-14, N-69
+Related Nodes: N-10701
 Investigative Direction: Obtain Secret Service visitor logs, EEOB badge access records, and corroborate the Charlie Kirk Show production timeline.
 *Flag: Claim failed admission test on artifact anchor – host assertion only.*
 

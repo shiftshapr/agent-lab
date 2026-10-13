@@ -31,7 +31,7 @@
             "C-3059"
           ],
           "related_nodes": [
-            "N-11133"
+            "N-10734"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -48,7 +48,7 @@
             "C-3059"
           ],
           "related_nodes": [
-            "N-11133"
+            "N-10734"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -74,7 +74,7 @@
             "C-3061"
           ],
           "related_nodes": [
-            "N-11134"
+            "N-10735"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -100,7 +100,7 @@
             "C-3062"
           ],
           "related_nodes": [
-            "N-11135"
+            "N-10736"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -126,7 +126,7 @@
             "C-3063"
           ],
           "related_nodes": [
-            "N-11137"
+            "N-10738"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -242,7 +242,7 @@
             "C-3071"
           ],
           "related_nodes": [
-            "N-11132"
+            "N-10733"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -260,7 +260,7 @@
             "C-3072"
           ],
           "related_nodes": [
-            "N-11132"
+            "N-10733"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -278,7 +278,7 @@
             "C-3073"
           ],
           "related_nodes": [
-            "N-11132"
+            "N-10733"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -294,7 +294,7 @@
           "description": "Utah medical examiner appointment – July 2024",
           "related_claims": [],
           "related_nodes": [
-            "N-11132"
+            "N-10733"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -312,7 +312,7 @@
             "C-3074"
           ],
           "related_nodes": [
-            "N-11132"
+            "N-10733"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -403,7 +403,7 @@
             "C-3079"
           ],
           "related_nodes": [
-            "N-11136"
+            "N-10737"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -429,7 +429,7 @@
             "C-3080"
           ],
           "related_nodes": [
-            "N-11131"
+            "N-10732"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -448,7 +448,7 @@
             "C-3081"
           ],
           "related_nodes": [
-            "N-11131"
+            "N-10732"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -474,7 +474,7 @@
             "C-3082"
           ],
           "related_nodes": [
-            "N-11138"
+            "N-10739"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -489,8 +489,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10215",
-      "ref": "N-10215",
+      "@id": "N-10149",
+      "ref": "N-10149",
       "name": "Hospital Routing Discrepancy",
       "type": "investigation_target",
       "description": "Host assertion that Timpanogos Regional Hospital was not the closest trauma-equipped facility and that the hospital had just named Andrew Zenger as a new CEO/surgeon on the same day Charlie's tour was announced. Lacks displayed artifact in this episode; verification target.",
@@ -505,8 +505,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11131",
-      "ref": "N-11131",
+      "@id": "N-10732",
+      "ref": "N-10732",
       "name": "Salt Lake City Hotel Identification Gap",
       "type": "investigation_target",
       "description": "Persistent inability to confirm which hotel the Turning Point USA team (including Erika Kirk) stayed at on the night of September 10, 2025; Blake Neff states he cannot recall.",
@@ -526,8 +526,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11132",
-      "ref": "N-11132",
+      "@id": "N-10733",
+      "ref": "N-10733",
       "name": "Utah Pre-Event Personnel Restructuring Pattern",
       "type": "investigation_target",
       "description": "Cluster of Utah appointments in the months prior to the September 10, 2025 assassination: Bo Mason (June 19, 2025), Tony Graff (May 2025), medical examiner (July 2024), Andrew Zenger (August 18, 2025), Robert Bowles (September 2, 2025).",
@@ -551,8 +551,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11133",
-      "ref": "N-11133",
+      "@id": "N-10734",
+      "ref": "N-10734",
       "name": "Ballistics Narrative Contradiction (O'Neill/Holt)",
       "type": "investigation_target",
       "description": "Public on-camera rejection by a former SEAL Team Six sniper and an Air Force Brigadier General of the official .30-06 / spine-impact ballistics explanation.",
@@ -573,8 +573,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11134",
-      "ref": "N-11134",
+      "@id": "N-10735",
+      "ref": "N-10735",
       "name": "Rooftop Clothing Change Narrative",
       "type": "investigation_target",
       "description": "Governor Cox's September 12, 2025 statement that the assassin changed clothes on the rooftop; not retracted or explained in subsequent official communications.",
@@ -593,8 +593,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11135",
-      "ref": "N-11135",
+      "@id": "N-10736",
+      "ref": "N-10736",
       "name": "Screwdriver Evidence Chain Question",
       "type": "investigation_target",
       "description": "Recovery of a screwdriver on the rooftop with alleged shooter DNA; subsequent claim that the suspect disassembled the rifle on the roof contradicted by later discovery of the assembled weapon in the woods.",
@@ -612,8 +612,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11136",
-      "ref": "N-11136",
+      "@id": "N-10737",
+      "ref": "N-10737",
       "name": "CPR Narrative Contradiction (Turek / Harpole)",
       "type": "investigation_target",
       "description": "Brian Harpole asserts CPR was not performed in the vehicle; Frank Turek concedes he attempted CPR for the last 20–30 seconds of the ride and characterizes the divergence as emphasis rather than contradiction.",
@@ -631,8 +631,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11137",
-      "ref": "N-11137",
+      "@id": "N-10738",
+      "ref": "N-10738",
       "name": "Faumuina Media Presence Anomaly",
       "type": "investigation_target",
       "description": "A sworn state law enforcement officer with FBI JTTF assignment appearing as a presenter on Netflix's *Worst Roommate Ever* and later as a podcast guest.",
@@ -650,8 +650,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11138",
-      "ref": "N-11138",
+      "@id": "N-10739",
+      "ref": "N-10739",
       "name": "Fort Huachuca Connection Question",
       "type": "investigation_target",
       "description": "Lt. Col. Kolvet's public X post denying any connection between his brother Andrew Kolvet and Fort Huachuca beyond a single 3-day MP unit training visit.",
@@ -685,8 +685,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Comments revisit CPR narratives vs unnamed fire captain.",
@@ -701,8 +701,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
@@ -717,8 +717,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-41",
+      "ref": "N-41",
       "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
@@ -733,8 +733,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-75",
-      "ref": "N-75",
+      "@id": "N-46",
+      "ref": "N-46",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
@@ -749,8 +749,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
@@ -765,8 +765,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-186",
-      "ref": "N-186",
+      "@id": "N-135",
+      "ref": "N-135",
       "name": "Robert Bowles",
       "type": "person",
       "description": "Reported as the individual installed to lead the Utah FBI field office in August 2025 following Kash Patel's purge of prior leadership; described as based in DC for decades and in his first week on the job at the time of the shooting.",
@@ -781,8 +781,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
@@ -797,8 +797,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -813,8 +813,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-193",
-      "ref": "N-193",
+      "@id": "N-138",
+      "ref": "N-138",
       "name": "Judge Tony F. Graf Jr.",
       "type": "person",
       "description": "Judge Tony F. Graph Jr. (wave3 orphan mint).",
@@ -830,8 +830,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-629",
-      "ref": "N-629",
+      "@id": "N-388",
+      "ref": "N-388",
       "name": "Dan Bongino",
       "type": "person",
       "description": "Reused; first introduced in episode 15.",
@@ -847,8 +847,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-811",
-      "ref": "N-811",
+      "@id": "N-519",
+      "ref": "N-519",
       "name": "Beau Mason",
       "type": "person",
       "description": "First named by the host at 00:08:44 in episode 128. Aliases: Bo Mason, Beau \"Bo\" Mason.",
@@ -874,8 +874,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-809",
-      "ref": "N-809",
+      "@id": "N-517",
+      "ref": "N-517",
       "name": "Jennifer Faumuina",
       "type": "person",
       "description": "Named by the host at 00:15:24 in episode 128; first introduced in episode 126.",
@@ -901,8 +901,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-813",
-      "ref": "N-813",
+      "@id": "N-521",
+      "ref": "N-521",
       "name": "Misiona Faumuina",
       "type": "person",
       "description": "First named by the host at 00:23:06 in episode 128.",
@@ -928,8 +928,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-812",
-      "ref": "N-812",
+      "@id": "N-520",
+      "ref": "N-520",
       "name": "Sapena Faumuina",
       "type": "person",
       "description": "First named by the host at 00:23:06 in episode 128.",
@@ -954,8 +954,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-814",
-      "ref": "N-814",
+      "@id": "N-522",
+      "ref": "N-522",
       "name": "Sid Rosen",
       "type": "person",
       "description": "First named by the host at 00:24:14 in episode 128.",
@@ -981,7 +981,7 @@
         "A-2153.1"
       ],
       "related_nodes": [
-        "N-11133"
+        "N-10734"
       ],
       "tags": [],
       "claim_timestamp": "00:03:29",
@@ -1000,7 +1000,7 @@
         "A-2153.2"
       ],
       "related_nodes": [
-        "N-11133"
+        "N-10734"
       ],
       "tags": [],
       "claim_timestamp": "00:05:31",
@@ -1019,13 +1019,13 @@
         "A-2154.1"
       ],
       "related_nodes": [
-        "N-11134"
+        "N-10735"
       ],
       "tags": [],
       "claim_timestamp": "00:08:44",
       "investigative_direction": "Request the official briefing transcript or unedited video and any follow-up statements addressing or retracting the rooftop clothing claim.",
       "mentions_person_refs": [
-        "N-70"
+        "N-41"
       ]
     },
     {
@@ -1042,9 +1042,9 @@
       "claim_timestamp": "00:09:39",
       "investigative_direction": "Inspect full uncut briefing video for any clarifying remarks made by either official before or after the exchange.",
       "mentions_person_refs": [
-        "N-70",
-        "N-102",
-        "N-811"
+        "N-41",
+        "N-69",
+        "N-519"
       ]
     },
     {
@@ -1057,14 +1057,14 @@
         "A-2155.1"
       ],
       "related_nodes": [
-        "N-11135"
+        "N-10736"
       ],
       "tags": [],
       "claim_timestamp": "00:12:43",
       "investigative_direction": "Compare the publicly released footage metadata against Bongino's \"grainy\" characterization and review any subsequent enhanced-release footage for consistency.",
       "mentions_person_refs": [
-        "N-75",
-        "N-629"
+        "N-46",
+        "N-388"
       ]
     },
     {
@@ -1077,16 +1077,16 @@
         "A-2156.1"
       ],
       "related_nodes": [
-        "N-11137"
+        "N-10738"
       ],
       "tags": [],
       "claim_timestamp": "00:16:37",
       "investigative_direction": "Confirm the Netflix episode metadata, Faumuina's on-screen identification, and the period of her JTTF assignment against official FBI or Utah SBI records.",
       "mentions_person_refs": [
-        "N-811",
-        "N-809",
-        "N-813",
-        "N-812"
+        "N-519",
+        "N-517",
+        "N-521",
+        "N-520"
       ]
     },
     {
@@ -1103,10 +1103,10 @@
       "claim_timestamp": "00:17:38",
       "investigative_direction": "Identify the specific school and roster, and cross-reference yearbook or athletics records.",
       "mentions_person_refs": [
-        "N-811",
-        "N-809",
-        "N-813",
-        "N-812"
+        "N-519",
+        "N-517",
+        "N-521",
+        "N-520"
       ]
     },
     {
@@ -1123,10 +1123,10 @@
       "claim_timestamp": "00:17:38",
       "investigative_direction": "Confirm against Weber State graduation records or alumni listings.",
       "mentions_person_refs": [
-        "N-811",
-        "N-809",
-        "N-813",
-        "N-812"
+        "N-519",
+        "N-517",
+        "N-521",
+        "N-520"
       ]
     },
     {
@@ -1143,10 +1143,10 @@
       "claim_timestamp": "00:20:19",
       "investigative_direction": "Verify through DPS academy records and class photographs.",
       "mentions_person_refs": [
-        "N-811",
-        "N-809",
-        "N-813",
-        "N-812"
+        "N-519",
+        "N-517",
+        "N-521",
+        "N-520"
       ]
     },
     {
@@ -1163,10 +1163,10 @@
       "claim_timestamp": "00:18:29",
       "investigative_direction": "Confirm the original article, deployment list, and credentialing records.",
       "mentions_person_refs": [
-        "N-811",
-        "N-809",
-        "N-813",
-        "N-812"
+        "N-519",
+        "N-517",
+        "N-521",
+        "N-520"
       ]
     },
     {
@@ -1183,10 +1183,10 @@
       "claim_timestamp": "00:18:29",
       "investigative_direction": "Request Utah state salary records to verify employment dates and rank progression.",
       "mentions_person_refs": [
-        "N-811",
-        "N-809",
-        "N-813",
-        "N-812"
+        "N-519",
+        "N-517",
+        "N-521",
+        "N-520"
       ]
     },
     {
@@ -1203,10 +1203,10 @@
       "claim_timestamp": "00:20:19",
       "investigative_direction": "Verify the photograph and underlying academy/class record.",
       "mentions_person_refs": [
-        "N-811",
-        "N-809",
-        "N-813",
-        "N-812"
+        "N-519",
+        "N-517",
+        "N-521",
+        "N-520"
       ]
     },
     {
@@ -1223,10 +1223,10 @@
       "claim_timestamp": "00:20:19",
       "investigative_direction": "Confirm the date and ceremony through Utah DPS press releases.",
       "mentions_person_refs": [
-        "N-811",
-        "N-809",
-        "N-813",
-        "N-812"
+        "N-519",
+        "N-517",
+        "N-521",
+        "N-520"
       ]
     },
     {
@@ -1239,15 +1239,15 @@
         "A-2158.1"
       ],
       "related_nodes": [
-        "N-11132"
+        "N-10733"
       ],
       "tags": [],
       "claim_timestamp": "00:19:15",
       "investigative_direction": "Verify appointment through the official Utah governor's office announcement or Senate confirmation record.",
       "mentions_person_refs": [
-        "N-70",
-        "N-811",
-        "N-809"
+        "N-41",
+        "N-519",
+        "N-517"
       ]
     },
     {
@@ -1260,13 +1260,13 @@
         "A-2158.2"
       ],
       "related_nodes": [
-        "N-11132"
+        "N-10733"
       ],
       "tags": [],
       "claim_timestamp": "00:21:14",
       "investigative_direction": "Confirm via hospital press releases and board minutes.",
       "mentions_person_refs": [
-        "N-192"
+        "N-137"
       ]
     },
     {
@@ -1279,13 +1279,13 @@
         "A-2158.3"
       ],
       "related_nodes": [
-        "N-11132"
+        "N-10733"
       ],
       "tags": [],
       "claim_timestamp": "00:21:14",
       "investigative_direction": "Verify the appointment date, court, and appointing authority.",
       "mentions_person_refs": [
-        "N-193"
+        "N-138"
       ]
     },
     {
@@ -1298,13 +1298,13 @@
         "A-2158.5"
       ],
       "related_nodes": [
-        "N-11132"
+        "N-10733"
       ],
       "tags": [],
       "claim_timestamp": "00:21:14",
       "investigative_direction": "Confirm via FBI press releases and internal personnel announcements.",
       "mentions_person_refs": [
-        "N-186"
+        "N-135"
       ]
     },
     {
@@ -1321,7 +1321,7 @@
       "claim_timestamp": "00:22:12",
       "investigative_direction": "Cross-reference Provo PD rosters and 2004 article content.",
       "mentions_person_refs": [
-        "N-186"
+        "N-135"
       ]
     },
     {
@@ -1338,10 +1338,10 @@
       "claim_timestamp": "00:24:14",
       "investigative_direction": "Obtain original Honolulu-area news archives and Hawaii court records for the criminal case.",
       "mentions_person_refs": [
-        "N-811",
-        "N-809",
-        "N-813",
-        "N-812"
+        "N-519",
+        "N-517",
+        "N-521",
+        "N-520"
       ]
     },
     {
@@ -1358,9 +1358,9 @@
       "claim_timestamp": "00:24:14",
       "investigative_direction": "Retrieve original newspaper articles and any LDS Church ward records.",
       "mentions_person_refs": [
-        "N-809",
-        "N-813",
-        "N-812"
+        "N-517",
+        "N-521",
+        "N-520"
       ]
     },
     {
@@ -1377,8 +1377,8 @@
       "claim_timestamp": "00:25:35",
       "investigative_direction": "Verify the organization and Rosen's role through Hawaii nonprofit filings.",
       "mentions_person_refs": [
-        "N-813",
-        "N-814"
+        "N-521",
+        "N-522"
       ]
     },
     {
@@ -1391,14 +1391,14 @@
         "A-2161.1"
       ],
       "related_nodes": [
-        "N-11136"
+        "N-10737"
       ],
       "tags": [],
       "claim_timestamp": "00:31:07",
       "investigative_direction": "Obtain the unedited podcast audio and any hospital records documenting arrival time, condition, and treatment.",
       "mentions_person_refs": [
-        "N-424",
-        "N-16"
+        "N-272",
+        "N-7"
       ]
     },
     {
@@ -1412,13 +1412,13 @@
         "A-2162.2"
       ],
       "related_nodes": [
-        "N-11131"
+        "N-10732"
       ],
       "tags": [],
       "claim_timestamp": "00:36:56",
       "investigative_direction": "Compare both statements against travel itineraries, expense reports, and credit card records.",
       "mentions_person_refs": [
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -1431,13 +1431,13 @@
         "A-2162.2"
       ],
       "related_nodes": [
-        "N-11131"
+        "N-10732"
       ],
       "tags": [],
       "claim_timestamp": "00:36:56",
       "investigative_direction": "Cross-check with travel booking records, expense reports, and any hotel worker testimony.",
       "mentions_person_refs": [
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -1450,13 +1450,13 @@
         "A-2163.1"
       ],
       "related_nodes": [
-        "N-11138"
+        "N-10739"
       ],
       "tags": [],
       "claim_timestamp": "00:41:03",
       "investigative_direction": "Verify the post's text and timestamps; check Andrew Kolvet's residence and any prior Fort Huachuca references.",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     }
   ],

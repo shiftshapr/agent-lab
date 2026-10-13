@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Claim Range: C-3751
-  - Reused Nodes Appearing: N-50, N-629, N-102, N-148
+  - Reused Nodes Appearing: N-22, N-388, N-69, N-105
   - (see registers)
 
 # Episode Analysis Output Template
@@ -37,7 +37,7 @@ Claim: Recapping Tucker Carlson's account that he asked Dan Bongino and Kash Pat
 Transcript Snippet: this story, the butler story, perhaps the butler cover up, whatever it is, terrified Dan Bonino and terrified Kash Patel.
 
 Anchored Artifacts: 
-Mentions: N-3, N-50, N-629, N-102, N-148
+Mentions: N-3, N-22, N-388, N-69, N-105
 Related Nodes: 
 Investigative Direction: Obtain Carlson's full account and Bongino's response; compare FBI statements on Crooks's online history against what was later disclosed.
 

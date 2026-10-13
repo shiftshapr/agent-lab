@@ -33,8 +33,8 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-133",
-            "N-10616"
+            "N-97",
+            "N-10543"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -54,7 +54,7 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-133"
+            "N-97"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -74,7 +74,7 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-989"
+            "N-603"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -102,9 +102,9 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-990",
+            "N-604",
             "N-5",
-            "N-10612"
+            "N-10539"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -130,10 +130,10 @@
             "C-2481"
           ],
           "related_nodes": [
-            "N-334",
+            "N-224",
             "N-1",
-            "N-133",
-            "N-10616"
+            "N-97",
+            "N-10543"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -159,7 +159,7 @@
             "C-2482"
           ],
           "related_nodes": [
-            "N-989",
+            "N-603",
             "N-3"
           ],
           "tags": [],
@@ -186,10 +186,10 @@
             "C-2483"
           ],
           "related_nodes": [
-            "N-224",
+            "N-162",
             "N-1",
-            "N-133",
-            "N-10616"
+            "N-97",
+            "N-10543"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -215,8 +215,8 @@
             "C-2484"
           ],
           "related_nodes": [
-            "N-133",
-            "N-138",
+            "N-97",
+            "N-102",
             "N-3"
           ],
           "tags": [],
@@ -243,9 +243,9 @@
             "C-2485"
           ],
           "related_nodes": [
-            "N-994",
+            "N-605",
             "N-5",
-            "N-10614"
+            "N-10541"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -272,7 +272,7 @@
           ],
           "related_nodes": [
             "N-5",
-            "N-10614"
+            "N-10541"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -298,9 +298,9 @@
             "C-2487"
           ],
           "related_nodes": [
-            "N-50",
+            "N-22",
             "N-5",
-            "N-10613"
+            "N-10540"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -326,7 +326,7 @@
             "C-2488"
           ],
           "related_nodes": [
-            "N-10614",
+            "N-10541",
             "N-5"
           ],
           "tags": [],
@@ -345,7 +345,7 @@
             "C-2488"
           ],
           "related_nodes": [
-            "N-10614"
+            "N-10541"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -363,7 +363,7 @@
             "C-2488"
           ],
           "related_nodes": [
-            "N-10614"
+            "N-10541"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -381,7 +381,7 @@
             "C-2488"
           ],
           "related_nodes": [
-            "N-10614"
+            "N-10541"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -399,7 +399,7 @@
             "C-2488"
           ],
           "related_nodes": [
-            "N-10614"
+            "N-10541"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -417,7 +417,7 @@
             "C-2488"
           ],
           "related_nodes": [
-            "N-10614"
+            "N-10541"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -435,8 +435,8 @@
             "C-2488"
           ],
           "related_nodes": [
-            "N-996",
-            "N-10614"
+            "N-606",
+            "N-10541"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -454,7 +454,7 @@
             "C-2488"
           ],
           "related_nodes": [
-            "N-10614"
+            "N-10541"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -472,7 +472,7 @@
             "C-2488"
           ],
           "related_nodes": [
-            "N-10614"
+            "N-10541"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -490,8 +490,8 @@
             "C-2488"
           ],
           "related_nodes": [
-            "N-628",
-            "N-10614"
+            "N-387",
+            "N-10541"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -518,8 +518,8 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-998",
-            "N-10616"
+            "N-607",
+            "N-10543"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -545,9 +545,9 @@
             "C-2489"
           ],
           "related_nodes": [
-            "N-339",
-            "N-50",
-            "N-10613"
+            "N-226",
+            "N-22",
+            "N-10540"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -573,8 +573,8 @@
             "C-2490"
           ],
           "related_nodes": [
-            "N-50",
-            "N-10613"
+            "N-22",
+            "N-10540"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -600,8 +600,8 @@
             "C-2491"
           ],
           "related_nodes": [
-            "N-50",
-            "N-10613"
+            "N-22",
+            "N-10540"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -628,7 +628,7 @@
           ],
           "related_nodes": [
             "N-5",
-            "N-10615"
+            "N-10542"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -671,7 +671,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10616"
+        "N-10543"
       ]
     },
     {
@@ -701,13 +701,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10614"
+        "N-10541"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-65",
-      "ref": "N-65",
+      "@id": "N-36",
+      "ref": "N-36",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Named as instigator of Iran war, referenced in relation to Charlie Kirk's June White House opposition, and subject of host speculation regarding death/health.",
@@ -724,13 +724,13 @@
       "related_nodes": [
         "N-1",
         "N-5",
-        "N-10614"
+        "N-10541"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
+      "@id": "N-97",
+      "ref": "N-97",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Subject of multiple Charlie Kirk text-message artifacts, subject of Milo Yiannopoulos disclosure (A-1848.1), and speaker in audio clip A-1851.",
@@ -754,13 +754,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10616"
+        "N-10543"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-989",
-      "ref": "N-989",
+      "@id": "N-603",
+      "ref": "N-603",
       "name": "Meghan McCain",
       "type": "person",
       "description": "Author of X post A-1849.1 and subject of Charlie Kirk text A-1846.3.",
@@ -784,8 +784,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-990",
-      "ref": "N-990",
+      "@id": "N-604",
+      "ref": "N-604",
       "name": "Bret Weinstein",
       "type": "person",
       "description": "Co-party to text exchange A-1847.1 with Charlie Kirk regarding Iran war.",
@@ -803,13 +803,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-10612"
+        "N-10539"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-334",
-      "ref": "N-334",
+      "@id": "N-224",
+      "ref": "N-224",
       "name": "Milo Yiannopoulos",
       "type": "person",
       "description": "Author of text messages disclosed in A-1848.1 regarding Ben Shapiro and TPUSA.",
@@ -826,13 +826,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-133"
+        "N-97"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Author of X post A-1850.1 admitting Charlie/Ben rivalry.",
@@ -849,14 +849,14 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-133",
-        "N-10616"
+        "N-97",
+        "N-10543"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-138",
-      "ref": "N-138",
+      "@id": "N-102",
+      "ref": "N-102",
       "name": "Michael Knowles",
       "type": "person",
       "description": "Subject of audio clip A-1851.1; named as godfather to Candace Owens' daughter.",
@@ -873,13 +873,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-3",
-        "N-133"
+        "N-97"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-994",
-      "ref": "N-994",
+      "@id": "N-605",
+      "ref": "N-605",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Speaker in audio clip A-1852.1 regarding Strait of Hormuz.",
@@ -896,13 +896,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-5",
-        "N-10614"
+        "N-10541"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "Subject of CIA referral disclosure (A-1854.1) and multiple X posts (A-1857.1, A-1858.1, A-1859.1).",
@@ -925,13 +925,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-5",
-        "N-10613"
+        "N-10540"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-996",
-      "ref": "N-996",
+      "@id": "N-606",
+      "ref": "N-606",
       "name": "Georgia Meloni",
       "type": "person",
       "description": "Speaker attributed with statement (A-1855.7) criticizing US-Israeli war as outside international law.",
@@ -947,13 +947,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10614"
+        "N-10541"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-998",
-      "ref": "N-998",
+      "@id": "N-607",
+      "ref": "N-607",
       "name": "Jordan Peterson",
       "type": "person",
       "description": "Quoted by host in article A-1856.1.",
@@ -974,8 +974,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-339",
-      "ref": "N-339",
+      "@id": "N-226",
+      "ref": "N-226",
       "name": "Randy Fine",
       "type": "person",
       "description": "Author of X post A-1857.1.",
@@ -991,14 +991,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-50",
-        "N-10613"
+        "N-22",
+        "N-10540"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10612",
-      "ref": "N-10612",
+      "@id": "N-10539",
+      "ref": "N-10539",
       "name": "Charlie Kirk Iran War Opposition (June 2025)",
       "type": "investigation_target",
       "description": "Investigative target: documentation of Charlie Kirk's documented opposition to a US-Iran war in June 2025, including White House advocacy and characterization of neocons as \"maniacs.\"",
@@ -1016,14 +1016,14 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-990",
+        "N-604",
         "N-5"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10613",
-      "ref": "N-10613",
+      "@id": "N-10540",
+      "ref": "N-10540",
       "name": "Tucker Carlson CIA Investigation",
       "type": "investigation_target",
       "description": "Investigative target: claimed CIA criminal referral against Tucker Carlson under FARA, based on communications with Iranian contacts prior to the war.",
@@ -1045,13 +1045,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-50"
+        "N-22"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10614",
-      "ref": "N-10614",
+      "@id": "N-10541",
+      "ref": "N-10541",
       "name": "Strait of Hormuz / US-Iran War Context",
       "type": "investigation_target",
       "description": "Investigative target: status of the Strait of Hormuz, US-Iran military engagement, and allied-nation non-participation as of March 2026.",
@@ -1072,13 +1072,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-5",
-        "N-65"
+        "N-36"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10615",
-      "ref": "N-10615",
+      "@id": "N-10542",
+      "ref": "N-10542",
       "name": "US Embassy Baghdad Attack (March 2026)",
       "type": "investigation_target",
       "description": "Investigative target: drone strike on US embassy complex in Baghdad and US evacuation advisory.",
@@ -1099,8 +1099,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10616",
-      "ref": "N-10616",
+      "@id": "N-10543",
+      "ref": "N-10543",
       "name": "Charlie Kirk Legacy Control Dispute",
       "type": "investigation_target",
       "description": "Investigative target: ongoing contest over public interpretation of Charlie Kirk's political positions, with focus on his documented relationship with Ben Shapiro, his Iran-war opposition, and host's contention that neocons are misrepresenting his positions.",
@@ -1126,7 +1126,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-133"
+        "N-97"
       ]
     },
     {
@@ -1147,8 +1147,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-91",
-      "ref": "N-91",
+      "@id": "N-60",
+      "ref": "N-60",
       "name": "Laura Loomer",
       "type": "person",
       "description": "Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.",
@@ -1163,8 +1163,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-628",
-      "ref": "N-628",
+      "@id": "N-387",
+      "ref": "N-387",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Speaker attributed with statement (A-1855.10) regarding French navy escort.",
@@ -1180,7 +1180,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10614"
+        "N-10541"
       ]
     }
   ],
@@ -1201,7 +1201,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-133"
+        "N-97"
       ]
     },
     {
@@ -1238,7 +1238,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-989"
+        "N-603"
       ]
     },
     {
@@ -1251,7 +1251,7 @@
         "A-1847.1"
       ],
       "related_nodes": [
-        "N-10612"
+        "N-10539"
       ],
       "tags": [],
       "claim_timestamp": "00:10:32–00:13:29",
@@ -1259,7 +1259,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-5",
-        "N-990"
+        "N-604"
       ]
     },
     {
@@ -1272,14 +1272,14 @@
         "A-1847.1"
       ],
       "related_nodes": [
-        "N-10612"
+        "N-10539"
       ],
       "tags": [],
       "claim_timestamp": "00:11:38–00:12:38",
       "investigative_direction": "Verify original message; cross-reference with contemporaneous public statements.",
       "mentions_person_refs": [
         "N-1",
-        "N-990"
+        "N-604"
       ]
     },
     {
@@ -1296,8 +1296,8 @@
       "claim_timestamp": "00:07:35–00:08:50",
       "investigative_direction": "Forensic verification of messages; corroborate with independent reporting or testimony regarding TPUSA donor pressure circa 2014–2015.",
       "mentions_person_refs": [
-        "N-133",
-        "N-334",
+        "N-97",
+        "N-224",
         "N-1"
       ]
     },
@@ -1316,7 +1316,7 @@
       "investigative_direction": "Direct retrieval of the original X post via archive.",
       "mentions_person_refs": [
         "N-3",
-        "N-989"
+        "N-603"
       ]
     },
     {
@@ -1333,8 +1333,8 @@
       "claim_timestamp": "00:13:29–00:16:34",
       "investigative_direction": "Direct retrieval of the original X post via archive.",
       "mentions_person_refs": [
-        "N-133",
-        "N-224",
+        "N-97",
+        "N-162",
         "N-1"
       ]
     },
@@ -1353,8 +1353,8 @@
       "investigative_direction": "Obtain the full unedited video clip; verify date and venue.",
       "mentions_person_refs": [
         "N-3",
-        "N-133",
-        "N-138"
+        "N-97",
+        "N-102"
       ]
     },
     {
@@ -1367,14 +1367,14 @@
         "A-1852.1"
       ],
       "related_nodes": [
-        "N-10614"
+        "N-10541"
       ],
       "tags": [],
       "claim_timestamp": "00:24:34–00:25:35",
       "investigative_direction": "Obtain the full press exchange transcript and date.",
       "mentions_person_refs": [
         "N-5",
-        "N-994"
+        "N-605"
       ]
     },
     {
@@ -1387,14 +1387,14 @@
         "A-1853.1"
       ],
       "related_nodes": [
-        "N-10614"
+        "N-10541"
       ],
       "tags": [],
       "claim_timestamp": "00:31:42–00:34:14",
       "investigative_direction": "Obtain full transcript and verify date.",
       "mentions_person_refs": [
         "N-5",
-        "N-65"
+        "N-36"
       ]
     },
     {
@@ -1407,13 +1407,13 @@
         "A-1854.1"
       ],
       "related_nodes": [
-        "N-10613"
+        "N-10540"
       ],
       "tags": [],
       "claim_timestamp": "00:41:23–00:43:44",
       "investigative_direction": "Verify date of Tucker's disclosure; obtain any DOJ or CIA acknowledgment/denial; check whether a formal referral exists.",
       "mentions_person_refs": [
-        "N-50"
+        "N-22"
       ]
     },
     {
@@ -1435,15 +1435,15 @@
         "A-1855.10"
       ],
       "related_nodes": [
-        "N-10614"
+        "N-10541"
       ],
       "tags": [],
       "claim_timestamp": "00:26:19–00:28:13",
       "investigative_direction": "Obtain original government press releases or transcripts for each quoted statement and verify dates.",
       "mentions_person_refs": [
         "N-5",
-        "N-628",
-        "N-996"
+        "N-387",
+        "N-606"
       ]
     },
     {
@@ -1456,14 +1456,14 @@
         "A-1857.1"
       ],
       "related_nodes": [
-        "N-10613"
+        "N-10540"
       ],
       "tags": [],
       "claim_timestamp": "00:44:36–00:45:22",
       "investigative_direction": "Retrieve original X post via archive.",
       "mentions_person_refs": [
-        "N-50",
-        "N-339"
+        "N-22",
+        "N-226"
       ]
     },
     {
@@ -1476,14 +1476,14 @@
         "A-1858.1"
       ],
       "related_nodes": [
-        "N-10613"
+        "N-10540"
       ],
       "tags": [],
       "claim_timestamp": "00:45:22–00:46:20",
       "investigative_direction": "Verify whether the list has ever been published publicly; check DOJ acknowledgment.",
       "mentions_person_refs": [
-        "N-50",
-        "N-91"
+        "N-22",
+        "N-60"
       ]
     },
     {
@@ -1496,13 +1496,13 @@
         "A-1859.1"
       ],
       "related_nodes": [
-        "N-10613"
+        "N-10540"
       ],
       "tags": [],
       "claim_timestamp": "00:46:20–00:47:29",
       "investigative_direction": "Retrieve original X post via archive.",
       "mentions_person_refs": [
-        "N-50"
+        "N-22"
       ]
     },
     {
@@ -1515,7 +1515,7 @@
         "A-1860.1"
       ],
       "related_nodes": [
-        "N-10615"
+        "N-10542"
       ],
       "tags": [],
       "claim_timestamp": "00:34:14–00:35:03",
@@ -1539,7 +1539,7 @@
       "investigative_direction": "Retrieve the original published article (Substack or platform); verify publication date.",
       "mentions_person_refs": [
         "N-3",
-        "N-998"
+        "N-607"
       ]
     }
   ],

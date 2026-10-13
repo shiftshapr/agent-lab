@@ -57,9 +57,9 @@
             "C-1864"
           ],
           "related_nodes": [
-            "N-102",
-            "N-75",
-            "N-10387"
+            "N-69",
+            "N-46",
+            "N-10316"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -86,8 +86,8 @@
             "C-1866"
           ],
           "related_nodes": [
-            "N-499",
-            "N-10388"
+            "N-319",
+            "N-10317"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -109,10 +109,10 @@
             "C-1871"
           ],
           "related_nodes": [
-            "N-499",
-            "N-500",
-            "N-501",
-            "N-502"
+            "N-319",
+            "N-320",
+            "N-321",
+            "N-322"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -139,10 +139,10 @@
             "C-1873"
           ],
           "related_nodes": [
-            "N-503",
-            "N-10390",
-            "N-97",
-            "N-267"
+            "N-323",
+            "N-10319",
+            "N-66",
+            "N-192"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -168,7 +168,7 @@
             "C-1874"
           ],
           "related_nodes": [
-            "N-512"
+            "N-324"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -242,7 +242,7 @@
             "C-1877"
           ],
           "related_nodes": [
-            "N-444"
+            "N-284"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -261,7 +261,7 @@
             "C-1879"
           ],
           "related_nodes": [
-            "N-10393"
+            "N-10322"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -280,7 +280,7 @@
             "C-1876"
           ],
           "related_nodes": [
-            "N-10392"
+            "N-10321"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -318,8 +318,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "FBI Director interviewed by Megyn Kelly; declined to address French involvement allegation directly.",
@@ -335,14 +335,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-75",
-        "N-10387"
+        "N-46",
+        "N-10316"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-75",
-      "ref": "N-75",
+      "@id": "N-46",
+      "ref": "N-46",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Journalist who interviewed Kash Patel on the Macron couple and Kirk assassination questions.",
@@ -358,13 +358,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-102"
+        "N-69"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-499",
-      "ref": "N-499",
+      "@id": "N-319",
+      "ref": "N-319",
       "name": "Pierre Falcone",
       "type": "person",
       "description": "French-born arms dealer convicted in Angolagate scandal; reportedly currently residing in Scottsdale, Arizona; introduced in this episode as a potential link between France, Israel, Angola, and the United States.",
@@ -384,16 +384,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-500",
-        "N-501",
-        "N-502",
-        "N-10388"
+        "N-320",
+        "N-321",
+        "N-322",
+        "N-10317"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-500",
-      "ref": "N-500",
+      "@id": "N-320",
+      "ref": "N-320",
       "name": "Arcadi Gaydamak",
       "type": "person",
       "description": "Israeli-Russian-Israeli businessman; co-conspirator in Angolagate via Brenco International; convicted in absentia in France.",
@@ -410,13 +410,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-499"
+        "N-319"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-501",
-      "ref": "N-501",
+      "@id": "N-321",
+      "ref": "N-321",
       "name": "Jean-Christophe Mitterrand",
       "type": "person",
       "description": "Son of former French president François Mitterrand; implicated in Angolagate as having \"special access\" to Angolan government.",
@@ -432,14 +432,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-499",
-        "N-502"
+        "N-319",
+        "N-322"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-502",
-      "ref": "N-502",
+      "@id": "N-322",
+      "ref": "N-322",
       "name": "François Mitterrand",
       "type": "person",
       "description": "Former President of France (term during Angolagate exposure); implicated via his son.",
@@ -455,13 +455,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-501"
+        "N-321"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-503",
-      "ref": "N-503",
+      "@id": "N-323",
+      "ref": "N-323",
       "name": "Jesse Kege",
       "type": "person",
       "description": "YouTuber (\"One Shot TV\") who produced the .30-06 ballistic dummy demonstration; no prior horse in the Charlie Kirk case per host's description.",
@@ -478,13 +478,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10390"
+        "N-10319"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-434",
-      "ref": "N-434",
+      "@id": "N-276",
+      "ref": "N-276",
       "name": "Dan Flood",
       "type": "person",
       "description": "Security professional positioned to Charlie Kirk's right; per host's tip, received a message from Charlie the night before the assassination.",
@@ -497,13 +497,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1",
-        "N-10391"
+        "N-10320"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-217",
-      "ref": "N-217",
+      "@id": "N-157",
+      "ref": "N-157",
       "name": "John Mappin",
       "type": "person",
       "description": "Referenced by viewer comment \"fam\"; author of \"The Perfumed Pervert\" essay.",
@@ -517,8 +517,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-444",
-      "ref": "N-444",
+      "@id": "N-284",
+      "ref": "N-284",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Journalist; referenced by viewer comment as having Erika Kirk on her show on the 13th.",
@@ -536,8 +536,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-512",
-      "ref": "N-512",
+      "@id": "N-324",
+      "ref": "N-324",
       "name": "Hodge Twins",
       "type": "person",
       "description": "Commentator duo; tweet regarding Republican midterm losses read aloud by host.",
@@ -555,8 +555,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-97",
-      "ref": "N-97",
+      "@id": "N-66",
+      "ref": "N-66",
       "name": "Village Crazy Lady",
       "type": "person",
       "description": "Social media user who brought the Jesse Kege video to the host's attention.",
@@ -570,13 +570,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-503"
+        "N-323"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Ryan Matta",
       "type": "person",
       "description": "Social media user who brought the Jesse Kege video to the host's attention.",
@@ -590,13 +590,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-503"
+        "N-323"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10387",
-      "ref": "N-10387",
+      "@id": "N-10316",
+      "ref": "N-10316",
       "name": "France / Macron Couple Involvement in Kirk Assassination",
       "type": "investigation_target",
       "description": "Persistent investigation target; this episode adds Kash Patel's non-denial under direct questioning on camera.",
@@ -612,14 +612,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-102",
-        "N-75"
+        "N-69",
+        "N-46"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10388",
-      "ref": "N-10388",
+      "@id": "N-10317",
+      "ref": "N-10317",
       "name": "Pierre Falcone / Turning Point USA Connection Claim",
       "type": "investigation_target",
       "description": "Unverified tip received by host asserting a meeting occurred between TPUSA personnel and Pierre Falcone; requires verification.",
@@ -638,13 +638,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-499"
+        "N-319"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10389",
-      "ref": "N-10389",
+      "@id": "N-10318",
+      "ref": "N-10318",
       "name": "Operation Mockingbird 2.0 Allegation",
       "type": "investigation_target",
       "description": "Host framing premise comparing current media posture regarding the Kirk assassination to the CIA's Operation Mockingbird following JFK. Not artifact-backed in this episode.",
@@ -661,8 +661,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10390",
-      "ref": "N-10390",
+      "@id": "N-10319",
+      "ref": "N-10319",
       "name": ".30-06 Forensic Narrative Validity",
       "type": "investigation_target",
       "description": "Persistent investigation target regarding the official ballistics account of the Kirk shooting; this episode adds the Jesse Kege / One Shot TV demonstration as a third-party test.",
@@ -679,13 +679,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-503"
+        "N-323"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10391",
-      "ref": "N-10391",
+      "@id": "N-10320",
+      "ref": "N-10320",
       "name": "Charlie Kirk's Pre-Death Messages (Night Before Assassination)",
       "type": "investigation_target",
       "description": "Investigation target regarding Charlie Kirk's communications the night before the shooting, including alleged direct statement to Dan Flood that \"they are going to kill me tomorrow,\" and messages to a donor and a TPUSA staffer.",
@@ -698,13 +698,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1",
-        "N-434"
+        "N-276"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10392",
-      "ref": "N-10392",
+      "@id": "N-10321",
+      "ref": "N-10321",
       "name": "TPUSA $1.5M Routing to 110 LLC / Safeway Strip Mall",
       "type": "investigation_target",
       "description": "Investigation target raised via viewer comment; DOJ audit referenced as cancelled.",
@@ -723,8 +723,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10393",
-      "ref": "N-10393",
+      "@id": "N-10322",
+      "ref": "N-10322",
       "name": "Charlie Kirk Life Insurance Policy & Beneficiary",
       "type": "investigation_target",
       "description": "Investigation target including $1.5M amount and corporate implications; Daily Mail cited as breaking the story.",
@@ -742,8 +742,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10394",
-      "ref": "N-10394",
+      "@id": "N-10323",
+      "ref": "N-10323",
       "name": "Charlie Kirk Burial Status / Catholic Funeral Mass",
       "type": "investigation_target",
       "description": "Investigation target; viewer social media speculation that Charlie Kirk has not yet been buried, contrasted with host's statement that he had a Catholic funeral mass.",
@@ -760,8 +760,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10395",
-      "ref": "N-10395",
+      "@id": "N-10324",
+      "ref": "N-10324",
       "name": "Epstein Files Release Status",
       "type": "investigation_target",
       "description": "Persistent political issue referenced via the Milo Yiannopoulos / Tim Pool / George Santos segment.",
@@ -776,8 +776,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10396",
-      "ref": "N-10396",
+      "@id": "N-10325",
+      "ref": "N-10325",
       "name": "Global Trafficking Angle in Kirk Assassination",
       "type": "investigation_target",
       "description": "Host's hypothesis (artifact-anchored to the Pierre Falcone / Angolagate tip) that Charlie Kirk's organization was being approached for trafficking-related cooperation; remains framing/speculative until verified.",
@@ -792,8 +792,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-499",
-        "N-10388"
+        "N-319",
+        "N-10317"
       ]
     },
     {
@@ -874,14 +874,14 @@
         "A-1514.1"
       ],
       "related_nodes": [
-        "N-10387"
+        "N-10316"
       ],
       "tags": [],
       "claim_timestamp": "00:07:33–00:08:21",
       "investigative_direction": "Obtain the full unedited Megyn Kelly / Kash Patel interview segment to verify exact wording and identify any non-verbal cues or follow-up questions.",
       "mentions_person_refs": [
-        "N-75",
-        "N-102",
+        "N-46",
+        "N-69",
         "N-1"
       ]
     },
@@ -895,13 +895,13 @@
         "A-1515.1"
       ],
       "related_nodes": [
-        "N-10388"
+        "N-10317"
       ],
       "tags": [],
       "claim_timestamp": "00:14:36–00:15:38",
       "investigative_direction": "Obtain primary French court records or a contemporaneous news report of the conviction to confirm charges and dates.",
       "mentions_person_refs": [
-        "N-499"
+        "N-319"
       ]
     },
     {
@@ -914,13 +914,13 @@
         "A-1515.1"
       ],
       "related_nodes": [
-        "N-10388"
+        "N-10317"
       ],
       "tags": [],
       "claim_timestamp": "00:14:36–00:15:38",
       "investigative_direction": "Locate the appellate decision and confirm the precise revised sentence and the date it was imposed.",
       "mentions_person_refs": [
-        "N-499"
+        "N-319"
       ]
     },
     {
@@ -931,13 +931,13 @@
       "claim": "The host states that Pierre Falcone reappeared in Scottsdale, Arizona, the same location as Turning Point USA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10388"
+        "N-10317"
       ],
       "tags": [],
       "claim_timestamp": "00:17:26",
       "investigative_direction": "Verify Pierre Falcone's current residence via property records, business filings, or U.S. immigration records.",
       "mentions_person_refs": [
-        "N-499"
+        "N-319"
       ]
     },
     {
@@ -954,8 +954,8 @@
       "claim_timestamp": "00:14:36–00:15:38",
       "investigative_direction": "Locate the French court judgment against Gaydamak and confirm the conviction and date.",
       "mentions_person_refs": [
-        "N-499",
-        "N-500"
+        "N-319",
+        "N-320"
       ]
     },
     {
@@ -972,10 +972,10 @@
       "claim_timestamp": "00:15:38–00:17:26",
       "investigative_direction": "Cross-reference the March 25 Global Witness report \"All the President's Men\" with CorpWatch and the original French judicial findings.",
       "mentions_person_refs": [
-        "N-499",
-        "N-500",
-        "N-501",
-        "N-502"
+        "N-319",
+        "N-320",
+        "N-321",
+        "N-322"
       ]
     },
     {
@@ -992,9 +992,9 @@
       "claim_timestamp": "00:15:38–00:17:26",
       "investigative_direction": "Locate the original Global Witness report figures and the French prosecutor's findings on arms volumes.",
       "mentions_person_refs": [
-        "N-499",
-        "N-500",
-        "N-501"
+        "N-319",
+        "N-320",
+        "N-321"
       ]
     },
     {
@@ -1011,9 +1011,9 @@
       "claim_timestamp": "00:15:38–00:17:26",
       "investigative_direction": "Verify Jean-Christophe Mitterrand's role via French court records.",
       "mentions_person_refs": [
-        "N-499",
-        "N-501",
-        "N-502"
+        "N-319",
+        "N-321",
+        "N-322"
       ]
     },
     {
@@ -1026,13 +1026,13 @@
         "A-1516.1"
       ],
       "related_nodes": [
-        "N-10390"
+        "N-10319"
       ],
       "tags": [],
       "claim_timestamp": "00:32:46–00:33:21",
       "investigative_direction": "Obtain the full One Shot TV video, including any second-round test (150gr Hornady ballistic tip), and verify the exact penetration result shown.",
       "mentions_person_refs": [
-        "N-503"
+        "N-323"
       ]
     },
     {
@@ -1045,13 +1045,13 @@
         "A-1516.1"
       ],
       "related_nodes": [
-        "N-10390"
+        "N-10319"
       ],
       "tags": [],
       "claim_timestamp": "00:33:21",
       "investigative_direction": "Cross-reference the One Shot TV demonstration with official forensic findings released by authorities.",
       "mentions_person_refs": [
-        "N-503"
+        "N-323"
       ]
     },
     {
@@ -1068,7 +1068,7 @@
       "claim_timestamp": "00:29:16",
       "investigative_direction": "Obtain the original tweet and confirm the exact text.",
       "mentions_person_refs": [
-        "N-512"
+        "N-324"
       ]
     },
     {
@@ -1081,7 +1081,7 @@
         "A-1518.6"
       ],
       "related_nodes": [
-        "N-10392"
+        "N-10321"
       ],
       "tags": [],
       "claim_timestamp": "00:37:36–00:38:23",
@@ -1098,7 +1098,7 @@
         "A-1518.6"
       ],
       "related_nodes": [
-        "N-10392"
+        "N-10321"
       ],
       "tags": [],
       "claim_timestamp": "00:37:36–00:38:23",
@@ -1119,7 +1119,7 @@
       "claim_timestamp": "00:40:18–00:41:02",
       "investigative_direction": "Verify against publicly available event listings and episode announcements.",
       "mentions_person_refs": [
-        "N-444",
+        "N-284",
         "N-2"
       ]
     },
@@ -1133,7 +1133,7 @@
         "A-1518.5"
       ],
       "related_nodes": [
-        "N-10393"
+        "N-10322"
       ],
       "tags": [],
       "claim_timestamp": "00:41:02–00:41:57",
@@ -1154,7 +1154,7 @@
         "A-1518.5"
       ],
       "related_nodes": [
-        "N-10391"
+        "N-10320"
       ],
       "tags": [],
       "claim_timestamp": "00:37:36–00:41:02",

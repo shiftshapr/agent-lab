@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 96bdf8580abb4cedfb15c84e3fc6f2b56488e802cc03c0adb8c91e6d3d6c96f2
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-11061, N-11062, N-11064, N-11065
-  - Hole-minted Nodes (wave3): N-686, N-687
-  - Reused Nodes Appearing: N-37, N-10444, N-679
+  - New Nodes Introduced: N-10664, N-10665, N-10666, N-10667
+  - Hole-minted Nodes (wave3): N-441, N-442
+  - Reused Nodes Appearing: N-11, N-10373, N-434
   - (see registers)
 
 # Episode Analysis: Monument Episode 102 – "Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336"
@@ -35,7 +35,7 @@
   - Artifact Families Introduced: A-2062, A-2063, A-2064, A-2065, A-2066, A-2067, A-2068, A-2069, A-2070, A-2071, A-2072, A-2073, A-2074, A-2075
   - Claim Range: C-2884–C-2908
   - New Nodes Introduced (people): none (Wave 2: local ids removed)
-  - New Nodes Introduced (investigation targets): N-11061–N-11065
+  - New Nodes Introduced (investigation targets): N-10664–N-10667
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -62,7 +62,7 @@ Video Timestamp: 00:01:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2885, N-11065*
+*Related: C-2885, N-10667*
 
 **A-2063** Andrew Kolvet Response Bundle
 
@@ -76,7 +76,7 @@ Video Timestamp: 00:01:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2884, N-11065*
+*Related: C-2884, N-10667*
 
 **A-2064** Tyler Bowyer Response Bundle
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:02:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2886, N-70, N-11065, N-37*
+*Related: C-2886, N-41, N-10667, N-11*
 
 **A-2065** Blake Neff Response Bundle
 
@@ -104,7 +104,7 @@ Video Timestamp: 00:02:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2887, N-11065*
+*Related: C-2887, N-10667*
 
 **A-2066** Charlie Kirk Aspen Audio Bundle
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:05:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2888, C-2889, N-1, N-2, N-11061*
+*Related: C-2888, C-2889, N-1, N-2, N-10664*
 
 **A-2066.2** Host-maintained count: 39 days since first donor-faked report
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:04:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2888, N-1, N-11061*
+*Related: C-2888, N-1, N-10664*
 
 **A-2067** Kimberly Klacik Social Media Bundle
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:09:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2893, N-11061*
+*Related: C-2893, N-10664*
 
 **A-2068** Marcus Wada AI Voice Bundle
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:07:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2890, N-11061*
+*Related: C-2890, N-10664*
 
 **A-2068.2** Source claim: TPUSA typically uses Pastor John Amanchukwu's AI-cloned voice for presentations
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:07:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2891, N-11061*
+*Related: C-2891, N-10664*
 
 **A-2069** John Mappin Social Media Bundle
 
@@ -178,7 +178,7 @@ Video Timestamp: 00:09:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2888, C-2892, N-1, N-11061*
+*Related: C-2888, C-2892, N-1, N-10664*
 
 **A-2070** Hillsdale College Event Bundle
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:17:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (archived/captured before removal)
 
-*Related: C-2896, N-11062*
+*Related: C-2896, N-10665*
 
 **A-2071.2** Erika Kirk LinkedIn page – claimed summa cum laude with double degree (political science and international relations)
 
@@ -225,7 +225,7 @@ Video Timestamp: 00:18:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (archived/captured before removal)
 
-*Related: C-2897, N-11062*
+*Related: C-2897, N-10665*
 
 **A-2071.3** Erika Kirk LinkedIn page – claimed Doctor of Education in Christian Leadership from Liberty University
 
@@ -235,7 +235,7 @@ Video Timestamp: 00:18:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2899, N-2, N-11062*
+*Related: C-2899, N-2, N-10665*
 
 **A-2072** ASU Catalog Verification Bundle
 
@@ -247,7 +247,7 @@ Video Timestamp: 00:18:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2898, N-11062*
+*Related: C-2898, N-10665*
 
 **A-2073** Nick Shirley Favela Bundle
 
@@ -261,7 +261,7 @@ Video Timestamp: 00:26:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2901, N-11064*
+*Related: C-2901, N-10666*
 
 **A-2073.2** Patrick Bet-David interview clip with Nick Shirley
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:28:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2902, N-11064*
+*Related: C-2902, N-10666*
 
 **A-2074** Alex Clark Social Media Bundle
 
@@ -287,7 +287,7 @@ Video Timestamp: 00:30:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2903, N-11064*
+*Related: C-2903, N-10666*
 
 **A-2075** Brian Harpole Fort Huachuca Alibi Bundle
 
@@ -301,7 +301,7 @@ Video Timestamp: 00:49:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (relayed from Erika)
 
-*Related: C-2904, C-2908, N-2, N-10444*
+*Related: C-2904, C-2908, N-2, N-10373*
 
 **A-2075.2** Fort Huachuca alibi photograph provided by Andrew Kolvet
 
@@ -313,7 +313,7 @@ Video Timestamp: 00:52:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2905, C-2907, N-10444*
+*Related: C-2905, C-2907, N-10373*
 
 **A-2075.3** Paramount Tactical admission that Fort Huachuca alibi photo boy is not Erika Kirk's son
 
@@ -323,19 +323,19 @@ Video Timestamp: 00:52:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2906, N-2, N-10444*
+*Related: C-2906, N-2, N-10373*
 
 ---
 
 ## IV. Node Register
 
-**N-686** John Amanchukwu
+**N-441** John Amanchukwu
 
 First named by the host at 00:07:32 in episode 102.
 
 *Related: C-2890, C-2891*
 
-**N-687** Kimberly Klacik
+**N-442** Kimberly Klacik
 
 First named by the host at 00:09:42 in episode 102. Aliases: Kim Klacik.
 
@@ -343,7 +343,7 @@ First named by the host at 00:09:42 in episode 102. Aliases: Kim Klacik.
 
 
 
-**N-11061** Charlie Kirk Aspen Audio Authenticity Question
+**N-10664** Charlie Kirk Aspen Audio Authenticity Question
 
 Persistent investigation target: whether the released TPUSA audio of Charlie Kirk nominating Erika as CEO is authentic, AI-generated, or fabricated. Supported by donor testimony, AI-voice source, and Blake Neff's prior AI concern.
 
@@ -354,7 +354,7 @@ Investigative Pressure: High
 
 *Related: A-2066.1, A-2066.2, A-2067.1, A-2068.1, A-2068.2, A-2069.1, C-2888, C-2889, C-2890, C-2891, C-2892, C-2893, N-1, N-2*
 
-**N-11062** Erika Kirk Educational Credentials Discrepancy
+**N-10665** Erika Kirk Educational Credentials Discrepancy
 
 Investigation target: reconciliation of Erika Kirk's LinkedIn degree claims (ASU magna/summa laude, double degree in political science & international relations, Liberty University Ed.D.) with public records showing no honors, no double degree, and ASU not offering the international relations degree in 2012.
 
@@ -365,7 +365,7 @@ Investigative Pressure: High
 
 *Related: A-2071.1, A-2071.2, A-2071.3, A-2072.1, C-2896, C-2897, C-2898, C-2899, N-2*
 
-**N-10444** Brian Harpole Fort Huachuca Presence Verification
+**N-10373** Brian Harpole Fort Huachuca Presence Verification
 
 Investigation target: whether Brian Harpole was present at Fort Huachuca on the date alleged by Mitch, given the disputed alibi photo, the flight records that do not cover the alleged sighting window, and Paramount Tactical's admission the alibi photo is not of Erika's son.
 
@@ -376,7 +376,7 @@ Investigative Pressure: High
 
 *Related: A-2075.1, A-2075.2, A-2075.3, C-2904, C-2905, C-2906, C-2907, C-2908, N-2*
 
-**N-11064** Nick Shirley Background and Backing Verification
+**N-10666** Nick Shirley Background and Backing Verification
 
 Investigation target: verification of Nick Shirley's claimed journalism credentials, plausibility of his Brazilian favela infiltration story, and identification of who is backing him in the media ecosystem.
 
@@ -387,7 +387,7 @@ Investigative Pressure: Medium
 
 *Related: A-2073.1, A-2073.2, A-2074.1, C-2901, C-2902, C-2903*
 
-**N-11065** Project Constitution / TPUSA Divorce Rumor Verification
+**N-10667** Project Constitution / TPUSA Divorce Rumor Verification
 
 Investigation target: whether the Project Constitution divorce rumor regarding Andrew Kolvet had a factual basis, and the proportionality of TPUSA's response.
 
@@ -396,11 +396,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2062.1, A-2063.1, A-2064.1, A-2065.1, C-2884, C-2885, C-2886, C-2887, N-70*
+*Related: A-2062.1, A-2063.1, A-2064.1, A-2065.1, C-2884, C-2885, C-2886, C-2887, N-41*
 
 ---
 
-**N-37** Tyler Bowyer
+**N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -418,9 +418,9 @@ Claim Timestamp: 00:01:44
 Claim: Andrew Kolvet publicly denied divorce rumors via X post, telling Project Constitution "LOL, you wish, fat boy" and instructing them to keep his wife's name out of their mouth.
 
 Anchored Artifacts: A-2063.1
-Mentions: N-42
+Mentions: N-14
 
-Related Nodes: N-11065
+Related Nodes: N-10667
 
 Investigative Direction: Verify the exact wording of Kolvet's post and timestamp against X archives; identify whether any divorce filings exist in Arizona court records.
 
@@ -433,9 +433,9 @@ Claim Timestamp: 00:01:44
 Claim: An X account identifying as Project Constitution reported that Andrew Kolvet was getting a divorce.
 
 Anchored Artifacts: A-2062.1
-Mentions: N-42
+Mentions: N-14
 
-Related Nodes: N-11065
+Related Nodes: N-10667
 
 Investigative Direction: Identify the author and posting history of the Project Constitution account; obtain the original post content and any cited basis.
 
@@ -448,9 +448,9 @@ Claim Timestamp: 00:02:41
 Claim: Tyler Bowyer publicly stated he has had "numerous things like this said about us" and characterized such reporting as "reckless disregard for truth from people who call themselves investigators."
 
 Anchored Artifacts: A-2064.1
-Mentions: N-37
+Mentions: N-11
 
-Related Nodes: N-11065
+Related Nodes: N-10667
 
 Investigative Direction: Verify the original X post and any subsequent posts by Bowyer; cross-reference his stated history of false rumors.
 
@@ -463,9 +463,9 @@ Claim Timestamp: 00:02:41
 Claim: Blake Neff publicly disputed the implication that Andrew Kolvet's wife was absent from the White House Correspondents Dinner, arguing that WHCD attendance requires press-issued invitations, that Kolvet lives in Phoenix, and questioning how anyone would know his wife's travel preferences.
 
 Anchored Artifacts: A-2065.1
-Mentions: N-42, N-224
+Mentions: N-14, N-162
 
-Related Nodes: N-11065
+Related Nodes: N-10667
 
 Investigative Direction: Verify the original post; check WHCD invitation lists if publicly available.
 
@@ -480,7 +480,7 @@ Claim: Per Candace, donors who were present at the Aspen event assert that the T
 Anchored Artifacts: A-2066.1, A-2066.2, A-2069.1
 Mentions: N-1, N-2
 
-Related Nodes: N-11061
+Related Nodes: N-10664
 
 Investigative Direction: Identify the specific donors by name; obtain written or recorded statements; secure the original unedited audio if TPUSA retains it; obtain independent audio-forensic analysis of the released clip.
 
@@ -495,7 +495,7 @@ Claim: The audio clip released by Turning Point USA contains Charlie Kirk statin
 Anchored Artifacts: A-2066.1
 Mentions: N-1
 
-Related Nodes: N-11061
+Related Nodes: N-10664
 
 Investigative Direction: Locate TPUSA's original release of the clip; obtain timestamped metadata; compare against any verified recordings of Charlie Kirk's voice.
 
@@ -508,9 +508,9 @@ Claim Timestamp: 00:07:32
 Claim: Per a source who came forward, Turning Point USA employee Marcus Wada offers AI voice generation services for TPUSA presentations.
 
 Anchored Artifacts: A-2068.1
-Mentions: N-686, N-679
+Mentions: N-441, N-434
 
-Related Nodes: N-11061
+Related Nodes: N-10664
 
 Investigative Direction: Verify Wada's TPUSA employment and the scope of his AI services; identify any other clients or projects; obtain a sample of his AI-generated voice work.
 
@@ -523,9 +523,9 @@ Claim Timestamp: 00:07:32
 Claim: Per the source, Turning Point USA presentations typically feature AI-generated voice-over using Pastor John Amanchukwu's voice (described as with his permission).
 
 Anchored Artifacts: A-2068.2
-Mentions: N-686
+Mentions: N-441
 
-Related Nodes: N-11061
+Related Nodes: N-10664
 
 Investigative Direction: Obtain a TPUSA presentation featuring the contested voice; verify with Pastor Amanchukwu whether he consented to voice cloning; secure source's full statement.
 
@@ -538,9 +538,9 @@ Claim Timestamp: 00:09:42
 Claim: John Mappin shared on X that an Aspen donor told him the moment depicted in the audio never happened.
 
 Anchored Artifacts: A-2069.1
-Mentions: N-1, N-217
+Mentions: N-1, N-157
 
-Related Nodes: N-11061
+Related Nodes: N-10664
 
 Investigative Direction: Verify Mappin's original X post and identify the donor he referenced; obtain Mappin's full statement.
 
@@ -553,9 +553,9 @@ Claim Timestamp: 00:09:42
 Claim: Kimberly Klacik publicly argued on X that since the TPUSA board elected Erika Kirk as CEO and no donors had publicly questioned the decision, the authenticity of the audio does not matter.
 
 Anchored Artifacts: A-2067.1
-Mentions: N-2, N-687
+Mentions: N-2, N-442
 
-Related Nodes: N-11061
+Related Nodes: N-10664
 
 Investigative Direction: Verify the original post; obtain TPUSA board meeting minutes documenting Erika's CEO election.
 
@@ -602,7 +602,7 @@ Claim: Erika Kirk's older LinkedIn page (since removed) stated she graduated fro
 Anchored Artifacts: A-2071.1
 Mentions: N-2
 
-Related Nodes: N-11062
+Related Nodes: N-10665
 
 Investigative Direction: Obtain archived versions of the LinkedIn page (Wayback Machine or other captures); verify against ASU graduation records.
 
@@ -617,7 +617,7 @@ Claim: Erika Kirk later updated her LinkedIn page to state she graduated summa c
 Anchored Artifacts: A-2071.2
 Mentions: N-2
 
-Related Nodes: N-11062
+Related Nodes: N-10665
 
 Investigative Direction: Obtain archived LinkedIn captures showing both versions; verify degree titles and honors with ASU registrar.
 
@@ -630,9 +630,9 @@ Claim Timestamp: 00:18:59
 Claim: Per Baron Coleman and other online researchers, Arizona State University did not offer an international relations degree program at all in 2012, when Erika Kirk claims to have graduated.
 
 Anchored Artifacts: A-2072.1
-Mentions: N-552, N-2
+Mentions: N-337, N-2
 
-Related Nodes: N-11062
+Related Nodes: N-10665
 
 Investigative Direction: Obtain ASU's archived 2012 course catalog directly from the university or library archives; verify the degree offerings list.
 
@@ -647,7 +647,7 @@ Claim: Erika Kirk's LinkedIn page lists a Doctor of Education in Christian Leade
 Anchored Artifacts: A-2071.3
 Mentions: N-2
 
-Related Nodes: N-11062
+Related Nodes: N-10665
 
 Investigative Direction: Verify Liberty's Ed.D. in Christian Leadership program; obtain Liberty's records on Erika Kirk's actual enrollment.
 
@@ -661,7 +661,7 @@ Claim: Nick Shirley is associated with a video claiming he infiltrated the most 
 
 Anchored Artifacts: A-2073.1
 
-Related Nodes: N-11064
+Related Nodes: N-10666
 
 Investigative Direction: Locate the original favela video; verify any corroborating evidence (local news, authorities, contacts).
 
@@ -674,9 +674,9 @@ Claim Timestamp: 00:28:51
 Claim: Patrick Bet-David's show hosted Nick Shirley, during which Shirley stated that Candace Owens "came after me uh a while back" and didn't believe his Brazilian favela video; Bet-David asked "Why would Candace Owens come after you?"
 
 Anchored Artifacts: A-2073.2
-Mentions: N-88, N-3
+Mentions: N-57, N-3
 
-Related Nodes: N-11064
+Related Nodes: N-10666
 
 Investigative Direction: Obtain the full PBD interview clip and timestamp; verify PBD's framing of prior coverage.
 
@@ -689,9 +689,9 @@ Claim Timestamp: 00:30:15
 Claim: Alex Clark publicly wrote on X: "Nick Shirley is a real journalist. Candace Owens is not."
 
 Anchored Artifacts: A-2074.1
-Mentions: N-3, N-135
+Mentions: N-3, N-99
 
-Related Nodes: N-11064
+Related Nodes: N-10666
 
 Investigative Direction: Verify the original post and Alex Clark's relationship with Nick Shirley.
 
@@ -704,9 +704,9 @@ Claim Timestamp: 00:49:33
 Claim: According to flight records shown to Candace during her private interview with Erika, Brian Harpole's alibi flights on the 9th departed Dallas at 1:49 PM for Salt Lake City – a window that does not cover the morning timeframe when Mitch reported seeing him at Fort Huachuca.
 
 Anchored Artifacts: A-2075.1
-Mentions: N-424
+Mentions: N-272
 
-Related Nodes: N-10444
+Related Nodes: N-10373
 
 Investigative Direction: Verify the flight records independently through airline records or TSA; obtain Brian Harpole's full itinerary for the date in question.
 
@@ -719,9 +719,9 @@ Claim Timestamp: 00:52:24
 Claim: A photograph allegedly depicting Erika Kirk with her children at Fort Huachuca was provided to online defenders by Andrew Kolvet, with the explicit instruction "don't share."
 
 Anchored Artifacts: A-2075.2
-Mentions: N-42, N-2
+Mentions: N-14, N-2
 
-Related Nodes: N-10444
+Related Nodes: N-10373
 
 Investigative Direction: Locate the original alibi photo and Andrew Kolvet's accompanying message; verify provenance.
 
@@ -736,7 +736,7 @@ Claim: Paramount Tactical admitted over the weekend that the boy depicted in the
 Anchored Artifacts: A-2075.3
 Mentions: N-2
 
-Related Nodes: N-10444
+Related Nodes: N-10373
 
 Investigative Direction: Locate Paramount Tactical's specific admission statement; identify the actual child in the photo.
 
@@ -749,9 +749,9 @@ Claim Timestamp: 00:52:24
 Claim: Per host, Andrew Kolvet was the coordinator behind the Paramount Tactical and Valhalla YouTube efforts to push back on the Fort Huachuca allegations against Brian Harpole, despite Erika's claim that Kolvet was being moved off of PR responsibilities.
 
 Anchored Artifacts: A-2075.2, A-2075.3
-Mentions: N-42, N-424
+Mentions: N-14, N-272
 
-Related Nodes: N-10444
+Related Nodes: N-10373
 
 Investigative Direction: Obtain direct evidence of coordination (emails, DMs, communications); obtain statement from Kolvet, Paramount Tactical, and Valhalla.
 
@@ -764,9 +764,9 @@ Claim Timestamp: 00:45:18
 Claim: During Candace's private interview with Erika Kirk, Erika volunteered Brian Harpole's flight records as his alibi – which Candace notes did not actually cover the timeframe of Mitch's sighting.
 
 Anchored Artifacts: A-2075.1
-Mentions: N-424, N-2
+Mentions: N-272, N-2
 
-Related Nodes: N-10444
+Related Nodes: N-10373
 
 Investigative Direction: Obtain Candace's documented record of the interview; verify the flight records independently.
 
@@ -811,7 +811,7 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-10207+ range per continuation)
+- [x] People nodes use the global people ledger (N-10141+ range per continuation)
 - [x] Non-person investigation targets use the 2061+ range per continuation
 - [x] No speculative/framing claims were inscribed as evidence-backed claims
 - [x] Names are preserved exactly as they appear (with flag for Andrew Kolvet/Andrew Kolbe/Andrew Kolb spelling variations)

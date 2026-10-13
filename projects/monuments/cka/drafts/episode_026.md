@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 6e756e4348b0394d7192565879b6931826d6ba20924657099ff19f450d9aa60d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-335, N-339, N-340, N-344, N-10294, N-10295, N-10296, N-10297
+  - New Nodes Introduced: N-225, N-226, N-227, N-229, N-10224, N-10225, N-10226, N-10227
   - Reused Nodes Appearing: N-2, N-10000
   - (see registers)
 
@@ -34,8 +34,8 @@
 
 - **Artifact Families Introduced:** A-1333, A-1334, A-1335, A-1336, A-1337, A-1338, A-1339, A-1340, A-1341, A-1342, A-1343, A-1344
 - **Claim Range:** C-1598–C-1616
-- **New People Nodes Introduced:** N-335, N-272, N-224, N-150, N-339, N-340, N-91, N-42, N-87, N-344, N-45
-- **New Investigation Target Nodes Introduced:** N-10294, N-10295, N-10296, N-10297
+- **New People Nodes Introduced:** N-225, N-194, N-162, N-107, N-226, N-227, N-60, N-14, N-56, N-229, N-17
+- **New Investigation Target Nodes Introduced:** N-10224, N-10225, N-10226, N-10227
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -58,7 +58,7 @@ Video Timestamp: 00:03:45–00:04:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1598, C-1599, N-10294*
+*Related: C-1598, C-1599, N-10224*
 
 **A-1333.2** UVU event request email (mid-July 2025) – referenced verbally by host; shown on screen per host narration but content not transcribed in captions
 
@@ -69,7 +69,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced; visual content not captured in caption transcript
 
-*Related: C-1599, N-10294*
+*Related: C-1599, N-10224*
 
 ---
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:11:41–00:12:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1600, N-340*
+*Related: C-1600, N-227*
 
 ---
 
@@ -111,7 +111,7 @@ Video Timestamp: 00:18:25–00:18:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1602, C-1603, N-335, N-339*
+*Related: C-1602, C-1603, N-225, N-226*
 
 **A-1336.2** Brett Cooper audio clip commenting on Ted Cruz tweets
 
@@ -121,7 +121,7 @@ Video Timestamp: 00:19:39–00:20:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1604, C-1605, N-335, N-150*
+*Related: C-1604, C-1605, N-225, N-107*
 
 ---
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:20:51–00:21:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1606, N-335, N-87*
+*Related: C-1606, N-225, N-56*
 
 **A-1337.2** X posts alleging Brett Cooper and her mother engage in witchcraft
 
@@ -145,7 +145,7 @@ Video Timestamp: 00:23:37–00:24:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1607, N-335*
+*Related: C-1607, N-225*
 
 ---
 
@@ -159,7 +159,7 @@ Video Timestamp: 00:24:28–00:25:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1608, N-335, N-344*
+*Related: C-1608, N-225, N-229*
 
 ---
 
@@ -173,7 +173,7 @@ Video Timestamp: 00:36:07–00:39:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1609, C-1610, N-272, N-224, N-45, N-2, N-1*
+*Related: C-1609, C-1610, N-194, N-162, N-17, N-2, N-1*
 
 ---
 
@@ -187,7 +187,7 @@ Video Timestamp: 00:47:44–00:48:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1611, N-91*
+*Related: C-1611, N-60*
 
 ---
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:50:03–00:50:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1612, C-1613, N-42, N-340*
+*Related: C-1612, C-1613, N-14, N-227*
 
 ---
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:14:20–00:15:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1614, N-340*
+*Related: C-1614, N-227*
 
 ---
 
@@ -229,7 +229,7 @@ Video Timestamp: 00:45:19–00:46:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1615, N-272, N-2, N-1*
+*Related: C-1615, N-194, N-2, N-1*
 
 ---
 
@@ -244,7 +244,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced; full visual content not captured in caption transcript
 
-*Related: C-1616, N-272, N-10295, N-10296*
+*Related: C-1616, N-194, N-10225, N-10226*
 
 **A-1344.2** Footage showing Charlie Kirk positioned on top of an equipment box/suitcase rather than flat ground – verbal description with on-screen playback per host narration
 
@@ -255,7 +255,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced; full visual content not captured in caption transcript
 
-*Related: C-1616, N-10295*
+*Related: C-1616, N-10225*
 
 ---
 
@@ -270,7 +270,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1333.1, A-1339.1, A-1343.1, A-1344.2, C-1598, C-1599, C-1615, N-10294, N-10295*
+*Related: A-1333.1, A-1339.1, A-1343.1, A-1344.2, C-1598, C-1599, C-1615, N-10224, N-10225*
 
 **N-10000** Turning Point USA
 *(Existing – referenced in scheduling and phone call discussion)*
@@ -281,7 +281,7 @@ Investigative Pressure: Medium
 
 *Related: A-1339.1, A-1343.1, C-1609, C-1610, C-1615*
 
-**N-335** Brett Cooper
+**N-225** Brett Cooper
 
 Subject of multiple on-air artifact-backed claims (commentary clips, online posts, Shawn Ryan appearance).
 
@@ -290,9 +290,9 @@ Claim Count: 7
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1336.1, A-1336.2, A-1337.1, A-1337.2, A-1338.1, C-1602, C-1603, C-1604, C-1605, C-1606, C-1607, C-1608, N-150, N-339, N-87, N-344*
+*Related: A-1336.1, A-1336.2, A-1337.1, A-1337.2, A-1338.1, C-1602, C-1603, C-1604, C-1605, C-1606, C-1607, C-1608, N-107, N-226, N-56, N-229*
 
-**N-272** Mikey McCoy
+**N-194** Mikey McCoy
 
 Subject of artifact-backed claims regarding post-shooting phone calls, behavior, and YouTube channel positioning.
 
@@ -301,9 +301,9 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1339.1, A-1343.1, A-1344.1, C-1609, C-1610, C-1615, C-1616, N-45, N-2, N-10295, N-10296, N-10297*
+*Related: A-1339.1, A-1343.1, A-1344.1, C-1609, C-1610, C-1615, C-1616, N-17, N-2, N-10225, N-10226, N-10227*
 
-**N-224** Blake Neff
+**N-162** Blake Neff
 
 Eyewitness source providing on-record recounting of post-shooting events.
 
@@ -312,9 +312,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1339.1, C-1609, C-1610, N-272, N-45, N-2*
+*Related: A-1339.1, C-1609, C-1610, N-194, N-17, N-2*
 
-**N-150** Ted Cruz
+**N-107** Ted Cruz
 
 Subject of Brett Cooper criticism and host commentary.
 
@@ -323,9 +323,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1336.2, C-1604, C-1605, N-335*
+*Related: A-1336.2, C-1604, C-1605, N-225*
 
-**N-339** Randy Fine
+**N-226** Randy Fine
 
 Florida state representative referenced in Brett Cooper commentary.
 
@@ -334,9 +334,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1336.1, C-1602, N-335*
+*Related: A-1336.1, C-1602, N-225*
 
-**N-340** Zohran Mamdani
+**N-227** Zohran Mamdani
 
 NYC mayoral election winner; subject of debate clip, exit poll, and commentary.
 
@@ -347,7 +347,7 @@ Investigative Pressure: Medium
 
 *Related: A-1334.1, A-1341.1, A-1342.1, C-1600, C-1613, C-1614*
 
-**N-91** Laura Loomer
+**N-60** Laura Loomer
 
 Subject of Pentagon press pass headline and host commentary.
 
@@ -358,7 +358,7 @@ Investigative Pressure: Low
 
 *Related: A-1340.1, C-1611*
 
-**N-87** Aaron Wexler
+**N-56** Aaron Wexler
 
 X poster identified by host as source of "white Candace" post.
 
@@ -367,9 +367,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1337.1, C-1606, N-335*
+*Related: A-1337.1, C-1606, N-225*
 
-**N-344** Shawn Ryan
+**N-229** Shawn Ryan
 
 Host of the Shawn Ryan Show, on which Brett Cooper appeared.
 
@@ -378,9 +378,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1338.1, C-1608, N-335*
+*Related: A-1338.1, C-1608, N-225*
 
-**N-45** Rob McCoy
+**N-17** Rob McCoy
 
 Referenced in Blake Nef interview as call recipient; subject of host commentary re: Charlie Kirk succession narrative.
 
@@ -389,11 +389,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1339.1, C-1609, C-1610, N-272, N-224*
+*Related: A-1339.1, C-1609, C-1610, N-194, N-162*
 
 ---
 
-**N-98** Mark Herman (director, Candace show)
+**N-67** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host brings him in "in my ear to mansplain" the CNN exit poll, and he says Zohran Mamdani got about 32% of the Jewish vote in a poll of about 4,700 people.
 
@@ -408,7 +408,7 @@ Investigative Pressure: Low
 
 ### Investigation Target Nodes
 
-**N-10294** UVU Event Approval Timeline Anomaly
+**N-10224** UVU Event Approval Timeline Anomaly
 
 Persistent discrepancy between standard TPUSA advance-planning window (≈5–6 months, per A-1333.1) and the unusually short UVU request-to-event interval (mid-July 2025 request, September 2025 approval per host).
 
@@ -419,7 +419,7 @@ Investigative Pressure: High
 
 *Related: A-1333.1, A-1333.2, C-1598, C-1599, N-1*
 
-**N-10295** Equipment Box / First-Aid Anomaly at UVU Scene
+**N-10225** Equipment Box / First-Aid Anomaly at UVU Scene
 
 Persistent claim that Charlie Kirk was placed on top of an equipment box rather than flat ground, and that no visible first-aid administration occurred in the immediate post-shot window.
 
@@ -428,9 +428,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1344.1, A-1344.2, C-1616, N-1, N-272*
+*Related: A-1344.1, A-1344.2, C-1616, N-1, N-194*
 
-**N-10296** Mikey McCoy Phone Call Sequence Anomaly
+**N-10226** Mikey McCoy Phone Call Sequence Anomaly
 
 Persistent claim that Mikey McCoy's described phone calls (Erica, Rob McCoy) within one minute of the shooting are inconsistent with observed movement patterns and with expected human behavior under such circumstances.
 
@@ -439,9 +439,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1339.1, A-1344.1, C-1610, N-272, N-224, N-45, N-2*
+*Related: A-1339.1, A-1344.1, C-1610, N-194, N-162, N-17, N-2*
 
-**N-10297** YouTube Scheduling Order Anomaly
+**N-10227** YouTube Scheduling Order Anomaly
 
 Persistent claim that the first scheduled post on Charlie Kirk's YouTube channel after the memorial event was Mikey McCoy's speech, queued before Erika Kirk's.
 
@@ -450,7 +450,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1343.1, C-1615, N-272, N-2*
+*Related: A-1343.1, C-1615, N-194, N-2*
 
 ---
 
@@ -464,7 +464,7 @@ Claim: A Turning Point USA email dated October 2023 shows that planning for an A
 
 Anchored Artifacts: A-1333.1
 
-Related Nodes: N-10294
+Related Nodes: N-10224
 
 Investigative Direction: Obtain the full October 2023 TPUSA email thread and cross-reference against typical event-planning SOPs for prior TPUSA tours.
 
@@ -479,7 +479,7 @@ Claim: A UVU request for Charlie Kirk to speak on campus was received in mid-Jul
 Anchored Artifacts: A-1333.2
 Mentions: N-1
 
-Related Nodes: N-10294
+Related Nodes: N-10224
 
 Investigative Direction: Obtain the original UVU event request correspondence and TPUSA internal approval records to verify exact dates.
 
@@ -494,7 +494,7 @@ Claim Timestamp: 00:11:41–00:12:31
 Claim: In the NYC mayoral debate, Zohran Mamdani stated he would remain in New York City rather than take a first foreign trip as mayor.
 
 Anchored Artifacts: A-1334.1
-Mentions: N-340
+Mentions: N-227
 
 
 Investigative Direction: Locate the full unedited debate transcript or video to verify the exact wording and any follow-up exchanges.
@@ -523,7 +523,7 @@ Claim Timestamp: 00:18:25–00:18:57
 Claim: Brett Cooper stated on-record that Randy Fine cares more about Israel than free-speech principles, cited his anti-Netanyahu-handshake behavior and his bill introductions, and advised him to move to Israel.
 
 Anchored Artifacts: A-1336.1
-Mentions: N-335, N-339
+Mentions: N-225, N-226
 
 
 Investigative Direction: Locate the original Brett Cooper video for full context and identify any subsequent Fine response.
@@ -537,7 +537,7 @@ Claim Timestamp: 00:18:57–00:19:30
 Claim: The host explicitly endorses Brett Cooper's characterization of Randy Fine, calling her commentary "pretty sound advice."
 
 Anchored Artifacts: A-1336.1
-Mentions: N-335, N-339
+Mentions: N-225, N-226
 
 
 Investigative Direction: N/A – host-stance claim linked to source artifact.
@@ -551,7 +551,7 @@ Claim Timestamp: 00:19:39–00:20:14
 Claim: Brett Cooper publicly criticized Ted Cruz for hypocrisy in his treatment of "Nazi" rhetoric, citing specific Cruz tweets.
 
 Anchored Artifacts: A-1336.2
-Mentions: N-150, N-335
+Mentions: N-107, N-225
 
 
 Investigative Direction: Verify the cited Ted Cruz tweets in their original form and timestamp.
@@ -565,7 +565,7 @@ Claim Timestamp: 00:20:14–00:20:30
 Claim: The host endorses Brett Cooper's criticism of Ted Cruz's tweet behavior.
 
 Anchored Artifacts: A-1336.2
-Mentions: N-150, N-335
+Mentions: N-107, N-225
 
 
 Investigative Direction: N/A – host-stance claim linked to source artifact.
@@ -579,7 +579,7 @@ Claim Timestamp: 00:20:51–00:21:20
 Claim: An X post attributed to Aaron Wexler referred to Brett Cooper as "white Candace" and questioned the use of the term "Nazi."
 
 Anchored Artifacts: A-1337.1
-Mentions: N-87, N-335
+Mentions: N-56, N-225
 
 
 Investigative Direction: Verify the original Wexler post, account status (active/deleted), and any subsequent responses.
@@ -593,7 +593,7 @@ Claim Timestamp: 00:23:37–00:24:10
 Claim: Multiple X posts alleged Brett Cooper and her mother engage in witchcraft, citing a prior interview clip as evidence.
 
 Anchored Artifacts: A-1337.2
-Mentions: N-335
+Mentions: N-225
 
 
 Investigative Direction: Identify the original poster accounts and verify the original posts.
@@ -607,7 +607,7 @@ Claim Timestamp: 00:24:28–00:25:20
 Claim: Brett Cooper appeared on the Shawn Ryan Show and discussed her mother's visits to mediums following the death of her twin brother.
 
 Anchored Artifacts: A-1338.1
-Mentions: N-335, N-344
+Mentions: N-225, N-229
 
 
 Investigative Direction: Locate the full Shawn Ryan Show episode for complete context and date verification.
@@ -621,7 +621,7 @@ Claim Timestamp: 00:36:07–00:39:39
 Claim: Blake Nef stated on-record that he was next to Mikey McCoy when the shot occurred, that Mikey ran in a specific direction, that his lip was quivering, and that Mikey placed calls to Erica Kirk and to Robin McCoy within approximately one minute.
 
 Anchored Artifacts: A-1339.1
-Mentions: N-1, N-45, N-224, N-272, N-2
+Mentions: N-1, N-17, N-162, N-194, N-2
 
 Related Nodes:
 
@@ -636,9 +636,9 @@ Claim Timestamp: 00:39:39–00:43:20
 Claim: The host asserts that Blake Nef's account is internally inconsistent with observed video footage of Mikey McCoy's movement and phone posture, and contends that the described calls could not have occurred as described.
 
 Anchored Artifacts: A-1339.1, A-1344.1
-Mentions: N-45, N-224, N-272, N-2
+Mentions: N-17, N-162, N-194, N-2
 
-Related Nodes: N-10296
+Related Nodes: N-10226
 
 Investigative Direction: Obtain and analyze the post-shooting footage showing Mikey McCoy's movements and phone usage against Nef's timeline.
 
@@ -651,7 +651,7 @@ Claim Timestamp: 00:47:44–00:48:10
 Claim: A news headline reports that Laura Loomer, described as a Trump ally, has been issued a new Pentagon press pass.
 
 Anchored Artifacts: A-1340.1
-Mentions: N-91
+Mentions: N-60
 
 
 Investigative Direction: Verify the original outlet, publication date, and Pentagon confirmation status.
@@ -665,7 +665,7 @@ Claim Timestamp: 00:50:03–00:50:59
 Claim: Josh Hammer stated on-record that the election of a Muslim mayor in New York City less than a quarter century after September 11, 2001 is significant, framing Mamdani's candidacy in those terms.
 
 Anchored Artifacts: A-1341.1
-Mentions: N-86, N-340
+Mentions: N-55, N-227
 
 
 Investigative Direction: Verify the original Josh Hammer segment and identify the outlet.
@@ -679,7 +679,7 @@ Claim Timestamp: 00:51:00–00:52:10
 Claim: The host publicly rejects Josh Hammer's framing, identifies herself as more fearful of Zionists than Muslims, and refuses the implied call to armed conflict.
 
 Anchored Artifacts: A-1341.1
-Mentions: N-86
+Mentions: N-55
 
 
 Investigative Direction: N/A – host-stance claim linked to source artifact.
@@ -693,7 +693,7 @@ Claim Timestamp: 00:14:20–00:15:05
 Claim: A CNN exit poll of approximately 4,700 respondents indicates Zohran Mamdani received approximately 32% of the Jewish vote in the NYC mayoral election.
 
 Anchored Artifacts: A-1342.1
-Mentions: N-98, N-340
+Mentions: N-67, N-227
 
 
 Investigative Direction: Obtain the full CNN exit poll crosstabs and methodology to verify exact figures and sample composition.
@@ -707,9 +707,9 @@ Claim Timestamp: 00:45:19–00:46:08
 Claim: Upon resumption of scheduled uploads to his YouTube page following the memorial event, the first scheduled post featured Mikey McCoy (and his wife), with Erika Kirk's speech scheduled second.
 
 Anchored Artifacts: A-1343.1
-Mentions: N-272, N-2
+Mentions: N-194, N-2
 
-Related Nodes: N-10297
+Related Nodes: N-10227
 
 Investigative Direction: Independently verify YouTube scheduling metadata for the relevant timeframe.
 
@@ -722,9 +722,9 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: The host alleges that Charlie Kirk was positioned on top of an equipment box/suitcase rather than flat on the ground after being lowered, that no first aid was visibly administered, and that Mikey McCoy's phone posture in footage is inconsistent with the official cover-his-ears narrative.
 
 Anchored Artifacts: A-1344.1, A-1344.2
-Mentions: N-1, N-272
+Mentions: N-1, N-194
 
-Related Nodes: N-10295, N-10296
+Related Nodes: N-10225, N-10226
 
 Investigative Direction: Obtain and analyze the full UVU scene footage from multiple angles; locate any official first-aid or security-team accounts; verify equipment-box presence in pre-event setup imagery.
 
@@ -753,7 +753,7 @@ Confidence: high
 - **A-1339.1** – Interview outlet, publication date, and full context require verification against the original published segment.
 - **A-1341.1** – Original outlet, full segment, and surrounding context require verification.
 - **Multiple A-1336 / A-1337 references** – Brett Cooper referenced as "23 years old" and "Gen Z" but date-of-birth not artifact-anchored.
-- **N-10295, N-10296, N-10297** – Investigation target nodes are based on host-curated video review; independent verification of the underlying footage required.
+- **N-10225, N-10226, N-10227** – Investigation target nodes are based on host-curated video review; independent verification of the underlying footage required.
 
 ---
 
@@ -764,8 +764,8 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-335–N-45)
-- [x] Non-person investigation targets use the 1000 series (N-10294–N-10297)
+- [x] People nodes use the global people ledger (N-225–N-17)
+- [x] Non-person investigation targets use the 1000 series (N-10224–N-10227)
 - [x] No speculative host-framing claims inscribed as evidence-backed claims
 - [x] Names preserved as they appear; "Mamdani" corrected from host's "Mom Donnie"/"Mam Donnie" variant to documented name
 - [x] Formatting consistent with protocol

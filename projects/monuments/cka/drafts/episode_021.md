@@ -55,9 +55,9 @@ Confidence: high
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1283, A-1284, A-1285, A-1286, A-1287, A-1288, A-1289
   - Claim Range: C-1514–C-1526
-  - New Nodes Introduced: N-288, N-10266, N-10267, N-10268
+  - New Nodes Introduced: N-203, N-10200, N-10201, N-10202
   - Reused Nodes Appearing: 
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-182
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-132
 
 ---
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:05:35–00:07:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (content read aloud by host)
 
-*Related: C-1515, N-10266*
+*Related: C-1515, N-10200*
 
 **A-1283.2** Updated TPUSA Wikipedia entry – Rob McCoy as TPUSA Faith co-founder
 
@@ -93,7 +93,7 @@ Video Timestamp: 00:03:03–00:05:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (content and timestamp read aloud by host)
 
-*Related: C-1514, C-1524, N-45, N-10266*
+*Related: C-1514, C-1524, N-17, N-10200*
 
 **A-1284** Wikipedia Citation Source Article Bundle
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:04:30–00:05:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host describes having clicked and read the article; not displayed)
 
-*Related: C-1516, C-1517, N-45, N-10266*
+*Related: C-1516, C-1517, N-17, N-10200*
 
 **A-1285** Trump Truth Social Post Bundle
 
@@ -117,7 +117,7 @@ Video Timestamp: 00:15:35–00:17:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (content read aloud verbatim)
 
-*Related: C-1518, N-5 (Donald Trump, existing), N-10268*
+*Related: C-1518, N-5 (Donald Trump, existing), N-10202*
 
 **A-1286** New York Times Article Bundle (verbally referenced, not shown)
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:20:44–00:22:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (content paraphrased; not read or displayed)
 
-*Related: C-1519, C-1520, N-10268*
+*Related: C-1519, C-1520, N-10202*
 
 **A-1287** Megyn Kelly / Donald Trump Jr. Interview Clip Bundle
 
@@ -141,7 +141,7 @@ Video Timestamp: 00:32:12–00:35:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played in episode)
 
-*Related: C-1522, C-1523, C-1525, N-75, N-10268*
+*Related: C-1522, C-1523, C-1525, N-46, N-10202*
 
 **A-1288** Norman Finkelstein Interview Trailer Bundle
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:39:19–00:42:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-1526, N-288*
+*Related: C-1526, N-203*
 
 **A-1289** Charlie Kirk Day Proclamation Bundle (verbally referenced, not shown)
 
@@ -171,7 +171,7 @@ Confidence Level: Medium (referenced but not displayed)
 
 # IV. Node Register
 
-**N-45** Rob McCoy
+**N-17** Rob McCoy
 
 Pentecostal pastor (Calvary Chapel Association) named in TPUSA Wikipedia entry as co-founder/co-chairman of TPUSA Faith less than 36 hours after Kirk's death; host rejects co-founder characterization.
 
@@ -180,9 +180,9 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1283.2, A-1284.1, C-1514, C-1516, C-1517, C-1524, N-10266*
+*Related: A-1283.2, A-1284.1, C-1514, C-1516, C-1517, C-1524, N-10200*
 
-**N-75** Megyn Kelly
+**N-46** Megyn Kelly
 
 Interviewer of Donald Trump Jr. regarding confidence in FBI investigation into Charlie Kirk's death; relevant as the source forum for the Don Jr. artifact.
 
@@ -193,7 +193,7 @@ Investigative Pressure: Low
 
 *Related: A-1287.1, C-1522, C-1523, C-1525*
 
-**N-288** Norman Finkelstein
+**N-203** Norman Finkelstein
 
 Scholar and author; interviewee on upcoming Candace Owens episode regarding Gaza. Provides context but tangential to Kirk investigation per this episode.
 
@@ -204,7 +204,7 @@ Investigative Pressure: Low
 
 *Related: A-1288.1, C-1526*
 
-**N-10266** TPUSA Wikipedia Rob McCoy Co-Founder Discrepancy
+**N-10200** TPUSA Wikipedia Rob McCoy Co-Founder Discrepancy
 
 Persistent discrepancy between (a) updated TPUSA Wikipedia entry designating Rob McCoy as co-founder/co-chairman of TPUSA Faith with citation to a Nov 24, 2024 article that does not, per the host, contain that text; and (b) the pre-existing 2021 Wikipedia section naming Charlie Kirk as sole founder.
 
@@ -213,9 +213,9 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1283.1, A-1283.2, A-1284.1, C-1514, C-1515, C-1516, C-1517, C-1524, N-1, N-45*
+*Related: A-1283.1, A-1283.2, A-1284.1, C-1514, C-1515, C-1516, C-1517, C-1524, N-1, N-17*
 
-**N-10267** Charlie Kirk Burial / Funeral Narrative Discrepancy
+**N-10201** Charlie Kirk Burial / Funeral Narrative Discrepancy
 
 Persistent discrepancy between public narrative (Charlie Kirk as committed evangelical) and host's claim that Kirk had a Catholic funeral mass and is buried in a Catholic cemetery. No on-episode artifact supports the underlying claim; flagged for external verification.
 
@@ -226,7 +226,7 @@ Investigative Pressure: Low (pending verification)
 
 *Related: N-1, N-2 (Erica Kirk, existing)*
 
-**N-10268** FBI Charlie Kirk Investigation Handling (Kash Patel)
+**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 Persistent question regarding FBI Director Kash Patel's posture toward outside inquiries (Joe Kent / Tulsi Gabbard office) into the Kirk investigation, including reported resistance and a meeting with White House and ODNI principals.
 
@@ -239,7 +239,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-182** Susie Wiles
+**N-132** Susie Wiles
 
 Node Type: Person
 White House chief of staff. Host questions her as a Kirk eulogist and names her in later Epstein-file meetings.
@@ -257,9 +257,9 @@ Claim Timestamp: 00:03:03
 Claim: The TPUSA Wikipedia entry was updated at 10:34 PM Eastern on September 11, 2025 – less than 36 hours after Charlie Kirk's death – to add a heading naming Pastor Rob McCoy and Charlie Kirk as co-founders of TPUSA Faith.
 
 Anchored Artifacts: A-1283.2
-Mentions: N-45, N-1
+Mentions: N-17, N-1
 
-Related Nodes: N-10266
+Related Nodes: N-10200
 
 Investigative Direction: Obtain Wikipedia edit history (revision IDs, editor accounts, IP traces) for the TPUSA article between September 10–12, 2025, and compare to standard post-trauma edit patterns.
 
@@ -272,9 +272,9 @@ Claim Timestamp: 00:05:35
 Claim: Before the September 11, 2025 update, the TPUSA Wikipedia article contained a long-standing section stating that Charlie Kirk founded TPUSA Faith, with no mention of Rob McCoy.
 
 Anchored Artifacts: A-1283.1
-Mentions: N-1, N-45
+Mentions: N-1, N-17
 
-Related Nodes: N-10266
+Related Nodes: N-10200
 
 Investigative Direction: Retrieve archived snapshots of the TPUSA Wikipedia article (e.g., Wayback Machine, Wikipedia pre-September-2025 revisions) to verify the prior text.
 
@@ -287,9 +287,9 @@ Claim Timestamp: 00:04:30
 Claim: The citation used in the updated Wikipedia entry to support the assertion that Rob McCoy was co-founder/co-chairman of TPUSA Faith points to an article dated November 24, 2024, with additional citations dated September 10 and September 2025.
 
 Anchored Artifacts: A-1284.1
-Mentions: N-45
+Mentions: N-17
 
-Related Nodes: N-10266
+Related Nodes: N-10200
 
 Investigative Direction: Locate and verify the cited article(s) by date and content; confirm whether the citation supports the assertion as labeled.
 
@@ -302,9 +302,9 @@ Claim Timestamp: 00:04:30
 Claim: The November 24, 2024 article cited as source for McCoy's "co-founder/co-chairman" status does not, per the host's reading, contain text stating that McCoy was a co-founder or chairman of TPUSA Faith.
 
 Anchored Artifacts: A-1284.1
-Mentions: N-45
+Mentions: N-17
 
-Related Nodes: N-10266
+Related Nodes: N-10200
 
 Investigative Direction: Obtain the cited article directly and check for the phrases "co-founder," "chairman," "co-chairman," and any reference to TPUSA Faith.
 
@@ -332,9 +332,9 @@ Claim Timestamp: 00:20:44
 Claim: A New York Times article published the day prior to this episode reported that FBI Director Kash Patel was alarmed when Joe Kent of Tulsi Gabbard's office inquired about details of the Charlie Kirk investigation, including possible foreign involvement.
 
 Anchored Artifacts: A-1286.1
-Mentions: N-1, N-102
+Mentions: N-1, N-69
 
-Related Nodes: N-10268
+Related Nodes: N-10202
 
 Investigative Direction: Locate the NYT article by date, headline, and quoted material; confirm direct attribution to Patel and the substance of Kent's inquiry.
 
@@ -347,9 +347,9 @@ Claim Timestamp: 00:21:37
 Claim: Following the inquiry, Kash Patel convened a meeting with Susie Wiles, Joe Kent, Tulsi Gabbard, and (per host's recollection) JD Vance, and no substantive action followed.
 
 Anchored Artifacts: A-1286.1
-Mentions: N-182, N-102, N-4
+Mentions: N-132, N-69, N-4
 
-Related Nodes: N-10268
+Related Nodes: N-10202
 
 Investigative Direction: Confirm via the NYT article whether these named officials were present and whether subsequent reporting describes any action items.
 
@@ -376,7 +376,7 @@ Claim Timestamp: 00:32:12
 Claim: In a Megyn Kelly interview, Donald Trump Jr. stated that he had confidence in the FBI's investigation into Charlie Kirk's death.
 
 Anchored Artifacts: A-1287.1
-Mentions: N-75, N-62, N-1
+Mentions: N-46, N-33, N-1
 
 Related Nodes:
 
@@ -391,7 +391,7 @@ Claim Timestamp: 00:33:50
 Claim: In the same Megyn Kelly interview, Don Trump Jr. did not directly answer the first question about confidence in the FBI investigation, pivoting to remarks about continuing Kirk's work; only after Kelly re-asked the question did he state that he had confidence.
 
 Anchored Artifacts: A-1287.1
-Mentions: N-75
+Mentions: N-46
 
 
 Investigative Direction: Confirm sequence of statements in the unedited interview.
@@ -405,9 +405,9 @@ Claim Timestamp: 00:03:03
 Claim: The host asserts, as a position, that Rob McCoy was not the founder or co-founder of TPUSA Faith and was at most placed on an advisory board; the host's stated firsthand knowledge (via prior involvement with TPUSA Faith conversations at Liberty University) is offered as the basis.
 
 Anchored Artifacts: A-1283.2
-Mentions: N-45
+Mentions: N-17
 
-Related Nodes: N-10266
+Related Nodes: N-10200
 
 Investigative Direction: Obtain contemporaneous TPUSA Faith formation documents, IRS filings, and founding board records to resolve.
 
@@ -420,7 +420,7 @@ Claim Timestamp: 00:35:31
 Claim: The host asserts that Don Trump Jr.'s stated confidence in the FBI investigation is inconsistent with what he would say if he actually believed the official account – specifically that a 30-06 round's effect on Charlie Kirk's neck was as described.
 
 Anchored Artifacts: A-1287.1
-Mentions: N-75, N-1
+Mentions: N-46, N-1
 
 Related Nodes:
 
@@ -435,7 +435,7 @@ Claim Timestamp: 00:39:19
 Claim: In a trailer for an upcoming Candace Owens interview, Norman Finkelstein is shown quoting The Economist and a UN official describing Gaza as a "human rubbish heap" / "toxic dump," and asserts that a "billionaire class of Jewish supremacists" uses money as a blackmail weapon to silence critics of an ongoing genocide.
 
 Anchored Artifacts: A-1288.1
-Mentions: N-288, N-3
+Mentions: N-203, N-3
 
 
 Investigative Direction: Verify the quoted Economist and UN official attributions against original publications; this claim is tangential to the Kirk investigation but is presented within the same episode.
@@ -444,7 +444,7 @@ Investigative Direction: Verify the quoted Economist and UN official attribution
 
 # VI. Optional Flags
 
-- **Claim failed admission test** – The host's claim that Charlie Kirk had a Catholic funeral mass and is buried in a Catholic cemetery (timestamps ~29:08–34:00) is not supported by any artifact in this episode. It fails the Artifact Anchor Test and is therefore not inscribed as a claim; the underlying discrepancy is preserved as investigation target **N-10267** for external verification.
+- **Claim failed admission test** – The host's claim that Charlie Kirk had a Catholic funeral mass and is buried in a Catholic cemetery (timestamps ~29:08–34:00) is not supported by any artifact in this episode. It fails the Artifact Anchor Test and is therefore not inscribed as a claim; the underlying discrepancy is preserved as investigation target **N-10201** for external verification.
 
 - **Artifact verbally referenced but not shown** – **A-1286.1** (NYT article about Kash Patel / Joe Kent) and **A-1289.1** (Charlie Kirk Day proclamation) are referenced by the host but neither displayed on screen nor read aloud. Subsequent claims (C-1519, C-1520, C-1521) depend on these references and carry the same flag.
 
@@ -467,7 +467,7 @@ Investigative Direction: Verify the quoted Economist and UN official attribution
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use global people ledger (N-45, N-75, N-288); non-person investigation targets use N-10266+ series
+- [x] People nodes use global people ledger (N-17, N-46, N-203); non-person investigation targets use N-10200+ series
 - [x] No speculative or rhetorical claims inscribed as evidence-backed
 - [x] Names preserved as in transcript; uncertainties flagged
 - [x] No reuse of IDs from previous episodes; ledger continuation respected

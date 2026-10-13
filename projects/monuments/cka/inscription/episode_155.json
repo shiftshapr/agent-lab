@@ -226,9 +226,9 @@
             "C-3526"
           ],
           "related_nodes": [
-            "N-11337",
-            "N-11338",
-            "N-11340"
+            "N-10847",
+            "N-10848",
+            "N-10850"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -263,8 +263,8 @@
             "C-3525"
           ],
           "related_nodes": [
-            "N-11337",
-            "N-11340"
+            "N-10847",
+            "N-10850"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -291,7 +291,7 @@
             "C-3529"
           ],
           "related_nodes": [
-            "N-11338"
+            "N-10848"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -317,7 +317,7 @@
             "C-3529"
           ],
           "related_nodes": [
-            "N-11338"
+            "N-10848"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -356,8 +356,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11337",
-      "ref": "N-11337",
+      "@id": "N-10847",
+      "ref": "N-10847",
       "name": "\"Waluigi\" Unknown Driver",
       "type": "investigation_target",
       "description": "Code name assigned by the host to the unidentified operator of the second grey Dodge Challenger observed in the UVU admin/admissions lot; distinguished from the \"Maroon Boy.\" Height and clothing shape stated as identifying traits; identity not established.",
@@ -376,13 +376,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11340"
+        "N-10850"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11338",
-      "ref": "N-11338",
+      "@id": "N-10848",
+      "ref": "N-10848",
       "name": "Sept 15 Search Warrant vs Preliminary Hearing Narrative Shift",
       "type": "investigation_target",
       "description": "Persistent inconsistency between the Sept 15 search warrant narrative (Robinson visits wooded area 8:28–9:24 AM; visits parking-garage top first) and Agent Hull's preliminary-hearing testimony (omits top-of-structure stop; rearranges on-campus activity order).",
@@ -402,8 +402,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11339",
-      "ref": "N-11339",
+      "@id": "N-10849",
+      "ref": "N-10849",
       "name": "Woodbury Building / Baugh Family / N88 Plane Connection Question",
       "type": "investigation_target",
       "description": "Investigative target concerning the relationships between (a) the Baugh family's $5M UVU donation, (b) the Woodbury Business Building, (c) the Baughs' partial ownership of the N88 plane alongside Chellain and Derek Maxfield, and (d) the placement of the Baugh entrepreneurship program in the Woodbury building. No displayed source artifact in this episode.",
@@ -417,8 +417,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11340",
-      "ref": "N-11340",
+      "@id": "N-10850",
+      "ref": "N-10850",
       "name": "Two Grey Dodge Challengers Discrepancy",
       "type": "investigation_target",
       "description": "Persistent question concerning the simultaneous presence of two grey Dodge Challengers on UVU campus within ~20 minutes of one another on Sept 10, with the host assigning separate code names to the operators (\"Maroon Boy\" / \"Waluigi\") and stating no unified prosecution narrative accounts for both vehicles.",
@@ -437,7 +437,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11337"
+        "N-10847"
       ]
     },
     {
@@ -474,8 +474,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Comments revisit CPR narratives vs unnamed fire captain.",
@@ -490,8 +490,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
@@ -506,8 +506,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
@@ -522,8 +522,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-91",
-      "ref": "N-91",
+      "@id": "N-60",
+      "ref": "N-60",
       "name": "Laura Loomer",
       "type": "person",
       "description": "Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.",
@@ -538,8 +538,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
@@ -554,8 +554,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -586,8 +586,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-949",
-      "ref": "N-949",
+      "@id": "N-581",
+      "ref": "N-581",
       "name": "David Hull",
       "type": "person",
       "description": "First named by the host at 00:04:56 in episode 142. Aliases: Agent Hull, Agent David Hull.",
@@ -617,7 +617,7 @@
       "claim_timestamp": "00:00:00–00:00:01",
       "investigative_direction": "Obtain the full released episode and compare its content against Saucelito's pre-release predictions and the host's commentary.",
       "mentions_person_refs": [
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -634,11 +634,11 @@
       "claim_timestamp": "00:33:23–00:36:12",
       "investigative_direction": "Compare Saucelito's specific predictions against the released episode segment-by-segment.",
       "mentions_person_refs": [
-        "N-50",
+        "N-22",
         "N-3",
-        "N-272",
+        "N-194",
         "N-2",
-        "N-16"
+        "N-7"
       ]
     },
     {
@@ -671,7 +671,7 @@
       "investigative_direction": "Obtain full Neff/Boring episode to confirm statement context and surrounding statements.",
       "mentions_person_refs": [
         "N-3",
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -689,7 +689,7 @@
       "investigative_direction": "Verify exact quote and context in the full Neff/Boring episode.",
       "mentions_person_refs": [
         "N-3",
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -706,9 +706,9 @@
       "claim_timestamp": "00:36:51–00:37:44",
       "investigative_direction": "Verify exact quote and context in the full Neff/Boring episode.",
       "mentions_person_refs": [
-        "N-50",
+        "N-22",
         "N-3",
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -742,7 +742,7 @@
       "claim_timestamp": "00:42:43",
       "investigative_direction": "Retrieve the original post via web archive to confirm exact wording and timestamp.",
       "mentions_person_refs": [
-        "N-91"
+        "N-60"
       ]
     },
     {
@@ -800,8 +800,8 @@
         "A-2413.3"
       ],
       "related_nodes": [
-        "N-11337",
-        "N-11340"
+        "N-10847",
+        "N-10850"
       ],
       "tags": [],
       "claim_timestamp": "00:01:52–00:05:41",
@@ -817,8 +817,8 @@
         "A-2413.3"
       ],
       "related_nodes": [
-        "N-11337",
-        "N-11340"
+        "N-10847",
+        "N-10850"
       ],
       "tags": [],
       "claim_timestamp": "00:02:31–00:03:41",
@@ -834,8 +834,8 @@
         "A-2413.1"
       ],
       "related_nodes": [
-        "N-11337",
-        "N-11340"
+        "N-10847",
+        "N-10850"
       ],
       "tags": [],
       "claim_timestamp": "00:11:33–00:13:00",
@@ -855,7 +855,7 @@
       "claim_timestamp": "00:14:44",
       "investigative_direction": "Obtain the original TMZ footage with intact timestamps and any associated location metadata to independently confirm the timestamp and subject identification.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -868,7 +868,7 @@
         "A-2414.1"
       ],
       "related_nodes": [
-        "N-11338"
+        "N-10848"
       ],
       "tags": [],
       "claim_timestamp": "00:18:34–00:19:42",
@@ -885,13 +885,13 @@
         "A-2415.1"
       ],
       "related_nodes": [
-        "N-11338"
+        "N-10848"
       ],
       "tags": [],
       "claim_timestamp": "00:19:42–00:21:12",
       "investigative_direction": "Obtain the preliminary hearing transcript and audio/video to verify the specific omissions and re-orderings between the warrant narrative and Hull's testimony.",
       "mentions_person_refs": [
-        "N-949"
+        "N-581"
       ]
     },
     {
@@ -902,7 +902,7 @@
       "claim": "Neighbor Miss Noble and her husband reported observing a Dodge Challenger being driven by a bald person with two people in the back seat, parked in their neighborhood shortly after Officer Go forth's sighting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11340"
+        "N-10850"
       ],
       "tags": [],
       "claim_timestamp": "00:07:25–00:09:33",

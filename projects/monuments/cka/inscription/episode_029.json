@@ -30,7 +30,7 @@
             "C-1652"
           ],
           "related_nodes": [
-            "N-367"
+            "N-245"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -56,7 +56,7 @@
             "C-1653"
           ],
           "related_nodes": [
-            "N-367"
+            "N-245"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -82,7 +82,7 @@
             "C-1654"
           ],
           "related_nodes": [
-            "N-16"
+            "N-7"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -108,10 +108,10 @@
             "C-1655"
           ],
           "related_nodes": [
-            "N-363",
-            "N-364",
-            "N-365",
-            "N-10311"
+            "N-241",
+            "N-242",
+            "N-243",
+            "N-10241"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -137,9 +137,9 @@
             "C-1656"
           ],
           "related_nodes": [
-            "N-365",
-            "N-366",
-            "N-10311"
+            "N-243",
+            "N-244",
+            "N-10241"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -165,7 +165,7 @@
             "C-1657"
           ],
           "related_nodes": [
-            "N-371"
+            "N-247"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -217,7 +217,7 @@
             "C-1659"
           ],
           "related_nodes": [
-            "N-67"
+            "N-38"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -243,7 +243,7 @@
             "C-1660"
           ],
           "related_nodes": [
-            "N-370"
+            "N-246"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -269,7 +269,7 @@
             "C-1661"
           ],
           "related_nodes": [
-            "N-373"
+            "N-248"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -295,7 +295,7 @@
             "C-1662"
           ],
           "related_nodes": [
-            "N-349"
+            "N-232"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -321,8 +321,8 @@
             "C-1663"
           ],
           "related_nodes": [
-            "N-374",
-            "N-50"
+            "N-249",
+            "N-22"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -348,7 +348,7 @@
             "C-1664"
           ],
           "related_nodes": [
-            "N-376"
+            "N-250"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -374,7 +374,7 @@
             "C-1665"
           ],
           "related_nodes": [
-            "N-10310"
+            "N-10240"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -400,7 +400,7 @@
             "C-1666"
           ],
           "related_nodes": [
-            "N-10309"
+            "N-10239"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -415,8 +415,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-363",
-      "ref": "N-363",
+      "@id": "N-241",
+      "ref": "N-241",
       "name": "Steve Baker",
       "type": "person",
       "description": "Reporter / editor credited with the five-year investigation identifying the alleged January 6 pipe-bomb dropper.",
@@ -434,8 +434,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-364",
-      "ref": "N-364",
+      "@id": "N-242",
+      "ref": "N-242",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Host of the broadcast where Steve Baker's pipe-bomb findings were aired and played in this episode.",
@@ -453,8 +453,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-365",
-      "ref": "N-365",
+      "@id": "N-243",
+      "ref": "N-243",
       "name": "Shauni Kerkhoff",
       "type": "person",
       "description": "Person identified by Steve Baker (as \"Kirkup\") and by CIA spokesperson Liz Lyons (as \"Kirkhoff\") in connection with the January 6 pipe bombs; spelling discrepancy is preserved.",
@@ -472,13 +472,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10311"
+        "N-10241"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-366",
-      "ref": "N-366",
+      "@id": "N-244",
+      "ref": "N-244",
       "name": "Liz Lyons",
       "type": "person",
       "description": "CIA spokeswoman cited in the episode as the source of the statement on Capitol Police Campus Security employment.",
@@ -496,8 +496,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-367",
-      "ref": "N-367",
+      "@id": "N-245",
+      "ref": "N-245",
       "name": "Lance Wallnau",
       "type": "person",
       "description": "NAR preacher; proponent of the seven mountain mandate; alleged (via anonymous Turning Point sources) to have directed funds into Turning Point USA Faith.",
@@ -515,13 +515,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10312"
+        "N-10242"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Christian apologist whose audio clip on NAR was played in the episode.",
@@ -539,8 +539,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-67",
-      "ref": "N-67",
+      "@id": "N-38",
+      "ref": "N-38",
       "name": "Seth Dillon",
       "type": "person",
       "description": "Babylon Bee principal whose tweet quoting Matthew 16:26 was read aloud in the episode.",
@@ -558,8 +558,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-370",
-      "ref": "N-370",
+      "@id": "N-246",
+      "ref": "N-246",
       "name": "Joel Berry",
       "type": "person",
       "description": "Babylon Bee writer whose tweet criticizing Candace/Tucker was read aloud in the episode.",
@@ -577,8 +577,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-371",
-      "ref": "N-371",
+      "@id": "N-247",
+      "ref": "N-247",
       "name": "Frank McCormick",
       "type": "person",
       "description": "X user who posted the AI-analysis claim challenging the authenticity of the Charlie Kirk text messages.",
@@ -596,8 +596,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-349",
-      "ref": "N-349",
+      "@id": "N-232",
+      "ref": "N-232",
       "name": "Allie Beth Stuckey",
       "type": "person",
       "description": "Commentator whose audio clip warning against asking questions without \"hard evidence\" was played in the episode.",
@@ -615,8 +615,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-373",
-      "ref": "N-373",
+      "@id": "N-248",
+      "ref": "N-248",
       "name": "Grok",
       "type": "person",
       "description": "X platform AI whose public statement about Candace/TPUSA/Marcus Hale was read aloud in the episode.",
@@ -634,8 +634,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-374",
-      "ref": "N-374",
+      "@id": "N-249",
+      "ref": "N-249",
       "name": "Mark Levin",
       "type": "person",
       "description": "Radio host whose on-air response declining Tucker Carlson's debate request was played in the episode.",
@@ -653,8 +653,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "Host identified as the sender of the debate-offer text message to Mark Levin and central subject of the Levin's on-air rebuttal.",
@@ -672,8 +672,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-376",
-      "ref": "N-376",
+      "@id": "N-250",
+      "ref": "N-250",
       "name": "Keri Smith",
       "type": "person",
       "description": "Host of the Deprogrammed podcast whose audio characterizing Candace Owens as exhibiting \"cult tactics\" and \"cluster B personality disorder behavior\" was played in the episode.",
@@ -691,8 +691,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10309",
-      "ref": "N-10309",
+      "@id": "N-10239",
+      "ref": "N-10239",
       "name": "Timpanogos Hospital Footage Seizure Verification",
       "type": "investigation_target",
       "description": "Persistent claim (host-relayed, tip-sourced) that federal agents seized hospital footage at Timpanogos on the day of the Kirk shooting; not independently corroborated in this episode.",
@@ -710,8 +710,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10310",
-      "ref": "N-10310",
+      "@id": "N-10240",
+      "ref": "N-10240",
       "name": "Borderline Bar Las Vegas Survivor Pattern",
       "type": "investigation_target",
       "description": "Host-asserted pattern linking the November 2018 Borderline Bar & Grill shooting (with a Las Vegas survivor among the dead) to the prior 2017 Las Vegas shooting and to Rob McCoy's subsequent election as Thousand Oaks mayor.",
@@ -729,8 +729,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10311",
-      "ref": "N-10311",
+      "@id": "N-10241",
+      "ref": "N-10241",
       "name": "Shawnie Ray Kirkup / Kirkhoff Identity Verification",
       "type": "investigation_target",
       "description": "Persistent discrepancy in the episode between the spelling \"Kirkup\" (Steve Baker, via Glenn Beck audio) and \"Kirkhoff\" (CIA spokesperson Liz Lyons); preservation target for cross-source verification.",
@@ -748,13 +748,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-365"
+        "N-243"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10312",
-      "ref": "N-10312",
+      "@id": "N-10242",
+      "ref": "N-10242",
       "name": "Seven Mountain Mandate / NAR Influence on TPUSA Faith",
       "type": "investigation_target",
       "description": "Persistent investigable claim that NAR figures (notably Lance Wallnau) influenced and funded Turning Point USA Faith operations, and that this represents a broader \"faith-military constellation\" with infiltration doctrine.",
@@ -772,7 +772,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-367"
+        "N-245"
       ]
     },
     {
@@ -819,13 +819,13 @@
         "A-1364.1"
       ],
       "related_nodes": [
-        "N-10312"
+        "N-10242"
       ],
       "tags": [],
       "claim_timestamp": "00:12:07",
       "investigative_direction": "Retrieve and verify the original Facebook post via archive (e.g., Wayback Machine) or screenshot.",
       "mentions_person_refs": [
-        "N-367"
+        "N-245"
       ]
     },
     {
@@ -838,13 +838,13 @@
         "A-1365.1"
       ],
       "related_nodes": [
-        "N-10312"
+        "N-10242"
       ],
       "tags": [],
       "claim_timestamp": "00:13:31–00:14:22",
       "investigative_direction": "Retrieve the full source video to verify exact wording, context, and date.",
       "mentions_person_refs": [
-        "N-367"
+        "N-245"
       ]
     },
     {
@@ -861,7 +861,7 @@
       "claim_timestamp": "00:18:06–00:18:30",
       "investigative_direction": "Retrieve the full source audio/podcast to verify exact wording and full context.",
       "mentions_person_refs": [
-        "N-16"
+        "N-7"
       ]
     },
     {
@@ -874,15 +874,15 @@
         "A-1367.1"
       ],
       "related_nodes": [
-        "N-10311"
+        "N-10241"
       ],
       "tags": [],
       "claim_timestamp": "00:08:09–00:09:40",
       "investigative_direction": "Verify against federal charging documents, the Glenn Beck broadcast archive, and Steve Baker's contemporaneous reporting.",
       "mentions_person_refs": [
-        "N-363",
-        "N-364",
-        "N-365"
+        "N-241",
+        "N-242",
+        "N-243"
       ]
     },
     {
@@ -895,14 +895,14 @@
         "A-1368.1"
       ],
       "related_nodes": [
-        "N-10311"
+        "N-10241"
       ],
       "tags": [],
       "claim_timestamp": "00:10:32",
       "investigative_direction": "Retrieve the original CIA press statement or statement of record to verify wording and confirm whether \"Kirkhoff\" and \"Kirkup\" refer to the same individual.",
       "mentions_person_refs": [
-        "N-365",
-        "N-366"
+        "N-243",
+        "N-244"
       ]
     },
     {
@@ -919,7 +919,7 @@
       "claim_timestamp": "00:30:25–00:31:24",
       "investigative_direction": "Retrieve the original X post and the underlying AI analysis to assess methodology and reliability.",
       "mentions_person_refs": [
-        "N-371",
+        "N-247",
         "N-3",
         "N-1"
       ]
@@ -956,7 +956,7 @@
       "claim_timestamp": "00:28:07",
       "investigative_direction": "Retrieve and verify the original tweet on Seth Dillon's X account.",
       "mentions_person_refs": [
-        "N-67",
+        "N-38",
         "N-3"
       ]
     },
@@ -974,7 +974,7 @@
       "claim_timestamp": "00:29:06",
       "investigative_direction": "Retrieve and verify the original tweet on Joel Berry's X account.",
       "mentions_person_refs": [
-        "N-370"
+        "N-246"
       ]
     },
     {
@@ -991,7 +991,7 @@
       "claim_timestamp": "00:36:53–00:37:53",
       "investigative_direction": "Retrieve the original Grok/X post and compare against Candace Owens' contemporaneous statements on the show.",
       "mentions_person_refs": [
-        "N-373",
+        "N-248",
         "N-3",
         "N-1"
       ]
@@ -1010,7 +1010,7 @@
       "claim_timestamp": "00:33:55–00:34:48",
       "investigative_direction": "Retrieve the full source video to verify exact wording and full context.",
       "mentions_person_refs": [
-        "N-349",
+        "N-232",
         "N-3"
       ]
     },
@@ -1028,8 +1028,8 @@
       "claim_timestamp": "00:39:10–00:41:45",
       "investigative_direction": "Retrieve the full Mark Levin broadcast to verify exact wording and any additional context.",
       "mentions_person_refs": [
-        "N-50",
-        "N-374"
+        "N-22",
+        "N-249"
       ]
     },
     {
@@ -1046,7 +1046,7 @@
       "claim_timestamp": "00:44:50–00:46:29",
       "investigative_direction": "Retrieve the full Deprogrammed episode to verify exact wording and complete reasoning.",
       "mentions_person_refs": [
-        "N-376",
+        "N-250",
         "N-3"
       ]
     },
@@ -1060,7 +1060,7 @@
         "A-1377.1"
       ],
       "related_nodes": [
-        "N-10310"
+        "N-10240"
       ],
       "tags": [],
       "claim_timestamp": "00:23:17",
@@ -1076,7 +1076,7 @@
         "A-1378.1"
       ],
       "related_nodes": [
-        "N-10309"
+        "N-10239"
       ],
       "tags": [],
       "claim_timestamp": "00:01:46–00:03:01",

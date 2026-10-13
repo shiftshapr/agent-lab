@@ -32,7 +32,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-716"
+            "N-463"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -57,8 +57,8 @@
             "C-2092"
           ],
           "related_nodes": [
-            "N-50",
-            "N-716"
+            "N-22",
+            "N-463"
           ],
           "tags": [],
           "video_timestamp": "00:07:08",
@@ -84,11 +84,11 @@
             "C-2080"
           ],
           "related_nodes": [
-            "N-706",
-            "N-707",
-            "N-708",
-            "N-70",
-            "N-10480"
+            "N-455",
+            "N-456",
+            "N-457",
+            "N-41",
+            "N-10409"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -114,8 +114,8 @@
             "C-2081"
           ],
           "related_nodes": [
-            "N-710",
-            "N-10481"
+            "N-459",
+            "N-10410"
           ],
           "tags": [],
           "video_timestamp": "00:18:40",
@@ -138,9 +138,9 @@
             "C-2082"
           ],
           "related_nodes": [
-            "N-710",
-            "N-711",
-            "N-10481"
+            "N-459",
+            "N-460",
+            "N-10410"
           ],
           "tags": [],
           "video_timestamp": "00:21:42",
@@ -163,7 +163,7 @@
             "C-2084"
           ],
           "related_nodes": [
-            "N-711"
+            "N-460"
           ],
           "tags": [],
           "video_timestamp": "00:22:54",
@@ -179,7 +179,7 @@
             "C-2084"
           ],
           "related_nodes": [
-            "N-711"
+            "N-460"
           ],
           "tags": [],
           "video_timestamp": "00:22:47",
@@ -202,7 +202,7 @@
             "C-2085"
           ],
           "related_nodes": [
-            "N-711"
+            "N-460"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -219,7 +219,7 @@
             "C-2086"
           ],
           "related_nodes": [
-            "N-711"
+            "N-460"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -244,9 +244,9 @@
             "C-2087"
           ],
           "related_nodes": [
-            "N-712",
-            "N-713",
-            "N-10482"
+            "N-461",
+            "N-462",
+            "N-10411"
           ],
           "tags": [],
           "video_timestamp": "00:32:12",
@@ -261,8 +261,8 @@
             "C-2088"
           ],
           "related_nodes": [
-            "N-713",
-            "N-10482"
+            "N-462",
+            "N-10411"
           ],
           "tags": [],
           "video_timestamp": "00:34:03",
@@ -277,8 +277,8 @@
             "C-2089"
           ],
           "related_nodes": [
-            "N-713",
-            "N-10482"
+            "N-462",
+            "N-10411"
           ],
           "tags": [],
           "video_timestamp": "00:35:00",
@@ -301,7 +301,7 @@
             "C-2090"
           ],
           "related_nodes": [
-            "N-266"
+            "N-191"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -327,7 +327,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10483"
+            "N-10412"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -352,7 +352,7 @@
             "C-2093"
           ],
           "related_nodes": [
-            "N-719"
+            "N-464"
           ],
           "tags": [],
           "video_timestamp": "00:44:19",
@@ -384,8 +384,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-706",
-      "ref": "N-706",
+      "@id": "N-455",
+      "ref": "N-455",
       "name": "Alton C. Jennings",
       "type": "person",
       "description": "Decedent, age 95, whose $25M estate is the subject of a December 2024 will challenge naming TPUSA and YAF as recipients.",
@@ -402,13 +402,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10480"
+        "N-10409"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-707",
-      "ref": "N-707",
+      "@id": "N-456",
+      "ref": "N-456",
       "name": "Mitch Manley Sr.",
       "type": "person",
       "description": "Caretaker hired by Alton C. Jennings in 2021; named in will-challenge petition as having isolated decedent from family.",
@@ -424,13 +424,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10480"
+        "N-10409"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-708",
-      "ref": "N-708",
+      "@id": "N-457",
+      "ref": "N-457",
       "name": "Mitch Manley Jr.",
       "type": "person",
       "description": "Son of Mitch Manley Sr.; described as working for Turning Point USA on Charlie Kirk's show during the period the Jennings estate was redirected.",
@@ -446,14 +446,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-707",
-        "N-10480"
+        "N-456",
+        "N-10409"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-710",
-      "ref": "N-710",
+      "@id": "N-459",
+      "ref": "N-459",
       "name": "Paul Valli",
       "type": "person",
       "description": "Turning Point USA board member; former military commander of the 7th Psychological Operations Group; co-author of *Mind War* (1980) with Michael Aquino.",
@@ -471,14 +471,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-711",
-        "N-10481"
+        "N-460",
+        "N-10410"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-711",
-      "ref": "N-711",
+      "@id": "N-460",
+      "ref": "N-460",
       "name": "Michael Aquino",
       "type": "person",
       "description": "Former US Army Major; intelligence officer; co-author of *Mind War* (1980); member of Church of Satan from 1969; founder of Temple of Set (1975); subject of 1986–1987 San Francisco child-abuse investigation (insufficient evidence).",
@@ -502,14 +502,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-710",
-        "N-10481"
+        "N-459",
+        "N-10410"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-712",
-      "ref": "N-712",
+      "@id": "N-461",
+      "ref": "N-461",
       "name": "Greg Laurie",
       "type": "person",
       "description": "Founder of Harvest Christian Fellowship; named defendant in twelve lawsuits alleging abuse at affiliated Romanian children's home.",
@@ -525,14 +525,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-713",
-        "N-10482"
+        "N-462",
+        "N-10411"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-713",
-      "ref": "N-713",
+      "@id": "N-462",
+      "ref": "N-462",
       "name": "Paul Havsgaard",
       "type": "person",
       "description": "Former Harvest Christian Fellowship pastor/missionary; named defendant in original September lawsuit alleging abuse of children at Romanian shelter.",
@@ -550,14 +550,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-712",
-        "N-10482"
+        "N-461",
+        "N-10411"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-266",
-      "ref": "N-266",
+      "@id": "N-191",
+      "ref": "N-191",
       "name": "Scott Adams",
       "type": "person",
       "description": "Creator of *Dilbert*; died at age 68 of prostate cancer (referenced in this episode).",
@@ -575,8 +575,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "Host/commentator whose audio clip is presented in this episode.",
@@ -594,8 +594,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-716",
-      "ref": "N-716",
+      "@id": "N-463",
+      "ref": "N-463",
       "name": "Lindsey Graham",
       "type": "person",
       "description": "US Senator; subject of critique in Charlie Kirk and Tucker Carlson audio clips.",
@@ -615,8 +615,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-483",
-      "ref": "N-483",
+      "@id": "N-312",
+      "ref": "N-312",
       "name": "Wed Mahmoud",
       "type": "person",
       "description": "Referenced by host as a name appearing both on the SUBTU plane into Provo and on the \"yellow plane\" on the day of Charlie Kirk's assassination (timeline build).",
@@ -633,8 +633,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-719",
-      "ref": "N-719",
+      "@id": "N-464",
+      "ref": "N-464",
       "name": "Andrew Aguilar",
       "type": "person",
       "description": "Self-identified former Green Beret; claims arrest at US Capitol for calling out AIPAC.",
@@ -652,8 +652,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10480",
-      "ref": "N-10480",
+      "@id": "N-10409",
+      "ref": "N-10409",
       "name": "Alton C. Jennings Will Challenge – TPUSA / YAF as Recipients",
       "type": "investigation_target",
       "description": "Persistent investigation target: pattern of elderly estates redirected to TPUSA-affiliated organizations, including a $25M estate (Alton C. Jennings) reportedly reassigned November 2023, four months before decedent's death at age 95.",
@@ -671,16 +671,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-706",
-        "N-707",
-        "N-708",
-        "N-70"
+        "N-455",
+        "N-456",
+        "N-457",
+        "N-41"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10481",
-      "ref": "N-10481",
+      "@id": "N-10410",
+      "ref": "N-10410",
       "name": "TPUSA Board Member Military–Satanism Connection",
       "type": "investigation_target",
       "description": "Persistent investigation target: link between a TPUSA board member (Paul Valli) and military psychological-operations / Satanist / Temple of Set networks (Michael Aquino).",
@@ -706,14 +706,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-710",
-        "N-711"
+        "N-459",
+        "N-460"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10482",
-      "ref": "N-10482",
+      "@id": "N-10411",
+      "ref": "N-10411",
       "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
       "type": "investigation_target",
       "description": "Persistent investigation target: cluster of twelve (rising to twenty-three expected) lawsuits against Harvest Christian Fellowship/Greg Laurie/Paul Hascgard alleging abuse of children at a Romanian shelter.",
@@ -733,14 +733,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-712",
-        "N-713"
+        "N-461",
+        "N-462"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10483",
-      "ref": "N-10483",
+      "@id": "N-10412",
+      "ref": "N-10412",
       "name": "Erica Kirk June 19 Instagram Purge",
       "type": "investigation_target",
       "description": "Persistent investigation target: reported deletion of 126 Instagram posts on June 19, framed in the master timeline as a possible pre-event secrecy action.",
@@ -761,8 +761,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-41",
+      "ref": "N-41",
       "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
@@ -777,8 +777,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-37",
-      "ref": "N-37",
+      "@id": "N-11",
+      "ref": "N-11",
       "name": "Tyler Bowyer",
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
@@ -824,7 +824,7 @@
       "investigative_direction": "Obtain primary recording; verify exact phrasing.",
       "mentions_person_refs": [
         "N-1",
-        "N-716"
+        "N-463"
       ]
     },
     {
@@ -837,14 +837,14 @@
         "A-1619.1"
       ],
       "related_nodes": [
-        "N-10480"
+        "N-10409"
       ],
       "tags": [],
       "claim_timestamp": "00:13:58",
       "investigative_direction": "Obtain docket records (case number, court, jurisdiction); verify filing date and parties; confirm allegations are pleaded in the petition.",
       "mentions_person_refs": [
-        "N-706",
-        "N-707"
+        "N-455",
+        "N-456"
       ]
     },
     {
@@ -857,13 +857,13 @@
         "A-1619.1"
       ],
       "related_nodes": [
-        "N-10480"
+        "N-10409"
       ],
       "tags": [],
       "claim_timestamp": "00:16:20",
       "investigative_direction": "Obtain probate court filings; verify valuation and date of will execution.",
       "mentions_person_refs": [
-        "N-706"
+        "N-455"
       ]
     },
     {
@@ -876,14 +876,14 @@
         "A-1619.1"
       ],
       "related_nodes": [
-        "N-10480"
+        "N-10409"
       ],
       "tags": [],
       "claim_timestamp": "00:16:20",
       "investigative_direction": "Verify employment records; cross-check TPUSA staff listings; obtain dates of employment.",
       "mentions_person_refs": [
-        "N-707",
-        "N-708",
+        "N-456",
+        "N-457",
         "N-1"
       ]
     },
@@ -897,13 +897,13 @@
         "A-1619.1"
       ],
       "related_nodes": [
-        "N-10480"
+        "N-10409"
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",
       "investigative_direction": "Obtain probate records reflecting beneficiary designations; verify allocation.",
       "mentions_person_refs": [
-        "N-37"
+        "N-11"
       ]
     },
     {
@@ -916,13 +916,13 @@
         "A-1620.1"
       ],
       "related_nodes": [
-        "N-10481"
+        "N-10410"
       ],
       "tags": [],
       "claim_timestamp": "00:18:40",
       "investigative_direction": "Verify TPUSA board membership via official TPUSA disclosures; cross-check military service record.",
       "mentions_person_refs": [
-        "N-710"
+        "N-459"
       ]
     },
     {
@@ -935,14 +935,14 @@
         "A-1621.1"
       ],
       "related_nodes": [
-        "N-10481"
+        "N-10410"
       ],
       "tags": [],
       "claim_timestamp": "00:21:42",
       "investigative_direction": "Obtain bibliographic record (publisher, ISBN); verify authorship.",
       "mentions_person_refs": [
-        "N-710",
-        "N-711"
+        "N-459",
+        "N-460"
       ]
     },
     {
@@ -955,13 +955,13 @@
         "A-1622.2"
       ],
       "related_nodes": [
-        "N-10481"
+        "N-10410"
       ],
       "tags": [],
       "claim_timestamp": "00:22:47",
       "investigative_direction": "Cross-check Aquino's published biographical statements; consult Church of Satan archives.",
       "mentions_person_refs": [
-        "N-711"
+        "N-460"
       ]
     },
     {
@@ -975,13 +975,13 @@
         "A-1622.2"
       ],
       "related_nodes": [
-        "N-10481"
+        "N-10410"
       ],
       "tags": [],
       "claim_timestamp": "00:22:47",
       "investigative_direction": "Verify founding documents; cross-check Temple of Set records.",
       "mentions_person_refs": [
-        "N-711"
+        "N-460"
       ]
     },
     {
@@ -994,13 +994,13 @@
         "A-1623.1"
       ],
       "related_nodes": [
-        "N-10481"
+        "N-10410"
       ],
       "tags": [],
       "claim_timestamp": "00:27:54",
       "investigative_direction": "Obtain SFPD case records (case number); verify closure status and stated reason.",
       "mentions_person_refs": [
-        "N-711"
+        "N-460"
       ]
     },
     {
@@ -1013,13 +1013,13 @@
         "A-1623.2"
       ],
       "related_nodes": [
-        "N-10481"
+        "N-10410"
       ],
       "tags": [],
       "claim_timestamp": "00:27:54",
       "investigative_direction": "Obtain SFPD records; review any subsequent civil filings; cross-check victim statements if available.",
       "mentions_person_refs": [
-        "N-711"
+        "N-460"
       ]
     },
     {
@@ -1032,13 +1032,13 @@
         "A-1624.1"
       ],
       "related_nodes": [
-        "N-10482"
+        "N-10411"
       ],
       "tags": [],
       "claim_timestamp": "00:32:12",
       "investigative_direction": "Obtain court filings (case numbers, jurisdiction); verify plaintiff count.",
       "mentions_person_refs": [
-        "N-712"
+        "N-461"
       ]
     },
     {
@@ -1051,13 +1051,13 @@
         "A-1624.2"
       ],
       "related_nodes": [
-        "N-10482"
+        "N-10411"
       ],
       "tags": [],
       "claim_timestamp": "00:34:03",
       "investigative_direction": "Obtain original complaint; verify specificity of allegations; confirm Hascgard's status (former pastor/missionary).",
       "mentions_person_refs": [
-        "N-713"
+        "N-462"
       ]
     },
     {
@@ -1070,13 +1070,13 @@
         "A-1624.3"
       ],
       "related_nodes": [
-        "N-10482"
+        "N-10411"
       ],
       "tags": [],
       "claim_timestamp": "00:35:00",
       "investigative_direction": "Obtain law firm press release; track complaint filings in docket.",
       "mentions_person_refs": [
-        "N-713"
+        "N-462"
       ]
     },
     {
@@ -1093,7 +1093,7 @@
       "claim_timestamp": "00:38:11",
       "investigative_direction": "Cross-check obituary; verify cause of death and date.",
       "mentions_person_refs": [
-        "N-266"
+        "N-191"
       ]
     },
     {
@@ -1106,7 +1106,7 @@
         "A-1626.1"
       ],
       "related_nodes": [
-        "N-10483"
+        "N-10412"
       ],
       "tags": [],
       "claim_timestamp": "00:12:24",
@@ -1129,8 +1129,8 @@
       "claim_timestamp": "00:07:08",
       "investigative_direction": "Locate original clip; verify date and outlet.",
       "mentions_person_refs": [
-        "N-50",
-        "N-716"
+        "N-22",
+        "N-463"
       ]
     },
     {
@@ -1147,7 +1147,7 @@
       "claim_timestamp": "00:44:19",
       "investigative_direction": "Verify arrest record (US Capitol Police, court records); verify date; obtain any charging documents or dismissals.",
       "mentions_person_refs": [
-        "N-719"
+        "N-464"
       ]
     },
     {
@@ -1162,7 +1162,7 @@
       "claim_timestamp": "00:09:14",
       "investigative_direction": "Obtain flight records (FAA, Flightradar24 archives); cross-check tail number; verify passenger manifest if available. **[Optional Flag: Artifact verbally referenced but not shown in this episode]**",
       "mentions_person_refs": [
-        "N-483"
+        "N-312"
       ]
     },
     {
@@ -1177,7 +1177,7 @@
       "claim_timestamp": "00:10:59",
       "investigative_direction": "Verify conflict onset date via public news records; cross-check host's timeline against flight records.",
       "mentions_person_refs": [
-        "N-483"
+        "N-312"
       ]
     }
   ],

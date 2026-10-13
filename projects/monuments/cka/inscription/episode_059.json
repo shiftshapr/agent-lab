@@ -33,8 +33,8 @@
             "C-2132"
           ],
           "related_nodes": [
-            "N-748",
-            "N-10496"
+            "N-481",
+            "N-10425"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -56,8 +56,8 @@
             "C-2131"
           ],
           "related_nodes": [
-            "N-748",
-            "N-10496"
+            "N-481",
+            "N-10425"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -85,9 +85,9 @@
             "C-2135"
           ],
           "related_nodes": [
-            "N-434",
-            "N-10496",
-            "N-10497"
+            "N-276",
+            "N-10425",
+            "N-10426"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -116,8 +116,8 @@
             "C-2139"
           ],
           "related_nodes": [
-            "N-750",
-            "N-10496"
+            "N-482",
+            "N-10425"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -141,7 +141,7 @@
           "description": "Cattleman's Ball website displayed on screen, showing multi-state event locations including Texas, Kansas, Oregon, Florida, and Nebraska",
           "related_claims": [],
           "related_nodes": [
-            "N-10496"
+            "N-10425"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -168,7 +168,7 @@
             "C-2148"
           ],
           "related_nodes": [
-            "N-748"
+            "N-481"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,8 +195,8 @@
             "C-2141"
           ],
           "related_nodes": [
-            "N-753",
-            "N-10498"
+            "N-483",
+            "N-10427"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -214,8 +214,8 @@
             "C-2140"
           ],
           "related_nodes": [
-            "N-753",
-            "N-10498"
+            "N-483",
+            "N-10427"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -241,8 +241,8 @@
             "C-2141"
           ],
           "related_nodes": [
-            "N-42",
-            "N-10498"
+            "N-14",
+            "N-10427"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -260,7 +260,7 @@
             "C-2141"
           ],
           "related_nodes": [
-            "N-10498"
+            "N-10427"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -287,7 +287,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10499"
+            "N-10428"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -306,7 +306,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10499"
+            "N-10428"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -326,7 +326,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-10499"
+            "N-10428"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -352,10 +352,10 @@
             "C-2145"
           ],
           "related_nodes": [
-            "N-45",
-            "N-759",
-            "N-760",
-            "N-10500"
+            "N-17",
+            "N-484",
+            "N-485",
+            "N-10429"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -407,7 +407,7 @@
             "C-2147"
           ],
           "related_nodes": [
-            "N-434",
+            "N-276",
             "N-1"
           ],
           "tags": [],
@@ -441,7 +441,7 @@
           "description": "\"Scrub Girl\" comment read aloud, stating \"I grew up in Converse, Texas, and no New Bronzeville/New Bron Falls, Texas… it's definitely expanding rapidly the past couple of years. Yeah, I believe that there is some military stuff. One person said to me that it was an intel base.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-10497"
+            "N-10426"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -500,7 +500,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-2",
-            "N-10499"
+            "N-10428"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -529,8 +529,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-434",
-      "ref": "N-434",
+      "@id": "N-276",
+      "ref": "N-276",
       "name": "Dan Flood",
       "type": "person",
       "description": "Head of TPUSA/Charlie Kirk security detail; subject of biographical claims regarding Allen Texas upbringing, New Braunfels Texas residency, and prior security work at the Cattleman's Ball.",
@@ -552,15 +552,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-748",
-        "N-10496",
-        "N-10497"
+        "N-481",
+        "N-10425",
+        "N-10426"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-748",
-      "ref": "N-748",
+      "@id": "N-481",
+      "ref": "N-481",
       "name": "Robert Eugene Flood",
       "type": "person",
       "description": "Father of Dan Flood; identified via displayed profile image and LinkedIn scroll as a retired law enforcement officer spanning Illinois and Texas.",
@@ -587,14 +587,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-434",
-        "N-10496"
+        "N-276",
+        "N-10425"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Brian Harpole",
       "type": "person",
       "description": "TPUSA security team member present on September 10; identified by host as also Dallas-born, working under Greg Schmidt for Charlie Kirk's security.",
@@ -606,15 +606,15 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-750",
-        "N-10496",
-        "N-10497"
+        "N-482",
+        "N-10425",
+        "N-10426"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-750",
-      "ref": "N-750",
+      "@id": "N-482",
+      "ref": "N-482",
       "name": "Bobby Harpole",
       "type": "person",
       "description": "Father of Brian Harpole; 2018 law enforcement interview artifact establishes multi-decade Texas DPS and Erath County Sheriff's Office career.",
@@ -633,14 +633,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-424",
-        "N-10496"
+        "N-272",
+        "N-10425"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-556",
-      "ref": "N-556",
+      "@id": "N-339",
+      "ref": "N-339",
       "name": "Greg Schaefer",
       "type": "person",
       "description": "Founder of Schaefer Security, identified by host as former FBI hostage rescue team member with Budapest stationing.",
@@ -652,14 +652,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-434",
-        "N-10496"
+        "N-276",
+        "N-10425"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-724",
-      "ref": "N-724",
+      "@id": "N-467",
+      "ref": "N-467",
       "name": "Bill Montgomery",
       "type": "person",
       "description": "Identified by host as the figure who convinced Charlie Kirk to start TPUSA and initially organized/paid for Charlie's security via Schaefer Security.",
@@ -672,14 +672,14 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1",
-        "N-434",
-        "N-10496"
+        "N-276",
+        "N-10425"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-753",
-      "ref": "N-753",
+      "@id": "N-483",
+      "ref": "N-483",
       "name": "Zack Gregorio (Wolves and Finance)",
       "type": "person",
       "description": "YouTuber who received the TPUSA cease-and-desist letter and produced the on-air clip.",
@@ -698,8 +698,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "TPUSA PR; subject of on-air interview clip regarding the drone explanation.",
@@ -713,13 +713,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10498"
+        "N-10427"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "TPUSA staff member whose earlier statement about Charlie viewing drone footage creates the drone discrepancy.",
@@ -731,13 +731,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10498"
+        "N-10427"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-730",
-      "ref": "N-730",
+      "@id": "N-471",
+      "ref": "N-471",
       "name": "Nelda Buckman",
       "type": "person",
       "description": "Co-donor (with Carl Buckman) identified as TPUSA's number-one donor with a $10 million check; New Braunfels resident.",
@@ -749,14 +749,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-731",
-        "N-10497"
+        "N-472",
+        "N-10426"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-731",
-      "ref": "N-731",
+      "@id": "N-472",
+      "ref": "N-472",
       "name": "Karl Buckman",
       "type": "person",
       "description": "Co-donor (with NDA Buckman) identified as TPUSA's number-one donor; New Braunfels resident.",
@@ -768,14 +768,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-730",
-        "N-10497"
+        "N-471",
+        "N-10426"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-45",
-      "ref": "N-45",
+      "@id": "N-17",
+      "ref": "N-17",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Pastor; leader of Turning Point Faith; named guest at the January 21 Cornerstone Chapel event.",
@@ -791,13 +791,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10500"
+        "N-10429"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-759",
-      "ref": "N-759",
+      "@id": "N-484",
+      "ref": "N-484",
       "name": "Gary Ham",
       "type": "person",
       "description": "Pastor of Cornerstone Chapel; speaker in the announcement video.",
@@ -813,13 +813,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10500"
+        "N-10429"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-760",
-      "ref": "N-760",
+      "@id": "N-485",
+      "ref": "N-485",
       "name": "Samuel Smaja",
       "type": "person",
       "description": "Israeli businessman; named guest at the January 21 Cornerstone Chapel event.",
@@ -835,13 +835,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10500"
+        "N-10429"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-761",
-      "ref": "N-761",
+      "@id": "N-486",
+      "ref": "N-486",
       "name": "Ben Corollo",
       "type": "person",
       "description": "Charlie Kirk's debate opponent in the clip where Charlie states his wife lived in China 6 months.",
@@ -859,8 +859,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10496",
-      "ref": "N-10496",
+      "@id": "N-10425",
+      "ref": "N-10425",
       "name": "Dan Flood Family Law Enforcement Network",
       "type": "investigation_target",
       "description": "Persistent investigable target covering the overlapping law enforcement, military, and FBI-affiliated backgrounds of Dan Flood, Robert Flood, Brian Harpole, and Bobby Harpole, plus the alleged Cattleman's Ball / Dallas security cluster.",
@@ -880,17 +880,17 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-434",
-        "N-748",
-        "N-424",
-        "N-750",
-        "N-556"
+        "N-276",
+        "N-481",
+        "N-272",
+        "N-482",
+        "N-339"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10497",
-      "ref": "N-10497",
+      "@id": "N-10426",
+      "ref": "N-10426",
       "name": "New Braunfels Texas Security Personnel Cluster",
       "type": "investigation_target",
       "description": "Investigable target covering the geographic clustering of Dan Flood and the Buckman donors in New Braunfels, Texas.",
@@ -907,15 +907,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-434",
-        "N-730",
-        "N-731"
+        "N-276",
+        "N-471",
+        "N-472"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10498",
-      "ref": "N-10498",
+      "@id": "N-10427",
+      "ref": "N-10427",
       "name": "TPUSA Drone Story Discrepancy",
       "type": "investigation_target",
       "description": "Persistent target reconciling the conflicting TPUSA-affiliated statements about drone activity on September 10: Frank Turk (drone footage with Charlie), Andrew Kovat (wide-angle shot, not drone), and the cease-and-desist letter (media production drone for B-roll, but no security drones).",
@@ -933,14 +933,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-42",
-        "N-16"
+        "N-14",
+        "N-7"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10499",
-      "ref": "N-10499",
+      "@id": "N-10428",
+      "ref": "N-10428",
       "name": "Erica Kirk China Timeline Discrepancy",
       "type": "investigation_target",
       "description": "Persistent target reconciling three artifact-anchored statements about Erica Kirk's China residence: her own \"living in China\" claim (A-1650.1), Charlie's \"6 months\" claim (A-1650.3), and TPUSA's \"2 weeks\" official response (A-1650.2).",
@@ -965,8 +965,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10500",
-      "ref": "N-10500",
+      "@id": "N-10429",
+      "ref": "N-10429",
       "name": "Operation Mocking Pastor / Cornerstone Chapel Event",
       "type": "investigation_target",
       "description": "Investigable target covering the recurring Cornerstone Chapel series featuring named guests tied to TPUSA Faith and Israeli business interests.",
@@ -982,9 +982,9 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-45",
-        "N-759",
-        "N-760"
+        "N-17",
+        "N-484",
+        "N-485"
       ]
     },
     {
@@ -1021,8 +1021,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
@@ -1037,8 +1037,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
@@ -1079,13 +1079,13 @@
         "A-1643.1"
       ],
       "related_nodes": [
-        "N-10496"
+        "N-10425"
       ],
       "tags": [],
       "claim_timestamp": "00:06:38",
       "investigative_direction": "Verify through Texas A&M University Police Department public records or alumni directories.",
       "mentions_person_refs": [
-        "N-748"
+        "N-481"
       ]
     },
     {
@@ -1098,13 +1098,13 @@
         "A-1643.1"
       ],
       "related_nodes": [
-        "N-10496"
+        "N-10425"
       ],
       "tags": [],
       "claim_timestamp": "00:06:38",
       "investigative_direction": "Verify through official retirement records and state police licensing databases.",
       "mentions_person_refs": [
-        "N-748"
+        "N-481"
       ]
     },
     {
@@ -1117,13 +1117,13 @@
         "A-1643.1"
       ],
       "related_nodes": [
-        "N-10496"
+        "N-10425"
       ],
       "tags": [],
       "claim_timestamp": "00:06:38",
       "investigative_direction": "Verify through Bosque County Sheriff's Office public records.",
       "mentions_person_refs": [
-        "N-748"
+        "N-481"
       ]
     },
     {
@@ -1136,13 +1136,13 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-10496"
+        "N-10425"
       ],
       "tags": [],
       "claim_timestamp": "00:07:23",
       "investigative_direction": "Verify through FBI National Academy alumni records.",
       "mentions_person_refs": [
-        "N-748"
+        "N-481"
       ]
     },
     {
@@ -1155,13 +1155,13 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-10496"
+        "N-10425"
       ],
       "tags": [],
       "claim_timestamp": "00:07:23",
       "investigative_direction": "Verify through military service records.",
       "mentions_person_refs": [
-        "N-748"
+        "N-481"
       ]
     },
     {
@@ -1174,13 +1174,13 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-10496"
+        "N-10425"
       ],
       "tags": [],
       "claim_timestamp": "00:07:23",
       "investigative_direction": "Verify through Franklin Park Police Department employment records and cross-reference with Charlie Kirk's Illinois upbringing area.",
       "mentions_person_refs": [
-        "N-748"
+        "N-481"
       ]
     },
     {
@@ -1193,13 +1193,13 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-10496"
+        "N-10425"
       ],
       "tags": [],
       "claim_timestamp": "00:08:36",
       "investigative_direction": "Verify through Army Reserve official records.",
       "mentions_person_refs": [
-        "N-748"
+        "N-481"
       ]
     },
     {
@@ -1212,13 +1212,13 @@
         "A-1643.2"
       ],
       "related_nodes": [
-        "N-10496"
+        "N-10425"
       ],
       "tags": [],
       "claim_timestamp": "00:10:23",
       "investigative_direction": "Verify through FBIA membership rolls.",
       "mentions_person_refs": [
-        "N-748"
+        "N-481"
       ]
     },
     {
@@ -1231,14 +1231,14 @@
         "A-1643.1"
       ],
       "related_nodes": [
-        "N-10496"
+        "N-10425"
       ],
       "tags": [],
       "claim_timestamp": "00:10:23",
       "investigative_direction": "Cross-reference Illinois address records for Robert Flood with Charlie Kirk's documented childhood addresses.",
       "mentions_person_refs": [
-        "N-434",
-        "N-748",
+        "N-276",
+        "N-481",
         "N-1"
       ]
     },
@@ -1252,13 +1252,13 @@
         "A-1644.1"
       ],
       "related_nodes": [
-        "N-10496"
+        "N-10425"
       ],
       "tags": [],
       "claim_timestamp": "00:13:36",
       "investigative_direction": "Verify through Allen Independent School District alumni records and the social media poster's identity.",
       "mentions_person_refs": [
-        "N-434"
+        "N-276"
       ]
     },
     {
@@ -1271,13 +1271,13 @@
         "A-1644.1"
       ],
       "related_nodes": [
-        "N-10497"
+        "N-10426"
       ],
       "tags": [],
       "claim_timestamp": "00:12:43",
       "investigative_direction": "Verify through address records, property records, or voter registration.",
       "mentions_person_refs": [
-        "N-434"
+        "N-276"
       ]
     },
     {
@@ -1290,14 +1290,14 @@
         "A-1644.1"
       ],
       "related_nodes": [
-        "N-10496"
+        "N-10425"
       ],
       "tags": [],
       "claim_timestamp": "00:13:36",
       "investigative_direction": "Identify the billionaire referenced and verify through security firm records or event vendor lists.",
       "mentions_person_refs": [
-        "N-434",
-        "N-724"
+        "N-276",
+        "N-467"
       ]
     },
     {
@@ -1310,13 +1310,13 @@
         "A-1645.1"
       ],
       "related_nodes": [
-        "N-10496"
+        "N-10425"
       ],
       "tags": [],
       "claim_timestamp": "00:15:02",
       "investigative_direction": "Verify through public records.",
       "mentions_person_refs": [
-        "N-750"
+        "N-482"
       ]
     },
     {
@@ -1329,13 +1329,13 @@
         "A-1645.1"
       ],
       "related_nodes": [
-        "N-10496"
+        "N-10425"
       ],
       "tags": [],
       "claim_timestamp": "00:15:02",
       "investigative_direction": "Verify through TDPS historical employment records.",
       "mentions_person_refs": [
-        "N-750"
+        "N-482"
       ]
     },
     {
@@ -1348,13 +1348,13 @@
         "A-1645.1"
       ],
       "related_nodes": [
-        "N-10496"
+        "N-10425"
       ],
       "tags": [],
       "claim_timestamp": "00:15:02",
       "investigative_direction": "Verify through TDPS records.",
       "mentions_person_refs": [
-        "N-750"
+        "N-482"
       ]
     },
     {
@@ -1367,13 +1367,13 @@
         "A-1645.1"
       ],
       "related_nodes": [
-        "N-10496"
+        "N-10425"
       ],
       "tags": [],
       "claim_timestamp": "00:15:02",
       "investigative_direction": "Verify through Erath County Sheriff's Office records.",
       "mentions_person_refs": [
-        "N-750"
+        "N-482"
       ]
     },
     {
@@ -1391,7 +1391,7 @@
       "claim_timestamp": "00:21:21",
       "investigative_direction": "Confirm through legal records, TPUSA communications, and Gregorio's public statements.",
       "mentions_person_refs": [
-        "N-753"
+        "N-483"
       ]
     },
     {
@@ -1404,7 +1404,7 @@
         "A-1648.1"
       ],
       "related_nodes": [
-        "N-10498"
+        "N-10427"
       ],
       "tags": [],
       "claim_timestamp": "00:28:10",
@@ -1420,7 +1420,7 @@
         "A-1650.2"
       ],
       "related_nodes": [
-        "N-10499"
+        "N-10428"
       ],
       "tags": [],
       "claim_timestamp": "00:32:01",
@@ -1439,7 +1439,7 @@
         "A-1650.3"
       ],
       "related_nodes": [
-        "N-10499"
+        "N-10428"
       ],
       "tags": [],
       "claim_timestamp": "00:32:51",
@@ -1447,7 +1447,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-761"
+        "N-486"
       ]
     },
     {
@@ -1460,7 +1460,7 @@
         "A-1650.1"
       ],
       "related_nodes": [
-        "N-10499"
+        "N-10428"
       ],
       "tags": [],
       "claim_timestamp": "00:31:02",
@@ -1479,16 +1479,16 @@
         "A-1651.1"
       ],
       "related_nodes": [
-        "N-10500"
+        "N-10429"
       ],
       "tags": [],
       "claim_timestamp": "00:34:31",
       "investigative_direction": "Verify the event actually occurred and document any public response.",
       "mentions_person_refs": [
-        "N-45",
-        "N-759",
-        "N-760",
-        "N-50",
+        "N-17",
+        "N-484",
+        "N-485",
+        "N-22",
         "N-3"
       ]
     },
@@ -1524,8 +1524,8 @@
       "investigative_direction": "Verify event attendance, security staffing, and Kash Patel's participation through official event records.",
       "mentions_person_refs": [
         "N-1",
-        "N-434",
-        "N-102"
+        "N-276",
+        "N-69"
       ]
     },
     {
@@ -1542,7 +1542,7 @@
       "claim_timestamp": "00:10:23",
       "investigative_direction": "Verify through FBIA official publications, IRS Form 990 filings, and the organization's own historical records.",
       "mentions_person_refs": [
-        "N-748"
+        "N-481"
       ]
     },
     {

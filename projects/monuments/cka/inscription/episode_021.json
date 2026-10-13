@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10266"
+            "N-10200"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -50,8 +50,8 @@
             "C-1524"
           ],
           "related_nodes": [
-            "N-45",
-            "N-10266"
+            "N-17",
+            "N-10200"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -78,8 +78,8 @@
             "C-1517"
           ],
           "related_nodes": [
-            "N-45",
-            "N-10266"
+            "N-17",
+            "N-10200"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -105,7 +105,7 @@
             "C-1518"
           ],
           "related_nodes": [
-            "N-10268"
+            "N-10202"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -132,7 +132,7 @@
             "C-1520"
           ],
           "related_nodes": [
-            "N-10268"
+            "N-10202"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -160,8 +160,8 @@
             "C-1525"
           ],
           "related_nodes": [
-            "N-75",
-            "N-10268"
+            "N-46",
+            "N-10202"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -187,7 +187,7 @@
             "C-1526"
           ],
           "related_nodes": [
-            "N-288"
+            "N-203"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -228,8 +228,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-45",
-      "ref": "N-45",
+      "@id": "N-17",
+      "ref": "N-17",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Pentecostal pastor (Calvary Chapel Association) named in TPUSA Wikipedia entry as co-founder/co-chairman of TPUSA Faith less than 36 hours after Kirk's death; host rejects co-founder characterization.",
@@ -249,13 +249,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10266"
+        "N-10200"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-75",
-      "ref": "N-75",
+      "@id": "N-46",
+      "ref": "N-46",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Interviewer of Donald Trump Jr. regarding confidence in FBI investigation into Charlie Kirk's death; relevant as the source forum for the Don Jr. artifact.",
@@ -275,8 +275,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-288",
-      "ref": "N-288",
+      "@id": "N-203",
+      "ref": "N-203",
       "name": "Norman Finkelstein",
       "type": "person",
       "description": "Scholar and author; interviewee on upcoming Candace Owens episode regarding Gaza. Provides context but tangential to Kirk investigation per this episode.",
@@ -294,8 +294,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10266",
-      "ref": "N-10266",
+      "@id": "N-10200",
+      "ref": "N-10200",
       "name": "TPUSA Wikipedia Rob McCoy Co-Founder Discrepancy",
       "type": "investigation_target",
       "description": "Persistent discrepancy between (a) updated TPUSA Wikipedia entry designating Rob McCoy as co-founder/co-chairman of TPUSA Faith with citation to a Nov 24, 2024 article that does not, per the host, contain that text; and (b) the pre-existing 2021 Wikipedia section naming Charlie Kirk as sole founder.",
@@ -318,13 +318,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-45"
+        "N-17"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10267",
-      "ref": "N-10267",
+      "@id": "N-10201",
+      "ref": "N-10201",
       "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Persistent discrepancy between public narrative (Charlie Kirk as committed evangelical) and host's claim that Kirk had a Catholic funeral mass and is buried in a Catholic cemetery. No on-episode artifact supports the underlying claim; flagged for external verification.",
@@ -341,8 +341,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10268",
-      "ref": "N-10268",
+      "@id": "N-10202",
+      "ref": "N-10202",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
       "type": "investigation_target",
       "description": "Persistent question regarding FBI Director Kash Patel's posture toward outside inquiries (Joe Kent / Tulsi Gabbard office) into the Kirk investigation, including reported resistance and a meeting with White House and ODNI principals.",
@@ -382,11 +382,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-182",
-      "ref": "N-182",
+      "@id": "N-132",
+      "ref": "N-132",
       "name": "Susie Wiles",
       "type": "person",
-      "description": "Person Susie Wiles (N-182).",
+      "description": "Person Susie Wiles (N-132).",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -429,8 +429,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-62",
-      "ref": "N-62",
+      "@id": "N-33",
+      "ref": "N-33",
       "name": "Donald Trump Jr.",
       "type": "person",
       "description": "Mentioned as having pressed Charlie to buy better-fitting suits along with Eric Trump.",
@@ -445,8 +445,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
@@ -471,13 +471,13 @@
         "A-1283.2"
       ],
       "related_nodes": [
-        "N-10266"
+        "N-10200"
       ],
       "tags": [],
       "claim_timestamp": "00:03:03",
       "investigative_direction": "Obtain Wikipedia edit history (revision IDs, editor accounts, IP traces) for the TPUSA article between September 10–12, 2025, and compare to standard post-trauma edit patterns.",
       "mentions_person_refs": [
-        "N-45",
+        "N-17",
         "N-1"
       ]
     },
@@ -491,14 +491,14 @@
         "A-1283.1"
       ],
       "related_nodes": [
-        "N-10266"
+        "N-10200"
       ],
       "tags": [],
       "claim_timestamp": "00:05:35",
       "investigative_direction": "Retrieve archived snapshots of the TPUSA Wikipedia article (e.g., Wayback Machine, Wikipedia pre-September-2025 revisions) to verify the prior text.",
       "mentions_person_refs": [
         "N-1",
-        "N-45"
+        "N-17"
       ]
     },
     {
@@ -511,13 +511,13 @@
         "A-1284.1"
       ],
       "related_nodes": [
-        "N-10266"
+        "N-10200"
       ],
       "tags": [],
       "claim_timestamp": "00:04:30",
       "investigative_direction": "Locate and verify the cited article(s) by date and content; confirm whether the citation supports the assertion as labeled.",
       "mentions_person_refs": [
-        "N-45"
+        "N-17"
       ]
     },
     {
@@ -530,13 +530,13 @@
         "A-1284.1"
       ],
       "related_nodes": [
-        "N-10266"
+        "N-10200"
       ],
       "tags": [],
       "claim_timestamp": "00:04:30",
       "investigative_direction": "Obtain the cited article directly and check for the phrases \"co-founder,\" \"chairman,\" \"co-chairman,\" and any reference to TPUSA Faith.",
       "mentions_person_refs": [
-        "N-45"
+        "N-17"
       ]
     },
     {
@@ -567,14 +567,14 @@
         "A-1286.1"
       ],
       "related_nodes": [
-        "N-10268"
+        "N-10202"
       ],
       "tags": [],
       "claim_timestamp": "00:20:44",
       "investigative_direction": "Locate the NYT article by date, headline, and quoted material; confirm direct attribution to Patel and the substance of Kent's inquiry.",
       "mentions_person_refs": [
         "N-1",
-        "N-102"
+        "N-69"
       ]
     },
     {
@@ -587,14 +587,14 @@
         "A-1286.1"
       ],
       "related_nodes": [
-        "N-10268"
+        "N-10202"
       ],
       "tags": [],
       "claim_timestamp": "00:21:37",
       "investigative_direction": "Confirm via the NYT article whether these named officials were present and whether subsequent reporting describes any action items.",
       "mentions_person_refs": [
-        "N-182",
-        "N-102",
+        "N-132",
+        "N-69",
         "N-4"
       ]
     },
@@ -630,8 +630,8 @@
       "claim_timestamp": "00:32:12",
       "investigative_direction": "Obtain the full Megyn Kelly interview clip and surrounding context; verify whether the confidence statement is unconditional or hedged.",
       "mentions_person_refs": [
-        "N-75",
-        "N-62",
+        "N-46",
+        "N-33",
         "N-1"
       ]
     },
@@ -649,7 +649,7 @@
       "claim_timestamp": "00:33:50",
       "investigative_direction": "Confirm sequence of statements in the unedited interview.",
       "mentions_person_refs": [
-        "N-75"
+        "N-46"
       ]
     },
     {
@@ -662,13 +662,13 @@
         "A-1283.2"
       ],
       "related_nodes": [
-        "N-10266"
+        "N-10200"
       ],
       "tags": [],
       "claim_timestamp": "00:03:03",
       "investigative_direction": "Obtain contemporaneous TPUSA Faith formation documents, IRS filings, and founding board records to resolve.",
       "mentions_person_refs": [
-        "N-45"
+        "N-17"
       ]
     },
     {
@@ -685,7 +685,7 @@
       "claim_timestamp": "00:35:31",
       "investigative_direction": "This is interpretive host commentary; falsifiable only by further direct statement from Don Trump Jr. or by independent investigation into the wound-ballistics question.",
       "mentions_person_refs": [
-        "N-75",
+        "N-46",
         "N-1"
       ]
     },
@@ -703,7 +703,7 @@
       "claim_timestamp": "00:39:19",
       "investigative_direction": "Verify the quoted Economist and UN official attributions against original publications; this claim is tangential to the Kirk investigation but is presented within the same episode.",
       "mentions_person_refs": [
-        "N-288",
+        "N-203",
         "N-3"
       ]
     }

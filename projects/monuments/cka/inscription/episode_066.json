@@ -32,8 +32,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-817",
-            "N-818"
+            "N-524",
+            "N-525"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -89,8 +89,8 @@
             "C-2248"
           ],
           "related_nodes": [
-            "N-821",
-            "N-264",
+            "N-526",
+            "N-190",
             "N-2"
           ],
           "tags": [],
@@ -117,7 +117,7 @@
             "C-2244"
           ],
           "related_nodes": [
-            "N-821",
+            "N-526",
             "N-2"
           ],
           "tags": [],
@@ -146,7 +146,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-821"
+            "N-526"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -172,10 +172,10 @@
             "C-2247"
           ],
           "related_nodes": [
-            "N-822",
+            "N-527",
             "N-2",
-            "N-10537",
-            "N-10540"
+            "N-10466",
+            "N-10469"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -201,7 +201,7 @@
             "C-2251"
           ],
           "related_nodes": [
-            "N-16",
+            "N-7",
             "N-2"
           ],
           "tags": [],
@@ -228,8 +228,8 @@
             "C-2252"
           ],
           "related_nodes": [
-            "N-823",
-            "N-120"
+            "N-528",
+            "N-85"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -255,7 +255,7 @@
             "C-2249"
           ],
           "related_nodes": [
-            "N-10537"
+            "N-10466"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -281,7 +281,7 @@
             "C-2250"
           ],
           "related_nodes": [
-            "N-10538"
+            "N-10467"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -296,8 +296,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-817",
-      "ref": "N-817",
+      "@id": "N-524",
+      "ref": "N-524",
       "name": "Dr. Allen Wolft",
       "type": "person",
       "description": "Colorado-based death educator and grief counselor quoted in the Daily Mail article as attributing public criticism of Erica Kirk to \"mourning avoidant, emotion phobic culture.\"",
@@ -315,8 +315,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-818",
-      "ref": "N-818",
+      "@id": "N-525",
+      "ref": "N-525",
       "name": "Bidwell Smith",
       "type": "person",
       "description": "LA grief therapist quoted in the Daily Mail article stating widows are \"uniquely grief policed\" and that \"grief is not a performance and survival is not a moral failure.\"",
@@ -334,8 +334,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Cross-apologetics speaker referenced as a TPUSA-affiliated figure; the on-air clip shows him characterizing criticism of Erica Kirk as satanic pattern behavior.",
@@ -353,8 +353,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-264",
-      "ref": "N-264",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Stacy Sheridan",
       "type": "person",
       "description": "TPUSA figure identified by the host as the person who tapped the donor's shoulder in church and invited her to sit with Erica. Host states Sheridan's role is donor intelligence (\"smelling money\").",
@@ -375,8 +375,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-821",
-      "ref": "N-821",
+      "@id": "N-526",
+      "ref": "N-526",
       "name": "Father Blank",
       "type": "person",
       "description": "Priest referenced in the donor's email and texts; flew with Erica to Utah, was present when she received notification of Charlie's death, said the homily at the private funeral on the Friday before the memorial, and texted the donor about mass on the Monday after.",
@@ -400,8 +400,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-822",
-      "ref": "N-822",
+      "@id": "N-527",
+      "ref": "N-527",
       "name": "TPUSA \"Blank\"",
       "type": "person",
       "description": "TPUSA staffer described in donor-introduction text as having traveled with Charlie and handled major donors; introduced the donor into the post-memorial fundraising pipeline.",
@@ -417,13 +417,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10538"
+        "N-10467"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-823",
-      "ref": "N-823",
+      "@id": "N-528",
+      "ref": "N-528",
       "name": "Don Lemon",
       "type": "person",
       "description": "Journalist shown in on-air clip at a Minnesota church protest; referenced in connection with his federal arrest by DOJ under Pam Bondi.",
@@ -439,13 +439,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-120"
+        "N-85"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-120",
-      "ref": "N-120",
+      "@id": "N-85",
+      "ref": "N-85",
       "name": "Pam Bondi",
       "type": "person",
       "description": "US Attorney General named in connection with Don Lemon's arrest; host characterizes the prosecution as headline-grabbing theater.",
@@ -459,13 +459,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-823"
+        "N-528"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-825",
-      "ref": "N-825",
+      "@id": "N-529",
+      "ref": "N-529",
       "name": "Kobe Bryant",
       "type": "person",
       "description": "Referenced solely as a behavioral-comparison anchor for Erica Kirk (widow grief conduct at memorial); no artifact introduced.",
@@ -477,14 +477,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-826",
+        "N-530",
         "N-2"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-826",
-      "ref": "N-826",
+      "@id": "N-530",
+      "ref": "N-530",
       "name": "Vanessa Bryant",
       "type": "person",
       "description": "Referenced as the comparison figure for widow-grief conduct at Kobe's memorial (eulogy delivered one month later, no TPUSA-equivalent organizational pitch in speech).",
@@ -496,14 +496,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-825",
+        "N-529",
         "N-2"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "TPUSA figure referenced by host in the comments section as the person alleged to have organized the Paramount Tactical orbit and to have texted Erica during the Alex Clark interview. Name spelling varies in transcript (\"Kovat\"/\"Kouvet\"/\"Covette\"/\"Coven\").",
@@ -516,13 +516,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-10538"
+        "N-10467"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10537",
-      "ref": "N-10537",
+      "@id": "N-10466",
+      "ref": "N-10466",
       "name": "Cardinal Stadium RV Show Booking Question",
       "type": "investigation_target",
       "description": "Persistent verification target: was a lucrative RV show actually scheduled at Cardinal Stadium on the weekend of the Kirk memorial such that displaced revenue drove a $6M memorial cost?",
@@ -540,13 +540,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10540"
+        "N-10469"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10538",
-      "ref": "N-10538",
+      "@id": "N-10467",
+      "ref": "N-10467",
       "name": "TPUSA Donor Targeting Pattern Question",
       "type": "investigation_target",
       "description": "Cross-episode investigation target: did TPUSA personnel (Stacy Sheridan, TPUSA Blank, top fundraiser) systematically coordinate donor access through memorial events, mass attendance, and faith-channel rapport-building?",
@@ -565,15 +565,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-264",
-        "N-822",
-        "N-42"
+        "N-190",
+        "N-527",
+        "N-14"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10539",
-      "ref": "N-10539",
+      "@id": "N-10468",
+      "ref": "N-10468",
       "name": "Father Blank September 10 Mass Cancellation Question",
       "type": "investigation_target",
       "description": "Host verbal claim that Father Blank cancelled his regular mass on September 10 (the Monday morning the donor attended). No artifact presented in this episode.",
@@ -587,16 +587,16 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-821"
+        "N-526"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10540",
-      "ref": "N-10540",
+      "@id": "N-10469",
+      "ref": "N-10469",
       "name": "$6 Million Memorial Cost Claim Verification Question",
       "type": "investigation_target",
-      "description": "Cross-reference target: figure stated in TPUSA Blank's donor-introduction text and reiterated by host; tied to the RV show displacement claim (N-10537).",
+      "description": "Cross-reference target: figure stated in TPUSA Blank's donor-introduction text and reiterated by host; tied to the RV show displacement claim (N-10466).",
       "related_artifacts": [
         "A-1709.1"
       ],
@@ -609,7 +609,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10537"
+        "N-10466"
       ]
     },
     {
@@ -677,8 +677,8 @@
       "investigative_direction": "Retrieve full Daily Mail article text and verify quotes, attributions, and publication context.",
       "mentions_person_refs": [
         "N-2",
-        "N-817",
-        "N-818"
+        "N-524",
+        "N-525"
       ]
     },
     {
@@ -696,8 +696,8 @@
       "investigative_direction": "Confirm expert credentials, prior publication record, and any financial or organizational ties to TPUSA or Kirk-aligned entities.",
       "mentions_person_refs": [
         "N-2",
-        "N-817",
-        "N-818"
+        "N-524",
+        "N-525"
       ]
     },
     {
@@ -733,8 +733,8 @@
       "investigative_direction": "Obtain and compare the full transcripts of both memorial speeches against the host's characterization; note Vanessa Bryant speech is verbally referenced but not played or quoted in this episode.",
       "mentions_person_refs": [
         "N-2",
-        "N-825",
-        "N-826"
+        "N-529",
+        "N-530"
       ]
     },
     {
@@ -747,15 +747,15 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-10538"
+        "N-10467"
       ],
       "tags": [],
       "claim_timestamp": "00:13:09",
       "investigative_direction": "Verify the email's metadata, the donor's identity, the priest's actual name and parish, and confirm the September mass timeline independently.",
       "mentions_person_refs": [
         "N-2",
-        "N-264",
-        "N-821"
+        "N-190",
+        "N-526"
       ]
     },
     {
@@ -774,7 +774,7 @@
       "investigative_direction": "Obtain phone records or screenshots of the actual text thread; verify whether \"may be there\" phrasing reflects typical priest communication or pre-coordinated signal.",
       "mentions_person_refs": [
         "N-2",
-        "N-821"
+        "N-526"
       ]
     },
     {
@@ -792,7 +792,7 @@
       "investigative_direction": "Cross-check donor's account with Erica Kirk's public acknowledgment of receiving relics.",
       "mentions_person_refs": [
         "N-2",
-        "N-821"
+        "N-526"
       ]
     },
     {
@@ -811,7 +811,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-821"
+        "N-526"
       ]
     },
     {
@@ -824,15 +824,15 @@
         "A-1709.1"
       ],
       "related_nodes": [
-        "N-10537",
-        "N-10540"
+        "N-10466",
+        "N-10469"
       ],
       "tags": [],
       "claim_timestamp": "00:24:55",
       "investigative_direction": "Verify Cardinal Stadium event calendar for that weekend; cross-check White House or Trump campaign communications about venue booking; trace the TPUSA \"Blank\" staffer identity.",
       "mentions_person_refs": [
         "N-2",
-        "N-822"
+        "N-527"
       ]
     },
     {
@@ -850,7 +850,7 @@
       "investigative_direction": "Verify text message metadata and check whether the priest used similar phrasing with other donors introduced through memorial attendance.",
       "mentions_person_refs": [
         "N-2",
-        "N-821"
+        "N-526"
       ]
     },
     {
@@ -863,7 +863,7 @@
         "A-1712.1"
       ],
       "related_nodes": [
-        "N-10537"
+        "N-10466"
       ],
       "tags": [],
       "claim_timestamp": "00:26:12",
@@ -880,7 +880,7 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-10538"
+        "N-10467"
       ],
       "tags": [],
       "claim_timestamp": "00:32:17",
@@ -901,7 +901,7 @@
       "investigative_direction": "Identify the original Frank Turek episode/podcast the clip is drawn from and verify edit context.",
       "mentions_person_refs": [
         "N-2",
-        "N-16",
+        "N-7",
         "N-3"
       ]
     },
@@ -919,8 +919,8 @@
       "claim_timestamp": "00:47:00",
       "investigative_direction": "Confirm the underlying church affiliation and ICE relationship; verify the federal charges basis for Don Lemon's subsequent arrest.",
       "mentions_person_refs": [
-        "N-120",
-        "N-823"
+        "N-85",
+        "N-528"
       ]
     }
   ],

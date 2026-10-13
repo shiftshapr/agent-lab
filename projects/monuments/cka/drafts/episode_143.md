@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: ee5af5b0f78b7603290afbdc0a52db7cee4a8308f326d1886be1cf5da8aee5e5
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-11207, N-11208
-  - Reused Nodes Appearing: N-2, N-224, N-176, N-410
+  - New Nodes Introduced: N-10808, N-10809
+  - Reused Nodes Appearing: N-2, N-162, N-126, N-267
   - (see registers)
 
 # Episode 143 Analysis – Bride of Charlie
@@ -33,18 +33,18 @@
 
 - **Artifact Families Introduced:** A-2294, A-2295, A-2296, A-2297, A-2298, A-2299, A-2300
 - **Claim Range:** C-3302 – C-3312
-- **New Nodes Introduced:** N-11207, N-11208
-- **Existing Nodes Reused:** N-2, N-176, N-69, N-224, N-410
+- **New Nodes Introduced:** N-10808, N-10809
+- **Existing Nodes Reused:** N-2, N-126, N-40, N-162, N-267
 
 ---
 
 ## II. Executive Summary
 
-The episode centers on three artifact-anchored evidentiary threads. First, the host presents newly released exclusive footage (A-2295) of the camera operator variously identified as "Taral," "Terrell," and "Terrence" (N-410) handling SD cards at the event scene, including a sequence in which an SD card from the camera behind Charlie Kirk's head (N-1) is pocketed and then inserted into a laptop. The host pairs this footage with a displayed camera-position diagram (A-2300) to argue that the yellow audience-facing camera fell to the ground and was stepped over rather than retrieved.
+The episode centers on three artifact-anchored evidentiary threads. First, the host presents newly released exclusive footage (A-2295) of the camera operator variously identified as "Taral," "Terrell," and "Terrence" (N-267) handling SD cards at the event scene, including a sequence in which an SD card from the camera behind Charlie Kirk's head (N-1) is pocketed and then inserted into a laptop. The host pairs this footage with a displayed camera-position diagram (A-2300) to argue that the yellow audience-facing camera fell to the ground and was stepped over rather than retrieved.
 
-Second, the host plays an audio clip (A-2296) of Donald Trump on Fox and Friends in which Trump identifies Mike Mitchell (N-176) as the person who recognized Tyler Robinson (N-69) from the stairwell photo and initiated the contact chain. The host uses this artifact to challenge the circulating narrative that Robinson's parents turned him in.
+Second, the host plays an audio clip (A-2296) of Donald Trump on Fox and Friends in which Trump identifies Mike Mitchell (N-126) as the person who recognized Tyler Robinson (N-40) from the stairwell photo and initiated the contact chain. The host uses this artifact to challenge the circulating narrative that Robinson's parents turned him in.
 
-Third, the host reads aloud two tweets by Blake Neff (A-2294, A-2298) characterizing the Robinson defense filings and Candace Owens' (N-176) public role, then plays audio clips of Hasan Piker (A-2297) praising Owens and a Wear Forbidden Matrix-parody video (A-2299). The episode's structural importance lies in advancing a specific physical-evidence narrative about SD card handling and formally surfacing Trump's prior on-air account of Mike Mitchell as the recognition source.
+Third, the host reads aloud two tweets by Blake Neff (A-2294, A-2298) characterizing the Robinson defense filings and Candace Owens' (N-126) public role, then plays audio clips of Hasan Piker (A-2297) praising Owens and a Wear Forbidden Matrix-parody video (A-2299). The episode's structural importance lies in advancing a specific physical-evidence narrative about SD card handling and formally surfacing Trump's prior on-air account of Mike Mitchell as the recognition source.
 
 ---
 
@@ -60,7 +60,7 @@ Video Timestamp: 00:18:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3308, N-224, N-69*
+*Related: C-3308, N-162, N-40*
 
 ---
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:08:42–00:10:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3302, C-3303, N-410, N-1*
+*Related: C-3302, C-3303, N-267, N-1*
 
 **A-2295.2** Video segment showing the yellow audience-facing camera falling/knocked to the floor shortly after Charlie is removed from the scene, coming to rest with its encompassed SD card on the ground.
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:13:38–00:14:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3305, C-3304, N-410, N-1, A-2300*
+*Related: C-3305, C-3304, N-267, N-1, A-2300*
 
 **A-2295.3** Video segment showing Taral/Terrell stepping over the fallen yellow camera and its encompassed SD card en route to the camera behind Charlie's head.
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:14:47–00:15:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3304, C-3305, N-410, N-1, A-2300*
+*Related: C-3304, C-3305, N-267, N-1, A-2300*
 
 ---
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:32:32–00:33:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3306, N-176, N-69, N-1*
+*Related: C-3306, N-126, N-40, N-1*
 
 ---
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:35:00–00:36:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3309, N-176, N-1, N-69*
+*Related: C-3309, N-126, N-1, N-40*
 
 ---
 
@@ -136,7 +136,7 @@ Video Timestamp: 00:34:27–00:35:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3310, N-224, N-176*
+*Related: C-3310, N-162, N-126*
 
 ---
 
@@ -150,7 +150,7 @@ Video Timestamp: 00:41:34–00:42:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3311, N-69*
+*Related: C-3311, N-40*
 
 ---
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:13:38–00:15:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3304, C-3305, N-410, N-1, A-2295.2, A-2295.3*
+*Related: C-3304, C-3305, N-267, N-1, A-2295.2, A-2295.3*
 
 ---
 
@@ -183,7 +183,7 @@ Investigative Pressure: High
 
 ---
 
-**N-224** Blake Neff
+**N-162** Blake Neff
 
 Recurring writer/commentator whose tweets are read aloud as artifacts in this episode.
 
@@ -196,7 +196,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-410** Terrell Farnsworth
+**N-267** Terrell Farnsworth
 
 Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.
 
@@ -209,7 +209,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11207** Terrell SD Card-to-Laptop Transfer Sequence
+**N-10808** Terrell SD Card-to-Laptop Transfer Sequence
 
 Persistent investigable discrepancy: SD card from camera behind Charlie's head was removed, pocketed, and (per host observation) inserted into a laptop within ~10 minutes of the shooting.
 
@@ -218,11 +218,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2295.1, C-3302, C-3303, N-410*
+*Related: A-2295.1, C-3302, C-3303, N-267*
 
 ---
 
-**N-11208** Yellow Camera Floor Position Event
+**N-10809** Yellow Camera Floor Position Event
 
 Persistent investigable discrepancy: the audience-facing yellow camera fell to the ground post-event and was stepped over rather than retrieved, despite the stated narrative of securing all SD cards.
 
@@ -231,7 +231,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2295.2, A-2295.3, A-2300.1, C-3304, C-3305, N-410*
+*Related: A-2295.2, A-2295.3, A-2300.1, C-3304, C-3305, N-267*
 
 ---
 
@@ -244,8 +244,8 @@ Claim Timestamp: 00:08:42
 Claim: The host presents footage showing the camera operator removing an SD card from the camera behind Charlie Kirk's head, looking around, and pocketing the card within approximately four to five minutes of Charlie being struck.
 
 Anchored Artifacts: A-2295.1
-Mentions: N-1, N-410
-Related Nodes: N-11207
+Mentions: N-1, N-267
+Related Nodes: N-10808
 Investigative Direction: Obtain original unedited video and corroborate timestamp via SBI / law-enforcement chain-of-custody records for the SD card in question.
 
 ---
@@ -257,8 +257,8 @@ Claim Timestamp: 00:09:43
 Claim: The host describes footage in which the camera operator opens his laptop and appears to insert the previously pocketed SD card into it, all within roughly ten minutes of the shooting.
 
 Anchored Artifacts: A-2295.1
-Mentions: N-410
-Related Nodes: N-11207
+Mentions: N-267
+Related Nodes: N-10808
 Investigative Direction: Recover laptop forensic artifacts (connection logs, file-system events, USB device traces) and compare timing against host's stated "government source" timeline.
 
 ---
@@ -270,8 +270,8 @@ Claim Timestamp: 00:14:47
 Claim: The host presents that, when retrieving SD cards, Terrell stepped over the yellow audience-facing camera – which had fallen to the floor – rather than retrieving its SD card.
 
 Anchored Artifacts: A-2295.2, A-2295.3, A-2300.1
-Mentions: N-1, N-410
-Related Nodes: N-11208
+Mentions: N-1, N-267
+Related Nodes: N-10809
 Investigative Direction: Identify whether the yellow camera's SD card was ever collected and, if so, by whom and at what timestamp.
 
 ---
@@ -284,7 +284,7 @@ Claim: The host presents footage showing the yellow audience-facing camera falli
 
 Anchored Artifacts: A-2295.2, A-2300.1
 Mentions: N-1
-Related Nodes: N-11208
+Related Nodes: N-10809
 Investigative Direction: Confirm camera-down timestamp via SBI/UPD evidence logs and assess whether the fall was accidental or post-removal disturbance.
 
 ---
@@ -296,7 +296,7 @@ Claim Timestamp: 00:32:32
 Claim: In a Fox and Friends appearance aired in the immediate aftermath of Tyler Robinson's arrest, Donald Trump stated that "somebody that's close" – described as a person involved in law enforcement and a minister – recognized Tyler Robinson from a slight tilt of the head, then went to the father and to a US Marshal.
 
 Anchored Artifacts: A-2296.1
-Mentions: N-1, N-69, N-176, N-5
+Mentions: N-1, N-40, N-126, N-5
 Investigative Direction: Cross-reference Trump's account against official law-enforcement timeline documents (probable-cause affidavit, charging document signed by Brian Davis) and Mitchell's own statements.
 
 ---
@@ -308,7 +308,7 @@ Claim Timestamp: 00:33:22
 Claim: Trump's on-air description characterizes the recognizing individual as a person involved in law enforcement and "a person of faith, a minister," which the host maps to Mike Mitchell's known roles.
 
 Anchored Artifacts: A-2296.1
-Mentions: N-176
+Mentions: N-126
 Investigative Direction: Verify Mike Mitchell's documented roles (Mormon minister, prior undercover work in sex crimes, family-friend relationship to Robinsons) via official biographies and law-enforcement employment records.
 
 ---
@@ -320,7 +320,7 @@ Claim Timestamp: 00:18:07
 Claim: Blake Neff's tweet (read in full) asserts that the Tyler Robinson defense filing is "very conspicuously not contesting any of the core evidence" – specifically camera footage, DNA, the rifle, cause of death, and Robinson's phone data – and that the defense's only substantive challenge is to reliable hearsay.
 
 Anchored Artifacts: A-2294.1
-Mentions: N-224, N-69
+Mentions: N-162, N-40
 Investigative Direction: Obtain the actual defense filing and compare verbatim to Neff's characterization; assess community-note rebuttal text shown in artifact.
 
 ---
@@ -332,7 +332,7 @@ Claim Timestamp: 00:35:00
 Claim: In an audio clip, streamer Hasan Piker calls Candace Owens "a queen" who "successfully and single-handedly undermined the Republican initiative to martyrize Charlie Kirk," while simultaneously stating his belief that Tyler Robinson likely did it.
 
 Anchored Artifacts: A-2297.1
-Mentions: N-1, N-69, N-176, N-3
+Mentions: N-1, N-40, N-126, N-3
 Investigative Direction: Verify the full unedited Piker stream segment and timestamp; cross-check against the Brandi Zadrozny article the host references.
 
 ---
@@ -344,7 +344,7 @@ Claim Timestamp: 00:34:27
 Claim: Blake Neff's tweet (read in full) states that "the radical pro-violence left knows exactly what a gift Candace and her ilk are to them," framing her investigative work on the Robinson case as materially assisting left-wing political interests.
 
 Anchored Artifacts: A-2298.1
-Mentions: N-224, N-176, N-3
+Mentions: N-162, N-126, N-3
 Investigative Direction: Confirm tweet text against archive (e.g., X/Twitter permanent-link capture) and identify any subsequent correction or community-note action.
 
 ---
@@ -356,7 +356,7 @@ Claim Timestamp: 00:41:34
 Claim: The Where Forbidden X/Instagram account published a short parody video using the Matrix red-pill/blue-pill framing to characterize reactions to the Robinson case, repeating "so what?" in response to "positive evidence," "appeal to emotion," and "burden of proof."
 
 Anchored Artifacts: A-2299.1
-Mentions: N-69
+Mentions: N-40
 Investigative Direction: Confirm the original post URL and capture it before any takedown; identify creator if pseudonymous.
 
 ---
@@ -368,15 +368,15 @@ Claim Timestamp: 00:11:42
 Claim: The host states, citing a government source she trusts, that the entire sequence – Terrell pocketing the SD card, racing to his laptop, and the apparent SD card insertion – occurred within approximately ten minutes of Charlie Kirk being shot.
 
 Anchored Artifacts: A-2295.1
-Mentions: N-410, N-1
-Related Nodes: N-11207
+Mentions: N-267, N-1
+Related Nodes: N-10808
 Investigative Direction: Cross-reference host's timeline against SBI / UPD / FBI event-time records and any device-timestamp metadata recoverable from Terrell's laptop.
 
 ---
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** The camera operator is referred to in the transcript as "Taral," "Terrell," and "Terrence." Most likely "Terrell" based on prior series usage, but the episode does not resolve the spelling. (Affects N-410.)
+- **Name uncertainty:** The camera operator is referred to in the transcript as "Taral," "Terrell," and "Terrence." Most likely "Terrell" based on prior series usage, but the episode does not resolve the spelling. (Affects N-267.)
 - **Transcript ambiguity:** A clear mid-segment gap appears at transcript marker [06:40], with the line "And he usually starts the tour seasons to make sure they are well set up." This reads as either a transcription artifact or missing context. Recommend human review.
 - **Artifact verbally referenced but not shown:** The host references an appearance by Erica Kirk on Glenn Beck's show regarding pre-event text messages, but no clip or screenshot is displayed in this episode. Flagged as verbal-reference-only.
 - **Artifact verbally referenced but not shown:** The host references a Brandi Zadrozny article as the source of the "left-coordination" framing but does not display the article. Flagged as verbal-reference-only.

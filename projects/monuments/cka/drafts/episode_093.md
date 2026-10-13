@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: a1f3c6dfa924e1a32b03c50b03b00f101fbd284665dcd6d81eb0bac4b30dbf95
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10691, N-10692, N-10693, N-10694, N-10695, N-10696, N-10697
+  - New Nodes Introduced: N-10616, N-10617, N-10618, N-10619, N-10620, N-10621, N-10622
   - Reused Nodes Appearing: none (Wave 2: local ids removed)
   - (see registers)
 
@@ -52,7 +52,7 @@ Video Timestamp: 00:02:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2744, C-2758, N-10691, N-10692*
+*Related: C-2744, C-2758, N-10616, N-10617*
 
 ---
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:07:27–00:13:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low–Medium (no underlying source shown; requires verification)
 
-*Related: C-2745, C-2747, N-10691*
+*Related: C-2745, C-2747, N-10616*
 
 **A-1982.2** JD Vance plane timeline on UGA rally day (circling North Carolina 3:53 PM; landing Athens 4:34 PM)
 
@@ -76,7 +76,7 @@ Video Timestamp: 00:08:44–00:09:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low–Medium (no underlying source shown; requires verification)
 
-*Related: C-2746, N-10691*
+*Related: C-2746, N-10616*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:11:54–00:12:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2747, N-10691*
+*Related: C-2747, N-10616*
 
 ---
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:35:00–00:36:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host invites Victor Marx to dispute authenticity)
 
-*Related: C-2752, C-2753, N-10693*
+*Related: C-2752, C-2753, N-10618*
 
 **A-1988.2** Corby Hall reply: "Why so much focus on the IDF and not as much on domestic schools?… I would hate to send 1,000 units to the IDF and have an unprotected school get shot up here."
 
@@ -180,7 +180,7 @@ Video Timestamp: 00:36:10–00:37:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2752, N-10693*
+*Related: C-2752, N-10618*
 
 **A-1988.3** Victor Marx reply: "You won't be sending 1,000 units to anyone in the IDF. You will get a paycheck for the patent and possibly your company and then on to your next adventure."
 
@@ -190,7 +190,7 @@ Video Timestamp: 00:37:17–00:38:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2752, N-10693*
+*Related: C-2752, N-10618*
 
 ---
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:39:18–00:41:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (article referenced but not displayed in full)
 
-*Related: C-2754, N-10695*
+*Related: C-2754, N-10620*
 
 ---
 
@@ -218,7 +218,7 @@ Video Timestamp: 00:41:38–00:45:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2755, C-2756, C-2757, N-10694, N-10696*
+*Related: C-2755, C-2756, C-2757, N-10619, N-10621*
 
 ---
 
@@ -232,7 +232,7 @@ Video Timestamp: 00:18:55–00:22:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2758, C-2759, N-10691*
+*Related: C-2758, C-2759, N-10616*
 
 **A-1991.2** Same Daily Mail article, insider continuation on ticket sales and mental exhaustion: "It wasn't just the ticket sales, either. It was also mental exhaustion…"
 
@@ -242,7 +242,7 @@ Video Timestamp: 00:21:34–00:22:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2759, N-10691*
+*Related: C-2759, N-10616*
 
 ---
 
@@ -256,13 +256,13 @@ Video Timestamp: 00:28:57–00:29:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-2760, N-10697*
+*Related: C-2760, N-10622*
 
 ---
 
 ## 4. Node Register
 
-**N-10691** UGA Rally Cancellation Discrepancy
+**N-10616** UGA Rally Cancellation Discrepancy
 
 Persistent target: contradiction between Erika Kirk's stated reason for canceling UGA co-appearance and Secret Service determination, plus insider acknowledgment of non-security factors.
 
@@ -273,7 +273,7 @@ Investigative Pressure: High
 
 *Related: A-1981.1, A-1982.1, A-1982.2, A-1983, A-1991.1, A-1991.2, C-2744, C-2745, C-2746, C-2747, C-2758, C-2759*
 
-**N-10692** Secret Service Statement Verification
+**N-10617** Secret Service Statement Verification
 
 Persistent target: verifying Secret Service's "no credible threats" determination, including the off-record-to-CBS pipeline and corroboration across the federal security apparatus.
 
@@ -284,7 +284,7 @@ Investigative Pressure: Medium
 
 *Related: A-1981.1, C-2744*
 
-**N-10693** Victor Marx IDF / Israeli Defense Group Connection
+**N-10618** Victor Marx IDF / Israeli Defense Group Connection
 
 Persistent target: verifying text-message-attributed communications between Marx and Corby Hall referencing an Israeli Defense Group, SOCOM contract, and patent purchase.
 
@@ -295,7 +295,7 @@ Investigative Pressure: High
 
 *Related: A-1988.1, A-1988.2, A-1988.3, C-2752, C-2753*
 
-**N-10694** Bain Capital Foreign Investment Line
+**N-10619** Bain Capital Foreign Investment Line
 
 Persistent target: tracking the historical and recurring web linking Robert Maxwell / Ghislaine Maxwell / Epstein-adjacent actors to Bain Capital and adjacent financial/political networks.
 
@@ -306,7 +306,7 @@ Investigative Pressure: Medium
 
 *Related: A-1989, C-2754*
 
-**N-10695** ATF Bullet Comparison Methodology
+**N-10620** ATF Bullet Comparison Methodology
 
 Persistent target: tracking the methodology and outcomes of cartridge-case matching, bullet-jacket fragment class-characteristic analysis, and the upcoming microscopic comparison in the Robinson case.
 
@@ -317,7 +317,7 @@ Investigative Pressure: Medium
 
 *Related: A-1990, C-2755, C-2756, C-2757*
 
-**N-10696** Gun Firing Evidence Verification
+**N-10621** Gun Firing Evidence Verification
 
 Persistent target: verifying whether the recovered rifle was fired on September 10 via canine/bomb-dog screening and residue testing.
 
@@ -328,7 +328,7 @@ Investigative Pressure: Medium
 
 *Related: A-1990*
 
-**N-10697** Early-Death-Announcement Timeline Verification
+**N-10622** Early-Death-Announcement Timeline Verification
 
 Persistent target: plotting who first publicly announced Charlie Kirk's death and from what source – including Victor Marx (1:13 PM MT) and the unverified Amir Sarfati tip.
 
@@ -352,7 +352,7 @@ Claim: CBS News, citing a person familiar with the matter, reported the US Secre
 Anchored Artifacts: A-1981.1
 Contradicts: C-2724, C-2728
 
-Related Nodes: N-10692, N-10691
+Related Nodes: N-10617, N-10616
 
 Investigative Direction: Obtain the underlying Secret Service statement on the record; identify and corroborate the "person familiar" source.
 
@@ -367,7 +367,7 @@ Claim: Host presents a timeline in which Erika departed West Palm Beach at 1:27 
 Anchored Artifacts: A-1982.1
 Mentions: N-2
 
-Related Nodes: N-10691
+Related Nodes: N-10616
 
 Investigative Direction: Obtain FAA flight logs, airport records, and Secret Service movement logs to verify arrival/departure times.
 
@@ -382,7 +382,7 @@ Claim: Host states JD Vance's plane began circling at 3:53 PM and landed in Athe
 Anchored Artifacts: A-1982.2
 Mentions: N-4
 
-Related Nodes: N-10691
+Related Nodes: N-10616
 
 Investigative Direction: Cross-reference flight tracking data (ADS-B Exchange / FlightRadar24) and White House travel logs.
 
@@ -397,7 +397,7 @@ Claim: JD Vance told Andrew on stage that "about 2 hours ago… I was a little w
 Anchored Artifacts: A-1983
 Mentions: N-4
 
-Related Nodes: N-10691
+Related Nodes: N-10616
 
 Investigative Direction: Obtain full unedited UGA rally footage and any subsequent Vance press gaggle transcripts for corroboration.
 
@@ -410,9 +410,9 @@ Claim Timestamp: 00:24:00–00:25:01
 Claim: Victor Marx posted on social media, prior to the public confirmation, that Charlie was "in heaven" at 1:13 PM Mountain Time.
 
 Anchored Artifacts: A-1984.1
-Mentions: N-1, N-569
+Mentions: N-1, N-348
 
-Related Nodes: N-10697
+Related Nodes: N-10622
 
 Investigative Direction: Archive the post screenshots (cited as having been received with timestamps); identify Marx's claimed source.
 
@@ -425,7 +425,7 @@ Claim Timestamp: 00:29:30–00:30:28
 Claim: The Victor Marx Group LLC, based in Colorado Springs, holds a Class 1 FFL according to public lookup websites and Baron Coleman's research.
 
 Anchored Artifacts: A-1985, A-1986
-Mentions: N-552, N-569
+Mentions: N-337, N-348
 
 Related Nodes:
 
@@ -440,7 +440,7 @@ Claim Timestamp: 00:31:20–00:32:44
 Claim: In an interview, Victor Marx acknowledged saying he would "whoop [Corby Hall's] ass," placing the incident at his training facility during a walk-through.
 
 Anchored Artifacts: A-1987.1
-Mentions: N-569, N-570
+Mentions: N-348, N-349
 
 Related Nodes:
 
@@ -455,7 +455,7 @@ Claim Timestamp: 00:33:46–00:34:57
 Claim: When asked directly, Victor Marx answered "Of course not. It's illegal" regarding trafficking rifles to Haiti, Israel, or Iran.
 
 Anchored Artifacts: A-1987.2
-Mentions: N-569
+Mentions: N-348
 
 Related Nodes:
 
@@ -470,9 +470,9 @@ Claim Timestamp: 00:35:00–00:38:02
 Claim: Text messages attributed to Victor Marx state that "The Israeli Defense Group we are connected with is ready to review the patent and possible deal" and reference a SOCOM contract for a company he is part-owner of; Corby's reply raises IDF-vs-domestic-schools concerns.
 
 Anchored Artifacts: A-1988.1, A-1988.2, A-1988.3
-Mentions: N-569
+Mentions: N-348
 
-Related Nodes: N-10693
+Related Nodes: N-10618
 
 Investigative Direction: Authenticate the text-message screenshots (metadata, device extraction); await on-record response from Marx.
 
@@ -486,7 +486,7 @@ Claim: Host states the messages occurred in April 2025 (uncertainty noted: "I wa
 
 Anchored Artifacts: A-1988.1, A-1988.2, A-1988.3
 
-Related Nodes: N-10693
+Related Nodes: N-10618
 
 Investigative Direction: Obtain message timestamps to confirm date precisely.
 
@@ -499,9 +499,9 @@ Claim Timestamp: 00:39:18–00:41:12
 Claim: A 2012 Los Angeles Times piece reported that Robert Maxwell contributed $2 million of the initial $37 million Bain Capital sought to raise, alongside other foreign investors.
 
 Anchored Artifacts: A-1989
-Mentions: N-77
+Mentions: N-48
 
-Related Nodes: N-10694
+Related Nodes: N-10619
 
 Investigative Direction: Retrieve the underlying LA Times article and any SEC filings / partnership documentation listing Bain Capital seed investors.
 
@@ -515,7 +515,7 @@ Claim: The ATF summary found that the cartridge cases matched the exhibit 1 rifl
 
 Anchored Artifacts: A-1990
 
-Related Nodes: N-10695
+Related Nodes: N-10620
 
 Investigative Direction: Obtain the ATF summary in full (rather than partial readback) and any underlying laboratory report.
 
@@ -529,7 +529,7 @@ Claim: ATF summary stated fragments from bullet jackets could not be identified 
 
 Anchored Artifacts: A-1990
 
-Related Nodes: N-10695
+Related Nodes: N-10620
 
 Investigative Direction: Obtain forensic report details on which class characteristics were matched and the exclusion criteria.
 
@@ -543,7 +543,7 @@ Claim: The ATF summary indicates upcoming microscopic comparison on the bullet e
 
 Anchored Artifacts: A-1990
 
-Related Nodes: N-10695
+Related Nodes: N-10620
 
 Investigative Direction: Track subsequent filings and any defense challenges to microscopic comparison methodology under Daubert/Frye standards.
 
@@ -557,7 +557,7 @@ Claim: A TPUSA insider, quoted in the Daily Mail, stated: "She pulled out of the
 
 Anchored Artifacts: A-1991.1
 
-Related Nodes: N-10691
+Related Nodes: N-10616
 
 Investigative Direction: Identify the insider source; obtain the full Daily Mail article and any corroborating reporting.
 
@@ -571,7 +571,7 @@ Claim: The same Daily Mail insider stated: "It wasn't just the ticket sales, eit
 
 Anchored Artifacts: A-1991.2
 
-Related Nodes: N-10691
+Related Nodes: N-10616
 
 Investigative Direction: Cross-reference with venue ticketing data and corroborate insider attribution.
 
@@ -586,7 +586,7 @@ Claim: A viewer email tip suggests Amir Sarfati (or "Safadi") may have been the 
 Anchored Artifacts: A-1992
 Mentions: N-1
 
-Related Nodes: N-10697
+Related Nodes: N-10622
 
 Investigative Direction: Obtain request for verbatim or original-source documentation for the claim; verify spelling of name and role.
 
@@ -601,7 +601,7 @@ Claim: Host explicitly endorses Elizabeth Lane's prior post that "Erika Kirk exh
 Anchored Artifacts: (verbal reference only to artifact from prior episode – Lane's X post)
 Mentions: N-2
 
-Related Nodes: N-10691
+Related Nodes: N-10616
 
 Investigative Direction: Cross-reference the prior episode's Elizabeth Lane artifact and verify host endorsement scope.
 
@@ -617,7 +617,7 @@ Anchored Artifacts: A-1981.1 (Secret Service side); A-1991.1 (insider side ackno
 Mentions: N-2
 Contradicts: C-2744
 
-Related Nodes: N-10691, N-10692
+Related Nodes: N-10616, N-10617
 
 Investigative Direction: Resolve by obtaining either Erika Kirk's underlying threat intel (if any) or an explicit on-record retraction.
 
@@ -631,7 +631,7 @@ Claim: Host states bomb dogs and canines brought to the scene did not detect tha
 
 Anchored Artifacts: None in this episode (host assertion only)
 
-Related Nodes: N-10696
+Related Nodes: N-10621
 
 Investigative Direction: Obtain canine unit deployment records, ATF chain-of-custody documentation, and any residue-testing results for the recovered rifle.
 

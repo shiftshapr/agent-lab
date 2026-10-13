@@ -31,8 +31,8 @@
             "C-1429"
           ],
           "related_nodes": [
-            "N-42",
-            "N-10246"
+            "N-14",
+            "N-10180"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -59,8 +59,8 @@
             "C-1431"
           ],
           "related_nodes": [
-            "N-247",
-            "N-10248"
+            "N-177",
+            "N-10182"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -105,9 +105,9 @@
             "C-1437"
           ],
           "related_nodes": [
-            "N-247",
-            "N-248",
-            "N-10248"
+            "N-177",
+            "N-178",
+            "N-10182"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -133,9 +133,9 @@
             "C-1438"
           ],
           "related_nodes": [
-            "N-248",
-            "N-10246",
-            "N-10247"
+            "N-178",
+            "N-10180",
+            "N-10181"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -161,7 +161,7 @@
             "C-1439"
           ],
           "related_nodes": [
-            "N-10247"
+            "N-10181"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -188,7 +188,7 @@
             "C-1456"
           ],
           "related_nodes": [
-            "N-42"
+            "N-14"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -238,7 +238,7 @@
             "C-1458"
           ],
           "related_nodes": [
-            "N-254"
+            "N-182"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -277,8 +277,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Social media commentator who posted a long tweet recounting a conversation with a surgeon who worked on Charlie.",
@@ -296,13 +296,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10246"
+        "N-10180"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-247",
-      "ref": "N-247",
+      "@id": "N-177",
+      "ref": "N-177",
       "name": "Cooper Brown",
       "type": "person",
       "description": "Event volunteer who held the microphone at the Utah Valley event and gave multiple Fox News interviews; identified by host as not a TPUSA employee, not a UVU student, and as affiliated with the Leadership Institute.",
@@ -327,14 +327,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-248",
-        "N-10248"
+        "N-178",
+        "N-10182"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-248",
-      "ref": "N-248",
+      "@id": "N-178",
+      "ref": "N-178",
       "name": "Jason Chaffetz",
       "type": "person",
       "description": "Former politician and Fox News contributor who attended the Utah Valley event and provided eyewitness account that the shot came from close proximity straight ahead.",
@@ -350,14 +350,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10246",
-        "N-10247"
+        "N-10180",
+        "N-10181"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-249",
-      "ref": "N-249",
+      "@id": "N-179",
+      "ref": "N-179",
       "name": "Deidra Weiss Amaro",
       "type": "person",
       "description": "Utah State Medical Examiner as of May 2024, per host's research; reportedly from Missouri with prior California work.",
@@ -371,13 +371,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10249"
+        "N-10183"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-251",
-      "ref": "N-251",
+      "@id": "N-181",
+      "ref": "N-181",
       "name": "Derek Maxwell",
       "type": "person",
       "description": "Public figure (per host) who publicly addressed the second plane's ADSB transponder status, disputing Kash Patel's account.",
@@ -392,13 +392,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10252"
+        "N-10186"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-228",
-      "ref": "N-228",
+      "@id": "N-166",
+      "ref": "N-166",
       "name": "Matt Walsh",
       "type": "person",
       "description": "Commentator whose reaction to the released Josh Hammer / Charlie Kirk text exchange is read/played.",
@@ -416,8 +416,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-76",
-      "ref": "N-76",
+      "@id": "N-47",
+      "ref": "N-47",
       "name": "Ghislaine Maxwell",
       "type": "person",
       "description": "Referenced as Derek Maxwell's wife and as having co-run a beauty company later sold.",
@@ -431,13 +431,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-251"
+        "N-181"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-254",
-      "ref": "N-254",
+      "@id": "N-182",
+      "ref": "N-182",
       "name": "Jared Kushner",
       "type": "person",
       "description": "Featured via Harvard speech clip regarding Gaza's \"waterfront property.\"",
@@ -455,8 +455,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10246",
-      "ref": "N-10246",
+      "@id": "N-10180",
+      "ref": "N-10180",
       "name": "Bullet Trajectory and Caliber Verification",
       "type": "investigation_target",
       "description": "Persistent target: whether the recovered projectile was a .30-06, where the fragment was recovered, and whether the death certificate reflects it.",
@@ -475,14 +475,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-42",
-        "N-248"
+        "N-14",
+        "N-178"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10247",
-      "ref": "N-10247",
+      "@id": "N-10181",
+      "ref": "N-10181",
       "name": "Multiple Shooter Theory",
       "type": "investigation_target",
       "description": "Persistent target: whether more than one shooter / weapon was involved at the Utah Valley event.",
@@ -501,13 +501,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-248"
+        "N-178"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10248",
-      "ref": "N-10248",
+      "@id": "N-10182",
+      "ref": "N-10182",
       "name": "Cooper Brown Identity Verification",
       "type": "investigation_target",
       "description": "Persistent target: verifying Cooper Brown's institutional affiliation, biographical claims, and presence at the event.",
@@ -529,14 +529,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-247",
-        "N-248"
+        "N-177",
+        "N-178"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10249",
-      "ref": "N-10249",
+      "@id": "N-10183",
+      "ref": "N-10183",
       "name": "Medical Examiner Inquiry – Weiss Amaro",
       "type": "investigation_target",
       "description": "Persistent target: full background, prior work history, and case-handling record of the Utah state medical examiner.",
@@ -550,13 +550,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-249"
+        "N-179"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10250",
-      "ref": "N-10250",
+      "@id": "N-10184",
+      "ref": "N-10184",
       "name": "Caldera Engineering Background Investigation",
       "type": "investigation_target",
       "description": "Persistent target: founders, employees, Israel project history, and connections to other named figures in the series.",
@@ -575,8 +575,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10251",
-      "ref": "N-10251",
+      "@id": "N-10185",
+      "ref": "N-10185",
       "name": "Plane N1098L Investigation",
       "type": "investigation_target",
       "description": "Persistent target: chain of custody, contracting entity, and purpose of military tail-numbered aircraft seen near Utah on 9/10.",
@@ -592,13 +592,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10255"
+        "N-10189"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10252",
-      "ref": "N-10252",
+      "@id": "N-10186",
+      "ref": "N-10186",
       "name": "Plane 888 / Maxwell Plane Investigation",
       "type": "investigation_target",
       "description": "Persistent target: ADSB transponder status, FBO destination change, and conflicting accounts from Kash Patel and Derek Maxwell.",
@@ -618,14 +618,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-251",
-        "N-76"
+        "N-181",
+        "N-47"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10253",
-      "ref": "N-10253",
+      "@id": "N-10187",
+      "ref": "N-10187",
       "name": "Josh Hammer Text Messages Context",
       "type": "investigation_target",
       "description": "Persistent target: chronological placement and substantive content of the released text exchange relative to Charlie Kirk's known Israel-related shift.",
@@ -642,14 +642,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-42",
-        "N-228"
+        "N-14",
+        "N-166"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10254",
-      "ref": "N-10254",
+      "@id": "N-10188",
+      "ref": "N-10188",
       "name": "Leadership Institute (entity)",
       "type": "investigation_target",
       "description": "Organization identified by Cooper Brown as his employer and described by host as working \"hand-in-hand\" with TPUSA, YAL, and Students for Life on conservative coalition events.",
@@ -665,13 +665,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-247"
+        "N-177"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10255",
-      "ref": "N-10255",
+      "@id": "N-10189",
+      "ref": "N-10189",
       "name": "Las Vegas Aviation LLC (entity)",
       "type": "investigation_target",
       "description": "Company identified by host as the owner/contractor of plane N1098L.",
@@ -685,13 +685,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10251"
+        "N-10185"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10256",
-      "ref": "N-10256",
+      "@id": "N-10190",
+      "ref": "N-10190",
       "name": "Signature FBO / Millionaire FBO (entity cluster)",
       "type": "investigation_target",
       "description": "Two fixed-base operators referenced in connection with plane 888's last-minute destination change and contradicting employee statements.",
@@ -706,13 +706,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10252"
+        "N-10186"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-37",
-      "ref": "N-37",
+      "@id": "N-11",
+      "ref": "N-11",
       "name": "Tyler Bowyer",
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
@@ -758,8 +758,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-92",
-      "ref": "N-92",
+      "@id": "N-61",
+      "ref": "N-61",
       "name": "Phil Lyman",
       "type": "person",
       "description": "Utah Lt. Gov. candidate; per host, the GMA connection was routed through his campaign to Tiffany Barker.",
@@ -774,8 +774,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
@@ -816,13 +816,13 @@
         "A-1251.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10180"
       ],
       "tags": [],
       "claim_timestamp": "00:03:37",
       "investigative_direction": "Obtain autopsy / medical examiner records and forensic bullet trajectory report to verify entry-side determination.",
       "mentions_person_refs": [
-        "N-42",
+        "N-14",
         "N-1"
       ]
     },
@@ -836,13 +836,13 @@
         "A-1251.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10180"
       ],
       "tags": [],
       "claim_timestamp": "00:05:03",
       "investigative_direction": "Compare against autopsy report and forensic pathology images for exact fragment location.",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -855,13 +855,13 @@
         "A-1251.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10180"
       ],
       "tags": [],
       "claim_timestamp": "00:06:02",
       "investigative_direction": "Obtain a certified copy of the death certificate and the medical examiner's full report.",
       "mentions_person_refs": [
-        "N-42",
+        "N-14",
         "N-1"
       ]
     },
@@ -875,13 +875,13 @@
         "A-1251.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10180"
       ],
       "tags": [],
       "claim_timestamp": "00:02:50",
       "investigative_direction": "Locate original Kolbatz tweet and verify direct quotes and publication date.",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -894,13 +894,13 @@
         "A-1251.1"
       ],
       "related_nodes": [
-        "N-10246"
+        "N-10180"
       ],
       "tags": [],
       "claim_timestamp": "00:03:01",
       "investigative_direction": "Identify the named surgeon (if given) and confirm statement through independent medical record review.",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -913,13 +913,13 @@
         "A-1252.1"
       ],
       "related_nodes": [
-        "N-10248"
+        "N-10182"
       ],
       "tags": [],
       "claim_timestamp": "00:08:44",
       "investigative_direction": "Identify the witness and obtain a signed statement consistent with his on-camera description.",
       "mentions_person_refs": [
-        "N-247"
+        "N-177"
       ]
     },
     {
@@ -933,13 +933,13 @@
         "A-1253.1"
       ],
       "related_nodes": [
-        "N-10248"
+        "N-10182"
       ],
       "tags": [],
       "claim_timestamp": "00:12:02",
       "investigative_direction": "Identify the pusher and verify his institutional affiliation at the time of the event.",
       "mentions_person_refs": [
-        "N-247"
+        "N-177"
       ]
     },
     {
@@ -952,14 +952,14 @@
         "A-1253.1"
       ],
       "related_nodes": [
-        "N-10254",
-        "N-10248"
+        "N-10188",
+        "N-10182"
       ],
       "tags": [],
       "claim_timestamp": "00:13:06",
       "investigative_direction": "Confirm Leadership Institute employment records and verify the organization's claimed coalition roles.",
       "mentions_person_refs": [
-        "N-247"
+        "N-177"
       ]
     },
     {
@@ -972,13 +972,13 @@
         "A-1253.1"
       ],
       "related_nodes": [
-        "N-10248"
+        "N-10182"
       ],
       "tags": [],
       "claim_timestamp": "00:13:06",
       "investigative_direction": "Verify timestamp and full segment via Fox News archives.",
       "mentions_person_refs": [
-        "N-247"
+        "N-177"
       ]
     },
     {
@@ -991,13 +991,13 @@
         "A-1253.2"
       ],
       "related_nodes": [
-        "N-10248"
+        "N-10182"
       ],
       "tags": [],
       "claim_timestamp": "00:13:58",
       "investigative_direction": "Verify timestamp and full segment via Fox News archives.",
       "mentions_person_refs": [
-        "N-247"
+        "N-177"
       ]
     },
     {
@@ -1010,13 +1010,13 @@
         "A-1253.2"
       ],
       "related_nodes": [
-        "N-10248"
+        "N-10182"
       ],
       "tags": [],
       "claim_timestamp": "00:14:50",
       "investigative_direction": "Cross-reference event staff logs or volunteer rosters provided by organizers.",
       "mentions_person_refs": [
-        "N-247"
+        "N-177"
       ]
     },
     {
@@ -1029,13 +1029,13 @@
         "A-1253.2"
       ],
       "related_nodes": [
-        "N-10248"
+        "N-10182"
       ],
       "tags": [],
       "claim_timestamp": "00:16:16",
       "investigative_direction": "Pull registrar verification or alumni records (subject to FERPA limits).",
       "mentions_person_refs": [
-        "N-247"
+        "N-177"
       ]
     },
     {
@@ -1048,13 +1048,13 @@
         "A-1253.2"
       ],
       "related_nodes": [
-        "N-10248"
+        "N-10182"
       ],
       "tags": [],
       "claim_timestamp": "00:16:16",
       "investigative_direction": "Confirm whether the female same-name individual is or is not the same person through independent records.",
       "mentions_person_refs": [
-        "N-247"
+        "N-177"
       ]
     },
     {
@@ -1067,14 +1067,14 @@
         "A-1254.1"
       ],
       "related_nodes": [
-        "N-10246",
-        "N-10247"
+        "N-10180",
+        "N-10181"
       ],
       "tags": [],
       "claim_timestamp": "00:23:00",
       "investigative_direction": "Confirm full segment and any subsequent Chaffetz statements on the topic.",
       "mentions_person_refs": [
-        "N-248"
+        "N-178"
       ]
     },
     {
@@ -1087,13 +1087,13 @@
         "A-1255.1"
       ],
       "related_nodes": [
-        "N-10247"
+        "N-10181"
       ],
       "tags": [],
       "claim_timestamp": "00:27:27",
       "investigative_direction": "Identify and re-interview the two women, and compare against Phil Lyman's published footage metadata.",
       "mentions_person_refs": [
-        "N-92"
+        "N-61"
       ]
     },
     {
@@ -1104,13 +1104,13 @@
       "claim": "Dr. Deidra Weiss Amaro was announced as the new Utah State Medical Examiner in May 2024, with prior work history in Missouri (and California).",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10249"
+        "N-10183"
       ],
       "tags": [],
       "claim_timestamp": "00:18:33",
       "investigative_direction": "Locate Utah state announcement and prior employment records.",
       "mentions_person_refs": [
-        "N-249"
+        "N-179"
       ]
     },
     {
@@ -1121,7 +1121,7 @@
       "claim": "A web listing identified an Israeli individual as the founder of Caldera Engineering, though host states this could not be independently corroborated.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10250"
+        "N-10184"
       ],
       "tags": [],
       "claim_timestamp": "00:30:39",
@@ -1135,7 +1135,7 @@
       "claim": "Caldera Engineering was established in 1997.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10250"
+        "N-10184"
       ],
       "tags": [],
       "claim_timestamp": "00:31:26",
@@ -1149,7 +1149,7 @@
       "claim": "A person employed at Caldera Engineering has a professional acting background (theater school, plays), with no engineering background before the resume listing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10250"
+        "N-10184"
       ],
       "tags": [],
       "claim_timestamp": "00:30:39",
@@ -1163,13 +1163,13 @@
       "claim": "The lawyer Caldera Engineering used in its early trademark filings in Arizona was the same lawyer introduced to the host by Tyler Bowyer of Turning Point USA.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10250"
+        "N-10184"
       ],
       "tags": [],
       "claim_timestamp": "00:32:52",
       "investigative_direction": "Pull Arizona trademark filings and confirm attorney of record.",
       "mentions_person_refs": [
-        "N-37"
+        "N-11"
       ]
     },
     {
@@ -1180,7 +1180,7 @@
       "claim": "A plane with tail number N1098L, seen near Utah on 9/10, was a military aircraft.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10251"
+        "N-10185"
       ],
       "tags": [],
       "claim_timestamp": "00:37:31",
@@ -1194,8 +1194,8 @@
       "claim": "Plane N1098L was owned/contracted by Las Vegas Aviation LLC.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10251",
-        "N-10255"
+        "N-10185",
+        "N-10189"
       ],
       "tags": [],
       "claim_timestamp": "00:37:31",
@@ -1209,7 +1209,7 @@
       "claim": "Plane N1098L departed Texas and routed to Utah around the time of the shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10251"
+        "N-10185"
       ],
       "tags": [],
       "claim_timestamp": "00:37:31",
@@ -1223,14 +1223,14 @@
       "claim": "A second plane (with \"888\" in identification per host) is associated with Derek Maxwell, who the host identifies as Ghislaine Maxwell's husband and as having sold a beauty company.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10252"
+        "N-10186"
       ],
       "tags": [],
       "claim_timestamp": "00:39:09",
       "investigative_direction": "Verify aircraft registration, ownership, and any link to Derek/Ghislaine Maxwell.",
       "mentions_person_refs": [
-        "N-76",
-        "N-251"
+        "N-47",
+        "N-181"
       ]
     },
     {
@@ -1241,7 +1241,7 @@
       "claim": "Plane 888's intended destination was Page, Arizona.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10252"
+        "N-10186"
       ],
       "tags": [],
       "claim_timestamp": "00:39:09",
@@ -1255,7 +1255,7 @@
       "claim": "The ADSB transponder on plane 888 appeared to turn off during the flight.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10252"
+        "N-10186"
       ],
       "tags": [],
       "claim_timestamp": "00:39:09",
@@ -1269,13 +1269,13 @@
       "claim": "Kash Patel publicly stated that plane 888 never stopped transponding.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10252"
+        "N-10186"
       ],
       "tags": [],
       "claim_timestamp": "00:40:07",
       "investigative_direction": "Locate Kash Patel's original statement (interview, press release, social media post) for verbatim wording.",
       "mentions_person_refs": [
-        "N-102"
+        "N-69"
       ]
     },
     {
@@ -1286,13 +1286,13 @@
       "claim": "Derek Maxwell publicly stated on Instagram that the air traffic control center had agreed they could stop transponding.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10252"
+        "N-10186"
       ],
       "tags": [],
       "claim_timestamp": "00:40:07",
       "investigative_direction": "Locate Maxwell's original Instagram post and any corroborating ATC logs.",
       "mentions_person_refs": [
-        "N-251"
+        "N-181"
       ]
     },
     {
@@ -1303,8 +1303,8 @@
       "claim": "Plane 888 changed its FBO destination at the last minute, from Millionaire to Signature.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10252",
-        "N-10256"
+        "N-10186",
+        "N-10190"
       ],
       "tags": [],
       "claim_timestamp": "00:40:53",
@@ -1318,8 +1318,8 @@
       "claim": "A person at the Signature FBO initially confirmed that the plane had made multiple trips in recent days, then reversed to state no plane had ever landed there.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10252",
-        "N-10256"
+        "N-10186",
+        "N-10190"
       ],
       "tags": [],
       "claim_timestamp": "00:41:40",
@@ -1335,13 +1335,13 @@
         "A-1256.1"
       ],
       "related_nodes": [
-        "N-10253"
+        "N-10187"
       ],
       "tags": [],
       "claim_timestamp": "00:45:21",
       "investigative_direction": "Verify release date and source channel.",
       "mentions_person_refs": [
-        "N-86",
+        "N-55",
         "N-1"
       ]
     },
@@ -1355,13 +1355,13 @@
         "A-1256.1"
       ],
       "related_nodes": [
-        "N-10253"
+        "N-10187"
       ],
       "tags": [],
       "claim_timestamp": "00:45:21",
       "investigative_direction": "Obtain the full thread (including timestamps and any prior context messages) and verify against the surrounding calendar of Charlie Kirk's campus events.",
       "mentions_person_refs": [
-        "N-86",
+        "N-55",
         "N-1"
       ]
     },
@@ -1396,7 +1396,7 @@
       "claim_timestamp": "00:49:13",
       "investigative_direction": "Verify full Harvard event recording and transcript.",
       "mentions_person_refs": [
-        "N-254"
+        "N-182"
       ]
     },
     {
@@ -1409,13 +1409,13 @@
         "A-1259.1"
       ],
       "related_nodes": [
-        "N-10253"
+        "N-10187"
       ],
       "tags": [],
       "claim_timestamp": "00:53:09",
       "investigative_direction": "Verify clip source and full Matt Walsh segment.",
       "mentions_person_refs": [
-        "N-228",
+        "N-166",
         "N-1"
       ]
     },
@@ -1433,8 +1433,8 @@
       "claim_timestamp": "00:10:16",
       "investigative_direction": "Verify Kolbatz's travel timeline via receipts or communications.",
       "mentions_person_refs": [
-        "N-42",
-        "N-247"
+        "N-14",
+        "N-177"
       ]
     },
     {

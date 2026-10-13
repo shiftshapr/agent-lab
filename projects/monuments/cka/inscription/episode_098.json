@@ -32,7 +32,7 @@
             "C-2836"
           ],
           "related_nodes": [
-            "N-11391"
+            "N-10900"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -137,8 +137,8 @@
             "C-2843"
           ],
           "related_nodes": [
-            "N-10726",
-            "N-10731"
+            "N-10651",
+            "N-10656"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -165,8 +165,8 @@
             "C-2845"
           ],
           "related_nodes": [
-            "N-10727",
-            "N-10728"
+            "N-10652",
+            "N-10653"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,7 +195,7 @@
             "C-2851"
           ],
           "related_nodes": [
-            "N-10727"
+            "N-10652"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -221,7 +221,7 @@
             "C-2848"
           ],
           "related_nodes": [
-            "N-10728"
+            "N-10653"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -248,7 +248,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10726"
+            "N-10651"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -274,7 +274,7 @@
             "C-2850"
           ],
           "related_nodes": [
-            "N-10731"
+            "N-10656"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -300,7 +300,7 @@
             "C-2853"
           ],
           "related_nodes": [
-            "N-10728"
+            "N-10653"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -330,7 +330,7 @@
             "C-2855"
           ],
           "related_nodes": [
-            "N-10726"
+            "N-10651"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -344,7 +344,7 @@
           "description": "Mike Michaela donation in honor of Theo Von (Russian Blue Cat)",
           "related_claims": [],
           "related_nodes": [
-            "N-205"
+            "N-149"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -370,7 +370,7 @@
           "description": "Fegliano comment: Blake Lively settled; win for adversaries of \"purchased corruption\"",
           "related_claims": [],
           "related_nodes": [
-            "N-10726"
+            "N-10651"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -396,7 +396,7 @@
           "description": "Dankster Intel $100 donation: \"Foreign Agent Exposurer… chinks in the armor… taking back America from these grifting hands\"",
           "related_claims": [],
           "related_nodes": [
-            "N-10727"
+            "N-10652"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -410,7 +410,7 @@
           "description": "Natty Nicole donation: \"Ben and Larry are discussing human beings\"",
           "related_claims": [],
           "related_nodes": [
-            "N-10726"
+            "N-10651"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -506,8 +506,8 @@
             "C-2851"
           ],
           "related_nodes": [
-            "N-10726",
-            "N-10731"
+            "N-10651",
+            "N-10656"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -533,7 +533,7 @@
             "C-2852"
           ],
           "related_nodes": [
-            "N-10726"
+            "N-10651"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -559,7 +559,7 @@
             "C-2853"
           ],
           "related_nodes": [
-            "N-10726"
+            "N-10651"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -585,7 +585,7 @@
             "C-2846"
           ],
           "related_nodes": [
-            "N-10728"
+            "N-10653"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -600,8 +600,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10726",
-      "ref": "N-10726",
+      "@id": "N-10651",
+      "ref": "N-10651",
       "name": "Brian Harpole Lawsuit Coordination Question",
       "type": "investigation_target",
       "description": "Investigative target: did the Brian Harpole lawsuit, filed via Slauson/Roth, coordinate with Ben Shapiro, the Daily Wire, and/or Laura Loomer?",
@@ -627,8 +627,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10727",
-      "ref": "N-10727",
+      "@id": "N-10652",
+      "ref": "N-10652",
       "name": "Dhillon Law Group / Show Faith by Works Connection",
       "type": "investigation_target",
       "description": "Investigative target: is the Dhillon Law Group's representation of Show Faith by Works (FARA) materially relevant to the firm's broader litigation posture in the Harpole case and the host's targeting?",
@@ -649,8 +649,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10728",
-      "ref": "N-10728",
+      "@id": "N-10653",
+      "ref": "N-10653",
       "name": "Turning Point Geofencing / Show Faith by Works Link",
       "type": "investigation_target",
       "description": "Investigative target: did Show Faith by Works (or another FARA-registered entity) partner with Andrew Kolvet / Turning Point USA to geofence the State Farm Stadium memorial, and does the targeting list overlap with Turning Point-affiliated churches (Calvary Chapel / Dream City Church)?",
@@ -672,8 +672,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10729",
-      "ref": "N-10729",
+      "@id": "N-10654",
+      "ref": "N-10654",
       "name": "Zalman Shapiro Uranium Transfer Verification",
       "type": "investigation_target",
       "description": "Investigative target: did Zalman Shapiro (alleged uncle) transfer uranium to Israel, and what was the disposition of any related prosecution?",
@@ -687,8 +687,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10730",
-      "ref": "N-10730",
+      "@id": "N-10655",
+      "ref": "N-10655",
       "name": "Charlie Kirk Assassination Perpetrator Question",
       "type": "investigation_target",
       "description": "Persistent host assertion that Tyler Robinson did not act alone on a rooftop; flagged as ongoing series target.",
@@ -705,8 +705,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10731",
-      "ref": "N-10731",
+      "@id": "N-10656",
+      "ref": "N-10656",
       "name": "Charlotte Airport Photo Coordination Question",
       "type": "investigation_target",
       "description": "Investigative target: did Laura Loomer coordinate with Matt Slauson to obtain photographs of the host at the Charlotte airport simultaneous with the Harpole lawsuit email?",
@@ -775,8 +775,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
@@ -791,8 +791,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-91",
-      "ref": "N-91",
+      "@id": "N-60",
+      "ref": "N-60",
       "name": "Laura Loomer",
       "type": "person",
       "description": "Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.",
@@ -807,8 +807,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
+      "@id": "N-97",
+      "ref": "N-97",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
@@ -823,8 +823,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -839,8 +839,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-552",
-      "ref": "N-552",
+      "@id": "N-337",
+      "ref": "N-337",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
@@ -855,8 +855,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11391",
-      "ref": "N-11391",
+      "@id": "N-10900",
+      "ref": "N-10900",
       "name": "Daily Wire",
       "type": "organization",
       "description": "Institution that re-released Candace's 2021 trailer on her social channels.",
@@ -872,8 +872,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-684",
-      "ref": "N-684",
+      "@id": "N-439",
+      "ref": "N-439",
       "name": "Chad Schnitker",
       "type": "person",
       "description": "First named by the host at 00:37:02 in episode 98.",
@@ -1026,14 +1026,14 @@
         "A-2034.1"
       ],
       "related_nodes": [
-        "N-10726",
-        "N-10731"
+        "N-10651",
+        "N-10656"
       ],
       "tags": [],
       "claim_timestamp": "00:32:50",
       "mentions_person_refs": [
         "N-3",
-        "N-91"
+        "N-60"
       ]
     },
     {
@@ -1046,14 +1046,14 @@
         "A-2035.1"
       ],
       "related_nodes": [
-        "N-10727",
-        "N-10728"
+        "N-10652",
+        "N-10653"
       ],
       "tags": [],
       "claim_timestamp": "00:37:02",
       "investigative_direction": "Cross-check against the original FARA filing in DOJ FARA database.",
       "mentions_person_refs": [
-        "N-684"
+        "N-439"
       ]
     },
     {
@@ -1067,12 +1067,12 @@
         "A-2036.1"
       ],
       "related_nodes": [
-        "N-10727"
+        "N-10652"
       ],
       "tags": [],
       "claim_timestamp": "00:36:00",
       "mentions_person_refs": [
-        "N-684"
+        "N-439"
       ]
     },
     {
@@ -1085,13 +1085,13 @@
         "A-2036.1"
       ],
       "related_nodes": [
-        "N-10727"
+        "N-10652"
       ],
       "tags": [],
       "claim_timestamp": "00:36:00",
       "mentions_person_refs": [
         "N-1",
-        "N-684"
+        "N-439"
       ]
     },
     {
@@ -1105,15 +1105,15 @@
         "A-2044.1"
       ],
       "related_nodes": [
-        "N-10727",
-        "N-10728"
+        "N-10652",
+        "N-10653"
       ],
       "tags": [],
       "claim_timestamp": "00:36:00",
       "investigative_direction": "Confirm contract date and counterparty from FARA filing.",
       "mentions_person_refs": [
         "N-1",
-        "N-684"
+        "N-439"
       ]
     },
     {
@@ -1126,12 +1126,12 @@
         "A-2037.1"
       ],
       "related_nodes": [
-        "N-10728"
+        "N-10653"
       ],
       "tags": [],
       "claim_timestamp": "00:40:12",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -1144,13 +1144,13 @@
         "A-2038.1"
       ],
       "related_nodes": [
-        "N-10726"
+        "N-10651"
       ],
       "tags": [],
       "claim_timestamp": "00:22:03",
       "mentions_person_refs": [
         "N-3",
-        "N-133"
+        "N-97"
       ]
     },
     {
@@ -1163,13 +1163,13 @@
         "A-2039.1"
       ],
       "related_nodes": [
-        "N-10731"
+        "N-10656"
       ],
       "tags": [],
       "claim_timestamp": "00:31:50",
       "mentions_person_refs": [
-        "N-552",
-        "N-91"
+        "N-337",
+        "N-60"
       ]
     },
     {
@@ -1182,14 +1182,14 @@
         "A-2041.1"
       ],
       "related_nodes": [
-        "N-10726",
-        "N-10731"
+        "N-10651",
+        "N-10656"
       ],
       "tags": [],
       "claim_timestamp": "00:33:10",
       "investigative_direction": "Pull archived Slauson X timeline via Wayback Machine to verify.",
       "mentions_person_refs": [
-        "N-91"
+        "N-60"
       ]
     },
     {
@@ -1202,14 +1202,14 @@
         "A-2042.1"
       ],
       "related_nodes": [
-        "N-10726"
+        "N-10651"
       ],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
       "investigative_direction": "Obtain PACER docket copy of Harpole filing and marriage records.",
       "mentions_person_refs": [
-        "N-424",
-        "N-133"
+        "N-272",
+        "N-97"
       ]
     },
     {
@@ -1222,13 +1222,13 @@
         "A-2043.1"
       ],
       "related_nodes": [
-        "N-10726"
+        "N-10651"
       ],
       "tags": [],
       "claim_timestamp": "00:33:10",
       "investigative_direction": "Pull archived Roth X timeline.",
       "mentions_person_refs": [
-        "N-424"
+        "N-272"
       ]
     },
     {
@@ -1242,7 +1242,7 @@
         "A-2040.1"
       ],
       "related_nodes": [
-        "N-10728"
+        "N-10653"
       ],
       "tags": [],
       "claim_timestamp": "00:44:39",
@@ -1260,7 +1260,7 @@
         "A-2040.3"
       ],
       "related_nodes": [
-        "N-10726"
+        "N-10651"
       ],
       "tags": [],
       "claim_timestamp": "00:49:43",
@@ -1278,7 +1278,7 @@
         "A-2036.1"
       ],
       "related_nodes": [
-        "N-10727"
+        "N-10652"
       ],
       "tags": [],
       "claim_timestamp": "00:36:00",

@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-11170"
+            "N-10771"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -58,7 +58,7 @@
             "C-3197"
           ],
           "related_nodes": [
-            "N-11171"
+            "N-10772"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -76,7 +76,7 @@
             "C-3195"
           ],
           "related_nodes": [
-            "N-11172"
+            "N-10773"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -152,7 +152,7 @@
             "C-3200"
           ],
           "related_nodes": [
-            "N-11171"
+            "N-10772"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -203,7 +203,7 @@
             "C-3204"
           ],
           "related_nodes": [
-            "N-11173"
+            "N-10774"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -229,7 +229,7 @@
             "C-3205"
           ],
           "related_nodes": [
-            "N-11174"
+            "N-10775"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -326,8 +326,8 @@
             "C-3195"
           ],
           "related_nodes": [
-            "N-11171",
-            "N-11172"
+            "N-10772",
+            "N-10773"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -391,8 +391,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11170",
-      "ref": "N-11170",
+      "@id": "N-10771",
+      "ref": "N-10771",
       "name": "Missing Gloves Origin in SUV Door",
       "type": "investigation_target",
       "description": "Persistent discrepancy: black gloves reportedly recovered from the rear-door pocket of the transport SUV, but Mikey McCoy's footage of Kirk's exit from that same vehicle shows the pocket as empty.",
@@ -411,8 +411,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11171",
-      "ref": "N-11171",
+      "@id": "N-10772",
+      "ref": "N-10772",
       "name": "Officer Bagley Rooftop Companion Identification",
       "type": "investigation_target",
       "description": "Persistent gap: Officer Bagley testified he did not know the plainclothes man with a badge and handgun who accompanied him onto the Losi rooftop; bystander footage and online identification now tie that man to Allan Robertson (USU PD) and a second man to Christopher Hawk.",
@@ -437,8 +437,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11172",
-      "ref": "N-11172",
+      "@id": "N-10773",
+      "ref": "N-10773",
       "name": "Body Cam Battery Failure Circumstances",
       "type": "investigation_target",
       "description": "Persistent discrepancy: Officer Bagley states his body cam ended because the battery died while he was still on the rooftop; the device had run only 27 min 35 sec, and Nissi's analysis flags that the camera stopped running at a convenient moment relative to the rooftop discovery.",
@@ -457,8 +457,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11173",
-      "ref": "N-11173",
+      "@id": "N-10774",
+      "ref": "N-10774",
       "name": "Allan Robertson Brady List Entry / San Bernardino Transfer",
       "type": "investigation_target",
       "description": "Persistent investigative target: Allan Robertson's Brady List entry, San Bernardino PD's documented non-compliance with Brady disclosure, and the apparent 2024 transfer from California to Utah.",
@@ -478,8 +478,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11174",
-      "ref": "N-11174",
+      "@id": "N-10775",
+      "ref": "N-10775",
       "name": "US CentCom Iran Crowdsourcing Request",
       "type": "investigation_target",
       "description": "Investigative target: senior US Central Command officer's reported email soliciting \"creative and unconventional\" ideas to pressure Iran, sourced from CNN reporting.",
@@ -529,8 +529,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Comments revisit CPR narratives vs unnamed fire captain.",
@@ -545,8 +545,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
@@ -561,8 +561,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -577,8 +577,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-913",
-      "ref": "N-913",
+      "@id": "N-568",
+      "ref": "N-568",
       "name": "Christopher Hawk",
       "type": "person",
       "description": "First named by the host at 00:17:52 in episode 136.",
@@ -596,8 +596,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-629",
-      "ref": "N-629",
+      "@id": "N-388",
+      "ref": "N-388",
       "name": "Dan Bongino",
       "type": "person",
       "description": "Reused; first introduced in episode 15.",
@@ -612,8 +612,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-810",
-      "ref": "N-810",
+      "@id": "N-518",
+      "ref": "N-518",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "First named by the host at 00:04:45 in episode 127. Aliases: Officer Bagley, Officer Christopher Bagley.",
@@ -638,14 +638,14 @@
         "A-2223.1"
       ],
       "related_nodes": [
-        "N-11170"
+        "N-10771"
       ],
       "tags": [],
       "claim_timestamp": "00:03:26",
       "investigative_direction": "Cross-check the McCoy footage against police inventory records for the transport SUV and the official glove recovery chain of custody.",
       "mentions_person_refs": [
         "N-1",
-        "N-272"
+        "N-194"
       ]
     },
     {
@@ -662,8 +662,8 @@
       "claim_timestamp": "00:13:11",
       "investigative_direction": "Verify the 12:39 PM arrival timestamp against UVU campus entry logs, FBI case file timestamps, and Patel/Dan Bonino interview transcripts.",
       "mentions_person_refs": [
-        "N-102",
-        "N-629"
+        "N-69",
+        "N-388"
       ]
     },
     {
@@ -677,13 +677,13 @@
         "A-2233.1"
       ],
       "related_nodes": [
-        "N-11172"
+        "N-10773"
       ],
       "tags": [],
       "claim_timestamp": "00:12:18",
       "investigative_direction": "Obtain the body cam file metadata and manufacturer battery-life specifications to verify whether 27 minutes is plausible as a battery depletion event.",
       "mentions_person_refs": [
-        "N-810"
+        "N-518"
       ]
     },
     {
@@ -696,13 +696,13 @@
         "A-2224.1"
       ],
       "related_nodes": [
-        "N-11171"
+        "N-10772"
       ],
       "tags": [],
       "claim_timestamp": "00:10:33",
       "investigative_direction": "Cross-reference Bagley's testimony against UVU campus credentialing logs and the bystander footage in A-2227.1.",
       "mentions_person_refs": [
-        "N-810"
+        "N-518"
       ]
     },
     {
@@ -716,13 +716,13 @@
         "A-2233.1"
       ],
       "related_nodes": [
-        "N-11171"
+        "N-10772"
       ],
       "tags": [],
       "claim_timestamp": "00:10:33",
       "investigative_direction": "Compare Bagley's badge-and-handgun description with the bystander footage to verify whether the same individual matches both Bagley's testimony and the visual identification.",
       "mentions_person_refs": [
-        "N-810"
+        "N-518"
       ]
     },
     {
@@ -735,14 +735,14 @@
         "A-2227.1"
       ],
       "related_nodes": [
-        "N-11171"
+        "N-10772"
       ],
       "tags": [],
       "claim_timestamp": "00:15:40",
       "investigative_direction": "Authenticate the bystander clip's timestamp and original camera metadata, and run the red-hat figure against UVU/USU event credentialing records.",
       "mentions_person_refs": [
-        "N-913",
-        "N-810"
+        "N-568",
+        "N-518"
       ]
     },
     {
@@ -756,13 +756,13 @@
         "A-2227.1"
       ],
       "related_nodes": [
-        "N-11171"
+        "N-10772"
       ],
       "tags": [],
       "claim_timestamp": "00:16:47",
       "investigative_direction": "Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements.",
       "mentions_person_refs": [
-        "N-913"
+        "N-568"
       ]
     },
     {
@@ -776,13 +776,13 @@
         "A-2227.1"
       ],
       "related_nodes": [
-        "N-11171"
+        "N-10772"
       ],
       "tags": [],
       "claim_timestamp": "00:18:43",
       "investigative_direction": "Verify Hawk's presence and role through credential records and follow-up witness interviews.",
       "mentions_person_refs": [
-        "N-913"
+        "N-568"
       ]
     },
     {
@@ -825,7 +825,7 @@
         "A-2229.1"
       ],
       "related_nodes": [
-        "N-11173"
+        "N-10774"
       ],
       "tags": [],
       "claim_timestamp": "00:22:55",
@@ -842,7 +842,7 @@
         "A-2229.1"
       ],
       "related_nodes": [
-        "N-11173"
+        "N-10774"
       ],
       "tags": [],
       "claim_timestamp": "00:22:55",
@@ -859,7 +859,7 @@
         "A-2230.1"
       ],
       "related_nodes": [
-        "N-11174"
+        "N-10775"
       ],
       "tags": [],
       "claim_timestamp": "00:34:33",
@@ -932,7 +932,7 @@
       "claim_timestamp": "00:06:18",
       "investigative_direction": "Obtain the full Frank Turk interview and clarify what \"yanking and banking\" refers to in context (procedure vs. colloquial expression).",
       "mentions_person_refs": [
-        "N-16"
+        "N-7"
       ]
     },
     {
@@ -945,14 +945,14 @@
         "A-2233.1"
       ],
       "related_nodes": [
-        "N-11171",
-        "N-11172"
+        "N-10772",
+        "N-10773"
       ],
       "tags": [],
       "claim_timestamp": "00:18:43",
       "investigative_direction": "Re-listen to Bagley's preliminary-hearing testimony in full and cross-check against UVU campus surveillance for any pre-rooftop interaction.",
       "mentions_person_refs": [
-        "N-810"
+        "N-518"
       ]
     }
   ],

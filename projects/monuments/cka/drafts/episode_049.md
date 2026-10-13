@@ -33,7 +33,7 @@
 
 - Artifact Families Introduced: A-1557, A-1558, A-1559, A-1560
 - Claim Range: C-1969–C-1979
-  - New Nodes Introduced: N-597, N-598, N-599, N-10438, N-10439, N-10440
+  - New Nodes Introduced: N-369, N-370, N-371, N-10367, N-10368, N-10369
   - Reused Nodes Appearing: 
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and other previously inscribed entities as applicable
 
@@ -43,7 +43,7 @@
 
 This episode centers on an extended interview with an eyewitness pseudonymized as "Mitch," who claims to have visited Fort Huachuca, Arizona on September 8–9, 2025 – the day before Charlie Kirk was shot – and to have inadvertently stumbled upon a meeting involving individuals he identifies by resemblance as Erika Kirk (N-2), Brian Harpole, and Congressman Mark Amodei. Candace Owens states that she independently corroborated Mitch's physical location at Fort Huachuca during the relevant window via EXIF metadata from an 18-minute video he recorded on base, and via his military ID cards.
 
-Prior to the interview, Owens reads aloud two emails she received: one characterizing Fort Huachuca as an Army Military Intelligence (MIT) training installation, and a second, longer email from former gym owners in Sierra Vista describing a class taught at Fort Huachuca by a man identified as Bruce Bevins (N-598) which allegedly trained military personnel to infiltrate Christian organizations through covert psychological operations. Two corroborating military students are described as recounting overnight deception exercises targeting civilians in Tucson.
+Prior to the interview, Owens reads aloud two emails she received: one characterizing Fort Huachuca as an Army Military Intelligence (MIT) training installation, and a second, longer email from former gym owners in Sierra Vista describing a class taught at Fort Huachuca by a man identified as Bruce Bevins (N-370) which allegedly trained military personnel to infiltrate Christian organizations through covert psychological operations. Two corroborating military students are described as recounting overnight deception exercises targeting civilians in Tucson.
 
 Owens also revisits prior "data points" from earlier episodes – the rooftop eyewitness, the bomb-dog failure to locate the weapon, the federal direction to local officers, the multiple prints on the weapon, and the missing Tyler Robinson surrender footage. These recap points reference artifacts previously inscribed in earlier episodes and are not re-anchored with new artifacts here. A new viewer question regarding black plastic-like fragments visible in photos of Charlie Kirk's SUV interior is also aired and flagged as requiring further analysis.
 
@@ -63,7 +63,7 @@ Video Timestamp: 00:12:00–00:13:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single email, paraphrased on air)
 
-*Related: C-1969, N-10439*
+*Related: C-1969, N-10368*
 
 **A-1557.2** Viewer Email – Gym Owners' Allegations Regarding Bruce Bevins Class on Infiltrating Christian Groups
 
@@ -73,7 +73,7 @@ Video Timestamp: 00:14:48–00:17:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single uncorroborated email, host uses "allegedly" qualifier)
 
-*Related: C-1976, C-1977, N-598, N-10439*
+*Related: C-1976, C-1977, N-370, N-10368*
 
 ---
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:43:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host states metadata confirms location and time)
 
-*Related: C-1971, N-597, N-10438*
+*Related: C-1971, N-369, N-10367*
 
 **A-1558.2** Military ID Card(s) Provided by Witness to Host
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:38:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host confirms receipt)
 
-*Related: C-1971, N-597*
+*Related: C-1971, N-369*
 
 **A-1558.3** Mitch's On-Air Recorded Testimonial Interview
 
@@ -107,7 +107,7 @@ Video Timestamp: 01:07:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full interview segment)
 
-*Related: C-1970, C-1971, C-1972, C-1973, C-1974, C-1975, N-597, N-518, N-10438*
+*Related: C-1970, C-1971, C-1972, C-1973, C-1974, C-1975, N-369, N-326, N-10367*
 
 ---
 
@@ -121,7 +121,7 @@ Video Timestamp: 01:01:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (confirmed shown)
 
-*Related: C-1975, N-599, N-10438*
+*Related: C-1975, N-371, N-10367*
 
 **A-1559.2** Reference Photograph of Brian Harpole Cited as Comparison Image
 
@@ -131,7 +131,7 @@ Video Timestamp: 00:55:09–00:57:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (referenced by witness; shown on screen per witness but display not detailed in transcript)
 
-*Related: C-1974, N-10438*
+*Related: C-1974, N-10367*
 
 **A-1559.3** Reference Photograph of Erika Kirk with Ponytail Cited as Comparison Image
 
@@ -141,7 +141,7 @@ Video Timestamp: 00:57:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (referenced by witness; display not detailed in transcript)
 
-*Related: C-1973, N-2, N-10438*
+*Related: C-1973, N-2, N-10367*
 
 ---
 
@@ -155,7 +155,7 @@ Video Timestamp: 00:01:18–00:03:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (viewer prompt, single source)
 
-*Related: C-1978, N-10440*
+*Related: C-1978, N-10369*
 
 **A-1560.2** Photographs of Charlie Kirk's SUV Interior Showing Black Plastic/Tempered Glass-Like Fragments
 
@@ -165,13 +165,13 @@ Video Timestamp: 00:02:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (displayed on screen but not transcribed; host defers full release)
 
-*Related: C-1978, N-10440*
+*Related: C-1978, N-10369*
 
 ---
 
 ## IV. Node Register
 
-**N-597** Mitch Snow
+**N-369** Mitch Snow
 
 Pseudonymized eyewitness who claims to have visited Fort Huachuca on September 8–9, 2025 and identified multiple individuals by resemblance. Claims 35-year gag order related to 1990 JTF6 drug tunnel discovery. Has provided metadata-verified video and military ID cards to host.
 
@@ -180,11 +180,11 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1558.1, A-1558.2, A-1558.3, C-1970, C-1971, C-1972, C-1973, C-1974, C-1975, N-10438*
+*Related: A-1558.1, A-1558.2, A-1558.3, C-1970, C-1971, C-1972, C-1973, C-1974, C-1975, N-10367*
 
 ---
 
-**N-598** Bruce Bevins
+**N-370** Bruce Bevins
 
 Named in viewer email (A-1557.2) as instructor of a Fort Huachuca class allegedly teaching military personnel to infiltrate Christian organizations through covert psychological operations. Host states she had not heard of this individual prior to receiving the email.
 
@@ -193,11 +193,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1557.2, C-1976, C-1977, N-10439*
+*Related: A-1557.2, C-1976, C-1977, N-10368*
 
 ---
 
-**N-599** Mark Amodei
+**N-371** Mark Amodei
 
 U.S. Congressman (Nevada) whose photograph was shown to "Mitch" during the interview. Witness identified him by resemblance at ~95% confidence as the congressman-type figure seen at Fort Huachuca on September 9, 2025.
 
@@ -206,11 +206,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1559.1, C-1975, N-10438*
+*Related: A-1559.1, C-1975, N-10367*
 
 ---
 
-**N-518** Captain Adam Nef
+**N-326** Captain Adam Nef
 
 U.S. Army captain named by witness "Mitch" as the officer who escorted him out of the JTF building and sat with him on a park bench at Fort Huachuca on September 9, 2025.
 
@@ -219,24 +219,24 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1558.3, C-1972, N-597*
+*Related: A-1558.3, C-1972, N-369*
 
 ---
 
-**N-10438** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
-Persistent investigation target: claimed physical encounter by "Mitch" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erica Kirk), Brian Harpole (see N-10438 related), and Captain Neff (N-518).
+Persistent investigation target: claimed physical encounter by "Mitch" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erica Kirk), Brian Harpole (see N-10367 related), and Captain Neff (N-326).
 
 Evidence Count: 6
 Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1558.1, A-1558.3, A-1559.1, A-1559.2, A-1559.3, C-1971, C-1972, C-1973, C-1974, C-1975, N-2, N-597, N-599, N-518*
+*Related: A-1558.1, A-1558.3, A-1559.1, A-1559.2, A-1559.3, C-1971, C-1972, C-1973, C-1974, C-1975, N-2, N-369, N-371, N-326*
 
 ---
 
-**N-10439** Fort Huachuca Covert Operations Training Allegations (Bruce Bevins Class)
+**N-10368** Fort Huachuca Covert Operations Training Allegations (Bruce Bevins Class)
 
 Persistent investigation target: viewer-email allegation that Fort Huachuca hosted a class teaching military personnel to infiltrate Christian organizations through covert psychological operations, with corroborating student testimony regarding overnight deception exercises in Tucson.
 
@@ -245,11 +245,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1557.1, A-1557.2, C-1969, C-1976, C-1977, N-598*
+*Related: A-1557.1, A-1557.2, C-1969, C-1976, C-1977, N-370*
 
 ---
 
-**N-10440** Charlie Kirk SUV Interior Black Plastic Fragmentation
+**N-10369** Charlie Kirk SUV Interior Black Plastic Fragmentation
 
 Persistent investigation target: viewer-flagged and host-confirmed visual observation of black plastic / tempered-glass-like fragments across the rear floor of Charlie Kirk's SUV in post-shooting photographs.
 
@@ -272,7 +272,7 @@ Claim: Emails received by host state that Fort Huachuca is where U.S. Army soldi
 
 Anchored Artifacts: A-1557.1
 
-Related Nodes: N-10439
+Related Nodes: N-10368
 
 Investigative Direction: Obtain official DoD documentation confirming Fort Huachuca's current training mission and course catalog.
 
@@ -285,7 +285,7 @@ Claim Timestamp: 00:26:10–00:37:00
 Claim: Witness "Mitch" states he was subject to a non-disclosure / gag order of approximately 25–35 years following his involvement in a 1990 JTF6 (10th Mountain Division) mission that located a major cross-border drug tunnel between Douglas, Arizona and Mexico.
 
 Anchored Artifacts: A-1558.3
-Mentions: N-597
+Mentions: N-369
 
 
 Investigative Direction: Review any court filings or legal correspondence referenced by witness; verify his military service record through official channels.
@@ -299,9 +299,9 @@ Claim Timestamp: 00:19:30
 Claim: Witness "Mitch" was physically present at Fort Huachuca on the evening of September 8, 2025 (Candlewood Inn & Suites) and the morning of September 9, 2025 (JTF command building), as verified by host via EXIF metadata from an 18-minute self-recorded video and matching military ID credentials.
 
 Anchored Artifacts: A-1558.1, A-1558.2, A-1558.3
-Mentions: N-597
+Mentions: N-369
 
-Related Nodes: N-10438
+Related Nodes: N-10367
 
 Investigative Direction: Obtain original metadata records; verify hotel reservation records and base entry logs for the named date window.
 
@@ -314,9 +314,9 @@ Claim Timestamp: 00:44:46–00:50:12
 Claim: While at the JTF command building on the morning of September 9, 2025, witness observed a group including a man in a congressman-style suit with flag pin, accompanied by lieutenant colonels, a sergeant major, and civilians, escorted by military personnel. Witness was subsequently surrounded by multiple federal and local law enforcement officers at a park bench outside.
 
 Anchored Artifacts: A-1558.3
-Mentions: N-518, N-597
+Mentions: N-326, N-369
 
-Related Nodes: N-10438
+Related Nodes: N-10367
 
 Investigative Direction: Cross-reference Fort Huachuca visitor logs for September 9, 2025; identify Captain Neff and corroborate encounter.
 
@@ -329,9 +329,9 @@ Claim Timestamp: 00:55:09–00:57:28
 Claim: Witness "Mitch" states that a woman he observed at the Candlewood Inn & Suites lobby on September 8, 2025 with striking blue eyes matched reference photographs of Erika Kirk at 95–99% confidence.
 
 Anchored Artifacts: A-1558.3, A-1559.3
-Mentions: N-2, N-597
+Mentions: N-2, N-369
 
-Related Nodes: N-10438
+Related Nodes: N-10367
 
 Investigative Direction: Obtain independent corroborating surveillance or visitor logs from Candlewood Inn & Suites for September 8, 2025; verify witness's capacity for facial identification.
 
@@ -344,9 +344,9 @@ Claim Timestamp: 00:55:09–00:57:28
 Claim: Witness "Mitch" identified by resemblance (95–99%) the man who walked out of the JTF building on September 9, 2025 as Brian Harpole, citing matching mannerisms, facial features, height, haircut, and gait.
 
 Anchored Artifacts: A-1558.3, A-1559.2
-Mentions: N-597, N-424
+Mentions: N-369, N-272
 
-Related Nodes: N-10438
+Related Nodes: N-10367
 
 Investigative Direction: Verify witness's stated capacity for facial recognition; obtain independent surveillance records from Fort Huachuca for September 9, 2025.
 
@@ -359,9 +359,9 @@ Claim Timestamp: 01:01:18
 Claim: After viewing a reference photograph of Congressman Mark Amodei (R-NV) on air, witness "Mitch" identified him at approximately 95% confidence as the congressman-style figure seen walking closest to him at the JTF building on September 9, 2025.
 
 Anchored Artifacts: A-1558.3, A-1559.1
-Mentions: N-597, N-599
+Mentions: N-369, N-371
 
-Related Nodes: N-10438
+Related Nodes: N-10367
 
 Investigative Direction: Cross-check Congressman Amodei's official schedule and any flights to Arizona on or around September 9, 2025; obtain independent corroboration.
 
@@ -374,9 +374,9 @@ Claim Timestamp: 00:14:48–00:17:53
 Claim: A former gym owner in Sierra Vista states in a viewer email (read verbatim on air) that a distressed female soldier described a class at Fort Huachuca, taught by Bruce Bevins, whose stated objective was to train military personnel to infiltrate Christian groups and organizations through covert psychological operations focused specifically on deceiving Christians.
 
 Anchored Artifacts: A-1557.2
-Mentions: N-598
+Mentions: N-370
 
-Related Nodes: N-10439
+Related Nodes: N-10368
 
 Investigative Direction: Identify Bruce Bevins's official military role and course listings; obtain corroborating testimony from named or additional military students.
 
@@ -389,9 +389,9 @@ Claim Timestamp: 00:16:38–00:17:14
 Claim: Per the same viewer email, two military students (names redacted by host) at the gym described an overnight field training mission in which they practiced deceiving civilians in Tucson – telling lies, maintaining false personas, and avoiding "breaking character" – at bars and public venues, with implications of sexual encounters with targets.
 
 Anchored Artifacts: A-1557.2
-Mentions: N-598
+Mentions: N-370
 
-Related Nodes: N-10439
+Related Nodes: N-10368
 
 Investigative Direction: Identify the two named students (currently redacted) and obtain independent testimony regarding Fort Huachuca field training practices.
 
@@ -406,7 +406,7 @@ Claim: Host confirms visual observation, prompted by viewer email, of black plas
 Anchored Artifacts: A-1560.1, A-1560.2
 Mentions: N-1
 
-Related Nodes: N-10440
+Related Nodes: N-10369
 
 Investigative Direction: Release and forensic-analyze the original high-resolution SUV interior photographs; compare fragments against known materials (phone glass, hard candy, vehicle components).
 
@@ -419,9 +419,9 @@ Claim Timestamp: 00:50:12–00:53:59
 Claim: After his identification of personnel exiting the JTF building, witness "Mitch" was escorted to park benches outside by Captain Neff, where multiple cruisers arrived and officers from different agencies surrounded him; a plainclothes woman (described as possibly Secret Service) directed questioning.
 
 Anchored Artifacts: A-1558.3
-Mentions: N-518, N-597
+Mentions: N-326, N-369
 
-Related Nodes: N-10438
+Related Nodes: N-10367
 
 Investigative Direction: Obtain any contemporaneous bodycam footage or police reports; identify the plainclothes officer and any incident reports generated September 9, 2025.
 
@@ -431,10 +431,10 @@ Investigative Direction: Obtain any contemporaneous bodycam footage or police re
 
 The artifact, node, and claim registers are mutually cross-referenced. Key structural relationships:
 
-- **N-10438 (Fort Huachuca Eyewitness Encounter)** is anchored by artifacts A-1558.1, A-1558.3, A-1559.1, A-1559.2, A-1559.3 and supports claims C-1971 through C-1975 and C-1979.
-- **N-10439 (Bruce Bevins Covert Training Class)** is anchored by A-1557.1 and A-1557.2 and supports claims C-1969, C-1976, and C-1977.
-- **N-10440 (SUV Black Plastic Fragmentation)** is anchored by A-1560.1 and A-1560.2 and supports claim C-1978.
-- **N-597 ("Mitch")** is the central person node, linked to six claims and three artifacts.
+- **N-10367 (Fort Huachuca Eyewitness Encounter)** is anchored by artifacts A-1558.1, A-1558.3, A-1559.1, A-1559.2, A-1559.3 and supports claims C-1971 through C-1975 and C-1979.
+- **N-10368 (Bruce Bevins Covert Training Class)** is anchored by A-1557.1 and A-1557.2 and supports claims C-1969, C-1976, and C-1977.
+- **N-10369 (SUV Black Plastic Fragmentation)** is anchored by A-1560.1 and A-1560.2 and supports claim C-1978.
+- **N-369 ("Mitch")** is the central person node, linked to six claims and three artifacts.
 - **N-2 (Erica Kirk)** and **N-1 (Charlie Kirk)** are reused from prior episodes.
 
 ---

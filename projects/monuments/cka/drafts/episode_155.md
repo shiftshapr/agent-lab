@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 62ace5f4c4f18929f51b3252c3a6d15650b04715f45dfdc7d6bfb067b8b9d7ce
 
 - **Episode Ledger Summary**:
- - New Nodes Introduced: N-11337, N-11338, N-11339, N-11340
- - Reused Nodes Appearing: none (Wave 2: local ids removed), N-949
+ - New Nodes Introduced: N-10847, N-10848, N-10849, N-10850
+ - Reused Nodes Appearing: none (Wave 2: local ids removed), N-581
 
 # Episode Analysis – Bride of Charlie 155
 
@@ -33,7 +33,7 @@
 - Artifact Families Introduced: A-2405, A-2406, A-2407, A-2408, A-2409, A-2410, A-2411, A-2412, A-2413, A-2414, A-2415
 - Claim Range: C-3513 – C-3530
 - New Nodes Introduced (people): none (Wave 2: local ids removed)
-- New Nodes Introduced (investigation targets): N-11337, N-11338, N-11339, N-11340
+- New Nodes Introduced (investigation targets): N-10847, N-10848, N-10849, N-10850
 - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk, N-3 Candace Owens, N-? Tyler Robinson, N-? David Hull, N-? Agent Mortensson, N-? Officer Go forth, N-? Miss Noble, N-? Lance (Robinson's boyfriend), N-? Tucker Carlson, N-? Mikey McCoy, N-? Brett Cooper, N-? Frank Turk, N-? Andrew Kolvit (transcript variant: "Kulevit")
 
 ---
@@ -168,7 +168,7 @@ Video Timestamp: 00:11:33–00:13:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3526, N-11337, N-11338, N-11340*
+*Related: C-3526, N-10847, N-10848, N-10850*
 
 **A-2413.2** TMZ surveillance footage timestamped 8:07 AM showing Tyler Robinson walking toward the UVU campus (already parked off campus)
 
@@ -189,7 +189,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced but not shown in this episode
 
-*Related: C-3524, C-3525, N-11337, N-11340*
+*Related: C-3524, C-3525, N-10847, N-10850*
 
 ---
 
@@ -204,7 +204,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced but not shown in this episode
 
-*Related: C-3528, C-3529, N-11338*
+*Related: C-3528, C-3529, N-10848*
 
 ---
 
@@ -219,7 +219,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced but not shown in this episode
 
-*Related: C-3529, N-11338*
+*Related: C-3529, N-10848*
 
 ---
 
@@ -236,7 +236,7 @@ Confidence: medium
 
 ## IV. Node Register
 
-**N-11337** "Waluigi" Unknown Driver
+**N-10847** "Waluigi" Unknown Driver
 
 Code name assigned by the host to the unidentified operator of the second grey Dodge Challenger observed in the UVU admin/admissions lot; distinguished from the "Maroon Boy." Height and clothing shape stated as identifying traits; identity not established.
 
@@ -245,11 +245,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2413.1, A-2413.3, C-3524, C-3525, C-3526, N-11340*
+*Related: A-2413.1, A-2413.3, C-3524, C-3525, C-3526, N-10850*
 
 ---
 
-**N-11338** Sept 15 Search Warrant vs Preliminary Hearing Narrative Shift
+**N-10848** Sept 15 Search Warrant vs Preliminary Hearing Narrative Shift
 
 Persistent inconsistency between the Sept 15 search warrant narrative (Robinson visits wooded area 8:28–9:24 AM; visits parking-garage top first) and Agent Hull's preliminary-hearing testimony (omits top-of-structure stop; rearranges on-campus activity order).
 
@@ -262,7 +262,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11339** Woodbury Building / Baugh Family / N88 Plane Connection Question
+**N-10849** Woodbury Building / Baugh Family / N88 Plane Connection Question
 
 Investigative target concerning the relationships between (a) the Baugh family's $5M UVU donation, (b) the Woodbury Business Building, (c) the Baughs' partial ownership of the N88 plane alongside Chellain and Derek Maxfield, and (d) the placement of the Baugh entrepreneurship program in the Woodbury building. No displayed source artifact in this episode.
 
@@ -275,7 +275,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-11340** Two Grey Dodge Challengers Discrepancy
+**N-10850** Two Grey Dodge Challengers Discrepancy
 
 Persistent question concerning the simultaneous presence of two grey Dodge Challengers on UVU campus within ~20 minutes of one another on Sept 10, with the host assigning separate code names to the operators ("Maroon Boy" / "Waluigi") and stating no unified prosecution narrative accounts for both vehicles.
 
@@ -284,7 +284,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2413.1, A-2413.3, C-3524, C-3525, C-3526, N-11337*
+*Related: A-2413.1, A-2413.3, C-3524, C-3525, C-3526, N-10847*
 
 ---
 
@@ -297,7 +297,7 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: Blake Neff and Jeremy Boring released promotional photo and audio/video promo clip announcing a joint podcast sitdown.
 
 Anchored Artifacts: A-2405.1, A-2407.1
-Mentions: N-224
+Mentions: N-162
 
 Related Nodes:
 
@@ -312,7 +312,7 @@ Claim Timestamp: 00:33:23–00:36:12
 Claim: Bobby Saucelito predicted, prior to release, that the Neff/Boring podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erica Kirk, Mikey McCoy, Frank Turk), and calls for lawsuits/jail time against the host.
 
 Anchored Artifacts: A-2406.1
-Mentions: N-50, N-3, N-272, N-2, N-16
+Mentions: N-22, N-3, N-194, N-2, N-7
 
 Related Nodes:
 
@@ -341,7 +341,7 @@ Claim Timestamp: 00:36:51–00:37:44
 Claim: In the Neff/Boring promo clip, Blake Neff stated that Candace Owens is a "malicious, hateful, dishonest, destructive actor in American life."
 
 Anchored Artifacts: A-2407.1
-Mentions: N-3, N-224
+Mentions: N-3, N-162
 
 Related Nodes:
 
@@ -356,7 +356,7 @@ Claim Timestamp: 00:36:51–00:37:44
 Claim: In the Neff/Boring promo clip, Blake Neff stated that Candace Owens "wants the person who killed Charlie to get away with it."
 
 Anchored Artifacts: A-2407.1
-Mentions: N-3, N-224
+Mentions: N-3, N-162
 
 Related Nodes:
 
@@ -371,7 +371,7 @@ Claim Timestamp: 00:36:51–00:37:44
 Claim: In the Neff/Boring promo clip, Blake Neff stated that Tucker Carlson "has extended maximum grace to Candace Owens."
 
 Anchored Artifacts: A-2407.1
-Mentions: N-50, N-3, N-224
+Mentions: N-22, N-3, N-162
 
 Related Nodes:
 
@@ -401,7 +401,7 @@ Claim Timestamp: 00:42:43
 Claim: Laura Loomer posted on X that the Save America Act would not pass before midterms and projected poor GOP midterm outcomes.
 
 Anchored Artifacts: A-2409.1
-Mentions: N-91
+Mentions: N-60
 
 Related Nodes:
 
@@ -460,7 +460,7 @@ Claim: Two separate grey Dodge Challengers arrived on the UVU campus within appr
 
 Anchored Artifacts: A-2413.3
 
-Related Nodes: N-11337, N-11340
+Related Nodes: N-10847, N-10850
 
 Investigative Direction: Obtain parking-garage entry/exit logs and timestamped surveillance footage to independently verify the arrivals of two distinct grey Challengers.
 
@@ -474,7 +474,7 @@ Claim: The driver of the second grey Dodge Challenger (code-named "Waluigi") mad
 
 Anchored Artifacts: A-2413.3
 
-Related Nodes: N-11337, N-11340
+Related Nodes: N-10847, N-10850
 
 Investigative Direction: Obtain the original admin-lot surveillance footage to verify the number of attempts and any identifying characteristics of the driver.
 
@@ -488,7 +488,7 @@ Claim: The grey Dodge Challenger associated with the "Maroon Boy" was driven to 
 
 Anchored Artifacts: A-2413.1
 
-Related Nodes: N-11337, N-11340
+Related Nodes: N-10847, N-10850
 
 Investigative Direction: Obtain the full top-of-structure surveillance footage to verify the eight-minute duration and any subject activity during that window.
 
@@ -501,7 +501,7 @@ Claim Timestamp: 00:14:44
 Claim: TMZ surveillance footage timestamped 8:07 AM on Sept 10 shows Tyler Robinson walking toward the UVU campus, indicating he was already parked off campus at that time.
 
 Anchored Artifacts: A-2413.2
-Mentions: N-69
+Mentions: N-40
 
 Related Nodes:
 
@@ -517,7 +517,7 @@ Claim: The September 15 search warrant narrative (attributed to Agent Mortensson
 
 Anchored Artifacts: A-2414.1
 
-Related Nodes: N-11338
+Related Nodes: N-10848
 
 Investigative Direction: Obtain the actual Sept 15 search warrant filing to verify the quoted language and its full surrounding narrative.
 
@@ -530,9 +530,9 @@ Claim Timestamp: 00:19:42–00:21:12
 Claim: Agent David Hull's preliminary hearing testimony presented a campus timeline in which the "Maroon Boy" interacts with a TPUSA representative, departs, and returns on foot – omitting the approximately 8-minute top-of-structure stop and the 8:28–9:24 AM wooded-area visit described in the Sept 15 warrant.
 
 Anchored Artifacts: A-2414.1, A-2415.1
-Mentions: N-949
+Mentions: N-581
 
-Related Nodes: N-11338
+Related Nodes: N-10848
 
 Investigative Direction: Obtain the preliminary hearing transcript and audio/video to verify the specific omissions and re-orderings between the warrant narrative and Hull's testimony.
 
@@ -546,7 +546,7 @@ Claim: Neighbor Miss Noble and her husband reported observing a Dodge Challenger
 
 Anchored Artifacts: (no displayed artifact in this episode; assertion referenced from prior reporting)
 
-Related Nodes: N-11340
+Related Nodes: N-10850
 
 Investigative Direction: Obtain Miss Noble's interview transcript, witness statement, or sworn testimony to verify exact wording and to determine whether the Dodge Challenger identification was confirmed via plate or visual match.
 
@@ -604,7 +604,7 @@ Confidence: high
 - **Name uncertainty:** "Andrew Kolvit" appears as "Andrew Kulevit" / "Kulvit" at varying points. Preserved as transcribed.
 - **Artifact verbally referenced but not shown:** A-2413.3 (Waluigi admin-lot footage), A-2414.1 (Sept 15 search warrant), A-2415.1 (Hull preliminary-hearing testimony) – none displayed in this episode; described by host.
 - **Claim failed admission test:** C-3530 (Miss Noble testimony) retained with explicit anchor-test flag and verification direction; the claim depends on prior-episode reporting rather than a displayed artifact in this episode.
-- **Host-stated research without displayed source artifact:** The Baugh family / UVU donation / N88 plane / Woodbury Building cluster is presented by the host from her own research/notes without a specific displayed source. Nodes,, and N-11339 are inscribed for tracking, but no claim is inscribed on the basis of this material until an artifact anchor is introduced.
+- **Host-stated research without displayed source artifact:** The Baugh family / UVU donation / N88 plane / Woodbury Building cluster is presented by the host from her own research/notes without a specific displayed source. Nodes,, and N-10849 are inscribed for tracking, but no claim is inscribed on the basis of this material until an artifact anchor is introduced.
 - **Transcript ambiguity:** Timestamps for the X posts (A-2408.1, A-2409.1, A-2410.1, A-2411.1) and the JD Vance clip (A-2412.1) are described as "approximate, prior to broadcast" – original posting/publication dates not stated on air.
 - **Transcript ambiguity:** The preliminary-hearing date for Hull's testimony (A-2415.1) is not specified in the transcript; a year-range date ("2025") is recorded as a placeholder.
 - **Requires human verification:** Spelling normalization for "Blake Neff," "Erica/Erika Kirk," and "Officer Go forth/Goforth" against authoritative sources.

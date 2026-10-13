@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 7b329950d516234dfe924015e2ae2ceece2c1cacc9476909544e66ce23744a8b
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-903, N-10563, N-10564, N-10565, N-10566, N-10567
+  - New Nodes Introduced: N-563, N-10492, N-10493, N-10494, N-10495, N-10496
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:24:02–00:28:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2319, C-2320, C-2321, C-2322, N-903, N-789, N-10563*
+*Related: C-2319, C-2320, C-2321, C-2322, N-563, N-504, N-10492*
 
 ---
 
@@ -130,7 +130,7 @@ Video Timestamp: 00:33:22–00:35:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2323, C-2324, N-443, N-2*
+*Related: C-2323, C-2324, N-283, N-2*
 
 ---
 
@@ -144,13 +144,13 @@ Video Timestamp: 00:35:13–00:36:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2325, N-10563*
+*Related: C-2325, N-10492*
 
 ---
 
 ## 4. Node Register
 
-**N-903** Aubrey Lech
+**N-563** Aubrey Lech
 
 Former TPUSA public relations manager; spoke publicly about termination process in self-published video. Artifact-backed person new to the series record.
 
@@ -159,9 +159,9 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1747.1, C-2319, C-2320, C-2321, C-2322, N-789, N-10563*
+*Related: A-1747.1, C-2319, C-2320, C-2321, C-2322, N-504, N-10492*
 
-**N-789** Marina (TPUSA CMO)
+**N-504** Marina (TPUSA CMO)
 
 Identified on-air as CMO of Turning Point USA; named by Aubrey Lech as present at her termination meeting.
 
@@ -170,9 +170,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1747.1, C-2322, N-903*
+*Related: A-1747.1, C-2322, N-563*
 
-**N-443** Tim Dillon
+**N-283** Tim Dillon
 
 Comedian / podcaster; artifact-backed on-air clip commenting on Erika Kirk and political performance.
 
@@ -183,7 +183,7 @@ Investigative Pressure: Low
 
 *Related: A-1748.1, C-2323, C-2324, N-2*
 
-**N-10563** TPUSA Post-Charlie Loyalty-Test Termination Pattern
+**N-10492** TPUSA Post-Charlie Loyalty-Test Termination Pattern
 
 Persistent investigative target: alleged practice of terminating TPUSA staff on the basis of third-party hearsay (e.g., Uber driver conversation) and suspected narrative-dissent.
 
@@ -192,9 +192,9 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1747.1, A-1749.1, C-2320, C-2321, C-2322, C-2325, N-903, N-789*
+*Related: A-1747.1, A-1749.1, C-2320, C-2321, C-2322, C-2325, N-563, N-504*
 
-**N-10564** Pierre / French Donor Investigation
+**N-10493** Pierre / French Donor Investigation
 
 Unconfirmed French individual, alleged by host to have committed "billions" to Turning Point USA after Charlie Kirk's death and to have known of the death before the public; identity and provenance not artifact-anchored in this episode.
 
@@ -203,9 +203,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High (host-flagged, unverified)
 
-*Related: N-2, N-10565*
+*Related: N-2, N-10494*
 
-**N-10565** Erika Kirk September 10 Morning Itinerary Discrepancy
+**N-10494** Erika Kirk September 10 Morning Itinerary Discrepancy
 
 Discrepancy between Erika's stated post-Utah-flight sequence (Jesse Watters interview) and host's alleged contradictory evidence regarding her whereabouts on the morning of 2025-09-10.
 
@@ -216,7 +216,7 @@ Investigative Pressure: Medium
 
 *Related: A-1746.2, C-2318, N-2*
 
-**N-10566** BB Netanyahu Hamptons Dinner Allegation
+**N-10495** BB Netanyahu Hamptons Dinner Allegation
 
 Host allegation that BB Netanyahu hosted a dinner Charlie attended in the Hamptons and was turned down regarding "taking Turning Point USA to the next level"; sourced only to host and to Andrew Kolvet-as-told-to-host, not to an artifact displayed in this episode.
 
@@ -227,7 +227,7 @@ Investigative Pressure: Medium (host-flagged, unverified)
 
 *Related: N-1, N-2*
 
-**N-10567** Egyptian Planes Investigation
+**N-10496** Egyptian Planes Investigation
 
 Host-raised investigative target referencing "Egyptian planes" that allegedly departed Delaware; no artifact anchor in this episode.
 
@@ -236,7 +236,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low (host-flagged, unverified)
 
-*Related: N-10565*
+*Related: N-10494*
 
 ---
 
@@ -279,7 +279,7 @@ Claim Timestamp: 00:12:11–00:12:25
 Claim: The Jesse Watters interview segment read aloud on air contains Erika Kirk stating she wanted Charlie to have a good night's sleep and sent him to sleep in his daughter's room.
 
 Anchored Artifacts: A-1746.1
-Mentions: N-1, N-2, N-313
+Mentions: N-1, N-2, N-215
 Investigative Direction: Locate unedited Watters interview footage and confirm the bedroom-arrangement quote.
 
 **C-2318** Erika told Jesse Watters she landed in Utah and went straight to the hospital
@@ -289,8 +289,8 @@ Claim Timestamp: 00:19:42–00:20:30
 Claim: The Jesse Watters interview segment read aloud on air contains Erika Kirk stating that after landing in Utah, she went straight to the hospital.
 
 Anchored Artifacts: A-1746.2
-Mentions: N-2, N-313
-Related Nodes: N-10565
+Mentions: N-2, N-215
+Related Nodes: N-10494
 Investigative Direction: Cross-check flight manifests, tarmac timing, and Andrew Kolvet's stated arrival sequence against the Watters account.
 
 **C-2319** Aubrey Lech publicly identified herself as former TPUSA PR manager, recently terminated
@@ -300,7 +300,7 @@ Claim Timestamp: 00:24:02–00:28:28
 Claim: Aubrey Lech's self-published video identifies her as the former public relations manager for Turning Point USA, employed since 2021, working through America Fest in December 2025, and terminated approximately three weeks prior to posting.
 
 Anchored Artifacts: A-1747.1
-Mentions: N-903
+Mentions: N-563
 Investigative Direction: Verify Lech's employment dates and termination date via TPUSA / ATK records.
 
 **C-2320** Aubrey Lech stated termination meeting involved Uber-driver conversation
@@ -310,8 +310,8 @@ Claim Timestamp: 00:24:02–00:28:28
 Claim: Aubrey Lech's video states she was brought into a meeting with Andrew Kolvet and Marina Munz and questioned about an Uber ride in which a Turning Point executive's driver allegedly relayed statements attributed to "Aubrey."
 
 Anchored Artifacts: A-1747.1
-Mentions: N-789, N-903, N-42
-Related Nodes: N-10563
+Mentions: N-504, N-563, N-14
+Related Nodes: N-10492
 Investigative Direction: Identify the Turning Point executive referenced in the Uber driver conversation; verify whether the conversation occurred as described.
 
 **C-2321** Aubrey Lech expressed belief termination was retaliation for narrative-dissent
@@ -321,8 +321,8 @@ Claim Timestamp: 00:24:02–00:28:28
 Claim: Aubrey Lech's video states her personal belief that she was terminated because she was questioning the official narrative regarding Charlie Kirk's death, and that questioning the narrative is incompatible with continued TPUSA employment.
 
 Anchored Artifacts: A-1747.1
-Mentions: N-903, N-1
-Related Nodes: N-10563
+Mentions: N-563, N-1
+Related Nodes: N-10492
 Investigative Direction: Compare the stated termination rationale (Uber-driver hearsay) against Lech's stated belief; seek additional former-employee testimony.
 
 **C-2322** Aubrey Lech video names Andrew Kolvet and Marina Munz at termination meeting
@@ -332,7 +332,7 @@ Claim Timestamp: 00:24:02–00:28:28
 Claim: Aubrey Lech's video names Andrew Kolvet (described as her employer via ATK) and Marina Munz (CMO of Turning Point USA) as the two people present at her termination meeting.
 
 Anchored Artifacts: A-1747.1
-Mentions: N-789, N-903, N-42
+Mentions: N-504, N-563, N-14
 Investigative Direction: Verify Marina Munz's title and organizational role via TPUSA public records.
 
 **C-2323** Tim Dillon clip describes political performance as "fake"
@@ -342,7 +342,7 @@ Claim Timestamp: 00:33:22–00:35:00
 Claim: The Tim Dillon clip played on air contains the statement that political positioning by tech figures is "performative" and that "everything is fake," including free-speech actors who once criticized and now shut down free speech.
 
 Anchored Artifacts: A-1748.1
-Mentions: N-443
+Mentions: N-283
 Investigative Direction: Identify the source episode of the Dillon clip and capture the full surrounding context.
 
 **C-2324** Tim Dillon clip names Erika Kirk as "the only person I trust"
@@ -352,7 +352,7 @@ Claim Timestamp: 00:33:22–00:35:00
 Claim: The Tim Dillon clip played on air contains the line, delivered sarcastically per host framing, naming Erika Kirk as "the only person I trust" in the current moment.
 
 Anchored Artifacts: A-1748.1
-Mentions: N-2, N-443
+Mentions: N-2, N-283
 Investigative Direction: Locate the unedited Dillon segment to determine whether the Erika line was delivered sarcastically, earnestly, or in mixed register.
 
 **C-2325** Host references Purge Fallout GoFundMe supporting fired TPUSA employees
@@ -362,7 +362,7 @@ Claim Timestamp: 00:35:13–00:36:03
 Claim: The host describes an active GoFundMe campaign titled "Purge Fallout Fund" supporting approximately eight former Turning Point USA employees who were terminated without explanation after working through America Fest.
 
 Anchored Artifacts: A-1749.1
-Related Nodes: N-10563
+Related Nodes: N-10492
 Investigative Direction: Verify the GoFundMe campaign directly; identify the eight named beneficiaries; confirm termination circumstances for each.
 
 ---

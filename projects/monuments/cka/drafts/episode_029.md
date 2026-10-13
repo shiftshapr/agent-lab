@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: f464e8e712994efb56bee93a7c7a23da86a3df5028517114a2bdb3d80e5688a8
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-363, N-364, N-365, N-366, N-367, N-370, N-371, N-373, N-374, N-376, N-10309, N-10310, N-10311, N-10312
+  - New Nodes Introduced: N-241, N-242, N-243, N-244, N-245, N-246, N-247, N-248, N-249, N-250, N-10239, N-10240, N-10241, N-10242
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -34,8 +34,8 @@
 **Episode 29 Ledger Summary**
 - Artifact Families Introduced: A-1364, A-1365, A-1366, A-1367, A-1368, A-1369, A-1370, A-1371, A-1372, A-1373, A-1374, A-1375, A-1376, A-1377, A-1378 (15 families)
 - Claim Range: C-1652 – C-1666 (15 claims)
-- New Person Nodes: N-363, N-364, N-365, N-366, N-367, N-16, N-67, N-370, N-371, N-349, N-373, N-374, N-50, N-376 (14 people)
-- New Investigation Target Nodes: N-10309, N-10310, N-10311, N-10312 (4 targets)
+- New Person Nodes: N-241, N-242, N-243, N-244, N-245, N-7, N-38, N-246, N-247, N-232, N-248, N-249, N-22, N-250 (14 people)
+- New Investigation Target Nodes: N-10239, N-10240, N-10241, N-10242 (4 targets)
 - Existing Nodes Reused: N-1 (Charlie Kirk)
 
 ---
@@ -62,7 +62,7 @@ Video Timestamp: 00:12:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1652, N-367*
+*Related: C-1652, N-245*
 
 **A-1365** Lance Wallnau Seven Mountains Audio Bundle
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:13:31–00:14:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1653, N-367*
+*Related: C-1653, N-245*
 
 **A-1366** Frank Turek NAR Critique Audio Bundle
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:18:06–00:18:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1654, N-16*
+*Related: C-1654, N-7*
 
 **A-1367** Glenn Beck / Steve Baker Interview Bundle
 
@@ -98,7 +98,7 @@ Video Timestamp: 00:08:09–00:09:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (audio played)
 
-*Related: C-1655, N-363, N-364, N-365, N-10311*
+*Related: C-1655, N-241, N-242, N-243, N-10241*
 
 **A-1368** CIA Spokesperson Statement Bundle
 
@@ -110,7 +110,7 @@ Video Timestamp: 00:10:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (relayed via host; not directly displayed)
 
-*Related: C-1656, N-365, N-366, N-10311*
+*Related: C-1656, N-243, N-244, N-10241*
 
 **A-1369** Frank McCormick X Post Bundle
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:30:25–00:31:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1657, N-371*
+*Related: C-1657, N-247*
 
 **A-1370** Charlie Kirk Text Message Bundle
 
@@ -146,7 +146,7 @@ Video Timestamp: 00:28:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1659, N-67*
+*Related: C-1659, N-38*
 
 **A-1372** Joel Berry Babylon Bee Tweet Bundle
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:29:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1660, N-370*
+*Related: C-1660, N-246*
 
 **A-1373** Grok X Statement Bundle
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:36:53–00:37:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1661, N-373*
+*Related: C-1661, N-248*
 
 **A-1374** Allie Beth Stuckey Audio Clip Bundle
 
@@ -182,7 +182,7 @@ Video Timestamp: 00:33:55–00:34:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (audio played)
 
-*Related: C-1662, N-349*
+*Related: C-1662, N-232*
 
 **A-1375** Mark Levin Audio Clip Bundle
 
@@ -194,7 +194,7 @@ Video Timestamp: 00:39:10–00:41:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-1663, N-374, N-50*
+*Related: C-1663, N-249, N-22*
 
 **A-1376** Keri Smith Deprogrammed Audio Clip Bundle
 
@@ -206,7 +206,7 @@ Video Timestamp: 00:44:50–00:46:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-1664, N-376*
+*Related: C-1664, N-250*
 
 **A-1377** BBC Borderline Article Bundle
 
@@ -218,7 +218,7 @@ Video Timestamp: 00:23:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (headline referenced; full article not shown)
 
-*Related: C-1665, N-10310*
+*Related: C-1665, N-10240*
 
 **A-1378** Timpanogos Tip Bundle
 
@@ -230,7 +230,7 @@ Video Timestamp: 00:01:46–00:03:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (anonymous tip; unverified)
 
-*Related: C-1666, N-10309*
+*Related: C-1666, N-10239*
 
 ---
 
@@ -238,7 +238,7 @@ Confidence Level: Low (anonymous tip; unverified)
 
 ### Person Nodes
 
-**N-363** Steve Baker
+**N-241** Steve Baker
 
 Reporter / editor credited with the five-year investigation identifying the alleged January 6 pipe-bomb dropper.
 
@@ -249,7 +249,7 @@ Investigative Pressure: Medium
 
 *Related: A-1367.1, C-1655*
 
-**N-364** Glenn Beck
+**N-242** Glenn Beck
 
 Host of the broadcast where Steve Baker's pipe-bomb findings were aired and played in this episode.
 
@@ -260,7 +260,7 @@ Investigative Pressure: Low
 
 *Related: A-1367.1, C-1655*
 
-**N-365** Shauni Kerkhoff
+**N-243** Shauni Kerkhoff
 
 Person identified by Steve Baker (as "Kirkup") and by CIA spokesperson Liz Lyons (as "Kirkhoff") in connection with the January 6 pipe bombs; spelling discrepancy is preserved.
 
@@ -269,9 +269,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1367.1, A-1368.1, C-1655, C-1656, N-10311*
+*Related: A-1367.1, A-1368.1, C-1655, C-1656, N-10241*
 
-**N-366** Liz Lyons
+**N-244** Liz Lyons
 
 CIA spokeswoman cited in the episode as the source of the statement on Capitol Police Campus Security employment.
 
@@ -282,7 +282,7 @@ Investigative Pressure: Low
 
 *Related: A-1368.1, C-1656*
 
-**N-367** Lance Wallnau
+**N-245** Lance Wallnau
 
 NAR preacher; proponent of the seven mountain mandate; alleged (via anonymous Turning Point sources) to have directed funds into Turning Point USA Faith.
 
@@ -291,9 +291,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1364.1, A-1365.1, C-1652, C-1653, N-10312*
+*Related: A-1364.1, A-1365.1, C-1652, C-1653, N-10242*
 
-**N-16** Frank Turek
+**N-7** Frank Turek
 
 Christian apologist whose audio clip on NAR was played in the episode.
 
@@ -304,7 +304,7 @@ Investigative Pressure: Low
 
 *Related: A-1366.1, C-1654*
 
-**N-67** Seth Dillon
+**N-38** Seth Dillon
 
 Babylon Bee principal whose tweet quoting Matthew 16:26 was read aloud in the episode.
 
@@ -315,7 +315,7 @@ Investigative Pressure: Low
 
 *Related: A-1371.1, C-1659*
 
-**N-370** Joel Berry
+**N-246** Joel Berry
 
 Babylon Bee writer whose tweet criticizing Candace/Tucker was read aloud in the episode.
 
@@ -326,7 +326,7 @@ Investigative Pressure: Low
 
 *Related: A-1372.1, C-1660*
 
-**N-371** Frank McCormick
+**N-247** Frank McCormick
 
 X user who posted the AI-analysis claim challenging the authenticity of the Charlie Kirk text messages.
 
@@ -337,7 +337,7 @@ Investigative Pressure: Low
 
 *Related: A-1369.1, C-1657*
 
-**N-349** Allie Beth Stuckey
+**N-232** Allie Beth Stuckey
 
 Commentator whose audio clip warning against asking questions without "hard evidence" was played in the episode.
 
@@ -348,7 +348,7 @@ Investigative Pressure: Low
 
 *Related: A-1374.1, C-1662*
 
-**N-373** Grok
+**N-248** Grok
 
 X platform AI whose public statement about Candace/TPUSA/Marcus Hale was read aloud in the episode.
 
@@ -359,7 +359,7 @@ Investigative Pressure: Low
 
 *Related: A-1373.1, C-1661*
 
-**N-374** Mark Levin
+**N-249** Mark Levin
 
 Radio host whose on-air response declining Tucker Carlson's debate request was played in the episode.
 
@@ -370,7 +370,7 @@ Investigative Pressure: Low
 
 *Related: A-1375.1, C-1663*
 
-**N-50** Tucker Carlson
+**N-22** Tucker Carlson
 
 Host identified as the sender of the debate-offer text message to Mark Levin and central subject of the Levin's on-air rebuttal.
 
@@ -381,7 +381,7 @@ Investigative Pressure: Low
 
 *Related: A-1375.1, C-1663*
 
-**N-376** Keri Smith
+**N-250** Keri Smith
 
 Host of the Deprogrammed podcast whose audio characterizing Candace Owens as exhibiting "cult tactics" and "cluster B personality disorder behavior" was played in the episode.
 
@@ -394,7 +394,7 @@ Investigative Pressure: Low
 
 ### Investigation Target Nodes
 
-**N-10309** Timpanogos Hospital Footage Seizure Verification
+**N-10239** Timpanogos Hospital Footage Seizure Verification
 
 Persistent claim (host-relayed, tip-sourced) that federal agents seized hospital footage at Timpanogos on the day of the Kirk shooting; not independently corroborated in this episode.
 
@@ -405,7 +405,7 @@ Investigative Pressure: Medium
 
 *Related: A-1378.1, C-1666*
 
-**N-10310** Borderline Bar Las Vegas Survivor Pattern
+**N-10240** Borderline Bar Las Vegas Survivor Pattern
 
 Host-asserted pattern linking the November 2018 Borderline Bar & Grill shooting (with a Las Vegas survivor among the dead) to the prior 2017 Las Vegas shooting and to Rob McCoy's subsequent election as Thousand Oaks mayor.
 
@@ -416,7 +416,7 @@ Investigative Pressure: Low
 
 *Related: A-1377.1, C-1665*
 
-**N-10311** Shawnie Ray Kirkup / Kirkhoff Identity Verification
+**N-10241** Shawnie Ray Kirkup / Kirkhoff Identity Verification
 
 Persistent discrepancy in the episode between the spelling "Kirkup" (Steve Baker, via Glenn Beck audio) and "Kirkhoff" (CIA spokesperson Liz Lyons); preservation target for cross-source verification.
 
@@ -425,9 +425,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1367.1, A-1368.1, C-1655, C-1656, N-365*
+*Related: A-1367.1, A-1368.1, C-1655, C-1656, N-243*
 
-**N-10312** Seven Mountain Mandate / NAR Influence on TPUSA Faith
+**N-10242** Seven Mountain Mandate / NAR Influence on TPUSA Faith
 
 Persistent investigable claim that NAR figures (notably Lance Wallnau) influenced and funded Turning Point USA Faith operations, and that this represents a broader "faith-military constellation" with infiltration doctrine.
 
@@ -436,7 +436,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1364.1, A-1365.1, C-1652, C-1653, N-367*
+*Related: A-1364.1, A-1365.1, C-1652, C-1653, N-245*
 
 ---
 
@@ -449,9 +449,9 @@ Claim Timestamp: 00:12:07
 Claim: A Facebook post by Lance Wallnau dated November 6, 2020 was read aloud in the episode and stated: "We're going to expose the fraud and stop the steal. The Lord our God is with us, and we were built for this battle. Be strong and courageous."
 
 Anchored Artifacts: A-1364.1
-Mentions: N-367
+Mentions: N-245
 
-Related Nodes: N-10312
+Related Nodes: N-10242
 
 Investigative Direction: Retrieve and verify the original Facebook post via archive (e.g., Wayback Machine) or screenshot.
 
@@ -462,9 +462,9 @@ Claim Timestamp: 00:13:31–00:14:22
 Claim: In an audio clip played on the episode, Lance Wallnau defined the seven mountain mandate as covering religion, education, family, government, media, art/entertainment, and business/economics, and described pursuing it either "covert" or "overt."
 
 Anchored Artifacts: A-1365.1
-Mentions: N-367
+Mentions: N-245
 
-Related Nodes: N-10312
+Related Nodes: N-10242
 
 Investigative Direction: Retrieve the full source video to verify exact wording, context, and date.
 
@@ -475,7 +475,7 @@ Claim Timestamp: 00:18:06–00:18:30
 Claim: In an audio clip played on the episode, Frank Turek described the New Apostolic Reformation as having an "aberrant" hermeneutic and being "more occult-like than Christian," and characterized NAR as "darker than a cult."
 
 Anchored Artifacts: A-1366.1
-Mentions: N-16
+Mentions: N-7
 
 
 Investigative Direction: Retrieve the full source audio/podcast to verify exact wording and full context.
@@ -487,9 +487,9 @@ Claim Timestamp: 00:08:09–00:09:40
 Claim: Reporter Steve Baker, interviewed on Glenn Beck's program and played in the episode, stated that a 31-year-old United States Capitol Police officer named Shawnie Ray Kirkup was identified as the person who dropped off the January 6 pipe bombs, and that this was a five-year forensic investigation.
 
 Anchored Artifacts: A-1367.1
-Mentions: N-363, N-364, N-365
+Mentions: N-241, N-242, N-243
 
-Related Nodes: N-10311
+Related Nodes: N-10241
 
 Investigative Direction: Verify against federal charging documents, the Glenn Beck broadcast archive, and Steve Baker's contemporaneous reporting.
 
@@ -500,9 +500,9 @@ Claim Timestamp: 00:10:32
 Claim: CIA spokeswoman Liz Lyons, as relayed by the host, stated that "Shawnie Kirkhoff" worked in Capitol Police Campus Security and lived in Alexandria, Virginia.
 
 Anchored Artifacts: A-1368.1
-Mentions: N-365, N-366
+Mentions: N-243, N-244
 
-Related Nodes: N-10311
+Related Nodes: N-10241
 
 Investigative Direction: Retrieve the original CIA press statement or statement of record to verify wording and confirm whether "Kirkhoff" and "Kirkup" refer to the same individual.
 
@@ -513,7 +513,7 @@ Claim Timestamp: 00:30:25–00:31:24
 Claim: Frank McCormick posted on X that AI analysis of bubble design, profile placement, header layout, font, spacing, and color balance of the Charlie Kirk text messages displayed by Candace Owens concluded the messages were "digitally fabricated."
 
 Anchored Artifacts: A-1369.1
-Mentions: N-371, N-3, N-1
+Mentions: N-247, N-3, N-1
 
 
 Investigative Direction: Retrieve the original X post and the underlying AI analysis to assess methodology and reliability.
@@ -537,7 +537,7 @@ Claim Timestamp: 00:28:07
 Claim: Seth Dillon (Babylon Bee) tweeted the Matthew 16:26 verse ("what do you benefit if you gain the whole world but lose your own soul") in response to Candace Owens' podcast hitting number one globally.
 
 Anchored Artifacts: A-1371.1
-Mentions: N-67, N-3
+Mentions: N-38, N-3
 
 
 Investigative Direction: Retrieve and verify the original tweet on Seth Dillon's X account.
@@ -549,7 +549,7 @@ Claim Timestamp: 00:29:06
 Claim: Joel Berry (Babylon Bee) tweeted that in the last year Candace and Tucker had given "our side nothing but demoralization, division, confusion, and conflict," calling their impact "devastating" and "pathetic."
 
 Anchored Artifacts: A-1372.1
-Mentions: N-370
+Mentions: N-246
 
 
 Investigative Direction: Retrieve and verify the original tweet on Joel Berry's X account.
@@ -561,7 +561,7 @@ Claim Timestamp: 00:36:53–00:37:53
 Claim: Grok (X AI) issued a public statement read aloud in the episode claiming that "Candace Owens accused Turning Point USA of Charlie Kirk assassination role" and that she alleged TPUSA orchestrated the October 15, 2025 assassination via former volunteer Marcus Hale.
 
 Anchored Artifacts: A-1373.1
-Mentions: N-373, N-3, N-1
+Mentions: N-248, N-3, N-1
 
 
 Investigative Direction: Retrieve the original Grok/X post and compare against Candace Owens' contemporaneous statements on the show.
@@ -573,7 +573,7 @@ Claim Timestamp: 00:33:55–00:34:48
 Claim: In an audio clip played on the episode, Allie Beth Stuckey told viewers they were "outsourcing your critical thinking" by following the Candace Owens investigation and warned that implicating a real person in a murder required being "100% sure" with "hard evidence."
 
 Anchored Artifacts: A-1374.1
-Mentions: N-349, N-3
+Mentions: N-232, N-3
 
 
 Investigative Direction: Retrieve the full source video to verify exact wording and full context.
@@ -585,7 +585,7 @@ Claim Timestamp: 00:39:10–00:41:45
 Claim: In an audio clip played on the episode, Mark Levin responded to Tucker Carlson's debate offer with the text-message reply "My family and I want nothing to do with you," and called Carlson a "Nazi promoter" and "modern-day David Duke," stating he would "rather debate a skunk than" Carlson.
 
 Anchored Artifacts: A-1375.1
-Mentions: N-50, N-374
+Mentions: N-22, N-249
 
 
 Investigative Direction: Retrieve the full Mark Levin broadcast to verify exact wording and any additional context.
@@ -597,7 +597,7 @@ Claim Timestamp: 00:44:50–00:46:29
 Claim: Keri Smith, host of the Deprogrammed podcast, in audio played on the episode, said Candace Owens "is exhibiting several cult tactics" and "a lot of cluster B personality disorder behavior."
 
 Anchored Artifacts: A-1376.1
-Mentions: N-376, N-3
+Mentions: N-250, N-3
 
 
 Investigative Direction: Retrieve the full Deprogrammed episode to verify exact wording and complete reasoning.
@@ -610,7 +610,7 @@ Claim: A BBC headline referenced in the episode reported that a Las Vegas shooti
 
 Anchored Artifacts: A-1377.1
 
-Related Nodes: N-10310
+Related Nodes: N-10240
 
 Investigative Direction: Retrieve the original BBC article to verify the headline, the identity of the survivor, and the broader reporting.
 
@@ -623,7 +623,7 @@ Claim: According to anonymous tips relayed by the host, federal agents seized fo
 Anchored Artifacts: A-1378.1
 Mentions: N-1
 
-Related Nodes: N-10309
+Related Nodes: N-10239
 
 Investigative Direction: Verify via FOIA requests, hospital records, contemporaneous reporting, or independent witness testimony.
 
@@ -668,7 +668,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty (N-365 / N-10311):** The episode alternates between "Shawnie Ray Kirkup" (Steve Baker / Glenn Beck audio) and "Shawnie Kirkhoff" (CIA spokesperson Liz Lyons statement). Preserve both spellings exactly as cited and treat identity verification as an open target.
+- **Name uncertainty (N-243 / N-10241):** The episode alternates between "Shawnie Ray Kirkup" (Steve Baker / Glenn Beck audio) and "Shawnie Kirkhoff" (CIA spokesperson Liz Lyons statement). Preserve both spellings exactly as cited and treat identity verification as an open target.
 - **Tip-only artifact (A-1378):** The Timpanogos footage-seizure assertion (C-1666) rests entirely on an anonymous tip relayed by the host; no public document, screenshot, or independent corroboration is shown. Low confidence.
 - **Verbally referenced but not displayed (A-1368, A-1377):** The Liz Lyons CIA statement and the BBC Borderline headline were referenced rather than directly displayed; wording was paraphrased by the host.
 - **Host assertions lacking artifact anchors (not inscribed as claims):** Multiple substantive host statements in this episode lack artifact support and therefore fail the Claim Admission Test, including: (a) Lance Wallnau's father Carl Wallnau being a US Air Force major who served under General Patton; (b) the claim that Lance Wallnau privately directed large sums of money into Turning Point USA Faith (cited only to unnamed TP Faith sources); (d) the claim that four of six January 6 protest permits were issued to independent charismatic Christian groups; (e) the claim that Rob McCoy's mother "storms" the Borderline Bar (host-corrected herself mid-sentence to "that Marine's mother"); (f) the claim that Charlie Kirk had established "DOAJ"; (g) the claim that Kash Patel "injected himself" into the hospital events on the day of the shooting. These are recorded as framing premises or testimonial assertions for future verification but are not inscribed as evidence-backed claims.
@@ -682,6 +682,6 @@ Confidence: high
 
 - Artifact Families Introduced: A-1364, A-1365, A-1366, A-1367, A-1368, A-1369, A-1370, A-1371, A-1372, A-1373, A-1374, A-1375, A-1376, A-1377, A-1378
 - Claim Range: C-1652 – C-1666
-- New Person Nodes: N-363 – N-376
-- New Investigation Target Nodes: N-10309 – N-10312
+- New Person Nodes: N-241 – N-250
+- New Investigation Target Nodes: N-10239 – N-10242
 - Existing Nodes Reused: N-1 (Charlie Kirk)

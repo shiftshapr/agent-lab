@@ -47,7 +47,7 @@ Confidence: high
 
 - Artifact Families Introduced: A-1355, A-1356, A-1357, A-1358, A-1359, A-1360, A-1361, A-1362, A-1363
 - Claim Range: C-1636 – C-1651
-  - New Nodes Introduced: N-360, N-362, N-10306, N-10307, N-10308
+  - New Nodes Introduced: N-239, N-240, N-10236, N-10237, N-10238
   - Reused Nodes Appearing: 
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), plus previously inscribed nodes for Megyn Kelly, Tucker Carlson, Nick Fuentes, Ben Shapiro, Jeremy Boring, Marjorie Taylor Greene, Eric Trump, Laura Trump, Ron Paul, Seth Dylan (node IDs to be reconciled against full ledger)
 
@@ -111,7 +111,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:06:24–00:08:57
 Confidence Level: High (audio played on air)
-*Related: C-1636, N-Tucker Carlson (existing), N-Marjorie Taylor Greene (existing), N-Zohran Mamdani (N-340)*
+*Related: C-1636, N-Tucker Carlson (existing), N-Marjorie Taylor Greene (existing), N-Zohran Mamdani (N-227)*
 
 ---
 
@@ -162,7 +162,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:16:27–00:17:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud by named participant)
-*Related: C-1642, N-Candace Owens (existing), N-Charlie Kirk (N-1), N-Ben Shapiro (existing), N-10307*
+*Related: C-1642, N-Candace Owens (existing), N-Charlie Kirk (N-1), N-Ben Shapiro (existing), N-10237*
 
 **A-1360.2** Read-aloud headline: "Ben Shapiro's YAF launches smear campaign against Charlie Kirk and Candace Owens"
 
@@ -183,7 +183,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:25:16–00:27:36
 Confidence Level: High (audio played on air)
-*Related: C-1643, N-Candace Owens (existing), N-Ariana (N-362), N-Daily Wire (existing)*
+*Related: C-1643, N-Candace Owens (existing), N-Ariana (N-240), N-Daily Wire (existing)*
 
 ---
 
@@ -195,7 +195,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:33:44–00:35:14
 Confidence Level: High (audio played on air)
-*Related: C-1644, C-1645, C-1651, N-Candace Owens (existing), N-Elle Reeve (N-360), N-CNN (existing)*
+*Related: C-1644, C-1645, C-1651, N-Candace Owens (existing), N-Elle Reeve (N-239), N-CNN (existing)*
 
 ---
 
@@ -215,7 +215,7 @@ Confidence Level: High (audio played on air)
 
 ### People
 
-**N-360** Elle Reeve
+**N-239** Elle Reeve
 
 CNN journalist who conducted the aired CNN interview of Candace Owens; introduced in this episode and relevant as the named questioner in the "Zionist-occupied government" exchange.
 
@@ -228,7 +228,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-340** Zohran Mamdani
+**N-227** Zohran Mamdani
 
 NYC Democratic mayoral primary winner referenced in Tucker Carlson and Ben Shapiro stage discussions; relevant as the named political figure in the Mamdani-coverage dispute between Shapiro and Carlson.
 
@@ -241,7 +241,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-362** Ariana
+**N-240** Ariana
 
 Daily Wire intern identified by Candace Owens at YWLS 2024 as having been dispatched covertly to record Owens. Full surname not stated.
 
@@ -257,7 +257,7 @@ Flag: Name uncertainty.
 
 ### Investigation Targets
 
-**N-10306** Megyn Kelly Tour Attendee Authenticity Question
+**N-10236** Megyn Kelly Tour Attendee Authenticity Question
 
 Persistent question whether attendees asking questions and applauding at Megyn Kelly tour stops are organic or coordinated. Owens claims they are coordinated by pro-Israel lobby groups (specifically YAF-affiliated individuals).
 
@@ -270,7 +270,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10307** Shapiro Statement Accuracy Re: Owens' Accusations
+**N-10237** Shapiro Statement Accuracy Re: Owens' Accusations
 
 Verification target: whether Ben Shapiro's stage characterization that Candace Owens accused Erika Kirk and Seth Dylan of involvement in Charlie Kirk's murder is accurate. Owens denies the characterization in the same episode.
 
@@ -283,7 +283,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10308** Daily Wire Intern Covert Recording Operation
+**N-10238** Daily Wire Intern Covert Recording Operation
 
 Persistent target: the alleged Daily Wire practice of dispatching interns (e.g., Ariana) to conservative events to covertly record hosts and feed the recordings into media cycles. Owens claims this was coordinated, in part, by Alyssa Cordova.
 
@@ -305,7 +305,7 @@ Claim Timestamp: 00:09:56–00:10:33
 Claim: On the Megyn Kelly tour stage in Florida, Ben Shapiro stated that Tucker Carlson had mentioned Zohran Mamdani once since October 5 and that he (Shapiro) had done 17 separate shows on Mamdani.
 
 Anchored Artifacts: A-1356.1, A-1356.2
-Mentions: N-340, N-50, N-75, N-133
+Mentions: N-227, N-22, N-46, N-97
 
 
 Investigative Direction: Obtain transcripts/recordings of the cited Carlson and Shapiro shows to verify the cited counts and whether Mamdani was mentioned substantively or in passing.
@@ -319,7 +319,7 @@ Claim Timestamp: 00:09:56–00:10:33
 Claim: On the Megyn Kelly tour stage in Florida, Ben Shapiro stated that "what Candace Owens is doing right now is evil. It is evil what she is doing right now."
 
 Anchored Artifacts: A-1356.1
-Mentions: N-3, N-75, N-133
+Mentions: N-3, N-46, N-97
 
 Related Nodes:
 
@@ -334,9 +334,9 @@ Claim Timestamp: 00:09:56–00:10:33
 Claim: On the Megyn Kelly tour stage, Ben Shapiro stated that Candace Owens is accusing Erika Kirk of murdering Charlie Kirk.
 
 Anchored Artifacts: A-1356.1
-Mentions: N-3, N-1, N-75, N-133, N-2
+Mentions: N-3, N-1, N-46, N-97, N-2
 
-Related Nodes: N-10307
+Related Nodes: N-10237
 
 Investigative Direction: Pull transcripts of all Owens episodes cited by him and verify whether any statement directly accuses Erika Kirk of murder, as opposed to criticizing Turning Point USA leadership or the official narrative.
 
@@ -349,9 +349,9 @@ Claim Timestamp: 00:09:56–00:10:33
 Claim: On the Megyn Kelly tour stage, Ben Shapiro stated that Candace Owens is accusing TPUSA insiders, including Seth Dylan, of being involved in Charlie Kirk's murder.
 
 Anchored Artifacts: A-1356.1
-Mentions: N-3, N-1, N-75, N-133, N-67
+Mentions: N-3, N-1, N-46, N-97, N-38
 
-Related Nodes: N-10307
+Related Nodes: N-10237
 
 Investigative Direction: Identify the specific Owens episodes in which she discusses Seth Dylan and assess whether she characterizes him as involved in the killing versus as having lied or pressured Charlie.
 
@@ -364,7 +364,7 @@ Claim Timestamp: 00:14:04
 Claim: According to the read-aloud HuffPost article, on March 25, 2025, then-Daily Wire CEO Jeremy Boring joined Nick Fuentes on an X Space hosted by Lauren Chen, praised Fuentes as "very funny" and "one of the most talented political influencers," and offered only mild criticism.
 
 Anchored Artifacts: A-1358.1, A-1359.1
-Mentions: N-293
+Mentions: N-205
 
 Related Nodes:
 
@@ -379,7 +379,7 @@ Claim Timestamp: 00:14:04–00:15:45
 Claim: According to the read-aloud HuffPost article and corresponding audio, Jeremy Boring stated on the X Space that he would be thrilled to have Nick Fuentes on a Daily Wire show.
 
 Anchored Artifacts: A-1358.1, A-1359.1
-Mentions: N-293
+Mentions: N-205
 
 Related Nodes:
 
@@ -394,9 +394,9 @@ Claim Timestamp: 00:16:27–00:17:50
 Claim: The text messages read aloud between Candace Owens and Charlie Kirk describe Ben Shapiro as having launched behind-the-scenes pressure campaigns through YAF, National Review figures, and "Daily Wire boys" against Kirk and Owens, and characterize Shapiro as viewing Owens as Kirk's "slave."
 
 Anchored Artifacts: A-1360.1, A-1360.2
-Mentions: N-3, N-1, N-133
+Mentions: N-3, N-1, N-97
 
-Related Nodes: N-10307
+Related Nodes: N-10237
 
 Investigative Direction: Authenticate the underlying text messages via metadata, screenshots, or device records to confirm the read-aloud excerpts were not edited.
 
@@ -409,9 +409,9 @@ Claim Timestamp: 00:25:16–00:27:36
 Claim: At YWLS 2024, Candace Owens publicly identified a Daily Wire PR intern named Ariana who, Owens alleged, had been sent covertly to record her, after receiving a tip from an intern with a conscience.
 
 Anchored Artifacts: A-1361.1
-Mentions: N-362, N-3
+Mentions: N-240, N-3
 
-Related Nodes: N-10308
+Related Nodes: N-10238
 
 Investigative Direction: Identify the full name of the intern, confirm her employment status with Daily Wire at the time, and obtain corroboration from contemporaneous attendees or recordings.
 
@@ -424,7 +424,7 @@ Claim Timestamp: 00:33:44–00:35:14
 Claim: During the aired CNN interview, Candace Owens stated, "America is occupied by Zionists," and doubled and then tripled down on the characterization.
 
 Anchored Artifacts: A-1362.1
-Mentions: N-360, N-3
+Mentions: N-239, N-3
 
 
 Investigative Direction: Pull the full CNN interview transcript to verify the exact phrasing and surrounding context.
@@ -438,7 +438,7 @@ Claim Timestamp: 00:33:44–00:35:14
 Claim: During the aired CNN interview, Elle Reeve stated that themes Owens used in her criticism of Israel were "very familiar" from her coverage of white nationalists for 10 years, and cited the term "Zionist-occupied government" as an example.
 
 Anchored Artifacts: A-1362.1
-Mentions: N-360
+Mentions: N-239
 
 
 Investigative Direction: Obtain the full CNN interview and any related Reeve reporting to verify the broader framing of the exchange.
@@ -481,7 +481,7 @@ Claim Timestamp: 00:02:12
 Claim: Ben Shapiro previously tweeted that any American Jew who is "pro-Israel" and uses "Israel first" framing is engaging in a "pure form of anti-semitism," directed at Nick Fuentes.
 
 Anchored Artifacts: A-1355.2
-Mentions: N-293, N-133
+Mentions: N-205, N-97
 
 Related Nodes:
 
@@ -496,7 +496,7 @@ Claim Timestamp: 00:02:12
 Claim: Ben Shapiro previously posted tweets containing imagery of Ron Paul "leaning forward from the grave and strangling the Jews" and "gripping the pen as he would the neck of a Jew."
 
 Anchored Artifacts: A-1355.3
-Mentions: N-133
+Mentions: N-97
 
 Related Nodes:
 
@@ -511,7 +511,7 @@ Claim Timestamp: 00:04:34–00:05:23
 Claim: Ben Shapiro and Tucker Carlson exchanged text messages in which Shapiro proposed a joint show on the "DSA threat" and Carlson replied that he needed "a week or two" to think; Shapiro states subsequent outreach went unanswered.
 
 Anchored Artifacts: A-1357.1
-Mentions: N-1, N-50, N-133
+Mentions: N-1, N-22, N-97
 
 
 Investigative Direction: Verify the exchange via Carlson or Shapiro public statements, and confirm whether the outreach was conducted on both sides after the cited date.
@@ -525,7 +525,7 @@ Claim Timestamp: 00:33:44–00:33:57
 Claim: Candace Owens states that the aired CNN interview with Elle Reeve occurred "a couple of days after Charlie was killed" and was her first interview after his death.
 
 Anchored Artifacts: A-1362.1
-Mentions: N-1, N-360, N-3
+Mentions: N-1, N-239, N-3
 
 
 Investigative Direction: Confirm the interview date against CNN's published interview records or the original broadcast timestamp.
@@ -537,8 +537,8 @@ Investigative Direction: Confirm the interview date against CNN's published inte
 - **A-1355.1, A-1355.2, A-1355.3, A-1360.2**: Artifacts verbally referenced but not shown on screen.
 - **A-1361.1**: Event Timestamp "2024" not specific to month/day; requires human verification of exact YWLS event date.
 - **A-1362.1**: Event Timestamp described as "a couple of days after Charlie was killed" – actual broadcast date requires confirmation via CNN records.
-- **N-362**: Name uncertainty – only first name "Ariana" given; full name and spelling unverified.
-- **N-360, N-340**: New node numbers used because figures were not previously confirmed in the available ledger context; if prior episodes already introduced these figures, the existing node IDs should be substituted upon reconciliation.
+- **N-240**: Name uncertainty – only first name "Ariana" given; full name and spelling unverified.
+- **N-239, N-227**: New node numbers used because figures were not previously confirmed in the available ledger context; if prior episodes already introduced these figures, the existing node IDs should be substituted upon reconciliation.
 - **A-1356.2**: Exact event date for the Tucker Carlson / Marjorie Taylor Greene stage appearance not stated; estimated as recent to upload.
 
 ---
@@ -550,8 +550,8 @@ Investigative Direction: Confirm the interview date against CNN's published inte
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger range (N-360+)
-- [x] Non-person investigation targets use the 1000 series (N-10306+)
+- [x] People nodes use the global people ledger range (N-239+)
+- [x] Non-person investigation targets use the 1000 series (N-10236+)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly or uncertainty noted
 - [x] Formatting consistent

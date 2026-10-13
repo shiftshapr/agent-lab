@@ -29,9 +29,9 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1561, A-1562, A-1563, A-1564, A-1565, A-1566, A-1567
   - Claim Range: C-1980–C-1988
-  - New Nodes Introduced:  N-605, N-606, N-607, N-10441, N-10442, N-10443, N-10444, N-10445
+  - New Nodes Introduced:  N-372, N-373, N-374, N-10370, N-10371, N-10372, N-10373, N-10374
   - Reused Nodes Appearing: 
-  - Existing Nodes Reused: N-1, N-2, N-37
+  - Existing Nodes Reused: N-1, N-2, N-11
 
 ---
 
@@ -61,7 +61,7 @@ Confidence Level: High (quoted segment)
 
 Quoted content includes: "if Candace Owens decides to spend every day since the murder of Charlie Kirk casting aspersions at TPUSA… and to imply or outright claim complicity in a cover-up over Charlie's murder… then we as people with a microphone have a moral obligation to call that out by name."
 
-*Related: C-1980, N-133, N-1, N-2, N-3*
+*Related: C-1980, N-97, N-1, N-2, N-3*
 
 ---
 
@@ -77,7 +77,7 @@ Confidence Level: High (quoted segment)
 
 Quoted content includes: "the last several months of Charlie's life were devoted in part to arguing about this event… he was immediately put under just immense pressure from people who give money to Turning Point… who wanted him to take me off the roster."
 
-*Related: C-1981, N-50, N-133*
+*Related: C-1981, N-22, N-97*
 
 ---
 
@@ -93,7 +93,7 @@ Confidence Level: High (replayed audio)
 
 Quoted content includes Jeremy Boreing's narration citing Owens's X posts: October 28, 2023 protest repost; November 3, 2023 "No government anywhere has a right to commit a genocide ever"; February 28, 2024 "Time to look into the history and profiteering of pornography"; liking a post calling Netanyahu a "war criminal."
 
-*Related: C-1982, N-3, N-133, N-607*
+*Related: C-1982, N-3, N-97, N-374*
 
 ---
 
@@ -109,7 +109,7 @@ Confidence Level: High (read-aloud rule)
 
 Full text read aloud begins: "For those of you information consumers who are stuck in practices of the old days… The public record on September 8th indicates that I was returning to Washington, D.C. from my district and voting on the floor of the House of Representatives. And on September 9th in a 12-hour [meeting] in the House Appropriations Committee… To quote Ronald Reagan, 'Facts are stubborn things. Merry Christmas.'"
 
-*Related: C-1983, N-599, N-10442*
+*Related: C-1983, N-371, N-10371*
 
 ---
 
@@ -125,7 +125,7 @@ Confidence Level: High (read-aloud rule)
 
 Full text read aloud begins: "Road Exposed, Rep. Mark Amodei tries and fails to give a solid alibi for the alleged September 9th meeting with Charlie Kirk's security, Brian Harpole. The rep claims to have been traveling to D.C… he was not present for roll call until the third meeting in mid-afternoon on the 9th in D.C."
 
-*Related: C-1984, N-599, N-606, N-10442*
+*Related: C-1984, N-371, N-373, N-10371*
 
 ---
 
@@ -141,7 +141,7 @@ Confidence Level: Medium
 
 Flag: Artifact verbally referenced but not shown on camera.
 
-*Related: C-1985, N-605, N-597, N-10443*
+*Related: C-1985, N-372, N-369, N-10372*
 
 ---
 
@@ -157,7 +157,7 @@ Confidence Level: Medium (host states existence)
 
 Flag: Artifact verbally referenced but not displayed in this episode.
 
-*Related: C-1987, N-597, N-10441*
+*Related: C-1987, N-369, N-10370*
 
 ---
 
@@ -171,7 +171,7 @@ Confidence Level: Medium (host states she was given the logs)
 
 Flag: Artifact verbally referenced but not displayed in this episode.
 
-*Related: C-1986, N-424, N-10441, N-10444*
+*Related: C-1986, N-272, N-10370, N-10373*
 
 ---
 
@@ -185,13 +185,13 @@ Confidence Level: Medium (host states she obtained paperwork)
 
 Flag: Artifact verbally referenced but not displayed in this episode.
 
-*Related: C-1987, N-597, N-10441*
+*Related: C-1987, N-369, N-10370*
 
 ---
 
 ## IV. Node Register
 
-**N-133** Ben Shapiro
+**N-97** Ben Shapiro
 
 Daily Wire founder; figure whose AmFest speech, prior pettiness toward the host, and asserted pressure on TPUSA donors regarding Tucker Carlson form the structural backbone of this episode's first half.
 
@@ -204,7 +204,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-50** Tucker Carlson
+**N-22** Tucker Carlson
 
 Speaker at AmFest whose on-stage statements are used as an artifact to support the claim that Charlie Kirk was pressured to remove Tucker from the roster.
 
@@ -213,11 +213,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1562.1, C-1981, N-133*
+*Related: A-1562.1, C-1981, N-97*
 
 ---
 
-**N-599** Mark Amodei
+**N-371** Mark Amodei
 
 U.S. Representative (NV); subject of contradictory public-record claims regarding his whereabouts on September 9, 2025.
 
@@ -226,11 +226,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1564.1, A-1565.1, C-1983, C-1984, N-10442*
+*Related: A-1564.1, A-1565.1, C-1983, C-1984, N-10371*
 
 ---
 
-**N-424** Brian Harpole
+**N-272** Brian Harpole
 
 Charlie Kirk's security officer; travel logs referenced as supporting the possibility he attended the Fort Huachuca morning meeting.
 
@@ -239,11 +239,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1567.2, C-1986, N-10441, N-10444*
+*Related: A-1567.2, C-1986, N-10370, N-10373*
 
 ---
 
-**N-605** Cabot Phillips
+**N-372** Cabot Phillips
 
 Daily Wire / Morning Wire contributor; identified by Mitch from a photograph as a person seen at Fort Huachuca; subject of a separate dating-history claim involving Erika Kirk.
 
@@ -252,11 +252,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1566.1, C-1985, N-2, N-10443, N-10445*
+*Related: A-1566.1, C-1985, N-2, N-10372, N-10374*
 
 ---
 
-**N-606** Diligent Dennison
+**N-373** Diligent Dennison
 
 X poster; author of the read-aloud post analyzing Mark Amodei's alibi and identifying missed roll calls.
 
@@ -265,11 +265,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (intermediary verification role)
 
-*Related: A-1565.1, C-1984, N-599, N-10442*
+*Related: A-1565.1, C-1984, N-371, N-10371*
 
 ---
 
-**N-607** Jeremy Boreing
+**N-374** Jeremy Boreing
 
 Then-CEO of the Daily Wire; conducted the town hall–style firing of Candace Owens captured in A-1563.1.
 
@@ -284,7 +284,7 @@ Flag: Name transcribed as "Jeremy Boring"; flagged for possible transcription er
 
 ---
 
-**N-597** Mitch Snow
+**N-369** Mitch Snow
 
 Fort Huachuca witness; his access, NDA-related lawsuit paperwork, and direction-request video are referenced as verified by the host.
 
@@ -293,11 +293,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1566.1, A-1567.1, A-1567.3, C-1985, C-1987, N-10441*
+*Related: A-1566.1, A-1567.1, A-1567.3, C-1985, C-1987, N-10370*
 
 ---
 
-**N-98** Mark Herman (director, Candace show)
+**N-67** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host jokes about his travel schedule delaying book club; he answers "I'm going to Fort Huachuca" and she replies "To get your intelligence training." The exchange reads as on-air banter. No claim anchor; registered for cross-episode continuity.
 
@@ -310,7 +310,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10441** Fort Huachuca Morning Meeting Investigation
+**N-10370** Fort Huachuca Morning Meeting Investigation
 
 Persistent investigable target: an alleged early-morning meeting at Fort Huachuca on September 9, 2025, whose attendees include (per witness) a congressman and a Daily Wire contributor.
 
@@ -319,11 +319,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1567.1, A-1567.2, A-1567.3, C-1985, C-1986, C-1987, N-599, N-424, N-605, N-597*
+*Related: A-1567.1, A-1567.2, A-1567.3, C-1985, C-1986, C-1987, N-371, N-272, N-372, N-369*
 
 ---
 
-**N-10442** Mark Amodei September 9 Alibi Verification
+**N-10371** Mark Amodei September 9 Alibi Verification
 
 Persistent inconsistency between Amodei's own X claim of full-day attendance in D.C. and Diligent Dennison's record-based analysis of missed morning roll calls.
 
@@ -332,11 +332,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1564.1, A-1565.1, C-1983, C-1984, N-599, N-606*
+*Related: A-1564.1, A-1565.1, C-1983, C-1984, N-371, N-373*
 
 ---
 
-**N-10443** Cabot Phillips Fort Huachuca Presence Verification
+**N-10372** Cabot Phillips Fort Huachuca Presence Verification
 
 Verification target: whether Cabot Phillips was in fact at Fort Huachuca on September 9, 2025; pending response to host's outreach.
 
@@ -345,11 +345,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1566.1, C-1985, N-605, N-597*
+*Related: A-1566.1, C-1985, N-372, N-369*
 
 ---
 
-**N-10444** Brian Harpole Fort Huachuca Presence Verification
+**N-10373** Brian Harpole Fort Huachuca Presence Verification
 
 Verification target: whether Brian Harpole attended the Fort Huachuca morning meeting; travel logs cited as enabling but not confirming attendance.
 
@@ -358,11 +358,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1567.2, C-1986, N-424, N-10441*
+*Related: A-1567.2, C-1986, N-272, N-10370*
 
 ---
 
-**N-10445** Erika Kirk Pre-Charlie Dating History Verification
+**N-10374** Erika Kirk Pre-Charlie Dating History Verification
 
 Verification target: whether Erika Kirk publicly stated she never dated anyone before Charlie Kirk, and the status of social-media evidence showing otherwise (Cabot Phillips).
 
@@ -371,11 +371,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2, N-605, C-1988*
+*Related: N-2, N-372, C-1988*
 
 ---
 
-**N-37** Tyler Bowyer
+**N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -393,7 +393,7 @@ Claim Timestamp: 00:18:29 – 00:20:44
 Claim: At AmFest, Ben Shapiro stated that Candace Owens was casting aspersions on TPUSA staff and on Erika Kirk, and that people with microphones had a moral obligation to call her out by name.
 
 Anchored Artifacts: A-1561.1
-Mentions: N-1, N-2, N-3, N-133
+Mentions: N-1, N-2, N-3, N-97
 
 
 Investigative Direction: Obtain the full unedited AmFest video and timestamp; verify whether Shapiro named specific TPUSA staff (Mikey McCormick, Andrew Colvin, Blake Neff, Tyler Bowyer, Erika Kirk) and the precise wording.
@@ -407,7 +407,7 @@ Claim Timestamp: 00:24:37 – 00:26:29
 Claim: Tucker Carlson stated at AmFest that during the last several months of Charlie Kirk's life, donors to Turning Point – whom Carlson attributed in part to Ben Shapiro's insistence – pressured Kirk to remove Tucker from the AmFest speaker roster.
 
 Anchored Artifacts: A-1562.1
-Mentions: N-50, N-133, N-1
+Mentions: N-22, N-97, N-1
 
 
 Investigative Direction: Obtain the full unedited Carlson speech; verify the specific donor names and corroborate through contemporaneous TPUSA communications.
@@ -421,7 +421,7 @@ Claim Timestamp: 00:12:45 – 00:15:40
 Claim: The Daily Wire held a "town hall"–style firing event attended by approximately 300 employees in which then-CEO Jeremy Boreing narrated a packaged presentation of Owens's X posts (October 28, 2023 protest repost; November 3, 2023 genocide tweet; pornography tweet; "Christ is King" tweets), with Ben Shapiro joining electronically on screen.
 
 Anchored Artifacts: A-1563.1
-Mentions: N-3, N-133, N-607
+Mentions: N-3, N-97, N-374
 
 
 Investigative Direction: Obtain the full leaked town hall video; verify the exact date, attendance count, and the specific X posts cited as grounds.
@@ -435,9 +435,9 @@ Claim Timestamp: 00:35:44
 Claim: Mark Amodei publicly asserted via X that on September 9 he was in a 12-hour House Appropriations Committee meeting and voting on the House floor, citing the public record.
 
 Anchored Artifacts: A-1564.1
-Mentions: N-599
+Mentions: N-371
 
-Related Nodes: N-10442
+Related Nodes: N-10371
 
 Investigative Direction: Retrieve the original X post URL; cross-reference with the House Appropriations Committee's published September 9 video and the House roll call record.
 
@@ -450,9 +450,9 @@ Claim Timestamp: 00:36:36
 Claim: Per Diligent Dennison's X post analysis, Mark Amodei was not present for roll call until the third meeting in mid-afternoon on September 9 in D.C., having missed two morning roll calls.
 
 Anchored Artifacts: A-1565.1
-Mentions: N-599, N-606
+Mentions: N-371, N-373
 
-Related Nodes: N-10442
+Related Nodes: N-10371
 
 Investigative Direction: Independently verify against the official House roll call vote record for September 9, 2025; verify flight routing feasibility for Amodei to have been at Fort Huachuca that morning and back in D.C. for the third roll call.
 
@@ -465,9 +465,9 @@ Claim Timestamp: 00:41:56 – 00:43:14
 Claim: After being shown a photograph of Cabot Phillips without contextual identification, Mitch identified him as a person he observed at Fort Huachuca on the morning of September 9.
 
 Anchored Artifacts: A-1566.1
-Mentions: N-597, N-605
+Mentions: N-369, N-372
 
-Related Nodes: N-10443
+Related Nodes: N-10372
 
 Investigative Direction: Corroborate through independent identification sources; verify Cabot Phillips's whereabouts between September 4 and 10, 2025 (including Morning Wire appearance records); await response from Cabot Phillips to host's outreach.
 
@@ -480,9 +480,9 @@ Claim Timestamp: 00:37:30
 Claim: Travel logs provided to the host indicate that Brian Harpole's flight routing would have allowed him to attend the early-morning Fort Huachuca meeting on September 9.
 
 Anchored Artifacts: A-1567.2
-Mentions: N-424
+Mentions: N-272
 
-Related Nodes: N-10441, N-10444
+Related Nodes: N-10370, N-10373
 
 Investigative Direction: Obtain or display the actual travel logs; corroborate against airline / charter records; await response from Brian Harpole to host's iMessage outreach.
 
@@ -497,9 +497,9 @@ Claim Timestamp: 00:33:21 – 00:34:20
 Claim: The host reports that Mitch's reported access to Fort Huachuca base, his hotel booking at Candlewood Inn & Suites, and his NDA-related lawsuit paperwork have all been verified by the host's team.
 
 Anchored Artifacts: A-1567.1, A-1567.3
-Mentions: N-597
+Mentions: N-369
 
-Related Nodes: N-10441
+Related Nodes: N-10370
 
 Investigative Direction: Display or publish the underlying verification documents; obtain third-party corroboration beyond host's assertions.
 
@@ -514,9 +514,9 @@ Claim Timestamp: 00:40:44 – 00:45:06
 Claim: The host reports that Erika Kirk publicly stated she had not dated anyone before Charlie Kirk, which the host characterizes as contradicting social-media evidence of a prior relationship with Cabot Phillips and his family.
 
 Anchored Artifacts: None directly captured (Erika Kirk's original statement and the cited social-media evidence are referenced only secondhand; host says "I think we can show that" but the transcript captures no on-screen display).
-Mentions: N-2, N-605, N-1
+Mentions: N-2, N-372, N-1
 
-Related Nodes: N-10445
+Related Nodes: N-10374
 
 Investigative Direction: Locate the original Erika Kirk statement (interview, podcast, or social-media post); obtain screenshots of the cited social-media evidence (painting lessons, family interactions); obtain corroboration from family members including Nicole Rothstein.
 
@@ -541,7 +541,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty / possible transcription error:** "Jeremy Boring" (A-1563.1, N-607) – public-record name is Jeremy Boreing.
+- **Name uncertainty / possible transcription error:** "Jeremy Boring" (A-1563.1, N-374) – public-record name is Jeremy Boreing.
 - **Artifact verbally referenced but not shown:** A-1566.1, A-1567.1, A-1567.2, A-1567.3.
 - **Transcript ambiguity:** The phrase "Uh yes, we're that couple who gets painting lessons together" (around 00:44:30) appears to be transcriptions of on-screen social media not fully captured in the transcript.
 - **Claim failed admission test (artifact anchor):** C-1988 – Erika Kirk's original statement and the supporting social-media evidence are referenced but not directly captured in the transcript as displayed artifacts; claim inscribed with flag for human verification.

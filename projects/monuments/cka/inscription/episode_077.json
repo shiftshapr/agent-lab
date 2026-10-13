@@ -58,7 +58,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-963"
+            "N-588"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -86,7 +86,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10599"
+            "N-10527"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -114,7 +114,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10598"
+            "N-10526"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -133,7 +133,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10598"
+            "N-10526"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -185,8 +185,8 @@
             "C-2442"
           ],
           "related_nodes": [
-            "N-961",
-            "N-10597"
+            "N-586",
+            "N-10525"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -237,9 +237,9 @@
             "C-2452"
           ],
           "related_nodes": [
-            "N-964",
-            "N-966",
-            "N-10601"
+            "N-589",
+            "N-591",
+            "N-10529"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -265,8 +265,8 @@
             "C-2445"
           ],
           "related_nodes": [
-            "N-965",
-            "N-10601"
+            "N-590",
+            "N-10529"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -292,8 +292,8 @@
             "C-2446"
           ],
           "related_nodes": [
-            "N-964",
-            "N-965"
+            "N-589",
+            "N-590"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -319,7 +319,7 @@
             "C-2447"
           ],
           "related_nodes": [
-            "N-10601"
+            "N-10529"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -345,7 +345,7 @@
             "C-2448"
           ],
           "related_nodes": [
-            "N-10602"
+            "N-10530"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -371,7 +371,7 @@
             "C-2449"
           ],
           "related_nodes": [
-            "N-10600"
+            "N-10528"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -407,8 +407,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-961",
-      "ref": "N-961",
+      "@id": "N-586",
+      "ref": "N-586",
       "name": "Larissa",
       "type": "person",
       "description": "Author of email (A-1827.1) recounting personal placement at Antonio Placement Center in Constanta, Romania; presents as formerly adopted child with direct knowledge of institutional practices.",
@@ -424,13 +424,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10597"
+        "N-10525"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-962",
-      "ref": "N-962",
+      "@id": "N-587",
+      "ref": "N-587",
       "name": "Nicole Rothstein",
       "type": "person",
       "description": "Real-estate professional referenced as Erika's New York roommate during the Next Model Management period; daughter of Alan Rothstein.",
@@ -442,14 +442,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-963",
+        "N-588",
         "N-2"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-963",
-      "ref": "N-963",
+      "@id": "N-588",
+      "ref": "N-588",
       "name": "Alan Rothstein",
       "type": "person",
       "description": "Chairman (or former chairman) of Win Haven Real Estate; subject of Erika's 2017 Instagram tribute referring to him as \"Uncle Allan.\"",
@@ -465,13 +465,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-962"
+        "N-587"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-964",
-      "ref": "N-964",
+      "@id": "N-589",
+      "ref": "N-589",
       "name": "Jake Hoffman",
       "type": "person",
       "description": "Arizona State Senator; introduced SB 1439 supporter; defended the bill on Fox News after veto.",
@@ -489,14 +489,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-965",
-        "N-10601"
+        "N-590",
+        "N-10529"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-965",
-      "ref": "N-965",
+      "@id": "N-590",
+      "ref": "N-590",
       "name": "Katie Hobbs",
       "type": "person",
       "description": "Governor of Arizona; vetoed SB 1439; subject of Hoffman's Fox News criticism.",
@@ -513,13 +513,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-964"
+        "N-589"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-966",
-      "ref": "N-966",
+      "@id": "N-591",
+      "ref": "N-591",
       "name": "AJ Copp",
       "type": "person",
       "description": "Introduced SB 1439 in the Arizona House on January 28 (year implied 2026).",
@@ -533,13 +533,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10601"
+        "N-10529"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10597",
-      "ref": "N-10597",
+      "@id": "N-10525",
+      "ref": "N-10525",
       "name": "Antonio Placement Center Investigation",
       "type": "investigation_target",
       "description": "Persistent investigation target: Constanta, Romania institution described by Larissa as \"notorious for corruption and illicit activities such as trafficking children\"; per email, Erika Kirk's promotional materials 2012–2014 referenced it as a Romanian Angels partner.",
@@ -557,13 +557,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-961"
+        "N-586"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10598",
-      "ref": "N-10598",
+      "@id": "N-10526",
+      "ref": "N-10526",
       "name": "Erika NY Real Estate License Verification Question",
       "type": "investigation_target",
       "description": "Persistent target: independent verification of NY real estate license #10401322765 (issued 2018-10-24) and of any completed NY real estate transactions.",
@@ -585,8 +585,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10599",
-      "ref": "N-10599",
+      "@id": "N-10527",
+      "ref": "N-10527",
       "name": "Erika Real Estate Bio Credential Verification Question",
       "type": "investigation_target",
       "description": "Persistent target: verification of bio claims including magna cum laude graduation, ASU double major in political science and international relations, and Juris Master at Liberty University.",
@@ -607,8 +607,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10600",
-      "ref": "N-10600",
+      "@id": "N-10528",
+      "ref": "N-10528",
       "name": "Arizona-Romania Pipeline Investigation",
       "type": "investigation_target",
       "description": "Persistent target: convergence of Tyler Bowyer's 2010 Romania trip, ASU Romanian studies program and honorary Romanian consulate (2010), Romania-to-Arizona charity/placement activity, and Arizona opening first US state trade office in Romania (~July 2025).",
@@ -628,8 +628,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10601",
-      "ref": "N-10601",
+      "@id": "N-10529",
+      "ref": "N-10529",
       "name": "SB 1439 Charlie Kirk Memorial Plate Fund Routing",
       "type": "investigation_target",
       "description": "Persistent target: SB 1439's \"conservative grassroots network special plate fund\" and its description (nonprofit founded 2012, restoring traditional values, high school and college campus grassroots network, voter registration) – descriptors matching Turning Point USA per host.",
@@ -650,15 +650,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-964",
-        "N-965",
-        "N-966"
+        "N-589",
+        "N-590",
+        "N-591"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10602",
-      "ref": "N-10602",
+      "@id": "N-10530",
+      "ref": "N-10530",
       "name": "TPUSA Super Feed Copyright / Data Routing Question",
       "type": "investigation_target",
       "description": "Persistent target: Super Feed Inc. copyright on the Turning Point USA app per fine print; question of where user data flows.",
@@ -676,8 +676,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-37",
-      "ref": "N-37",
+      "@id": "N-11",
+      "ref": "N-11",
       "name": "Tyler Bowyer",
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
@@ -691,8 +691,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-35",
-      "ref": "N-35",
+      "@id": "N-9",
+      "ref": "N-9",
       "name": "Jeffrey Epstein",
       "type": "person",
       "description": "Nucleus of Lutnick/Andre whistleblower thread and host's broader files thesis.",
@@ -707,8 +707,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-835",
-      "ref": "N-835",
+      "@id": "N-533",
+      "ref": "N-533",
       "name": "Peter Thiel",
       "type": "person",
       "description": "Tech billionaire and JD Vance political patron; identified in Epstein emails and discussed on Rogan regarding his Epstein relationship.",
@@ -754,8 +754,8 @@
       "investigative_direction": "Obtain full Epstein-to-Thiel email metadata and surrounding thread to verify context, date, and any operational substance.",
       "mentions_person_refs": [
         "N-2",
-        "N-35",
-        "N-835"
+        "N-9",
+        "N-533"
       ]
     },
     {
@@ -773,7 +773,7 @@
       "investigative_direction": "Confirm the post via Instagram archives or third-party captures; verify Alan Rothstein's role at Win Haven Real Estate through corporate filings.",
       "mentions_person_refs": [
         "N-2",
-        "N-963"
+        "N-588"
       ]
     },
     {
@@ -786,7 +786,7 @@
         "A-1824.1"
       ],
       "related_nodes": [
-        "N-10599"
+        "N-10527"
       ],
       "tags": [],
       "claim_timestamp": "00:11:25",
@@ -805,7 +805,7 @@
         "A-1825.1"
       ],
       "related_nodes": [
-        "N-10598"
+        "N-10526"
       ],
       "tags": [],
       "claim_timestamp": "00:15:31",
@@ -824,11 +824,11 @@
         "A-1825.2"
       ],
       "related_nodes": [
-        "N-10598"
+        "N-10526"
       ],
       "tags": [],
       "claim_timestamp": "00:15:31",
-      "investigative_direction": "Log tips received through candaceowens.com against the NY Department of State licensee search; route any verified sales records to N-10598.",
+      "investigative_direction": "Log tips received through candaceowens.com against the NY Department of State licensee search; route any verified sales records to N-10526.",
       "transcript_snippet": "If you can confirm Erika's real estate license and what she sold.",
       "mentions_person_refs": [
         "N-3",
@@ -845,7 +845,7 @@
         "A-1826.1"
       ],
       "related_nodes": [
-        "N-10597"
+        "N-10525"
       ],
       "tags": [],
       "claim_timestamp": "00:19:15",
@@ -864,14 +864,14 @@
         "A-1827.1"
       ],
       "related_nodes": [
-        "N-10597"
+        "N-10525"
       ],
       "tags": [],
       "claim_timestamp": "00:20:51",
       "investigative_direction": "Verify Larissa's identity and adoption record; locate Erika Kirk's 2012–2014 promotional materials referencing Antonio Placement Center; obtain Romanian government or NGO documentation of center's operational history.",
       "mentions_person_refs": [
         "N-2",
-        "N-961"
+        "N-586"
       ]
     },
     {
@@ -884,13 +884,13 @@
         "A-1828.1"
       ],
       "related_nodes": [
-        "N-10600"
+        "N-10528"
       ],
       "tags": [],
       "claim_timestamp": "00:23:16",
       "investigative_direction": "Capture the full social-media exchange for context; verify Bowyer's claimed academic program at ASU; cross-reference against the 2010 Romanian consulate / lectorate timeline.",
       "mentions_person_refs": [
-        "N-37"
+        "N-11"
       ]
     },
     {
@@ -903,15 +903,15 @@
         "A-1829.1"
       ],
       "related_nodes": [
-        "N-10601"
+        "N-10529"
       ],
       "tags": [],
       "claim_timestamp": "00:29:37",
       "investigative_direction": "Retrieve full SB 1439 text from Arizona Legislature archives; identify statutory fund recipient and allocation mechanism.",
       "mentions_person_refs": [
         "N-1",
-        "N-964",
-        "N-966"
+        "N-589",
+        "N-591"
       ]
     },
     {
@@ -924,15 +924,15 @@
         "A-1830.1"
       ],
       "related_nodes": [
-        "N-10601"
+        "N-10529"
       ],
       "tags": [],
       "claim_timestamp": "00:34:00",
       "investigative_direction": "Retrieve full veto letter and accompanying Arizona legislative record; identify any subsequent legislation reintroducing the plate.",
       "mentions_person_refs": [
         "N-1",
-        "N-964",
-        "N-965"
+        "N-589",
+        "N-590"
       ]
     },
     {
@@ -945,14 +945,14 @@
         "A-1831.1"
       ],
       "related_nodes": [
-        "N-10601"
+        "N-10529"
       ],
       "tags": [],
       "claim_timestamp": "00:34:21",
       "investigative_direction": "Obtain full Fox News clip with date; verify Hoffman's claimed chairmanship of the Arizona Nominations Committee and prior vetoes cited.",
       "mentions_person_refs": [
-        "N-964",
-        "N-965",
+        "N-589",
+        "N-590",
         "N-1"
       ]
     },
@@ -966,14 +966,14 @@
         "A-1832.1"
       ],
       "related_nodes": [
-        "N-10601"
+        "N-10529"
       ],
       "tags": [],
       "claim_timestamp": "00:38:23",
       "investigative_direction": "Capture original X post URL and timestamp; verify whether post remains live or has been edited/deleted.",
       "mentions_person_refs": [
-        "N-37",
-        "N-965"
+        "N-11",
+        "N-590"
       ]
     },
     {
@@ -986,7 +986,7 @@
         "A-1833.1"
       ],
       "related_nodes": [
-        "N-10602"
+        "N-10530"
       ],
       "tags": [],
       "claim_timestamp": "00:26:36",
@@ -1003,7 +1003,7 @@
         "A-1834.1"
       ],
       "related_nodes": [
-        "N-10600"
+        "N-10528"
       ],
       "tags": [],
       "claim_timestamp": "00:24:28",
@@ -1019,7 +1019,7 @@
         "A-1824.1"
       ],
       "related_nodes": [
-        "N-10599"
+        "N-10527"
       ],
       "tags": [],
       "claim_timestamp": "00:13:41",
@@ -1038,7 +1038,7 @@
         "A-1825.1"
       ],
       "related_nodes": [
-        "N-10598"
+        "N-10526"
       ],
       "tags": [],
       "claim_timestamp": "00:14:38",
@@ -1057,14 +1057,14 @@
         "A-1829.1"
       ],
       "related_nodes": [
-        "N-10601"
+        "N-10529"
       ],
       "tags": [],
       "claim_timestamp": "00:31:36",
       "investigative_direction": "Retrieve full bill text; cross-reference fund descriptors against Turning Point USA's founding date, mission, and Arizona activities.",
       "mentions_person_refs": [
-        "N-964",
-        "N-966"
+        "N-589",
+        "N-591"
       ]
     }
   ],

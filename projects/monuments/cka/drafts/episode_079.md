@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 4416eff204bca7a7209dc9ce163ce86f52709581dce7aad641a8ba51de16006d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-989, N-990, N-994, N-996, N-998, N-10612, N-10613, N-10614, N-10615, N-10616
-  - Reused Nodes Appearing: N-138, N-5, N-628
+  - New Nodes Introduced: N-603, N-604, N-605, N-606, N-607, N-10539, N-10540, N-10541, N-10542, N-10543
+  - Reused Nodes Appearing: N-102, N-5, N-387
   - (see registers)
 
 ## 6. Meme Register
@@ -57,7 +57,7 @@ Video Timestamp: 00:08:50–00:09:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads message contents verbatim)
 
-*Related: C-2476, C-2478, N-1, N-3, N-133, N-10616*
+*Related: C-2476, C-2478, N-1, N-3, N-97, N-10543*
 
 **A-1846.2** Charlie Kirk text re: Talmud ("There are some verses in the Talmud that will blow your mind." / "The Talmud is not biblical, but it is their rabbinical interpretations of Judaism." / "thought crime")
 
@@ -67,7 +67,7 @@ Video Timestamp: 00:09:46–00:10:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2477, N-1, N-3, N-133*
+*Related: C-2477, N-1, N-3, N-97*
 
 **A-1846.3** Charlie Kirk text re: Meghan McCain ("Disgrace. They are a disgrace family. A disgraceful family for the ways in which they have betrayed Americans and allowed for mass murder and bloody wars overseas.")
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:21:32–00:21:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2478, N-1, N-3, N-989*
+*Related: C-2478, N-1, N-3, N-603*
 
 ---
 
@@ -91,7 +91,7 @@ Video Timestamp: 00:10:32–00:13:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads full exchange)
 
-*Related: C-2479, C-2480, N-1, N-990, N-5, N-10612*
+*Related: C-2479, C-2480, N-1, N-604, N-5, N-10539*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:07:35–00:08:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads Milo and Charlie's words verbatim)
 
-*Related: C-2481, N-334, N-133, N-10616*
+*Related: C-2481, N-224, N-97, N-10543*
 
 ---
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:20:00–00:20:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads verbatim)
 
-*Related: C-2482, N-989, N-3*
+*Related: C-2482, N-603, N-3*
 
 ---
 
@@ -133,7 +133,7 @@ Video Timestamp: 00:13:29–00:16:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads verbatim)
 
-*Related: C-2483, N-224, N-133, N-10616*
+*Related: C-2483, N-162, N-97, N-10543*
 
 ---
 
@@ -147,7 +147,7 @@ Video Timestamp: 00:18:54–00:20:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2484, N-133, N-138, N-3*
+*Related: C-2484, N-97, N-102, N-3*
 
 ---
 
@@ -161,7 +161,7 @@ Video Timestamp: 00:24:34–00:25:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2485, N-994, N-5, N-10614*
+*Related: C-2485, N-605, N-5, N-10541*
 
 ---
 
@@ -175,7 +175,7 @@ Video Timestamp: 00:31:42–00:34:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2486, N-5, N-10614*
+*Related: C-2486, N-5, N-10541*
 
 ---
 
@@ -189,7 +189,7 @@ Video Timestamp: 00:41:23–00:43:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2487, N-50, N-5, N-10613*
+*Related: C-2487, N-22, N-5, N-10540*
 
 ---
 
@@ -203,7 +203,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbatim read; original source not displayed)
 
-*Related: C-2488, N-10614, N-5*
+*Related: C-2488, N-10541, N-5*
 
 **A-1855.2** Statement attributed to the EU: "It is in our interest to keep the Strait of Hormuz open, and that's why we are also discussing what we can do in this regard."
 
@@ -213,7 +213,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-10614*
+*Related: C-2488, N-10541*
 
 **A-1855.3** Statement attributed to Britain: "While taking the necessary action to defend ourselves and our allies, we will not be drawn into the wider war."
 
@@ -223,7 +223,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-10614*
+*Related: C-2488, N-10541*
 
 **A-1855.4** Statement attributed to Australia: "Australia does not intend to send ships into the Strait of Hormuz."
 
@@ -233,7 +233,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-10614*
+*Related: C-2488, N-10541*
 
 **A-1855.5** Statement attributed to Japan: "We have not made any decisions whatsoever about dispatching escort ships."
 
@@ -243,7 +243,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-10614*
+*Related: C-2488, N-10541*
 
 **A-1855.6** Statement attributed to China: "The recent tense situation in the strait and the waters nearby has impacted the route for international goods and energy trade, disrupting peace and stability in the region and beyond."
 
@@ -253,7 +253,7 @@ Video Timestamp: 00:26:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-10614*
+*Related: C-2488, N-10541*
 
 **A-1855.7** Statement attributed to Italian Prime Minister Georgia Meloni describing the war as part of a "growing and dangerous trend of interventions that sit outside the scope of international law."
 
@@ -263,7 +263,7 @@ Video Timestamp: 00:27:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-996, N-10614*
+*Related: C-2488, N-606, N-10541*
 
 **A-1855.8** Statement attributed to Spain: "Spain will never accept any stopgap measures because the objective must be for the war to end and for it to end now."
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:28:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-10614*
+*Related: C-2488, N-10541*
 
 **A-1855.9** Statement attributed to South Korea: "We will continue to communicate closely with the US while carefully reviewing the situation before making a decision."
 
@@ -283,7 +283,7 @@ Video Timestamp: 00:28:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-10614*
+*Related: C-2488, N-10541*
 
 **A-1855.10** Statement attributed to France / Emmanuel Macron: France willing to use French navy to escort ships only if the conflict stabilized.
 
@@ -293,7 +293,7 @@ Video Timestamp: 00:28:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2488, N-628, N-10614*
+*Related: C-2488, N-387, N-10541*
 
 ---
 
@@ -307,7 +307,7 @@ Video Timestamp: 00:36:50–00:40:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host reads her own piece verbatim)
 
-*Related: C-2493, N-3, N-998, N-10616*
+*Related: C-2493, N-3, N-607, N-10543*
 
 ---
 
@@ -321,7 +321,7 @@ Video Timestamp: 00:44:36–00:45:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbatim read; original screen not displayed)
 
-*Related: C-2489, N-339, N-50, N-10613*
+*Related: C-2489, N-226, N-22, N-10540*
 
 ---
 
@@ -335,7 +335,7 @@ Video Timestamp: 00:45:22–00:46:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2490, N-50, N-10613*
+*Related: C-2490, N-22, N-10540*
 
 ---
 
@@ -349,7 +349,7 @@ Video Timestamp: 00:46:20–00:47:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2491, N-50, N-10613*
+*Related: C-2491, N-22, N-10540*
 
 ---
 
@@ -363,7 +363,7 @@ Video Timestamp: 00:34:14–00:35:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read aloud; original screen not displayed)
 
-*Related: C-2492, N-5, N-10615*
+*Related: C-2492, N-5, N-10542*
 
 ---
 
@@ -379,7 +379,7 @@ Claim Count: 7
 Episode Count: Multiple (longitudinal)
 Investigative Pressure: High
 
-*Related: A-1846.1, A-1846.2, A-1846.3, A-1847.1, A-1848.1, A-1850.1, C-2476, C-2477, C-2478, C-2479, C-2480, C-2481, C-2483, N-10616*
+*Related: A-1846.1, A-1846.2, A-1846.3, A-1847.1, A-1848.1, A-1850.1, C-2476, C-2477, C-2478, C-2479, C-2480, C-2481, C-2483, N-10543*
 
 ---
 
@@ -392,11 +392,11 @@ Claim Count: 3
 Episode Count: Multiple
 Investigative Pressure: High
 
-*Related: A-1847.1, A-1852.1, A-1853.1, A-1854.1, A-1860.1, C-2479, C-2485, C-2486, C-2488, C-2492, N-10614*
+*Related: A-1847.1, A-1852.1, A-1853.1, A-1854.1, A-1860.1, C-2479, C-2485, C-2486, C-2488, C-2492, N-10541*
 
 ---
 
-**N-65** Benjamin Netanyahu
+**N-36** Benjamin Netanyahu
 
 Named as instigator of Iran war, referenced in relation to Charlie Kirk's June White House opposition, and subject of host speculation regarding death/health.
 
@@ -405,11 +405,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1847.1, A-1853.1, N-1, N-5, N-10614*
+*Related: A-1847.1, A-1853.1, N-1, N-5, N-10541*
 
 ---
 
-**N-133** Ben Shapiro
+**N-97** Ben Shapiro
 
 Subject of multiple Charlie Kirk text-message artifacts, subject of Milo Yiannopoulos disclosure (A-1848.1), and speaker in audio clip A-1851.
 
@@ -418,11 +418,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1846.1, A-1846.2, A-1848.1, A-1850.1, A-1851.1, C-2476, C-2478, C-2481, C-2483, C-2484, N-10616*
+*Related: A-1846.1, A-1846.2, A-1848.1, A-1850.1, A-1851.1, C-2476, C-2478, C-2481, C-2483, C-2484, N-10543*
 
 ---
 
-**N-989** Meghan McCain
+**N-603** Meghan McCain
 
 Author of X post A-1849.1 and subject of Charlie Kirk text A-1846.3.
 
@@ -435,7 +435,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-990** Bret Weinstein
+**N-604** Bret Weinstein
 
 Co-party to text exchange A-1847.1 with Charlie Kirk regarding Iran war.
 
@@ -444,11 +444,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1847.1, C-2479, C-2480, N-10612*
+*Related: A-1847.1, C-2479, C-2480, N-10539*
 
 ---
 
-**N-334** Milo Yiannopoulos
+**N-224** Milo Yiannopoulos
 
 Author of text messages disclosed in A-1848.1 regarding Ben Shapiro and TPUSA.
 
@@ -457,11 +457,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1848.1, C-2481, N-133*
+*Related: A-1848.1, C-2481, N-97*
 
 ---
 
-**N-224** Blake Neff
+**N-162** Blake Neff
 
 Author of X post A-1850.1 admitting Charlie/Ben rivalry.
 
@@ -470,11 +470,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1850.1, C-2483, N-133, N-10616*
+*Related: A-1850.1, C-2483, N-97, N-10543*
 
 ---
 
-**N-138** Michael Knowles
+**N-102** Michael Knowles
 
 Subject of audio clip A-1851.1; named as godfather to Candace Owens' daughter.
 
@@ -483,11 +483,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1851.1, C-2484, N-3, N-133*
+*Related: A-1851.1, C-2484, N-3, N-97*
 
 ---
 
-**N-994** Pete Hegseth
+**N-605** Pete Hegseth
 
 Speaker in audio clip A-1852.1 regarding Strait of Hormuz.
 
@@ -496,11 +496,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1852.1, C-2485, N-5, N-10614*
+*Related: A-1852.1, C-2485, N-5, N-10541*
 
 ---
 
-**N-50** Tucker Carlson
+**N-22** Tucker Carlson
 
 Subject of CIA referral disclosure (A-1854.1) and multiple X posts (A-1857.1, A-1858.1, A-1859.1).
 
@@ -509,11 +509,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1854.1, A-1857.1, A-1858.1, A-1859.1, C-2487, C-2489, C-2490, C-2491, N-5, N-10613*
+*Related: A-1854.1, A-1857.1, A-1858.1, A-1859.1, C-2487, C-2489, C-2490, C-2491, N-5, N-10540*
 
 ---
 
-**N-996** Georgia Meloni
+**N-606** Georgia Meloni
 
 Speaker attributed with statement (A-1855.7) criticizing US-Israeli war as outside international law.
 
@@ -522,11 +522,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1855.7, C-2488, N-10614*
+*Related: A-1855.7, C-2488, N-10541*
 
 ---
 
-**N-628** Emmanuel Macron
+**N-387** Emmanuel Macron
 
 Speaker attributed with statement (A-1855.10) regarding French navy escort.
 
@@ -535,11 +535,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1855.10, C-2488, N-10614*
+*Related: A-1855.10, C-2488, N-10541*
 
 ---
 
-**N-998** Jordan Peterson
+**N-607** Jordan Peterson
 
 Quoted by host in article A-1856.1.
 
@@ -552,7 +552,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-339** Randy Fine
+**N-226** Randy Fine
 
 Author of X post A-1857.1.
 
@@ -561,11 +561,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1857.1, C-2489, N-50, N-10613*
+*Related: A-1857.1, C-2489, N-22, N-10540*
 
 ---
 
-**N-10612** Charlie Kirk Iran War Opposition (June 2025)
+**N-10539** Charlie Kirk Iran War Opposition (June 2025)
 
 Investigative target: documentation of Charlie Kirk's documented opposition to a US-Iran war in June 2025, including White House advocacy and characterization of neocons as "maniacs."
 
@@ -574,11 +574,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1847.1, C-2479, C-2480, N-1, N-990, N-5*
+*Related: A-1847.1, C-2479, C-2480, N-1, N-604, N-5*
 
 ---
 
-**N-10613** Tucker Carlson CIA Investigation
+**N-10540** Tucker Carlson CIA Investigation
 
 Investigative target: claimed CIA criminal referral against Tucker Carlson under FARA, based on communications with Iranian contacts prior to the war.
 
@@ -587,11 +587,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1854.1, A-1857.1, A-1858.1, A-1859.1, C-2487, C-2489, C-2490, C-2491, N-50*
+*Related: A-1854.1, A-1857.1, A-1858.1, A-1859.1, C-2487, C-2489, C-2490, C-2491, N-22*
 
 ---
 
-**N-10614** Strait of Hormuz / US-Iran War Context
+**N-10541** Strait of Hormuz / US-Iran War Context
 
 Investigative target: status of the Strait of Hormuz, US-Iran military engagement, and allied-nation non-participation as of March 2026.
 
@@ -600,11 +600,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1852.1, A-1853.1, A-1855.1 through A-1855.10, A-1860.1, C-2485, C-2486, C-2488, N-5, N-65*
+*Related: A-1852.1, A-1853.1, A-1855.1 through A-1855.10, A-1860.1, C-2485, C-2486, C-2488, N-5, N-36*
 
 ---
 
-**N-10615** US Embassy Baghdad Attack (March 2026)
+**N-10542** US Embassy Baghdad Attack (March 2026)
 
 Investigative target: drone strike on US embassy complex in Baghdad and US evacuation advisory.
 
@@ -617,7 +617,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10616** Charlie Kirk Legacy Control Dispute
+**N-10543** Charlie Kirk Legacy Control Dispute
 
 Investigative target: ongoing contest over public interpretation of Charlie Kirk's political positions, with focus on his documented relationship with Ben Shapiro, his Iran-war opposition, and host's contention that neocons are misrepresenting his positions.
 
@@ -626,7 +626,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1846.1, A-1847.1, A-1848.1, A-1850.1, A-1856.1, C-2476, C-2478, C-2480, C-2481, C-2483, C-2493, N-133*
+*Related: A-1846.1, A-1847.1, A-1848.1, A-1850.1, A-1856.1, C-2476, C-2478, C-2480, C-2481, C-2483, C-2493, N-97*
 
 ---
 
@@ -639,7 +639,7 @@ Claim Timestamp: 00:08:50–00:09:46
 Claim: Charlie Kirk privately told Candace Owens that Ben Shapiro was "unhinged" and advised her to "Stay the course."
 
 Anchored Artifacts: A-1846.1
-Mentions: N-1, N-3, N-133
+Mentions: N-1, N-3, N-97
 
 Related Nodes:
 
@@ -668,7 +668,7 @@ Claim Timestamp: 00:21:32–00:21:48
 Claim: Charlie Kirk privately texted Candace Owens that the McCains were "a disgraceful family for the ways in which they have betrayed Americans and allowed for mass murder and bloody wars overseas."
 
 Anchored Artifacts: A-1846.3
-Mentions: N-1, N-3, N-989
+Mentions: N-1, N-3, N-603
 
 Related Nodes:
 
@@ -683,9 +683,9 @@ Claim Timestamp: 00:10:32–00:13:29
 Claim: A June 18 text exchange between Charlie Kirk and Bret Weinstein documents Charlie stating he was "spending two full days at the White House trying to persuade President Trump not to initiate a war with Iran," and that he was "in the White House all day fighting for America."
 
 Anchored Artifacts: A-1847.1
-Mentions: N-1, N-5, N-990
+Mentions: N-1, N-5, N-604
 
-Related Nodes: N-10612
+Related Nodes: N-10539
 
 Investigative Direction: Verify White House visitor logs for Charlie Kirk on June 18, 2025; verify original text messages through device forensics.
 
@@ -698,9 +698,9 @@ Claim Timestamp: 00:11:38–00:12:38
 Claim: In the June 18 text exchange with Bret Weinstein, Charlie Kirk wrote "We have to shut these maniacs down" regarding neocons advocating war with Iran.
 
 Anchored Artifacts: A-1847.1
-Mentions: N-1, N-990
+Mentions: N-1, N-604
 
-Related Nodes: N-10612
+Related Nodes: N-10539
 
 Investigative Direction: Verify original message; cross-reference with contemporaneous public statements.
 
@@ -713,7 +713,7 @@ Claim Timestamp: 00:07:35–00:08:50
 Claim: A text exchange between Milo Yiannopoulos and Charlie Kirk describes Ben Shapiro as having "began seek to secretly commission hit jobs on Turning Point USA a decade ago," with Charlie stating he wanted to allow it to "play out" before responding publicly.
 
 Anchored Artifacts: A-1848.1
-Mentions: N-133, N-334, N-1
+Mentions: N-97, N-224, N-1
 
 Related Nodes:
 
@@ -728,7 +728,7 @@ Claim Timestamp: 00:20:00–00:20:51
 Claim: Meghan McCain posted on X: "Stop sharing dead people's text messages, you absolute psychopaths."
 
 Anchored Artifacts: A-1849.1
-Mentions: N-3, N-989
+Mentions: N-3, N-603
 
 
 Investigative Direction: Direct retrieval of the original X post via archive.
@@ -742,7 +742,7 @@ Claim Timestamp: 00:13:29–00:16:34
 Claim: Blake Neff posted on X acknowledging Charlie Kirk and Ben Shapiro "differed about the best direction for the conservative movement" and that "Charlie saw Ben as a rival."
 
 Anchored Artifacts: A-1850.1
-Mentions: N-133, N-224, N-1
+Mentions: N-97, N-162, N-1
 
 Related Nodes:
 
@@ -757,7 +757,7 @@ Claim Timestamp: 00:18:54–00:20:00
 Claim: An on-stage exchange shows Ben Shapiro pressing Michael Knowles to state "the sentence with her name in it" regarding Candace Owens allegedly attacking "Erika Curren," with Knowles refusing.
 
 Anchored Artifacts: A-1851.1
-Mentions: N-3, N-133, N-138
+Mentions: N-3, N-97, N-102
 
 
 Investigative Direction: Obtain the full unedited video clip; verify date and venue.
@@ -771,9 +771,9 @@ Claim Timestamp: 00:24:34–00:25:35
 Claim: Pete Hegseth stated in a press exchange: "The only thing prohibiting transit in the straits right now is Iran shooting at shipping. It is open for transit should Iran not do that."
 
 Anchored Artifacts: A-1852.1
-Mentions: N-5, N-994
+Mentions: N-5, N-605
 
-Related Nodes: N-10614
+Related Nodes: N-10541
 
 Investigative Direction: Obtain the full press exchange transcript and date.
 
@@ -786,9 +786,9 @@ Claim Timestamp: 00:31:42–00:34:14
 Claim: Donald Trump stated in a public address: "We don't need oil... we did it out of habit... We have some great Middle Eastern countries there, Israel there. So, we did it for a lot of reasons."
 
 Anchored Artifacts: A-1853.1
-Mentions: N-5, N-65
+Mentions: N-5, N-36
 
-Related Nodes: N-10614
+Related Nodes: N-10541
 
 Investigative Direction: Obtain full transcript and verify date.
 
@@ -801,9 +801,9 @@ Claim Timestamp: 00:41:23–00:43:44
 Claim: Tucker Carlson stated in a video that "the CIA is preparing some kind of criminal referral against me, a crime report to Department of Justice on the basis of a supposed crime I committed... talking to people in Iran before the war... under... the Foreign Agent Act."
 
 Anchored Artifacts: A-1854.1
-Mentions: N-50
+Mentions: N-22
 
-Related Nodes: N-10613
+Related Nodes: N-10540
 
 Investigative Direction: Verify date of Tucker's disclosure; obtain any DOJ or CIA acknowledgment/denial; check whether a formal referral exists.
 
@@ -816,9 +816,9 @@ Claim Timestamp: 00:26:19–00:28:13
 Claim: Multiple allied-nation statements, as read by the host, decline or condition participation in US-led Strait of Hormuz escort operations. Italy's Meloni described the war as outside international law; France conditioned participation on stabilization.
 
 Anchored Artifacts: A-1855.1, A-1855.2, A-1855.3, A-1855.4, A-1855.5, A-1855.6, A-1855.7, A-1855.8, A-1855.9, A-1855.10
-Mentions: N-5, N-628, N-996
+Mentions: N-5, N-387, N-606
 
-Related Nodes: N-10614
+Related Nodes: N-10541
 
 Investigative Direction: Obtain original government press releases or transcripts for each quoted statement and verify dates.
 
@@ -831,9 +831,9 @@ Claim Timestamp: 00:44:36–00:45:22
 Claim: Randy Fine posted on X: "It sounds like Tucker Carlson is learning the hard way. 'And I will bless those who bless you, and the one who curses you I will curse.'"
 
 Anchored Artifacts: A-1857.1
-Mentions: N-50, N-339
+Mentions: N-22, N-226
 
-Related Nodes: N-10613
+Related Nodes: N-10540
 
 Investigative Direction: Retrieve original X post via archive.
 
@@ -846,9 +846,9 @@ Claim Timestamp: 00:45:22–00:46:20
 Claim: Laura Loomer posted on X claiming to have "created a list... Of conservative influence who I believe are taking money from Iran, Russia, and Qatar" and stated she provided it to the DOJ.
 
 Anchored Artifacts: A-1858.1
-Mentions: N-50, N-91
+Mentions: N-22, N-60
 
-Related Nodes: N-10613
+Related Nodes: N-10540
 
 Investigative Direction: Verify whether the list has ever been published publicly; check DOJ acknowledgment.
 
@@ -861,9 +861,9 @@ Claim Timestamp: 00:46:20–00:47:29
 Claim: Alex Stein posted on X: "America is totally compromised by foreign actors. If Tucker Carlson gets arrested before anybody on the Epstein list."
 
 Anchored Artifacts: A-1859.1
-Mentions: N-50
+Mentions: N-22
 
-Related Nodes: N-10613
+Related Nodes: N-10540
 
 Investigative Direction: Retrieve original X post via archive.
 
@@ -878,7 +878,7 @@ Claim: A news headline states: "US urges citizens to leave Iraq on after attack 
 Anchored Artifacts: A-1860.1
 Mentions: N-5
 
-Related Nodes: N-10615
+Related Nodes: N-10542
 
 Investigative Direction: Obtain the original news article; verify date and source publication.
 
@@ -891,7 +891,7 @@ Claim Timestamp: 00:36:50–00:40:07
 Claim: Candace Owens published an article (read aloud in this episode) quoting Jordan Peterson ("you cannot twist the fabric of reality without it snapping back") and arguing Zionists are "their own worst enemy" pursuing a "fake it till you make it" war strategy.
 
 Anchored Artifacts: A-1856.1
-Mentions: N-3, N-998
+Mentions: N-3, N-607
 
 Related Nodes:
 

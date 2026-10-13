@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 448a8189da2e8602111e8248d8480ad1e223b659b46e8eae9f2d0987ad1dd63b
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-11108, N-11109, N-11110, N-11111, N-11112
-  - Reused Nodes Appearing: N-777, N-3, N-426, N-607, N-133, N-1, N-69
-  - Hole-minted Nodes (wave3): N-787
+  - New Nodes Introduced: N-10709, N-10710, N-10711, N-10712, N-10713
+  - Reused Nodes Appearing: N-498, N-3, N-273, N-374, N-97, N-1, N-40
+  - Hole-minted Nodes (wave3): N-503
   - (see registers)
 
 # Meta-Data
@@ -31,7 +31,7 @@
 Episode 124 Ledger Summary
 Artifact Families Introduced: A-2115, A-2116, A-2117, A-2118, A-2119, A-2120, A-2121, A-2122, A-2123, A-2124, A-2125, A-2126, A-2127, A-2128
 Claim Range: C-3000 – C-3016, C-3761, C-3764, C-3770
-New Nodes Introduced: N-11108, N-11109, N-11110, N-11111, N-11112
+New Nodes Introduced: N-10709, N-10710, N-10711, N-10712, N-10713
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twigs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Ackman, Barry Weiss, Benny Johnson, Josh Hammer, Caitlyn Oliver, Samantha Carner, Miss Noble, Jeremy Boring, Tim Pool, Blake Nef, Baron Coleman, Frank Turk, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kovat/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Preene Bowler)
 
 ## 6. Meme Register
@@ -110,7 +110,7 @@ Video Timestamp: 00:07:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3002, N-66*
+*Related: C-3002, N-37*
 
 **A-2117.2** Audio clip of commentator stating Tyler Robinson's parents identified him from a news photo and began questioning him about his grandfather's gun.
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:06:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host account; pledge not shown)
 
-*Related: C-3770, N-66, N-69*
+*Related: C-3770, N-37, N-40*
 
 ---
 
@@ -192,7 +192,7 @@ Video Timestamp: 00:19:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3006, N-11108*
+*Related: C-3006, N-10709*
 
 **A-2120.2** Still image of Tyler Robinson's actual Dodge Challenger (post-tow), featuring a singular exhaust pipe.
 
@@ -202,7 +202,7 @@ Video Timestamp: 00:19:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3006, N-11108*
+*Related: C-3006, N-10709*
 
 ---
 
@@ -288,7 +288,7 @@ Video Timestamp: 00:35:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3012, N-11110*
+*Related: C-3012, N-10711*
 
 ---
 
@@ -302,7 +302,7 @@ Video Timestamp: 00:40:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3013, N-11109*
+*Related: C-3013, N-10710*
 
 ---
 
@@ -330,7 +330,7 @@ Video Timestamp: 01:01:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3015, N-11111, N-1*
+*Related: C-3015, N-10712, N-1*
 
 **A-2127.2** Host's on-air $10,000 bounty for who Ben Shapiro was at lunch with in LA when Charlie Kirk was shot, with tips to candaceowens.com (verbal reference; no displayed artifact)
 
@@ -340,7 +340,7 @@ Video Timestamp: 01:07:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3764, N-3, N-133, N-11111*
+*Related: C-3764, N-3, N-97, N-10712*
 
 ---
 
@@ -370,13 +370,13 @@ Confidence Level: Medium
 
 # IV. Node Register
 
-**N-787** Justin Davis
+**N-503** Justin Davis
 
 First named by the host at 01:03:20 in episode 124.
 
 *Related: C-3015*
 
-**N-11108** Car Exhaust Pipe Discrepancy
+**N-10709** Car Exhaust Pipe Discrepancy
 
 The discrepancy between the dual-exhaust Dodge Challenger shown in preliminary hearing footage (A-2120.1) and Tyler Robinson's known single-exhaust Dodge Challenger (A-2120.2).
 
@@ -389,7 +389,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-11109** Bullet Jacket Fragment Diameter Discrepancy
+**N-10710** Bullet Jacket Fragment Diameter Discrepancy
 
 The discrepancy between the 6A bullet jacket fragment diameter range (286–301 thousandths of an inch, per A-2125.1) and the minimum cartridge diameter (.308) for a .30-06 rifle.
 
@@ -402,7 +402,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-11110** Tyler Robinson DNA Most Degraded Anomaly
+**N-10711** Tyler Robinson DNA Most Degraded Anomaly
 
 The anomaly that Tyler Robinson's DNA sample on the firearm was the most degraded of all contributors identified, despite the prosecution's theory that Robinson handled the gun immediately prior to disposal.
 
@@ -415,7 +415,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11111** Ben Shapiro Car Ride Live Updates
+**N-10712** Ben Shapiro Car Ride Live Updates
 
 The discrepancy that Ben Shapiro's security team received live updates from someone in Charlie Kirk's vehicle during the seven-minute transport to the hospital, while the vehicle occupants have publicly given accounts that do not readily identify who could have made such calls.
 
@@ -428,7 +428,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11112** Tyler-Lance Text Message Extraction Source
+**N-10713** Tyler-Lance Text Message Extraction Source
 
 The investigative question of which Tel Aviv-based company extracted the Tyler-Lance text messages introduced at the preliminary hearing.
 
@@ -450,7 +450,7 @@ Claim Timestamp: 00:04:24
 Claim: The displayed collage shows multiple influencers using the word "overwhelming" to describe the evidence against Tyler Robinson in the preliminary hearing.
 
 Anchored Artifacts: A-2115.1
-Mentions: N-2, N-69
+Mentions: N-2, N-40
 
 
 Investigative Direction: Cross-reference timestamps and language across influencer posts to determine whether messaging was coordinated.
@@ -464,7 +464,7 @@ Claim Timestamp: 00:05:14
 Claim: Josh Hammer stated on Court TV that the preliminary hearing presentation was "the most overwhelming presentation that I have ever seen this early on during a legal proceeding in my entire life."
 
 Anchored Artifacts: A-2116.1
-Mentions: N-86
+Mentions: N-55
 
 Related Nodes:
 
@@ -479,7 +479,7 @@ Claim Timestamp: 00:06:50
 Claim: Multiple pre-hearing media segments asserted that Tyler Robinson's parents identified him from news footage, interrogated him about his grandfather's gun, and helped him turn himself in to authorities.
 
 Anchored Artifacts: A-2117.1, A-2117.2, A-2117.3
-Mentions: N-69
+Mentions: N-40
 
 Related Nodes:
 
@@ -494,7 +494,7 @@ Claim Timestamp: 00:17:15
 Claim: Lance Twigs testified that he could recognize Robinson only by generic clothing features (jeans, similar shoes, sunglasses, hat), stating he could not be 100% certain from camera quality alone.
 
 Anchored Artifacts: A-2118.1
-Mentions: N-69, N-84
+Mentions: N-40, N-54
 
 Related Nodes:
 
@@ -509,7 +509,7 @@ Claim Timestamp: 00:27:55
 Claim: Lance Twigs testified that Tyler Robinson was not political, had not discussed Charlie Kirk with him, and engaged with politics primarily via radio during carpool.
 
 Anchored Artifacts: A-2118.2
-Mentions: N-69, N-1, N-84
+Mentions: N-40, N-1, N-54
 
 Related Nodes:
 
@@ -538,9 +538,9 @@ Claim Timestamp: 00:19:09
 Claim: The Dodge Challenger shown in preliminary hearing footage featured dual exhaust pipes, while Tyler Robinson's actual Dodge Challenger featured a singular exhaust system.
 
 Anchored Artifacts: A-2120.1, A-2120.2
-Mentions: N-69
+Mentions: N-40
 
-Related Nodes: N-11108
+Related Nodes: N-10709
 
 Investigative Direction: Obtain vehicle registration and VIN data for Tyler Robinson's Challenger to verify exhaust configuration.
 
@@ -553,7 +553,7 @@ Claim Timestamp: 00:42:26
 Claim: Witness testimony confirmed that Exhibit 12.4 compilation video shows movements believed to be Robinson on campus but does not include footage of the alleged shooting itself.
 
 Anchored Artifacts: A-2121.1
-Mentions: N-69
+Mentions: N-40
 
 Related Nodes:
 
@@ -596,9 +596,9 @@ Claim Timestamp: 00:31:06
 Claim: ATF forensic biologist Caitlyn Oliver testified that characterizing media reports as "Mr. Robinson's DNA is found on this item" would constitute a "source attribution" that is "not scientifically defensible."
 
 Anchored Artifacts: A-2124.1
-Mentions: N-69
+Mentions: N-40
 
-Related Nodes: N-11110
+Related Nodes: N-10711
 
 Investigative Direction: Compare Caitlyn Oliver's testimony against ATF report language and media headlines for accuracy of characterization.
 
@@ -612,7 +612,7 @@ Claim: Caitlyn Oliver testified that DNA samples from the trigger and trigger gu
 
 Anchored Artifacts: A-2124.2
 
-Related Nodes: N-11110
+Related Nodes: N-10711
 
 Investigative Direction: Obtain the full DNA report to verify contributor counts and threshold interpretations.
 
@@ -625,9 +625,9 @@ Claim Timestamp: 00:35:20
 Claim: Caitlyn Oliver confirmed that Tyler Robinson's DNA sample was the most degraded of all contributors found on the firearm (swab 1.3 of trigger/trigger guard).
 
 Anchored Artifacts: A-2124.3
-Mentions: N-69
+Mentions: N-40
 
-Related Nodes: N-11110
+Related Nodes: N-10711
 
 Investigative Direction: Cross-reference degradation findings with handling/timeline assumptions in the prosecution's theory.
 
@@ -641,7 +641,7 @@ Claim: ATF ballistics expert Samantha Carner testified that the 6A bullet jacket
 
 Anchored Artifacts: A-2125.1
 
-Related Nodes: N-11109
+Related Nodes: N-10710
 
 Investigative Direction: Cross-reference measured diameter with .30-06 SAAMI specifications and the recovered rifle.
 
@@ -654,7 +654,7 @@ Claim Timestamp: 00:49:12
 Claim: Benny Johnson claimed in his post-court video that the court displayed "high-definition quality video 4K of Tyler Robinson committing the murder of Charlie Kirk" on "giant screens" with "crystal clear" visibility of face and license plate.
 
 Anchored Artifacts: A-2126.1
-Mentions: N-69, N-124, N-1
+Mentions: N-40, N-89, N-1
 
 Related Nodes:
 
@@ -669,9 +669,9 @@ Claim Timestamp: 01:01:37
 Claim: Ben Shapiro stated on his show that during the approximate 7-minute car ride to the hospital, his security was on the phone with Charlie's security, providing updates while Charlie was still alive in the back of the vehicle.
 
 Anchored Artifacts: A-2127.1
-Mentions: N-1, N-133, N-777, N-787
+Mentions: N-1, N-97, N-498, N-503
 
-Related Nodes: N-11111
+Related Nodes: N-10712
 
 Investigative Direction: Identify the person in Charlie's vehicle who provided the updates; verify against witness accounts of Brian Harpole, Rick Cutler, Frank Turk, Dan Flood, and Justin Davis.
 
@@ -684,11 +684,11 @@ Claim Timestamp: 00:24:20
 Claim: Text messages displayed on-screen between Tyler Robinson and Lance Twigs included lines such as "I am stuck in Orem for a little while longer yet," "if I'm able to grab my rifle unseen," and "Some hate just can't be negotiated out."
 
 Anchored Artifacts: A-2123.1
-Mentions: N-69, N-84
+Mentions: N-40, N-54
 
 Related Nodes:
 
-Investigative Direction: Obtain certified chat exports and metadata; cross-reference with the disclosed Tel Aviv extraction vendor (see N-11112).
+Investigative Direction: Obtain certified chat exports and metadata; cross-reference with the disclosed Tel Aviv extraction vendor (see N-10713).
 
 ---
 
@@ -701,8 +701,8 @@ Claim: The host says Tim Pool is lying when he says he did not receive updates f
 Transcript Snippet: Tim Pool is lying through his teeth. He did not receive updates from somebody in that car about Charlie's status.
 
 Anchored Artifacts: 
-Mentions: N-3, N-426, N-607, N-133, N-1
-Related Nodes: N-11111
+Mentions: N-3, N-273, N-374, N-97, N-1
+Related Nodes: N-10712
 Investigative Direction: Identify who in the car was in contact with outside security teams and when.
 
 ---
@@ -716,8 +716,8 @@ Claim: After asking who on Ben Shapiro's security team was receiving updates on 
 Transcript Snippet: I will put up $10,000 bounty on that piece of information.
 
 Anchored Artifacts: A-2127.2
-Mentions: N-3, N-133
-Related Nodes: N-11111
+Mentions: N-3, N-97
+Related Nodes: N-10712
 Investigative Direction: Collect tip-line submissions on the lunch; corroborate any named attendee against location data or witnesses.
 
 ---
@@ -731,7 +731,7 @@ Claim: Recapping the pre-hearing narrative that Tyler Robinson's parents turned 
 Transcript Snippet: In fact, Bill Aman, King of the Hamptons, immediately pledged $1 million to Tyler Robinson's father, Matt Robinson.
 
 Anchored Artifacts: A-2117.4
-Mentions: N-3, N-66, N-69
+Mentions: N-3, N-37, N-40
 Related Nodes:
 Confidence: medium
 Uncertainty: Host account; the pledge itself is not shown. Matt Robinson has no person node (person band full, awaiting Daveed).
@@ -741,7 +741,7 @@ Investigative Direction: Locate Bill Ackman's original pledge post and any recor
 
 # VI. Optional Flags
 
-- **Tel Aviv extraction source:** Host reference only; not visually confirmed in the displayed text messages. See N-11112.
+- **Tel Aviv extraction source:** Host reference only; not visually confirmed in the displayed text messages. See N-10713.
 - **Penguitch steak receipt:** Referenced by host as documentary proof Tyler was at 9:47 PM in Penguitch (3 hours from UVU); receipt not displayed in this episode.
 - **Bill Aman $1 million pledge:** Referenced as fact; no artifact (clip, screenshot, press release) displayed in this episode.
 - **Erika Kirk / Barry Weiss interview:** Referenced as showing Erika "made up her mind" pre-hearing; no clip displayed in this episode.

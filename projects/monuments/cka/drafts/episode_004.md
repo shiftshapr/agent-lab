@@ -17,8 +17,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1104, A-1105, A-1106, A-1107, A-1108, A-1109, A-1110
   - Claim Range: C-1175-C-1185, C-3736, C-3765
-  - New Nodes Introduced: N-102, N-103, N-104, N-10103, N-10104, N-10105, N-10106, N-10107, N-10108, N-10109, N-10110, N-10111, N-10112
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-50, N-65, N-68, N-69, N-71, N-75, N-84, N-86, N-99, N-45, N-67, N-70
+  - New Nodes Introduced: N-69, N-70, N-71, N-10038, N-10039, N-10040, N-10041, N-10042, N-10043, N-10044, N-10045, N-10046, N-10047
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-22, N-36, N-39, N-40, N-42, N-46, N-54, N-55, N-68, N-17, N-38, N-41
 
 ## 2. Executive Summary
 
@@ -31,70 +31,70 @@ CKA seq 4 dissects the alleged text messages between Tyler Robinson and Lance Tw
 **A-1104.1** Sept 10 text: 'Drop what you are doing. Look under my keyboard.' Lance retrieves note, photographs it, note then destroyed.
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:04:59
-*Related: C-1177, N-69, N-84*
+*Related: C-1177, N-40, N-54*
 Transcript Snippet: Drop what you are doing. Look under my keyboard.
 Confidence: high
 
 **A-1104.2** Sept 10 text referencing 'some crazy old dude' interrogated and 'someone in similar clothing' – enables 5:30 PM timeline placement.
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:06:51
-*Related: C-1178, C-1179, N-69, N-84, N-71*
+*Related: C-1178, C-1179, N-40, N-54, N-42*
 Transcript Snippet: No, they grabbed some crazy old dude, then interrogated someone in similar clothing.
 Confidence: high
 
 **A-1104.3** Sept 10 motive statement: 'I had enough of his hatred. Some hate cannot be negotiated out.'
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:10:17
-*Related: C-1179, N-69, N-1*
+*Related: C-1179, N-40, N-1*
 Transcript Snippet: I had enough of his hatred. Some hate cannot be negotiated out.
 Confidence: high
 
 **A-1104.4** Sept 10 text admitting rifle left in bush where he 'changed outfits'.
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:12:07
-*Related: C-1180, C-1183, N-69*
+*Related: C-1180, C-1183, N-40*
 Transcript Snippet: I had to leave it in a bush where I changed outfits.
 Confidence: high
 
 **A-1104.5** Sept 10 text on engraved bullets described as 'mostly a big meme'.
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:12:55
-*Related: C-1179, N-69*
+*Related: C-1179, N-40*
 Transcript Snippet: Remember how I was engraving the bullets? The effing messages are mostly a big meme.
 Confidence: high
 
 **A-1104.6** Sept 10 closing: 'judging from today, I'd say grandpa's gun'.
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:13:26
-*Related: C-1179, N-69*
+*Related: C-1179, N-40*
 Transcript Snippet: Okay, judging from today, I'd say grandpa's gun. Want to make very make it very clear. This is grandpa's gun.
 Confidence: high
 
 **A-1104.7** Sept 11 text: 'delete this exchange. My dad wants photos of the rifle.'
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:20:33
-*Related: C-1181, N-69, N-84*
+*Related: C-1181, N-40, N-54*
 Transcript Snippet: delete this exchange. My dad wants photos of the rifle.
 Confidence: high
 
 **A-1104.8** Sept 11 text: 'Since Trump got into office, my dad has been pretty diehard MAGA.'
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:21:39
-*Related: C-1179, N-69*
+*Related: C-1179, N-40*
 Transcript Snippet: Since Trump got into office, my dad has been pretty diehard MAGA.
 Confidence: high
 
 **A-1104.9** Sept 11 text: 'I'm going to turn myself in willingly. One of my neighbors is here. He is deputy for the sheriff.'
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:22:24
-*Related: C-1179, C-1181, N-69, N-84*
+*Related: C-1179, C-1181, N-40, N-54*
 Transcript Snippet: I'm going to turn myself in willingly. One of my neighbors is here. He is deputy for the sheriff.
 Confidence: high
 
 **A-1104.10** Sept 11 text: 'Don't talk to the media. Please don't take any interviews… ask for a lawyer and stay silent.'
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:22:42
-*Related: C-1181, N-69, N-84*
+*Related: C-1181, N-40, N-54*
 Transcript Snippet: Don't talk to the media. Please don't take any interviews… ask for a lawyer and stay silent.
 Confidence: high
 
@@ -105,14 +105,14 @@ Confidence: high
 **A-1105.1** FBI Sept 11 morning press conference announcing recovery of high-powered bolt-action rifle in wooded area.
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:17:47
-*Related: C-1179, N-70*
+*Related: C-1179, N-41*
 Transcript Snippet: this morning, I can tell you that we have recovered what we believe is the weapon… high-powered bolt-action rifle.
 Confidence: high
 
 **A-1105.2** Governor Cox Sept 12 press conference: Robinson in 'consistent clothing' with morning surveillance; UVU arrival 8:29 AM in gray Dodge Challenger.
 Event Timestamp: 2025-09-12
 Video Timestamp: 00:28:54
-*Related: C-1182, N-70*
+*Related: C-1182, N-41*
 Transcript Snippet: Robinson was observed in consistent clothing with those surveillance images.
 Confidence: high
 
@@ -126,7 +126,7 @@ Confidence: high
 **A-1105.4** FBI Salt Lake City static images of alleged shooter walking up stairs, released ~10:00 AM Mountain Time.
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:19:20
-*Related: C-1183, N-69*
+*Related: C-1183, N-40*
 Transcript Snippet: FBI Salt Lake City drops static images of the alleged shooter walking up the stairs.
 Confidence: high
 
@@ -137,21 +137,21 @@ Confidence: high
 **A-1106.1** New York Post exclusive at 9:21 AM Mountain Time: photo of gun and bullets; introduced 'trans narrative'.
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:19:08
-*Related: C-1179, N-69*
+*Related: C-1179, N-40*
 Transcript Snippet: They publish at 9:21 a.m., two hours after that first press conference, and say exclusive.
 Confidence: high
 
 **A-1106.2** TMZ footage: man in maroon t-shirt and shorts walking through neighborhood outside university at 8:07 AM.
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:15:07
-*Related: C-1182, C-1183, N-70*
+*Related: C-1182, C-1183, N-41*
 Transcript Snippet: TMZ shows us the footage, remember, of the man wearing a maroon t-shirt and shorts.
 Confidence: high
 
 **A-1106.3** Discord statement: text messages were not coordinated on their server.
 Event Timestamp: 2025-09-12
 Video Timestamp: 00:17:20
-*Related: C-1176, N-69*
+*Related: C-1176, N-40*
 Transcript Snippet: Discord is going to later say that those messages were not coordinated on their server.
 Confidence: medium
 
@@ -162,21 +162,21 @@ Confidence: medium
 **A-1107.1** Tucker Carlson clip criticizing Netanyahu's reaction to Charlie's death as ghoulish and political.
 Event Timestamp: 2026-03-17
 Video Timestamp: 00:43:09
-*Related: C-1185, N-50, N-65, N-1, C-3736*
+*Related: C-1185, N-22, N-36, N-1, C-3736*
 Transcript Snippet: I was shocked and sickened by the reaction of the ghoulish… prime minister of Israel.
 Confidence: high
 
 **A-1107.2** Tucker Carlson clip on donor intimidation: Charlie lost a $2M donation two days before his death after publicly pledging to bring Tucker to the next Turning Point conference.
 Event Timestamp: 2026-03-17
 Video Timestamp: 00:45:45
-*Related: C-1185, N-50, N-1, C-3736*
+*Related: C-1185, N-22, N-1, C-3736*
 Transcript Snippet: two days before he died, he lost a $2 million donation… to bring me to the next Turning Point conference.
 Confidence: high
 
 **A-1107.3** Megan Kelly clip corroborating donor pressure tactics against pro-Candace voices.
 Event Timestamp: 2026-03-17
 Video Timestamp: 00:52:17
-*Related: C-1185, N-75, N-1*
+*Related: C-1185, N-46, N-1*
 Transcript Snippet: Charlie is not the only one who's been threatened… I, too, have gotten that.
 Confidence: high
 
@@ -187,7 +187,7 @@ Confidence: high
 **A-1108.1** Rob McCoy statement on Candace Owens investigation, citing biblical proverb 'A friend loves at all times.'
 Event Timestamp: 2026-03-17
 Video Timestamp: 00:57:09
-*Related: C-1185, N-45, N-1, N-3*
+*Related: C-1185, N-17, N-1, N-3*
 Transcript Snippet: I only wish at this tragic time of mourning she would be the friend to Charlie Kirk that he was to her.
 Confidence: high
 
@@ -209,7 +209,7 @@ Confidence: high
 **A-1110.1** UVU surveillance: Robinson arriving on campus in gray Dodge Challenger at 8:29 AM in maroon t-shirt, light shorts, black hat.
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:28:26
-*Related: C-1182, C-1183, N-70, N-69*
+*Related: C-1182, C-1183, N-41, N-40*
 Transcript Snippet: identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m.
 Confidence: high
 
@@ -217,7 +217,7 @@ Confidence: high
 
 ## 4. Node Register
 
-**N-69** Tyler Robinson
+**N-40** Tyler Robinson
 
 Node Type: Person
 22-year-old alleged killer of Charlie Kirk; subject of indictment text messages analyzed in episode.
@@ -226,7 +226,7 @@ Node Type: Person
 
 ---
 
-**N-84** Lance Twigs
+**N-54** Lance Twigs
 
 Node Type: Person
 22-year-old boyfriend/roommate of Tyler Robinson; received the keyboard note; central to host's 'Lance being protected' thesis.
@@ -262,7 +262,7 @@ Charlie's widow; referenced via 'evildoers' grieving-widow meme.
 
 ---
 
-**N-71** George Zinn
+**N-42** George Zinn
 
 Node Type: Person
 Initial suspect ('the decoy boy') released hours later; central to host's multi-person theory.
@@ -271,7 +271,7 @@ Initial suspect ('the decoy boy') released hours later; central to host's multi-
 
 ---
 
-**N-70** Spencer Cox
+**N-41** Spencer Cox
 
 Node Type: Person
 Utah governor; press conference source for outfit consistency claim; subject of host's 'mouthpiece' criticism.
@@ -280,7 +280,7 @@ Utah governor; press conference source for outfit consistency claim; subject of 
 
 ---
 
-**N-65** Benjamin Netanyahu
+**N-36** Benjamin Netanyahu
 
 Node Type: Person
 Israeli Prime Minister; alleged by Tucker/Candace to have hijacked Charlie's memory.
@@ -289,7 +289,7 @@ Israeli Prime Minister; alleged by Tucker/Candace to have hijacked Charlie's mem
 
 ---
 
-**N-45** Rob McCoy
+**N-17** Rob McCoy
 
 Node Type: Person
 Charlie Kirk's pastor; issued statement asking Candace to stop investigating during mourning.
@@ -298,7 +298,7 @@ Charlie Kirk's pastor; issued statement asking Candace to stop investigating dur
 
 ---
 
-**N-50** Tucker Carlson
+**N-22** Tucker Carlson
 
 Node Type: Person
 Source of clips claiming Charlie was financially pressured over Candace invitation.
@@ -307,7 +307,7 @@ Source of clips claiming Charlie was financially pressured over Candace invitati
 
 ---
 
-**N-75** Megyn Kelly
+**N-46** Megyn Kelly
 
 Node Type: Person
 Corroborating voice on donor pressure tactics.
@@ -316,7 +316,7 @@ Corroborating voice on donor pressure tactics.
 
 ---
 
-**N-102** Kash Patel
+**N-69** Kash Patel
 
 Node Type: Person
 Tweeted that subject in custody (George Zinn) was released; referenced for timeline.
@@ -325,7 +325,7 @@ Tweeted that subject in custody (George Zinn) was released; referenced for timel
 
 ---
 
-**N-99** Skyler
+**N-68** Skyler
 
 Node Type: Person
 Production staff member operating timeline/graphics during episode.
@@ -336,7 +336,7 @@ Production staff member operating timeline/graphics during episode.
 
 ---
 
-**N-103** Lance Twigs's Mother
+**N-70** Lance Twigs's Mother
 
 Node Type: Person
 Allegedly holds Bachelor of Science from Stanford University in psychology; flagged by host as 'running theme'.
@@ -345,7 +345,7 @@ Allegedly holds Bachelor of Science from Stanford University in psychology; flag
 
 ---
 
-**N-104** Matt Gaetz
+**N-71** Matt Gaetz
 
 Node Type: Person
 Congressman confirming Tucker's claims via tweet.
@@ -354,7 +354,7 @@ Congressman confirming Tucker's claims via tweet.
 
 ---
 
-**N-67** Seth Dillon
+**N-38** Seth Dillon
 
 Node Type: Person
 Babylon Bee CEO cited as pressuring Charlie to disinvite Candace.
@@ -363,7 +363,7 @@ Babylon Bee CEO cited as pressuring Charlie to disinvite Candace.
 
 ---
 
-**N-86** Josh Hammer
+**N-55** Josh Hammer
 
 Node Type: Person
 Challenged by Candace to release his message threads with Charlie.
@@ -372,7 +372,7 @@ Challenged by Candace to release his message threads with Charlie.
 
 ---
 
-**N-68** Dave Smith
+**N-39** Dave Smith
 
 Node Type: Person
 Commentator referenced as part of broader pushback on BB Netany/Yahoo narrative.
@@ -383,7 +383,7 @@ Commentator referenced as part of broader pushback on BB Netany/Yahoo narrative.
 
 ---
 
-**N-10103** Text Message Language Anomaly
+**N-10038** Text Message Language Anomaly
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -393,7 +393,7 @@ Use of words like 'retrieve' and 'vehicle' presented as inconsistent with 22-yea
 
 ---
 
-**N-10104** Missing Text Message Timestamps
+**N-10039** Missing Text Message Timestamps
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -403,7 +403,7 @@ Indictment text messages released without timestamps, blocking independent chron
 
 ---
 
-**N-10105** Robinson On-Campus Linger Timeline
+**N-10040** Robinson On-Campus Linger Timeline
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -413,7 +413,7 @@ Allegation that Robinson lingered on campus for hours after the shooting attempt
 
 ---
 
-**N-10106** Note Under Keyboard Disposal
+**N-10041** Note Under Keyboard Disposal
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -423,7 +423,7 @@ Note directing Lance to look under keyboard was destroyed after a photograph was
 
 ---
 
-**N-10107** Outfit Change Claim
+**N-10042** Outfit Change Claim
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -433,7 +433,7 @@ Robinson's text references changing outfits and leaving rifle in bush; alleged i
 
 ---
 
-**N-10108** Two-Person Theory (Maroon vs Stairs)
+**N-10043** Two-Person Theory (Maroon vs Stairs)
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -443,7 +443,7 @@ Host hypothesis that the maroon-shirt person at 8:07 AM differs from the person 
 
 ---
 
-**N-10109** Lance Twigs Protection Allegation
+**N-10044** Lance Twigs Protection Allegation
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -453,7 +453,7 @@ Allegation that Lance was quickly released despite apartment raid and seizure of
 
 ---
 
-**N-10110** Stanford Psychology Family Pattern
+**N-10045** Stanford Psychology Family Pattern
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -463,7 +463,7 @@ Host's note that Lance's mother holds Stanford BS in psychology, alleged to be a
 
 ---
 
-**N-10111** Federal Conspiracy Allegation
+**N-10046** Federal Conspiracy Allegation
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -473,7 +473,7 @@ Host's overarching claim of federal-level conspiracy in Charlie Kirk's murder, f
 
 ---
 
-**N-10112** Donor Intimidation of Charlie Kirk
+**N-10047** Donor Intimidation of Charlie Kirk
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -491,8 +491,8 @@ Claim Timestamp: 00:00:41
 Claim: The Robinson-Twigs text messages use words like 'retrieve' and 'vehicle' in ways inconsistent with casual 22-year-old texting, suggesting they are not authentic.
 Transcript Snippet: I played this game with with my entire staff and um I was able to find since dating back for the last three years two messages where someone used that term. The first person was somebody that was former military and the second person was a cop.
 Anchored Artifacts: A-1104.1, A-1104.2
-Mentions: N-2, N-69, N-84, N-99
-Related Nodes: N-10103
+Mentions: N-2, N-40, N-54, N-68
+Related Nodes: N-10038
 Confidence: medium
 Investigative Direction: Pull the raw message files from Discord/phones for linguistic analysis against age cohort texting baselines.
 
@@ -504,8 +504,8 @@ Claim Timestamp: 00:03:33
 Claim: The text messages released in the Robinson indictment were stripped of timestamps, preventing independent chronological verification.
 Transcript Snippet: the obvious thing, there's no timestamps. Right away, major red flag.
 Anchored Artifacts: A-1104.1, A-1104.2, A-1104.7, A-1104.8, A-1104.9, A-1104.10, A-1106.3
-Mentions: N-69
-Related Nodes: N-10104, N-10111
+Mentions: N-40
+Related Nodes: N-10039, N-10046
 Confidence: high
 Investigative Direction: FOIA or subpoena the underlying device data and Discord metadata to recover timestamps.
 
@@ -518,8 +518,8 @@ Claim Timestamp: 00:05:27
 Claim: The note Lance Twigs found under Tyler's keyboard was destroyed after he photographed it; the photo was shown to the feds but not the public.
 Transcript Snippet: even though he destroyed the note, he took a picture of it… we're not going to be able to see either anyways.
 Anchored Artifacts: A-1104.1
-Mentions: N-69, N-84
-Related Nodes: N-10106
+Mentions: N-40, N-54
+Related Nodes: N-10041
 Confidence: medium
 Investigative Direction: Obtain the photograph through discovery or leak; verify against the indictment's account of its destruction.
 
@@ -531,8 +531,8 @@ Claim Timestamp: 00:08:15
 Claim: Because Robinson references 'similar clothing' to a second suspect, the relevant text could not have been sent before Governor Cox's 5:30 PM press conference mentioning dark clothing.
 Transcript Snippet: the earliest that that message could have been sent out is after 5:30 p.m.
 Anchored Artifacts: A-1104.2, A-1105.2, A-1110.1
-Mentions: N-69, N-71, N-102, N-70
-Related Nodes: N-10105
+Mentions: N-40, N-42, N-69, N-41
+Related Nodes: N-10040
 Confidence: medium
 Investigative Direction: Recover device timestamps and confirm Cox press transcript.
 
@@ -544,8 +544,8 @@ Claim Timestamp: 00:10:04
 Claim: Robinson's texts depict him remaining near the UVU scene for hours after the shooting, attempting to retrieve his rifle from a drop point.
 Transcript Snippet: I'm lingering around there. I'm trying to get the vehicle… I will have left no evidence.
 Anchored Artifacts: A-1104.2, A-1104.3, A-1104.4, A-1104.5, A-1104.6, A-1105.1, A-1106.1
-Mentions: N-69
-Related Nodes: N-10105
+Mentions: N-40
+Related Nodes: N-10040
 Confidence: medium
 Investigative Direction: Demand release of campus surveillance footage, drone footage, and Dodge Challenger parking-lot video for the 5:30 PM–midnight window.
 
@@ -557,8 +557,8 @@ Claim Timestamp: 00:12:07
 Claim: Robinson's text states he changed outfits and left the rifle (referred to as 'Prince') wrapped in a towel in a bush.
 Transcript Snippet: I had to leave it in a bush where I changed outfits… only thing I left was the rifle wrapped in a towel.
 Anchored Artifacts: A-1104.4
-Mentions: N-69
-Related Nodes: N-10107
+Mentions: N-40
+Related Nodes: N-10042
 Confidence: high
 Investigative Direction: Cross-reference text account with forensic recovery location of the rifle and any clothing/bush evidence.
 
@@ -571,8 +571,8 @@ Claim Timestamp: 00:26:12
 Claim: Lance Twigs was released back to his parents the same night his apartment was raided and electronics seized, which Candace argues is procedurally anomalous.
 Transcript Snippet: Why would they release Lance? Wouldn't you think that you would be detained like for at least 24 hours?
 Anchored Artifacts: A-1104.9, A-1104.10, A-1105.3
-Mentions: N-84
-Related Nodes: N-10109
+Mentions: N-54
+Related Nodes: N-10044
 Confidence: medium
 Investigative Direction: Obtain the arrest/release log for Lance Twigs and the inventory of seized devices; compare with standard 24-hour detention practice.
 
@@ -584,8 +584,8 @@ Claim Timestamp: 00:29:45
 Claim: Governor Cox's statement that Robinson wore the same maroon outfit for 33 hours is contradicted by host's source, who alleges a different outfit at pickup.
 Transcript Snippet: for 33 hours he decided that he was going to keep the outfit on… always sounded dumb to us.
 Anchored Artifacts: A-1105.2, A-1106.2, A-1110.1
-Mentions: N-70
-Related Nodes: N-10107, N-10111
+Mentions: N-41
+Related Nodes: N-10042, N-10046
 Confidence: low
 Uncertainty: Source-based claim; no independent corroboration presented in episode.
 Investigative Direction: Demand booking photos and any surveillance of Robinson at time of pickup; compare to the 8:07/8:29 AM maroon-shirt imagery.
@@ -598,8 +598,8 @@ Claim Timestamp: 00:33:19
 Claim: The person filmed in a maroon t-shirt at 8:07 AM may be a different individual from the person shown walking up the stairs in FBI static images.
 Transcript Snippet: I think the person in the maroon that's walking is different from the person that's walking up the stairs.
 Anchored Artifacts: A-1105.4, A-1106.2, A-1110.1
-Mentions: N-69
-Related Nodes: N-10108, N-10111
+Mentions: N-40
+Related Nodes: N-10043, N-10046
 Confidence: low
 Uncertainty: Framed by host as a 'gut'/'vibe' assessment; no forensic comparison presented.
 Investigative Direction: Release full unedited video from both camera angles; forensic gait/posture analysis.
@@ -612,8 +612,8 @@ Claim Timestamp: 00:36:23
 Claim: Lance Twigs's mother holds a Bachelor of Science from Stanford University in psychology, which the host describes as a 'running theme' in federal operations.
 Transcript Snippet: I already don't like that mom… received a bachelor of science from Stanford University in psychology.
 Anchored Artifacts: 
-Mentions: N-103, N-84
-Related Nodes: N-10110
+Mentions: N-70, N-54
+Related Nodes: N-10045
 Confidence: low
 Uncertainty: Degree claim not independently sourced; presented as host assertion.
 Investigative Direction: Verify the mother's Stanford degree via alumni records and LinkedIn; investigate pattern claim against other named operations.
@@ -626,8 +626,8 @@ Claim Timestamp: 00:45:45
 Claim: Donors financially threatened Charlie Kirk over inviting Candace Owens to a Turning Point conference, costing him a $2M donation two days before his death.
 Transcript Snippet: two days before he died, he lost a $2 million donation… people are really mad.
 Anchored Artifacts: A-1107.1, A-1107.2, A-1107.3, A-1109.1
-Mentions: N-1, N-3, N-50, N-65, N-75, N-104, N-67, N-86
-Related Nodes: N-10112
+Mentions: N-1, N-3, N-22, N-36, N-46, N-71, N-38, N-55
+Related Nodes: N-10047
 Confidence: medium
 Investigative Direction: Verify $2M donation withdrawal via Turning Point USA financial records; obtain donor correspondence threads.
 
@@ -639,8 +639,8 @@ Claim Timestamp: 00:45:45–00:46:15
 Claim: The clips played at 43:09 and 45:45 are Tucker Carlson speaking. He says that two days before Charlie Kirk died, Charlie lost a $2 million donation because he had publicly pledged to bring Tucker ("me") to the next Turning Point conference in December, and that Charlie texted him that he was taking heat for it. C-1185 attributes the speaking-slot pledge to Candace Owens; per the transcript the speaker and the invitee are Tucker Carlson.
 Transcript Snippet: two days before he died, he lost a $2 million donation because he had publicly pledged to bring me to the next Turning Point conference in December.
 Anchored Artifacts: A-1107.1, A-1107.2
-Mentions: N-1, N-50
-Related Nodes: N-10112
+Mentions: N-1, N-22
+Related Nodes: N-10047
 Contradicts: C-1185
 Confidence: high
 Investigative Direction: Read C-1185 together with this claim: re-attribute the donor-pressure account to Tucker Carlson's live show clip, then verify the $2M donation loss and the December Turning Point speaking pledge against TPUSA event flyers and donor records.
@@ -656,7 +656,7 @@ Claim: Answering viewer comments, the host says her overarching theory is that t
 Transcript Snippet: My theory is that we are not being told the truth and I think that there are multiple people that were involved including George Zinn.
 
 Anchored Artifacts: 
-Mentions: N-3, N-71, N-69
+Mentions: N-3, N-42, N-40
 Related Nodes: 
 Investigative Direction: Compare the Zinn decoy account and release timeline against any evidence of coordination with other people on campus.
 
@@ -704,7 +704,7 @@ Confidence: high
 ### Occurrence 2
 
 Video Timestamp: 00:51:22
-Speaker: N-104
+Speaker: N-71
 Quote: Yes, they were behaving like demons. There's just no question.
 Context: Matt Gaetz tweet quoted by Candace to corroborate 'demons' framing.
 Tags: moral_framing

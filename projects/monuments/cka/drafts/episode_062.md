@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 24dc527071bb4996347a4421cf2c9457ed4da7b0f003289f3d1967ed8acdf2bd
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-782, N-783, N-785, N-786, N-789, N-790, N-10509, N-10510, N-10511, N-10512, N-10513
-  - Reused Nodes Appearing: N-2, N-37
+  - New Nodes Introduced: N-499, N-500, N-501, N-502, N-504, N-505, N-10438, N-10439, N-10440, N-10441, N-10442
+  - Reused Nodes Appearing: N-2, N-11
   - (see registers)
 
 # Episode Analysis: Monument Ep 62
@@ -38,7 +38,7 @@ Video Timestamp: 00:07:27–00:09:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host states Jaco Booyens and Erica Kirk confirmed authenticity)
 
-*Related: C-2182, C-2183, N-2, N-782, N-10509*
+*Related: C-2182, C-2183, N-2, N-499, N-10438*
 
 ---
 
@@ -52,7 +52,7 @@ Video Timestamp: 00:12:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host displays case on screen)
 
-*Related: C-2184, N-785, N-10509*
+*Related: C-2184, N-501, N-10438*
 
 **A-1670.2** 1999 Dismissal Without Prejudice – victim had given victim impact statement
 
@@ -62,7 +62,7 @@ Video Timestamp: 00:12:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2185, N-785*
+*Related: C-2185, N-501*
 
 ---
 
@@ -76,7 +76,7 @@ Video Timestamp: 00:13:25–00:14:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (filing document displayed)
 
-*Related: C-2186, N-783, N-639, N-785, N-786, N-10511, N-10513*
+*Related: C-2186, N-500, N-397, N-501, N-502, N-10440, N-10442*
 
 **A-1671.2** Arizona Chinese News public notice for Desert Spirit Tech LLC (signed Dec 1, 2017; state-received Dec 6, 2017)
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:16:12–00:17:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (notarized filing displayed)
 
-*Related: C-2187, N-783, N-639, N-10511*
+*Related: C-2187, N-500, N-397, N-10440*
 
 ---
 
@@ -100,7 +100,7 @@ Video Timestamp: 00:15:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2186, N-785, N-786, N-10513*
+*Related: C-2186, N-501, N-502, N-10442*
 
 ---
 
@@ -114,7 +114,7 @@ Video Timestamp: 00:21:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host displays tweet)
 
-*Related: C-2188, N-70, N-37*
+*Related: C-2188, N-41, N-11*
 
 ---
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:26:45–00:30:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played on air; recording captured by employee)
 
-*Related: C-2189, C-2190, C-2191, N-42, N-790, N-10510*
+*Related: C-2189, C-2190, C-2191, N-14, N-505, N-10439*
 
 ---
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:22:28–00:24:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-relayed first-person account)
 
-*Related: C-2192, N-42, N-789, N-10510*
+*Related: C-2192, N-14, N-504, N-10439*
 
 **A-1675.2** First-person account: Marina Minas Zoom-call incident and general counsel home visit for computer retrieval
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:32:06–00:34:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-relayed first-person account)
 
-*Related: C-2193, N-789, N-790, N-10510*
+*Related: C-2193, N-504, N-505, N-10439*
 
 ---
 
@@ -167,11 +167,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1669.1, C-2182, N-2, N-10509*
+*Related: A-1669.1, C-2182, N-2, N-10438*
 
 ---
 
-**N-782** Jaco Booyens
+**N-499** Jaco Booyens
 
 Referenced by host as confirming authenticity of A-1669.1.
 
@@ -184,7 +184,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-783** Lori Frantzve
+**N-500** Lori Frantzve
 
 Erica Kirk's mother; 20% stakeholder of record in Desert Spirit Tech LLC; co-filer of Euro Tech in Cincinnati, Ohio.
 
@@ -193,11 +193,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1671.2, C-2186, N-639, N-2, N-10511, N-10512*
+*Related: A-1671.1, A-1671.2, C-2186, N-397, N-2, N-10440, N-10441*
 
 ---
 
-**N-639** Larry Guinta
+**N-397** Larry Guinta
 
 Erica Kirk's stepfather; listed as stakeholder and registered agent of Desert Spirit Tech LLC.
 
@@ -206,11 +206,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1671.2, C-2186, N-783, N-10511*
+*Related: A-1671.1, A-1671.2, C-2186, N-500, N-10440*
 
 ---
 
-**N-785** Lyle Reems
+**N-501** Lyle Reems
 
 Self-identified (per host) as Tohono O'odham Nation member; 1998 indictee for sexual conduct with minor under 15; co-filer of Desert Spirit Tech LLC.
 
@@ -219,11 +219,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1670.1, A-1670.2, A-1671.1, A-1672.1, C-2184, C-2185, C-2186, N-786, N-10511*
+*Related: A-1670.1, A-1670.2, A-1671.1, A-1672.1, C-2184, C-2185, C-2186, N-502, N-10440*
 
 ---
 
-**N-786** Shelly Reems
+**N-502** Shelly Reems
 
 Lyle Reems's wife; co-filer of Desert Spirit Tech LLC and Generation Seven Farms.
 
@@ -232,11 +232,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1672.1, C-2186, N-785*
+*Related: A-1671.1, A-1672.1, C-2186, N-501*
 
 ---
 
-**N-42** Andrew Kolvet
+**N-14** Andrew Kolvet
 
 TPUSA figure who confronted employee regarding Uber-driver conversation per A-1675.1.
 
@@ -245,11 +245,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1674.1, A-1675.1, C-2189, C-2192, N-10510*
+*Related: A-1674.1, A-1675.1, C-2189, C-2192, N-10439*
 
 ---
 
-**N-789** Marina (TPUSA CMO)
+**N-504** Marina (TPUSA CMO)
 
 Named by host as employee involved in Uber-driver conversation and as participant in the fake-Zoom termination setup per A-1675.2.
 
@@ -258,11 +258,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1675.1, A-1675.2, C-2192, C-2193, N-10510*
+*Related: A-1675.1, A-1675.2, C-2192, C-2193, N-10439*
 
 ---
 
-**N-790** "Frank" (TPUSA General Counsel)
+**N-505** "Frank" (TPUSA General Counsel)
 
 Named in termination recording A-1674.1; also referenced in A-1675.2 as general counsel who conducted home-visit termination.
 
@@ -271,11 +271,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1674.1, A-1675.2, C-2189, C-2193, N-10510*
+*Related: A-1674.1, A-1675.2, C-2189, C-2193, N-10439*
 
 ---
 
-**N-10509** Identity of Christian Zionist Donor (Unverified)
+**N-10438** Identity of Christian Zionist Donor (Unverified)
 
 Persistent unresolved target: the host states Turning Point USA has not named the sender of A-1669.1.
 
@@ -288,7 +288,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10510** TPUSA Termination Cause Investigation
+**N-10439** TPUSA Termination Cause Investigation
 
 Persistent unresolved target: the actual cause(s) of the TPUSA terminations referenced in A-1674.1, A-1675.1, A-1675.2.
 
@@ -297,11 +297,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1674.1, A-1675.1, A-1675.2, C-2189, C-2190, C-2191, C-2192, C-2193, N-2, N-42, N-789, N-790*
+*Related: A-1674.1, A-1675.1, A-1675.2, C-2189, C-2190, C-2191, C-2192, C-2193, N-2, N-14, N-504, N-505*
 
 ---
 
-**N-10511** Desert Spirit Tech LLC Business Purpose Question
+**N-10440** Desert Spirit Tech LLC Business Purpose Question
 
 Persistent unresolved target: stated business activity of Desert Spirit Tech LLC.
 
@@ -310,11 +310,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1671.2, C-2186, C-2187, N-783, N-639, N-785*
+*Related: A-1671.1, A-1671.2, C-2186, C-2187, N-500, N-397, N-501*
 
 ---
 
-**N-10512** Euro Tech / Cincinnati Business Investigation
+**N-10441** Euro Tech / Cincinnati Business Investigation
 
 Persistent unresolved target: the "Euro Tech" company Lori Frantzve formed in Cincinnati, Ohio; host indicates it has not been fully examined yet.
 
@@ -323,11 +323,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-783*
+*Related: N-500*
 
 ---
 
-**N-10513** Sacaton "Rose and Thobe" Address Verification
+**N-10442** Sacaton "Rose and Thobe" Address Verification
 
 Persistent unresolved target: whether 26 Rose and Thobe (Desert Spirit Tech) and 21 Rose and Thobe (Generation Seven Farms) correspond to actual physical addresses.
 
@@ -336,11 +336,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1671.1, A-1672.1, C-2186, N-783, N-785, N-786*
+*Related: A-1671.1, A-1672.1, C-2186, N-500, N-501, N-502*
 
 ---
 
-**N-37** Tyler Bowyer
+**N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -358,9 +358,9 @@ Claim Timestamp: 00:07:27
 Claim: Charlie Kirk received a text message from a female Christian Zionist donor warning him that platforming Candace Owens and Tucker Carlson placed him "in violation of the Ninth Commandment" and warning of biblical curses on those who "curse Israel."
 
 Anchored Artifacts: A-1669.1
-Mentions: N-50, N-3, N-1
+Mentions: N-22, N-3, N-1
 
-Related Nodes: N-10509
+Related Nodes: N-10438
 
 Investigative Direction: Obtain the original device or screenshot of the message; identify the sender through metadata or corroborating testimony; determine whether Turning Point USA has internal records of this message.
 
@@ -373,7 +373,7 @@ Claim Timestamp: 00:07:27
 Claim: Host states that Jaco Booyens and Erica Kirk can confirm the text message to Charlie Kirk is real.
 
 Anchored Artifacts: A-1669.1
-Mentions: N-1, N-2, N-782
+Mentions: N-1, N-2, N-499
 
 
 Investigative Direction: Obtain on-record confirmation from Jaco Booyens and/or Erica Kirk independent of the host.
@@ -387,7 +387,7 @@ Claim Timestamp: 00:12:31
 Claim: Lyle Reems was indicted in 1998 for sexual conduct with a minor under the age of 15; he was approximately 41 at the time.
 
 Anchored Artifacts: A-1670.1
-Mentions: N-785
+Mentions: N-501
 
 
 Investigative Direction: Pull certified court records from the relevant Arizona county (likely Pinal or Maricopa) to confirm indictment, charges, age of complainant, and disposition details.
@@ -401,7 +401,7 @@ Claim Timestamp: 00:12:31
 Claim: The case against Lyle Reems made its way through the court system for approximately a year and a half, during which the young victim gave a victim impact statement, before being dismissed without prejudice in 1999.
 
 Anchored Artifacts: A-1670.2
-Mentions: N-785
+Mentions: N-501
 
 
 Investigative Direction: Verify dismissal-without-prejudice status in court records; check statute of limitations to determine whether refiling remains a legal possibility.
@@ -415,9 +415,9 @@ Claim Timestamp: 00:13:25
 Claim: In 2017, Lori Frantzve (listed as "Lorin Frantzve"), Larry Guinta, Lyle Reems, and Shelly Reems filed to open a business called Desert Spirit Tech LLC in Sacaton, Arizona, with Frantzve listed as a 20% stakeholder and Guinta as registered agent.
 
 Anchored Artifacts: A-1671.1, A-1672.1
-Mentions: N-639, N-783, N-785, N-786
+Mentions: N-397, N-500, N-501, N-502
 
-Related Nodes: N-10511, N-10513
+Related Nodes: N-10440, N-10442
 
 Investigative Direction: Pull the certified Arizona Corporation Commission filing for Desert Spirit Tech LLC; identify the actual place of business and any annual reports or amendments.
 
@@ -430,9 +430,9 @@ Claim Timestamp: 00:16:12
 Claim: The statutory public notice for Desert Spirit Tech LLC was issued in the Arizona Chinese News, signed December 1, 2017 and received by the state December 6, 2017.
 
 Anchored Artifacts: A-1671.2
-Mentions: N-639, N-783
+Mentions: N-397, N-500
 
-Related Nodes: N-10511
+Related Nodes: N-10440
 
 Investigative Direction: Obtain the original publication or archival copy of the Arizona Chinese News issue carrying the notice to confirm the stated business activity description.
 
@@ -445,7 +445,7 @@ Claim Timestamp: 00:21:30
 Claim: On September 25, 2018, Tyler Bowyer posted that TPUSA "runs everything like a military op" and that "all of our people are from that background."
 
 Anchored Artifacts: A-1673.1
-Mentions: N-37
+Mentions: N-11
 
 
 Investigative Direction: Retrieve the original post from X/Twitter (including any deletions or edits) and identify which "background" Bowyer was referencing.
@@ -459,9 +459,9 @@ Claim Timestamp: 00:26:45
 Claim: A TPUSA employee was terminated by general counsel "Frank" with no specific explanation, repeatedly told only that the organization is "going in a different direction with the team," after working 80–90 hour weeks through AmFest and the period following Charlie Kirk's assassination.
 
 Anchored Artifacts: A-1674.1
-Mentions: N-42, N-790, N-1
+Mentions: N-14, N-505, N-1
 
-Related Nodes: N-10510
+Related Nodes: N-10439
 
 Investigative Direction: Obtain the termination documentation referenced in the audio ("email with social security and links" plus year-end bonus in final paycheck); identify the employee and obtain their signed release or separation agreement.
 
@@ -474,9 +474,9 @@ Claim Timestamp: 00:27:24
 Claim: The terminated employee stated in the recorded termination meeting that she had worked "80, 90-hour weeks plus for AmFest" without direction or explanation upon return.
 
 Anchored Artifacts: A-1674.1
-Mentions: N-790
+Mentions: N-505
 
-Related Nodes: N-10510
+Related Nodes: N-10439
 
 Investigative Direction: Cross-check time-tracking or HR records to verify hours worked.
 
@@ -489,9 +489,9 @@ Claim Timestamp: 00:28:48
 Claim: The terminated employee stated she had "never had one bad review from Dylan" and "never had one issue with the company."
 
 Anchored Artifacts: A-1674.1
-Mentions: N-790
+Mentions: N-505
 
-Related Nodes: N-10510
+Related Nodes: N-10439
 
 Investigative Direction: Obtain HR personnel file to confirm or refute the absence of any prior negative review.
 
@@ -504,9 +504,9 @@ Claim Timestamp: 00:22:28
 Claim: Andrew Kolvet brought a TPUSA employee into an office to question them about a conversation the CMO had with an Uber driver, in which the driver stated his daughter knew a TPUSA employee who "doesn't like stuff that's going on at the company."
 
 Anchored Artifacts: A-1675.1
-Mentions: N-42, N-789
+Mentions: N-14, N-504
 
-Related Nodes: N-10510
+Related Nodes: N-10439
 
 Investigative Direction: Identify the CMO named and obtain any internal investigation notes; verify whether the Uber driver conversation actually occurred.
 
@@ -519,9 +519,9 @@ Claim Timestamp: 00:32:06
 Claim: Marina Minas allegedly received non-stop calls from an unrecognized number while on a Zoom meeting, and upon answering was told by the general counsel that he was outside her home, that she was fired, and to surrender her work computer (with warning that deletions would be detected).
 
 Anchored Artifacts: A-1675.2
-Mentions: N-789, N-790
+Mentions: N-504, N-505
 
-Related Nodes: N-10510
+Related Nodes: N-10439
 
 Investigative Direction: Obtain direct on-record confirmation from Marina Minas; obtain any contemporaneous communications (texts, voicemails) memorializing the home-visit termination.
 

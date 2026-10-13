@@ -55,7 +55,7 @@ ascend). They go on a separate ledger line in the episode of their first registe
 
     - Hole-minted Nodes (<batch>): N-a, N-b
 
-Batches: `wave1` (eps 75, 92, 107, 148, 161: N-531..N-586 and topic N-11384), `wave1b` (Kim Kardashian
+Batches: `wave1` (eps 75, 92, 107, 148, 161: N-531..N-586 and topic N-2384), `wave1b` (Kim Kardashian
 N-587 in ep32 and Danny Philip N-611 in ep125; these two are frontier mints at and above the old
 `next_person_id` 587, not true holes, and sit on their own batch line so the ep125 id stays in order), `seq161` (ep161: N-447, N-472, N-477). Within a batch and band the ids ascend in
 first-introduction order and a person batch leaves no free person id below its maximum.

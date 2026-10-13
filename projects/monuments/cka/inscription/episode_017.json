@@ -32,8 +32,8 @@
             "C-1415"
           ],
           "related_nodes": [
-            "N-42",
-            "N-10240"
+            "N-14",
+            "N-10174"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -60,10 +60,10 @@
             "C-1406"
           ],
           "related_nodes": [
-            "N-42",
-            "N-226",
-            "N-227",
-            "N-10245"
+            "N-14",
+            "N-164",
+            "N-165",
+            "N-10179"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -89,9 +89,9 @@
             "C-1409"
           ],
           "related_nodes": [
-            "N-228",
-            "N-227",
-            "N-10245"
+            "N-166",
+            "N-165",
+            "N-10179"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -117,7 +117,7 @@
             "C-1419"
           ],
           "related_nodes": [
-            "N-42"
+            "N-14"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -135,8 +135,8 @@
             "C-1410"
           ],
           "related_nodes": [
-            "N-42",
-            "N-10240"
+            "N-14",
+            "N-10174"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -162,8 +162,8 @@
             "C-1420"
           ],
           "related_nodes": [
-            "N-42",
-            "N-10240"
+            "N-14",
+            "N-10174"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -190,7 +190,7 @@
             "C-1412"
           ],
           "related_nodes": [
-            "N-42",
+            "N-14",
             "N-1"
           ],
           "tags": [],
@@ -219,11 +219,11 @@
             "C-1414"
           ],
           "related_nodes": [
-            "N-42",
-            "N-243",
+            "N-14",
+            "N-174",
             "N-1",
-            "N-10244",
-            "N-72"
+            "N-10178",
+            "N-43"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -251,9 +251,9 @@
             "C-1416"
           ],
           "related_nodes": [
-            "N-229",
+            "N-167",
             "N-1",
-            "N-10244"
+            "N-10178"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -305,7 +305,7 @@
             "C-1415"
           ],
           "related_nodes": [
-            "N-235"
+            "N-171"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -323,7 +323,7 @@
             "C-1415"
           ],
           "related_nodes": [
-            "N-238"
+            "N-172"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -350,10 +350,10 @@
             "C-1417"
           ],
           "related_nodes": [
-            "N-128",
-            "N-233",
+            "N-93",
+            "N-170",
             "N-3",
-            "N-10242"
+            "N-10176"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -379,7 +379,7 @@
             "C-1417"
           ],
           "related_nodes": [
-            "N-231"
+            "N-169"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -405,7 +405,7 @@
             "C-1404"
           ],
           "related_nodes": [
-            "N-42"
+            "N-14"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -457,8 +457,8 @@
             "C-1408"
           ],
           "related_nodes": [
-            "N-42",
-            "N-227"
+            "N-14",
+            "N-165"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -497,8 +497,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-226",
-      "ref": "N-226",
+      "@id": "N-164",
+      "ref": "N-164",
       "name": "Yashar Ali",
       "type": "person",
       "description": "X account author of the failing-contextualization quote-tweet (A-1237.1). Per host, \"literally paid to do PR for Zionists.\"",
@@ -514,14 +514,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-42",
-        "N-10245"
+        "N-14",
+        "N-10179"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-227",
-      "ref": "N-227",
+      "@id": "N-165",
+      "ref": "N-165",
       "name": "Iryna Zhuravska",
       "type": "person",
       "description": "Ukrainian refugee whose August 22, 2025 murder in Charlotte, North Carolina, became a major conservative-news topic; footage released/trended September 5. Used as the official anchor in Yashar Ali's attempt to contextualize Josh Hammer's September 9 retweet.",
@@ -539,14 +539,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-42",
-        "N-10245"
+        "N-14",
+        "N-10179"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-228",
-      "ref": "N-228",
+      "@id": "N-166",
+      "ref": "N-166",
       "name": "Matt Walsh",
       "type": "person",
       "description": "X author of the September 5 public-execution tweet used as comparative anchor (A-1238.1).",
@@ -562,13 +562,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-227"
+        "N-165"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-229",
-      "ref": "N-229",
+      "@id": "N-167",
+      "ref": "N-167",
       "name": "Rabbi Pesach Wolicki",
       "type": "person",
       "description": "Rabbi in Israel; per host and Wolicki audio (A-1243.1), participated in the pre-assassination Zoom call with Charlie Kirk and Josh Hammer. Provides direct testimonial artifact regarding Charlie's state of mind and the structure of the meeting.",
@@ -587,13 +587,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-10244"
+        "N-10178"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-231",
-      "ref": "N-231",
+      "@id": "N-169",
+      "ref": "N-169",
       "name": "Gianmarco Soresi",
       "type": "person",
       "description": "Comedian whose bit about Jewish holidays and Exodus was played in the brief-levity segment. Transcript carries both \"Gianmarco Soresi\" (host) and \"John Marco Siracusa\" (caption) – flag.",
@@ -611,8 +611,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-128",
-      "ref": "N-128",
+      "@id": "N-93",
+      "ref": "N-93",
       "name": "Alex Jones",
       "type": "person",
       "description": "Host; audio in A-1246.1 confirms and elaborates the kill-switch narrative.",
@@ -628,13 +628,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10242"
+        "N-10176"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-233",
-      "ref": "N-233",
+      "@id": "N-170",
+      "ref": "N-170",
       "name": "James O'Keefe",
       "type": "person",
       "description": "Referenced by Alex Jones as the precedent for the dead-man-switch mechanism (A-1246.1).",
@@ -648,13 +648,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10242"
+        "N-10176"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-56",
-      "ref": "N-56",
+      "@id": "N-27",
+      "ref": "N-27",
       "name": "Kanye West",
       "type": "person",
       "description": "Referenced in host's kill-switch framing as a precursor who \"violated contracts\" to free his voice.",
@@ -668,13 +668,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10242"
+        "N-10176"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-235",
-      "ref": "N-235",
+      "@id": "N-171",
+      "ref": "N-171",
       "name": "Dinesh D'Souza",
       "type": "person",
       "description": "X author of A-1245.1 – the \"freak show\" / farmer-sex-with-sheep post about Candace Owens.",
@@ -692,8 +692,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-245",
-      "ref": "N-245",
+      "@id": "N-176",
+      "ref": "N-176",
       "name": "Gabriel",
       "type": "person",
       "description": "Referenced in Josh Hammer / Gabriel reporting thread (transcript name).",
@@ -709,8 +709,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-91",
-      "ref": "N-91",
+      "@id": "N-60",
+      "ref": "N-60",
       "name": "Laura Loomer",
       "type": "person",
       "description": "Referenced in closing sponsorship-style segment as having a parody/cartoon antagonist role.",
@@ -729,8 +729,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-98",
-      "ref": "N-98",
+      "@id": "N-67",
+      "ref": "N-67",
       "name": "Mark Herman (director, Candace show)",
       "type": "person",
       "description": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host asks him what APB stands for and he answers \"all-points bulletin\" before her UVU footage appeal (\"Mark has got a lot of random facts about every subject\"). No claim anchor; registered for cross-episode continuity.",
@@ -744,8 +744,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-238",
-      "ref": "N-238",
+      "@id": "N-172",
+      "ref": "N-172",
       "name": "Yishai (X account)",
       "type": "person",
       "description": "Author of the reply post to Dinesh D'Souza (A-1245.2); preserved exactly as spelled on air.",
@@ -759,13 +759,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-235"
+        "N-171"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-67",
-      "ref": "N-67",
+      "@id": "N-38",
+      "ref": "N-38",
       "name": "Seth Dillon",
       "type": "person",
       "description": "Per host attribution, more vocal than Josh Hammer in pressing Charlie at the Hamptons meeting. Reference not artifact-anchored in this episode (recounted as host narrative only); node created for cross-episode continuity.",
@@ -778,14 +778,14 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1",
-        "N-42",
-        "N-10244"
+        "N-14",
+        "N-10178"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-72",
-      "ref": "N-72",
+      "@id": "N-43",
+      "ref": "N-43",
       "name": "Michael Savage",
       "type": "person",
       "description": "Referenced by Alex Jones (A-1246.1) as having said \"I hope Mossad doesn't kill me\" during a show break prior to Charlie's assassination.",
@@ -799,13 +799,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-128"
+        "N-93"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-68",
-      "ref": "N-68",
+      "@id": "N-39",
+      "ref": "N-39",
       "name": "Dave Smith",
       "type": "person",
       "description": "Listed by Alex Jones as a kill-switch recipient (A-1246.1).",
@@ -819,13 +819,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10242"
+        "N-10176"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-242",
-      "ref": "N-242",
+      "@id": "N-173",
+      "ref": "N-173",
       "name": "Tate Brothers (Andrew and Tristan)",
       "type": "person",
       "description": "Listed by Alex Jones as kill-switch recipients (A-1246.1).",
@@ -839,13 +839,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10242"
+        "N-10176"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-243",
-      "ref": "N-243",
+      "@id": "N-174",
+      "ref": "N-174",
       "name": "Ali (JTV host)",
       "type": "person",
       "description": "Interviewer in the Josh Hammer JTV segment (A-1242.1). Host name preserved as it appears in transcript.",
@@ -859,13 +859,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-42"
+        "N-14"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10240",
-      "ref": "N-10240",
+      "@id": "N-10174",
+      "ref": "N-10174",
       "name": "Josh Hammer September 9 Retweet Context Investigation",
       "type": "investigation_target",
       "description": "Persistent investigative target: whether the September 9, 2025 9:09 p.m. ET retweet (A-1236.1) had an articulable contextual anchor. Direct entries: host asserts none; Yashar Ali (A-1237.1) proposes Iryna Zhuravska anchor (disputed by host); Matt Walsh comparative (A-1238.1); Hammer's historical anchors (A-1239.2) demonstrate he has only previously invoked public execution in visceral real-time response (Uvalde 2022).",
@@ -890,16 +890,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-42",
-        "N-226",
-        "N-227",
-        "N-228"
+        "N-14",
+        "N-164",
+        "N-165",
+        "N-166"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10241",
-      "ref": "N-10241",
+      "@id": "N-10175",
+      "ref": "N-10175",
       "name": "UVU Left-Side Footage Black Hole",
       "type": "investigation_target",
       "description": "Investigation target: the absence of video from the audience's left / Charlie's left side at the September 10 UVU event. Host issues All-Points Bulletin to UVU attendees for footage of older males with hair tied in ponytails or buns, and from the missing-angle sector.",
@@ -919,8 +919,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10242",
-      "ref": "N-10242",
+      "@id": "N-10176",
+      "ref": "N-10176",
       "name": "Candace Kill Switch / Dead Man Switch",
       "type": "investigation_target",
       "description": "Investigation target / verification node: the existence, recipients, and content of Candace Owens's \"kill switch\" – confirmed by Alex Jones audio (A-1246.1) to include Max Blumenthal, Tucker Carlson, Tate brothers, Dave Smith, and others. James O'Keefe precedent cited by Jones.",
@@ -937,17 +937,17 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-128",
-        "N-233",
-        "N-56",
-        "N-68",
-        "N-242"
+        "N-93",
+        "N-170",
+        "N-27",
+        "N-39",
+        "N-173"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10243",
-      "ref": "N-10243",
+      "@id": "N-10177",
+      "ref": "N-10177",
       "name": "Charlie Kirk Final-Days Text Communications",
       "type": "investigation_target",
       "description": "Investigation target: the existence and provenance of text communications from Charlie Kirk on or around the day of his death, specifically (a) \"they are going to kill me\" texts to unnamed recipients, and (b) texts expressing concern about Israel infringing on American speech. Host references both; neither artifact is displayed in this episode.",
@@ -960,14 +960,14 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1",
-        "N-42",
-        "N-229"
+        "N-14",
+        "N-167"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10244",
-      "ref": "N-10244",
+      "@id": "N-10178",
+      "ref": "N-10178",
       "name": "Hamptons Meeting Verification",
       "type": "investigation_target",
       "description": "Investigation target: the gathering in the Hamptons at which, per host, Seth Dillon and Josh Hammer pressed Charlie on his shifting Israel views. Reference is host narrative; the episode's matching audio artifacts come from the JTV and Wolicki interviews (A-1242.1, A-1243.1) concerning a different meeting.",
@@ -982,15 +982,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-42",
-        "N-229",
-        "N-67"
+        "N-14",
+        "N-167",
+        "N-38"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10245",
-      "ref": "N-10245",
+      "@id": "N-10179",
+      "ref": "N-10179",
       "name": "Iryna Zhuravska Murder Timeline Verification",
       "type": "investigation_target",
       "description": "Investigation target: the public timeline of the August 22, 2025 Charlotte murder, arrest, and September 5 footage release. Episode uses this to falsify the Yashar Ali contextualization claim. Matt Walsh's September 5 tweet (A-1238.1) is documentary evidence of the date.",
@@ -1007,9 +1007,9 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-42",
-        "N-226",
-        "N-227"
+        "N-14",
+        "N-164",
+        "N-165"
       ]
     },
     {
@@ -1046,8 +1046,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.",
@@ -1062,8 +1062,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-37",
-      "ref": "N-37",
+      "@id": "N-11",
+      "ref": "N-11",
       "name": "Tyler Bowyer",
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
@@ -1093,8 +1093,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
@@ -1109,8 +1109,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-78",
-      "ref": "N-78",
+      "@id": "N-49",
+      "ref": "N-49",
       "name": "Max Blumenthal",
       "type": "person",
       "description": "Reporter who asked Bill Ackman to dispute the Hamptons narrative; Ackman reportedly declined.",
@@ -1137,13 +1137,13 @@
         "A-1248.1"
       ],
       "related_nodes": [
-        "N-10240"
+        "N-10174"
       ],
       "tags": [],
       "claim_timestamp": "00:06:41",
       "investigative_direction": "Verify retweet timestamp via X archive (Wayback Machine) and compare against official timeline of events on September 9–10, 2025.",
       "mentions_person_refs": [
-        "N-86",
+        "N-55",
         "N-1",
         "N-5"
       ]
@@ -1158,15 +1158,15 @@
         "A-1237.1"
       ],
       "related_nodes": [
-        "N-10245"
+        "N-10179"
       ],
       "tags": [],
       "claim_timestamp": "00:07:48",
       "investigative_direction": "Verify Yashar Ali's exact post text and timing against X archives; verify whether the \"day prior\" framing matches the post dates of alleged \"many conservatives.\"",
       "mentions_person_refs": [
-        "N-86",
-        "N-226",
-        "N-227"
+        "N-55",
+        "N-164",
+        "N-165"
       ]
     },
     {
@@ -1177,14 +1177,14 @@
       "claim": "Iryna Zhuravska was murdered on August 22, 2025; her perpetrator was arrested the same day; the footage was released and trended on X on September 5, 2025.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10245"
+        "N-10179"
       ],
       "tags": [],
       "claim_timestamp": "00:08:44",
       "investigative_direction": "Verify dates against Charlotte-Mecklenburg Police Department records, news archives, and X trend timelines.",
       "mentions_person_refs": [
-        "N-227",
-        "N-228"
+        "N-165",
+        "N-166"
       ]
     },
     {
@@ -1202,7 +1202,7 @@
       "investigative_direction": "Verify the full memorial transcript and locate the segment within the recording.",
       "mentions_person_refs": [
         "N-1",
-        "N-50"
+        "N-22"
       ]
     },
     {
@@ -1219,9 +1219,9 @@
       "claim_timestamp": "00:09:35",
       "investigative_direction": "Verify the full segment transcript and any accompanying written material Hammer posted in that window.",
       "mentions_person_refs": [
-        "N-86",
-        "N-227",
-        "N-245"
+        "N-55",
+        "N-165",
+        "N-176"
       ]
     },
     {
@@ -1238,8 +1238,8 @@
       "claim_timestamp": "00:13:45",
       "investigative_direction": "Verify post date and content via X archives.",
       "mentions_person_refs": [
-        "N-227",
-        "N-228"
+        "N-165",
+        "N-166"
       ]
     },
     {
@@ -1252,13 +1252,13 @@
         "A-1239.2"
       ],
       "related_nodes": [
-        "N-10240"
+        "N-10174"
       ],
       "tags": [],
       "claim_timestamp": "00:14:29",
       "investigative_direction": "Query X archive for \"public execution\" within Hammer's account history; verify no other prior episodes.",
       "mentions_person_refs": [
-        "N-86"
+        "N-55"
       ]
     },
     {
@@ -1271,13 +1271,13 @@
         "A-1241.1"
       ],
       "related_nodes": [
-        "N-10243"
+        "N-10177"
       ],
       "tags": [],
       "claim_timestamp": "00:20:50",
       "investigative_direction": "Cross-check with post timestamp against major news outlets' confirmation-of-death timestamps.",
       "mentions_person_refs": [
-        "N-86",
+        "N-55",
         "N-1"
       ]
     },
@@ -1291,15 +1291,15 @@
         "A-1242.1"
       ],
       "related_nodes": [
-        "N-10243",
-        "N-10244"
+        "N-10177",
+        "N-10178"
       ],
       "tags": [],
       "claim_timestamp": "00:22:12",
       "investigative_direction": "Verify full JTV segment; corroborate against any Hamptons-meeting or post-call text-chain documentation.",
       "mentions_person_refs": [
-        "N-86",
-        "N-243",
+        "N-55",
+        "N-174",
         "N-1"
       ]
     },
@@ -1313,13 +1313,13 @@
         "A-1243.1"
       ],
       "related_nodes": [
-        "N-10244"
+        "N-10178"
       ],
       "tags": [],
       "claim_timestamp": "00:29:05",
       "investigative_direction": "Verify full Wolicki interview; obtain unedited transcript.",
       "mentions_person_refs": [
-        "N-229",
+        "N-167",
         "N-1"
       ]
     },
@@ -1333,13 +1333,13 @@
         "A-1243.1"
       ],
       "related_nodes": [
-        "N-10244"
+        "N-10178"
       ],
       "tags": [],
       "claim_timestamp": "00:30:17",
       "investigative_direction": "Verify full Wolicki interview; cross-check with documented calendar entries and Zoom records.",
       "mentions_person_refs": [
-        "N-229"
+        "N-167"
       ]
     },
     {
@@ -1357,8 +1357,8 @@
       "claim_timestamp": "00:47:42",
       "investigative_direction": "Verify post timestamp and any subsequent deletion; verify Yishai reply and any subsequent post changes.",
       "mentions_person_refs": [
-        "N-235",
-        "N-238",
+        "N-171",
+        "N-172",
         "N-3"
       ]
     },
@@ -1372,18 +1372,18 @@
         "A-1246.1"
       ],
       "related_nodes": [
-        "N-10242"
+        "N-10176"
       ],
       "tags": [],
       "claim_timestamp": "00:53:36",
       "investigative_direction": "Verify the recipients directly with named individuals; verify the contents of the package.",
       "mentions_person_refs": [
-        "N-68",
-        "N-128",
-        "N-233",
-        "N-242",
-        "N-50",
-        "N-78",
+        "N-39",
+        "N-93",
+        "N-170",
+        "N-173",
+        "N-22",
+        "N-49",
         "N-3"
       ]
     },
@@ -1397,14 +1397,14 @@
         "A-1246.1"
       ],
       "related_nodes": [
-        "N-10242"
+        "N-10176"
       ],
       "tags": [],
       "claim_timestamp": "00:54:36",
       "investigative_direction": "Verify O'Keefe's actual mechanism; obtain O'Keefe's primary disclosure.",
       "mentions_person_refs": [
-        "N-128",
-        "N-233"
+        "N-93",
+        "N-170"
       ]
     },
     {
@@ -1438,7 +1438,7 @@
       "claim_timestamp": "00:16:55",
       "investigative_direction": "Verify via web archives / Wayback Machine or third-party screen captures; verify deletion via X account audit.",
       "mentions_person_refs": [
-        "N-86"
+        "N-55"
       ]
     },
     {
@@ -1451,13 +1451,13 @@
         "A-1240.1"
       ],
       "related_nodes": [
-        "N-10240"
+        "N-10174"
       ],
       "tags": [],
       "claim_timestamp": "00:11:02",
       "investigative_direction": "Verify each timestamp and content against X archive.",
       "mentions_person_refs": [
-        "N-86"
+        "N-55"
       ]
     },
     {
@@ -1472,7 +1472,7 @@
       "claim_timestamp": "00:07:54",
       "investigative_direction": "Capture and verify direct screenshots of Bowyer's X posts.",
       "mentions_person_refs": [
-        "N-37",
+        "N-11",
         "N-3"
       ]
     },
@@ -1484,7 +1484,7 @@
       "claim": "There is an almost incomprehensible lack of footage from Charlie's left side (audience right) of the UVU event; Turning Point has not released high-resolution footage of that angle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10241"
+        "N-10175"
       ],
       "tags": [],
       "claim_timestamp": "00:43:02",
@@ -1498,7 +1498,7 @@
       "claim": "Host is specifically requesting footage of older males with long hair tied in ponytails or buns at the UVU event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10241"
+        "N-10175"
       ],
       "tags": [],
       "claim_timestamp": "00:42:00",
@@ -1519,7 +1519,7 @@
       "investigative_direction": "Locate exact closing-segment timestamp and any on-screen graphic.",
       "mentions_person_refs": [
         "N-3",
-        "N-91"
+        "N-60"
       ]
     },
     {

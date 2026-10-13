@@ -37,9 +37,9 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-11323",
-            "N-11325",
-            "N-11326"
+            "N-10833",
+            "N-10835",
+            "N-10836"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -67,7 +67,7 @@
             "C-3489"
           ],
           "related_nodes": [
-            "N-11323"
+            "N-10833"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -122,7 +122,7 @@
             "C-3473"
           ],
           "related_nodes": [
-            "N-11325"
+            "N-10835"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -176,8 +176,8 @@
             "C-3484"
           ],
           "related_nodes": [
-            "N-11324",
-            "N-11327"
+            "N-10834",
+            "N-10837"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,8 +195,8 @@
             "C-3480"
           ],
           "related_nodes": [
-            "N-11324",
-            "N-11327"
+            "N-10834",
+            "N-10837"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -247,7 +247,7 @@
             "C-3482"
           ],
           "related_nodes": [
-            "N-11324"
+            "N-10834"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -312,8 +312,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11323",
-      "ref": "N-11323",
+      "@id": "N-10833",
+      "ref": "N-10833",
       "name": "Notice of Claim Timing Anomaly",
       "type": "investigation_target",
       "description": "Persistent target: the wrongful-death notice of claim was filed approximately one year after the incident and two days before the expected release of UVU's independent review of security failures. Investigating whether the filing is preemptive.",
@@ -337,8 +337,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11324",
-      "ref": "N-11324",
+      "@id": "N-10834",
+      "ref": "N-10834",
       "name": "Tyler Robinson 2022 Bodycam Footage Provenance Question",
       "type": "investigation_target",
       "description": "Persistent target: investigating who retained the May 31, 2022 bodycam footage for approximately three years, why it was retained past Utah's 60–90 day routine-footage retention period, and how Scripps News obtained and released it within seven days of Tyler Robinson's identification as suspect.",
@@ -363,8 +363,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11325",
-      "ref": "N-11325",
+      "@id": "N-10835",
+      "ref": "N-10835",
       "name": "Notice of Claim Text Message Omission",
       "type": "investigation_target",
       "description": "Persistent target: the notice of claim's quotation of the Dan Flood / Chief Long text exchange omits the line \"I was told students have access above us,\" which materially changes the contextual reading from a general \"rooftops\" concern to a targeted walkway-above-Charlie concern.",
@@ -385,8 +385,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11326",
-      "ref": "N-11326",
+      "@id": "N-10836",
+      "ref": "N-10836",
       "name": "UVU Officer Allocation Ratio for Charlie Kirk Event",
       "type": "investigation_target",
       "description": "Persistent target: the notice of claim alleges UVU assigned six of 24 total officers to the outdoor event with approximately 3,000 attendees; host calculates this is mathematically an oversupply relative to UVU's 50,000-student base.",
@@ -409,8 +409,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11327",
-      "ref": "N-11327",
+      "@id": "N-10837",
+      "ref": "N-10837",
       "name": "Utah Bodycam Routine Footage Retention Law",
       "type": "investigation_target",
       "description": "Persistent target: investigating whether the May 31, 2022 Tyler Robinson footage should have been purged under Utah's 60–90 day retention schedule for routine, non-criminal interactions.",
@@ -429,8 +429,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11328",
-      "ref": "N-11328",
+      "@id": "N-10838",
+      "ref": "N-10838",
       "name": "UVU EMS Presence at Scene Verification",
       "type": "investigation_target",
       "description": "Persistent target: the notice of claim alleges no first responders were available; host asserts UVU's state-certified emergency medical services were on scene at the vehicle with medical bags.",
@@ -452,8 +452,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11329",
-      "ref": "N-11329",
+      "@id": "N-10839",
+      "ref": "N-10839",
       "name": "Independent Review of UVU Security Failures",
       "type": "investigation_target",
       "description": "Persistent target: UVU-commissioned third-party review announced September 22, 2025; findings expected imminently (host reports \"Friday\").",
@@ -470,7 +470,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11323"
+        "N-10833"
       ]
     },
     {
@@ -491,8 +491,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-30",
-      "ref": "N-30",
+      "@id": "N-8",
+      "ref": "N-8",
       "name": "Maycee Crofts",
       "type": "person",
       "description": "TPUSA senior field representative. The UVU independent review names her as directing the courtyard and fountain booking.",
@@ -506,8 +506,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
@@ -522,8 +522,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-344",
-      "ref": "N-344",
+      "@id": "N-229",
+      "ref": "N-229",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Podcast host of the Brian Harpole interview that the independent review and this episode treat as contradictory to review-team findings.",
@@ -538,8 +538,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -554,8 +554,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-434",
-      "ref": "N-434",
+      "@id": "N-276",
+      "ref": "N-276",
       "name": "Dan Flood",
       "type": "person",
       "description": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story).",
@@ -570,8 +570,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-435",
-      "ref": "N-435",
+      "@id": "N-277",
+      "ref": "N-277",
       "name": "Jeff Long",
       "type": "person",
       "description": "UVU police chief; Turek recounts Long saying he was thrown under the bus and arguing only the bridge roof was covered.",
@@ -596,7 +596,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-11323"
+        "N-10833"
       ],
       "tags": [],
       "claim_timestamp": "00:01:29",
@@ -615,7 +615,7 @@
         "A-2385.1"
       ],
       "related_nodes": [
-        "N-11329"
+        "N-10839"
       ],
       "tags": [],
       "claim_timestamp": "00:04:55",
@@ -634,7 +634,7 @@
         "A-2385.1"
       ],
       "related_nodes": [
-        "N-11329"
+        "N-10839"
       ],
       "tags": [],
       "claim_timestamp": "00:04:55",
@@ -655,8 +655,8 @@
       "investigative_direction": "Retrieve full unedited Shawn Ryan episode and verify Harpole's on-air list against TPUSA security contractor records.",
       "mentions_person_refs": [
         "N-1",
-        "N-424",
-        "N-344"
+        "N-272",
+        "N-229"
       ]
     },
     {
@@ -687,13 +687,13 @@
         "A-2388.1"
       ],
       "related_nodes": [
-        "N-11325"
+        "N-10835"
       ],
       "tags": [],
       "claim_timestamp": "00:27:11",
       "investigative_direction": "Verify the original text thread metadata (timestamps, sender numbers) and confirm the recipient list.",
       "mentions_person_refs": [
-        "N-434"
+        "N-276"
       ]
     },
     {
@@ -706,13 +706,13 @@
         "A-2387.1"
       ],
       "related_nodes": [
-        "N-11325"
+        "N-10835"
       ],
       "tags": [],
       "claim_timestamp": "00:30:35",
       "investigative_direction": "Verify against UVU PD records and text-message metadata.",
       "mentions_person_refs": [
-        "N-434"
+        "N-276"
       ]
     },
     {
@@ -726,13 +726,13 @@
         "A-2387.1"
       ],
       "related_nodes": [
-        "N-11325"
+        "N-10835"
       ],
       "tags": [],
       "claim_timestamp": "00:29:56",
       "investigative_direction": "Obtain the filed notice of claim text and the underlying original text records to formally document the omission and contextual difference.",
       "mentions_person_refs": [
-        "N-434"
+        "N-276"
       ]
     },
     {
@@ -745,7 +745,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-11326"
+        "N-10836"
       ],
       "tags": [],
       "claim_timestamp": "00:19:44",
@@ -761,7 +761,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-11326"
+        "N-10836"
       ],
       "tags": [],
       "claim_timestamp": "00:19:44",
@@ -777,13 +777,13 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-11326"
+        "N-10836"
       ],
       "tags": [],
       "claim_timestamp": "00:19:44",
       "investigative_direction": "Obtain UVU PD internal communications and presidential approval logs from September 2025.",
       "mentions_person_refs": [
-        "N-435"
+        "N-277"
       ]
     },
     {
@@ -796,7 +796,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-11326"
+        "N-10836"
       ],
       "tags": [],
       "claim_timestamp": "00:19:44",
@@ -813,13 +813,13 @@
         "A-2389.2"
       ],
       "related_nodes": [
-        "N-11324"
+        "N-10834"
       ],
       "tags": [],
       "claim_timestamp": "00:40:52",
       "investigative_direction": "Confirm Scripps News publication date and Tyler Robinson's public identification date.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -832,14 +832,14 @@
         "A-2389.1"
       ],
       "related_nodes": [
-        "N-11324",
-        "N-11327"
+        "N-10834",
+        "N-10837"
       ],
       "tags": [],
       "claim_timestamp": "00:43:44",
       "investigative_direction": "Verify the timestamp metadata on the released footage.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -853,7 +853,7 @@
         "A-2390.1"
       ],
       "related_nodes": [
-        "N-11324"
+        "N-10834"
       ],
       "tags": [],
       "claim_timestamp": "00:48:11",
@@ -872,7 +872,7 @@
         "A-2391.1"
       ],
       "related_nodes": [
-        "N-11324"
+        "N-10834"
       ],
       "tags": [],
       "claim_timestamp": "00:48:11",
@@ -888,7 +888,7 @@
         "A-2391.1"
       ],
       "related_nodes": [
-        "N-11324"
+        "N-10834"
       ],
       "tags": [],
       "claim_timestamp": "00:48:11",
@@ -904,8 +904,8 @@
         "A-2389.1"
       ],
       "related_nodes": [
-        "N-11324",
-        "N-11327"
+        "N-10834",
+        "N-10837"
       ],
       "tags": [],
       "claim_timestamp": "00:46:14",
@@ -921,13 +921,13 @@
         "A-2389.1"
       ],
       "related_nodes": [
-        "N-11324"
+        "N-10834"
       ],
       "tags": [],
       "claim_timestamp": "00:46:14",
       "investigative_direction": "Cross-reference against birth records / official DOB.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -938,7 +938,7 @@
       "claim": "UVU has a total of 50,000 students.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11326"
+        "N-10836"
       ],
       "tags": [],
       "claim_timestamp": "00:20:33",
@@ -952,7 +952,7 @@
       "claim": "UVU has 24 police officers available to cover its campus.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11326"
+        "N-10836"
       ],
       "tags": [],
       "claim_timestamp": "00:20:33",
@@ -973,7 +973,7 @@
       "investigative_direction": "Recover Microsoft Teams call metadata and any TPUSA event-planning emails.",
       "mentions_person_refs": [
         "N-1",
-        "N-30"
+        "N-8"
       ]
     },
     {
@@ -984,7 +984,7 @@
       "claim": "UVU's state-certified emergency medical services were present beside the vehicle with medical bags.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11328"
+        "N-10838"
       ],
       "tags": [],
       "claim_timestamp": "00:22:26",
@@ -1003,8 +1003,8 @@
         "A-2385.1"
       ],
       "related_nodes": [
-        "N-11329",
-        "N-11323"
+        "N-10839",
+        "N-10833"
       ],
       "tags": [],
       "claim_timestamp": "00:06:24",
@@ -1035,7 +1035,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-11323"
+        "N-10833"
       ],
       "tags": [],
       "claim_timestamp": "00:24:37",
@@ -1051,7 +1051,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-11323"
+        "N-10833"
       ],
       "tags": [],
       "claim_timestamp": "00:25:33",
@@ -1067,7 +1067,7 @@
         "A-2384.1"
       ],
       "related_nodes": [
-        "N-11323"
+        "N-10833"
       ],
       "tags": [],
       "claim_timestamp": "00:34:25",

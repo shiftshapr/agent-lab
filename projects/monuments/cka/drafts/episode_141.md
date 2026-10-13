@@ -37,8 +37,8 @@
 
 - Artifact Families Introduced: A-2277, A-2278, A-2279, A-2280, A-2281, A-2282, A-2283
 - Claim Range: C-3277–C-3289
-  - New Nodes Introduced: N-11193, N-11194, N-11195
-  - Reused Nodes Appearing: N-46, N-929
+  - New Nodes Introduced: N-10794, N-10795, N-10796
+  - Reused Nodes Appearing: N-18, N-573
 - Existing Nodes Reused: (Candace Owens, Erika Kirk, Charlie Kirk, Tyler Robinson treated as known series entities; node IDs not reissued)
 
 ---
@@ -49,7 +49,7 @@ This episode presents Candace Owens's post-debate recap of a discussion between 
 
 Secondary artifacts include post-debate social media reactions: an AI-generated "Jars Wide Shut" video by @whereforbidden (A-2278.1), a "Stages of Debate Grief" meme by @alpha_approved (A-2279.1), two Rachel Wilson X posts regarding in-ear monitors and case detail familiarity (A-2280.1, A-2280.2), a Steven Crowder–Andrew Wilson post-debate phone call regarding makeup and hair (A-2281.1), and a Poly Market chart showing Robinson conviction odds falling during the debate (A-2282.1).
 
-The episode advances two open investigative threads: the September 9, 2025 message nature discrepancy (Wilson claiming Signal vs. Owens's prior documented iMessage claim) (N-11193), and Wilson's stated intent to release "never-before-seen messages" (N-11194). Pre-debate negotiation details, including anonymous "Crucible team" communications, Joe Rogan hosting offer, and contract clauses, are narrated by the host but are not artifact-anchored in this episode.
+The episode advances two open investigative threads: the September 9, 2025 message nature discrepancy (Wilson claiming Signal vs. Owens's prior documented iMessage claim) (N-10794), and Wilson's stated intent to release "never-before-seen messages" (N-10795). Pre-debate negotiation details, including anonymous "Crucible team" communications, Joe Rogan hosting offer, and contract clauses, are narrated by the host but are not artifact-anchored in this episode.
 
 ---
 
@@ -67,7 +67,7 @@ Video Timestamp: 00:18:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3277, C-3289, N-11193, N-11194*
+*Related: C-3277, C-3289, N-10794, N-10795*
 
 **A-2277.2** Debate Segment – Wilson's 75–85% Confidence Estimate
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:49:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-11194*
+*Related: N-10795*
 
 **A-2277.6** Debate Segment – 16-Second Silence and Lance DNA Clip Moment
 
@@ -141,7 +141,7 @@ Video Timestamp: 01:01:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3287, N-46*
+*Related: C-3287, N-18*
 
 ---
 
@@ -193,7 +193,7 @@ Video Timestamp: 01:06:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3282, N-46*
+*Related: C-3282, N-18*
 
 ---
 
@@ -221,13 +221,13 @@ Video Timestamp: 00:42:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3286, N-11194, N-46*
+*Related: C-3286, N-10795, N-18*
 
 ---
 
 ## IV. Node Register
 
-**N-11193** September 9, 2025 Message Nature Discrepancy
+**N-10794** September 9, 2025 Message Nature Discrepancy
 
 Persistent disagreement over whether the Charlie Kirk security message Wilson referenced in his opening statement was sent via Signal (per Wilson's prior framing) or iMessage (per Owens's prior public claim that she has seen the message).
 
@@ -238,7 +238,7 @@ Investigative Pressure: Medium
 
 *Related: A-2277.1, C-3277*
 
-**N-11194** Wilson's Promised Release of "Never-Before-Seen Messages"
+**N-10795** Wilson's Promised Release of "Never-Before-Seen Messages"
 
 Wilson opened the debate stating he possesses never-before-seen messages from Charlie Kirk's security team dated September 9, 2025, and committed to dropping the underlying message text on his show following the debate; the message had not been released as of this episode.
 
@@ -249,7 +249,7 @@ Investigative Pressure: Medium
 
 *Related: A-2277.1, A-2283.1, C-3277, C-3286*
 
-**N-11195** Turning Point USA Organizational State (Post-Debate)
+**N-10796** Turning Point USA Organizational State (Post-Debate)
 
 Persistent investigation target tracking TPUSA's institutional conduct, public posture, and personnel alignment under Erika Kirk's leadership; episode contributes Wilson's performance and the post-debate social media reaction as additional data points.
 
@@ -262,7 +262,7 @@ Investigative Pressure: High
 
 ---
 
-**N-46** Andrew Wilson
+**N-18** Andrew Wilson
 
 Node Type: Person
 Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
@@ -280,9 +280,9 @@ Claim Timestamp: 00:18:36
 Claim: Andrew Wilson's debate opening statement was read aloud from a mobile phone and concerned "never-before-seen messages" from Charlie Kirk to his security team dated September 9, 2025.
 
 Anchored Artifacts: A-2277.1
-Mentions: N-46, N-1
+Mentions: N-18, N-1
 
-Related Nodes: N-11193, N-11194
+Related Nodes: N-10794, N-10795
 
 Investigative Direction: Verify whether Wilson subsequently publishes the underlying message text and cross-reference its platform of origin (Signal vs. iMessage) against prior Owens claims and Erika Kirk's prior December 2025 Glenn Beck statements.
 
@@ -293,7 +293,7 @@ Claim Timestamp: 00:22:37
 Claim: When asked by the moderator for a 0–100 estimate of the likelihood that Tyler Robinson shot and killed Charlie Kirk, Andrew Wilson answered 75–85%.
 
 Anchored Artifacts: A-2277.2
-Mentions: N-46, N-69, N-1
+Mentions: N-18, N-40, N-1
 
 
 Investigative Direction: Compare Wilson's stated confidence level against his debate claim that the evidence against Robinson is "overwhelming."
@@ -305,7 +305,7 @@ Claim Timestamp: 00:44:42
 Claim: When challenged during the debate to name any of the seven charges Tyler Robinson faces, Andrew Wilson could not do so and ultimately named a charge (murder) that Owens stated was not on the list.
 
 Anchored Artifacts: A-2277.4
-Mentions: N-46, N-69
+Mentions: N-18, N-40
 
 
 Investigative Direction: Cross-reference the published charging instrument from the Utah case to verify the seven-count list and confirm which charge(s) Wilson named correctly versus incorrectly.
@@ -317,7 +317,7 @@ Claim Timestamp: 00:29:04
 Claim: Throughout the debate, Andrew Wilson repeated the phrase "positive evidence" multiple times as his principal rebuttal device.
 
 Anchored Artifacts: A-2277.3
-Mentions: N-46
+Mentions: N-18
 
 
 Investigative Direction: Count exact repetitions in full debate transcript; this claim is repeated in internet memes (A-2279.1) which may be cross-referenced for the specific count (the meme states 47).
@@ -329,7 +329,7 @@ Claim Timestamp: 00:17:24
 Claim: The discussion between Candace Owens and Andrew Wilson was moderated by Patrick Bet-David (PBD).
 
 Anchored Artifacts: A-2277, A-2277.6
-Mentions: N-46, N-3
+Mentions: N-18, N-3
 
 
 Investigative Direction: Verify PBD's role through the published debate recording on his platform; confirm two named team members (Tom and PBD's executive assistant) were present on the pre-debate FaceTime call.
@@ -341,7 +341,7 @@ Claim Timestamp: 01:06:45
 Claim: Immediately after the debate concluded, Steven Crowder telephoned Andrew Wilson and asked whether Wilson had been provided hair and makeup services, to which Wilson replied he would have refused them.
 
 Anchored Artifacts: A-2281.1
-Mentions: N-46, N-406
+Mentions: N-18, N-265
 
 
 Investigative Direction: Identify any further post-debate coordination between Crowder's organization and Wilson; verify whether the hair/makeup assertion contradicts the published terms of the debate.
@@ -353,7 +353,7 @@ Claim Timestamp: 01:00:00
 Claim: The Poly Market prediction market odds on a Tyler Robinson conviction fell during the debate, hitting approximately 34% mid-debate.
 
 Anchored Artifacts: A-2282.1
-Mentions: N-69
+Mentions: N-40
 
 Related Nodes:
 
@@ -366,7 +366,7 @@ Claim Timestamp: 01:08:14
 Claim: Rachel Wilson posted on X stating, in effect, that Candace Owens would naturally know the case details better than Andrew Wilson, citing Wilson's approximately six days of preparation.
 
 Anchored Artifacts: A-2280.2
-Mentions: N-46, N-3, N-929
+Mentions: N-18, N-3, N-573
 
 Related Nodes:
 
@@ -379,7 +379,7 @@ Claim Timestamp: 01:04:09
 Claim: Rachel Wilson posted on X questioning whether Candace Owens's in-ear monitor had been used to receive outside assistance during the debate.
 
 Anchored Artifacts: A-2280.1
-Mentions: N-3, N-929
+Mentions: N-3, N-573
 
 Related Nodes:
 
@@ -392,9 +392,9 @@ Claim Timestamp: 00:42:35
 Claim: Prior to the debate, Andrew Wilson retweeted a comment reading "skimmed it. The Tyler Robinson dispense defense is on absolute life support" and added the reply "Picked a hell of a week."
 
 Anchored Artifacts: A-2283.1
-Mentions: N-46, N-69
+Mentions: N-18, N-40
 
-Related Nodes: N-11194
+Related Nodes: N-10795
 
 Investigative Direction: Retrieve the full X post with timestamp; identify the original poster; cross-reference with the dismissal filing released two days before the debate.
 
@@ -405,7 +405,7 @@ Claim Timestamp: 01:01:26
 Claim: An AI-generated video titled "Jars Wide Shut," depicting Erika Kirk confronting Andrew Wilson, was created by the X account @whereforbidden and circulated as a post-debate reaction.
 
 Anchored Artifacts: A-2278.1
-Mentions: N-46, N-2
+Mentions: N-18, N-2
 
 Related Nodes:
 
@@ -418,7 +418,7 @@ Claim Timestamp: 01:02:50
 Claim: A five-panel "Stages of Debate Grief" meme, with each stage attributed to Andrew Wilson, was created by the X account @alpha_approved and circulated as a post-debate reaction.
 
 Anchored Artifacts: A-2279.1
-Mentions: N-46
+Mentions: N-18
 
 Related Nodes:
 
@@ -431,11 +431,11 @@ Claim Timestamp: 00:19:49
 Claim: During his debate opening, Andrew Wilson asserted that he possessed Charlie Kirk's cell phone.
 
 Anchored Artifacts: A-2277.1
-Mentions: N-46, N-1
+Mentions: N-18, N-1
 
-Related Nodes: N-11193
+Related Nodes: N-10794
 
-Investigative Direction: Verify whether the cell phone referenced matches the device referenced in prior Erika Kirk statements and the September 9, 2025 message provenance question (N-11193).
+Investigative Direction: Verify whether the cell phone referenced matches the device referenced in prior Erika Kirk statements and the September 9, 2025 message provenance question (N-10794).
 
 ---
 
@@ -459,8 +459,8 @@ Investigative Direction: Verify whether the cell phone referenced matches the de
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (starting at N-10207 for new entities)
-- [x] Non-person investigation targets use the 1000 series (starting at N-11193)
+- [x] People nodes use the global people ledger (starting at N-10141 for new entities)
+- [x] Non-person investigation targets use the 1000 series (starting at N-10794)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly as transcribed, with uncertainty flagged
 - [x] Formatting consistent throughout

@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: a0bc3eb2ea2af5020423c10e7e02d4d3bb05ac5892b4c56a9ad9bdc3ed449838
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-499, N-500, N-501, N-502, N-503, N-512, N-10387, N-10388, N-10389, N-10390, N-10391, N-10392, N-10393, N-10394, N-10395, N-10396
+  - New Nodes Introduced:  N-319, N-320, N-321, N-322, N-323, N-324, N-10316, N-10317, N-10318, N-10319, N-10320, N-10321, N-10322, N-10323, N-10324, N-10325
   - Reused Nodes Appearing: none (Wave 2: local ids removed)
   - (see registers)
 
@@ -34,7 +34,7 @@
   - Artifact Families Introduced: A-1513, A-1514, A-1515, A-1516, A-1517, A-1518
   - Claim Range: C-1862–C-1879
   - New Nodes Introduced (people):  through 
-  - New Nodes Introduced (investigation targets): N-10387 through N-10396
+  - New Nodes Introduced (investigation targets): N-10316 through N-10325
   - Existing Nodes Reused: N-3
 
 ---
@@ -75,7 +75,7 @@ Video Timestamp: 00:07:33–00:08:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1864, N-102, N-75, N-10387*
+*Related: C-1864, N-69, N-46, N-10316*
 
 ---
 
@@ -89,7 +89,7 @@ Video Timestamp: 00:14:36–00:15:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1865, C-1866, N-499, N-10388*
+*Related: C-1865, C-1866, N-319, N-10317*
 
 **A-1515.2** Read-aloud quote from a website identified as "CorpWatch" describing the Angolagate scandal, citing a March 25 Global Witness report ("All the President's Men")
 
@@ -99,7 +99,7 @@ Video Timestamp: 00:15:38–00:17:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1867, C-1868, C-1869, C-1870, C-1871, N-499, N-500, N-501, N-502*
+*Related: C-1867, C-1868, C-1869, C-1870, C-1871, N-319, N-320, N-321, N-322*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:30:18–00:33:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (video exists; result of test as shown)
 
-*Related: C-1872, C-1873, N-503, N-10390, N-97, N-267*
+*Related: C-1872, C-1873, N-323, N-10319, N-66, N-192*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:29:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1874, N-512*
+*Related: C-1874, N-324*
 
 ---
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:40:18–00:41:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (dates as stated by commenter)
 
-*Related: C-1877, N-444*
+*Related: C-1877, N-284*
 
 **A-1518.5** Viewer comment from "CCXX": references life insurance taken out on Charlie Kirk and $1.5 million routing; mentions Daily Mail story on life insurance
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:41:02–00:41:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (existence of Daily Mail story as cited)
 
-*Related: C-1878, C-1879, N-10393*
+*Related: C-1878, C-1879, N-10322*
 
 **A-1518.6** Viewer comment from "Laughing Cats Music World" – referenced but contents not read in full (request for post to TPUSA asking specific questions)
 
@@ -191,7 +191,7 @@ Video Timestamp: 00:37:36–00:38:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as referenced comment)
 
-*Related: C-1875, C-1876, N-10392*
+*Related: C-1875, C-1876, N-10321*
 
 ---
 
@@ -211,7 +211,7 @@ Investigative Pressure: (existing)
 
 ---
 
-**N-102** Kash Patel
+**N-69** Kash Patel
 
 FBI Director interviewed by Megyn Kelly; declined to address French involvement allegation directly.
 
@@ -220,11 +220,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1514.1, C-1864, N-75, N-10387*
+*Related: A-1514.1, C-1864, N-46, N-10316*
 
 ---
 
-**N-75** Megyn Kelly
+**N-46** Megyn Kelly
 
 Journalist who interviewed Kash Patel on the Macron couple and Kirk assassination questions.
 
@@ -233,11 +233,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1514.1, C-1864, N-102*
+*Related: A-1514.1, C-1864, N-69*
 
 ---
 
-**N-499** Pierre Falcone
+**N-319** Pierre Falcone
 
 French-born arms dealer convicted in Angolagate scandal; reportedly currently residing in Scottsdale, Arizona; introduced in this episode as a potential link between France, Israel, Angola, and the United States.
 
@@ -246,11 +246,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1515.1, A-1515.2, C-1865, C-1866, C-1867, C-1870, N-500, N-501, N-502, N-10388*
+*Related: A-1515.1, A-1515.2, C-1865, C-1866, C-1867, C-1870, N-320, N-321, N-322, N-10317*
 
 ---
 
-**N-500** Arcadi Gaydamak
+**N-320** Arcadi Gaydamak
 
 Israeli-Russian-Israeli businessman; co-conspirator in Angolagate via Brenco International; convicted in absentia in France.
 
@@ -259,11 +259,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1515.2, C-1868, C-1870, N-499*
+*Related: A-1515.2, C-1868, C-1870, N-319*
 
 ---
 
-**N-501** Jean-Christophe Mitterrand
+**N-321** Jean-Christophe Mitterrand
 
 Son of former French president François Mitterrand; implicated in Angolagate as having "special access" to Angolan government.
 
@@ -272,11 +272,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1515.2, C-1871, N-499, N-502*
+*Related: A-1515.2, C-1871, N-319, N-322*
 
 ---
 
-**N-502** François Mitterrand
+**N-322** François Mitterrand
 
 Former President of France (term during Angolagate exposure); implicated via his son.
 
@@ -285,11 +285,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1515.2, C-1871, N-501*
+*Related: A-1515.2, C-1871, N-321*
 
 ---
 
-**N-503** Jesse Kege
+**N-323** Jesse Kege
 
 YouTuber ("One Shot TV") who produced the .30-06 ballistic dummy demonstration; no prior horse in the Charlie Kirk case per host's description.
 
@@ -298,11 +298,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1516.1, C-1872, C-1873, N-10390*
+*Related: A-1516.1, C-1872, C-1873, N-10319*
 
 ---
 
-**N-434** Dan Flood
+**N-276** Dan Flood
 
 Security professional positioned to Charlie Kirk's right; per host's tip, received a message from Charlie the night before the assassination.
 
@@ -311,11 +311,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1864 (Patel) – adjacent, N-10391*
+*Related: C-1864 (Patel) – adjacent, N-10320*
 
 ---
 
-**N-217** John Mappin
+**N-157** John Mappin
 
 Referenced by viewer comment "fam"; author of "The Perfumed Pervert" essay.
 
@@ -328,7 +328,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-444** Bari Weiss
+**N-284** Bari Weiss
 
 Journalist; referenced by viewer comment as having Erika Kirk on her show on the 13th.
 
@@ -341,7 +341,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-512** Hodge Twins
+**N-324** Hodge Twins
 
 Commentator duo; tweet regarding Republican midterm losses read aloud by host.
 
@@ -354,7 +354,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-97** Village Crazy Lady
+**N-66** Village Crazy Lady
 
 Social media user who brought the Jesse Kege video to the host's attention.
 
@@ -363,11 +363,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1516.1, N-503*
+*Related: A-1516.1, N-323*
 
 ---
 
-**N-267** Ryan Matta
+**N-192** Ryan Matta
 
 Social media user who brought the Jesse Kege video to the host's attention.
 
@@ -376,13 +376,13 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1516.1, N-503*
+*Related: A-1516.1, N-323*
 
 ---
 
 ### Investigation Targets
 
-**N-10387** France / Macron Couple Involvement in Kirk Assassination
+**N-10316** France / Macron Couple Involvement in Kirk Assassination
 
 Persistent investigation target; this episode adds Kash Patel's non-denial under direct questioning on camera.
 
@@ -391,11 +391,11 @@ Claim Count: 1
 Episode Count: (existing)
 Investigative Pressure: High
 
-*Related: A-1514.1, C-1864, N-102, N-75*
+*Related: A-1514.1, C-1864, N-69, N-46*
 
 ---
 
-**N-10388** Pierre Falcone / Turning Point USA Connection Claim
+**N-10317** Pierre Falcone / Turning Point USA Connection Claim
 
 Unverified tip received by host asserting a meeting occurred between TPUSA personnel and Pierre Falcone; requires verification.
 
@@ -404,11 +404,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1515.1, A-1515.2, C-1865, C-1866, C-1867, N-499*
+*Related: A-1515.1, A-1515.2, C-1865, C-1866, C-1867, N-319*
 
 ---
 
-**N-10389** Operation Mockingbird 2.0 Allegation
+**N-10318** Operation Mockingbird 2.0 Allegation
 
 Host framing premise comparing current media posture regarding the Kirk assassination to the CIA's Operation Mockingbird following JFK. Not artifact-backed in this episode.
 
@@ -421,7 +421,7 @@ Investigative Pressure: (framing – does not meet admission test)
 
 ---
 
-**N-10390** .30-06 Forensic Narrative Validity
+**N-10319** .30-06 Forensic Narrative Validity
 
 Persistent investigation target regarding the official ballistics account of the Kirk shooting; this episode adds the Jesse Kege / One Shot TV demonstration as a third-party test.
 
@@ -430,11 +430,11 @@ Claim Count: 2
 Episode Count: (existing)
 Investigative Pressure: High
 
-*Related: A-1516.1, C-1872, C-1873, N-503*
+*Related: A-1516.1, C-1872, C-1873, N-323*
 
 ---
 
-**N-10391** Charlie Kirk's Pre-Death Messages (Night Before Assassination)
+**N-10320** Charlie Kirk's Pre-Death Messages (Night Before Assassination)
 
 Investigation target regarding Charlie Kirk's communications the night before the shooting, including alleged direct statement to Dan Flood that "they are going to kill me tomorrow," and messages to a donor and a TPUSA staffer.
 
@@ -443,11 +443,11 @@ Claim Count: 1
 Episode Count: (existing)
 Investigative Pressure: High
 
-*Related: N-1, N-434*
+*Related: N-1, N-276*
 
 ---
 
-**N-10392** TPUSA $1.5M Routing to 110 LLC / Safeway Strip Mall
+**N-10321** TPUSA $1.5M Routing to 110 LLC / Safeway Strip Mall
 
 Investigation target raised via viewer comment; DOJ audit referenced as cancelled.
 
@@ -460,7 +460,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10393** Charlie Kirk Life Insurance Policy & Beneficiary
+**N-10322** Charlie Kirk Life Insurance Policy & Beneficiary
 
 Investigation target including $1.5M amount and corporate implications; Daily Mail cited as breaking the story.
 
@@ -473,7 +473,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10394** Charlie Kirk Burial Status / Catholic Funeral Mass
+**N-10323** Charlie Kirk Burial Status / Catholic Funeral Mass
 
 Investigation target; viewer social media speculation that Charlie Kirk has not yet been buried, contrasted with host's statement that he had a Catholic funeral mass.
 
@@ -486,7 +486,7 @@ Investigative Pressure: Low (social-media-level evidence only)
 
 ---
 
-**N-10395** Epstein Files Release Status
+**N-10324** Epstein Files Release Status
 
 Persistent political issue referenced via the Milo Yiannopoulos / Tim Pool / George Santos segment.
 
@@ -499,7 +499,7 @@ Investigative Pressure: Low (political-context reference, not artifact-backed as
 
 ---
 
-**N-10396** Global Trafficking Angle in Kirk Assassination
+**N-10325** Global Trafficking Angle in Kirk Assassination
 
 Host's hypothesis (artifact-anchored to the Pierre Falcone / Angolagate tip) that Charlie Kirk's organization was being approached for trafficking-related cooperation; remains framing/speculative until verified.
 
@@ -508,7 +508,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1515.1, A-1515.2, N-499, N-10388*
+*Related: A-1515.1, A-1515.2, N-319, N-10317*
 
 ---
 
@@ -547,8 +547,8 @@ Claim Timestamp: 00:07:33–00:08:21
 Claim: When Megyn Kelly directly asked FBI Director Kash Patel whether the French were involved in Charlie Kirk's assassination, Patel did not address the allegation and instead spoke in general terms about investigating threats to any American.
 
 Anchored Artifacts: A-1514.1
-Mentions: N-75, N-102, N-1
-Related Nodes: N-10387
+Mentions: N-46, N-69, N-1
+Related Nodes: N-10316
 
 Investigative Direction: Obtain the full unedited Megyn Kelly / Kash Patel interview segment to verify exact wording and identify any non-verbal cues or follow-up questions.
 
@@ -561,8 +561,8 @@ Claim Timestamp: 00:14:36–00:15:38
 Claim: According to source material read aloud by the host and attributed to "Corruption Tracker," Pierre Falcone was convicted of arms trafficking, breach of trust, misuse of corporate assets, and bribery.
 
 Anchored Artifacts: A-1515.1
-Mentions: N-499
-Related Nodes: N-10388
+Mentions: N-319
+Related Nodes: N-10317
 
 Investigative Direction: Obtain primary French court records or a contemporaneous news report of the conviction to confirm charges and dates.
 
@@ -575,8 +575,8 @@ Claim Timestamp: 00:14:36–00:15:38
 Claim: According to source material read aloud, Pierre Falcone's original six-year sentence was overturned on appeal and replaced with a 2.5-year sentence.
 
 Anchored Artifacts: A-1515.1
-Mentions: N-499
-Related Nodes: N-10388
+Mentions: N-319
+Related Nodes: N-10317
 
 Investigative Direction: Locate the appellate decision and confirm the precise revised sentence and the date it was imposed.
 
@@ -589,10 +589,10 @@ Claim Timestamp: 00:17:26
 Claim: The host states that Pierre Falcone reappeared in Scottsdale, Arizona, the same location as Turning Point USA.
 
 Anchored Artifacts: A-1515.2 (host read-aloud of source)
-Mentions: N-499
+Mentions: N-319
 
 *Note: This claim is sourced from the host's framing rather than from the read-aloud source text. Capture as host claim tied to read-aloud artifact; requires verification.*
-Related Nodes: N-10388
+Related Nodes: N-10317
 
 Investigative Direction: Verify Pierre Falcone's current residence via property records, business filings, or U.S. immigration records.
 
@@ -605,7 +605,7 @@ Claim Timestamp: 00:14:36–00:15:38
 Claim: According to source material read aloud, Arcadi Gaydamak was convicted (without appearing in France) of arms trafficking, tax fraud, bribery, and money laundering.
 
 Anchored Artifacts: A-1515.1
-Mentions: N-499, N-500
+Mentions: N-319, N-320
 
 Investigative Direction: Locate the French court judgment against Gaydamak and confirm the conviction and date.
 
@@ -618,7 +618,7 @@ Claim Timestamp: 00:15:38–00:17:26
 Claim: According to a CorpWatch source read aloud by the host, the Angolagate scandal involved France, Israel, Angola, Russia, Slovakia, and the United States.
 
 Anchored Artifacts: A-1515.2
-Mentions: N-499, N-500, N-501, N-502
+Mentions: N-319, N-320, N-321, N-322
 
 Investigative Direction: Cross-reference the March 25 Global Witness report "All the President's Men" with CorpWatch and the original French judicial findings.
 
@@ -631,7 +631,7 @@ Claim Timestamp: 00:15:38–00:17:26
 Claim: According to a CorpWatch article citing a March 25 Global Witness report, Brenco International and the Mitterrand access channel transferred approximately $463 million in arms to Angola.
 
 Anchored Artifacts: A-1515.2
-Mentions: N-499, N-500, N-501
+Mentions: N-319, N-320, N-321
 
 Investigative Direction: Locate the original Global Witness report figures and the French prosecutor's findings on arms volumes.
 
@@ -644,7 +644,7 @@ Claim Timestamp: 00:15:38–00:17:26
 Claim: According to a CorpWatch source, Jean-Christophe Mitterrand (son of former French president François Mitterrand) was implicated in Angolagate as having provided access to the Angolan government.
 
 Anchored Artifacts: A-1515.2
-Mentions: N-499, N-501, N-502
+Mentions: N-319, N-321, N-322
 
 Investigative Direction: Verify Jean-Christophe Mitterrand's role via French court records.
 
@@ -657,8 +657,8 @@ Claim Timestamp: 00:32:46–00:33:21
 Claim: In the demonstration shown, a 180gr FMJ .30-06 round penetrated a ballistic dummy, separated its head, and continued through three 5-gallon water jugs placed behind.
 
 Anchored Artifacts: A-1516.1
-Mentions: N-503
-Related Nodes: N-10390
+Mentions: N-323
+Related Nodes: N-10319
 
 Investigative Direction: Obtain the full One Shot TV video, including any second-round test (150gr Hornady ballistic tip), and verify the exact penetration result shown.
 
@@ -671,8 +671,8 @@ Claim Timestamp: 00:33:21
 Claim: The host characterizes the One Shot TV result – that the dummy's head was severed and the round continued through water jugs – as evidence that the official story's depiction of a .30-06 ricochet is implausible.
 
 Anchored Artifacts: A-1516.1
-Mentions: N-503
-Related Nodes: N-10390
+Mentions: N-323
+Related Nodes: N-10319
 
 Investigative Direction: Cross-reference the One Shot TV demonstration with official forensic findings released by authorities.
 
@@ -685,7 +685,7 @@ Claim Timestamp: 00:29:16
 Claim: According to a tweet from the Hodge Twins read aloud by the host, Republicans will lose midterms because no deep state criminals have been held accountable, money is sent to corrupt foreign countries, and establishment figures are being promoted.
 
 Anchored Artifacts: A-1517.1
-Mentions: N-512
+Mentions: N-324
 
 Investigative Direction: Obtain the original tweet and confirm the exact text.
 
@@ -698,7 +698,7 @@ Claim Timestamp: 00:37:36–00:38:23
 Claim: A viewer comment asserts that TPUSA routed $1.5 million to a 110 LLC that routes to a Safeway strip mall.
 
 Anchored Artifacts: A-1518.6
-Related Nodes: N-10392
+Related Nodes: N-10321
 
 Investigative Direction: Trace the named LLC through state business filings, bank records (subject to access), and IRS Form 990 disclosures.
 
@@ -711,7 +711,7 @@ Claim Timestamp: 00:37:36–00:38:23
 Claim: A viewer comment asserts that a DOJ audit was "suddenly no longer happening."
 
 Anchored Artifacts: A-1518.6
-Related Nodes: N-10392
+Related Nodes: N-10321
 
 Investigative Direction: Verify through DOJ press releases, congressional correspondence, or reporting.
 
@@ -724,7 +724,7 @@ Claim Timestamp: 00:40:18–00:41:02
 Claim: A viewer comment provides dates for upcoming Erika Kirk media appearances (Bari Weiss on the 13th, TPUSA podcast on the 15th, AmFest on the 18th).
 
 Anchored Artifacts: A-1518.4
-Mentions: N-444, N-2
+Mentions: N-284, N-2
 Related Nodes:
 
 Investigative Direction: Verify against publicly available event listings and episode announcements.
@@ -739,7 +739,7 @@ Claim: A viewer comment references a Daily Mail story on the life insurance poli
 
 Anchored Artifacts: A-1518.5
 Mentions: N-1
-Related Nodes: N-10393
+Related Nodes: N-10322
 
 Investigative Direction: Locate the Daily Mail article and confirm policy details, beneficiary, and amount.
 
@@ -753,7 +753,7 @@ Claim: Viewer comments (Jo Ann, Diana Sheen, CCXX) collectively assert that TPUS
 
 Anchored Artifacts: A-1518.1, A-1518.3, A-1518.5
 Mentions:
-Related Nodes: N-10391
+Related Nodes: N-10320
 
 Investigative Direction: Cross-reference against depositions, congressional testimony, and investigative reporting.
 
@@ -797,9 +797,9 @@ A-1513, A-1514, A-1515, A-1516, A-1517, A-1518
 **Claim Range:** C-1862–C-1879
 
 **New Nodes Introduced (people):**
-N-102 (Kash Patel), N-75 (Megyn Kelly), N-499 (Pierre Falcone), N-500 (Arcadi Gaydamak), N-501 (Jean-Christophe Mitterrand), N-502 (François Mitterrand), N-503 (Jesse Kege),  (Milo Yiannopoulos),  (Tim Pool),  (George Santos), N-434 (Dan Flood),  (Frank Turek),  (Nick Fuentes), N-217 (John Mappin), N-444 (Bari Weiss), N-512 (Hodge Twins),  (Tucker Carlson), N-97 (Mel / Village Crazy Lady), N-267 (Ryan Matta)
+N-69 (Kash Patel), N-46 (Megyn Kelly), N-319 (Pierre Falcone), N-320 (Arcadi Gaydamak), N-321 (Jean-Christophe Mitterrand), N-322 (François Mitterrand), N-323 (Jesse Kege),  (Milo Yiannopoulos),  (Tim Pool),  (George Santos), N-276 (Dan Flood),  (Frank Turek),  (Nick Fuentes), N-157 (John Mappin), N-284 (Bari Weiss), N-324 (Hodge Twins),  (Tucker Carlson), N-66 (Mel / Village Crazy Lady), N-192 (Ryan Matta)
 
 **New Nodes Introduced (investigation targets):**
-N-10387, N-10388, N-10390, N-10391, N-10392, N-10393, N-10394, N-10395, N-10396
+N-10316, N-10317, N-10319, N-10320, N-10321, N-10322, N-10323, N-10324, N-10325
 
 **Existing Nodes Reused:** N-3

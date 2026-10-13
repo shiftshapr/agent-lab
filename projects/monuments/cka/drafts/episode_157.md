@@ -12,10 +12,10 @@
 - **Model Version**: grok-manual-extract-seq157
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-11350, N-11351, N-11352, N-11353, N-11354
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-435, N-344, N-424, N-16, N-434, N-224, N-10291, N-10313, N-10720, N-10444, N-11073, N-11092, N-11329, N-11330, N-30, N-36, N-37, N-40
+  - New Nodes Introduced: N-10859, N-10860, N-10861, N-10862, N-10863
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-277, N-229, N-272, N-7, N-276, N-162, N-10221, N-10243, N-10645, N-10373, N-10675, N-10694, N-10839, N-10840, N-8, N-10, N-11, N-12
   - (see registers)
-  - Person band: persons minted in this quality pass use N-30+ (see node register). Minted here or reused: Maycee Crofts, Caleb Chilcutt, Tyler Bowyer, Kip Crofts. Baron Coleman spelling corrected, no new person.
+  - Person band: persons minted in this quality pass use N-8+ (see node register). Minted here or reused: Maycee Crofts, Caleb Chilcutt, Tyler Bowyer, Kip Crofts. Baron Coleman spelling corrected, no new person.
 
 # Episode 157 Analysis
 
@@ -52,7 +52,7 @@ Video Timestamp: 00:04:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (document as read on air); Medium (page citations as stated by host)
 
-*Related: C-3584, C-3585, N-11329, N-11350*
+*Related: C-3584, C-3585, N-10839, N-10859*
 
 ---
 
@@ -63,7 +63,7 @@ Video Timestamp: 00:14:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as read); Medium (club-president intent characterization)
 
-*Related: C-3586, N-11351, N-11073, N-10313, N-30*
+*Related: C-3586, N-10860, N-10675, N-10243, N-8*
 
 ---
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:35:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3587, N-10313, N-11351*
+*Related: C-3587, N-10243, N-10860*
 
 ---
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:05:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3584, N-11350, N-424, N-434, N-11092, N-30*
+*Related: C-3584, N-10859, N-272, N-276, N-10694, N-8*
 
 ---
 
@@ -100,7 +100,7 @@ Video Timestamp: 00:45:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium–High (document vs podcast as characterized by host)
 
-*Related: C-3588, C-3589, N-11353, N-424, N-344, N-10720, N-10444*
+*Related: C-3588, C-3589, N-10862, N-272, N-229, N-10645, N-10373*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:28:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (threat content as summarized); High (that SIAC contact is reported)
 
-*Related: C-3590, N-11352, N-435*
+*Related: C-3590, N-10861, N-277*
 
 ---
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:24:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as read)
 
-*Related: C-3591, N-434, N-435, N-11092, N-10343*
+*Related: C-3591, N-276, N-277, N-10694, N-10272*
 
 ---
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:56:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (composite host timeline)
 
-*Related: C-3592, N-11354, N-1, N-11073*
+*Related: C-3592, N-10863, N-1, N-10675*
 
 ---
 
@@ -152,7 +152,7 @@ Video Timestamp: 01:12:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip as aired); Low (any causal link to UVU event–host presents as background context only)
 
-*Related: C-3593, N-11351, N-30*
+*Related: C-3593, N-10860, N-8*
 
 ---
 
@@ -165,7 +165,7 @@ Video Timestamp: 01:22:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (comments as read)
 
-*Related: C-3594, C-3595, N-11352, N-11329*
+*Related: C-3594, C-3595, N-10861, N-10839*
 
 ---
 
@@ -207,7 +207,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-42** Andrew Kolvet
+**N-14** Andrew Kolvet
 
 Named among TPUSA communicators the host challenges on transparency; later referenced regarding an offer to “take TPUSA to the next level” and as possible direction chain above Maycee Crofts.
 
@@ -215,11 +215,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3585, A-2456.1, N-30*
+*Related: C-3585, A-2456.1, N-8*
 
 ---
 
-**N-435** Jeff Long
+**N-277** Jeff Long
 
 UVUPD chief; report describes his pre-event coordination with Dan Flood, SIAC threat contact on September 10, and constraints from TPUSA-controlled ticketing/crowd data and deferred security decisions.
 
@@ -231,7 +231,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-344** Shawn Ryan
+**N-229** Shawn Ryan
 
 Podcast host of the Brian Harpole interview that the independent review and this episode treat as contradictory to review-team findings.
 
@@ -243,7 +243,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-424** Brian Harpole
+**N-272** Brian Harpole
 
 Integrity Solutions executive-protection lead for Charlie Kirk; documented non-response to review outreach; central subject of report contradictions vs Shawn Ryan podcast (venue selection, drones/airspace, rooftop counter-sniper).
 
@@ -251,11 +251,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3584, C-3588, C-3589, A-2452.1, A-2453.1, N-11353*
+*Related: C-3584, C-3588, C-3589, A-2452.1, A-2453.1, N-10862*
 
 ---
 
-**N-16** Frank Turek
+**N-7** Frank Turek
 
 Named in opening roll-call of TPUSA-aligned figures the host summons rhetorically to confront the review findings.
 
@@ -267,7 +267,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-434** Dan Flood
+**N-276** Dan Flood
 
 TPUSA security supervisor present at UVU September 10; non-response to review outreach; report attributes pre-event text/phone coordination with Chief Long and canopy-area focus.
 
@@ -275,11 +275,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3584, C-3591, A-2452.1, A-2455.1, N-11092*
+*Related: C-3584, C-3591, A-2452.1, A-2455.1, N-10694*
 
 ---
 
-**N-224** Blake Neff
+**N-162** Blake Neff
 
 Named among TPUSA communicators challenged on transparency relative to organizational non-participation in the review.
 
@@ -291,7 +291,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-10291** UVU Event Application Anomaly
+**N-10221** UVU Event Application Anomaly
 
 Prior topic on irregular UVU event-application mechanics; reinforced by July 10 HQ-driven request pattern in the independent review.
 
@@ -299,11 +299,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3586, N-11351*
+*Related: C-3586, N-10860*
 
 ---
 
-**N-10313** UVU Outdoor Venue Selection Discrepancy
+**N-10243** UVU Outdoor Venue Selection Discrepancy
 
 Prior topic on outdoor/courtyard venue selection; episode supplies report language that TPUSA insisted on Fountain Courtyard against UVU concerns, contradicting Harpole’s “UVU chose the venue” claim.
 
@@ -315,7 +315,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-10343** Harpole–Flood Text Attribution Discrepancy
+**N-10272** Harpole–Flood Text Attribution Discrepancy
 
 Prior topic on Harpole/Flood messaging; episode revisits Flood–Long operational texts and canopy focus in the report timeline.
 
@@ -327,7 +327,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-10720** UVU Drone Authorization Records
+**N-10645** UVU Drone Authorization Records
 
 Prior topic on drone authorization; episode cites Harpole podcast claims about drones/airspace that the review team finds unsupported or contradicted.
 
@@ -339,7 +339,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-10444** Brian Harpole Fort Huachuca Presence Verification
+**N-10373** Brian Harpole Fort Huachuca Presence Verification
 
 Prior Fort Huachuca / Harpole credibility topic; host ties report contradictions to broader distrust of Harpole’s public narrative including Fort Huachuca.
 
@@ -347,11 +347,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3588, N-11353*
+*Related: C-3588, N-10862*
 
 ---
 
-**N-11073** Turning Point UVU Event Submission Chain
+**N-10675** Turning Point UVU Event Submission Chain
 
 Prior topic on TPUSA UVU submission chain; episode adds independent-review documentation of Crofts-initiated July 10 request and August 25 insistence.
 
@@ -359,11 +359,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3586, C-3587, A-2451.2, N-11351*
+*Related: C-3586, C-3587, A-2451.2, N-10860*
 
 ---
 
-**N-11092** Dan Flood Role and Behavior Assessment
+**N-10694** Dan Flood Role and Behavior Assessment
 
 Prior Dan Flood role topic; reinforced by non-participation finding and pre-event coordination details in the review.
 
@@ -375,7 +375,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-11329** Independent Review of UVU Security Failures
+**N-10839** Independent Review of UVU Security Failures
 
 Directly advanced: the third-party review document is now public and read on air; becomes primary source artifact for prior “review incoming” claims.
 
@@ -383,11 +383,11 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3584, C-3585, A-2451.1, N-11350*
+*Related: C-3584, C-3585, A-2451.1, N-10859*
 
 ---
 
-**N-11330** UVU Ambulance Denial Discrepancy
+**N-10840** UVU Ambulance Denial Discrepancy
 
 Prior ambulance-denial topic; host notes report context that headquarters-directed messaging included declining an ambulance among other security choices.
 
@@ -399,7 +399,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-11350** TPUSA Non-Participation in UVU Independent Review
+**N-10859** TPUSA Non-Participation in UVU Independent Review
 
 New topic: documented refusal/non-response by Harpole, Flood, Crofts, club president, and Phoenix senior staff to Lake Force outreach despite public “want the truth” messaging.
 
@@ -408,11 +408,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3584, C-3585, A-2452.1, N-11329*
+*Related: C-3584, C-3585, A-2452.1, N-10839*
 
 ---
 
-**N-11351** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)
+**N-10860** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)
 
 New topic: independent-review timeline that TPUSA field rep Maycee Crofts directed UVU club president Caleb Chilcutt to request Charlie Kirk in the courtyard on July 10, 2025, inverting normal chapter-request flow; includes August 25 MEAC insistence on Fountain Courtyard.
 
@@ -421,11 +421,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3586, C-3587, A-2451.2, A-2451.3, N-11073, N-10313, N-30*
+*Related: C-3586, C-3587, A-2451.2, A-2451.3, N-10675, N-10243, N-8*
 
 ---
 
-**N-11352** Anonymous EMP Device Threat (SIAC, Sept 10)
+**N-10861** Anonymous EMP Device Threat (SIAC, Sept 10)
 
 New topic: Chief Long’s September 10 SIAC contact regarding anonymous threat referencing an electromagnetic-pulse device at the event; host connects to prior camera-outage questions.
 
@@ -434,11 +434,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3590, A-2454.1, N-435*
+*Related: C-3590, A-2454.1, N-277*
 
 ---
 
-**N-11353** Harpole Shawn Ryan Statements vs Independent Review Findings
+**N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings
 
 New topic: systematic comparison of Harpole’s Shawn Ryan podcast assertions (venue chooser, airspace/drone, counter-sniper legality, planning start) against Lake Force interview evidence and timeline.
 
@@ -447,11 +447,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3588, C-3589, A-2453.1, N-424, N-344, N-10444*
+*Related: C-3588, C-3589, A-2453.1, N-272, N-229, N-10373*
 
 ---
 
-**N-11354** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking
+**N-10863** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking
 
 New topic: host overlay of Charlie’s July–August personal/political pressures (BB/White House, Epstein walk-back, travel, sponsorship addendum, plane movements, Hamptons “intervention”) onto the UVU booking chain beginning July 10.
 
@@ -460,11 +460,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3592, A-2456.1, N-1, N-11073*
+*Related: C-3592, A-2456.1, N-1, N-10675*
 
 ---
 
-**N-30** Maycee Crofts
+**N-8** Maycee Crofts
 
 Node Type: Person
 TPUSA senior field representative. The UVU independent review names her as directing the courtyard and fountain booking.
@@ -473,7 +473,7 @@ TPUSA senior field representative. The UVU independent review names her as direc
 
 ---
 
-**N-36** Caleb Chilcutt
+**N-10** Caleb Chilcutt
 
 Node Type: Person
 UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.
@@ -482,7 +482,7 @@ UVU TPUSA club president named in the independent review as the chapter contact 
 
 ---
 
-**N-37** Tyler Bowyer
+**N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -491,7 +491,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 ---
 
-**N-40** Kip Crofts
+**N-12** Kip Crofts
 
 Node Type: Person
 Relative of Maycee Crofts. Host cites a public criminal-case dismissal news clip while sketching her biography.
@@ -509,9 +509,9 @@ Claim Timestamp: 00:05:20
 Claim: The Lake Force independent review documents that despite repeated outreach (phone, voicemail, certified letter, and Phoenix senior-staff contact), Brian Harpole, Dan Flood, Maycee Crofts, and the UVU TPUSA club president did not participate, while UVU and public agencies did cooperate.
 
 Anchored Artifacts: A-2452.1, A-2451.1
-Mentions: N-30, N-424, N-434
+Mentions: N-8, N-272, N-276
 
-Related Nodes: N-11092, N-11329, N-11350
+Related Nodes: N-10694, N-10839, N-10859
 
 Investigative Direction: Obtain the review’s outreach log appendices; confirm certified-letter receipts; request TPUSA written policy on third-party review cooperation.
 
@@ -524,9 +524,9 @@ Claim Timestamp: 00:04:22
 Claim: Host asserts Erika Kirk / TPUSA public messaging about wanting answers is contradicted by the organization’s documented non-response to the UVU third-party review, while communicators such as Andrew Kovette and Blake Neff continued transparency rhetoric.
 
 Anchored Artifacts: A-2451.1, A-2452.1
-Mentions: N-2, N-42, N-224
+Mentions: N-2, N-14, N-162
 
-Related Nodes: N-11329, N-11350
+Related Nodes: N-10839, N-10859
 
 Investigative Direction: Archive contemporaneous TPUSA / Erika statements on cooperation; compare dates to outreach attempts listed in the review.
 
@@ -539,9 +539,9 @@ Claim Timestamp: 00:14:22
 Claim: The independent-review timeline states that on July 10, 2025, at the request of TPUSA field representative Maycee Crofts, the UVU club/president was told to request Charlie Kirk speak in the courtyard–characterized by the host as a reversal of normal TPUSA chapter event-request practice.
 
 Anchored Artifacts: A-2451.2
-Mentions: N-30, N-1
+Mentions: N-8, N-1
 
-Related Nodes: N-10291, N-11073, N-11351
+Related Nodes: N-10221, N-10675, N-10860
 
 Investigative Direction: Publish/obtain the underlying email quoted in the review; interview or FOIA UVU event-services records for July 10–18 submission chain.
 
@@ -554,9 +554,9 @@ Claim Timestamp: 00:35:31
 Claim: Meeting participants told the review team that at the August 25 major-events meeting Maycee Crofts insisted on Fountain Courtyard because Charlie Kirk had previously spoken in that campus setting, even though UVU staff had raised outdoor-location concerns.
 
 Anchored Artifacts: A-2451.3
-Mentions: N-30, N-1
+Mentions: N-8, N-1
 
-Related Nodes: N-10313, N-11073, N-11351
+Related Nodes: N-10243, N-10675, N-10860
 
 Investigative Direction: Obtain MEAC minutes / Teams recording if retained; list UVU staff who raised concerns and their stated risk bases.
 
@@ -569,9 +569,9 @@ Claim Timestamp: 00:45:34
 Claim: Brian Harpole stated on Shawn Ryan’s podcast that UVU selected the venue and told TPUSA where the event had to be held; the independent review’s interviews indicate UVU expressed concerns about the outdoor location and that TPUSA pushed the courtyard site.
 
 Anchored Artifacts: A-2453.1, A-2451.3
-Mentions: N-344, N-424
+Mentions: N-229, N-272
 
-Related Nodes: N-10313, N-10444, N-11353
+Related Nodes: N-10243, N-10373, N-10862
 
 Investigative Direction: Clip-align the Shawn Ryan episode timestamps to each contested Harpole sentence; cite review interview identifiers where available.
 
@@ -584,9 +584,9 @@ Claim Timestamp: 00:47:38
 Claim: Host, following the review, asserts Harpole’s podcast remarks about Provo airport airspace constraints, UVUPD drone unavailability, and federal-law barriers to rooftop counter-snipers are inconsistent with other evidence and with options available had rooftop overwatch been a genuine priority (e.g., Fugal Gateway building unmanned).
 
 Anchored Artifacts: A-2453.1
-Mentions: N-424
+Mentions: N-272
 
-Related Nodes: N-10720, N-10444, N-11353
+Related Nodes: N-10645, N-10373, N-10862
 
 Investigative Direction: Verify airspace rules for the event footprint; check UVU/UVUPD drone policy logs; map line-of-sight structures including Fugal Gateway.
 
@@ -599,9 +599,9 @@ Claim Timestamp: 00:28:35
 Claim: Per the review as read by the host, Chief Jeff Long contacted Utah SIAC on September 10 regarding an anonymous threat referencing an electromagnetic-pulse device that a suspect might use at the event.
 
 Anchored Artifacts: A-2454.1
-Mentions: N-435
+Mentions: N-277
 
-Related Nodes: N-11352
+Related Nodes: N-10861
 
 Investigative Direction: FOIA/SIAC records for the tip text; correlate tip timing with any documented camera or power anomalies; assess tip credibility per SIAC disposition.
 
@@ -614,9 +614,9 @@ Claim Timestamp: 00:25:32
 Claim: The review timeline as presented states that around T-minus-7 days TPUSA could not or did not provide ticket totals to campus police, and that Chief Long did not initiate mutual-aid requests partly because external resources were not requested in a context where TPUSA controlled registration/wristbands nationally.
 
 Anchored Artifacts: A-2455.1
-Mentions: N-434, N-435
+Mentions: N-276, N-277
 
-Related Nodes: N-11092, N-11329
+Related Nodes: N-10694, N-10839
 
 Investigative Direction: Obtain ticket-platform export timestamps; compare to UVUPD incident action plan drafts; interview mutual-aid partners on whether informal notice occurred.
 
@@ -631,7 +631,7 @@ Claim: Host claims Charlie Kirk’s July 2025 pressures (post–White House/BB c
 Anchored Artifacts: A-2456.1
 Mentions: N-1
 
-Related Nodes: N-11073, N-11351, N-11354
+Related Nodes: N-10675, N-10860, N-10863
 
 Investigative Direction: Build a sourced chronology with primary citations for each July–August bullet; separate established facts from host inference.
 
@@ -644,9 +644,9 @@ Claim Timestamp: 01:12:05
 Claim: Host presents news-clip reporting that the criminal case against former coach Kip Crofts (identified as Maycee Crofts’s uncle) was dismissed, lifting no-contact restrictions; offered as biographical background while discussing who directed the UVU courtyard insistence–not as proof of UVU-event causation.
 
 Anchored Artifacts: A-2457.1
-Mentions: N-30, N-40
+Mentions: N-8, N-12
 
-Related Nodes: N-11351
+Related Nodes: N-10860
 
 Investigative Direction: Verify case caption, docket, dismissal basis, and kinship from primary court records before any graph edge beyond “host-asserted background.”
 
@@ -659,9 +659,9 @@ Claim Timestamp: 00:01:46
 Claim: Host asserts the Kirk family’s statement blaming UVU security was a hasty preemptive strike issued with knowledge the independent review was about to become public (crediting Baron Coleman for first reporting the review’s imminence).
 
 Anchored Artifacts: A-2451.1, A-2458.1
-Mentions: N-2, N-552
+Mentions: N-2, N-337
 
-Related Nodes: N-11329, N-11350
+Related Nodes: N-10839, N-10859
 
 Investigative Direction: Timestamp the family statement vs review publication; identify leak path if any; compare statement claims to review executive summary.
 
@@ -676,7 +676,7 @@ Claim: In responding to a viewer EMP comment, host restates that security camera
 Anchored Artifacts: A-2458.1, A-2454.1
 Mentions: N-1
 
-Related Nodes: N-11352
+Related Nodes: N-10861
 
 Investigative Direction: Re-verify camera-outage windows from prior episodes’ source clips against UVU/third-party video indexes; keep EMP tip as hypothesis until SIAC records reviewed.
 

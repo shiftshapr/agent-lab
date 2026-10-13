@@ -75,7 +75,7 @@
             "C-1230"
           ],
           "related_nodes": [
-            "N-42",
+            "N-14",
             "N-10000"
           ],
           "tags": [],
@@ -101,7 +101,7 @@
             "C-1231"
           ],
           "related_nodes": [
-            "N-128"
+            "N-93"
           ],
           "tags": [],
           "video_timestamp": "00:13:01–00:14:14",
@@ -126,8 +126,8 @@
             "C-1233"
           ],
           "related_nodes": [
-            "N-102",
-            "N-10079"
+            "N-69",
+            "N-10014"
           ],
           "tags": [],
           "video_timestamp": "00:15:24–00:17:31",
@@ -151,9 +151,9 @@
             "C-1233"
           ],
           "related_nodes": [
-            "N-129",
-            "N-10079",
-            "N-10150"
+            "N-94",
+            "N-10014",
+            "N-10084"
           ],
           "tags": [],
           "video_timestamp": "00:17:12–00:17:48",
@@ -177,8 +177,8 @@
             "C-1234"
           ],
           "related_nodes": [
-            "N-10077",
-            "N-10151"
+            "N-10012",
+            "N-10085"
           ],
           "tags": [],
           "video_timestamp": "00:20:46–00:21:00",
@@ -194,8 +194,8 @@
             "C-1234"
           ],
           "related_nodes": [
-            "N-10077",
-            "N-10151"
+            "N-10012",
+            "N-10085"
           ],
           "tags": [],
           "video_timestamp": "00:21:13–00:21:27",
@@ -210,7 +210,7 @@
             "C-1235"
           ],
           "related_nodes": [
-            "N-10077"
+            "N-10012"
           ],
           "tags": [],
           "video_timestamp": "00:23:03–00:23:17",
@@ -233,8 +233,8 @@
             "C-1236"
           ],
           "related_nodes": [
-            "N-91",
-            "N-10148"
+            "N-60",
+            "N-10082"
           ],
           "tags": [],
           "video_timestamp": "00:27:15–00:28:40",
@@ -258,7 +258,7 @@
             "C-1237"
           ],
           "related_nodes": [
-            "N-132",
+            "N-96",
             "N-1"
           ],
           "tags": [],
@@ -315,7 +315,7 @@
             "C-1239"
           ],
           "related_nodes": [
-            "N-61"
+            "N-32"
           ],
           "tags": [],
           "video_timestamp": "00:32:22",
@@ -354,7 +354,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10149"
+            "N-10083"
           ],
           "tags": [],
           "video_timestamp": "00:39:25–00:42:59",
@@ -377,7 +377,7 @@
             "C-1242"
           ],
           "related_nodes": [
-            "N-50"
+            "N-22"
           ],
           "tags": [],
           "video_timestamp": "00:44:13–00:45:37",
@@ -400,7 +400,7 @@
             "C-1243"
           ],
           "related_nodes": [
-            "N-69"
+            "N-40"
           ],
           "tags": [],
           "video_timestamp": "00:54:26–00:54:57",
@@ -415,7 +415,7 @@
             "C-1244"
           ],
           "related_nodes": [
-            "N-16"
+            "N-7"
           ],
           "tags": [],
           "video_timestamp": "00:54:58–00:55:55",
@@ -431,7 +431,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-130"
+            "N-95"
           ],
           "tags": [],
           "video_timestamp": "00:48:31–00:49:57",
@@ -455,7 +455,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-91"
+            "N-60"
           ],
           "tags": [],
           "video_timestamp": "00:27:08",
@@ -539,8 +539,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "FBI Director who issued the official investigation tweet.",
@@ -559,8 +559,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "TPUSA spokesperson who issued miracle/exit-wound statement.",
@@ -579,8 +579,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "Speaker at memorial; commented on Charlie's gospel message.",
@@ -598,8 +598,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-128",
-      "ref": "N-128",
+      "@id": "N-93",
+      "ref": "N-93",
       "name": "Alex Jones",
       "type": "person",
       "description": "Commentator who responded to Kolvet statement on X Live.",
@@ -617,8 +617,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-91",
-      "ref": "N-91",
+      "@id": "N-60",
+      "ref": "N-60",
       "name": "Laura Loomer",
       "type": "person",
       "description": "Commentator who filed CIA complaint about Candace's merch.",
@@ -636,8 +636,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-129",
-      "ref": "N-129",
+      "@id": "N-94",
+      "ref": "N-94",
       "name": "Derek Maxfield",
       "type": "person",
       "description": "Owner of plane allegedly near shooting site; disputed FBI transponder claim.",
@@ -655,8 +655,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Alleged shooter of Charlie Kirk; subject of investigation.",
@@ -674,8 +674,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-71",
-      "ref": "N-71",
+      "@id": "N-42",
+      "ref": "N-42",
       "name": "George Zinn",
       "type": "person",
       "description": "Individual located in crowd whose path host found suspicious.",
@@ -694,8 +694,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-130",
-      "ref": "N-130",
+      "@id": "N-95",
+      "ref": "N-95",
       "name": "Jack Posobiec",
       "type": "person",
       "description": "Commentator and former Navy intelligence officer; defended by host.",
@@ -711,8 +711,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Dr. who spoke at memorial; viewer raised suspicions about him.",
@@ -730,8 +730,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-132",
-      "ref": "N-132",
+      "@id": "N-96",
+      "ref": "N-96",
       "name": "Awesome Jew",
       "type": "person",
       "description": "X account that released Charlie Kirk text messages.",
@@ -750,8 +750,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-61",
-      "ref": "N-61",
+      "@id": "N-32",
+      "ref": "N-32",
       "name": "Dave Rubin",
       "type": "person",
       "description": "Commentator who replied to Candace's genocide tweet.",
@@ -769,8 +769,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
+      "@id": "N-97",
+      "ref": "N-97",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Daily Wire figure referenced re firing Candace.",
@@ -789,8 +789,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-66",
-      "ref": "N-66",
+      "@id": "N-37",
+      "ref": "N-37",
       "name": "Bill Ackman",
       "type": "person",
       "description": "Referenced as part of Hamptons group also with Awesome Jew.",
@@ -809,8 +809,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-134",
-      "ref": "N-134",
+      "@id": "N-98",
+      "ref": "N-98",
       "name": "Bob Shulman",
       "type": "person",
       "description": "Donor alleged to have withdrawn millions from TPUSA.",
@@ -829,8 +829,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-65",
-      "ref": "N-65",
+      "@id": "N-36",
+      "ref": "N-36",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Israeli PM alleged to have offered Charlie Kirk funding.",
@@ -848,8 +848,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10148",
-      "ref": "N-10148",
+      "@id": "N-10082",
+      "ref": "N-10082",
       "name": "CIA",
       "type": "organization",
       "description": "Central Intelligence Agency; subject of merch complaint.",
@@ -888,8 +888,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10077",
-      "ref": "N-10077",
+      "@id": "N-10012",
+      "ref": "N-10012",
       "name": "Utah Valley University",
       "type": "organization",
       "description": "Site of Charlie Kirk shooting; alleged underground tunnel/pipeline owner.",
@@ -911,8 +911,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10149",
-      "ref": "N-10149",
+      "@id": "N-10083",
+      "ref": "N-10083",
       "name": "AIPAC",
       "type": "organization",
       "description": "Pro-Israel lobbying organization discussed at Charlie's town hall.",
@@ -932,8 +932,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10150",
-      "ref": "N-10150",
+      "@id": "N-10084",
+      "ref": "N-10084",
       "name": "FAA",
       "type": "organization",
       "description": "Federal Aviation Administration; consulted re transponder claim.",
@@ -952,8 +952,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10151",
-      "ref": "N-10151",
+      "@id": "N-10085",
+      "ref": "N-10085",
       "name": "Exit Wound / Bullet Trajectory Discrepancy",
       "type": "topic",
       "description": "Mismatch between expected high-velocity bullet behavior and reported no-exit-wound outcome.",
@@ -976,8 +976,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10152",
-      "ref": "N-10152",
+      "@id": "N-10086",
+      "ref": "N-10086",
       "name": "Transponder / Plane Anomaly Investigation",
       "type": "topic",
       "description": "Dispute between FBI (lost signal) and plane owner (ATC-permitted shutdown).",
@@ -997,8 +997,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10153",
-      "ref": "N-10153",
+      "@id": "N-10087",
+      "ref": "N-10087",
       "name": "UVU Underground Tunnel / Pipeline Investigation",
       "type": "topic",
       "description": "Hypothesis that underground access near Charlie's seat could explain no-exit-wound outcome.",
@@ -1019,8 +1019,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10154",
-      "ref": "N-10154",
+      "@id": "N-10088",
+      "ref": "N-10088",
       "name": "Candace Owens FBI/CIA Reporting Incident",
       "type": "topic",
       "description": "Allegation that Candace was reported to FBI and CIA over merch and rhetoric.",
@@ -1039,8 +1039,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10155",
-      "ref": "N-10155",
+      "@id": "N-10089",
+      "ref": "N-10089",
       "name": "Charlie Kirk / Candace Alleged Falling Out",
       "type": "topic",
       "description": "Disputed narrative that Charlie and Candace had a breakup; host denies.",
@@ -1061,8 +1061,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10156",
-      "ref": "N-10156",
+      "@id": "N-10090",
+      "ref": "N-10090",
       "name": "Screwdriver Evidence Question",
       "type": "topic",
       "description": "Viewer claim that screwdriver reportedly found on roof doesn't fit the rifle.",
@@ -1081,8 +1081,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10157",
-      "ref": "N-10157",
+      "@id": "N-10091",
+      "ref": "N-10091",
       "name": "Dr. Frank Turk Suspicion",
       "type": "topic",
       "description": "Viewer-raised suspicion about Dr. Frank Turk's memorial speech and possible guilt.",
@@ -1101,8 +1101,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-95",
-      "ref": "N-95",
+      "@id": "N-64",
+      "ref": "N-64",
       "name": "Brian Mast",
       "type": "person",
       "description": "Subject of a tweet Candace referenced about genocide.",
@@ -1135,7 +1135,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-71"
+        "N-42"
       ]
     },
     {
@@ -1149,14 +1149,14 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10151"
+        "N-10085"
       ],
       "tags": [],
       "claim_timestamp": "00:08:41",
       "investigative_direction": "Obtain the original Kolvet tweet and verify timestamp; seek surgeon identity.",
       "transcript_snippet": "The fact that there wasn't an exit wound is probably another miracle.",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -1169,14 +1169,14 @@
         "A-1135.1"
       ],
       "related_nodes": [
-        "N-10151"
+        "N-10085"
       ],
       "tags": [],
       "claim_timestamp": "00:08:48",
       "investigative_direction": "Identify the surgeon and request confirmation; review any hospital records.",
       "transcript_snippet": "He said the bullet quote absolutely should have gone through.",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -1189,14 +1189,14 @@
         "A-1136.1"
       ],
       "related_nodes": [
-        "N-10151"
+        "N-10085"
       ],
       "tags": [],
       "claim_timestamp": "00:13:01",
       "investigative_direction": "Archive the original X Live broadcast.",
       "transcript_snippet": "They just said he got shot with a 30 odd six and that it didn't go through.",
       "mentions_person_refs": [
-        "N-128"
+        "N-93"
       ]
     },
     {
@@ -1209,14 +1209,14 @@
         "A-1137.1"
       ],
       "related_nodes": [
-        "N-10079"
+        "N-10014"
       ],
       "tags": [],
       "claim_timestamp": "00:15:24",
       "investigative_direction": "Retrieve the original Patel tweet and archive; cross-reference FBI press releases.",
       "transcript_snippet": "The full weight of America's law enforcement agencies are actively following the evidence.",
       "mentions_person_refs": [
-        "N-102",
+        "N-69",
         "N-1"
       ]
     },
@@ -1231,9 +1231,9 @@
         "A-1138.1"
       ],
       "related_nodes": [
-        "N-10079",
-        "N-10150",
-        "N-10152"
+        "N-10014",
+        "N-10084",
+        "N-10086"
       ],
       "tags": [],
       "claim_timestamp": "00:17:35",
@@ -1242,8 +1242,8 @@
       "confidence": "medium",
       "uncertainty_note": "Both sides cited via on-screen/read-aloud artifacts.",
       "mentions_person_refs": [
-        "N-102",
-        "N-129"
+        "N-69",
+        "N-94"
       ]
     },
     {
@@ -1257,8 +1257,8 @@
         "A-1139.2"
       ],
       "related_nodes": [
-        "N-10077",
-        "N-10153"
+        "N-10012",
+        "N-10087"
       ],
       "tags": [],
       "claim_timestamp": "00:20:46",
@@ -1278,7 +1278,7 @@
         "A-1139.3"
       ],
       "related_nodes": [
-        "N-10077"
+        "N-10012"
       ],
       "tags": [],
       "claim_timestamp": "00:23:03",
@@ -1298,8 +1298,8 @@
         "A-1140.1"
       ],
       "related_nodes": [
-        "N-10148",
-        "N-10154"
+        "N-10082",
+        "N-10088"
       ],
       "tags": [],
       "claim_timestamp": "00:27:15",
@@ -1307,7 +1307,7 @@
       "transcript_snippet": "It is a federal felony to use the CIA seal without license.",
       "mentions_person_refs": [
         "N-3",
-        "N-91"
+        "N-60"
       ]
     },
     {
@@ -1321,7 +1321,7 @@
         "A-1141.2"
       ],
       "related_nodes": [
-        "N-10155"
+        "N-10089"
       ],
       "tags": [],
       "claim_timestamp": "00:30:06",
@@ -1330,7 +1330,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-132"
+        "N-96"
       ]
     },
     {
@@ -1344,7 +1344,7 @@
         "A-1141.2"
       ],
       "related_nodes": [
-        "N-10155"
+        "N-10089"
       ],
       "tags": [],
       "claim_timestamp": "00:31:08",
@@ -1353,7 +1353,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-95"
+        "N-64"
       ]
     },
     {
@@ -1373,7 +1373,7 @@
       "transcript_snippet": "I was being inundated. Charlie was being inundated.",
       "mentions_person_refs": [
         "N-3",
-        "N-61"
+        "N-32"
       ]
     },
     {
@@ -1386,14 +1386,14 @@
         "A-1143.1"
       ],
       "related_nodes": [
-        "N-10149"
+        "N-10083"
       ],
       "tags": [],
       "claim_timestamp": "00:37:37",
       "investigative_direction": "Verify the full town hall recording.",
       "transcript_snippet": "If you call everyone an anti-semite if they don't take a puritanical view of the Netanyahu government...",
       "mentions_person_refs": [
-        "N-65",
+        "N-36",
         "N-1"
       ]
     },
@@ -1407,7 +1407,7 @@
         "A-1143.2"
       ],
       "related_nodes": [
-        "N-10149"
+        "N-10083"
       ],
       "tags": [],
       "claim_timestamp": "00:39:25",
@@ -1433,7 +1433,7 @@
       "transcript_snippet": "Christianity calls upon you to change. Our core prayer...forgive us our sins.",
       "mentions_person_refs": [
         "N-1",
-        "N-50"
+        "N-22"
       ]
     },
     {
@@ -1446,7 +1446,7 @@
         "A-1145.1"
       ],
       "related_nodes": [
-        "N-10156"
+        "N-10090"
       ],
       "tags": [],
       "claim_timestamp": "00:54:31",
@@ -1463,7 +1463,7 @@
         "A-1145.2"
       ],
       "related_nodes": [
-        "N-10157"
+        "N-10091"
       ],
       "tags": [],
       "claim_timestamp": "00:54:58",
@@ -1471,7 +1471,7 @@
       "transcript_snippet": "Something about Dr. Frank Turk isn't sitting right with me.",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-16"
+        "N-7"
       ]
     },
     {
@@ -1491,7 +1491,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3",
-        "N-91",
+        "N-60",
         "N-1"
       ]
     },
@@ -1528,7 +1528,7 @@
       "transcript_snippet": "I can tell you that I know Jack Bobic. He has always been very solid with with me.",
       "mentions_person_refs": [
         "N-3",
-        "N-130"
+        "N-95"
       ]
     }
   ],

@@ -30,7 +30,7 @@
             "C-1831"
           ],
           "related_nodes": [
-            "N-479"
+            "N-309"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -100,8 +100,8 @@
             "C-1834"
           ],
           "related_nodes": [
-            "N-11388",
-            "N-10381"
+            "N-10897",
+            "N-10310"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -201,8 +201,8 @@
             "C-1835"
           ],
           "related_nodes": [
-            "N-484",
-            "N-11388"
+            "N-313",
+            "N-10897"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -220,7 +220,7 @@
             "C-1834"
           ],
           "related_nodes": [
-            "N-11388"
+            "N-10897"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -235,8 +235,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-479",
-      "ref": "N-479",
+      "@id": "N-309",
+      "ref": "N-309",
       "name": "Cam Higby",
       "type": "person",
       "description": "Pentagon correspondent whose question to the Pentagon press secretary regarding a \"French military plot to assassinate Candace Owens\" is presented in the episode. Host asserts he has been on TPUSA payroll since August 2025.",
@@ -254,8 +254,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-483",
-      "ref": "N-483",
+      "@id": "N-312",
+      "ref": "N-312",
       "name": "Wed Mahmoud",
       "type": "person",
       "description": "Person using this name on board the \"yellow plane\" SU-BND on September 10, 2025 (one of four passengers). Host asserts same individual flew on SU-BTU (\"purple plane\") into Provo on May 27, 2025. Identity verification target.",
@@ -267,14 +267,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10380",
-        "N-10381"
+        "N-10309",
+        "N-10310"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-484",
-      "ref": "N-484",
+      "@id": "N-313",
+      "ref": "N-313",
       "name": "Sara Zaafarani",
       "type": "person",
       "description": "Tunisian Prime Minister. Photographed with President El-Sisi in Egypt on September 10, 2025, per host assertion; used as alibi for El-Sisi.",
@@ -290,13 +290,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11388"
+        "N-10897"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "TPUSA affiliate whose testimonial clip is played, asserting that Charlie Kirk told him Blake Neff was \"the smartest man I know.\"",
@@ -317,8 +317,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10380",
-      "ref": "N-10380",
+      "@id": "N-10309",
+      "ref": "N-10309",
       "name": "Wedi Machmood Identity Verification Question",
       "type": "investigation_target",
       "description": "Persistent unresolved target: who is the person using the name \"Wedi Machmood\" – possibly a pilot, possibly a person well acquainted with President El-Sisi given use of a presidential Egyptian military aircraft.",
@@ -330,14 +330,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-483",
-        "N-10381"
+        "N-312",
+        "N-10310"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10381",
-      "ref": "N-10381",
+      "@id": "N-10310",
+      "ref": "N-10310",
       "name": "SU-BTU May 27 – June 2, 2025 Provo Visit with Wedi Machmood Aboard",
       "type": "investigation_target",
       "description": "Egyptian military aircraft SU-BTU allegedly flew into Provo on May 27, 2025 with Wedi Machmood aboard, and departed June 2, 2025 without transponder data. Distinct from the September 10 yellow plane (SU-BND) incident.",
@@ -349,8 +349,8 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-483",
-        "N-10380"
+        "N-312",
+        "N-10309"
       ]
     },
     {
@@ -371,8 +371,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11388",
-      "ref": "N-11388",
+      "@id": "N-10897",
+      "ref": "N-10897",
       "name": "Project Constitution",
       "type": "organization",
       "description": "X account whose tweet (read in full on air) is cited as the source for the Egyptian-presidency confirmation that El-Sisi flew SU-BTU on April 3, 2023.",
@@ -408,8 +408,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
+      "@id": "N-97",
+      "ref": "N-97",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
@@ -424,8 +424,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
@@ -440,8 +440,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-426",
-      "ref": "N-426",
+      "@id": "N-273",
+      "ref": "N-273",
       "name": "Tim Pool",
       "type": "person",
       "description": "Made two contradictory statements about Candace's security within one week.",
@@ -486,7 +486,7 @@
       "claim_timestamp": "00:02:11",
       "investigative_direction": "Verify the original Pentagon press briefing transcript and date; confirm Higby's professional affiliations at the time.",
       "mentions_person_refs": [
-        "N-479",
+        "N-309",
         "N-3"
       ]
     },
@@ -505,7 +505,7 @@
       "investigative_direction": "Confirm original tweet via X/Twitter archive; verify timestamp and wording.",
       "mentions_person_refs": [
         "N-1",
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -524,7 +524,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -538,14 +538,14 @@
         "A-1500.2"
       ],
       "related_nodes": [
-        "N-10381",
-        "N-11388"
+        "N-10310",
+        "N-10897"
       ],
       "tags": [],
       "claim_timestamp": "00:15:32",
       "investigative_direction": "Verify directly against the Egyptian presidency website; reconcile Project Constitution's reference to \"SU-BTU\" with host's reference to \"BTT\" / \"SUB-TU.\"",
       "mentions_person_refs": [
-        "N-11388"
+        "N-10897"
       ]
     },
     {
@@ -556,13 +556,13 @@
       "claim": "President El-Sisi was photographed at a meeting with Tunisian Prime Minister Sara Zaafarani in Egypt on September 10, 2025, which the host cites as ruling out El-Sisi as the mystery passenger on the yellow plane that day.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11388"
+        "N-10897"
       ],
       "tags": [],
       "claim_timestamp": "00:17:13",
       "investigative_direction": "Locate the original photograph; verify date, location, and participants.",
       "mentions_person_refs": [
-        "N-484"
+        "N-313"
       ]
     },
     {
@@ -579,7 +579,7 @@
       "claim_timestamp": "00:25:13",
       "investigative_direction": "Verify clip against original Gutfeld show broadcast; confirm exact wording.",
       "mentions_person_refs": [
-        "N-133"
+        "N-97"
       ]
     },
     {
@@ -597,8 +597,8 @@
       "investigative_direction": "Verify clip against original broadcast; cross-check against other contemporaneous accounts.",
       "mentions_person_refs": [
         "N-1",
-        "N-16",
-        "N-224"
+        "N-7",
+        "N-162"
       ]
     },
     {
@@ -616,7 +616,7 @@
       "investigative_direction": "Verify clip against original Tim Pool broadcast; capture full context.",
       "mentions_person_refs": [
         "N-3",
-        "N-426"
+        "N-273"
       ]
     },
     {
@@ -635,7 +635,7 @@
       "transcript_snippet": "Okay, I maintain that turning point is engaged in a cover up.",
       "mentions_person_refs": [
         "N-3",
-        "N-224"
+        "N-162"
       ]
     }
   ],

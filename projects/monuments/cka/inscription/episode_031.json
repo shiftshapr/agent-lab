@@ -57,7 +57,7 @@
             "C-1683"
           ],
           "related_nodes": [
-            "N-16"
+            "N-7"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -83,8 +83,8 @@
             "C-1685"
           ],
           "related_nodes": [
-            "N-389",
-            "N-10317"
+            "N-254",
+            "N-10247"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -110,7 +110,7 @@
             "C-1684"
           ],
           "related_nodes": [
-            "N-389"
+            "N-254"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -138,8 +138,8 @@
             "C-1689"
           ],
           "related_nodes": [
-            "N-389",
-            "N-10317"
+            "N-254",
+            "N-10247"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -157,7 +157,7 @@
             "C-1688"
           ],
           "related_nodes": [
-            "N-389"
+            "N-254"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -207,7 +207,7 @@
             "C-1691"
           ],
           "related_nodes": [
-            "N-314"
+            "N-216"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -231,7 +231,7 @@
           "description": "Top Comment #1 (Yesterday): \"Terra Observer\" – Question on Jewish Donor Funding of Christian Organizations; Names \"Bob Showman\"",
           "related_claims": [],
           "related_nodes": [
-            "N-10316"
+            "N-10246"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -433,7 +433,7 @@
             "C-1691"
           ],
           "related_nodes": [
-            "N-10317"
+            "N-10247"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -462,8 +462,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Pastor described by host as the friend wearing the white hat beside Charlie Kirk at the assassination. Appears on CBN News interview (A-1391.1) criticizing host's evidentiary approach and referencing Detective Jay Warner Wallace.",
@@ -485,8 +485,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-389",
-      "ref": "N-389",
+      "@id": "N-254",
+      "ref": "N-254",
       "name": "Thomas Michael Camino",
       "type": "person",
       "description": "California sex offender convicted in 1995 of child molestation and sentenced to 8 years; subsequently befriended by Rob McCoy and placed in Calvary Chapel home-fellowship program with access to children.",
@@ -509,13 +509,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10317"
+        "N-10247"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-314",
-      "ref": "N-314",
+      "@id": "N-216",
+      "ref": "N-216",
       "name": "Alexis Wilkins",
       "type": "person",
       "description": "Country-music artist referenced as Kash Patel's girlfriend and as a member of Calvary Chapel Church in Chino Hills, California. Subject of Tim Dillon comedy segment.",
@@ -531,13 +531,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10317"
+        "N-10247"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10316",
-      "ref": "N-10316",
+      "@id": "N-10246",
+      "ref": "N-10246",
       "name": "Calvary Chapel Institutional Abuse Pattern",
       "type": "investigation_target",
       "description": "Persistent investigative target concerning multiple Calvary Chapel-affiliated abuse scandals referenced in this episode: Calvary Chapel Florida (Rob Koy), Woodlands (2024 arrest), Carrie (lead pastor resignation), Mission Viejo, Solid Rock (Jason James Taylor), North County Chapel Post Falls (Anthony Eglacius, Robert Davis), Virginia (Doug Deandria), Fort Lauderdale (2019), North Thirsten Oregon (Jeffrey Keon Ziz).",
@@ -552,14 +552,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-389",
-        "N-314"
+        "N-254",
+        "N-216"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10317",
-      "ref": "N-10317",
+      "@id": "N-10247",
+      "ref": "N-10247",
       "name": "Potter's Fields Ministries Financial Fraud Allegations",
       "type": "investigation_target",
       "description": "2019 Whitefish, Montana ministry scandal involving allegations of overstated child counts, photoshopped letters, and redirection of funds to Rob McCoy's church via CFO arrangement.",
@@ -571,7 +571,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-389"
+        "N-254"
       ]
     },
     {
@@ -592,8 +592,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-98",
-      "ref": "N-98",
+      "@id": "N-67",
+      "ref": "N-67",
       "name": "Mark Herman (director, Candace show)",
       "type": "person",
       "description": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here, answering a viewer comment about security guards handing something off, the host says she and Mark reviewed the footage slowly and from different angles. No claim anchor; registered for cross-episode continuity.",
@@ -623,8 +623,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-45",
-      "ref": "N-45",
+      "@id": "N-17",
+      "ref": "N-17",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Pastor associated with Dream City Church and Turning Point USA's faith-direction pivot during COVID; named by host in the TPUSA-faith origin recap.",
@@ -639,8 +639,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
@@ -655,8 +655,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
@@ -686,7 +686,7 @@
       "investigative_direction": "Obtain full CBN News clip and verify exact wording; cross-reference Turk's stated absence of episode-watching against specific claims in the Bride of Charlie series.",
       "mentions_person_refs": [
         "N-1",
-        "N-16",
+        "N-7",
         "N-3"
       ]
     },
@@ -704,7 +704,7 @@
       "claim_timestamp": "00:02:06",
       "investigative_direction": "Locate and verify Frank Turk's podcast and the Wallace episode; cross-reference Wallace's stated expertise against any public statements on the Kirk case.",
       "mentions_person_refs": [
-        "N-16"
+        "N-7"
       ]
     },
     {
@@ -721,7 +721,7 @@
       "claim_timestamp": "00:09:22",
       "investigative_direction": "Retrieve original LA Times 1995 article and California court records for People v. Camino to confirm conviction counts, sentence, and dates; cross-check against prior 1990 Manhattan Beach probation.",
       "mentions_person_refs": [
-        "N-389"
+        "N-254"
       ]
     },
     {
@@ -734,13 +734,13 @@
         "A-1392.1"
       ],
       "related_nodes": [
-        "N-10317"
+        "N-10247"
       ],
       "tags": [],
       "claim_timestamp": "00:06:39",
       "investigative_direction": "Verify sender identity, confirm testimony record in People v. Camino, and authenticate email provenance.",
       "mentions_person_refs": [
-        "N-389"
+        "N-254"
       ]
     },
     {
@@ -757,8 +757,8 @@
       "claim_timestamp": "00:12:54",
       "investigative_direction": "Obtain full unedited Bryce Eddie Show episode; verify Skyline identification and dates; identify all co-attended Calvary Chapel events.",
       "mentions_person_refs": [
-        "N-389",
-        "N-45"
+        "N-254",
+        "N-17"
       ]
     },
     {
@@ -771,14 +771,14 @@
         "A-1394.1"
       ],
       "related_nodes": [
-        "N-10316"
+        "N-10246"
       ],
       "tags": [],
       "claim_timestamp": "00:12:54",
       "investigative_direction": "Obtain 2022 Calvary Chapel statements and any internal records; identify families enrolled in home fellowship at the relevant time; review mothers' 2022 public complaints.",
       "mentions_person_refs": [
-        "N-389",
-        "N-45"
+        "N-254",
+        "N-17"
       ]
     },
     {
@@ -795,7 +795,7 @@
       "claim_timestamp": "00:13:55",
       "investigative_direction": "Cross-check appellate court findings against Camino's narrative; verify the appeal court ruling referenced in his account; identify the public defender named.",
       "mentions_person_refs": [
-        "N-389"
+        "N-254"
       ]
     },
     {
@@ -808,14 +808,14 @@
         "A-1394.1"
       ],
       "related_nodes": [
-        "N-10316"
+        "N-10246"
       ],
       "tags": [],
       "claim_timestamp": "00:12:54",
       "investigative_direction": "Locate original 2022 mothers' posts or complaints; verify whether McCoy's framing preceded or followed formal disclosure.",
       "mentions_person_refs": [
-        "N-389",
-        "N-45"
+        "N-254",
+        "N-17"
       ]
     },
     {
@@ -833,7 +833,7 @@
       "investigative_direction": "Identify the original interview (outlet, date, reporter); verify full exchange including any off-clip context.",
       "mentions_person_refs": [
         "N-1",
-        "N-50",
+        "N-22",
         "N-3"
       ]
     },
@@ -847,14 +847,14 @@
         "A-1396.1"
       ],
       "related_nodes": [
-        "N-10317"
+        "N-10247"
       ],
       "tags": [],
       "claim_timestamp": "00:46:40",
       "investigative_direction": "Identify Tim Dillon's show and episode date; verify Wilkins's Calvary Chapel Chino Hills membership via official church roster.",
       "mentions_person_refs": [
-        "N-314",
-        "N-102"
+        "N-216",
+        "N-69"
       ]
     },
     {
@@ -902,7 +902,7 @@
         "A-1398.11"
       ],
       "related_nodes": [
-        "N-10316"
+        "N-10246"
       ],
       "tags": [],
       "claim_timestamp": "00:58:13",

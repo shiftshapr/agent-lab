@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 21794f482ad4d6a70ad0484cc9044ad04925a9d1fd1605568d190338e4b42df7
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-11216, N-11217, N-11218
+  - New Nodes Introduced: N-10817, N-10818, N-10819
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -19,7 +19,7 @@
 
 Artifact Families Introduced: A-2320, A-2321, A-2322, A-2323, A-2324, A-2325, A-2326
 Claim Range: C-3345–C-3354
-New Nodes Introduced: N-11216, N-11217, N-11218
+New Nodes Introduced: N-10817, N-10818, N-10819
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -98,7 +98,7 @@ Video Timestamp: 00:15:14–00:17:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3349, C-3350, C-3351, N-11217*
+*Related: C-3349, C-3350, C-3351, N-10818*
 
 ---
 
@@ -127,7 +127,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Extraction Timestamp: 2026-09-01 (broadcast)
 Confidence Level: High
 
-*Related: C-3348, N-11216*
+*Related: C-3348, N-10817*
 
 **A-2324.2** Butch Hibbs still on phone approximately five minutes after the shooting
 
@@ -137,7 +137,7 @@ Video Timestamp: 00:24:18–00:25:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3353, N-11216*
+*Related: C-3353, N-10817*
 
 **A-2324.3** Butch Hibbs standing behind persons speaking to news crews about what they witnessed
 
@@ -147,7 +147,7 @@ Video Timestamp: 00:26:29–00:27:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-11216*
+*Related: N-10817*
 
 ---
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:25:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-11218*
+*Related: N-10819*
 
 ---
 
@@ -223,7 +223,7 @@ Confidence Level: High
 
 ### People
 
-**N-11216** Butch Hibbs UVU Recording Behavior
+**N-10817** Butch Hibbs UVU Recording Behavior
 
 Persistent investigation into why a 74-year-old attendee recorded footage from multiple angles immediately after the shooting rather than rendering aid, fleeing, or calling emergency services; whether the footage was transmitted to Jack Hibbs or others; and the identity/content of the ~5-minute post-shooting phone call.
 
@@ -234,7 +234,7 @@ Investigative Pressure: High
 
 *Related: A-2324.1, A-2324.2, A-2324.3, C-3348, C-3353*
 
-**N-11217** Jack Hibbs Sequence-of-Events Discrepancy
+**N-10818** Jack Hibbs Sequence-of-Events Discrepancy
 
 Persistent discrepancy in Jack Hibbs's accounts: (a) who called him first (Mikey McCoy vs. Frank Churik), (b) "cousin Charlie" misidentification in the immediate post-shooting call, (c) 12:30 PM prayer-chain timestamp reportedly only ~7 minutes after the shooting.
 
@@ -245,7 +245,7 @@ Investigative Pressure: High
 
 *Related: A-2322.2, C-3349, C-3350, C-3351*
 
-**N-11218** Unidentified UVU Attendee (Pink Hat / Blue Shirt)
+**N-10819** Unidentified UVU Attendee (Pink Hat / Blue Shirt)
 
 Unidentified individual visible in UVU 9/10 photographs wearing a pink hat and blue shirt, holding what appears to be a drink; host has requested audience help identifying and contacting this person.
 
@@ -267,7 +267,7 @@ Claim Timestamp: 00:13:30
 Claim: In a Fox News audio interview, Jack Hibbs stated that his brother Butch received a front-row seat to the UVU event directly from Charlie Kirk.
 
 Anchored Artifacts: A-2323.1, A-2322.1
-Mentions: N-1, N-382, N-309
+Mentions: N-1, N-251, N-212
 
 Related Nodes:
 
@@ -282,7 +282,7 @@ Claim Timestamp: 00:08:45
 Claim: In a Facebook video, Jack Hibbs stated he first learned Charlie Kirk had died "shortly after Charlie was shot from Israeli news service," without explaining how that service obtained pre-announcement information.
 
 Anchored Artifacts: A-2321.1
-Mentions: N-1, N-309
+Mentions: N-1, N-212
 
 Related Nodes:
 
@@ -297,7 +297,7 @@ Claim Timestamp: 00:09:43
 Claim: In an interview with Frank Churik, Jack Hibbs described receiving a call from his brother Butch the night before the UVU event, asking to attend and be introduced to Charlie Kirk.
 
 Anchored Artifacts: A-2322.1
-Mentions: N-1, N-309
+Mentions: N-1, N-212
 
 Related Nodes:
 
@@ -312,9 +312,9 @@ Claim Timestamp: 00:22:23
 Claim: Never-before-seen footage shows Butch Hibbs dipping down to open his camera app and recording multiple angles of the scene within seconds of the shot being fired, while remaining in place near the tent.
 
 Anchored Artifacts: A-2324.1
-Mentions: N-382
+Mentions: N-251
 
-Related Nodes: N-11216
+Related Nodes: N-10817
 
 Investigative Direction: Obtain original device with full metadata; determine total duration and any transmissions; compare timestamps to corroborate against other event footage.
 
@@ -327,7 +327,7 @@ Claim Timestamp: 00:15:14
 Claim: In a second interview clip with Frank Churik, Jack Hibbs stated he first received a call from Mikey McCoy, who said "get everyone in the world praying," before the FaceTime with Churik began.
 
 Anchored Artifacts: A-2322.2
-Mentions: N-272, N-309
+Mentions: N-194, N-212
 
 Related Nodes:
 
@@ -342,9 +342,9 @@ Claim Timestamp: 00:16:13
 Claim: During the FaceTime with Frank Churik, Jack Hibbs described briefly believing his brother was reporting that a cousin named Charlie – not Charlie Kirk – had been shot.
 
 Anchored Artifacts: A-2322.2
-Mentions: N-1, N-309
+Mentions: N-1, N-212
 
-Related Nodes: N-11217
+Related Nodes: N-10818
 
 Investigative Direction: Verify the existence of a Jack Hibbs relative commonly known as "Charlie"; assess whether the confusion is plausible given family context and call conditions.
 
@@ -357,9 +357,9 @@ Claim Timestamp: 00:18:43
 Claim: Per Jack Hibbs's account, a prayer chain was underway at approximately 12:30 PM Utah time, which the host calculates as only about seven minutes after Charlie Kirk was shot.
 
 Anchored Artifacts: A-2322.2
-Mentions: N-1, N-309
+Mentions: N-1, N-212
 
-Related Nodes: N-11217
+Related Nodes: N-10818
 
 Investigative Direction: Establish the precise timestamp of the shooting from primary sources; corroborate hospital transport timeline; assess feasibility of FaceTime hospital contact within the stated window.
 
@@ -372,9 +372,9 @@ Claim Timestamp: 00:24:18
 Claim: A still from UVU footage shows Butch Hibbs on what appears to be a phone call approximately five minutes after the shot, without visible signs of distress.
 
 Anchored Artifacts: A-2324.2
-Mentions: N-382
+Mentions: N-251
 
-Related Nodes: N-11216
+Related Nodes: N-10817
 
 Investigative Direction: Attempt to identify call recipient via phone records; cross-reference with Jack Hibbs's stated call timeline (cousin-Charlie call).
 
@@ -387,7 +387,7 @@ Claim Timestamp: 00:09:43
 Claim: Jack Hibbs in interview identifies his brother Butch as 74 years old; UVU event photography shows him wearing a plaid shirt in the security detail area.
 
 Anchored Artifacts: A-2322.1, A-2325.1
-Mentions: N-382, N-309
+Mentions: N-251, N-212
 
 Related Nodes:
 
@@ -402,7 +402,7 @@ Claim Timestamp: 00:31:24
 Claim: The episode identifies Judge Graph as the magistrate expected to rule on the defense motion to dismiss charges 1, 6, and 7 in the Tyler Robinson case on September 1, 2026.
 
 Anchored Artifacts: A-2326.1–A-2326.4 (courtroom context)
-Mentions: N-69
+Mentions: N-40
 
 Related Nodes:
 
@@ -417,9 +417,9 @@ Claim Timestamp: 00:09:43
 Claim: Jack Hibbs's account suggests multiple Calvary Chapel-affiliated individuals (Mikey McCoy, Frank Churik via FaceTime, Butch Hibbs via phone) were in communication within minutes of the shooting, consistent with a coordinated prayer-chain response beginning around 12:30 PM.
 
 Anchored Artifacts: A-2322.1, A-2322.2, A-2323.1, A-2324.2
-Mentions: N-272, N-382, N-309
+Mentions: N-194, N-251, N-212
 
-Related Nodes: N-11217
+Related Nodes: N-10818
 
 Investigative Direction: Compare timestamps across all Calvary Chapel-linked calls and messages to determine whether communication pattern reflects coordinated response or independent contact.
 
@@ -432,7 +432,7 @@ Claim Timestamp: 00:02:52
 Claim: Courthouse footage captured Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kovat, and Pastor James Cadis arriving at the courthouse for Judge Graph's decision; Erika Kirk was present but not captured on camera.
 
 Anchored Artifacts: A-2326.1, A-2326.2, A-2326.3, A-2326.4
-Mentions: N-1, N-2, N-264, N-42, N-890
+Mentions: N-1, N-2, N-190, N-14, N-557
 
 Related Nodes:
 

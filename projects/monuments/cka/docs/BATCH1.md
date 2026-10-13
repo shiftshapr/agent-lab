@@ -30,7 +30,7 @@ YouTube ids match `input/episode_manifest.json` and BoC transcript filenames. No
 | `inscription/episode_001–010.json` | Regenerated from CKA drafts via BoC `build_inscription_from_drafts.py` (meta patched for CKA) |
 | `inscription/episode_*_transcript*.txt` | Copied from BoC inscription twins (renamed to CKA seq) |
 | `canonical/nodes.json` | Filtered from BoC canonical for active register nodes; episode lists remapped to CKA seq |
-| `config/retired_node_ids.json` | Copied from BoC (same tombstone ledger) |
+| `config/retired_node_ids.json` | Copied from BoC at Batch 1; removed 2026-10-13 (no tombstones, Daveed) |
 | `config/batch1_remap_from_boc.json` | Remap index + `remapped_from_boc` membership tag |
 | `input/youtube_links.txt` | Filled for seq 1–10 URLs |
 
