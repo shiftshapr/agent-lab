@@ -61,10 +61,10 @@
           "related_nodes": [
             "N-286",
             "N-163",
-            "N-640",
-            "N-636",
+            "N-639",
             "N-635",
-            "N-641",
+            "N-634",
+            "N-640",
             "N-10931"
           ],
           "tags": [],
@@ -184,8 +184,8 @@
             "C-4139"
           ],
           "related_nodes": [
+            "N-641",
             "N-642",
-            "N-643",
             "N-10933",
             "N-10125"
           ],
@@ -212,7 +212,7 @@
             "C-4141"
           ],
           "related_nodes": [
-            "N-642",
+            "N-641",
             "N-22",
             "N-10933"
           ],
@@ -347,7 +347,7 @@
           ],
           "related_nodes": [
             "N-5",
-            "N-644",
+            "N-643",
             "N-10935"
           ],
           "tags": [],
@@ -698,8 +698,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-639",
-      "ref": "N-639",
+      "@id": "N-638",
+      "ref": "N-638",
       "name": "Vladimir Putin",
       "type": "person",
       "description": "First named by the host at 00:05:04 in episode 105. Cited as a long-serving leader who has not faced comparable shooting attempts.",
@@ -715,8 +715,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-640",
-      "ref": "N-640",
+      "@id": "N-639",
+      "ref": "N-639",
       "name": "Richard Smaly",
       "type": "person",
       "description": "First named by the host at 00:10:20 in episode 105. Described as a communications officer and information assurance engineer at the White House Communications Agency who received the email.",
@@ -734,8 +734,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-636",
-      "ref": "N-636",
+      "@id": "N-635",
+      "ref": "N-635",
       "name": "Gustav Anderly",
       "type": "person",
       "description": "First named by the host at 00:10:20 in episode 105. Described as an information systems manager at the White House Communications Agency who received the email.",
@@ -753,8 +753,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-635",
-      "ref": "N-635",
+      "@id": "N-634",
+      "ref": "N-634",
       "name": "Ryan Rippeon",
       "type": "person",
       "description": "First named by the host at 00:10:20 in episode 105. Described as commander of naval communications and a recipient of the email.",
@@ -772,8 +772,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-641",
-      "ref": "N-641",
+      "@id": "N-640",
+      "ref": "N-640",
       "name": "Michaela Mott",
       "type": "person",
       "description": "First named by the host at 00:11:19 in episode 105. Described as Navy and a recipient of the email.",
@@ -791,8 +791,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-642",
-      "ref": "N-642",
+      "@id": "N-641",
+      "ref": "N-641",
       "name": "Kevin O'Leary",
       "type": "person",
       "description": "First named by the host at 00:18:48 in episode 105. Shark Tank venture capitalist backing the Stratos data center; interviewed by Tucker Carlson. Aliases: Kevin Olirri; Olyri; Kevin Liry.",
@@ -813,8 +813,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-643",
-      "ref": "N-643",
+      "@id": "N-642",
+      "ref": "N-642",
       "name": "Lee Perry",
       "type": "person",
       "description": "First named by the host at 00:18:48 in episode 105. Box Elder County commissioner quoted in the Guardian article on the backlash.",
@@ -854,8 +854,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-644",
-      "ref": "N-644",
+      "@id": "N-643",
+      "ref": "N-643",
       "name": "John Mark Burns",
       "type": "person",
       "description": "First named by the host at 00:42:00 in episode 105. Evangelical pastor defending the golden Trump statue.",
@@ -873,8 +873,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-645",
-      "ref": "N-645",
+      "@id": "N-644",
+      "ref": "N-644",
       "name": "Matthew Shupe",
       "type": "person",
       "description": "First named by the host at 00:47:33 in episode 105. Described as a PR agent for Harmeet Dhillon and Dhillon Law Group; the host asks whether he filmed the Erika Kirk WHCD clip.",
@@ -1284,8 +1284,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-640",
-        "N-636"
+        "N-639",
+        "N-635"
       ]
     },
     {
@@ -1332,8 +1332,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-642",
-        "N-643"
+        "N-641",
+        "N-642"
       ]
     },
     {
@@ -1385,7 +1385,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-5",
-        "N-644"
+        "N-643"
       ]
     }
   ],
@@ -1443,7 +1443,7 @@
       "investigative_direction": "Check Putin's years in office and the public record of assassination attempts against him.",
       "transcript_snippet": "Like Vladimir Putin, as just one example, he has been the president of Russia for 22 years.",
       "mentions_person_refs": [
-        "N-639",
+        "N-638",
         "N-5"
       ]
     },
@@ -1753,7 +1753,7 @@
       "transcript_snippet": "We covered some of this yesterday with Steven Chong who is the White House communications director. Richard Smaly who is the communications officer",
       "mentions_person_refs": [
         "N-163",
-        "N-640"
+        "N-639"
       ]
     },
     {
@@ -1774,8 +1774,8 @@
       "investigative_direction": "Verify these names and roles in DoD and Navy personnel listings.",
       "transcript_snippet": "Uh Gustav Anderly, also military position, information systems manager at the White House Communications Agency. And Ryan Ripian, Ryan Ripian is the commander of naval communications.",
       "mentions_person_refs": [
-        "N-636",
-        "N-635"
+        "N-635",
+        "N-634"
       ]
     },
     {
@@ -1795,7 +1795,7 @@
       "investigative_direction": "Verify the name and Navy role, and the distribution list of the original email.",
       "transcript_snippet": "They also have someone named Michaela Mott who was on this email also Navy.",
       "mentions_person_refs": [
-        "N-641"
+        "N-640"
       ]
     },
     {
@@ -2000,7 +2000,7 @@
       "investigative_direction": "Identify the Stratos project's investors and corporate filings.",
       "transcript_snippet": "the proposed project is backed by Kevin Olirri, the venture capitalist who appeared on the TV show Shark Tank.",
       "mentions_person_refs": [
-        "N-642"
+        "N-641"
       ]
     },
     {
@@ -2020,7 +2020,7 @@
       "investigative_direction": "Locate Perry's original statement and any police reports of threats.",
       "transcript_snippet": "Lee Perry, who was the box elder county commissioner, said left him feeling physically sick amidst alleged death threats and false accusations.",
       "mentions_person_refs": [
-        "N-643"
+        "N-642"
       ]
     },
     {
@@ -2040,7 +2040,7 @@
       "investigative_direction": "Archive O'Leary's posts and compare with the residency of people who lodged objections.",
       "transcript_snippet": "Olyri has claimed in social media posts that most of the protesters don't live locally and have been paid to object to the project.",
       "mentions_person_refs": [
-        "N-642"
+        "N-641"
       ]
     },
     {
@@ -2073,7 +2073,7 @@
       "investigative_direction": "Archive the full Tucker Carlson interview.",
       "transcript_snippet": "facial recognition technology has finally got to the resolution using AI's tools where it's going to run through your data center",
       "mentions_person_refs": [
-        "N-642",
+        "N-641",
         "N-22"
       ]
     },
@@ -2439,7 +2439,7 @@
       "investigative_direction": "Archive Burns's public statements on the statue.",
       "transcript_snippet": "the pastor John Mark Burns, an evangelical minister, um is defending it",
       "mentions_person_refs": [
-        "N-644",
+        "N-643",
         "N-5"
       ]
     },
@@ -2479,7 +2479,7 @@
       "investigative_direction": "Confirm Shupe's client relationships and whether he was at the WHCD near Erika Kirk when the clip was filmed.",
       "transcript_snippet": "Could it have been the other PR agent Andrew Kovat was with Matthew Shupe? Matthew Shupe who does PR for Harit Dylan. Um Dylan Law Group.",
       "mentions_person_refs": [
-        "N-645",
+        "N-644",
         "N-382",
         "N-14",
         "N-2"

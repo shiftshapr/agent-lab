@@ -31,7 +31,7 @@
             "C-4436"
           ],
           "related_nodes": [
-            "N-675",
+            "N-674",
             "N-182",
             "N-10955"
           ],
@@ -53,8 +53,8 @@
           ],
           "related_nodes": [
             "N-182",
+            "N-678",
             "N-679",
-            "N-680",
             "N-10955"
           ],
           "tags": [],
@@ -99,7 +99,7 @@
             "C-4440"
           ],
           "related_nodes": [
-            "N-679",
+            "N-678",
             "N-532"
           ],
           "tags": [],
@@ -126,8 +126,8 @@
             "C-4446"
           ],
           "related_nodes": [
+            "N-683",
             "N-684",
-            "N-685",
             "N-10955"
           ],
           "tags": [],
@@ -202,7 +202,7 @@
           ],
           "related_nodes": [
             "N-605",
-            "N-686",
+            "N-685",
             "N-5",
             "N-10964"
           ],
@@ -261,8 +261,8 @@
           "related_nodes": [
             "N-60",
             "N-605",
+            "N-686",
             "N-687",
-            "N-688",
             "N-10963",
             "N-10965"
           ],
@@ -367,7 +367,7 @@
             "C-4471"
           ],
           "related_nodes": [
-            "N-680"
+            "N-679"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -794,8 +794,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-675",
-      "ref": "N-675",
+      "@id": "N-674",
+      "ref": "N-674",
       "name": "Ivanka Trump",
       "type": "person",
       "description": "First named by the host at 00:00:52 in episode 113. Her story of swimming to Sazan Island from a friend's boat is revisited.",
@@ -814,8 +814,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-679",
-      "ref": "N-679",
+      "@id": "N-678",
+      "ref": "N-678",
       "name": "Nat Rothschild",
       "type": "person",
       "description": "First named by the host at 00:02:52 in episode 113. Owner of the superyacht Planet Nine, on which Kushner says he and Ivanka vacationed in 2021. Aliases: Nathaniel; Nathan Rothschild.",
@@ -836,8 +836,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-680",
-      "ref": "N-680",
+      "@id": "N-679",
+      "ref": "N-679",
       "name": "Edi Rama",
       "type": "person",
       "description": "First named by Jared Kushner in a clip at 00:08:08 in episode 113, as \"Prime Minister Rama\" of Albania. Kushner says Rama came to the yacht. Transcript gives only the surname.",
@@ -858,8 +858,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-684",
-      "ref": "N-684",
+      "@id": "N-683",
+      "ref": "N-683",
       "name": "Nikita Khrushchev",
       "type": "person",
       "description": "First named by the host at 00:09:59 in episode 113. Former Soviet leader quoted on Sazan Island as a strategic naval position.",
@@ -878,8 +878,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-685",
-      "ref": "N-685",
+      "@id": "N-684",
+      "ref": "N-684",
       "name": "Enver Hoxha",
       "type": "person",
       "description": "First named by the host at 00:09:59 in episode 113. Former Albanian leader (called \"prime minister\" by the host) whose account of Khrushchev's remarks is read.",
@@ -897,8 +897,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-686",
-      "ref": "N-686",
+      "@id": "N-685",
+      "ref": "N-685",
       "name": "Admiral Cooper (CENTCOM commander)",
       "type": "person",
       "description": "First named by Pete Hegseth in a clip at 00:15:42 in episode 113 as \"Admiral Cooper, the commander of CENTCOM.\" Only the surname is given.",
@@ -917,8 +917,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-687",
-      "ref": "N-687",
+      "@id": "N-686",
+      "ref": "N-686",
       "name": "Miguel Díaz-Canel",
       "type": "person",
       "description": "First named by Laura Loomer in a clip at 00:26:08 in episode 113 (transcript spelling \"Miguel Diaz-Canel\"). Cuban leader named in her capture-or-kill question.",
@@ -936,8 +936,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-688",
-      "ref": "N-688",
+      "@id": "N-687",
+      "ref": "N-687",
       "name": "Nicolás Maduro",
       "type": "person",
       "description": "First named by Laura Loomer in a clip at 00:26:08 in episode 113. She cites a capture or kill operation against him as a precedent.",
@@ -1431,7 +1431,7 @@
       "investigative_direction": "Review the full Ivanka Trump interview in which she describes discovering Sazan Island.",
       "transcript_snippet": "Story is she was on her friend's boat, remember? Um, and she said she jumped off of it. She swam. Her and Jared then ran barefoot on the island like Adam and Eve.",
       "mentions_person_refs": [
-        "N-675",
+        "N-674",
         "N-182"
       ]
     },
@@ -1453,8 +1453,8 @@
       "investigative_direction": "Check yacht registry and ownership records for Planet Nine and its summer 2021 Adriatic itinerary.",
       "transcript_snippet": "I guarantee you they wouldn't come up with anything remotely akin to the one that Ivanka jumped off of because, well, it's a Rothschild owned boat.",
       "mentions_person_refs": [
-        "N-675",
-        "N-679",
+        "N-674",
+        "N-678",
         "N-532"
       ]
     },
@@ -1491,7 +1491,7 @@
       "investigative_direction": "Check yacht registry and builder records for Planet Nine and its listed owner.",
       "transcript_snippet": "It's It's a super yacht appropriately named Planet Nine. Planet Nine, which is designed for heli-skiing adventures.",
       "mentions_person_refs": [
-        "N-679"
+        "N-678"
       ]
     },
     {
@@ -1509,7 +1509,7 @@
       "investigative_direction": "Check the builder's published specifications for Planet Nine's helideck and helicopter.",
       "transcript_snippet": "The helicopter, I will say that there's one drawback. The helicopter is only an eight-seater.",
       "mentions_person_refs": [
-        "N-679"
+        "N-678"
       ]
     },
     {
@@ -1527,7 +1527,7 @@
       "investigative_direction": "Compare with the builder's or charter broker's specification sheet for Planet Nine.",
       "transcript_snippet": "Planet Nine is five floors in total. But, worry not cuz you're like, \"That's a lot of stairs.\" It has two elevators. It accommodates 16 guests.",
       "mentions_person_refs": [
-        "N-679"
+        "N-678"
       ]
     },
     {
@@ -1564,7 +1564,7 @@
       "transcript_snippet": "I was on a vacation after we left government in the summer of 2021. We were on our friend Nat Rothschild's boat. We got picked up in Montenegro",
       "mentions_person_refs": [
         "N-182",
-        "N-679"
+        "N-678"
       ]
     },
     {
@@ -1585,7 +1585,7 @@
       "transcript_snippet": "One of the nights their Prime Minister Rama came to the boat. I had not met him when I was in government,",
       "mentions_person_refs": [
         "N-182",
-        "N-680"
+        "N-679"
       ]
     },
     {
@@ -1605,7 +1605,7 @@
       "investigative_direction": "Check Albanian prosecutorial (SPAK) records and press reports for any corruption investigation into the Sazan Island agreement.",
       "transcript_snippet": "The Prime Minister of Albania was on the boat. The guy who did the deal and in the process sold out his country and his ancestry.",
       "mentions_person_refs": [
-        "N-680",
+        "N-679",
         "N-182"
       ]
     },
@@ -1626,7 +1626,7 @@
       "investigative_direction": "Consult Enver Hoxha's memoir \"The Khrushchevites\" and historical records of Khrushchev's May 1959 Albania visit.",
       "transcript_snippet": "but in 1950 1959 he visited alongside his Soviet marshal and they looked out at the bay and they discussed Albania's coastline in particular, the Sazan Island, as a strategic naval position.",
       "mentions_person_refs": [
-        "N-684"
+        "N-683"
       ]
     },
     {
@@ -1646,8 +1646,8 @@
       "investigative_direction": "Verify the quotation against the published text of Hoxha's memoirs.",
       "transcript_snippet": "With a powerful fleet from here, we can have the whole of the Mediterranean, the Bosphorus to the Gibraltar in our hands. We can control everyone.",
       "mentions_person_refs": [
-        "N-685",
-        "N-684"
+        "N-684",
+        "N-683"
       ]
     },
     {
@@ -1767,7 +1767,7 @@
       "transcript_snippet": "But, of course, he is busy because CENTCOM, Central Command, will be busy tonight because President Trump said we will be hitting Iran hard, and we will be.",
       "mentions_person_refs": [
         "N-605",
-        "N-686",
+        "N-685",
         "N-5"
       ]
     },
@@ -1790,7 +1790,7 @@
       "transcript_snippet": "Uh and Admiral Cooper and the team here at CENTCOM has done a phenomenal job from the beginning on Epic Fury and through this blockade,",
       "mentions_person_refs": [
         "N-605",
-        "N-686"
+        "N-685"
       ]
     },
     {
@@ -1926,8 +1926,8 @@
       "transcript_snippet": "reestablish order if President Trump were to decide to do a capture or kill operation with Miguel Diaz-Canel like he did with Maduro?",
       "mentions_person_refs": [
         "N-60",
+        "N-686",
         "N-687",
-        "N-688",
         "N-5"
       ]
     },
@@ -2158,7 +2158,7 @@
       "investigative_direction": "Review Albanian maritime and land concession agreements under Edi Rama, including the Greece maritime border deal.",
       "transcript_snippet": "The prime minister is considered the biggest anti-Albanian in the entire history of Albania. He is selling our land and sea to neighboring countries.",
       "mentions_person_refs": [
-        "N-680"
+        "N-679"
       ]
     },
     {

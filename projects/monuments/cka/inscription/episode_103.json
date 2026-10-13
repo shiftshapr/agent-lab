@@ -974,8 +974,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-634",
-      "ref": "N-634",
+      "@id": "N-489",
+      "ref": "N-489",
       "name": "Jessica Ghawi",
       "type": "person",
       "description": "First named by the host at 00:53:58 in episode 103. The host's name for an Aurora theater shooting victim who, she says, had survived an earlier shooting at a food court in Canada; the host is unsure of the name.",
@@ -2617,7 +2617,7 @@
       "investigative_direction": "Check the Aurora victim list and Canadian news coverage of 2012 food-court shootings to confirm the victim's identity.",
       "transcript_snippet": "The fact that she had just survived another shooting. Um missed it in a food court up in Canada.",
       "mentions_person_refs": [
-        "N-634"
+        "N-489"
       ]
     },
     {

@@ -33,7 +33,7 @@
             "C-4168"
           ],
           "related_nodes": [
-            "N-646",
+            "N-645",
             "N-3",
             "N-1"
           ],
@@ -128,7 +128,7 @@
             "C-4179"
           ],
           "related_nodes": [
-            "N-648",
+            "N-647",
             "N-10070",
             "N-10936"
           ],
@@ -274,7 +274,7 @@
             "C-4194"
           ],
           "related_nodes": [
-            "N-649",
+            "N-648",
             "N-10940",
             "N-10941"
           ],
@@ -335,8 +335,8 @@
           ],
           "related_nodes": [
             "N-163",
-            "N-640",
-            "N-635",
+            "N-639",
+            "N-634",
             "N-2",
             "N-10923"
           ],
@@ -790,8 +790,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-646",
-      "ref": "N-646",
+      "@id": "N-645",
+      "ref": "N-645",
       "name": "Hunter Biden",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 106. Interviewed by the host in her house for an episode releasing on Thursday.",
@@ -814,8 +814,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-647",
-      "ref": "N-647",
+      "@id": "N-646",
+      "ref": "N-646",
       "name": "Andrew Callaghan",
       "type": "person",
       "description": "First named by the host at 00:03:44 in episode 106. Interviewer whose earlier conversation with Hunter Biden went viral.",
@@ -831,8 +831,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-648",
-      "ref": "N-648",
+      "@id": "N-647",
+      "ref": "N-647",
       "name": "Charlie Spearing",
       "type": "person",
       "description": "First named by the host at 00:15:03 in episode 106. Daily Mail reporter who wrote the article on the private screening of the Aspen video.",
@@ -850,8 +850,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-649",
-      "ref": "N-649",
+      "@id": "N-648",
+      "ref": "N-648",
       "name": "Mark Caputo",
       "type": "person",
       "description": "First named by the host at 00:29:57 in episode 106. Axios reporter who posted the White House Military Office denial of the WHCD email.",
@@ -889,8 +889,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-640",
-      "ref": "N-640",
+      "@id": "N-639",
+      "ref": "N-639",
       "name": "Richard Smaly",
       "type": "person",
       "description": "First named by the host at 00:35:13 in episode 106. Named in the host's follow-up as copied on the April 25 email; the host copied him on her second email.",
@@ -909,8 +909,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-635",
-      "ref": "N-635",
+      "@id": "N-634",
+      "ref": "N-634",
       "name": "Ryan Rippeon",
       "type": "person",
       "description": "First named by the host at 00:35:13 in episode 106. Named in the host's follow-up as copied on the April 25 email; the host copied him on her second email. Aliases: Ryan Rippey.",
@@ -1331,7 +1331,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-649"
+        "N-648"
       ]
     },
     {
@@ -1376,7 +1376,7 @@
       "investigative_direction": "Compare the full interview release and production metadata with the trailer; confirm the interview location with the production team or Hunter Biden's representatives.",
       "transcript_snippet": "The trailer that you saw online is very real. Hunter Biden was in this house with Brigitte doll.",
       "mentions_person_refs": [
-        "N-646",
+        "N-645",
         "N-3"
       ]
     },
@@ -1395,7 +1395,7 @@
       "investigative_direction": "Check the full unedited interview for the context of the statement.",
       "transcript_snippet": "I've heard you call me a crackhead many times and the truth of the matter is I was a crackhead.",
       "mentions_person_refs": [
-        "N-646",
+        "N-645",
         "N-3"
       ]
     },
@@ -1414,7 +1414,7 @@
       "investigative_direction": "Review the full interview segment on Charlie Kirk once released.",
       "transcript_snippet": "And I I do think there was something about the Charlie Kirk assassination that everyone just sort of looked up.",
       "mentions_person_refs": [
-        "N-646",
+        "N-645",
         "N-1"
       ]
     },
@@ -1431,8 +1431,8 @@
       "investigative_direction": "Locate the Andrew Callaghan interview with Hunter Biden, its publication date and view counts.",
       "transcript_snippet": "Hunter Biden gave an interview to Andrew Callaghan that was kind of going viral.",
       "mentions_person_refs": [
-        "N-646",
-        "N-647"
+        "N-645",
+        "N-646"
       ]
     },
     {
@@ -1448,7 +1448,7 @@
       "investigative_direction": "Identify the intermediary and the scheduling communications that set up the interview.",
       "transcript_snippet": "Lo and behold, that person the next day called me and said, \"If you want to do it, we can make it happen next week.\"",
       "mentions_person_refs": [
-        "N-646",
+        "N-645",
         "N-3"
       ]
     },
@@ -1467,7 +1467,7 @@
       "investigative_direction": "Check the release date of the full interview on the host's channel.",
       "transcript_snippet": "It will drop this Thursday, and I very much look forward to all of the surrounding commentary.",
       "mentions_person_refs": [
-        "N-646"
+        "N-645"
       ]
     },
     {
@@ -1642,7 +1642,7 @@
       "investigative_direction": "Obtain the Daily Mail article and ask the Daily Mail and Charlie Spearing how, where and by whom the footage was shown.",
       "transcript_snippet": "was to show the footage exclusively via a private screening, a secret private screening to some journalists over at the Daily Mail.",
       "mentions_person_refs": [
-        "N-648",
+        "N-647",
         "N-1"
       ]
     },
@@ -1985,7 +1985,7 @@
       "investigative_direction": "Archive Mark Caputo's post and the White House background statement he shared.",
       "transcript_snippet": "The White House Military Office has no knowledge of the communications alleged in this post and they did not authorize, draft, or publish the content in question.",
       "mentions_person_refs": [
-        "N-649"
+        "N-648"
       ]
     },
     {
@@ -2094,8 +2094,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-163",
-        "N-640",
-        "N-635",
+        "N-639",
+        "N-634",
         "N-2"
       ]
     },
@@ -2157,8 +2157,8 @@
       "transcript_snippet": "To be clear, I also CC'd Richard Smalley. I I CC'd Ryan Rippey and for good measure, I CC'd the White House Press Office.",
       "mentions_person_refs": [
         "N-3",
-        "N-640",
-        "N-635"
+        "N-639",
+        "N-634"
       ]
     },
     {

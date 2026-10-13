@@ -14,8 +14,8 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep105): N-10814
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-639, N-640, N-641, N-642, N-643, N-644, N-645, N-10929, N-10930, N-10931, N-10932, N-10933, N-10934, N-10935
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-22, N-40, N-69, N-162, N-163, N-194, N-286, N-379, N-382, N-557, N-628, N-635, N-636, N-10000, N-10070, N-10075, N-10125, N-10197, N-10312, N-10318, N-10472, N-10515, N-10637, N-10638, N-10652, N-10888, N-10899, N-10923
+  - Tip-minted Nodes (skeleton): N-638, N-639, N-640, N-641, N-642, N-643, N-644, N-10929, N-10930, N-10931, N-10932, N-10933, N-10934, N-10935
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-22, N-40, N-69, N-162, N-163, N-194, N-286, N-379, N-382, N-557, N-628, N-634, N-635, N-10000, N-10070, N-10075, N-10125, N-10197, N-10312, N-10318, N-10472, N-10515, N-10637, N-10638, N-10652, N-10888, N-10899, N-10923
   - Claim Range: C-4108–C-4162
   - (see registers)
 
@@ -51,7 +51,7 @@ Video Timestamp: 00:10:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4122, C-4124, C-4125, C-4126, C-4127, N-286, N-163, N-640, N-636, N-635, N-641, N-10931*
+*Related: C-4122, C-4124, C-4125, C-4126, C-4127, N-286, N-163, N-639, N-635, N-634, N-640, N-10931*
 
 **A-2581.3** Quote from White House sources describing the White House Communications Agency (read aloud)
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:17:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4134, C-4135, C-4136, C-4137, C-4138, C-4139, N-642, N-643, N-10933, N-10125*
+*Related: C-4134, C-4135, C-4136, C-4137, C-4138, C-4139, N-641, N-642, N-10933, N-10125*
 
 ---
 
@@ -133,7 +133,7 @@ Video Timestamp: 00:21:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4141, N-642, N-22, N-10933*
+*Related: C-4141, N-641, N-22, N-10933*
 
 ---
 
@@ -198,7 +198,7 @@ Video Timestamp: 00:42:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4158, C-4159, N-5, N-644, N-10935*
+*Related: C-4158, C-4159, N-5, N-643, N-10935*
 
 **A-2589.2** Headline on the Hasidic Jewish donors behind the statue (shown)
 
@@ -304,43 +304,43 @@ Erika Kirk's longtime friend; reportedly clarified that the boy in the alibi pho
 
 *Related: C-4157, A-2588.1*
 
-**N-639** Vladimir Putin
+**N-638** Vladimir Putin
 
 First named by the host at 00:05:04 in episode 105. Cited as a long-serving leader who has not faced comparable shooting attempts.
 
 *Related: C-4110*
 
-**N-640** Richard Smaly
+**N-639** Richard Smaly
 
 First named by the host at 00:10:20 in episode 105. Described as a communications officer and information assurance engineer at the White House Communications Agency who received the email.
 
 *Related: C-4125, A-2581.2*
 
-**N-636** Gustav Anderly
+**N-635** Gustav Anderly
 
 First named by the host at 00:10:20 in episode 105. Described as an information systems manager at the White House Communications Agency who received the email.
 
 *Related: C-4126, A-2581.2*
 
-**N-635** Ryan Rippeon
+**N-634** Ryan Rippeon
 
 First named by the host at 00:10:20 in episode 105. Described as commander of naval communications and a recipient of the email.
 
 *Related: C-4126, A-2581.2*
 
-**N-641** Michaela Mott
+**N-640** Michaela Mott
 
 First named by the host at 00:11:19 in episode 105. Described as Navy and a recipient of the email.
 
 *Related: C-4127, A-2581.2*
 
-**N-642** Kevin O'Leary
+**N-641** Kevin O'Leary
 
 First named by the host at 00:18:48 in episode 105. Shark Tank venture capitalist backing the Stratos data center; interviewed by Tucker Carlson. Aliases: Kevin Olirri; Olyri; Kevin Liry.
 
 *Related: C-4137, C-4139, C-4141, A-2584.1, A-2585.1*
 
-**N-643** Lee Perry
+**N-642** Lee Perry
 
 First named by the host at 00:18:48 in episode 105. Box Elder County commissioner quoted in the Guardian article on the backlash.
 
@@ -352,13 +352,13 @@ First named by the host at 00:38:02 in episode 105. The person behind the Paramo
 
 *Related: C-4153, C-4155, C-4156, A-2587.1, A-2587.2*
 
-**N-644** John Mark Burns
+**N-643** John Mark Burns
 
 First named by the host at 00:42:00 in episode 105. Evangelical pastor defending the golden Trump statue.
 
 *Related: C-4159, A-2589.1*
 
-**N-645** Matthew Shupe
+**N-644** Matthew Shupe
 
 First named by the host at 00:47:33 in episode 105. Described as a PR agent for Harmeet Dhillon and Dhillon Law Group; the host asks whether he filmed the Erika Kirk WHCD clip.
 
@@ -480,7 +480,7 @@ Investigation target: Erika Kirk's visit to the West Wing just before the WHCD s
 Node Type: Organization
 Department of Defense military communications unit embedded in the White House. The host says the amplification email was delivered from its military office domain and that several recipients hold positions there.
 
-*Related: C-4122, C-4123, C-4125, C-4126, A-2581.2, A-2581.3, N-640, N-636*
+*Related: C-4122, C-4123, C-4125, C-4126, A-2581.2, A-2581.3, N-639, N-635*
 
 **N-10932** WHCD Night White House "No Scramble" Readiness Question
 
@@ -494,7 +494,7 @@ Investigation target: the host's White House sources say that on the Saturday ev
 Node Type: Topic
 A proposed AI data center reported by the Guardian to cover more than 40,000 acres over three sites in Box Elder County, Utah. It would need about 9 gigawatts of power and is backed by Kevin O'Leary. County commissioners approved it despite thousands of objections. The host presents it as part of a push toward a surveillance state.
 
-*Related: C-4134, C-4135, C-4136, C-4137, C-4138, C-4139, C-4141, A-2584.1, A-2585.1, N-642, N-643*
+*Related: C-4134, C-4135, C-4136, C-4137, C-4138, C-4139, C-4141, A-2584.1, A-2585.1, N-641, N-642*
 
 **N-10934** Charlie Kirk Show Sponsor-Pressure Campaign Against Candace Owens
 
@@ -508,7 +508,7 @@ Investigation target: the May 8 Charlie Kirk Show segment in which Andrew Kolvet
 Node Type: Topic
 A 22-foot golden statue of Donald Trump unveiled at a Florida golf course. Pastor John Mark Burns defended it, and the host says Hasidic Jewish donors backed it.
 
-*Related: C-4158, C-4159, C-4160, A-2589.1, A-2589.2, N-5, N-644*
+*Related: C-4158, C-4159, C-4160, A-2589.1, A-2589.2, N-5, N-643*
 
 ## 5. Claim Register
 
@@ -551,7 +551,7 @@ Claim: The host says Vladimir Putin has been president of Russia for 22 years an
 Transcript Snippet: Like Vladimir Putin, as just one example, he has been the president of Russia for 22 years.
 
 Anchored Artifacts:
-Mentions: N-639, N-5
+Mentions: N-638, N-5
 Related Nodes:
 Investigative Direction: Check Putin's years in office and the public record of assassination attempts against him.
 
@@ -778,7 +778,7 @@ Claim: The host says White House communications director Steven Cheung and Richa
 Transcript Snippet: We covered some of this yesterday with Steven Chong who is the White House communications director. Richard Smaly who is the communications officer
 
 Anchored Artifacts: A-2581.2
-Mentions: N-163, N-640
+Mentions: N-163, N-639
 Related Nodes: N-10923, N-10931
 Investigative Direction: Confirm the named individuals' positions and their inclusion on the distribution list.
 
@@ -793,7 +793,7 @@ Claim: The host says Gustav Anderly, a WHCA information systems manager, and Rya
 Transcript Snippet: Uh Gustav Anderly, also military position, information systems manager at the White House Communications Agency. And Ryan Ripian, Ryan Ripian is the commander of naval communications.
 
 Anchored Artifacts: A-2581.2
-Mentions: N-636, N-635
+Mentions: N-635, N-634
 Related Nodes: N-10923, N-10931
 Investigative Direction: Verify these names and roles in DoD and Navy personnel listings.
 
@@ -808,7 +808,7 @@ Claim: The host says a Navy member named Michaela Mott was also on the email.
 Transcript Snippet: They also have someone named Michaela Mott who was on this email also Navy.
 
 Anchored Artifacts: A-2581.2
-Mentions: N-641
+Mentions: N-640
 Related Nodes: N-10923
 Investigative Direction: Verify the name and Navy role, and the distribution list of the original email.
 
@@ -958,7 +958,7 @@ Claim: The article says the project is backed by Shark Tank venture capitalist K
 Transcript Snippet: the proposed project is backed by Kevin Olirri, the venture capitalist who appeared on the TV show Shark Tank.
 
 Anchored Artifacts: A-2584.1
-Mentions: N-642
+Mentions: N-641
 Related Nodes: N-10933
 Investigative Direction: Identify the Stratos project's investors and corporate filings.
 
@@ -973,7 +973,7 @@ Claim: The article says Box Elder County commissioner Lee Perry said the content
 Transcript Snippet: Lee Perry, who was the box elder county commissioner, said left him feeling physically sick amidst alleged death threats and false accusations.
 
 Anchored Artifacts: A-2584.1
-Mentions: N-643
+Mentions: N-642
 Related Nodes: N-10933
 Investigative Direction: Locate Perry's original statement and any police reports of threats.
 
@@ -988,7 +988,7 @@ Claim: The article says Kevin O'Leary claimed in social media posts that most pr
 Transcript Snippet: Olyri has claimed in social media posts that most of the protesters don't live locally and have been paid to object to the project.
 
 Anchored Artifacts: A-2584.1
-Mentions: N-642
+Mentions: N-641
 Related Nodes: N-10933
 Investigative Direction: Archive O'Leary's posts and compare with the residency of people who lodged objections.
 
@@ -1018,7 +1018,7 @@ Claim: In a clip played by the host, Kevin O'Leary tells Tucker Carlson that AI-
 Transcript Snippet: facial recognition technology has finally got to the resolution using AI's tools where it's going to run through your data center
 
 Anchored Artifacts: A-2585.1
-Mentions: N-642, N-22
+Mentions: N-641, N-22
 Related Nodes: N-10933
 Investigative Direction: Archive the full Tucker Carlson interview.
 
@@ -1292,7 +1292,7 @@ Claim: The host says evangelical minister John Mark Burns appeared at the ceremo
 Transcript Snippet: the pastor John Mark Burns, an evangelical minister, um is defending it
 
 Anchored Artifacts: A-2589.1
-Mentions: N-644, N-5
+Mentions: N-643, N-5
 Related Nodes: N-10935
 Investigative Direction: Archive Burns's public statements on the statue.
 
@@ -1322,7 +1322,7 @@ Claim: Asking who filmed the Erika Kirk clip, the host says she does not think i
 Transcript Snippet: Could it have been the other PR agent Andrew Kovat was with Matthew Shupe? Matthew Shupe who does PR for Harit Dylan. Um Dylan Law Group.
 
 Anchored Artifacts:
-Mentions: N-645, N-382, N-14, N-2
+Mentions: N-644, N-382, N-14, N-2
 Related Nodes: N-10638, N-10652
 Investigative Direction: Confirm Shupe's client relationships and whether he was at the WHCD near Erika Kirk when the clip was filmed.
 
