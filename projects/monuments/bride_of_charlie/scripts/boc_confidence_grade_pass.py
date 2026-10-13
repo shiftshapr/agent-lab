@@ -2,7 +2,7 @@
 """
 BoC confidence-grade pass (post PR37 / tip 318d609):
   1) Dense-reclaim Topic/Org/Place N-1000+ in register first-intro order (eps 1–18).
-  2) Remap contract: drafts, phase1, edge_cases, retired_node_ids, inscription, canonical.
+  2) Remap contract: drafts, phase1, edge_cases, inscription, canonical (no tombstone ledger).
   3) Backfill empty Person register *Related* from claim/artifact citations (YWLS pattern).
 
 Usage (repo root):
@@ -317,21 +317,6 @@ def _rebuild_canonical_from_drafts() -> dict:
     }
 
 
-def _update_retired(remap: dict[str, str], names: dict[str, str]) -> None:
-    path = PROJECT / "config" / "retired_node_ids.json"
-    data = json.loads(path.read_text(encoding="utf-8"))
-    retired = data.setdefault("retired", {})
-    for old, new in sorted(remap.items(), key=lambda kv: _nid_num(kv[0])):
-        key = f"pr38-topic-{old}"
-        retired[key] = {
-            "survives_as": new,
-            "canonical_name": names.get(new) or names.get(old) or "",
-            "reason": f"PR38 dense Topic/Org/Place intro-order reclaim; was {old}.",
-        }
-    data["updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    path.write_text(json.dumps(data, indent=2) + "\n", encoding="utf-8")
-
-
 def _touch_paths(paths: list[Path], remap: dict[str, str], fix_ledger: bool) -> int:
     n = 0
     for path in paths:
@@ -387,8 +372,6 @@ def main() -> int:
     n = _touch_paths(draft_paths + cross + p1_paths + extra + docs, remap, fix_ledger=True)
     _sync_new_nodes_introduced(draft_paths)
     print(f"text/json touched: {n}")
-
-    _update_retired(remap, names)
 
     for ep in range(1, 19):
         subprocess.run(
