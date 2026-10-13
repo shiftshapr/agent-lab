@@ -55,7 +55,7 @@
             "C-3220"
           ],
           "related_nodes": [
-            "N-11178"
+            "N-10779"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -81,7 +81,7 @@
             "C-3213"
           ],
           "related_nodes": [
-            "N-11176"
+            "N-10777"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,7 +195,7 @@
             "C-3214"
           ],
           "related_nodes": [
-            "N-11177"
+            "N-10778"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -306,8 +306,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11175",
-      "ref": "N-11175",
+      "@id": "N-10776",
+      "ref": "N-10776",
       "name": "UVU Campus Sept 9 Scoping Incident",
       "type": "investigation_target",
       "description": "Persistent claim that on Sept 9, 2025 an unidentified individual scoped UVU campus and gave Mike Lee bodyguard cover story to UVU security. Source is verbal (host's \"source from UVU\"), not artifact-documented.",
@@ -322,8 +322,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11176",
-      "ref": "N-11176",
+      "@id": "N-10777",
+      "ref": "N-10777",
       "name": "Screwdriver Narrative Evolution",
       "type": "investigation_target",
       "description": "Persistent discrepancy between Sept 11 CNN framing (\"near the rifle\") and Kash Patel / Bongino clarification (\"on the rooftop\"). Both positions are artifact-anchored within this episode and prior context.",
@@ -341,8 +341,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11177",
-      "ref": "N-11177",
+      "@id": "N-10778",
+      "ref": "N-10778",
       "name": "Officer Bagley Rooftop Video Review Question",
       "type": "investigation_target",
       "description": "Persistent discrepancy between host's expected investigative practice (review all rooftop footage between suspect jump and officer arrival) and Bagley's testimony that he did not do so.",
@@ -360,8 +360,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11178",
-      "ref": "N-11178",
+      "@id": "N-10779",
+      "ref": "N-10779",
       "name": "Black Nitrile Gloves / Door Compartment Evidence",
       "type": "investigation_target",
       "description": "Persistent question regarding black nitrile gloves observed in door compartment; whether they are woodworking/CA-glue gloves per host's woodworker-email source.",
@@ -396,8 +396,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Comments revisit CPR narratives vs unnamed fire captain.",
@@ -412,8 +412,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
@@ -428,8 +428,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-124",
-      "ref": "N-124",
+      "@id": "N-89",
+      "ref": "N-89",
       "name": "Benny Johnson",
       "type": "person",
       "description": "Host on whose show Brendan Carr made FCC remarks",
@@ -444,8 +444,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
@@ -476,8 +476,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-810",
-      "ref": "N-810",
+      "@id": "N-518",
+      "ref": "N-518",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "First named by the host at 00:04:45 in episode 127. Aliases: Officer Bagley, Officer Christopher Bagley.",
@@ -507,7 +507,7 @@
       "investigative_direction": "Obtain the full Nicholas Bowling podcast episode audio/transcript to verify the exact wording and surrounding context.",
       "mentions_person_refs": [
         "N-3",
-        "N-16"
+        "N-7"
       ]
     },
     {
@@ -520,7 +520,7 @@
         "A-2237.1"
       ],
       "related_nodes": [
-        "N-11178"
+        "N-10779"
       ],
       "tags": [],
       "claim_timestamp": "00:07:24",
@@ -539,7 +539,7 @@
         "A-2238.1"
       ],
       "related_nodes": [
-        "N-11176"
+        "N-10777"
       ],
       "tags": [],
       "claim_timestamp": "00:17:01",
@@ -558,13 +558,13 @@
         "A-2242.1"
       ],
       "related_nodes": [
-        "N-11177"
+        "N-10778"
       ],
       "tags": [],
       "claim_timestamp": "00:19:22",
       "investigative_direction": "Obtain trial transcripts or full video of Bagley's testimony to confirm wording and any clarification given.",
       "mentions_person_refs": [
-        "N-810"
+        "N-518"
       ]
     },
     {
@@ -581,8 +581,8 @@
       "claim_timestamp": "00:34:29",
       "investigative_direction": "Confirm via hotel guest logs (subject to availability) or via further visual artifacts.",
       "mentions_person_refs": [
-        "N-124",
-        "N-42"
+        "N-89",
+        "N-14"
       ]
     },
     {
@@ -629,7 +629,7 @@
       "investigative_direction": "Locate Neff's exact X post URL to confirm timestamp and surrounding context.",
       "mentions_person_refs": [
         "N-3",
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -659,7 +659,7 @@
         "A-2237.1"
       ],
       "related_nodes": [
-        "N-11178"
+        "N-10779"
       ],
       "tags": [],
       "claim_timestamp": "00:08:14",

@@ -34,8 +34,8 @@
             "C-1749"
           ],
           "related_nodes": [
-            "N-10336",
-            "N-10337"
+            "N-10265",
+            "N-10266"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -62,7 +62,7 @@
             "C-1746"
           ],
           "related_nodes": [
-            "N-10337"
+            "N-10266"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -80,7 +80,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-70"
+            "N-41"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -98,7 +98,7 @@
             "C-1747"
           ],
           "related_nodes": [
-            "N-10337"
+            "N-10266"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -124,7 +124,7 @@
             "C-1748"
           ],
           "related_nodes": [
-            "N-10336"
+            "N-10265"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -151,7 +151,7 @@
             "C-1750"
           ],
           "related_nodes": [
-            "N-10340"
+            "N-10269"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -177,7 +177,7 @@
             "C-1750"
           ],
           "related_nodes": [
-            "N-10340"
+            "N-10269"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -203,8 +203,8 @@
             "C-1751"
           ],
           "related_nodes": [
-            "N-423",
-            "N-10336"
+            "N-271",
+            "N-10265"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -230,8 +230,8 @@
             "C-1752"
           ],
           "related_nodes": [
-            "N-16",
-            "N-10338"
+            "N-7",
+            "N-10267"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -257,8 +257,8 @@
             "C-1753"
           ],
           "related_nodes": [
-            "N-424",
-            "N-10338"
+            "N-272",
+            "N-10267"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -276,7 +276,7 @@
             "C-1754"
           ],
           "related_nodes": [
-            "N-424"
+            "N-272"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -302,8 +302,8 @@
             "C-1755"
           ],
           "related_nodes": [
-            "N-427",
-            "N-205"
+            "N-274",
+            "N-149"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -330,7 +330,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-426"
+            "N-273"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -348,8 +348,8 @@
             "C-1757"
           ],
           "related_nodes": [
-            "N-426",
-            "N-10339"
+            "N-273",
+            "N-10268"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -385,8 +385,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-423",
-      "ref": "N-423",
+      "@id": "N-271",
+      "ref": "N-271",
       "name": "Christopher Wray",
       "type": "person",
       "description": "FBI Director quoted in A-1440.1 press release regarding partnerships.",
@@ -404,8 +404,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Brian Harpole",
       "type": "person",
       "description": "TPUSA security figure whose statements on drones (A-1442.1) and bullet trajectory (A-1442.2) are presented.",
@@ -423,13 +423,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10338"
+        "N-10267"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "TPUSA-affiliated individual who accompanied Charlie; Megan Kelly interview (A-1441.1) describing drones.",
@@ -445,13 +445,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10338"
+        "N-10267"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-426",
-      "ref": "N-426",
+      "@id": "N-273",
+      "ref": "N-273",
       "name": "Tim Pool",
       "type": "person",
       "description": "Independent commentator; clips (A-1444.1, A-1444.2) regarding podcast narrative and AmFest exclusion.",
@@ -471,8 +471,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-427",
-      "ref": "N-427",
+      "@id": "N-274",
+      "ref": "N-274",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Host of The Joe Rogan Experience; clip (A-1443.1) discussing conspiracies.",
@@ -490,8 +490,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-205",
-      "ref": "N-205",
+      "@id": "N-149",
+      "ref": "N-149",
       "name": "Theo Von",
       "type": "person",
       "description": "Guest on Joe Rogan Experience; clip (A-1443.1) discussing conspiracies and Macron.",
@@ -509,8 +509,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10336",
-      "ref": "N-10336",
+      "@id": "N-10265",
+      "ref": "N-10265",
       "name": "920 North King Street / 1 Rodney Square Federal Facility",
       "type": "investigation_target",
       "description": "Insider-claimed joint FBI/DEA/Secret Service site tied to SUBTT Wilmington visits; identified via 1997 DOJ directory (A-1437.1) and December 2024 FBI press release (A-1440.1).",
@@ -532,8 +532,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10337",
-      "ref": "N-10337",
+      "@id": "N-10266",
+      "ref": "N-10266",
       "name": "SUBTT Wilmington Visit Pattern",
       "type": "investigation_target",
       "description": "Persistence of SUBTT (Egyptian military Falcon 7X) visits to Wilmington, Delaware before/after assassination; basis of insider email (A-1435.1) and host flight timeline (A-1436.1, A-1436.3).",
@@ -555,8 +555,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10338",
-      "ref": "N-10338",
+      "@id": "N-10267",
+      "ref": "N-10267",
       "name": "TPUSA Drone Disclosure Discrepancy",
       "type": "investigation_target",
       "description": "Contradiction between Frank Turk (drones up, A-1441.1) and Brian Harpole (no drones allowed, A-1442.1) on whether drones were operating on the day of the event.",
@@ -576,8 +576,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10339",
-      "ref": "N-10339",
+      "@id": "N-10268",
+      "ref": "N-10268",
       "name": "AmFest Speaker Removal Pattern",
       "type": "investigation_target",
       "description": "Tim Pool (A-1444.2) and host both describe being disinvited from TPUSA's AmFest.",
@@ -595,8 +595,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10340",
-      "ref": "N-10340",
+      "@id": "N-10269",
+      "ref": "N-10269",
       "name": "Wilmington Airport Hangar Federal Connection",
       "type": "investigation_target",
       "description": "SATIDS (A-1438.1) and DRBA (A-1439.1) documents describing takeover of former Dassault hangar; DRBA operates on federally regulated waterways.",
@@ -616,8 +616,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-41",
+      "ref": "N-41",
       "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
@@ -648,8 +648,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-344",
-      "ref": "N-344",
+      "@id": "N-229",
+      "ref": "N-229",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Podcast host of the Brian Harpole interview that the independent review and this episode treat as contradictory to review-team findings.",
@@ -675,7 +675,7 @@
         "A-1436.1"
       ],
       "related_nodes": [
-        "N-10337"
+        "N-10266"
       ],
       "tags": [],
       "claim_timestamp": "00:02:32–00:05:00",
@@ -692,7 +692,7 @@
         "A-1436.1"
       ],
       "related_nodes": [
-        "N-10337"
+        "N-10266"
       ],
       "tags": [],
       "claim_timestamp": "00:02:32–00:05:00",
@@ -709,7 +709,7 @@
         "A-1436.3"
       ],
       "related_nodes": [
-        "N-10337"
+        "N-10266"
       ],
       "tags": [],
       "claim_timestamp": "00:19:00–00:20:40",
@@ -725,7 +725,7 @@
         "A-1437.1"
       ],
       "related_nodes": [
-        "N-10336"
+        "N-10265"
       ],
       "tags": [],
       "claim_timestamp": "00:10:45",
@@ -742,7 +742,7 @@
         "A-1437.1"
       ],
       "related_nodes": [
-        "N-10336"
+        "N-10265"
       ],
       "tags": [],
       "claim_timestamp": "00:10:45–00:12:23",
@@ -758,7 +758,7 @@
         "A-1438.1"
       ],
       "related_nodes": [
-        "N-10340"
+        "N-10269"
       ],
       "tags": [],
       "claim_timestamp": "00:12:23–00:13:22",
@@ -774,7 +774,7 @@
         "A-1439.1"
       ],
       "related_nodes": [
-        "N-10340"
+        "N-10269"
       ],
       "tags": [],
       "claim_timestamp": "00:13:22–00:14:22",
@@ -790,13 +790,13 @@
         "A-1440.1"
       ],
       "related_nodes": [
-        "N-10336"
+        "N-10265"
       ],
       "tags": [],
       "claim_timestamp": "00:17:46–00:18:30",
       "investigative_direction": "Locate and review the FBI press release directly; verify quoted phrases and date.",
       "mentions_person_refs": [
-        "N-423"
+        "N-271"
       ]
     },
     {
@@ -809,13 +809,13 @@
         "A-1441.1"
       ],
       "related_nodes": [
-        "N-10338"
+        "N-10267"
       ],
       "tags": [],
       "claim_timestamp": "00:31:42–00:32:39",
       "investigative_direction": "Obtain the full Megan Kelly / Frank Turk interview clip and timestamp; confirm exact wording.",
       "mentions_person_refs": [
-        "N-16"
+        "N-7"
       ]
     },
     {
@@ -828,14 +828,14 @@
         "A-1442.1"
       ],
       "related_nodes": [
-        "N-10338"
+        "N-10267"
       ],
       "tags": [],
       "claim_timestamp": "00:30:52–00:31:42",
       "investigative_direction": "Obtain the full Shawn Ryan / Brian Harpole interview clip and timestamp; confirm exact wording.",
       "mentions_person_refs": [
-        "N-424",
-        "N-344"
+        "N-272",
+        "N-229"
       ]
     },
     {
@@ -852,8 +852,8 @@
       "claim_timestamp": "00:33:46–00:36:45",
       "investigative_direction": "Obtain the full interview clip; confirm exact wording and timestamps.",
       "mentions_person_refs": [
-        "N-424",
-        "N-344"
+        "N-272",
+        "N-229"
       ]
     },
     {
@@ -871,7 +871,7 @@
       "investigative_direction": "Locate Tim Pool's original video and timestamp the quoted language.",
       "mentions_person_refs": [
         "N-2",
-        "N-426",
+        "N-273",
         "N-3",
         "N-1"
       ]
@@ -886,13 +886,13 @@
         "A-1444.2"
       ],
       "related_nodes": [
-        "N-10339"
+        "N-10268"
       ],
       "tags": [],
       "claim_timestamp": "00:44:03–00:44:52",
       "investigative_direction": "Locate Tim Pool's original video and confirm AmFest / Afest naming and exact quoted language.",
       "mentions_person_refs": [
-        "N-426"
+        "N-273"
       ]
     },
     {
@@ -909,8 +909,8 @@
       "claim_timestamp": "00:36:19–00:41:35",
       "investigative_direction": "Identify the specific Rogan episode by number and date; preserve timestamp of the cited segment.",
       "mentions_person_refs": [
-        "N-205",
-        "N-427"
+        "N-149",
+        "N-274"
       ]
     }
   ],

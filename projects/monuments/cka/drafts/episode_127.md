@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: a00c93c3de8fb9fe25ca93a10cae28c73ff062257c969ca7726819b14b4093e7
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-11124, N-11125, N-11126, N-11127, N-11128, N-11129, N-11130
-  - Reused Nodes Appearing: N-629, N-809
-  - Hole-minted Nodes (wave3): N-810
+  - New Nodes Introduced: N-10725, N-10726, N-10727, N-10728, N-10729, N-10730, N-10731
+  - Reused Nodes Appearing: N-388, N-517
+  - Hole-minted Nodes (wave3): N-518
   - (see registers)
 
 ## 2. Executive Summary
@@ -51,7 +51,7 @@ Video Timestamp: 00:05:36–00:06:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3042, C-3043, C-3044, N-11124*
+*Related: C-3042, C-3043, C-3044, N-10725*
 
 **A-2146.2** Unidentified badge-holding rooftop companion testimony
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:09:06–00:10:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3043, C-3044, N-11125*
+*Related: C-3043, C-3044, N-10726*
 
 ---
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:06:28–00:08:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (content displayed/read on air)
 
-*Related: C-3045, C-3056, N-11124*
+*Related: C-3045, C-3056, N-10725*
 
 ---
 
@@ -89,7 +89,7 @@ Video Timestamp: 00:15:19–00:16:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3046, C-3047, N-11126*
+*Related: C-3046, C-3047, N-10727*
 
 **A-2148.2** Reversal of FBI testing decision testimony
 
@@ -99,7 +99,7 @@ Video Timestamp: 00:16:23–00:17:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3047, C-3048, N-11126*
+*Related: C-3047, C-3048, N-10727*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:19:25–00:20:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3049, C-3050, N-11126*
+*Related: C-3049, C-3050, N-10727*
 
 **A-2149.2** Lab-notes attribution of backpack to "Kirk's detail"
 
@@ -123,7 +123,7 @@ Video Timestamp: 00:20:30–00:21:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3050, C-3051, N-11126*
+*Related: C-3050, C-3051, N-10727*
 
 ---
 
@@ -137,7 +137,7 @@ Video Timestamp: 00:35:42–00:38:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip displayed on air)
 
-*Related: C-3052, C-3053, N-11129*
+*Related: C-3052, C-3053, N-10730*
 
 ---
 
@@ -165,26 +165,26 @@ Video Timestamp: 00:46:07–00:47:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host described content; clip not replayed on air)
 
-*Related: C-3054, N-11130*
+*Related: C-3054, N-10731*
 
 ---
 
 ## 4. Node Register
 
-**N-810** Christopher Bagley
+**N-518** Christopher Bagley
 
 First named by the host at 00:04:45 in episode 127. Aliases: Officer Bagley, Officer Christopher Bagley.
 
 *Related: C-3042, C-3043, C-3044*
 
-**N-629** Dan Bongino
+**N-388** Dan Bongino
 
 Named by the host at 00:45:58 in episode 127; first introduced in episode 15.
 
 *Related: C-3054*
 
 
-**N-11124** Officer Bagley Body-Cam Battery Anomaly
+**N-10725** Officer Bagley Body-Cam Battery Anomaly
 
 Persistent discrepancy between the testimony that the Axon Body Cam 4 terminated ~27:35 into the shift while the officer was on the rooftop, and the Axon operator email asserting ~14-hour battery life with a docked-shift upload cycle.
 
@@ -195,7 +195,7 @@ Investigative Pressure: High
 
 *Related: A-2146.1, A-2147.1, C-3042, C-3045*
 
-**N-11125** Unidentified Badge-Holding Rooftop Companion
+**N-10726** Unidentified Badge-Holding Rooftop Companion
 
 Persistent investigative target: the plain-clothed individual Officer Bagley accompanied onto the Losee Center roof, who displayed a badge and carried a handgun, and whose agency was never verified by Bagley.
 
@@ -206,7 +206,7 @@ Investigative Pressure: High
 
 *Related: A-2146.2, C-3043*
 
-**N-11126** Abandoned Backpack / Jacket / Gloves Non-Testing Decision
+**N-10727** Abandoned Backpack / Jacket / Gloves Non-Testing Decision
 
 Persistent investigative target: the abandoned items found at the Fulton Library bus stop on the shooter's route, sent to the FBI lab for DNA testing, then reclassified as "bystander" or "Kirk's detail" without testing.
 
@@ -217,7 +217,7 @@ Investigative Pressure: High
 
 *Related: A-2148.1, A-2148.2, A-2149.1, A-2149.2, C-3046, C-3047, C-3048, C-3049, C-3050, C-3051*
 
-**N-11127** Timpanogos Hospital Pre-Notification Failure
+**N-10728** Timpanogos Hospital Pre-Notification Failure
 
 Persistent investigative target: alleged absence of advance notice to Timpanogos Regional Hospital of Charlie Kirk's arrival, contradicting the official 911-call narrative.
 
@@ -228,7 +228,7 @@ Investigative Pressure: Medium
 
 *Related: C-3056*
 
-**N-11128** 911 Call Identification Gap
+**N-10729** 911 Call Identification Gap
 
 Persistent investigative target: no witness in the on-air record has claimed personal credit for the 911 call; the call itself has not been located in publicly released logs.
 
@@ -239,7 +239,7 @@ Investigative Pressure: Medium
 
 *Related: C-3057*
 
-**N-11129** Frank Turek FaceTime Story Inconsistency
+**N-10730** Frank Turek FaceTime Story Inconsistency
 
 Persistent investigative target: Turek's two on-record accounts of where the FaceTime call ended ("hotel" vs. "hospital") and the question of which adult son/daughter-in-law was on the line.
 
@@ -250,7 +250,7 @@ Investigative Pressure: High
 
 *Related: A-2150.1, C-3052, C-3053*
 
-**N-11130** Screwdriver Footage Graininess Discrepancy
+**N-10731** Screwdriver Footage Graininess Discrepancy
 
 Persistent investigative target: Bongino's Sept. 15 characterization of the rooftop screwdriver footage as "too grainy" to discern, contrasted with later influencer claims of "4K HD crystal clear" footage.
 
@@ -272,9 +272,9 @@ Claim Timestamp: 00:05:36–00:06:28
 Claim: Officer Bagley testified that his Axon body-cam footage ended at 12:44 p.m. while he was still on the Losee Center roof, lasting 27 minutes and 35 seconds, and he stated the battery simply "went dead."
 
 Anchored Artifacts: A-2146.1
-Mentions: N-810
+Mentions: N-518
 
-Related Nodes: N-11124
+Related Nodes: N-10725
 
 Investigative Direction: Obtain full Axon Body Cam 4 battery-log metadata for Bagley's device on Sept. 10, 2025, including dock-cycle history.
 
@@ -287,9 +287,9 @@ Claim Timestamp: 00:09:06–00:10:43
 Claim: Officer Bagley testified that he was accompanied on the Losee Center rooftop by an unidentified individual in plain clothes with a badge and a handgun, whose agency he did not know and did not verify.
 
 Anchored Artifacts: A-2146.2
-Mentions: N-810
+Mentions: N-518
 
-Related Nodes: N-11125
+Related Nodes: N-10726
 
 Investigative Direction: Identify the badge-holder from rooftop footage, radio traffic logs, and officer roster records for Sept. 10, 2025.
 
@@ -302,9 +302,9 @@ Claim Timestamp: 00:10:05–00:11:27
 Claim: Officer Bagley testified that he did not review the body-cam or surveillance footage between the time the suspect jumped from the roof and his arrival to determine whether anyone else had been on the rooftop in that window.
 
 Anchored Artifacts: A-2146.2
-Mentions: N-810
+Mentions: N-518
 
-Related Nodes: N-11125
+Related Nodes: N-10726
 
 Investigative Direction: Locate the 20-minute footage gap referenced and obtain any UVU or law-enforcement video from that window.
 
@@ -318,7 +318,7 @@ Claim: An email from a police officer using the same Axon Body Cam 4 model state
 
 Anchored Artifacts: A-2147.1
 
-Related Nodes: N-11124
+Related Nodes: N-10725
 
 Investigative Direction: Identify the email author (host has protected identity), corroborate Axon Body Cam 4 specifications from manufacturer documentation, and request Bagley's device telemetry.
 
@@ -331,9 +331,9 @@ Claim Timestamp: 00:15:19–00:16:23
 Claim: Sergeant Jennifer Felomina of the Utah Bureau of Investigations testified that officers canvassing the scene found unattended items – a backpack, jacket, and gloves – at the Fulton Library bus stop, which was determined to be on the shooter's route.
 
 Anchored Artifacts: A-2148.1
-Mentions: N-809
+Mentions: N-517
 
-Related Nodes: N-11126
+Related Nodes: N-10727
 
 Investigative Direction: Obtain Felomina's September 22, 2025 crime-scene overview report and the seizure item numbers she could not recall.
 
@@ -347,7 +347,7 @@ Claim: Sergeant Felomina testified that the seized items were sent to the FBI la
 
 Anchored Artifacts: A-2148.1, A-2148.2
 
-Related Nodes: N-11126
+Related Nodes: N-10727
 
 Investigative Direction: Obtain the FBI lab intake documentation for these items and the chain-of-custody record.
 
@@ -361,7 +361,7 @@ Claim: Sergeant Felomina testified that a decision was made to halt further test
 
 Anchored Artifacts: A-2148.2
 
-Related Nodes: N-11126
+Related Nodes: N-10727
 
 Investigative Direction: Compare FBI/ATF lab notes to Felomina's communication log and identify the party that actually conveyed the "not probative" determination.
 
@@ -375,7 +375,7 @@ Claim: FBI agent Amanda Baker testified that the backpack (exhibit 9) was determ
 
 Anchored Artifacts: A-2149.1
 
-Related Nodes: N-11126
+Related Nodes: N-10727
 
 Investigative Direction: Identify the bystander candidate; obtain the source of the "bystander" classification.
 
@@ -389,7 +389,7 @@ Claim: FBI agent Amanda Baker testified, when confronted with lab notes stating 
 
 Anchored Artifacts: A-2149.2
 
-Related Nodes: N-11126
+Related Nodes: N-10727
 
 Investigative Direction: Identify the lab employee who authored/added the "Kirk's detail" attribution; obtain that employee's written communication.
 
@@ -403,7 +403,7 @@ Claim: Host concurs with the implicit inconsistency between Felomina's lack of m
 
 Anchored Artifacts: A-2148.2, A-2149.2
 
-Related Nodes: N-11126
+Related Nodes: N-10727
 
 Investigative Direction: Locate the original handwritten or digital lab note and trace the attribution chain.
 
@@ -416,9 +416,9 @@ Claim Timestamp: 00:35:42–00:36:38
 Claim: Frank Turek stated on the played interview that he was FaceTiming his son and daughter-in-law when the shot rang out and continued the call until reaching the hospital, with the phone in his back pocket for the duration.
 
 Anchored Artifacts: A-2150.1
-Mentions: N-16
+Mentions: N-7
 
-Related Nodes: N-11129
+Related Nodes: N-10730
 
 Investigative Direction: Obtain call-detail records (timestamps, duration, devices) for the FaceTime session.
 
@@ -431,9 +431,9 @@ Claim Timestamp: 00:35:42–00:38:14
 Claim: Frank Turek gave two differing on-record accounts of where the FaceTime call ended – first stating "hotel," then correcting to "hospital" – during the same played interview segment, with the host flagging the inconsistency on air.
 
 Anchored Artifacts: A-2150.1
-Mentions: N-16
+Mentions: N-7
 
-Related Nodes: N-11129
+Related Nodes: N-10730
 
 Investigative Direction: Obtain the full unedited interview recordings and any prior statements Turek made on this point.
 
@@ -446,9 +446,9 @@ Claim Timestamp: 00:46:07–00:47:07
 Claim: Host describes watching Dan Bongino state on Megyn Kelly's show on September 15, 2025, that the screwdriver rooftop footage was too grainy for the FBI's tools to clarify, establishing a baseline against later influencer characterizations of the same footage as "crystal clear."
 
 Anchored Artifacts: A-2152.1
-Mentions: N-75, N-629
+Mentions: N-46, N-388
 
-Related Nodes: N-11130
+Related Nodes: N-10731
 
 Investigative Direction: Obtain the original Megyn Kelly / Bongino Sept. 15 broadcast and any FBI enhancement documentation released between Sept. 15 and the influencer court-day coverage.
 
@@ -461,7 +461,7 @@ Claim Timestamp: 00:30:48–00:34:40
 Claim: A letter read on Frank Turek's show by an anonymous husband states that his wife has become "deeply influenced by Candace Owens' recent content" regarding Turek, Israel, and conspiracy topics, and that this is creating a widening divide in their marriage.
 
 Anchored Artifacts: A-2151.1
-Mentions: N-3, N-16
+Mentions: N-3, N-7
 
 Related Nodes:
 
@@ -478,7 +478,7 @@ Claim: A source verified by host as a Timpanogos Regional Hospital employee told
 Anchored Artifacts: (no on-air displayed/recorded artifact from source; reliance on host description)
 Mentions: N-1
 
-Related Nodes: N-11127
+Related Nodes: N-10728
 
 Investigative Direction: Obtain independent corroboration from hospital intake records, EMS radio traffic, and any 911-call recordings reflecting pre-arrival coordination.
 
@@ -493,9 +493,9 @@ Claim Timestamp: 00:26:17–00:27:13
 Claim: Brian Harpole, in on-record statements, references a 911 call collectively ("we called 911") without identifying the specific individual who placed the call.
 
 Anchored Artifacts: (no on-air displayed artifact in this episode beyond host's description of Harpole's prior statements)
-Mentions: N-424
+Mentions: N-272
 
-Related Nodes: N-11128
+Related Nodes: N-10729
 
 Investigative Direction: Obtain the 911-call audio and CPD/EMS dispatch records for Sept. 10, 2025 between 12:23 and 12:30 p.m.
 

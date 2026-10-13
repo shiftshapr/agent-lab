@@ -30,8 +30,8 @@
             "C-2283"
           ],
           "related_nodes": [
-            "N-783",
-            "N-10548"
+            "N-500",
+            "N-10477"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -49,8 +49,8 @@
             "C-2284"
           ],
           "related_nodes": [
-            "N-783",
-            "N-10550"
+            "N-500",
+            "N-10479"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -76,9 +76,9 @@
             "C-2285"
           ],
           "related_nodes": [
-            "N-783",
-            "N-272",
-            "N-10549"
+            "N-500",
+            "N-194",
+            "N-10478"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -104,9 +104,9 @@
             "C-2286"
           ],
           "related_nodes": [
-            "N-885",
-            "N-10551",
-            "N-10555"
+            "N-553",
+            "N-10480",
+            "N-10484"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -132,8 +132,8 @@
             "C-2287"
           ],
           "related_nodes": [
-            "N-10552",
-            "N-10555"
+            "N-10481",
+            "N-10484"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -151,7 +151,7 @@
             "C-2288"
           ],
           "related_nodes": [
-            "N-10552"
+            "N-10481"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -169,7 +169,7 @@
             "C-2289"
           ],
           "related_nodes": [
-            "N-10552"
+            "N-10481"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,8 +195,8 @@
             "C-2290"
           ],
           "related_nodes": [
-            "N-876",
-            "N-10555"
+            "N-548",
+            "N-10484"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -214,8 +214,8 @@
             "C-2291"
           ],
           "related_nodes": [
-            "N-876",
-            "N-877"
+            "N-548",
+            "N-549"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -241,7 +241,7 @@
             "C-2292"
           ],
           "related_nodes": [
-            "N-882"
+            "N-550"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -267,7 +267,7 @@
             "C-2293"
           ],
           "related_nodes": [
-            "N-133"
+            "N-97"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -293,8 +293,8 @@
             "C-2294"
           ],
           "related_nodes": [
-            "N-272",
-            "N-10553"
+            "N-194",
+            "N-10482"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -320,9 +320,9 @@
             "C-2295"
           ],
           "related_nodes": [
-            "N-783",
-            "N-43",
-            "N-10554"
+            "N-500",
+            "N-15",
+            "N-10483"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -348,9 +348,9 @@
             "C-2296"
           ],
           "related_nodes": [
-            "N-883",
-            "N-888",
-            "N-889"
+            "N-551",
+            "N-555",
+            "N-556"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -376,7 +376,7 @@
             "C-2297"
           ],
           "related_nodes": [
-            "N-884"
+            "N-552"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -391,8 +391,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-876",
-      "ref": "N-876",
+      "@id": "N-548",
+      "ref": "N-548",
       "name": "Gorg Fastbinder",
       "type": "person",
       "description": "German geophysicist (Bavarian State Conservation Office, Munich) credited in the episode with discovering Gilgamesh's tomb via magnetic mapping between May 2002 and early 2003; subject of BBC follow-up coverage.",
@@ -412,8 +412,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-877",
-      "ref": "N-877",
+      "@id": "N-549",
+      "ref": "N-549",
       "name": "Helmut Becker",
       "type": "person",
       "description": "German geophysicist working alongside Gorg Fastbinder on the magnetic-mapping survey that located the Gilgamesh tomb site.",
@@ -431,8 +431,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-783",
-      "ref": "N-783",
+      "@id": "N-500",
+      "ref": "N-500",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Erika Kirk's mother; central figure in the Sept 8 / Sept 10 alibi narrative; subject of the Sept 7, 2025 Instagram post; reportedly receiving treatment at a \"holistic clinic\" rather than a hospital; described as having Lyme disease.",
@@ -454,16 +454,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10548",
-        "N-10549",
-        "N-10550",
-        "N-10554"
+        "N-10477",
+        "N-10478",
+        "N-10479",
+        "N-10483"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "TPUSA-affiliated figure (per host's training reference); the person who placed the call to Erika Kirk on Sept 10, 2025, and who host asserts first called his wife before calling Erika.",
@@ -481,13 +481,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10553"
+        "N-10482"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-43",
-      "ref": "N-43",
+      "@id": "N-15",
+      "ref": "N-15",
       "name": "Justin Strife",
       "type": "person",
       "description": "TPUSA-affiliated intermediary; sent text messages to the host stating Erika's mother was very sick; per host, also revised the location of Erika's sighting from \"basketball game\" to \"football game.\"",
@@ -503,13 +503,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10554"
+        "N-10483"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
+      "@id": "N-97",
+      "ref": "N-97",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Daily Wire figure whose \"All Access\" clip mocking the host's Hogwarts-chess dream is played in the episode.",
@@ -527,8 +527,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-882",
-      "ref": "N-882",
+      "@id": "N-550",
+      "ref": "N-550",
       "name": "Colin Powell",
       "type": "person",
       "description": "Former U.S. Secretary of State; subject of Feb 5, 2003 UN Security Council address cited in the episode.",
@@ -546,8 +546,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-883",
-      "ref": "N-883",
+      "@id": "N-551",
+      "ref": "N-551",
       "name": "William Stevenson",
       "type": "person",
       "description": "77-year-old Wilmington resident, ex-husband of Jill Biden (1970–1975); indicted for first-degree murder of his ex-wife per news referenced in episode.",
@@ -563,14 +563,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-888",
-        "N-889"
+        "N-555",
+        "N-556"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-884",
-      "ref": "N-884",
+      "@id": "N-552",
+      "ref": "N-552",
       "name": "Kevin Sorbo",
       "type": "person",
       "description": "Actor referenced via tweet about leaving Hollywood because participants were pedophiles.",
@@ -588,8 +588,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-885",
-      "ref": "N-885",
+      "@id": "N-553",
+      "ref": "N-553",
       "name": "Robkea",
       "type": "person",
       "description": "Researcher cited in viewer email; per email, his work documents Gilgamesh/Nimrod tomb discovery, museum raid, and missing Nephilim/resurrection tablets.",
@@ -605,14 +605,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10551",
-        "N-10555"
+        "N-10480",
+        "N-10484"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-886",
-      "ref": "N-886",
+      "@id": "N-554",
+      "ref": "N-554",
       "name": "Bella Hadid",
       "type": "person",
       "description": "Public figure referenced re: Lyme disease treatment options overseas.",
@@ -624,14 +624,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-783",
-        "N-10554"
+        "N-500",
+        "N-10483"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Source of witness statement (cited by host) that Charlie Kirk was \"dealing with the kids\" on Sept 8, 2025.",
@@ -643,14 +643,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10548",
-        "N-10553"
+        "N-10477",
+        "N-10482"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-888",
-      "ref": "N-888",
+      "@id": "N-555",
+      "ref": "N-555",
       "name": "Amber Thurman (Victim in Stevenson case)",
       "type": "person",
       "description": "Per host's read of article, the ex-wife of William Stevenson whose body was found unresponsive in the living room (Stevenson indicted for first-degree murder).",
@@ -666,13 +666,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-883"
+        "N-551"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-889",
-      "ref": "N-889",
+      "@id": "N-556",
+      "ref": "N-556",
       "name": "Jill Biden",
       "type": "person",
       "description": "Subject of William Stevenson connection (Stevenson was her ex-husband, 1970–1975); declined to comment per host's read.",
@@ -688,13 +688,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-883"
+        "N-551"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10548",
-      "ref": "N-10548",
+      "@id": "N-10477",
+      "ref": "N-10477",
       "name": "Erika Kirk Sept 8, 2025 Alibi Verification",
       "type": "investigation_target",
       "description": "Persistent target: the host asserts she cannot obtain or confirm a coherent Sept 8, 2025 alibi for Erika Kirk, that Frank Turk states Charlie was \"dealing with the kids,\" and that witnesses at the residence did not see Erika on Sept 8 but did see her on Sept 9.",
@@ -710,14 +710,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-783",
-        "N-16"
+        "N-500",
+        "N-7"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10549",
-      "ref": "N-10549",
+      "@id": "N-10478",
+      "ref": "N-10478",
       "name": "Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy",
       "type": "investigation_target",
       "description": "The NYT reports Erika was at the hospital; the host asserts she has confirmed for a fact that the mother was receiving treatment at a \"holistic clinic,\" not a hospital.",
@@ -735,15 +735,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-783",
-        "N-272",
-        "N-43"
+        "N-500",
+        "N-194",
+        "N-15"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10550",
-      "ref": "N-10550",
+      "@id": "N-10479",
+      "ref": "N-10479",
       "name": "Sept 7, 2025 Erika Instagram Post – Manipulation Question",
       "type": "investigation_target",
       "description": "The host asserts the post is exceptional in style (posting mother in vulnerable position, breaking a multi-year privacy pattern) and possibly deployed to preempt alibi scrutiny.",
@@ -759,13 +759,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-783"
+        "N-500"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10551",
-      "ref": "N-10551",
+      "@id": "N-10480",
+      "ref": "N-10480",
       "name": "Nimrod / Gilgamesh Remains Extraction Question",
       "type": "investigation_target",
       "description": "The host asserts that locals reported nighttime American digging and extraction operations at the tomb site; viewer email states tablets related to Nephilim/resurrection went missing from the museum after the raid.",
@@ -781,13 +781,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-885"
+        "N-553"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10552",
-      "ref": "N-10552",
+      "@id": "N-10481",
+      "ref": "N-10481",
       "name": "Babylon Military Camp Activities",
       "type": "investigation_target",
       "description": "Camp Alpha / coalition use of Babylon (April 2003 – December 2004); helicopter pad, sandbags filled with archaeological fragments, helicopter-induced roof collapse, museum looting; British Museum comparison to Great Pyramid / Stonehenge.",
@@ -809,8 +809,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10553",
-      "ref": "N-10553",
+      "@id": "N-10482",
+      "ref": "N-10482",
       "name": "Mikey McCoy Phone Call Sequence",
       "type": "investigation_target",
       "description": "NYT said the call came \"within seconds\"; host asserts Mikey called his wife first, then Erika three-plus minutes later, while adding her to a line already in progress.",
@@ -827,13 +827,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-272"
+        "N-194"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10554",
-      "ref": "N-10554",
+      "@id": "N-10483",
+      "ref": "N-10483",
       "name": "Erika's Mother Medical Narrative",
       "type": "investigation_target",
       "description": "Lyme disease (verified by prior Charlie conversation); Bella Hadid comparison; treatments described as 1–2 hour sessions at a center; reportedly two different clinics (one on Sept 8, one on Sept 10).",
@@ -849,15 +849,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-783",
-        "N-43",
-        "N-886"
+        "N-500",
+        "N-15",
+        "N-554"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10555",
-      "ref": "N-10555",
+      "@id": "N-10484",
+      "ref": "N-10484",
       "name": "Babylon Library / Tablet Loss Discrepancy",
       "type": "investigation_target",
       "description": "UN article acknowledges contents from Hammurabi and Nebuchadnezzar museums and the Babylon library/archive were stolen and destroyed; viewer email asserts tablets concerning reincarnation and the Nephilim were specifically excluded from what the military retrieved.",
@@ -875,7 +875,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-885"
+        "N-553"
       ]
     },
     {
@@ -906,13 +906,13 @@
         "A-1727.1"
       ],
       "related_nodes": [
-        "N-10550"
+        "N-10479"
       ],
       "tags": [],
       "claim_timestamp": "00:23:15",
       "investigative_direction": "Verify against archived Instagram data for Erika Kirk.",
       "mentions_person_refs": [
-        "N-783",
+        "N-500",
         "N-2"
       ]
     },
@@ -926,13 +926,13 @@
         "A-1727.2"
       ],
       "related_nodes": [
-        "N-10550"
+        "N-10479"
       ],
       "tags": [],
       "claim_timestamp": "00:24:00",
       "investigative_direction": "Obtain the original post screenshot/metadata and identify the countdown's intended referent.",
       "mentions_person_refs": [
-        "N-783",
+        "N-500",
         "N-2"
       ]
     },
@@ -946,15 +946,15 @@
         "A-1728.1"
       ],
       "related_nodes": [
-        "N-10549",
-        "N-10553"
+        "N-10478",
+        "N-10482"
       ],
       "tags": [],
       "claim_timestamp": "00:25:00",
       "investigative_direction": "Locate and quote the exact NYT passage to confirm wording.",
       "mentions_person_refs": [
-        "N-272",
-        "N-783",
+        "N-194",
+        "N-500",
         "N-2"
       ]
     },
@@ -968,14 +968,14 @@
         "A-1729.1"
       ],
       "related_nodes": [
-        "N-10551",
-        "N-10555"
+        "N-10480",
+        "N-10484"
       ],
       "tags": [],
       "claim_timestamp": "00:05:54",
       "investigative_direction": "Locate Robkea's published work (\"Babylon Rising\" et al.) and verify each factual component independently.",
       "mentions_person_refs": [
-        "N-885"
+        "N-553"
       ]
     },
     {
@@ -988,8 +988,8 @@
         "A-1730.1"
       ],
       "related_nodes": [
-        "N-10552",
-        "N-10555"
+        "N-10481",
+        "N-10484"
       ],
       "tags": [],
       "claim_timestamp": "00:10:51",
@@ -1005,7 +1005,7 @@
         "A-1730.2"
       ],
       "related_nodes": [
-        "N-10552"
+        "N-10481"
       ],
       "tags": [],
       "claim_timestamp": "00:11:55",
@@ -1021,7 +1021,7 @@
         "A-1730.3"
       ],
       "related_nodes": [
-        "N-10552"
+        "N-10481"
       ],
       "tags": [],
       "claim_timestamp": "00:10:51",
@@ -1037,13 +1037,13 @@
         "A-1731.1"
       ],
       "related_nodes": [
-        "N-10555"
+        "N-10484"
       ],
       "tags": [],
       "claim_timestamp": "00:09:00",
       "investigative_direction": "Locate the specific BBC report and confirm date.",
       "mentions_person_refs": [
-        "N-876"
+        "N-548"
       ]
     },
     {
@@ -1060,8 +1060,8 @@
       "claim_timestamp": "00:07:30",
       "investigative_direction": "Locate primary publications or institutional releases confirming the timeline.",
       "mentions_person_refs": [
-        "N-876",
-        "N-877"
+        "N-548",
+        "N-549"
       ]
     },
     {
@@ -1078,7 +1078,7 @@
       "claim_timestamp": "00:09:03",
       "investigative_direction": "Reference the UN Security Council record / transcript.",
       "mentions_person_refs": [
-        "N-882"
+        "N-550"
       ]
     },
     {
@@ -1095,7 +1095,7 @@
       "claim_timestamp": "00:39:16",
       "investigative_direction": "Locate the specific All Access clip for verification of exact wording.",
       "mentions_person_refs": [
-        "N-133"
+        "N-97"
       ]
     },
     {
@@ -1108,13 +1108,13 @@
         "A-1734.1"
       ],
       "related_nodes": [
-        "N-10553"
+        "N-10482"
       ],
       "tags": [],
       "claim_timestamp": "00:25:21",
       "investigative_direction": "Obtain call log records or corroborating witness / phone carrier metadata.",
       "mentions_person_refs": [
-        "N-272",
+        "N-194",
         "N-2"
       ]
     },
@@ -1128,15 +1128,15 @@
         "A-1735.1"
       ],
       "related_nodes": [
-        "N-10549",
-        "N-10554"
+        "N-10478",
+        "N-10483"
       ],
       "tags": [],
       "claim_timestamp": "00:26:30",
       "investigative_direction": "Obtain copies of the underlying text messages and verify the clinic vs. hospital distinction independently.",
       "mentions_person_refs": [
-        "N-43",
-        "N-783"
+        "N-15",
+        "N-500"
       ]
     },
     {
@@ -1153,8 +1153,8 @@
       "claim_timestamp": "00:46:39",
       "investigative_direction": "Verify via Delaware court records and contemporaneous news coverage.",
       "mentions_person_refs": [
-        "N-883",
-        "N-889"
+        "N-551",
+        "N-556"
       ]
     },
     {
@@ -1171,7 +1171,7 @@
       "claim_timestamp": "00:44:50",
       "investigative_direction": "Locate the tweet and verify exact wording and date.",
       "mentions_person_refs": [
-        "N-884"
+        "N-552"
       ]
     }
   ],

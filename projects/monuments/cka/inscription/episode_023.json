@@ -31,9 +31,9 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-45",
-            "N-302",
-            "N-10273"
+            "N-17",
+            "N-209",
+            "N-10207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -51,9 +51,9 @@
             "C-1545"
           ],
           "related_nodes": [
-            "N-45",
-            "N-302",
-            "N-10273"
+            "N-17",
+            "N-209",
+            "N-10207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -71,9 +71,9 @@
             "C-1545"
           ],
           "related_nodes": [
-            "N-45",
-            "N-302",
-            "N-10273"
+            "N-17",
+            "N-209",
+            "N-10207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -93,9 +93,9 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-272",
-            "N-10273",
-            "N-10277"
+            "N-194",
+            "N-10207",
+            "N-10211"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -114,7 +114,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10273"
+            "N-10207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -133,7 +133,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10273"
+            "N-10207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -152,8 +152,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10273",
-            "N-10277"
+            "N-10207",
+            "N-10211"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -172,8 +172,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10273",
-            "N-10277"
+            "N-10207",
+            "N-10211"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -193,7 +193,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10273"
+            "N-10207"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -219,9 +219,9 @@
             "C-1546"
           ],
           "related_nodes": [
-            "N-45",
-            "N-302",
-            "N-10274"
+            "N-17",
+            "N-209",
+            "N-10208"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -240,7 +240,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10274"
+            "N-10208"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -259,7 +259,7 @@
             "C-1550"
           ],
           "related_nodes": [
-            "N-10274"
+            "N-10208"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -279,7 +279,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10274"
+            "N-10208"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -306,8 +306,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-272",
-            "N-10277"
+            "N-194",
+            "N-10211"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -333,8 +333,8 @@
             "C-1547"
           ],
           "related_nodes": [
-            "N-272",
-            "N-10278"
+            "N-194",
+            "N-10212"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -360,9 +360,9 @@
             "C-1549"
           ],
           "related_nodes": [
-            "N-302",
-            "N-10275",
-            "N-10280"
+            "N-209",
+            "N-10209",
+            "N-10214"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -388,7 +388,7 @@
             "C-1564"
           ],
           "related_nodes": [
-            "N-10275"
+            "N-10209"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -406,8 +406,8 @@
             "C-1564"
           ],
           "related_nodes": [
-            "N-309",
-            "N-10275"
+            "N-212",
+            "N-10209"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -459,9 +459,9 @@
             "C-1565"
           ],
           "related_nodes": [
-            "N-45",
-            "N-302",
-            "N-10275"
+            "N-17",
+            "N-209",
+            "N-10209"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -480,7 +480,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10282"
+            "N-10215"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -507,11 +507,11 @@
             "C-1566"
           ],
           "related_nodes": [
-            "N-45",
-            "N-302",
-            "N-97",
-            "N-10275",
-            "N-10276"
+            "N-17",
+            "N-209",
+            "N-66",
+            "N-10209",
+            "N-10210"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -537,8 +537,8 @@
             "C-1558"
           ],
           "related_nodes": [
-            "N-308",
-            "N-10280"
+            "N-211",
+            "N-10214"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -567,7 +567,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10282"
+            "N-10215"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -593,8 +593,8 @@
             "C-1556"
           ],
           "related_nodes": [
-            "N-45",
-            "N-10279"
+            "N-17",
+            "N-10213"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -621,8 +621,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-65",
-            "N-10275"
+            "N-36",
+            "N-10209"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -650,8 +650,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-50",
-            "N-10275"
+            "N-22",
+            "N-10209"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -666,8 +666,8 @@
   "nodes": [
     {
       "@type": "Topic",
-      "@id": "N-10282",
-      "ref": "N-10282",
+      "@id": "N-10215",
+      "ref": "N-10215",
       "name": "SUBTT (Falcon 7X, Egyptian-registered) tracked into U.S. cities between 2022 and 2025, repeatedly landing in proximity t",
       "type": "topic",
       "description": "",
@@ -715,16 +715,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10273",
-        "N-10274",
-        "N-10275",
-        "N-10282"
+        "N-10207",
+        "N-10208",
+        "N-10209",
+        "N-10215"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-45",
-      "ref": "N-45",
+      "@id": "N-17",
+      "ref": "N-17",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Co-chair of TPUSA Faith per host; identified by host as Charlie's pastor; host links him to the Borderline Bar and Grill shooting community (Thousand Oaks, CA) and to Sean Feucht.",
@@ -746,15 +746,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-302",
-        "N-10275",
-        "N-10279"
+        "N-209",
+        "N-10209",
+        "N-10213"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Promoted to Chief of Staff of TPUSA on January 3, 2024 per host's referenced internal email; host reports TPUSA insiders describe him as positioned to take over from Charlie Kirk.",
@@ -772,13 +772,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10278"
+        "N-10212"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-302",
-      "ref": "N-302",
+      "@id": "N-209",
+      "ref": "N-209",
       "name": "Sean Feucht",
       "type": "person",
       "description": "TPUSA Faith contributor and Kingdom to the Capital Tour leader; subject of June 2025 article detailing fraud, embezzlement, and financial mismanagement allegations; reported to be planning a \"Courageous Christianity Tour\" with Rob McCoy honoring Charlie.",
@@ -801,15 +801,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-45",
-        "N-10275",
-        "N-10280"
+        "N-17",
+        "N-10209",
+        "N-10214"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "Speaker at TPUSA conference July 11, 2025, referencing Epstein, Israel, foreign military service, and Bill Ackman; per host, told by Charlie to \"go hard at Israel.\"",
@@ -827,13 +827,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-10275"
+        "N-10209"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Cited by host as someone who can confirm Netanyahu's offer to fund TPUSA.",
@@ -848,14 +848,14 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-65",
-        "N-10275"
+        "N-36",
+        "N-10209"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-97",
-      "ref": "N-97",
+      "@id": "N-66",
+      "ref": "N-66",
       "name": "Village Crazy Lady",
       "type": "person",
       "description": "X user (handle @VillageCrazyLady) conducting NAR / TPUSA Faith research; recommended by host as a follow.",
@@ -871,14 +871,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-302",
-        "N-10276"
+        "N-209",
+        "N-10210"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-65",
-      "ref": "N-65",
+      "@id": "N-36",
+      "ref": "N-36",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Israeli Prime Minister; per host and a referenced public statement, claimed he invited Charlie Kirk to Israel ~2 weeks before the assassination; per host, offered to fund TPUSA \"to the next level.\"",
@@ -896,14 +896,14 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-42",
-        "N-10275"
+        "N-14",
+        "N-10209"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-308",
-      "ref": "N-308",
+      "@id": "N-211",
+      "ref": "N-211",
       "name": "Joel Osteen",
       "type": "person",
       "description": "Pastor of referenced megachurch; used as comparative context in the host's broader cash / mega-church money-flow argument.",
@@ -919,13 +919,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10280"
+        "N-10214"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-309",
-      "ref": "N-309",
+      "@id": "N-212",
+      "ref": "N-212",
       "name": "Jack Hibbs",
       "type": "person",
       "description": "Pastor identified by host as having been previously pushed to her by PragerU; subject of a live-chat comment criticizing his silence on Charlie Kirk.",
@@ -941,13 +941,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10275"
+        "N-10209"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-310",
-      "ref": "N-310",
+      "@id": "N-213",
+      "ref": "N-213",
       "name": "Joe Kent",
       "type": "person",
       "description": "Named by host as a potential recipient of the public call to pull flight manifests.",
@@ -962,14 +962,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10273",
-        "N-10274"
+        "N-10207",
+        "N-10208"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10273",
-      "ref": "N-10273",
+      "@id": "N-10207",
+      "ref": "N-10207",
       "name": "SUBTT (Egyptian military aircraft) Flight Tracking Question",
       "type": "investigation_target",
       "description": "Persistent investigative target across 2022–2025 relating to the host's claim that the aircraft's itinerary repeatedly coincides with TPUSA, TPUSA Faith, and Charlie Kirk locations.",
@@ -997,15 +997,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-45",
-        "N-302",
-        "N-310"
+        "N-17",
+        "N-209",
+        "N-213"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10274",
-      "ref": "N-10274",
+      "@id": "N-10208",
+      "ref": "N-10208",
       "name": "SUBND (Egyptian military aircraft) Flight Tracking Question",
       "type": "investigation_target",
       "description": "Secondary Egyptian plane tracked by host; arrival/departure pattern around TPUSA / Charlie Kirk locations and post-assassination departure via Canada → Paris → Cairo.",
@@ -1027,13 +1027,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-310"
+        "N-213"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10275",
-      "ref": "N-10275",
+      "@id": "N-10209",
+      "ref": "N-10209",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
       "type": "investigation_target",
       "description": "Composite investigative target covering TPUSA Faith leadership (Rob McCoy, Sean Feucht), Tucker Carlson speech fallout, Netanyahu outreach, Jack Hibbs silence, and Village Crazy Lady NAR research.",
@@ -1062,21 +1062,21 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-45",
-        "N-302",
-        "N-70",
-        "N-50",
-        "N-42",
-        "N-65",
-        "N-309",
-        "N-10276",
-        "N-10278"
+        "N-17",
+        "N-209",
+        "N-41",
+        "N-22",
+        "N-14",
+        "N-36",
+        "N-212",
+        "N-10210",
+        "N-10212"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10276",
-      "ref": "N-10276",
+      "@id": "N-10210",
+      "ref": "N-10210",
       "name": "NAR (New Apostolic Reformation) Infiltration Question",
       "type": "investigation_target",
       "description": "Persistent investigative target initiated by host and Village Crazy Lady regarding NAR's connection to TPUSA Faith leadership.",
@@ -1092,15 +1092,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-302",
-        "N-97",
-        "N-10275"
+        "N-209",
+        "N-66",
+        "N-10209"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10277",
-      "ref": "N-10277",
+      "@id": "N-10211",
+      "ref": "N-10211",
       "name": "Lincoln, Nebraska TPUSA Chapter Origin Question",
       "type": "investigation_target",
       "description": "Investigative target arising from the SUBTT February 9, 2024 arrival in Lincoln and the subsequent UNL TPUSA chapter launch (date disputed between host and director Mark – see Flag on A-1303.1).",
@@ -1120,13 +1120,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-272"
+        "N-194"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10278",
-      "ref": "N-10278",
+      "@id": "N-10212",
+      "ref": "N-10212",
       "name": "TPUSA Financial Irregularities Question",
       "type": "investigation_target",
       "description": "Composite investigative target covering Mikey McCoy's promotion, host's claim that Charlie did not know the source of TPUSA funding, and the broader money-laundering framing.",
@@ -1143,15 +1143,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-272",
-        "N-10275",
-        "N-10280"
+        "N-194",
+        "N-10209",
+        "N-10214"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10279",
-      "ref": "N-10279",
+      "@id": "N-10213",
+      "ref": "N-10213",
       "name": "Rob McCoy / Tyler Bowyer Background Verification",
       "type": "investigation_target",
       "description": "Investigative target combining host's claims regarding Rob McCoy's connection to the Borderline Bar shooting and Tyler Bowyer's biography, internships, and Arizona political activity.",
@@ -1167,14 +1167,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-45",
-        "N-70"
+        "N-17",
+        "N-41"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10280",
-      "ref": "N-10280",
+      "@id": "N-10214",
+      "ref": "N-10214",
       "name": "Mega-Church / Cash / Real-Estate Money Flow Hypothesis",
       "type": "investigation_target",
       "description": "Investigative target arising from host's framing of cash-discovery patterns (Osteen), TPUSA Faith financial allegations (Feucht), and Mormon real-estate cash purchase patterns.",
@@ -1192,15 +1192,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-302",
-        "N-308",
-        "N-10278"
+        "N-209",
+        "N-211",
+        "N-10212"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-41",
+      "ref": "N-41",
       "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
@@ -1215,11 +1215,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-37",
-      "ref": "N-37",
+      "@id": "N-11",
+      "ref": "N-11",
       "name": "Tyler Bowyer",
       "type": "person",
-      "description": "Person Tyler Bowyer (N-37).",
+      "description": "Person Tyler Bowyer (N-11).",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -1230,8 +1230,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-98",
-      "ref": "N-98",
+      "@id": "N-67",
+      "ref": "N-67",
       "name": "Mark Herman (director, Candace show)",
       "type": "person",
       "description": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here he corrects the host's timeline in real time (\"Mark is saying that the Lincoln chapter was opened. I had that in the wrong date\"), moving the UNL TPUSA chapter launch to May 2025, and is asked to pull up tail-number flight data.",
@@ -1247,8 +1247,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-35",
-      "ref": "N-35",
+      "@id": "N-9",
+      "ref": "N-9",
       "name": "Jeffrey Epstein",
       "type": "person",
       "description": "Nucleus of Lutnick/Andre whistleblower thread and host's broader files thesis.",
@@ -1263,8 +1263,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-66",
-      "ref": "N-66",
+      "@id": "N-37",
+      "ref": "N-37",
       "name": "Bill Ackman",
       "type": "person",
       "description": "Named as boosting Pounds thread and as on Howard Hughes Inc board today.",
@@ -1313,14 +1313,14 @@
         "A-1301.9"
       ],
       "related_nodes": [
-        "N-10273"
+        "N-10207"
       ],
       "tags": [],
       "claim_timestamp": "00:05:35",
       "investigative_direction": "Pull official Flightradar / ADS-B archives for SUBTT across the cited dates; verify whether route and timing correlate with documented TPUSA / TPUSA Faith events as claimed.",
       "mentions_person_refs": [
         "N-1",
-        "N-45"
+        "N-17"
       ]
     },
     {
@@ -1336,7 +1336,7 @@
         "A-1302.4"
       ],
       "related_nodes": [
-        "N-10274"
+        "N-10208"
       ],
       "tags": [],
       "claim_timestamp": "00:09:38",
@@ -1355,13 +1355,13 @@
         "A-1304.1"
       ],
       "related_nodes": [
-        "N-10278"
+        "N-10212"
       ],
       "tags": [],
       "claim_timestamp": "00:20:27",
       "investigative_direction": "Obtain the referenced internal TPUSA email through open-source verification or insider corroboration; cross-check TPUSA organizational filings and HR records.",
       "mentions_person_refs": [
-        "N-272"
+        "N-194"
       ]
     },
     {
@@ -1374,15 +1374,15 @@
         "A-1303.1"
       ],
       "related_nodes": [
-        "N-10277"
+        "N-10211"
       ],
       "tags": [],
       "claim_timestamp": "00:20:57",
       "investigative_direction": "Re-examine the original Instagram post metadata (post date, capture date) to resolve the dating discrepancy between host and producer.",
       "mentions_person_refs": [
         "N-1",
-        "N-98",
-        "N-272"
+        "N-67",
+        "N-194"
       ]
     },
     {
@@ -1396,14 +1396,14 @@
         "A-1306.5"
       ],
       "related_nodes": [
-        "N-10275",
-        "N-10280"
+        "N-10209",
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:26:47",
       "investigative_direction": "Retrieve the cited article directly; confirm each enumerated allegation against underlying source documents and any subsequent legal filings.",
       "mentions_person_refs": [
-        "N-302"
+        "N-209"
       ]
     },
     {
@@ -1416,7 +1416,7 @@
         "A-1302.3"
       ],
       "related_nodes": [
-        "N-10274"
+        "N-10208"
       ],
       "tags": [],
       "claim_timestamp": "00:26:47",
@@ -1432,7 +1432,7 @@
         "A-1301.9"
       ],
       "related_nodes": [
-        "N-10273"
+        "N-10207"
       ],
       "tags": [],
       "claim_timestamp": "00:39:39",
@@ -1449,7 +1449,7 @@
         "A-1302.4"
       ],
       "related_nodes": [
-        "N-10274"
+        "N-10208"
       ],
       "tags": [],
       "claim_timestamp": "00:40:48",
@@ -1468,9 +1468,9 @@
         "A-1306.4"
       ],
       "related_nodes": [
-        "N-10273",
-        "N-10274",
-        "N-10275"
+        "N-10207",
+        "N-10208",
+        "N-10209"
       ],
       "tags": [],
       "claim_timestamp": "01:01:33",
@@ -1486,7 +1486,7 @@
         "A-1309.1"
       ],
       "related_nodes": [
-        "N-10282"
+        "N-10215"
       ],
       "tags": [],
       "claim_timestamp": "00:42:24",
@@ -1505,7 +1505,7 @@
         "A-1309.1"
       ],
       "related_nodes": [
-        "N-10282"
+        "N-10215"
       ],
       "tags": [],
       "claim_timestamp": "00:43:20",
@@ -1522,13 +1522,13 @@
         "A-1310.1"
       ],
       "related_nodes": [
-        "N-10279"
+        "N-10213"
       ],
       "tags": [],
       "claim_timestamp": "00:17:04",
       "investigative_direction": "Confirm event details against contemporaneous news coverage; verify any documented role of Rob McCoy as pastor to the shooter's family.",
       "mentions_person_refs": [
-        "N-45"
+        "N-17"
       ]
     },
     {
@@ -1541,14 +1541,14 @@
         "A-1311.1"
       ],
       "related_nodes": [
-        "N-10275"
+        "N-10209"
       ],
       "tags": [],
       "claim_timestamp": "00:37:15",
       "investigative_direction": "Locate the cited Netanyahu public statement (interview, press conference, or social-media post) and verify exact wording and date.",
       "mentions_person_refs": [
         "N-1",
-        "N-65"
+        "N-36"
       ]
     },
     {
@@ -1561,13 +1561,13 @@
         "A-1308.1"
       ],
       "related_nodes": [
-        "N-10280"
+        "N-10214"
       ],
       "tags": [],
       "claim_timestamp": "00:29:46",
       "investigative_direction": "Retrieve the underlying news article; verify the exact amount, date, and Osteen's official response.",
       "mentions_person_refs": [
-        "N-308"
+        "N-211"
       ]
     },
     {
@@ -1580,16 +1580,16 @@
         "A-1312.1"
       ],
       "related_nodes": [
-        "N-10275"
+        "N-10209"
       ],
       "tags": [],
       "claim_timestamp": "00:32:39",
       "investigative_direction": "Obtain the Tucker Carlson TPUSA July 11, 2025 speech (video / transcript) and verify each cited claim against his actual statements.",
       "mentions_person_refs": [
         "N-1",
-        "N-50",
-        "N-35",
-        "N-66"
+        "N-22",
+        "N-9",
+        "N-37"
       ]
     },
     {
@@ -1602,14 +1602,14 @@
         "A-1312.1"
       ],
       "related_nodes": [
-        "N-10275"
+        "N-10209"
       ],
       "tags": [],
       "claim_timestamp": "00:32:39",
       "investigative_direction": "Locate first-person testimony, contemporaneous social-media posts, or insider accounts corroborating the immediate post-speech confrontation.",
       "mentions_person_refs": [
         "N-1",
-        "N-50"
+        "N-22"
       ]
     },
     {
@@ -1623,7 +1623,7 @@
         "A-1309.1"
       ],
       "related_nodes": [
-        "N-10282"
+        "N-10215"
       ],
       "tags": [],
       "claim_timestamp": "00:59:11",
@@ -1642,15 +1642,15 @@
         "A-1311.1"
       ],
       "related_nodes": [
-        "N-10275"
+        "N-10209"
       ],
       "tags": [],
       "claim_timestamp": "00:37:15",
       "investigative_direction": "Obtain direct confirmation from Andrew Kolb (public statement, interview, or testimony) corroborating the funding-offer claim.",
       "mentions_person_refs": [
         "N-1",
-        "N-42",
-        "N-65"
+        "N-14",
+        "N-36"
       ]
     },
     {
@@ -1663,7 +1663,7 @@
         "A-1304.1"
       ],
       "related_nodes": [
-        "N-10278"
+        "N-10212"
       ],
       "tags": [],
       "claim_timestamp": "00:38:00",
@@ -1684,13 +1684,13 @@
         "A-1306.3"
       ],
       "related_nodes": [
-        "N-10275"
+        "N-10209"
       ],
       "tags": [],
       "claim_timestamp": "00:59:11",
       "investigative_direction": "Verify each named pastor / figure's public silence or statements in the period following September 10, 2025.",
       "mentions_person_refs": [
-        "N-309",
+        "N-212",
         "N-1"
       ]
     },
@@ -1704,14 +1704,14 @@
         "A-1306.5"
       ],
       "related_nodes": [
-        "N-10275"
+        "N-10209"
       ],
       "tags": [],
       "claim_timestamp": "01:01:33",
       "investigative_direction": "Verify the existence and details of any announced \"Courageous Christianity Tour\" through TPUSA Faith announcements, ticketing sites, or insider confirmations.",
       "mentions_person_refs": [
-        "N-45",
-        "N-302",
+        "N-17",
+        "N-209",
         "N-1"
       ]
     },
@@ -1725,16 +1725,16 @@
         "A-1307.1"
       ],
       "related_nodes": [
-        "N-10275",
-        "N-10276"
+        "N-10209",
+        "N-10210"
       ],
       "tags": [],
       "claim_timestamp": "00:13:18",
       "investigative_direction": "Pull and analyze Village Crazy Lady's pinned NAR research thread; cross-check Sean Feucht's biographical and ministry affiliations against NAR church networks and apostle affiliations.",
       "mentions_person_refs": [
-        "N-97",
-        "N-302",
-        "N-45"
+        "N-66",
+        "N-209",
+        "N-17"
       ]
     },
     {
@@ -1745,13 +1745,13 @@
       "claim": "The host states that Rob McCoy \"says, 'I was his pastor,'\" and characterizes Rob McCoy's pattern of proximity to mass-shooting events as suspect.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10279"
+        "N-10213"
       ],
       "tags": [],
       "claim_timestamp": "00:14:58",
       "investigative_direction": "Locate any public statement by Rob McCoy identifying himself as Charlie Kirk's pastor; verify the nature and duration of any pastoral relationship.",
       "mentions_person_refs": [
-        "N-45",
+        "N-17",
         "N-1"
       ]
     },

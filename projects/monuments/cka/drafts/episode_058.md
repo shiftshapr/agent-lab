@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: f2711e85e7a5dac6180d0330f718521458d116b136a35e9d84389c67776a7492
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-729, N-730, N-731, N-733, N-734, N-735, N-736, N-737, N-738, N-741, N-744, N-10488, N-10489, N-10490, N-10491, N-10492, N-10493, N-10494, N-10495
-  - Reused Nodes Appearing: N-43
+  - New Nodes Introduced: N-470, N-471, N-472, N-473, N-474, N-475, N-476, N-477, N-478, N-479, N-480, N-10417, N-10418, N-10419, N-10420, N-10421, N-10422, N-10423, N-10424
+  - Reused Nodes Appearing: N-15
   - (see registers)
 
 ## 2. Executive Summary
@@ -52,7 +52,7 @@ Video Timestamp: 00:03:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2108, C-2110, N-729, N-733, N-734, N-735, N-736, N-737, N-10488, N-10489*
+*Related: C-2108, C-2110, N-470, N-473, N-474, N-475, N-476, N-477, N-10417, N-10418*
 
 **A-1635.2** November Renaissance Kickstarter Campaign Page (Publicly Available Remnant)
 
@@ -62,7 +62,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2108, C-2109, C-2110, N-729, N-10489*
+*Related: C-2108, C-2109, C-2110, N-470, N-10418*
 
 **A-1635.3** Clayton Haugen Director Audio Clip (Nanotechnology / Mind-as-Hard-Drive Concept Pitch)
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:08:16–00:10:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2109, N-729, N-10489*
+*Related: C-2109, N-470, N-10418*
 
 ---
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:16:13–00:18:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2112, N-2, N-10490*
+*Related: C-2112, N-2, N-10419*
 
 ---
 
@@ -100,7 +100,7 @@ Video Timestamp: 00:18:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2113, N-2, N-10490*
+*Related: C-2113, N-2, N-10419*
 
 ---
 
@@ -114,7 +114,7 @@ Video Timestamp: 00:20:05–00:21:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2114, N-730, N-731, N-10492*
+*Related: C-2114, N-471, N-472, N-10421*
 
 **A-1638.2** Nelda Buckman Daily Wire Plus Interview (January 2026) on Relationship with Erika
 
@@ -124,7 +124,7 @@ Video Timestamp: 00:21:00–00:22:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2115, N-2, N-730, N-10492*
+*Related: C-2115, N-2, N-471, N-10421*
 
 **A-1638.3** Baron Coleman / "Mommy Sleuth" Plane Tracking Research (Charlie/Erika Plane Visiting New Braunfels TX and Idaho)
 
@@ -134,7 +134,7 @@ Video Timestamp: 00:18:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2117, N-2, N-10492*
+*Related: C-2117, N-2, N-10421*
 
 ---
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:21:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2116, N-730, N-10494*
+*Related: C-2116, N-471, N-10423*
 
 ---
 
@@ -162,7 +162,7 @@ Video Timestamp: 00:24:52–00:27:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2118, C-2119, N-730, N-10491*
+*Related: C-2118, C-2119, N-471, N-10420*
 
 ---
 
@@ -176,7 +176,7 @@ Video Timestamp: 00:36:23–00:39:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2118, N-293, N-10495*
+*Related: C-2118, N-205, N-10424*
 
 **A-1641.2** Nick Fuentes Follow-Up Clip Reframing Epstein Issue as "Political Blackmail" Rather Than Pedophilia
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:42:23–00:44:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2119, N-293, N-10495*
+*Related: C-2119, N-205, N-10424*
 
 ---
 
@@ -200,7 +200,7 @@ Video Timestamp: 00:53:05–00:55:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2120, N-744, N-10493*
+*Related: C-2120, N-480, N-10422*
 
 **A-1642.2** Sisbear Comment: Whistleblower Sabrina Wallace, DARPA Biosonar Testing on Children
 
@@ -210,14 +210,14 @@ Video Timestamp: 01:00:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-738, N-10493*
+*Related: N-478, N-10422*
 
 ---
 
 ## 4. Node Register
 
 
-**N-729** Clayton Haugen
+**N-470** Clayton Haugen
 
 Director of *November Renaissance*; military-affiliated individual cited as close to Erika during ~2010–2013 production era.
 
@@ -226,9 +226,9 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1635.1, A-1635.2, A-1635.3, C-2108, C-2109, C-2110, N-10489*
+*Related: A-1635.1, A-1635.2, A-1635.3, C-2108, C-2109, C-2110, N-10418*
 
-**N-730** Nelda Buckman
+**N-471** Nelda Buckman
 
 Major Turning Point USA donor; executive producer of *Identity Crisis*; affiliated with Courage House Nevada and National Angels foster-care work.
 
@@ -237,9 +237,9 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1638.1, A-1638.2, A-1639.1, A-1640.1, C-2114, C-2115, C-2116, C-2118, N-731, N-10491, N-10492, N-10494*
+*Related: A-1638.1, A-1638.2, A-1639.1, A-1640.1, C-2114, C-2115, C-2116, C-2118, N-472, N-10420, N-10421, N-10423*
 
-**N-731** Karl Buckman
+**N-472** Karl Buckman
 
 Co-donor with Nelda Buckman of $10 million to Turning Point USA; Florida campus named "Buckman Campus" after the gift.
 
@@ -248,9 +248,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1638.1, C-2114, N-730, N-10492*
+*Related: A-1638.1, C-2114, N-471, N-10421*
 
-**N-293** Nick Fuentes
+**N-205** Nick Fuentes
 
 Subject of episode segment two; on-air audio captures regarding Jeffrey Epstein / pedophilia framing.
 
@@ -259,9 +259,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1641.1, A-1641.2, C-2118, C-2119, N-334, N-741, N-10495*
+*Related: A-1641.1, A-1641.2, C-2118, C-2119, N-224, N-479, N-10424*
 
-**N-733** Don Frye
+**N-473** Don Frye
 
 *November Renaissance* cast; graduated high school in Sierra Vista and trained in judo at Fort Huachuca.
 
@@ -270,9 +270,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1635.1, C-2108, N-10488, N-10489*
+*Related: A-1635.1, C-2108, N-10417, N-10418*
 
-**N-734** Payton McCormick
+**N-474** Payton McCormick
 
 *November Renaissance* cast; granddaughter of Colonel Pete McCormick and daughter of Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.
 
@@ -281,9 +281,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1635.1, C-2108, N-10488, N-10489*
+*Related: A-1635.1, C-2108, N-10417, N-10418*
 
-**N-735** Chantel Thuy
+**N-475** Chantel Thuy
 
 *November Renaissance* cast; identified host-stated connection to Fort Huachuca and stated father worked in AI for IBM.
 
@@ -292,9 +292,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1635.1, C-2108, N-10489*
+*Related: A-1635.1, C-2108, N-10418*
 
-**N-736** Price Mitchum
+**N-476** Price Mitchum
 
 *November Renaissance* cast; host notes subject of a 5150 psych hold.
 
@@ -303,9 +303,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1635.1, C-2108, N-10489*
+*Related: A-1635.1, C-2108, N-10418*
 
-**N-737** Priscilla Ann Nu'ul
+**N-477** Priscilla Ann Nu'ul
 
 Name flagged as uncertainty – referenced in same sentence as "Miss Teen USA 2006" in cast discussion; relationship to other cast members unclear from transcript.
 
@@ -314,9 +314,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1635.1, C-2108, N-10489*
+*Related: A-1635.1, C-2108, N-10418*
 
-**N-738** Sabrina Wallace
+**N-478** Sabrina Wallace
 
 Whistleblower mentioned in read-aloud comment (Sisbear) as alleging DARPA biosonar testing on children in 1980s–1990s.
 
@@ -325,9 +325,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1642.2, N-10493*
+*Related: A-1642.2, N-10422*
 
-**N-334** Milo Yiannopoulos
+**N-224** Milo Yiannopoulos
 
 Referenced as informer to Nick Fuentes the night before Jan 6 about alleged federal trap.
 
@@ -336,9 +336,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2123, N-293, N-10495*
+*Related: C-2123, N-205, N-10424*
 
-**N-741** Ferris Wilks
+**N-479** Ferris Wilks
 
 Referenced re: Nick Fuentes pitching sale of follower data to Defend Texas Liberty.
 
@@ -347,9 +347,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-2122, N-293, N-10495*
+*Related: C-2122, N-205, N-10424*
 
-**N-204** Marjorie Taylor Greene
+**N-148** Marjorie Taylor Greene
 
 Referenced in Fuentes clip re: framing of Epstein case as "female victims."
 
@@ -358,9 +358,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-293, N-10495*
+*Related: N-205, N-10424*
 
-**N-744** Nika
+**N-480** Nika
 
 Reader-comment author; self-identifies as "gate kid" with memory blackout ages 4–10 at Fort Hood, attendance at schools linked via Aspen Education Group.
 
@@ -369,9 +369,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1642.1, C-2120, N-10493*
+*Related: A-1642.1, C-2120, N-10422*
 
-**N-552** Baron Coleman
+**N-337** Baron Coleman
 
 Investigator cited as having done significant plane-tracking work.
 
@@ -380,9 +380,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1638.3, C-2117, N-10492*
+*Related: A-1638.3, C-2117, N-10421*
 
-**N-413** Mommy Sleuth (Nellie)
+**N-269** Mommy Sleuth (Nellie)
 
 Anonymous reader credited with Courage House Nevada and plane-tracking research.
 
@@ -391,11 +391,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1638.3, A-1640.1, C-2117, C-2118, N-10491, N-10492*
+*Related: A-1638.3, A-1640.1, C-2117, C-2118, N-10420, N-10421*
 
 ---
 
-**N-10488** Fort Huachuca Erika Presence Investigation
+**N-10417** Fort Huachuca Erika Presence Investigation
 
 Persistent investigation into whether Erika was present at Fort Huachuca on or around September 9 (the day before Charlie's assassination) and her broader familiarity with the base.
 
@@ -404,9 +404,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1635.1, A-1635.2, C-2108, C-2111, N-2, N-729, N-733, N-734*
+*Related: A-1635.1, A-1635.2, C-2108, C-2111, N-2, N-470, N-473, N-474*
 
-**N-10489** November Renaissance Film Production Investigation
+**N-10418** November Renaissance Film Production Investigation
 
 Investigation into the unreleased short film *November Renaissance*, its Fort Huapuca-affiliated cast and crew, its plot content (nanotechnology, corporate proxies), and Erika's reported role as "Evelyn Mathis."
 
@@ -415,9 +415,9 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1635.1, A-1635.2, A-1635.3, C-2108, C-2109, C-2110, N-729, N-733, N-734, N-735, N-736, N-737*
+*Related: A-1635.1, A-1635.2, A-1635.3, C-2108, C-2109, C-2110, N-470, N-473, N-474, N-475, N-476, N-477*
 
-**N-10490** Erika China Residence Discrepancy
+**N-10419** Erika China Residence Discrepancy
 
 Contradiction between Erika's on-air statement that she "lived in China" working with child sex-trafficking victims and Turning Point executive Justin Stripe's statement that she never lived there.
 
@@ -428,7 +428,7 @@ Investigative Pressure: High
 
 *Related: A-1636.1, A-1637.1, C-2112, C-2113, N-2*
 
-**N-10491** Courage House Nevada Investigation
+**N-10420** Courage House Nevada Investigation
 
 Investigation into the 40-acre Washoe County psychiatric residential treatment facility for child sex-trafficking survivors, its confidential location, capacity for 18 children, and Nelda Buckman's reported role as largest donor.
 
@@ -437,9 +437,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1640.1, C-2118, C-2119, N-730, N-413*
+*Related: A-1640.1, C-2118, C-2119, N-471, N-269*
 
-**N-10492** Buckman–TPUSA Donor Relationship Investigation
+**N-10421** Buckman–TPUSA Donor Relationship Investigation
 
 Investigation into the $10 million Buckman gift, Florida campus renaming, plane access, and Nelda Buckman's described post-assassination closeness with Erika.
 
@@ -448,9 +448,9 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1638.1, A-1638.2, A-1638.3, C-2114, C-2115, C-2117, N-730, N-731, N-552, N-413*
+*Related: A-1638.1, A-1638.2, A-1638.3, C-2114, C-2115, C-2117, N-471, N-472, N-337, N-269*
 
-**N-10493** GATE / Gifted Education Program Investigation
+**N-10422** GATE / Gifted Education Program Investigation
 
 Investigation into gifted-and-talented / "Extraordinary Learners" programs, DoD-connected youth programs (Aspen Education Group schools), and reported memory blackout / surveillance phenomena among self-identified alumni.
 
@@ -459,9 +459,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1642.1, A-1642.2, C-2120, N-738, N-744*
+*Related: A-1642.1, A-1642.2, C-2120, N-478, N-480*
 
-**N-10494** Identity Crisis Documentary Production Investigation
+**N-10423** Identity Crisis Documentary Production Investigation
 
 Investigation into the 2024 *Identity Crisis* documentary, its Daily Wire / Turning Point USA co-production, and Nelda Buckman's role as executive producer.
 
@@ -470,9 +470,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1639.1, C-2116, N-730*
+*Related: A-1639.1, C-2116, N-471*
 
-**N-10495** Nick Fuentes Federal Informant Allegation
+**N-10424** Nick Fuentes Federal Informant Allegation
 
 Persistent host allegation that Nick Fuentes operates as a federal informant, with new artifact support in this episode (audio clips re: Epstein / pedophilia framing).
 
@@ -481,7 +481,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1641.1, A-1641.2, C-2118, C-2119, C-2121, C-2122, C-2123, N-293, N-334, N-741, N-204*
+*Related: A-1641.1, A-1641.2, C-2118, C-2119, C-2121, C-2122, C-2123, N-205, N-224, N-479, N-148*
 
 ---
 
@@ -494,9 +494,9 @@ Claim Timestamp: 00:03:23–00:05:24
 Claim: Multiple identified members of the *November Renaissance* cast – including Clayton Haugen, Don Frye, Payton McCormick, Chantel Thuy, and Price Mitchum – have documented connections to Fort Huachuca, U.S. military service, or defense contracting.
 
 Anchored Artifacts: A-1635.1, A-1635.2
-Mentions: N-729, N-733, N-734, N-735, N-736, N-737
+Mentions: N-470, N-473, N-474, N-475, N-476, N-477
 
-Related Nodes: N-10488, N-10489
+Related Nodes: N-10417, N-10418
 
 Investigative Direction: Obtain independent verification of military service records for named cast members and cross-reference Fort Huachuca duty rosters.
 
@@ -509,9 +509,9 @@ Claim Timestamp: 00:08:16–00:10:12
 Claim: The publicly described plot of *November Renaissance* involves nanotechnology, a mind-as-hard-drive concept, and corporate-proxy black operations conducted on behalf of financial institutions and governments.
 
 Anchored Artifacts: A-1635.2, A-1635.3
-Mentions: N-729
+Mentions: N-470
 
-Related Nodes: N-10489
+Related Nodes: N-10418
 
 Investigative Direction: Obtain and archive the full Kickstarter campaign text and director pitch video to preserve the complete concept description.
 
@@ -524,9 +524,9 @@ Claim Timestamp: 00:05:24
 Claim: A remnant of the *November Renaissance* Kickstarter campaign publicly identifies Erika as having been cast in the role of "Evelyn Mathis."
 
 Anchored Artifacts: A-1635.2
-Mentions: N-2, N-729
+Mentions: N-2, N-470
 
-Related Nodes: N-10489
+Related Nodes: N-10418
 
 Investigative Direction: Archive the Kickstarter remnant directly and verify the character name against any backup poster or campaign screenshots.
 
@@ -541,7 +541,7 @@ Claim: Three individuals with Fort Huachuca affiliation – including one curren
 Anchored Artifacts: A-1635.1 (poster corroborates familiarity), A-1642.1 (related commenter testimony pattern)
 Mentions: N-2
 
-Related Nodes: N-10488
+Related Nodes: N-10417
 
 Investigative Direction: Obtain sworn statements or on-record confirmation from each of the three named individuals and cross-reference against base access logs.
 
@@ -558,7 +558,7 @@ Claim: On a podcast, Erika stated she "was living in China and doing a lot of wo
 Anchored Artifacts: A-1636.1
 Mentions: N-2
 
-Related Nodes: N-10490
+Related Nodes: N-10419
 
 Investigative Direction: Identify and archive the original podcast episode; obtain dated publication and transcript; verify whether "living" is Erika's exact word or paraphrase.
 
@@ -573,7 +573,7 @@ Claim: Turning Point USA executive Justin Stripe replied to Candace Owens that E
 Anchored Artifacts: A-1637.1
 Mentions: N-2, N-3
 
-Related Nodes: N-10490
+Related Nodes: N-10419
 
 Investigative Direction: Obtain the direct message or email text from Justin Stripe; if Stripe confirms on-record, request documentation of Erika's travel records during the disputed period.
 
@@ -581,13 +581,13 @@ Investigative Direction: Obtain the direct message or email text from Justin Str
 
 Claim Timestamp: 00:18:47
 
-Claim: C-2113 spells the executive's name 'Justin Stripe' (auto-caption form). The executive is Justin Strife (N-43). He replied to Candace Owens that Erika never lived in China and that she only went on a trip for a couple of weeks to see the Great Wall of China.
+Claim: C-2113 spells the executive's name 'Justin Stripe' (auto-caption form). The executive is Justin Strife (N-15). He replied to Candace Owens that Erika never lived in China and that she only went on a trip for a couple of weeks to see the Great Wall of China.
 
 Transcript Snippet: And he replied that she never lived in China.
 
 Anchored Artifacts: A-1637.1
-Mentions: N-43, N-2, N-3
-Related Nodes: N-10490
+Mentions: N-15, N-2, N-3
+Related Nodes: N-10419
 Revises: C-2113
 Confidence: medium
 Investigative Direction: Read with C-2113; request the reply under the corrected spelling Justin Strife.
@@ -601,9 +601,9 @@ Claim Timestamp: 00:20:05–00:21:00
 Claim: Karl and Nelda Buckman gave a $10 million gift to Turning Point USA – described as the largest in the organization's history – and the Florida campus was renamed the "Buckman campus" in connection with the donation.
 
 Anchored Artifacts: A-1638.1
-Mentions: N-730, N-731
+Mentions: N-471, N-472
 
-Related Nodes: N-10492
+Related Nodes: N-10421
 
 Investigative Direction: Obtain Daily Wire's article text and any Turning Point USA press release; verify gift amount and naming date against 990 filings or press archives.
 
@@ -616,9 +616,9 @@ Claim Timestamp: 00:21:00–00:22:00
 Claim: In a January 2026 Daily Wire Plus interview, Nelda Buckman described a close post-assassination relationship with Erika, including a private meeting in Florida ahead of America Fest and a dedication ceremony, and stated that Buckman offered Erika "personal support" about navigating her role as a single mother leading Turning Point.
 
 Anchored Artifacts: A-1638.2
-Mentions: N-2, N-730
+Mentions: N-2, N-471
 
-Related Nodes: N-10492
+Related Nodes: N-10421
 
 Investigative Direction: Obtain the full Daily Wire Plus interview text; verify date and any documentation of the Florida meeting.
 
@@ -631,9 +631,9 @@ Claim Timestamp: 00:21:46
 Claim: Nelda Buckman is an executive producer of *Identity Crisis*, a 2024 documentary on gender announced on stage by Ben Shapiro as a Daily Wire / Turning Point USA collaboration.
 
 Anchored Artifacts: A-1639.1
-Mentions: N-730, N-133
+Mentions: N-471, N-97
 
-Related Nodes: N-10494
+Related Nodes: N-10423
 
 Investigative Direction: Verify Buckman's credit against the film's production filings (e.g., IMDb, registered producer credits, copyright registrations).
 
@@ -646,9 +646,9 @@ Claim Timestamp: 00:18:20
 Claim: Baron Coleman and a "mommy sleuth" investigator reported that the plane formerly used by Charlie and now appearing to be Erika's has visited New Braunfels, Texas and a location in Idaho; host states these locations correspond to top Turning Point USA donors.
 
 Anchored Artifacts: A-1638.3
-Mentions: N-2, N-413, N-552
+Mentions: N-2, N-269, N-337
 
-Related Nodes: N-10492
+Related Nodes: N-10421
 
 Investigative Direction: Obtain tail-number records and cross-reference flight logs (ADS-B / FlightAware) against donor locations.
 
@@ -661,9 +661,9 @@ Claim Timestamp: 00:36:23–00:39:06
 Claim: In a clip aired on the episode, Nick Fuentes stated regarding Jeffrey Epstein that "it isn't really pedophilia" because "they weren't trafficking 5-year-olds, it was like they were technically not legal" and characterized the victims as "barely legal teens."
 
 Anchored Artifacts: A-1641.1
-Mentions: N-293, N-35
+Mentions: N-205, N-9
 
-Related Nodes: N-10495
+Related Nodes: N-10424
 
 Investigative Direction: Obtain the unedited source clip with timestamp and channel identification to verify wording and context.
 
@@ -676,9 +676,9 @@ Claim Timestamp: 00:42:23–00:44:18
 Claim: In a follow-up clip aired on the episode, Nick Fuentes stated the Epstein story is "not satanic pedophilia cult stuff" but "run-of-the-mill prostitution and sex trafficking but for an international political purpose" and dismissed it as "Dateline" rather than a "human interest story."
 
 Anchored Artifacts: A-1641.2
-Mentions: N-293
+Mentions: N-205
 
-Related Nodes: N-10495
+Related Nodes: N-10424
 
 Investigative Direction: Obtain unedited source clip and verify the framing in the original Fuentes broadcast context.
 
@@ -691,9 +691,9 @@ Claim Timestamp: 00:53:05–00:55:26
 Claim: A commenter identifying as "Nika" and as a "gate kid" reports a "total memory blackout from ages 4 to 10," the exact years stationed at Fort Hood, and that after the Army she was "shuffled through four different schools" connected to the DoD through the Aspen Education Group, naming Turnabout Ranch (Escalante, UT), New Horizons Academy (Marion, IN – closed for abuse), Missanabie Woods Academy (Canada), Darlington (Rome, GA), and a Texas school.
 
 Anchored Artifacts: A-1642.1
-Mentions: N-744
+Mentions: N-480
 
-Related Nodes: N-10493
+Related Nodes: N-10422
 
 Investigative Direction: Verify Aspen Education Group corporate lineage; obtain Nika's FOIA records if available; cross-reference named schools against public abuse litigation.
 
@@ -706,8 +706,8 @@ Claim Timestamp: 00:39:06
 Claim: The host asserts that Nick Fuentes led people into the Capitol with a bullhorn, told them to ignore police and storm the barriers as if acting on federal instructions, and was not arrested, which she offers as evidence that he is a federal informant.
 Transcript Snippet: He led people into a capital with a bullhorn and said ignore police storm the barriers as if he had fed like he he had fed instructions
 Anchored Artifacts: 
-Mentions: N-293
-Related Nodes: N-10495
+Mentions: N-205
+Related Nodes: N-10424
 Confidence: medium
 Investigative Direction: Obtain footage of the Capitol breach the host describes and charging records for Fuentes; document whether he entered restricted grounds and why no charge followed.
 
@@ -719,8 +719,8 @@ Claim Timestamp: 00:39:06
 Claim: The host says Nick Fuentes took a meeting with Defend Texas Liberty and Ferris Wilks' partner and, according to documents a reporter obtained, pitched selling the data of his followers.
 Transcript Snippet: he took a meeting with Defend Texas Liberty and Ferris Wilks' partner and pitched they actually one reporter got documents was pitching to sell the data of his followers
 Anchored Artifacts: 
-Mentions: N-293, N-741
-Related Nodes: N-10495
+Mentions: N-205, N-479
+Related Nodes: N-10424
 Confidence: medium
 Investigative Direction: Identify the reporter and obtain the documents; confirm the meeting date, attendees and the data-sale pitch.
 
@@ -732,8 +732,8 @@ Claim Timestamp: 00:39:06
 Claim: The host says it is known "for a fact" that Milo Yiannopoulos informed Nick Fuentes the night before he led people into the Capitol that a federal trap was happening, and that Fuentes still went with a bullhorn.
 Transcript Snippet: we know for a fact he was informed the night before the night before by Milo Yiannopoulos. That the feds were going to be that there was there was some fed trap happening
 Anchored Artifacts: 
-Mentions: N-293, N-334
-Related Nodes: N-10495
+Mentions: N-205, N-224
+Related Nodes: N-10424
 Confidence: medium
 Investigative Direction: Locate Yiannopoulos's own statement about the warning the host says he gave Fuentes the night before, and any messages corroborating it.
 
@@ -745,7 +745,7 @@ Claim Timestamp: 00:16:13
 Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
 Transcript Snippet: ...nors to Turning Point USA or and shout out to the mommy sleuth who did the work. The way they figured that out, I'm telling you these mommy sleuth hit different....
 Anchored Artifacts: 
-Mentions: N-3, N-413
+Mentions: N-3, N-269
 Related Nodes: 
 Confidence: high
 Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified.

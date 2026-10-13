@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 1ddb949014d21abea78d5fe7320464c1e305ba976511e526905ea0ce305924f1
 
 - **Episode Ledger Summary**:
- - New Nodes Introduced: N-11116, N-11117, N-11118, N-11119, N-11120, N-11121, N-11122, N-11123
- - Reused Nodes Appearing: N-37, N-685
- - Hole-minted Nodes (wave3): N-808, N-809
+ - New Nodes Introduced: N-10717, N-10718, N-10719, N-10720, N-10721, N-10722, N-10723, N-10724
+ - Reused Nodes Appearing: N-11, N-440
+ - Hole-minted Nodes (wave3): N-516, N-517
  - (see registers)
 
 ---
@@ -33,7 +33,7 @@
  - Artifact Families Introduced: A-2138, A-2139, A-2140, A-2141, A-2142, A-2143, A-2144, A-2145
  - Claim Range: C-3027–C-3041
  - New Nodes Introduced (People): none (Wave 2: local ids removed)
- - New Nodes Introduced (Investigation Targets): N-11116, N-11117, N-11118, N-11119, N-11120, N-11121, N-11122, N-11123
+ - New Nodes Introduced (Investigation Targets): N-10717, N-10718, N-10719, N-10720, N-10721, N-10722, N-10723, N-10724
  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -72,7 +72,7 @@ Video Timestamp: 00:08:30–00:12:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3027, N-11116, N-11117, N-809*
+*Related: C-3027, N-10717, N-10718, N-517*
 
 **A-2139.2** Filomena Testimony on Communication to FBI/ATF Discontinuing Testing
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:09:25–00:11:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3028, N-11117, N-809*
+*Related: C-3028, N-10718, N-517*
 
 ---
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:15:25–00:18:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3029, N-11116*
+*Related: C-3029, N-10717*
 
 **A-2140.2** Witness Description of Shooter Attire and Firearm
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:19:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3034, N-11118*
+*Related: C-3034, N-10719*
 
 ---
 
@@ -130,7 +130,7 @@ Video Timestamp: 00:22:01–00:23:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3032, N-11116*
+*Related: C-3032, N-10717*
 
 ---
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:07:20–00:08:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3035, N-11119*
+*Related: C-3035, N-10720*
 
 ---
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:29:15–00:31:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3036 [corrected: see C-3037], N-11123*
+*Related: C-3036 [corrected: see C-3037], N-10724*
 
 **A-2143.2** Comperatore Statement on Secret Service One-Year Delay
 
@@ -168,7 +168,7 @@ Video Timestamp: 00:31:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3038, N-11123*
+*Related: C-3038, N-10724*
 
 ---
 
@@ -182,7 +182,7 @@ Video Timestamp: 00:34:37–00:39:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3039, C-3040, N-11121*
+*Related: C-3039, C-3040, N-10722*
 
 ---
 
@@ -196,7 +196,7 @@ Video Timestamp: 00:02:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3041, N-1, N-11122*
+*Related: C-3041, N-1, N-10723*
 
 ---
 
@@ -204,26 +204,26 @@ Confidence Level: High
 
 
 
-**N-809** Jennifer Faumuina
+**N-517** Jennifer Faumuina
 
 First named by the host at 00:08:30 in episode 126. Aliases: Jennifer Filomena, Jennifer Felomina, Jennifer Faumina.
 
 *Related: C-3027, C-3028, A-2139.1, A-2139.2*
 
-**N-808** Nate Walker
+**N-516** Nate Walker
 
 First named by the host at 00:03:16 in episode 126.
 
 *Related: C-3036, A-2138.1*
 
-**N-685** Brad Parscale
+**N-440** Brad Parscale
 
 Named by the host at 00:34:37 in episode 126; first introduced in episode 99.
 
 *Related: C-3039, C-3040*
 
 
-**N-11116** Losee Center–Library Route Discrepancy
+**N-10717** Losee Center–Library Route Discrepancy
 
 Investigative target: the geographic and testimonial claim that items/persons near the Fulton Library are linked to a "route" from Losee Center despite distance.
 
@@ -236,7 +236,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11117** Abandoned Tactical Items Testing Discontinued
+**N-10718** Abandoned Tactical Items Testing Discontinued
 
 Investigative target: the FBI/ATF lab decision to halt DNA/other analysis on the abandoned backpack, jacket, gloves (and up to 9 items).
 
@@ -249,7 +249,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11118** Prosecution Non-Call of Rooftop Eyewitness
+**N-10719** Prosecution Non-Call of Rooftop Eyewitness
 
 Investigative target: the absence of the rooftop eyewitness from the prosecution's witness list despite recorded video and filed report.
 
@@ -262,7 +262,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11119** Bank of America Network Connection
+**N-10720** Bank of America Network Connection
 
 Investigative target: recurring Bank of America/Merrill Lynch consultancy or employment ties among figures in the investigation orbit (Tyler Bowyer's father, Frank Turek, others).
 
@@ -271,11 +271,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2142.1, C-3035, N-37*
+*Related: A-2142.1, C-3035, N-11*
 
 ---
 
-**N-11120** Comperatore "Inside Job" Allegation
+**N-10721** Comperatore "Inside Job" Allegation
 
 Investigative target: Helen Comperatore's on-record assertion that Butler shooting involved an inside collaborator with Thomas Crooks.
 
@@ -284,11 +284,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2143.1, C-3037, N-11123*
+*Related: A-2143.1, C-3037, N-10724*
 
 ---
 
-**N-11121** Clock Tower X / Israeli Influence Operation
+**N-10722** Clock Tower X / Israeli Influence Operation
 
 Investigative target: Brad Parscale's firm contracted by Israeli foreign ministry for digital influence campaign; Time-reported failure and cost figures.
 
@@ -301,7 +301,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11122** Carhartt "Freedom Shirt" Origin
+**N-10723** Carhartt "Freedom Shirt" Origin
 
 Investigative target: provenance of the custom Carhartt shirt worn by Charlie on Sept 10; absence of Carhartt as documented TPUSA vendor.
 
@@ -314,7 +314,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-11123** Butler Shooting Insider Involvement Claim
+**N-10724** Butler Shooting Insider Involvement Claim
 
 Investigative target: Helen Comperatore's claim that Butler shooting involved an "inside" collaborator and her appeal to President Trump.
 
@@ -323,11 +323,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2143.1, A-2143.2, C-3037, C-3038, N-11120*
+*Related: A-2143.1, A-2143.2, C-3037, C-3038, N-10721*
 
 ---
 
-**N-37** Tyler Bowyer
+**N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -345,8 +345,8 @@ Claim Timestamp: 00:08:30
 Claim: Sergeant Filomena testified that officers canvassing the scene seized unattended items – including a backpack, jacket, and gloves – near the Folsom (Fulton) Library bus stop.
 
 Anchored Artifacts: A-2139.1
-Mentions: N-809
-Related Nodes: N-11116, N-11117
+Mentions: N-517
+Related Nodes: N-10717, N-10718
 Investigative Direction: Obtain hearing transcript or video exhibits to verify item count (three vs. nine) and chain of custody.
 
 ---
@@ -358,8 +358,8 @@ Claim Timestamp: 00:09:25
 Claim: Sergeant Filomena acknowledged that items were sent to the FBI lab and that UVU eventually communicated to the lab that the items were not connected to the case and required no further testing.
 
 Anchored Artifacts: A-2139.2
-Mentions: N-809
-Related Nodes: N-11117
+Mentions: N-517
+Related Nodes: N-10718
 Investigative Direction: Obtain FBI/ATF lab correspondence and UVU communications log for the testing discontinuation instruction.
 
 ---
@@ -371,7 +371,7 @@ Claim Timestamp: 00:16:09
 Claim: The anonymous eyewitness recorded on September 25 that the rooftop person executed a tactical movement pattern (rising/lowering in 6-foot increments) over approximately 30 seconds before assuming the prone shooting position.
 
 Anchored Artifacts: A-2140.1
-Related Nodes: N-11116
+Related Nodes: N-10717
 Investigative Direction: Compare witness description to rooftop video exhibits and to expert definitions of Individual Movement Technique (IMT).
 
 ---
@@ -383,7 +383,7 @@ Claim Timestamp: 00:18:26
 Claim: The anonymous eyewitness described the rooftop person as wearing all-black tactical gear with a face mask; could not determine race because skin was covered.
 
 Anchored Artifacts: A-2140.2
-Related Nodes: N-11116
+Related Nodes: N-10717
 Investigative Direction: Cross-reference with police scanner descriptions and the 911 call (A-2141.1); obtain witness's filed written report.
 
 ---
@@ -407,7 +407,7 @@ Claim Timestamp: 00:22:01
 Claim: A 911 caller reported a person on the building on the far north side, just east of the library, wearing jeans, black shirt, black vest, and a black mask, carrying a long rifle.
 
 Anchored Artifacts: A-2141.1
-Related Nodes: N-11116
+Related Nodes: N-10717
 Investigative Direction: Obtain full 911 transcript and dispatch records for the library area to verify caller statement and subsequent library lockdown.
 
 ---
@@ -419,7 +419,7 @@ Claim Timestamp: 00:19:08
 Claim: Host states that initial police scanner traffic described a person in a face mask and tactical gear, contrasting with subsequent federal narrative claims of jeans-only attire.
 
 Anchored Artifacts: (verbally referenced police scanner; not displayed as audio artifact in episode)
-Related Nodes: N-11116
+Related Nodes: N-10717
 Investigative Direction: Obtain police scanner audio archive and CAD logs from Sept 10 to verify initial dispatch descriptions.
 
 *Note: This claim is supported by host assertion referencing scanner but no displayed audio artifact was shown; recorded as host concurrence claim per read/display rule analog. Flag: requires verification.*
@@ -433,7 +433,7 @@ Claim Timestamp: 00:14:25
 Claim: The eyewitness was contacted by federal authorities only once, a few days after the incident, and has never been called as a prosecution witness despite being willing to testify.
 
 Anchored Artifacts: A-2140.3
-Related Nodes: N-11118
+Related Nodes: N-10719
 Investigative Direction: Obtain prosecution witness list for Tyler Robinson trial; confirm whether witness was subpoenaed or deposed.
 
 ---
@@ -445,8 +445,8 @@ Claim Timestamp: 00:07:20
 Claim: Per Christian Post article (2011), Dr. Frank Turek was a consultant to Bank of America for approximately 15 years conducting leadership and team-building programs until being fired in 2011.
 
 Anchored Artifacts: A-2142.1
-Mentions: N-16
-Related Nodes: N-11119
+Mentions: N-7
+Related Nodes: N-10720
 Investigative Direction: Verify Bank of America consultancy records and corroborate the 2011 firing and stated reason.
 
 *Flag: Transcript records host as stating "Frank Cherico" while the read article names "Dr. Frank Turek" – possible transcription error or verbal name mix.*
@@ -460,8 +460,8 @@ Claim Timestamp: 00:03:16
 Claim: Nate Walker, Charlie's executive assistant, told Megyn Kelly that Charlie requested the "freedom shirt" from a small selection brought to the event because it "wasn't controversial"; Walker could not recall other shirt options.
 
 Anchored Artifacts: A-2138.1
-Mentions: N-1, N-75, N-808
-Related Nodes: N-11122
+Mentions: N-1, N-46, N-516
+Related Nodes: N-10723
 Investigative Direction: Obtain full Megyn Kelly interview and any prior on-record statements by Walker.
 
 ---
@@ -473,7 +473,7 @@ Claim Timestamp: 00:29:15
 Claim: Helen Comperatore stated on NewsNation that she believes the Butler shooter Thomas Crooks was working with someone inside the government, describing it as "an inside job."
 
 Anchored Artifacts: A-2143.1
-Related Nodes: N-11120, N-11123
+Related Nodes: N-10721, N-10724
 Investigative Direction: Obtain full NewsNation interview; identify any specific evidence references Comperatore cited ("I've been told things").
 
 ---
@@ -485,7 +485,7 @@ Claim Timestamp: 00:31:50
 Claim: Per host reporting on NewsNation interview, Helen Comperatore stated that Secret Service did not contact her until a year after the Butler incident and did not fully answer her questions.
 
 Anchored Artifacts: A-2143.2
-Related Nodes: N-11123
+Related Nodes: N-10724
 Investigative Direction: Obtain NewsNation transcript and verify Secret Service contact timeline with the Comperatore family.
 
 ---
@@ -497,8 +497,8 @@ Claim Timestamp: 00:34:37
 Claim: Time magazine reported that the Brad Parscale / Clock Tower X digital influence campaign on behalf of the Israeli foreign ministry backfired and failed to achieve its intended impact.
 
 Anchored Artifacts: A-2144.1
-Mentions: N-685
-Related Nodes: N-11121
+Mentions: N-440
+Related Nodes: N-10722
 Investigative Direction: Obtain Time article in full; verify spend figures and named individuals (e.g., Eyal Yakoby).
 
 ---
@@ -510,8 +510,8 @@ Claim Timestamp: 00:35:39
 Claim: Per Time article reporting, the Israeli foreign ministry's contracted digital campaign via Clock Tower X was reportedly spending approximately $1.5 million per day.
 
 Anchored Artifacts: A-2144.1
-Mentions: N-685
-Related Nodes: N-11121
+Mentions: N-440
+Related Nodes: N-10722
 Investigative Direction: Verify the $1.5M/day figure against the Time article text and any underlying contracts/filings cited.
 
 ---
@@ -524,7 +524,7 @@ Claim: Host displays a photo showing Charlie Kirk wearing a customized Carhartt 
 
 Anchored Artifacts: A-2145.1
 Mentions: N-1
-Related Nodes: N-11122
+Related Nodes: N-10723
 Investigative Direction: Identify the vendor/contractor who produced the custom Carhartt shirt and the authorization chain for the custom order.
 
 ---
@@ -548,5 +548,5 @@ Investigative Direction: Identify the vendor/contractor who produced the custom 
 - **Artifact Families Introduced:** A-2138, A-2139, A-2140, A-2141, A-2142, A-2143, A-2144, A-2145
 - **Claim Range:** C-3027–C-3041
 - **New Nodes Introduced (People):** none (Wave 2: local ids removed)
-- **New Nodes Introduced (Investigation Targets):** N-11116, N-11117, N-11118, N-11119, N-11120, N-11121, N-11122, N-11123
+- **New Nodes Introduced (Investigation Targets):** N-10717, N-10718, N-10719, N-10720, N-10721, N-10722, N-10723, N-10724
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk)

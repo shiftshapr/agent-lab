@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 0c6891ad36263abc11507dbd0ee8c311c57724a7637f1dad75f8f5da6bc40c1e
 
 - **Episode Ledger Summary**:
- - New Nodes Introduced: N-11148, N-11149, N-11150, N-11151, N-11152
- - Hole-minted Nodes (wave3): N-845
- - Reused Nodes Appearing: none (Wave 2: local ids removed), N-777, N-787
+ - New Nodes Introduced: N-10749, N-10750, N-10751, N-10752, N-10753
+ - Hole-minted Nodes (wave3): N-538
+ - Reused Nodes Appearing: none (Wave 2: local ids removed), N-498, N-503
  - (see registers)
 
 ## I. Meta-Data
@@ -31,7 +31,7 @@
  - Artifact Families Introduced: A-2189, A-2190, A-2191, A-2192, A-2193, A-2194, A-2195, A-2196, A-2197
  - Claim Range: C-3138–C-3149
  - New People Nodes: none (Wave 2: local ids removed)
- - New Investigation Target Nodes: N-11148, N-11149, N-11150, N-11151
+ - New Investigation Target Nodes: N-10749, N-10750, N-10751, N-10752
  - Existing Nodes Reused: Charlie Kirk, Candace Owens, Erica Kirk, Andrew Kolvet, Brian Harpole, Rick Cutler, Justin Davis, Harris Faulkner, Tyler Robinson, Benjamin Netanyahu, Donald Trump, Lindsey Graham
 
 ---
@@ -81,7 +81,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "Again, this is none of your business, you vile witch."
 
-*Related: C-3140, N-11150*
+*Related: C-3140, N-10751*
 
 ---
 
@@ -96,7 +96,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "Can my children have one thing? Everything was public. We will be building the most beautiful memorial for my husband at Turning Point USA, and it will be for the world to see, and it will be spectacular… But can I have one thing? Can my babies have one thing where we hold it sacred, where my husband is laid to rest…"
 
-*Related: C-3141, Erica Kirk (existing node), Harris Faulkner (existing node), N-11150*
+*Related: C-3141, Erica Kirk (existing node), Harris Faulkner (existing node), N-10751*
 
 ---
 
@@ -163,7 +163,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "LOL. No, can confirm I'm not in D.C. Same is true for our in-house lawyer and CMO. While we're at it, Candace claimed I was in D.C. on January 29th meeting with top brass and that I staged some elaborate pre-record with Kash Patel. Also false. I would check your source, Candace. Oh, that's right, you don't check your sources."
 
-*Related: C-3145, Andrew Kolvet (existing node), N-11151, Donald Trump (existing node)*
+*Related: C-3145, Andrew Kolvet (existing node), N-10752, Donald Trump (existing node)*
 
 ---
 
@@ -204,7 +204,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "Forcing someone to sign an NDA to attend their own son's funeral is the most diabolical thing that I've ever heard."
 
-*Related: N-11148 (cross-reference for investigation cluster regarding Twitch family)*
+*Related: N-10749 (cross-reference for investigation cluster regarding Twitch family)*
 
 **A-2196.3** Comment from Robin Phillips
 
@@ -237,7 +237,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "His wedding ring isn't on his finger in the casket."
 
-*Related: C-3148, Charlie Kirk (existing node), N-11152 (wedding ring recovery status – to be inscribed if introduced as investigation target)*
+*Related: C-3148, Charlie Kirk (existing node), N-10753 (wedding ring recovery status – to be inscribed if introduced as investigation target)*
 
 **A-2196.6** Comment from Alaska Dog Lady
 
@@ -297,26 +297,26 @@ Confidence Level: Low
 
 Excerpt: "The call did in fact take place… it lasted anywhere from 3 to 5 minutes… someone phones 911 and then did not engage with the 911 operator… The phone sounds as though it's dropped… what was captured rather on this call is quote, 'We got him. Uh we are taking him to the hospital.'… 'Get that off of him.'… 'Get out of the way.'…"
 
-*Related: C-3149, N-11149, Brian Harpole (existing node), Charlie Kirk (existing node), N-777, N-787*
+*Related: C-3149, N-10750, Brian Harpole (existing node), Charlie Kirk (existing node), N-498, N-503*
 
 ---
 
 ## IV. Node Register
 
-**N-845** Pastor Russell
+**N-538** Pastor Russell
 
 First named by the host at 00:23:26 in episode 132. Aliases: Pastor Russ.
 
 *Related: C-3142*
 
 
-**N-11152** Andrew Kolvet X Post and Community Note Bundle
+**N-10753** Andrew Kolvet X Post and Community Note Bundle
 
 Node Type: topic
 
 *Related:*
 
-**N-11148** Amaro Resignation Cause
+**N-10749** Amaro Resignation Cause
 
 Persistent investigation target. Utah Chief Medical Examiner Dr. Deidra Amaro resigned in 2026-07 with no official reason provided. Resignation coincides with reported broader resignations across UVU and police departments attributed by host to a "general sense of corruption."
 
@@ -327,7 +327,7 @@ Investigative Pressure: Medium
 
 *Related: C-3147 (verbal-only host assertion)*
 
-**N-11149** 911 Call Content Discrepancy
+**N-10750** 911 Call Content Discrepancy
 
 Persistent investigation target. Host reports a "solid tip" alleging that a 911 call from Charlie's security team during transport to the hospital lasted 3–5 minutes, included phrases "We got him. We are taking him to the hospital" and "Get that off of him," and was purged from released call records. No primary audio, transcript, or record request response displayed.
 
@@ -336,9 +336,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2197.1, C-3149, Charlie Kirk (existing node), Brian Harpole (existing node), N-777, N-787*
+*Related: A-2197.1, C-3149, Charlie Kirk (existing node), Brian Harpole (existing node), N-498, N-503*
 
-**N-11150** Charlie Kirk Cremation/Burial Status Verification
+**N-10751** Charlie Kirk Cremation/Burial Status Verification
 
 Persistent investigation target. Host publicly raised whether Charlie Kirk was cremated; both Blake Neff and Erika Kirk publicly refused to confirm. Host cites Charlie's prior stated preference against cremation. No primary documentation of burial/cremation status displayed.
 
@@ -349,7 +349,7 @@ Investigative Pressure: Medium
 
 *Related: A-2190.1, A-2191.1, C-3140, C-3141, Charlie Kirk (existing node), Erica Kirk (existing node)*
 
-**N-11151** TPUSA White House Meeting Coordination with Netanyahu Trip
+**N-10752** TPUSA White House Meeting Coordination with Netanyahu Trip
 
 Persistent investigation target. Host's source claims Kolvet, in-house lawyer, and CMO Marina Medvin were scheduled to travel to the White House on a day coinciding with Netanyahu's Washington DC visit. Kolvet publicly denied. No corroborating visitor logs or schedules displayed.
 
@@ -371,7 +371,7 @@ Claim Timestamp: 00:06:57
 Claim: Andrew Kolvet, in a public X post, asserted he had no idea whether the text messages shared by Candace Owens were authentic, framing any assumed-real release as an "evil thing" and as Candace "weaponizing" Charlie's private messages.
 
 Anchored Artifacts: A-2189.1
-Mentions: N-42, N-3
+Mentions: N-14, N-3
 Related Nodes:
 Investigative Direction: Obtain independent forensic verification of the disputed messages and compare against Kolvet's stated inability to confirm.
 
@@ -393,8 +393,8 @@ Claim Timestamp: 00:09:42
 Claim: Blake Neff, in a public X post, used the phrase "vile witch" directed at Candace Owens in response to her question about whether Charlie Kirk was cremated.
 
 Anchored Artifacts: A-2190.1
-Mentions: N-3, N-1, N-224
-Related Nodes: N-11150
+Mentions: N-3, N-1, N-162
+Related Nodes: N-10751
 Investigative Direction: Confirm the original post remains accessible and document its publication time and any subsequent edits or deletions.
 
 **C-3141** Erika Kirk publicly requested "one thing" remain sacred about Charlie's burial
@@ -405,7 +405,7 @@ Claim: Erika Kirk, in a Fox News interview with Harris Faulkner, publicly reques
 
 Anchored Artifacts: A-2191.1
 Mentions: N-1, N-2
-Related Nodes: N-11150
+Related Nodes: N-10751
 Investigative Direction: Confirm the interview air date, obtain the full transcript, and verify the exact exchange against subsequent statements about a Turning Point USA memorial.
 
 **C-3142** Pastor Russell denounced named political opponents in sermon
@@ -415,7 +415,7 @@ Claim Timestamp: 00:24:17
 Claim: Pastor Russell, preaching at Pursuit Church in a sermon connected to Erika Kirk's Make Heaven Crowded tour, denounced "vitriolic Jew haters, white nationalist, anti-semites, or Muslim-funded ex-Fox News personalities" and framed himself as finishing Charlie Kirk's foundation.
 
 Anchored Artifacts: A-2192.2
-Mentions: N-1, N-2, N-845
+Mentions: N-1, N-2, N-538
 Related Nodes:
 Investigative Direction: Verify the sermon date, obtain the full recording, and confirm the institutional affiliation between Pursuit Church and Turning Point Faith.
 
@@ -448,8 +448,8 @@ Claim Timestamp: 00:32:55
 Claim: Andrew Kolvet, in an X post, denied that he, the TPUSA in-house lawyer, or CMO Marina Medvin were in Washington DC, and additionally denied a prior host claim that he had been in DC on January 29 meeting top brass and staging a pre-record with Kash Patel.
 
 Anchored Artifacts: A-2194.1
-Mentions: N-42, N-102
-Related Nodes: N-11151
+Mentions: N-14, N-69
+Related Nodes: N-10752
 Investigative Direction: Cross-reference with White House visitor logs (subject to release), publicly verifiable schedules, and the host's claimed source corroboration.
 
 **C-3146** Devante West Instagram account mocked contemporary Christianese
@@ -471,7 +471,7 @@ Claim: Candace Owens claims an exclusive report that Dr. Deidra Amaro resigned f
 
 Anchored Artifacts: None displayed in this episode (host verbal assertion only)
 Mentions: N-3
-Related Nodes: N-11148
+Related Nodes: N-10749
 Investigative Direction: Obtain primary source confirmation from the Utah Department of Health, official press release, or public records. Flag as "Artifact verbally referenced but not shown" and "Requires human verification."
 
 **C-3148** Host asserts wedding ring observed falling from Charlie Kirk's finger in casket footage
@@ -493,7 +493,7 @@ Claim: Candace Owens reports receiving a "solid tip" that a 911 call placed by C
 
 Anchored Artifacts: A-2197.1
 Mentions: N-3
-Related Nodes: N-11149
+Related Nodes: N-10750
 Investigative Direction: File records requests for the underlying 911 audio and CAD records; cross-reference against any released call logs; verify the identity of the caller and whether the call was logged as abandoned. Flag as "Artifact verbally referenced but not shown" and "Requires human verification."
 
 ---
@@ -524,8 +524,8 @@ Confidence: high
 - **Artifact verbally referenced but not shown – Text messages between Candace and Charlie:** The messages themselves are referenced as having been shared publicly and as the subject of A-2189.1 and A-2189.2, but the underlying text content is not displayed in this episode.
 - **Transcript ambiguity – A-2192.1 / A-2192.2:** Pastor Russell is described in the host's surrounding commentary as "Erika's favorite pastor" with an affiliation implied to Turning Point Faith; this affiliation is not stated in the artifact itself.
 - **Possible transcription error – A-2196.3:** Comment "Andrew Colvin" likely refers to Andrew Kolvet; transcription preserved verbatim with flag for reconciliation.
-- **Requires human verification – N-11149:** 911 call content, identity of caller, and alleged purge from released records all require official records-request confirmation.
-- **Requires human verification – N-11151:** TPUSA White House visit claim relies on host's uncorroborated source versus Kolvet's denial; visitor logs would be dispositive if obtainable.
+- **Requires human verification – N-10750:** 911 call content, identity of caller, and alleged purge from released records all require official records-request confirmation.
+- **Requires human verification – N-10752:** TPUSA White House visit claim relies on host's uncorroborated source versus Kolvet's denial; visitor logs would be dispositive if obtainable.
 
 ---
 
@@ -537,8 +537,8 @@ Confidence: high
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
 - [x] Each top-level artifact ID represents one evidentiary family
-- [x] People nodes use the global people ledger (new IDs N-10207+ for new entities)
-- [x] Non-person investigation targets use the 1000 series starting at N-11148
+- [x] People nodes use the global people ledger (new IDs N-10141+ for new entities)
+- [x] Non-person investigation targets use the 1000 series starting at N-10749
 - [x] Speculative or rhetorical assertions inscribed as claims only where flagged
 - [x] Names preserved exactly or uncertainty noted
 - [x] Formatting consistent across registers

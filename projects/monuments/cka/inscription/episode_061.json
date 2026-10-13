@@ -40,12 +40,12 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-776",
-            "N-70",
-            "N-10503",
-            "N-10504",
-            "N-10506",
-            "N-10507"
+            "N-497",
+            "N-41",
+            "N-10432",
+            "N-10433",
+            "N-10435",
+            "N-10436"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -72,9 +72,9 @@
             "C-2167"
           ],
           "related_nodes": [
-            "N-443",
-            "N-10503",
-            "N-10504"
+            "N-283",
+            "N-10432",
+            "N-10433"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -104,9 +104,9 @@
             "C-2175"
           ],
           "related_nodes": [
-            "N-770",
-            "N-771",
-            "N-772"
+            "N-491",
+            "N-492",
+            "N-493"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -133,10 +133,10 @@
             "C-2177"
           ],
           "related_nodes": [
-            "N-770",
-            "N-771",
-            "N-772",
-            "N-773"
+            "N-491",
+            "N-492",
+            "N-493",
+            "N-494"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -162,9 +162,9 @@
             "C-2178"
           ],
           "related_nodes": [
-            "N-774",
-            "N-775",
-            "N-776"
+            "N-495",
+            "N-496",
+            "N-497"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -188,7 +188,7 @@
           "description": "Two-woman British-accent reaction clip directed at Brooklyn Beckham (\"go to bed,\" \"put it down\"), played on-air",
           "related_claims": [],
           "related_nodes": [
-            "N-770"
+            "N-491"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -215,8 +215,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-774",
-            "N-775"
+            "N-495",
+            "N-496"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -244,7 +244,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-10508"
+            "N-10437"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -259,8 +259,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-443",
-      "ref": "N-443",
+      "@id": "N-283",
+      "ref": "N-283",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Comedian whose on-air assessment that TPUSA is primarily motivated by money is read into the episode record and adopted by the host.",
@@ -279,8 +279,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-770",
-      "ref": "N-770",
+      "@id": "N-491",
+      "ref": "N-491",
       "name": "Brooklyn Beckham",
       "type": "person",
       "description": "Source of the Instagram Stories artifact detailing family estrangement allegations.",
@@ -302,14 +302,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-771",
-        "N-772"
+        "N-492",
+        "N-493"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-771",
-      "ref": "N-771",
+      "@id": "N-492",
+      "ref": "N-492",
       "name": "Nicola Peltz",
       "type": "person",
       "description": "Spouse of Brooklyn Beckham; central figure in the wedding-dress and brand-rights grievance as recounted via A-1663.1.",
@@ -326,15 +326,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-770",
-        "N-772",
-        "N-45"
+        "N-491",
+        "N-493",
+        "N-17"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-772",
-      "ref": "N-772",
+      "@id": "N-493",
+      "ref": "N-493",
       "name": "Victoria Beckham",
       "type": "person",
       "description": "Mother of Brooklyn Beckham; subject of multiple allegations in Brooklyn's IG stories and a participant in the Vogue-reported wedding timeline.",
@@ -353,13 +353,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-770"
+        "N-491"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-773",
-      "ref": "N-773",
+      "@id": "N-494",
+      "ref": "N-494",
       "name": "David Beckham",
       "type": "person",
       "description": "Father of Brooklyn Beckham; appears in the Vogue article's account of the wedding speeches.",
@@ -373,14 +373,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-770",
-        "N-772"
+        "N-491",
+        "N-493"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-774",
-      "ref": "N-774",
+      "@id": "N-495",
+      "ref": "N-495",
       "name": "Blake Lively",
       "type": "person",
       "description": "Named party in the Baldoni litigation; text-message correspondent with Taylor Swift per A-1665.1.",
@@ -398,14 +398,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-775",
-        "N-776"
+        "N-496",
+        "N-497"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-775",
-      "ref": "N-775",
+      "@id": "N-496",
+      "ref": "N-496",
       "name": "Justin Baldoni",
       "type": "person",
       "description": "Named party in the Lively litigation; subject of Taylor Swift's December 2024 text per A-1665.1.",
@@ -421,14 +421,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-774",
-        "N-776"
+        "N-495",
+        "N-497"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-776",
-      "ref": "N-776",
+      "@id": "N-497",
+      "ref": "N-497",
       "name": "Taylor Swift",
       "type": "person",
       "description": "Correspondent in the released text messages and subject of the host's strategic assessment.",
@@ -445,14 +445,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-774",
-        "N-775"
+        "N-495",
+        "N-496"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-45",
-      "ref": "N-45",
+      "@id": "N-17",
+      "ref": "N-17",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Figure associated with TPUSA Faith; named by host as defending a person convicted of child molestation.",
@@ -468,13 +468,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10507"
+        "N-10436"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Spokesperson-adjacent TPUSA figure referenced by host as a candidate for a future on-air appearance and as a recipient of allegedly self-incriminating messages. Name spelling uncertain – transcript shows \"Kovat,\" \"Kovette,\" and \"Kovat\" variants.",
@@ -488,13 +488,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10503"
+        "N-10432"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-43",
-      "ref": "N-43",
+      "@id": "N-15",
+      "ref": "N-15",
       "name": "Justin Strife",
       "type": "person",
       "description": "TPUSA executive reported by host as participating in a sit-down with Owens and Erica Kirk to discuss Owens's allegations. First-name spelling uncertain.",
@@ -509,13 +509,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-10503"
+        "N-10432"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-264",
-      "ref": "N-264",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Stacy Sheridan",
       "type": "person",
       "description": "TPUSA figure named in host's call for donations to TPUSA.",
@@ -527,13 +527,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10503"
+        "N-10432"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10503",
-      "ref": "N-10503",
+      "@id": "N-10432",
+      "ref": "N-10432",
       "name": "TPUSA Non-Disparagement Enforcement Campaign",
       "type": "investigation_target",
       "description": "Persistent effort by Turning Point USA to invoke a 12-month post-termination non-disparagement clause to silence Owens's investigation-related commentary.",
@@ -559,17 +559,17 @@
       "related_nodes": [
         "N-1",
         "N-2",
-        "N-776",
-        "N-70",
-        "N-42",
-        "N-43",
-        "N-264"
+        "N-497",
+        "N-41",
+        "N-14",
+        "N-15",
+        "N-190"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10504",
-      "ref": "N-10504",
+      "@id": "N-10433",
+      "ref": "N-10433",
       "name": "TPUSA Financial Impropriety Allegations",
       "type": "investigation_target",
       "description": "Persistent allegation that TPUSA engaged in financial impropriety, formally cited in the cease and desist letter and attributed by host to DOGE-style scrutiny.",
@@ -587,13 +587,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10505"
+        "N-10434"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10505",
-      "ref": "N-10505",
+      "@id": "N-10434",
+      "ref": "N-10434",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
       "type": "investigation_target",
       "description": "Host's claim that Charlie Kirk established a \"DOGE\" (Department of Government Efficiency-style entity) seven days before his death, framed as a possible motive for financial scrutiny.",
@@ -610,13 +610,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-10504"
+        "N-10433"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10506",
-      "ref": "N-10506",
+      "@id": "N-10435",
+      "ref": "N-10435",
       "name": "Fort Wuka Erika Kirk Location Investigation",
       "type": "investigation_target",
       "description": "Persistent allegation referenced in the cease and desist letter that Owens claims Erika Kirk was present at or near a \"secret meeting\" at Fort Wuka linked to the Kirk assassination.",
@@ -638,8 +638,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10507",
-      "ref": "N-10507",
+      "@id": "N-10436",
+      "ref": "N-10436",
       "name": "TPUSA Faith Military Infiltration Claim",
       "type": "investigation_target",
       "description": "Allegation cited in the TPUSA letter – that Owens claimed TPUSA and TPUSA Faith were infiltrated by military operatives.",
@@ -656,13 +656,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-45"
+        "N-17"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10508",
-      "ref": "N-10508",
+      "@id": "N-10437",
+      "ref": "N-10437",
       "name": "Aspen Donor Recall Verification",
       "type": "investigation_target",
       "description": "Verification target arising from an unnamed Aspen-event donor's recollection, relayed by host, that Charlie Kirk referenced Erica Kirk as someone who would \"know what to do\" if something happened.",
@@ -716,8 +716,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-41",
+      "ref": "N-41",
       "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
@@ -758,7 +758,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10503"
+        "N-10432"
       ],
       "tags": [],
       "claim_timestamp": "00:01:13",
@@ -779,7 +779,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10503"
+        "N-10432"
       ],
       "tags": [],
       "claim_timestamp": "00:14:10–00:15:10",
@@ -799,7 +799,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10506"
+        "N-10435"
       ],
       "tags": [],
       "claim_timestamp": "00:13:00–00:14:10",
@@ -818,13 +818,13 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10507"
+        "N-10436"
       ],
       "tags": [],
       "claim_timestamp": "00:12:24–00:13:19",
       "investigative_direction": "Identify the specific personnel Owens considers \"military operatives\" and determine whether any verifiable affiliation exists.",
       "mentions_person_refs": [
-        "N-45"
+        "N-17"
       ]
     },
     {
@@ -837,7 +837,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10504"
+        "N-10433"
       ],
       "tags": [],
       "claim_timestamp": "00:10:50–00:11:31",
@@ -853,8 +853,8 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10503",
-        "N-10504"
+        "N-10432",
+        "N-10433"
       ],
       "tags": [],
       "claim_timestamp": "00:10:50–00:11:31",
@@ -873,7 +873,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10503"
+        "N-10432"
       ],
       "tags": [],
       "claim_timestamp": "00:09:53–00:10:50",
@@ -889,7 +889,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10503"
+        "N-10432"
       ],
       "tags": [],
       "claim_timestamp": "00:08:25–00:09:12",
@@ -905,14 +905,14 @@
         "A-1662.1"
       ],
       "related_nodes": [
-        "N-10503",
-        "N-10504"
+        "N-10432",
+        "N-10433"
       ],
       "tags": [],
       "claim_timestamp": "00:04:39",
       "investigative_direction": "Identify the original Tim Dylan episode and timestamp for the quoted clip.",
       "mentions_person_refs": [
-        "N-443"
+        "N-283"
       ]
     },
     {
@@ -926,14 +926,14 @@
         "A-1662.1"
       ],
       "related_nodes": [
-        "N-10503",
-        "N-10504"
+        "N-10432",
+        "N-10433"
       ],
       "tags": [],
       "claim_timestamp": "00:04:39–00:06:17",
       "investigative_direction": "Track whether TPUSA's subsequent filings cite financial damages as a measurable injury.",
       "mentions_person_refs": [
-        "N-443",
+        "N-283",
         "N-3"
       ]
     },
@@ -947,7 +947,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10503"
+        "N-10432"
       ],
       "tags": [],
       "claim_timestamp": "00:06:17–00:07:37",
@@ -963,7 +963,7 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10503"
+        "N-10432"
       ],
       "tags": [],
       "claim_timestamp": "00:06:17–00:07:37",
@@ -979,13 +979,13 @@
         "A-1661.1"
       ],
       "related_nodes": [
-        "N-10507"
+        "N-10436"
       ],
       "tags": [],
       "claim_timestamp": "00:12:24–00:13:19",
       "investigative_direction": "Identify the specific individual and case to which Owens refers.",
       "mentions_person_refs": [
-        "N-45"
+        "N-17"
       ]
     },
     {
@@ -1002,8 +1002,8 @@
       "claim_timestamp": "00:34:18",
       "investigative_direction": "Obtain the original Stories frames before deletion if preservation has not yet occurred.",
       "mentions_person_refs": [
-        "N-770",
-        "N-772"
+        "N-491",
+        "N-493"
       ]
     },
     {
@@ -1020,9 +1020,9 @@
       "claim_timestamp": "00:36:14–00:37:33",
       "investigative_direction": "Obtain any contemporaneous communications or receipts relevant to the dress commission timeline.",
       "mentions_person_refs": [
-        "N-770",
-        "N-771",
-        "N-772"
+        "N-491",
+        "N-492",
+        "N-493"
       ]
     },
     {
@@ -1039,9 +1039,9 @@
       "claim_timestamp": "00:36:14–00:37:33",
       "investigative_direction": "Identify and obtain any proposed trademark or brand-rights agreements between Beckham family entities and Brooklyn Beckham dated to the wedding window.",
       "mentions_person_refs": [
-        "N-770",
-        "N-772",
-        "N-773"
+        "N-491",
+        "N-493",
+        "N-494"
       ]
     },
     {
@@ -1058,8 +1058,8 @@
       "claim_timestamp": "00:38:22",
       "investigative_direction": "Identify any wedding guests who can corroborate or rebut the alleged remark.",
       "mentions_person_refs": [
-        "N-770",
-        "N-772"
+        "N-491",
+        "N-493"
       ]
     },
     {
@@ -1077,8 +1077,8 @@
       "claim_timestamp": "00:40:27–00:41:23",
       "investigative_direction": "Compare the IG-stories allegation against the Vogue article's documented dance sequence, which describes a separate first dance to \"Only Fools Rush In\" preceding the alleged late-night incident.",
       "mentions_person_refs": [
-        "N-770",
-        "N-772"
+        "N-491",
+        "N-493"
       ]
     },
     {
@@ -1095,10 +1095,10 @@
       "claim_timestamp": "00:42:09–00:43:16",
       "investigative_direction": "Cross-reference with the original Vogue article text and any available wedding video.",
       "mentions_person_refs": [
-        "N-770",
-        "N-771",
-        "N-772",
-        "N-773"
+        "N-491",
+        "N-492",
+        "N-493",
+        "N-494"
       ]
     },
     {
@@ -1115,8 +1115,8 @@
       "claim_timestamp": "00:42:09–00:43:16",
       "investigative_direction": "Verify the 11 p.m. start time against any video of Marc Anthony's set, and identify any contemporaneous social media posts by attendees.",
       "mentions_person_refs": [
-        "N-770",
-        "N-771"
+        "N-491",
+        "N-492"
       ]
     },
     {
@@ -1133,9 +1133,9 @@
       "claim_timestamp": "00:28:30–00:29:09",
       "investigative_direction": "Obtain the full unredacted text thread exhibits from the Baldoni–Lively litigation docket.",
       "mentions_person_refs": [
-        "N-774",
-        "N-775",
-        "N-776"
+        "N-495",
+        "N-496",
+        "N-497"
       ]
     },
     {
@@ -1152,8 +1152,8 @@
       "claim_timestamp": "00:29:09",
       "investigative_direction": "Obtain the specific Sony executive text-message exhibits from the litigation record.",
       "mentions_person_refs": [
-        "N-774",
-        "N-775"
+        "N-495",
+        "N-496"
       ]
     },
     {
@@ -1166,7 +1166,7 @@
         "A-1667.1"
       ],
       "related_nodes": [
-        "N-10503"
+        "N-10432"
       ],
       "tags": [],
       "claim_timestamp": "00:58:55",
@@ -1186,7 +1186,7 @@
         "A-1668.1"
       ],
       "related_nodes": [
-        "N-10508"
+        "N-10437"
       ],
       "tags": [],
       "claim_timestamp": "00:58:55",

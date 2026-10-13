@@ -17,8 +17,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1146, A-1147, A-1148, A-1149, A-1150, A-1151, A-1152, A-1153, A-1154, A-2518
   - Claim Range: C-1245-C-1266, C-3727
-  - New Nodes Introduced: N-135, N-136, N-137, N-138, N-144, N-145, N-10158, N-10159, N-10160, N-10161, N-10162, N-10163, N-10164, N-10165, N-10166, N-10167, N-10168, N-10169, N-10170, N-10171, N-10172, N-10173, N-10174
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-42, N-50, N-66, N-69, N-71, N-5, N-92, N-102, N-110, N-111, N-112, N-134, N-10000, N-10077, N-10125, N-10079
+  - New Nodes Introduced: N-99, N-100, N-101, N-102, N-103, N-104, N-10092, N-10093, N-10094, N-10095, N-10096, N-10097, N-10098, N-10099, N-10100, N-10101, N-10102, N-10103, N-10104, N-10105, N-10106, N-10107, N-10108
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-37, N-40, N-42, N-5, N-61, N-69, N-75, N-76, N-77, N-98, N-10000, N-10012, N-10060, N-10014
 
 ## 2. Executive Summary
 
@@ -31,7 +31,7 @@ CKA seq 8 re-examines the 9/10 eyewitness pattern. Host surfaces GMA interview w
 **A-1146.1** GMA segment featuring Tiffany Barker, L Steel and Mia Grant recounting the 9/10 shooting.
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:03:38–00:06:49
-*Related: C-1245, C-1246, N-3, N-110, N-111, N-112, N-1*
+*Related: C-1245, C-1246, N-3, N-75, N-76, N-77, N-1*
 Transcript Snippet: We're joined now by Tiffany Barker and her nieces L Steel and Mia Grant who were all in the audience
 Confidence: high
 
@@ -42,7 +42,7 @@ Confidence: high
 **A-1147.1** Tiffany Barker's follow-up social video explaining how the 'artery' comment arose in the car.
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:08:07–00:11:04
-*Related: C-1247, N-110, N-111, N-112*
+*Related: C-1247, N-75, N-76, N-77*
 Transcript Snippet: There's an artery here. Maybe they hit an artery. I didn't know. We didn't know anything.
 Confidence: high
 
@@ -52,25 +52,25 @@ Confidence: high
 
 **A-1148.1** Diagram of the amphitheater/tent showing the SUV departure point, the underpass, and Charlie's seat.
 Video Timestamp: 00:10:26–00:11:40
-*Related: C-1248, N-1, N-71*
+*Related: C-1248, N-1, N-42*
 Transcript Snippet: where that dot is is where Charlie is sitting... the SUVs were waiting
 Confidence: high
 
 **A-1148.2** On-screen footage showing George Zinn walking calmly down the amphitheater steps with his pants falling.
 Video Timestamp: 00:12:38–00:13:41
-*Related: C-1249, N-71*
+*Related: C-1249, N-42*
 Transcript Snippet: his pants fall down by themselves... a young man comes by to try to assist him
 Confidence: high
 
 **A-1148.3** Host's hand-built second timeline graphic correlating shot, SUV, pants-fall, hat wave and handcuff moments.
 Video Timestamp: 00:14:20–00:15:16
-*Related: C-1248, N-71, N-1*
+*Related: C-1248, N-42, N-1*
 Transcript Snippet: 40 seconds later Charlie's brought to the SUV... George Zinn is in handcuffs
 Confidence: medium
 
 **A-1148.4** Viral photo of George Zinn bent down in handcuffs near the SUV zone.
 Video Timestamp: 00:15:08–00:15:23
-*Related: C-1250, N-71, N-10000*
+*Related: C-1250, N-42, N-10000*
 Transcript Snippet: It's George Zinn and he's bent down and he is in handcuffs and that goes viral
 Confidence: high
 
@@ -80,7 +80,7 @@ Confidence: high
 
 **A-1149.1** Post-shot footage showing a blue-shirted Wirefy-branded individual taking out his phone/texting near Charlie.
 Video Timestamp: 00:17:02–00:17:30
-*Related: C-1251, N-10159*
+*Related: C-1251, N-10093*
 Transcript Snippet: he's wearing a shirt that says Wirefi... sends a text, takes a photo
 Confidence: high
 
@@ -90,7 +90,7 @@ Confidence: high
 
 **A-1150.1** Viral bystander footage of the shooter running across the rooftop, posted by a third party.
 Video Timestamp: 00:18:36–00:18:50
-*Related: C-1252, N-136*
+*Related: C-1252, N-100*
 Transcript Snippet: there's somebody on the roof right there. Just saying.
 Confidence: high
 
@@ -100,25 +100,25 @@ Confidence: high
 
 **A-1151.1** Clip of Kovette answering whether Charlie was becoming Catholic.
 Video Timestamp: 00:32:47–00:36:42
-*Related: C-1254, N-42, N-1, N-2*
+*Related: C-1254, N-14, N-1, N-2*
 Transcript Snippet: Was he becoming Catholic? No. But he really loved Catholic mass.
 Confidence: high
 
 **A-1151.2** Clip of Kovette denying a $150M Israel offer and asserting TPUSA takes no foreign money.
 Video Timestamp: 00:36:08–00:39:48
-*Related: C-1255, C-1256, N-42, N-1*
+*Related: C-1255, C-1256, N-14, N-1*
 Transcript Snippet: Was Charlie offered $150 million from Israel? As far as I know, no.
 Confidence: high
 
 **A-1151.3** Clip of Kovette explaining the SD card removal as evidence-preservation after the shooting.
 Video Timestamp: 00:41:15–00:43:05
-*Related: C-1257, N-42, N-10000*
+*Related: C-1257, N-14, N-10000*
 Transcript Snippet: they wanted to make sure they didn't get stolen out of the cameras
 Confidence: high
 
 **A-1151.4** Clip of Kovette recounting Charlie's Myrtle Beach answer to a question about Candace/Tucker.
 Video Timestamp: 00:43:37–00:44:44
-*Related: C-1258, N-42, N-1, N-50*
+*Related: C-1258, N-14, N-1, N-22*
 Transcript Snippet: he basically said, 'I don't appreciate being morally blackmailed.'
 Confidence: high
 
@@ -148,7 +148,7 @@ Confidence: high
 
 **A-1154.1** Text from the rooftop-videographer eyewitness describing a smaller rifle and tactical-gear shooter.
 Video Timestamp: 00:25:26–00:26:11
-*Related: C-1261, C-1262, N-10165, N-69*
+*Related: C-1261, C-1262, N-10099, N-40*
 Transcript Snippet: the assassin may have used a 10 or 20 round magazine... I would expect was used
 Confidence: medium
 
@@ -169,7 +169,7 @@ Confidence: medium
 
 **A-2518.1** Andrew Kolvet clip: verbal reference to videos of Charlie Kirk debating Michael Knowles (verbal reference; no displayed artifact)
 Video Timestamp: 00:34:07–00:34:23
-*Related: C-3727, N-1, N-42, N-138*
+*Related: C-3727, N-1, N-14, N-102*
 Transcript Snippet: You can go check the videos out him debating with uh Michael Nolles, you know,
 Confidence: medium
 
@@ -195,7 +195,7 @@ Primary deceased subject; central node across the series.
 
 ---
 
-**N-110** Tiffany Barker
+**N-75** Tiffany Barker
 
 Node Type: Person
 Family member who appeared on GMA and posted a follow-up video explaining the artery remark.
@@ -204,7 +204,7 @@ Family member who appeared on GMA and posted a follow-up video explaining the ar
 
 ---
 
-**N-111** L Steel
+**N-76** L Steel
 
 Node Type: Person
 Tiffany Barker's niece; spoke on the GMA segment about the shooting.
@@ -213,7 +213,7 @@ Tiffany Barker's niece; spoke on the GMA segment about the shooting.
 
 ---
 
-**N-112** Mia Grant
+**N-77** Mia Grant
 
 Node Type: Person
 Tiffany Barker's niece; spoke on the GMA segment about the shooting.
@@ -222,7 +222,7 @@ Tiffany Barker's niece; spoke on the GMA segment about the shooting.
 
 ---
 
-**N-71** George Zinn
+**N-42** George Zinn
 
 Node Type: Person
 Arrested shortly after the shooting; timeline and location analyzed by host.
@@ -231,7 +231,7 @@ Arrested shortly after the shooting; timeline and location analyzed by host.
 
 ---
 
-**N-42** Andrew Kolvet
+**N-14** Andrew Kolvet
 
 Node Type: Person
 PR agent for Turning Point USA; sat down with Alex Clark to address rumors.
@@ -240,7 +240,7 @@ PR agent for Turning Point USA; sat down with Alex Clark to address rumors.
 
 ---
 
-**N-135** Alex Clark
+**N-99** Alex Clark
 
 Node Type: Person
 Podcast host who interviewed Andrew Kovette; clip excerpts played.
@@ -258,7 +258,7 @@ Charlie's widow; new TPUSA chairman/CEO; subject of host's prayers and operation
 
 ---
 
-**N-92** Phil Lyman
+**N-61** Phil Lyman
 
 Node Type: Person
 Utah Lt. Gov. candidate; per host, the GMA connection was routed through his campaign to Tiffany Barker.
@@ -267,7 +267,7 @@ Utah Lt. Gov. candidate; per host, the GMA connection was routed through his cam
 
 ---
 
-**N-136** Aaron
+**N-100** Aaron
 
 Node Type: Person
 Person who handed the host's ground contact a Chicago phone number tied to the roof video chain.
@@ -276,7 +276,7 @@ Person who handed the host's ground contact a Chicago phone number tied to the r
 
 ---
 
-**N-69** Tyler Robinson
+**N-40** Tyler Robinson
 
 Node Type: Person
 FBI-named suspect whose description (jeans, flag shirt) is contested by the rooftop eyewitness.
@@ -285,7 +285,7 @@ FBI-named suspect whose description (jeans, flag shirt) is contested by the roof
 
 ---
 
-**N-137** Charlie Skyler
+**N-101** Charlie Skyler
 
 Node Type: Person
 Production team member referenced while pulling the timeline graphic on screen.
@@ -296,7 +296,7 @@ Production team member referenced while pulling the timeline graphic on screen.
 
 ---
 
-**N-102** Kash Patel
+**N-69** Kash Patel
 
 Node Type: Person
 Referenced via prior tweet suggesting more parties involved than Robinson alone.
@@ -305,7 +305,7 @@ Referenced via prior tweet suggesting more parties involved than Robinson alone.
 
 ---
 
-**N-138** Michael Knowles
+**N-102** Michael Knowles
 
 Node Type: Person
 Catholic debate partner of Charlie Kirk referenced by Kovette.
@@ -325,7 +325,7 @@ President; audio statement on MMR separation and Hepatitis B delay played in the
 
 ---
 
-**N-144** Chris
+**N-103** Chris
 
 Node Type: Person
 Commenter asking who paid for the rapid crime-scene paver installation.
@@ -334,7 +334,7 @@ Commenter asking who paid for the rapid crime-scene paver installation.
 
 ---
 
-**N-145** MC
+**N-104** MC
 
 Node Type: Person
 Commenter quoting police scanner description (jeans, black shirt, mask, vest, rifle).
@@ -343,7 +343,7 @@ Commenter quoting police scanner description (jeans, black shirt, mask, vest, ri
 
 ---
 
-**N-66** Bill Ackman
+**N-37** Bill Ackman
 
 Node Type: Person
 TPUSA donor referenced as possibly funneling foreign-agent money.
@@ -352,7 +352,7 @@ TPUSA donor referenced as possibly funneling foreign-agent money.
 
 ---
 
-**N-134** Bob Shulman
+**N-98** Bob Shulman
 
 Node Type: Person
 TPUSA donor referenced in same FARA-suspicion chain.
@@ -361,7 +361,7 @@ TPUSA donor referenced in same FARA-suspicion chain.
 
 ---
 
-**N-50** Tucker Carlson
+**N-22** Tucker Carlson
 
 Node Type: Person
 Referenced as another figure Charlie was pressured to disavow via donor moral blackmail.
@@ -380,7 +380,7 @@ Charlie's organization; central to the eyewitness pattern and SD card question.
 
 ---
 
-**N-10077** Utah Valley University
+**N-10012** Utah Valley University
 
 Node Type: Organization
 Organization Kind: educational_institution
@@ -390,7 +390,7 @@ Venue-host university; host notes most eyewitnesses were not UVU students.
 
 ---
 
-**N-10158** Brigham Young University
+**N-10092** Brigham Young University
 
 Node Type: Organization
 Organization Kind: educational_institution
@@ -402,7 +402,7 @@ Identified as the school attended by one of the two roof-videographer companions
 
 ---
 
-**N-10159** Wirefy
+**N-10093** Wirefy
 
 Node Type: Organization
 Organization Kind: company
@@ -412,7 +412,7 @@ Tour sponsor whose branding was the backdrop and whose employee appeared post-sh
 
 ---
 
-**N-10125** Good Morning America
+**N-10060** Good Morning America
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -424,7 +424,7 @@ Outlet that aired the Tiffany Barker family interview on 9/11.
 
 ---
 
-**N-10160** LDS Church
+**N-10094** LDS Church
 
 Node Type: Organization
 Organization Kind: religious_institution
@@ -434,7 +434,7 @@ Family faith tradition tied to the Barkers per Reddit-sleuth research.
 
 ---
 
-**N-10161** 9/10 Eyewitness Pattern Investigation
+**N-10095** 9/10 Eyewitness Pattern Investigation
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -444,7 +444,7 @@ Ongoing thread: most viral-witness accounts trace back to TPUSA or government-ti
 
 ---
 
-**N-10162** Artery Remark Provenance
+**N-10096** Artery Remark Provenance
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -454,7 +454,7 @@ Whether the children's 'hit his artery' description came from observation or par
 
 ---
 
-**N-10163** George Zinn Arrest Location/Timing
+**N-10097** George Zinn Arrest Location/Timing
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -464,7 +464,7 @@ Whether arrest in the same area as Charlie's SUV departs within ~1:48 is procedu
 
 ---
 
-**N-10164** Roof Video Provenance Chain
+**N-10098** Roof Video Provenance Chain
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -474,7 +474,7 @@ Tracing the viral roof video through a third-party poster, an unknown Aaron, and
 
 ---
 
-**N-10165** Shooter Description Contradiction
+**N-10099** Shooter Description Contradiction
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -484,7 +484,7 @@ Eyewitness says tactical gear + face mask + smaller rifle; public FBI narrative 
 
 ---
 
-**N-10166** TPUSA SD Card Removal
+**N-10100** TPUSA SD Card Removal
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -494,7 +494,7 @@ Whether SD cards were pulled to preserve evidence or to control the record.
 
 ---
 
-**N-10167** Wirefy Post-Shot Individual Identity
+**N-10101** Wirefy Post-Shot Individual Identity
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -504,7 +504,7 @@ Open target: who is the blue-shirt Wirefy representative who texted/photographed
 
 ---
 
-**N-10168** Earpiece Rumor Debunking
+**N-10102** Earpiece Rumor Debunking
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -514,7 +514,7 @@ Host's assertion that what looked like an earpiece was actually Charlie's neckla
 
 ---
 
-**N-10169** Bulletproof Vest Absence
+**N-10103** Bulletproof Vest Absence
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -524,7 +524,7 @@ Host's claim that Charlie was not wearing a vest and that a prior provider had s
 
 ---
 
-**N-10170** Catholic Conversion Rumor
+**N-10104** Catholic Conversion Rumor
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -534,7 +534,7 @@ Was Charlie formally converting vs. attending mass and praying the rosary.
 
 ---
 
-**N-10171** Israel $150M Offer Rumor
+**N-10105** Israel $150M Offer Rumor
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -544,7 +544,7 @@ Whether a $150M foreign-money offer was made to Charlie and refused.
 
 ---
 
-**N-10172** Moral Blackmail by Donors
+**N-10106** Moral Blackmail by Donors
 
 Node Type: Topic
 Topic Kind: narrative_pattern
@@ -554,7 +554,7 @@ Charlie's repeated claim that donors pressured him on who to associate with.
 
 ---
 
-**N-10173** Crime Scene Pavers
+**N-10107** Crime Scene Pavers
 
 Node Type: Topic
 Topic Kind: verification_thread
@@ -564,7 +564,7 @@ Open lead: who paid for the unusually quick paver replacement at the venue.
 
 ---
 
-**N-10174** Police Scanner Description
+**N-10108** Police Scanner Description
 
 Node Type: Topic
 Topic Kind: discrepancy
@@ -582,8 +582,8 @@ Claim Timestamp: 00:08:33
 Claim: Tiffany Barker told host that GMA's outreach to her came through Phil Leman, with whom her sister ran as lieutenant governor.
 Transcript Snippet: her sister ran as lieutenant governor alongside Phil Leman... Good Morning America reached out to Phil Leman
 Anchored Artifacts: A-1146.1
-Mentions: N-92, N-110, N-137
-Related Nodes: N-10125, N-10160, N-10161
+Mentions: N-61, N-75, N-101
+Related Nodes: N-10060, N-10094, N-10095
 Confidence: medium
 Investigative Direction: Verify Tiffany Barker's LDS/political family ties and the Leman campaign contact chain.
 
@@ -595,8 +595,8 @@ Claim Timestamp: 00:05:18
 Claim: Nieces L Steel and Mia Grant told GMA they saw the shot hit Charlie's artery.
 Transcript Snippet: I saw blood everywhere and it hit his artery and then I just we fell to the ground
 Anchored Artifacts: A-1146.1
-Mentions: N-110, N-111, N-112
-Related Nodes: N-10162
+Mentions: N-75, N-76, N-77
+Related Nodes: N-10096
 Confidence: high
 Investigative Direction: Compare the children's GMA statements against the video metadata and any device footage.
 
@@ -609,8 +609,8 @@ Claim Timestamp: 00:07:43
 Claim: Per Tiffany Barker's follow-up video, the 'artery' detail was introduced by Tiffany herself during a 1.5-hour car conversation, not from what the children saw.
 Transcript Snippet: I said, 'There's an artery here. Maybe they hit an artery.' I didn't know. We didn't know anything.
 Anchored Artifacts: A-1147.1
-Mentions: N-110, N-111, N-112
-Related Nodes: N-10162
+Mentions: N-75, N-76, N-77
+Related Nodes: N-10096
 Confidence: high
 Investigative Direction: Obtain the original follow-up video and any car-cam footage; verify Tiffany's stated timeline.
 
@@ -622,8 +622,8 @@ Claim Timestamp: 00:14:20
 Claim: Per the host's timeline, ~40 seconds from shot to SUV departure and ~1:08 later George Zinn is in handcuffs in the same SUV zone.
 Transcript Snippet: 40 seconds later, Charlie's brought to the SUV... George Zinn is in handcuffs
 Anchored Artifacts: A-1148.1, A-1148.3, A-1148.4
-Mentions: N-71
-Related Nodes: N-10163
+Mentions: N-42
+Related Nodes: N-10097
 Confidence: medium
 Investigative Direction: Independently verify the timeline from official police body-cam and security footage.
 
@@ -635,8 +635,8 @@ Claim Timestamp: 00:12:38
 Claim: Host shows on-screen footage of Zinn's pants falling while he was walking in a dispersing crowd, prior to any arrest contact.
 Transcript Snippet: his pants fall down by themselves... a young man comes by to try to assist him
 Anchored Artifacts: A-1148.2
-Mentions: N-71
-Related Nodes: N-10163
+Mentions: N-42
+Related Nodes: N-10097
 Confidence: high
 Investigative Direction: Cross-check the walking-clip frame-by-frame against law-enforcement timeline records.
 
@@ -649,8 +649,8 @@ Claim Timestamp: 00:15:17
 Claim: Host says the viral handcuffs photo was first circulated by a Utah-based individual who advertises with Turning Point USA.
 Transcript Snippet: somebody who lived in Utah who advertises with Turning Point USA
 Anchored Artifacts: A-1148.4
-Mentions: N-71
-Related Nodes: N-10000, N-10161
+Mentions: N-42
+Related Nodes: N-10000, N-10095
 Confidence: medium
 Investigative Direction: Identify the original posting account via reverse-image search and archive timestamps.
 
@@ -662,7 +662,7 @@ Claim Timestamp: 00:17:18
 Claim: Wirefy branding was the backdrop advertiser at the event, and a Wirefy-branded individual was on-site sending texts/photos in the immediate aftermath.
 Transcript Snippet: Wirefy, you will notice in the clips of the event, is the backdrop advertiser that's behind Charlie
 Anchored Artifacts: A-1149.1
-Related Nodes: N-10159, N-10167
+Related Nodes: N-10093, N-10101
 Confidence: high
 Investigative Direction: Identify the blue-shirted Wirefy individual; request their cell metadata; confirm sponsorship ledger.
 
@@ -675,8 +675,8 @@ Claim Timestamp: 00:20:07
 Claim: Host traces the viral roof footage through an unknown poster, an Aaron with a Chicago number, and a separate pair of Chicago numbers that go nowhere.
 Transcript Snippet: those two numbers were both Chicago based... that's not making sense to me
 Anchored Artifacts: A-1150.1
-Mentions: N-136
-Related Nodes: N-10077, N-10158, N-10164
+Mentions: N-100
+Related Nodes: N-10012, N-10092, N-10098
 Confidence: medium
 Investigative Direction: Subpoena the originating accounts; obtain phone records; verify BYU enrollment of companion.
 
@@ -688,8 +688,8 @@ Claim Timestamp: 00:23:36
 Claim: Per the rooftop videographer, he told authorities within hours that the shooter was in tactical gear and a face mask, contradicting the later public description.
 Transcript Snippet: this person was dressed in tactical gear and he was wearing a face mask
 Anchored Artifacts: A-1154.1
-Mentions: N-69
-Related Nodes: N-10079, N-10165
+Mentions: N-40
+Related Nodes: N-10014, N-10099
 Supports: C-1254
 Confidence: medium
 Investigative Direction: Obtain the original FBI 302 or tip-line intake record; corroborate via metadata and witness interview.
@@ -703,8 +703,8 @@ Claim Timestamp: 00:25:26
 Claim: The eyewitness texted the host that the weapon sounded like a smaller rifle, not a hunting rifle, and likely used a 10 or 20-round magazine.
 Transcript Snippet: the assassin may have used a 10 or 20 round magazine... Hornady VMAX or similar lightweight 223 bullet
 Anchored Artifacts: A-1154.1
-Mentions: N-69
-Related Nodes: N-10079, N-10165
+Mentions: N-40
+Related Nodes: N-10014, N-10099
 Confidence: medium
 Investigative Direction: Compare eyewitness account with ballistic/forensic findings; check autopsy report for copper-shard evidence.
 
@@ -716,8 +716,8 @@ Claim Timestamp: 00:32:47
 Claim: Andrew Kovette told Alex Clark that Charlie was not converting; he loved Catholic mass but remained Protestant.
 Transcript Snippet: Was he becoming Catholic? No. But he really loved Catholic mass.
 Anchored Artifacts: A-1151.1
-Mentions: N-1, N-2, N-42, N-135
-Related Nodes: N-10170
+Mentions: N-1, N-2, N-14, N-99
+Related Nodes: N-10104
 Confidence: high
 Investigative Direction: Cross-check with Charlie's own prior public statements on faith and any church/RCIA enrollment records.
 
@@ -729,8 +729,8 @@ Claim Timestamp: 00:36:08
 Claim: Kovette says he never heard of a $150M Israel offer and that TPUSA has consistently refused foreign money, including cancelling wires.
 Transcript Snippet: Was Charlie offered $150 million from Israel? As far as I know, no.
 Anchored Artifacts: A-1151.2
-Mentions: N-1, N-42, N-66, N-134
-Related Nodes: N-10171
+Mentions: N-1, N-14, N-37, N-98
+Related Nodes: N-10105
 Confidence: high
 Investigative Direction: Audit TPUSA donor records against FARA filings; review cancelled wire correspondence.
 
@@ -742,8 +742,8 @@ Claim Timestamp: 00:41:15
 Claim: Kovette says SD cards were pulled from on-scene cameras to preserve evidence from being stolen during the chaos, not to suppress footage.
 Transcript Snippet: they wanted to make sure they didn't get stolen out of the cameras
 Anchored Artifacts: A-1151.3
-Mentions: N-42
-Related Nodes: N-10000, N-10166
+Mentions: N-14
+Related Nodes: N-10000, N-10100
 Confidence: high
 Investigative Direction: Confirm chain-of-custody; check whether originals were turned over intact to law enforcement.
 
@@ -755,8 +755,8 @@ Claim Timestamp: 00:43:37
 Claim: Kovette recounts Charlie telling him after a Myrtle Beach show, 'I don't appreciate being morally blackmailed,' when pressured to disavow Candace/Tucker.
 Transcript Snippet: he basically said, 'I don't appreciate being morally blackmailed.'
 Anchored Artifacts: A-1151.4, A-1152.1
-Mentions: N-1, N-3, N-42, N-50
-Related Nodes: N-10172
+Mentions: N-1, N-3, N-14, N-22
+Related Nodes: N-10106
 Confidence: high
 Investigative Direction: Identify the donor(s) involved; review any internal TPUSA communications on donor pressure.
 
@@ -769,7 +769,7 @@ Claim: In an August Myrtle Beach clip, Charlie Kirk said he does not stop being 
 Transcript Snippet: I don't stop being friends with people just because people morally blackmail me
 Anchored Artifacts: A-1152.1
 Mentions: N-1, N-3
-Related Nodes: N-10172
+Related Nodes: N-10106
 Confidence: high
 Investigative Direction: Verify the clip's date and audience Q&A context.
 
@@ -793,7 +793,7 @@ Claim Timestamp: 00:08:33
 Claim: Host states Tiffany Barker's sister ran as lieutenant governor alongside Phil Leman.
 Transcript Snippet: her sister ran as lieutenant governor alongside Phil Leman
 Anchored Artifacts: A-1146.1
-Mentions: N-92, N-110
+Mentions: N-61, N-75
 Confidence: medium
 Uncertainty: Host identifies the sister as Tiffany's, but Tiffany's relationship (sister vs. in-law) and exact candidate name should be verified.
 Investigative Direction: Verify Leman's 2024 lt. gov. running mate name and family relation to Tiffany Barker.
@@ -806,8 +806,8 @@ Claim Timestamp: 00:59:20
 Claim: Host cites Kash Patel's recent tweet/thread as conceding that the public FBI narrative does not add up and that more parties are likely involved.
 Transcript Snippet: Cash Patel has signified that that is so in his long message that we spoke about yesterday
 Anchored Artifacts: 
-Mentions: N-69, N-102
-Related Nodes: N-10079, N-10165
+Mentions: N-40, N-69
+Related Nodes: N-10014, N-10099
 Confidence: low
 Investigative Direction: Pull the actual Patel thread and timestamp the posts; verify his role and standing.
 
@@ -819,8 +819,8 @@ Claim Timestamp: 00:58:05
 Claim: Commenter Chris asks who paid for the rapid paver installation at the crime scene; host flags it as an open path to pursue.
 Transcript Snippet: Do we know who paid for the crime scene demolition, the pavers that were so quickly put down?
 Anchored Artifacts: 
-Mentions: N-144
-Related Nodes: N-10077, N-10173
+Mentions: N-103
+Related Nodes: N-10012, N-10107
 Confidence: low
 Investigative Direction: Request UVU facilities work orders, vendor invoices, and payment records for the post-incident hardscape work.
 
@@ -832,8 +832,8 @@ Claim Timestamp: 00:58:33
 Claim: Commenter MC states a police scanner call right after the shooting described a shooter wearing jeans, a black shirt, black mask, and black vest carrying a long rifle.
 Transcript Snippet: they were looking for someone wearing jeans, a black shirt, a black mask, and a black vest carrying a long rifle
 Anchored Artifacts: 
-Mentions: N-145
-Related Nodes: N-10079, N-10174
+Mentions: N-104
+Related Nodes: N-10014, N-10108
 Confidence: low
 Investigative Direction: Obtain archived Broadcastify/ScannerRadio audio for the timeframe; cross-check against official dispatch logs.
 
@@ -845,7 +845,7 @@ Claim Timestamp: 00:01:43
 Claim: Host states she verified Charlie was not wearing an earpiece; what appears to be one is his necklace.
 Transcript Snippet: no, Charlie was not wearing an earpiece
 Anchored Artifacts: 
-Related Nodes: N-10168
+Related Nodes: N-10102
 Confidence: low
 Investigative Direction: Locate the high-resolution footage and clothing item Charlie was wearing to confirm.
 
@@ -857,7 +857,7 @@ Claim Timestamp: 00:02:06
 Claim: Host states she verified Charlie was not wearing a vest, and a prior vest supplier had stopped providing them.
 Transcript Snippet: he was not wearing a bulletproof vest
 Anchored Artifacts: 
-Related Nodes: N-10169
+Related Nodes: N-10103
 Confidence: low
 Investigative Direction: Identify and interview the prior vest provider; review any supplier/contract documentation.
 
@@ -883,7 +883,7 @@ Claim Timestamp: 00:34:12
 Claim: Andrew Kolvet, in the Alex Clark interview clip played on air (cued at 32:43 as "Andrew's response to the Catholic question"), says Charlie Kirk debated Michael Knowles (transcript: "Michael Nolles") in good fun on Protestant versus Catholic theology and that they were dear friends.
 Transcript Snippet: You can go check the videos out him debating with uh Michael Nolles, you know,
 Anchored Artifacts: A-2518.1
-Mentions: N-1, N-42, N-138, N-135
+Mentions: N-1, N-14, N-102, N-99
 Confidence: medium
 Investigative Direction: Locate the Charlie Kirk and Michael Knowles debate videos.
 
@@ -931,7 +931,7 @@ Confidence: high
 ### Occurrence 2
 
 Video Timestamp: 00:33:04
-Speaker: N-42
+Speaker: N-14
 Quote: I grew up Catholic and first communion and went to Catholic high school, but then I ended up becoming a Christian in college... Erika kind of follows that same path
 Context: Kovette maps Erika's cradle-Catholic-to-Protestant arc to neutralize the conversion framing.
 Tags: identity_flip
@@ -1002,32 +1002,32 @@ Confidence: high
 
 ## 8. Organization Network
 
-OrgLink: N-10000 funded_by N-10159
-OrgLink: N-10149 affiliated_with N-10000
+OrgLink: N-10000 funded_by N-10093
+OrgLink: N-10083 affiliated_with N-10000
 
 ## 9. Role Assertions
 
-RoleLink: N-42 holds_role N-10000 title:PR agent
+RoleLink: N-14 holds_role N-10000 title:PR agent
 RoleLink: N-2 holds_role N-10000 title:Chairman and CEO
 
 ## 12. Topic Threading
 
-TopicMention: C-1253 N-10165
-TopicMention: C-1254 N-10165
-TopicMention: C-1255 N-10170
-TopicMention: C-1256 N-10171
-TopicMention: C-1257 N-10166
-TopicMention: C-1258 N-10172
-TopicMention: C-1259 N-10172
-TopicMention: C-1262 N-10165
-TopicMention: C-1263 N-10173
-TopicMention: C-1264 N-10174
+TopicMention: C-1253 N-10099
+TopicMention: C-1254 N-10099
+TopicMention: C-1255 N-10104
+TopicMention: C-1256 N-10105
+TopicMention: C-1257 N-10100
+TopicMention: C-1258 N-10106
+TopicMention: C-1259 N-10106
+TopicMention: C-1262 N-10099
+TopicMention: C-1263 N-10107
+TopicMention: C-1264 N-10108
 
 ## 13. Meme Graph Links
 
 MemeLink: M-1 invoked_by_speaker N-3
 MemeLink: M-7 invoked_by_speaker N-3
-MemeLink: M-7 invoked_by_speaker N-42
+MemeLink: M-7 invoked_by_speaker N-14
 MemeLink: M-2 invoked_by_speaker N-3
 MemeLink: M-3 invoked_by_speaker N-3
 MemeLink: M-5 invoked_by_speaker N-3

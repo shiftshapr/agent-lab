@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 4ff884e8b88d089e5a5ddcb0facbdda169075c76bb9db2e13f6bf6d6be1cad05
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-764, N-765, N-766, N-767, N-10501, N-10502
+  - New Nodes Introduced:  N-487, N-488, N-489, N-490, N-10430, N-10431
   - Reused Nodes Appearing: 
-  - (see registers), N-37
+  - (see registers), N-11
 
 ## 2. Executive Summary
 
@@ -54,7 +54,7 @@ Video Timestamp: 00:28:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2149, C-2150, N-61*
+*Related: C-2149, C-2150, N-32*
 
 ---
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:09:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2151, N-2, N-766*
+*Related: C-2151, N-2, N-489*
 
 ---
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:19:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2152, C-2153, N-764, N-765*
+*Related: C-2152, C-2153, N-487, N-488*
 
 ---
 
@@ -96,7 +96,7 @@ Video Timestamp: 01:08:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2154, N-2, N-10501*
+*Related: C-2154, N-2, N-10430*
 
 ---
 
@@ -110,7 +110,7 @@ Video Timestamp: 01:16:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2157, N-552*
+*Related: C-2157, N-337*
 
 ---
 
@@ -124,7 +124,7 @@ Video Timestamp: 01:18:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2157, N-552*
+*Related: C-2157, N-337*
 
 ---
 
@@ -138,13 +138,13 @@ Video Timestamp: 00:40:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2155, C-2156, N-767*
+*Related: C-2155, C-2156, N-490*
 
 ---
 
 ## 4. Node Register
 
-**N-552** Baron Coleman
+**N-337** Baron Coleman
 
 Independent investigator and YouTuber now working full-time on the Charlie Kirk assassination case. Co-host for this episode and recurring collaborator.
 
@@ -157,7 +157,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-61** Dave Rubin
+**N-32** Dave Rubin
 
 Commentator and former associate of Candace Owens. Subject of an X post dispute in this episode and host of an alleged prior incident involving a former PragerU employee.
 
@@ -170,7 +170,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-764** Katherine Pollard Griggs
+**N-487** Katherine Pollard Griggs
 
 Wife of Colonel George Griggs. Subject of interview clip played in this episode describing U.S. military as a mind control operation.
 
@@ -179,11 +179,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1656.1, C-2152, C-2153, N-765*
+*Related: A-1656.1, C-2152, C-2153, N-488*
 
 ---
 
-**N-765** Colonel George Griggs
+**N-488** Colonel George Griggs
 
 U.S. Marine Corps officer; head of special operations under Admiral Kelso/NATO; intelligence career spanning Vietnam and continuing under General Wilhelm; husband of Katherine Pollard Griggs. Described in the clip as the source for Katherine Griggs's military claims.
 
@@ -192,11 +192,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1656.1, C-2152, N-764*
+*Related: A-1656.1, C-2152, N-487*
 
 ---
 
-**N-766** Jessica Ghawi
+**N-489** Jessica Ghawi
 
 Victim of the 2012 Aurora theater shooting; previously survived the Toronto Eaton Centre food court shooting weeks earlier; previously lived in New Braunfels, Texas.
 
@@ -209,7 +209,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-767** Ronald Lauder
+**N-490** Ronald Lauder
 
 President of the World Jewish Congress; named in Jerusalem Post headline as allegedly involved in Trump's push for Greenland.
 
@@ -222,7 +222,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-43** Justin Strife
+**N-15** Justin Strife
 
 Associate of Erika Kirk referenced in connection with verification of Andrew Kolvet's flight arrangements and tarmac arrival sequence.
 
@@ -231,11 +231,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-2154, N-10501*
+*Related: C-2154, N-10430*
 
 ---
 
-**N-10501** Plane Records Timing Discrepancy
+**N-10430** Plane Records Timing Discrepancy
 
 Persistent discrepancy between Andrew Kolvet's account (flying alone with pent-up anxiety) and the flight record evidence (planes landed approximately one hour apart, with question of whether Kolvet's wife was aboard and whether Erika waited on the tarmac).
 
@@ -244,11 +244,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1657.1, C-2154, N-2, N-43*
+*Related: A-1657.1, C-2154, N-2, N-15*
 
 ---
 
-**N-10502** Aspen Donor Retreat "What Happens When You Die" Question
+**N-10431** Aspen Donor Retreat "What Happens When You Die" Question
 
 Unverified allegation that a donor asked Charlie Kirk what would happen if he died at an Aspen donor retreat (August 15–17, 2025), and that this is now being cited as evidence of his succession wishes. Two attendees contacted reportedly do not recall the exchange.
 
@@ -261,7 +261,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-37** Tyler Bowyer
+**N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -279,7 +279,7 @@ Claim Timestamp: 00:28:43
 Claim: Dave Rubin posted on X that Candace Owens, during a dinner at his home, said she hated Charlie Kirk and ranted about Jared and Ivanka.
 
 Anchored Artifacts: A-1654.1
-Mentions: N-1, N-61, N-3
+Mentions: N-1, N-32, N-3
 
 
 Investigative Direction: Obtain archived copy of the Dave Rubin X post and corroborate the original wording and posting timestamp.
@@ -293,7 +293,7 @@ Claim Timestamp: 00:31:06
 Claim: Candace Owens states that her husband has no memory of any discussion of Charlie Kirk at the dinner and that her remark about Jared and Ivanka was a light joke about their perceived perfection, not a "rant."
 
 Anchored Artifacts: A-1654.1
-Mentions: N-61, N-3, N-1
+Mentions: N-32, N-3, N-1
 
 
 Investigative Direction: Compare Rubin's account with contemporaneous messages, third-party witnesses, or recordings if any exist; document any additional corroborating witnesses.
@@ -307,7 +307,7 @@ Claim Timestamp: 00:09:46
 Claim: During her Miss Arizona USA reign, Erika Kirk tweeted that one of her best friends was in the theater during the 2012 Aurora shooting.
 
 Anchored Artifacts: A-1655.1
-Mentions: N-2, N-766
+Mentions: N-2, N-489
 
 
 Investigative Direction: Identify the named friend; cross-reference with the published Aurora victim list; verify any prior connection between Erika Kirk and the Aurora theater victim cohort or New Braunfels, Texas.
@@ -321,7 +321,7 @@ Claim Timestamp: 00:19:31
 Claim: Katherine Pollard Griggs stated in a recorded interview that the U.S. military is literally a mind control operation run by sexual deviants who recruit individuals (citing Jeffrey Dahmer, Kaczynski, McVeigh, Oswald) into intelligence work because they are "easy to control."
 
 Anchored Artifacts: A-1656.1
-Mentions: N-764, N-765
+Mentions: N-487, N-488
 
 
 Investigative Direction: Locate the full unedited interview; verify the date and original broadcast; trace Colonel George Griggs's service record against cited commands (Admiral Kelso, General Wilhelm, NATO Defense College Rome, Princeton Class of 1959).
@@ -335,7 +335,7 @@ Claim Timestamp: 00:22:03
 Claim: Host concurs with Griggs's assessment that the U.S. military is corrupted at the command level and has been institutionally compromised since at least the JFK assassination.
 
 Anchored Artifacts: A-1656.1
-Mentions: N-764, N-765
+Mentions: N-487, N-488
 
 
 Investigative Direction: This is a host stance claim, not independently verifiable; document only as recorded concurrence against A-1656.1.
@@ -349,9 +349,9 @@ Claim Timestamp: 01:08:11
 Claim: Flight records show Erika Kirk's plane (N102DZ) departed approximately 1 hour 5 minutes after Andrew Kolvet's plane and arrived in Provo at 4:36 PM, with passengers including Tyler Bowyer, Elizabeth McCoy, a priest, and Erika Kirk.
 
 Anchored Artifacts: A-1657.1
-Mentions: N-2, N-37, N-326, N-42
+Mentions: N-2, N-11, N-221, N-14
 
-Related Nodes: N-10501
+Related Nodes: N-10430
 
 Investigative Direction: Obtain independent FAA or Flightradar24 archived records for both flights on 2025-09-10; verify exact departure/arrival times, passenger manifests if obtainable, and post-landing taxi routes.
 
@@ -364,7 +364,7 @@ Claim Timestamp: 00:40:58
 Claim: The Jerusalem Post reports that World Jewish Congress President Ronald Lauder is involved in President Trump's push for Greenland.
 
 Anchored Artifacts: A-1660.1
-Mentions: N-767
+Mentions: N-490
 
 
 Investigative Direction: Retrieve the full Jerusalem Post article; identify the specific role attributed to Lauder; check for corroborating or contradictory reporting from other outlets.
@@ -378,7 +378,7 @@ Claim Timestamp: 00:41:54
 Claim: Host and guest concur that Trump's Greenland push is not consistent with America-first policy and is being driven by a donor or supporter's financial interest rather than national interest.
 
 Anchored Artifacts: A-1660.1
-Mentions: N-767
+Mentions: N-490
 
 
 Investigative Direction: Document host stance claim against A-1660.1; investigate reported financial interests of Lauder or associated parties in Greenland.
@@ -392,7 +392,7 @@ Claim Timestamp: 01:16:11
 Claim: A prior Baron Coleman YouTube video shows Coleman confronting commenter "Joe" over logic fallacies related to Mitch Snow and Fort Huachuca coverage.
 
 Anchored Artifacts: A-1658.1, A-1659.1
-Mentions: N-552, N-597
+Mentions: N-337, N-369
 
 
 Investigative Direction: Locate the full Coleman confrontation clip and the referenced "Operation Debunk Mitch" series; document context as part of Coleman's investigative output.

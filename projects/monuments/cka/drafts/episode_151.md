@@ -29,8 +29,8 @@
 - Episode 151 Ledger Summary
   - Artifact Families Introduced: A-2362, A-2363, A-2364, A-2365, A-2366, A-2367, A-2368, A-2369, A-2370, A-2371, A-2372, A-2373, A-2521
   - Claim Range: C-3426–C-3444, C-3746
-  - New Nodes Introduced: N-11317, N-11318, N-11319, N-11320
-  - Reused Nodes Appearing: N-37, N-810, N-382, N-3
+  - New Nodes Introduced: N-10827, N-10828, N-10829, N-10830
+  - Reused Nodes Appearing: N-11, N-518, N-251, N-3
   - Existing Nodes Reused (by name – IDs require ledger resolution): Charlie Kirk, Erica Kirk, Frank Turek, Brian Harpole, Blake Harif/Hariff, Tyler Robinson, Terrell Farnsworth, Jeremy Boreing, Andrew Kolvet, Tyler Bowyer, Blake Neff, Officer Bagley, Candace Owens
 
 ---
@@ -86,7 +86,7 @@ Video Timestamp: 00:40:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3435, C-3436, C-3442, N-11317, Andrew Kolvet (existing node – ID resolution required)*
+*Related: C-3435, C-3436, C-3442, N-10827, Andrew Kolvet (existing node – ID resolution required)*
 
 ---
 
@@ -100,7 +100,7 @@ Video Timestamp: 00:41:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3426, C-3442, N-11317*
+*Related: C-3426, C-3442, N-10827*
 
 ---
 
@@ -114,7 +114,7 @@ Video Timestamp: 00:40:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3427, N-11317, Tyler Bowyer (existing node – ID resolution required), N-37*
+*Related: C-3427, N-10827, Tyler Bowyer (existing node – ID resolution required), N-11*
 
 ---
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:43:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3428, C-3442, N-11317, Andrew Kolvet (existing node – ID resolution required)*
+*Related: C-3428, C-3442, N-10827, Andrew Kolvet (existing node – ID resolution required)*
 
 ---
 
@@ -198,7 +198,7 @@ Video Timestamp: 00:16:28–00:24:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (enhancement applied; host's frame-by-frame interpretations are interpretive)
 
-*Related: C-3437, C-3438, C-3439, C-3441, N-810*
+*Related: C-3437, C-3438, C-3439, C-3441, N-518*
 
 ---
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:37:35–00:40:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (image shown but underlying source provenance not stated)
 
-*Related: C-3442, N-11317*
+*Related: C-3442, N-10827*
 
 ---
 
@@ -240,13 +240,13 @@ Video Timestamp: 00:48:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (emails described, not shown)
 
-*Related: C-3746, N-382, N-11320*
+*Related: C-3746, N-251, N-10830*
 
 ---
 
 ## IV. Node Register
 
-**N-11317** Statue Vandalism Investigation
+**N-10827** Statue Vandalism Investigation
 
 Persistent target: alleged vandalism of TPUSA Charlie Kirk statue with red paint on or about September 13, 2026. Open questions include: actual perpetrators, whether on-campus surveillance footage exists and will be released, the authenticity of the photo circulating, partisan attribution, and the simultaneous pivot to TP Action fundraising.
 
@@ -259,7 +259,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-11318** Tempenogos Doctor Recusal Mystery
+**N-10828** Tempenogos Doctor Recusal Mystery
 
 Investigation target referenced from prior episode: an unnamed doctor said to have been present during surgery on Charlie at Tempenogos and to have recused himself from files due to an in-room event. Host is still seeking a second corroborating source.
 
@@ -272,7 +272,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11319** Tempenogos Nurse "Chest Saw" Allegation
+**N-10829** Tempenogos Nurse "Chest Saw" Allegation
 
 Investigation target: an alleged Tempenogos nurse who reports that an out-of-norm request was made for a chest saw during the Charlie Kirk ER episode. Host explicitly tags as "allegedly" and notes she is still working to verify.
 
@@ -285,7 +285,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-11320** Security Detail Electrical Hazard Footwear Question
+**N-10830** Security Detail Electrical Hazard Footwear Question
 
 Investigation target: viewer emails (per host) claim the matching light-brown shoes worn by Blake Harif/Hariff, Butch Hibs, and other security personnel are models sold for electrical-hazard/labor-trade protection. Host surfaces this without confirmation.
 
@@ -298,7 +298,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-37** Tyler Bowyer
+**N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -317,7 +317,7 @@ Claim: Erica Kirk posted a tweet invoking Charlie's purported "build two statues
 
 Anchored Artifacts: A-2364.1
 Mentions: N-2
-Related Nodes: N-11317
+Related Nodes: N-10827
 Investigative Direction: Locate original tweet with timestamp; cross-check against TPUSA verified accounts; verify exact attribution.
 
 ---
@@ -329,8 +329,8 @@ Claim Timestamp: 00:40:50
 Claim: Tyler Bowyer, identified by host as running TP Action, posted the Commit 100 / Chase the Ballots program link as the action item in response to the alleged statue vandalism.
 
 Anchored Artifacts: A-2365.1
-Mentions: N-37
-Related Nodes: N-11317
+Mentions: N-11
+Related Nodes: N-10827
 Investigative Direction: Pull the original tweet with timestamp; confirm author and program URL.
 
 ---
@@ -342,8 +342,8 @@ Claim Timestamp: 00:43:46
 Claim: Andrew Kolvet tweeted asking why Katie Hobbs or "anyone with a D next to their name" had not commented on the alleged statue vandalism, asserting TPUSA was working with law enforcement and "pulling video from neighboring buildings."
 
 Anchored Artifacts: A-2366.1
-Mentions: N-42, N-965
-Related Nodes: N-11317
+Mentions: N-14, N-590
+Related Nodes: N-10827
 Investigative Direction: Pull original tweet; verify which "neighboring buildings"; confirm whether on-campus surveillance footage is or is not in TPUSA possession.
 
 ---
@@ -355,7 +355,7 @@ Claim Timestamp: 00:45:08
 Claim: Blake Neff bookmarked Candace Owens's tweet predicting an Erica Kirk Vanity Fair spread with the children ("Save this tweet. It will age well"), and Candace states she has since been contacted by Vanity Fair for comment.
 
 Anchored Artifacts: A-2367.1
-Mentions: N-2, N-3, N-224
+Mentions: N-2, N-3, N-162
 Investigative Direction: Pull original bookmark record; await release of Vanity Fair article to verify prediction's accuracy.
 
 ---
@@ -367,7 +367,7 @@ Claim Timestamp: 00:30:55
 Claim: Alex Clark, in her 9/10 trailer, invoked 2 Timothy 3:6-7 ("false teachers who are creeping into households capturing weak women") and applied it to the "Candace phenomenon."
 
 Anchored Artifacts: A-2362.1
-Mentions: N-135
+Mentions: N-99
 Related Nodes:
 Investigative Direction: Pull full Alex Clark episode and verify transcript against the trailer excerpt.
 
@@ -380,7 +380,7 @@ Claim Timestamp: 00:30:55
 Claim: Alex Clark stated "Christ doesn't forgive everyone. He forgives those who repent and turn and trust in him by faith. But forgiveness is something that you can't actually offer somebody if they haven't repented."
 
 Anchored Artifacts: A-2362.1
-Mentions: N-135
+Mentions: N-99
 Related Nodes:
 Investigative Direction: Pull full Alex Clark episode; verify quotation against the trailer.
 
@@ -393,7 +393,7 @@ Claim Timestamp: 00:09:47–00:11:50
 Claim: Frank Turek acknowledged the discrepancy between his account (he performed CPR) and Brian Harpole's account (he did not), but stated the discrepancy is "irrelevant" and "has no bearing on who killed Charlie Kirk."
 
 Anchored Artifacts: A-2369.1
-Mentions: N-424, N-1, N-16
+Mentions: N-272, N-1, N-7
 Related Nodes:
 Investigative Direction: Pull the full Boreing/Turek episode and reconcile with Turek's prior statements about the car ride.
 
@@ -406,7 +406,7 @@ Claim Timestamp: 00:11:54
 Claim: Frank Turek conceded "Brian's generally right. No, we weren't doing CPR. I just tried it in the last few seconds, the last 20 to 30 seconds" – shifting his account in the same interview segment.
 
 Anchored Artifacts: A-2369.1
-Mentions: N-16
+Mentions: N-7
 Related Nodes:
 Investigative Direction: Pull the full Boreing/Turek episode; compare to prior Turek statements on the car ride timeline.
 
@@ -431,8 +431,8 @@ Claim Timestamp: 00:40:10
 Claim: Andrew Kolvet stated that "friends of Charlie and Erika" have posted a $10,000 reward for tips leading to the arrest of the vandals, to be sent to law enforcement.
 
 Anchored Artifacts: A-2363.1
-Mentions: N-2, N-42
-Related Nodes: N-11317
+Mentions: N-2, N-14
+Related Nodes: N-10827
 Investigative Direction: Identify which "friends" funded the reward; verify any law enforcement bulletin.
 
 ---
@@ -444,8 +444,8 @@ Claim Timestamp: 00:40:10
 Claim: Andrew Kolvet stated the Commit 100 program "has been surging" after the vandalism news, framing the surge as a positive response to "evil."
 
 Anchored Artifacts: A-2363.1
-Mentions: N-42
-Related Nodes: N-11317
+Mentions: N-14
+Related Nodes: N-10827
 Investigative Direction: Compare against any public Commit 100 signup metrics or TP Action disclosures.
 
 ---
@@ -469,7 +469,7 @@ Claim Timestamp: 00:14:40–00:17:56
 Claim: From side-profile footage, host observes the figure in the black shirt appears bulkier than the figure shown in earlier maroon-shirt imagery, raising a possible decoy hypothesis.
 
 Anchored Artifacts: A-2371.1
-Mentions: N-69
+Mentions: N-40
 Related Nodes:
 Investigative Direction: Obtain uncropped / unenhanced source frames; biometric and clothing comparison.
 
@@ -494,7 +494,7 @@ Claim Timestamp: 00:19:51–00:20:41
 Claim: Enhanced footage shows Terrell Farnsworth seated in the back of a Mercedes Sprinter van, working on a laptop and looking around, at approximately 1:00 PM on September 10 – roughly 30 minutes after the event.
 
 Anchored Artifacts: A-2370.1
-Mentions: N-410
+Mentions: N-267
 Related Nodes:
 Investigative Direction: Identify the source of the footage; confirm provenance; subpoena any chain-of-custody record for the SD cards / thumb drives.
 
@@ -519,8 +519,8 @@ Claim Timestamp: 00:37:35–00:43:46
 Claim: TPUSA and affiliated accounts (Andrew Kolvet, Erica Kirk, Tyler Bowyer) characterized the statue as having been vandalized with red paint, in some accounts crossing out the name of Jesus Christ, on or about the early morning of September 13, 2026.
 
 Anchored Artifacts: A-2363.1, A-2364.1, A-2365.1, A-2366.1, A-2373.1
-Mentions: N-37, N-42, N-2
-Related Nodes: N-11317
+Mentions: N-11, N-14, N-2
+Related Nodes: N-10827
 Investigative Direction: Confirm police / Tempenogo PD report; review any TPUSA-released surveillance or police bulletin.
 
 ---
@@ -532,7 +532,7 @@ Claim Timestamp: 00:32:02–00:36:42
 Claim: Host rejects Alex Clark's framework that forgiveness requires repentance, characterizing it as a misuse of scripture to delegitimize women who are noticing discrepancies, and stating "I forgive you, Alex."
 
 Anchored Artifacts: A-2362.1
-Mentions: N-135
+Mentions: N-99
 Related Nodes:
 Investigative Direction: Note as host stance against displayed source; cross-reference with theological commentary.
 
@@ -559,8 +559,8 @@ Claim: The host reports receiving a flurry of viewer emails, many from people wh
 Transcript Snippet: They sent links that these are like electrical hazard protection shoes.
 
 Anchored Artifacts: A-2521.1
-Mentions: N-382, N-3
-Related Nodes: N-11320
+Mentions: N-251, N-3
+Related Nodes: N-10830
 Investigative Direction: Identify the shoe model from the security-detail footage and confirm whether it is sold as electrical-hazard (EH-rated) footwear.
 
 ---

@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 1ad209fbac97054099e9ed002c95c5fad552959675fdc3534eced317ed9c4aab
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-423, N-424, N-426, N-427, N-10336, N-10337, N-10338, N-10339, N-10340
+  - New Nodes Introduced: N-271, N-272, N-273, N-274, N-10265, N-10266, N-10267, N-10268, N-10269
   - Reused Nodes Appearing: N-2
   - (see registers)
 
@@ -55,7 +55,7 @@ Video Timestamp: 00:05:32–00:21:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read with stated redactions; source identity withheld)
 
-*Related: C-1745, C-1746, C-1747, C-1748, C-1749, N-10336, N-10337*
+*Related: C-1745, C-1746, C-1747, C-1748, C-1749, N-10265, N-10266*
 
 **A-1436** Flight Pattern Timeline Bundle
 
@@ -67,7 +67,7 @@ Video Timestamp: 00:02:32–00:05:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1745, C-1746, N-10337*
+*Related: C-1745, C-1746, N-10266*
 
 **A-1436.2** Host-compiled timeline of "green planes" (planes that scrambled after the shooting) including Cessna Citation Scottsdale-Provo-Santa Barbara-Scottsdale; Beachcraft Scottsdale departure; 15–16-passenger flight (Charlie's plane) routing Salt Lake City–Provo–Scottsdale; Santa Barbara departure 2:19 PM local
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:27:09–00:30:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-2, N-70*
+*Related: N-2, N-41*
 
 **A-1436.3** SUBTT 2022 flight pattern data – Nov 13, 2022 Cairo–Paris–Wichita–Wilmington–Cairo and Nov 17, 2022 Egypt–Wilmington (stay until Nov 20)
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:19:00–00:20:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1747, N-10337*
+*Related: C-1747, N-10266*
 
 **A-1437** DOJ 1997 Directory Reference
 
@@ -99,7 +99,7 @@ Video Timestamp: 00:10:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-asserted verification)
 
-*Related: C-1748, N-10336*
+*Related: C-1748, N-10265*
 
 **A-1438** SATIDS Wilmington Hangar Bundle
 
@@ -111,7 +111,7 @@ Video Timestamp: 00:12:23–00:13:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1749, C-1750, N-10340*
+*Related: C-1749, C-1750, N-10269*
 
 **A-1439** DRBA January 2024 Resolution
 
@@ -123,7 +123,7 @@ Video Timestamp: 00:13:22–00:14:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1750, N-10340*
+*Related: C-1750, N-10269*
 
 **A-1440** FBI December 5, 2024 Press Release
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:17:46–00:18:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1751, N-423, N-10336*
+*Related: C-1751, N-271, N-10265*
 
 **A-1441** Frank Turk Interview Bundle
 
@@ -147,7 +147,7 @@ Video Timestamp: 00:31:42–00:32:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1752, N-16, N-10338*
+*Related: C-1752, N-7, N-10267*
 
 **A-1442** Brian Harpole Interview Bundle
 
@@ -159,7 +159,7 @@ Video Timestamp: 00:30:52–00:31:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1753, N-424, N-10338*
+*Related: C-1753, N-272, N-10267*
 
 **A-1442.2** Brian Harpole on Shawn Ryan repeating the "3,000 lbs of energy" / "C6 vertebra" bullet-trajectory description
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:33:46–00:36:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1754, N-424*
+*Related: C-1754, N-272*
 
 **A-1443** Joe Rogan / Theo Von Conversation Bundle
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:36:19–00:41:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1755, N-427, N-205*
+*Related: C-1755, N-274, N-149*
 
 **A-1444** Tim Pool Video Bundle
 
@@ -193,7 +193,7 @@ Video Timestamp: 00:42:03–00:44:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1756, N-2, N-426*
+*Related: C-1756, N-2, N-273*
 
 **A-1444.2** Tim Pool clip stating he was told he couldn't come to AmFest and speculating it was due to his statements on stopping funding Israel and not giving money to Ukraine
 
@@ -203,7 +203,7 @@ Video Timestamp: 00:44:03–00:44:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1757, N-426, N-10339*
+*Related: C-1757, N-273, N-10268*
 
 ---
 
@@ -221,7 +221,7 @@ Investigative Pressure: High
 
 *Related: A-1435.1, A-1436.2, A-1441.1, A-1442.1, A-1442.2*
 
-**N-423** Christopher Wray
+**N-271** Christopher Wray
 
 FBI Director quoted in A-1440.1 press release regarding partnerships.
 
@@ -232,7 +232,7 @@ Investigative Pressure: Low
 
 *Related: A-1440.1, C-1751*
 
-**N-424** Brian Harpole
+**N-272** Brian Harpole
 
 TPUSA security figure whose statements on drones (A-1442.1) and bullet trajectory (A-1442.2) are presented.
 
@@ -241,9 +241,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1442.1, A-1442.2, C-1753, C-1754, N-10338*
+*Related: A-1442.1, A-1442.2, C-1753, C-1754, N-10267*
 
-**N-16** Frank Turek
+**N-7** Frank Turek
 
 TPUSA-affiliated individual who accompanied Charlie; Megan Kelly interview (A-1441.1) describing drones.
 
@@ -252,9 +252,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1441.1, C-1752, N-10338*
+*Related: A-1441.1, C-1752, N-10267*
 
-**N-426** Tim Pool
+**N-273** Tim Pool
 
 Independent commentator; clips (A-1444.1, A-1444.2) regarding podcast narrative and AmFest exclusion.
 
@@ -265,7 +265,7 @@ Investigative Pressure: Low
 
 *Related: A-1444.1, A-1444.2, C-1756, C-1757*
 
-**N-427** Joe Rogan
+**N-274** Joe Rogan
 
 Host of The Joe Rogan Experience; clip (A-1443.1) discussing conspiracies.
 
@@ -276,7 +276,7 @@ Investigative Pressure: Low
 
 *Related: A-1443.1, C-1755*
 
-**N-205** Theo Von
+**N-149** Theo Von
 
 Guest on Joe Rogan Experience; clip (A-1443.1) discussing conspiracies and Macron.
 
@@ -287,7 +287,7 @@ Investigative Pressure: Low
 
 *Related: A-1443.1, C-1755*
 
-**N-10336** 920 North King Street / 1 Rodney Square Federal Facility
+**N-10265** 920 North King Street / 1 Rodney Square Federal Facility
 
 Insider-claimed joint FBI/DEA/Secret Service site tied to SUBTT Wilmington visits; identified via 1997 DOJ directory (A-1437.1) and December 2024 FBI press release (A-1440.1).
 
@@ -298,7 +298,7 @@ Investigative Pressure: High
 
 *Related: A-1435.1, A-1437.1, A-1440.1, C-1748, C-1749, C-1751*
 
-**N-10337** SUBTT Wilmington Visit Pattern
+**N-10266** SUBTT Wilmington Visit Pattern
 
 Persistence of SUBTT (Egyptian military Falcon 7X) visits to Wilmington, Delaware before/after assassination; basis of insider email (A-1435.1) and host flight timeline (A-1436.1, A-1436.3).
 
@@ -309,7 +309,7 @@ Investigative Pressure: High
 
 *Related: A-1435.1, A-1436.1, A-1436.3, C-1745, C-1746, C-1747*
 
-**N-10338** TPUSA Drone Disclosure Discrepancy
+**N-10267** TPUSA Drone Disclosure Discrepancy
 
 Contradiction between Frank Turk (drones up, A-1441.1) and Brian Harpole (no drones allowed, A-1442.1) on whether drones were operating on the day of the event.
 
@@ -320,7 +320,7 @@ Investigative Pressure: Medium
 
 *Related: A-1441.1, A-1442.1, C-1752, C-1753*
 
-**N-10339** AmFest Speaker Removal Pattern
+**N-10268** AmFest Speaker Removal Pattern
 
 Tim Pool (A-1444.2) and host both describe being disinvited from TPUSA's AmFest.
 
@@ -331,7 +331,7 @@ Investigative Pressure: Low
 
 *Related: A-1444.2, C-1757*
 
-**N-10340** Wilmington Airport Hangar Federal Connection
+**N-10269** Wilmington Airport Hangar Federal Connection
 
 SATIDS (A-1438.1) and DRBA (A-1439.1) documents describing takeover of former Dassault hangar; DRBA operates on federally regulated waterways.
 
@@ -354,7 +354,7 @@ Claim: The yellow Egyptian government jet (tail number SUBTT) departed Provo, Ut
 
 Anchored Artifacts: A-1435.1, A-1436.1
 
-Related Nodes: N-10337
+Related Nodes: N-10266
 
 Investigative Direction: Cross-reference host's timeline against independent ADS-B / FlightAware historical data for September 10, 2025.
 
@@ -368,7 +368,7 @@ Claim: The Egyptian plane remained in Wilmington, Delaware overnight and departe
 
 Anchored Artifacts: A-1435.1, A-1436.1
 
-Related Nodes: N-10337
+Related Nodes: N-10266
 
 Investigative Direction: Verify overnight ground time via independent flight tracking and Wilmington airport records.
 
@@ -382,7 +382,7 @@ Claim: SUBTT flew Cairo–Paris–Wichita–Wilmington–Cairo on November 13, 2
 
 Anchored Artifacts: A-1435.1, A-1436.3
 
-Related Nodes: N-10337
+Related Nodes: N-10266
 
 Investigative Direction: Verify against independent historical ADS-B / FAA records for tail number SUBTT in November 2022.
 
@@ -396,7 +396,7 @@ Claim: A June 1997 Department of Justice directory (page titled 675) lists a Wil
 
 Anchored Artifacts: A-1437.1
 
-Related Nodes: N-10336
+Related Nodes: N-10265
 
 Investigative Direction: Obtain the cited DOJ directory and confirm page 675 directly; compare against current DOJ directory listings.
 
@@ -410,7 +410,7 @@ Claim: Current public directories show DEA, FBI, and U.S. Secret Service all lis
 
 Anchored Artifacts: A-1435.1, A-1437.1
 
-Related Nodes: N-10336
+Related Nodes: N-10265
 
 Investigative Direction: Verify via direct lookups of each agency's published Wilmington field office directory entries; cross-check Google business listings.
 
@@ -424,7 +424,7 @@ Claim: A French aircraft finishing company, SATIDS, announced in December 2024 i
 
 Anchored Artifacts: A-1438.1
 
-Related Nodes: N-10340
+Related Nodes: N-10269
 
 Investigative Direction: Locate SATIDS press release and Delaware outlet coverage; confirm date and dollar figure.
 
@@ -438,7 +438,7 @@ Claim: A Delaware River and Bay Authority (DRBA) January 2024 resolution authori
 
 Anchored Artifacts: A-1439.1
 
-Related Nodes: N-10340
+Related Nodes: N-10269
 
 Investigative Direction: Obtain the DRBA resolution document directly from DRBA public records.
 
@@ -451,9 +451,9 @@ Claim Timestamp: 00:17:46–00:18:30
 Claim: An FBI press release dated December 5, 2024 includes Director Christopher Wray emphasizing "key partners" and describing partnerships as closer than 5 or 10 years prior.
 
 Anchored Artifacts: A-1440.1
-Mentions: N-423
+Mentions: N-271
 
-Related Nodes: N-10336
+Related Nodes: N-10265
 
 Investigative Direction: Locate and review the FBI press release directly; verify quoted phrases and date.
 
@@ -466,9 +466,9 @@ Claim Timestamp: 00:31:42–00:32:39
 Claim: Frank Turk, on the Megan Kelly Show, stated that on the day of the event, Charlie's team had drones up looking at the crowd from above and texted him video footage during the drive-in.
 
 Anchored Artifacts: A-1441.1
-Mentions: N-16
+Mentions: N-7
 
-Related Nodes: N-10338
+Related Nodes: N-10267
 
 Investigative Direction: Obtain the full Megan Kelly / Frank Turk interview clip and timestamp; confirm exact wording.
 
@@ -481,9 +481,9 @@ Claim Timestamp: 00:30:52–00:31:42
 Claim: Brian Harpole, on the Shawn Ryan interview, stated TPUSA did not have drones at the event because he "wasn't allowed to have drones."
 
 Anchored Artifacts: A-1442.1
-Mentions: N-424, N-344
+Mentions: N-272, N-229
 
-Related Nodes: N-10338
+Related Nodes: N-10267
 
 Investigative Direction: Obtain the full Shawn Ryan / Brian Harpole interview clip and timestamp; confirm exact wording.
 
@@ -496,7 +496,7 @@ Claim Timestamp: 00:33:46–00:36:45
 Claim: Brian Harpole, on the Shawn Ryan interview, repeated the bullet-trajectory description involving entry, C6 vertebra crush, and 3,000 lbs of energy.
 
 Anchored Artifacts: A-1442.2
-Mentions: N-424, N-344
+Mentions: N-272, N-229
 
 
 Investigative Direction: Obtain the full interview clip; confirm exact wording and timestamps.
@@ -510,7 +510,7 @@ Claim Timestamp: 00:42:03–00:44:03
 Claim: Tim Pool stated in a video that the narrative from the number one podcast had turned into "conspiracy drama about Charlie Kirk if Turning Point was involved in it," with references to "Jewish donors pulling out" and "Erika knew everything."
 
 Anchored Artifacts: A-1444.1
-Mentions: N-2, N-426, N-3, N-1
+Mentions: N-2, N-273, N-3, N-1
 
 
 Investigative Direction: Locate Tim Pool's original video and timestamp the quoted language.
@@ -524,9 +524,9 @@ Claim Timestamp: 00:44:03–00:44:52
 Claim: Tim Pool stated in a video that he had been told he couldn't come to AmFest, speculating it might be due to his statements on funding Israel and giving money to Ukraine.
 
 Anchored Artifacts: A-1444.2
-Mentions: N-426
+Mentions: N-273
 
-Related Nodes: N-10339
+Related Nodes: N-10268
 
 Investigative Direction: Locate Tim Pool's original video and confirm AmFest / Afest naming and exact quoted language.
 
@@ -539,7 +539,7 @@ Claim Timestamp: 00:36:19–00:41:35
 Claim: On The Joe Rogan Experience, Joe Rogan and Theo Von stated that conspiracies are real, common, and especially effective when conducted by people in positions of extreme power running intelligence agencies.
 
 Anchored Artifacts: A-1443.1
-Mentions: N-205, N-427
+Mentions: N-149, N-274
 
 
 Investigative Direction: Identify the specific Rogan episode by number and date; preserve timestamp of the cited segment.

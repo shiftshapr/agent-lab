@@ -198,7 +198,7 @@
             "C-1642"
           ],
           "related_nodes": [
-            "N-10307"
+            "N-10237"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -300,8 +300,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-360",
-      "ref": "N-360",
+      "@id": "N-239",
+      "ref": "N-239",
       "name": "Elle Reeve",
       "type": "person",
       "description": "CNN journalist who conducted the aired CNN interview of Candace Owens; introduced in this episode and relevant as the named questioner in the \"Zionist-occupied government\" exchange.",
@@ -320,8 +320,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-340",
-      "ref": "N-340",
+      "@id": "N-227",
+      "ref": "N-227",
       "name": "Zohran Mamdani",
       "type": "person",
       "description": "NYC Democratic mayoral primary winner referenced in Tucker Carlson and Ben Shapiro stage discussions; relevant as the named political figure in the Mamdani-coverage dispute between Shapiro and Carlson.",
@@ -340,8 +340,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-362",
-      "ref": "N-362",
+      "@id": "N-240",
+      "ref": "N-240",
       "name": "Ariana",
       "type": "person",
       "description": "Daily Wire intern identified by Candace Owens at YWLS 2024 as having been dispatched covertly to record Owens. Full surname not stated.",
@@ -359,8 +359,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10306",
-      "ref": "N-10306",
+      "@id": "N-10236",
+      "ref": "N-10236",
       "name": "Megyn Kelly Tour Attendee Authenticity Question",
       "type": "investigation_target",
       "description": "Persistent question whether attendees asking questions and applauding at Megyn Kelly tour stops are organic or coordinated. Owens claims they are coordinated by pro-Israel lobby groups (specifically YAF-affiliated individuals).",
@@ -380,8 +380,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10307",
-      "ref": "N-10307",
+      "@id": "N-10237",
+      "ref": "N-10237",
       "name": "Shapiro Statement Accuracy Re: Owens' Accusations",
       "type": "investigation_target",
       "description": "Verification target: whether Ben Shapiro's stage characterization that Candace Owens accused Erika Kirk and Seth Dylan of involvement in Charlie Kirk's murder is accurate. Owens denies the characterization in the same episode.",
@@ -401,8 +401,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10308",
-      "ref": "N-10308",
+      "@id": "N-10238",
+      "ref": "N-10238",
       "name": "Daily Wire Intern Covert Recording Operation",
       "type": "investigation_target",
       "description": "Persistent target: the alleged Daily Wire practice of dispatching interns (e.g., Ariana) to conservative events to covertly record hosts and feed the recordings into media cycles. Owens claims this was coordinated, in part, by Alyssa Cordova.",
@@ -436,8 +436,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
@@ -452,8 +452,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-67",
-      "ref": "N-67",
+      "@id": "N-38",
+      "ref": "N-38",
       "name": "Seth Dillon",
       "type": "person",
       "description": "Subject of Hampton retreat confrontation with Charlie Kirk over hypothetical anti-Netanyahu tweet.",
@@ -468,8 +468,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-75",
-      "ref": "N-75",
+      "@id": "N-46",
+      "ref": "N-46",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
@@ -484,8 +484,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
+      "@id": "N-97",
+      "ref": "N-97",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
@@ -500,8 +500,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-293",
-      "ref": "N-293",
+      "@id": "N-205",
+      "ref": "N-205",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Banned on Instagram/YouTube yet clipped widely; Atlantic also lists him among Elephant Clipping banned subjects.",
@@ -531,10 +531,10 @@
       "claim_timestamp": "00:09:56–00:10:33",
       "investigative_direction": "Obtain transcripts/recordings of the cited Carlson and Shapiro shows to verify the cited counts and whether Mamdani was mentioned substantively or in passing.",
       "mentions_person_refs": [
-        "N-340",
-        "N-50",
-        "N-75",
-        "N-133"
+        "N-227",
+        "N-22",
+        "N-46",
+        "N-97"
       ]
     },
     {
@@ -552,8 +552,8 @@
       "investigative_direction": "Compare Shapiro's exact phrasing on stage to prior and subsequent statements to determine whether \"evil\" was used to characterize Owens' investigation, her rhetoric, or both.",
       "mentions_person_refs": [
         "N-3",
-        "N-75",
-        "N-133"
+        "N-46",
+        "N-97"
       ]
     },
     {
@@ -566,7 +566,7 @@
         "A-1356.1"
       ],
       "related_nodes": [
-        "N-10307"
+        "N-10237"
       ],
       "tags": [],
       "claim_timestamp": "00:09:56–00:10:33",
@@ -574,8 +574,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-75",
-        "N-133",
+        "N-46",
+        "N-97",
         "N-2"
       ]
     },
@@ -589,7 +589,7 @@
         "A-1356.1"
       ],
       "related_nodes": [
-        "N-10307"
+        "N-10237"
       ],
       "tags": [],
       "claim_timestamp": "00:09:56–00:10:33",
@@ -597,9 +597,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-75",
-        "N-133",
-        "N-67"
+        "N-46",
+        "N-97",
+        "N-38"
       ]
     },
     {
@@ -617,7 +617,7 @@
       "claim_timestamp": "00:14:04",
       "investigative_direction": "Verify the original X Space audio against the HuffPost excerpts and check whether Boring's characterization of Fuentes was later retracted.",
       "mentions_person_refs": [
-        "N-293"
+        "N-205"
       ]
     },
     {
@@ -635,7 +635,7 @@
       "claim_timestamp": "00:14:04–00:15:45",
       "investigative_direction": "Confirm via the original X Space audio that this invitation was extended unconditionally and identify whether Daily Wire subsequently acted on the invitation.",
       "mentions_person_refs": [
-        "N-293"
+        "N-205"
       ]
     },
     {
@@ -649,7 +649,7 @@
         "A-1360.2"
       ],
       "related_nodes": [
-        "N-10307"
+        "N-10237"
       ],
       "tags": [],
       "claim_timestamp": "00:16:27–00:17:50",
@@ -657,7 +657,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-133"
+        "N-97"
       ]
     },
     {
@@ -670,13 +670,13 @@
         "A-1361.1"
       ],
       "related_nodes": [
-        "N-10308"
+        "N-10238"
       ],
       "tags": [],
       "claim_timestamp": "00:25:16–00:27:36",
       "investigative_direction": "Identify the full name of the intern, confirm her employment status with Daily Wire at the time, and obtain corroboration from contemporaneous attendees or recordings.",
       "mentions_person_refs": [
-        "N-362",
+        "N-240",
         "N-3"
       ]
     },
@@ -694,7 +694,7 @@
       "claim_timestamp": "00:33:44–00:35:14",
       "investigative_direction": "Pull the full CNN interview transcript to verify the exact phrasing and surrounding context.",
       "mentions_person_refs": [
-        "N-360",
+        "N-239",
         "N-3"
       ]
     },
@@ -712,7 +712,7 @@
       "claim_timestamp": "00:33:44–00:35:14",
       "investigative_direction": "Obtain the full CNN interview and any related Reeve reporting to verify the broader framing of the exchange.",
       "mentions_person_refs": [
-        "N-360"
+        "N-239"
       ]
     },
     {
@@ -760,8 +760,8 @@
       "claim_timestamp": "00:02:12",
       "investigative_direction": "Locate the original tweet via X/Twitter search or web archives to verify the exact wording, the date, and whether the tweet was later deleted or amended.",
       "mentions_person_refs": [
-        "N-293",
-        "N-133"
+        "N-205",
+        "N-97"
       ]
     },
     {
@@ -778,7 +778,7 @@
       "claim_timestamp": "00:02:12",
       "investigative_direction": "Locate the original tweets via web archives to verify wording, date, and any subsequent deletion or apology.",
       "mentions_person_refs": [
-        "N-133"
+        "N-97"
       ]
     },
     {
@@ -796,8 +796,8 @@
       "investigative_direction": "Verify the exchange via Carlson or Shapiro public statements, and confirm whether the outreach was conducted on both sides after the cited date.",
       "mentions_person_refs": [
         "N-1",
-        "N-50",
-        "N-133"
+        "N-22",
+        "N-97"
       ]
     },
     {
@@ -815,7 +815,7 @@
       "investigative_direction": "Confirm the interview date against CNN's published interview records or the original broadcast timestamp.",
       "mentions_person_refs": [
         "N-1",
-        "N-360",
+        "N-239",
         "N-3"
       ]
     }

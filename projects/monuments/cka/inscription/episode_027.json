@@ -58,7 +58,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-313"
+            "N-215"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -78,7 +78,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-313"
+            "N-215"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -97,7 +97,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-313"
+            "N-215"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -116,7 +116,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-313"
+            "N-215"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -142,8 +142,8 @@
             "C-1625"
           ],
           "related_nodes": [
-            "N-349",
-            "N-10298"
+            "N-232",
+            "N-10228"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -162,8 +162,8 @@
             "C-3740"
           ],
           "related_nodes": [
-            "N-349",
-            "N-10298"
+            "N-232",
+            "N-10228"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -190,8 +190,8 @@
             "C-1628"
           ],
           "related_nodes": [
-            "N-350",
-            "N-10298"
+            "N-233",
+            "N-10228"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -217,8 +217,8 @@
             "C-1629"
           ],
           "related_nodes": [
-            "N-135",
-            "N-272"
+            "N-99",
+            "N-194"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -236,7 +236,7 @@
             "C-1630"
           ],
           "related_nodes": [
-            "N-135"
+            "N-99"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -262,8 +262,8 @@
             "C-1631"
           ],
           "related_nodes": [
-            "N-353",
-            "N-10301"
+            "N-234",
+            "N-10231"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -289,7 +289,7 @@
             "C-1632"
           ],
           "related_nodes": [
-            "N-235"
+            "N-171"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -315,8 +315,8 @@
             "C-1633"
           ],
           "related_nodes": [
-            "N-355",
-            "N-10302"
+            "N-235",
+            "N-10232"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -343,8 +343,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-313",
-            "N-10303"
+            "N-215",
+            "N-10233"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -371,10 +371,10 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-135",
-            "N-356",
-            "N-10304",
-            "N-10305"
+            "N-99",
+            "N-236",
+            "N-10234",
+            "N-10235"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -392,7 +392,7 @@
             "C-1635"
           ],
           "related_nodes": [
-            "N-359"
+            "N-238"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -407,8 +407,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-313",
-      "ref": "N-313",
+      "@id": "N-215",
+      "ref": "N-215",
       "name": "Jesse Watters",
       "type": "person",
       "description": "Interviewer in the Fox News sit-down; visible in Ole Miss backstage video with Erika.",
@@ -430,8 +430,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-349",
-      "ref": "N-349",
+      "@id": "N-232",
+      "ref": "N-232",
       "name": "Allie Beth Stuckey",
       "type": "person",
       "description": "Author of two artifact-anchored tweets disputing host's UVU event-approval claim.",
@@ -449,13 +449,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10298"
+        "N-10228"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-350",
-      "ref": "N-350",
+      "@id": "N-233",
+      "ref": "N-233",
       "name": "Lila Rose",
       "type": "person",
       "description": "Author of one artifact-anchored tweet pair referencing Stanford/Yale speaking events; relevance is to the UVU event-approval dispute.",
@@ -472,13 +472,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10298"
+        "N-10228"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-135",
-      "ref": "N-135",
+      "@id": "N-99",
+      "ref": "N-99",
       "name": "Alex Clark",
       "type": "person",
       "description": "Author of two artifact-anchored tweets; subject of Tom Paul comment referencing her show.",
@@ -498,14 +498,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-272",
-        "N-10304"
+        "N-194",
+        "N-10234"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Subject of Alex Clark's defense tweet (Korea/Japan trip) and host's standing concerns about his post-assassination public posture; named as having taken over Charlie's Liberty University speaking slot (per host commentary, not artifact-anchored in this episode).",
@@ -521,13 +521,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-135"
+        "N-99"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-353",
-      "ref": "N-353",
+      "@id": "N-234",
+      "ref": "N-234",
       "name": "Alyssa Cordova",
       "type": "person",
       "description": "Author of one artifact-anchored tweet referencing TPUSA/Blexit NDA speculation.",
@@ -543,13 +543,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10301"
+        "N-10231"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-235",
-      "ref": "N-235",
+      "@id": "N-171",
+      "ref": "N-171",
       "name": "Dinesh D'Souza",
       "type": "person",
       "description": "Author of one artifact-anchored X post.",
@@ -567,11 +567,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-355",
-      "ref": "N-355",
+      "@id": "N-235",
+      "ref": "N-235",
       "name": "Colby Sessions",
       "type": "person",
-      "description": "UVU student who self-identified as the \"green hoodie\" figure at the event; artifact resolves N-10302.",
+      "description": "UVU student who self-identified as the \"green hoodie\" figure at the event; artifact resolves N-10232.",
       "related_artifacts": [
         "A-1352.1"
       ],
@@ -584,13 +584,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10302"
+        "N-10232"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-356",
-      "ref": "N-356",
+      "@id": "N-236",
+      "ref": "N-236",
       "name": "Andrew Klavan",
       "type": "person",
       "description": "Referenced in Tom Paul viewer comment as having discussed Charlie's heartbeat on the Alex Clark show.",
@@ -606,13 +606,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10304"
+        "N-10234"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Referenced by host as having stated on stage that Charlie was gone by the time he was in the car (host commentary only, not artifact-anchored in this episode).",
@@ -624,13 +624,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10304"
+        "N-10234"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-358",
-      "ref": "N-358",
+      "@id": "N-237",
+      "ref": "N-237",
       "name": "Tom Paul",
       "type": "person",
       "description": "Author of substantive viewer comment (A-1354.1) referencing external commentary; tracked as source node.",
@@ -648,8 +648,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-359",
-      "ref": "N-359",
+      "@id": "N-238",
+      "ref": "N-238",
       "name": "Arm Hanna",
       "type": "person",
       "description": "Author of viewer comment (A-1354.2) reinforcing host's framing on forgiveness; tracked as source node.",
@@ -667,8 +667,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10298",
-      "ref": "N-10298",
+      "@id": "N-10228",
+      "ref": "N-10228",
       "name": "UVU Event Approval Timeline Discrepancy",
       "type": "investigation_target",
       "description": "Dispute over whether the UVU campus stop was \"approved\" in July or only \"requested,\" and over the typical timeline from request to event. Only Allie's side is artifact-anchored in this episode.",
@@ -689,14 +689,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-349",
-        "N-350"
+        "N-232",
+        "N-233"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10299",
-      "ref": "N-10299",
+      "@id": "N-10229",
+      "ref": "N-10229",
       "name": "Autopsy Report and Evidence Access Asymmetry",
       "type": "investigation_target",
       "description": "Erika Kirk's stated direct access to the autopsy report and \"different evidence portions,\" contrasted with the public record of fragmented disclosures.",
@@ -717,8 +717,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10300",
-      "ref": "N-10300",
+      "@id": "N-10230",
+      "ref": "N-10230",
       "name": "Saint Michael Pendant / Charlie Catholic-Curious Status",
       "type": "investigation_target",
       "description": "Whether Charlie Kirk was on a spiritual journey toward Catholicism at the time of his death. Erika Kirk's interview confirms the Saint Michael pendant and its personal significance; Allie Beth Stuckey's referenced private text exchange (mentioned in this episode but not displayed) is the principal counter-claim.",
@@ -741,8 +741,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10301",
-      "ref": "N-10301",
+      "@id": "N-10231",
+      "ref": "N-10231",
       "name": "TPUSA / Candace Owens NDA and Blexit Question",
       "type": "investigation_target",
       "description": "Alyssa Cordova's speculation that an NDA exists between TPUSA and Candace Owens via the Blexit business arrangement.",
@@ -758,13 +758,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-353"
+        "N-234"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10302",
-      "ref": "N-10302",
+      "@id": "N-10232",
+      "ref": "N-10232",
       "name": "UVU Green Hoodie Person Identification (Resolved)",
       "type": "investigation_target",
       "description": "Colby Sessions publicly identified himself as the figure in the green hoodie at the UVU event, apparently closing the speculative inquiry.",
@@ -780,13 +780,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-355"
+        "N-235"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10303",
-      "ref": "N-10303",
+      "@id": "N-10233",
+      "ref": "N-10233",
       "name": "Priest Presence at Ole Miss Event",
       "type": "investigation_target",
       "description": "Host observation of a priest in backstage video at the University of Mississippi event alongside Watters and Kirk; also referenced as the same priest who accompanied Erika to the hospital after the shooting.",
@@ -803,14 +803,14 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-313",
-        "N-10300"
+        "N-215",
+        "N-10230"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10304",
-      "ref": "N-10304",
+      "@id": "N-10234",
+      "ref": "N-10234",
       "name": "Charlie's Heart Still Beating Question",
       "type": "investigation_target",
       "description": "Tom Paul's viewer-mediated reference to Andrew Klavan's claim on the Alex Clark show that Charlie's heart was still beating, juxtaposed against statements that he died instantly / went instantly to heaven.",
@@ -826,16 +826,16 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-356",
-        "N-135",
+        "N-236",
+        "N-99",
         "N-2",
-        "N-16"
+        "N-7"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10305",
-      "ref": "N-10305",
+      "@id": "N-10235",
+      "ref": "N-10235",
       "name": "Erika–Charlie 2018 Israel Airport Meeting Question",
       "type": "investigation_target",
       "description": "Tom Paul's reference to Erika first seeing Charlie at an airport in Israel in May 2018 with her mom; host recalls possibly the embassy opening but expresses uncertainty.",
@@ -886,8 +886,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-98",
-      "ref": "N-98",
+      "@id": "N-67",
+      "ref": "N-67",
       "name": "Mark Herman (director, Candace show)",
       "type": "person",
       "description": "In-house director on Candace Owens' show, called on air by first name. The host names him in her team roster here: \"Chris in editing, Mark mansplaining, and also being our director, Skyler, the producer\". Later he corrects the memorial date in her ear (\"Mansplained in my ear. Thank you, Mark.\"). No claim anchor; registered for cross-episode continuity.",
@@ -995,7 +995,7 @@
         "A-1346.2"
       ],
       "related_nodes": [
-        "N-10299"
+        "N-10229"
       ],
       "tags": [],
       "claim_timestamp": "00:12:21",
@@ -1014,7 +1014,7 @@
         "A-1346.3"
       ],
       "related_nodes": [
-        "N-10300"
+        "N-10230"
       ],
       "tags": [],
       "claim_timestamp": "00:16:16",
@@ -1033,15 +1033,15 @@
         "A-1353.1"
       ],
       "related_nodes": [
-        "N-10303",
-        "N-10300"
+        "N-10233",
+        "N-10230"
       ],
       "tags": [],
       "claim_timestamp": "00:15:23",
       "investigative_direction": "Obtain original footage to identify the priest and any associated institution.",
       "mentions_person_refs": [
         "N-2",
-        "N-313"
+        "N-215"
       ]
     },
     {
@@ -1071,13 +1071,13 @@
         "A-1347.1"
       ],
       "related_nodes": [
-        "N-10298"
+        "N-10228"
       ],
       "tags": [],
       "claim_timestamp": "00:35:13",
       "investigative_direction": "Obtain Allie's underlying text message exchange with Charlie to verify the quoted framing; cross-reference against host's previously displayed email.",
       "mentions_person_refs": [
-        "N-349"
+        "N-232"
       ]
     },
     {
@@ -1090,13 +1090,13 @@
         "A-1347.2"
       ],
       "related_nodes": [
-        "N-10298"
+        "N-10228"
       ],
       "tags": [],
       "claim_timestamp": "00:36:03",
       "investigative_direction": "Obtain the underlying text thread to verify Allie's characterization of venue status.",
       "mentions_person_refs": [
-        "N-349"
+        "N-232"
       ]
     },
     {
@@ -1109,7 +1109,7 @@
         "A-1347.2"
       ],
       "related_nodes": [
-        "N-10298"
+        "N-10228"
       ],
       "tags": [],
       "claim_timestamp": "00:36:03",
@@ -1118,7 +1118,7 @@
         "C-1626"
       ],
       "mentions_person_refs": [
-        "N-349"
+        "N-232"
       ],
       "transcript_snippet": "She says, \"Since some of you guys are struggling, no venue yet, 2 months out.\"",
       "confidence": "high"
@@ -1133,13 +1133,13 @@
         "A-1348.1"
       ],
       "related_nodes": [
-        "N-10298"
+        "N-10228"
       ],
       "tags": [],
       "claim_timestamp": "00:37:49",
       "investigative_direction": "Verify Lila Rose's Stanford invitation claim against the host's stated Stanford event-planning baseline.",
       "mentions_person_refs": [
-        "N-350"
+        "N-233"
       ]
     },
     {
@@ -1152,13 +1152,13 @@
         "A-1348.1"
       ],
       "related_nodes": [
-        "N-10298"
+        "N-10228"
       ],
       "tags": [],
       "claim_timestamp": "00:37:49",
       "investigative_direction": "Identify the Yale debate date and verify against Yale Political Union scheduling records.",
       "mentions_person_refs": [
-        "N-350"
+        "N-233"
       ]
     },
     {
@@ -1175,8 +1175,8 @@
       "claim_timestamp": "00:46:46",
       "investigative_direction": "Identify the named production director and verify travel scheduling records.",
       "mentions_person_refs": [
-        "N-135",
-        "N-272"
+        "N-99",
+        "N-194"
       ]
     },
     {
@@ -1193,7 +1193,7 @@
       "claim_timestamp": "00:48:47",
       "investigative_direction": "Verify whether Alex Clark's tribute episodes were ad-free across all tribute outputs, not selectively.",
       "mentions_person_refs": [
-        "N-135"
+        "N-99"
       ]
     },
     {
@@ -1206,13 +1206,13 @@
         "A-1350.1"
       ],
       "related_nodes": [
-        "N-10301"
+        "N-10231"
       ],
       "tags": [],
       "claim_timestamp": "00:55:21",
       "investigative_direction": "Confirm or refute the existence of any such NDA through document disclosure or direct party confirmation.",
       "mentions_person_refs": [
-        "N-353",
+        "N-234",
         "N-3"
       ]
     },
@@ -1230,7 +1230,7 @@
       "claim_timestamp": "00:57:25",
       "investigative_direction": "Capture original post timestamp and any subsequent D'Souza commentary on the investigation.",
       "mentions_person_refs": [
-        "N-235"
+        "N-171"
       ]
     },
     {
@@ -1243,13 +1243,13 @@
         "A-1352.1"
       ],
       "related_nodes": [
-        "N-10302"
+        "N-10232"
       ],
       "tags": [],
       "claim_timestamp": "00:25:41",
       "investigative_direction": "Verify Colby Sessions's UVU student status and the existence of the underlying social media post.",
       "mentions_person_refs": [
-        "N-355"
+        "N-235"
       ]
     },
     {
@@ -1262,16 +1262,16 @@
         "A-1354.1"
       ],
       "related_nodes": [
-        "N-10304"
+        "N-10234"
       ],
       "tags": [],
       "claim_timestamp": "00:59:56",
       "investigative_direction": "Locate the specific Alex Clark show episode and Andrew Klavan segment to verify the exact framing and any offered explanation.",
       "mentions_person_refs": [
         "N-2",
-        "N-135",
-        "N-356",
-        "N-358"
+        "N-99",
+        "N-236",
+        "N-237"
       ]
     },
     {
@@ -1288,7 +1288,7 @@
       "claim_timestamp": "1:03:27",
       "investigative_direction": "None – viewer opinion, not an investigative target.",
       "mentions_person_refs": [
-        "N-359"
+        "N-238"
       ]
     },
     {
@@ -1307,7 +1307,7 @@
       "transcript_snippet": "Turning Point USA's telling a lot of lies. They're engaged in a cover-up. I said it. I'm putting my name on that.",
       "mentions_person_refs": [
         "N-3",
-        "N-135"
+        "N-99"
       ]
     }
   ],

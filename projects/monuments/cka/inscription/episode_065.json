@@ -31,8 +31,8 @@
             "C-2230"
           ],
           "related_nodes": [
-            "N-798",
-            "N-10524"
+            "N-509",
+            "N-10453"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -59,8 +59,8 @@
             "C-2227"
           ],
           "related_nodes": [
-            "N-798",
-            "N-10523"
+            "N-509",
+            "N-10452"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -122,8 +122,8 @@
             "C-2231"
           ],
           "related_nodes": [
-            "N-802",
-            "N-10529"
+            "N-513",
+            "N-10458"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -192,11 +192,11 @@
             "C-2229"
           ],
           "related_nodes": [
-            "N-799",
-            "N-800",
-            "N-798",
-            "N-10531",
-            "N-10535"
+            "N-510",
+            "N-511",
+            "N-509",
+            "N-10460",
+            "N-10464"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -222,8 +222,8 @@
             "C-2237"
           ],
           "related_nodes": [
-            "N-798",
-            "N-10530"
+            "N-509",
+            "N-10459"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -249,8 +249,8 @@
             "C-2229"
           ],
           "related_nodes": [
-            "N-799",
-            "N-10535"
+            "N-510",
+            "N-10464"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -277,9 +277,9 @@
             "C-2233"
           ],
           "related_nodes": [
-            "N-801",
-            "N-10531",
-            "N-10532"
+            "N-512",
+            "N-10460",
+            "N-10461"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -305,8 +305,8 @@
             "C-2234"
           ],
           "related_nodes": [
-            "N-10525",
-            "N-10533"
+            "N-10454",
+            "N-10462"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -330,9 +330,9 @@
           "description": "Elie Wiesel / Auschwitz Museum Revision of Joseph Mengele Account",
           "related_claims": [],
           "related_nodes": [
-            "N-10525",
-            "N-10536",
-            "N-630"
+            "N-10454",
+            "N-10465",
+            "N-389"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -356,7 +356,7 @@
           "description": "Ex-IDF Whistleblower Movement Reference",
           "related_claims": [],
           "related_nodes": [
-            "N-10525"
+            "N-10454"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -380,7 +380,7 @@
           "description": "Ben Shapiro Debating Young Questioner on USS Liberty at TPUSA",
           "related_claims": [],
           "related_nodes": [
-            "N-10522"
+            "N-10451"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -439,8 +439,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-798",
-      "ref": "N-798",
+      "@id": "N-509",
+      "ref": "N-509",
       "name": "Bassem Youssef",
       "type": "person",
       "description": "Egyptian-born comedian, former cardiothoracic surgeon, immigrant who became U.S. citizen in December 2019. Central interview subject of this episode. Source of multiple artifact-backed and testimonial claims regarding Israel, the USS Liberty, and Charlie Kirk.",
@@ -461,14 +461,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10523",
-        "N-10524"
+        "N-10452",
+        "N-10453"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-799",
-      "ref": "N-799",
+      "@id": "N-510",
+      "ref": "N-510",
       "name": "Phil Turney",
       "type": "person",
       "description": "USS Liberty survivor, subject of Candace Owens' prior sit-down interview referenced in this episode. According to host, Turney gave her his Purple Heart and cried during the conversation.",
@@ -485,14 +485,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10522",
-        "N-10535"
+        "N-10451",
+        "N-10464"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-800",
-      "ref": "N-800",
+      "@id": "N-511",
+      "ref": "N-511",
       "name": "Ward Boston",
       "type": "person",
       "description": "Navy Judge Advocate General who investigated the USS Liberty incident. Per viewer comment A-1694.1, published a notarized statement in the San Diego Union Tribune asserting the investigation was a cover-up and the attack was deliberate.",
@@ -508,13 +508,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10522"
+        "N-10451"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-801",
-      "ref": "N-801",
+      "@id": "N-512",
+      "ref": "N-512",
       "name": "Victor Ostrovsky",
       "type": "person",
       "description": "Mossad agent (per Youssef) and author of *By Way of Deception*. Alleged by Youssef to have written in his book that Mossad had advance knowledge of the 1982 Beirut barracks bombing.",
@@ -531,14 +531,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10531",
-        "N-10532"
+        "N-10460",
+        "N-10461"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-802",
-      "ref": "N-802",
+      "@id": "N-513",
+      "ref": "N-513",
       "name": "Arson Arstrovski",
       "type": "person",
       "description": "Claimed October 7th survivor. Subject of two on-screen photos (A-1693.1, A-1693.2). Host remarks on authenticity concerns: bandage photo lacks blood despite bloody face.",
@@ -555,13 +555,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10529"
+        "N-10458"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-45",
-      "ref": "N-45",
+      "@id": "N-17",
+      "ref": "N-17",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Pastor at Calvary Chapel (per host). Host claims he was purportedly close to Charlie Kirk but that Charlie \"couldn't stand him toward the end.\" Host also claims his father ran psychological operations for the Navy. (Host claim about father is host opinion – not artifact-backed in this episode.)",
@@ -573,13 +573,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10536"
+        "N-10465"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-298",
-      "ref": "N-298",
+      "@id": "N-208",
+      "ref": "N-208",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Interviewer; host of the show where Youssef displayed the casualty chart cited in A-1690.1.",
@@ -595,13 +595,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-798"
+        "N-509"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10522",
-      "ref": "N-10522",
+      "@id": "N-10451",
+      "ref": "N-10451",
       "name": "USS Liberty Incident Cover-up Investigation",
       "type": "investigation_target",
       "description": "Persistent investigative target across the series. This episode surfaces additional verification material: Ward Boston notarized statement (via viewer) and Victor Ostrovsky book reference. Host also notes New York Times is preparing a USS Liberty piece.",
@@ -620,14 +620,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-799",
-        "N-800"
+        "N-510",
+        "N-511"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10523",
-      "ref": "N-10523",
+      "@id": "N-10452",
+      "ref": "N-10452",
       "name": "Candace Owens Anti-Semite of Year 2024 Nomination",
       "type": "investigation_target",
       "description": "Persistent series element. In this episode confirmed via opening clip A-1691.1 referencing both her nomination and Tucker Carlson's win.",
@@ -644,13 +644,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-798"
+        "N-509"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10524",
-      "ref": "N-10524",
+      "@id": "N-10453",
+      "ref": "N-10453",
       "name": "Piers Morgan Bassem Youssef Chart Numbers Claim",
       "type": "investigation_target",
       "description": "Specific 2014 figures cited by Youssef: 88 Israelis vs. 2,329 Palestinians killed (ratio ~1:27). Plus reference to 7,000 West Bank Palestinians killed since occupation.",
@@ -666,14 +666,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-798",
-        "N-298"
+        "N-509",
+        "N-208"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10525",
-      "ref": "N-10525",
+      "@id": "N-10454",
+      "ref": "N-10454",
       "name": "Gaza Death Toll and Documentation Claims",
       "type": "investigation_target",
       "description": "Composite node tracking Youssef and Owens' on-record statements about Gaza casualties and the documentation of them.",
@@ -691,8 +691,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10526",
-      "ref": "N-10526",
+      "@id": "N-10455",
+      "ref": "N-10455",
       "name": "Andrew Kolvet Charlie Kirk Twitter Control Claim",
       "type": "investigation_target",
       "description": "Youssef states \"Charlie didn't run his Twitter feed. Andrew Kovette did.\" (A-1690 transcript)",
@@ -707,8 +707,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10527",
-      "ref": "N-10527",
+      "@id": "N-10456",
+      "ref": "N-10456",
       "name": "Charlie Kirk BB Netanyahu Show Refusal",
       "type": "investigation_target",
       "description": "Per host Candace Owens: \"When BB went on a little mini tour and went on everyone's shows sometime in August, Charlie didn't let him on a show.\" (A-1690 transcript)",
@@ -722,8 +722,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10528",
-      "ref": "N-10528",
+      "@id": "N-10457",
+      "ref": "N-10457",
       "name": "New York Times USS Liberty Investigation Reporting",
       "type": "investigation_target",
       "description": "Per host, NYT contacted her regarding her Phil Turney interview and is preparing a piece on USS Liberty.",
@@ -735,14 +735,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10522",
-        "N-799"
+        "N-10451",
+        "N-510"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10529",
-      "ref": "N-10529",
+      "@id": "N-10458",
+      "ref": "N-10458",
       "name": "Arstrovski October 7th Photo Authenticity Question",
       "type": "investigation_target",
       "description": "Discrepancy noted in the two photos: blood on face vs. no blood on bandages.",
@@ -759,13 +759,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-802"
+        "N-513"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10530",
-      "ref": "N-10530",
+      "@id": "N-10459",
+      "ref": "N-10459",
       "name": "Bassem Youssef Belly of the Beast Tour Schedule",
       "type": "investigation_target",
       "description": "Documented tour dates: Portland 3/20, Seattle 3/21, plus Philadelphia, DC, Houston, Atlanta.",
@@ -781,13 +781,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-798"
+        "N-509"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10531",
-      "ref": "N-10531",
+      "@id": "N-10460",
+      "ref": "N-10460",
       "name": "Victor Ostrovsky *By Way of Deception* 24-Hour Gag Order Claim",
       "type": "investigation_target",
       "description": "Claim that the book was subject to a 24-hour gag order in 1992, described as \"the first and last ever gag order on an American book.\"",
@@ -803,13 +803,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-801"
+        "N-512"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10532",
-      "ref": "N-10532",
+      "@id": "N-10461",
+      "ref": "N-10461",
       "name": "1982 Beirut Barracks Bombing Mossad Advance Knowledge Claim",
       "type": "investigation_target",
       "description": "Per Ostrovsky book (per Youssef): Mossad allegedly knew about the bombing of U.S. Marines in Beirut in advance and withheld information.",
@@ -825,13 +825,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-801"
+        "N-512"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10533",
-      "ref": "N-10533",
+      "@id": "N-10462",
+      "ref": "N-10462",
       "name": "*Till Kingdom Come* Documentary Pastors Clip",
       "type": "investigation_target",
       "description": "Verbal reference to documentary showing pastors telling children Jews are more special.",
@@ -849,8 +849,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10534",
-      "ref": "N-10534",
+      "@id": "N-10463",
+      "ref": "N-10463",
       "name": "Ward Boston Notarized Statement San Diego Union Tribune",
       "type": "investigation_target",
       "description": "Specific publication reference: Ward Boston's notarized statement was published in the San Diego Union Tribune before his death.",
@@ -866,14 +866,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-800",
-        "N-10522"
+        "N-511",
+        "N-10451"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10535",
-      "ref": "N-10535",
+      "@id": "N-10464",
+      "ref": "N-10464",
       "name": "Candace Phil Turney Interview View Count",
       "type": "investigation_target",
       "description": "Approximately 7 million views cited by host at 01:21:47 (also noted in a Project Constitution viewer comment).",
@@ -890,13 +890,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-799"
+        "N-510"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10536",
-      "ref": "N-10536",
+      "@id": "N-10465",
+      "ref": "N-10465",
       "name": "Calvary Chapel Church CIA Connection Question",
       "type": "investigation_target",
       "description": "Host claim that Calvary Chapel is \"a CIA story\" and that Rob McCoy's father ran Navy psychological operations. (Host claim – not artifact-anchored in this episode beyond host testimony.)",
@@ -908,7 +908,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-45"
+        "N-17"
       ]
     },
     {
@@ -945,8 +945,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
@@ -961,8 +961,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-65",
-      "ref": "N-65",
+      "@id": "N-36",
+      "ref": "N-36",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
@@ -977,8 +977,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-630",
-      "ref": "N-630",
+      "@id": "N-389",
+      "ref": "N-389",
       "name": "Josef Mengele",
       "type": "person",
       "description": "First named at 00:38:13 in episode 65 (A-1699.1). Aliases: Joseph Mengele.",
@@ -1004,14 +1004,14 @@
         "A-1690.1"
       ],
       "related_nodes": [
-        "N-10524"
+        "N-10453"
       ],
       "tags": [],
       "claim_timestamp": "00:43:21",
       "investigative_direction": "Verify against original Piers Morgan broadcast; cross-check 2014 OCHA/UN OPt casualty figures.",
       "mentions_person_refs": [
-        "N-298",
-        "N-798"
+        "N-208",
+        "N-509"
       ]
     },
     {
@@ -1024,13 +1024,13 @@
         "A-1691.1"
       ],
       "related_nodes": [
-        "N-10523"
+        "N-10452"
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Verify with Anti-Semite of the Year award organization records.",
       "mentions_person_refs": [
-        "N-798",
+        "N-509",
         "N-3"
       ]
     },
@@ -1044,13 +1044,13 @@
         "A-1691.1"
       ],
       "related_nodes": [
-        "N-10523"
+        "N-10452"
       ],
       "tags": [],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Verify with award organization records.",
       "mentions_person_refs": [
-        "N-50"
+        "N-22"
       ]
     },
     {
@@ -1063,14 +1063,14 @@
         "A-1694.1"
       ],
       "related_nodes": [
-        "N-10522",
-        "N-10534"
+        "N-10451",
+        "N-10463"
       ],
       "tags": [],
       "claim_timestamp": "01:21:47",
       "investigative_direction": "Obtain the original San Diego Union Tribune publication and Ward Boston's notarized statement; verify date and text.",
       "mentions_person_refs": [
-        "N-800"
+        "N-511"
       ]
     },
     {
@@ -1083,15 +1083,15 @@
         "A-1694.2"
       ],
       "related_nodes": [
-        "N-10522",
-        "N-10528",
-        "N-10535"
+        "N-10451",
+        "N-10457",
+        "N-10464"
       ],
       "tags": [],
       "claim_timestamp": "01:23:21",
       "investigative_direction": "Verify view count via YouTube analytics or platform data.",
       "mentions_person_refs": [
-        "N-799",
+        "N-510",
         "N-3"
       ]
     },
@@ -1107,7 +1107,7 @@
       "claim_timestamp": "00:00:54–00:01:21",
       "investigative_direction": "Verify with public records / naturalization records if available.",
       "mentions_person_refs": [
-        "N-798"
+        "N-509"
       ]
     },
     {
@@ -1120,13 +1120,13 @@
         "A-1693.2"
       ],
       "related_nodes": [
-        "N-10529"
+        "N-10458"
       ],
       "tags": [],
       "claim_timestamp": "00:15:48",
       "investigative_direction": "Obtain original high-resolution images; verify with forensic photo analysis or contextual corroboration.",
       "mentions_person_refs": [
-        "N-802"
+        "N-513"
       ]
     },
     {
@@ -1137,13 +1137,13 @@
       "claim": "Per Youssef's account, *By Way of Deception* by Victor Ostrovsky alleged Mossad knew in advance about the 1982 Beirut barracks bombing (American embassy/Marine bombing).",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10532"
+        "N-10461"
       ],
       "tags": [],
       "claim_timestamp": "01:27:19",
       "investigative_direction": "Verify the book's actual contents against published editions.",
       "mentions_person_refs": [
-        "N-801"
+        "N-512"
       ]
     },
     {
@@ -1154,13 +1154,13 @@
       "claim": "Per Youssef, *By Way of Deception* was subject to a 24-hour gag order in 1992, allegedly the only such order in American literary history.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10531"
+        "N-10460"
       ],
       "tags": [],
       "claim_timestamp": "01:28:11",
       "investigative_direction": "Verify with publishing industry records and court records.",
       "mentions_person_refs": [
-        "N-801"
+        "N-512"
       ]
     },
     {
@@ -1171,7 +1171,7 @@
       "claim": "Per Youssef, the documentary *Till Kingdom Come* contains clips of pastors addressing children and saying \"Jews are better than us. They are more special than us. They are not like us.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10533"
+        "N-10462"
       ],
       "tags": [],
       "claim_timestamp": "00:22:53",
@@ -1186,13 +1186,13 @@
       "claim": "Per host Candace Owens, Charlie Kirk refused to allow Benjamin Netanyahu on his show in August (referenced as 2025) during Netanyahu's \"mini tour\" of media appearances.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10527"
+        "N-10456"
       ],
       "tags": [],
       "claim_timestamp": "00:30:06",
       "investigative_direction": "Cross-check with Turning Point USA published guest lists and Netanyahu media tour records.",
       "mentions_person_refs": [
-        "N-65",
+        "N-36",
         "N-3",
         "N-1"
       ]
@@ -1205,14 +1205,14 @@
       "claim": "Per host, the New York Times contacted her about her Phil Turney interview and is working on a piece regarding USS Liberty.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10522",
-        "N-10528"
+        "N-10451",
+        "N-10457"
       ],
       "tags": [],
       "claim_timestamp": "01:23:21",
       "investigative_direction": "Monitor NYT for upcoming USS Liberty coverage.",
       "mentions_person_refs": [
-        "N-799"
+        "N-510"
       ]
     },
     {
@@ -1225,13 +1225,13 @@
         "A-1695.1"
       ],
       "related_nodes": [
-        "N-10530"
+        "N-10459"
       ],
       "tags": [],
       "claim_timestamp": "01:46:20–01:47:10",
       "investigative_direction": "Verify with Youssef's official tour pages and ticketing platforms.",
       "mentions_person_refs": [
-        "N-798"
+        "N-509"
       ]
     }
   ],

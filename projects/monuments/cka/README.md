@@ -15,9 +15,10 @@ Greenfield monument for **Candace Owens** numbered show episodes (`@RealCandaceO
 
 Same convention as BoC / episode analysis protocol:
 
-- **Person:** `N-1` … `N-9999` (Daveed, 2026-10-13). `N-1` … `N-999` is the original band (full; see the lock below); new persons are minted from `N-1000` upward (`canonical/nodes.json` `next_person_id`). A person id at `N-10000` or above is not allowed.
-- **Person band lock (Daveed via Transit, 2026-10-08; capacity widened by Daveed 2026-10-13):** `N-1` … `N-999` is full. *Superseded 2026-10-13:* new persons no longer DEFER; they are minted from `N-1000` (the rest of this paragraph is the original 10-08 rule, which still holds for `N-1` … `N-999`). The band is pinned in `config/person_band_snapshot.json` (live + tombstoned + reserved = 999). While the lock is in force, do not reuse a retired, tombstoned or reserved id (`config/retired_node_ids.json`), and do not mint a person at `N-10000` or above; whether retired ids may ever be reused is pending with Daveed. Tombstones and reservations can only be added. A new person found by the daily run goes into the audit triage as **DEFER "person band full, awaiting Daveed"**. *Temporary rule, until Daveed rules:* a claim may name a DEFERred person in prose with no Mentions id. Enforced by preflight gate `person_band_lock` (`config/preflight_gates.json`), which fails closed (a missing key or unreadable config keeps it ON). Refresh the snapshot only with `dia_preflight.py --monument cka --refresh-band-snapshot`, which is append-only.
-- **Topic / Org / Place:** `N-10000+`. Renumbered on 2026-10-13 from `N-1000` … `N-2393` (offset +9000, so old `N-1234` is now `N-11234`; full map in `audits/renumber_10000/renumber_map.csv`). The PR 47 person tombstones `N-10000` … `N-10033` were renamed `pr47-N-100xx` so the topic band could take those ids (Daveed ruling).
+- **Person:** `N-1` … `N-9999` (Daveed, 2026-10-13). New persons continue from `canonical/nodes.json` `next_person_id`. A person id at `N-10000` or above is not allowed.
+- **Topic / Org / Place:** `N-10000+` (`canonical/nodes.json` `next_investigation_id`).
+- **Compacted 2026-10-13 (Daveed):** ids have no holes. Persons are `N-1` … `N-607` and topic/org/place `N-10000` … `N-10902`, each band in its previous id order. Old to new: `audits/id_compaction_2026-10-13/id_map.csv`. Audit CSVs written before that date keep the ids of their time.
+- **No tombstones** (Daveed, 2026-10-13): there is no retired-id ledger. A merged or retired id is simply no longer an active node.
 - **Claims / artifacts / memes:** global cross-episode ledger (continue from CKA ingest, not BoC demo ledger)
 
 ## Neo4j

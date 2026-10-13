@@ -92,7 +92,7 @@
             "C-3540"
           ],
           "related_nodes": [
-            "N-11343"
+            "N-10853"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -118,8 +118,8 @@
             "C-3541"
           ],
           "related_nodes": [
-            "N-11341",
-            "N-11345"
+            "N-10851",
+            "N-10855"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -145,8 +145,8 @@
             "C-3541"
           ],
           "related_nodes": [
-            "N-11341",
-            "N-11345"
+            "N-10851",
+            "N-10855"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -171,7 +171,7 @@
             "C-3535"
           ],
           "related_nodes": [
-            "N-11342"
+            "N-10852"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -189,7 +189,7 @@
             "C-3535"
           ],
           "related_nodes": [
-            "N-11342"
+            "N-10852"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -288,7 +288,7 @@
             "C-3536"
           ],
           "related_nodes": [
-            "N-11344"
+            "N-10854"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -313,7 +313,7 @@
             "C-3542"
           ],
           "related_nodes": [
-            "N-11345"
+            "N-10855"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -348,8 +348,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11341",
-      "ref": "N-11341",
+      "@id": "N-10851",
+      "ref": "N-10851",
       "name": "Parking Garage Challenger Vehicle Exhaust Discrepancy",
       "type": "investigation_target",
       "description": "Persistent discrepancy between the dual-exhaust configuration of Tyler Robinson's known towed vehicle (per Fox News) and the quad-exhaust configuration of the Dodge Challenger shown entering the parking garage on September 10.",
@@ -368,13 +368,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11345"
+        "N-10855"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11342",
-      "ref": "N-11342",
+      "@id": "N-10852",
+      "ref": "N-10852",
       "name": "Quick Quack Car Wash Footage Release Question",
       "type": "investigation_target",
       "description": "Question of why the Quick Quack Car Wash surveillance footage – seized by law enforcement – was never publicly released, including questions of what the footage actually depicts.",
@@ -394,8 +394,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11343",
-      "ref": "N-11343",
+      "@id": "N-10853",
+      "ref": "N-10853",
       "name": "Dairy Queen Timestamp UTC vs MST Reconciliation",
       "type": "investigation_target",
       "description": "Question of whether the original Dairy Queen surveillance timestamp of 6:38 PM was recorded in UTC (converting to 12:38 PM Mountain) versus Mountain Standard Time, and the implications for the published timeline.",
@@ -414,8 +414,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11344",
-      "ref": "N-11344",
+      "@id": "N-10854",
+      "ref": "N-10854",
       "name": "Partial License Plate Match Verification Process",
       "type": "investigation_target",
       "description": "Question raised by a viewer comment that license-plate identification in testimony (Officer Go Forth) relied on partial-plate matches rather than full-plate identification.",
@@ -434,8 +434,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11345",
-      "ref": "N-11345",
+      "@id": "N-10855",
+      "ref": "N-10855",
       "name": "Vehicle Exhaust System Modification Question",
       "type": "investigation_target",
       "description": "Hypothesis raised by host that, if Tyler Robinson's vehicle is the same as the parking-garage Challenger, the prosecution must account for an exhaust-system modification occurring within 33 hours of the incident.",
@@ -452,13 +452,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11341"
+        "N-10851"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-36",
-      "ref": "N-36",
+      "@id": "N-10",
+      "ref": "N-10",
       "name": "Caleb Chilcutt",
       "type": "person",
       "description": "UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.",
@@ -472,8 +472,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-46",
-      "ref": "N-46",
+      "@id": "N-18",
+      "ref": "N-18",
       "name": "Andrew Wilson",
       "type": "person",
       "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
@@ -487,8 +487,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
@@ -533,7 +533,7 @@
       "claim_timestamp": "00:01:40",
       "investigative_direction": "Cross-reference other footage and photographs to identify the actual individual and confirm the correction.",
       "mentions_person_refs": [
-        "N-36"
+        "N-10"
       ]
     },
     {
@@ -546,14 +546,14 @@
         "A-2419.1"
       ],
       "related_nodes": [
-        "N-11341",
-        "N-11345"
+        "N-10851",
+        "N-10855"
       ],
       "tags": [],
       "claim_timestamp": "00:10:34",
       "investigative_direction": "Confirm exhaust configuration against additional Fox News footage and any independent images of Tyler Robinson's vehicle; compare against VIN or registration records.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -566,8 +566,8 @@
         "A-2420.1"
       ],
       "related_nodes": [
-        "N-11341",
-        "N-11345"
+        "N-10851",
+        "N-10855"
       ],
       "tags": [],
       "claim_timestamp": "00:12:24",
@@ -583,13 +583,13 @@
         "A-2421.2"
       ],
       "related_nodes": [
-        "N-11342"
+        "N-10852"
       ],
       "tags": [],
       "claim_timestamp": "00:18:05",
       "investigative_direction": "File FOIA/public-records requests for the Quick Quack Car Wash footage; compare with the warrant's stated contents.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -602,13 +602,13 @@
         "A-2421.1"
       ],
       "related_nodes": [
-        "N-11342"
+        "N-10852"
       ],
       "tags": [],
       "claim_timestamp": "00:18:05",
       "investigative_direction": "Obtain the underlying warrant to verify the quoted language; confirm cross-device sync hypothesis against the device extracted from Tyler Robinson.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -621,7 +621,7 @@
         "A-2424.1"
       ],
       "related_nodes": [
-        "N-11344"
+        "N-10854"
       ],
       "tags": [],
       "claim_timestamp": "00:52:24",
@@ -671,7 +671,7 @@
         "A-2418.1"
       ],
       "related_nodes": [
-        "N-11343"
+        "N-10853"
       ],
       "tags": [],
       "claim_timestamp": "00:09:41",
@@ -687,13 +687,13 @@
         "A-2418.1"
       ],
       "related_nodes": [
-        "N-11343"
+        "N-10853"
       ],
       "tags": [],
       "claim_timestamp": "00:13:31",
       "investigative_direction": "Obtain higher-resolution images of the footwear for brand identification; cross-reference against known Tyler Robinson clothing/shoe inventory.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -707,14 +707,14 @@
         "A-2420.1"
       ],
       "related_nodes": [
-        "N-11341",
-        "N-11345"
+        "N-10851",
+        "N-10855"
       ],
       "tags": [],
       "claim_timestamp": "00:10:34",
       "investigative_direction": "Obtain independent forensic / dealership records on both vehicles; verify VIN against tow inventory and parking-garage camera metadata.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -727,13 +727,13 @@
         "A-2425.1"
       ],
       "related_nodes": [
-        "N-11345"
+        "N-10855"
       ],
       "tags": [],
       "claim_timestamp": "00:10:34",
       "investigative_direction": "Verify tipster claim via Google Earth / aerial imagery or on-site inspection; cross-reference with any cemetery surveillance that might exist.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {

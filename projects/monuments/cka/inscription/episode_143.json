@@ -30,8 +30,8 @@
             "C-3308"
           ],
           "related_nodes": [
-            "N-224",
-            "N-69"
+            "N-162",
+            "N-40"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -58,7 +58,7 @@
             "C-3303"
           ],
           "related_nodes": [
-            "N-410",
+            "N-267",
             "N-1"
           ],
           "tags": [],
@@ -78,7 +78,7 @@
             "C-3304"
           ],
           "related_nodes": [
-            "N-410",
+            "N-267",
             "N-1"
           ],
           "tags": [],
@@ -98,7 +98,7 @@
             "C-3305"
           ],
           "related_nodes": [
-            "N-410",
+            "N-267",
             "N-1"
           ],
           "tags": [],
@@ -125,8 +125,8 @@
             "C-3306"
           ],
           "related_nodes": [
-            "N-176",
-            "N-69",
+            "N-126",
+            "N-40",
             "N-1"
           ],
           "tags": [],
@@ -153,9 +153,9 @@
             "C-3309"
           ],
           "related_nodes": [
-            "N-176",
+            "N-126",
             "N-1",
-            "N-69"
+            "N-40"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -181,8 +181,8 @@
             "C-3310"
           ],
           "related_nodes": [
-            "N-224",
-            "N-176"
+            "N-162",
+            "N-126"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -208,7 +208,7 @@
             "C-3311"
           ],
           "related_nodes": [
-            "N-69"
+            "N-40"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -235,7 +235,7 @@
             "C-3305"
           ],
           "related_nodes": [
-            "N-410",
+            "N-267",
             "N-1"
           ],
           "tags": [],
@@ -280,8 +280,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Recurring writer/commentator whose tweets are read aloud as artifacts in this episode.",
@@ -301,8 +301,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-410",
-      "ref": "N-410",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
@@ -325,8 +325,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11207",
-      "ref": "N-11207",
+      "@id": "N-10808",
+      "ref": "N-10808",
       "name": "Terrell SD Card-to-Laptop Transfer Sequence",
       "type": "investigation_target",
       "description": "Persistent investigable discrepancy: SD card from camera behind Charlie's head was removed, pocketed, and (per host observation) inserted into a laptop within ~10 minutes of the shooting.",
@@ -343,13 +343,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-410"
+        "N-267"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11208",
-      "ref": "N-11208",
+      "@id": "N-10809",
+      "ref": "N-10809",
       "name": "Yellow Camera Floor Position Event",
       "type": "investigation_target",
       "description": "Persistent investigable discrepancy: the audience-facing yellow camera fell to the ground post-event and was stepped over rather than retrieved, despite the stated narrative of securing all SD cards.",
@@ -368,13 +368,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-410"
+        "N-267"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.",
@@ -431,14 +431,14 @@
         "A-2295.1"
       ],
       "related_nodes": [
-        "N-11207"
+        "N-10808"
       ],
       "tags": [],
       "claim_timestamp": "00:08:42",
       "investigative_direction": "Obtain original unedited video and corroborate timestamp via SBI / law-enforcement chain-of-custody records for the SD card in question.",
       "mentions_person_refs": [
         "N-1",
-        "N-410"
+        "N-267"
       ]
     },
     {
@@ -451,13 +451,13 @@
         "A-2295.1"
       ],
       "related_nodes": [
-        "N-11207"
+        "N-10808"
       ],
       "tags": [],
       "claim_timestamp": "00:09:43",
       "investigative_direction": "Recover laptop forensic artifacts (connection logs, file-system events, USB device traces) and compare timing against host's stated \"government source\" timeline.",
       "mentions_person_refs": [
-        "N-410"
+        "N-267"
       ]
     },
     {
@@ -472,14 +472,14 @@
         "A-2300.1"
       ],
       "related_nodes": [
-        "N-11208"
+        "N-10809"
       ],
       "tags": [],
       "claim_timestamp": "00:14:47",
       "investigative_direction": "Identify whether the yellow camera's SD card was ever collected and, if so, by whom and at what timestamp.",
       "mentions_person_refs": [
         "N-1",
-        "N-410"
+        "N-267"
       ]
     },
     {
@@ -493,7 +493,7 @@
         "A-2300.1"
       ],
       "related_nodes": [
-        "N-11208"
+        "N-10809"
       ],
       "tags": [],
       "claim_timestamp": "00:13:38",
@@ -517,8 +517,8 @@
       "investigative_direction": "Cross-reference Trump's account against official law-enforcement timeline documents (probable-cause affidavit, charging document signed by Brian Davis) and Mitchell's own statements.",
       "mentions_person_refs": [
         "N-1",
-        "N-69",
-        "N-176",
+        "N-40",
+        "N-126",
         "N-5"
       ]
     },
@@ -536,7 +536,7 @@
       "claim_timestamp": "00:33:22",
       "investigative_direction": "Verify Mike Mitchell's documented roles (Mormon minister, prior undercover work in sex crimes, family-friend relationship to Robinsons) via official biographies and law-enforcement employment records.",
       "mentions_person_refs": [
-        "N-176"
+        "N-126"
       ]
     },
     {
@@ -553,8 +553,8 @@
       "claim_timestamp": "00:18:07",
       "investigative_direction": "Obtain the actual defense filing and compare verbatim to Neff's characterization; assess community-note rebuttal text shown in artifact.",
       "mentions_person_refs": [
-        "N-224",
-        "N-69"
+        "N-162",
+        "N-40"
       ]
     },
     {
@@ -572,8 +572,8 @@
       "investigative_direction": "Verify the full unedited Piker stream segment and timestamp; cross-check against the Brandi Zadrozny article the host references.",
       "mentions_person_refs": [
         "N-1",
-        "N-69",
-        "N-176",
+        "N-40",
+        "N-126",
         "N-3"
       ]
     },
@@ -591,8 +591,8 @@
       "claim_timestamp": "00:34:27",
       "investigative_direction": "Confirm tweet text against archive (e.g., X/Twitter permanent-link capture) and identify any subsequent correction or community-note action.",
       "mentions_person_refs": [
-        "N-224",
-        "N-176",
+        "N-162",
+        "N-126",
         "N-3"
       ]
     },
@@ -610,7 +610,7 @@
       "claim_timestamp": "00:41:34",
       "investigative_direction": "Confirm the original post URL and capture it before any takedown; identify creator if pseudonymous.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -623,13 +623,13 @@
         "A-2295.1"
       ],
       "related_nodes": [
-        "N-11207"
+        "N-10808"
       ],
       "tags": [],
       "claim_timestamp": "00:11:42",
       "investigative_direction": "Cross-reference host's timeline against SBI / UPD / FBI event-time records and any device-timestamp metadata recoverable from Terrell's laptop.",
       "mentions_person_refs": [
-        "N-410",
+        "N-267",
         "N-1"
       ]
     }

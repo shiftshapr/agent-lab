@@ -12,9 +12,9 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: none
-  - Reused Nodes Appearing: N-3, N-16, N-309, N-569, N-570, N-10676, N-10697
-  - Hole-minted Nodes (wave1): N-571, N-572, N-573, N-574, N-575, N-576, N-577
-  - Tip-minted Nodes (wave1): N-11384
+  - Reused Nodes Appearing: N-3, N-7, N-212, N-348, N-349, N-10601, N-10622
+  - Hole-minted Nodes (wave1): N-350, N-351, N-352, N-353, N-354, N-355, N-356
+  - Tip-minted Nodes (wave1): N-10893
   - Wave 1 note: the original draft used protocol-example ids (claims 1000 to 1014, artifacts 1000 to 1007, person ids 8 to 26) that collide with the ep000 baseline; renumbered to C-3702..C-3716 and A-2505..A-2512. Persons and the topic minted into free holes are listed on the Hole-minted line (batch wave1); Victor Marx and Corby Hall were first introduced in ep92.
   - (see registers)
 
@@ -35,7 +35,7 @@ Video Timestamp: 00:01:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium (host recount; post not displayed in transcript)
 
-*Related: C-3702, C-3703, N-569, N-571, N-10697*
+*Related: C-3702, C-3703, N-348, N-350, N-10622*
 
 ---
 
@@ -48,7 +48,7 @@ Video Timestamp: 00:06:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (audio played on air)
 
-*Related: C-3704, C-3709, N-569, N-577*
+*Related: C-3704, C-3709, N-348, N-356*
 
 ---
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:11:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (audio played on air)
 
-*Related: C-3705, N-573, N-569*
+*Related: C-3705, N-352, N-348*
 
 ---
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:11:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (post read aloud)
 
-*Related: C-3706, N-575, N-574, N-569*
+*Related: C-3706, N-354, N-353, N-348*
 
 ---
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:10:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium (described by host)
 
-*Related: C-3707, N-569*
+*Related: C-3707, N-348*
 
 **A-2509.2** Website text shown on air: "a high-risk humanitarian who has rescued more than 45,000 women and children."
 
@@ -96,7 +96,7 @@ Video Timestamp: 01:13:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (text read on air)
 
-*Related: C-3708, C-3716, N-569, N-11384*
+*Related: C-3708, C-3716, N-348, N-10893*
 
 ---
 
@@ -109,7 +109,7 @@ Video Timestamp: 00:16:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (live interview audio)
 
-*Related: C-3709, C-3710, C-3711, C-3712, C-3713, C-3714, C-3715, C-3716, N-569*
+*Related: C-3709, C-3710, C-3711, C-3712, C-3713, C-3714, C-3715, C-3716, N-348*
 
 ---
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:30:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium (stated on air; film not shown)
 
-*Related: C-3709, N-569*
+*Related: C-3709, N-348*
 
 ---
 
@@ -135,73 +135,73 @@ Video Timestamp: 00:23:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (stated on air)
 
-*Related: C-3710, N-569*
+*Related: C-3710, N-348*
 
 ---
 
 ## 4. Node Register
 
-**N-16** Frank Turek
+**N-7** Frank Turek
 
 Named by Victor Marx in his account of the 9/10 death announcement.
 
 *Related: C-3713*
 
-**N-569** Victor Marx
+**N-348** Victor Marx
 
 Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure.
 
 *Related: A-2505.1, A-2506.1, A-2507.1, A-2508.1, A-2509.1, A-2509.2, A-2510.1, A-2512.1, C-3702, C-3703, C-3704, C-3705, C-3706, C-3707, C-3708, C-3709, C-3710, C-3711, C-3712, C-3713, C-3714, C-3715, C-3716*
 
-**N-571** Eileen Marx
+**N-350** Eileen Marx
 
 Victor's wife; described as second-mother figure to Erika Kirk.
 
 *Related: A-2505.1, C-3703*
 
-**N-570** Corby Hall
+**N-349** Corby Hall
 
 Accuser of Victor Marx (prior guest); alleges gun-running and an IDF arms deal.
 
 *Related: C-3709*
 
-**N-572** Melody Hall
+**N-351** Melody Hall
 
 Corby Hall's wife; named by Victor Marx as someone he prayed for.
 
 *Related: C-3711*
 
-**N-573** Holly Chalmers
+**N-352** Holly Chalmers
 
 Accuser of Victor Marx; alleges kidnapping across state lines and exploitation.
 
 *Related: A-2507.1, C-3705*
 
-**N-574** Victor Marx's son
+**N-353** Victor Marx's son
 
 Wrote a letter to the board accusing his father of abusing him and his sister.
 
 *Related: A-2508.1, C-3706*
 
-**N-575** Victor Marx's daughter
+**N-354** Victor Marx's daughter
 
 Posted on social media about abuse; later recanted; friends allege pressure.
 
 *Related: A-2508.1, C-3706*
 
-**N-576** Amir Safari
+**N-355** Amir Safari
 
 Pastor named by the host as also posting early about Charlie Kirk's death.
 
 *Related: C-3713*
 
-**N-577** Gloyce Dean Kennedy
+**N-356** Gloyce Dean Kennedy
 
 Victor Marx's stepfather, named by the host; subject of Victor's childhood abuse narrative.
 
 *Related: A-2506.1, C-3704, C-3709*
 
-**N-11384** 45,000 Rescue Claim Discrepancy
+**N-10893** 45,000 Rescue Claim Discrepancy
 
 Node Type: Topic
 Website (victor2026.com) claimed Victor Marx rescued more than 45,000 women and children; Victor denied ever making that claim.
@@ -218,8 +218,8 @@ Claim Timestamp: 00:01:24
 Claim: Episode presents that Victor Marx was the first to publicly announce Charlie Kirk's passing via Instagram, approximately 1.5 hours before the U.S. president's announcement.
 Transcript Snippet: first that we could find to publicly announce that Charlie Kirk had passed away on September 10th
 Anchored Artifacts: A-2505.1
-Mentions: N-1, N-569
-Related Nodes: N-10697
+Mentions: N-1, N-348
+Related Nodes: N-10622
 Investigative Direction: Verify Instagram timestamp via archived captures; cross-check against family notification logs.
 
 ---
@@ -229,7 +229,7 @@ Investigative Direction: Verify Instagram timestamp via archived captures; cross
 Claim Timestamp: 00:01:24
 Claim: Episode presents that Victor Marx and his wife Eileen were among the small circle welcomed into Erika Kirk's home after Charlie's body was brought back aboard Air Force 2.
 Anchored Artifacts: A-2505.1
-Mentions: N-2, N-569, N-571
+Mentions: N-2, N-348, N-350
 Investigative Direction: Verify via photographic evidence and corroboration from family/close associates.
 
 ---
@@ -239,7 +239,7 @@ Investigative Direction: Verify via photographic evidence and corroboration from
 Claim Timestamp: 00:06:15
 Claim: Episode plays Victor Marx audio clip narrating that his stepfather forced him to behead a cat at age 3 and to shoot a man at age 7.
 Anchored Artifacts: A-2506.1
-Mentions: N-569, N-577
+Mentions: N-348, N-356
 Investigative Direction: Cross-reference with documentary content, family corroboration, and Mississippi cold-case records.
 
 ---
@@ -250,7 +250,7 @@ Claim Timestamp: 00:11:03
 Claim: Episode plays audio of Holly Chalmers stating she believes Victor Marx is a trafficker himself.
 Transcript Snippet: I believe that he's a trafficker himself
 Anchored Artifacts: A-2507.1
-Mentions: N-569, N-573
+Mentions: N-348, N-352
 Investigative Direction: Obtain HSI/human trafficking specialist records referenced by Victor; verify Holly's allegations via law enforcement.
 
 ---
@@ -260,7 +260,7 @@ Investigative Direction: Obtain HSI/human trafficking specialist records referen
 Claim Timestamp: 00:11:03
 Claim: Episode quotes Victor Marx's daughter stating on social media that she experienced abuse at her father's hands for many years; later recanted under alleged pressure.
 Anchored Artifacts: A-2508.1
-Mentions: N-569, N-575, N-574
+Mentions: N-348, N-354, N-353
 Investigative Direction: Obtain original social media posts via archived captures; verify timeline of board letter and retraction.
 
 ---
@@ -270,7 +270,7 @@ Investigative Direction: Obtain original social media posts via archived capture
 Claim Timestamp: 00:10:09
 Claim: Episode presents that Victor Marx's website previously listed him as 'husband, father, US Marine, pastor,' quietly removed.
 Anchored Artifacts: A-2509.1
-Mentions: N-569
+Mentions: N-348
 Investigative Direction: Retrieve archived versions of Victor Marx's website via Wayback Machine.
 
 ---
@@ -281,8 +281,8 @@ Claim Timestamp: 01:14:27
 Claim: Episode displays victor2026.com website text stating Victor Marx 'rescued more than 45,000 women and children.'
 Transcript Snippet: a high-risk humanitarian who has rescued more than 45,000 women and children
 Anchored Artifacts: A-2509.2
-Mentions: N-569
-Related Nodes: N-11384
+Mentions: N-348
+Related Nodes: N-10893
 Investigative Direction: Verify archived website content; cross-check against organization's audited reports.
 
 ---
@@ -293,7 +293,7 @@ Claim Timestamp: 00:23:09
 Claim: During the interview, Victor Marx confirmed he stands by his narrative of being forced to behead a cat at age 3.
 Transcript Snippet: Of course I do
 Anchored Artifacts: A-2506.1, A-2510.1, A-2511.1
-Mentions: N-569, N-577, N-570
+Mentions: N-348, N-356, N-349
 Investigative Direction: Cross-reference with statements from family members and law enforcement records.
 
 ---
@@ -304,7 +304,7 @@ Claim Timestamp: 00:23:58
 Claim: Victor Marx states he served 3 years in the Marine Corps, correcting prior '2 years' framing, citing his DD-214.
 Transcript Snippet: it was three years and it was on the DD-214
 Anchored Artifacts: A-2510.1, A-2512.1
-Mentions: N-569
+Mentions: N-348
 Investigative Direction: Obtain certified DD-214 to verify service length and dates.
 
 ---
@@ -314,7 +314,7 @@ Investigative Direction: Obtain certified DD-214 to verify service length and da
 Claim Timestamp: 00:42:11
 Claim: Victor Marx confirms he prayed for Charlie Kirk and three other people at Turning Point USA HQ offices.
 Anchored Artifacts: A-2510.1
-Mentions: N-1, N-569, N-572
+Mentions: N-1, N-348, N-351
 Investigative Direction: Verify with Turning Point USA personnel and any session records or correspondence.
 
 ---
@@ -324,8 +324,8 @@ Investigative Direction: Verify with Turning Point USA personnel and any session
 Claim Timestamp: 01:09:11
 Claim: Victor Marx asserts he entered Gaza by virtue of special operations teams to pray and assist Palestinian children injured.
 Anchored Artifacts: A-2510.1
-Mentions: N-569
-Related Nodes: N-10676
+Mentions: N-348
+Related Nodes: N-10601
 Investigative Direction: Cross-reference with IDF/nonprofit invitation records and travel documentation.
 
 ---
@@ -336,8 +336,8 @@ Claim Timestamp: 00:46:02
 Claim: Victor Marx states he watched the Charlie Kirk shooting video once and knew instantly Kirk would not survive, based on prior combat experience.
 Transcript Snippet: Charlie wouldn't live from that…there's no way he could have survived that
 Anchored Artifacts: A-2510.1
-Mentions: N-1, N-569, N-16, N-576, N-309
-Related Nodes: N-10697
+Mentions: N-1, N-348, N-7, N-355, N-212
+Related Nodes: N-10622
 Investigative Direction: Reconcile timeline of when Marx actually viewed the video relative to announcement timing.
 
 ---
@@ -347,7 +347,7 @@ Investigative Direction: Reconcile timeline of when Marx actually viewed the vid
 Claim Timestamp: 01:09:11
 Claim: Victor Marx states that IDF friends told him the Israeli government took six hours to send reinforcements during Oct 7 attacks.
 Anchored Artifacts: A-2510.1
-Mentions: N-569
+Mentions: N-348
 Investigative Direction: Verify against official Israeli inquiry findings and IDF operational records.
 
 ---
@@ -357,7 +357,7 @@ Investigative Direction: Verify against official Israeli inquiry findings and ID
 Claim Timestamp: 01:09:11
 Claim: Victor Marx asserts his team helped 6,000 children affected by the Hamas-Israel war via invitation from an Israel-based nonprofit.
 Anchored Artifacts: A-2510.1
-Mentions: N-569
+Mentions: N-348
 Investigative Direction: Verify against partner nonprofit documentation and beneficiary records.
 
 ---
@@ -368,8 +368,8 @@ Claim Timestamp: 00:56:05
 Claim: Victor Marx denies ever stating or writing that 45,000 were rescued; asserts organization 'helped' rather than 'rescued' that number.
 Transcript Snippet: Nowhere…have I ever declared…that I ever rescued 45,000 women or children
 Anchored Artifacts: A-2509.2, A-2510.1
-Mentions: N-569
-Related Nodes: N-11384
+Mentions: N-348
+Related Nodes: N-10893
 Investigative Direction: Compare original website text against archived snapshots; reconcile with prior show clip.
 
 ---

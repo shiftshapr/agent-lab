@@ -295,8 +295,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-890",
-      "ref": "N-890",
+      "@id": "N-557",
+      "ref": "N-557",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Self-identified friend of Erica Kirk for approximately 15 years; styled the \"left eye club\" editorial photograph; designed the cuff worn by Erica; reported to have been with Erika on September 10, 2025. Husband's first name given by host as Thomas (uncertain).",
@@ -313,14 +313,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10556",
-        "N-10557"
+        "N-10485",
+        "N-10486"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-885",
-      "ref": "N-885",
+      "@id": "N-553",
+      "ref": "N-553",
       "name": "Robkea",
       "type": "person",
       "description": "Lecturer whose \"Babylon Rising\" speech is played at length in this episode; posits Tower of Babel as technology, Mount Hermon at 33.33°N 33.33°E as fallen-angel landing site, Gilgamesh/Nimrod identification, and CERN/666 symbolism. Host reports an email from the lecturer's son thanking her.",
@@ -340,14 +340,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10560",
-        "N-10562"
+        "N-10489",
+        "N-10491"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-892",
-      "ref": "N-892",
+      "@id": "N-558",
+      "ref": "N-558",
       "name": "Tom Horn",
       "type": "person",
       "description": "Radio host cited via Omega Man Radio clip; states a \"special operations general\" validated Gilgamesh remains in \"remarkable preservation.\"",
@@ -363,13 +363,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10561"
+        "N-10490"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-893",
-      "ref": "N-893",
+      "@id": "N-559",
+      "ref": "N-559",
       "name": "Steve Quail",
       "type": "person",
       "description": "Radio co-host cited via Omega Man Radio clip; asserts human genome project was oriented toward genetic markers for disembodied spirits reanimating Nimrod/Gilgamesh.",
@@ -385,13 +385,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10561"
+        "N-10490"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-894",
-      "ref": "N-894",
+      "@id": "N-560",
+      "ref": "N-560",
       "name": "David Flynn",
       "type": "person",
       "description": "Researcher cited by Robkea as having identified the Mount Hermon coordinate (33.33°N 33.33°E from Paris prime meridian) and the \"devil's line.\" Reported by Robkea as recently deceased.",
@@ -405,13 +405,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10560"
+        "N-10489"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-783",
-      "ref": "N-783",
+      "@id": "N-500",
+      "ref": "N-500",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Erica Kirk's mother, identified by host as the person Erika was reportedly with on September 10. Host now disputes this alibi.",
@@ -423,13 +423,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10556"
+        "N-10485"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-35",
-      "ref": "N-35",
+      "@id": "N-9",
+      "ref": "N-9",
       "name": "Jeffrey Epstein",
       "type": "person",
       "description": "Author of the 23andMe-kit emails cited in this episode; central subject of the broader files release.",
@@ -447,8 +447,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-897",
-      "ref": "N-897",
+      "@id": "N-561",
+      "ref": "N-561",
       "name": "Woody Allen",
       "type": "person",
       "description": "Named recipient of Epstein 23andMe kit email (along with \"Suni\").",
@@ -464,8 +464,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-80",
-      "ref": "N-80",
+      "@id": "N-50",
+      "ref": "N-50",
       "name": "Sigmund Freud",
       "type": "person",
       "description": "Recurring host reference; presented as the originator of the \"science-as-religion-mask\" thesis cited in connection with COVID testing and 23andMe.",
@@ -485,8 +485,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-45",
-      "ref": "N-45",
+      "@id": "N-17",
+      "ref": "N-17",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Pastor associated with Dream City Church and Turning Point USA's faith-direction pivot during COVID; named by host in the TPUSA-faith origin recap.",
@@ -500,8 +500,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-902",
-      "ref": "N-902",
+      "@id": "N-562",
+      "ref": "N-562",
       "name": "Benjamin",
       "type": "person",
       "description": "Addressee of Angie comment (\"Hi Ben\"); host addresses as \"Benjamin.\" Possible production-staff figure. Insufficient identifying information to confirm role.",
@@ -519,8 +519,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10556",
-      "ref": "N-10556",
+      "@id": "N-10485",
+      "ref": "N-10485",
       "name": "Erika Kirk September 10 Alibi Investigation",
       "type": "investigation_target",
       "description": "Persistent target. Host's claim that Erika was with Tracy Martin, not Lorie Fonfe, on September 10 rests on tips and Tracy Martin's self-reported friendship. No direct artifact in this episode anchors the alibi location claim itself.",
@@ -536,8 +536,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10557",
-      "ref": "N-10557",
+      "@id": "N-10486",
+      "ref": "N-10486",
       "name": "Tracy Martin Background and Husband Verification",
       "type": "investigation_target",
       "description": "Persistent target. Host states she cannot determine what Tracy Martin's husband does and solicits additional tips. Husband's first name offered as \"Thomas\" with uncertainty.",
@@ -551,8 +551,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10558",
-      "ref": "N-10558",
+      "@id": "N-10487",
+      "ref": "N-10487",
       "name": "Dream City Church Connection Investigation",
       "type": "investigation_target",
       "description": "Persistent target. Church linked to Tracy Martin, Charlie Kirk's speaking series, the TPUSA faith pivot, and Pastor Luke. Host states more to come.",
@@ -566,8 +566,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10559",
-      "ref": "N-10559",
+      "@id": "N-10488",
+      "ref": "N-10488",
       "name": "Egyptian Plane Communication Investigation",
       "type": "investigation_target",
       "description": "Persistent target. Host references an Egyptian plane that remained on the tarmac and \"transponding intermittently\" with active communication; posits use of foreign-registered aircraft to evade communication tracking.",
@@ -581,8 +581,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10560",
-      "ref": "N-10560",
+      "@id": "N-10489",
+      "ref": "N-10489",
       "name": "Mount Hermon 33.33° Coordinate Investigation",
       "type": "investigation_target",
       "description": "Persistent target. Robkea's lecture posits fallen-angel landing coordinate of 33.33°N 33.33°E from Paris prime meridian, citing David Flynn.",
@@ -598,8 +598,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10561",
-      "ref": "N-10561",
+      "@id": "N-10490",
+      "ref": "N-10490",
       "name": "Gilgamesh Remains DNA Extraction Claim",
       "type": "investigation_target",
       "description": "Persistent target. Tom Horn / Steve Quail assert U.S. military recovered Gilgamesh remains in \"remarkable preservation\" and that human genome project aimed to \"reanimate\" via genetic markers.",
@@ -615,8 +615,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10562",
-      "ref": "N-10562",
+      "@id": "N-10491",
+      "ref": "N-10491",
       "name": "COVID Test DNA Collection Hypothesis",
       "type": "investigation_target",
       "description": "Persistent target. Viewer AZ Masterbaker and host's prior-commentary thread propose nasal-swab COVID tests were instruments for DNA collection aimed at identifying Nimrod's descendants.",
@@ -632,8 +632,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-628",
-      "ref": "N-628",
+      "@id": "N-387",
+      "ref": "N-387",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Subject of Epstein-files text chains cited by host; host asserts he has a \"boyfriend\" and is gay. Host consistently renders name as \"Mcronone.\"",
@@ -665,8 +665,8 @@
       "claim_timestamp": "00:01:18",
       "investigative_direction": "Locate the email within the public Epstein files (jmail.world or DOJ releases) to verify recipient identity, date, and full text.",
       "mentions_person_refs": [
-        "N-35",
-        "N-897"
+        "N-9",
+        "N-561"
       ]
     },
     {
@@ -683,7 +683,7 @@
       "claim_timestamp": "00:01:55",
       "investigative_direction": "Identify the redacted recipient \"Sultan\" within the Epstein files; cross-reference 9E71st Street as Epstein's New York residence; locate full email chain.",
       "mentions_person_refs": [
-        "N-35"
+        "N-9"
       ]
     },
     {
@@ -696,14 +696,14 @@
         "A-1739.1"
       ],
       "related_nodes": [
-        "N-10560"
+        "N-10489"
       ],
       "tags": [],
       "claim_timestamp": "00:05:43",
       "investigative_direction": "Verify David Flynn's published coordinate claim independently; cross-check Book of Enoch references to Mount Hermon (Hermon vs. alternate spellings).",
       "mentions_person_refs": [
-        "N-885",
-        "N-894"
+        "N-553",
+        "N-560"
       ]
     },
     {
@@ -720,7 +720,7 @@
       "claim_timestamp": "00:10:17",
       "investigative_direction": "Verify Epic of Gilgamesh text on divine/mortal proportions; confirm CERN logo design and Shiva statue presence at the facility.",
       "mentions_person_refs": [
-        "N-885"
+        "N-553"
       ]
     },
     {
@@ -733,14 +733,14 @@
         "A-1740.1"
       ],
       "related_nodes": [
-        "N-10561"
+        "N-10490"
       ],
       "tags": [],
       "claim_timestamp": "00:15:37",
       "investigative_direction": "Identify the named general; verify the 2003 Iraq dig records; check whether any official release describes remains transfer.",
       "mentions_person_refs": [
-        "N-892",
-        "N-893"
+        "N-558",
+        "N-559"
       ]
     },
     {
@@ -753,13 +753,13 @@
         "A-1740.1"
       ],
       "related_nodes": [
-        "N-10561"
+        "N-10490"
       ],
       "tags": [],
       "claim_timestamp": "00:15:55",
       "investigative_direction": "Locate the Omega Man Radio episode and any prior Quail writings on this thesis; verify against published Human Genome Project mission statements.",
       "mentions_person_refs": [
-        "N-893"
+        "N-559"
       ]
     },
     {
@@ -772,14 +772,14 @@
         "A-1741.1"
       ],
       "related_nodes": [
-        "N-10556"
+        "N-10485"
       ],
       "tags": [],
       "claim_timestamp": "00:27:48",
       "investigative_direction": "Verify duration of friendship via independent records (project documentation, social media history, foreword publication date); cross-reference Romanian Angels project existence.",
       "mentions_person_refs": [
         "N-2",
-        "N-890"
+        "N-557"
       ]
     },
     {
@@ -797,7 +797,7 @@
       "investigative_direction": "Identify the original editorial publication to confirm styling credit; identify the cuff's commercial availability and Martin's business.",
       "mentions_person_refs": [
         "N-2",
-        "N-890"
+        "N-557"
       ]
     },
     {
@@ -814,8 +814,8 @@
       "claim_timestamp": "00:31:49",
       "investigative_direction": "Locate the specific text chain and photo within public Epstein files; verify any reference to Macron and an unnamed partner.",
       "mentions_person_refs": [
-        "N-35",
-        "N-628"
+        "N-9",
+        "N-387"
       ]
     },
     {
@@ -850,7 +850,7 @@
       "claim_timestamp": "00:38:25",
       "investigative_direction": "Verify the jmail.world site's data source, accuracy of file ingestion, and independent corroboration against DOJ or court-sealed versions.",
       "mentions_person_refs": [
-        "N-35"
+        "N-9"
       ]
     },
     {
@@ -867,7 +867,7 @@
       "claim_timestamp": "00:38:55",
       "investigative_direction": "Ascertain Tatiana's intended phrase; assess consistency with host's prior transhumanism / Nimrod-resurrection framing.",
       "mentions_person_refs": [
-        "N-80"
+        "N-50"
       ]
     },
     {
@@ -884,7 +884,7 @@
       "claim_timestamp": "00:39:16",
       "investigative_direction": "Identify the production-staff role, if any, of \"Benjamin\" referenced by host; resolve the Ben / Benjamin discrepancy.",
       "mentions_person_refs": [
-        "N-902"
+        "N-562"
       ]
     },
     {
@@ -897,13 +897,13 @@
         "A-1743.5"
       ],
       "related_nodes": [
-        "N-10562"
+        "N-10491"
       ],
       "tags": [],
       "claim_timestamp": "00:39:30",
       "investigative_direction": "Examine whether COVID PCR / antigen test protocols involved any sample retention for purposes beyond diagnosis; assess whether Nimrod-descendant tracking has any documentary basis.",
       "mentions_person_refs": [
-        "N-885"
+        "N-553"
       ]
     },
     {
@@ -920,7 +920,7 @@
       "claim_timestamp": "00:39:50",
       "investigative_direction": "This is theological commentary; no factual verification pathway beyond documenting the host-viewer framing alignment.",
       "mentions_person_refs": [
-        "N-80"
+        "N-50"
       ]
     },
     {
@@ -938,7 +938,7 @@
       "investigative_direction": "Document the convergence of host and viewer framing; assess whether \"Babylonian ascension\" originates with Robkea, Flynn, or earlier esoteric sources.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-885"
+        "N-553"
       ]
     }
   ],

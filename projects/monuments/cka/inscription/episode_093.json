@@ -31,8 +31,8 @@
             "C-2758"
           ],
           "related_nodes": [
-            "N-10691",
-            "N-10692"
+            "N-10616",
+            "N-10617"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -59,7 +59,7 @@
             "C-2747"
           ],
           "related_nodes": [
-            "N-10691"
+            "N-10616"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -77,7 +77,7 @@
             "C-2746"
           ],
           "related_nodes": [
-            "N-10691"
+            "N-10616"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -99,7 +99,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-10691"
+        "N-10616"
       ],
       "tags": [],
       "sub_items": [],
@@ -227,7 +227,7 @@
             "C-2753"
           ],
           "related_nodes": [
-            "N-10693"
+            "N-10618"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -245,7 +245,7 @@
             "C-2752"
           ],
           "related_nodes": [
-            "N-10693"
+            "N-10618"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -263,7 +263,7 @@
             "C-2752"
           ],
           "related_nodes": [
-            "N-10693"
+            "N-10618"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -285,7 +285,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-10695"
+        "N-10620"
       ],
       "tags": [],
       "sub_items": [],
@@ -308,8 +308,8 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-10694",
-        "N-10696"
+        "N-10619",
+        "N-10621"
       ],
       "tags": [],
       "sub_items": [],
@@ -335,7 +335,7 @@
             "C-2759"
           ],
           "related_nodes": [
-            "N-10691"
+            "N-10616"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -353,7 +353,7 @@
             "C-2759"
           ],
           "related_nodes": [
-            "N-10691"
+            "N-10616"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -375,7 +375,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-10697"
+        "N-10622"
       ],
       "tags": [],
       "sub_items": [],
@@ -389,8 +389,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10691",
-      "ref": "N-10691",
+      "@id": "N-10616",
+      "ref": "N-10616",
       "name": "UGA Rally Cancellation Discrepancy",
       "type": "investigation_target",
       "description": "Persistent target: contradiction between Erika Kirk's stated reason for canceling UGA co-appearance and Secret Service determination, plus insider acknowledgment of non-security factors.",
@@ -418,8 +418,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10692",
-      "ref": "N-10692",
+      "@id": "N-10617",
+      "ref": "N-10617",
       "name": "Secret Service Statement Verification",
       "type": "investigation_target",
       "description": "Persistent target: verifying Secret Service's \"no credible threats\" determination, including the off-record-to-CBS pipeline and corroboration across the federal security apparatus.",
@@ -437,8 +437,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10693",
-      "ref": "N-10693",
+      "@id": "N-10618",
+      "ref": "N-10618",
       "name": "Victor Marx IDF / Israeli Defense Group Connection",
       "type": "investigation_target",
       "description": "Persistent target: verifying text-message-attributed communications between Marx and Corby Hall referencing an Israeli Defense Group, SOCOM contract, and patent purchase.",
@@ -459,8 +459,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10694",
-      "ref": "N-10694",
+      "@id": "N-10619",
+      "ref": "N-10619",
       "name": "Bain Capital Foreign Investment Line",
       "type": "investigation_target",
       "description": "Persistent target: tracking the historical and recurring web linking Robert Maxwell / Ghislaine Maxwell / Epstein-adjacent actors to Bain Capital and adjacent financial/political networks.",
@@ -478,8 +478,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10695",
-      "ref": "N-10695",
+      "@id": "N-10620",
+      "ref": "N-10620",
       "name": "ATF Bullet Comparison Methodology",
       "type": "investigation_target",
       "description": "Persistent target: tracking the methodology and outcomes of cartridge-case matching, bullet-jacket fragment class-characteristic analysis, and the upcoming microscopic comparison in the Robinson case.",
@@ -499,8 +499,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10696",
-      "ref": "N-10696",
+      "@id": "N-10621",
+      "ref": "N-10621",
       "name": "Gun Firing Evidence Verification",
       "type": "investigation_target",
       "description": "Persistent target: verifying whether the recovered rifle was fired on September 10 via canine/bomb-dog screening and residue testing.",
@@ -516,8 +516,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10697",
-      "ref": "N-10697",
+      "@id": "N-10622",
+      "ref": "N-10622",
       "name": "Early-Death-Announcement Timeline Verification",
       "type": "investigation_target",
       "description": "Persistent target: plotting who first publicly announced Charlie Kirk's death and from what source – including Victor Marx (1:13 PM MT) and the unverified Amir Sarfati tip.",
@@ -585,8 +585,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-77",
-      "ref": "N-77",
+      "@id": "N-48",
+      "ref": "N-48",
       "name": "Robert Maxwell",
       "type": "person",
       "description": "British media proprietor and father of Ghislaine Maxwell; named in connection with Kushner Epstein emails (per host).",
@@ -601,8 +601,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-552",
-      "ref": "N-552",
+      "@id": "N-337",
+      "ref": "N-337",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
@@ -617,8 +617,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-569",
-      "ref": "N-569",
+      "@id": "N-348",
+      "ref": "N-348",
       "name": "Victor Marx",
       "type": "person",
       "description": "Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure.",
@@ -633,8 +633,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-570",
-      "ref": "N-570",
+      "@id": "N-349",
+      "ref": "N-349",
       "name": "Corby Hall",
       "type": "person",
       "description": "Accuser of Victor Marx (prior guest); alleges gun-running and an IDF arms deal.",
@@ -659,8 +659,8 @@
         "A-1981.1"
       ],
       "related_nodes": [
-        "N-10692",
-        "N-10691"
+        "N-10617",
+        "N-10616"
       ],
       "tags": [],
       "claim_timestamp": "00:02:09",
@@ -681,7 +681,7 @@
         "A-1982.1"
       ],
       "related_nodes": [
-        "N-10691"
+        "N-10616"
       ],
       "tags": [],
       "claim_timestamp": "00:07:27–00:13:38",
@@ -700,7 +700,7 @@
         "A-1982.2"
       ],
       "related_nodes": [
-        "N-10691"
+        "N-10616"
       ],
       "tags": [],
       "claim_timestamp": "00:08:44–00:09:45",
@@ -719,7 +719,7 @@
         "A-1983"
       ],
       "related_nodes": [
-        "N-10691"
+        "N-10616"
       ],
       "tags": [],
       "claim_timestamp": "00:11:54–00:12:49",
@@ -738,14 +738,14 @@
         "A-1984.1"
       ],
       "related_nodes": [
-        "N-10697"
+        "N-10622"
       ],
       "tags": [],
       "claim_timestamp": "00:24:00–00:25:01",
       "investigative_direction": "Archive the post screenshots (cited as having been received with timestamps); identify Marx's claimed source.",
       "mentions_person_refs": [
         "N-1",
-        "N-569"
+        "N-348"
       ]
     },
     {
@@ -763,8 +763,8 @@
       "claim_timestamp": "00:29:30–00:30:28",
       "investigative_direction": "Pull the ATF FFL eZ Check record directly and verify the licensee's name, address, and license type.",
       "mentions_person_refs": [
-        "N-552",
-        "N-569"
+        "N-337",
+        "N-348"
       ]
     },
     {
@@ -781,8 +781,8 @@
       "claim_timestamp": "00:31:20–00:32:44",
       "investigative_direction": "Identify the full original interview source, date, and outlet; cross-reference with Corby Hall's first-person account.",
       "mentions_person_refs": [
-        "N-569",
-        "N-570"
+        "N-348",
+        "N-349"
       ]
     },
     {
@@ -799,7 +799,7 @@
       "claim_timestamp": "00:33:46–00:34:57",
       "investigative_direction": "Locate the full interview; corroborate with any on-record statements from federal authorities regarding investigations of Marx.",
       "mentions_person_refs": [
-        "N-569"
+        "N-348"
       ]
     },
     {
@@ -814,13 +814,13 @@
         "A-1988.3"
       ],
       "related_nodes": [
-        "N-10693"
+        "N-10618"
       ],
       "tags": [],
       "claim_timestamp": "00:35:00–00:38:02",
       "investigative_direction": "Authenticate the text-message screenshots (metadata, device extraction); await on-record response from Marx.",
       "mentions_person_refs": [
-        "N-569"
+        "N-348"
       ]
     },
     {
@@ -835,7 +835,7 @@
         "A-1988.3"
       ],
       "related_nodes": [
-        "N-10693"
+        "N-10618"
       ],
       "tags": [],
       "claim_timestamp": "00:37:17–00:38:02",
@@ -852,13 +852,13 @@
         "A-1989"
       ],
       "related_nodes": [
-        "N-10694"
+        "N-10619"
       ],
       "tags": [],
       "claim_timestamp": "00:39:18–00:41:12",
       "investigative_direction": "Retrieve the underlying LA Times article and any SEC filings / partnership documentation listing Bain Capital seed investors.",
       "mentions_person_refs": [
-        "N-77"
+        "N-48"
       ]
     },
     {
@@ -871,7 +871,7 @@
         "A-1990"
       ],
       "related_nodes": [
-        "N-10695"
+        "N-10620"
       ],
       "tags": [],
       "claim_timestamp": "00:41:38–00:45:48",
@@ -888,7 +888,7 @@
         "A-1990"
       ],
       "related_nodes": [
-        "N-10695"
+        "N-10620"
       ],
       "tags": [],
       "claim_timestamp": "00:43:51–00:44:37",
@@ -905,7 +905,7 @@
         "A-1990"
       ],
       "related_nodes": [
-        "N-10695"
+        "N-10620"
       ],
       "tags": [],
       "claim_timestamp": "00:44:37–00:45:48",
@@ -922,7 +922,7 @@
         "A-1991.1"
       ],
       "related_nodes": [
-        "N-10691"
+        "N-10616"
       ],
       "tags": [],
       "claim_timestamp": "00:18:55–00:22:20",
@@ -939,7 +939,7 @@
         "A-1991.2"
       ],
       "related_nodes": [
-        "N-10691"
+        "N-10616"
       ],
       "tags": [],
       "claim_timestamp": "00:21:34–00:22:20",
@@ -956,7 +956,7 @@
         "A-1992"
       ],
       "related_nodes": [
-        "N-10697"
+        "N-10622"
       ],
       "tags": [],
       "claim_timestamp": "00:28:57–00:29:30",
@@ -973,7 +973,7 @@
       "claim": "Host explicitly endorses Elizabeth Lane's prior post that \"Erika Kirk exhibits the attributes of a psychopath,\" characterizing Erika's pattern of public blame-shifting as \"malevolent.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10691"
+        "N-10616"
       ],
       "tags": [],
       "claim_timestamp": "00:15:01–00:17:09",
@@ -990,8 +990,8 @@
       "claim": "Erika Kirk's public cancellation reason (a \"credible threat\" to her safety) is contradicted by the Secret Service's reported determination that no credible threats existed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10691",
-        "N-10692"
+        "N-10616",
+        "N-10617"
       ],
       "tags": [],
       "claim_timestamp": "00:02:09–00:13:38",
@@ -1011,7 +1011,7 @@
       "claim": "Host states bomb dogs and canines brought to the scene did not detect that the recovered weapon had been recently fired, which would be expected if fired within approximately seven days.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10696"
+        "N-10621"
       ],
       "tags": [],
       "claim_timestamp": "00:42:19–00:43:08",

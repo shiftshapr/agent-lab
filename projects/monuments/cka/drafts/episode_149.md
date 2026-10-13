@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: d083233973ad6e9fb8ef03f80dd5b5b650e1276ba782aca655d4b16cef72c1cd
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (fixall-ep149): N-432
+  - Hole-minted Nodes (fixall-ep149): N-275
   - (see registers)
 
 # Episode Analysis: Bride of Charlie Episode 149
@@ -31,7 +31,7 @@
   - Artifact Families Introduced: A-2426, A-2427, A-2428, A-2429, A-2430, A-2431, A-2432, A-2433, A-2434, A-2435
   - Claim Range: C-3543–C-3567
   - New Nodes Introduced: (none)
-  - Reused Nodes Appearing: N-777, N-787
+  - Reused Nodes Appearing: N-498, N-503
   - Existing Nodes Reused: 
 
 ## 6. Meme Register
@@ -100,7 +100,7 @@ Video Timestamp: 00:01:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3543, C-3544, C-3545, N-432*
+*Related: C-3543, C-3544, C-3545, N-275*
 
 ### A-2427 Frank Turek Sermon/Clip Bundle
 
@@ -136,7 +136,7 @@ Video Timestamp: 00:06:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3546, N-432*
+*Related: C-3546, N-275*
 
 ### A-2428 Brian Harpole Paramount Interview Bundle
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:10:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3547, C-3548, N-432*
+*Related: C-3547, C-3548, N-275*
 
 ### A-2429 Frank Turek CPR Account
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:11:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3546, N-432*
+*Related: C-3546, N-275*
 
 ### A-2430 Frank Turek FaceTime with Pastor Jack Hibbs
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:14:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3548, N-432*
+*Related: C-3548, N-275*
 
 ### A-2431 Hospital Parking Lot Eyewitness Account
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:16:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3549, N-432*
+*Related: C-3549, N-275*
 
 ### A-2432 September 10 Security Team Footage Bundle
 
@@ -212,7 +212,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3550, C-3551, C-3552, C-3553, C-3554, C-3555, C-3556, C-3557, N-432*
+*Related: C-3550, C-3551, C-3552, C-3553, C-3554, C-3555, C-3556, C-3557, N-275*
 
 ### A-2433 Panguitch Cowboy Smokehouse Evidence Bundle
 
@@ -248,7 +248,7 @@ Video Timestamp: 00:33:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3557, C-3558, C-3559, C-3560, C-3561, C-3562, C-3563, C-3565, C-3566, N-432*
+*Related: C-3557, C-3558, C-3559, C-3560, C-3561, C-3562, C-3563, C-3565, C-3566, N-275*
 
 ### A-2434 YouTube Comment – Matt Callaway "Blakey" Quote
 
@@ -260,7 +260,7 @@ Video Timestamp: 00:45:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (comment is uncorroborated hearsay, commenter's identity unknown)
 
-*Related: C-3564, N-432*
+*Related: C-3564, N-275*
 
 ### A-2435 YouTube Top Comments Read-Aloud Bundle
 
@@ -336,7 +336,7 @@ Video Timestamp: 00:51:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: N-10235, N-46*
+*Related: N-10169, N-18*
 
 ---
 
@@ -354,7 +354,7 @@ Confidence: medium
 ## IV. Node Register
 
 
-**N-46** Andrew Wilson
+**N-18** Andrew Wilson
 
 Node Type: Person
 Online debater. A viewer comment read on this episode references him.
@@ -363,7 +363,7 @@ Online debater. A viewer comment read on this episode references him.
 
 ---
 
-**N-432** Derek Pepper Williams
+**N-275** Derek Pepper Williams
 
 Node Type: Person
 TPUSA security detail member previously misidentified as Chester Barnes; also known as Pepper Williams. Host links him to PGL / Perimeter Global Logistics and a freight-family cluster on September 10.
@@ -383,7 +383,7 @@ Investigative Pressure: High
 Claim Timestamp: 00:01:19
 Claim: The man shown in the hat and plaid shirt on the TPUSA security detail September 10, previously identified in prior coverage as "Chester Barnes," is in fact Derek Pepper Williams.
 Anchored Artifacts: A-2426.1
-Mentions: N-432
+Mentions: N-275
 Investigative Direction: Verify identity via personnel records, PGL employment records, and cross-reference with prior on-screen identifications.
 
 ---
@@ -393,7 +393,7 @@ Investigative Direction: Verify identity via personnel records, PGL employment r
 Claim Timestamp: 00:02:11
 Claim: After retiring from the Navy (Naval Special Warfare Operations), Derek Pepper Williams went on to work for PGL (Perimeter Global Logistics), a government defense contractor that ships on behalf of the Department of Defense.
 Anchored Artifacts: A-2426.1
-Mentions: N-432
+Mentions: N-275
 Investigative Direction: Confirm employment history via LinkedIn, PGL corporate filings, or defense contracting databases (e.g., USASpending.gov).
 
 ---
@@ -403,7 +403,7 @@ Investigative Direction: Confirm employment history via LinkedIn, PGL corporate 
 Claim Timestamp: 00:02:11
 Claim: Pepper Williams is described as one of four TPUSA team members on the ground September 10 whose families were involved in the same industry – global freight, trucking, and global shipping.
 Anchored Artifacts: A-2426.1
-Mentions: N-432
+Mentions: N-275
 Investigative Direction: Identify the other three members and verify each family connection to the global freight/trucking/shipping industry through public records or interviews.
 
 ---
@@ -413,7 +413,7 @@ Investigative Direction: Identify the other three members and verify each family
 Claim Timestamp: 00:11:50
 Claim: Frank Turek stated that, although most of the ride involved only bleeding control, in the last ~30 seconds of the ride as the SUV was pulling into the hospital parking lot, he attempted seated CPR for 20–30 seconds.
 Anchored Artifacts: A-2429.1
-Mentions: N-16
+Mentions: N-7
 Investigative Direction: Obtain the full unedited Turek statement for context; compare with Brian Harpole's statements and any available dashcam/audio.
 
 ---
@@ -423,7 +423,7 @@ Investigative Direction: Obtain the full unedited Turek statement for context; c
 Claim Timestamp: 00:10:07
 Claim: In a Paramount interview, Brian Harpole explicitly stated that no CPR was conducted during the ride because bleeding control was the priority and the hospital was close.
 Anchored Artifacts: A-2428.1
-Mentions: N-424
+Mentions: N-272
 Investigative Direction: Compare the Paramount statement with the Shawn Ryan "car crash" interview; obtain transcripts and verify continuity.
 
 ---
@@ -433,7 +433,7 @@ Investigative Direction: Compare the Paramount statement with the Shawn Ryan "ca
 Claim Timestamp: 00:14:55
 Claim: During a FaceTime call with Pastor Jack Hibbs after arriving at the hospital, Frank Turek references "blood on me" in a manner the host characterizes as leading the conversation.
 Anchored Artifacts: A-2430.1
-Mentions: N-16, N-309
+Mentions: N-7, N-212
 Related Nodes:
 Investigative Direction: Locate the original FaceTime recording or screenshot; verify the exact wording and sequence of the exchange.
 
@@ -465,7 +465,7 @@ Investigative Direction: Obtain higher-resolution frame stills; cross-check with
 Claim Timestamp: 00:18:51
 Claim: Blake Hariff sprinted ahead with Justin Davis to open the car but did not help carry Charlie to the vehicle; he did not travel in the SUV to the hospital.
 Anchored Artifacts: A-2432.1, A-2432.2
-Mentions: N-787
+Mentions: N-503
 Related Nodes:
 Investigative Direction: Cross-reference with security team testimony and hospital arrival records; identify when and how Blake reached the hospital.
 
@@ -487,7 +487,7 @@ Investigative Direction: Identify when and where Blake obtained the scrubs; obta
 Claim Timestamp: 00:20:42
 Claim: Footage shows Rick Cutler (in white hat) wearing head-to-toe surgical scrubs at the UVU return.
 Anchored Artifacts: A-2432.3
-Mentions: N-777
+Mentions: N-498
 Related Nodes:
 Investigative Direction: Identify scrubs source; obtain hospital records/logs.
 
@@ -498,7 +498,7 @@ Investigative Direction: Identify scrubs source; obtain hospital records/logs.
 Claim Timestamp: 00:20:42
 Claim: Footage shows Justin Davis wearing surgical scrubs at the UVU return.
 Anchored Artifacts: A-2432.3
-Mentions: N-787
+Mentions: N-503
 Related Nodes:
 Investigative Direction: Identify scrubs source; cross-reference with hospital logs.
 
@@ -509,7 +509,7 @@ Investigative Direction: Identify scrubs source; cross-reference with hospital l
 Claim Timestamp: 00:20:42
 Claim: Footage shows Dan Flood wearing surgical scrubs at the UVU return (consistent with his having carried Charlie).
 Anchored Artifacts: A-2432.3
-Mentions: N-434
+Mentions: N-276
 Related Nodes:
 Investigative Direction: Identify scrubs source; cross-reference with hospital logs.
 
@@ -520,7 +520,7 @@ Investigative Direction: Identify scrubs source; cross-reference with hospital l
 Claim Timestamp: 00:25:02
 Claim: Footage shows Brian Harpole holding what appears to be a jacket (possibly Charlie's) along with a brown bag, consistent with the other team members carrying brown bags holding their clothes.
 Anchored Artifacts: A-2432.3
-Mentions: N-424
+Mentions: N-272
 Investigative Direction: Higher-resolution frame analysis; cross-reference with clothing inventories.
 
 ---
@@ -552,7 +552,7 @@ Investigative Direction: Obtain the precise timestamp from the receipt/POS syste
 Claim Timestamp: 00:35:39
 Claim: If the Cowboy Smokehouse receipt is genuine, Tyler Robinson could not have been at UVU ~9:00 PM (when he texted Lance about K-9s), because Panguitch is a 3-hour drive from UVU.
 Anchored Artifacts: A-2433.1, A-2433.2, A-2433.3
-Mentions: N-69
+Mentions: N-40
 Related Nodes:
 Investigative Direction: Verify the 3-hour drive time with mapping data; reconcile the text messages' origin with cell tower records.
 
@@ -563,7 +563,7 @@ Investigative Direction: Verify the 3-hour drive time with mapping data; reconci
 Claim Timestamp: 00:39:48
 Claim: The host elevates her personal certainty from ~60% to 95% that the debit card swiped at Cowboy Smokehouse on September 10 was Tyler Robinson's.
 Anchored Artifacts: A-2433.1, A-2433.4
-Mentions: N-69
+Mentions: N-40
 Related Nodes:
 Investigative Direction: Identify the underlying source(s) raising the host's confidence; obtain evidence admissible in court.
 
@@ -574,7 +574,7 @@ Investigative Direction: Identify the underlying source(s) raising the host's co
 Claim Timestamp: 00:37:12
 Claim: Per the host's timeline analysis, if the receipt is confirmed, the earliest Tyler Robinson could have arrived in Orem is approximately 1:47 AM – which would make multiple subsequent events (12:36 AM vehicle stop, 12:38 AM sighting at Mrs. Noble's house, 12:50 AM campus approach, 1:33 AM Google Maps route) impossible for him as the driver.
 Anchored Artifacts: A-2433.1
-Mentions: N-69
+Mentions: N-40
 Related Nodes:
 Investigative Direction: Cross-reference cell tower data, surveillance footage, and forensic vehicle evidence with the corrected timeline.
 
@@ -618,8 +618,8 @@ Investigative Direction: Identify who "Blakey" refers to; obtain original record
 Claim Timestamp: 00:32:09
 Claim: The New York Post published an article titled along the lines of "Utah restaurant tour claims that Tyler Robinson stopped in after Charlie Kirk killing reveals what the alleged assassin ordered."
 Anchored Artifacts: A-2433.2
-Mentions: N-69, N-1
-Related Nodes: N-11389
+Mentions: N-40, N-1
+Related Nodes: N-10898
 Investigative Direction: Retrieve the original article from the New York Post archive; verify URL and publication date.
 
 ---
@@ -629,8 +629,8 @@ Investigative Direction: Retrieve the original article from the New York Post ar
 Claim Timestamp: 00:32:09
 Claim: Fox News published a piece characterizing the alleged Cowboy Smokehouse meal as "one of Tyler Robinson's last meals as a free man…a steak dinner, medium rare."
 Anchored Artifacts: A-2433.3
-Mentions: N-69
-Related Nodes: N-10071
+Mentions: N-40
+Related Nodes: N-10006
 Investigative Direction: Retrieve the original article from Fox News archives; verify URL and publication date.
 
 ---

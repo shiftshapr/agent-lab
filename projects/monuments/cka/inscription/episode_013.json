@@ -31,10 +31,10 @@
             "C-1340"
           ],
           "related_nodes": [
-            "N-69",
-            "N-183",
-            "N-200",
-            "N-10218"
+            "N-40",
+            "N-133",
+            "N-145",
+            "N-10152"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -60,9 +60,9 @@
             "C-1338"
           ],
           "related_nodes": [
-            "N-69",
-            "N-71",
-            "N-10223"
+            "N-40",
+            "N-42",
+            "N-10157"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -80,8 +80,8 @@
             "C-1338"
           ],
           "related_nodes": [
-            "N-69",
-            "N-71"
+            "N-40",
+            "N-42"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -133,8 +133,8 @@
             "C-1341"
           ],
           "related_nodes": [
-            "N-191",
-            "N-10220"
+            "N-136",
+            "N-10154"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -152,8 +152,8 @@
             "C-1341"
           ],
           "related_nodes": [
-            "N-192",
-            "N-10220"
+            "N-137",
+            "N-10154"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -171,8 +171,8 @@
             "C-1341"
           ],
           "related_nodes": [
-            "N-193",
-            "N-10220"
+            "N-138",
+            "N-10154"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -190,7 +190,7 @@
             "C-1341"
           ],
           "related_nodes": [
-            "N-10220"
+            "N-10154"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -218,8 +218,8 @@
             "C-1346"
           ],
           "related_nodes": [
-            "N-197",
-            "N-198"
+            "N-142",
+            "N-143"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -245,8 +245,8 @@
             "C-1347"
           ],
           "related_nodes": [
-            "N-195",
-            "N-75"
+            "N-140",
+            "N-46"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -272,8 +272,8 @@
             "C-1348"
           ],
           "related_nodes": [
-            "N-75",
-            "N-195"
+            "N-46",
+            "N-140"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -299,8 +299,8 @@
             "C-1349"
           ],
           "related_nodes": [
-            "N-196",
-            "N-75"
+            "N-141",
+            "N-46"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -318,8 +318,8 @@
             "C-1348"
           ],
           "related_nodes": [
-            "N-75",
-            "N-196"
+            "N-46",
+            "N-141"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -345,8 +345,8 @@
             "C-1350"
           ],
           "related_nodes": [
-            "N-194",
-            "N-10223"
+            "N-139",
+            "N-10157"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -420,7 +420,7 @@
             "C-1351"
           ],
           "related_nodes": [
-            "N-10218"
+            "N-10152"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -457,8 +457,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-183",
-      "ref": "N-183",
+      "@id": "N-133",
+      "ref": "N-133",
       "name": "Shainer Broderick",
       "type": "person",
       "description": "Family member of Phil Lyman who recorded footage at the Lyman property reviewing the shooter's route, deleted his social media after contact, and is named by host as the source of the camera footage clip played on air.",
@@ -474,14 +474,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-69",
-        "N-200"
+        "N-40",
+        "N-145"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-71",
-      "ref": "N-71",
+      "@id": "N-42",
+      "ref": "N-42",
       "name": "George Zinn",
       "type": "person",
       "description": "Local figure who appears as one of ~20 featured endorsements on Phil Lyman's campaign website; the endorsement has been publicly accessible since at least 2024-06-06 per Wayback.",
@@ -498,13 +498,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-69"
+        "N-40"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-136",
+      "ref": "N-136",
       "name": "Robert \"BS\" (FBI SAC, Utah)",
       "type": "person",
       "description": "FBI Special Agent in Charge recently installed over the Utah bureau by Kash Patel; previously held a long tenure in DC. First major case: Charlie Kirk assassination.",
@@ -520,13 +520,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10220"
+        "N-10154"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-192",
-      "ref": "N-192",
+      "@id": "N-137",
+      "ref": "N-137",
       "name": "Andrew Zanger",
       "type": "person",
       "description": "Recently appointed CEO and lead surgeon at the regional hospital where Charlie Kirk was taken; flagged by host because the hospital was not the nearest and did not rank highly for trauma/neck-wound capability.",
@@ -542,14 +542,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10220",
+        "N-10154",
         "N-1"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-193",
-      "ref": "N-193",
+      "@id": "N-138",
+      "ref": "N-138",
       "name": "Judge Tony F. Graf Jr.",
       "type": "person",
       "description": "Recently appointed to the fourth district court in May 2025 by Governor Spencer Cox; presides over Tyler Robinson case.",
@@ -565,13 +565,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10220"
+        "N-10154"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-139",
+      "ref": "N-139",
       "name": "Erika \"Erikica\" Mindle",
       "type": "person",
       "description": "Self-described in host's producer note as American Israeli Jewish former IDF soldier; named as TikTok Public Policy Manager of Hate Speech since July 2025.",
@@ -587,13 +587,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10218"
+        "N-10152"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-195",
-      "ref": "N-195",
+      "@id": "N-140",
+      "ref": "N-140",
       "name": "Florida Dab (X handle)",
       "type": "person",
       "description": "X account characterized by host as \"Ziobot\"/pro-Israel; initiated the social-media pressure exchange with Megyn Kelly over separation from Candace Owens.",
@@ -611,8 +611,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-196",
-      "ref": "N-196",
+      "@id": "N-141",
+      "ref": "N-141",
       "name": "Constantine Kissen",
       "type": "person",
       "description": "X account / commenter who joined the Florida Dab → Megyn Kelly thread; described by host as an \"agent of Israel.\"",
@@ -631,8 +631,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-197",
-      "ref": "N-197",
+      "@id": "N-142",
+      "ref": "N-142",
       "name": "Deborah Lee",
       "type": "person",
       "description": "Host of the influencer meeting with Netanyahu; raised the question about evangelical support post-Kirk assassination.",
@@ -648,8 +648,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-198",
-      "ref": "N-198",
+      "@id": "N-143",
+      "ref": "N-143",
       "name": "Larry Ellison",
       "type": "person",
       "description": "Named by host as a party in the TikTok deal and as openly identifying as \"an agent of Israel.\"",
@@ -663,8 +663,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-199",
-      "ref": "N-199",
+      "@id": "N-144",
+      "ref": "N-144",
       "name": "Michael Bert",
       "type": "person",
       "description": "Defense attorney named in on-air comment as previously representing Richard Ramirez (\"the Nightstalker\"); said to be one of Tyler Robinson's lawyers.",
@@ -682,8 +682,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-200",
-      "ref": "N-200",
+      "@id": "N-145",
+      "ref": "N-145",
       "name": "Unidentified Lyman-Family Woman (Shainer's aunt)",
       "type": "person",
       "description": "Speaker in A-1196.1 footage; produced the statement \"I wondered if the girl had given him stuff…if there is an accomplice.\" Identity not publicly established in the episode.",
@@ -699,15 +699,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-183",
-        "N-69",
-        "N-10218"
+        "N-133",
+        "N-40",
+        "N-10152"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10218",
-      "ref": "N-10218",
+      "@id": "N-10152",
+      "ref": "N-10152",
       "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
       "type": "investigation_target",
       "description": "Persistent target referenced across host reporting, anonymous tip, and Shainer Broadick footage; the FBI has not, per host, publicly identified or released her.",
@@ -725,14 +725,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-200",
-        "N-183"
+        "N-145",
+        "N-133"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10219",
-      "ref": "N-10219",
+      "@id": "N-10153",
+      "ref": "N-10153",
       "name": "\"Robbie Hild\" Identity Verification",
       "type": "investigation_target",
       "description": "X-handle candidate allegedly from Washington; named by viewer's reverse-image search. Per host, no one has come forward to personally identify him, raising the possibility of a synthetic identity.",
@@ -748,8 +748,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10220",
-      "ref": "N-10220",
+      "@id": "N-10154",
+      "ref": "N-10154",
       "name": "Case-Personnel Cluster Anomalies",
       "type": "investigation_target",
       "description": "Composite target covering the simultaneous arrival of new senior figures (FBI SAC \"Robert BS,\" hospital CEO/surgeon Andrew Zanger, Judge Tony F. Graph Jr., unnamed new coroner) onto the case.",
@@ -765,15 +765,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-191",
-        "N-192",
-        "N-193"
+        "N-136",
+        "N-137",
+        "N-138"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10221",
-      "ref": "N-10221",
+      "@id": "N-10155",
+      "ref": "N-10155",
       "name": "Autopsy Record – Utah Privacy Statute Application",
       "type": "investigation_target",
       "description": "Discrete legal target: confirmation that an autopsy was conducted and that Utah statutory default is privacy absent family release.",
@@ -795,8 +795,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10222",
-      "ref": "N-10222",
+      "@id": "N-10156",
+      "ref": "N-10156",
       "name": "Hospital Routing Anomaly",
       "type": "investigation_target",
       "description": "Discrete question why Charlie was transported to a regional hospital that was neither nearest nor ranked highly for neck trauma capability.",
@@ -812,13 +812,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-192"
+        "N-137"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10223",
-      "ref": "N-10223",
+      "@id": "N-10157",
+      "ref": "N-10157",
       "name": "TPUSA Faith Packet / Israel References Claim",
       "type": "investigation_target",
       "description": "Composite target referencing an attendee-submitted TPUSA Faith Packet said to mention Israel eight times; framed as a Turning Point directionality question.",
@@ -848,8 +848,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.",
@@ -880,8 +880,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
@@ -896,8 +896,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-65",
-      "ref": "N-65",
+      "@id": "N-36",
+      "ref": "N-36",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
@@ -912,8 +912,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-41",
+      "ref": "N-41",
       "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
@@ -928,8 +928,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-92",
-      "ref": "N-92",
+      "@id": "N-61",
+      "ref": "N-61",
       "name": "Phil Lyman",
       "type": "person",
       "description": "Utah Lt. Gov. candidate; per host, the GMA connection was routed through his campaign to Tiffany Barker.",
@@ -944,8 +944,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
@@ -960,8 +960,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-176",
-      "ref": "N-176",
+      "@id": "N-126",
+      "ref": "N-126",
       "name": "Mike Mitchell",
       "type": "person",
       "description": "Salt Lake County Sheriff's Office detective; per a 1999 article, conducts online undercover work creating personas to identify suspected pedophiles. Flag: this entity is likely to already possess a node ID from prior episodes covering his role in the Charlie Kirk case; verify ledger and merge if confirmed.",
@@ -976,8 +976,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10217",
-      "ref": "N-10217",
+      "@id": "N-10151",
+      "ref": "N-10151",
       "name": "Mike Mitchell Undercover Role Verification",
       "type": "investigation_target",
       "description": "Verification target: confirm whether the Detective Mike Mitchell named in the 1999 article is the same Mike Mitchell involved in the Charlie Kirk case, his tenure length (article states approximately one year as of 1999), and whether his specialty in online decoy personas is causally connected to the George Zinn decoy-boy episode.",
@@ -1002,13 +1002,13 @@
         "A-1196.1"
       ],
       "related_nodes": [
-        "N-10218"
+        "N-10152"
       ],
       "tags": [],
       "claim_timestamp": "00:00:49",
       "investigative_direction": "Obtain the underlying doorbell-camera footage independently; cross-check against FBI public statements and the TMZ September 11 release.",
       "mentions_person_refs": [
-        "N-200"
+        "N-145"
       ]
     },
     {
@@ -1026,9 +1026,9 @@
       "claim_timestamp": "00:03:00",
       "investigative_direction": "Verify current status of the endorsement on the live Lyman campaign site; obtain Wayback snapshots across the full 2024-2025 window.",
       "mentions_person_refs": [
-        "N-69",
-        "N-71",
-        "N-92"
+        "N-40",
+        "N-42",
+        "N-61"
       ]
     },
     {
@@ -1058,15 +1058,15 @@
         "A-1196.1"
       ],
       "related_nodes": [
-        "N-10218"
+        "N-10152"
       ],
       "tags": [],
       "claim_timestamp": "00:10:44",
       "investigative_direction": "Identify and interview the female speaker; obtain the original unwiped file; secure any raw footage she retained.",
       "mentions_person_refs": [
-        "N-69",
-        "N-183",
-        "N-200"
+        "N-40",
+        "N-133",
+        "N-145"
       ]
     },
     {
@@ -1082,18 +1082,18 @@
         "A-1199.4"
       ],
       "related_nodes": [
-        "N-10220",
-        "N-10222"
+        "N-10154",
+        "N-10156"
       ],
       "tags": [],
       "claim_timestamp": "00:04:53",
       "investigative_direction": "Confirm each appointment's date and predecessor; verify Andrew Zanger's direct involvement in Charlie Kirk's surgical care.",
       "mentions_person_refs": [
-        "N-191",
-        "N-192",
-        "N-193",
-        "N-70",
-        "N-102"
+        "N-136",
+        "N-137",
+        "N-138",
+        "N-41",
+        "N-69"
       ]
     },
     {
@@ -1104,7 +1104,7 @@
       "claim": "Despite public rumors to the contrary, an autopsy of Charlie Kirk was performed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10221"
+        "N-10155"
       ],
       "tags": [],
       "claim_timestamp": "00:06:17",
@@ -1121,7 +1121,7 @@
       "claim": "Under Utah law, autopsy reports are kept private; only the immediate family's request can compel public release.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10221"
+        "N-10155"
       ],
       "tags": [],
       "claim_timestamp": "00:06:17",
@@ -1144,8 +1144,8 @@
       "claim_timestamp": "00:27:00",
       "investigative_direction": "Obtain the original full footage and timestamp metadata; identify any co-attendees not named in the clip.",
       "mentions_person_refs": [
-        "N-197",
-        "N-65",
+        "N-142",
+        "N-36",
         "N-1"
       ]
     },
@@ -1163,8 +1163,8 @@
       "claim_timestamp": "00:28:34",
       "investigative_direction": "Locate the full exchange; verify the exact statements against the unedited clip.",
       "mentions_person_refs": [
-        "N-197",
-        "N-198"
+        "N-142",
+        "N-143"
       ]
     },
     {
@@ -1181,7 +1181,7 @@
       "claim_timestamp": "00:28:34",
       "investigative_direction": "Verify the full quote in its original-language form; identify the context (who prompted the metaphor).",
       "mentions_person_refs": [
-        "N-197"
+        "N-142"
       ]
     },
     {
@@ -1198,9 +1198,9 @@
       "claim_timestamp": "00:35:01",
       "investigative_direction": "Archive the original post; identify the account's operator; map its network of similar accounts.",
       "mentions_person_refs": [
-        "N-195",
+        "N-140",
         "N-3",
-        "N-75"
+        "N-46"
       ]
     },
     {
@@ -1218,10 +1218,10 @@
       "claim_timestamp": "00:35:51",
       "investigative_direction": "Capture full thread context including replies not quoted on air.",
       "mentions_person_refs": [
-        "N-195",
-        "N-196",
-        "N-75",
-        "N-50",
+        "N-140",
+        "N-141",
+        "N-46",
+        "N-22",
         "N-3"
       ]
     },
@@ -1240,10 +1240,10 @@
       "claim_timestamp": "00:35:51",
       "investigative_direction": "Verify the post is from the same handle the host means; identify its operator and pattern of activity.",
       "mentions_person_refs": [
-        "N-196",
-        "N-50",
+        "N-141",
+        "N-22",
         "N-3",
-        "N-75"
+        "N-46"
       ]
     },
     {
@@ -1260,7 +1260,7 @@
       "claim_timestamp": "00:43:16",
       "investigative_direction": "Verify the named individual's employment, role title, and dates through LinkedIn, TikTok corporate disclosures, or press releases.",
       "mentions_person_refs": [
-        "N-194"
+        "N-139"
       ]
     },
     {
@@ -1291,8 +1291,8 @@
       "claim_timestamp": "00:46:36",
       "investigative_direction": "Verify against state bar records and published case dockets for both Ramirez and Robinson.",
       "mentions_person_refs": [
-        "N-199",
-        "N-69"
+        "N-144",
+        "N-40"
       ]
     },
     {
@@ -1320,7 +1320,7 @@
       "claim": "The host says it is a fact that there are old photos of a younger Tyler Robinson visiting his \"uncle Mikey\", who she says works with a Ukrainian battalion and is a military man; she adds that she cannot confirm the uncle is Mike Mitchell and that this is still theory territory.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10217"
+        "N-10151"
       ],
       "tags": [],
       "claim_timestamp": "00:17:50",
@@ -1328,8 +1328,8 @@
       "transcript_snippet": "It is a fact that Tyler Robinson, we can't confirm that this is Mike Mitchell, but there are old photos of Tyler Robinson when he's a lot younger visiting his uncle Mikey.",
       "mentions_person_refs": [
         "N-3",
-        "N-69",
-        "N-176"
+        "N-40",
+        "N-126"
       ]
     }
   ],

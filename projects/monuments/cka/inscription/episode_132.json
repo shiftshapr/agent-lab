@@ -69,7 +69,7 @@
             "C-3140"
           ],
           "related_nodes": [
-            "N-11150"
+            "N-10751"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -94,7 +94,7 @@
             "C-3141"
           ],
           "related_nodes": [
-            "N-11150"
+            "N-10751"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,7 +195,7 @@
             "C-3145"
           ],
           "related_nodes": [
-            "N-11151"
+            "N-10752"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -370,9 +370,9 @@
             "C-3149"
           ],
           "related_nodes": [
-            "N-11149",
-            "N-777",
-            "N-787"
+            "N-10750",
+            "N-498",
+            "N-503"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -387,8 +387,8 @@
   "nodes": [
     {
       "@type": "Topic",
-      "@id": "N-11152",
-      "ref": "N-11152",
+      "@id": "N-10753",
+      "ref": "N-10753",
       "name": "Andrew Kolvet X Post and Community Note Bundle",
       "type": "topic",
       "description": "",
@@ -402,8 +402,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11148",
-      "ref": "N-11148",
+      "@id": "N-10749",
+      "ref": "N-10749",
       "name": "Amaro Resignation Cause",
       "type": "investigation_target",
       "description": "Persistent investigation target. Utah Chief Medical Examiner Dr. Deidra Amaro resigned in 2026-07 with no official reason provided. Resignation coincides with reported broader resignations across UVU and police departments attributed by host to a \"general sense of corruption.\"",
@@ -415,13 +415,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10207"
+        "N-10141"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11149",
-      "ref": "N-11149",
+      "@id": "N-10750",
+      "ref": "N-10750",
       "name": "911 Call Content Discrepancy",
       "type": "investigation_target",
       "description": "Persistent investigation target. Host reports a \"solid tip\" alleging that a 911 call from Charlie's security team during transport to the hospital lasted 3–5 minutes, included phrases \"We got him. We are taking him to the hospital\" and \"Get that off of him,\" and was purged from released call records. No primary audio, transcript, or record request response displayed.",
@@ -437,14 +437,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-777",
-        "N-787"
+        "N-498",
+        "N-503"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11150",
-      "ref": "N-11150",
+      "@id": "N-10751",
+      "ref": "N-10751",
       "name": "Charlie Kirk Cremation/Burial Status Verification",
       "type": "investigation_target",
       "description": "Persistent investigation target. Host publicly raised whether Charlie Kirk was cremated; both Blake Neff and Erika Kirk publicly refused to confirm. Host cites Charlie's prior stated preference against cremation. No primary documentation of burial/cremation status displayed.",
@@ -465,8 +465,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11151",
-      "ref": "N-11151",
+      "@id": "N-10752",
+      "ref": "N-10752",
       "name": "TPUSA White House Meeting Coordination with Netanyahu Trip",
       "type": "investigation_target",
       "description": "Persistent investigation target. Host's source claims Kolvet, in-house lawyer, and CMO Marina Medvin were scheduled to travel to the White House on a day coinciding with Netanyahu's Washington DC visit. Kolvet publicly denied. No corroborating visitor logs or schedules displayed.",
@@ -533,8 +533,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
@@ -549,8 +549,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
@@ -565,8 +565,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
@@ -581,8 +581,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-845",
-      "ref": "N-845",
+      "@id": "N-538",
+      "ref": "N-538",
       "name": "Pastor Russell",
       "type": "person",
       "description": "First named by the host at 00:23:26 in episode 132. Aliases: Pastor Russ.",
@@ -598,8 +598,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-777",
-      "ref": "N-777",
+      "@id": "N-498",
+      "ref": "N-498",
       "name": "Rick Cutler",
       "type": "person",
       "description": "Named by the host at 00:12:02 in episode 123; first introduced in episode 121.",
@@ -614,8 +614,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-787",
-      "ref": "N-787",
+      "@id": "N-503",
+      "ref": "N-503",
       "name": "Justin Davis",
       "type": "person",
       "description": "Named by the host at 00:12:13 in episode 147; first introduced in episode 124.",
@@ -644,7 +644,7 @@
       "claim_timestamp": "00:06:57",
       "investigative_direction": "Obtain independent forensic verification of the disputed messages and compare against Kolvet's stated inability to confirm.",
       "mentions_person_refs": [
-        "N-42",
+        "N-14",
         "N-3"
       ]
     },
@@ -675,7 +675,7 @@
         "A-2190.1"
       ],
       "related_nodes": [
-        "N-11150"
+        "N-10751"
       ],
       "tags": [],
       "claim_timestamp": "00:09:42",
@@ -683,7 +683,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -696,7 +696,7 @@
         "A-2191.1"
       ],
       "related_nodes": [
-        "N-11150"
+        "N-10751"
       ],
       "tags": [],
       "claim_timestamp": "00:13:20",
@@ -722,7 +722,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-845"
+        "N-538"
       ]
     },
     {
@@ -769,14 +769,14 @@
         "A-2194.1"
       ],
       "related_nodes": [
-        "N-11151"
+        "N-10752"
       ],
       "tags": [],
       "claim_timestamp": "00:32:55",
       "investigative_direction": "Cross-reference with White House visitor logs (subject to release), publicly verifiable schedules, and the host's claimed source corroboration.",
       "mentions_person_refs": [
-        "N-42",
-        "N-102"
+        "N-14",
+        "N-69"
       ]
     },
     {
@@ -804,7 +804,7 @@
       "claim": "Candace Owens claims an exclusive report that Dr. Deidra Amaro resigned from her position as Utah Chief Medical Examiner, with no official reason provided.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11148"
+        "N-10749"
       ],
       "tags": [],
       "claim_timestamp": "00:01:07",
@@ -839,7 +839,7 @@
         "A-2197.1"
       ],
       "related_nodes": [
-        "N-11149"
+        "N-10750"
       ],
       "tags": [],
       "claim_timestamp": "00:17:17",

@@ -55,7 +55,7 @@
             "C-1300"
           ],
           "related_nodes": [
-            "N-176"
+            "N-126"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -74,7 +74,7 @@
             "C-1306"
           ],
           "related_nodes": [
-            "N-10208"
+            "N-10142"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -93,7 +93,7 @@
             "C-1306"
           ],
           "related_nodes": [
-            "N-10208"
+            "N-10142"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -160,8 +160,8 @@
             "C-1305"
           ],
           "related_nodes": [
-            "N-176",
-            "N-10207"
+            "N-126",
+            "N-10141"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -187,8 +187,8 @@
             "C-1316"
           ],
           "related_nodes": [
-            "N-177",
-            "N-10210"
+            "N-127",
+            "N-10144"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -215,8 +215,8 @@
             "C-1314"
           ],
           "related_nodes": [
-            "N-92",
-            "N-10210"
+            "N-61",
+            "N-10144"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -243,9 +243,9 @@
             "C-1308"
           ],
           "related_nodes": [
-            "N-92",
-            "N-180",
-            "N-10210"
+            "N-61",
+            "N-130",
+            "N-10144"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -271,8 +271,8 @@
             "C-1309"
           ],
           "related_nodes": [
-            "N-92",
-            "N-10210"
+            "N-61",
+            "N-10144"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -298,8 +298,8 @@
             "C-1310"
           ],
           "related_nodes": [
-            "N-92",
-            "N-10210"
+            "N-61",
+            "N-10144"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -325,8 +325,8 @@
             "C-1311"
           ],
           "related_nodes": [
-            "N-92",
-            "N-10210"
+            "N-61",
+            "N-10144"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -353,9 +353,9 @@
             "C-1313"
           ],
           "related_nodes": [
-            "N-179",
-            "N-92",
-            "N-10210"
+            "N-129",
+            "N-61",
+            "N-10144"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -373,9 +373,9 @@
             "C-1313"
           ],
           "related_nodes": [
-            "N-179",
-            "N-92",
-            "N-10210"
+            "N-129",
+            "N-61",
+            "N-10144"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -498,7 +498,7 @@
             "C-1315"
           ],
           "related_nodes": [
-            "N-181"
+            "N-131"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -513,8 +513,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-176",
-      "ref": "N-176",
+      "@id": "N-126",
+      "ref": "N-126",
       "name": "Mike Mitchell",
       "type": "person",
       "description": "Former Washington County Sheriff's Office detective identified by host as the \"retired detective friend\" referenced obliquely by Brooksby at the September 11 press conference; reportedly retired in January (2024) after 24+ years per the Washington County retirement post.",
@@ -531,13 +531,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10207"
+        "N-10141"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-177",
-      "ref": "N-177",
+      "@id": "N-127",
+      "ref": "N-127",
       "name": "\"Nick\" (UVU Student – Pseudonym)",
       "type": "person",
       "description": "Anonymous 20-year-old UVU student who worked on Phil Lyman's gubernatorial campaign and served as host's boots-on-the-ground contact; name withheld.",
@@ -557,14 +557,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-92",
-        "N-10210"
+        "N-61",
+        "N-10144"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-179",
-      "ref": "N-179",
+      "@id": "N-129",
+      "ref": "N-129",
       "name": "Shane Lyman",
       "type": "person",
       "description": "Nephew of Phil Lyman; posted public Instagram content retracing the shooter's route near his grandmother's house; profile subsequently set to private after host inquiry.",
@@ -582,13 +582,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-92"
+        "N-61"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-180",
-      "ref": "N-180",
+      "@id": "N-130",
+      "ref": "N-130",
       "name": "Kaye McAney",
       "type": "person",
       "description": "Interviewer; conducted the on-camera interview with Phil Lyman in which he described his car in the driveway of the TMZ footage house.",
@@ -604,13 +604,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-92"
+        "N-61"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-181",
-      "ref": "N-181",
+      "@id": "N-131",
+      "ref": "N-131",
       "name": "Ian Carol",
       "type": "person",
       "description": "Independent investigator conducting parallel Utah-based investigation; reportedly offered a tour by Phil Lyman.",
@@ -625,14 +625,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-92",
-        "N-10210"
+        "N-61",
+        "N-10144"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10207",
-      "ref": "N-10207",
+      "@id": "N-10141",
+      "ref": "N-10141",
       "name": "Mike Mitchell Public Record Anomaly",
       "type": "investigation_target",
       "description": "Persistent anomaly: a 24+ year Washington County detective appears to have minimal public footprint aside from a single retirement-celebration post, despite Brooksby's stated intent to protect his identity.",
@@ -648,13 +648,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-176"
+        "N-126"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10208",
-      "ref": "N-10208",
+      "@id": "N-10142",
+      "ref": "N-10142",
       "name": "Brooksby Suicide Narrative Discrepancy",
       "type": "investigation_target",
       "description": "Persistent discrepancy between Brooksby's claim that Tyler Robinson had \"suicidal ideations\" and Brooksby's separate claim that Tyler came in willingly out of fear of being shot – two states that the host argues cannot coexist.",
@@ -675,8 +675,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10209",
-      "ref": "N-10209",
+      "@id": "N-10143",
+      "ref": "N-10143",
       "name": "Robinson Apartment Staging Allegation",
       "type": "investigation_target",
       "description": "Allegation by the Robinson family (via host's source) that Tyler's room in the apartment shared with Lance was staged post-arrest, including placement of a \"furry bed\" purportedly to associate Lance's attributes with Tyler.",
@@ -692,8 +692,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10210",
-      "ref": "N-10210",
+      "@id": "N-10144",
+      "ref": "N-10144",
       "name": "Phil Lyman Proximity and Behavior Investigation",
       "type": "investigation_target",
       "description": "Composite investigative target tracking Phil Lyman's documented proximity to the shooting scene (driveway, venue, rooftop area, post-shooting media appearances), his in-person contact with \"Nick,\" and his refusal to share imagery with the host's team.",
@@ -720,16 +720,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-177",
-        "N-92",
-        "N-179",
-        "N-181"
+        "N-127",
+        "N-61",
+        "N-129",
+        "N-131"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10211",
-      "ref": "N-10211",
+      "@id": "N-10145",
+      "ref": "N-10145",
       "name": "UVU Campus Familiarity Question",
       "type": "investigation_target",
       "description": "Persistent question (raised by host's source) regarding how Tyler Robinson – accepted to Utah State, not UVU, and reportedly never having stepped on UVU campus – would have known the rooftop layout, the L0y Center sightline, and Charlie Kirk's exact seating position.",
@@ -745,8 +745,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-92",
-      "ref": "N-92",
+      "@id": "N-61",
+      "ref": "N-61",
       "name": "Phil Lyman",
       "type": "person",
       "description": "Utah Lt. Gov. candidate; per host, the GMA connection was routed through his campaign to Tiffany Barker.",
@@ -761,8 +761,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-37",
-      "ref": "N-37",
+      "@id": "N-11",
+      "ref": "N-11",
       "name": "Tyler Bowyer",
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
@@ -792,8 +792,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
@@ -808,8 +808,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-128",
-      "ref": "N-128",
+      "@id": "N-93",
+      "ref": "N-93",
       "name": "Alex Jones",
       "type": "person",
       "description": "Source of declaration-of-war clip against Candace over Mitch Snow coverage.",
@@ -838,7 +838,7 @@
       "claim_timestamp": "00:02:45–00:03:25",
       "investigative_direction": "Obtain the original 2022 bodycam video and full transcript; compare against the released federal text messages.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -855,7 +855,7 @@
       "claim_timestamp": "00:03:25",
       "investigative_direction": "Independent corpus sampling of Robinson's other recorded speech; comparison with general American English usage.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -872,7 +872,7 @@
       "claim_timestamp": "00:03:50–00:04:50",
       "investigative_direction": "Cross-reference call logs and the court filings already referenced by Brooksby (court documents where the friend was named as a \"retired Washington County deputy\").",
       "mentions_person_refs": [
-        "N-176"
+        "N-126"
       ]
     },
     {
@@ -890,7 +890,7 @@
       "claim_timestamp": "00:15:30–00:16:30",
       "investigative_direction": "Pull the cited court documents and compare Brooksby's public statements with the actual filed text.",
       "mentions_person_refs": [
-        "N-176"
+        "N-126"
       ]
     },
     {
@@ -903,13 +903,13 @@
         "A-1172.2"
       ],
       "related_nodes": [
-        "N-10208"
+        "N-10142"
       ],
       "tags": [],
       "claim_timestamp": "00:04:50–00:05:30",
       "investigative_direction": "Obtain the full unedited press-conference audio and any internal law-enforcement notes from the call.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -922,13 +922,13 @@
         "A-1172.3"
       ],
       "related_nodes": [
-        "N-10208"
+        "N-10142"
       ],
       "tags": [],
       "claim_timestamp": "00:05:30–00:06:15",
       "investigative_direction": "Obtain any negotiated-surrender documentation; reconcile with the contemporaneous suicide-ideation claim.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -942,13 +942,13 @@
         "A-1173.2"
       ],
       "related_nodes": [
-        "N-10209"
+        "N-10143"
       ],
       "tags": [],
       "claim_timestamp": "00:07:30–00:08:10",
       "investigative_direction": "Recover archived versions of Lance's Instagram handle (host notes it has since been removed); cross-reference with any retained screenshots in the investigative file.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -965,7 +965,7 @@
       "claim_timestamp": "00:16:00–00:16:30",
       "investigative_direction": "Verify against Washington County personnel records and any prior news coverage of Mitchell's career.",
       "mentions_person_refs": [
-        "N-176"
+        "N-126"
       ]
     },
     {
@@ -978,13 +978,13 @@
         "A-1174.1"
       ],
       "related_nodes": [
-        "N-10207"
+        "N-10141"
       ],
       "tags": [],
       "claim_timestamp": "00:16:30–00:16:50",
       "investigative_direction": "Conduct independent newspaper archive search (local Utah papers, Provo, St. George) and Washington County internal award/honor records.",
       "mentions_person_refs": [
-        "N-176"
+        "N-126"
       ]
     },
     {
@@ -998,7 +998,7 @@
         "A-1172.3"
       ],
       "related_nodes": [
-        "N-10208"
+        "N-10142"
       ],
       "tags": [],
       "claim_timestamp": "00:06:15–00:06:30",
@@ -1015,14 +1015,14 @@
         "A-1177.1"
       ],
       "related_nodes": [
-        "N-10210"
+        "N-10144"
       ],
       "tags": [],
       "claim_timestamp": "00:28:00–00:29:30",
       "investigative_direction": "Timestamp the TMZ footage independently and reconcile with Lyman's stated parking time.",
       "mentions_person_refs": [
-        "N-92",
-        "N-180"
+        "N-61",
+        "N-130"
       ]
     },
     {
@@ -1035,14 +1035,14 @@
         "A-1177.1"
       ],
       "related_nodes": [
-        "N-10210"
+        "N-10144"
       ],
       "tags": [],
       "claim_timestamp": "00:29:30–00:30:00",
       "investigative_direction": "Pull county property records for the relevant street and verify ownership chain.",
       "mentions_person_refs": [
-        "N-92",
-        "N-180"
+        "N-61",
+        "N-130"
       ]
     },
     {
@@ -1055,14 +1055,14 @@
         "A-1178.1"
       ],
       "related_nodes": [
-        "N-10210"
+        "N-10144"
       ],
       "tags": [],
       "claim_timestamp": "00:30:00–00:32:00",
       "investigative_direction": "Obtain the unedited Alex Jones segment and any witness statements regarding the two individuals described.",
       "mentions_person_refs": [
-        "N-92",
-        "N-128"
+        "N-61",
+        "N-93"
       ]
     },
     {
@@ -1075,13 +1075,13 @@
         "A-1179.1"
       ],
       "related_nodes": [
-        "N-10210"
+        "N-10144"
       ],
       "tags": [],
       "claim_timestamp": "00:32:30–00:33:15",
       "investigative_direction": "Obtain the unedited local Utah news segment; compare timeline with the Alex Jones account.",
       "mentions_person_refs": [
-        "N-92",
+        "N-61",
         "N-1"
       ]
     },
@@ -1095,13 +1095,13 @@
         "A-1180.1"
       ],
       "related_nodes": [
-        "N-10210"
+        "N-10144"
       ],
       "tags": [],
       "claim_timestamp": "00:34:00–00:35:30",
       "investigative_direction": "Confirm upload timestamp and metadata on Instagram; obtain the original unedited video if still available.",
       "mentions_person_refs": [
-        "N-92",
+        "N-61",
         "N-1"
       ]
     },
@@ -1115,14 +1115,14 @@
         "A-1181.1"
       ],
       "related_nodes": [
-        "N-10210"
+        "N-10144"
       ],
       "tags": [],
       "claim_timestamp": "00:41:00–00:41:30",
       "investigative_direction": "Recover archived version of Shane Lyman's Instagram post; verify the grandmother's house address against the property records already referenced by Phil Lyman.",
       "mentions_person_refs": [
-        "N-92",
-        "N-179"
+        "N-61",
+        "N-129"
       ]
     },
     {
@@ -1135,14 +1135,14 @@
         "A-1181.2"
       ],
       "related_nodes": [
-        "N-10210"
+        "N-10144"
       ],
       "tags": [],
       "claim_timestamp": "00:42:00–00:42:30",
       "investigative_direction": "Identify the two friends via cross-reference with Shane's social graph or via direct outreach.",
       "mentions_person_refs": [
-        "N-92",
-        "N-179"
+        "N-61",
+        "N-129"
       ]
     },
     {
@@ -1153,14 +1153,14 @@
       "claim": "Per Nick's account to host, Phil Lyman messaged Nick for his address (something he had not previously had), arrived at Nick's home, looked out the window nervously, sat at the table, and asked questions about the host's investigation.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10210"
+        "N-10144"
       ],
       "tags": [],
       "claim_timestamp": "00:37:30–00:39:00",
       "investigative_direction": "Obtain any corroborating records (Ring/doorbell footage, phone logs, text screenshots) and a contemporaneous written statement from Nick.",
       "mentions_person_refs": [
-        "N-92",
-        "N-177"
+        "N-61",
+        "N-127"
       ]
     },
     {
@@ -1171,14 +1171,14 @@
       "claim": "Per Nick's account, Phil Lyman offered a tour of the area to Ian Carol, who was conducting a separate on-the-ground investigation; Nick found this \"weird\" given that Lyman lives four hours away.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10210"
+        "N-10144"
       ],
       "tags": [],
       "claim_timestamp": "00:38:30–00:39:00",
       "investigative_direction": "Confirm via Ian Carol's own public statements and any travel/timeline records.",
       "mentions_person_refs": [
-        "N-92",
-        "N-181"
+        "N-61",
+        "N-131"
       ]
     },
     {
@@ -1195,7 +1195,7 @@
       "claim_timestamp": "00:25:00–00:25:20",
       "investigative_direction": "Recover the original image and metadata; identify the individual depicted.",
       "mentions_person_refs": [
-        "N-177"
+        "N-127"
       ]
     },
     {
@@ -1260,7 +1260,7 @@
       "claim_timestamp": "00:00:00–00:00:01",
       "investigative_direction": "N/A – rhetorical/statement of self-positioning.",
       "mentions_person_refs": [
-        "N-92"
+        "N-61"
       ]
     }
   ],

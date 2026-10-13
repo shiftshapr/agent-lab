@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 4b44fcbfa9593db0051351dbb92918f4843655b202e7f32c7919dca51311b3f6
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-516, N-518, N-522, N-523, N-524, N-526, N-10397, N-10398, N-10399, N-10400, N-10401, N-10402
-  - Tip-minted Nodes (w3-root-brands): N-11393
+  - New Nodes Introduced: N-325, N-326, N-327, N-328, N-329, N-330, N-10326, N-10327, N-10328, N-10329, N-10330, N-10331
+  - Tip-minted Nodes (w3-root-brands): N-10902
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -38,7 +38,7 @@ Video Timestamp: 00:05:09–00:14:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read aloud as direct quote from Harry; not independently displayed)
 
-*Related: C-1880, C-1881, C-1882, C-1883, N-516, N-526, N-10399*
+*Related: C-1880, C-1881, C-1882, C-1883, N-325, N-330, N-10328*
 
 **A-1519.2** First-person narrative account (September 8–9, 2025 Fort Huachuca encounter)
 
@@ -48,7 +48,7 @@ Video Timestamp: 00:15:10–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1884, C-1885, C-1886, C-1887, N-516, N-424, N-518, N-10397*
+*Related: C-1884, C-1885, C-1886, C-1887, N-325, N-272, N-326, N-10326*
 
 **A-1519.3** Incident Report 861-1-2025-MPC446 (Fort Huachuca, September 9, 2025)
 
@@ -58,7 +58,7 @@ Video Timestamp: 00:28:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (number only; full report not displayed)
 
-*Related: C-1889, N-516, N-518, N-10398*
+*Related: C-1889, N-325, N-326, N-10327*
 
 **A-1519.4** Candlewood Suites reservation at Fort Huachuca, September 8, 2025 ~5:37 PM
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:16:14–00:17:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host states Harry provided timestamps, bookings, reservations, call logs)
 
-*Related: C-1884, N-516, N-10397*
+*Related: C-1884, N-325, N-10326*
 
 **A-1519.5** Supporting documents referenced but not displayed (army medal writeups; NDA 1990–May 2025; police records; high school graduation certificate)
 
@@ -78,7 +78,7 @@ Video Timestamp: 00:26:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbally referenced, not shown)
 
-*Related: C-1882, C-1883, N-516*
+*Related: C-1882, C-1883, N-325*
 
 ---
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:09:29–00:11:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed news clip)
 
-*Related: C-1880, N-10399, N-526*
+*Related: C-1880, N-10328, N-330*
 
 ---
 
@@ -106,7 +106,7 @@ Video Timestamp: 00:06:44–00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed clip)
 
-*Related: C-1880, N-10399*
+*Related: C-1880, N-10328*
 
 ---
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:35:20–00:36:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (article cited but full display not confirmed)
 
-*Related: C-1891, C-1892, N-500, N-10401*
+*Related: C-1891, C-1892, N-320, N-10330*
 
 ---
 
@@ -134,7 +134,7 @@ Video Timestamp: 00:35:46–00:40:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host reads counts/contents; underlying emails not displayed)
 
-*Related: C-1893, C-1894, N-500, N-522, N-523, N-524, N-10401, N-10402*
+*Related: C-1893, C-1894, N-320, N-327, N-328, N-329, N-10330, N-10331*
 
 ---
 
@@ -148,13 +148,13 @@ Video Timestamp: 00:42:41–00:44:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed audio clip)
 
-*Related: C-1895, C-1896, N-426*
+*Related: C-1895, C-1896, N-273*
 
 ---
 
 ## 4. Node Register
 
-**N-516** Harry Meyers
+**N-325** Harry Meyers
 
 Former U.S. Army sensor operator assigned to Joint Task Force 6 / Operation Catacomb in 1990 who claims to have discovered the first Sinaloa cartel underground rail tunnel at the Arizona–Mexico border. Placed under NDA 1990–May 2025. Now operates under a different name. Per his account, walked into a JTF-SB meeting at Fort Huachuca on September 9, 2025 and was detained for 7 hours.
 
@@ -167,7 +167,7 @@ Investigative Pressure: High
 
 ---
 
-**N-424** Brian Harpole
+**N-272** Brian Harpole
 
 Allegedly identified by Harry Meyers exiting the JTF-SB meeting at Fort Huachuca on September 9, 2025. Host later references this identification in connection with Charlie Kirk's assassination coverage.
 
@@ -176,11 +176,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.2, C-1887, N-10400*
+*Related: A-1519.2, C-1887, N-10329*
 
 ---
 
-**N-518** Captain Adam Nef
+**N-326** Captain Adam Nef
 
 Military officer (Captain) identified by Harry Meyers as the lead interrogator during the 7-hour detention at Fort Huachuca on September 9, 2025. Described as ~36 years old, brown hair, commander of force protection. Spelling of surname as heard by Harry; uncertain.
 
@@ -189,24 +189,24 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.2, A-1519.3, C-1888, C-1889, N-10397, N-10398*
+*Related: A-1519.2, A-1519.3, C-1888, C-1889, N-10326, N-10327*
 
 ---
 
-**N-224** Blake Neff
+**N-162** Blake Neff
 
-Referenced by host as a potential relative (brother/cousin) of "Captain Nef" (N-518). Host speculates Blake Nef may have a military background despite public role as a producer of the Charlie Kirk show. Relationship unverified.
+Referenced by host as a potential relative (brother/cousin) of "Captain Nef" (N-326). Host speculates Blake Nef may have a military background despite public role as a producer of the Charlie Kirk show. Relationship unverified.
 
 Evidence Count: 0
 Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-518*
+*Related: N-326*
 
 ---
 
-**N-426** Tim Pool
+**N-273** Tim Pool
 
 Independent commentator featured in audio clip played on the show; subject of host's commentary criticizing his conduct toward her.
 
@@ -219,7 +219,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-500** Arcadi Gaydamak
+**N-320** Arcadi Gaydamak
 
 Russian-born, Israeli-French businessman identified in prior series episodes in connection with Angola Gate. Reported by host as recently sentenced in absentia for trafficking weapons. Allegedly living in Nashville under alias per seven viewer emails.
 
@@ -228,11 +228,11 @@ Claim Count: 2
 Episode Count: 1 (in this analysis)
 Investigative Pressure: High
 
-*Related: A-1522.1, A-1523.1, C-1891, C-1892, C-1893, N-522, N-10401*
+*Related: A-1522.1, A-1523.1, C-1891, C-1892, C-1893, N-327, N-10330*
 
 ---
 
-**N-522** Jonathan Schmidt
+**N-327** Jonathan Schmidt
 
 Alleged alias used by Arcadi Gaydamak in Nashville, per seven tipster emails. Allegedly hired by Root Brands as a technology officer and claimed to be a billionaire.
 
@@ -241,11 +241,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1523.1, C-1893, C-1894, N-500, N-10401*
+*Related: A-1523.1, C-1893, C-1894, N-320, N-10330*
 
 ---
 
-**N-523** Clay Thomas
+**N-328** Clay Thomas
 
 Nashville businessman alleged by tipsters to have introduced Arcadi Gaydamak/"Jonathan Schmidt" to Root Brands. Host states she has reached out to Thomas.
 
@@ -254,11 +254,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1523.1, C-1894, N-522, N-10402*
+*Related: A-1523.1, C-1894, N-327, N-10331*
 
 ---
 
-**N-524** Alex Smeirnoff
+**N-329** Alex Smeirnoff
 
 Ukrainian individual alleged by tipsters to be working with "Jonathan Schmidt"/Arcadi Gaydamak at Root Brands; characterized as a Ukrainian "fleeing the war."
 
@@ -267,11 +267,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1523.1, C-1894, N-522, N-10402*
+*Related: A-1523.1, C-1894, N-327, N-10331*
 
 ---
 
-**N-11393** Root Brands
+**N-10902** Root Brands
 
 Node Type: Organization
 
@@ -282,11 +282,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1523.1, C-1894, N-522, N-10402*
+*Related: A-1523.1, C-1894, N-327, N-10331*
 
 ---
 
-**N-526** El Chapo (Joaquín Guzmán)
+**N-330** El Chapo (Joaquín Guzmán)
 
 Named in 1990 tunnel narrative; photos on the Mexican side of the Sinaloa cartel tunnel allegedly showed a JTF-6 commander and U.S. Marine officers posing with him.
 
@@ -295,11 +295,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (historical)
 
-*Related: A-1519.1, A-1520.1, C-1881, N-10399*
+*Related: A-1519.1, A-1520.1, C-1881, N-10328*
 
 ---
 
-**N-10397** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
+**N-10326** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
 
 Persistent target: whether a high-level JTF-SB command meeting occurred at Fort Huachuca on September 9, 2025, whether 12–13 lieutenant colonels were present, and whether Harry Meyers' account is corroborated by incident report 861-1-2025-MPC446.
 
@@ -308,11 +308,11 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.2, A-1519.3, A-1519.4, C-1884, C-1885, C-1886, C-1887, C-1888, N-516, N-424, N-518*
+*Related: A-1519.2, A-1519.3, A-1519.4, C-1884, C-1885, C-1886, C-1887, C-1888, N-325, N-272, N-326*
 
 ---
 
-**N-10398** Incident Report 861-1-2025-MPC446 FOIA Verification
+**N-10327** Incident Report 861-1-2025-MPC446 FOIA Verification
 
 Persistent target: verifiable existence and contents of Fort Huachuca incident report 861-1-2025-MPC446 generated on September 9, 2025 in connection with Harry Meyers' detention.
 
@@ -321,11 +321,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.3, C-1889, N-518, N-10397*
+*Related: A-1519.3, C-1889, N-326, N-10326*
 
 ---
 
-**N-10399** 1990 Douglas, Arizona / Operation Catacomb Verification
+**N-10328** 1990 Douglas, Arizona / Operation Catacomb Verification
 
 Persistent target: verifiable history of Joint Task Force 6, Operation Catacomb, the Douglas–Agua Prieta tunnel discovery, and the alleged JTF-6 commander / El Chapo photographs. Connects to Harry Meyers' 35-year claim of retaliation and his NDA.
 
@@ -334,11 +334,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium (historical)
 
-*Related: A-1519.1, A-1520.1, A-1521.1, C-1880, N-516, N-526*
+*Related: A-1519.1, A-1520.1, A-1521.1, C-1880, N-325, N-330*
 
 ---
 
-**N-10400** Brian Harpole Military Connection Verification
+**N-10329** Brian Harpole Military Connection Verification
 
 Persistent target: whether Brian Harpole has any military or government connection that could account for his presence at a JTF-SB command meeting at Fort Huachuca on September 9, 2025.
 
@@ -347,11 +347,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.2, C-1887, N-424, N-10397*
+*Related: A-1519.2, C-1887, N-272, N-10326*
 
 ---
 
-**N-10401** "Jonathan Schmidt" / Arcadi Gaydamak Identity Verification
+**N-10330** "Jonathan Schmidt" / Arcadi Gaydamak Identity Verification
 
 Persistent target: whether the individual operating in Nashville under the name Jonathan Schmidt is in fact Arcadi Gaydamak, as alleged by seven viewers.
 
@@ -360,11 +360,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1522.1, A-1523.1, C-1893, C-1894, N-500, N-522*
+*Related: A-1522.1, A-1523.1, C-1893, C-1894, N-320, N-327*
 
 ---
 
-**N-10402** Root Brands / Nashville Foreign Intelligence Personnel Question
+**N-10331** Root Brands / Nashville Foreign Intelligence Personnel Question
 
 Persistent target: verifiable employment history, immigration status, and security posture of Root Brands' workforce given the alleged presence of Arcadi Gaydamak and Ukrainians at the company.
 
@@ -373,7 +373,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1523.1, C-1894, N-522, N-523, N-524, N-11393*
+*Related: A-1523.1, C-1894, N-327, N-328, N-329, N-10902*
 
 ---
 
@@ -386,9 +386,9 @@ Claim Timestamp: 00:05:09–00:11:14
 Claim: A then-20-year-old military sensor operator assigned to JTF-6 states he identified and helped raid the first discovered Sinaloa cartel underground rail tunnel between Douglas, Arizona and Agua Prieta in 1990.
 
 Anchored Artifacts: A-1519.1, A-1520.1, A-1521.1
-Mentions: N-516, N-526
+Mentions: N-325, N-330
 
-Related Nodes: N-10399
+Related Nodes: N-10328
 
 Investigative Direction: Cross-check DEA, CBP, and Army historical records for the 1990 Douglas–Agua Prieta tunnel case; verify Harry's military service record and JTF-6 assignment.
 
@@ -401,9 +401,9 @@ Claim Timestamp: 00:06:44–00:09:29
 Claim: Harry states photos recovered from the Mexican side of the tunnel depicted the JTF-6 commander, El Chapo, El Chapo's architect Felipe, other U.S. Marine officers, and Mexican law enforcement personnel.
 
 Anchored Artifacts: A-1519.1
-Mentions: N-516, N-526
+Mentions: N-325, N-330
 
-Related Nodes: N-10399
+Related Nodes: N-10328
 
 Investigative Direction: FOIA requests to DEA, CBP, and DOJ for case files associated with the 1990 tunnel seizure and any photographic evidence.
 
@@ -416,7 +416,7 @@ Claim Timestamp: 00:13:49
 Claim: An NDA gag order prevented Harry from publicly discussing the 1990 tunnel incident until May 2025.
 
 Anchored Artifacts: A-1519.1, A-1519.5
-Mentions: N-516
+Mentions: N-325
 
 
 Investigative Direction: Obtain copy of the NDA via FOIA or congressional inquiry; verify dates and signatories.
@@ -430,7 +430,7 @@ Claim Timestamp: 00:11:14–00:13:49
 Claim: Harry states he received an army medal and writeups mentioning his critical role in the tunnel mission, even though his superiors took credit.
 
 Anchored Artifacts: A-1519.1, A-1519.5
-Mentions: N-516
+Mentions: N-325
 
 
 Investigative Direction: Obtain Harry's DD-214, military personnel file, and award writeups through appropriate channels.
@@ -444,9 +444,9 @@ Claim Timestamp: 00:16:14–00:17:28
 Claim: Harry Meyers arrived at Candlewood Suites on Fort Huachuca at approximately 5:37 PM on September 8, 2025, and observed a person he identified as special forces in the lobby.
 
 Anchored Artifacts: A-1519.2, A-1519.4
-Mentions: N-516
+Mentions: N-325
 
-Related Nodes: N-10397
+Related Nodes: N-10326
 
 Investigative Direction: Pull Candlewood Suites Fort Huachuca guest log for September 8, 2025 and corroborate with military visitor records.
 
@@ -459,9 +459,9 @@ Claim Timestamp: 00:18:57–00:20:14
 Claim: Harry states he entered a temporary JTF-Southern Border headquarters at approximately 7:37 AM on September 9, 2025, immediately following the conclusion of a high-level meeting.
 
 Anchored Artifacts: A-1519.2
-Mentions: N-516
+Mentions: N-325
 
-Related Nodes: N-10397
+Related Nodes: N-10326
 
 Investigative Direction: Cross-reference base access logs and incident report 861-1-2025-MPC446.
 
@@ -474,9 +474,9 @@ Claim Timestamp: 00:20:14–00:34:46
 Claim: Harry states approximately 12–13 E5/E6-grade officers (lieutenant colonels and colonels) were present in the meeting he walked into; host later confirms correction that the ranks are E5/E6 colonels and lieutenant colonels.
 
 Anchored Artifacts: A-1519.2
-Mentions: N-516
+Mentions: N-325
 
-Related Nodes: N-10397
+Related Nodes: N-10326
 
 Investigative Direction: Verify through FOIA of incident report 861-1-2025-MPC446 and any meeting attendance logs.
 
@@ -489,9 +489,9 @@ Claim Timestamp: 00:20:14–00:22:18
 Claim: Harry states he identified Brian Harpole as one of the men exiting the JTF-SB meeting on September 9, 2025; Harry did not recognize him at the time and only identified him after Charlie Kirk's assassination made him publicly visible.
 
 Anchored Artifacts: A-1519.2
-Mentions: N-424, N-516, N-1
+Mentions: N-272, N-325, N-1
 
-Related Nodes: N-10400
+Related Nodes: N-10329
 
 Investigative Direction: FOIA incident report 861-1-2025-MPC446 for visitor/attendee list; cross-reference with public schedule of Brian Harpole for September 9, 2025.
 
@@ -504,9 +504,9 @@ Claim Timestamp: 00:22:18–00:24:56
 Claim: After Harry entered the meeting room, two captains escorted him out and began a 7-hour interrogation accusing him of being a bomb threat, a spy, and a threat to himself or others. The interrogator Harry identifies as "Captain Nef" was approximately 36 years old with brown hair and was commander of force protection.
 
 Anchored Artifacts: A-1519.2
-Mentions: N-224, N-516, N-518
+Mentions: N-162, N-325, N-326
 
-Related Nodes: N-10397
+Related Nodes: N-10326
 
 Investigative Direction: FOIA incident report 861-1-2025-MPC446; identify Captain Nef through Army CID and Fort Huachuca force protection roster.
 
@@ -519,9 +519,9 @@ Claim Timestamp: 00:28:13
 Claim: An incident report numbered 861-1-2025-MPC446 was generated at Fort Huachuca on September 9, 2025 in connection with Harry's detention; Harry believes the report can be obtained via FOIA.
 
 Anchored Artifacts: A-1519.3
-Mentions: N-516, N-518
+Mentions: N-325, N-326
 
-Related Nodes: N-10398
+Related Nodes: N-10327
 
 Investigative Direction: File FOIA request with the appropriate Army or DoD FOIA office for incident report 861-1-2025-MPC446.
 
@@ -534,7 +534,7 @@ Claim Timestamp: 00:35:20–00:36:24
 Claim: An article referenced on the show reports that Arcadi Gaydamak failed to appear for a court hearing and was sentenced in absentia for trafficking weapons; the article also identifies him as a French intelligence agent.
 
 Anchored Artifacts: A-1522.1
-Mentions: N-500
+Mentions: N-320
 
 
 Investigative Direction: Locate and verify the article's primary source (court records, news outlet) to confirm sentencing details and intelligence affiliation.
@@ -548,7 +548,7 @@ Claim Timestamp: 00:35:20–00:36:24
 Claim: Per the referenced article, Gaydamak was born in Russia and relocated to Israel after the establishment of the state.
 
 Anchored Artifacts: A-1522.1
-Mentions: N-500
+Mentions: N-320
 
 
 Investigative Direction: Verify biographical details against public records and prior reporting on Gaydamak.
@@ -562,9 +562,9 @@ Claim Timestamp: 00:35:46–00:40:46
 Claim: Seven individuals, mostly men, emailed the show asserting that Arcadi Gaydamak is residing in Nashville using the alias Jonathan Schmidt and that he relocated there in June 2025.
 
 Anchored Artifacts: A-1523.1
-Mentions: N-500, N-522
+Mentions: N-320, N-327
 
-Related Nodes: N-10401
+Related Nodes: N-10330
 
 Investigative Direction: Obtain corroborating evidence via public records, business filings, immigration status checks, and law enforcement confirmation.
 
@@ -577,9 +577,9 @@ Claim Timestamp: 00:36:24–00:40:46
 Claim: Tipsters claim that Jonathan Schmidt/Gaydamak was brought into Root Brands by Clay Thomas and has hired Ukrainian nationals, including Alex Smeirnoff, on the stated basis of fleeing the war.
 
 Anchored Artifacts: A-1523.1
-Mentions: N-522, N-523, N-524
+Mentions: N-327, N-328, N-329
 
-Related Nodes: N-10401, N-10402, N-11393
+Related Nodes: N-10330, N-10331, N-10902
 
 Investigative Direction: Obtain employment records, immigration paperwork (I-9, visa status), and confirm identities through public records and Root Brands communications.
 
@@ -592,7 +592,7 @@ Claim Timestamp: 00:42:41–00:44:11
 Claim: In an audio clip played on the show, Tim Pool calls Candace Owens an "evil scumbag" and a "degenerate," asserts she has no security, and dismisses her concerns about threats against her.
 
 Anchored Artifacts: A-1524.1
-Mentions: N-426, N-3
+Mentions: N-273, N-3
 
 
 Investigative Direction: Cross-reference Tim Pool's original broadcast to verify timestamp and context; host's response is rhetorical commentary rather than artifact-anchored.
@@ -606,7 +606,7 @@ Claim Timestamp: 00:43:32–00:44:11
 Claim: In the audio clip, Tim Pool states that he visited Candace Owens' home, observed a 4-foot wall and one "fat guy" for security, and asserts that no one is "out for her."
 
 Anchored Artifacts: A-1524.1
-Mentions: N-426, N-3
+Mentions: N-273, N-3
 
 
 Investigative Direction: Verify Tim Pool's statement against the original broadcast and any public statements he has made about visiting the home.
@@ -620,7 +620,7 @@ Claim Timestamp: 00:43:32–00:44:11
 Claim: In the same audio clip, Tim Pool contrasts his own situation with Candace Owens', saying bullets were fired at his property, that he had to go live in the middle of nowhere, and that strangers broke into his house in Maryland.
 Transcript Snippet: Meanwhile, I get bullets fired at my property and I have to go live in the middle of nowhere and I got strangers coming up to my house in in in Maryland breaking in.
 Anchored Artifacts: A-1524.1
-Mentions: N-426, N-3
+Mentions: N-273, N-3
 Confidence: medium
 Investigative Direction: Check police reports or public statements for the shooting and break-in incidents Tim Pool describes at his Maryland property.
 

@@ -34,7 +34,7 @@ Episode 42 Ledger Summary
 
 - Artifact Families Introduced: A-1501, A-1502, A-1503, A-1504, A-1505, A-1506, A-1507, A-1508, A-1509, A-1510, A-1511, A-1512
 - Claim Range: C-1839–C-1861
-  - New Nodes Introduced:  N-490, N-491, N-492, N-493, N-494, N-10382, N-10383, N-10384, N-10385, N-10386
+  - New Nodes Introduced:  N-314, N-315, N-316, N-317, N-318, N-10311, N-10312, N-10313, N-10314, N-10315
   - Reused Nodes Appearing: N-2
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -62,7 +62,7 @@ Video Timestamp: 00:04:20–00:05:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1839, C-1840, N-494, N-224, N-2, N-10384*
+*Related: C-1839, C-1840, N-318, N-162, N-2, N-10313*
 
 **A-1501.2** Segment: Blake Nef response – Erika Kirk direction and in-person rationale
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:05:37–00:07:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1839, C-1840, C-1841, N-224, N-2, N-10384*
+*Related: C-1839, C-1840, C-1841, N-162, N-2, N-10313*
 
 **A-1502** TPUSA Phoenix Live Stream Announcement Bundle
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:11:14–00:11:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1842, N-224, N-10384, N-2*
+*Related: C-1842, N-162, N-10313, N-2*
 
 **A-1503** The Game Song Bundle
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:34:18–00:37:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1843, N-481, N-2*
+*Related: C-1843, N-311, N-2*
 
 **A-1504** John McCain Ukraine Speech Clip Bundle
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:18:45–00:19:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-10382*
+*Related: N-10311*
 
 **A-1505** UVU September 10 Footage Bundle
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:20:45–00:21:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1844, C-1847, N-10382, N-490, N-491*
+*Related: C-1844, C-1847, N-10311, N-314, N-315*
 
 **A-1505.2** Footage segment: Jacob Kasparian not ducking after shot
 
@@ -130,7 +130,7 @@ Video Timestamp: 00:24:00–00:24:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1848, C-1849, N-490, N-10382*
+*Related: C-1848, C-1849, N-314, N-10311*
 
 **A-1505.3** Footage segment: Jacob Kasparian recording (grainy superimposition)
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:25:00–00:25:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1849, N-490, N-10382*
+*Related: C-1849, N-314, N-10311*
 
 **A-1505.4** Jacob Kasparian earlier-day social media post (dyed blue shirt)
 
@@ -150,7 +150,7 @@ Video Timestamp: 00:24:50–00:25:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1850, N-490, N-10382*
+*Related: C-1850, N-314, N-10311*
 
 **A-1505.5** Adam Bartholomew live-stream footage (full event)
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:26:30–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1851, C-1852, C-1853, N-491, N-492, N-10382*
+*Related: C-1851, C-1852, C-1853, N-315, N-316, N-10311*
 
 **A-1505.6** Video segment: a person holding a maroon shirt
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:21:40–00:21:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1847, N-10382*
+*Related: C-1847, N-10311*
 
 **A-1506** Blake Nef X Post Bundle
 
@@ -182,7 +182,7 @@ Video Timestamp: 00:46:13–00:46:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1854, N-224, N-10384*
+*Related: C-1854, N-162, N-10313*
 
 **A-1507** Charlie Kirk Show Apple Podcasts Ranking Bundle
 
@@ -194,7 +194,7 @@ Video Timestamp: 00:02:41–00:03:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1855, N-10383*
+*Related: C-1855, N-10312*
 
 **A-1508** PBS Emmanuel Beerer Interview Bundle
 
@@ -206,7 +206,7 @@ Video Timestamp: 00:32:42–00:33:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1856, N-493, N-10386*
+*Related: C-1856, N-317, N-10315*
 
 **A-1509** Roof Shooter Video Follow-up Bundle
 
@@ -218,7 +218,7 @@ Video Timestamp: 00:44:21–00:45:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1857, C-1858, C-1859, N-10385*
+*Related: C-1857, C-1858, C-1859, N-10314*
 
 **A-1510** Anonymous Military Maroon Email Bundle
 
@@ -230,7 +230,7 @@ Video Timestamp: 00:22:10–00:23:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1860, N-10382*
+*Related: C-1860, N-10311*
 
 **A-1511** Carrie Bartholomew X Post Bundle
 
@@ -242,7 +242,7 @@ Video Timestamp: 00:27:30–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1852, N-492, N-491, N-10382*
+*Related: C-1852, N-316, N-315, N-10311*
 
 **A-1512** Audience Comment Bundle
 
@@ -254,7 +254,7 @@ Video Timestamp: 00:01:32–00:02:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-10384*
+*Related: N-10313*
 
 ---
 
@@ -272,7 +272,7 @@ Investigative Pressure: High
 
 *Related: A-1501.1, A-1501.2, A-1503.1, A-1507.1, A-1512.1, C-1839, C-1843, C-1855*
 
-**N-224** Blake Neff
+**N-162** Blake Neff
 
 TPUSA spokesperson featured in artifact-anchored audio segment and X post.
 
@@ -281,9 +281,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1501.2, A-1502.1, A-1506.1, C-1839, C-1840, C-1841, C-1842, C-1854, N-10384*
+*Related: A-1501.2, A-1502.1, A-1506.1, C-1839, C-1840, C-1841, C-1842, C-1854, N-10313*
 
-**N-42** Andrew Kolvet
+**N-14** Andrew Kolvet
 
 TPUSA figure referenced in connection with the live stream; spelling varies in transcript ("Andrew Kovat," "Andrew Kovette," "Andrew Kovac") – see Optional Flags.
 
@@ -292,9 +292,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1501.1, A-1501.2, N-224, N-10384*
+*Related: A-1501.1, A-1501.2, N-162, N-10313*
 
-**N-481** The Game
+**N-311** The Game
 
 Recording artist whose track "The Assassination of Candace Owens" is presented in the episode.
 
@@ -305,7 +305,7 @@ Investigative Pressure: Low
 
 *Related: A-1503.1, C-1843, N-1*
 
-**N-490** Jacob Kasparian
+**N-314** Jacob Kasparian
 
 Individual identified in UVU September 10 footage by host; subject of non-ducking, recording, and clothing-change observations. Spelled "Jordan Kasparian" once in transcript – see Optional Flags.
 
@@ -314,9 +314,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1505.2, A-1505.3, A-1505.4, C-1848, C-1849, C-1850, N-10382*
+*Related: A-1505.2, A-1505.3, A-1505.4, C-1848, C-1849, C-1850, N-10311*
 
-**N-491** Adam Bartholomew
+**N-315** Adam Bartholomew
 
 Live-streamer of the UVU event; identified in host's footage analysis.
 
@@ -325,9 +325,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1505.5, C-1851, C-1853, N-492, N-10382*
+*Related: A-1505.5, C-1851, C-1853, N-316, N-10311*
 
-**N-492** Carrie Bartholomew
+**N-316** Carrie Bartholomew
 
 Spouse of Adam Bartholomew; confirmed in her own social media post as being in the courtyard during the shot.
 
@@ -336,9 +336,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1511.1, C-1852, N-491, N-10382*
+*Related: A-1511.1, C-1852, N-315, N-10311*
 
-**N-493** Emmanuel Beerer
+**N-317** Emmanuel Beerer
 
 Eyewitness featured in PBS interview clip; host notes his selection by mainstream media.
 
@@ -347,9 +347,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1508.1, C-1856, N-10386*
+*Related: A-1508.1, C-1856, N-10315*
 
-**N-494** "Gina" (Charlie Kirk Show caller)
+**N-318** "Gina" (Charlie Kirk Show caller)
 
 Caller who posed question to Blake Nef regarding invitation mechanics.
 
@@ -358,9 +358,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1501.1, N-224, N-10384*
+*Related: A-1501.1, N-162, N-10313*
 
-**N-10382** Maroon Shirt Pattern at UVU September 10 Event
+**N-10311** Maroon Shirt Pattern at UVU September 10 Event
 
 Persistent observation of multiple young men alone in maroon shirts at UVU; potential identification protocol question.
 
@@ -369,9 +369,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1505.1, A-1505.2, A-1505.3, A-1505.4, A-1505.5, A-1505.6, A-1510.1, A-1511.1, C-1844, C-1847, C-1848, C-1849, C-1850, C-1851, C-1852, C-1853, C-1854, C-1860, N-490, N-491, N-492*
+*Related: A-1505.1, A-1505.2, A-1505.3, A-1505.4, A-1505.5, A-1505.6, A-1510.1, A-1511.1, C-1844, C-1847, C-1848, C-1849, C-1850, C-1851, C-1852, C-1853, C-1854, C-1860, N-314, N-315, N-316*
 
-**N-10383** Charlie Kirk Show Apple Podcasts Ranking Decline
+**N-10312** Charlie Kirk Show Apple Podcasts Ranking Decline
 
 Persistent target tracking reported drop to #94 from prior top-10 status.
 
@@ -382,7 +382,7 @@ Investigative Pressure: Medium
 
 *Related: A-1507.1, C-1855, N-1*
 
-**N-10384** TPUSA December 15 Live Stream Event Verification
+**N-10313** TPUSA December 15 Live Stream Event Verification
 
 Persistent target tracking the announced December 15, 2025 TPUSA live stream response, its invitation mechanics, Erika Kirk's attendance, and evidentiary handling.
 
@@ -391,9 +391,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1501.1, A-1501.2, A-1502.1, A-1506.1, A-1512.1, C-1839, C-1840, C-1841, C-1842, C-1854, C-1861, N-224, N-42, N-494, N-2*
+*Related: A-1501.1, A-1501.2, A-1502.1, A-1506.1, A-1512.1, C-1839, C-1840, C-1841, C-1842, C-1854, C-1861, N-162, N-14, N-318, N-2*
 
-**N-10385** Roof Shooter Video Witness Follow-up
+**N-10314** Roof Shooter Video Witness Follow-up
 
 Persistent target tracking the two videos of the alleged roof subject, the side-angle shooter's testimony, and absence of federal or defense outreach.
 
@@ -404,7 +404,7 @@ Investigative Pressure: High
 
 *Related: A-1509.1, C-1857, C-1858, C-1859*
 
-**N-10386** Mainstream Media Eyewitness Selection Pattern at UVU Event
+**N-10315** Mainstream Media Eyewitness Selection Pattern at UVU Event
 
 Persistent target tracking why Emmanuel Beerer was selected by PBS (and other networks) as a featured eyewitness despite his apparent obscurity.
 
@@ -413,7 +413,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1508.1, C-1856, N-493*
+*Related: A-1508.1, C-1856, N-317*
 
 ---
 
@@ -426,9 +426,9 @@ Claim Timestamp: 00:05:37
 Claim: On the Charlie Kirk Show, Blake Nef stated that the invitation-response announcement and all related actions were taken at the request, direction, and approval of Erika Kirk.
 
 Anchored Artifacts: A-1501.2
-Mentions: N-2, N-224
+Mentions: N-2, N-162
 
-Related Nodes: N-10384
+Related Nodes: N-10313
 
 Investigative Direction: Obtain the full unedited Charlie Kirk Show audio segment and any internal TPUSA communications referencing Erika Kirk's approval.
 
@@ -441,9 +441,9 @@ Claim Timestamp: 00:06:44
 Claim: On the Charlie Kirk Show, Blake Nef stated that, given the nature of the claims, "it's intuitive that it is critical to be in person if you want to be authentic."
 
 Anchored Artifacts: A-1501.2
-Mentions: N-2, N-224
+Mentions: N-2, N-162
 
-Related Nodes: N-10384
+Related Nodes: N-10313
 
 Investigative Direction: Compare this stated rationale against any prior TPUSA live stream format decisions, particularly those involving remote participation.
 
@@ -456,9 +456,9 @@ Claim Timestamp: 00:11:14
 Claim: In his earlier invitation statement (read aloud in this episode), Blake Nef said TPUSA would "sincerely welcome" Candace Owens's participation in a Phoenix live stream without explicit in-person requirement.
 
 Anchored Artifacts: A-1502.1
-Mentions: N-2, N-224, N-3
+Mentions: N-2, N-162, N-3
 
-Related Nodes: N-10384
+Related Nodes: N-10313
 
 Investigative Direction: Obtain the original December 3 (approx.) Blake Nef statement text and any follow-up communication that added an in-person condition.
 
@@ -471,7 +471,7 @@ Claim Timestamp: 00:34:18
 Claim: The Game's song "The Assassination of Candace Owens" (audio excerpt and lyric read) includes the line "Who really killed Charlie Kirk?"
 
 Anchored Artifacts: A-1503.1
-Mentions: N-1, N-481, N-3
+Mentions: N-1, N-311, N-3
 
 
 Investigative Direction: Obtain the full released track and verify publication date, distribution platform, and producer credits.
@@ -486,7 +486,7 @@ Claim: When asked whether UVU's school colors include maroon, a UVU-affiliated i
 
 Anchored Artifacts: A-1505.1 (verbal confirmation referenced alongside footage)
 
-Related Nodes: N-10382
+Related Nodes: N-10311
 
 Investigative Direction: Verify UVU official branding (athletics department, university communications) to confirm stated school colors.
 
@@ -499,9 +499,9 @@ Claim Timestamp: 00:20:45–00:21:55
 Claim: Footage from UVU on September 10 shows multiple young men attending alone and wearing maroon shirts.
 
 Anchored Artifacts: A-1505.1, A-1505.6
-Mentions: N-490
+Mentions: N-314
 
-Related Nodes: N-10382
+Related Nodes: N-10311
 
 Investigative Direction: Systematically catalog every maroon-shirted attendee visible in publicly available September 10 footage and cross-reference social media profiles.
 
@@ -514,9 +514,9 @@ Claim Timestamp: 00:46:13
 Claim: Blake Nef posted on X that the invitation was "not how you book a guest," that TPUSA "never said that we were" booking a guest, and that Candace "was given the opportunity to join and declined."
 
 Anchored Artifacts: A-1506.1
-Mentions: N-2, N-224
+Mentions: N-2, N-162
 
-Related Nodes: N-10384
+Related Nodes: N-10313
 
 Investigative Direction: Retrieve the original X post with timestamp and any replies; obtain any direct communication records between TPUSA and Candace Owens's representatives.
 
@@ -530,7 +530,7 @@ Claim: The Charlie Kirk Show has fallen to #94 on Apple Podcasts despite a prior
 
 Anchored Artifacts: A-1507.1
 
-Related Nodes: N-10383
+Related Nodes: N-10312
 
 Investigative Direction: Cross-reference third-party Apple Podcasts tracking services to verify the ranking on the cited date and identify trend pattern.
 
@@ -543,9 +543,9 @@ Claim Timestamp: 00:32:42–00:33:55
 Claim: PBS (and other networks, per host) featured Emmanuel Beerer as an eyewitness, with the interview conducted in Salt Lake City rather than at UVU.
 
 Anchored Artifacts: A-1508.1
-Mentions: N-493
+Mentions: N-317
 
-Related Nodes: N-10386
+Related Nodes: N-10315
 
 Investigative Direction: Obtain the original PBS segment, identify the producer/assignment editor, and verify how Beerer was identified as a witness.
 
@@ -558,9 +558,9 @@ Claim Timestamp: 00:24:00–00:24:45
 Claim: UVU footage shows Jacob Kasparian remaining upright and not ducking after the shot, briefly handling his phone and walking away.
 
 Anchored Artifacts: A-1505.2
-Mentions: N-490
+Mentions: N-314
 
-Related Nodes: N-10382
+Related Nodes: N-10311
 
 Investigative Direction: Obtain the original full-length footage to confirm the absence of ducking and any subsequent movement.
 
@@ -573,9 +573,9 @@ Claim Timestamp: 00:25:00–00:25:35
 Claim: Footage and a grainy superimposed image depict Jacob Kasparian recording the event on his phone.
 
 Anchored Artifacts: A-1505.3
-Mentions: N-490
+Mentions: N-314
 
-Related Nodes: N-10382
+Related Nodes: N-10311
 
 Investigative Direction: Obtain any phone-recorded footage from Jacob Kasparian or his device via subpoena/preservation order.
 
@@ -588,9 +588,9 @@ Claim Timestamp: 00:24:50–00:25:25
 Claim: Jacob Kasparian posted himself earlier on September 10 wearing a dyed blue shirt rather than the maroon shirt worn at UVU.
 
 Anchored Artifacts: A-1505.4
-Mentions: N-490
+Mentions: N-314
 
-Related Nodes: N-10382
+Related Nodes: N-10311
 
 Investigative Direction: Obtain the original Facebook post with timestamp metadata; verify whether the timestamp was edited for timezone.
 
@@ -603,9 +603,9 @@ Claim Timestamp: 00:26:30–00:28:00
 Claim: Adam Bartholomew live-streamed the entire UVU event on September 10.
 
 Anchored Artifacts: A-1505.5
-Mentions: N-491, N-492
+Mentions: N-315, N-316
 
-Related Nodes: N-10382
+Related Nodes: N-10311
 
 Investigative Direction: Obtain the full Adam Bartholomew livestream VOD and metadata for forensic review.
 
@@ -618,9 +618,9 @@ Claim Timestamp: 00:27:30–00:28:00
 Claim: Carrie Bartholomew posted a tweet and accompanying photo confirming she was in the courtyard near the bush when the shot occurred.
 
 Anchored Artifacts: A-1511.1, A-1505.5
-Mentions: N-491, N-492
+Mentions: N-315, N-316
 
-Related Nodes: N-10382
+Related Nodes: N-10311
 
 Investigative Direction: Retrieve the original Carrie Bartholomew tweet with image metadata and timestamp.
 
@@ -633,9 +633,9 @@ Claim Timestamp: 00:27:51–00:28:00
 Claim: In his livestream footage, Adam Bartholomew did not interrupt the broadcast to check on or locate his wife immediately after the shot.
 
 Anchored Artifacts: A-1505.5
-Mentions: N-491, N-492
+Mentions: N-315, N-316
 
-Related Nodes: N-10382
+Related Nodes: N-10311
 
 Investigative Direction: Review the full Bartholomew livestream timeline and any subsequent communication regarding his wife's location.
 
@@ -648,9 +648,9 @@ Claim Timestamp: 00:28:44
 Claim: Tyler Robinson, the alleged shooter, was wearing a maroon shirt at the UVU event.
 
 Anchored Artifacts: A-1505.1 (referenced as background fact)
-Mentions: N-69
+Mentions: N-40
 
-Related Nodes: N-10382
+Related Nodes: N-10311
 
 Investigative Direction: Cross-reference court filings and law enforcement exhibits confirming Robinson's attire on September 10.
 
@@ -664,7 +664,7 @@ Claim: Viewers identifying as current or former military personnel wrote in to s
 
 Anchored Artifacts: A-1510.1
 
-Related Nodes: N-10382
+Related Nodes: N-10311
 
 Investigative Direction: Cross-reference the email assertions against publicly available military uniform/identifier doctrine for airborne, QRF, and undercover units.
 
@@ -678,7 +678,7 @@ Claim: Per host recollection, there are only two videos showing the alleged shoo
 
 Anchored Artifacts: A-1509.1
 
-Related Nodes: N-10385
+Related Nodes: N-10314
 
 Investigative Direction: Catalog all publicly known September 10 roof footage and confirm whether additional footage exists in government holdings.
 
@@ -692,7 +692,7 @@ Claim: The individual who shot one of the two roof videos told the host in a fol
 
 Anchored Artifacts: A-1509.1
 
-Related Nodes: N-10385
+Related Nodes: N-10314
 
 Investigative Direction: Obtain a sworn statement from the roof video caller and any forensic review of the footage.
 
@@ -705,9 +705,9 @@ Claim Timestamp: 00:45:11
 Claim: The roof video caller stated that Tyler Robinson's defense lawyer had not reached out, and that federal authorities had not reached out since the host's prior contact.
 
 Anchored Artifacts: A-1509.1
-Mentions: N-69
+Mentions: N-40
 
-Related Nodes: N-10385
+Related Nodes: N-10314
 
 Investigative Direction: Verify via court subpoena records and FBI/subpoena logs whether the caller was contacted by either party.
 
@@ -721,7 +721,7 @@ Claim: The roof video caller stated he has experience with guns and teaches peop
 
 Anchored Artifacts: A-1509.1
 
-Related Nodes: N-10385
+Related Nodes: N-10314
 
 Investigative Direction: Verify the caller's stated qualifications via credentialing records or instructors' registry.
 
@@ -734,9 +734,9 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: Blake Nef states Erika Kirk "heads this" and host identifies Erika Kirk as CEO of TPUSA.
 
 Anchored Artifacts: A-1501.2
-Mentions: N-2, N-224
+Mentions: N-2, N-162
 
-Related Nodes: N-10384
+Related Nodes: N-10313
 
 Investigative Direction: Obtain TPUSA corporate filings or official communications confirming Erika Kirk's current title and date of appointment.
 
@@ -749,9 +749,9 @@ Claim Timestamp: 00:07:32
 Claim: A TPUSA response live stream was announced for December 15 (2025).
 
 Anchored Artifacts: A-1501.2
-Mentions: N-2, N-42, N-224
+Mentions: N-2, N-14, N-162
 
-Related Nodes: N-10384
+Related Nodes: N-10313
 
 Investigative Direction: Monitor TPUSA channels for confirmation and document the actual event for artifact capture.
 

@@ -62,15 +62,15 @@ P1,56,C-2080,Mentions,N-70,Spencer Cox,,REMOVE,,,wrong id; correct person N-37 (
 P1,61,C-2177,Mentions,N-70,Spencer Cox,,REMOVE,,,not named in claim text or anywhere in the episode transcript
 P1,61,C-2175,Mentions,N-70,Spencer Cox,,REMOVE,,,not named in claim text or anywhere in the episode transcript
 P1,62,C-2188,Mentions,N-70,Spencer Cox,,REMOVE,,,wrong id; correct person N-37 (Tyler Bowyer) already tagged (named in claim text)
-PHASE_B,67,C-2281,Related Nodes,N-10009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
-PHASE_B,67,C-2275,Related Nodes,N-10009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
-PHASE_B,67,C-2274,Related Nodes,N-10009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in transcript at 41:12
-PHASE_B,67,C-2273,Related Nodes,N-10010,Erica Kirk – referenced in alibi and Dan Flood message disputes.,Erika Kirk (topic-band person row),MOVE_TO_MENTIONS,N-2,Erika Kirk,named in claim text
-PHASE_B,67,C-2271,Related Nodes,N-10009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
-PHASE_B,67,C-2271,Related Nodes,N-10010,Erica Kirk – referenced in alibi and Dan Flood message disputes.,Erika Kirk (topic-band person row),MOVE_TO_MENTIONS,N-2,Erika Kirk,named in transcript at 44:45
-PHASE_B,67,C-2270,Related Nodes,N-10009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
-PHASE_B,67,C-2269,Related Nodes,N-10009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
-PHASE_B,67,C-2268,Related Nodes,N-10009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
+PHASE_B,67,C-2281,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
+PHASE_B,67,C-2275,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
+PHASE_B,67,C-2274,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in transcript at 41:12
+PHASE_B,67,C-2273,Related Nodes,N-1010,Erica Kirk – referenced in alibi and Dan Flood message disputes.,Erika Kirk (topic-band person row),MOVE_TO_MENTIONS,N-2,Erika Kirk,named in claim text
+PHASE_B,67,C-2271,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
+PHASE_B,67,C-2271,Related Nodes,N-1010,Erica Kirk – referenced in alibi and Dan Flood message disputes.,Erika Kirk (topic-band person row),MOVE_TO_MENTIONS,N-2,Erika Kirk,named in transcript at 44:45
+PHASE_B,67,C-2270,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
+PHASE_B,67,C-2269,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
+PHASE_B,67,C-2268,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,Charlie Kirk (topic-band person row),MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
 P1,68,C-2296,Mentions,N-888,Amber Thurman (Victim in Stevenson case),,REMOVE,,,not named in claim text or anywhere in the episode transcript
 P1,71,C-2329,Mentions,N-910,Brian Kilmeade,,REPLACE,N-42,Andrew Kolvet,named in claim text
 P1,71,C-2328,Mentions,N-910,Brian Kilmeade,,REPLACE,N-42,Andrew Kolvet,named in claim text
@@ -78,23 +78,23 @@ P1,71,C-2327,Mentions,N-910,Brian Kilmeade,,REPLACE,N-42,Andrew Kolvet,named in 
 P1,71,C-2326,Mentions,N-910,Brian Kilmeade,,REMOVE,,,not named in claim text or anywhere in the episode transcript
 P1,72,C-2355,Mentions,N-70,Spencer Cox,,REMOVE,,,not named in claim text or anywhere in the episode transcript
 P1,72,C-2354,Mentions,N-70,Spencer Cox,,REMOVE,,,wrong id; correct person N-37 (Tyler Bowyer) already tagged (named in claim text)
-PHASE_B,75,C-3582,Related Nodes,N-10009,Charlie Kirk – referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-10009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in claim text
-PHASE_B,75,C-3580,Related Nodes,N-10009,Charlie Kirk – referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-10009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in transcript at 38:28
-PHASE_B,75,C-3579,Related Nodes,N-10009,Charlie Kirk – referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-10009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in transcript at 37:23
-PHASE_B,75,C-3578,Related Nodes,N-10009,Charlie Kirk – referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-10009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in claim text
-PHASE_B,75,C-3577,Related Nodes,N-10009,Charlie Kirk – referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-10009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in transcript at 35:06
-PHASE_B,75,C-3576,Related Nodes,N-10009,Charlie Kirk – referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-10009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in claim text
-PHASE_B,75,C-3570,Related Nodes,N-11349,Father Ripperger,Father Ripperger,MOVE_TO_MENTIONS,N-531,Father Ripperger,named in claim text
+PHASE_B,75,C-3582,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in claim text
+PHASE_B,75,C-3580,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in transcript at 38:28
+PHASE_B,75,C-3579,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in transcript at 37:23
+PHASE_B,75,C-3578,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in claim text
+PHASE_B,75,C-3577,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in transcript at 35:06
+PHASE_B,75,C-3576,Related Nodes,N-1009,Charlie Kirk – referenced throughout timeline reconstruction.,"Donald Trump (draft annotated ""N-1009 (Donald Trump)"")",MOVE_TO_MENTIONS,N-5,Donald Trump,named in claim text
+PHASE_B,75,C-3570,Related Nodes,N-2349,Father Ripperger,Father Ripperger,MOVE_TO_MENTIONS,N-531,Father Ripperger,named in claim text
 P1,78,C-2467,Mentions,N-70,Spencer Cox,,REMOVE,,,not named in claim text or anywhere in the episode transcript
 EXTRA,92,C-2742,Mentions,N-5,Donald Trump,Andrew Kolvet (legend line and register text),REPLACE,N-42,Andrew Kolvet,named in transcript at 32:09
 EXTRA,92,C-2741,Mentions,N-5,Donald Trump,Andrew Kolvet (legend line and register text),REPLACE,N-42,Andrew Kolvet,named in claim text
 EXTRA,92,C-2736,Mentions,N-6,Elizabeth Lane *(reused from Episode 1)*,Victor Marx (legend line),REPLACE,N-569,Victor Marx,named in claim text
-PHASE_B,92,C-2736,Related Nodes,N-10015,Tim Ballard,Tim Ballard,REMOVE,,,person N-536 (Tim Ballard) not named in claim or within +-4 min
+PHASE_B,92,C-2736,Related Nodes,N-1015,Tim Ballard,Tim Ballard,REMOVE,,,person N-536 (Tim Ballard) not named in claim or within +-4 min
 EXTRA,92,C-2735,Mentions,N-6,Elizabeth Lane *(reused from Episode 1)*,Victor Marx (legend line),REPLACE,N-569,Victor Marx,named in claim text
-PHASE_B,92,C-2735,Related Nodes,N-10015,Tim Ballard,Tim Ballard,REMOVE,,,person N-536 (Tim Ballard) not named in claim or within +-4 min
+PHASE_B,92,C-2735,Related Nodes,N-1015,Tim Ballard,Tim Ballard,REMOVE,,,person N-536 (Tim Ballard) not named in claim or within +-4 min
 PHASE_B,92,C-2735,Mentions,,,,ADD,N-570,Corby Hall,named in claim text
 EXTRA,92,C-2734,Mentions,N-6,Elizabeth Lane *(reused from Episode 1)*,Victor Marx (legend line),REPLACE,N-569,Victor Marx,named in claim text
-PHASE_B,92,C-2734,Related Nodes,N-10015,Tim Ballard,Tim Ballard,REMOVE,,,person N-536 (Tim Ballard) not named in claim or within +-4 min
+PHASE_B,92,C-2734,Related Nodes,N-1015,Tim Ballard,Tim Ballard,REMOVE,,,person N-536 (Tim Ballard) not named in claim or within +-4 min
 EXTRA,92,C-2732,Mentions,N-5,Donald Trump,Andrew Kolvet (legend line and register text),REPLACE,N-42,Andrew Kolvet,named in transcript at 16:03
 EXTRA,92,C-2730,Mentions,N-5,Donald Trump,Andrew Kolvet (legend line and register text),REPLACE,N-42,Andrew Kolvet,named in transcript at 16:03
 EXTRA,92,C-2727,Mentions,N-5,Donald Trump,Andrew Kolvet (legend line and register text),REPLACE,N-42,Andrew Kolvet,named in transcript at 07:17
@@ -140,29 +140,29 @@ P1,148,C-3405,Mentions,N-18,Amir Safari,Salem Media (organization),REMOVE,,,loca
 P1,148,C-3404,Mentions,N-8,Melody Hall,New York Times (publication),REMOVE,,,local placeholder id; person has no CKA node or is not a person
 EXTRA,148,C-3403,Mentions,N-5,Donald Trump,Kanye West / Ye (legend),REPLACE,N-56,Kanye West,named in claim text
 P1,148,C-3403,Mentions,N-6,Elizabeth Lane *(reused from Episode 1)*,Kim Kardashian,REPLACE,N-587,Kim Kardashian,named in claim text; new person N-587 minted at a clean hole
-PHASE_B,148,C-3403,Related Nodes,N-10028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-3,Candace Owens,named in claim text
-EXTRA,148,C-3402,Related Nodes,N-10028,Usha Vance,Candace Owens or Usha Vance (legend lists both),REMOVE,,,local placeholder id with no CKA node
+PHASE_B,148,C-3403,Related Nodes,N-1028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-3,Candace Owens,named in claim text
+EXTRA,148,C-3402,Related Nodes,N-1028,Usha Vance,Candace Owens or Usha Vance (legend lists both),REMOVE,,,local placeholder id with no CKA node
 EXTRA,148,C-3400,Mentions,N-16,Frank Turek,JD Vance (legend),REPLACE,N-4,JD Vance,named in transcript at 43:25
-PHASE_B,148,C-3400,Related Nodes,N-10028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-578,Usha Vance,named in claim text
+PHASE_B,148,C-3400,Related Nodes,N-1028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-578,Usha Vance,named in claim text
 EXTRA,148,C-3399,Mentions,N-16,Frank Turek,JD Vance (legend),REPLACE,N-4,JD Vance,named in transcript at 43:25
-PHASE_B,148,C-3399,Related Nodes,N-10028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-578,Usha Vance,named in claim text
+PHASE_B,148,C-3399,Related Nodes,N-1028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-578,Usha Vance,named in claim text
 P1,148,C-3398,Mentions,N-8,Melody Hall,New York Times (publication),REMOVE,,,local placeholder id; person has no CKA node or is not a person
 EXTRA,148,C-3397,Mentions,N-4,JD Vance,Blake Neff (legend line 36),REPLACE,N-224,Blake Neff,named in claim text
-PHASE_B,148,C-3397,Related Nodes,N-10028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-3,Candace Owens,named in claim text
+PHASE_B,148,C-3397,Related Nodes,N-1028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-3,Candace Owens,named in claim text
 EXTRA,148,C-3396,Mentions,N-4,JD Vance,Blake Neff (legend line 36),REPLACE,N-224,Blake Neff,named in claim text
 P1,148,C-3396,Mentions,N-9,Holly Chalmers,Deseret News (publication),REMOVE,,,local placeholder id; person has no CKA node or is not a person
-P1,148,C-3396,Mentions,N-10,Kenneth Brining,Turning Point USA (organization N-10000),REMOVE,,,local placeholder id; person has no CKA node or is not a person
-PHASE_B,148,C-3396,Related Nodes,N-10028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-3,Candace Owens,named in claim text
-EXTRA,148,C-3396,Related Nodes,,,,ADD,N-10000,Turning Point USA,organization moved from Mentions to Related Nodes
+P1,148,C-3396,Mentions,N-10,Kenneth Brining,Turning Point USA (organization N-1000),REMOVE,,,local placeholder id; person has no CKA node or is not a person
+PHASE_B,148,C-3396,Related Nodes,N-1028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-3,Candace Owens,named in claim text
+EXTRA,148,C-3396,Related Nodes,,,,ADD,N-1000,Turning Point USA,organization moved from Mentions to Related Nodes
 EXTRA,148,C-3395,Mentions,N-4,JD Vance,Blake Neff (legend line 36),REPLACE,N-224,Blake Neff,named in claim text
 P1,148,C-3395,Mentions,N-9,Holly Chalmers,Deseret News (publication),REMOVE,,,local placeholder id; person has no CKA node or is not a person
-PHASE_B,148,C-3395,Related Nodes,N-10028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-3,Candace Owens,named in claim text
+PHASE_B,148,C-3395,Related Nodes,N-1028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-3,Candace Owens,named in claim text
 EXTRA,148,C-3394,Mentions,N-4,JD Vance,Blake Neff (legend line 36),REPLACE,N-224,Blake Neff,named in claim text
 P1,148,C-3394,Mentions,N-9,Holly Chalmers,Deseret News (publication),REMOVE,,,local placeholder id; person has no CKA node or is not a person
-PHASE_B,148,C-3394,Related Nodes,N-10028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-3,Candace Owens,named in claim text
+PHASE_B,148,C-3394,Related Nodes,N-1028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-3,Candace Owens,named in claim text
 EXTRA,148,C-3393,Mentions,N-4,JD Vance,Blake Neff (legend line 36),REPLACE,N-224,Blake Neff,named in claim text
 P1,148,C-3393,Mentions,N-9,Holly Chalmers,Deseret News (publication),REMOVE,,,local placeholder id; person has no CKA node or is not a person
-PHASE_B,148,C-3393,Related Nodes,N-10028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-3,Candace Owens,named in claim text
+PHASE_B,148,C-3393,Related Nodes,N-1028,Usha Vance,Candace Owens or Usha Vance (legend lists both),MOVE_TO_MENTIONS,N-3,Candace Owens,named in claim text
 P1,154,C-3510,Mentions,N-4,JD Vance,Andrew Kolvet (legend line 35),REPLACE,N-42,Andrew Kolvet,named in claim text
 P1,154,C-3507,Mentions,N-6,Elizabeth Lane *(reused from Episode 1)*,Blake Neff (legend),REPLACE,N-224,Blake Neff,named in claim text
 EXTRA,154,C-3506,Mentions,N-5,Donald Trump,Tucker Carlson (legend),REPLACE,N-50,Tucker Carlson,named in claim text
@@ -199,42 +199,42 @@ ORPHAN_FIX,9,C-1277,Mentions,,,,ADD,N-154,Thomas Sowell,"transcript 18:16 ""insi
 ORPHAN_FIX,9,C-1277,Mentions,,,,ADD,N-155,Margarethe Schurz,"transcript 18:16 ""inside the American education system by Thomas Soul"" and 18:57 ""Margaret Schzes"" (ASR) in the homeschool segment C-1277 (18:56) covers; orphaned after wrong C-1267 cite was removed"
 ORPHAN_FIX,7,C-3717 (new),Mentions,,,,ADD,N-130,Jack Posobiec,"new transcript-driven claim at 49:00 (""Jack Bobic"", ASR) so the person keeps a grounded cite after the wrong C-1228 cite was removed"
 ORPHAN_FIX,39,C-3718 (new),Mentions,,,,ADD,N-462,Charles Joseph Bonaparte,"new transcript-driven claim at 03:44 (""Charles Joseph Bonapart"", ASR) so the person keeps a grounded cite after the wrong C-1812 cite was removed"
-EP107,107,C-3702 (was C-1000),Mentions,N-23,Charlie Kirk Death Announcement Timeline,,MOVE_TO_RELATED,N-10697,Early-Death-Announcement Timeline Verification,claim-sentence topic typed person; retargeted to topic id
-EP107,107,C-3702 (was C-1000),Related Nodes,N-10017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-10017)
+EP107,107,C-3702 (was C-1000),Mentions,N-23,Charlie Kirk Death Announcement Timeline,,MOVE_TO_RELATED,N-1697,Early-Death-Announcement Timeline Verification,claim-sentence topic typed person; retargeted to topic id
+EP107,107,C-3702 (was C-1000),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
 EP107,107,C-3702 (was C-1000),Mentions,,,,ADD,N-1,Charlie Kirk,named in claim text (Charlie Kirk)
-EP107,107,C-3703 (was C-1001),Related Nodes,N-10017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-10017)
-EP107,107,C-3703 (was C-1001),Related Nodes,N-10018,Eileen Marx,,MOVE_TO_MENTIONS,N-571,Eileen Marx,"named in claim text (""his wife Eileen""; moved from Related Nodes N-10018)"
+EP107,107,C-3703 (was C-1001),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3703 (was C-1001),Related Nodes,N-1018,Eileen Marx,,MOVE_TO_MENTIONS,N-571,Eileen Marx,"named in claim text (""his wife Eileen""; moved from Related Nodes N-1018)"
 EP107,107,C-3703 (was C-1001),Mentions,,,,ADD,N-2,Erika Kirk,named in claim text (Erika Kirk's home); transcript 01:24
 EP107,107,C-3704 (was C-1002),Mentions,N-3,Candace Owens,stepfather (N-3 is Candace Owens),REPLACE,N-577,Gloyce Dean Kennedy,"claim names ""his stepfather""; transcript 02:31 names stepfather Gloyce Dean Kennedy (replaces wrong N-3)"
-EP107,107,C-3704 (was C-1002),Related Nodes,N-10017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-10017)
+EP107,107,C-3704 (was C-1002),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
 EP107,107,C-3705 (was C-1003),Mentions,N-9,Holly Chalmers,,REPLACE,N-573,Holly Chalmers,named in claim text (was ep107 placeholder N-9)
-EP107,107,C-3705 (was C-1003),Related Nodes,N-10017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-10017)
+EP107,107,C-3705 (was C-1003),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
 EP107,107,C-3706 (was C-1004),Mentions,N-15,Victor Marx's daughter,,REPLACE,N-575,Victor Marx's daughter,named in claim text (was ep107 placeholder N-15)
-EP107,107,C-3706 (was C-1004),Related Nodes,N-10017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-10017)
+EP107,107,C-3706 (was C-1004),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
 EP107,107,C-3706 (was C-1004),Mentions,,,,ADD,N-574,Victor Marx's son,transcript 11:03 same passage: Victor Marx's son wrote the board letter the daughter's post describes
-EP107,107,C-3707 (was C-1005),Related Nodes,N-10017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-10017)
-EP107,107,C-3708 (was C-1006),Mentions,N-24,"45,000 Rescue Claim Discrepancy",,MOVE_TO_RELATED,N-11384,"45,000 Rescue Claim Discrepancy",claim-sentence topic typed person; retargeted to topic id
-EP107,107,C-3708 (was C-1006),Related Nodes,N-10017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-10017)
+EP107,107,C-3707 (was C-1005),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3708 (was C-1006),Mentions,N-24,"45,000 Rescue Claim Discrepancy",,MOVE_TO_RELATED,N-2384,"45,000 Rescue Claim Discrepancy",claim-sentence topic typed person; retargeted to topic id
+EP107,107,C-3708 (was C-1006),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
 EP107,107,C-3709 (was C-1007),Mentions,N-3,Candace Owens,stepfather (N-3 is Candace Owens),REPLACE,N-577,Gloyce Dean Kennedy,"cat narrative about the stepfather; transcript 13:38 names ""his stepfather, Gloyce"" (replaces wrong N-3)"
-EP107,107,C-3709 (was C-1007),Related Nodes,N-10017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-10017)
+EP107,107,C-3709 (was C-1007),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
 EP107,107,C-3709 (was C-1007),Mentions,,,,ADD,N-570,Corby Hall,"transcript 16:54: Candace raises ""the latest accusations by your last guest, Corby"" immediately before the question"
-EP107,107,C-3710 (was C-1008),Related Nodes,N-10017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-10017)
-EP107,107,C-3711 (was C-1009),Related Nodes,N-10017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-10017)
-EP107,107,C-3711 (was C-1009),Related Nodes,N-10018,Eileen Marx,,REMOVE,,,"not named in claim text; Eileen is named at 50:07, outside the +-240 s window of this 42:11 claim"
+EP107,107,C-3710 (was C-1008),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3711 (was C-1009),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3711 (was C-1009),Related Nodes,N-1018,Eileen Marx,,REMOVE,,,"not named in claim text; Eileen is named at 50:07, outside the +-240 s window of this 42:11 claim"
 EP107,107,C-3711 (was C-1009),Mentions,,,,ADD,N-1,Charlie Kirk,named in claim text (Charlie Kirk); transcript 42:11
 EP107,107,C-3711 (was C-1009),Mentions,,,,ADD,N-572,Melody Hall,"transcript 41:09 same prayer exchange: ""Corby's wife, Melody"""
-EP107,107,C-3712 (was C-1010),Mentions,N-26,Victor Marx IDF Arms Deal Allegations,,MOVE_TO_RELATED,N-10676,"Victor Marx IDF 50,000 Guns Request",claim-sentence topic typed person; retargeted to topic id
-EP107,107,C-3712 (was C-1010),Related Nodes,N-10017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-10017)
-EP107,107,C-3713 (was C-1011),Mentions,N-23,Charlie Kirk Death Announcement Timeline,,MOVE_TO_RELATED,N-10697,Early-Death-Announcement Timeline Verification,claim-sentence topic typed person; retargeted to topic id
-EP107,107,C-3713 (was C-1011),Related Nodes,N-10017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-10017)
+EP107,107,C-3712 (was C-1010),Mentions,N-26,Victor Marx IDF Arms Deal Allegations,,MOVE_TO_RELATED,N-1676,"Victor Marx IDF 50,000 Guns Request",claim-sentence topic typed person; retargeted to topic id
+EP107,107,C-3712 (was C-1010),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3713 (was C-1011),Mentions,N-23,Charlie Kirk Death Announcement Timeline,,MOVE_TO_RELATED,N-1697,Early-Death-Announcement Timeline Verification,claim-sentence topic typed person; retargeted to topic id
+EP107,107,C-3713 (was C-1011),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
 EP107,107,C-3713 (was C-1011),Mentions,,,,ADD,N-1,Charlie Kirk,named in claim text (Charlie Kirk shooting video)
 EP107,107,C-3713 (was C-1011),Mentions,,,,ADD,N-16,Frank Turek,"transcript 46:02 same answer: ""Of course, I know Frank Turek"""
 EP107,107,C-3713 (was C-1011),Mentions,,,,ADD,N-576,Amir Safari,"transcript 47:56 follow-up on early posters: ""Jack Hibbs, Amir Safari"""
 EP107,107,C-3713 (was C-1011),Mentions,,,,ADD,N-309,Jack Hibbs,"transcript 47:56 follow-up on early posters: ""Jack Hibbs, Amir Safari"""
-EP107,107,C-3714 (was C-1012),Related Nodes,N-10017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-10017)
-EP107,107,C-3715 (was C-1013),Related Nodes,N-10017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-10017)
-EP107,107,C-3716 (was C-1014),Mentions,N-24,"45,000 Rescue Claim Discrepancy",,MOVE_TO_RELATED,N-11384,"45,000 Rescue Claim Discrepancy",claim-sentence topic typed person; retargeted to topic id
-EP107,107,C-3716 (was C-1014),Related Nodes,N-10017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-10017)
+EP107,107,C-3714 (was C-1012),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3715 (was C-1013),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
+EP107,107,C-3716 (was C-1014),Mentions,N-24,"45,000 Rescue Claim Discrepancy",,MOVE_TO_RELATED,N-2384,"45,000 Rescue Claim Discrepancy",claim-sentence topic typed person; retargeted to topic id
+EP107,107,C-3716 (was C-1014),Related Nodes,N-1017,Victor Marx,,MOVE_TO_MENTIONS,N-569,Victor Marx,named in claim text (moved from Related Nodes N-1017)
 TRANSIT_FIXALL,15,C-1377,Mentions,N-42,Andrew Kolvet,Josh Hammer,REPLACE,N-86,Josh Hammer,named in claim text
 TRANSIT_FIXALL,16,C-1397,Mentions,N-42,Andrew Kolvet,Josh Hammer,REPLACE,N-86,Josh Hammer,named in claim text
 TRANSIT_FIXALL,18,C-1455,Mentions,N-42,Andrew Kolvet,Josh Hammer,REPLACE,N-86,Josh Hammer,named in claim text
@@ -245,49 +245,49 @@ TRANSIT_FIXALL,99,C-2867,Mentions,N-42,Andrew Kolvet,Josh Hammer,REPLACE,N-86,Jo
 TRANSIT_FIXALL,99,C-2874,Mentions,N-42,Andrew Kolvet,Josh Hammer,REPLACE,N-86,Josh Hammer,named in transcript at 21:45
 TRANSIT_FIXALL,13,C-1348,Mentions,N-200,Unidentified Lyman-Family Woman (Shainer's aunt),Megyn Kelly,REPLACE,N-75,Megyn Kelly,named in claim text
 TRANSIT_FIXALL,54,C-2027,Mentions,N-70,Spencer Cox,Spencer Cox (never named in ep54),REMOVE,,,ep54 transcript never names Cox; no CKA person node
-TRANSIT_FIXALL,26,C-1609,Related Nodes,N-10000,Turning Point USA,Erica Kirk (ep26 legend),MOVE_TO_MENTIONS,N-2,Erika Kirk,named in claim text
-TRANSIT_FIXALL,26,C-1610,Related Nodes,N-10000,Turning Point USA,Erica Kirk (ep26 legend),MOVE_TO_MENTIONS,N-2,Erika Kirk,named in transcript at 37:39
-TRANSIT_FIXALL,26,C-1615,Related Nodes,N-10000,Turning Point USA,Erica Kirk (ep26 legend),MOVE_TO_MENTIONS,N-2,Erika Kirk,named in claim text
+TRANSIT_FIXALL,26,C-1609,Related Nodes,N-1000,Turning Point USA,Erica Kirk (ep26 legend),MOVE_TO_MENTIONS,N-2,Erika Kirk,named in claim text
+TRANSIT_FIXALL,26,C-1610,Related Nodes,N-1000,Turning Point USA,Erica Kirk (ep26 legend),MOVE_TO_MENTIONS,N-2,Erika Kirk,named in transcript at 37:39
+TRANSIT_FIXALL,26,C-1615,Related Nodes,N-1000,Turning Point USA,Erica Kirk (ep26 legend),MOVE_TO_MENTIONS,N-2,Erika Kirk,named in claim text
 TRANSIT_FIXALL,33,C-1724,Mentions,N-349,Allie Beth Stuckey,Tucker Carlson (ep33 legend),REPLACE,N-50,Tucker Carlson,named in claim text
-TRANSIT_FIXALL,85,C-2595,Related Nodes,N-10211,UVU Campus Familiarity Question,Cox (ep85 legend),MOVE_TO_MENTIONS,N-70,Spencer Cox,named in claim text
-TRANSIT_FIXALL,85,C-2596,Related Nodes,N-10211,UVU Campus Familiarity Question,Cox (ep85 legend),MOVE_TO_MENTIONS,N-70,Spencer Cox,named in claim text
-TRANSIT_FIXALL,85,C-2597,Related Nodes,N-10211,UVU Campus Familiarity Question,Cox (ep85 legend),MOVE_TO_MENTIONS,N-70,Spencer Cox,named in claim text
-TRANSIT_FIXALL,99,C-2858,Related Nodes,N-10219,"""Robbie Hild"" Identity Verification",Baron Coleman,MOVE_TO_MENTIONS,N-552,Baron Coleman,named in claim text
-TRANSIT_FIXALL,99,C-2868,Related Nodes,N-10212,Phil Lyman Location Discrepancy,Donald Trump Jr.,MOVE_TO_MENTIONS,N-62,Donald Trump Jr. (Don Jr.),named in claim text
-TRANSIT_FIXALL,99,C-2868,Related Nodes,N-10220,Case-Personnel Cluster Anomalies,Lara Trump,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
-TRANSIT_FIXALL,99,C-2869,Related Nodes,N-10212,Phil Lyman Location Discrepancy,Donald Trump Jr.,MOVE_TO_MENTIONS,N-62,Donald Trump Jr. (Don Jr.),named in claim text
-TRANSIT_FIXALL,99,C-2870,Related Nodes,N-10211,UVU Campus Familiarity Question,Pam Bondi,MOVE_TO_MENTIONS,N-120,Pam Bondi,named in claim text
-TRANSIT_FIXALL,99,C-2870,Related Nodes,N-10214,Charlie Kirk Pre-Mortem Israel Position Claim,Ian Carroll,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
-TRANSIT_FIXALL,99,C-2871,Related Nodes,N-10211,UVU Campus Familiarity Question,Pam Bondi,MOVE_TO_MENTIONS,N-120,Pam Bondi,named in transcript at 32:23
-TRANSIT_FIXALL,99,C-2872,Related Nodes,N-10210,Phil Lyman Proximity and Behavior Investigation,Harmeet Dhillon,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
-TRANSIT_FIXALL,99,C-2873,Related Nodes,N-10210,Phil Lyman Proximity and Behavior Investigation,Harmeet Dhillon,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
-TRANSIT_FIXALL,99,C-2877,Related Nodes,N-10215,Hospital Routing Discrepancy,Blake Lively,MOVE_TO_MENTIONS,N-774,Blake Lively,named in claim text
-TRANSIT_FIXALL,99,C-2877,Related Nodes,N-10216,Utah FBI Personnel Replacement,Justin Baldoni,MOVE_TO_MENTIONS,N-775,Justin Baldoni,named in claim text
-TRANSIT_FIXALL,99,C-2878,Related Nodes,N-10215,Hospital Routing Discrepancy,Blake Lively,MOVE_TO_MENTIONS,N-774,Blake Lively,named in claim text
-TRANSIT_FIXALL,99,C-2879,Related Nodes,N-10215,Hospital Routing Discrepancy,Blake Lively,MOVE_TO_MENTIONS,N-774,Blake Lively,named in claim text
-TRANSIT_FIXALL,99,C-2880,Related Nodes,N-10215,Hospital Routing Discrepancy,Blake Lively,MOVE_TO_MENTIONS,N-774,Blake Lively,named in claim text
-TRANSIT_FIXALL,99,C-2880,Related Nodes,N-10216,Utah FBI Personnel Replacement,Justin Baldoni,MOVE_TO_MENTIONS,N-775,Justin Baldoni,named in claim text
-TRANSIT_FIXALL,99,C-2880,Related Nodes,N-10217,Mike Mitchell Undercover Role Verification,Ryan Reynolds,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
-TRANSIT_FIXALL,99,C-2880,Related Nodes,N-10218,"Unidentified Female / ""Accomplice"" in Shooter Footage",Hugh Jackman,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
-TRANSIT_FIXALL,99,C-2881,Related Nodes,N-10216,Utah FBI Personnel Replacement,Justin Baldoni,MOVE_TO_MENTIONS,N-775,Justin Baldoni,named in claim text
-TRANSIT_FIXALL,99,C-2881,Related Nodes,N-10217,Mike Mitchell Undercover Role Verification,Ryan Reynolds,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
-TRANSIT_FIXALL,99,C-2881,Related Nodes,N-10218,"Unidentified Female / ""Accomplice"" in Shooter Footage",Hugh Jackman,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
-TRANSIT_FIXALL,99,C-2882,Related Nodes,N-10215,Hospital Routing Discrepancy,Blake Lively,MOVE_TO_MENTIONS,N-774,Blake Lively,named in transcript at 48:28
-TRANSIT_FIXALL,99,C-2882,Related Nodes,N-10216,Utah FBI Personnel Replacement,Justin Baldoni,MOVE_TO_MENTIONS,N-775,Justin Baldoni,named in claim text
-TRANSIT_FIXALL,99,C-2882,Related Nodes,N-10217,Mike Mitchell Undercover Role Verification,Ryan Reynolds,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
-TRANSIT_FIXALL,99,C-2882,Related Nodes,N-10218,"Unidentified Female / ""Accomplice"" in Shooter Footage",Hugh Jackman,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
-TRANSIT_FIXALL,133,C-3154,Related Nodes,N-10210,Phil Lyman Proximity and Behavior Investigation,John C. Phelan (ep133 legend),REMOVE,,,local placeholder for a person per episode legend; no CKA person node
-TRANSIT_FIXALL,133,C-3155,Related Nodes,N-10210,Phil Lyman Proximity and Behavior Investigation,John C. Phelan (ep133 legend),REMOVE,,,local placeholder for a person per episode legend; no CKA person node
-TRANSIT_FIXALL,133,C-3156,Related Nodes,N-10210,Phil Lyman Proximity and Behavior Investigation,John C. Phelan (ep133 legend),REMOVE,,,local placeholder for a person per episode legend; no CKA person node
-TRANSIT_FIXALL,133,C-3156,Related Nodes,N-10211,UVU Campus Familiarity Question,Jean-Luc Brunel (ep133 legend),MOVE_TO_MENTIONS,N-853,Jean-Luc Brunel,named in claim text
-TRANSIT_FIXALL,134,C-3168,Related Nodes,N-10210,Phil Lyman Proximity and Behavior Investigation,Lisa Knows (ep134 legend),REMOVE,,,local placeholder for a person per episode legend; no CKA person node
-TRANSIT_FIXALL,144,C-3315,Related Nodes,N-10215,Hospital Routing Discrepancy,David Hull,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
-TRANSIT_FIXALL,144,C-3316,Related Nodes,N-10215,Hospital Routing Discrepancy,David Hull,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
-TRANSIT_FIXALL,144,C-3321,Related Nodes,N-10211,UVU Campus Familiarity Question,Blake Neff,MOVE_TO_MENTIONS,N-224,Blake Neff,named in claim text
-TRANSIT_FIXALL,144,C-3322,Related Nodes,N-10211,UVU Campus Familiarity Question,Blake Neff,MOVE_TO_MENTIONS,N-224,Blake Neff,named in claim text
-TRANSIT_FIXALL,144,C-3323,Related Nodes,N-10211,UVU Campus Familiarity Question,Blake Neff,REMOVE,,,Blake Neff (N-224) not named in claim or within +-4 min
-TRANSIT_FIXALL,144,C-3323,Related Nodes,N-10216,Utah FBI Personnel Replacement,Charlie Kirk,MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
-TRANSIT_FIXALL,144,C-3325,Related Nodes,N-10217,Mike Mitchell Undercover Role Verification,Erica Kirk,MOVE_TO_MENTIONS,N-2,Erika Kirk,named in claim text
+TRANSIT_FIXALL,85,C-2595,Related Nodes,N-1211,UVU Campus Familiarity Question,Cox (ep85 legend),MOVE_TO_MENTIONS,N-70,Spencer Cox,named in claim text
+TRANSIT_FIXALL,85,C-2596,Related Nodes,N-1211,UVU Campus Familiarity Question,Cox (ep85 legend),MOVE_TO_MENTIONS,N-70,Spencer Cox,named in claim text
+TRANSIT_FIXALL,85,C-2597,Related Nodes,N-1211,UVU Campus Familiarity Question,Cox (ep85 legend),MOVE_TO_MENTIONS,N-70,Spencer Cox,named in claim text
+TRANSIT_FIXALL,99,C-2858,Related Nodes,N-1219,"""Robbie Hild"" Identity Verification",Baron Coleman,MOVE_TO_MENTIONS,N-552,Baron Coleman,named in claim text
+TRANSIT_FIXALL,99,C-2868,Related Nodes,N-1212,Phil Lyman Location Discrepancy,Donald Trump Jr.,MOVE_TO_MENTIONS,N-62,Donald Trump Jr. (Don Jr.),named in claim text
+TRANSIT_FIXALL,99,C-2868,Related Nodes,N-1220,Case-Personnel Cluster Anomalies,Lara Trump,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,99,C-2869,Related Nodes,N-1212,Phil Lyman Location Discrepancy,Donald Trump Jr.,MOVE_TO_MENTIONS,N-62,Donald Trump Jr. (Don Jr.),named in claim text
+TRANSIT_FIXALL,99,C-2870,Related Nodes,N-1211,UVU Campus Familiarity Question,Pam Bondi,MOVE_TO_MENTIONS,N-120,Pam Bondi,named in claim text
+TRANSIT_FIXALL,99,C-2870,Related Nodes,N-1214,Charlie Kirk Pre-Mortem Israel Position Claim,Ian Carroll,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,99,C-2871,Related Nodes,N-1211,UVU Campus Familiarity Question,Pam Bondi,MOVE_TO_MENTIONS,N-120,Pam Bondi,named in transcript at 32:23
+TRANSIT_FIXALL,99,C-2872,Related Nodes,N-1210,Phil Lyman Proximity and Behavior Investigation,Harmeet Dhillon,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,99,C-2873,Related Nodes,N-1210,Phil Lyman Proximity and Behavior Investigation,Harmeet Dhillon,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,99,C-2877,Related Nodes,N-1215,Hospital Routing Discrepancy,Blake Lively,MOVE_TO_MENTIONS,N-774,Blake Lively,named in claim text
+TRANSIT_FIXALL,99,C-2877,Related Nodes,N-1216,Utah FBI Personnel Replacement,Justin Baldoni,MOVE_TO_MENTIONS,N-775,Justin Baldoni,named in claim text
+TRANSIT_FIXALL,99,C-2878,Related Nodes,N-1215,Hospital Routing Discrepancy,Blake Lively,MOVE_TO_MENTIONS,N-774,Blake Lively,named in claim text
+TRANSIT_FIXALL,99,C-2879,Related Nodes,N-1215,Hospital Routing Discrepancy,Blake Lively,MOVE_TO_MENTIONS,N-774,Blake Lively,named in claim text
+TRANSIT_FIXALL,99,C-2880,Related Nodes,N-1215,Hospital Routing Discrepancy,Blake Lively,MOVE_TO_MENTIONS,N-774,Blake Lively,named in claim text
+TRANSIT_FIXALL,99,C-2880,Related Nodes,N-1216,Utah FBI Personnel Replacement,Justin Baldoni,MOVE_TO_MENTIONS,N-775,Justin Baldoni,named in claim text
+TRANSIT_FIXALL,99,C-2880,Related Nodes,N-1217,Mike Mitchell Undercover Role Verification,Ryan Reynolds,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,99,C-2880,Related Nodes,N-1218,"Unidentified Female / ""Accomplice"" in Shooter Footage",Hugh Jackman,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,99,C-2881,Related Nodes,N-1216,Utah FBI Personnel Replacement,Justin Baldoni,MOVE_TO_MENTIONS,N-775,Justin Baldoni,named in claim text
+TRANSIT_FIXALL,99,C-2881,Related Nodes,N-1217,Mike Mitchell Undercover Role Verification,Ryan Reynolds,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,99,C-2881,Related Nodes,N-1218,"Unidentified Female / ""Accomplice"" in Shooter Footage",Hugh Jackman,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,99,C-2882,Related Nodes,N-1215,Hospital Routing Discrepancy,Blake Lively,MOVE_TO_MENTIONS,N-774,Blake Lively,named in transcript at 48:28
+TRANSIT_FIXALL,99,C-2882,Related Nodes,N-1216,Utah FBI Personnel Replacement,Justin Baldoni,MOVE_TO_MENTIONS,N-775,Justin Baldoni,named in claim text
+TRANSIT_FIXALL,99,C-2882,Related Nodes,N-1217,Mike Mitchell Undercover Role Verification,Ryan Reynolds,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,99,C-2882,Related Nodes,N-1218,"Unidentified Female / ""Accomplice"" in Shooter Footage",Hugh Jackman,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,133,C-3154,Related Nodes,N-1210,Phil Lyman Proximity and Behavior Investigation,John C. Phelan (ep133 legend),REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,133,C-3155,Related Nodes,N-1210,Phil Lyman Proximity and Behavior Investigation,John C. Phelan (ep133 legend),REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,133,C-3156,Related Nodes,N-1210,Phil Lyman Proximity and Behavior Investigation,John C. Phelan (ep133 legend),REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,133,C-3156,Related Nodes,N-1211,UVU Campus Familiarity Question,Jean-Luc Brunel (ep133 legend),MOVE_TO_MENTIONS,N-853,Jean-Luc Brunel,named in claim text
+TRANSIT_FIXALL,134,C-3168,Related Nodes,N-1210,Phil Lyman Proximity and Behavior Investigation,Lisa Knows (ep134 legend),REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,144,C-3315,Related Nodes,N-1215,Hospital Routing Discrepancy,David Hull,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,144,C-3316,Related Nodes,N-1215,Hospital Routing Discrepancy,David Hull,REMOVE,,,local placeholder for a person per episode legend; no CKA person node
+TRANSIT_FIXALL,144,C-3321,Related Nodes,N-1211,UVU Campus Familiarity Question,Blake Neff,MOVE_TO_MENTIONS,N-224,Blake Neff,named in claim text
+TRANSIT_FIXALL,144,C-3322,Related Nodes,N-1211,UVU Campus Familiarity Question,Blake Neff,MOVE_TO_MENTIONS,N-224,Blake Neff,named in claim text
+TRANSIT_FIXALL,144,C-3323,Related Nodes,N-1211,UVU Campus Familiarity Question,Blake Neff,REMOVE,,,Blake Neff (N-224) not named in claim or within +-4 min
+TRANSIT_FIXALL,144,C-3323,Related Nodes,N-1216,Utah FBI Personnel Replacement,Charlie Kirk,MOVE_TO_MENTIONS,N-1,Charlie Kirk,named in claim text
+TRANSIT_FIXALL,144,C-3325,Related Nodes,N-1217,Mike Mitchell Undercover Role Verification,Erica Kirk,MOVE_TO_MENTIONS,N-2,Erika Kirk,named in claim text
 TRANSIT_FIXALL,32,C-1706,Mentions,,,Kim Kardashian,ADD,N-587,,named in claim text; new person N-587 minted at a clean hole
 TRANSIT_FIXALL,125,C-3020,Mentions,,,Danny Philip,ADD,N-611,,named in claim text; new person N-611 minted at a clean hole
 TRANSIT_FIXALL,125,C-3021,Mentions,,,Danny Philip,ADD,N-611,,named in claim text; new person N-611 minted at a clean hole

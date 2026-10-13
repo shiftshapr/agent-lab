@@ -34,7 +34,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-11142"
+            "N-10743"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -98,7 +98,7 @@
             "C-3104"
           ],
           "related_nodes": [
-            "N-11139"
+            "N-10740"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -117,7 +117,7 @@
             "C-3090"
           ],
           "related_nodes": [
-            "N-11139"
+            "N-10740"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -135,7 +135,7 @@
             "C-3091"
           ],
           "related_nodes": [
-            "N-11139"
+            "N-10740"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -207,7 +207,7 @@
             "C-3096"
           ],
           "related_nodes": [
-            "N-11141"
+            "N-10742"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -259,7 +259,7 @@
             "C-3099"
           ],
           "related_nodes": [
-            "N-11140"
+            "N-10741"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -277,7 +277,7 @@
             "C-3100"
           ],
           "related_nodes": [
-            "N-11140"
+            "N-10741"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -295,7 +295,7 @@
             "C-3101"
           ],
           "related_nodes": [
-            "N-11140"
+            "N-10741"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -313,7 +313,7 @@
             "C-3102"
           ],
           "related_nodes": [
-            "N-11140"
+            "N-10741"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -332,7 +332,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-11140"
+            "N-10741"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -352,7 +352,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-11140"
+            "N-10741"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -378,7 +378,7 @@
             "C-3105"
           ],
           "related_nodes": [
-            "N-11139"
+            "N-10740"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -396,7 +396,7 @@
             "C-3106"
           ],
           "related_nodes": [
-            "N-11139"
+            "N-10740"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -432,8 +432,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11139",
-      "ref": "N-11139",
+      "@id": "N-10740",
+      "ref": "N-10740",
       "name": "SUV Interior Anomaly",
       "type": "investigation_target",
       "description": "Persistent investigation target covering (a) unidentified glove-like object in left rear door pocket (Rick Cutler's side), and (b) purported burned-shirt object in backseat. Cross-references photos A-2165.1, A-2165.3 and viewer hypotheses A-2170.1, A-2170.2.",
@@ -460,8 +460,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11140",
-      "ref": "N-11140",
+      "@id": "N-10741",
+      "ref": "N-10741",
       "name": "Sandy Hook Comparison Rhetoric",
       "type": "investigation_target",
       "description": "Persistent investigation target: cross-platform pattern of commentators equating questions about Kirk's death to Alex Jones/Sandy Hook defamation precedent. Documented across Seth Dillon (A-2169.1), Tim Pool (A-2169.2), Blake Neff (A-2169.3), and Viva Frei on the Charlie Kirk Show (A-2169.4); Kirk's own pre-death statements opposing the precedent (A-2169.5, A-2169.6).",
@@ -490,8 +490,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11141",
-      "ref": "N-11141",
+      "@id": "N-10742",
+      "ref": "N-10742",
       "name": "Mikey McCoy Call Timeline Discrepancy",
       "type": "investigation_target",
       "description": "Persistent investigation target: reconciliation required between Blake Neff's contemporaneous account (A-2168.1) and the phone log sequence (A-2167.1), particularly the 10-minute Danny Philip call and the discrepancy between calling Erika first vs. Elizabeth first.",
@@ -514,8 +514,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11142",
-      "ref": "N-11142",
+      "@id": "N-10743",
+      "ref": "N-10743",
       "name": "Daily Mail Article Source Identity",
       "type": "investigation_target",
       "description": "Persistent investigation target: the unnamed \"family friend\" (and later \"family member\") source for Erika Kirk quotations in A-2164.1–A-2164.3. Host speculates Tracy Martin but does not confirm; Turning Point USA declined comment.",
@@ -538,8 +538,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-611",
-      "ref": "N-611",
+      "@id": "N-375",
+      "ref": "N-375",
       "name": "Danny Philip",
       "type": "person",
       "description": "Newly hired Turning Point USA employee at the UVU event; phone records show a 10-minute call with Mikey McCoy after the shooting, and he arrived at Timpanogos in the same SUV as Blake Neff.",
@@ -595,8 +595,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-45",
-      "ref": "N-45",
+      "@id": "N-17",
+      "ref": "N-17",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Pastor associated with Dream City Church and Turning Point USA's faith-direction pivot during COVID; named by host in the TPUSA-faith origin recap.",
@@ -611,8 +611,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-67",
-      "ref": "N-67",
+      "@id": "N-38",
+      "ref": "N-38",
       "name": "Seth Dillon",
       "type": "person",
       "description": "Subject of Hampton retreat confrontation with Charlie Kirk over hypothetical anti-Netanyahu tweet.",
@@ -627,8 +627,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
@@ -643,8 +643,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-128",
-      "ref": "N-128",
+      "@id": "N-93",
+      "ref": "N-93",
       "name": "Alex Jones",
       "type": "person",
       "description": "Source of declaration-of-war clip against Candace over Mitch Snow coverage.",
@@ -659,8 +659,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
@@ -675,8 +675,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -691,8 +691,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-326",
-      "ref": "N-326",
+      "@id": "N-221",
+      "ref": "N-221",
       "name": "Eliza McCoy",
       "type": "person",
       "description": "Joined Maine vacation; final-footage context.",
@@ -707,8 +707,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-426",
-      "ref": "N-426",
+      "@id": "N-273",
+      "ref": "N-273",
       "name": "Tim Pool",
       "type": "person",
       "description": "Made two contradictory statements about Candace's security within one week.",
@@ -723,8 +723,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-552",
-      "ref": "N-552",
+      "@id": "N-337",
+      "ref": "N-337",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
@@ -758,8 +758,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-558",
-      "ref": "N-558",
+      "@id": "N-340",
+      "ref": "N-340",
       "name": "Viva Frey",
       "type": "person",
       "description": "Viva Frey (wave3 orphan mint).",
@@ -775,8 +775,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-777",
-      "ref": "N-777",
+      "@id": "N-498",
+      "ref": "N-498",
       "name": "Rick Cutler",
       "type": "person",
       "description": "Named by the host at 00:12:02 in episode 123; first introduced in episode 121.",
@@ -791,8 +791,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-808",
-      "ref": "N-808",
+      "@id": "N-516",
+      "ref": "N-516",
       "name": "Nate Walker",
       "type": "person",
       "description": "First named by the host at 00:03:16 in episode 126.",
@@ -817,7 +817,7 @@
         "A-2164.1"
       ],
       "related_nodes": [
-        "N-11142"
+        "N-10743"
       ],
       "tags": [],
       "claim_timestamp": "00:26:13",
@@ -837,7 +837,7 @@
         "A-2164.1"
       ],
       "related_nodes": [
-        "N-11142"
+        "N-10743"
       ],
       "tags": [],
       "claim_timestamp": "00:27:48",
@@ -859,7 +859,7 @@
       "investigative_direction": "Cross-reference against courtroom reporting and any Erika Kirk public statement; assess whether the framing is consistent with prior statements (e.g., to Bari Weiss).",
       "mentions_person_refs": [
         "N-2",
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -877,7 +877,7 @@
       "investigative_direction": "Verify quoted statements with original article; identify \"family friend\" vs. \"family member\" sourcing distinction.",
       "mentions_person_refs": [
         "N-2",
-        "N-69",
+        "N-40",
         "N-3"
       ]
     },
@@ -895,7 +895,7 @@
       "claim_timestamp": "00:03:30",
       "investigative_direction": "Forensic analysis of the original photograph; chain-of-custody for the SUV door photograph; determine whether the glove could be associated with medical, forensic, or other activity at the scene.",
       "mentions_person_refs": [
-        "N-552"
+        "N-337"
       ]
     },
     {
@@ -923,13 +923,13 @@
         "A-2165.1"
       ],
       "related_nodes": [
-        "N-11139"
+        "N-10740"
       ],
       "tags": [],
       "claim_timestamp": "00:06:20",
       "investigative_direction": "Verify Rick Cutler's seating position against prior sworn statements and SUV interior diagram evidence.",
       "mentions_person_refs": [
-        "N-777"
+        "N-498"
       ]
     },
     {
@@ -946,7 +946,7 @@
       "claim_timestamp": "00:03:30",
       "investigative_direction": "Methodology is informal and unsystematic; results should not be treated as expert identification.",
       "mentions_person_refs": [
-        "N-552"
+        "N-337"
       ]
     },
     {
@@ -974,16 +974,16 @@
         "A-2167.1"
       ],
       "related_nodes": [
-        "N-11141"
+        "N-10742"
       ],
       "tags": [],
       "claim_timestamp": "00:13:40",
       "investigative_direction": "Obtain authenticated call records (subpoena or court-ordered discovery); determine call content and whether the 10-minute call began while Blake Neff and Danny Philip were physically together in the SUV.",
       "mentions_person_refs": [
-        "N-611",
-        "N-326",
-        "N-272",
-        "N-45"
+        "N-375",
+        "N-221",
+        "N-194",
+        "N-17"
       ]
     },
     {
@@ -996,7 +996,7 @@
         "A-2168.1"
       ],
       "related_nodes": [
-        "N-11141"
+        "N-10742"
       ],
       "tags": [],
       "claim_timestamp": "00:13:40",
@@ -1006,8 +1006,8 @@
         "C-3092"
       ],
       "mentions_person_refs": [
-        "N-272",
-        "N-224"
+        "N-194",
+        "N-162"
       ]
     },
     {
@@ -1025,11 +1025,11 @@
       "claim_timestamp": "00:18:17",
       "investigative_direction": "Obtain unedited newsroom feed; cross-reference internal TPUSA communications and hospital entry logs.",
       "mentions_person_refs": [
-        "N-611",
+        "N-375",
         "N-5",
-        "N-272",
-        "N-224",
-        "N-808"
+        "N-194",
+        "N-162",
+        "N-516"
       ]
     },
     {
@@ -1046,9 +1046,9 @@
       "claim_timestamp": "00:10:36",
       "investigative_direction": "Verify rental records for both SUVs (previously described as rented by Mikey McCoy); confirm passenger assignments.",
       "mentions_person_refs": [
-        "N-611",
+        "N-375",
         "N-1",
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -1062,14 +1062,14 @@
         "A-2166.1"
       ],
       "related_nodes": [
-        "N-11141"
+        "N-10742"
       ],
       "tags": [],
       "claim_timestamp": "00:11:37",
       "investigative_direction": "Subpoena call detail records; obtain Danny Philip's testimony or statement about the call content.",
       "mentions_person_refs": [
-        "N-611",
-        "N-272"
+        "N-375",
+        "N-194"
       ]
     },
     {
@@ -1082,15 +1082,15 @@
         "A-2168.1"
       ],
       "related_nodes": [
-        "N-11141"
+        "N-10742"
       ],
       "tags": [],
       "claim_timestamp": "00:14:48",
       "investigative_direction": "Confirm against authenticated phone records.",
       "mentions_person_refs": [
-        "N-272",
-        "N-224",
-        "N-45"
+        "N-194",
+        "N-162",
+        "N-17"
       ]
     },
     {
@@ -1103,14 +1103,14 @@
         "A-2169.1"
       ],
       "related_nodes": [
-        "N-11140"
+        "N-10741"
       ],
       "tags": [],
       "claim_timestamp": "00:42:49",
       "investigative_direction": "Verify the precise quoted text against Seth Dillon's X account; assess legal accuracy.",
       "mentions_person_refs": [
-        "N-67",
-        "N-128"
+        "N-38",
+        "N-93"
       ]
     },
     {
@@ -1123,13 +1123,13 @@
         "A-2169.1"
       ],
       "related_nodes": [
-        "N-11140"
+        "N-10741"
       ],
       "tags": [],
       "claim_timestamp": "00:42:49",
       "investigative_direction": "Cross-reference against the actual Alex Jones appellate record (e.g., the Texas finding of default).",
       "mentions_person_refs": [
-        "N-67"
+        "N-38"
       ]
     },
     {
@@ -1142,15 +1142,15 @@
         "A-2169.2"
       ],
       "related_nodes": [
-        "N-11140"
+        "N-10741"
       ],
       "tags": [],
       "claim_timestamp": "00:43:43",
       "investigative_direction": "Verify quoted text against Tim Pool's X account; assess whether framing is consistent with prior Tim Pool statements.",
       "mentions_person_refs": [
         "N-1",
-        "N-128",
-        "N-426"
+        "N-93",
+        "N-273"
       ]
     },
     {
@@ -1163,15 +1163,15 @@
         "A-2169.3"
       ],
       "related_nodes": [
-        "N-11140"
+        "N-10741"
       ],
       "tags": [],
       "claim_timestamp": "00:45:35",
       "investigative_direction": "Obtain full unedited Twitter Space audio; document exact quoted text.",
       "mentions_person_refs": [
         "N-3",
-        "N-128",
-        "N-224"
+        "N-93",
+        "N-162"
       ]
     },
     {
@@ -1184,13 +1184,13 @@
         "A-2169.4"
       ],
       "related_nodes": [
-        "N-11140"
+        "N-10741"
       ],
       "tags": [],
       "claim_timestamp": "00:48:02",
       "investigative_direction": "Confirm segment on Charlie Kirk Show's platform archive; document exact comparison attempt.",
       "mentions_person_refs": [
-        "N-558"
+        "N-340"
       ]
     },
     {
@@ -1204,14 +1204,14 @@
         "A-2169.6"
       ],
       "related_nodes": [
-        "N-11140"
+        "N-10741"
       ],
       "tags": [],
       "claim_timestamp": "00:50:38",
       "investigative_direction": "Verify the quoted segment against Charlie Kirk Show archives; verify the X post against Kirk's account.",
       "mentions_person_refs": [
         "N-1",
-        "N-128"
+        "N-93"
       ]
     },
     {
@@ -1224,14 +1224,14 @@
         "A-2169.6"
       ],
       "related_nodes": [
-        "N-11140"
+        "N-10741"
       ],
       "tags": [],
       "claim_timestamp": "00:54:20",
       "investigative_direction": "Confirm the post against Charlie Kirk's X archive; date the post.",
       "mentions_person_refs": [
         "N-1",
-        "N-128"
+        "N-93"
       ]
     },
     {

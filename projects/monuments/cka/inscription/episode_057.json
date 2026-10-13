@@ -32,8 +32,8 @@
             "C-2099"
           ],
           "related_nodes": [
-            "N-10484",
-            "N-720"
+            "N-10413",
+            "N-465"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -52,8 +52,8 @@
             "C-2098"
           ],
           "related_nodes": [
-            "N-10484",
-            "N-720"
+            "N-10413",
+            "N-465"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -72,7 +72,7 @@
             "C-2099"
           ],
           "related_nodes": [
-            "N-10484"
+            "N-10413"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -99,7 +99,7 @@
             "C-2101"
           ],
           "related_nodes": [
-            "N-10485"
+            "N-10414"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -126,7 +126,7 @@
             "C-2101"
           ],
           "related_nodes": [
-            "N-10485"
+            "N-10414"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -152,7 +152,7 @@
             "C-2102"
           ],
           "related_nodes": [
-            "N-10487",
+            "N-10416",
             "N-3"
           ],
           "tags": [],
@@ -179,7 +179,7 @@
             "C-2103"
           ],
           "related_nodes": [
-            "N-721"
+            "N-466"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -221,7 +221,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-1",
-            "N-10486"
+            "N-10415"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -247,7 +247,7 @@
             "C-2106"
           ],
           "related_nodes": [
-            "N-726"
+            "N-468"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -265,7 +265,7 @@
             "C-2107"
           ],
           "related_nodes": [
-            "N-727"
+            "N-469"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -294,8 +294,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-720",
-      "ref": "N-720",
+      "@id": "N-465",
+      "ref": "N-465",
       "name": "Bill Wood",
       "type": "person",
       "description": "Former Navy Seal with high-level clearance; Project Camelot interviewee whose testimony about Project Looking Glass is the central source in the Be Inspired clip.",
@@ -311,13 +311,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10484"
+        "N-10413"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-721",
-      "ref": "N-721",
+      "@id": "N-466",
+      "ref": "N-466",
       "name": "Mike Pompeo",
       "type": "person",
       "description": "Former US Secretary of State / CIA director; presents in A-1632.1 advocating framing of Gaza history in textbooks to favor Israeli narrative.",
@@ -335,8 +335,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-724",
-      "ref": "N-724",
+      "@id": "N-467",
+      "ref": "N-467",
       "name": "Bill Montgomery",
       "type": "person",
       "description": "Referenced by host as deceased military figure; alleged to have co-founded Turning Point USA with Charlie Kirk and to have orchestrated Charlie's early \"Schaefer security.\"",
@@ -350,8 +350,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-726",
-      "ref": "N-726",
+      "@id": "N-468",
+      "ref": "N-468",
       "name": "Carly",
       "type": "person",
       "description": "Commenter (previous episode); daughter of an MP who allegedly investigated pentagrams on a US military base in 1982.",
@@ -369,8 +369,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-727",
-      "ref": "N-727",
+      "@id": "N-469",
+      "ref": "N-469",
       "name": "Marzy",
       "type": "person",
       "description": "Commenter (today's episode); raises ICE/IDF training claim that the host then discusses.",
@@ -388,8 +388,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10484",
-      "ref": "N-10484",
+      "@id": "N-10413",
+      "ref": "N-10413",
       "name": "Project Looking Glass Allegation",
       "type": "investigation_target",
       "description": "Persistent investigative target: claim that a US military/CIA device capable of viewing future timelines was shut down after 2012 convergence; supported by whistleblower Bill Wood testimony and a referenced CIA document.",
@@ -409,13 +409,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-720"
+        "N-465"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10485",
-      "ref": "N-10485",
+      "@id": "N-10414",
+      "ref": "N-10414",
       "name": "CERN Satantic Ritual Claim",
       "type": "investigation_target",
       "description": "Investigative target: episode's presentation of a \"satanic human sacrifice\" at CERN grounds, CERN's \"prank\" framing, and host's challenge to that framing.",
@@ -435,8 +435,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10486",
-      "ref": "N-10486",
+      "@id": "N-10415",
+      "ref": "N-10415",
       "name": "Charlie Kirk Premonition Pattern",
       "type": "investigation_target",
       "description": "Persistent investigative target across the series: Charlie Kirk's alleged foreknowledge (via text messages to Candace) that he would die young and that his death would relate to Turning Point USA.",
@@ -459,8 +459,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10487",
-      "ref": "N-10487",
+      "@id": "N-10416",
+      "ref": "N-10416",
       "name": "Daily Wire Stalking Pattern",
       "type": "investigation_target",
       "description": "Investigative target: ongoing alleged \"gangstalking\" pattern by Daily Wire against Candace Owens, with the Egyptian Airways parody video (A-1631.1) cited as the latest escalation.",
@@ -513,8 +513,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-98",
-      "ref": "N-98",
+      "@id": "N-67",
+      "ref": "N-67",
       "name": "Mark Herman (director, Candace show)",
       "type": "person",
       "description": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host brings him on to explain CERN; he describes its 1954 founding, the Higgs boson search, the Large Hadron Collider, and the 2012 \"God particle\" observation, prefacing that he is not a particle physicist. No claim anchor; registered for cross-episode continuity.",
@@ -538,13 +538,13 @@
         "A-1628.2"
       ],
       "related_nodes": [
-        "N-10484"
+        "N-10413"
       ],
       "tags": [],
       "claim_timestamp": "00:13:05",
       "investigative_direction": "Locate the original Project Camelot interview with Bill Wood; check declassified military/CIA records and FOIA releases for any program matching the description.",
       "mentions_person_refs": [
-        "N-720"
+        "N-465"
       ]
     },
     {
@@ -557,7 +557,7 @@
         "A-1628.3"
       ],
       "related_nodes": [
-        "N-10484"
+        "N-10413"
       ],
       "tags": [],
       "claim_timestamp": "00:18:12",
@@ -573,7 +573,7 @@
         "A-1628.3"
       ],
       "related_nodes": [
-        "N-10484"
+        "N-10413"
       ],
       "tags": [],
       "claim_timestamp": "00:17:07",
@@ -590,7 +590,7 @@
         "A-1630.1"
       ],
       "related_nodes": [
-        "N-10485"
+        "N-10414"
       ],
       "tags": [],
       "claim_timestamp": "00:36:29",
@@ -606,7 +606,7 @@
         "A-1629.1"
       ],
       "related_nodes": [
-        "N-10485"
+        "N-10414"
       ],
       "tags": [],
       "claim_timestamp": "00:37:29",
@@ -622,7 +622,7 @@
         "A-1631.1"
       ],
       "related_nodes": [
-        "N-10487"
+        "N-10416"
       ],
       "tags": [],
       "claim_timestamp": "00:40:52",
@@ -645,7 +645,7 @@
       "claim_timestamp": "00:43:34",
       "investigative_direction": "Identify the original Pompeo interview (publication, host, date) and watch in full context; verify whether the quoted framing matches the full statement; check whether accompanying applause is from a single event or edited.",
       "mentions_person_refs": [
-        "N-721"
+        "N-466"
       ]
     },
     {
@@ -658,7 +658,7 @@
         "A-1633.1"
       ],
       "related_nodes": [
-        "N-10486"
+        "N-10415"
       ],
       "tags": [],
       "claim_timestamp": "00:02:53",
@@ -678,7 +678,7 @@
         "A-1633.1"
       ],
       "related_nodes": [
-        "N-10486"
+        "N-10415"
       ],
       "tags": [],
       "claim_timestamp": "00:20:33",
@@ -701,7 +701,7 @@
       "claim_timestamp": "00:47:28",
       "investigative_direction": "Identify the military base, the \"Lieutenant Aquino\" referenced, and whether any contemporaneous investigation records (1982-era) can corroborate the pentagram and child-abuse investigation claims.",
       "mentions_person_refs": [
-        "N-726"
+        "N-468"
       ]
     },
     {
@@ -718,7 +718,7 @@
       "claim_timestamp": "00:51:51",
       "investigative_direction": "Verify any documented ICE–Israeli-government training partnerships; check DHS, ICE, and Israeli Ministry of Public Security public records for formal training agreements.",
       "mentions_person_refs": [
-        "N-727"
+        "N-469"
       ]
     }
   ],

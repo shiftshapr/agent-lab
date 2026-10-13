@@ -32,8 +32,8 @@
             "C-3360"
           ],
           "related_nodes": [
-            "N-10207",
-            "N-11225"
+            "N-10141",
+            "N-10826"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -56,7 +56,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-69"
+        "N-40"
       ],
       "tags": [],
       "sub_items": [],
@@ -82,7 +82,7 @@
             "C-3371"
           ],
           "related_nodes": [
-            "N-11221"
+            "N-10822"
           ],
           "tags": []
         },
@@ -96,8 +96,8 @@
             "C-3366"
           ],
           "related_nodes": [
-            "N-69",
-            "N-11219"
+            "N-40",
+            "N-10820"
           ],
           "tags": []
         },
@@ -122,7 +122,7 @@
             "C-3370"
           ],
           "related_nodes": [
-            "N-11220"
+            "N-10821"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -145,9 +145,9 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-69",
-        "N-11219",
-        "N-11221"
+        "N-40",
+        "N-10820",
+        "N-10822"
       ],
       "tags": [],
       "sub_items": [],
@@ -168,7 +168,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-11219"
+        "N-10820"
       ],
       "tags": [],
       "sub_items": [],
@@ -190,7 +190,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-11223"
+        "N-10824"
       ],
       "tags": [],
       "sub_items": [],
@@ -211,7 +211,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-11223"
+        "N-10824"
       ],
       "tags": [],
       "sub_items": [],
@@ -232,7 +232,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-11223"
+        "N-10824"
       ],
       "tags": [],
       "sub_items": [],
@@ -253,7 +253,7 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-11223"
+        "N-10824"
       ],
       "tags": [],
       "sub_items": [],
@@ -277,9 +277,9 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-69",
-        "N-11223",
-        "N-11224"
+        "N-40",
+        "N-10824",
+        "N-10825"
       ],
       "tags": [],
       "sub_items": [],
@@ -303,9 +303,9 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-69",
-        "N-11223",
-        "N-11224"
+        "N-40",
+        "N-10824",
+        "N-10825"
       ],
       "tags": [],
       "sub_items": [],
@@ -328,8 +328,8 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-69",
-        "N-11222"
+        "N-40",
+        "N-10823"
       ],
       "tags": [],
       "sub_items": [],
@@ -350,8 +350,8 @@
       ],
       "related_artifacts": [],
       "related_nodes": [
-        "N-69",
-        "N-11222"
+        "N-40",
+        "N-10823"
       ],
       "tags": [],
       "sub_items": [],
@@ -409,8 +409,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11219",
-      "ref": "N-11219",
+      "@id": "N-10820",
+      "ref": "N-10820",
       "name": "9/10 Vehicle Positioning Discrepancy",
       "type": "investigation_target",
       "description": "Persistent investigation into the configuration of the five relevant vehicles on the UVU lot, the blocking-in pattern, and the personnel assignment to each. Two security vehicles on the left arrived 9:00–9:30 a.m. before Kirk; the two Denalis and the Hyundai Palisade are the remaining units.",
@@ -435,8 +435,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11220",
-      "ref": "N-11220",
+      "@id": "N-10821",
+      "ref": "N-10821",
       "name": "Christopher Pre-Shot Location Anomaly",
       "type": "investigation_target",
       "description": "Why security member Christopher (driver of Kirk's vehicle) and Nate Walker were walking toward the Sorensen building minutes before the shot, given Kirk's reported prior-night communication that he feared for his life.",
@@ -455,8 +455,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11221",
-      "ref": "N-11221",
+      "@id": "N-10822",
+      "ref": "N-10822",
       "name": "Security Vehicle Keys Access Question",
       "type": "investigation_target",
       "description": "Investigation into how Justin Davis obtained access to Christopher's locked vehicle (carrying Kirk's personal belongings) within ~45 seconds, given that Christopher was upstairs at the time of the shot and the vehicle was supposed to be secured.",
@@ -476,8 +476,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11222",
-      "ref": "N-11222",
+      "@id": "N-10823",
+      "ref": "N-10823",
       "name": "Security Vehicle Hospital Transport Absence",
       "type": "investigation_target",
       "description": "Investigation into why none of the three security SUVs (other than the one Justin Davis ultimately drove) were taken to the hospital after the shot, and what security personnel did in the intervening window.",
@@ -498,13 +498,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-69"
+        "N-40"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11223",
-      "ref": "N-11223",
+      "@id": "N-10824",
+      "ref": "N-10824",
       "name": "Political-Motivation X Outrage Cluster (Sept 1, 2026)",
       "type": "investigation_target",
       "description": "Coordinated set of X posts by Matt Walsh, Viva Frei, Graham Allen, Blake Neff, and Brandon Tatum characterizing defense counsel's argument as endorsement of political assassination.",
@@ -531,8 +531,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11224",
-      "ref": "N-11224",
+      "@id": "N-10825",
+      "ref": "N-10825",
       "name": "Political Motivation Inference Chain (Hearsay Standard)",
       "type": "investigation_target",
       "description": "Investigation into whether the state's chain of inferences – Twiggs's non-gender-conforming identity → Robinson's relationship with Twiggs → Kirk's statements about non-heterosexual persons → Robinson's alleged \"some hate just can't be negotiated\" message → political-motivation enhancement – satisfies Utah Rule 1102 / reliable hearsay standard, or whether it is inferring upon an inference.",
@@ -553,13 +553,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-69"
+        "N-40"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11225",
-      "ref": "N-11225",
+      "@id": "N-10826",
+      "ref": "N-10826",
       "name": "Defense Witness Tampering Count 6 Constitutional Question",
       "type": "investigation_target",
       "description": "Investigation into whether Count 6 (witness tampering for the \"ask for a lawyer and stay silent\" text) can constitutionally proceed given Judge Graff's own concession that the advice, standing alone, is lawful and does not establish criminal intent.",
@@ -579,8 +579,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10207",
-        "N-69"
+        "N-10141",
+        "N-40"
       ]
     },
     {
@@ -617,8 +617,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.",
@@ -633,8 +633,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-611",
-      "ref": "N-611",
+      "@id": "N-375",
+      "ref": "N-375",
       "name": "Danny Philip",
       "type": "person",
       "description": "Footage discussed by the host shows Danny Phillip running, meeting and ducking down with Mikey McCoy in front of Kirk's vehicle.",
@@ -653,8 +653,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Comments revisit CPR narratives vs unnamed fire captain.",
@@ -669,8 +669,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-66",
-      "ref": "N-66",
+      "@id": "N-37",
+      "ref": "N-37",
       "name": "Bill Ackman",
       "type": "person",
       "description": "Named as boosting Pounds thread and as on Howard Hughes Inc board today.",
@@ -685,8 +685,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-84",
-      "ref": "N-84",
+      "@id": "N-54",
+      "ref": "N-54",
       "name": "Lance Twiggs",
       "type": "person",
       "description": "Robinson's partner; recipient of FBI-released text chain",
@@ -701,8 +701,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-176",
-      "ref": "N-176",
+      "@id": "N-126",
+      "ref": "N-126",
       "name": "Mike Mitchell",
       "type": "person",
       "description": "Salt Lake County Sheriff's Office detective; per a 1999 article, conducts online undercover work creating personas to identify suspected pedophiles. Flag: this entity is likely to already possess a node ID from prior episodes covering his role in the Charlie Kirk case; verify ledger and merge if confirmed.",
@@ -717,8 +717,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
@@ -733,8 +733,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-228",
-      "ref": "N-228",
+      "@id": "N-166",
+      "ref": "N-166",
       "name": "Matt Walsh",
       "type": "person",
       "description": "Daily Wire personality referenced (hearsay) by the host as the subject of an outreach to host Charlie Kirk's show after his death, conditioned on inviting Ben Shapiro.",
@@ -749,8 +749,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -765,8 +765,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-309",
-      "ref": "N-309",
+      "@id": "N-212",
+      "ref": "N-212",
       "name": "Jack Hibbs",
       "type": "person",
       "description": "Referenced as Facetime counterpart in Turek hospital narrative the host contrasts with missing fire-captain CPR.",
@@ -781,8 +781,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-344",
-      "ref": "N-344",
+      "@id": "N-229",
+      "ref": "N-229",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Podcast host of the Brian Harpole interview that the independent review and this episode treat as contradictory to review-team findings.",
@@ -797,8 +797,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -829,8 +829,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-558",
-      "ref": "N-558",
+      "@id": "N-340",
+      "ref": "N-340",
       "name": "Viva Frey",
       "type": "person",
       "description": "Viva Frey (wave3 orphan mint).",
@@ -846,8 +846,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-787",
-      "ref": "N-787",
+      "@id": "N-503",
+      "ref": "N-503",
       "name": "Justin Davis",
       "type": "person",
       "description": "Named by the host at 00:12:13 in episode 147; first introduced in episode 124.",
@@ -867,8 +867,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-680",
-      "ref": "N-680",
+      "@id": "N-435",
+      "ref": "N-435",
       "name": "Richard Novak",
       "type": "person",
       "description": "First named by the host at 00:10:02 in episode 94. Aliases: Richard Novac.",
@@ -883,8 +883,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-808",
-      "ref": "N-808",
+      "@id": "N-516",
+      "ref": "N-516",
       "name": "Nate Walker",
       "type": "person",
       "description": "First named by the host at 00:03:16 in episode 126.",
@@ -914,7 +914,7 @@
       "claim_timestamp": "00:02:24",
       "investigative_direction": "Obtain a certified copy of the bindover order; verify which specific counts were bound over and which were dismissed.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -928,14 +928,14 @@
         "A-2327.1"
       ],
       "related_nodes": [
-        "N-11225"
+        "N-10826"
       ],
       "tags": [],
       "claim_timestamp": "00:04:11",
       "investigative_direction": "Obtain the written ruling; verify the court's exact reasoning and whether a separate written order accompanies the bench ruling.",
       "mentions_person_refs": [
-        "N-69",
-        "N-84"
+        "N-40",
+        "N-54"
       ]
     },
     {
@@ -948,7 +948,7 @@
         "A-2327.1"
       ],
       "related_nodes": [
-        "N-11225"
+        "N-10826"
       ],
       "tags": [],
       "claim_timestamp": "00:05:54",
@@ -965,14 +965,14 @@
         "A-2327.1"
       ],
       "related_nodes": [
-        "N-11225"
+        "N-10826"
       ],
       "tags": [],
       "claim_timestamp": "00:04:11",
       "investigative_direction": "Obtain the charging document to confirm the textual basis alleged for each count.",
       "mentions_person_refs": [
-        "N-69",
-        "N-84"
+        "N-40",
+        "N-54"
       ]
     },
     {
@@ -985,13 +985,13 @@
         "A-2327.1"
       ],
       "related_nodes": [
-        "N-11225"
+        "N-10826"
       ],
       "tags": [],
       "claim_timestamp": "00:04:11",
       "investigative_direction": "Determine whether the defense preserved this issue for trial and whether a motion to reconsider or to dismiss post-bindover was filed.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1008,7 +1008,7 @@
       "claim_timestamp": "00:08:25",
       "investigative_direction": "Verify against the court's docket entry; track any subsequent plea amendments.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1025,7 +1025,7 @@
       "claim_timestamp": "00:08:25",
       "investigative_direction": "Confirm docket entry; verify whether this waiver affects any future challenge to the sufficiency of the information.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1038,14 +1038,14 @@
         "A-2329.1"
       ],
       "related_nodes": [
-        "N-11221"
+        "N-10822"
       ],
       "tags": [],
       "claim_timestamp": "00:20:06",
       "investigative_direction": "Cross-reference vehicle key logs, security team statements, and any post-event interviews with Davis and Neff to confirm.",
       "mentions_person_refs": [
-        "N-224",
-        "N-787"
+        "N-162",
+        "N-503"
       ]
     },
     {
@@ -1058,15 +1058,15 @@
         "A-2329.2"
       ],
       "related_nodes": [
-        "N-11219"
+        "N-10820"
       ],
       "tags": [],
       "claim_timestamp": "00:21:00",
       "investigative_direction": "Obtain original footage for frame-by-frame analysis; obtain statements from McCoy and Phillip regarding this movement.",
       "mentions_person_refs": [
-        "N-611",
-        "N-272",
-        "N-787"
+        "N-375",
+        "N-194",
+        "N-503"
       ]
     },
     {
@@ -1079,13 +1079,13 @@
         "A-2329.2"
       ],
       "related_nodes": [
-        "N-11219"
+        "N-10820"
       ],
       "tags": [],
       "claim_timestamp": "00:21:22",
       "investigative_direction": "Compare frame-by-frame footage against cell-phone metadata / call detail records; obtain McCoy's own account.",
       "mentions_person_refs": [
-        "N-272"
+        "N-194"
       ]
     },
     {
@@ -1098,13 +1098,13 @@
         "A-2329.3"
       ],
       "related_nodes": [
-        "N-11221"
+        "N-10822"
       ],
       "tags": [],
       "claim_timestamp": "00:22:38",
       "investigative_direction": "Identify the bag's owner; obtain receipt / loss-property reports if any.",
       "mentions_person_refs": [
-        "N-787"
+        "N-503"
       ]
     },
     {
@@ -1121,7 +1121,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-787"
+        "N-503"
       ]
     },
     {
@@ -1134,13 +1134,13 @@
         "A-2329.4"
       ],
       "related_nodes": [
-        "N-11220"
+        "N-10821"
       ],
       "tags": [],
       "claim_timestamp": "00:17:03",
       "investigative_direction": "Obtain original TikTok source footage with timestamp; obtain statements from Christopher and Walker regarding their location and purpose.",
       "mentions_person_refs": [
-        "N-808"
+        "N-516"
       ]
     },
     {
@@ -1153,8 +1153,8 @@
         "A-2329.4"
       ],
       "related_nodes": [
-        "N-11220",
-        "N-11221"
+        "N-10821",
+        "N-10822"
       ],
       "tags": [],
       "claim_timestamp": "00:17:03",
@@ -1171,16 +1171,16 @@
         "A-2330"
       ],
       "related_nodes": [
-        "N-11219",
-        "N-11221",
-        "N-11222"
+        "N-10820",
+        "N-10822",
+        "N-10823"
       ],
       "tags": [],
       "claim_timestamp": "00:26:16",
       "investigative_direction": "Identify the named sources; cross-reference against vehicle GPS / fleet logs and security team statements.",
       "mentions_person_refs": [
-        "N-11221",
-        "N-11222"
+        "N-10822",
+        "N-10823"
       ]
     },
     {
@@ -1191,14 +1191,14 @@
       "claim": "The two security vehicles (black Jeep Wagoneer and Lincoln Navigator) arrived at UVU between 9:00 and 9:30 a.m., before Charlie Kirk's arrival in Salt Lake City for the restaurantology event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11219"
+        "N-10820"
       ],
       "tags": [],
       "claim_timestamp": "00:12:54",
       "investigative_direction": "Obtain toll/transponder logs, security radio logs, or vehicle GPS records to verify arrival times.",
       "mentions_person_refs": [
         "N-1",
-        "N-787"
+        "N-503"
       ]
     },
     {
@@ -1211,7 +1211,7 @@
         "A-2331"
       ],
       "related_nodes": [
-        "N-11219"
+        "N-10820"
       ],
       "tags": [],
       "claim_timestamp": "00:12:13",
@@ -1230,13 +1230,13 @@
         "A-2332"
       ],
       "related_nodes": [
-        "N-11223"
+        "N-10824"
       ],
       "tags": [],
       "claim_timestamp": "00:39:42",
       "investigative_direction": "Confirm the post remains on X; verify timestamp; cross-reference Walsh's full thread for context.",
       "mentions_person_refs": [
-        "N-228"
+        "N-166"
       ]
     },
     {
@@ -1247,7 +1247,7 @@
       "claim": "The host explicitly rejects Walsh's \"justifying political assassination\" framing and characterizes it as a \"disingenuous narrative.\"",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11223"
+        "N-10824"
       ],
       "tags": [],
       "claim_timestamp": "00:39:42",
@@ -1264,13 +1264,13 @@
         "A-2333"
       ],
       "related_nodes": [
-        "N-11223"
+        "N-10824"
       ],
       "tags": [],
       "claim_timestamp": "00:40:25",
       "investigative_direction": "Locate the specific post; verify timestamp.",
       "mentions_person_refs": [
-        "N-558"
+        "N-340"
       ]
     },
     {
@@ -1283,7 +1283,7 @@
         "A-2334"
       ],
       "related_nodes": [
-        "N-11223"
+        "N-10824"
       ],
       "tags": [],
       "claim_timestamp": "00:40:36",
@@ -1302,14 +1302,14 @@
         "A-2335"
       ],
       "related_nodes": [
-        "N-11223"
+        "N-10824"
       ],
       "tags": [],
       "claim_timestamp": "00:40:50",
       "investigative_direction": "Confirm both posts remain on X; compare timestamps.",
       "mentions_person_refs": [
-        "N-224",
-        "N-680"
+        "N-162",
+        "N-435"
       ]
     },
     {
@@ -1323,15 +1323,15 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-11223",
-        "N-11224"
+        "N-10824",
+        "N-10825"
       ],
       "tags": [],
       "claim_timestamp": "00:42:00",
       "investigative_direction": "Read Novac's full argument transcript; compare against Aug 11 filing page 32 and the state's responsive briefing.",
       "mentions_person_refs": [
-        "N-69",
-        "N-680"
+        "N-40",
+        "N-435"
       ]
     },
     {
@@ -1345,13 +1345,13 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-11224"
+        "N-10825"
       ],
       "tags": [],
       "claim_timestamp": "00:45:58",
       "investigative_direction": "Obtain the state's sentencing-enhancement motion and the controlling Utah statute to verify the elements and the state's proffer.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1365,13 +1365,13 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-11224"
+        "N-10825"
       ],
       "tags": [],
       "claim_timestamp": "00:45:58",
       "investigative_direction": "Obtain the state's filing in full; enumerate the specific statements cited; compare against defense's enumeration.",
       "mentions_person_refs": [
-        "N-69",
+        "N-40",
         "N-1"
       ]
     },
@@ -1385,13 +1385,13 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-11224"
+        "N-10825"
       ],
       "tags": [],
       "claim_timestamp": "00:48:38",
       "investigative_direction": "Obtain page 32 directly; compare with the state's response and the preliminary-hearing transcript.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1404,14 +1404,14 @@
         "A-2337"
       ],
       "related_nodes": [
-        "N-11224"
+        "N-10825"
       ],
       "tags": [],
       "claim_timestamp": "00:48:38",
       "investigative_direction": "Obtain the state's proffer; obtain any statements or records from Twiggs or third parties regarding gender identification.",
       "mentions_person_refs": [
-        "N-69",
-        "N-84"
+        "N-40",
+        "N-54"
       ]
     },
     {
@@ -1424,14 +1424,14 @@
         "A-2338"
       ],
       "related_nodes": [
-        "N-11222"
+        "N-10823"
       ],
       "tags": [],
       "claim_timestamp": "00:28:14",
       "investigative_direction": "Obtain the full transcript of Neff's testimony; cross-reference against contemporaneous radio traffic and other security personnel.",
       "mentions_person_refs": [
-        "N-272",
-        "N-224"
+        "N-194",
+        "N-162"
       ]
     },
     {
@@ -1444,7 +1444,7 @@
         "A-2338"
       ],
       "related_nodes": [
-        "N-11222"
+        "N-10823"
       ],
       "tags": [],
       "claim_timestamp": "00:30:40",
@@ -1454,9 +1454,9 @@
         "C-3092"
       ],
       "mentions_person_refs": [
-        "N-272",
+        "N-194",
         "N-2",
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -1469,15 +1469,15 @@
         "A-2339"
       ],
       "related_nodes": [
-        "N-11222"
+        "N-10823"
       ],
       "tags": [],
       "claim_timestamp": "00:54:25",
       "investigative_direction": "Obtain McCoy's complete media appearances; obtain Hibbs's and Turek's on-record statements with timestamps; obtain Erika Kirk's call-detail records (the call McCoy made to her per Neff testimony).",
       "mentions_person_refs": [
-        "N-272",
-        "N-16",
-        "N-309"
+        "N-194",
+        "N-7",
+        "N-212"
       ]
     },
     {
@@ -1493,8 +1493,8 @@
       "investigative_direction": "Locate the Shawn Ryan interview clip; obtain Harpole's full statement; cross-reference against Kirk's prior-night communications.",
       "mentions_person_refs": [
         "N-1",
-        "N-424",
-        "N-344"
+        "N-272",
+        "N-229"
       ]
     },
     {
@@ -1509,8 +1509,8 @@
       "claim_timestamp": "00:08:25",
       "investigative_direction": "Identify the original source(s) of the Mitchell-confession claim; obtain Mike Mitchell's own on-record account.",
       "mentions_person_refs": [
-        "N-69",
-        "N-176"
+        "N-40",
+        "N-126"
       ]
     },
     {
@@ -1525,8 +1525,8 @@
       "claim_timestamp": "00:08:25",
       "investigative_direction": "Locate the original source of the Ackman offer; obtain Ackman's own statement.",
       "mentions_person_refs": [
-        "N-69",
-        "N-66"
+        "N-40",
+        "N-37"
       ]
     },
     {
@@ -1543,8 +1543,8 @@
       "claim_timestamp": "00:29:56",
       "investigative_direction": "Obtain McCoy's own account; obtain contemporaneous video of McCoy in the immediate aftermath.",
       "mentions_person_refs": [
-        "N-272",
-        "N-224"
+        "N-194",
+        "N-162"
       ]
     },
     {
@@ -1562,8 +1562,8 @@
       "investigative_direction": "Obtain McCoy's own account; cross-reference against any witness statements of the immediate post-shot huddle.",
       "mentions_person_refs": [
         "N-2",
-        "N-272",
-        "N-224"
+        "N-194",
+        "N-162"
       ]
     },
     {
@@ -1576,13 +1576,13 @@
         "A-2338"
       ],
       "related_nodes": [
-        "N-11222"
+        "N-10823"
       ],
       "tags": [],
       "claim_timestamp": "00:28:58",
       "investigative_direction": "Cross-reference against his prior and subsequent statements; verify which SUV he is referring to.",
       "mentions_person_refs": [
-        "N-224"
+        "N-162"
       ]
     },
     {

@@ -32,7 +32,7 @@
           "related_nodes": [
             "N-3",
             "N-5",
-            "N-10715"
+            "N-10640"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -59,8 +59,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10712",
-            "N-617"
+            "N-10637",
+            "N-378"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -78,9 +78,9 @@
             "C-2792"
           ],
           "related_nodes": [
-            "N-10712",
-            "N-612",
-            "N-617"
+            "N-10637",
+            "N-376",
+            "N-378"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -99,8 +99,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10713",
-            "N-619"
+            "N-10638",
+            "N-379"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -119,8 +119,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-552",
-            "N-10712"
+            "N-337",
+            "N-10637"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -139,8 +139,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-619",
-            "N-10713"
+            "N-379",
+            "N-10638"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -167,7 +167,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10714"
+            "N-10639"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -186,7 +186,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10714"
+            "N-10639"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -206,8 +206,8 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-122",
-            "N-10714"
+            "N-87",
+            "N-10639"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -227,8 +227,8 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-10714",
-            "N-10717"
+            "N-10639",
+            "N-10642"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -255,7 +255,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-410"
+            "N-267"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -285,8 +285,8 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-42",
-            "N-10716"
+            "N-14",
+            "N-10641"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -313,7 +313,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-91"
+            "N-60"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -332,7 +332,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-91"
+            "N-60"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -351,10 +351,10 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-91",
-            "N-293",
-            "N-622",
-            "N-903"
+            "N-60",
+            "N-205",
+            "N-381",
+            "N-563"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -373,8 +373,8 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-91",
-            "N-903"
+            "N-60",
+            "N-563"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -480,8 +480,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10712",
-      "ref": "N-10712",
+      "@id": "N-10637",
+      "ref": "N-10637",
       "name": "WHCD Incident Reconstruction",
       "type": "investigation_target",
       "description": "Persistent discrepancy between official shooting narrative and surveillance footage indicating possible friendly fire by Secret Service at the 2026 White House Correspondents Dinner incident.",
@@ -504,8 +504,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10713",
-      "ref": "N-10713",
+      "@id": "N-10638",
+      "ref": "N-10638",
       "name": "Sarah Sidner Original Video Source Verification",
       "type": "investigation_target",
       "description": "Unresolved question of whether Sarah Sidner personally recorded the Erika Kirk \"I just want to go home\" clip or obtained it from another source.",
@@ -522,13 +522,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-619"
+        "N-379"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10714",
-      "ref": "N-10714",
+      "@id": "N-10639",
+      "ref": "N-10639",
       "name": "Erika Kirk Pre-Recorded Statement Authorship and Authenticity",
       "type": "investigation_target",
       "description": "Question of who authored Erika Kirk's pre-recorded 9-minute statement (host suggests Blake Neff), whether it was scripted, and how it was produced.",
@@ -556,8 +556,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10715",
-      "ref": "N-10715",
+      "@id": "N-10640",
+      "ref": "N-10640",
       "name": "Trump Truth Social Tweet Authorship/Origin",
       "type": "investigation_target",
       "description": "Question of who authored and pushed send on Trump's April 2026 Truth Social post criticizing Candace Owens (host names Dan Scavino and Natalie Harp as historical senders).",
@@ -578,8 +578,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10716",
-      "ref": "N-10716",
+      "@id": "N-10641",
+      "ref": "N-10641",
       "name": "Andrew Kolvet Text Message Full Context Verification",
       "type": "investigation_target",
       "description": "Unresolved question of the complete text message chain shared between Candace and others regarding the December meeting with Erika Kirk; host has publicly authorized release of the full chain.",
@@ -599,13 +599,13 @@
       "related_nodes": [
         "N-2",
         "N-3",
-        "N-42"
+        "N-14"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10717",
-      "ref": "N-10717",
+      "@id": "N-10642",
+      "ref": "N-10642",
       "name": "Erika Kirk Murder Claim Accuracy",
       "type": "investigation_target",
       "description": "Question of whether Candace Owens ever made an explicit on-podcast claim that Erika Kirk murdered Charlie Kirk, and the framing of the December text joke as evidence.",
@@ -676,8 +676,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Existing; PR figure under multiple artifact-anchored claims in this episode.",
@@ -692,8 +692,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-91",
-      "ref": "N-91",
+      "@id": "N-60",
+      "ref": "N-60",
       "name": "Laura Loomer",
       "type": "person",
       "description": "Existing; called out Blake Neff via audio artifact (A-2401.1).",
@@ -708,8 +708,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-444",
-      "ref": "N-444",
+      "@id": "N-284",
+      "ref": "N-284",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Publication of Erika Kirk op-ed (A-2348); subject of Charlie Kirk commentary clip (A-2345).",
@@ -724,8 +724,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
+      "@id": "N-97",
+      "ref": "N-97",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Named by Neff (A-2347) as having reduced involvement with Owens around 2024; subject of op-ed publisher critique (A-2348).",
@@ -740,8 +740,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-552",
-      "ref": "N-552",
+      "@id": "N-337",
+      "ref": "N-337",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Referenced by host as the party who delivered the September 9 Zoom-call conversation to Tulsi Gabbard's office.",
@@ -756,8 +756,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-410",
-      "ref": "N-410",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Referenced as the office to which the Zoom-call conversation was delivered.",
@@ -772,8 +772,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-122",
-      "ref": "N-122",
+      "@id": "N-87",
+      "ref": "N-87",
       "name": "Jimmy Kimmel",
       "type": "person",
       "description": "Family referenced via Usha Vance in Erika op-ed (A-2348).",
@@ -788,11 +788,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-182",
-      "ref": "N-182",
+      "@id": "N-132",
+      "ref": "N-132",
       "name": "Susie Wiles",
       "type": "person",
-      "description": "Person Susie Wiles (N-182).",
+      "description": "Person Susie Wiles (N-132).",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -803,8 +803,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-612",
-      "ref": "N-612",
+      "@id": "N-376",
+      "ref": "N-376",
       "name": "Evan Hill",
       "type": "person",
       "description": "Washington Post investigative reporter; per the host (28:18), wrote on X that a Secret Service officer fired four times at Cole Allen and that the surveillance footage showed no indication Allen fired his weapon.",
@@ -822,8 +822,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-617",
-      "ref": "N-617",
+      "@id": "N-378",
+      "ref": "N-378",
       "name": "Cole Allen",
       "type": "person",
       "description": "Suspect in the White House Correspondents Dinner incident; per Evan Hill's X post read at 28:18, a Secret Service officer fired four times at him as he charged a security checkpoint.",
@@ -843,8 +843,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-619",
-      "ref": "N-619",
+      "@id": "N-379",
+      "ref": "N-379",
       "name": "Sarah Sidner",
       "type": "person",
       "description": "CNN reporter; per the host (31:35), first shared the clip of Erika Kirk saying \"I just want to go home.\" The host could not confirm she recorded it herself.",
@@ -860,13 +860,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10713"
+        "N-10638"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-622",
-      "ref": "N-622",
+      "@id": "N-381",
+      "ref": "N-381",
       "name": "David Axelrod",
       "type": "person",
       "description": "Former top advisor to Barack Obama; named (01:04:56) in Laura Loomer's tweet alleging a secret anti-Trump summit in Rome with Candace Owens, Nick Fuentes and Aubrey Leitch. The host says she did not see him in Rome (01:07:45).",
@@ -884,8 +884,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-293",
-      "ref": "N-293",
+      "@id": "N-205",
+      "ref": "N-205",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Banned on Instagram/YouTube yet clipped widely; Atlantic also lists him among Elephant Clipping banned subjects.",
@@ -900,8 +900,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-903",
-      "ref": "N-903",
+      "@id": "N-563",
+      "ref": "N-563",
       "name": "Aubrey Lech",
       "type": "person",
       "description": "Former Turning Point USA employee; subject of recorded private investigator visit to her home.",
@@ -926,7 +926,7 @@
         "A-2007.1"
       ],
       "related_nodes": [
-        "N-10715"
+        "N-10640"
       ],
       "tags": [],
       "claim_timestamp": "00:02:43",
@@ -946,13 +946,13 @@
         "A-2008.1"
       ],
       "related_nodes": [
-        "N-10712"
+        "N-10637"
       ],
       "tags": [],
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Pull the Washington Post article directly; review surveillance footage; verify Secret Service statements.",
       "mentions_person_refs": [
-        "N-617"
+        "N-378"
       ]
     },
     {
@@ -965,14 +965,14 @@
         "A-2008.2"
       ],
       "related_nodes": [
-        "N-10712"
+        "N-10637"
       ],
       "tags": [],
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Pull Evan Hill's X post directly; verify Washington Post's review of footage; cross-reference with official statements.",
       "mentions_person_refs": [
-        "N-612",
-        "N-617"
+        "N-376",
+        "N-378"
       ]
     },
     {
@@ -985,14 +985,14 @@
         "A-2008.3"
       ],
       "related_nodes": [
-        "N-10713"
+        "N-10638"
       ],
       "tags": [],
       "claim_timestamp": "00:31:35",
       "investigative_direction": "Confirm via Sidner's public posts or CNN's records; the host could not confirm Sidner personally recorded the clip.",
       "mentions_person_refs": [
         "N-2",
-        "N-619"
+        "N-379"
       ]
     },
     {
@@ -1005,16 +1005,16 @@
         "A-2008.5"
       ],
       "related_nodes": [
-        "N-10713"
+        "N-10638"
       ],
       "tags": [],
       "claim_timestamp": "00:32:25",
-      "investigative_direction": "Track bounty submissions received through candaceowens.com; compare any opposite-side footage against the Sidner clip to identify the original recorder (N-10713).",
+      "investigative_direction": "Track bounty submissions received through candaceowens.com; compare any opposite-side footage against the Sidner clip to identify the original recorder (N-10638).",
       "transcript_snippet": "I will offer $10,000 to somebody who has the opposite side footage.",
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-619"
+        "N-379"
       ]
     },
     {
@@ -1027,14 +1027,14 @@
         "A-2008.4"
       ],
       "related_nodes": [
-        "N-10712"
+        "N-10637"
       ],
       "tags": [],
       "claim_timestamp": "00:33:09",
       "investigative_direction": "Pull Baron Coleman's clip or post directly for full context.",
       "mentions_person_refs": [
         "N-2",
-        "N-552"
+        "N-337"
       ]
     },
     {
@@ -1050,7 +1050,7 @@
         "A-2009.4"
       ],
       "related_nodes": [
-        "N-10714"
+        "N-10639"
       ],
       "tags": [],
       "claim_timestamp": "00:37:46",
@@ -1070,7 +1070,7 @@
         "A-2009.1"
       ],
       "related_nodes": [
-        "N-10714"
+        "N-10639"
       ],
       "tags": [],
       "claim_timestamp": "00:39:21",
@@ -1089,8 +1089,8 @@
         "A-2009.4"
       ],
       "related_nodes": [
-        "N-10714",
-        "N-10717"
+        "N-10639",
+        "N-10642"
       ],
       "tags": [],
       "claim_timestamp": "00:47:25",
@@ -1110,7 +1110,7 @@
         "A-2009.2"
       ],
       "related_nodes": [
-        "N-10714"
+        "N-10639"
       ],
       "tags": [],
       "claim_timestamp": "00:42:09",
@@ -1129,7 +1129,7 @@
         "A-2009.3"
       ],
       "related_nodes": [
-        "N-10714"
+        "N-10639"
       ],
       "tags": [],
       "claim_timestamp": "00:45:38",
@@ -1137,7 +1137,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-122"
+        "N-87"
       ]
     },
     {
@@ -1154,7 +1154,7 @@
       "claim_timestamp": "00:43:54",
       "investigative_direction": "Review the Farnsworth video; verify timestamp and original upload context; cross-reference with other scene footage.",
       "mentions_person_refs": [
-        "N-410",
+        "N-267",
         "N-1"
       ]
     },
@@ -1168,7 +1168,7 @@
         "A-2011.1"
       ],
       "related_nodes": [
-        "N-10716"
+        "N-10641"
       ],
       "tags": [],
       "claim_timestamp": "00:51:23",
@@ -1176,7 +1176,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -1189,7 +1189,7 @@
         "A-2011.1"
       ],
       "related_nodes": [
-        "N-10716"
+        "N-10641"
       ],
       "tags": [],
       "claim_timestamp": "00:52:52",
@@ -1197,7 +1197,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -1210,7 +1210,7 @@
         "A-2011.1"
       ],
       "related_nodes": [
-        "N-10716"
+        "N-10641"
       ],
       "tags": [],
       "claim_timestamp": "00:52:52",
@@ -1218,9 +1218,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-42",
-        "N-444",
-        "N-133"
+        "N-14",
+        "N-284",
+        "N-97"
       ]
     },
     {
@@ -1238,7 +1238,7 @@
       "investigative_direction": "Verify the source recording; identify context and any other parties present.",
       "mentions_person_refs": [
         "N-3",
-        "N-91"
+        "N-60"
       ]
     },
     {
@@ -1256,7 +1256,7 @@
       "investigative_direction": "Verify the tweet directly; cross-reference SPLC public records; verify any financial relationship.",
       "mentions_person_refs": [
         "N-3",
-        "N-91"
+        "N-60"
       ]
     },
     {
@@ -1275,10 +1275,10 @@
       "investigative_direction": "Verify the tweet; cross-reference against actual attendees in Rome during the relevant dates.",
       "mentions_person_refs": [
         "N-3",
-        "N-91",
-        "N-293",
-        "N-622",
-        "N-903"
+        "N-60",
+        "N-205",
+        "N-381",
+        "N-563"
       ]
     },
     {

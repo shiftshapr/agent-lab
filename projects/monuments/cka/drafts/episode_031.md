@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: c74e78c6fe837fa42ecfdd621af81cd0a2394e04b024b682d47f983646686329
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-389, N-10316, N-10317
+  - New Nodes Introduced:  N-254, N-10246, N-10247
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:02:06–00:03:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1682, C-1683, N-16*
+*Related: C-1682, C-1683, N-7*
 
 ---
 
@@ -104,7 +104,7 @@ Video Timestamp: 00:06:39–00:08:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1685, N-389, N-10317*
+*Related: C-1685, N-254, N-10247*
 
 ---
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:09:22–00:10:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1684, N-389*
+*Related: C-1684, N-254*
 
 ---
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:12:54–00:13:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1686, C-1687, C-1689, N-389, Rob McCoy (likely-existing node), N-10317*
+*Related: C-1686, C-1687, C-1689, N-254, Rob McCoy (likely-existing node), N-10247*
 
 **A-1394.2** Thomas Camino Narrative on Bryce Eddie Show – Claims of False Conviction
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:13:55–00:17:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1688, N-389*
+*Related: C-1688, N-254*
 
 ---
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:46:40–00:49:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1691, N-314, Tim Dillon (likely-existing node), Kash Patel (likely-existing node)*
+*Related: C-1691, N-216, Tim Dillon (likely-existing node), Kash Patel (likely-existing node)*
 
 ---
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:52:17–00:52:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (auto-caption; spelling uncertain)
 
-*Related: Rob McCoy (likely-existing node), N-10316*
+*Related: Rob McCoy (likely-existing node), N-10246*
 
 **A-1397.2** Top Comment #2 (Yesterday): "Lobo Gray" – Vietnam Veteran Comment on Owens' Courage
 
@@ -318,7 +318,7 @@ Video Timestamp: 00:58:13–00:59:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (alt content present in transcript; preserves spelling)
 
-*Related: C-1691, N-10317*
+*Related: C-1691, N-10247*
 
 **A-1398.12** Today's Comment: "Silicon Valley" – Self-Promotion of Historical Thriller Novel; Mention of Owens' Book Club
 
@@ -336,7 +336,7 @@ Confidence Level: High
 
 
 
-**N-16** Frank Turek
+**N-7** Frank Turek
 
 Pastor described by host as the friend wearing the white hat beside Charlie Kirk at the assassination. Appears on CBN News interview (A-1391.1) criticizing host's evidentiary approach and referencing Detective Jay Warner Wallace.
 
@@ -349,7 +349,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-389** Thomas Michael Camino
+**N-254** Thomas Michael Camino
 
 California sex offender convicted in 1995 of child molestation and sentenced to 8 years; subsequently befriended by Rob McCoy and placed in Calvary Chapel home-fellowship program with access to children.
 
@@ -358,11 +358,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1392.1, A-1393.1, A-1394.1, A-1394.2, C-1684, C-1685, C-1686, C-1687, C-1688, N-10317, Rob McCoy (likely-existing node)*
+*Related: A-1392.1, A-1393.1, A-1394.1, A-1394.2, C-1684, C-1685, C-1686, C-1687, C-1688, N-10247, Rob McCoy (likely-existing node)*
 
 ---
 
-**N-314** Alexis Wilkins
+**N-216** Alexis Wilkins
 
 Country-music artist referenced as Kash Patel's girlfriend and as a member of Calvary Chapel Church in Chino Hills, California. Subject of Tim Dillon comedy segment.
 
@@ -371,11 +371,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1396.1, C-1691, Kash Patel (likely-existing node), N-10317*
+*Related: A-1396.1, C-1691, Kash Patel (likely-existing node), N-10247*
 
 ---
 
-**N-98** Mark Herman (director, Candace show)
+**N-67** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here, answering a viewer comment about security guards handing something off, the host says she and Mark reviewed the footage slowly and from different angles. No claim anchor; registered for cross-episode continuity.
 
@@ -388,7 +388,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10316** Calvary Chapel Institutional Abuse Pattern
+**N-10246** Calvary Chapel Institutional Abuse Pattern
 
 Persistent investigative target concerning multiple Calvary Chapel-affiliated abuse scandals referenced in this episode: Calvary Chapel Florida (Rob Koy), Woodlands (2024 arrest), Carrie (lead pastor resignation), Mission Viejo, Solid Rock (Jason James Taylor), North County Chapel Post Falls (Anthony Eglacius, Robert Davis), Virginia (Doug Deandria), Fort Lauderdale (2019), North Thirsten Oregon (Jeffrey Keon Ziz).
 
@@ -397,11 +397,11 @@ Claim Count: 0 (no per-incident displayed sources; host statement only)
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1394.1, A-1398.11, N-389, N-314, Rob McCoy (likely-existing node), Jack Hibbs (likely-existing node), Chuck Smith (likely-existing node)*
+*Related: A-1394.1, A-1398.11, N-254, N-216, Rob McCoy (likely-existing node), Jack Hibbs (likely-existing node), Chuck Smith (likely-existing node)*
 
 ---
 
-**N-10317** Potter's Fields Ministries Financial Fraud Allegations
+**N-10247** Potter's Fields Ministries Financial Fraud Allegations
 
 2019 Whitefish, Montana ministry scandal involving allegations of overstated child counts, photoshopped letters, and redirection of funds to Rob McCoy's church via CFO arrangement.
 
@@ -410,7 +410,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1392.1 (Camino victim email indirectly linked via Rob McCoy financial stewardship), Rob McCoy (likely-existing node), N-389*
+*Related: A-1392.1 (Camino victim email indirectly linked via Rob McCoy financial stewardship), Rob McCoy (likely-existing node), N-254*
 
 ---
 
@@ -423,7 +423,7 @@ Claim Timestamp: 00:02:06
 Claim: In a CBN News interview aired in the episode, Frank Turk stated that Candace Owens is making suggestions "without evidence" and that "as soon as you start launching accusations" the situation becomes painful for people.
 
 Anchored Artifacts: A-1391.1
-Mentions: N-1, N-16, N-3
+Mentions: N-1, N-7, N-3
 Investigative Direction: Obtain full CBN News clip and verify exact wording; cross-reference Turk's stated absence of episode-watching against specific claims in the Bride of Charlie series.
 
 ---
@@ -435,7 +435,7 @@ Claim Timestamp: 00:02:06
 Claim: In the same CBN News interview, Frank Turk stated he had invited "Detective Jay Warner Wallace" onto his podcast two weeks after "Charlie's martyrdom" to explain how murder prosecutions work.
 
 Anchored Artifacts: A-1391.1
-Mentions: N-16
+Mentions: N-7
 Investigative Direction: Locate and verify Frank Turk's podcast and the Wallace episode; cross-reference Wallace's stated expertise against any public statements on the Kirk case.
 
 ---
@@ -447,7 +447,7 @@ Claim Timestamp: 00:09:22
 Claim: The episode presents a 1995 LA Times article headlined "Child molester draws an 8-year term in prison," reporting that Thomas Michael Camino, 31, of San Juan Capistrano, was sentenced to the maximum 8-year term after conviction on molestation, indecent exposure, and 10 counts of child annoyance, for using a lost-cat story to lure girls in Orange County.
 
 Anchored Artifacts: A-1393.1
-Mentions: N-389
+Mentions: N-254
 Investigative Direction: Retrieve original LA Times 1995 article and California court records for People v. Camino to confirm conviction counts, sentence, and dates; cross-check against prior 1990 Manhattan Beach probation.
 
 ---
@@ -459,8 +459,8 @@ Claim Timestamp: 00:06:39
 Claim: Owens reads aloud an email from a woman who states she was 8 years old in Dana Point, California, in 1995, when Thomas Camino approached her and a friend to help find his cat, took them to a park behind her house, and attempted to molest her before she ran away; she identifies as a key witness at his trial.
 
 Anchored Artifacts: A-1392.1
-Mentions: N-389
-Related Nodes: N-10317
+Mentions: N-254
+Related Nodes: N-10247
 Investigative Direction: Verify sender identity, confirm testimony record in People v. Camino, and authenticate email provenance.
 
 ---
@@ -472,7 +472,7 @@ Claim Timestamp: 00:12:54
 Claim: On the Bryce Eddie Show podcast clip played in the episode, Rob McCoy states he has been friends with Thomas Camino for over 20 years since Camino's introduction at "Skyline," and that Camino has "followed the procedures" required of him and "served this community."
 
 Anchored Artifacts: A-1394.1
-Mentions: N-389, N-45
+Mentions: N-254, N-17
 Investigative Direction: Obtain full unedited Bryce Eddie Show episode; verify Skyline identification and dates; identify all co-attended Calvary Chapel events.
 
 ---
@@ -484,8 +484,8 @@ Claim Timestamp: 00:12:54
 Claim: Owens states, and the Rob McCoy podcast clip corroborates, that McCoy personally approved Thomas Camino's inclusion in the Calvary Chapel "home fellowship" program, which placed him "inside the homes of children," and that McCoy framed resulting criticism as "gossip and slander."
 
 Anchored Artifacts: A-1394.1
-Mentions: N-389, N-45
-Related Nodes: N-10316
+Mentions: N-254, N-17
+Related Nodes: N-10246
 Investigative Direction: Obtain 2022 Calvary Chapel statements and any internal records; identify families enrolled in home fellowship at the relevant time; review mothers' 2022 public complaints.
 
 ---
@@ -497,7 +497,7 @@ Claim Timestamp: 00:13:55
 Claim: In the Bryce Eddie Show clip, Thomas Camino states he was "falsely accused," describes a "sham" trial, claims he served 1,536 days for a crime he did not commit, and alleges his ex-wife was dating his public defender.
 
 Anchored Artifacts: A-1394.2
-Mentions: N-389
+Mentions: N-254
 Investigative Direction: Cross-check appellate court findings against Camino's narrative; verify the appeal court ruling referenced in his account; identify the public defender named.
 
 ---
@@ -509,8 +509,8 @@ Claim Timestamp: 00:12:54
 Claim: In the podcast clip, Rob McCoy explicitly characterizes the criticism of placing Camino with children as driven by "gossip and slander" and states he made a personal call to "protect" Camino's family.
 
 Anchored Artifacts: A-1394.1
-Mentions: N-389, N-45
-Related Nodes: N-10316
+Mentions: N-254, N-17
+Related Nodes: N-10246
 Investigative Direction: Locate original 2022 mothers' posts or complaints; verify whether McCoy's framing preceded or followed formal disclosure.
 
 ---
@@ -522,7 +522,7 @@ Claim Timestamp: 00:40:32
 Claim: In the played clip, a reporter asks Tucker Carlson to distance himself from Candace Owens; Carlson refuses, stating he would "die before" playing along, and calls the request a "ritual" without moral authority.
 
 Anchored Artifacts: A-1395.1
-Mentions: N-1, N-50, N-3
+Mentions: N-1, N-22, N-3
 Investigative Direction: Identify the original interview (outlet, date, reporter); verify full exchange including any off-clip context.
 
 ---
@@ -534,8 +534,8 @@ Claim Timestamp: 00:46:40
 Claim: In the played clip, Tim Dillon performs a comedy bit involving imagined lyrics from Alexis Wilkins, references Tel Aviv, "Kash Mattel," and "Jeff" files, and jokes about a country-music release.
 
 Anchored Artifacts: A-1396.1
-Mentions: N-314, N-102
-Related Nodes: N-10317
+Mentions: N-216, N-69
+Related Nodes: N-10247
 Investigative Direction: Identify Tim Dillon's show and episode date; verify Wilkins's Calvary Chapel Chino Hills membership via official church roster.
 
 ---
@@ -571,7 +571,7 @@ Claim Timestamp: 00:58:13
 Claim: A YouTube commenter using the handle "Mama Diaz" states that a Calvary Chapel pastor she watched online said, "If you have a Bible that has a map that shows Palestine, burn the Bible," and that she could "feel his hate through the screen."
 
 Anchored Artifacts: A-1398.11
-Related Nodes: N-10316
+Related Nodes: N-10246
 Investigative Direction: Identify the specific Calvary Chapel and pastor; locate the original broadcast or YouTube URL referenced.
 
 ---

@@ -33,11 +33,11 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-102",
-            "N-10344",
-            "N-10348",
-            "N-10349",
-            "N-10350"
+            "N-69",
+            "N-10273",
+            "N-10277",
+            "N-10278",
+            "N-10279"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -91,8 +91,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-102",
-            "N-10344"
+            "N-69",
+            "N-10273"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -120,11 +120,11 @@
             "C-1775"
           ],
           "related_nodes": [
-            "N-102",
-            "N-10345",
-            "N-10348",
-            "N-10349",
-            "N-10344"
+            "N-69",
+            "N-10274",
+            "N-10277",
+            "N-10278",
+            "N-10273"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -150,8 +150,8 @@
             "C-1776"
           ],
           "related_nodes": [
-            "N-445",
-            "N-10347"
+            "N-285",
+            "N-10276"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -177,8 +177,8 @@
             "C-1777"
           ],
           "related_nodes": [
-            "N-439",
-            "N-441"
+            "N-279",
+            "N-281"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -204,8 +204,8 @@
             "C-1778"
           ],
           "related_nodes": [
-            "N-439",
-            "N-440"
+            "N-279",
+            "N-280"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -231,9 +231,9 @@
             "C-1779"
           ],
           "related_nodes": [
-            "N-439",
-            "N-440",
-            "N-446"
+            "N-279",
+            "N-280",
+            "N-286"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -260,8 +260,8 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-442",
-            "N-10352"
+            "N-282",
+            "N-10281"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -286,9 +286,9 @@
           "related_claims": [],
           "related_nodes": [
             "N-3",
-            "N-443",
-            "N-444",
-            "N-10353"
+            "N-283",
+            "N-284",
+            "N-10282"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -324,13 +324,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10344"
+        "N-10273"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "FBI Director / public official who closed September 12, 2025 press conference with \"see you in Valhalla\" tribute to Charlie Kirk.",
@@ -349,13 +349,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-10344"
+        "N-10273"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-439",
-      "ref": "N-439",
+      "@id": "N-279",
+      "ref": "N-279",
       "name": "Mike Huckabee",
       "type": "person",
       "description": "U.S. Ambassador to Israel; subject of Jerusalem performance video and Pollard meeting coverage.",
@@ -375,15 +375,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-440",
-        "N-441",
-        "N-446"
+        "N-280",
+        "N-281",
+        "N-286"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-440",
-      "ref": "N-440",
+      "@id": "N-280",
+      "ref": "N-280",
       "name": "Jonathan Pollard",
       "type": "person",
       "description": "Convicted Israeli spy (30-year U.S. prison sentence, espionage); met with Huckabee per episode.",
@@ -401,13 +401,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-439"
+        "N-279"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-441",
-      "ref": "N-441",
+      "@id": "N-281",
+      "ref": "N-281",
       "name": "David Friedman",
       "type": "person",
       "description": "Former U.S. Ambassador to Israel; co-performer with Huckabee at Jerusalem event.",
@@ -423,13 +423,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-439"
+        "N-279"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-442",
-      "ref": "N-442",
+      "@id": "N-282",
+      "ref": "N-282",
       "name": "Ashley Rinzberg",
       "type": "person",
       "description": "Free Press writer; sent email to host requesting comment on multiple shows.",
@@ -446,13 +446,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-3",
-        "N-10352"
+        "N-10281"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-443",
-      "ref": "N-443",
+      "@id": "N-283",
+      "ref": "N-283",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Independent commentator; provided audio clip characterizing Bari Weiss at CBS News.",
@@ -467,13 +467,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-3",
-        "N-444"
+        "N-284"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-444",
-      "ref": "N-444",
+      "@id": "N-284",
+      "ref": "N-284",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Editor-in-chief / CBS News installation (per host and Tim Dylan clip); co-owner of The Free Press.",
@@ -487,14 +487,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-443",
-        "N-10353"
+        "N-283",
+        "N-10282"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-445",
-      "ref": "N-445",
+      "@id": "N-285",
+      "ref": "N-285",
       "name": "Bob Evan",
       "type": "person",
       "description": "Nebraska Secretary of State; announced Egypt trade mission per news clip.",
@@ -510,13 +510,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10347"
+        "N-10276"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-446",
-      "ref": "N-446",
+      "@id": "N-286",
+      "ref": "N-286",
       "name": "Karoline Leavitt",
       "type": "person",
       "description": "White House Press Secretary; quoted on Huckabee–Pollard meeting.",
@@ -532,14 +532,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-439",
-        "N-440"
+        "N-279",
+        "N-280"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10344",
-      "ref": "N-10344",
+      "@id": "N-10273",
+      "ref": "N-10273",
       "name": "Operation Valhalla – Charlie Kirk Assassination Timeline Connection",
       "type": "investigation_target",
       "description": "Investigation target: whether the Operation Valhalla Strike exercise (Aug 24–29, 2025) and the 891st MSFS's involvement have any causal or coordination link to the September 10, 2025 assassination; includes the Kash Patel \"see you in Valhalla\" press conference statement.",
@@ -560,14 +560,14 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-102",
-        "N-10349"
+        "N-69",
+        "N-10278"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10345",
-      "ref": "N-10345",
+      "@id": "N-10274",
+      "ref": "N-10274",
       "name": "BTT Minot AFB Stopover Question",
       "type": "investigation_target",
       "description": "Investigation target: why the Egyptian military BTT aircraft stopped at Minot, North Dakota for approximately one hour on September 4, 2025 rather than flying direct to Provo.",
@@ -583,14 +583,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10348",
-        "N-10349"
+        "N-10277",
+        "N-10278"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10346",
-      "ref": "N-10346",
+      "@id": "N-10275",
+      "ref": "N-10275",
       "name": "Maroon Shirt Coordination Theory",
       "type": "investigation_target",
       "description": "Investigation target: host's observation that multiple individuals in assassination-day footage appear to be wearing maroon shirts; host's source reportedly confirmed UVU school color is not maroon.",
@@ -602,13 +602,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-69"
+        "N-40"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10347",
-      "ref": "N-10347",
+      "@id": "N-10276",
+      "ref": "N-10276",
       "name": "Nebraska–Egypt Trade Mission / BTT Plane Overlap",
       "type": "investigation_target",
       "description": "Investigation target: temporal overlap between BTT aircraft's July 20 longest trip (to Nebraska) and Nebraska Secretary of State's July 22 announcement of Egypt trade mission.",
@@ -624,13 +624,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-445"
+        "N-285"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10348",
-      "ref": "N-10348",
+      "@id": "N-10277",
+      "ref": "N-10277",
       "name": "Minot Air Force Base",
       "type": "investigation_target",
       "description": "U.S. Air Force base in North Dakota; home to 5,000 military personnel and the 891st MSFS; site of BTT's September 4 stopover.",
@@ -648,14 +648,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10345",
-        "N-10349"
+        "N-10274",
+        "N-10278"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10349",
-      "ref": "N-10349",
+      "@id": "N-10278",
+      "ref": "N-10278",
       "name": "891st Missile Security Forces Squadron",
       "type": "investigation_target",
       "description": "Air Force unit stationed at Minot AFB; conducted Operation Valhalla Strike at Camp Ripley Aug 24–29, 2025; described as combined military/civilian security force.",
@@ -673,14 +673,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10344",
-        "N-10348"
+        "N-10273",
+        "N-10277"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10350",
-      "ref": "N-10350",
+      "@id": "N-10279",
+      "ref": "N-10279",
       "name": "Camp Ripley Training Center",
       "type": "investigation_target",
       "description": "Minnesota training facility where Operation Valhalla Strike was conducted Aug 24–29, 2025; provides full-distance live-fire ranges.",
@@ -696,13 +696,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10349"
+        "N-10278"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10351",
-      "ref": "N-10351",
+      "@id": "N-10280",
+      "ref": "N-10280",
       "name": "The Free Press",
       "type": "investigation_target",
       "description": "Online publication co-founded by Bari Weiss; outlet of record for the Rinzberg inquiry email.",
@@ -718,14 +718,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-442",
-        "N-444"
+        "N-282",
+        "N-284"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10352",
-      "ref": "N-10352",
+      "@id": "N-10281",
+      "ref": "N-10281",
       "name": "Free Press Email Inquiry Target",
       "type": "investigation_target",
       "description": "Topic: episode-specific Rinzberg email regarding \"economics of high engagement political content\" on YouTube and podcasts, covering Israel, Charlie Kirk's death, and Becoming Breit.",
@@ -741,13 +741,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-442"
+        "N-282"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10353",
-      "ref": "N-10353",
+      "@id": "N-10282",
+      "ref": "N-10282",
       "name": "CBS News",
       "type": "investigation_target",
       "description": "Network where Bari Weiss was installed per Tim Dylan clip.",
@@ -761,7 +761,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-444"
+        "N-284"
       ]
     },
     {
@@ -782,8 +782,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.",
@@ -808,16 +808,16 @@
         "A-1451.1"
       ],
       "related_nodes": [
-        "N-10344",
-        "N-10348",
-        "N-10349",
-        "N-10350"
+        "N-10273",
+        "N-10277",
+        "N-10278",
+        "N-10279"
       ],
       "tags": [],
       "claim_timestamp": "00:08:24",
       "investigative_direction": "Cross-check public DoD exercise announcements for the same date window; obtain Minot AFB public affairs archive.",
       "mentions_person_refs": [
-        "N-102"
+        "N-69"
       ]
     },
     {
@@ -830,9 +830,9 @@
         "A-1451.1"
       ],
       "related_nodes": [
-        "N-10349",
-        "N-10350",
-        "N-10344"
+        "N-10278",
+        "N-10279",
+        "N-10273"
       ],
       "tags": [],
       "claim_timestamp": "00:08:24",
@@ -848,9 +848,9 @@
         "A-1451.1"
       ],
       "related_nodes": [
-        "N-10349",
-        "N-10348",
-        "N-10344"
+        "N-10278",
+        "N-10277",
+        "N-10273"
       ],
       "tags": [],
       "claim_timestamp": "00:08:24",
@@ -884,13 +884,13 @@
         "A-1453.1"
       ],
       "related_nodes": [
-        "N-10344"
+        "N-10273"
       ],
       "tags": [],
       "claim_timestamp": "00:09:53",
       "investigative_direction": "Compare to full Patel press conference record on FBI.gov or C-SPAN.",
       "mentions_person_refs": [
-        "N-102",
+        "N-69",
         "N-1"
       ]
     },
@@ -904,14 +904,14 @@
         "A-1454.1"
       ],
       "related_nodes": [
-        "N-10345",
-        "N-10348"
+        "N-10274",
+        "N-10277"
       ],
       "tags": [],
       "claim_timestamp": "00:05:34",
       "investigative_direction": "Cross-reference with ADS-B / Flightradar24 historical data for the relevant tail number and date; verify Minot AFB transient aircraft logs via FOIA.",
       "mentions_person_refs": [
-        "N-102"
+        "N-69"
       ]
     },
     {
@@ -924,7 +924,7 @@
         "A-1454.1"
       ],
       "related_nodes": [
-        "N-10348"
+        "N-10277"
       ],
       "tags": [],
       "claim_timestamp": "00:05:34",
@@ -940,16 +940,16 @@
         "A-1454.1"
       ],
       "related_nodes": [
-        "N-10344",
-        "N-10345",
-        "N-10348",
-        "N-10349"
+        "N-10273",
+        "N-10274",
+        "N-10277",
+        "N-10278"
       ],
       "tags": [],
       "claim_timestamp": "00:06:30",
       "investigative_direction": "Confirm exercise completion dates and any overlap with BTT's arrival window; determine whether the unit had returned to Minot by September 4.",
       "mentions_person_refs": [
-        "N-102"
+        "N-69"
       ]
     },
     {
@@ -962,13 +962,13 @@
         "A-1455.1"
       ],
       "related_nodes": [
-        "N-10347"
+        "N-10276"
       ],
       "tags": [],
       "claim_timestamp": "00:12:13",
       "investigative_direction": "Locate the original announcement on the Nebraska Secretary of State website or press release archive; identify participating delegates.",
       "mentions_person_refs": [
-        "N-445"
+        "N-285"
       ]
     },
     {
@@ -985,8 +985,8 @@
       "claim_timestamp": "00:26:00",
       "investigative_direction": "Identify the event organizer, venue, and date.",
       "mentions_person_refs": [
-        "N-439",
-        "N-441"
+        "N-279",
+        "N-281"
       ]
     },
     {
@@ -1003,8 +1003,8 @@
       "claim_timestamp": "00:26:15",
       "investigative_direction": "Identify the headline outlet and obtain the underlying interview/transcript from Pollard.",
       "mentions_person_refs": [
-        "N-439",
-        "N-440"
+        "N-279",
+        "N-280"
       ]
     },
     {
@@ -1021,9 +1021,9 @@
       "claim_timestamp": "00:28:14",
       "investigative_direction": "Locate full White House briefing transcript or video.",
       "mentions_person_refs": [
-        "N-439",
-        "N-440",
-        "N-446"
+        "N-279",
+        "N-280",
+        "N-286"
       ]
     },
     {
@@ -1036,15 +1036,15 @@
         "A-1459.1"
       ],
       "related_nodes": [
-        "N-10351",
-        "N-10352"
+        "N-10280",
+        "N-10281"
       ],
       "tags": [],
       "claim_timestamp": "00:29:33",
       "investigative_direction": "Confirm whether the article was published and whether Rinzberg is correctly identified by the outlet's masthead.",
       "mentions_person_refs": [
         "N-3",
-        "N-442",
+        "N-282",
         "N-1"
       ]
     },

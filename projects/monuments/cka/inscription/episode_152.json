@@ -30,7 +30,7 @@
             "C-3445"
           ],
           "related_nodes": [
-            "N-10207"
+            "N-10141"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -290,8 +290,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11321",
-      "ref": "N-11321",
+      "@id": "N-10831",
+      "ref": "N-10831",
       "name": "Search Warrant / Investigative Unit Pattern (Case Charlie Kirk)",
       "type": "investigation_target",
       "description": "Persistent question of why individuals with specialized ICAC/SVU backgrounds were centrally positioned in handling the September 10 case (initial warrants, statement-taking).",
@@ -312,8 +312,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11322",
-      "ref": "N-11322",
+      "@id": "N-10832",
+      "ref": "N-10832",
       "name": "Trafficking-Pattern Claim (TPUSA / Kirk Circle)",
       "type": "investigation_target",
       "description": "Persistent claim that a recurring pattern of trafficking / child sex abuse involvement exists across multiple TPUSA-adjacent individuals.",
@@ -367,8 +367,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-37",
-      "ref": "N-37",
+      "@id": "N-11",
+      "ref": "N-11",
       "name": "Tyler Bowyer",
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
@@ -382,8 +382,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
@@ -398,8 +398,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-71",
-      "ref": "N-71",
+      "@id": "N-42",
+      "ref": "N-42",
       "name": "George Zinn",
       "type": "person",
       "description": "Arrested for claiming to be the shooter on incident day; per host, told Utah Valley nurses he was paid.",
@@ -414,8 +414,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-176",
-      "ref": "N-176",
+      "@id": "N-126",
+      "ref": "N-126",
       "name": "Mike Mitchell",
       "type": "person",
       "description": "Salt Lake County Sheriff's Office detective; per a 1999 article, conducts online undercover work creating personas to identify suspected pedophiles. Flag: this entity is likely to already possess a node ID from prior episodes covering his role in the Charlie Kirk case; verify ledger and merge if confirmed.",
@@ -430,8 +430,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -446,8 +446,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-410",
-      "ref": "N-410",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
@@ -462,8 +462,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-977",
-      "ref": "N-977",
+      "@id": "N-601",
+      "ref": "N-601",
       "name": "Matt Tardio",
       "type": "person",
       "description": "First named by the host at 00:35:04 in episode 152.",
@@ -482,8 +482,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-810",
-      "ref": "N-810",
+      "@id": "N-518",
+      "ref": "N-518",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "First named by the host at 00:04:45 in episode 127. Aliases: Officer Bagley, Officer Christopher Bagley.",
@@ -512,7 +512,7 @@
       "claim_timestamp": "00:02:33–00:03:11",
       "investigative_direction": "Compare the aired audio against any independently circulating version; confirm timestamp of original cartoon source.*",
       "mentions_person_refs": [
-        "N-410"
+        "N-267"
       ]
     },
     {
@@ -537,14 +537,14 @@
       "claim": "The episode presents that Mike Mitchell's career was as an undercover detective in internet sex crimes against children, and that he was central in the Tyler Robinson surrender process.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11321"
+        "N-10831"
       ],
       "tags": [],
       "claim_timestamp": "00:11:09",
       "investigative_direction": "Obtain Mike Mitchell's personnel records / Utah County Sheriff's Office assignment history.*",
       "mentions_person_refs": [
-        "N-69",
-        "N-176"
+        "N-40",
+        "N-126"
       ]
     },
     {
@@ -555,13 +555,13 @@
       "claim": "The episode presents that Bagley formerly worked in child sex crimes at the Utah County Sheriff's Office before transferring to UVU police in approximately 2022.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11321"
+        "N-10831"
       ],
       "tags": [],
       "claim_timestamp": "00:11:56",
       "investigative_direction": "Verify Bagley's personnel record with UVU police / Utah County Sheriff's Office.*",
       "mentions_person_refs": [
-        "N-810"
+        "N-518"
       ]
     },
     {
@@ -576,7 +576,7 @@
       "claim_timestamp": "00:12:41",
       "investigative_direction": "Obtain New York Post article referenced and court records for George Zinn's case.*",
       "mentions_person_refs": [
-        "N-71"
+        "N-42"
       ]
     },
     {
@@ -589,14 +589,14 @@
         "A-2378.1"
       ],
       "related_nodes": [
-        "N-11321"
+        "N-10831"
       ],
       "tags": [],
       "claim_timestamp": "00:12:41–00:15:26",
       "investigative_direction": "Pull the search warrant records from Utah court filings to verify signatory.*",
       "mentions_person_refs": [
         "N-1",
-        "N-71"
+        "N-42"
       ]
     },
     {
@@ -609,7 +609,7 @@
         "A-2378.1"
       ],
       "related_nodes": [
-        "N-11321"
+        "N-10831"
       ],
       "tags": [],
       "claim_timestamp": "00:12:41–00:15:26",
@@ -629,13 +629,13 @@
         "A-2377.3"
       ],
       "related_nodes": [
-        "N-11321"
+        "N-10831"
       ],
       "tags": [],
       "claim_timestamp": "00:18:24–00:20:34",
       "investigative_direction": "Identify the specific officer via Utah ICAC roster; obtain the recorded statement through FOIA / public records request.*",
       "mentions_person_refs": [
-        "N-272"
+        "N-194"
       ]
     },
     {
@@ -646,7 +646,7 @@
       "claim": "The episode asserts that the Utah ICAC works under the Utah Attorney General's Office.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11321"
+        "N-10831"
       ],
       "tags": [],
       "claim_timestamp": "00:22:24",
@@ -660,7 +660,7 @@
       "claim": "The episode presents that the federal Internet Crimes Against Children Task Force Program was established by the U.S. Department of Justice in 1998.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11321"
+        "N-10831"
       ],
       "tags": [],
       "claim_timestamp": "00:22:24",
@@ -706,7 +706,7 @@
       "investigative_direction": "Pull Portland court records for Matt Tardio's October 2025 plea and related news reports.*",
       "mentions_person_refs": [
         "N-2",
-        "N-977"
+        "N-601"
       ]
     },
     {
@@ -745,7 +745,7 @@
         "A-2382.1"
       ],
       "related_nodes": [
-        "N-11322"
+        "N-10832"
       ],
       "tags": [],
       "claim_timestamp": "00:03:34–00:08:18",
@@ -766,8 +766,8 @@
       "claim_timestamp": "00:10:50–00:11:09",
       "investigative_direction": "Verify Mitchell's role via investigative reporting and Robinson family statements.*",
       "mentions_person_refs": [
-        "N-69",
-        "N-176"
+        "N-40",
+        "N-126"
       ]
     },
     {
@@ -782,7 +782,7 @@
       "claim_timestamp": "00:11:56",
       "investigative_direction": "Verify via Bagley's body cam records disclosed in preliminary hearing exhibits.*",
       "mentions_person_refs": [
-        "N-810"
+        "N-518"
       ]
     },
     {
@@ -797,7 +797,7 @@
       "claim_timestamp": "00:12:41",
       "investigative_direction": "Pull George Zinn's Utah court records for sentencing outcomes.*",
       "mentions_person_refs": [
-        "N-71"
+        "N-42"
       ]
     },
     {
@@ -808,8 +808,8 @@
       "claim": "The host asserts as opinion that the placement of ICAC / SVU personnel throughout the investigation reflects a deliberate federal control mechanism related to Epstein-era networks.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11321",
-        "N-11322"
+        "N-10831",
+        "N-10832"
       ],
       "tags": [],
       "claim_timestamp": "00:22:24–00:24:49",

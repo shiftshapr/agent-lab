@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: f014080d358c9ccfe42ed712aeffc49e3166ec2829366ab1f4e0556561329eb5
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10662, N-10663, N-10664, N-10665, N-10666, N-10667
-  - Hole-minted Nodes (wave3): N-674
+  - New Nodes Introduced: N-10587, N-10588, N-10589, N-10590, N-10591, N-10592
+  - Hole-minted Nodes (wave3): N-429
   - Reused Nodes Appearing: N-5
   - (see registers)
 
@@ -38,7 +38,7 @@ Video Timestamp: 00:04:12–00:12:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full text read aloud on air)
 
-*Related: C-2669, C-2670, C-2680, C-2681, N-3, N-10662*
+*Related: C-2669, C-2670, C-2680, C-2681, N-3, N-10587*
 
 ---
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:25:38–00:26:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played on air)
 
-*Related: C-2672, N-10667*
+*Related: C-2672, N-10592*
 
 ---
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:33:58–00:35:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played on air)
 
-*Related: C-2674, N-10665*
+*Related: C-2674, N-10590*
 
 ---
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:29:16–00:32:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single-witness recounting; second-hand via Charlie Kirk; Kolb named as corroborator)
 
-*Related: C-2675, C-2676, N-10663, N-10664*
+*Related: C-2675, C-2676, N-10588, N-10589*
 
 ---
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:41:36–00:47:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (commenter identities partially self-attested)
 
-*Related: C-2678, N-10666*
+*Related: C-2678, N-10591*
 
 ---
 
@@ -136,7 +136,7 @@ Video Timestamp: 00:19:06–00:21:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (responses paraphrased and partially quoted on air)
 
-*Related: C-2678, C-2679, N-10662, N-10666*
+*Related: C-2678, C-2679, N-10587, N-10591*
 
 ---
 
@@ -150,20 +150,20 @@ Video Timestamp: 00:31:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced but not displayed)
 
-*Related: C-2677, N-10663*
+*Related: C-2677, N-10588*
 
 ---
 
 ## 4. Node Register
 
-**N-674** Monica Lewinsky
+**N-429** Monica Lewinsky
 
 First named by the host at 00:26:31 in episode 89.
 
 *Related: C-2672, C-2673*
 
 
-**N-10662** Trump Truth Social Post Pattern Question
+**N-10587** Trump Truth Social Post Pattern Question
 
 Persistent discrepancy between Trump's stated posture toward named public figures and his posture in A-1939.1; includes implication that Charlie Kirk would also have been targeted.
 
@@ -176,7 +176,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10663** Butler PA Investigation Closure Verification
+**N-10588** Butler PA Investigation Closure Verification
 
 Question about whether and why Trump moved to close the Butler investigation; relevant to A-1944.1 timeline and A-1947.1.
 
@@ -189,7 +189,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10664** Adelson–West Bank Annexation Meeting Verification
+**N-10589** Adelson–West Bank Annexation Meeting Verification
 
 Question about whether a meeting occurred in which Miriam Adelson conditioned $100M on West Bank annexation, and what Trump stated therein.
 
@@ -202,7 +202,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10665** Laura Loomer Influence on Trump Policy Question
+**N-10590** Laura Loomer Influence on Trump Policy Question
 
 Question about the operative influence Laura Loomer exerts over Trump's Truth Social posts and policy posture, per her own claim in A-1943.1.
 
@@ -215,7 +215,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10666** MAGA Base Sentiment Shift Question
+**N-10591** MAGA Base Sentiment Shift Question
 
 Question about measurable shift in core-MAGA supporter sentiment toward Trump, evidenced by responses in A-1945.1 and A-1946.1.
 
@@ -228,7 +228,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10667** Situation-Room Table Seating Verification
+**N-10592** Situation-Room Table Seating Verification
 
 Question about whether Trump was seated at the side of the situation-room table during the Netanyahu meeting, per A-1941.1.
 
@@ -250,8 +250,8 @@ Claim Timestamp: 00:04:12–00:12:28
 Claim: Trump's Truth Social post, read in full on air, named Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones and described them as "low IQ," "stupid people," "nutjobs," "troublemakers," and "losers."
 
 Anchored Artifacts: A-1939.1
-Mentions: N-3, N-50, N-75, N-128
-Related Nodes: N-10662
+Mentions: N-3, N-22, N-46, N-93
+Related Nodes: N-10587
 Investigative Direction: Obtain the original Truth Social post via archived screenshots and confirm the verbatim text against the on-air reading.
 
 ---
@@ -276,7 +276,7 @@ Claim Timestamp: 00:23:45–00:24:40
 Claim: CNN assembled and aired a montage of past Trump appearances in which he praised Candace Owens, Megyn Kelly, and others as "stars" with "amazing reputations," contradicting his current posture in A-1939.1.
 
 Anchored Artifacts: A-1940.1
-Mentions: N-3, N-75
+Mentions: N-3, N-46
 Investigative Direction: Identify and verify the source clips used in the CNN compilation and their original air dates.
 
 ---
@@ -288,8 +288,8 @@ Claim Timestamp: 00:25:38–00:26:31
 Claim: In an on-air audio clip from her Piers Morgan interview, Megyn Kelly stated that Trump sat at the side of the situation-room table while Benjamin Netanyahu sat across from him as an equal, and that senior U.S. advisers subsequently informed Trump the stated Iran objectives were unattainable.
 
 Anchored Artifacts: A-1941.1
-Mentions: N-65, N-298, N-75, N-674
-Related Nodes: N-10667
+Mentions: N-36, N-208, N-46, N-429
+Related Nodes: N-10592
 Investigative Direction: Locate the full Piers Morgan interview segment and verify the quoted claims; cross-reference with official White House situation-room imagery if available.
 
 ---
@@ -301,7 +301,7 @@ Claim Timestamp: 00:26:31–00:28:46
 Claim: A letter/newsletter from Tucker Carlson, read in full on air, alleged that Israel has a "storied history of blackmailing US presidents," including the claim that recordings of Bill Clinton–Monica Lewinsky phone-sex sessions were used as leverage to obtain Jonathan Pollard's release.
 
 Anchored Artifacts: A-1942.1
-Mentions: N-440, N-50, N-674
+Mentions: N-280, N-22, N-429
 Related Nodes:
 Investigative Direction: Retrieve the original Carlson newsletter post and verify the exact wording; assess sourcing and historical basis for the Clinton-Lewinsky blackmail claim independently.
 
@@ -314,8 +314,8 @@ Claim Timestamp: 00:33:58–00:35:23
 Claim: In an audio clip played on air, Laura Loomer stated that she sent Tucker Carlson clips to President Trump and that she is the person who "knifed him from the front" via the resulting Truth Social post.
 
 Anchored Artifacts: A-1943.1
-Mentions: N-50, N-91
-Related Nodes: N-10665
+Mentions: N-22, N-60
+Related Nodes: N-10590
 Investigative Direction: Obtain the original Loomer audio/video (e.g., X post, Rumble clip) and confirm the exact wording; assess whether other corroboration exists for her influence claim.
 
 ---
@@ -327,8 +327,8 @@ Claim Timestamp: 00:29:16–00:31:16
 Claim: Candace Owens recounted on air that Charlie Kirk told her (with Andrew Kolb named as in-room corroborator) that he and Kolb were present at a meeting in which Miriam Adelson offered President Trump $100 million in exchange for annexation of the West Bank, prior to the public announcement of the donation in approximately July 2024.
 
 Anchored Artifacts: A-1944.1
-Mentions: N-3, N-1, N-42
-Related Nodes: N-10664
+Mentions: N-3, N-1, N-14
+Related Nodes: N-10589
 Investigative Direction: Identify and interview Andrew Kolb directly; cross-reference publicly reported Adelson-Trump meetings in spring/summer 2024; review contemporaneous meeting attendee records if obtainable.
 
 ---
@@ -341,7 +341,7 @@ Claim: Per Candace Owens's recounting of Charlie Kirk's account, Donald Trump st
 
 Anchored Artifacts: A-1944.1
 Mentions: N-3, N-1, N-5
-Related Nodes: N-10663, N-10664
+Related Nodes: N-10588, N-10589
 Investigative Direction: Obtain corroborating testimony from Andrew Kolb; review any contemporaneous notes, messages, or secondary witnesses; assess downstream policy decisions vis-à-vis West Bank actions.
 
 ---
@@ -353,8 +353,8 @@ Claim Timestamp: 00:31:16–00:32:11
 Claim: Donald Trump Jr. stated on stage that he was not satisfied with the conclusion of the Butler, Pennsylvania investigation but that his father was satisfied and the matter was closed.
 
 Anchored Artifacts: A-1947.1
-Mentions: N-62
-Related Nodes: N-10663
+Mentions: N-33
+Related Nodes: N-10588
 Investigative Direction: Locate the original on-stage footage or transcript; cross-reference with any subsequent Trump Jr. statements on the same topic.
 
 ---
@@ -366,7 +366,7 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: Truth Social and broader social-media responses read on air (A-1946.1), supplemented by viewer comments (A-1945.1), indicate a measurable volume of previously pro-Trump MAGA supporters publicly criticizing or repudiating him following A-1939.1.
 
 Anchored Artifacts: A-1945.1, A-1946.1
-Related Nodes: N-10666
+Related Nodes: N-10591
 Investigative Direction: Quantify sentiment shift using archived social-media datasets and date-range filters; separate organic supporter sentiment from bot/inauthenticator activity.
 
 ---
@@ -379,7 +379,7 @@ Claim: Candace Owens highlighted as the most "brutal" recurring response a claim
 
 Anchored Artifacts: A-1946.1
 Mentions: N-3, N-1
-Related Nodes: N-10662
+Related Nodes: N-10587
 Investigative Direction: Locate the originating posts and timestamps; assess spread velocity and authorship clustering.
 
 ---
@@ -391,7 +391,7 @@ Claim Timestamp: 00:11:20–00:12:28
 Claim: Trump's Truth Social post cited CNN polling data ("100% approval rating") while concurrently describing CNN as "fake news."
 
 Anchored Artifacts: A-1939.1
-Related Nodes: N-10662
+Related Nodes: N-10587
 Investigative Direction: Verify exact wording in the archived post and identify the specific CNN poll Trump cited.
 
 ---
@@ -403,7 +403,7 @@ Claim Timestamp: 00:09:01–00:09:34
 Claim: Trump's Truth Social post stated, verbatim, that the first lady of France is "a far more beautiful woman than Candace" and "it's not even close."
 
 Anchored Artifacts: A-1939.1
-Mentions: N-3, N-117
+Mentions: N-3, N-82
 Related Nodes:
 Investigative Direction: Verify exact wording against the archived post.
 

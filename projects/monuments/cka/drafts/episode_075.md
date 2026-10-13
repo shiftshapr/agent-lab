@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: d8e6f28a51d5ce3dd1d87baacd78a256a41af58e5088968e02eb7b3dd5527107
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (wave1): N-531
-  - Hole-minted Nodes (w2_1-ep75): N-11346, N-11347, N-11348
+  - Hole-minted Nodes (wave1): N-331
+  - Hole-minted Nodes (w2_1-ep75): N-10856, N-10857, N-10858
   - (see registers)
 
 ## I. Meta-Data
@@ -26,7 +26,7 @@
 - Transcript Completeness Status: Complete (sections after [55:16] are comment reads; transcript ends at [01:09:02])
 - Analyst: Investigation Agent (Episode Analysis Protocol)
 - Analysis Date: 2026-03-11
-- Ledger Continuation: Beginning at A-2436 / C-3568 / N-531 (people) / N-11346 (targets)
+- Ledger Continuation: Beginning at A-2436 / C-3568 / N-331 (people) / N-10856 (targets)
 
 ---
 
@@ -53,7 +53,7 @@ Video Timestamp: 00:01:25
 Discovery Timestamp: 2026-03-09
 Confidence Level: High
 
-*Related: C-3568, N-1 (Charlie Kirk), N-2 (Erica Kirk), N-50 (Tucker Carlson – reuse if exists, else new)*
+*Related: C-3568, N-1 (Charlie Kirk), N-2 (Erica Kirk), N-22 (Tucker Carlson – reuse if exists, else new)*
 
 ---
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:12:25
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (Wikipedia, paraphrased on-screen)
 
-*Related: C-3569, N-2 (Erica Kirk), N-10003 (host-curated occult reading node – reuse if exists)*
+*Related: C-3569, N-2 (Erica Kirk), N-10001 (host-curated occult reading node – reuse if exists)*
 
 ---
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:15:10
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (clip excerpted; full source not identified in episode)
 
-*Related: C-3570, N-531 (Father Ripperger)*
+*Related: C-3570, N-331 (Father Ripperger)*
 
 ---
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:10:30
 Discovery Timestamp: 2026-03-09
 Confidence Level: Low (provenance unverifiable in episode; document mailed anonymously)
 
-*Related: C-3571, N-1 (Charlie Kirk), N-11347 (Freemason Bible authentication – reuse if exists)*
+*Related: C-3571, N-1 (Charlie Kirk), N-10857 (Freemason Bible authentication – reuse if exists)*
 
 **A-2439.2** Text excerpt from the document: "It has been correctly stated that symbolism constitutes the very essence of Freemasonry… A symbol or an emblem is an occult representation of something unknown or concealed by a sign or a thing that is known." Section titled "the science of symbolism explained."
 
@@ -114,7 +114,7 @@ Video Timestamp: 00:19:40
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed; close in time to event)
 
-*Related: C-3573, N-2 (Erica Kirk), N-37 (Tyler Bowyer – reuse if exists)*
+*Related: C-3573, N-2 (Erica Kirk), N-11 (Tyler Bowyer – reuse if exists)*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:20:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (dated)
 
-*Related: C-3574, N-2 (Erica Kirk), N-16 (Frank Turek – reuse if exists)*
+*Related: C-3574, N-2 (Erica Kirk), N-7 (Frank Turek – reuse if exists)*
 
 ---
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:21:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (date not given in episode)
 
-*Related: C-3575, N-2 (Erica Kirk), N-272 (Mikey McQuaid – reuse if exists)*
+*Related: C-3575, N-2 (Erica Kirk), N-194 (Mikey McQuaid – reuse if exists)*
 
 ---
 
@@ -166,7 +166,7 @@ Video Timestamp: 00:26:00
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (comedy segment; clearly framed by host as supporting analysis)
 
-*Related: C-3583, N-2 (Erica Kirk), N-443 (Tim Dillon – reuse if exists)*
+*Related: C-3583, N-2 (Erica Kirk), N-283 (Tim Dillon – reuse if exists)*
 
 ---
 
@@ -230,7 +230,7 @@ Video Timestamp: 00:46:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed)
 
-*Related: C-3581, N-65 (Bibi Netanyahu – reuse if exists), Benny Gantz (no node)*
+*Related: C-3581, N-36 (Bibi Netanyahu – reuse if exists), Benny Gantz (no node)*
 
 ---
 
@@ -243,13 +243,13 @@ Video Timestamp: 00:48:30
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed)
 
-*Related: C-3582, N-5 (Donald Trump), N-446 (Karoline Leavitt – reuse if exists)*
+*Related: C-3582, N-5 (Donald Trump), N-286 (Karoline Leavitt – reuse if exists)*
 
 ---
 
 ## IV. Node Register
 
-**N-531** Father Ripperger
+**N-331** Father Ripperger
 
 Catholic priest whose audio clip on "the revealing of the method" is presented by the host as documentary support for an occult-influence thesis applied to Charlie Kirk's assassination and subsequent TPUSA behavior.
 
@@ -262,7 +262,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-443** Tim Dillon
+**N-283** Tim Dillon
 
 Comedian whose on-camera segment speculating that Erika Kirk functioned as a "Mossad handler" for Charlie Kirk is presented by the host as confirming public intuition.
 
@@ -275,7 +275,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-11346** Pentagon Seating Geometry Claim (Investigation Target)
+**N-10856** Pentagon Seating Geometry Claim (Investigation Target)
 
 Persistent host claim that Charlie Kirk was "seated in the center of a pentagon when he was killed," which she derives by analogy from a pentagram illustration in the so-called "Freemason Bible." In this episode, the claim is host inference, not directly anchored to any artifact depicting the actual seating geometry at the September 10 event. Verification target: obtain and review contemporaneous photographs/video of the September 10 venue showing the actual configuration of the security perimeter and seating.
 
@@ -288,7 +288,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-11347** "Freemason Bible" Document Authentication (Investigation Target)
+**N-10857** "Freemason Bible" Document Authentication (Investigation Target)
 
 The host's characterization of the mailed document as a "33rd degree Freemason Bible" originating from the estate auction of a deceased Oklahoma Freemason rests entirely on an unsigned handwritten cover letter. Authentication, provenance, and whether the document reflects mainstream Freemason belief vs. fringe material remains unestablished in-episode. Verification target: confirm document via independent Masonic-history scholars and cross-reference with known Masonic publishing.
 
@@ -301,7 +301,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-11348** Erika Kirk Presidential Viability Narrative (Investigation Target)
+**N-10858** Erika Kirk Presidential Viability Narrative (Investigation Target)
 
 Aggregate target tracking whether TPUSA figures and adjacent commentators explicitly floated her viability as a candidate during 2025, prior to public statements she might herself make. This episode contributes three artifact-anchored data points (Bowyer, Turek, McQuaid) within the first ~3 weeks after September 10.
 
@@ -314,7 +314,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-37** Tyler Bowyer
+**N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -332,7 +332,7 @@ Claim Timestamp: 00:01:25
 Claim: The episode displays a Tucker Carlson X post reading, in full, "Pray that the spell breaks and the world is saved."
 
 Anchored Artifacts: A-2436.1
-Mentions: N-1, N-2, N-50
+Mentions: N-1, N-2, N-22
 Investigative Direction: Confirm post text and timestamp directly on X; capture any replies or follow-ups from Carlson clarifying intent.
 
 ---
@@ -345,7 +345,7 @@ Claim: The Wikipedia article on the Seal of Solomon, as read on camera, describe
 
 Anchored Artifacts: A-2437.1
 Mentions: N-2
-Related Nodes: N-10003
+Related Nodes: N-10001
 Investigative Direction: Pull the live Wikipedia article and capture revision history; confirm whether the language is stable.
 
 ---
@@ -357,7 +357,7 @@ Claim Timestamp: 00:15:10
 Claim: Father Ripperger, in an audio clip played by the host, stated that Satanists and Freemasons tend to "reveal the method" of their operations even while remaining hidden, and that this has a sadistic dimension in which "they still want to show themselves in some way."
 
 Anchored Artifacts: A-2438.1
-Mentions: N-531
+Mentions: N-331
 Investigative Direction: Identify the full source interview (date, program, outlet) and review for context outside the excerpt.
 
 ---
@@ -369,7 +369,7 @@ Claim Timestamp: 00:10:30
 Claim: The physical document shown on camera contains, in its first pages, a pentagram with internal illustrations and the label "Place of sacrifice or worship" pointing to its center.
 
 Anchored Artifacts: A-2439.1
-Related Nodes: N-11347
+Related Nodes: N-10857
 Investigative Direction: Obtain the document or high-resolution photograph to verify the label and language; confirm publication origin.
 
 ---
@@ -381,7 +381,7 @@ Claim Timestamp: 00:16:55
 Claim: The document contains text asserting that "symbolism constitutes the very essence of Freemasonry" and a separate section entitled "the science of symbolism explained," which defines a symbol as "an occult representation of something unknown or concealed by a sign or a thing that is known."
 
 Anchored Artifacts: A-2439.2
-Related Nodes: N-11347
+Related Nodes: N-10857
 Investigative Direction: Verify the text matches a published Masonic source or whether it is idiosyncratic to this copy; consult Masonic historians.
 
 ---
@@ -393,8 +393,8 @@ Claim Timestamp: 00:19:40
 Claim: Tyler Bowyer stated on camera that he had previously had conversations with Charlie in which Charlie said "Erika could be so much bigger and better than me at almost everything" and "believed firmly that Erika was going to be president someday."
 
 Anchored Artifacts: A-2440.1
-Mentions: N-37
-Related Nodes: N-11348
+Mentions: N-11
+Related Nodes: N-10858
 Investigative Direction: Obtain full clip with date; cross-check whether Charlie ever made comparable public statements on the record about Erika's political future.
 
 ---
@@ -406,8 +406,8 @@ Claim Timestamp: 00:20:50
 Claim: Frank Turek stated on camera on October 7 that he "used to say to him the ticket in 2028 is going to be Vance Kirk" and that "between you and me and our listeners, I'm not giving up on the Vance Kirk ticket," and that "Erika would be an amazing president someday."
 
 Anchored Artifacts: A-2441.1
-Mentions: N-16
-Related Nodes: N-11348
+Mentions: N-7
+Related Nodes: N-10858
 Investigative Direction: Identify the full program (radio/podcast); determine whether the comments were on-air or pre-produced.
 
 ---
@@ -419,8 +419,8 @@ Claim Timestamp: 00:21:50
 Claim: Mikey McQuaid stated on camera that Charlie "left behind these blueprints for her" (Erika) and "for you" (McQuaid).
 
 Anchored Artifacts: A-2442.1
-Mentions: N-272
-Related Nodes: N-11348
+Mentions: N-194
+Related Nodes: N-10858
 Investigative Direction: Identify source program and date; determine what McQuaid claims the "blueprints" to be.
 
 ---
@@ -504,7 +504,7 @@ Claim Timestamp: 00:48:30
 Claim: White House Press Secretary Karoline Leavitt stated on camera that "President Trump wisely does not remove options off of the table" with respect to troops on the ground, characterizing the campaign as "largely an air campaign" but noting a draft is not off the table.
 
 Anchored Artifacts: A-2450.1
-Mentions: N-5, N-446
+Mentions: N-5, N-286
 Investigative Direction: Identify press briefing date and full transcript; review whether Levitt explicitly addressed a draft or only troops on the ground.
 
 ---
@@ -516,7 +516,7 @@ Claim Timestamp: 00:26:00
 Claim: Comedian Tim Dillon stated on camera that "there's a very good chance that this woman was his handler" and that "she may have loved him… even though she was his Mossad handler and probably had him killed."
 
 Anchored Artifacts: A-2444.1
-Mentions: N-2, N-443, N-1
+Mentions: N-2, N-283, N-1
 Investigative Direction: Identify the original podcast episode (Tim Dillon Show) and date; confirm language is unedited.
 
 ---
@@ -549,7 +549,7 @@ Confidence: high
 - **Claim failed admission test – Framing Premise:** "I believe that Charlie Kirk was the first casualty of the war in Iran" (host framing premise, not artifact-anchored in this episode).
 - **Claim failed admission test – Framing Premise:** "He was betrayed. Charlie Kirk was the first casualty of the war in Iran. I'm certain of that" (host framing premise).
 - **Claim failed admission test – Framing Premise:** "It's my belief… that he was intentionally sacrificed" (host framing premise, supported only by analogy to A-2439.1, not by direct evidence).
-- **Claim failed admission test – Speculation / Interpretive Commentary:** "Charlie was indeed seated in the center of a pentagon when he was killed" (host inference; no in-episode artifact depicting actual seating geometry – flagged under investigation target N-11346).
+- **Claim failed admission test – Speculation / Interpretive Commentary:** "Charlie was indeed seated in the center of a pentagon when he was killed" (host inference; no in-episode artifact depicting actual seating geometry – flagged under investigation target N-10856).
 - **Claim failed admission test – Speculation:** "Only a psychopath could… offer a raise to Dan Flood… and give an in-home interview to the New York Times" (host psychological inference; no artifact shown in this episode).
 
 ---
@@ -576,11 +576,11 @@ Confidence: high
 **Claim Range:** C-3568–C-3583
 
 **New Nodes Introduced:**
-- N-531 Father Ripperger
-- N-443 Tim Dillon
-- N-11346 Pentagon Seating Geometry Claim (investigation target)
-- N-11347 "Freemason Bible" Document Authentication (investigation target)
-- N-11348 Erika Kirk Presidential Viability Narrative (investigation target)
+- N-331 Father Ripperger
+- N-283 Tim Dillon
+- N-10856 Pentagon Seating Geometry Claim (investigation target)
+- N-10857 "Freemason Bible" Document Authentication (investigation target)
+- N-10858 Erika Kirk Presidential Viability Narrative (investigation target)
 
 **Existing Nodes Reused (illustrative):**
 - N-1 Charlie Kirk

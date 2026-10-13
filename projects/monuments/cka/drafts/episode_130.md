@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 4a7df4953927c48a49d7120e7fa31a7ac76cd464f006ffebfaad184d8fa0f1ee
 
 - **Episode Ledger Summary**:
- - New Nodes Introduced: N-11143, N-11144, N-11145, N-11146
- - Reused Nodes Appearing: N-57
+ - New Nodes Introduced: N-10744, N-10745, N-10746, N-10747
+ - Reused Nodes Appearing: N-28
  - (see registers)
 
 ## 2. Executive Summary
@@ -72,7 +72,7 @@ Video Timestamp: 00:36:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3110, C-3111, C-3112, C-3113, N-42*
+*Related: C-3110, C-3111, C-3112, C-3113, N-14*
 
 **A-2175** Daily Mail Comment-Request Email Bundle
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3111, N-42*
+*Related: C-3111, N-14*
 
 **A-2176** Blake Neff Interview Clip Bundle
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:45:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3114, N-224, N-11145*
+*Related: C-3114, N-162, N-10746*
 
 **A-2177** Seamstress Email Bundle
 
@@ -167,7 +167,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 ## 4. Node Register
 
-**N-11143** Howard Hughes Death Investigation
+**N-10744** Howard Hughes Death Investigation
 
 Persistent discrepancy between the official cause of death (kidney failure) and host-narrated findings of fatal codeine injection, malnutrition, bed sores, and five broken hypodermic needles in arm flesh.
 
@@ -178,7 +178,7 @@ Investigative Pressure: Low
 
 *Related: A-2173.1*
 
-**N-11144** Daily Mail Article Sourcing Question
+**N-10745** Daily Mail Article Sourcing Question
 
 Persistent question of who provided the on-the-record quotes about Candace Owens in the Daily Mail article; host names "Tracy" as her guess; Kolvet disputes origin via A-2174.1.
 
@@ -187,9 +187,9 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2174.1, A-2175.1, C-3110, C-3111, C-3112, C-3113, N-2, N-42*
+*Related: A-2174.1, A-2175.1, C-3110, C-3111, C-3112, C-3113, N-2, N-14*
 
-**N-11145** 9/10 Phone Discrepancy (Mikey two phones)
+**N-10746** 9/10 Phone Discrepancy (Mikey two phones)
 
 Persistent open-question of whether Mikey possessed two phones on 9/10; Neff's phrasing "I put that phone away" (A-2176.1) is noted as linguistically suggestive of a second phone.
 
@@ -198,9 +198,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2176.1, C-3114, N-224*
+*Related: A-2176.1, C-3114, N-162*
 
-**N-11146** TPUSA Inner Circle Composition Question
+**N-10747** TPUSA Inner Circle Composition Question
 
 Persistent question of LDS staffing inside TPUSA leadership; introduced this episode via host's account of Charlie Kirk's UVU remarks (not artifact-displayed in this episode) and connections drawn from A-2173.1.
 
@@ -213,7 +213,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-57** Mitt Romney
+**N-28** Mitt Romney
 
 Node Type: Person
 Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.
@@ -253,7 +253,7 @@ Claim Timestamp: 00:14:54
 Claim: A 1976 Time magazine article titled "The Keepers of the King" states that six Mormon aides, recruited by the Summa Corporation and led by Bill Gay, attended Howard Hughes in 8-hour shifts, were paid up to $110,000 per year, censored his communications, and controlled his public image.
 
 Anchored Artifacts: A-2173.1
-Related Nodes: N-11146
+Related Nodes: N-10747
 
 Investigative Direction: Obtain the full 1976 Time article and corroborating contemporaneous coverage; cross-reference Summa Corporation employment records for Bill Gay and the named assistants.
 
@@ -264,8 +264,8 @@ Claim Timestamp: 00:36:31
 Claim: Andrew Kolvet's X post asserts that Candace Owens was behind the Daily Mail article and used it as "rage bait."
 
 Anchored Artifacts: A-2174.1
-Mentions: N-42, N-3
-Related Nodes: N-11144
+Mentions: N-14, N-3
+Related Nodes: N-10745
 
 Investigative Direction: Verify by retrieving the original Kolvet tweet thread via archive; cross-check against A-2175.1 comment-request email to assess which side's account of pre-publication contact is supported.
 
@@ -276,8 +276,8 @@ Claim Timestamp: 00:36:31
 Claim: Andrew Kolvet's X post asserts that the Daily Mail did not send the Kirk organization a request for comment before publication.
 
 Anchored Artifacts: A-2174.1
-Mentions: N-42
-Related Nodes: N-11144
+Mentions: N-14
+Related Nodes: N-10745
 
 Investigative Direction: Verify by retrieving the Daily Mail comment-request email (A-2175.1) and matching timestamps; check whether the email originated from the same Daily Mail address that published the article.
 
@@ -288,8 +288,8 @@ Claim Timestamp: 00:36:31
 Claim: Andrew Kolvet's X post asserts that the Daily Mail updated the article to retract the claim that the source was a member of the Kirk family.
 
 Anchored Artifacts: A-2174.1
-Mentions: N-42
-Related Nodes: N-11144
+Mentions: N-14
+Related Nodes: N-10745
 
 Investigative Direction: Retrieve current and archived versions of the Daily Mail article to verify the retraction and its scope.
 
@@ -300,7 +300,7 @@ Claim Timestamp: 00:36:31
 Claim: Andrew Kolvet's X post asserts that Erika has never been heard to swear, privately or publicly.
 
 Anchored Artifacts: A-2174.1
-Mentions: N-2, N-42
+Mentions: N-2, N-14
 
 Investigative Direction: Verify against archived video appearances and any prior recorded interviews; check against host's contested examples (e.g., pageant-era footage).
 
@@ -311,8 +311,8 @@ Claim Timestamp: 00:45:08
 Claim: In an interview clip played on air, Blake Neff describes his actions on 9/10 using the phrasing "I put that phone away," which the host notes is linguistically unusual unless a second phone is implied.
 
 Anchored Artifacts: A-2176.1
-Mentions: N-224
-Related Nodes: N-11145
+Mentions: N-162
+Related Nodes: N-10746
 
 Investigative Direction: Retrieve the full unedited Blake Neff interview segment; cross-reference with any video showing Mikey holding two devices.
 

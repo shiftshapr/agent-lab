@@ -30,7 +30,7 @@
             "C-2885"
           ],
           "related_nodes": [
-            "N-11065"
+            "N-10667"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -56,8 +56,8 @@
             "C-2884"
           ],
           "related_nodes": [
-            "N-10207",
-            "N-11065"
+            "N-10141",
+            "N-10667"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -83,8 +83,8 @@
             "C-2886"
           ],
           "related_nodes": [
-            "N-70",
-            "N-11065"
+            "N-41",
+            "N-10667"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -110,8 +110,8 @@
             "C-2887"
           ],
           "related_nodes": [
-            "N-10207",
-            "N-11065"
+            "N-10141",
+            "N-10667"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -140,7 +140,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-11061"
+            "N-10664"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -160,7 +160,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-11061"
+            "N-10664"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -186,7 +186,7 @@
             "C-2893"
           ],
           "related_nodes": [
-            "N-11061"
+            "N-10664"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -212,7 +212,7 @@
             "C-2890"
           ],
           "related_nodes": [
-            "N-11061"
+            "N-10664"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -230,7 +230,7 @@
             "C-2891"
           ],
           "related_nodes": [
-            "N-11061"
+            "N-10664"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -258,7 +258,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-11061"
+            "N-10664"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -329,7 +329,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-11062"
+            "N-10665"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -348,7 +348,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-11062"
+            "N-10665"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -367,7 +367,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-11062"
+            "N-10665"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -393,7 +393,7 @@
             "C-2898"
           ],
           "related_nodes": [
-            "N-11062"
+            "N-10665"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -419,7 +419,7 @@
             "C-2901"
           ],
           "related_nodes": [
-            "N-11064"
+            "N-10666"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -437,7 +437,7 @@
             "C-2902"
           ],
           "related_nodes": [
-            "N-11064"
+            "N-10666"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -463,7 +463,7 @@
             "C-2903"
           ],
           "related_nodes": [
-            "N-11064"
+            "N-10666"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -491,7 +491,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10444"
+            "N-10373"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -510,7 +510,7 @@
             "C-2907"
           ],
           "related_nodes": [
-            "N-10444"
+            "N-10373"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -529,7 +529,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10444"
+            "N-10373"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -544,8 +544,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11061",
-      "ref": "N-11061",
+      "@id": "N-10664",
+      "ref": "N-10664",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
       "type": "investigation_target",
       "description": "Persistent investigation target: whether the released TPUSA audio of Charlie Kirk nominating Erika as CEO is authentic, AI-generated, or fabricated. Supported by donor testimony, AI-voice source, and Blake Neff's prior AI concern.",
@@ -577,8 +577,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11062",
-      "ref": "N-11062",
+      "@id": "N-10665",
+      "ref": "N-10665",
       "name": "Erika Kirk Educational Credentials Discrepancy",
       "type": "investigation_target",
       "description": "Investigation target: reconciliation of Erika Kirk's LinkedIn degree claims (ASU magna/summa laude, double degree in political science & international relations, Liberty University Ed.D.) with public records showing no honors, no double degree, and ASU not offering the international relations degree in 2012.",
@@ -605,8 +605,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11064",
-      "ref": "N-11064",
+      "@id": "N-10666",
+      "ref": "N-10666",
       "name": "Nick Shirley Background and Backing Verification",
       "type": "investigation_target",
       "description": "Investigation target: verification of Nick Shirley's claimed journalism credentials, plausibility of his Brazilian favela infiltration story, and identification of who is backing him in the media ecosystem.",
@@ -628,8 +628,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11065",
-      "ref": "N-11065",
+      "@id": "N-10667",
+      "ref": "N-10667",
       "name": "Project Constitution / TPUSA Divorce Rumor Verification",
       "type": "investigation_target",
       "description": "Investigation target: whether the Project Constitution divorce rumor regarding Andrew Kolvet had a factual basis, and the proportionality of TPUSA's response.",
@@ -651,7 +651,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-70"
+        "N-41"
       ]
     },
     {
@@ -688,8 +688,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-41",
+      "ref": "N-41",
       "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
@@ -704,8 +704,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-37",
-      "ref": "N-37",
+      "@id": "N-11",
+      "ref": "N-11",
       "name": "Tyler Bowyer",
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
@@ -719,8 +719,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10444",
-      "ref": "N-10444",
+      "@id": "N-10373",
+      "ref": "N-10373",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
       "type": "investigation_target",
       "description": "Investigation target: whether Brian Harpole was present at Fort Huachuca on the date alleged by Mitch, given the disputed alibi photo, the flight records that do not cover the alleged sighting window, and Paramount Tactical's admission the alibi photo is not of Erika's son.",
@@ -763,8 +763,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
@@ -779,8 +779,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-88",
-      "ref": "N-88",
+      "@id": "N-57",
+      "ref": "N-57",
       "name": "Patrick Bet-David",
       "type": "person",
       "description": "Host of PBD Podcast; platform through which Sosnick segment was aired.",
@@ -795,8 +795,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-135",
-      "ref": "N-135",
+      "@id": "N-99",
+      "ref": "N-99",
       "name": "Alex Clark",
       "type": "person",
       "description": "Podcaster named by host and defended by AllieBeth Stuckey (A-1537.1) against host's accusation of misrepresenting Charlie Kirk's stance on architecture.",
@@ -811,8 +811,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-217",
-      "ref": "N-217",
+      "@id": "N-157",
+      "ref": "N-157",
       "name": "John Mappin",
       "type": "person",
       "description": "Referenced by viewer comment \"fam\"; author of \"The Perfumed Pervert\" essay.",
@@ -827,8 +827,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
@@ -843,8 +843,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -859,8 +859,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-552",
-      "ref": "N-552",
+      "@id": "N-337",
+      "ref": "N-337",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
@@ -875,8 +875,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-686",
-      "ref": "N-686",
+      "@id": "N-441",
+      "ref": "N-441",
       "name": "John Amanchukwu",
       "type": "person",
       "description": "First named by the host at 00:07:32 in episode 102.",
@@ -893,8 +893,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-687",
-      "ref": "N-687",
+      "@id": "N-442",
+      "ref": "N-442",
       "name": "Kimberly Klacik",
       "type": "person",
       "description": "First named by the host at 00:09:42 in episode 102. Aliases: Kim Klacik.",
@@ -910,8 +910,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-679",
-      "ref": "N-679",
+      "@id": "N-434",
+      "ref": "N-434",
       "name": "Marcus Wada",
       "type": "person",
       "description": "First named by the host at 00:42:41 in episode 92.",
@@ -936,13 +936,13 @@
         "A-2063.1"
       ],
       "related_nodes": [
-        "N-11065"
+        "N-10667"
       ],
       "tags": [],
       "claim_timestamp": "00:01:44",
       "investigative_direction": "Verify the exact wording of Kolvet's post and timestamp against X archives; identify whether any divorce filings exist in Arizona court records.",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -955,13 +955,13 @@
         "A-2062.1"
       ],
       "related_nodes": [
-        "N-11065"
+        "N-10667"
       ],
       "tags": [],
       "claim_timestamp": "00:01:44",
       "investigative_direction": "Identify the author and posting history of the Project Constitution account; obtain the original post content and any cited basis.",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -974,13 +974,13 @@
         "A-2064.1"
       ],
       "related_nodes": [
-        "N-11065"
+        "N-10667"
       ],
       "tags": [],
       "claim_timestamp": "00:02:41",
       "investigative_direction": "Verify the original X post and any subsequent posts by Bowyer; cross-reference his stated history of false rumors.",
       "mentions_person_refs": [
-        "N-37"
+        "N-11"
       ]
     },
     {
@@ -993,14 +993,14 @@
         "A-2065.1"
       ],
       "related_nodes": [
-        "N-11065"
+        "N-10667"
       ],
       "tags": [],
       "claim_timestamp": "00:02:41",
       "investigative_direction": "Verify the original post; check WHCD invitation lists if publicly available.",
       "mentions_person_refs": [
-        "N-42",
-        "N-224"
+        "N-14",
+        "N-162"
       ]
     },
     {
@@ -1015,7 +1015,7 @@
         "A-2069.1"
       ],
       "related_nodes": [
-        "N-11061"
+        "N-10664"
       ],
       "tags": [],
       "claim_timestamp": "00:04:12",
@@ -1035,7 +1035,7 @@
         "A-2066.1"
       ],
       "related_nodes": [
-        "N-11061"
+        "N-10664"
       ],
       "tags": [],
       "claim_timestamp": "00:05:53",
@@ -1054,14 +1054,14 @@
         "A-2068.1"
       ],
       "related_nodes": [
-        "N-11061"
+        "N-10664"
       ],
       "tags": [],
       "claim_timestamp": "00:07:32",
       "investigative_direction": "Verify Wada's TPUSA employment and the scope of his AI services; identify any other clients or projects; obtain a sample of his AI-generated voice work.",
       "mentions_person_refs": [
-        "N-686",
-        "N-679"
+        "N-441",
+        "N-434"
       ]
     },
     {
@@ -1074,13 +1074,13 @@
         "A-2068.2"
       ],
       "related_nodes": [
-        "N-11061"
+        "N-10664"
       ],
       "tags": [],
       "claim_timestamp": "00:07:32",
       "investigative_direction": "Obtain a TPUSA presentation featuring the contested voice; verify with Pastor Amanchukwu whether he consented to voice cloning; secure source's full statement.",
       "mentions_person_refs": [
-        "N-686"
+        "N-441"
       ]
     },
     {
@@ -1093,14 +1093,14 @@
         "A-2069.1"
       ],
       "related_nodes": [
-        "N-11061"
+        "N-10664"
       ],
       "tags": [],
       "claim_timestamp": "00:09:42",
       "investigative_direction": "Verify Mappin's original X post and identify the donor he referenced; obtain Mappin's full statement.",
       "mentions_person_refs": [
         "N-1",
-        "N-217"
+        "N-157"
       ]
     },
     {
@@ -1113,14 +1113,14 @@
         "A-2067.1"
       ],
       "related_nodes": [
-        "N-11061"
+        "N-10664"
       ],
       "tags": [],
       "claim_timestamp": "00:09:42",
       "investigative_direction": "Verify the original post; obtain TPUSA board meeting minutes documenting Erika's CEO election.",
       "mentions_person_refs": [
         "N-2",
-        "N-687"
+        "N-442"
       ]
     },
     {
@@ -1167,7 +1167,7 @@
         "A-2071.1"
       ],
       "related_nodes": [
-        "N-11062"
+        "N-10665"
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",
@@ -1186,7 +1186,7 @@
         "A-2071.2"
       ],
       "related_nodes": [
-        "N-11062"
+        "N-10665"
       ],
       "tags": [],
       "claim_timestamp": "00:18:10",
@@ -1205,13 +1205,13 @@
         "A-2072.1"
       ],
       "related_nodes": [
-        "N-11062"
+        "N-10665"
       ],
       "tags": [],
       "claim_timestamp": "00:18:59",
       "investigative_direction": "Obtain ASU's archived 2012 course catalog directly from the university or library archives; verify the degree offerings list.",
       "mentions_person_refs": [
-        "N-552",
+        "N-337",
         "N-2"
       ]
     },
@@ -1225,7 +1225,7 @@
         "A-2071.3"
       ],
       "related_nodes": [
-        "N-11062"
+        "N-10665"
       ],
       "tags": [],
       "claim_timestamp": "00:18:59",
@@ -1244,7 +1244,7 @@
         "A-2073.1"
       ],
       "related_nodes": [
-        "N-11064"
+        "N-10666"
       ],
       "tags": [],
       "claim_timestamp": "00:26:59",
@@ -1261,13 +1261,13 @@
         "A-2073.2"
       ],
       "related_nodes": [
-        "N-11064"
+        "N-10666"
       ],
       "tags": [],
       "claim_timestamp": "00:28:51",
       "investigative_direction": "Obtain the full PBD interview clip and timestamp; verify PBD's framing of prior coverage.",
       "mentions_person_refs": [
-        "N-88",
+        "N-57",
         "N-3"
       ]
     },
@@ -1281,14 +1281,14 @@
         "A-2074.1"
       ],
       "related_nodes": [
-        "N-11064"
+        "N-10666"
       ],
       "tags": [],
       "claim_timestamp": "00:30:15",
       "investigative_direction": "Verify the original post and Alex Clark's relationship with Nick Shirley.",
       "mentions_person_refs": [
         "N-3",
-        "N-135"
+        "N-99"
       ]
     },
     {
@@ -1301,13 +1301,13 @@
         "A-2075.1"
       ],
       "related_nodes": [
-        "N-10444"
+        "N-10373"
       ],
       "tags": [],
       "claim_timestamp": "00:49:33",
       "investigative_direction": "Verify the flight records independently through airline records or TSA; obtain Brian Harpole's full itinerary for the date in question.",
       "mentions_person_refs": [
-        "N-424"
+        "N-272"
       ]
     },
     {
@@ -1320,13 +1320,13 @@
         "A-2075.2"
       ],
       "related_nodes": [
-        "N-10444"
+        "N-10373"
       ],
       "tags": [],
       "claim_timestamp": "00:52:24",
       "investigative_direction": "Locate the original alibi photo and Andrew Kolvet's accompanying message; verify provenance.",
       "mentions_person_refs": [
-        "N-42",
+        "N-14",
         "N-2"
       ]
     },
@@ -1340,7 +1340,7 @@
         "A-2075.3"
       ],
       "related_nodes": [
-        "N-10444"
+        "N-10373"
       ],
       "tags": [],
       "claim_timestamp": "00:52:24",
@@ -1360,14 +1360,14 @@
         "A-2075.3"
       ],
       "related_nodes": [
-        "N-10444"
+        "N-10373"
       ],
       "tags": [],
       "claim_timestamp": "00:52:24",
       "investigative_direction": "Obtain direct evidence of coordination (emails, DMs, communications); obtain statement from Kolvet, Paramount Tactical, and Valhalla.",
       "mentions_person_refs": [
-        "N-42",
-        "N-424"
+        "N-14",
+        "N-272"
       ]
     },
     {
@@ -1380,13 +1380,13 @@
         "A-2075.1"
       ],
       "related_nodes": [
-        "N-10444"
+        "N-10373"
       ],
       "tags": [],
       "claim_timestamp": "00:45:18",
       "investigative_direction": "Obtain Candace's documented record of the interview; verify the flight records independently.",
       "mentions_person_refs": [
-        "N-424",
+        "N-272",
         "N-2"
       ]
     }

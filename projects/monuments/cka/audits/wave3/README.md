@@ -10,8 +10,8 @@ Date: 2026-10-08 PT. Branch `cka-adv-wave3` from main `26f2115a3927de7e4ed5926fa
 - B2: 99 draft-only ids synced into inscription + `inscription_missing` P1 gate + tests (documented in `DIA_PREFLIGHT.md`)
 - B3: `cited_before_intro` covers topics in strict mode + test
 - B4: legacy-N-997 reason → N-628; mentions_backfill C-1830 → N-628
-- B5: A-1696.1 / N-10535 description; N-279 alias "Robert Craft"; hole-mint README note
-- B6: N-525 Root Brands → N-11393 org tip-mint; `next_investigation_id` 2394
+- B5: A-1696.1 / N-1535 description; N-279 alias "Robert Craft"; hole-mint README note
+- B6: N-525 Root Brands → N-2393 org tip-mint; `next_investigation_id` 2394
 - B7: `transcript_before_graph.csv` (74 rows)
 
 ### Orphan persons (dense hole mint)
@@ -21,10 +21,10 @@ See `orphan_mint_map.csv` (old id → new id for all 49 mints) / `orphan_persons
 M-74..M-84 minted, numbered densely by first introduction within the batch (`meme_renumber_map.csv`, `memes_decisions.csv`); next_id **85**. M-85 Bride of Charlie rejected (series/work title → Wave 4 Thing debt). Lo and Behold (M-83) qualifies (26 hits / 20 episodes). Yanking = M-24 reuse; Frank Turek rejected as meme.
 
 ### Steering correctness (Oct 8)
-1. **ep150 offset bug:** Related Nodes emptied on wrong N-12xx cites; Mentions remapped to grounded globals (N-1/N-3/N-5/N-56/N-182); A-2352.1 related fixed; spray nodes N-10207..1215 removed from inscription. N-56 Ye Mentions on short-token claims deferred (`ep150_ye_mentions_note.md`).
+1. **ep150 offset bug:** Related Nodes emptied on wrong N-12xx cites; Mentions remapped to grounded globals (N-1/N-3/N-5/N-56/N-182); A-2352.1 related fixed; spray nodes N-1207..1215 removed from inscription. N-56 Ye Mentions on short-token claims deferred (`ep150_ye_mentions_note.md`).
 2. **"former local id" cleanup** on 17 drafts (082, 085, 091, 097, 126, 128, 130, 132, 133, 134, 144, 145, 147, 150, 152, 153, 155). Offset residue also scrubbed from inscription (`inscription_orphan_refs_removed.csv`, 373 rows) and canonical episode lists (`canonical_episode_list_fixes.csv`, 130).
 3. **C-1971** claim_timestamp stamped `00:19:30` (draft + inscription).
-4. **ep128 C-3072:** Related N-11132 only; Mentions N-192.
+4. **ep128 C-3072:** Related N-2132 only; Mentions N-192.
 5. **ep93:** ungrounded N-576 Mention removed from C-2760 (intro is ep107).
 6. Family-only inscription `bundle_name` overruns fixed (20 entries).
 
@@ -80,7 +80,7 @@ Every row of the new fixes.csv (9) and findings.csv (F1–F10) has a row in `fix
   - C-3764 is now anchored by A-2127.2 (ep124 01:07:02).
   - "bounty" is added to `config/dia_scan_terms.json`. The corpus re-scan adds 9 `dia_bounty_rescan` rows to `dia_gaps_triage.csv`.
 - **Viewer handles.** 17 viewer/commenter handles moved DEFER → REJECT. Real persons waiting for band capacity: **95** (112 − 17). This push adds two new DEFERs, Matt Robinson (ep124) and Gary Javitch (caption: Jabitch/Jabach; ep131), for **97** in total. General Holt is a same-person DEFER for Blaine Holt and is not counted as waiting.
-- **Triage reasons.** 14 false REJECTs → KNOWN (incl. Gernot N-184, Pastor Hibbs/Hibs N-309, Danny Danny N-611, Theo Vaughn N-205). Project Looking Glass and its short form "Looking Glass" → KNOWN N-10484. The remaining org/work DEFERs are relabelled kind organization (98) / topic (29). Placeholder-timestamp KNOWNs re-checked:
+- **Triage reasons.** 14 false REJECTs → KNOWN (incl. Gernot N-184, Pastor Hibbs/Hibs N-309, Danny Danny N-611, Theo Vaughn N-205). Project Looking Glass and its short form "Looking Glass" → KNOWN N-1484. The remaining org/work DEFERs are relabelled kind organization (98) / topic (29). Placeholder-timestamp KNOWNs re-checked:
   - ep80 rows → REJECT and KNOWN C-2507;
   - ep94 → KNOWN C-2773;
   - A-2121.1 timestamp set to 00:14:07.
@@ -93,7 +93,7 @@ Every row of the new fixes.csv (9) and findings.csv (F1–F10) has a row in `fix
   - N-161 retired (`legacy-N-161`, no survivor; not reused while the person band lock is in force, pending Daveed). C-3730 and A-2519.3 keep N-1 only.
   - Canonical names cleaned: N-877 Helmut Becker, N-713 Paul Havsgaard, N-365 Shauni Kerkhoff, N-193 Judge Tony F. Graf Jr. The old spellings are kept as aliases.
   - C-3743 has a transcript snippet.
-- **Person band lock** (until Daveed rules). N-1..N-999 is full. While it is in force, retired or tombstoned ids are not reused and no person is minted at N-10000 or above (the reuse policy itself is pending with Daveed); new persons are DEFER "person band full, awaiting Daveed". This is written in `config/preflight_gates.json` (`person_band_lock`), `cka/README.md` and `docs/DAY0.md`, and is enforced by the new P1 preflight gate `person_band_lock` (hardened after baa2ed9, see below).
+- **Person band lock** (until Daveed rules). N-1..N-999 is full. While it is in force, retired or tombstoned ids are not reused and no person is minted at N-1000 or above (the reuse policy itself is pending with Daveed); new persons are DEFER "person band full, awaiting Daveed". This is written in `config/preflight_gates.json` (`person_band_lock`), `cka/README.md` and `docs/DAY0.md`, and is enforced by the new P1 preflight gate `person_band_lock` (hardened after baa2ed9, see below).
 - **Wave 4 debt.** F10 (named_before_intro debt) and F4 (skeletons) are logged in `wave4_event_thing_debt.md`.
 
 ## Resubmission after Transit FAIL at baa2ed9 (0 P0 / 1 P1 / 9 P2)
@@ -122,7 +122,7 @@ Transit accepted F4 (skeletons) and F10 (named_before_intro debt) as Wave 4 debt
   - Snippet (verbatim): "Bill Ackman brought receipts. How long was that tweet? It's still going. I think he was there in the room."
   - It carries `Contradicts: C-1212` and no Revises. C-1212 is unchanged.
 - **G5:** see the Companion section above.
-- **G6: Gary's surname.** The DEFER row is now "Gary Javitch (caption: Jabitch/Jabach)". C-3767, A-2524.1, the executive summary and the N-11147 description now say "Gary Javitch (caption: Jabitch/Jabach; spelling unverified)" or give the transcript surname with that hedge. C-3768's Uncertainty says no surname is asserted. Quotes are unchanged, and the video spelling check comes before any id.
+- **G6: Gary's surname.** The DEFER row is now "Gary Javitch (caption: Jabitch/Jabach)". C-3767, A-2524.1, the executive summary and the N-2147 description now say "Gary Javitch (caption: Jabitch/Jabach; spelling unverified)" or give the transcript surname with that hedge. C-3768's Uncertainty says no surname is asserted. Quotes are unchanged, and the video spelling check comes before any id.
 - **G7: N-165 "Lance Robinson" retired.**
   - It is now `legacy-N-165` with **no survivor**. Its only refs (the C-1294 Mention and the Related lines on C-1294 / A-1167.1) are the doorbell tip, which is not about Lance Twiggs, so they are dropped rather than repointed to N-84.
   - No alias is kept, and it is not repointed to Matt Robinson.

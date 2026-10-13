@@ -30,8 +30,8 @@
             "C-2419"
           ],
           "related_nodes": [
-            "N-35",
-            "N-953"
+            "N-9",
+            "N-583"
           ],
           "tags": [],
           "event_timestamp": "2012",
@@ -61,9 +61,9 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-42",
-            "N-272",
-            "N-224"
+            "N-14",
+            "N-194",
+            "N-162"
           ],
           "tags": [],
           "event_timestamp": "2026-01-29",
@@ -89,7 +89,7 @@
             "C-2434"
           ],
           "related_nodes": [
-            "N-954"
+            "N-584"
           ],
           "tags": [],
           "event_timestamp": "Unknown (prior to 2026-03-10)",
@@ -125,8 +125,8 @@
             "C-2424"
           ],
           "related_nodes": [
-            "N-35",
-            "N-951"
+            "N-9",
+            "N-582"
           ],
           "tags": [],
           "event_timestamp": "Prior to Epstein's 2019 arrest",
@@ -152,9 +152,9 @@
             "C-2425"
           ],
           "related_nodes": [
-            "N-35",
-            "N-916",
-            "N-960"
+            "N-9",
+            "N-569",
+            "N-585"
           ],
           "tags": [],
           "event_timestamp": "Prior to 2019",
@@ -180,8 +180,8 @@
             "C-2426"
           ],
           "related_nodes": [
-            "N-916",
-            "N-960"
+            "N-569",
+            "N-585"
           ],
           "tags": [],
           "event_timestamp": "Prior to 2026-03-10",
@@ -208,8 +208,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-42",
-            "N-10591"
+            "N-14",
+            "N-10519"
           ],
           "tags": [],
           "event_timestamp": "Approximately 2026-03-08 (48 hours prior to broadcast)",
@@ -236,7 +236,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10593"
+            "N-10521"
           ],
           "tags": [],
           "event_timestamp": "2025-09-08 09:49 AZ",
@@ -263,7 +263,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10593"
+            "N-10521"
           ],
           "tags": [],
           "event_timestamp": "2025-09-08 10:49 AZ",
@@ -310,7 +310,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10593"
+            "N-10521"
           ],
           "tags": [],
           "event_timestamp": "2025-09-08",
@@ -337,8 +337,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-16",
-            "N-10593"
+            "N-7",
+            "N-10521"
           ],
           "tags": [],
           "event_timestamp": "Approximately 2025-09-08 evening (per host: Monday)",
@@ -366,7 +366,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-224"
+            "N-162"
           ],
           "tags": [],
           "event_timestamp": "Prior to 2026-03-10",
@@ -392,7 +392,7 @@
             "C-2433"
           ],
           "related_nodes": [
-            "N-224"
+            "N-162"
           ],
           "tags": [],
           "event_timestamp": "2026-03-10",
@@ -435,7 +435,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10593"
+        "N-10521"
       ]
     },
     {
@@ -461,15 +461,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10591",
-        "N-10592",
-        "N-10593"
+        "N-10519",
+        "N-10520",
+        "N-10521"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-35",
-      "ref": "N-35",
+      "@id": "N-9",
+      "ref": "N-9",
       "name": "Jeffrey Epstein",
       "type": "person",
       "description": "Alleged connective node across multiple artifact families in this episode (A-1809, A-1812, A-1813, A-1814). May have existing ledger ID – cross-reference required.",
@@ -494,8 +494,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-951",
-      "ref": "N-951",
+      "@id": "N-582",
+      "ref": "N-582",
       "name": "Faith Kates",
       "type": "person",
       "description": "Co-founder of Next Model Management (NYC) referenced as central to Epstein's email network (~4,000 emails) and as the subject of A-1812 artifacts.",
@@ -513,14 +513,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-35",
-        "N-10591"
+        "N-9",
+        "N-10519"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-953",
-      "ref": "N-953",
+      "@id": "N-583",
+      "ref": "N-583",
       "name": "Martha Louise of Norway",
       "type": "person",
       "description": "Norwegian princess; correspondent with Jeffrey Epstein (A-1809.1).",
@@ -536,13 +536,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-35"
+        "N-9"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-954",
-      "ref": "N-954",
+      "@id": "N-584",
+      "ref": "N-584",
       "name": "Father Chad Ripberger",
       "type": "person",
       "description": "Catholic exorcist referenced in A-1811.1 discussing occult pedigree families.",
@@ -560,8 +560,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Turning Point USA figure referenced in A-1810.1 as having been in the West Wing on January 29, 2026 while presenting a pre-recorded interview as live. May have existing ledger ID – cross-reference required.",
@@ -578,13 +578,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10594"
+        "N-10522"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Referenced in A-1810.1 as allegedly accompanying Kolvet to the West Wing with his wife Elizabeth. Note: transcript spells name \"McCoy\" in one instance and \"McVoy\" in another – see Optional Flags.",
@@ -600,13 +600,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-42"
+        "N-14"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Subject of A-1820 and A-1821; referenced regarding Erika's alleged comments about Charlie and the faith revolution, and the producer relay on Rumble/Twitter stream divergence.",
@@ -630,8 +630,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Subject of A-1819.1 describing a Monday night walk with Charlie and Charlie's stated intent to improve on \"two major issues.\"",
@@ -648,13 +648,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-10593"
+        "N-10521"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-960",
-      "ref": "N-960",
+      "@id": "N-585",
+      "ref": "N-585",
       "name": "Pam Lehman",
       "type": "person",
       "description": "Per host, featured in the Epstein files and described as helping Epstein with real estate deals; context unclear.",
@@ -668,13 +668,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-916"
+        "N-569"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10591",
-      "ref": "N-10591",
+      "@id": "N-10519",
+      "ref": "N-10519",
       "name": "Erika Kirk Next Model Management Involvement",
       "type": "investigation_target",
       "description": "Persistent investigation target: what was the documented nature of Erika Kirk's meetings at Next Model Management NYC, where Faith Kates was a co-founder with documented Epstein ties?",
@@ -691,13 +691,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-951"
+        "N-582"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10592",
-      "ref": "N-10592",
+      "@id": "N-10520",
+      "ref": "N-10520",
       "name": "Erika Kirk Corcoran Real Estate Anomaly",
       "type": "investigation_target",
       "description": "Investigation target: documented record of Erika Kirk's Corcoran-issued New York real estate license and any completed transactions. Host reports no record of completed deals and flags potential \"back door\" licensure.",
@@ -710,14 +710,14 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-960",
-        "N-916"
+        "N-585",
+        "N-569"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10593",
-      "ref": "N-10593",
+      "@id": "N-10521",
+      "ref": "N-10521",
       "name": "Erika Kirk September 8 Presence Verification",
       "type": "investigation_target",
       "description": "Persistent investigation target: independent verification of Erika Kirk's whereabouts on September 8, 2025. Host reports no witness corroboration of Erika in the neighborhood; Frank Turek reference is to \"family\" dinner without naming Erika.",
@@ -745,13 +745,13 @@
       "related_nodes": [
         "N-1",
         "N-2",
-        "N-16"
+        "N-7"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10594",
-      "ref": "N-10594",
+      "@id": "N-10522",
+      "ref": "N-10522",
       "name": "January 29 West Wing Meeting Subject",
       "type": "investigation_target",
       "description": "Investigation target: subject matter of Andrew Kolvet / Mikey McCoy White House meeting on January 29, 2026 – the day before the Epstein files release. Why was the meeting pre-recorded and not publicized?",
@@ -769,14 +769,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-42",
-        "N-272"
+        "N-14",
+        "N-194"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10595",
-      "ref": "N-10595",
+      "@id": "N-10523",
+      "ref": "N-10523",
       "name": "Linda Rothschild Corcoran Group Presidency Verification",
       "type": "investigation_target",
       "description": "Investigation target: verification that Linda Rothschild was/is president of the Corcoran Group and the scope of her Epstein-file exposure.",
@@ -792,13 +792,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-916"
+        "N-569"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10596",
-      "ref": "N-10596",
+      "@id": "N-10524",
+      "ref": "N-10524",
       "name": "Faith Kates – Epstein Relationship Scope",
       "type": "investigation_target",
       "description": "Investigation target: scope and content of Faith Kates–Jeffrey Epstein email relationship (referenced ~4,000 times), including the bar mitzvah invitation context.",
@@ -816,8 +816,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-951",
-        "N-35"
+        "N-582",
+        "N-9"
       ]
     },
     {
@@ -838,8 +838,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
@@ -854,8 +854,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-344",
-      "ref": "N-344",
+      "@id": "N-229",
+      "ref": "N-229",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Podcast host of the Brian Harpole interview that the independent review and this episode treat as contradictory to review-team findings.",
@@ -870,8 +870,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-916",
-      "ref": "N-916",
+      "@id": "N-569",
+      "ref": "N-569",
       "name": "Lynn Forester de Rothschild",
       "type": "person",
       "description": "Subject of Epstein document entry listing her as Corcoran Group Inc. President.",
@@ -900,8 +900,8 @@
       "claim_timestamp": "00:07:04–00:07:57",
       "investigative_direction": "Obtain the underlying 2012 email(s) from the Epstein files release and verify both authorship and the quoted text.",
       "mentions_person_refs": [
-        "N-35",
-        "N-953"
+        "N-9",
+        "N-583"
       ]
     },
     {
@@ -914,16 +914,16 @@
         "A-1810.1"
       ],
       "related_nodes": [
-        "N-10594"
+        "N-10522"
       ],
       "tags": [],
       "claim_timestamp": "00:12:57–00:13:53",
       "investigative_direction": "Obtain independent White House visitor logs for January 29, 2026 to verify presence; obtain the pre-recorded episode audio.",
       "mentions_person_refs": [
-        "N-42",
-        "N-272",
+        "N-14",
+        "N-194",
         "N-3",
-        "N-102"
+        "N-69"
       ]
     },
     {
@@ -936,14 +936,14 @@
         "A-1810.1"
       ],
       "related_nodes": [
-        "N-10594"
+        "N-10522"
       ],
       "tags": [],
       "claim_timestamp": "00:13:53",
       "investigative_direction": "Compare the episode's audio/video metadata against the claimed broadcast time.",
       "mentions_person_refs": [
-        "N-42",
-        "N-102"
+        "N-14",
+        "N-69"
       ]
     },
     {
@@ -954,13 +954,13 @@
       "claim": "The Epstein files were released on January 30, 2026, the day after the January 29 Kolvet/McCoy West Wing meeting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10594"
+        "N-10522"
       ],
       "tags": [],
       "claim_timestamp": "00:15:55",
       "investigative_direction": "Confirm the official release date of the Epstein files and compare against the documented meeting date.",
       "mentions_person_refs": [
-        "N-35"
+        "N-9"
       ]
     },
     {
@@ -973,14 +973,14 @@
         "A-1812.1"
       ],
       "related_nodes": [
-        "N-10596"
+        "N-10524"
       ],
       "tags": [],
       "claim_timestamp": "00:22:10",
       "investigative_direction": "Search the publicly released Epstein email corpus for Kates-name frequency counts and sample contents.",
       "mentions_person_refs": [
-        "N-35",
-        "N-951"
+        "N-9",
+        "N-582"
       ]
     },
     {
@@ -993,14 +993,14 @@
         "A-1812.2"
       ],
       "related_nodes": [
-        "N-10596"
+        "N-10524"
       ],
       "tags": [],
       "claim_timestamp": "00:22:57",
       "investigative_direction": "Locate the specific Epstein-files email containing the bar mitzvah invitation and verify sender/recipient.",
       "mentions_person_refs": [
-        "N-35",
-        "N-951"
+        "N-9",
+        "N-582"
       ]
     },
     {
@@ -1017,9 +1017,9 @@
       "claim_timestamp": "00:27:39–00:28:26",
       "investigative_direction": "Search Epstein-files email corpus for Corcoran/Linda Rothschild references.",
       "mentions_person_refs": [
-        "N-35",
-        "N-916",
-        "N-960"
+        "N-9",
+        "N-569",
+        "N-585"
       ]
     },
     {
@@ -1032,13 +1032,13 @@
         "A-1814.1"
       ],
       "related_nodes": [
-        "N-10595"
+        "N-10523"
       ],
       "tags": [],
       "claim_timestamp": "00:28:26",
       "investigative_direction": "Verify Linda Rothschild's Corcoran role via corporate filings; obtain the background document referenced.",
       "mentions_person_refs": [
-        "N-916"
+        "N-569"
       ]
     },
     {
@@ -1051,14 +1051,14 @@
         "A-1815.1"
       ],
       "related_nodes": [
-        "N-10591"
+        "N-10519"
       ],
       "tags": [],
       "claim_timestamp": "00:24:35–00:26:09",
       "investigative_direction": "Confirm the email log; await response or non-response status update.",
       "mentions_person_refs": [
         "N-2",
-        "N-42",
+        "N-14",
         "N-3"
       ]
     },
@@ -1072,7 +1072,7 @@
         "A-1816.1"
       ],
       "related_nodes": [
-        "N-10593"
+        "N-10521"
       ],
       "tags": [],
       "claim_timestamp": "00:38:58",
@@ -1091,7 +1091,7 @@
         "A-1817.1"
       ],
       "related_nodes": [
-        "N-10593"
+        "N-10521"
       ],
       "tags": [],
       "claim_timestamp": "00:39:30",
@@ -1110,7 +1110,7 @@
         "A-1818.2"
       ],
       "related_nodes": [
-        "N-10593"
+        "N-10521"
       ],
       "tags": [],
       "claim_timestamp": "00:36:30–00:38:17",
@@ -1129,13 +1129,13 @@
         "A-1819.1"
       ],
       "related_nodes": [
-        "N-10593"
+        "N-10521"
       ],
       "tags": [],
       "claim_timestamp": "00:35:28–00:36:30",
       "investigative_direction": "Obtain full Turek interview; verify the date and content of the Monday walk.",
       "mentions_person_refs": [
-        "N-16",
+        "N-7",
         "N-1"
       ]
     },
@@ -1154,7 +1154,7 @@
       "investigative_direction": "Obtain the full Rumble-hosted Todd Chris episode; verify Neff's quoted statement in context.",
       "mentions_person_refs": [
         "N-1",
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -1172,7 +1172,7 @@
       "claim_timestamp": "00:55:30–00:56:41",
       "investigative_direction": "Compare the Twitter stream version to the Rumble-hosted version directly.",
       "mentions_person_refs": [
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -1189,8 +1189,8 @@
       "claim_timestamp": "00:10:14–00:11:17",
       "investigative_direction": "Obtain the full Ripberger clip and surrounding podcast context for verification.",
       "mentions_person_refs": [
-        "N-954",
-        "N-344"
+        "N-584",
+        "N-229"
       ]
     },
     {
@@ -1203,7 +1203,7 @@
         "A-1818.1"
       ],
       "related_nodes": [
-        "N-10593"
+        "N-10521"
       ],
       "tags": [],
       "claim_timestamp": "00:38:58",
@@ -1222,7 +1222,7 @@
         "A-1818.3"
       ],
       "related_nodes": [
-        "N-10593"
+        "N-10521"
       ],
       "tags": [],
       "claim_timestamp": "00:40:08",

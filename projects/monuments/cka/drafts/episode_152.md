@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: a4f178d69e8bc8d30d77b84650ec3497630fa5202686df6ed729ebeb114f0d63
 
 - **Episode Ledger Summary**:
- - New Nodes Introduced: N-11321, N-11322
- - Reused Nodes Appearing: N-37, N-810
- - Hole-minted Nodes (wave3): N-977
+ - New Nodes Introduced: N-10831, N-10832
+ - Reused Nodes Appearing: N-11, N-518
+ - Hole-minted Nodes (wave3): N-601
  - (see registers)
 
 ---
@@ -38,7 +38,7 @@
 
 Artifact Families Introduced: A-2374, A-2375, A-2376, A-2377, A-2378, A-2379, A-2380, A-2381, A-2382
 Claim Range: C-3445–C-3464
-New Nodes Introduced: N-11321, N-11322
+New Nodes Introduced: N-10831, N-10832
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -199,13 +199,13 @@ Confidence Level: Medium (host-categorized compilation; original sourcing per in
 
 ## IV. Node Register
 
-**N-977** Matt Tardio
+**N-601** Matt Tardio
 
 First named by the host at 00:35:04 in episode 152.
 
 *Related: C-3457, A-2379.1, A-2380.1*
 
-**N-11321** Search Warrant / Investigative Unit Pattern (Case Charlie Kirk)
+**N-10831** Search Warrant / Investigative Unit Pattern (Case Charlie Kirk)
 
 Persistent question of why individuals with specialized ICAC/SVU backgrounds were centrally positioned in handling the September 10 case (initial warrants, statement-taking).
 
@@ -217,7 +217,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11322** Trafficking-Pattern Claim (TPUSA / Kirk Circle)
+**N-10832** Trafficking-Pattern Claim (TPUSA / Kirk Circle)
 
 Persistent claim that a recurring pattern of trafficking / child sex abuse involvement exists across multiple TPUSA-adjacent individuals.
 
@@ -229,7 +229,7 @@ Investigative Pressure: High
 
 ---
 
-**N-37** Tyler Bowyer
+**N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -247,7 +247,7 @@ Claim Timestamp: 00:02:33–00:03:11
 Claim: The episode presents that the audio of the Looney Tunes-style clip aired regarding Terrell Farnsworth is unedited and real, with the host asserting the depicted behavior is consistent with prior suspicions.
 
 Anchored Artifacts: A-2374.1
-Mentions: N-410
+Mentions: N-267
 
 Related Nodes:
 
@@ -276,9 +276,9 @@ Claim Timestamp: 00:11:09
 Claim: The episode presents that Mike Mitchell's career was as an undercover detective in internet sex crimes against children, and that he was central in the Tyler Robinson surrender process.
 
 Anchored Artifacts: None in this episode (host assertion only)
-Mentions: N-69, N-176
+Mentions: N-40, N-126
 
-Related Nodes: N-11321
+Related Nodes: N-10831
 
 Investigative Direction: Obtain Mike Mitchell's personnel records / Utah County Sheriff's Office assignment history.*
 
@@ -293,9 +293,9 @@ Claim Timestamp: 00:11:56
 Claim: The episode presents that Bagley formerly worked in child sex crimes at the Utah County Sheriff's Office before transferring to UVU police in approximately 2022.
 
 Anchored Artifacts: None in this episode (host assertion only)
-Mentions: N-810
+Mentions: N-518
 
-Related Nodes: N-11321
+Related Nodes: N-10831
 
 Investigative Direction: Verify Bagley's personnel record with UVU police / Utah County Sheriff's Office.*
 
@@ -310,7 +310,7 @@ Claim Timestamp: 00:12:41
 Claim: The episode presents that following George Zinn's arrest, child pornography pertaining to a 5-year-old was discovered on his phone, and that he was sentenced for child sex crimes.
 
 Anchored Artifacts: None visible in this episode; New York Post coverage referenced but not displayed
-Mentions: N-71
+Mentions: N-42
 
 Related Nodes:
 
@@ -327,9 +327,9 @@ Claim Timestamp: 00:12:41–00:15:26
 Claim: The episode presents that the first six search warrants in the Charlie Kirk case, including on George Zinn, were signed off by Michael George Carl on September 10, 2025.
 
 Anchored Artifacts: A-2378.1
-Mentions: N-1, N-71
+Mentions: N-1, N-42
 
-Related Nodes: N-11321
+Related Nodes: N-10831
 
 Investigative Direction: Pull the search warrant records from Utah court filings to verify signatory.*
 
@@ -343,7 +343,7 @@ Claim: The episode presents that Michael George Carl's documented assignment is 
 
 Anchored Artifacts: A-2378.1
 
-Related Nodes: N-11321
+Related Nodes: N-10831
 
 Investigative Direction: Verify Carl's Utah County Sheriff's Office / ICAC assignment records.*
 
@@ -356,9 +356,9 @@ Claim Timestamp: 00:18:24–00:20:34
 Claim: The episode displays footage and still photographs showing that Mikey McCoy's statement on September 10, 2025 was taken by a female officer wearing a vest reading "Police" and "Utah ICAC."
 
 Anchored Artifacts: A-2376.1, A-2376.2, A-2377.1, A-2377.2, A-2377.3
-Mentions: N-272
+Mentions: N-194
 
-Related Nodes: N-11321
+Related Nodes: N-10831
 
 Investigative Direction: Identify the specific officer via Utah ICAC roster; obtain the recorded statement through FOIA / public records request.*
 
@@ -372,7 +372,7 @@ Claim: The episode asserts that the Utah ICAC works under the Utah Attorney Gene
 
 Anchored Artifacts: None in this episode (host assertion)
 
-Related Nodes: N-11321
+Related Nodes: N-10831
 
 Investigative Direction: Verify Utah ICAC administrative structure via Utah AG public materials.*
 
@@ -388,7 +388,7 @@ Claim: The episode presents that the federal Internet Crimes Against Children Ta
 
 Anchored Artifacts: None in this episode (host statement)
 
-Related Nodes: N-11321
+Related Nodes: N-10831
 
 Investigative Direction: Verify DOJ / OJJDP documentation of the 1998 ICAC program founding.*
 
@@ -435,7 +435,7 @@ Claim Timestamp: 00:38:56–00:41:02
 Claim: The episode presents that Matt Tardio pled no contest in Portland in October 2025 to felony coercion and misdemeanor harassment following an incident at an ICE facility, with surveillance cameras capturing the alleged conduct.
 
 Anchored Artifacts: A-2379.1, A-2380.1
-Mentions: N-2, N-977
+Mentions: N-2, N-601
 
 Related Nodes:
 
@@ -482,7 +482,7 @@ Claim: The episode displays a spreadsheet and host narration enumerating over fi
 Anchored Artifacts: A-2382.1
 Mentions: N-2
 
-Related Nodes: N-11322
+Related Nodes: N-10832
 
 Investigative Direction: Verify each row of the spreadsheet against primary court / news records; document the precise nature of each "connection" (e.g., accusation vs. conviction vs. employment).*
 
@@ -495,7 +495,7 @@ Claim Timestamp: 00:10:50–00:11:09
 Claim: The episode presents that Mike Mitchell convinced Matt Robinson's household to call Tyler and persuade him to peacefully surrender, despite Tyler's denial of involvement.
 
 Anchored Artifacts: None in this episode
-Mentions: N-69, N-176
+Mentions: N-40, N-126
 
 Related Nodes:
 
@@ -512,7 +512,7 @@ Claim Timestamp: 00:11:56
 Claim: The episode presents that Bagley's body cam footage stopped approximately 25 minutes after activation.
 
 Anchored Artifacts: None visible in this episode
-Mentions: N-810
+Mentions: N-518
 
 Related Nodes:
 
@@ -529,7 +529,7 @@ Claim Timestamp: 00:12:41
 Claim: The episode presents that George Zinn was sentenced for child sex crimes following his arrest in the immediate aftermath of the September 10 event.
 
 Anchored Artifacts: None visible in this episode
-Mentions: N-71
+Mentions: N-42
 
 Related Nodes:
 
@@ -548,7 +548,7 @@ Claim: The host asserts as opinion that the placement of ICAC / SVU personnel th
 Anchored Artifacts: None directly anchoring the conspiracy framing (artifact A-2378.1 and A-2376.2 anchor the underlying placements)
 Mentions: N-1
 
-Related Nodes: N-11321, N-11322
+Related Nodes: N-10831, N-10832
 
 Investigative Direction: Treat as framing premise – testable only via underlying placements (already inscribed above).*
 
@@ -589,7 +589,7 @@ Confidence: high
 - [x] Every artifact has a Related line.
 - [x] Every node has a Related line.
 - [x] No episode-wide artifact bundle.
-- [x] People nodes use the global people ledger (N-10207+ series for new entries).
+- [x] People nodes use the global people ledger (N-10141+ series for new entries).
 - [x] Non-person investigation targets use the 2230 series.
 - [x] No speculative claims inscribed as evidence-backed.
 - [x] Names preserved exactly or uncertainty noted.
@@ -600,5 +600,5 @@ Confidence: high
 Episode 152 analysis complete. Ledger continuation preserved. Next available IDs after this episode:
 - Next Artifact Family: A-2383
 - Next Claim ID: C-3465
-- Next Node ID (people): N-10235
-- Next Node ID (investigation targets): N-11323
+- Next Node ID (people): N-10169
+- Next Node ID (investigation targets): N-10833

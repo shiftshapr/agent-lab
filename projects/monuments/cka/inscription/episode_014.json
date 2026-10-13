@@ -30,9 +30,9 @@
             "C-1354"
           ],
           "related_nodes": [
-            "N-102",
-            "N-206",
-            "N-10224"
+            "N-69",
+            "N-150",
+            "N-10158"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -58,7 +58,7 @@
             "C-1355"
           ],
           "related_nodes": [
-            "N-10224"
+            "N-10158"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -85,9 +85,9 @@
             "C-1358"
           ],
           "related_nodes": [
-            "N-202",
-            "N-10224",
-            "N-10225"
+            "N-146",
+            "N-10158",
+            "N-10159"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -115,9 +115,9 @@
           ],
           "related_nodes": [
             "N-6",
-            "N-207",
-            "N-208",
-            "N-10226"
+            "N-151",
+            "N-152",
+            "N-10160"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -143,7 +143,7 @@
             "C-1361"
           ],
           "related_nodes": [
-            "N-203"
+            "N-147"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -169,7 +169,7 @@
             "C-1362"
           ],
           "related_nodes": [
-            "N-10227"
+            "N-10161"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -195,7 +195,7 @@
             "C-1363"
           ],
           "related_nodes": [
-            "N-10227"
+            "N-10161"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -221,8 +221,8 @@
             "C-1364"
           ],
           "related_nodes": [
-            "N-204",
-            "N-10227"
+            "N-148",
+            "N-10161"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -248,8 +248,8 @@
             "C-1365"
           ],
           "related_nodes": [
-            "N-205",
-            "N-10227"
+            "N-149",
+            "N-10161"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -275,7 +275,7 @@
             "C-1356"
           ],
           "related_nodes": [
-            "N-10225"
+            "N-10159"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -410,8 +410,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "FBI Director as of episode date; subject of artifact A-1209.1 announcing end of FBI/ADL partnership.",
@@ -427,13 +427,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10224"
+        "N-10158"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-202",
-      "ref": "N-202",
+      "@id": "N-146",
+      "ref": "N-146",
       "name": "Kyle Undercover",
       "type": "person",
       "description": "Investigator whose 2023 X thread on ADL property records is cited (A-1211.1) as the prior source for ADL/FBI Connecticut office sharing.",
@@ -450,14 +450,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10224",
-        "N-10225"
+        "N-10158",
+        "N-10159"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-203",
-      "ref": "N-203",
+      "@id": "N-147",
+      "ref": "N-147",
       "name": "Olivia Robertson Cobb Bishop",
       "type": "person",
       "description": "Eyewitness interviewed in news segment (A-1213.1); described by host as a records specialist at the Orem Police Department (host assertion only – no displayed source for employment claim).",
@@ -475,8 +475,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-204",
-      "ref": "N-204",
+      "@id": "N-148",
+      "ref": "N-148",
       "name": "Marjorie Taylor Greene",
       "type": "person",
       "description": "U.S. Representative; subject of artifact A-1216.1 (public statement denying suicidal ideation and warning of potential foreign-state action).",
@@ -492,13 +492,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10227"
+        "N-10161"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-205",
-      "ref": "N-205",
+      "@id": "N-149",
+      "ref": "N-149",
       "name": "Theo Von",
       "type": "person",
       "description": "Podcaster; subject of artifact A-1217.1 (public statement denying suicidal intent, addressed to \"Israel\").",
@@ -514,13 +514,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10227"
+        "N-10161"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-206",
-      "ref": "N-206",
+      "@id": "N-150",
+      "ref": "N-150",
       "name": "James Comey",
       "type": "person",
       "description": "Former FBI Director referenced in Patel X post (A-1209.1) as having \"written love letters to the ADL and embedded FBI agents with them.\"",
@@ -534,13 +534,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10224"
+        "N-10158"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-207",
-      "ref": "N-207",
+      "@id": "N-151",
+      "ref": "N-151",
       "name": "Skordas",
       "type": "person",
       "description": "Utah state prosecutor named in Elizabeth Lane's Redacted podcast account (A-1212.1) as the official asserting exclusive authority to identify defense counsel for Tyler Robinson.",
@@ -556,13 +556,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10226"
+        "N-10160"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-208",
-      "ref": "N-208",
+      "@id": "N-152",
+      "ref": "N-152",
       "name": "Clayton",
       "type": "person",
       "description": "Host of Redacted podcast; introduces Elizabeth Lane segment (A-1212.1).",
@@ -596,14 +596,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-207",
-        "N-10226"
+        "N-151",
+        "N-10160"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10224",
-      "ref": "N-10224",
+      "@id": "N-10158",
+      "ref": "N-10158",
       "name": "ADL–FBI Partnership Structure",
       "type": "investigation_target",
       "description": "Persistent investigative target concerning the historical and operational relationship between the Anti-Defamation League and the FBI, including embedded agents, shared intelligence, shared office space, and the announced 2025-10-01 separation.",
@@ -623,15 +623,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-102",
-        "N-202",
-        "N-206"
+        "N-69",
+        "N-146",
+        "N-150"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10225",
-      "ref": "N-10225",
+      "@id": "N-10159",
+      "ref": "N-10159",
       "name": "Connecticut FBI Field Office Deployment Anomaly",
       "type": "investigation_target",
       "description": "Investigative target concerning the reported deployment of the FBI's Connecticut field office (rather than the closer Salt Lake City–area office) to UVU following the Charlie Kirk assassination, and the contemporaneous nexus with Connecticut-based ADL-FBI office sharing.",
@@ -649,13 +649,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-202"
+        "N-146"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10226",
-      "ref": "N-10226",
+      "@id": "N-10160",
+      "ref": "N-10160",
       "name": "Tyler Robinson Defense Selection Anomaly",
       "type": "investigation_target",
       "description": "Persistent investigative target concerning the role of Utah state prosecutor Skordas in identifying defense counsel for Tyler Robinson, and Elizabeth Lane's reported difficulty in retaining independent pro bono counsel for Robinson.",
@@ -673,13 +673,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-6",
-        "N-207"
+        "N-151"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10227",
-      "ref": "N-10227",
+      "@id": "N-10161",
+      "ref": "N-10161",
       "name": "Witness and Public-Figure Demeanor Anomalies",
       "type": "investigation_target",
       "description": "Persistent investigative target grouping witness-on-site anomalies (Lyman family timing/accomplice testimony; Bishop close-encounter sighting; USA Today witness compilation) with public-figure suicide-denial statements (MTG, Theo Von) as the host posits a coordinated pattern.",
@@ -703,9 +703,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-203",
-        "N-204",
-        "N-205"
+        "N-147",
+        "N-148",
+        "N-149"
       ]
     },
     {
@@ -726,8 +726,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
@@ -768,14 +768,14 @@
         "A-1209.1"
       ],
       "related_nodes": [
-        "N-10224"
+        "N-10158"
       ],
       "tags": [],
       "claim_timestamp": "00:08:45–00:09:33",
       "investigative_direction": "Verify whether subsequent FBI conduct (training, intelligence sharing, embedded personnel) actually ceased; identify the operational scope of the prior FBI-ADL relationship.",
       "mentions_person_refs": [
-        "N-102",
-        "N-206"
+        "N-69",
+        "N-150"
       ]
     },
     {
@@ -802,7 +802,7 @@
         "A-1218.1"
       ],
       "related_nodes": [
-        "N-10225"
+        "N-10159"
       ],
       "tags": [],
       "claim_timestamp": "00:13:03–00:14:10",
@@ -821,13 +821,13 @@
         "A-1211.1"
       ],
       "related_nodes": [
-        "N-10225"
+        "N-10159"
       ],
       "tags": [],
       "claim_timestamp": "00:11:32–00:13:03",
       "investigative_direction": "Verify directly via Connecticut property records and FBI facility listings; obtain original Kyle Undercover thread and supporting documentation.",
       "mentions_person_refs": [
-        "N-202"
+        "N-146"
       ]
     },
     {
@@ -844,7 +844,7 @@
       "claim_timestamp": "00:11:32–00:13:03",
       "investigative_direction": "Verify statistics against original property records and confirm category definitions (banking institution, law firm, Jewish institution).",
       "mentions_person_refs": [
-        "N-202"
+        "N-146"
       ]
     },
     {
@@ -857,14 +857,14 @@
         "A-1212.1"
       ],
       "related_nodes": [
-        "N-10226"
+        "N-10160"
       ],
       "tags": [],
       "claim_timestamp": "00:29:07–00:32:15",
       "investigative_direction": "Independently confirm Lane's account with the firms she contacted; obtain any written records of the reported communications.",
       "mentions_person_refs": [
         "N-6",
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -877,15 +877,15 @@
         "A-1212.1"
       ],
       "related_nodes": [
-        "N-10226"
+        "N-10160"
       ],
       "tags": [],
       "claim_timestamp": "00:32:15",
       "investigative_direction": "Confirm canonical spelling of the prosecutor's name; obtain any court filings or correspondence evidencing the prosecutor's role in identifying counsel; verify Lane's account via Utah State Bar records.",
       "mentions_person_refs": [
         "N-6",
-        "N-207",
-        "N-69"
+        "N-151",
+        "N-40"
       ]
     },
     {
@@ -898,13 +898,13 @@
         "A-1213.1"
       ],
       "related_nodes": [
-        "N-10227"
+        "N-10161"
       ],
       "tags": [],
       "claim_timestamp": "00:17:21–00:18:53",
       "investigative_direction": "Verify Bishop's sighting against charging-document timelines and UVU surveillance; cross-reference her statements with any forensic timeline evidence.",
       "mentions_person_refs": [
-        "N-203"
+        "N-147"
       ]
     },
     {
@@ -931,7 +931,7 @@
         "A-1215.1"
       ],
       "related_nodes": [
-        "N-10227"
+        "N-10161"
       ],
       "tags": [],
       "claim_timestamp": "00:21:50–00:22:48",
@@ -951,7 +951,7 @@
       "claim_timestamp": "00:36:30–00:37:30",
       "investigative_direction": "Verify original post and any associated official statements or security reports.",
       "mentions_person_refs": [
-        "N-204"
+        "N-148"
       ]
     },
     {
@@ -968,7 +968,7 @@
       "claim_timestamp": "00:46:40–00:47:20",
       "investigative_direction": "Verify original source (clip origin, show, date) and check for any associated public commentary.",
       "mentions_person_refs": [
-        "N-205"
+        "N-149"
       ]
     },
     {

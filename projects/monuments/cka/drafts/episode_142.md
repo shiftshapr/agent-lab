@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 8fa969dba43042db5893cc29c3f2e01cf24703d976572f4015d20142f83e6dab
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-11196, N-11197, N-11198, N-11199, N-11200, N-11201, N-11202, N-11203, N-11204, N-11205, N-11206
-  - Reused Nodes Appearing: N-10228, N-46, N-42, N-50, N-410
-  - Hole-minted Nodes (wave3): N-949
+  - New Nodes Introduced: N-10797, N-10798, N-10799, N-10800, N-10801, N-10802, N-10803, N-10804, N-10805, N-10806, N-10807
+  - Reused Nodes Appearing: N-10162, N-18, N-14, N-22, N-267
+  - Hole-minted Nodes (wave3): N-581
   - (see registers)
 
 ## 6. Meme Register
@@ -56,7 +56,7 @@ Video Timestamp: 00:05:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud verbatim by host)
 
-*Related: C-3290, C-3291, C-3292, N-11196*
+*Related: C-3290, C-3291, C-3292, N-10797*
 
 **A-2284.2** 1102 Statement – Second Portion (80704 clipped-footage representation)
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:17:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud verbatim by host)
 
-*Related: C-3295, N-11199*
+*Related: C-3295, N-10800*
 
 ---
 
@@ -80,7 +80,7 @@ Video Timestamp: 00:12:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played by host)
 
-*Related: C-3292, N-11197*
+*Related: C-3292, N-10798*
 
 ---
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:09:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played by host)
 
-*Related: C-3293, N-11198*
+*Related: C-3293, N-10799*
 
 ---
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:21:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (video shown by host)
 
-*Related: C-3296, N-11200*
+*Related: C-3296, N-10801*
 
 ---
 
@@ -136,7 +136,7 @@ Video Timestamp: 00:30:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played by host)
 
-*Related: C-3297, N-11201*
+*Related: C-3297, N-10802*
 
 ---
 
@@ -150,7 +150,7 @@ Video Timestamp: 00:34:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played by host)
 
-*Related: C-3298, N-11202*
+*Related: C-3298, N-10803*
 
 ---
 
@@ -177,7 +177,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:45:12
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-11203, N-46*
+*Related: N-10804, N-18*
 
 **A-2292.2** Comment by Nikki – $100,000/hour humiliation
 
@@ -186,7 +186,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:45:20
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-11203*
+*Related: N-10804*
 
 **A-2292.3** Comment by Trillion – TPUSA PR strategy disaster
 
@@ -195,7 +195,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:45:28
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-11203*
+*Related: N-10804*
 
 ---
 
@@ -244,7 +244,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:49:10
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-11204*
+*Related: N-10805*
 
 **A-2293.6** Comment by Zamut – "Burden bestowed on Candace Owens is a blessing"
 
@@ -262,7 +262,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:50:43
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-11205*
+*Related: N-10806*
 
 **A-2293.8** Comment by Joey D. April – "Debategate" timeline entry
 
@@ -271,7 +271,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:51:38
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-11203*
+*Related: N-10804*
 
 **A-2293.9** Comment by Golf/Cadence – Kanye "Stars" reference
 
@@ -286,13 +286,13 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 ## 4. Node Register
 
-**N-949** David Hull
+**N-581** David Hull
 
 First named by the host at 00:04:56 in episode 142. Aliases: Agent Hull, Agent David Hull.
 
 *Related: C-3292*
 
-**N-11196** Terrell Farnsworth Google-Hack Contradiction
+**N-10797** Terrell Farnsworth Google-Hack Contradiction
 
 Persistent target: Farnsworth's claim of fearing Google hacking is contradicted by his same-day Google Drive usage.
 
@@ -305,7 +305,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11197** TPUSA Video Chain of Custody
+**N-10798** TPUSA Video Chain of Custody
 
 Investigation target: discrepancy between flash-drive/Google-link delivery versus original SD cards.
 
@@ -318,7 +318,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11198** Back-Camera Footage Discrepancy
+**N-10799** Back-Camera Footage Discrepancy
 
 Investigation target: zoomed-in / cropped framing of the September 10 back-camera footage versus wide-angle convention.
 
@@ -331,7 +331,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11199** 80704 Clip Origin Verification
+**N-10800** 80704 Clip Origin Verification
 
 Investigation target: who clipped the three-minute segment of footage labeled 80704, and why only that camera was clipped.
 
@@ -344,7 +344,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11200** Terrell Post-Removal Communications
+**N-10801** Terrell Post-Removal Communications
 
 Investigation target: identity of recipient and content of text message(s) sent by Farnsworth within minutes of removing the SD card.
 
@@ -357,7 +357,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11201** FBI Jurisdiction Question
+**N-10802** FBI Jurisdiction Question
 
 Investigation target: procedural anomaly of FBI primary involvement in a Utah state-level homicide case.
 
@@ -370,7 +370,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11202** Tyler Robinson Identification Photo Distortion
+**N-10803** Tyler Robinson Identification Photo Distortion
 
 Investigation target: alleged perspective/shrink manipulation of published Robinson identification photo.
 
@@ -383,7 +383,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-11203** TPUSA Debate PR Strategy
+**N-10804** TPUSA Debate PR Strategy
 
 Investigation target: Turning Point USA's choice to deploy Andrew Kulvette in a public debate format.
 
@@ -396,7 +396,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-11204** Debate Israel Focus
+**N-10805** Debate Israel Focus
 
 Investigation target: observation that Andrew Kulvette's debate opening statement pivoted to Israel focus.
 
@@ -409,7 +409,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-11205** Charlie Kirk Pre-Event Text Messages
+**N-10806** Charlie Kirk Pre-Event Text Messages
 
 Investigation target: timeline of when pre-September 10 text messages from Kirk were disclosed, and their content regarding fears of "the left."
 
@@ -422,7 +422,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-11206** Independent Investigator Network
+**N-10807** Independent Investigator Network
 
 Investigation target: collaborative group of independent investigators including Nissi, Baron Coleman, Ian Carol, Coach Colin.
 
@@ -435,7 +435,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-46** Andrew Wilson
+**N-18** Andrew Wilson
 
 Node Type: Person
 Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
@@ -453,9 +453,9 @@ Claim Timestamp: 00:05:47
 Claim: Farnsworth's 1102 statement asserts he provided SBI with four videos through a Google Drive on September 10, 2025.
 
 Anchored Artifacts: A-2284.1
-Mentions: N-410
+Mentions: N-267
 
-Related Nodes: N-11196, N-11197
+Related Nodes: N-10797, N-10798
 
 Investigative Direction: Verify the existence and timestamps of the four Google Drive videos referenced in the 1102 statement; obtain authenticated copy of the statement.
 
@@ -468,9 +468,9 @@ Claim Timestamp: 00:04:56
 Claim: Farnsworth told the host on or about September 18 that he feared Google would hack him, despite having transmitted footage via Google Drive eight days earlier.
 
 Anchored Artifacts: A-2284.1
-Mentions: N-410
+Mentions: N-267
 
-Related Nodes: N-11196
+Related Nodes: N-10797
 
 Investigative Direction: Obtain the September 18 phone-call recording or contemporaneous notes; compare with the September 10 Google Drive transmission timestamp.
 
@@ -483,9 +483,9 @@ Claim Timestamp: 00:12:35
 Claim: SBI Agent David Hull testified that Farnsworth originally provided a flash drive to Lieutenant O'Brien, then downloadable Google links to Agent Mortonson on September 10, with the 1102 collected later on May 6, 2026 – not the SD cards.
 
 Anchored Artifacts: A-2285.1
-Mentions: N-949
+Mentions: N-581
 
-Related Nodes: N-11197
+Related Nodes: N-10798
 
 Investigative Direction: Obtain certified preliminary-hearing transcript; confirm whether SD cards were ever handed over directly and to whom.
 
@@ -499,7 +499,7 @@ Claim: YouTuber Nissi compared the back-camera shot at UVU on September 10 again
 
 Anchored Artifacts: A-2286.1
 
-Related Nodes: N-11198
+Related Nodes: N-10799
 
 Investigative Direction: Obtain original uncropped September 10 back-camera footage; obtain Nissi's source clips from other tour stops for direct frame comparison.
 
@@ -512,9 +512,9 @@ Claim Timestamp: 00:14:25
 Claim: Kulvette stated on Tucker Carlson that Farnsworth removed the SD cards "because I know people can be evil," and described witnessing theft of hats from the table after the incident.
 
 Anchored Artifacts: A-2287.1
-Mentions: N-50
+Mentions: N-22
 
-Related Nodes: N-10228
+Related Nodes: N-10162
 
 Investigative Direction: Obtain full Tucker Carlson interview segment; identify whether the SD cards referenced match the singular SD card observed being removed.
 
@@ -522,13 +522,13 @@ Investigative Direction: Obtain full Tucker Carlson interview segment; identify 
 
 Claim Timestamp: 00:14:25
 
-Claim: C-3294 spells the speaker 'Andrew Kulvette' (auto-caption form). The speaker is Andrew Kolvet (N-42). He stated on Tucker Carlson that Farnsworth (N-410) removed the SD cards "because I know people can be evil," and described witnessing theft of hats from the table after the incident.
+Claim: C-3294 spells the speaker 'Andrew Kulvette' (auto-caption form). The speaker is Andrew Kolvet (N-14). He stated on Tucker Carlson that Farnsworth (N-267) removed the SD cards "because I know people can be evil," and described witnessing theft of hats from the table after the incident.
 
 Transcript Snippet: He said, "Because I know people can be evil."
 
 Anchored Artifacts: A-2287.1
-Mentions: N-42, N-50, N-410
-Related Nodes: N-10228
+Mentions: N-14, N-22, N-267
+Related Nodes: N-10162
 Revises: C-3294
 Confidence: medium
 Investigative Direction: Read with C-3294; match the Tucker Carlson segment under the corrected spelling Andrew Kolvet.
@@ -543,7 +543,7 @@ Claim: Farnsworth's 1102 statement describes clip 80704 as a "true and correct r
 
 Anchored Artifacts: A-2284.2
 
-Related Nodes: N-11199
+Related Nodes: N-10800
 
 Investigative Direction: Obtain the original four-video files referenced in the 1102; compare lengths and metadata against the 80704 clip to determine clip origin.
 
@@ -557,7 +557,7 @@ Claim: Newly released footage shows Farnsworth placing the SD card in his pocket
 
 Anchored Artifacts: A-2288.1
 
-Related Nodes: N-11200
+Related Nodes: N-10801
 
 Investigative Direction: Obtain chain-of-custody for the newly released footage itself; identify the text-message recipient via phone records or subpoena.
 
@@ -571,7 +571,7 @@ Claim: John Kirraou stated on the Danny Jones podcast that no element of the Sep
 
 Anchored Artifacts: A-2289.1
 
-Related Nodes: N-11201
+Related Nodes: N-10802
 
 Investigative Direction: Obtain full Danny Jones podcast segment; verify whether FBI has filed any federal charges or maintains any formal federal nexus.
 
@@ -584,9 +584,9 @@ Claim Timestamp: 00:34:33
 Claim: Rogan and panelists discussed that the published photo of Tyler Robinson appeared to have a wider man "shrunken" into Robinson's proportions, with distorted car-hood proportions behind him.
 
 Anchored Artifacts: A-2290.1
-Mentions: N-69, N-427
+Mentions: N-40, N-274
 
-Related Nodes: N-11202
+Related Nodes: N-10803
 
 Investigative Direction: Identify the original source of the published Robinson photo; obtain metadata and EXIF data; compare with independently sourced photographs of Robinson.
 
@@ -615,7 +615,7 @@ Claim: The host claims she has known since October what Farnsworth did after rem
 
 Anchored Artifacts: A-2288.1
 
-Related Nodes: N-11200
+Related Nodes: N-10801
 
 Investigative Direction: Identify the source from whom the host obtained the footage in October; verify timing of receipt.
 

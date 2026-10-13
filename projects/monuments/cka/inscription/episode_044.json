@@ -33,9 +33,9 @@
             "C-1883"
           ],
           "related_nodes": [
-            "N-516",
-            "N-526",
-            "N-10399"
+            "N-325",
+            "N-330",
+            "N-10328"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -56,10 +56,10 @@
             "C-1887"
           ],
           "related_nodes": [
-            "N-516",
-            "N-424",
-            "N-518",
-            "N-10397"
+            "N-325",
+            "N-272",
+            "N-326",
+            "N-10326"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -77,9 +77,9 @@
             "C-1889"
           ],
           "related_nodes": [
-            "N-516",
-            "N-518",
-            "N-10398"
+            "N-325",
+            "N-326",
+            "N-10327"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -97,8 +97,8 @@
             "C-1884"
           ],
           "related_nodes": [
-            "N-516",
-            "N-10397"
+            "N-325",
+            "N-10326"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -117,7 +117,7 @@
             "C-1883"
           ],
           "related_nodes": [
-            "N-516"
+            "N-325"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -143,8 +143,8 @@
             "C-1880"
           ],
           "related_nodes": [
-            "N-10399",
-            "N-526"
+            "N-10328",
+            "N-330"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -170,7 +170,7 @@
             "C-1880"
           ],
           "related_nodes": [
-            "N-10399"
+            "N-10328"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -197,8 +197,8 @@
             "C-1892"
           ],
           "related_nodes": [
-            "N-500",
-            "N-10401"
+            "N-320",
+            "N-10330"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -225,12 +225,12 @@
             "C-1894"
           ],
           "related_nodes": [
-            "N-500",
-            "N-522",
-            "N-523",
-            "N-524",
-            "N-10401",
-            "N-10402"
+            "N-320",
+            "N-327",
+            "N-328",
+            "N-329",
+            "N-10330",
+            "N-10331"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -257,7 +257,7 @@
             "C-1896"
           ],
           "related_nodes": [
-            "N-426"
+            "N-273"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -272,8 +272,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-516",
-      "ref": "N-516",
+      "@id": "N-325",
+      "ref": "N-325",
       "name": "Harry Meyers",
       "type": "person",
       "description": "Former U.S. Army sensor operator assigned to Joint Task Force 6 / Operation Catacomb in 1990 who claims to have discovered the first Sinaloa cartel underground rail tunnel at the Arizona–Mexico border. Placed under NDA 1990–May 2025. Now operates under a different name. Per his account, walked into a JTF-SB meeting at Fort Huachuca on September 9, 2025 and was detained for 7 hours.",
@@ -304,8 +304,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Allegedly identified by Harry Meyers exiting the JTF-SB meeting at Fort Huachuca on September 9, 2025. Host later references this identification in connection with Charlie Kirk's assassination coverage.",
@@ -321,13 +321,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10400"
+        "N-10329"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-518",
-      "ref": "N-518",
+      "@id": "N-326",
+      "ref": "N-326",
       "name": "Captain Adam Nef",
       "type": "person",
       "description": "Military officer (Captain) identified by Harry Meyers as the lead interrogator during the 7-hour detention at Fort Huachuca on September 9, 2025. Described as ~36 years old, brown hair, commander of force protection. Spelling of surname as heard by Harry; uncertain.",
@@ -345,17 +345,17 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10397",
-        "N-10398"
+        "N-10326",
+        "N-10327"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
-      "description": "Referenced by host as a potential relative (brother/cousin) of \"Captain Nef\" (N-518). Host speculates Blake Nef may have a military background despite public role as a producer of the Charlie Kirk show. Relationship unverified.",
+      "description": "Referenced by host as a potential relative (brother/cousin) of \"Captain Nef\" (N-326). Host speculates Blake Nef may have a military background despite public role as a producer of the Charlie Kirk show. Relationship unverified.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -364,13 +364,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-518"
+        "N-326"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-426",
-      "ref": "N-426",
+      "@id": "N-273",
+      "ref": "N-273",
       "name": "Tim Pool",
       "type": "person",
       "description": "Independent commentator featured in audio clip played on the show; subject of host's commentary criticizing his conduct toward her.",
@@ -389,8 +389,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-500",
-      "ref": "N-500",
+      "@id": "N-320",
+      "ref": "N-320",
       "name": "Arcadi Gaydamak",
       "type": "person",
       "description": "Russian-born, Israeli-French businessman identified in prior series episodes in connection with Angola Gate. Reported by host as recently sentenced in absentia for trafficking weapons. Allegedly living in Nashville under alias per seven viewer emails.",
@@ -409,14 +409,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-522",
-        "N-10401"
+        "N-327",
+        "N-10330"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-522",
-      "ref": "N-522",
+      "@id": "N-327",
+      "ref": "N-327",
       "name": "Jonathan Schmidt",
       "type": "person",
       "description": "Alleged alias used by Arcadi Gaydamak in Nashville, per seven tipster emails. Allegedly hired by Root Brands as a technology officer and claimed to be a billionaire.",
@@ -433,14 +433,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-500",
-        "N-10401"
+        "N-320",
+        "N-10330"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-523",
-      "ref": "N-523",
+      "@id": "N-328",
+      "ref": "N-328",
       "name": "Clay Thomas",
       "type": "person",
       "description": "Nashville businessman alleged by tipsters to have introduced Arcadi Gaydamak/\"Jonathan Schmidt\" to Root Brands. Host states she has reached out to Thomas.",
@@ -456,14 +456,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-522",
-        "N-10402"
+        "N-327",
+        "N-10331"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-524",
-      "ref": "N-524",
+      "@id": "N-329",
+      "ref": "N-329",
       "name": "Alex Smeirnoff",
       "type": "person",
       "description": "Ukrainian individual alleged by tipsters to be working with \"Jonathan Schmidt\"/Arcadi Gaydamak at Root Brands; characterized as a Ukrainian \"fleeing the war.\"",
@@ -479,14 +479,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-522",
-        "N-10402"
+        "N-327",
+        "N-10331"
       ]
     },
     {
       "@type": "Organization",
-      "@id": "N-11393",
-      "ref": "N-11393",
+      "@id": "N-10902",
+      "ref": "N-10902",
       "name": "Root Brands",
       "type": "organization",
       "description": "Nashville-area company alleged by tipsters to employ \"Jonathan Schmidt\"/Arcadi Gaydamak as a technology officer. Host states she has reached out to Root Brands.",
@@ -502,14 +502,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-522",
-        "N-10402"
+        "N-327",
+        "N-10331"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-526",
-      "ref": "N-526",
+      "@id": "N-330",
+      "ref": "N-330",
       "name": "El Chapo (Joaquín Guzmán)",
       "type": "person",
       "description": "Named in 1990 tunnel narrative; photos on the Mexican side of the Sinaloa cartel tunnel allegedly showed a JTF-6 commander and U.S. Marine officers posing with him.",
@@ -526,13 +526,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10399"
+        "N-10328"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10397",
-      "ref": "N-10397",
+      "@id": "N-10326",
+      "ref": "N-10326",
       "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
       "type": "investigation_target",
       "description": "Persistent target: whether a high-level JTF-SB command meeting occurred at Fort Huachuca on September 9, 2025, whether 12–13 lieutenant colonels were present, and whether Harry Meyers' account is corroborated by incident report 861-1-2025-MPC446.",
@@ -554,15 +554,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-516",
-        "N-424",
-        "N-518"
+        "N-325",
+        "N-272",
+        "N-326"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10398",
-      "ref": "N-10398",
+      "@id": "N-10327",
+      "ref": "N-10327",
       "name": "Incident Report 861-1-2025-MPC446 FOIA Verification",
       "type": "investigation_target",
       "description": "Persistent target: verifiable existence and contents of Fort Huachuca incident report 861-1-2025-MPC446 generated on September 9, 2025 in connection with Harry Meyers' detention.",
@@ -578,14 +578,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-518",
-        "N-10397"
+        "N-326",
+        "N-10326"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10399",
-      "ref": "N-10399",
+      "@id": "N-10328",
+      "ref": "N-10328",
       "name": "1990 Douglas, Arizona / Operation Catacomb Verification",
       "type": "investigation_target",
       "description": "Persistent target: verifiable history of Joint Task Force 6, Operation Catacomb, the Douglas–Agua Prieta tunnel discovery, and the alleged JTF-6 commander / El Chapo photographs. Connects to Harry Meyers' 35-year claim of retaliation and his NDA.",
@@ -603,14 +603,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-516",
-        "N-526"
+        "N-325",
+        "N-330"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10400",
-      "ref": "N-10400",
+      "@id": "N-10329",
+      "ref": "N-10329",
       "name": "Brian Harpole Military Connection Verification",
       "type": "investigation_target",
       "description": "Persistent target: whether Brian Harpole has any military or government connection that could account for his presence at a JTF-SB command meeting at Fort Huachuca on September 9, 2025.",
@@ -626,14 +626,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-424",
-        "N-10397"
+        "N-272",
+        "N-10326"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10401",
-      "ref": "N-10401",
+      "@id": "N-10330",
+      "ref": "N-10330",
       "name": "\"Jonathan Schmidt\" / Arcadi Gaydamak Identity Verification",
       "type": "investigation_target",
       "description": "Persistent target: whether the individual operating in Nashville under the name Jonathan Schmidt is in fact Arcadi Gaydamak, as alleged by seven viewers.",
@@ -651,14 +651,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-500",
-        "N-522"
+        "N-320",
+        "N-327"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10402",
-      "ref": "N-10402",
+      "@id": "N-10331",
+      "ref": "N-10331",
       "name": "Root Brands / Nashville Foreign Intelligence Personnel Question",
       "type": "investigation_target",
       "description": "Persistent target: verifiable employment history, immigration status, and security posture of Root Brands' workforce given the alleged presence of Arcadi Gaydamak and Ukrainians at the company.",
@@ -674,10 +674,10 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-522",
-        "N-523",
-        "N-524",
-        "N-11393"
+        "N-327",
+        "N-328",
+        "N-329",
+        "N-10902"
       ]
     },
     {
@@ -726,14 +726,14 @@
         "A-1521.1"
       ],
       "related_nodes": [
-        "N-10399"
+        "N-10328"
       ],
       "tags": [],
       "claim_timestamp": "00:05:09–00:11:14",
       "investigative_direction": "Cross-check DEA, CBP, and Army historical records for the 1990 Douglas–Agua Prieta tunnel case; verify Harry's military service record and JTF-6 assignment.",
       "mentions_person_refs": [
-        "N-516",
-        "N-526"
+        "N-325",
+        "N-330"
       ]
     },
     {
@@ -746,14 +746,14 @@
         "A-1519.1"
       ],
       "related_nodes": [
-        "N-10399"
+        "N-10328"
       ],
       "tags": [],
       "claim_timestamp": "00:06:44–00:09:29",
       "investigative_direction": "FOIA requests to DEA, CBP, and DOJ for case files associated with the 1990 tunnel seizure and any photographic evidence.",
       "mentions_person_refs": [
-        "N-516",
-        "N-526"
+        "N-325",
+        "N-330"
       ]
     },
     {
@@ -771,7 +771,7 @@
       "claim_timestamp": "00:13:49",
       "investigative_direction": "Obtain copy of the NDA via FOIA or congressional inquiry; verify dates and signatories.",
       "mentions_person_refs": [
-        "N-516"
+        "N-325"
       ]
     },
     {
@@ -789,7 +789,7 @@
       "claim_timestamp": "00:11:14–00:13:49",
       "investigative_direction": "Obtain Harry's DD-214, military personnel file, and award writeups through appropriate channels.",
       "mentions_person_refs": [
-        "N-516"
+        "N-325"
       ]
     },
     {
@@ -803,13 +803,13 @@
         "A-1519.4"
       ],
       "related_nodes": [
-        "N-10397"
+        "N-10326"
       ],
       "tags": [],
       "claim_timestamp": "00:16:14–00:17:28",
       "investigative_direction": "Pull Candlewood Suites Fort Huachuca guest log for September 8, 2025 and corroborate with military visitor records.",
       "mentions_person_refs": [
-        "N-516"
+        "N-325"
       ]
     },
     {
@@ -822,13 +822,13 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-10397"
+        "N-10326"
       ],
       "tags": [],
       "claim_timestamp": "00:18:57–00:20:14",
       "investigative_direction": "Cross-reference base access logs and incident report 861-1-2025-MPC446.",
       "mentions_person_refs": [
-        "N-516"
+        "N-325"
       ]
     },
     {
@@ -841,13 +841,13 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-10397"
+        "N-10326"
       ],
       "tags": [],
       "claim_timestamp": "00:20:14–00:34:46",
       "investigative_direction": "Verify through FOIA of incident report 861-1-2025-MPC446 and any meeting attendance logs.",
       "mentions_person_refs": [
-        "N-516"
+        "N-325"
       ]
     },
     {
@@ -860,14 +860,14 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-10400"
+        "N-10329"
       ],
       "tags": [],
       "claim_timestamp": "00:20:14–00:22:18",
       "investigative_direction": "FOIA incident report 861-1-2025-MPC446 for visitor/attendee list; cross-reference with public schedule of Brian Harpole for September 9, 2025.",
       "mentions_person_refs": [
-        "N-424",
-        "N-516",
+        "N-272",
+        "N-325",
         "N-1"
       ]
     },
@@ -881,15 +881,15 @@
         "A-1519.2"
       ],
       "related_nodes": [
-        "N-10397"
+        "N-10326"
       ],
       "tags": [],
       "claim_timestamp": "00:22:18–00:24:56",
       "investigative_direction": "FOIA incident report 861-1-2025-MPC446; identify Captain Nef through Army CID and Fort Huachuca force protection roster.",
       "mentions_person_refs": [
-        "N-224",
-        "N-516",
-        "N-518"
+        "N-162",
+        "N-325",
+        "N-326"
       ]
     },
     {
@@ -902,14 +902,14 @@
         "A-1519.3"
       ],
       "related_nodes": [
-        "N-10398"
+        "N-10327"
       ],
       "tags": [],
       "claim_timestamp": "00:28:13",
       "investigative_direction": "File FOIA request with the appropriate Army or DoD FOIA office for incident report 861-1-2025-MPC446.",
       "mentions_person_refs": [
-        "N-516",
-        "N-518"
+        "N-325",
+        "N-326"
       ]
     },
     {
@@ -926,7 +926,7 @@
       "claim_timestamp": "00:35:20–00:36:24",
       "investigative_direction": "Locate and verify the article's primary source (court records, news outlet) to confirm sentencing details and intelligence affiliation.",
       "mentions_person_refs": [
-        "N-500"
+        "N-320"
       ]
     },
     {
@@ -943,7 +943,7 @@
       "claim_timestamp": "00:35:20–00:36:24",
       "investigative_direction": "Verify biographical details against public records and prior reporting on Gaydamak.",
       "mentions_person_refs": [
-        "N-500"
+        "N-320"
       ]
     },
     {
@@ -956,14 +956,14 @@
         "A-1523.1"
       ],
       "related_nodes": [
-        "N-10401"
+        "N-10330"
       ],
       "tags": [],
       "claim_timestamp": "00:35:46–00:40:46",
       "investigative_direction": "Obtain corroborating evidence via public records, business filings, immigration status checks, and law enforcement confirmation.",
       "mentions_person_refs": [
-        "N-500",
-        "N-522"
+        "N-320",
+        "N-327"
       ]
     },
     {
@@ -976,17 +976,17 @@
         "A-1523.1"
       ],
       "related_nodes": [
-        "N-10401",
-        "N-10402",
-        "N-11393"
+        "N-10330",
+        "N-10331",
+        "N-10902"
       ],
       "tags": [],
       "claim_timestamp": "00:36:24–00:40:46",
       "investigative_direction": "Obtain employment records, immigration paperwork (I-9, visa status), and confirm identities through public records and Root Brands communications.",
       "mentions_person_refs": [
-        "N-522",
-        "N-523",
-        "N-524"
+        "N-327",
+        "N-328",
+        "N-329"
       ]
     },
     {
@@ -1003,7 +1003,7 @@
       "claim_timestamp": "00:42:41–00:44:11",
       "investigative_direction": "Cross-reference Tim Pool's original broadcast to verify timestamp and context; host's response is rhetorical commentary rather than artifact-anchored.",
       "mentions_person_refs": [
-        "N-426",
+        "N-273",
         "N-3"
       ]
     },
@@ -1021,7 +1021,7 @@
       "claim_timestamp": "00:43:32–00:44:11",
       "investigative_direction": "Verify Tim Pool's statement against the original broadcast and any public statements he has made about visiting the home.",
       "mentions_person_refs": [
-        "N-426",
+        "N-273",
         "N-3"
       ]
     },
@@ -1041,7 +1041,7 @@
       "transcript_snippet": "Meanwhile, I get bullets fired at my property and I have to go live in the middle of nowhere and I got strangers coming up to my house in in in Maryland breaking in.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-426",
+        "N-273",
         "N-3"
       ]
     },

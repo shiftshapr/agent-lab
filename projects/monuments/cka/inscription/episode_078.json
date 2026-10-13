@@ -33,9 +33,9 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-970",
-            "N-10604",
-            "N-10605"
+            "N-595",
+            "N-10531",
+            "N-10532"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -61,10 +61,10 @@
             "C-2456"
           ],
           "related_nodes": [
-            "N-973",
-            "N-974",
-            "N-975",
-            "N-254"
+            "N-598",
+            "N-599",
+            "N-600",
+            "N-182"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -91,9 +91,9 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-969",
-            "N-439",
-            "N-10606"
+            "N-594",
+            "N-279",
+            "N-10533"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -121,8 +121,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-971",
-            "N-10607"
+            "N-596",
+            "N-10534"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -141,8 +141,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-971",
-            "N-10607"
+            "N-596",
+            "N-10534"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -170,9 +170,9 @@
             "C-2475"
           ],
           "related_nodes": [
-            "N-971",
-            "N-972",
-            "N-10607"
+            "N-596",
+            "N-597",
+            "N-10534"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -198,9 +198,9 @@
             "C-2461"
           ],
           "related_nodes": [
-            "N-982",
-            "N-972",
-            "N-10607"
+            "N-602",
+            "N-597",
+            "N-10534"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -228,7 +228,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10609"
+            "N-10536"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -247,7 +247,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10609"
+            "N-10536"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -264,7 +264,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-1",
-            "N-10609"
+            "N-10536"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -291,8 +291,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10608",
-            "N-10610"
+            "N-10535",
+            "N-10537"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -312,7 +312,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10608"
+            "N-10535"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -331,7 +331,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10608"
+            "N-10535"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -350,8 +350,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10608",
-            "N-10610"
+            "N-10535",
+            "N-10537"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -379,7 +379,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-968"
+            "N-593"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -405,9 +405,9 @@
             "C-2467"
           ],
           "related_nodes": [
-            "N-968",
-            "N-70",
-            "N-10611"
+            "N-593",
+            "N-41",
+            "N-10538"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -425,8 +425,8 @@
             "C-2468"
           ],
           "related_nodes": [
-            "N-968",
-            "N-10611"
+            "N-593",
+            "N-10538"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -453,8 +453,8 @@
             "C-2474"
           ],
           "related_nodes": [
-            "N-968",
-            "N-10611"
+            "N-593",
+            "N-10538"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -479,7 +479,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-2",
-            "N-313",
+            "N-215",
             "N-3"
           ],
           "tags": [],
@@ -495,8 +495,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-968",
-      "ref": "N-968",
+      "@id": "N-593",
+      "ref": "N-593",
       "name": "Thomas Massie",
       "type": "person",
       "description": "Kentucky congressman; central to Turning Point Action disavowal incident; displayed video shows Charlie Kirk naming him a favorite congressman on multiple occasions.",
@@ -518,13 +518,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10611"
+        "N-10538"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-969",
-      "ref": "N-969",
+      "@id": "N-594",
+      "ref": "N-594",
       "name": "Sarah Huckabee Sanders",
       "type": "person",
       "description": "Governor of Arkansas; displayed signing proclamation with Erica Kirk for Club America in Arkansas high schools.",
@@ -540,14 +540,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-439",
-        "N-10606"
+        "N-279",
+        "N-10533"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-970",
-      "ref": "N-970",
+      "@id": "N-595",
+      "ref": "N-595",
       "name": "Mark Epstein",
       "type": "person",
       "description": "Jeffrey Epstein's brother; named by host as owner of building matching the white-building description and as inheritor of Jeffrey Epstein's wealth (host attribution, not cited within displayed NY Post article text).",
@@ -561,14 +561,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10604",
-        "N-10605"
+        "N-10531",
+        "N-10532"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-971",
-      "ref": "N-971",
+      "@id": "N-596",
+      "ref": "N-596",
       "name": "Renee Crossman",
       "type": "person",
       "description": "President of United Hands Romania Association; partner of Erica Kirk on the Remnant/Romanian Angels project; per displayed Romanian investigative article, originated from the Children of God / The Family religious sect.",
@@ -588,13 +588,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10607"
+        "N-10534"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-972",
-      "ref": "N-972",
+      "@id": "N-597",
+      "ref": "N-597",
       "name": "David Berg",
       "type": "person",
       "description": "Founder of Children of God / The Family; historical figure named in displayed Romanian investigative article as advocate of sexual relations with minors including his own daughter at age 12.",
@@ -611,13 +611,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10607"
+        "N-10534"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-973",
-      "ref": "N-973",
+      "@id": "N-598",
+      "ref": "N-598",
       "name": "Oren Alexander",
       "type": "person",
       "description": "Real-estate broker; per displayed news clip, found guilty on all 10 counts including sex trafficking in Manhattan federal trial.",
@@ -633,13 +633,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-254"
+        "N-182"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-974",
-      "ref": "N-974",
+      "@id": "N-599",
+      "ref": "N-599",
       "name": "Tal Alexander",
       "type": "person",
       "description": "Real-estate broker; per displayed news clip, found guilty of sex trafficking and sex trafficking of a minor.",
@@ -655,13 +655,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-254"
+        "N-182"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-975",
-      "ref": "N-975",
+      "@id": "N-600",
+      "ref": "N-600",
       "name": "Alon Alexander",
       "type": "person",
       "description": "Private security executive; per displayed news clip, found guilty of sex trafficking of a minor and sexual abuse.",
@@ -677,13 +677,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-254"
+        "N-182"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-439",
-      "ref": "N-439",
+      "@id": "N-279",
+      "ref": "N-279",
       "name": "Mike Huckabee",
       "type": "person",
       "description": "Father of Sarah Huckabee Sanders; named by host as contextually relevant to Israel theme.",
@@ -695,14 +695,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-969",
-        "N-10606"
+        "N-594",
+        "N-10533"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-254",
-      "ref": "N-254",
+      "@id": "N-182",
+      "ref": "N-182",
       "name": "Jared Kushner",
       "type": "person",
       "description": "Named in displayed news-clip context as having close ties with Alexander brothers; named by host as Epstein-files redaction beneficiary.",
@@ -716,15 +716,15 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-973",
-        "N-974",
-        "N-975"
+        "N-598",
+        "N-599",
+        "N-600"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-951",
-      "ref": "N-951",
+      "@id": "N-582",
+      "ref": "N-582",
       "name": "Faith Kates",
       "type": "person",
       "description": "Founder of Next Model Management, the Rothschild spin-out modeling agency with which Erica Kirk is alleged to have dealt.",
@@ -737,13 +737,13 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-10605"
+        "N-10532"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-982",
-      "ref": "N-982",
+      "@id": "N-602",
+      "ref": "N-602",
       "name": "Christina Babin",
       "type": "person",
       "description": "Former Children of God member interviewed by Megyn Kelly in 2018; described childhood sexual instruction by adult cult members.",
@@ -759,13 +759,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-972"
+        "N-597"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10604",
-      "ref": "N-10604",
+      "@id": "N-10531",
+      "ref": "N-10531",
       "name": "301 East 66th Street NYC Building Investigation",
       "type": "investigation_target",
       "description": "Building identified in displayed NY Post article as Epstein site used to keep underage victims; apartments labeled in Epstein's address book as \"apartments for models.\" Per host, viewers identified building matching description of the \"white building\" associated with Erica Kirk's Next Model Management real-estate role.",
@@ -784,14 +784,14 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-970",
-        "N-10605"
+        "N-595",
+        "N-10532"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10605",
-      "ref": "N-10605",
+      "@id": "N-10532",
+      "ref": "N-10532",
       "name": "Next Model Management / Erica Kirk Connection",
       "type": "investigation_target",
       "description": "Persistent investigation target: alleged point-person role for Next Model Management housing of young models, including at a \"white building\" near 68th Street between Second and Third Avenue.",
@@ -806,14 +806,14 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-951",
-        "N-10604"
+        "N-582",
+        "N-10531"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10606",
-      "ref": "N-10606",
+      "@id": "N-10533",
+      "ref": "N-10533",
       "name": "Club America High School Pushback",
       "type": "investigation_target",
       "description": "Investigation target: state-level rollout of Club America (TPUSA) in high schools, including Arkansas proclamation; pushback reported in displayed user comments.",
@@ -830,14 +830,14 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-969",
-        "N-439"
+        "N-594",
+        "N-279"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10607",
-      "ref": "N-10607",
+      "@id": "N-10534",
+      "ref": "N-10534",
       "name": "Renee Crossman / United Hands Romania Cult Affiliation",
       "type": "investigation_target",
       "description": "Investigation target: Crossman's affiliation with Children of God / The Family per displayed Romanian investigative article, and the implications of her decade-plus work with Romanian orphanages accessed by Erica Kirk.",
@@ -859,15 +859,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-971",
-        "N-972",
-        "N-982"
+        "N-596",
+        "N-597",
+        "N-602"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10608",
-      "ref": "N-10608",
+      "@id": "N-10535",
+      "ref": "N-10535",
       "name": "9/10 Behind Charlie Video Analysis",
       "type": "investigation_target",
       "description": "Investigation target: forensic observations from the displayed behind-Charlie footage (necklace/magnet clasp state, blood pattern, hand motion at table).",
@@ -890,13 +890,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-10610"
+        "N-10537"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10609",
-      "ref": "N-10609",
+      "@id": "N-10536",
+      "ref": "N-10536",
       "name": "Hospital Transport Van Interior Photo Analysis",
       "type": "investigation_target",
       "description": "Investigation target: forensic observations from displayed photos of van interior that transported Charlie Kirk to hospital, including Instaclot package identification and back-seat material distribution.",
@@ -920,8 +920,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10610",
-      "ref": "N-10610",
+      "@id": "N-10537",
+      "ref": "N-10537",
       "name": "Charlie Kirk Necklace / Magnet Clasp Examination",
       "type": "investigation_target",
       "description": "Investigation target: state and behavior of Kirk's necklace and magnet clasp as shown in displayed 9/10 video and surrounding testimony (Erica, Frank, Brian Harpole stories referenced by host).",
@@ -939,13 +939,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-10608"
+        "N-10535"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10611",
-      "ref": "N-10611",
+      "@id": "N-10538",
+      "ref": "N-10538",
       "name": "Turning Point Action / Thomas Massie Disavowal Incident",
       "type": "investigation_target",
       "description": "Investigation target: TP Action public reversal against Massie, who was a longtime Charlie Kirk favorite, and the surrounding X community note fact-check.",
@@ -969,8 +969,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-968",
-        "N-70"
+        "N-593",
+        "N-41"
       ]
     },
     {
@@ -1007,8 +1007,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-41",
+      "ref": "N-41",
       "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
@@ -1023,8 +1023,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-35",
-      "ref": "N-35",
+      "@id": "N-9",
+      "ref": "N-9",
       "name": "Jeffrey Epstein",
       "type": "person",
       "description": "Nucleus of Lutnick/Andre whistleblower thread and host's broader files thesis.",
@@ -1039,8 +1039,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-75",
-      "ref": "N-75",
+      "@id": "N-46",
+      "ref": "N-46",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
@@ -1055,8 +1055,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -1071,8 +1071,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-552",
-      "ref": "N-552",
+      "@id": "N-337",
+      "ref": "N-337",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
@@ -1103,8 +1103,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-313",
-      "ref": "N-313",
+      "@id": "N-215",
+      "ref": "N-215",
       "name": "Jesse Watters",
       "type": "person",
       "description": "Fox News host; interviewer in the Fox News interview clip of Erika Kirk discussed in this episode.",
@@ -1129,13 +1129,13 @@
         "A-1835.1"
       ],
       "related_nodes": [
-        "N-10604"
+        "N-10531"
       ],
       "tags": [],
       "claim_timestamp": "00:03:07",
       "investigative_direction": "Obtain the full NY Post article and underlying unsealed records to verify the address, building ownership chain, and named victims.",
       "mentions_person_refs": [
-        "N-35"
+        "N-9"
       ]
     },
     {
@@ -1148,14 +1148,14 @@
         "A-1835.1"
       ],
       "related_nodes": [
-        "N-10604",
-        "N-10605"
+        "N-10531",
+        "N-10532"
       ],
       "tags": [],
       "claim_timestamp": "00:04:48",
       "investigative_direction": "Locate the cited civil complaint or sworn testimony referencing the address-book labeling and compare to Next Model Management operational addresses.",
       "mentions_person_refs": [
-        "N-35"
+        "N-9"
       ]
     },
     {
@@ -1168,8 +1168,8 @@
         "A-1835.1"
       ],
       "related_nodes": [
-        "N-10604",
-        "N-10605"
+        "N-10531",
+        "N-10532"
       ],
       "tags": [],
       "claim_timestamp": "00:04:48",
@@ -1189,10 +1189,10 @@
       "claim_timestamp": "00:08:25",
       "investigative_direction": "Obtain federal court docket for the Southern District of New York case, cross-reference Epstein-file redaction entries, and document Kushner/White House visit records for the brothers.",
       "mentions_person_refs": [
-        "N-254",
-        "N-973",
-        "N-974",
-        "N-975"
+        "N-182",
+        "N-598",
+        "N-599",
+        "N-600"
       ]
     },
     {
@@ -1205,14 +1205,14 @@
         "A-1837.1"
       ],
       "related_nodes": [
-        "N-10606"
+        "N-10533"
       ],
       "tags": [],
       "claim_timestamp": "00:13:44",
       "investigative_direction": "Obtain the official proclamation text and any associated Arkansas Department of Education guidance; verify whether the proclamation is symbolic or carries operational force.",
       "mentions_person_refs": [
         "N-2",
-        "N-969"
+        "N-594"
       ]
     },
     {
@@ -1225,14 +1225,14 @@
         "A-1838.1"
       ],
       "related_nodes": [
-        "N-10607"
+        "N-10534"
       ],
       "tags": [],
       "claim_timestamp": "00:17:48",
       "investigative_direction": "Locate original 2017 article source and verify the Antonio Placement Center in Constanta; cross-check Romanian nonprofit registration records for United Hands Romania.",
       "mentions_person_refs": [
         "N-2",
-        "N-971"
+        "N-596"
       ]
     },
     {
@@ -1245,14 +1245,14 @@
         "A-1838.2"
       ],
       "related_nodes": [
-        "N-10607"
+        "N-10534"
       ],
       "tags": [],
       "claim_timestamp": "00:16:04",
       "investigative_direction": "Identify the interview source and date; obtain statements from orphanage staff or volunteers regarding Crossman's access to children.",
       "mentions_person_refs": [
         "N-2",
-        "N-971"
+        "N-596"
       ]
     },
     {
@@ -1265,13 +1265,13 @@
         "A-1839.1"
       ],
       "related_nodes": [
-        "N-10607"
+        "N-10534"
       ],
       "tags": [],
       "claim_timestamp": "00:18:27",
       "investigative_direction": "Cross-reference with established historical documentation of the Children of God / The Family movement's teachings on minor sexual activity.",
       "mentions_person_refs": [
-        "N-972"
+        "N-597"
       ]
     },
     {
@@ -1284,15 +1284,15 @@
         "A-1840.1"
       ],
       "related_nodes": [
-        "N-10607"
+        "N-10534"
       ],
       "tags": [],
       "claim_timestamp": "00:21:19",
       "investigative_direction": "Locate the 2018 Megyn Kelly episode and Babin's full interview; corroborate with other documented survivor testimony regarding Berg's \"sexual sharing\" directive.",
       "mentions_person_refs": [
-        "N-972",
-        "N-982",
-        "N-75"
+        "N-597",
+        "N-602",
+        "N-46"
       ]
     },
     {
@@ -1306,7 +1306,7 @@
         "A-1841.2"
       ],
       "related_nodes": [
-        "N-10609"
+        "N-10536"
       ],
       "tags": [],
       "claim_timestamp": "00:30:45",
@@ -1324,8 +1324,8 @@
         "A-1842.4"
       ],
       "related_nodes": [
-        "N-10608",
-        "N-10610"
+        "N-10535",
+        "N-10537"
       ],
       "tags": [],
       "claim_timestamp": "00:34:11",
@@ -1344,7 +1344,7 @@
         "A-1842.2"
       ],
       "related_nodes": [
-        "N-10608"
+        "N-10535"
       ],
       "tags": [],
       "claim_timestamp": "00:36:56",
@@ -1363,7 +1363,7 @@
         "A-1842.3"
       ],
       "related_nodes": [
-        "N-10608"
+        "N-10535"
       ],
       "tags": [],
       "claim_timestamp": "00:39:06",
@@ -1382,14 +1382,14 @@
         "A-1843.1"
       ],
       "related_nodes": [
-        "N-10611"
+        "N-10538"
       ],
       "tags": [],
       "claim_timestamp": "00:42:41",
       "investigative_direction": "Identify date and program of the clip; corroborate via multiple Charlie Kirk video instances praising Massie (per host, spanning 2016 through 2023).",
       "mentions_person_refs": [
         "N-1",
-        "N-968"
+        "N-593"
       ]
     },
     {
@@ -1402,13 +1402,13 @@
         "A-1844.1"
       ],
       "related_nodes": [
-        "N-10611"
+        "N-10538"
       ],
       "tags": [],
       "claim_timestamp": "00:43:29",
       "investigative_direction": "Preserve original tweet (including any subsequent edits/deletions); identify the author of the TP Action account; document timing relative to Massie Committee work.",
       "mentions_person_refs": [
-        "N-968"
+        "N-593"
       ]
     },
     {
@@ -1421,13 +1421,13 @@
         "A-1844.2"
       ],
       "related_nodes": [
-        "N-10611"
+        "N-10538"
       ],
       "tags": [],
       "claim_timestamp": "00:43:29",
       "investigative_direction": "Preserve community note metadata; identify raters and any subsequent updates to the note.",
       "mentions_person_refs": [
-        "N-968",
+        "N-593",
         "N-1"
       ]
     },
@@ -1442,14 +1442,14 @@
         "A-1845.1"
       ],
       "related_nodes": [
-        "N-10611"
+        "N-10538"
       ],
       "tags": [],
       "claim_timestamp": "00:44:27",
       "investigative_direction": "Compile and date-stamp all public Charlie Kirk video appearances praising Massie; document the platform and audience of each.",
       "mentions_person_refs": [
         "N-1",
-        "N-968"
+        "N-593"
       ]
     },
     {
@@ -1462,13 +1462,13 @@
         "A-1839.1"
       ],
       "related_nodes": [
-        "N-10607"
+        "N-10534"
       ],
       "tags": [],
       "claim_timestamp": "00:18:27",
       "investigative_direction": "Locate the full investigative article; verify Crossman's documented affiliation independently; examine United Hands Romania registration and operational history.",
       "mentions_person_refs": [
-        "N-971"
+        "N-596"
       ]
     },
     {
@@ -1481,14 +1481,14 @@
         "A-1838.1"
       ],
       "related_nodes": [
-        "N-10607"
+        "N-10534"
       ],
       "tags": [],
       "claim_timestamp": "00:17:48",
       "investigative_direction": "Verify Antonio Placement Center in Constanta exists as documented; obtain Romanian-language records and Constantine base access logs referenced by Kirk.",
       "mentions_person_refs": [
         "N-2",
-        "N-971"
+        "N-596"
       ]
     },
     {
@@ -1501,7 +1501,7 @@
         "A-1842.2"
       ],
       "related_nodes": [
-        "N-10608"
+        "N-10535"
       ],
       "tags": [],
       "claim_timestamp": "00:38:21",
@@ -1521,14 +1521,14 @@
         "A-1841.2"
       ],
       "related_nodes": [
-        "N-10609"
+        "N-10536"
       ],
       "tags": [],
       "claim_timestamp": "00:31:14",
       "investigative_direction": "Obtain official TPUSA narrative statements regarding Harpole's posture and timing; compare to multiple displayed photo angles.",
       "mentions_person_refs": [
-        "N-424",
-        "N-552"
+        "N-272",
+        "N-337"
       ]
     },
     {
@@ -1541,13 +1541,13 @@
         "A-1845.1"
       ],
       "related_nodes": [
-        "N-10611"
+        "N-10538"
       ],
       "tags": [],
       "claim_timestamp": "00:44:27",
       "investigative_direction": "Preserve full reply-tweet thread; identify any subsequent TPUSA responses and document the public dispute timeline.",
       "mentions_person_refs": [
-        "N-968"
+        "N-593"
       ]
     },
     {
@@ -1560,13 +1560,13 @@
         "A-1839.1"
       ],
       "related_nodes": [
-        "N-10607"
+        "N-10534"
       ],
       "tags": [],
       "claim_timestamp": "00:19:11",
       "investigative_direction": "Cross-reference with documented post-1970s directives from David Berg and successor leadership regarding dispersal strategy; examine nonprofit registration patterns of former members.",
       "mentions_person_refs": [
-        "N-972"
+        "N-597"
       ]
     }
   ],

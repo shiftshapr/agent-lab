@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: d5118abb6ad6ec2bcd690c539ec2d59272e03045bac365ac901d9017dac21a9a
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-830, N-833, N-835, N-839, N-840, N-841, N-843, N-850, N-851, N-853, N-854, N-855, N-856, N-857, N-858, N-867, N-10541, N-10542, N-10543, N-10544, N-10545, N-10546, N-10547
+  - New Nodes Introduced: N-531, N-532, N-533, N-534, N-535, N-536, N-537, N-539, N-540, N-541, N-542, N-543, N-544, N-545, N-546, N-547, N-10470, N-10471, N-10472, N-10473, N-10474, N-10475, N-10476
   - Reused Nodes Appearing: N-1, N-2, N-3
   - (see registers)
 
@@ -31,8 +31,8 @@
 - **Episode Ledger Summary:**
   - Artifact Families Introduced: A-1714, A-1715, A-1716, A-1717, A-1718, A-1719, A-1720, A-1721, A-1722, A-1723, A-1724, A-1725
   - Claim Range: C-2253–C-2282
-  - New People Nodes Introduced: N-80 through N-77
-  - New Investigation Target Nodes Introduced: N-10541 through N-10547
+  - New People Nodes Introduced: N-50 through N-48
+  - New Investigation Target Nodes Introduced: N-10470 through N-10476
   - Existing Nodes Reused: N-1, N-2, N-3
 
 ---
@@ -57,7 +57,7 @@ Video Timestamp: 00:03:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host reads selectively; full letter not displayed)
 
-*Related: C-2253, N-80, N-830*
+*Related: C-2253, N-50, N-531*
 
 ---
 
@@ -71,7 +71,7 @@ Video Timestamp: 00:10:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (compilation quality, source platform)
 
-*Related: C-2254, C-2255, C-2256, C-2257, C-2258, N-833, N-35, N-851, N-76*
+*Related: C-2254, C-2255, C-2256, C-2257, C-2258, N-532, N-9, N-540, N-47*
 
 ---
 
@@ -85,7 +85,7 @@ Video Timestamp: 00:16:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (named journalist; specific evidence cited)
 
-*Related: C-2259, C-2260, N-35, N-843, N-260, N-858*
+*Related: C-2259, C-2260, N-9, N-537, N-186, N-546*
 
 ---
 
@@ -99,7 +99,7 @@ Video Timestamp: 00:18:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (Shapiro on camera; identifiable)
 
-*Related: C-2261, C-2262, N-133, N-50, N-867*
+*Related: C-2261, C-2262, N-97, N-22, N-547*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:20:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (statement read aloud; full interview context not displayed)
 
-*Related: C-2263, C-2264, N-841, N-867*
+*Related: C-2263, C-2264, N-536, N-547*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:22:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (post read verbatim)
 
-*Related: C-2265, N-839, N-840*
+*Related: C-2265, N-534, N-535*
 
 ---
 
@@ -141,7 +141,7 @@ Video Timestamp: 00:26:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (named interviewees; exchange preserved)
 
-*Related: C-2266, C-2267, N-35, N-835, N-850*
+*Related: C-2266, C-2267, N-9, N-533, N-539*
 
 ---
 
@@ -155,7 +155,7 @@ Video Timestamp: 00:39:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (Hammer on camera; direct claim)
 
-*Related: C-2268, C-2269, N-1, N-42, N-10544*
+*Related: C-2268, C-2269, N-1, N-14, N-10473*
 
 ---
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:47:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (Turek on camera; named show)
 
-*Related: C-2270, C-2271, N-1, N-16, N-10544*
+*Related: C-2270, C-2271, N-1, N-7, N-10473*
 
 ---
 
@@ -183,7 +183,7 @@ Video Timestamp: 00:14:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (verbatim quote; verifiable WikiLeaks archive)
 
-*Related: C-2272, N-854, N-855, N-856*
+*Related: C-2272, N-542, N-543, N-544*
 
 ---
 
@@ -197,7 +197,7 @@ Video Timestamp: 00:42:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbally referenced; not shown)
 
-*Related: C-2281, N-1, N-10544*
+*Related: C-2281, N-1, N-10473*
 
 ---
 
@@ -218,7 +218,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:57:34
 Confidence Level: High
 
-*Related: C-2277, N-857, N-856*
+*Related: C-2277, N-545, N-544*
 
 **A-1725.3** Comment from "Shyla" affirming Candace as "ultimate truth seeker" and stating "Christ is king"
 
@@ -263,7 +263,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:44:45
 Confidence Level: Medium (source unnamed; testimony attributed)
 
-*Related: C-2273, C-2274, N-2, N-434, N-10541*
+*Related: C-2273, C-2274, N-2, N-276, N-10470*
 
 **A-1726.2** Host-testimony claim that a neighbor resident confirmed seeing Charlie Kirk on a walk with a tall unrecognized person (not Frank Turek), and confirmed seeing Charlie in an elevator on September 9
 
@@ -272,7 +272,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:48:34
 Confidence Level: Medium (source unnamed)
 
-*Related: C-2275, N-1, N-16, N-10547*
+*Related: C-2275, N-1, N-7, N-10476*
 
 ---
 
@@ -282,7 +282,7 @@ Confidence Level: Medium (source unnamed)
 Video Timestamp: 00:17:50
 Transcript Snippet: ...ed. >> Also, I love that he's wearing a CIA t-shirt. James, great work. So many independent journalists, thankfully for independent journalists, or thi...
 Confidence: medium
-*Related: C-3661, N-3, N-260*
+*Related: C-3661, N-3, N-186*
 
 ---
 
@@ -292,7 +292,7 @@ Confidence: medium
 
 ### People Nodes (new in this episode)
 
-**N-80** Sigmund Freud
+**N-50** Sigmund Freud
 
 Austrian neurologist and founder of psychoanalysis; cited by host for 1897 letter to Wilhelm Fliess describing ritual abuse scene. Source of host's framing premise about Jewish mysticism.
 
@@ -301,9 +301,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (Bride of Charlie relevance is indirect)
 
-*Related: A-1714.1, C-2253, N-830*
+*Related: A-1714.1, C-2253, N-531*
 
-**N-830** Wilhelm Fliess
+**N-531** Wilhelm Fliess
 
 German physician and Freud's intimate correspondent; recipient of the 1897 ritual scene letter; alleged perpetrator of childhood sexual abuse against his son Robert.
 
@@ -312,9 +312,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1714.1, N-80*
+*Related: A-1714.1, N-50*
 
-**N-833** Rothschild Family
+**N-532** Rothschild Family
 
 European banking dynasty; referenced in Epstein email per host ("Epstein works on behalf of the Rothschilds") and discussed in the Frankist cult / Morocco flag framing.
 
@@ -325,7 +325,7 @@ Investigative Pressure: Medium (due to direct Epstein-email reference)
 
 *Related: A-1715.1, C-2258*
 
-**N-35** Jeffrey Epstein
+**N-9** Jeffrey Epstein
 
 Financier and convicted sex offender; subject of 2024-2026 document releases; named in Peter Thiel, Joshua Finkelstein, Susan Hamblin, and Jay-Z email contexts.
 
@@ -334,9 +334,9 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High (central to J.D. Vance / Peter Thiel / Susan Hamblin sub-investigations)
 
-*Related: A-1715.1, A-1716.1, A-1720.1, C-2258, C-2259, C-2260, C-2266, N-835, N-4, N-840, N-843, N-260, N-76, N-851, N-853, N-77, N-10545*
+*Related: A-1715.1, A-1716.1, A-1720.1, C-2258, C-2259, C-2260, C-2266, N-533, N-4, N-535, N-537, N-186, N-47, N-540, N-541, N-48, N-10474*
 
-**N-835** Peter Thiel
+**N-533** Peter Thiel
 
 Tech billionaire and JD Vance political patron; identified in Epstein emails and discussed on Rogan regarding his Epstein relationship.
 
@@ -345,7 +345,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High (J.D. Vance implications central to Bride of Charlie political exposure claim)
 
-*Related: A-1715.1, A-1720.1, C-2266, C-2267, N-4, N-850, N-10546*
+*Related: A-1715.1, A-1720.1, C-2266, C-2267, N-4, N-539, N-10475*
 
 **N-4** JD Vance
 
@@ -356,9 +356,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1715.1, N-835, N-10546*
+*Related: A-1715.1, N-533, N-10475*
 
-**N-133** Ben Shapiro
+**N-97** Ben Shapiro
 
 Conservative commentator; defended FBI on Epstein tapes (asserting child-porn content and "no Epstein list"); named in podcast pre-release commentary as Epstein email subject.
 
@@ -369,7 +369,7 @@ Investigative Pressure: Medium
 
 *Related: A-1717.1, C-2261, C-2262*
 
-**N-444** Bari Weiss
+**N-284** Bari Weiss
 
 Conservative podcaster ("The Weiss Reports"); named as defender of Alan Dershowitz and as B'nai B'rith descendant (host claim).
 
@@ -378,9 +378,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-3, N-858*
+*Related: N-3, N-546*
 
-**N-839** Nicki Minaj
+**N-534** Nicki Minaj
 
 Hip-hop artist; posted on X about satanic cult practices in context of Jay-Z naming.
 
@@ -389,9 +389,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1719.1, C-2265, N-840*
+*Related: A-1719.1, C-2265, N-535*
 
-**N-840** Jay-Z
+**N-535** Jay-Z
 
 Hip-hop artist; mentioned in Epstein emails per host (in context of Harvey Weinstein watching an assault); named in Nicki Minaj X post.
 
@@ -400,9 +400,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1719.1, C-2265, N-839, N-35*
+*Related: A-1719.1, C-2265, N-534, N-9*
 
-**N-841** Naftali Bennett
+**N-536** Naftali Bennett
 
 Former Israeli Prime Minister; issued on-camera denial that Mossad ran Epstein.
 
@@ -413,7 +413,7 @@ Investigative Pressure: Medium
 
 *Related: A-1718.1, C-2263, C-2264*
 
-**N-50** Tucker Carlson
+**N-22** Tucker Carlson
 
 Commentator; described by host as asserting "without evidence" that Mossad ran Epstein.
 
@@ -422,9 +422,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1717.1, N-841*
+*Related: A-1717.1, N-536*
 
-**N-843** Susan Hamblin
+**N-537** Susan Hamblin
 
 Financial advisor and founder of Kids-to-Families adoption agency; alleged sender of "I give you permission to kill him" email to Epstein (per James Lee analysis); previously sued News Group Newspapers.
 
@@ -433,9 +433,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1716.1, C-2259, C-2260, N-35, N-858*
+*Related: A-1716.1, C-2259, C-2260, N-9, N-546*
 
-**N-260** James Lee
+**N-186** James Lee
 
 Independent journalist who analyzed the Susan Hamblin redacted Epstein email.
 
@@ -444,9 +444,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1716.1, N-843*
+*Related: A-1716.1, N-537*
 
-**N-16** Frank Turek
+**N-7** Frank Turek
 
 Christian apologist and Charlie Kirk mentor; described the Sept 8 walk with Charlie on Megyn Kelly Show.
 
@@ -455,9 +455,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High (directly affects Charlie Kirk timeline)
 
-*Related: A-1722.2, C-2270, C-2271, N-1, N-10544, N-10547*
+*Related: A-1722.2, C-2270, C-2271, N-1, N-10473, N-10476*
 
-**N-42** Andrew Kolvet
+**N-14** Andrew Kolvet
 
 Charlie Kirk's TPUSA team member; recipient (with Dan Flood) of "they're going to kill me" text on Sept 9.
 
@@ -466,9 +466,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1726.1, C-2274, N-434, N-1, N-10544*
+*Related: A-1726.1, C-2274, N-276, N-1, N-10473*
 
-**N-434** Dan Flood
+**N-276** Dan Flood
 
 Charlie Kirk associate; named recipient of "they're going to kill me" text per host's source; format of the text (iMessage vs Telegram) is in dispute.
 
@@ -477,9 +477,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1726.1, C-2273, C-2274, N-2, N-42, N-10541, N-10544*
+*Related: A-1726.1, C-2273, C-2274, N-2, N-14, N-10470, N-10473*
 
-**N-134** Bob Shulman
+**N-98** Bob Shulman
 
 Jewish donor; per host, withdrew financial support from Charlie Kirk on Sept 9 amid the pro-Israel text exchange.
 
@@ -488,9 +488,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2269, N-1, N-10544*
+*Related: C-2269, N-1, N-10473*
 
-**N-850** Reid Hoffman
+**N-539** Reid Hoffman
 
 LinkedIn co-founder; per Peter Thiel, introduced Thiel to Jeffrey Epstein around 2014.
 
@@ -499,9 +499,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1720.1, C-2266, N-835, N-35*
+*Related: A-1720.1, C-2266, N-533, N-9*
 
-**N-851** Maria Farmer
+**N-540** Maria Farmer
 
 Epstein victim; stated Ghislaine Maxwell described Epstein's place as "a Jewish country club."
 
@@ -510,9 +510,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1715.1, C-2257, N-35, N-76*
+*Related: A-1715.1, C-2257, N-9, N-47*
 
-**N-76** Ghislaine Maxwell
+**N-47** Ghislaine Maxwell
 
 Epstein associate; quoted saying Epstein's residence was "a Jewish country club."
 
@@ -521,9 +521,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1715.1, C-2257, N-851, N-35*
+*Related: A-1715.1, C-2257, N-540, N-9*
 
-**N-853** Jean-Luc Brunel
+**N-541** Jean-Luc Brunel
 
 French modeling agent; named in connection with Epstein's modeling recruitment pipeline (M Model Management, Victoria's Secret, Miss Universe per host).
 
@@ -532,9 +532,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-35*
+*Related: N-9*
 
-**N-854** Katherine Tate
+**N-542** Katherine Tate
 
 Sender of pizza-referencing email to John Podesta released via WikiLeaks.
 
@@ -543,9 +543,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1723.1, C-2272, N-855*
+*Related: A-1723.1, C-2272, N-543*
 
-**N-855** John Podesta
+**N-543** John Podesta
 
 Clinton campaign chair; recipient of pizza-referencing emails per WikiLeaks.
 
@@ -554,9 +554,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1723.1, C-2272, N-854*
+*Related: A-1723.1, C-2272, N-542*
 
-**N-856** Julian Assange
+**N-544** Julian Assange
 
 WikiLeaks founder; referenced as publisher of Podesta emails; named by commenter in context of pizza-code discussion.
 
@@ -565,9 +565,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1725.2, N-854, N-855*
+*Related: A-1725.2, N-542, N-543*
 
-**N-857** Hillary Clinton
+**N-545** Hillary Clinton
 
 Former Secretary of State; named by commenter regarding WikiLeaks email to Obama about being careful around Assange; separately cited for seeking Gilgamesh's tomb in Iraq pre-invasion.
 
@@ -576,9 +576,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1725.2, N-856*
+*Related: A-1725.2, N-544*
 
-**N-858** Alan Dershowitz
+**N-546** Alan Dershowitz
 
 Attorney and Epstein associate; cited as having recounted a massage from a woman named "Olga" at Epstein's place; defended by Mark Levin and Barry Weiss.
 
@@ -587,9 +587,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1716.1, N-444, N-374*
+*Related: A-1716.1, N-284, N-249*
 
-**N-272** Mikey McCoy
+**N-194** Mikey McCoy
 
 Named by host as having traveled to meet the White House alongside Andrew Kolbatz; subject of neighbor sightings reported by host.
 
@@ -598,9 +598,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-42*
+*Related: N-14*
 
-**N-374** Mark Levin
+**N-249** Mark Levin
 
 Conservative commentator; named as defender of Alan Dershowitz.
 
@@ -609,9 +609,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-858*
+*Related: N-546*
 
-**N-867** Todd Blanche
+**N-547** Todd Blanche
 
 Deputy Attorney General; named by host as stating DOJ is "sparing us the videos."
 
@@ -620,9 +620,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2261, N-35*
+*Related: C-2261, N-9*
 
-**N-77** Robert Maxwell
+**N-48** Robert Maxwell
 
 British media proprietor and father of Ghislaine Maxwell; named in connection with Kushner Epstein emails (per host).
 
@@ -631,7 +631,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-76*
+*Related: N-47*
 
 ### Existing Nodes Reused
 
@@ -647,7 +647,7 @@ Referenced in alibi and Dan Flood message disputes.
 
 ### Investigation Target Nodes (new)
 
-**N-10541** Dan Flood Message Format Discrepancy
+**N-10470** Dan Flood Message Format Discrepancy
 
 Persistent inconsistency between Erica Kirk's account (denied message; then said Telegram; host source says iMessage). Bears directly on the Sept 9 "they're going to kill me" text.
 
@@ -656,9 +656,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1726.1, C-2273, C-2274, N-2, N-434*
+*Related: A-1726.1, C-2273, C-2274, N-2, N-276*
 
-**N-10542** Erica Kirk Sept 10 Alibi Verification
+**N-10471** Erica Kirk Sept 10 Alibi Verification
 
 Host's claim that no one in Erica Kirk's building or medical office can confirm her stated alibi of collapsing in parking lot and screaming in doctor's office on Sept 10.
 
@@ -667,9 +667,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1726.2, C-2275, N-2, N-10543*
+*Related: A-1726.2, C-2275, N-2, N-10472*
 
-**N-10543** Fort Huachuca Alibi Investigation
+**N-10472** Fort Huachuca Alibi Investigation
 
 Persistent target: host reports "major problems" verifying Erica Kirk's Fort Huachuca alibi; details pending.
 
@@ -678,9 +678,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: N-2, N-10542*
+*Related: N-2, N-10471*
 
-**N-10544** Charlie Kirk Sept 8–10 Timeline Reconstruction
+**N-10473** Charlie Kirk Sept 8–10 Timeline Reconstruction
 
 Persistent target for assembling verified public statements about Charlie Kirk's whereabouts Sept 8–10. Affected by Josh Hammer correction (Sept 9 text vs Sept 8), Sept 9 Zoom call, dinner with priest, "kill me" text, and Frank Turek's Sept 8 walk account.
 
@@ -689,9 +689,9 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1721.1, A-1722.2, A-1724.1, A-1726.2, C-2268, C-2269, C-2270, C-2271, C-2274, C-2275, C-2281, N-1, N-42, N-16, N-434, N-134*
+*Related: A-1721.1, A-1722.2, A-1724.1, A-1726.2, C-2268, C-2269, C-2270, C-2271, C-2274, C-2275, C-2281, N-1, N-14, N-7, N-276, N-98*
 
-**N-10545** Peter Thiel–Epstein Relationship Documentation
+**N-10474** Peter Thiel–Epstein Relationship Documentation
 
 Persistent target: amount and content of Thiel's email exchanges with Epstein per released documents.
 
@@ -700,9 +700,9 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1715.1, A-1720.1, C-2258, C-2266, C-2267, N-35, N-835, N-850*
+*Related: A-1715.1, A-1720.1, C-2258, C-2266, C-2267, N-9, N-533, N-539*
 
-**N-10546** J.D. Vance–Peter Thiel Political Exposure
+**N-10475** J.D. Vance–Peter Thiel Political Exposure
 
 Persistent target: whether and how Peter Thiel's Epstein emails affect J.D. Vance politically (per host's claim that this is "plausibly the biggest scandal to come out of the emails").
 
@@ -711,9 +711,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1715.1, N-835, N-4*
+*Related: A-1715.1, N-533, N-4*
 
-**N-10547** Charlie Kirk Sept 8 Walk Companion Identification
+**N-10476** Charlie Kirk Sept 8 Walk Companion Identification
 
 Persistent target: whether Charlie Kirk's Sept 8 walk at ~8 PM was with Frank Turek, an unrecognized tall person, or both (sequentially). Neighbor testimony to host suggests second possibility.
 
@@ -722,7 +722,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1722.2, A-1726.2, C-2270, C-2275, N-1, N-16*
+*Related: A-1722.2, A-1726.2, C-2270, C-2275, N-1, N-7*
 
 ---
 
@@ -735,7 +735,7 @@ Claim Timestamp: 00:03:44
 Claim: A letter from Sigmund Freud to Wilhelm Fliess describes a patient recalling ritual circumcision and concludes with Freud's reference to "a primeval devil religion" and "the harsh therapy of the witches' judges."
 
 Anchored Artifacts: A-1714.1
-Mentions: N-80, N-830
+Mentions: N-50, N-531
 
 
 Investigative Direction: Obtain the full Freud-Fliess correspondence from standard critical editions to verify the quote in full context.
@@ -749,7 +749,7 @@ Claim Timestamp: 00:10:32
 Claim: Per the TikTok contrarian compilation, Israel is mentioned twice as much as Donald Trump across the released Epstein documents.
 
 Anchored Artifacts: A-1715.1
-Mentions: N-35, N-5
+Mentions: N-9, N-5
 
 
 Investigative Direction: Independently count Israel/Trump mentions across DOJ-released documents.
@@ -763,7 +763,7 @@ Claim Timestamp: 00:10:32
 Claim: Per the compilation, in a discussion with Jewish-American academic and hedge fund worker Roger Schank, Epstein stated that Jews create vast fortunes by manipulating markets, creating financial speculation, and exploiting labor.
 
 Anchored Artifacts: A-1715.1
-Mentions: N-35
+Mentions: N-9
 
 
 Investigative Direction: Locate the underlying email between Epstein and Roger Schank in DOJ releases.
@@ -777,7 +777,7 @@ Claim Timestamp: 00:11:37
 Claim: Per the compilation, Joshua Finkelstein (described as BlackRock's Larry Finkelstein's son) is accused by his ex-girlfriend Svetlana of having "no respect for non-Jews" and of seeing them as not human; he also pressured her to have an abortion.
 
 Anchored Artifacts: A-1715.1
-Mentions: N-35
+Mentions: N-9
 
 
 Investigative Direction: Obtain the underlying email and any corroborating testimony from Svetlana.
@@ -791,7 +791,7 @@ Claim Timestamp: 00:12:20
 Claim: Per Maria Farmer's on-camera statement in the compilation, when Maria Farmer called Ghislaine Maxwell to ask why she could not eat at Epstein's residence, Maxwell told her "It's a Jewish country club. You're not Jewish. They're not going to serve you."
 
 Anchored Artifacts: A-1715.1
-Mentions: N-35, N-76, N-851
+Mentions: N-9, N-47, N-540
 
 
 Investigative Direction: Cross-check against Maria Farmer's prior sworn testimony and DOJ documents.
@@ -805,7 +805,7 @@ Claim Timestamp: 00:09:45
 Claim: Per host reading, an Epstein email stated "those are my bosses, the Rothschilds."
 
 Anchored Artifacts: A-1715.1 (referenced in compilation context)
-Mentions: N-35, N-833
+Mentions: N-9, N-532
 
 
 Investigative Direction: Identify the specific Epstein email in DOJ releases containing the Rothschild reference.
@@ -819,7 +819,7 @@ Claim Timestamp: 00:16:29
 Claim: Per James Lee's analysis, an Epstein email poorly redacted but readable as from "Susan Hamblin" contains the line "I give you permission to kill him."
 
 Anchored Artifacts: A-1716.1
-Mentions: N-35, N-260, N-843
+Mentions: N-9, N-186, N-537
 
 
 Investigative Direction: Obtain the unredacted email from DOJ sources; cross-check with prior News Group Newspapers reporting on Susan Hamblin.
@@ -833,7 +833,7 @@ Claim Timestamp: 00:16:29
 Claim: Per James Lee, Susan Hamblin previously sued News Group Newspapers (publisher of The Sun) over articles alleging she groomed and procured a 16-year-old for Epstein; articles were removed and substantial compensation paid.
 
 Anchored Artifacts: A-1716.1
-Mentions: N-843, N-260
+Mentions: N-537, N-186
 
 
 Investigative Direction: Verify the litigation through court records (UK).
@@ -847,7 +847,7 @@ Claim Timestamp: 00:18:35
 Claim: Per Ben Shapiro on camera, the FBI is not releasing Epstein tapes because the tapes are child pornography, not because they document third-party abuse.
 
 Anchored Artifacts: A-1717.1
-Mentions: N-35, N-133
+Mentions: N-9, N-97
 
 
 Investigative Direction: Compare Shapiro's claim to DOJ public statements and Todd Blanche's public statements on the tapes.
@@ -861,7 +861,7 @@ Claim Timestamp: 00:18:35
 Claim: Per Ben Shapiro on camera, citing his federal government sources, there is no Epstein list; the black book contacts are already public, and no evidence exists that third-party contacts trafficked girls.
 
 Anchored Artifacts: A-1717.1
-Mentions: N-35, N-133
+Mentions: N-9, N-97
 
 
 Investigative Direction: Cross-check against DOJ/FBI official statements on what documents were released.
@@ -875,7 +875,7 @@ Claim Timestamp: 00:20:38
 Claim: Per host-read Bennett statement, former Israeli PM Naftali Bennett stated with "100% certainty" that the accusation Mossad ran an Epstein blackmail ring is "categorically and totally false."
 
 Anchored Artifacts: A-1718.1
-Mentions: N-35, N-841
+Mentions: N-9, N-536
 
 
 Investigative Direction: Obtain the full Bennett interview recording.
@@ -889,7 +889,7 @@ Claim Timestamp: 00:20:38
 Claim: Per host-read Bennett statement (following her own interview with Bennett), Mossad has not been active in the United States since the Jonathan Pollard scandal of 1987.
 
 Anchored Artifacts: A-1718.1
-Mentions: N-841, N-440
+Mentions: N-536, N-280
 
 
 Investigative Direction: Verify Bennett's claim against declassified or publicly known Mossad operations post-1987.
@@ -903,7 +903,7 @@ Claim Timestamp: 00:22:23
 Claim: Nicki Minaj posted on X that "Your favorite artist has been practicing rituals in a satanic cult where they take babies from other countries and mutilate and kill them as a form of blood sacrifice to their God."
 
 Anchored Artifacts: A-1719.1
-Mentions: N-839, N-840
+Mentions: N-534, N-535
 
 
 Investigative Direction: Locate Minaj's original post on X; identify which artist she is referencing (context suggests Jay-Z).
@@ -917,7 +917,7 @@ Claim Timestamp: 00:26:09
 Claim: Per Peter Thiel on the Joe Rogan podcast, he was introduced to Jeffrey Epstein by Reid Hoffman in 2014 (after Epstein's 2008 arrest), described as "one of the smartest tax people in the world."
 
 Anchored Artifacts: A-1720.1
-Mentions: N-35, N-835, N-850, N-427
+Mentions: N-9, N-533, N-539, N-274
 
 
 Investigative Direction: Confirm date and circumstances against any released Thiel email metadata with Hoffman.
@@ -931,7 +931,7 @@ Claim Timestamp: 00:27:02
 Claim: Per the Rogan exchange, Thiel states "it was probably my moral weakness" that he did not ask more questions about Epstein.
 
 Anchored Artifacts: A-1720.1
-Mentions: N-35, N-835
+Mentions: N-9, N-533
 
 
 Investigative Direction: Compare Thiel's Rogan account to the volume and content of his released emails with Epstein.
@@ -945,9 +945,9 @@ Claim Timestamp: 00:39:29
 Claim: Per Josh Hammer on camera, Charlie Kirk's text expressing intent to abandon the pro-Israel cause was sent on September 9, 2025 – not September 8 as Candace Owens had stated.
 
 Anchored Artifacts: A-1721.1
-Mentions: N-86, N-1, N-3
+Mentions: N-55, N-1, N-3
 
-Related Nodes: N-10544
+Related Nodes: N-10473
 
 Investigative Direction: Obtain timestamp metadata from the original screenshot of the text message; obtain Hammer's source for the date.
 
@@ -960,9 +960,9 @@ Claim Timestamp: 00:39:29
 Claim: Per Josh Hammer on camera, approximately two hours after the "abandoning pro-Israel cause" text, a small Zoom call occurred with Charlie Kirk, Hammer, and others, organized by Charlie for messaging advice on Jewish-Christian relations on college campuses.
 
 Anchored Artifacts: A-1721.1
-Mentions: N-86, N-134, N-1
+Mentions: N-55, N-98, N-1
 
-Related Nodes: N-10544
+Related Nodes: N-10473
 
 Investigative Direction: Identify the other Zoom participants; cross-check against calendar records; obtain the "rabbi in Israel" identity.
 
@@ -975,9 +975,9 @@ Claim Timestamp: 00:47:03
 Claim: Per Frank Turek on the Megyn Kelly Show, he went on a long walk with Charlie Kirk on Monday (September 8) at approximately 8:00 PM, after returning at Charlie's invitation.
 
 Anchored Artifacts: A-1722.2
-Mentions: N-16, N-1
+Mentions: N-7, N-1
 
-Related Nodes: N-10544, N-10547
+Related Nodes: N-10473, N-10476
 
 Investigative Direction: Cross-reference Turek's account with security/camera records, building logs, and neighbor witness accounts.
 
@@ -990,9 +990,9 @@ Claim Timestamp: 00:47:50
 Claim: Per Frank Turek, Charlie Kirk texted that he would be "shortly" out because "GG just got up," and Charlie had to attend to the child before the walk.
 
 Anchored Artifacts: A-1722.2
-Mentions: N-16, N-1, N-2
+Mentions: N-7, N-1, N-2
 
-Related Nodes: N-10544
+Related Nodes: N-10473
 
 Investigative Direction: Verify against Charlie Kirk's text message timestamp; cross-reference with Erica Kirk's location claims.
 
@@ -1005,7 +1005,7 @@ Claim Timestamp: 00:14:46
 Claim: An email released via WikiLeaks from Katherine Tate to John Podesta references "a handkerchief" that "seems pizza-related" and "weird specific orders of pizza and hot dogs."
 
 Anchored Artifacts: A-1723.1
-Mentions: N-854, N-855, N-856
+Mentions: N-542, N-543, N-544
 
 
 Investigative Direction: Verify the email against the WikiLeaks Podesta archive; identify context and any related communications.
@@ -1019,9 +1019,9 @@ Claim Timestamp: 00:44:45
 Claim: Per Candace Owens's source (described as having had access to Dan Flood's messages), the "they're going to kill me" text was sent as an iMessage, not via a Telegram chat that auto-cleared, as Erica Kirk later claimed.
 
 Anchored Artifacts: A-1726.1
-Mentions: N-42, N-434, N-2, N-3
+Mentions: N-14, N-276, N-2, N-3
 
-Related Nodes: N-10541
+Related Nodes: N-10470
 
 Investigative Direction: Obtain device forensic records for Dan Flood's phone; obtain any receipts or carrier records; cross-check against Telegram server logs (Telegram messages are not auto-cleared by default).
 
@@ -1034,9 +1034,9 @@ Claim Timestamp: 00:44:45
 Claim: Per Candace Owens's source, the Sept 9 "they're going to kill me" text was sent to Andrew Kolvet and Dan Flood as an iMessage exchange.
 
 Anchored Artifacts: A-1726.1
-Mentions: N-42, N-434, N-1, N-3
+Mentions: N-14, N-276, N-1, N-3
 
-Related Nodes: N-10544
+Related Nodes: N-10473
 
 Investigative Direction: Obtain corroborating testimony from Andrew Kolvet; cross-reference with Dan Flood's device records.
 
@@ -1049,9 +1049,9 @@ Claim Timestamp: 00:48:34
 Claim: Per Candace Owens's source (a resident of the Kirks' building), a neighbor encountered Charlie Kirk on a walk on September 8 with a tall person who was not Frank Turek; they spoke briefly about her dog and his upcoming tour.
 
 Anchored Artifacts: A-1726.2
-Mentions: N-16, N-1, N-3
+Mentions: N-7, N-1, N-3
 
-Related Nodes: N-10547
+Related Nodes: N-10476
 
 Investigative Direction: Identify the neighbor; obtain written statement; review building security camera footage if available.
 
@@ -1064,7 +1064,7 @@ Claim Timestamp: 00:56:38
 Claim: The top YouTube comment (from user "Truth no matter the consequences") requests a Candace Owens and Kanye West joint episode.
 
 Anchored Artifacts: A-1725.1
-Mentions: N-3, N-56
+Mentions: N-3, N-27
 
 
 Investigative Direction: Not applicable (commentary only).
@@ -1078,7 +1078,7 @@ Claim Timestamp: 00:57:34
 Claim: A YouTube comment from "I R O" references a $65,000 hot dog party at the White House found in WikiLeaks files, and a Hillary Clinton email to Obama advising caution around Julian Assange.
 
 Anchored Artifacts: A-1725.2
-Mentions: N-856, N-857
+Mentions: N-544, N-545
 
 
 Investigative Direction: Verify the underlying WikiLeaks document.
@@ -1136,7 +1136,7 @@ Claim: Per host reference, a Jezebel article regarding a witch's curse / Etsy sp
 Anchored Artifacts: A-1724.1 (verbally referenced; not displayed)
 Mentions: N-1
 
-Related Nodes: N-10544
+Related Nodes: N-10473
 
 Investigative Direction: Locate the Jezebel article; verify date and content.
 
@@ -1162,7 +1162,7 @@ Claim Timestamp: 00:17:50
 Claim: After playing independent journalist James Lee's clip on the poorly redacted Epstein email, the host says "I love that he's wearing a CIA t-shirt. James, great work," noting the featured journalist wearing a CIA shirt rather than plugging merch herself.
 Transcript Snippet: ...ed. >> Also, I love that he's wearing a CIA t-shirt. James, great work. So many independent journalists, thankfully for independent journalists, or thi...
 Anchored Artifacts: A-2489.1
-Mentions: N-3, N-260
+Mentions: N-3, N-186
 Related Nodes: 
 Confidence: medium
 Investigative Direction: Confirm in the James Lee clip that the shirt is the show's CIA design; keep as guest-wearing reference, not a host plug.
@@ -1186,11 +1186,11 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** "Andrew Kolvet" / "Andrew Kolvetz" / "Kolbatz" – transcript shows multiple spellings across instances. Original TPUSA communications should be consulted to determine canonical spelling. N-42 (Kolvet) and N-42 (Kolbatz) are preserved as separate node identifiers pending resolution; this may indicate transcription error or two separate individuals.
+- **Name uncertainty:** "Andrew Kolvet" / "Andrew Kolvetz" / "Kolbatz" – transcript shows multiple spellings across instances. Original TPUSA communications should be consulted to determine canonical spelling. N-14 (Kolvet) and N-14 (Kolbatz) are preserved as separate node identifiers pending resolution; this may indicate transcription error or two separate individuals.
 - **Artifact verbally referenced but not shown:** A-1724.1 (Jezebel article) – referenced by host as context for Charlie Kirk's behavior but not displayed on screen.
 - **Source unnamed:** A-1726.1, A-1726.2 – host's "source" with access to Dan Flood's messages and the building-neighbor sighting are referenced without on-air identification. Requires human verification.
 - **Transcript ambiguity:** C-2268 / C-2269 – host states Hammer confirmed Sept 9 for the text message but does not specify whether Hammer cited the screenshot timestamp directly or relied on memory.
-- **Possible transcription error:** "Kolbatz" (likely "Kolvet" / "Kolvetz") appears in the chapter "Andrew Kolbatz and alleged Mikey McQuaid"; appears again later as "Andrew Kolvetz." N-42 records "Kolvet" as canonical; N-42 records "Kolbatz" as transcribed.
+- **Possible transcription error:** "Kolbatz" (likely "Kolvet" / "Kolvetz") appears in the chapter "Andrew Kolbatz and alleged Mikey McQuaid"; appears again later as "Andrew Kolvetz." N-14 records "Kolvet" as canonical; N-14 records "Kolbatz" as transcribed.
 - **Claim failed admission test:** Multiple host-stated claims about Freemasons, B'nai B'rith, Khazarian Empire, Baal worship, ritual sacrifice by "them," Star of David origins, CERN ritual activity, and WikiLeaks pizza code words (the latter asserted without artifact display) have not been inscribed as evidentiary claims per the Framing Premise and Rhetoric Removal tests. They appear in the source commentary but not in the Claim Register.
 - **Spelling preservation:** "Alaouite" dynasty spelling preserved exactly as in transcript (host acknowledged uncertainty).
 - **Spelling preservation:** "Wilhelm Fliess" preserved (host said "Fliess" not "Fleiss"); "Kabbalah" preserved; "Khazarian" preserved.
@@ -1204,8 +1204,8 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (starting N-80)
-- [x] Non-person investigation targets use the 1000 series (starting N-10541)
+- [x] People nodes use the global people ledger (starting N-50)
+- [x] Non-person investigation targets use the 1000 series (starting N-10470)
 - [x] No speculative claims inscribed as evidence-backed claims (host framing about Baal/Satan/Khazars excluded)
 - [x] Names preserved exactly or uncertainty flagged
 - [x] Formatting consistent across artifact, node, and claim registers

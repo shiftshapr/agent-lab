@@ -127,7 +127,7 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-217"
+            "N-157"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -468,8 +468,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-56",
-      "ref": "N-56",
+      "@id": "N-27",
+      "ref": "N-27",
       "name": "Kanye West",
       "type": "person",
       "description": "Concert performer; subject of BBC interview clip (A-2342), Avengers meme (A-2343), concert footage (A-2341), and TMZ clip (A-2344).",
@@ -484,8 +484,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
+      "@id": "N-97",
+      "ref": "N-97",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
@@ -500,8 +500,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-182",
-      "ref": "N-182",
+      "@id": "N-132",
+      "ref": "N-132",
       "name": "Susie Wiles",
       "type": "person",
       "description": "White House chief of staff. Host questions her Kirk eulogy and names her in Epstein-file situation-room meetings.",
@@ -516,8 +516,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-217",
-      "ref": "N-217",
+      "@id": "N-157",
+      "ref": "N-157",
       "name": "John Mappin",
       "type": "person",
       "description": "Referenced by viewer comment \"fam\"; author of \"The Perfumed Pervert\" essay.",
@@ -583,7 +583,7 @@
       "investigative_direction": "Locate original publication of the open letter and verify signatures.",
       "mentions_person_refs": [
         "N-1",
-        "N-217"
+        "N-157"
       ]
     },
     {
@@ -636,7 +636,7 @@
       "investigative_direction": "Verify text record; cross-reference against any public statement from Kanye.",
       "mentions_person_refs": [
         "N-3",
-        "N-56"
+        "N-27"
       ]
     },
     {
@@ -654,7 +654,7 @@
       "investigative_direction": "Locate the original tweet via archive; verify date and any follow-up replies. *Artifact verbally referenced but not shown in episode.*",
       "mentions_person_refs": [
         "N-3",
-        "N-56"
+        "N-27"
       ]
     },
     {
@@ -745,7 +745,7 @@
       "investigative_direction": "Locate contemporaneous reporting on Shapiro's actions and any public statement. *No external corroborating artifact presented in episode.*",
       "mentions_person_refs": [
         "N-1",
-        "N-133"
+        "N-97"
       ]
     },
     {
@@ -816,7 +816,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-182"
+        "N-132"
       ]
     },
     {
@@ -868,7 +868,7 @@
       "claim_timestamp": "00:26:04",
       "investigative_direction": "Confirm via public reporting.",
       "mentions_person_refs": [
-        "N-56"
+        "N-27"
       ]
     },
     {
@@ -903,7 +903,7 @@
       "claim_timestamp": "00:18:46",
       "investigative_direction": "Verify with the named team or any documentation of the meeting. *Possible transcription error: \"Ace team\" identity unclear.*",
       "mentions_person_refs": [
-        "N-56"
+        "N-27"
       ]
     }
   ],

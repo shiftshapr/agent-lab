@@ -33,7 +33,7 @@
 
 - Artifact Families Introduced: A-1704, A-1705, A-1706, A-1707, A-1708, A-1709, A-1710, A-1711, A-1712, A-1713
 - Claim Range: C-2239–C-2252
-  - New Nodes Introduced: N-817, N-818, N-821, N-822, N-823, N-825, N-826, N-10537, N-10538, N-10539, N-10540
+  - New Nodes Introduced: N-524, N-525, N-526, N-527, N-528, N-529, N-530, N-10466, N-10467, N-10468, N-10469
   - Reused Nodes Appearing: 
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:02:51–00:05:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2239, C-2240, N-2, N-817, N-818*
+*Related: C-2239, C-2240, N-2, N-524, N-525*
 
 ---
 
@@ -89,7 +89,7 @@ Video Timestamp: 00:13:09–00:20:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2243, C-2244, C-2248, N-821, N-264, N-2*
+*Related: C-2243, C-2244, C-2248, N-526, N-190, N-2*
 
 ---
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:26:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2244, N-821, N-2, A-1706.1*
+*Related: C-2244, N-526, N-2, A-1706.1*
 
 ---
 
@@ -117,7 +117,7 @@ Video Timestamp: 00:23:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2246, N-1, N-2, N-821*
+*Related: C-2246, N-1, N-2, N-526*
 
 ---
 
@@ -131,7 +131,7 @@ Video Timestamp: 00:24:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2247, N-822, N-2, N-10537, N-10540*
+*Related: C-2247, N-527, N-2, N-10466, N-10469*
 
 ---
 
@@ -145,7 +145,7 @@ Video Timestamp: 00:38:28–00:40:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2251, N-16, N-2*
+*Related: C-2251, N-7, N-2*
 
 ---
 
@@ -159,7 +159,7 @@ Video Timestamp: 00:47:00–00:48:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2252, N-823, N-120*
+*Related: C-2252, N-528, N-85*
 
 ---
 
@@ -173,7 +173,7 @@ Video Timestamp: 00:26:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-2249, N-10537, A-1709.1*
+*Related: C-2249, N-10466, A-1709.1*
 
 ---
 
@@ -187,14 +187,14 @@ Video Timestamp: 00:32:17–00:34:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2250, N-10538*
+*Related: C-2250, N-10467*
 
 ---
 
 ## IV. Node Register
 
 
-**N-817** Dr. Allen Wolft
+**N-524** Dr. Allen Wolft
 
 Colorado-based death educator and grief counselor quoted in the Daily Mail article as attributing public criticism of Erica Kirk to "mourning avoidant, emotion phobic culture."
 
@@ -207,7 +207,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-818** Bidwell Smith
+**N-525** Bidwell Smith
 
 LA grief therapist quoted in the Daily Mail article stating widows are "uniquely grief policed" and that "grief is not a performance and survival is not a moral failure."
 
@@ -220,7 +220,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-16** Frank Turek
+**N-7** Frank Turek
 
 Cross-apologetics speaker referenced as a TPUSA-affiliated figure; the on-air clip shows him characterizing criticism of Erica Kirk as satanic pattern behavior.
 
@@ -233,7 +233,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-264** Stacy Sheridan
+**N-190** Stacy Sheridan
 
 TPUSA figure identified by the host as the person who tapped the donor's shoulder in church and invited her to sit with Erica. Host states Sheridan's role is donor intelligence ("smelling money").
 
@@ -246,7 +246,7 @@ Investigative Pressure: High
 
 ---
 
-**N-821** Father Blank
+**N-526** Father Blank
 
 Priest referenced in the donor's email and texts; flew with Erica to Utah, was present when she received notification of Charlie's death, said the homily at the private funeral on the Friday before the memorial, and texted the donor about mass on the Monday after.
 
@@ -259,7 +259,7 @@ Investigative Pressure: High
 
 ---
 
-**N-822** TPUSA "Blank"
+**N-527** TPUSA "Blank"
 
 TPUSA staffer described in donor-introduction text as having traveled with Charlie and handled major donors; introduced the donor into the post-memorial fundraising pipeline.
 
@@ -268,11 +268,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1709.1, C-2247, N-10538*
+*Related: A-1709.1, C-2247, N-10467*
 
 ---
 
-**N-823** Don Lemon
+**N-528** Don Lemon
 
 Journalist shown in on-air clip at a Minnesota church protest; referenced in connection with his federal arrest by DOJ under Pam Bondi.
 
@@ -281,11 +281,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1711.1, C-2252, N-120*
+*Related: A-1711.1, C-2252, N-85*
 
 ---
 
-**N-120** Pam Bondi
+**N-85** Pam Bondi
 
 US Attorney General named in connection with Don Lemon's arrest; host characterizes the prosecution as headline-grabbing theater.
 
@@ -294,11 +294,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-823, A-1711.1*
+*Related: N-528, A-1711.1*
 
 ---
 
-**N-825** Kobe Bryant
+**N-529** Kobe Bryant
 
 Referenced solely as a behavioral-comparison anchor for Erica Kirk (widow grief conduct at memorial); no artifact introduced.
 
@@ -307,11 +307,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-826, N-2*
+*Related: N-530, N-2*
 
 ---
 
-**N-826** Vanessa Bryant
+**N-530** Vanessa Bryant
 
 Referenced as the comparison figure for widow-grief conduct at Kobe's memorial (eulogy delivered one month later, no TPUSA-equivalent organizational pitch in speech).
 
@@ -320,11 +320,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-825, N-2*
+*Related: N-529, N-2*
 
 ---
 
-**N-42** Andrew Kolvet
+**N-14** Andrew Kolvet
 
 TPUSA figure referenced by host in the comments section as the person alleged to have organized the Paramount Tactical orbit and to have texted Erica during the Alex Clark interview. Name spelling varies in transcript ("Kovat"/"Kouvet"/"Covette"/"Coven").
 
@@ -333,11 +333,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2, N-10538*
+*Related: N-2, N-10467*
 
 ---
 
-**N-10537** Cardinal Stadium RV Show Booking Question
+**N-10466** Cardinal Stadium RV Show Booking Question
 
 Persistent verification target: was a lucrative RV show actually scheduled at Cardinal Stadium on the weekend of the Kirk memorial such that displaced revenue drove a $6M memorial cost?
 
@@ -346,11 +346,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1709.1, A-1712.1, C-2247, C-2249, N-10540*
+*Related: A-1709.1, A-1712.1, C-2247, C-2249, N-10469*
 
 ---
 
-**N-10538** TPUSA Donor Targeting Pattern Question
+**N-10467** TPUSA Donor Targeting Pattern Question
 
 Cross-episode investigation target: did TPUSA personnel (Stacy Sheridan, TPUSA Blank, top fundraiser) systematically coordinate donor access through memorial events, mass attendance, and faith-channel rapport-building?
 
@@ -359,11 +359,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1706.1, A-1709.1, A-1713.1, C-2243, C-2250, N-264, N-822, N-42*
+*Related: A-1706.1, A-1709.1, A-1713.1, C-2243, C-2250, N-190, N-527, N-14*
 
 ---
 
-**N-10539** Father Blank September 10 Mass Cancellation Question
+**N-10468** Father Blank September 10 Mass Cancellation Question
 
 Host verbal claim that Father Blank cancelled his regular mass on September 10 (the Monday morning the donor attended). No artifact presented in this episode.
 
@@ -372,20 +372,20 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-821, A-1706.1*
+*Related: N-526, A-1706.1*
 
 ---
 
-**N-10540** $6 Million Memorial Cost Claim Verification Question
+**N-10469** $6 Million Memorial Cost Claim Verification Question
 
-Cross-reference target: figure stated in TPUSA Blank's donor-introduction text and reiterated by host; tied to the RV show displacement claim (N-10537).
+Cross-reference target: figure stated in TPUSA Blank's donor-introduction text and reiterated by host; tied to the RV show displacement claim (N-10466).
 
 Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1709.1, C-2247, N-10537*
+*Related: A-1709.1, C-2247, N-10466*
 
 ---
 
@@ -398,7 +398,7 @@ Claim Timestamp: 00:02:51
 Claim: The Daily Mail article presents grief experts who attribute criticism of Erica Kirk to "grief policing," a "mourning avoidant, emotion phobic culture," and sexism.
 
 Anchored Artifacts: A-1704.1
-Mentions: N-2, N-817, N-818
+Mentions: N-2, N-524, N-525
 Investigative Direction: Retrieve full Daily Mail article text and verify quotes, attributions, and publication context.
 
 ---
@@ -410,7 +410,7 @@ Claim Timestamp: 00:04:11
 Claim: Dr. Allen Wolft characterizes criticism of Kirk as reflecting "mourning avoidant, emotion phobic culture"; Bidwell Smith states "widows are uniquely grief policed" and that "grief is not a performance and survival is not a moral failure."
 
 Anchored Artifacts: A-1704.1
-Mentions: N-2, N-817, N-818
+Mentions: N-2, N-524, N-525
 Investigative Direction: Confirm expert credentials, prior publication record, and any financial or organizational ties to TPUSA or Kirk-aligned entities.
 
 ---
@@ -434,7 +434,7 @@ Claim Timestamp: 00:06:32
 Claim: The host asserts Vanessa Bryant's Kobe Bryant memorial speech (delivered ~one month after death) focused on personal anecdotes about Kobe and grief, while Erica Kirk's memorial speech within ~48 hours centered on Turning Point USA organizational calls to action.
 
 Anchored Artifacts: A-1705.1
-Mentions: N-2, N-825, N-826
+Mentions: N-2, N-529, N-530
 Investigative Direction: Obtain and compare the full transcripts of both memorial speeches against the host's characterization; note Vanessa Bryant speech is verbally referenced but not played or quoted in this episode.
 
 ---
@@ -446,8 +446,8 @@ Claim Timestamp: 00:13:09
 Claim: A Catholic donor emailed the host describing how she was seated next to Father Blank at the Kirk memorial; the priest was with Erica when she was notified of Charlie's death, prayed over Charlie, and delivered the homily at the private funeral. Stacy Sheridan was the person who tapped the donor's shoulder at the post-mass church and invited her to sit with Erica.
 
 Anchored Artifacts: A-1706.1
-Mentions: N-2, N-264, N-821
-Related Nodes: N-10538
+Mentions: N-2, N-190, N-526
+Related Nodes: N-10467
 Investigative Direction: Verify the email's metadata, the donor's identity, the priest's actual name and parish, and confirm the September mass timeline independently.
 
 ---
@@ -459,7 +459,7 @@ Claim Timestamp: 00:26:40
 Claim: Father Blank texted the donor at 6:30am saying "Hope to see you at mass" and indicating "Erika may be there too."
 
 Anchored Artifacts: A-1707.1, A-1706.1
-Mentions: N-2, N-821
+Mentions: N-2, N-526
 Investigative Direction: Obtain phone records or screenshots of the actual text thread; verify whether "may be there" phrasing reflects typical priest communication or pre-coordinated signal.
 
 ---
@@ -471,7 +471,7 @@ Claim Timestamp: 00:17:30
 Claim: The Catholic donor arranged to fly a relic of St. Paul II from Chicago and personally delivered it to Erica Kirk at mass.
 
 Anchored Artifacts: A-1706.1
-Mentions: N-2, N-821
+Mentions: N-2, N-526
 Investigative Direction: Cross-check donor's account with Erica Kirk's public acknowledgment of receiving relics.
 
 ---
@@ -483,7 +483,7 @@ Claim Timestamp: 00:23:14
 Claim: Charlie Kirk sent a group-chat text on September 9 to Erica and Father Blank quoting 1 Corinthians 16:9: "for a wide door for effective work has opened to me and there are many adversaries."
 
 Anchored Artifacts: A-1708.1
-Mentions: N-1, N-2, N-821
+Mentions: N-1, N-2, N-526
 Investigative Direction: Obtain forensic verification of text message origin, timestamp, and sender device; identify the third group-chat participant's account.
 
 ---
@@ -495,8 +495,8 @@ Claim Timestamp: 00:24:55
 Claim: A text from TPUSA "Blank" introducing the donor states the memorial will cost approximately $6 million, that Trump was personally involved in securing Cardinal Stadium, and that the high cost was driven by displaced revenue from a "large and lucrative RV show" originally scheduled that weekend.
 
 Anchored Artifacts: A-1709.1
-Mentions: N-2, N-822
-Related Nodes: N-10537, N-10540
+Mentions: N-2, N-527
+Related Nodes: N-10466, N-10469
 Investigative Direction: Verify Cardinal Stadium event calendar for that weekend; cross-check White House or Trump campaign communications about venue booking; trace the TPUSA "Blank" staffer identity.
 
 ---
@@ -508,7 +508,7 @@ Claim Timestamp: 00:31:07
 Claim: Father Blank responded to the donor's thank-you message with: "God's fingerprints are all over what is happening. There is no doubt that your presence to Erika was a God moment for both of you."
 
 Anchored Artifacts: A-1706.1
-Mentions: N-2, N-821
+Mentions: N-2, N-526
 Investigative Direction: Verify text message metadata and check whether the priest used similar phrasing with other donors introduced through memorial attendance.
 
 ---
@@ -520,7 +520,7 @@ Claim Timestamp: 00:26:12
 Claim: The host states she checked the Wayback Machine and saved screenshots showing no RV show was on the Cardinal Stadium calendar for the memorial weekend.
 
 Anchored Artifacts: A-1712.1
-Related Nodes: N-10537
+Related Nodes: N-10466
 Investigative Direction: Host must release or publish the Wayback Machine screenshots to enable independent verification; alternative venue booking records should be subpoenaed.
 
 ---
@@ -532,7 +532,7 @@ Claim Timestamp: 00:32:17
 Claim: A TPUSA top fundraiser texted the donor offering a Chicago visit and pitching involvement in a Mar-a-Lago gala reported to be raising approximately $42 million.
 
 Anchored Artifacts: A-1713.1, A-1706.1
-Related Nodes: N-10538
+Related Nodes: N-10467
 Investigative Direction: Identify the fundraiser; obtain the full text thread; cross-check Mar-a-Lago TPUSA gala fundraising figures against public 990 filings or TPUSA disclosures.
 
 ---
@@ -544,7 +544,7 @@ Claim Timestamp: 00:39:28
 Claim: Frank Turek states in an on-air clip that criticism of Erica Kirk (described as slander, accusation, lies, confusion, without evidence) is what "Satan does," and dismisses Candace Owens' dream-based claims as lacking supernatural confirmation.
 
 Anchored Artifacts: A-1710.1
-Mentions: N-2, N-16, N-3
+Mentions: N-2, N-7, N-3
 Investigative Direction: Identify the original Frank Turek episode/podcast the clip is drawn from and verify edit context.
 
 ---
@@ -556,7 +556,7 @@ Claim Timestamp: 00:47:00
 Claim: Don Lemon is shown on camera at a Minnesota church protest questioning a pastor whose church works with ICE.
 
 Anchored Artifacts: A-1711.1
-Mentions: N-120, N-823
+Mentions: N-85, N-528
 Investigative Direction: Confirm the underlying church affiliation and ICE relationship; verify the federal charges basis for Don Lemon's subsequent arrest.
 
 ---
@@ -578,11 +578,11 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** "Andrew Kovat" / "Kouvet" / "Covette" / "Coven" – transcript shows multiple spellings for the same TPUSA figure (N-42). Requires human verification against correct spelling.
+- **Name uncertainty:** "Andrew Kovat" / "Kouvet" / "Covette" / "Coven" – transcript shows multiple spellings for the same TPUSA figure (N-14). Requires human verification against correct spelling.
 - **Artifact verbally referenced but not shown:** A-1712.1 (Wayback Machine screenshots for Cardinal Stadium RV show) – referenced verbally but not displayed on-screen. Marked Low confidence.
 - **Artifact verbally referenced but not shown:** Vanessa Bryant's Kobe memorial speech is recommended for viewing by the host but never played, quoted, or displayed in the episode. Comparison claim C-2242 should be re-anchored if/when the speech artifact is produced.
 - **Name redaction in source:** "Father Blank" and "TPUSA Blank" are host-applied redactions of the email author's original names; the actual names were blanked out before air and are not recoverable from this artifact alone.
-- **Host claim without artifact anchor:** N-10539 (Father Blank's alleged cancellation of his regular September 10 mass) is asserted by the host without supporting artifact. Recommend verifying via parish bulletin, diocese calendar, or live-streamed mass archive.
+- **Host claim without artifact anchor:** N-10468 (Father Blank's alleged cancellation of his regular September 10 mass) is asserted by the host without supporting artifact. Recommend verifying via parish bulletin, diocese calendar, or live-streamed mass archive.
 - **Transcript ambiguity:** Host refers to "Andrew Coven" (in comment section) and "Andrew Kouvet" (in interview discussion); same person referenced by all variants.
 - **Claim passed admission test with host-interpretation caveat:** C-2242 (Vanessa Bryant comparison) uses Kobe Bryant memorial speech as comparison anchor; speech itself is not artifact-presented in this episode. Investigative direction flags this for follow-up.
 
@@ -595,8 +595,8 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use global people ledger (N-817+)
-- [x] Non-person investigation targets use 1000+ series (N-10537+)
+- [x] People nodes use global people ledger (N-524+)
+- [x] Non-person investigation targets use 1000+ series (N-10466+)
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly or uncertainty flagged
 - [x] Formatting consistent across all registers

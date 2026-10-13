@@ -11,10 +11,10 @@
 - **Transcript SHA-256**: b7672eebc7c5ab411aa950afd3d3a2a493c93fe1cc77ff7576fff21c34e89159
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-406, N-408, N-410, N-413, N-414, N-10324, N-10325, N-10326, N-10327, N-10328, N-10329
+  - New Nodes Introduced:  N-265, N-266, N-267, N-269, N-270, N-10253, N-10254, N-10255, N-10256, N-10257, N-10258
   - Reused Nodes Appearing: 
-  - Tip-minted Nodes (wave2): N-11387
-  N-70
+  - Tip-minted Nodes (wave2): N-10896
+  N-41
 
 ---
 
@@ -37,8 +37,8 @@
 
 - **Artifact Families Introduced:** A-1415, A-1416, A-1417, A-1418, A-1419, A-1420, A-1421, A-1422, A-1423, A-1424
 - **Claim Range:** C-1716 – C-1734, C-3735
-- **New Nodes Introduced:** N-406, N-408, N-410, N-413, N-414, N-10324, N-10325, N-10326, N-10327, N-10328, N-10329
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica/Erika Kirk – preserved as Erika per transcript), N-3 (Candace Owens), N-50 (Tucker Carlson), N-70 (Governor Cox)
+- **New Nodes Introduced:** N-265, N-266, N-267, N-269, N-270, N-10253, N-10254, N-10255, N-10256, N-10257, N-10258
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica/Erika Kirk – preserved as Erika per transcript), N-3 (Candace Owens), N-22 (Tucker Carlson), N-41 (Governor Cox)
 
 ---
 
@@ -64,7 +64,7 @@ Video Timestamp: 00:02:22–00:03:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1716, N-45, N-3*
+*Related: C-1716, N-17, N-3*
 
 ---
 
@@ -78,7 +78,7 @@ Video Timestamp: 00:08:45–00:10:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1717, C-1718, N-406, N-2, N-3*
+*Related: C-1717, C-1718, N-265, N-2, N-3*
 
 ---
 
@@ -106,7 +106,7 @@ Video Timestamp: 00:19:57–00:21:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1719, N-1, N-2, N-98, N-10324*
+*Related: C-1719, N-1, N-2, N-67, N-10253*
 
 ---
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:17:49–00:18:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (relies on underlying ADSB/Hex data interpretation)
 
-*Related: C-1720, C-1721, C-1722, C-1723, N-1, N-2, N-10324*
+*Related: C-1720, C-1721, C-1722, C-1723, N-1, N-2, N-10253*
 
 **A-1419.2** "Mommy sleuth" email asserting that the planes tracked Erika rather than Charlie (referenced verbally; original email not displayed)
 
@@ -130,7 +130,7 @@ Video Timestamp: 00:14:51–00:16:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1720, C-1721, N-2, N-10324*
+*Related: C-1720, C-1721, N-2, N-10253*
 
 ---
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:34:07–00:35:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (third-party YouTube documentary analysis)
 
-*Related: C-1728, C-1730, C-1731, C-1732, N-1, N-2, N-10325*
+*Related: C-1728, C-1730, C-1731, C-1732, N-1, N-2, N-10254*
 
 **A-1420.2** "Wolves and Finance" video clip discussing Schedule I showing $8,560,625 transferred from Turning Point USA to America's Turning Point in FY2024, prior-year contributions chart, and shell-company analysis
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:37:29–00:40:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1729, C-1731, N-2, N-10325, N-70*
+*Related: C-1729, C-1731, N-2, N-10254, N-41*
 
 **A-1420.3** "Wolves and Finance" video clip discussing Baker Tilly audit opinion letter covering Turning Point USA and affiliates
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:41:11–00:42:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1730, N-70, N-11387, N-10325*
+*Related: C-1730, N-41, N-10896, N-10254*
 
 ---
 
@@ -178,7 +178,7 @@ Video Timestamp: 00:27:30–00:28:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-stated; requires verification against rental records)
 
-*Related: C-1726, C-1727, N-408, N-10327*
+*Related: C-1726, C-1727, N-266, N-10256*
 
 **A-1421.2** Arizona license plate CWN N872 – white 2025 Toyota Camry rented at Duncan Aviation FBO
 
@@ -188,7 +188,7 @@ Video Timestamp: 00:27:30–00:28:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1726, C-1727, N-408, N-10327*
+*Related: C-1726, C-1727, N-266, N-10256*
 
 **A-1421.3** Utah license plate TN12KM – white 2023 Toyota RAV4 rented at Duncan Aviation FBO
 
@@ -198,7 +198,7 @@ Video Timestamp: 00:27:30–00:28:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1726, C-1727, N-408, N-10327*
+*Related: C-1726, C-1727, N-266, N-10256*
 
 **A-1421.4** Utah license plate Z923DA – black 2025 Toyota 4Runner rented at Duncan Aviation FBO
 
@@ -208,7 +208,7 @@ Video Timestamp: 00:27:30–00:28:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1726, C-1727, N-408, N-10327*
+*Related: C-1726, C-1727, N-266, N-10256*
 
 ---
 
@@ -222,7 +222,7 @@ Video Timestamp: 00:26:19–00:27:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1725, N-10326*
+*Related: C-1725, N-10255*
 
 ---
 
@@ -236,7 +236,7 @@ Video Timestamp: 00:52:35–00:54:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (third-party tip; producer-asserted camera locations)
 
-*Related: C-1733, N-413, N-10328*
+*Related: C-1733, N-269, N-10257*
 
 ---
 
@@ -250,7 +250,7 @@ Video Timestamp: 00:12:50–00:13:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbal reference; no artifact displayed)
 
-*Related: C-1724 (informational context only – not inscribed as separate claim), N-410, N-1*
+*Related: C-1724 (informational context only – not inscribed as separate claim), N-267, N-1*
 
 **A-1424.2** Host's verbal account that Andrew K. Smith, "managing director of a restaurant fund," conducted a "restaurantology" interview with Charlie Kirk the morning of September 10, cited as the reason Charlie flew into Salt Lake City rather than Provo
 
@@ -260,7 +260,7 @@ Video Timestamp: 00:13:12–00:14:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbal reference; no displayed artifact)
 
-*Related: C-3735, N-1, N-414, N-10324*
+*Related: C-3735, N-1, N-270, N-10253*
 
 ---
 
@@ -268,7 +268,7 @@ Confidence Level: Low (verbal reference; no displayed artifact)
 
 ### People
 
-**N-45** Rob McCoy
+**N-17** Rob McCoy
 
 Pastor referenced in host's clip critique; associated by host with "naval psychological intelligence." Matters because his public call against post-assassination questioning is being framed by the host as part of a coordinated psychological response.
 
@@ -281,7 +281,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-406** Steven Crowder
+**N-265** Steven Crowder
 
 Host's primary example of influencer narratives allegedly misrepresenting her remarks. Matters as anchor for the Erika-murder interpretation dispute.
 
@@ -294,7 +294,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-98** Mark Herman (director, Candace show)
+**N-67** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here he pulls up ADS-B Exchange raw data for Egyptian tail SUBND at the Duncan Aviation FBO in Provo on September 10 and reads the transponder windows, converting from UTC by subtracting seven hours (a viewer later corrects this to UTC minus 6). His presentation is the sole displayed source for the SUBND transponder timing claims.
 
@@ -303,11 +303,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1418.1, C-1719, C-1734, N-10324*
+*Related: A-1418.1, C-1719, C-1734, N-10253*
 
 ---
 
-**N-408** Duncan Aviation
+**N-266** Duncan Aviation
 
 Fixed-base operator (FBO) at Provo where SUBND transponder activity is recorded on September 10 and where rental cars were sourced. Matters as institutional locus of pre-event activity.
 
@@ -316,11 +316,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1418.1, A-1421.1, A-1421.2, A-1421.3, A-1421.4, C-1719, C-1726, C-1727, N-10327*
+*Related: A-1418.1, A-1421.1, A-1421.2, A-1421.3, A-1421.4, C-1719, C-1726, C-1727, N-10256*
 
 ---
 
-**N-410** Terrell Farnsworth
+**N-267** Terrell Farnsworth
 
 TPUSA personnel described by host as attending the UVU event and securing the SD cards. Matters because his presence is flagged as atypical by host.
 
@@ -333,7 +333,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-11387** Baker Tilly
+**N-10896** Baker Tilly
 
 Node Type: Organization
 Organization Kind: company
@@ -345,11 +345,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1420.3, C-1730, N-10325*
+*Related: A-1420.3, C-1730, N-10254*
 
 ---
 
-**N-413** Mommy Sleuth (Nellie)
+**N-269** Mommy Sleuth (Nellie)
 
 Pseudonymous contributor referenced by host as the source of the 15-hour research identifying Erika-tracking overlap pattern. Identity protected by host.
 
@@ -358,11 +358,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1419.2, C-1720, C-1721, N-2, N-10324*
+*Related: A-1419.2, C-1720, C-1721, N-2, N-10253*
 
 ---
 
-**N-414** Andrew K. Smith
+**N-270** Andrew K. Smith
 
 Host-described "managing director of a restaurant fund" who conducted the "restaurantology" interview with Charlie Kirk on the morning of September 10.
 
@@ -377,7 +377,7 @@ Investigative Pressure: Low
 
 ### Investigation Targets
 
-**N-10324** Egyptian Military Plane Tracking Investigation
+**N-10253** Egyptian Military Plane Tracking Investigation
 
 Persistent investigative target tracking allegations that Egyptian military aircraft SUBND and SUBTT conducted sustained surveillance of Erika Kirk (and sometimes Charlie Kirk) from 2022 through September 2025, with concentrated activity on the day of the assassination.
 
@@ -386,11 +386,11 @@ Claim Count: 6
 Episode Count: 1 (this episode)
 Investigative Pressure: High
 
-*Related: A-1418.1, A-1419.1, A-1419.2, A-1424.2, C-1719, C-1720, C-1721, C-1722, C-1723, N-1, N-2, N-98, N-413*
+*Related: A-1418.1, A-1419.1, A-1419.2, A-1424.2, C-1719, C-1720, C-1721, C-1722, C-1723, N-1, N-2, N-67, N-269*
 
 ---
 
-**N-10325** TPUSA Financial Filing Anomaly Investigation
+**N-10254** TPUSA Financial Filing Anomaly Investigation
 
 Investigation target tracking missing IRS Form 990 filings for three of four TPUSA-related entities for FY2024, the $8.56M transfer to America's Turning Point, and the timing of audit requests relative to Charlie Kirk's death.
 
@@ -399,11 +399,11 @@ Claim Count: 4
 Episode Count: 1 (this episode)
 Investigative Pressure: High
 
-*Related: A-1420.1, A-1420.2, A-1420.3, C-1728, C-1729, C-1730, C-1731, C-1732, N-2, N-70, N-11387*
+*Related: A-1420.1, A-1420.2, A-1420.3, C-1728, C-1729, C-1730, C-1731, C-1732, N-2, N-41, N-10896*
 
 ---
 
-**N-10326** N560TW Flight Pattern Investigation
+**N-10255** N560TW Flight Pattern Investigation
 
 Investigation target tracking the September 10 Scottsdale–Provo–Santa Barbara–Scottsdale round trip of tail N560TW, flagged by host as warranting public tip submissions.
 
@@ -416,7 +416,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10327** Duncan Aviation Rental Vehicle Investigation
+**N-10256** Duncan Aviation Rental Vehicle Investigation
 
 Investigation target tracking four rental vehicles with documented plates rented from the Duncan Aviation FBO prior to the assassination, with public tip requests issued.
 
@@ -425,11 +425,11 @@ Claim Count: 2
 Episode Count: 1 (this episode)
 Investigative Pressure: High
 
-*Related: A-1421.1, A-1421.2, A-1421.3, A-1421.4, C-1726, C-1727, N-408*
+*Related: A-1421.1, A-1421.2, A-1421.3, A-1421.4, C-1726, C-1727, N-266*
 
 ---
 
-**N-10328** Flock LPR FOIA Investigation
+**N-10257** Flock LPR FOIA Investigation
 
 Investigation target tracking the potential use of FOIA-accessible Flock automated license plate reader data to cross-reference rental vehicles and UVU-area camera footage.
 
@@ -442,7 +442,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10329** Andrew Kovat Hospital Threat Disclosure Question
+**N-10258** Andrew Kovat Hospital Threat Disclosure Question
 
 Investigation target tracking host's verbal claim that Andrew Kovat disclosed a credible threat against Candace Owens and Tucker Carlson while in the hospital on September 10, and that no federal agency has since followed up directly with her.
 
@@ -464,7 +464,7 @@ Claim Timestamp: 00:02:22–00:03:32
 Claim: Rob McCoy, in a recorded clip played during the episode, read Romans 12:15–16 and urged the audience to mourn with the Kirk family rather than engage in public speculation about Charlie Kirk.
 
 Anchored Artifacts: A-1415.1
-Mentions: N-3, N-45, N-1
+Mentions: N-3, N-17, N-1
 
 
 Investigative Direction: Verify the clip source, date, and full context; cross-check McCoy's public statements against any subsequent commentary.
@@ -478,7 +478,7 @@ Claim Timestamp: 00:08:45–00:10:00
 Claim: Steven Crowder, in a recorded clip played during the episode, asserted that Candace Owens' book club remarks about Charlie Kirk being "betrayed" effectively accused Erika Kirk of murdering her husband.
 
 Anchored Artifacts: A-1416.1, A-1417.1
-Mentions: N-2, N-3, N-406, N-1
+Mentions: N-2, N-3, N-265, N-1
 
 
 Investigative Direction: Obtain the full Crowder clip and the full book club recording to test the interpretive claim against the literal transcript.
@@ -492,7 +492,7 @@ Claim Timestamp: 00:10:00–00:11:00
 Claim: Candace Owens rejected Crowder's interpretation, stating that her remarks about Charlie being "betrayed" were not directed at Erika Kirk, and characterizing the Crowder narrative as a coordinated talking point deployed after she mentioned the Egyptian planes.
 
 Anchored Artifacts: A-1416.1, A-1417.1
-Mentions: N-2, N-3, N-406
+Mentions: N-2, N-3, N-265
 
 
 Investigative Direction: Determine, by transcript comparison, whether host's original remarks named Erika or TPUSA staff; trace downstream amplification of the Erika interpretation.
@@ -506,9 +506,9 @@ Claim Timestamp: 00:19:57–00:21:54
 Claim: ADSB Exchange data, as displayed and narrated by director Mark, shows tail SUBND transmitting from the Duncan Aviation FBO in Provo from 9:05:36 a.m. to 10:34:05 a.m. (local time, after subtracting 7 hours from UTC) and again from 12:40:53 p.m. to 1:29:40 p.m. on September 10, 2025, without the aircraft moving from its position.
 
 Anchored Artifacts: A-1418.1
-Mentions: N-1, N-2, N-98, N-408
+Mentions: N-1, N-2, N-67, N-266
 
-Related Nodes: N-10324
+Related Nodes: N-10253
 
 Investigative Direction: Pull the underlying ADSB Exchange raw data independently; verify UTC-to-local conversion (note: see flag re daylight saving time).
 
@@ -521,9 +521,9 @@ Claim Timestamp: 00:14:51–00:18:42
 Claim: A host-prepared spreadsheet displays 68 overlap instances (later expanded to 73) between Egyptian aircraft SUBND/SUBTT and Erika Kirk's documented locations between 2022 and September 2025, with 29 of those instances also involving Charlie Kirk.
 
 Anchored Artifacts: A-1419.1, A-1419.2
-Mentions: N-1, N-2, N-413
+Mentions: N-1, N-2, N-269
 
-Related Nodes: N-10324
+Related Nodes: N-10253
 
 Investigative Direction: Verify each overlap instance against independent ADSB/Hex records; authenticate the underlying location data for Erika Kirk.
 
@@ -538,7 +538,7 @@ Claim: Of the overlap instances documented in the spreadsheet, 29 included Charl
 Anchored Artifacts: A-1419.1
 Mentions: N-1, N-2
 
-Related Nodes: N-10324
+Related Nodes: N-10253
 
 Investigative Direction: Independently verify the 29-instance subset using cross-referenced itinerary data for Charlie Kirk.
 
@@ -553,7 +553,7 @@ Claim: The host claims the documented overlap flights cluster primarily within K
 Anchored Artifacts: A-1419.1
 Mentions: N-2
 
-Related Nodes: N-10324
+Related Nodes: N-10253
 
 Investigative Direction: Independently geocode the overlap instances and verify the state-level distribution.
 
@@ -568,7 +568,7 @@ Claim: The host states that under random distribution models, the probability of
 Anchored Artifacts: A-1419.1
 Mentions: N-2
 
-Related Nodes: N-10324
+Related Nodes: N-10253
 
 Investigative Direction: Request the host's underlying statistical model and assumptions; replicate the calculation independently.
 
@@ -581,8 +581,8 @@ Claim Timestamp: 00:23:51–00:25:54
 Claim: Host states that Andrew Kovat, while in the hospital on September 10, told her that there was a "credible threat" against her and Tucker Carlson and advised them to lay low, and that no federal agency has since contacted her directly about the threat.
 
 Anchored Artifacts: A-1424 (verbal reference; no displayed artifact)
-Mentions: N-1, N-2, N-50, N-42
-Related Nodes: N-10329
+Mentions: N-1, N-2, N-22, N-14
+Related Nodes: N-10258
 
 Investigative Direction: Obtain corroborating testimony from Andrew Kovat, Tucker Carlson, or hospital records; determine which agency allegedly originated the threat warning.
 
@@ -596,7 +596,7 @@ Claim: Host reports that tail N560TW departed Scottsdale, Arizona on September 1
 
 Anchored Artifacts: A-1422.1
 
-Related Nodes: N-10326
+Related Nodes: N-10255
 
 Investigative Direction: Independently verify the N560TW flight track via FAA or ADSB records; identify passengers via manifest if obtainable.
 
@@ -609,9 +609,9 @@ Claim Timestamp: 00:27:30–00:29:31
 Claim: Host states that Duncan Aviation's FBO in Provo sourced rental cars for arrivals the host describes as Egyptian, in the days before the September 10 event.
 
 Anchored Artifacts: A-1421.1, A-1421.2, A-1421.3, A-1421.4
-Mentions: N-408
+Mentions: N-266
 
-Related Nodes: N-10327
+Related Nodes: N-10256
 
 Investigative Direction: Obtain rental records from Duncan Aviation or the rental companies directly; verify renter identities and dates.
 
@@ -624,9 +624,9 @@ Claim Timestamp: 00:27:30–00:29:31
 Claim: Host reads four specific license plates associated with the rental vehicles: T09 2Zs (silver 2025 Toyota RAV4, Utah), CWN N872 (white 2025 Toyota Camry, Arizona), TN12KM (white 2023 Toyota RAV4, Utah), and Z923DA (black 2025 Toyota 4Runner, Utah).
 
 Anchored Artifacts: A-1421.1, A-1421.2, A-1421.3, A-1421.4
-Mentions: N-408
+Mentions: N-266
 
-Related Nodes: N-10327
+Related Nodes: N-10256
 
 Investigative Direction: Cross-reference plates against Flock LPR data (see A-1423.1), UVU-area footage, hotel/gas station records; verify plate-to-vehicle assignments via DMV records.
 
@@ -641,7 +641,7 @@ Claim: "Wolves and Finance" YouTube video asserts that for fiscal year 2024, the
 Anchored Artifacts: A-1420.1
 Mentions: N-2
 
-Related Nodes: N-10325
+Related Nodes: N-10254
 
 Investigative Direction: Verify directly against IRS Tax-Exempt Organization Search; confirm filing status and any subsequent late filings.
 
@@ -656,7 +656,7 @@ Claim: "Wolves and Finance" video cites Schedule I of Turning Point USA's FY2024
 Anchored Artifacts: A-1420.2
 Mentions: N-2
 
-Related Nodes: N-10325
+Related Nodes: N-10254
 
 Investigative Direction: Verify the Schedule I line item against the filed Form 990; trace how the funds were recorded (or not recorded) on the recipient entity's filings.
 
@@ -671,7 +671,7 @@ Claim: "Wolves and Finance" video asserts that the decision not to file three of
 Anchored Artifacts: A-1420.1, A-1420.3
 Mentions: N-1, N-2
 
-Related Nodes: N-10325
+Related Nodes: N-10254
 
 Investigative Direction: Obtain dated documentation of Charlie Kirk's audit request and COO appointment; cross-reference against IRS filing deadline.
 
@@ -686,7 +686,7 @@ Claim: Host states that Turning Point USA's 501(c)(3) arm experienced a 33% staf
 Anchored Artifacts: A-1420.2
 Mentions: N-2
 
-Related Nodes: N-10325
+Related Nodes: N-10254
 
 Investigative Direction: Verify the staff-count and salary figures directly against the relevant Form 990 Schedule J and Part VII.
 
@@ -701,7 +701,7 @@ Claim: "Wolves and Finance" video and host confirm that Erika Kirk became CEO of
 Anchored Artifacts: A-1420.1
 Mentions: N-1, N-2
 
-Related Nodes: N-10325
+Related Nodes: N-10254
 
 Investigative Direction: Verify the appointment date via Turning Point USA press release, IRS Form 990 changes, or state filing records.
 
@@ -715,7 +715,7 @@ Claim: Producer confirms that Flock automated license plate reader cameras have 
 
 Anchored Artifacts: A-1423.1
 
-Related Nodes: N-10328
+Related Nodes: N-10257
 
 Investigative Direction: Pull the Flock camera registry; verify proximity to UVU campus and event staging area; file FOIA requests for relevant time-window data.
 
@@ -728,9 +728,9 @@ Claim Timestamp: 00:21:00–00:21:54
 Claim: Director Mark specifies that SUBND transponder windows on September 10 were 9:05–10:34 a.m. and 12:40–1:29 p.m. (local time, using UTC minus 7 hours).
 
 Anchored Artifacts: A-1418.1
-Mentions: N-98, N-408
+Mentions: N-67, N-266
 
-Related Nodes: N-10324
+Related Nodes: N-10253
 
 Investigative Direction: Verify the UTC-to-local conversion; see flag re daylight saving time. Cross-reference against FBI/event timeline documents.
 
@@ -755,7 +755,7 @@ Claim Timestamp: 00:14:51
 Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
 Transcript Snippet: ...tail number S U B N D, the blue plane. A pregnant mommy sleuth who was locked into this investigation discovered something that me and my team had missed. I consi...
 Anchored Artifacts: 
-Mentions: N-3, N-413
+Mentions: N-3, N-269
 Related Nodes: 
 Confidence: high
 Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified.
@@ -768,7 +768,7 @@ Claim Timestamp: 00:14:51
 Claim: Crediting the pregnant mommy sleuth whose urgent email corrected her plane-tracking analysis, the host says "I consider her obviously and all of you to be my decentralized intelligence agents," casting the tipster and the whole audience as agents of the Decentralized Intelligence Agency.
 Transcript Snippet: ...I consider her obviously and all of you to be my decentralized intelligence agents. Anyway, she sent me a rather urgent email and I'm obviously protecting her identity for for, you know, reasons that are clear...
 Anchored Artifacts: 
-Mentions: N-3, N-413
+Mentions: N-3, N-269
 Related Nodes: 
 Confidence: high
 Investigative Direction: Preserve as brand / network framing claim (M-12 alias "decentralized intelligence agents"); identity of the tipster stays protected.
@@ -785,8 +785,8 @@ Claim: Host states that Charlie Kirk flew into Salt Lake City rather than the cl
 Transcript Snippet: He's a managing director of a restaurant fund, Andrew K. Smith, out of nowhere does this restauranttology interview with Charlie.
 
 Anchored Artifacts: A-1424.2
-Mentions: N-1, N-414
-Related Nodes: N-10324
+Mentions: N-1, N-270
+Related Nodes: N-10253
 Confidence: low
 
 Investigative Direction: Locate the Andrew K. Smith interview recording and its scheduling; confirm Charlie Kirk's September 10 flight arrival airport.

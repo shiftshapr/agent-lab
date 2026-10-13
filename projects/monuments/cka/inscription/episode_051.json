@@ -31,10 +31,10 @@
             "C-1990"
           ],
           "related_nodes": [
-            "N-443",
+            "N-283",
             "N-1",
             "N-2",
-            "N-10447"
+            "N-10376"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -52,7 +52,7 @@
             "C-1992"
           ],
           "related_nodes": [
-            "N-443"
+            "N-283"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -70,7 +70,7 @@
             "C-1993"
           ],
           "related_nodes": [
-            "N-443"
+            "N-283"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -97,7 +97,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10447"
+            "N-10376"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -123,11 +123,11 @@
             "C-1994"
           ],
           "related_nodes": [
-            "N-444",
-            "N-614",
+            "N-284",
+            "N-377",
             "N-2",
             "N-1",
-            "N-10448"
+            "N-10377"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -154,7 +154,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-621"
+            "N-380"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -180,7 +180,7 @@
             "C-1996"
           ],
           "related_nodes": [
-            "N-128"
+            "N-93"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -206,10 +206,10 @@
             "C-1997"
           ],
           "related_nodes": [
-            "N-11390",
-            "N-42",
+            "N-10899",
+            "N-14",
             "N-2",
-            "N-10451"
+            "N-10380"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -235,9 +235,9 @@
             "C-1998"
           ],
           "related_nodes": [
-            "N-597",
-            "N-424",
-            "N-10446"
+            "N-369",
+            "N-272",
+            "N-10375"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -263,8 +263,8 @@
             "C-1999"
           ],
           "related_nodes": [
-            "N-11391",
-            "N-10450"
+            "N-10900",
+            "N-10379"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -290,7 +290,7 @@
             "C-2000"
           ],
           "related_nodes": [
-            "N-10447",
+            "N-10376",
             "N-1"
           ],
           "tags": [],
@@ -309,8 +309,8 @@
             "C-2001"
           ],
           "related_nodes": [
-            "N-11390",
-            "N-10446"
+            "N-10899",
+            "N-10375"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -349,13 +349,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10447"
+        "N-10376"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Central figure in the alleged coordination of attacks on Mitch Snow; multiple spelling variants used on air (Kolbect, Kolvet, Kolbe, Kolbintz, Kolvintz).",
@@ -371,13 +371,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10449"
+        "N-10378"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-443",
-      "ref": "N-443",
+      "@id": "N-283",
+      "ref": "N-283",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Source of three artifact-anchored comedy clips played on air.",
@@ -400,8 +400,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-444",
-      "ref": "N-444",
+      "@id": "N-284",
+      "ref": "N-284",
       "name": "Bari Weiss",
       "type": "person",
       "description": "On-camera CBS interviewer who introduced Hunter Cosgrove to Erica Kirk at the AmFest / CBS stage event.",
@@ -419,8 +419,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-614",
-      "ref": "N-614",
+      "@id": "N-377",
+      "ref": "N-377",
       "name": "Hunter Cosgrove (UVU student)",
       "type": "person",
       "description": "Utah Valley University student identified by Barry Weiss as the last person Charlie Kirk spoke to before being shot; name also rendered \"Hunter Kozak\" in host narration.",
@@ -436,13 +436,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10448"
+        "N-10377"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-128",
-      "ref": "N-128",
+      "@id": "N-93",
+      "ref": "N-93",
       "name": "Alex Jones",
       "type": "person",
       "description": "Source of declaration-of-war clip against Candace over Mitch Snow coverage.",
@@ -460,8 +460,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-597",
-      "ref": "N-597",
+      "@id": "N-369",
+      "ref": "N-369",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Subject and source of Fort Huachuca sightings testimony; his son's interview (A-1574) provides partial corroboration.",
@@ -477,13 +477,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10446"
+        "N-10375"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Named in host discussion of Mitch Snow's Fort Huachuca sightings; referenced in the son's interview clip regarding the September 9 contact.",
@@ -497,13 +497,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10446"
+        "N-10375"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-621",
-      "ref": "N-621",
+      "@id": "N-380",
+      "ref": "N-380",
       "name": "Justice Smith",
       "type": "person",
       "description": "Interviewer in the October 2024 Charlie Kirk MK Ultra clip.",
@@ -521,8 +521,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10446",
-      "ref": "N-10446",
+      "@id": "N-10375",
+      "ref": "N-10375",
       "name": "Fort Huachuca Sighting Verification",
       "type": "investigation_target",
       "description": "Persistent target verifying Mitch Snow's claims about Brian Harpole at a top-brass meeting on the morning of September 9 and the Candlewood Inn sightings on September 8. Partial corroboration via the son's interview (A-1574) and Army sniper comment (A-1576.2).",
@@ -540,14 +540,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-597",
-        "N-424"
+        "N-369",
+        "N-272"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10447",
-      "ref": "N-10447",
+      "@id": "N-10376",
+      "ref": "N-10376",
       "name": "AmFest Tent Recreation Approval Chain",
       "type": "investigation_target",
       "description": "Persistent target tracking who approved the tent recreation at AmFest and whether attendees took informal organizing activity (selfies) with the replica.",
@@ -572,8 +572,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10448",
-      "ref": "N-10448",
+      "@id": "N-10377",
+      "ref": "N-10377",
       "name": "Hunter Cosgrove / Kozak Identity Discrepancy",
       "type": "investigation_target",
       "description": "Persistent target verifying the correct spelling and identity of the UVU student introduced by Barry Weiss.",
@@ -589,13 +589,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-614"
+        "N-377"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10449",
-      "ref": "N-10449",
+      "@id": "N-10378",
+      "ref": "N-10378",
       "name": "Andrew Kolbet Coordination with Attackers of Mitch Snow",
       "type": "investigation_target",
       "description": "Persistent target verifying whether Andrew Kolbet coordinated with Alex Jones, Paramount Tactical Valhalla, Ian Carroll, and others to discredit Mitch Snow.",
@@ -611,13 +611,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-42"
+        "N-14"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10450",
-      "ref": "N-10450",
+      "@id": "N-10379",
+      "ref": "N-10379",
       "name": "Daily Wire Social Media Reactivation",
       "type": "investigation_target",
       "description": "Persistent target verifying why the Daily Wire reactivated Candace's YouTube and Instagram and re-released her 2021 trailer on her own channels.",
@@ -633,13 +633,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11391"
+        "N-10900"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10451",
-      "ref": "N-10451",
+      "@id": "N-10380",
+      "ref": "N-10380",
       "name": "Erica Kirk September 8 Alibi",
       "type": "investigation_target",
       "description": "Persistent target verifying whether Erica Kirk was at the Fort Huachuca Candlewood Inn on September 8, in light of Andrew Kolbet's written alibi instructions and the phone-call/dinner exchange referenced by host.",
@@ -660,8 +660,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11390",
-      "ref": "N-11390",
+      "@id": "N-10899",
+      "ref": "N-10899",
       "name": "Paramount Tactical Valhalla",
       "type": "organization",
       "description": "Source of the stream clip in which Andrew Kolbet's instructions were read aloud.",
@@ -682,8 +682,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11391",
-      "ref": "N-11391",
+      "@id": "N-10900",
+      "ref": "N-10900",
       "name": "Daily Wire",
       "type": "organization",
       "description": "Institution that re-released Candace's 2021 trailer on her social channels.",
@@ -699,7 +699,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10450"
+        "N-10379"
       ],
       "organization_kind": "media_outlet"
     },
@@ -731,13 +731,13 @@
         "A-1568.1"
       ],
       "related_nodes": [
-        "N-10447"
+        "N-10376"
       ],
       "tags": [],
       "claim_timestamp": "00:04:47",
       "investigative_direction": "Verify Tim Dillon's segment against the original recording and timestamp the exact quoted phrases.",
       "mentions_person_refs": [
-        "N-443"
+        "N-283"
       ]
     },
     {
@@ -755,7 +755,7 @@
       "investigative_direction": "Verify the quoted observations against video footage of the AmFest opening and identify the precise sequence of Erica Kirk's stage appearance.",
       "mentions_person_refs": [
         "N-2",
-        "N-443",
+        "N-283",
         "N-1"
       ]
     },
@@ -769,7 +769,7 @@
         "A-1569.1"
       ],
       "related_nodes": [
-        "N-10447"
+        "N-10376"
       ],
       "tags": [],
       "claim_timestamp": "00:09:15",
@@ -792,7 +792,7 @@
       "claim_timestamp": "00:14:17",
       "investigative_direction": "Verify the segment against the source recording and identify which text leaks are being referenced.",
       "mentions_person_refs": [
-        "N-443"
+        "N-283"
       ]
     },
     {
@@ -809,7 +809,7 @@
       "claim_timestamp": "00:21:38",
       "investigative_direction": "Verify the segment against the source recording; assess whether the host's framing of this clip as investigative commentary is supported by the artifact.",
       "mentions_person_refs": [
-        "N-443"
+        "N-283"
       ]
     },
     {
@@ -822,15 +822,15 @@
         "A-1570.1"
       ],
       "related_nodes": [
-        "N-10448"
+        "N-10377"
       ],
       "tags": [],
       "claim_timestamp": "00:17:33",
       "investigative_direction": "Verify the spelling \"Cosgrove\" against the original CBS broadcast and against public identification of the UVU student; confirm the timeline and question content.",
       "mentions_person_refs": [
         "N-2",
-        "N-444",
-        "N-614",
+        "N-284",
+        "N-377",
         "N-1"
       ]
     },
@@ -849,7 +849,7 @@
       "investigative_direction": "Verify the clip against the original October 2024 interview recording; identify the publication or platform where the original interview was published.",
       "mentions_person_refs": [
         "N-1",
-        "N-621"
+        "N-380"
       ]
     },
     {
@@ -866,9 +866,9 @@
       "claim_timestamp": "00:40:44",
       "investigative_direction": "Identify the original InfoWars episode date and timestamp; verify the exact wording and the broader context of Jones's statement.",
       "mentions_person_refs": [
-        "N-128",
+        "N-93",
         "N-3",
-        "N-597"
+        "N-369"
       ]
     },
     {
@@ -881,15 +881,15 @@
         "A-1573.1"
       ],
       "related_nodes": [
-        "N-10451",
-        "N-11390"
+        "N-10380",
+        "N-10899"
       ],
       "tags": [],
       "claim_timestamp": "00:48:18",
       "investigative_direction": "Obtain the full unedited Paramount Tactical Valhalla stream; verify the original wording of Andrew Kolvet's instructions and the chain of custody.",
       "mentions_person_refs": [
         "N-2",
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -902,14 +902,14 @@
         "A-1574.1"
       ],
       "related_nodes": [
-        "N-10446"
+        "N-10375"
       ],
       "tags": [],
       "claim_timestamp": "00:45:37",
       "investigative_direction": "Identify the interviewer and platform; obtain the unedited interview recording to assess whether the son's statements corroborate or contradict Mitch Snow's account.",
       "mentions_person_refs": [
-        "N-424",
-        "N-597"
+        "N-272",
+        "N-369"
       ]
     },
     {
@@ -922,8 +922,8 @@
         "A-1575.1"
       ],
       "related_nodes": [
-        "N-10450",
-        "N-11391"
+        "N-10379",
+        "N-10900"
       ],
       "tags": [],
       "claim_timestamp": "00:30:51",
@@ -942,7 +942,7 @@
         "A-1576.1"
       ],
       "related_nodes": [
-        "N-10447"
+        "N-10376"
       ],
       "tags": [],
       "claim_timestamp": "01:07:04",
@@ -961,14 +961,14 @@
         "A-1576.2"
       ],
       "related_nodes": [
-        "N-10446",
-        "N-11390"
+        "N-10375",
+        "N-10899"
       ],
       "tags": [],
       "claim_timestamp": "01:08:04",
       "investigative_direction": "Verify the comment against the original thread and consider the commenter's stated credentials in assessing the credibility of the criticism.",
       "mentions_person_refs": [
-        "N-11390"
+        "N-10899"
       ]
     },
     {
@@ -981,15 +981,15 @@
         "A-1573.1"
       ],
       "related_nodes": [
-        "N-10449",
-        "N-11390"
+        "N-10378",
+        "N-10899"
       ],
       "tags": [],
       "claim_timestamp": "00:49:10",
       "investigative_direction": "Obtain additional communication between Andrew Kolbet and the involved accounts; verify whether the \"rogue\" narrative was authorized at higher TPUSA levels.",
       "mentions_person_refs": [
-        "N-42",
-        "N-597"
+        "N-14",
+        "N-369"
       ]
     }
   ],

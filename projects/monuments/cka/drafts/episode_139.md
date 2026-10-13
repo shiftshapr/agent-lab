@@ -29,8 +29,8 @@
 - Ledger continuation summary:
   - Artifact Families Introduced: A-2254, A-2255, A-2256, A-2257, A-2258, A-2259, A-2260, A-2261, A-2262, A-2263, A-2264, A-2265
   - Claim Range: C-3236–C-3258
-  - New Nodes Introduced: N-11185, N-11186, N-11187, N-11188, N-11189
-  - Reused Nodes Appearing: N-69, N-46
+  - New Nodes Introduced: N-10786, N-10787, N-10788, N-10789, N-10790
+  - Reused Nodes Appearing: N-40, N-18
   - Existing Nodes Reused: N-1, N-2
 
 ---
@@ -53,7 +53,7 @@ Video Timestamp: 00:00:02–00:00:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud in full)
 
-*Related: C-3236, C-3237, N-11185, N-1*
+*Related: C-3236, C-3237, N-10786, N-1*
 
 ---
 
@@ -143,7 +143,7 @@ Video Timestamp: 00:28:00–00:30:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single photo)
 
-*Related: C-3244, N-11186*
+*Related: C-3244, N-10787*
 
 **A-2259.2** Gas-pump photo (Texas) – subject fueling with left hand
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:29:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3245, N-11186*
+*Related: C-3245, N-10787*
 
 **A-2259.3** Selfie photos – taken with left hand
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:29:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3245, N-11186*
+*Related: C-3245, N-10787*
 
 **A-2259.4** Childhood piano recital video ("My name is Lance Twigs…") – watch on right hand; left hand turns page
 
@@ -173,7 +173,7 @@ Video Timestamp: 00:30:09–00:30:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (visible details)
 
-*Related: C-3246, N-11186*
+*Related: C-3246, N-10787*
 
 ---
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:26:49–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (blurry, but referenced as shown publicly)
 
-*Related: C-3248, N-11187, N-1*
+*Related: C-3248, N-10788, N-1*
 
 ---
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:36:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3249, N-11188*
+*Related: C-3249, N-10789*
 
 **A-2262.2** Joel Barry X post – "$20 burritos for family of eight"
 
@@ -225,7 +225,7 @@ Video Timestamp: 00:37:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3250, N-11188*
+*Related: C-3250, N-10789*
 
 **A-2262.3** Joel Barry 2024 X post – "I'd like to go back to when I could afford groceries"
 
@@ -235,7 +235,7 @@ Video Timestamp: 00:41:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3251, N-11188*
+*Related: C-3251, N-10789*
 
 **A-2262.4** Matt Walsh reply to Joel Barry
 
@@ -245,7 +245,7 @@ Video Timestamp: 00:38:00–00:39:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3252, N-11188*
+*Related: C-3252, N-10789*
 
 **A-2262.5** Dan Crenshaw X post – "eat ramen"
 
@@ -255,7 +255,7 @@ Video Timestamp: 00:40:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3253, N-11188*
+*Related: C-3253, N-10789*
 
 **A-2262.6** Blake Nef X post – WEF chart claiming US spends least on food
 
@@ -265,7 +265,7 @@ Video Timestamp: 00:42:30–00:43:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3254, N-11188*
+*Related: C-3254, N-10789*
 
 ---
 
@@ -279,7 +279,7 @@ Video Timestamp: 00:44:21–00:45:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3255, N-11188*
+*Related: C-3255, N-10789*
 
 **A-2263.2** Daily Wire trailer audio
 
@@ -289,7 +289,7 @@ Video Timestamp: 00:45:02–00:47:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3255, N-11188*
+*Related: C-3255, N-10789*
 
 ---
 
@@ -317,7 +317,7 @@ Video Timestamp: 00:22:01–00:23:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud in full)
 
-*Related: C-3257, C-3258, N-11189*
+*Related: C-3257, C-3258, N-10790*
 
 ---
 
@@ -331,13 +331,13 @@ Video Timestamp: 00:25:03–00:25:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (live Wikipedia – may have changed)
 
-*Related: C-3259, N-11189*
+*Related: C-3259, N-10790*
 
 ---
 
 ## IV. Node Register
 
-**N-11185** French Translation Hypothesis (Tyler Robinson Texts)
+**N-10786** French Translation Hypothesis (Tyler Robinson Texts)
 
 Investigative target: persistent theory that the alleged Tyler Robinson text messages were authored by a non-native English speaker using French phrasing (specifically "sniffer pooch" as calque of French "chien renifleur" / "reneneur"). Supported in this episode by viewer tip email.
 
@@ -346,11 +346,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2254.1, C-3236, C-3237, N-69*
+*Related: A-2254.1, C-3236, C-3237, N-40*
 
 ---
 
-**N-11186** Lance Twigs Handedness Verification
+**N-10787** Lance Twigs Handedness Verification
 
 Investigative target: persistent question of whether Lance Twigs is left-handed or ambidextrous, and whether this matches the handedness profile of the maroon-shirt person in the UVU staircase footage.
 
@@ -359,11 +359,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2259.1, A-2259.2, A-2259.3, A-2259.4, C-3244, C-3245, C-3246, N-69*
+*Related: A-2259.1, A-2259.2, A-2259.3, A-2259.4, C-3244, C-3245, C-3246, N-40*
 
 ---
 
-**N-11187** Maroon Shirt Person Identity (UVU Campus)
+**N-10788** Maroon Shirt Person Identity (UVU Campus)
 
 Investigative target: persistent host claim that the maroon-shirt figure on the UVU staircase is not Tyler Robinson, with new visual evidence in this episode (left-hand phone use) being added to that claim.
 
@@ -372,11 +372,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2261.1, C-3248, N-69*
+*Related: A-2261.1, C-3248, N-40*
 
 ---
 
-**N-11188** Grocery Affordability Public Debate (2026-08)
+**N-10789** Grocery Affordability Public Debate (2026-08)
 
 Investigative target: cluster of X posts by Matt Walsh, Joel Barry, Dan Crenshaw, Blake Nef arguing about affordability and food spending in mid-2026, used by the host to argue neocon inconsistency.
 
@@ -389,7 +389,7 @@ Investigative Pressure: Low (tangential to Kirk case)
 
 ---
 
-**N-11189** Luna / Helluva Boss Cultural Connection
+**N-10790** Luna / Helluva Boss Cultural Connection
 
 Investigative target: persistent host theory linking the "Luna" hellhound character (furry fandom, pentagram necklace, Helluva Boss) to a persona allegedly associated with Lance Twigs, and connecting the IMP "assassination company in hell" premise to the Charlie Kirk case.
 
@@ -402,7 +402,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-46** Andrew Wilson
+**N-18** Andrew Wilson
 
 Node Type: Person
 Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
@@ -420,9 +420,9 @@ Claim Timestamp: 00:00:02–00:00:55
 Claim: A viewer email to Candace's tip line argues that the phrase "pooch" with "bad sniffer" reflects a French calque ("reneneur" / "chien renifleur"), suggesting the Tyler Robinson text messages were translated from French.
 
 Anchored Artifacts: A-2254.1
-Mentions: N-69
+Mentions: N-40
 
-Related Nodes: N-11185
+Related Nodes: N-10786
 
 Investigative Direction: Obtain forensic linguistic analysis comparing disputed phrases to French idiomatic constructions and confirming or refuting translation-source hypothesis.
 
@@ -435,9 +435,9 @@ Claim Timestamp: 00:00:55
 Claim: Host concurs with the tip-line hypothesis that the texts were translated from French, citing "pooch" as the strongest example of non-native-English phrasing.
 
 Anchored Artifacts: A-2254.1
-Mentions: N-69
+Mentions: N-40
 
-Related Nodes: N-11185
+Related Nodes: N-10786
 
 Investigative Direction: Compare full text-message corpus for additional French calques; identify likely French-speaker demographics.
 
@@ -450,7 +450,7 @@ Claim Timestamp: 00:03:25–00:04:12
 Claim: On the Joe Rogan Experience, Andrew Wilson stated he offered Candace Owens $300,000 to debate him regarding the Charlie Kirk case.
 
 Anchored Artifacts: A-2255.1
-Mentions: N-46, N-3, N-1, N-427
+Mentions: N-18, N-3, N-1, N-274
 
 Related Nodes:
 
@@ -465,7 +465,7 @@ Claim Timestamp: 00:04:12–00:05:52
 Claim: On the Joe Rogan Experience, Andrew Wilson stated that during a visit to TPUSA HQ he spoke briefly with Erica Kirk and hugged her, expressing sympathy for her loss.
 
 Anchored Artifacts: A-2255.2
-Mentions: N-2, N-46, N-427
+Mentions: N-2, N-18, N-274
 
 Related Nodes:
 
@@ -480,7 +480,7 @@ Claim Timestamp: 00:03:25–00:04:59
 Claim: On the Joe Rogan Experience, Andrew Wilson stated that Candace Owens has never presented a single shred of evidence for her theory that Israel/TPUSA/Erica Kirk conspired in Charlie Kirk's death, and that the position evolved after Erica Kirk publicly called for the conspiracy talk to stop.
 
 Anchored Artifacts: A-2255.3
-Mentions: N-1, N-2, N-46, N-3, N-427
+Mentions: N-1, N-2, N-18, N-3, N-274
 
 Related Nodes:
 
@@ -495,7 +495,7 @@ Claim Timestamp: 00:13:00
 Claim: Andrew Kovac stated on X that Andrew Wilson was paid for one day of debate training for TPUSA students and the campus debate team, denying he was being "paid" in a broader sense.
 
 Anchored Artifacts: A-2256.1
-Mentions: N-46
+Mentions: N-18
 
 Related Nodes:
 
@@ -510,7 +510,7 @@ Claim Timestamp: 00:13:00
 Claim: Blake Nef posted on X recommending Andrew Wilson's Joe Rogan appearance, stating Wilson "does a great job" dissecting conspiracy theories and answering Rogan's questions.
 
 Anchored Artifacts: A-2257.1
-Mentions: N-46, N-224, N-427
+Mentions: N-18, N-162, N-274
 
 Related Nodes:
 
@@ -525,7 +525,7 @@ Claim Timestamp: 00:10:41–00:13:00
 Claim: A displayed debate clip shows Andrew Wilson, debating a female opponent named Charlie, using personal insults including calling her "stupid" and denigrating her family.
 
 Anchored Artifacts: A-2258.1
-Mentions: N-46
+Mentions: N-18
 
 Related Nodes:
 
@@ -540,9 +540,9 @@ Claim Timestamp: 00:28:00–00:30:00
 Claim: A displayed snowboarding photo shows Lance Twigs falling onto his left hand, consistent with left-handedness or ambidextercy.
 
 Anchored Artifacts: A-2259.1
-Mentions: N-84
+Mentions: N-54
 
-Related Nodes: N-11186
+Related Nodes: N-10787
 
 Investigative Direction: Obtain additional Lance Twigs photos/videos showing hand dominance across varied activities.
 
@@ -555,9 +555,9 @@ Claim Timestamp: 00:29:04
 Claim: A displayed photo shows Lance Twigs fueling a vehicle with his left hand at a Texas gas station.
 
 Anchored Artifacts: A-2259.2
-Mentions: N-84
+Mentions: N-54
 
-Related Nodes: N-11186
+Related Nodes: N-10787
 
 Investigative Direction: Verify photo metadata for date and location; obtain corroborating photos of Twigs using right hand to identify dominant hand definitively.
 
@@ -570,9 +570,9 @@ Claim Timestamp: 00:30:09–00:30:33
 Claim: A childhood piano recital video of Lance Twigs ("My name is Lance Twigs. I am playing country concert for young pianists") shows him wearing a watch on his right hand and turning the page with his left hand.
 
 Anchored Artifacts: A-2259.4
-Mentions: N-84
+Mentions: N-54
 
-Related Nodes: N-11186
+Related Nodes: N-10787
 
 Investigative Direction: Confirm watch-hand convention and whether left-hand page turn is consistent with dominant left-handedness or training.
 
@@ -585,7 +585,7 @@ Claim Timestamp: 00:17:07–00:17:57
 Claim: In a clip from The Benny Johnson Show, Benny Johnson stated that the public has seen only 1–2% of the physically available evidence in the Kirk case.
 
 Anchored Artifacts: A-2260.1
-Mentions: N-1, N-2, N-124
+Mentions: N-1, N-2, N-89
 
 Related Nodes:
 
@@ -600,9 +600,9 @@ Claim Timestamp: 00:26:49–00:28:00
 Claim: Blurry UVU staircase footage shows the maroon-shirt person holding a phone in their left hand and pocketing it in their left pocket.
 
 Anchored Artifacts: A-2261.1
-Mentions: N-69
+Mentions: N-40
 
-Related Nodes: N-11186, N-11187
+Related Nodes: N-10787, N-10788
 
 Investigative Direction: Obtain the "4K" influencer-shown version of this footage for higher-resolution verification of hand usage and pocket side.
 
@@ -615,9 +615,9 @@ Claim Timestamp: 00:36:34
 Claim: Matt Walsh posted on X that grocery prices are insane and still rising, calling it the number one priority for elected leaders.
 
 Anchored Artifacts: A-2262.1
-Mentions: N-228
+Mentions: N-166
 
-Related Nodes: N-11188
+Related Nodes: N-10789
 
 Investigative Direction: Cross-reference BLS food-at-home CPI data for verification.
 
@@ -631,7 +631,7 @@ Claim: Joel Barry posted on X that his wife's homemade burritos for a family of 
 
 Anchored Artifacts: A-2262.2
 
-Related Nodes: N-11188
+Related Nodes: N-10789
 
 Investigative Direction: Request itemized receipt or recipe cost breakdown.
 
@@ -645,7 +645,7 @@ Claim: Joel Barry tweeted in 2024, in reply to Kamala Harris, that he would like
 
 Anchored Artifacts: A-2262.3
 
-Related Nodes: N-11188
+Related Nodes: N-10789
 
 Investigative Direction: Verify original tweet date and context.
 
@@ -658,9 +658,9 @@ Claim Timestamp: 00:38:00–00:39:30
 Claim: Matt Walsh replied to Joel Barry noting that virtually no Republican was making "the affordability crisis is fake" arguments during the Biden years, and that grocery prices have risen 30%+ this decade.
 
 Anchored Artifacts: A-2262.4
-Mentions: N-228
+Mentions: N-166
 
-Related Nodes: N-11188
+Related Nodes: N-10789
 
 Investigative Direction: Compile post history of named Republicans regarding affordability claims during 2021–2024 vs. 2025–2026.
 
@@ -674,7 +674,7 @@ Claim: Dan Crenshaw posted on X telling critics of grocery prices to "stop whini
 
 Anchored Artifacts: A-2262.5
 
-Related Nodes: N-11188
+Related Nodes: N-10789
 
 Investigative Direction: Verify post and current ramen retail prices for college affordability comparison.
 
@@ -687,9 +687,9 @@ Claim Timestamp: 00:42:30–00:43:30
 Claim: Blake Nef shared a World Economic Forum chart on X claiming Americans spend less of their income on food than any other country on the planet.
 
 Anchored Artifacts: A-2262.6
-Mentions: N-224
+Mentions: N-162
 
-Related Nodes: N-11188
+Related Nodes: N-10789
 
 Investigative Direction: Community note referenced (cited pre-2020 data); obtain updated USDA ERS data for current expenditure share comparison.
 
@@ -703,7 +703,7 @@ Claim: Ben Shapiro introduced a Daily Wire film trailer on X claiming Hollywood 
 
 Anchored Artifacts: A-2263.1, A-2263.2
 
-Related Nodes: N-11188
+Related Nodes: N-10789
 
 Investigative Direction: Verify release date, distribution, and producer credits.
 
@@ -731,7 +731,7 @@ Claim: A viewer email to the tip line describes "Luna" from the animated series 
 
 Anchored Artifacts: A-2265.1
 
-Related Nodes: N-11189
+Related Nodes: N-10790
 
 Investigative Direction: Cross-reference Helluva Boss character profile and Luna's first appearance date.
 
@@ -745,7 +745,7 @@ Claim: Per the same email, the Luna character from Helluva Boss wears a pentagra
 
 Anchored Artifacts: A-2265.1
 
-Related Nodes: N-11189
+Related Nodes: N-10790
 
 Investigative Direction: Obtain canonical Helluva Boss images showing Luna's necklace design.
 
@@ -759,7 +759,7 @@ Claim: Wikipedia describes the Helluva Boss animated series as following the emp
 
 Anchored Artifacts: A-2266.1
 
-Related Nodes: N-11189
+Related Nodes: N-10790
 
 Investigative Direction: Verify Wikipedia entry at time of access; check edit history.
 
@@ -801,5 +801,5 @@ Confidence: high
 
 - **Artifact Families Introduced:** A-2254, A-2255, A-2256, A-2257, A-2258, A-2259, A-2260, A-2261, A-2262, A-2263, A-2264, A-2265, A-2266
 - **Claim Range:** C-3236–C-3259
-- **New Nodes Introduced:** N-11185, N-11186, N-11187, N-11188, N-11189
-- **Existing Nodes Reused:** N-1, N-2, N-69
+- **New Nodes Introduced:** N-10786, N-10787, N-10788, N-10789, N-10790
+- **Existing Nodes Reused:** N-1, N-2, N-40

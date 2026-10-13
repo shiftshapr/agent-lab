@@ -28,10 +28,10 @@
 ## Episode 96 Ledger Summary
 - Artifact Families Introduced: A-2007, A-2008, A-2009, A-2010, A-2011, A-2012, A-2013, A-2014
 - Claim Range: C-2790–C-2809, C-3745, C-3752
-  - New Nodes Introduced: N-10712, N-10713, N-10714, N-10715, N-10716, N-10717
+  - New Nodes Introduced: N-10637, N-10638, N-10639, N-10640, N-10641, N-10642
   - Reused Nodes Appearing: 
-  - Hole-minted Nodes (wave2): N-612, N-617, N-619, N-622
-- Existing Nodes Reused: N-1, N-2, N-3, N-42, N-91, N-5, N-444, N-133, N-552, N-410, N-122, N-182, N-293, N-903
+  - Hole-minted Nodes (wave2): N-376, N-378, N-379, N-381
+- Existing Nodes Reused: N-1, N-2, N-3, N-14, N-60, N-5, N-284, N-97, N-337, N-267, N-87, N-132, N-205, N-563
 
 ## 6. Meme Register
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:02:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2790, N-3, N-5, N-10715*
+*Related: C-2790, N-3, N-5, N-10640*
 
 ## A-2008 White House Correspondents Dinner Incident Coverage Bundle
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:29:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2791, N-2, N-10712, N-617*
+*Related: C-2791, N-2, N-10637, N-378*
 
 **A-2008.2** Evan Hill X post reporting surveillance footage showed no indication Allen fired his weapon
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:29:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2792, N-10712, N-612, N-617*
+*Related: C-2792, N-10637, N-376, N-378*
 
 **A-2008.3** Sarah Sidner (CNN) clip of Erika Kirk saying "I just want to go home"
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:31:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (original recording source unverified)
 
-*Related: C-2793, N-2, N-10713, N-619*
+*Related: C-2793, N-2, N-10638, N-379*
 
 **A-2008.4** Baron Coleman commentary clip on WHCD media frenzy
 
@@ -138,7 +138,7 @@ Video Timestamp: 00:33:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2794, N-2, N-552, N-10712*
+*Related: C-2794, N-2, N-337, N-10637*
 
 **A-2008.5** Host on-air $10,000 bounty for opposite-side corridor footage of the Erika Kirk "I just want to go home" clip (verbal reference; no displayed artifact)
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:32:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3745, N-2, N-619, N-10713*
+*Related: C-3745, N-2, N-379, N-10638*
 
 ## A-2009 Erika Kirk Pre-Recorded Statement Bundle
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:39:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2796, N-2, N-10714*
+*Related: C-2796, N-2, N-10639*
 
 **A-2009.2** Erika Kirk pre-recorded statement – criticism of journalists filming during active shooter
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:42:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2798, N-2, N-10714*
+*Related: C-2798, N-2, N-10639*
 
 **A-2009.3** Erika Kirk pre-recorded statement – criticism of Jimmy Kimmel's Melania joke
 
@@ -180,7 +180,7 @@ Video Timestamp: 00:45:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2799, N-2, N-3, N-122, N-10714*
+*Related: C-2799, N-2, N-3, N-87, N-10639*
 
 **A-2009.4** Erika Kirk pre-recorded statement – claim that Candace Owens accused her of murdering her husband
 
@@ -190,7 +190,7 @@ Video Timestamp: 00:47:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2797, N-2, N-3, N-10714, N-10717*
+*Related: C-2797, N-2, N-3, N-10639, N-10642*
 
 ## A-2010 Taro Farnsworth Recording Bundle
 
@@ -202,7 +202,7 @@ Video Timestamp: 00:43:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2800, N-410*
+*Related: C-2800, N-267*
 
 ## A-2011 Andrew Kolvet Text Message Bundle
 
@@ -214,7 +214,7 @@ Video Timestamp: 00:51:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (screenshot); Medium (full chain context unverified)
 
-*Related: C-2801, C-2802, C-2803, N-2, N-3, N-42, N-10716*
+*Related: C-2801, C-2802, C-2803, N-2, N-3, N-14, N-10641*
 
 ## A-2012 Laura Loomer Content Bundle
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:18:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2804, N-3, N-91*
+*Related: C-2804, N-3, N-60*
 
 **A-2012.2** Laura Loomer tweet claiming SPLC paid Candace Owens $500K to communicate David Duke talking points
 
@@ -236,7 +236,7 @@ Video Timestamp: 01:03:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2805, N-3, N-91*
+*Related: C-2805, N-3, N-60*
 
 **A-2012.3** Laura Loomer tweet claiming Candace Owens was at anti-Trump summit in Rome with Nick Fuentes, David Axelrod, and Aubrey Laitsch
 
@@ -246,7 +246,7 @@ Video Timestamp: 01:04:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2806, N-3, N-91, N-293, N-622, N-903*
+*Related: C-2806, N-3, N-60, N-205, N-381, N-563*
 
 **A-2012.4** AI-generated photo joke of Candace, Aubrey, and another figure on a scooter in Rome
 
@@ -256,7 +256,7 @@ Video Timestamp: 01:05:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (acknowledged as AI)
 
-*Related: C-2806, N-3, N-91, N-903*
+*Related: C-2806, N-3, N-60, N-563*
 
 ## A-2013 Candace Owens Prior Public Statements Bundle
 
@@ -307,7 +307,7 @@ Confidence Level: Medium (viewer comments)
 # Node Register
 
 
-**N-612** Evan Hill
+**N-376** Evan Hill
 
 Node Type: Person
 
@@ -322,7 +322,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-617** Cole Allen
+**N-378** Cole Allen
 
 Node Type: Person
 
@@ -337,7 +337,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-619** Sarah Sidner
+**N-379** Sarah Sidner
 
 Node Type: Person
 
@@ -348,11 +348,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2008.3, C-2793, N-10713*
+*Related: A-2008.3, C-2793, N-10638*
 
 ---
 
-**N-622** David Axelrod
+**N-381** David Axelrod
 
 Node Type: Person
 
@@ -367,7 +367,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10712** WHCD Incident Reconstruction
+**N-10637** WHCD Incident Reconstruction
 
 Persistent discrepancy between official shooting narrative and surveillance footage indicating possible friendly fire by Secret Service at the 2026 White House Correspondents Dinner incident.
 
@@ -378,7 +378,7 @@ Investigative Pressure: Medium
 
 *Related: A-2008.1, A-2008.2, A-2008.4, C-2791, C-2792, C-2794*
 
-**N-10713** Sarah Sidner Original Video Source Verification
+**N-10638** Sarah Sidner Original Video Source Verification
 
 Unresolved question of whether Sarah Sidner personally recorded the Erika Kirk "I just want to go home" clip or obtained it from another source.
 
@@ -387,9 +387,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2008.3, C-2793, N-2, N-619*
+*Related: A-2008.3, C-2793, N-2, N-379*
 
-**N-10714** Erika Kirk Pre-Recorded Statement Authorship and Authenticity
+**N-10639** Erika Kirk Pre-Recorded Statement Authorship and Authenticity
 
 Question of who authored Erika Kirk's pre-recorded 9-minute statement (host suggests Blake Neff), whether it was scripted, and how it was produced.
 
@@ -400,7 +400,7 @@ Investigative Pressure: High
 
 *Related: A-2009.1, A-2009.2, A-2009.3, A-2009.4, C-2795, C-2796, C-2797, C-2798, C-2799, N-2*
 
-**N-10715** Trump Truth Social Tweet Authorship/Origin
+**N-10640** Trump Truth Social Tweet Authorship/Origin
 
 Question of who authored and pushed send on Trump's April 2026 Truth Social post criticizing Candace Owens (host names Dan Scavino and Natalie Harp as historical senders).
 
@@ -411,7 +411,7 @@ Investigative Pressure: Medium
 
 *Related: A-2007.1, C-2790, N-5*
 
-**N-10716** Andrew Kolvet Text Message Full Context Verification
+**N-10641** Andrew Kolvet Text Message Full Context Verification
 
 Unresolved question of the complete text message chain shared between Candace and others regarding the December meeting with Erika Kirk; host has publicly authorized release of the full chain.
 
@@ -420,9 +420,9 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2011.1, C-2801, C-2802, C-2803, N-2, N-3, N-42*
+*Related: A-2011.1, C-2801, C-2802, C-2803, N-2, N-3, N-14*
 
-**N-10717** Erika Kirk Murder Claim Accuracy
+**N-10642** Erika Kirk Murder Claim Accuracy
 
 Question of whether Candace Owens ever made an explicit on-podcast claim that Erika Kirk murdered Charlie Kirk, and the framing of the December text joke as evidence.
 
@@ -435,7 +435,7 @@ Investigative Pressure: High
 
 ---
 
-**N-182** Susie Wiles
+**N-132** Susie Wiles
 
 Node Type: Person
 White House chief of staff. Host questions her as a Kirk eulogist and names her in later Epstein-file meetings.
@@ -454,7 +454,7 @@ Claim: Trump's Truth Social post called Candace Owens "an extremely low IQ indiv
 
 Anchored Artifacts: A-2007.1
 Mentions: N-3, N-5
-Related Nodes: N-10715
+Related Nodes: N-10640
 Investigative Direction: Verify the post on Truth Social directly and confirm timestamp; identify authorship via platform logs.
 
 **C-2791** Washington Post reported Secret Service officers fired at WHCD suspect
@@ -464,8 +464,8 @@ Claim Timestamp: 00:29:53
 Claim: The Washington Post reported surveillance footage shows the moment Secret Service officers fired at the WHCD suspect, Cole Allen.
 
 Anchored Artifacts: A-2008.1
-Mentions: N-617
-Related Nodes: N-10712
+Mentions: N-378
+Related Nodes: N-10637
 Investigative Direction: Pull the Washington Post article directly; review surveillance footage; verify Secret Service statements.
 
 **C-2792** Evan Hill reported no footage of Allen firing weapon
@@ -475,8 +475,8 @@ Claim Timestamp: 00:29:53
 Claim: Investigative reporter Evan Hill reported on X that a review of surveillance footage found no indication that Cole Allen fired his weapon at the WHCD incident.
 
 Anchored Artifacts: A-2008.2
-Mentions: N-612, N-617
-Related Nodes: N-10712
+Mentions: N-376, N-378
+Related Nodes: N-10637
 Investigative Direction: Pull Evan Hill's X post directly; verify Washington Post's review of footage; cross-reference with official statements.
 
 **C-2793** Sarah Sidner first shared clip of Erika Kirk "I just want to go home"
@@ -486,8 +486,8 @@ Claim Timestamp: 00:31:35
 Claim: The original public clip of Erika Kirk's "I just want to go home" remark was first shared by CNN's Sarah Sidner.
 
 Anchored Artifacts: A-2008.3
-Mentions: N-2, N-619
-Related Nodes: N-10713
+Mentions: N-2, N-379
+Related Nodes: N-10638
 Investigative Direction: Confirm via Sidner's public posts or CNN's records; the host could not confirm Sidner personally recorded the clip.
 
 **C-3745** Host offers a $10,000 bounty for opposite-side footage of the Erika Kirk corridor clip
@@ -499,9 +499,9 @@ Claim: After saying she could not confirm that Sarah Sidner shot the Erika Kirk 
 Transcript Snippet: I will offer $10,000 to somebody who has the opposite side footage.
 
 Anchored Artifacts: A-2008.5
-Mentions: N-3, N-2, N-619
-Related Nodes: N-10713
-Investigative Direction: Track bounty submissions received through candaceowens.com; compare any opposite-side footage against the Sidner clip to identify the original recorder (N-10713).
+Mentions: N-3, N-2, N-379
+Related Nodes: N-10638
+Investigative Direction: Track bounty submissions received through candaceowens.com; compare any opposite-side footage against the Sidner clip to identify the original recorder (N-10638).
 
 **C-2794** Baron Coleman commented on WHCD media frenzy
 
@@ -510,8 +510,8 @@ Claim Timestamp: 00:33:09
 Claim: Baron Coleman publicly commented on the WHCD media coverage, noting Erika Kirk's emergence as a focal point of the event alongside the ballroom announcement.
 
 Anchored Artifacts: A-2008.4
-Mentions: N-2, N-552
-Related Nodes: N-10712
+Mentions: N-2, N-337
+Related Nodes: N-10637
 Investigative Direction: Pull Baron Coleman's clip or post directly for full context.
 
 **C-2795** Erika Kirk released a pre-recorded 9-minute video statement
@@ -522,7 +522,7 @@ Claim: Erika Kirk published a 9-minute pre-recorded video statement, with the re
 
 Anchored Artifacts: A-2009.1, A-2009.2, A-2009.3, A-2009.4
 Mentions: N-2, N-1
-Related Nodes: N-10714
+Related Nodes: N-10639
 Investigative Direction: Verify the video directly on Erika Kirk's platforms; review production metadata if available.
 
 **C-2796** Erika Kirk claimed she attended WHCD to confront journalists
@@ -533,7 +533,7 @@ Claim: In her pre-recorded statement, Erika Kirk said she attended the White Hou
 
 Anchored Artifacts: A-2009.1
 Mentions: N-2
-Related Nodes: N-10714
+Related Nodes: N-10639
 Investigative Direction: Verify the full statement transcript; identify the Daily Mail journalist mentioned.
 
 **C-2797** Erika Kirk claimed Candace Owens accused her of murdering her husband
@@ -544,7 +544,7 @@ Claim: In her pre-recorded statement, Erika Kirk claimed Candace Owens has publi
 
 Anchored Artifacts: A-2009.4
 Mentions: N-2, N-3
-Related Nodes: N-10714, N-10717
+Related Nodes: N-10639, N-10642
 Investigative Direction: Search Candace Owens' full podcast archive for any explicit accusation of murder; review the December text message chain.
 
 **C-2798** Erika Kirk criticized journalists for filming during active shooter
@@ -555,7 +555,7 @@ Claim: In her pre-recorded statement, Erika Kirk criticized journalists present 
 
 Anchored Artifacts: A-2009.2
 Mentions: N-2
-Related Nodes: N-10714
+Related Nodes: N-10639
 Investigative Direction: Cross-reference against the Sarah Sidner footage and other journalist videos; verify the timing of any "active shooter" declaration.
 
 **C-2799** Erika Kirk criticized Jimmy Kimmel's Melania joke
@@ -565,8 +565,8 @@ Claim Timestamp: 00:45:38
 Claim: In her pre-recorded statement, Erika Kirk criticized Jimmy Kimmel's joke about Melania Trump having "the glow of an expected widow."
 
 Anchored Artifacts: A-2009.3
-Mentions: N-2, N-3, N-122
-Related Nodes: N-10714
+Mentions: N-2, N-3, N-87
+Related Nodes: N-10639
 Investigative Direction: Verify Kimmel's original monologue; confirm Erika's quotation is accurate.
 
 **C-2800** Taro Farnsworth recorded video at Charlie Kirk shooting scene
@@ -576,7 +576,7 @@ Claim Timestamp: 00:43:54
 Claim: Taro Farnsworth recorded himself on video at the Charlie Kirk shooting scene within seconds of the incident, stating "They just shot Charlie."
 
 Anchored Artifacts: A-2010.1
-Mentions: N-410, N-1
+Mentions: N-267, N-1
 Investigative Direction: Review the Farnsworth video; verify timestamp and original upload context; cross-reference with other scene footage.
 
 **C-2801** Andrew Kolvet presented a text message screenshot
@@ -586,8 +586,8 @@ Claim Timestamp: 00:51:23
 Claim: Andrew Kolvet publicly presented a screenshot of a text message exchange involving Candace Owens as supporting evidence for Erika Kirk's murder claim.
 
 Anchored Artifacts: A-2011.1
-Mentions: N-2, N-3, N-42
-Related Nodes: N-10716
+Mentions: N-2, N-3, N-14
+Related Nodes: N-10641
 Investigative Direction: Verify the screenshot; obtain the full conversation thread; host has publicly authorized release of the entire chain.
 
 **C-2802** Text message contained "why did you murder your husband?" with cry emojis
@@ -597,8 +597,8 @@ Claim Timestamp: 00:52:52
 Claim: The text message presented by Andrew Kolvet contained the phrase "why did you murder your husband?" with cry emojis, framed as Candace's planned first question for Erika.
 
 Anchored Artifacts: A-2011.1
-Mentions: N-2, N-3, N-42
-Related Nodes: N-10716
+Mentions: N-2, N-3, N-14
+Related Nodes: N-10641
 Investigative Direction: Verify the exact text against the screenshot; obtain the surrounding messages for context.
 
 **C-2803** Candace stated the text was sent in December before meeting Erika
@@ -608,8 +608,8 @@ Claim Timestamp: 00:52:52
 Claim: Candace stated the text was sent in December 2025 in response to questions about planned questions for an upcoming meeting with Erika Kirk, framed as a joke referencing the Bari Weiss/Ben Shapiro framing that any question to Erika equaled accusing her of murder.
 
 Anchored Artifacts: A-2011.1
-Mentions: N-2, N-3, N-42, N-444, N-133
-Related Nodes: N-10716
+Mentions: N-2, N-3, N-14, N-284, N-97
+Related Nodes: N-10641
 Investigative Direction: Verify the timeline of the meeting and the text; obtain the full chain; verify the Bari Weiss/Ben Shapiro framing.
 
 **C-2804** Laura Loomer made a recorded rant containing racial commentary about Candace
@@ -619,7 +619,7 @@ Claim Timestamp: 00:18:50
 Claim: Laura Loomer appeared in an audio recording making comments about Candace Owens including racial characterizations and descriptions of personal history.
 
 Anchored Artifacts: A-2012.1
-Mentions: N-3, N-91
+Mentions: N-3, N-60
 Investigative Direction: Verify the source recording; identify context and any other parties present.
 
 **C-2805** Laura Loomer tweeted SPLC paid Candace $500K to communicate David Duke talking points
@@ -629,7 +629,7 @@ Claim Timestamp: 01:03:21
 Claim: Laura Loomer tweeted that the Southern Poverty Law Center was paying Candace Owens $500K per year to communicate David Duke talking points.
 
 Anchored Artifacts: A-2012.2
-Mentions: N-3, N-91
+Mentions: N-3, N-60
 Investigative Direction: Verify the tweet directly; cross-reference SPLC public records; verify any financial relationship.
 
 **C-2806** Laura Loomer claimed Candace was at anti-Trump summit in Rome
@@ -639,7 +639,7 @@ Claim Timestamp: 01:04:56
 Claim: Laura Loomer tweeted that Candace Owens, Nick Fuentes, and Aubrey Laitsch converged in Rome for a "secret anti-Trump summit," with implied funding from Qatar.
 
 Anchored Artifacts: A-2012.3, A-2012.4
-Mentions: N-3, N-91, N-293, N-622, N-903
+Mentions: N-3, N-60, N-205, N-381, N-563
 Investigative Direction: Verify the tweet; cross-reference against actual attendees in Rome during the relevant dates.
 
 **C-2807** Candace traveled to Rome with her family for confirmation
@@ -708,7 +708,7 @@ Investigative Direction: Match the August 2016 photos and the photo Trump posted
 
 # Optional Flags
 
-- **Name uncertainty**: "Karoline Leavitt" appears in transcript at ~41:21; likely refers to White House Press Secretary Karoline Leavitt (N-446).
+- **Name uncertainty**: "Karoline Leavitt" appears in transcript at ~41:21; likely refers to White House Press Secretary Karoline Leavitt (N-286).
 - **Possible transcription error**: "Cole Allen" appears as the WHCD suspect name; verify spelling against official arrest records and court filings.
 - **Transcript ambiguity**: "Drewski" is name-dropped by Erika Kirk in the pre-recorded statement (~47:25); identity and relevance not clarified in the episode.
 - **Requires human verification**: Sarah Sidner's role as original recorder of the Erika Kirk clip (host explicitly states she could not confirm via Instagram, Twitter, or text outreach).

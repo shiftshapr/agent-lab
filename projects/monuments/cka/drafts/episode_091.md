@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 1df74cccac475e4c487a7870fcec07e5418c1bc8bbaa2b6db88833fb27d1cace
 
 - **Episode Ledger Summary**:
- - New Nodes Introduced: N-10674, N-10675, N-10676, N-10677, N-10678, N-10679, N-10680, N-10681
- - Hole-minted Nodes (wave3): N-677, N-678
+ - New Nodes Introduced: N-10599, N-10600, N-10601, N-10602, N-10603, N-10604, N-10605, N-10606
+ - Hole-minted Nodes (wave3): N-432, N-433
  - Reused Nodes Appearing: none (Wave 2: local ids removed)
  - (see registers)
 
@@ -33,7 +33,7 @@ Episode X Ledger Summary
 - Artifact Families Introduced: A-1958, A-1959, A-1960, A-1961, A-1962, A-1963, A-1964
 - Claim Range: C-2698–C-2721
 - New People Nodes Introduced: none (Wave 2: local ids removed)
-- New Investigation Target Nodes Introduced: N-10674, N-10675, N-10676, N-10677, N-10678, N-10679, N-10680, N-10681
+- New Investigation Target Nodes Introduced: N-10599, N-10600, N-10601, N-10602, N-10603, N-10604, N-10605, N-10606
 - Existing Nodes Reused: Erika Kirk, Charlie Kirk, Donald Trump, Sebastian Gorka
 
 ---
@@ -59,7 +59,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:21:21
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2698, C-2699, C-2700, C-2701, C-2702, C-2703, C-2704, C-2705, C-2706, C-2707, C-2708, C-2709, C-2710, C-2711, C-2712, C-2721, N-10675, N-10676, N-10677, N-10678*
+*Related: C-2698, C-2699, C-2700, C-2701, C-2702, C-2703, C-2704, C-2705, C-2706, C-2707, C-2708, C-2709, C-2710, C-2711, C-2712, C-2721, N-10600, N-10601, N-10602, N-10603*
 
 ---
 
@@ -72,7 +72,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:09:06
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2714, Erika Kirk (existing), N-10680*
+*Related: C-2714, Erika Kirk (existing), N-10605*
 
 **A-1959.2** Instagram Photo: Erika Kirk Being Comforted by Victor Marx at Her Residence
 
@@ -81,7 +81,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:10:03
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2715, Erika Kirk (existing), N-10680*
+*Related: C-2715, Erika Kirk (existing), N-10605*
 
 ---
 
@@ -94,7 +94,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:28:28
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2716, N-10677*
+*Related: C-2716, N-10602*
 
 ---
 
@@ -107,7 +107,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:43:08
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2717, Donald Trump (existing), N-10681*
+*Related: C-2717, Donald Trump (existing), N-10606*
 
 ---
 
@@ -120,7 +120,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:13:04
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2718, N-10679*
+*Related: C-2718, N-10604*
 
 ---
 
@@ -133,7 +133,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:37:42
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2713, C-2721, N-10674, N-10678*
+*Related: C-2713, C-2721, N-10599, N-10603*
 
 ---
 
@@ -146,7 +146,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:56:23
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2719, C-2720, N-10679, Wonder Woman (viewer, no node)*
+*Related: C-2719, C-2720, N-10604, Wonder Woman (viewer, no node)*
 
 **A-1964.2** Other Audience Comments Read Aloud
 
@@ -161,13 +161,13 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 ## IV. Node Register
 
-**N-677** Jimmy Cherizier
+**N-432** Jimmy Cherizier
 
 First named by the host at 00:27:14 in episode 91.
 
 *Related: C-2705, C-2716*
 
-**N-678** Daniel Horner
+**N-433** Daniel Horner
 
 First named by the host at 00:32:24 in episode 91.
 
@@ -176,7 +176,7 @@ First named by the host at 00:32:24 in episode 91.
 
 
 
-**N-10674** ATF Trace on Fold AR SN 02735 (September 10, 2025)
+**N-10599** ATF Trace on Fold AR SN 02735 (September 10, 2025)
 
 Persistent question regarding the timing, target crime, and follow-up (or absence thereof) of the ATF trace initiated on the morning of Charlie Kirk's assassination.
 
@@ -185,11 +185,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1963.1, C-2713, C-2721, N-10678*
+*Related: A-1963.1, C-2713, C-2721, N-10603*
 
 ---
 
-**N-10675** Victor Marx 51% Fold AR Acquisition Attempt
+**N-10600** Victor Marx 51% Fold AR Acquisition Attempt
 
 Persistent question regarding Victor Marx's stated intent to purchase a controlling stake in Fold AR and the responses received; includes valuation ($2M) and Daniel Horner / Sig Sauer intermediary claims.
 
@@ -202,7 +202,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10676** Victor Marx IDF 50,000 Guns Request
+**N-10601** Victor Marx IDF 50,000 Guns Request
 
 Persistent question regarding Victor Marx's alleged statement that the IDF needed 50,000 guns for operations in Gaza, Lebanon, and Syria, and any subsequent broker or transfer activity.
 
@@ -215,7 +215,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10677** Victor Marx Haiti Mission and Arms Request
+**N-10602** Victor Marx Haiti Mission and Arms Request
 
 Persistent question regarding the 50-rifle request, long-range rifle provision, and stated intent to capture/execute Jimmy Barbecue; reconciliation with CBN News reporting.
 
@@ -228,7 +228,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10678** Fold AR SN 02735 Disappearance and Recovery Question
+**N-10603** Fold AR SN 02735 Disappearance and Recovery Question
 
 Persistent question regarding the gun's theft from a Texas deputy's vehicle, the deputy's claim of reporting to Midland PD, lack of follow-up, and any connection to the September 10, 2025 ATF trace.
 
@@ -237,11 +237,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1958.1, A-1963.1, C-2711, C-2712, C-2713, N-10674*
+*Related: A-1958.1, A-1963.1, C-2711, C-2712, C-2713, N-10599*
 
 ---
 
-**N-10679** Victor Marx Background Verification
+**N-10604** Victor Marx Background Verification
 
 Persistent question regarding Victor Marx's biographical claims, military service (length, location, discharge status), family history, and inconsistencies identified by independent researchers.
 
@@ -254,7 +254,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10680** Erika Kirk–Victor Marx Relationship Verification
+**N-10605** Erika Kirk–Victor Marx Relationship Verification
 
 Persistent question regarding the nature, depth, and timing of Erika Kirk's relationship with Victor Marx – including the proximity and recording of the post-assassination contact window.
 
@@ -267,7 +267,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10681** Trump Iran Arms Admission Context
+**N-10606** Trump Iran Arms Admission Context
 
 Persistent question regarding Trump's public admission of US arms shipments to Iranian protesters and the underlying operational chain and intermediaries.
 
@@ -290,7 +290,7 @@ Claim: Corby Hall's written statement documents that Victor Marx expressed inter
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-10675
+Related Nodes: N-10600
 
 Investigative Direction: Verify Hall's account against Fold AR business records, communications, and any documented acquisition proposals.
 
@@ -360,7 +360,7 @@ Claim: Corby Hall's written statement documents that in late fall 2024, Victor M
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-10677
+Related Nodes: N-10602
 
 Investigative Direction: Verify any related communications, travel records, or follow-up requests; check export-control filings.
 
@@ -374,7 +374,7 @@ Claim: Corby Hall's written statement documents that in October 2024, Victor Mar
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-10677
+Related Nodes: N-10602
 
 Investigative Direction: Verify the build of the rifle, related communications, and any video documentation produced.
 
@@ -387,9 +387,9 @@ Claim Timestamp: 00:27:14
 Claim: Corby Hall's written statement documents that Victor Marx stated his team was going to capture or execute Jimmy Barbecue, then the top gang leader of Haiti.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-677
+Mentions: N-432
 
-Related Nodes: N-10677
+Related Nodes: N-10602
 
 Investigative Direction: Cross-reference with subsequent Haiti mission records and CBN News reporting.
 
@@ -402,9 +402,9 @@ Claim Timestamp: 00:33:10
 Claim: Corby Hall's written statement documents that Victor Marx stated he was discussing the acquisition of Fold AR with Sig Sauer, and that Sig Sauer's top shooter Daniel Horner had tested the Fold AR and given a "thumbs up."
 
 Anchored Artifacts: A-1958.1
-Mentions: N-678
+Mentions: N-433
 
-Related Nodes: N-10675
+Related Nodes: N-10600
 
 Investigative Direction: Verify with Sig Sauer corporate communications and Daniel Horner directly.
 
@@ -418,7 +418,7 @@ Claim: Corby Hall's written statement documents that Victor Marx's accountants v
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-10675
+Related Nodes: N-10600
 
 Investigative Direction: Verify with any valuation documents, accountants, or formal acquisition proposals.
 
@@ -432,7 +432,7 @@ Claim: Corby Hall's written statement documents that during a walk on his proper
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-10676
+Related Nodes: N-10601
 
 Investigative Direction: Verify any related communications, broker contacts, or follow-up activity; cross-check with export-control records.
 
@@ -474,7 +474,7 @@ Claim: Corby Hall's written statement documents that on June 6, 2024, Corby Hall
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-10678
+Related Nodes: N-10603
 
 Investigative Direction: Verify the sale via Fold AR's bound book / ATF Form 4473 records.
 
@@ -488,7 +488,7 @@ Claim: Corby Hall's written statement documents that on July 4, 2024, the Texas 
 
 Anchored Artifacts: A-1958.1
 
-Related Nodes: N-10678
+Related Nodes: N-10603
 
 Investigative Direction: Verify with Midland Police Department records and the deputy's agency.
 
@@ -502,7 +502,7 @@ Claim: Per host account of forwarded ATF email, on September 10, 2025, at 9:33 a
 
 Anchored Artifacts: A-1963.1
 
-Related Nodes: N-10674, N-10678
+Related Nodes: N-10599, N-10603
 
 Investigative Direction: Independently verify the email via ATF; identify the originating case and underlying crime.
 
@@ -517,7 +517,7 @@ Claim: An Instagram video shows Erika Kirk and Eileen Marx embracing shortly aft
 Anchored Artifacts: A-1959.1
 Mentions: N-1, N-2
 
-Related Nodes: N-10680
+Related Nodes: N-10605
 
 Investigative Direction: Obtain original Instagram post metadata; verify posting timestamp.
 
@@ -532,7 +532,7 @@ Claim: A photo shows Erika Kirk being comforted by Victor Marx at her residence,
 Anchored Artifacts: A-1959.2
 Mentions: N-1, N-2
 
-Related Nodes: N-10680
+Related Nodes: N-10605
 
 Investigative Direction: Obtain original image metadata; verify posting context.
 
@@ -545,9 +545,9 @@ Claim Timestamp: 00:28:28
 Claim: CBN News aired a report stating that Victor Marx met with Haitian gang leader Jimmy Barbecue (Cherizier), who subsequently pledged to protect orphanages and Christian workers; Marx is shown praying with him and the FAA is reported to have banned US flights to Haiti after three planes were hit by gunfire.
 
 Anchored Artifacts: A-1960.1
-Mentions: N-677
+Mentions: N-432
 
-Related Nodes: N-10677
+Related Nodes: N-10602
 
 Investigative Direction: Cross-reference with other reporting on Marx's Haiti activities and any FAA enforcement records.
 
@@ -562,7 +562,7 @@ Claim: During a White House Easter celebration, Donald Trump publicly stated tha
 Anchored Artifacts: A-1961.1
 Mentions: N-5
 
-Related Nodes: N-10681
+Related Nodes: N-10606
 
 Investigative Direction: Obtain full transcript of the remarks; verify the operational chain Trump described.
 
@@ -576,7 +576,7 @@ Claim: An audio clip of Victor Marx recounts that at age 7, his stepfather place
 
 Anchored Artifacts: A-1962.1
 
-Related Nodes: N-10679
+Related Nodes: N-10604
 
 Investigative Direction: Identify the source recording; verify any underlying events or absence thereof via law enforcement records.
 
@@ -590,7 +590,7 @@ Claim: A viewer named Wonder Woman commented that "Marines only allow a minimum 
 
 Anchored Artifacts: A-1964.1
 
-Related Nodes: N-10679
+Related Nodes: N-10604
 
 Investigative Direction: Verify Marine Corps enlistment contract minimums through official Marine Corps publications.
 
@@ -604,7 +604,7 @@ Claim: The host states that she looked into the Marine enlistment question and c
 
 Anchored Artifacts: A-1964.1
 
-Related Nodes: N-10679
+Related Nodes: N-10604
 
 Investigative Direction: Verify the host's assertion against Marine Corps enlistment options.
 
@@ -618,7 +618,7 @@ Claim: The host explicitly states she believes Corby Hall's account, has confirm
 
 Anchored Artifacts: A-1958.1, A-1963.1
 
-Related Nodes: N-10674, N-10678
+Related Nodes: N-10599, N-10603
 
 Investigative Direction: Independently verify the host's confirmation of the email and the underlying timeline.
 
@@ -641,10 +641,10 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty**: "Vaughn Victor Kennedy" vs "Vo" – host notes the military record may show "Vo" without "n." Flag retained on and N-10679.
+- **Name uncertainty**: "Vaughn Victor Kennedy" vs "Vo" – host notes the military record may show "Vo" without "n." Flag retained on and N-10604.
 - **Artifact verbally referenced but not shown**: A-1963.1 (ATF email) – host describes it as forwarded and confirmed but does not directly display it in the episode.
 - **Possible transcription error**: A-1960.1 – gang name "Moise 400" appears in CBN transcript; verification of gang name recommended against primary reporting.
-- **Name transcription oddity**: Host spells "Corey Kennedy" as "C O R I Kennedy" then reverts to "Corey"; transcription oddity flagged on N-10217.
-- **Claim failed admission test**: Host's biographical claims about the Kennedy/Marx family (Gloyce Dean Kennedy's 1987 conviction, Mike Kennedy's plea, Carl Marx's occupations, grandfather's murder-suicide, Marx's 2-year Marine service, Calvary Chapel attendance, marriage year, All Things Possible Ministries founding, brother-in-law shooting, etc.) are stated without shown artifacts and are NOT inscribed as claims. They are referenced only in node descriptions,,,, N-10679).
+- **Name transcription oddity**: Host spells "Corey Kennedy" as "C O R I Kennedy" then reverts to "Corey"; transcription oddity flagged on N-10151.
+- **Claim failed admission test**: Host's biographical claims about the Kennedy/Marx family (Gloyce Dean Kennedy's 1987 conviction, Mike Kennedy's plea, Carl Marx's occupations, grandfather's murder-suicide, Marx's 2-year Marine service, Calvary Chapel attendance, marriage year, All Things Possible Ministries founding, brother-in-law shooting, etc.) are stated without shown artifacts and are NOT inscribed as claims. They are referenced only in node descriptions,,,, N-10604).
 - **Timestamp uncertainty**: A-1960.1 – exact event date for the CBN News segment is not stated; only inferable from clip context.
-- **Requires human verification**: All N-10675, N-10676, N-10677, N-10678 nodes require independent verification beyond Corby Hall's written statement.
+- **Requires human verification**: All N-10600, N-10601, N-10602, N-10603 nodes require independent verification beyond Corby Hall's written statement.

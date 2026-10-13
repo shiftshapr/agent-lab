@@ -11,10 +11,10 @@
 - **Transcript SHA-256**: 2d8a535e348680bde91bd9e251254cedc97656a8880bb2edfe4356e92aed4629
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-11113, N-11114, N-11115
-  - Reused Nodes Appearing: N-37
-  - Hole-minted Nodes (wave1b): N-611
-  - Hole-minted Nodes (wave3): N-806, N-807
+  - New Nodes Introduced: N-10714, N-10715, N-10716
+  - Reused Nodes Appearing: N-11
+  - Hole-minted Nodes (wave1b): N-375
+  - Hole-minted Nodes (wave3): N-514, N-515
   - (see registers)
 
 ## 2. Executive Summary
@@ -39,7 +39,7 @@ Video Timestamp: 00:01:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3017, N-1, N-11113*
+*Related: C-3017, N-1, N-10714*
 
 **A-2129.2** Photograph: unidentified burnt object left in backseat of SUV
 
@@ -49,7 +49,7 @@ Video Timestamp: 00:01:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3017, N-11113*
+*Related: C-3017, N-10714*
 
 **A-2130** Burn Test Replication Bundle
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:06:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (informal replication; not forensic match)
 
-*Related: C-3017, N-11113*
+*Related: C-3017, N-10714*
 
 **A-2131** Viewer Tip Bundle (T-Shirt Identification)
 
@@ -73,7 +73,7 @@ Video Timestamp: 00:03:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (unverified poster identity)
 
-*Related: C-3017, N-11113*
+*Related: C-3017, N-10714*
 
 **A-2131.2** Email from self-identified plastic surgery nurse identifying object as melted polyester shirt with charred skin
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:04:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (unverified sender identity; anonymous)
 
-*Related: C-3017, N-11113*
+*Related: C-3017, N-10714*
 
 **A-2132** Blake Neff Social Media Post Bundle
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:13:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3018, C-3019, C-3020, N-11114*
+*Related: C-3018, C-3019, C-3020, N-10715*
 
 **A-2134** Bank of America Merrill Lynch Network Visual Guide Bundle
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:24:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-compiled; underlying claims require separate verification)
 
-*Related: C-3021, C-3022, C-3023, C-3024, N-11115, N-37*
+*Related: C-3021, C-3022, C-3023, C-3024, N-10716, N-11*
 
 **A-2135** Andrew Kolvet Tweet Bundle
 
@@ -175,7 +175,7 @@ Video Timestamp: 00:49:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-11115*
+*Related: N-10716*
 
 **A-2137.4** Comment from Seven Sheets: praising host's "bravery, integrity, faith"
 
@@ -221,20 +221,20 @@ Confidence Level: High
 
 ## 4. Node Register
 
-**N-806** Thomas Patrick
+**N-514** Thomas Patrick
 
 First named by the host at 00:19:38 in episode 125.
 
 *Related: C-3021, A-2134.1*
 
-**N-807** Eliot Spitzer
+**N-515** Eliot Spitzer
 
 First named by the host at 00:21:23 in episode 125.
 
 *Related: C-3021*
 
 
-**N-11113** Unidentified Burnt Object in Charlie Kirk's SUV
+**N-10714** Unidentified Burnt Object in Charlie Kirk's SUV
 
 Persistent investigative target. Object left in backseat of SUV used to transport Charlie Kirk to hospital. Multiple expert viewer tips (fashion industry, plastic surgery nurse, mother of 10) identify object as melted polyester shirt/burnt fabric. Host performed burn-replication experiment with 50% polyester shirt.
 
@@ -245,7 +245,7 @@ Investigative Pressure: High
 
 *Related: A-2129.2, A-2130.1, A-2131.1, A-2131.2, C-3017, N-1*
 
-**N-11114** Blake Neff September 10th Movement Discrepancy
+**N-10715** Blake Neff September 10th Movement Discrepancy
 
 Blake Neff's inability to recall destination, driver, or passengers of the second SUV during the morning gap (Salt Lake City landing to UVU event) on September 10, 2025.
 
@@ -256,7 +256,7 @@ Investigative Pressure: High
 
 *Related: A-2133.1, C-3019, C-3020*
 
-**N-11115** Bank of America Merrill Lynch Personnel Network
+**N-10716** Bank of America Merrill Lynch Personnel Network
 
 Investigative target: multiple Turning Point USA personnel and associates (Thomas Patrick, Tyler Bowyer's father, Stephen Phillip, Dennis Franks Bay) with overlapping tenures at Bank of America Merrill Lynch in Chicago, 2008-2022 timeframe per host's visual guide.
 
@@ -265,11 +265,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2134.1, C-3021, C-3022, C-3023, C-3024, N-37*
+*Related: A-2134.1, C-3021, C-3022, C-3023, C-3024, N-11*
 
 ---
 
-**N-611** Danny Philip
+**N-375** Danny Philip
 
 Turning Point USA employee (transcript spelling Danny Phillip). During an X Space Blake Neff indicated Danny may have been in the second SUV with him; the host traces his family ties to Merrill Lynch and Bank of America.
 
@@ -282,7 +282,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-37** Tyler Bowyer
+**N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -302,7 +302,7 @@ Claim: The unidentified burnt object in the backseat of Charlie Kirk's SUV is co
 Anchored Artifacts: A-2129.2, A-2130.1, A-2131.1, A-2131.2
 Mentions: N-1
 
-Related Nodes: N-11113
+Related Nodes: N-10714
 
 Investigative Direction: Forensic examination of the actual recovered object would verify or falsify the polyester-shirt hypothesis.
 
@@ -313,7 +313,7 @@ Claim Timestamp: 00:12:33
 Claim: Blake Neff was aboard the private jet carrying Charlie Kirk to Salt Lake City on the morning of September 10th.
 
 Anchored Artifacts: A-2133.1
-Mentions: N-1, N-224
+Mentions: N-1, N-162
 
 
 Investigative Direction: Flight manifests, airport records, and witness corroboration would verify the passenger list.
@@ -325,9 +325,9 @@ Claim Timestamp: 00:14:07
 Claim: Blake Neff stated during an X Space that he did not recall where the second SUV went, who drove it, or who was in the car during the morning gap between landing at Salt Lake City and the UVU event.
 
 Anchored Artifacts: A-2133.1
-Mentions: N-224
+Mentions: N-162
 
-Related Nodes: N-11114
+Related Nodes: N-10715
 
 Investigative Direction: Rental car records, phone location data, and witness statements would verify Blake Neff's stated movement and reconstruct the SUV's route.
 
@@ -338,9 +338,9 @@ Claim Timestamp: 00:15:25
 Claim: During the X Space, after prompting, Blake Neff indicated that Danny Phillip might have been in the second SUV with him.
 
 Anchored Artifacts: A-2133.1
-Mentions: N-611, N-224
+Mentions: N-375, N-162
 
-Related Nodes: N-11114
+Related Nodes: N-10715
 
 Investigative Direction: Direct confirmation from Danny Phillip or other witnesses; phone location data for September 10th would verify or falsify the identification.
 
@@ -351,9 +351,9 @@ Claim Timestamp: 00:24:41
 Claim: Danny Phillip is the grandson of Thomas Patrick, former Executive Vice Chairman and CEO of Merrill Lynch (Chicago, 25-year tenure, departed 2003 following Eliot Spitzer scandal), who was also a major Turning Point donor.
 
 Anchored Artifacts: A-2134.1
-Mentions: N-611, N-807, N-806
+Mentions: N-375, N-515, N-514
 
-Related Nodes: N-11115
+Related Nodes: N-10716
 
 Investigative Direction: Genealogical records, family-tree confirmation, public obituaries, or corporate filings would verify the claimed relationship.
 
@@ -364,9 +364,9 @@ Claim Timestamp: 00:24:41
 Claim: Danny Phillip's father Stephen Phillip was employed at Bank of America Merrill Lynch in Chicago during the 2008-2022 timeframe, with Russian studies educational background.
 
 Anchored Artifacts: A-2134.1
-Mentions: N-611
+Mentions: N-375
 
-Related Nodes: N-11115
+Related Nodes: N-10716
 
 Investigative Direction: Employment records, corporate directories, or archived LinkedIn data (host notes LinkedIn was cleaned) would verify the employment claim.
 
@@ -377,9 +377,9 @@ Claim Timestamp: 00:24:41
 Claim: Tyler Bowyer's father held a major executive position at Bank of America Merrill Lynch (Chicago), and Tyler Bowyer's first job was at Bank of America.
 
 Anchored Artifacts: A-2134.1
-Mentions: N-37
+Mentions: N-11
 
-Related Nodes: N-11115
+Related Nodes: N-10716
 
 Investigative Direction: Corporate directories, employment records, public board listings would verify the employment claim.
 
@@ -392,7 +392,7 @@ Claim: Erica Kirk's cousin Dennis Franks Bay worked at Bank of America Merrill L
 Anchored Artifacts: A-2134.1
 Mentions: N-2
 
-Related Nodes: N-11115
+Related Nodes: N-10716
 
 Investigative Direction: Employment records, military transition records, and public corporate directories would verify the claim.
 
@@ -403,7 +403,7 @@ Claim Timestamp: 00:41:46
 Claim: Andrew Kolvet's tweet thread partially conceded that Charlie Kirk had declined to have Netanyahu on his show, while disputing the "offer to take Turning Point to the next level" element of Candace Owens' narrative.
 
 Anchored Artifacts: A-2135.1
-Mentions: N-1, N-42, N-3
+Mentions: N-1, N-14, N-3
 
 
 Investigative Direction: Compare Kolvet's public statements across time; corroborate through other Turning Point insiders familiar with Charlie Kirk's scheduling decisions.

@@ -31,8 +31,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10207",
-            "N-11074"
+            "N-10141",
+            "N-10676"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -59,8 +59,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10208",
-            "N-11075"
+            "N-10142",
+            "N-10677"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -79,8 +79,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10208",
-            "N-11075"
+            "N-10142",
+            "N-10677"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -99,8 +99,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10208",
-            "N-11075"
+            "N-10142",
+            "N-10677"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -127,7 +127,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-11076"
+            "N-10678"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -155,7 +155,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-11076"
+            "N-10678"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -182,7 +182,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-11076"
+            "N-10678"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -201,7 +201,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-11076"
+            "N-10678"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -225,7 +225,7 @@
           "description": "Tim Dillon clip – parody reading titled \"God chose me by J. D. Vance,\" with Baal-sacrifice framing",
           "related_claims": [],
           "related_nodes": [
-            "N-443",
+            "N-283",
             "N-3"
           ],
           "tags": [],
@@ -253,7 +253,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-11078"
+            "N-10680"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -272,7 +272,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-11078"
+            "N-10680"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -299,8 +299,8 @@
             "C-2940"
           ],
           "related_nodes": [
-            "N-69",
-            "N-11077"
+            "N-40",
+            "N-10679"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -315,8 +315,8 @@
   "nodes": [
     {
       "@type": "Topic",
-      "@id": "N-11079",
-      "ref": "N-11079",
+      "@id": "N-10681",
+      "ref": "N-10681",
       "name": "Sean Ryan Show Interview Clip Bundle",
       "type": "topic",
       "description": "",
@@ -360,17 +360,17 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10207",
-        "N-10208",
-        "N-11074",
-        "N-11075",
-        "N-11076"
+        "N-10141",
+        "N-10142",
+        "N-10676",
+        "N-10677",
+        "N-10678"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Defendant in preliminary hearing subject to host's hearsay concerns.",
@@ -387,13 +387,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11077"
+        "N-10679"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11074",
-      "ref": "N-11074",
+      "@id": "N-10676",
+      "ref": "N-10676",
       "name": "Charlie Kirk Shirt Disposal Verification",
       "type": "investigation_target",
       "description": "Persistent target: whether Charlie's \"freedom shirt\" – predicted to retain explosive residue under the mic-explosion hypothesis – was preserved as evidence or otherwise disposed of.",
@@ -410,13 +410,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-10207"
+        "N-10141"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11075",
-      "ref": "N-11075",
+      "@id": "N-10677",
+      "ref": "N-10677",
       "name": "Sarah Tool Witness Statement Discrepancy",
       "type": "investigation_target",
       "description": "Contradiction node: chest/heart vs. neck wound location and 200-yard shooter distance claim, across three successive Sarah Tool interviews.",
@@ -437,13 +437,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-10208"
+        "N-10142"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11076",
-      "ref": "N-11076",
+      "@id": "N-10678",
+      "ref": "N-10678",
       "name": "SUV Floorboard Shard Mic Identification",
       "type": "investigation_target",
       "description": "Persistent target: whether the black shards visible on the SUV floorboard are ABS shards from a Rode Wireless Pro microphone or from another source.",
@@ -465,13 +465,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-10209"
+        "N-10143"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11077",
-      "ref": "N-11077",
+      "@id": "N-10679",
+      "ref": "N-10679",
       "name": "Lance Twiggs Preliminary Hearing Testimony Limitation",
       "type": "investigation_target",
       "description": "Target: court ruling permitting Twiggs's recorded statement at the preliminary hearing without live cross-examination.",
@@ -488,13 +488,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-69"
+        "N-40"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11078",
-      "ref": "N-11078",
+      "@id": "N-10680",
+      "ref": "N-10680",
       "name": "Erika Signature Change Discrepancy",
       "type": "investigation_target",
       "description": "Target: observable transformation of Erika Kirk's signature between her Miss Arizona era and current usage.",
@@ -532,8 +532,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -548,8 +548,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-84",
-      "ref": "N-84",
+      "@id": "N-54",
+      "ref": "N-54",
       "name": "Lance Twiggs",
       "type": "person",
       "description": "Robinson's partner; recipient of FBI-released text chain",
@@ -574,13 +574,13 @@
         "A-2085.1"
       ],
       "related_nodes": [
-        "N-11074"
+        "N-10676"
       ],
       "tags": [],
       "claim_timestamp": "00:05:20",
       "investigative_direction": "Obtain Sean Ryan show audio/video; cross-reference against hospital records, gurney handling logs, and ER staff testimony to verify or falsify Harpole's account.",
       "mentions_person_refs": [
-        "N-424",
+        "N-272",
         "N-1"
       ]
     },
@@ -594,7 +594,7 @@
         "A-2086.1"
       ],
       "related_nodes": [
-        "N-11075"
+        "N-10677"
       ],
       "tags": [],
       "claim_timestamp": "00:18:25",
@@ -613,7 +613,7 @@
         "A-2086.2"
       ],
       "related_nodes": [
-        "N-11075"
+        "N-10677"
       ],
       "tags": [],
       "claim_timestamp": "00:20:48",
@@ -632,7 +632,7 @@
         "A-2086.3"
       ],
       "related_nodes": [
-        "N-11075"
+        "N-10677"
       ],
       "tags": [],
       "claim_timestamp": "00:21:43",
@@ -651,14 +651,14 @@
         "A-2092.1"
       ],
       "related_nodes": [
-        "N-11077"
+        "N-10679"
       ],
       "tags": [],
       "claim_timestamp": "00:25:38",
       "investigative_direction": "Obtain the underlying court order from Utah state court records to verify the ruling, its date, and its specific findings.",
       "mentions_person_refs": [
-        "N-69",
-        "N-84"
+        "N-40",
+        "N-54"
       ]
     },
     {
@@ -671,14 +671,14 @@
         "A-2092.1"
       ],
       "related_nodes": [
-        "N-11077"
+        "N-10679"
       ],
       "tags": [],
       "claim_timestamp": "00:26:28",
       "investigative_direction": "Obtain the preliminary-hearing scheduling order and any associated evidentiary rulings to confirm the recorded-statement procedure and the recorded-statement transcript.",
       "mentions_person_refs": [
-        "N-69",
-        "N-84"
+        "N-40",
+        "N-54"
       ]
     },
     {
@@ -691,7 +691,7 @@
         "A-2087.1"
       ],
       "related_nodes": [
-        "N-11076"
+        "N-10678"
       ],
       "tags": [],
       "claim_timestamp": "00:13:23",
@@ -711,7 +711,7 @@
         "A-2089.1"
       ],
       "related_nodes": [
-        "N-11076"
+        "N-10678"
       ],
       "tags": [],
       "claim_timestamp": "00:14:51",
@@ -731,7 +731,7 @@
         "A-2088.1"
       ],
       "related_nodes": [
-        "N-11076"
+        "N-10678"
       ],
       "tags": [],
       "claim_timestamp": "00:15:51",
@@ -751,7 +751,7 @@
         "A-2091.2"
       ],
       "related_nodes": [
-        "N-11078"
+        "N-10680"
       ],
       "tags": [],
       "claim_timestamp": "00:39:46",

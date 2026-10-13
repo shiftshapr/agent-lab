@@ -31,9 +31,9 @@
             "C-3703"
           ],
           "related_nodes": [
-            "N-569",
-            "N-571",
-            "N-10697"
+            "N-348",
+            "N-350",
+            "N-10622"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -60,8 +60,8 @@
             "C-3709"
           ],
           "related_nodes": [
-            "N-569",
-            "N-577"
+            "N-348",
+            "N-356"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -87,8 +87,8 @@
             "C-3705"
           ],
           "related_nodes": [
-            "N-573",
-            "N-569"
+            "N-352",
+            "N-348"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -114,9 +114,9 @@
             "C-3706"
           ],
           "related_nodes": [
-            "N-575",
-            "N-574",
-            "N-569"
+            "N-354",
+            "N-353",
+            "N-348"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -142,7 +142,7 @@
             "C-3707"
           ],
           "related_nodes": [
-            "N-569"
+            "N-348"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -161,8 +161,8 @@
             "C-3716"
           ],
           "related_nodes": [
-            "N-569",
-            "N-11384"
+            "N-348",
+            "N-10893"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -195,7 +195,7 @@
             "C-3716"
           ],
           "related_nodes": [
-            "N-569"
+            "N-348"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -221,7 +221,7 @@
             "C-3709"
           ],
           "related_nodes": [
-            "N-569"
+            "N-348"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -247,7 +247,7 @@
             "C-3710"
           ],
           "related_nodes": [
-            "N-569"
+            "N-348"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -262,8 +262,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Named by Victor Marx in his account of the 9/10 death announcement.",
@@ -279,8 +279,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-569",
-      "ref": "N-569",
+      "@id": "N-348",
+      "ref": "N-348",
       "name": "Victor Marx",
       "type": "person",
       "description": "Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure.",
@@ -319,8 +319,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-571",
-      "ref": "N-571",
+      "@id": "N-350",
+      "ref": "N-350",
       "name": "Eileen Marx",
       "type": "person",
       "description": "Victor's wife; described as second-mother figure to Erika Kirk.",
@@ -338,8 +338,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-570",
-      "ref": "N-570",
+      "@id": "N-349",
+      "ref": "N-349",
       "name": "Corby Hall",
       "type": "person",
       "description": "Accuser of Victor Marx (prior guest); alleges gun-running and an IDF arms deal.",
@@ -355,8 +355,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-572",
-      "ref": "N-572",
+      "@id": "N-351",
+      "ref": "N-351",
       "name": "Melody Hall",
       "type": "person",
       "description": "Corby Hall's wife; named by Victor Marx as someone he prayed for.",
@@ -372,8 +372,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-573",
-      "ref": "N-573",
+      "@id": "N-352",
+      "ref": "N-352",
       "name": "Holly Chalmers",
       "type": "person",
       "description": "Accuser of Victor Marx; alleges kidnapping across state lines and exploitation.",
@@ -391,8 +391,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-574",
-      "ref": "N-574",
+      "@id": "N-353",
+      "ref": "N-353",
       "name": "Victor Marx's son",
       "type": "person",
       "description": "Wrote a letter to the board accusing his father of abusing him and his sister.",
@@ -410,8 +410,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-575",
-      "ref": "N-575",
+      "@id": "N-354",
+      "ref": "N-354",
       "name": "Victor Marx's daughter",
       "type": "person",
       "description": "Posted on social media about abuse; later recanted; friends allege pressure.",
@@ -429,8 +429,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-576",
-      "ref": "N-576",
+      "@id": "N-355",
+      "ref": "N-355",
       "name": "Amir Safari",
       "type": "person",
       "description": "Pastor named by the host as also posting early about Charlie Kirk's death.",
@@ -446,8 +446,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-577",
-      "ref": "N-577",
+      "@id": "N-356",
+      "ref": "N-356",
       "name": "Gloyce Dean Kennedy",
       "type": "person",
       "description": "Victor Marx's stepfather, named by the host; subject of Victor's childhood abuse narrative.",
@@ -466,8 +466,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-11384",
-      "ref": "N-11384",
+      "@id": "N-10893",
+      "ref": "N-10893",
       "name": "45,000 Rescue Claim Discrepancy",
       "type": "topic",
       "description": "Website (victor2026.com) claimed Victor Marx rescued more than 45,000 women and children; Victor denied ever making that claim.",
@@ -496,7 +496,7 @@
         "A-2505.1"
       ],
       "related_nodes": [
-        "N-10697"
+        "N-10622"
       ],
       "tags": [],
       "claim_timestamp": "00:01:24",
@@ -504,7 +504,7 @@
       "transcript_snippet": "first that we could find to publicly announce that Charlie Kirk had passed away on September 10th",
       "mentions_person_refs": [
         "N-1",
-        "N-569"
+        "N-348"
       ]
     },
     {
@@ -522,8 +522,8 @@
       "investigative_direction": "Verify via photographic evidence and corroboration from family/close associates.",
       "mentions_person_refs": [
         "N-2",
-        "N-569",
-        "N-571"
+        "N-348",
+        "N-350"
       ]
     },
     {
@@ -540,8 +540,8 @@
       "claim_timestamp": "00:06:15",
       "investigative_direction": "Cross-reference with documentary content, family corroboration, and Mississippi cold-case records.",
       "mentions_person_refs": [
-        "N-569",
-        "N-577"
+        "N-348",
+        "N-356"
       ]
     },
     {
@@ -559,8 +559,8 @@
       "investigative_direction": "Obtain HSI/human trafficking specialist records referenced by Victor; verify Holly's allegations via law enforcement.",
       "transcript_snippet": "I believe that he's a trafficker himself",
       "mentions_person_refs": [
-        "N-569",
-        "N-573"
+        "N-348",
+        "N-352"
       ]
     },
     {
@@ -577,9 +577,9 @@
       "claim_timestamp": "00:11:03",
       "investigative_direction": "Obtain original social media posts via archived captures; verify timeline of board letter and retraction.",
       "mentions_person_refs": [
-        "N-569",
-        "N-575",
-        "N-574"
+        "N-348",
+        "N-354",
+        "N-353"
       ]
     },
     {
@@ -596,7 +596,7 @@
       "claim_timestamp": "00:10:09",
       "investigative_direction": "Retrieve archived versions of Victor Marx's website via Wayback Machine.",
       "mentions_person_refs": [
-        "N-569"
+        "N-348"
       ]
     },
     {
@@ -609,14 +609,14 @@
         "A-2509.2"
       ],
       "related_nodes": [
-        "N-11384"
+        "N-10893"
       ],
       "tags": [],
       "claim_timestamp": "01:14:27",
       "investigative_direction": "Verify archived website content; cross-check against organization's audited reports.",
       "transcript_snippet": "a high-risk humanitarian who has rescued more than 45,000 women and children",
       "mentions_person_refs": [
-        "N-569"
+        "N-348"
       ]
     },
     {
@@ -636,9 +636,9 @@
       "investigative_direction": "Cross-reference with statements from family members and law enforcement records.",
       "transcript_snippet": "Of course I do",
       "mentions_person_refs": [
-        "N-569",
-        "N-577",
-        "N-570"
+        "N-348",
+        "N-356",
+        "N-349"
       ]
     },
     {
@@ -657,7 +657,7 @@
       "investigative_direction": "Obtain certified DD-214 to verify service length and dates.",
       "transcript_snippet": "it was three years and it was on the DD-214",
       "mentions_person_refs": [
-        "N-569"
+        "N-348"
       ]
     },
     {
@@ -675,8 +675,8 @@
       "investigative_direction": "Verify with Turning Point USA personnel and any session records or correspondence.",
       "mentions_person_refs": [
         "N-1",
-        "N-569",
-        "N-572"
+        "N-348",
+        "N-351"
       ]
     },
     {
@@ -689,13 +689,13 @@
         "A-2510.1"
       ],
       "related_nodes": [
-        "N-10676"
+        "N-10601"
       ],
       "tags": [],
       "claim_timestamp": "01:09:11",
       "investigative_direction": "Cross-reference with IDF/nonprofit invitation records and travel documentation.",
       "mentions_person_refs": [
-        "N-569"
+        "N-348"
       ]
     },
     {
@@ -708,7 +708,7 @@
         "A-2510.1"
       ],
       "related_nodes": [
-        "N-10697"
+        "N-10622"
       ],
       "tags": [],
       "claim_timestamp": "00:46:02",
@@ -716,10 +716,10 @@
       "transcript_snippet": "Charlie wouldn't live from that…there's no way he could have survived that",
       "mentions_person_refs": [
         "N-1",
-        "N-569",
-        "N-16",
-        "N-576",
-        "N-309"
+        "N-348",
+        "N-7",
+        "N-355",
+        "N-212"
       ]
     },
     {
@@ -736,7 +736,7 @@
       "claim_timestamp": "01:09:11",
       "investigative_direction": "Verify against official Israeli inquiry findings and IDF operational records.",
       "mentions_person_refs": [
-        "N-569"
+        "N-348"
       ]
     },
     {
@@ -753,7 +753,7 @@
       "claim_timestamp": "01:09:11",
       "investigative_direction": "Verify against partner nonprofit documentation and beneficiary records.",
       "mentions_person_refs": [
-        "N-569"
+        "N-348"
       ]
     },
     {
@@ -767,14 +767,14 @@
         "A-2510.1"
       ],
       "related_nodes": [
-        "N-11384"
+        "N-10893"
       ],
       "tags": [],
       "claim_timestamp": "00:56:05",
       "investigative_direction": "Compare original website text against archived snapshots; reconcile with prior show clip.",
       "transcript_snippet": "Nowhere…have I ever declared…that I ever rescued 45,000 women or children",
       "mentions_person_refs": [
-        "N-569"
+        "N-348"
       ]
     }
   ],

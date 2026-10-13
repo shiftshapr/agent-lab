@@ -35,14 +35,14 @@
             "C-1808"
           ],
           "related_nodes": [
-            "N-463",
-            "N-464",
-            "N-466",
-            "N-467",
-            "N-468",
-            "N-474",
-            "N-475",
-            "N-10377"
+            "N-299",
+            "N-300",
+            "N-301",
+            "N-302",
+            "N-303",
+            "N-306",
+            "N-307",
+            "N-10306"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -146,7 +146,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-264"
+            "N-190"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -196,10 +196,10 @@
             "C-1814"
           ],
           "related_nodes": [
-            "N-264",
-            "N-471",
-            "N-10369",
-            "N-10371"
+            "N-190",
+            "N-304",
+            "N-10298",
+            "N-10300"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -217,8 +217,8 @@
             "C-1815"
           ],
           "related_nodes": [
-            "N-264",
-            "N-10369"
+            "N-190",
+            "N-10298"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -236,9 +236,9 @@
             "C-1816"
           ],
           "related_nodes": [
-            "N-264",
-            "N-471",
-            "N-10369"
+            "N-190",
+            "N-304",
+            "N-10298"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -256,9 +256,9 @@
             "C-1817"
           ],
           "related_nodes": [
-            "N-264",
-            "N-70",
-            "N-10372"
+            "N-190",
+            "N-41",
+            "N-10301"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -284,7 +284,7 @@
             "C-1818"
           ],
           "related_nodes": [
-            "N-10370"
+            "N-10299"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -310,8 +310,8 @@
             "C-1819"
           ],
           "related_nodes": [
-            "N-10373",
-            "N-10376"
+            "N-10302",
+            "N-10305"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -337,8 +337,8 @@
             "C-3718"
           ],
           "related_nodes": [
-            "N-462",
-            "N-10079"
+            "N-298",
+            "N-10014"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -353,8 +353,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-462",
-      "ref": "N-462",
+      "@id": "N-298",
+      "ref": "N-298",
       "name": "Charles Joseph Bonaparte",
       "type": "person",
       "description": "Reported by host as founder of the FBI; tied in host's narrative to the broader French-American institutional framework. Mentioned without artifact anchor.",
@@ -368,13 +368,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10374"
+        "N-10303"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-464",
-      "ref": "N-464",
+      "@id": "N-300",
+      "ref": "N-300",
       "name": "Robert H. Richards III",
       "type": "person",
       "description": "Father of Robert Richards IV; retired partner at Richards Layton & Finger law firm per Vanity Fair article.",
@@ -390,15 +390,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-463",
-        "N-10374",
-        "N-10377"
+        "N-299",
+        "N-10303",
+        "N-10306"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-463",
-      "ref": "N-463",
+      "@id": "N-299",
+      "ref": "N-299",
       "name": "Robert Richards IV",
       "type": "person",
       "description": "DuPont chemical heir; convicted in 2009 of raping three-year-old daughter; admitted to assaulting infant son; received treatment in lieu of prison per Judge Jan Jordan ruling.",
@@ -417,15 +417,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-464",
-        "N-475",
-        "N-10377"
+        "N-300",
+        "N-307",
+        "N-10306"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-475",
-      "ref": "N-475",
+      "@id": "N-307",
+      "ref": "N-307",
       "name": "Judge Jan Jordan",
       "type": "person",
       "description": "Sentenced Robert Richards IV to treatment in lieu of prison for 2009 rape conviction.",
@@ -441,13 +441,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-463"
+        "N-299"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-466",
-      "ref": "N-466",
+      "@id": "N-301",
+      "ref": "N-301",
       "name": "John DuPont",
       "type": "person",
       "description": "Shot Olympic wrestler David Schultz dead in driveway of family mansion in 1996; died in prison.",
@@ -463,14 +463,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-474",
-        "N-10377"
+        "N-306",
+        "N-10306"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-474",
-      "ref": "N-474",
+      "@id": "N-306",
+      "ref": "N-306",
       "name": "David Schultz",
       "type": "person",
       "description": "Olympic wrestler murdered by John DuPont in 1996.",
@@ -486,13 +486,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-466"
+        "N-301"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-467",
-      "ref": "N-467",
+      "@id": "N-302",
+      "ref": "N-302",
       "name": "Lisa Dean DuPont",
       "type": "person",
       "description": "DuPont family member; per Vanity Fair, allegedly ordered killing of Las Vegas prostitute who was dating her drug-addicted son.",
@@ -508,14 +508,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-468",
-        "N-10377"
+        "N-303",
+        "N-10306"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-468",
-      "ref": "N-468",
+      "@id": "N-303",
+      "ref": "N-303",
       "name": "Christopher Mosley",
       "type": "person",
       "description": "Per Vanity Fair, killed Las Vegas prostitute at Lisa Dean DuPont's direction; died in prison.",
@@ -531,14 +531,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-467",
-        "N-10377"
+        "N-302",
+        "N-10306"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-264",
-      "ref": "N-264",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Stacy Sheridan",
       "type": "person",
       "description": "TPUSA Senior Advancement Director; brought in by Tyler Bowyer; host describes her registered agent as located at 919 North Market Street, Wilmington; relevant LLC identified by host as Cloverstone Ventures.",
@@ -555,15 +555,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-70",
-        "N-10372",
-        "N-10375"
+        "N-41",
+        "N-10301",
+        "N-10304"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-471",
-      "ref": "N-471",
+      "@id": "N-304",
+      "ref": "N-304",
       "name": "Tyler Bowyer's brother (unnamed)",
       "type": "person",
       "description": "Per host assertion (not artifact-anchored), worked ten years in dental sales until Charlie's death, then took role in TPUSA real-estate program.",
@@ -575,14 +575,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-70",
-        "N-10372"
+        "N-41",
+        "N-10301"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Friend who joined Charlie Kirk on Maine family vacation with wife Eliza; captured final videos of Charlie per host.",
@@ -594,14 +594,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-326",
+        "N-221",
         "N-1"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-326",
-      "ref": "N-326",
+      "@id": "N-221",
+      "ref": "N-221",
       "name": "Eliza McCoy",
       "type": "person",
       "description": "Wife of Mikey McCoy; joined Charlie Kirk family vacation in Maine.",
@@ -613,14 +613,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-272",
+        "N-194",
         "N-1"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10369",
-      "ref": "N-10369",
+      "@id": "N-10298",
+      "ref": "N-10298",
       "name": "Pierre Dupont Donor Identity Verification Question",
       "type": "investigation_target",
       "description": "Persistent target: whether the \"French-American Pierre\" referenced by TPUSA sources is Pierre Dupont, and the nature of his reported donor relationship with TPUSA.",
@@ -639,13 +639,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-264"
+        "N-190"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10370",
-      "ref": "N-10370",
+      "@id": "N-10299",
+      "ref": "N-10299",
       "name": "TPUSA Egyptian Plane Story Suppression Attempt",
       "type": "investigation_target",
       "description": "Per federal source, TPUSA allegedly placed personal request to kill the Egyptian plane story.",
@@ -663,8 +663,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10371",
-      "ref": "N-10371",
+      "@id": "N-10300",
+      "ref": "N-10300",
       "name": "Justin Strife Post-Assassination Phone Call",
       "type": "investigation_target",
       "description": "Six TPUSA sources reported rumor that Strife placed immediate call to donor prospect on the day of Charlie's killing; donor described as holding a billion-dollar IPO-related piece.",
@@ -680,13 +680,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-43"
+        "N-15"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10372",
-      "ref": "N-10372",
+      "@id": "N-10301",
+      "ref": "N-10301",
       "name": "TPUSA Real Estate Program Allegation",
       "type": "investigation_target",
       "description": "Per source testimony with supporting proof, Tyler Bowyer discussed TPUSA plans to build houses for first-time home buyers, leveraging TPUSA's young-Christian audience.",
@@ -702,15 +702,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-264",
-        "N-471",
-        "N-70"
+        "N-190",
+        "N-304",
+        "N-41"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10373",
-      "ref": "N-10373",
+      "@id": "N-10302",
+      "ref": "N-10302",
       "name": "BB Net/Yahoo Offer to TPUSA",
       "type": "investigation_target",
       "description": "Per host narrative (not artifact-anchored), BB Net and Yahoo allegedly offered to take TPUSA to the next level in exchange for unspecified consideration; Charlie allegedly declined. Andrew Kolvet tip indirectly references \"BB.\" Identity of BB unverified.",
@@ -729,8 +729,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10374",
-      "ref": "N-10374",
+      "@id": "N-10303",
+      "ref": "N-10303",
       "name": "Richards Layton & Finger Connection to Candace Lawsuit",
       "type": "investigation_target",
       "description": "Per host, the law firm whose retired founding partner is DuPont family (Robert H. Richards III) is the firm filing paperwork in Candace's McRonone lawsuit. Requires verification.",
@@ -744,13 +744,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-464"
+        "N-300"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10375",
-      "ref": "N-10375",
+      "@id": "N-10304",
+      "ref": "N-10304",
       "name": "Stacy Sheridan Registered Agent and LLC Question",
       "type": "investigation_target",
       "description": "Per host (not artifact-anchored), Stacy Sheridan's registered agent is at 919 North Market Street, Wilmington (same building as Brijit Lawyers); relevant LLC named as Cloverstone Ventures. Verification pending.",
@@ -762,13 +762,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-264"
+        "N-190"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10376",
-      "ref": "N-10376",
+      "@id": "N-10305",
+      "ref": "N-10305",
       "name": "Andrew Kolvet \"Lost Millions\" Tip Verification",
       "type": "investigation_target",
       "description": "Per written tip from Andrew Kolvet family friend, Andrew stated Charlie lost millions by declining BB's offer. Andrew Kolvet described as acting \"weird\" per tipster.",
@@ -784,13 +784,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10373"
+        "N-10302"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10377",
-      "ref": "N-10377",
+      "@id": "N-10306",
+      "ref": "N-10306",
       "name": "DuPont Family Pattern of Crimes",
       "type": "investigation_target",
       "description": "Aggregating pattern: Richards IV rape conviction with no prison; John DuPont murder of David Schultz; Lisa Dean DuPont / Mosley murder for hire of Vegas prostitute.",
@@ -810,9 +810,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-463",
-        "N-466",
-        "N-467"
+        "N-299",
+        "N-301",
+        "N-302"
       ]
     },
     {
@@ -837,8 +837,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-272",
-        "N-326"
+        "N-194",
+        "N-221"
       ]
     },
     {
@@ -859,8 +859,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-43",
-      "ref": "N-43",
+      "@id": "N-15",
+      "ref": "N-15",
       "name": "Justin Strife",
       "type": "person",
       "description": "Elevated to COO of Turning Point USA on September 2, 2025 per internal memo; tasked with leading DOGE-style efficiency audit.",
@@ -875,8 +875,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-41",
+      "ref": "N-41",
       "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
@@ -891,8 +891,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-37",
-      "ref": "N-37",
+      "@id": "N-11",
+      "ref": "N-11",
       "name": "Tyler Bowyer",
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
@@ -906,8 +906,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
@@ -938,8 +938,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-66",
-      "ref": "N-66",
+      "@id": "N-37",
+      "ref": "N-37",
       "name": "Bill Ackman",
       "type": "person",
       "description": "Per host, paid influencers at Hamptons retreat; described as having potential donor interest in TPUSA.",
@@ -966,13 +966,13 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-10377"
+        "N-10306"
       ],
       "tags": [],
       "claim_timestamp": "00:06:34",
       "investigative_direction": "Obtain certified court records of the 2009 Delaware conviction and compare to Vanity Fair account.",
       "mentions_person_refs": [
-        "N-463"
+        "N-299"
       ]
     },
     {
@@ -985,14 +985,14 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-10377"
+        "N-10306"
       ],
       "tags": [],
       "claim_timestamp": "00:07:45",
       "investigative_direction": "Obtain the sentencing order or contemporaneous news coverage of the Jordan ruling.",
       "mentions_person_refs": [
-        "N-463",
-        "N-475"
+        "N-299",
+        "N-307"
       ]
     },
     {
@@ -1005,14 +1005,14 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-10374"
+        "N-10303"
       ],
       "tags": [],
       "claim_timestamp": "00:08:36",
       "investigative_direction": "Cross-reference firm partnership records and Richards family genealogy.",
       "mentions_person_refs": [
-        "N-463",
-        "N-464"
+        "N-299",
+        "N-300"
       ]
     },
     {
@@ -1025,13 +1025,13 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-10377"
+        "N-10306"
       ],
       "tags": [],
       "claim_timestamp": "00:09:20",
       "investigative_direction": "Obtain the plea agreement and original charging documents.",
       "mentions_person_refs": [
-        "N-463"
+        "N-299"
       ]
     },
     {
@@ -1044,14 +1044,14 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-10377"
+        "N-10306"
       ],
       "tags": [],
       "claim_timestamp": "00:09:20",
       "investigative_direction": "Confirm against public court records of the John DuPont criminal case.",
       "mentions_person_refs": [
-        "N-466",
-        "N-474"
+        "N-301",
+        "N-306"
       ]
     },
     {
@@ -1064,14 +1064,14 @@
         "A-1480.1"
       ],
       "related_nodes": [
-        "N-10377"
+        "N-10306"
       ],
       "tags": [],
       "claim_timestamp": "00:10:39",
       "investigative_direction": "Locate contemporaneous court filings or the original Dominic Dunn Vanity Fair piece.",
       "mentions_person_refs": [
-        "N-467",
-        "N-468"
+        "N-302",
+        "N-303"
       ]
     },
     {
@@ -1168,14 +1168,14 @@
         "A-1486.1"
       ],
       "related_nodes": [
-        "N-10369",
-        "N-10371"
+        "N-10298",
+        "N-10300"
       ],
       "tags": [],
       "claim_timestamp": "00:28:17",
       "investigative_direction": "Obtain phone records or sworn statements from the named TPUSA sources to identify the called party.",
       "mentions_person_refs": [
-        "N-43",
+        "N-15",
         "N-1"
       ]
     },
@@ -1189,7 +1189,7 @@
         "A-1486.2"
       ],
       "related_nodes": [
-        "N-10369"
+        "N-10298"
       ],
       "tags": [],
       "claim_timestamp": "00:30:22",
@@ -1206,7 +1206,7 @@
         "A-1486.3"
       ],
       "related_nodes": [
-        "N-10369"
+        "N-10298"
       ],
       "tags": [],
       "claim_timestamp": "00:32:01",
@@ -1223,14 +1223,14 @@
         "A-1486.4"
       ],
       "related_nodes": [
-        "N-10372"
+        "N-10301"
       ],
       "tags": [],
       "claim_timestamp": "00:47:01",
       "investigative_direction": "Obtain the supporting proof documentation and any internal TPUSA planning materials.",
       "mentions_person_refs": [
-        "N-37",
-        "N-471"
+        "N-11",
+        "N-304"
       ]
     },
     {
@@ -1243,7 +1243,7 @@
         "A-1487.1"
       ],
       "related_nodes": [
-        "N-10370"
+        "N-10299"
       ],
       "tags": [],
       "claim_timestamp": "00:37:19",
@@ -1259,14 +1259,14 @@
         "A-1488.1"
       ],
       "related_nodes": [
-        "N-10373",
-        "N-10376"
+        "N-10302",
+        "N-10305"
       ],
       "tags": [],
       "claim_timestamp": "00:33:15",
       "investigative_direction": "Preserve the written tip; verify Andrew Kolvet's contemporaneous statements through independent corroboration.",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -1296,7 +1296,7 @@
         "A-2513.1"
       ],
       "related_nodes": [
-        "N-10079"
+        "N-10014"
       ],
       "tags": [],
       "claim_timestamp": "00:03:44",
@@ -1304,7 +1304,7 @@
       "transcript_snippet": "did you know that our FBI was founded by Charles Joseph Bonapart?",
       "mentions_person_refs": [
         "N-3",
-        "N-462"
+        "N-298"
       ]
     }
   ],

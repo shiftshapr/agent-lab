@@ -35,8 +35,8 @@
             "C-1145"
           ],
           "related_nodes": [
-            "N-69",
-            "N-10096"
+            "N-40",
+            "N-10031"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -54,8 +54,8 @@
             "C-1147"
           ],
           "related_nodes": [
-            "N-69",
-            "N-10077"
+            "N-40",
+            "N-10012"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -72,7 +72,7 @@
             "C-1148"
           ],
           "related_nodes": [
-            "N-69"
+            "N-40"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -89,7 +89,7 @@
             "C-1149"
           ],
           "related_nodes": [
-            "N-69"
+            "N-40"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -107,7 +107,7 @@
             "C-1153"
           ],
           "related_nodes": [
-            "N-69"
+            "N-40"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -124,7 +124,7 @@
             "C-1151"
           ],
           "related_nodes": [
-            "N-69"
+            "N-40"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -141,7 +141,7 @@
             "C-1152"
           ],
           "related_nodes": [
-            "N-69"
+            "N-40"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -159,10 +159,10 @@
             "C-1155"
           ],
           "related_nodes": [
-            "N-69",
-            "N-84",
-            "N-10095",
-            "N-98"
+            "N-40",
+            "N-54",
+            "N-10030",
+            "N-67"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -181,8 +181,8 @@
             "C-1156"
           ],
           "related_nodes": [
-            "N-69",
-            "N-84"
+            "N-40",
+            "N-54"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -208,8 +208,8 @@
             "C-1158"
           ],
           "related_nodes": [
-            "N-71",
-            "N-10097"
+            "N-42",
+            "N-10032"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -234,8 +234,8 @@
             "C-1157"
           ],
           "related_nodes": [
-            "N-71",
-            "N-10097"
+            "N-42",
+            "N-10032"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -262,9 +262,9 @@
             "C-1161"
           ],
           "related_nodes": [
-            "N-66",
-            "N-10098",
-            "N-10102"
+            "N-37",
+            "N-10033",
+            "N-10037"
           ],
           "tags": [],
           "event_timestamp": "2025-09",
@@ -291,8 +291,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-75",
-            "N-10098"
+            "N-46",
+            "N-10033"
           ],
           "tags": [],
           "event_timestamp": "2025-08-06",
@@ -318,8 +318,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-65",
-            "N-66"
+            "N-36",
+            "N-37"
           ],
           "tags": [],
           "event_timestamp": "2025-05",
@@ -345,9 +345,9 @@
             "C-1160"
           ],
           "related_nodes": [
+            "N-37",
             "N-66",
-            "N-97",
-            "N-10098"
+            "N-10033"
           ],
           "tags": [],
           "event_timestamp": "2025-09",
@@ -372,9 +372,9 @@
             "C-1160"
           ],
           "related_nodes": [
-            "N-87",
-            "N-66",
-            "N-10098"
+            "N-56",
+            "N-37",
+            "N-10033"
           ],
           "tags": [],
           "event_timestamp": "2025-08-04",
@@ -399,8 +399,8 @@
             "C-1165"
           ],
           "related_nodes": [
-            "N-91",
-            "N-50",
+            "N-60",
+            "N-22",
             "N-1"
           ],
           "tags": [],
@@ -450,7 +450,7 @@
             "C-3721"
           ],
           "related_nodes": [
-            "N-95"
+            "N-64"
           ],
           "tags": [],
           "video_timestamp": "00:56:04–00:56:22",
@@ -467,10 +467,10 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-65",
-            "N-88",
-            "N-89",
-            "N-90"
+            "N-36",
+            "N-57",
+            "N-58",
+            "N-59"
           ],
           "tags": [],
           "video_timestamp": "00:57:59–00:58:24",
@@ -486,7 +486,7 @@
             "C-3723"
           ],
           "related_nodes": [
-            "N-94",
+            "N-63",
             "N-10000"
           ],
           "tags": [],
@@ -503,10 +503,10 @@
             "C-3724"
           ],
           "related_nodes": [
-            "N-70",
-            "N-71",
-            "N-92",
-            "N-93"
+            "N-41",
+            "N-42",
+            "N-61",
+            "N-62"
           ],
           "tags": [],
           "video_timestamp": "01:12:13–01:12:37",
@@ -522,7 +522,7 @@
             "C-3725"
           ],
           "related_nodes": [
-            "N-96"
+            "N-65"
           ],
           "tags": [],
           "video_timestamp": "01:15:12–01:15:31",
@@ -579,8 +579,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Indicted shooter.",
@@ -621,8 +621,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-84",
-      "ref": "N-84",
+      "@id": "N-54",
+      "ref": "N-54",
       "name": "Lance Twigs",
       "type": "person",
       "description": "Robinson's romantic partner and roommate; provided text messages to police.",
@@ -649,8 +649,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-71",
-      "ref": "N-71",
+      "@id": "N-42",
+      "ref": "N-42",
       "name": "George Zinn",
       "type": "person",
       "description": "71-year-old alleged decoy confessor; obstruction of justice and child abuse image charges.",
@@ -670,8 +670,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-41",
+      "ref": "N-41",
       "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor; host flags earlier statements as inconsistent with indictment (light shorts/maroon shirt).",
@@ -689,8 +689,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-66",
-      "ref": "N-66",
+      "@id": "N-37",
+      "ref": "N-37",
       "name": "Bill Ackman",
       "type": "person",
       "description": "Hedge fund manager; hosted Hamptons retreat; issued 955-word tweet response.",
@@ -713,8 +713,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-65",
-      "ref": "N-65",
+      "@id": "N-36",
+      "ref": "N-36",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "Israeli Prime Minister; subject of Charlie Kirk May 2025 letter.",
@@ -732,8 +732,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-67",
-      "ref": "N-67",
+      "@id": "N-38",
+      "ref": "N-38",
       "name": "Seth Dillon",
       "type": "person",
       "description": "Reportedly pressed Charlie on Israel at Hamptons retreat.",
@@ -749,8 +749,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-86",
-      "ref": "N-86",
+      "@id": "N-55",
+      "ref": "N-55",
       "name": "Josh Hammer",
       "type": "person",
       "description": "Reportedly part of beehive pressuring Charlie about conference guests.",
@@ -766,8 +766,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-68",
-      "ref": "N-68",
+      "@id": "N-39",
+      "ref": "N-39",
       "name": "Dave Smith",
       "type": "person",
       "description": "Speaker at America Fest; subject of pressure complaints.",
@@ -785,8 +785,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "Subject of pressure campaign to distance from Charlie.",
@@ -804,8 +804,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-87",
-      "ref": "N-87",
+      "@id": "N-56",
+      "ref": "N-56",
       "name": "Aaron Wexler",
       "type": "person",
       "description": "Reportedly sent Hamptons retreat invitations.",
@@ -823,8 +823,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-75",
-      "ref": "N-75",
+      "@id": "N-46",
+      "ref": "N-46",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Interviewer of Charlie Kirk August 6, 2025.",
@@ -842,8 +842,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-88",
-      "ref": "N-88",
+      "@id": "N-57",
+      "ref": "N-57",
       "name": "Patrick Bet-David",
       "type": "person",
       "description": "Podcaster Netanyahu appeared on.",
@@ -861,8 +861,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-89",
-      "ref": "N-89",
+      "@id": "N-58",
+      "ref": "N-58",
       "name": "Brendan Tatum",
       "type": "person",
       "description": "Podcaster Netanyahu appeared on.",
@@ -881,8 +881,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-90",
-      "ref": "N-90",
+      "@id": "N-59",
+      "ref": "N-59",
       "name": "Nelk Boys",
       "type": "person",
       "description": "Podcast Netanyahu appeared on.",
@@ -901,8 +901,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-91",
-      "ref": "N-91",
+      "@id": "N-60",
+      "ref": "N-60",
       "name": "Laura Loomer",
       "type": "person",
       "description": "Issued tweet thread pressuring Charlie to distance from Tucker.",
@@ -920,8 +920,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-92",
-      "ref": "N-92",
+      "@id": "N-61",
+      "ref": "N-61",
       "name": "Phil Lyman",
       "type": "person",
       "description": "Republican candidate chosen by delegates who ran against Cox.",
@@ -939,8 +939,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-93",
-      "ref": "N-93",
+      "@id": "N-62",
+      "ref": "N-62",
       "name": "Eric Mutosos",
       "type": "person",
       "description": "LEO commenter noted to have dealt with Zinn in the past.",
@@ -979,8 +979,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-94",
-      "ref": "N-94",
+      "@id": "N-63",
+      "ref": "N-63",
       "name": "Sarah Stockton",
       "type": "person",
       "description": "Hamptons attendee whose engagement ring generated drama.",
@@ -999,8 +999,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-61",
-      "ref": "N-61",
+      "@id": "N-32",
+      "ref": "N-32",
       "name": "Dave Rubin",
       "type": "person",
       "description": "Subject of Candace's prior Israel-pressure recollection.",
@@ -1018,8 +1018,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-95",
-      "ref": "N-95",
+      "@id": "N-64",
+      "ref": "N-64",
       "name": "Brian Mast",
       "type": "person",
       "description": "Subject of a tweet Candace referenced about genocide.",
@@ -1038,8 +1038,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-96",
-      "ref": "N-96",
+      "@id": "N-65",
+      "ref": "N-65",
       "name": "Jamie Lee Curtis",
       "type": "person",
       "description": "Mentioned as left-leaning figure moved by Kirk's death.",
@@ -1058,8 +1058,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-35",
-      "ref": "N-35",
+      "@id": "N-9",
+      "ref": "N-9",
       "name": "Jeffrey Epstein",
       "type": "person",
       "description": "Referenced in Charlie Kirk Mossad speculation.",
@@ -1075,8 +1075,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-97",
-      "ref": "N-97",
+      "@id": "N-66",
+      "ref": "N-66",
       "name": "Village Crazy Lady",
       "type": "person",
       "description": "X poster who broke down Bill Ackman's itinerary.",
@@ -1094,8 +1094,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-98",
-      "ref": "N-98",
+      "@id": "N-67",
+      "ref": "N-67",
       "name": "Mark Herman (director, Candace show)",
       "type": "person",
       "description": "In-house director on Candace Owens' show, called on air by first name (seq 27 roster line: \"Chris in editing, Mark mansplaining, and also being our director, Skyler, the producer\"). Here the host brings him in (\"Go ahead, Mark. Yeah. He's a guy that's always in my ear\") and he points out ellipses above the indictment's Robinson-Lance text exchanges, saying the exchanges look cherry-picked.",
@@ -1111,8 +1111,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-99",
-      "ref": "N-99",
+      "@id": "N-68",
+      "ref": "N-68",
       "name": "Skyler",
       "type": "person",
       "description": "Producer referenced retrieving tweet screenshots.",
@@ -1130,8 +1130,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-59",
-      "ref": "N-59",
+      "@id": "N-30",
+      "ref": "N-30",
       "name": "George (Candace's husband)",
       "type": "person",
       "description": "One of two people Candace cites as able to silence her.",
@@ -1149,8 +1149,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10077",
-      "ref": "N-10077",
+      "@id": "N-10012",
+      "ref": "N-10012",
       "name": "Utah Valley University",
       "type": "organization",
       "description": "Shooting site; surveillance footage source.",
@@ -1170,8 +1170,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10094",
-      "ref": "N-10094",
+      "@id": "N-10029",
+      "ref": "N-10029",
       "name": "Washington County Sheriff's Office",
       "type": "organization",
       "description": "Robinson surrender location.",
@@ -1208,8 +1208,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10095",
-      "ref": "N-10095",
+      "@id": "N-10030",
+      "ref": "N-10030",
       "name": "Text Message Timestamp Discrepancy",
       "type": "topic",
       "description": "Indictment omits timestamps on Robinson-to-Lance texts; host flags as investigative gap.",
@@ -1229,8 +1229,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10096",
-      "ref": "N-10096",
+      "@id": "N-10031",
+      "ref": "N-10031",
       "name": "33-Hour Surrender Timeline Signal",
       "type": "topic",
       "description": "Repeated 33-hour figure in indictment; host flags as suspicious signaling.",
@@ -1249,8 +1249,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10097",
-      "ref": "N-10097",
+      "@id": "N-10032",
+      "ref": "N-10032",
       "name": "Decoy Boy Operation Analysis",
       "type": "topic",
       "description": "George Zinn decoy arrest analysis; potential distraction mechanism.",
@@ -1271,8 +1271,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10098",
-      "ref": "N-10098",
+      "@id": "N-10033",
+      "ref": "N-10033",
       "name": "Hamptons Donor Pressure Investigation",
       "type": "topic",
       "description": "Pressure on Charlie regarding Israel and conference guests at August 4-5 Hamptons retreat.",
@@ -1298,8 +1298,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10099",
-      "ref": "N-10099",
+      "@id": "N-10034",
+      "ref": "N-10034",
       "name": "Lance Twigs Family Allegations",
       "type": "topic",
       "description": "Family-sourced allegations re: Lance Twigs behavioral history, drug use, deep-web activity.",
@@ -1318,8 +1318,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10100",
-      "ref": "N-10100",
+      "@id": "N-10035",
+      "ref": "N-10035",
       "name": "Unusual Traffic at Residence Investigation",
       "type": "topic",
       "description": "Neighbor reports of unusual vehicles at Robinson/Twigs residence before shooting.",
@@ -1336,8 +1336,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10101",
-      "ref": "N-10101",
+      "@id": "N-10036",
+      "ref": "N-10036",
       "name": "Building Donor Withdrawal Investigation",
       "type": "topic",
       "description": "Top Jewish donors demanded name removed from TPUSA building 48 hours before Charlie's death; reversed after death.",
@@ -1354,8 +1354,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10102",
-      "ref": "N-10102",
+      "@id": "N-10037",
+      "ref": "N-10037",
       "name": "Bill Ackman Response Analysis",
       "type": "topic",
       "description": "Conspicuous omissions in Bill Ackman's tweet response; BB Netanyahu not addressed.",
@@ -1384,8 +1384,8 @@
         "A-1095.1"
       ],
       "related_nodes": [
-        "N-10094",
-        "N-10096"
+        "N-10029",
+        "N-10031"
       ],
       "tags": [],
       "claim_timestamp": "00:07:37",
@@ -1394,7 +1394,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3",
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1413,7 +1413,7 @@
       "transcript_snippet": "the DNA was consistent with Robinson that was found on the trigger",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1426,7 +1426,7 @@
         "A-1095.2"
       ],
       "related_nodes": [
-        "N-10077"
+        "N-10012"
       ],
       "tags": [],
       "claim_timestamp": "00:09:27",
@@ -1434,7 +1434,7 @@
       "transcript_snippet": "at approximately 11:51 a.m., the suspect had entered campus from the north",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1447,7 +1447,7 @@
         "A-1095.2"
       ],
       "related_nodes": [
-        "N-10077"
+        "N-10012"
       ],
       "tags": [],
       "claim_timestamp": "00:08:11",
@@ -1455,7 +1455,7 @@
       "transcript_snippet": "crossed the railing from the public walkway and dropped onto the roof at approximately 12:15 p.m.",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1474,7 +1474,7 @@
       "transcript_snippet": "investigators found a boltaction rifle wrapped in a towel",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1493,7 +1493,7 @@
       "transcript_snippet": "Hey fascist catch...Oh Bella cow...if you read this you are gay",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1512,7 +1512,7 @@
       "transcript_snippet": "she saw the photo of the shooter in the news and thought that the shooter looked like her son",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1531,7 +1531,7 @@
       "transcript_snippet": "the rifle that was given to his son as a gift",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1550,7 +1550,7 @@
       "transcript_snippet": "a family friend who happens to be a retired deputy sheriff",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1569,7 +1569,7 @@
       "transcript_snippet": "Robinson had become increasingly more political. He had started to lean more left",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1583,7 +1583,7 @@
         "A-1095.9"
       ],
       "related_nodes": [
-        "N-10095"
+        "N-10030"
       ],
       "tags": [],
       "claim_timestamp": "00:20:02",
@@ -1592,8 +1592,8 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-2",
-        "N-69",
-        "N-84",
+        "N-40",
+        "N-54",
         "N-1"
       ]
     },
@@ -1607,7 +1607,7 @@
         "A-1095.8"
       ],
       "related_nodes": [
-        "N-10095"
+        "N-10030"
       ],
       "tags": [],
       "claim_timestamp": "00:19:22",
@@ -1615,8 +1615,8 @@
       "transcript_snippet": "They're not telling us the time. I don't like that",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-69",
-        "N-84"
+        "N-40",
+        "N-54"
       ]
     },
     {
@@ -1636,8 +1636,8 @@
       "transcript_snippet": "Robinson began to date his roommate, which is a biological male who was transitioning",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-69",
-        "N-84"
+        "N-40",
+        "N-54"
       ]
     },
     {
@@ -1651,7 +1651,7 @@
         "A-1097.1"
       ],
       "related_nodes": [
-        "N-10097"
+        "N-10032"
       ],
       "tags": [],
       "claim_timestamp": "00:03:33",
@@ -1659,7 +1659,7 @@
       "transcript_snippet": "Man arrested for allegedly faking confession to Charlie Kirk's killing",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-71"
+        "N-42"
       ]
     },
     {
@@ -1672,7 +1672,7 @@
         "A-1096.1"
       ],
       "related_nodes": [
-        "N-10097"
+        "N-10032"
       ],
       "tags": [],
       "claim_timestamp": "00:04:04",
@@ -1680,7 +1680,7 @@
       "transcript_snippet": "was also booked in connection with images on his cell phone related to child abuse",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-71"
+        "N-42"
       ]
     },
     {
@@ -1693,7 +1693,7 @@
         "A-1098.1"
       ],
       "related_nodes": [
-        "N-10102"
+        "N-10037"
       ],
       "tags": [],
       "claim_timestamp": "00:45:41",
@@ -1701,7 +1701,7 @@
       "transcript_snippet": "Amman's 955word response",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-66"
+        "N-37"
       ]
     },
     {
@@ -1716,7 +1716,7 @@
         "A-1102.1"
       ],
       "related_nodes": [
-        "N-10098"
+        "N-10033"
       ],
       "tags": [],
       "claim_timestamp": "00:50:24",
@@ -1724,9 +1724,9 @@
       "transcript_snippet": "Bill Ackman just confirmed that he hosted his meeting with Charlie on August 4th and 5th",
       "confidence": "high",
       "mentions_person_refs": [
+        "N-37",
         "N-66",
-        "N-97",
-        "N-87",
+        "N-56",
         "N-1"
       ]
     },
@@ -1738,7 +1738,7 @@
       "claim": "Per attendees, Bill Ackman gave a presentation at the Hamptons retreat telling attendees they should not own property and should instead invest in stocks.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10098"
+        "N-10033"
       ],
       "tags": [],
       "claim_timestamp": "01:03:58",
@@ -1747,7 +1747,7 @@
       "confidence": "medium",
       "uncertainty_note": "Single-source attendee statement relayed by host.",
       "mentions_person_refs": [
-        "N-66"
+        "N-37"
       ]
     },
     {
@@ -1760,7 +1760,7 @@
         "A-1099.1"
       ],
       "related_nodes": [
-        "N-10098"
+        "N-10033"
       ],
       "tags": [],
       "claim_timestamp": "00:51:10",
@@ -1769,8 +1769,8 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-1",
-        "N-35",
-        "N-75"
+        "N-9",
+        "N-46"
       ]
     },
     {
@@ -1783,7 +1783,7 @@
         "A-1099.1"
       ],
       "related_nodes": [
-        "N-10098"
+        "N-10033"
       ],
       "tags": [],
       "claim_timestamp": "00:54:16",
@@ -1792,7 +1792,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-1",
-        "N-75"
+        "N-46"
       ]
     },
     {
@@ -1813,8 +1813,8 @@
       "uncertainty_note": "Letter not shown; only paraphrased by Ackman.",
       "mentions_person_refs": [
         "N-1",
-        "N-65",
-        "N-66"
+        "N-36",
+        "N-37"
       ]
     },
     {
@@ -1834,8 +1834,8 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-1",
-        "N-50",
-        "N-91"
+        "N-22",
+        "N-60"
       ]
     },
     {
@@ -1846,7 +1846,7 @@
       "claim": "Per Lance Twigs family members, Lance was kicked out of his parents' home in junior year of high school for being problematic.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10099"
+        "N-10034"
       ],
       "tags": [],
       "claim_timestamp": "00:30:35",
@@ -1855,7 +1855,7 @@
       "confidence": "medium",
       "uncertainty_note": "Family statement relayed by host, not on the record.",
       "mentions_person_refs": [
-        "N-84"
+        "N-54"
       ]
     },
     {
@@ -1866,7 +1866,7 @@
       "claim": "Per family, Lance Twigs nearly overdosed by drinking a bottle of vodka approximately three years ago at Christmas; family feared they could not care for him.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10099"
+        "N-10034"
       ],
       "tags": [],
       "claim_timestamp": "00:31:02",
@@ -1874,7 +1874,7 @@
       "transcript_snippet": "He almost overdosed. He drank a bottle of vodka",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-84"
+        "N-54"
       ]
     },
     {
@@ -1885,7 +1885,7 @@
       "claim": "Per family, Lance Twigs showed up on drugs at a family Easter Sunday gathering and was spouting political statements; family determined he could not be around children.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10099"
+        "N-10034"
       ],
       "tags": [],
       "claim_timestamp": "00:31:31",
@@ -1893,7 +1893,7 @@
       "transcript_snippet": "he showed up on drugs and he was spouting out of his mouth about political stuff",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-84"
+        "N-54"
       ]
     },
     {
@@ -1910,7 +1910,7 @@
       "transcript_snippet": "He turned 22, they told me back in August",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-84"
+        "N-54"
       ]
     },
     {
@@ -1927,8 +1927,8 @@
       "transcript_snippet": "the house that Tyler Robinson was living in with Lance is owned by them. Tyler Robinson is paying rent",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-69",
-        "N-84"
+        "N-40",
+        "N-54"
       ]
     },
     {
@@ -1939,7 +1939,7 @@
       "claim": "Neighbors and Lance's family reported unusual, frequent traffic and unrecognized cars at the Robinson/Twigs residence in the days before the shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10100"
+        "N-10035"
       ],
       "tags": [],
       "claim_timestamp": "00:34:04",
@@ -1947,8 +1947,8 @@
       "transcript_snippet": "there were unusual uh unusual traffic in the driveway where Tyler Robinson and Lance lived",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-69",
-        "N-84"
+        "N-40",
+        "N-54"
       ]
     },
     {
@@ -1968,8 +1968,8 @@
       "transcript_snippet": "Governor Cox said he was wearing the light shorts and maroon shirt. The implication here being...this is missing from the indictment",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-69",
-        "N-70"
+        "N-40",
+        "N-41"
       ]
     },
     {
@@ -1980,7 +1980,7 @@
       "claim": "Attendees report Seth Dylan and Josh Hammer pressured Charlie at the Hamptons retreat regarding Israel views and conference guests.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10098"
+        "N-10033"
       ],
       "tags": [],
       "claim_timestamp": "00:42:46",
@@ -1989,8 +1989,8 @@
       "confidence": "medium",
       "uncertainty_note": "Multiple-source attendee statements, none on the record.",
       "mentions_person_refs": [
-        "N-67",
-        "N-86"
+        "N-38",
+        "N-55"
       ]
     },
     {
@@ -2002,7 +2002,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10101"
+        "N-10036"
       ],
       "tags": [],
       "claim_timestamp": "00:57:19",
@@ -2047,7 +2047,7 @@
       "transcript_snippet": "I was referring to Brian Mass's remarks, but even if I wasn't and I just tweeted genocide is always wrong,",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-95"
+        "N-64"
       ]
     },
     {
@@ -2067,10 +2067,10 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-1",
-        "N-65",
-        "N-88",
-        "N-89",
-        "N-90"
+        "N-36",
+        "N-57",
+        "N-58",
+        "N-59"
       ]
     },
     {
@@ -2091,7 +2091,7 @@
       "transcript_snippet": "I think her name was Sarah Stockton.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-94"
+        "N-63"
       ]
     },
     {
@@ -2110,10 +2110,10 @@
       "transcript_snippet": "Eric Mutosos was the LEO and has dealt with Zinn in the past.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-70",
-        "N-71",
-        "N-92",
-        "N-93"
+        "N-41",
+        "N-42",
+        "N-61",
+        "N-62"
       ]
     },
     {
@@ -2132,7 +2132,7 @@
       "transcript_snippet": "I'm going to show you guys tomorrow like Jamie Lee Curtis,",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-96"
+        "N-65"
       ]
     }
   ],

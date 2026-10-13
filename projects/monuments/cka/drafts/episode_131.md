@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: b0fbc9640382faeba544f3948f17586f7fd4a74b047aceb20faed50921bccc36
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-11147
-  - Hole-minted Nodes (wave3): N-815
+  - New Nodes Introduced: N-10748
+  - Hole-minted Nodes (wave3): N-523
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:18:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3125, C-3126, N-133 (Ben Shapiro), N-11147*
+*Related: C-3125, C-3126, N-97 (Ben Shapiro), N-10748*
 
 ---
 
@@ -206,7 +206,7 @@ Video Timestamp: 00:19:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (tip described, source not shown)
 
-*Related: C-3767, N-3, N-133, N-11147*
+*Related: C-3767, N-3, N-97, N-10748*
 
 **A-2524.2** Host reads from the alleged companion's professional biography: National Council of AIPAC, president of the Nebraska chapter of AIPAC, twin brother on the AIPAC board, and Ben Shapiro's donations to the Jewish Federation of Omaha (verbal reference; biography not displayed)
 
@@ -216,7 +216,7 @@ Video Timestamp: 00:25:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (biography cited, not shown)
 
-*Related: C-3768, N-3, N-133, N-11147*
+*Related: C-3768, N-3, N-97, N-10748*
 
 **A-2524.3** Host's on-air $25,000 bounty for whoever can say who in Charlie Kirk's car was speaking to whom on Ben Shapiro's security team, with tips to moretips@candaceowens.com (verbal reference; no displayed artifact)
 
@@ -226,20 +226,20 @@ Video Timestamp: 00:26:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3769, N-3, N-1, N-133, N-11147*
+*Related: C-3769, N-3, N-1, N-97, N-10748*
 
 ---
 
 ## 4. Node Register
 
-**N-815** Gayle King
+**N-523** Gayle King
 
 First named by the host at 00:43:01 in episode 131.
 
 *Related: C-3133, C-3134, C-3135, C-3136*
 
 
-**N-11147** Ben Shapiro 9/10 Lunch Meeting Identification
+**N-10748** Ben Shapiro 9/10 Lunch Meeting Identification
 
 Persistent unresolved investigation target: identification of the person(s) with whom Ben Shapiro was meeting in Los Angeles on September 10, 2025, when Charlie Kirk was shot. Host has named Gary Javitch (caption: Jabitch/Jabach; spelling unverified) as the alleged companion; the host's bounty and email-tip pipeline are referenced but no specific source document is shown.
 
@@ -261,7 +261,7 @@ Claim Timestamp: 00:10:44
 Claim: A thread of SMS messages dated November 15, 2023, between Charlie Kirk and Candace Owens, read aloud in full, documents contemporaneous pressure from the Daily Wire / Ben Shapiro orbit during the "Christ is King" episode.
 
 Anchored Artifacts: A-2180.1
-Mentions: N-1, N-3, N-133
+Mentions: N-1, N-3, N-97
 
 
 Investigative Direction: Obtain carrier records or device extractions to verify the text thread independently of host narration.
@@ -303,7 +303,7 @@ Claim Timestamp: 00:10:44
 Claim: The November 15, 2023 thread contains Charlie Kirk writing: "Jeremy Boring [transcript spelling], who knew exactly what Jeremy was, 100% workshopped this. This is not Ben acting alone. This is a hit."
 
 Anchored Artifacts: A-2180.1
-Mentions: N-1, N-3, N-607
+Mentions: N-1, N-3, N-374
 
 
 Investigative Direction: Verify name spelling against device-extracted SMS records; cross-reference with public statements by Jeremy Boreing.
@@ -317,7 +317,7 @@ Claim Timestamp: 00:10:44
 Claim: The November 15, 2023 thread contains Charlie Kirk writing: "Marissa Strait [text spelling], she's part of the tribe. Do not listen to her."
 
 Anchored Artifacts: A-2180.1
-Mentions: N-1, N-3, N-168
+Mentions: N-1, N-3, N-118
 
 
 Investigative Direction: Verify name spelling against device-extracted SMS records.
@@ -373,9 +373,9 @@ Claim Timestamp: 00:18:20
 Claim: In an audio clip played in the episode, Ben Shapiro states that his security (described by host as former IDF members) was on the phone with Charlie Kirk's security "during the critical 7 minutes" while Charlie was fighting for his life.
 
 Anchored Artifacts: A-2181.1
-Mentions: N-1, N-133
+Mentions: N-1, N-97
 
-Related Nodes: N-11147
+Related Nodes: N-10748
 
 Investigative Direction: Obtain the original Ben Shapiro audio segment in full; identify which Ben Shapiro security personnel are referenced.
 
@@ -388,9 +388,9 @@ Claim Timestamp: 00:18:20
 Claim: In an audio clip played in the episode, Ben Shapiro states that at the time Charlie Kirk was shot, he was in Los Angeles at a "sort of a breakfast/lunch meeting with somebody."
 
 Anchored Artifacts: A-2181.1
-Mentions: N-1, N-133
+Mentions: N-1, N-97
 
-Related Nodes: N-11147
+Related Nodes: N-10748
 
 Investigative Direction: Obtain the full original Ben Shapiro statement; cross-reference with the Ronald Reagan Library event schedule (which the host states was canceled later that evening at 6:00 p.m. in Simi Valley).
 
@@ -403,7 +403,7 @@ Claim Timestamp: 00:06:03
 Claim: In an audio clip from AmFest in December 2025, Steve Bannon states: "Ben Shapiro is like a cancer and that cancer spreads … He tried to take over Breitbart and I ran him out of there. He tried to take over David Horowitz's who was his mentor."
 
 Anchored Artifacts: A-2182.1
-Mentions: N-278, N-641, N-133
+Mentions: N-197, N-399, N-97
 
 Related Nodes:
 
@@ -418,7 +418,7 @@ Claim Timestamp: 00:33:45
 Claim: In an audio clip played in the episode (Paramount Tactical), Tracy Martin states: "Absolutely not. No, absolutely not" in response to a question about whether she was the person the Daily Mail contacted and provided information from.
 
 Anchored Artifacts: A-2183.1
-Mentions: N-2, N-890
+Mentions: N-2, N-557
 
 
 Investigative Direction: Obtain the full Paramount Tactical segment; cross-reference with any Daily Mail editorial correspondence.
@@ -488,7 +488,7 @@ Claim Timestamp: 00:41:38
 Claim: In an audio clip played in the episode, Allison Holker states that while cleaning out the closet to pick out a funeral outfit, she discovered "a lot of things I did not know existed" hidden in the home, including substances – even though the autopsy (per host narration from news reports) found no drugs or alcohol in his system.
 
 Anchored Artifacts: A-2185.1
-Mentions: N-815
+Mentions: N-523
 
 Related Nodes:
 
@@ -503,7 +503,7 @@ Claim Timestamp: 00:44:07
 Claim: In a CBS / Gayle King audio clip, Twitch's family members state that they received a phone call stating "We need you guys to sign non-disclosure agreements" in order to attend his memorial.
 
 Anchored Artifacts: A-2186.1
-Mentions: N-815
+Mentions: N-523
 
 Related Nodes:
 
@@ -518,7 +518,7 @@ Claim Timestamp: 00:44:07
 Claim: In a CBS / Gayle King audio clip, Twitch's family members state: "If you don't sign, you will not be able to see him and you will not be able to participate."
 
 Anchored Artifacts: A-2186.1
-Mentions: N-815
+Mentions: N-523
 
 Related Nodes:
 
@@ -533,7 +533,7 @@ Claim Timestamp: 00:39:35
 Claim: A YouTube comment posted on the prior day's episode lists parallels between the Twitch / Allison Holker case and the Charlie / Erica Kirk case, including: "Mormon wife who chased him at dancing events until he marries her," "The family iced out," "Mysterious death," "His family asked to sign an NDA to attend the memorial," and "The wife back at work and in business mode a few days later making deals and publishing books."
 
 Anchored Artifacts: A-2188.1
-Mentions: N-1, N-2, N-815
+Mentions: N-1, N-2, N-523
 
 Related Nodes:
 
@@ -578,8 +578,8 @@ Claim: The host says the bounty she put out on who Ben Shapiro was with at "brea
 Transcript Snippet: So, what did we do? We put out a bounty.
 
 Anchored Artifacts: A-2524.1
-Mentions: N-3, N-133, N-1
-Related Nodes: N-11147
+Mentions: N-3, N-97, N-1
+Related Nodes: N-10748
 Supports: C-3764
 Qualifies: C-3126
 Confidence: low
@@ -597,8 +597,8 @@ Claim: Reading from what she calls his professional biography, the host says the
 Transcript Snippet: Gary was the president of the Nebraska chapter of AIPAC.
 
 Anchored Artifacts: A-2524.2
-Mentions: N-3, N-133
-Related Nodes: N-11147
+Mentions: N-3, N-97
+Related Nodes: N-10748
 Confidence: low
 Uncertainty: Biography and donation records cited but not shown on air. The companion's surname is not asserted here: the transcript has "Jabitch"/"Jabach" and public sources give Gary Javitch (Omaha, Nebraska AIPAC); a video spelling check comes before any id.
 Investigative Direction: Obtain the cited professional biography and the Jewish Federation of Omaha donor listings.
@@ -614,8 +614,8 @@ Claim: The host announces a second bounty of $25,000 for anyone who can tell her
 Transcript Snippet: But I will put out another bounty similarly uh for $25,000 for the person who can tell me who in Charlie's car was speaking to who on Ben's security team.
 
 Anchored Artifacts: A-2524.3
-Mentions: N-3, N-1, N-133
-Related Nodes: N-11147
+Mentions: N-3, N-1, N-97
+Related Nodes: N-10748
 Confidence: high
 Investigative Direction: Track tip-line submissions; match any named occupant of the SUV against the transport timeline and Ben Shapiro's own account (C-3125).
 

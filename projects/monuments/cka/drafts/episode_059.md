@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: ec70297e4ea4475efe0ea007480a67fe4d47488724c965ac8c0dee4be928d6a0
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-748, N-750, N-753, N-759, N-760, N-761, N-10496, N-10497, N-10498, N-10499, N-10500
+  - New Nodes Introduced:  N-481, N-482, N-483, N-484, N-485, N-486, N-10425, N-10426, N-10427, N-10428, N-10429
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -38,9 +38,9 @@ Artifact Families Introduced: A-1643, A-1644, A-1645, A-1646, A-1647, A-1648, A-
 
 Claim Range: C-2124–C-2148
 
-New Nodes Introduced (people):  N-748, N-750, N-753, N-759, N-760, N-761
+New Nodes Introduced (people):  N-481, N-482, N-483, N-484, N-485, N-486
 
-New Nodes Introduced (investigation targets): N-10496, N-10497, N-10498, N-10499, N-10500
+New Nodes Introduced (investigation targets): N-10425, N-10426, N-10427, N-10428, N-10429
 
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -70,7 +70,7 @@ Video Timestamp: 00:06:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2124, C-2125, C-2126, C-2132, N-748, N-10496*
+*Related: C-2124, C-2125, C-2126, C-2132, N-481, N-10425*
 
 **A-1643.2** LinkedIn profile page of Robert Eugene Flood displayed and scrolled through live, showing Marine staff sergeant service, Franklin Park Illinois employment, Army Reserve lieutenant colonel rank, FBI National Academy attendance, Texas master peace officer certification, and FBIAA membership
 
@@ -80,7 +80,7 @@ Video Timestamp: 00:07:23–00:10:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (live-scrolled, partial capture)
 
-*Related: C-2127, C-2128, C-2129, C-2130, C-2131, N-748, N-10496*
+*Related: C-2127, C-2128, C-2129, C-2130, C-2131, N-481, N-10425*
 
 ---
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:13:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2133, C-2134, C-2135, N-434, N-10496, N-10497*
+*Related: C-2133, C-2134, C-2135, N-276, N-10425, N-10426*
 
 ---
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:15:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2136, C-2137, C-2138, C-2139, N-750, N-10496*
+*Related: C-2136, C-2137, C-2138, C-2139, N-482, N-10425*
 
 ---
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:04:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-10496*
+*Related: N-10425*
 
 ---
 
@@ -136,7 +136,7 @@ Video Timestamp: 00:10:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2131, C-2148, N-748*
+*Related: C-2131, C-2148, N-481*
 
 ---
 
@@ -150,7 +150,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2140, C-2141, N-753, N-10498*
+*Related: C-2140, C-2141, N-483, N-10427*
 
 **A-1648.2** Zack Gregorio (Wolves and Finance) YouTube video clip played on air, showing Gregorio presenting the cease-and-desist letter, characterizing it as the first step toward a defamation lawsuit
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:20:34–00:22:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2140, N-753, N-10498*
+*Related: C-2140, N-483, N-10427*
 
 ---
 
@@ -174,7 +174,7 @@ Video Timestamp: 00:25:08–00:27:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2141, N-42, N-10498*
+*Related: C-2141, N-14, N-10427*
 
 **A-1649.2** Wide-angle shot image displayed on screen, presented by Andrew Kovat as the photo Frank Turk mistook for drone footage (described as "a walkway or a bridge elevated" second-floor view)
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:26:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2141, N-10498*
+*Related: C-2141, N-10427*
 
 ---
 
@@ -198,7 +198,7 @@ Video Timestamp: 00:31:02–00:32:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2144, N-2, N-10499*
+*Related: C-2144, N-2, N-10428*
 
 **A-1650.2** Paraphrased TPUSA official response (received via email by host), stating that Erica Kirk "never lived" in China and "simply visited for 2 weeks"
 
@@ -208,7 +208,7 @@ Video Timestamp: 00:32:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (not displayed; paraphrased)
 
-*Related: C-2142, N-2, N-10499*
+*Related: C-2142, N-2, N-10428*
 
 **A-1650.3** Charlie Kirk debate clip with Ben Corollo played on air, in which Charlie states "Unlike you, my wife lived in China for 6 months"
 
@@ -218,7 +218,7 @@ Video Timestamp: 00:32:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2143, N-1, N-2, N-10499*
+*Related: C-2143, N-1, N-2, N-10428*
 
 ---
 
@@ -232,7 +232,7 @@ Video Timestamp: 00:34:31–00:35:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2145, N-45, N-759, N-760, N-10500*
+*Related: C-2145, N-17, N-484, N-485, N-10429*
 
 ---
 
@@ -260,7 +260,7 @@ Video Timestamp: 00:42:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single viewer account)
 
-*Related: C-2147, N-434, N-1*
+*Related: C-2147, N-276, N-1*
 
 **A-1653.2** "Becca" comment read aloud, asserting Erika Kirk is "panicking" and "not leading that organization in a direction that Charlie Kirk would have let it there"
 
@@ -280,7 +280,7 @@ Video Timestamp: 00:43:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: N-10497*
+*Related: N-10426*
 
 **A-1653.4** "Jenny" comment read aloud, stating "I was in the gates program. We spoke about that. They were big mad when we suggested that the military was working on kids in these programs."
 
@@ -320,7 +320,7 @@ Video Timestamp: 00:46:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: N-2, N-10499*
+*Related: N-2, N-10428*
 
 **A-1653.8** "Candy Catty" comment read aloud, requesting video clips be shown on screen
 
@@ -336,7 +336,7 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-434** Dan Flood
+**N-276** Dan Flood
 
 Head of TPUSA/Charlie Kirk security detail; subject of biographical claims regarding Allen Texas upbringing, New Braunfels Texas residency, and prior security work at the Cattleman's Ball.
 
@@ -345,9 +345,9 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1643.1, A-1644.1, A-1653.1, C-2132, C-2133, C-2134, C-2135, C-2147, N-748, N-10496, N-10497*
+*Related: A-1643.1, A-1644.1, A-1653.1, C-2132, C-2133, C-2134, C-2135, C-2147, N-481, N-10425, N-10426*
 
-**N-748** Robert Eugene Flood
+**N-481** Robert Eugene Flood
 
 Father of Dan Flood; identified via displayed profile image and LinkedIn scroll as a retired law enforcement officer spanning Illinois and Texas.
 
@@ -356,9 +356,9 @@ Claim Count: 9
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1643.1, A-1643.2, A-1647.1, C-2124, C-2125, C-2126, C-2127, C-2128, C-2129, C-2130, C-2131, C-2132, C-2148, N-434, N-10496*
+*Related: A-1643.1, A-1643.2, A-1647.1, C-2124, C-2125, C-2126, C-2127, C-2128, C-2129, C-2130, C-2131, C-2132, C-2148, N-276, N-10425*
 
-**N-424** Brian Harpole
+**N-272** Brian Harpole
 
 TPUSA security team member present on September 10; identified by host as also Dallas-born, working under Greg Schmidt for Charlie Kirk's security.
 
@@ -367,9 +367,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-750, N-10496, N-10497*
+*Related: N-482, N-10425, N-10426*
 
-**N-750** Bobby Harpole
+**N-482** Bobby Harpole
 
 Father of Brian Harpole; 2018 law enforcement interview artifact establishes multi-decade Texas DPS and Erath County Sheriff's Office career.
 
@@ -378,9 +378,9 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1645.1, C-2136, C-2137, C-2138, C-2139, N-424, N-10496*
+*Related: A-1645.1, C-2136, C-2137, C-2138, C-2139, N-272, N-10425*
 
-**N-556** Greg Schaefer
+**N-339** Greg Schaefer
 
 Founder of Schaefer Security, identified by host as former FBI hostage rescue team member with Budapest stationing.
 
@@ -389,9 +389,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-434, N-10496*
+*Related: N-276, N-10425*
 
-**N-724** Bill Montgomery
+**N-467** Bill Montgomery
 
 Identified by host as the figure who convinced Charlie Kirk to start TPUSA and initially organized/paid for Charlie's security via Schaefer Security.
 
@@ -400,9 +400,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-1, N-434, N-10496*
+*Related: N-1, N-276, N-10425*
 
-**N-753** Zack Gregorio (Wolves and Finance)
+**N-483** Zack Gregorio (Wolves and Finance)
 
 YouTuber who received the TPUSA cease-and-desist letter and produced the on-air clip.
 
@@ -413,7 +413,7 @@ Investigative Pressure: Medium
 
 *Related: A-1648.1, A-1648.2, C-2140*
 
-**N-42** Andrew Kolvet
+**N-14** Andrew Kolvet
 
 TPUSA PR; subject of on-air interview clip regarding the drone explanation.
 
@@ -422,9 +422,9 @@ Claim Count: 0 (own statements, not independent claims)
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1649.1, N-10498*
+*Related: A-1649.1, N-10427*
 
-**N-16** Frank Turek
+**N-7** Frank Turek
 
 TPUSA staff member whose earlier statement about Charlie viewing drone footage creates the drone discrepancy.
 
@@ -433,9 +433,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-10498*
+*Related: N-10427*
 
-**N-730** Nelda Buckman
+**N-471** Nelda Buckman
 
 Co-donor (with Carl Buckman) identified as TPUSA's number-one donor with a $10 million check; New Braunfels resident.
 
@@ -444,9 +444,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-731, N-10497*
+*Related: N-472, N-10426*
 
-**N-731** Karl Buckman
+**N-472** Karl Buckman
 
 Co-donor (with NDA Buckman) identified as TPUSA's number-one donor; New Braunfels resident.
 
@@ -455,9 +455,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-730, N-10497*
+*Related: N-471, N-10426*
 
-**N-45** Rob McCoy
+**N-17** Rob McCoy
 
 Pastor; leader of Turning Point Faith; named guest at the January 21 Cornerstone Chapel event.
 
@@ -466,9 +466,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1651.1, C-2145, N-10500*
+*Related: A-1651.1, C-2145, N-10429*
 
-**N-759** Gary Ham
+**N-484** Gary Ham
 
 Pastor of Cornerstone Chapel; speaker in the announcement video.
 
@@ -477,9 +477,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1651.1, C-2145, N-10500*
+*Related: A-1651.1, C-2145, N-10429*
 
-**N-760** Samuel Smaja
+**N-485** Samuel Smaja
 
 Israeli businessman; named guest at the January 21 Cornerstone Chapel event.
 
@@ -488,9 +488,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1651.1, C-2145, N-10500*
+*Related: A-1651.1, C-2145, N-10429*
 
-**N-761** Ben Corollo
+**N-486** Ben Corollo
 
 Charlie Kirk's debate opponent in the clip where Charlie states his wife lived in China 6 months.
 
@@ -503,7 +503,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10496** Dan Flood Family Law Enforcement Network
+**N-10425** Dan Flood Family Law Enforcement Network
 
 Persistent investigable target covering the overlapping law enforcement, military, and FBI-affiliated backgrounds of Dan Flood, Robert Flood, Brian Harpole, and Bobby Harpole, plus the alleged Cattleman's Ball / Dallas security cluster.
 
@@ -512,9 +512,9 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1643.1, A-1643.2, A-1644.1, A-1645.1, A-1646.1, C-2124–C-2139, C-2148, N-434, N-748, N-424, N-750, N-556*
+*Related: A-1643.1, A-1643.2, A-1644.1, A-1645.1, A-1646.1, C-2124–C-2139, C-2148, N-276, N-481, N-272, N-482, N-339*
 
-**N-10497** New Braunfels Texas Security Personnel Cluster
+**N-10426** New Braunfels Texas Security Personnel Cluster
 
 Investigable target covering the geographic clustering of Dan Flood and the Buckman donors in New Braunfels, Texas.
 
@@ -523,9 +523,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1644.1, A-1653.3, C-2134, N-434, N-730, N-731*
+*Related: A-1644.1, A-1653.3, C-2134, N-276, N-471, N-472*
 
-**N-10498** TPUSA Drone Story Discrepancy
+**N-10427** TPUSA Drone Story Discrepancy
 
 Persistent target reconciling the conflicting TPUSA-affiliated statements about drone activity on September 10: Frank Turk (drone footage with Charlie), Andrew Kovat (wide-angle shot, not drone), and the cease-and-desist letter (media production drone for B-roll, but no security drones).
 
@@ -534,9 +534,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1648.1, A-1649.1, A-1649.2, C-2141, N-42, N-16*
+*Related: A-1648.1, A-1649.1, A-1649.2, C-2141, N-14, N-7*
 
-**N-10499** Erica Kirk China Timeline Discrepancy
+**N-10428** Erica Kirk China Timeline Discrepancy
 
 Persistent target reconciling three artifact-anchored statements about Erica Kirk's China residence: her own "living in China" claim (A-1650.1), Charlie's "6 months" claim (A-1650.3), and TPUSA's "2 weeks" official response (A-1650.2).
 
@@ -547,7 +547,7 @@ Investigative Pressure: High
 
 *Related: A-1650.1, A-1650.2, A-1650.3, C-2142, C-2143, C-2144, N-2*
 
-**N-10500** Operation Mocking Pastor / Cornerstone Chapel Event
+**N-10429** Operation Mocking Pastor / Cornerstone Chapel Event
 
 Investigable target covering the recurring Cornerstone Chapel series featuring named guests tied to TPUSA Faith and Israeli business interests.
 
@@ -556,7 +556,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1651.1, C-2145, N-45, N-759, N-760*
+*Related: A-1651.1, C-2145, N-17, N-484, N-485*
 
 ---
 
@@ -569,9 +569,9 @@ Claim Timestamp: 00:06:38
 Claim: The displayed profile of Robert Eugene Flood identifies him as Chief Deputy with 33 years of service at the Texas A&M University Police Department.
 
 Anchored Artifacts: A-1643.1
-Mentions: N-748
+Mentions: N-481
 
-Related Nodes: N-10496
+Related Nodes: N-10425
 
 Investigative Direction: Verify through Texas A&M University Police Department public records or alumni directories.
 
@@ -584,9 +584,9 @@ Claim Timestamp: 00:06:38
 Claim: The displayed profile caption states Robert Flood retired after 35 years of law enforcement service in Illinois and Texas.
 
 Anchored Artifacts: A-1643.1
-Mentions: N-748
+Mentions: N-481
 
-Related Nodes: N-10496
+Related Nodes: N-10425
 
 Investigative Direction: Verify through official retirement records and state police licensing databases.
 
@@ -599,9 +599,9 @@ Claim Timestamp: 00:06:38
 Claim: The displayed profile states Robert Flood's final assignment was with the Bosque County, Texas Sheriff's Office.
 
 Anchored Artifacts: A-1643.1
-Mentions: N-748
+Mentions: N-481
 
-Related Nodes: N-10496
+Related Nodes: N-10425
 
 Investigative Direction: Verify through Bosque County Sheriff's Office public records.
 
@@ -614,9 +614,9 @@ Claim Timestamp: 00:07:23
 Claim: Robert Flood's LinkedIn profile lists graduation from the FBI National Academy.
 
 Anchored Artifacts: A-1643.2
-Mentions: N-748
+Mentions: N-481
 
-Related Nodes: N-10496
+Related Nodes: N-10425
 
 Investigative Direction: Verify through FBI National Academy alumni records.
 
@@ -629,9 +629,9 @@ Claim Timestamp: 00:07:23
 Claim: Robert Flood's LinkedIn profile lists Marine staff sergeant service with responsibilities in surveillance, target acquisition, small arms/weapons, tactical radio communications, and aviation ordnance.
 
 Anchored Artifacts: A-1643.2
-Mentions: N-748
+Mentions: N-481
 
-Related Nodes: N-10496
+Related Nodes: N-10425
 
 Investigative Direction: Verify through military service records.
 
@@ -644,9 +644,9 @@ Claim Timestamp: 00:07:23
 Claim: Robert Flood's LinkedIn profile lists over a decade of employment in Franklin Park, Illinois, in roles including crime scene technician, SWAT team leader, patrol division supervisor, and criminal investigator.
 
 Anchored Artifacts: A-1643.2
-Mentions: N-748
+Mentions: N-481
 
-Related Nodes: N-10496
+Related Nodes: N-10425
 
 Investigative Direction: Verify through Franklin Park Police Department employment records and cross-reference with Charlie Kirk's Illinois upbringing area.
 
@@ -659,9 +659,9 @@ Claim Timestamp: 00:08:36
 Claim: Robert Flood's LinkedIn profile lists lieutenant colonel rank in the Army Reserve.
 
 Anchored Artifacts: A-1643.2
-Mentions: N-748
+Mentions: N-481
 
-Related Nodes: N-10496
+Related Nodes: N-10425
 
 Investigative Direction: Verify through Army Reserve official records.
 
@@ -674,9 +674,9 @@ Claim Timestamp: 00:10:23
 Claim: Robert Flood's LinkedIn profile lists membership in the FBI Agent Association.
 
 Anchored Artifacts: A-1643.2
-Mentions: N-748
+Mentions: N-481
 
-Related Nodes: N-10496
+Related Nodes: N-10425
 
 Investigative Direction: Verify through FBIA membership rolls.
 
@@ -689,9 +689,9 @@ Claim Timestamp: 00:10:23
 Claim: Host states that both of Dan Flood's mother and father are from Illinois, in the same area Charlie Kirk grew up.
 
 Anchored Artifacts: A-1643.1
-Mentions: N-434, N-748, N-1
+Mentions: N-276, N-481, N-1
 
-Related Nodes: N-10496
+Related Nodes: N-10425
 
 Investigative Direction: Cross-reference Illinois address records for Robert Flood with Charlie Kirk's documented childhood addresses.
 
@@ -704,9 +704,9 @@ Claim Timestamp: 00:13:36
 Claim: A social media post from a self-identified childhood friend states he attended middle and high school with Dan Flood in Allen, Texas.
 
 Anchored Artifacts: A-1644.1
-Mentions: N-434
+Mentions: N-276
 
-Related Nodes: N-10496
+Related Nodes: N-10425
 
 Investigative Direction: Verify through Allen Independent School District alumni records and the social media poster's identity.
 
@@ -719,9 +719,9 @@ Claim Timestamp: 00:12:43
 Claim: Host states it as a confirmable fact that Dan Flood lives in New Braunfels, Texas.
 
 Anchored Artifacts: A-1644.1
-Mentions: N-434
+Mentions: N-276
 
-Related Nodes: N-10497
+Related Nodes: N-10426
 
 Investigative Direction: Verify through address records, property records, or voter registration.
 
@@ -734,9 +734,9 @@ Claim Timestamp: 00:13:36
 Claim: The childhood friend's social media post states he last saw Dan Flood "doing security for some Dallas billionaire at the Cattleman's Ball."
 
 Anchored Artifacts: A-1644.1
-Mentions: N-434, N-724
+Mentions: N-276, N-467
 
-Related Nodes: N-10496
+Related Nodes: N-10425
 
 Investigative Direction: Identify the billionaire referenced and verify through security firm records or event vendor lists.
 
@@ -749,9 +749,9 @@ Claim Timestamp: 00:15:02
 Claim: Bobby Harpole states in his 2018 interview, "I was born in Denton, Texas."
 
 Anchored Artifacts: A-1645.1
-Mentions: N-750
+Mentions: N-482
 
-Related Nodes: N-10496
+Related Nodes: N-10425
 
 Investigative Direction: Verify through public records.
 
@@ -764,9 +764,9 @@ Claim Timestamp: 00:15:02
 Claim: Bobby Harpole states he began his law enforcement career in 1968 with the Texas Department of Public Safety.
 
 Anchored Artifacts: A-1645.1
-Mentions: N-750
+Mentions: N-482
 
-Related Nodes: N-10496
+Related Nodes: N-10425
 
 Investigative Direction: Verify through TDPS historical employment records.
 
@@ -779,9 +779,9 @@ Claim Timestamp: 00:15:02
 Claim: Bobby Harpole states he retired from TDPS as a sergeant in highway patrol.
 
 Anchored Artifacts: A-1645.1
-Mentions: N-750
+Mentions: N-482
 
-Related Nodes: N-10496
+Related Nodes: N-10425
 
 Investigative Direction: Verify through TDPS records.
 
@@ -794,9 +794,9 @@ Claim Timestamp: 00:15:02
 Claim: Bobby Harpole states he served 12 years at the Erath County Sheriff's Office and retired as captain.
 
 Anchored Artifacts: A-1645.1
-Mentions: N-750
+Mentions: N-482
 
-Related Nodes: N-10496
+Related Nodes: N-10425
 
 Investigative Direction: Verify through Erath County Sheriff's Office records.
 
@@ -809,7 +809,7 @@ Claim Timestamp: 00:21:21
 Claim: TPUSA sent a "Demand to cease and desist defamatory comments" letter to Zack Gregorio of Wolves and Finance; the letter is displayed and read aloud in the episode.
 
 Anchored Artifacts: A-1648.1, A-1648.2
-Mentions: N-753
+Mentions: N-483
 
 
 Investigative Direction: Confirm through legal records, TPUSA communications, and Gregorio's public statements.
@@ -824,7 +824,7 @@ Claim: The cease-and-desist letter states UVU prohibited TPUSA from flying drone
 
 Anchored Artifacts: A-1648.1
 
-Related Nodes: N-10498
+Related Nodes: N-10427
 
 Investigative Direction: Reconcile this letter content with Andrew Kovat's earlier statement (A-1649.1) and Frank Turk's earlier statement regarding drone footage viewed with Charlie Kirk.
 
@@ -841,7 +841,7 @@ Claim: Per host's paraphrase of an emailed TPUSA official response, Erica Kirk n
 Anchored Artifacts: A-1650.2
 Mentions: N-2
 
-Related Nodes: N-10499
+Related Nodes: N-10428
 
 Investigative Direction: Obtain the original TPUSA email in writing and reconcile with the contradiction presented in C-2143 and C-2144.
 
@@ -854,9 +854,9 @@ Claim Timestamp: 00:32:51
 Claim: In the debate clip with Ben Corollo, Charlie Kirk states "Unlike you, my wife lived in China for 6 months and she'll show you the videos."
 
 Anchored Artifacts: A-1650.3
-Mentions: N-1, N-2, N-761
+Mentions: N-1, N-2, N-486
 
-Related Nodes: N-10499
+Related Nodes: N-10428
 
 Investigative Direction: Verify against the full debate transcript/recording.
 
@@ -871,7 +871,7 @@ Claim: In the on-air clip, Erica Kirk states she was "living in China and doing 
 Anchored Artifacts: A-1650.1
 Mentions: N-2
 
-Related Nodes: N-10499
+Related Nodes: N-10428
 
 Investigative Direction: Identify the specific China-based charity and verify scope and duration of her work.
 
@@ -884,9 +884,9 @@ Claim Timestamp: 00:34:31
 Claim: A Cornerstone Chapel video announcement by Pastor Gary Ham promotes a January 21 service on antisemitism in conservative politics, naming Candace Owens and Tucker Carlson, with guests Rob McCoy (Turning Point Faith) and Samuel Smaja (Israeli businessman).
 
 Anchored Artifacts: A-1651.1
-Mentions: N-45, N-759, N-760, N-50, N-3
+Mentions: N-17, N-484, N-485, N-22, N-3
 
-Related Nodes: N-10500
+Related Nodes: N-10429
 
 Investigative Direction: Verify the event actually occurred and document any public response.
 
@@ -913,7 +913,7 @@ Claim Timestamp: 00:42:39
 Claim: Viewer "Moderator Marzy" comment states Dan Flood "was still providing security" at a Charlie Kirk Day event and that Kash Patel was invited.
 
 Anchored Artifacts: A-1653.1
-Mentions: N-1, N-434, N-102
+Mentions: N-1, N-276, N-69
 
 
 Investigative Direction: Verify event attendance, security staffing, and Kash Patel's participation through official event records.
@@ -927,7 +927,7 @@ Claim Timestamp: 00:10:23
 Claim: Per the FBIA website description read aloud, the FBIA was founded in 1981 and consists of 14,000 current and former FBI special agents.
 
 Anchored Artifacts: A-1647.1
-Mentions: N-748
+Mentions: N-481
 
 
 Investigative Direction: Verify through FBIA official publications, IRS Form 990 filings, and the organization's own historical records.
@@ -997,11 +997,11 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-434+)
-- [x] Non-person investigation targets use the 1000 series (N-10496+)
+- [x] People nodes use the global people ledger (N-276+)
+- [x] Non-person investigation targets use the 1000 series (N-10425+)
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly as spoken; uncertainties flagged
 - [x] Formatting consistent across registers
 - [x] Claim admission test applied; failures routed to Optional Flags
 - [x] Artifact-anchored contradictions flagged
-- [x] Global ID continuation rule followed (no reuse of A-1000–A-1642, C-1000–C-2123, N-1–N-413, N-10207–N-10495)
+- [x] Global ID continuation rule followed (no reuse of A-1000–A-1642, C-1000–C-2123, N-1–N-269, N-10141–N-10424)

@@ -37,7 +37,7 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-59"
+            "N-30"
           ],
           "tags": [],
           "video_timestamp": "00:10:23–00:11:00",
@@ -54,9 +54,9 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-59",
-            "N-157",
-            "N-10179"
+            "N-30",
+            "N-114",
+            "N-10113"
           ],
           "tags": [],
           "video_timestamp": "00:13:36–00:14:46",
@@ -80,9 +80,9 @@
             "C-1270"
           ],
           "related_nodes": [
-            "N-148",
-            "N-10186",
-            "N-10177"
+            "N-105",
+            "N-10120",
+            "N-10111"
           ],
           "tags": [],
           "video_timestamp": "00:22:24–00:26:26",
@@ -98,7 +98,7 @@
             "C-1271"
           ],
           "related_nodes": [
-            "N-148"
+            "N-105"
           ],
           "tags": [],
           "video_timestamp": "00:22:45–00:23:18",
@@ -114,8 +114,8 @@
             "C-1272"
           ],
           "related_nodes": [
-            "N-148",
-            "N-10186"
+            "N-105",
+            "N-10120"
           ],
           "tags": [],
           "video_timestamp": "00:23:37–00:24:29",
@@ -131,8 +131,8 @@
             "C-1273"
           ],
           "related_nodes": [
-            "N-148",
-            "N-10177"
+            "N-105",
+            "N-10111"
           ],
           "tags": [],
           "video_timestamp": "00:24:53–00:25:45",
@@ -157,10 +157,10 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-75",
-            "N-10188",
-            "N-10189",
-            "N-10183"
+            "N-46",
+            "N-10122",
+            "N-10123",
+            "N-10117"
           ],
           "tags": [],
           "video_timestamp": "00:34:05–00:35:43",
@@ -185,13 +185,13 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-122",
-            "N-150",
-            "N-133",
-            "N-151",
-            "N-152",
-            "N-153",
-            "N-10185"
+            "N-87",
+            "N-107",
+            "N-97",
+            "N-108",
+            "N-109",
+            "N-110",
+            "N-10119"
           ],
           "tags": [],
           "video_timestamp": "00:31:04–00:32:56",
@@ -216,7 +216,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10190"
+            "N-10124"
           ],
           "tags": [],
           "video_timestamp": "00:27:59–00:28:39",
@@ -241,7 +241,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10179"
+            "N-10113"
           ],
           "tags": [],
           "video_timestamp": "00:15:00–00:17:11",
@@ -265,9 +265,9 @@
             "C-1278"
           ],
           "related_nodes": [
-            "N-69",
-            "N-159",
-            "N-10176"
+            "N-40",
+            "N-115",
+            "N-10110"
           ],
           "tags": [],
           "video_timestamp": "00:43:41–00:44:23",
@@ -292,7 +292,7 @@
           ],
           "related_nodes": [
             "N-5",
-            "N-149"
+            "N-106"
           ],
           "tags": [],
           "video_timestamp": "00:20:33–00:20:55",
@@ -308,7 +308,7 @@
             "C-3729"
           ],
           "related_nodes": [
-            "N-156"
+            "N-113"
           ],
           "tags": [],
           "video_timestamp": "00:37:04–00:37:13",
@@ -384,8 +384,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-148",
-      "ref": "N-148",
+      "@id": "N-105",
+      "ref": "N-105",
       "name": "Thomas Matthew Crooks",
       "type": "person",
       "description": "July 13, 2024 Trump-rally rooftop shooter; subject of scraped online-history doc.",
@@ -409,8 +409,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Defendant in Charlie Kirk case; per host, no video of firing, no confession, fragmented bullet.",
@@ -471,8 +471,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-149",
-      "ref": "N-149",
+      "@id": "N-106",
+      "ref": "N-106",
       "name": "Corey Comperatore",
       "type": "person",
       "description": "Firefighter killed shielding family at July 13, 2024 Trump rally.",
@@ -491,8 +491,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-75",
-      "ref": "N-75",
+      "@id": "N-46",
+      "ref": "N-46",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Host of segment on Jezebel/Etsy hex against Charlie Kirk.",
@@ -510,8 +510,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-122",
-      "ref": "N-122",
+      "@id": "N-87",
+      "ref": "N-87",
       "name": "Jimmy Kimmel",
       "type": "person",
       "description": "Late-night host; monologue thanking right-wing free-speech defenders.",
@@ -529,8 +529,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-150",
-      "ref": "N-150",
+      "@id": "N-107",
+      "ref": "N-107",
       "name": "Ted Cruz",
       "type": "person",
       "description": "Cited by Kimmel for free-speech defense.",
@@ -548,8 +548,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
+      "@id": "N-97",
+      "ref": "N-97",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Cited by Kimmel.",
@@ -567,8 +567,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-151",
-      "ref": "N-151",
+      "@id": "N-108",
+      "ref": "N-108",
       "name": "Clay Travis",
       "type": "person",
       "description": "Cited by Kimmel.",
@@ -586,8 +586,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-152",
-      "ref": "N-152",
+      "@id": "N-109",
+      "ref": "N-109",
       "name": "Mitch McConnell",
       "type": "person",
       "description": "Cited by Kimmel.",
@@ -605,8 +605,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-153",
-      "ref": "N-153",
+      "@id": "N-110",
+      "ref": "N-110",
       "name": "Rand Paul",
       "type": "person",
       "description": "Cited by Kimmel.",
@@ -624,8 +624,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-154",
-      "ref": "N-154",
+      "@id": "N-111",
+      "ref": "N-111",
       "name": "Thomas Sowell",
       "type": "person",
       "description": "Author of 'Inside the American Education System' recommended by host.",
@@ -641,8 +641,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-155",
-      "ref": "N-155",
+      "@id": "N-112",
+      "ref": "N-112",
       "name": "Margarethe Schurz",
       "type": "person",
       "description": "Credited by host with establishing kindergarten in US (1848 communists).",
@@ -658,8 +658,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-80",
-      "ref": "N-80",
+      "@id": "N-50",
+      "ref": "N-50",
       "name": "Sigmund Freud",
       "type": "person",
       "description": "Referenced in book-club discussion of psychoanalytic community origins.",
@@ -677,8 +677,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-156",
-      "ref": "N-156",
+      "@id": "N-113",
+      "ref": "N-113",
       "name": "C.S. Lewis",
       "type": "person",
       "description": "Referenced for concept of 'scientism'.",
@@ -697,8 +697,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-59",
-      "ref": "N-59",
+      "@id": "N-30",
+      "ref": "N-30",
       "name": "George (Candace's husband)",
       "type": "person",
       "description": "Unnamed spouse; met via UK trip 18 days before engagement.",
@@ -719,8 +719,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-157",
-      "ref": "N-157",
+      "@id": "N-114",
+      "ref": "N-114",
       "name": "Candace Owens' Sister",
       "type": "person",
       "description": "First in family to homeschool; recipient of bee-warning text.",
@@ -738,8 +738,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-99",
-      "ref": "N-99",
+      "@id": "N-68",
+      "ref": "N-68",
       "name": "Skyler",
       "type": "person",
       "description": "Producer who corrects promo code on-air (Blackout15).",
@@ -757,8 +757,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-159",
-      "ref": "N-159",
+      "@id": "N-115",
+      "ref": "N-115",
       "name": "Natalie",
       "type": "person",
       "description": "Listener who tipped unverified video of Tyler Robinson with a woman.",
@@ -776,8 +776,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10175",
-      "ref": "N-10175",
+      "@id": "N-10109",
+      "ref": "N-10109",
       "name": "FBI Case Closure Pressure",
       "type": "topic",
       "description": "Host claims FBI pressuring Utah authorities to rule lone-gunman.",
@@ -794,8 +794,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10176",
-      "ref": "N-10176",
+      "@id": "N-10110",
+      "ref": "N-10110",
       "name": "Tyler Robinson Evidence Gaps",
       "type": "topic",
       "description": "Host's source: no roof video, fragmented bullet, no confession, gun-arrival unrecorded.",
@@ -818,8 +818,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10177",
-      "ref": "N-10177",
+      "@id": "N-10111",
+      "ref": "N-10111",
       "name": "Crooks Federal-Radar Question",
       "type": "topic",
       "description": "Was Crooks known to feds pre-attempt given extensive violent online history?",
@@ -842,8 +842,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10178",
-      "ref": "N-10178",
+      "@id": "N-10112",
+      "ref": "N-10112",
       "name": "Lone-Shooter Narrative Critique",
       "type": "topic",
       "description": "Host argues lone-shooter framing obscures networks; cites Crooks + Kirk cases.",
@@ -858,8 +858,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10179",
-      "ref": "N-10179",
+      "@id": "N-10113",
+      "ref": "N-10113",
       "name": "Beehive Code / School Underground Premonition",
       "type": "topic",
       "description": "Candace's Aug 30–Sep 2 premonition of school-linked 'bee' underground.",
@@ -880,8 +880,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10180",
-      "ref": "N-10180",
+      "@id": "N-10114",
+      "ref": "N-10114",
       "name": "Utah Beehive Symbolism",
       "type": "topic",
       "description": "Hexagonal beehive flag tied to Mormon pioneer 'common good' / Soviet worker-bee imagery.",
@@ -896,8 +896,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10181",
-      "ref": "N-10181",
+      "@id": "N-10115",
+      "ref": "N-10115",
       "name": "Soviet Education Infiltration",
       "type": "topic",
       "description": "Host thesis: US public schools shaped by 1848 communist ideology; references Sowell & Schurz.",
@@ -912,8 +912,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10182",
-      "ref": "N-10182",
+      "@id": "N-10116",
+      "ref": "N-10116",
       "name": "MK Ultra Continuity Theory",
       "type": "topic",
       "description": "Host asserts MK Ultra never discontinued and feeds lone-shooter candidates.",
@@ -930,8 +930,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10183",
-      "ref": "N-10183",
+      "@id": "N-10117",
+      "ref": "N-10117",
       "name": "Jezebel/Etsy Hex on Charlie Kirk",
       "type": "topic",
       "description": "Alleged curse placed via Etsy witches; Kirk family consulted Catholic priest.",
@@ -950,8 +950,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10184",
-      "ref": "N-10184",
+      "@id": "N-10118",
+      "ref": "N-10118",
       "name": "Candace UK Premonition / Husband Meeting",
       "type": "topic",
       "description": "18-day engagement after UK trip she felt compelled to take with Charlie.",
@@ -970,8 +970,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10185",
-      "ref": "N-10185",
+      "@id": "N-10119",
+      "ref": "N-10119",
       "name": "Jimmy Kimmel Free-Speech Defense",
       "type": "topic",
       "description": "Kimmel thanks right-wing voices; Candace opposes gov't speech overreach.",
@@ -990,8 +990,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10186",
-      "ref": "N-10186",
+      "@id": "N-10120",
+      "ref": "N-10120",
       "name": "Crooks Ideological Transformation",
       "type": "topic",
       "description": "Host documents Crooks' shift from pro-Trump to anti-Trump around 2020.",
@@ -1012,8 +1012,8 @@
     },
     {
       "@type": "Topic",
-      "@id": "N-10187",
-      "ref": "N-10187",
+      "@id": "N-10121",
+      "ref": "N-10121",
       "name": "Eyewitness Roof-Description Discrepancy",
       "type": "topic",
       "description": "Host: eyewitness told her shooter was in tactical gear, gun mismatched.",
@@ -1030,8 +1030,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10003",
-      "ref": "N-10003",
+      "@id": "N-10001",
+      "ref": "N-10001",
       "name": "MK Ultra",
       "type": "organization",
       "description": "CIA program (1950s-60s); host asserts it was never discontinued.",
@@ -1048,8 +1048,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10188",
-      "ref": "N-10188",
+      "@id": "N-10122",
+      "ref": "N-10122",
       "name": "Jezebel",
       "type": "organization",
       "description": "Far-left website that declared mission to curse Charlie Kirk.",
@@ -1066,8 +1066,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10189",
-      "ref": "N-10189",
+      "@id": "N-10123",
+      "ref": "N-10123",
       "name": "Etsy",
       "type": "organization",
       "description": "Host cites platform offering witch-hex services used by Jezebel.",
@@ -1084,8 +1084,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10077",
-      "ref": "N-10077",
+      "@id": "N-10012",
+      "ref": "N-10012",
       "name": "Utah Valley University",
       "type": "organization",
       "description": "Site of Charlie Kirk assassination, Sept 10, 2025.",
@@ -1102,8 +1102,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-10190",
-      "ref": "N-10190",
+      "@id": "N-10124",
+      "ref": "N-10124",
       "name": "Riverbend Ranch",
       "type": "organization",
       "description": "Sponsor; produced audio tribute to Charlie Kirk.",
@@ -1120,8 +1120,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-10191",
-      "ref": "N-10191",
+      "@id": "N-10125",
+      "ref": "N-10125",
       "name": "Utah",
       "type": "place",
       "description": "Site of Kirk assassination; the 'Beehive State'; hexagonal beehive flag.",
@@ -1136,8 +1136,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-10192",
-      "ref": "N-10192",
+      "@id": "N-10126",
+      "ref": "N-10126",
       "name": "London / UK",
       "type": "place",
       "description": "Destination of Candace's premonition UK trip; meeting site for husband.",
@@ -1152,8 +1152,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-10193",
-      "ref": "N-10193",
+      "@id": "N-10127",
+      "ref": "N-10127",
       "name": "Poland",
       "type": "place",
       "description": "Source of communist underground symbol found online by Candace.",
@@ -1170,8 +1170,8 @@
     },
     {
       "@type": "Place",
-      "@id": "N-10194",
-      "ref": "N-10194",
+      "@id": "N-10128",
+      "ref": "N-10128",
       "name": "Germany (1848 reference)",
       "type": "place",
       "description": "Host cites 1848 communist uprising; kindergarten-establishment origin.",
@@ -1204,8 +1204,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-59",
-        "N-99"
+        "N-30",
+        "N-68"
       ]
     },
     {
@@ -1218,8 +1218,8 @@
         "A-1155.1"
       ],
       "related_nodes": [
-        "N-10184",
-        "N-10192"
+        "N-10118",
+        "N-10126"
       ],
       "tags": [],
       "claim_timestamp": "00:09:13",
@@ -1228,7 +1228,7 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-3",
-        "N-59"
+        "N-30"
       ]
     },
     {
@@ -1241,7 +1241,7 @@
         "A-1155.2"
       ],
       "related_nodes": [
-        "N-10179"
+        "N-10113"
       ],
       "tags": [],
       "claim_timestamp": "00:14:15",
@@ -1250,8 +1250,8 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3",
-        "N-59",
-        "N-157"
+        "N-30",
+        "N-114"
       ]
     },
     {
@@ -1262,9 +1262,9 @@
       "claim": "Host argues the historical MK Ultra program was never discontinued and that federal 'lone shooter' narratives resemble 1960s-era manipulation, feeding school-age candidates into violence plots.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10003",
-        "N-10182",
-        "N-10178"
+        "N-10001",
+        "N-10116",
+        "N-10112"
       ],
       "tags": [],
       "claim_timestamp": "00:26:59",
@@ -1272,7 +1272,7 @@
       "transcript_snippet": "…learning the reality of what happened throughout the 1960s when MK Ultra when that program was running. And I have no reason to believe that that program was ever discontinued.",
       "confidence": "low",
       "mentions_person_refs": [
-        "N-148"
+        "N-105"
       ]
     },
     {
@@ -1285,10 +1285,10 @@
         "A-1156.1"
       ],
       "related_nodes": [
-        "N-10177",
-        "N-10186",
-        "N-10003",
-        "N-10182"
+        "N-10111",
+        "N-10120",
+        "N-10001",
+        "N-10116"
       ],
       "tags": [],
       "claim_timestamp": "00:22:24",
@@ -1296,7 +1296,7 @@
       "transcript_snippet": "I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-148"
+        "N-105"
       ]
     },
     {
@@ -1315,7 +1315,7 @@
       "transcript_snippet": "Videos that he was posting of himself shooting with no bullets in the gun in his bedroom.",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-148"
+        "N-105"
       ]
     },
     {
@@ -1328,7 +1328,7 @@
         "A-1156.3"
       ],
       "related_nodes": [
-        "N-10186"
+        "N-10120"
       ],
       "tags": [],
       "claim_timestamp": "00:23:37",
@@ -1336,7 +1336,7 @@
       "transcript_snippet": "Blasting their useless brains out with an AR…heads chopped off and put on stakes.",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-148"
+        "N-105"
       ]
     },
     {
@@ -1349,7 +1349,7 @@
         "A-1156.4"
       ],
       "related_nodes": [
-        "N-10177"
+        "N-10111"
       ],
       "tags": [],
       "claim_timestamp": "00:24:53",
@@ -1357,7 +1357,7 @@
       "transcript_snippet": "he searched best places for a a mass shooting. ... How to make Molotov cocktails, pardon me, mixing gasoline with styrofoam",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-148"
+        "N-105"
       ]
     },
     {
@@ -1370,9 +1370,9 @@
         "A-1157.1"
       ],
       "related_nodes": [
-        "N-10188",
-        "N-10189",
-        "N-10183"
+        "N-10122",
+        "N-10123",
+        "N-10117"
       ],
       "tags": [],
       "claim_timestamp": "00:34:05",
@@ -1381,7 +1381,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-2",
-        "N-75",
+        "N-46",
         "N-1"
       ]
     },
@@ -1395,7 +1395,7 @@
         "A-1158.1"
       ],
       "related_nodes": [
-        "N-10185"
+        "N-10119"
       ],
       "tags": [],
       "claim_timestamp": "00:31:04",
@@ -1404,12 +1404,12 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3",
-        "N-122",
-        "N-133",
-        "N-150",
-        "N-151",
-        "N-152",
-        "N-153"
+        "N-87",
+        "N-97",
+        "N-107",
+        "N-108",
+        "N-109",
+        "N-110"
       ]
     },
     {
@@ -1422,7 +1422,7 @@
         "A-1159.1"
       ],
       "related_nodes": [
-        "N-10190"
+        "N-10124"
       ],
       "tags": [],
       "claim_timestamp": "00:27:59",
@@ -1443,10 +1443,10 @@
         "A-1160.1"
       ],
       "related_nodes": [
-        "N-10179",
-        "N-10194",
-        "N-10181",
-        "N-10193"
+        "N-10113",
+        "N-10128",
+        "N-10115",
+        "N-10127"
       ],
       "tags": [],
       "claim_timestamp": "00:15:00",
@@ -1455,8 +1455,8 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3",
-        "N-154",
-        "N-155"
+        "N-111",
+        "N-112"
       ]
     },
     {
@@ -1469,7 +1469,7 @@
         "A-1161.1"
       ],
       "related_nodes": [
-        "N-10176"
+        "N-10110"
       ],
       "tags": [],
       "claim_timestamp": "00:43:41",
@@ -1477,8 +1477,8 @@
       "transcript_snippet": "It also shows him changing clothes and he is not alone. There is a woman with him.",
       "confidence": "low",
       "mentions_person_refs": [
-        "N-69",
-        "N-159"
+        "N-40",
+        "N-115"
       ]
     },
     {
@@ -1489,9 +1489,9 @@
       "claim": "Host claims a well-placed source says the FBI is pressuring Utah authorities to declare the Charlie Kirk case closed as a lone-gunman act.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10079",
-        "N-10175",
-        "N-10191"
+        "N-10014",
+        "N-10109",
+        "N-10125"
       ],
       "tags": [],
       "claim_timestamp": "00:01:42",
@@ -1510,7 +1510,7 @@
       "claim": "Host asserts there is no video of Tyler Robinson firing the weapon or taking aim at Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10176"
+        "N-10110"
       ],
       "tags": [],
       "claim_timestamp": "00:03:40",
@@ -1518,7 +1518,7 @@
       "transcript_snippet": "There is absolutely no video which shows Tyler Robinson firing the weapon.",
       "confidence": "low",
       "mentions_person_refs": [
-        "N-69",
+        "N-40",
         "N-1"
       ]
     },
@@ -1530,7 +1530,7 @@
       "claim": "Host's source says the bullet was too fragmented to match Tyler Robinson's rifle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10176"
+        "N-10110"
       ],
       "tags": [],
       "claim_timestamp": "00:06:11",
@@ -1538,7 +1538,7 @@
       "transcript_snippet": "The bullet…was too fragmented to match Tyler's rifle.",
       "confidence": "low",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1549,9 +1549,9 @@
       "claim": "Host's source says the FBI does not have footage showing how the rifle was placed on the UVU roof.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10079",
-        "N-10077",
-        "N-10176"
+        "N-10014",
+        "N-10012",
+        "N-10110"
       ],
       "tags": [],
       "claim_timestamp": "00:05:13",
@@ -1559,7 +1559,7 @@
       "transcript_snippet": "The feds don't even have any footage that explains how exactly the rifle…got onto the roof.",
       "confidence": "low",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1570,7 +1570,7 @@
       "claim": "Host's source says prints other than Tyler Robinson's were also on the rifle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10176"
+        "N-10110"
       ],
       "tags": [],
       "claim_timestamp": "00:07:58",
@@ -1578,7 +1578,7 @@
       "transcript_snippet": "It's not the only set of prints that are on that gun.",
       "confidence": "low",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1589,7 +1589,7 @@
       "claim": "Per host's source, the eyewitness who filmed the rooftop shooter says the figure wore tactical gear and the gun did not match what he observed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10187"
+        "N-10121"
       ],
       "tags": [],
       "claim_timestamp": "00:03:46",
@@ -1597,7 +1597,7 @@
       "transcript_snippet": "He was in tactical gear. The person that I saw was in tactical gear.",
       "confidence": "low",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1617,7 +1617,7 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-5",
-        "N-149"
+        "N-106"
       ]
     },
     {
@@ -1636,7 +1636,7 @@
       "transcript_snippet": "Like we are now in this culture of what CS Lewis refers to as scientism.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-156"
+        "N-113"
       ]
     },
     {

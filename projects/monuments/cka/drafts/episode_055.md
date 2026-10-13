@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: a5bff101f5406cc545238101be4cd19cc555a0c068fccc2dca23c05ae7f6ae04
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-696, N-697, N-699, N-700, N-701, N-702, N-703, N-704, N-10473, N-10474, N-10475, N-10476, N-10477, N-10478, N-10479
+  - New Nodes Introduced:  N-447, N-448, N-449, N-450, N-451, N-452, N-453, N-454, N-10402, N-10403, N-10404, N-10405, N-10406, N-10407, N-10408
   - Reused Nodes Appearing: 
   - (see registers)
 
@@ -35,8 +35,8 @@
 
 - **Artifact Families Introduced:** A-1607, A-1608, A-1609, A-1610, A-1611, A-1612, A-1613, A-1614, A-1615, A-1616
 - **Claim Range:** C-2047–C-2072
-- **New Nodes Introduced (people):** , N-696, N-697, N-699, N-700, N-701, N-702, N-703, N-704
-- **New Nodes Introduced (investigation targets):** N-10473, N-10474, N-10475, N-10476, N-10477, N-10478, N-10479
+- **New Nodes Introduced (people):** , N-447, N-448, N-449, N-450, N-451, N-452, N-453, N-454
+- **New Nodes Introduced (investigation targets):** N-10402, N-10403, N-10404, N-10405, N-10406, N-10407, N-10408
 - **Existing Nodes Reused:** Charlie Kirk, Candace Owens, Erica Kirk, Tucker Carlson, Megyn Kelly, Ben Shapiro, Dennis Prager, Netanyahu, Mark Burnett, Jordan Peterson, Nick Fuentes, Seth Dylan, Jerry Falwell Jr. (referenced by name without new ID)
 
 ---
@@ -61,7 +61,7 @@ Video Timestamp: 00:07:11–00:08:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (transcript-only verification)
 
-*Related: C-2047, C-2048, N-42, N-10475*
+*Related: C-2047, C-2048, N-14, N-10404*
 
 ---
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:23:45–00:24:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2049, C-2050, N-696, N-699, N-10473*
+*Related: C-2049, C-2050, N-447, N-449, N-10402*
 
 ---
 
@@ -89,7 +89,7 @@ Video Timestamp: 00:12:48–00:13:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2051, N-704*
+*Related: C-2051, N-454*
 
 ---
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:21:30–00:22:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2052, C-2053, N-696, N-10473*
+*Related: C-2052, C-2053, N-447, N-10402*
 
 **A-1610.2** Johnny Moore audio clip: "I know the state of Israel is strong… we are committed to building a great wall of Christian Zionism all over the world to push back the forces of anti-semitism"
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:22:43–00:23:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2054, N-696, N-10473*
+*Related: C-2054, N-447, N-10402*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:34:41–00:35:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (named speakers, identifiable speech content)
 
-*Related: C-2057, N-701, N-10478*
+*Related: C-2057, N-451, N-10407*
 
 ---
 
@@ -141,7 +141,7 @@ Video Timestamp: 00:38:50–00:41:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2058, C-2059, C-2060, Megyn Kelly, Ben Shapiro, N-10477*
+*Related: C-2058, C-2059, C-2060, Megyn Kelly, Ben Shapiro, N-10406*
 
 ---
 
@@ -155,7 +155,7 @@ Video Timestamp: 00:46:41–00:47:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (anonymous social commentary)
 
-*Related: C-2061, Erica Kirk, N-10474*
+*Related: C-2061, Erica Kirk, N-10403*
 
 **A-1613.2** Comment from user "Natty Nicole": expressing being heartbroken and asking how Andrew Kovette sleeps at night
 
@@ -165,7 +165,7 @@ Video Timestamp: 00:47:35–00:48:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-2062, N-42*
+*Related: C-2062, N-14*
 
 **A-1613.3** Comment from user "67" (Argentina donation)
 
@@ -239,7 +239,7 @@ Video Timestamp: 00:25:34–00:26:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2055, C-2056, N-697, N-654, N-10473*
+*Related: C-2055, C-2056, N-448, N-409, N-10402*
 
 ---
 
@@ -274,7 +274,7 @@ Confidence Level: Low (host-read advertisement)
 ## IV. Node Register
 
 
-**N-42** Andrew Kolvet
+**N-14** Andrew Kolvet
 
 Subject of host's text exchange about post-assassination dream of Charlie Kirk; previously identified in earlier episodes as orchestrating PR operations against the host.
 
@@ -283,11 +283,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1607.1, A-1613.2, C-2047, C-2048, N-10473, N-10474*
+*Related: A-1607.1, A-1613.2, C-2047, C-2048, N-10402, N-10403*
 
 ---
 
-**N-696** Johnny Moore
+**N-447** Johnny Moore
 
 Former Liberty University lead pastor (left 2014); founder of Chyros Company; claimed in this episode to be a disciple of Ron Godwin. Self-identifies in audio as involved with ADL and Aspen Institute.
 
@@ -296,11 +296,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1608.1, A-1610.1, A-1610.2, C-2049, C-2050, C-2052, C-2053, C-2054, N-697, N-654, N-10473*
+*Related: A-1608.1, A-1610.1, A-1610.2, C-2049, C-2050, C-2052, C-2053, C-2054, N-448, N-409, N-10402*
 
 ---
 
-**N-697** Ron Godwin
+**N-448** Ron Godwin
 
 Identified in this episode as Johnny Moore's mentor and as a declared disciple of Sun Myung Moon; retired from Liberty University in October 2014.
 
@@ -309,11 +309,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1614.1, C-2055, N-696, N-654, N-10473*
+*Related: A-1614.1, C-2055, N-447, N-409, N-10402*
 
 ---
 
-**N-654** Sun Myung Moon
+**N-409** Sun Myung Moon
 
 Founder of the Unification Church (transcript spells inconsistently as "Sunyong Moon" / "Sun Young Moon" / "Sun Myung Moon"); source of the three disciples quotation.
 
@@ -322,11 +322,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1614.1, C-2055, C-2056, N-697, N-10473*
+*Related: A-1614.1, C-2055, C-2056, N-448, N-10402*
 
 ---
 
-**N-699** Jerry Falwell Jr.
+**N-449** Jerry Falwell Jr.
 
 Identified in this episode as ousted from Liberty University; co-established the Falwell Center with Charlie Kirk in 2021; replaced by Jerry Prevo.
 
@@ -335,11 +335,11 @@ Claim Count: 0 (artifacts about him are indirectly tied to Liberty University op
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1608.1, N-702, N-10473*
+*Related: A-1608.1, N-452, N-10402*
 
 ---
 
-**N-700** Mark Burnett
+**N-450** Mark Burnett
 
 Reality TV producer named in this episode as Johnny Moore's employer in Hollywood (post-2015) and chairperson of MGM (acquired Summerhouse).
 
@@ -348,11 +348,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-2071, C-2072, N-696, Erica Kirk*
+*Related: C-2071, C-2072, N-447, Erica Kirk*
 
 ---
 
-**N-701** Unnamed Likud Knesset Speaker
+**N-451** Unnamed Likud Knesset Speaker
 
 Knesset member who delivered the speech declaring Tucker Carlson and Candace Owens enemies of Israel; name not stated in episode.
 
@@ -361,11 +361,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1611.1, C-2057, N-10478*
+*Related: A-1611.1, C-2057, N-10407*
 
 ---
 
-**N-702** Jerry Prevo
+**N-452** Jerry Prevo
 
 Identified in this episode as named successor to Jerry Falwell Jr. at Liberty University; first act allegedly was firing Charlie Kirk and reinstating Johnny Moore on a monthly retainer.
 
@@ -374,11 +374,11 @@ Claim Count: 0 (host-stated, no artifact)
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-699, N-696*
+*Related: N-449, N-447*
 
 ---
 
-**N-703** Tetsuya Yamagami
+**N-453** Tetsuya Yamagami
 
 Identified in this episode as the 41-year-old assassin of Shinzō Abe; stated to have been driven to destitution by the Unification Church's influence on his mother.
 
@@ -387,11 +387,11 @@ Claim Count: 0 (host narrative, NYT artifact references the broader pattern)
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-704, N-654*
+*Related: N-454, N-409*
 
 ---
 
-**N-704** Shinzō Abe
+**N-454** Shinzō Abe
 
 Longtime Prime Minister of Japan; assassinated; family identified as having long-running ties to the Unification Church.
 
@@ -400,11 +400,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1609.1, N-703*
+*Related: A-1609.1, N-453*
 
 ---
 
-**N-10473** Unification Church → Liberty University Lineage (Mooney 2.0 Thesis)
+**N-10402** Unification Church → Liberty University Lineage (Mooney 2.0 Thesis)
 
 Persistent investigative target tracking the alleged lineage Sun Myung Moon → Ron Godwin → Johnny Moore / Andrew Kolbett as it relates to Turning Point Faith / Falwell Center.
 
@@ -413,11 +413,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1608.1, A-1610.1, A-1610.2, A-1614.1, C-2049, C-2050, C-2055, C-2056, N-42, N-696, N-697, N-654*
+*Related: A-1608.1, A-1610.1, A-1610.2, A-1614.1, C-2049, C-2050, C-2055, C-2056, N-14, N-447, N-448, N-409*
 
 ---
 
-**N-10474** Erika Kirk Handler Thesis
+**N-10403** Erika Kirk Handler Thesis
 
 Persistent investigative target tracking the claim (originating in fan comment) that Erica Kirk acted as Charlie Kirk's handler and was instrumental in establishing the Falwell Center.
 
@@ -430,7 +430,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10475** Candace Owens Dream Vision of Andrew Kolbett
+**N-10404** Candace Owens Dream Vision of Andrew Kolbett
 
 Persistent investigative target tracking the host's reported recurring dream in which Charlie Kirk appeared and revealed Andrew Kolbett's face; framed by host as prophetic of Kolbett's role in PR operations.
 
@@ -439,11 +439,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1607.1, C-2047, C-2048, N-42*
+*Related: A-1607.1, C-2047, C-2048, N-14*
 
 ---
 
-**N-10476** September 10 Plot Against Candace Owens
+**N-10405** September 10 Plot Against Candace Owens
 
 Persistent investigative target tracking the host's statement that a murder plot against her was discovered on September 10 (approximately one year after Charlie Kirk's assassination) and is "still making its way through the courts." Not artifact-supported in this episode.
 
@@ -456,7 +456,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10477** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
 
 Persistent investigative target tracking the pattern of attacks on Megyn Kelly for refusing to publicly condemn the host, culminating in a Ben Shapiro on-stage accusation of cowardice at Turning Point Amfest.
 
@@ -469,7 +469,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10478** Knesset Declaration of US Commentators as Israeli Enemies
+**N-10407** Knesset Declaration of US Commentators as Israeli Enemies
 
 Persistent investigative target tracking the Likud party speech in the Knesset naming Tucker Carlson and Candace Owens as enemies of Israel.
 
@@ -478,11 +478,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1611.1, C-2057, N-701, N-10479*
+*Related: A-1611.1, C-2057, N-451, N-10408*
 
 ---
 
-**N-10479** Turning Point USA Estate Planning Solicitation
+**N-10408** Turning Point USA Estate Planning Solicitation
 
 Persistent investigative target tracking the claim that Turning Point USA has begun soliciting 401k pledges, property, and estate/will inclusions from donors, with the host drawing an explicit comparison to the Unification Church's financial pattern in Japan.
 
@@ -504,9 +504,9 @@ Claim Timestamp: 00:07:11–00:08:04
 Claim: The host presented a text message she sent to Andrew Kolbett describing a recurring dream in which Charlie Kirk stated he was betrayed, that "they" were hiding what happened "to my left," and that Kolbett "know[s] much more than you've said publicly or privately."
 
 Anchored Artifacts: A-1607.1
-Mentions: N-42, N-3, N-1
+Mentions: N-14, N-3, N-1
 
-Related Nodes: N-10475
+Related Nodes: N-10404
 
 Investigative Direction: Obtain verification of the text exchange; identify the date and any reply correspondence; corroborate with any other recipients who received analogous communications.
 
@@ -519,9 +519,9 @@ Claim Timestamp: 00:08:04
 Claim: The host stated that Andrew Kolbett did not respond to her text message and that this was the last time they spoke.
 
 Anchored Artifacts: A-1607.1 (by contextual reference within the same exchange)
-Mentions: N-42, N-3
+Mentions: N-14, N-3
 
-Related Nodes: N-10475
+Related Nodes: N-10404
 
 Investigative Direction: Verify non-reply independently; cross-check any subsequent communication records between the two parties.
 
@@ -534,9 +534,9 @@ Claim Timestamp: 00:23:45–00:24:10
 Claim: Christianity Today published that "Johnny Moore was only 14 when he first stayed in the dorms at Liberty University" and that he had remained at the school founded by Jerry Falwell Senior.
 
 Anchored Artifacts: A-1608.1
-Mentions: N-696, N-699
+Mentions: N-447, N-449
 
-Related Nodes: N-10473
+Related Nodes: N-10402
 
 Investigative Direction: Retrieve the original Christianity Today article; identify author, publication date, and full article context.
 
@@ -549,9 +549,9 @@ Claim Timestamp: 00:23:45–00:24:10
 Claim: Christianity Today reported that Moore and his single-mother family briefly lived in Liberty University dorms after his parents' divorce and a temporary stretch of homelessness.
 
 Anchored Artifacts: A-1608.1
-Mentions: N-696
+Mentions: N-447
 
-Related Nodes: N-10473
+Related Nodes: N-10402
 
 Investigative Direction: Retrieve original Christianity Today article and corroborate against any independent biographical sources.
 
@@ -564,7 +564,7 @@ Claim Timestamp: 00:12:48–00:13:40
 Claim: The New York Times reported that an internal audit by Japan's Liberal Democratic Party found approximately 180 elected lawmakers (almost half of the party's parliamentary membership) had accepted donations from or attended events of the Unification Church and related organizations.
 
 Anchored Artifacts: A-1609.1
-Mentions: N-654, N-704
+Mentions: N-409, N-454
 
 
 Investigative Direction: Locate the cited New York Times article; verify exact figures and any subsequent party responses.
@@ -578,9 +578,9 @@ Claim Timestamp: 00:21:30–00:22:43
 Claim: In audio played on the episode, Johnny Moore stated he is "a part of the ADL and Aspen Institute civil society… in fellowship."
 
 Anchored Artifacts: A-1610.1
-Mentions: N-696
+Mentions: N-447
 
-Related Nodes: N-10473
+Related Nodes: N-10402
 
 Investigative Direction: Verify Moore's listed fellowships directly through ADL and Aspen Institute public records.
 
@@ -593,9 +593,9 @@ Claim Timestamp: 00:21:30–00:22:43
 Claim: Johnny Moore stated in the audio clip that he is on the advisory board for the Aspen Institute and ADL civil society fellowship.
 
 Anchored Artifacts: A-1610.1
-Mentions: N-696
+Mentions: N-447
 
-Related Nodes: N-10473
+Related Nodes: N-10402
 
 Investigative Direction: Verify advisory board membership through both organizations' published directories.
 
@@ -608,9 +608,9 @@ Claim Timestamp: 00:22:43–00:23:15
 Claim: Johnny Moore stated in audio that he is committed to "building a great wall of Christian Zionism all over the world to push back the forces of anti-semitism."
 
 Anchored Artifacts: A-1610.2
-Mentions: N-696
+Mentions: N-447
 
-Related Nodes: N-10473
+Related Nodes: N-10402
 
 Investigative Direction: Identify the original venue and date of this speech; verify exact wording through primary source.
 
@@ -623,9 +623,9 @@ Claim Timestamp: 00:25:34–00:26:20
 Claim: The host presented a Sun Myung Moon quotation declaring Ron Godwin to be one of three disciples, charged with multiplying their own disciples.
 
 Anchored Artifacts: A-1614.1
-Mentions: N-654, N-697
+Mentions: N-409, N-448
 
-Related Nodes: N-10473
+Related Nodes: N-10402
 
 Investigative Direction: Retrieve the primary source (Unification Church publication, sermon, or recorded address) containing this declaration; verify date and venue.
 
@@ -638,9 +638,9 @@ Claim Timestamp: 00:25:34–00:26:20
 Claim: The host presented a Sun Myung Moon quotation stating: "Each one of you will put yourself in Jesus's position and multiply three disciples of your own."
 
 Anchored Artifacts: A-1614.1
-Mentions: N-654, N-697
+Mentions: N-409, N-448
 
-Related Nodes: N-10473
+Related Nodes: N-10402
 
 Investigative Direction: Retrieve primary source; verify whether this directive was organizational doctrine or rhetorical.
 
@@ -653,9 +653,9 @@ Claim Timestamp: 00:34:41–00:35:36
 Claim: An unidentified Likud party member, speaking in the Knesset, declared Tucker Carlson and Candace Owens "a new enemy rising from within" the West and accused them of "intellectual vandalism."
 
 Anchored Artifacts: A-1611.1
-Mentions: N-701, N-50, N-3
+Mentions: N-451, N-22, N-3
 
-Related Nodes: N-10478
+Related Nodes: N-10407
 
 Investigative Direction: Identify the Knesset speaker; obtain Knesset record of the speech; verify date and verbatim transcript.
 
@@ -668,9 +668,9 @@ Claim Timestamp: 00:38:50–00:41:18
 Claim: Megyn Kelly stated in interview that pro-Israel Jewish friends sent her notes thanking her for making them feel safer, and that the same people subsequently turned against her and called her an anti-Semite.
 
 Anchored Artifacts: A-1612.1
-Mentions: N-75
+Mentions: N-46
 
-Related Nodes: N-10477
+Related Nodes: N-10406
 
 Investigative Direction: Obtain full interview transcript from Tucker Carlson show; identify named individuals if possible.
 
@@ -683,9 +683,9 @@ Claim Timestamp: 00:38:50–00:41:18
 Claim: Megyn Kelly stated in interview that she was accused of anti-Semitism specifically because she would not denounce Candace Owens.
 
 Anchored Artifacts: A-1612.1
-Mentions: N-3, N-75
+Mentions: N-3, N-46
 
-Related Nodes: N-10477
+Related Nodes: N-10406
 
 Investigative Direction: Identify accusers; obtain interview transcript.
 
@@ -698,9 +698,9 @@ Claim Timestamp: 00:38:50–00:41:18
 Claim: Megyn Kelly stated in interview that Ben Shapiro called her a coward at the Turning Point Amfest event in December for her refusal to denounce Candace Owens.
 
 Anchored Artifacts: A-1612.1
-Mentions: N-3, N-75, N-133
+Mentions: N-3, N-46, N-97
 
-Related Nodes: N-10477
+Related Nodes: N-10406
 
 Investigative Direction: Obtain video of Amfest remarks; verify date, exact wording, and surrounding context.
 
@@ -715,7 +715,7 @@ Claim: A top comment from a user identified as "count" claimed that "Erika is th
 Anchored Artifacts: A-1613.1
 Mentions: N-1, N-2
 
-Related Nodes: N-10474
+Related Nodes: N-10403
 
 Investigative Direction: Requires corroboration through independent sources documenting Erica Kirk's professional role in establishing the Falwell Center. Flag as currently unsubstantiated beyond fan commentary.
 
@@ -728,7 +728,7 @@ Claim Timestamp: 00:47:35–00:48:56
 Claim: A commenter expressed being "heartbroken and filled with rage" and asked "How does Andrew Kovette sleep at night?"
 
 Anchored Artifacts: A-1613.2
-Mentions: N-42
+Mentions: N-14
 
 
 Investigative Direction: No investigative direction; comment is rhetorical and emotional, not falsifiable.
@@ -841,7 +841,7 @@ Claim Timestamp: 00:19:23–00:20:09
 Claim: The host stated that Johnny Moore went to Hollywood in 2015 to work with Mark Burnett.
 
 Anchored Artifacts: (none – host statement)
-Mentions: N-696, N-700
+Mentions: N-447, N-450
 
 
 Investigative Direction: Verify employment relationship through public records or business registries. *Flag: Claim failed artifact anchor test; inscribed under host assertion only.*
@@ -855,7 +855,7 @@ Claim Timestamp: 00:20:09
 Claim: The host stated that when Mark Burnett took over MGM as chairperson, the company acquired Summerhouse.
 
 Anchored Artifacts: (none – host statement)
-Mentions: N-700
+Mentions: N-450
 
 
 Investigative Direction: Verify MGM chairmanship and Summerhouse acquisition through public corporate records. *Flag: Claim failed artifact anchor test; inscribed under host assertion only.*
@@ -871,7 +871,7 @@ Claim: The host stated that approximately one year after Charlie Kirk's assassin
 Anchored Artifacts: (none presented in this episode)
 Mentions: N-3, N-1
 
-Related Nodes: N-10476
+Related Nodes: N-10405
 
 Investigative Direction: Identify the court proceeding, jurisdiction, and any public filings or DOJ announcements. *Flag: Claim failed artifact anchor test; serious allegation requires verification.*
 
@@ -885,7 +885,7 @@ Claim: The host stated that Turning Point USA has evolved from soliciting one-ti
 
 Anchored Artifacts: (none presented in this episode)
 
-Related Nodes: N-10479
+Related Nodes: N-10408
 
 Investigative Direction: Review Turning Point USA's publicly available donation solicitations, IRS Form 990 filings, and any state charitable solicitation registrations. *Flag: Claim failed artifact anchor test; requires documentary corroboration.*
 

@@ -84,8 +84,8 @@
             "C-3126"
           ],
           "related_nodes": [
-            "N-133",
-            "N-11147"
+            "N-97",
+            "N-10748"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -292,8 +292,8 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-133",
-            "N-11147"
+            "N-97",
+            "N-10748"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -312,8 +312,8 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-133",
-            "N-11147"
+            "N-97",
+            "N-10748"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -333,8 +333,8 @@
           "related_nodes": [
             "N-3",
             "N-1",
-            "N-133",
-            "N-11147"
+            "N-97",
+            "N-10748"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -349,8 +349,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11147",
-      "ref": "N-11147",
+      "@id": "N-10748",
+      "ref": "N-10748",
       "name": "Ben Shapiro 9/10 Lunch Meeting Identification",
       "type": "investigation_target",
       "description": "Persistent unresolved investigation target: identification of the person(s) with whom Ben Shapiro was meeting in Los Angeles on September 10, 2025, when Charlie Kirk was shot. Host has named Gary Javitch (caption: Jabitch/Jabach; spelling unverified) as the alleged companion; the host's bounty and email-tip pipeline are referenced but no specific source document is shown.",
@@ -415,8 +415,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
+      "@id": "N-97",
+      "ref": "N-97",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
@@ -431,8 +431,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-168",
-      "ref": "N-168",
+      "@id": "N-118",
+      "ref": "N-118",
       "name": "Marissa Strait",
       "type": "person",
       "description": "PragerU host noted in episode; mentioned as having worked for IDF intelligence and platform used by Xaviaer DuRousseau for Hamptons response video.",
@@ -447,8 +447,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-278",
-      "ref": "N-278",
+      "@id": "N-197",
+      "ref": "N-197",
       "name": "David Horowitz",
       "type": "person",
       "description": "Activist; referenced on air as initial conduit between Candace and Kanye post-April 2018 tweet.",
@@ -463,8 +463,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-607",
-      "ref": "N-607",
+      "@id": "N-374",
+      "ref": "N-374",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Mentioned in a viewer comment the host answers dismissively.",
@@ -479,8 +479,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-641",
-      "ref": "N-641",
+      "@id": "N-399",
+      "ref": "N-399",
       "name": "Steve Bannon",
       "type": "person",
       "description": "Former Breitbart chairman referenced via Amfest audio clip describing Ben Shapiro's pattern of attempted hostile takeovers of conservative organizations.",
@@ -495,8 +495,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-890",
-      "ref": "N-890",
+      "@id": "N-557",
+      "ref": "N-557",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
@@ -511,8 +511,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-815",
-      "ref": "N-815",
+      "@id": "N-523",
+      "ref": "N-523",
       "name": "Gayle King",
       "type": "person",
       "description": "First named by the host at 00:43:01 in episode 131.",
@@ -547,7 +547,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-133"
+        "N-97"
       ]
     },
     {
@@ -602,7 +602,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-607"
+        "N-374"
       ]
     },
     {
@@ -621,7 +621,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-168"
+        "N-118"
       ]
     },
     {
@@ -688,14 +688,14 @@
         "A-2181.1"
       ],
       "related_nodes": [
-        "N-11147"
+        "N-10748"
       ],
       "tags": [],
       "claim_timestamp": "00:18:20",
       "investigative_direction": "Obtain the original Ben Shapiro audio segment in full; identify which Ben Shapiro security personnel are referenced.",
       "mentions_person_refs": [
         "N-1",
-        "N-133"
+        "N-97"
       ]
     },
     {
@@ -708,14 +708,14 @@
         "A-2181.1"
       ],
       "related_nodes": [
-        "N-11147"
+        "N-10748"
       ],
       "tags": [],
       "claim_timestamp": "00:18:20",
       "investigative_direction": "Obtain the full original Ben Shapiro statement; cross-reference with the Ronald Reagan Library event schedule (which the host states was canceled later that evening at 6:00 p.m. in Simi Valley).",
       "mentions_person_refs": [
         "N-1",
-        "N-133"
+        "N-97"
       ]
     },
     {
@@ -732,9 +732,9 @@
       "claim_timestamp": "00:06:03",
       "investigative_direction": "Obtain the full AmFest segment; verify exact wording.",
       "mentions_person_refs": [
-        "N-278",
-        "N-641",
-        "N-133"
+        "N-197",
+        "N-399",
+        "N-97"
       ]
     },
     {
@@ -752,7 +752,7 @@
       "investigative_direction": "Obtain the full Paramount Tactical segment; cross-reference with any Daily Mail editorial correspondence.",
       "mentions_person_refs": [
         "N-2",
-        "N-890"
+        "N-557"
       ]
     },
     {
@@ -837,7 +837,7 @@
       "claim_timestamp": "00:41:38",
       "investigative_direction": "Obtain the full Holker interview segment; cross-reference with official autopsy findings.",
       "mentions_person_refs": [
-        "N-815"
+        "N-523"
       ]
     },
     {
@@ -854,7 +854,7 @@
       "claim_timestamp": "00:44:07",
       "investigative_direction": "Obtain the full CBS / Gayle King segment; obtain any documentary record of the NDA demand.",
       "mentions_person_refs": [
-        "N-815"
+        "N-523"
       ]
     },
     {
@@ -871,7 +871,7 @@
       "claim_timestamp": "00:44:07",
       "investigative_direction": "Obtain the full CBS / Gayle King segment; cross-reference with any contemporaneous family statements.",
       "mentions_person_refs": [
-        "N-815"
+        "N-523"
       ]
     },
     {
@@ -890,7 +890,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-815"
+        "N-523"
       ]
     },
     {
@@ -937,7 +937,7 @@
         "A-2524.1"
       ],
       "related_nodes": [
-        "N-11147"
+        "N-10748"
       ],
       "tags": [],
       "claim_timestamp": "00:19:05",
@@ -953,7 +953,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-133",
+        "N-97",
         "N-1"
       ]
     },
@@ -967,7 +967,7 @@
         "A-2524.2"
       ],
       "related_nodes": [
-        "N-11147"
+        "N-10748"
       ],
       "tags": [],
       "claim_timestamp": "00:25:07",
@@ -977,7 +977,7 @@
       "uncertainty_note": "Biography and donation records cited but not shown on air. The companion's surname is not asserted here: the transcript has \"Jabitch\"/\"Jabach\" and public sources give Gary Javitch (Omaha, Nebraska AIPAC); a video spelling check comes before any id.",
       "mentions_person_refs": [
         "N-3",
-        "N-133"
+        "N-97"
       ]
     },
     {
@@ -990,7 +990,7 @@
         "A-2524.3"
       ],
       "related_nodes": [
-        "N-11147"
+        "N-10748"
       ],
       "tags": [],
       "claim_timestamp": "00:26:05",
@@ -1000,7 +1000,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-133"
+        "N-97"
       ]
     }
   ],

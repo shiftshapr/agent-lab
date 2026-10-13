@@ -31,8 +31,8 @@
             "C-2048"
           ],
           "related_nodes": [
-            "N-42",
-            "N-10475"
+            "N-14",
+            "N-10404"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -59,9 +59,9 @@
             "C-2050"
           ],
           "related_nodes": [
-            "N-696",
-            "N-699",
-            "N-10473"
+            "N-447",
+            "N-449",
+            "N-10402"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -87,7 +87,7 @@
             "C-2051"
           ],
           "related_nodes": [
-            "N-704"
+            "N-454"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -114,8 +114,8 @@
             "C-2053"
           ],
           "related_nodes": [
-            "N-696",
-            "N-10473"
+            "N-447",
+            "N-10402"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -133,8 +133,8 @@
             "C-2054"
           ],
           "related_nodes": [
-            "N-696",
-            "N-10473"
+            "N-447",
+            "N-10402"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -160,8 +160,8 @@
             "C-2057"
           ],
           "related_nodes": [
-            "N-701",
-            "N-10478"
+            "N-451",
+            "N-10407"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -189,7 +189,7 @@
             "C-2060"
           ],
           "related_nodes": [
-            "N-10477"
+            "N-10406"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -215,7 +215,7 @@
             "C-2061"
           ],
           "related_nodes": [
-            "N-10474"
+            "N-10403"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -233,7 +233,7 @@
             "C-2062"
           ],
           "related_nodes": [
-            "N-42"
+            "N-14"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -356,9 +356,9 @@
             "C-2056"
           ],
           "related_nodes": [
-            "N-697",
-            "N-654",
-            "N-10473"
+            "N-448",
+            "N-409",
+            "N-10402"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -419,8 +419,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Subject of host's text exchange about post-assassination dream of Charlie Kirk; previously identified in earlier episodes as orchestrating PR operations against the host.",
@@ -438,14 +438,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10473",
-        "N-10474"
+        "N-10402",
+        "N-10403"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-696",
-      "ref": "N-696",
+      "@id": "N-447",
+      "ref": "N-447",
       "name": "Johnny Moore",
       "type": "person",
       "description": "Former Liberty University lead pastor (left 2014); founder of Chyros Company; claimed in this episode to be a disciple of Ron Godwin. Self-identifies in audio as involved with ADL and Aspen Institute.",
@@ -467,15 +467,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-697",
-        "N-654",
-        "N-10473"
+        "N-448",
+        "N-409",
+        "N-10402"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-697",
-      "ref": "N-697",
+      "@id": "N-448",
+      "ref": "N-448",
       "name": "Ron Godwin",
       "type": "person",
       "description": "Identified in this episode as Johnny Moore's mentor and as a declared disciple of Sun Myung Moon; retired from Liberty University in October 2014.",
@@ -491,15 +491,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-696",
-        "N-654",
-        "N-10473"
+        "N-447",
+        "N-409",
+        "N-10402"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-654",
-      "ref": "N-654",
+      "@id": "N-409",
+      "ref": "N-409",
       "name": "Sun Myung Moon",
       "type": "person",
       "description": "Founder of the Unification Church (transcript spells inconsistently as \"Sunyong Moon\" / \"Sun Young Moon\" / \"Sun Myung Moon\"); source of the three disciples quotation.",
@@ -516,14 +516,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-697",
-        "N-10473"
+        "N-448",
+        "N-10402"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-699",
-      "ref": "N-699",
+      "@id": "N-449",
+      "ref": "N-449",
       "name": "Jerry Falwell Jr.",
       "type": "person",
       "description": "Identified in this episode as ousted from Liberty University; co-established the Falwell Center with Charlie Kirk in 2021; replaced by Jerry Prevo.",
@@ -537,14 +537,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-702",
-        "N-10473"
+        "N-452",
+        "N-10402"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-700",
-      "ref": "N-700",
+      "@id": "N-450",
+      "ref": "N-450",
       "name": "Mark Burnett",
       "type": "person",
       "description": "Reality TV producer named in this episode as Johnny Moore's employer in Hollywood (post-2015) and chairperson of MGM (acquired Summerhouse).",
@@ -559,13 +559,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-696"
+        "N-447"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-701",
-      "ref": "N-701",
+      "@id": "N-451",
+      "ref": "N-451",
       "name": "Unnamed Likud Knesset Speaker",
       "type": "person",
       "description": "Knesset member who delivered the speech declaring Tucker Carlson and Candace Owens enemies of Israel; name not stated in episode.",
@@ -581,13 +581,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10478"
+        "N-10407"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-702",
-      "ref": "N-702",
+      "@id": "N-452",
+      "ref": "N-452",
       "name": "Jerry Prevo",
       "type": "person",
       "description": "Identified in this episode as named successor to Jerry Falwell Jr. at Liberty University; first act allegedly was firing Charlie Kirk and reinstating Johnny Moore on a monthly retainer.",
@@ -599,14 +599,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-699",
-        "N-696"
+        "N-449",
+        "N-447"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-703",
-      "ref": "N-703",
+      "@id": "N-453",
+      "ref": "N-453",
       "name": "Tetsuya Yamagami",
       "type": "person",
       "description": "Identified in this episode as the 41-year-old assassin of Shinzō Abe; stated to have been driven to destitution by the Unification Church's influence on his mother.",
@@ -618,14 +618,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-704",
-        "N-654"
+        "N-454",
+        "N-409"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-704",
-      "ref": "N-704",
+      "@id": "N-454",
+      "ref": "N-454",
       "name": "Shinzō Abe",
       "type": "person",
       "description": "Longtime Prime Minister of Japan; assassinated; family identified as having long-running ties to the Unification Church.",
@@ -639,13 +639,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-703"
+        "N-453"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10473",
-      "ref": "N-10473",
+      "@id": "N-10402",
+      "ref": "N-10402",
       "name": "Unification Church → Liberty University Lineage (Mooney 2.0 Thesis)",
       "type": "investigation_target",
       "description": "Persistent investigative target tracking the alleged lineage Sun Myung Moon → Ron Godwin → Johnny Moore / Andrew Kolbett as it relates to Turning Point Faith / Falwell Center.",
@@ -667,16 +667,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-42",
-        "N-696",
-        "N-697",
-        "N-654"
+        "N-14",
+        "N-447",
+        "N-448",
+        "N-409"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10474",
-      "ref": "N-10474",
+      "@id": "N-10403",
+      "ref": "N-10403",
       "name": "Erika Kirk Handler Thesis",
       "type": "investigation_target",
       "description": "Persistent investigative target tracking the claim (originating in fan comment) that Erica Kirk acted as Charlie Kirk's handler and was instrumental in establishing the Falwell Center.",
@@ -694,8 +694,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10475",
-      "ref": "N-10475",
+      "@id": "N-10404",
+      "ref": "N-10404",
       "name": "Candace Owens Dream Vision of Andrew Kolbett",
       "type": "investigation_target",
       "description": "Persistent investigative target tracking the host's reported recurring dream in which Charlie Kirk appeared and revealed Andrew Kolbett's face; framed by host as prophetic of Kolbett's role in PR operations.",
@@ -712,13 +712,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-42"
+        "N-14"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10476",
-      "ref": "N-10476",
+      "@id": "N-10405",
+      "ref": "N-10405",
       "name": "September 10 Plot Against Candace Owens",
       "type": "investigation_target",
       "description": "Persistent investigative target tracking the host's statement that a murder plot against her was discovered on September 10 (approximately one year after Charlie Kirk's assassination) and is \"still making its way through the courts.\" Not artifact-supported in this episode.",
@@ -734,8 +734,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10477",
-      "ref": "N-10477",
+      "@id": "N-10406",
+      "ref": "N-10406",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
       "type": "investigation_target",
       "description": "Persistent investigative target tracking the pattern of attacks on Megyn Kelly for refusing to publicly condemn the host, culminating in a Ben Shapiro on-stage accusation of cowardice at Turning Point Amfest.",
@@ -755,8 +755,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10478",
-      "ref": "N-10478",
+      "@id": "N-10407",
+      "ref": "N-10407",
       "name": "Knesset Declaration of US Commentators as Israeli Enemies",
       "type": "investigation_target",
       "description": "Persistent investigative target tracking the Likud party speech in the Knesset naming Tucker Carlson and Candace Owens as enemies of Israel.",
@@ -772,14 +772,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-701",
-        "N-10479"
+        "N-451",
+        "N-10408"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10479",
-      "ref": "N-10479",
+      "@id": "N-10408",
+      "ref": "N-10408",
       "name": "Turning Point USA Estate Planning Solicitation",
       "type": "investigation_target",
       "description": "Persistent investigative target tracking the claim that Turning Point USA has begun soliciting 401k pledges, property, and estate/will inclusions from donors, with the host drawing an explicit comparison to the Unification Church's financial pattern in Japan.",
@@ -843,8 +843,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
@@ -859,8 +859,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-75",
-      "ref": "N-75",
+      "@id": "N-46",
+      "ref": "N-46",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
@@ -875,8 +875,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
+      "@id": "N-97",
+      "ref": "N-97",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
@@ -901,13 +901,13 @@
         "A-1607.1"
       ],
       "related_nodes": [
-        "N-10475"
+        "N-10404"
       ],
       "tags": [],
       "claim_timestamp": "00:07:11–00:08:04",
       "investigative_direction": "Obtain verification of the text exchange; identify the date and any reply correspondence; corroborate with any other recipients who received analogous communications.",
       "mentions_person_refs": [
-        "N-42",
+        "N-14",
         "N-3",
         "N-1"
       ]
@@ -920,13 +920,13 @@
       "claim": "The host stated that Andrew Kolbett did not respond to her text message and that this was the last time they spoke.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10475"
+        "N-10404"
       ],
       "tags": [],
       "claim_timestamp": "00:08:04",
       "investigative_direction": "Verify non-reply independently; cross-check any subsequent communication records between the two parties.",
       "mentions_person_refs": [
-        "N-42",
+        "N-14",
         "N-3"
       ]
     },
@@ -940,14 +940,14 @@
         "A-1608.1"
       ],
       "related_nodes": [
-        "N-10473"
+        "N-10402"
       ],
       "tags": [],
       "claim_timestamp": "00:23:45–00:24:10",
       "investigative_direction": "Retrieve the original Christianity Today article; identify author, publication date, and full article context.",
       "mentions_person_refs": [
-        "N-696",
-        "N-699"
+        "N-447",
+        "N-449"
       ]
     },
     {
@@ -960,13 +960,13 @@
         "A-1608.1"
       ],
       "related_nodes": [
-        "N-10473"
+        "N-10402"
       ],
       "tags": [],
       "claim_timestamp": "00:23:45–00:24:10",
       "investigative_direction": "Retrieve original Christianity Today article and corroborate against any independent biographical sources.",
       "mentions_person_refs": [
-        "N-696"
+        "N-447"
       ]
     },
     {
@@ -983,8 +983,8 @@
       "claim_timestamp": "00:12:48–00:13:40",
       "investigative_direction": "Locate the cited New York Times article; verify exact figures and any subsequent party responses.",
       "mentions_person_refs": [
-        "N-654",
-        "N-704"
+        "N-409",
+        "N-454"
       ]
     },
     {
@@ -997,13 +997,13 @@
         "A-1610.1"
       ],
       "related_nodes": [
-        "N-10473"
+        "N-10402"
       ],
       "tags": [],
       "claim_timestamp": "00:21:30–00:22:43",
       "investigative_direction": "Verify Moore's listed fellowships directly through ADL and Aspen Institute public records.",
       "mentions_person_refs": [
-        "N-696"
+        "N-447"
       ]
     },
     {
@@ -1016,13 +1016,13 @@
         "A-1610.1"
       ],
       "related_nodes": [
-        "N-10473"
+        "N-10402"
       ],
       "tags": [],
       "claim_timestamp": "00:21:30–00:22:43",
       "investigative_direction": "Verify advisory board membership through both organizations' published directories.",
       "mentions_person_refs": [
-        "N-696"
+        "N-447"
       ]
     },
     {
@@ -1035,13 +1035,13 @@
         "A-1610.2"
       ],
       "related_nodes": [
-        "N-10473"
+        "N-10402"
       ],
       "tags": [],
       "claim_timestamp": "00:22:43–00:23:15",
       "investigative_direction": "Identify the original venue and date of this speech; verify exact wording through primary source.",
       "mentions_person_refs": [
-        "N-696"
+        "N-447"
       ]
     },
     {
@@ -1054,14 +1054,14 @@
         "A-1614.1"
       ],
       "related_nodes": [
-        "N-10473"
+        "N-10402"
       ],
       "tags": [],
       "claim_timestamp": "00:25:34–00:26:20",
       "investigative_direction": "Retrieve the primary source (Unification Church publication, sermon, or recorded address) containing this declaration; verify date and venue.",
       "mentions_person_refs": [
-        "N-654",
-        "N-697"
+        "N-409",
+        "N-448"
       ]
     },
     {
@@ -1074,14 +1074,14 @@
         "A-1614.1"
       ],
       "related_nodes": [
-        "N-10473"
+        "N-10402"
       ],
       "tags": [],
       "claim_timestamp": "00:25:34–00:26:20",
       "investigative_direction": "Retrieve primary source; verify whether this directive was organizational doctrine or rhetorical.",
       "mentions_person_refs": [
-        "N-654",
-        "N-697"
+        "N-409",
+        "N-448"
       ]
     },
     {
@@ -1094,14 +1094,14 @@
         "A-1611.1"
       ],
       "related_nodes": [
-        "N-10478"
+        "N-10407"
       ],
       "tags": [],
       "claim_timestamp": "00:34:41–00:35:36",
       "investigative_direction": "Identify the Knesset speaker; obtain Knesset record of the speech; verify date and verbatim transcript.",
       "mentions_person_refs": [
-        "N-701",
-        "N-50",
+        "N-451",
+        "N-22",
         "N-3"
       ]
     },
@@ -1115,13 +1115,13 @@
         "A-1612.1"
       ],
       "related_nodes": [
-        "N-10477"
+        "N-10406"
       ],
       "tags": [],
       "claim_timestamp": "00:38:50–00:41:18",
       "investigative_direction": "Obtain full interview transcript from Tucker Carlson show; identify named individuals if possible.",
       "mentions_person_refs": [
-        "N-75"
+        "N-46"
       ]
     },
     {
@@ -1134,14 +1134,14 @@
         "A-1612.1"
       ],
       "related_nodes": [
-        "N-10477"
+        "N-10406"
       ],
       "tags": [],
       "claim_timestamp": "00:38:50–00:41:18",
       "investigative_direction": "Identify accusers; obtain interview transcript.",
       "mentions_person_refs": [
         "N-3",
-        "N-75"
+        "N-46"
       ]
     },
     {
@@ -1154,15 +1154,15 @@
         "A-1612.1"
       ],
       "related_nodes": [
-        "N-10477"
+        "N-10406"
       ],
       "tags": [],
       "claim_timestamp": "00:38:50–00:41:18",
       "investigative_direction": "Obtain video of Amfest remarks; verify date, exact wording, and surrounding context.",
       "mentions_person_refs": [
         "N-3",
-        "N-75",
-        "N-133"
+        "N-46",
+        "N-97"
       ]
     },
     {
@@ -1175,7 +1175,7 @@
         "A-1613.1"
       ],
       "related_nodes": [
-        "N-10474"
+        "N-10403"
       ],
       "tags": [],
       "claim_timestamp": "00:46:41–00:47:35",
@@ -1199,7 +1199,7 @@
       "claim_timestamp": "00:47:35–00:48:56",
       "investigative_direction": "No investigative direction; comment is rhetorical and emotional, not falsifiable.",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -1312,8 +1312,8 @@
       "claim_timestamp": "00:19:23–00:20:09",
       "investigative_direction": "Verify employment relationship through public records or business registries. *Flag: Claim failed artifact anchor test; inscribed under host assertion only.*",
       "mentions_person_refs": [
-        "N-696",
-        "N-700"
+        "N-447",
+        "N-450"
       ]
     },
     {
@@ -1328,7 +1328,7 @@
       "claim_timestamp": "00:20:09",
       "investigative_direction": "Verify MGM chairmanship and Summerhouse acquisition through public corporate records. *Flag: Claim failed artifact anchor test; inscribed under host assertion only.*",
       "mentions_person_refs": [
-        "N-700"
+        "N-450"
       ]
     },
     {
@@ -1339,7 +1339,7 @@
       "claim": "The host stated that approximately one year after Charlie Kirk's assassination, on September 10, a murder plot against her was discovered and that the matter is still proceeding through courts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10476"
+        "N-10405"
       ],
       "tags": [],
       "claim_timestamp": "00:35:36",
@@ -1357,7 +1357,7 @@
       "claim": "The host stated that Turning Point USA has evolved from soliciting one-time donations to soliciting pledges of 401k accounts, property, and inclusion in donors' wills and estate planning.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10479"
+        "N-10408"
       ],
       "tags": [],
       "claim_timestamp": "00:11:59–00:12:48",

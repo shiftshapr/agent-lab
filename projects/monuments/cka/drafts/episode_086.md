@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: e1354996fe0dca09feb5fcf6281cba63b17e90513ca05526f293f355bf11437c
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10642, N-10644, N-10645, N-10646, N-10647
-  - Reused Nodes Appearing: N-10151, N-1
+  - New Nodes Introduced: N-10569, N-10570, N-10571, N-10572, N-10573
+  - Reused Nodes Appearing: N-10085, N-1
   - (see registers)
 
 ## I. Meta-Data
@@ -32,7 +32,7 @@
 - Artifact Families Introduced: A-1912, A-1913, A-1914, A-1915, A-1916
 - Claim Range: C-2609–C-2625, C-3750
 - New People Nodes Introduced: none (Wave 2: local ids removed)
-- New Investigation Target Nodes Introduced: N-10642, N-10644, N-10645, N-10646
+- New Investigation Target Nodes Introduced: N-10569, N-10570, N-10571, N-10572
 - Existing Nodes Reused: Charlie Kirk, Erica Kirk, Candace Owens, Tyler Robinson, Tarro Farnsworth, Andrew Kolb, Dr. Lee Trotter, Justin Strife, Frank Carney, Matt Robinson, Robinson roommate, FBI, ATF, Turning Point USA, Utah County Attorney's Office (UCAO), Kash Patel, Governor Cox
 
 ---
@@ -59,7 +59,7 @@ Video Timestamp: 00:17:27–00:49:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (filing is shown on screen and read aloud at length)
 
-*Related: C-2609, C-2610, C-2611, C-2613, C-2614, C-2615, C-2616, C-2617, N-10642, N-10644, N-10646, CASE_1*
+*Related: C-2609, C-2610, C-2611, C-2613, C-2614, C-2615, C-2616, C-2617, N-10569, N-10570, N-10572, CASE_1*
 
 ---
 
@@ -73,7 +73,7 @@ Video Timestamp: 00:11:24–00:12:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full text read aloud)
 
-*Related: C-2618, C-2619, C-2625, N-10151*
+*Related: C-2618, C-2619, C-2625, N-10085*
 
 ---
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:41:49–00:43:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (transcript captured; network/station not specified)
 
-*Related: C-2612, N-10642*
+*Related: C-2612, N-10569*
 
 ---
 
@@ -101,7 +101,7 @@ Video Timestamp: 00:50:51–00:53:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read aloud; sender identity not disclosed)
 
-*Related: C-2620, N-10645*
+*Related: C-2620, N-10571*
 
 ---
 
@@ -139,7 +139,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 ## IV. Node Register
 
-**N-10642** Comparative Bullet Lead Analysis Revival
+**N-10569** Comparative Bullet Lead Analysis Revival
 
 Persistent question regarding the FBI's planned use of a forensic technique (CBLA/comparative bullet lead analysis) that the FBI discontinued in 2005 due to flawed scientific, statistical, and interpretive validity.
 
@@ -152,7 +152,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10151** Exit Wound / Bullet Trajectory Discrepancy
+**N-10085** Exit Wound / Bullet Trajectory Discrepancy
 
 Persistent inconsistency between Andrew Kolb's September 20, 2025 tweet (bullet found beneath skin), Andrew Kolb's reported September 23, 2025 verbal account (bullet traveled C2–C6, shattered in thorax), and Brian Harpool's later statement (fragmented in stomach/thorax).
 
@@ -165,7 +165,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10644** Defense Discovery Dumping Strategy
+**N-10570** Defense Discovery Dumping Strategy
 
 Persistent pattern alleged by host in which prosecution withheld key items (autopsy report, autopsy photographs, full forensic files) and delivered a ~600,000-file dump on March 12, 2026 – two months before the scheduled May 2026 preliminary hearing.
 
@@ -178,7 +178,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10645** July 14, 2025 Long Beach Flight
+**N-10571** July 14, 2025 Long Beach Flight
 
 Investigation target referenced by host as a "crucial date" tied to a flight involving Erica Kirk, Katherine Low Castro, Derek Niekerk, and Jonathan Barcello to Long Beach; viewer email adds geographic context via proximity to Los Alamitos Joint Forces Air Base.
 
@@ -191,7 +191,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10646** ATF Bullet-to-Gun Inconclusive Finding
+**N-10572** ATF Bullet-to-Gun Inconclusive Finding
 
 Persistent evidentiary gap documented in the defense filing: the ATF was unable to identify the autopsy-recovered bullet to the rifle allegedly tied to Tyler Robinson.
 
@@ -204,7 +204,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10647** Timpanogos Hospital Evidence Question
+**N-10573** Timpanogos Hospital Evidence Question
 
 Investigation target referenced at episode end – host indicates a planned follow-up on Timpanogos hospital staff, Elizabeth Lane's hospital-lockdown commentary, and the question of whether Charlie Kirk was initially taken to Utah Valley or Timpanogos.
 
@@ -240,9 +240,9 @@ Claim Timestamp: 00:37:11
 Claim: The ATF was unable to identify the bullet recovered at autopsy to the rifle allegedly tied to Tyler Robinson, according to an ATF summary report provided to the defense.
 
 Anchored Artifacts: A-1912.1
-Mentions: N-69
+Mentions: N-40
 
-Related Nodes: N-10646
+Related Nodes: N-10572
 
 Investigative Direction: Obtain full ATF case file and protocols referenced as outstanding in the filing; verify whether the conclusion is "inconclusive" or a definitive non-match.
 
@@ -256,7 +256,7 @@ Claim: The state has indicated that the FBI is in the process of conducting a se
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: N-10642
+Related Nodes: N-10569
 
 Investigative Direction: Obtain status filing or prosecutorial disclosure regarding timeline of FBI secondary analyses.
 
@@ -270,7 +270,7 @@ Claim: The FBI discontinued its comparative bullet lead analysis program in 2005
 
 Anchored Artifacts: A-1914.1
 
-Related Nodes: N-10642
+Related Nodes: N-10569
 
 Investigative Direction: Cross-reference the FBI's 2005 NAS report and PCast/NIST forensic science reviews; confirm current formal FBI policy position on CBLA use.
 
@@ -284,7 +284,7 @@ Claim: The autopsy report, completed September 16, 2025, was not provided to the
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: N-10644
+Related Nodes: N-10570
 
 Investigative Direction: Obtain defense correspondence log and prosecution's transmission records to verify dates.
 
@@ -298,7 +298,7 @@ Claim: Autopsy photographs taken on September 10, 2025 were not produced to the 
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: N-10644
+Related Nodes: N-10570
 
 Investigative Direction: Obtain defense correspondence log and prosecution's transmission records to verify dates.
 
@@ -312,7 +312,7 @@ Claim: At the March 12, 2026 conference, the state provided the defense with a h
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: N-10644
+Related Nodes: N-10570
 
 Investigative Direction: Cross-reference the filing's exhibit list and any hard-drive transmission log.
 
@@ -326,7 +326,7 @@ Claim: Prior to the March 12, 2026 conference, the defense had received approxim
 
 Anchored Artifacts: A-1912.1
 
-Related Nodes: N-10644
+Related Nodes: N-10570
 
 Investigative Direction: Cross-reference with case docket and prosecution's discovery log.
 
@@ -339,7 +339,7 @@ Claim Timestamp: 00:20:35
 Claim: The state indicated it intends to present at the preliminary hearing three categories of evidence: conclusory forensic DNA and ballistics reports authored by the FBI and ATF; phone and social media data testimony; and testimony by Tyler Robinson's parents and roommate.
 
 Anchored Artifacts: A-1912.1
-Mentions: N-69
+Mentions: N-40
 
 Related Nodes:
 
@@ -354,9 +354,9 @@ Claim Timestamp: 00:11:24
 Claim: In a September 20, 2025 X/Twitter post, Andrew Kolb wrote that the coroner found the bullet just beneath Charlie Kirk's skin.
 
 Anchored Artifacts: A-1913.1
-Mentions: N-1, N-42
+Mentions: N-1, N-14
 
-Related Nodes: N-10151
+Related Nodes: N-10085
 
 Investigative Direction: Obtain and verify the original X post timestamp, account status, and the underlying autopsy report's final disposition language.
 
@@ -369,9 +369,9 @@ Claim Timestamp: 00:12:07
 Claim: In the same September 20, 2025 post, Andrew Kolb attributed a quote to a surgeon who worked on Charlie Kirk at the hospital stating that Kirk's bone density was so healthy that he was "like the man of steel" and that it was a miracle no one behind Kirk was struck.
 
 Anchored Artifacts: A-1913.1
-Mentions: N-1, N-42
+Mentions: N-1, N-14
 
-Related Nodes: N-10151
+Related Nodes: N-10085
 
 Investigative Direction: Identify and depose the surgeon; compare quote against operative notes and any recorded statements.
 
@@ -385,7 +385,7 @@ Claim: Long Beach Airport is approximately a 10–15 minute drive from a Joint F
 
 Anchored Artifacts: A-1915.1
 
-Related Nodes: N-10645
+Related Nodes: N-10571
 
 Investigative Direction: Confirm base location via public military base directories; cross-reference flight manifests for July 14, 2025.
 
@@ -412,7 +412,7 @@ Claim Timestamp: 00:59:52
 Claim: Kim Haven asserted in her YouTube comment that Frank Turek is "absolutely a liar" regarding his hospital account.
 
 Anchored Artifacts: A-1916.1
-Mentions: N-16
+Mentions: N-7
 
 Related Nodes:
 
@@ -427,7 +427,7 @@ Claim Timestamp: 00:59:52
 Claim: The host concurs with Kim Haven's assessment that Frank Turek's account of announcing "He's dead. He's dead" within ~30 minutes of hospital arrival is implausible.
 
 Anchored Artifacts: A-1916.1
-Mentions: N-16
+Mentions: N-7
 
 Related Nodes:
 
@@ -442,9 +442,9 @@ Claim Timestamp: 00:40:25
 Claim: The host concurs that the FBI's planned revival of comparative bullet lead analysis – a technique discontinued in 2005 – in the Tyler Robinson case is indicative of federal corruption.
 
 Anchored Artifacts: A-1912.1, A-1914.1
-Mentions: N-69
+Mentions: N-40
 
-Related Nodes: N-10642
+Related Nodes: N-10569
 
 Investigative Direction: Review any FBI lab protocol authorizing CBLA reintroduction; compare to 2009 NAS forensic science recommendations.
 
@@ -457,9 +457,9 @@ Claim Timestamp: 00:09:57
 Claim: The host rejects the medical plausibility of Andrew Kolb's "man of steel"/bone-density framing in the September 20, 2025 tweet, asserting it is not how serious trauma surgeons communicate.
 
 Anchored Artifacts: A-1913.1
-Mentions: N-42
+Mentions: N-14
 
-Related Nodes: N-10151
+Related Nodes: N-10085
 
 Investigative Direction: Obtain forensic pathology review of any surgeon communications; verify whether such a quote was ever formally attested.
 

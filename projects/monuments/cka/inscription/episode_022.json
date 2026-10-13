@@ -31,7 +31,7 @@
             "C-1528"
           ],
           "related_nodes": [
-            "N-10269"
+            "N-10203"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -59,9 +59,9 @@
             "C-1531"
           ],
           "related_nodes": [
-            "N-129",
-            "N-291",
-            "N-10271"
+            "N-94",
+            "N-204",
+            "N-10205"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -87,8 +87,8 @@
             "C-1532"
           ],
           "related_nodes": [
-            "N-50",
-            "N-10270"
+            "N-22",
+            "N-10204"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -106,8 +106,8 @@
             "C-1533"
           ],
           "related_nodes": [
-            "N-50",
-            "N-10270"
+            "N-22",
+            "N-10204"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -134,9 +134,9 @@
             "C-1541"
           ],
           "related_nodes": [
-            "N-42",
-            "N-50",
-            "N-293"
+            "N-14",
+            "N-22",
+            "N-205"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -162,8 +162,8 @@
             "C-1538"
           ],
           "related_nodes": [
-            "N-67",
-            "N-50"
+            "N-38",
+            "N-22"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -189,11 +189,11 @@
             "C-1539"
           ],
           "related_nodes": [
-            "N-67",
-            "N-68",
-            "N-50",
-            "N-293",
-            "N-298"
+            "N-38",
+            "N-39",
+            "N-22",
+            "N-205",
+            "N-208"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -211,9 +211,9 @@
             "C-1540"
           ],
           "related_nodes": [
-            "N-67",
-            "N-68",
-            "N-50",
+            "N-38",
+            "N-39",
+            "N-22",
             "N-1"
           ],
           "tags": [],
@@ -232,8 +232,8 @@
             "C-1541"
           ],
           "related_nodes": [
-            "N-67",
-            "N-293",
+            "N-38",
+            "N-205",
             "N-4"
           ],
           "tags": [],
@@ -261,8 +261,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-50",
-            "N-10272"
+            "N-22",
+            "N-10206"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -288,7 +288,7 @@
             "C-1536"
           ],
           "related_nodes": [
-            "N-102"
+            "N-69"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -338,7 +338,7 @@
             "C-1544"
           ],
           "related_nodes": [
-            "N-10269"
+            "N-10203"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -364,8 +364,8 @@
             "C-1543"
           ],
           "related_nodes": [
-            "N-42",
-            "N-50"
+            "N-14",
+            "N-22"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -380,8 +380,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "FBI Director referenced in Daily Mail headline (A-1297.1) as having shut down a foreign intelligence probe related to Charlie Kirk's assassination. Investigative target due to executive-level decisions regarding investigative scope.",
@@ -399,8 +399,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-129",
-      "ref": "N-129",
+      "@id": "N-94",
+      "ref": "N-94",
       "name": "Derek Maxfield",
       "type": "person",
       "description": "Co-owner (with wife Shirlene Maxfield) of plane N888KG that departed Provo at 1:20 p.m. Mountain time on 9/10; issued public statement on 9/11 defending the flight's innocuousness. Investigative target for manifest verification and potential federal coordination.",
@@ -418,13 +418,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10271"
+        "N-10205"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-291",
-      "ref": "N-291",
+      "@id": "N-204",
+      "ref": "N-204",
       "name": "Shirlene Maxfield",
       "type": "person",
       "description": "Co-owner (with husband Derek Maxfield) of plane N888KG; co-signatory of the September 11 public statement.",
@@ -440,13 +440,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-129"
+        "N-94"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "Host who interviewed Nick Fuentes; subject of a coordinated campaign (Hammer op-ed, Stop Anti-Semitism post, Seth Dillon commentary) demanding removal from TPUSA speaking lineup; mentioned by Charlie Kirk in TPUSA text chain as someone he fought to keep on the lineup.",
@@ -474,8 +474,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-293",
-      "ref": "N-293",
+      "@id": "N-205",
+      "ref": "N-205",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Guest on Tucker Carlson's show; described by Seth Dillon as having animosity toward Jews, women, and minorities, having called J.D. Vance \"fat and ugly\" with a \"brown family,\" and having glorified Hitler.",
@@ -493,8 +493,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-67",
-      "ref": "N-67",
+      "@id": "N-38",
+      "ref": "N-38",
       "name": "Seth Dillon",
       "type": "person",
       "description": "Recurring post-assassination commentator; subject of Piers Morgan interview clips (A-1295.1, A-1295.2, A-1295.3) critiquing Tucker's hosting of Fuentes. Identified in the Hampton's event as having pressured Charlie Kirk on Israel views prior to the assassination.",
@@ -516,8 +516,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-68",
-      "ref": "N-68",
+      "@id": "N-39",
+      "ref": "N-39",
       "name": "Dave Smith",
       "type": "person",
       "description": "Interviewee in Piers Morgan clips alongside Seth Dillon; subject of host framing as a truth-teller opposed to the cancellation campaign against Tucker.",
@@ -532,13 +532,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-67"
+        "N-38"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-297",
-      "ref": "N-297",
+      "@id": "N-207",
+      "ref": "N-207",
       "name": "Ana Kasparian",
       "type": "person",
       "description": "Subject of Stop Anti-Semitism X post (A-1294.1) referencing her CNN platforming as parallel evidence of \"Holocaust normalization.\"",
@@ -556,8 +556,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-298",
-      "ref": "N-298",
+      "@id": "N-208",
+      "ref": "N-208",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Host of interview program from which Seth Dillon/Dave Smith clips (A-1295) are sourced.",
@@ -592,13 +592,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-293"
+        "N-205"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10269",
-      "ref": "N-10269",
+      "@id": "N-10203",
+      "ref": "N-10203",
       "name": "Provo Airport Flight Anomaly Cluster",
       "type": "investigation_target",
       "description": "Persistent investigative target encompassing the three suspicious flight events at Provo Airport on 9/10/2025: the military-contracted plane low dip (A-1290.1), the N888KG Maxfield plane departure (A-1291.1), and the SU-BTT Egyptian Air Force departure window (A-1292.1, A-1292.2). Also incorporates viewer-flagged tail N1098L (A-1299.1).",
@@ -623,8 +623,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10270",
-      "ref": "N-10270",
+      "@id": "N-10204",
+      "ref": "N-10204",
       "name": "Egyptian Air Force SU-BTT Provo Mission Question",
       "type": "investigation_target",
       "description": "Persistent investigative target regarding purpose of Egyptian Air Force presence in Provo from 9/4–9/10, identity of personnel reportedly dropped off, and nature of any \"discreet mission\" alleged by the unnamed email tipster.",
@@ -646,8 +646,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10271",
-      "ref": "N-10271",
+      "@id": "N-10205",
+      "ref": "N-10205",
       "name": "N888KG Flight Manifest Verification",
       "type": "investigation_target",
       "description": "Persistent investigative target regarding the actual passenger manifest of plane N888KG during its 9/10/2025 movements, including the contested FBO routing (Millionaire FBO vs. alternative), the alleged federal instruction for airport personnel to lie, and the discrepancy between the Maxfield statement and any independent flight records.",
@@ -665,14 +665,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-129",
-        "N-291"
+        "N-94",
+        "N-204"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10272",
-      "ref": "N-10272",
+      "@id": "N-10206",
+      "ref": "N-10206",
       "name": "TPUSA Text Chain Authenticity Verification",
       "type": "investigation_target",
       "description": "Persistent investigative target regarding provenance, authenticity, and chain-of-custody of the TPUSA internal text-chain screenshot (A-1296.1) attributed to Charlie Kirk. Independent verification required before claims drawn from it can be elevated.",
@@ -706,8 +706,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.",
@@ -722,8 +722,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-98",
-      "ref": "N-98",
+      "@id": "N-67",
+      "ref": "N-67",
       "name": "Mark Herman (director, Candace show)",
       "type": "person",
       "description": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here he explains the FlightRadar chart for the Biggs Army Airfield plane (altitude, airspeed, 3:16 p.m. UTC, minus 6 hours for 9:16 a.m. Utah time); the host later cites his UTC explanation and a correction he gave \"in my ear\", and in comments he says the N1098L plane was over Idaho, not Provo, when Charlie Kirk was shot.",
@@ -765,13 +765,13 @@
         "A-1290.1"
       ],
       "related_nodes": [
-        "N-10269"
+        "N-10203"
       ],
       "tags": [],
       "claim_timestamp": "00:02:17",
       "investigative_direction": "Obtain raw FlightRadar/ADS-B Exchange records for the plane's full track; cross-reference with FAA Biggs Army Airfield outbound logs for 9/10/2025.",
       "mentions_person_refs": [
-        "N-98"
+        "N-67"
       ]
     },
     {
@@ -784,7 +784,7 @@
         "A-1290.1"
       ],
       "related_nodes": [
-        "N-10269"
+        "N-10203"
       ],
       "tags": [],
       "claim_timestamp": "00:03:53",
@@ -803,13 +803,13 @@
         "A-1291.1"
       ],
       "related_nodes": [
-        "N-10271"
+        "N-10205"
       ],
       "tags": [],
       "claim_timestamp": "00:05:46",
       "investigative_direction": "Cross-check against FAA departure logs and Provo Airport (PVU) records.",
       "mentions_person_refs": [
-        "N-129"
+        "N-94"
       ]
     },
     {
@@ -822,14 +822,14 @@
         "A-1291.1"
       ],
       "related_nodes": [
-        "N-10271"
+        "N-10205"
       ],
       "tags": [],
       "claim_timestamp": "00:07:26",
       "investigative_direction": "Verify pilot identities and PGA passenger manifest through FAA and PGA airport records; obtain airport surveillance footage of boarding.",
       "mentions_person_refs": [
-        "N-129",
-        "N-291"
+        "N-94",
+        "N-204"
       ]
     },
     {
@@ -842,13 +842,13 @@
         "A-1291.1"
       ],
       "related_nodes": [
-        "N-10271"
+        "N-10205"
       ],
       "tags": [],
       "claim_timestamp": "00:08:12",
       "investigative_direction": "Verify the FAA termination claim against Denver Center controller logs and FAA standard operating procedures for non-towered airports.",
       "mentions_person_refs": [
-        "N-129"
+        "N-94"
       ]
     },
     {
@@ -861,7 +861,7 @@
         "A-1292.1"
       ],
       "related_nodes": [
-        "N-10270"
+        "N-10204"
       ],
       "tags": [],
       "claim_timestamp": "00:12:53",
@@ -878,7 +878,7 @@
         "A-1292.2"
       ],
       "related_nodes": [
-        "N-10270"
+        "N-10204"
       ],
       "tags": [],
       "claim_timestamp": "00:18:38",
@@ -892,7 +892,7 @@
       "claim": "An unnamed email tipster claims the SU-BTT flight was carrying Egyptian military subcontractors who were dropped off in Provo, Utah and did not return to Cairo when the plane departed.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10204"
       ],
       "tags": [],
       "claim_timestamp": "00:15:53",
@@ -906,7 +906,7 @@
       "claim": "The same unnamed email tipster claims the Egyptian military personnel were in Provo on a top-secret, discreet mission, and that the tipster was \"scared for their life\" in providing this information.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10270"
+        "N-10204"
       ],
       "tags": [],
       "claim_timestamp": "00:16:59",
@@ -926,7 +926,7 @@
       "claim_timestamp": "00:21:18",
       "investigative_direction": "Obtain the underlying Daily Mail article; identify what specific probe was referenced; request FBI/Patel on-record response.",
       "mentions_person_refs": [
-        "N-102",
+        "N-69",
         "N-1"
       ]
     },
@@ -944,9 +944,9 @@
       "claim_timestamp": "00:31:36",
       "investigative_direction": "Obtain the full op-ed in original Daily Mail publication; document the \"neutralize\" framing in context.",
       "mentions_person_refs": [
-        "N-86",
-        "N-50",
-        "N-293"
+        "N-55",
+        "N-22",
+        "N-205"
       ]
     },
     {
@@ -963,8 +963,8 @@
       "claim_timestamp": "00:34:20",
       "investigative_direction": "Obtain original X post URL; preserve deletion history and engagement metrics.",
       "mentions_person_refs": [
-        "N-50",
-        "N-297"
+        "N-22",
+        "N-207"
       ]
     },
     {
@@ -981,11 +981,11 @@
       "claim_timestamp": "00:35:53",
       "investigative_direction": "Obtain full unedited Piers Morgan interview; verify clip is unedited.",
       "mentions_person_refs": [
-        "N-50",
-        "N-67",
-        "N-68",
-        "N-293",
-        "N-298"
+        "N-22",
+        "N-38",
+        "N-39",
+        "N-205",
+        "N-208"
       ]
     },
     {
@@ -1003,10 +1003,10 @@
       "investigative_direction": "Obtain full unedited interview segment; verify context.",
       "mentions_person_refs": [
         "N-1",
-        "N-50",
-        "N-67",
-        "N-68",
-        "N-298"
+        "N-22",
+        "N-38",
+        "N-39",
+        "N-208"
       ]
     },
     {
@@ -1024,9 +1024,9 @@
       "investigative_direction": "Verify specific Fuentes quotes against primary source material; obtain full interview segment.",
       "mentions_person_refs": [
         "N-4",
-        "N-67",
-        "N-293",
-        "N-298"
+        "N-38",
+        "N-205",
+        "N-208"
       ]
     },
     {
@@ -1039,14 +1039,14 @@
         "A-1296.1"
       ],
       "related_nodes": [
-        "N-10272"
+        "N-10206"
       ],
       "tags": [],
       "claim_timestamp": "00:42:04",
       "investigative_direction": "Independently verify the screenshot provenance, timestamp, and participants; confirm via TPUSA records or corroborating witnesses.",
       "mentions_person_refs": [
         "N-1",
-        "N-50"
+        "N-22"
       ]
     },
     {
@@ -1063,8 +1063,8 @@
       "claim_timestamp": "00:42:40",
       "investigative_direction": "Verify original source of audio clip (interview, podcast, or other); confirm attribution.",
       "mentions_person_refs": [
-        "N-86",
-        "N-50"
+        "N-55",
+        "N-22"
       ]
     },
     {
@@ -1077,7 +1077,7 @@
         "A-1299.1"
       ],
       "related_nodes": [
-        "N-10269"
+        "N-10203"
       ],
       "tags": [],
       "claim_timestamp": "00:55:55",

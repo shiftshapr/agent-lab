@@ -30,7 +30,7 @@
             "C-1716"
           ],
           "related_nodes": [
-            "N-45",
+            "N-17",
             "N-3"
           ],
           "tags": [],
@@ -58,7 +58,7 @@
             "C-1718"
           ],
           "related_nodes": [
-            "N-406",
+            "N-265",
             "N-2",
             "N-3"
           ],
@@ -115,8 +115,8 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-98",
-            "N-10324"
+            "N-67",
+            "N-10253"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -147,7 +147,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-10324"
+            "N-10253"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -167,7 +167,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10324"
+            "N-10253"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -198,7 +198,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-10325"
+            "N-10254"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -218,8 +218,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10325",
-            "N-70"
+            "N-10254",
+            "N-41"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -237,9 +237,9 @@
             "C-1730"
           ],
           "related_nodes": [
-            "N-70",
-            "N-11387",
-            "N-10325"
+            "N-41",
+            "N-10896",
+            "N-10254"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -266,8 +266,8 @@
             "C-1727"
           ],
           "related_nodes": [
-            "N-408",
-            "N-10327"
+            "N-266",
+            "N-10256"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -286,8 +286,8 @@
             "C-1727"
           ],
           "related_nodes": [
-            "N-408",
-            "N-10327"
+            "N-266",
+            "N-10256"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -306,8 +306,8 @@
             "C-1727"
           ],
           "related_nodes": [
-            "N-408",
-            "N-10327"
+            "N-266",
+            "N-10256"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -326,8 +326,8 @@
             "C-1727"
           ],
           "related_nodes": [
-            "N-408",
-            "N-10327"
+            "N-266",
+            "N-10256"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -354,7 +354,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10326"
+            "N-10255"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -380,8 +380,8 @@
             "C-1733"
           ],
           "related_nodes": [
-            "N-413",
-            "N-10328"
+            "N-269",
+            "N-10257"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -405,7 +405,7 @@
           "description": "Host's verbal account that Terrell Farnsworth attended the UVU campus event on September 10 (described as unusual because he typically handles larger TPUSA events), and that he secured the SD cards afterward",
           "related_claims": [],
           "related_nodes": [
-            "N-410",
+            "N-267",
             "N-1"
           ],
           "tags": [],
@@ -425,8 +425,8 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-414",
-            "N-10324"
+            "N-270",
+            "N-10253"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -441,8 +441,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-45",
-      "ref": "N-45",
+      "@id": "N-17",
+      "ref": "N-17",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Pastor referenced in host's clip critique; associated by host with \"naval psychological intelligence.\" Matters because his public call against post-assassination questioning is being framed by the host as part of a coordinated psychological response.",
@@ -463,8 +463,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-406",
-      "ref": "N-406",
+      "@id": "N-265",
+      "ref": "N-265",
       "name": "Steven Crowder",
       "type": "person",
       "description": "Host's primary example of influencer narratives allegedly misrepresenting her remarks. Matters as anchor for the Erika-murder interpretation dispute.",
@@ -488,8 +488,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-98",
-      "ref": "N-98",
+      "@id": "N-67",
+      "ref": "N-67",
       "name": "Mark Herman (director, Candace show)",
       "type": "person",
       "description": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here he pulls up ADS-B Exchange raw data for Egyptian tail SUBND at the Duncan Aviation FBO in Provo on September 10 and reads the transponder windows, converting from UTC by subtracting seven hours (a viewer later corrects this to UTC minus 6). His presentation is the sole displayed source for the SUBND transponder timing claims.",
@@ -506,13 +506,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10324"
+        "N-10253"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-408",
-      "ref": "N-408",
+      "@id": "N-266",
+      "ref": "N-266",
       "name": "Duncan Aviation",
       "type": "person",
       "description": "Fixed-base operator (FBO) at Provo where SUBND transponder activity is recorded on September 10 and where rental cars were sourced. Matters as institutional locus of pre-event activity.",
@@ -534,13 +534,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10327"
+        "N-10256"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-410",
-      "ref": "N-410",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "TPUSA personnel described by host as attending the UVU event and securing the SD cards. Matters because his presence is flagged as atypical by host.",
@@ -559,8 +559,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-413",
-      "ref": "N-413",
+      "@id": "N-269",
+      "ref": "N-269",
       "name": "Mommy Sleuth (Nellie)",
       "type": "person",
       "description": "Pseudonymous contributor referenced by host as the source of the 15-hour research identifying Erika-tracking overlap pattern. Identity protected by host.",
@@ -578,13 +578,13 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-10324"
+        "N-10253"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-414",
-      "ref": "N-414",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Andrew K. Smith",
       "type": "person",
       "description": "Host-described \"managing director of a restaurant fund\" who conducted the \"restaurantology\" interview with Charlie Kirk on the morning of September 10.",
@@ -605,8 +605,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10324",
-      "ref": "N-10324",
+      "@id": "N-10253",
+      "ref": "N-10253",
       "name": "Egyptian Military Plane Tracking Investigation",
       "type": "investigation_target",
       "description": "Persistent investigative target tracking allegations that Egyptian military aircraft SUBND and SUBTT conducted sustained surveillance of Erika Kirk (and sometimes Charlie Kirk) from 2022 through September 2025, with concentrated activity on the day of the assassination.",
@@ -631,14 +631,14 @@
       "related_nodes": [
         "N-1",
         "N-2",
-        "N-98",
-        "N-413"
+        "N-67",
+        "N-269"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10325",
-      "ref": "N-10325",
+      "@id": "N-10254",
+      "ref": "N-10254",
       "name": "TPUSA Financial Filing Anomaly Investigation",
       "type": "investigation_target",
       "description": "Investigation target tracking missing IRS Form 990 filings for three of four TPUSA-related entities for FY2024, the $8.56M transfer to America's Turning Point, and the timing of audit requests relative to Charlie Kirk's death.",
@@ -661,14 +661,14 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-70",
-        "N-11387"
+        "N-41",
+        "N-10896"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10326",
-      "ref": "N-10326",
+      "@id": "N-10255",
+      "ref": "N-10255",
       "name": "N560TW Flight Pattern Investigation",
       "type": "investigation_target",
       "description": "Investigation target tracking the September 10 Scottsdale–Provo–Santa Barbara–Scottsdale round trip of tail N560TW, flagged by host as warranting public tip submissions.",
@@ -689,8 +689,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10327",
-      "ref": "N-10327",
+      "@id": "N-10256",
+      "ref": "N-10256",
       "name": "Duncan Aviation Rental Vehicle Investigation",
       "type": "investigation_target",
       "description": "Investigation target tracking four rental vehicles with documented plates rented from the Duncan Aviation FBO prior to the assassination, with public tip requests issued.",
@@ -710,13 +710,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-408"
+        "N-266"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10328",
-      "ref": "N-10328",
+      "@id": "N-10257",
+      "ref": "N-10257",
       "name": "Flock LPR FOIA Investigation",
       "type": "investigation_target",
       "description": "Investigation target tracking the potential use of FOIA-accessible Flock automated license plate reader data to cross-reference rental vehicles and UVU-area camera footage.",
@@ -735,8 +735,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10329",
-      "ref": "N-10329",
+      "@id": "N-10258",
+      "ref": "N-10258",
       "name": "Andrew Kovat Hospital Threat Disclosure Question",
       "type": "investigation_target",
       "description": "Investigation target tracking host's verbal claim that Andrew Kovat disclosed a credible threat against Candace Owens and Tucker Carlson while in the hospital on September 10, and that no federal agency has since followed up directly with her.",
@@ -800,8 +800,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-41",
+      "ref": "N-41",
       "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
@@ -816,8 +816,8 @@
     },
     {
       "@type": "Organization",
-      "@id": "N-11387",
-      "ref": "N-11387",
+      "@id": "N-10896",
+      "ref": "N-10896",
       "name": "Baker Tilly",
       "type": "organization",
       "description": "External auditor cited in the Wolves and Finance analysis as having issued a clean audit opinion for TPUSA and affiliates. Matters because of the audit-vs-missing-990 tension.",
@@ -833,7 +833,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10325"
+        "N-10254"
       ],
       "organization_kind": "company"
     }
@@ -854,7 +854,7 @@
       "investigative_direction": "Verify the clip source, date, and full context; cross-check McCoy's public statements against any subsequent commentary.",
       "mentions_person_refs": [
         "N-3",
-        "N-45",
+        "N-17",
         "N-1"
       ]
     },
@@ -875,7 +875,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-406",
+        "N-265",
         "N-1"
       ]
     },
@@ -896,7 +896,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-406"
+        "N-265"
       ]
     },
     {
@@ -909,7 +909,7 @@
         "A-1418.1"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10253"
       ],
       "tags": [],
       "claim_timestamp": "00:19:57–00:21:54",
@@ -917,8 +917,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-98",
-        "N-408"
+        "N-67",
+        "N-266"
       ]
     },
     {
@@ -932,7 +932,7 @@
         "A-1419.2"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10253"
       ],
       "tags": [],
       "claim_timestamp": "00:14:51–00:18:42",
@@ -940,7 +940,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-413"
+        "N-269"
       ]
     },
     {
@@ -953,7 +953,7 @@
         "A-1419.1"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10253"
       ],
       "tags": [],
       "claim_timestamp": "00:17:49–00:18:42",
@@ -973,7 +973,7 @@
         "A-1419.1"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10253"
       ],
       "tags": [],
       "claim_timestamp": "00:17:49–00:18:42",
@@ -992,7 +992,7 @@
         "A-1419.1"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10253"
       ],
       "tags": [],
       "claim_timestamp": "00:18:42",
@@ -1009,7 +1009,7 @@
       "claim": "Host states that Andrew Kovat, while in the hospital on September 10, told her that there was a \"credible threat\" against her and Tucker Carlson and advised them to lay low, and that no federal agency has since contacted her directly about the threat.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10329"
+        "N-10258"
       ],
       "tags": [],
       "claim_timestamp": "00:23:51–00:25:54",
@@ -1017,8 +1017,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-50",
-        "N-42"
+        "N-22",
+        "N-14"
       ]
     },
     {
@@ -1031,7 +1031,7 @@
         "A-1422.1"
       ],
       "related_nodes": [
-        "N-10326"
+        "N-10255"
       ],
       "tags": [],
       "claim_timestamp": "00:26:19–00:27:30",
@@ -1051,13 +1051,13 @@
         "A-1421.4"
       ],
       "related_nodes": [
-        "N-10327"
+        "N-10256"
       ],
       "tags": [],
       "claim_timestamp": "00:27:30–00:29:31",
       "investigative_direction": "Obtain rental records from Duncan Aviation or the rental companies directly; verify renter identities and dates.",
       "mentions_person_refs": [
-        "N-408"
+        "N-266"
       ]
     },
     {
@@ -1073,13 +1073,13 @@
         "A-1421.4"
       ],
       "related_nodes": [
-        "N-10327"
+        "N-10256"
       ],
       "tags": [],
       "claim_timestamp": "00:27:30–00:29:31",
       "investigative_direction": "Cross-reference plates against Flock LPR data (see A-1423.1), UVU-area footage, hotel/gas station records; verify plate-to-vehicle assignments via DMV records.",
       "mentions_person_refs": [
-        "N-408"
+        "N-266"
       ]
     },
     {
@@ -1092,7 +1092,7 @@
         "A-1420.1"
       ],
       "related_nodes": [
-        "N-10325"
+        "N-10254"
       ],
       "tags": [],
       "claim_timestamp": "00:34:07–00:35:11",
@@ -1111,7 +1111,7 @@
         "A-1420.2"
       ],
       "related_nodes": [
-        "N-10325"
+        "N-10254"
       ],
       "tags": [],
       "claim_timestamp": "00:37:29–00:39:37",
@@ -1131,7 +1131,7 @@
         "A-1420.3"
       ],
       "related_nodes": [
-        "N-10325"
+        "N-10254"
       ],
       "tags": [],
       "claim_timestamp": "00:35:11–00:36:30",
@@ -1151,7 +1151,7 @@
         "A-1420.2"
       ],
       "related_nodes": [
-        "N-10325"
+        "N-10254"
       ],
       "tags": [],
       "claim_timestamp": "00:43:57–00:44:30",
@@ -1170,7 +1170,7 @@
         "A-1420.1"
       ],
       "related_nodes": [
-        "N-10325"
+        "N-10254"
       ],
       "tags": [],
       "claim_timestamp": "00:42:57–00:43:57",
@@ -1190,7 +1190,7 @@
         "A-1423.1"
       ],
       "related_nodes": [
-        "N-10328"
+        "N-10257"
       ],
       "tags": [],
       "claim_timestamp": "00:52:35–00:54:00",
@@ -1206,14 +1206,14 @@
         "A-1418.1"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10253"
       ],
       "tags": [],
       "claim_timestamp": "00:21:00–00:21:54",
       "investigative_direction": "Verify the UTC-to-local conversion; see flag re daylight saving time. Cross-reference against FBI/event timeline documents.",
       "mentions_person_refs": [
-        "N-98",
-        "N-408"
+        "N-67",
+        "N-266"
       ]
     },
     {
@@ -1248,7 +1248,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3",
-        "N-413"
+        "N-269"
       ]
     },
     {
@@ -1266,7 +1266,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3",
-        "N-413"
+        "N-269"
       ]
     },
     {
@@ -1279,7 +1279,7 @@
         "A-1424.2"
       ],
       "related_nodes": [
-        "N-10324"
+        "N-10253"
       ],
       "tags": [],
       "claim_timestamp": "00:10:59–00:14:51",
@@ -1288,7 +1288,7 @@
       "confidence": "low",
       "mentions_person_refs": [
         "N-1",
-        "N-414"
+        "N-270"
       ]
     }
   ],

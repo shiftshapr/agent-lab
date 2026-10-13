@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 56d0f23b17a0cf753736039d602659d87c37358b53687d087f88f5fff2bdc3c5
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-11190, N-11191, N-11192
-  - Reused Nodes Appearing: N-2, N-46
-  - Hole-minted Nodes (wave3): N-929
+  - New Nodes Introduced: N-10791, N-10792, N-10793
+  - Reused Nodes Appearing: N-2, N-18
+  - Hole-minted Nodes (wave3): N-573
   - (see registers)
 
 # Episode 140 – Analysis Record
@@ -36,7 +36,7 @@
   - Claim Range: C-3260–C-3274
   - New People Nodes Introduced: none (Wave 2: local ids removed)
   - Existing Nodes Reused: N-2, N-3 (Candace), Tyler Robinson node, Lance Twigs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node
-  - New Investigation Target Nodes: N-11190, N-11191, N-11192
+  - New Investigation Target Nodes: N-10791, N-10792, N-10793
 
 ---
 
@@ -58,7 +58,7 @@ Video Timestamp: 00:09:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3260, C-3261, C-3262, N-2, Tyler Robinson node, N-11190*
+*Related: C-3260, C-3261, C-3262, N-2, Tyler Robinson node, N-10791*
 
 **A-2267.2** Still showing subject taking phone from left pocket and inserting earpiece in left ear
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:10:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3260, Tyler Robinson node, N-11192*
+*Related: C-3260, Tyler Robinson node, N-10793*
 
 **A-2267.3** Still showing subject's lower legs and what host identifies as high white socks / sports leggings
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:11:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3261, N-11190*
+*Related: C-3261, N-10791*
 
 **A-2267.4** Still showing subject's hat positioned above glasses/head
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:13:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3262, N-11190*
+*Related: C-3262, N-10791*
 
 ---
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:27:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3267, George Zinn node, N-11191*
+*Related: C-3267, George Zinn node, N-10792*
 
 ---
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:27:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3267, George Zinn node, N-11191*
+*Related: C-3267, George Zinn node, N-10792*
 
 ---
 
@@ -206,7 +206,7 @@ Video Timestamp: 00:39:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-3272, Andrew Wilson node, N-929, N-46*
+*Related: C-3272, Andrew Wilson node, N-573, N-18*
 
 ---
 
@@ -234,7 +234,7 @@ Video Timestamp: 00:51:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: Andrew Wilson node, N-46*
+*Related: Andrew Wilson node, N-18*
 
 **A-2275.4** Patricia Pelly comment: praise for Candace
 
@@ -250,7 +250,7 @@ Video Timestamp: 00:52:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: C-3275, Tyler Robinson node, N-11192*
+*Related: C-3275, Tyler Robinson node, N-10793*
 
 **A-2275.6** Lady Di comment: requests Rachel Wilson not attend the upcoming debate
 
@@ -258,7 +258,7 @@ Video Timestamp: 00:54:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: Andrew Wilson node, N-929*
+*Related: Andrew Wilson node, N-573*
 
 **A-2275.7** Strada comment: TPUSA figures "look 10 years older"
 
@@ -294,7 +294,7 @@ Confidence Level: High (audio played)
 
 ## IV. Node Register
 
-**N-929** Rachel Wilson
+**N-573** Rachel Wilson
 
 First named by the host at 00:39:29 in episode 140.
 
@@ -313,7 +313,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11190** Parking-Garage Subject Identity Discrepancy
+**N-10791** Parking-Garage Subject Identity Discrepancy
 
 Persistent investigative target: whether the subject of the parking-garage surveillance stills is in fact Tyler Robinson, given apparent physical-trait discrepancies (left-handedness, high socks, hat-above-head positioning, broad build).
 
@@ -326,7 +326,7 @@ Investigative Pressure: High
 
 ---
 
-**N-11191** George Zinn Device Identification
+**N-10792** George Zinn Device Identification
 
 Open investigative target: identify the walkie-talkie / iPhone-like device visible during George Zinn's arrest footage.
 
@@ -339,7 +339,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-11192** Tyler Robinson Handedness Verification
+**N-10793** Tyler Robinson Handedness Verification
 
 Open investigative target: verify Tyler Robinson's handedness against the left-hand-dominant behavior observed in parking-garage footage and against Lance Twigs's apparent handedness.
 
@@ -352,7 +352,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-46** Andrew Wilson
+**N-18** Andrew Wilson
 
 Node Type: Person
 Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
@@ -371,7 +371,7 @@ Claim: In the parking-garage stills, the subject is shown retrieving a phone fro
 
 Anchored Artifacts: A-2267.2
 
-Related Nodes: N-11190, N-11192
+Related Nodes: N-10791, N-10793
 
 Investigative Direction: Obtain the full uncompressed footage and verify the motion-direction sequence; cross-reference against court-documented handedness records for Tyler Robinson and Lance Twigs.
 
@@ -385,7 +385,7 @@ Claim: The stills show the subject with what appears to be high white socks pull
 
 Anchored Artifacts: A-2267.3
 
-Related Nodes: N-11190
+Related Nodes: N-10791
 
 Investigative Direction: Obtain reference photos of Tyler Robinson's documented leg appearance on 2025-09-10; verify against booking/intake imagery.
 
@@ -399,7 +399,7 @@ Claim: The stills show the subject's hat sitting noticeably above his glasses an
 
 Anchored Artifacts: A-2267.4
 
-Related Nodes: N-11190
+Related Nodes: N-10791
 
 Investigative Direction: Obtain side-angle or higher-resolution imagery; verify by direct observation of booking photos for any concealed ponytail/headwear anomaly.
 
@@ -412,7 +412,7 @@ Claim Timestamp: 00:06:12
 Claim: In the period immediately following the public release of Tyler Robinson's name, news outlets globally used photos of him in maroon shirts, including childhood images, as the primary visual identifier.
 
 Anchored Artifacts: A-2268.1, A-2268.2
-Mentions: N-69
+Mentions: N-40
 
 Related Nodes:
 
@@ -427,7 +427,7 @@ Claim Timestamp: 00:07:34
 Claim: The host states that a screen-recorded review of the mother's Facebook showed many photos of Tyler Robinson in blue, white, and green shirts, contradicting the maroon-only impression seeded by media selection.
 
 Anchored Artifacts: A-2268.3
-Mentions: N-69
+Mentions: N-40
 
 Related Nodes:
 
@@ -442,9 +442,9 @@ Claim Timestamp: 00:11:14
 Claim: The host presents a photo of Lance Twigs eating with his left hand and references prior observations (gas pumping, snowboarding, watch-wearing on piano) as consistent with left-handedness.
 
 Anchored Artifacts: A-2269.1
-Mentions: N-84
+Mentions: N-54
 
-Related Nodes: N-11192
+Related Nodes: N-10793
 
 Investigative Direction: Obtain court records or biographical sources documenting Lance Twigs's stated handedness.
 
@@ -457,7 +457,7 @@ Claim Timestamp: 00:18:42
 Claim: According to Agent Hoole's testimony as played in the episode, the suspect vehicle "made contact with an officer that was doing security detail," identified as Officer Goforth.
 
 Anchored Artifacts: A-2270.1
-Mentions: N-69
+Mentions: N-40
 
 Related Nodes:
 
@@ -472,9 +472,9 @@ Claim Timestamp: 00:27:34
 Claim: High-resolution photos from George Zinn's arrest show an unidentified thicker device that appears to be a walkie-talkie-style or satellite-phone-style device hanging or fallen near his pants/ankle.
 
 Anchored Artifacts: A-2271.1, A-2272.1
-Mentions: N-71
+Mentions: N-42
 
-Related Nodes: N-11191
+Related Nodes: N-10792
 
 Investigative Direction: Submit the close-up image to federal-law-enforcement-adjacent technical specialists for device identification; cross-check inventory and purpose.
 
@@ -545,7 +545,7 @@ Claim Timestamp: 00:39:29
 Claim: In a prior debate clip, Andrew Wilson exited to smoke and his wife Rachel Wilson called in to debate on his behalf; the host characterizes this as a recurring pattern.
 
 Anchored Artifacts: A-2274.1
-Mentions: N-46, N-929
+Mentions: N-18, N-573
 
 
 Investigative Direction: Obtain the full debate recording and date; verify whether this was a sanctioned call-in.
@@ -559,7 +559,7 @@ Claim Timestamp: 00:46:41
 Claim: Viewer Manny Petty asserts that Mikey McQuaid was on the phone within two seconds of Charlie Kirk being shot, did not appear visibly shocked, and walked away; host concurs that the official explanations have been inconsistent.
 
 Anchored Artifacts: A-2275.1
-Mentions: N-1, N-272
+Mentions: N-1, N-194
 
 
 Investigative Direction: Review body-cam footage, phone-records evidence, and contemporaneous witness statements regarding McQuaid's actions immediately post-shooting.
@@ -587,9 +587,9 @@ Claim Timestamp: 00:52:51
 Claim: The host states that court documents show Tyler Robinson taking notes with his right hand, establishing right-handedness; this is presented in response to viewer Impala's reference to a phone outline in Tyler's right pocket in a dorm-room photo.
 
 Anchored Artifacts: A-2275.5 (and underlying court exhibits – not displayed in this episode)
-Mentions: N-69
+Mentions: N-40
 
-Related Nodes: N-11192
+Related Nodes: N-10793
 
 Investigative Direction: Obtain the specific court exhibit referenced and confirm the right-hand note-taking image.
 
@@ -605,7 +605,7 @@ Claim: The host reads the Dane Cook "B&E" skit's "favorite shirt" passage aloud 
 
 Anchored Artifacts: A-2276.1
 
-Related Nodes: N-11190
+Related Nodes: N-10791
 
 Investigative Direction: Not directly verifiable; relevant only as documented rhetorical framing.
 
@@ -618,8 +618,8 @@ Investigative Direction: Not directly verifiable; relevant only as documented rh
 - Every artifact has a Related line.
 - Every node has a Related line.
 - No episode-wide artifact bundle exists.
-- People nodes use the global people ledger (N-2, N-3, N-10207, plus reused existing character nodes).
-- Non-person investigation targets use the 1000+ range (N-11190, N-11191, N-11192).
+- People nodes use the global people ledger (N-2, N-3, N-10141, plus reused existing character nodes).
+- Non-person investigation targets use the 1000+ range (N-10791, N-10792, N-10793).
 - No speculative claims inscribed as evidence-backed claims; rhetorical framing (e.g., the Dane Cook analogy) is captured as a claim with explicit "analog" wording rather than as evidentiary fact.
 - Names preserved exactly as appearing in transcript (e.g., "No Soup For Noels," "Lance Twigs," "Britta Widener").
 
@@ -642,8 +642,8 @@ A-2267, A-2268, A-2269, A-2270, A-2271, A-2272, A-2273, A-2274, A-2275, A-2276
 
 **Claim Range:** C-3260–C-3276
 
-**New People Nodes Introduced:** none. Wave 1 reconciliation: N-10207 is a topic id; Britta Widener has no CKA person node.
+**New People Nodes Introduced:** none. Wave 1 reconciliation: N-10141 is a topic id; Britta Widener has no CKA person node.
 
-**New Investigation Target Nodes:** N-11190, N-11191, N-11192
+**New Investigation Target Nodes:** N-10791, N-10792, N-10793
 
 **Existing Nodes Reused:** N-2, N-3 (Candace), Tyler Robinson node, Lance Twigs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node

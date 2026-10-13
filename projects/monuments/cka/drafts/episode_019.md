@@ -12,9 +12,9 @@
 - **Transcript SHA-256**: 8e12049f89e89a3afb605eb38161af512cd6a84eb73ff7723fadfa63f47de64d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-255, N-256, N-259, N-260, N-261, N-262, N-263, N-264, N-266, N-267, N-10257, N-10258, N-10259, N-10260, N-10261
+  - New Nodes Introduced: N-183, N-184, N-185, N-186, N-187, N-188, N-189, N-190, N-191, N-192, N-10191, N-10192, N-10193, N-10194, N-10195
   - Reused Nodes Appearing: 
-- **Monument Episode:** 19, N-37
+- **Monument Episode:** 19, N-11
 - **Batch:** 9
 - **Channel / creator:** Candace Owens (@RealCandaceO)
 - **Episode date:** 2025-10-27
@@ -29,8 +29,8 @@
 
 - **Artifact Families Introduced:** A-1260, A-1261, A-1262, A-1263, A-1264, A-1265, A-1266, A-1267, A-1268, A-1269
 - **Claim Range:** C-1461–C-1481
-- **New People Nodes Introduced:** N-255, N-256, N-16, N-181, N-259, N-260, N-261, N-262, N-263, N-264, N-42, N-266, N-267
-- **New Investigation Targets Introduced:** N-10257, N-10258, N-10259, N-10260, N-10261
+- **New People Nodes Introduced:** N-183, N-184, N-7, N-131, N-185, N-186, N-187, N-188, N-189, N-190, N-14, N-191, N-192
+- **New Investigation Targets Introduced:** N-10191, N-10192, N-10193, N-10194, N-10195
 - **Existing Nodes Reused (referenced):** Charlie Kirk, Candace Owens, Erika Kirk, Tyler Robinson, Mikey McCoy, Pastor Rob McCoy, Tyler Bowyer, Kanye West, Joe Rogan, Donald Trump Jr.
 
 ---
@@ -103,7 +103,7 @@ Video Timestamp: 00:24:44–00:25:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio content preserved in transcript)
 
-*Related: C-1464, C-1465, N-256*
+*Related: C-1464, C-1465, N-184*
 
 **A-1262.2** Footage of camera operator's actions in the four minutes preceding camera takedown, sent by the operator to Candace Owens via phone.
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:23:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1466, N-256*
+*Related: C-1466, N-184*
 
 ---
 
@@ -187,7 +187,7 @@ Video Timestamp: 00:35:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read-aloud content preserved; original post URL not displayed)
 
-*Related: C-1475, N-262, N-Josh Hammer (existing if inscribed in prior episodes)*
+*Related: C-1475, N-188, N-Josh Hammer (existing if inscribed in prior episodes)*
 
 ---
 
@@ -214,7 +214,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:51:43
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-1482, N-181*
+*Related: C-1482, N-131*
 
 **A-1269.2** Amanda comment: "This is sick. Thank you, Candace, for always sharing the truth. God bless you."
 
@@ -233,7 +233,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:53:26
 
-*Related: C-1483, N-263, N-Tyler Robinson (existing)*
+*Related: C-1483, N-189, N-Tyler Robinson (existing)*
 
 **A-1269.6** Ivana Milano comment: "Keep up the great work…"
 
@@ -251,7 +251,7 @@ Video Timestamp: 00:53:26
 
 Video Timestamp: 00:56:09
 
-*Related: C-1484, N-256*
+*Related: C-1484, N-184*
 
 **A-1269.10** Bayern comment: "Come back, Candace. Everyone needs…"
 
@@ -261,7 +261,7 @@ Video Timestamp: 00:56:09
 
 ## IV. Node Register
 
-**N-255** Justin McCoy
+**N-183** Justin McCoy
 
 Son of Pastor Rob McCoy. Identified in episode as TPUSA Chief Financial Officer ("chief CFO, chief financial officer"). Referenced in Pastor McCoy's A-1260.1 sermon regarding succession.
 
@@ -274,7 +274,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-256** Camera Operator (UVU Event, 2025-09-10)
+**N-184** Camera Operator (UVU Event, 2025-09-10)
 
 Unnamed AV company operator at the UVU Charlie Kirk event. Operated TPUSA event cameras; recorded selfie video immediately post-shooting; sent a video to Candace Owens covering four minutes of activity before camera takedown. Identified by host as having been brought into TPUSA by Tyler Bowyer.
 
@@ -283,11 +283,11 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1262.1, A-1262.2, A-1269.9, C-1464, C-1465, C-1466, C-1477, N-Tyler Bowyer (existing), N-37*
+*Related: A-1262.1, A-1262.2, A-1269.9, C-1464, C-1465, C-1466, C-1477, N-Tyler Bowyer (existing), N-11*
 
 ---
 
-**N-16** Frank Turek
+**N-7** Frank Turek
 
 Individual at the UVU event identified by host (and Ian Carol) as the only person who reacted normally – dropping to ground and crawling toward Charlie Kirk before helping escort him to the waiting car.
 
@@ -296,11 +296,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1481, N-Ian Carol (N-181)*
+*Related: C-1481, N-Ian Carol (N-131)*
 
 ---
 
-**N-181** Ian Carol
+**N-131** Ian Carol
 
 Internet investigator whose video work is cited by host regarding Frank Turk's reaction and whose viewer comment is read aloud (A-1269.1). Described as among those "not letting this go."
 
@@ -309,11 +309,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1269.1, A-1269.9, C-1482, N-16*
+*Related: A-1269.1, A-1269.9, C-1482, N-7*
 
 ---
 
-**N-259** Sam Parker
+**N-185** Sam Parker
 
 Internet investigator cited by host as among those who helped circulate the Mikey McCoy September 10 footage.
 
@@ -326,7 +326,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-260** James Lee
+**N-186** James Lee
 
 Internet investigator cited by host as among those helping circulate post-event footage.
 
@@ -339,7 +339,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-261** Zeb Boyin
+**N-187** Zeb Boyin
 
 Internet investigator cited by host as conducting ballistics work on the case.
 
@@ -348,11 +348,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-10258*
+*Related: N-10192*
 
 ---
 
-**N-262** John Miller
+**N-188** John Miller
 
 X (Twitter) user whose post about Josh Hammer is read aloud (A-1267.1).
 
@@ -365,7 +365,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-263** Joshua Steves
+**N-189** Joshua Steves
 
 Viewer-comment author referencing Tyler Robinson's Zoom court appearance.
 
@@ -378,7 +378,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-264** Stacy Sheridan
+**N-190** Stacy Sheridan
 
 Identified by host as TPUSA's "chief money person," holding camera during casket escort off Air Force 2. Brought into TPUSA by Tyler Bowyer per host.
 
@@ -387,11 +387,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1479, N-Tyler Bowyer (existing), N-37*
+*Related: C-1479, N-Tyler Bowyer (existing), N-11*
 
 ---
 
-**N-42** Andrew Kolvet
+**N-14** Andrew Kolvet
 
 TPUSA-affiliated figure referenced by host as a person contacted for comment along with Mikey McCoy, with no response returned.
 
@@ -404,7 +404,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-266** Scott Adams
+**N-191** Scott Adams
 
 Referenced by host as having produced a video characterizing Kanye West's tweet about Candace Owens as having "ripped a hole through the universe."
 
@@ -417,7 +417,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-267** Ryan Matta
+**N-192** Ryan Matta
 
 Internet investigator cited by host among those pursuing the case "day in and day out" despite not having previously known Charlie Kirk.
 
@@ -430,7 +430,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-98** Mark Herman (director, Candace show)
+**N-67** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host says "Mark is going to bring it in" and he rolls the Mikey McCoy phone clip that the host then slows down. No claim anchor; registered for cross-episode continuity.
 
@@ -443,7 +443,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10257** 834ms Phone Timing Analysis
+**N-10191** 834ms Phone Timing Analysis
 
 Investigable measurement: claimed time between gunshot audio and Mikey McCoy's phone-to-ear motion based on host's frame-by-frame review of event footage.
 
@@ -456,7 +456,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10258** Camera Operator Behavior Pattern
+**N-10192** Camera Operator Behavior Pattern
 
 Investigable question regarding the camera operator's post-shot conduct: immediate selfie recording, premature announcement of death, brief flight distance, and delayed camera takedown.
 
@@ -465,11 +465,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1262.1, A-1262.2, A-1269.9, C-1464, C-1465, C-1466, C-1484, N-256*
+*Related: A-1262.1, A-1262.2, A-1269.9, C-1464, C-1465, C-1466, C-1484, N-184*
 
 ---
 
-**N-10259** Mikey McCoy Call Log Verification
+**N-10193** Mikey McCoy Call Log Verification
 
 Persistent investigative target: the absence of any public release or response from Mikey McCoy regarding who he was calling at 12:23 p.m. on 2025-09-10, despite host's stated attempts to obtain comment.
 
@@ -482,7 +482,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10260** TPUSA Succession Plan Disclosure Timeline
+**N-10194** TPUSA Succession Plan Disclosure Timeline
 
 Investigable question: how Pastor Rob McCoy possessed knowledge of a TPUSA succession plan four days post-event, and the relationship between that disclosure and the implementation timeline.
 
@@ -491,11 +491,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1260.1, C-1467, N-Pastor Rob McCoy (existing), N-255*
+*Related: A-1260.1, C-1467, N-Pastor Rob McCoy (existing), N-183*
 
 ---
 
-**N-10261** Josh Hammer Defamation Threat
+**N-10195** Josh Hammer Defamation Threat
 
 Investigable matter: Josh Hammer's reported threat of defamation action against Candace Owens following her discussion of Charlie Kirk's Israel-related text messages.
 
@@ -504,11 +504,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1265.1, A-1267.1, C-1476, N-262*
+*Related: A-1265.1, A-1267.1, C-1476, N-188*
 
 ---
 
-**N-37** Tyler Bowyer
+**N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -526,9 +526,9 @@ Claim Timestamp: 00:10:34–00:11:27
 Claim: Host's frame-by-frame analysis of event-day footage shows Mikey McCoy raising his phone to his ear approximately 834 milliseconds after the gunshot audio is heard.
 
 Anchored Artifacts: A-1261.1
-Mentions: N-259, N-260
+Mentions: N-185, N-186
 
-Related Nodes: N-10257, N-10259
+Related Nodes: N-10191, N-10193
 
 Investigative Direction: Obtain raw event-day footage with synchronized audio timestamps for independent verification of the 834ms figure; obtain Mikey McCoy's call log for 12:23 p.m. on 2025-09-10.
 
@@ -542,7 +542,7 @@ Claim: Event-day footage shows Mikey McCoy on his phone approximately 1 minute 4
 
 Anchored Artifacts: A-1261.3
 
-Related Nodes: N-10257, N-10259
+Related Nodes: N-10191, N-10193
 
 Investigative Direction: Cross-reference call log timestamps with footage timestamps to determine call duration and recipient.
 
@@ -557,7 +557,7 @@ Claim: Event-day footage shows Mikey McCoy in the background at Charlie Kirk's w
 Anchored Artifacts: A-1261.2
 Mentions: N-1
 
-Related Nodes: N-10257, N-10259
+Related Nodes: N-10191, N-10193
 
 Investigative Direction: Verify timing continuity and identify any change in phone-use posture during the post-shot interval.
 
@@ -570,9 +570,9 @@ Claim Timestamp: 00:24:44–00:25:51
 Claim: The unnamed camera operator recorded a selfie video within the first minute after the shooting.
 
 Anchored Artifacts: A-1262.1
-Mentions: N-256
+Mentions: N-184
 
-Related Nodes: N-10258
+Related Nodes: N-10192
 
 Investigative Direction: Obtain original selfie video metadata (timestamp, device, file hash) and authenticate chain of custody.
 
@@ -585,9 +585,9 @@ Claim Timestamp: 00:24:44–00:25:51
 Claim: In the selfie video, the camera operator states "He's dead."
 
 Anchored Artifacts: A-1262.1
-Mentions: N-256, N-1
+Mentions: N-184, N-1
 
-Related Nodes: N-10258
+Related Nodes: N-10192
 
 Investigative Direction: Obtain video and assess whether any medical assessment could have supported such a declaration at that moment.
 
@@ -600,9 +600,9 @@ Claim Timestamp: 00:23:05
 Claim: The camera operator sent Candace Owens a video showing his actions during the four minutes preceding camera takedown.
 
 Anchored Artifacts: A-1262.2
-Mentions: N-256, N-3
+Mentions: N-184, N-3
 
-Related Nodes: N-10258
+Related Nodes: N-10192
 
 Investigative Direction: Obtain the original sent video and metadata to authenticate the four-minute pre-takedown window.
 
@@ -615,9 +615,9 @@ Claim Timestamp: 00:07:11
 Claim: Pastor Rob McCoy publicly stated, four days after Charlie Kirk's death, that Kirk had assembled a succession plan and that TPUSA was implementing it.
 
 Anchored Artifacts: A-1260.1
-Mentions: N-255, N-1, N-45
+Mentions: N-183, N-1, N-17
 
-Related Nodes: N-10260
+Related Nodes: N-10194
 
 Investigative Direction: Identify the source of Pastor McCoy's information regarding the succession plan and the timeline of its formulation.
 
@@ -705,7 +705,7 @@ Claim Timestamp: 00:03:02
 Claim: Photo depicts Candace Owens and Charlie Kirk on a fishing trip in British Columbia; photographer described as Donald Trump Jr. or Cory Lundowski ("Flash").
 
 Anchored Artifacts: A-1263.1
-Mentions: N-62, N-3, N-1
+Mentions: N-33, N-3, N-1
 
 Related Nodes:
 
@@ -733,7 +733,7 @@ Claim Timestamp: 00:35:33
 Claim: John Miller posted: "They really trying to make us believe this is the good guy. LMAO"
 
 Anchored Artifacts: A-1267.1
-Mentions: N-262, N-86
+Mentions: N-188, N-55
 
 
 Investigative Direction: Locate original post URL and timestamp on X.
@@ -747,9 +747,9 @@ Claim Timestamp: 00:34:49–00:35:33
 Claim: Trailer references Josh Hammer stating he is "talking to lawyers" and believes there is "a potentially serious case here for defamation."
 
 Anchored Artifacts: A-1265.1
-Mentions: N-86
+Mentions: N-55
 
-Related Nodes: N-10261
+Related Nodes: N-10195
 
 Investigative Direction: Obtain any written cease-and-desist or formal litigation filing; verify Hammer's legal credentials and standing.
 
@@ -762,7 +762,7 @@ Claim Timestamp: 00:23:56
 Claim: Host states the camera operator was brought into TPUSA by Tyler Bowyer.
 
 Anchored Artifacts: None (host assertion)
-Mentions: N-37, N-256
+Mentions: N-11, N-184
 
 
 Investigative Direction: Obtain TPUSA hiring/contract records for the unnamed AV company operator.
@@ -776,7 +776,7 @@ Claim Timestamp: 00:04:39
 Claim: Host states Mikey McCoy was brought into TPUSA by Tyler Bowyer.
 
 Anchored Artifacts: None (host assertion; full discussion deferred)
-Mentions: N-37
+Mentions: N-11
 
 
 Investigative Direction: Verify via TPUSA organizational records.
@@ -790,7 +790,7 @@ Claim Timestamp: 00:04:39
 Claim: Host states Stacy Sheridan was brought into TPUSA by Tyler Bowyer to handle big-donor relations.
 
 Anchored Artifacts: None (host assertion)
-Mentions: N-37, N-264
+Mentions: N-11, N-190
 
 
 Investigative Direction: Verify via TPUSA organizational records.
@@ -804,7 +804,7 @@ Claim Timestamp: 00:33:40
 Claim: Host sarcastically attributes Kirk's last words as "Buy my book. Buy Josh Hammer's book," referencing Hammer's same-day book promotion after Kirk's death.
 
 Anchored Artifacts: None (rhetorical; no documentary record of Kirk's stated final words presented in episode)
-Mentions: N-1, N-86
+Mentions: N-1, N-55
 
 Related Nodes:
 
@@ -819,7 +819,7 @@ Claim Timestamp: 00:56:09–00:57:03
 Claim: Host and Ian Carol characterize Frank Turk as the only person at the event who reacted normally – dropping to ground and crawling toward Kirk to assist.
 
 Anchored Artifacts: None (assertion; no specific footage cited in episode for Turk's actions)
-Mentions: N-16, N-181
+Mentions: N-7, N-131
 
 
 Investigative Direction: Locate video evidence corroborating Turk's specific movements.
@@ -833,7 +833,7 @@ Claim Timestamp: 00:51:43
 Claim: Ian Carol commented: "Fishing takes time. You got to set the bait. It's so good to have you back, Candace."
 
 Anchored Artifacts: A-1269.1
-Mentions: N-181
+Mentions: N-131
 
 
 Investigative Direction: Locate original comment thread.
@@ -847,7 +847,7 @@ Claim Timestamp: 00:53:26
 Claim: Joshua Steves commenter states Tyler Robinson appeared in court via Zoom "without having to show his face."
 
 Anchored Artifacts: A-1269.5
-Mentions: N-263, N-69
+Mentions: N-189, N-40
 
 
 Investigative Direction: Obtain court appearance records and any media coverage of the Zoom appearance.
@@ -861,9 +861,9 @@ Claim Timestamp: 00:56:09
 Claim: David Foster commented he was "more shook up seeing the footage than the camera guy seemed in a selfie video" and that the camera operator "wasn't even shaking."
 
 Anchored Artifacts: A-1269.9
-Mentions: N-256
+Mentions: N-184
 
-Related Nodes: N-10258
+Related Nodes: N-10192
 
 Investigative Direction: Corroborate viewer characterization against any independent frame-by-frame review of A-1262.1.
 
@@ -876,7 +876,7 @@ Claim Timestamp: 00:13:46–00:14:46
 Claim: Host states she contacted both Mikey McCoy and Andrew Kovett for statement/comment and received no response.
 
 Anchored Artifacts: None (host assertion)
-Mentions: N-42
+Mentions: N-14
 
 
 Investigative Direction: Obtain any written correspondence or call records from the outreach attempts.
@@ -891,7 +891,7 @@ Claim: Host states she instructed her team to play devil's advocate for Mikey Mc
 
 Anchored Artifacts: A-1261.1 (the underlying footage that prompted the exercise)
 
-Related Nodes: N-10259
+Related Nodes: N-10193
 
 Investigative Direction: Document the scenarios considered and rejected.
 
@@ -904,7 +904,7 @@ Claim Timestamp: 00:45:00–00:46:00
 Claim: Host discusses Zeb Boyin in connection with witness outreach (register anchor).
 
 Anchored Artifacts: A-1261.1
-Mentions: N-261
+Mentions: N-187
 
 
 Investigative Direction: Cross-reference name spelling against prior episodes and public records.
@@ -918,7 +918,7 @@ Claim Timestamp: 00:50:00–00:51:00
 Claim: Host states she will dig up a Scott Adams video about Kanye West's tweet ripping a hole through the universe.
 
 Anchored Artifacts: A-1261.1
-Mentions: N-266, N-56
+Mentions: N-191, N-27
 
 
 Investigative Direction: Locate the referenced Scott Adams video and timestamp the host mention.
@@ -932,7 +932,7 @@ Claim Timestamp: 00:52:00–00:53:00
 Claim: Host discusses Ryan Mata in episode comment-thread context (register anchor).
 
 Anchored Artifacts: A-1261.1
-Mentions: N-267
+Mentions: N-192
 
 
 Investigative Direction: Identify primary artifact anchor if a dedicated clip exists in a later pass.
@@ -969,7 +969,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty – Camera Operator (N-256):** Individual referenced throughout episode as "the camera guy" and "AV company operator"; not formally identified by name in this episode. Flag for cross-reference with any subsequent identification in later episodes.
+- **Name uncertainty – Camera Operator (N-184):** Individual referenced throughout episode as "the camera guy" and "AV company operator"; not formally identified by name in this episode. Flag for cross-reference with any subsequent identification in later episodes.
 - **Artifact verbally referenced but not directly viewable in transcript – Mikey McCoy Event-Day Footage (A-1261 family):** Host describes analyzing the footage frame-by-frame and tracking Mikey McCoy across angles; transcript captures the host's narration and verbal time markers but the underlying video is not embedded in the transcript medium.
 - **Artifact verbally referenced but not directly shown – Scott Adams video:** Host references a Scott Adams video about Kanye West's tweet "ripping a hole through the universe" and states she will "dig that up"; video not displayed in this episode.
 - **Timestamp uncertainty – A-1263.1 (British Columbia fishing photo):** Date and exact photographer identity (Donald Trump Jr. vs. Cory Lundowski) not definitively confirmed.
@@ -989,8 +989,8 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-255 series onward for new entries)
-- [x] Non-person investigation targets use the 1000 series (N-10257 series onward)
+- [x] People nodes use the global people ledger (N-183 series onward for new entries)
+- [x] Non-person investigation targets use the 1000 series (N-10191 series onward)
 - [x] No speculative claims inscribed as evidence-backed claims without artifact anchor
 - [x] Names preserved exactly as appearing in transcript; uncertainties flagged
 - [x] Formatting consistent across sections

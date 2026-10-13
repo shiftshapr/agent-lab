@@ -31,11 +31,11 @@
             "C-1840"
           ],
           "related_nodes": [
-            "N-494",
-            "N-224",
+            "N-318",
+            "N-162",
             "N-1",
             "N-2",
-            "N-10384"
+            "N-10313"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -55,10 +55,10 @@
             "C-1841"
           ],
           "related_nodes": [
-            "N-224",
+            "N-162",
             "N-2",
             "N-1",
-            "N-10384"
+            "N-10313"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -84,8 +84,8 @@
             "C-1842"
           ],
           "related_nodes": [
-            "N-224",
-            "N-10384",
+            "N-162",
+            "N-10313",
             "N-2"
           ],
           "tags": [],
@@ -112,7 +112,7 @@
             "C-1843"
           ],
           "related_nodes": [
-            "N-481",
+            "N-311",
             "N-1",
             "N-2"
           ],
@@ -138,7 +138,7 @@
           "description": "John McCain addressing Ukraine protesters (Maidan material)",
           "related_claims": [],
           "related_nodes": [
-            "N-10382"
+            "N-10311"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -165,9 +165,9 @@
             "C-1847"
           ],
           "related_nodes": [
-            "N-10382",
-            "N-490",
-            "N-491"
+            "N-10311",
+            "N-314",
+            "N-315"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -186,8 +186,8 @@
             "C-1849"
           ],
           "related_nodes": [
-            "N-490",
-            "N-10382"
+            "N-314",
+            "N-10311"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -205,8 +205,8 @@
             "C-1849"
           ],
           "related_nodes": [
-            "N-490",
-            "N-10382"
+            "N-314",
+            "N-10311"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -224,8 +224,8 @@
             "C-1850"
           ],
           "related_nodes": [
-            "N-490",
-            "N-10382"
+            "N-314",
+            "N-10311"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -245,9 +245,9 @@
             "C-1853"
           ],
           "related_nodes": [
-            "N-491",
-            "N-492",
-            "N-10382"
+            "N-315",
+            "N-316",
+            "N-10311"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -265,7 +265,7 @@
             "C-1847"
           ],
           "related_nodes": [
-            "N-10382"
+            "N-10311"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -291,8 +291,8 @@
             "C-1854"
           ],
           "related_nodes": [
-            "N-224",
-            "N-10384"
+            "N-162",
+            "N-10313"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -319,7 +319,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-10383"
+            "N-10312"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -345,8 +345,8 @@
             "C-1856"
           ],
           "related_nodes": [
-            "N-493",
-            "N-10386"
+            "N-317",
+            "N-10315"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -374,7 +374,7 @@
             "C-1859"
           ],
           "related_nodes": [
-            "N-10385"
+            "N-10314"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -400,7 +400,7 @@
             "C-1860"
           ],
           "related_nodes": [
-            "N-10382"
+            "N-10311"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -426,9 +426,9 @@
             "C-1852"
           ],
           "related_nodes": [
-            "N-492",
-            "N-491",
-            "N-10382"
+            "N-316",
+            "N-315",
+            "N-10311"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -453,7 +453,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-1",
-            "N-10384"
+            "N-10313"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -493,8 +493,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "TPUSA spokesperson featured in artifact-anchored audio segment and X post.",
@@ -516,13 +516,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10384"
+        "N-10313"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "TPUSA figure referenced in connection with the live stream; spelling varies in transcript (\"Andrew Kovat,\" \"Andrew Kovette,\" \"Andrew Kovac\") – see Optional Flags.",
@@ -537,14 +537,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-224",
-        "N-10384"
+        "N-162",
+        "N-10313"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-481",
-      "ref": "N-481",
+      "@id": "N-311",
+      "ref": "N-311",
       "name": "The Game",
       "type": "person",
       "description": "Recording artist whose track \"The Assassination of Candace Owens\" is presented in the episode.",
@@ -565,8 +565,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-490",
-      "ref": "N-490",
+      "@id": "N-314",
+      "ref": "N-314",
       "name": "Jacob Kasparian",
       "type": "person",
       "description": "Individual identified in UVU September 10 footage by host; subject of non-ducking, recording, and clothing-change observations. Spelled \"Jordan Kasparian\" once in transcript – see Optional Flags.",
@@ -586,13 +586,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10382"
+        "N-10311"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-491",
-      "ref": "N-491",
+      "@id": "N-315",
+      "ref": "N-315",
       "name": "Adam Bartholomew",
       "type": "person",
       "description": "Live-streamer of the UVU event; identified in host's footage analysis.",
@@ -609,14 +609,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-492",
-        "N-10382"
+        "N-316",
+        "N-10311"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-492",
-      "ref": "N-492",
+      "@id": "N-316",
+      "ref": "N-316",
       "name": "Carrie Bartholomew",
       "type": "person",
       "description": "Spouse of Adam Bartholomew; confirmed in her own social media post as being in the courtyard during the shot.",
@@ -632,14 +632,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-491",
-        "N-10382"
+        "N-315",
+        "N-10311"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-493",
-      "ref": "N-493",
+      "@id": "N-317",
+      "ref": "N-317",
       "name": "Emmanuel Beerer",
       "type": "person",
       "description": "Eyewitness featured in PBS interview clip; host notes his selection by mainstream media.",
@@ -655,13 +655,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10386"
+        "N-10315"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-494",
-      "ref": "N-494",
+      "@id": "N-318",
+      "ref": "N-318",
       "name": "\"Gina\" (Charlie Kirk Show caller)",
       "type": "person",
       "description": "Caller who posed question to Blake Nef regarding invitation mechanics.",
@@ -675,14 +675,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-224",
-        "N-10384"
+        "N-162",
+        "N-10313"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10382",
-      "ref": "N-10382",
+      "@id": "N-10311",
+      "ref": "N-10311",
       "name": "Maroon Shirt Pattern at UVU September 10 Event",
       "type": "investigation_target",
       "description": "Persistent observation of multiple young men alone in maroon shirts at UVU; potential identification protocol question.",
@@ -714,15 +714,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-490",
-        "N-491",
-        "N-492"
+        "N-314",
+        "N-315",
+        "N-316"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10383",
-      "ref": "N-10383",
+      "@id": "N-10312",
+      "ref": "N-10312",
       "name": "Charlie Kirk Show Apple Podcasts Ranking Decline",
       "type": "investigation_target",
       "description": "Persistent target tracking reported drop to #94 from prior top-10 status.",
@@ -743,8 +743,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10384",
-      "ref": "N-10384",
+      "@id": "N-10313",
+      "ref": "N-10313",
       "name": "TPUSA December 15 Live Stream Event Verification",
       "type": "investigation_target",
       "description": "Persistent target tracking the announced December 15, 2025 TPUSA live stream response, its invitation mechanics, Erika Kirk's attendance, and evidentiary handling.",
@@ -769,16 +769,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-224",
-        "N-42",
-        "N-494",
+        "N-162",
+        "N-14",
+        "N-318",
         "N-2"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10385",
-      "ref": "N-10385",
+      "@id": "N-10314",
+      "ref": "N-10314",
       "name": "Roof Shooter Video Witness Follow-up",
       "type": "investigation_target",
       "description": "Persistent target tracking the two videos of the alleged roof subject, the side-angle shooter's testimony, and absence of federal or defense outreach.",
@@ -798,8 +798,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10386",
-      "ref": "N-10386",
+      "@id": "N-10315",
+      "ref": "N-10315",
       "name": "Mainstream Media Eyewitness Selection Pattern at UVU Event",
       "type": "investigation_target",
       "description": "Persistent target tracking why Emmanuel Beerer was selected by PBS (and other networks) as a featured eyewitness despite his apparent obscurity.",
@@ -815,7 +815,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-493"
+        "N-317"
       ]
     },
     {
@@ -836,8 +836,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
@@ -862,14 +862,14 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-10384"
+        "N-10313"
       ],
       "tags": [],
       "claim_timestamp": "00:05:37",
       "investigative_direction": "Obtain the full unedited Charlie Kirk Show audio segment and any internal TPUSA communications referencing Erika Kirk's approval.",
       "mentions_person_refs": [
         "N-2",
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -882,14 +882,14 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-10384"
+        "N-10313"
       ],
       "tags": [],
       "claim_timestamp": "00:06:44",
       "investigative_direction": "Compare this stated rationale against any prior TPUSA live stream format decisions, particularly those involving remote participation.",
       "mentions_person_refs": [
         "N-2",
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -902,14 +902,14 @@
         "A-1502.1"
       ],
       "related_nodes": [
-        "N-10384"
+        "N-10313"
       ],
       "tags": [],
       "claim_timestamp": "00:11:14",
       "investigative_direction": "Obtain the original December 3 (approx.) Blake Nef statement text and any follow-up communication that added an in-person condition.",
       "mentions_person_refs": [
         "N-2",
-        "N-224",
+        "N-162",
         "N-3"
       ]
     },
@@ -928,7 +928,7 @@
       "investigative_direction": "Obtain the full released track and verify publication date, distribution platform, and producer credits.",
       "mentions_person_refs": [
         "N-1",
-        "N-481",
+        "N-311",
         "N-3"
       ]
     },
@@ -940,7 +940,7 @@
       "claim": "When asked whether UVU's school colors include maroon, a UVU-affiliated individual confirmed the school's colors are green and white.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10382"
+        "N-10311"
       ],
       "tags": [],
       "claim_timestamp": "00:20:45",
@@ -957,13 +957,13 @@
         "A-1505.6"
       ],
       "related_nodes": [
-        "N-10382"
+        "N-10311"
       ],
       "tags": [],
       "claim_timestamp": "00:20:45–00:21:55",
       "investigative_direction": "Systematically catalog every maroon-shirted attendee visible in publicly available September 10 footage and cross-reference social media profiles.",
       "mentions_person_refs": [
-        "N-490"
+        "N-314"
       ]
     },
     {
@@ -976,14 +976,14 @@
         "A-1506.1"
       ],
       "related_nodes": [
-        "N-10384"
+        "N-10313"
       ],
       "tags": [],
       "claim_timestamp": "00:46:13",
       "investigative_direction": "Retrieve the original X post with timestamp and any replies; obtain any direct communication records between TPUSA and Candace Owens's representatives.",
       "mentions_person_refs": [
         "N-2",
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -996,7 +996,7 @@
         "A-1507.1"
       ],
       "related_nodes": [
-        "N-10383"
+        "N-10312"
       ],
       "tags": [],
       "claim_timestamp": "00:02:41",
@@ -1013,13 +1013,13 @@
         "A-1508.1"
       ],
       "related_nodes": [
-        "N-10386"
+        "N-10315"
       ],
       "tags": [],
       "claim_timestamp": "00:32:42–00:33:55",
       "investigative_direction": "Obtain the original PBS segment, identify the producer/assignment editor, and verify how Beerer was identified as a witness.",
       "mentions_person_refs": [
-        "N-493"
+        "N-317"
       ]
     },
     {
@@ -1032,13 +1032,13 @@
         "A-1505.2"
       ],
       "related_nodes": [
-        "N-10382"
+        "N-10311"
       ],
       "tags": [],
       "claim_timestamp": "00:24:00–00:24:45",
       "investigative_direction": "Obtain the original full-length footage to confirm the absence of ducking and any subsequent movement.",
       "mentions_person_refs": [
-        "N-490"
+        "N-314"
       ]
     },
     {
@@ -1051,13 +1051,13 @@
         "A-1505.3"
       ],
       "related_nodes": [
-        "N-10382"
+        "N-10311"
       ],
       "tags": [],
       "claim_timestamp": "00:25:00–00:25:35",
       "investigative_direction": "Obtain any phone-recorded footage from Jacob Kasparian or his device via subpoena/preservation order.",
       "mentions_person_refs": [
-        "N-490"
+        "N-314"
       ]
     },
     {
@@ -1070,13 +1070,13 @@
         "A-1505.4"
       ],
       "related_nodes": [
-        "N-10382"
+        "N-10311"
       ],
       "tags": [],
       "claim_timestamp": "00:24:50–00:25:25",
       "investigative_direction": "Obtain the original Facebook post with timestamp metadata; verify whether the timestamp was edited for timezone.",
       "mentions_person_refs": [
-        "N-490"
+        "N-314"
       ]
     },
     {
@@ -1089,14 +1089,14 @@
         "A-1505.5"
       ],
       "related_nodes": [
-        "N-10382"
+        "N-10311"
       ],
       "tags": [],
       "claim_timestamp": "00:26:30–00:28:00",
       "investigative_direction": "Obtain the full Adam Bartholomew livestream VOD and metadata for forensic review.",
       "mentions_person_refs": [
-        "N-491",
-        "N-492"
+        "N-315",
+        "N-316"
       ]
     },
     {
@@ -1110,14 +1110,14 @@
         "A-1505.5"
       ],
       "related_nodes": [
-        "N-10382"
+        "N-10311"
       ],
       "tags": [],
       "claim_timestamp": "00:27:30–00:28:00",
       "investigative_direction": "Retrieve the original Carrie Bartholomew tweet with image metadata and timestamp.",
       "mentions_person_refs": [
-        "N-491",
-        "N-492"
+        "N-315",
+        "N-316"
       ]
     },
     {
@@ -1130,14 +1130,14 @@
         "A-1505.5"
       ],
       "related_nodes": [
-        "N-10382"
+        "N-10311"
       ],
       "tags": [],
       "claim_timestamp": "00:27:51–00:28:00",
       "investigative_direction": "Review the full Bartholomew livestream timeline and any subsequent communication regarding his wife's location.",
       "mentions_person_refs": [
-        "N-491",
-        "N-492"
+        "N-315",
+        "N-316"
       ]
     },
     {
@@ -1148,13 +1148,13 @@
       "claim": "Tyler Robinson, the alleged shooter, was wearing a maroon shirt at the UVU event.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10382"
+        "N-10311"
       ],
       "tags": [],
       "claim_timestamp": "00:28:44",
       "investigative_direction": "Cross-reference court filings and law enforcement exhibits confirming Robinson's attire on September 10.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1167,7 +1167,7 @@
         "A-1510.1"
       ],
       "related_nodes": [
-        "N-10382"
+        "N-10311"
       ],
       "tags": [],
       "claim_timestamp": "00:22:10–00:23:45",
@@ -1183,7 +1183,7 @@
         "A-1509.1"
       ],
       "related_nodes": [
-        "N-10385"
+        "N-10314"
       ],
       "tags": [],
       "claim_timestamp": "00:44:21",
@@ -1199,7 +1199,7 @@
         "A-1509.1"
       ],
       "related_nodes": [
-        "N-10385"
+        "N-10314"
       ],
       "tags": [],
       "claim_timestamp": "00:44:21–00:45:00",
@@ -1215,13 +1215,13 @@
         "A-1509.1"
       ],
       "related_nodes": [
-        "N-10385"
+        "N-10314"
       ],
       "tags": [],
       "claim_timestamp": "00:45:11",
       "investigative_direction": "Verify via court subpoena records and FBI/subpoena logs whether the caller was contacted by either party.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -1234,7 +1234,7 @@
         "A-1509.1"
       ],
       "related_nodes": [
-        "N-10385"
+        "N-10314"
       ],
       "tags": [],
       "claim_timestamp": "00:44:21–00:45:00",
@@ -1250,14 +1250,14 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-10384"
+        "N-10313"
       ],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
       "investigative_direction": "Obtain TPUSA corporate filings or official communications confirming Erika Kirk's current title and date of appointment.",
       "mentions_person_refs": [
         "N-2",
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -1270,15 +1270,15 @@
         "A-1501.2"
       ],
       "related_nodes": [
-        "N-10384"
+        "N-10313"
       ],
       "tags": [],
       "claim_timestamp": "00:07:32",
       "investigative_direction": "Monitor TPUSA channels for confirmation and document the actual event for artifact capture.",
       "mentions_person_refs": [
         "N-2",
-        "N-42",
-        "N-224"
+        "N-14",
+        "N-162"
       ]
     }
   ],

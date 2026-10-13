@@ -31,14 +31,14 @@
             "C-2110"
           ],
           "related_nodes": [
-            "N-729",
-            "N-733",
-            "N-734",
-            "N-735",
-            "N-736",
-            "N-737",
-            "N-10488",
-            "N-10489"
+            "N-470",
+            "N-473",
+            "N-474",
+            "N-475",
+            "N-476",
+            "N-477",
+            "N-10417",
+            "N-10418"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -58,8 +58,8 @@
             "C-2110"
           ],
           "related_nodes": [
-            "N-729",
-            "N-10489"
+            "N-470",
+            "N-10418"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -77,8 +77,8 @@
             "C-2109"
           ],
           "related_nodes": [
-            "N-729",
-            "N-10489"
+            "N-470",
+            "N-10418"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -105,7 +105,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10490"
+            "N-10419"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -132,7 +132,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10490"
+            "N-10419"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -158,9 +158,9 @@
             "C-2114"
           ],
           "related_nodes": [
-            "N-730",
-            "N-731",
-            "N-10492"
+            "N-471",
+            "N-472",
+            "N-10421"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -179,8 +179,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-730",
-            "N-10492"
+            "N-471",
+            "N-10421"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -199,7 +199,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-10492"
+            "N-10421"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -225,8 +225,8 @@
             "C-2116"
           ],
           "related_nodes": [
-            "N-730",
-            "N-10494"
+            "N-471",
+            "N-10423"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -253,8 +253,8 @@
             "C-2119"
           ],
           "related_nodes": [
-            "N-730",
-            "N-10491"
+            "N-471",
+            "N-10420"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -280,8 +280,8 @@
             "C-2118"
           ],
           "related_nodes": [
-            "N-293",
-            "N-10495"
+            "N-205",
+            "N-10424"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -299,8 +299,8 @@
             "C-2119"
           ],
           "related_nodes": [
-            "N-293",
-            "N-10495"
+            "N-205",
+            "N-10424"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -326,8 +326,8 @@
             "C-2120"
           ],
           "related_nodes": [
-            "N-744",
-            "N-10493"
+            "N-480",
+            "N-10422"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -343,8 +343,8 @@
           "description": "Sisbear Comment: Whistleblower Sabrina Wallace, DARPA Biosonar Testing on Children",
           "related_claims": [],
           "related_nodes": [
-            "N-738",
-            "N-10493"
+            "N-478",
+            "N-10422"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -359,8 +359,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-729",
-      "ref": "N-729",
+      "@id": "N-470",
+      "ref": "N-470",
       "name": "Clayton Haugen",
       "type": "person",
       "description": "Director of *November Renaissance*; military-affiliated individual cited as close to Erika during ~2010–2013 production era.",
@@ -380,13 +380,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10489"
+        "N-10418"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-730",
-      "ref": "N-730",
+      "@id": "N-471",
+      "ref": "N-471",
       "name": "Nelda Buckman",
       "type": "person",
       "description": "Major Turning Point USA donor; executive producer of *Identity Crisis*; affiliated with Courage House Nevada and National Angels foster-care work.",
@@ -408,16 +408,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-731",
-        "N-10491",
-        "N-10492",
-        "N-10494"
+        "N-472",
+        "N-10420",
+        "N-10421",
+        "N-10423"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-731",
-      "ref": "N-731",
+      "@id": "N-472",
+      "ref": "N-472",
       "name": "Karl Buckman",
       "type": "person",
       "description": "Co-donor with Nelda Buckman of $10 million to Turning Point USA; Florida campus named \"Buckman Campus\" after the gift.",
@@ -433,14 +433,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-730",
-        "N-10492"
+        "N-471",
+        "N-10421"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-293",
-      "ref": "N-293",
+      "@id": "N-205",
+      "ref": "N-205",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Subject of episode segment two; on-air audio captures regarding Jeffrey Epstein / pedophilia framing.",
@@ -458,15 +458,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-334",
-        "N-741",
-        "N-10495"
+        "N-224",
+        "N-479",
+        "N-10424"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-733",
-      "ref": "N-733",
+      "@id": "N-473",
+      "ref": "N-473",
       "name": "Don Frye",
       "type": "person",
       "description": "*November Renaissance* cast; graduated high school in Sierra Vista and trained in judo at Fort Huachuca.",
@@ -482,14 +482,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10488",
-        "N-10489"
+        "N-10417",
+        "N-10418"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-734",
-      "ref": "N-734",
+      "@id": "N-474",
+      "ref": "N-474",
       "name": "Payton McCormick",
       "type": "person",
       "description": "*November Renaissance* cast; granddaughter of Colonel Pete McCormick and daughter of Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.",
@@ -505,14 +505,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10488",
-        "N-10489"
+        "N-10417",
+        "N-10418"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-735",
-      "ref": "N-735",
+      "@id": "N-475",
+      "ref": "N-475",
       "name": "Chantel Thuy",
       "type": "person",
       "description": "*November Renaissance* cast; identified host-stated connection to Fort Huachuca and stated father worked in AI for IBM.",
@@ -528,13 +528,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10489"
+        "N-10418"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-736",
-      "ref": "N-736",
+      "@id": "N-476",
+      "ref": "N-476",
       "name": "Price Mitchum",
       "type": "person",
       "description": "*November Renaissance* cast; host notes subject of a 5150 psych hold.",
@@ -550,13 +550,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10489"
+        "N-10418"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-737",
-      "ref": "N-737",
+      "@id": "N-477",
+      "ref": "N-477",
       "name": "Priscilla Ann Nu'ul",
       "type": "person",
       "description": "Name flagged as uncertainty – referenced in same sentence as \"Miss Teen USA 2006\" in cast discussion; relationship to other cast members unclear from transcript.",
@@ -572,13 +572,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10489"
+        "N-10418"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-738",
-      "ref": "N-738",
+      "@id": "N-478",
+      "ref": "N-478",
       "name": "Sabrina Wallace",
       "type": "person",
       "description": "Whistleblower mentioned in read-aloud comment (Sisbear) as alleging DARPA biosonar testing on children in 1980s–1990s.",
@@ -592,13 +592,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10493"
+        "N-10422"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-334",
-      "ref": "N-334",
+      "@id": "N-224",
+      "ref": "N-224",
       "name": "Milo Yiannopoulos",
       "type": "person",
       "description": "Referenced as informer to Nick Fuentes the night before Jan 6 about alleged federal trap.",
@@ -612,14 +612,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-293",
-        "N-10495"
+        "N-205",
+        "N-10424"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-741",
-      "ref": "N-741",
+      "@id": "N-479",
+      "ref": "N-479",
       "name": "Ferris Wilks",
       "type": "person",
       "description": "Referenced re: Nick Fuentes pitching sale of follower data to Defend Texas Liberty.",
@@ -633,14 +633,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-293",
-        "N-10495"
+        "N-205",
+        "N-10424"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-204",
-      "ref": "N-204",
+      "@id": "N-148",
+      "ref": "N-148",
       "name": "Marjorie Taylor Greene",
       "type": "person",
       "description": "Referenced in Fuentes clip re: framing of Epstein case as \"female victims.\"",
@@ -652,14 +652,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-293",
-        "N-10495"
+        "N-205",
+        "N-10424"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-744",
-      "ref": "N-744",
+      "@id": "N-480",
+      "ref": "N-480",
       "name": "Nika",
       "type": "person",
       "description": "Reader-comment author; self-identifies as \"gate kid\" with memory blackout ages 4–10 at Fort Hood, attendance at schools linked via Aspen Education Group.",
@@ -675,13 +675,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10493"
+        "N-10422"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-552",
-      "ref": "N-552",
+      "@id": "N-337",
+      "ref": "N-337",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Investigator cited as having done significant plane-tracking work.",
@@ -697,13 +697,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10492"
+        "N-10421"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-413",
-      "ref": "N-413",
+      "@id": "N-269",
+      "ref": "N-269",
       "name": "Mommy Sleuth (Nellie)",
       "type": "person",
       "description": "Anonymous reader credited with Courage House Nevada and plane-tracking research.",
@@ -721,14 +721,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10491",
-        "N-10492"
+        "N-10420",
+        "N-10421"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10488",
-      "ref": "N-10488",
+      "@id": "N-10417",
+      "ref": "N-10417",
       "name": "Fort Huachuca Erika Presence Investigation",
       "type": "investigation_target",
       "description": "Persistent investigation into whether Erika was present at Fort Huachuca on or around September 9 (the day before Charlie's assassination) and her broader familiarity with the base.",
@@ -747,15 +747,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-729",
-        "N-733",
-        "N-734"
+        "N-470",
+        "N-473",
+        "N-474"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10489",
-      "ref": "N-10489",
+      "@id": "N-10418",
+      "ref": "N-10418",
       "name": "November Renaissance Film Production Investigation",
       "type": "investigation_target",
       "description": "Investigation into the unreleased short film *November Renaissance*, its Fort Huapuca-affiliated cast and crew, its plot content (nanotechnology, corporate proxies), and Erika's reported role as \"Evelyn Mathis.\"",
@@ -775,18 +775,18 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-729",
-        "N-733",
-        "N-734",
-        "N-735",
-        "N-736",
-        "N-737"
+        "N-470",
+        "N-473",
+        "N-474",
+        "N-475",
+        "N-476",
+        "N-477"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10490",
-      "ref": "N-10490",
+      "@id": "N-10419",
+      "ref": "N-10419",
       "name": "Erika China Residence Discrepancy",
       "type": "investigation_target",
       "description": "Contradiction between Erika's on-air statement that she \"lived in China\" working with child sex-trafficking victims and Turning Point executive Justin Stripe's statement that she never lived there.",
@@ -809,8 +809,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10491",
-      "ref": "N-10491",
+      "@id": "N-10420",
+      "ref": "N-10420",
       "name": "Courage House Nevada Investigation",
       "type": "investigation_target",
       "description": "Investigation into the 40-acre Washoe County psychiatric residential treatment facility for child sex-trafficking survivors, its confidential location, capacity for 18 children, and Nelda Buckman's reported role as largest donor.",
@@ -827,14 +827,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-730",
-        "N-413"
+        "N-471",
+        "N-269"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10492",
-      "ref": "N-10492",
+      "@id": "N-10421",
+      "ref": "N-10421",
       "name": "Buckman–TPUSA Donor Relationship Investigation",
       "type": "investigation_target",
       "description": "Investigation into the $10 million Buckman gift, Florida campus renaming, plane access, and Nelda Buckman's described post-assassination closeness with Erika.",
@@ -854,16 +854,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-730",
-        "N-731",
-        "N-552",
-        "N-413"
+        "N-471",
+        "N-472",
+        "N-337",
+        "N-269"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10493",
-      "ref": "N-10493",
+      "@id": "N-10422",
+      "ref": "N-10422",
       "name": "GATE / Gifted Education Program Investigation",
       "type": "investigation_target",
       "description": "Investigation into gifted-and-talented / \"Extraordinary Learners\" programs, DoD-connected youth programs (Aspen Education Group schools), and reported memory blackout / surveillance phenomena among self-identified alumni.",
@@ -880,14 +880,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-738",
-        "N-744"
+        "N-478",
+        "N-480"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10494",
-      "ref": "N-10494",
+      "@id": "N-10423",
+      "ref": "N-10423",
       "name": "Identity Crisis Documentary Production Investigation",
       "type": "investigation_target",
       "description": "Investigation into the 2024 *Identity Crisis* documentary, its Daily Wire / Turning Point USA co-production, and Nelda Buckman's role as executive producer.",
@@ -903,13 +903,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-730"
+        "N-471"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10495",
-      "ref": "N-10495",
+      "@id": "N-10424",
+      "ref": "N-10424",
       "name": "Nick Fuentes Federal Informant Allegation",
       "type": "investigation_target",
       "description": "Persistent host allegation that Nick Fuentes operates as a federal informant, with new artifact support in this episode (audio clips re: Epstein / pedophilia framing).",
@@ -930,10 +930,10 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-293",
-        "N-334",
-        "N-741",
-        "N-204"
+        "N-205",
+        "N-224",
+        "N-479",
+        "N-148"
       ]
     },
     {
@@ -954,8 +954,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-35",
-      "ref": "N-35",
+      "@id": "N-9",
+      "ref": "N-9",
       "name": "Jeffrey Epstein",
       "type": "person",
       "description": "Nucleus of Lutnick/Andre whistleblower thread and host's broader files thesis.",
@@ -970,8 +970,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
+      "@id": "N-97",
+      "ref": "N-97",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
@@ -1002,8 +1002,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-43",
-      "ref": "N-43",
+      "@id": "N-15",
+      "ref": "N-15",
       "name": "Justin Strife",
       "type": "person",
       "description": "TPUSA-affiliated intermediary; sent text messages to the host stating Erika's mother was very sick; per host, also revised the location of Erika's sighting from \"basketball game\" to \"football game.\"",
@@ -1029,19 +1029,19 @@
         "A-1635.2"
       ],
       "related_nodes": [
-        "N-10488",
-        "N-10489"
+        "N-10417",
+        "N-10418"
       ],
       "tags": [],
       "claim_timestamp": "00:03:23–00:05:24",
       "investigative_direction": "Obtain independent verification of military service records for named cast members and cross-reference Fort Huachuca duty rosters.",
       "mentions_person_refs": [
-        "N-729",
-        "N-733",
-        "N-734",
-        "N-735",
-        "N-736",
-        "N-737"
+        "N-470",
+        "N-473",
+        "N-474",
+        "N-475",
+        "N-476",
+        "N-477"
       ]
     },
     {
@@ -1055,13 +1055,13 @@
         "A-1635.3"
       ],
       "related_nodes": [
-        "N-10489"
+        "N-10418"
       ],
       "tags": [],
       "claim_timestamp": "00:08:16–00:10:12",
       "investigative_direction": "Obtain and archive the full Kickstarter campaign text and director pitch video to preserve the complete concept description.",
       "mentions_person_refs": [
-        "N-729"
+        "N-470"
       ]
     },
     {
@@ -1074,14 +1074,14 @@
         "A-1635.2"
       ],
       "related_nodes": [
-        "N-10489"
+        "N-10418"
       ],
       "tags": [],
       "claim_timestamp": "00:05:24",
       "investigative_direction": "Archive the Kickstarter remnant directly and verify the character name against any backup poster or campaign screenshots.",
       "mentions_person_refs": [
         "N-2",
-        "N-729"
+        "N-470"
       ]
     },
     {
@@ -1092,7 +1092,7 @@
       "claim": "Three individuals with Fort Huachuca affiliation – including one currently stationed there who publicly posted and then deleted a claim, a former service member who confirmed the post, and a third who reported a chat-room assertion that an order was given to lower drones on September 9 – report having seen Erika at Fort Huachuca.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10488"
+        "N-10417"
       ],
       "tags": [],
       "claim_timestamp": "00:11:15–00:14:14",
@@ -1111,7 +1111,7 @@
         "A-1636.1"
       ],
       "related_nodes": [
-        "N-10490"
+        "N-10419"
       ],
       "tags": [],
       "claim_timestamp": "00:16:13–00:18:00",
@@ -1130,7 +1130,7 @@
         "A-1637.1"
       ],
       "related_nodes": [
-        "N-10490"
+        "N-10419"
       ],
       "tags": [],
       "claim_timestamp": "00:18:47",
@@ -1145,12 +1145,12 @@
       "@id": "C-3742",
       "ref": "C-3742",
       "label": "Justin Strife is the Turning Point executive C-2113 spells 'Justin Stripe' (revises C-2113)",
-      "claim": "C-2113 spells the executive's name 'Justin Stripe' (auto-caption form). The executive is Justin Strife (N-43). He replied to Candace Owens that Erika never lived in China and that she only went on a trip for a couple of weeks to see the Great Wall of China.",
+      "claim": "C-2113 spells the executive's name 'Justin Stripe' (auto-caption form). The executive is Justin Strife (N-15). He replied to Candace Owens that Erika never lived in China and that she only went on a trip for a couple of weeks to see the Great Wall of China.",
       "anchored_artifacts": [
         "A-1637.1"
       ],
       "related_nodes": [
-        "N-10490"
+        "N-10419"
       ],
       "tags": [],
       "claim_timestamp": "00:18:47",
@@ -1161,7 +1161,7 @@
         "C-2113"
       ],
       "mentions_person_refs": [
-        "N-43",
+        "N-15",
         "N-2",
         "N-3"
       ]
@@ -1176,14 +1176,14 @@
         "A-1638.1"
       ],
       "related_nodes": [
-        "N-10492"
+        "N-10421"
       ],
       "tags": [],
       "claim_timestamp": "00:20:05–00:21:00",
       "investigative_direction": "Obtain Daily Wire's article text and any Turning Point USA press release; verify gift amount and naming date against 990 filings or press archives.",
       "mentions_person_refs": [
-        "N-730",
-        "N-731"
+        "N-471",
+        "N-472"
       ]
     },
     {
@@ -1196,14 +1196,14 @@
         "A-1638.2"
       ],
       "related_nodes": [
-        "N-10492"
+        "N-10421"
       ],
       "tags": [],
       "claim_timestamp": "00:21:00–00:22:00",
       "investigative_direction": "Obtain the full Daily Wire Plus interview text; verify date and any documentation of the Florida meeting.",
       "mentions_person_refs": [
         "N-2",
-        "N-730"
+        "N-471"
       ]
     },
     {
@@ -1216,14 +1216,14 @@
         "A-1639.1"
       ],
       "related_nodes": [
-        "N-10494"
+        "N-10423"
       ],
       "tags": [],
       "claim_timestamp": "00:21:46",
       "investigative_direction": "Verify Buckman's credit against the film's production filings (e.g., IMDb, registered producer credits, copyright registrations).",
       "mentions_person_refs": [
-        "N-730",
-        "N-133"
+        "N-471",
+        "N-97"
       ]
     },
     {
@@ -1236,15 +1236,15 @@
         "A-1638.3"
       ],
       "related_nodes": [
-        "N-10492"
+        "N-10421"
       ],
       "tags": [],
       "claim_timestamp": "00:18:20",
       "investigative_direction": "Obtain tail-number records and cross-reference flight logs (ADS-B / FlightAware) against donor locations.",
       "mentions_person_refs": [
         "N-2",
-        "N-413",
-        "N-552"
+        "N-269",
+        "N-337"
       ]
     },
     {
@@ -1257,14 +1257,14 @@
         "A-1641.1"
       ],
       "related_nodes": [
-        "N-10495"
+        "N-10424"
       ],
       "tags": [],
       "claim_timestamp": "00:36:23–00:39:06",
       "investigative_direction": "Obtain the unedited source clip with timestamp and channel identification to verify wording and context.",
       "mentions_person_refs": [
-        "N-293",
-        "N-35"
+        "N-205",
+        "N-9"
       ]
     },
     {
@@ -1277,13 +1277,13 @@
         "A-1641.2"
       ],
       "related_nodes": [
-        "N-10495"
+        "N-10424"
       ],
       "tags": [],
       "claim_timestamp": "00:42:23–00:44:18",
       "investigative_direction": "Obtain unedited source clip and verify the framing in the original Fuentes broadcast context.",
       "mentions_person_refs": [
-        "N-293"
+        "N-205"
       ]
     },
     {
@@ -1296,13 +1296,13 @@
         "A-1642.1"
       ],
       "related_nodes": [
-        "N-10493"
+        "N-10422"
       ],
       "tags": [],
       "claim_timestamp": "00:53:05–00:55:26",
       "investigative_direction": "Verify Aspen Education Group corporate lineage; obtain Nika's FOIA records if available; cross-reference named schools against public abuse litigation.",
       "mentions_person_refs": [
-        "N-744"
+        "N-480"
       ]
     },
     {
@@ -1313,7 +1313,7 @@
       "claim": "The host asserts that Nick Fuentes led people into the Capitol with a bullhorn, told them to ignore police and storm the barriers as if acting on federal instructions, and was not arrested, which she offers as evidence that he is a federal informant.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10495"
+        "N-10424"
       ],
       "tags": [],
       "claim_timestamp": "00:39:06",
@@ -1321,7 +1321,7 @@
       "transcript_snippet": "He led people into a capital with a bullhorn and said ignore police storm the barriers as if he had fed like he he had fed instructions",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-293"
+        "N-205"
       ]
     },
     {
@@ -1332,7 +1332,7 @@
       "claim": "The host says Nick Fuentes took a meeting with Defend Texas Liberty and Ferris Wilks' partner and, according to documents a reporter obtained, pitched selling the data of his followers.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10495"
+        "N-10424"
       ],
       "tags": [],
       "claim_timestamp": "00:39:06",
@@ -1340,8 +1340,8 @@
       "transcript_snippet": "he took a meeting with Defend Texas Liberty and Ferris Wilks' partner and pitched they actually one reporter got documents was pitching to sell the data of his followers",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-293",
-        "N-741"
+        "N-205",
+        "N-479"
       ]
     },
     {
@@ -1352,7 +1352,7 @@
       "claim": "The host says it is known \"for a fact\" that Milo Yiannopoulos informed Nick Fuentes the night before he led people into the Capitol that a federal trap was happening, and that Fuentes still went with a bullhorn.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10495"
+        "N-10424"
       ],
       "tags": [],
       "claim_timestamp": "00:39:06",
@@ -1360,8 +1360,8 @@
       "transcript_snippet": "we know for a fact he was informed the night before the night before by Milo Yiannopoulos. That the feds were going to be that there was there was some fed trap happening",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-293",
-        "N-334"
+        "N-205",
+        "N-224"
       ]
     },
     {
@@ -1379,7 +1379,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3",
-        "N-413"
+        "N-269"
       ]
     }
   ],

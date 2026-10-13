@@ -58,7 +58,7 @@
           "description": "Morgan Ariel tweet observing that Laura Loomer had not posted about Candace's text reporting",
           "related_claims": [],
           "related_nodes": [
-            "N-91"
+            "N-60"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -75,7 +75,7 @@
             "C-1388"
           ],
           "related_nodes": [
-            "N-91"
+            "N-60"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -122,7 +122,7 @@
             "C-1390"
           ],
           "related_nodes": [
-            "N-221"
+            "N-160"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -139,7 +139,7 @@
             "C-1391"
           ],
           "related_nodes": [
-            "N-42"
+            "N-14"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -164,7 +164,7 @@
             "C-1380"
           ],
           "related_nodes": [
-            "N-42"
+            "N-14"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -181,7 +181,7 @@
             "C-1381"
           ],
           "related_nodes": [
-            "N-42"
+            "N-14"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -198,7 +198,7 @@
             "C-1383"
           ],
           "related_nodes": [
-            "N-224"
+            "N-162"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -215,7 +215,7 @@
             "C-1382"
           ],
           "related_nodes": [
-            "N-42",
+            "N-14",
             "N-1"
           ],
           "tags": [],
@@ -241,7 +241,7 @@
             "C-1384"
           ],
           "related_nodes": [
-            "N-216"
+            "N-156"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -258,7 +258,7 @@
             "C-1385"
           ],
           "related_nodes": [
-            "N-216"
+            "N-156"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -275,7 +275,7 @@
             "C-1386"
           ],
           "related_nodes": [
-            "N-216"
+            "N-156"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -300,8 +300,8 @@
             "C-1396"
           ],
           "related_nodes": [
-            "N-220",
-            "N-91"
+            "N-159",
+            "N-60"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -328,8 +328,8 @@
             "C-1395"
           ],
           "related_nodes": [
-            "N-217",
-            "N-218"
+            "N-157",
+            "N-158"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -346,8 +346,8 @@
             "C-1393"
           ],
           "related_nodes": [
-            "N-217",
-            "N-218"
+            "N-157",
+            "N-158"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -373,7 +373,7 @@
             "C-1382"
           ],
           "related_nodes": [
-            "N-42",
+            "N-14",
             "N-1"
           ],
           "tags": [],
@@ -400,7 +400,7 @@
             "C-1399"
           ],
           "related_nodes": [
-            "N-16"
+            "N-7"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -425,7 +425,7 @@
             "C-1397"
           ],
           "related_nodes": [
-            "N-42"
+            "N-14"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -525,7 +525,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10236"
+            "N-10170"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -540,8 +540,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Turning Point USA spokesperson; the first TPUSA-internally-ranked official to publicly confirm the authenticity of the Kirk text chain (A-1228).",
@@ -565,8 +565,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-216",
-      "ref": "N-216",
+      "@id": "N-156",
+      "ref": "N-156",
       "name": "Robert J. O'Neill",
       "type": "person",
       "description": "Former Navy SEAL; Piers Morgan Show guest; questioned the visible wound type, shirt movement direction, and crime-scene teardown.",
@@ -588,8 +588,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-217",
-      "ref": "N-217",
+      "@id": "N-157",
+      "ref": "N-157",
       "name": "John Mappin",
       "type": "person",
       "description": "TPUSA donor; co-author of the public letter supporting Candace's investigation; identified by Candace as the donor who helped launch Turning Point UK.",
@@ -610,8 +610,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-218",
-      "ref": "N-218",
+      "@id": "N-158",
+      "ref": "N-158",
       "name": "Arena Mappin",
       "type": "person",
       "description": "TPUSA donor; co-author of the public letter supporting Candace's investigation. Name appears in the transcript under multiple spellings: \"Arena,\" \"Reena,\" \"Aarina.\"",
@@ -632,8 +632,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Podcaster; reported via Luna's fan comment to have stated on his podcast that Charlie Kirk said \"they want him dead\" shortly before his death.",
@@ -651,8 +651,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-220",
-      "ref": "N-220",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "Conrad Flynn",
       "type": "person",
       "description": "Writer/producer; appeared on Tucker Carlson's show discussing Pontius Pilate's wife as prophetic dreamer.",
@@ -670,8 +670,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-221",
-      "ref": "N-221",
+      "@id": "N-160",
+      "ref": "N-160",
       "name": "The Quartering",
       "type": "person",
       "description": "YouTuber/commentator; publicly questioned what the released texts actually prove.",
@@ -689,8 +689,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-91",
-      "ref": "N-91",
+      "@id": "N-60",
+      "ref": "N-60",
       "name": "Laura Loomer",
       "type": "person",
       "description": "Commentator; publicly dismissed Candace's text reporting as \"postpartum psychotic rants.\"",
@@ -708,8 +708,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Co-host of the Charlie Kirk Show; stated on air he is an eyewitness to events and has been advised not to comment publicly.",
@@ -727,8 +727,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10234",
-      "ref": "N-10234",
+      "@id": "N-10168",
+      "ref": "N-10168",
       "name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
       "type": "investigation_target",
       "description": "Investigation target: verification of whether Lance Twiggs is the individual in the maroon shirt seen in the released imagery. Candace asserts his build is \"nothing like Tyler Robinson's build\" and hypothesizes Twiggs is the maroon-shirt wearer.",
@@ -745,8 +745,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10235",
-      "ref": "N-10235",
+      "@id": "N-10169",
+      "ref": "N-10169",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
       "type": "investigation_target",
       "description": "Investigation target: verification of Hammer's claim of a Zoom call with Charlie Kirk the night before Kirk's death, including attendee list and discussion content.",
@@ -762,13 +762,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-42"
+        "N-14"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10236",
-      "ref": "N-10236",
+      "@id": "N-10170",
+      "ref": "N-10170",
       "name": "George Zinn Federal Familial Connections (per tip)",
       "type": "investigation_target",
       "description": "Investigation target: verification of Candace's claim that Zinn has potential familial connections to a federal department.",
@@ -786,8 +786,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10237",
-      "ref": "N-10237",
+      "@id": "N-10171",
+      "ref": "N-10171",
       "name": "Tyler / Lance Apartment Lock Change Anomaly",
       "type": "investigation_target",
       "description": "Investigation target: verification of the family's claim that apartment locks were illegally changed after the raid without their knowledge; identification of who authorized the change (Lance or federal actors).",
@@ -805,8 +805,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10238",
-      "ref": "N-10238",
+      "@id": "N-10172",
+      "ref": "N-10172",
       "name": "Multiple Decoys Theory (4 Decoys Named)",
       "type": "investigation_target",
       "description": "Investigation target: the structural theory advanced by Candace that the visible persons in the released imagery (George Zinn, \"staircase guy,\" \"maroon shirt guy,\" \"Losee Center guy\") are decoys rather than the shooter.",
@@ -820,13 +820,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-10234"
+        "N-10168"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10239",
-      "ref": "N-10239",
+      "@id": "N-10173",
+      "ref": "N-10173",
       "name": "George Zinn Medical Payment Claim Verification",
       "type": "investigation_target",
       "description": "Investigation target: verification of the medical-staff-reported statement that Zinn claimed he was being paid to take responsibility for Kirk's death, with payment pending.",
@@ -842,7 +842,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10236"
+        "N-10170"
       ]
     },
     {
@@ -879,8 +879,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
@@ -895,8 +895,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-65",
-      "ref": "N-65",
+      "@id": "N-36",
+      "ref": "N-36",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
@@ -911,8 +911,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
@@ -927,8 +927,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-71",
-      "ref": "N-71",
+      "@id": "N-42",
+      "ref": "N-42",
       "name": "George Zinn",
       "type": "person",
       "description": "Arrested for claiming to be the shooter on incident day; per host, told Utah Valley nurses he was paid.",
@@ -943,8 +943,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-84",
-      "ref": "N-84",
+      "@id": "N-54",
+      "ref": "N-54",
       "name": "Lance Twiggs",
       "type": "person",
       "description": "Robinson's partner; recipient of FBI-released text chain",
@@ -976,7 +976,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -993,7 +993,7 @@
       "claim_timestamp": "00:15:24",
       "investigative_direction": "Identify which government figures received the screen grab; determine whether any chain-of-custody record exists for the shared image.",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -1012,8 +1012,8 @@
       "investigative_direction": "Compare Kovette's \"wrestle\" framing against contemporaneous private communications from Kirk to determine the duration and scope of the position shift.",
       "mentions_person_refs": [
         "N-1",
-        "N-42",
-        "N-65"
+        "N-14",
+        "N-36"
       ]
     },
     {
@@ -1030,7 +1030,7 @@
       "claim_timestamp": "00:16:13",
       "investigative_direction": "Identify the events Blake claims to have witnessed; determine the source of the legal advice restraining his commentary.",
       "mentions_person_refs": [
-        "N-224"
+        "N-162"
       ]
     },
     {
@@ -1048,7 +1048,7 @@
       "investigative_direction": "Obtain the full unedited Kirk video and a forensic pathologist review to determine wound entry/exit characteristics independently of O'Neill's lay assessment.",
       "mentions_person_refs": [
         "N-1",
-        "N-216"
+        "N-156"
       ]
     },
     {
@@ -1066,7 +1066,7 @@
       "investigative_direction": "Obtain the full unedited video and forensic-physics reconstruction of the shirt movement to test whether the directionality is consistent with the stated shooter location.",
       "mentions_person_refs": [
         "N-1",
-        "N-216"
+        "N-156"
       ]
     },
     {
@@ -1083,7 +1083,7 @@
       "claim_timestamp": "00:29:51",
       "investigative_direction": "Confirm with Utah court / Utah State Records the timeline of any paving work at the UVU Losee Center site and the responsible party.",
       "mentions_person_refs": [
-        "N-216"
+        "N-156"
       ]
     },
     {
@@ -1119,7 +1119,7 @@
       "investigative_direction": "Track whether Loomer issued any post-Kovette-confirmation update acknowledging the texts' authenticity.",
       "mentions_person_refs": [
         "N-3",
-        "N-91"
+        "N-60"
       ]
     },
     {
@@ -1151,10 +1151,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:01",
-      "investigative_direction": "Evaluate the substance of the \"what does it prove\" critique against the substantive content of the text chain (C-1382, N-42).",
+      "investigative_direction": "Evaluate the substance of the \"what does it prove\" critique against the substantive content of the text chain (C-1382, N-14).",
       "mentions_person_refs": [
         "N-1",
-        "N-221"
+        "N-160"
       ]
     },
     {
@@ -1171,7 +1171,7 @@
       "claim_timestamp": "00:12:48",
       "investigative_direction": "Pull the Community Notes entry directly for the source post to verify the wording of the Kovette-attributed confirmation.",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -1190,8 +1190,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-217",
-        "N-218"
+        "N-157",
+        "N-158"
       ]
     },
     {
@@ -1208,8 +1208,8 @@
       "claim_timestamp": "00:49:54",
       "investigative_direction": "Identify (with Mappin cooperation) any of the named senior Republican or TPUSA donor callers willing to go on record.",
       "mentions_person_refs": [
-        "N-217",
-        "N-218"
+        "N-157",
+        "N-158"
       ]
     },
     {
@@ -1226,8 +1226,8 @@
       "claim_timestamp": "00:48:30",
       "investigative_direction": "Cross-reference polling or independent survey data on public belief about the official Kirk investigation narrative.",
       "mentions_person_refs": [
-        "N-217",
-        "N-218"
+        "N-157",
+        "N-158"
       ]
     },
     {
@@ -1242,8 +1242,8 @@
       "claim_timestamp": "00:44:38",
       "investigative_direction": "Verify through TPUSA / Turning Point UK records John Mappin's role in the UK launch.",
       "mentions_person_refs": [
-        "N-217",
-        "N-218"
+        "N-157",
+        "N-158"
       ]
     },
     {
@@ -1260,8 +1260,8 @@
       "claim_timestamp": "00:04:56",
       "investigative_direction": "Obtain the full Tucker / Flynn segment to determine the surrounding context and any explicit connection drawn to the Kirk case.",
       "mentions_person_refs": [
-        "N-220",
-        "N-50"
+        "N-159",
+        "N-22"
       ]
     },
     {
@@ -1279,7 +1279,7 @@
       "investigative_direction": "Identify the other Zoom call attendees; obtain any contemporaneous notes or call logs; verify whether the call occurred.",
       "mentions_person_refs": [
         "N-1",
-        "N-86"
+        "N-55"
       ]
     },
     {
@@ -1315,7 +1315,7 @@
       "investigative_direction": "Identify and timestamp the Frank Turk podcast episode containing the statement; obtain the original audio.",
       "mentions_person_refs": [
         "N-1",
-        "N-16"
+        "N-7"
       ]
     },
     {
@@ -1333,7 +1333,7 @@
       "investigative_direction": "Obtain official arrest / detention logs from Utah authorities for Lance Twiggs; reconcile with the family's account.",
       "mentions_person_refs": [
         "N-3",
-        "N-84"
+        "N-54"
       ]
     },
     {
@@ -1346,15 +1346,15 @@
         "A-1235.3"
       ],
       "related_nodes": [
-        "N-10237"
+        "N-10171"
       ],
       "tags": [],
       "claim_timestamp": "00:40:07",
       "investigative_direction": "Identify the party that authorized the lock change (Lance or federal actors); obtain landlord records of the apartment (the family reportedly owns the unit).",
       "mentions_person_refs": [
         "N-3",
-        "N-69",
-        "N-84"
+        "N-40",
+        "N-54"
       ]
     },
     {
@@ -1367,14 +1367,14 @@
         "A-1235.4"
       ],
       "related_nodes": [
-        "N-10239"
+        "N-10173"
       ],
       "tags": [],
       "claim_timestamp": "00:41:24",
       "investigative_direction": "Identify and interview the medical staff who reportedly received these statements from Zinn; obtain any contemporaneous medical records.",
       "mentions_person_refs": [
         "N-3",
-        "N-71"
+        "N-42"
       ]
     },
     {
@@ -1387,14 +1387,14 @@
         "A-1235.5"
       ],
       "related_nodes": [
-        "N-10236"
+        "N-10170"
       ],
       "tags": [],
       "claim_timestamp": "00:36:11",
       "investigative_direction": "Identify which federal department is implicated; obtain any employment / family records.",
       "mentions_person_refs": [
         "N-3",
-        "N-71"
+        "N-42"
       ]
     }
   ],

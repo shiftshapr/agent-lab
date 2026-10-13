@@ -28,7 +28,7 @@
           "description": "Crowd Singing \"Heartless\" at Ye's Chicago Show",
           "related_claims": [],
           "related_nodes": [
-            "N-56"
+            "N-27"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -44,7 +44,7 @@
           "description": "\"Famous\" Crowd Performance Clip",
           "related_claims": [],
           "related_nodes": [
-            "N-56"
+            "N-27"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -60,7 +60,7 @@
           "description": "\"Runaway\" Closing Piano Moment",
           "related_claims": [],
           "related_nodes": [
-            "N-56"
+            "N-27"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -84,7 +84,7 @@
           "description": "Kanye West 2013 BBC Interview Segment on Fans and Self-Esteem",
           "related_claims": [],
           "related_nodes": [
-            "N-56"
+            "N-27"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -108,7 +108,7 @@
           "description": "Fan-made \"Avengers Assemble\" Meme Shared by Ye",
           "related_claims": [],
           "related_nodes": [
-            "N-56"
+            "N-27"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -133,7 +133,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-3",
-            "N-56"
+            "N-27"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -186,7 +186,7 @@
             "C-3397"
           ],
           "related_nodes": [
-            "N-224",
+            "N-162",
             "N-3"
           ],
           "tags": [],
@@ -216,7 +216,7 @@
             "C-3396"
           ],
           "related_nodes": [
-            "N-224",
+            "N-162",
             "N-1",
             "N-3",
             "N-10000"
@@ -251,7 +251,7 @@
           "related_nodes": [
             "N-2",
             "N-1",
-            "N-578",
+            "N-357",
             "N-10000"
           ],
           "tags": [],
@@ -279,7 +279,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-56"
+            "N-27"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -321,9 +321,9 @@
           "related_claims": [],
           "related_nodes": [
             "N-1",
-            "N-16",
-            "N-42",
-            "N-550"
+            "N-7",
+            "N-14",
+            "N-336"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -340,7 +340,7 @@
           "related_claims": [],
           "related_nodes": [
             "N-2",
-            "N-42"
+            "N-14"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -406,7 +406,7 @@
           "description": "\"Don't Give a Dom\" Comment Mocking Blake Neff",
           "related_claims": [],
           "related_nodes": [
-            "N-224"
+            "N-162"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -489,8 +489,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Author of X post (A-2346); subject of Deseret News profile (A-2347).",
@@ -514,8 +514,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-56",
-      "ref": "N-56",
+      "@id": "N-27",
+      "ref": "N-27",
       "name": "Kanye West",
       "type": "person",
       "description": "Concert performer; subject of BBC interview clip (A-2342), Avengers meme (A-2343), concert footage (A-2341), and TMZ clip (A-2344).",
@@ -537,8 +537,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-578",
-      "ref": "N-578",
+      "@id": "N-357",
+      "ref": "N-357",
       "name": "Usha Vance",
       "type": "person",
       "description": "Referenced in Erika Kirk op-ed (A-2348) as \"second lady\" and as source of \"15 minutes\" analogy.",
@@ -557,8 +557,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.",
@@ -573,8 +573,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-587",
-      "ref": "N-587",
+      "@id": "N-366",
+      "ref": "N-366",
       "name": "Kim Kardashian",
       "type": "person",
       "description": "The host describes, with video footage, encountering Kim Kardashian in the hotel lobby at Ye's Chicago homecoming concert.",
@@ -608,7 +608,7 @@
       "investigative_direction": "Obtain the original Deseret News article text directly and confirm the quoted material matches the host's reading; verify whether Neff names the other \"members\" present.",
       "mentions_person_refs": [
         "N-1",
-        "N-224",
+        "N-162",
         "N-3"
       ]
     },
@@ -626,7 +626,7 @@
       "claim_timestamp": "00:36:34",
       "investigative_direction": "Verify the exact Neff wording in the original Deseret News article; identify the source Neff cites for this characterization.",
       "mentions_person_refs": [
-        "N-224",
+        "N-162",
         "N-3",
         "N-1"
       ]
@@ -645,7 +645,7 @@
       "claim_timestamp": "00:36:34",
       "investigative_direction": "Verify the exact phrasing in the original Deseret News article; identify which specific views Neff was referencing.",
       "mentions_person_refs": [
-        "N-224",
+        "N-162",
         "N-3"
       ]
     },
@@ -665,7 +665,7 @@
       "claim_timestamp": "00:36:34",
       "investigative_direction": "Verify the exact Neff statement in the Deseret News article; corroborate against TPUSA's public posture and timeline around 2024.",
       "mentions_person_refs": [
-        "N-224",
+        "N-162",
         "N-3"
       ]
     },
@@ -683,7 +683,7 @@
       "claim_timestamp": "00:33:48",
       "investigative_direction": "Obtain the original X post URL and confirm text; cross-check the host's counter-travel record against verifiable travel logs.",
       "mentions_person_refs": [
-        "N-224",
+        "N-162",
         "N-3"
       ]
     },
@@ -720,7 +720,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-4",
-        "N-578",
+        "N-357",
         "N-1"
       ]
     },
@@ -740,7 +740,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-4",
-        "N-578"
+        "N-357"
       ]
     },
     {
@@ -792,9 +792,9 @@
       "claim_timestamp": "00:08:28",
       "investigative_direction": "Verify the footage timestamp and attendees independently; confirm the date and venue.",
       "mentions_person_refs": [
-        "N-56",
+        "N-27",
         "N-3",
-        "N-587"
+        "N-366"
       ]
     },
     {

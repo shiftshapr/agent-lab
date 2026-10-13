@@ -32,7 +32,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-56"
+            "N-27"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -51,7 +51,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-56"
+            "N-27"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -70,7 +70,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-56"
+            "N-27"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -97,7 +97,7 @@
             "C-1495"
           ],
           "related_nodes": [
-            "N-269"
+            "N-193"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -123,7 +123,7 @@
             "C-1496"
           ],
           "related_nodes": [
-            "N-56"
+            "N-27"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -149,7 +149,7 @@
             "C-1497"
           ],
           "related_nodes": [
-            "N-266"
+            "N-191"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -202,8 +202,8 @@
             "C-1500"
           ],
           "related_nodes": [
-            "N-42",
-            "N-272",
+            "N-14",
+            "N-194",
             "N-1",
             "N-2"
           ],
@@ -231,8 +231,8 @@
             "C-1501"
           ],
           "related_nodes": [
-            "N-273",
-            "N-272"
+            "N-195",
+            "N-194"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -258,8 +258,8 @@
             "C-1502"
           ],
           "related_nodes": [
-            "N-16",
-            "N-272"
+            "N-7",
+            "N-194"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -286,7 +286,7 @@
             "C-1504"
           ],
           "related_nodes": [
-            "N-10262"
+            "N-10196"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -313,8 +313,8 @@
             "C-1506"
           ],
           "related_nodes": [
-            "N-45",
-            "N-10264"
+            "N-17",
+            "N-10198"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -341,7 +341,7 @@
             "C-1508"
           ],
           "related_nodes": [
-            "N-117"
+            "N-82"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -367,7 +367,7 @@
             "C-1509"
           ],
           "related_nodes": [
-            "N-277"
+            "N-196"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -394,12 +394,12 @@
             "C-1506"
           ],
           "related_nodes": [
-            "N-42",
-            "N-272",
-            "N-16",
-            "N-45",
-            "N-70",
-            "N-10264"
+            "N-14",
+            "N-194",
+            "N-7",
+            "N-17",
+            "N-41",
+            "N-10198"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -414,8 +414,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-56",
-      "ref": "N-56",
+      "@id": "N-27",
+      "ref": "N-27",
       "name": "Kanye West",
       "type": "person",
       "description": "Musician; subject of the April 21, 2018 tweet that the episode anchors as a transformational event in Candace Owens' public career.",
@@ -440,8 +440,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-269",
-      "ref": "N-269",
+      "@id": "N-193",
+      "ref": "N-193",
       "name": "Mike Cernovich",
       "type": "person",
       "description": "Commentator; author of an April 2018 tweet thread on cosmic \"energy shift\" referenced by the host as corroborating her and Charlie's premonitions.",
@@ -460,8 +460,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-266",
-      "ref": "N-266",
+      "@id": "N-191",
+      "ref": "N-191",
       "name": "Scott Adams",
       "type": "person",
       "description": "Commentator; subject of audio clip characterizing Kanye's April 2018 tweet as having \"ripped a hole in reality.\"",
@@ -479,8 +479,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "TPUSA spokesperson (per on-air clip); authored the public explanation of Mikey McCoy's post-shooting actions.",
@@ -498,15 +498,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-272",
+        "N-194",
         "N-1",
         "N-2"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Charlie Kirk's chief of staff (per on-air references); subject of behavioral questions on September 10, 2025 and the focus of TPUSA's on-air defense.",
@@ -529,16 +529,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-42",
-        "N-16",
-        "N-45",
-        "N-10263"
+        "N-14",
+        "N-7",
+        "N-17",
+        "N-10197"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-273",
-      "ref": "N-273",
+      "@id": "N-195",
+      "ref": "N-195",
       "name": "Alex Marlo",
       "type": "person",
       "description": "Breitbart News; subject of on-air clip dismissing conspiracy allegations against Mikey McCoy and characterizing online speculation as addictive.",
@@ -556,8 +556,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Former U.S. Navy officer, Christian apologist; subject of on-air clip defending Mikey McCoy and rebuking Candace for advancing unevidenced claims.",
@@ -576,8 +576,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-45",
-      "ref": "N-45",
+      "@id": "N-17",
+      "ref": "N-17",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Pastor; subject of George Webb audio clip and the on-screen military-connections chart. Father identified as Roy Edgar McCoy (naval captain, assistant chief of staff for psychological warfare).",
@@ -595,13 +595,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10264"
+        "N-10198"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-117",
-      "ref": "N-117",
+      "@id": "N-82",
+      "ref": "N-82",
       "name": "Brigitte Macron",
       "type": "person",
       "description": "Spouse of Emmanuel Macron (transcribed by host as \"Breijit Mcronone\"); subject of French tax-form reporting cited as showing \"Jean Michelle\" male registration.",
@@ -620,8 +620,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-277",
-      "ref": "N-277",
+      "@id": "N-196",
+      "ref": "N-196",
       "name": "Nathan Livingstone",
       "type": "person",
       "description": "Operator of \"Milk Bar TV\" account; subject of host's account of book-club content reuse and copyright strike.",
@@ -639,8 +639,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-278",
-      "ref": "N-278",
+      "@id": "N-197",
+      "ref": "N-197",
       "name": "David Horowitz",
       "type": "person",
       "description": "Activist; referenced on air as initial conduit between Candace and Kanye post-April 2018 tweet.",
@@ -656,8 +656,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-217",
-      "ref": "N-217",
+      "@id": "N-157",
+      "ref": "N-157",
       "name": "John Mappin",
       "type": "person",
       "description": "UK-based donors (spelling uncertain per transcript); identified on air as facilitators of the December 2018 UK event where Candace first met her husband. Name uncertainty flagged.",
@@ -673,8 +673,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-281",
-      "ref": "N-281",
+      "@id": "N-199",
+      "ref": "N-199",
       "name": "Lee Trotter",
       "type": "person",
       "description": "Surgeon referenced on air as having worked on Charlie Kirk; host alleges Air Force residency at Keesler Air Force Medical Center and possible active Air Force service.",
@@ -690,8 +690,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-249",
-      "ref": "N-249",
+      "@id": "N-179",
+      "ref": "N-179",
       "name": "Deidra Weiss Amaro",
       "type": "person",
       "description": "Medical examiner referenced on air; host alleges Army rank of major and Ericsson family lineage tied to Boyd Corporation.",
@@ -707,8 +707,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-283",
-      "ref": "N-283",
+      "@id": "N-200",
+      "ref": "N-200",
       "name": "Roy Edgar McCoy",
       "type": "person",
       "description": "Naval captain (deceased, per context); father of Rob McCoy; host alleges service as assistant chief of staff for psychological warfare in the Navy.",
@@ -723,13 +723,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-45"
+        "N-17"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-284",
-      "ref": "N-284",
+      "@id": "N-201",
+      "ref": "N-201",
       "name": "Jacob Blank",
       "type": "person",
       "description": "Signatory of the UVU Hospital internal message restricting access to the Charlie Kirk trauma file.",
@@ -745,8 +745,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-285",
-      "ref": "N-285",
+      "@id": "N-202",
+      "ref": "N-202",
       "name": "George Webb",
       "type": "person",
       "description": "Investigative journalist; subject of on-air audio clip providing commentary on Rob McCoy's military background and NAR/Ziklag connections.",
@@ -765,8 +765,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10262",
-      "ref": "N-10262",
+      "@id": "N-10196",
+      "ref": "N-10196",
       "name": "UVU Hospital Charlie Kirk Medical File Access Question",
       "type": "investigation_target",
       "description": "Persistent question raised by host's receipt of an internal UVU Hospital message (A-1278.1) restricting file access and by tipster claims that Kirk was treated at UVU rather than Timpanogos.",
@@ -783,13 +783,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-284"
+        "N-201"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10263",
-      "ref": "N-10263",
+      "@id": "N-10197",
+      "ref": "N-10197",
       "name": "TPUSA Military-Personnel Network",
       "type": "investigation_target",
       "description": "Persistent question regarding the density of U.S. military-background personnel inside TPUSA and adjacent media (host frames as \"military simulation\" hypothesis). Supported by A-1279.1, A-1282.1.",
@@ -807,17 +807,17 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-42",
-        "N-272",
-        "N-16",
-        "N-45",
-        "N-70"
+        "N-14",
+        "N-194",
+        "N-7",
+        "N-17",
+        "N-41"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10264",
-      "ref": "N-10264",
+      "@id": "N-10198",
+      "ref": "N-10198",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
       "type": "investigation_target",
       "description": "Persistent discrepancy between TPUSA's explanation (A-1275.1) of McCoy's actions (ear-covering, video capture, delayed call to Erica) and the host's behavioral analysis of the same video.",
@@ -838,13 +838,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-272"
+        "N-194"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10265",
-      "ref": "N-10265",
+      "@id": "N-10199",
+      "ref": "N-10199",
       "name": "Susie Wiles Eulogy-Selection Question",
       "type": "investigation_target",
       "description": "Host's flagged curiosity regarding the selection of Susie Wiles (spelled \"Susie Wiles\" in one place) as a Kirk eulogist; no artifact-anchored explanation given.",
@@ -893,8 +893,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-70",
-      "ref": "N-70",
+      "@id": "N-41",
+      "ref": "N-41",
       "name": "Spencer Cox",
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
@@ -909,8 +909,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-37",
-      "ref": "N-37",
+      "@id": "N-11",
+      "ref": "N-11",
       "name": "Tyler Bowyer",
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
@@ -924,8 +924,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-182",
-      "ref": "N-182",
+      "@id": "N-132",
+      "ref": "N-132",
       "name": "Susie Wiles",
       "type": "person",
       "description": "White House chief of staff. Host questions her Kirk eulogy and names her in Epstein-file situation-room meetings.",
@@ -970,7 +970,7 @@
       "investigative_direction": "Obtain independent verification of the text exchange (carrier records, device forensics).",
       "mentions_person_refs": [
         "N-1",
-        "N-56"
+        "N-27"
       ]
     },
     {
@@ -988,7 +988,7 @@
       "investigative_direction": "Obtain independent verification of the text exchange and any subsequent contact logs between Charlie and Kanye representatives.",
       "mentions_person_refs": [
         "N-1",
-        "N-56"
+        "N-27"
       ]
     },
     {
@@ -1006,7 +1006,7 @@
       "investigative_direction": "Obtain independent verification of the text exchange and corroborating device or carrier records.",
       "mentions_person_refs": [
         "N-1",
-        "N-56"
+        "N-27"
       ]
     },
     {
@@ -1024,7 +1024,7 @@
       "investigative_direction": "Obtain independent verification of the text exchange and timestamps.",
       "mentions_person_refs": [
         "N-1",
-        "N-56"
+        "N-27"
       ]
     },
     {
@@ -1041,7 +1041,7 @@
       "claim_timestamp": "00:04:50",
       "investigative_direction": "Obtain archived copies of Cernovich's tweet thread (Wayback Machine, third-party archives) to verify wording and dating.",
       "mentions_person_refs": [
-        "N-269"
+        "N-193"
       ]
     },
     {
@@ -1058,7 +1058,7 @@
       "claim_timestamp": "00:04:50",
       "investigative_direction": "Identify and timestamp any other contemporaneous public statements or private messages corroborating the \"energy shift\" framing.",
       "mentions_person_refs": [
-        "N-269"
+        "N-193"
       ]
     },
     {
@@ -1075,7 +1075,7 @@
       "claim_timestamp": "00:06:50",
       "investigative_direction": "Obtain archived copy of original Kanye tweet from independent platform (e.g., Wayback Machine, X data export).",
       "mentions_person_refs": [
-        "N-56",
+        "N-27",
         "N-3"
       ]
     },
@@ -1093,7 +1093,7 @@
       "claim_timestamp": "00:07:00–00:09:05",
       "investigative_direction": "Locate and timestamp original Scott Adams video; verify exact wording against played clip.",
       "mentions_person_refs": [
-        "N-266"
+        "N-191"
       ]
     },
     {
@@ -1129,8 +1129,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-42",
-        "N-272"
+        "N-14",
+        "N-194"
       ]
     },
     {
@@ -1148,8 +1148,8 @@
       "investigative_direction": "Obtain the full video clip from which Kovett's narration derives, and time-stamp Mikey's actions frame-by-frame.",
       "mentions_person_refs": [
         "N-1",
-        "N-42",
-        "N-272"
+        "N-14",
+        "N-194"
       ]
     },
     {
@@ -1166,8 +1166,8 @@
       "claim_timestamp": "00:46:30–00:48:30",
       "investigative_direction": "Identify date and outlet of Marlo's full segment; obtain full unedited clip.",
       "mentions_person_refs": [
-        "N-272",
-        "N-273"
+        "N-194",
+        "N-195"
       ]
     },
     {
@@ -1184,8 +1184,8 @@
       "claim_timestamp": "00:50:30–00:52:30",
       "investigative_direction": "Identify date and outlet of Turk's full segment; confirm Mikey McCoy's age at the time of the September 10 event.",
       "mentions_person_refs": [
-        "N-16",
-        "N-272"
+        "N-7",
+        "N-194"
       ]
     },
     {
@@ -1198,14 +1198,14 @@
         "A-1278.1"
       ],
       "related_nodes": [
-        "N-10262"
+        "N-10196"
       ],
       "tags": [],
       "claim_timestamp": "00:32:30–00:35:00",
       "investigative_direction": "Obtain independent verification of the message (forensic metadata, screenshots from multiple UVU staff); identify the two named individuals and their institutional roles.",
       "mentions_person_refs": [
         "N-1",
-        "N-284"
+        "N-201"
       ]
     },
     {
@@ -1218,7 +1218,7 @@
         "A-1278.1"
       ],
       "related_nodes": [
-        "N-10262"
+        "N-10196"
       ],
       "tags": [],
       "claim_timestamp": "00:32:30–00:35:00",
@@ -1238,15 +1238,15 @@
         "A-1282.1"
       ],
       "related_nodes": [
-        "N-10263"
+        "N-10197"
       ],
       "tags": [],
       "claim_timestamp": "00:23:30–00:24:30",
       "investigative_direction": "Obtain Roy Edgar McCoy's official Navy service record; confirm Webb's claim against public biographical sources.",
       "mentions_person_refs": [
-        "N-45",
-        "N-283",
-        "N-285"
+        "N-17",
+        "N-200",
+        "N-202"
       ]
     },
     {
@@ -1259,14 +1259,14 @@
         "A-1279.1"
       ],
       "related_nodes": [
-        "N-10263"
+        "N-10197"
       ],
       "tags": [],
       "claim_timestamp": "00:23:30–00:24:30",
       "investigative_direction": "Obtain independent verification of Ziklag's donor list and any documented overlap with TPUSA personnel or events.",
       "mentions_person_refs": [
-        "N-45",
-        "N-285"
+        "N-17",
+        "N-202"
       ]
     },
     {
@@ -1283,7 +1283,7 @@
       "claim_timestamp": "00:57:30–00:59:30",
       "investigative_direction": "Obtain the original French reporting, the Burme statement, and any tax-form documentation referenced; verify the dating of the records.",
       "mentions_person_refs": [
-        "N-117"
+        "N-82"
       ]
     },
     {
@@ -1300,7 +1300,7 @@
       "claim_timestamp": "00:57:30–00:59:30",
       "investigative_direction": "Identify and obtain the original reporting cited by host; obtain French government statement (if any) addressing the discrepancy.",
       "mentions_person_refs": [
-        "N-117"
+        "N-82"
       ]
     },
     {
@@ -1317,7 +1317,7 @@
       "claim_timestamp": "00:55:30–00:56:30",
       "investigative_direction": "Obtain archived copies of Livingstone's tweet and the original watermarked re-upload; verify the platform's copyright-strike record.",
       "mentions_person_refs": [
-        "N-277"
+        "N-196"
       ]
     },
     {
@@ -1334,7 +1334,7 @@
       "claim_timestamp": "00:57:00–00:58:00",
       "investigative_direction": "Tie to primary on-screen artifact in a follow-up pass if needed.",
       "mentions_person_refs": [
-        "N-278"
+        "N-197"
       ]
     },
     {
@@ -1351,7 +1351,7 @@
       "claim_timestamp": "00:58:00–00:59:00",
       "investigative_direction": "Obtain on-screen citations from the Macron segment.",
       "mentions_person_refs": [
-        "N-217"
+        "N-157"
       ]
     },
     {
@@ -1368,7 +1368,7 @@
       "claim_timestamp": "00:59:00–01:00:00",
       "investigative_direction": "Cross-reference hospital message artifacts.",
       "mentions_person_refs": [
-        "N-281"
+        "N-199"
       ]
     },
     {
@@ -1385,7 +1385,7 @@
       "claim_timestamp": "01:00:00–01:01:00",
       "investigative_direction": "Verify spelling against hospital records if released.",
       "mentions_person_refs": [
-        "N-249"
+        "N-179"
       ]
     }
   ],

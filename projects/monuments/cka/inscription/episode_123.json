@@ -33,7 +33,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-11104"
+            "N-10706"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -70,7 +70,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-11103"
+            "N-10705"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -162,7 +162,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-11103"
+            "N-10705"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -261,7 +261,7 @@
             "C-2994"
           ],
           "related_nodes": [
-            "N-11103"
+            "N-10705"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -276,8 +276,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11103",
-      "ref": "N-11103",
+      "@id": "N-10705",
+      "ref": "N-10705",
       "name": "Charlie's Road Microphone Glass Origin Investigation Target",
       "type": "investigation_target",
       "description": "Persistent investigative target: where did the tempered glass in the vehicle come from, and how was the road/lapel microphone broken?",
@@ -298,8 +298,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11104",
-      "ref": "N-11104",
+      "@id": "N-10706",
+      "ref": "N-10706",
       "name": "Charlie's Bloody Jacket Chain of Custody Investigation Target",
       "type": "investigation_target",
       "description": "Persistent investigative target: chain of custody for Charlie Kirk's sports coat, returned to Erika's apartment with blood rather than collected into evidence.",
@@ -317,8 +317,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11105",
-      "ref": "N-11105",
+      "@id": "N-10707",
+      "ref": "N-10707",
       "name": "Missing Charlie's Shirt Investigation Target",
       "type": "investigation_target",
       "description": "Persistent investigative target: location and disposition of Charlie Kirk's shirt on the day of the incident.",
@@ -334,8 +334,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11106",
-      "ref": "N-11106",
+      "@id": "N-10708",
+      "ref": "N-10708",
       "name": "Car Door Open During Transport Report Investigation Target",
       "type": "investigation_target",
       "description": "Persistent investigative target: police scanner reports indicating car door was open during high-speed transport and a visible \"struggle\" in the vehicle.",
@@ -401,8 +401,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Comments revisit CPR narratives vs unnamed fire captain.",
@@ -417,8 +417,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
@@ -433,8 +433,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -449,8 +449,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -465,8 +465,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-552",
-      "ref": "N-552",
+      "@id": "N-337",
+      "ref": "N-337",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
@@ -481,8 +481,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-777",
-      "ref": "N-777",
+      "@id": "N-498",
+      "ref": "N-498",
       "name": "Rick Cutler",
       "type": "person",
       "description": "Named by the host at 00:12:02 in episode 123; first introduced in episode 121.",
@@ -509,7 +509,7 @@
         "A-2111.4"
       ],
       "related_nodes": [
-        "N-11103"
+        "N-10705"
       ],
       "tags": [],
       "claim_timestamp": "00:06:11–00:17:00",
@@ -544,11 +544,11 @@
         "A-2110.1"
       ],
       "related_nodes": [
-        "N-11104"
+        "N-10706"
       ],
       "tags": [],
       "claim_timestamp": "00:06:11",
-      "investigative_direction": "Identify hanger; trace jacket chain of custody (see N-11104).",
+      "investigative_direction": "Identify hanger; trace jacket chain of custody (see N-10706).",
       "mentions_person_refs": [
         "N-1"
       ]
@@ -561,7 +561,7 @@
       "claim": "Charlie's bloodied sports coat was returned by security to Erika Kirk's apartment in Arizona rather than collected into evidence.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11104"
+        "N-10706"
       ],
       "tags": [],
       "claim_timestamp": "00:07:01",
@@ -618,7 +618,7 @@
       "claim_timestamp": "00:15:10",
       "investigative_direction": "Cross-reference SantaMedical.com catalog with described medical equipment; verify against Harpole's interview statements.",
       "mentions_person_refs": [
-        "N-424"
+        "N-272"
       ]
     },
     {
@@ -635,7 +635,7 @@
       "claim_timestamp": "00:33:10",
       "investigative_direction": "Verify clip provenance; corroborate with hospital witness accounts; assess against prior statements from Erika Kirk and TPUSA describing McCoy as \"amazing\" and \"snapping into action.\"",
       "mentions_person_refs": [
-        "N-272"
+        "N-194"
       ]
     },
     {
@@ -646,14 +646,14 @@
       "claim": "Across multiple interviews (Paramount Tactical, Shawn Ryan Show, and others), Frank Turk and Brian Harpole described packing a neck wound and praying but did not mention any shattered tempered glass in the vehicle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11103"
+        "N-10705"
       ],
       "tags": [],
       "claim_timestamp": "00:06:00–00:19:30",
       "investigative_direction": "Obtain transcripts/video of all Frank Turk and Brian Harpole public interviews; verify exhaustive absence of glass references; cross-reference John Bray's prior microphone-rigging theory.",
       "mentions_person_refs": [
-        "N-424",
-        "N-16"
+        "N-272",
+        "N-7"
       ]
     },
     {
@@ -700,15 +700,15 @@
         "A-2114.2"
       ],
       "related_nodes": [
-        "N-11106"
+        "N-10708"
       ],
       "tags": [],
       "claim_timestamp": "00:50:36",
       "investigative_direction": "Obtain official police scanner audio logs from the date; cross-reference with vehicle door mechanism and seating position documentation.",
       "mentions_person_refs": [
-        "N-424",
-        "N-552",
-        "N-777"
+        "N-272",
+        "N-337",
+        "N-498"
       ]
     },
     {
@@ -719,14 +719,14 @@
       "claim": "As of this episode, TPUSA (via spokesperson Andrew Kovat) has not publicly addressed how the road microphone shattered or why the glass ended up in the vehicle.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11103",
-        "N-11105"
+        "N-10705",
+        "N-10707"
       ],
       "tags": [],
       "claim_timestamp": "00:29:24–00:30:20",
       "investigative_direction": "Monitor TPUSA official communications; if no response materializes, the absence itself becomes a documented investigative target.",
       "mentions_person_refs": [
-        "N-42"
+        "N-14"
       ]
     },
     {

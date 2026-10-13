@@ -13,7 +13,7 @@
     "transcript_sha256": "9ad39842779de2d5892f2906070abb930de6344475c2c461d3c9229b6e7dfc89",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "This episode advances the Bride of Charlie investigation on three evidentiary axes. First, an artifact-anchored disclosure of a 92-member X group chat named \"Protecting Mrs. Kirk\" is presented via screenshots/quotes from X user \"Shady Lady Katie,\" which the host ties to coordinated attacks on Candace Owens and to a previously unnamed organizer previously linked to pro-Israel intelligence work. Second, the host catalogs multiple alleged \"lies and omissions\" in the Tyler Robinson case narrative, but only two items in this episode meet the claim admission test on the basis of shown artifacts: a court-displayed image of Lance's phone with a damaged screen at the timestamp location, and surveillance footage of Nate Walker's movements between 12:15 and approximately 12:27 at the event venue. Third, two externally sourced interview clips – Perez Hilton's 2010 Ellen DeGeneres appearance and Piers Morgan's interview with Victor Marx – are played on air, providing artifact anchors for specific biographical claims made by Victor Marx (childhood decapitation of a cat, shooting of a handcuffed man at age 7) and for his on-air acknowledgment that false memories are possible.\n\nStructurally, this episode expands the investigation's group-chat/dossier line of inquiry (N-11179), introduces a fresh movement-timeline target on Nate Walker (N-11180), and consolidates Tyler Robinson case-claim tracking under N-11181. The Perez Hilton segment is present primarily as commentary framed around Hollywood decline and is not anchored to investigative claims about the Charlie Kirk matter except where it crosses with the existing religious-adviser thread (Victor Marx).\n\n---",
+  "executive_summary": "This episode advances the Bride of Charlie investigation on three evidentiary axes. First, an artifact-anchored disclosure of a 92-member X group chat named \"Protecting Mrs. Kirk\" is presented via screenshots/quotes from X user \"Shady Lady Katie,\" which the host ties to coordinated attacks on Candace Owens and to a previously unnamed organizer previously linked to pro-Israel intelligence work. Second, the host catalogs multiple alleged \"lies and omissions\" in the Tyler Robinson case narrative, but only two items in this episode meet the claim admission test on the basis of shown artifacts: a court-displayed image of Lance's phone with a damaged screen at the timestamp location, and surveillance footage of Nate Walker's movements between 12:15 and approximately 12:27 at the event venue. Third, two externally sourced interview clips – Perez Hilton's 2010 Ellen DeGeneres appearance and Piers Morgan's interview with Victor Marx – are played on air, providing artifact anchors for specific biographical claims made by Victor Marx (childhood decapitation of a cat, shooting of a handcuffed man at age 7) and for his on-air acknowledgment that false memories are possible.\n\nStructurally, this episode expands the investigation's group-chat/dossier line of inquiry (N-10780), introduces a fresh movement-timeline target on Nate Walker (N-10781), and consolidates Tyler Robinson case-claim tracking under N-10782. The Perez Hilton segment is present primarily as commentary framed around Hollywood decline and is not anchored to investigative claims about the Charlie Kirk matter except where it crosses with the existing religious-adviser thread (Victor Marx).\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -32,7 +32,7 @@
             "C-3235"
           ],
           "related_nodes": [
-            "N-11179"
+            "N-10780"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -51,7 +51,7 @@
             "C-3235"
           ],
           "related_nodes": [
-            "N-11179"
+            "N-10780"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -78,7 +78,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-11182"
+            "N-10783"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -104,7 +104,7 @@
             "C-3225"
           ],
           "related_nodes": [
-            "N-11180"
+            "N-10781"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -122,7 +122,7 @@
             "C-3225"
           ],
           "related_nodes": [
-            "N-11180"
+            "N-10781"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -140,7 +140,7 @@
             "C-3225"
           ],
           "related_nodes": [
-            "N-11180"
+            "N-10781"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -215,7 +215,7 @@
             "C-3228"
           ],
           "related_nodes": [
-            "N-11184"
+            "N-10785"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -235,7 +235,7 @@
             "C-3231"
           ],
           "related_nodes": [
-            "N-11184"
+            "N-10785"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -283,7 +283,7 @@
           "description": "Comment by \"in my mom era\": \"I have never known people to be so eager to not solve a crime.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-11181",
+            "N-10782",
             "N-2"
           ],
           "tags": [],
@@ -300,7 +300,7 @@
           "description": "Comment: \"Blake Nef's anger single-handedly makes the entire TPUSA look completely guilty.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-11181"
+            "N-10782"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -334,7 +334,7 @@
             "C-3235"
           ],
           "related_nodes": [
-            "N-11179"
+            "N-10780"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -442,13 +442,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11181"
+        "N-10782"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11179",
-      "ref": "N-11179",
+      "@id": "N-10780",
+      "ref": "N-10780",
       "name": "\"Protecting Mrs. Kirk\" Group Chat Investigation",
       "type": "investigation_target",
       "description": "Persistent investigable target: 92-member X-coordinated group chat allegedly organized around defending Erica Kirk and attacking Candace Owens. Documentary evidence includes membership-list exposure by Shady Lady Katie (A-2246.1) and confirmed commenter acknowledgment of address-sharing (A-2253.4). Host frames organizer as previously engaged in intelligence-gathering tied to Israel/Gaza advocacy.",
@@ -474,8 +474,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11180",
-      "ref": "N-11180",
+      "@id": "N-10781",
+      "ref": "N-10781",
       "name": "Nate Walker Movement Timeline (12:15–12:27)",
       "type": "investigation_target",
       "description": "Persistent investigative target: documented transition of an assistant associated with Charlie Kirk's pre-event logistics from a ground-floor position with bag (~12:15) to an upstairs walkway position without bag (~12:25) to a stairwell re-entry (~12:27). Documentary basis: A-2248.1–A-2248.3.",
@@ -498,8 +498,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11181",
-      "ref": "N-11181",
+      "@id": "N-10782",
+      "ref": "N-10782",
       "name": "Tyler Robinson Case Evidence Inventory",
       "type": "investigation_target",
       "description": "Persistent investigative target across the series: the host's running list of alleged lies, omissions, and unproven narrative claims in the Tyler Robinson case (father-turn-in narrative, 4K footage claim, motive claims, DNA claims, gun-tie-to-bullet claim, SD-card/hard-drive transfer, etc.). Within this episode, the items anchored to displayed or quoted artifacts are limited; the bulk remains host commentary pending artifact support in future episodes.",
@@ -522,8 +522,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11182",
-      "ref": "N-11182",
+      "@id": "N-10783",
+      "ref": "N-10783",
       "name": "Lance Phone Screen-Damage Timestamp Verification",
       "type": "investigation_target",
       "description": "Persistent investigative target: condition of Lance's phone at the time of police imaging, specifically whether the screen damage in the status-bar region obscures the timestamp that would establish when the police photographed the alleged text messages (A-2247.1).",
@@ -539,13 +539,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11181"
+        "N-10782"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11183",
-      "ref": "N-11183",
+      "@id": "N-10784",
+      "ref": "N-10784",
       "name": "Officer Bagley – Sex Crimes Unit Background",
       "type": "investigation_target",
       "description": "Persistent investigative target: host's verbal disclosure that Officer Bagley, previously a subject in the series, was employed by the Utah County Sheriff's Office in the sex crimes detective unit prior to his UVU role. Presented verbally in this episode without an attached documentary artifact.",
@@ -559,8 +559,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11184",
-      "ref": "N-11184",
+      "@id": "N-10785",
+      "ref": "N-10785",
       "name": "Victor Marx Biographical Claims Verification",
       "type": "investigation_target",
       "description": "Persistent investigative target: factual verification of Victor Marx's childhood accounts (cat decapitation at age 3; shooting of a man at age 7). In this episode, the artifact basis is his own on-air admissions to Piers Morgan (A-2251.1, A-2251.2) and Morgan's statement that Mississippi-area law enforcement has no matching records.",
@@ -599,8 +599,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
@@ -615,8 +615,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-298",
-      "ref": "N-298",
+      "@id": "N-208",
+      "ref": "N-208",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Interviewer in the Megyn Kelly clip artifact.",
@@ -631,8 +631,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-434",
-      "ref": "N-434",
+      "@id": "N-276",
+      "ref": "N-276",
       "name": "Dan Flood",
       "type": "person",
       "description": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story).",
@@ -647,8 +647,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-569",
-      "ref": "N-569",
+      "@id": "N-348",
+      "ref": "N-348",
       "name": "Victor Marx",
       "type": "person",
       "description": "Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure.",
@@ -663,8 +663,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-808",
-      "ref": "N-808",
+      "@id": "N-516",
+      "ref": "N-516",
       "name": "Nate Walker",
       "type": "person",
       "description": "First named by the host at 00:03:16 in episode 126.",
@@ -679,8 +679,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-84",
-      "ref": "N-84",
+      "@id": "N-54",
+      "ref": "N-54",
       "name": "Lance Twiggs",
       "type": "person",
       "description": "Robinson's partner; recipient of FBI-released text chain",
@@ -705,7 +705,7 @@
         "A-2246.1"
       ],
       "related_nodes": [
-        "N-11179"
+        "N-10780"
       ],
       "tags": [],
       "claim_timestamp": "00:17:35–00:20:10",
@@ -726,7 +726,7 @@
         "A-2246.2"
       ],
       "related_nodes": [
-        "N-11179"
+        "N-10780"
       ],
       "tags": [],
       "claim_timestamp": "00:19:12–00:20:10",
@@ -745,14 +745,14 @@
         "A-2247.1"
       ],
       "related_nodes": [
-        "N-11181",
-        "N-11182"
+        "N-10782",
+        "N-10783"
       ],
       "tags": [],
       "claim_timestamp": "00:13:35–00:14:00",
       "investigative_direction": "Obtain the original preliminary-hearing exhibit; confirm damage location and any testimony regarding when the image was captured.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -767,15 +767,15 @@
         "A-2248.3"
       ],
       "related_nodes": [
-        "N-11180"
+        "N-10781"
       ],
       "tags": [],
       "claim_timestamp": "00:23:50–00:25:45",
       "investigative_direction": "Obtain original venue surveillance footage with verified timestamps; reconcile with credentialed-assistant duty roster.",
       "mentions_person_refs": [
         "N-1",
-        "N-434",
-        "N-808"
+        "N-276",
+        "N-516"
       ]
     },
     {
@@ -816,14 +816,14 @@
         "A-2251.1"
       ],
       "related_nodes": [
-        "N-11184"
+        "N-10785"
       ],
       "tags": [],
       "claim_timestamp": "00:44:38–00:45:30",
       "investigative_direction": "Obtain the full Piers Morgan interview transcript; verify the exact wording and any prior inconsistent tellings.",
       "mentions_person_refs": [
-        "N-298",
-        "N-569"
+        "N-208",
+        "N-348"
       ]
     },
     {
@@ -836,14 +836,14 @@
         "A-2251.2"
       ],
       "related_nodes": [
-        "N-11184"
+        "N-10785"
       ],
       "tags": [],
       "claim_timestamp": "00:45:49–00:47:00",
       "investigative_direction": "Verify statement against the full interview; cross-check with any prior public tellings; corroborate location if possible.",
       "mentions_person_refs": [
-        "N-298",
-        "N-569"
+        "N-208",
+        "N-348"
       ]
     },
     {
@@ -856,14 +856,14 @@
         "A-2251.2"
       ],
       "related_nodes": [
-        "N-11184"
+        "N-10785"
       ],
       "tags": [],
       "claim_timestamp": "00:46:50–00:47:25",
       "investigative_direction": "Verify the full exchange; identify Victor Marx's specific trauma-specialist visit count claim (he cited 123 visits) for corroboration.",
       "mentions_person_refs": [
-        "N-298",
-        "N-569"
+        "N-208",
+        "N-348"
       ]
     },
     {
@@ -876,14 +876,14 @@
         "A-2251.2"
       ],
       "related_nodes": [
-        "N-11184"
+        "N-10785"
       ],
       "tags": [],
       "claim_timestamp": "00:45:49–00:46:30",
       "investigative_direction": "Submit records requests to Mississippi-area sheriff and municipal police departments for the relevant time period; obtain on-record denials or confirmations.",
       "mentions_person_refs": [
-        "N-298",
-        "N-569"
+        "N-208",
+        "N-348"
       ]
     },
     {
@@ -925,7 +925,7 @@
       "claim": "The host asserts that the \"Protecting Mrs. Kirk\" group chat was organized by an individual previously engaged in PR/intelligence work tied to Israel and the Gaza Humanitarian Fund.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11179"
+        "N-10780"
       ],
       "tags": [],
       "claim_timestamp": "00:18:25–00:19:12",
@@ -946,7 +946,7 @@
         "A-2253.4"
       ],
       "related_nodes": [
-        "N-11179"
+        "N-10780"
       ],
       "tags": [],
       "claim_timestamp": "00:54:33–00:55:20",
@@ -963,7 +963,7 @@
       "claim": "In a list of claims about the case she says were false, the host says it is a lie that Tyler Robinson and his partner Lance are transgender; she also lists the claims that his father turned him in and that a 4K video shows him taking the shot.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11181"
+        "N-10782"
       ],
       "tags": [],
       "claim_timestamp": "00:05:02",
@@ -971,8 +971,8 @@
       "transcript_snippet": "that's a lie Tyler Robinson is not transgendered I told you that very early on his lover Lance is not transgendered",
       "mentions_person_refs": [
         "N-3",
-        "N-69",
-        "N-84"
+        "N-40",
+        "N-54"
       ]
     },
     {
@@ -983,7 +983,7 @@
       "claim": "The host says it is a lie that Tyler Robinson's gun was officially tied to the bullet fragment recovered in Charlie Kirk's autopsy, citing the ATF testimony at the preliminary hearing that gave a range for the metal fragments.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11181"
+        "N-10782"
       ],
       "tags": [],
       "claim_timestamp": "00:09:28",
@@ -991,7 +991,7 @@
       "transcript_snippet": "We were told that Tyler Robinson's gun was officially tied to the bullet fragment that was recovered in Charlie's autopsy. That's a lie. The ATF was very clear.",
       "mentions_person_refs": [
         "N-3",
-        "N-69",
+        "N-40",
         "N-1"
       ]
     }

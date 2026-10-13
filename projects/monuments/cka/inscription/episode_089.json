@@ -34,7 +34,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-10662"
+            "N-10587"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -86,7 +86,7 @@
             "C-2672"
           ],
           "related_nodes": [
-            "N-10667"
+            "N-10592"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -136,7 +136,7 @@
             "C-2674"
           ],
           "related_nodes": [
-            "N-10665"
+            "N-10590"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -163,8 +163,8 @@
             "C-2676"
           ],
           "related_nodes": [
-            "N-10663",
-            "N-10664"
+            "N-10588",
+            "N-10589"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -190,7 +190,7 @@
             "C-2678"
           ],
           "related_nodes": [
-            "N-10666"
+            "N-10591"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -217,8 +217,8 @@
             "C-2679"
           ],
           "related_nodes": [
-            "N-10662",
-            "N-10666"
+            "N-10587",
+            "N-10591"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -244,7 +244,7 @@
             "C-2677"
           ],
           "related_nodes": [
-            "N-10663"
+            "N-10588"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -259,8 +259,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10662",
-      "ref": "N-10662",
+      "@id": "N-10587",
+      "ref": "N-10587",
       "name": "Trump Truth Social Post Pattern Question",
       "type": "investigation_target",
       "description": "Persistent discrepancy between Trump's stated posture toward named public figures and his posture in A-1939.1; includes implication that Charlie Kirk would also have been targeted.",
@@ -281,8 +281,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10663",
-      "ref": "N-10663",
+      "@id": "N-10588",
+      "ref": "N-10588",
       "name": "Butler PA Investigation Closure Verification",
       "type": "investigation_target",
       "description": "Question about whether and why Trump moved to close the Butler investigation; relevant to A-1944.1 timeline and A-1947.1.",
@@ -302,8 +302,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10664",
-      "ref": "N-10664",
+      "@id": "N-10589",
+      "ref": "N-10589",
       "name": "Adelson–West Bank Annexation Meeting Verification",
       "type": "investigation_target",
       "description": "Question about whether a meeting occurred in which Miriam Adelson conditioned $100M on West Bank annexation, and what Trump stated therein.",
@@ -322,8 +322,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10665",
-      "ref": "N-10665",
+      "@id": "N-10590",
+      "ref": "N-10590",
       "name": "Laura Loomer Influence on Trump Policy Question",
       "type": "investigation_target",
       "description": "Question about the operative influence Laura Loomer exerts over Trump's Truth Social posts and policy posture, per her own claim in A-1943.1.",
@@ -341,8 +341,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10666",
-      "ref": "N-10666",
+      "@id": "N-10591",
+      "ref": "N-10591",
       "name": "MAGA Base Sentiment Shift Question",
       "type": "investigation_target",
       "description": "Question about measurable shift in core-MAGA supporter sentiment toward Trump, evidenced by responses in A-1945.1 and A-1946.1.",
@@ -361,8 +361,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10667",
-      "ref": "N-10667",
+      "@id": "N-10592",
+      "ref": "N-10592",
       "name": "Situation-Room Table Seating Verification",
       "type": "investigation_target",
       "description": "Question about whether Trump was seated at the side of the situation-room table during the Netanyahu meeting, per A-1941.1.",
@@ -428,8 +428,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
@@ -444,8 +444,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
@@ -460,8 +460,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-62",
-      "ref": "N-62",
+      "@id": "N-33",
+      "ref": "N-33",
       "name": "Donald Trump Jr.",
       "type": "person",
       "description": "Mentioned as having pressed Charlie to buy better-fitting suits along with Eric Trump.",
@@ -476,8 +476,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-65",
-      "ref": "N-65",
+      "@id": "N-36",
+      "ref": "N-36",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
@@ -492,8 +492,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-75",
-      "ref": "N-75",
+      "@id": "N-46",
+      "ref": "N-46",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
@@ -508,8 +508,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-91",
-      "ref": "N-91",
+      "@id": "N-60",
+      "ref": "N-60",
       "name": "Laura Loomer",
       "type": "person",
       "description": "Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.",
@@ -524,8 +524,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-117",
-      "ref": "N-117",
+      "@id": "N-82",
+      "ref": "N-82",
       "name": "Brigitte Macron",
       "type": "person",
       "description": "Comments return to France/Brigitte as origin-of-ties theme.",
@@ -540,8 +540,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-128",
-      "ref": "N-128",
+      "@id": "N-93",
+      "ref": "N-93",
       "name": "Alex Jones",
       "type": "person",
       "description": "Source of declaration-of-war clip against Candace over Mitch Snow coverage.",
@@ -556,8 +556,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-298",
-      "ref": "N-298",
+      "@id": "N-208",
+      "ref": "N-208",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Interviewer in the Megyn Kelly clip artifact.",
@@ -572,8 +572,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-440",
-      "ref": "N-440",
+      "@id": "N-280",
+      "ref": "N-280",
       "name": "Jonathan Pollard",
       "type": "person",
       "description": "Convicted Israeli spy (30-year U.S. prison sentence, espionage); met with Huckabee per episode.",
@@ -588,8 +588,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-674",
-      "ref": "N-674",
+      "@id": "N-429",
+      "ref": "N-429",
       "name": "Monica Lewinsky",
       "type": "person",
       "description": "First named by the host at 00:26:31 in episode 89.",
@@ -616,16 +616,16 @@
         "A-1939.1"
       ],
       "related_nodes": [
-        "N-10662"
+        "N-10587"
       ],
       "tags": [],
       "claim_timestamp": "00:04:12–00:12:28",
       "investigative_direction": "Obtain the original Truth Social post via archived screenshots and confirm the verbatim text against the on-air reading.",
       "mentions_person_refs": [
         "N-3",
-        "N-50",
-        "N-75",
-        "N-128"
+        "N-22",
+        "N-46",
+        "N-93"
       ]
     },
     {
@@ -660,7 +660,7 @@
       "investigative_direction": "Identify and verify the source clips used in the CNN compilation and their original air dates.",
       "mentions_person_refs": [
         "N-3",
-        "N-75"
+        "N-46"
       ]
     },
     {
@@ -673,16 +673,16 @@
         "A-1941.1"
       ],
       "related_nodes": [
-        "N-10667"
+        "N-10592"
       ],
       "tags": [],
       "claim_timestamp": "00:25:38–00:26:31",
       "investigative_direction": "Locate the full Piers Morgan interview segment and verify the quoted claims; cross-reference with official White House situation-room imagery if available.",
       "mentions_person_refs": [
-        "N-65",
-        "N-298",
-        "N-75",
-        "N-674"
+        "N-36",
+        "N-208",
+        "N-46",
+        "N-429"
       ]
     },
     {
@@ -699,9 +699,9 @@
       "claim_timestamp": "00:26:31–00:28:46",
       "investigative_direction": "Retrieve the original Carlson newsletter post and verify the exact wording; assess sourcing and historical basis for the Clinton-Lewinsky blackmail claim independently.",
       "mentions_person_refs": [
-        "N-440",
-        "N-50",
-        "N-674"
+        "N-280",
+        "N-22",
+        "N-429"
       ]
     },
     {
@@ -714,14 +714,14 @@
         "A-1943.1"
       ],
       "related_nodes": [
-        "N-10665"
+        "N-10590"
       ],
       "tags": [],
       "claim_timestamp": "00:33:58–00:35:23",
       "investigative_direction": "Obtain the original Loomer audio/video (e.g., X post, Rumble clip) and confirm the exact wording; assess whether other corroboration exists for her influence claim.",
       "mentions_person_refs": [
-        "N-50",
-        "N-91"
+        "N-22",
+        "N-60"
       ]
     },
     {
@@ -734,7 +734,7 @@
         "A-1944.1"
       ],
       "related_nodes": [
-        "N-10664"
+        "N-10589"
       ],
       "tags": [],
       "claim_timestamp": "00:29:16–00:31:16",
@@ -742,7 +742,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-42"
+        "N-14"
       ]
     },
     {
@@ -755,8 +755,8 @@
         "A-1944.1"
       ],
       "related_nodes": [
-        "N-10663",
-        "N-10664"
+        "N-10588",
+        "N-10589"
       ],
       "tags": [],
       "claim_timestamp": "00:30:06–00:31:16",
@@ -777,13 +777,13 @@
         "A-1947.1"
       ],
       "related_nodes": [
-        "N-10663"
+        "N-10588"
       ],
       "tags": [],
       "claim_timestamp": "00:31:16–00:32:11",
       "investigative_direction": "Locate the original on-stage footage or transcript; cross-reference with any subsequent Trump Jr. statements on the same topic.",
       "mentions_person_refs": [
-        "N-62"
+        "N-33"
       ]
     },
     {
@@ -797,7 +797,7 @@
         "A-1946.1"
       ],
       "related_nodes": [
-        "N-10666"
+        "N-10591"
       ],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
@@ -814,7 +814,7 @@
         "A-1946.1"
       ],
       "related_nodes": [
-        "N-10662"
+        "N-10587"
       ],
       "tags": [],
       "claim_timestamp": "00:20:14–00:21:03",
@@ -834,7 +834,7 @@
         "A-1939.1"
       ],
       "related_nodes": [
-        "N-10662"
+        "N-10587"
       ],
       "tags": [],
       "claim_timestamp": "00:11:20–00:12:28",
@@ -856,7 +856,7 @@
       "investigative_direction": "Verify exact wording against the archived post.",
       "mentions_person_refs": [
         "N-3",
-        "N-117"
+        "N-82"
       ]
     }
   ],

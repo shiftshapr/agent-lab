@@ -31,7 +31,7 @@
             "C-3314"
           ],
           "related_nodes": [
-            "N-10207"
+            "N-10141"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -48,7 +48,7 @@
             "C-3314"
           ],
           "related_nodes": [
-            "N-10207"
+            "N-10141"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -93,7 +93,7 @@
             "C-3319"
           ],
           "related_nodes": [
-            "N-11210"
+            "N-10811"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -118,7 +118,7 @@
             "C-3316"
           ],
           "related_nodes": [
-            "N-11209"
+            "N-10810"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -135,8 +135,8 @@
             "C-3317"
           ],
           "related_nodes": [
-            "N-11209",
-            "N-11210"
+            "N-10810",
+            "N-10811"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -162,7 +162,7 @@
             "C-3320"
           ],
           "related_nodes": [
-            "N-11210"
+            "N-10811"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -180,7 +180,7 @@
             "C-3320"
           ],
           "related_nodes": [
-            "N-11210"
+            "N-10811"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -204,7 +204,7 @@
             "C-3321"
           ],
           "related_nodes": [
-            "N-224"
+            "N-162"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -221,8 +221,8 @@
             "C-3322"
           ],
           "related_nodes": [
-            "N-224",
-            "N-46"
+            "N-162",
+            "N-18"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -239,7 +239,7 @@
             "C-3323"
           ],
           "related_nodes": [
-            "N-224"
+            "N-162"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -356,8 +356,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11209",
-      "ref": "N-11209",
+      "@id": "N-10810",
+      "ref": "N-10810",
       "name": "SD Card Chain-of-Custody Investigation",
       "type": "investigation_target",
       "description": "Persistent target concerning the physical SD cards removed from Charlie Kirk's shooting scene and their disposition relative to investigators, the Utah County Attorney's Office, and SBI.",
@@ -378,8 +378,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11210",
-      "ref": "N-11210",
+      "@id": "N-10811",
+      "ref": "N-10811",
       "name": "Aspect-Ratio Modification Investigation",
       "type": "investigation_target",
       "description": "Persistent target concerning who decreased the aspect ratio of the 20-minute sizzle reel presented at the preliminary hearing, and why.",
@@ -402,8 +402,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11211",
-      "ref": "N-11211",
+      "@id": "N-10812",
+      "ref": "N-10812",
       "name": "Terrell Farnsworth Evidence-Handling Question",
       "type": "investigation_target",
       "description": "Persistent target concerning Terrell's stated intent, sequence of actions, and consultation with Philip Goldsbury in the immediate aftermath of the shooting.",
@@ -420,13 +420,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10207"
+        "N-10141"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11212",
-      "ref": "N-11212",
+      "@id": "N-10813",
+      "ref": "N-10813",
       "name": "Foreign / Israeli Angle Investigation",
       "type": "investigation_target",
       "description": "Persistent target concerning the BB Netanyahu letter, Charlie Kirk's alleged pull-back from pro-Israel stance, and Andrew Kolvet's contemporaneous briefings to Candace.",
@@ -446,8 +446,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-37",
-      "ref": "N-37",
+      "@id": "N-11",
+      "ref": "N-11",
       "name": "Tyler Bowyer",
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
@@ -461,8 +461,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-46",
-      "ref": "N-46",
+      "@id": "N-18",
+      "ref": "N-18",
       "name": "Andrew Wilson",
       "type": "person",
       "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
@@ -476,8 +476,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
@@ -492,8 +492,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-65",
-      "ref": "N-65",
+      "@id": "N-36",
+      "ref": "N-36",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
@@ -508,8 +508,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-297",
-      "ref": "N-297",
+      "@id": "N-207",
+      "ref": "N-207",
       "name": "Ana Kasparian",
       "type": "person",
       "description": "Subject of Stop Anti-Semitism X post (A-1294.1) referencing her CNN platforming as parallel evidence of \"Holocaust normalization.\"",
@@ -524,8 +524,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-410",
-      "ref": "N-410",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
@@ -540,8 +540,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-434",
-      "ref": "N-434",
+      "@id": "N-276",
+      "ref": "N-276",
       "name": "Dan Flood",
       "type": "person",
       "description": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story).",
@@ -593,8 +593,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Blake Neff (wave3 orphan mint).",
@@ -611,8 +611,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-967",
-      "ref": "N-967",
+      "@id": "N-592",
+      "ref": "N-592",
       "name": "Mark Bricker",
       "type": "person",
       "description": "First named by the host at 00:18:29 in episode 144.",
@@ -629,8 +629,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-66",
-      "ref": "N-66",
+      "@id": "N-37",
+      "ref": "N-37",
       "name": "Bill Ackman",
       "type": "person",
       "description": "Named as boosting Pounds thread and as on Howard Hughes Inc board today.",
@@ -645,8 +645,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-949",
-      "ref": "N-949",
+      "@id": "N-581",
+      "ref": "N-581",
       "name": "David Hull",
       "type": "person",
       "description": "First named by the host at 00:04:56 in episode 142. Aliases: Agent Hull, Agent David Hull.",
@@ -672,16 +672,16 @@
         "A-2301.2"
       ],
       "related_nodes": [
-        "N-11209",
-        "N-11211"
+        "N-10810",
+        "N-10812"
       ],
       "tags": [],
       "claim_timestamp": "00:02:00–00:04:10",
       "investigative_direction": "Obtain the original raw footage and forensic metadata to confirm SD-card insertion sequence; cross-reference with David Hull testimony on chain of custody.",
       "mentions_person_refs": [
-        "N-410",
+        "N-267",
         "N-1",
-        "N-949"
+        "N-581"
       ]
     },
     {
@@ -694,13 +694,13 @@
         "A-2301.2"
       ],
       "related_nodes": [
-        "N-11211"
+        "N-10812"
       ],
       "tags": [],
       "claim_timestamp": "00:02:00–00:04:10",
       "investigative_direction": "Identify and interview Philip Goldsbury regarding the content shown; obtain his contemporaneous account.",
       "mentions_person_refs": [
-        "N-410",
+        "N-267",
         "N-1"
       ]
     },
@@ -715,15 +715,15 @@
         "A-2304.1"
       ],
       "related_nodes": [
-        "N-11209"
+        "N-10810"
       ],
       "tags": [],
       "claim_timestamp": "00:04:20–00:04:50",
       "investigative_direction": "Confirm SD-card disposition against official evidence logs; subpoena physical media if it exists.",
       "mentions_person_refs": [
-        "N-410",
-        "N-297",
-        "N-949"
+        "N-267",
+        "N-207",
+        "N-581"
       ]
     },
     {
@@ -736,13 +736,13 @@
         "A-2304.1"
       ],
       "related_nodes": [
-        "N-11209"
+        "N-10810"
       ],
       "tags": [],
       "claim_timestamp": "00:18:30–00:19:30",
       "investigative_direction": "Obtain the preliminary-hearing transcript and confirm testimony verbatim.",
       "mentions_person_refs": [
-        "N-949"
+        "N-581"
       ]
     },
     {
@@ -755,14 +755,14 @@
         "A-2304.2"
       ],
       "related_nodes": [
-        "N-11209",
-        "N-11210"
+        "N-10810",
+        "N-10811"
       ],
       "tags": [],
       "claim_timestamp": "00:18:30–00:19:30",
       "investigative_direction": "Obtain Bricker's full preliminary-hearing testimony; request the prosecution's production logs and version history for the sizzle reel.",
       "mentions_person_refs": [
-        "N-967"
+        "N-592"
       ]
     },
     {
@@ -776,7 +776,7 @@
         "A-2305.2"
       ],
       "related_nodes": [
-        "N-11210"
+        "N-10811"
       ],
       "tags": [],
       "claim_timestamp": "00:16:30–00:17:30",
@@ -793,7 +793,7 @@
         "A-2303.1"
       ],
       "related_nodes": [
-        "N-11210"
+        "N-10811"
       ],
       "tags": [],
       "claim_timestamp": "00:17:30–00:18:30",
@@ -811,13 +811,13 @@
         "A-2305.1"
       ],
       "related_nodes": [
-        "N-11210"
+        "N-10811"
       ],
       "tags": [],
       "claim_timestamp": "00:19:30–00:20:30",
       "investigative_direction": "Trace the production chain of the sizzle reel through prosecution discovery logs; identify all parties with custody between raw footage and exhibit.",
       "mentions_person_refs": [
-        "N-967"
+        "N-592"
       ]
     },
     {
@@ -834,8 +834,8 @@
       "claim_timestamp": "00:25:30–00:28:00",
       "investigative_direction": "Compare this characterization to a transcript of the debate Candace participated in; identify specific concessions alleged.",
       "mentions_person_refs": [
-        "N-224",
-        "N-42"
+        "N-162",
+        "N-14"
       ]
     },
     {
@@ -852,8 +852,8 @@
       "claim_timestamp": "00:33:00–00:35:40",
       "investigative_direction": "Locate the original Candace clip being referenced; transcribe the full segment in context.",
       "mentions_person_refs": [
-        "N-46",
-        "N-224"
+        "N-18",
+        "N-162"
       ]
     },
     {
@@ -884,17 +884,17 @@
         "A-2308.2"
       ],
       "related_nodes": [
-        "N-11212"
+        "N-10813"
       ],
       "tags": [],
       "claim_timestamp": "00:51:00–00:54:00",
       "investigative_direction": "Preserve the original text-message exports with metadata; obtain contemporaneous corroboration from other TPUSA insiders if available.",
       "mentions_person_refs": [
-        "N-42",
+        "N-14",
         "N-1",
-        "N-65",
-        "N-434",
-        "N-66"
+        "N-36",
+        "N-276",
+        "N-37"
       ]
     },
     {
@@ -902,13 +902,13 @@
       "@id": "C-3774",
       "ref": "C-3774",
       "label": "Bill Ackman is the 'Bill Aman' of the summit named in C-3324 (revises C-3324)",
-      "claim": "C-3324 spells the summit host 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-66): the host says Andrew Kolvet was the one telling her about the Bill Ackman summit on September 12, 2025.",
+      "claim": "C-3324 spells the summit host 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-37): the host says Andrew Kolvet was the one telling her about the Bill Ackman summit on September 12, 2025.",
       "anchored_artifacts": [
         "A-2308.1",
         "A-2308.2"
       ],
       "related_nodes": [
-        "N-11212"
+        "N-10813"
       ],
       "tags": [],
       "claim_timestamp": "00:50:09",
@@ -919,8 +919,8 @@
         "C-3324"
       ],
       "mentions_person_refs": [
-        "N-66",
-        "N-42"
+        "N-37",
+        "N-14"
       ]
     },
     {
@@ -934,14 +934,14 @@
         "A-2308.2"
       ],
       "related_nodes": [
-        "N-11212"
+        "N-10813"
       ],
       "tags": [],
       "claim_timestamp": "00:51:00–00:54:00",
       "investigative_direction": "Cross-reference with TPUSA corporate filings, board minutes, and Erica Kirk's public statements around the leadership transition.",
       "mentions_person_refs": [
         "N-2",
-        "N-42"
+        "N-14"
       ]
     }
   ],

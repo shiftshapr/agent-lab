@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: a6a278c2583b1645dba697664ad3dba290528b1fc08b7e4b9b7e81180d1a7018
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-632, N-633, N-634, N-635, N-636, N-637, N-638, N-639, N-10452, N-10453, N-10454, N-10455
-  - Reused Nodes Appearing: N-117, N-3, N-599
-  - (see registers), N-37
+  - New Nodes Introduced: N-390, N-391, N-392, N-393, N-394, N-395, N-396, N-397, N-10381, N-10382, N-10383, N-10384
+  - Reused Nodes Appearing: N-82, N-3, N-371
+  - (see registers), N-11
 
 # Episode 52 Analysis
 
@@ -37,12 +37,12 @@ Video Timestamp: 00:04:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2003, C-2004, N-10452, Tyler Robinson node*
+*Related: C-2003, C-2004, N-10381, Tyler Robinson node*
 
 **A-1577.2** Map showing ~3-hour drive distance from Orem, Utah to Pangitch, Utah (host's on-screen display)
 Video Timestamp: 00:02:43
 
-*Related: C-2003, N-10452*
+*Related: C-2003, N-10381*
 
 **A-1578** Erika Kirk September 8 Follow-Up Text Bundle
 
@@ -58,14 +58,14 @@ Video Timestamp: 00:19:30
 **A-1579.1** 12-hour House committee hearing video (reviewed by host to verify Rep. Mark Amodei's presence)
 Video Timestamp: 00:21:13
 
-*Related: C-2008, Mark Amodei node, N-10453*
+*Related: C-2008, Mark Amodei node, N-10382*
 
 **A-1580** Tyler Bowyer Memorial Clip Bundle
 
 **A-1580.1** Video excerpt of Tyler Bowyer speaking at Charlie Kirk's memorial about the 2015 Trump rally and Erika Kirk's involvement
 Video Timestamp: 00:28:55
 
-*Related: C-2009, Tyler Bowyer node, N-2 (Erica Kirk, as "Erika"), N-37*
+*Related: C-2009, Tyler Bowyer node, N-2 (Erica Kirk, as "Erika"), N-11*
 
 **A-1581** 2014 Arizona House Floor Record Bundle
 
@@ -74,14 +74,14 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:33:00
 
-*Related: C-2010, N-632, N-633, N-639, N-10454, Lori Frantzve node*
+*Related: C-2010, N-390, N-391, N-397, N-10383, Lori Frantzve node*
 
 **A-1582** David Rodsham News Article Bundle
 
 **A-1582.1** CBS News article "US Army missed the red flags about a civilian leader who led a child porn ring and risked US security"
 Video Timestamp: 00:37:11
 
-*Related: C-2011, N-636, Fort Huachuca node*
+*Related: C-2011, N-394, Fort Huachuca node*
 
 **A-1583** Davis-Monthan Arizona Commanders Summit Bundle
 
@@ -90,14 +90,14 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:38:50
 
-*Related: C-2012, N-10455, N-10454*
+*Related: C-2012, N-10384, N-10383*
 
 **A-1584** Daily Wire "Maddie in the No" Clip Bundle
 
 **A-1584.1** Clip from Daily Wire's "Maddie in the No" show mocking Candace's Utah state flag commentary
 Video Timestamp: 00:46:38
 
-*Related: C-2013, N-638, Ben Shapiro node*
+*Related: C-2013, N-396, Ben Shapiro node*
 
 **A-1585** Charlie Kirk Assassination Back Video Bundle
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:13:50
 
 ## 4. Node Register
 
-**N-632** Eddie Farnsworth
+**N-390** Eddie Farnsworth
 
 Former Arizona House Judiciary Committee chair; brother of Senator David Farnsworth; first cousin of Dwayne Farnsworth; appears in 2014 Arizona House record on EMP legislation vote; father of Albert Farnsworth.
 
@@ -125,9 +125,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1581.1, C-2010, N-633, N-634, N-635, N-10454*
+*Related: A-1581.1, C-2010, N-391, N-392, N-393, N-10383*
 
-**N-633** David Farnsworth
+**N-391** David Farnsworth
 
 Arizona state senator; sponsored 2014 EMP legislation under which Lori Frantzve was introduced to the House floor; brother of Eddie Farnsworth; first cousin of Dwayne Farnsworth.
 
@@ -136,9 +136,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1581.1, C-2010, N-632, N-634, Lori Frantzve node, N-10454*
+*Related: A-1581.1, C-2010, N-390, N-392, Lori Frantzve node, N-10383*
 
-**N-634** Dwayne Farnsworth
+**N-392** Dwayne Farnsworth
 
 Terryl Farnsworth's father; first cousin of David and Eddie Farnsworth; host-asserted to have attended high school with Tyler Bowyer's parents (family network claim only).
 
@@ -147,9 +147,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-632, N-633, Terryl Farnsworth node, Tyler Bowyer node, N-10454, N-37*
+*Related: N-390, N-391, Terryl Farnsworth node, Tyler Bowyer node, N-10383, N-11*
 
-**N-635** Albert Farnsworth
+**N-393** Albert Farnsworth
 
 Eddie Farnsworth's nephew; host-asserted prior rape conviction of a 13-year-old (no artifact displayed in this episode).
 
@@ -158,9 +158,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-632*
+*Related: N-390*
 
-**N-636** David Rodsham
+**N-394** David Rodsham
 
 Top civilian leader at a US air base in Afghanistan; subject of CBS News report on a child pornography ring; per the same report, returned to Fort Huachuca after leaving his post.
 
@@ -171,7 +171,7 @@ Investigative Pressure: Medium
 
 *Related: A-1582.1, C-2011, Fort Huachuca node*
 
-**N-637** Thomas Bert
+**N-395** Thomas Bert
 
 Father-in-law of Terryl Farnsworth; former Executive Vice President and COO of Duncan Aviation (the FBO that rented vehicles for federal authorities); retired 2019 per host.
 
@@ -180,9 +180,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: Terryl Farnsworth node, N-10454*
+*Related: Terryl Farnsworth node, N-10383*
 
-**N-638** Maddie (Daily Wire host)
+**N-396** Maddie (Daily Wire host)
 
 Host of Daily Wire's "Maddie in the No" show; per Candace, the show is designed to mock her and Tucker Carlson; first identified publicly in this episode.
 
@@ -193,7 +193,7 @@ Investigative Pressure: Low
 
 *Related: A-1584.1, C-2013, Ben Shapiro node*
 
-**N-639** Larry Guinta
+**N-397** Larry Guinta
 
 Erika Kirk's stepfather; named in the 2014 Arizona House EMP legislation record alongside Lori Frantzve (host uncertain of spelling/pronunciation).
 
@@ -202,9 +202,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1581.1, N-2 (Erica Kirk, as "Erika"), Lori Frantzve node, N-10454*
+*Related: A-1581.1, N-2 (Erica Kirk, as "Erika"), Lori Frantzve node, N-10383*
 
-**N-98** Mark Herman (director, Candace show)
+**N-67** Mark Herman (director, Candace show)
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here he answers the host's geography question about Davis-Monthan AFB relative to Fort Huachuca: "it's a little over an hour north in Tucson."
 
@@ -215,7 +215,7 @@ Investigative Pressure: Low
 
 *Related: C-2012*
 
-**N-10452** Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification
+**N-10381** Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
 Verification of credit card receipt, transaction timestamp, server identification, and federal follow-up (or absence thereof) at Cowboys Smokehouse on the night of 9/10.
 
@@ -226,7 +226,7 @@ Investigative Pressure: High
 
 *Related: A-1577.1, A-1577.2, C-2003, C-2004, Tyler Robinson node*
 
-**N-10453** Mark Amodei House Committee Visual Identification
+**N-10382** Mark Amodei House Committee Visual Identification
 
 Whether Rep. Mark Amodei is visibly present early in the 12-hour House committee hearing video reviewed by host.
 
@@ -237,7 +237,7 @@ Investigative Pressure: Medium
 
 *Related: A-1579.1, C-2008, Mark Amodei node*
 
-**N-10454** Farnsworth Family Political-Military Network
+**N-10383** Farnsworth Family Political-Military Network
 
 Documented and host-asserted connections between Terryl Farnsworth, Tyler Bowyer, the Farnsworth family (David, Eddie, Dwayne), Lori Frantzve, Larry Gwinta, Thomas Bert, and Davis-Monthan / Fort Huachuca.
 
@@ -246,9 +246,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1581.1, C-2010, N-632, N-633, N-634, N-637, N-639, Lori Frantzve node, N-37*
+*Related: A-1581.1, C-2010, N-390, N-391, N-392, N-395, N-397, Lori Frantzve node, N-11*
 
-**N-10455** Davis-Monthan AFB September 9 Attendee Verification
+**N-10384** Davis-Monthan AFB September 9 Attendee Verification
 
 Verification of which Arizona community leaders attended the Davis-Monthan AFB Arizona Commanders Summit on September 9, 2025.
 
@@ -257,9 +257,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1583.1, C-2012, N-10454*
+*Related: A-1583.1, C-2012, N-10383*
 
-**N-37** Tyler Bowyer
+**N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -277,9 +277,9 @@ Claim Timestamp: 00:02:43
 Claim: Tyler Robinson drove approximately three hours from Orem, Utah to Pangitch, Utah on the night of September 10 and dined alone at the Cowboys Smokehouse bar on North Main Street.
 
 Anchored Artifacts: A-1577.1, A-1577.2
-Mentions: N-69
+Mentions: N-40
 
-Related Nodes: N-10452
+Related Nodes: N-10381
 
 Investigative Direction: Obtain Cowboys Smokehouse receipt and credit card statement directly; verify transaction timestamp and route.
 
@@ -290,9 +290,9 @@ Claim Timestamp: 00:04:45
 Claim: Cowboys Smokehouse staff identified Tyler Robinson from the suspect photo after the press conference, verified his prior presence via credit card receipt, and contacted federal authorities days later; per host, no federal follow-up investigation was conducted at the restaurant.
 
 Anchored Artifacts: A-1577.1
-Mentions: N-69
+Mentions: N-40
 
-Related Nodes: N-10452
+Related Nodes: N-10381
 
 Investigative Direction: Confirm whether FBI / Utah officials interviewed Cowboys Smokehouse staff; obtain contemporaneous staff statement; check federal investigation logs.
 
@@ -303,7 +303,7 @@ Claim Timestamp: 00:17:20
 Claim: Turning Point USA clarified to host that the tent at AmeriFest was initially proposed by Elizabeth McCoy but was ultimately a group decision between the events team and exhibitor hall team.
 
 Anchored Artifacts: None displayed (host verbal reference to TPUSA communication)
-Mentions: N-326
+Mentions: N-221
 
 Related Nodes:
 
@@ -340,9 +340,9 @@ Claim Timestamp: 00:21:13
 Claim: After personally reviewing a 12-hour House committee video, host concludes that Rep. Mark Amodei likely appears on screen early in the hearing, before the recorded roll calls, supporting his alibi for September 10.
 
 Anchored Artifacts: A-1579.1
-Mentions: N-3, N-599
+Mentions: N-3, N-371
 
-Related Nodes: N-10453
+Related Nodes: N-10382
 
 Investigative Direction: Obtain official House attendance record; verify timestamped committee video metadata; corroborate with eyewitness accounts.
 
@@ -353,7 +353,7 @@ Claim Timestamp: 00:28:55
 Claim: Tyler Bowyer, speaking at Charlie Kirk's memorial, stated that Erika Kirk called him asking how to get involved and that he put her behind President Trump at the 2015 Arizona rally.
 
 Anchored Artifacts: A-1580.1
-Mentions: N-2, N-37, N-1
+Mentions: N-2, N-11, N-1
 
 
 Investigative Direction: Cross-check rally attendee list and corroborate timing of Erika's political involvement; verify Bowyer's narrative against other contemporaneous accounts.
@@ -365,9 +365,9 @@ Claim Timestamp: 00:33:00
 Claim: A 2014 Arizona House record shows Senator David Farnsworth introducing Lori Frantzve, then-CEO of GTech Industries, on EMP legislation, with Eddie Farnsworth listed among voting members present and Larry Gwinta also named.
 
 Anchored Artifacts: A-1581.1
-Mentions: N-632, N-633, N-639
+Mentions: N-390, N-391, N-397
 
-Related Nodes: N-10454
+Related Nodes: N-10383
 
 Investigative Direction: Verify the Arizona House record directly; check whether any DoD contracts to GTech Industries followed; trace GTech Industries' successor entities (AZ Tech / E3 Tech mentioned in comments at 01:04:30).
 
@@ -378,7 +378,7 @@ Claim Timestamp: 00:37:11
 Claim: A CBS News article reports that David Rodsham, a top civilian leader at a US air base in Afghanistan who led a child pornography ring, returned to Fort Huachuca after leaving his post.
 
 Anchored Artifacts: A-1582.1
-Mentions: N-636
+Mentions: N-394
 
 
 Investigative Direction: Obtain the full CBS News article and any follow-up reporting; verify Rodsham's Fort Huachuca tenure dates; check overlap with relevant September 10 events.
@@ -390,9 +390,9 @@ Claim Timestamp: 00:38:50
 Claim: The Davis-Monthan AFB website announces that the Arizona Commanders Summit kicked off on September 9, 2025, providing a forum for military commanders and Arizona community leaders.
 
 Anchored Artifacts: A-1583.1
-Mentions: N-98
+Mentions: N-67
 
-Related Nodes: N-10454, N-10455
+Related Nodes: N-10383, N-10384
 
 Investigative Direction: Obtain attendee list for the summit; cross-check against names of interest (Farnsworths, Boyers, Erika Kirk, etc.); verify any overlap with Fort Huachuca personnel.
 
@@ -403,7 +403,7 @@ Claim Timestamp: 00:46:38
 Claim: Daily Wire has launched a show hosted by "Maddie" designed to mock Candace Owens and Tucker Carlson; the show includes dramatized takes on Candace's commentary, including her Utah state flag remarks.
 
 Anchored Artifacts: A-1584.1
-Mentions: N-638, N-50, N-3
+Mentions: N-396, N-22, N-3
 
 
 Investigative Direction: Confirm show title, launch date, host identity, and episode count directly via Daily Wire's official channels.
@@ -427,7 +427,7 @@ Claim Timestamp: 00:13:50
 Claim: Tyler Robinson was employed at Wild Electric in Santa Clara, Utah; this was already in public news reporting prior to this episode.
 
 Anchored Artifacts: A-1586.1
-Mentions: N-69
+Mentions: N-40
 
 Related Nodes:
 
@@ -444,7 +444,7 @@ Claim: Presenting the French "moral damages" ruling and the Macron lawsuit again
 Transcript Snippet: I believe that the feds are colluding because they want to introduce new speech laws in this country
 
 Anchored Artifacts: 
-Mentions: N-3, N-117
+Mentions: N-3, N-82
 Related Nodes: 
 Investigative Direction: Follow the Delaware docket filings in the Macron suit; track any proposed federal or state speech legislation the host links to it.
 

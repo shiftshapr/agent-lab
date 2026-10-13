@@ -290,7 +290,7 @@ Investigative Direction: Verify continuity of journal entries against timestamps
 Claim Timestamp: 00:06:08
 Claim: Arena, John Mappin, and Irina co-authored an open letter stating that Charlie's death was "an assassination with potentially far-reaching political consequences" and asserting that "the truth, when known… will have far-reaching international consequences."
 Anchored Artifacts: A-2352.1
-Mentions: N-1, N-217
+Mentions: N-1, N-157
 Investigative Direction: Locate original publication of the open letter and verify signatures.
 
 ---
@@ -320,7 +320,7 @@ Investigative Direction: Verify original text-message record and date against Ch
 Claim Timestamp: 00:12:55
 Claim: Host quotes a direct text reply from Kanye West following Charlie's death: when asked why he wrote the song "Power," he wrote back "it's a battle cry to be yourself."
 Anchored Artifacts: A-2354.1
-Mentions: N-3, N-56
+Mentions: N-3, N-27
 Related Nodes:
 
 Investigative Direction: Verify text record; cross-reference against any public statement from Kanye.
@@ -332,7 +332,7 @@ Investigative Direction: Verify text record; cross-reference against any public 
 Claim Timestamp: 00:12:38
 Claim: Host references a Kanye West tweet from April–May 2018 reading "I love the way Candace Owens thinks."
 Anchored Artifacts: A-2354.2
-Mentions: N-3, N-56
+Mentions: N-3, N-27
 Related Nodes:
 
 Investigative Direction: Locate the original tweet via archive; verify date and any follow-up replies. *Artifact verbally referenced but not shown in episode.*
@@ -388,7 +388,7 @@ Investigative Direction: Verify property records and timeline of acquisition vs.
 Claim Timestamp: 00:03:59–00:05:08
 Claim: Host asserts in journal that Ben Shapiro "slid into your studio within days, $1 million in hand," publicly stating he would "pick up your bloody mic."
 Anchored Artifacts: A-2351.1
-Mentions: N-1, N-133
+Mentions: N-1, N-97
 Related Nodes:
 
 Investigative Direction: Locate contemporaneous reporting on Shapiro's actions and any public statement. *No external corroborating artifact presented in episode.*
@@ -431,7 +431,7 @@ Investigative Direction: Not investigationally material; recorded for biographic
 Claim Timestamp: 00:05:08
 Claim: Host states in journal that Charlie's memorial was "weird," "like an RNC rally," with Susie Wiles among speakers.
 Anchored Artifacts: A-2351.1
-Mentions: N-1, N-3, N-182
+Mentions: N-1, N-3, N-132
 Related Nodes:
 
 Investigative Direction: Verify speaker list and video documentation of memorial event.
@@ -465,7 +465,7 @@ Investigative Direction: Confirm via Ye tour itinerary and prior concert dates.
 Claim Timestamp: 00:26:04
 Claim: Host states that Ye and Kid Cudi "had a massive public falling out in 2022."
 
-Mentions: N-56
+Mentions: N-27
 Anchored Artifacts: A-2360.1
 Related Nodes:
 
@@ -488,7 +488,7 @@ Investigative Direction: Verify letter text and signatories.
 Claim Timestamp: 00:18:46
 Claim: Host states that when meeting with the "Ace team," they explained that the inspiration behind the "beautiful death" portion of the song came from a specific scene in the movie 300.
 Anchored Artifacts: A-2357.1, A-2358.1
-Mentions: N-56
+Mentions: N-27
 Related Nodes:
 
 Investigative Direction: Verify with the named team or any documentation of the meeting. *Possible transcription error: "Ace team" identity unclear.*

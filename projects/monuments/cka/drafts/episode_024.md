@@ -11,10 +11,10 @@
 - **Transcript SHA-256**: b16f4980388370185d291129aae2198b32071168c9d782f7764725d6e49bf14e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-311, N-313, N-314, N-319, N-320, N-321, N-10286, N-10287
+  - New Nodes Introduced: N-214, N-215, N-216, N-218, N-219, N-220, N-10216, N-10217
   - Reused Nodes Appearing: 
-  - Tip-minted Nodes (wave2): N-11385, N-11386
-  - (see registers), N-37
+  - Tip-minted Nodes (wave2): N-10894, N-10895
+  - (see registers), N-11
 
 # Meta-Data
 
@@ -30,8 +30,8 @@
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1313, A-1314, A-1315, A-1316, A-1317, A-1318, A-1319, A-1320
   - Claim Range: C-1568 – C-1583
-  - New Nodes Introduced (people): N-311, N-313, N-314, N-319, N-320, N-321
-  - New Nodes Introduced (entities): N-10286, N-10287
+  - New Nodes Introduced (people): N-214, N-215, N-216, N-218, N-219, N-220
+  - New Nodes Introduced (entities): N-10216, N-10217
   - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk, N-3 Candace Owens, Ben Shapiro, Tucker Carlson, Lindsey Graham, Randy Fine, Nick Fuentes, Rob McCoy, Mikey McCoy/McColgan, Justin Stripe, Adam Lanza, Thomas Matthew Crooks, AIPAC
 
 # Executive Summary
@@ -132,7 +132,7 @@ Video Timestamp: 00:21:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1575, N-11386, N-11385, N-311, N-2, N-10286*
+*Related: C-1575, N-10895, N-10894, N-214, N-2, N-10216*
 
 **A-1317.2** Andrew Kolbenschlag X Reply Denying Knowledge of Award
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:22:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1576, N-42 Andrew Kolbenschlag, N-2 Erica Kirk, N-10286*
+*Related: C-1576, N-14 Andrew Kolbenschlag, N-2 Erica Kirk, N-10216*
 
 **A-1317.3** Michael Starr X Follow-Up on Israeli Government Press Office "Wavering"
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:23:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1577, N-311, N-11386, N-10286*
+*Related: C-1577, N-214, N-10895, N-10216*
 
 **A-1318** Erika Kirk Jesse Waters Interview Preview Bundle
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:30:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1578, N-2 Erica Kirk, N-313 Jesse Waters, N-10287*
+*Related: C-1578, N-2 Erica Kirk, N-215 Jesse Waters, N-10217*
 
 **A-1319** Kash Patel X Defense Tweet Bundle
 
@@ -176,7 +176,7 @@ Video Timestamp: 00:37:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1579, N-102 Kash Patel, N-314 Alexis Wilkins*
+*Related: C-1579, N-69 Kash Patel, N-216 Alexis Wilkins*
 
 **A-1320** YouTube Comments Bundle
 
@@ -253,7 +253,7 @@ Confidence Level: Medium
 # Node Register
 
 
-**N-311** Michael Starr
+**N-214** Michael Starr
 
 Journalist for the Jerusalem Post named as the writer of the article claiming Erika Kirk would accept a posthumous Pillars of Jerusalem Award on Charlie Kirk's behalf; later acknowledged on X that the Israeli government press office "wavered" on the claim.
 
@@ -262,9 +262,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1317.1, A-1317.3, C-1575, C-1577, N-11385, N-11386, N-2, N-10286*
+*Related: A-1317.1, A-1317.3, C-1575, C-1577, N-10894, N-10895, N-2, N-10216*
 
-**N-42** Andrew Kolvet
+**N-14** Andrew Kolvet
 
 TPUSA spokesperson who publicly denied any knowledge of the reported posthumous Israel award in a post on X.
 
@@ -273,9 +273,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1317.2, C-1576, N-2, N-10286*
+*Related: A-1317.2, C-1576, N-2, N-10216*
 
-**N-313** Jesse Watters
+**N-215** Jesse Watters
 
 Host of the Fox News interview with Erica Kirk that is teased as upcoming at episode time. (Name preserved as transcript renders it.)
 
@@ -286,7 +286,7 @@ Investigative Pressure: Low
 
 *Related: A-1318.1, C-1578, N-2*
 
-**N-314** Alexis Wilkins
+**N-216** Alexis Wilkins
 
 Country music artist; the girlfriend whom Kash Patel publicly defended on X in the tweet read in this episode.
 
@@ -295,9 +295,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1319.1, C-1579, N-102*
+*Related: A-1319.1, C-1579, N-69*
 
-**N-102** Kash Patel
+**N-69** Kash Patel
 
 Director of the FBI; subject of host commentary following the X defense tweet of his girlfriend and prior criticism over alleged use of FBI aircraft for personal travel.
 
@@ -306,9 +306,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1319.1, C-1579, N-314*
+*Related: A-1319.1, C-1579, N-216*
 
-**N-228** Matt Walsh
+**N-166** Matt Walsh
 
 Daily Wire personality referenced (hearsay) by the host as the subject of an outreach to host Charlie Kirk's show after his death, conditioned on inviting Ben Shapiro.
 
@@ -319,7 +319,7 @@ Investigative Pressure: Low
 
 *Related: N-Ben Shapiro, N-1 Charlie Kirk*
 
-**N-319** Douglas Murray
+**N-218** Douglas Murray
 
 Listed by Jerusalem Post / Israeli War Room as a presenter of the reported Pillars of Jerusalem Award.
 
@@ -328,9 +328,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1317.1, C-1575, N-10286*
+*Related: A-1317.1, C-1575, N-10216*
 
-**N-320** Yael Eckstein
+**N-219** Yael Eckstein
 
 Listed by Jerusalem Post / Israeli War Room as a presenter of the reported Pillars of Jerusalem Award.
 
@@ -339,9 +339,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1317.1, C-1575, N-10286*
+*Related: A-1317.1, C-1575, N-10216*
 
-**N-321** Jürgen Bühler
+**N-220** Jürgen Bühler
 
 Listed as a presenter of the reported Pillars of Jerusalem Award (spelled "Jürgen Bühler" in Jerusalem Post reporting cited in episode).
 
@@ -350,9 +350,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1317.1, C-1575, N-10286*
+*Related: A-1317.1, C-1575, N-10216*
 
-**N-11385** Jerusalem Post
+**N-10894** Jerusalem Post
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -364,9 +364,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1317.1, C-1575, N-311, N-10286*
+*Related: A-1317.1, C-1575, N-214, N-10216*
 
-**N-11386** Israeli War Room
+**N-10895** Israeli War Room
 
 Node Type: Organization
 Organization Kind: media_outlet
@@ -378,9 +378,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1317.1, C-1575, N-11385, N-10286*
+*Related: A-1317.1, C-1575, N-10894, N-10216*
 
-**N-10286** TPUSA Posthumous Israel Award Reporting Discrepancy
+**N-10216** TPUSA Posthumous Israel Award Reporting Discrepancy
 
 Persistent discrepancy between Jerusalem Post / Israeli War Room reporting that Erica Kirk would accept a Pillars of Jerusalem Award on Charlie Kirk's behalf and Andrew Kolbenschlag's on-record statement that TPUSA had not heard of the award and that the CEO was not scheduled to participate.
 
@@ -389,9 +389,9 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1317.1, A-1317.2, A-1317.3, C-1575, C-1576, C-1577, N-311, N-42, N-11385, N-11386, N-2*
+*Related: A-1317.1, A-1317.2, A-1317.3, C-1575, C-1576, C-1577, N-214, N-14, N-10894, N-10895, N-2*
 
-**N-10287** TPUSA Leadership Transparency Pressure (Post-Charlie)
+**N-10217** TPUSA Leadership Transparency Pressure (Post-Charlie)
 
 Persistent pressure articulated in this episode on TPUSA leadership (CEO/chairman Erica Kirk; Tyler Bowyer; etc.) to publicly disclose what they can about Rob McCoy, Mikey McCoy/McColgan, Taryl, and the timeline of phone calls/texts surrounding Charlie Kirk's death.
 
@@ -400,9 +400,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1578, N-2, N-70, N-Rob McCoy, N-Mikey McCoy, N-37*
+*Related: C-1578, N-2, N-41, N-Rob McCoy, N-Mikey McCoy, N-11*
 
-**N-37** Tyler Bowyer
+**N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -434,7 +434,7 @@ Claim Timestamp: 00:04:07
 Claim: Randy Fine stated on stage at the Republican Jewish Coalition that "Tucker Carlson is the most dangerous anti-Semite in America" and accused him of taking on the mantle of "leader of a modern-day Hitler youth."
 
 Anchored Artifacts: A-1313.2
-Mentions: N-50
+Mentions: N-22
 
 Related Nodes:
 
@@ -463,7 +463,7 @@ Claim Timestamp: 00:14:12
 Claim: Ben Shapiro stated that Tucker Carlson "knifes [friends] directly between the shoulder blades when convenient for him" and specifically "preys on the friendship he proclaims" with Charlie Kirk.
 
 Anchored Artifacts: A-1314.2
-Mentions: N-1, N-50, N-133
+Mentions: N-1, N-22, N-97
 
 
 Investigative Direction: Verify by reviewing Ben Shapiro's full segment; assess the framing in light of host's counter-evidence (Joe Rogan clip, photo, and claimed text messages).
@@ -477,7 +477,7 @@ Claim Timestamp: 00:14:12
 Claim: Ben Shapiro stated that "Charlie believed that Nick Fuentes was vermin. That's a direct quote."
 
 Anchored Artifacts: A-1314.2
-Mentions: N-1, N-293, N-133
+Mentions: N-1, N-205, N-97
 
 
 Investigative Direction: Locate the underlying Charlie Kirk statement Ben Shapiro cites to verify the attribution and original context.
@@ -505,7 +505,7 @@ Claim Timestamp: 00:18:19
 Claim: A photo displayed in the episode depicts Candace Owens and Charlie Kirk in Ben Shapiro's Sherman Oaks studio, standing with puffed chests and standing extra tall, taken in or around June 2018 after they were booked on his show despite prior tension.
 
 Anchored Artifacts: A-1316.1
-Mentions: N-1, N-3, N-133
+Mentions: N-1, N-3, N-97
 
 
 Investigative Direction: Verify by locating the source image metadata (date, location, producer of the appearance).
@@ -519,9 +519,9 @@ Claim Timestamp: 00:21:26
 Claim: The Israeli War Room X account posted that "Miss Erika / Mrs. Erika Kirk will accept the award on her husband's behalf" at Israel's 2025 Christian Media Summit, citing Jerusalem Post reporting by Michael Starr, with the Pillars of Jerusalem Award to be presented by Douglas Murray, Yael Eckstein, and Dr. Jürgen Bühler.
 
 Anchored Artifacts: A-1317.1
-Mentions: N-2, N-311, N-319, N-320, N-321
+Mentions: N-2, N-214, N-218, N-219, N-220
 
-Related Nodes: N-10286, N-11385, N-11386
+Related Nodes: N-10216, N-10894, N-10895
 
 Investigative Direction: Verify by independently locating the original Jerusalem Post article by Michael Starr, the Israeli War Room X post, and the Christian Media Summit program to confirm whether the award and presenters are real and whether Erika Kirk is listed.
 
@@ -534,9 +534,9 @@ Claim Timestamp: 00:22:13
 Claim: TPUSA spokesperson Andrew Kolbenschlag posted on X that "this is the first we're hearing of this" regarding the reported Pillars of Jerusalem Award, and stated TPUSA had reached out to Michael Starr for a correction.
 
 Anchored Artifacts: A-1317.2
-Mentions: N-2, N-42, N-311
+Mentions: N-2, N-14, N-214
 
-Related Nodes: N-10286
+Related Nodes: N-10216
 
 Investigative Direction: Verify by locating Kolbenschlag's original X post and any subsequent follow-up from TPUSA.
 
@@ -549,9 +549,9 @@ Claim Timestamp: 00:23:04
 Claim: Michael Starr posted on X that "the Israeli government press office wavered on claims that Erika Kirk would be accepting [the posthumous award]" after TPUSA said it was unaware of the award and that its CEO was not scheduled to participate.
 
 Anchored Artifacts: A-1317.3
-Mentions: N-311, N-2
+Mentions: N-214, N-2
 
-Related Nodes: N-10286, N-11386
+Related Nodes: N-10216, N-10895
 
 Investigative Direction: Verify the original Michael Starr X post and corroborate with any subsequent Jerusalem Post correction or retraction.
 
@@ -564,9 +564,9 @@ Claim Timestamp: 00:30:31
 Claim: In a preview clip of her Jesse Waters interview, Erika Kirk opposed the defense motion to ban cameras in the courtroom, stating "We deserve to have cameras in there … Let everyone see what true evil is."
 
 Anchored Artifacts: A-1318.1
-Mentions: N-2, N-313
+Mentions: N-2, N-215
 
-Related Nodes: N-10287
+Related Nodes: N-10217
 
 Investigative Direction: Verify by reviewing the full Jesse Waters interview once aired and any subsequent court filings on the camera question.
 
@@ -579,7 +579,7 @@ Claim Timestamp: 00:37:40
 Claim: Kash Patel posted an extended X message defending his girlfriend Alexis Wilkins against criticism following reporting about his use of an FBI aircraft to travel to her events, asserting she is "a true patriot" and "country music sensation."
 
 Anchored Artifacts: A-1319.1
-Mentions: N-102, N-314
+Mentions: N-69, N-216
 
 
 Investigative Direction: Verify by locating Patel's original X post, and corroborate against any reporting or inspector general review of his use of FBI aircraft for personal travel.
@@ -593,7 +593,7 @@ Claim Timestamp: 00:45:55
 Claim: A viewer (Tom Paul) alleged in a YouTube comment that Tyler Robinson's ACT score was 34 (99th percentile), Thomas Matthew Crooks' SAT score was in the 99th percentile, and that this pattern resembles Adam Lanza, suggesting a common playbook.
 
 Anchored Artifacts: A-1320.5
-Mentions: N-148, N-69
+Mentions: N-105, N-40
 
 
 Investigative Direction: Independently confirm the test scores from public records; assess whether any reporting substantiates a "playbook" pattern.
@@ -635,7 +635,7 @@ Claim Timestamp: 00:10:00
 Claim: Host characterizes Ben Shapiro's segment attacking Tucker Carlson as "a very, dare I say, scripted stab" that "took" the same talking points as other Zionists.
 
 Anchored Artifacts: A-1314.1
-Mentions: N-50, N-133
+Mentions: N-22, N-97
 
 Related Nodes:
 

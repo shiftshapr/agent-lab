@@ -32,8 +32,8 @@
             "C-3598"
           ],
           "related_nodes": [
-            "N-11355",
-            "N-11356",
+            "N-10864",
+            "N-10865",
             "N-2"
           ],
           "tags": [],
@@ -51,7 +51,7 @@
             "C-3596"
           ],
           "related_nodes": [
-            "N-11355",
+            "N-10864",
             "N-2"
           ],
           "tags": [],
@@ -77,9 +77,9 @@
             "C-3599"
           ],
           "related_nodes": [
-            "N-11357",
+            "N-10866",
             "N-2",
-            "N-326"
+            "N-221"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -104,7 +104,7 @@
             "C-3600"
           ],
           "related_nodes": [
-            "N-11355",
+            "N-10864",
             "N-2"
           ],
           "tags": [],
@@ -130,9 +130,9 @@
             "C-3601"
           ],
           "related_nodes": [
-            "N-10288",
-            "N-796",
-            "N-272",
+            "N-10218",
+            "N-508",
+            "N-194",
             "N-1",
             "N-2"
           ],
@@ -160,10 +160,10 @@
             "C-3603"
           ],
           "related_nodes": [
-            "N-50",
-            "N-42",
-            "N-10121",
-            "N-11355"
+            "N-22",
+            "N-14",
+            "N-10056",
+            "N-10864"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -188,9 +188,9 @@
             "C-3604"
           ],
           "related_nodes": [
-            "N-11358",
+            "N-10867",
             "N-3",
-            "N-59"
+            "N-30"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -216,11 +216,11 @@
             "C-3606"
           ],
           "related_nodes": [
-            "N-11359",
-            "N-66",
-            "N-65",
-            "N-11351",
-            "N-11354"
+            "N-10868",
+            "N-37",
+            "N-36",
+            "N-10860",
+            "N-10863"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -252,7 +252,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11354"
+        "N-10863"
       ]
     },
     {
@@ -278,8 +278,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-11355",
-        "N-11356"
+        "N-10864",
+        "N-10865"
       ]
     },
     {
@@ -301,13 +301,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11358"
+        "N-10867"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "Quoted in Vanity Fair on TPUSA’s Candace-obsession and on Erika’s privately stronger Israel criticism.",
@@ -326,8 +326,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-59",
-      "ref": "N-59",
+      "@id": "N-30",
+      "ref": "N-30",
       "name": "George (Candace's husband)",
       "type": "person",
       "description": "Target of “secret Zionist / speaks Hebrew” smear; host explains Oxford theology ancient-Hebrew requirement.",
@@ -341,13 +341,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11358"
+        "N-10867"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-65",
-      "ref": "N-65",
+      "@id": "N-36",
+      "ref": "N-36",
       "name": "Benjamin Netanyahu",
       "type": "person",
       "description": "July 9 DC visit window tied to college-video archive date and prior Israel-pressure timeline.",
@@ -361,14 +361,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11359",
-        "N-11354"
+        "N-10868",
+        "N-10863"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-66",
-      "ref": "N-66",
+      "@id": "N-37",
+      "ref": "N-37",
       "name": "Bill Ackman",
       "type": "person",
       "description": "Named as amplifier of the lesbian/Zionist smear package; host flags deleted X amplification during Charlie’s Israel-pressure period.",
@@ -384,13 +384,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11359"
+        "N-10868"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Recipient of Carlson advice in the profile; prior source of early Erika-CEO notice to host; tied to Candace-focus critique.",
@@ -408,8 +408,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host alleges gatekeeping of the will appointment and contrasts profile “shrine office” claims with early McCoy use of Charlie’s home-office space / Fox hits.",
@@ -423,14 +423,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-10264",
-        "N-10288"
+        "N-10198",
+        "N-10218"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-364",
-      "ref": "N-364",
+      "@id": "N-242",
+      "ref": "N-242",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Referenced regarding Erika’s December interview claim that Charlie was unconcerned about death threats the night before (contrast with DeGroot framing).",
@@ -446,8 +446,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-444",
-      "ref": "N-444",
+      "@id": "N-284",
+      "ref": "N-284",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Named among fall-2025 public appearances in the host’s wardrobe catalog rebutting “only thing that fit.”",
@@ -463,8 +463,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-326",
-      "ref": "N-326",
+      "@id": "N-221",
+      "ref": "N-221",
       "name": "Eliza McCoy",
       "type": "person",
       "description": "Prior public thread claiming she went to Aloe for clothes; host contrasts with profile’s Erika-directed account.",
@@ -482,8 +482,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Referenced in post-review segment as heavily debunked by Lake Force relative to Shawn Ryan narrative.",
@@ -495,14 +495,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-11329",
-        "N-11350"
+        "N-10839",
+        "N-10859"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Rhetorically invoked in closing comments / pastor jab.",
@@ -518,8 +518,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-796",
-      "ref": "N-796",
+      "@id": "N-508",
+      "ref": "N-508",
       "name": "Doug DeGroot",
       "type": "person",
       "description": "Board member / couple’s financial adviser quoted on will appointment and on media pressure driving 48-hour CEO vote.",
@@ -538,8 +538,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Opening callback: host’s July 18 tweet predicting Vanity Fair widow spread; Neff bookmarked it.",
@@ -553,13 +553,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11355"
+        "N-10864"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10121",
-      "ref": "N-10121",
+      "@id": "N-10056",
+      "ref": "N-10056",
       "name": "Kirk-Israel Narrative Dispute",
       "type": "investigation_target",
       "description": "Advanced by Carlson quote that Erika was privately more critical of Israel than Charlie, versus her public bandwidth refusal / glowing partnerships.",
@@ -574,13 +574,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11356"
+        "N-10865"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10264",
-      "ref": "N-10264",
+      "@id": "N-10198",
+      "ref": "N-10198",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
       "type": "investigation_target",
       "description": "Reused for post-assassination office/home-office behavior contrast with shrine narrative.",
@@ -594,13 +594,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-272"
+        "N-194"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10288",
-      "ref": "N-10288",
+      "@id": "N-10218",
+      "ref": "N-10218",
       "name": "McCoy Succession Plan",
       "type": "investigation_target",
       "description": "Reused around will-appointment timing and succession optics.",
@@ -617,8 +617,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11329",
-      "ref": "N-11329",
+      "@id": "N-10839",
+      "ref": "N-10839",
       "name": "Independent Review of UVU Security Failures",
       "type": "investigation_target",
       "description": "Background for TPUSA non-participation contrast and post-review smear timing.",
@@ -632,13 +632,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-11350"
+        "N-10859"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11350",
-      "ref": "N-11350",
+      "@id": "N-10859",
+      "ref": "N-10859",
       "name": "TPUSA Non-Participation in UVU Independent Review",
       "type": "investigation_target",
       "description": "Reused: host opens by contrasting Vanity Fair access with refusal to cooperate with Lake Force.",
@@ -652,13 +652,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11329"
+        "N-10839"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11351",
-      "ref": "N-11351",
+      "@id": "N-10860",
+      "ref": "N-10860",
       "name": "July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)",
       "type": "investigation_target",
       "description": "Reused when plotting July 9 college-video archive against July 10 UVU ask.",
@@ -672,13 +672,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11359"
+        "N-10868"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11354",
-      "ref": "N-11354",
+      "@id": "N-10863",
+      "ref": "N-10863",
       "name": "July 2025 Charlie Kirk Pressure Concurrent with UVU Booking",
       "type": "investigation_target",
       "description": "Reused as parent concurrent-pressure frame for Netanyahu/Hamptons/archive overlay.",
@@ -692,13 +692,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-11359"
+        "N-10868"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11355",
-      "ref": "N-11355",
+      "@id": "N-10864",
+      "ref": "N-10864",
       "name": "Vanity Fair Erika Kirk Profile (Clara Molot)",
       "type": "investigation_target",
       "description": "New topic: published profile granting months of access; host treats as primary source artifact exposing CEO/widow narrative contradictions.",
@@ -720,8 +720,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11356",
-      "ref": "N-11356",
+      "@id": "N-10865",
+      "ref": "N-10865",
       "name": "Erika Heaven-Focused Political Non-Answers / CEO Fitness",
       "type": "investigation_target",
       "description": "New topic: profile quotations where Erika avoids politics/Israel via heaven/bandwidth framing; writer Clara Molot on-camera notes disingenuous/incoherent political conversation.",
@@ -738,13 +738,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10121"
+        "N-10056"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11357",
-      "ref": "N-11357",
+      "@id": "N-10866",
+      "ref": "N-10866",
       "name": "Night-of Assassination Aloe Yoga Outfit Directive",
       "type": "investigation_target",
       "description": "New topic: profile’s Erika-directed Aloe purchase the morning after for Air Force 2 optics, versus prior Elizabeth McCoy clothing-run narrative.",
@@ -761,13 +761,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-326"
+        "N-221"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11358",
-      "ref": "N-11358",
+      "@id": "N-10867",
+      "ref": "N-10867",
       "name": "Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)",
       "type": "investigation_target",
       "description": "New topic: post–UVU-review smear escalation flipping prior jealous/antisemitic frames into fabricated sexuality/blackmail/Zionist-control package.",
@@ -784,13 +784,13 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-3",
-        "N-59"
+        "N-30"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-11359",
-      "ref": "N-11359",
+      "@id": "N-10868",
+      "ref": "N-10868",
       "name": "July 9 2025 Archive of Candace College YouTube Project",
       "type": "investigation_target",
       "description": "New topic: first archive of 2008 college final on July 9, 2025 adjacent to Netanyahu DC visit and July 10 UVU courtyard request; later smear uses that real video as seed; Ackman amplification.",
@@ -807,15 +807,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-66",
-        "N-11351",
-        "N-11354"
+        "N-37",
+        "N-10860",
+        "N-10863"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-36",
-      "ref": "N-36",
+      "@id": "N-10",
+      "ref": "N-10",
       "name": "Caleb Chilcutt",
       "type": "person",
       "description": "UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.",
@@ -829,8 +829,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-41",
-      "ref": "N-41",
+      "@id": "N-13",
+      "ref": "N-13",
       "name": "Clara Molot",
       "type": "person",
       "description": "Vanity Fair writer of the Erika Kirk profile the host reads as an unflattering portrait.",
@@ -844,8 +844,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-44",
-      "ref": "N-44",
+      "@id": "N-16",
+      "ref": "N-16",
       "name": "Sergio Gor",
       "type": "person",
       "description": "Trump-world operative and later US ambassador to India. Host ties him to Winning Team Publishing and to Susie Wiles's orbit.",
@@ -859,8 +859,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-46",
-      "ref": "N-46",
+      "@id": "N-18",
+      "ref": "N-18",
       "name": "Andrew Wilson",
       "type": "person",
       "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
@@ -885,15 +885,15 @@
         "A-2459.2"
       ],
       "related_nodes": [
-        "N-11355",
-        "N-11350"
+        "N-10864",
+        "N-10859"
       ],
       "tags": [],
       "claim_timestamp": "00:01:33",
       "investigative_direction": "Archive the full Vanity Fair piece; list access dates; compare cooperation posture to Lake Force outreach log.",
       "mentions_person_refs": [
-        "N-41",
-        "N-224",
+        "N-13",
+        "N-162",
         "N-2"
       ]
     },
@@ -907,7 +907,7 @@
         "A-2459.1"
       ],
       "related_nodes": [
-        "N-11356"
+        "N-10865"
       ],
       "tags": [],
       "claim_timestamp": "00:06:51",
@@ -926,15 +926,15 @@
         "A-2459.1"
       ],
       "related_nodes": [
-        "N-11356",
-        "N-10121"
+        "N-10865",
+        "N-10056"
       ],
       "tags": [],
       "claim_timestamp": "00:10:44",
       "investigative_direction": "Compile Erika Israel-related statements pre/post Sept 10; align with Carlson’s private-criticism quote (C-3603).",
       "mentions_person_refs": [
         "N-2",
-        "N-65"
+        "N-36"
       ]
     },
     {
@@ -947,14 +947,14 @@
         "A-2460.1"
       ],
       "related_nodes": [
-        "N-11357"
+        "N-10866"
       ],
       "tags": [],
       "claim_timestamp": "00:17:23",
       "investigative_direction": "Preserve profile text; archive Elizabeth McCoy thread; seek staff corroboration without minting new Persons.",
       "mentions_person_refs": [
         "N-2",
-        "N-326"
+        "N-221"
       ]
     },
     {
@@ -967,14 +967,14 @@
         "A-2461.1"
       ],
       "related_nodes": [
-        "N-11355"
+        "N-10864"
       ],
       "tags": [],
       "claim_timestamp": "00:20:37",
       "investigative_direction": "Build dated outfit plate from primary video stills; keep claim scoped to contradiction vs “only thing that fit.”",
       "mentions_person_refs": [
         "N-2",
-        "N-444"
+        "N-284"
       ]
     },
     {
@@ -987,8 +987,8 @@
         "A-2462.1"
       ],
       "related_nodes": [
-        "N-10288",
-        "N-10264"
+        "N-10218",
+        "N-10198"
       ],
       "tags": [],
       "claim_timestamp": "00:26:24",
@@ -996,8 +996,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-272",
-        "N-796"
+        "N-194",
+        "N-508"
       ]
     },
     {
@@ -1010,15 +1010,15 @@
         "A-2463.1"
       ],
       "related_nodes": [
-        "N-11355"
+        "N-10864"
       ],
       "tags": [],
       "claim_timestamp": "00:24:52",
       "investigative_direction": "Confirm quote context in published piece; note host’s declined-to-comment status.",
       "mentions_person_refs": [
         "N-3",
-        "N-42",
-        "N-50"
+        "N-14",
+        "N-22"
       ]
     },
     {
@@ -1031,15 +1031,15 @@
         "A-2463.1"
       ],
       "related_nodes": [
-        "N-10121",
-        "N-11356"
+        "N-10056",
+        "N-10865"
       ],
       "tags": [],
       "claim_timestamp": "00:28:36",
       "investigative_direction": "Pair with on-record Erika statements; treat Carlson quote as secondhand unless further primary emerges.",
       "mentions_person_refs": [
         "N-2",
-        "N-50"
+        "N-22"
       ]
     },
     {
@@ -1052,15 +1052,15 @@
         "A-2464.1"
       ],
       "related_nodes": [
-        "N-11358",
-        "N-11329"
+        "N-10867",
+        "N-10839"
       ],
       "tags": [],
       "claim_timestamp": "00:40:02",
       "investigative_direction": "Archive primary smear posts/headlines; separate real 2008 video from unverified MySpace/sex-site claims.",
       "mentions_person_refs": [
         "N-3",
-        "N-59"
+        "N-30"
       ]
     },
     {
@@ -1073,15 +1073,15 @@
         "A-2465.1"
       ],
       "related_nodes": [
-        "N-11359",
-        "N-11351",
-        "N-11354"
+        "N-10868",
+        "N-10860",
+        "N-10863"
       ],
       "tags": [],
       "claim_timestamp": "00:47:45",
       "investigative_direction": "Verify archive timestamps on primary archive.org (or equivalent) captures; keep causal inference provisional.",
       "mentions_person_refs": [
-        "N-65"
+        "N-36"
       ]
     },
     {
@@ -1094,14 +1094,14 @@
         "A-2465.1"
       ],
       "related_nodes": [
-        "N-11359"
+        "N-10868"
       ],
       "tags": [],
       "claim_timestamp": "00:50:25",
       "investigative_direction": "Preserve deleted-tweet captures; confirm handles/dates; avoid over-claiming coordination without docs.",
       "mentions_person_refs": [
         "N-3",
-        "N-66"
+        "N-37"
       ]
     },
     {
@@ -1115,14 +1115,14 @@
         "A-2462.1"
       ],
       "related_nodes": [
-        "N-10288"
+        "N-10218"
       ],
       "tags": [],
       "claim_timestamp": "00:30:00",
       "investigative_direction": "Timestamp board vote vs public announce vs contemporaneous press queries; seek board minutes if ever produced.",
       "mentions_person_refs": [
         "N-2",
-        "N-796"
+        "N-508"
       ]
     }
   ],

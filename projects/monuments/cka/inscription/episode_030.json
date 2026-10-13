@@ -31,8 +31,8 @@
             "C-1668"
           ],
           "related_nodes": [
-            "N-75",
-            "N-133",
+            "N-46",
+            "N-97",
             "N-2"
           ],
           "tags": [],
@@ -59,8 +59,8 @@
             "C-1671"
           ],
           "related_nodes": [
-            "N-61",
-            "N-133"
+            "N-32",
+            "N-97"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -113,7 +113,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-75"
+            "N-46"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -140,9 +140,9 @@
             "C-1673"
           ],
           "related_nodes": [
-            "N-16",
-            "N-309",
-            "N-382"
+            "N-7",
+            "N-212",
+            "N-251"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -160,9 +160,9 @@
             "C-1674"
           ],
           "related_nodes": [
-            "N-16",
-            "N-309",
-            "N-382",
+            "N-7",
+            "N-212",
+            "N-251",
             "N-1"
           ],
           "tags": [],
@@ -189,8 +189,8 @@
             "C-1672"
           ],
           "related_nodes": [
-            "N-309",
-            "N-10314"
+            "N-212",
+            "N-10244"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -216,9 +216,9 @@
             "C-1677"
           ],
           "related_nodes": [
-            "N-314",
-            "N-385",
-            "N-102"
+            "N-216",
+            "N-252",
+            "N-69"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -236,7 +236,7 @@
             "C-1678"
           ],
           "related_nodes": [
-            "N-386"
+            "N-253"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -254,9 +254,9 @@
             "C-1679"
           ],
           "related_nodes": [
-            "N-385",
-            "N-314",
-            "N-102"
+            "N-252",
+            "N-216",
+            "N-69"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -282,8 +282,8 @@
             "C-1680"
           ],
           "related_nodes": [
-            "N-102",
-            "N-314"
+            "N-69",
+            "N-216"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -309,7 +309,7 @@
             "C-1675"
           ],
           "related_nodes": [
-            "N-10313"
+            "N-10243"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -357,7 +357,7 @@
             "C-1681"
           ],
           "related_nodes": [
-            "N-56"
+            "N-27"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -372,8 +372,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-75",
-      "ref": "N-75",
+      "@id": "N-46",
+      "ref": "N-46",
       "name": "Megyn Kelly",
       "type": "person",
       "description": "Tour host who publicly corrected Ben Shapiro's claim in a Q&A and released backstage video corroborating Tucker's account of Charlie Kirk's \"Go Max\" instruction.",
@@ -393,8 +393,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
+      "@id": "N-97",
+      "ref": "N-97",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Subject of Megyn Kelly's on-stage correction and Dave Rubin's \"bravery\" characterization; alleged to have falsely told Kelly's audience that Candace accused Erica Kirk of murder.",
@@ -414,8 +414,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-61",
-      "ref": "N-61",
+      "@id": "N-32",
+      "ref": "N-32",
       "name": "Dave Rubin",
       "type": "person",
       "description": "Commentator whose show clip defended Ben Shapiro's appearance on Megyn Kelly's tour as \"almost an act of bravery.\"",
@@ -433,8 +433,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-16",
-      "ref": "N-16",
+      "@id": "N-7",
+      "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
       "description": "Witness account identifying Butch Hibbs at the UVU event and posing with Charlie Kirk approximately 20 minutes before the shooting.",
@@ -455,8 +455,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-309",
-      "ref": "N-309",
+      "@id": "N-212",
+      "ref": "N-212",
       "name": "Jack Hibbs",
       "type": "person",
       "description": "Pastor of a Calvary Chapel in California; identified as Butch Hibbs' brother by Frank Turk.",
@@ -474,8 +474,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-382",
-      "ref": "N-382",
+      "@id": "N-251",
+      "ref": "N-251",
       "name": "Butch Hibbs",
       "type": "person",
       "description": "Identified as the \"old man talking to a bush\" at the UVU venue pre-event; brother of Pastor Jack Hibbs; photographed with Charlie Kirk approximately 20 minutes before the shooting.",
@@ -495,13 +495,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10314"
+        "N-10244"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-69",
+      "ref": "N-69",
       "name": "Kash Patel",
       "type": "person",
       "description": "FBI Director whose public defense of Alexis Wilkins and whose role in the Wilkins lawsuit are central to the episode's lawsuit discussion.",
@@ -521,8 +521,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-314",
-      "ref": "N-314",
+      "@id": "N-216",
+      "ref": "N-216",
       "name": "Alexis Wilkins",
       "type": "person",
       "description": "Plaintiff in the $5 million lawsuit against content creators including Elijah Schaefer; subject of the Hen Mazig post and the Schaefer photograph response.",
@@ -542,13 +542,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10315"
+        "N-10245"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-385",
-      "ref": "N-385",
+      "@id": "N-252",
+      "ref": "N-252",
       "name": "Elijah Schaefer",
       "type": "person",
       "description": "Content creator defendant in the Alexis Wilkins lawsuit; posted photograph of Wilkins and Patel in response to Hen Mazig X post.",
@@ -568,8 +568,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-386",
-      "ref": "N-386",
+      "@id": "N-253",
+      "ref": "N-253",
       "name": "Hen Mazig",
       "type": "person",
       "description": "Ex-user (X account holder) who published the September 14, 2025 post describing female Mossad agents in Israeli intelligence operations against Iran.",
@@ -587,8 +587,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-56",
-      "ref": "N-56",
+      "@id": "N-27",
+      "ref": "N-27",
       "name": "Kanye West",
       "type": "person",
       "description": "Subject of a read-aloud historical X post referenced for the phrase \"defcon 3 on some Jewish people,\" invoked as a retrospective parallel to current censorship claims.",
@@ -606,8 +606,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10313",
-      "ref": "N-10313",
+      "@id": "N-10243",
+      "ref": "N-10243",
       "name": "UVU Outdoor Venue Selection Discrepancy",
       "type": "investigation_target",
       "description": "Persistent investigative target concerning the late (July 18) UVU Turning Point chapter request, the rapid dispatch of scouts in early August, and Turning Point USA's decision to override UVU's safety-based recommendation against the outdoor amphitheater.",
@@ -626,8 +626,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10314",
-      "ref": "N-10314",
+      "@id": "N-10244",
+      "ref": "N-10244",
       "name": "Pre-Event Old Man Near Bush Anomaly",
       "type": "investigation_target",
       "description": "Persistent investigative target concerning an unidentified-to-the-public older man seen alone near a bush at the UVU venue during setup, identified in this episode as Butch Hibbs via Frank Turk.",
@@ -645,13 +645,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-382"
+        "N-251"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10315",
-      "ref": "N-10315",
+      "@id": "N-10245",
+      "ref": "N-10245",
       "name": "Alexis Wilkins Honeypot Allegation Lawsuit",
       "type": "investigation_target",
       "description": "Persistent investigative target concerning the $5 million Wilkins lawsuit against Elijah Schaefer and other content creators over \"honeypot\" allegations, including the Hen Mazig X post and Schaefer photograph cited within the complaint.",
@@ -671,9 +671,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-314",
-        "N-385",
-        "N-386"
+        "N-216",
+        "N-252",
+        "N-253"
       ]
     },
     {
@@ -726,8 +726,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-35",
-      "ref": "N-35",
+      "@id": "N-9",
+      "ref": "N-9",
       "name": "Jeffrey Epstein",
       "type": "person",
       "description": "Nucleus of Lutnick/Andre whistleblower thread and host's broader files thesis.",
@@ -742,8 +742,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
@@ -758,8 +758,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
@@ -774,8 +774,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-45",
-      "ref": "N-45",
+      "@id": "N-17",
+      "ref": "N-17",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Pastor associated with Dream City Church and Turning Point USA's faith-direction pivot during COVID; named by host in the TPUSA-faith origin recap.",
@@ -790,8 +790,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-86",
-      "ref": "N-86",
+      "@id": "N-55",
+      "ref": "N-55",
       "name": "Josh Hammer",
       "type": "person",
       "description": "Named as participant in Hamptons weekend who allegedly pressured Charlie Kirk on Israel/Netanyahu positioning.",
@@ -806,8 +806,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-135",
-      "ref": "N-135",
+      "@id": "N-99",
+      "ref": "N-99",
       "name": "Alex Clark",
       "type": "person",
       "description": "Podcaster named by host and defended by AllieBeth Stuckey (A-1537.1) against host's accusation of misrepresenting Charlie Kirk's stance on architecture.",
@@ -822,8 +822,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -869,8 +869,8 @@
       "investigative_direction": "Obtain an unedited copy of the Kelly tour Q&A or tour recording to verify the precise wording Shapiro used and the full context.",
       "mentions_person_refs": [
         "N-2",
-        "N-75",
-        "N-133",
+        "N-46",
+        "N-97",
         "N-3",
         "N-1"
       ]
@@ -890,7 +890,7 @@
       "investigative_direction": "Obtain the full tour Q&A recording to verify Kelly's exact wording and any follow-up.",
       "mentions_person_refs": [
         "N-2",
-        "N-75",
+        "N-46",
         "N-3"
       ]
     },
@@ -909,8 +909,8 @@
       "investigative_direction": "Obtain an unedited recording of Tucker's full statement and any contemporaneous corroborating material.",
       "mentions_person_refs": [
         "N-1",
-        "N-35",
-        "N-50"
+        "N-9",
+        "N-22"
       ]
     },
     {
@@ -928,8 +928,8 @@
       "investigative_direction": "Locate and preserve the original Megyn Kelly video and any accompanying metadata (time, location).",
       "mentions_person_refs": [
         "N-1",
-        "N-75",
-        "N-50"
+        "N-46",
+        "N-22"
       ]
     },
     {
@@ -946,9 +946,9 @@
       "claim_timestamp": "00:06:30",
       "investigative_direction": "Obtain the full Dave Rubin segment to verify precise wording and any qualifications.",
       "mentions_person_refs": [
-        "N-61",
-        "N-133",
-        "N-75"
+        "N-32",
+        "N-97",
+        "N-46"
       ]
     },
     {
@@ -962,14 +962,14 @@
         "A-1384.1"
       ],
       "related_nodes": [
-        "N-10314"
+        "N-10244"
       ],
       "tags": [],
       "claim_timestamp": "00:32:57",
       "investigative_direction": "Obtain the full Frank Turk interview, including any prior segments establishing his presence at the event.",
       "mentions_person_refs": [
-        "N-16",
-        "N-382",
+        "N-7",
+        "N-251",
         "N-1"
       ]
     },
@@ -987,9 +987,9 @@
       "claim_timestamp": "00:33:00",
       "investigative_direction": "Obtain independent genealogical or institutional records (Calvary Chapel directories) confirming the sibling relationship.",
       "mentions_person_refs": [
-        "N-309",
-        "N-382",
-        "N-16"
+        "N-212",
+        "N-251",
+        "N-7"
       ]
     },
     {
@@ -1007,8 +1007,8 @@
       "investigative_direction": "Obtain the original photograph with EXIF metadata and any photographer's contemporaneous timestamp.",
       "mentions_person_refs": [
         "N-1",
-        "N-16",
-        "N-382"
+        "N-7",
+        "N-251"
       ]
     },
     {
@@ -1021,7 +1021,7 @@
         "A-1387.1"
       ],
       "related_nodes": [
-        "N-10313"
+        "N-10243"
       ],
       "tags": [],
       "claim_timestamp": "00:19:14",
@@ -1040,7 +1040,7 @@
         "A-1387.1"
       ],
       "related_nodes": [
-        "N-10313"
+        "N-10243"
       ],
       "tags": [],
       "claim_timestamp": "00:19:14",
@@ -1056,15 +1056,15 @@
         "A-1385.1"
       ],
       "related_nodes": [
-        "N-10315"
+        "N-10245"
       ],
       "tags": [],
       "claim_timestamp": "00:37:38",
       "investigative_direction": "Obtain the filed complaint and docket from the relevant court to verify defendants, causes of action, and damages sought.",
       "mentions_person_refs": [
-        "N-102",
-        "N-314",
-        "N-385"
+        "N-69",
+        "N-216",
+        "N-252"
       ]
     },
     {
@@ -1081,7 +1081,7 @@
       "claim_timestamp": "00:37:38",
       "investigative_direction": "Verify the original Hen Mazig post via archived snapshots and any subsequent posts by Mazig on the same topic.",
       "mentions_person_refs": [
-        "N-386"
+        "N-253"
       ]
     },
     {
@@ -1098,10 +1098,10 @@
       "claim_timestamp": "00:37:38",
       "investigative_direction": "Obtain the original Schaefer post and timestamp via archived snapshots.",
       "mentions_person_refs": [
-        "N-102",
-        "N-314",
-        "N-385",
-        "N-386"
+        "N-69",
+        "N-216",
+        "N-252",
+        "N-253"
       ]
     },
     {
@@ -1118,8 +1118,8 @@
       "claim_timestamp": "00:37:38",
       "investigative_direction": "Obtain the original Patel posts and timestamps; verify any prior public statements on the relationship.",
       "mentions_person_refs": [
-        "N-102",
-        "N-314"
+        "N-69",
+        "N-216"
       ]
     },
     {
@@ -1136,7 +1136,7 @@
       "claim_timestamp": "00:49:13",
       "investigative_direction": "Obtain the archived original tweet via Wayback Machine or platform screenshots to verify the verbatim text and any subsequent deletions/edits.",
       "mentions_person_refs": [
-        "N-56"
+        "N-27"
       ]
     },
     {
@@ -1156,11 +1156,11 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-272",
-        "N-45",
-        "N-135",
-        "N-42",
-        "N-86"
+        "N-194",
+        "N-17",
+        "N-99",
+        "N-14",
+        "N-55"
       ]
     }
   ],

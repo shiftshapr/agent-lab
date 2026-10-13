@@ -1,10 +1,10 @@
 old_id,new_id,name,kind,note
-N-10015,N-536,Tim Ballard,topic_band_person_moved,
-N-10017,N-569,Victor Marx,topic_band_person_moved,
-N-10018,N-571,Eileen Marx,topic_band_person_moved,
-N-10019,N-570,Corby Hall,topic_band_person_moved,
-N-10028,N-578,Usha Vance,topic_band_person_moved,
-N-11349,N-531,Father Ripperger,topic_band_person_moved,
+N-1015,N-536,Tim Ballard,topic_band_person_moved,
+N-1017,N-569,Victor Marx,topic_band_person_moved,
+N-1018,N-571,Eileen Marx,topic_band_person_moved,
+N-1019,N-570,Corby Hall,topic_band_person_moved,
+N-1028,N-578,Usha Vance,topic_band_person_moved,
+N-2349,N-531,Father Ripperger,topic_band_person_moved,
 N-8,N-572,Melody Hall,ep107_placeholder_person_reminted,
 N-9,N-573,Holly Chalmers,ep107_placeholder_person_reminted,
 N-14,N-574,Victor Marx's son,ep107_placeholder_person_reminted,
@@ -19,11 +19,11 @@ N-465,N-583,Jules Katz,ep161_tombstone_collision_reminted,
 N-469,N-584,Benjamin Goodman,ep161_tombstone_collision_reminted,
 N-470,N-585,Jack O'Hara,ep161_tombstone_collision_reminted,
 N-473,N-586,Robert F. Kennedy Jr.,ep161_tombstone_collision_reminted,
-N-10009,N-1,Charlie Kirk,collapse,ep67 topic-band person row; collapsed onto existing person (ep75 local use retargeted to N-5)
-N-10010,N-2,Erika Kirk,collapse,ep67 topic-band person row; collapsed onto existing person (ep75 local use retargeted to N-443)
-N-23,N-10697,Early-Death-Announcement Timeline Verification,collapse,claim-sentence node typed person; collapsed onto existing topic
-N-24,N-11384,"45,000 Rescue Claim Discrepancy",collapse,claim-sentence node typed person; re-minted as topic
-N-26,N-10676,"Victor Marx IDF 50,000 Guns Request",collapse,claim-sentence node typed person; collapsed onto existing topic
+N-1009,N-1,Charlie Kirk,collapse,ep67 topic-band person row; collapsed onto existing person (ep75 local use retargeted to N-5)
+N-1010,N-2,Erika Kirk,collapse,ep67 topic-band person row; collapsed onto existing person (ep75 local use retargeted to N-443)
+N-23,N-1697,Early-Death-Announcement Timeline Verification,collapse,claim-sentence node typed person; collapsed onto existing topic
+N-24,N-2384,"45,000 Rescue Claim Discrepancy",collapse,claim-sentence node typed person; re-minted as topic
+N-26,N-1676,"Victor Marx IDF 50,000 Guns Request",collapse,claim-sentence node typed person; collapsed onto existing topic
 N-10,,Kenneth Brining,retired_no_survivor,no grounded citation after Mentions repair
 N-11,N-611,Danny Philip,reminted_at_hole,"Transit fix-all: Danny Philip is grounded on C-3020..C-3022, C-3092, C-3094..C-3096, C-3365; minted at clean hole N-611 (N-11 is an ep000 baseline id)"
 N-12,,Charmaine,retired_no_survivor,no grounded citation after Mentions repair

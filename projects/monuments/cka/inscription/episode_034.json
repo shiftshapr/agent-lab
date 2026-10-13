@@ -30,7 +30,7 @@
             "C-1735"
           ],
           "related_nodes": [
-            "N-10330"
+            "N-10259"
           ],
           "tags": [],
           "event_timestamp": "2025 (rental period)",
@@ -48,7 +48,7 @@
             "C-1735"
           ],
           "related_nodes": [
-            "N-10330"
+            "N-10259"
           ],
           "tags": [],
           "event_timestamp": "2025 (rental period)",
@@ -66,7 +66,7 @@
             "C-1735"
           ],
           "related_nodes": [
-            "N-10330"
+            "N-10259"
           ],
           "tags": [],
           "event_timestamp": "2025",
@@ -84,7 +84,7 @@
             "C-1735"
           ],
           "related_nodes": [
-            "N-10330"
+            "N-10259"
           ],
           "tags": [],
           "event_timestamp": "2025",
@@ -102,7 +102,7 @@
             "C-1735"
           ],
           "related_nodes": [
-            "N-10330"
+            "N-10259"
           ],
           "tags": [],
           "event_timestamp": "2025",
@@ -128,7 +128,7 @@
             "C-1736"
           ],
           "related_nodes": [
-            "N-10332"
+            "N-10261"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11 (published day after assassination)",
@@ -154,7 +154,7 @@
             "C-1736"
           ],
           "related_nodes": [
-            "N-10332"
+            "N-10261"
           ],
           "tags": [],
           "event_timestamp": "2025-09-11",
@@ -236,7 +236,7 @@
             "C-1739"
           ],
           "related_nodes": [
-            "N-10333"
+            "N-10262"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10 (date of shooting)",
@@ -286,7 +286,7 @@
             "C-1741"
           ],
           "related_nodes": [
-            "N-10335"
+            "N-10264"
           ],
           "tags": [],
           "event_timestamp": "2025 (publication month)",
@@ -360,7 +360,7 @@
             "C-1744"
           ],
           "related_nodes": [
-            "N-10334"
+            "N-10263"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -375,8 +375,8 @@
   "nodes": [
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10330",
-      "ref": "N-10330",
+      "@id": "N-10259",
+      "ref": "N-10259",
       "name": "Duncan Aviation Egyptian Rental Vehicle Network",
       "type": "investigation_target",
       "description": "Cluster of five rental vehicles identified by plate (A-1425.x); alleged connection to the SU-BTT passengers. Investigative direction: obtain Duncan Aviation rental records; cross-reference plate registration, renter IDs, and timeline against the Sept 4 plane arrival.",
@@ -392,8 +392,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10331",
-      "ref": "N-10331",
+      "@id": "N-10260",
+      "ref": "N-10260",
       "name": "Federal Military Aircraft Escort Protocol Verification",
       "type": "investigation_target",
       "description": "Claim by host (citing \"a high government source\") that foreign military jets cannot land on U.S. soil without federal escort and tracking. No documentary artifact supplied.",
@@ -409,8 +409,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10332",
-      "ref": "N-10332",
+      "@id": "N-10261",
+      "ref": "N-10261",
       "name": "UVU Pre-9/10 Rooftop Sightings",
       "type": "investigation_target",
       "description": "Reports by a UVU student (and reportedly a professor) of a man on the Lozi Center roof in the week before the shooting (A-1426.1, A-1427.1).",
@@ -429,8 +429,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10333",
-      "ref": "N-10333",
+      "@id": "N-10262",
+      "ref": "N-10262",
       "name": "Post-Shooting Phone Call Timing Sequence",
       "type": "investigation_target",
       "description": "Timeline inference anchored by Blake Neff's 45-second 11:24 AZ-time call to his mother (A-1429.2) and his narrative in A-1429.1 about Mikey McCoy's calls to Erika and to Rob McCoy.",
@@ -451,8 +451,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10334",
-      "ref": "N-10334",
+      "@id": "N-10263",
+      "ref": "N-10263",
       "name": "TWW Lewis Scottsdale-to-Provo Flight Manifest Mystery",
       "type": "investigation_target",
       "description": "The Sept 10 Scottsdale→Provo flight (A-1434.1) arrived just ahead of the assassination; passengers unidentified.",
@@ -471,8 +471,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10335",
-      "ref": "N-10335",
+      "@id": "N-10264",
+      "ref": "N-10264",
       "name": "Calvary Chapel Pro-Israel Coordination",
       "type": "investigation_target",
       "description": "Convergence of Rob McCoy's Jerusalem remarks (A-1430.1) and Calvary Chapel magazine's \"Stand with Israel\" / \"Why Jews are hated\" framing (A-1431.1).",
@@ -493,8 +493,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-98",
-      "ref": "N-98",
+      "@id": "N-67",
+      "ref": "N-67",
       "name": "Mark Herman (director, Candace show)",
       "type": "person",
       "description": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host asks him whether Blake Neff's call screenshot shows when the call began or ended, and he answers \"It's when the call is initiated.\"",
@@ -542,8 +542,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-45",
-      "ref": "N-45",
+      "@id": "N-17",
+      "ref": "N-17",
       "name": "Rob McCoy",
       "type": "person",
       "description": "Pastor associated with Dream City Church and Turning Point USA's faith-direction pivot during COVID; named by host in the TPUSA-faith origin recap.",
@@ -558,8 +558,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-50",
-      "ref": "N-50",
+      "@id": "N-22",
+      "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
@@ -574,8 +574,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-87",
-      "ref": "N-87",
+      "@id": "N-56",
+      "ref": "N-56",
       "name": "Aaron Wexler",
       "type": "person",
       "description": "X poster identified by host as source of \"white Candace\" post.",
@@ -590,8 +590,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
@@ -606,8 +606,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -622,8 +622,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-408",
-      "ref": "N-408",
+      "@id": "N-266",
+      "ref": "N-266",
       "name": "Duncan Aviation",
       "type": "person",
       "description": "Fixed-base operator (FBO) at Provo where SUBND transponder activity is recorded on September 10 and where rental cars were sourced. Matters as institutional locus of pre-event activity.",
@@ -652,13 +652,13 @@
         "A-1425.5"
       ],
       "related_nodes": [
-        "N-10330"
+        "N-10259"
       ],
       "tags": [],
       "claim_timestamp": "00:07:12",
       "investigative_direction": "Obtain Duncan Aviation rental contracts, cross-check plate state-DMV registrations, and verify renter identities against the SU-BTT passenger manifest.",
       "mentions_person_refs": [
-        "N-408"
+        "N-266"
       ]
     },
     {
@@ -672,7 +672,7 @@
         "A-1427.1"
       ],
       "related_nodes": [
-        "N-10332"
+        "N-10261"
       ],
       "tags": [],
       "claim_timestamp": "00:12:01",
@@ -706,15 +706,15 @@
         "A-1429.1"
       ],
       "related_nodes": [
-        "N-10333"
+        "N-10262"
       ],
       "tags": [],
       "claim_timestamp": "00:32:53",
       "investigative_direction": "Cross-reference video from TPUSA / event cameras and Stage area microphones; verify Neff's position with other contemporaneous witness accounts.",
       "mentions_person_refs": [
-        "N-98",
-        "N-272",
-        "N-224"
+        "N-67",
+        "N-194",
+        "N-162"
       ]
     },
     {
@@ -727,14 +727,14 @@
         "A-1429.2"
       ],
       "related_nodes": [
-        "N-10333"
+        "N-10262"
       ],
       "tags": [],
       "claim_timestamp": "00:36:37",
       "investigative_direction": "Independently confirm the phone metadata; obtain Neff's carrier records; map against Mikey McCoy's call to Erika and call to Rob McCoy.",
       "mentions_person_refs": [
-        "N-98",
-        "N-224"
+        "N-67",
+        "N-162"
       ]
     },
     {
@@ -747,16 +747,16 @@
         "A-1430.1"
       ],
       "related_nodes": [
-        "N-10335"
+        "N-10264"
       ],
       "tags": [],
       "claim_timestamp": "00:38:58",
       "investigative_direction": "Obtain the uncut event recording; identify the questioner and the host organization; review the event's sponsor and attendee list.",
       "mentions_person_refs": [
-        "N-50",
+        "N-22",
         "N-3",
         "N-1",
-        "N-45"
+        "N-17"
       ]
     },
     {
@@ -769,7 +769,7 @@
         "A-1431.1"
       ],
       "related_nodes": [
-        "N-10335"
+        "N-10264"
       ],
       "tags": [],
       "claim_timestamp": "00:42:02",
@@ -785,7 +785,7 @@
         "A-1432.1"
       ],
       "related_nodes": [
-        "N-10330"
+        "N-10259"
       ],
       "tags": [],
       "claim_timestamp": "00:01:55",
@@ -806,7 +806,7 @@
       "investigative_direction": "Verify the post URL and Wexler's identity/affiliation; review any contemporaneous coverage of the alleged \"doxing teenagers\" claim.",
       "mentions_person_refs": [
         "N-3",
-        "N-87"
+        "N-56"
       ]
     },
     {
@@ -819,7 +819,7 @@
         "A-1434.1"
       ],
       "related_nodes": [
-        "N-10334"
+        "N-10263"
       ],
       "tags": [],
       "claim_timestamp": "00:20:20",

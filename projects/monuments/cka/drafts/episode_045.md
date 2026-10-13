@@ -34,8 +34,8 @@
 ### Episode 45 Ledger Summary
 - Artifact Families Introduced: A-1525, A-1526, A-1527, A-1528, A-1529, A-1530, A-1531, A-1532
 - Claim Range: C-1897–C-1911
-  - New Nodes Introduced: N-10403, N-10404
-  - Reused Nodes Appearing: N-2, N-44, N-98
+  - New Nodes Introduced: N-10332, N-10333
+  - Reused Nodes Appearing: N-2, N-16, N-67
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and references to other recurring figures by name (Tucker Carlson, Theo Von, Harris Faulkner, Sergio Gor, Bari Weiss, Milo Yiannopoulos, Blake Nef, Harry, Brian Harpole, Rob McCoy, Mikey, Josh Hammer, Pam Bondi, Tim Pool, Jordan Peterson, Bethany Frankel, Mark, Tara Cross)
 
 ---
@@ -84,7 +84,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:10:45
 Confidence Level: High
 
-*Related: C-1900, N-2, N-44*
+*Related: C-1900, N-2, N-16*
 
 ---
 
@@ -135,7 +135,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:43:18–00:47:10
 Confidence Level: High
 
-*Related: C-1905, C-1910, N-10403*
+*Related: C-1905, C-1910, N-10332*
 
 ---
 
@@ -147,7 +147,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:48:38
 Confidence Level: High
 
-*Related: C-1906, N-10403, N-98*
+*Related: C-1906, N-10332, N-67*
 
 ---
 
@@ -193,7 +193,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:59:22
 Confidence Level: High
 
-*Related: C-1909, N-10404*
+*Related: C-1909, N-10333*
 
 ---
 
@@ -211,7 +211,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:40:00
 Confidence Level: High
 
-*Related: C-1907, N-518*
+*Related: C-1907, N-326*
 
 ---
 
@@ -230,7 +230,7 @@ Investigative Pressure: High
 
 ---
 
-**N-98** Mark Herman (director, Candace show)
+**N-67** Mark Herman (director, Candace show)
 
 
 In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host brings him in "to mansplain" the logs for USAF C37A 99-044: the transponder goes dark from Tucson, and the call sign switches from RCH (Reach) to SAM (Special Air Mission) after Fort Huachuca, which he reads as a senior official being picked up there.
@@ -240,11 +240,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1530.1, C-1906, N-10403*
+*Related: A-1530.1, C-1906, N-10332*
 
 ---
 
-**N-518** Captain Adam Nef
+**N-326** Captain Adam Nef
 
 Positively identified in this episode as the U.S. Army captain of the 10th Mountain Division who interrogated the Fort Huachuca witness ("Harry") on September 9, 2025. Distinct from Blake Nef (Fox News personality mentioned in same episode).
 
@@ -257,7 +257,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10403** USAF C37A 99-044 Flight Path Verification
+**N-10332** USAF C37A 99-044 Flight Path Verification
 
 Cross-episode investigation target: the September 7-9, 2025 movements of USAF C37A Gulfstream V (tail 99-044) including transponder-dark segment and RCH-to-SAM call sign transition at Fort Huachuca, and the question of which senior official was picked up.
 
@@ -266,11 +266,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1529.1, A-1530.1, C-1905, C-1906, C-1910, N-98*
+*Related: A-1529.1, A-1530.1, C-1905, C-1906, C-1910, N-67*
 
 ---
 
-**N-10404** Candlewood Suites Hotel Security Footage (Sept 8, 2025)
+**N-10333** Candlewood Suites Hotel Security Footage (Sept 8, 2025)
 
 Investigation target: identification and preservation of security footage from the Candlewood Suites hotel near Fort Huachuca on September 8, 2025, showing the young woman and special operations individual departing in a green truck.
 
@@ -283,7 +283,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-44** Sergio Gor
+**N-16** Sergio Gor
 
 Node Type: Person
 Trump-world operative and later US ambassador to India. Host ties him to Winning Team Publishing and to Susie Wiles's orbit.
@@ -340,7 +340,7 @@ Claim Timestamp: 00:10:45
 Claim: Erika Kirk appeared at Sergio Gor's swearing-in ceremony as US Ambassador to India, delivering a brief speech in which she stated "Charlie loved you" and "Charlie is going to be with you every single day in spirit."
 
 Anchored Artifacts: A-1527.1
-Mentions: N-2, N-44
+Mentions: N-2, N-16
 
 Investigative Direction: Cross-reference ceremony date with Erika Kirk's public schedule; verify any travel reimbursement or charter flight records.
 
@@ -353,7 +353,7 @@ Claim Timestamp: 00:24:32
 Claim: Tucker Carlson, on the Theo Von podcast, stated that Egyptian-registered aircraft had been following Erika Kirk in multiple places around the world for years, and characterized the claim as "factually true."
 
 Anchored Artifacts: A-1528.1
-Mentions: N-2, N-50, N-205
+Mentions: N-2, N-22, N-149
 
 Investigative Direction: Cross-reference with ADS-B historical data, FAA aircraft registration records, and any NSA/CIA-sourced confirmation previously cited in the series.
 
@@ -366,7 +366,7 @@ Claim Timestamp: 00:24:45
 Claim: Tucker Carlson stated on the Theo Von podcast that the claim of a disproportionately large number of foreign-registered cell phones at the Charlie Kirk event was "true."
 
 Anchored Artifacts: A-1528.2
-Mentions: N-2, N-50, N-1, N-205
+Mentions: N-2, N-22, N-1, N-149
 
 Investigative Direction: Seek cell tower records or ping data through legal process; identify any carrier records of foreign-registered IMSI devices near the venue.
 
@@ -379,7 +379,7 @@ Claim Timestamp: 00:28:46
 Claim: Tucker Carlson stated that individuals posted on X predicting that Charlie Kirk would be killed on a specific date prior to the assassination, and questioned whether the FBI had interviewed those posters.
 
 Anchored Artifacts: A-1528.3
-Mentions: N-1, N-50
+Mentions: N-1, N-22
 
 Investigative Direction: Use archived X searches and Wayback Machine to recover the referenced posts; cross-reference with FBI affidavit exhibits and any disclosed investigative steps.
 
@@ -392,7 +392,7 @@ Claim Timestamp: 00:29:23
 Claim: Tucker Carlson stated he does not have confidence in the FBI or the men who run it, and noted that the FBI has publicly stated it possesses both a confession from the suspect (in his text to his boyfriend) and the murder weapon with his fingerprints.
 
 Anchored Artifacts: A-1528.4, A-1528.5
-Mentions: N-50
+Mentions: N-22
 Related Nodes:
 
 Investigative Direction: Compare Tucker's stated concerns with the official FBI affidavit and any public DOJ statements; identify what additional evidence the FBI has declined to disclose.
@@ -406,7 +406,7 @@ Claim Timestamp: 00:43:18
 Claim: USAF C37A Gulfstream V (tail 99-044), based at Andrews AFB, flew Andrews → Colorado Springs (Sept 7), Colorado Springs → Tucson (Sept 8), with the transponder going dark thereafter, then Fort Huachuca → El Paso at 12:31 PM (Sept 9), and El Paso → Andrews.
 
 Anchored Artifacts: A-1529.1
-Related Nodes: N-10403
+Related Nodes: N-10332
 
 Investigative Direction: Cross-reference with ADS-B Exchange historical archives, FAA SWIM data, official DoD manifests if obtainable, and Andrews AFB logs.
 
@@ -419,8 +419,8 @@ Claim Timestamp: 00:48:38
 Claim: The flight's call sign changed from RCH (Reach) to SAM (Special Air Mission) after departing Fort Huachuca, which according to on-air flight analyst Mark indicates that someone of senior executive-branch, cabinet, congressional-delegation, or vice-presidential stature was picked up at Fort Huachuca.
 
 Anchored Artifacts: A-1530.1
-Mentions: N-98
-Related Nodes: N-10403
+Mentions: N-67
+Related Nodes: N-10332
 
 Investigative Direction: Verify SAM call sign designation rules against published DoD flight operations manuals; cross-reference historical call sign assignments and known passenger lists.
 
@@ -433,7 +433,7 @@ Claim Timestamp: 00:40:00
 Claim: The captain who interrogated the Fort Huachuca witness ("Harry") on September 9, 2025, has been positively identified as Adam Nef of the U.S. Army's 10th Mountain Division.
 
 Anchored Artifacts: A-1532.2
-Mentions: N-518
+Mentions: N-326
 
 Investigative Direction: Verify Adam Nef's command assignment through official Army biographies, unit press releases, and any publicly available 10th Mountain Division rosters.
 
@@ -459,7 +459,7 @@ Claim Timestamp: 00:59:22
 Claim: The host, echoing a comment from "servant of Yahweh," publicly requests preservation of security footage from the Candlewood Suites hotel near Fort Huachuca on September 8, 2025, depicting an individual described as a young woman and another as a "special ops guy" leaving together in a green truck.
 
 Anchored Artifacts: A-1531.6
-Related Nodes: N-10404
+Related Nodes: N-10333
 
 Investigative Direction: Identify the specific Candlewood Suites property, send legal preservation letters, and request hotel guest and vehicle registration records.
 
@@ -472,8 +472,8 @@ Claim Timestamp: 00:46:20
 Claim: According to the tipster email, Pam Bondi used USAF C37A Gulfstream V (tail 99-044) approximately five months earlier, flying from the Tampa area back to Washington, DC.
 
 Anchored Artifacts: A-1529.1
-Mentions: N-120
-Related Nodes: N-10403
+Mentions: N-85
+Related Nodes: N-10332
 
 Investigative Direction: Cross-reference with publicly available Pam Bondi travel records, Tampa-area appearances, and any obtainable DoD flight manifests.
 
@@ -542,8 +542,8 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle
-- [x] People nodes use global people ledger (N-2, N-98, N-518)
-- [x] Non-person investigation targets use 1000 series (N-10403, N-10404)
+- [x] People nodes use global people ledger (N-2, N-67, N-326)
+- [x] Non-person investigation targets use 1000 series (N-10332, N-10333)
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly or uncertainty noted (Nef, Wuka/Huachuca, Erika/Erica)
 - [x] Formatting consistent across registers

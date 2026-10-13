@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 3bf03b43dc5dbbd012ed6256f2ca3be30cbc97e23d398d12fc3dff776d32ccc0
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-916, N-917, N-919, N-920, N-10572, N-10573, N-10574, N-10575, N-10576
-  - Reused Nodes Appearing: N-2, N-37, N-3, N-890, N-908, N-1, N-537
+  - New Nodes Introduced: N-569, N-570, N-571, N-572, N-10501, N-10502, N-10503, N-10504, N-10505
+  - Reused Nodes Appearing: N-2, N-11, N-3, N-557, N-565, N-1, N-333
   - (see registers)
 
 ## 2. Executive Summary
@@ -37,7 +37,7 @@ Video Timestamp: 00:31:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2353, N-2, N-10572, N-10574*
+*Related: C-2353, N-2, N-10501, N-10503*
 
 ---
 
@@ -51,7 +51,7 @@ Video Timestamp: 00:26:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2351, N-298, N-10573*
+*Related: C-2351, N-208, N-10502*
 
 ---
 
@@ -65,7 +65,7 @@ Video Timestamp: 00:27:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2352, N-916, N-298, N-10573*
+*Related: C-2352, N-569, N-208, N-10502*
 
 ---
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:28:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2354, N-2, N-70, N-37*
+*Related: C-2354, N-2, N-41, N-11*
 
 ---
 
@@ -93,7 +93,7 @@ Video Timestamp: 00:29:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2355, N-2, N-70*
+*Related: C-2355, N-2, N-41*
 
 **A-1767.2** Audio Clip: Erika Kirk on Meghan Kelly's Stage Recounting She Did Not Date in Manhattan
 
@@ -117,7 +117,7 @@ Video Timestamp: 00:19:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2357, C-2358, C-2359, C-2360, C-2363, N-1, N-3, N-75, N-298*
+*Related: C-2357, C-2358, C-2359, C-2360, C-2363, N-1, N-3, N-46, N-208*
 
 ---
 
@@ -130,7 +130,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:16
 Confidence Level: High
 
-*Related: C-2361, N-298, N-916, N-42, N-10573*
+*Related: C-2361, N-208, N-569, N-14, N-10502*
 
 ---
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-2, N-364, N-10576*
+*Related: N-2, N-242, N-10505*
 
 ---
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2362, N-919, N-920, N-789*
+*Related: C-2362, N-571, N-572, N-504*
 
 ---
 
@@ -174,11 +174,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1766.1, A-1767.1, A-1767.2, A-1768.1, C-2354, C-2355, C-2357, C-2358, N-37*
+*Related: A-1766.1, A-1767.1, A-1767.2, A-1768.1, C-2354, C-2355, C-2357, C-2358, N-11*
 
 ---
 
-**N-75** Megyn Kelly
+**N-46** Megyn Kelly
 
 Subject of viral Piers Morgan interview clip; made statements on Charlie Kirk's changed position on Israel.
 
@@ -191,7 +191,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-298** Piers Morgan
+**N-208** Piers Morgan
 
 Interviewer in the Megyn Kelly clip artifact.
 
@@ -200,11 +200,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1768.1, N-75*
+*Related: A-1768.1, N-46*
 
 ---
 
-**N-916** Lynn Forester de Rothschild
+**N-569** Lynn Forester de Rothschild
 
 Subject of Epstein document entry listing her as Corcoran Group Inc. President.
 
@@ -213,11 +213,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1765.1, C-2352, N-10573*
+*Related: A-1765.1, C-2352, N-10502*
 
 ---
 
-**N-917** Pamela Liebman
+**N-570** Pamela Liebman
 
 Per unnamed TikToker, the publicly identified President and CEO of the Corcoran Group since 2000.
 
@@ -226,11 +226,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1764.1, A-1769.1, N-916, N-10573*
+*Related: A-1764.1, A-1769.1, N-569, N-10502*
 
 ---
 
-**N-903** Aubrey Lech
+**N-563** Aubrey Lech
 
 Former Turning Point USA employee; subject of recorded private investigator visit to her home.
 
@@ -239,11 +239,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1771.1, C-2362, N-920*
+*Related: A-1771.1, C-2362, N-572*
 
 ---
 
-**N-919** "Mike" (Private Investigator)
+**N-571** "Mike" (Private Investigator)
 
 Unidentified individual recorded outside Aubrey Lich's home stating a legal firm asked him to photograph the property.
 
@@ -252,11 +252,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1771.1, C-2362, N-903*
+*Related: A-1771.1, C-2362, N-563*
 
 ---
 
-**N-920** TikToker (Unnamed)
+**N-572** TikToker (Unnamed)
 
 Creator of A-1769.1 video presenting Corcoran Group / Epstein document findings about Erika Kirk.
 
@@ -269,7 +269,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-42** Andrew Kolvet
+**N-14** Andrew Kolvet
 
 Turning Point USA figure; posted "Superman neck" on X (post referenced, not displayed).
 
@@ -278,11 +278,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1770.1, N-2, N-10576*
+*Related: A-1770.1, N-2, N-10505*
 
 ---
 
-**N-364** Glenn Beck
+**N-242** Glenn Beck
 
 Referenced by host as recipient of an alleged false statement from Erika Kirk about Charlie's pre-death text messages.
 
@@ -291,11 +291,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-2, N-10576*
+*Related: N-2, N-10505*
 
 ---
 
-**N-65** Benjamin Netanyahu
+**N-36** Benjamin Netanyahu
 
 Referenced by host in connection with alleged Hamptons call and a cancelled Palm Beach filming session.
 
@@ -304,11 +304,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2, N-10576*
+*Related: N-2, N-10505*
 
 ---
 
-**N-281** Lee Trotter
+**N-199** Lee Trotter
 
 Surgeon; host alleges Erika initiated three-way call with Trotter and Andrew Kolvet on day of Charlie's funeral re: bullet trajectory.
 
@@ -317,11 +317,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2, N-42, N-10576*
+*Related: N-2, N-14, N-10505*
 
 ---
 
-**N-789** Marina (TPUSA CMO)
+**N-504** Marina (TPUSA CMO)
 
 Turning Point USA CMO; host references her questioning of Aubrey Lich regarding an Uber ride.
 
@@ -330,11 +330,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-903*
+*Related: N-563*
 
 ---
 
-**N-10572** Erika Kirk Real Estate License Timing Question
+**N-10501** Erika Kirk Real Estate License Timing Question
 
 Discrepancy between Erika's NY real estate license issuance (presumed October 24, 2018) and the same month as her first dating of Charlie Kirk.
 
@@ -347,7 +347,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10573** Erika Kirk Corcoran Group Employment Verification
+**N-10502** Erika Kirk Corcoran Group Employment Verification
 
 Persistent question regarding Erika Kirk's stated real estate career at Corcoran Group and overlapping Epstein document listing of Lynn Forester de Rothschild as Corcoran Group Inc. President.
 
@@ -356,11 +356,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1764.1, A-1765.1, A-1769.1, C-2351, C-2352, N-2, N-916, N-917*
+*Related: A-1764.1, A-1765.1, A-1769.1, C-2351, C-2352, N-2, N-569, N-570*
 
 ---
 
-**N-10574** Erika Kirk September 10 Assistant Pull-Back Investigation
+**N-10503** Erika Kirk September 10 Assistant Pull-Back Investigation
 
 Host-asserted but not artifact-anchored: Tracy Martin allegedly withdrew her daughter (Erika's assistant) from the UVU event due to a "bad feeling."
 
@@ -373,7 +373,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10575** Erika Kirk Educational Timeline Verification Gap
+**N-10504** Erika Kirk Educational Timeline Verification Gap
 
 Host's call for verification: multiple universities listed (Regis, Loyola Marymount, Arizona State, Liberty) with no corroborating witnesses.
 
@@ -386,7 +386,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10576** Erika Kirk Post-Assassination Conduct Composite
+**N-10505** Erika Kirk Post-Assassination Conduct Composite
 
 Composite investigation target covering host allegations regarding: (a) three-way funeral-day call with Dr. Lee Trotter, (b) alleged false statement to Glenn Beck, (c) alleged memory lapse regarding Hamptons Bibi Netanyahu call, (d) "Superman neck" framing.
 
@@ -395,11 +395,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1770.1, N-2, N-42, N-364, N-65, N-281*
+*Related: A-1770.1, N-2, N-14, N-242, N-36, N-199*
 
 ---
 
-**N-37** Tyler Bowyer
+**N-11** Tyler Bowyer
 
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
@@ -417,9 +417,9 @@ Claim Timestamp: 00:26:41
 Claim: A USA Today article posted shortly after Charlie Kirk's assassination states that Erika Kirk worked as a real estate agent in New York City for the Corcoran Group.
 
 Anchored Artifacts: A-1764.1, A-1769.1
-Mentions: N-2, N-917, N-1
+Mentions: N-2, N-570, N-1
 
-Related Nodes: N-10573
+Related Nodes: N-10502
 
 Investigative Direction: Obtain and verify the original USA Today article and confirm Erika's stated tenure and role at Corcoran.
 
@@ -432,9 +432,9 @@ Claim Timestamp: 00:27:38
 Claim: An Epstein document performing an official name search for Lynn Forester (a/k/a Lindy Rothschild) lists her as the President of Corcoran Group Inc., with a redacted work email.
 
 Anchored Artifacts: A-1765.1, A-1769.1
-Mentions: N-916, N-917
+Mentions: N-569, N-570
 
-Related Nodes: N-10573
+Related Nodes: N-10502
 
 Investigative Direction: Locate the underlying Epstein document entry and verify the document identifier, page, and original source.
 
@@ -449,7 +449,7 @@ Claim: A snapshot of Erika Kirk's New York real estate license displays a validi
 Anchored Artifacts: A-1763.1
 Mentions: N-2
 
-Related Nodes: N-10572
+Related Nodes: N-10501
 
 Investigative Direction: Verify license issuance and expiration dates against New York Department of State records.
 
@@ -462,7 +462,7 @@ Claim Timestamp: 00:28:47
 Claim: Tyler Bowyer stated at Charlie Kirk's memorial that Erika Kirk (Miss Arizona 2012) called him offering to help, leading to a TPUSA role, and that Charlie Kirk wanted to date her.
 
 Anchored Artifacts: A-1766.1
-Mentions: N-2, N-37, N-1
+Mentions: N-2, N-11, N-1
 
 
 Investigative Direction: Compare memorial account against contemporaneous text records between Bowyer and host.
@@ -504,7 +504,7 @@ Claim Timestamp: 00:19:06
 Claim: Megyn Kelly stated on Piers Morgan's show that Charlie Kirk was starting to have serious questions about Israel, including its influence on American politicians.
 
 Anchored Artifacts: A-1768.1
-Mentions: N-1, N-3, N-75, N-298
+Mentions: N-1, N-3, N-46, N-208
 
 
 Investigative Direction: Identify other inner-circle witnesses to Charlie Kirk's evolving views; obtain any contemporaneous written communications.
@@ -518,7 +518,7 @@ Claim Timestamp: 00:21:00
 Claim: Megyn Kelly stated on Piers Morgan's show that she and Charlie Kirk spent hours and hours discussing Israel.
 
 Anchored Artifacts: A-1768.1
-Mentions: N-1, N-75, N-298
+Mentions: N-1, N-46, N-208
 
 
 Investigative Direction: Locate any corroborating communications (messages, recordings) between Kelly and Charlie Kirk on Israel topics.
@@ -532,7 +532,7 @@ Claim Timestamp: 00:20:45
 Claim: Megyn Kelly stated on Piers Morgan's show that she was pressured to condemn Candace Owens over Israel-related questions and refused.
 
 Anchored Artifacts: A-1768.1
-Mentions: N-3, N-75, N-298
+Mentions: N-3, N-46, N-208
 
 
 Investigative Direction: Identify the parties alleged to have applied pressure; obtain any public or private documentation of the pressure campaign.
@@ -546,7 +546,7 @@ Claim Timestamp: 00:20:02
 Claim: Megyn Kelly stated on Piers Morgan's show that Candace Owens had not appeared on her show in several years.
 
 Anchored Artifacts: A-1768.1
-Mentions: N-3, N-75, N-298
+Mentions: N-3, N-46, N-208
 
 
 Investigative Direction: Verify against Kelly's guest appearance logs.
@@ -560,9 +560,9 @@ Claim Timestamp: 00:26:41
 Claim: An unnamed TikToker publicly raised the question of whether Erika Kirk's employment at the Corcoran Group could serve as a vehicle to launder payments.
 
 Anchored Artifacts: A-1769.1
-Mentions: N-2, N-920
+Mentions: N-2, N-572
 
-Related Nodes: N-10573
+Related Nodes: N-10502
 
 Investigative Direction: Pursue independently whether any financial records connect Erika Kirk, Corcoran Group, or related entities to unusual payment flows.
 
@@ -575,7 +575,7 @@ Claim Timestamp: 00:37:32
 Claim: An individual identifying himself as "Mike" was video-recorded outside Aubrey Lich's home photographing her vehicle's license plate and the property, stating that a legal firm had asked him to do so.
 
 Anchored Artifacts: A-1771.1
-Mentions: N-903, N-919
+Mentions: N-563, N-571
 
 
 Investigative Direction: Identify the legal firm referenced; determine whether this individual is licensed as a process server or private investigator.
@@ -589,7 +589,7 @@ Claim Timestamp: 00:21:43
 Claim: The host explicitly concurred with Megyn Kelly's statements, characterizing them as "telling the truth" about Charlie Kirk's evolving position on Israel.
 
 Anchored Artifacts: A-1768.1
-Mentions: N-3, N-75, N-1
+Mentions: N-3, N-46, N-1
 
 
 Investigative Direction: Cross-reference host concurrence with other artifact-backed accounts of Charlie Kirk's pre-death Israel position.
@@ -605,8 +605,8 @@ Claim: The host says it is a fact that Erika Kirk's assistant, the daughter of T
 Transcript Snippet: However, it is a fact that she was supposed to go to UVU on September 10th.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-890, N-908
-Related Nodes: N-10556
+Mentions: N-3, N-2, N-557, N-565
+Related Nodes: N-10485
 Investigative Direction: Establish the assistant's September 10 travel plans and who changed them.
 
 ---
@@ -620,7 +620,7 @@ Claim: The host calls it a lie that Charlie Kirk was bubbling over with exciteme
 Transcript Snippet: Charlie was not bubbling over in excitement to go answer questions from the likes of Hunter Kozak.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-2, N-537
+Mentions: N-3, N-1, N-2, N-333
 Related Nodes: 
 Investigative Direction: Compare Erika Kirk's account of the night before against texts and witnesses from September 9.
 

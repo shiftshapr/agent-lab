@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 736008f55f0ceabc1d5654cd9436f3367fc919e2bfaca0ad6647aa8c3f74d006
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-770, N-771, N-772, N-773, N-774, N-775, N-776, N-10503, N-10504, N-10505, N-10506, N-10507, N-10508
+  - New Nodes Introduced:  N-491, N-492, N-493, N-494, N-495, N-496, N-497, N-10432, N-10433, N-10434, N-10435, N-10436, N-10437
   - Reused Nodes Appearing: N-3
   - (see registers)
 
@@ -52,7 +52,7 @@ Video Timestamp: 00:06:17–00:15:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2158, C-2159, C-2160, C-2161, C-2162, C-2163, C-2164, C-2165, C-2169, N-1, N-2, N-776, N-70, N-10503, N-10504, N-10506, N-10507*
+*Related: C-2158, C-2159, C-2160, C-2161, C-2162, C-2163, C-2164, C-2165, C-2169, N-1, N-2, N-497, N-41, N-10432, N-10433, N-10435, N-10436*
 
 ---
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:04:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2166, C-2167, N-443, N-10503, N-10504*
+*Related: C-2166, C-2167, N-283, N-10432, N-10433*
 
 ---
 
@@ -80,7 +80,7 @@ Video Timestamp: 00:34:18–00:40:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2171, C-2172, C-2173, C-2174, C-2175, N-770, N-771, N-772*
+*Related: C-2171, C-2172, C-2173, C-2174, C-2175, N-491, N-492, N-493*
 
 ---
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:42:09–00:43:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2176, C-2177, N-770, N-771, N-772, N-773*
+*Related: C-2176, C-2177, N-491, N-492, N-493, N-494*
 
 ---
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2178, N-774, N-775, N-776*
+*Related: C-2178, N-495, N-496, N-497*
 
 ---
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:54:09–00:54:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-770*
+*Related: N-491*
 
 ---
 
@@ -136,7 +136,7 @@ Video Timestamp: 01:06:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2180, N-2, N-774, N-775*
+*Related: C-2180, N-2, N-495, N-496*
 
 ---
 
@@ -150,13 +150,13 @@ Video Timestamp: 00:58:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single-source verbal recollection, donor unnamed)
 
-*Related: C-2181, N-1, N-2, N-10508*
+*Related: C-2181, N-1, N-2, N-10437*
 
 ---
 
 ## 4. Node Register
 
-**N-443** Tim Dillon
+**N-283** Tim Dillon
 
 Comedian whose on-air assessment that TPUSA is primarily motivated by money is read into the episode record and adopted by the host.
 
@@ -169,7 +169,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-770** Brooklyn Beckham
+**N-491** Brooklyn Beckham
 
 Source of the Instagram Stories artifact detailing family estrangement allegations.
 
@@ -178,11 +178,11 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1663.1, A-1664.1, A-1666.1, C-2171, C-2172, C-2173, C-2174, C-2175, N-771, N-772*
+*Related: A-1663.1, A-1664.1, A-1666.1, C-2171, C-2172, C-2173, C-2174, C-2175, N-492, N-493*
 
 ---
 
-**N-771** Nicola Peltz
+**N-492** Nicola Peltz
 
 Spouse of Brooklyn Beckham; central figure in the wedding-dress and brand-rights grievance as recounted via A-1663.1.
 
@@ -191,11 +191,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1663.1, A-1664.1, C-2172, N-770, N-772, N-45*
+*Related: A-1663.1, A-1664.1, C-2172, N-491, N-493, N-17*
 
 ---
 
-**N-772** Victoria Beckham
+**N-493** Victoria Beckham
 
 Mother of Brooklyn Beckham; subject of multiple allegations in Brooklyn's IG stories and a participant in the Vogue-reported wedding timeline.
 
@@ -204,11 +204,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1663.1, A-1664.1, C-2172, C-2174, C-2175, N-770*
+*Related: A-1663.1, A-1664.1, C-2172, C-2174, C-2175, N-491*
 
 ---
 
-**N-773** David Beckham
+**N-494** David Beckham
 
 Father of Brooklyn Beckham; appears in the Vogue article's account of the wedding speeches.
 
@@ -217,11 +217,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1664.1, N-770, N-772*
+*Related: A-1664.1, N-491, N-493*
 
 ---
 
-**N-774** Blake Lively
+**N-495** Blake Lively
 
 Named party in the Baldoni litigation; text-message correspondent with Taylor Swift per A-1665.1.
 
@@ -230,11 +230,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1665.1, A-1667.1, C-2178, C-2179, N-775, N-776*
+*Related: A-1665.1, A-1667.1, C-2178, C-2179, N-496, N-497*
 
 ---
 
-**N-775** Justin Baldoni
+**N-496** Justin Baldoni
 
 Named party in the Lively litigation; subject of Taylor Swift's December 2024 text per A-1665.1.
 
@@ -243,11 +243,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1665.1, C-2178, N-774, N-776*
+*Related: A-1665.1, C-2178, N-495, N-497*
 
 ---
 
-**N-776** Taylor Swift
+**N-497** Taylor Swift
 
 Correspondent in the released text messages and subject of the host's strategic assessment.
 
@@ -256,11 +256,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1661.1, A-1665.1, C-2178, N-774, N-775*
+*Related: A-1661.1, A-1665.1, C-2178, N-495, N-496*
 
 ---
 
-**N-45** Rob McCoy
+**N-17** Rob McCoy
 
 Figure associated with TPUSA Faith; named by host as defending a person convicted of child molestation.
 
@@ -269,11 +269,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1661.1, C-2170, N-10507*
+*Related: A-1661.1, C-2170, N-10436*
 
 ---
 
-**N-42** Andrew Kolvet
+**N-14** Andrew Kolvet
 
 Spokesperson-adjacent TPUSA figure referenced by host as a candidate for a future on-air appearance and as a recipient of allegedly self-incriminating messages. Name spelling uncertain – transcript shows "Kovat," "Kovette," and "Kovat" variants.
 
@@ -282,11 +282,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1661.1, N-10503*
+*Related: A-1661.1, N-10432*
 
 ---
 
-**N-43** Justin Strife
+**N-15** Justin Strife
 
 TPUSA executive reported by host as participating in a sit-down with Owens and Erica Kirk to discuss Owens's allegations. First-name spelling uncertain.
 
@@ -295,11 +295,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1661.1, N-2, N-10503*
+*Related: A-1661.1, N-2, N-10432*
 
 ---
 
-**N-264** Stacy Sheridan
+**N-190** Stacy Sheridan
 
 TPUSA figure named in host's call for donations to TPUSA.
 
@@ -308,11 +308,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-10503*
+*Related: N-10432*
 
 ---
 
-**N-10503** TPUSA Non-Disparagement Enforcement Campaign
+**N-10432** TPUSA Non-Disparagement Enforcement Campaign
 
 Persistent effort by Turning Point USA to invoke a 12-month post-termination non-disparagement clause to silence Owens's investigation-related commentary.
 
@@ -321,11 +321,11 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1661.1, A-1662.1, C-2158, C-2159, C-2160, C-2163, C-2164, C-2165, C-2166, C-2167, N-1, N-2, N-776, N-70, N-42, N-43, N-264*
+*Related: A-1661.1, A-1662.1, C-2158, C-2159, C-2160, C-2163, C-2164, C-2165, C-2166, C-2167, N-1, N-2, N-497, N-41, N-14, N-15, N-190*
 
 ---
 
-**N-10504** TPUSA Financial Impropriety Allegations
+**N-10433** TPUSA Financial Impropriety Allegations
 
 Persistent allegation that TPUSA engaged in financial impropriety, formally cited in the cease and desist letter and attributed by host to DOGE-style scrutiny.
 
@@ -334,11 +334,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1661.1, A-1662.1, C-2162, C-2167, N-10505*
+*Related: A-1661.1, A-1662.1, C-2162, C-2167, N-10434*
 
 ---
 
-**N-10505** Charlie Kirk DOGE Pre-Death Establishment
+**N-10434** Charlie Kirk DOGE Pre-Death Establishment
 
 Host's claim that Charlie Kirk established a "DOGE" (Department of Government Efficiency-style entity) seven days before his death, framed as a possible motive for financial scrutiny.
 
@@ -347,11 +347,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1661.1, C-2169, N-10504*
+*Related: A-1661.1, C-2169, N-10433*
 
 ---
 
-**N-10506** Fort Wuka Erika Kirk Location Investigation
+**N-10435** Fort Wuka Erika Kirk Location Investigation
 
 Persistent allegation referenced in the cease and desist letter that Owens claims Erika Kirk was present at or near a "secret meeting" at Fort Wuka linked to the Kirk assassination.
 
@@ -364,7 +364,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10507** TPUSA Faith Military Infiltration Claim
+**N-10436** TPUSA Faith Military Infiltration Claim
 
 Allegation cited in the TPUSA letter – that Owens claimed TPUSA and TPUSA Faith were infiltrated by military operatives.
 
@@ -373,11 +373,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1661.1, C-2161, C-2170, N-45*
+*Related: A-1661.1, C-2161, C-2170, N-17*
 
 ---
 
-**N-10508** Aspen Donor Recall Verification
+**N-10437** Aspen Donor Recall Verification
 
 Verification target arising from an unnamed Aspen-event donor's recollection, relayed by host, that Charlie Kirk referenced Erica Kirk as someone who would "know what to do" if something happened.
 
@@ -401,7 +401,7 @@ Claim: Turning Point USA, through counsel, sent a cease and desist letter to Can
 Anchored Artifacts: A-1661.1
 Mentions: N-1, N-2, N-3
 
-Related Nodes: N-10503
+Related Nodes: N-10432
 
 Investigative Direction: Obtain a certified copy of the letter with counsel's signature block and service date to verify the precise transmission date.
 
@@ -416,7 +416,7 @@ Claim: The TPUSA letter demands that Owens cease stating or implying that TPUSA 
 Anchored Artifacts: A-1661.1
 Mentions: N-1, N-2
 
-Related Nodes: N-10503
+Related Nodes: N-10432
 
 Investigative Direction: Compare the prohibited scope articulated in the letter with Owens's prior on-air statements to identify specific statements TPUSA considers actionable.
 
@@ -431,7 +431,7 @@ Claim: The TPUSA letter alleges that Owens accused a TPUSA employee of being "in
 Anchored Artifacts: A-1661.1
 Mentions: N-2
 
-Related Nodes: N-10506
+Related Nodes: N-10435
 
 Investigative Direction: Identify the unnamed TPUSA employee, obtain the underlying correspondence, and verify whether any Fort Wuka meeting is independently documented.
 
@@ -444,9 +444,9 @@ Claim Timestamp: 00:12:24–00:13:19
 Claim: The TPUSA letter alleges that Owens claimed there are "not good people" at TPUSA and suggested that TPUSA and TPUSA Faith have been infiltrated by military operatives.
 
 Anchored Artifacts: A-1661.1
-Mentions: N-45
+Mentions: N-17
 
-Related Nodes: N-10507
+Related Nodes: N-10436
 
 Investigative Direction: Identify the specific personnel Owens considers "military operatives" and determine whether any verifiable affiliation exists.
 
@@ -460,7 +460,7 @@ Claim: The TPUSA letter alleges that Owens "has stated that there is definitely 
 
 Anchored Artifacts: A-1661.1
 
-Related Nodes: N-10504
+Related Nodes: N-10433
 
 Investigative Direction: Compare the TPUSA letter's characterization with Owens's actual on-air wording to assess whether the paraphrase is fair.
 
@@ -475,7 +475,7 @@ Claim: The TPUSA letter alleges that Owens has published a "list of lies" that s
 Anchored Artifacts: A-1661.1
 Mentions: N-3
 
-Related Nodes: N-10503, N-10504
+Related Nodes: N-10432, N-10433
 
 Investigative Direction: Identify the specific published list and each underlying claim to determine which items TPUSA disputes.
 
@@ -489,7 +489,7 @@ Claim: The TPUSA letter states that Owens's non-disparagement obligation remains
 
 Anchored Artifacts: A-1661.1
 
-Related Nodes: N-10503
+Related Nodes: N-10432
 
 Investigative Direction: Obtain the executed speaking agreement to verify the existence, scope, and duration of the non-disparagement clause.
 
@@ -503,7 +503,7 @@ Claim: The TPUSA letter states that Owens was requested on December 15, 2025, to
 
 Anchored Artifacts: A-1661.1
 
-Related Nodes: N-10503
+Related Nodes: N-10432
 
 Investigative Direction: Obtain the December 15, 2025 communication and any prior December 2 and December 4 letters referenced in the cease and desist.
 
@@ -516,9 +516,9 @@ Claim Timestamp: 00:04:39
 Claim: Tim Dylan stated on-air that TPUSA is primarily motivated by money – specifically, that they are "mad" because Owens told her audience not to give TPUSA money.
 
 Anchored Artifacts: A-1662.1
-Mentions: N-443
+Mentions: N-283
 
-Related Nodes: N-10503, N-10504
+Related Nodes: N-10432, N-10433
 
 Investigative Direction: Identify the original Tim Dylan episode and timestamp for the quoted clip.
 
@@ -531,9 +531,9 @@ Claim Timestamp: 00:04:39–00:06:17
 Claim: Owens adopts Tim Dylon's assessment that TPUSA's principal concern is money/revenue, citing the cease and desist as confirmation.
 
 Anchored Artifacts: A-1661.1, A-1662.1
-Mentions: N-443, N-3
+Mentions: N-283, N-3
 
-Related Nodes: N-10503, N-10504
+Related Nodes: N-10432, N-10433
 
 Investigative Direction: Track whether TPUSA's subsequent filings cite financial damages as a measurable injury.
 
@@ -547,7 +547,7 @@ Claim: Owens states she has had a speaking contract with Turning Point USA "goin
 
 Anchored Artifacts: A-1661.1
 
-Related Nodes: N-10503
+Related Nodes: N-10432
 
 Investigative Direction: Obtain the original contract and any amendments to verify the start date.
 
@@ -561,7 +561,7 @@ Claim: Owens states her speaking arrangement with TPUSA was terminated effective
 
 Anchored Artifacts: A-1661.1
 
-Related Nodes: N-10503
+Related Nodes: N-10432
 
 Investigative Direction: Cross-reference with the cease and desist letter's stated termination date and obtain a termination confirmation document.
 
@@ -574,9 +574,9 @@ Claim Timestamp: 00:12:24–00:13:19
 Claim: Owens states that Rob McCoy is "defending somebody who went to prison for molesting kids."
 
 Anchored Artifacts: A-1661.1
-Mentions: N-45
+Mentions: N-17
 
-Related Nodes: N-10507
+Related Nodes: N-10436
 
 Investigative Direction: Identify the specific individual and case to which Owens refers.
 
@@ -589,7 +589,7 @@ Claim Timestamp: 00:34:18
 Claim: Brooklyn Beckham, via Instagram Stories, states "I do not want to reconcile with my family."
 
 Anchored Artifacts: A-1663.1
-Mentions: N-770, N-772
+Mentions: N-491, N-493
 
 
 Investigative Direction: Obtain the original Stories frames before deletion if preservation has not yet occurred.
@@ -603,7 +603,7 @@ Claim Timestamp: 00:36:14–00:37:33
 Claim: Brooklyn Beckham alleges that his mother cancelled making Nicola Peltz's dress shortly before the wedding, forcing an urgent replacement.
 
 Anchored Artifacts: A-1663.1
-Mentions: N-770, N-771, N-772
+Mentions: N-491, N-492, N-493
 
 
 Investigative Direction: Obtain any contemporaneous communications or receipts relevant to the dress commission timeline.
@@ -617,7 +617,7 @@ Claim Timestamp: 00:36:14–00:37:33
 Claim: Brooklyn Beckham alleges that his parents "repeatedly pressured and attempted to bribe me into signing away the rights to my name" before his wedding.
 
 Anchored Artifacts: A-1663.1
-Mentions: N-770, N-772, N-773
+Mentions: N-491, N-493, N-494
 
 
 Investigative Direction: Identify and obtain any proposed trademark or brand-rights agreements between Beckham family entities and Brooklyn Beckham dated to the wedding window.
@@ -631,7 +631,7 @@ Claim Timestamp: 00:38:22
 Claim: Brooklyn Beckham alleges his mother called him "evil" because he and Nicola chose to seat their nannies' widowed grandparents at the head table.
 
 Anchored Artifacts: A-1663.1
-Mentions: N-770, N-772
+Mentions: N-491, N-493
 
 
 Investigative Direction: Identify any wedding guests who can corroborate or rebut the alleged remark.
@@ -645,7 +645,7 @@ Claim Timestamp: 00:40:27–00:41:23
 Claim: Brooklyn Beckham alleges that his mother, called to the stage by Marc Anthony, hijacked what had been planned as his romantic first dance with Nicola.
 
 Anchored Artifacts: A-1663.1, A-1664.1
-Mentions: N-770, N-772
+Mentions: N-491, N-493
 
 
 Investigative Direction: Compare the IG-stories allegation against the Vogue article's documented dance sequence, which describes a separate first dance to "Only Fools Rush In" preceding the alleged late-night incident.
@@ -659,7 +659,7 @@ Claim Timestamp: 00:42:09–00:43:16
 Claim: The Vogue wedding article reports that the first dance between Brooklyn and Nicola was to "Only Fools Rush In," performed by South African artist Lizo.
 
 Anchored Artifacts: A-1664.1
-Mentions: N-770, N-771, N-772, N-773
+Mentions: N-491, N-492, N-493, N-494
 
 
 Investigative Direction: Cross-reference with the original Vogue article text and any available wedding video.
@@ -673,7 +673,7 @@ Claim Timestamp: 00:42:09–00:43:16
 Claim: The Vogue wedding article reports that Marc Anthony took over the DJ decks at 11 p.m. to close out the wedding celebrations.
 
 Anchored Artifacts: A-1664.1
-Mentions: N-770, N-771
+Mentions: N-491, N-492
 
 
 Investigative Direction: Verify the 11 p.m. start time against any video of Marc Anthony's set, and identify any contemporaneous social media posts by attendees.
@@ -687,7 +687,7 @@ Claim Timestamp: 00:28:30–00:29:09
 Claim: Taylor Swift texted Blake Lively in early December 2024 stating, regarding the impending New York Times piece on Baldoni, "I think he knows something is coming because he's got out his tiny violin."
 
 Anchored Artifacts: A-1665.1
-Mentions: N-774, N-775, N-776
+Mentions: N-495, N-496, N-497
 
 
 Investigative Direction: Obtain the full unredacted text thread exhibits from the Baldoni–Lively litigation docket.
@@ -701,7 +701,7 @@ Claim Timestamp: 00:29:09
 Claim: Sony executives described Blake Lively as a "terrorist" in text messages supporting Justin Baldoni's account.
 
 Anchored Artifacts: A-1665.1
-Mentions: N-774, N-775
+Mentions: N-495, N-496
 
 
 Investigative Direction: Obtain the specific Sony executive text-message exhibits from the litigation record.
@@ -717,7 +717,7 @@ Claim: The top viewer comment from the prior episode states TPUSA "fired 40 peop
 Anchored Artifacts: A-1667.1
 Mentions: N-1, N-2
 
-Related Nodes: N-10503
+Related Nodes: N-10432
 
 Investigative Direction: Verify the firings count through internal TPUSA communications or reporting; identify which positions were terminated.
 
@@ -732,7 +732,7 @@ Claim: An unnamed donor present at the Aspen event reportedly recalls Kirk refer
 Anchored Artifacts: A-1668.1
 Mentions: N-1, N-2
 
-Related Nodes: N-10508
+Related Nodes: N-10437
 
 Investigative Direction: Identify and obtain a recorded statement from the corroborating donor; cross-reference against the previously aired "Baron Coleman" discussion referenced by host.
 

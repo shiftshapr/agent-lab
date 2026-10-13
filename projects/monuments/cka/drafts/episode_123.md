@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 93abb119e30ffeee11218fa72b1be08579d89ea15f3f784ace8d3604332d4554
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-11103, N-11104, N-11105, N-11106
-  - Reused Nodes Appearing: N-777
+  - New Nodes Introduced: N-10705, N-10706, N-10707, N-10708
+  - Reused Nodes Appearing: N-498
   - (see registers)
 
 ## 2. Executive Summary
@@ -37,7 +37,7 @@ Video Timestamp: 00:06:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2986, C-2987, C-2988, N-11104*
+*Related: C-2986, C-2987, C-2988, N-10706*
 
 **A-2110.2** Photo 2 – Cardboard-colored piece and adjacent black bag (back seat)
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:08:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2986, C-2994, N-11103*
+*Related: C-2986, C-2994, N-10705*
 
 **A-2110.4** Photo 4 – Foil-like material visible under floor mat
 
@@ -109,7 +109,7 @@ Video Timestamp: 00:17:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host asserts "beyond a shadow of a doubt")
 
-*Related: C-2986, C-2994, N-11103*
+*Related: C-2986, C-2994, N-10705*
 
 **A-2112** Mikey McCoy Hospital Casket Clip
 
@@ -161,13 +161,13 @@ Video Timestamp: 00:49:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (viewer speculation)
 
-*Related: C-2994, N-11103*
+*Related: C-2994, N-10705*
 
 ---
 
 ## 4. Node Register
 
-**N-777** Rick Cutler
+**N-498** Rick Cutler
 
 Named by the host at 00:12:02 in episode 123; first introduced in episode 121.
 
@@ -175,7 +175,7 @@ Named by the host at 00:12:02 in episode 123; first introduced in episode 121.
 
 
 
-**N-11103** Charlie's Road Microphone Glass Origin Investigation Target
+**N-10705** Charlie's Road Microphone Glass Origin Investigation Target
 
 Persistent investigative target: where did the tempered glass in the vehicle come from, and how was the road/lapel microphone broken?
 
@@ -186,7 +186,7 @@ Investigative Pressure: High
 
 *Related: A-2110.3, A-2111.4, A-2114.3, C-2986, C-2994*
 
-**N-11104** Charlie's Bloody Jacket Chain of Custody Investigation Target
+**N-10706** Charlie's Bloody Jacket Chain of Custody Investigation Target
 
 Persistent investigative target: chain of custody for Charlie Kirk's sports coat, returned to Erika's apartment with blood rather than collected into evidence.
 
@@ -197,7 +197,7 @@ Investigative Pressure: Medium
 
 *Related: A-2110.1, C-2989*
 
-**N-11105** Missing Charlie's Shirt Investigation Target
+**N-10707** Missing Charlie's Shirt Investigation Target
 
 Persistent investigative target: location and disposition of Charlie Kirk's shirt on the day of the incident.
 
@@ -208,7 +208,7 @@ Investigative Pressure: Medium
 
 *Related: C-2998*
 
-**N-11106** Car Door Open During Transport Report Investigation Target
+**N-10708** Car Door Open During Transport Report Investigation Target
 
 Persistent investigative target: police scanner reports indicating car door was open during high-speed transport and a visible "struggle" in the vehicle.
 
@@ -231,7 +231,7 @@ Claim: Photographs of the vehicle interior show black tempered shattered glass p
 
 Anchored Artifacts: A-2110.3, A-2111.4
 Mentions: N-1
-Related Nodes: N-11103
+Related Nodes: N-10705
 Investigative Direction: Obtain forensic analysis of vehicle interior; compare particle composition to known Charlie Kirk lapel microphone glass; subpoena vehicle evidence logs.
 
 ---
@@ -256,8 +256,8 @@ Claim: A hanger is visible in Photo 1; the host infers it is connected to the sp
 
 Anchored Artifacts: A-2110.1
 Mentions: N-1
-Related Nodes: N-11104
-Investigative Direction: Identify hanger; trace jacket chain of custody (see N-11104).
+Related Nodes: N-10706
+Investigative Direction: Identify hanger; trace jacket chain of custody (see N-10706).
 
 ---
 
@@ -269,7 +269,7 @@ Claim: Charlie's bloodied sports coat was returned by security to Erika Kirk's a
 
 Anchored Artifacts: None (verbally referenced but not shown)
 Mentions: N-1, N-2
-Related Nodes: N-11104
+Related Nodes: N-10706
 Investigative Direction: Verify via property records, TPUSA internal communications, or law enforcement evidence logs; obtain testimony from security personnel involved in return.
 
 ---
@@ -305,7 +305,7 @@ Claim Timestamp: 00:15:10
 Claim: A viewer identified the medical bag visible in the photo as a SantaMedical.com product, consistent with equipment Brian Harpole described traveling with Charlie.
 
 Anchored Artifacts: A-2110.2, A-2114.1
-Mentions: N-424
+Mentions: N-272
 Related Nodes:
 Investigative Direction: Cross-reference SantaMedical.com catalog with described medical equipment; verify against Harpole's interview statements.
 
@@ -318,7 +318,7 @@ Claim Timestamp: 00:33:10
 Claim: A viral clip shows Mikey McCoy appearing physically ill and holding his stomach as Charlie's casket was carried out of the hospital.
 
 Anchored Artifacts: A-2112
-Mentions: N-272
+Mentions: N-194
 Related Nodes:
 Investigative Direction: Verify clip provenance; corroborate with hospital witness accounts; assess against prior statements from Erika Kirk and TPUSA describing McCoy as "amazing" and "snapping into action."
 
@@ -331,8 +331,8 @@ Claim Timestamp: 00:06:00–00:19:30
 Claim: Across multiple interviews (Paramount Tactical, Shawn Ryan Show, and others), Frank Turk and Brian Harpole described packing a neck wound and praying but did not mention any shattered tempered glass in the vehicle.
 
 Anchored Artifacts: None (claim relies on absence from prior retellings; absence-of-evidence style claim)
-Mentions: N-424, N-16
-Related Nodes: N-11103
+Mentions: N-272, N-7
+Related Nodes: N-10705
 Investigative Direction: Obtain transcripts/video of all Frank Turk and Brian Harpole public interviews; verify exhaustive absence of glass references; cross-reference John Bray's prior microphone-rigging theory.
 
 ---
@@ -369,8 +369,8 @@ Claim Timestamp: 00:50:36
 Claim: Police scanner reports (referenced via Baron Coleman episodes) describe the car door being open during high-speed transport and what looked like a struggle inside the vehicle, attributed to Rick Cutler holding Brian Harpole.
 
 Anchored Artifacts: A-2114.2
-Mentions: N-424, N-552, N-777
-Related Nodes: N-11106
+Mentions: N-272, N-337, N-498
+Related Nodes: N-10708
 Investigative Direction: Obtain official police scanner audio logs from the date; cross-reference with vehicle door mechanism and seating position documentation.
 
 ---
@@ -382,8 +382,8 @@ Claim Timestamp: 00:29:24–00:30:20
 Claim: As of this episode, TPUSA (via spokesperson Andrew Kovat) has not publicly addressed how the road microphone shattered or why the glass ended up in the vehicle.
 
 Anchored Artifacts: None (claim is about absence of official response)
-Mentions: N-42
-Related Nodes: N-11103, N-11105
+Mentions: N-14
+Related Nodes: N-10705, N-10707
 Investigative Direction: Monitor TPUSA official communications; if no response materializes, the absence itself becomes a documented investigative target.
 
 ---

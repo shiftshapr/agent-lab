@@ -31,10 +31,10 @@
             "C-1922"
           ],
           "related_nodes": [
-            "N-444",
+            "N-284",
             "N-2",
             "N-3",
-            "N-10405"
+            "N-10334"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -52,7 +52,7 @@
             "C-1912"
           ],
           "related_nodes": [
-            "N-444",
+            "N-284",
             "N-2",
             "N-3"
           ],
@@ -109,9 +109,9 @@
             "C-1922"
           ],
           "related_nodes": [
-            "N-537",
-            "N-444",
-            "N-10405"
+            "N-333",
+            "N-284",
+            "N-10334"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -137,7 +137,7 @@
             "C-1913"
           ],
           "related_nodes": [
-            "N-364",
+            "N-242",
             "N-2"
           ],
           "tags": [],
@@ -156,7 +156,7 @@
             "C-1917"
           ],
           "related_nodes": [
-            "N-364",
+            "N-242",
             "N-2"
           ],
           "tags": [],
@@ -175,7 +175,7 @@
             "C-1914"
           ],
           "related_nodes": [
-            "N-364",
+            "N-242",
             "N-2"
           ],
           "tags": [],
@@ -202,8 +202,8 @@
             "C-1918"
           ],
           "related_nodes": [
-            "N-69",
-            "N-10407"
+            "N-40",
+            "N-10336"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -229,7 +229,7 @@
             "C-1919"
           ],
           "related_nodes": [
-            "N-349",
+            "N-232",
             "N-3"
           ],
           "tags": [],
@@ -248,7 +248,7 @@
             "C-1921"
           ],
           "related_nodes": [
-            "N-349",
+            "N-232",
             "N-3"
           ],
           "tags": [],
@@ -275,11 +275,11 @@
             "C-1920"
           ],
           "related_nodes": [
-            "N-349",
-            "N-135",
-            "N-350",
-            "N-133",
-            "N-42"
+            "N-232",
+            "N-99",
+            "N-233",
+            "N-97",
+            "N-14"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -303,7 +303,7 @@
           "description": "Commenter Alicia Yancey reading aloud Candace Owens' 2018 text to Charlie Kirk: \"the story of me and CK will be one for the ages. My hope is that our story will be about smashing limitations, a story of loyalty, trust, and imprinting the world if fearless enough.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-538",
+            "N-334",
             "N-1",
             "N-3"
           ],
@@ -320,8 +320,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-444",
-      "ref": "N-444",
+      "@id": "N-284",
+      "ref": "N-284",
       "name": "Bari Weiss",
       "type": "person",
       "description": "CBS News editor/chief who moderated the Erika Kirk town hall; subject of host's pre-recording allegation and audience-member sourcing claims. Material to investigation of town-hall production integrity.",
@@ -340,13 +340,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-10405"
+        "N-10334"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-364",
-      "ref": "N-364",
+      "@id": "N-242",
+      "ref": "N-242",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Blaze TV host who interviewed Erika Kirk immediately after CBS town hall; framed \"the truth is very clear\" question and the jury-pool education framing.",
@@ -371,8 +371,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-349",
-      "ref": "N-349",
+      "@id": "N-232",
+      "ref": "N-232",
       "name": "Allie Beth Stuckey",
       "type": "person",
       "description": "Daily Wire host and public critic of Candace Owens; subject of artifact-anchored Instagram post (A-1536.1), Instagram comment (A-1536.2), and show clip (A-1537.1) defending named figures against the host's accusations.",
@@ -397,8 +397,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-135",
-      "ref": "N-135",
+      "@id": "N-99",
+      "ref": "N-99",
       "name": "Alex Clark",
       "type": "person",
       "description": "Podcaster named by host and defended by AllieBeth Stuckey (A-1537.1) against host's accusation of misrepresenting Charlie Kirk's stance on architecture.",
@@ -414,13 +414,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-349"
+        "N-232"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-350",
-      "ref": "N-350",
+      "@id": "N-233",
+      "ref": "N-233",
       "name": "Lila Rose",
       "type": "person",
       "description": "Live Action founder; subject of AllieBeth Stuckey defense (A-1537.1) and host's prior accusation regarding military connections.",
@@ -436,13 +436,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-349"
+        "N-232"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
+      "@id": "N-97",
+      "ref": "N-97",
       "name": "Ben Shapiro",
       "type": "person",
       "description": "Commentator defended by AllieBeth Stuckey (A-1537.1) and subject of host's prior accusation of lying about lack of issues with Charlie Kirk.",
@@ -458,13 +458,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-349"
+        "N-232"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-537",
-      "ref": "N-537",
+      "@id": "N-333",
+      "ref": "N-333",
       "name": "Hunter Kozak",
       "type": "person",
       "description": "Audience member at CBS town hall identified by host as the questioner who asked Charlie Kirk his last question prior to the assassination.",
@@ -478,14 +478,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-444",
-        "N-10405"
+        "N-284",
+        "N-10334"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-538",
-      "ref": "N-538",
+      "@id": "N-334",
+      "ref": "N-334",
       "name": "Alicia Yancey",
       "type": "person",
       "description": "Commenter who quoted Candace Owens' 2018 text message to Charlie Kirk (A-1538.1).",
@@ -505,8 +505,8 @@
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10405",
-      "ref": "N-10405",
+      "@id": "N-10334",
+      "ref": "N-10334",
       "name": "CBS Bari Weiss Town Hall Production Integrity",
       "type": "investigation_target",
       "description": "Persistent investigative target concerning whether questions were pre-selected, the town hall was pre-recorded, and audience composition was curated. Host asserts affirmative answers via insider sources; episode displays rehearsed on-air delivery.",
@@ -523,14 +523,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-444",
-        "N-537"
+        "N-284",
+        "N-333"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10406",
-      "ref": "N-10406",
+      "@id": "N-10335",
+      "ref": "N-10335",
       "name": "Maroon Shirt / Air Force 10th Mountain Brigade Connection",
       "type": "investigation_target",
       "description": "Continued investigative target tying the maroon-shirt observation at the Kirk event to the U.S. Army 10th Mountain Brigade and Air Force color associations. Host references prior military-source confirmation.",
@@ -542,13 +542,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-69"
+        "N-40"
       ]
     },
     {
       "@type": "InvestigationTarget",
-      "@id": "N-10407",
-      "ref": "N-10407",
+      "@id": "N-10336",
+      "ref": "N-10336",
       "name": "Tyler Robinson First In-Person Court Appearance Details",
       "type": "investigation_target",
       "description": "Verification target for the December 11, 2025 court appearance: demeanor, hearing content, transcript availability to media, and any preliminary statements.",
@@ -564,7 +564,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -617,8 +617,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-42",
-      "ref": "N-42",
+      "@id": "N-14",
+      "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
       "description": "TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.",
@@ -633,8 +633,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-69",
-      "ref": "N-69",
+      "@id": "N-40",
+      "ref": "N-40",
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.",
@@ -649,8 +649,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-410",
-      "ref": "N-410",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
@@ -665,8 +665,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -714,7 +714,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-444"
+        "N-284"
       ]
     },
     {
@@ -732,7 +732,7 @@
       "investigative_direction": "Obtain the unedited Blaze TV segment to verify exact phrasing and surrounding context.",
       "mentions_person_refs": [
         "N-2",
-        "N-364"
+        "N-242"
       ]
     },
     {
@@ -750,7 +750,7 @@
       "investigative_direction": "Compare this on-camera denial against any subsequent documentary disclosures or investigation findings that could contradict the explicit denial.",
       "mentions_person_refs": [
         "N-2",
-        "N-364"
+        "N-242"
       ]
     },
     {
@@ -766,7 +766,7 @@
       "investigative_direction": "Verify the exact context of the \"mental illness\" statement against the unedited interview and assess whether the framing was directed at named hosts or general public commentary.",
       "mentions_person_refs": [
         "N-2",
-        "N-364"
+        "N-242"
       ]
     },
     {
@@ -784,7 +784,7 @@
       "investigative_direction": "Document the recurrence of this framing across Erika Kirk's post-assassination appearances to map the consistency and evolution of the messaging.",
       "mentions_person_refs": [
         "N-2",
-        "N-364"
+        "N-242"
       ]
     },
     {
@@ -802,7 +802,7 @@
       "investigative_direction": "Track whether this \"education\" framing recurs in subsequent Erika Kirk appearances and whether any coordinated media campaigns explicitly call on influencers to refrain from commentary.",
       "mentions_person_refs": [
         "N-2",
-        "N-364"
+        "N-242"
       ]
     },
     {
@@ -815,13 +815,13 @@
         "A-1535.1"
       ],
       "related_nodes": [
-        "N-10407"
+        "N-10336"
       ],
       "tags": [],
       "claim_timestamp": "00:33:07",
       "investigative_direction": "Obtain the official docket entry and any released court transcript for the December 11, 2025 hearing; verify demeanor observation against available footage.",
       "mentions_person_refs": [
-        "N-69"
+        "N-40"
       ]
     },
     {
@@ -839,7 +839,7 @@
       "investigative_direction": "Verify the post is still publicly available and capture a screenshot for permanent record; compare Stuckey's characterization against any prior host statements.",
       "mentions_person_refs": [
         "N-3",
-        "N-349"
+        "N-232"
       ]
     },
     {
@@ -856,11 +856,11 @@
       "claim_timestamp": "00:43:28",
       "investigative_direction": "Catalog each prior host accusation against these five individuals and verify against any underlying evidence the host has produced; assess consistency of Stuckey's defense with the underlying evidence.",
       "mentions_person_refs": [
-        "N-86",
-        "N-133",
-        "N-135",
-        "N-349",
-        "N-350",
+        "N-55",
+        "N-97",
+        "N-99",
+        "N-232",
+        "N-233",
         "N-3"
       ]
     },
@@ -879,7 +879,7 @@
       "investigative_direction": "Capture the comment thread for permanent record and identify the original commenter if investigatively relevant.",
       "mentions_person_refs": [
         "N-3",
-        "N-349"
+        "N-232"
       ]
     },
     {
@@ -892,14 +892,14 @@
         "A-1533.1"
       ],
       "related_nodes": [
-        "N-10405"
+        "N-10334"
       ],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
       "investigative_direction": "Attempt to obtain leaked production documents, backstage emails, or testimony from audience members; cross-reference against CBS's own statements about the production.",
       "mentions_person_refs": [
-        "N-444",
-        "N-537",
+        "N-284",
+        "N-333",
         "N-2"
       ]
     },
@@ -911,7 +911,7 @@
       "claim": "The host asserts that the maroon color referenced in connection with Kirk event attendees (and noted by the host in prior episodes) represents the U.S. Air Force and the Army 10th Mountain Brigade, citing military contacts.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10406"
+        "N-10335"
       ],
       "tags": [],
       "claim_timestamp": "00:56:27–00:57:53",
@@ -934,9 +934,9 @@
       "transcript_snippet": "Lie. Charlie established a doge and it was not unusual. That's a lie. It was unusual.",
       "mentions_person_refs": [
         "N-3",
-        "N-410",
+        "N-267",
         "N-1",
-        "N-424"
+        "N-272"
       ]
     }
   ],
