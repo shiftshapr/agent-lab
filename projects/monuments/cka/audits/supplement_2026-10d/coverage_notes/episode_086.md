@@ -1,0 +1,7 @@
+# Coverage notes, episode 86
+
+- Existing draft holds 18 claims (C-2609 to C-2625 and C-3750). I judged about 12 beats covered (filing basics, ATF finding, FBI second analysis, CBLA discontinuation, discovery volumes, autopsy delays, Kolvet tweet, Long Beach base, Kim Haven comment, paving).
+- Added 55 claims, 4 artifacts (verbal references only), 3 new nodes (N-876 Frank Carney, N-11256 FaceTime recording inquiry, N-11257 Utah County Attorney's Office) and 1 new meme (M-264) plus reused-meme occurrences.
+- Most important beats missed by the earlier pass: (1) Farnsworth's SD card removal, the September 17 call and his excuses (00:02:18 to 00:05:21); (2) the September 19 back-footage FaceTime and the September 20 Strife and FBI inquiry about the recording (00:06:19 to 00:08:17); (3) the Erika, Kolvet and Dr. Trotter call on funeral day and the HIPAA dispute (00:09:09 to 00:09:57); (4) no GSR test, bomb dogs, six sets of prints and the planted-gun allegation (00:15:08 to 00:16:40); (5) filing details on DNA mixtures, the UCAO, the December 11 court remarks and the April 17 deadline (00:26:31 to 00:47:50).
+- Not claims: Pre-Born and Kickoff ad reads, merch plugs and the Freemasonry book club mention (opinion, sponsor or off-topic). The APB reference at 00:50:51 was treated as a DIA tip beat; no bounty or tip email address aired.
+- Doubts: the Jimmy and Norma Jean Aids spelling is the transcript's and may be wrong; Frank Carney is not in nodes.tsv, though the draft ledger lists him; the Skyler and Ashley (producer) names were not matched to nodes.

@@ -11,9 +11,14 @@
 - **Transcript SHA-256**: fac4670485ac7aebfc62240edc4e00c18462baab4c60e720e986d00acb522c8d
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10d): N-877, N-11258
+  - Hole-minted Nodes (reintro-ep097): N-442, N-10651, N-10695
+  - Tip-minted Nodes (reintro-ep097): N-11137
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10d): C-10354–C-10422
   - Tip-minted Nodes (reintro-ep097): N-800
-  - Reused Nodes Appearing: N-10643, N-10645, N-10646, N-10647, N-10649
- - New Nodes Introduced: N-10644, N-10648, N-10650
+  - Reused Nodes Appearing: N-10643, N-10645, N-10646, N-10647, N-10649, N-5, N-9, N-30, N-36, N-60, N-82, N-87, N-194, N-199, N-213, N-229, N-267, N-277, N-284, N-286, N-326, N-563, N-613, N-10012, N-10023, N-10083, N-10272, N-10341, N-10358, N-10373, N-10437, N-10546, N-10552, N-10641, N-10664, N-10681, N-10812, N-10840, N-10862, N-10899, N-10900, N-11001, N-11013, N-10650
+ - New Nodes Introduced: N-10644, N-10648
  - Hole-minted Nodes (wave3): N-437, N-438
  - Reused Nodes Appearing: N-2, N-389, N-3, N-272
  - (see registers)
@@ -402,6 +407,34 @@ Confidence Level: Medium
 
 ---
 
+**A-3076** Mitch Snow Interview Audio Bundle
+
+**A-3076.1** Audio clip of the host's interview with Mitch Snow, in which she says she can confirm the route and meeting with metadata but cannot confirm who he saw
+
+Quoted text: "I obviously can't confirm that you saw who you say you saw."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:29:07
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-10382, C-10383, N-3, N-369*
+
+---
+
+**A-3077** Harpole Flight Records Bundle
+
+**A-3077.1** Host verbal reference to Brian Harpole's flight records showing afternoon departures from Dallas (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 01:11:50
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-10419, C-10420, N-3, N-272*
+
+---
+
 ## IV. Node Register
 
 **N-800** Hasan Piker
@@ -533,6 +566,423 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-2015.2, C-2812, N-1*
+
+---
+
+**N-2** Erika Kirk
+
+Widow and TPUSA CEO; the host disputes her April 29 statement and her account of the Aspen audio.
+
+*Related: C-10354, C-10390, C-10391, C-10392, C-10393, C-10394, C-10395, C-10398, C-10399, C-10415*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-10354, C-10355, C-10356, C-10357, C-10358, C-10359, C-10360, C-10363, C-10365, C-10366, C-10367, C-10368, C-10369, C-10370, C-10371, C-10372, C-10373, C-10374, C-10375, C-10376, C-10377, C-10378, C-10379, C-10380, C-10381, C-10382, C-10383, C-10384, C-10385, C-10386, C-10387, C-10388, C-10389, C-10390, C-10391, C-10392, C-10393, C-10394, C-10395, C-10396, C-10397, C-10398, C-10399, C-10400, C-10401, C-10402, C-10403, C-10404, C-10405, C-10406, C-10407, C-10408, C-10411, C-10412, C-10413, C-10414, C-10415, C-10416, C-10418, C-10419, C-10420, C-10421, C-10422*
+
+---
+
+**N-5** Donald Trump
+
+Donald Trump; the host cites his Epstein remark and says he signaled lawsuits to Erika.
+
+*Related: C-10406, C-10412, C-10415*
+
+---
+
+**N-7** Frank Turek
+
+Frank Turek; the host plays his clip about team drones and Provo airspace.
+
+*Related: C-10364, C-10371*
+
+---
+
+**N-9** Jeffrey Epstein
+
+Jeffrey Epstein; the host says the resolution's 'satanic pedophile' line refers to him and his protectors.
+
+*Related: C-10404, C-10405, C-10406*
+
+---
+
+**N-14** Andrew Kolvet
+
+TPUSA spokesperson; the host describes his request to defend security, his private chat with her and her claim McCoy pointed to him.
+
+*Related: C-10369, C-10393, C-10396, C-10397, C-10398, C-10399, C-10400, C-10401*
+
+---
+
+**N-30** George (Candace's husband)
+
+The host's husband, whom she says she must consult about the response to the lawsuit.
+
+*Related: C-10388, C-10416*
+
+---
+
+**N-36** Benjamin Netanyahu
+
+Netanyahu; the host says his picture appears in the lawsuit.
+
+*Related: C-10366*
+
+---
+
+**N-60** Laura Loomer
+
+Laura Loomer; the host says Harpole's lawyer retweeted her and that she made a trust claim.
+
+*Related: C-10413, C-10414*
+
+---
+
+**N-82** Brigitte Macron
+
+Brigitte Macron; the host cites a filing asserting UK dual citizenship.
+
+*Related: C-10385, C-10413*
+
+---
+
+**N-87** Jimmy Kimmel
+
+Jimmy Kimmel; target of Melania Trump's post.
+
+*Related: C-10410*
+
+---
+
+**N-194** Mikey McCoy
+
+Mikey McCoy; the host says he sent her a message about Kolvet and announced the death by video.
+
+*Related: C-10362, C-10400*
+
+---
+
+**N-199** Lee Trotter
+
+Dr. Lee Trotter; the host says Erika lied about his words.
+
+*Related: C-10392*
+
+---
+
+**N-213** Joe Kent
+
+Joe Kent; the host says Erika's team attacked him for asking about foreign influence.
+
+*Related: C-10391*
+
+---
+
+**N-229** Shawn Ryan
+
+Shawn Ryan, host of the podcast on which Harpole appeared on November 17.
+
+*Related: C-10368, C-10372, C-10380*
+
+---
+
+**N-267** Terrell Farnsworth
+
+Terrell Farnsworth, head of the AV team; the host says he announced the death by selfie video and holds unseen footage.
+
+*Related: C-10360, C-10361, C-10362, C-10389*
+
+---
+
+**N-272** Brian Harpole
+
+Brian Harpole, Kirk security team member and plaintiff in the lawsuit against the host.
+
+*Related: C-10355, C-10356, C-10357, C-10358, C-10359, C-10360, C-10363, C-10366, C-10368, C-10370, C-10371, C-10372, C-10373, C-10375, C-10376, C-10377, C-10378, C-10379, C-10380, C-10381, C-10389, C-10417, C-10418, C-10419, C-10421*
+
+---
+
+**N-276** Dan Flood
+
+Dan Flood; the host says the rooftop text chain was his and that she messaged him once.
+
+*Related: C-10370, C-10371, C-10377, C-10380*
+
+---
+
+**N-277** Jeff Long
+
+UVU police chief; correspondent in the Flood text chain the host discusses.
+
+*Related: C-10380*
+
+---
+
+**N-284** Bari Weiss
+
+Bari Weiss; the host says a private chat mocked her insinuations.
+
+*Related: C-10396*
+
+---
+
+**N-286** Karoline Leavitt
+
+White House press secretary; speaker in the briefing clip.
+
+*Related: C-10409*
+
+---
+
+**N-326** Captain Adam Nef
+
+Captain Neff; named in the host's December 23 post as questioning Mitch.
+
+*Related: C-10384*
+
+---
+
+**N-337** Baron Coleman
+
+Baron Coleman; speaker in the clip contesting Erika's claim.
+
+*Related: C-10390*
+
+---
+
+**N-369** Mitch Snow
+
+Mitch Snow, the Fort Huachuca witness at the center of the Harpole dispute.
+
+*Related: C-10373, C-10374, C-10375, C-10376, C-10377, C-10379, C-10381, C-10382, C-10383, C-10384, C-10420*
+
+---
+
+**N-442** Kimberly Klacik
+
+Kim Klacik; the host recounts her earlier lawsuit against the host.
+
+*Related: C-10386*
+
+---
+
+**N-563** Aubrey Lech
+
+Aubrey Lech; the host says Kolvet cannot show what Lech gave her.
+
+*Related: C-10400, C-10401*
+
+---
+
+**N-613** Melania Trump
+
+Melania Trump; author of the post criticizing Kimmel.
+
+*Related: C-10410*
+
+---
+
+**N-10012** Utah Valley University
+
+UVU; its drone authorization form is cited by a viewer.
+
+*Related: C-10417*
+
+---
+
+**N-10023** Epstein Israeli Intelligence Asset Allegation
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10405*
+
+---
+
+**N-10083** AIPAC
+
+AIPAC; the host says Lawler and Gottheimer take over a million dollars from it.
+
+*Related: C-10402*
+
+---
+
+**N-10272** Harpole–Flood Text Attribution Discrepancy
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10380*
+
+---
+
+**N-10341** Andrew Kolvet Surgeon Bullet Description
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10393*
+
+---
+
+**N-10358** Surgeon Quotation Authenticity Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10392, C-10393*
+
+---
+
+**N-10373** Brian Harpole Fort Huachuca Presence Verification
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10373, C-10374, C-10381, C-10382, C-10383, C-10384, C-10418, C-10419, C-10420, C-10421*
+
+---
+
+**N-10437** Aspen Donor Recall Verification
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10394*
+
+---
+
+**N-10546** Joe Kent Resignation Aftermath Pattern
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10391*
+
+---
+
+**N-10552** Aubrey Termination Circumstances
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10401*
+
+---
+
+**N-10641** Andrew Kolvet Text Message Full Context Verification
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10390, C-10396, C-10397*
+
+---
+
+**N-10651** Brian Harpole Lawsuit Coordination Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10355, C-10356, C-10375, C-10376, C-10387, C-10414, C-10415*
+
+---
+
+**N-10664** Charlie Kirk Aspen Audio Authenticity Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10394, C-10395*
+
+---
+
+**N-10681** Sean Ryan Show Interview Clip Bundle
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10372*
+
+---
+
+**N-10695** Brian Harpole Medical Dressing Amount Claim
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10363*
+
+---
+
+**N-10812** Terrell Farnsworth Evidence-Handling Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10361, C-10389*
+
+---
+
+**N-10840** UVU Ambulance Denial Discrepancy
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10357*
+
+---
+
+**N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10372*
+
+---
+
+**N-10899** Paramount Tactical
+
+Paramount Tactical, Gary Melton's channel; the host says it relayed the warning about Harpole suing.
+
+*Related: C-10375*
+
+---
+
+**N-10900** Daily Wire
+
+Daily Wire; the host says Harpole's lawyer is the one it used against her in arbitration.
+
+*Related: C-10356*
+
+---
+
+**N-11001** Valhalla VFT
+
+Valhalla VFT, a separate YouTuber the host calls the Valhalla guy; named as a relay of the lawsuit warning.
+
+*Related: C-10375*
+
+---
+
+**N-11013** Charlie Kirk Pre-Death Texts Saying He Expected to Be Killed Verification
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10358*
+
+---
+
+**N-11137** Harpole Team Medical Response Competence Dispute
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-10357*
+
+---
+
+**N-877** Matt Slauson
+
+First named by the host at 01:08:34 in episode 97 (spelled Slauson; at 01:13:25 she says 'Matt Christiansen', possibly the same lawyer). Attorney for Brian Harpole.
+
+*Related: C-10414*
+
+---
+
+**N-11258** Harpole Lawsuit Subpoena and Discovery Opportunity
+
+Node Type: Topic
+The host's repeated argument that the Harpole lawsuit may give her the power of subpoena and depositions, including for Terrell Farnsworth's footage, text messages and testimony from Erika Kirk.
+
+*Related: C-10388, C-10389, C-10416*
 
 ---
 
@@ -888,6 +1338,1246 @@ Mentions: N-1, N-3
 
 
 Investigative Direction: Verify the post's date, persistence, and any replies or context.
+
+---
+
+**C-10354** Host Says Erika Wrongly Said She Accused Erika of Murder
+
+Claim Timestamp: 00:00:01
+
+Claim: The host says Erika Kirk 'put a target on my back' by wrongly asserting that the host accused her of murdering her husband.
+
+Transcript Snippet: She essentially put a target on my back by wrongly asserting that I accused her of murdering her husband.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2
+Related Nodes: N-10647
+Supports: C-2826
+Tags: relevance:core
+Investigative Direction: Locate Erika Kirk's April 29 statement and compare its exact wording to the host's prior published statements.
+
+---
+
+**C-10355** Host Says Harpole Never Sent a Retraction Demand or Spoke to Her Before
+
+Claim Timestamp: 00:01:23
+
+Claim: The host says Brian Harpole never communicated with her, never issued a retraction demand and never answered her outreach before the lawsuit email arrived.
+
+Transcript Snippet: You never communicated with me, you never spoke, you never issued any sort of retraction demand, you never answered me when I reached out.
+
+Anchored Artifacts: A-2015.1
+Mentions: N-3, N-272
+Related Nodes: N-10651
+Supports: C-2811
+Tags: relevance:core
+Investigative Direction: Obtain the pre-filing email and the host's lawyers' correspondence log to confirm that no earlier retraction request exists.
+
+---
+
+**C-10356** Host Says Harpole's Lawyer Is the Lawyer the Daily Wire Used Against Her
+
+Claim Timestamp: 00:02:22
+
+Claim: The host says Harpole is using the same lawyer the Daily Wire used to sue her in arbitration for two years, and that the lawyer is publicly tweeting and has a YouTube channel.
+
+Transcript Snippet: Brian Harpold is using the same lawyer the Daily Wire used to sue me in arbitration for 2 years straight.
+
+Anchored Artifacts: 
+Mentions: N-3, N-272
+Related Nodes: N-10900, N-10651
+Tags: relevance:context
+Investigative Direction: Compare counsel of record in the Harpole complaint with counsel in the Daily Wire arbitration.
+
+---
+
+**C-10357** Host Says Ambulances Were Standard at Her TPUSA Events With Harpole's Team
+
+Claim Timestamp: 00:04:44
+
+Claim: The host says that at each of her many Turning Point USA events during the time Harpole was on the security team, an ambulance was on standby.
+
+Transcript Snippet: at each and every one of my many events that I have done with Turning Point USA during a time period when Brian Harpold was always a member of the security team, we had an ambulance on standby.
+
+Anchored Artifacts: A-2015.2
+Mentions: N-3, N-272
+Related Nodes: N-10840, N-11137
+Tags: relevance:core
+Investigative Direction: Collect event run-of-show or medical-staffing documents from prior TPUSA events and the UVU event to compare ambulance provisions.
+
+---
+
+**C-10358** Host Says Kirk Texted His Security the Night Before That He Expected to Be Killed
+
+Claim Timestamp: 00:04:44
+
+Claim: The host says Charlie Kirk texted his security team the night before the event and said he thought he was going to be killed.
+
+Transcript Snippet: texts you guys the night before and says, "I think I'm going to be killed."
+
+Anchored Artifacts: A-2015.2
+Mentions: N-3, N-1, N-272
+Related Nodes: N-10650, N-11013
+Supports: C-5114
+Tags: relevance:core
+Investigative Direction: Obtain the night-before text thread and its recipients; ask security leadership to confirm or deny receipt.
+
+---
+
+**C-10359** Host Says the Term Criminal Negligence Did Not Come From Her Podcast
+
+Claim Timestamp: 00:05:52
+
+Claim: The host says she did not accuse Harpole of criminal negligence and that the term did not come from her podcast but from the lawsuit.
+
+Transcript Snippet: Um I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.
+
+Anchored Artifacts: A-2015.2
+Mentions: N-3, N-272
+Related Nodes: 
+Tags: relevance:core
+Investigative Direction: Search the episode transcripts cited in the complaint for the phrase 'criminal negligence' or equivalent wording.
+
+---
+
+**C-10360** Host Says the Charlie's Angels or Demons Episode Never Named Harpole
+
+Claim Timestamp: 00:07:04
+
+Claim: The host says that in the 'Charlie's Angels or Demons' episode she never mentioned Harpole even once, and that it concerned Charlie's chief of staff and Terrell Farnsworth, the head of the AV team.
+
+Transcript Snippet: In that particular episode, we never mentioned Brian Harpold or referred to him even once.
+
+Anchored Artifacts: A-2015.3
+Mentions: N-3, N-272, N-267
+Related Nodes: 
+Tags: relevance:core
+Investigative Direction: Review the full episode transcript for any reference to Harpole or the security detail.
+
+---
+
+**C-10361** Host Says Farnsworth Announced Kirk Dead by Selfie Video Two Minutes After the Shot
+
+Claim Timestamp: 00:07:04
+
+Claim: The host says Terrell Farnsworth notoriously announced in a selfie video that Charlie Kirk was dead about two minutes after Kirk went down, when no one could have known.
+
+Transcript Snippet: it was Terrell Farmsworth who notoriously announced in a selfie video that Charlie Kirk was dead like 2 minutes after Charlie went down
+
+Anchored Artifacts: A-2015.3
+Mentions: N-267, N-1
+Related Nodes: N-10812
+Tags: relevance:core
+Investigative Direction: Obtain Farnsworth's selfie video with its original upload time and compare it to the shot time and first official confirmation.
+
+---
+
+**C-10362** Host Says Mikey McCoy and Farnsworth Filmed Themselves Announcing the Death
+
+Claim Timestamp: 00:07:04
+
+Claim: The host reads her own earlier quotation saying Mikey McCoy and others were picking up phone calls and filming themselves prematurely announcing that Charlie was dead.
+
+Transcript Snippet: They were already filming themselves prematurely announcing Charlie is dead, when not a single person could have known that Charlie Kirk was dead.
+
+Anchored Artifacts: A-2015.3
+Mentions: N-194, N-267, N-1
+Related Nodes: 
+Tags: relevance:core
+Investigative Direction: Identify any video in which Mikey McCoy announces the death and compare timing to first confirmation.
+
+---
+
+**C-10363** Host Says Her Medical Bag Line Was Only a Description
+
+Claim Timestamp: 00:09:16
+
+Claim: The host says her full quotation about Harpole's medical bag was a description of him running to Charlie with a small bag that was supposed to be a medical bag.
+
+Transcript Snippet: Brian is the one who then runs over to Charlie and again you recognize him because he kind of has that uh small supposed to be medical bag over him.
+
+Anchored Artifacts: A-2015.4
+Mentions: N-3, N-272, N-1
+Related Nodes: N-10695
+Tags: relevance:core
+Investigative Direction: Compare the quoted line with the full 'The Great Exodus from Utah' transcript.
+
+---
+
+**C-10364** Turek Audio Says Kirk's Team Had Drones Up and Texted Crowd Video
+
+Claim Timestamp: 00:10:55
+
+Claim: In the Frank Turek clip played on air, Turek says that on the drive in Kirk's team had drones up looking at the crowd and texted video of thousands of people an hour before the start.
+
+Transcript Snippet: we're driving in, Megan, and his team has drones up um looking at the crowd from above and they they text him some video.
+
+Anchored Artifacts: A-2028.1
+Mentions: N-7, N-1
+Related Nodes: N-10645
+Supports: C-1753
+Tags: relevance:core
+Investigative Direction: Obtain the original Turek interview audio and the drone footage or text messages he describes.
+
+---
+
+**C-10365** Host Says a Drone-Training Pilot Told Her Drones Can Be Flown in Provo
+
+Claim Timestamp: 00:10:55
+
+Claim: The host says a pilot who runs drone training told her that the Provo airspace restriction applies around airports and hangars, but that drones can be flown in Provo with clearance as needed.
+
+Transcript Snippet: Yeah, you can't fly in Provo airspace meaning around airports. You would have to get clearance. You can't fly uh near hangars. But you can fly drones in Provo.
+
+Anchored Artifacts: A-2028.1
+Mentions: N-3
+Related Nodes: N-10645
+Contradicts: C-4947
+Tags: relevance:core
+Investigative Direction: Check FAA Part 107 airspace authorization records for the UVU campus and any waiver requests filed for the event.
+
+---
+
+**C-10366** Host Says the Lawsuit Opens With Strong Support for Israel and a Netanyahu Picture
+
+Claim Timestamp: 00:12:40
+
+Claim: The host says the first pages of the 69-page lawsuit express strong support for Israel and embed a picture of Benjamin Netanyahu.
+
+Transcript Snippet: he begins the lawsuit and I'm talking like the first few pages with strong support for Israel.
+
+Anchored Artifacts: A-2015.1
+Mentions: N-3, N-272, N-36
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Read the opening paragraphs and exhibits of the complaint to confirm the Israel references and the image.
+
+---
+
+**C-10367** Host Says the Lawsuit Mentions the Moon Landing and She Believes It Was Fake
+
+Claim Timestamp: 00:12:40
+
+Claim: The host says point 19 of the lawsuit mentions that she does not believe in the moon landing, and she states she thinks the moon landing was fake.
+
+Transcript Snippet: I don't believe the moon landing. Guilty as charged. Guilty as charged. I I think the moon landing was fake.
+
+Anchored Artifacts: A-2015.1
+Mentions: N-3
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: Read paragraph 19 of the complaint to confirm the moon-landing reference.
+
+---
+
+**C-10368** Host States the Limited-Purpose Public Figure Rule and Says Harpole Fits It
+
+Claim Timestamp: 00:15:36
+
+Claim: The host says private citizens can become limited-purpose public figures by voluntarily thrusting themselves into a public controversy, and that Harpole did so by appearing on the Shawn Ryan podcast.
+
+Transcript Snippet: private citizens can indeed become limited purpose public figures when they voluntarily thrust themselves into the forefront of a particular public controversy to influence its outcome.
+
+Anchored Artifacts: A-2015.5
+Mentions: N-3, N-272, N-229
+Related Nodes: N-10644
+Contradicts: C-2815
+Tags: relevance:context
+Investigative Direction: Have a defamation lawyer assess Harpole's status under Tennessee or Utah limited-purpose public figure case law.
+
+---
+
+**C-10369** Host Says Kolvet Asked Her to Defend the Security Team Publicly
+
+Claim Timestamp: 00:17:25
+
+Claim: The host says that after a phone call in which she told Andrew Kolvet she did not believe the hand-signal conspiracies, Kolvet asked whether she would say something publicly because the team was getting hammered, and she agreed.
+
+Transcript Snippet: And Andrew asked me if I would be willing to say something publicly on my podcast to that effect because they were getting hammered and I said, "Of course I will."
+
+Anchored Artifacts: A-2016.1
+Mentions: N-3, N-14
+Related Nodes: 
+Supports: C-2820
+Tags: relevance:core
+Investigative Direction: Obtain the host's phone log and the text exchange with Kolvet from that day.
+
+---
+
+**C-10370** Host Says She Defended Harpole and Flood Without Naming Them
+
+Claim Timestamp: 00:17:25
+
+Claim: The host says she went to great lengths to defend Harpole and Dan Flood without mentioning their names so the public would not find them during the early conspiracy theories.
+
+Transcript Snippet: I went through great lengths to defend both Brian Harpole and Dan Flood without mentioning their names cuz I didn't want the public to find them
+
+Anchored Artifacts: A-2018.1
+Mentions: N-3, N-272, N-276
+Related Nodes: 
+Supports: C-2817
+Tags: relevance:core
+Investigative Direction: Audit September 2025 episodes for any naming of Harpole or Flood.
+
+---
+
+**C-10371** Host Recounts Early Hand-Signal Theories About Turek, Flood and Harpole
+
+Claim Timestamp: 00:17:25
+
+Claim: The host says the early conspiracy theories claimed Frank Turek, Dan Flood and Brian Harpole were making hand signals behind Charlie's back, and that she did not believe them.
+
+Transcript Snippet: Frank Turek's doing hand signals. It looks like Dan Flood's doing hand signals. It looks like Brian Harpole is doing hand signals behind his back and they're all looped in.
+
+Anchored Artifacts: A-2018.1
+Mentions: N-3, N-7, N-276, N-272
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Identify the original posts that circulated the hand-signal theories and their dates.
+
+---
+
+**C-10372** Host Says Harpole's Sean Ryan Interview Made Her Look Again
+
+Claim Timestamp: 00:19:10
+
+Claim: The host says it was Harpole's behavior and what he said on the Shawn Ryan show, which she found unconvincing, that made her take a second look, and that she did not come in guns blazing against TPUSA.
+
+Transcript Snippet: it was because of his behavior and what he said on Sean Ryan's show, which I found to be unconvincing
+
+Anchored Artifacts: 
+Mentions: N-3, N-272, N-229
+Related Nodes: N-10862, N-10681
+Tags: relevance:core
+Investigative Direction: Compare the Shawn Ryan interview statements with the independent review findings and the host's first on-air reaction.
+
+---
+
+**C-10373** Host Says She First Raised the Fort Huachuca Sighting on November 8
+
+Claim Timestamp: 00:20:00
+
+Claim: The host says that on November 8 she first mentioned that someone thought they saw Brian Harpole at Fort Huachuca, that she examined the person's documents and found him credible about where he said he was.
+
+Transcript Snippet: on November 8th, I had first mentioned that there was someone who thought that they saw Brian Harpole at Fort Huachuca that I, you know, examined the person's documents, whatever.
+
+Anchored Artifacts: 
+Mentions: N-3, N-272, N-369
+Related Nodes: N-10373
+Tags: relevance:core
+Investigative Direction: Locate the episode that first mentioned the Fort Huachuca sighting and reconcile its date with the host's statement that she first named Harpole on November 19.
+
+---
+
+**C-10374** Host Says the Solo Episode Naming the Sighting Caused Mass Panic
+
+Claim Timestamp: 00:20:00
+
+Claim: The host says the solo episode on the Fort Huachuca sighting aired on December 9 and caused mass panic, before she could interview Mitch Snow.
+
+Transcript Snippet: It was a solo episode on December 9th and if you recall, it caused mass panic.
+
+Anchored Artifacts: 
+Mentions: N-3, N-369
+Related Nodes: N-10373
+Tags: relevance:core
+Investigative Direction: Confirm the air date of the solo episode and the sequence relative to the Mitch Snow interview.
+
+---
+
+**C-10375** Host Says Paramount Tactical and the Valhalla Guy Warned That Harpole Would Sue
+
+Claim Timestamp: 00:20:46
+
+Claim: The host says she was effectively threatened behind the scenes through Paramount Tactical and the Valhalla guy, who said Mitch was a fraud never in the military and that Harpole would sue if she interviewed him.
+
+Transcript Snippet: this was coming through Paramount Tactical and the Valhalla guy and they were saying, "If you do this if if you interview Mitch, Mitch wasn't even in the military.
+
+Anchored Artifacts: 
+Mentions: N-3, N-369, N-272
+Related Nodes: N-10899, N-11001, N-10651
+Tags: relevance:core
+Investigative Direction: Obtain the messages the host received from the intermediaries and ask Paramount Tactical and Valhalla VFT whether they relayed a Harpole warning.
+
+---
+
+**C-10376** Host Says Harpole Told Others to Say He Would Sue if She Interviewed Mitch
+
+Claim Timestamp: 00:21:29
+
+Claim: The host says that before she did the interview, Brian Harpole was telling people to say he would sue her if she interviewed Mitch Snow.
+
+Transcript Snippet: So, before I even got to do the interview, Brian Harpole was telling people to say that if I interview this guy, I'm going to sue you.
+
+Anchored Artifacts: 
+Mentions: N-3, N-272, N-369
+Related Nodes: N-10651
+Tags: relevance:core
+Investigative Direction: Identify the intermediaries and any written message conveying the lawsuit threat, with dates.
+
+---
+
+**C-10377** Host Says She Sent Harpole Four Messages and Flood One
+
+Claim Timestamp: 00:21:29
+
+Claim: The host says she sent Brian Harpole about four messages in total and one message to Dan Flood, from two days before the Mitch Snow interview through January, and that the lawsuit embeds them.
+
+Transcript Snippet: I sent Brian Harpole I think a total of four messages and I also sent Dan Flood a message.
+
+Anchored Artifacts: A-2015.8
+Mentions: N-3, N-272, N-276, N-369
+Related Nodes: 
+Supports: C-6799
+Tags: relevance:core
+Investigative Direction: Obtain the full message log to Harpole and Flood and compare the count with the three messages quoted on air.
+
+---
+
+**C-10378** Host Says the Lawsuit Admits Harpole Received Her Messages and Chose Not to Reply
+
+Claim Timestamp: 00:23:03
+
+Claim: The host says the lawsuit acknowledges that Harpole received her messages and chose not to respond.
+
+Transcript Snippet: He's acknowledging he received these messages and he chose not to respond.
+
+Anchored Artifacts: A-2017.3
+Mentions: N-3, N-272
+Related Nodes: 
+Supports: C-2818
+Tags: relevance:core
+Investigative Direction: Read points 54 to 59 of the complaint to confirm the acknowledgment of receipt.
+
+---
+
+**C-10379** Host Says a Yes or No From Harpole Would Not Have Stopped Her Hosting Mitch
+
+Claim Timestamp: 00:25:05
+
+Claim: The host says she did not ask for an exclusive, that a reply would have ended her coverage of the story, and that his silence did not stop her from hosting Mitch Snow.
+
+Transcript Snippet: It would have put an end to me covering the story beyond. So, actually by not responding before I hosted Mitch, it didn't allow me didn't stop me from hosting Mitch.
+
+Anchored Artifacts: A-2015.7
+Mentions: N-3, N-272, N-369
+Related Nodes: 
+Tags: relevance:core
+Investigative Direction: Compare the host's outreach messages with the complaint's exclusive-content rationale.
+
+---
+
+**C-10380** Host Says Harpole Presented the Flood-Long Chain Using 'I'
+
+Claim Timestamp: 00:25:54
+
+Claim: The host says Harpole presented the text chain on Shawn Ryan as if it were his own and explicitly said 'I', implying it was why the rooftops were not secured, though it was between Dan Flood and Chief Long.
+
+Transcript Snippet: You presented this text chain as if it was yours. In fact, you explicitly say I.
+
+Anchored Artifacts: A-2019.1
+Mentions: N-3, N-272, N-229, N-277, N-276
+Related Nodes: N-10272
+Supports: C-1762
+Tags: relevance:core
+Investigative Direction: Compare the Shawn Ryan audio with the Flood and Long messages to find the exact wording used.
+
+---
+
+**C-10381** Host Says the Lawsuit Misstates That She Confirmed Mitch's Identification of Harpole
+
+Claim Timestamp: 00:27:39
+
+Claim: The host says the lawsuit's lawyer claims she asserted over and over that Mitch Snow was telling the truth about Harpole, when she repeatedly said publicly that she could not confirm Mitch saw Harpole.
+
+Transcript Snippet: I went through a great many pains to repeatedly assert publicly that I could not confirm that he saw Harpole
+
+Anchored Artifacts: A-2015.9
+Mentions: N-3, N-272, N-369
+Related Nodes: N-10373
+Supports: C-2823
+Tags: relevance:core
+Investigative Direction: Compile every on-air statement by the host on whether Harpole was identified and compare them to the complaint's characterization.
+
+---
+
+**C-10382** Host Plays Her Interview Line That She Cannot Confirm Who Mitch Saw
+
+Claim Timestamp: 00:29:07
+
+Claim: In an audio clip of her interview with Mitch Snow, the host says she cannot confirm that he saw who he says he saw.
+
+Transcript Snippet: I obviously can't confirm that you saw who you say you saw. I obviously can't confirm that you saw who you say you saw.
+
+Anchored Artifacts: A-3076.1
+Mentions: N-3, N-369
+Related Nodes: N-10373
+Supports: C-2822
+Tags: relevance:core
+Investigative Direction: Obtain the full Mitch Snow interview and verify the clip is in context and its date.
+
+---
+
+**C-10383** Host Says in the Interview That She Confirmed Mitch's Route and Meeting With Metadata
+
+Claim Timestamp: 00:29:07
+
+Claim: In the same clip, the host says she can confirm every step of Mitch's story, including where he went and what time, that there was a big meeting, confirmed with other people at Fort Huachuca and with metadata.
+
+Transcript Snippet: I confirmed the location with other people that are that are on uh Fort Huachuca currently. I can confirm everything with metadata.
+
+Anchored Artifacts: A-3076.1
+Mentions: N-3, N-369
+Related Nodes: N-10373
+Tags: relevance:core
+Investigative Direction: Obtain the metadata files and the identities of the Fort Huachuca sources used to confirm the location.
+
+---
+
+**C-10384** Host's X Post Says Mitch Was Taken Outside and Questioned by Captain Neff
+
+Claim Timestamp: 00:29:59
+
+Claim: The host reads her December 23 X post, which says Mitch said he was first taken outside by Captain Neff and questioned for a long time.
+
+Transcript Snippet: Remember, Mitch said he was at first taken outside by Captain Neff and questioned for a long time.
+
+Anchored Artifacts: A-2020.1
+Mentions: N-3, N-369, N-326
+Related Nodes: N-10373
+Supports: C-5390
+Tags: relevance:core
+Investigative Direction: Obtain the incident report and any base logs naming Captain Neff on the morning described.
+
+---
+
+**C-10385** Host Says Brigitte Macron Claimed She Was a UK Dual Citizen
+
+Claim Timestamp: 00:31:04
+
+Claim: The host says a lawsuit filing by Brigitte Macron's side asserted that she is a dual citizen of the UK, and that she is not.
+
+Transcript Snippet: case in point, Brigitte said I was a dual citizen of the UK.
+
+Anchored Artifacts: 
+Mentions: N-3, N-82
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Locate the Macron filing language on citizenship and the host's citizenship records.
+
+---
+
+**C-10386** Host Says the Klacik Suit Was Dropped in Discovery
+
+Claim Timestamp: 00:32:15
+
+Claim: The host says Kim Klacik sued after the host called her a former stripper, took it to discovery, then folded and wanted to walk away when the host began presenting evidence from strippers who knew her.
+
+Transcript Snippet: she took it to discovery and then she folded. Right? She folded and wanted to sign an agreement and say, let's let's walk away and not talk about it
+
+Anchored Artifacts: 
+Mentions: N-3, N-442
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Pull the docket and any settlement or dismissal record from the Klacik case.
+
+---
+
+**C-10387** Host Says Harpole's Lawyer Had Been in Contact With Her Lawyers for Two Years
+
+Claim Timestamp: 00:33:47
+
+Claim: The host says the lawyer has full access to her lawyers in Tennessee, has been in communication with them for two years, and never raised a single issue until the end of April.
+
+Transcript Snippet: You're dealing with a lawyer that has full access to my lawyers in the state of Tennessee, has been in communication with them for 2 years. He never raises a single issue until the end of April?
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10651
+Tags: relevance:core
+Investigative Direction: Ask the host's counsel for correspondence with Harpole's lawyer over the past two years.
+
+---
+
+**C-10388** Host Says She Received the Lawsuit a Couple of Hours Before Recording
+
+Claim Timestamp: 00:33:47
+
+Claim: The host says she received the lawsuit only a couple of hours before the broadcast and has not yet decided how to respond because she must speak with her husband.
+
+Transcript Snippet: I obviously just received this lawsuit a couple of hours ago and I am not therefore at liberty to assert what we will or will not do
+
+Anchored Artifacts: A-2015.1
+Mentions: N-3, N-30
+Related Nodes: N-11258
+Tags: relevance:context
+Investigative Direction: Check the docket filing time and the service record against the host's account.
+
+---
+
+**C-10389** Host Says Farnsworth Has Never-Seen Footage She Would Subpoena
+
+Claim Timestamp: 00:34:51
+
+Claim: The host says Terrell Farnsworth has footage from every angle that the public has never seen, and that if Harpole claims he rendered first aid she would seek to subpoena that footage.
+
+Transcript Snippet: Terrell Farnsworth actually has footage the public has never seen from every angle.
+
+Anchored Artifacts: 
+Mentions: N-3, N-267, N-272
+Related Nodes: N-11258, N-10812
+Tags: relevance:core
+Investigative Direction: Seek the footage through discovery or a subpoena in the Harpole action and identify its custodians.
+
+---
+
+**C-10390** Coleman Audio Says Erika's Side Cited a Laughing-Face Text Joke
+
+Claim Timestamp: 00:43:04
+
+Claim: In the Baron Coleman clip, Coleman says Erika's side pointed to a text message in which the host joked with a friend and put a laughing face on it, and that no one assumed that was what Erika was referring to.
+
+Transcript Snippet: I saw a text message where she was joking around with a friend and she even put a laughing face on it.
+
+Anchored Artifacts: A-2021.1
+Mentions: N-337, N-3, N-2
+Related Nodes: N-10641, N-10647
+Tags: relevance:core
+Investigative Direction: Obtain the full text exchange and its recipient, and Erika Kirk's statement referencing it.
+
+---
+
+**C-10391** Host Says Erika's Team Attacked Joe Kent for Asking About Foreign Influence
+
+Claim Timestamp: 00:44:39
+
+Claim: The host says Erika Kirk showed no interest in exploring other options or foreign influence, and that her team is attacking Joe Kent for asking that question.
+
+Transcript Snippet: her team is attacking Joe Kent for asking that question.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-213
+Related Nodes: N-10546
+Tags: relevance:core
+Investigative Direction: Collect posts by Erika Kirk's team attacking Joe Kent and compare to his public remarks on foreign influence.
+
+---
+
+**C-10392** Host Says Erika Lied About Dr. Lee Trotter's Words
+
+Claim Timestamp: 00:45:35
+
+Claim: The host says Erika Kirk lied about Dr. Lee Trotter's words, which she calls significant.
+
+Transcript Snippet: Her lying about Dr. Lee Trotter's words. That is significant.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-199
+Related Nodes: N-10358
+Supports: C-5187
+Tags: relevance:core
+Investigative Direction: Compare Erika Kirk's attributions to Dr. Trotter with his own statements.
+
+---
+
+**C-10393** Host Says Erika Colluded With Kolvet on the Man of Steel Statement and Denied It
+
+Claim Timestamp: 00:45:35
+
+Claim: The host says Erika Kirk colluded with Andrew Kolvet on the 'man of steel' statement and then flatly denied to the host's face that she did.
+
+Transcript Snippet: Colluding with Andrew Kolbatz on an absurd man of steel statement and then flatly denying to my face that she did that.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-14
+Related Nodes: N-10341, N-10358
+Tags: relevance:core
+Investigative Direction: Obtain the host's December 15 meeting notes or recording and Kolvet's drafting records for the statement.
+
+---
+
+**C-10394** Host Says Donors Tell Her the AmFest Audio Claim Is a Lie
+
+Claim Timestamp: 00:45:35
+
+Claim: The host says donors told her that Erika Kirk is lying about the audio clip presented at AmFest, in which Charlie names her, and that it never went down.
+
+Transcript Snippet: Donors literally telling me that she is lying about the audio clip that she presented at AmFest.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-1
+Related Nodes: N-10664, N-10437
+Supports: C-2694
+Tags: relevance:core
+Investigative Direction: Identify the donors present at the Aspen event and obtain on-record statements about whether Kirk named Erika.
+
+---
+
+**C-10395** Host Says TPUSA Has Not Released the Video of Charlie Naming Erika CEO
+
+Claim Timestamp: 00:46:23
+
+Claim: The host says TPUSA has not released the video that would answer the donors' claims, and calls on them to release the video of Charlie naming Erika CEO.
+
+Transcript Snippet: They have not yet released the video to answer the claims being made by the donors that were in attendance.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-2
+Related Nodes: N-10664
+Tags: relevance:core
+Investigative Direction: Request the original recording with metadata and the venue and date of capture from TPUSA.
+
+---
+
+**C-10396** Host Says Kolvet Treats a Private Chat Mocking Weiss as a Statement by Her
+
+Claim Timestamp: 00:46:23
+
+Claim: The host says Kolvet is pretending that a private correspondence in which they mocked Bari Weiss's insinuations counted as the host making a statement.
+
+Transcript Snippet: pretending that that little private correspondence where we we mocked Barry Weiss's insinuations that that that somehow counted to me making a statement.
+
+Anchored Artifacts: 
+Mentions: N-3, N-14, N-284
+Related Nodes: N-10641
+Tags: relevance:core
+Investigative Direction: Obtain the full private chat between the host and Kolvet and its date.
+
+---
+
+**C-10397** Host Gives Permission to Release the Entire Chat With Kolvet
+
+Claim Timestamp: 00:47:14
+
+Claim: The host says she gives full permission for Kolvet to release the entire chat.
+
+Transcript Snippet: Like I said, release the entire chat. I you have my full permission.
+
+Anchored Artifacts: 
+Mentions: N-3, N-14
+Related Nodes: N-10641
+Tags: relevance:core
+Investigative Direction: Request that Kolvet or TPUSA publish the full chat and verify its completeness.
+
+---
+
+**C-10398** Host Says Kolvet Insinuated She Went Into the December 15 Meeting Convinced of Erika's Guilt
+
+Claim Timestamp: 00:47:14
+
+Claim: The host says Kolvet is insinuating she entered her December 15 conversation with Erika already convinced of her guilt, which she calls untrue.
+
+Transcript Snippet: since what you are attempting to falsely insinuate is that I went into that conversation with Erika on December 15th already convinced of her guilt, which is patently untrue.
+
+Anchored Artifacts: 
+Mentions: N-3, N-14, N-2
+Related Nodes: N-10649
+Tags: relevance:core
+Investigative Direction: Obtain the December 15 meeting notes and any recording, plus Kolvet's statement making the insinuation.
+
+---
+
+**C-10399** Host Says She Told Erika Someone at TPUSA Pointed Her Toward Kolvet
+
+Claim Timestamp: 00:48:00
+
+Claim: The host says she told Erika Kirk that someone at Turning Point USA got a message to her saying she should look further into Andrew Kolvet.
+
+Transcript Snippet: someone at Turning Point USA got a message out to me. And that message was that I need to look further into Andrew Kolbatz.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-14
+Related Nodes: N-10649
+Tags: relevance:core
+Investigative Direction: Ask Erika Kirk whether the host made this disclosure on December 15 and identify the third party.
+
+---
+
+**C-10400** Host Says Mikey McCoy Sent the Message About Kolvet Through a Third Party
+
+Claim Timestamp: 00:48:52
+
+Claim: The host says the message urging her to look more into Andrew Kolvet came from Mikey McCoy via a third-party person, and not from Aubrey as Kolvet insinuates.
+
+Transcript Snippet: It was Mikey McCoy. Mikey McCoy got a message out to me uh via a third-party person that I should look more into Andrew Kolbatz.
+
+Anchored Artifacts: 
+Mentions: N-3, N-194, N-14, N-563
+Related Nodes: N-10649
+Tags: relevance:core
+Investigative Direction: Identify the third-party intermediary and obtain the message; ask McCoy to confirm or deny.
+
+---
+
+**C-10401** Host Says Kolvet Was Her Number One Early Source and Cannot Show What Aubrey Gave Her
+
+Claim Timestamp: 00:48:52
+
+Claim: The host says Kolvet cannot produce the information he claims Aubrey Lech gave her, and that Kolvet was her number one source in the beginning.
+
+Transcript Snippet: you can still cannot produce the information that you are claiming that Aubrey Lich gave to me that I share on this platform. You were my number one source, Andrew, in the beginning.
+
+Anchored Artifacts: 
+Mentions: N-3, N-14, N-563
+Related Nodes: N-10552
+Tags: relevance:core
+Investigative Direction: Ask Kolvet to specify the information attributed to Aubrey Lech and compare it against the host's published material.
+
+---
+
+**C-10402** Host Says Lawler and Gottheimer Take More Than a Million Dollars From AIPAC
+
+Claim Timestamp: 00:52:10
+
+Claim: The host says Mike Lawler and Josh Gottheimer, who brought the resolution forward, each take more than a million dollars from AIPAC.
+
+Transcript Snippet: these two people I I both of them brought this forward take more than a million dollars from AIPAC.
+
+Anchored Artifacts: A-2024.1
+Mentions: N-3, N-437, N-438
+Related Nodes: N-10083, N-10648
+Tags: relevance:context
+Investigative Direction: Check FEC and OpenSecrets records for AIPAC-linked contributions to Lawler and Gottheimer.
+
+---
+
+**C-10403** Resolution Text Alleges Candace Cast Doubt on Holocaust Survivors
+
+Claim Timestamp: 00:52:10
+
+Claim: The host reads resolution text alleging she promoted false claims that Jews are taught by ancient religious texts to hate non-Jews and cast doubt on the truth of Holocaust survivors.
+
+Transcript Snippet: Government promoting false claims that that Jews are taught by ancient religious texts to hate non-Jews and casting doubt on the truth of Holocaust survivors.
+
+Anchored Artifacts: A-2024.1
+Mentions: N-3, N-437, N-438
+Related Nodes: N-10648
+Tags: relevance:context
+Investigative Direction: Obtain the full resolution text and its cited sources for each recital.
+
+---
+
+**C-10404** Host Says Satanic Pedophiles Working for Israel Refers to the Epstein Class
+
+Claim Timestamp: 00:52:50
+
+Claim: The host says her statement about satanic pedophiles working for Israel refers to Epstein and those who defended the Epstein class, and is not about Jews generally.
+
+Transcript Snippet: Satanic pedophiles working for Israel, we're talking about Epstein and everyone who has defended the Epstein class, okay?
+
+Anchored Artifacts: A-2024.1
+Mentions: N-3, N-9
+Related Nodes: N-10648
+Tags: relevance:context
+Investigative Direction: Locate the host's original statement and compare it with the resolution's paraphrase.
+
+---
+
+**C-10405** Host Says Epstein Was a Satanic Pedophile Who Worked for Israel
+
+Claim Timestamp: 00:52:50
+
+Claim: The host asserts that Jeffrey Epstein was a satanic pedophile who worked for Israel, which she says is abundantly true and not a conspiracy.
+
+Transcript Snippet: That a satanic pedophile like Jeffrey Epstein worked for Israel. These are This is abundantly true.
+
+Anchored Artifacts: 
+Mentions: N-3, N-9
+Related Nodes: N-10023
+Tags: relevance:context
+Investigative Direction: Identify public records on Epstein's alleged intelligence ties; the host offers no document on air.
+
+---
+
+**C-10406** Host Says Trump Asked 'What Are We Still Talking About' on Epstein
+
+Claim Timestamp: 00:52:50
+
+Claim: The host says Donald Trump asked 'What are we still talking about Jeffrey Epstein?' and that this is when he lost her entirely.
+
+Transcript Snippet: When Donald Trump said, "What are we still talking about Jeffrey Epstein?" That is when he lost me entirely.
+
+Anchored Artifacts: 
+Mentions: N-3, N-5, N-9
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Locate the Trump remark and its date and context.
+
+---
+
+**C-10407** Host Says the Resolution Accuses Her of Claiming Jews Kill Christian Children
+
+Claim Timestamp: 00:53:42
+
+Claim: The host says the resolution alleges she repeated false claims that Jews are killing Christian children, and that she never said that.
+
+Transcript Snippet: It then goes on and says um that I repeated false claims that Jews are chil- killing Christian children.
+
+Anchored Artifacts: A-2024.1
+Mentions: N-3, N-437, N-438
+Related Nodes: N-10648
+Tags: relevance:context
+Investigative Direction: Search the host's transcripts for the alleged statement and for the source the resolution cites.
+
+---
+
+**C-10408** Host Says Florida Police Visit People Over Tweets
+
+Claim Timestamp: 00:57:59
+
+Claim: The host says police in Florida are showing up at people's doors asking if they sent a tweet.
+
+Transcript Snippet: They want Europe. They want what's already happening in Florida. Police showing up on your door asking you if you sent a tweet.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Identify specific Florida cases of police visits over social media posts.
+
+---
+
+**C-10409** Leavitt Audio Says Commentators' Rhetoric Inspires Political Violence
+
+Claim Timestamp: 00:58:44
+
+Claim: In the clip, Karoline Leavitt says political violence stems from systemic demonization by commentators, Democrats and some media, and that deranged smears have led crazy people to believe crazy things.
+
+Transcript Snippet: This political violence stems from a systemic demonization of him and his supporters by commentators, yes, by elected members of the Democrat Party, and even some in the media.
+
+Anchored Artifacts: A-2025.1
+Mentions: N-286
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Obtain the White House briefing transcript with date.
+
+---
+
+**C-10410** Host Reads Melania Trump's Post Calling Kimmel's Joke Hateful
+
+Claim Timestamp: 00:59:40
+
+Claim: The host says Melania Trump tweeted that Jimmy Kimmel's joke, made before the shooting, was hateful and violent rhetoric intended to divide the country.
+
+Transcript Snippet: Melania Trump she tweeted and said this about Jimmy Kimmel. Jimmy Kimmel's vote of joke that happened before the shooting. That it was hateful and violent rhetoric intended to divide our country.
+
+Anchored Artifacts: A-2026.1
+Mentions: N-613, N-87
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Retrieve the original Melania Trump post and its date.
+
+---
+
+**C-10411** Host Says Charlie Laughed Off South Park's Master Debater Episode
+
+Claim Timestamp: 01:01:07
+
+Claim: The host says Charlie Kirk notoriously laughed when South Park dedicated an entire episode referring to him as the master debater.
+
+Transcript Snippet: Charlie laughed at people when they made jokes of him, notoriously laughed when South Park dedicated an entire episode referring to him as the master debater.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Locate the South Park episode and Kirk's public reaction.
+
+---
+
+**C-10412** Host Says the US Bombed 150 Schoolgirls in Iran and Lied About It
+
+Claim Timestamp: 01:06:42
+
+Claim: The host says the US randomly dropped a bomb on 150 schoolgirls in Iran and then lied about it.
+
+Transcript Snippet: when you guys just like randomly dropped a bomb on 150 schoolgirls in Iran and then lied to us about it.
+
+Anchored Artifacts: 
+Mentions: N-3, N-5
+Related Nodes: 
+Supports: C-7121
+Tags: relevance:context
+Investigative Direction: Check official US and Iranian accounts of the strike and the later statements about it.
+
+---
+
+**C-10413** Host Says Loomer Claimed She Was Hiding Money in a Trust
+
+Claim Timestamp: 01:08:34
+
+Claim: The host says Laura Loomer said the host was hiding money in a trust, including from Brigitte Macron, which the host calls completely untrue.
+
+Transcript Snippet: This was like Laura Loomer hiding money in a trust. She She She said I was hiding money in a trust. Completely untrue.
+
+Anchored Artifacts: 
+Mentions: N-3, N-60, N-82
+Related Nodes: 
+Supports: C-8759
+Tags: relevance:context
+Investigative Direction: Locate Loomer's posts on the trust claim and the host's financial structure records.
+
+---
+
+**C-10414** Host Says Harpole's Lawyer Matt Slauson Was Retweeting Laura Loomer
+
+Claim Timestamp: 01:08:34
+
+Claim: The host says Harpole's attorney, Matt Slauson, definitively was retweeting Laura Loomer, which she says feels like anticipated coordination before the lawsuit.
+
+Transcript Snippet: this lawyer, Matt Slauson, the one who speaks like he has helium. Like he's just ingested some helium. Uh definitively was retweeting Laura Loomer.
+
+Anchored Artifacts: 
+Mentions: N-3, N-877, N-60
+Related Nodes: N-10651
+Tags: relevance:core
+Investigative Direction: Review the lawyer's public posting history for Loomer retweets and their dates relative to the filing.
+
+---
+
+**C-10415** Host Says Trump Was Signaling to Erika That She Should Sue People
+
+Claim Timestamp: 01:09:37
+
+Claim: The host says Donald Trump was signaling to Erika Kirk that she should sue people.
+
+Transcript Snippet: And Trump was signaling you should sue people to to Erika.
+
+Anchored Artifacts: 
+Mentions: N-3, N-5, N-2
+Related Nodes: N-10651
+Tags: relevance:context
+Investigative Direction: Find the Trump remarks urging lawsuits and whether they referenced Erika Kirk.
+
+---
+
+**C-10416** Host Says Getting to Discovery Costs Hundreds of Thousands of Dollars
+
+Claim Timestamp: 01:09:37
+
+Claim: The host says her husband will tell her that these lawsuits cost hundreds of thousands of dollars to reach the discovery phase.
+
+Transcript Snippet: these lawsuits to get to that phase is hundred hundreds of thousands of dollars.
+
+Anchored Artifacts: 
+Mentions: N-3, N-30
+Related Nodes: N-11258
+Tags: relevance:context
+Investigative Direction: Ask the host's counsel for a budget estimate; the figure is her husband's stated expectation.
+
+---
+
+**C-10417** Viewer Comment Cites UVU's Drone Authorization Form
+
+Claim Timestamp: 01:11:10
+
+Claim: The host reads a viewer comment saying UVU requires a form titled 'request for authorization to operate a drone' with the office of risk management, and asks whether Harpole filed it and was denied.
+
+Transcript Snippet: UVU just requires you to fill out a form which is titled request for authorization to operate a drone with the office of risk management.
+
+Anchored Artifacts: A-2029.1
+Mentions: N-272
+Related Nodes: N-10645, N-10012
+Tags: relevance:core
+Investigative Direction: Request the UVU drone authorization form records for the event under GRAMA.
+
+---
+
+**C-10418** Host Says Harpole Has Not Given Her an Alibi for the Morning of September 9
+
+Claim Timestamp: 01:11:50
+
+Claim: The host says she has so far not been given an alibi for the morning of September 9 despite the lawsuit asserting one.
+
+Transcript Snippet: But I have thus far not been given an alibi for the morning of September 9th despite you asserting that in the lawsuit.
+
+Anchored Artifacts: 
+Mentions: N-3, N-272
+Related Nodes: N-10643, N-10373
+Tags: relevance:core
+Investigative Direction: Ask Harpole's counsel for dated receipts, location data or travel records for the morning of September 9.
+
+---
+
+**C-10419** Host Says Flights She Has Left Dallas in the Afternoon
+
+Claim Timestamp: 01:11:50
+
+Claim: The host says she has Harpole's flights and they were afternoon departures from Dallas at 2:19, 1:19 and 1:39.
+
+Transcript Snippet: The flights were for what? 2:19, 1:19, 1:39 in the afternoon from Dallas.
+
+Anchored Artifacts: A-3077.1
+Mentions: N-3, N-272
+Related Nodes: N-10643, N-10373
+Tags: relevance:core
+Investigative Direction: Obtain the flight records the host refers to and verify the times, routes and the source of the records.
+
+---
+
+**C-10420** Host Says Mitch Placed the Meeting's End at 7:30 and Flights Could Reach Dallas by 10
+
+Claim Timestamp: 01:11:50
+
+Claim: The host says Mitch says the meeting concluded at 7:30 a.m., and that there were flights that left Fort Huachuca and got back into Dallas by 10:00 a.m.
+
+Transcript Snippet: Mitch says the meeting concluded at 7:30 a. m. There were flights that left Fort Huachuca and got back into Dallas by 10:00 a. m.
+
+Anchored Artifacts: A-3077.1
+Mentions: N-3, N-369
+Related Nodes: N-10643, N-10373
+Tags: relevance:core
+Investigative Direction: Identify the specific flights the host means and check them against Harpole's travel records.
+
+---
+
+**C-10421** Host Says She Was Wrong About Harpole
+
+Claim Timestamp: 01:12:38
+
+Claim: The host says she was sympathetic to Harpole and was deeply wrong about him, and that she shouldn't have defended him immediately.
+
+Transcript Snippet: I was sympathetic to you and I was wrong about you is what I will say. I was deeply wrong about you.
+
+Anchored Artifacts: 
+Mentions: N-3, N-272
+Related Nodes: N-10373
+Qualifies: C-2820
+Tags: relevance:core
+Investigative Direction: Compare this statement with her September 2025 defense of the security team and with later episodes on Harpole.
+
+---
+
+**C-10422** Host Says She Was Smeared and Blocked From Travelling to Australia in 2023-2024
+
+Claim Timestamp: 01:13:25
+
+Claim: The host says that in 2023 to 2024 she was smeared and people tried to stop her from being able to travel to Australia.
+
+Transcript Snippet: they smeared me, tried to stop me from being able to travel to Australia.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Supports: C-7946
+Tags: relevance:tangential
+Investigative Direction: Review Australian visa decisions and related correspondence; the host gives no documents on air.
+
+---
+
+## 6. Meme Register
+
+**M-153** (meme) Sentencing TPUSA to More Truth
+
+### Occurrence 1
+
+Video Timestamp: 00:00:01
+Speaker: N-3
+Quote: She is sentenced to more truth
+Context: Host sentences Erika Kirk to more truth in the opener.
+Tags: sentence, truth
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:47:14
+Speaker: N-3
+Quote: I must sentence Andrew and Erika to more truth.
+Context: Host sentences Kolvet and Erika to more truth before revealing the McCoy message.
+Tags: sentence, truth
+Confidence: high
+
+---
+
+**M-19** (meme) Go Max
+
+### Occurrence 1
+
+Video Timestamp: 01:09:37
+Speaker: N-3
+Quote: We can just start actually selling that Go Max gear.
+Context: Host jokes about selling Go Max merchandise after a viewer comment.
+Tags: go max, merch
+Confidence: high
+
+---
+
+**M-33** (meme) Just Asking Questions
+
+### Occurrence 1
+
+Video Timestamp: 00:33:47
+Speaker: N-3
+Quote: Again, I'm asking questions here.
+Context: Host frames her theory that the lawsuit is a PR move as a question.
+Tags: questions
+Confidence: high
+
+---
+
+**M-76** (meme) Genocide Is Always Wrong
+
+### Occurrence 1
+
+Video Timestamp: 01:10:28
+Speaker: N-3
+Quote: no genocide is always wrong
+Context: Host cites the line as an example of doing the right thing over money.
+Tags: genocide
+Confidence: high
+
+---
+
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 01:04:18
+Speaker: N-3
+Quote: not accepting this fed slop narrative regarding Charlie Kirk
+Context: Host describes independent media rejecting the official narrative.
+Tags: fed slop
+Confidence: high
+
+---
+
+**M-265** (meme) Power of Subpoena
+
+### Occurrence 1
+
+Video Timestamp: 00:00:48
+Speaker: N-3
+Quote: I believe that that would grant me, your girl, the power of subpoena.
+Context: Host jokes the lawsuit grants her the power of subpoena.
+Tags: subpoena, lawsuit
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:34:51
+Speaker: N-3
+Quote: Are we ever going to have an opportunity to have the power of subpoena?
+Context: Host argues the lawsuit may be her only chance to force depositions.
+Tags: subpoena, lawsuit
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:38:10
+Speaker: N-3
+Quote: The power of subpoena is well, it's it's a power.
+Context: Host closes the first half calling subpoena a tool for truth.
+Tags: subpoena, lawsuit
+Confidence: high
+
+### Occurrence 4
+
+Video Timestamp: 01:05:11
+Speaker: N-3
+Quote: if you have an opportunity to subpoena people for truth, maybe take it.
+Context: Host urges viewers to use subpoenas for truth in the closing.
+Tags: subpoena, lawsuit
+Confidence: high
 
 ---
 

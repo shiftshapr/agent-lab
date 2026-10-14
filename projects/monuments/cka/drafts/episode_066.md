@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: d6f25b223ac060e3fb4bd1a3b2ff9ed6020bdf9ce5285c402437d5a9666ec240
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-11182, N-11183
+  - Tip-minted Nodes (supplement_2026-10c): N-11183
   - Hole-minted Nodes (reintro-ep066): N-10653
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8317–C-8375
@@ -37,8 +37,8 @@
 
 - Artifact Families Introduced: A-1704, A-1705, A-1706, A-1707, A-1708, A-1709, A-1710, A-1711, A-1712, A-1713
 - Claim Range: C-2239–C-2252
-  - New Nodes Introduced: N-524, N-525, N-526, N-527, N-528, N-529, N-530, N-10466, N-10467, N-10468, N-10469
-  - Reused Nodes Appearing: N-9, N-36, N-40, N-57, N-93, N-99, N-736, N-10000, N-10002, N-10015, N-10026, N-10059, N-10070, N-10209, N-10324, N-10439, N-10492, N-10869, N-10899, N-11014, N-11035
+  - New Nodes Introduced: N-524, N-525, N-526, N-527, N-528, N-529, N-530, N-10466, N-10468, N-10469
+  - Reused Nodes Appearing: N-9, N-36, N-40, N-57, N-93, N-99, N-736, N-10000, N-10002, N-10015, N-10026, N-10059, N-10070, N-10209, N-10324, N-10439, N-10492, N-10869, N-10899, N-11014, N-11035, N-10467, N-11182
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---

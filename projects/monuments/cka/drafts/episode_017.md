@@ -12,8 +12,13 @@
 - **Transcript SHA-256**: e4286a0b61383af611c043d024b0489af5ef017ef3077d05883a51910942c352
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10d): N-11219
+  - Hole-minted Nodes (reintro-ep017): N-185, N-10206, N-10345, N-10646, N-10650
+  - Tip-minted Nodes (reintro-ep017): N-11010
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10d): C-9324–C-9398
   - New Nodes Introduced: N-164, N-165, N-166, N-167, N-169, N-170, N-171, N-172, N-173, N-174, N-176, N-10174, N-10175, N-10176, N-10177, N-10178, N-10179
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-36, N-46, N-71, N-102, N-141, N-157, N-158, N-384, N-10000, N-10015, N-10018, N-10025, N-10027, N-10056, N-10106, N-10125, N-10163, N-10169, N-11099
 
 **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk – referenced via text-message claims), N-? (Candace Owens), N-? (Tucker Carlson), N-? (Tyler Robinson), N-? (Benjamin Netanyahu), N-? (Megyn Kelly), N-? (Matt Gaetz), N-? (Michael Knowles), N-? (Ian Carroll), N-? (Max Blumenthal), N-11
 
@@ -295,6 +300,61 @@ Confidence: medium
 
 ---
 
+**A-3002** Tip Line Email Verbal Reference Bundle
+
+**A-3002.1** Host verbal reference to the tips@candaceowens.com and more tips@candaceowens.com addresses for UVU footage (spoken request, nothing shown)
+
+Quoted text: "Uh you can send that, by the way, to uh tips@candaceowens. com. We also have more tips@candaceowens. com."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:44:03
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-9365, N-3*
+
+---
+
+**A-3003** UVU Left-Side Footage Request Graphic Bundle
+
+**A-3003.1** On-screen graphic or images highlighting the section on Charlie's left side where the host says she lacks footage (described by the host; the graphic itself is not captured in the transcript)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:43:02
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-9364, N-3, N-1*
+
+---
+
+**A-3004** Mappin Letter Verbal Reference Bundle
+
+**A-3004.1** Host verbal reference to a letter written by John and Arena Mappin (transcribed Mapel) the previous day (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 01:07:16
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-9389, N-157, N-158*
+
+---
+
+**A-3005** Viewer Comment Read-Aloud Bundle
+
+**A-3005.1** Viewer comment from Can Erb read aloud by the host about Charlie wanting her on stage at AmFest
+
+Quoted text: "Charlie wanted you on stage AmFest. They tried to stop him, but in doing so, he made sure that you had an even bigger stage."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 01:10:16
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-9394, N-1, N-3*
+
+---
 
 ## IV. Node Register
 
@@ -630,6 +690,262 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 ---
 
+**N-1** Charlie Kirk
+
+Subject of the assassination; the host reports his statements, pressure and security.
+
+*Related: C-9324, C-9325, C-9326, C-9328, C-9329, C-9330, C-9336, C-9339, C-9340, C-9341, C-9346, C-9347, C-9348, C-9349, C-9350, C-9351, C-9352, C-9353, C-9354, C-9355, C-9356, C-9357, C-9358, C-9360, C-9361, C-9363, C-9364, C-9366, C-9369, C-9370, C-9373, C-9375, C-9378, C-9379, C-9381, C-9382, C-9384, C-9385, C-9387, C-9388, C-9389, C-9392, C-9394, C-9398, A-3003.1, A-3005.1*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-9327, C-9328, C-9329, C-9330, C-9331, C-9333, C-9334, C-9336, C-9339, C-9342, C-9346, C-9347, C-9348, C-9349, C-9352, C-9353, C-9354, C-9355, C-9356, C-9357, C-9358, C-9359, C-9360, C-9361, C-9362, C-9363, C-9364, C-9365, C-9366, C-9367, C-9368, C-9369, C-9370, C-9371, C-9372, C-9373, C-9374, C-9375, C-9376, C-9377, C-9378, C-9379, C-9380, C-9386, C-9387, C-9388, C-9389, C-9390, C-9391, C-9392, C-9393, C-9394, C-9395, C-9396, C-9397, C-9398, A-3002.1, A-3003.1, A-3005.1*
+
+---
+
+**N-5** Donald Trump
+
+Donald Trump; author of the 2013 post Hammer retweeted, and the person Jones says Kirk helped win young votes for.
+
+*Related: C-9384*
+
+---
+
+**N-22** Tucker Carlson
+
+Tucker Carlson; the host says he and she were told to lay low and that he can confirm her call.
+
+*Related: C-9327, C-9352, C-9361, C-9370, C-9371, C-9372, C-9373, C-9392, C-9397*
+
+---
+
+**N-36** Benjamin Netanyahu
+
+Benjamin Netanyahu; the invitation to Kirk, the number question and the 24-hour denial.
+
+*Related: C-9348, C-9349, C-9362, C-9363*
+
+---
+
+**N-46** Megyn Kelly
+
+Megyn Kelly; named in the JTV discussion and by the host as having spoken about pressure on Charlie.
+
+*Related: C-9343, C-9360, C-9361, C-9397*
+
+---
+
+**N-49** Max Blumenthal
+
+Max Blumenthal; recipient of the host's information package.
+
+*Related: C-9377, C-9395*
+
+---
+
+**N-55** Josh Hammer
+
+Josh Hammer; subject of the episode, whose retweet, Zoom call and statements are examined.
+
+*Related: C-9324, C-9325, C-9326, C-9327, C-9328, C-9329, C-9330, C-9332, C-9333, C-9334, C-9335, C-9336, C-9338, C-9339, C-9340, C-9341, C-9342, C-9343, C-9344, C-9345, C-9346, C-9347, C-9356, C-9357, C-9358, C-9359*
+
+---
+
+**N-71** Matt Gaetz
+
+Matt Gaetz; Hammer's JTV example of a commentator who changed tone.
+
+*Related: C-9344, C-9345*
+
+---
+
+**N-102** Michael Knowles
+
+Michael Knowles; named in the JTV discussion of commentators.
+
+*Related: C-9343*
+
+---
+
+**N-141** Konstantin Kisin
+Konstantin Kisin (transcribed Constantin Kissin); the host says he told Megyn Kelly to make a statement against Candace and Tucker.
+
+*Related: C-9397*
+
+---
+
+**N-157** John Mappin
+
+John Mappin (transcribed Mapel); co-author of a letter the host references.
+
+*Related: C-9389, A-3004.1*
+
+---
+
+**N-158** Arena Mappin
+
+Arena Mappin (transcribed Mapel); co-author of a letter the host references.
+
+*Related: C-9389, A-3004.1*
+
+---
+
+**N-185** Sam Parker
+
+Sam Parker; the account Ali says the host quote tweeted.
+
+*Related: C-9333*
+
+---
+
+**N-384** Ian Carroll
+
+Ian Carroll; named by the JTV host and Hammer.
+
+*Related: C-9342*
+
+---
+
+**N-10000** Turning Point USA
+
+Turning Point USA; staff, executives and cooperation with the feds.
+
+*Related: C-9366, C-9384, C-9389, C-9390, C-9391*
+
+---
+
+**N-10015** Mossad
+
+Mossad; named in Jones's Savage anecdote.
+
+*Related: C-9383*
+
+---
+
+**N-10018** Netanyahu Israel Invitation Phone Call
+
+Existing topic reused for the Netanyahu invitation and number claims.
+
+*Related: C-9348, C-9349*
+
+---
+
+**N-10025** Israel Lobby Pressure on Conservative Figures
+
+Existing topic reused for claims about Israel-lobby pressure on Kirk.
+
+*Related: C-9339, C-9353, C-9360*
+
+---
+
+**N-10027** The Hamptons
+
+The Hamptons; location of the meeting the host says Hammer lied about.
+
+*Related: C-9328, C-9329*
+
+---
+
+**N-10056** Kirk-Israel Narrative Dispute
+
+Existing topic reused for claims about Kirk's views on Israel.
+
+*Related: C-9325, C-9326, C-9327, C-9330, C-9342, C-9352, C-9354, C-9361, C-9362, C-9363, C-9369, C-9381, C-9382, C-9386*
+
+---
+
+**N-10106** Moral Blackmail by Donors
+
+Existing topic reused for claims about donor pressure on Kirk.
+
+*Related: C-9339, C-9355, C-9394*
+
+---
+
+**N-10125** Utah
+
+Utah; where the host contrasts the Mormon community's reaction.
+
+*Related: C-9363, C-9393*
+
+---
+
+**N-10163** Pre-Assassination Group Chat Content
+
+Existing topic reused for claims about the pre-assassination group chat.
+
+*Related: C-9347, C-9355, C-9356, C-9357*
+
+---
+
+**N-10169** Josh Hammer Pre-Death Zoom Call Verification
+
+Existing topic reused for claims about the Hammer Zoom call.
+
+*Related: C-9324, C-9336, C-9340, C-9341, C-9346, C-9350, C-9357, C-9359*
+
+---
+
+**N-10206** TPUSA Text Chain Authenticity Verification
+
+Existing topic reused for the text chain.
+
+*Related: C-9347, C-9356*
+
+---
+
+**N-10345** Hampton Retreat Seth Dillon Confrontation
+
+Existing topic reused for Dillon at the Hamptons.
+
+*Related: C-9329*
+
+---
+
+**N-10646** TPUSA Rooftop Security Decision-Making Discrepancy
+
+Existing topic reused for claims about rooftop security.
+
+*Related: C-9387, C-9388*
+
+---
+
+**N-10650** Charlie Kirk September 9 Pre-Event Threat Text
+
+Existing topic reused for the pre-event 'they are going to kill me' text.
+
+*Related: C-9358, C-9379*
+
+---
+
+**N-11010** Lay-Low List Warning
+
+Existing topic reused for the lay-low calls.
+
+*Related: C-9370, C-9371, C-9372, C-9373*
+
+---
+
+**N-11099** Candace Owens Australia Visa Review
+
+Existing topic reused for the Australia visa claim.
+
+*Related: C-9396*
+
+---
+
+**N-11219** Charlie Kirk Security Company Ownership Question
+
+Node Type: Topic
+The host's statement that Charlie Kirk owned, and purchased outright, the security company around him, and that it did not check rooftops.
+
+*Related: C-9387, C-9388*
+
+---
+
 ## V. Claim Register
 
 **C-1404** Josh Hammer Retweeted 2013 Trump Public-Execution Tweet on September 9, 2025
@@ -936,6 +1252,1215 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 
 ---
 
+**C-9324** Host Says Hammer Admitted He and a Rabbi in Israel Spoke With Charlie the Night Before He Died
+
+Claim Timestamp: 00:00:00
+
+Claim: The host says Josh Hammer has already admitted that he and a rabbi in Israel had a long talk with Charlie Kirk the night before Kirk died, and that Hammer was very proud of it.
+
+Transcript Snippet: he and a rabbi in Israel had a long talk with Charlie the night before he died, something he was very proud
+
+Anchored Artifacts: 
+Mentions: N-55, N-1
+Related Nodes: N-10169
+Supports: C-1397
+Tags: relevance:core
+Investigative Direction: Obtain Hammer's own public statements and any call logs or invitations for the pre-assassination call with Kirk.
+
+---
+
+**C-9325** Host Says Hammer Claimed Charlie Was His Friend Who Never Flinched on Israel
+
+Claim Timestamp: 00:02:20
+
+Claim: The host says that after the assassination Hammer claimed Charlie Kirk was his friend, that Charlie never once flinched on the topic of Israel, and that he died loving Israel.
+
+Transcript Snippet: Charlie Kirk was his friend, he claimed, rather maniacally, uh that Charlie never once flinched on the topic of Israel. He died just loving Israel. It was like,
+
+Anchored Artifacts: A-1248.1
+Mentions: N-55, N-1
+Related Nodes: N-10056
+Tags: relevance:core
+Investigative Direction: Collect Hammer's post-assassination posts and interviews making the claim, and compare them with Kirk's own recorded statements on Israel.
+
+---
+
+**C-9326** Host Reads a Hammer Post Alleging a Repulsive Op to Hijack Charlie's Legacy
+
+Claim Timestamp: 00:02:20
+
+Claim: The host displays a collage of Josh Hammer posts and reads one saying there is a "repulsive op" to hijack Charlie Kirk's legacy, plus a second saying people are trying to posthumously convert Charlie to "Groperism".
+
+Transcript Snippet: There is a repulsive op right now to hijack Charlie Kirk's legacy. Uh there is a repulsive op right now desecrating Charlie's memory by trying to posthumously convert him to
+
+Anchored Artifacts: A-1248.1
+Mentions: N-55, N-1
+Related Nodes: N-10056
+Tags: relevance:context
+Investigative Direction: Retrieve the original Hammer posts from his X archive and confirm dates and wording.
+
+---
+
+**C-9327** Host Reads a Hammer Post Saying He Was Given Access to a Letter Months Earlier
+
+Claim Timestamp: 00:02:20
+
+Claim: In the Hammer posts the host reads, Hammer says he was given access to "this letter" a few months earlier and read it then, and adds that Tucker, Candace and other bad-faith actors are lying through their teeth about Charlie and Israel. The post does not name the letter in the transcript.
+
+Transcript Snippet: I was given access to this letter a few months ago, and I read it at that time. Tucker, Candace, and other bad-faith actors are lying through their teeth about Charlie and Israel. [03:10] Candace
+
+Anchored Artifacts: A-1248.1
+Mentions: N-55, N-22, N-3
+Related Nodes: N-10056
+Tags: relevance:core
+Investigative Direction: Find the Hammer post, identify which letter he meant (compare the May letter attributed to Kirk), and establish who gave him access and when.
+
+---
+
+**C-9328** Host Says Hammer Lied About the Hamptons Meeting
+
+Claim Timestamp: 00:03:58
+
+Claim: The host says the world now knows Josh Hammer had personal, intimate knowledge that Charlie Kirk's views on Israel were changing, that Hammer lied about the Hamptons meeting, and that she has told the truth about it from day one.
+
+Transcript Snippet: He lied about the Hamptons meeting. I've told you the truth from day one. Seth Dillon and Josh were personally upset with Charlie's defiance against the state of Israel. Seth Dillon was the more vocal of
+
+Anchored Artifacts: 
+Mentions: N-55, N-1, N-3
+Related Nodes: N-10178, N-10027
+Tags: relevance:core
+Investigative Direction: Compare Hammer's public account of the Hamptons meeting with attendee statements, photos and event records.
+
+---
+
+**C-9329** Host Says Dillon and Hammer Were Personally Upset With Charlie, Dillon More Vocal
+
+Claim Timestamp: 00:03:58
+
+Claim: The host says Seth Dillon and Josh Hammer were personally upset with Charlie Kirk's defiance against the state of Israel, and that Dillon was the more vocal of the two in pressing Charlie at the Hamptons.
+
+Transcript Snippet: Seth Dillon and Josh were personally upset with Charlie's defiance against the state of Israel. Seth Dillon was the more vocal of the two parties in the Hamptons, as I said, in terms of actually pressing Charlie, but both of
+
+Anchored Artifacts: 
+Mentions: N-38, N-55, N-1, N-3
+Related Nodes: N-10345, N-10027
+Supports: C-1173
+Tags: relevance:core
+Investigative Direction: Interview Hamptons attendees and obtain any messages in which Dillon or Hammer pressed Kirk on Israel.
+
+---
+
+**C-9330** Host Says It Is Now Established Hammer Knew Charlie's Israel Views Were Changing
+
+Claim Timestamp: 00:05:53
+
+Claim: The host says it is now an established fact that Josh Hammer knew Charlie Kirk's perspectives on Israel were changing.
+
+Transcript Snippet: the truth is that it is now an established fact, like I said, that Josh Hammer knew that Charlie Kirk's perspectives on Israel were
+
+Anchored Artifacts: 
+Mentions: N-55, N-1, N-3
+Related Nodes: N-10056
+Tags: relevance:core
+Investigative Direction: Identify Hammer's own statements and the call or messages that show he knew Kirk's views were shifting.
+
+---
+
+**C-9331** Host Alleges Yashar Ali Is Paid to Do PR for Zionists
+
+Claim Timestamp: 00:06:41
+
+Claim: The host alleges that Yashar Ali is literally paid to do PR for Zionists and says she knows this personally. No documentation is shown.
+
+Transcript Snippet: quite literally paid to do PR for Zionists. I know this personally.
+
+Anchored Artifacts: A-1237.1
+Mentions: N-164, N-3
+Tags: relevance:context
+Investigative Direction: Ask the host for the basis of the claim and check Ali's disclosed clients and any public contracts or filings.
+
+---
+
+**C-9332** Host Says Another X User Wrongly Claimed the Iryna Footage Was Released September 9
+
+Claim Timestamp: 00:07:48
+
+Claim: The host says another X user asserted that the footage of Iryna Zhuravska's murder was released on September 9 and that this was why Hammer posted, and the host says this is untrue because the footage was released and trended on September 5.
+
+Transcript Snippet: another user then jumped on that and tried to establish a non-fact that the footage of Iryna's murder was released on that day, on the 9th, and that's why Josh tweeted that.
+
+Anchored Artifacts: 
+Mentions: N-165, N-55
+Related Nodes: N-10179, N-10174
+Supports: C-1406
+Tags: relevance:context
+Investigative Direction: Identify the X user and compare the post time with the first release of the footage.
+
+---
+
+**C-9333** Host Reads Ali Saying She Quote Tweeted Sam Parker Who Flagged the Hammer Retweet
+
+Claim Timestamp: 00:07:48
+
+Claim: Reading Yashar Ali's post aloud, the host says Ali wrote that she quote tweeted a person Ali calls a notorious neo-Nazi, Sam Parker, who had pointed out that Hammer elevated a 2013 Trump tweet about public executions. The label is Ali's, not the host's.
+
+Transcript Snippet: Candace Owens quote tweeted notorious neo-Nazi Sam Parker, who pointed out that Josh Hammer, who is Jewish and was a friend of Charlie Kirk's, elevated
+
+Anchored Artifacts: A-1237.1
+Mentions: N-164, N-185, N-3, N-55
+Related Nodes: N-10174
+Tags: relevance:context
+Investigative Direction: Retrieve the host's quote tweet, the Sam Parker post it quoted and Ali's reply to confirm order and wording.
+
+---
+
+**C-9334** Host Says She Found No Hammer Call for the Death Penalty Over the Iryna Case Anywhere
+
+Claim Timestamp: 00:08:44
+
+Claim: The host says she could find no point at which Josh Hammer, on the news, on his own show or elsewhere, spoke about the death penalty or a public execution in connection with the Iryna Zhuravska case.
+
+Transcript Snippet: Josh, at no point that I could determine, whether he was on the news, whether he was on his own show, or anywhere else, did he speak about the death
+
+Anchored Artifacts: 
+Mentions: N-55, N-165, N-3
+Related Nodes: N-10174, N-10179
+Supports: C-1408
+Tags: relevance:core
+Investigative Direction: Search Hammer's show transcripts, media appearances and posts from August 22 to September 9 for death penalty or public execution language.
+
+---
+
+**C-9335** Host Says Hammer Himself Posted Several Times About the Zhuravska Homicide
+
+Claim Timestamp: 00:08:44
+
+Claim: The host says Hammer himself sent multiple tweets about the Iryna Zhuravska homicide, as many users did, because it was trending after the footage appeared on September 5.
+
+Transcript Snippet: Josh himself sent multiple tweets regarding the homicide, as everyone did, because, like I said, it was trending. Um
+
+Anchored Artifacts: 
+Mentions: N-55, N-165
+Related Nodes: N-10179, N-10174
+Tags: relevance:context
+Investigative Direction: Pull Hammer's posts from September 5 to 9 about the Zhuravska case and check whether any mention punishment.
+
+---
+
+**C-9336** Host Says Her Timeline Shows a Three-Hour Gap in Hammer's Posts Before the 9:09 p.m. Retweet
+
+Claim Timestamp: 00:11:50
+
+Claim: The host says that after Hammer's 5:59 p.m. Eastern post promoting a media appearance, her timeline shows a three-hour break before the 9:09 p.m. public-execution retweet. She speculates, saying she does not know, that this may have been when Hammer spoke to Charlie.
+
+Transcript Snippet: 5:59 p. m., he tweets uh a promotion of his media appearance regarding a Supreme Court decision. And then there's this 3-hour break. He put his phone down, maybe. Maybe
+
+Anchored Artifacts: A-1240.1
+Mentions: N-55, N-1, N-3
+Related Nodes: N-10174, N-10169
+Supports: C-1420
+Tags: relevance:core
+Investigative Direction: Verify the exact post times from Hammer's archive and compare them with the reported start time of the Zoom call.
+
+---
+
+**C-9337** Host Says Matt Walsh Later Explained His Public-Execution Post on His Show
+
+Claim Timestamp: 00:13:45
+
+Claim: The host says Matt Walsh went on his show and further explained his post, saying men have a visceral response when a woman is victimized the way Iryna Zhuravska was.
+
+Transcript Snippet: So, Matt Walsh then went on his show and further explained that already contextualized tweet, and he explained how men have a visceral response when you see somebody uh being victimized, a woman being victimized in
+
+Anchored Artifacts: A-1238.1
+Mentions: N-166, N-165
+Related Nodes: N-10174
+Supports: C-1409
+Tags: relevance:context
+Investigative Direction: Locate the Walsh show segment and confirm what he said about the post.
+
+---
+
+**C-9338** Host Says Hammer Is Editor-at-Large at Newsweek and Faced No Consequences for the DNA Post
+
+Claim Timestamp: 00:18:05
+
+Claim: The host describes Josh Hammer as editor-at-large at Newsweek and says there were no consequences for his post that Jew hatred is inherent in the European DNA.
+
+Transcript Snippet: editor-at-large at Newsweek. What are you going to do? Yeah, it's fine. You can hate white people. We all know that. It's fine. Totally fine." Anyways, that's what he thinks about you
+
+Anchored Artifacts: A-1239.1
+Mentions: N-55
+Supports: C-1419
+Tags: relevance:context
+Investigative Direction: Confirm Hammer's current Newsweek title and any Newsweek response to the post.
+
+---
+
+**C-9339** Host Says Hammer Helped Pressure Charlie in the Weeks and Hours Before His Death
+
+Claim Timestamp: 00:18:05
+
+Claim: The host says Josh Hammer lied about the pressure Charlie Kirk was under, and that Hammer was part of applying that pressure in the weeks and then the hours leading up to Kirk's death.
+
+Transcript Snippet: pressure that Charlie was under, pressure which Josh Hammer was a part of applying in the weeks and then in the hours leading up to Charlie Kirk's death.
+
+Anchored Artifacts: 
+Mentions: N-55, N-1, N-3
+Related Nodes: N-10025, N-10106
+Supports: C-1173
+Tags: relevance:core
+Investigative Direction: Obtain the group chat messages and any Hammer-to-Kirk communications from August and September 2025.
+
+---
+
+**C-9340** Host Says Hammer Bragged That He and Rabbi Wolicki Had a Zoom Call With Charlie
+
+Claim Timestamp: 00:19:06
+
+Claim: The host says Hammer proudly promoted that he and Rabbi Wolicki had a Zoom call with Charlie Kirk the night before Kirk died, and that they said Charlie wanted help with his talking points about Israel.
+
+Transcript Snippet: He bragged that he and Rabbi Wolicki had a Zoom call with Charlie. Why? Because they said Charlie wanted to help him with his talking points about Israel. [19:56] Now,
+
+Anchored Artifacts: A-1242.1
+Mentions: N-55, N-167, N-1
+Related Nodes: N-10169
+Supports: C-1397
+Tags: relevance:core
+Investigative Direction: Obtain the Zoom invitation, attendee list and duration, and the account of any Kirk producers on the call.
+
+---
+
+**C-9341** Hammer Says on JTV the Zoom Was a Small Call With a Friend, Charlie and a Couple of His Producers
+
+Claim Timestamp: 00:20:50
+
+Claim: On the JTV interview played on air, Hammer says the last call with Charlie was a Zoom with a friend of his, Charlie and a couple of Charlie's producers, a small call about the anti-Israel questions Charlie expected on the campus tour.
+
+Transcript Snippet: We had a Zoom call, a friend of mine, him, a couple of his producers. It was it was a small call. We were literally talking above all about the anti-Israel questions
+
+Anchored Artifacts: A-1242.1
+Mentions: N-55, N-1, N-174
+Related Nodes: N-10169
+Tags: relevance:core
+Investigative Direction: Identify the producers and the friend on the call and ask each to confirm the participants and the agenda.
+
+---
+
+**C-9342** Hammer Says on JTV Candace Chose to Hijack Charlie's Death to Blame Israel
+
+Claim Timestamp: 00:22:58
+
+Claim: On the JTV audio, Hammer says Ian Carroll and the host have chosen to hijack Charlie Kirk's death to blame it on Israel. The interviewer, Ali, had named Carroll first.
+
+Transcript Snippet: she's chosen to hijack his death right now to blame it on Israel. I mean, it's just so disturbing. But then you have the people
+
+Anchored Artifacts: A-1242.1
+Mentions: N-55, N-3, N-384, N-174
+Related Nodes: N-10056
+Tags: relevance:context
+Investigative Direction: Review the full JTV episode for Hammer's exact wording and date.
+
+---
+
+**C-9343** Hammer Says on JTV Commentators Chase Momentum and Twitter Algorithms
+
+Claim Timestamp: 00:22:58
+
+Claim: On the JTV audio, Hammer says that a lot of commentators, in a discussion that names Megyn Kelly and Michael Knowles, are trying to take their commentary where they see momentum, especially with Gen Z and the Twitter algorithms.
+
+Transcript Snippet: I think a lot of folks are kind of just trying to take their commentary to where they see the perceived momentum, especially among the younger generation there. But so, I think a lot of it is trying to kind
+
+Anchored Artifacts: A-1242.1
+Mentions: N-55, N-46, N-102, N-174
+Tags: relevance:context
+Investigative Direction: Review the full JTV episode for the exact wording.
+
+---
+
+**C-9344** Hammer Says Gaetz Hosted Him in March and Called His Book a Battle Map
+
+Claim Timestamp: 00:23:56
+
+Claim: On the JTV audio, Hammer says Matt Gaetz had him on his show in March when Hammer's book came out and called the book a battle map to save Western Civilization, then later spoke of Jewish supremacy.
+
+Transcript Snippet: He had me on his show back in March when my book came out. Ali, he referred to my book as a battle map to save Western Civilization. It was
+
+Anchored Artifacts: A-1242.1
+Mentions: N-55, N-71
+Tags: relevance:context
+Investigative Direction: Locate the Gaetz OAN segment on Hammer's book and compare dates with Gaetz's later remarks.
+
+---
+
+**C-9345** Hammer Says Gaetz's Shift Is Cynicism Aimed at Clicks and Money
+
+Claim Timestamp: 00:24:35
+
+Claim: On the JTV audio, Hammer says that Matt Gaetz's change of tone is profound cynicism, playing for clicks and money to produce viral clips for a small, very online part of the American right.
+
+Transcript Snippet: I think it's just profound cynicism. It's trying to kind of just play for clicks, play for money and trying to kind of just generate some viral clips to appease
+
+Anchored Artifacts: A-1242.1
+Mentions: N-55, N-71
+Tags: relevance:context
+Investigative Direction: Review the full JTV episode for the exact wording.
+
+---
+
+**C-9346** Hammer Says Charlie Had Him and Wolicki on for an Entire Hour the Night Before His Death
+
+Claim Timestamp: 00:26:09
+
+Claim: On the JTV audio, Hammer says that if Charlie had been going the direction the host describes he would not have had Hammer and Rabbi Pesach Wolicki on literally the night before his death for an entire hour on how to respond to anti-Israel talking points.
+
+Transcript Snippet: would he have had on me and our friend Rabbi Pesach Wolicki literally the night before his death to spend an entire hour talking about how to respond to anti-Israel
+
+Anchored Artifacts: A-1242.1
+Mentions: N-55, N-167, N-1, N-3
+Related Nodes: N-10169
+Supports: C-1397
+Tags: relevance:core
+Investigative Direction: Verify the call duration and time against Zoom records, phone logs and the New York Post report.
+
+---
+
+**C-9347** Host Says Rabbi Wolicki Was Also on the Text Chain, So Both Men Knew Charlie's Position
+
+Claim Timestamp: 00:27:00
+
+Claim: The host says Rabbi Wolicki was also on the text chain, so both he and Hammer knew where Charlie stood on Israel before his death, and that they already knew two weeks earlier in the Hamptons.
+
+Transcript Snippet: that rabbi, Rabbi Wolicki, was also on the now infamous text chain. So, this means that both of those individuals knew exactly where Charlie was at on the topic of Israel and how he felt
+
+Anchored Artifacts: 
+Mentions: N-167, N-55, N-1, N-3
+Related Nodes: N-10163, N-10206, N-10178
+Supports: C-6473, C-1377
+Tags: relevance:core
+Investigative Direction: Obtain the participant list and messages of the group chat and confirm Wolicki's membership.
+
+---
+
+**C-9348** Host Says the Released Letter Shows Netanyahu Did Not Have Charlie's Number in May
+
+Claim Timestamp: 00:27:00
+
+Claim: The host says that, according to the released letter, Benjamin Netanyahu did not even have Charlie Kirk's phone number in May, and asks why he was calling him two weeks before Kirk died.
+
+Transcript Snippet: whose number, according to the released letter, he didn't even have in May. So, what's he calling him about? [28:17] They obviously weren't close if he didn't have his number,
+
+Anchored Artifacts: 
+Mentions: N-36, N-1, N-3
+Related Nodes: N-10018
+Tags: relevance:core
+Investigative Direction: Re-read the released letter text for any statement about contact details, and obtain call records for the invitation call.
+
+---
+
+**C-9349** Host Says Netanyahu Invited Charlie to Israel Two Weeks Before His Death and Charlie Said No
+
+Claim Timestamp: 00:28:17
+
+Claim: The host says Benjamin Netanyahu invited Charlie Kirk to Israel about two weeks before Kirk's death, that nobody has addressed the context of that invitation, and that Charlie said no.
+
+Transcript Snippet: Why is he inviting Charlie to Israel 2 weeks before he dies, right? Nobody will address that Charlie said no. He did. He said no. He didn't flinch. He didn't
+
+Anchored Artifacts: 
+Mentions: N-36, N-1, N-3
+Related Nodes: N-10018
+Supports: C-1129, C-1130
+Tags: relevance:core
+Investigative Direction: Obtain Netanyahu's office and Kirk-side accounts of the invitation call, dates and any follow-up.
+
+---
+
+**C-9350** Wolicki Says He Was in Touch With Charlie Almost Daily for Months
+
+Claim Timestamp: 00:29:05
+
+Claim: In the interview audio, Rabbi Pesach Wolicki says he was in touch with Charlie Kirk on an almost daily basis for months before the assassination.
+
+Transcript Snippet: I was in touch with Charlie on an almost daily basis for months. And he certainly had uh some disagreements with Israeli policy and he criticized Israel where
+
+Anchored Artifacts: A-1243.1
+Mentions: N-167, N-1
+Related Nodes: N-10169
+Tags: relevance:core
+Investigative Direction: Ask Wolicki for the form and volume of that contact (calls, messages) and corroborate with Kirk-side records.
+
+---
+
+**C-9351** Wolicki Says 40 to 50 Percent of Campus Tour Questions Were About Israel and It Drove Charlie Crazy
+
+Claim Timestamp: 00:30:17
+
+Claim: In the interview audio, Wolicki says between 40 and 50 percent of the questions and challenges Charlie got on campus tours were about Israel, and that being Israel's defender all the time drove him crazy because he wanted to talk about America.
+
+Transcript Snippet: between 40 and 50% of all of the questions and and challenges that he would get on these campus tours were usually about Israel. Cuz the campuses, of course, have a lot of anti-Israel sentiment, and Charlie was known as
+
+Anchored Artifacts: A-1243.1
+Mentions: N-167, N-1
+Tags: relevance:context
+Investigative Direction: Compare against Q&A transcripts from earlier Kirk campus events to estimate the share of Israel questions.
+
+---
+
+**C-9352** Wolicki Argues Charlie Would Have Invited Candace and Tucker if He Were Turning on Israel
+
+Claim Timestamp: 00:30:17
+
+Claim: In the interview audio, Wolicki argues that if Charlie Kirk were turning on Israel he would have had Candace Owens and Tucker Carlson in the meeting, so the meeting itself refutes the theory.
+
+Transcript Snippet: If he was turning on Israel, he would have had Candace Owens and Tucker Carlson in the meeting planning to throw Israel under the bus. The entire premise of the
+
+Anchored Artifacts: A-1243.1
+Mentions: N-167, N-3, N-22, N-1
+Related Nodes: N-10056
+Supports: C-1414
+Tags: relevance:core
+Investigative Direction: Obtain the invitation list for the meeting and the account of each attendee.
+
+---
+
+**C-9353** Host Says She Has Text Messages Showing Charlie Worried Israel Was Infringing on US Speech
+
+Claim Timestamp: 00:32:32
+
+Claim: The host says she previously told viewers Charlie was particularly worried that Israel was infringing on speech in America, and says she has text messages to that effect.
+
+Transcript Snippet: I told you he was particularly worried uh that Israel was infringing upon speech in America. I have text messages to that effect. Okay? So, there's there's no undoing that.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10177, N-10025
+Supports: C-1222
+Tags: relevance:core
+Investigative Direction: Request the text messages in full, with metadata, for independent authentication.
+
+---
+
+**C-9354** Host Says Charlie Knew Israel Had Lost the PR War and Resented Being Seen as Its Defender
+
+Claim Timestamp: 00:32:32
+
+Claim: The host says Charlie Kirk was aware Israel had lost the PR war and that it weighed on him that he was seen as someone who simply defends Israel.
+
+Transcript Snippet: He was aware that they had lost the PR war and it was weighing on him that he was seen, as Rabbi Wolicki accurately states, as this person who just defends Israel, especially when what they are doing is so
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10056
+Tags: relevance:core
+Investigative Direction: Collect Kirk statements and messages from summer 2025 touching on Israel's public image.
+
+---
+
+**C-9355** Host Says Charlie Was Genuinely Over It by the End, in His Words, Because of Jewish Donor Behavior
+
+Claim Timestamp: 00:33:17
+
+Claim: The host says Charlie Kirk was genuinely over his pro-Israel stance toward the end because of what he called, in his words not hers, Jewish behavior leaning into stereotypes, that he did not want to be bullied, and that people around him knew he was being bullied.
+
+Transcript Snippet: I think, as I've said, he was genuinely over it towards the end because of Jewish behavior, his words, not mine, leaning into the stereotypes of Jewish behavior. Okay? He
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10163, N-10106
+Supports: C-1376
+Tags: relevance:core
+Investigative Direction: Examine the original chat messages and verify the wording attributed to Kirk.
+
+---
+
+**C-9356** Host Says Charlie Announced in the Chat Under 48 Hours Before Death He Had to Abandon the Pro-Israel Cause
+
+Claim Timestamp: 00:33:17
+
+Claim: The host says that less than 48 hours before he died Charlie Kirk announced in the chat that he had no choice but to abandon the pro-Israel cause because of Jewish donors and their behavior, and she contrasts this with Hammer's account of the following day's call.
+
+Transcript Snippet: less than 48 hours before he died, Charlie announces that, he announces that he has no choice but to abandon the pro-Israel cause because of Jewish donors and their behavior
+
+Anchored Artifacts: 
+Mentions: N-1, N-55, N-3
+Related Nodes: N-10163, N-10206
+Supports: C-1375, C-1376
+Tags: relevance:core
+Investigative Direction: Obtain the chat export and verify the exact date and time of the message.
+
+---
+
+**C-9357** Host Says the Zoom Was the Following Day With Two Chat Members Who Knew He Was Angry
+
+Claim Timestamp: 00:34:07
+
+Claim: The host says Charlie then held the smaller call with two Jewish individuals who were on the chat and knew he was angry, and says the call was not a follow-up to what he had expressed to them hours earlier.
+
+Transcript Snippet: he decided to have that smaller audience with two Jewish individuals who were on that chat and were aware that he was angry, but this
+
+Anchored Artifacts: 
+Mentions: N-1, N-55, N-167, N-3
+Related Nodes: N-10163, N-10169
+Supports: C-1377, C-6473
+Tags: relevance:core
+Investigative Direction: Reconcile the chat timeline with the Zoom time and the identity of the two participants.
+
+---
+
+**C-9358** Host Says Charlie Texted People the Same Day as the Zoom That They Were Going to Kill Him
+
+Claim Timestamp: 00:34:57
+
+Claim: The host says that on the same day as the Zoom call Charlie Kirk was texting people that "they are going to kill me", and that she is asked to believe he was calling Hammer as a fan of his book that day.
+
+Transcript Snippet: in that exact same day, he was texting people saying they are going to kill me. On the same day that he's on this Zoom call, this is a fact,
+
+Anchored Artifacts: 
+Mentions: N-1, N-55, N-3
+Related Nodes: N-10177, N-10650
+Tags: relevance:core
+Investigative Direction: Identify the recipients and obtain the texts with timestamps.
+
+---
+
+**C-9359** Host Says Hammer and She Thinks the New York Post Placed the Zoom Call at Night
+
+Claim Timestamp: 00:34:57
+
+Claim: The host says Hammer described the Zoom call as taking place at night and she thinks the New York Post reported the same.
+
+Transcript Snippet: as as Josh says it it was at night and or the New York Post reported, I think, right, that it was at at night. That at the same time,
+
+Anchored Artifacts: 
+Mentions: N-55, N-3
+Related Nodes: N-10169
+Tags: relevance:context
+Investigative Direction: Find the New York Post report and Hammer's statement giving the call time.
+
+---
+
+**C-9360** Host Says Megyn Kelly Has Spoken About the Pressure on Charlie and Should Name Those Individuals
+
+Claim Timestamp: 00:35:50
+
+Claim: The host says Megyn Kelly herself has spoken about how Charlie Kirk was being bullied and was under pressure, and says Kelly should tell people who those individuals are.
+
+Transcript Snippet: and Megyn even spoke about it herself. By the way, Megyn, uh you should probably tell people who those individuals are. Um we never once said that Israel killed Charlie
+
+Anchored Artifacts: 
+Mentions: N-46, N-1, N-3
+Related Nodes: N-10025
+Supports: C-1162
+Tags: relevance:core
+Investigative Direction: Find Kelly's statements about Kirk's pressure and ask her which individuals she meant.
+
+---
+
+**C-9361** Host Says Neither She Nor Tucker Ever Said Israel Killed Charlie and She Has No Evidence of It
+
+Claim Timestamp: 00:35:50
+
+Claim: The host says that she, Tucker Carlson and others never said Israel killed Charlie Kirk, and that she has never said it because on the facts she follows she has no evidence of it.
+
+Transcript Snippet: we never once said that Israel killed Charlie Kirk. I've never said that because on the basis of the facts that you guys are following on the show, I don't have any evidence of that. It doesn't serve
+
+Anchored Artifacts: 
+Mentions: N-3, N-22, N-46, N-1
+Related Nodes: N-10056
+Tags: relevance:core
+Investigative Direction: Review the host's and Carlson's past episodes for any statements asserting Israeli involvement.
+
+---
+
+**C-9362** Host Says the Behavior of Israel's Supporters Is Almost the Only Compelling Argument for Israeli Involvement
+
+Claim Timestamp: 00:36:55
+
+Claim: The host says that almost the only compelling argument that Israel had anything to do with Charlie Kirk's death is the way Israel's supporters, including Benjamin Netanyahu, are acting now, with propaganda, lies and attacks on her.
+
+Transcript Snippet: That has been almost the only compelling argument that Israel had anything to do with it is the way they're acting right now. Like Bibi Netanyahu, the propaganda, the lies,
+
+Anchored Artifacts: 
+Mentions: N-3, N-36
+Related Nodes: N-10056
+Tags: relevance:core
+Investigative Direction: Catalogue the specific statements by Netanyahu and allies that the host regards as lies.
+
+---
+
+**C-9363** Host Says Netanyahu Publicly Said Israel Did Not Kill Charlie Within 24 Hours of His Death
+
+Claim Timestamp: 00:36:55
+
+Claim: The host says Benjamin Netanyahu publicly stated, 24 hours after Charlie Kirk died, that Israel did not kill Kirk, and contrasts this with Utah's Mormon leaders, who she says did not issue such denials.
+
+Transcript Snippet: no Mormon presidents coming out and saying, I just want to be clear that um we didn't kill Charlie Kirk 24 hours after he died? Cuz that's what Bibi did. How come
+
+Anchored Artifacts: 
+Mentions: N-36, N-1, N-3
+Related Nodes: N-10056, N-10125
+Tags: relevance:core
+Investigative Direction: Identify the Netanyahu statement and its time and compare with the time of Kirk's death.
+
+---
+
+**C-9364** Host Highlights the Left-Side Section on Screen and Asks for Footage From the Ten Minutes Before the Shots
+
+Claim Timestamp: 00:43:02
+
+Claim: The host shows an on-screen graphic highlighting the section on Charlie's left side where she has no footage, and asks for footage from that section from when the shots rang out or in the ten minutes before.
+
+Transcript Snippet: all on the side, when the shots rang out or just before, you know, maybe in the 10 minutes before so I can see who was around or what happened when those shots rang out. It is weird. There's just
+
+Anchored Artifacts: A-3003.1
+Mentions: N-3, N-1
+Related Nodes: N-10175
+Tags: relevance:core
+Investigative Direction: Compare the highlighted section with the UVU courtyard layout and collect any received footage.
+
+---
+
+**C-9365** Host Asks Viewers to Send UVU Footage to tips@candaceowens.com
+
+Claim Timestamp: 00:44:03
+
+Claim: The host asks viewers to send footage to tips@candaceowens.com and also to a second address, more tips@candaceowens.com, with "footage@uvu" in the subject line, saying she has been cleaning up the inbox.
+
+Transcript Snippet: Uh you can send that, by the way, to uh tips@candaceowens. com. We also have more tips@candaceowens. com. And please just put um in the subject line footage@uvu. That would be very easy. It would help us sort things. We've
+
+Anchored Artifacts: A-3002.1
+Mentions: N-3
+Related Nodes: N-10175
+Supports: C-1423
+Tags: relevance:core
+Investigative Direction: Record the volume and usefulness of emailed UVU footage in later episodes where the host cites it.
+
+---
+
+**C-9366** Host Says Rank-and-File Turning Point Staff Are Assisting Her Investigation, Not the Executives
+
+Claim Timestamp: 00:44:57
+
+Claim: The host says her investigation is being assisted by Turning Point USA people on the ground and smaller employees who deeply care about finding answers, not the executives.
+
+Transcript Snippet: This investigation is being assisted by Turning Point USA. Not the execs, but Turning Point people on the ground, people that they don't even think about, smaller employees. Like, they
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Ask whether any staff will go on record and document what information has been provided.
+
+---
+
+**C-9367** Host Says D'Souza Replied That He Meant His Sheep Tweet as a Joke
+
+Claim Timestamp: 00:48:42
+
+Claim: The host says Dinesh D'Souza responded that he meant his tweet as a joke, and says she believes he meant it seriously.
+
+Transcript Snippet: And he's like, "Well, I meant that as a joke." You didn't mean it as a joke. You meant it seriously and it was weird. It got weird very quickly. And we learned more about you than we learned about
+
+Anchored Artifacts: A-1245.1
+Mentions: N-171, N-3
+Supports: C-1415
+Tags: relevance:tangential
+Investigative Direction: Find D'Souza's follow-up post and check wording and time.
+
+---
+
+**C-9368** Host Suggests D'Souza May Have Been Blackmailed Over Laptop Contents
+
+Claim Timestamp: 00:48:42
+
+Claim: The host says she wants D'Souza's opinion of her, not what is on his laptop and how they "maybe blackmailed" him. She offers no evidence in the transcript, and the claim is her insinuation.
+
+Transcript Snippet: you want to know your opinion on me, not what's on your laptop and how they maybe blackmailed you, okay? That's not what we're interested
+
+Anchored Artifacts: 
+Mentions: N-171, N-3
+Tags: relevance:tangential
+Investigative Direction: Ask the host for any basis for the insinuation; none is presented on air.
+
+---
+
+**C-9369** Host Says She Does Not Accept That Charlie Was Killed Because He Angered the Trans Lobby
+
+Claim Timestamp: 00:48:42
+
+Claim: The host says she does not accept that Charlie Kirk lost his life because he really angered the trans lobby.
+
+Transcript Snippet: I do not accept, and you do you guys that Charlie Kirk lost his life because he really pissed off the trans lobby. [49:47] It terrifies me to think that on the day that Charlie died, I got multiple phone
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10056
+Tags: relevance:core
+Investigative Direction: Compare against the prosecution's stated motive and the evidence offered for it.
+
+---
+
+**C-9370** Host Says She Got Calls on the Day Charlie Died Telling Her and Tucker to Lay Low Because They Were on a List
+
+Claim Timestamp: 00:49:47
+
+Claim: The host says that on the day Charlie died she got multiple phone calls from people saying she and Tucker Carlson should lay low because they were also on the list, and that the callers never said who specifically told them.
+
+Transcript Snippet: I got multiple phone calls from people uh who said that me and Char- me and Tucker should lay low because we're also on the list. And they never told us who specifically told them that, by the way. Now
+
+Anchored Artifacts: 
+Mentions: N-3, N-22, N-1
+Related Nodes: N-11010
+Tags: relevance:core
+Investigative Direction: Ask the host to identify, or at least describe, the callers and who they said was the source.
+
+---
+
+**C-9371** Host Says She Called Tucker That Day About Hearing They Were Next
+
+Claim Timestamp: 00:49:47
+
+Claim: The host says she called Tucker Carlson and told him she was hearing that they were next, and says he will confirm it.
+
+Transcript Snippet: I called Tucker. I'm like, "I'm hearing Are you hearing me say anything? I'm hearing that they're saying that we're next." And now I go, "Was that supposed to be a threat
+
+Anchored Artifacts: 
+Mentions: N-3, N-22
+Related Nodes: N-11010
+Tags: relevance:core
+Investigative Direction: Ask Carlson to confirm the call and what was said.
+
+---
+
+**C-9372** Host Says She Asked the Callers Whether the Feds Were the Source
+
+Claim Timestamp: 00:50:36
+
+Claim: The host says she asked the callers whether the feds said this and who specifically said it, and wondered why the feds were not calling her and Tucker directly.
+
+Transcript Snippet: Did the feds say this? Who said this specifically? Because why aren't they calling me and Tucker? Why are Why am I calling Tucker and
+
+Anchored Artifacts: 
+Mentions: N-3, N-22
+Related Nodes: N-11010
+Tags: relevance:core
+Investigative Direction: Ask the host which agencies, if any, the callers named.
+
+---
+
+**C-9373** Host Says She Now Thinks the Shot to the Throat Was a Signal Aimed at Her and Tucker
+
+Claim Timestamp: 00:50:36
+
+Claim: The host says she believes, coming out of the grief stage, that the shooting of Charlie Kirk in the throat was meant as a signal that his voice was taken out and theirs would be too.
+
+Transcript Snippet: To to send a signal to shoot him in the throat. Right? To say, "We took out his voice and we will take yours out, too." And that's terrifying and
+
+Anchored Artifacts: 
+Mentions: N-1, N-3, N-22
+Related Nodes: N-11010
+Tags: relevance:core
+Investigative Direction: Treat as the host's interpretation; examine the autopsy and ballistics record for the wound location.
+
+---
+
+**C-9374** Host Says She Created a Kill Switch and Discussed It the Day Before
+
+Claim Timestamp: 00:52:07
+
+Claim: The host says that what she wanted to do, as she discussed the previous day and which got picked up, was to create a kill switch.
+
+Transcript Snippet: What I wanted to do, as I discussed yesterday, and which got picked up, was to create a kill switch, right? To realize that Kanye
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10176
+Supports: C-1416
+Tags: relevance:core
+Investigative Direction: Review the October 7 episode for the host's first description of the kill switch.
+
+---
+
+**C-9375** Host Says the Same People Who Tortured Kanye Tortured Charlie Kirk
+
+Claim Timestamp: 00:52:07
+
+Claim: The host says she has no doubt that the same people who were torturing Kanye West were torturing Charlie Kirk. She does not name them in the transcript.
+
+Transcript Snippet: I have no doubt that the same people that were torturing Kanye, it's the same people that were torturing Charlie
+
+Anchored Artifacts: 
+Mentions: N-27, N-1, N-3
+Tags: relevance:context
+Investigative Direction: Ask the host to name the people and to supply the supporting messages she says Kanye gave her.
+
+---
+
+**C-9376** Host Says Kanye Sent Her All the Messages of People Threatening Him
+
+Claim Timestamp: 00:52:50
+
+Claim: The host says Kanye West sent her all of the messages from people threatening him and that she has all of them.
+
+Transcript Snippet: Kanye sent me all of the messages of people who were threatening him. I have them all. To information share uh with
+
+Anchored Artifacts: 
+Mentions: N-27, N-3
+Related Nodes: N-10176
+Tags: relevance:context
+Investigative Direction: Ask the host whether and when the messages will be published and how they were authenticated.
+
+---
+
+**C-9377** Host Says She Shared Information With Max Blumenthal and Others in a Release-It-All Package
+
+Claim Timestamp: 00:52:50
+
+Claim: The host says she shared information with Max Blumenthal and people elsewhere and sent a package with the instruction that if anything happens to her and it looks suspicious, they should release it all.
+
+Transcript Snippet: To information share uh with Max Blumenthal, with people Village I mean people all over the place. To send a package and say, "If anything happens to me and it looks suspicious, release it all." You know? It's not even
+
+Anchored Artifacts: 
+Mentions: N-49, N-3
+Related Nodes: N-10176
+Supports: C-1416
+Tags: relevance:core
+Investigative Direction: Ask recipients to confirm they hold the package and its release conditions.
+
+---
+
+**C-9378** Alex Jones Says Candace Let Critics Say Charlie Didn't Text Her for Weeks Before Releasing the Text
+
+Claim Timestamp: 00:53:52
+
+Claim: In the Alex Jones audio, Jones says Candace Owens let critics say Charlie Kirk had not liked, called or texted her for a few weeks and then released the text.
+
+Transcript Snippet: And so she let him say that for a few weeks and then released it. The text. And then she said, "Yeah, he was really upset with the Israel lobby and said he was breaking
+
+Anchored Artifacts: A-1246.1
+Mentions: N-93, N-3, N-1
+Related Nodes: N-10177
+Tags: relevance:context
+Investigative Direction: Identify which text Jones means and when it was released.
+
+---
+
+**C-9379** Alex Jones Says Candace Claims Text Proof That Charlie Feared for His Life in the Two Days Before
+
+Claim Timestamp: 00:53:52
+
+Claim: In the Alex Jones audio, Jones says Candace Owens now says she has proof, in text messages, that Charlie Kirk feared for his life in the two days and the day before he was killed.
+
+Transcript Snippet: So she released those two days ago. And now she says she has the proof and it's text messages. That he feared for his life in the two days and the day before he was killed. And predictably they're already
+
+Anchored Artifacts: A-1246.1
+Mentions: N-93, N-3, N-1
+Related Nodes: N-10177, N-10650
+Tags: relevance:core
+Investigative Direction: Request the texts with metadata and confirm dates.
+
+---
+
+**C-9380** Alex Jones Says Candace Did Not Send Him the Kill Switch Package
+
+Claim Timestamp: 00:55:25
+
+Claim: In the Alex Jones audio, Jones says he was a little bummed out that Candace Owens did not send the package to him.
+
+Transcript Snippet: Well, I'm trying to get it on for weeks. I'm a little bummed out she didn't send it to me. Cuz I'd like to stand
+
+Anchored Artifacts: A-1246.1
+Mentions: N-93, N-3
+Related Nodes: N-10176
+Supports: C-1416
+Tags: relevance:context
+Investigative Direction: Ask Jones's team to confirm he did not receive the package.
+
+---
+
+**C-9381** Alex Jones Says Charlie's Security Detail Was Not Israeli
+
+Claim Timestamp: 00:55:25
+
+Claim: In the Alex Jones audio, Jones says some people said Charlie Kirk's security detail was Israeli and that it was not, adding that he sees no evidence yet that Israel killed him.
+
+Transcript Snippet: You know, they said his security detail was Israeli. They weren't. It was just the first knee-jerk reaction. I said,
+
+Anchored Artifacts: A-1246.1
+Mentions: N-93, N-1
+Related Nodes: N-10056
+Tags: relevance:context
+Investigative Direction: Identify the security personnel's employer and the origin of the Israeli-detail rumor.
+
+---
+
+**C-9382** Alex Jones Says the Word Is That Charlie Specifically Thought Israel Was Going to Kill Him
+
+Claim Timestamp: 00:56:10
+
+Claim: In the Alex Jones audio, Jones says the word is that Charlie Kirk specifically thought Israel was going to kill him. Jones does not name a source.
+
+Transcript Snippet: And the word is he specifically thought Israel was going to kill him. [56:57] Even Michael Savage first few months ago said that, you know, who needs to go on
+
+Anchored Artifacts: A-1246.1
+Mentions: N-93, N-1
+Related Nodes: N-10056, N-10177
+Tags: relevance:core
+Investigative Direction: Ask Jones for his source and compare with the texts the host says she holds.
+
+---
+
+**C-9383** Alex Jones Says Michael Savage Said During a Break He Hoped the Mossad Would Not Kill Him
+
+Claim Timestamp: 00:56:57
+
+Claim: In the Alex Jones audio, Jones says Michael Savage said during a break on Jones's show, a few months earlier, "Man, I hope Mossad doesn't kill me", and that it was on the feed and not off the record.
+
+Transcript Snippet: Even Michael Savage first few months ago said that, you know, who needs to go on my show. During the break he goes, "Man, I hope Mossad doesn't kill me." Crucial. It's on the feed. He
+
+Anchored Artifacts: A-1246.1
+Mentions: N-93, N-43
+Related Nodes: N-10015
+Tags: relevance:tangential
+Investigative Direction: Locate the Jones show broadcast with the break audio and confirm wording.
+
+---
+
+**C-9384** Alex Jones Says Charlie's TPUSA Got Over 2.5 Million Young People to Vote for Trump
+
+Claim Timestamp: 00:57:12
+
+Claim: In the Alex Jones audio, Jones says Charlie Kirk got over two and a half million people to vote conservatively for Trump with TPUSA, moving the needle more than anyone with young people on colleges.
+
+Transcript Snippet: He got over 2 and 1/2 million people to vote conservatively for Trump. Was moving the needle big time, more than anybody
+
+Anchored Artifacts: A-1246.1
+Mentions: N-93, N-1, N-5
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Compare against TPUSA's own claims on voter turnout and independent estimates.
+
+---
+
+**C-9385** Alex Jones Says About Six Trantifa Said Charlie Would Be Dead Tomorrow
+
+Claim Timestamp: 00:57:12
+
+Claim: In the Alex Jones audio, Jones says about six "Trantifa" people said Charlie Kirk would be dead tomorrow, and afterward said they had told people so, and that this was in the town.
+
+Transcript Snippet: He had like six Trantifa. Say, "Charlie will be dead tomorrow." And they said, "See, we told you." And that was in the town. So, you know, we got Trantifa
+
+Anchored Artifacts: A-1246.1
+Mentions: N-93, N-1
+Tags: relevance:context
+Investigative Direction: Identify the posts or people and the date and place Jones refers to.
+
+---
+
+**C-9386** Host Says She Had No Proof or Reason to Suspect Israel and the Cover-Up Behavior Prompted Questions
+
+Claim Timestamp: 00:57:12
+
+Claim: The host says that, genuinely, she and others had no proof and no rhyme or reason to suspect Israel, and that it is the insane behavior of covering up and lying that makes them question things.
+
+Transcript Snippet: genuinely we had no proof and no rhyme or reason to think or suspect Israel whatsoever. It's really just been this insane behavior of covering up and lying that makes us question things. [58:13] Like that's the reality. And by
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10056
+Tags: relevance:core
+Investigative Direction: Catalogue the specific acts of cover-up and lying the host cites in earlier episodes.
+
+---
+
+**C-9387** Host Says Charlie Owned the Security Company Around Him and Purchased It Outright
+
+Claim Timestamp: 01:05:49
+
+Claim: The host says Charlie Kirk owned the security company seen around him and actually purchased a security company outright. No document is shown.
+
+Transcript Snippet: Charlie owned the security company. So that security company you see that's around him, he owned it. He actually outright purchased a security company and it didn't matter and they didn't do anything. Clearly it was an act of vanity.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-11219, N-10646
+Tags: relevance:core
+Investigative Direction: Check corporate and procurement records for the security contractor's ownership and Kirk's or TPUSA's stake.
+
+---
+
+**C-9388** Host Says Charlie Paid a Large Amount for Security That Did Not Check Rooftops
+
+Claim Timestamp: 01:05:49
+
+Claim: The host says Charlie Kirk was paying a large amount for his security and that they did not check rooftops, and that someone could have been posted on a rooftop.
+
+Transcript Snippet: The amount that he was paying for that security for them to not check rooftops. You could have someone actually requiring that you have access to rooftops. You could have
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-11219, N-10646
+Tags: relevance:core
+Investigative Direction: Obtain the security plan, contracts and event site sweep records for the Utah Valley University event.
+
+---
+
+**C-9389** Host Says John and Arena Mappin Wrote a Letter the Day Before
+
+Claim Timestamp: 01:07:16
+
+Claim: The host says John and Arena Mappin (transcribed Mapel) wrote a letter the day before the episode saying that continuing Charlie's legacy means continuing to fight for truth. The letter is not shown.
+
+Transcript Snippet: I think John and Arena Mapel in that beautiful letter they wrote yesterday said it way more eloquently than I ever could. Which is if you if you actually continue
+
+Anchored Artifacts: A-3004.1
+Mentions: N-157, N-158, N-1, N-3
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Locate the Mappins' published letter and compare it with the letter described in earlier episodes.
+
+---
+
+**C-9390** Host Says She Came From Turning Point USA and Helped Build It
+
+Claim Timestamp: 01:07:16
+
+Claim: The host says she never attacked Turning Point USA because she came from it, saw what it took to build the company and was part of building it.
+
+Transcript Snippet: I never attacked Turning Point USA cuz I came from Turning Point USA and I saw what it took to build that company because I was a part of building that company. But to the
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Compare against the host's TPUSA employment and role history.
+
+---
+
+**C-9391** Host Says TPUSA Has Explicitly Said It Is Working With the Feds
+
+Claim Timestamp: 01:08:35
+
+Claim: The host says it feels like TPUSA is working with the feds rather than the fighters, and that TPUSA has said explicitly that it is working with the feds.
+
+Transcript Snippet: They're not working with the fighters. It feels like they're working with the feds. They've said explicitly they're working with the feds. So I don't know what to make of
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Find TPUSA public statements describing cooperation with federal investigators.
+
+---
+
+**C-9392** Host Says Charlie Would Call Her or Tucker and Direct Which Angle to Hit
+
+Claim Timestamp: 01:08:35
+
+Claim: The host says Charlie Kirk would call Tucker Carlson or her and say what to hit and where to go hard, like a maestro coordinating a symphony.
+
+Transcript Snippet: he'd call like Tucker or me and say you hit this, you go hard, you do this. I mean, he was as someone put put it today, he
+
+Anchored Artifacts: 
+Mentions: N-1, N-3, N-22
+Tags: relevance:context
+Investigative Direction: Ask Carlson and others to corroborate examples of such calls.
+
+---
+
+**C-9393** Host Says the Mormon Community Has Never Accused Her of Being Anti-Utah and Has Assisted Her
+
+Claim Timestamp: 01:09:20
+
+Claim: The host says the Mormon community has never accused her of being anti-Utah or anti-Mormon and that people in it have been assisting and want to know what happened.
+
+Transcript Snippet: I do want to say shout out to the Mormon community for never accusing me of being anti Utah, anti Mormon, I don't know what, anti Latter-Day Saint. Sorry, I know nothing
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10125
+Tags: relevance:tangential
+Investigative Direction: Ask for examples of Utah residents' assistance and note the contrast with other groups she names.
+
+---
+
+**C-9394** Host Reads a Comment Saying Charlie Wanted Her on the AmFest Stage and They Tried to Stop Him
+
+Claim Timestamp: 01:10:16
+
+Claim: The host reads a viewer comment saying Charlie wanted her on stage at AmFest, that they tried to stop him, and says she feels that way. The claim is the commenter's, adopted by the host as a feeling.
+
+Transcript Snippet: Charlie wanted you on stage AmFest. They tried to stop him, but in doing so, he made sure that you had an even bigger stage. He knew pulling back the
+
+Anchored Artifacts: A-3005.1
+Mentions: N-1, N-3
+Related Nodes: N-10106
+Supports: C-1185
+Tags: relevance:core
+Investigative Direction: Establish who tried to block the host's AmFest slot and obtain Kirk-side messages about it.
+
+---
+
+**C-9395** Host Says She Once Retweeted Max Blumenthal and Was Treated as the Worst Human for It
+
+Claim Timestamp: 01:10:16
+
+Claim: The host says she once retweeted Max Blumenthal and that they made her think she was the worst human, and that she took them at their word before realizing it was sinister.
+
+Transcript Snippet: Like I once retweeted Max Blumenthal, and they made me think I was like the worst human. Um and I took them at their word before I realized it was
+
+Anchored Artifacts: 
+Mentions: N-49, N-3
+Tags: relevance:context
+Investigative Direction: Identify the tweet and the backlash the host refers to.
+
+---
+
+**C-9396** Host Says She Was Barred From Australia Though She Planned to Speak on Homeschooling, Children and Race
+
+Claim Timestamp: 01:11:05
+
+Claim: The host says she was banned from a country, that she was not even going to speak about Israel but about homeschooling, children, her backstory and race issues, and that the Zionist lobby nonetheless acted against her.
+
+Transcript Snippet: I was going to speak about homeschooling and children and my backstory and race issues, and they were like you Okay, but you can still download my podcast on Spotify? I don't I don't understand.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11099
+Tags: relevance:context
+Investigative Direction: Review Australian visa decisions and the stated grounds for the refusal.
+
+---
+
+**C-9397** Host Says Constantin Kissin Urged Megyn Kelly to Make a Statement Against Candace and Tucker
+
+Claim Timestamp: 01:12:42
+
+Claim: The host says Constantin Kissin told Megyn Kelly she needed to make a statement against Candace and Tucker, and that someone else told Kelly Candace doesn't even hate the left anymore.
+
+Transcript Snippet: Constantin Kissin, when he was like, "You need to make a statement against Candace and Tucker." Um somebody else was saying to her, "Candace doesn't
+
+Anchored Artifacts: 
+Mentions: N-141, N-46, N-3, N-22
+Tags: relevance:context
+Investigative Direction: Find Kissin's public statements and any reporting of his exchange with Kelly.
+
+---
+
+**C-9398** Host Announces She Will Take About Ten Days Off Starting Next Week to Mourn Charlie
+
+Claim Timestamp: 01:13:32
+
+Claim: The host announces she will take next week off, about 10 days, to mourn Charlie Kirk, and says she will still post occasional Instagram updates.
+
+Transcript Snippet: I am going to take uh next week off. I'm going to take about 10 days off, actually. I'll give you more details about that tomorrow, but you know, I
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Tags: relevance:context
+Investigative Direction: Compare against the actual publication schedule after October 8.
+
+---
 
 ## VI. Cross-Reference Summary
 
@@ -991,6 +2516,102 @@ Speaker: N-3
 Quote: pulling back the veil on the current spiritual warfare needed to be shown by you on a global stage.
 Context: Chat tribute frames Charlie's death and Candace's stage as spiritual warfare.
 Tags: faith, chat_elevate, frame
+Confidence: high
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:44:03
+Speaker: N-3
+Quote: you can send that, by the way, to uh tips@candaceowens. com
+Context: Host asks viewers to email UVU footage to the tip addresses.
+Tags: dia, tips, tip line
+Confidence: high
+
+---
+
+**M-14** (meme) Candace Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 01:14:50
+Speaker: N-3
+Quote: Join us in prison when Laura Loomer sends us for writing CIA in parody.
+Context: Host plugs the CIA merch and jokes about Loomer sending them to prison.
+Tags: cia, merch
+Confidence: high
+
+---
+
+**M-15** (meme) We Don't Know But We Know
+
+### Occurrence 1
+
+Video Timestamp: 01:14:50
+Speaker: N-3
+Quote: you can buy our we don't know know, but we know brand stuff
+Context: Host plugs the brand merch at the close.
+Tags: merch, brand
+Confidence: high
+
+---
+
+**M-37** (meme) Grifter
+
+### Occurrence 1
+
+Video Timestamp: 00:24:35
+Speaker: N-3
+Quote: he's completely grifting off of Charlie's death
+Context: Host says Hammer grifts off Charlie's death by promoting his book.
+Tags: grift, hammer
+Confidence: high
+
+---
+
+**M-28** (meme) Christ is King
+
+### Occurrence 1
+
+Video Timestamp: 01:09:20
+Speaker: N-3
+Quote: Follow the money, it never lies. Christ is king. Team Candace.
+Context: Host reads a chat comment ending with the refrain.
+Tags: chat_elevate, faith
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 01:11:05
+Speaker: N-3
+Quote: Greetings from Croatia. Christ is king.
+Context: Host reads a chat comment ending with the refrain.
+Tags: chat_elevate, faith
+Confidence: high
+
+---
+
+**M-245** (meme) Kill Switch
+
+### Occurrence 1
+
+Video Timestamp: 00:00:44
+Speaker: N-3
+Quote: I decided to activate an effective kill switch
+Context: Host previews explaining her kill switch.
+Tags: kill switch, preview
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:52:07
+Speaker: N-3
+Quote: was to create a kill switch, right?
+Context: Host explains the kill switch she discussed the day before.
+Tags: kill switch, dead man switch
 Confidence: high
 
 ---

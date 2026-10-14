@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 4416eff204bca7a7209dc9ce163ce86f52709581dce7aad641a8ba51de16006d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-603, N-604, N-605, N-606, N-607, N-10541, N-10542, N-10543
-  - Reused Nodes Appearing: N-102, N-5, N-387, N-10539, N-10540
+  - New Nodes Introduced: N-603, N-604, N-606, N-10542
+  - Reused Nodes Appearing: N-102, N-5, N-387, N-10539, N-10540, N-605, N-607, N-10541, N-10543
   - (see registers)
 
 ## 6. Meme Register

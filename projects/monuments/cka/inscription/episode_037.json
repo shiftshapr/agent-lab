@@ -298,6 +298,179 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3030",
+      "family_ref": "A-3030",
+      "bundle_name": "Host Valhalla Timeline Graphic Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3030.1",
+          "ref": "A-3030.1",
+          "description": "Host timeline graphic (\"let's pull that up again\") with the July 20 Nebraska stay, the Operation Valhalla block of August 24-29 and corrections to the prior episode",
+          "related_claims": [
+            "C-9776",
+            "C-9777",
+            "C-9778",
+            "C-9780",
+            "C-9781"
+          ],
+          "related_nodes": [
+            "N-285",
+            "N-22",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:10:47",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3031",
+      "family_ref": "A-3031",
+      "bundle_name": "Jacob Kasparian Social Media Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3031.1",
+          "ref": "A-3031.1",
+          "description": "Host verbal reference to Jacob Kasparian's September 10 skateboard post and lack of Kirk posts (not shown)",
+          "related_claims": [
+            "C-9799",
+            "C-9800"
+          ],
+          "related_nodes": [
+            "N-314",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:19:45",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3032",
+      "family_ref": "A-3032",
+      "bundle_name": "Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3032.1",
+          "ref": "A-3032.1",
+          "description": "Viewer comment from Mary Avarati read by the host",
+          "related_claims": [
+            "C-9819"
+          ],
+          "related_nodes": [
+            "N-69"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:41:51",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3032.2",
+          "ref": "A-3032.2",
+          "description": "Viewer comment from Melissa B read by the host",
+          "related_claims": [
+            "C-9820"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:42:35",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3032.3",
+          "ref": "A-3032.3",
+          "description": "Viewer comment from Lucky Island on Joe Rogan's podcast read by the host",
+          "related_claims": [
+            "C-9828",
+            "C-9829"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-274",
+            "N-384"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:45:40",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3033",
+      "family_ref": "A-3033",
+      "bundle_name": "920 North King Debunk Letter Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3033.1",
+          "ref": "A-3033.1",
+          "description": "Host verbal reference to a letter behind the debunking claim that Kittis's lawyer is in the 920 North King office (not shown)",
+          "related_claims": [
+            "C-9824",
+            "C-9825",
+            "C-9826",
+            "C-9827"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:43:40",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3034",
+      "family_ref": "A-3034",
+      "bundle_name": "Pre-Born Sponsor Read Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3034.1",
+          "ref": "A-3034.1",
+          "description": "Host sponsor read for Pre-Born, directing viewers to preborn.org/candace",
+          "related_claims": [
+            "C-9809"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:23:04",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -772,7 +945,16 @@
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9809",
+        "C-9813",
+        "C-9814",
+        "C-9818",
+        "C-9826",
+        "C-9827",
+        "C-9828",
+        "C-9829"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -788,13 +970,819 @@
       "type": "person",
       "description": "Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9794",
+        "C-9795",
+        "C-9797"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Named by the host among military-connected figures present at the assassination.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9787"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Named by the host (transcribed Kulvette) among military-connected figures; brother and cousin said to be captains.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9786"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-17",
+      "ref": "N-17",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Pastor named (transcribed McCoyy) in the host's list of military-linked figures.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9788"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Named by the host in a correction about the date of his Turning Point speech.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9780"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Named by the host as having met Jonathan Pollard on the runway after his release.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9810"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-82",
+      "ref": "N-82",
+      "name": "Brigitte Macron",
+      "type": "person",
+      "description": "Plaintiff in the Delaware lawsuit that the host says names Tim Dillon.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9814"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-126",
+      "ref": "N-126",
+      "name": "Mike Mitchell",
+      "type": "person",
+      "description": "Named as Mitchell by the host, who asks whether he is the uncle who convinced Robinson to surrender.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9794",
+        "C-9795"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-143",
+      "ref": "N-143",
+      "name": "Larry Ellison",
+      "type": "person",
+      "description": "Named in the Tim Dillon clip as the person who hired Bari Weiss.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9816"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-179",
+      "ref": "N-179",
+      "name": "Deidra Weiss Amaro",
+      "type": "person",
+      "description": "Medical examiner; the host says she is a major in the military (transcribed Dedra Amaro).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9785"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-199",
+      "ref": "N-199",
+      "name": "Lee Trotter",
+      "type": "person",
+      "description": "Alleged surgeon; the host says he is a pilot who did his residency at an Air Force base.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9784"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-212",
+      "ref": "N-212",
+      "name": "Jack Hibbs",
+      "type": "person",
+      "description": "Pastor whose brother Butch the host says was invited to the event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9792"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-216",
+      "ref": "N-216",
+      "name": "Alexis Wilkins",
+      "type": "person",
+      "description": "Named in the host's joke and her reaction.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9813"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-251",
+      "ref": "N-251",
+      "name": "Butch Hibbs",
+      "type": "person",
+      "description": "Brother of Pastor Jack Hibbs; the host says he attended after a phone call to Charlie.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9792"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-274",
+      "ref": "N-274",
+      "name": "Joe Rogan",
+      "type": "person",
+      "description": "Subject of a viewer comment about self-censorship on Israel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9829"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-314",
+      "ref": "N-314",
+      "name": "Jacob Kasparian",
+      "type": "person",
+      "description": "Person the host identifies as having emerged from behind the bush.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9799",
+        "C-9800",
+        "C-9801",
+        "C-9802",
+        "C-9803"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-384",
+      "ref": "N-384",
+      "name": "Ian Carroll",
+      "type": "person",
+      "description": "Guest the host says Rogan had on to discuss Israel (transcribed Ian Carol).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9829"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Event site; the host says its school color is not maroon.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9793",
+        "C-9796",
+        "C-9798"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10031",
+      "ref": "N-10031",
+      "name": "33-Hour Surrender Timeline Signal",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's reading of Patel's press conference.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9775"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10074",
+      "ref": "N-10074",
+      "name": "Provo, Utah",
+      "type": "investigation_target",
+      "description": "Existing place reused for the Egyptian plane's destination.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9766",
+        "C-9770"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10094",
+      "ref": "N-10094",
+      "name": "LDS Church",
+      "type": "investigation_target",
+      "description": "Existing organization reused for Kasparian's father's reported temple role.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9801"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10098",
+      "ref": "N-10098",
+      "name": "Roof Video Provenance Chain",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the running and lying-down videos.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9789",
+        "C-9790",
+        "C-9791"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10137",
+      "ref": "N-10137",
+      "name": "Suspicious Bush Theory (Range Day Bro)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's identification of the person behind the bush.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9799",
+        "C-9800"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10141",
+      "ref": "N-10141",
+      "name": "Mike Mitchell Public Record Anomaly",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the uncle Mitchell question.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9795"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10151",
+      "ref": "N-10151",
+      "name": "Mike Mitchell Undercover Role Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the uncle Mitchell question.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9795"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10183",
+      "ref": "N-10183",
+      "name": "Medical Examiner Inquiry – Weiss Amaro",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's military claim about Dr. Amaro.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9785"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10197",
+      "ref": "N-10197",
+      "name": "TPUSA Military-Personnel Network",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's list of military connections.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9784",
+        "C-9785",
+        "C-9786",
+        "C-9787",
+        "C-9788",
+        "C-9805"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10244",
+      "ref": "N-10244",
+      "name": "Pre-Event Old Man Near Bush Anomaly",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the bush-area sightings.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9799"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10253",
+      "ref": "N-10253",
+      "name": "Egyptian Military Plane Tracking Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Egyptian planes claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9766",
+        "C-9768",
+        "C-9769",
+        "C-9776",
+        "C-9796"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10260",
+      "ref": "N-10260",
+      "name": "Federal Military Aircraft Escort Protocol Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's escort claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9807"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10265",
+      "ref": "N-10265",
+      "name": "920 North King Street / 1 Rodney Square Federal Facility",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the facility discussion.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9770",
+        "C-9806",
+        "C-9807",
+        "C-9808"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10266",
+      "ref": "N-10266",
+      "name": "SUBTT Wilmington Visit Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's Wilmington stay correction.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9770",
+        "C-9777"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10270",
+      "ref": "N-10270",
+      "name": "Macron Defamation Lawsuit Delaware Venue Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's Delaware lawsuit and local counsel remarks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9814",
+        "C-9826"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10284",
+      "ref": "N-10284",
+      "name": "920 North King Street Federal Presence",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's defence of the location tip.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9770",
+        "C-9806",
+        "C-9808",
+        "C-9824",
+        "C-9825"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10290",
+      "ref": "N-10290",
+      "name": "French Foreign Legion US Training August 2025",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's Foreign Legion tips.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9782"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10303",
+      "ref": "N-10303",
+      "name": "Richards Layton & Finger Connection to Candace Lawsuit",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's explanation of local counsel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9824",
+        "C-9826",
+        "C-9827"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10311",
+      "ref": "N-10311",
+      "name": "Maroon Shirt Pattern at UVU September 10 Event",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the maroon-shirt claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9797",
+        "C-9803"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10314",
+      "ref": "N-10314",
+      "name": "Roof Shooter Video Witness Follow-up",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the running-video filmer.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9790"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10334",
+      "ref": "N-10334",
+      "name": "CBS Bari Weiss Town Hall Production Integrity",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Weiss CBS commentary.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9815"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10358",
+      "ref": "N-10358",
+      "name": "Surgeon Quotation Authenticity Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the alleged surgeon.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9784"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10366",
+      "ref": "N-10366",
+      "name": "Operation Valhalla Strike",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the exercise claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9766",
+        "C-9781",
+        "C-9821"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10817",
+      "ref": "N-10817",
+      "name": "Butch Hibbs UVU Recording Behavior",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Butch Hibbs's presence.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9792"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11008",
+      "ref": "N-11008",
+      "name": "Satis",
+      "type": "investigation_target",
+      "description": "Existing organization reused for the French company at the Wilmington hangar.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9765",
+        "C-9807"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11191",
+      "ref": "N-11191",
+      "name": "Pre-Born",
+      "type": "investigation_target",
+      "description": "Existing organization reused for the sponsor read.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9809"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-867",
+      "ref": "N-867",
+      "name": "Amber Robinson",
+      "type": "person",
+      "description": "First named by the host at 00:17:18 in episode 37. Tyler Robinson's mother, per the host's reference to photos of her visiting an uncle Mitchell.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9794"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11236",
+      "ref": "N-11236",
+      "name": "UVU Event Promotion and Attendee Control Theory",
+      "type": "topic",
+      "description": "The host's theory that the September 10 event was barely advertised and posters went up at the last second so that organizers could control who attended and who recorded video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9793",
+        "C-9804",
+        "C-9805"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
   "claims": [
@@ -1064,7 +2052,1406 @@
       "mentions_person_refs": [
         "N-3"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9765",
+      "ref": "C-9765",
+      "label": "Host Says Tips Show the Satis Angle Opens New Possibilities Beyond Painting Planes",
+      "claim": "The host says tips about the French company Satis have opened up a whole new level of possibilities in the assassination story and that she does not think they were just painting planes this year.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11008"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:00",
+      "investigative_direction": "Identify who at Satis the tipsters name and obtain the Satis hangar lease and any work orders for the Wilmington facility.",
+      "transcript_snippet": "It seems that that company, Satis, that French company. The angle has opened up a whole new level of possibilities here in this Charlie Kirk assassination story.",
+      "supports_claim_refs": [
+        "C-5029"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9766",
+      "ref": "C-9766",
+      "label": "Host Says Joint Military Exercise Just Before the Assassination Relates to the Egyptian Plane's Landing Place",
+      "claim": "The host says that just before Charlie Kirk's assassination a joint military exercise took place that relates exactly to where the Egyptian yellow plane landed on its way to Provo.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10366",
+        "N-10274",
+        "N-10253",
+        "N-10074"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:30",
+      "investigative_direction": "Compare the exercise dates and Minot AFB transient records with the SU-BTT September 4 flight log.",
+      "transcript_snippet": "rather we've learned that just before Charlie's assassination, there was actually this joint military exercise which was taking place uh related exactly to where the Egyptian yellow plane landed on its way to Provo.",
+      "supports_claim_refs": [
+        "C-1775"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9767",
+      "ref": "C-9767",
+      "label": "Host Says Caesar Was Stabbed 23 Times by Senators Including Brutus",
+      "claim": "The host says Julius Caesar was stabbed 23 times by senators, including Brutus, whom some reports say he viewed as a son.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:36",
+      "investigative_direction": "Check standard histories of Caesar's assassination (Suetonius, Plutarch) for the stab count and the Brutus-as-son tradition.",
+      "transcript_snippet": "23 times Julius Caesar was stabbed by senators and of course Brutus leading to the famed Shakespearean expression and etu brute etu you as well"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9768",
+      "ref": "C-9768",
+      "label": "Host Says There Is Real Panic and Discussion in Government About the Egyptian Planes",
+      "claim": "The host says she was informed that the previous evening there was real panic and real discussion in government regarding the Egyptian planes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:50",
+      "investigative_direction": "Identify the government sources or offices the host's informant refers to; look for any official acknowledgement of internal discussion on the planes.",
+      "transcript_snippet": "I can tell you that right now in government, there is real panic. There is real discussion happening regarding the Egyptian planes."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9769",
+      "ref": "C-9769",
+      "label": "Host Says She Senses the Egyptian Planes Hold the Key to Solving the Assassination",
+      "claim": "The host says she is getting the sense that the Egyptian planes hold the key to solving Charlie's assassination and that the media keeps trying to debunk them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:55",
+      "investigative_direction": "Lay out what the planes' flights prove or disprove relative to the September 10 timeline.",
+      "transcript_snippet": "because I'm getting the sense that they hold the key to solving Charlie's assassination.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9770",
+      "ref": "C-9770",
+      "label": "Host Says She Will Identify the Foreign Dignitary Who Went to 920 North King and Flew From Provo to Wilmington",
+      "claim": "The host says she is confident the case will be solved and that they will figure out who the foreign dignitary was who went to 920 North King on the morning of the assassination and who flew from Provo into Wilmington, Delaware that morning.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10284",
+        "N-10265",
+        "N-10266",
+        "N-10074"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:10",
+      "investigative_direction": "Obtain passenger and ground-transport records for the SU-BTT September 10 Wilmington arrival and any visitor log for 920 North King Street.",
+      "transcript_snippet": "We are going to figure out who that foreign dignitary was who went to 920 North King on the morning of Charlie's assassination.",
+      "supports_claim_refs": [
+        "C-1745"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9771",
+      "ref": "C-9771",
+      "label": "Host Says Her Team Fact-Checked the Military Tipster's Minot Claims as True",
+      "claim": "After reading the military tipster's email, the host says her team investigated its claims about Minot and that they fact-checked true.",
+      "anchored_artifacts": [
+        "A-1454.1"
+      ],
+      "related_nodes": [
+        "N-10277",
+        "N-10274"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:00",
+      "investigative_direction": "Ask the host for the sources used to verify the email claims; cross-check Minot AFB and FBI field office listings.",
+      "transcript_snippet": "And so we investigated that and that fact checked true, right?",
+      "supports_claim_refs": [
+        "C-1774"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9772",
+      "ref": "C-9772",
+      "label": "Host Says Minot Has 45,000 Residents Including 5,000 Stationed at the Base",
+      "claim": "The host says North Dakota has about 750,000 people statewide, and that Minot has just 45,000 residents including 5,000 people stationed at the Air Force base.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10277"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:30",
+      "investigative_direction": "Check Census figures for Minot and the base's published personnel numbers.",
+      "transcript_snippet": "Approximately 750,000 people statewide. Okay. And in May not there are just 45,000 people and that includes 5,000 people who are stationed there at the May not air force"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9773",
+      "ref": "C-9773",
+      "label": "Host Says Minot Is Home to a Global Command Strike Center Hosting Multinational Joint Exercises",
+      "claim": "The host says Minot AFB is home to a global command strike center in which various countries participate in joint exercises.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10277"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:50",
+      "investigative_direction": "Verify the Air Force Global Strike Command footprint at Minot and any foreign participation in joint exercises in August 2025.",
+      "transcript_snippet": "it is home as he indicated to a global command strike center which has participations between various countries on joint exercises."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9774",
+      "ref": "C-9774",
+      "label": "Minot Site Article Describes a Squadron of More Than 250 Airmen and Civilians",
+      "claim": "Reading the Minot AFB website article, the host says the 891st is a squadron of more than 250 dedicated airmen and civilians supporting the 91st Missile Wing's Global Deterrence mission.",
+      "anchored_artifacts": [
+        "A-1451.1"
+      ],
+      "related_nodes": [
+        "N-10278",
+        "N-10277"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:50",
+      "investigative_direction": "Compare the headcount with the official 91st Missile Wing fact sheet.",
+      "transcript_snippet": "a squadron of more than 250 dedicated airmen and civilians supporting the 91st Missile Wings Global Deterrence misses mission"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9775",
+      "ref": "C-9775",
+      "label": "Host Says Kash Patel's Press Conference Seemed to Signal to Insiders With Valhalla and 33 Hours",
+      "claim": "The host says Kash Patel's remarks, including the Valhalla reference and the 33 hours, struck her as signaling to people in the club about what had happened while addressing the American public.",
+      "anchored_artifacts": [
+        "A-1453.1"
+      ],
+      "related_nodes": [
+        "N-10031",
+        "N-10273"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:53",
+      "investigative_direction": "Compare the full press conference transcript with the 33-hour surrender timeline and ask the FBI the source of the Valhalla phrasing.",
+      "transcript_snippet": "he was signaling to other people who were like in the club to know what they needed to understand about what happened.",
+      "supports_claim_refs": [
+        "C-1772"
+      ],
+      "mentions_person_refs": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9776",
+      "ref": "C-9776",
+      "label": "Host Says SU-BTT Flew Cairo-Paris-Omaha on July 20 and Stayed Longest in Nebraska, Departing From Lincoln",
+      "claim": "The host says SU-BTT's July 20 trip went from Cairo through Paris to Omaha, Nebraska, and that it stayed in Nebraska for its longest stretch yet, departing from Lincoln.",
+      "anchored_artifacts": [
+        "A-3030.1"
+      ],
+      "related_nodes": [
+        "N-10276",
+        "N-10253"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:55",
+      "investigative_direction": "Pull ADS-B and FAA records for SU-BTT's July 2025 Omaha and Lincoln movements.",
+      "transcript_snippet": "It stayed in Nebraska for the longest stretch yet, departing um uh from Nebraska, from Lincoln, Nebraska in particular.",
+      "supports_claim_refs": [
+        "C-5005"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9777",
+      "ref": "C-9777",
+      "label": "Host Corrects That SU-BTT Stayed One Night in Wilmington, Not Six Days",
+      "claim": "The host corrects her previous episode: SU-BTT stayed only one night in Wilmington on that trip, not the six days she had said.",
+      "anchored_artifacts": [
+        "A-3030.1"
+      ],
+      "related_nodes": [
+        "N-10266"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:05",
+      "investigative_direction": "Check flight-tracking logs for the actual Wilmington arrival and departure dates on the July trip.",
+      "transcript_snippet": "I think yesterday I said that it stayed in Wilmington for six days. Uh no, it only stayed in Wilmington for one night.",
+      "revises_claim_refs": [
+        "C-5006"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9778",
+      "ref": "C-9778",
+      "label": "Host Says the Nebraska Trade Delegation Announcement Fell During the Plane's Nebraska Stretch",
+      "claim": "The host says that during SU-BTT's roughly six-day Nebraska stretch, on July 22, Nebraska Secretary of State Bob Evan announced a trade and investment delegation to Cairo, Egypt.",
+      "anchored_artifacts": [
+        "A-1455.1",
+        "A-3030.1"
+      ],
+      "related_nodes": [
+        "N-10276"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:30",
+      "investigative_direction": "Match the announcement date to SU-BTT's Nebraska dates and request the Nebraska Secretary of State's meeting calendar for July 2025.",
+      "transcript_snippet": "during this stretch on July 22nd, the Nebraskan Secretary of State Bob Evan announced that they were going to put together a trade and investment delegation to Cairo, Egypt.",
+      "supports_claim_refs": [
+        "C-1776"
+      ],
+      "mentions_person_refs": [
+        "N-285"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9779",
+      "ref": "C-9779",
+      "label": "Host Says the Nebraska Egypt Idea Lines Up With the Plane Arriving the Same Day",
+      "claim": "The host says she suspects the Nebraska-to-Cairo trade mission idea may be related to the planes because it happens to line up with the plane arriving on the exact same day.",
+      "anchored_artifacts": [
+        "A-1455.1"
+      ],
+      "related_nodes": [
+        "N-10276"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:50",
+      "investigative_direction": "Obtain the Nebraska delegation schedule and meetings with Egyptian officials in July 2025.",
+      "transcript_snippet": "and it happens to line up with this plane that comes in um uh at literally comes in at the on the exact same day.",
+      "supports_claim_refs": [
+        "C-1776"
+      ],
+      "mentions_person_refs": [
+        "N-285"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9780",
+      "ref": "C-9780",
+      "label": "Host Corrects That Tucker Carlson Spoke on July 11, Not July 18",
+      "claim": "The host corrects her previous episode, saying Tucker Carlson spoke on July 11th rather than July 18th and that she had copied the wrong date.",
+      "anchored_artifacts": [
+        "A-3030.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:13:10",
+      "investigative_direction": "Confirm the date of Carlson's Turning Point speech against the event program and video.",
+      "transcript_snippet": "I also minor correction I think yesterday I said that Tucker spoke on July 18th. He actually spoke on July 11th.",
+      "revises_claim_refs": [
+        "C-1767"
+      ],
+      "mentions_person_refs": [
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9781",
+      "ref": "C-9781",
+      "label": "Host Says Operation Valhalla Places a Military Exercise 12 Days Before the Assassination",
+      "claim": "The host says that with Operation Valhalla added to her timeline for August 24 to 29, the exercise falls about 12 days before Charlie Kirk's assassination and shows the story is a military operation.",
+      "anchored_artifacts": [
+        "A-3030.1"
+      ],
+      "related_nodes": [
+        "N-10366",
+        "N-10273"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:40",
+      "investigative_direction": "Establish whether the 891st had any link to Utah, Wilmington or Provo; the date gap alone proves no causation.",
+      "transcript_snippet": "We are talking about a tminus 12 days until Charlie Kirk is going to be assassinated.",
+      "supports_claim_refs": [
+        "C-1768"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9782",
+      "ref": "C-9782",
+      "label": "Host Says She Has Received Tips That the French Foreign Legion Was Involved in the Assassination",
+      "claim": "The host says she has been receiving tips, which she previously ignored, that the French Foreign Legion was somehow involved in the assassination, and that she will present it formally only with concrete evidence.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10290"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:55",
+      "investigative_direction": "Seek documentation of Foreign Legion personnel or exercises in the United States in August and September 2025.",
+      "transcript_snippet": "we had been receiving tips I had ignored previously that the French Foreign Legion was involved somehow in this assassination."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9783",
+      "ref": "C-9783",
+      "label": "Host Says She Has Begun Sharing Information With Other Content Creators",
+      "claim": "The host says she has begun sharing information with other content creators she trusts rather than holding it.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:14:10",
+      "investigative_direction": "Ask which creators received material and whether any published it.",
+      "transcript_snippet": "we have begun the process of sharing information with other content creators"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9784",
+      "ref": "C-9784",
+      "label": "Host Says the Alleged Surgeon Dr. Lee Trotter Is a Pilot Who Did His Residency at an Air Force Base",
+      "claim": "The host says Dr. Lee Trotter, the alleged surgeon, is not confirmed but she is fairly sure he is a pilot who did his residency at an Air Force base.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10197",
+        "N-10358"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:57",
+      "investigative_direction": "Check medical licensing and residency records for Dr. Lee Trotter.",
+      "transcript_snippet": "This is our guy who happened to be a pilot who did his residency at an Air Force base.",
+      "mentions_person_refs": [
+        "N-199"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9785",
+      "ref": "C-9785",
+      "label": "Host Says Medical Examiner Dr. Dedra Amaro Is a Major in the Military",
+      "claim": "The host says Dr. Dedra Amaro, Charlie's medical examiner whom officials have not wanted to address publicly, is also a major in the military.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10197",
+        "N-10183"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:10",
+      "investigative_direction": "Verify Dr. Amaro's reserve or active-duty military status and rank.",
+      "transcript_snippet": "Dr. Dedra Amaro, is the medical examiner, Charlie's medical examiner, who they've curiously not wanted to address publicly. Yeah, I told you she's also a major in the military.",
+      "mentions_person_refs": [
+        "N-179"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9786",
+      "ref": "C-9786",
+      "label": "Host Says Andrew Kolvet's Brother and Cousin Are Captains in the Military",
+      "claim": "The host says Andrew Kolvet's brother and his cousin are captains in the military.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10197"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:30",
+      "investigative_direction": "Verify the rank and service of Kolvet's brother and cousin via military records or statements.",
+      "transcript_snippet": "Andrew Kulvette, obviously his brother and his cousin are captains in the military. That's a fact.",
+      "mentions_person_refs": [
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9787",
+      "ref": "C-9787",
+      "label": "Host Says Frank Turek Was a Naval Flight Officer and His Sons Are in the Air Force",
+      "claim": "The host says Frank Turek, who was there for the assassination, is a naval flight officer and that his sons are in the Air Force.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10197"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:40",
+      "investigative_direction": "Verify Turek's Navy service and his sons' service records.",
+      "transcript_snippet": "Frank Turk, who was there for the assassination, is a naval flight officer. His sons are in the Air Force. That's a fact.",
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9788",
+      "ref": "C-9788",
+      "label": "Host Says Pastor McCoy Has a Naval Intelligence Psychological Operations Family Background",
+      "claim": "The host says McCoy has a naval intelligence background in psychological operations through his granddad, with a fleet of ships named after the McCoys.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10197"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:50",
+      "investigative_direction": "Check the McCoy family's naval service records and any ship names; reconcile with the host's earlier statement that his father ran psychological operations.",
+      "transcript_snippet": "McCoyy's naval intelligence background in psychological operations because of granddad and famed actually is Grand Theoys famed.",
+      "mentions_person_refs": [
+        "N-17"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9789",
+      "ref": "C-9789",
+      "label": "Host Says the Running Video Shows the Figure Moving Too Fast From a Crouch",
+      "claim": "The host says the video of the shooter running away after the shot shows him moving too fast, since someone cannot go from a crouching firing position to a full sprint in a split second.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10098"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:00",
+      "investigative_direction": "Have a firearms or biomechanics expert time the movement frame by frame.",
+      "transcript_snippet": "you can't go from a crouching position to a full sprint in a split second."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9790",
+      "ref": "C-9790",
+      "label": "Host Says the Running Video Was Filmed by a Person in the ROC Who Sent It Through Three People",
+      "claim": "The host says the running-away video was recorded by a person in the \"ROC\" (as transcribed), that she hunted that person down, and that they did not want to be involved and sent the video through three people to release it online.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10098",
+        "N-10314"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:15",
+      "investigative_direction": "Trace the upload chain of the running video to its first public post and identify the filmer.",
+      "transcript_snippet": "Very strange. They didn't want to be involved and sent it through three people to release onto the internet.",
+      "supports_claim_refs": [
+        "C-5039"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9791",
+      "ref": "C-9791",
+      "label": "Host Says the Video of the Man Lying Down Was Recorded by a Military Person Who Teaches Shooting",
+      "claim": "The host says the second video, of a man laying down before the shot, was recorded by a person in the military who actually teaches shooting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10098"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:25",
+      "investigative_direction": "Identify the filmer of the pre-shot video and confirm any military or instructor background.",
+      "transcript_snippet": "That also was recorded by a person in the military who actually teaches shooting.",
+      "supports_claim_refs": [
+        "C-5039"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9792",
+      "ref": "C-9792",
+      "label": "Host Says Butch Hibbs Is the Brother of Pastor Jack Hibbs, Who Phoned Charlie to Ask If He Could Attend",
+      "claim": "The host says Burton \"Butch\" Hibbs is the brother of Pastor Jack Hibbs, and that Jack Hibbs phoned Charlie asking whether his brother could come and listen to him speak.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10817"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:40",
+      "investigative_direction": "Ask Jack Hibbs or TPUSA whether the call occurred and when; compare with Butch Hibbs's own account.",
+      "transcript_snippet": "Burton Hibbs, Butch, the brother of Pastor Jack Hibbs. Jack Hibbs phones up Charlie.",
+      "supports_claim_refs": [
+        "C-1673"
+      ],
+      "mentions_person_refs": [
+        "N-251",
+        "N-212",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9793",
+      "ref": "C-9793",
+      "label": "Host Says the Event Was Barely Advertised, Which She Believes Was to Control Who Attended",
+      "claim": "The host says it was very hard to find a student who just happened to be on campus, that the event was barely advertised for a reason, and that she thinks organizers wanted to control who was there, possibly many controlled military men.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11236",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:55",
+      "investigative_direction": "Obtain UVU and TPUSA promotion records, poster dates and ticketing data to see when and how the event was announced.",
+      "transcript_snippet": "Probably because they barely advertised this event for a reason. Obviously, I think they wanted to control who was there."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9794",
+      "ref": "C-9794",
+      "label": "Host Says Tyler Robinson Was a Boy Scout and Photos Show His Mother Visiting an Uncle Mitchell",
+      "claim": "The host says Tyler Robinson was a Boy Scout and that photos circulating online (not shown, she did not have one) show Amber Robinson visiting an uncle Mitchell.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-126"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:30",
+      "investigative_direction": "Locate the photos and verify the identity of the uncle and his relationship to the Robinson family.",
+      "transcript_snippet": "Tyler Robinson is a boy scout whose uncle Mitchell may be related. People have pulled this off of the internet, and I don't have a photo for you today.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-867"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9795",
+      "ref": "C-9795",
+      "label": "Host Asks Whether Uncle Mitchell Is the Mitchell Who Convinced Robinson to Surrender and Says He Is in the Military in Ukraine",
+      "claim": "The host asks whether this uncle Mitchell is the Mitchell who allegedly convinced Robinson to turn himself in, and says he is very much involved in the military, she believes with shooting in Ukraine.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10141",
+        "N-10151"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:50",
+      "investigative_direction": "Establish whether Mike Mitchell is related to the Robinson family and what, if any, Ukraine connection he has.",
+      "transcript_snippet": "Is this the Mitchell that allegedly convinced him to turn himself in uh who's working? He he's very much involved in the military. I I believe with shooting in Ukraine of all places.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-126"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9796",
+      "ref": "C-9796",
+      "label": "Host Says Every Plane Flying Over UVU That Day Was Military-Contracted, Including the Egyptian Planes",
+      "claim": "The host says the SUBTT and SUBND are Egyptian military planes and that every plane that seems to have been flying over UVU that day was somehow a military-contracted plane.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:15",
+      "investigative_direction": "Compile FAA flight data for aircraft over Orem on September 10 and check operators and contracts.",
+      "transcript_snippet": "every plane that seems to be flying over UV UVU that day is somehow military contracted planes."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9797",
+      "ref": "C-9797",
+      "label": "Host Says People She Finds Shady Wear Maroon Shirts as if Told to Identify Each Other",
+      "claim": "The host says that whenever she researches someone who seems shady, they are wearing a maroon shirt, including Tyler Robinson, and that it looks as if attendees were told to wear maroon to identify each other.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10275",
+        "N-10311"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:45",
+      "investigative_direction": "Catalog the maroon-shirted individuals in crowd footage and identify them; compare with a baseline of shirt colors.",
+      "transcript_snippet": "As if they were told to wear a maroon shirt to identify each other.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9798",
+      "ref": "C-9798",
+      "label": "Host Says Her Utah Source Told Her Maroon Is Not the UVU School Color",
+      "claim": "The host says she asked her source at Utah whether maroon is a school color for UVU and the source told her no.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10275",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:20",
+      "investigative_direction": "Check UVU's official color palette and merchandise.",
+      "transcript_snippet": "And he told me, \"No, it's not maroon.\""
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9799",
+      "ref": "C-9799",
+      "label": "Host Says the Person Behind the Bush Is Jacob Kasparian",
+      "claim": "The host says she identified the person who emerged from behind the bush as Jacob Kasparian and says she is not saying he did anything wrong.",
+      "anchored_artifacts": [
+        "A-3031.1"
+      ],
+      "related_nodes": [
+        "N-10137",
+        "N-10244"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:45",
+      "investigative_direction": "Verify the identification through event footage and ask Kasparian to account for his position; the host does not allege wrongdoing.",
+      "transcript_snippet": "His name is this person that was behind the bush is Jacob Kasparian.",
+      "mentions_person_refs": [
+        "N-314"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9800",
+      "ref": "C-9800",
+      "label": "Host Says Kasparian Posted About a Bulletproof Skateboard on September 10 and Never Posted About Kirk",
+      "claim": "The host says Kasparian posted on September 10 about his bulletproof skateboard, made no follow-up post about Charlie Kirk, and that nobody in his family posted about Kirk.",
+      "anchored_artifacts": [
+        "A-3031.1"
+      ],
+      "related_nodes": [
+        "N-10137"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:55",
+      "investigative_direction": "Capture the archived September 10 post and later posts by Kasparian and family members.",
+      "transcript_snippet": "they had posted on September 10th about uh their bulletproof skateboard",
+      "mentions_person_refs": [
+        "N-314",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9801",
+      "ref": "C-9801",
+      "label": "Host Says Kasparian's Father Is President of the Mormon Temple in Los Angeles",
+      "claim": "The host says Kasparian's father is, or was, president of the Mormon temple in Los Angeles, and that she hopes she has the title right.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10094"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:10",
+      "investigative_direction": "Verify the father's LDS temple role through Church records or announcements.",
+      "transcript_snippet": "president of uh the Mormon temple in Los Angeles.",
+      "mentions_person_refs": [
+        "N-314"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9802",
+      "ref": "C-9802",
+      "label": "Host Says She Is Still Researching Kasparian's Father's Middle East Connections",
+      "claim": "The host says that trying to figure out Kasparian's father and his connections to the Middle East becomes a dark hole, which she is still working on.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:20:33",
+      "investigative_direction": "Request the host's sourcing on the father's alleged Middle East ties.",
+      "transcript_snippet": "And then it just kind of becomes like a dark hole trying to figure out his father and his father's connections to the Middle East.",
+      "mentions_person_refs": [
+        "N-314"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9803",
+      "ref": "C-9803",
+      "label": "Host Says Kasparian Was Also Wearing a Maroon Shirt",
+      "claim": "The host says Kasparian, the person behind the bush, was also wearing a maroon shirt.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10275",
+        "N-10311"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:40",
+      "investigative_direction": "Confirm via footage the shirt color and the person's identity.",
+      "transcript_snippet": "But yes, he as well was wearing a maroon shirt.",
+      "mentions_person_refs": [
+        "N-314"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9804",
+      "ref": "C-9804",
+      "label": "Host Theorizes Posters Were Put Up at the Last Second to Control Attendance and Video",
+      "claim": "The host theorizes that posters for the event went up at the very last second so the military could control who attended and which videos reached the internet.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11236"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:50",
+      "investigative_direction": "Collect dated photographs and social posts showing when promotion began.",
+      "transcript_snippet": "the reason we waited till the very last second to put up posters about this event was because you didn't because you actually did want to control who went there that day."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9805",
+      "ref": "C-9805",
+      "label": "Host Suspects the Livestreamers That Day Had Military Backgrounds but Says She Must Check",
+      "claim": "The host says she thinks the people who were live streaming that day had military backgrounds, but adds she will have to check.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11236",
+        "N-10197"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:05",
+      "investigative_direction": "Identify each livestream account at the event and research the operators' backgrounds.",
+      "transcript_snippet": "Uh I I I even think and I I'll have to check this that the people that were live streaming that day had military uh backgrounds as well."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9806",
+      "ref": "C-9806",
+      "label": "Host Says the 920 North King Location Is 1,000 Percent Legitimate and Her Debunkers' Prank Narrative Is Wrong",
+      "claim": "The host says a trend claimed she was pranked by the person who emailed her about the location, but that she ran it up the chain for weeks and the location is 1,000 percent legitimate, and that she is getting phone calls about the panic it caused.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10284",
+        "N-10265"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:50",
+      "investigative_direction": "Request the host's verification trail for the 920 North King claim.",
+      "transcript_snippet": "I told you I had run that up the chain for weeks to make sure everything was legit about that location and it is 1,000% legit"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9807",
+      "ref": "C-9807",
+      "label": "Host Says the Egyptian Planes Were Definitively Pulled Into Satis and a Foreign Dignitary Was Escorted",
+      "claim": "The host says the Egyptian planes were definitively pulled into Satis and that a foreign dignitary was then escorted, for whatever reason, to a facility.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11008",
+        "N-10260",
+        "N-10265"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:20",
+      "investigative_direction": "Obtain Satis hangar logs and any escort records for foreign aircraft at Wilmington.",
+      "transcript_snippet": "The Egyptian planes definitively were pulled into Satis uh and that person was then escorted for whatever reason.",
+      "supports_claim_refs": [
+        "C-4919"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9808",
+      "ref": "C-9808",
+      "label": "Host Says the Facility Hosts Joint DHS and DOJ Operations Including Secret Service, FBI and DEA",
+      "claim": "The host says the facility to which the dignitary was escorted has joint operations among DHS and DOJ agencies, being the Secret Service, the FBI and the DEA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10265",
+        "N-10284"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:40",
+      "investigative_direction": "Confirm which agencies are tenants at 920 North King Street and 1 Rodney Square.",
+      "transcript_snippet": "where they have joint operations going on between the DHS and the DOJ uh being the Secret Service and the FBI and the DEA."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9809",
+      "ref": "C-9809",
+      "label": "Pre-Born Sponsor Read Says $28 Provides a Free Ultrasound",
+      "claim": "In a sponsor read, the host says $28 pays for a free ultrasound for a woman in crisis considering abortion, through preborn.org/candace.",
+      "anchored_artifacts": [
+        "A-3034.1"
+      ],
+      "related_nodes": [
+        "N-11191"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:04",
+      "investigative_direction": "Compare the $28 figure with Pre-Born's published cost per ultrasound.",
+      "transcript_snippet": "For just $28, that's what it costs to give a free ultrasound to a woman that is in crisis and considering an abortion.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9810",
+      "ref": "C-9810",
+      "label": "Host Says Netanyahu Met the Released Pollard on the Runway",
+      "claim": "The host says that when Jonathan Pollard was released he was welcomed in Israel with a red carpet and that she thinks Netanyahu met him on the runway.",
+      "anchored_artifacts": [
+        "A-1457.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:27:20",
+      "investigative_direction": "Check news reports of Pollard's 2020 arrival in Israel for who greeted him.",
+      "transcript_snippet": "I think BB Netanyahu met him met met him on the runway like you did you served us well",
+      "supports_claim_refs": [
+        "C-1778"
+      ],
+      "mentions_person_refs": [
+        "N-280",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9811",
+      "ref": "C-9811",
+      "label": "Host Says Bari Weiss Started and Part Owns the Free Press Before Going to CBS",
+      "claim": "The host says Bari Weiss started and is at least a part owner of The Free Press before going to CBS News, after leaving the New York Times saying it was biased.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10280",
+        "N-10282"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:47",
+      "investigative_direction": "Check corporate records of The Free Press ownership and the date of its acquisition or change.",
+      "transcript_snippet": "Barry Weiss started and is a part owner at least of the free press before before she went on to CBS News.",
+      "mentions_person_refs": [
+        "N-284"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9812",
+      "ref": "C-9812",
+      "label": "Host Says Ashley Rinzberg Lives in Tel Aviv",
+      "claim": "The host says Free Press writer Ashley Rinzberg, who sent her the email, lives in Tel Aviv.",
+      "anchored_artifacts": [
+        "A-1459.1"
+      ],
+      "related_nodes": [
+        "N-10280"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:33",
+      "investigative_direction": "Verify Rinzberg's residence from his public bios and bylines.",
+      "transcript_snippet": "Are you shocked if I tell you that Ashley Rinsberg, he happens to live in Tel Aviv?",
+      "mentions_person_refs": [
+        "N-282"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9813",
+      "ref": "C-9813",
+      "label": "Host Says Her Joke About Alexis Wilkins and Tim Dillon's Content Drew a Rant Against Her",
+      "claim": "The host says she made one slight joke mentioning Alexis Wilkins, referring to Tim Dillon's content and a YouTube strike, and that Wilkins went on a rant against her rather than against Dillon.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:31:50",
+      "investigative_direction": "Locate the host's remark, Wilkins's response and the YouTube strike notice.",
+      "transcript_snippet": "I make one slight mention joke about Alexis Wilkins, referring to Tim Dylan's content and us getting a strike, and she goes on a rant against me, not against Tim Dylan.",
+      "mentions_person_refs": [
+        "N-216",
+        "N-283",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9814",
+      "ref": "C-9814",
+      "label": "Host Says Brigitte Macron's Lawsuit Mentions Tim Dillon but Sues Only the Host",
+      "claim": "The host says that Brigitte Macron's lawsuit mentions Tim Dillon but sues the host rather than him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10270"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:20",
+      "investigative_direction": "Read the Delaware complaint for references to Dillon and the named defendants.",
+      "transcript_snippet": "Breashit sues me, not Tim Dylan, who she mentions in the lawsuit.",
+      "supports_claim_refs": [
+        "C-6665"
+      ],
+      "mentions_person_refs": [
+        "N-82",
+        "N-283",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9815",
+      "ref": "C-9815",
+      "label": "Tim Dillon Clip Says Weiss Was Sent to Make CBS a Vessel of State Propaganda",
+      "claim": "In the clip, Tim Dillon, speaking sarcastically in Weiss's voice, says Bari Weiss has been sent on a mission to destroy CBS as a legacy institution and make it a vessel of state propaganda, adding that the state is not America.",
+      "anchored_artifacts": [
+        "A-1460.1"
+      ],
+      "related_nodes": [
+        "N-10282",
+        "N-10334"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:45",
+      "investigative_direction": "Treat as satirical commentary; compare with Weiss's own statements on her CBS mandate.",
+      "transcript_snippet": "I'm here to make it a vessel of state propaganda. Which state? Well, we know which state. It's not America.",
+      "mentions_person_refs": [
+        "N-283",
+        "N-284"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9816",
+      "ref": "C-9816",
+      "label": "Tim Dillon Clip Says Larry Ellison Hired Weiss to Deliver Israeli Propaganda",
+      "claim": "In the clip, Tim Dillon says Weiss is there to deliver Israeli propaganda and that Larry Ellison hired her to do it.",
+      "anchored_artifacts": [
+        "A-1460.1"
+      ],
+      "related_nodes": [
+        "N-10282"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:50",
+      "investigative_direction": "Check reporting on who recommended or hired Weiss at CBS (Paramount Skydance leadership).",
+      "transcript_snippet": "She knows it. We know it. Larry Ellison hired her to do it.",
+      "mentions_person_refs": [
+        "N-283",
+        "N-284",
+        "N-143"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9817",
+      "ref": "C-9817",
+      "label": "Tim Dillon Clip Says Paramount Already Has a Blacklist of Actors",
+      "claim": "In the clip, Tim Dillon says Paramount already has a blacklist of actors who will never work there.",
+      "anchored_artifacts": [
+        "A-1460.1"
+      ],
+      "related_nodes": [
+        "N-10282"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:15",
+      "investigative_direction": "Look for reporting on any Paramount blacklist of actors.",
+      "transcript_snippet": "They've already got a blacklist of actors who will never work at Paramount.",
+      "mentions_person_refs": [
+        "N-283"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9818",
+      "ref": "C-9818",
+      "label": "Host Says She Was Physically Sick After the Assassination and Was Told She Was on a Short List to Be Murdered",
+      "claim": "The host says she was physically sick from watching the assassination, then physically sick from being told she was on a short list of people they were going to try to murder, and that people tried to delete her life.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:39:40",
+      "investigative_direction": "Identify who told her about the list and when; compare with Kolvet's reported September 10 warning.",
+      "transcript_snippet": "I was physically sick from then being told that I was on this short list that they were going to move to um try to murder me as well.",
+      "supports_claim_refs": [
+        "C-4978"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9819",
+      "ref": "C-9819",
+      "label": "Host Says Government Leaders Including Kash Patel Are Lying and Telling Americans Not to Believe Their Eyes",
+      "claim": "Responding to a viewer comment about the French, the host says the leaders of the government, like Kash Patel, are lying to the American people and telling them not to believe their own eyes.",
+      "anchored_artifacts": [
+        "A-3032.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:42:10",
+      "investigative_direction": "Specify which Patel statements the host considers false and test each against the record.",
+      "transcript_snippet": "like Kash Patel, the leaders of our government are lying to us and telling us not to believe our own eyes.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9820",
+      "ref": "C-9820",
+      "label": "Host Says Charlie Kirk Is Not in Witness Protection",
+      "claim": "Responding to a viewer comment hoping Kirk is in witness protection in an FBI-POTUS sting, the host says that is not at all what happened.",
+      "anchored_artifacts": [
+        "A-3032.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:42:35",
+      "investigative_direction": "Cross-check with the autopsy, hospital and funeral records the host cites.",
+      "transcript_snippet": "I can tell you that that is not at all what happened.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9821",
+      "ref": "C-9821",
+      "label": "Host Says Some Claim Valhalla Used to Be a Program in New Zealand",
+      "claim": "The host says people have said Valhalla used to be a program in New Zealand and that it would not be a good program.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10366"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:50",
+      "investigative_direction": "Check whether any New Zealand program named Valhalla exists.",
+      "transcript_snippet": "I know people were saying that like Valhalla used to be a program out in New Zealand."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9822",
+      "ref": "C-9822",
+      "label": "Host Says Her Contacts Saw Charlie's Body and Cannot Deny He Died",
+      "claim": "The host says she had to contend with the fact that Kirk's death is real, largely because her contacts saw Charlie's body and cannot deny it.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:43:10",
+      "investigative_direction": "Ask the host to specify whom she means by contacts who viewed the body, within source-protection limits.",
+      "transcript_snippet": "And that was obviously in large part due to uh my contacts that saw Charlie's body and can't deny that.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9823",
+      "ref": "C-9823",
+      "label": "Host Replies to a Viewer Who Said She Lost the Cringe Challenge",
+      "claim": "A viewer comment read by the host says she lost the cringe challenge, and the host responds asking whether she did not like Sweet Home Jerusalem.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:43:20",
+      "investigative_direction": "None; recorded for continuity with the Huckabee-Friedman clip.",
+      "transcript_snippet": "L of the Wanger writes, I lost the cringe challenge. What? You didn't like sweet home Jerusalem? No. Weird."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9824",
+      "ref": "C-9824",
+      "label": "Host Says Debunkers Falsely Claimed Kittis's Lawyer Is in the 920 North King Office",
+      "claim": "The host says the false debunking claimed that Kittis's lawyer is in the office at 920 North King, and that she wants to clarify.",
+      "anchored_artifacts": [
+        "A-3033.1"
+      ],
+      "related_nodes": [
+        "N-10284",
+        "N-10303"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:40",
+      "investigative_direction": "Identify who Kittis is and which law firm occupies the office; compare with the Richards Layton & Finger connection.",
+      "transcript_snippet": "to their like false debunking where they said, \"Kittis' lawyer is in this office.\""
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9825",
+      "ref": "C-9825",
+      "label": "Host Says She Withheld Parts of the Letter for a Specific Reason",
+      "claim": "The host says there were parts of the letter she did not read for a very specific reason.",
+      "anchored_artifacts": [
+        "A-3033.1"
+      ],
+      "related_nodes": [
+        "N-10284"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:55",
+      "investigative_direction": "Ask the host which parts were withheld and why, and obtain the full letter.",
+      "transcript_snippet": "there were parts of the letter that I did not read for a very specific reason."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9826",
+      "ref": "C-9826",
+      "label": "Host Says Her Lawyer Noah Must Attach a Local Firm's License When She Is Sued in Another State",
+      "claim": "The host says her lawyer has always been Noah, and that because she was sued in Delaware he must find a legal firm there that will let him attach its license in order to file paperwork.",
+      "anchored_artifacts": [
+        "A-3033.1"
+      ],
+      "related_nodes": [
+        "N-10270",
+        "N-10303"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:15",
+      "investigative_direction": "Review Delaware court filings for counsel of record and local-counsel arrangements.",
+      "transcript_snippet": "my lawyer, as you guys know, watching the show has always been Noah.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9827",
+      "ref": "C-9827",
+      "label": "Host Says Noah Is Never Listed on Her Paperwork and She Learned of the Local-Firm Point From the Letter",
+      "claim": "The host says in every lawsuit she has been involved in, Noah is never the one filing or listed on the paperwork, and that she was not aware of that before this letter.",
+      "anchored_artifacts": [
+        "A-3033.1"
+      ],
+      "related_nodes": [
+        "N-10303"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:45",
+      "investigative_direction": "Compare the host's filings in other states for the same pattern.",
+      "transcript_snippet": "in every lawsuit that I've been involved in, you will see that it's not it's never Noah that's actually filing or listing on any of the paperwork for that reason.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9828",
+      "ref": "C-9828",
+      "label": "Host Says Bloodlines Ruling the World Has Been Her Conclusion This Year",
+      "claim": "Reading a viewer comment that bloodlines rule the world, the host says that has kind of been her conclusion after this year.",
+      "anchored_artifacts": [
+        "A-3032.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:45:40",
+      "investigative_direction": "Not checkable as stated; record only.",
+      "transcript_snippet": "Bloodlines are ruling the world.\" That's kind of been my conclusion after this year.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9829",
+      "ref": "C-9829",
+      "label": "Host Says Joe Rogan Has Taken Risks on Israel, Had Ian Carroll On and Has Shouted Out Her Podcast",
+      "claim": "Replying to a viewer who said Rogan seemed to self-censor about Israel, the host says Rogan has had people on to speak about Israel, including Ian Carroll, and has shouted out her podcast, though she has not seen the episode.",
+      "anchored_artifacts": [
+        "A-3032.3"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:46:10",
+      "investigative_direction": "Check the Rogan episode with Ian Carroll and Rogan's on-air mentions of the host.",
+      "transcript_snippet": "Uh yeah, Joe Rogan has definitely taken a lot of risks. I haven't seen it and he definitely has shouted out this podcast",
+      "mentions_person_refs": [
+        "N-274",
+        "N-384",
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 37,
+          "video_timestamp": "00:41:12",
+          "speaker_node_ref": "N-3",
+          "quote": "...reative perspective there. This is why I love the decentralized intelligence agency. Holly Carlin writes, \"We needed a hoodie that says go Max.\" The get me out of here write...",
+          "context": "DIA / DCIA brand line from corrected transcript (CKA seq 37).",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "brand_joke",
+            "transcript_backfill"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-51",
+      "ref": "M-51",
+      "canonical_term": "Cringe",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 37,
+          "video_timestamp": "00:26:15",
+          "speaker_node_ref": "N-3",
+          "quote": "it's unbelievable the factor of cringe.",
+          "context": "Host rates a public spectacle as peak cringe.",
+          "confidence": "high",
+          "tags": [
+            "aesthetic",
+            "dunk",
+            "comedy"
+          ]
+        },
+        {
+          "episode": 37,
+          "video_timestamp": "00:43:20",
+          "speaker_node_ref": "N-3",
+          "quote": "I lost the cringe challenge.",
+          "context": "Host reads a viewer comment about the cringe challenge after the Huckabee-Friedman clip.",
+          "confidence": "high",
+          "tags": [
+            "cringe",
+            "viewer_comment"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 37,
+          "video_timestamp": "00:00:50",
+          "speaker_node_ref": "N-3",
+          "quote": "Charlie would indeed want us to keep going, Max.",
+          "context": "Host opens by saying Charlie would want the investigation to keep going.",
+          "confidence": "high",
+          "tags": [
+            "go_max",
+            "brand_line",
+            "opener"
+          ]
+        },
+        {
+          "episode": 37,
+          "video_timestamp": "00:41:12",
+          "speaker_node_ref": "N-3",
+          "quote": "We needed a hoodie that says go Max.",
+          "context": "Host reads a viewer joke about a go Max hoodie and says they will do it when the case is solved.",
+          "confidence": "high",
+          "tags": [
+            "go_max",
+            "merch",
+            "viewer_comment"
+          ]
+        },
+        {
+          "episode": 37,
+          "video_timestamp": "00:46:00",
+          "speaker_node_ref": "N-3",
+          "quote": "Keep going, Max.",
+          "context": "Host reads a viewer comment ending with the go Max catchphrase.",
+          "confidence": "high",
+          "tags": [
+            "go_max",
+            "viewer_comment"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-5",
+      "ref": "M-5",
+      "canonical_term": "happy coincidence",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 37,
+          "video_timestamp": "00:09:53",
+          "speaker_node_ref": "N-3",
+          "quote": "it sure must be something of just a coincidence that Valhalla",
+          "context": "Host sarcastically calls the Valhalla wording a coincidence.",
+          "confidence": "high",
+          "tags": [
+            "coincidence",
+            "sarcasm"
+          ]
+        },
+        {
+          "episode": 37,
+          "video_timestamp": "00:10:47",
+          "speaker_node_ref": "N-3",
+          "quote": "Probably just a coincidence, you guys, that this operation also fits just so neatly into our timeline.",
+          "context": "Host sarcastically notes the exercise fits her timeline.",
+          "confidence": "high",
+          "tags": [
+            "coincidence",
+            "sarcasm",
+            "timeline"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-34",
+      "ref": "M-34",
+      "canonical_term": "Deep State",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 37,
+          "video_timestamp": "00:22:50",
+          "speaker_node_ref": "N-3",
+          "quote": "it very much feels to me like it was a deep state operation",
+          "context": "Host closes the segment calling the events a deep state operation.",
+          "confidence": "high",
+          "tags": [
+            "deep_state"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-29",
+      "ref": "M-29",
+      "canonical_term": "You Can't Make This Up",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 37,
+          "video_timestamp": "00:31:33",
+          "speaker_node_ref": "N-3",
+          "quote": "You just cannot make it up.",
+          "context": "Host reacts to Rinzberg living in Tel Aviv.",
+          "confidence": "high",
+          "tags": [
+            "cant_make_it_up",
+            "incredulity"
+          ]
+        }
+      ]
+    }
+  ]
 }

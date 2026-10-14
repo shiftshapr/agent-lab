@@ -417,6 +417,129 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3017",
+      "family_ref": "A-3017",
+      "bundle_name": "NYC Mayoral Debate Israel Exchange Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3017.1",
+          "ref": "A-3017.1",
+          "description": "Debate clip continuation in which Mamdani is asked whether he believes in a Jewish state of Israel (played on screen; candidate answers about visiting Israel and right to exist)",
+          "related_claims": [
+            "C-9529"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:12:31",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3018",
+      "family_ref": "A-3018",
+      "bundle_name": "Ted Cruz Reply Tweet Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3018.1",
+          "ref": "A-3018.1",
+          "description": "Ted Cruz tweet replying to Brett Cooper, read aloud by the host",
+          "related_claims": [
+            "C-9541",
+            "C-9542"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:21:52",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3019",
+      "family_ref": "A-3019",
+      "bundle_name": "Riverbend Ranch Sponsor Read Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3019.1",
+          "ref": "A-3019.1",
+          "description": "Host sponsor read for Riverbend Ranch beef (spoken, nothing shown)",
+          "related_claims": [
+            "C-9546"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:27:22",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3020",
+      "family_ref": "A-3020",
+      "bundle_name": "Viewer Comments Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3020.1",
+          "ref": "A-3020.1",
+          "description": "Viewer comment from Steven Forker read by the host",
+          "related_claims": [
+            "C-9574"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:54:27",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3020.2",
+          "ref": "A-3020.2",
+          "description": "Viewer comment from Caitlyn Kerry about Jordan Peterson getting sick in Israel, read by the host",
+          "related_claims": [
+            "C-9577"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:58:11",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3020.3",
+          "ref": "A-3020.3",
+          "description": "Viewer comment from Noah that APAC will try to stage a hostile takeover of Turning Point USA, read by the host",
+          "related_claims": [
+            "C-9578"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:58:59",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -854,13 +977,946 @@
       "type": "person",
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9513",
+        "C-9514",
+        "C-9515",
+        "C-9517",
+        "C-9518",
+        "C-9519",
+        "C-9522",
+        "C-9523",
+        "C-9524",
+        "C-9530",
+        "C-9531",
+        "C-9535",
+        "C-9546",
+        "C-9547",
+        "C-9559",
+        "C-9562",
+        "C-9563",
+        "C-9564",
+        "C-9567",
+        "C-9568",
+        "C-9574",
+        "C-9575",
+        "C-9577",
+        "C-9578",
+        "C-9579",
+        "C-9580",
+        "C-9581",
+        "C-9582",
+        "C-9583"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Erika Kirk; subject of the call and interview claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9554",
+        "C-9555",
+        "C-9557",
+        "C-9567"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Donald Trump; subject of host claims on posts and the Epstein remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9520",
+        "C-9533",
+        "C-9534",
+        "C-9535",
+        "C-9574"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Frank Turek (host says \"Frank Turk\"); named as a witness at the hospital.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9561"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Jeffrey Epstein; named in the host's Trump comments.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9535",
+        "C-9574"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Tucker Carlson; named in claims on Kirk, Cooper and the RJC event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9523",
+        "C-9535",
+        "C-9537",
+        "C-9539",
+        "C-9540"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Benjamin Netanyahu; named in Cooper's Randy Fine remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9538"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Bill Ackman (transcribed \"Bill Aman\"); named for his reported $1.75 million against Mamdani.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9525"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-50",
+      "ref": "N-50",
+      "name": "Sigmund Freud",
+      "type": "person",
+      "description": "Sigmund Freud (host says \"Sigman Freud\"); subject of the host's gaslighting claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9575",
+        "C-9576"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-55",
+      "ref": "N-55",
+      "name": "Josh Hammer",
+      "type": "person",
+      "description": "Josh Hammer; subject of claims on his clip and signaling.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9572",
+        "C-9573"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Kash Patel; named in the host's claim about his reported anger.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9583"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-95",
+      "ref": "N-95",
+      "name": "Jack Posobiec",
+      "type": "person",
+      "description": "Jack Posobiec (transcribed \"Jack Bobic\"); named in the YouTube channel list.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9566"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Ben Shapiro; named in the YouTube channel list.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9566"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-98",
+      "ref": "N-98",
+      "name": "Bob Shulman",
+      "type": "person",
+      "description": "Bob Shulman (host says \"Bob Showman\"); the donor the host says took $2 million from Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9540"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Michael Knowles",
+      "type": "person",
+      "description": "Michael Knowles (host says \"Michael Nolles\"); named as a friend of Ted Cruz.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9542"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-120",
+      "ref": "N-120",
+      "name": "Vivek Ramaswamy",
+      "type": "person",
+      "description": "Vivek Ramaswamy (transcribed \"Vik Ramoswami\"); said not to have worn an Israeli pin.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9530"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-132",
+      "ref": "N-132",
+      "name": "Susie Wiles",
+      "type": "person",
+      "description": "Susie Wiles; the host says she eulogized Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9519",
+        "C-9520"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-184",
+      "ref": "N-184",
+      "name": "Camera Operator (UVU Event, 2025-09-10)",
+      "type": "person",
+      "description": "Camera Operator (UVU Event, 2025-09-10); the host's \"camera boy\" who removed cameras.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9549"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-205",
+      "ref": "N-205",
+      "name": "Nick Fuentes",
+      "type": "person",
+      "description": "Nick Fuentes; named in the Ted Cruz tweets and the host's MAGA comment.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9535",
+        "C-9539",
+        "C-9541"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-215",
+      "ref": "N-215",
+      "name": "Jesse Watters",
+      "type": "person",
+      "description": "Jesse Watters (transcribed \"Jesse Waters\"); interviewer of Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9567"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-221",
+      "ref": "N-221",
+      "name": "Eliza McCoy",
+      "type": "person",
+      "description": "Eliza McCoy (host says \"Elizabeth McCoy\"); Mikey McCoy's wife in the host's three-calls claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9558"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-607",
+      "ref": "N-607",
+      "name": "Jordan Peterson",
+      "type": "person",
+      "description": "Jordan Peterson; subject of a viewer comment.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9577"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10002",
+      "ref": "N-10002",
+      "name": "Charlie Kirk Death and Memorial",
+      "type": "investigation_target",
+      "description": "Existing topic reused for memorial claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9520",
+        "C-9565"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Utah Valley University; venue of the September 10 event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9513",
+        "C-9518"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10064",
+      "ref": "N-10064",
+      "name": "The Pentagon",
+      "type": "investigation_target",
+      "description": "The Pentagon; named in the host's 9/11 comments.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9568"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10073",
+      "ref": "N-10073",
+      "name": "APAC",
+      "type": "investigation_target",
+      "description": "APAC; named in the viewer comment about a TPUSA takeover.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9578"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10124",
+      "ref": "N-10124",
+      "name": "Riverbend Ranch",
+      "type": "investigation_target",
+      "description": "Riverbend Ranch; the sponsor in the ad read.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9546"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10149",
+      "ref": "N-10149",
+      "name": "Hospital Routing Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for hospital arrival and lockdown claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9560",
+        "C-9561"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10193",
+      "ref": "N-10193",
+      "name": "Mikey McCoy Call Log Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for call-log claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9562",
+        "C-9563"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10194",
+      "ref": "N-10194",
+      "name": "TPUSA Succession Plan Disclosure Timeline",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the succession plan claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9521"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10198",
+      "ref": "N-10198",
+      "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Mikey McCoy's movement claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9556",
+        "C-9579",
+        "C-9580"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10199",
+      "ref": "N-10199",
+      "name": "Susie Wiles Eulogy-Selection Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Wiles eulogy claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9520"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10202",
+      "ref": "N-10202",
+      "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Kash Patel claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9583"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10217",
+      "ref": "N-10217",
+      "name": "TPUSA Leadership Transparency Pressure (Post-Charlie)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the transparency claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9562"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10218",
+      "ref": "N-10218",
+      "name": "McCoy Succession Plan",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the McCoy succession plan claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9521",
+        "C-9522"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10222",
+      "ref": "N-10222",
+      "name": "Israeli Cell Phone Presence on 9/10",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Israeli cell phone cover-up claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9582"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10324",
+      "ref": "N-10324",
+      "name": "Epstein Files Release Status",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Epstein donors claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9574"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10338",
+      "ref": "N-10338",
+      "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the post-shooting call claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9554",
+        "C-9555",
+        "C-9557",
+        "C-9558",
+        "C-9563"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10482",
+      "ref": "N-10482",
+      "name": "Mikey McCoy Phone Call Sequence",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the call length claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9557"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10587",
+      "ref": "N-10587",
+      "name": "Trump Truth Social Post Pattern Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Trump posting claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9533",
+        "C-9534"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10628",
+      "ref": "N-10628",
+      "name": "Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Loomer 5150 claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9569"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10630",
+      "ref": "N-10630",
+      "name": "Laura Loomer Identity Claims (Jewish Heritage)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Loomer identity claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9570",
+        "C-9571"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10715",
+      "ref": "N-10715",
+      "name": "Blake Neff September 10th Movement Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Blake Neff's movement claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9552",
+        "C-9553"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10917",
+      "ref": "N-10917",
+      "name": "Republican Jewish Coalition",
+      "type": "investigation_target",
+      "description": "Republican Jewish Coalition; event Cooper watched.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9537"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11100",
+      "ref": "N-11100",
+      "name": "Charlie Kirk Post-Shooting First Aid Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the first-aid claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9547",
+        "C-9550"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-858",
+      "ref": "N-858",
+      "name": "Andrew Cuomo",
+      "type": "person",
+      "description": "First named by the host at 00:09:05 in episode 26. Former New York governor who ran against Zohran Mamdani in the 2025 NYC mayoral race; the host says Republicans earlier called him corrupt.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9524",
+        "C-9527"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-859",
+      "ref": "N-859",
+      "name": "Michael Bloomberg",
+      "type": "person",
+      "description": "First named by the host at 00:10:00 in episode 26. Billionaire the host says gave $8.3 million to a Cuomo-affiliated super PAC opposing Mamdani.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9526"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-860",
+      "ref": "N-860",
+      "name": "Joe Gebbia",
+      "type": "person",
+      "description": "First named by the host at 00:10:00 in episode 26 as the Airbnb co-founder \"Joseph Gbia\", whom she says gave $3.1 million against Mamdani.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9526"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-861",
+      "ref": "N-861",
+      "name": "Jeffrey Moussaieff Masson",
+      "type": "person",
+      "description": "First named by the host at 00:56:15 in episode 26 (transcribed \"Jeffrey Mason\" and \"Jeffrey Mone\"). Author of The Assault on Truth, whom the host cites on Freud and the Freud archives.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9575",
+        "C-9576"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-862",
+      "ref": "N-862",
+      "name": "Theodor Herzl",
+      "type": "person",
+      "description": "First named by the host at 00:54:27 in episode 26 (transcribed \"Theodore Herzel\"). Founder of political Zionism whom the host links to Freud.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9575"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11226",
+      "ref": "N-11226",
+      "name": "Mamdani Mayoral Race Opposition Spending",
+      "type": "topic",
+      "description": "Donations the host lists against Zohran Mamdani in the 2025 NYC mayoral race: Bill Ackman $1.75 million, Michael Bloomberg $8.3 million, Joe Gebbia $3.1 million and the Tisch family $1.2 million.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9524",
+        "C-9525",
+        "C-9526"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11227",
+      "ref": "N-11227",
+      "name": "AIPAC Hostile Takeover of TPUSA Claim",
+      "type": "topic",
+      "description": "The host's statement, prompted by a viewer comment, that APAC has already taken over or been taking over Turning Point USA, with evidence promised but not yet given.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9578"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1214,7 +2270,1537 @@
         "N-1",
         "N-194"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9513",
+      "ref": "C-9513",
+      "label": "UVU Approval as First Stop Unprecedented in Host's Tour Experience",
+      "claim": "The host says UVU's mid-July request for Charlie Kirk was immediately approved and scheduled as his first stop some six weeks later, and that this has never happened in the history of her campus tours.",
+      "anchored_artifacts": [
+        "A-1333.2"
+      ],
+      "related_nodes": [
+        "N-10224",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:39",
+      "investigative_direction": "Obtain TPUSA's campus-tour approval records for fall 2025 and compare request-to-approval intervals for other stops with UVU's.",
+      "transcript_snippet": "That has never happened in the history of my having done campus tours.",
+      "supports_claim_refs": [
+        "C-6567"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9514",
+      "ref": "C-9514",
+      "label": "Host and Kirk Toured Together in April 2024 and Split Stops",
+      "claim": "The host says she and Charlie Kirk went on a campus tour together in April 2024 and split certain locations so as many places across the United States as possible were covered.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:39",
+      "investigative_direction": "Obtain the April 2024 tour schedule showing which stops each of them covered.",
+      "transcript_snippet": "Charlie and I went on tour in April of 2024 together.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9515",
+      "ref": "C-9515",
+      "label": "Oct 2023 Email Lists UNC, Pittsburgh and Alabama as Pending Spring Events",
+      "claim": "The host says the October 2023 planning email listed the University of North Carolina at Chapel Hill, the University of Pittsburgh and the University of Alabama as pending end-of-March and early-April events, and that she thinks the first two were held.",
+      "anchored_artifacts": [
+        "A-1333.1"
+      ],
+      "related_nodes": [
+        "N-10224"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:45",
+      "investigative_direction": "Obtain the full October 2023 email and compare it with the actual spring 2024 tour dates and venues.",
+      "transcript_snippet": "University of North Carolina, Chapel Hill, which I think we ended up doing.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9516",
+      "ref": "C-9516",
+      "label": "TPUSA Does Not Approve Events Instantly; Spring Requests Roll to Fall",
+      "claim": "The host says events are not instantly approved at Turning Point USA, that requests it could not fulfil in spring were rolled over to campuses the following fall semester, and that planning runs far in advance because Charlie Kirk travels constantly.",
+      "anchored_artifacts": [
+        "A-1333.1"
+      ],
+      "related_nodes": [
+        "N-10000",
+        "N-10224"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:40",
+      "investigative_direction": "Obtain TPUSA event-planning SOPs or former tour staff accounts on approval lead times and rollover practice.",
+      "transcript_snippet": "You don't you don't instantly get approved for an event at Turning Point USA.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9517",
+      "ref": "C-9517",
+      "label": "Host Says UVU Approval Speed Points to Inside Job and TPUSA Involvement",
+      "claim": "The host says the speed of the UVU approval reeks of an inside job and that, because TPUSA is giving no clarity, it is somehow involved at some layer.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10224"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:40",
+      "investigative_direction": "Obtain TPUSA and UVU correspondence on the request and approval; identify who approved it and when.",
+      "transcript_snippet": "It reeks of an inside job.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9518",
+      "ref": "C-9518",
+      "label": "Second Utah Stop Planned Ten Days After September 10",
+      "claim": "The host says Charlie Kirk was slated to speak in Utah on September 10 and return ten days later to a different Utah campus under two hours away, and that TPUSA normally does campus events back to back in a sweep, as with UCLA, Berkeley and Stanford.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-10224"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:44",
+      "investigative_direction": "Obtain the fall 2025 tour schedule, including the second Utah campus stop and its booking date.",
+      "transcript_snippet": "Charlie was slated to speak in Utah on September 10th and then was due to return just 10 days later to a different campus in Utah.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9519",
+      "ref": "C-9519",
+      "label": "Host Says Apparent Plan Was to Kill Kirk and Take Over His Brand",
+      "claim": "The host says it looks to her as though the apparent plan was to assassinate Charlie Kirk, who she says had faltered on the pro-Israel cause (his words, not hers), and then stage a hostile takeover of his brand and legacy.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:44",
+      "investigative_direction": "Identify the source of Kirk's own words on faltering on the pro-Israel cause and document any takeover steps at TPUSA after September 10.",
+      "transcript_snippet": "it's looking to me like the apparent plan was to assassinate Charlie Kirk, who had at long last faltered on the pro-Israel cause.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-132",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9520",
+      "ref": "C-9520",
+      "label": "Susie Wiles Eulogized Kirk; Host Calls Memorial an Effective Trump Rally",
+      "claim": "The host says Susie Wiles made it onto the stage to eulogize Charlie Kirk at the memorial and that the event was turned into an effective Trump rally.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10002",
+        "N-10199"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:59",
+      "investigative_direction": "Obtain the memorial speaker list and transcript of the speeches.",
+      "transcript_snippet": "we've turned uh this event into an effective Trump rally.",
+      "mentions_person_refs": [
+        "N-132",
+        "N-1",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9521",
+      "ref": "C-9521",
+      "label": "Host Says McCoy Told Americans Kirk Wrote a Succession Plan in Notebooks",
+      "claim": "The host says Pastor Rob McCoy told Americans that Charlie Kirk kept notebooks and diaries in which he wrote a succession plan, and she sarcastically retells it as a notebook describing Mikey McCoy with adjectives like \"fantastic\" and \"heroic\".",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10218",
+        "N-10194"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:59",
+      "investigative_direction": "Obtain McCoy's original statement and any notebook pages or provenance for the succession plan.",
+      "transcript_snippet": "it just so happened that Charlie Kirk kept notebooks and diaries.",
+      "supports_claim_refs": [
+        "C-1585"
+      ],
+      "mentions_person_refs": [
+        "N-17",
+        "N-1",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9522",
+      "ref": "C-9522",
+      "label": "Host Says Notebooks Were Never Going to Be Open to the Public",
+      "claim": "The host says the public is not going to be allowed to read Charlie Kirk's notebooks but is expected to accept that others read them, and that a succession plan would normally be formalized in a will drawn up by one of his lawyers, which she assumes he had.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10218"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:56",
+      "investigative_direction": "Ask TPUSA for access to or custody records of the notebooks; check probate or estate filings for a will.",
+      "transcript_snippet": "the ghost of Charlie's notebooks that were never going to be allowed to read, but we're supposed to accept that they most definitely read.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9523",
+      "ref": "C-9523",
+      "label": "Host Says Kirk Is Portrayed as Wanting Anger at Tucker and Silence on His Murder",
+      "claim": "The host says the public is supposed to think Charlie Kirk would want people to be mad at Tucker Carlson and to stop speaking about his murder.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:05",
+      "investigative_direction": "Identify who has publicly stated that Kirk would want this, and the exact words used.",
+      "transcript_snippet": "we're supposed to think that he would want us to be mad at Tucker Carlson and that he would want us to stop speaking about his murder",
+      "mentions_person_refs": [
+        "N-1",
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9524",
+      "ref": "C-9524",
+      "label": "Mamdani Beat Cuomo Despite Money; Republicans Earlier Called Cuomo Corrupt",
+      "claim": "The host says Zohran Mamdani won pretty handily against Andrew Cuomo despite billionaire money flowing into the anti-Mamdani campaign, and that Republicans had recently called Cuomo unbelievably corrupt and said he should be in prison.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11226"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:05",
+      "investigative_direction": "Check certified NYC mayoral results and the dated Republican statements about Cuomo.",
+      "transcript_snippet": "He won pretty handily against Andrew Cuomo, which like 5 minutes ago, the Republican party was telling us he was unbelievably corrupt and that he should be in prison.",
+      "mentions_person_refs": [
+        "N-227",
+        "N-858",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9525",
+      "ref": "C-9525",
+      "label": "Host Says Bill Ackman Gave $1.75 Million Against Mamdani",
+      "claim": "The host says Bill Ackman gave $1.75 million in the effort against Zohran Mamdani and at times demanded a debate with him, and that Mamdani won regardless.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11226"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:00",
+      "investigative_direction": "Check super PAC and campaign finance filings for Ackman's contributions in the 2025 NYC mayoral race.",
+      "transcript_snippet": "Bill gave 1.75 million and Mom Donnie won irrespective of the money that was donated against him.",
+      "mentions_person_refs": [
+        "N-37",
+        "N-227"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9526",
+      "ref": "C-9526",
+      "label": "Host Lists Bloomberg, Gebbia and Tisch Family Spending Against Mamdani",
+      "claim": "The host says Michael Bloomberg gave $8.3 million to a Cuomo-affiliated super PAC, Airbnb co-founder Joseph Gebbia gave $3.1 million, and the Tisch family gave $1.2 million, and that Mamdani still won.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11226"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:00",
+      "investigative_direction": "Check NYC Campaign Finance Board and super PAC filings for each donor's contribution.",
+      "transcript_snippet": "He gave $8.3 million to Stop Mand Donnie and it didn't matter.",
+      "mentions_person_refs": [
+        "N-859",
+        "N-860",
+        "N-227"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9527",
+      "ref": "C-9527",
+      "label": "Debate Clip: Cuomo Says He Would Go to Israel First",
+      "claim": "In the debate clip, Andrew Cuomo says that, given hostility and anti-semitism in New York, he would go to Israel.",
+      "anchored_artifacts": [
+        "A-1334.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:11:41",
+      "investigative_direction": "Locate the unedited mayoral debate video and confirm which candidate gave each answer.",
+      "transcript_snippet": "given the hostility and the anti-semitism that has been uh shown in New York, I would go to Israel.",
+      "mentions_person_refs": [
+        "N-858"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9528",
+      "ref": "C-9528",
+      "label": "Debate Clip: Candidate Says Fourth Trip to Israel, Fifth to Ukraine",
+      "claim": "In the debate clip, a candidate addressed as \"Mr. Tilson\" says he would make his fourth trip to Israel followed by his fifth trip to Ukraine, which he calls two of the greatest allies.",
+      "anchored_artifacts": [
+        "A-1334.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:11:41",
+      "investigative_direction": "Locate the unedited debate video to identify the candidate the transcript renders as \"Mr. Tilson\".",
+      "transcript_snippet": "I'd make my fourth trip to Israel, followed by my fifth trip to Ukraine"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9529",
+      "ref": "C-9529",
+      "label": "Debate Clip: Mamdani Answer on Israel's Right to Exist",
+      "claim": "In the debate clip, asked \"Do you believe in a Jewish state of Israel?\", Zohran Mamdani answers that he believes Israel has the right to exist, with the clip's speakers disputing whether he will say it as a Jewish state.",
+      "anchored_artifacts": [
+        "A-3017.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:12:31",
+      "investigative_direction": "Locate the unedited debate video and compare the exact exchange with the host's characterization.",
+      "transcript_snippet": "Do you believe in a Jewish state of Israel? >> I believe Israel has the right to exist",
+      "mentions_person_refs": [
+        "N-227"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9530",
+      "ref": "C-9530",
+      "label": "Host Says Only Ramaswamy Skipped the Israeli Flag Pin in Presidential Debates",
+      "claim": "The host says that during the Republican presidential debates most candidates wore an Israeli flag pin and that only Vivek Ramaswamy did not.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:13:26",
+      "investigative_direction": "Review debate footage and photographs for which candidates wore Israeli pins.",
+      "transcript_snippet": "there was only only Vik Ramoswami was not wearing the Israeli pin.",
+      "mentions_person_refs": [
+        "N-120",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9531",
+      "ref": "C-9531",
+      "label": "Host Says NYC Has Largest Jewish Population Outside Israel; Mamdani Took a Large Share",
+      "claim": "The host says New York has the largest Jewish population of any city in the world outside Israel and that Mamdani, while not winning the Jewish vote, got too much of it.",
+      "anchored_artifacts": [
+        "A-1342.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:14:08",
+      "investigative_direction": "Check city Jewish population estimates and the exit-poll breakdown by religion.",
+      "transcript_snippet": "New York has the largest population of Jewish people of any city in the world next to Israel.",
+      "mentions_person_refs": [
+        "N-227",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9532",
+      "ref": "C-9532",
+      "label": "Mark Says Exit Poll Shows Israel Was a Factor for Many Voters",
+      "claim": "Mark Herman says the CNN exit poll shows that Israel was a factor in a lot of voters' choices.",
+      "anchored_artifacts": [
+        "A-1342.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:14:08",
+      "investigative_direction": "Obtain the CNN exit poll crosstabs for the Israel-related question.",
+      "transcript_snippet": "you can see that Israel was a factor in a lot of these people's votes.",
+      "mentions_person_refs": [
+        "N-67"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9533",
+      "ref": "C-9533",
+      "label": "Host Says Trump Posted 900 Percent More About Defeating Mamdani Than Finding Kirk's Killer",
+      "claim": "The host says President Trump dedicated 900 percent more Truth Social posts to ensuring Mamdani would lose than to ensuring Charlie Kirk's murderer was found.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10587"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:05",
+      "investigative_direction": "Count Trump's Truth Social posts on Mamdani and on the Kirk investigation over the same period.",
+      "transcript_snippet": "President Trump dedicated 900% more truth social uh posts to ensuring that Mandani would lose than to ensuring that Charlie Kirk's murderer was found.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-227",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9534",
+      "ref": "C-9534",
+      "label": "Host Says Trump Sent No Message About Investigating Kirk's Murder",
+      "claim": "The host says Donald Trump did not send even one message about investigating Charlie Kirk's murder.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10587"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:05",
+      "investigative_direction": "Search Trump's Truth Social posts since September 10 for any reference to investigating Kirk's murder.",
+      "transcript_snippet": "he didn't even send one message about uh investigating Charlie's murder.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9535",
+      "ref": "C-9535",
+      "label": "Host Says MAGA Fractured When Trump Said \"Epstein, Who?\"",
+      "claim": "The host says MAGA fractured not when Tucker Carlson interviewed Nick Fuentes but when Donald Trump said \"Epsteeen, who?\".",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:16:26",
+      "investigative_direction": "Locate Trump's dated \"Epstein, who?\" remark in the original interview.",
+      "transcript_snippet": "MAGA got fractured. Not when Tucker Carlson interviewed Nick Fuentes, but when Donald Trump looked at us in our faces",
+      "mentions_person_refs": [
+        "N-5",
+        "N-22",
+        "N-205",
+        "N-9",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9536",
+      "ref": "C-9536",
+      "label": "Host Says Brett Cooper Encouraged New Yorkers to Vote Against Mamdani",
+      "claim": "The host says Brett Cooper did her part and encouraged New Yorkers to get out and vote against Mamdani, and was still attacked after one critique.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:16:55",
+      "investigative_direction": "Locate Cooper's pre-election video urging New Yorkers to vote.",
+      "transcript_snippet": "Zionist wanted her do her part and encourage New Yorkers to get out and vote against Mam Donnie.",
+      "mentions_person_refs": [
+        "N-225",
+        "N-227"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9537",
+      "ref": "C-9537",
+      "label": "Host Says Cooper Watched the Republican Jewish Coalition Event Targeting Tucker",
+      "claim": "The host says Brett Cooper watched the Republican Jewish Coalition event about Tucker Carlson not being MAGA and agreed that demands to censor and deplatform are childish and ineffective.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10917"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:55",
+      "investigative_direction": "Locate the Republican Jewish Coalition event recording and Cooper's reaction video.",
+      "transcript_snippet": "she watched the totally deranged Tucker is not MAGA Republican Jewish coalition event",
+      "mentions_person_refs": [
+        "N-225",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9538",
+      "ref": "C-9538",
+      "label": "Cooper Clip: Fine Bragged About Not Washing Hands After Netanyahu, Went to Anger Management",
+      "claim": "In the clip, Brett Cooper says Randy Fine bragged about not washing his hands after shaking Netanyahu's hand, has repeatedly introduced bills to criminalize anti-semitism, and had to go through anger management classes a few years ago.",
+      "anchored_artifacts": [
+        "A-1336.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:18:25",
+      "investigative_direction": "Verify Fine's handshake remark and anger-management reporting in primary sources.",
+      "transcript_snippet": "considering you had to go through anger management classes a few years ago, I genuinely think you would probably be happier if you just moved to Israel.",
+      "mentions_person_refs": [
+        "N-225",
+        "N-226",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9539",
+      "ref": "C-9539",
+      "label": "Cooper Clip: Quotes Two Ted Cruz Tweets on \"Nazi\"",
+      "claim": "In the clip, Brett Cooper reads two Ted Cruz tweets: one a month earlier saying they call you a Nazi so they can kill you and that political violence is a left-wing phenomenon, and a later one in response to Fuentes and Tucker saying Trump's bombing of the Ayatollah's nuclear facilities \"made the little Nazi mad\".",
+      "anchored_artifacts": [
+        "A-1336.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:19:39",
+      "investigative_direction": "Locate both Ted Cruz tweets and their dates on X.",
+      "transcript_snippet": "Trump's bombing of the Ayatollah's nuclear facilities made the little Nazi mad.",
+      "mentions_person_refs": [
+        "N-107",
+        "N-225",
+        "N-205",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9540",
+      "ref": "C-9540",
+      "label": "Host Says Showman Took $2 Million From Kirk Over Tucker Carlson Stage Appearance",
+      "claim": "The host says that after Charlie Kirk was called an anti-semite for sitting down with Gen Z, financial threats were made and carried out, citing Bob Showman taking $2 million away from him because he let Tucker Carlson on stage.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:20:14",
+      "investigative_direction": "Obtain donor records or statements confirming a $2 million withdrawal and its stated reason.",
+      "transcript_snippet": "People like Bob Showman took $2 million away from him because he let Tucker Carlson hit the stage.",
+      "mentions_person_refs": [
+        "N-98",
+        "N-1",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9541",
+      "ref": "C-9541",
+      "label": "Ted Cruz Reply Tweet Says He Does Not Know \"This Angry Lady\"",
+      "claim": "The host reads a Ted Cruz tweet saying he does not know \"this angry lady\", that Fuentes calls himself a Nazi, and that anyone who sides with Hitler is an actual Nazi, and objects that it tries to big-time a 23-year-old.",
+      "anchored_artifacts": [
+        "A-3018.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:21:52",
+      "investigative_direction": "Locate the Ted Cruz tweet on X and confirm its wording and date.",
+      "transcript_snippet": "I don't know who this angry lady is, but she's missing a key distinction.",
+      "mentions_person_refs": [
+        "N-107",
+        "N-225",
+        "N-205"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9542",
+      "ref": "C-9542",
+      "label": "Host Says Cruz Appeared in Lady Ballers and Is Friends With Knowles",
+      "claim": "The host says Ted Cruz was featured in the Daily Wire movie Lady Ballers, in which Brett Cooper starred, and is good friends with Michael Knowles, so he knows who Cooper is.",
+      "anchored_artifacts": [
+        "A-3018.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:21:52",
+      "investigative_direction": "Check Lady Ballers cast credits for Cruz and Cooper.",
+      "transcript_snippet": "you were featured in a movie that Brett Cooper starred in at the Daily Wire, Lady Ballers.",
+      "mentions_person_refs": [
+        "N-107",
+        "N-225",
+        "N-102"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9543",
+      "ref": "C-9543",
+      "label": "Cooper Clip: Her Mother Spoke Through Mediums to Her First Husband",
+      "claim": "In the Shawn Ryan clip, Brett Cooper says her mother visited multiple mediums, one in New York, and was able to speak to her first husband Don, and that a miscarried baby may have come through.",
+      "anchored_artifacts": [
+        "A-1338.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:24:28",
+      "investigative_direction": "Locate the full Shawn Ryan episode featuring Cooper.",
+      "transcript_snippet": "she was able to speak to Don, her first husband, to hear from him.",
+      "mentions_person_refs": [
+        "N-225",
+        "N-229"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9544",
+      "ref": "C-9544",
+      "label": "Host Says Cooper's Twin Brother Died of a Heart Attack and Surviving Brother Is Hospitalized",
+      "claim": "The host says Brett Cooper told on the Shawn Ryan Show that one of her twin brothers died suddenly of a heart attack, that the surviving twin is in a mental hospital and cared for by her, and that the loss led to her parents' divorce.",
+      "anchored_artifacts": [
+        "A-1338.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:25:20",
+      "investigative_direction": "Locate the full Shawn Ryan episode and confirm what Cooper said about her brothers.",
+      "transcript_snippet": "one of her twin brothers dropped dead from a heart attack unexpectedly.",
+      "mentions_person_refs": [
+        "N-225",
+        "N-229"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9545",
+      "ref": "C-9545",
+      "label": "Host Calls Israel-First Critics of Cooper \"Descendants of Boleviks\"",
+      "claim": "The host says the people attacking Brett Cooper are \"the descendants of Boleviks\" (transcript spelling), calls them radical and increasingly dangerous, and says they are attacking Cooper in a demonic way.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:26:44",
+      "investigative_direction": "None: sweeping assertion about a group; record only as said on air.",
+      "transcript_snippet": "Because these are the descendants of Boleviks.",
+      "mentions_person_refs": [
+        "N-225"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9546",
+      "ref": "C-9546",
+      "label": "Riverbend Ranch Sponsor Read: 850 Bulls to 260 Ranches",
+      "claim": "In a sponsor read, the host says Riverbend Ranch provides about 850 elite black Angus bulls each year to over 260 western US ranches and has bred its herd with ultrasound technology for 35 years.",
+      "anchored_artifacts": [
+        "A-3019.1"
+      ],
+      "related_nodes": [
+        "N-10124"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:22",
+      "investigative_direction": "Verify the figures against Riverbend Ranch's own materials and the sponsorship disclosure.",
+      "transcript_snippet": "Each year, Riverbend Ranch provides about 850 elite black Angus bulls containing these special genetics to over 260 western US ranches.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9547",
+      "ref": "C-9547",
+      "label": "Host Says Kirk Was Given No First Aid After the Shot",
+      "claim": "The host says Charlie Kirk was never rendered any first aid immediately, that the security team did not put gauze or a hand on the wound, and that his neck was not held when they carried him to the car.",
+      "anchored_artifacts": [
+        "A-1344.1"
+      ],
+      "related_nodes": [
+        "N-10225",
+        "N-11100"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:27",
+      "investigative_direction": "Obtain the multi-angle footage and security team accounts of the first minute after the shot.",
+      "transcript_snippet": "Charlie was never rendered any first aid immediately.",
+      "supports_claim_refs": [
+        "C-6529"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9548",
+      "ref": "C-9548",
+      "label": "Host Says a Security Guard Lifted Kirk Rather Than Him Falling From the Chair",
+      "claim": "The host says footage shows a security guard grabbing Charlie Kirk and lifting and guiding him to the ground behind the table, so Kirk did not actually fall from the chair, and that he was set on top of an equipment suitcase.",
+      "anchored_artifacts": [
+        "A-1344.2"
+      ],
+      "related_nodes": [
+        "N-10225"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:32",
+      "investigative_direction": "Obtain the back and side footage and identify the guard and the equipment case.",
+      "transcript_snippet": "The security guard lifts him and guides him onto the ground, which is what you're supposed to do, obviously, get low.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9549",
+      "ref": "C-9549",
+      "label": "Host Says Equipment Boxes Flanked Kirk and Asks If the Box Was Still There Later",
+      "claim": "The host says equipment boxes were on either side of Charlie Kirk, a setup she could not find in earlier footage, and asks viewers to check whether the box he lay on was moved before the camera operator removed the cameras about four minutes later.",
+      "anchored_artifacts": [
+        "A-1344.2"
+      ],
+      "related_nodes": [
+        "N-10225"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:30",
+      "investigative_direction": "Review post-shooting footage around the camera removal for the presence of the equipment box.",
+      "transcript_snippet": "They're on either side of him, which is very strange.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-184"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9550",
+      "ref": "C-9550",
+      "label": "Host Says Security Huddled 20 to 30 Seconds Without Opening Their Bag",
+      "claim": "The host says the security team huddled over Charlie Kirk for about 20 to 30 seconds without opening their bag or trying to level his head, and says they are paid millions of dollars per year to do so.",
+      "anchored_artifacts": [
+        "A-1344.1"
+      ],
+      "related_nodes": [
+        "N-10225",
+        "N-11100"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:34",
+      "investigative_direction": "Obtain the security contract and footage timing of the first 30 seconds on the ground.",
+      "transcript_snippet": "He doesn't they don't even open their bag and try to administer any aid and they're paid millions of dollars per year to do that.",
+      "supports_claim_refs": [
+        "C-6529"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9551",
+      "ref": "C-9551",
+      "label": "Host Says Mikey McCoy Never Lowered His Hand Until Out of View",
+      "claim": "The host says new footage shows Mikey McCoy never stops holding his hand in the ear position, even when going left toward a parking lot until out of view, so she says he was not covering his ears.",
+      "anchored_artifacts": [
+        "A-1344.1"
+      ],
+      "related_nodes": [
+        "N-10226"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:15",
+      "investigative_direction": "Obtain the full-length footage of Mikey McCoy's path and posture after the shot.",
+      "transcript_snippet": "he never stops this move for a single second.",
+      "supports_claim_refs": [
+        "C-1463"
+      ],
+      "mentions_person_refs": [
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9552",
+      "ref": "C-9552",
+      "label": "Blake Neff: He and Mikey Left Before Being Shot and Did Not Abandon Charlie",
+      "claim": "Blake Neff says he and Mikey McCoy both reacted by leaving the scene before they were shot, that this was not abandoning Charlie because the security team acted, and that he considered getting in the SUV.",
+      "anchored_artifacts": [
+        "A-1339.1"
+      ],
+      "related_nodes": [
+        "N-10715"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:07",
+      "investigative_direction": "Obtain Neff's full interview and the video of his and McCoy's movements.",
+      "transcript_snippet": "I and him both had the reaction of let's get out of here before we were both shot.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-194",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9553",
+      "ref": "C-9553",
+      "label": "Blake Neff: Ran 15 to 20 Seconds Then Saw Mikey, Thinks He Was Ahead",
+      "claim": "Blake Neff says he ran for no more than 15 or 20 seconds, realized there had been no second shot, paused and saw Mikey, and that he does not remember being with Mikey right away and thinks he was ahead as they left.",
+      "anchored_artifacts": [
+        "A-1339.1"
+      ],
+      "related_nodes": [
+        "N-10715"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:50",
+      "investigative_direction": "Compare Neff's account with footage tracking both men's positions.",
+      "transcript_snippet": "I think I was ahead of him as we left.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9554",
+      "ref": "C-9554",
+      "label": "Blake Neff: Mikey Became Like a General Directing a Battle After the Call",
+      "claim": "Blake Neff says that after the call Mikey McCoy got total mastery of himself and acted like a general directing a battle, telling people to get to the hospital and wait while he went in for information for Erika.",
+      "anchored_artifacts": [
+        "A-1339.1"
+      ],
+      "related_nodes": [
+        "N-10338"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:24",
+      "investigative_direction": "Obtain Neff's full interview and statements from others at the scene.",
+      "transcript_snippet": "he was like a general directing a battle where he was you know grabbing people and saying okay we need to get to the hospital",
+      "mentions_person_refs": [
+        "N-162",
+        "N-194",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9555",
+      "ref": "C-9555",
+      "label": "Blake Neff: Mikey Told Staff Erika Would Hear of the Death Only From Him",
+      "claim": "Blake Neff says that when they learned Charlie Kirk was dead, Mikey McCoy told the group not to say anything because Erika would not hear about it from anyone except him.",
+      "anchored_artifacts": [
+        "A-1339.1"
+      ],
+      "related_nodes": [
+        "N-10338"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:39",
+      "investigative_direction": "Obtain Neff's full interview and ask other staff present whether the instruction was given.",
+      "transcript_snippet": "none of you can say anything that you've heard because it is Erika is not going to hear about this from anyone except me.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-194",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9556",
+      "ref": "C-9556",
+      "label": "Host Says Mikey Moved as if He Knew Where He Was Going With Blake Nowhere in View",
+      "claim": "The host says tracking footage shows Mikey McCoy going straight and then left toward the parking lot, already on the phone, with Blake Neff nowhere to be seen, and that Mikey moves as if he knows where he is going.",
+      "anchored_artifacts": [
+        "A-1344.1"
+      ],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:23",
+      "investigative_direction": "Obtain wide footage tracking both men's movements from the shot to the vehicles.",
+      "transcript_snippet": "And he is on the phone already. And Blake Nef is nowhere to be seen.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9557",
+      "ref": "C-9557",
+      "label": "Host Says Blake's Account Implies a 15-Second Call With Erika",
+      "claim": "The host says that if Blake Neff's account is true, the call between Mikey McCoy and Erika Kirk must have been about 15 seconds, which she argues is implausible for a spouse receiving such news.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10338",
+        "N-10482"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:08",
+      "investigative_direction": "Obtain call logs for Mikey McCoy and Erika Kirk covering the minutes after the shot.",
+      "transcript_snippet": "I'm supposed to believe what this was a 15-second phone call.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-2",
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9558",
+      "ref": "C-9558",
+      "label": "Host Says Mikey Made Three Calls Including One to His Wife Who Screamed at the Office",
+      "claim": "The host says she knows for a fact that Mikey McCoy made three early calls, not two, including one to his wife Elizabeth McCoy, who screamed at the office.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10338"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:08",
+      "investigative_direction": "Identify the host's source and obtain call logs for the three reported calls.",
+      "transcript_snippet": "He made three cuz he also called Elizabeth McCoy, his wife, who screamed at the office.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-221"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9559",
+      "ref": "C-9559",
+      "label": "Host Says TPUSA Is Engaged in a Cover-Up and Asks Why the Event Was Confirmed So Quickly",
+      "claim": "The host says every day that goes on it feels as though Turning Point USA is engaged in a cover-up, and asks why the event was confirmed so quickly when it was requested so late.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10224"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:37",
+      "investigative_direction": "Obtain TPUSA and UVU records on the event request and confirmation dates.",
+      "transcript_snippet": "every day that goes on, it feels to me like Turning Point is engaged in a cover up.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9560",
+      "ref": "C-9560",
+      "label": "Host Says Blake Neff Said They Reached the Hospital Within 25 Minutes",
+      "claim": "The host says Blake Neff has said elsewhere that they got into the hospital within 25 minutes, which she says means they knew instantly which hospital and direction to go.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10149"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:22",
+      "investigative_direction": "Locate Neff's statement on arrival time and compare with transport and hospital records.",
+      "transcript_snippet": "Blake Nef says elsewhere they got into the hospital within 25 minutes.",
+      "mentions_person_refs": [
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9561",
+      "ref": "C-9561",
+      "label": "Host Says Hospital Was Locked Down but Admitted Mikey and TPUSA Staff",
+      "claim": "The host says the hospital was put on lockdown when Charlie Kirk arrived but let Mikey McCoy and the Turning Point staff in, and that Blake Neff and Frank Turek say they were there when it was announced Kirk had died.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10149"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:22",
+      "investigative_direction": "Obtain hospital access logs and security records for who was admitted and when.",
+      "transcript_snippet": "the hospital was put on lockdown when Charlie came in.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-162",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9562",
+      "ref": "C-9562",
+      "label": "Host Says Parties Claim Releasing Call Logs and Video Would Hurt the Case",
+      "claim": "The host says unnamed parties are telling the public that letting people see the call logs and video footage would somehow hurt the case, and that she rejects this.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10193",
+        "N-10217"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:22",
+      "investigative_direction": "Identify who has stated that releasing call logs or footage would harm the case.",
+      "transcript_snippet": "to dispel this rumor, right, by letting people see the call logs, by letting people see the video footage would somehow hurt the case.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9563",
+      "ref": "C-9563",
+      "label": "Host Says They Are Lying About the Phone Calls and Their Timing",
+      "claim": "The host asserts that unnamed parties are lying about the phone calls and the timing of the phone calls.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10193",
+        "N-10338"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:29",
+      "investigative_direction": "Obtain the call logs for the calls described by Neff and compare timing.",
+      "transcript_snippet": "They're lying about the timing of the phone calls.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9564",
+      "ref": "C-9564",
+      "label": "Host Says Stage Was Set to Make Mikey the New Charlie",
+      "claim": "The host says she is getting the feeling that they were positioning Mikey McCoy to be the new Charlie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10227"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:29",
+      "investigative_direction": "Document statements and role changes that elevated Mikey McCoy after September 10.",
+      "transcript_snippet": "the feeling I'm getting that they were positioning Mikey to be the new Charlie.",
+      "supports_claim_refs": [
+        "C-6553"
+      ],
+      "mentions_person_refs": [
+        "N-194",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9565",
+      "ref": "C-9565",
+      "label": "Host Says No Scheduled Posts Went Up on Kirk's YouTube Until After the Memorial",
+      "claim": "The host says that after Charlie Kirk died there were no new scheduled posts on his YouTube page until after the memorial event, other than live videos of the memorial.",
+      "anchored_artifacts": [
+        "A-1343.1"
+      ],
+      "related_nodes": [
+        "N-10227",
+        "N-10002"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:19",
+      "investigative_direction": "Obtain the YouTube channel upload and scheduling history for September 2025.",
+      "transcript_snippet": "they didn't bring back his YouTube channel and started scheduling those posts until after the memorial event",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9566",
+      "ref": "C-9566",
+      "label": "Host Describes Prior Channel Order Before the Gap: Ben, Jack Posobiec, Then It Stops",
+      "claim": "The host says the channel's list, read bottom to top, shows videos with Charlie and Ben, Charlie, Charlie and Jack Posobiec, and Charlie, and then stops until the channel returns with Mikey McCoy and his wife.",
+      "anchored_artifacts": [
+        "A-1343.1"
+      ],
+      "related_nodes": [
+        "N-10227"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:19",
+      "investigative_direction": "Capture the channel's upload list as of the date the screenshot was taken.",
+      "transcript_snippet": "So you see you've got Charlie and Ben, you've got Charlie, Charlie and Jack Bobic, you've got Charlie, you got Charlie, and then it stops.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-97",
+        "N-95",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9567",
+      "ref": "C-9567",
+      "label": "Host Says Jesse Watters Interview With Erika Kirk Was About to Air",
+      "claim": "The host says a much anticipated interview between Jesse Watters and Erika Kirk was due to drop that night and that she would be watching.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:46:08",
+      "investigative_direction": "Locate the Fox News airing date and transcript of the Watters interview with Erika Kirk.",
+      "transcript_snippet": "when the very anticipated interview drops between Jesse Waters and Erika Kirk, I will be watching.",
+      "mentions_person_refs": [
+        "N-215",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9568",
+      "ref": "C-9568",
+      "label": "Host Says the Pro-Israel Crowd Is Signaling Another 9/11",
+      "claim": "The host says the pro-Israel crowd is signaling hard that another 9/11 is coming, is jacking up jihad rhetoric, and notes the Pentagon was implicated in 9/11.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10064"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:55",
+      "investigative_direction": "None: speculative assertion about a group; record only as said on air.",
+      "transcript_snippet": "the pro-Israel crowd, are signaling hard to us that another 911 is coming.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9569",
+      "ref": "C-9569",
+      "label": "Host Says Laura Loomer Has Been on Multiple Psych 5150 Holds",
+      "claim": "The host says Laura Loomer has been on multiple Psych 5150 holds.",
+      "anchored_artifacts": [
+        "A-1340.1"
+      ],
+      "related_nodes": [
+        "N-10628"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:44",
+      "investigative_direction": "Check court or police records or Loomer's own statements regarding involuntary psychiatric holds.",
+      "transcript_snippet": "she has been on multiple Psych 5150 holds.",
+      "mentions_person_refs": [
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9570",
+      "ref": "C-9570",
+      "label": "Host Says Loomer Chained Herself to Twitter Headquarters Wearing a Star of David in 2018",
+      "claim": "The host says Laura Loomer chained herself to Twitter headquarters wearing a Star of David after being banned from Twitter in 2018.",
+      "anchored_artifacts": [
+        "A-1340.1"
+      ],
+      "related_nodes": [
+        "N-10630"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:44",
+      "investigative_direction": "Check contemporaneous news coverage of the 2018 Twitter headquarters protest.",
+      "transcript_snippet": "chained herself to Twitter when she got banned from Twitter and she wore a Star of David.",
+      "mentions_person_refs": [
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9571",
+      "ref": "C-9571",
+      "label": "Host Says Loomer Is Not Jewish and Has No Bat Mitzvah Pictures",
+      "claim": "The host says Laura Loomer is factually not Jewish, cannot produce any bat mitzvah pictures because it never happened, and adopted the identity for political reasons.",
+      "anchored_artifacts": [
+        "A-1340.1"
+      ],
+      "related_nodes": [
+        "N-10630"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:25",
+      "investigative_direction": "Check Loomer's public statements on her background; no documentary record has been produced on air.",
+      "transcript_snippet": "She can't produce any Bat Mitzvah pictures because it never happened.",
+      "mentions_person_refs": [
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9572",
+      "ref": "C-9572",
+      "label": "Host Says Josh Hammer and Others Are Signaling Another 9/11",
+      "claim": "The host says Josh Hammer is signaling, along with many others, that there is going to be another 9/11, and that the pro-Israel crowd would know something about that.",
+      "anchored_artifacts": [
+        "A-1341.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:49:15",
+      "investigative_direction": "Review the full Hammer segment for any explicit reference to a coming attack.",
+      "transcript_snippet": "signaling along with many others that there's going to be another 911.",
+      "mentions_person_refs": [
+        "N-55"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9573",
+      "ref": "C-9573",
+      "label": "Hammer Clip: Calls Mamdani a Marx-Quoting Hamas-Loving Red-Green Alliance Sicko",
+      "claim": "In the clip, Josh Hammer calls Zohran Mamdani a Karl Marx-quoting, Hamas-loving Red-Green Alliance sicko and says he has repeatedly refused to condemn \"globalize the intifada\".",
+      "anchored_artifacts": [
+        "A-1341.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:49:15",
+      "investigative_direction": "Locate the original Hammer segment and confirm his wording and the outlet.",
+      "transcript_snippet": "you are literally going to have a Karl Marx quoting Hamasloving Red Green Alliance sicko.",
+      "mentions_person_refs": [
+        "N-55",
+        "N-227"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9574",
+      "ref": "C-9574",
+      "label": "Host Says a Story Reported Trump Was Protecting Some of His Donors on Epstein",
+      "claim": "The host says that after Trump asked why people are still talking about Jeffrey Epstein, a story was released later that he was protecting some of his donors, which she calls her mask-down moment.",
+      "anchored_artifacts": [
+        "A-3020.1"
+      ],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:27",
+      "investigative_direction": "Identify the story the host refers to and its publication date and sources.",
+      "transcript_snippet": "a story was released later that he was protecting some of his donors",
+      "mentions_person_refs": [
+        "N-5",
+        "N-9",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9575",
+      "ref": "C-9575",
+      "label": "Host Recommends Masson's Assault on Truth and a Freud Book as Starting Reading on Zionism",
+      "claim": "The host recommends starting with Jeffrey Masson's The Assault on Truth and a book titled Sigmund Freud in the Jewish Mystical Tradition to understand the Zionist narrative, and says to also study the early Zionist movement and Theodor Herzl's connection to Freud.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:56:15",
+      "investigative_direction": "None: reading recommendation recorded as said on air.",
+      "transcript_snippet": "I would start with the assault on truth from by Jeffrey Mason and then move on to this most critical book uh which is Sigman Freud in the Jewish Mystical Tradition.",
+      "mentions_person_refs": [
+        "N-861",
+        "N-50",
+        "N-862",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9576",
+      "ref": "C-9576",
+      "label": "Host Says Freud Mainstreamed Gaslighting People He Harmed, Per Masson",
+      "claim": "The host says Sigmund Freud mainstreamed gaslighting people he harmed, which she calls an inescapable fact as pointed out by Jeffrey Masson, who she says was in control of the Freud archives.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:56:15",
+      "investigative_direction": "Check Masson's published work on Freud and his role at the Freud Archives.",
+      "transcript_snippet": "That is why they celebrate Sigman Freud is because he mainstreamed gaslighting people that they harmed.",
+      "mentions_person_refs": [
+        "N-50",
+        "N-861"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9577",
+      "ref": "C-9577",
+      "label": "Host Says She Did Not Know Jordan Peterson Got Sick in Israel",
+      "claim": "The host says she did not know Jordan Peterson got sick while in Israel, that she has never seen a crack in his stance on Israel, and that she has no insight into what is going on with him.",
+      "anchored_artifacts": [
+        "A-3020.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:58:11",
+      "investigative_direction": "None: host states no knowledge; a viewer comment prompted it.",
+      "transcript_snippet": "I did not know that he got sick while he was in Israel.",
+      "mentions_person_refs": [
+        "N-607",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9578",
+      "ref": "C-9578",
+      "label": "Host Says APAC Takeover of Turning Point USA May Already Have Happened",
+      "claim": "Responding to a viewer comment that APAC will try to stage a hostile takeover of Turning Point USA, the host says she thinks it has already happened and has been happening for a while, that she is seeking evidence, and that she is hearing some things.",
+      "anchored_artifacts": [
+        "A-3020.3"
+      ],
+      "related_nodes": [
+        "N-10073",
+        "N-10000",
+        "N-11227"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:58:59",
+      "investigative_direction": "Obtain donor, board and staffing records at TPUSA showing APAC or AIPAC-linked influence; follow the host's promised evidence.",
+      "transcript_snippet": "I think that's already happened actually and I think it had been happening for a while and I am looking to get some evidence of that for you guys, but I'm hearing some things.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9579",
+      "ref": "C-9579",
+      "label": "Host Says the Plotters Planned It Perfectly, So the Phone Call and Walk-Away Look Unnatural",
+      "claim": "The host says that because those behind the killing planned it perfectly, the phone call and walking away in the right direction is not what a natural person would do, and that Charlie Kirk's murder happened because evil became very desperate.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10226",
+        "N-10198"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:46",
+      "investigative_direction": "Obtain footage and call records for a behavioral comparison against the witness accounts.",
+      "transcript_snippet": "They planned it perfectly. So this phone call and walking away is actually not what a natural person would do.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9580",
+      "ref": "C-9580",
+      "label": "Host Says Everything on September 10 Looks Like a Military Operation",
+      "claim": "The host says everything seen on the day looks like a military operation and that human behavior is lacking in the footage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:40",
+      "investigative_direction": "None: interpretive assertion; would require the evidence of a military link to be produced.",
+      "transcript_snippet": "Everything that we see looks like a military operation on that day.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9581",
+      "ref": "C-9581",
+      "label": "Host Says Some of Kirk's Allies at His Company and the White House Would Have Had to Know",
+      "claim": "The host says that if the killing was a military assassination, some of Charlie Kirk's own allies at his company and at the White House would have had to be aware for it to be executed, and that she senses this in the lack of information.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:40",
+      "investigative_direction": "None: conditional inference by the host; no evidence offered on air.",
+      "transcript_snippet": "even Charlie's own allies at his company and at the white house some of them would have had to been aware",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9582",
+      "ref": "C-9582",
+      "label": "Host Says 12 Israeli Cell Phones Are Being Covered Up",
+      "claim": "The host says there is a cover-up of the 12 Israeli cell phones, because if it really were nothing, officials would share that information.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10222"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:45",
+      "investigative_direction": "Obtain the underlying phone-location data and official responses regarding the reported Israeli devices at UVU.",
+      "transcript_snippet": "the covering up of the 12 Israeli cell phones because if it really was nothing, then it would be nothing.",
+      "supports_claim_refs": [
+        "C-1594"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9583",
+      "ref": "C-9583",
+      "label": "Host Says Kash Patel Is Frantic and Shouting at People",
+      "claim": "The host says she is hearing that Kash Patel is frantic, angry and shouting at people.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10202"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:45",
+      "investigative_direction": "Identify the host's source and any corroborating FBI accounts.",
+      "transcript_snippet": "Kash Patel is frantic and he's angry and he's shouting at people is what I'm hearing.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-69",
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-34",
+      "ref": "M-34",
+      "canonical_term": "Deep State",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 26,
+          "video_timestamp": "01:01:45",
+          "speaker_node_ref": "N-3",
+          "quote": "tary assassination then there is for I mean forget uh talking about a deep state we are talking about a kind of evil which would be so far reaching...",
+          "context": "Later reuse of Deep State in CKA seq 26.",
+          "confidence": "high",
+          "tags": [
+            "intel",
+            "media",
+            "host_refrain",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-249",
+      "ref": "M-249",
+      "canonical_term": "Hitler Alert",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 26,
+          "video_timestamp": "00:00:00",
+          "speaker_node_ref": "N-3",
+          "quote": "Just a general Hitler alert so we can keep track of a newest person",
+          "context": "Host jokes that new accusations of being Hitler should come as iPhone alerts, like Amber Alerts, after Brett Cooper is accused.",
+          "confidence": "high",
+          "tags": [
+            "hitler",
+            "sarcasm",
+            "brett cooper"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 26,
+          "video_timestamp": "01:03:08",
+          "speaker_node_ref": "N-3",
+          "quote": "I point you to make him a sandwich. com",
+          "context": "Host's closing plug for her book.",
+          "confidence": "high",
+          "tags": [
+            "book plug",
+            "closing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 26,
+          "video_timestamp": "00:16:26",
+          "speaker_node_ref": "N-3",
+          "quote": "while we get gas lit about everything that's happening",
+          "context": "Host says the establishment gaslights MAGA voters about the party.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "maga"
+          ]
+        },
+        {
+          "episode": 26,
+          "video_timestamp": "00:56:15",
+          "speaker_node_ref": "N-3",
+          "quote": "you'll also start to recognize the psych tactics that they use on us, the gaslighting.",
+          "context": "Host ties Freud to gaslighting tactics she attributes to Zionists.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "freud"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 26,
+          "video_timestamp": "00:55:00",
+          "speaker_node_ref": "N-3",
+          "quote": "Christ is king.\" Indeed, he is.",
+          "context": "Host reads a viewer comment ending in Christ is king and affirms it.",
+          "confidence": "high",
+          "tags": [
+            "christ is king",
+            "comment"
+          ]
+        }
+      ]
+    }
+  ]
 }

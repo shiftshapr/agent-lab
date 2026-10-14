@@ -12,11 +12,11 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-731, N-11027, N-11028, N-11029, N-11030, N-11031, N-11032, N-11033
-  - Hole-minted Nodes (reintro-ep057): N-533, N-544, N-10424, N-10454
+  - Hole-minted Nodes (reintro-ep057): N-533, N-544
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5420–C-5484
   - New Nodes Introduced: N-465, N-466, N-467, N-468, N-469, N-10413, N-10414, N-10415
-  - Reused Nodes Appearing: N-5, N-22, N-30, N-82, N-205, N-10000, N-10063, N-10270, N-10385, N-10388, N-10404, N-10416, N-10422, N-11034
+  - Reused Nodes Appearing: N-5, N-22, N-30, N-82, N-205, N-10000, N-10063, N-10270, N-10385, N-10388, N-10404, N-10416, N-10422, N-11034, N-10424, N-10454
   - (see registers)
 
 ## 2. Executive Summary

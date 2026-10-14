@@ -2,7 +2,7 @@
   "version": 1,
   "description": "Canonical dictionary of memes, euphemisms, and codes \u2013 shared across monuments",
   "updated": "2026-10-08T19:40:19Z",
-  "next_id": 243,
+  "next_id": 272,
   "entries": {
     "M-1": {
       "canonical_term": "(meme) Grieving Widow",
@@ -2149,6 +2149,238 @@
       "definition": "Host tells Baron Coleman he is now being smeared the way she is.",
       "context": "cka",
       "first_episode": 160
+    },
+    "M-243": {
+      "canonical_term": "(meme) Regicide",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host floats the theory that Kirk was killed to install a ruler he would not have approved.",
+      "context": "cka",
+      "first_episode": 12
+    },
+    "M-244": {
+      "canonical_term": "(meme) Your Gut Is Your God Instinct",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host links Charlie's go-with-your-gut line to intuition given by God.",
+      "context": "cka",
+      "first_episode": 12
+    },
+    "M-245": {
+      "canonical_term": "(meme) Kill Switch",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host previews explaining her kill switch.",
+      "context": "cka",
+      "first_episode": 17
+    },
+    "M-246": {
+      "canonical_term": "(meme) Mansplaining",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Mark offers to explain the FlightRadar chart; the host later thanks him for mansplaining.",
+      "context": "cka",
+      "first_episode": 22
+    },
+    "M-247": {
+      "canonical_term": "(meme) Seth Dillon Level Struggle Session",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host teases the segment on Tucker Carlson and Seth Dillon.",
+      "context": "cka",
+      "first_episode": 22
+    },
+    "M-248": {
+      "canonical_term": "(meme) The Market Is Always Right",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host repeats her husband's saying to argue the public does not trust TPUSA donors or the official story.",
+      "context": "cka",
+      "first_episode": 24
+    },
+    "M-249": {
+      "canonical_term": "(meme) Hitler Alert",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host jokes that new accusations of being Hitler should come as iPhone alerts, like Amber Alerts, after Brett Cooper is accused.",
+      "context": "cka",
+      "first_episode": 26
+    },
+    "M-250": {
+      "canonical_term": "(meme) Struggle Session",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's verb for coordinated pressure to make someone disavow or recant.",
+      "context": "cka",
+      "first_episode": 28
+    },
+    "M-251": {
+      "canonical_term": "(meme) Moral Blackmail",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host applies Kirk's phrase to Shapiro's on-stage pressure on Kelly.",
+      "context": "cka",
+      "first_episode": 28
+    },
+    "M-252": {
+      "canonical_term": "(meme) When They Freak Out It's a Clue",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host opens by saying panic over her event-timeline claim is a clue.",
+      "context": "cka",
+      "first_episode": 30
+    },
+    "M-253": {
+      "canonical_term": "(meme) I Need to Know and I Will Know",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host on which TPUSA employees picked the outdoor venue.",
+      "context": "cka",
+      "first_episode": 30
+    },
+    "M-254": {
+      "canonical_term": "(meme) Nuclear Energy",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host turns Boreing's insult into her own bit.",
+      "context": "cka",
+      "first_episode": 64
+    },
+    "M-255": {
+      "canonical_term": "(meme) Muggles",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Opens the Iraq segment with the muggle framing.",
+      "context": "cka",
+      "first_episode": 68
+    },
+    "M-256": {
+      "canonical_term": "(meme) Meddling Kid",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host casts herself as the meddling kid at the end of a Scooby-Doo mystery.",
+      "context": "cka",
+      "first_episode": 72
+    },
+    "M-257": {
+      "canonical_term": "(meme) Justice for GG",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mock cause to stop TPUSA from using the Kirks' toddler as an alibi.",
+      "context": "cka",
+      "first_episode": 74
+    },
+    "M-258": {
+      "canonical_term": "(meme) Erika Explainers",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host label for people who defend or explain away Erika Kirk's conduct.",
+      "context": "cka",
+      "first_episode": 74
+    },
+    "M-259": {
+      "canonical_term": "(meme) Candace Owens Was Right Jar",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host joke that she tosses vindicated predictions into a jar.",
+      "context": "cka",
+      "first_episode": 74
+    },
+    "M-260": {
+      "canonical_term": "(meme) Midas Touch",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's label for Erika being pulled through the ranks by unseen helpers.",
+      "context": "cka",
+      "first_episode": 76
+    },
+    "M-261": {
+      "canonical_term": "(meme) Epstein Fury",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's mocking name for the Iran bombing operation.",
+      "context": "cka",
+      "first_episode": 76
+    },
+    "M-262": {
+      "canonical_term": "(meme) Revelation of the Method",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host says elites tell the public what they are doing in plain sight.",
+      "context": "cka",
+      "first_episode": 76
+    },
+    "M-263": {
+      "canonical_term": "(meme) The Writers Are Running Out of Ideas",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mocks the Erika storyline as a sitcom season.",
+      "context": "cka",
+      "first_episode": 76
+    },
+    "M-264": {
+      "canonical_term": "(meme) If the Gun Does Not Fit, You Must Acquit",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host opens the filing discussion with the refrain.",
+      "context": "cka",
+      "first_episode": 86
+    },
+    "M-265": {
+      "canonical_term": "(meme) Power of Subpoena",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host jokes the lawsuit grants her the power of subpoena.",
+      "context": "cka",
+      "first_episode": 97
+    },
+    "M-266": {
+      "canonical_term": "(meme) Tyler Loves Maroon",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mocks the media seeding of Robinson's maroon shirt.",
+      "context": "cka",
+      "first_episode": 140
+    },
+    "M-267": {
+      "canonical_term": "(meme) All I Got Was a Maroon T-Shirt",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host jokes about the book she would write on the official timeline.",
+      "context": "cka",
+      "first_episode": 140
+    },
+    "M-268": {
+      "canonical_term": "(meme) Caught in 4K",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host teases the Tardio story in her opener.",
+      "context": "cka",
+      "first_episode": 152
+    },
+    "M-269": {
+      "canonical_term": "(meme) TPUSA Is Ghetto",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's sign-off verdict on TPUSA after the Alex Clark remarks.",
+      "context": "cka",
+      "first_episode": 152
+    },
+    "M-270": {
+      "canonical_term": "(meme) Where My Techies At",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host asks tech-savvy viewers to explain the Wayback Machine loading anomaly.",
+      "context": "cka",
+      "first_episode": 161
+    },
+    "M-271": {
+      "canonical_term": "(meme) Elephant Droppings",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host reads and agrees with a comment mocking the elephant clipping campaign.",
+      "context": "cka",
+      "first_episode": 161
     }
   },
   "types": {

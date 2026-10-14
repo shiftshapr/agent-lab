@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: af4744c44da3466f3376062abb7dec86912b17b312a767e95c3978bb41f3a9e8
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-11116, N-11117, N-11118, N-11119, N-11120, N-11121
+  - Tip-minted Nodes (supplement_2026-10b): N-11116, N-11117, N-11118, N-11119, N-11120
   - Hole-minted Nodes (reintro-ep053): N-496, N-10422, N-10661
   - Tip-minted Nodes (reintro-ep053): N-752, N-10925, N-11034
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -35,7 +35,7 @@
   - Artifact Families Introduced: A-1587, A-1588, A-1589, A-1590, A-1591, A-1592, A-1593, A-1594, A-1595
   - Claim Range: C-2016–C-2025
   - New Nodes Introduced: N-398, N-399, N-400, N-401, N-402, N-403, N-404, N-405, N-406, N-10386, N-10388, N-10389, N-10390, N-10391
-  - Reused Nodes Appearing: N-10387, N-2, N-27, N-82, N-272, N-276, N-374, N-385, N-495, N-10000, N-10004, N-10113, N-10268, N-10270, N-10316, N-10406, N-10416, N-10900, N-10385
+  - Reused Nodes Appearing: N-10387, N-2, N-27, N-82, N-272, N-276, N-374, N-385, N-495, N-10000, N-10004, N-10113, N-10268, N-10270, N-10316, N-10406, N-10416, N-10900, N-10385, N-11121
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), and other pre-existing nodes (referenced where contextually applicable – Ben Shapiro, Tyler Bowyer, Tucker Carlson, Megan Kelly presumed to exist), N-11
 
 ---

@@ -12,9 +12,14 @@
 - **Transcript SHA-256**: abf411b35a1c49c8915e52ea39f1d73231f7b5aadc58d672dbdeebbe68b7d8d3
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10d): N-11217, N-11218
+  - Hole-minted Nodes (reintro-ep012): N-137, N-332, N-10156, N-10180, N-10192, N-10840
+  - Tip-minted Nodes (reintro-ep012): N-10908, N-11167
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10d): C-9258–C-9323
   - Tip-minted Nodes (reintro-ep012): N-799
   - New Nodes Introduced: N-133, N-134, N-135, N-10146, N-10147, N-10148, N-10149, N-10150, N-10151
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-40, N-42, N-60, N-98, N-127, N-10000, N-10006, N-10012, N-10025, N-10032, N-10047, N-10048, N-10056, N-10076, N-10085, N-10086, N-10094, N-10103, N-10106, N-10115, N-10141, N-10144
 
 ## 3. Artifact Register
 
@@ -206,6 +211,73 @@ Confidence Level: Low
 
 ---
 
+**A-2998** Decentralized Intelligence Agency Tip Line Bundle
+
+**A-2998.1** Host verbal reference to the tip email address tips@candaceowens.com (verbal call for tips on the goth person)
+
+Quoted text: "tips@candaceowens. com"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:23:38
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-9289, N-3*
+
+---
+
+**A-2998.2** Host verbal reference to the tip email address tips@candaceowens.com (closing call for tips)
+
+Quoted text: "tips@candaceowens. com"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:48:25
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-9322, N-3*
+
+---
+
+**A-2999** Phil Lyman Text Exchange with Host Bundle
+
+**A-2999.1** Host verbal reference to her text messages with Phil Lyman about Nick, the white vehicle, his relation to Shainer Broderick and the two unidentified companions (messages not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:03:35
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-9263, C-9264, C-9267, C-9270, C-9271, N-3, N-61*
+
+---
+
+**A-3000** Viewer Comments Read Aloud Bundle
+
+**A-3000.1** Host reads viewer comments (Rose, Anomaly AJ, Murphy, Ashlyn Bigelow, Natalie, Marzi, George) aloud; the Marzi super chat concerns keyholing versus pinball bullets
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:43:23
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-9316, C-9319, N-3*
+
+---
+
+**A-3001** Host Conversation with Camera Individual Bundle
+
+**A-3001.1** Host verbal account of her conversation with the man who took down the cameras (conversation not shown; individual not named in this episode)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:32:40
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-9299, C-9300, C-9301, C-9302, N-3*
+
+---
+
 ## 4. Node Register
 
 ### People
@@ -373,6 +445,296 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-1190.1, C-1330, N-126*
+
+---
+
+**N-1** Charlie Kirk
+
+Subject of the investigation; the host describes his shifted position on Israel, the tour scheduling and his reported statements before death.
+
+*Related: C-9258, C-9260, C-9290, C-9291, C-9292, C-9295, C-9298, C-9300, C-9303, C-9304, C-9305, C-9307, C-9309, C-9310, C-9311, C-9313, C-9314, C-9315, C-9320, C-9323*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-9258, C-9259, C-9263, C-9264, C-9265, C-9266, C-9267, C-9269, C-9270, C-9271, C-9272, C-9273, C-9274, C-9275, C-9276, C-9282, C-9283, C-9284, C-9285, C-9286, C-9287, C-9288, C-9289, C-9290, C-9291, C-9292, C-9293, C-9294, C-9295, C-9296, C-9297, C-9298, C-9299, C-9300, C-9301, C-9302, C-9303, C-9304, C-9305, C-9306, C-9307, C-9308, C-9309, C-9310, C-9311, C-9312, C-9313, C-9314, C-9315, C-9316, C-9317, C-9318, C-9319, C-9320, C-9321, C-9322, C-9323*
+
+---
+
+**N-40** Tyler Robinson
+
+Accused shooter; compared by the host with the blue-hat man and discussed in Lyman's remarks.
+
+*Related: C-9273, C-9278*
+
+---
+
+**N-42** George Zinn
+
+The decoy boy; the host revisits his arrest and a possible blackmail motive.
+
+*Related: C-9286, C-9287*
+
+---
+
+**N-60** Laura Loomer
+
+Commentator whom the host says called her anti-Semitic days before the death and is funded by a Kirk donor.
+
+*Related: C-9314, C-9315*
+
+---
+
+**N-61** Phil Lyman
+
+Utah gubernatorial candidate; the host reports his texts, his statements to Alex Jones and NewsNation, and his dispute over his relationship to Shainer Broderick.
+
+*Related: C-9259, C-9261, C-9263, C-9264, C-9265, C-9267, C-9268, C-9270, C-9271, C-9275, C-9276, C-9277, C-9278, C-9279, C-9280, C-9281*
+
+---
+
+**N-93** Alex Jones
+
+Interviewer of Phil Lyman in the segment the host replays.
+
+*Related: C-9277, C-9278*
+
+---
+
+**N-98** Bob Shulman
+
+Donor whom the host says funds Laura Loomer (transcribed Shuman).
+
+*Related: C-9314*
+
+---
+
+**N-127** "Nick" (UVU Student – Pseudonym)
+
+The UVU student the host calls Nick; Lyman's visit to his house and the campaign mix-up are discussed.
+
+*Related: C-9263, C-9264*
+
+---
+
+**N-137** Andrew Zanger
+
+Hospital CEO and surgeon whose appointment the host says was announced just before the tour (transcribed Zenger).
+
+*Related: C-9296, C-9298*
+
+---
+
+**N-332** Tim Ballard
+
+Former Operation Underground Railroad head; the host's source says Lyman met him in town, and she recalls interviewing him.
+
+*Related: C-9265, C-9266*
+
+---
+
+**N-10000** Turning Point USA
+
+Turning Point USA; the host challenges its executives to deny her claims.
+
+*Related: C-9260, C-9292, C-9293, C-9294, C-9298, C-9304, C-9307, C-9308, C-9309, C-9312*
+
+---
+
+**N-10006** Fox News
+
+Outlet to which Phil Lyman reiterated his driveway account.
+
+*Related: C-9261*
+
+---
+
+**N-10012** Utah Valley University
+
+Site of the September 10 event; the second Utah stop was scheduled 20 days later at USU.
+
+*Related: C-9292*
+
+---
+
+**N-10025** Israel Lobby Pressure on Conservative Figures
+
+Topic cited for the host's claim about creator payments through an agent of Israel.
+
+*Related: C-9316*
+
+---
+
+**N-10032** Decoy Boy Operation Analysis
+
+Topic covering George Zinn's role as the decoy boy.
+
+*Related: C-9285, C-9286, C-9287*
+
+---
+
+**N-10047** Donor Intimidation of Charlie Kirk
+
+Topic covering donor pressure on Kirk about Israel.
+
+*Related: C-9258, C-9307, C-9310, C-9313*
+
+---
+
+**N-10048** Charlie Kirk Assassination Investigation
+
+Topic covering the assassination investigation as a whole.
+
+*Related: C-9290*
+
+---
+
+**N-10056** Kirk-Israel Narrative Dispute
+
+Topic covering the dispute over Kirk's position on Israel and the letter.
+
+*Related: C-9258, C-9260, C-9303, C-9304, C-9305, C-9306, C-9313*
+
+---
+
+**N-10076** Cameragate Investigation
+
+Topic covering the removal of cameras after the shooting.
+
+*Related: C-9299, C-9302*
+
+---
+
+**N-10085** Exit Wound / Bullet Trajectory Discrepancy
+
+Topic covering the wound location and trajectory.
+
+*Related: C-9320, C-9323*
+
+---
+
+**N-10086** Transponder / Plane Anomaly Investigation
+
+Topic covering the plane transponder anomaly.
+
+*Related: C-9266*
+
+---
+
+**N-10094** LDS Church
+
+Church in which the host says Mike Mitchell is a Boy Scout leader.
+
+*Related: C-9283*
+
+---
+
+**N-10103** Bulletproof Vest Absence
+
+Topic covering whether Kirk wore a bulletproof vest.
+
+*Related: C-9291*
+
+---
+
+**N-10106** Moral Blackmail by Donors
+
+Topic covering alleged donor leverage over Kirk.
+
+*Related: C-9310*
+
+---
+
+**N-10115** Soviet Education Infiltration
+
+Topic cited for the host's claim of a communist underground targeting children.
+
+*Related: C-9317*
+
+---
+
+**N-10141** Mike Mitchell Public Record Anomaly
+
+Topic covering the thin public record on Mike Mitchell.
+
+*Related: C-9283, C-9284*
+
+---
+
+**N-10144** Phil Lyman Proximity and Behavior Investigation
+
+Topic covering Phil Lyman's proximity to and behavior in the investigation.
+
+*Related: C-9261, C-9262, C-9263, C-9264, C-9267*
+
+---
+
+**N-10156** Hospital Routing Anomaly
+
+Topic covering the hospital routing question.
+
+*Related: C-9295*
+
+---
+
+**N-10180** Bullet Trajectory and Caliber Verification
+
+Topic covering bullet trajectory and caliber questions.
+
+*Related: C-9278, C-9319*
+
+---
+
+**N-10192** Camera Operator Behavior Pattern
+
+Topic covering the camera operator's behavior.
+
+*Related: C-9299, C-9300, C-9301*
+
+---
+
+**N-10840** UVU Ambulance Denial Discrepancy
+
+Topic covering whether an ambulance stood by at the event.
+
+*Related: C-9297*
+
+---
+
+**N-10908** Back-Camera and Platform Setup Introduction (2025 Tour)
+
+Topic covering the new back-camera and platform setup on the 2025 tour.
+
+*Related: C-9302*
+
+---
+
+**N-11167** Operation Underground Railroad
+Node Type: Organization
+Organization. Anti-trafficking charity formerly led by Tim Ballard; the host recalls its shirts on the owners of the transponder plane and a Lyman meeting with Ballard.
+
+*Related: C-9265, C-9266*
+
+---
+
+**N-11217** Utah State University
+
+Node Type: Organization
+Organization. Second Utah campus on Kirk's tour, scheduled about 20 days after the UVU event.
+
+*Related: C-9292*
+
+---
+
+**N-11218** Timpanogos Regional Hospital
+
+Node Type: Organization
+Organization. Hospital to which Kirk was taken; the host raises routing, trauma-level and leadership-change questions.
+
+*Related: C-9295, C-9296, C-9298*
 
 ---
 
@@ -596,6 +958,1074 @@ Investigative Direction: Confirm Robert Bowles's prior postings and the date of 
 
 ---
 
+**C-9258** Host Says Kirk Is Being Memorialized as a Friend of Israel by People Who Threatened Him
+
+Claim Timestamp: 00:00:01
+
+Claim: The host says that the very people who had been threatening Charlie Kirk reputationally and financially are now trying to memorialize him as having died as a friend of Israel.
+
+Transcript Snippet: the very people who were threatening him reputationally and financially are now trying to memorialize him as having died as a friend of Israel.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10056, N-10047
+Tags: relevance:core
+Investigative Direction: Identify the specific people and statements the host means and compare their pre-September 10 conduct toward Kirk with their post-assassination tributes.
+
+---
+
+**C-9259** Host Says Two Friends of Phil Lyman's Nephew Retraced the Killer's Path
+
+Claim Timestamp: 00:00:01
+
+Claim: The host says that on the previous day she asked the public to identify two individuals whom Phil Lyman's nephew described as close friends who retraced the path of Charlie's killer.
+
+Transcript Snippet: yesterday we asked for the public's help in identifying two individuals who Phil Lyman's nephew described as his close friends who decided to retrace the path of Charlie's killer.
+
+Anchored Artifacts: 
+Mentions: N-3, N-61, N-133
+Related Nodes: N-10147
+Tags: relevance:core
+Investigative Direction: Obtain Shainer Broderick's original posts describing the two companions and the retrace video, and archive them before further deletion.
+
+---
+
+**C-9260** Host Says Netanyahu Released the Kirk Letter About Two Weeks After the Death, Perhaps With TPUSA Help
+
+Claim Timestamp: 00:01:30
+
+Claim: The host says it took a little over two weeks, but Netanyahu, perhaps with help from Turning Point USA, is now releasing the May letter from Charlie Kirk to Israel.
+
+Transcript Snippet: It took him a little over 2 weeks but now BB Netanyahu, with maybe a little help from Turning Point USA I'm thinking, is releasing the letter
+
+Anchored Artifacts: A-1191.1
+Mentions: N-36, N-1
+Related Nodes: N-10000, N-10056
+Supports: C-1331
+Tags: relevance:core
+Investigative Direction: Establish who supplied the letter to the Prime Minister's office and to the press, and whether anyone at Turning Point USA coordinated its release.
+
+---
+
+**C-9261** Host Says Phil Lyman Told Fox News His Car Was in the Driveway 20 Minutes Before the Killer Passed
+
+Claim Timestamp: 00:02:39
+
+Claim: The host says Phil Lyman reiterated to Fox News that he parked his car in his aunt's driveway 20 minutes before the killer came limping by.
+
+Transcript Snippet: 20 minutes before I pulled into the driveway, my aunt's house and I parked my car and then 20 minutes later the killer killer was limping by.
+
+Anchored Artifacts: 
+Mentions: N-61
+Related Nodes: N-10006, N-10144
+Supports: C-1307
+Tags: relevance:core
+Investigative Direction: Locate the Fox News interview and compare Lyman's stated arrival time with the doorbell-camera footage of his vehicle.
+
+---
+
+**C-9262** Host Says Shainer Broderick's Map of the Killer's Path Was Used by the Media
+
+Claim Timestamp: 00:02:39
+
+Claim: The host says Shainer Broderick created a map of where the killer walked and that the media used his map.
+
+Transcript Snippet: Shainer even created a map where exactly the killer walked and the media used his map.
+
+Anchored Artifacts: 
+Mentions: N-133
+Related Nodes: N-10144
+Tags: relevance:core
+Investigative Direction: Identify which outlets published Broderick's map and how he determined the route.
+
+---
+
+**C-9263** Host Says Phil Lyman Told Her Nick Never Worked on His Campaign
+
+Claim Timestamp: 00:03:35
+
+Claim: The host says Phil Lyman messaged her after the previous episode to say that Nick never worked on his campaign, and that the host concluded the earlier statement was her own mistake and not Nick's.
+
+Transcript Snippet: Phil would like me to clarify that Nick never worked on his campaign and by the way, I looked back and that was actually my mistake, not Nick's.
+
+Anchored Artifacts: A-2999.1
+Mentions: N-3, N-61, N-127
+Related Nodes: N-10144
+Tags: relevance:context
+Investigative Direction: Obtain the text exchange between the host and Lyman, and ask Nick how he described his relationship to the campaign.
+
+---
+
+**C-9264** Host Says Lyman Gave Helping Nick Identify a White Vehicle as His Reason for Visiting Nick's House
+
+Claim Timestamp: 00:04:45
+
+Claim: The host says Phil Lyman explained his Saturday stop at Nick's house by saying he had been helping Nick determine who owned a white vehicle parked near the shooter's route, and she says that vehicle was long gone more than two weeks later.
+
+Transcript Snippet: Nick was particularly asking him to determine who owned a white vehicle that was parked in the neighborhood which was nearby where the shooter had walked.
+
+Anchored Artifacts: A-2999.1
+Mentions: N-3, N-61, N-127
+Related Nodes: N-10144
+Supports: C-1314
+Tags: relevance:core
+Investigative Direction: Ask Nick and Lyman what, if anything, Lyman learned about the white vehicle and why that was a reason to visit on that Saturday.
+
+---
+
+**C-9265** Host Says a Strong Source Reports Lyman Met Tim Ballard in Town That Saturday
+
+Claim Timestamp: 00:04:45
+
+Claim: The host says that, according to a very strong source, Phil Lyman was in town on Saturday to meet with Tim Ballard.
+
+Transcript Snippet: I am told according to a very strong source that what Phil Lyman was doing in town on Saturday was he was meeting with Tim Ballard.
+
+Anchored Artifacts: 
+Mentions: N-3, N-61, N-332
+Related Nodes: N-11167
+Tags: relevance:core
+Investigative Direction: Ask Ballard and Lyman whether they met that Saturday and for what purpose; compare with any public schedule.
+
+---
+
+**C-9266** Host Says the Owners of the Transponder Plane Wore Operation Underground Railroad T-Shirts
+
+Claim Timestamp: 00:05:58
+
+Claim: The host says she remembers that the individuals who owned the plane with the transponder that turned off were wearing an Operation Underground Railroad t-shirt.
+
+Transcript Snippet: the individuals that owned that plane were wearing an Operation Underground Railroad t-shirt.
+
+Anchored Artifacts: 
+Mentions: N-332, N-3
+Related Nodes: N-11167, N-10086
+Tags: relevance:core
+Investigative Direction: Identify the plane's owners from FAA records and find the image or report of the t-shirt that the host recalls.
+
+---
+
+**C-9267** Host Says Phil Lyman Now Says Shainer Is His Cousin and May Be Confused
+
+Claim Timestamp: 00:06:43
+
+Claim: The host says Phil Lyman disputes that Shainer Broderick is his nephew, telling her that Shainer may be confused and that they are only cousins.
+
+Transcript Snippet: Actually maybe Shainer's confused.
+
+Anchored Artifacts: A-2999.1
+Mentions: N-61, N-133, N-3
+Related Nodes: N-10144
+Contradicts: C-1328
+Tags: relevance:core
+Investigative Direction: Obtain Lyman family records or public genealogy showing the relationship; compare with Broderick's earlier posts.
+
+---
+
+**C-9268** Host Says Broderick Was Chosen for an Internship With Senator Mike Lee
+
+Claim Timestamp: 00:06:43
+
+Claim: The host says Shainer Broderick was chosen for an internship with Senator Mike Lee of Utah, which she thinks was partly the result of the family link to Phil Lyman.
+
+Transcript Snippet: chosen for an internship with Senator Mike Lee of Utah.
+
+Anchored Artifacts: A-1192.2
+Mentions: N-133, N-799, N-61
+Tags: relevance:context
+Investigative Direction: Confirm the internship dates with Senator Lee's office and whether the Lyman relationship was listed in the application.
+
+---
+
+**C-9269** Host Says Broderick Wiped His LinkedIn and Facebook and Privatized Instagram After Her Previous Episode
+
+Claim Timestamp: 00:07:30
+
+Claim: The host says that since the previous episode Shainer Broderick wiped his LinkedIn page and his Facebook page, and privatized his Instagram after removing the photos of his investigation into the killer's route.
+
+Transcript Snippet: He's also completely wiped his Facebook page entirely. And regarding his Instagram, he's privatized it but he privatized it and then removed all of the photos of his investigation
+
+Anchored Artifacts: 
+Mentions: N-133, N-3
+Related Nodes: N-10147
+Tags: relevance:core
+Investigative Direction: Retrieve archived copies of the deleted pages and note the dates of deletion relative to the host's outreach.
+
+---
+
+**C-9270** Host Says She Asked Lyman Three Times by Text to Help Identify the Two People in the Photo
+
+Claim Timestamp: 00:07:30
+
+Claim: The host says she asked Phil Lyman three times by text whether he could help identify the two individuals in the photo with his nephew or cousin.
+
+Transcript Snippet: I asked Phil Lyman three times via text whether or not he could help us, more importantly, identify the two individuals that were in the photo with his nephew or cousin
+
+Anchored Artifacts: A-2999.1
+Mentions: N-3, N-61, N-133
+Related Nodes: N-10147
+Tags: relevance:core
+Investigative Direction: Obtain the text thread showing each request and Lyman's replies.
+
+---
+
+**C-9271** Host Says Lyman Finally Said He Had No Idea Who the Two Individuals Were
+
+Claim Timestamp: 00:08:25
+
+Claim: The host says Phil Lyman at first acted confused about which photo she meant, despite her sending it several times, and finally said he had no idea who the two individuals were.
+
+Transcript Snippet: And then finally he said that he had no idea who those two individuals were at all.
+
+Anchored Artifacts: A-2999.1
+Mentions: N-61, N-3
+Related Nodes: N-10147
+Tags: relevance:core
+Investigative Direction: Obtain the text thread with Lyman and ask Broderick who the two companions were.
+
+---
+
+**C-9272** Host Says Nobody Emailed to Identify Either of the Two Companions
+
+Claim Timestamp: 00:08:25
+
+Claim: The host says that, unlike in all her earlier investigations, no viewer emailed to say they knew either the blond man or the man in the blue hat who were with Shainer Broderick.
+
+Transcript Snippet: no one emailed us to say that they knew either of those two individuals, neither the blonde that's with Shainer or the person that is wearing the blue hat
+
+Anchored Artifacts: 
+Mentions: N-3, N-133
+Related Nodes: N-10147
+Tags: relevance:core
+Investigative Direction: Review the tip-line log to confirm no identification arrived and test whether the two are from outside the United States.
+
+---
+
+**C-9273** Host Says the Man in the Blue Hat Resembles the Blurred Stairs Figure More Than Tyler Robinson Does
+
+Claim Timestamp: 00:08:25
+
+Claim: The host says the man in the blue hat resembles, more than Tyler Robinson does, the blurred image of the individual coming up the stairs, and that he looks about the same height.
+
+Transcript Snippet: He kind of resembles certainly more so than Tyler Robinson does, the blurred image of the individual that was coming up the stairs.
+
+Anchored Artifacts: 
+Mentions: N-3, N-40
+Related Nodes: N-10147
+Tags: relevance:core
+Investigative Direction: Compare the blue-hat man's height and build with the blurred stairs frame and with Robinson using a calibrated photogrammetric comparison.
+
+---
+
+**C-9274** Host Says One Companion Is Austrian, Which Explains Why Nobody Recognized Him
+
+Claim Timestamp: 00:09:47
+
+Claim: The host says one of the two individuals in the photo was identified as an Austrian, which she says explains why no viewer recognized him.
+
+Transcript Snippet: We were able to identify one of those individuals in the photo and he is Austrian.
+
+Anchored Artifacts: A-1187.1
+Mentions: N-3, N-134
+Related Nodes: N-10147
+Supports: C-1325
+Tags: relevance:core
+Investigative Direction: Verify Gernot Omer's nationality and Utah residency through public records and his employer.
+
+---
+
+**C-9275** Host Says Lyman Suggested the Gothic Girls Might Have Been Suspicious or Aware of the Shooting
+
+Claim Timestamp: 00:11:29
+
+Claim: The host says that the previous day Phil Lyman's story suggested that the so-called gothic girls could have been suspicious, or at least aware beforehand that the shooting was going to occur.
+
+Transcript Snippet: suggesting that {quote} {unquote} gothic girls might have been suspicious that they maybe could have been responsible or aware at least that the shooting was going to occur.
+
+Anchored Artifacts: A-1183.1
+Mentions: N-3, N-61
+Related Nodes: N-10146
+Supports: C-1309
+Tags: relevance:core
+Investigative Direction: Review the Alex Jones segment to determine whether Lyman himself drew that implication.
+
+---
+
+**C-9276** Host Says Phil Lyman Sent Her Footage Recorded After Multiple Shots
+
+Claim Timestamp: 00:12:20
+
+Claim: The host says that Phil Lyman sent her footage of himself after the shots rang out, and that she says shots in the plural deliberately.
+
+Transcript Snippet: gratefully, Phil Lyman did send us footage of him after the shots rang out and I am saying shots plural for a reason because we will show you that video.
+
+Anchored Artifacts: A-1185.1
+Mentions: N-3, N-61
+Related Nodes: N-10146
+Tags: relevance:core
+Investigative Direction: Run audio analysis on the original file to count discrete shots and compare with the shot count in other recordings.
+
+---
+
+**C-9277** Host Says Lyman Told Alex Jones He Heard of Video of a Man Leaving the Roof and Escaping by Another Route
+
+Claim Timestamp: 00:12:20
+
+Claim: The host plays Phil Lyman telling Alex Jones that someone had reported video of a man coming off the roof, that the story that came out was that he escaped another route, and that people are coordinating this.
+
+Transcript Snippet: Well, that's not the story that came was that he that he escaped another route. And there's there are people who are coordinating this thing.
+
+Anchored Artifacts: A-1183.1
+Mentions: N-61, N-93
+Related Nodes: N-10146
+Tags: relevance:core
+Investigative Direction: Obtain the full Alex Jones interview and ask Lyman who told him about the video and which route he meant.
+
+---
+
+**C-9278** Host Plays Lyman Saying He Does Not Believe the .30-06 Was Ever on the Roof
+
+Claim Timestamp: 00:13:16
+
+Claim: The host plays Phil Lyman telling Alex Jones that he does not believe the .30-06 rifle shown recovered in the bushes was ever on the roof, while saying he is not claiming Tyler Robinson was not the shooter.
+
+Transcript Snippet: I do not believe that that.30-06 that they showed recovered in the bushes was ever on the roof.
+
+Anchored Artifacts: A-1183.1
+Mentions: N-61, N-93, N-40
+Related Nodes: N-10146, N-10180
+Tags: relevance:core
+Investigative Direction: Compare Lyman's statement with the official account of where the rifle was recovered and with the evidence logs.
+
+---
+
+**C-9279** Host Plays Lyman Telling NewsNation He Thought the Shot Came From the Roof Above Him
+
+Claim Timestamp: 00:14:40
+
+Claim: The host plays Phil Lyman telling NewsNation that he ran out to see who it was and that, in hindsight, the shot was probably fired from the roof above him.
+
+Transcript Snippet: in hindsight, I think it was probably above me on the roof.
+
+Anchored Artifacts: A-1184.1
+Mentions: N-61
+Related Nodes: N-10146
+Tags: relevance:core
+Investigative Direction: Obtain the NewsNation segment and compare with Lyman's Alex Jones account of where the shot came from.
+
+---
+
+**C-9280** Host Says the Profanity Comment Came Before Lyman Spoke to the Two People in His Video
+
+Claim Timestamp: 00:17:46
+
+Claim: The host says that in Phil Lyman's roughly three-minute video the comment about FU occurs before he starts a conversation with the two people in black, who then answer him normally.
+
+Transcript Snippet: When he hears them say something about FU, it's before he has a conversation with him.
+
+Anchored Artifacts: A-1185.1
+Mentions: N-61
+Related Nodes: N-10146
+Tags: relevance:core
+Investigative Direction: Review the original video with clean audio to establish the order of the remark and the conversation.
+
+---
+
+**C-9281** Host Says Lyman Asked the Two, Did You See Where That Came From, in a Normal Conversation
+
+Claim Timestamp: 00:18:35
+
+Claim: The host says that in the footage Phil Lyman asks the two people whether they saw where the sound came from, and that she finds the exchange normal, which undercuts calling them abnormal.
+
+Transcript Snippet: So he says, "Did you see where that came from?" It seems like a normal conversation.
+
+Anchored Artifacts: A-1185.1
+Mentions: N-61
+Related Nodes: N-10146
+Supports: C-1324
+Tags: relevance:core
+Investigative Direction: Obtain enhanced audio of the exchange and, if possible, identify the two people to ask what they heard.
+
+---
+
+**C-9282** Host Says the Side-by-Side Is a Match but She Cannot Be 100 Percent Sure
+
+Claim Timestamp: 00:19:58
+
+Claim: The host says a side-by-side of the Buzzard and Bees page and the companion photo is a match on ears and chin, though she cannot be 100 percent certain until the person is named.
+
+Transcript Snippet: I am certain can't say 100%, okay? Because we need to find this person's name, but this is a match, okay?
+
+Anchored Artifacts: A-1188.1
+Mentions: N-3
+Related Nodes: N-10147
+Supports: C-1327
+Tags: relevance:core
+Investigative Direction: Have an independent facial examiner compare the two images and identify the person named on the Buzzard and Bees page.
+
+---
+
+**C-9283** Host Says Mike Mitchell Is a Boy Scout Leader in the LDS Church
+
+Claim Timestamp: 00:20:53
+
+Claim: The host says she learned that Detective Mike Mitchell is a Boy Scout leader in the LDS Church.
+
+Transcript Snippet: he's a Boy Scout leader uh in the LDS church
+
+Anchored Artifacts: 
+Mentions: N-126, N-3
+Related Nodes: N-10094, N-10141
+Tags: relevance:context
+Investigative Direction: Verify with LDS Church and Scouting records whether the Mike Mitchell involved in the case holds a Scout leadership role.
+
+---
+
+**C-9284** Host Says Mitchell Began as a Detective in 1999 and Served 25 Years
+
+Claim Timestamp: 00:20:53
+
+Claim: The host says that, if this is the correct Mike Mitchell, he said he was on the force for 25 years and began his career in 1999, which fits the timeline of the undercover work in the article, and she has a strong hunch it is the right person.
+
+Transcript Snippet: he was on the force for 25 years. This individual began his career in 1999.
+
+Anchored Artifacts: 
+Mentions: N-126, N-3
+Related Nodes: N-10141, N-10151
+Supports: C-1304
+Tags: relevance:core
+Investigative Direction: Obtain Mitchell's service record to reconcile a 1999 start with a 1999 article saying he had already worked internet cases for about a year.
+
+---
+
+**C-9285** Host Says Mitchell's Online Work Does Not by Itself Show He Wrote the Fake Bed Messages
+
+Claim Timestamp: 00:22:45
+
+Claim: The host says that because Mike Mitchell created messages online as an undercover detective, that does not necessarily mean he authored the fake bed messages, though she finds the overlap interesting.
+
+Transcript Snippet: Just because he's creating messages online first and foremost doesn't necessarily mean that he's the person that authored the fake bed messages
+
+Anchored Artifacts: 
+Mentions: N-126, N-3
+Related Nodes: N-10151, N-10032
+Qualifies: C-1330
+Tags: relevance:core
+Investigative Direction: Establish what the fake bed messages were and who had authorship access, then test any link to Mitchell by records.
+
+---
+
+**C-9286** Host Says George Zinn Was Arrested With Child Abuse Images on His Phone
+
+Claim Timestamp: 00:22:45
+
+Claim: The host says George Zinn, the decoy boy that day, was later arrested because he had images of children being sexually abused on his phone.
+
+Transcript Snippet: he gets arrested because he has children being sexually abused on his phone, absolutely despicable person
+
+Anchored Artifacts: 
+Mentions: N-42, N-3
+Related Nodes: N-10032
+Supports: C-1158
+Tags: relevance:core
+Investigative Direction: Pull the court filings and charging documents for Zinn's arrest and the device evidence.
+
+---
+
+**C-9287** Host Wonders Whether Zinn Was Blackmailed Into Playing the Decoy Boy to Give the Shooter Time
+
+Claim Timestamp: 00:22:45
+
+Claim: The host says she wondered, as she had in a previous episode, whether George Zinn had been blackmailed in some capacity to play the decoy boy and give the shooter time to get away.
+
+Transcript Snippet: whether or not he had been blackmailed in some capacity to play the decoy boy and to give the shooter time to get away.
+
+Anchored Artifacts: 
+Mentions: N-42, N-3
+Related Nodes: N-10032
+Tags: relevance:core
+Investigative Direction: Examine Zinn's phone, court filings and any police interview for evidence of coercion before or during the decoy episode.
+
+---
+
+**C-9288** Host Says She Suspects the Goth Person Is Not From Utah
+
+Claim Timestamp: 00:23:38
+
+Claim: The host says she has a hunch about who the goth person is, and ventures that he is not from Utah because no one has written to say they went to high school with him.
+
+Transcript Snippet: I would I would venture a guess that he is not from Utah because I've never seen uh no hits come in
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10147
+Tags: relevance:core
+Investigative Direction: Search overseas social media and gothic-scene networks for the Provo prom attendee, and obtain the Buzzard and Bees page history.
+
+---
+
+**C-9289** Host Asks for Tips at tips@candaceowens.com and Asks Viewers Not to Send TikToks
+
+Claim Timestamp: 00:23:38
+
+Claim: The host asks viewers to send identifying information about the goth person to tips@candaceowens.com, and asks them not to send TikTok videos or theories but instead to tag the show's accounts.
+
+Transcript Snippet: that's what I want you to focus your attention on, tips@candaceowens. com.
+
+Anchored Artifacts: A-2998.1
+Mentions: N-3
+Related Nodes: N-10147
+Tags: relevance:context
+Investigative Direction: Review the tip-line inbox for submissions naming the goth person, and log any that can be verified independently.
+
+---
+
+**C-9290** Host Says the Assassination May Be a Regicide Carried Out by People Around Kirk
+
+Claim Timestamp: 00:27:32
+
+Claim: The host says she is starting to think the assassination was akin to a regicide, the killing of a king to install a ruler he would not have approved, possibly with people who counseled him having betrayed him.
+
+Transcript Snippet: I'm starting to think that the assassination of Charlie Kirk uh was something akin to a regicide, right?
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10048
+Tags: relevance:core
+Investigative Direction: Identify the specific advisers and decisions she suggests were part of a betrayal, and the documents that would show them.
+
+---
+
+**C-9291** Host Does Not Think Kirk Was Wearing a Bullet Vest That Day
+
+Claim Timestamp: 00:28:21
+
+Claim: The host says that although Charlie reportedly switched suppliers, she does not think he was actually wearing a bullet vest on the day of the shooting.
+
+Transcript Snippet: even though I don't think he was actually wearing a bullet vest on that day.
+
+Anchored Artifacts: A-1195.1
+Mentions: N-1, N-3
+Related Nodes: N-10103
+Supports: C-1332
+Tags: relevance:core
+Investigative Direction: Check autopsy and clothing evidence for any body armor, and the footage of Charlie before the event.
+
+---
+
+**C-9292** Host Says Kirk Was Scheduled for Two Utah Events 20 Days Apart, UVU and USU
+
+Claim Timestamp: 00:29:10
+
+Claim: The host says Charlie was set to do two events in Utah a mere 20 days apart, UVU and then USU, on campuses just under two hours apart by car.
+
+Transcript Snippet: why Charlie was set to do two events in Utah a mere 20 days apart, okay? He was supposed to do UVU, and then today was scheduled to do, just 20 days later, USU.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10012, N-11217, N-10000
+Tags: relevance:core
+Investigative Direction: Obtain the tour schedule and booking correspondence for both campuses showing who proposed the dates.
+
+---
+
+**C-9293** Host Says TPUSA Normally Schedules Same-State Stops Back to Back
+
+Claim Timestamp: 00:29:10
+
+Claim: The host says Turning Point USA does not normally schedule events this way, and that if it does two stops in one state it makes them happen back to back for fuel and travel reasons.
+
+Transcript Snippet: If you're going to do uh two stops in one state, they make it happen back-to-back
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Compare earlier tour schedules for other states to test whether back-to-back scheduling is the norm.
+
+---
+
+**C-9294** Host Says She Toured With TPUSA Every Year Except This Year
+
+Claim Timestamp: 00:30:04
+
+Claim: The host says she knows how TPUSA tours work because she came from Turning Point USA and toured with them every year, with the exception of this year.
+
+Transcript Snippet: I have toured with them every year with the exception of this year
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Corroborate the host's past tour participation with archived tour schedules and appearances.
+
+---
+
+**C-9295** Host Says Tips Say the Hospital Was Not the Closest or Best Choice for the Wound
+
+Claim Timestamp: 00:30:04
+
+Claim: The host says she has received many tips that the hospital Charlie was taken to was not the closest, would not have been the first-choice hospital for such a wound, and was a smaller regional trauma three center that was farther away and less equipped.
+
+Transcript Snippet: the hospital that Charlie was taken to is not the closest hospital and it also would not have been the number one choice hospital
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-11218, N-10149, N-10156
+Tags: relevance:core
+Investigative Direction: Obtain trauma-center designations and drive-time data from the campus to the candidate hospitals, plus the EMS run sheet.
+
+---
+
+**C-9296** Host Says the Hospital Had Just Announced a New CEO, Surgeon Andrew Zenger
+
+Claim Timestamp: 00:30:55
+
+Claim: The host says the hospital had just announced a brand new CEO, who is also a surgeon, named Andrew Zenger.
+
+Transcript Snippet: that hospital had just announced that they had a a brand new CEO and had surgeon named Andrew Zenger.
+
+Anchored Artifacts: 
+Mentions: N-137, N-3
+Related Nodes: N-11218, N-10149
+Tags: relevance:core
+Investigative Direction: Confirm the date and press release of the CEO announcement and his appointment dates.
+
+---
+
+**C-9297** Host Says It Seemed Atypical That No Ambulance Was on Standby
+
+Claim Timestamp: 00:30:55
+
+Claim: The host says that states typically require an ambulance on standby above a certain attendance, that she does not know Utah law, and that it seemed atypical to her that there was no ambulance on standby.
+
+Transcript Snippet: that there wouldn't have been an ambulance on standby.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10840
+Tags: relevance:core
+Investigative Direction: Check Utah event-safety rules and the event permit for medical-standby requirements, and ask UVU whether an ambulance was present.
+
+---
+
+**C-9298** Host Says Zenger's Appointment Was Announced the Same Day as Charlie's Tour
+
+Claim Timestamp: 00:30:55
+
+Claim: The host says the day Andrew Zenger was announced as the new CEO was also the day Charlie's tour was announced, with five dates, two of them in Utah.
+
+Transcript Snippet: that was also the day that they announced Charlie's tour. They announced five dates and two of them were in Utah
+
+Anchored Artifacts: 
+Mentions: N-137, N-1, N-3
+Related Nodes: N-11218, N-10000
+Tags: relevance:core
+Investigative Direction: Compare the hospital's press release date with the tour announcement date.
+
+---
+
+**C-9299** Host Says the Man Who Took Down the Cameras Did So Around Minute Four
+
+Claim Timestamp: 00:32:40
+
+Claim: The host says she spoke to the individual she previously said she recognized as having taken down the cameras around minute four after Charlie was shot.
+
+Transcript Snippet: the individual who I told you guys that I recognized had taken down the cameras minute, what was it, minute four after Charlie was shot
+
+Anchored Artifacts: A-3001.1
+Mentions: N-3
+Related Nodes: N-10076, N-10192
+Supports: C-4902
+Tags: relevance:core
+Investigative Direction: Compare the camera-removal timing with the video timeline and obtain the footage showing it.
+
+---
+
+**C-9300** Host Says the Camera Man Was Behind Charlie the Whole Time, Which She Finds Unusual
+
+Claim Timestamp: 00:32:40
+
+Claim: The host says it was weird that this man was behind Charlie the entire time, and says she has never had anyone linger behind her at an event.
+
+Transcript Snippet: I thought it was weird that he was there in general, actually, that he was behind Charlie the entire time.
+
+Anchored Artifacts: A-3001.1
+Mentions: N-1, N-3
+Related Nodes: N-10192
+Tags: relevance:core
+Investigative Direction: Establish the man's assigned role at the event and review stage footage of his position.
+
+---
+
+**C-9301** Host Says the Camera Man Was Seen Making a Phone Call Around Minute Three
+
+Claim Timestamp: 00:32:40
+
+Claim: The host says she asked about the mysterious phone call this man was seen making around minute three after Charlie was assassinated.
+
+Transcript Snippet: the mysterious phone call that he was seen making in like minute three after Charlie, uh, was assassinated
+
+Anchored Artifacts: A-3001.1
+Mentions: N-3
+Related Nodes: N-10192
+Tags: relevance:core
+Investigative Direction: Obtain the footage of the call and, through lawful process, the call record to identify the recipient.
+
+---
+
+**C-9302** Host Says the Camera Man Told Her TPUSA Was Trying Something New and Feeding Footage Back to Arizona
+
+Claim Timestamp: 00:32:40
+
+Claim: The host says that man told her explicitly they were trying something new that day, with the audio-visual setup, and wanted to feed it back instantly to Arizona, which she says makes no sense because the events are typically live-streamed.
+
+Transcript Snippet: Charlie's super ambitious and on the AVs thing, they were trying something new and they wanted to be able to feed it back instantly, uh, to Arizona.
+
+Anchored Artifacts: A-3001.1
+Mentions: N-3
+Related Nodes: N-10908, N-10076
+Tags: relevance:core
+Investigative Direction: Ask TPUSA what the new AV setup was, where the feed went, and whether the feed was recorded.
+
+---
+
+**C-9303** Host Says Kirk's Position on Israel Had Shifted Entirely Before His Death
+
+Claim Timestamp: 00:33:44
+
+Claim: The host says Charlie Kirk's perspective on Israel had not just started to shift but had shifted entirely, without qualification.
+
+Transcript Snippet: Charlie Kirk's perspective on Israel was not starting to shift, it had shifted entirely, okay?
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10056, N-10148
+Tags: relevance:core
+Investigative Direction: Gather Kirk's private messages, donor communications and on-air statements from 2025 showing his position.
+
+---
+
+**C-9304** Host Says Israel and TPUSA Both Knew Kirk Had Shifted Because He Was Explicit
+
+Claim Timestamp: 00:33:44
+
+Claim: The host says Israel knew of the shift and Turning Point USA knew because Charlie was explicit, and asks why TPUSA is not shutting down the claim that he was writing love letters to Israel.
+
+Transcript Snippet: Israel knew that. Turning Point USA knew that because Charlie was explicit.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10000, N-10056
+Tags: relevance:core
+Investigative Direction: Ask TPUSA staff who heard Kirk state his position and whether any statements were recorded.
+
+---
+
+**C-9305** Host Says the Letter Included Kirk's Phone Number, Which Netanyahu Did Not Have
+
+Claim Timestamp: 00:34:37
+
+Claim: The host says Netanyahu said they were close, but in the letter Charlie gave his number, which she infers means Netanyahu did not have it.
+
+Transcript Snippet: Netanyahu said they were close, but in the letter, Charlie puts his number, which apparently Netanyahu didn't have his number.
+
+Anchored Artifacts: A-1191.1
+Mentions: N-36, N-1, N-3
+Related Nodes: N-10056
+Supports: C-1331
+Tags: relevance:core
+Investigative Direction: Obtain the letter and compare the number given with Kirk's known numbers and with Netanyahu's contact records.
+
+---
+
+**C-9306** Host Says It Is Unclear Whether the Letter Was Sent by Email or by Post and Asks for Authentication
+
+Claim Timestamp: 00:34:37
+
+Claim: The host says it is unclear whether the letter was sent as an email or in the mail, and asks that someone share the timestamp to authenticate it.
+
+Transcript Snippet: Can somebody clarify, was that an email they were sharing or did he send it in the mail to him?
+
+Anchored Artifacts: A-1191.1
+Mentions: N-36, N-3
+Related Nodes: N-10056
+Tags: relevance:core
+Investigative Direction: Request the original message with headers or the postal record from the Prime Minister's office or TPUSA.
+
+---
+
+**C-9307** Host Says the Same People Pressuring Kirk Are Pressuring TPUSA Leadership, and She Knows This for a Fact
+
+Claim Timestamp: 00:35:21
+
+Claim: The host says the same people who were pressuring Charlie are now pressuring Turning Point USA executives, and that she knows this for a fact.
+
+Transcript Snippet: I think the same people that were pressuring Charlie are pressuring them. In fact, I know that for a fact.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10000, N-10047
+Tags: relevance:core
+Investigative Direction: Ask the host for the basis of her knowledge and cross-check with TPUSA donor and board correspondence.
+
+---
+
+**C-9308** Host Challenges TPUSA Executives to Issue a Statement Saying She Is Lying
+
+Claim Timestamp: 00:35:21
+
+Claim: The host says she is challenging Turning Point USA executives to issue a clear statement that she is lying if her claim about Kirk's break with Israel is not true.
+
+Transcript Snippet: I'm going to challenge Turning Point USA executives to issue a very clean statement saying that I am lying if this is not true.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10000, N-10148
+Tags: relevance:context
+Investigative Direction: Monitor TPUSA statements for any explicit denial or confirmation.
+
+---
+
+**C-9309** Host Says Kirk Told Staff, Jewish Donors and a Rabbi 48 Hours Before His Death That He Was Abandoning the Pro-Israel Cause
+
+Claim Timestamp: 00:36:10
+
+Claim: The host says that about 48 hours before he died, Charlie told people at Turning Point, Jewish donors and a rabbi that he had no choice but to abandon the pro-Israel cause outright.
+
+Transcript Snippet: About 48 hours before Charlie Kirk died, Charlie informed people at Turning Point, as well as Jewish donors and a rabbi, that he had no choice but to abandon the pro-Israel cause outright
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10148, N-10000
+Tags: relevance:core
+Investigative Direction: Identify the staff, donors and rabbi present and obtain contemporaneous notes, messages or testimony.
+
+---
+
+**C-9310** Host Says Kirk Said He Refused to Be Bullied Anymore by Jewish Donors
+
+Claim Timestamp: 00:36:10
+
+Claim: The host says Charlie said explicitly that he refused to be bullied anymore by the Jewish donors.
+
+Transcript Snippet: He said it explicitly that he refused to be bullied anymore by the Jewish donors.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10047, N-10106
+Tags: relevance:core
+Investigative Direction: Seek witnesses and recordings of the statement and compare with Kirk's earlier remarks on donor pressure.
+
+---
+
+**C-9311** Host Says Kirk Wanted to Bring Her Back and Was Killed 48 Hours Before an On-Stage Reunion
+
+Claim Timestamp: 00:36:10
+
+Claim: The host asks TPUSA to confirm or deny that Charlie also said he wanted to bring her back, and that he was killed about 48 hours later, before their on-stage reunion could happen.
+
+Transcript Snippet: just 48 hours later, conveniently catch a bullet to the throat before our on-stage reunion could happen?
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10148
+Tags: relevance:core
+Investigative Direction: Obtain any scheduling or communications between Kirk and the host about a joint appearance.
+
+---
+
+**C-9312** Host Says She Is Hearing a Big Payday Was on the Line for Those Who Let the Lies Stand
+
+Claim Timestamp: 00:37:42
+
+Claim: The host says that, as she is hearing, TPUSA leaders are letting these claims stand because a big payday was on the line.
+
+Transcript Snippet: unless, as I am hearing, unless it is true that there was a big, big, big payday that was on the line.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Identify the payday referred to and review TPUSA funding and donor pledges around September 2025.
+
+---
+
+**C-9313** Host Says the Friends of Israel Were Pressuring Kirk Badly and He Was Done
+
+Claim Timestamp: 00:38:40
+
+Claim: The host says Charlie did not die pro-Israel, and that the friends of Israel were pressuring him really badly and he was done.
+
+Transcript Snippet: In fact, the friends of Israel were pressuring him really badly and he was done and he finally stood up for himself
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10056, N-10047
+Tags: relevance:core
+Investigative Direction: Gather Kirk's statements and communications from the weeks before his death showing the pressure described.
+
+---
+
+**C-9314** Host Says Laura Loomer Is Funded by Charlie's Donor Bob Shuman
+
+Claim Timestamp: 00:42:32
+
+Claim: The host says Laura Loomer is funded by one of Charlie's donors, Bob Shuman, who then did a 180 and is now pretending she is morally fighting the host to stop research into the murder.
+
+Transcript Snippet: and she's funded by the one of Charlie's donors, Bob Shuman, who then does a 180 and is now pretending that she is morally fighting me to stop researching into Charlie's murder
+
+Anchored Artifacts: 
+Mentions: N-60, N-98, N-1, N-3
+Tags: relevance:context
+Investigative Direction: Check disclosed contributions and employment ties between Bob Shuman and Loomer, and any change in his stance toward the host.
+
+---
+
+**C-9315** Host Says Loomer Called Her Anti-Semitic a Couple of Days Before Kirk Died
+
+Claim Timestamp: 00:42:32
+
+Claim: The host says that a couple of days before Charlie Kirk died, Laura Loomer was calling her anti-Semitic.
+
+Transcript Snippet: a couple of days before Charlie Kirk died, someone like Laura Loomer is calling me anti-Semite
+
+Anchored Artifacts: 
+Mentions: N-60, N-1, N-3
+Tags: relevance:context
+Investigative Direction: Locate Loomer's posts from September 7 to 9, 2025 and their timing relative to Kirk's death.
+
+---
+
+**C-9316** Host Says the Campaign Against Her Involves People Paid Through an Agent of Israel
+
+Claim Timestamp: 00:43:23
+
+Claim: The host says the people making videos against her at the same time are accepting money through an agent of Israel somehow, and that she has seen contracts.
+
+Transcript Snippet: People that are accepting money through an agent of Israel somehow.
+
+Anchored Artifacts: A-3000.1
+Mentions: N-3
+Related Nodes: N-10025
+Tags: relevance:context
+Investigative Direction: Identify any contracts or Foreign Agents Registration Act filings tying creators to an agent of Israel.
+
+---
+
+**C-9317** Host Says a Communist Underground Is Real and Wants Children
+
+Claim Timestamp: 00:44:16
+
+Claim: The host says there is a real communist underground, that it is not imagined, and that the resource it wants is children.
+
+Transcript Snippet: There is a real underground. It is a communist underground.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10115
+Tags: relevance:tangential
+Investigative Direction: No concrete record is cited; ask the host for the organizations and documents she means.
+
+---
+
+**C-9318** Host Says She Started Homeschooling Her Children This Week
+
+Claim Timestamp: 00:45:10
+
+Claim: The host says that she has started homeschooling her kids, that it began this week and has been two days.
+
+Transcript Snippet: I'm waking up and I'm homeschooling my kids.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Personal statement; no record needed beyond the host's own account.
+
+---
+
+**C-9319** Host Relays a Viewer's Correction on Keyholing Versus Pinball Bullets
+
+Claim Timestamp: 00:45:10
+
+Claim: The host relays a viewer's correction that keyholing is when a slow bullet tumbles and has external impact, while pinball bullets bounce internally and cause internal damage.
+
+Transcript Snippet: Keyholing is if the bullet is too slow and tumbles and has external impact.
+
+Anchored Artifacts: A-3000.1
+Mentions: N-3
+Related Nodes: N-10180
+Supports: C-1317
+Tags: relevance:context
+Investigative Direction: Have a forensic ballistics expert review the wound and autopsy record to say whether keyholing or internal deflection is consistent.
+
+---
+
+**C-9320** Host Says the Idea That Kirk Was Paralyzed When He Died Ends Today
+
+Claim Timestamp: 00:46:56
+
+Claim: The host says there have been lies from the beginning and that the idea that Charlie was paralyzed when he died ends today.
+
+Transcript Snippet: the idea that Charlie was paralyzed when he died ends today.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10085
+Tags: relevance:core
+Investigative Direction: Obtain the autopsy report and medical records and compare with the paralysis narrative.
+
+---
+
+**C-9321** Host Says the Goth Suspect Is the Person in Broderick's Photos, Not the Girl in Black
+
+Claim Timestamp: 00:48:25
+
+Claim: The host says that they are still working to identify their goth suspect, and that the suspect is not the girl wearing black but the person in the photos with nephew or cousin Broderick.
+
+Transcript Snippet: We are still working to identify our goth suspect. It is not the girl who's wearing black, but rather the person that was in the photos with nephew cousin Broderick.
+
+Anchored Artifacts: 
+Mentions: N-3, N-133
+Related Nodes: N-10147
+Supports: C-1327
+Tags: relevance:core
+Investigative Direction: Identify the person via the Buzzard and Bees prom organizers and attendee lists.
+
+---
+
+**C-9322** Host Repeats the Request for Tips at tips@candaceowens.com on the Goth Suspect
+
+Claim Timestamp: 00:48:25
+
+Claim: The host asks anyone who knows something about the goth suspect to send tips to tips@candaceowens.com, promising more the next day.
+
+Transcript Snippet: If you know something, please send us tips@candaceowens. com.
+
+Anchored Artifacts: A-2998.2
+Mentions: N-3
+Related Nodes: N-10147
+Tags: relevance:context
+Investigative Direction: Review incoming tips for any naming the person pictured in the Buzzard and Bees prom page.
+
+---
+
+**C-9323** Host Says She Holds Further Information on Where Kirk's Wounds Were
+
+Claim Timestamp: 00:48:25
+
+Claim: The host says she has been holding information close to her chest about where Charlie's wounds were, and says she will have more the next day.
+
+Transcript Snippet: Some other stuff that I've been holding close to my chest about where we are hearing uh Charlie's wounds were.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10085
+Tags: relevance:core
+Investigative Direction: Await the follow-up episode and compare with the autopsy and medical records.
+
+---
+
 ## 6. Meme Register
 
 **M-15** (meme) We Don't Know But We Know
@@ -622,6 +2052,24 @@ Context: Viewer comment elevated; host affirms truth-vs-campaign framing.
 Tags: viewer_refrain, catchphrase
 Confidence: high
 
+### Occurrence 2
+
+Video Timestamp: 00:00:01
+Speaker: N-3
+Quote: there will be no fakeness and there will be no gayness in this investigation
+Context: Host recalls her opening rule for the investigation.
+Tags: catchphrase, origin
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:45:10
+Speaker: N-3
+Quote: just really appreciating how fake and gay it all is
+Context: Host describes the posture of those telling people to move on.
+Tags: catchphrase
+Confidence: high
+
 ---
 
 **M-40** (meme) Truman Show
@@ -633,6 +2081,63 @@ Speaker: N-3
 Quote: wondering whether Charlie's entire life was the Truman Show.
 Context: Host disgust-frame: surrounding behavior feels scripted like Truman Show.
 Tags: staged, metaphor, deferred_pass1
+Confidence: high
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:23:38
+Speaker: N-3
+Quote: tips@candaceowens. com
+Context: Host asks viewers for tips identifying the goth person and not to send TikToks.
+Tags: tips, DIA
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:48:25
+Speaker: N-3
+Quote: please send us tips@candaceowens. com
+Context: Host closes with a repeat call for tips on the goth suspect.
+Tags: tips, DIA
+Confidence: high
+
+---
+
+**M-243** (meme) Regicide
+
+### Occurrence 1
+
+Video Timestamp: 00:27:32
+Speaker: N-3
+Quote: something akin to a regicide
+Context: Host floats the theory that Kirk was killed to install a ruler he would not have approved.
+Tags: theory, betrayal
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:48:25
+Speaker: N-3
+Quote: I proclaim regicide.
+Context: Host closes the episode by proclaiming the theory.
+Tags: theory, closing
+Confidence: high
+
+---
+
+**M-244** (meme) Your Gut Is Your God Instinct
+
+### Occurrence 1
+
+Video Timestamp: 00:47:45
+Speaker: N-3
+Quote: Your gut instinct is your God instinct
+Context: Host links Charlie's go-with-your-gut line to intuition given by God.
+Tags: gut, catchphrase
 Confidence: high
 
 ---

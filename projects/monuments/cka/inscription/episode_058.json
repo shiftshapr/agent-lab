@@ -354,6 +354,173 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3035",
+      "family_ref": "A-3035",
+      "bundle_name": "Kolvet Photo of Erika With Her Children Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3035.1",
+          "ref": "A-3035.1",
+          "description": "Host verbal reference to a picture Andrew Kolvet posted of Erika with her children, which the host says carried the wrong date (not shown)",
+          "related_claims": [
+            "C-9835"
+          ],
+          "related_nodes": [
+            "N-14",
+            "N-2",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:03:23",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3036",
+      "family_ref": "A-3036",
+      "bundle_name": "Erika Fort Huachuca Alibi Video Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3036.1",
+          "ref": "A-3036.1",
+          "description": "Host verbal reference to a video Erika sent through a TPUSA executive about the Fort Huachuca alibi, and to the example video the host plans to send back (not shown)",
+          "related_claims": [
+            "C-9853",
+            "C-9910"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:13:20",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3037",
+      "family_ref": "A-3037",
+      "bundle_name": "Recurring Themes Chart Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3037.1",
+          "ref": "A-3037.1",
+          "description": "Host-built chart of recurring themes in the investigation (Liberty University, Eastern Europe, trafficking, George Zinn, decoy boy, Turning Point Faith, Rob McCoy, Tim Ballard, Paul Vallely), described on air",
+          "related_claims": [
+            "C-9854",
+            "C-9855",
+            "C-9856",
+            "C-9857",
+            "C-9858"
+          ],
+          "related_nodes": [
+            "N-17",
+            "N-242",
+            "N-3",
+            "N-332",
+            "N-42",
+            "N-461",
+            "N-462",
+            "N-61"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:14:14",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3038",
+      "family_ref": "A-3038",
+      "bundle_name": "Nick Fuentes Shouting Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3038.1",
+          "ref": "A-3038.1",
+          "description": "Clip of Nick Fuentes shouting at the host, played after she describes his reaction to a question about marriage",
+          "related_claims": [
+            "C-9897"
+          ],
+          "related_nodes": [
+            "N-205",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:47:00",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3039",
+      "family_ref": "A-3039",
+      "bundle_name": "Charlie Kirk Missile Prediction Text Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3039.1",
+          "ref": "A-3039.1",
+          "description": "Host verbal reference to an earlier-shown text message in which Charlie Kirk predicted devastation involving missiles (not shown in this episode)",
+          "related_claims": [
+            "C-9906"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:58:20",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3040",
+      "family_ref": "A-3040",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3040.1",
+          "ref": "A-3040.1",
+          "description": "Host verbal request for tips about Fort Huachuca at the candaceowens.com tips address",
+          "related_claims": [
+            "C-9911"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:01:50",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -944,7 +1111,25 @@
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9830",
+        "C-9831",
+        "C-9834",
+        "C-9835",
+        "C-9836",
+        "C-9837",
+        "C-9838",
+        "C-9845",
+        "C-9848",
+        "C-9849",
+        "C-9851",
+        "C-9852",
+        "C-9853",
+        "C-9862",
+        "C-9863",
+        "C-9864",
+        "C-9910"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -960,7 +1145,11 @@
       "type": "person",
       "description": "Nucleus of Lutnick/Andre whistleblower thread and host's broader files thesis.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9881",
+        "C-9888",
+        "C-9889"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -976,7 +1165,12 @@
       "type": "person",
       "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9865",
+        "C-9866",
+        "C-9868",
+        "C-9869"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -992,7 +1186,78 @@
       "type": "person",
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9830",
+        "C-9831",
+        "C-9832",
+        "C-9833",
+        "C-9834",
+        "C-9835",
+        "C-9836",
+        "C-9837",
+        "C-9838",
+        "C-9843",
+        "C-9844",
+        "C-9845",
+        "C-9846",
+        "C-9847",
+        "C-9848",
+        "C-9849",
+        "C-9850",
+        "C-9851",
+        "C-9852",
+        "C-9853",
+        "C-9854",
+        "C-9855",
+        "C-9856",
+        "C-9857",
+        "C-9859",
+        "C-9860",
+        "C-9861",
+        "C-9863",
+        "C-9864",
+        "C-9865",
+        "C-9866",
+        "C-9867",
+        "C-9868",
+        "C-9869",
+        "C-9870",
+        "C-9871",
+        "C-9872",
+        "C-9873",
+        "C-9874",
+        "C-9875",
+        "C-9876",
+        "C-9877",
+        "C-9878",
+        "C-9879",
+        "C-9880",
+        "C-9881",
+        "C-9882",
+        "C-9883",
+        "C-9884",
+        "C-9885",
+        "C-9886",
+        "C-9887",
+        "C-9888",
+        "C-9890",
+        "C-9891",
+        "C-9895",
+        "C-9896",
+        "C-9897",
+        "C-9898",
+        "C-9901",
+        "C-9902",
+        "C-9903",
+        "C-9904",
+        "C-9905",
+        "C-9906",
+        "C-9908",
+        "C-9909",
+        "C-9910",
+        "C-9911",
+        "C-9912"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1015,6 +1280,913 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10472",
+      "ref": "N-10472",
+      "name": "Fort Huachuca Alibi Investigation",
+      "type": "investigation_target",
+      "description": "Persistent investigation into Erika's claimed Fort Huachuca alibi.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9830",
+        "C-9832",
+        "C-9834",
+        "C-9835",
+        "C-9845",
+        "C-9848",
+        "C-9853",
+        "C-9910"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-369",
+      "ref": "N-369",
+      "name": "Mitch Snow",
+      "type": "person",
+      "description": "Eyewitness who says he saw people at Fort Huachuca; the host defends his credibility.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9832",
+        "C-9848",
+        "C-9850"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Turning Point USA; focus of the host's chart and the Montgomery and Vallely claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9832",
+        "C-9853",
+        "C-9859",
+        "C-9908",
+        "C-9909"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10368",
+      "ref": "N-10368",
+      "name": "Fort Huachuca Covert Operations Training Allegations (Bruce Bevins Class)",
+      "type": "investigation_target",
+      "description": "Allegations about Fort Huachuca covert-operations classes.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9833"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10209",
+      "ref": "N-10209",
+      "name": "TPUSA Faith / Christian Zionist Infiltration Question",
+      "type": "investigation_target",
+      "description": "Question about Christian Zionist infiltration of TPUSA Faith.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9833"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson; the host recounts his Fort Huachuca response and his call about Ben Shapiro and AmFest.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9834",
+        "C-9835",
+        "C-9845",
+        "C-9868",
+        "C-9869"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10380",
+      "ref": "N-10380",
+      "name": "Erica Kirk September 8 Alibi",
+      "type": "investigation_target",
+      "description": "Erika's September 8 alibi topic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9835"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10365",
+      "ref": "N-10365",
+      "name": "Sept 9 Fort Huachuca Meeting Question",
+      "type": "investigation_target",
+      "description": "Question of what happened at Fort Huachuca on September 9.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9849",
+        "C-9851"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10367",
+      "ref": "N-10367",
+      "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+      "type": "investigation_target",
+      "description": "Mitch Snow's Fort Huachuca eyewitness encounter.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9850"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10375",
+      "ref": "N-10375",
+      "name": "Fort Huachuca Sighting Verification",
+      "type": "investigation_target",
+      "description": "Fort Huachuca sighting verification topic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9852"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "George Zinn",
+      "type": "person",
+      "description": "Man arrested after the shooting; appears as a strand on the host's chart.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9854"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11104",
+      "ref": "N-11104",
+      "name": "Liberty University",
+      "type": "investigation_target",
+      "description": "Liberty University; a strand on the host's chart.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9854"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10401",
+      "ref": "N-10401",
+      "name": "Romania / Eastern Europe Trafficking Cluster",
+      "type": "investigation_target",
+      "description": "Romania and Eastern Europe trafficking cluster.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9854",
+        "C-9855"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10032",
+      "ref": "N-10032",
+      "name": "Decoy Boy Operation Analysis",
+      "type": "investigation_target",
+      "description": "Decoy boy operation analysis.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9854"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-461",
+      "ref": "N-461",
+      "name": "Greg Laurie",
+      "type": "person",
+      "description": "Pastor of Harvest Christian Fellowship; the host links TPUSA Faith to him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9855"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-462",
+      "ref": "N-462",
+      "name": "Paul Havsgaard",
+      "type": "person",
+      "description": "Former megachurch pastor accused in a Romanian children case, named by the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9855"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10411",
+      "ref": "N-10411",
+      "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
+      "type": "investigation_target",
+      "description": "Harvest Christian Fellowship Romanian abuse lawsuit cluster.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9855"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-17",
+      "ref": "N-17",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Pastor; the host recaps his reported attempt to rehabilitate an abuser.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9856"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-332",
+      "ref": "N-332",
+      "name": "Tim Ballard",
+      "type": "person",
+      "description": "Operation Underground founder; central to the host's recap and her past donations.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9857",
+        "C-9858",
+        "C-9880"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-61",
+      "ref": "N-61",
+      "name": "Phil Lyman",
+      "type": "person",
+      "description": "Utah politician; the host recaps his visit to Ballard.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9857"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11167",
+      "ref": "N-11167",
+      "name": "Operation Underground Railroad",
+      "type": "investigation_target",
+      "description": "Operation Underground; discussed in the host's recap.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9857",
+        "C-9858",
+        "C-9880"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10144",
+      "ref": "N-10144",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "investigation_target",
+      "description": "Phil Lyman proximity investigation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9857"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-242",
+      "ref": "N-242",
+      "name": "Glenn Beck",
+      "type": "person",
+      "description": "Media figure; the host says he funded Operation Underground.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9858"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-815",
+      "ref": "N-815",
+      "name": "Paul Vallely",
+      "type": "person",
+      "description": "Retired Army general on the TPUSA advisory board.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9859",
+        "C-9860"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11166",
+      "ref": "N-11166",
+      "name": "Everyday Heroes Foundation",
+      "type": "investigation_target",
+      "description": "Everyday Heroes Foundation, which Erika says she founded.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9862"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10428",
+      "ref": "N-10428",
+      "name": "Erica Kirk China Timeline Discrepancy",
+      "type": "investigation_target",
+      "description": "Erika's China timeline discrepancy topic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9862"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10900",
+      "ref": "N-10900",
+      "name": "Daily Wire",
+      "type": "investigation_target",
+      "description": "Daily Wire; source of the Buckman interview.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9864"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Subject of the assassination; the host relays what he told her about donor pressure, his schooling and his predictions.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9865",
+        "C-9866",
+        "C-9869",
+        "C-9885",
+        "C-9901",
+        "C-9906",
+        "C-9908"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10268",
+      "ref": "N-10268",
+      "name": "AmFest Speaker Removal Pattern",
+      "type": "investigation_target",
+      "description": "AmFest speaker removal pattern.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9865",
+        "C-9866",
+        "C-9867",
+        "C-9868"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10386",
+      "ref": "N-10386",
+      "name": "Ben Shapiro Hostile Takeover Pattern",
+      "type": "investigation_target",
+      "description": "Ben Shapiro hostile takeover pattern.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9865"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-284",
+      "ref": "N-284",
+      "name": "Bari Weiss",
+      "type": "person",
+      "description": "Journalist; the host says donors fed her information.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9867"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10001",
+      "ref": "N-10001",
+      "name": "MK Ultra",
+      "type": "investigation_target",
+      "description": "MK Ultra, cited by the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9882"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11126",
+      "ref": "N-11126",
+      "name": "Operation Paperclip",
+      "type": "investigation_target",
+      "description": "Operation Paperclip, cited by the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9882"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-767",
+      "ref": "N-767",
+      "name": "Astrid Tuminez",
+      "type": "person",
+      "description": "UVU president; the host says she stepped down and was absent on September 10.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9884",
+        "C-9885",
+        "C-9886"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Utah Valley University.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9884",
+        "C-9885",
+        "C-9886"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10028",
+      "ref": "N-10028",
+      "name": "Utah Valley University Campus",
+      "type": "investigation_target",
+      "description": "Utah Valley University campus.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9885"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-541",
+      "ref": "N-541",
+      "name": "Jean-Luc Brunel",
+      "type": "person",
+      "description": "Modeling agent linked to Epstein; the host says he flew 12-year-old triplets to him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9888"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10023",
+      "ref": "N-10023",
+      "name": "Epstein Israeli Intelligence Asset Allegation",
+      "type": "investigation_target",
+      "description": "Epstein as Israeli intelligence asset allegation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9889",
+        "C-9892"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-738",
+      "ref": "N-738",
+      "name": "Jack Parsons",
+      "type": "person",
+      "description": "Rocket scientist and occultist the host cites as a Crowley student.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9896"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-786",
+      "ref": "N-786",
+      "name": "Aleister Crowley",
+      "type": "person",
+      "description": "Occultist cited by the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9896"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10413",
+      "ref": "N-10413",
+      "name": "Project Looking Glass Allegation",
+      "type": "investigation_target",
+      "description": "Project Looking Glass allegation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9898"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-467",
+      "ref": "N-467",
+      "name": "Bill Montgomery",
+      "type": "person",
+      "description": "Air Force reservist the host says co-founded TPUSA.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9909"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-868",
+      "ref": "N-868",
+      "name": "Pete McCormick",
+      "type": "person",
+      "description": "First named by the host at 00:06:05 in episode 58 as Colonel Pete McCormick, grandfather of cast member Payton McCormick.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9841"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-869",
+      "ref": "N-869",
+      "name": "Allan McCormick",
+      "type": "person",
+      "description": "First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca, father of cast member Payton McCormick.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9841"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-870",
+      "ref": "N-870",
+      "name": "Myron Gaines",
+      "type": "person",
+      "description": "First named by the host at 01:02:10 in episode 58 as the interviewer in an interview with her dropping the next day.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9912"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11237",
+      "ref": "N-11237",
+      "name": "Dillon Aerospace",
+      "type": "organization",
+      "description": "Defense contracting firm the host says employs Clayton Haugen in marketing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9839"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11238",
+      "ref": "N-11238",
+      "name": "Temple of Set",
+      "type": "organization",
+      "description": "Occult organization the host says was founded by the avowed Satanist who co-wrote a book with Paul Vallely.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9860",
+        "C-9861"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11239",
+      "ref": "N-11239",
+      "name": "National Angels",
+      "type": "organization",
+      "description": "Foster-care nonprofit with regional chapters, including Austin Angels and New Jersey Angels, that the host says Nelda Buckman works with.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9871"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11240",
+      "ref": "N-11240",
+      "name": "Courage Worldwide",
+      "type": "organization",
+      "description": "Nonprofit behind Courage House Nevada, whose founder the host quotes about the site being hard to leave.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9873",
+        "C-9877"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11241",
+      "ref": "N-11241",
+      "name": "King Low Heywood Thomas School",
+      "type": "organization",
+      "description": "Private school the host says offered her an all-expenses place after a gifted program test.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9903"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-11242",
+      "ref": "N-11242",
+      "name": "Greenland Underground Military Base",
+      "type": "place",
+      "description": "Cold War underground base in Greenland the host says was built to launch missiles.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9905"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1381,7 +2553,1886 @@
         "N-3",
         "N-269"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9830",
+      "ref": "C-9830",
+      "label": "Host Says Erika Disputes the Stationed Witness Account",
+      "claim": "The host says she followed the lead of the Fort Huachuca-stationed person who claimed to have seen Erika and then deleted the post, and that Erika disputes that narrative.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10472",
+        "N-10417"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:30",
+      "investigative_direction": "Obtain Erika's or TPUSA's on-record denial of the sighting and the specific content of what is disputed.",
+      "transcript_snippet": "I can tell you Erika disputes that narrative.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9831",
+      "ref": "C-9831",
+      "label": "Host Says Erika Shot a Teaser for a Short Film at or Near Fort Huachuca",
+      "claim": "The host asserts that Erika is definitively aware of and familiar with the Fort Huachuca intelligence base because she once shot a teaser for a short film there or around there.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10417",
+        "N-10418"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:45",
+      "investigative_direction": "Locate the teaser footage and verify filming locations against production records for November Renaissance.",
+      "transcript_snippet": "Erika is definitively aware and familiar with the Fort Huachuca base, intel base, because once upon a time she shot a teaser for a short film there or around there",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9832",
+      "ref": "C-9832",
+      "label": "Host Says TPUSA Deployed Mitch Snow's Family Drama to Deny the Sighting",
+      "claim": "The host says Turning Point USA's public response included bringing out Mitch's baby-mama drama and his sons to say the Fort Huachuca sighting never happened, which she reads as panic.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10472",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:55",
+      "investigative_direction": "Collect the TPUSA-side posts and statements about Mitch Snow's personal life and compare their dates with the first Fort Huachuca coverage.",
+      "transcript_snippet": "They were bringing out Mitch's baby mama drama, sons, everything to say this never happened",
+      "mentions_person_refs": [
+        "N-369",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9833",
+      "ref": "C-9833",
+      "label": "Host Says Agents Were Taught to Pose as Christians and Infiltrate Christian Organizations",
+      "claim": "The host says that the public learned Fort Huachuca teaches courses in which agents are taught to pretend to be Christians and be inserted into Christian organizations.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10368",
+        "N-10209"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:10",
+      "investigative_direction": "Obtain the course syllabus or first-hand accounts of the Fort Huachuca class on infiltrating Christian organizations.",
+      "transcript_snippet": "how they were uh teaching courses to their agents on how to pretend that they're Christians and to be inserted within Christian organizations",
+      "supports_claim_refs": [
+        "C-1976"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9834",
+      "ref": "C-9834",
+      "label": "Host Characterizes Kolvet's Fort Response as Feigned Confusion",
+      "claim": "The host says Andrew Kolvet reacted to the Fort Huachuca question by pretending not to understand the word fort and saying Erika was not at some fort.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10472"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:45",
+      "investigative_direction": "Retrieve Kolvet's actual on-air or posted statement and quote it in full to test the host's characterization.",
+      "transcript_snippet": "Erika wasn't at some fort. Okay. Okay, Andrew Kolvet, little too much.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9835",
+      "ref": "C-9835",
+      "label": "Host Says Kolvet Answered With a Photo of Erika and Her Children on the Wrong Date",
+      "claim": "The host says Andrew Kolvet responded to the Fort Huachuca question with a picture of Erika with her children that carried the wrong date and a remark about eating burgers rather than building a pillow fort.",
+      "anchored_artifacts": [
+        "A-3035"
+      ],
+      "related_nodes": [
+        "N-10472",
+        "N-10380"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:30",
+      "investigative_direction": "Identify the post, its date and the date metadata on the photo, and compare with the Sept 8 to Sept 10 alibi window.",
+      "transcript_snippet": "Andrew's all like, \"Here's a picture of her with her babies on the wrong date.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9836",
+      "ref": "C-9836",
+      "label": "Host Says Sources Knew Erika and Worked With Her on a Film From 2010 to 2013",
+      "claim": "The host says people based at Fort Huachuca around 2010 or 2011 contacted her to say they knew Erika and had worked with her from about 2010 until around 2013 on a mini film that was never released.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10417",
+        "N-10418"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:03:45",
+      "investigative_direction": "Obtain the sources' names or documents showing the 2010 to 2013 production timeline; compare with the Kickstarter dates.",
+      "transcript_snippet": "reached out to me to inform me that they knew Erika uh and that Erika definitely knows the base because a bunch of people from the base were uh were affiliated and had worked with her from about 2010 until around 2013",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9837",
+      "ref": "C-9837",
+      "label": "Host Says Erika Pursued the Stage and Pageants",
+      "claim": "The host says Erika is known to have done some acting or reality television, to have pursued the stage and to have been involved in pageants.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10418"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:40",
+      "investigative_direction": "Check Erika's pageant and acting credits in public biographies and archived pageant results.",
+      "transcript_snippet": "Uh we know that she was pursuing the stage, obviously. Uh she was involved in pageants.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9838",
+      "ref": "C-9838",
+      "label": "Host Says Haugen Was the Person Erika Was Closest To",
+      "claim": "The host says her sources told her that the person Erika was really close to on the film was Clayton Haugen, unsure of the spelling of the surname.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10418"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:00",
+      "investigative_direction": "Ask the sources for the basis of the closeness claim; look for Haugen and Erika in joint photos, posts or cast lists.",
+      "transcript_snippet": "The person they said she was really close to was Clayton Haugen.",
+      "mentions_person_refs": [
+        "N-470",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9839",
+      "ref": "C-9839",
+      "label": "Host Says Haugen Does Marketing for Dillon Aerospace",
+      "claim": "The host says Clayton Haugen does marketing for the defense contracting firm Dillon Aero Space.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11237",
+        "N-10418"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:30",
+      "investigative_direction": "Verify Haugen's employment through LinkedIn or company records; note the firm's spelling (Dillon Aerospace).",
+      "transcript_snippet": "And he does marketing for the defense contracting firm Dillon Aero Space.",
+      "mentions_person_refs": [
+        "N-470"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9840",
+      "ref": "C-9840",
+      "label": "Host Says Don Frye Graduated Sierra Vista High and Trained in Judo at Fort Huachuca",
+      "claim": "The host says cast member Don Frye graduated from high school in Sierra Vista and trained in judo at Fort Huachuca.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10417",
+        "N-10418"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:50",
+      "investigative_direction": "Check Frye's published biography for the Sierra Vista school and Fort Huachuca judo program.",
+      "transcript_snippet": "he actually graduated from high school in Sierra Vista and then trained in judo at Fort Huachuca",
+      "mentions_person_refs": [
+        "N-473"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9841",
+      "ref": "C-9841",
+      "label": "Host Says Payton McCormick Is Linked to Colonel Pete and Lt. Col. Allan McCormick",
+      "claim": "The host says cast member Payton McCormick's grandfather is Colonel Pete McCormick and her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10417",
+        "N-10418"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:05",
+      "investigative_direction": "Confirm the family relationships and Allan McCormick's Fort Huachuca assignment through Army records or public obituaries.",
+      "transcript_snippet": "Her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.",
+      "mentions_person_refs": [
+        "N-474",
+        "N-868",
+        "N-869"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9842",
+      "ref": "C-9842",
+      "label": "Host Says Payton McCormick Was Miss Teen USA in 2006",
+      "claim": "The host says Payton McCormick was also Miss Teen USA in 2006; the sentence runs into a name the transcript renders as Priscilla Ann Nu'ul.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10418"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:20",
+      "investigative_direction": "Check Miss Teen USA 2006 titleholder records; the transcript's title and name attribution look garbled and may be wrong.",
+      "transcript_snippet": "Payton was also, by the way, Miss Teen USA in 2006, Priscilla Ann Nu'ul",
+      "mentions_person_refs": [
+        "N-474",
+        "N-477"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9843",
+      "ref": "C-9843",
+      "label": "Host Says Chantel Thuy's Father Worked on AI at IBM",
+      "claim": "The host says she could not find much on cast member Chantel Thuy but that her dad worked in artificial intelligence for IBM, which she speculates might connect to Fort Huachuca.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10418",
+        "N-10417"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:35",
+      "investigative_direction": "Identify Thuy's father and verify the IBM employment claim; no Fort Huachuca link was shown.",
+      "transcript_snippet": "we can tell you that her dad worked for an artificial intelligence for IBM",
+      "mentions_person_refs": [
+        "N-475",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9844",
+      "ref": "C-9844",
+      "label": "Host Says Price Mitchum Was Placed on a Psychiatric 5150 Hold",
+      "claim": "The host says cast member Price Mitchum was put in a psych 5150 hold.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10418"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:50",
+      "investigative_direction": "Public 5150 holds are confidential medical events; look for any news report before treating this as established.",
+      "transcript_snippet": "that Price Mitchum, that just gets dark. I mean, that young man or older man got put in a psych 5150 hold",
+      "mentions_person_refs": [
+        "N-476",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9845",
+      "ref": "C-9845",
+      "label": "Host Says the Poster Proves Erika Knew Fort Huachuca and Faults Kolvet's Contrary Claim",
+      "claim": "The host says her sources told her there is no way Erika is not familiar with Fort Huachuca, that the poster proves it, and that she does not know why Andrew Kolvet said otherwise.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10417",
+        "N-10472"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:20",
+      "investigative_direction": "Find Kolvet's original statement about Erika's familiarity with the base and test it against the poster and Kickstarter evidence.",
+      "transcript_snippet": "The point is is that they told me there's absolutely no way that she's not familiar with Fort Huachuca.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9846",
+      "ref": "C-9846",
+      "label": "Host Says Kickstarter Comments Show the Film Was Promised for 2013 but Not Delivered",
+      "claim": "The host says that, going by the comments on the Kickstarter campaign, the filmmakers promised to deliver in 2013 and did not.",
+      "anchored_artifacts": [
+        "A-1635.2"
+      ],
+      "related_nodes": [
+        "N-10418"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:08:30",
+      "investigative_direction": "Archive the Kickstarter comment thread and delivery estimate from the Wayback Machine.",
+      "transcript_snippet": "They promised to deliver it in 2013. That didn't happen.",
+      "mentions_person_refs": [
+        "N-470",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9847",
+      "ref": "C-9847",
+      "label": "Host Says the Project Posted Updates Until 2017 but Was Never Released",
+      "claim": "The host says the film was never released despite posting updates up to 2017.",
+      "anchored_artifacts": [
+        "A-1635.2"
+      ],
+      "related_nodes": [
+        "N-10418"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:40",
+      "investigative_direction": "Capture the dated Kickstarter update log to confirm the last update year.",
+      "transcript_snippet": "this project was never released despite posting updates up to 2017",
+      "mentions_person_refs": [
+        "N-470",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9848",
+      "ref": "C-9848",
+      "label": "Host Says Her Sources Are Friends of Erika and Say She Knows the Space",
+      "claim": "The host says the people who gave her the poster material were friends with Erika, know her, and say she knows about the Fort Huachuca space, and that this makes it unreasonable to call Mitch's testimony deranged.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10417",
+        "N-10472"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:55",
+      "investigative_direction": "Seek on-record confirmation from the sources; their friendship with Erika is asserted only through the host.",
+      "transcript_snippet": "these people who gave this to us were our friends with Erika, they know her, they say she knows about this space",
+      "mentions_person_refs": [
+        "N-2",
+        "N-369",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9849",
+      "ref": "C-9849",
+      "label": "Host Says the Deleted Post Said Erika Was Seen the Day Before, September 9",
+      "claim": "The host says the woman who posted shortly after the assassination said she saw Erika the day before, which would be September 9 and not September 8, and then deleted the message.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10417",
+        "N-10365"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:35",
+      "investigative_direction": "Recover the deleted post from archives or screenshots and confirm the date of the sighting it described.",
+      "transcript_snippet": "she had seen Erika the day before, which would have been September 9th, by the way, not the 8th.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9850",
+      "ref": "C-9850",
+      "label": "Host Says the Original Poster Has Nothing to Do With Mitch Snow",
+      "claim": "The host says the original poster has absolutely nothing to do with Mitch Snow, so the two accounts are independent.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10417",
+        "N-10367"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:00",
+      "investigative_direction": "Ask the host to disclose how independence from Mitch Snow was established; compare the two accounts' details.",
+      "transcript_snippet": "This person has absolutely nothing to do with Mitch Snow.",
+      "mentions_person_refs": [
+        "N-369",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9851",
+      "ref": "C-9851",
+      "label": "Host Says a Chat Participant Said There Was an Order to Lower Drones That Day",
+      "claim": "The host says one person in a chat among military personnel stationed at Fort Huachuca asserted they also saw Erika at the base and that there was an order to lower drones on that day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10417",
+        "N-10365"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:25",
+      "investigative_direction": "Identify the chat and the order; check Fort Huachuca airspace or UAS notices for September 9, 2025.",
+      "transcript_snippet": "and that there was an order to lower drones on that day.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9852",
+      "ref": "C-9852",
+      "label": "Host Says She Confirmed the Witnesses Are Real and Stationed at Fort Huachuca",
+      "claim": "The host says her due diligence confirmed that the people are real and are in fact stationed at Fort Huachuca, and that they spoke because they believed they saw Erika and not because the public fed them the idea.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10417",
+        "N-10375"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:12:55",
+      "investigative_direction": "Request documentation of the verification method, such as duty verification, which the host has not shown.",
+      "transcript_snippet": "I did my due diligence to confirm that those people are real and that those people are in fact stationed at Fort Huachuca",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9853",
+      "ref": "C-9853",
+      "label": "Host Says Erika Sent a Video About the Alibi That Missed What She Asked For",
+      "claim": "The host says Erika sent, through one of the Turning Point executives, the video the host had been asking for regarding the Fort Huachuca alibi, but it was not what she asked for and she will follow up with an example video.",
+      "anchored_artifacts": [
+        "A-3036"
+      ],
+      "related_nodes": [
+        "N-10472",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:20",
+      "investigative_direction": "Obtain the video Erika sent and the host's example request; check metadata to date the footage.",
+      "transcript_snippet": "through um one of the Turning Point executives, Erika did send a video that I have been asking for regarding the Fort Huachuca alibi",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9854",
+      "ref": "C-9854",
+      "label": "Host Presents a Chart of Recurring Themes From Liberty University to Eastern Europe",
+      "claim": "The host says a chart she assembled shows recurring themes in the investigation, including a Liberty University strand, an Eastern Europe strand and a trafficking and sex abuse strand, while stressing no one on the chart is thereby guilty.",
+      "anchored_artifacts": [
+        "A-3037"
+      ],
+      "related_nodes": [
+        "N-11104",
+        "N-10401",
+        "N-10032"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:30",
+      "investigative_direction": "Publish the chart nodes with sources so each strand can be checked individually.",
+      "transcript_snippet": "We are finding this Liberty University strand, the Eastern uh Europe strand, the trafficking and sex abuse strand",
+      "mentions_person_refs": [
+        "N-3",
+        "N-42"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9855",
+      "ref": "C-9855",
+      "label": "Host Says Greg Laurie's Church Is Accused of Trafficking Children From Romania",
+      "claim": "The host says Turning Point Faith works with Pastor Greg Laurie, whose church is accused of trafficking children from Romania, and that pastor Paul Habsgard is accused of having helped facilitate it in a case still moving through court.",
+      "anchored_artifacts": [
+        "A-3037"
+      ],
+      "related_nodes": [
+        "N-10411",
+        "N-10401"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:50",
+      "investigative_direction": "Pull the court docket of the Harvest Christian Fellowship Romania litigation for the allegations and status.",
+      "transcript_snippet": "Turning Point Faith working with this Pastor Greg Laurie, whose church is being accused of trafficking children from Romania.",
+      "supports_claim_refs": [
+        "C-8151"
+      ],
+      "mentions_person_refs": [
+        "N-461",
+        "N-462",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9856",
+      "ref": "C-9856",
+      "label": "Host Recaps Rob McCoy Trying to Rehabilitate a Past Child Abuser",
+      "claim": "The host recaps that Rob McCoy tried to rehabilitate a person who had abused children in the past.",
+      "anchored_artifacts": [
+        "A-3037"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:15:10",
+      "investigative_direction": "Locate the McCoy interview and the offender's court record referenced earlier in the series.",
+      "transcript_snippet": "We had Rob McCoy trying to rehabilitate um a person who had abused children in the past.",
+      "supports_claim_refs": [
+        "C-8162"
+      ],
+      "mentions_person_refs": [
+        "N-17",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9857",
+      "ref": "C-9857",
+      "label": "Host Recaps Phil Lyman Seeing Tim Ballard the Day After",
+      "claim": "The host recaps that Tim Ballard and Operation Underground were discussed and that Phil Lyman went to see Ballard the next day.",
+      "anchored_artifacts": [
+        "A-3037"
+      ],
+      "related_nodes": [
+        "N-11167",
+        "N-10144"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:20",
+      "investigative_direction": "Corroborate Lyman's meeting with Ballard on September 11, 2025 through schedules, photos or statements.",
+      "transcript_snippet": "We talked about Tim Ballard, Operation Underground, how Phil Lyman went to see him the next day.",
+      "supports_claim_refs": [
+        "C-8166"
+      ],
+      "mentions_person_refs": [
+        "N-332",
+        "N-61",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9858",
+      "ref": "C-9858",
+      "label": "Host Says Glenn Beck Funded Operation Underground and It Ended in Scandal",
+      "claim": "The host says Glenn Beck funded Operation Underground, that Ballard's tenure ended in scandal, and that people allege the charity was not doing what he set out to do.",
+      "anchored_artifacts": [
+        "A-3037"
+      ],
+      "related_nodes": [
+        "N-11167"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:25",
+      "investigative_direction": "Review the public filings and lawsuits against Operation Underground and Beck's reported funding.",
+      "transcript_snippet": "Glenn Beck had funded that Operation Under Underground, which for Tim Ballard ended in scandal",
+      "supports_claim_refs": [
+        "C-8164"
+      ],
+      "mentions_person_refs": [
+        "N-242",
+        "N-332"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9859",
+      "ref": "C-9859",
+      "label": "Host Corrects That Paul Vallely Is on the Advisory Board, Not the Board",
+      "claim": "The host says that on an earlier episode she said Retired Army General Paul Vallely was on the board and meant to say the advisory board, which she calls an important difference.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:40",
+      "investigative_direction": "Check the TPUSA advisory board listing for Vallely and archived versions of the site.",
+      "transcript_snippet": "I think on that episode I said he was on the board, I meant to say he's on the advisory board.",
+      "supports_claim_refs": [
+        "C-8245"
+      ],
+      "mentions_person_refs": [
+        "N-815",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9860",
+      "ref": "C-9860",
+      "label": "Host Says Vallely Ran Psychological Operations and Co-Wrote a Book With the Founder of the Temple of Set",
+      "claim": "The host says Vallely, a retired Army general who ran psychological operations, co-wrote a book with an avowed Satanist who started his own kind of Church of Satan called the Temple of Set.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11238"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:55",
+      "investigative_direction": "Verify Vallely's psychological operations command history and the book's co-author credit.",
+      "transcript_snippet": "We got this retired Army general who actually ran psychological operations and happened to co-write a book with this guy who was an avowed Satanist and started his own kind of Church of Satan called the Temple of Set",
+      "supports_claim_refs": [
+        "C-8246"
+      ],
+      "mentions_person_refs": [
+        "N-815",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9861",
+      "ref": "C-9861",
+      "label": "Host Says the Co-Author Was Credibly Accused by Police of Harming a Child and Not Charged",
+      "claim": "The host says the same Satanist co-author was accused, credibly according to police, of harming a child at an Army Child Development Center but was not charged because police felt they lacked enough evidence.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11238"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:08",
+      "investigative_direction": "Obtain the police report and the declination decision for the Army child development center case.",
+      "transcript_snippet": "they didn't bring charges against him because they felt they didn't have enough evidence uh of harming a child.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9862",
+      "ref": "C-9862",
+      "label": "Host Says Erika Created Everyday Heroes Like You to Fund Grassroots Groups",
+      "claim": "The host plays Erika saying she created something called Everyday Heroes Like You, to bring funds and awareness to grassroots organizations that are transparent about their funds rather than sending 70 percent to admin.",
+      "anchored_artifacts": [
+        "A-1636.1"
+      ],
+      "related_nodes": [
+        "N-11166",
+        "N-10428"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:00",
+      "investigative_direction": "Check Everyday Heroes Foundation incorporation, filings and fund allocation against Erika's description.",
+      "transcript_snippet": "I decided to create something called Everyday Heroes Like You",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9863",
+      "ref": "C-9863",
+      "label": "Host Says a Visit to the Biggest Donor Would Not Itself Be a Scandal",
+      "claim": "The host says that because Erika is chairman and CEO of Turning Point, going to see her biggest donor would not itself be a scandal, softening the significance of the plane visits.",
+      "anchored_artifacts": [
+        "A-1638.3"
+      ],
+      "related_nodes": [
+        "N-10421"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:15",
+      "investigative_direction": "Treat the plane movements as unproven wrongdoing; the open question is the donors' other ties.",
+      "transcript_snippet": "going to see your biggest donor wouldn't exactly be a scandal",
+      "qualifies_claim_refs": [
+        "C-2117"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9864",
+      "ref": "C-9864",
+      "label": "Nelda Buckman Is Quoted Saying She and Erika Talked About Womanhood",
+      "claim": "The host reads from Daily Wire Plus that Nelda Buckman said she and Erika talked about womanhood and what our culture has been teaching young women and what they want to teach them.",
+      "anchored_artifacts": [
+        "A-1638.2"
+      ],
+      "related_nodes": [
+        "N-10421",
+        "N-10900"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:20",
+      "investigative_direction": "Retrieve the Daily Wire Plus interview text to confirm the quotation and date.",
+      "transcript_snippet": "Erika and I talked about womanhood and what our culture has been teaching our young women",
+      "mentions_person_refs": [
+        "N-471",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9865",
+      "ref": "C-9865",
+      "label": "Host Says Shapiro Was Upset She Called Him Out and That Charlie Had Her Back",
+      "claim": "The host says Ben Shapiro was really upset that she called him out on stage and that Charlie Kirk publicly said he had her back on the day she was fired.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10268",
+        "N-10386"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:45",
+      "investigative_direction": "Find Charlie Kirk's public post of support on the day of the firing and Shapiro's reaction.",
+      "transcript_snippet": "he was really upset uh that I had called him out on stage and that Charlie had my back when I got fired",
+      "mentions_person_refs": [
+        "N-97",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9866",
+      "ref": "C-9866",
+      "label": "Host Says Charlie Told Her Ben Pressured His Donors Over Her AmFest Slot",
+      "claim": "The host says Charlie told her that Ben Shapiro started putting pressure on Charlie's donors to try to get him not to let her speak at AmFest.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:05",
+      "investigative_direction": "Obtain the text messages or the donor's identity the host says Charlie referred to; only Charlie's account via the host is offered.",
+      "transcript_snippet": "that Ben started putting pressure on Charlie's donors uh and trying to get him not to let me speak at AmFest.",
+      "supports_claim_refs": [
+        "C-6656"
+      ],
+      "mentions_person_refs": [
+        "N-97",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9867",
+      "ref": "C-9867",
+      "label": "Host Says Donors Were Also Feeding Information to Bari Weiss",
+      "claim": "The host says she did not know who the donor was but knew they were also feeding information to Bari Weiss.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:20",
+      "investigative_direction": "Ask the host for the source of the Weiss information flow; look for corroborating donor communications.",
+      "transcript_snippet": "I knew that they were um feeding information also to Barry Weiss",
+      "mentions_person_refs": [
+        "N-284",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9868",
+      "ref": "C-9868",
+      "label": "Host Says Kolvet Called to Say Ben Would Be Allowed to Buy a Place at AmFest",
+      "claim": "The host says Andrew Kolvet phoned her to say they would allow Ben Shapiro to effectively buy a place at AmFest and to buy up the documentary they were doing, and asked if she was okay with it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10268",
+        "N-10423"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:30",
+      "investigative_direction": "Locate AmFest 2024 speaker lists and any sponsorship terms; Kolvet's call is documented only by the host.",
+      "transcript_snippet": "hey, letting you know that we're going to allow Ben to effectively buy a place at AmFest.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9869",
+      "ref": "C-9869",
+      "label": "Host Says Kolvet Told Her Charlie Had to Do an Interview With Ben About the Documentary",
+      "claim": "The host says the call was particularly about the documentary, and that Kolvet told her Charlie had to do an interview with Ben and that it was no big deal.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10423"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:50",
+      "investigative_direction": "Find the Kirk and Shapiro interview tied to Identity Crisis and its date relative to the AmFest speaker decision.",
+      "transcript_snippet": "he said, Charlie has to do this interview now with um with uh Ben and that's what's happening.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-1",
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9870",
+      "ref": "C-9870",
+      "label": "Host Says She Is Not Claiming Nelda Buckman Applied the Pressure",
+      "claim": "The host says she is not saying Nelda Buckman was necessarily the person who put pressure on Charlie, only that it is interesting to connect that dot.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10421",
+        "N-10423"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:58",
+      "investigative_direction": "No evidence offered linking Buckman to the donor pressure; identify the donor before drawing a link.",
+      "transcript_snippet": "I'm not saying that she necessarily was the person who put the pressure on it",
+      "qualifies_claim_refs": [
+        "C-2116"
+      ],
+      "mentions_person_refs": [
+        "N-471",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9871",
+      "ref": "C-9871",
+      "label": "Host Says Nelda Buckman Works With National Angels Chapters",
+      "claim": "The host says Nelda Buckman works with National Angels and all its regional chapters, such as Austin Angels and New Jersey Angels, to help foster children.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11239",
+        "N-10420"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:25",
+      "investigative_direction": "Check National Angels board and donor listings for Buckman.",
+      "transcript_snippet": "Nelda works with National Angels, so it's like there's all these different regions, Austin Angels, New Jersey Angels.",
+      "mentions_person_refs": [
+        "N-471",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9872",
+      "ref": "C-9872",
+      "label": "Host Says Nelda Buckman May Be the Largest Donor to Courage House Nevada",
+      "claim": "The host says Nelda Buckman is one of the largest donors, and might be the largest donor, to Courage House Nevada.",
+      "anchored_artifacts": [
+        "A-1640.1"
+      ],
+      "related_nodes": [
+        "N-10420"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:05",
+      "investigative_direction": "Verify Courage House donor listings and filings for Buckman gifts; the host hedges that she might be the largest.",
+      "transcript_snippet": "Nelda is one of the largest donors, she might even be the largest donor to Courage House Nevada",
+      "mentions_person_refs": [
+        "N-471",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9873",
+      "ref": "C-9873",
+      "label": "Host Says Courage House Bought a 40-Acre Washoe County Property in April 2025",
+      "claim": "The host says, per the nonprofit's website, Courage House purchased a 40-acre property in Washoe County, Nevada in April 2025 and planned to house six female resident children.",
+      "anchored_artifacts": [
+        "A-1640.1"
+      ],
+      "related_nodes": [
+        "N-10420",
+        "N-11240"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:20",
+      "investigative_direction": "Obtain the Washoe County deed and sale date for the 40-acre parcel and the buyer entity.",
+      "transcript_snippet": "per its website in April 2025, it purchased a 40-acre property in Washoe County, Nevada",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9874",
+      "ref": "C-9874",
+      "label": "Host Says Courage House Is a Psychiatric Residential Treatment Facility",
+      "claim": "The host says Courage House is a psychiatric residential treatment facility, which she says gives the state different powers to keep residents.",
+      "anchored_artifacts": [
+        "A-1640.1"
+      ],
+      "related_nodes": [
+        "N-10420"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:48",
+      "investigative_direction": "Check Nevada licensing records for the facility's PRTF license and conditions.",
+      "transcript_snippet": "this is a psychiatric residential treatment facility",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9875",
+      "ref": "C-9875",
+      "label": "Host Says the Campus Has Capacity for 18 Children Across Three Cottages",
+      "claim": "The host says the campus will house six girls at first and has capacity for 18 children across three buildings (rendered colleges in the transcript) as the long-term goal.",
+      "anchored_artifacts": [
+        "A-1640.1"
+      ],
+      "related_nodes": [
+        "N-10420"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:15",
+      "investigative_direction": "Check the permit documents for the number and type of buildings and licensed bed capacity.",
+      "transcript_snippet": "it has the capacity for 18 as colleges are are being built.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9876",
+      "ref": "C-9876",
+      "label": "Host Says Courage House Is in a Confidential Secure Location",
+      "claim": "The host says the Courage House is reportedly in a confidential secure location, so the public cannot tell where the girls will be kept.",
+      "anchored_artifacts": [
+        "A-1640.1"
+      ],
+      "related_nodes": [
+        "N-10420"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:55",
+      "investigative_direction": "Confirm through the Washoe County deed that the address is public record regardless of the facility's claim.",
+      "transcript_snippet": "the Courage House is report reportedly located in a confidential secure location",
+      "mentions_person_refs": [
+        "N-3",
+        "N-269"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9877",
+      "ref": "C-9877",
+      "label": "Host Says the Founder Said the Site Is Chosen Because It Is Hard for Girls to Leave or Be Found",
+      "claim": "The host says the founder of Courage Worldwide told local news there are people who want to hurt the girls and that the site is rural, quote, where it's hard for them to leave or for someone to find them.",
+      "anchored_artifacts": [
+        "A-1640.1"
+      ],
+      "related_nodes": [
+        "N-10420",
+        "N-11240"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:10",
+      "investigative_direction": "Retrieve the local news report to read the founder's full quotation in context.",
+      "transcript_snippet": "it quote, where it's hard for them to leave or for someone to find them.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-269"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9878",
+      "ref": "C-9878",
+      "label": "Host Says the Website Implies Residents Could Be as Young as Four to Six",
+      "claim": "The host says the website implies the girls can be as young as 4 to 6 years old and promises tuition support for college and long-term housing.",
+      "anchored_artifacts": [
+        "A-1640.1"
+      ],
+      "related_nodes": [
+        "N-10420"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:50",
+      "investigative_direction": "Capture the website text and compare with the facility's licensed age range.",
+      "transcript_snippet": "they're implying throughout the website that these girls can be as young as 4 to 6 years old",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9879",
+      "ref": "C-9879",
+      "label": "Host Says Courage House Welcomes Nevada's Law Letting Girls Stay Until 21",
+      "claim": "The host says the website outlines excitement that Nevada changed its laws so residents do not have to leave on their 18th birthday and can stay until 21.",
+      "anchored_artifacts": [
+        "A-1640.1"
+      ],
+      "related_nodes": [
+        "N-10420"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:05",
+      "investigative_direction": "Verify the Nevada statute on extended foster-care age and its effective date.",
+      "transcript_snippet": "Nevada has changed its laws uh which means that they don't have to leave on their 18th birthday.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9880",
+      "ref": "C-9880",
+      "label": "Host Says She Used to Donate Annually to Operation Underground",
+      "claim": "The host says she used to give annually to Operation Underground, which was run by Tim Ballard, before its scandal.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11167"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:40",
+      "investigative_direction": "Host's own giving record; no outside verification needed beyond her statement.",
+      "transcript_snippet": "I used to give, just annually, just so you guys know, to Operation Underground, which was run by Tim Ballard.",
+      "mentions_person_refs": [
+        "N-332",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9881",
+      "ref": "C-9881",
+      "label": "Host Says Epstein Donated to Schools and Charities, Some Probably Trafficking Charities",
+      "claim": "The host says Jeffrey Epstein donated a lot of money to schools, that his charities should be revisited, and that she is certain some were sex trafficking charities.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:29:50",
+      "investigative_direction": "Pull Epstein's foundation filings and recipients list and screen them for child-welfare charities.",
+      "transcript_snippet": "we know how Jeffrey Epstein also gave to schools, he donated to schools, he donated a lot of money, actually",
+      "mentions_person_refs": [
+        "N-9",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9882",
+      "ref": "C-9882",
+      "label": "Host Says the Precursor to MK Ultra Took Place With Nazi Scientists Brought Over in Operation Paperclip",
+      "claim": "The host says the finding that abusing and raising a child can produce a psychopath or dissociation was the precursor to MK Ultra, which took place with Nazi scientists brought over in Operation Paperclip.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10001",
+        "N-11126"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:25",
+      "investigative_direction": "Historians' accounts of MK Ultra and Paperclip place the program in 1953; test the claimed lineage against declassified CIA records.",
+      "transcript_snippet": "the precursor to MK Ultra, uh which actually took place with Nazi scientists that were then brought over here with Operation Paperclip",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9883",
+      "ref": "C-9883",
+      "label": "Host Says She Believes White Walkers Are Among Us",
+      "claim": "The host says she believes there are, as an analogy, White Walkers among us: people harmed as children and turned into a kind of program, a pattern like gang pledging and hazing.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:31:10",
+      "investigative_direction": "Opinion presented as belief; no checkable record offered.",
+      "transcript_snippet": "I think there are, to use obviously an analogy here, White Walkers among us. I really do believe that.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9884",
+      "ref": "C-9884",
+      "label": "Host Says Astrid Tuminez Has Just Stepped Down as UVU President",
+      "claim": "The host says Astrid Tuminez has just stepped down from Utah Valley University as its president, as just announced.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:40",
+      "investigative_direction": "Check the UVU announcement and its date.",
+      "transcript_snippet": "who by the way has just stepped down from Utah Valley University. It was just announced",
+      "mentions_person_refs": [
+        "N-767",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9885",
+      "ref": "C-9885",
+      "label": "Host Says Tuminez Was Not at UVU on the Day of the Assassination",
+      "claim": "The host says Tuminez was not at UVU on the day of Charlie's assassination despite it being the first week of school.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-10028"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:50",
+      "investigative_direction": "Obtain Tuminez's September 10, 2025 whereabouts and travel; previously claimed absences can be compared.",
+      "transcript_snippet": "she was not there on the day of Charlie's assassination.",
+      "mentions_person_refs": [
+        "N-767",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9886",
+      "ref": "C-9886",
+      "label": "Host Says Tuminez Was Involved in CIA Color Revolution Work and Was a Fostered Philippine Child",
+      "claim": "The host says Tuminez looks to have been involved in color revolution work for the CIA and was a fostered child rescued from the Philippines, and asks whether childhood trauma lies behind her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:00",
+      "investigative_direction": "Check Tuminez's published biography and memoir for her childhood and career; the CIA work claim has no cited source.",
+      "transcript_snippet": "Looks like she was involved in some color revolution stuff for the CIA. She was a fostered child, was rescued from the Philippines.",
+      "mentions_person_refs": [
+        "N-767",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9887",
+      "ref": "C-9887",
+      "label": "Host Says Hollywood Was Founded by Viennese Directors Who Engaged in Pedophilia",
+      "claim": "The host says Hollywood's founding story is that it imported Viennese directors who had been engaging in pedophilia in Vienna, where it was rampant.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:35:40",
+      "investigative_direction": "Film historians' accounts of Vienna emigre directors; the pedophilia claim has no cited source.",
+      "transcript_snippet": "they largely imported a bunch of Viennese directors who had been engaging in pedophilia over in Vienna",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9888",
+      "ref": "C-9888",
+      "label": "Host Says Epstein Was Accused of Flying In 12-Year-Old Triplets Via Jean-Luc Brunel",
+      "claim": "The host says Epstein, for his own birthday, found 12-year-old triplets who were dirt poor, and that his friend Jean-Luc Brunel flew them from Paris to Epstein.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:36:40",
+      "investigative_direction": "Search the unsealed Giuffre and Maxwell filings and the Brunel investigation for the triplets allegation.",
+      "transcript_snippet": "his friend uh Jean-Luc Brunel in Paris flew these 12-year-old triplets to Jeffrey Epstein",
+      "mentions_person_refs": [
+        "N-9",
+        "N-541",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9889",
+      "ref": "C-9889",
+      "label": "Fuentes Clip Calls Epstein a Jewish Spy Probably Working With Israel",
+      "claim": "In the clip, Nick Fuentes says the issue is not the girls being barely legal but that Epstein is a Jewish spy, probably working with Israel and with Israeli intelligence.",
+      "anchored_artifacts": [
+        "A-1641.1"
+      ],
+      "related_nodes": [
+        "N-10023",
+        "N-10424"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:37:30",
+      "investigative_direction": "Obtain the unedited source stream for Fuentes's wording and date.",
+      "transcript_snippet": "the issue is that Epstein is a Jewish spy, probably working with Israel",
+      "mentions_person_refs": [
+        "N-205",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9890",
+      "ref": "C-9890",
+      "label": "Host Says Fuentes Said He Received a Quarter Million in Bitcoin From a Frenchman Who Killed Himself",
+      "claim": "The host says Fuentes claimed he got a quarter million in Bitcoin from France from a man who killed himself and published a letter 24 hours after his death on a timer, in perfect English.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10424"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:25",
+      "investigative_direction": "Trace the Bitcoin donation and the suicide letter through reporting on the donor.",
+      "transcript_snippet": "I just got a quarter million in in Bitcoin from France from a guy who's wrote killed himself and published a letter 24 hours after he was dead",
+      "mentions_person_refs": [
+        "N-205",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9891",
+      "ref": "C-9891",
+      "label": "Host Says Fuentes's Lawyer Goes Off Record When Asked If He Is an Informant",
+      "claim": "The host says Fuentes's lawyer wants to go off the record when asked directly whether Fuentes is a federal informant.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10424"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:45",
+      "investigative_direction": "Find the interview in which the lawyer was asked and the exact response.",
+      "transcript_snippet": "his lawyer wants to go off record when he's asked directly about whether or not he is a a federal informant",
+      "mentions_person_refs": [
+        "N-205",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9892",
+      "ref": "C-9892",
+      "label": "Fuentes Clip Says Girls Were Trafficked to Acquire Blackmail to Sell to Israel",
+      "claim": "In his follow-up clip, Nick Fuentes says the story is that someone was trafficking girls to acquire blackmail to sell to Israel.",
+      "anchored_artifacts": [
+        "A-1641.2"
+      ],
+      "related_nodes": [
+        "N-10023",
+        "N-10424"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:45",
+      "investigative_direction": "Source the original Fuentes stream, then compare with open-source reporting on Epstein and Israeli intelligence.",
+      "transcript_snippet": "The story is someone was trafficking girls to acquire blackmail to sell to Israel.",
+      "mentions_person_refs": [
+        "N-205"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9893",
+      "ref": "C-9893",
+      "label": "Fuentes Clip Says Marjorie Green Framed Epstein as About Female Victims",
+      "claim": "In the follow-up clip, Fuentes says he saw Marjorie Green say the Epstein story is about female victims and that it is actually about the integrity of the government.",
+      "anchored_artifacts": [
+        "A-1641.2"
+      ],
+      "related_nodes": [
+        "N-10424"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:50",
+      "investigative_direction": "Find Greene's statement Fuentes refers to and its date.",
+      "transcript_snippet": "I saw Marjorie Green say this is about female victims.",
+      "mentions_person_refs": [
+        "N-205",
+        "N-148"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9894",
+      "ref": "C-9894",
+      "label": "Fuentes Clip Says He Is Done With Gen X Obsessed With Satanic Pedophile Elite",
+      "claim": "In the follow-up clip, Fuentes says the movement of Gen X people obsessed with a satanic pedophile elite and conspiracy cookery does not make sense, and that he is out.",
+      "anchored_artifacts": [
+        "A-1641.2"
+      ],
+      "related_nodes": [
+        "N-10424"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:50",
+      "investigative_direction": "Confirm the clip's exact text and date from the source broadcast.",
+      "transcript_snippet": "This whole movement of Gen X idiots that are obsessed with satanic pedophile elite and psycho conspiracy cookery that doesn't even make sense",
+      "mentions_person_refs": [
+        "N-205"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9895",
+      "ref": "C-9895",
+      "label": "Host Says Fuentes Told Her People From Sub-Saharan Africa Do Not Have High IQs",
+      "claim": "The host says Fuentes is the person who sat across from her and said that people who are sub-Saharan just do not have a high IQ.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10424"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:20",
+      "investigative_direction": "Check the host's interview with Fuentes for the exchange.",
+      "transcript_snippet": "the kid who sat across from me and said that people that are sub-Saharan just don't have a high IQ",
+      "mentions_person_refs": [
+        "N-205",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9896",
+      "ref": "C-9896",
+      "label": "Host Says Jack Parsons Established the Apollo Program and Did Occult Sexual Rituals",
+      "claim": "The host asks whether Jack Parsons, whom she says established the Apollo program at NASA, was conducting occult sexual rituals to establish a moon child, as a student of Aleister Crowley.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:45:10",
+      "investigative_direction": "Parsons is documented as a JPL co-founder and Thelema follower; historians do not credit him with founding the Apollo program.",
+      "transcript_snippet": "Did Jackson did Jack Parsons exist the who established the Apollo program at NASA? Was he similarly conducting occult sexual rituals to establish a moon child?",
+      "mentions_person_refs": [
+        "N-738",
+        "N-786",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9897",
+      "ref": "C-9897",
+      "label": "Host Plays Fuentes Screaming After She Asked About Marriage",
+      "claim": "The host says a clip of Nick Fuentes shouting was his reply to her asking whether he wanted to get married one day, and plays him yelling that a real man tells you to sit down and shut up.",
+      "anchored_artifacts": [
+        "A-3038"
+      ],
+      "related_nodes": [
+        "N-10424"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:20",
+      "investigative_direction": "Check the source of the shouting clip and date to see whether it responds to the host's question.",
+      "transcript_snippet": "This is this is actually was was his reply to me for asking him about whether he wanted to get married one day.",
+      "mentions_person_refs": [
+        "N-205",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9898",
+      "ref": "C-9898",
+      "label": "Host Says Project Looking Glass Was Real and the CIA Hides Technology",
+      "claim": "The host says Project Looking Glass was real, that if she has lost it then the CIA lost it long ago, and that the CIA is of course hiding technology.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10413"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:25",
+      "investigative_direction": "No documentation offered; look for declassified or primary records on any Project Looking Glass.",
+      "transcript_snippet": "how dare she talk about Project Looking Glass, which was real.",
+      "supports_claim_refs": [
+        "C-5429"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9899",
+      "ref": "C-9899",
+      "label": "Nika Comment Says Her Father Was a Doctor Next to a Bio Lab at the Army Hospital",
+      "claim": "The host reads Nika's comment saying she was a military brat at Fort Hood, and that her dad was a doctor doing residency adjacent to a bio lab at the army hospital.",
+      "anchored_artifacts": [
+        "A-1642.1"
+      ],
+      "related_nodes": [
+        "N-10422"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:15",
+      "investigative_direction": "Commenter claim; Fort Hood hospital records would be needed.",
+      "transcript_snippet": "Dad was a doctor doing residency adjacent to a bio lab at the army hospital.",
+      "mentions_person_refs": [
+        "N-480"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9900",
+      "ref": "C-9900",
+      "label": "Nika Comment Reports Lights Breaking and Cabinets Slamming When She Is Upset",
+      "claim": "The host reads Nika's comment that lights break above her head when she flips a switch, cabinets slam when she gets angry, and that she can connect with stars that respond to her requests.",
+      "anchored_artifacts": [
+        "A-1642.1"
+      ],
+      "related_nodes": [
+        "N-10422"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:10",
+      "investigative_direction": "Commenter anecdote; not verifiable.",
+      "transcript_snippet": "Lights break above my head when I flipped a switch, cabinets slam when I get mad enough",
+      "mentions_person_refs": [
+        "N-480"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9901",
+      "ref": "C-9901",
+      "label": "Host Says Charlie Said He Thought He Was a Time Traveler and Went to a Special School",
+      "claim": "The host says Charlie said he thought he was a time traveler and went to a special school, and that the lights-going-out phenomena in comments echo something he told her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10422"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:50",
+      "investigative_direction": "Re-read the text messages the host has cited and any record of Charlie's schooling.",
+      "transcript_snippet": "He said he thought he was a time traveler. He went to a special school.",
+      "supports_claim_refs": [
+        "C-2104"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9902",
+      "ref": "C-9902",
+      "label": "Host Says She Was Placed in the Extraordinary Learners Program in Third Grade",
+      "claim": "The host says that after a high test score in third grade her school told her mom they would put her in the Extraordinary Learners Program.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10422"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:35",
+      "investigative_direction": "Host's own schooling record; the program name could be checked with her district.",
+      "transcript_snippet": "we'd like to put her in what was called the Extraordinary Learners Program",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9903",
+      "ref": "C-9903",
+      "label": "Host Says She Was Offered an All-Expenses Paid Place at King Low Heywood School",
+      "claim": "The host says the school then offered to pay all expenses for her to attend King Low Heywood Private School, and that she cried and begged her mom not to make her go.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10422",
+        "N-11241"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:50",
+      "investigative_direction": "Host's anecdote; check King Low Heywood Thomas School's gifted-program outreach in the 1990s.",
+      "transcript_snippet": "they then said to my mom that we would like to pay for her to go all expenses to this academy, King Low Heywood Private School.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9904",
+      "ref": "C-9904",
+      "label": "Host Says Gifted Programs Are Probably Meant to Identify and Track Kids for Government Work",
+      "claim": "The host says gifted programs probably exist to identify brilliant kids so that they can be tracked and made to work for the government.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10422"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:56:40",
+      "investigative_direction": "Speculative; FOIA GATE program records could test it.",
+      "transcript_snippet": "They probably want you to work for the government. They probably want to make sure that they can track you",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9905",
+      "ref": "C-9905",
+      "label": "Host Says Greenland Has a Cold War Underground Military Base Built to Launch Missiles",
+      "claim": "The host says she learned there is an underground military base in Greenland established particularly to launch missiles during the Cold War, so America is invested there.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11242"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:55",
+      "investigative_direction": "Check Camp Century history; the 1959 Project Iceworm scheme was cancelled and the base was not a launch base.",
+      "transcript_snippet": "I had no idea that we had this military base, underground military base that was established there, particularly to launch missiles during the Cold War.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9906",
+      "ref": "C-9906",
+      "label": "Host Says Charlie Predicted Devastation From a War Involving Missiles",
+      "claim": "The host says she showed earlier that Charlie's predictions included not only his own death but devastation coming from a war involving missiles, though she cannot recall the exact text.",
+      "anchored_artifacts": [
+        "A-3039"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:58:25",
+      "investigative_direction": "Retrieve the text message(s) from the earlier episode and read the missile reference verbatim.",
+      "transcript_snippet": "it was a part of Charlie's predictions. Not only was he going to die, but he felt that there was some devastation coming pertaining to a missile a war involving missiles.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9907",
+      "ref": "C-9907",
+      "label": "Sisbear Comment Says Sabrina Wallace Claims DARPA Tested Biosonar on Children",
+      "claim": "The host reads Sisbear's comment that whistleblower Sabrina Wallace, as a child, claims DARPA tested biosonar on her and other children in the 80s and 90s.",
+      "anchored_artifacts": [
+        "A-1642.2"
+      ],
+      "related_nodes": [
+        "N-10422"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:45",
+      "investigative_direction": "Find Wallace's public statements and any DARPA documentation of the biosonar tests.",
+      "transcript_snippet": "she was a child who claims DARPA tested biosonar on her and other children in the 80s and 90s",
+      "mentions_person_refs": [
+        "N-478"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9908",
+      "ref": "C-9908",
+      "label": "Host Says Charlie Was DARPA Tested and Tracked by the Military",
+      "claim": "The host says she thinks Charlie was DARPA tested and that it can be proven he was tracked by the military.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:00",
+      "investigative_direction": "Ask the host to produce the proof of military tracking she says exists; no DARPA testing record has been shown.",
+      "transcript_snippet": "I do think that Charlie was DARPA tested I think he was obviously we can prove that he was tracked by the military",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9909",
+      "ref": "C-9909",
+      "label": "Host Says Turning Point Was Established in Part by Bill Montgomery From the Air Force",
+      "claim": "The host says Turning Point was established in part by Bill Montgomery, who was Air Force involved and on the reserves, which she says was read the day before.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:15",
+      "investigative_direction": "Check Montgomery's military service record and TPUSA founding documents.",
+      "transcript_snippet": "turning point was established in part by Bill Montgomery who was Air Force involved with the Air Force I think we read that yesterday was on the reserves",
+      "supports_claim_refs": [
+        "C-5424"
+      ],
+      "mentions_person_refs": [
+        "N-467",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9910",
+      "ref": "C-9910",
+      "label": "Host Says She Will Pursue the Fort Huachuca Alibi and Update by Monday",
+      "claim": "The host says she will pursue the alibi in earnest, send Erika's side a video saying she knows what she is talking about, and hopes to update viewers by Monday.",
+      "anchored_artifacts": [
+        "A-3036"
+      ],
+      "related_nodes": [
+        "N-10472"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:01:45",
+      "investigative_direction": "Watch the Monday live episode for the promised update and any video from Erika.",
+      "transcript_snippet": "again I will pursue that alibi in earnest I'm going to send them a video saying I know what I'm talking about",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9911",
+      "ref": "C-9911",
+      "label": "Host Asks for Fort Huachuca Tips at the Candace Owens Tips Address",
+      "claim": "The host asks viewers who have more information about Fort Huachuca to send it to more tips at Candace Owens dot com.",
+      "anchored_artifacts": [
+        "A-3040"
+      ],
+      "related_nodes": [
+        "N-10417"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:02:00",
+      "investigative_direction": "Check that incoming tips are logged and followed up on subsequent episodes.",
+      "transcript_snippet": "if you have more information about Fort Huachuca more tips at Candace Owens. com",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9912",
+      "ref": "C-9912",
+      "label": "Host Says Myron Gaines Interview Drops the Next Day",
+      "claim": "The host says an interview between her and Myron Gaines drops the next day, covering feminism and her book Make Me a Sandwich, and that advertisers asked for it to go on her platform.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:02:10",
+      "investigative_direction": "Check the release of the interview on the following day.",
+      "transcript_snippet": "we have an interview dropping tomorrow between me and Myron Gaines",
+      "mentions_person_refs": [
+        "N-870",
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-21",
+      "ref": "M-21",
+      "canonical_term": "Conspiracy Girly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 58,
+          "video_timestamp": "00:51:27",
+          "speaker_node_ref": "N-3",
+          "quote": "original signature from me twice if you buy that bundle. And come on, conspiracy girly bugs. They are serving. There's actually another one somewhe...",
+          "context": "Conspiracy girly self-label. (CKA seq 58)",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "pass2"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 58,
+          "video_timestamp": "01:02:00",
+          "speaker_node_ref": "N-3",
+          "quote": "more tips at Candace Owens. com",
+          "context": "Host asks for Fort Huachuca tips by email.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips",
+            "tip line"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-16",
+      "ref": "M-16",
+      "canonical_term": "Mommy Sleuth",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 58,
+          "video_timestamp": "00:19:30",
+          "speaker_node_ref": "N-3",
+          "quote": "these mommy sleuth hit different",
+          "context": "Host praises the sleuth who traced the planes and the donors.",
+          "confidence": "high",
+          "tags": [
+            "mommy sleuth",
+            "praise"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 58,
+          "video_timestamp": "00:59:54",
+          "speaker_node_ref": "N-3",
+          "quote": "Jess writes Christ is king go max",
+          "context": "Host reads a viewer comment.",
+          "confidence": "high",
+          "tags": [
+            "christ is king",
+            "viewer comment"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 58,
+          "video_timestamp": "00:59:54",
+          "speaker_node_ref": "N-3",
+          "quote": "Jess writes Christ is king go max",
+          "context": "Host reads a viewer comment using the refrain.",
+          "confidence": "high",
+          "tags": [
+            "go max",
+            "viewer comment"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-38",
+      "ref": "M-38",
+      "canonical_term": "MK Ultra",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 58,
+          "video_timestamp": "00:30:25",
+          "speaker_node_ref": "N-3",
+          "quote": "the precursor to MK Ultra",
+          "context": "Host ties childhood abuse research to MK Ultra.",
+          "confidence": "high",
+          "tags": [
+            "mk ultra",
+            "paperclip"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-6",
+      "ref": "M-6",
+      "canonical_term": "conspiracy theorist",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 58,
+          "video_timestamp": "00:10:12",
+          "speaker_node_ref": "N-3",
+          "quote": "in the world of us conspiracy theorists",
+          "context": "Host groups herself among conspiracy theorists after the director clip.",
+          "confidence": "high",
+          "tags": [
+            "conspiracy theorist",
+            "self-label"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-45",
+      "ref": "M-45",
+      "canonical_term": "Spiritual Warfare",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 58,
+          "video_timestamp": "00:48:19",
+          "speaker_node_ref": "N-3",
+          "quote": "a spiritual war",
+          "context": "Host frames the fight as a spiritual war.",
+          "confidence": "high",
+          "tags": [
+            "spiritual warfare"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-140",
+      "ref": "M-140",
+      "canonical_term": "White Walkers Among Us",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 58,
+          "video_timestamp": "00:31:10",
+          "speaker_node_ref": "N-3",
+          "quote": "White Walkers among us",
+          "context": "Host's analogy for adults harmed as children and treated as programs.",
+          "confidence": "high",
+          "tags": [
+            "white walkers",
+            "trauma"
+          ]
+        }
+      ]
+    }
+  ]
 }
