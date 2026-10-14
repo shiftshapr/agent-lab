@@ -1,18 +1,14 @@
 name: CKA gates
 
-# Runs the CKA / monuments gate suite on every PR and push to main that touches the monuments tree.
+# Runs the CKA / monuments gate suite. It reports on every PR and push to main; the gate steps run only when the monuments tree or this workflow changed.
 # "Green" here is the merge bar for CKA PRs (projects/monuments/cka/docs/POLICY.md, section 9).
 
+# No path filter on the trigger: "gates" is a required check on main, so it must report on every PR.
+# The job skips the gate steps when nothing under projects/monuments/ (or this workflow) changed.
 on:
   pull_request:
-    paths:
-      - "projects/monuments/**"
-      - ".github/workflows/cka-gates.yml"
   push:
     branches: [main]
-    paths:
-      - "projects/monuments/**"
-      - ".github/workflows/cka-gates.yml"
 
 jobs:
   gates:
@@ -20,27 +16,47 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Did monuments change?
+        id: scope
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then base="${{ github.event.pull_request.base.sha }}"; else base="${{ github.event.before }}"; fi
+          if git diff --name-only "$base" HEAD 2>/dev/null | grep -qE '^(projects/monuments/|\.github/workflows/cka-gates\.yml)'; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"; echo "No monuments changes; gates skipped (reported as passing)."
+          fi
       - uses: actions/setup-python@v5
+        if: steps.scope.outputs.run == 'true'
         with:
           python-version: "3.11"
-      - run: pip install pytest
+      - name: Install pytest
+        if: steps.scope.outputs.run == 'true'
+        run: pip install pytest
 
       - name: Preflight (CKA)
+        if: steps.scope.outputs.run == 'true'
         run: python3 projects/monuments/scripts/dia_preflight.py --monument cka
       - name: Preflight self-test
+        if: steps.scope.outputs.run == 'true'
         run: python3 projects/monuments/scripts/dia_preflight.py --self-test
       - name: Hostile hard gates (CKA)
+        if: steps.scope.outputs.run == 'true'
         run: |
           python3 projects/monuments/scripts/hostile_hard_gates.py --monument cka --json /tmp/hostile.json > /dev/null
           python3 -c "import json,sys; d=json.load(open('/tmp/hostile.json')); c=d['counts']; print(c); sys.exit(1 if c['P0'] or c['P1'] else 0)"
       - name: Preflight (Bride of Charlie)
+        if: steps.scope.outputs.run == 'true'
         run: python3 projects/monuments/scripts/dia_preflight.py --monument bride_of_charlie
       - name: Unit tests
+        if: steps.scope.outputs.run == 'true'
         run: python3 -m pytest -q projects/monuments/scripts
 
       # Derived files must match the drafts: regenerate them and fail on any change
       # (the companion's generated_at timestamp is ignored).
       - name: Derived files are fresh
+        if: steps.scope.outputs.run == 'true'
         run: |
           python3 projects/monuments/cka/scripts/apply_name_corrections.py
           python3 projects/monuments/cka/scripts/sync_claim_tags.py
