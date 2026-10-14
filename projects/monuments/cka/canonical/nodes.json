@@ -20475,7 +20475,9 @@
     "N-748": {
       "canonical_name": "Ike Perlmutter",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Ike Promoter"
+      ],
       "episodes": [
         70,
         125
@@ -22233,9 +22235,12 @@
       ]
     },
     "N-818": {
-      "canonical_name": "Don Oro",
+      "canonical_name": "Don Orrico",
       "type": "person",
-      "aliases": [],
+      "aliases": [
+        "Don O'Reco",
+        "Don Oro"
+      ],
       "episodes": [
         70
       ]

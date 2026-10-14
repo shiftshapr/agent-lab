@@ -762,7 +762,7 @@ Existing organization; the host's 'Schaefer security' in the transcript.
 
 ---
 
-**N-818** Don Oro
+**N-818** Don Orrico
 
 First named by the host at 00:13:09 in episode 70 as 'Mr. Don Oro of Turning Point USA down in Tampa'. Spelling unconfirmed.
 
@@ -986,11 +986,11 @@ Investigative Direction: Look for contemporaneous press accounts of the host's 2
 
 ---
 
-**C-8379** Host Says Charlie Met Ike at Mar-a-Lago in a Concealed Fundraising Meeting
+**C-8379** Host Says Charlie Met Ike Perlmutter at Mar-a-Lago in a Concealed Fundraising Meeting
 
 Claim Timestamp: 00:05:03
 
-Claim: The host says Charlie Kirk took a fundraising meeting in Florida with 'Ike Promoter' (transcribed form) at Mar-a-Lago and did not want her to know about it, which was strange because they always took such meetings together.
+Claim: The host says Charlie Kirk took a fundraising meeting in Florida with Ike Perlmutter (transcribed 'Ike Promoter') at Mar-a-Lago and did not want her to know about it, which was strange because they always took such meetings together.
 
 Transcript Snippet: Charlie had taken a meeting down in Florida with Ike Promoter at Mara Lago. It was a a fundraising meeting.
 
@@ -998,7 +998,7 @@ Anchored Artifacts:
 Mentions: N-1, N-3, N-748
 Related Nodes: N-11185
 Tags: relevance:context
-Investigative Direction: Identify the Ike at Mar-a-Lago (the host may mean Ike Perlmutter) and check for records of a 2019 lunch or fundraising meeting with Charlie Kirk.
+Investigative Direction: Ike Perlmutter is confirmed by the HappyScribe transcript of Candace Ep 303 (00:04:58, "a meeting down in Florida with Ike Perlmutter at Mar-a-Lago"). Check for records of a 2019 lunch or fundraising meeting with Charlie Kirk.
 
 ---
 
@@ -1006,7 +1006,7 @@ Investigative Direction: Identify the Ike at Mar-a-Lago (the host may mean Ike P
 
 Claim Timestamp: 00:05:03
 
-Claim: The host says that in an elevator at the Trump Hotel in DC Charlie Kirk told her he had not heard from Ike in two weeks, and when she said he had lunch with him at Mar-a-Lago the day before, his face dropped and he tried to explain it away.
+Claim: The host says that in an elevator at the Trump Hotel in DC Charlie Kirk told her he had not heard from Ike (Perlmutter) in two weeks, and when she said he had lunch with him at Mar-a-Lago the day before, his face dropped and he tried to explain it away.
 
 Transcript Snippet: Because you had you had lunch with him yesterday at Mara Lago.
 
@@ -1257,11 +1257,11 @@ Investigative Direction: Obtain the host's documents on the deal; confirm Pierre
 
 ---
 
-**C-8396** Host Says Pierre Spoke by Phone With Justin Streiff and Don Oro in Tampa
+**C-8396** Host Says Pierre Spoke by Phone With Justin Streiff and Don Orrico in Tampa
 
 Claim Timestamp: 00:13:09
 
-Claim: The host says Pierre had a phone call with Justin Streiff and another with 'Mr. Don Oro' (transcribed form) of Turning Point USA down in Tampa.
+Claim: The host says Pierre had a phone call with Justin Streiff and another with Don Orrico (transcribed 'Don Oro'; HappyScribe 'Don O'Reco') of Turning Point USA down in Tampa.
 
 Transcript Snippet: Pierre had a phone call with Justin Strife. He also had a phone call uh with Mr. Don Oro of Turning Point USA down in Tampa.
 
@@ -1269,7 +1269,7 @@ Anchored Artifacts: A-2931.1
 Mentions: N-3, N-15, N-818
 Related Nodes: N-10493, N-10000
 Tags: relevance:core
-Investigative Direction: Identify the TPUSA official the host calls Don Oro and obtain call records for the alleged calls.
+Investigative Direction: Identification as Don Orrico (Florida-based major-gifts fundraiser, formerly Mackinac Center director of strategic partnerships, Estero FL) is by name match; confirm his TPUSA role and obtain call records for the alleged calls.
 
 ---
 

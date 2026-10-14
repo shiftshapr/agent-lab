@@ -833,18 +833,18 @@ Investigative Direction: Identify the CMO named and obtain any internal investig
 
 ---
 
-**C-2193** A TPUSA employee was terminated at her home by the general counsel during a Zoom meeting, with her work computer retrieved
+**C-2193** A part-time TPUSA employee was terminated at her home by the general counsel during a fake Zoom meeting, with her work computer retrieved
 
 Claim Timestamp: 00:32:06
 
-Claim: Marina Minas allegedly received non-stop calls from an unrecognized number while on a Zoom meeting, and upon answering was told by the general counsel that he was outside her home, that she was fired, and to surrender her work computer (with warning that deletions would be detected).
+Claim: The host alleges that a part-time TPUSA employee (unnamed) was put into a fake Zoom meeting, received non-stop calls from an unrecognized number, and on answering was told by the general counsel that he was outside her home, that she was fired, and to surrender her work computer (with a warning that deletions would be detected). The host names Marina Minas separately as someone involved in the firings; Minas is not the employee in this account.
 
 Anchored Artifacts: A-1675.2
-Mentions: N-504, N-505
+Mentions: N-505
 
 Related Nodes: N-10439
 
-Investigative Direction: Obtain direct on-record confirmation from Marina Minas; obtain any contemporaneous communications (texts, voicemails) memorializing the home-visit termination.
+Investigative Direction: Identify the part-time employee and obtain on-record confirmation and contemporaneous communications (texts, voicemails) of the home-visit termination; Marina Minas (N-504) is discussed in C-8304.
 
 ---
 

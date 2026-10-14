@@ -1677,8 +1677,9 @@ Transcript Snippet: she went in for a treatment 2 days earlier on September 8th 
 Anchored Artifacts: A-2947.1
 Mentions: N-3, N-2, N-500
 Related Nodes: N-10483
+Qualifies: C-3804
 Tags: relevance:core
-Investigative Direction: Authenticate the records through lawful channels; compare with earlier claims about her whereabouts Sept 8 to 10.
+Investigative Direction: Flag (clinic vs hospital): C-3804 (ep84) says Erika's mother was not in the hospital Sept 8-10; this claim places her at a treatment facility on Sept 8, and ep68/ep76 call it a Lyme-treatment clinic (C-10031, C-10287). Read as clinic, not hospital, so linked Qualifies rather than Contradicts. Authenticate the records through lawful channels.
 
 ---
 
@@ -2414,3 +2415,6 @@ Confidence: high
 
 ---
 
+## Optional Flags
+
+- **Clinic vs hospital (C-8598 / C-3804):** C-8598 says Erika's mother had a treatment on Sept 8 at a facility; C-3804 (ep84) says she was not in the hospital Sept 8-10. Treated as a clinic visit (ep68 C-10031, ep76 C-10287), so the edge is Qualifies, not Contradicts. Revisit if the records show a hospital.

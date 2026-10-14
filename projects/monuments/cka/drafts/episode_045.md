@@ -1575,7 +1575,7 @@ Mentions: N-3
 Related Nodes: N-10332
 Qualifies: C-1905
 Tags: relevance:core
-Investigative Direction: Reconcile the 11:43 a.m. and 12:31 p.m. times against ADS-B and FAA records.
+Investigative Direction: Both times come from the same tipster email: at 00:44:18 the host reads "at 12:31 p.m. on September 9th, it flies from Fort Wuka to El Paso"; at 00:47:10 the email's conclusion gives "leaving at 11:43 a.m.". A Fort Huachuca to El Paso Gulfstream V hop is about 45-50 minutes, so 11:43 is most likely the departure and 12:31 the El Paso arrival (or the tracker's leg time), not two conflicting departures. Confirm against ADS-B Exchange history for 99-044.
 
 ---
 

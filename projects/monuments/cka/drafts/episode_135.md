@@ -1199,7 +1199,7 @@ Transcript Snippet: He's married to a woman named Dr. Ashley Brown Guajardo.
 Anchored Artifacts: 
 Mentions: N-912, N-913
 Related Nodes: N-11303
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Confirm the marriage through public records or the couple's own biographies.
 
 ---
@@ -1215,7 +1215,7 @@ Transcript Snippet: he's married to someone who encourages, supports, works with
 Anchored Artifacts: A-3146.1
 Mentions: N-912, N-913
 Related Nodes: N-11303
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the original posts or video the host showed and establish date, account and whether the person shown is Dr. Ashley Brown Guajardo.
 
 ---
@@ -1231,7 +1231,7 @@ Transcript Snippet: she was dancing as a furry, and she was promoting uh her boo
 Anchored Artifacts: A-3146.1
 Mentions: N-913
 Related Nodes: N-11303
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Find the original social media post, its date and the account that published it.
 
 ---
@@ -1247,7 +1247,7 @@ Transcript Snippet: she then earned her PhD in sociology overseas at the Univers
 Anchored Artifacts: A-3147.1
 Mentions: N-913
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check her published CV or university profile for degrees and institutions.
 
 ---
@@ -1263,7 +1263,7 @@ Transcript Snippet: previously Dr. Kowhardo was faculty at Brunel University in 
 Anchored Artifacts: A-3147.1
 Mentions: N-913
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Compare against her university faculty page and CV.
 
 ---
@@ -1279,7 +1279,7 @@ Transcript Snippet: Since 2017, she's hosted a weekly educational Twitch stream 
 Anchored Artifacts: A-3147.1
 Mentions: N-913
 Related Nodes: N-11303
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Find the Twitch channel and verify the start date and the content of the streams.
 
 ---
@@ -1295,7 +1295,7 @@ Transcript Snippet: She was vice president of the Global Game Jam conference, co
 Anchored Artifacts: A-3147.1
 Mentions: N-913
 Related Nodes: N-11302
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the organizations' leadership pages and archived rosters for her titles and dates.
 
 ---
@@ -1311,7 +1311,7 @@ Transcript Snippet: And currently serves as the president of the Digital Games R
 Anchored Artifacts: A-3147.1
 Mentions: N-913
 Related Nodes: N-11301
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the association's website and filings for its current officers.
 
 ---
@@ -1327,7 +1327,7 @@ Transcript Snippet: and she's currently working on a book which explores how fan
 Anchored Artifacts: A-3147.1
 Mentions: N-913
 Related Nodes: N-11303
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check publisher and library catalogs for her authored titles and announced forthcoming book.
 
 ---
@@ -1359,7 +1359,7 @@ Transcript Snippet: encouraging her students and her gamers to join her on her D
 Anchored Artifacts: 
 Mentions: N-913
 Related Nodes: N-10013, N-11303
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Find the Discord server and syllabi or posts where students were invited, and compare membership against names in the Robinson case.
 
 ---
@@ -1407,7 +1407,7 @@ Transcript Snippet: Now she's the assistant arts professor at NYU full-time.
 Anchored Artifacts: A-3148.1
 Mentions: N-913
 Related Nodes: N-11305
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the NYU faculty directory and her LinkedIn history for titles and dates.
 
 ---
