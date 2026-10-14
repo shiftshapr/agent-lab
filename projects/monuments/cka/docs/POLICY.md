@@ -75,3 +75,23 @@ A CKA PR is green when all of these pass. This is what `.github/workflows/cka-ga
 - **Derived files are fresh.** Rerunning `apply_name_corrections.py`, `sync_claim_tags.py` and the companion generator changes nothing (`generated_at` aside).
 
 Stacked PRs are retargeted to `main` before merging, so no commit is stranded on a merged branch. Use merge commits.
+
+## 10. Privacy
+These rules apply to drafts, inscriptions and anything published. The privacy linter (ROADMAP 2.4) enforces them in CI.
+- **Never record** home addresses, phone numbers, personal email addresses, license plates, or the names, schools or images of minors. Do not record them even when the host reads them on air: summarise the claim without the identifying detail, and trim the snippet to a passage that leaves it out.
+- **Private individuals** are people who are not public figures, officials, or public-facing staff speaking in that role. Material about their personal lives is tagged `relevance:tangential` and is subject to the display rules in §6. Business filings and registered-agent addresses of companies may be recorded.
+- When a private individual becomes central (for example, a named eyewitness), keep the claims, but stay with what the host alleges about the event, not their personal life.
+
+## 11. Verification status
+Every claim carries a verification status, set by evidence, never by opinion. The schema arrives in ROADMAP Phase 4; until then, every claim is `unverified`.
+- `unverified`: no independent evidence linked yet (the default).
+- `corroborated`: at least one independent primary or reputable secondary source agrees, and is cited.
+- `disputed`: credible sources conflict, and both are cited.
+- `contradicted-by-record`: a primary record (court filing, testimony, flight data, official document) says otherwise, and is cited.
+- `revised-by-host`: the host later revised or rejected it; the claim is linked by `Revises` or `Contradicts`.
+
+The host's own repetition is never corroboration. A same-host `Supports` is consistency, not evidence.
+
+## 12. Errata and right of reply
+- Every correction made after a claim is merged is logged in that PR's audit README. The release changelog compiles these into a public errata log.
+- Before launch, a right-of-reply channel lets named people request a correction. Each request is logged, reviewed against the evidence, and answered. When a correction is warranted, it follows §5: an extraction error is fixed in place, and what the host said stays recorded as said.
