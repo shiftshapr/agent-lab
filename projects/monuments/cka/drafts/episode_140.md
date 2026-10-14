@@ -11,8 +11,12 @@
 - **Transcript SHA-256**: 56d0f23b17a0cf753736039d602659d87c37358b53687d087f88f5fff2bdc3c5
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10d): N-878, N-879, N-880, N-881, N-11259, N-11260, N-11261, N-11262
+  - Tip-minted Nodes (reintro-ep140): N-11066, N-11067
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10d): C-10423–C-10499
   - New Nodes Introduced: N-10791, N-10792, N-10793
-  - Reused Nodes Appearing: N-2, N-18
+  - Reused Nodes Appearing: N-2, N-18, N-9, N-14, N-60, N-102, N-162, N-274, N-374, N-375, N-10000, N-10011, N-10012, N-10051, N-10052, N-10062, N-10077, N-10097, N-10139, N-10198, N-10338, N-10381, N-10416, N-10780, N-10787, N-10899, N-10900, N-11182
   - Hole-minted Nodes (wave3): N-573
   - (see registers)
 
@@ -292,6 +296,114 @@ Confidence Level: High (audio played)
 
 ---
 
+**A-3078** Host Reads Alleged Robinson Confession Text Bundle
+
+**A-3078.1** Host reads aloud an alleged confession message from Tyler Robinson to Lance saying he hoped to keep the secret until he died of old age
+
+Quoted text: "To be honest, I had hoped to keep this secret till I died of old age."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:05:05
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-10427, N-40, N-54*
+
+---
+
+**A-3079** Decentralized Intelligence Agency Tip Address Bundle
+
+**A-3079.1** Host verbal reference to the tip email address moretips@candaceowens.com while asking viewers to identify the Zinn device
+
+Quoted text: "You can send us an email to moretips@candaceowens. com."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:27:21
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-10454, N-3, N-42*
+
+---
+
+**A-3080** Decentralized Intelligence Agency Tips Line Bundle
+
+**A-3080.1** Host verbal reference to her tips line receiving emails from acquaintances of the group-chat members
+
+Quoted text: "people who know other people in the group began emailing our tips line"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:34:13
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-10465, N-3*
+
+---
+
+**A-3081** Rachel Wilson Smoking Messages Read Aloud Bundle
+
+**A-3081.1** Host recounts a message from Rachel Wilson calling the no-smoking rule typical woman nonsense
+
+Quoted text: "No no smoking, typical woman nonsense. I'm surprised she hasn't me too'd anyone."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:36:00
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-10472, N-573*
+
+**A-3081.2** Host reads a message from Rachel Wilson about who clutches their pearls over smoking
+
+Quoted text: "Yeah, who clutches their pearls about smoking? Zoomer soy boys maybe or the type of woman who reports everything to HR."
+
+Video Timestamp: 00:37:15
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-10473, N-573*
+
+**A-3081.3** Host verbal reference to photos of her pregnant backstage at the Daily Wire shown by Rachel Wilson (not displayed)
+
+Video Timestamp: 00:37:56
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-10474, N-573*
+
+---
+
+**A-3082** Charlie Kirk 2018 Tweet Bundle
+
+**A-3082.1** Host verbal reference to a 2018 tweet by Charlie Kirk (not shown)
+
+Quoted text: "Like he tweeted back in 2018, I won't be here, but you see this thing to the end."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:49:56
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-10492, N-1*
+
+---
+
+**A-3083** Blake Neff Debate Funding Statement Bundle
+
+**A-3083.1** Host verbal reference to a statement by Blake Neff offering to throw money toward a Wilson debate with the host (not shown)
+
+Quoted text: "If you want to I would love to throw money towards you debating Candace."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:50:30
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-10493, N-162*
+
+---
+
 ## IV. Node Register
 
 **N-573** Rachel Wilson
@@ -358,6 +470,348 @@ Node Type: Person
 Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
 
 *Related: C-3272, C-3276*
+
+---
+
+**N-2** Erika Kirk
+
+Widow and TPUSA CEO; named in the McCoy call-sequence discussion and the Protect Erika Kirk group name.
+
+*Related: C-10455, C-10486, C-10487*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself and relays the Wilson negotiations and group-chat story.
+
+*Related: C-10423, C-10424, C-10425, C-10454, C-10455, C-10456, C-10457, C-10458, C-10460, C-10461, C-10462, C-10463, C-10464, C-10465, C-10466, C-10467, C-10468, C-10470, C-10471, C-10472, C-10473, C-10474, C-10480, C-10481, C-10490, C-10491, C-10492, C-10493, C-10498*
+
+---
+
+**N-9** Jeffrey Epstein
+
+Named in the host's account of the NBC article about conservatives fractured over Epstein.
+
+*Related: C-10491*
+
+---
+
+**N-14** Andrew Kolvet
+
+TPUSA spokesperson (transcribed Kolvek); the host recalls a week of odd tweets from his account.
+
+*Related: C-10499*
+
+---
+
+**N-40** Tyler Robinson
+
+Accused in the Kirk shooting; subject of the host's day-timeline recount and photo analysis.
+
+*Related: C-10426, C-10427, C-10429, C-10430, C-10432, C-10434, C-10435, C-10436, C-10437, C-10438, C-10439, C-10440, C-10441, C-10442, C-10443, C-10446, C-10447, C-10448, C-10449, C-10450, C-10451, C-10494, C-10496, C-10497*
+
+---
+
+**N-42** George Zinn
+
+Man the host calls decoy boy number one; arrested at the scene and subject of the device question.
+
+*Related: C-10452, C-10453, C-10454*
+
+---
+
+**N-54** Lance Twiggs
+
+Robinson's roommate; the host cites his messages, expected testimony and fingerprints.
+
+*Related: C-10427, C-10446, C-10449, C-10497*
+
+---
+
+**N-60** Laura Loomer
+
+Commentator whose tweet count about the host the host cites for comparison.
+
+*Related: C-10464*
+
+---
+
+**N-102** Michael Knowles
+
+Commentator the host says declined to moderate the Wilson debate.
+
+*Related: C-10469*
+
+---
+
+**N-162** Blake Neff
+
+TPUSA-linked commentator (transcribed Blakely Neff); the host cites his NBC quote and his offer to fund the debate.
+
+*Related: C-10491, C-10493*
+
+---
+
+**N-194** Mikey McCoy
+
+Charlie Kirk's security aide (transcribed McQuaid in the viewer comment); the host recounts his call sequence.
+
+*Related: C-10486, C-10487, C-10488, C-10489*
+
+---
+
+**N-274** Joe Rogan
+
+Podcaster on whose show the host says she first learned of Andrew Wilson.
+
+*Related: C-10483*
+
+---
+
+**N-374** Jeremy Boreing
+
+Daily Wire co-founder (transcribed Jeremy Boring); the host says he worked through Britta Widener.
+
+*Related: C-10462*
+
+---
+
+**N-375** Danny Philip
+
+Danny Phillip in the transcript; the host says McCoy was on a 10-minute call with him.
+
+*Related: C-10488*
+
+---
+
+**N-10000** Turning Point USA
+
+Organization; alleged payer of Andrew Wilson and subject of the host's debate criticism.
+
+*Related: C-10435, C-10484, C-10493, C-10495*
+
+---
+
+**N-10011** TMZ
+
+Released the 8:07 a.m. neighbor-camera footage in the host's recount.
+
+*Related: C-10434*
+
+---
+
+**N-10012** Utah Valley University
+
+Campus where Robinson is said to have gone to Chick-fil-A.
+
+*Related: C-10436*
+
+---
+
+**N-10051** Dairy Queen 6:38 Photo Verification
+
+Existing topic reused for the Dairy Queen sighting claims.
+
+*Related: C-10440, C-10451*
+
+---
+
+**N-10052** Doorbell-Cam Footage Provenance
+
+Existing topic reused for the doorbell footage in the return-home timeline.
+
+*Related: C-10434, C-10446*
+
+---
+
+**N-10062** Orem, Utah
+
+Place the host says Robinson left and returned to.
+
+*Related: C-10441, C-10442*
+
+---
+
+**N-10077** Robinson-Lance Text Chain Authenticity
+
+Existing topic reused for the alleged confession message.
+
+*Related: C-10427*
+
+---
+
+**N-10097** George Zinn Arrest Location/Timing
+
+Existing topic reused for the Zinn arrest claims.
+
+*Related: C-10453*
+
+---
+
+**N-10139** Operation Mocking Pastor
+
+Existing topic reused for the pastors complaining about the host.
+
+*Related: C-10490*
+
+---
+
+**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+
+Existing topic reused for the McCoy statements.
+
+*Related: C-10489*
+
+---
+
+**N-10338** Mikey McCoy Post-Shooting Phone Call Sequence
+
+Existing topic reused for the McCoy call-sequence claims.
+
+*Related: C-10486, C-10487, C-10488*
+
+---
+
+**N-10381** Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification
+
+Existing topic reused for the Panguitch steak house claim.
+
+*Related: C-10441, C-10451*
+
+---
+
+**N-10416** Daily Wire Stalking Pattern
+
+Existing topic reused for Widener's alleged targeting.
+
+*Related: C-10463*
+
+---
+
+**N-10780** "Protecting Mrs. Kirk" Group Chat Investigation
+
+Existing topic reused for the 92-member group-chat claims.
+
+*Related: C-10455, C-10456, C-10457, C-10459, C-10460, C-10463, C-10465, C-10466, C-10467*
+
+---
+
+**N-10787** Lance Twigs Handedness Verification
+
+Existing topic reused for the Lance fingerprint claim.
+
+*Related: C-10497*
+
+---
+
+**N-10899** Paramount Tactical
+
+Gary Melton's channel; the host says its account was virtually the only male in the group.
+
+*Related: C-10467*
+
+---
+
+**N-10900** Daily Wire
+
+Organization; the host links the super fan accounts and her own pregnancy photos to it.
+
+*Related: C-10425, C-10461, C-10462, C-10474*
+
+---
+
+**N-11066** Wilson Debate Crucible Team Anonymity
+
+Existing topic reused for the Wilson team negotiations.
+
+*Related: C-10423, C-10468, C-10470*
+
+---
+
+**N-11067** Wilson Debate Studio Access Dispute
+
+Existing topic reused for the smoking and studio rules dispute.
+
+*Related: C-10423, C-10468, C-10470, C-10471, C-10472, C-10473, C-10480, C-10482, C-10498*
+
+---
+
+**N-11182** TPUSA Crisis PR Team
+
+Existing topic reused for the PR agent claim.
+
+*Related: C-10462*
+
+---
+
+**N-878** Agent Hoole
+
+First named by the host at 00:17:43 in episode 140. Investigator whose court testimony about a vehicle is played and analysed.
+
+*Related: C-10443, C-10444*
+
+---
+
+**N-879** Officer Goforth
+
+First named by the host at 00:18:42 in episode 140. Security-detail officer identified in Agent Hoole's testimony as the officer a vehicle made contact with.
+
+*Related: C-10444, C-10445*
+
+---
+
+**N-880** Haim Braverman
+
+First named by the host at 00:29:36 in episode 140. Man the host says was arrested and pled guilty after plotting against her from a group chat.
+
+*Related: C-10458*
+
+---
+
+**N-881** Britta Widener
+
+First named by the host at 00:31:45 in episode 140 (spelled Britta Whitener and Brita in the transcript). Owner of the No Soup For You / No Soup for Noels X account.
+
+Aliases: No Soup For You; No Soup for Noels; Britta Whitener; Brita
+
+*Related: C-10462, C-10463, C-10464*
+
+---
+
+**N-11259** Wilson Debate Moderator Selection
+
+Node Type: Topic
+The host's account that a moderator, Andrew Wilson's second pick after Michael Knowles declined, has been secured for the Friday debate.
+
+*Related: C-10424, C-10469*
+
+---
+
+**N-11260** Media Maroon-Shirt Seeding Claim
+
+Node Type: Topic
+The host's claim that media outlets selectively released maroon-shirt photos of Tyler Robinson to seed the idea that he loves maroon.
+
+*Related: C-10429*
+
+---
+
+**N-11261** Robinson September 10 Day Timeline Plausibility
+
+Node Type: Topic
+The host's step-by-step recount of the official account of Robinson's movements on September 10 and her argument that the drives, clothing changes and awake time are implausible.
+
+*Related: C-10434, C-10435, C-10436, C-10437, C-10438, C-10439, C-10440, C-10441, C-10442, C-10443, C-10444, C-10445, C-10446, C-10447, C-10448, C-10449, C-10450, C-10451*
+
+---
+
+**N-11262** Andrew Wilson TPUSA Debate Training Engagement
+
+Node Type: Topic
+The host's claim that Turning Point USA brought in and paid Andrew Wilson to teach students to debate.
+
+*Related: C-10484, C-10495*
 
 ---
 
@@ -611,6 +1065,1235 @@ Investigative Direction: Not directly verifiable; relevant only as documented rh
 
 ---
 
+**C-10423** Host Says Wilson's Team Showed Paranoia About Muting and Stolen Funds
+
+Claim Timestamp: 00:00:01
+
+Claim: The host says that in weekend negotiations Andrew Wilson's team voiced paranoia that her team might mute them, lower their volume, steal the funds and then cancel the debate.
+
+Transcript Snippet: Like just some straight paranoia coming from his side about possibilities of my team muting them, lowering the volume, stealing the funds, and then canceling the debate.
+
+Anchored Artifacts: 
+Mentions: N-18, N-3
+Related Nodes: N-11066, N-11067
+Tags: relevance:context
+Investigative Direction: Obtain the negotiation emails between the host's team and Wilson's team and the draft debate terms.
+
+---
+
+**C-10424** Host Says a Moderator Is Secured for Friday's Wilson Debate but Will Not Name Them
+
+Claim Timestamp: 00:00:01
+
+Claim: The host says a moderator has been secured for this Friday's debate with Andrew Wilson and is already helping to get it over the finish line, but she is not naming the moderator because they may want to announce it themselves.
+
+Transcript Snippet: we have secured a moderator, a good one, and the moderator is already stepping in to moderate to get to this debate over the finish line.
+
+Anchored Artifacts: 
+Mentions: N-18, N-3
+Related Nodes: N-11259
+Tags: relevance:context
+Investigative Direction: Wait for the moderator's own announcement and the debate's actual air date to confirm the arrangement.
+
+---
+
+**C-10425** Host Says No Soup for Noels Was a Daily Wire Super Fan Account
+
+Claim Timestamp: 00:00:45
+
+Claim: The host says the X handle No Soup for Noels was essentially a Daily Wire super fan account that most people assumed belonged to a teenager but that she says belongs to a 45-year-old.
+
+Transcript Snippet: It was essentially a Daily Wire super fan account, which most people reasonably assumed was like a 13-year-old teenager
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10900
+Supports: C-3269
+Tags: relevance:context
+Investigative Direction: Review the account's posting history and follows for Daily Wire fan content and confirm the owner through public records.
+
+---
+
+**C-10426** Host Says Tyler Robinson Had Above a 4.0 GPA
+
+Claim Timestamp: 00:05:05
+
+Claim: The host says Tyler Robinson had a GPA above 4.0, which she uses to argue he was too intelligent to wear a favorite shirt to a crime.
+
+Transcript Snippet: remember Tyler Robinson had above a 4.0 GPA
+
+Anchored Artifacts: 
+Mentions: N-40
+Tags: relevance:core
+Investigative Direction: Obtain Robinson's school transcripts or the court filing that states his GPA.
+
+---
+
+**C-10427** Host Reads Alleged Robinson Message to Lance About Keeping the Secret Until Old Age
+
+Claim Timestamp: 00:05:05
+
+Claim: The host says Tyler Robinson allegedly wrote in the confession messages to Lance that he had hoped to keep the secret until he died of old age, which she says undercuts the suicide narrative.
+
+Transcript Snippet: "To be honest, I had hoped to keep this secret till I died of old age."
+
+Anchored Artifacts: A-3078.1
+Mentions: N-40, N-54
+Related Nodes: N-10077
+Tags: relevance:core
+Investigative Direction: Compare the wording and timestamp of this message in the charging documents and the extracted text exhibits.
+
+---
+
+**C-10428** Host Calls the Immediate Charlie Loves Israel Imagery a Psychological Operation
+
+Claim Timestamp: 00:08:04
+
+Claim: The host says the media immediately reminding the public how much Charlie Kirk loved Israel (hugging the flag, saying Shabbat Shalom) was a psychological operation of the same kind as the maroon seeding.
+
+Transcript Snippet: It reminds me of sort of the same psychological operation of them immediately trying to remind us of how much Charlie loved Israel.
+
+Anchored Artifacts: 
+Mentions: N-1
+Tags: relevance:context
+Investigative Direction: Catalogue the Israel-related images of Kirk that circulated in the first days after the shooting and their sources.
+
+---
+
+**C-10429** Host Says If Robinson Is the Patsy the Maroon Outfit Was Pre-Selected
+
+Claim Timestamp: 00:08:04
+
+Claim: The host says that if Tyler Robinson is the patsy, the outfit of the person caught on neighborhood cameras and in the stairwell was pre-selected as maroon, so the public was told at once that Tyler loves maroon.
+
+Transcript Snippet: The outfit was pre-selected. They selected a maroon shirt if that is the alternative narrative.
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-11260, N-10791
+Supports: C-3263
+Tags: relevance:core
+Investigative Direction: Establish who first distributed the maroon-shirt photos and when, and compare with the timing of the TMZ neighbor footage.
+
+---
+
+**C-10430** Host Says Last Week's Stair Images Showed the Phone in the Left Hand
+
+Claim Timestamp: 00:09:04
+
+Claim: The host says that in last week's episode she showed that the blurry images of the person coming down the stairs have him putting his phone in his left hand.
+
+Transcript Snippet: he's actually putting his phone in his left hand
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-10791, N-10793
+Supports: C-3260
+Tags: relevance:core
+Investigative Direction: Review last week's episode stills against the full stairwell footage frame by frame.
+
+---
+
+**C-10431** Host Says New Stills Come From 4K Footage Shown to Influencers in Court
+
+Claim Timestamp: 00:09:04
+
+Claim: The host says the new stills come from 4K footage that was shown in the courtroom to influencers, and that the compressed, blurry version the public saw hides the subject's apparent left-handedness.
+
+Transcript Snippet: today we have more exclusive stills from the 4K undeniable footage that was shown um in the courtroom to influencers.
+
+Anchored Artifacts: 
+Related Nodes: N-10791
+Tags: relevance:core
+Investigative Direction: Ask the court and the prosecutors which exhibit was shown to the influencers and request the original-resolution file.
+
+---
+
+**C-10432** Host Says the Uncompressed Stills Show a Broad Build
+
+Claim Timestamp: 00:09:04
+
+Claim: The host says that in the clearer, less compressed stills the parking-garage subject looks a bit broad.
+
+Transcript Snippet: you might realize that he's kind of a bit broad
+
+Anchored Artifacts: A-2267.1
+Mentions: N-40
+Related Nodes: N-10791
+Tags: relevance:core
+Investigative Direction: Measure the subject against reference objects in the garage and compare with Robinson's booking height and weight.
+
+---
+
+**C-10433** Host Says the Stills Were Not Edited in Any Way
+
+Claim Timestamp: 00:10:07
+
+Claim: The host says the exclusive parking-garage stills were not edited or altered in any way and are not compressed.
+
+Transcript Snippet: we did not edit these in any way. Okay? This is no editing.
+
+Anchored Artifacts: A-2267.1
+Related Nodes: N-10791
+Tags: relevance:core
+Investigative Direction: Obtain the stills' source file and metadata to confirm no processing was applied.
+
+---
+
+**C-10434** Host Recounts Official Account of Robinson Leaving St. George Before 4 AM
+
+Claim Timestamp: 00:14:09
+
+Claim: The host recounts the official account that Tyler Robinson left his house in St. George before 4:00 a.m. on September 10, 2025 to reach campus, and was caught walking past a neighbor's house at 8:07 a.m. on footage released by TMZ.
+
+Transcript Snippet: he had to leave his house in St. George before 4:00 a. m. to make it up to campus when they then catch him on walking by the neighbor's house at 8:07 a. m.
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-10011, N-11261, N-10052
+Supports: C-1133
+Tags: relevance:core
+Investigative Direction: Obtain the neighbor-camera clip with its metadata and the charging documents' departure time for the drive from St. George.
+
+---
+
+**C-10435** Host Expects a TPUSA Employee to Testify About Robinson's Approach
+
+Claim Timestamp: 00:15:02
+
+Claim: The host says Robinson allegedly approached a Turning Point employee on campus, that he apparently asked whether it was where the Charlie Kirk event would be, and that she looks forward to hearing the employee testify.
+
+Transcript Snippet: I can't wait to hear her testify.
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-10000, N-11261
+Tags: relevance:core
+Investigative Direction: Identify the employee in the witness list and obtain her statement to investigators.
+
+---
+
+**C-10436** Host Says Police Say Robinson Went to Chick-fil-A With No Footage Released
+
+Claim Timestamp: 00:15:44
+
+Claim: The host says that according to police Robinson went to Chick-fil-A on campus, and that no footage of this has been shown or explained.
+
+Transcript Snippet: To Chick-fil-A on campus. We haven't seen any footage from that yet.
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-10012, N-11261
+Tags: relevance:core
+Investigative Direction: Request the Chick-fil-A surveillance footage and receipts from the prosecution or a records request.
+
+---
+
+**C-10437** Host Recounts Robinson Changing to a Long-Sleeve Black Shirt and Blue Jeans
+
+Claim Timestamp: 00:15:44
+
+Claim: The host recounts the official account that after leaving campus Robinson parked off campus, changed outfits, and put on a long-sleeve black shirt and blue jeans before returning to commit the shooting.
+
+Transcript Snippet: changes his outfit, puts on a long-sleeve black shirt, puts on blue jeans
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-11261
+Tags: relevance:core
+Investigative Direction: Identify the footage or testimony establishing the black shirt and blue jeans and where he changed.
+
+---
+
+**C-10438** Host Says Robinson Sent His Wordle Score at 11:28
+
+Claim Timestamp: 00:15:44
+
+Claim: The host says that at 11:28 Robinson sent his Wordle score to his friends and that the word of the day was pouty.
+
+Transcript Snippet: At 11:28, he sent his Wordle score to his friends.
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-11261
+Tags: relevance:core
+Investigative Direction: Check the extracted message exhibit for the 11:28 Wordle message and its time zone.
+
+---
+
+**C-10439** Host Recounts Rifle Carried Into Pants and Limp Back Onto Campus
+
+Claim Timestamp: 00:15:44
+
+Claim: The host recounts the official account that Robinson shoved a broken-down German 98 Mauser into his pants and limped back onto campus with a new hat and new backpack.
+
+Transcript Snippet: he shoves a broken-down German 98 Mauser into his pants, and he starts limping back onto campus with a new hat, new backpack
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-11261
+Tags: relevance:core
+Investigative Direction: Compare against the charging documents and any footage of the limp, hat and backpack.
+
+---
+
+**C-10440** Host Recounts Changing Back to the Maroon Shirt and Dairy Queen Sighting
+
+Claim Timestamp: 00:16:41
+
+Claim: The host recounts that after the shooting Robinson changed back into his maroon shirt while keeping the jeans on and was then spotted at Dairy Queen.
+
+Transcript Snippet: he then changes back into his maroon shirt, but he leaves the jeans on. He's then spotted at Dairy Queen.
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-10051, N-11261
+Tags: relevance:core
+Investigative Direction: Obtain the Dairy Queen photo with its metadata and the prosecution's account of where the clothing change occurred.
+
+---
+
+**C-10441** Host Recounts Three-Hour Drive to a Panguitch Steak House
+
+Claim Timestamp: 00:16:41
+
+Claim: The host recounts that Robinson left Orem, drove three hours to the Cowboy Steak House in Panguitch, sat at the bar and ordered a steak combo with a soft drink and no alcohol.
+
+Transcript Snippet: He then departs Orem and drives 3 hours down to Panguitch to the Cowboy Steak House, where he seats himself at the bar and he orders a steak combo with a soft drink.
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-10381, N-10062, N-11261
+Tags: relevance:core
+Investigative Direction: Obtain the restaurant's receipt, timestamp and any camera footage and compare with the manhunt timeline.
+
+---
+
+**C-10442** Host Recounts Return Drive to Orem to Retrieve the Rifle
+
+Claim Timestamp: 00:17:43
+
+Claim: The host recounts that after the steak Robinson drove back up to Orem, another three hours, to retrieve his rifle during the largest federal manhunt, returning to the scene of the crime.
+
+Transcript Snippet: he drives back up to Orem. I mean, woo, long drive. Another 3 hours. This time because he wants to retrieve his rifle
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-10062, N-11261
+Tags: relevance:core
+Investigative Direction: Identify the vehicle-tracking, license-plate or camera evidence that places him back at Orem and the time.
+
+---
+
+**C-10443** Host Says She Wrongly Assumed Robinson Was Pulled Over and Now Reads Hoole as Saying He Stopped to Ask an Officer
+
+Claim Timestamp: 00:17:43
+
+Claim: The host says she wrongly assumed Robinson had been pulled over, but after re-listening to Agent Hoole's testimony she thinks Hoole is saying Tyler stopped his car to ask the police officer a question.
+
+Transcript Snippet: I wrongly assumed that he had been pulled over.
+
+Anchored Artifacts: A-2270.1
+Mentions: N-40, N-878
+Related Nodes: N-11261
+Supports: C-3266
+Tags: relevance:core
+Investigative Direction: Obtain the full Hoole testimony transcript and the officer's report to determine who initiated the contact.
+
+---
+
+**C-10444** Hoole Audio Says the Vehicle Was Pulling Away East on 800 South
+
+Claim Timestamp: 00:18:42
+
+Claim: In the testimony audio the host plays, Agent Hoole says the vehicle is now pulling away and heading east on 800 South.
+
+Transcript Snippet: that vehicle is now pulling away and heading east on 800 South.
+
+Anchored Artifacts: A-2270.1
+Mentions: N-878, N-879
+Related Nodes: N-11261
+Tags: relevance:core
+Investigative Direction: Obtain the exhibit map and video Hoole was describing and the full transcript of this testimony.
+
+---
+
+**C-10445** Host Says No Footage of the Officer Contact Has Been Shown
+
+Claim Timestamp: 00:19:39
+
+Claim: The host says no footage has been shown of the vehicle's contact with the security-detail officer and that she hopes the officer's body camera footage does not turn out to be missing.
+
+Transcript Snippet: We've not seen any footage from that.
+
+Anchored Artifacts: A-2270.1
+Mentions: N-879
+Related Nodes: N-11261
+Tags: relevance:core
+Investigative Direction: Request the security officer's body-camera footage and report for the contact.
+
+---
+
+**C-10446** Host Says Robinson Could Not Have Reached St. George Before 5 AM
+
+Claim Timestamp: 00:19:39
+
+Claim: The host says Robinson gave up on retrieving the rifle, left Orem around 1:35 a.m. and drove four hours back to St. George, arriving at the earliest at 5:00 a.m., based on his text messages to Lance and other doorbell footage.
+
+Transcript Snippet: Earliest he got back home was 5:00 a. m. That's just based on his text messages to Lance and when he was captured on other doorbell footage.
+
+Anchored Artifacts: 
+Mentions: N-40, N-54
+Related Nodes: N-10052, N-11261
+Tags: relevance:core
+Investigative Direction: Compare the text-message times and doorbell footage metadata with the host's 1:35 a.m. departure estimate.
+
+---
+
+**C-10447** Host Calculates Robinson Was Awake 25 Hours and Drove About 13 Hours 20 Minutes
+
+Claim Timestamp: 00:20:24
+
+Claim: The host calculates that, on the official account, Robinson had been awake for 25 hours straight and had driven about 13 hours and 20 minutes.
+
+Transcript Snippet: he's been awake for 25 hours straight, of which he has driven during which he has driven an approximate 13 hours and 20 minutes.
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-11261
+Tags: relevance:core
+Investigative Direction: Sum the drive legs from the charging documents and map-estimated times to check the host's totals.
+
+---
+
+**C-10448** Host Recounts a Cedar City Gas Station Fill-Up With No Explanation
+
+Claim Timestamp: 00:21:20
+
+Claim: The host recounts that after an hour at home Robinson drove about an hour to Cedar City, where he was captured on gas station footage filling his tank, and that no answer has been given for why he bought gas that far away.
+
+Transcript Snippet: this time driving about an hour away to Cedar City, because that's where he's captured on gas station footage filling up his tank
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-11261
+Tags: relevance:core
+Investigative Direction: Obtain the Cedar City gas station footage, receipt and timestamp.
+
+---
+
+**C-10449** Host Says Lance Will Testify He Saw Robinson on Waking
+
+Claim Timestamp: 00:21:20
+
+Claim: The host says that according to Lance's expected testimony, Lance sees Robinson face to face in their apartment when he wakes up.
+
+Transcript Snippet: This is according to Lance's testimony. Lance will testify that he sees him when he wakes up.
+
+Anchored Artifacts: 
+Mentions: N-54, N-40
+Related Nodes: N-11261
+Tags: relevance:core
+Investigative Direction: Review Lance's statements to investigators and any witness-list summary of his expected testimony.
+
+---
+
+**C-10450** Host Says Robinson Was Still in the Same Shirt When Arrested
+
+Claim Timestamp: 00:22:04
+
+Claim: The host says Robinson had not changed his shirt after returning home because he was going to be wearing the same shirt when he was arrested.
+
+Transcript Snippet: No, he doesn't, because we know he's going to be wearing that when he gets arrested.
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-11261
+Tags: relevance:core
+Investigative Direction: Obtain the arrest photographs and booking inventory of clothing.
+
+---
+
+**C-10451** Host Says the Feds Do Not Address Dairy Queen or the Steak House
+
+Claim Timestamp: 00:22:04
+
+Claim: The host says the Feds do not want to address or respond to Robinson being at Dairy Queen or at the steak house, and calls the testimonies weak.
+
+Transcript Snippet: The Feds don't even want to address or answer or respond to him being in Dairy Queen or at the Steak House or leaving out all sorts of things.
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-10051, N-10381, N-11261
+Tags: relevance:core
+Investigative Direction: Compare the indictment and hearing testimony with the Dairy Queen and Panguitch evidence.
+
+---
+
+**C-10452** Host Says a Young Woman Researcher Flagged an Item Falling From Zinn's Pants
+
+Claim Timestamp: 00:26:22
+
+Claim: The host says a young woman who has helped her research reached out and told her to look at what was falling out of George Zinn's pants.
+
+Transcript Snippet: there is a a young woman who reached out to me and said, "Hey, you need to check this out with George Zinn.
+
+Anchored Artifacts: 
+Mentions: N-42
+Related Nodes: N-10792
+Supports: C-3267
+Tags: relevance:core
+Investigative Direction: Obtain the arrest video and high-resolution photographs the researcher used and their source.
+
+---
+
+**C-10453** Host Says Zinn Said I Did It Before Coming Down
+
+Claim Timestamp: 00:26:22
+
+Claim: The host says George Zinn, whom she calls decoy boy number one, said "I did it. I did it." before coming down, and that she admits she did not pay enough attention to his arrest.
+
+Transcript Snippet: He's decoy boy number one. Obviously, he said, "I did it. I did it."
+
+Anchored Artifacts: 
+Mentions: N-42
+Related Nodes: N-10097
+Tags: relevance:core
+Investigative Direction: Obtain police body-camera footage and reports of Zinn's statements at the scene and his charging papers.
+
+---
+
+**C-10454** Host Asks Viewers to Email Tips to Identify Zinn's Device
+
+Claim Timestamp: 00:27:21
+
+Claim: The host asks viewers who recognize the device in the Zinn close-up to send an email to moretips@candaceowens.com so that it can be identified.
+
+Transcript Snippet: You can send us an email to moretips@candaceowens. com.
+
+Anchored Artifacts: A-3079.1
+Mentions: N-42, N-3
+Related Nodes: N-10792
+Supports: C-3267
+Tags: relevance:context,dia
+Investigative Direction: Review the emails received at the tips address for identifications of the device.
+
+---
+
+**C-10455** Host Says a Group Chat Member Apologised and Left After It Turned Toxic
+
+Claim Timestamp: 00:28:34
+
+Claim: The host says one of the 92 members spoke to her, said she participated, apologised, and explained she left because the group became toxic.
+
+Transcript Snippet: yes, I participated in this and actually just wanted to say sorry
+
+Anchored Artifacts: 
+Mentions: N-3, N-2
+Related Nodes: N-10780
+Supports: C-3268
+Tags: relevance:context
+Investigative Direction: Confirm the member's account and the group's creation date and moderation through the host's source.
+
+---
+
+**C-10456** Host Says Group Members Believed She Was Buying a House for Eight Nannies
+
+Claim Timestamp: 00:28:34
+
+Claim: The host says people in the group legitimately thought she and her husband were purchasing a house for their eight nannies.
+
+Transcript Snippet: I can't believe they legitimately thought that we were purchasing a house for our eight nannies.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10780
+Tags: relevance:tangential
+Investigative Direction: Locate the group-chat messages that raised the house purchase.
+
+---
+
+**C-10457** Host Says an Earlier 26-Member Group Chat Radicalised a Member Who Plotted Her Assassination
+
+Claim Timestamp: 00:29:36
+
+Claim: The host says a previous group chat of only 26 members, which she calls a Jewish group chat, radicalised a member who started plotting her assassination, leading to FBI involvement.
+
+Transcript Snippet: It was only 26 members, and the same thing happened.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10780
+Tags: relevance:context
+Investigative Direction: Obtain the federal charging documents and court record for the case the host describes.
+
+---
+
+**C-10458** Host Says Haim Braverman Was Arrested, Pled Guilty and Is in Prison
+
+Claim Timestamp: 00:29:36
+
+Claim: The host says that after the FBI became involved the group member, whom she names as Haim Braverman, was arrested, pled guilty and is in prison, and that the media did not want to cover it.
+
+Transcript Snippet: he got arrested, he pled guilty, his name is Haim Braverman, and he is in prison, you can look that up.
+
+Anchored Artifacts: 
+Mentions: N-880, N-3
+Tags: relevance:context
+Investigative Direction: Search federal court dockets and DOJ press releases for a plea by Haim Braverman and the sentence.
+
+---
+
+**C-10459** Host Says a Pro-Israel Woman Founded the Protect Erika Kirk Group
+
+Claim Timestamp: 00:30:19
+
+Claim: The host says her team discovered that a Jewish woman put the group together and that she had been involved in pro-Israel causes long before Charlie Kirk was assassinated.
+
+Transcript Snippet: we discovered that a Jewish woman put together this group, and she has been very involved on pro-Israel causes long before Charlie was assassinated
+
+Anchored Artifacts: 
+Mentions: N-1
+Related Nodes: N-10780
+Tags: relevance:context
+Investigative Direction: Identify the founder from the group's records and verify her public advocacy history.
+
+---
+
+**C-10460** Host Says She Will File Something and Has Learned of Other Members
+
+Claim Timestamp: 00:30:19
+
+Claim: The host says that because the member who left described the group as becoming dangerous, her team will be filing something and has found out more information about other group members.
+
+Transcript Snippet: And so, we will be filing something, and we have found out more information about other group members
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10780
+Tags: relevance:context
+Investigative Direction: Check for any complaint or legal filing by the host's team concerning the group and its members.
+
+---
+
+**C-10461** Host Says the Then-CEO Flew Daily Wire Super Fans Out to Meet Them
+
+Claim Timestamp: 00:30:19
+
+Claim: The host says the Daily Wire had a bizarre super fan community and that the then-CEO flew these people out to the Daily Wire to meet the super fans.
+
+Transcript Snippet: it turned out that the then CEO flew these people out to the Daily Wire to meet these super fans
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10900
+Tags: relevance:tangential
+Investigative Direction: Ask the Daily Wire or former staff about fan visits and who attended.
+
+---
+
+**C-10462** Host Says Boreing and the PR Agent Were Working Through Britta
+
+Claim Timestamp: 00:31:45
+
+Claim: The host says Britta, a Daily Wire super fan, attacked her with the Crisis King material, and says she knew the Daily Wire's PR agent and Jeremy Boreing were working through her, because Boreing likes to find people who will do whatever for him.
+
+Transcript Snippet: obviously I knew that their PR agent and Jeremy Boring were working through her
+
+Anchored Artifacts: 
+Mentions: N-881, N-374, N-3
+Related Nodes: N-10900, N-11182
+Tags: relevance:context
+Investigative Direction: Look for coordination evidence between the account and Daily Wire staff or PR, such as shared posts, direct messages or timings.
+
+---
+
+**C-10463** Host Says Widener Helped Spread the April Lies About Her Husband
+
+Claim Timestamp: 00:31:45
+
+Claim: The host says Britta Widener went after her family and husband and was part of the people perpetuating the lies about her husband back in April, and is also in the group of 92.
+
+Transcript Snippet: she's been going after my family, my husband. She was part of people perpetuating the lies about my husband
+
+Anchored Artifacts: 
+Mentions: N-881, N-3
+Related Nodes: N-10780, N-10416
+Tags: relevance:context
+Investigative Direction: Compile the April posts about the host's husband and identify which accounts amplified them.
+
+---
+
+**C-10464** Host Says Loomer Sent About 1,800 Tweets About Her
+
+Claim Timestamp: 00:32:30
+
+Claim: The host says that a couple of weeks earlier she showed that Laura Loomer sent about 1,800 tweets about her, a figure she contrasts with Widener's count.
+
+Transcript Snippet: I think I showed you a couple of weeks ago that like Laura Loomer sent like 1,800 tweets about me
+
+Anchored Artifacts: 
+Mentions: N-60, N-881, N-3
+Tags: relevance:context
+Investigative Direction: Obtain the tweet-counter output shown in the earlier episode and re-run the count on Loomer's account.
+
+---
+
+**C-10465** Host Says Acquaintances of Group Members Are Emailing the Tips Line
+
+Claim Timestamp: 00:34:13
+
+Claim: The host says that after she shared the group-chat story, people who know other group members began emailing her tips line.
+
+Transcript Snippet: people who know other people in the group began emailing our tips line
+
+Anchored Artifacts: A-3080.1
+Mentions: N-3
+Related Nodes: N-10780
+Supports: C-3268
+Tags: relevance:context,dia
+Investigative Direction: Review the tips inbox for messages identifying group members and verify each independently.
+
+---
+
+**C-10466** Host Says Top People at a Conservative Corporation Are in the Group Chat
+
+Claim Timestamp: 00:34:13
+
+Claim: The host says her team has just learned that a conservative corporation has top people at the company involved in the group chat, and calls this the beginning of the story.
+
+Transcript Snippet: We just learned about a conservative company company, conservative corporation, um who have top people at the company that are involved in this group chat.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10780
+Tags: relevance:context
+Investigative Direction: Obtain the member list and employer records and verify each person's role in the unnamed company.
+
+---
+
+**C-10467** Host Says Paramount Tactical Was Virtually the Only Man in the Group
+
+Claim Timestamp: 00:35:07
+
+Claim: The host says the account she calls Paramount Not Tactical was virtually the only male in the Protect Mrs. Erika Kirk group chat.
+
+Transcript Snippet: Paramount Not Tactical was the only virtually the only male that's in that group
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10899, N-10780
+Tags: relevance:context
+Investigative Direction: Confirm the membership list, including whether a Paramount Tactical account was in the group.
+
+---
+
+**C-10468** Host Says She Has Had No New Demands From Wilson Since the Public Negotiation
+
+Claim Timestamp: 00:35:17
+
+Claim: The host says she has had no new demands from Andrew Wilson since the in-public negotiation that he insisted on, although his team has proposed various other ideas.
+
+Transcript Snippet: I have had no new demands since the in public negotiation that he insisted on.
+
+Anchored Artifacts: 
+Mentions: N-18, N-3
+Related Nodes: N-11066, N-11067
+Tags: relevance:context
+Investigative Direction: Compare the public negotiation posts with the emails exchanged afterward.
+
+---
+
+**C-10469** Host Says the Moderator Is Wilson's Second Pick After Knowles Declined
+
+Claim Timestamp: 00:36:00
+
+Claim: The host says the person who has stepped up to moderate was Andrew Wilson's second pick, because Michael Knowles respectfully declined.
+
+Transcript Snippet: It was Andrew's pick, a second pick. Michael Knowles declined to do it respectfully, as I knew he would.
+
+Anchored Artifacts: 
+Mentions: N-18, N-102
+Related Nodes: N-11259
+Tags: relevance:context
+Investigative Direction: Ask Wilson's team and Knowles's representatives to confirm the request and decline.
+
+---
+
+**C-10470** Host Says Wilson Tried to Negotiate an Automatic Win for Any Ad Hominem Attack
+
+Claim Timestamp: 00:36:00
+
+Claim: The host says Andrew Wilson tried to negotiate a clause under which he automatically wins if there are any ad hominem attacks.
+
+Transcript Snippet: negotiate a clause that says he automatically wins if there's any ad hominem attacks
+
+Anchored Artifacts: 
+Mentions: N-18, N-3
+Related Nodes: N-11066, N-11067
+Tags: relevance:context
+Investigative Direction: Obtain the proposed debate terms exchanged between the teams.
+
+---
+
+**C-10471** Host Says She Told Wilson He Cannot Smoke Cigarettes in Her Home
+
+Claim Timestamp: 00:36:00
+
+Claim: The host says the dispute with Wilson's side came down to her telling them that he cannot smoke cigarettes in her home, which his wife Rachel Wilson reacted strongly against.
+
+Transcript Snippet: you can't smoke cigarettes in my home
+
+Anchored Artifacts: 
+Mentions: N-18, N-573, N-3
+Related Nodes: N-11067
+Tags: relevance:context
+Investigative Direction: Review the debate terms for the studio smoking rule and the messages about it.
+
+---
+
+**C-10472** Host Reads Rachel Wilson's Typical Woman Nonsense Message
+
+Claim Timestamp: 00:36:00
+
+Claim: The host says that after being told there was no smoking Rachel Wilson wrote that it was typical woman nonsense and that she was surprised the host had not me too'd anyone.
+
+Transcript Snippet: typical woman nonsense. I'm surprised she hasn't me too'd anyone.
+
+Anchored Artifacts: A-3081.1
+Mentions: N-573, N-3
+Related Nodes: N-11067
+Tags: relevance:tangential
+Investigative Direction: Obtain the original post or message from Rachel Wilson.
+
+---
+
+**C-10473** Host Reads Rachel Wilson's Zoomer Soy Boys and HR Message
+
+Claim Timestamp: 00:37:15
+
+Claim: The host says Rachel Wilson wrote that those who clutch their pearls about smoking are zoomer soy boys or the type of woman who reports everything to HR.
+
+Transcript Snippet: Yeah, who clutches their pearls about smoking? Zoomer soy boys maybe or the type of woman who reports everything to HR.
+
+Anchored Artifacts: A-3081.2
+Mentions: N-573, N-3
+Related Nodes: N-11067
+Tags: relevance:tangential
+Investigative Direction: Obtain the original post from Rachel Wilson.
+
+---
+
+**C-10474** Host Says Rachel Wilson Posted Photos of Her Pregnant Backstage at the Daily Wire
+
+Claim Timestamp: 00:37:56
+
+Claim: The host says Rachel Wilson kept going and showed photos of the host while pregnant doing backstage work at the Daily Wire.
+
+Transcript Snippet: She just kept going and going. Then she was like showing photos of me pregnant while I was doing backstage with the Daily Wire.
+
+Anchored Artifacts: A-3081.3
+Mentions: N-573, N-3
+Related Nodes: N-10900
+Tags: relevance:tangential
+Investigative Direction: Locate the photos Rachel Wilson posted and their dates.
+
+---
+
+**C-10475** Rachel Wilson Says in the Clip She Has Had Only Three Long-Term Relationships
+
+Claim Timestamp: 00:40:18
+
+Claim: In the clip, a woman identified by the host as Rachel Wilson says she has spent her adult life in only three long-term committed relationships, including a nearly 20-year relationship with Andrew, and that they have been married since 2012.
+
+Transcript Snippet: I've spent my entire adult life only in three long-term committed relationships
+
+Anchored Artifacts: A-2274.1
+Mentions: N-573, N-18
+Supports: C-3272
+Tags: relevance:tangential
+Investigative Direction: Verify the marriage and relationship timeline through public records and the full debate clip.
+
+---
+
+**C-10476** Rachel Wilson Says in the Clip Her Prior Husband Beat Her and Fled the State
+
+Claim Timestamp: 00:41:05
+
+Claim: In the clip, Rachel Wilson says her earlier four-year marriage ended because the husband beat her, was pursued by the law and left the state.
+
+Transcript Snippet: because he uh beat the crap out of me and was being pursued by the law and left the state
+
+Anchored Artifacts: A-2274.1
+Mentions: N-573
+Tags: relevance:tangential
+Investigative Direction: Search public court records for the earlier marriage and any case referenced; treat as the speaker's own account.
+
+---
+
+**C-10477** Rachel Wilson Says in the Clip She Had Two Children With Her High School Boyfriend
+
+Claim Timestamp: 00:41:05
+
+Claim: In the clip, Rachel Wilson says her first relationship was with her high school boyfriend of five years, with whom she had two children.
+
+Transcript Snippet: The first one was my high school boyfriend who I knew my whole life, who I was with for 5 years. We had two children.
+
+Anchored Artifacts: A-2274.1
+Mentions: N-573
+Tags: relevance:tangential
+Investigative Direction: Treat as the speaker's own account; no external verification is needed for the case.
+
+---
+
+**C-10478** Male Voice in the Clip Asks if She Would Be Promiscuous Had She Aborted Her Children
+
+Claim Timestamp: 00:41:56
+
+Claim: In the clip, a male voice asks whether Rachel Wilson would still be promiscuous if she had slept with three men but aborted all the children; the host presents this as part of the Wilson debate-clip material.
+
+Transcript Snippet: If she had slept with three men, but had aborted all of the children, would she still be promiscuous?
+
+Anchored Artifacts: A-2274.1
+Mentions: N-573
+Tags: relevance:tangential
+Investigative Direction: Identify the speaker and the show from the full debate clip.
+
+---
+
+**C-10479** Host Says Wilson Tells His Wife to Shut Up in the Clip
+
+Claim Timestamp: 00:41:56
+
+Claim: The host says that in the clip Rachel Wilson jumps in and speaks on behalf of her husband and he tells her to shut up.
+
+Transcript Snippet: And she jumps right in and she speaks on behalf of her husband. He tells her to shut up.
+
+Anchored Artifacts: A-2274.1
+Mentions: N-573, N-18
+Supports: C-3272
+Tags: relevance:tangential
+Investigative Direction: Review the full clip to attribute the shut-up lines to a specific speaker.
+
+---
+
+**C-10480** Host Admits She Suggested Rachel Wilson Should Shut Up
+
+Claim Timestamp: 00:43:01
+
+Claim: The host says she herself suggested that Andrew Wilson's wife should shut up.
+
+Transcript Snippet: To be fair, I did tell his wife to I suggested she should shut up.
+
+Anchored Artifacts: 
+Mentions: N-573, N-3
+Related Nodes: N-11067
+Tags: relevance:tangential
+Investigative Direction: Obtain the exchange in which the host made the remark.
+
+---
+
+**C-10481** Host Says Rachel Wilson Authored 37,000 Tweets and Hunted for Photos
+
+Claim Timestamp: 00:43:01
+
+Claim: The host says Rachel Wilson has authored 37,000 tweets and has been finding photos of the host to try to portray her as a hypocrite over smoking.
+
+Transcript Snippet: why are you online authoring 37,000 tweets and finding photos of me trying to pretend that I'm a hypocrite.
+
+Anchored Artifacts: 
+Mentions: N-573, N-3
+Tags: relevance:tangential
+Investigative Direction: Run a tweet count on Rachel Wilson's account.
+
+---
+
+**C-10482** Host Says Andrew Wilson Did Not Try to Negotiate Smoking at the Studio
+
+Claim Timestamp: 00:43:01
+
+Claim: The host says Andrew Wilson himself did not try to negotiate being able to smoke cigarettes, only his wife objected.
+
+Transcript Snippet: And uh he did not try to negotiate being able to smoke cigarettes
+
+Anchored Artifacts: 
+Mentions: N-18, N-573
+Related Nodes: N-11067
+Tags: relevance:tangential
+Investigative Direction: Compare the negotiation messages for any smoking request by Andrew Wilson.
+
+---
+
+**C-10483** Host Says She Knew Nothing About Wilson Until He Went on Joe Rogan
+
+Claim Timestamp: 00:43:01
+
+Claim: The host says she knew nothing about Andrew Wilson until he went on Joe Rogan, after which her team began researching him.
+
+Transcript Snippet: I knew nothing about this guy until he went on Joe Rogan
+
+Anchored Artifacts: 
+Mentions: N-18, N-274
+Tags: relevance:context
+Investigative Direction: Identify the Rogan appearance date and the host's earliest mention of Wilson.
+
+---
+
+**C-10484** Host Says TPUSA Brought In and Paid Wilson to Teach Students to Debate
+
+Claim Timestamp: 00:43:01
+
+Claim: The host says Turning Point USA brought in Andrew Wilson and paid him to teach its students to debate, and she calls him Turning Point's horse.
+
+Transcript Snippet: Like we we brought him in and paid him to teach our students to debate.
+
+Anchored Artifacts: 
+Mentions: N-18
+Related Nodes: N-10000, N-11262
+Tags: relevance:core
+Investigative Direction: Request TPUSA contracts, invoices or event schedules showing payments to Wilson for debate training.
+
+---
+
+**C-10485** Host Says Respect in Debate Was One of Charlie Kirk's Rules
+
+Claim Timestamp: 00:44:21
+
+Claim: The host says Charlie Kirk was always respectful in his debates no matter how fired up they got and that never denigrating opponents was one of his rules.
+
+Transcript Snippet: Always respectful in his debates no matter how fired up they got. It was one of his rules.
+
+Anchored Artifacts: 
+Mentions: N-1
+Tags: relevance:context
+Investigative Direction: Review Kirk's debate footage and public statements on rules for debate conduct.
+
+---
+
+**C-10486** Host Says McCoy Was First Said to Call Erika but Actually Called His Wife
+
+Claim Timestamp: 00:46:41
+
+Claim: The host says TPUSA initially told the public that Mikey McCoy instantly called Erika, then it emerged that he did not call Erika but called his wife.
+
+Transcript Snippet: initially, like I said, they told us that he instantly called Erika. Then we learned that he didn't call Erika, he actually called his wife.
+
+Anchored Artifacts: 
+Mentions: N-194, N-2
+Related Nodes: N-10338
+Supports: C-3273
+Tags: relevance:core
+Investigative Direction: Obtain the phone records or court exhibit showing the first call McCoy made and who received it.
+
+---
+
+**C-10487** Host Says the Call With Erika Was Too Short and There Were Three-Way Calls
+
+Claim Timestamp: 00:46:41
+
+Claim: The host says there were three-way calls and that in her opinion the call with Erika was way too short.
+
+Transcript Snippet: Then there was like all of these three-way calls, and the call with Erika, in my opinion, was way too short.
+
+Anchored Artifacts: 
+Mentions: N-194, N-2
+Related Nodes: N-10338
+Supports: C-3273
+Tags: relevance:core
+Investigative Direction: Obtain the call-detail records for the calls among McCoy, Erika Kirk and others on September 10.
+
+---
+
+**C-10488** Host Says McCoy Was on the Phone With Danny Phillip for 10 Minutes and They Rode in Separate Cars
+
+Claim Timestamp: 00:46:41
+
+Claim: The host says McCoy was on the phone with Danny Phillip for 10 minutes even though they should have been together, and that they now think the two went to the hospital in separate cars.
+
+Transcript Snippet: And then he's like on the phone with Danny Phillip for 10 minutes, but they should be together, but now we're thinking actually they went into two different cars to the hospital.
+
+Anchored Artifacts: 
+Mentions: N-194, N-375
+Related Nodes: N-10338
+Tags: relevance:core
+Investigative Direction: Obtain call logs and hospital-arrival records for McCoy and Phillip and the vehicle manifests for the convoy.
+
+---
+
+**C-10489** Host Says the TPUSA Figures Are on Record Lying About McCoy's Behavior
+
+Claim Timestamp: 00:46:41
+
+Claim: The host says that TPUSA figures are on record lying about what happened with McCoy's behaviour, and that she thinks everyone involved should have said nothing.
+
+Transcript Snippet: they are on record lying about what happened there.
+
+Anchored Artifacts: 
+Mentions: N-194
+Related Nodes: N-10198
+Supports: C-3273
+Tags: relevance:core
+Investigative Direction: List the public statements by TPUSA figures about McCoy's calls and compare them with phone records.
+
+---
+
+**C-10490** Host Says Pastors Are Complaining Members Are Getting Caught in the Cult of Candace
+
+Claim Timestamp: 00:47:57
+
+Claim: The host says there are pastors complaining that their church members are getting caught in the cult of Candace.
+
+Transcript Snippet: There are pastors that are complaining saying that oh like you know we our church members are just getting caught in the cult of Candace.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10139
+Tags: relevance:tangential
+Investigative Direction: Identify the pastors and the public statements the host refers to.
+
+---
+
+**C-10491** Host Says an NBC Article With Blake Neff Says Kirk's Death Would Have United Conservatives
+
+Claim Timestamp: 00:48:33
+
+Claim: The host says an NBC article, in which Blake Neff shares what they are saying, effectively claims that conservatives would have united after being fractured over Epstein if it were not for Candace, and that Charlie's death would have united them.
+
+Transcript Snippet: Blakely Neff is sharing what they're saying cuz they're effectively saying like the current conservatives would have been united after being fractured over Epstein.
+
+Anchored Artifacts: 
+Mentions: N-162, N-3, N-9, N-1
+Tags: relevance:context
+Investigative Direction: Read the NBC article and compare its wording with the host's paraphrase.
+
+---
+
+**C-10492** Host Says Charlie Kirk Tweeted in 2018 That He Would Not Be Here but Others See It to the End
+
+Claim Timestamp: 00:49:56
+
+Claim: The host says Charlie Kirk tweeted in 2018 that he would not be here but people should see this thing to the end.
+
+Transcript Snippet: Like he tweeted back in 2018, I won't be here, but you see this thing to the end.
+
+Anchored Artifacts: A-3082.1
+Mentions: N-1, N-3
+Tags: relevance:context
+Investigative Direction: Locate the 2018 tweet in Kirk's archive and compare its text with the host's paraphrase.
+
+---
+
+**C-10493** Host Says Blake Neff Offered to Throw Money Toward a Wilson-Candace Debate
+
+Claim Timestamp: 00:50:30
+
+Claim: The host says Blake Neff instantly said he would love to throw money towards Wilson debating Candace, which she takes as a co-sign from Turning Point USA.
+
+Transcript Snippet: Blake Neff instantly said, "If you want to I would love to throw money towards you debating Candace."
+
+Anchored Artifacts: A-3083.1
+Mentions: N-162, N-18, N-3
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Find Neff's original post or message offering money and the date.
+
+---
+
+**C-10494** Host Says Wilson Peddles That the Evidence Against Robinson Is Overwhelming
+
+Claim Timestamp: 00:50:30
+
+Claim: The host says Andrew Wilson has also peddled the talking point that the evidence against Tyler Robinson is overwhelming, and has said on record that conspiracy theorists are scared to debate.
+
+Transcript Snippet: he has also peddled the talking point that the evidence against Tyler Robinson is overwhelming
+
+Anchored Artifacts: 
+Mentions: N-18, N-40
+Tags: relevance:context
+Investigative Direction: Collect Wilson's public statements on the Robinson evidence and on debating conspiracy theorists.
+
+---
+
+**C-10495** Host Says TPUSA Is Already Paying Wilson to Debate
+
+Claim Timestamp: 00:52:08
+
+Claim: The host says that Turning Point USA is already paying Wilson to debate and that it declines to acknowledge him as its horse.
+
+Transcript Snippet: You guys are already paying him to debate.
+
+Anchored Artifacts: 
+Mentions: N-18
+Related Nodes: N-10000, N-11262
+Tags: relevance:core
+Investigative Direction: Request TPUSA payment records and statements about Wilson's role.
+
+---
+
+**C-10496** Host Says the Person on the Steps Made a Mistake Because You Cannot Rewire Your Brain
+
+Claim Timestamp: 00:52:51
+
+Claim: The host says the person she believes was coming down the steps made a mistake because you cannot rewire your brain for a morning, implying the left-handed person is not the right-handed Robinson.
+
+Transcript Snippet: The person I believe uh that was coming down these steps and doing all this made a mistake because you can't rewire your brain for a morning
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-10793, N-10791
+Supports: C-3275
+Tags: relevance:core
+Investigative Direction: Compare court exhibits on Robinson's handedness with the stair footage hand use.
+
+---
+
+**C-10497** Host Says Lance's Fingerprints Are Everywhere Prosecutors Attribute to Tyler
+
+Claim Timestamp: 00:52:51
+
+Claim: The host says the evidence includes Lance's fingerprints everywhere the prosecution says Tyler's are, and that it does not make sense to her that Lance would suddenly get federal immunity even for a short period.
+
+Transcript Snippet: with all of the evidence of Lance and his fingerprints everywhere where they say Tyler's is, it doesn't make sense to me that he would suddenly get federal immunity
+
+Anchored Artifacts: 
+Mentions: N-54, N-40
+Related Nodes: N-10787
+Tags: relevance:core
+Investigative Direction: Review the forensic reports and any immunity agreement for Lance.
+
+---
+
+**C-10498** Host Says She Will Put No Boundaries on Rachel Wilson Attending the Debate
+
+Claim Timestamp: 00:52:51
+
+Claim: The host says she is not going to put up any boundaries at all about Rachel Wilson attending, though she thinks the wife is toxic and obnoxious.
+
+Transcript Snippet: I am not going to be putting up any boundaries at all.
+
+Anchored Artifacts: 
+Mentions: N-573, N-3
+Related Nodes: N-11067
+Tags: relevance:context
+Investigative Direction: Check the final debate terms for any limits on who attends.
+
+---
+
+**C-10499** Host Recalls a Week When Someone Seemed to Be Tweeting for Kolvet
+
+Claim Timestamp: 00:54:04
+
+Claim: The host says there was a random week where it seemed that somebody had taken over Andrew Kolvet's phone and was tweeting on his behalf.
+
+Transcript Snippet: somebody took over Andrew Kolvek's phone and was tweeting on his behalf
+
+Anchored Artifacts: 
+Mentions: N-14
+Tags: relevance:context
+Investigative Direction: Identify the week and review Kolvet's posts for the change in style and for any statement about who posted.
+
+---
+
 ## VI. Cross-Reference Rule Compliance
 
 - Every claim has at least one anchored artifact.
@@ -622,6 +2305,156 @@ Investigative Direction: Not directly verifiable; relevant only as documented rh
 - Non-person investigation targets use the 1000+ range (N-10791, N-10792, N-10793).
 - No speculative claims inscribed as evidence-backed claims; rhetorical framing (e.g., the Dane Cook analogy) is captured as a claim with explicit "analog" wording rather than as evidentiary fact.
 - Names preserved exactly as appearing in transcript (e.g., "No Soup For Noels," "Lance Twigs," "Britta Widener").
+
+---
+
+## 6. Meme Register
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:27:21
+Speaker: N-3
+Quote: You can send us an email to moretips@candaceowens. com.
+Context: Host asks viewers to email tips to identify the device on Zinn.
+Tags: dia, tips
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:34:13
+Speaker: N-3
+Quote: people who know other people in the group began emailing our tips line
+Context: Host says acquaintances of group-chat members are emailing the tips line.
+Tags: dia, tips
+Confidence: high
+
+---
+
+**M-154** (meme) Second Favorite Shirt
+
+### Occurrence 1
+
+Video Timestamp: 00:04:18
+Speaker: N-3
+Quote: Wear your second favorite shirt, you dunce.
+Context: Host riffs on the Dane Cook line applied to the maroon shirt.
+Tags: shirt, maroon
+Confidence: high
+
+---
+
+**M-52** (meme) Patsy
+
+### Occurrence 1
+
+Video Timestamp: 00:08:04
+Speaker: N-3
+Quote: If you believe as I do that Tyler Robinson is in fact the patsy
+Context: Host frames the maroon outfit as pre-selected for a patsy.
+Tags: patsy, robinson
+Confidence: high
+
+---
+
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:22:04
+Speaker: N-3
+Quote: the sheer stupidity of the Fed slop
+Context: Host calls the official timeline Fed slop.
+Tags: fed slop
+Confidence: high
+
+---
+
+**M-121** (meme) Decoy Boy
+
+### Occurrence 1
+
+Video Timestamp: 00:26:22
+Speaker: N-3
+Quote: He's decoy boy number one.
+Context: Host introduces the Zinn arrest video.
+Tags: decoy boy, zinn
+Confidence: high
+
+---
+
+**M-92** (meme) Paramount Not So Tactical
+
+### Occurrence 1
+
+Video Timestamp: 00:35:07
+Speaker: N-3
+Quote: Paramount Not Tactical was the only virtually the only male that's in that group
+Context: Host mocks the Paramount Tactical account in the group chat.
+Tags: paramount tactical, group chat
+Confidence: high
+
+---
+
+**M-107** (meme) Stop Anti-Candaceism
+
+### Occurrence 1
+
+Video Timestamp: 00:50:30
+Speaker: N-3
+Quote: I do want to shout out the stop anti-Candacism account.
+Context: Host praises the parody account and imagines a real 501c3.
+Tags: parody, anti-candaceism
+Confidence: high
+
+---
+
+**M-155** (meme) Beavis and Butt-Head
+
+### Occurrence 1
+
+Video Timestamp: 00:55:09
+Speaker: N-3
+Quote: It is from Beavis and Butt-Head.
+Context: Host explains a donor's Cornholio joke aimed at Kolvet.
+Tags: beavis, kolvet
+Confidence: high
+
+---
+
+**M-266** (meme) Tyler Loves Maroon
+
+### Occurrence 1
+
+Video Timestamp: 00:08:04
+Speaker: N-3
+Quote: So they knew to message to everyone immediately Tyler loves maroon.
+Context: Host mocks the media seeding of Robinson's maroon shirt.
+Tags: maroon, seeding
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:09:04
+Speaker: N-3
+Quote: Tyler loves maroon.
+Context: Host repeats the mocked slogan before showing the stair images.
+Tags: maroon, seeding
+Confidence: high
+
+---
+
+**M-267** (meme) All I Got Was a Maroon T-Shirt
+
+### Occurrence 1
+
+Video Timestamp: 00:22:04
+Speaker: N-3
+Quote: I Went All the Way to Orem to Commit an Assassination and All I Got Was a Maroon T-Shirt?
+Context: Host jokes about the book she would write on the official timeline.
+Tags: maroon, book title
+Confidence: high
 
 ---
 

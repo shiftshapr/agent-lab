@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 4c78ee14b1a99d8405861d22611f7b5723b201c8c1fb81c34bfdf476935d17f3
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-763, N-11066, N-11067, N-11069
+  - Tip-minted Nodes (supplement_2026-10): N-763, N-11069
   - Hole-minted Nodes (reintro-ep141): N-10805
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-6008–C-6090
@@ -42,7 +42,7 @@
 - Artifact Families Introduced: A-2277, A-2278, A-2279, A-2280, A-2281, A-2282, A-2283
 - Claim Range: C-3277–C-3289
   - New Nodes Introduced: N-10794, N-10795, N-10796
-  - Reused Nodes Appearing: N-18, N-573, N-14, N-54, N-57, N-102, N-114, N-162, N-208, N-242, N-274, N-276, N-336, N-518, N-10000, N-10026, N-10090, N-10102, N-10290, N-10337, N-10381, N-10507, N-10593, N-10725, N-10816, N-11068
+  - Reused Nodes Appearing: N-18, N-573, N-14, N-54, N-57, N-102, N-114, N-162, N-208, N-242, N-274, N-276, N-336, N-518, N-10000, N-10026, N-10090, N-10102, N-10290, N-10337, N-10381, N-10507, N-10593, N-10725, N-10816, N-11068, N-11066, N-11067
 - Existing Nodes Reused: (Candace Owens, Erika Kirk, Charlie Kirk, Tyler Robinson treated as known series entities; node IDs not reissued)
 
 ---

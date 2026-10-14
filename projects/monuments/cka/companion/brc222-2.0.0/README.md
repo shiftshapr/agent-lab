@@ -6,20 +6,20 @@
 |-------|-------|
 | vocabulary | 2.0.0 (2026-10-07) |
 | vocab source | https://brc222.org/vocabulary.json |
-| generated_at (UTC) | 2026-10-14T05:24:37Z |
-| bridges | 19841 |
-| revises candidate rows | 2290 (both terms per edge) |
-| revises heuristic primary | {'isQualifiedBy': 1136, 'extends': 9} |
+| generated_at (UTC) | 2026-10-14T16:53:26Z |
+| bridges | 22314 |
+| revises candidate rows | 2878 (both terms per edge) |
+| revises heuristic primary | {'isQualifiedBy': 1429, 'extends': 10} |
 
 ## Edge counts (emitted relationship names from vocab)
 
 ```
 {
-  "contradicts": 63,
-  "isCorroboratedBy": 1124,
-  "isMemberOf": 13092,
-  "isQualifiedBy": 76,
-  "isSupportedBy": 5486
+  "contradicts": 74,
+  "isCorroboratedBy": 1416,
+  "isMemberOf": 14683,
+  "isQualifiedBy": 91,
+  "isSupportedBy": 6050
 }
 ```
 

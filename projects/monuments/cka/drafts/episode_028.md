@@ -11,6 +11,11 @@
 - **Transcript SHA-256**: 2d9d0df8e23c9f62f81f6c3e040382229ea2371024c1d0d0064710f1b9969c26
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10d): N-865, N-11231
+  - Hole-minted Nodes (reintro-ep028): N-383, N-10424, N-10451
+  - Tip-minted Nodes (reintro-ep028): N-11159
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10d): C-9647–C-9697
   - Tip-minted Nodes (reintro-ep028): N-725
   - (see registers)
 
@@ -25,6 +30,94 @@ Speaker: N-3
 Quote: He's standing there and he's saying, "Candace is attacking a grieving widow and accusing her of murdering Charlie Kirk.
 Context: Wave 3 MemeLink backfill: Grieving Widow at 00:24:09 (audit missing_memelink).
 Tags: reuse, memelink_backfill
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:48:20
+Speaker: N-3
+Quote: clean bill of health of not attacking a widow
+Context: Host says investigating is framed as attacking Erika.
+Tags: reuse
+Confidence: high
+
+---
+
+**M-2** (meme) Sheer Evil
+
+### Occurrence 1
+
+Video Timestamp: 00:09:56
+Speaker: N-97
+Quote: I think that what Candace Owens is doing right now is evil.
+Context: Shapiro's on-stage characterization of the host's investigation, as played.
+Tags: reuse
+Confidence: high
+
+---
+
+**M-72** (meme) Fresh and Clean Organic
+
+### Occurrence 1
+
+Video Timestamp: 00:24:09
+Speaker: N-3
+Quote: It is pre-planned. It is not organic.
+Context: Host says the Kelly stage exchange and audience were not organic.
+Tags: reuse
+Confidence: high
+
+---
+
+**M-250** (meme) Struggle Session
+
+### Occurrence 1
+
+Video Timestamp: 00:14:04
+Speaker: N-3
+Quote: he's now trying to struggle session Megan Kelly
+Context: Host's verb for coordinated pressure to make someone disavow or recant.
+Tags: new, running bit
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:31:59
+Speaker: N-3
+Quote: trying to struggle session her and making a comment
+Context: Host predicts pressure on Kelly at every tour stop.
+Tags: new, running bit
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:48:20
+Speaker: N-3
+Quote: are trying to struggle session us into no longer investigating
+Context: Host applies the term to pressure on her investigation.
+Tags: new, running bit
+Confidence: high
+
+---
+
+**M-251** (meme) Moral Blackmail
+
+### Occurrence 1
+
+Video Timestamp: 00:24:09
+Speaker: N-3
+Quote: That is exactly the moral blackmail that Charlie was speaking about in the last days of his life.
+Context: Host applies Kirk's phrase to Shapiro's on-stage pressure on Kelly.
+Tags: new, running bit
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:24:09
+Speaker: N-3
+Quote: That is moral blackmail.
+Context: Host repeats the label after paraphrasing Shapiro's questions.
+Tags: new, running bit
 Confidence: high
 
 ---
@@ -48,8 +141,8 @@ Confidence: high
 
 - Artifact Families Introduced: A-1355, A-1356, A-1357, A-1358, A-1359, A-1360, A-1361, A-1362, A-1363
 - Claim Range: C-1636 – C-1651
-  - New Nodes Introduced: N-239, N-240, N-10236, N-10237, N-10238
-  - Reused Nodes Appearing: 
+  - New Nodes Introduced: N-239, N-240, N-10237, N-10238
+  - Reused Nodes Appearing: N-34, N-36, N-148, N-182, N-226, N-234, N-374, N-674, N-10000, N-10016, N-10025, N-10026, N-10056, N-10063, N-10081, N-10106, N-10345, N-10406, N-10900, N-11096, N-10236
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), plus previously inscribed nodes for Megyn Kelly, Tucker Carlson, Nick Fuentes, Ben Shapiro, Jeremy Boring, Marjorie Taylor Greene, Eric Trump, Laura Trump, Ron Paul, Seth Dylan (node IDs to be reconciled against full ledger)
 
 ---
@@ -212,6 +305,43 @@ Confidence Level: High (audio played on air)
 
 ---
 
+**A-3025** CNN Interview They Exchange Bundle
+
+**A-3025.1** Played CNN clip of the host and Elle Reeve discussing the word 'they' and 'Zionists run the media'
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:36:43
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-9683, C-9684, N-3*
+
+---
+
+**A-3026** Viewer Comments Read Aloud Bundle
+
+**A-3026.1** Host reads a viewer comment (Amber Lee Frazz) recalling that Shapiro said he would pick up Charlie's bloodstained microphone
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:49:08
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-9695, N-3*
+
+---
+
+**A-3026.2** Host reads a viewer comment (Tom Simpson) asking whether Fuentes is being pushed to smear the anti-Israel dissident right
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:50:35
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-9696, N-3*
+
+---
+
 ## IV. Node Register
 
 ### People
@@ -302,6 +432,280 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-1361.1, C-1643, N-Daily Wire (existing), N-Alyssa Cordova (existing)*
+
+---
+
+**N-1** Charlie Kirk
+
+Subject of the assassination; his reported texts, debate offer and views on pressure are cited.
+
+*Related: C-9650, C-9655, C-9656, C-9661, C-9662, C-9663, C-9664, C-9665, C-9666, C-9672, C-9676, C-9680, C-9681, C-9693, C-9694, C-9695, C-9697*
+
+---
+
+**N-2** Erika Kirk
+
+Widow and TPUSA CEO; the host says she was not working at TPUSA when Charlie died.
+
+*Related: C-9648, C-9657, C-9666, C-9693*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-9647, C-9648, C-9654, C-9655, C-9656, C-9657, C-9658, C-9662, C-9663, C-9664, C-9666, C-9674, C-9675, C-9676, C-9677, C-9679, C-9681, C-9682, C-9683, C-9684, C-9693, C-9694, C-9696*
+
+---
+
+**N-22** Tucker Carlson
+
+Subject of Shapiro's stage criticism and the Greene interview clip.
+
+*Related: C-9647, C-9649, C-9650, C-9651, C-9652, C-9653, C-9678*
+
+---
+
+**N-34** Eric Trump
+
+Addressed by the Auburn student; the host's remarks on the Trump family.
+
+*Related: C-9685, C-9686, C-9687, C-9688, C-9689, C-9690, C-9691, C-9692*
+
+---
+
+**N-36** Benjamin Netanyahu
+
+Subject of Shapiro's interview, the Auburn question and the host's remarks.
+
+*Related: C-9668, C-9686, C-9692*
+
+---
+
+**N-38** Seth Dillon
+
+Named by Shapiro on stage; the host says she accused him only of lying about the Hamptons meeting and pressuring Charlie.
+
+*Related: C-9655, C-9656*
+
+---
+
+**N-46** Megyn Kelly
+
+Host of the tour stop where Shapiro appeared; pressed to disavow Carlson and the host.
+
+*Related: C-9647, C-9654, C-9665, C-9672, C-9673, C-9678, C-9679, C-9680*
+
+---
+
+**N-97** Ben Shapiro
+
+Guest at the Kelly tour stop; subject of the host's rebuttal.
+
+*Related: C-9647, C-9648, C-9649, C-9650, C-9651, C-9654, C-9660, C-9661, C-9662, C-9663, C-9664, C-9667, C-9668, C-9669, C-9670, C-9672, C-9673, C-9676, C-9695, C-9697*
+
+---
+
+**N-148** Marjorie Taylor Greene
+
+Interlocutor in the played Carlson clip.
+
+*Related: C-9651, C-9652, C-9653*
+
+---
+
+**N-182** Jared Kushner
+
+Named by the host in her remarks on the Trump family and Middle East deals.
+
+*Related: C-9690*
+
+---
+
+**N-205** Nick Fuentes
+
+Subject of the Boring conversation, Shapiro's remarks and the host's views.
+
+*Related: C-9659, C-9660, C-9669, C-9670, C-9671, C-9696*
+
+---
+
+**N-226** Randy Fine
+
+Congressman the host says Shapiro congratulated.
+
+*Related: C-9667*
+
+---
+
+**N-234** Alyssa Cordova
+
+Named by the host as orchestrating the Daily Wire intern operation.
+
+*Related: C-9677*
+
+---
+
+**N-374** Jeremy Boreing
+
+Former Daily Wire CEO (transcript spelling Boring); the host cites his X Space with Fuentes.
+
+*Related: C-9658, C-9659, C-9660, C-9669*
+
+---
+
+**N-383** Lara Trump
+
+Spoke at the Auburn TPUSA event (transcript spelling Laura Trump).
+
+*Related: C-9685, C-9686, C-9687, C-9688, C-9689, C-9690, C-9691, C-9692*
+
+---
+
+**N-674** Ivanka Trump
+
+Named in the host's remarks on Kushner's deals.
+
+*Related: C-9690*
+
+---
+
+**N-10000** Turning Point USA
+
+Organization whose leadership and Erika's role are discussed.
+
+*Related: C-9657, C-9666, C-9676*
+
+---
+
+**N-10016** Hamptons Meeting Pressure Investigation
+
+Existing topic reused for Dillon's Hamptons claims.
+
+*Related: C-9656*
+
+---
+
+**N-10025** Israel Lobby Pressure on Conservative Figures
+
+Existing topic reused for the host's pressure claims.
+
+*Related: C-9680, C-9693*
+
+---
+
+**N-10026** Israel
+
+Existing place node reused for the host's remarks on Israel's response.
+
+*Related: C-9653, C-9694*
+
+---
+
+**N-10056** Kirk-Israel Narrative Dispute
+
+Existing topic reused for the host's remarks on Israel's immediate denial.
+
+*Related: C-9694*
+
+---
+
+**N-10063** Gaza
+
+Existing place node reused for the Kushner remarks.
+
+*Related: C-9690*
+
+---
+
+**N-10081** Israel Influence on US Politics
+
+Existing topic reused for the campus speech remark.
+
+*Related: C-9691*
+
+---
+
+**N-10106** Moral Blackmail by Donors
+
+Existing topic reused for the moral blackmail claim.
+
+*Related: C-9672*
+
+---
+
+**N-10345** Hampton Retreat Seth Dillon Confrontation
+
+Existing topic reused for Dillon's Hamptons conduct.
+
+*Related: C-9656*
+
+---
+
+**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+
+Existing topic reused for Kelly's reaction to pressure.
+
+*Related: C-9647, C-9654, C-9665*
+
+---
+
+**N-10424** Nick Fuentes Federal Informant Allegation
+
+Existing topic reused for the host's op remark.
+
+*Related: C-9696*
+
+---
+
+**N-10451** USS Liberty Incident Cover-up Investigation
+
+Existing topic reused for the student's USS Liberty remark.
+
+*Related: C-9687*
+
+---
+
+**N-11096** TikTok Israel Moderation Claim
+
+Existing topic reused for the TikTok remark.
+
+*Related: C-9692*
+
+---
+
+**N-11159** Candace Owens CNN Interview and Interview Statements
+
+Existing topic reused for the CNN clips.
+
+*Related: C-9681, C-9682, C-9683, C-9684*
+
+---
+
+**N-865** Lauren Chen
+
+First named by the host at 00:12:33 in episode 28. Host of the X Space where Boring spoke with Fuentes.
+
+*Related: C-9658*
+
+---
+
+**N-10900** Daily Wire
+
+Node Type: Organization
+Media company the host left; its CEO, staff agreements and intern operation are discussed.
+
+*Related: C-9649, C-9658, C-9659, C-9677*
+
+---
+
+**N-11231** Young America's Foundation
+
+Node Type: Organization
+Referred to by the host as YAF; she alleges its people were sent against her and Kirk and may attend Kelly's events.
+
+*Related: C-9662, C-9679*
 
 ---
 
@@ -538,6 +942,818 @@ Mentions: N-1, N-239, N-3
 
 
 Investigative Direction: Confirm the interview date against CNN's published interview records or the original broadcast timestamp.
+
+---
+
+**C-9647** Host Says Shapiro Set Out to Make Kelly Disavow Tucker and Candace
+
+Claim Timestamp: 00:02:12
+
+Claim: The host says that on stage with Megyn Kelly in Florida, Ben Shapiro set out to peer pressure Kelly into disavowing the host and Tucker Carlson by asking her to respond to things neither of them did or said.
+
+Transcript Snippet: I'm going to peer pressure Megan Kelly myself. I'm going to make her disavow me. Make her disavow Candace Owens.
+
+Anchored Artifacts: A-1356.1
+Mentions: N-97, N-46, N-3, N-22
+Related Nodes: N-10406
+Tags: relevance:core
+Investigative Direction: Obtain full video of the Kelly tour stop and compare Shapiro's questions to Kelly with what the host and Carlson actually said.
+
+---
+
+**C-9648** Host Says Erika-Attack Narrative Was a Non-Organic Operation Shapiro Plays a Part In
+
+Claim Timestamp: 00:02:12
+
+Claim: The host says the narrative that she attacked Erika was circulated by people making absurd claims, that she recognizes how such 'organic movements' operate behind the scenes, and that Shapiro plays a part in it.
+
+Transcript Snippet: you saw this narrative circulating amongst people who were just absurdly making claims that I attacked Erika. And I know what these organic movements look like.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-97
+Related Nodes: N-10237
+Tags: relevance:core
+Investigative Direction: Trace the earliest accounts and posts pushing the 'Candace attacked Erika' framing and test the host's assertion of coordination with account-level and timing data.
+
+---
+
+**C-9649** Host Says Daily Wire Departing Staff Sign Six-Month Non-Tucker Agreements
+
+Claim Timestamp: 00:02:12
+
+Claim: The host says people leaving the Daily Wire have to sign agreements that they will not go work for Tucker Carlson for six months.
+
+Transcript Snippet: people at the Daily Wire when they're leaving the Daily Wire have to sign agreements that they're not going to go work for Tucker Carlson for 6 months.
+
+Anchored Artifacts: 
+Mentions: N-22, N-97
+Related Nodes: N-10900
+Tags: relevance:context
+Investigative Direction: Obtain a Daily Wire separation agreement or a former employee's account confirming a six-month restriction on working for Carlson's outlet.
+
+---
+
+**C-9650** Host Says Tucker and Shapiro Spoke the Day Kirk Died
+
+Claim Timestamp: 00:02:12
+
+Claim: The host says Tucker Carlson and Ben Shapiro had a nice conversation on the day Charlie Kirk died, that Carlson then sent a nice text because Shapiro had called him, and that Shapiro expected more follow-up than he got.
+
+Transcript Snippet: Tucker and him had a nice conversation on the day that Charlie Kirk died and Tucker then sent a nice text because Ben had called him
+
+Anchored Artifacts: A-1357.1
+Mentions: N-22, N-97, N-1
+Supports: C-1650
+Tags: relevance:context
+Investigative Direction: Compare with Shapiro's own account of the call and text in the Kelly tour clip and any published text screenshots.
+
+---
+
+**C-9651** Host Says Shapiro Insinuated Tucker Backed Mamdani
+
+Claim Timestamp: 00:06:24
+
+Claim: The host says Shapiro insinuated that Tucker Carlson supported Zohran Mamdani and said nice things about him in his conversation with Marjorie Taylor Greene, and plays the clip so listeners can judge.
+
+Transcript Snippet: But to the insinuation that Tucker somehow supported Mandani and said like nice things about him when he sat down with Marjgerie Taylor Green, here's actually what Tucker said
+
+Anchored Artifacts: A-1356.2
+Mentions: N-22, N-97, N-148, N-227
+Supports: C-1636
+Tags: relevance:context
+Investigative Direction: Pull the full Carlson and Greene episode and Shapiro's stage remarks to see whether Carlson praised or merely explained Mamdani's win.
+
+---
+
+**C-9652** Clip: Tucker Says Mamdani Primary Win Came the Week DC Focused on Iran
+
+Claim Timestamp: 00:07:30
+
+Claim: In the played clip, the speaker responding to Marjorie Taylor Greene says he cannot get over what happened in New York City that week, the same week Washington was focused on Iran's nuclear program, when a 32-year-old socialist was elected in the Democratic primary.
+
+Transcript Snippet: And I just can't get over what happened in our biggest city this week, the very same week, that everybody in DC is focused thousands of miles away on the greatest threat we face
+
+Anchored Artifacts: A-1356.2
+Mentions: N-22, N-148, N-227
+Tags: relevance:context
+Investigative Direction: Confirm the date of the Carlson and Greene episode against the June 2025 New York Democratic primary and the Iran news cycle.
+
+---
+
+**C-9653** Clip: Mamdani Was the Only Debate Candidate to Say He Would Not Visit a Foreign Country
+
+Claim Timestamp: 00:08:20
+
+Claim: In the played clip, a speaker says that in the New York City mayoral debate all the candidates were asked which foreign country they would visit and most said Israel, while Mamdani said he would stay in New York.
+
+Transcript Snippet: They were all the candidates were asked, "If you could visit a foreign country, what would it be?" And they of course all had an answer. I think most said Israel.
+
+Anchored Artifacts: A-1356.2
+Mentions: N-148, N-227, N-22
+Related Nodes: N-10026
+Tags: relevance:context
+Investigative Direction: Check the debate transcript for the foreign-country question and each candidate's answer.
+
+---
+
+**C-9654** Clip: Megyn Kelly Tells Shapiro Her Position Is That It Is None of Her Business
+
+Claim Timestamp: 00:09:56
+
+Claim: In the played clip, Megyn Kelly responds to Shapiro's 'evil' remark by saying she does not opine on whether it is evil and that her position is that it is none of her business.
+
+Transcript Snippet: but my my position is it's really none of my business.
+
+Anchored Artifacts: A-1356.1
+Mentions: N-46, N-97, N-3
+Related Nodes: N-10406
+Tags: relevance:core
+Investigative Direction: Compare with Kelly's later public statements on the Owens investigation, including those around the same tour stop.
+
+---
+
+**C-9655** Host Denies Ever Accusing Seth Dillon of Murdering Charlie
+
+Claim Timestamp: 00:10:33
+
+Claim: The host says she never once accused Seth Dylan of murdering Charlie Kirk.
+
+Transcript Snippet: I never once accused Seth Dylan of murdering Charlie Kirk.
+
+Anchored Artifacts: A-1356.1
+Mentions: N-3, N-38, N-1
+Related Nodes: N-10237
+Contradicts: C-1639
+Tags: relevance:core
+Investigative Direction: Search the host's episode transcripts for any statement tying Seth Dillon to the killing, as opposed to the Hamptons pressure claims.
+
+---
+
+**C-9656** Host Says Dillon Lied About the Hamptons Meeting and Pressured Charlie on Israel
+
+Claim Timestamp: 00:10:33
+
+Claim: The host says that what she actually said about Seth Dylan is that he lied about the Hamptons meeting and was pressuring Charlie Kirk about the topic of Israel.
+
+Transcript Snippet: Seth Dylan, I told the truth that Seth Dylan lied about the Hampton's meeting and that he was pushing uh he was pressuring Charlie about the topic of Israel.
+
+Anchored Artifacts: 
+Mentions: N-3, N-38, N-1
+Related Nodes: N-10345, N-10016
+Supports: C-1173
+Tags: relevance:core
+Investigative Direction: Compare Dillon's public statements about the Hamptons meeting with attendee accounts, emails and calendar records of the August 2025 retreat.
+
+---
+
+**C-9657** Host Says Her Audience Pressed Her to Cover Erika's Past and Parents
+
+Claim Timestamp: 00:10:33
+
+Claim: The host says she was getting flack from her own audience for not covering Erika's past or speaking about her parents, and that she has kept her investigation focused on Turning Point USA and why it is telling certain lies.
+
+Transcript Snippet: I actually was getting flack from my audience for not covering Erika's past or speaking about her parents.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Review the host's earlier episodes for coverage of Erika's background to test the claim that she deliberately held it back.
+
+---
+
+**C-9658** Host Says Boring's X Space Happened the Week She Was Fired
+
+Claim Timestamp: 00:12:33
+
+Claim: The host says Jeremy Boring, then CEO of the Daily Wire, joined an X Space hosted by Lauren Chen during the week she was fired from the Daily Wire.
+
+Transcript Snippet: I distinctly remember the week that I was gloriously fired from the Daily Wire. And during that week, the CEO of the Daily Wire, at the time it was Jeremy Boring, jumped onto an Xspace hosted by Lauren Chen
+
+Anchored Artifacts: A-1359.1
+Mentions: N-3, N-374, N-865
+Related Nodes: N-10900
+Supports: C-1640
+Tags: relevance:context
+Investigative Direction: Check the date of the X Space (HuffPost cites March 25) against the date of the host's Daily Wire exit.
+
+---
+
+**C-9659** Host Dates the Boring-Fuentes Conversation to 2024
+
+Claim Timestamp: 00:14:04
+
+Claim: The host refers to the Daily Wire's position 'in 2024' that its CEO could talk to and praise Nick Fuentes and invite him on the platform; the article read aloud gives only 'March 25th', so this dates the conversation to 2024.
+
+Transcript Snippet: when the Daily Wire position in 2024 was that their CEO could talk to Nick Fuentes publicly, praise Nick Fuentes publicly
+
+Anchored Artifacts: A-1358.1, A-1359.1
+Mentions: N-374, N-205
+Related Nodes: N-10900
+Qualifies: C-1640
+Tags: relevance:context
+Investigative Direction: Confirm the year of the X Space; the existing claim C-1640 gives March 25, 2025, which the transcript does not state.
+
+---
+
+**C-9660** Clip: Fuentes Tells Boring That Shapiro Cannot Say 'Christ Is King'
+
+Claim Timestamp: 00:14:04
+
+Claim: In the played X Space audio, Nick Fuentes says he dislikes that guys like Shapiro will not say 'Christ is king' or 'America first' and that he thinks they forfeit their ability to lead.
+
+Transcript Snippet: I don't like that guys like Shapiro cannot will not say Christ is king. America first. I think they forfeit their ability to lead.
+
+Anchored Artifacts: A-1359.1
+Mentions: N-205, N-97, N-374
+Tags: relevance:context
+Investigative Direction: Obtain the full X Space recording and confirm the speaker and wording.
+
+---
+
+**C-9661** Host Says Shapiro Worked Behind the Scenes to Stop Kirk's Rise
+
+Claim Timestamp: 00:15:45
+
+Claim: The host asserts as fact that Ben Shapiro did a lot of things behind the scenes to stop the rise of Charlie Kirk.
+
+Transcript Snippet: it is just a fact that Ben Shapiro did a lot of things behind the scenes to stop the rise of Charlie Kirk.
+
+Anchored Artifacts: A-1360.1
+Mentions: N-97, N-1
+Tags: relevance:context
+Investigative Direction: Obtain the host's text threads with Kirk and corroboration from third parties about Shapiro's actions.
+
+---
+
+**C-9662** Host Says She Holds Hundreds of Texts on Shapiro Sending YAF and National Review Writers
+
+Claim Timestamp: 00:16:27
+
+Claim: The host says she has literally hundreds of messages about Ben Shapiro sending his YAF people and National Review people to come after her and Charlie Kirk by writing articles, including a headline about a smear campaign.
+
+Transcript Snippet: I have literal hundreds of them pertaining to Ben sending his YAF boys, the AF boys, National Review peeps that were coming after us writing articles.
+
+Anchored Artifacts: A-1360.1, A-1360.2
+Mentions: N-3, N-97, N-1
+Related Nodes: N-11231
+Supports: C-1642
+Tags: relevance:context
+Investigative Direction: Examine the message archive and the cited YAF-linked articles for authorship and timing.
+
+---
+
+**C-9663** Host Says Shapiro Called Kirk to Lament Their Friendship
+
+Claim Timestamp: 00:16:27
+
+Claim: The host says Ben Shapiro called Charlie Kirk, lamented that Kirk and the host had a friendship, and warned him that he should not have it.
+
+Transcript Snippet: Ben called Charlie and he was lamenting the fact that Charlie and I had this friendship and warning him that he shouldn't have him.
+
+Anchored Artifacts: A-1360.1
+Mentions: N-97, N-1, N-3
+Tags: relevance:context
+Investigative Direction: Corroborate the call through Kirk's phone records or the text exchange that refers to it; compare with Shapiro's account.
+
+---
+
+**C-9664** Host Reads Kirk Text That Shapiro Was Saying 'Control Her' on the Call
+
+Claim Timestamp: 00:17:50
+
+Claim: The host reads a text from Charlie Kirk saying Shapiro views the host as Kirk's slave and that 'Control her' is what Shapiro was really saying when he called.
+
+Transcript Snippet: He views you as my slave 100%. Control her is what he really was saying to me when he called.
+
+Anchored Artifacts: A-1360.1
+Mentions: N-1, N-97, N-3
+Supports: C-1642
+Tags: relevance:context
+Investigative Direction: Authenticate the text via the original device or metadata and date it relative to Shapiro's call.
+
+---
+
+**C-9665** Host Says Megyn Kelly Was a Good Friend Who Told the Truth About Kirk's Ordeal
+
+Claim Timestamp: 00:17:50
+
+Claim: The host says Megyn Kelly was a very good friend to Charlie Kirk, that Kirk deeply respected her, and that toward the end she took a principled position on telling the truth about what he was going through.
+
+Transcript Snippet: Megan who was actually a very good friend to Charlie. Charlie deeply respected her and towards the end obviously she took a very principled position on telling the truth about what he was going through
+
+Anchored Artifacts: 
+Mentions: N-46, N-1
+Related Nodes: N-10406
+Supports: C-1162
+Tags: relevance:context
+Investigative Direction: Review Kelly's public statements about Kirk's last weeks and what he told her.
+
+---
+
+**C-9666** Host Says Erika Was Not Working for TPUSA When Charlie Died
+
+Claim Timestamp: 00:17:50
+
+Claim: The host says Erika Kirk was not even working for Turning Point USA when Charlie died, and became CEO only afterward.
+
+Transcript Snippet: Erika who wasn't even working for Turning Point USA uh when Charlie died because now she's the CEO
+
+Anchored Artifacts: 
+Mentions: N-2, N-1, N-3
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Check TPUSA payroll, board and org records for Erika Kirk's role before September 10, 2025, including the September 2 internal memo.
+
+---
+
+**C-9667** Host Says Shapiro Congratulated Randy Fine
+
+Claim Timestamp: 00:19:00
+
+Claim: The host says Ben Shapiro supports and congratulated Randy Fine, who she says tweeted laughing at photos of dead Palestinian babies.
+
+Transcript Snippet: He supports and congratulated Randy Fine who has literally tweeted laughing at photos of dead Palestinian babies.
+
+Anchored Artifacts: 
+Mentions: N-97, N-226
+Tags: relevance:context
+Investigative Direction: Locate Shapiro's post congratulating Fine and the Fine tweet the host describes.
+
+---
+
+**C-9668** Host Says Shapiro Interviewed Netanyahu Last Month Without Pressing on Genocide
+
+Claim Timestamp: 00:19:46
+
+Claim: The host says Ben Shapiro sat down with Benjamin Netanyahu the previous month and asks whether he pressed Netanyahu on the point of genocide, which she says Netanyahu is being tried for.
+
+Transcript Snippet: BB Netanyahu is committing a genocide and Ben Shapiro sat down with him last month.
+
+Anchored Artifacts: 
+Mentions: N-97, N-36
+Tags: relevance:context
+Investigative Direction: Find the date and transcript of Shapiro's Netanyahu interview and check what was asked about Gaza.
+
+---
+
+**C-9669** Host Says Fuentes Was Pushed Out of the Market at 18 for Asking About Israel
+
+Claim Timestamp: 00:20:35
+
+Claim: The host says Nick Fuentes was an 18-year-old who started asking questions about Israel and was artificially pushed out of the market, and that she heard the backstory in Jeremy Boring's conversation with Fuentes.
+
+Transcript Snippet: He started asking questions about Israel and he got artificially pushed out of the market when he had his whole life ahead of him.
+
+Anchored Artifacts: A-1359.1
+Mentions: N-205, N-374, N-97
+Tags: relevance:context
+Investigative Direction: Review the Boring and Fuentes X Space and Fuentes's own account of his dismissal to see what Boring and Shapiro actually conceded.
+
+---
+
+**C-9670** Host Says Shapiro Never Denied Fuentes's Account
+
+Claim Timestamp: 00:20:35
+
+Claim: The host says Ben Shapiro has never come out and denied anything Nick Fuentes has said about being pushed out of the market.
+
+Transcript Snippet: Ben has never come out and denied anything that Nick Fuentes has said
+
+Anchored Artifacts: A-1359.1
+Mentions: N-97, N-205
+Tags: relevance:context
+Investigative Direction: Search Shapiro's public statements for any denial or response to Fuentes's account.
+
+---
+
+**C-9671** Host Says Fuentes Was Put on the ADL's List
+
+Claim Timestamp: 00:22:08
+
+Claim: The host says Nick Fuentes survived without advertisers, sponsors or connections and was put on the ADL's list.
+
+Transcript Snippet: with the entire media writing things about him, being put on the ADL's list, he has proven to be quite resilient.
+
+Anchored Artifacts: 
+Mentions: N-205
+Tags: relevance:tangential
+Investigative Direction: Check the ADL's published listings for Fuentes and the date he was added.
+
+---
+
+**C-9672** Host Calls Shapiro's Stage Questioning the Moral Blackmail Kirk Described
+
+Claim Timestamp: 00:24:09
+
+Claim: The host says Shapiro's on-stage questioning of Kelly is exactly the moral blackmail Charlie Kirk was speaking about in the last days of his life.
+
+Transcript Snippet: That is exactly the moral blackmail that Charlie was speaking about in the last days of his life.
+
+Anchored Artifacts: A-1356.1
+Mentions: N-97, N-46, N-1
+Related Nodes: N-10106
+Supports: C-1292
+Tags: relevance:core
+Investigative Direction: Find Kirk's own statements using the phrase moral blackmail and the context in which he used it.
+
+---
+
+**C-9673** Host Says the Kelly Stage Exchange Was Pre-Planned and Not Organic
+
+Claim Timestamp: 00:24:09
+
+Claim: The host says the exchange with Megyn Kelly was pre-planned and not organic, and that the supporters and the questions were not organic.
+
+Transcript Snippet: It is pre-planned. It is not organic. The supporters are not organic.
+
+Anchored Artifacts: A-1356.1
+Mentions: N-97, N-46
+Related Nodes: N-10236
+Tags: relevance:core
+Investigative Direction: Obtain the ticketing, seating and attendee data for the Kelly tour stop to test whether the audience reaction was coordinated.
+
+---
+
+**C-9674** Host Says Daily Wire Planned to Circulate the Intern's Question as a Random Student
+
+Claim Timestamp: 00:25:16
+
+Claim: The host says that after being fired she learned of a covert Daily Wire plan to send an intern to ask her a question and then pass around a clip made to look as if the questioner were a random student.
+
+Transcript Snippet: they were going to pass around a clip, but they were going to make it look like she was just a a random student.
+
+Anchored Artifacts: A-1361.1
+Mentions: N-3
+Related Nodes: N-10238
+Supports: C-1643
+Tags: relevance:context
+Investigative Direction: Identify the original tipster at the Daily Wire and any message showing the plan to circulate the clip.
+
+---
+
+**C-9675** Clip: Intern Allegedly Got a 10 p.m. Email and Flew In Posing as a Student
+
+Claim Timestamp: 00:26:34
+
+Claim: In the played YWLS 2024 audio, the host says the Daily Wire intern apparently got an email at 10 p.m., hopped on a plane and was pretending to be a student.
+
+Transcript Snippet: apparently she got an email at 10 p. m., hopped on a plane, is pretending to be a student.
+
+Anchored Artifacts: A-1361.1
+Mentions: N-3, N-240
+Related Nodes: N-10238
+Supports: C-1643
+Tags: relevance:context
+Investigative Direction: Seek the intern's identity, flight and email records, or attendee-list evidence from the event.
+
+---
+
+**C-9676** Clip: Host Relays Kirk's Offer to Fly Shapiro to Detroit to Debate
+
+Claim Timestamp: 00:27:36
+
+Claim: In the played clip, the host says Charlie Kirk will fly Ben Shapiro out the following week to Detroit to debate on Kirk's stage; she later says Kirk told her to call Shapiro out on stage and offer the debate.
+
+Transcript Snippet: Charlie Kirk says he will fly you out. He will fly you out next week to Detroit and we can do the debates on his stage.
+
+Anchored Artifacts: A-1361.1
+Mentions: N-1, N-97, N-3
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Find any Kirk or TPUSA confirmation of the offer and whether Shapiro replied.
+
+---
+
+**C-9677** Host Says Alyssa Cordova Orchestrated the Intern Operation
+
+Claim Timestamp: 00:27:36
+
+Claim: The host says the orchestration of the intern and applause operation was by Alyssa Cordova, who she says is no longer at the Daily Wire.
+
+Transcript Snippet: That was orchestrated by Alyssa Cordova now that she's not at the Daily Wire.
+
+Anchored Artifacts: A-1361.1
+Mentions: N-234, N-3
+Related Nodes: N-10238, N-10900
+Tags: relevance:context
+Investigative Direction: Ask Cordova or former Daily Wire staff about the intern assignment and confirm Cordova's departure date.
+
+---
+
+**C-9678** Host Says Those Pressing Kelly on Tucker at Her Events Are Paid Pro-Israel Operatives
+
+Claim Timestamp: 00:27:36
+
+Claim: The host says that people coming to Megyn Kelly's events to ask her to disavow Tucker Carlson are not organic and are pro-Israel people who are paid to do it.
+
+Transcript Snippet: That is not organic. Okay? That is pro-Israel people that are paid to do it.
+
+Anchored Artifacts: 
+Mentions: N-46, N-22
+Related Nodes: N-10236
+Tags: relevance:context
+Investigative Direction: Obtain the audience-question sources and any payment or organizational links for the people who asked questions.
+
+---
+
+**C-9679** Host Predicts Kelly's Attendees Include YAF and Other Organization Members
+
+Claim Timestamp: 00:28:34
+
+Claim: The host says that if Kelly gave her the attendee list she could find the people sent to applaud and intimidate, and predicts they will be from YAF or some other organization.
+
+Transcript Snippet: I will find the people from they will be from YAF. They will be from some organization.
+
+Anchored Artifacts: 
+Mentions: N-46, N-3
+Related Nodes: N-10236, N-11231
+Tags: relevance:context
+Investigative Direction: Compare any available ticket-holder list for the tour stop with YAF membership and staff rosters.
+
+---
+
+**C-9680** Host Says the Same Bullying Process Cost the Pro-Israel Lobby Charlie Kirk
+
+Claim Timestamp: 00:31:59
+
+Claim: The host says the process of bullying and struggle-sessioning Megyn Kelly is the exact one by which the pro-Israel lobby lost Charlie Kirk, as one gets tired of being bullied and senses it is not organic.
+
+Transcript Snippet: exact same process by which the pro-Israel lobby lost Charlie Kirk because eventually you just get tired of being bullied
+
+Anchored Artifacts: 
+Mentions: N-1, N-46
+Related Nodes: N-10025
+Supports: C-1127
+Tags: relevance:core
+Investigative Direction: Compare with Kirk's own statements about Israel-lobby pressure in the weeks before his death.
+
+---
+
+**C-9681** Host Says the CNN Interview Was Booked Before and Was Not About Charlie
+
+Claim Timestamp: 00:32:51
+
+Claim: The host says the CNN interview took place a couple of days after Charlie was killed, was her first interview since, was set up beforehand and was not about Charlie Kirk, and that she kept the appointment.
+
+Transcript Snippet: it was a couple of days after Charlie was killed. First interview I was giving. Just worked out that it was CNN. It wasn't about Charlie Kirk that we were we had set this up before.
+
+Anchored Artifacts: A-1362.1
+Mentions: N-3, N-1, N-239
+Related Nodes: N-11159
+Supports: C-1651
+Tags: relevance:context
+Investigative Direction: Check CNN and the host's team for booking emails and the interview date.
+
+---
+
+**C-9682** Host Says Reeve Is Circulating the CNN Clip
+
+Claim Timestamp: 00:32:51
+
+Claim: The host says Elle Reeve is the one passing around the CNN clip because she thinks it embarrasses the host and shows she is a white nationalist.
+
+Transcript Snippet: Anyways, she's the one passing around this clip because she thinks it totally embarrasses me and shows that I'm a white nationalist.
+
+Anchored Artifacts: A-1362.1
+Mentions: N-239, N-3
+Related Nodes: N-11159
+Tags: relevance:context
+Investigative Direction: Check Reeve's and CNN's social accounts for who first posted the clip.
+
+---
+
+**C-9683** Clip: Reeve Asks Whether 'They' Means Jews
+
+Claim Timestamp: 00:36:43
+
+Claim: In the played CNN clip, Elle Reeve asks the host whether her use of the word 'they' means Jews, and the host replies that if she is not talking about Jews then 'they' does not mean Jews.
+
+Transcript Snippet: Who is they? And it's like >> because it sounds like you're saying Jews.
+
+Anchored Artifacts: A-3025.1
+Mentions: N-239, N-3
+Related Nodes: N-11159
+Tags: relevance:context
+Investigative Direction: Review the full CNN interview for the exact exchange on 'they'.
+
+---
+
+**C-9684** Clip: Host Says 'Zionists Run the Media' Means Supporters of Israel's Ideology
+
+Claim Timestamp: 00:37:23
+
+Claim: In the played CNN clip, the host says that when she says Zionists run the media she means that people who support the political ideology of Israel run the media.
+
+Transcript Snippet: When I say Zionists run the media, I mean Zionists run the media. People that support the political ideology of Israel run the media.
+
+Anchored Artifacts: A-3025.1
+Mentions: N-3, N-239
+Related Nodes: N-11159
+Tags: relevance:context
+Investigative Direction: Compare with the host's other statements on media ownership and the full CNN transcript.
+
+---
+
+**C-9685** Clip: Auburn Student Says Israel Attacked Iran Despite Trump Advising Against It
+
+Claim Timestamp: 00:39:12
+
+Claim: In the played Auburn clip, a student tells Eric and Laura Trump that during the summer, even though Trump advised against it, Israel still attacked Iran and the US still bombed on behalf of Israel.
+
+Transcript Snippet: During the summer against Iran, even though he advised against it, Israel still attacked Iran and the US still bombed on behalf of Israel.
+
+Anchored Artifacts: A-1363.1
+Mentions: N-34, N-383
+Tags: relevance:context
+Investigative Direction: Compare with the June 2025 timeline of Israeli and US strikes on Iran and public statements of what Trump advised.
+
+---
+
+**C-9686** Clip: Auburn Student Says Trump Cursed on National TV Over Netanyahu
+
+Claim Timestamp: 00:40:03
+
+Claim: In the played Auburn clip, the student says Trump's frustrations with Netanyahu were made clear when he cursed on national TV over the situation.
+
+Transcript Snippet: Your father's frustrations with the Netanyahu have been made clear when he cursed on national TV over the situation.
+
+Anchored Artifacts: A-1363.1
+Mentions: N-34, N-383, N-36
+Tags: relevance:context
+Investigative Direction: Identify the televised remark the student refers to and its date.
+
+---
+
+**C-9687** Clip: Auburn Student Dates the USS Liberty Attack to 1960
+
+Claim Timestamp: 00:40:03
+
+Claim: In the played Auburn clip, the student says Israel has not been a great ally since 1960 when it bombed the USS Liberty.
+
+Transcript Snippet: Israel has not been a great ally to the US all the way since 1960 when they bombed the USS Liberty.
+
+Anchored Artifacts: A-1363.1
+Mentions: N-34, N-383
+Related Nodes: N-10451
+Tags: relevance:tangential
+Investigative Direction: The attack on the USS Liberty is generally dated to 1967; record the student's date as said and verify against the historical record.
+
+---
+
+**C-9688** Clip: Eric Trump Says His Father Has Had Frustration With Both Sides
+
+Claim Timestamp: 00:40:42
+
+Claim: In the played Auburn clip, Eric Trump responds that there is no question his father has had frustration with both sides throughout the conflict.
+
+Transcript Snippet: There's no question my my father's had frustration. In fact, I think he says frustration throughout the whole conflict with with both sides.
+
+Anchored Artifacts: A-1363.1
+Mentions: N-34, N-383
+Tags: relevance:context
+Investigative Direction: Cross-check against public statements by Donald Trump about frustration with Netanyahu and with Iran.
+
+---
+
+**C-9689** Clip: Laura Trump Cites Armenia-Azerbaijan and Thailand-Cambodia as Trump Peace Wins
+
+Claim Timestamp: 00:41:34
+
+Claim: In the played Auburn clip, a speaker answering the student cites a 40-year war between Armenia and Azerbaijan and a five-day war between Thailand and Cambodia as examples of the president's peace through strength.
+
+Transcript Snippet: whether we're talking about a 40-year war like Armenia and Azeraijan, as Eric just pointed out, a five-day war in Thailand and Cambodia.
+
+Anchored Artifacts: A-1363.1
+Mentions: N-383, N-34
+Tags: relevance:tangential
+Investigative Direction: Verify the durations and outcomes of the cited conflicts and the speaker's identity in the full clip.
+
+---
+
+**C-9690** Host Says the Trump Children Know About Kushner's Middle East Deals and Gaza Benefit
+
+Claim Timestamp: 00:42:27
+
+Claim: The host says the Trump family members know about Jared Kushner and his deals with Ivanka and the Middle East, how much money they are set to make, and that Gaza being destroyed is beneficial to their bank accounts.
+
+Transcript Snippet: they know about Jared uh and his deals with Ivanka and the Middle East and how much money they're set to make and you know Gaza being destroyed is actually beneficial uh to their bank accounts.
+
+Anchored Artifacts: 
+Mentions: N-34, N-383, N-182, N-674
+Related Nodes: N-10063
+Tags: relevance:context
+Investigative Direction: Review Kushner's Affinity Partners Middle East investments and public statements on Gaza redevelopment.
+
+---
+
+**C-9691** Host Says Students Are Told They Cannot Raise Israel on Campus Without Risk of Arrest
+
+Claim Timestamp: 00:43:11
+
+Claim: The host says young people are lectured and told they are not allowed to bring up Israel on college campuses or risk being arrested under stricter anti-semitism laws.
+
+Transcript Snippet: we get to get lectured and told that we're not even allowed to bring up Israel on college campuses or risk being like um arrested getting stricter on anti-semitism laws.
+
+Anchored Artifacts: 
+Mentions: N-34, N-383
+Related Nodes: N-10081
+Tags: relevance:context
+Investigative Direction: Identify specific campus arrests or state anti-semitism laws the host may be referring to.
+
+---
+
+**C-9692** Host Says Netanyahu Bought TikTok
+
+Claim Timestamp: 00:43:11
+
+Claim: The host says that the Trumps expected this generation to get behind their speech because Netanyahu bought TikTok; the transcript wording is garbled ('what BB bought TikTok').
+
+Transcript Snippet: you thought that this generation was going to get behind it because what BB bought TikTok.
+
+Anchored Artifacts: 
+Mentions: N-36, N-34, N-383
+Related Nodes: N-11096
+Tags: relevance:tangential
+Investigative Direction: Verify what the host means; check reporting on the TikTok US ownership deal and any Netanyahu statement about TikTok.
+
+---
+
+**C-9693** Host Says Pressure to Stop Investigating Comes From People Who Were Not Charlie's Friends
+
+Claim Timestamp: 00:48:20
+
+Claim: The host says people who were not friends with Charlie, and she says it is always the pro-Israel lobby, are trying to struggle-session her into no longer investigating what happened so that she gets a clean bill of health for not attacking a widow.
+
+Transcript Snippet: people that weren't friends with Charlie, okay, are trying to struggle session us into no longer investigating
+
+Anchored Artifacts: 
+Mentions: N-1, N-2, N-3
+Related Nodes: N-10025
+Tags: relevance:core
+Investigative Direction: Compile the public figures who have demanded the host stop or disavow the investigation and test their ties to Kirk.
+
+---
+
+**C-9694** Host Says Israel Immediately Said It Was Not Them
+
+Claim Timestamp: 00:49:08
+
+Claim: The host says that right from the beginning Israel did not act right, that it said immediately it was not them, and that she finds it odd to jump up and say it wasn't you.
+
+Transcript Snippet: We didn't do it immediately. It wasn't us. Oh, that's kind of weird. That's kind of weird that you're just jumping up and saying that it wasn't you.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10026, N-10056
+Tags: relevance:core
+Investigative Direction: Find the dated Israeli official statements after September 10, 2025 denying involvement and compare timing with other governments' statements.
+
+---
+
+**C-9695** Host Confirms Shapiro Said 'Pick Up His Bloodstained Microphone' After Kirk's Death
+
+Claim Timestamp: 00:49:08
+
+Claim: Responding to a viewer comment, the host says Ben Shapiro did say, right after Charlie died, that he would be the one to pick up his bloodstained microphone.
+
+Transcript Snippet: That is right. Ben did say that right after Charlie died
+
+Anchored Artifacts: A-3026.1
+Mentions: N-97, N-1
+Tags: relevance:core
+Investigative Direction: Find Shapiro's post-assassination statement containing the bloodstained microphone line and its date.
+
+---
+
+**C-9696** Host Says Fuentes's Reaction and Lying About How She Treated Him First Made Her Think He Was an Op
+
+Claim Timestamp: 00:50:35
+
+Claim: The host says that after she invited Nick Fuentes on her podcast, the way he reacted and lied about how she treated him was the first thing that made her think he was an op, and that she does not trust the Fuentes thing.
+
+Transcript Snippet: the sense that I got with how he reacted and lied about how we treated him is the first thing that made me think he was an op
+
+Anchored Artifacts: A-3026.2
+Mentions: N-205, N-3
+Related Nodes: N-10424
+Tags: relevance:context
+Investigative Direction: Compare the host's account of the interview planning with Fuentes's own account and any messages between their teams.
+
+---
+
+**C-9697** Host Says Shapiro's Side Demanded Kirk Never Host a Guest After Losing a Debate
+
+Claim Timestamp: 00:52:55
+
+Claim: The host says that even when they debate, they do what they did to Charlie Kirk and afterwards get so angry that they lost that they try to squeeze him and tell him he can never host this person again.
+
+Transcript Snippet: even when they do debate, they then do what they did to Charlie Kirk and afterwards get so angry that they lost the debate that they try to squeeze him and tell him he can never host this person ever again because they lost.
+
+Anchored Artifacts: 
+Mentions: N-1, N-97
+Tags: relevance:context
+Investigative Direction: Identify the debate and the guest the host means and any messages from Shapiro's side to Kirk afterward; the referent of 'they' is not specified.
 
 ---
 

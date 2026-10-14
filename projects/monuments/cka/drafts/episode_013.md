@@ -33,8 +33,8 @@
 ### Episode X Ledger Summary
 - Artifact Families Introduced: A-1196, A-1197, A-1198, A-1199, A-1200, A-1201, A-1202, A-1203, A-1204, A-1205, A-1206, A-1207, A-1208
 - Claim Range: C-1337–C-1353, C-3754
-  - New Nodes Introduced:  N-136, N-137, N-138, N-139, N-140, N-141, N-142, N-143, N-144, N-145, N-10152, N-10153, N-10154, N-10155, N-10156, N-10157
-  - Reused Nodes Appearing: N-3, N-40, N-126
+  - New Nodes Introduced: N-136, N-138, N-139, N-140, N-141, N-142, N-143, N-144, N-145, N-10152, N-10153, N-10154, N-10155, N-10157
+  - Reused Nodes Appearing: N-3, N-40, N-126, N-137, N-10156
 
 Third, a Phil Lyman campaign endorsement by George Zinn is documented via Wayback Machine dating back to at least June 6, 2024; this is presented to address earlier speculation rather than to advance new claims.
 
@@ -366,7 +366,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-141** Constantine Kissen
+**N-141** Konstantin Kisin
 X account / commenter who joined the Florida Dab → Megyn Kelly thread; described by host as an "agent of Israel."
 
 Evidence Count: 2

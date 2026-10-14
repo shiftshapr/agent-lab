@@ -402,6 +402,106 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3021",
+      "family_ref": "A-3021",
+      "bundle_name": "Sam Parker Green Hoodie Exchange Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3021.1",
+          "ref": "A-3021.1",
+          "description": "Host verbal reference to her X reply with a clear image of the green-hoodie figure and Colby Sessions' answer (not shown separately)",
+          "related_claims": [
+            "C-9606"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:25:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3022",
+      "family_ref": "A-3022",
+      "bundle_name": "Allie Beth Stuckey Text Exchange Screenshot Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3022.1",
+          "ref": "A-3022.1",
+          "description": "Host reading of the Charlie Kirk and Allie Beth Stuckey text exchange Stuckey shared (displayed to viewers, text read aloud)",
+          "related_claims": [
+            "C-9615"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:35:13",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3023",
+      "family_ref": "A-3023",
+      "bundle_name": "Yale Political Union Debate Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3023.1",
+          "ref": "A-3023.1",
+          "description": "Host verbal reference to a photo of the Yale Political Union debate attended by about 70 people (shown, not described in detail)",
+          "related_claims": [
+            "C-9619"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:38:56",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3024",
+      "family_ref": "A-3024",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3024.1",
+          "ref": "A-3024.1",
+          "description": "Host verbal reference to the tip email address moretips@candaceowens.com (verbal call for tips to UVU TPUSA chapter staff)",
+          "related_claims": [
+            "C-9637"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:54:40",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -860,7 +960,15 @@
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9589",
+        "C-9590",
+        "C-9594",
+        "C-9600",
+        "C-9641",
+        "C-9642",
+        "C-9644"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -876,7 +984,69 @@
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9584",
+        "C-9585",
+        "C-9586",
+        "C-9587",
+        "C-9588",
+        "C-9589",
+        "C-9591",
+        "C-9592",
+        "C-9593",
+        "C-9594",
+        "C-9595",
+        "C-9596",
+        "C-9597",
+        "C-9598",
+        "C-9599",
+        "C-9601",
+        "C-9602",
+        "C-9603",
+        "C-9604",
+        "C-9605",
+        "C-9606",
+        "C-9607",
+        "C-9608",
+        "C-9609",
+        "C-9610",
+        "C-9611",
+        "C-9612",
+        "C-9613",
+        "C-9614",
+        "C-9615",
+        "C-9616",
+        "C-9617",
+        "C-9618",
+        "C-9619",
+        "C-9620",
+        "C-9621",
+        "C-9622",
+        "C-9623",
+        "C-9624",
+        "C-9625",
+        "C-9626",
+        "C-9627",
+        "C-9628",
+        "C-9629",
+        "C-9630",
+        "C-9631",
+        "C-9632",
+        "C-9633",
+        "C-9634",
+        "C-9635",
+        "C-9636",
+        "C-9637",
+        "C-9638",
+        "C-9639",
+        "C-9640",
+        "C-9641",
+        "C-9642",
+        "C-9643",
+        "C-9644",
+        "C-9645",
+        "C-9646"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -907,13 +1077,803 @@
       "type": "investigation_target",
       "description": "Public denial of Wilson debate funding / Latvian contractors vs Discord instructions and orbit money.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-9602",
+        "C-9604",
+        "C-9608",
+        "C-9611",
+        "C-9622",
+        "C-9627",
+        "C-9629",
+        "C-9630",
+        "C-9635",
+        "C-9636",
+        "C-9637"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11228",
+      "ref": "N-11228",
+      "name": "Candace Podcast Ranking and Operations",
+      "type": "topic",
+      "description": "The host's account of the Candace podcast reaching number one worldwide, its lack of ad spend, small team and start-up conditions.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9584",
+        "C-9588",
+        "C-9646"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Ben Shapiro; named in the host's thanks for her Daily Wire firing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9585"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-374",
+      "ref": "N-374",
+      "name": "Jeremy Boreing",
+      "type": "person",
+      "description": "Jeremy Boreing; named in the host's thanks for her Daily Wire firing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9585"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-27",
+      "ref": "N-27",
+      "name": "Kanye West",
+      "type": "person",
+      "description": "Kanye West; his song Power is cited by the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9586"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-863",
+      "ref": "N-863",
+      "name": "Tony Burke",
+      "type": "person",
+      "description": "First named by the host at 00:03:43 in episode 027 as the Australian official she says banned her from the country.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9587"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-68",
+      "ref": "N-68",
+      "name": "Skyler",
+      "type": "person",
+      "description": "Skyler; producer on the host's team.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9588",
+        "C-9646"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "JD Vance; co-headliner of the Ole Miss event with Erika.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9589"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10006",
+      "ref": "N-10006",
+      "name": "Fox News",
+      "type": "investigation_target",
+      "description": "Fox News; carried the Erika Kirk interview.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9589",
+        "C-9600"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Tyler Robinson; the person in custody, named in the host's forgiveness remarks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9590",
+        "C-9592",
+        "C-9593",
+        "C-9623"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Charlie Kirk; subject of the host's statements about his faith, the UVU event and his death.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9591",
+        "C-9592",
+        "C-9598",
+        "C-9599",
+        "C-9601",
+        "C-9602",
+        "C-9609",
+        "C-9611",
+        "C-9612",
+        "C-9613",
+        "C-9614",
+        "C-9615",
+        "C-9616",
+        "C-9617",
+        "C-9627",
+        "C-9628",
+        "C-9630",
+        "C-9634",
+        "C-9635",
+        "C-9636",
+        "C-9642",
+        "C-9643",
+        "C-9644"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 23,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10337",
+      "ref": "N-10337",
+      "name": "Tyler Robinson Prosecution Evidence Base",
+      "type": "investigation_target",
+      "description": "Tyler Robinson Prosecution Evidence Base; lone-actor question.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9592"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-11",
+      "ref": "N-11",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "Tyler Bowyer; TPUSA chair, subject of footage and conduct remarks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9595",
+        "C-9604"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10055",
+      "ref": "N-10055",
+      "name": "Federal Footage Sweep",
+      "type": "investigation_target",
+      "description": "Federal Footage Sweep; footage withheld, per host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9595",
+        "C-9597"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Utah Valley University; site of the contested event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9596",
+        "C-9607",
+        "C-9614",
+        "C-9621",
+        "C-9637"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10175",
+      "ref": "N-10175",
+      "name": "UVU Left-Side Footage Black Hole",
+      "type": "investigation_target",
+      "description": "UVU Left-Side Footage Black Hole; camera coverage question.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9596"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10104",
+      "ref": "N-10104",
+      "name": "Catholic Conversion Rumor",
+      "type": "investigation_target",
+      "description": "Catholic Conversion Rumor; host's Catholic-curious account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9598",
+        "C-9599",
+        "C-9633",
+        "C-9636"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10164",
+      "ref": "N-10164",
+      "name": "Charlie Kirk Catholic Trajectory Verification",
+      "type": "investigation_target",
+      "description": "Charlie Kirk Catholic Trajectory Verification; Mass attendance and conversion.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9598",
+        "C-9599",
+        "C-9609"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10319",
+      "ref": "N-10319",
+      "name": ".30-06 Forensic Narrative Validity",
+      "type": "investigation_target",
+      "description": ".30-06 Forensic Narrative Validity; host says the neck could not have stopped it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9601"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11104",
+      "ref": "N-11104",
+      "name": "Liberty University",
+      "type": "investigation_target",
+      "description": "Liberty University; venue of Charlie's slated speaking slot.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9602",
+        "C-9628"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11098",
+      "ref": "N-11098",
+      "name": "Alex Clark WSJ Memorial Photo Controversy",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9605",
+        "C-9626"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-185",
+      "ref": "N-185",
+      "name": "Sam Parker",
+      "type": "person",
+      "description": "Sam Parker; asked who the green-hoodie figure was.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9606"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-166",
+      "ref": "N-166",
+      "name": "Matt Walsh",
+      "type": "person",
+      "description": "Matt Walsh; cited on disloyalty of public sniping.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9610"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-33",
+      "ref": "N-33",
+      "name": "Donald Trump Jr.",
+      "type": "person",
+      "description": "Donald Trump Jr.; named among those campuses want to host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9612"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10224",
+      "ref": "N-10224",
+      "name": "UVU Event Approval Timeline Anomaly",
+      "type": "investigation_target",
+      "description": "UVU Event Approval Timeline Anomaly; booking lead-time.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9612",
+        "C-9614",
+        "C-9621"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11229",
+      "ref": "N-11229",
+      "name": "Yale Political Union",
+      "type": "organization",
+      "description": "Yale student debating society, which the host says has existed since 1934 and hosted the Lila Rose debate she cites.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9618",
+        "C-9619"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-102",
+      "ref": "N-102",
+      "name": "Michael Knowles",
+      "type": "person",
+      "description": "Michael Knowles; effigy burned at a TPUSA event, per host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9622"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10013",
+      "ref": "N-10013",
+      "name": "Discord",
+      "type": "investigation_target",
+      "description": "Discord; platform of the Fed Discord messages.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9623"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10014",
+      "ref": "N-10014",
+      "name": "Federal Bureau of Investigation",
+      "type": "investigation_target",
+      "description": "FBI; the Feds in the Discord remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9623"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-616",
+      "ref": "N-616",
+      "name": "Ian Miles Cheong",
+      "type": "person",
+      "description": "Ian Miles Cheong; named as a recipient of Cordova's clips, per host allegation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9625"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11014",
+      "ref": "N-11014",
+      "name": "TPUSA Post-Assassination Merchandise Revenue Claim",
+      "type": "investigation_target",
+      "description": "TPUSA Post-Assassination Merchandise Revenue Claim; T-shirts and revenue.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9629",
+        "C-9630"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11230",
+      "ref": "N-11230",
+      "name": "Alex Clark Tribute Episode Ad Dispute",
+      "type": "topic",
+      "description": "Dispute over whether Alex Clark skipped ads on Charlie tribute episodes and whether the host's podcast should be criticized for running ads.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9631",
+        "C-9632"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-119",
+      "ref": "N-119",
+      "name": "Elon Musk",
+      "type": "person",
+      "description": "Elon Musk; DOGE did not exist before him, per host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9634"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10132",
+      "ref": "N-10132",
+      "name": "TPUSA DOGE Department / Financial Audit",
+      "type": "investigation_target",
+      "description": "TPUSA DOGE Department / Financial Audit; DOGE remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9634"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11171",
+      "ref": "N-11171",
+      "name": "Kirk \"Internet DOGE\" Money-Tracing Effort",
+      "type": "investigation_target",
+      "description": "Kirk Internet DOGE Money-Tracing Effort; DOGE remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9634"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10209",
+      "ref": "N-10209",
+      "name": "TPUSA Faith / Christian Zionist Infiltration Question",
+      "type": "investigation_target",
+      "description": "TPUSA Faith / Christian Zionist Infiltration Question; donor-pressure framing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9636"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10253",
+      "ref": "N-10253",
+      "name": "Egyptian Military Plane Tracking Investigation",
+      "type": "investigation_target",
+      "description": "Egyptian Military Plane Tracking Investigation; cited as a prior nerve-hit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9638"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10432",
+      "ref": "N-10432",
+      "name": "TPUSA Non-Disparagement Enforcement Campaign",
+      "type": "investigation_target",
+      "description": "TPUSA Non-Disparagement Enforcement Campaign; NDA remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9639"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-82",
+      "ref": "N-82",
+      "name": "Brigitte Macron",
+      "type": "person",
+      "description": "Brigitte Macron; subject of the host's tangential remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9640"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10687",
+      "ref": "N-10687",
+      "name": "Frank Turek CPR Claim Verification",
+      "type": "investigation_target",
+      "description": "Frank Turek CPR Claim Verification; stage remarks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9643"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-384",
+      "ref": "N-384",
+      "name": "Ian Carroll",
+      "type": "person",
+      "description": "Ian Carroll; named as a regular text contact.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9645"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-39",
+      "ref": "N-39",
+      "name": "Dave Smith",
+      "type": "person",
+      "description": "Dave Smith; named as a regular text contact.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9645"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-864",
+      "ref": "N-864",
+      "name": "Jimmy Dore",
+      "type": "person",
+      "description": "First named by the host at 01:04:09 in episode 027 as a commentator a viewer suggested she team up with.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9645"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-30",
+      "ref": "N-30",
+      "name": "George (Candace's husband)",
+      "type": "person",
+      "description": "The host's husband; runs the business side of the podcast.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9646"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1309,7 +2269,1362 @@
         "N-3",
         "N-99"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9584",
+      "ref": "C-9584",
+      "label": "Host Says Podcast Spent Nothing on Advertising in Its First Year and a Half",
+      "claim": "The host says her podcast reached number one worldwide without promotion and that since it started a year and a half ago she has not spent a single dollar on advertising.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11228"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:19",
+      "investigative_direction": "Compare Podscribe ranking data for the date with any ad-spend disclosures from the show.",
+      "transcript_snippet": "which means we have not spent, since we started this podcast a year and a half ago, a single dollar on advertising, okay?",
+      "supports_claim_refs": [
+        "C-1617"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9585",
+      "ref": "C-9585",
+      "label": "Host Says Daily Wire Leaders Fired Her",
+      "claim": "The host says Ben Shapiro and Jeremy Boreing fired her, thanking them sarcastically for the firing and its publicity.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:10",
+      "investigative_direction": "Review the 2024 separation announcements from the host and Daily Wire for the stated reason and date.",
+      "transcript_snippet": "I thank Ben Shapiro. I thank Jeremy Boring. I thank the direction of travel, and they realizing it before I did, um that I should be fired.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-97",
+        "N-374"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9586",
+      "ref": "C-9586",
+      "label": "Host Says She Stopped Doing the Pro-Israel Thing",
+      "claim": "The host says there came a point when she no longer wanted to do the pro-Israel thing and did not follow the crowd, comparing herself to the Kanye West song Power.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:02:10",
+      "investigative_direction": "Compare the host's pre-2024 statements on Israel with later ones to date the change.",
+      "transcript_snippet": "I know the crowd is doing this, but I'm not doing it.\" And that was me when I no longer wanted to do the pro-Israel thing.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9587",
+      "ref": "C-9587",
+      "label": "Host Says Australia Banned Her",
+      "claim": "The host says Australian minister Tony Burke banned her from the entire country, and at 01:01:57 says she can reapply in about a year.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:43",
+      "investigative_direction": "Check the Australian Home Affairs visa decision and the stated reason and reapplication period.",
+      "transcript_snippet": "Tony Burke, thank you for banning us from an entire country, even though I didn't do nothing.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-863"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9588",
+      "ref": "C-9588",
+      "label": "Host Says Four People Work on the Podcast Every Day",
+      "claim": "The host says only four people work on the actual podcast every day and that the team has stayed small.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11228"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:22",
+      "investigative_direction": "Compare with the staff the host later describes or lists in company filings.",
+      "transcript_snippet": "There's just four of us, uh that work on the actual podcast every day.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-67",
+        "N-68"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9589",
+      "ref": "C-9589",
+      "label": "Host Says Watters Also Followed Erika at the Ole Miss Event With Vance",
+      "claim": "The host says Jesse Watters, who hosted the Fox News interview with Erika Kirk, also trailed her at the University of Mississippi event she did with J. D. Vance.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10006",
+        "N-10233"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:17",
+      "investigative_direction": "Obtain the Ole Miss event date, the Fox News Primetime broadcast date and any pooled footage.",
+      "transcript_snippet": "also trailed her at the event that she did with J. D. Vance at the University of Mississippi.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-215",
+        "N-2",
+        "N-4"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9590",
+      "ref": "C-9590",
+      "label": "Host Says Erika Told the Memorial Crowd She Forgave the Killer",
+      "claim": "The host says Erika Kirk said on stage, quite quickly after the assassination, that she forgave him.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:07:26",
+      "investigative_direction": "Pull the memorial-service video and transcript for the forgiveness statement and its timing.",
+      "transcript_snippet": "she got up on stage, and she said that I forgive him pretty pretty instantly.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9591",
+      "ref": "C-9591",
+      "label": "Host Says Memorial Event Was on the 21st, Nine Days After the Assassination",
+      "claim": "The host says, after a correction from her director, that the memorial event was on the 21st, nine days after the assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:07:26",
+      "investigative_direction": "Confirm the memorial service date; the host's arithmetic of nine days does not match the 21st if the shooting was September 10, so check against the official date.",
+      "transcript_snippet": "Nine days after he was assassinated. Oh, sorry, the 21st. Mansplained in my ear.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-67"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9592",
+      "ref": "C-9592",
+      "label": "Host Says She Does Not Believe Robinson Was the Lone Person Involved",
+      "claim": "The host says she does not believe Tyler Robinson was the lone person involved and does not think he is the person who killed Charlie Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10337"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:23",
+      "investigative_direction": "Compare with the prosecution's evidence base and any filings naming co-participants.",
+      "transcript_snippet": "I don't believe that he was the lone person involved. I don't even think this person that killed Charlie Kirk.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9593",
+      "ref": "C-9593",
+      "label": "Host Says She Cannot Forgive Until She Knows What Happened",
+      "claim": "The host says she cannot forgive Tyler Robinson because she does not know what she would be forgiving until she knows what happened.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:11:10",
+      "investigative_direction": "Opinion framing; track whether the host later states what she believes happened.",
+      "transcript_snippet": "it's because I cannot forgive until I know what happened. I don't know what I'm forgiving actually until I know what happened.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9594",
+      "ref": "C-9594",
+      "label": "Host Says the Public Has Not Seen the Autopsy Report",
+      "claim": "The host says that, unlike Erika Kirk, none of the public has seen the autopsy report.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10229"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:00",
+      "investigative_direction": "Check whether the Utah autopsy record has been released or sealed.",
+      "transcript_snippet": "Obviously, we have none of us have seen the autopsy report.",
+      "supports_claim_refs": [
+        "C-1621"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9595",
+      "ref": "C-9595",
+      "label": "Host Says Bowyer Claimed TPUSA Has 4K Footage",
+      "claim": "The host says Tyler Bowyer said they have footage in 4K of everything from when Charlie was tweeting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10055"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:46",
+      "investigative_direction": "Find Bowyer's original statement and ask TPUSA what 4K footage exists and who holds it.",
+      "transcript_snippet": "Tyler Bowyer said, we have footage in 4K all of the stuff when he was tweeting.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-11"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9596",
+      "ref": "C-9596",
+      "label": "Host Says Someone Claimed Every Area of the University Is Covered by Cameras",
+      "claim": "The host says someone other than the university said that at every angle every area of the university is covered by cameras.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-10175"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:46",
+      "investigative_direction": "Identify who made the claim and obtain the UVU camera inventory and retention records.",
+      "transcript_snippet": "not the university, but somebody else was was saying that you know, at every angle, every area of the university is covered.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9597",
+      "ref": "C-9597",
+      "label": "Host Says the Excuse for Withholding Footage Was Not Impacting the Case",
+      "claim": "The host says the excuse given for not showing the public the footage was that it might impact the case, and that it never made sense to her given a manhunt was underway.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10055"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:46",
+      "investigative_direction": "Find the official statements giving the reason and the timing of any footage releases during the manhunt.",
+      "transcript_snippet": "Their excuse for not showing the public was they didn't want it to in any way impact the case.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9598",
+      "ref": "C-9598",
+      "label": "Host Says Her Tribute Said Only That They Hoped Charlie Would Become Catholic",
+      "claim": "The host says her tribute video said they were all hoping Charlie would take the step and become Catholic, giving no details, after which Christian Zionist influencers said it was untrue.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10104",
+        "N-10164"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:02",
+      "investigative_direction": "Check the tribute video and the influencers' responses against what was said.",
+      "transcript_snippet": "we were all hoping that he was going to take the step and become Catholic. Gave no details",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9599",
+      "ref": "C-9599",
+      "label": "Host Says Charlie Did Not Convert to Catholicism",
+      "claim": "The host says she said from the beginning that Charlie Kirk did not convert to Catholicism and that she only reported where he was on his spiritual journey.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10104",
+        "N-10164"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:02",
+      "investigative_direction": "Ask Charlie's priests and Church records whether he was baptized or received into the Church.",
+      "transcript_snippet": "Like I said from the beginning, he didn't convert to Catholicism.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9600",
+      "ref": "C-9600",
+      "label": "Erika Says Her Phone Went Dark for Weeks and She Insulated Herself",
+      "claim": "In the Fox News audio, Erika Kirk says her phone died, became a black hole, and she did not turn it on for weeks, and that she intentionally insulated herself to guard her heart.",
+      "anchored_artifacts": [
+        "A-1346.4"
+      ],
+      "related_nodes": [
+        "N-10006"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:10",
+      "investigative_direction": "Compare with Erika's public posting and contact record in the weeks after September 10.",
+      "transcript_snippet": "my phone died. It became a black hole. I just didn't turn it on for weeks on end.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9601",
+      "ref": "C-9601",
+      "label": "Host Says Officials Told Obvious Lies Including a .30-06 Stopped by the Neck",
+      "claim": "The host says the feds are telling obvious lies, number one being that Charlie was shot by a .30-06 and the bullet was stopped when in a normal circumstance it would have decapitated him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10319"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:31",
+      "investigative_direction": "Obtain the ballistics report, caliber finding and wound description from the official record.",
+      "transcript_snippet": "Number one being that he was shot by a.30-06 and stopped the bullet when in a normal circumstance it would have decapitated him.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9602",
+      "ref": "C-9602",
+      "label": "Host Says Mikey McCoy Was Billed to Take Over Charlie's Liberty Event",
+      "claim": "The host says TPUSA has said Mikey McCoy will take over Charlie's Liberty University event, which is going to be sold out, and that TPUSA faith directors tell people he has what it takes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11104",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:44",
+      "investigative_direction": "Find the Liberty University convocation schedule and any TPUSA announcement of McCoy as replacement.",
+      "transcript_snippet": "Mikey's going to take over for Charlie at his Liberty convocate or Liberty event that he has which is is going to be sold out",
+      "mentions_person_refs": [
+        "N-3",
+        "N-194",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9603",
+      "ref": "C-9603",
+      "label": "Host Says She Took Two Weeks Away and Took the Show Off the Air for Days",
+      "claim": "The host says she went away for two weeks to collect her thoughts about the trauma of having watched the shooting and took the show off the air for a couple of days.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:22:40",
+      "investigative_direction": "Compare with the show's publishing record in September 2025.",
+      "transcript_snippet": "I had to go away for 2 weeks to collect my thoughts about the trauma that I saw having watched it.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9604",
+      "ref": "C-9604",
+      "label": "Host Calls Tyler Bowyer a Sexual Deviant",
+      "claim": "The host, objecting to calls for grace for Tyler Bowyer, says he is a sexual deviant and that the company he heads should be committed to truth.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:14",
+      "investigative_direction": "Allegation stated without evidence on air; ask the host what documents support it.",
+      "transcript_snippet": "Tyler Bowyer is a sexual deviant, right?",
+      "mentions_person_refs": [
+        "N-3",
+        "N-11"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9605",
+      "ref": "C-9605",
+      "label": "Host Says Alex Clark Wanted the WSJ Moment Until Host Caught a Lie",
+      "claim": "The host says Alex Clark wanted to do the Wall Street Journal thing until the host caught a lie about what she said about Catholics.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11098"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:54",
+      "investigative_direction": "Identify the WSJ piece and Clark's statements about Catholicism that the host calls untrue.",
+      "transcript_snippet": "Alex Clark wanted to do the Wall Street Journal thing until I caught like this little lie",
+      "mentions_person_refs": [
+        "N-3",
+        "N-99"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9606",
+      "ref": "C-9606",
+      "label": "Host Says She Posted a Clear Image of the Green Hoodie Figure",
+      "claim": "The host says that after Sam Parker asked who the guys in the video were, she replied with a clear image of the person in the green hoodie and he quickly answered that it was him.",
+      "anchored_artifacts": [
+        "A-3021.1"
+      ],
+      "related_nodes": [
+        "N-10232"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:01",
+      "investigative_direction": "Retrieve the original post thread with timestamps.",
+      "transcript_snippet": "I then respond and I'm like, \"Here's a clear image of this person, the actual person wearing the green hoodie.\"",
+      "mentions_person_refs": [
+        "N-3",
+        "N-185",
+        "N-235"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9607",
+      "ref": "C-9607",
+      "label": "Host Believes Colby Sessions Is on the UVU Soccer Team",
+      "claim": "The host says she thinks Colby Sessions is on the soccer team at UVU.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:01",
+      "investigative_direction": "Check the UVU athletics roster for Sessions.",
+      "transcript_snippet": "I think he's on the soccer team at UVU.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-235"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9608",
+      "ref": "C-9608",
+      "label": "Host Says TPUSA Staff Were Back on Their Feet and Sharing Memories the Next Day",
+      "claim": "The host says that, despite claiming to be in mourning, TPUSA figures were back on their feet the next day, giddy, and sharing detailed memories of the day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:41",
+      "investigative_direction": "Collect dated interviews and posts from TPUSA staff on September 11-12.",
+      "transcript_snippet": "they were like back on their feet the next day and giddy and sharing memories and talking about what happened on that day in detail.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9609",
+      "ref": "C-9609",
+      "label": "Host Says Charlie Went to Mass Sometimes Daily and Died With the Pendant",
+      "claim": "The host says she would have told Allie Beth Stuckey privately that Charlie was going to Mass sometimes daily, was going on Sundays, and died with the pendant.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10230",
+        "N-10164"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:15",
+      "investigative_direction": "Ask the priests and parishes involved for attendance records; examine the pendant in evidence inventory.",
+      "transcript_snippet": "he was going to mass sometimes daily. He was going on Sundays. Uh he died with the pendant.",
+      "supports_claim_refs": [
+        "C-1622"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-232",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9610",
+      "ref": "C-9610",
+      "label": "Host Says Matt Walsh Calls Public Sniping Instead of Texting Disloyal",
+      "claim": "The host says Matt Walsh recently said he views it as a form of disloyalty to go on your platform about someone you could ask directly.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:30:15",
+      "investigative_direction": "Find Walsh's statement.",
+      "transcript_snippet": "This is one of the things that Matt Walsh recently said that he views it as such a form of disloyalty",
+      "mentions_person_refs": [
+        "N-3",
+        "N-166",
+        "N-232"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9611",
+      "ref": "C-9611",
+      "label": "Host Says She Headlined More TPUSA Campus Tours Than Anyone",
+      "claim": "The host says she worked at Turning Point USA and toured with Charlie the most, claiming no one has headlined more TPUSA campus tours than she has.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:15",
+      "investigative_direction": "Compare TPUSA tour rosters 2018-2024 for headliner counts.",
+      "transcript_snippet": "I headlined more tour Turning Point USA um uh campus tours than Candace Owens.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9612",
+      "ref": "C-9612",
+      "label": "Host Says Events Are Booked the Semester Before With a Long Waiting List",
+      "claim": "The host says TPUSA campus events are booked the semester before and there is a long waiting list for Charlie, Candace or Don Jr.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10228",
+        "N-10224"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:15",
+      "investigative_direction": "Obtain TPUSA event-booking lead times for past semesters; the host offers semester-by-semester emails.",
+      "transcript_snippet": "these events are booked the semester before, okay? There's a long waiting list.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-33",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9613",
+      "ref": "C-9613",
+      "label": "Host Says Hostile Administrations Made Her Stanford Event Hard Despite the Organizer's Name on a Building",
+      "claim": "The host says that when she and Charlie spoke at Stanford, the student organizer, whose family name was on a Stanford building, still had a hard time putting the event together.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:33:06",
+      "investigative_direction": "Identify the Stanford event, date and organizer.",
+      "transcript_snippet": "the girl who put the student who put the event together, her grandfather owned one of the buildings at Stanford.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9614",
+      "ref": "C-9614",
+      "label": "Host Says a Summer Request Honored Immediately Has Never Happened on Her Tours",
+      "claim": "The host says that in her eight or nine semesters touring with Charlie it never happened that a college made a request over the summer when school was closed and TPUSA honored it immediately.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10228",
+        "N-10224",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:06",
+      "investigative_direction": "Obtain the UVU request email, its dates, and TPUSA's calendar entry date.",
+      "transcript_snippet": "it's never happened that a college makes a request over the summer when school is closed",
+      "supports_claim_refs": [
+        "C-1625"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9615",
+      "ref": "C-9615",
+      "label": "Host Says Stuckey's Shared Text Shows Charlie Offering Nov 3 at Auburn or South Alabama",
+      "claim": "The host reads from the private chat Allie Beth Stuckey shared, in which Charlie Kirk offers a November 3rd 6:30 p.m. event at Auburn or the University of South Alabama.",
+      "anchored_artifacts": [
+        "A-3022.1"
+      ],
+      "related_nodes": [
+        "N-10228"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:13",
+      "investigative_direction": "Obtain the full screenshot with date and sender; confirm the Auburn and South Alabama event dates.",
+      "transcript_snippet": "November 3rd at 6:30 p. m. Either Auburn, which has 5,000 seats, or the University of Southern Alabama.",
+      "supports_claim_refs": [
+        "C-1625"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-232",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9616",
+      "ref": "C-9616",
+      "label": "Host Says Students Are Told to Hold Two Dates and Planning Had Not Started",
+      "claim": "The host says that students are often told to hold two possible dates and that the events were already approved and planning did not start when Charlie texted Stuckey.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10228"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:03",
+      "investigative_direction": "Ask the Auburn and South Alabama TPUSA chapters when they submitted requests.",
+      "transcript_snippet": "They did not start planning that event when Charlie texted you. I can guarantee you that, okay?",
+      "mentions_person_refs": [
+        "N-3",
+        "N-232",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9617",
+      "ref": "C-9617",
+      "label": "Host Says She Checked and Both Alabama Events Happened This Semester",
+      "claim": "The host says she and Charlie would divide and conquer on the same day and that she checked and TPUSA held both the Auburn and South Alabama events this semester.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10228"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:03",
+      "investigative_direction": "Check the TPUSA fall 2025 tour listing for the two Alabama events.",
+      "transcript_snippet": "I will guarantee you, and I checked, they did both of these this semester.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9618",
+      "ref": "C-9618",
+      "label": "Host Says the Yale Event Was With the Yale Political Union, Founded 1934",
+      "claim": "The host says the Yale debate Lila Rose cited was with the Yale Political Union, which has existed since 1934 and runs like a well-oiled machine.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11229"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:56",
+      "investigative_direction": "Confirm the Yale Political Union's founding date and Rose's debate date.",
+      "transcript_snippet": "So, that Yale event that Lila Rose spoke at was with the Yale Political Union. So, it is It's existed since 1934.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-233"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9619",
+      "ref": "C-9619",
+      "label": "Host Says About 70 People Attended the Yale Debate",
+      "claim": "The host, showing a picture, says about 70 people attended the Yale debate that Lila Rose compared with TPUSA events of thousands.",
+      "anchored_artifacts": [
+        "A-3023.1"
+      ],
+      "related_nodes": [
+        "N-11229"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:56",
+      "investigative_direction": "Obtain attendance from the Yale Political Union.",
+      "transcript_snippet": "she's comparing this 70 people that attended this debate to Turning Point USA hosting a debate with thousands of people",
+      "mentions_person_refs": [
+        "N-3",
+        "N-233"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9620",
+      "ref": "C-9620",
+      "label": "Host Says She Can Document Event Lead Times for Every Semester 2018 to 2024",
+      "claim": "The host says she can go through every semester from 2018 until 2024 to show when events were put together and will do it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10228"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:44",
+      "investigative_direction": "Await the promised semester-by-semester documentation.",
+      "transcript_snippet": "I can do every semester from 2018 until 2024.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9621",
+      "ref": "C-9621",
+      "label": "Host Says the Public Wants to Know Who Made the UVU Event Come Together So Fast",
+      "claim": "The host says it is possible someone made a phone call to make the event happen, and that the public wants to know who that somebody was.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10228",
+        "N-10224",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:28",
+      "investigative_direction": "Identify who at TPUSA or UVU approved the event and when.",
+      "transcript_snippet": "would like to know who that somebody was that made that event come together very quickly",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9622",
+      "ref": "C-9622",
+      "label": "Host Says Protesters Burned an Effigy of Michael Knowles at a TPUSA Event",
+      "claim": "The host says protesters burned an effigy of Michael Knowles at a Turning Point USA event.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:28",
+      "investigative_direction": "Find news coverage of the Knowles effigy incident.",
+      "transcript_snippet": "They will burn you an effigy as they did uh to Michael Knowles at a Turning Point USA event.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-102"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9623",
+      "ref": "C-9623",
+      "label": "Host Says Stuckey Softened the Fed Discord Messages",
+      "claim": "The host says Allie Beth Stuckey, regarding the Fed Discord messages, said even if they were written by the Feds she still thinks Tyler Robinson murdered Charlie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10013",
+        "N-10014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:32",
+      "investigative_direction": "Find the Stuckey clip and confirm her wording.",
+      "transcript_snippet": "Well, even if these are written by the Feds, I still think he was murdered by Tyler Robinson.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-232",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9624",
+      "ref": "C-9624",
+      "label": "Host Says Allie Beth Stuckey Hired Alyssa Cordova, Formerly Daily Wire PR Head",
+      "claim": "The host says Allie Beth Stuckey has hired Alyssa Cordova, who was formerly the head PR person at the Daily Wire.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:44:35",
+      "investigative_direction": "Confirm Cordova's current role with Stuckey and her Daily Wire title.",
+      "transcript_snippet": "Alyssa Cordova was formerly the PR person, head PR person at Daily Wire.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-232",
+        "N-234"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9625",
+      "ref": "C-9625",
+      "label": "Host Alleges Cordova Sends Out-of-Context Clips to Online Accounts to Attack People",
+      "claim": "The host alleges Alyssa Cordova keeps out-of-context clips and sends them to online accounts such as Ian Miles Cheong with a call to attack the target.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:44:35",
+      "investigative_direction": "Allegation only; ask the host for the messages or sources behind it.",
+      "transcript_snippet": "she intentionally has out of context clips, which she then sends to people um a whole little orbit of bees online like Ian Miles Chong",
+      "mentions_person_refs": [
+        "N-3",
+        "N-234",
+        "N-616"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9626",
+      "ref": "C-9626",
+      "label": "Host Says Alex Clark Posed for the WSJ and Tried to Hard Launch Her Podcast",
+      "claim": "The host says Alex Clark wore boots and stood outside for a Wall Street Journal photo a couple of days after Charlie died and tried to hard launch her podcast.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11098"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:06",
+      "investigative_direction": "Obtain the WSJ article, photo date and Clark's podcast launch date.",
+      "transcript_snippet": "she wasn't traumatized when she like wore boots and stood outside for Wall Street Journal to click a picture of her a couple days after Charlie died.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-99"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9627",
+      "ref": "C-9627",
+      "label": "Host Says Mikey McCoy Was Being Primed to Take Over, Heard From His Father and TPUSA",
+      "claim": "The host says that things said about Mikey McCoy after the assassination made people feel he was being primed to take over for Charlie, and that this was heard from his father and from people at TPUSA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:00",
+      "investigative_direction": "Identify the father's and TPUSA people's statements, with dates.",
+      "transcript_snippet": "And we heard these things from his father. We heard these things from people at Turning Point USA.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-194",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9628",
+      "ref": "C-9628",
+      "label": "Host Says Mikey Took Over Charlie's Liberty University Slot",
+      "claim": "The host says it is a fact that Mikey McCoy took over for Charlie, who was slated to speak at Liberty University.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11104"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:02",
+      "investigative_direction": "Confirm via Liberty University's convocation schedule and event coverage.",
+      "transcript_snippet": "he took over for Charlie who was slated to speak at Liberty University. Okay, that's just a fact.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-194",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9629",
+      "ref": "C-9629",
+      "label": "Host Says TPUSA Raised Something Like 70 Million in the Weeks After Charlie's Death",
+      "claim": "The host says she first heard TPUSA made 70 million in the couple of weeks after Charlie's death, and that the figure has gone up since.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:02",
+      "investigative_direction": "Find TPUSA financial disclosures or reporting on post-assassination donations and sales.",
+      "transcript_snippet": "I think uh first heard it was 70 million.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9630",
+      "ref": "C-9630",
+      "label": "Host Says TPUSA Sold Freedom Charlie T-shirts at the Memorial",
+      "claim": "The host says TPUSA was selling products, including freedom Charlie T-shirts, at the memorial event.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-11014"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:47",
+      "investigative_direction": "Find photos or reporting of merchandise sales at the State Farm Stadium memorial.",
+      "transcript_snippet": "They were selling like T-shirts at the memorial event, like freedom Charlie T-shirts.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9631",
+      "ref": "C-9631",
+      "label": "Host Says Her Tribute Episode Ran Zero Ads Including From YouTube",
+      "claim": "The host says her tribute episode ran absolutely zero ads and she did not let YouTube run ads on it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11230"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:47",
+      "investigative_direction": "Check the tribute episode's monetization status in YouTube Studio.",
+      "transcript_snippet": "on our tribute episode, we ran absolutely zero ads. We didn't even let YouTube run ads on that episode.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9632",
+      "ref": "C-9632",
+      "label": "Host Says Alex Clark Merely Postponed Ads and Made Them Up Later",
+      "claim": "The host says Alex Clark did not decline the ads but postponed reading them and said she made them up later.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11230"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:47",
+      "investigative_direction": "Review Clark's later episodes for make-good ad reads and her statements about them.",
+      "transcript_snippet": "You postponed having to read ads and said that you made them up later.",
+      "contradicts_claim_refs": [
+        "C-1630"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-99"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9633",
+      "ref": "C-9633",
+      "label": "Host Says Alex Clark Lied About Her on Her Podcast",
+      "claim": "The host says Alex Clark is mad because she lied about the host on her podcast and the host called it out.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10104"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:20",
+      "investigative_direction": "Compare Clark's podcast statements about the host's Catholic claims with the record.",
+      "transcript_snippet": "She's mad because she lied about me on her podcast and I called it out.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-99"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9634",
+      "ref": "C-9634",
+      "label": "Host Says Dodge Did Not Exist Before Elon Musk, Rebutting Clark",
+      "claim": "The host says Alex Clark's account that Charlie wanted a DOGE every year cannot be right because DOGE did not exist before Elon Musk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10132",
+        "N-11171"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:20",
+      "investigative_direction": "Find Clark's original statement and any pre-2025 TPUSA financial-audit unit.",
+      "transcript_snippet": "No, you don't do a Dodge every year. You want to know how I know that? Because Dodge didn't exist before Elon Musk.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-99",
+        "N-119",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9635",
+      "ref": "C-9635",
+      "label": "Host Says She Did Not Say Mikey McCoy Murdered Charlie",
+      "claim": "The host says she said TPUSA is engaged in a cover-up but did not say Mikey McCoy murdered Charlie Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:20",
+      "investigative_direction": "Review earlier episodes for the host's exact words about McCoy.",
+      "transcript_snippet": "Yes, I did say that. I didn't say that Mikey murdered Charlie Kirk.",
+      "supports_claim_refs": [
+        "C-3755"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-194",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9636",
+      "ref": "C-9636",
+      "label": "Host Says TPUSA Lied About Catholicism Because of Donor Pressure",
+      "claim": "The host says, in a sarcastic address to Alex Clark, that TPUSA likely lied about Charlie's Catholicism because it was more concerned with Christian Zionist donors and pressure from Jewish donors.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10209",
+        "N-10104"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:26",
+      "investigative_direction": "Seek donor communications about Charlie's Catholic interest; the host frames the preceding clause sarcastically.",
+      "transcript_snippet": "It was because likely um you guys were more concerned with your Christian Zionist donors and also pressure from your Jewish donors.",
+      "supports_claim_refs": [
+        "C-3755"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-99",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9637",
+      "ref": "C-9637",
+      "label": "Host Asks UVU TPUSA Chapter Staff to Email Tips",
+      "claim": "The host asks anyone who works for the UVU Turning Point USA chapter to email moretips@candaceowens.com to say how the event came together and who requested it.",
+      "anchored_artifacts": [
+        "A-3024.1"
+      ],
+      "related_nodes": [
+        "N-10228",
+        "N-10012",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:40",
+      "investigative_direction": "Follow up on any tips received about the UVU event request.",
+      "transcript_snippet": "please email us at moretips@candaceowens. com and let us know how that event came together, who requested it specifically.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9638",
+      "ref": "C-9638",
+      "label": "Host Says Overreaction by TPUSA Shows They Hit a Nerve, as With the Egyptian Planes",
+      "claim": "The host says that when they send out all the dogs over something minor, like her saying the event came together too quickly, there is something there, as with the Egyptian planes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253",
+        "N-10228"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:40",
+      "investigative_direction": "Pattern claim; compare TPUSA's responses across the episodes.",
+      "transcript_snippet": "When they overreact, it's cuz we hit a nerve.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9639",
+      "ref": "C-9639",
+      "label": "Host Alleges Cordova Uses NDAs to Silence People She Mistreats",
+      "claim": "The host alleges Alyssa Cordova treats people badly while an NDA prevents them from speaking.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10432"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:59",
+      "investigative_direction": "Allegation only; ask the host for the sources behind it.",
+      "transcript_snippet": "She can treat you really evil, but there's an NDA preventing you, so she got to allow her to abuse you.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-234"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9640",
+      "ref": "C-9640",
+      "label": "Host Says Brigitte Macron Is a Man",
+      "claim": "The host says that after watching her Brigitte Macron series people will know she is a man, and that the media has lied about it.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:56:47",
+      "investigative_direction": "Fringe assertion recorded as said; see the Macron defamation filings for the factual record.",
+      "transcript_snippet": "You're like, she's a dude, obviously.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9641",
+      "ref": "C-9641",
+      "label": "Host Says Erika Can See the Prosecution's Evidence",
+      "claim": "The host says Erika Kirk, as next of kin, is privy to the prosecution and can see what evidence they actually have and what they are building their case on.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10229"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:00",
+      "investigative_direction": "Check the Utah victim-rights statute on access to evidence for next of kin.",
+      "transcript_snippet": "She can see what evidence they actually have and what they're building their case upon.",
+      "supports_claim_refs": [
+        "C-1621"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9642",
+      "ref": "C-9642",
+      "label": "Host Says She May Have Been With Charlie at the 2018 Israel Embassy Opening",
+      "claim": "The host says she thinks she was with Charlie at the time Erika first saw him in an Israeli airport, possibly for the embassy opening.",
+      "anchored_artifacts": [
+        "A-1354.1"
+      ],
+      "related_nodes": [
+        "N-10235"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:59:56",
+      "investigative_direction": "Check Charlie's and the host's 2018 travel against the Jerusalem embassy opening.",
+      "transcript_snippet": "I think I was with Charlie by the way. That might have been for the embassy opening.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9643",
+      "ref": "C-9643",
+      "label": "Host Says Frank Turek Said on Stage He Knew in the Car Charlie Was Gone",
+      "claim": "The host says Frank Turek said on stage that he knew in the car that Charlie was gone.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10234",
+        "N-10687"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:34",
+      "investigative_direction": "Find the stage remarks by Turek and compare with accounts of Charlie's care.",
+      "transcript_snippet": "Frank Turek said it on stage that he knew in the car that he was gone.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-7",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9644",
+      "ref": "C-9644",
+      "label": "Host Says TPUSA Said Charlie Died Instantly Yet He Went Into Surgery",
+      "claim": "The host says people asked how Charlie went into surgery given the explanation that he died instantly, and that maybe he still had a pulse.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10234"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:34",
+      "investigative_direction": "Obtain hospital and EMS records on pulse, time of death and any surgery.",
+      "transcript_snippet": "Because they explained that he had died instantly. It wasn't just Erika by the way.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9645",
+      "ref": "C-9645",
+      "label": "Host Says She Texts Ian Carroll and Dave Smith Regularly",
+      "claim": "The host says she texts Ian Carroll and Dave Smith regularly to share information and ask for guidance, but has not done so with Jimmy Dore.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "01:04:09",
+      "investigative_direction": "Context on the host's network; no confirmation needed.",
+      "transcript_snippet": "Ian Carroll we text regularly. Dave Smith we text regularly when we're sharing information.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-384",
+        "N-39",
+        "N-864"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-9646",
+      "ref": "C-9646",
+      "label": "Host Says She Could Not Offer Her Team Health Insurance in the First Year",
+      "claim": "The host says that when her team came with her from the Daily Wire she told them she could not offer health insurance in the first year and that her husband pulled the business together.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11228"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:06:06",
+      "investigative_direction": "No verification needed beyond the host's account.",
+      "transcript_snippet": "We can't offer you cannot offer you health insurance in the first year.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3",
+        "N-30",
+        "N-68"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-48",
+      "ref": "M-48",
+      "canonical_term": "Big Mad",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 27,
+          "video_timestamp": "00:00:00",
+          "speaker_node_ref": "N-3",
+          "quote": "and the haters stay mad. Haters stay big mad on the internet, on X today.",
+          "context": "Host opens #1 podcast celebration by roasting big-mad haters.",
+          "confidence": "high",
+          "tags": [
+            "chat_elevate",
+            "roast",
+            "comedy"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-49",
+      "ref": "M-49",
+      "canonical_term": "Nothing Burger",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 27,
+          "video_timestamp": "00:59:56",
+          "speaker_node_ref": "N-3",
+          "quote": "It's just it's it's been one big nothing burger.",
+          "context": "Host dismisses thin case-building as a nothing burger.",
+          "confidence": "high",
+          "tags": [
+            "dismissal",
+            "dunk",
+            "sarcasm"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 27,
+          "video_timestamp": "00:54:40",
+          "speaker_node_ref": "N-3",
+          "quote": "please email us at moretips@candaceowens. com and let us know how that event came together, who requested it specifically.",
+          "context": "Host asks UVU TPUSA chapter staff to send tips about the event request.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 27,
+          "video_timestamp": "01:03:27",
+          "speaker_node_ref": "N-3",
+          "quote": "Christ is king.",
+          "context": "Host reads a viewer comment ending with the refrain.",
+          "confidence": "medium",
+          "tags": [
+            "refrain",
+            "faith"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-147",
+      "ref": "M-147",
+      "canonical_term": "Crash Out",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 27,
+          "video_timestamp": "00:54:40",
+          "speaker_node_ref": "N-3",
+          "quote": "Whenever they send all the dogs out about something very relatively minor",
+          "context": "Host frames TPUSA's strong response as an overreaction.",
+          "confidence": "low",
+          "tags": [
+            "overreaction"
+          ]
+        }
+      ]
+    }
+  ]
 }

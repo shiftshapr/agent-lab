@@ -1,0 +1,6 @@
+# Coverage notes, episode 37
+
+- Existing draft: 14 claims (C-1768 to C-1780 plus C-3651). Beats judged covered by them: about 13 (Valhalla article details, Caesar interview, Patel quote, Minot stopover, tipster email, Nebraska announcement, Huckabee/Friedman, Pollard, Leavitt, Rinzberg email, DIA brand line).
+- Added: 65 new claims, 5 new artifacts (A-3030 to A-3034, 8 sub-items), 2 new nodes (N-867, N-11236), 5 meme groups with 8 occurrences.
+- Not a DIA beat: the host's remark that tips are coming in and that she is receiving tips on the Foreign Legion (no request for tips); the candace.com reference is the book club, not a tip line. The one DIA mention (00:41:12) is already in the draft as C-3651 with M-12.
+- Biggest misses by the earlier pass: (1) the host's list of military-linked figures at 00:14:57 to 00:17:18 (Trotter, Amaro, Kolvet's relatives, Turek, McCoy, the two roof-video filmers, Butch Hibbs); (2) the maroon-shirt coordination theory and the Utah source on school colors at 00:18:45; (3) the identification of the person behind the bush as Jacob Kasparian at 00:19:37 to 00:20:40; (4) the corrections to the prior episode (one night in Wilmington, Tucker on July 11) at 00:11:05 and 00:13:10; (5) the 920 North King and Satis claims at 00:21:50 to 00:22:40 and the lawyer/Delaware clarification at 00:43:40 to 00:44:45.

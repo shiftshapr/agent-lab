@@ -11,8 +11,13 @@
 - **Transcript SHA-256**: b16f4980388370185d291129aae2198b32071168c9d782f7764725d6e49bf14e
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10d): N-853, N-854, N-855, N-856, N-857, N-11223, N-11224, N-11225
+  - Hole-minted Nodes (reintro-ep024): N-224, N-226, N-274, N-387, N-10236, N-10336, N-10337, N-10543
+  - Tip-minted Nodes (reintro-ep024): N-719, N-724, N-10917, N-11092, N-11107
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10d): C-9447–C-9512
   - New Nodes Introduced: N-214, N-215, N-216, N-218, N-219, N-220, N-10216, N-10217
-  - Reused Nodes Appearing: 
+  - Reused Nodes Appearing: N-15, N-17, N-46, N-50, N-82, N-99, N-157, N-158, N-194, N-10006, N-10025, N-10033, N-10047, N-10077, N-10083, N-10104, N-10139, N-10148, N-10164, N-10167, N-10202, N-10206, N-10406, N-11099
   - Tip-minted Nodes (wave2): N-10894, N-10895
   - (see registers), N-11
 
@@ -250,6 +255,71 @@ Confidence Level: Medium
 
 *Related: C-1582, N-1 Charlie Kirk, N-Nick Fuentes*
 
+**A-3012** Shapiro Segment Excerpts of Host Bundle
+
+**A-3012.1** Clip montage of the host's earlier statements aired inside Ben Shapiro's segment (dinosaur bones, JFK and 9/11, pedophiles in power, Macron)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:10:00
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-9459, C-9460, C-9461, C-9462, N-3*
+
+---
+
+**A-3013** Kirk Owens Text Messages Bundle
+
+**A-3013.1** Host verbal reference to roughly 80 to 150 text messages from Charlie Kirk about Ben Shapiro and Tucker Carlson (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:15:17
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-9472, C-9473, C-9474, C-9506, N-3*
+
+---
+
+**A-3014** Bowyer Weekend Tweets Bundle
+
+**A-3014.1** Host verbal reference to Tyler Bowyer's late-night weekend tweets at donors John and Arena Mappin (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:33:19
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-9493, N-3*
+
+---
+
+**A-3015** Patel Post Fact Check Bundle
+
+**A-3015.1** Fact-check note on Kash Patel's X post, read aloud
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:39:12
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-9503, N-3*
+
+---
+
+**A-3016** Patel Prior Statements Clips Bundle
+
+**A-3016.1** Host verbal reference to earlier clips of Kash Patel calling the FBI corrupt and opposing taxpayer-funded personal trips (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:36:16
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-9502, N-3*
+
+---
+
 # Node Register
 
 
@@ -408,6 +478,417 @@ Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
 
 *Related: prose mention in episode*
+
+---
+
+**N-1** Charlie Kirk
+
+Charlie Kirk; subject of the host's claims about his friendships, views and messages.
+
+*Related: C-9453, C-9454, C-9455, C-9456, C-9470, C-9471, C-9472, C-9473, C-9474, C-9475, C-9476, C-9477, C-9478, C-9479, C-9480, C-9482, C-9483, C-9485, C-9487, C-9498, C-9506, C-9511*
+
+---
+
+**N-2** Erika Kirk
+
+Erika Kirk; the host discusses her interview preview and TPUSA leadership role.
+
+*Related: C-9480, C-9482, C-9483, C-9484, C-9486, C-9487, C-9488, C-9490, C-9496, C-9497*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-9447, C-9448, C-9449, C-9450, C-9451, C-9452, C-9453, C-9454, C-9455, C-9456, C-9458, C-9459, C-9460, C-9461, C-9462, C-9463, C-9464, C-9465, C-9466, C-9467, C-9468, C-9471, C-9472, C-9473, C-9474, C-9475, C-9476, C-9477, C-9478, C-9479, C-9480, C-9481, C-9482, C-9483, C-9484, C-9485, C-9486, C-9489, C-9490, C-9491, C-9492, C-9493, C-9494, C-9495, C-9496, C-9497, C-9498, C-9499, C-9500, C-9501, C-9502, C-9503, C-9504, C-9505, C-9506, C-9507, C-9508, C-9509, C-9510, C-9511, C-9512*
+
+---
+
+**N-15** Justin Strife
+
+Justin Streiff; transcribed as Stripe. The host thinks he was the CEO before Erika Kirk.
+
+*Related: C-9490*
+
+---
+
+**N-17** Rob McCoy
+
+Rob McCoy; the host says he is lying.
+
+*Related: C-9481, C-9491, C-9492*
+
+---
+
+**N-22** Tucker Carlson
+
+Tucker Carlson; target of the RJC attacks and Shapiro's segment.
+
+*Related: C-9448, C-9449, C-9450, C-9452, C-9453, C-9454, C-9457, C-9458, C-9469, C-9474, C-9479, C-9512*
+
+---
+
+**N-46** Megyn Kelly
+
+Megyn Kelly; the host says Charlie opened up to her.
+
+*Related: C-9484, C-9485*
+
+---
+
+**N-50** Sigmund Freud
+
+Sigmund Freud; credited by the host with founding modern psychology.
+
+*Related: C-9463*
+
+---
+
+**N-82** Brigitte Macron
+
+Brigitte Macron; the aired clip refers to Macron's spouse.
+
+*Related: C-9461*
+
+---
+
+**N-97** Ben Shapiro
+
+Ben Shapiro; subject of the segment the host plays and rebuts.
+
+*Related: C-9457, C-9458, C-9459, C-9460, C-9462, C-9469, C-9470, C-9471, C-9473, C-9477*
+
+---
+
+**N-99** Alex Clark
+
+Alex Clark; the host says she lied about the Catholic matter.
+
+*Related: C-9481*
+
+---
+
+**N-157** John Mappin
+
+John Mappin; donor the host says Bowyer targeted.
+
+*Related: C-9493*
+
+---
+
+**N-158** Arena Mappin
+
+Arena Mappin; donor the host says Bowyer targeted.
+
+*Related: C-9493*
+
+---
+
+**N-194** Mikey McCoy
+
+Mikey McCoy; transcribed as McColgan and McCoy.
+
+*Related: C-9481, C-9491*
+
+---
+
+**N-205** Nick Fuentes
+
+Nick Fuentes; subject of the interview dispute.
+
+*Related: C-9454, C-9455, C-9456, C-9457, C-9470, C-9511*
+
+---
+
+**N-224** Milo Yiannopoulos
+
+Milo Yiannopoulos; his name is used as a verb for ending a career.
+
+*Related: C-9473*
+
+---
+
+**N-226** Randy Fine
+
+Randy Fine; congressman the host criticizes for RJC remarks.
+
+*Related: C-9447, C-9449, C-9451, C-9512*
+
+---
+
+**N-274** Joe Rogan
+
+Joe Rogan; host of the 2018 appearance Shapiro objected to.
+
+*Related: C-9473*
+
+---
+
+**N-387** Emmanuel Macron
+
+Emmanuel Macron; subject of a claim in the aired clip.
+
+*Related: C-9461*
+
+---
+
+**N-719** Sheldon Adelson
+
+Sheldon Adelson; founder of the gambling empire the host cites.
+
+*Related: C-9464*
+
+---
+
+**N-724** Volodymyr Zelensky
+
+Volodymyr Zelensky; listed in the aired clip.
+
+*Related: C-9461*
+
+---
+
+**N-10006** Fox News
+
+Fox News; the host discusses Tucker's exit and the Watters interview.
+
+*Related: C-9452, C-9483, C-9497*
+
+---
+
+**N-10025** Israel Lobby Pressure on Conservative Figures
+
+Israel Lobby Pressure on Conservative Figures; topic reused.
+
+*Related: C-9453, C-9478, C-9479*
+
+---
+
+**N-10033** Hamptons Donor Pressure Investigation
+
+Hamptons Donor Pressure Investigation; topic reused.
+
+*Related: C-9475*
+
+---
+
+**N-10047** Donor Intimidation of Charlie Kirk
+
+Donor Intimidation of Charlie Kirk; topic reused.
+
+*Related: C-9495*
+
+---
+
+**N-10077** Robinson-Lance Text Chain Authenticity
+
+Robinson-Lance Text Chain Authenticity; topic reused.
+
+*Related: C-9499*
+
+---
+
+**N-10083** AIPAC
+
+AIPAC; the host says it dropped Fine.
+
+*Related: C-9447*
+
+---
+
+**N-10104** Catholic Conversion Rumor
+
+Catholic Conversion Rumor; topic reused.
+
+*Related: C-9481, C-9496*
+
+---
+
+**N-10139** Operation Mocking Pastor
+
+Operation Mocking Pastor; topic reused.
+
+*Related: C-9450*
+
+---
+
+**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim
+
+Charlie Kirk Pre-Mortem Israel Position Claim; topic reused.
+
+*Related: C-9478, C-9479, C-9482*
+
+---
+
+**N-10164** Charlie Kirk Catholic Trajectory Verification
+
+Charlie Kirk Catholic Trajectory Verification; topic reused.
+
+*Related: C-9481, C-9496*
+
+---
+
+**N-10167** Tyler Bowyer X Defense Pattern
+
+Tyler Bowyer X Defense Pattern; topic reused.
+
+*Related: C-9493*
+
+---
+
+**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+
+FBI Charlie Kirk Investigation Handling (Kash Patel); topic reused.
+
+*Related: C-9498, C-9500, C-9503*
+
+---
+
+**N-10206** TPUSA Text Chain Authenticity Verification
+
+TPUSA Text Chain Authenticity Verification; topic reused.
+
+*Related: C-9492, C-9506*
+
+---
+
+**N-10236** Megyn Kelly Tour Attendee Authenticity Question
+
+Megyn Kelly Tour Attendee Authenticity Question; topic reused.
+
+*Related: C-9484*
+
+---
+
+**N-10336** Tyler Robinson First In-Person Court Appearance Details
+
+Tyler Robinson First In-Person Court Appearance Details; topic reused.
+
+*Related: C-9489*
+
+---
+
+**N-10337** Tyler Robinson Prosecution Evidence Base
+
+Tyler Robinson Prosecution Evidence Base; topic reused.
+
+*Related: C-9488*
+
+---
+
+**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens
+
+Megyn Kelly Attacks for Refusing to Denounce Candace Owens; topic reused.
+
+*Related: C-9485*
+
+---
+
+**N-10543** Charlie Kirk Legacy Control Dispute
+
+Charlie Kirk Legacy Control Dispute; topic reused.
+
+*Related: C-9453, C-9454, C-9474*
+
+---
+
+**N-10917** Republican Jewish Coalition
+
+Republican Jewish Coalition; event where the signs appeared.
+
+*Related: C-9448, C-9449, C-9512*
+
+---
+
+**N-11092** Erika CEO Appointment Timing Explanation (DeGroot versus TPUSA PR Source)
+
+Erika CEO Appointment Timing Explanation; topic reused.
+
+*Related: C-9490*
+
+---
+
+**N-11099** Candace Owens Australia Visa Review
+
+Candace Owens Australia Visa Review; topic reused.
+
+*Related: C-9505*
+
+---
+
+**N-11107** Erika Kirk Interview Campaign Talking Points
+
+Erika Kirk Interview Campaign Talking Points; topic reused.
+
+*Related: C-9483, C-9497*
+
+---
+
+**N-853** Emma Goldman
+
+First named by the host at 00:11:28 in episode 24. Historical anarchist the host credits with bringing feminism to America.
+
+*Related: C-9463*
+
+---
+
+**N-854** Al Goldstein
+
+First named by the host at 00:12:45 in episode 24. Pornography publisher the host quotes on why Jews are in pornography.
+
+*Related: C-9466*
+
+---
+
+**N-855** Samuel Roth
+
+First named by the host at 00:12:45 in episode 24. Publisher the host says fought in court for the decision making pornography free speech.
+
+*Related: C-9467*
+
+---
+
+**N-856** Magnus Hirschfeld
+
+First named by the host at 00:13:28 in episode 24. Sexologist the host credits as the origin of transgenderism.
+
+*Related: C-9468*
+
+---
+
+**N-857** Adam Lanza
+
+First named by the host at 00:45:55 in episode 24. Sandy Hook shooter the host cites in a pattern theory about standardized testing and government contact.
+
+*Related: C-9508*
+
+---
+
+**N-11223** Sackler Family and Purdue Pharma
+
+Node Type: Organization
+Family and company the host names as owners of Purdue Pharma and architects of the opioid epidemic, with names on buildings in Tel Aviv.
+
+*Related: C-9464, C-9465*
+
+---
+
+**N-11224** Cracker Barrel
+
+Node Type: Organization
+Restaurant chain the host cites as an example of customers forcing a reversal of a marketing change.
+
+*Related: C-9494*
+
+---
+
+**N-11225** Sallie Mae
+
+Node Type: Organization
+Student lender the host says stopped funding her senior year around 2010.
+
+*Related: C-9509, C-9510*
 
 ---
 
@@ -643,6 +1124,1040 @@ Investigative Direction: This is a host interpretive stance; verification is anc
 
 ---
 
+**C-9447** Host Says Randy Fine Called Palestinians Not Truly Human and AIPAC Dropped Him
+
+Claim Timestamp: 00:01:57
+
+Claim: The host says Randy Fine has said essentially that Palestinians are not truly human and that even AIPAC had to drop him.
+
+Transcript Snippet: Randy Fine, just to be clear, he has been so disgusting in his rhetoric towards Palestinians, saying essentially that they're just not even truly humans. That even AIPAC had to drop him.
+
+Anchored Artifacts: 
+Mentions: N-226, N-3
+Related Nodes: N-10083
+Tags: relevance:context
+Investigative Direction: Locate Fine's original statements and any AIPAC statement ending its support to confirm both parts.
+
+---
+
+**C-9448** Host Says Interns Printed Red Tucker Is Not Maga Signs
+
+Claim Timestamp: 00:03:00
+
+Claim: The host says interns were apparently sent to a print shop to print red signs reading "Tucker Carlson is not Maga" for the Republican Jewish Coalition event.
+
+Transcript Snippet: It looks like they sent some poor interns down to FedEx or Kinko's or UPS to print out these totally organic red signs.
+
+Anchored Artifacts: A-1313.3
+Mentions: N-3, N-22
+Related Nodes: N-10917
+Tags: relevance:context
+Investigative Direction: Obtain event photos or video of the signs and identify who produced and distributed them.
+
+---
+
+**C-9449** Host Says Signs Were Handed to Young Men to Wave While Fine Spoke
+
+Claim Timestamp: 00:04:07
+
+Claim: The host says the printed signs were given to young men who were instructed to wave them on stage while Randy Fine spoke.
+
+Transcript Snippet: And they instructed them to wave the posters on stage while Randy Fine, of all people, spoke.
+
+Anchored Artifacts: A-1313.3
+Mentions: N-226, N-22, N-3
+Related Nodes: N-10917
+Supports: C-9448
+Tags: relevance:context
+Investigative Direction: Review RJC event footage for the sign holders and ask organizers who instructed them.
+
+---
+
+**C-9450** Host Says Attacks on Tucker Were Instructed and Inorganic, Like Operation Mocking Pastor
+
+Claim Timestamp: 00:05:30
+
+Claim: The host says the identical anti-Tucker messaging shows it is inorganic and compares it to Operation Mocking Pastor, saying it was clear the speakers were instructed to go after Tucker Carlson.
+
+Transcript Snippet: And they all say the same thing, which shows how inorganic it is. It's like Operation Mocking Pastor. And it was very clear that they were instructed to go after Tucker.
+
+Anchored Artifacts: 
+Mentions: N-22, N-3
+Related Nodes: N-10139
+Tags: relevance:context
+Investigative Direction: Compare the wording of the anti-Tucker statements across speakers and identify any shared script or coordinating source.
+
+---
+
+**C-9451** Host Says Randy Fine Called Palestinians Subhuman and Laughed at a Dead Body
+
+Claim Timestamp: 00:05:30
+
+Claim: The host says Randy Fine came out with genocidal language against Palestinians, referred to them as subhuman, and laughed when he saw a dead body of a Palestinian.
+
+Transcript Snippet: like Randy Fine just come right out with genocidal language against the Palestinians, uh referring to them as subhuman, laughing when he sees a dead body of a Palestinian.
+
+Anchored Artifacts: 
+Mentions: N-226, N-3
+Tags: relevance:context
+Investigative Direction: Locate Fine's posts or remarks calling Palestinians subhuman and any video of him laughing at a body.
+
+---
+
+**C-9452** Host Says Tucker Was Fired From Fox for Opposing the Ukraine War
+
+Claim Timestamp: 00:06:29
+
+Claim: The host says Fox fired Tucker Carlson because he was speaking out against the Ukrainian war, which she says was not allowed.
+
+Transcript Snippet: That's also why they fired him from Fox because um he was speaking out against the Ukrainian war and that was not allowed.
+
+Anchored Artifacts: 
+Mentions: N-22, N-3
+Related Nodes: N-10006
+Tags: relevance:context
+Investigative Direction: Fox News termination statements, court filings from the Dominion matter and reporting on the stated reason for Carlson's exit.
+
+---
+
+**C-9453** Host Says Same Individuals Were Squeezing Charlie Over Tucker Before His Death
+
+Claim Timestamp: 00:06:29
+
+Claim: The host says that, as she proved, the same individuals now attacking Tucker were squeezing Charlie Kirk leading up to the end of his life and wanted Tucker barred from the Turning Point USA stage.
+
+Transcript Snippet: We all know, as I proved, that these same individuals were squeezing Charlie Kirk leading up to the end of his life.
+
+Anchored Artifacts: 
+Mentions: N-1, N-22, N-3
+Related Nodes: N-10025, N-10543
+Tags: relevance:core
+Investigative Direction: Locate the donor and activist messages to Kirk about Tucker Carlson's speaking slot and identify the senders.
+
+---
+
+**C-9454** Host Says Critics Call Tucker Interviewing Fuentes a Betrayal of Charlie
+
+Claim Timestamp: 00:07:25
+
+Claim: The host says that Tucker Carlson interviewed Nick Fuentes, and that the same people who pressured Charlie Kirk now assert posthumously that the interview was a betrayal of Charlie and ended their friendship.
+
+Transcript Snippet: they've now decided to besmirch Charlie's name by asserting that Tucker interviewing Nick Fuentes is a betrayal to Charlie.
+
+Anchored Artifacts: 
+Mentions: N-22, N-205, N-1, N-3
+Related Nodes: N-10543
+Tags: relevance:context
+Investigative Direction: Identify the specific statements asserting the Fuentes interview betrayed Kirk and their dates.
+
+---
+
+**C-9455** Host Says She Interviewed Fuentes in July and Charlie Never Objected
+
+Claim Timestamp: 00:08:13
+
+Claim: The host says she interviewed Nick Fuentes shortly before Charlie died, discussed the interview with Charlie, and he never told her not to speak to Fuentes or called it a betrayal.
+
+Transcript Snippet: Before Charlie died, really kind of just before he died in July, I interviewed Nick Fuentes. And Charlie and I discussed the interview uh and never once did he tell me not to speak to Nick Fuentes.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-205
+Tags: relevance:core
+Investigative Direction: Obtain the Owens–Kirk messages about the Fuentes interview and the interview date; the transcript's "died in July" appears garbled.
+
+---
+
+**C-9456** Host Says She Urged Charlie and Kolvet That Charlie Host and Debate Fuentes
+
+Claim Timestamp: 00:08:13
+
+Claim: The host says she separately told both Charlie and Andrew Kolvet that Charlie should host Nick Fuentes and debate him, that she tried to make it happen, and that Kolvet can confirm this.
+
+Transcript Snippet: I also had a long discussion with Andrew Kolb that separately, telling them both that Charlie should host Nick Fuentes on his show and debate him. I tried to make that happen.
+
+Anchored Artifacts: 
+Mentions: N-3, N-14, N-1, N-205
+Supports: C-9455
+Tags: relevance:core
+Investigative Direction: Ask Kolvet to confirm the conversation and look for related messages or scheduling attempts.
+
+---
+
+**C-9457** Shapiro Says Tucker Is a Coward and Fuentes Correctly Said So
+
+Claim Timestamp: 00:10:00
+
+Claim: In the segment the host plays, Ben Shapiro says Tucker Carlson is a coward and that his relationship with Nick Fuentes begins with Fuentes correctly pointing that out.
+
+Transcript Snippet: Tucker Carlson, you see, is a coward. And here is where his relationship with Nick Fuentes begins.
+
+Anchored Artifacts: A-1314.1
+Mentions: N-97, N-22, N-205
+Tags: relevance:context
+Investigative Direction: Review Shapiro's full segment for the exact wording and sourcing.
+
+---
+
+**C-9458** Shapiro Says Tucker Gave Owens Ideological Laundering Services
+
+Claim Timestamp: 00:10:00
+
+Claim: In the segment the host plays, Ben Shapiro says Tucker Carlson had Candace Owens on a few weeks earlier to treat her to his usual ideological laundering services.
+
+Transcript Snippet: Tucker Carlson a few weeks back had on Candace Owens to treat her to his usual ideological laundering services.
+
+Anchored Artifacts: A-1314.1
+Mentions: N-97, N-22, N-3
+Tags: relevance:context
+Investigative Direction: Review Shapiro's full segment to confirm the quote and its context.
+
+---
+
+**C-9459** Shapiro Segment Clip Has Owens Saying JFK and 9/11 Were Convenient for Israel
+
+Claim Timestamp: 00:10:00
+
+Claim: The clip of the host that Shapiro airs in his segment has her saying it was convenient for Israel that JFK got shot and convenient when the towers went down; the host does not dispute the clip's wording.
+
+Transcript Snippet: And then but it was just convenient for Israel that uh JFK got shot. It was just convenient, you guys. Totally convenient. It was convenient for Israel, by the way, when the towers went down.
+
+Anchored Artifacts: A-3012.1
+Mentions: N-3, N-97
+Tags: relevance:tangential
+Investigative Direction: Identify the original episode from which Shapiro excerpted the clip.
+
+---
+
+**C-9460** Shapiro Segment Clip Has Owens Saying Pedophiles Are Intentionally in Power
+
+Claim Timestamp: 00:10:44
+
+Claim: The clip aired in Shapiro's segment has the host saying pedophiles are literally in power intentionally so they can be controlled, and that many were themselves raped as children.
+
+Transcript Snippet: I'm waking people up to the fact that pedophiles are in power. They're literally in power. And that is intentional because then they can be controlled while they are in power.
+
+Anchored Artifacts: A-3012.1
+Mentions: N-3, N-97
+Tags: relevance:tangential
+Investigative Direction: Identify the original source episode of the excerpt and any support the host offered for it there.
+
+---
+
+**C-9461** Shapiro Segment Clip Has Owens Saying Macron Is Married to a Trans Man Who Molested Him
+
+Claim Timestamp: 00:10:44
+
+Claim: The clip aired in Shapiro's segment has the host listing Trudeau, Obama, Zelensky and Macron as gay and saying Macron is married to a trans man who molested him as a child; she says afterward, "fact check all true."
+
+Transcript Snippet: Emmanuel Macron, gay and married to a trans man who molested him when he was a child.
+
+Anchored Artifacts: A-3012.1
+Mentions: N-3, N-387, N-724, N-82
+Tags: relevance:tangential
+Investigative Direction: Identify the original source episode; Macron legal filings and public records on the claims about Brigitte Macron.
+
+---
+
+**C-9462** Host Stands by Clips and Says to Blame Zionists if She Dies Mysteriously
+
+Claim Timestamp: 00:11:28
+
+Claim: The host says Shapiro used out-of-context clips and that she stands by her perspectives, including that dinosaur bones are usually found by experts, and says that if she winds up dead in mysterious circumstances people should assume Zionists orchestrated it.
+
+Transcript Snippet: And yes, if I wind up dead in mysterious circumstances, you should obviously assume it was orchestrated by Zionists.
+
+Anchored Artifacts: A-3012.1
+Mentions: N-3, N-97
+Tags: relevance:context
+Investigative Direction: Compare the full original clips with Shapiro's excerpts.
+
+---
+
+**C-9463** Host Says Emma Goldman and Freud Brought Feminism and Modern Psychology to America
+
+Claim Timestamp: 00:11:28
+
+Claim: The host says that feminism and modern psychology were brought to and fought for on American shores by people like Emma Goldman and Sigmund Freud.
+
+Transcript Snippet: people like Emma Goldman on feminism. Sigmund Freud, the father of modern psychology.
+
+Anchored Artifacts: 
+Mentions: N-3, N-853, N-50
+Tags: relevance:tangential
+Investigative Direction: Historical record on Goldman's and Freud's activities; this is the host's sweeping characterization of a group's role.
+
+---
+
+**C-9464** Host Says Adelson Gambling Empire and Sackler Pharmaceuticals Came From the Same Group
+
+Claim Timestamp: 00:11:28
+
+Claim: The host says the gambling empire is where the Adelson empire wealth comes from and that many pharmaceuticals came from people like the Sackler family.
+
+Transcript Snippet: The gambling empire uh is where the Adelson empire wealth comes from. Uh as are many pharmaceuticals like the Sackler family.
+
+Anchored Artifacts: 
+Mentions: N-3, N-719
+Related Nodes: N-11223
+Tags: relevance:tangential
+Investigative Direction: Corporate and philanthropic records on the Adelson and Sackler fortunes.
+
+---
+
+**C-9465** Host Says Sackler Names Are on Buildings in Tel Aviv
+
+Claim Timestamp: 00:12:45
+
+Claim: The host says the Sackler family have their names on buildings in Tel Aviv and that they are the owners of Purdue Pharma, the architects of the opioid epidemic.
+
+Transcript Snippet: These people have their have their names on buildings in Tel Aviv. The owners of Purdue Pharma, the architects of the opioid epidemic.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11223
+Tags: relevance:tangential
+Investigative Direction: Public records of Sackler-named buildings in Tel Aviv and Purdue Pharma ownership and litigation settlements.
+
+---
+
+**C-9466** Host Quotes Al Goldstein on Why Jews Are in Pornography
+
+Claim Timestamp: 00:12:45
+
+Claim: The host quotes Al Goldstein as having notoriously said the only reason Jews are in pornography is that they think Christ sucks and that pornography defiles Christian culture, and says Goldstein was right.
+
+Transcript Snippet: He's the one who notoriously said, "The only reason that Jews are in pornography is that we think Christ sucks. Catholicism sucks.
+
+Anchored Artifacts: 
+Mentions: N-3, N-854
+Tags: relevance:tangential
+Investigative Direction: Locate the original Al Goldstein interview or publication containing the quoted words.
+
+---
+
+**C-9467** Host Says Samuel Roth Fought for Pornography Free-Speech Ruling
+
+Claim Timestamp: 00:12:45
+
+Claim: The host says pornography became considered free speech because Jewish individuals in America fought for that, naming Samuel Roth, who she says fought for the decision in court.
+
+Transcript Snippet: That's because Jewish individuals in America fought for that. Samuel Roth, actually.
+
+Anchored Artifacts: 
+Mentions: N-3, N-855
+Tags: relevance:tangential
+Investigative Direction: Court record of Roth v. United States and Roth's role in it.
+
+---
+
+**C-9468** Host Says Magnus Hirschfeld Is the Origin of Transgenderism
+
+Claim Timestamp: 00:13:28
+
+Claim: The host says that if one traces where transgenderism came from, Magnus Hirschfeld was the doctor and sexologist behind it.
+
+Transcript Snippet: Transgenderism, go back and and try to figure out where that came from. Magnus Hirschfeld was the doctor and the sexologist.
+
+Anchored Artifacts: 
+Mentions: N-3, N-856
+Tags: relevance:tangential
+Investigative Direction: Historical record of Hirschfeld's work; this is the host's attribution of a modern movement to one person.
+
+---
+
+**C-9469** Shapiro Says Tucker Is the Most Virulent Super Spreader of Vile Ideas
+
+Claim Timestamp: 00:13:28
+
+Claim: Ben Shapiro says there is no question Tucker Carlson has become the most virulent super spreader of vile ideas in America and that those who oppose such ideas have every right to call him that.
+
+Transcript Snippet: There's no question that Tucker has become the most virulent super spreader of vile ideas in America.
+
+Anchored Artifacts: A-1314.2
+Mentions: N-97, N-22
+Tags: relevance:context
+Investigative Direction: Review Shapiro's full segment for context.
+
+---
+
+**C-9470** Shapiro Says Fuentes Dedicated His Life to Destroying Charlie and TPUSA From Inside
+
+Claim Timestamp: 00:14:12
+
+Claim: Ben Shapiro says Charlie Kirk believed Nick Fuentes was vermin because Fuentes dedicated his life to destroying Charlie Kirk and TPUSA from the inside.
+
+Transcript Snippet: He believed that because Nick Fuentes dedicated his life to destroying Charlie Kirk and TPUSA from the inside.
+
+Anchored Artifacts: A-1314.2
+Mentions: N-97, N-1, N-205
+Tags: relevance:context
+Investigative Direction: Find the underlying Kirk statements about Fuentes that Shapiro relies on.
+
+---
+
+**C-9471** Host Says Charlie and Shapiro Did Not Get Along Because Shapiro Hindered TPUSA Early
+
+Claim Timestamp: 00:14:12
+
+Claim: The host says Charlie and Ben Shapiro did not get along because Charlie found out Ben was operating behind the scenes to stop him and hinder the growth of Turning Point USA in its early days.
+
+Transcript Snippet: Charlie and Ben Shapiro did not get along uh because Charlie found out that Ben was operating behind the scenes to uh stop him and sort of hinder the growth of Turning Point USA in our early days
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-97
+Tags: relevance:core
+Investigative Direction: Obtain the Kirk–Owens messages the host cites and ask Shapiro or TPUSA of that era to respond.
+
+---
+
+**C-9472** Host Says She Has 80 to 150 Texts From Charlie About Shapiro
+
+Claim Timestamp: 00:15:17
+
+Claim: The host says she has only about 80 to 150 text messages from Charlie to that effect, calls it a fact rather than a debate, and says she will gladly share them if challenged.
+
+Transcript Snippet: And I have only about 80 to 150 text messages from Charlie to that effect.
+
+Anchored Artifacts: A-3013.1
+Mentions: N-3, N-1
+Tags: relevance:core
+Investigative Direction: Obtain and authenticate the messages; the host has not displayed them.
+
+---
+
+**C-9473** Host Says Shapiro Told Charlie She Would Milo Her Career
+
+Claim Timestamp: 00:16:50
+
+Claim: The host says that, according to her messages with Charlie, Ben told Charlie he was upset about her 2018 Joe Rogan joke and that she was going to Milo her career if Charlie did not get away from her, and that Charlie stuck with her despite Ben's urging.
+
+Transcript Snippet: specifically Ben said to Charlie that he was upset about that and that he I, Candace, was going to Milo my career if Charlie didn't get away from me.
+
+Anchored Artifacts: A-1315.1, A-3013.1
+Mentions: N-3, N-1, N-97, N-224, N-274
+Tags: relevance:core
+Investigative Direction: Obtain the Kirk–Owens messages that record Shapiro's conversation with Kirk.
+
+---
+
+**C-9474** Host Says Charlie Loved Tucker and Fought for Him on the TPUSA Stage
+
+Claim Timestamp: 00:19:01
+
+Claim: The host says that, from all her messages with Charlie, he loved, admired and respected Tucker Carlson and fought for Tucker to be on the Turning Point stage until his dying day.
+
+Transcript Snippet: And he fought for Tucker to be on the Turning Point stage until his dying day, literally.
+
+Anchored Artifacts: A-3013.1
+Mentions: N-3, N-1, N-22
+Related Nodes: N-10543
+Tags: relevance:core
+Investigative Direction: Obtain the Kirk messages and internal TPUSA scheduling records about Tucker's stage appearances.
+
+---
+
+**C-9475** Host Says Charlie's Vice Was Tying Success to Money and Snakes Entered Through It
+
+Claim Timestamp: 00:19:42
+
+Claim: The host says Charlie's vice was probably associating success and growth with money, and that this was probably the conduit through which snakes got into his company and donor base.
+
+Transcript Snippet: it is probably that he associated success and growth with money. And I believe that that is probably the conduit for the snakes that that got into his company got into you know the donor base whatever it is.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10033
+Tags: relevance:core
+Investigative Direction: Identify who entered the company and donor base through fundraising and what the host means by snakes.
+
+---
+
+**C-9476** Host Says Team Asked Matt Walsh to Host Charlie's Show
+
+Claim Timestamp: 00:20:27
+
+Claim: The host says that after Charlie's death people close to him, including donors, were touched by a Matt Walsh monologue, and the team reached out to ask Walsh to host Charlie Kirk's show so it could continue.
+
+Transcript Snippet: So the team reached out to host Matt Walsh to ask Matt Walsh rather to host Charlie Kirk's show because they wanted to keep it going.
+
+Anchored Artifacts: 
+Mentions: N-3, N-166, N-1
+Tags: relevance:core
+Investigative Direction: Identify who reached out to Walsh and when; ask Walsh or the Daily Wire to confirm.
+
+---
+
+**C-9477** Host Says Walsh Hosting Required Shapiro Also Being Invited and TPUSA Accepted
+
+Claim Timestamp: 00:20:27
+
+Claim: The host says that those who asked Walsh were told this was not allowed unless Ben Shapiro was also invited, and that Turning Point cordially accepted those posthumous terms.
+
+Transcript Snippet: And they were told that that was not allowed to happen unless Ben Shapiro was also invited.
+
+Anchored Artifacts: 
+Mentions: N-3, N-166, N-97, N-1
+Tags: relevance:core
+Investigative Direction: Identify who set the condition and whether Shapiro appeared on the Charlie Kirk Show afterward.
+
+---
+
+**C-9478** Host Says Charlie Did Waver in His Support for Israel
+
+Claim Timestamp: 00:23:04
+
+Claim: The host says that, despite the effort to say he did not waver in his support, Charlie did waver, and that the public has been reading Charlie in his own words.
+
+Transcript Snippet: how many talking heads you sent out to pretend that he didn't waver in his support. He did. He did.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10148, N-10025
+Tags: relevance:core
+Investigative Direction: Compile the Kirk messages and statements on Israel read on the show and confirm their authenticity.
+
+---
+
+**C-9479** Host Says Charlie Supported Israel Until Agent Smiths Pushed Him Over Tucker
+
+Claim Timestamp: 00:23:49
+
+Claim: The host says Charlie supported Israel throughout his entire career and then felt the "agent Smiths" coming in pressing him, ironically over Tucker, and says Charlie died fighting for his friendship with Tucker.
+
+Transcript Snippet: Yes, he supported Israel throughout his entire career and then he felt the agent Smiths coming in pressing him and pushing him ironically over Tucker.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-22
+Related Nodes: N-10148, N-10025
+Tags: relevance:core
+Investigative Direction: Identify the people the host calls the agent Smiths and the specific pressure on Kirk about Tucker.
+
+---
+
+**C-9480** Host Says Erika Has Not Sat for a Long Interview, Only the Memorial Speech
+
+Claim Timestamp: 00:27:07
+
+Claim: The host says Erika Kirk has not sat down for a long interview and that all the public has seen from her is the speech at the Charlie Kirk memorial event.
+
+Transcript Snippet: She hasn't sat down for a long interview. All we have seen from Erika has been the speech at the memorial event for Charlie Kirk.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-1
+Tags: relevance:core
+Investigative Direction: Check Erika Kirk's public interview record before 2025-11-03 against this statement.
+
+---
+
+**C-9481** Host Lists Those She Targeted for Lying: Clark, Kolvet, McColgan, McCoy
+
+Claim Timestamp: 00:27:07
+
+Claim: The host says she has reserved her investigation for people blatantly lying, citing Alex Clark for lying about the Catholic thing, then Andrew Kolvet, Mikey McColgan and Rob McCoy.
+
+Transcript Snippet: That was my reason for going after Alex Clark. She lied about the Catholic thing. That was my reason for going after Andrew Kolbenschlag, Mikey McColgan.
+
+Anchored Artifacts: 
+Mentions: N-3, N-99, N-14, N-194, N-17
+Related Nodes: N-10104, N-10164
+Tags: relevance:core
+Investigative Direction: Collect the host's prior episodes on each named person and the specific statements she calls lies.
+
+---
+
+**C-9482** Host Says Erika Has Not Claimed Charlie Loved Israel to His Dying Breath
+
+Claim Timestamp: 00:28:02
+
+Claim: The host says Erika Kirk has not come out and said Charlie never had an issue with Israel in the end or that he loved Israel to his dying breath.
+
+Transcript Snippet: Did she come out and say Charlie never had an issue with Israel in the end. He loved Israel to his dying breath. She hasn't done that.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-1
+Related Nodes: N-10148
+Tags: relevance:core
+Investigative Direction: Review Erika Kirk's public statements on Kirk's views on Israel.
+
+---
+
+**C-9483** Host Says Charlie Loved Watters and Fox Gave Them the Most Play Time
+
+Claim Timestamp: 00:28:02
+
+Claim: The host says Charlie loved Jesse Watters, that Watters gave them the most play time on Fox News in the beginning, and that Erika's Watters sit-down is dropping this week.
+
+Transcript Snippet: Jesse Waters gave us the most play time on Fox News back in the beginning.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-2, N-215
+Related Nodes: N-10006, N-11107
+Tags: relevance:context
+Investigative Direction: Fox News appearance history of Charlie Kirk and Turning Point USA.
+
+---
+
+**C-9484** Host Says Erika Is Slated to Join Megyn Kelly on Tour
+
+Claim Timestamp: 00:28:02
+
+Claim: The host says, hedging that listeners should not quote her, that she is pretty sure she saw it teased that Erika Kirk is slated to join Megyn Kelly on tour.
+
+Transcript Snippet: Erika also I think slated to join Megan Kelly on tour. Don't quote me but I'm I'm pretty sure I saw that being teased.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-46
+Related Nodes: N-10236
+Tags: relevance:context
+Investigative Direction: Check Megyn Kelly's tour announcements for an Erika Kirk appearance.
+
+---
+
+**C-9485** Host Says Charlie Opened Up to Megyn Kelly About the Pressure He Was Under
+
+Claim Timestamp: 00:28:55
+
+Claim: The host says Charlie opened up to Megyn Kelly in the end and that Kelly told the truth about the pressure Charlie was under, for which she is still catching heat.
+
+Transcript Snippet: Charlie opened up to Megan in the end. Megan stood 10 toes down on telling the truth which is why I deeply respect her for doing this about the pressure that Charlie was under
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-46
+Related Nodes: N-10406
+Tags: relevance:core
+Investigative Direction: Review Megyn Kelly's accounts of her conversations with Kirk and ask her for any messages.
+
+---
+
+**C-9486** Host Says She Told Erika She Would Be Quiet if Asked and Was Not Asked
+
+Claim Timestamp: 00:28:55
+
+Claim: The host says she said early on that if Erika Kirk asks her to be quiet she will be quiet, and that Erika did not ask her to be quiet.
+
+Transcript Snippet: I said early on if Erika Kirk asks me to be quiet, I will be quiet. She didn't ask me to be quiet.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2
+Tags: relevance:core
+Investigative Direction: Locate the earlier episode where the host made the offer and any contact from Erika Kirk or her representatives.
+
+---
+
+**C-9487** Erika Says There Were Cameras All Over Her Husband When He Was Murdered
+
+Claim Timestamp: 00:29:46
+
+Claim: In the preview clip, Erika Kirk says there were cameras all over her husband when he was murdered, all over her friends and family mourning, and all over her analyzing her every move.
+
+Transcript Snippet: There were cameras all over my husband when he was murdered. There have been cameras all over my friends and family mourning.
+
+Anchored Artifacts: A-1318.1
+Mentions: N-2, N-1
+Tags: relevance:core
+Investigative Direction: Obtain the full Watters interview to confirm wording.
+
+---
+
+**C-9488** Erika Says She Has Seen What the Case Is Built On and There Is Nothing to Hide
+
+Claim Timestamp: 00:30:31
+
+Claim: In the preview clip, Erika Kirk says there is nothing to hide, that she knows this because she has seen what the case is built on.
+
+Transcript Snippet: Why not be transparent? There's nothing to hide. I know there's not cuz I've seen what the case is built on.
+
+Anchored Artifacts: A-1318.1
+Mentions: N-2
+Related Nodes: N-10337
+Tags: relevance:core
+Investigative Direction: Ask Erika Kirk or prosecutors what material she was shown and when; compare with the court record.
+
+---
+
+**C-9489** Host Says Robinson Was Allowed to Appear Virtually Without Camera for Pre-Hearing Matters
+
+Claim Timestamp: 00:30:31
+
+Claim: The host says it is ridiculous to allow the defendant to appear virtually, not even on camera, for some pre-hearing matters.
+
+Transcript Snippet: how ridiculous it is to allow him to to appear uh virtually, not even on camera uh for some pre-hearing matters.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10336
+Tags: relevance:core
+Investigative Direction: Utah court docket entries on the defendant's remote appearances and camera orders.
+
+---
+
+**C-9490** Host Says She Would Have Installed an Interim CEO Below Justin Stripe
+
+Claim Timestamp: 00:30:31
+
+Claim: The host says Justin Stripe, she thinks, was the CEO and that she would have advised an interim CEO rather than Erika moving from widow to CEO and chairman.
+
+Transcript Snippet: Someone below Justin Stripe, I think was the CEO. I would have put in an interim CEO
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-15
+Related Nodes: N-11092
+Tags: relevance:core
+Investigative Direction: TPUSA announcements of leadership changes after September 2025 to confirm who held the CEO title before Erika Kirk.
+
+---
+
+**C-9491** Host Says Public Distrusts What Has Been Seen About the McCoys and the Taryl Video
+
+Claim Timestamp: 00:32:38
+
+Claim: The host says people do not like what they have seen about Mikey McCoy and Rob McCoy, their history and involvement, or the video of Taryl.
+
+Transcript Snippet: People don't like the stuff that they've seen about Mikey McCoy. They don't like what they've seen about Rob McCoy.
+
+Anchored Artifacts: 
+Mentions: N-3, N-194, N-17
+Related Nodes: N-10217
+Tags: relevance:core
+Investigative Direction: Identify the video of Taryl the host refers to and the McCoy materials in question.
+
+---
+
+**C-9492** Host Says People Doubt Message and Call Times and Says Rob McCoy Is Lying
+
+Claim Timestamp: 00:32:38
+
+Claim: The host says people do not believe what time text messages were sent or when the phone calls took place, and she states that Rob McCoy is lying.
+
+Transcript Snippet: They don't believe what time text messages were sent or when the phone calls took place. You know, Rob McCoy is lying.
+
+Anchored Artifacts: 
+Mentions: N-3, N-17
+Related Nodes: N-10217, N-10206
+Tags: relevance:core
+Investigative Direction: Obtain carrier call and text logs for the relevant timeframe and compare to McCoy's account.
+
+---
+
+**C-9493** Host Says Bowyer Late-Night Tweeted at Donors Including the Mappins
+
+Claim Timestamp: 00:33:19
+
+Claim: The host says Tyler Bowyer was late-night tweeting at donors over the weekend, directing his fire at John Mappin and Arena Mappin, and that someone called John Mappin a loser (the subject is unclear in the transcript).
+
+Transcript Snippet: Tyler Bowyer late-night tweeting at donors as he did over the weekend. I think he directed his fire at like John Mappin and Arena Mappin called John Mappin a loser.
+
+Anchored Artifacts: A-3014.1
+Mentions: N-3, N-11, N-157, N-158
+Related Nodes: N-10167
+Tags: relevance:core
+Investigative Direction: Locate Bowyer's posts from the weekend of 2025-11-01 and confirm who called John Mappin a loser.
+
+---
+
+**C-9494** Host Says Cracker Barrel Reversed a Marketing Change After Customer Revolt
+
+Claim Timestamp: 00:33:19
+
+Claim: The host says Cracker Barrel's top executives changed the marketing with highly paid advertisers, customers revolted, and the old man image was put back, using it to illustrate that the market is always right.
+
+Transcript Snippet: So, maybe the top execs at Cracker Barrel thought it was brilliant to change the marketing and they brought in the highest-paid advertisers to do that and they thought it was sleek
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11224
+Tags: relevance:tangential
+Investigative Direction: Cracker Barrel's 2025 logo and rebranding reversal announcements.
+
+---
+
+**C-9495** Host Says TPUSA Has Issued No Messaging on Whether Donors Were Removed
+
+Claim Timestamp: 00:34:40
+
+Claim: The host says there is no messaging from Turning Point about whether the donors in question were removed.
+
+Transcript Snippet: We've got no messaging about whether those donors were removed.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10217, N-10047
+Tags: relevance:core
+Investigative Direction: Ask TPUSA whether any donors were removed and review its public statements.
+
+---
+
+**C-9496** Host Says the Catholic Topic Dance Did Not Come From Erika
+
+Claim Timestamp: 00:34:40
+
+Claim: The host says the dance around the Catholic topic did not come from Erika Kirk.
+
+Transcript Snippet: Why are we getting this dance around the Catholic topic, which again, did not come from Erika, okay?
+
+Anchored Artifacts: 
+Mentions: N-3, N-2
+Related Nodes: N-10104, N-10164
+Tags: relevance:core
+Investigative Direction: Trace who first pushed the Catholic denial narrative among TPUSA-linked figures.
+
+---
+
+**C-9497** Host Says Erika's Watters Interview Premieres in Two Days on Fox News
+
+Claim Timestamp: 00:35:20
+
+Claim: The host says the Erika Kirk interview with Jesse Watters is going to premiere in two days on Fox News.
+
+Transcript Snippet: Look forward to obviously watching the interview that is going to premiere in two days on Fox News with Jesse Waters.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-215
+Related Nodes: N-10006, N-11107
+Tags: relevance:context
+Investigative Direction: Fox News airing schedule for the interview.
+
+---
+
+**C-9498** Host Says Charlie Was a Big Supporter of Kash Patel and Pushed for His FBI Role
+
+Claim Timestamp: 00:35:29
+
+Claim: The host says Charlie Kirk was a big supporter of Kash Patel, had him on his show and really pushed for him to get the director of the FBI role.
+
+Transcript Snippet: Charlie Kirk was a big supporter of Kash Patel, had him on his show, really pushed for him to get the role that he is in, director of the FBI
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-69
+Related Nodes: N-10202
+Tags: relevance:context
+Investigative Direction: Charlie Kirk Show episodes with Patel and public Kirk statements backing his nomination.
+
+---
+
+**C-9499** Host Says Case Messages Were Written by 20-Year-Old Gay Men and Do Not Sound Gen Z
+
+Claim Timestamp: 00:35:29
+
+Claim: The host says the impassioned messages in the case were written by 20-year-old gay men and do not exactly sound Gen Z.
+
+Transcript Snippet: from the impassioned um messages written by 20-year-old gay men, which don't exactly sound Gen Z
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10077
+Tags: relevance:core
+Investigative Direction: Obtain the court exhibits of the text chain and have a forensic linguist assess them.
+
+---
+
+**C-9500** Host Says Patel Flew His FBI Plane to Nashville to See Alexis Wilkins
+
+Claim Timestamp: 00:36:16
+
+Claim: The host says Kash Patel, as she understands it, flew his FBI plane down to Nashville to see Alexis Wilkins and that the internet called it an inappropriate use of taxpayer funds.
+
+Transcript Snippet: I guess he flew down in his FBI plane to go see her down in Nashville.
+
+Anchored Artifacts: 
+Mentions: N-3, N-69, N-216
+Related Nodes: N-10202
+Tags: relevance:context
+Investigative Direction: Flight records and any FBI or inspector-general statement on Patel's travel to Nashville.
+
+---
+
+**C-9501** Host Says Patel Is Required to Fly the FBI Plane Wherever He Goes
+
+Claim Timestamp: 00:36:16
+
+Claim: The host says it turns out the FBI director is required to fly on the FBI plane no matter where he goes, whether a personal or business event.
+
+Transcript Snippet: Now, it turns out that he is required uh to fly on the FBI plane no matter where he goes, whether it's a personal event or if it's a business event
+
+Anchored Artifacts: 
+Mentions: N-3, N-69
+Tags: relevance:context
+Investigative Direction: FBI security policy for the director's air travel.
+
+---
+
+**C-9502** Host Says Clips Show Patel Calling FBI Corrupt and Opposing Taxpayer-Funded Personal Trips
+
+Claim Timestamp: 00:36:16
+
+Claim: The host says there are clips of Kash Patel calling the FBI corrupt before he joined it and saying taxpayers should not have to fund personal trips, making him a hypocrite.
+
+Transcript Snippet: there are clips of Kash Patel uh calling the FBI corrupt before he was in the FBI and saying that taxpayer taxpayers shouldn't have to fund their personal trips.
+
+Anchored Artifacts: A-3016.1
+Mentions: N-3, N-69
+Tags: relevance:context
+Investigative Direction: Locate the original Patel clips and their dates.
+
+---
+
+**C-9503** Twitter Fact Check Says Critics React to Patel Firing People Over Travel Funds
+
+Claim Timestamp: 00:39:12
+
+Claim: The host reads a fact check on Patel's post saying people are not attacking his significant other but reacting to his firing of people who pointed out his use of government funds to travel to her shows.
+
+Transcript Snippet: People are not attacking Kash Patel's significant other, but rather reacting to his firing of people who point out his usage of government funds to travel to her shows.
+
+Anchored Artifacts: A-3015.1
+Mentions: N-69, N-216, N-3
+Related Nodes: N-10202
+Tags: relevance:context
+Investigative Direction: Locate the fact-check note and reporting on any firings tied to Patel's travel.
+
+---
+
+**C-9504** Host Says Patel Has Dated Alexis Wilkins for About a Year and a Half
+
+Claim Timestamp: 00:39:54
+
+Claim: The host says Kash Patel has only been dating Alexis Wilkins for about a year and a half and that she is not a country music sensation.
+
+Transcript Snippet: He's only been dating her by the way for like a year and a half, okay?
+
+Anchored Artifacts: 
+Mentions: N-3, N-69, N-216
+Tags: relevance:context
+Investigative Direction: Public reporting on when the relationship began and on Wilkins' music career.
+
+---
+
+**C-9505** Host Says She Is Banned From Australia
+
+Claim Timestamp: 00:44:21
+
+Claim: The host says she is banned from Australia.
+
+Transcript Snippet: I wish that I was not banned from Australia, but you know me.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-11099
+Tags: relevance:context
+Investigative Direction: Australian Department of Home Affairs visa decision documents on the host.
+
+---
+
+**C-9506** Host Says TPUSA Has Access to All of Charlie's Messages and Can Verify Hers
+
+Claim Timestamp: 00:45:18
+
+Claim: The host says Turning Point USA has access to all of Charlie's messages and can tell you that the messages she shares are real, whether or not they are true.
+
+Transcript Snippet: Is it Turning Point USA has access to all of his messages? They can tell you that the messages are real, whether they're true or whether they're false.
+
+Anchored Artifacts: A-3013.1
+Mentions: N-3, N-1
+Related Nodes: N-10206
+Supports: C-9472
+Tags: relevance:core
+Investigative Direction: Ask TPUSA to confirm or deny the authenticity of the messages the host has published.
+
+---
+
+**C-9507** Host Says Standardized Testing Flags Potential Problem People for the Government
+
+Claim Timestamp: 00:45:55
+
+Claim: The host says she believes the reason for standardized testing is that it flags for the government people who could be a problem down the line.
+
+Transcript Snippet: I believe that is the reason for standardized test testing is that it flags for the government people that could be a problem down the line.
+
+Anchored Artifacts: A-1320.5
+Mentions: N-3
+Supports: C-1580
+Tags: relevance:tangential
+Investigative Direction: No documentary support is offered; the host frames it as her belief.
+
+---
+
+**C-9508** Host Recounts Adam Lanza as Hacker Visited by FBI and Tied to Yale Program
+
+Claim Timestamp: 00:45:55
+
+Claim: The host says that a Connecticut shooter, whom she thinks is Adam Lanza, hacked a government system, then the FBI came to his door and he was part of a Yale program.
+
+Transcript Snippet: He somehow hacked the government system, and then the FBI showed up at his door, and then he was a part of some Yale program. I think it's Adam Lanza that I'm thinking of.
+
+Anchored Artifacts: A-1320.5
+Mentions: N-3, N-857
+Supports: C-1580
+Tags: relevance:tangential
+Investigative Direction: Sandy Hook investigative records (Connecticut State Attorney report) on Lanza's education and any government contact; the host herself is unsure of the name.
+
+---
+
+**C-9509** Host Says Sallie Mae Stopped Funding Her Senior Year Around 2010
+
+Claim Timestamp: 00:46:55
+
+Claim: The host says Sallie Mae had a big collapse, probably in 2010 (she says not to quote her on the year), and told her she could not return for her senior year because it could no longer fund it, so she dropped out temporarily.
+
+Transcript Snippet: Sallie Mae had a big collapse, and they said you can't go back for your senior year because we can no longer fund you to go back for your senior year.
+
+Anchored Artifacts: A-1320.6
+Mentions: N-3
+Related Nodes: N-11225
+Tags: relevance:context
+Investigative Direction: University of Rhode Island and loan records for the host; the host hedges on the year.
+
+---
+
+**C-9510** Host Says She Re-Enrolled After Paying Loans and Holds Two Degrees
+
+Claim Timestamp: 00:47:40
+
+Claim: The host says that after paying down roughly $150,000 in student loans she re-enrolled to finish her last year and has two degrees.
+
+Transcript Snippet: Once I paid down my student loans, I re-enrolled to finish my last year. And so I have two degrees, actually.
+
+Anchored Artifacts: A-1320.6
+Mentions: N-3
+Related Nodes: N-11225
+Tags: relevance:context
+Investigative Direction: Degree conferral records from the host's university.
+
+---
+
+**C-9511** Host Says Charlie Believed in Free Speech and Did Not Blink at Her Hosting Fuentes
+
+Claim Timestamp: 00:47:40
+
+Claim: The host says Charlie believed in free speech and did not even blink when she hosted Nick Fuentes, and that she would not have remained friends with him if he had called it a betrayal.
+
+Transcript Snippet: Charlie believed in free speech. He didn't even blink when I hosted Nick Fuentes.
+
+Anchored Artifacts: A-1320.7
+Mentions: N-3, N-1, N-205
+Supports: C-9455
+Tags: relevance:core
+Investigative Direction: Obtain the Kirk–Owens messages from the period of the Fuentes interview.
+
+---
+
+**C-9512** Host Says the Tucker Is Not MAGA Signs Were Donor-Printed
+
+Claim Timestamp: 00:48:20
+
+Claim: The host says the signs held up and danced with in front of Randy Fine reading "Tucker is not MAGA" were donor-printed signs.
+
+Transcript Snippet: It's not cool to hold up like some donor-printed signs and do a dance in front of Randy Fine, "Tucker is not MAGA."
+
+Anchored Artifacts: A-1313.3
+Mentions: N-3, N-226, N-22
+Related Nodes: N-10917
+Supports: C-9448
+Tags: relevance:context
+Investigative Direction: Identify the donor or organization that printed the signs; the host presents no evidence beyond assertion here.
+
+---
+
 # Optional Flags
 
 - Name uncertainty: "Jesse Waters" appears verbatim in the transcript; the Fox News host's standard spelling is "Jesse Watters." Preserved as transcript renders.
@@ -672,6 +2187,76 @@ Speaker:
 Quote: So anyone who is divisive over this right is, as Candace says it, fake and gay." Yeah, Charlie believed in free speech.
 Context: Wave 3 MemeLink backfill: Fake and Gay at 00:47:40 (audit missing_memelink).
 Tags: reuse, memelink_backfill
+Confidence: high
+
+---
+
+**M-77** (meme) Operation Mocking Pastor
+
+### Occurrence 1
+
+Video Timestamp: 00:05:30
+Speaker: N-3
+Quote: It's like Operation Mocking Pastor.
+Context: Host compares the identical anti-Tucker attacks to the alleged pastor influence operation.
+Tags: reuse, operation_mocking_pastor
+Confidence: high
+
+---
+
+**M-42** (meme) Scripted
+
+### Occurrence 1
+
+Video Timestamp: 00:00:00
+Speaker: N-3
+Quote: almost as though it's scripted.
+Context: Host says Ben Shapiro's remarks match what every Zionist said in the prior 48 hours.
+Tags: reuse, scripted
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:09:20
+Speaker: N-3
+Quote: he took a very, dare I say, scripted stab at Tucker Carlson.
+Context: Host frames Shapiro's segment as scripted.
+Tags: reuse, scripted
+Confidence: high
+
+---
+
+**M-26** (meme) Gaslight
+
+### Occurrence 1
+
+Video Timestamp: 00:23:04
+Speaker: N-3
+Quote: when they get caught they then gaslight and pretend that they didn't get caught with their hands in the cookie jar
+Context: Host says Israel gaslights after being caught over the Jerusalem Post award claim.
+Tags: reuse, gaslight
+Confidence: high
+
+---
+
+**M-248** (meme) The Market Is Always Right
+
+### Occurrence 1
+
+Video Timestamp: 00:33:19
+Speaker: N-3
+Quote: The market's always right.
+Context: Host repeats her husband's saying to argue the public does not trust TPUSA donors or the official story.
+Tags: running_bit, new
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:36:16
+Speaker: N-3
+Quote: The market is always right, okay?
+Context: Host applies the saying to the internet's reaction to Kash Patel's flight.
+Tags: running_bit, new
 Confidence: high
 
 ---
