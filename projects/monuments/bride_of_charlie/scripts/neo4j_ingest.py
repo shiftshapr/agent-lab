@@ -48,8 +48,8 @@ from neo4j_fuzzy_names import (
 try:
     from neo4j import GraphDatabase
 except ImportError:
-    print("ERROR: neo4j driver not installed. Run: uv add neo4j")
-    sys.exit(1)
+    # The parsers below need no driver (the builder and CI gates import them); only an ingest does.
+    GraphDatabase = None
 
 # ---------------------------------------------------------------------------
 # Config
@@ -1363,6 +1363,9 @@ def main():
     
     print(f"[neo4j-ingest] Connecting to {NEO4J_URI}...")
     try:
+        if GraphDatabase is None:
+            print("ERROR: neo4j driver not installed. Run: uv add neo4j")
+            sys.exit(1)
         driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
         driver.verify_connectivity()
     except Exception as e:
