@@ -6,7 +6,7 @@
 - **YouTube id**: ti5Fxrvegno
 - **Candace Ep**: 305
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–00:50:19
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: 3bf03b43dc5dbbd012ed6256f2ca3be30cbc97e23d398d12fc3dff776d32ccc0
 

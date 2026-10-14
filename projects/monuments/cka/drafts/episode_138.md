@@ -6,13 +6,13 @@
 - **YouTube id**: ChuWo-n49B8
 - **Candace Ep**: 372
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–01:03:14
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: 9ad39842779de2d5892f2906070abb930de6344475c2c461d3c9229b6e7dfc89
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10780, N-10781, N-10783, N-10784, N-10785
-  - Reused Nodes Appearing: N-2, N-516, N-3, N-40, N-54, N-1, N-10782
+  - New Nodes Introduced: N-10780, N-10781, N-10783, N-10784
+  - Reused Nodes Appearing: N-2, N-516, N-3, N-40, N-54, N-1, N-10782, N-10785
   - (see registers)
 
 ## 2. Executive Summary

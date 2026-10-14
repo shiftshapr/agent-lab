@@ -6,7 +6,7 @@
 - **YouTube id**: zSKrxIUMNqw
 - **Candace Ep**: 286
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–00:59:35
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: af4744c44da3466f3376062abb7dec86912b17b312a767e95c3978bb41f3a9e8
 
@@ -29,8 +29,8 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1587, A-1588, A-1589, A-1590, A-1591, A-1592, A-1593, A-1594, A-1595
   - Claim Range: C-2016–C-2025
-  - New Nodes Introduced: N-398, N-399, N-400, N-401, N-402, N-403, N-404, N-405, N-406, N-10385, N-10386, N-10387, N-10388, N-10389, N-10390, N-10391
-  - Reused Nodes Appearing: 
+  - New Nodes Introduced: N-398, N-399, N-400, N-401, N-402, N-403, N-404, N-405, N-406, N-10385, N-10386, N-10388, N-10389, N-10390, N-10391
+  - Reused Nodes Appearing: N-10387
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), and other pre-existing nodes (referenced where contextually applicable – Ben Shapiro, Tyler Bowyer, Tucker Carlson, Megan Kelly presumed to exist), N-11
 
 ---

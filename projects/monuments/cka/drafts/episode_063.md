@@ -6,7 +6,7 @@
 - **YouTube id**: A39g5oqB_eM
 - **Candace Ep**: 296
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–00:59:06
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: 66587d7a4421da88738bff5bc6b5a63723d99c10368f6539b5cddd00de9e63f1
 

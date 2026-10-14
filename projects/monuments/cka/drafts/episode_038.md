@@ -6,14 +6,13 @@
 - **YouTube id**: tB5SXXmd9vU
 - **Candace Ep**: 271
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–01:02:01
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: aad9b594be730478a8051e834c8dd3ae3c76a0895b472f75831b8b225046f268
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-288, N-289, N-290, N-291, N-292, N-293, N-294, N-295, N-296, N-297, N-10283, N-10284, N-10285, N-10286, N-10287, N-10288, N-10289, N-10290, N-10291, N-10292, N-10293, N-10294, N-10295, N-10296, N-10297
-  - Reused Nodes Appearing: none
-  - Hole-minted Nodes (w2_1): N-387
+  - New Nodes Introduced: N-288, N-289, N-291, N-292, N-293, N-294, N-295, N-296, N-297, N-10283, N-10285, N-10286, N-10287, N-10288, N-10289, N-10290, N-10291, N-10292, N-10293, N-10295, N-10296, N-10297
+  - Reused Nodes Appearing: none, N-290, N-387, N-10284, N-10294
   - (see registers)
 
 ## 2. Executive Summary

@@ -13,8 +13,8 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-10874, N-10875, N-10876, N-10877, N-10878, N-10879
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-9, N-14, N-68, N-69, N-82, N-85, N-131, N-212, N-272, N-276, N-277, N-337, N-374, N-10324, N-10559, N-10666, N-10687, N-10699, N-10737, N-10839, N-10859, N-10867, N-10872, N-8, N-10, N-25, N-217
-  - Hole-minted Nodes (seq160): N-168, N-175, N-180, N-198, N-206, N-210, N-228, N-230, N-231, N-268
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-9, N-14, N-68, N-69, N-82, N-85, N-131, N-212, N-272, N-276, N-277, N-337, N-374, N-10324, N-10559, N-10666, N-10687, N-10699, N-10737, N-10839, N-10859, N-10867, N-10872, N-8, N-10, N-25, N-217, N-231
+  - Hole-minted Nodes (seq160): N-168, N-175, N-180, N-198, N-206, N-210, N-228, N-230, N-268
   - (see registers)
   - Person band: new persons at N-168 and above. No person id in the topic band (one thousand through nine thousand nine hundred ninety-nine). Mark Herman (show director) does not appear by name in this episode; N-67 not cited. Sponsor reads (PreBorn, Beekeepers Naturals, PureTalk, Nimi, American Financing) treated as non-claim.
 

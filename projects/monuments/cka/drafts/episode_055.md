@@ -6,13 +6,13 @@
 - **YouTube id**: CMcktj3Egfo
 - **Candace Ep**: 288
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–00:53:08
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: a5bff101f5406cc545238101be4cd19cc555a0c068fccc2dca23c05ae7f6ae04
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-447, N-448, N-449, N-450, N-451, N-452, N-453, N-454, N-10402, N-10403, N-10404, N-10405, N-10406, N-10407, N-10408
-  - Reused Nodes Appearing: 
+  - New Nodes Introduced: N-447, N-448, N-449, N-450, N-451, N-452, N-453, N-454, N-10402, N-10403, N-10404, N-10405, N-10407, N-10408
+  - Reused Nodes Appearing: N-10406
   - (see registers)
 
 # Episode 55 – Analysis Record

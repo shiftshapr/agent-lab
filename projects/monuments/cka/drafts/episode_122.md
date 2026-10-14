@@ -6,12 +6,12 @@
 - **YouTube id**: IqHsl7d2dos
 - **Candace Ep**: 356
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–01:08:09
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: 80c78af8806a54fe976848d2fa3b81e764734789b67b8f5aaf8e2423a2666f0c
 
 - **Episode Ledger Summary**:
-  - Reused Nodes Appearing: N-10698, N-10700, N-10701, N-10704
+  - Reused Nodes Appearing: N-10698, N-10700, N-10701, N-10704, N-10699, N-10703
   - (see registers)
 
 # I. Meta-Data
@@ -29,7 +29,7 @@
 **Episode Ledger Summary**
 - Artifact Families Introduced: A-2104, A-2105, A-2106, A-2107, A-2108, A-2109
 - Claim Range: C-2969–C-2985
-  - New Nodes Introduced: N-10696, N-10697, N-10698, N-10699, N-10700, N-10701, N-10702, N-10703, N-10704
+  - New Nodes Introduced: N-10696, N-10697, N-10698, N-10700, N-10701, N-10702, N-10704
   - Reused Nodes Appearing: N-11, N-443
 - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk, N-3 Candace Owens
 

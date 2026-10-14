@@ -996,6 +996,23 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-767",
+      "ref": "N-767",
+      "name": "Astrid Tuminez",
+      "type": "person",
+      "description": "UVU president (also transcribed \"Tumz\"); first named in C-1711.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1711"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1318,7 +1335,8 @@
       "claim_timestamp": "00:44:05",
       "investigative_direction": "Locate the published Samir / Tuminez interview and review sourcing/conditions.",
       "mentions_person_refs": [
-        "N-264"
+        "N-264",
+        "N-767"
       ]
     },
     {
@@ -1406,6 +1424,18 @@
       "occurrences": [
         {
           "episode": 32,
+          "video_timestamp": "00:00:44",
+          "speaker_node_ref": "N-3",
+          "quote": "r way to present that information. It's a fact now that everything is fake and gay and dangerously so. I was freaking out realizing that quite lite...",
+          "context": "Fake and gay dismissal refrain. (CKA seq 32)",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "pass2"
+          ]
+        },
+        {
+          "episode": 32,
           "video_timestamp": "00:52:28",
           "speaker_node_ref": "N-3",
           "quote": "So don't miss out on that because everything is fake and gay and that's a good merch drop.",
@@ -1414,6 +1444,50 @@
           "tags": [
             "reuse",
             "memelink_backfill"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-38",
+      "ref": "M-38",
+      "canonical_term": "MK Ultra",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 32,
+          "video_timestamp": "00:02:23",
+          "speaker_node_ref": "N-3",
+          "quote": "did we leave off on the brit mccron? I was speaking to you guys about MK Ultra. How odd it was that of everything I said in my series, Breijgit Mcr...",
+          "context": "Later reuse of MK Ultra in CKA seq 32.",
+          "confidence": "high",
+          "tags": [
+            "psyop",
+            "history",
+            "analogy",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 32,
+          "video_timestamp": "00:53:14",
+          "speaker_node_ref": "N-3",
+          "quote": "eep you and your family safe. I love you, sweet girl. Christ is king. Go Max. Go Max. Indeed, we are going Max. Truth accountability writes Candace...",
+          "context": "Go Max battle cry. (CKA seq 32)",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "pass2"
           ]
         }
       ]

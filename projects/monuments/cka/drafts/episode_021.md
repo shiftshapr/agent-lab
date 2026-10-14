@@ -6,7 +6,7 @@
 - **YouTube id**: Qt0VHV-POCg
 - **Candace Ep**: 254
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–00:57:35
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: b8b7fc2a633b3553c7b59c525ff8b33ee7df3017e487dccce1e3382534f8853d
 
@@ -55,8 +55,8 @@ Confidence: high
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1283, A-1284, A-1285, A-1286, A-1287, A-1288, A-1289
   - Claim Range: C-1514–C-1526
-  - New Nodes Introduced: N-203, N-10200, N-10201, N-10202
-  - Reused Nodes Appearing: 
+  - New Nodes Introduced: N-203, N-10200, N-10202
+  - Reused Nodes Appearing: N-10201
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-132
 
 ---

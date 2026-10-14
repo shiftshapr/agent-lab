@@ -6,11 +6,12 @@
 - **YouTube id**: AH1KVKkweUE
 - **Candace Ep**: 370
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–00:51:59
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: e212815bd237d77e5c89e294f4374f950a75b0d1dfe19a747008a4f9ef4bfdb9
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (reintro-ep136): N-764
   - New Nodes Introduced: N-10771, N-10772, N-10773, N-10774, N-10775
   - Hole-minted Nodes (wave3): N-568
   - Reused Nodes Appearing: N-388, N-518
@@ -255,6 +256,14 @@ Confidence Level: Medium (verbally referenced; not directly displayed)
 
 ## IV. Node Register
 
+**N-764** Allan Robertson
+
+Named by the host as the red-hat man on the Losee rooftop (C-3199).
+
+*Related: C-3199*
+
+---
+
 **N-568** Christopher Hawk
 
 First named by the host at 00:17:52 in episode 136.
@@ -421,7 +430,7 @@ Claim Timestamp: 00:16:47
 Claim: Per an X post by Muppet Masher, the red-hat man visible in the 12:47 PM bystander footage was identified as Allan Robertson of the Utah State University Department of Public Safety.
 
 Anchored Artifacts: A-2234.1, A-2227.1
-Mentions: N-568
+Mentions: N-568, N-764
 Related Nodes: N-10772
 
 Investigative Direction: Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements.

@@ -6,11 +6,12 @@
 - **YouTube id**: r1PS67aRmcA
 - **Candace Ep**: 261
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–00:54:53
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: 2d9d0df8e23c9f62f81f6c3e040382229ea2371024c1d0d0064710f1b9969c26
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (reintro-ep028): N-725
   - (see registers)
 
 ## 6. Meme Register
@@ -214,6 +215,14 @@ Confidence Level: High (audio played on air)
 ## IV. Node Register
 
 ### People
+
+**N-725** Ron Paul
+
+Libertarian former congressman; named in C-1649 (Shapiro imagery).
+
+*Related: C-1649*
+
+---
 
 **N-239** Elle Reeve
 
@@ -496,7 +505,7 @@ Claim Timestamp: 00:02:12
 Claim: Ben Shapiro previously posted tweets containing imagery of Ron Paul "leaning forward from the grave and strangling the Jews" and "gripping the pen as he would the neck of a Jew."
 
 Anchored Artifacts: A-1355.3
-Mentions: N-97
+Mentions: N-97, N-725
 
 Related Nodes:
 

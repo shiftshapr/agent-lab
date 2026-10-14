@@ -6,12 +6,14 @@
 - **YouTube id**: _cNtgris8Ik
 - **Candace Ep**: 379
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–01:10:13
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: adca755f11f97530ce6adde89de991d04818ffab651baee8be2f4e7f2c5d59fc
 
 - **Episode Ledger Summary**:
-  - Reused Nodes Appearing: N-10810, N-10812, N-10813
+  - Tip-minted Nodes (supplement_2026-10): N-765, N-11070, N-11071, N-11072, N-11073
+  - Claim Range (supplement_2026-10): C-6091–C-6170
+  - Reused Nodes Appearing: N-10810, N-10812, N-10813, N-3, N-4, N-27, N-30, N-31, N-40, N-54, N-97, N-102, N-194, N-10003, N-10043, N-10051, N-10100, N-10110, N-10162, N-10250, N-10337, N-10340, N-10346, N-10381, N-10386, N-10456, N-10774, N-764
  - New Nodes Introduced: N-10810, N-10811, N-10812, N-10813
  - Hole-minted Nodes (wave3): N-592
  - Reused Nodes Appearing: N-11, N-18, N-581
@@ -226,6 +228,82 @@ Confidence Level: High
 
 ---
 
+**A-2797** Terrell Selfie Video Metadata Bundle
+
+**A-2797.1** Host verbal reference to metadata on Terrell Farnsworth's self-recorded video (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:09:47
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-6101, C-6102, C-6103, N-3*
+
+---
+
+**A-2798** Maroon Figure and Aspect-Ratio Correction Bundle
+
+**A-2798.1** Host verbal reference to the previously presented 4K court image of the maroon-shirted man (described, not shown here)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:14:18
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-6110, N-3*
+
+---
+
+**A-2798.2** Host verbal reference to an email correcting the term 'compressed' to 'aspect ratio decreased' (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:14:18
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-6111, N-3*
+
+---
+
+**A-2799** Wilson Kolvet Steakhouse Receipt Audio Bundle
+
+**A-2799.1** Audio played from the Kolvet/Neff show of Andrew Wilson and a co-host discussing the steakhouse receipt and exculpatory evidence
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:28:04
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-6115, C-6116, N-3*
+
+---
+
+**A-2800** Kolvet Difficult-to-Work-With Audio Bundle
+
+**A-2800.1** Audio played from the Kolvet/Neff show of Kolvet describing the host as difficult to work with and a cancelled event
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:44:06
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-6137, C-6138, C-6139, C-6140, N-3*
+
+---
+
+**A-2801** Charlie Kirk 2018 Death-Prediction Texts Bundle
+
+**A-2801.1** Host verbal reference to 2018 text messages from Charlie Kirk predicting his own death (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:40:53
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-6134, N-3*
+
+---
+
 ## IV. Node Register
 
 **N-592** Mark Bricker
@@ -303,6 +381,322 @@ Node Type: Person
 Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
 
 *Related: C-3322*
+
+---
+
+**N-1** Charlie Kirk
+
+Subject of the assassination; the host and the Kolvet/Neff show dispute the history of his friendship with her.
+
+*Related: C-6092, C-6100, C-6101, C-6108, C-6127, C-6129, C-6130, C-6131, C-6132, C-6133, C-6134, C-6135, C-6136, C-6138, C-6143, C-6146, C-6149, C-6151, C-6152, C-6154, C-6156, C-6161, C-6166, C-6167, C-6170*
+
+---
+
+**N-2** Erika Kirk
+
+Widow and TPUSA CEO; named as the person Terrell Farnsworth says he spoke to and as taking over the organization.
+
+*Related: C-6096, C-6107, C-6108, C-6109, C-6132, C-6158, C-6162*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-6091, C-6092, C-6093, C-6094, C-6095, C-6096, C-6097, C-6098, C-6099, C-6100, C-6101, C-6102, C-6103, C-6104, C-6105, C-6106, C-6107, C-6108, C-6109, C-6110, C-6111, C-6112, C-6113, C-6114, C-6117, C-6118, C-6119, C-6120, C-6121, C-6122, C-6123, C-6124, C-6125, C-6126, C-6127, C-6128, C-6129, C-6130, C-6131, C-6132, C-6133, C-6134, C-6135, C-6136, C-6137, C-6138, C-6139, C-6140, C-6141, C-6142, C-6143, C-6144, C-6145, C-6147, C-6148, C-6149, C-6150, C-6151, C-6152, C-6153, C-6154, C-6155, C-6156, C-6157, C-6158, C-6159, C-6160, C-6161, C-6162, C-6163, C-6164, C-6165, C-6166, C-6167, C-6168, C-6169, C-6170*
+
+---
+
+**N-4** JD Vance
+
+Named by Kolvet as hosting Charlie's show the Monday after the shooting.
+
+*Related: C-6146*
+
+---
+
+**N-14** Andrew Kolvet
+
+TPUSA spokesperson and co-host of the show; source of several accounts the host disputes.
+
+*Related: C-6091, C-6093, C-6109, C-6115, C-6116, C-6123, C-6137, C-6138, C-6139, C-6145, C-6146, C-6147, C-6149, C-6150, C-6151, C-6152, C-6153, C-6154, C-6155, C-6156, C-6157, C-6158, C-6159, C-6161*
+
+---
+
+**N-27** Kanye West
+
+Kanye West; the host's France trip with him is the cancelled-event story.
+
+*Related: C-6139, C-6141*
+
+---
+
+**N-30** George (Candace's husband)
+
+The host's husband, who she says became close to Charlie during their engagement.
+
+*Related: C-6135*
+
+---
+
+**N-31** Rush Limbaugh
+
+Radio host Charlie Kirk admired, per the host.
+
+*Related: C-6170*
+
+---
+
+**N-36** Benjamin Netanyahu
+
+Netanyahu; the host recounts Kolvet's briefing about his letter and show refusal.
+
+*Related: C-6151, C-6154, C-6156*
+
+---
+
+**N-40** Tyler Robinson
+
+Accused; the host disputes that he fired the shot and discusses his campus presence.
+
+*Related: C-6110, C-6163, C-6164, C-6166, C-6168*
+
+---
+
+**N-54** Lance Twiggs
+
+Named by the host regarding what he said about political discussions with Tyler.
+
+*Related: C-6168*
+
+---
+
+**N-97** Ben Shapiro
+
+Named in the burn-down exchange and the host's rejection of a Shapiro takeover theory.
+
+*Related: C-6147, C-6148*
+
+---
+
+**N-102** Michael Knowles
+
+Whom the host says she asked to sub for her at the cancelled event.
+
+*Related: C-6144*
+
+---
+
+**N-162** Blake Neff
+
+Co-host of the Kolvet/Neff show; says he never met the host.
+
+*Related: C-6091, C-6115, C-6128, C-6129, C-6130, C-6131, C-6133, C-6147*
+
+---
+
+**N-194** Mikey McCoy
+
+Named by the host as the person Kolvet said had Netanyahu's letter on Charlie's laptop.
+
+*Related: C-6151*
+
+---
+
+**N-207** Ana Kasparian
+
+Interviewer who asked the host about the SD card.
+
+*Related: C-6094*
+
+---
+
+**N-267** Terrell Farnsworth
+
+AV contractor whose handling of the camera and SD card is the episode's main thread.
+
+*Related: C-6093, C-6095, C-6097, C-6098, C-6100, C-6101, C-6102, C-6103, C-6104, C-6105, C-6106, C-6107, C-6108, C-6109*
+
+---
+
+**N-276** Dan Flood
+
+Recipient of Charlie's night-before text messages, per the host.
+
+*Related: C-6152*
+
+---
+
+**N-581** David Hull
+
+Lead investigator whose preliminary hearing testimony the host cites.
+
+*Related: C-6099, C-6114*
+
+---
+
+**N-10003** Charlie-Candace Friendship Continuity
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6128, C-6129, C-6130, C-6131, C-6132, C-6133, C-6134, C-6135, C-6136*
+
+---
+
+**N-10043** Two-Person Theory (Maroon vs Stairs)
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6165*
+
+---
+
+**N-10051** Dairy Queen 6:38 Photo Verification
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6163*
+
+---
+
+**N-10100** TPUSA SD Card Removal
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6097*
+
+---
+
+**N-10110** Tyler Robinson Evidence Gaps
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6120, C-6164, C-6166, C-6167, C-6168*
+
+---
+
+**N-10162** SD Card Removal Narrative Discrepancy
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6103, C-6105, C-6106, C-6109*
+
+---
+
+**N-10250** Charlie Kirk Event – Maroon Shirt Individual Identification
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6110*
+
+---
+
+**N-10337** Tyler Robinson Prosecution Evidence Base
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6096*
+
+---
+
+**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6152, C-6153*
+
+---
+
+**N-10346** Terrell Farnsworth Camera Removal Justification
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6093, C-6100, C-6107, C-6108, C-6109*
+
+---
+
+**N-10381** Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6115, C-6116, C-6117, C-6118, C-6119, C-6121, C-6122*
+
+---
+
+**N-10386** Ben Shapiro Hostile Takeover Pattern
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6148*
+
+---
+
+**N-10456** Charlie Kirk BB Netanyahu Show Refusal
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6154*
+
+---
+
+**N-10774** Allan Robertson Brady List Entry / San Bernardino Transfer
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-6104*
+
+---
+
+**N-764** Allan Robertson
+
+First named by the host at 00:09:47 in episode 144. Person the host says was visiting from Utah State University, undercover among protesters, and therefore could not have told Terrell Farnsworth to get the footage.
+
+*Related: C-6104*
+
+---
+
+**N-765** Andrea Birkhart
+
+First named by a speaker on the Kolvet/Neff show at 00:29:09 in episode 144. Described as an apolitical person asked whether a defense would present exculpatory evidence at a preliminary hearing; spelled Birkhart in the transcript.
+
+*Related: C-6116*
+
+---
+
+**N-11070** Terrell Selfie Video Metadata Timeline
+
+Node Type: Topic
+Host's use of the metadata on Terrell Farnsworth's self-recorded video to place his filming end at about 12:26 and the start of camera removal near 12:28, bearing on whether police could have instructed him.
+
+*Related: C-6101, C-6102, C-6103*
+
+---
+
+**N-11071** Hitler Remark Clip Dispute
+
+Node Type: Topic
+Dispute over what the host said about nationalism and Hitler in a 2018 appearance, how Kolvet characterized it, and Andrew Wilson's on-air pushback.
+
+*Related: C-6123, C-6126, C-6127*
+
+---
+
+**N-11072** Cancelled TPUSA Event and Kanye France Trip
+
+Node Type: Topic
+Kolvet's account that the host cancelled a TPUSA event the day before to go to France with Kanye West, and the host's account that it was the only cancellation, in late 2022, with Charlie's approval.
+
+*Related: C-6139, C-6140, C-6141, C-6143, C-6144*
+
+---
+
+**N-11073** Kolvet Burn-Down Conversation Account
+
+Node Type: Topic
+Competing accounts of the host's September 2025 'burn it down' remark: Kolvet's version about wrong people taking over TPUSA and the host's version about foreign involvement.
+
+*Related: C-6145, C-6147, C-6157, C-6161, C-6162*
 
 ---
 
@@ -518,9 +912,1426 @@ Investigative Direction: Cross-reference with TPUSA corporate filings, board min
 
 ---
 
+**C-6091** Host Says Kolvet Debate Guest Wilson Was Debated Last Friday
+
+Claim Timestamp: 00:00:01
+
+Claim: The host says she debated Andrew Wilson last Friday and that Andrew Kolvet then had Wilson on the Kolvet and Blake Neff show.
+
+Transcript Snippet: He brought on Andrew Wilson, who I debated last Friday, onto their Beus and Butudad platform.
+
+Anchored Artifacts: 
+Mentions: N-3, N-18, N-14, N-162
+Investigative Direction: Confirm the debate date and the Kolvet/Neff episode air date from the platforms' upload records.
+
+---
+
+**C-6092** Host Says Journalists Work With Influencers to Imply She Is the Assassin
+
+Claim Timestamp: 00:00:01
+
+Claim: The host alleges that journalists are working with a ring of influencers to insert stories implying she is the true assassin of Charlie Kirk.
+
+Transcript Snippet: the journalists working with them to insert stories about me implying that I'm the true assassin of Charlie Kirk.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Investigative Direction: Identify the specific published stories and any communications between those journalists and the influencers; this rests on the host's characterization.
+
+---
+
+**C-6093** Host Recalls Kolvet Said Terrell Worried About Hat Thieves
+
+Claim Timestamp: 00:03:22
+
+Claim: The host says Andrew Kolvet told the audience that Terrell Farnsworth removed the camera card because he was worried about people stealing hats, which she says does not fit the footage.
+
+Transcript Snippet: we were told by Andrew Kovette that he was worried about people stealing hats.
+
+Anchored Artifacts: 
+Mentions: N-14, N-267, N-3
+Related Nodes: N-10346
+Supports: C-3294
+Investigative Direction: Obtain Kolvet's original on-air statement about hats and compare it with Farnsworth's own explanation to the host.
+
+---
+
+**C-6094** Host Says She Interviewed With Ana Kasparian the Day Before
+
+Claim Timestamp: 00:04:07
+
+Claim: The host says she joined Ana Kasparian's program for an interview the day before this episode, where Kasparian asked about the SD card.
+
+Transcript Snippet: yesterday I joined Ana Kasparian on her program uh for an interview
+
+Anchored Artifacts: A-2302.1
+Mentions: N-3, N-207
+Related Nodes: N-10810
+Investigative Direction: Locate the Kasparian interview upload and confirm its date and the question asked.
+
+---
+
+**C-6095** Host Cites Utah Definition of Evidence Tampering
+
+Claim Timestamp: 00:05:06
+
+Claim: The host says the Utah code defines tampering with evidence as altering, destroying, concealing or removing an item with the purpose of impairing its veracity or availability in a proceeding or investigation, and that this could be charged as a felony in Utah.
+
+Transcript Snippet: altering, destroying, concealing, or removing a thing or item with the purpose of impairing its veracity or availability of the thing or item in the proceeding or investigation.
+
+Anchored Artifacts: 
+Mentions: N-267, N-3
+Related Nodes: N-10810
+Investigative Direction: Check the quoted wording against the current Utah evidence-tampering statute and its felony grading.
+
+---
+
+**C-6096** Host Says Prosecution Inferred From Videos at Preliminary Hearing
+
+Claim Timestamp: 00:06:06
+
+Claim: The host says the prosecution team at the preliminary hearing looked at videos and inferred what it believed it saw, and that she is doing the same with the footage.
+
+Transcript Snippet: We're doing what Erika's prosecution did um her prosecution team did at the preliminary hearing, looking at the videos and inferring upon what we believe we see.
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-10337
+Investigative Direction: Review the preliminary hearing transcript for how the prosecution described video evidence.
+
+---
+
+**C-6097** Host Says It Is Undisputed Terrell Removed a Physical Object
+
+Claim Timestamp: 00:06:06
+
+Claim: The host says it is not in dispute that Terrell Farnsworth removed a physical object from the crime scene and then went behind the tent and put it in his pocket.
+
+Transcript Snippet: What is not in dispute is that Terrell did in fact remove a physical object from the crime scene.
+
+Anchored Artifacts: 
+Mentions: N-267, N-3
+Related Nodes: N-10100
+Investigative Direction: Confirm against the host's earlier footage and any statement by Farnsworth or investigators.
+
+---
+
+**C-6098** Host Says Footage Was Zoomed In When Given to Her Nine Days Later
+
+Claim Timestamp: 00:07:11
+
+Claim: The host says the footage Terrell Farnsworth presented to her nine days after the shooting had already been zoomed in, though she says it is unknown whether he or someone else zoomed it.
+
+Transcript Snippet: What we can say for certain is that he had zoomed in by the time he presented it to me nine nine days later.
+
+Anchored Artifacts: 
+Mentions: N-267, N-3
+Related Nodes: N-10810
+Supports: C-3293
+Investigative Direction: Obtain the original back-camera file with metadata and compare it with the version the host received.
+
+---
+
+**C-6099** Host Says Hull Placed Lead Investigators on Scene Around 1:30
+
+Claim Timestamp: 00:07:11
+
+Claim: The host says David Hull testified that the lead investigators arrived on the scene around 1:30.
+
+Transcript Snippet: who were on the scene, who arrived on the scene around 1:30, I believe he said.
+
+Anchored Artifacts: A-2304.1
+Mentions: N-581, N-3
+Related Nodes: N-10810
+Investigative Direction: Check the preliminary hearing transcript for Hull's stated arrival time.
+
+---
+
+**C-6100** Host Says Terrell Declared Charlie Dead in a Selfie Video
+
+Claim Timestamp: 00:08:11
+
+Claim: The host says Terrell Farnsworth declared in a selfie video that Charlie Kirk was dead within about two minutes of the shooting, which she uses to argue he knew it was a crime scene.
+
+Transcript Snippet: he declared, you'll recall in a selfie video, that Charlie was dead.
+
+Anchored Artifacts: 
+Mentions: N-267, N-1, N-3
+Related Nodes: N-10346
+Supports: C-4653
+Investigative Direction: Review the selfie video and its metadata for the time and wording of the declaration.
+
+---
+
+**C-6101** Host Says Terrell's Selfie Video Metadata Runs to Just After 12:26
+
+Claim Timestamp: 00:09:47
+
+Claim: The host says metadata on Terrell Farnsworth's self-recorded video shows he filmed himself until just after 12:26, with Charlie Kirk struck at 12:23.
+
+Transcript Snippet: Terl was filming himself until just after 12:26. So Charlie gets hit at 12 23 and Terl is filming himself until 12:26 and 16 milliseconds.
+
+Anchored Artifacts: A-2797.1
+Mentions: N-267, N-1, N-3
+Related Nodes: N-11070
+Investigative Direction: Obtain the original file Farnsworth sent the host and verify embedded creation and end times.
+
+---
+
+**C-6102** Host Says Terrell Began Taking the Camera Down Around 12:28
+
+Claim Timestamp: 00:09:47
+
+Claim: The host says it was almost precisely 12:28 when Terrell Farnsworth began taking the camera down, leaving about a minute and a half for any officer to tell him to secure the footage.
+
+Transcript Snippet: It's around almost precisely 12:28 that he begins taking the camera down.
+
+Anchored Artifacts: A-2797.1
+Mentions: N-267, N-3
+Related Nodes: N-11070
+Investigative Direction: Frame-date the footage of the camera removal against the corroborated shooting time.
+
+---
+
+**C-6103** Host Says Police Instruction Is Hardly Possible in the Time Window
+
+Claim Timestamp: 00:09:47
+
+Claim: The host says it is hardly possible that law enforcement officers on the scene told Terrell Farnsworth to secure the footage, given the metadata timeline.
+
+Transcript Snippet: it's hardly possible that law enforcement officers on the scene told him to secure the footage
+
+Anchored Artifacts: A-2797.1
+Mentions: N-267, N-3
+Related Nodes: N-11070, N-10162
+Contradicts: C-1366
+Investigative Direction: Ask investigators whether any officer instructed Farnsworth, and obtain body-camera logs from the first minutes.
+
+---
+
+**C-6104** Host Rules Out Allan Robertson as Having Told Terrell
+
+Claim Timestamp: 00:09:47
+
+Claim: The host says Allan Robertson can be ruled out as the one who told Terrell to get the footage: she says he was visiting from Utah State University, undercover to check protesters, and would not have known who Terrell was.
+
+Transcript Snippet: Allan Robertson, we determined, was just visiting from Utah State University. He was undercover because he was there to check out the protesters ahead of the event.
+
+Anchored Artifacts: 
+Mentions: N-764, N-267, N-3
+Related Nodes: N-10774
+Supports: C-3199
+Investigative Direction: Confirm Robertson's role and location from USU police records and the host's earlier reporting.
+
+---
+
+**C-6105** Host Says She Was Told Terrell Was Told the Opposite
+
+Claim Timestamp: 00:09:47
+
+Claim: The host says she was told, allegedly, that Terrell Farnsworth was told to do the exact opposite and not disturb the crime scene.
+
+Transcript Snippet: And I was told, and I will say allegedly here, that actually Terrell was told to do the exact opposite.
+
+Anchored Artifacts: 
+Mentions: N-267, N-3
+Related Nodes: N-10162
+Contradicts: C-4611
+Investigative Direction: Identify the host's source and any witness who gave Farnsworth that instruction.
+
+---
+
+**C-6106** Host Says Terrell Never Claimed Police Told Him
+
+Claim Timestamp: 00:11:42
+
+Claim: The host says Terrell Farnsworth never claimed police told him to take the footage and that this narrative came only from Tyler Bowyer.
+
+Transcript Snippet: this narrative uh of the police told him to do that. Terrell himself never made that claim.
+
+Anchored Artifacts: 
+Mentions: N-267, N-11, N-3
+Related Nodes: N-10162
+Supports: C-4606
+Investigative Direction: Compare Bowyer's public statements with Farnsworth's account to the host.
+
+---
+
+**C-6107** Host Says Terrell Named Only Erika as Someone He Spoke To
+
+Claim Timestamp: 00:11:42
+
+Claim: The host says the only person Terrell Farnsworth mentioned speaking to was Erika Kirk, without saying when, and that she is not suggesting Erika directed him.
+
+Transcript Snippet: I'm just asserting that factually the only person that he mentioned to me that he spoke to was Erika.
+
+Anchored Artifacts: 
+Mentions: N-267, N-2, N-3
+Related Nodes: N-10346
+Supports: C-4606
+Investigative Direction: Ask Farnsworth and Erika Kirk about the timing and content of that conversation.
+
+---
+
+**C-6108** Host Says Terrell Said He Wanted to Spare Erika Seeing Charlie Die in 4K
+
+Claim Timestamp: 00:11:42
+
+Claim: The host says her understanding was that Terrell Farnsworth acted on his own volition because he did not want Erika Kirk to have to see Charlie Kirk die in 4K.
+
+Transcript Snippet: he did not want Erika to have to see Charlie die in 4K.
+
+Anchored Artifacts: 
+Mentions: N-267, N-2, N-1, N-3
+Related Nodes: N-10346
+Investigative Direction: Obtain Farnsworth's own statement of motive and compare it with the police-instruction and hat explanations.
+
+---
+
+**C-6109** Host Lists Three Conflicting Explanations for Taking the Footage
+
+Claim Timestamp: 00:12:37
+
+Claim: The host says Tyler Bowyer said police told Terrell, Terrell said he acted on his own volition to protect Erika, and Andrew Kolvet said it was about hat thieves.
+
+Transcript Snippet: You had Tyler saying the police said it. You had Terrell saying that he did it out of his own valition to protect Erika.
+
+Anchored Artifacts: 
+Mentions: N-11, N-267, N-2, N-14, N-3
+Related Nodes: N-10162, N-10346
+Investigative Direction: Collect each explanation with date and venue and ask TPUSA to reconcile them.
+
+---
+
+**C-6110** Host Says Maroon Man in Court Footage Looks Wider Than Tyler Robinson
+
+Claim Timestamp: 00:14:18
+
+Claim: The host says the maroon-shirted man in the 4K court footage looks a lot wider than Tyler Robinson and that influencers shown it failed to mention this.
+
+Transcript Snippet: this guy looks to be wider, a lot wider than Tyler Robinson.
+
+Anchored Artifacts: A-2798.1
+Mentions: N-40, N-3
+Related Nodes: N-10250, N-10811
+Investigative Direction: Measure the figure's proportions in unaltered footage against Robinson's known dimensions.
+
+---
+
+**C-6111** Host Says Emailer Corrected Compressed to Aspect Ratio Decreased
+
+Claim Timestamp: 00:14:18
+
+Claim: The host says an email told her the technically correct description of what was done to the court footage is that its aspect ratio was decreased, not that it was compressed.
+
+Transcript Snippet: the correct way to describe this what was done to the footage is not to say that it was uh compressed.
+
+Anchored Artifacts: A-2798.2
+Mentions: N-3
+Related Nodes: N-10811
+Investigative Direction: Identify the emailer's expertise and check the description against the exhibit file properties.
+
+---
+
+**C-6112** Host Says Her Government Source Confirmed the Footage Was Modified
+
+Claim Timestamp: 00:14:18
+
+Claim: The host says the footage shown in court was in effect modified and that her government source confirmed it.
+
+Transcript Snippet: The footage that you saw in court that I saw in court was in effect modified. My government source confirmed that.
+
+Anchored Artifacts: A-2305.1
+Mentions: N-3
+Related Nodes: N-10811
+Supports: C-3318
+Investigative Direction: Seek the court exhibit original and ask the source on record, or a second source, to confirm.
+
+---
+
+**C-6113** Host Denies Using AI After a Lawyer Accused Her
+
+Claim Timestamp: 00:14:18
+
+Claim: The host says an online Canadian lawyer claimed she used AI and was lying about the footage, and that she did not use AI.
+
+Transcript Snippet: I go online and I have that unhinged Canadian lawyer claiming that I used AI, claiming that I'm lying
+
+Anchored Artifacts: A-2305.1, A-2305.2
+Mentions: N-3
+Related Nodes: N-10811
+Investigative Direction: Identify the lawyer's posts and compare the host's slowed and normal-speed footage with the court exhibit.
+
+---
+
+**C-6114** Host Says Hull Testified Bricker Gathered All UVU Surveillance
+
+Claim Timestamp: 00:18:29
+
+Claim: The host says David Hull testified that on September 10 Sergeant Mark Bricker of the SBI was put in charge of gathering all of the surveillance on campus at UVU.
+
+Transcript Snippet: Sergeant Mark Bricker of the SBI was put in charge of gathering all of the surveillance on campus at UVU.
+
+Anchored Artifacts: A-2304.1
+Mentions: N-581, N-592, N-3
+Related Nodes: N-10810, N-10811
+Investigative Direction: Obtain the preliminary hearing transcript for Hull's chain-of-custody testimony on surveillance collection.
+
+---
+
+**C-6115** Wilson Says Hundreds of DMs Called the Steakhouse Receipt a Fraud
+
+Claim Timestamp: 00:28:04
+
+Claim: Andrew Wilson says on the Kolvet/Neff show that he received hundreds of DMs from people who did not know the steakhouse receipt was a complete phony fraud.
+
+Transcript Snippet: I got hundreds of DMs, for instance, from people who didn't know that the steakhouse receipt was a complete phony fraud
+
+Anchored Artifacts: A-2799.1
+Mentions: N-18, N-14, N-162
+Related Nodes: N-10381
+Contradicts: C-2004
+Investigative Direction: Establish what evidence Wilson relies on for calling the receipt fraudulent.
+
+---
+
+**C-6116** Podcast Speaker Relays Birkhart: Defense Would Present Exculpatory Evidence
+
+Claim Timestamp: 00:29:09
+
+Claim: A speaker on the Kolvet/Neff show, apparently Kolvet, says Andrea Birkhart told him a defense with exculpatory evidence such as a steakhouse receipt would present it at the preliminary hearing.
+
+Transcript Snippet: If they had exculpatory evidence, whether it's the parents that actually, you know, think he's innocent or they have some steakhouse receipt, would they not present that at the preliminary hearing?
+
+Anchored Artifacts: A-2799.1
+Mentions: N-765, N-14
+Related Nodes: N-10381
+Investigative Direction: Ask Birkhart on record and compare with the defense's stated reasons for not presenting evidence at the hearing.
+
+---
+
+**C-6117** Host Says the FBI Took a Statement From the Restaurant Owner
+
+Claim Timestamp: 00:29:58
+
+Claim: The host says the FBI is aware of the steakhouse receipt and took a statement from the restaurant owner (transcribed as 'Odor').
+
+Transcript Snippet: The FBI is aware of this. The FBI took a statement from the Odor.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10381
+Investigative Direction: Request confirmation from the FBI or the owner that a statement was taken, and when.
+
+---
+
+**C-6118** Host Says She Spoke to the Steakhouse Owner
+
+Claim Timestamp: 00:29:58
+
+Claim: The host says she spoke to the owner of the restaurant and that this undercuts claims that the receipt story is fabricated.
+
+Transcript Snippet: I know that this completely blows up everything and that's why you guys are trying to convince the public that this is a this didn't happen, but I spoke to the owner.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10381
+Investigative Direction: Obtain the owner's own on-record account of the call with the host and the receipt.
+
+---
+
+**C-6119** Host Says the Server Has Given an Interview and a Receipt Exists
+
+Claim Timestamp: 00:30:40
+
+Claim: The host says the server has given an interview and that there is a receipt.
+
+Transcript Snippet: Uh the server has been has given an interview. There is a receipt.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10381
+Investigative Direction: Locate the server's interview and obtain the receipt record from the restaurant.
+
+---
+
+**C-6120** Host Says Defense Reported Missing Discovery at the April Hearing
+
+Claim Timestamp: 00:30:40
+
+Claim: The host says that at the April hearing the defense kept saying it had not been granted discovery and wanted an extension on the preliminary hearing to go through material.
+
+Transcript Snippet: back during the one in April, they kept saying that they did not get granted discovery that they had so many things that they needed to go through
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10110
+Investigative Direction: Check April hearing records for the defense's discovery complaints and extension request.
+
+---
+
+**C-6121** Host Says Podcasters Found the Receipt and the FBI Was Contacted
+
+Claim Timestamp: 00:30:40
+
+Claim: The host says the receipt was found by podcasters who stumbled on it while investigating, and that the FBI was contacted.
+
+Transcript Snippet: Podcasters who were investigating stumbled upon this and like I said, the FBI was contacted.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10381
+Investigative Direction: Identify the podcasters and the FBI report or contact record.
+
+---
+
+**C-6122** Host Says the Meal Was Paid by Debit Card and the Owner Pulled the Receipt
+
+Claim Timestamp: 00:31:25
+
+Claim: The host says the restaurant owner pulled the receipt, that it shows what the person ate, and that it was paid for on a debit card.
+
+Transcript Snippet: We can verify that the owner pulled the receipt. We can verify what the person ate, that there is a receipt, and that it was paid for on a debit card.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10381
+Supports: C-2004
+Investigative Direction: Obtain the receipt and card-issuer record under legal process, and confirm the cardholder.
+
+---
+
+**C-6123** Kolvet Says the Host Said Hitler Was Great If He Stayed in Germany
+
+Claim Timestamp: 00:33:06
+
+Claim: Andrew Kolvet says on the Kolvet/Neff show that the host had an event where she basically said Hitler was great if he had just stayed in Germany.
+
+Transcript Snippet: Then she had that event where she basically said Hitler was great if he just would have stayed, you know, in uh Germany, stayed in Germany.
+
+Anchored Artifacts: A-2306.2
+Mentions: N-14, N-3
+Related Nodes: N-11071
+Investigative Direction: Compare Kolvet's paraphrase with the full unedited clip and its context.
+
+---
+
+**C-6124** Podcast Speaker Says She Became Obsessed With Jews in 2023 and 2024
+
+Claim Timestamp: 00:34:40
+
+Claim: A speaker on the Kolvet/Neff show says that in 2023 and 2024 the host became obsessed with Jews all the time.
+
+Transcript Snippet: 2023, 2024, she actually becomes obsessed with the Jews all the time.
+
+Anchored Artifacts: A-2306.2
+Mentions: N-3
+Investigative Direction: Test the characterization against the host's actual 2023-2024 statements.
+
+---
+
+**C-6125** Podcast Speaker Links the Christchurch Shooter to the Host
+
+Claim Timestamp: 00:34:40
+
+Claim: A speaker on the Kolvet/Neff show says the Christchurch shooter in New Zealand said he was inspired by the host.
+
+Transcript Snippet: I think it was the Christ Church shooter in New Zealand that like said she was this guy was inspired by Candace.
+
+Anchored Artifacts: A-2306.2
+Mentions: N-3
+Investigative Direction: Check the shooter's published manifesto and any naming of the host.
+
+---
+
+**C-6126** Host Says Her Hitler Comment Was About Nationalism, Not Support
+
+Claim Timestamp: 00:34:40
+
+Claim: The host says she was asked about nationalism and replied that it is not attributable to Hitler because he had ambitions outside Germany.
+
+Transcript Snippet: I said well it's not attributable to Adolf Hitler because Adolf Hitler if he had just wanted to stay in Germany and make Germany great we wouldn't have an issue with that.
+
+Anchored Artifacts: A-2306.2
+Mentions: N-3
+Related Nodes: N-11071
+Contradicts: C-6123
+Investigative Direction: Compare the host's full answer on the original clip with Kolvet's paraphrase.
+
+---
+
+**C-6127** Host Says the 2018 Nationalism Event Was With Charlie and BuzzFeed Pulled It Later
+
+Claim Timestamp: 00:35:40
+
+Claim: The host says her nationalism remarks were made in 2018 on stage with Charlie Kirk with journalists in the room and no objection, and that BuzzFeed pulled the clip months later.
+
+Transcript Snippet: I was with Charlie and journalists were in the room and nobody had a problem with it at all. And then Buzzfeed pulls the clip months later
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-11071
+Investigative Direction: Find the 2018 event recording and the BuzzFeed article that used the clip.
+
+---
+
+**C-6128** Neff Says He Has Never Met Candace Owens
+
+Claim Timestamp: 00:36:38
+
+Claim: Blake Neff says on the Kolvet/Neff show that he has never met Candace Owens and does not know her.
+
+Transcript Snippet: I have never met Candace Owens and don't know her.
+
+Anchored Artifacts: A-2306.3
+Mentions: N-162, N-3
+Related Nodes: N-10003
+Investigative Direction: Ask Neff and TPUSA for any prior contact; the claim is self-report.
+
+---
+
+**C-6129** Neff Says He Met Donors, Family and Team but Not Candace
+
+Claim Timestamp: 00:37:31
+
+Claim: Blake Neff says that in close to three years with Charlie Kirk he met donors, family members and team but does not know Candace.
+
+Transcript Snippet: I met donors. I met his family members. I met his team. I met a lot. And I don't know Candace.
+
+Anchored Artifacts: A-2306.3
+Mentions: N-162, N-1, N-3
+Related Nodes: N-10003
+Investigative Direction: Compare Neff's employment dates and travel with Charlie's public schedule.
+
+---
+
+**C-6130** Neff Says He Tweeted That Her Foundational Lie Is Friendship With Charlie
+
+Claim Timestamp: 00:37:31
+
+Claim: Blake Neff says he tweeted that her central foundational lie is that she and Charlie were friends, asking for proof from the last 12 months, and that he was community noted after she showed something at 22 months.
+
+Transcript Snippet: Candace, your central foundational lie is that you and Charlie were friends. You were not friends, right?
+
+Anchored Artifacts: A-2306.3
+Mentions: N-162, N-1, N-3
+Related Nodes: N-10003
+Investigative Direction: Retrieve Neff's tweet, the community note and the item the host posted.
+
+---
+
+**C-6131** Neff Says They Were Friends in 2018 and Part of 2019 but It Ended Badly
+
+Claim Timestamp: 00:37:31
+
+Claim: Blake Neff says Charlie Kirk and Candace Owens were friends in 2018 and part of 2019 and that it did not end well.
+
+Transcript Snippet: I think Charlie and Candace were friends back in 2018, part of 2019. That did not end well.
+
+Anchored Artifacts: A-2306.3
+Mentions: N-162, N-1, N-3
+Related Nodes: N-10003
+Investigative Direction: Test against dated messages and appearances after 2019.
+
+---
+
+**C-6132** Host Says Charlie and Erika Attended Her Wedding in Late 2019
+
+Claim Timestamp: 00:38:50
+
+Claim: The host says Charlie and Erika Kirk were at her wedding at the end of 2019, which she uses to rebut the claim the friendship ended badly.
+
+Transcript Snippet: why were Charlie and Erika at my wedding at the end of 2019?
+
+Anchored Artifacts: 
+Mentions: N-1, N-2, N-3
+Related Nodes: N-10003
+Contradicts: C-6131
+Investigative Direction: Obtain wedding photos or guest records showing the Kirks present.
+
+---
+
+**C-6133** Host Says Neff's Cited Clip Is Charlie Discussing Their Friendship in November 2023
+
+Claim Timestamp: 00:38:50
+
+Claim: The host says the clip Neff refers to is Charlie Kirk discussing their friendship in November 2023.
+
+Transcript Snippet: that clip that he's referring to is Charlie discussing our friendship in November of 2023.
+
+Anchored Artifacts: A-2307.1
+Mentions: N-1, N-162, N-3
+Related Nodes: N-10003
+Supports: C-3323
+Investigative Direction: Date the Charlie Kirk clip from its original broadcast.
+
+---
+
+**C-6134** Host Says She Showed Texts of Charlie Predicting His Own Death in 2018
+
+Claim Timestamp: 00:40:53
+
+Claim: The host says that after Charlie's death she showed people text messages from 2018 in which Charlie predicted his own death, including 'Be my David'.
+
+Transcript Snippet: I showed people text messages of Charlie predicting his own death in 2018
+
+Anchored Artifacts: A-2801.1
+Mentions: N-1, N-3
+Related Nodes: N-10003
+Supports: C-2201, C-1468
+Investigative Direction: Authenticate the 2018 text messages with metadata.
+
+---
+
+**C-6135** Host Says Her Husband George Traveled With Charlie During Their Engagement
+
+Claim Timestamp: 00:42:02
+
+Claim: The host says her husband George became close to Charlie Kirk and that they traveled around with Charlie the whole year of their engagement.
+
+Transcript Snippet: my husband George became close to Charlie the whole year of our engagement we traveled around with Charlie
+
+Anchored Artifacts: 
+Mentions: N-30, N-1, N-3
+Related Nodes: N-10003
+Investigative Direction: Corroborate with itineraries or photos from that year.
+
+---
+
+**C-6136** Host Says She Was Fired From the Daily Wire in March 2024
+
+Claim Timestamp: 00:42:02
+
+Claim: The host says she was fired from the Daily Wire in March 2024 and that this pushes the friendship timeline Kolvet and Neff dispute to 2024.
+
+Transcript Snippet: Yeah, Andrew, that's now now your timeline is pushed up to 2024. I was fired in March of 2024.
+
+Anchored Artifacts: A-2306.3
+Mentions: N-3, N-1
+Related Nodes: N-10003
+Investigative Direction: Confirm the termination date from the Daily Wire announcement.
+
+---
+
+**C-6137** Kolvet Says Candace Became More Difficult to Work With
+
+Claim Timestamp: 00:44:06
+
+Claim: Andrew Kolvet says on the Kolvet/Neff show that the host became more and more difficult to work with and had more issues with the team.
+
+Transcript Snippet: she became more and more difficult to work with. Uh more and more issues with the team.
+
+Anchored Artifacts: A-2800.1
+Mentions: N-14, N-3
+Investigative Direction: Seek corroboration from TPUSA event staff; the account is Kolvet's.
+
+---
+
+**C-6138** Kolvet Says Charlie Offered the Host a Job Right on Meeting Her
+
+Claim Timestamp: 00:44:06
+
+Claim: Andrew Kolvet says Charlie Kirk offered the host a job basically right on meeting her.
+
+Transcript Snippet: Charlie offered her a job uh basically right on meeting her.
+
+Anchored Artifacts: A-2800.1
+Mentions: N-14, N-1, N-3
+Investigative Direction: Date the first meeting and job offer from messages or contracts.
+
+---
+
+**C-6139** Kolvet Says She Cancelled an Event the Day Before and Went to France With Kanye
+
+Claim Timestamp: 00:45:14
+
+Claim: Andrew Kolvet says the host canceled a TPUSA event the day before, that the event team had to scramble to replace her, and that she ended up in France with Kanye.
+
+Transcript Snippet: she canled an event with us and our event team still tells this story you know like the day before and we had to scramble to get it replaced
+
+Anchored Artifacts: A-2800.1
+Mentions: N-14, N-3, N-27
+Related Nodes: N-11072
+Investigative Direction: Find the event listing and the replacement speaker announcement.
+
+---
+
+**C-6140** Host Says It Was the Only Event She Cancelled, in Late 2022
+
+Claim Timestamp: 00:45:57
+
+Claim: The host says it was the only time she cancelled an event with Turning Point USA and dates it to late 2022.
+
+Transcript Snippet: That is the only time that I canled an event with Turning Point USA.
+
+Anchored Artifacts: A-2800.1
+Mentions: N-3
+Related Nodes: N-11072
+Supports: C-6139
+Investigative Direction: Confirm the event date and cancellation against TPUSA scheduling.
+
+---
+
+**C-6141** Host Says She Wore a White Lives Matter Shirt in France
+
+Claim Timestamp: 00:45:57
+
+Claim: The host says she went to France and wore the White Lives Matter shirt on a trip she says was not planned.
+
+Transcript Snippet: Everyone remembers the moment that I went to France and I wore the White Lives Matter t-shirt.
+
+Anchored Artifacts: 
+Mentions: N-3, N-27
+Related Nodes: N-11072
+Investigative Direction: Match photos of the trip with the date of the TPUSA event she cancelled.
+
+---
+
+**C-6142** Host Says She Had Just Released a Black Lives Matter Documentary
+
+Claim Timestamp: 00:46:46
+
+Claim: The host says she had just released a documentary on Black Lives Matter and had stumped on many college campuses for TPUSA, raising money.
+
+Transcript Snippet: I had just also released a documentary on Black Lives Matter. I had stumped so many college campuses for Turning Point USA, raising money
+
+Anchored Artifacts: 
+Mentions: N-3
+Investigative Direction: Check the documentary's release date and the campus tour schedule.
+
+---
+
+**C-6143** Host Says Charlie Told Her She Had to Go and Asked for a Substitute
+
+Claim Timestamp: 00:47:33
+
+Claim: The host says Charlie Kirk told her of course she had to go to France and to get a substitute speaker.
+
+Transcript Snippet: Of course, you have to go. Please just get me a substitute for who like who can speak for you.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-11072
+Investigative Direction: Seek the host's call or text log with Charlie from that day.
+
+---
+
+**C-6144** Host Says She Asked Michael Knowles to Sub for Her
+
+Claim Timestamp: 00:47:33
+
+Claim: The host says she called Michael Knowles and asked him to substitute for her at the cancelled TPUSA event.
+
+Transcript Snippet: I then called Michael Nolles and asked him if he would sub for me
+
+Anchored Artifacts: 
+Mentions: N-102, N-3
+Related Nodes: N-11072
+Investigative Direction: Confirm Knowles spoke at the event in her place.
+
+---
+
+**C-6145** Kolvet Says Candace Told Him She Would Burn Down TPUSA
+
+Claim Timestamp: 00:48:35
+
+Claim: Andrew Kolvet says that about five or six days after the shooting the host told him that if the wrong people took over the organization she would burn it down.
+
+Transcript Snippet: if the wrong people take over the organization and she said this I'll never forget it. She says I will burn down that organization. I swear to God.
+
+Anchored Artifacts: A-2306.4
+Mentions: N-14, N-3
+Related Nodes: N-11073
+Investigative Direction: Compare with the host's contemporaneous messages and her account of that conversation.
+
+---
+
+**C-6146** Kolvet Says JD Vance Hosted the Show the Monday After
+
+Claim Timestamp: 00:48:35
+
+Claim: Andrew Kolvet says JD Vance hosted Charlie's show on the Monday after Charlie was killed on a Wednesday.
+
+Transcript Snippet: We had JD Vance uh hosted Charlie's show on that Monday after. So Charlie was uh killed on a Wednesday and then JD hosts the show on the Monday.
+
+Anchored Artifacts: A-2306.4
+Mentions: N-14, N-4, N-1
+Investigative Direction: Check the Charlie Kirk Show episode listing for September 15, 2025.
+
+---
+
+**C-6147** Kolvet Says He Assumed She Meant If the Jews Take Over
+
+Claim Timestamp: 00:49:26
+
+Claim: Andrew Kolvet says he assumed the burn-it-down remark meant if the Jews took over, and Blake Neff raises Ben Shapiro as the name people threw out.
+
+Transcript Snippet: And I just thought she meant if the Jews take over or something.
+
+Anchored Artifacts: A-2306.4
+Mentions: N-14, N-162, N-97, N-3
+Related Nodes: N-11073
+Investigative Direction: Ask Kolvet to specify whom he meant and what she said.
+
+---
+
+**C-6148** Host Says She Rejected the Idea That Shapiro Wanted to Take Over TPUSA
+
+Claim Timestamp: 00:49:26
+
+Claim: The host says she said early on that the idea that Ben Shapiro wants to take over Turning Point USA because he said to pick up the mic is wrong, and that this is on record.
+
+Transcript Snippet: I said I think people that all think that Ben Shapiro because he said pick up the bloody mic wants to take over Turning Point USA. I said I think that that's just wrong.
+
+Anchored Artifacts: 
+Mentions: N-97, N-3
+Related Nodes: N-10386
+Investigative Direction: Locate the host's early episode where she said this.
+
+---
+
+**C-6149** Host Says Kolvet Spoke With Her Every Day About a Foreign Angle
+
+Claim Timestamp: 00:50:09
+
+Claim: The host says she spoke to Andrew Kolvet on the phone every day and that they discussed a potential foreign angle in Charlie Kirk's assassination.
+
+Transcript Snippet: I was speaking to Andrew Kovette on the phone every single day and it was Andrew Kovette who was telling me and we were speaking about a potential foreign angle in Charlie's assassination.
+
+Anchored Artifacts: A-2308.1
+Mentions: N-14, N-3, N-1
+Related Nodes: N-10813
+Investigative Direction: Review the call log and text exports for daily contact in September 2025.
+
+---
+
+**C-6150** Host Says the Call Log Shows a 17-Minute Call on September 14, 2025
+
+Claim Timestamp: 00:50:09
+
+Claim: The host says the call log shows she and Andrew Kolvet spoke for 17 minutes on September 14, 2025 (she first says August 14th and then corrects to September).
+
+Transcript Snippet: September 14th, 2025 was when you and I spoke for 17 minutes.
+
+Anchored Artifacts: A-2308.2
+Mentions: N-14, N-3
+Related Nodes: N-10813
+Investigative Direction: Verify the call log entry date, duration and number.
+
+---
+
+**C-6151** Host Says Kolvet Told Her Mikey McCoy Had Netanyahu's Letter on Charlie's Laptop
+
+Claim Timestamp: 00:50:09
+
+Claim: The host says Kolvet told her Mikey McCoy had the Netanyahu letter on Charlie's laptop and that in it Charlie said he was pulling away from the Israel cause.
+
+Transcript Snippet: telling me that Mikey McCoy had this letter on Charlie's laptop and you told me basically that Charlie in this letter said to that he was kind of pulling away from the Israel cause.
+
+Anchored Artifacts: A-2308.1
+Mentions: N-194, N-14, N-1, N-36, N-3
+Related Nodes: N-10813
+Supports: C-4240, C-4315
+Investigative Direction: Authenticate the September 2025 messages and ask Kolvet and McCoy about the letter.
+
+---
+
+**C-6152** Host Says Kolvet Told Her About Plural Night-Before Texts of Charlie Fearing Death
+
+Claim Timestamp: 00:50:09
+
+Claim: The host says Kolvet told her about text messages, plural, to Dan Flood and to Kolvet the night before in which Charlie thought he was going to be killed.
+
+Transcript Snippet: You were the one that told me about the text messages. Notice I'm saying plural text messages to Dan Flood and to yourself the night before that Charlie thought that he was going to be killed.
+
+Anchored Artifacts: A-2308.1
+Mentions: N-14, N-276, N-1, N-3
+Related Nodes: N-10340
+Supports: C-4237
+Investigative Direction: Preserve the Kolvet and Flood message threads from September 9-10, 2025.
+
+---
+
+**C-6153** Host Says Kolvet Could Not Say Who 'They' Were
+
+Claim Timestamp: 00:51:24
+
+Claim: The host says she asked Kolvet who 'they' were and he said he did not know, and that he never said it was the left.
+
+Transcript Snippet: In fact, I specifically asked you who is they and you said I don't know.
+
+Anchored Artifacts: A-2308.1
+Mentions: N-14, N-3
+Related Nodes: N-10340
+Investigative Direction: Locate the exchange in the texts or call notes.
+
+---
+
+**C-6154** Host Says Kolvet Told Her Charlie Declined to Host Netanyahu
+
+Claim Timestamp: 00:51:24
+
+Claim: The host says Kolvet told her Charlie declined to have Netanyahu on his show and was growing increasingly agitated with Israeli involvement.
+
+Transcript Snippet: how Charlie declined to have BB Netanyahu on his show and he was growing um increasingly more agitated with Israeli involvement and willing to walk away from this.
+
+Anchored Artifacts: A-2308.1
+Mentions: N-1, N-36, N-14, N-3
+Related Nodes: N-10456, N-10813
+Supports: C-3025
+Investigative Direction: Ask Kolvet to confirm the show-refusal account and obtain the booking correspondence.
+
+---
+
+**C-6155** Host Says She Texted Kolvet 'This Was a Government Hit' on September 11
+
+Claim Timestamp: 00:52:23
+
+Claim: The host says that in a September 11 text she wrote that this was a government hit and that they needed answers, and that Kolvet replied he was in and out of sleep too.
+
+Transcript Snippet: I said, who did this? this was a government hit. We need answers.
+
+Anchored Artifacts: A-2308.1
+Mentions: N-3, N-14
+Related Nodes: N-10813
+Investigative Direction: Authenticate the displayed September 11 text exchange.
+
+---
+
+**C-6156** Host Says She Texted That Netanyahu Was Lying About the Letter
+
+Claim Timestamp: 00:52:23
+
+Claim: The host says she texted Kolvet on September 11 that Netanyahu was lying about the contents of a letter Charlie wrote him, and that she knew of it because Kolvet had told her.
+
+Transcript Snippet: BB's lying about the contents of a letter that Charlie wrote him.
+
+Anchored Artifacts: A-2308.1
+Mentions: N-36, N-14, N-1, N-3
+Related Nodes: N-10813
+Investigative Direction: Authenticate the text and obtain the letter Netanyahu held up.
+
+---
+
+**C-6157** Host Says Her 'Burn It Down' Meant If Foreign Involvement Were True
+
+Claim Timestamp: 00:52:23
+
+Claim: The host says her remark meant that if the account was true and there was foreign involvement, they would burn this place to the ground.
+
+Transcript Snippet: if this is true and there is foreign involvement, like we will burn this place to the ground.
+
+Anchored Artifacts: A-2308.1
+Mentions: N-3, N-14
+Related Nodes: N-11073, N-10813
+Qualifies: C-6145
+Investigative Direction: Compare with the host's contemporaneous texts and Kolvet's recollection.
+
+---
+
+**C-6158** Host Says She Replied 'Thank God' When Told the Board Voted In Erika
+
+Claim Timestamp: 00:52:23
+
+Claim: The host says that when Kolvet told her on the 14th the board had voted in Erika, her reply was 'Thank God', which she says Kolvet left out.
+
+Transcript Snippet: And what I said to him was, "Thank God." So, he left that out.
+
+Anchored Artifacts: A-2308.1
+Mentions: N-3, N-14, N-2
+Related Nodes: N-10813
+Investigative Direction: Authenticate her reply in the message thread or call context.
+
+---
+
+**C-6159** Host Calls Kolvet Her Number One Source on the Israeli Narrative
+
+Claim Timestamp: 00:53:40
+
+Claim: The host says Andrew Kolvet was her number one source on the information that led her to see an Israeli angle.
+
+Transcript Snippet: as the person who was my number one source on all of this information is complete lunacy.
+
+Anchored Artifacts: A-2308.1
+Mentions: N-14, N-3
+Related Nodes: N-10813
+Investigative Direction: Corroborate with message and call records.
+
+---
+
+**C-6160** Host Says the Show Runs Six Weeks On and One Week Off
+
+Claim Timestamp: 00:59:02
+
+Claim: The host says her team adopted a six-weeks-on, one-week-off structure to break and check the timeline.
+
+Transcript Snippet: So that's really why we started doing the six weeks on, one week off structure
+
+Anchored Artifacts: 
+Mentions: N-3
+Investigative Direction: Compare the episode calendar with the stated schedule.
+
+---
+
+**C-6161** Host Says She Told Kolvet to Use Her as His Dragon
+
+Claim Timestamp: 01:00:02
+
+Claim: The host says she told Andrew Kolvet to use her as his dragon because she was angry if Charlie lost his life to this.
+
+Transcript Snippet: basically saying to Andrew like use me as your dragon because if this is how this went down and Charlie lost his life to this
+
+Anchored Artifacts: A-2308.1
+Mentions: N-3, N-14, N-1
+Related Nodes: N-11073
+Investigative Direction: Find the corresponding messages from September 2025.
+
+---
+
+**C-6162** Host Says She Thought Erika Taking Over Was Great but Now Does Not
+
+Claim Timestamp: 01:00:02
+
+Claim: The host says she thought everything was great when Erika took over but now thinks it is not great.
+
+Transcript Snippet: And then I thought everything was great because Erika took over and now I'm going oh my gosh no it actually isn't great.
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-11073
+Revises: C-6158
+Investigative Direction: Compare with the host's earlier statements welcoming Erika's leadership.
+
+---
+
+**C-6163** Host Says Her Show Revealed the Dairy Queen Photo
+
+Claim Timestamp: 01:01:02
+
+Claim: The host says her show revealed the Dairy Queen photo, so they know Tyler Robinson was around campus that day.
+
+Transcript Snippet: we were the ones that obviously revealed the Dairy Queen photo, so we know he was around campus that day.
+
+Anchored Artifacts: 
+Mentions: N-40, N-3
+Related Nodes: N-10051
+Supports: C-1186
+Investigative Direction: Verify the photo's timestamp and origin.
+
+---
+
+**C-6164** Host Says Her Source Said Tyler Dumped Clothes in a Cemetery
+
+Claim Timestamp: 01:01:02
+
+Claim: The host says the story she got was that Tyler Robinson was dumping clothes in a cemetery.
+
+Transcript Snippet: I told you that the story that I got was that he was dumping clothes uh in the in a cemetery.
+
+Anchored Artifacts: 
+Mentions: N-40, N-3
+Related Nodes: N-10110
+Investigative Direction: Identify the cemetery and any evidence logs listing recovered clothing.
+
+---
+
+**C-6165** Host Says She Is Open to Multiple Maroon-Shirted People
+
+Claim Timestamp: 01:01:02
+
+Claim: The host says she is open to thinking that multiple people were wearing maroon shirts.
+
+Transcript Snippet: open to thinking that there are multiple people that are wearing maroon shirts.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10043
+Investigative Direction: Match each maroon-shirted figure in the footage to a person.
+
+---
+
+**C-6166** Host Says She Is at 0 Percent That Tyler Robinson Fired From the Rooftop
+
+Claim Timestamp: 01:01:56
+
+Claim: The host says she is at 0 percent that Tyler Robinson shot and killed Charlie Kirk from the Losee Center rooftop.
+
+Transcript Snippet: I am at 0% that Tyler Robinson shot and killed Charlie Kirk from Loy Rooftop.
+
+Anchored Artifacts: 
+Mentions: N-40, N-1, N-3
+Related Nodes: N-10110
+Investigative Direction: Compare with the prosecution's evidence of the shot and the host's alternative theory.
+
+---
+
+**C-6167** Host Says She Does Not Know a Shot Was Fired
+
+Claim Timestamp: 01:01:56
+
+Claim: The host says she does not know whether a shot was fired and does not believe a shot was fired from the Losee Center.
+
+Transcript Snippet: I don't even know if a shot was fired. I don't even believe a shot was fired from Los Center.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10110
+Investigative Direction: Contrast with the autopsy, ballistics and eyewitness evidence.
+
+---
+
+**C-6168** Host Says Lance Said They Never Discussed Charlie or LGBTQ Issues
+
+Claim Timestamp: 01:03:27
+
+Claim: The host says Lance Twiggs said he was not political and that he and Tyler never talked about LGBTQ issues, which she says conflicts with the political-motive narrative.
+
+Transcript Snippet: but not to believe Lance when he says that he was not political and they never talked about LGBTQ issues.
+
+Anchored Artifacts: A-2309.1
+Mentions: N-54, N-40, N-3
+Related Nodes: N-10110
+Investigative Direction: Locate Lance Twiggs's statement and compare it with the released messages.
+
+---
+
+**C-6169** Host Says TPUSA Is Spending Money While She Spent Zero
+
+Claim Timestamp: 01:03:27
+
+Claim: The host says TPUSA is angry and spending money to have people try to destroy her, while her side has spent zero dollars trying to get anyone to go after them.
+
+Transcript Snippet: But they are in such a place of anger and spending money to just have people try to destroy me.
+
+Anchored Artifacts: 
+Mentions: N-3
+Investigative Direction: Obtain disclosure of TPUSA's media-spend contracts and the host's show expenditures.
+
+---
+
+**C-6170** Host Says Charlie Loved Rush Limbaugh and Wanted Three Hours of Radio
+
+Claim Timestamp: 01:07:59
+
+Claim: The host says Charlie Kirk loved Rush Limbaugh and wanted one day to do the same three hours of radio every day, which she calls one of his lifelong goals.
+
+Transcript Snippet: He loved Rush Limbaugh. He couldn't wait to one day be able to do the same three hours of radio every single day
+
+Anchored Artifacts: 
+Mentions: N-1, N-31, N-3
+Investigative Direction: Find Charlie's earlier interviews describing this goal.
+
+---
+
 ## VI. Cross-Reference Summary
 
 All artifacts in §III include Related lines referencing claims and nodes. All claims in §V include Anchored Artifacts and Related Nodes. All nodes in §IV include Related artifacts and claims. The investigative graph is reversible: each artifact maps to its supporting claims, each claim maps to its anchor artifacts, and each node aggregates the artifacts and claims that touch it.
+
+---
+
+## 6. Meme Register
+
+**M-154** (meme) Second Favorite Shirt
+
+### Occurrence 1
+
+Video Timestamp: 00:02:00
+Speaker: N-3
+Quote: I should have been wearing my second favorite shirt, but I'm not.
+Context: Host jokes about not wearing her second favorite crime shirt.
+Tags: second favorite shirt, merch
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 01:09:05
+Speaker: N-3
+Quote: Got to get your second favorite shirt. It's got to be second one.
+Context: Host's tongue-in-cheek merch plug about not wearing your first favorite shirt when doing crime.
+Tags: second favorite shirt, merch
+Confidence: high
+
+---
+
+---
+
+**M-155** (meme) Beavis and Butt-Head
+
+### Occurrence 1
+
+Video Timestamp: 00:01:03
+Speaker: N-3
+Quote: He brought on Andrew Wilson, who I debated last Friday, onto their Beus and Butudad platform.
+Context: Host's pejorative label for the Kolvet/Neff show.
+Tags: beavis, kolvet neff
+Confidence: high
+
+---
+
+---
+
+**M-156** (meme) Get a Timeline
+
+### Occurrence 1
+
+Video Timestamp: 00:44:06
+Speaker: N-3
+Quote: Get a timeline. My timeline is my timeline is so good.
+Context: Host mocks Kolvet for contradicting himself and tells him to get a timeline.
+Tags: timeline, kolvet
+Confidence: high
+
+---
+
+---
+
+**M-157** (meme) Always Mystique
+
+### Occurrence 1
+
+Video Timestamp: 01:07:18
+Speaker: N-3
+Quote: I'm always Mystique.
+Context: Host's X-Men answer in the mind-reading viewer game.
+Tags: x-men, mystique, viewer game
+Confidence: high
+
+---
+
+---
+
+**M-82** (meme) Make That Make Sense
+
+### Occurrence 1
+
+Video Timestamp: 00:14:13
+Speaker: N-3
+Quote: Make it make sense.
+Context: Host asks for any innocent explanation for Terrell's laptop use.
+Tags: make it make sense
+Confidence: high
+
+---
+
+---
+
+**M-74** (meme) Believe Your Own Eyes
+
+### Occurrence 1
+
+Video Timestamp: 00:20:45
+Speaker: N-3
+Quote: you are completely justified in still believing in your own eyes
+Context: Host tells viewers to trust what they see in the aspect-ratio footage.
+Tags: own eyes, footage
+Confidence: high
+
+---
+
+---
+
+**M-27** (meme) Shill
+
+### Occurrence 1
+
+Video Timestamp: 00:14:18
+Speaker: N-3
+Quote: they are getting exposed as absolute shills.
+Context: Host says critics are exposed as shills.
+Tags: shill, critics
+Confidence: high
+
+---
+
+---
+
+**M-26** (meme) Gaslight
+
+### Occurrence 1
+
+Video Timestamp: 00:27:30
+Speaker: N-3
+Quote: they're not being gaslighted.
+Context: Host says Ben Shapiro owned his BBC debate loss so audiences were not gaslit.
+Tags: gaslight, debate
+Confidence: high
+
+---
+
+---
+
+**M-81** (meme) Bibi Net and Yahoo
+
+### Occurrence 1
+
+Video Timestamp: 00:50:09
+Speaker: N-3
+Quote: BBnet and Yahoo's uh letter
+Context: Host refers to the Netanyahu letter.
+Tags: bibi net, yahoo, letter
+Confidence: high
+
+---
+
+---
+
+**M-19** (meme) Go Max
+
+### Occurrence 1
+
+Video Timestamp: 01:03:27
+Speaker: N-3
+Quote: Go Max girl.
+Context: Host reads viewer Autumn's comment ending in Go Max.
+Tags: go max, viewer comment
+Confidence: high
+
+---
+
+---
+
+**M-18** (meme) Make Him a Sandwich
+
+### Occurrence 1
+
+Video Timestamp: 01:09:05
+Speaker: N-3
+Quote: You can buy the book that we are reading, make him a sandwich.
+Context: Host plugs the book club book.
+Tags: book club, merch
+Confidence: high
+
+---
+
+---
+
+**M-107** (meme) Stop Anti-Candaceism
+
+### Occurrence 1
+
+Video Timestamp: 01:09:05
+Speaker: N-3
+Quote: You can buy a stop anti-cannism uh standis cup
+Context: Host plugs the Stop Anti-Candaceism mug.
+Tags: merch, mug
+Confidence: high
+
+---
+
+---
+
+**M-76** (meme) Genocide Is Always Wrong
+
+### Occurrence 1
+
+Video Timestamp: 00:35:40
+Speaker: N-3
+Quote: genocide is always wrong
+Context: Host recounts the 2024 genocide remark that the show spins as obsession.
+Tags: genocide, israel
+Confidence: high
+
+---
 
 ---
 

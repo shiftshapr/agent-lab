@@ -6,7 +6,7 @@
 - **YouTube id**: QdM9jLwjwLw
 - **Candace Ep**: 297
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–01:08:55
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: 6dd179617c93d9b189013177ccf6a13ebe005629aa7ab4b3c03e97804d4d7234
 
@@ -29,8 +29,8 @@
 
 - Artifact Families Introduced: A-1686, A-1687, A-1688, A-1689
 - Claim Range: C-2206–C-2224
-  - New Nodes Introduced:  N-508, N-10446, N-10447, N-10448, N-10449, N-10450
-  - Reused Nodes Appearing: 
+  - New Nodes Introduced: N-508, N-10446, N-10448, N-10449, N-10450
+  - Reused Nodes Appearing: N-10447
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk – preserved as N-2 series entry; note: transcript renders "Erika" – see Optional Flags); N-267 (Terrell Farnsworth)
 
 ## 6. Meme Register

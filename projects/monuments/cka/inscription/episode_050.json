@@ -7,7 +7,7 @@
     "channel": "Candace Owens",
     "source": "Candace Owens YouTube",
     "transcript_completeness": "Full",
-    "video_timestamp_range": "00:00:00–00:56:29",
+    "video_timestamp_range": "00:00:00–01:01:34",
     "extraction_timestamp": "2026-09-27T20:00:00Z",
     "model_version": "MiniMax-M2.5",
     "transcript_sha256": "d0819324ac9bf4a628c1d097391bbba74d4957e0b633e777ad84956f4db99630",
@@ -246,6 +246,209 @@
           "video_timestamp": "00:34:20",
           "discovery_timestamp": "00:00:00–00:00:01",
           "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2748",
+      "family_ref": "A-2748",
+      "bundle_name": "Shapiro Table Insult Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2748.1",
+          "ref": "A-2748.1",
+          "description": "Replayed audio of a speaker the host identifies as Ben Shapiro insulting the host at a private event, which the host says leaked on November 14",
+          "related_claims": [
+            "C-5357",
+            "C-5358",
+            "C-5359",
+            "C-5360"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:04:54",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2749",
+      "family_ref": "A-2749",
+      "bundle_name": "Tucker Carlson Interview Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2749.1",
+          "ref": "A-2749.1",
+          "description": "Replayed clip of the host's November 2023 interview with Tucker Carlson in which she praises Thomas Sowell",
+          "related_claims": [
+            "C-5363"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:08:36",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2750",
+      "family_ref": "A-2750",
+      "bundle_name": "Mitch Fundraiser Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2750.1",
+          "ref": "A-2750.1",
+          "description": "Host verbal reference to a GiveSendGo fundraiser for Mitch, announced on air (page not shown)",
+          "related_claims": [
+            "C-5392"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:33:21",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2751",
+      "family_ref": "A-2751",
+      "bundle_name": "Harpole Outreach Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2751.1",
+          "ref": "A-2751.1",
+          "description": "Host verbal reference to her iMessages to Brian Harpole, which she says were delivered and unanswered (not shown)",
+          "related_claims": [
+            "C-5398"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:36:36",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2752",
+      "family_ref": "A-2752",
+      "bundle_name": "Erika Kirk and Cabot Phillips Social Media Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2752.1",
+          "ref": "A-2752.1",
+          "description": "Social media caption the host says the internet pulled up, read aloud on air",
+          "related_claims": [
+            "C-5409"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:44:04",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2752.2",
+          "ref": "A-2752.2",
+          "description": "Host verbal description of Nicole Rothstein's comment defending Erika Kirk (not shown)",
+          "related_claims": [
+            "C-5410"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:44:04",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2753",
+      "family_ref": "A-2753",
+      "bundle_name": "Fort Huachuca Tip Request Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2753.1",
+          "ref": "A-2753.1",
+          "description": "Host verbal request for viewer tips on what occurred at Fort Huachuca on the morning of September 9",
+          "related_claims": [
+            "C-5415"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:46:00",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2754",
+      "family_ref": "A-2754",
+      "bundle_name": "Viewer Veteran Emails Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2754.1",
+          "ref": "A-2754.1",
+          "description": "Host verbal reference to viewer emails from veterans she says verified Mitch's account of Fort Huachuca (not shown)",
+          "related_claims": [
+            "C-5417"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:52:40",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2755",
+      "family_ref": "A-2755",
+      "bundle_name": "Egyptian Planes Report Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2755.1",
+          "ref": "A-2755.1",
+          "description": "Host verbal reference to an Egyptian planes report in preparation for her website (not shown)",
+          "related_claims": [
+            "C-5412",
+            "C-5413"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:45:06",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
         }
       ]
     }
@@ -568,7 +771,17 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-5352",
+        "C-5376",
+        "C-5378",
+        "C-5384",
+        "C-5386",
+        "C-5387",
+        "C-5402",
+        "C-5411",
+        "C-5419"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -584,7 +797,13 @@
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-5402",
+        "C-5403",
+        "C-5407",
+        "C-5409",
+        "C-5410"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -600,7 +819,69 @@
       "type": "person",
       "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-5349",
+        "C-5350",
+        "C-5351",
+        "C-5352",
+        "C-5353",
+        "C-5354",
+        "C-5356",
+        "C-5357",
+        "C-5358",
+        "C-5359",
+        "C-5360",
+        "C-5361",
+        "C-5362",
+        "C-5363",
+        "C-5364",
+        "C-5365",
+        "C-5366",
+        "C-5368",
+        "C-5369",
+        "C-5370",
+        "C-5371",
+        "C-5372",
+        "C-5373",
+        "C-5374",
+        "C-5375",
+        "C-5376",
+        "C-5377",
+        "C-5380",
+        "C-5381",
+        "C-5382",
+        "C-5385",
+        "C-5388",
+        "C-5389",
+        "C-5390",
+        "C-5391",
+        "C-5392",
+        "C-5393",
+        "C-5395",
+        "C-5396",
+        "C-5398",
+        "C-5399",
+        "C-5400",
+        "C-5401",
+        "C-5402",
+        "C-5403",
+        "C-5404",
+        "C-5405",
+        "C-5406",
+        "C-5407",
+        "C-5408",
+        "C-5409",
+        "C-5410",
+        "C-5411",
+        "C-5412",
+        "C-5413",
+        "C-5414",
+        "C-5415",
+        "C-5416",
+        "C-5417",
+        "C-5418",
+        "C-5419"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -616,7 +897,9 @@
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1980"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -637,6 +920,603 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "Named as the source of the AmFest ad-spend remark and in the surgeon three-way call.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5353",
+        "C-5403"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-27",
+      "ref": "N-27",
+      "name": "Kanye West",
+      "type": "person",
+      "description": "Named in the host's account of her single conversation with Nick Fuentes.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5372"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-32",
+      "ref": "N-32",
+      "name": "Dave Rubin",
+      "type": "person",
+      "description": "Named in Jeremy Boreing's town hall presentation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5368"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Named in the Boreing claim about a liked post.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5369"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Named in Shapiro's AmFest remarks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5379"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-64",
+      "ref": "N-64",
+      "name": "Brian Mast",
+      "type": "person",
+      "description": "Named as wearing an IDF uniform in Congress.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5355",
+        "C-5356"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-111",
+      "ref": "N-111",
+      "name": "Thomas Sowell",
+      "type": "person",
+      "description": "Subject of the host's interview praise and of the alleged Daily Wire interview.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5363",
+        "C-5364",
+        "C-5365"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-164",
+      "ref": "N-164",
+      "name": "Yashar Ali",
+      "type": "person",
+      "description": "Named as having shared the Mast remarks on X.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5355",
+        "C-5356"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-166",
+      "ref": "N-166",
+      "name": "Matt Walsh",
+      "type": "person",
+      "description": "Named in the host's remark on who was invited onto Charlie Kirk's show.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5387"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-205",
+      "ref": "N-205",
+      "name": "Nick Fuentes",
+      "type": "person",
+      "description": "Named in the host's account of her one contact with him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5372"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-265",
+      "ref": "N-265",
+      "name": "Steven Crowder",
+      "type": "person",
+      "description": "Named as having obtained the town hall video.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5367"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-284",
+      "ref": "N-284",
+      "name": "Bari Weiss",
+      "type": "person",
+      "description": "Named as the journalist the host says Shapiro worked with.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5354"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-326",
+      "ref": "N-326",
+      "name": "Captain Adam Nef",
+      "type": "person",
+      "description": "Named by the host as the Army captain who questioned Mitch.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5390"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-587",
+      "ref": "N-587",
+      "name": "Nicole Rothstein",
+      "type": "person",
+      "description": "Named as Erika Kirk's cousin commenting that Erika is half Jewish.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5410"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Reused topic cited by new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5350",
+        "C-5354",
+        "C-5380"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10008",
+      "ref": "N-10008",
+      "name": "YWLS Conference",
+      "type": "investigation_target",
+      "description": "Reused topic cited by new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5351"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10015",
+      "ref": "N-10015",
+      "name": "Mossad",
+      "type": "investigation_target",
+      "description": "Reused topic cited by new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5378",
+        "C-5411"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10026",
+      "ref": "N-10026",
+      "name": "Israel",
+      "type": "investigation_target",
+      "description": "Reused topic cited by new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5349",
+        "C-5413"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10238",
+      "ref": "N-10238",
+      "name": "Daily Wire Intern Covert Recording Operation",
+      "type": "investigation_target",
+      "description": "Reused topic cited by new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5351",
+        "C-5374"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10253",
+      "ref": "N-10253",
+      "name": "Egyptian Military Plane Tracking Investigation",
+      "type": "investigation_target",
+      "description": "Reused topic cited by new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5412",
+        "C-5413"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10268",
+      "ref": "N-10268",
+      "name": "AmFest Speaker Removal Pattern",
+      "type": "investigation_target",
+      "description": "Reused topic cited by new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5350",
+        "C-5352",
+        "C-5353",
+        "C-5376",
+        "C-5384",
+        "C-5419"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10326",
+      "ref": "N-10326",
+      "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
+      "type": "investigation_target",
+      "description": "Reused topic cited by new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5389"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10333",
+      "ref": "N-10333",
+      "name": "Candlewood Suites Hotel Security Footage (Sept 8, 2025)",
+      "type": "investigation_target",
+      "description": "Reused topic cited by new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5391"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10341",
+      "ref": "N-10341",
+      "name": "Andrew Kolvet Surgeon Bullet Description",
+      "type": "investigation_target",
+      "description": "Reused topic cited by new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5403"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10393",
+      "ref": "N-10393",
+      "name": "Liberty University Funding History",
+      "type": "investigation_target",
+      "description": "Reused topic cited by new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5388"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10406",
+      "ref": "N-10406",
+      "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+      "type": "investigation_target",
+      "description": "Reused topic cited by new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5379"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10416",
+      "ref": "N-10416",
+      "name": "Daily Wire Stalking Pattern",
+      "type": "investigation_target",
+      "description": "Reused topic cited by new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5374"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10447",
+      "ref": "N-10447",
+      "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
+      "type": "investigation_target",
+      "description": "Reused topic cited by new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5403"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10451",
+      "ref": "N-10451",
+      "name": "USS Liberty Incident Cover-up Investigation",
+      "type": "investigation_target",
+      "description": "Reused topic cited by new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5375"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10912",
+      "ref": "N-10912",
+      "name": "Zachary Lewis Daily Wire Kids Case",
+      "type": "investigation_target",
+      "description": "Reused topic cited by new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5386"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-730",
+      "ref": "N-730",
+      "name": "Hank Berrien",
+      "type": "person",
+      "description": "First named by the host at 00:22:56 in episode 050. Pen name the host says Ben Shapiro's father uses for Daily Wire and earlier Breitbart articles.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5383"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11024",
+      "ref": "N-11024",
+      "name": "Fort Huachuca 9/11 Affidavit Claim",
+      "type": "topic",
+      "description": "The host's statement that Fort Huachuca is involved in lawsuits and sworn affidavits regarding 9/11 from people who asserted that prepping took place there; no case or affiant is named.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5414"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11025",
+      "ref": "N-11025",
+      "name": "Thomas Sowell Interview Retaliation Allegation",
+      "type": "topic",
+      "description": "The host's allegation that Ben Shapiro's team arranged a paid interview with Thomas Sowell, timed to her Tucker Carlson interview, to hurt her.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5364",
+        "C-5365"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11026",
+      "ref": "N-11026",
+      "name": "Shapiro Legal Actions Against Candace Owens",
+      "type": "topic",
+      "description": "The host's account that Ben Shapiro has brought three court proceedings against her, including a suit tied to her interview with a USS Liberty survivor and a suit over liked tweets.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5373",
+        "C-5375",
+        "C-5418"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
   "claims": [
@@ -815,7 +1695,1720 @@
         "N-372",
         "N-1"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5349",
+      "ref": "C-5349",
+      "label": "Host grows more certain Israel might be involved in 9/10",
+      "claim": "The host says that every time Ben Shapiro speaks she grows more certain that Israel might be involved with 9/10.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:00",
+      "investigative_direction": "Identify what evidence, beyond Shapiro's reaction, the host relies on; ask the host to specify what 'involved' means and what record would support it.",
+      "transcript_snippet": "every time he speaks, I grow more certain that Israel might be involved with 9/10.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5350",
+      "ref": "C-5350",
+      "label": "Shapiro was absent from AmFest lists for years and returned in 2024",
+      "claim": "The host says people noticed Ben Shapiro was not on the AmFest speaker list for years and is back on it beginning in 2024, and that she will explain how that happened.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10268",
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:06",
+      "investigative_direction": "Compare archived AmFest speaker lists for 2019 to 2025 to confirm the years Shapiro was or was not listed.",
+      "transcript_snippet": "some people noticed that he wasn't on the AmFest list for years and all of a sudden he's back on the speaker list beginning in 2024.",
+      "mentions_person_refs": [
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5351",
+      "ref": "C-5351",
+      "label": "Host says Shapiro sent an intern to ask her a question on stage in Dallas",
+      "claim": "The host says she learned, while about to speak in Dallas at the YWLS convention, that Ben Shapiro had sent an intern to ask her a question on stage, and that she called him out on stage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10008",
+        "N-10238"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:06",
+      "investigative_direction": "Obtain the host's earlier-episode evidence on the YWLS intern and any Daily Wire or YWLS record of the intern's role.",
+      "transcript_snippet": "as I was going to speak in Dallas at their YWLS convention that Ben had sent an intern who was going to ask me a question while I was on stage.",
+      "supports_claim_refs": [
+        "C-1643"
+      ],
+      "mentions_person_refs": [
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5352",
+      "ref": "C-5352",
+      "label": "Host says Shapiro had Jewish donors threaten Charlie Kirk over her speaking slot",
+      "claim": "The host says Ben Shapiro worked behind the scenes to have Jewish donors threaten Charlie Kirk so that she would not be invited to speak at year end, and that this is what Charlie told her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:09",
+      "investigative_direction": "Seek Charlie Kirk's own messages or contemporaneous accounts naming the donors and the request; ask Shapiro or TPUSA to confirm or deny.",
+      "transcript_snippet": "he began working behind the scenes to have Jewish donors start threatening Charlie to make sure that I wasn't invited to speak at year end",
+      "supports_claim_refs": [
+        "C-1185"
+      ],
+      "mentions_person_refs": [
+        "N-97",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5353",
+      "ref": "C-5353",
+      "label": "Host says Kolvet told her Shapiro would spend an offensive amount to be part of AmFest",
+      "claim": "The host says Andrew Kolvet told her directly that Ben Shapiro was willing to spend an offensive amount of money to be a part of AmFest.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:09",
+      "investigative_direction": "Obtain TPUSA sponsorship and advertising records for AmFest 2024; ask Kolvet to confirm or deny the conversation.",
+      "transcript_snippet": "this is what was divulged to me from Andrew Kolb at the time, willing to spend an offensive amount of money to be a part of AmFest.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5354",
+      "ref": "C-5354",
+      "label": "Host says Shapiro worked with Barry Weiss on an article that donors want her gone",
+      "claim": "The host says she knew Ben Shapiro was working with Barry Weiss to put out an article saying the donors and board of TPUSA wanted Candace gone.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:09",
+      "investigative_direction": "Identify the Free Press or other article the host refers to and any TPUSA board or donor statement quoted in it.",
+      "transcript_snippet": "he was working with Barry Weiss to call and put an article out saying that the donors, the people on the board of TPUSA want Candace gone.",
+      "mentions_person_refs": [
+        "N-97",
+        "N-284",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5355",
+      "ref": "C-5355",
+      "label": "Brian Mast wore an IDF uniform in Congress and said there is no innocent Palestinian life",
+      "claim": "The host says Brian Mast wore an IDF uniform in Congress and said, in her words, that there is no such thing as an innocent Palestinian life.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:03:15",
+      "investigative_direction": "Locate the original Mast remarks and the Yashar Ali post that shared them, with dates, to check the host's paraphrase.",
+      "transcript_snippet": "Brian Mast had was wearing an IDF uniform in Congress and he basically said that there's no such thing as an innocent Palestinian life.",
+      "supports_claim_refs": [
+        "C-3721"
+      ],
+      "mentions_person_refs": [
+        "N-64",
+        "N-164"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5356",
+      "ref": "C-5356",
+      "label": "Host tweeted that genocidal language is always wrong in response to Yashar Ali's post",
+      "claim": "The host says that when she saw the Mast remarks shared by Yashar Ali on X, she responded that genocidal language, no matter who shares it, is always wrong.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:04:05",
+      "investigative_direction": "Retrieve the host's reply tweet from November 2023 and compare its wording with the host's account and with Boreing's quoted tweets.",
+      "transcript_snippet": "I responded and I said that genocidal language, no matter who shares it, is always wrong.",
+      "supports_claim_refs": [
+        "C-3721"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-164",
+        "N-64"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5357",
+      "ref": "C-5357",
+      "label": "Host says Shapiro was caught on video standing on a table insulting her",
+      "claim": "The host says someone caught Ben Shapiro standing on a table at a private event insulting her over her tweet that genocide is always wrong, and plays the audio.",
+      "anchored_artifacts": [
+        "A-2748.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:04:05",
+      "investigative_direction": "Locate the original recording, its date and venue, and who captured and leaked it.",
+      "transcript_snippet": "somebody caught him standing on a table insulting me over my genocide is always wrong tweet.",
+      "mentions_person_refs": [
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5358",
+      "ref": "C-5358",
+      "label": "In the clip Shapiro calls the host disgraceful and says she works at his company",
+      "claim": "In the replayed audio, a speaker the host identifies as Ben Shapiro calls the host's behavior disgraceful and disreputable and says she works at his company.",
+      "anchored_artifacts": [
+        "A-2748.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:05:04",
+      "investigative_direction": "Obtain the full original recording to confirm the speaker, the date and the exact wording.",
+      "transcript_snippet": "Disreputable, disgraceful, she works at my company.",
+      "mentions_person_refs": [
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5359",
+      "ref": "C-5359",
+      "label": "The table clip leaked on the morning of November 14 when the host was six days from giving birth",
+      "claim": "The host says the clip leaked on the morning of November 14 and that she was 6 days away from giving birth.",
+      "anchored_artifacts": [
+        "A-2748.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:05:04",
+      "investigative_direction": "Check the clip's first public posting time against the host's account and her child's birth date.",
+      "transcript_snippet": "that was on the morning of November 14th. I was 6 days away from giving birth.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5360",
+      "ref": "C-5360",
+      "label": "Host says nobody at the Daily Wire stepped in after the clip leaked",
+      "claim": "The host says that when the clip leaked, nobody from the Daily Wire stepped in to manage the situation while journalists contacted her for comment.",
+      "anchored_artifacts": [
+        "A-2748.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:05:04",
+      "investigative_direction": "Seek contemporaneous Daily Wire communications to the host on November 14, 2023 and any public statement the company issued.",
+      "transcript_snippet": "Nobody from the Daily Wire steps in to manage the situation.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5361",
+      "ref": "C-5361",
+      "label": "Host says her husband told her to read the Sermon on the Mount and she tweeted 'blessed are the peacemakers'",
+      "claim": "The host says her husband advised her to read the Sermon on the Mount rather than respond to the clip, and that she tweeted 'blessed are the peacemakers' and ended with 'Christ is king'.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:06:47",
+      "investigative_direction": "Retrieve the host's tweet from mid-November 2023 and confirm its text and timestamp.",
+      "transcript_snippet": "I tweeted blessed are the peacemakers.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5362",
+      "ref": "C-5362",
+      "label": "Tucker Carlson booked the host six weeks earlier for November 15 with Daily Wire approval",
+      "claim": "The host says Tucker Carlson had booked her about six weeks earlier for an interview on November 15, and that she had Daily Wire approval.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:07:44",
+      "investigative_direction": "Obtain the booking correspondence and the Daily Wire approval; confirm the interview's recording and release dates.",
+      "transcript_snippet": "He had booked me 6 weeks earlier. I got approval from Daily Wire. He booked me for November 15th.",
+      "mentions_person_refs": [
+        "N-22",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5363",
+      "ref": "C-5363",
+      "label": "Host told Tucker Carlson she was obsessed with Thomas Sowell",
+      "claim": "In the replayed interview clip, the host tells Tucker Carlson she has been obsessed with Thomas Sowell and is a groupie of his work.",
+      "anchored_artifacts": [
+        "A-2749.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:08:36",
+      "investigative_direction": "Locate the full Tucker Carlson interview of November 2023 and confirm the exchange and its date.",
+      "transcript_snippet": "You know, I have been obsessed with Thomas Sowell.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-22",
+        "N-111"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5364",
+      "ref": "C-5364",
+      "label": "Host alleges Shapiro's team arranged a paid interview with Thomas Sowell to hurt her",
+      "claim": "The host alleges that after seeing her Sowell answer, Ben Shapiro had his team schedule an interview with Thomas Sowell, which she presumes they paid an offensive amount for, in order to hurt her feelings.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11025"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:24",
+      "investigative_direction": "Find the Daily Wire's Sowell interview release date and any payment or booking records; ask Daily Wire about the motive the host alleges.",
+      "transcript_snippet": "Ben had his team reach out and schedule an interview with Thomas Sowell which they paid for an offensive amount of money",
+      "mentions_person_refs": [
+        "N-97",
+        "N-111",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5365",
+      "ref": "C-5365",
+      "label": "Host says the Sowell interview premiered right alongside her Tucker Carlson interview",
+      "claim": "The host says her Tucker Carlson interview was on the 15th and premiered on the 16th, and that Ben then got a Thomas Sowell interview out at the same time.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11025"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:24",
+      "investigative_direction": "Compare the publication timestamps of the Carlson interview and the Daily Wire's Sowell interview.",
+      "transcript_snippet": "Interview with Tucker is on the 15th. I think it premieres on the 16th. And Ben gets Thomas Sowell who he doesn't care about.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-22",
+        "N-97",
+        "N-111"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5366",
+      "ref": "C-5366",
+      "label": "Host says a stage was built in her studio and clips prepared for her firing",
+      "claim": "The host says that after her show, without knowing she would be fired, the company had put together a stage in her studio and a package of clips about her.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:10:24",
+      "investigative_direction": "Obtain the leaked town hall video and any Daily Wire staff accounts of the setup and the timing relative to her show.",
+      "transcript_snippet": "they had put together a stage in my studio and put up clips of put together basically a whole package",
+      "supports_claim_refs": [
+        "C-1982"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5367",
+      "ref": "C-5367",
+      "label": "Steven Crowder obtained the town hall video",
+      "claim": "The host says Steven Crowder somehow got hold of the Jeremy Boreing town hall video this week or last week.",
+      "anchored_artifacts": [
+        "A-1563.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:11:51",
+      "investigative_direction": "Locate Crowder's release of the video and the date it was posted; ask Crowder for the source.",
+      "transcript_snippet": "somehow Steven Crowder got a a hold of this week or last week or whatever.",
+      "supports_claim_refs": [
+        "C-1982"
+      ],
+      "mentions_person_refs": [
+        "N-265",
+        "N-374"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5368",
+      "ref": "C-5368",
+      "label": "Boreing says Dave Rubin rebuked her tweet and she attacked him in response",
+      "claim": "In the replayed town hall video, Jeremy Boreing says Dave Rubin came to the same conclusion as anti-Semites about her genocide tweet but found it vile and rebuked her, and that she then attacked him.",
+      "anchored_artifacts": [
+        "A-1563.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:12:45",
+      "investigative_direction": "Retrieve the Rubin and host exchange on X from November 2023 and compare with Boreing's quoted text.",
+      "transcript_snippet": "So when Dave Rubin came to the exact same conclusion as the anti-Semites only instead of cheering for Candace found it vile and rebuked her",
+      "mentions_person_refs": [
+        "N-374",
+        "N-32",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5369",
+      "ref": "C-5369",
+      "label": "Boreing says the host liked a post calling Netanyahu a war criminal within 24 hours",
+      "claim": "In the replayed town hall video, Jeremy Boreing says that within 24 hours the host liked a post calling Israeli Prime Minister Benjamin Netanyahu a war criminal.",
+      "anchored_artifacts": [
+        "A-1563.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:12:45",
+      "investigative_direction": "Check the host's X likes history or archived copies for the November 2023 like cited by Boreing.",
+      "transcript_snippet": "Within 24 hours Candace liked a post calling Israeli Prime Minister Benjamin Netanyahu a war criminal.",
+      "mentions_person_refs": [
+        "N-374",
+        "N-36",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5370",
+      "ref": "C-5370",
+      "label": "Boreing says replies to her pornography tweet were flooded with cheering anti-Semites",
+      "claim": "In the replayed town hall video, Jeremy Boreing says replies to the host's February 28, 2024 post were immediately flooded with anti-Semites cheering her for the question.",
+      "anchored_artifacts": [
+        "A-1563.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:14:26",
+      "investigative_direction": "Review archived replies to the February 28, 2024 post to test the characterization.",
+      "transcript_snippet": "Her replies were immediately flooded with anti-Semites cheering her for the question",
+      "mentions_person_refs": [
+        "N-374",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5371",
+      "ref": "C-5371",
+      "label": "Host says she stands by the tweets cited in the town hall",
+      "claim": "The host says she stands by all of the tweets Boreing cited and that pornography is harming men.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:15:40",
+      "investigative_direction": "No further verification beyond matching the position to her original tweets.",
+      "transcript_snippet": "I stand by all of those tweets. Pornography is harming men.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5372",
+      "ref": "C-5372",
+      "label": "Host says she spoke to Nick Fuentes only once, about Kanye",
+      "claim": "The host says Boreing's presentation showed videos of Nick Fuentes unrelated to her, and that she has spoken to Fuentes only once, about Kanye.",
+      "anchored_artifacts": [
+        "A-1563.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:15:40",
+      "investigative_direction": "Check the host's prior statements and any call or message records about contacts with Fuentes; review the Boreing video for the Fuentes segment.",
+      "transcript_snippet": "I think only one time I'd spoken ever to Nick Fuentes. And it was pertaining to Kanye.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-205",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5373",
+      "ref": "C-5373",
+      "label": "Host says Shapiro has brought three court proceedings against her",
+      "claim": "The host says Ben Shapiro has issued, so far, three court proceedings against her over what she says.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:39",
+      "investigative_direction": "Search state and federal dockets for cases between the host and Ben Shapiro or the Daily Wire and list them.",
+      "transcript_snippet": "He has issued thus far three court proceedings, okay?",
+      "mentions_person_refs": [
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5374",
+      "ref": "C-5374",
+      "label": "Host says Shapiro's side contacted advertisers and sent undercover interns",
+      "claim": "The host says people working for Ben Shapiro have called her advertisers to try to bankrupt her in court and have sent undercover interns to stalk her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10416",
+        "N-10238"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:39",
+      "investigative_direction": "Obtain advertiser communications and the intern evidence; ask Daily Wire to respond.",
+      "transcript_snippet": "people working behind the scenes to call advertisers attempting to bankrupt me in courts sending undercover interns to stalk me.",
+      "supports_claim_refs": [
+        "C-1643"
+      ],
+      "mentions_person_refs": [
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5375",
+      "ref": "C-5375",
+      "label": "Host says Shapiro sued her over an interview with a USS Liberty survivor",
+      "claim": "The host says Ben Shapiro sued her because she interviewed a USS Liberty survivor who mentioned his name.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10451",
+        "N-11026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:39",
+      "investigative_direction": "Locate the complaint and the interview episode it refers to and compare the pleaded basis with the host's account.",
+      "transcript_snippet": "I have put up with the pettiness of even suing me because I interviewed a USS Liberty survivor who mentioned your name",
+      "mentions_person_refs": [
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5376",
+      "ref": "C-5376",
+      "label": "Host says Shapiro buys his place with advertising spend",
+      "claim": "Addressing Shapiro, the host alleges that he gets donors to pressure people or offers an advertising spend, with a line she renders as 'Here's a million dollars. I'm sorry you're dead.'",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:30",
+      "investigative_direction": "Obtain TPUSA sponsorship records and any Daily Wire spend on Turning Point events or Charlie Kirk's show; note the line is the host's paraphrase.",
+      "transcript_snippet": "Here's a million dollars. I'm sorry you're dead.",
+      "mentions_person_refs": [
+        "N-97",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5377",
+      "ref": "C-5377",
+      "label": "Host alleges Shapiro's AmFest audience was staffed with YAF employees told to cheer",
+      "claim": "The host alleges that audiences for Shapiro are staffed with people who work for Young America's Foundation, told to explode into cheers when he hits the stage.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:17:30",
+      "investigative_direction": "Obtain any YAF or TPUSA staff instructions for the AmFest session and interview attendees; compare with video of the crowd response.",
+      "transcript_snippet": "You staff audiences with people that work for YAF who are told to explode into cheers when you hit the stage",
+      "mentions_person_refs": [
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5378",
+      "ref": "C-5378",
+      "label": "Shapiro's speech says the host implicated French intelligence, Mossad and TPUSA members",
+      "claim": "In the AmFest audio, Ben Shapiro says the host has spewed baseless trash implicating everyone from French intelligence to Mossad to members of TPUSA in Charlie Kirk's murder or a cover-up.",
+      "anchored_artifacts": [
+        "A-1561.1"
+      ],
+      "related_nodes": [
+        "N-10015"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:18:29",
+      "investigative_direction": "Compare against the host's own episodes to see who she has actually named, and obtain the full speech.",
+      "transcript_snippet": "to spew absolutely baseless trash implicating everyone from French intelligence to Mossad to members of TPUSA in Charlie's murder or a cover-up in that murder",
+      "supports_claim_refs": [
+        "C-1980"
+      ],
+      "mentions_person_refs": [
+        "N-97",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5379",
+      "ref": "C-5379",
+      "label": "Shapiro's speech also faulted Tucker Carlson and Megyn Kelly for not condemning the host",
+      "claim": "In the AmFest audio, Ben Shapiro says Megyn Kelly, whom he calls a friend, is shying away from condemning the host by calling her a young mother, and tells Tucker Carlson that going silent on her is no excuse.",
+      "anchored_artifacts": [
+        "A-1561.1"
+      ],
+      "related_nodes": [
+        "N-10406"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:58",
+      "investigative_direction": "Obtain the full speech video to confirm wording and the passages naming Carlson and Kelly.",
+      "transcript_snippet": "The same holds true of Megan Kelly, a person I consider a friend, characterizing Candace as a young mother and thus shying away from condemning her actions",
+      "supports_claim_refs": [
+        "C-1980"
+      ],
+      "mentions_person_refs": [
+        "N-97",
+        "N-46",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5380",
+      "ref": "C-5380",
+      "label": "Host says AmFest kids booed Shapiro and TPUSA people messaged her about it",
+      "claim": "The host says the AmFest attendees booed Shapiro on stage and that she received many messages from Turning Point USA people asking why he was on the stage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:44",
+      "investigative_direction": "Review full AmFest session video for audience reaction; ask the host for the messages she describes.",
+      "transcript_snippet": "you know those kids booed you on that stage, the amount of messages I got from Turning Point USA people saying what is happening",
+      "mentions_person_refs": [
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5381",
+      "ref": "C-5381",
+      "label": "Host says Shapiro describes himself as a Talmudic Jew",
+      "claim": "The host says Ben Shapiro describes himself as a Talmudic Jew.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:22:15",
+      "investigative_direction": "Find Shapiro's own statements using that phrase and their dates.",
+      "transcript_snippet": "You describe yourself as a Talmudic Jew and I've learned what's in that Talmud",
+      "mentions_person_refs": [
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5382",
+      "ref": "C-5382",
+      "label": "Host asserts the Talmud teaches that Jews have a right to own, deceive and sue non-Jews",
+      "claim": "The host asserts that, according to the Talmud, Jewish people think non-Jews are animals and have a right to own them, make them worship, lie to them and sue them. She cites no passage.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:22:15",
+      "investigative_direction": "Ask the host for the specific Talmudic passages; compare with the primary texts and mainstream scholarly translations and commentary. This is a sweeping religious characterization, not a record of Shapiro's conduct.",
+      "transcript_snippet": "they think that we're animals. That they have a right to own us. That they have a right to make us worship them.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5383",
+      "ref": "C-5383",
+      "label": "Host says Shapiro's father writes under the pen name Hank Berrien",
+      "claim": "The host says Ben Shapiro's father writes articles for the Daily Wire under the pen name Hank Berrien, as he did while Ben was at Breitbart.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:22:56",
+      "investigative_direction": "Compare Hank Berrien bylines at Breitbart and the Daily Wire with public statements by Shapiro or his father about the name.",
+      "transcript_snippet": "How many more articles is his father going to write under a pen name, Hank Berrien of the Daily Wire, under the pen name, Hank Berrien, as he wrote while Ben was at Breitbart",
+      "mentions_person_refs": [
+        "N-97",
+        "N-730"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5384",
+      "ref": "C-5384",
+      "label": "Host says Jewish donors pressured Charlie Kirk, some because Shapiro insisted",
+      "claim": "The host says Charlie Kirk fought to the end against Jewish donors who were pressuring him, some of them because Ben Shapiro insisted that they do so.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:47",
+      "investigative_direction": "Identify the donors and any communications between them and Shapiro or Charlie Kirk's team; separate this from Carlson's own statement, which does not name Shapiro as a cause.",
+      "transcript_snippet": "who he fought for till the very end against the Jewish donors who were pressuring him, some of them because Ben Shapiro insisted that they do.",
+      "supports_claim_refs": [
+        "C-1981",
+        "C-1185"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-97",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5385",
+      "ref": "C-5385",
+      "label": "Host asserts Jewish people controlled the slave trade",
+      "claim": "The host asserts that Jewish people were the ones trading enslaved Black people and were in control of the slave trade.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:26:29",
+      "investigative_direction": "Test against standard historical scholarship on the Atlantic slave trade; the host cites no source. Recorded as an on-air historical assertion.",
+      "transcript_snippet": "Jewish people were the ones that were trading us. Jewish people were in control of the slave trade.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5386",
+      "ref": "C-5386",
+      "label": "Host says Daily Wire fired half its Daily Wire Kids staff then spent a million on Charlie's show",
+      "claim": "Addressing Shapiro, the host says he fired half of the force involved in Daily Wire Kids and then dropped a million dollars on Charlie Kirk's show.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10912"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:34",
+      "investigative_direction": "Check Daily Wire Kids layoff reporting from 2025 and any sponsorship disclosure for Charlie Kirk's show.",
+      "transcript_snippet": "fire half of your force that was involved in Daily Wire Kids only to then drop a million dollars on Charlie's show",
+      "mentions_person_refs": [
+        "N-97",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5387",
+      "ref": "C-5387",
+      "label": "Host says Shapiro was not invited onto Charlie's show but Matt Walsh was",
+      "claim": "The host says Ben Shapiro weaseled into the chair on Charlie Kirk's show when he was not invited, while Matt Walsh was invited.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:30:34",
+      "investigative_direction": "Obtain the guest-host schedule and invitation records for the Charlie Kirk Show after September 2025.",
+      "transcript_snippet": "weaseling your way into the chair when you weren't invited to go on there, but Matt Walsh was",
+      "mentions_person_refs": [
+        "N-97",
+        "N-166",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5388",
+      "ref": "C-5388",
+      "label": "Host says Fort Huachuca has ties to Liberty University and offers classes",
+      "claim": "The host says she is learning Fort Huachuca has ties to Liberty University and that one can attend classes there and achieve a degree at Liberty, and says she is still working to verify it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10370",
+        "N-10393"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:28",
+      "investigative_direction": "Check Liberty University online or on-base education partnership listings for Fort Huachuca.",
+      "transcript_snippet": "I am learning also that Fort Huachuca has ties to Liberty University and that you can attend classes there and achieve your degree at Liberty University.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5389",
+      "ref": "C-5389",
+      "label": "Host says her team verified that the meeting Mitch describes took place",
+      "claim": "The host says her team verified 1000 percent that Mitch was where he says he was and that there was a meeting where he says there was one.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10370",
+        "N-10326"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:28",
+      "investigative_direction": "Publish or show the verification documents for the meeting's occurrence; obtain independent corroboration.",
+      "transcript_snippet": "we verified 1000% that he was where he said he was, that the there was a meeting where he says that there was a meeting.",
+      "supports_claim_refs": [
+        "C-1971",
+        "C-1972"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-369"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5390",
+      "ref": "C-5390",
+      "label": "Host says Captain Neff was there, was nice, and questioned Mitch for a long time",
+      "claim": "The host says her team verified that Captain Neff was at the base, the one Mitch calls nice, and that Mitch was questioned for a very long time and they wanted to hold him for 24 hours.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10370"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:28",
+      "investigative_direction": "Obtain the incident report and any Army or Fort Huachuca record of Captain Adam Neff's posting and of Mitch's detention.",
+      "transcript_snippet": "We verified that Blake Neff, I mean sorry, not Blake Neff, pardon me, Captain Neff was there, the one that he says was nice, but he got questioned for a very long time and they wanted to hold him for 24 hours.",
+      "supports_claim_refs": [
+        "C-1888",
+        "C-1907"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-326",
+        "N-369"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5391",
+      "ref": "C-5391",
+      "label": "Host says only the identifications and the hotel couple remain open to debunking",
+      "claim": "The host says everything else about Mitch's account is verified and that she is looking only for someone to debunk the identification of the congressman and the couple seen at the Candlewood Inn and Suites.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10333",
+        "N-10370"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:28",
+      "investigative_direction": "Track whether anyone comes forward on either point; the host separately says she cannot verify the people Mitch identified.",
+      "transcript_snippet": "We are looking only for somebody to debunk those two aspects.",
+      "qualifies_claim_refs": [
+        "C-1987"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-369"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5392",
+      "ref": "C-5392",
+      "label": "Host launched a GiveSendGo fundraiser for Mitch",
+      "claim": "The host says she published a GiveSendGo fundraiser for Mitch at givesendgo.com/candacepodcast just before going live.",
+      "anchored_artifacts": [
+        "A-2750.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:33:21",
+      "investigative_direction": "Check the live fundraiser page for its creation time, stated purpose and totals.",
+      "transcript_snippet": "You can support Mitch at givesendgo. com/candacepodcast.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-369"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5393",
+      "ref": "C-5393",
+      "label": "Host says the call sign 702 matches the Las Vegas area code",
+      "claim": "The host says the call sign has been reported as SAM 702 or RCH 702 and that 702 is the Las Vegas area code, which she says could be coincidence but is compelling given Mitch's identification of a Las Vegas congressman.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10370"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:20",
+      "investigative_direction": "Obtain the flight-tracking records for the SAM or RCH 702 call sign and the aircraft's actual routing.",
+      "transcript_snippet": "Well, that's Vegas. 702 is Vegas.",
+      "supports_claim_refs": [
+        "C-1906"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-371"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5394",
+      "ref": "C-5394",
+      "label": "Host says Amodei received many constituent calls asking where he was",
+      "claim": "The host says Mark Amodei apparently received a ton of phone calls from constituents asking where he was on the morning of the 9th.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10371"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:20",
+      "investigative_direction": "Ask Amodei's office or local press whether constituent calls were received and what the office said.",
+      "transcript_snippet": "Mark Amodei apparently received a ton of phone calls from his constituents who wanted to know where he was.",
+      "mentions_person_refs": [
+        "N-371"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5395",
+      "ref": "C-5395",
+      "label": "Host says the meeting was concluding around 7:30 a.m. on September 9",
+      "claim": "The host says the Fort Huachuca meeting was concluding around 7:30 a.m. on the 9th and that her team verified call logs.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10370"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:20",
+      "investigative_direction": "Show the call logs and any timestamped records that fix the meeting's end time.",
+      "transcript_snippet": "The meeting was concluding around 7:30 a. m. in the morning on the 9th on Fort Huachuca",
+      "supports_claim_refs": [
+        "C-1885"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5396",
+      "ref": "C-5396",
+      "label": "Host says planes that may have attended could get back to DC in that time frame",
+      "claim": "The host says that, based on flight routes for planes that may have attended the meeting, it is entirely possible to get back to DC in that time frame.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10370",
+        "N-10371"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:20",
+      "investigative_direction": "Obtain flight-tracking data for the aircraft and compute arrival times against Amodei's recorded roll-call attendance.",
+      "transcript_snippet": "you can get back to DC. You just can obviously in that time frame.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5397",
+      "ref": "C-5397",
+      "label": "Diligent Dennison infers Amodei could have attended the meeting and returned for the third roll call",
+      "claim": "In the post read aloud, Diligent Dennison says Amodei could have spent the night in Arizona on September 8, attended the morning meeting, and caught a military flight 3 to 4 hours back to make the third roll call in D.C.",
+      "anchored_artifacts": [
+        "A-1565.1"
+      ],
+      "related_nodes": [
+        "N-10371"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:36",
+      "investigative_direction": "Verify Amodei's whereabouts the night of September 8 and any military flight manifests; the inference is Dennison's, not a record.",
+      "transcript_snippet": "This means he could have spent the night in Arizona on September 8th, attended the morning meeting on the 9th and caught a military flight 3 to 4 hours away from the base",
+      "supports_claim_refs": [
+        "C-1984"
+      ],
+      "mentions_person_refs": [
+        "N-373",
+        "N-371"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5398",
+      "ref": "C-5398",
+      "label": "Host says she messaged Brian Harpole twice and got no response",
+      "claim": "The host says she reached out to Brian Harpole twice by iMessage, knows the message was received, and got no response.",
+      "anchored_artifacts": [
+        "A-2751.1"
+      ],
+      "related_nodes": [
+        "N-10373"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:36:36",
+      "investigative_direction": "Ask Harpole to confirm receipt; the messages are not shown.",
+      "transcript_snippet": "I have now reached out to Brian Harpole twice.",
+      "supports_claim_refs": [
+        "C-1986"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5399",
+      "ref": "C-5399",
+      "label": "Host says one person being vetted claims evidence that Mitch's subjects were on base",
+      "claim": "The host says one person her team is vetting believes they have evidence that the people Mitch saw were in fact on that base on that date.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10370"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:38",
+      "investigative_direction": "Obtain the vetted person's evidence and the vetting results.",
+      "transcript_snippet": "There was one person who we are vetting who believes that they have evidence that the people that Mitch saw were in fact on that base on that date.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-369"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5400",
+      "ref": "C-5400",
+      "label": "Host says Mitch picked the Las Vegas congressman without being given a name",
+      "claim": "The host says she sent Mitch photos of congressmen without context, he rejected several, and when they reached the Las Vegas congressman, whose name she did not give him, he said that was the guy.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10371"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:28",
+      "investigative_direction": "Obtain the photo set and Mitch's messages showing the sequence of identifications.",
+      "transcript_snippet": "And then we landed upon the Las Vegas congressman. We did not give him the name.",
+      "supports_claim_refs": [
+        "C-1975"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-369",
+        "N-371"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5401",
+      "ref": "C-5401",
+      "label": "Host says Mitch picked Amodei before the planes and Las Vegas route were discovered",
+      "claim": "The host says Mitch's identification of the Las Vegas congressman was made before her team discovered the planes and the route to Las Vegas.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10370"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:28",
+      "investigative_direction": "Compare timestamps of Mitch's identification with the date the host's team first posted or found the plane route.",
+      "transcript_snippet": "And of course, this was before we discovered the planes and the route to Las Vegas, so that was compelling.",
+      "supports_claim_refs": [
+        "C-1975"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-369",
+        "N-371"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5402",
+      "ref": "C-5402",
+      "label": "Host says Charlie told her about Cabot Phillips dating a girl",
+      "claim": "The host says she remembers that Charlie Kirk told her about Cabot Phillips dating a girl, and she thought at first it was Sammy rather than Erika.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10374"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:05",
+      "investigative_direction": "Seek corroboration from people close to Charlie Kirk and Cabot Phillips for the relationship and its dates.",
+      "transcript_snippet": "Yeah, I do remember that Charlie told me about Cabot Phillips dating a girl.",
+      "supports_claim_refs": [
+        "C-1988"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-372",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5403",
+      "ref": "C-5403",
+      "label": "Host says the surgeon, through a third party, denies violating HIPAA and describes a three-way call",
+      "claim": "The host says that, through a third party, the surgeon says he did not violate HIPAA when he suggested a frangible bullet but that it was a three-way call with him, Andrew and Erika.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10447",
+        "N-10341"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:05",
+      "investigative_direction": "Identify the third party and the surgeon; obtain call records for the three-way call and compare with Kolvet's and Erika Kirk's accounts.",
+      "transcript_snippet": "that he absolutely did not violate HIPAA when he suggested, \"Hey, maybe it's a frangible bullet,\" but rather that it was a three-way call with him and Andrew and Erika.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5404",
+      "ref": "C-5404",
+      "label": "Host says Mitch described the man as bearded and about 37",
+      "claim": "The host says Mitch kept saying the man he saw had a beard and was around 37, and that he confirmed a TikTok photo of Cabot Phillips as the person he remembered at the base.",
+      "anchored_artifacts": [
+        "A-1566.1"
+      ],
+      "related_nodes": [
+        "N-10372"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:56",
+      "investigative_direction": "Compare Phillips's appearance and age in September 2025 with Mitch's description; obtain Mitch's earlier written description.",
+      "transcript_snippet": "And he had a beard. And that was the thing that he kept saying to me is this guy had a beard. He's around 37.",
+      "supports_claim_refs": [
+        "C-1985"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-369",
+        "N-372"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5405",
+      "ref": "C-5405",
+      "label": "Host says she messaged Cabot Phillips twice and got no response",
+      "claim": "The host says she messaged Cabot Phillips twice, asking for an off-the-record conversation, and did not get a response.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10372"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:56",
+      "investigative_direction": "Ask Phillips to confirm receipt and to state his whereabouts on September 9, 2025.",
+      "transcript_snippet": "I messaged Cabot Cabot Phillips twice today, actually, and asked him if he wanted to have an off-the-record conversation",
+      "mentions_person_refs": [
+        "N-3",
+        "N-372"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5406",
+      "ref": "C-5406",
+      "label": "Host says Cabot Phillips is missing from Morning Wire from September 4 to 10",
+      "claim": "The host says she checked and Cabot Phillips is missing from The Morning Wire from September 4th to September 10th.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10372"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:56",
+      "investigative_direction": "Review Morning Wire episode credits for September 2025 and note the host says he does not appear daily.",
+      "transcript_snippet": "he is missing from September 4th to September 10th on that show.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-372"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5407",
+      "ref": "C-5407",
+      "label": "Host calls Cabot Phillips Erika's ex-boyfriend from 2017",
+      "claim": "The host says she did not tell Mitch that Cabot Phillips was Erika Kirk's ex-boyfriend from 2017 when she sent the photo.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10374"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:14",
+      "investigative_direction": "Seek dated public posts or witnesses on the 2017 relationship; the host says the dating is not itself a problem.",
+      "transcript_snippet": "I didn't say this is Erika's ex-boyfriend from 2017.",
+      "supports_claim_refs": [
+        "C-1988"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-372",
+        "N-2",
+        "N-369"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5408",
+      "ref": "C-5408",
+      "label": "Host says Cabot Phillips's father takes a lot of money from the Adelsons",
+      "claim": "The host says that, researching Phillips, she found a lot of information about his father, who she says takes a lot of money from the Adelsons and is definitely a neocon.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:43:14",
+      "investigative_direction": "Identify the father by name and check funding records for the Adelson family; the host does not name him.",
+      "transcript_snippet": "a pretty big guy, you know, uh taking a lot of money from the Adelsons, and definitely a neocon.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-372"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5409",
+      "ref": "C-5409",
+      "label": "Host says a caption and social media activity show Erika's relationship with Phillips's family",
+      "claim": "The host says the internet pulled up a caption reading that they are the couple who gets painting lessons together, and that there is a lot of social media activity between Erika Kirk and Phillips's family.",
+      "anchored_artifacts": [
+        "A-2752.1"
+      ],
+      "related_nodes": [
+        "N-10374"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:44:04",
+      "investigative_direction": "Obtain the original posts with account names and dates; the transcript captures only the caption text.",
+      "transcript_snippet": "There's a lot of social media activity between her and his family.",
+      "supports_claim_refs": [
+        "C-1988"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-372"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5410",
+      "ref": "C-5410",
+      "label": "Nicole Rothstein comments that she is Erika's cousin and Erika is half Jewish",
+      "claim": "The host says Nicole Rothstein, whom she calls Erika's cousin, defended her in the comments and wrote that she is her cousin and that Erika is half Jewish.",
+      "anchored_artifacts": [
+        "A-2752.2"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:44:04",
+      "investigative_direction": "Locate the comment and the account; confirm the kinship and whether the comment was posted by the person named.",
+      "transcript_snippet": "Nicole Rothstein was like, \"I'm her cousin. She's half Jewish.\"",
+      "mentions_person_refs": [
+        "N-3",
+        "N-587",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5411",
+      "ref": "C-5411",
+      "label": "Host says she never said the Mossad killed Charlie Kirk",
+      "claim": "The host says she never once said the Mossad killed Charlie Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10015"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:06",
+      "investigative_direction": "Review the host's prior episodes for statements naming Mossad in connection with Charlie Kirk's death.",
+      "transcript_snippet": "I never once said the Mossad killed Charlie Kirk.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5412",
+      "ref": "C-5412",
+      "label": "Host says her Egyptian planes report is being finalized for her website",
+      "claim": "The host says her team is putting the final touches on the Egyptian planes report to post on the website, wanting no typo or mistake.",
+      "anchored_artifacts": [
+        "A-2755.1"
+      ],
+      "related_nodes": [
+        "N-10253"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:06",
+      "investigative_direction": "Check the host's website for the publication date and compare its contents with her earlier Egyptian plane episodes.",
+      "transcript_snippet": "which we are putting the final touches on cuz I don't want there to be even one typo or mistake on this",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5413",
+      "ref": "C-5413",
+      "label": "Host says the Egyptian planes lead to Israel",
+      "claim": "The host says the Egyptian planes report leads to Israel and that there is no question about it.",
+      "anchored_artifacts": [
+        "A-2755.1"
+      ],
+      "related_nodes": [
+        "N-10253",
+        "N-10026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:06",
+      "investigative_direction": "Examine the published report for the evidentiary chain from the aircraft to any Israeli actor; the host does not state it here.",
+      "transcript_snippet": "It leads you to Israel. It just does, okay? There's no question.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5414",
+      "ref": "C-5414",
+      "label": "Host says Fort Huachuca is involved in lawsuits and sworn affidavits regarding 9/11",
+      "claim": "The host says Fort Huachuca is involved in lawsuits and sworn affidavits regarding 9/11, from people who asserted that prepping for it took place there.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11024",
+        "N-10370"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:00",
+      "investigative_direction": "Identify the specific lawsuits and affidavits; the host names none.",
+      "transcript_snippet": "Fort Huachuca is involved in lawsuits and sworn affidavits regarding 9/11.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5415",
+      "ref": "C-5415",
+      "label": "Host asks viewers for concrete evidence about Fort Huachuca on the morning of the 9th",
+      "claim": "The host says the investigation is open to tips and that she wants concrete evidence of what occurred at Fort Huachuca on the early morning of the 9th, not emails about Mitch's past or hotel booking.",
+      "anchored_artifacts": [
+        "A-2753.1"
+      ],
+      "related_nodes": [
+        "N-10370"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:46:00",
+      "investigative_direction": "Track the volume and substance of tips received; the host asks for evidence about the morning of September 9, not character attacks on Mitch.",
+      "transcript_snippet": "that's why we open you guys to this investigation to send us tips",
+      "mentions_person_refs": [
+        "N-3",
+        "N-369"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5416",
+      "ref": "C-5416",
+      "label": "Host says feminism traces to the same people who assassinated the Tsar",
+      "claim": "The host says her book traces the history of feminism back to the same people who assassinated the Tsar.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:50:25",
+      "investigative_direction": "Compare against the book's cited sources and historical scholarship on feminism's origins and the 1881 assassination of Alexander II.",
+      "transcript_snippet": "who brought the plague to break down families to America, and you can really trace that right back to the same people who assassinated the Tsar.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5417",
+      "ref": "C-5417",
+      "label": "Host says a viewer who was at JTF that year confirmed Mitch's account because of the horses",
+      "claim": "The host says one viewer emailed that they were at JTF that year and that Mitch is telling the truth because of the horseback riders, and said who the general was who insisted they learn to ride horses.",
+      "anchored_artifacts": [
+        "A-2754.1"
+      ],
+      "related_nodes": [
+        "N-10370"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:52:40",
+      "investigative_direction": "Obtain the viewer's email and independent confirmation of a horse-riding training requirement at JTF Fort Huachuca and the general's name.",
+      "transcript_snippet": "Oh, that year I was actually JTF, and he's absolutely telling the truth because of the horses.",
+      "supports_claim_refs": [
+        "C-1971"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-369"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5418",
+      "ref": "C-5418",
+      "label": "Host says Shapiro sued her for liking tweets",
+      "claim": "The host says she was literally sued for liking tweets.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11026"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:54:50",
+      "investigative_direction": "Locate the pleadings to see whether liked posts were cited, and compare with Boreing's reliance on a liked post in the town hall video.",
+      "transcript_snippet": "I was like literally sued for liking tweets.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-97"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5419",
+      "ref": "C-5419",
+      "label": "Host says donors told Charlie they would take everything if he let Tucker speak",
+      "claim": "The host says Charlie Kirk was going through Jewish donors threatening him with the words 'I'm going to take everything if you even let Tucker speak'.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10268"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:57:58",
+      "investigative_direction": "Identify the donors and obtain any message or witness account containing the threat; the words are the host's rendering.",
+      "transcript_snippet": "I'm going to take everything if you even let Tucker speak.",
+      "confidence": "high",
+      "supports_claim_refs": [
+        "C-1981",
+        "C-1185"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-22"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-33",
+      "ref": "M-33",
+      "canonical_term": "Just Asking Questions",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 50,
+          "video_timestamp": "00:14:26",
+          "speaker_node_ref": "N-3",
+          "quote": "who disapprove of her comments. On February 28th of this year Candace just asking questions posted quote, \"Time to look into the history and profit...",
+          "context": "Later reuse of Just Asking Questions in CKA seq 50.",
+          "confidence": "high",
+          "tags": [
+            "epistemic",
+            "host_refrain",
+            "chat_elevate",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 50,
+          "video_timestamp": "00:46:00",
+          "speaker_node_ref": "N-3",
+          "quote": "that's why we open you guys to this investigation to send us tips",
+          "context": "Host invites crowd tips on Fort Huachuca on the morning of September 9.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tip_request",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-76",
+      "ref": "M-76",
+      "canonical_term": "Genocide Is Always Wrong",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 50,
+          "video_timestamp": "00:04:05",
+          "speaker_node_ref": "N-3",
+          "quote": "Genocide is always wrong is what I tweeted.",
+          "context": "Host recounts her tweet that triggered the Shapiro and Boreing episode.",
+          "confidence": "high",
+          "tags": [
+            "host_refrain",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 50,
+          "video_timestamp": "00:15:40",
+          "speaker_node_ref": "N-3",
+          "quote": "Genocide is always wrong no matter which country calls for it whatever.",
+          "context": "Host reaffirms the line after Boreing's town hall presentation.",
+          "confidence": "high",
+          "tags": [
+            "host_refrain",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 50,
+          "video_timestamp": "00:06:47",
+          "speaker_node_ref": "N-3",
+          "quote": "I ended uh this biblical passage with Christ is king.",
+          "context": "Host recounts ending her peacemaker tweet with the phrase.",
+          "confidence": "high",
+          "tags": [
+            "christ_is_king",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-15",
+      "ref": "M-15",
+      "canonical_term": "We Don't Know But We Know",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 50,
+          "video_timestamp": "00:19:58",
+          "speaker_node_ref": "N-97",
+          "quote": "I don't know, no, but I know.",
+          "context": "Shapiro quotes the host's refrain in his AmFest remarks and the host answers it.",
+          "confidence": "high",
+          "tags": [
+            "host_refrain",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 50,
+          "video_timestamp": "00:50:25",
+          "speaker_node_ref": "N-3",
+          "quote": "I just make him a sandwich. com, if you'd like to buy direct from us",
+          "context": "Host plugs her book storefront.",
+          "confidence": "high",
+          "tags": [
+            "plug",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 50,
+          "video_timestamp": "00:53:40",
+          "speaker_node_ref": "N-3",
+          "quote": "Unaffected COVID writes, \"Go Max, Candace, go Max.\"",
+          "context": "Host reads a viewer comment using the refrain.",
+          "confidence": "high",
+          "tags": [
+            "viewer_refrain",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 50,
+          "video_timestamp": "00:59:53",
+          "speaker_node_ref": "N-3",
+          "quote": "Today is another great day to go max.",
+          "context": "Host reads a viewer slogan suggestion using the refrain.",
+          "confidence": "high",
+          "tags": [
+            "viewer_refrain",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-13",
+      "ref": "M-13",
+      "canonical_term": "Fake and Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 50,
+          "video_timestamp": "00:53:40",
+          "speaker_node_ref": "N-3",
+          "quote": "The people are waking up and recognizing who and what is fake and gay.",
+          "context": "Host reads a viewer comment using the phrase.",
+          "confidence": "high",
+          "tags": [
+            "viewer_refrain",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-133",
+      "ref": "M-133",
+      "canonical_term": "Little Benny",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 50,
+          "video_timestamp": "00:55:33",
+          "speaker_node_ref": "N-3",
+          "quote": "for calling out mini Benny out for his Napoleon complex",
+          "context": "Host reads a viewer comment using the diminutive; the episode's chapter is titled Little Benny's breakdown.",
+          "confidence": "high",
+          "tags": [
+            "nickname",
+            "shapiro"
+          ]
+        },
+        {
+          "episode": 50,
+          "video_timestamp": "00:58:47",
+          "speaker_node_ref": "N-3",
+          "quote": "Instead, they go, \"We'll buy our way, and Benny will sit near Charlie's chair",
+          "context": "Host mocks Shapiro with the diminutive.",
+          "confidence": "high",
+          "tags": [
+            "nickname",
+            "shapiro"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-134",
+      "ref": "M-134",
+      "canonical_term": "On Your Belly, Ben",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 50,
+          "video_timestamp": "00:23:47",
+          "speaker_node_ref": "N-3",
+          "quote": "One of these belly creatures, slither on.",
+          "context": "Host's serpent imagery aimed at Shapiro.",
+          "confidence": "high",
+          "tags": [
+            "insult",
+            "serpent"
+          ]
+        },
+        {
+          "episode": 50,
+          "video_timestamp": "00:26:29",
+          "speaker_node_ref": "N-3",
+          "quote": "So, again, on your belly, Ben Shapiro.",
+          "context": "Host closes the first segment with the phrase.",
+          "confidence": "high",
+          "tags": [
+            "insult",
+            "serpent"
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -11,6 +11,7 @@
 - **Transcript SHA-256**: 0a9c6fafefe14c0d1f54417389a169941d6dc03778a4ff62159f241b54a502b4
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (reintro-ep032): N-767
   - (see registers)
 
 # Episode Analysis: Bride of Charlie Episode 32
@@ -276,6 +277,14 @@ Confidence Level: High (audio played)
 ## IV. Node Register
 
 ### People
+
+**N-767** Astrid Tuminez
+
+UVU president (also transcribed "Tumz"); first named in C-1711.
+
+*Related: C-1711*
+
+---
 
 **N-255** Lou Taylor
 
@@ -766,7 +775,7 @@ Claim Timestamp: 00:44:05
 Claim: Per host, "Samir" was granted an interview with UVU president Astrid Tuminez despite the host's own inability to obtain basic contact information from him.
 
 Anchored Artifacts: A-1410.1 (contextual reference)
-Mentions: N-264
+Mentions: N-264, N-767
 
 
 Investigative Direction: Locate the published Samir / Tuminez interview and review sourcing/conditions.

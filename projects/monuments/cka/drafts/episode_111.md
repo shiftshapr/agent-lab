@@ -958,6 +958,7 @@ Transcript Snippet: The assassination of the Romanov family was led by the Bolsh
 
 Anchored Artifacts:
 Mentions: N-666
+Tags: relevance:tangential
 Investigative Direction: Consult historical records of the 1918 Yekaterinburg execution.
 
 ---

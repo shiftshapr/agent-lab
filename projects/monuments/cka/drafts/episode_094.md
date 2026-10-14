@@ -6,14 +6,14 @@
 - **YouTube id**: kaWtDuoY_ns
 - **Candace Ep**: 327
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–01:03:42
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: 4b931eed5aa73d203bec84182448315895321f05165958ce43afd7cf890cdb6e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10623, N-10624, N-10625, N-10626, N-10627, N-10628, N-10629, N-10630, N-10632, N-10633, N-10634, N-10635, N-10636
+  - New Nodes Introduced: N-10623, N-10624, N-10625, N-10626, N-10627, N-10629, N-10630, N-10632, N-10633, N-10634, N-10636
   - Hole-minted Nodes (wave3): N-435, N-436
-  - Reused Nodes Appearing: N-10631
+  - Reused Nodes Appearing: N-10631, N-10628, N-10635
   - (see registers)
 
 ---

@@ -6,13 +6,13 @@
 - **YouTube id**: _Sq5RqP27NY
 - **Candace Ep**: 393
 - **Source**: Candace Owens YouTube
-- **Video Timestamp Range**: 00:00:00–00:56:29
+- **Video Timestamp Range**: 00:00:00–00:55:05
 - **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z
 - **Transcript SHA-256**: c32da8cd664ed494ce187fb3608dadb0e6203f099e44e61f6891ccc4eb88cd7d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10851, N-10852, N-10853, N-10854, N-10855
-  - Reused Nodes Appearing: N-1, N-2, N-10, N-11, N-18
+  - New Nodes Introduced: N-10851, N-10852, N-10854, N-10855
+  - Reused Nodes Appearing: N-1, N-2, N-10, N-11, N-18, N-10853
   - (see registers)
 
 # Episode 156 Analysis
