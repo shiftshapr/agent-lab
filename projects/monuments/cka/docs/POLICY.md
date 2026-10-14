@@ -62,6 +62,7 @@ Scripts are in `scripts/supplement/` plus `scripts/supplement_integrate.py`. Age
 5. Fix the preflight findings: ground or drop Mentions, accept named-before-intro pairs with a reason, and add aliases only per section 4.
 6. Run `supplement/merge_inscriptions.py STAGING` (it must report 0 lost ids), then `supplement_memes_backfill.py STAGING` (meme definitions; it should add no occurrences), `sync_claim_tags.py` and the companion generator.
 7. Run the gate suite (section 9). Write `audits/<batch>/README.md` with the result table and review items (section 8), and include the agents' MISTRANSCRIPTION reports. Open the PR, run `gh pr update-branch`, and merge it when green.
+8. **QA spot-check.** `qa/qa_pack.py PACK --since <base ref>` samples 2.5% of the new claims; one Opus reviewer per `items_NN.md` follows `docs/qa/QA_PROMPT.md`. Then `qa/qa_report.py PACK audits/<batch>/qa.md`. Fix every material finding; a batch above 2% material gets a second look before the next batch starts.
 
 ## 8. Review items
 Each item that needs Daveed's eyes includes:

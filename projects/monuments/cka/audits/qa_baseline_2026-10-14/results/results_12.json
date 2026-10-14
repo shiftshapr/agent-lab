@@ -1,0 +1,11 @@
+[
+{"claim": "C-6442", "episode": 159, "attribution": "ok", "accuracy": "ok", "person": "ok", "timestamp": "error", "relevance": "untagged", "material": true,
+ "note": "At 53:52 the Scripps News Tyler Robinson clip plays. The [53:52] block runs to 55:31, and the host's 'built in 1990 ... Scripps building in Cincinnati' line comes near its end (about 55:20), roughly 88s after the link. The '312 Walnut Street' address is in the [55:31] block, which is outside the excerpt.",
+ "fix": "Claim Timestamp: 00:54:58 (the host's 'Somebody emailed me and reminded me...' line, about 20s before the snippet)."},
+{"claim": "C-3680", "episode": 161, "attribution": "ok", "accuracy": "ok", "person": "ok", "timestamp": "ok", "relevance": "untagged", "material": false,
+ "note": "The excerpt was broken (it contained only the front matter). I checked the full transcript in transcripts_corrected: the [01:42] block matches every element ('hired by the Department of War back in July', '30 six', 'deer', 'reinforcing the NCRI report', 'Andrew Kovette and Bill Aman'). Kolvet and Ackman are mis-transcriptions resolved correctly.",
+ "fix": ""},
+{"claim": "C-10625", "episode": 161, "attribution": "ok", "accuracy": "ok", "person": "ok", "timestamp": "ok", "relevance": "ok", "material": false,
+ "note": "The excerpt was empty. In the full transcript the snippet is in the [47:21] block, at about 47:45. The 47:50 link lands at or just after the start of the line, which is close enough to count. 'crosscontamination between big pharma, the Adlesen's, methadone... Las Vegas syndicate' supports the claim.",
+ "fix": ""}
+]

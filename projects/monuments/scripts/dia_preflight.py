@@ -42,7 +42,7 @@ CLAIM_HEADER_RE = re.compile(r"^\*\*(C-\d+)\*\*\s+(.+)$", re.MULTILINE)
 CLAIM_BODY_LINE_RE = re.compile(r"^Claim:\s*(.+)$", re.MULTILINE | re.IGNORECASE)
 # Skip non-definition claim headers (continuation / omission notes).
 CLAIM_META_LABEL_RE = re.compile(
-    r"(?i)\b(already\s+listed|omitted|supplemental|continuing\s+the\s+register)\b"
+    r"(?i)^\W*(already\s+listed|omitted|supplemental|continuing\s+the\s+register)\b"
 )
 
 # Timecode: require HH:MM:SS (two colon-separated numeric segments before seconds).

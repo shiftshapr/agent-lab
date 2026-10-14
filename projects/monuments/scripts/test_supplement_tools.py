@@ -96,3 +96,11 @@ def test_name_corrections_are_applied():
     out = subprocess.run([sys.executable, str(CKA / "scripts" / "apply_name_corrections.py"), "--dry-run"],
                          capture_output=True, text=True, check=True).stdout
     assert out.strip() == "transcripts: 0, drafts: 0, inscriptions: 0, aliases: 0", out
+
+
+def test_qa_excerpt_ignores_chapter_list():
+    """A chapter list at the top of a transcript lists later times first; the excerpt must still find the body."""
+    qa = _load("qa_pack", "scripts/qa/qa_pack.py")
+    tr = "## Chapters\n- [00:00] Start\n- [30:00] Later\n\n[00:00]\nhello\n\n[29:30]\ntarget words\n\n[33:00]\nafter\n"
+    ex = qa.excerpt(tr, 30 * 60)
+    assert "target words" in ex and "Chapters" not in ex

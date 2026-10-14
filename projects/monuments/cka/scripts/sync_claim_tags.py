@@ -13,12 +13,12 @@ from __future__ import annotations
 
 import argparse
 import json
-import re
+import sys
 from pathlib import Path
 
 CKA = Path(__file__).resolve().parents[1]
-BLOCK_RE = re.compile(r"^\*\*(C-\d+)\*\*.*?(?=^\*\*C-|^#{1,3} |\Z)", re.M | re.S)
-TAGS_RE = re.compile(r"^Tags:\s*(.+)$", re.M)
+sys.path.insert(0, str(CKA.parent / "bride_of_charlie" / "scripts"))
+from neo4j_ingest import extract_claims  # noqa: E402  (the one draft parser, ROADMAP 0.7)
 
 
 def main() -> int:
@@ -30,11 +30,7 @@ def main() -> int:
         ipath = CKA / "inscription" / dpath.name.replace(".md", ".json")
         if not ipath.exists():
             continue
-        tags = {}
-        for m in BLOCK_RE.finditer(dpath.read_text(encoding="utf-8")):
-            tm = TAGS_RE.search(m.group(0))
-            if tm:
-                tags[m.group(1)] = [t.strip() for t in tm.group(1).split(",") if t.strip()]
+        tags = {c["id"]: c["tags"] for c in extract_claims(dpath.read_text(encoding="utf-8"), 0)}
         raw = ipath.read_text(encoding="utf-8")
         data = json.loads(raw)
         n = 0

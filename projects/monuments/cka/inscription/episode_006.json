@@ -3965,8 +3965,6 @@
       "claim_timestamp": "00:52:10",
       "investigative_direction": "Obtain the August 2025 Hamptons attendee list and Kolvet's travel records for those days.",
       "transcript_snippet": "\"Andrew Kolvet was there in the Hamptons.\" No, he wasn't. Andrew Kolvet was definitely not there in the Hamptons.",
-      "confidence": "high",
-      "uncertainty_note": "Pattern invoked implicitly; explicit 'conspiracy theorist' label not directly stated.",
       "contradicts_claim_refs": [
         "C-11968",
         "C-13623"
