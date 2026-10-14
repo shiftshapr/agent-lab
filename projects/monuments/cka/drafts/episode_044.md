@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: 4b44fcbfa9593db0051351dbb92918f4843655b202e7f32c7919dca51311b3f6
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-894, N-895, N-11282, N-11283, N-11284, N-11285, N-11286, N-11287, N-11288
-  - Hole-minted Nodes (reintro-ep044): N-549
+  - Tip-minted Nodes (supplement_2026-10e): N-887, N-888, N-11282, N-11283, N-11284, N-11285, N-11286, N-11287, N-11288
+  - Hole-minted Nodes (reintro-ep044): N-544
   - Tip-minted Nodes (reintro-ep044): N-11186
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11031–C-11113
-  - New Nodes Introduced: N-325, N-326, N-327, N-328, N-329, N-330, N-10326, N-10327, N-10328, N-10329, N-10330, N-10331
+  - New Nodes Introduced: N-322, N-323, N-324, N-325, N-326, N-327, N-10326, N-10327, N-10328, N-10329, N-10330, N-10331
   - Tip-minted Nodes (w3-root-brands): N-10902
-  - Reused Nodes Appearing: N-9, N-66, N-69, N-224, N-276, N-319, N-336, N-384, N-10000, N-10026, N-10202, N-10317, N-10325, N-10340, N-10355, N-10397, N-10398, N-10401, N-10436, N-10567, N-11191
+  - Reused Nodes Appearing: N-9, N-66, N-69, N-224, N-274, N-316, N-333, N-131, N-10000, N-10026, N-10202, N-10317, N-10325, N-10340, N-10355, N-10397, N-10398, N-10401, N-10436, N-10567, N-11191
   - (see registers)
 
 ## 2. Executive Summary
@@ -43,7 +43,7 @@ Video Timestamp: 00:05:09–00:14:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read aloud as direct quote from Harry; not independently displayed)
 
-*Related: C-1880, C-1881, C-1882, C-1883, N-325, N-330, N-10328*
+*Related: C-1880, C-1881, C-1882, C-1883, N-322, N-327, N-10328*
 
 **A-1519.2** First-person narrative account (September 8–9, 2025 Fort Huachuca encounter)
 
@@ -53,7 +53,7 @@ Video Timestamp: 00:15:10–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1884, C-1885, C-1886, C-1887, N-325, N-272, N-326, N-10326*
+*Related: C-1884, C-1885, C-1886, C-1887, N-322, N-270, N-323, N-10326*
 
 **A-1519.3** Incident Report 861-1-2025-MPC446 (Fort Huachuca, September 9, 2025)
 
@@ -63,7 +63,7 @@ Video Timestamp: 00:28:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (number only; full report not displayed)
 
-*Related: C-1889, N-325, N-326, N-10327*
+*Related: C-1889, N-322, N-323, N-10327*
 
 **A-1519.4** Candlewood Suites reservation at Fort Huachuca, September 8, 2025 ~5:37 PM
 
@@ -73,7 +73,7 @@ Video Timestamp: 00:16:14–00:17:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host states Harry provided timestamps, bookings, reservations, call logs)
 
-*Related: C-1884, N-325, N-10326*
+*Related: C-1884, N-322, N-10326*
 
 **A-1519.5** Supporting documents referenced but not displayed (army medal writeups; NDA 1990–May 2025; police records; high school graduation certificate)
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:26:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbally referenced, not shown)
 
-*Related: C-1882, C-1883, N-325*
+*Related: C-1882, C-1883, N-322*
 
 ---
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:09:29–00:11:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed news clip)
 
-*Related: C-1880, N-10328, N-330*
+*Related: C-1880, N-10328, N-327*
 
 ---
 
@@ -125,7 +125,7 @@ Video Timestamp: 00:35:20–00:36:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (article cited but full display not confirmed)
 
-*Related: C-1891, C-1892, N-320, N-10330*
+*Related: C-1891, C-1892, N-317, N-10330*
 
 ---
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:35:46–00:40:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host reads counts/contents; underlying emails not displayed)
 
-*Related: C-1893, C-1894, N-320, N-327, N-328, N-329, N-10330, N-10331*
+*Related: C-1893, C-1894, N-317, N-324, N-325, N-326, N-10330, N-10331*
 
 ---
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:42:41–00:44:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed audio clip)
 
-*Related: C-1895, C-1896, N-273*
+*Related: C-1895, C-1896, N-271*
 
 ---
 
@@ -241,7 +241,7 @@ Confidence Level: High
 
 ## 4. Node Register
 
-**N-325** Harry Meyers
+**N-322** Harry Meyers
 
 Former U.S. Army sensor operator assigned to Joint Task Force 6 / Operation Catacomb in 1990 who claims to have discovered the first Sinaloa cartel underground rail tunnel at the Arizona–Mexico border. Placed under NDA 1990–May 2025. Now operates under a different name. Per his account, walked into a JTF-SB meeting at Fort Huachuca on September 9, 2025 and was detained for 7 hours.
 
@@ -254,7 +254,7 @@ Investigative Pressure: High
 
 ---
 
-**N-272** Brian Harpole
+**N-270** Brian Harpole
 
 Allegedly identified by Harry Meyers exiting the JTF-SB meeting at Fort Huachuca on September 9, 2025. Host later references this identification in connection with Charlie Kirk's assassination coverage.
 
@@ -267,7 +267,7 @@ Investigative Pressure: High
 
 ---
 
-**N-326** Captain Adam Nef
+**N-323** Captain Adam Nef
 
 Military officer (Captain) identified by Harry Meyers as the lead interrogator during the 7-hour detention at Fort Huachuca on September 9, 2025. Described as ~36 years old, brown hair, commander of force protection. Spelling of surname as heard by Harry; uncertain.
 
@@ -282,18 +282,18 @@ Investigative Pressure: High
 
 **N-162** Blake Neff
 
-Referenced by host as a potential relative (brother/cousin) of "Captain Nef" (N-326). Host speculates Blake Nef may have a military background despite public role as a producer of the Charlie Kirk show. Relationship unverified.
+Referenced by host as a potential relative (brother/cousin) of "Captain Nef" (N-323). Host speculates Blake Nef may have a military background despite public role as a producer of the Charlie Kirk show. Relationship unverified.
 
 Evidence Count: 0
 Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-326*
+*Related: N-323*
 
 ---
 
-**N-273** Tim Pool
+**N-271** Tim Pool
 
 Independent commentator featured in audio clip played on the show; subject of host's commentary criticizing his conduct toward her.
 
@@ -306,7 +306,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-320** Arcadi Gaydamak
+**N-317** Arcadi Gaydamak
 
 Russian-born, Israeli-French businessman identified in prior series episodes in connection with Angola Gate. Reported by host as recently sentenced in absentia for trafficking weapons. Allegedly living in Nashville under alias per seven viewer emails.
 
@@ -315,11 +315,11 @@ Claim Count: 2
 Episode Count: 1 (in this analysis)
 Investigative Pressure: High
 
-*Related: A-1522.1, A-1523.1, C-1891, C-1892, C-1893, N-327, N-10330*
+*Related: A-1522.1, A-1523.1, C-1891, C-1892, C-1893, N-324, N-10330*
 
 ---
 
-**N-327** Jonathan Schmidt
+**N-324** Jonathan Schmidt
 
 Alleged alias used by Arcadi Gaydamak in Nashville, per seven tipster emails. Allegedly hired by Root Brands as a technology officer and claimed to be a billionaire.
 
@@ -328,11 +328,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1523.1, C-1893, C-1894, N-320, N-10330*
+*Related: A-1523.1, C-1893, C-1894, N-317, N-10330*
 
 ---
 
-**N-328** Clay Thomas
+**N-325** Clay Thomas
 
 Nashville businessman alleged by tipsters to have introduced Arcadi Gaydamak/"Jonathan Schmidt" to Root Brands. Host states she has reached out to Thomas.
 
@@ -341,11 +341,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1523.1, C-1894, N-327, N-10331*
+*Related: A-1523.1, C-1894, N-324, N-10331*
 
 ---
 
-**N-329** Alex Smeirnoff
+**N-326** Alex Smeirnoff
 
 Ukrainian individual alleged by tipsters to be working with "Jonathan Schmidt"/Arcadi Gaydamak at Root Brands; characterized as a Ukrainian "fleeing the war."
 
@@ -354,7 +354,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1523.1, C-1894, N-327, N-10331*
+*Related: A-1523.1, C-1894, N-324, N-10331*
 
 ---
 
@@ -369,11 +369,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1523.1, C-1894, N-327, N-10331*
+*Related: A-1523.1, C-1894, N-324, N-10331*
 
 ---
 
-**N-330** El Chapo (Joaquín Guzmán)
+**N-327** El Chapo (Joaquín Guzmán)
 
 Named in 1990 tunnel narrative; photos on the Mexican side of the Sinaloa cartel tunnel allegedly showed a JTF-6 commander and U.S. Marine officers posing with him.
 
@@ -395,7 +395,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.2, A-1519.3, A-1519.4, C-1884, C-1885, C-1886, C-1887, C-1888, N-325, N-272, N-326*
+*Related: A-1519.2, A-1519.3, A-1519.4, C-1884, C-1885, C-1886, C-1887, C-1888, N-322, N-270, N-323*
 
 ---
 
@@ -408,7 +408,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.3, C-1889, N-326, N-10326*
+*Related: A-1519.3, C-1889, N-323, N-10326*
 
 ---
 
@@ -421,7 +421,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium (historical)
 
-*Related: A-1519.1, A-1520.1, A-1521.1, C-1880, N-325, N-330*
+*Related: A-1519.1, A-1520.1, A-1521.1, C-1880, N-322, N-327*
 
 ---
 
@@ -434,7 +434,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1519.2, C-1887, N-272, N-10326*
+*Related: A-1519.2, C-1887, N-270, N-10326*
 
 ---
 
@@ -447,7 +447,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1522.1, A-1523.1, C-1893, C-1894, N-320, N-327*
+*Related: A-1522.1, A-1523.1, C-1893, C-1894, N-317, N-324*
 
 ---
 
@@ -460,7 +460,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1523.1, C-1894, N-327, N-328, N-329, N-10902*
+*Related: A-1523.1, C-1894, N-324, N-325, N-326, N-10902*
 
 ---
 
@@ -512,7 +512,7 @@ Guest on a long episode in which, per the host, he defended her against Tim Pool
 
 ---
 
-**N-276** Dan Flood
+**N-274** Dan Flood
 
 Kirk's aide; the host says he was with Kirk in Korea, which fits Harry not seeing him.
 
@@ -520,7 +520,7 @@ Kirk's aide; the host says he was with Kirk in Korea, which fits Harry not seein
 
 ---
 
-**N-319** Pierre Falcone
+**N-316** Pierre Falcone
 
 Angolagate figure named as Gaydamak's partner.
 
@@ -528,7 +528,7 @@ Angolagate figure named as Gaydamak's partner.
 
 ---
 
-**N-336** Tulsi Gabbard
+**N-333** Tulsi Gabbard
 
 Her office is the only one the host says responded to her threat report.
 
@@ -536,7 +536,7 @@ Her office is the only one the host says responded to her threat report.
 
 ---
 
-**N-384** Ian Carroll
+**N-131** Ian Carroll
 
 Researcher Harry says he would like to meet.
 
@@ -544,7 +544,7 @@ Researcher Harry says he would like to meet.
 
 ---
 
-**N-549** Colin Powell
+**N-544** Colin Powell
 
 Named as helping present JTF-6 as a war on drugs.
 
@@ -664,7 +664,7 @@ Organization advertised in the sponsor read.
 
 ---
 
-**N-894** George H.W. Bush
+**N-887** George H.W. Bush
 
 First named by the host at 00:05:09 in episode 44. President who created JTF-6 and ran on a war on drugs; heard in a clip.
 
@@ -672,7 +672,7 @@ First named by the host at 00:05:09 in episode 44. President who created JTF-6 a
 
 ---
 
-**N-895** Ronald Reagan
+**N-888** Ronald Reagan
 
 First named by the host at 00:05:09 in episode 44. President during Iran-Contra, mentioned for historical context.
 
@@ -752,7 +752,7 @@ Claim Timestamp: 00:05:09–00:11:14
 Claim: A then-20-year-old military sensor operator assigned to JTF-6 states he identified and helped raid the first discovered Sinaloa cartel underground rail tunnel between Douglas, Arizona and Agua Prieta in 1990.
 
 Anchored Artifacts: A-1519.1, A-1520.1, A-1521.1
-Mentions: N-325, N-330
+Mentions: N-322, N-327
 
 Related Nodes: N-10328
 
@@ -767,7 +767,7 @@ Claim Timestamp: 00:06:44–00:09:29
 Claim: Harry states photos recovered from the Mexican side of the tunnel depicted the JTF-6 commander, El Chapo, El Chapo's architect Felipe, other U.S. Marine officers, and Mexican law enforcement personnel.
 
 Anchored Artifacts: A-1519.1
-Mentions: N-325, N-330
+Mentions: N-322, N-327
 
 Related Nodes: N-10328
 
@@ -782,7 +782,7 @@ Claim Timestamp: 00:13:49
 Claim: An NDA gag order prevented Harry from publicly discussing the 1990 tunnel incident until May 2025.
 
 Anchored Artifacts: A-1519.1, A-1519.5
-Mentions: N-325
+Mentions: N-322
 
 
 Investigative Direction: Obtain copy of the NDA via FOIA or congressional inquiry; verify dates and signatories.
@@ -796,7 +796,7 @@ Claim Timestamp: 00:11:14–00:13:49
 Claim: Harry states he received an army medal and writeups mentioning his critical role in the tunnel mission, even though his superiors took credit.
 
 Anchored Artifacts: A-1519.1, A-1519.5
-Mentions: N-325
+Mentions: N-322
 
 
 Investigative Direction: Obtain Harry's DD-214, military personnel file, and award writeups through appropriate channels.
@@ -810,7 +810,7 @@ Claim Timestamp: 00:16:14–00:17:28
 Claim: Harry Meyers arrived at Candlewood Suites on Fort Huachuca at approximately 5:37 PM on September 8, 2025, and observed a person he identified as special forces in the lobby.
 
 Anchored Artifacts: A-1519.2, A-1519.4
-Mentions: N-325
+Mentions: N-322
 
 Related Nodes: N-10326
 
@@ -825,7 +825,7 @@ Claim Timestamp: 00:18:57–00:20:14
 Claim: Harry states he entered a temporary JTF-Southern Border headquarters at approximately 7:37 AM on September 9, 2025, immediately following the conclusion of a high-level meeting.
 
 Anchored Artifacts: A-1519.2
-Mentions: N-325
+Mentions: N-322
 
 Related Nodes: N-10326
 
@@ -840,7 +840,7 @@ Claim Timestamp: 00:20:14–00:34:46
 Claim: Harry states approximately 12–13 E5/E6-grade officers (lieutenant colonels and colonels) were present in the meeting he walked into; host later confirms correction that the ranks are E5/E6 colonels and lieutenant colonels.
 
 Anchored Artifacts: A-1519.2
-Mentions: N-325
+Mentions: N-322
 
 Related Nodes: N-10326
 
@@ -855,7 +855,7 @@ Claim Timestamp: 00:20:14–00:22:18
 Claim: Harry states he identified Brian Harpole as one of the men exiting the JTF-SB meeting on September 9, 2025; Harry did not recognize him at the time and only identified him after Charlie Kirk's assassination made him publicly visible.
 
 Anchored Artifacts: A-1519.2
-Mentions: N-272, N-325, N-1
+Mentions: N-270, N-322, N-1
 
 Related Nodes: N-10329
 
@@ -870,7 +870,7 @@ Claim Timestamp: 00:22:18–00:24:56
 Claim: After Harry entered the meeting room, two captains escorted him out and began a 7-hour interrogation accusing him of being a bomb threat, a spy, and a threat to himself or others. The interrogator Harry identifies as "Captain Nef" was approximately 36 years old with brown hair and was commander of force protection.
 
 Anchored Artifacts: A-1519.2
-Mentions: N-162, N-325, N-326
+Mentions: N-162, N-322, N-323
 
 Related Nodes: N-10326
 
@@ -885,7 +885,7 @@ Claim Timestamp: 00:28:13
 Claim: An incident report numbered 861-1-2025-MPC446 was generated at Fort Huachuca on September 9, 2025 in connection with Harry's detention; Harry believes the report can be obtained via FOIA.
 
 Anchored Artifacts: A-1519.3
-Mentions: N-325, N-326
+Mentions: N-322, N-323
 
 Related Nodes: N-10327
 
@@ -900,7 +900,7 @@ Claim Timestamp: 00:35:20–00:36:24
 Claim: An article referenced on the show reports that Arcadi Gaydamak failed to appear for a court hearing and was sentenced in absentia for trafficking weapons; the article also identifies him as a French intelligence agent.
 
 Anchored Artifacts: A-1522.1
-Mentions: N-320
+Mentions: N-317
 
 
 Investigative Direction: Locate and verify the article's primary source (court records, news outlet) to confirm sentencing details and intelligence affiliation.
@@ -914,7 +914,7 @@ Claim Timestamp: 00:35:20–00:36:24
 Claim: Per the referenced article, Gaydamak was born in Russia and relocated to Israel after the establishment of the state.
 
 Anchored Artifacts: A-1522.1
-Mentions: N-320
+Mentions: N-317
 
 
 Investigative Direction: Verify biographical details against public records and prior reporting on Gaydamak.
@@ -928,7 +928,7 @@ Claim Timestamp: 00:35:46–00:40:46
 Claim: Seven individuals, mostly men, emailed the show asserting that Arcadi Gaydamak is residing in Nashville using the alias Jonathan Schmidt and that he relocated there in June 2025.
 
 Anchored Artifacts: A-1523.1
-Mentions: N-320, N-327
+Mentions: N-317, N-324
 
 Related Nodes: N-10330
 
@@ -943,7 +943,7 @@ Claim Timestamp: 00:36:24–00:40:46
 Claim: Tipsters claim that Jonathan Schmidt/Gaydamak was brought into Root Brands by Clay Thomas and has hired Ukrainian nationals, including Alex Smeirnoff, on the stated basis of fleeing the war.
 
 Anchored Artifacts: A-1523.1
-Mentions: N-327, N-328, N-329
+Mentions: N-324, N-325, N-326
 
 Related Nodes: N-10330, N-10331, N-10902
 
@@ -958,7 +958,7 @@ Claim Timestamp: 00:42:41–00:44:11
 Claim: In an audio clip played on the show, Tim Pool calls Candace Owens an "evil scumbag" and a "degenerate," asserts she has no security, and dismisses her concerns about threats against her.
 
 Anchored Artifacts: A-1524.1
-Mentions: N-273, N-3
+Mentions: N-271, N-3
 
 
 Investigative Direction: Cross-reference Tim Pool's original broadcast to verify timestamp and context; host's response is rhetorical commentary rather than artifact-anchored.
@@ -972,7 +972,7 @@ Claim Timestamp: 00:43:32–00:44:11
 Claim: In the audio clip, Tim Pool states that he visited Candace Owens' home, observed a 4-foot wall and one "fat guy" for security, and asserts that no one is "out for her."
 
 Anchored Artifacts: A-1524.1
-Mentions: N-273, N-3
+Mentions: N-271, N-3
 
 
 Investigative Direction: Verify Tim Pool's statement against the original broadcast and any public statements he has made about visiting the home.
@@ -986,7 +986,7 @@ Claim Timestamp: 00:43:32–00:44:11
 Claim: In the same audio clip, Tim Pool contrasts his own situation with Candace Owens', saying bullets were fired at his property, that he had to go live in the middle of nowhere, and that strangers broke into his house in Maryland.
 Transcript Snippet: Meanwhile, I get bullets fired at my property and I have to go live in the middle of nowhere and I got strangers coming up to my house in in in Maryland breaking in.
 Anchored Artifacts: A-1524.1
-Mentions: N-273, N-3
+Mentions: N-271, N-3
 Confidence: medium
 Investigative Direction: Check police reports or public statements for the shooting and break-in incidents Tim Pool describes at his Maryland property.
 
@@ -1062,7 +1062,7 @@ Claim: The host says that after mass she opened the tips box and the very first 
 Transcript Snippet: I'm just going to open the tips box. And I kid you not when I say that it was the very first email uh that I saw
 
 Anchored Artifacts: A-3116.1
-Mentions: N-3, N-325
+Mentions: N-3, N-322
 Related Nodes: 
 Tags: relevance:core, dia_beat
 Investigative Direction: Ask the host to disclose the tip email header and timestamp and the sender's relationship to Harry; confirm the call log time.
@@ -1078,7 +1078,7 @@ Claim: The host says she has fact-checked the elements of Harry's story she coul
 Transcript Snippet: I can tell you that he is being 100% honest and you are free, uh, to look further into this.
 
 Anchored Artifacts: 
-Mentions: N-3, N-325
+Mentions: N-3, N-322
 Related Nodes: N-10326
 Tags: relevance:core
 Investigative Direction: Ask the host which elements she verified and with what sources (base records, hotel records, court filings) and publish them.
@@ -1094,7 +1094,7 @@ Claim: The host says the 20-year-old Harry was attached to the brand new Joint T
 Transcript Snippet: And this new command was being created down at the border uh by President George HW Bush. And it was presented to the American public as uh look a war on drugs with the help of Colin Powell.
 
 Anchored Artifacts: 
-Mentions: N-894, N-549, N-325
+Mentions: N-887, N-544, N-322
 Related Nodes: N-11283
 Tags: relevance:context
 Investigative Direction: Check Department of Defense and Army histories of JTF-6 (established 1989) for its creation order, mandate and the role attributed to Colin Powell.
@@ -1110,7 +1110,7 @@ Claim: The host says the Iran-Contra affair, under Reagan with George H.W. Bush 
 Transcript Snippet: for those of you who are not read into massive CIA scandals, this was the scandal when the American public uh got to learn that our CIA was actually trafficking drugs and weapons throughout South America.
 
 Anchored Artifacts: 
-Mentions: N-895, N-894
+Mentions: N-888, N-887
 Related Nodes: N-11282
 Tags: relevance:context
 Investigative Direction: Compare with the Tower Commission and Walsh Final Report on what Iran-Contra established regarding drugs versus weapons.
@@ -1142,7 +1142,7 @@ Claim: The host says that after Iran-Contra, George H.W. Bush ran for president 
 Transcript Snippet: He had to really hit hard on drugs, drugs at the border, and declare that this White House was was going to do all that it could to stop these drugs from flooding into America.
 
 Anchored Artifacts: 
-Mentions: N-894
+Mentions: N-887
 Related Nodes: N-11282
 Tags: relevance:context
 Investigative Direction: Review Bush campaign and September 1989 national drug-control speech records for border-focused commitments.
@@ -1158,7 +1158,7 @@ Claim: In the played clip, George H.W. Bush holds up crack cocaine that he says 
 Transcript Snippet: This is crack cocaine seized a few days ago by drug enforcement agents in a park just across the street from the White House.
 
 Anchored Artifacts: A-1521.1
-Mentions: N-894
+Mentions: N-887
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Locate the original September 5, 1989 address and the DEA arrest record for the Lafayette Park purchase.
@@ -1174,7 +1174,7 @@ Claim: Reading Harry's words, the host says that in six days he planted sensors,
 Transcript Snippet: In just 6 days, I planted sensors, translated data, and uh skipped the chain of command and gave proof of the existence and pinpointed the location
 
 Anchored Artifacts: A-1519.1
-Mentions: N-325
+Mentions: N-322
 Related Nodes: N-10328, N-11283
 Tags: relevance:core
 Investigative Direction: Obtain JTF-6 operation records and Border Patrol Douglas Station files for the 1990 tunnel to check the six-day timeline and who supplied the warrant information.
@@ -1190,7 +1190,7 @@ Claim: Reading Harry's words, the host says he and a Border Patrol agent bypasse
 Transcript Snippet: which avoided tipping off any compromised commanders um that were working with the cartel.
 
 Anchored Artifacts: A-1519.1
-Mentions: N-325
+Mentions: N-322
 Related Nodes: N-10328, N-11283
 Tags: relevance:core
 Investigative Direction: Search court records for the warrant application, the issuing magistrate and affiant, and any later prosecution or discipline of JTF-6 or Border Patrol commanders.
@@ -1254,7 +1254,7 @@ Claim: The host says that what the reporter in the news clip said was that there
 Transcript Snippet: And what Scott said in that news clip is there were pictures of United States military men in that house.
 
 Anchored Artifacts: A-1520.1
-Mentions: N-325
+Mentions: N-322
 Related Nodes: N-10328
 Tags: relevance:core
 Investigative Direction: Re-watch the original clip for any statement about photographs; if absent, the photo claim rests only on Harry's account.
@@ -1270,7 +1270,7 @@ Claim: Reading Harry's words, the host says that in the immediate days after the
 Transcript Snippet: Somehow in the immediate days after the bust prior to the United States side getting the photos from the Mexican authorities, my information was given to the cartels.
 
 Anchored Artifacts: A-1519.1
-Mentions: N-325
+Mentions: N-322
 Related Nodes: N-10328
 Tags: relevance:core
 Investigative Direction: Look for Army CID and U.S. Attorney (Tucson) files from 1990 documenting a compromised-identity incident.
@@ -1286,7 +1286,7 @@ Claim: Reading Harry's words, the host says that on a follow-up mission a cartel
 Transcript Snippet: where I was approached by a cartel member confirming my identification by rattling off my mother's name, address, my high school, my friends, everything listed in my clearance packet
 
 Anchored Artifacts: A-1519.1
-Mentions: N-325
+Mentions: N-322
 Related Nodes: N-10328
 Tags: relevance:core
 Investigative Direction: Ask Harry for the town name (transcript 'NCO, Arizona') and any contemporaneous report to Army CID or Border Patrol of the approach.
@@ -1302,7 +1302,7 @@ Claim: Reading Harry's words, the host says the clearance packet that was compro
 Transcript Snippet: which was supposed to be locked in custody in the custody of the joint task force 6 commander whose picture was with El Chapo
 
 Anchored Artifacts: A-1519.1
-Mentions: N-325, N-330
+Mentions: N-322, N-327
 Related Nodes: N-10328, N-11283
 Tags: relevance:core
 Investigative Direction: Identify the JTF-6 commander in 1990 and the custodian of clearance files; obtain Harry's personnel security file via Privacy Act request.
@@ -1318,7 +1318,7 @@ Claim: Reading Harry's words, the host says that the next day he had a debrief w
 Transcript Snippet: The next day, I had a debrief with the Army Criminal Investigation Division and a prosecutor from Tucson, Arizona, informing me of how my ID became compromised.
 
 Anchored Artifacts: A-1519.1
-Mentions: N-325
+Mentions: N-322
 Related Nodes: N-10328
 Tags: relevance:core
 Investigative Direction: Request Army CID report of investigation and U.S. Attorney, District of Arizona files for 1990 involving a JTF-6 sensor operator.
@@ -1334,7 +1334,7 @@ Claim: Reading Harry's account, the host says the witness protection entrance ne
 Transcript Snippet: The witness protection entrance never happened. The ball got dropped. I never got contacted for it. From what we uncovered, a deal was made with the compromised US Border Patrol agent commander.
 
 Anchored Artifacts: A-1519.1
-Mentions: N-325
+Mentions: N-322
 Related Nodes: N-10328
 Tags: relevance:core
 Investigative Direction: Query U.S. Marshals WITSEC for any 1990 referral; identify the compromised commander and any plea or immunity arrangement.
@@ -1350,7 +1350,7 @@ Claim: The host summarizes that Harry accidentally stumbled upon the fact that t
 Transcript Snippet: accidentally stumbled upon the fact that our government was implicated not in fighting the cartels but working with the cartels
 
 Anchored Artifacts: A-1519.1
-Mentions: N-325, N-3
+Mentions: N-322, N-3
 Related Nodes: N-10328, N-10325
 Tags: relevance:core
 Investigative Direction: This is the host's reading of one tipster's account; seek corroborating prosecutions or inspector-general findings from the 1990 case.
@@ -1366,7 +1366,7 @@ Claim: The host says that over 35 years Harry says he was hacked, harassed, hit 
 Transcript Snippet: He now has all of his paperwork thanks to um some county clerks who did the right thing and were able to dig up these records.
 
 Anchored Artifacts: A-1519.5
-Mentions: N-325
+Mentions: N-322
 Related Nodes: N-10328
 Tags: relevance:core
 Investigative Direction: Identify the county clerks' offices and case numbers, and obtain the recovered police and court records.
@@ -1382,7 +1382,7 @@ Claim: The host says that in May 2025 Harry Meyers, who now has a new name she i
 Transcript Snippet: Harry Meyers, who now has a new name, by the way, which I'm not saying, but he is finally released from this 35-year militaryra NDA.
 
 Anchored Artifacts: A-1519.5
-Mentions: N-325
+Mentions: N-322
 Related Nodes: N-10328
 Tags: relevance:core
 Investigative Direction: Obtain the NDA release document and any name-change court order, with the host's consent from Harry.
@@ -1398,7 +1398,7 @@ Claim: The host says Harry, now 56, decided to travel in person from his home in
 Transcript Snippet: He is going to travel from his home in Washington back down to the very base where this all began, right?
 
 Anchored Artifacts: 
-Mentions: N-325
+Mentions: N-322
 Related Nodes: N-10326
 Tags: relevance:core
 Investigative Direction: Check Harry's airline, rental car and lodging records for the trip to Arizona in early September 2025.
@@ -1414,7 +1414,7 @@ Claim: The host relays that in the Candlewood Suites lobby on September 8 Harry 
 Transcript Snippet: thereafter the two of them get into a green pickup truck and they drive off.
 
 Anchored Artifacts: A-1519.4
-Mentions: N-325
+Mentions: N-322
 Related Nodes: N-10326
 Tags: relevance:core
 Investigative Direction: Ask Harry who he now believes the woman was and obtain Candlewood Suites lobby footage and parking records for September 8, 2025.
@@ -1430,7 +1430,7 @@ Claim: The host says that on September 9 Harry drove off base to get coffee in S
 Transcript Snippet: he runs into some soldiers, again, this is just all God at this point, who happen to be wearing 10th Mountain Division patches
 
 Anchored Artifacts: 
-Mentions: N-325
+Mentions: N-322
 Related Nodes: N-10326
 Tags: relevance:core
 Investigative Direction: Identify the soldiers and unit through Harry's description; check 10th Mountain Division presence in Sierra Vista in September 2025.
@@ -1446,7 +1446,7 @@ Claim: The host says the soldiers told Harry that the old Joint Task Force 6 is 
 Transcript Snippet: the old joint task force 6 is now being continued and it's known as JTF, joint task task force southern border.
 
 Anchored Artifacts: 
-Mentions: N-325
+Mentions: N-322
 Related Nodes: N-11283, N-10326
 Tags: relevance:core
 Investigative Direction: Confirm through Department of Defense records that JTF-SB is the successor to JTF-6 and where its Fort Huachuca element was located in September 2025.
@@ -1462,7 +1462,7 @@ Claim: The host says the soldiers told Harry that JTF-SB was currently borrowing
 Transcript Snippet: they're actually currently borrowing a building down there and he tells me that there would have been no other way he would have discovered where it was.
 
 Anchored Artifacts: A-1519.2
-Mentions: N-325
+Mentions: N-322
 Related Nodes: N-11283, N-10326
 Tags: relevance:core
 Investigative Direction: Identify the building and its tenant organizations on Fort Huachuca for September 2025 through installation facility records.
@@ -1478,7 +1478,7 @@ Claim: The host relays Harry's view that seeing about a dozen lieutenant colonel
 Transcript Snippet: You don't see this unless you're at the Pentagon or you're at the White House.
 
 Anchored Artifacts: A-1519.2
-Mentions: N-325
+Mentions: N-322
 Related Nodes: N-10326
 Tags: relevance:core
 Investigative Direction: Establish whether any senior JTF-SB or Army North leadership meeting was held at Fort Huachuca on September 9, 2025.
@@ -1494,7 +1494,7 @@ Claim: The host relays that of three men who walked out, Harry identifies the mo
 Transcript Snippet: He said, "You could just tell this is the most important person." Um, and he has gray hair. He's got glasses. I believe he said that he's about 510 and um
 
 Anchored Artifacts: A-1519.2
-Mentions: N-325, N-272
+Mentions: N-322, N-270
 Related Nodes: N-10326, N-10329
 Tags: relevance:core
 Investigative Direction: Ask Harry for a photo lineup of the central figure; compare against public images of senior Army and TPUSA-linked figures.
@@ -1510,7 +1510,7 @@ Claim: The host says Harry told her the check-in officers were friendly and offe
 Transcript Snippet: Suddenly somebody hits the panic button and two captains come out and they escort him out of the building
 
 Anchored Artifacts: A-1519.2
-Mentions: N-325, N-272
+Mentions: N-322, N-270
 Related Nodes: N-10326
 Tags: relevance:core
 Investigative Direction: FOIA the military police blotter and incident report for the timing of the call that preceded the escort.
@@ -1526,7 +1526,7 @@ Claim: Reading Harry's message, the host says that after the bomb-threat and gas
 Transcript Snippet: they then conferenced with base commander. After I assumed they verified that I was not there to spy on that particular uh meeting, they decided it was okay to send me off post.
 
 Anchored Artifacts: A-1519.2
-Mentions: N-325
+Mentions: N-322
 Related Nodes: N-10326
 Tags: relevance:core
 Investigative Direction: Identify the Fort Huachuca garrison commander on duty September 9, 2025 and request the incident report narrative.
@@ -1542,7 +1542,7 @@ Claim: Reading Harry's message, the host says he returned his rental car the nex
 Transcript Snippet: I got on a plane back home and I had a stop in Salt Lake. Uh upon landing and turning on the phone, um my wife is telling me about Charlie Kirk.
 
 Anchored Artifacts: A-1519.2
-Mentions: N-325, N-1
+Mentions: N-322, N-1
 Related Nodes: N-11288, N-10326
 Tags: relevance:core
 Investigative Direction: Verify Harry's rental return, boarding pass and connecting flight through Salt Lake City on September 10, 2025.
@@ -1558,7 +1558,7 @@ Claim: Reading Harry's message, the host says he noticed nothing helpful about t
 Transcript Snippet: I did not notice anything helpful other than the fact that the airport was not very crow uh crowded.
 
 Anchored Artifacts: A-1519.2
-Mentions: N-325
+Mentions: N-322
 Related Nodes: N-11288
 Tags: relevance:core
 Investigative Direction: Compare with Salt Lake City airport passenger counts and flight-activity data for the morning of September 10, 2025.
@@ -1574,7 +1574,7 @@ Claim: The host says Harry told her that after seven hours the officers debated 
 Transcript Snippet: they debated holding him for 48 hours uh for this perceived perhaps maybe bomb threat spy thing that's happening.
 
 Anchored Artifacts: A-1519.2
-Mentions: N-325
+Mentions: N-322
 Related Nodes: N-10326
 Tags: relevance:core
 Investigative Direction: The incident report and any MP desk journal should record any hold decision.
@@ -1590,7 +1590,7 @@ Claim: The host says Harry thought the treatment was cartel-related while the mi
 Transcript Snippet: Both of them are wrong. Okay, both of them are wrong. This really is just a coincidence.
 
 Anchored Artifacts: 
-Mentions: N-3, N-325
+Mentions: N-3, N-322
 Related Nodes: N-10326
 Tags: relevance:core
 Investigative Direction: Compare this host framing with her later 'a lot of coincidence' remark; ask whether she regards the encounter as unrelated to the assassination.
@@ -1606,7 +1606,7 @@ Claim: The host says she had not questioned it until now but it seems possible t
 Transcript Snippet: whether or not it's potential that Blake Nef has military connections as well.
 
 Anchored Artifacts: 
-Mentions: N-3, N-162, N-326
+Mentions: N-3, N-162, N-323
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Check public records for any family relationship between Blake Neff and Army Captain Adam Nef and for any military service by Blake Neff.
@@ -1622,7 +1622,7 @@ Claim: The host relays that the interrogating captain was eventually a person wi
 Transcript Snippet: eventually he says was a person that had a heart and realized that he was not a part of any spy network and uh eventually escorted him off of the base and onto his way.
 
 Anchored Artifacts: A-1519.2
-Mentions: N-325, N-326
+Mentions: N-322, N-323
 Related Nodes: N-10326
 Tags: relevance:core
 Investigative Direction: Identify Captain Nef through the Fort Huachuca force-protection roster and ask him to confirm or deny.
@@ -1638,7 +1638,7 @@ Claim: The host quotes Harry saying he knows how these meetings work and that th
 Transcript Snippet: know how these meetings work. These are the meetings that are had um ahead of an operation.
 
 Anchored Artifacts: A-1519.2
-Mentions: N-325, N-3
+Mentions: N-322, N-3
 Related Nodes: N-10326
 Tags: relevance:core
 Investigative Direction: Establish what operation, if any, was in planning at JTF-SB in September 2025; this is Harry's inference rather than an observed fact.
@@ -1654,7 +1654,7 @@ Claim: The host says Harry feels certain he recognized the people from the meeti
 Transcript Snippet: He feels certain that he recognized these people in the days following um Charlie's Kirk's assassination when a bunch of people are doing Fox News
 
 Anchored Artifacts: A-1519.2
-Mentions: N-325, N-1
+Mentions: N-322, N-1
 Related Nodes: N-10326
 Tags: relevance:core
 Investigative Direction: Ask Harry to name or point out the people he recognized and compare with the September 9 whereabouts of those individuals.
@@ -1670,7 +1670,7 @@ Claim: The host says she has verified that Harry sent her many documents, from h
 Transcript Snippet: I have verified uh he has sent me so many documents everything from his like high school graduation certificate to his military documents to the police records
 
 Anchored Artifacts: A-1519.5
-Mentions: N-3, N-325
+Mentions: N-3, N-322
 Related Nodes: N-10326
 Tags: relevance:core
 Investigative Direction: Publish redacted copies or have an independent party review the documents, particularly the 1990 NDA and the personnel and award records.
@@ -1686,7 +1686,7 @@ Claim: The host says Harry told her there would have been no record of the encou
 Transcript Snippet: He said there would have been no record for this if they didn't swarm me as if there was a bomb threat because now of course there is an actual incident report
 
 Anchored Artifacts: A-1519.3
-Mentions: N-325
+Mentions: N-322
 Related Nodes: N-10327
 Supports: C-1889
 Tags: relevance:core
@@ -1703,7 +1703,7 @@ Claim: The host says the report number 861-1-2025-MPC446 was given to Harry by t
 Transcript Snippet: So that is the report number that was given to him by this captain commander Nef.
 
 Anchored Artifacts: A-1519.3
-Mentions: N-325, N-326
+Mentions: N-322, N-323
 Related Nodes: N-10327
 Supports: C-1889
 Tags: relevance:core
@@ -1720,7 +1720,7 @@ Claim: The host says she asked Harry whether he saw Dan Flood, he said no, and s
 Transcript Snippet: did did you see Dan Flood? No. Well, that checks out because Dan Flood uh was with Charlie in Korea.
 
 Anchored Artifacts: 
-Mentions: N-3, N-325, N-276, N-1
+Mentions: N-3, N-322, N-274, N-1
 Related Nodes: N-10397, N-10326
 Tags: relevance:core
 Investigative Direction: Obtain Dan Flood's September 2025 itinerary and the Kirk party's Korea and Japan travel records.
@@ -1798,10 +1798,10 @@ Claim Timestamp: 00:31:00
 
 Claim: The host says Harry told her he would love to meet Ian Carroll and that she will make that happen.
 
-Transcript Snippet: I know that he wants to he said he would love to meet Ian Carol and I guess he's watching his stuff and I will obviously make that happen
+Transcript Snippet: I know that he wants to he said he would love to meet Ian Carroll and I guess he's watching his stuff and I will obviously make that happen
 
 Anchored Artifacts: 
-Mentions: N-325, N-384, N-3
+Mentions: N-322, N-131, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Follow whether the Carroll-Harry meeting or interview was later aired.
@@ -1849,7 +1849,7 @@ Claim: The host says Pierre Falcone had a partner named Arcadi Gaydamak (transcr
 Transcript Snippet: Pierre Falone had a partner named Arcadi Gammock didn't expect that to be relevant to anything but they were both involved in Angola Gate
 
 Anchored Artifacts: 
-Mentions: N-319, N-320, N-3
+Mentions: N-316, N-317, N-3
 Related Nodes: N-11186
 Supports: C-1869
 Tags: relevance:context
@@ -1866,7 +1866,7 @@ Claim: The host says that after the previous episode she asked whether anyone kn
 Transcript Snippet: after yesterday's episode, I had asked if anybody had anything or knew anything about, you know, Turning Point potentially working with this Pierre person.
 
 Anchored Artifacts: 
-Mentions: N-3, N-319
+Mentions: N-3, N-316
 Related Nodes: N-10317, N-10000
 Tags: relevance:context
 Investigative Direction: Review the viewer tip emails and any TPUSA donor records for connections to Pierre Falcone.
@@ -1882,7 +1882,7 @@ Claim: The host says the seven tipsters are certain at the very least that the m
 Transcript Snippet: They are certain at the very least that he is from Israel
 
 Anchored Artifacts: 
-Mentions: N-320, N-327
+Mentions: N-317, N-324
 Related Nodes: N-10330
 Tags: relevance:context
 Investigative Direction: Obtain the tip emails and test any identifying detail against Israeli and French records on Gaydamak.
@@ -1898,7 +1898,7 @@ Claim: The host says tipsters told her that the man using the name Jonathan Schm
 Transcript Snippet: if you're a real estate agent, they said he was um shopping for a home in the Brentwood area
 
 Anchored Artifacts: 
-Mentions: N-327
+Mentions: N-324
 Related Nodes: N-10330
 Tags: relevance:context
 Investigative Direction: Identify the real estate agents and check Williamson County property records for any purchase by a Jonathan Schmidt.
@@ -1914,7 +1914,7 @@ Claim: The host says she reached out to Clay Thomas and to Root Brands requestin
 Transcript Snippet: I reached out to Klay Thomas. I have reached out to Root Brands and I have requested more information about this uh Russian Israeli employee who is using the name Jonathan Schmidt and bringing in Ukrainians.
 
 Anchored Artifacts: 
-Mentions: N-3, N-328, N-327
+Mentions: N-3, N-325, N-324
 Related Nodes: N-10902
 Tags: relevance:context
 Investigative Direction: Obtain Root Brands' and Clay Thomas' responses, if any, and the host's outreach emails.
@@ -1947,7 +1947,7 @@ Claim: The host says that she ran the threat concerning French intelligence agen
 Transcript Snippet: to the threat that I've been saying about the French intelligence agencies uh working with Israel and that is Tulsi Gabbert's office.
 
 Anchored Artifacts: 
-Mentions: N-3, N-336
+Mentions: N-3, N-333
 Related Nodes: N-10567, N-10355
 Tags: relevance:core
 Investigative Direction: Ask ODNI for confirmation of any contact with the host or her representatives and the date.
@@ -1979,7 +1979,7 @@ Claim: The host asks anyone in Nashville who has seen the man using the name Jon
 Transcript Snippet: for the love of God, please send us an email more tips@candowins. com.
 
 Anchored Artifacts: A-3116.2
-Mentions: N-3, N-327
+Mentions: N-3, N-324
 Related Nodes: N-10330
 Tags: relevance:core, dia_beat
 Investigative Direction: Track tips received at the address and what was verified from them.
@@ -2027,7 +2027,7 @@ Claim: The host repeats her request that anyone who knows something about the ma
 Transcript Snippet: So again, if you know something, please email us more tips at. com.
 
 Anchored Artifacts: A-3116.3
-Mentions: N-3, N-327
+Mentions: N-3, N-324
 Related Nodes: N-10330
 Tags: relevance:core, dia_beat
 Investigative Direction: Track tips received at the address and what was verified from them.
@@ -2043,7 +2043,7 @@ Claim: The host says that if this is the correct individual, he is supposed to b
 Transcript Snippet: He's supposed to be a billionaire. So why would he be working at all? H if this is the correct individual, I'm not buying the name Jonathan Schmidt.
 
 Anchored Artifacts: 
-Mentions: N-3, N-320, N-327
+Mentions: N-3, N-317, N-324
 Related Nodes: N-10330
 Tags: relevance:context
 Investigative Direction: Obtain Root Brands' employee roster and the tipsters' evidence for the identity.
@@ -2059,7 +2059,7 @@ Claim: The host says she does not believe the man is legally allowed to be in th
 Transcript Snippet: And I do not believe he's legally allowed to be in this country.
 
 Anchored Artifacts: 
-Mentions: N-3, N-327
+Mentions: N-3, N-324
 Related Nodes: N-10330
 Tags: relevance:context
 Investigative Direction: Immigration status can be checked only by DHS; ask Root Brands for work-authorization verification (I-9/E-Verify) documentation.
@@ -2092,7 +2092,7 @@ Claim: The host says Tim Pool is trying to signal to the public that she does no
 Transcript Snippet: now is trying to signal to the public that I don't have security which is untrue but he is trying to get me harmed.
 
 Anchored Artifacts: 
-Mentions: N-3, N-273
+Mentions: N-3, N-271
 Related Nodes: N-11287
 Contradicts: C-1894
 Tags: relevance:context
@@ -2109,7 +2109,7 @@ Claim: In the played clip, Tim Pool says people fear she will put them on her th
 Transcript Snippet: that she'll put you on her thumbnail AND CLAIM YOU BENEFITED FROM CHARLIE KIRK'S ASSASSINATION WHICH SHE'S DOING TO ME RIGHT NOW.
 
 Anchored Artifacts: A-1524.1
-Mentions: N-273, N-3, N-1
+Mentions: N-271, N-3, N-1
 Related Nodes: N-11287
 Tags: relevance:context
 Investigative Direction: Locate the earlier thumbnail and episode referred to and compare with what Pool said on air about benefiting.
@@ -2125,7 +2125,7 @@ Claim: In the played clip, Tim Pool says many conservatives send him messages sa
 Transcript Snippet: And all of these conservatives out there that send me these messages have no balls to call her out.
 
 Anchored Artifacts: A-1524.1
-Mentions: N-273, N-3
+Mentions: N-271, N-3
 Related Nodes: N-11287
 Tags: relevance:context
 Investigative Direction: Pool could produce the messages; otherwise the claim rests on his say-so.
@@ -2141,7 +2141,7 @@ Claim: The host says that Tim Pool accused her, in a full episode with Milo Yian
 Transcript Snippet: he accused me in a full episode with Milo Yiannopoulos, which we showed and contextualized, of being someone who benefited from Charlie Kirk's assassination.
 
 Anchored Artifacts: 
-Mentions: N-3, N-273, N-224, N-1
+Mentions: N-3, N-271, N-224, N-1
 Related Nodes: N-11287
 Tags: relevance:context
 Investigative Direction: Check the Pool and Yiannopoulos episode for the exact wording and timestamp.
@@ -2173,7 +2173,7 @@ Claim: The host says Tim Pool is under financial pressure and is trying out for 
 Transcript Snippet: He's now essentially trying out because he's under financial pressure. He's trying out for a Zionist to pay him.
 
 Anchored Artifacts: 
-Mentions: N-3, N-273
+Mentions: N-3, N-271
 Related Nodes: N-11287
 Tags: relevance:context
 Investigative Direction: This is the host's allegation without evidence offered; look for disclosed sponsors or funding for Pool's channels.
@@ -2189,7 +2189,7 @@ Claim: The host says she has not focused her content on Tim Pool and that any ti
 Transcript Snippet: I have not focused my content on you. And anytime your name has come up, it has been because you have explicit explicitly been attacking me.
 
 Anchored Artifacts: 
-Mentions: N-3, N-273
+Mentions: N-3, N-271
 Related Nodes: N-11287
 Tags: relevance:context
 Investigative Direction: Count episodes in which the host names Pool and compare the sequence with Pool's statements about her.

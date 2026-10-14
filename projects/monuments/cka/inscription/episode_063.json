@@ -116,7 +116,7 @@
             "C-2202"
           ],
           "related_nodes": [
-            "N-467",
+            "N-462",
             "N-1"
           ],
           "tags": [],
@@ -166,7 +166,7 @@
             "C-2203"
           ],
           "related_nodes": [
-            "N-506",
+            "N-501",
             "N-10445"
           ],
           "tags": [],
@@ -192,7 +192,7 @@
             "C-2203"
           ],
           "related_nodes": [
-            "N-506",
+            "N-501",
             "N-10445"
           ],
           "tags": [],
@@ -218,7 +218,7 @@
             "C-2204"
           ],
           "related_nodes": [
-            "N-506"
+            "N-501"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -472,10 +472,10 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-780",
-            "N-781",
-            "N-467",
-            "N-481"
+            "N-774",
+            "N-775",
+            "N-462",
+            "N-476"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -501,7 +501,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-781"
+            "N-775"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -527,7 +527,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-506"
+            "N-501"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -554,8 +554,8 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-506",
-            "N-783"
+            "N-501",
+            "N-777"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -581,7 +581,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-783"
+            "N-777"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -616,8 +616,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-467",
-      "ref": "N-467",
+      "@id": "N-462",
+      "ref": "N-462",
       "name": "Bill Montgomery",
       "type": "person",
       "description": "Co-founder of Turning Point USA per the Atlantic article (A-1678.1); described by host as Air Force reserves, from Lincoln, Nebraska, and connected to Helen Barts and the founding of Creative Children's Academy.",
@@ -659,8 +659,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-506",
-      "ref": "N-506",
+      "@id": "N-501",
+      "ref": "N-501",
       "name": "Lorie Cardardoza Moore",
       "type": "person",
       "description": "Identified via audio match as the author of the Christian Zionist threat message (A-1680.1, A-1681.1) and as having a prior acting/romance hotline background (A-1682.1); described by host as evangelical Zionist who learned later that she is Jewish.",
@@ -751,7 +751,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-506"
+        "N-501"
       ]
     },
     {
@@ -978,8 +978,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-276",
-      "ref": "N-276",
+      "@id": "N-274",
+      "ref": "N-274",
       "name": "Dan Flood",
       "type": "person",
       "description": "Named by the host as having been in position to tell Erika about Charlie's night-before messages and as a relative of Robert Flood.",
@@ -996,8 +996,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-481",
-      "ref": "N-481",
+      "@id": "N-476",
+      "ref": "N-476",
       "name": "Robert Eugene Flood",
       "type": "person",
       "description": "Named by a tipster as having worked with the Montgomerys at Shaklee; the host places him in Dan Flood's family.",
@@ -1013,8 +1013,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-780",
-      "ref": "N-780",
+      "@id": "N-774",
+      "ref": "N-774",
       "name": "Helen Barts",
       "type": "person",
       "description": "First named by the host at 00:29:53 in episode 063. Founder of Creative Children's Academy per the host; later said to have run the Shaklee Center in Arlington Heights. Transcript variants: Helen Arts.",
@@ -1033,8 +1033,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-781",
-      "ref": "N-781",
+      "@id": "N-775",
+      "ref": "N-775",
       "name": "Edith Walker Montgomery",
       "type": "person",
       "description": "First named by the host at 00:29:53 in episode 063. Wife of Bill Montgomery, goes by Edith Walker; alleged immigrant from Germany and psychiatric nurse. Alias: Edith Marie Walker, Edith Walker.",
@@ -1054,8 +1054,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-782",
-      "ref": "N-782",
+      "@id": "N-776",
+      "ref": "N-776",
       "name": "Michelle Bachmann",
       "type": "person",
       "description": "First named by Lorie Cardardoza Moore in the audio at 00:39:08 in episode 063. Spoke for five minutes at the TPUSA Tampa conference per Moore.",
@@ -1072,8 +1072,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-783",
-      "ref": "N-783",
+      "@id": "N-777",
+      "ref": "N-777",
       "name": "Stanley Clark Moore",
       "type": "person",
       "description": "First named by the host at 00:41:47 in episode 063. Husband of Lorie Cardardoza Moore with an Air Force background per the host.",
@@ -1717,7 +1717,7 @@
       "investigative_direction": "Locate the full Atlantic article; cross-check Bill Montgomery's Air Force service record and his post-2012 role; investigate any alternative TPUSA origin narratives.",
       "mentions_person_refs": [
         "N-1",
-        "N-467"
+        "N-462"
       ]
     },
     {
@@ -1737,7 +1737,7 @@
       "claim_timestamp": "00:39:08",
       "investigative_direction": "Obtain independent forensic voice comparison; verify Lorie Cardardoza Moore's identity, contact details, and any prior communications with TPUSA staff or affiliates.",
       "mentions_person_refs": [
-        "N-506"
+        "N-501"
       ]
     },
     {
@@ -1754,7 +1754,7 @@
       "claim_timestamp": "00:41:47",
       "investigative_direction": "Establish provenance and dating of the romance hotline recording; obtain Lorie Cardardoza Moore's professional résumé or acting credits for corroboration.",
       "mentions_person_refs": [
-        "N-506"
+        "N-501"
       ]
     },
     {
@@ -2462,7 +2462,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-467"
+        "N-462"
       ]
     },
     {
@@ -2481,7 +2481,7 @@
       "transcript_snippet": "He has since passed. I've met Bill Montgomery. He's very kind to me.",
       "mentions_person_refs": [
         "N-3",
-        "N-467"
+        "N-462"
       ]
     },
     {
@@ -2502,7 +2502,7 @@
       "transcript_snippet": "Bill Montgomery was Air Force. He's in the Air Force reserves. Uh, Bill Montgomery also happened to be from Lincoln, Nebraska.",
       "mentions_person_refs": [
         "N-3",
-        "N-467"
+        "N-462"
       ]
     },
     {
@@ -2523,7 +2523,7 @@
       "transcript_snippet": "we do know that he moved to the Chicago area thereafter, which obviously in the area where Charlie's X-Men School was.",
       "mentions_person_refs": [
         "N-3",
-        "N-467",
+        "N-462",
         "N-1"
       ]
     },
@@ -2608,7 +2608,7 @@
       "transcript_snippet": "was founded by a woman named Helen Barts. Okay. Her husband is a Reverend Robert Barts of Arlington Heights.",
       "mentions_person_refs": [
         "N-3",
-        "N-780"
+        "N-774"
       ]
     },
     {
@@ -2631,9 +2631,9 @@
       "transcript_snippet": "Helen Barts was actually good friends with Bill Montgomery and his wife Edith Montgomery.",
       "mentions_person_refs": [
         "N-3",
-        "N-780",
-        "N-467",
-        "N-781"
+        "N-774",
+        "N-462",
+        "N-775"
       ]
     },
     {
@@ -2654,7 +2654,7 @@
       "transcript_snippet": "Edith Walker, who I've since learned immigrated from Germany after World War II, and I can't really find much else about her",
       "mentions_person_refs": [
         "N-3",
-        "N-781"
+        "N-775"
       ]
     },
     {
@@ -2677,8 +2677,8 @@
       "transcript_snippet": "she was actually the person that started the school with Helen Arts and that's has since virtually been wiped from public record.",
       "mentions_person_refs": [
         "N-3",
-        "N-781",
-        "N-780"
+        "N-775",
+        "N-774"
       ]
     },
     {
@@ -2701,10 +2701,10 @@
       "transcript_snippet": "The person claims that Bill and his wife and a certain Robert Flood who is in Dan Flood's family, this is what they claim",
       "mentions_person_refs": [
         "N-3",
-        "N-467",
-        "N-781",
-        "N-481",
-        "N-276"
+        "N-462",
+        "N-775",
+        "N-476",
+        "N-274"
       ]
     },
     {
@@ -2767,7 +2767,7 @@
       "transcript_snippet": "I confirmed that she did indeed prior to worked at Shackley. She actually ran the Shackley Center in Arlington Heights.",
       "mentions_person_refs": [
         "N-3",
-        "N-780"
+        "N-774"
       ]
     },
     {
@@ -2815,7 +2815,7 @@
       "transcript_snippet": "email, send us an email at more tips@canacewowens. com.",
       "mentions_person_refs": [
         "N-3",
-        "N-781"
+        "N-775"
       ]
     },
     {
@@ -2901,7 +2901,7 @@
       "transcript_snippet": "Lorie Cardardoza Moore The Brave Report pulled up as an evangelical Zionist who said that she then learned later on that she's Jewish but she is still an evangelical.",
       "mentions_person_refs": [
         "N-3",
-        "N-506"
+        "N-501"
       ]
     },
     {
@@ -2924,9 +2924,9 @@
       "investigative_direction": "Identify the date of the Tampa conference and compare the account with video of Carlson's and Bachmann's sessions.",
       "transcript_snippet": "I had three couples reach out to me who had been to the Turning Point USA conference and this was in Tampa a couple weeks ago.",
       "mentions_person_refs": [
-        "N-506",
+        "N-501",
         "N-22",
-        "N-782"
+        "N-776"
       ]
     },
     {
@@ -2949,8 +2949,8 @@
       "investigative_direction": "Review the Tampa conference footage for the booing, walkouts and any remarks by Charlie Kirk afterward.",
       "transcript_snippet": "She said 10% in the room got up and walked out on her.",
       "mentions_person_refs": [
-        "N-506",
-        "N-782",
+        "N-501",
+        "N-776",
         "N-1",
         "N-22"
       ]
@@ -2973,8 +2973,8 @@
       "transcript_snippet": "married to a man named Stanley Clark Moore. He has an Air Force background.",
       "mentions_person_refs": [
         "N-3",
-        "N-506",
-        "N-783"
+        "N-501",
+        "N-777"
       ]
     },
     {
@@ -2997,7 +2997,7 @@
       "transcript_snippet": "Uh, also went to go work for NASA if if his Wikipedia is to be believed for a little bit.",
       "mentions_person_refs": [
         "N-3",
-        "N-783"
+        "N-777"
       ]
     },
     {
@@ -3020,7 +3020,7 @@
       "transcript_snippet": "Message us more tips at candacewowens. com.",
       "mentions_person_refs": [
         "N-3",
-        "N-783"
+        "N-777"
       ]
     },
     {
@@ -3313,7 +3313,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-276",
+        "N-274",
         "N-2",
         "N-1"
       ]

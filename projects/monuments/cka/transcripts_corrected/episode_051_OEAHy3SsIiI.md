@@ -269,7 +269,7 @@ He was not communicating. He was not that source's source. Somebody else at that
 
 [56:35]
 
-You don't need to submit your alibi to some obscure YouTuber. You don't have to have Alex Jones go after me or attack me. You We were just interested in the truth. We didn't know where this was going to end." And I was I had a phone call um not with Andrew Kolbintz. It was a good good phone call. I I I do think thus far Justin Strife has maybe been the only person that has been well-intended. Um and he's he's not on social media so he's kind of stays above the fray and he was trying to understand what happened and I explained to him that I was now pissed off. Um that I viewed this to be a violation of our ceasefire, okay? And um he said to me that he would get me a message from Erika that was her quote unquote alibi if we're calling it that.
+You don't need to submit your alibi to some obscure YouTuber. You don't have to have Alex Jones go after me or attack me. You We were just interested in the truth. We didn't know where this was going to end." And I was I had a phone call um not with Andrew Kolbintz. It was a good good phone call. I I I do think thus far Justin Streiff has maybe been the only person that has been well-intended. Um and he's he's not on social media so he's kind of stays above the fray and he was trying to understand what happened and I explained to him that I was now pissed off. Um that I viewed this to be a violation of our ceasefire, okay? And um he said to me that he would get me a message from Erika that was her quote unquote alibi if we're calling it that.
 
 [57:21]
 

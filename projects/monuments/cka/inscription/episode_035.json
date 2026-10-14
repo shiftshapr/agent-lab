@@ -203,7 +203,7 @@
             "C-1751"
           ],
           "related_nodes": [
-            "N-271",
+            "N-269",
             "N-10265"
           ],
           "tags": [],
@@ -257,7 +257,7 @@
             "C-1753"
           ],
           "related_nodes": [
-            "N-272",
+            "N-270",
             "N-10267"
           ],
           "tags": [],
@@ -276,7 +276,7 @@
             "C-1754"
           ],
           "related_nodes": [
-            "N-272"
+            "N-270"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -302,7 +302,7 @@
             "C-1755"
           ],
           "related_nodes": [
-            "N-274",
+            "N-272",
             "N-149"
           ],
           "tags": [],
@@ -330,7 +330,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-273"
+            "N-271"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -348,7 +348,7 @@
             "C-1757"
           ],
           "related_nodes": [
-            "N-273",
+            "N-271",
             "N-10268"
           ],
           "tags": [],
@@ -563,8 +563,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-271",
-      "ref": "N-271",
+      "@id": "N-269",
+      "ref": "N-269",
       "name": "Christopher Wray",
       "type": "person",
       "description": "FBI Director quoted in A-1440.1 press release regarding partnerships.",
@@ -582,8 +582,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "TPUSA security figure whose statements on drones (A-1442.1) and bullet trajectory (A-1442.2) are presented.",
@@ -628,8 +628,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-273",
-      "ref": "N-273",
+      "@id": "N-271",
+      "ref": "N-271",
       "name": "Tim Pool",
       "type": "person",
       "description": "Independent commentator; clips (A-1444.1, A-1444.2) regarding podcast narrative and AmFest exclusion.",
@@ -649,8 +649,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-274",
-      "ref": "N-274",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Host of The Joe Rogan Experience; clip (A-1443.1) discussing conspiracies.",
@@ -910,8 +910,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-229",
-      "ref": "N-229",
+      "@id": "N-228",
+      "ref": "N-228",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Podcast host of the Brian Harpole interview that the independent review and this episode treat as contradictory to review-team findings.",
@@ -1673,8 +1673,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-283",
-      "ref": "N-283",
+      "@id": "N-281",
+      "ref": "N-281",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Comedian whose clip the host showed, which drew a copyright claim.",
@@ -1907,7 +1907,7 @@
       "claim_timestamp": "00:17:46–00:18:30",
       "investigative_direction": "Locate and review the FBI press release directly; verify quoted phrases and date.",
       "mentions_person_refs": [
-        "N-271"
+        "N-269"
       ]
     },
     {
@@ -1945,8 +1945,8 @@
       "claim_timestamp": "00:30:52–00:31:42",
       "investigative_direction": "Obtain the full Shawn Ryan / Brian Harpole interview clip and timestamp; confirm exact wording.",
       "mentions_person_refs": [
-        "N-272",
-        "N-229"
+        "N-270",
+        "N-228"
       ]
     },
     {
@@ -1963,8 +1963,8 @@
       "claim_timestamp": "00:33:46–00:36:45",
       "investigative_direction": "Obtain the full interview clip; confirm exact wording and timestamps.",
       "mentions_person_refs": [
-        "N-272",
-        "N-229"
+        "N-270",
+        "N-228"
       ]
     },
     {
@@ -1982,7 +1982,7 @@
       "investigative_direction": "Locate Tim Pool's original video and timestamp the quoted language.",
       "mentions_person_refs": [
         "N-2",
-        "N-273",
+        "N-271",
         "N-3",
         "N-1"
       ]
@@ -2003,7 +2003,7 @@
       "claim_timestamp": "00:44:03–00:44:52",
       "investigative_direction": "Locate Tim Pool's original video and confirm AmFest / Afest naming and exact quoted language.",
       "mentions_person_refs": [
-        "N-273"
+        "N-271"
       ]
     },
     {
@@ -2021,7 +2021,7 @@
       "investigative_direction": "Identify the specific Rogan episode by number and date; preserve timestamp of the cited segment.",
       "mentions_person_refs": [
         "N-149",
-        "N-274"
+        "N-272"
       ]
     },
     {
@@ -2638,7 +2638,7 @@
         "C-1752"
       ],
       "mentions_person_refs": [
-        "N-271",
+        "N-269",
         "N-3"
       ]
     },
@@ -2665,7 +2665,7 @@
         "C-1752"
       ],
       "mentions_person_refs": [
-        "N-271",
+        "N-269",
         "N-3"
       ]
     },
@@ -3220,7 +3220,7 @@
         "C-1754"
       ],
       "mentions_person_refs": [
-        "N-272",
+        "N-270",
         "N-3"
       ]
     },
@@ -3320,7 +3320,7 @@
         "C-1753"
       ],
       "mentions_person_refs": [
-        "N-272",
+        "N-270",
         "N-7",
         "N-3"
       ]
@@ -3393,8 +3393,8 @@
       "investigative_direction": "Identify which lies the host attributes to the feds and who directed Harpole's interview appearance.",
       "transcript_snippet": "The reason they're sending you out to do it is because they don't want to be caught lying themselves.",
       "mentions_person_refs": [
-        "N-272",
-        "N-229",
+        "N-270",
+        "N-228",
         "N-3"
       ]
     },
@@ -3422,7 +3422,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-272",
+        "N-270",
         "N-1"
       ]
     },
@@ -3450,7 +3450,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-272",
+        "N-270",
         "N-1"
       ]
     },
@@ -3475,7 +3475,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-274",
+        "N-272",
         "N-149"
       ]
     },
@@ -3499,7 +3499,7 @@
       "transcript_snippet": "It's like the Jeffrey Epstein files. Like they're out there saying it would really compromise national security if we told you.",
       "mentions_person_refs": [
         "N-9",
-        "N-274",
+        "N-272",
         "N-149"
       ]
     },
@@ -3565,7 +3565,7 @@
       "investigative_direction": "Compare with the Macron complaint filed in Delaware and its claimed damages.",
       "transcript_snippet": "I think they're at least threatening a lawsuit. It's like for like 50 million bucks.",
       "mentions_person_refs": [
-        "N-274",
+        "N-272",
         "N-149",
         "N-3",
         "N-82"
@@ -3590,7 +3590,7 @@
       "investigative_direction": "Public records on the Macrons' ages; the remark is comedic commentary.",
       "transcript_snippet": "Or when the he was like 40 and the kid was 15 >> or she was 40, even if it was a she.",
       "mentions_person_refs": [
-        "N-274",
+        "N-272",
         "N-149"
       ]
     },
@@ -3702,7 +3702,7 @@
         "C-1757"
       ],
       "mentions_person_refs": [
-        "N-273",
+        "N-271",
         "N-3"
       ]
     },
@@ -3977,7 +3977,7 @@
       "transcript_snippet": "A copyright claim for her sensational music. And so, we might have to trim out that sensational song from the Tim Dylan clip that we showed of him listening to it.",
       "mentions_person_refs": [
         "N-3",
-        "N-283"
+        "N-281"
       ]
     },
     {

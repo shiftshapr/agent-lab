@@ -15,7 +15,7 @@
   - Tip-minted Nodes (supplement_2026-10): N-11082, N-11083, N-11085, N-11087, N-11088, N-11089, N-11090
   - Claim Range (supplement_2026-10): C-6286–C-6350
   - New Nodes Introduced: N-10867, N-10868
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-22, N-30, N-36, N-37, N-14, N-194, N-242, N-284, N-221, N-272, N-7, N-507, N-162, N-10056, N-10198, N-10218, N-10839, N-10859, N-10860, N-10863, N-10, N-8, N-13, N-16, N-18, N-10865, N-215, N-229, N-337, N-533, N-10027, N-10063, N-10070, N-10103, N-10342, N-10862, N-10888, N-11091, N-10866, N-11084, N-11086, N-10864
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-22, N-30, N-36, N-37, N-14, N-194, N-241, N-282, N-221, N-270, N-7, N-502, N-162, N-10056, N-10198, N-10218, N-10839, N-10859, N-10860, N-10863, N-10, N-8, N-13, N-16, N-18, N-10865, N-215, N-228, N-334, N-528, N-10027, N-10063, N-10070, N-10103, N-10342, N-10862, N-10888, N-11091, N-10866, N-11084, N-11086, N-10864
   - (see registers)
   - Person band: persons minted in this quality pass use N-8+ (see node register). Minted here or reused: Clara Molot, Sergio Gor, Caleb Chilcutt, Andrew Wilson. Tim Dylan not minted. Leah Thomas not minted.
 
@@ -89,7 +89,7 @@ Video Timestamp: 00:26:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (DeGroot quote as read); Low–Medium (McCoy gatekeeping as host allegation)
 
-*Related: C-3601, N-10218, N-507, N-194, N-1, N-2*
+*Related: C-3601, N-10218, N-502, N-194, N-1, N-2*
 
 ---
 
@@ -300,7 +300,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-242** Glenn Beck
+**N-241** Glenn Beck
 
 Referenced regarding Erika’s December interview claim that Charlie was unconcerned about death threats the night before (contrast with DeGroot framing).
 
@@ -312,7 +312,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-284** Bari Weiss
+**N-282** Bari Weiss
 
 Named among fall-2025 public appearances in the host’s wardrobe catalog rebutting “only thing that fit.”
 
@@ -336,7 +336,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-272** Brian Harpole
+**N-270** Brian Harpole
 
 Referenced in post-review segment as heavily debunked by Lake Force relative to Shawn Ryan narrative.
 
@@ -360,7 +360,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-507** Doug DeGroot
+**N-502** Doug DeGroot
 
 Board member / couple’s financial adviser quoted on will appointment and on media pressure driving 48-hour CEO vote.
 
@@ -569,7 +569,7 @@ Online debater who offered the host a paid Charlie Kirk debate and claimed a TPU
 
 ---
 
-**N-337** Baron Coleman
+**N-334** Baron Coleman
 
 Guest co-host in earlier episodes; the host says he had the scoop that the UVU review would be bad for TPUSA.
 
@@ -585,7 +585,7 @@ Fox host; the host dates an Erika Kirk interview with him to November 5 as part 
 
 ---
 
-**N-229** Shawn Ryan
+**N-228** Shawn Ryan
 
 Podcaster on whose show the host says Brian Harpole gave the narrative the review debunks.
 
@@ -593,7 +593,7 @@ Podcaster on whose show the host says Brian Harpole gave the narrative the revie
 
 ---
 
-**N-533** Nicki Minaj
+**N-528** Nicki Minaj
 
 Named by the host among Erika Kirk's December appearances.
 
@@ -816,7 +816,7 @@ Claim Timestamp: 00:20:37
 Claim: Host disputes Erika’s profile claim that the Amfest Alice + Olivia sparkly suit was the only thing that fit, citing a string of other televised/public outfits across Sept–Dec 2025.
 
 Anchored Artifacts: A-2461.1
-Mentions: N-2, N-284
+Mentions: N-2, N-282
 
 Related Nodes: N-10864
 
@@ -831,7 +831,7 @@ Claim Timestamp: 00:26:24
 Claim: Doug DeGroot confirms they planned to sign will paperwork that Monday; host alleges Mikey McCoy gatekept/canceled prior attempts and rejects DeGroot’s death-threat framing as the sole motive.
 
 Anchored Artifacts: A-2462.1
-Mentions: N-1, N-2, N-194, N-507
+Mentions: N-1, N-2, N-194, N-502
 
 Related Nodes: N-10198, N-10218
 
@@ -921,7 +921,7 @@ Claim Timestamp: 00:30:00
 Claim: Profile/DeGroot state the board voted two days after Charlie’s death to install Erika, delaying public announce toward memorial because of media questions; host rejects the claim that reporters flooded them for a replacement within 24 hours as the real driver.
 
 Anchored Artifacts: A-2459.1, A-2462.1
-Mentions: N-2, N-507
+Mentions: N-2, N-502
 
 Related Nodes: N-10218
 
@@ -1166,7 +1166,7 @@ Claim: The host says Erika had clothes that fit at the November 10 Oval Office a
 Transcript Snippet: The Sean Hannity interview on December 8th. The Fox and Friends um on December 9th.
 
 Anchored Artifacts: A-2461.1
-Mentions: N-2, N-16, N-284
+Mentions: N-2, N-16, N-282
 Related Nodes: N-11083
 Supports: C-3600
 Investigative Direction: Confirm each broadcast date and outfit from network video.
@@ -1182,7 +1182,7 @@ Claim: The host says Erika presented an award to Caleb Chilcutt on December 20, 
 Transcript Snippet: Erika when she gave an award to Caleb Chilcutt the uh on December 20th, that's the day after.
 
 Anchored Artifacts: A-2461.1
-Mentions: N-2, N-10, N-533
+Mentions: N-2, N-10, N-528
 Related Nodes: N-11083
 Supports: C-3600
 Investigative Direction: Check dates of the Chilcutt award and the Minaj and Bream interviews against broadcast records.
@@ -1261,7 +1261,7 @@ Claim: The host reads the profile, quoting Doug DeGroot, as saying that the nigh
 Transcript Snippet: The night before Charlie was killed, he had been discussing with Erika and their pastor recommendations from his security team, which included bulletproof glass shields and vests.
 
 Anchored Artifacts: A-2462.1
-Mentions: N-507, N-1, N-2
+Mentions: N-502, N-1, N-2
 Related Nodes: N-11085, N-10103
 Investigative Direction: Identify the pastor and the security team's written recommendations; compare with Charlie not wearing a vest on September 10.
 
@@ -1276,7 +1276,7 @@ Claim: The host says Erika told Glenn Beck in December that she has Charlie's ph
 Transcript Snippet: Erika is going to tell um Glenn back in December that you know she has his phone and he wasn't concerned about the death threats
 
 Anchored Artifacts: 
-Mentions: N-2, N-242, N-1
+Mentions: N-2, N-241, N-1
 Supports: C-4057
 Investigative Direction: Check the December 2025 Glenn Beck interview video for the phone and death-threat statements.
 
@@ -1352,7 +1352,7 @@ Claim: The host reads the profile as quoting Doug DeGroot that Erika saved Turni
 Transcript Snippet: Degrroot says Erika saved Turning Point two or three years of searching for and training a new CEO from outside the organization.
 
 Anchored Artifacts: A-2462.1
-Mentions: N-507, N-2
+Mentions: N-502, N-2
 Related Nodes: N-10218
 Investigative Direction: Confirm the quote in the published profile and request board minutes on the succession decision.
 
@@ -1367,7 +1367,7 @@ Claim: The host alleges that Doug DeGroot, whom she says does a lot of PR for Tu
 Transcript Snippet: he was, I told you early on, one of the people that was like crazy behind the scenes and wanting me to be crushed in the media.
 
 Anchored Artifacts: 
-Mentions: N-507, N-3
+Mentions: N-502, N-3
 Investigative Direction: Identify the earlier episode where the host first said this and any messages from DeGroot to media contacts.
 
 ---
@@ -1412,7 +1412,7 @@ Claim: The host says Baron Coleman had the scoop that the UVU independent review
 Transcript Snippet: Baron actually had the scoop on that and that it was going to be very bad for Turning Point USA.
 
 Anchored Artifacts: 
-Mentions: N-337, N-3
+Mentions: N-334, N-3
 Related Nodes: N-10839
 Supports: C-3489
 Investigative Direction: Find Coleman's earlier statement or post predicting the review's release and tone.
@@ -1428,7 +1428,7 @@ Claim: The host says the independent review dedicates pages to debunking Brian H
 Transcript Snippet: they dedicate pages to debunking Brian Harpull's narrative on uh Sean Ryan's podcast where he pretends that he the fake message meaning it was not his message.
 
 Anchored Artifacts: 
-Mentions: N-272, N-229, N-3
+Mentions: N-270, N-228, N-3
 Related Nodes: N-10862, N-10839
 Supports: C-3589
 Investigative Direction: Read the review's pages on Harpole and the Shawn Ryan appearance and compare to the podcast transcript.

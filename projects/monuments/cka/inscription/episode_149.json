@@ -32,7 +32,7 @@
             "C-3545"
           ],
           "related_nodes": [
-            "N-275"
+            "N-273"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -100,7 +100,7 @@
             "C-3546"
           ],
           "related_nodes": [
-            "N-275"
+            "N-273"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -127,7 +127,7 @@
             "C-3548"
           ],
           "related_nodes": [
-            "N-275"
+            "N-273"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -153,7 +153,7 @@
             "C-3546"
           ],
           "related_nodes": [
-            "N-275"
+            "N-273"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -179,7 +179,7 @@
             "C-3548"
           ],
           "related_nodes": [
-            "N-275"
+            "N-273"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -205,7 +205,7 @@
             "C-3549"
           ],
           "related_nodes": [
-            "N-275"
+            "N-273"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -266,7 +266,7 @@
             "C-3557"
           ],
           "related_nodes": [
-            "N-275"
+            "N-273"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -342,7 +342,7 @@
             "C-3566"
           ],
           "related_nodes": [
-            "N-275"
+            "N-273"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -368,7 +368,7 @@
             "C-3564"
           ],
           "related_nodes": [
-            "N-275"
+            "N-273"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -575,8 +575,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-275",
-      "ref": "N-275",
+      "@id": "N-273",
+      "ref": "N-273",
       "name": "Derek Pepper Williams",
       "type": "person",
       "description": "TPUSA security detail member previously misidentified as Chester Barnes; also known as Pepper Williams. Linked to PGL / Perimeter Global Logistics.",
@@ -654,8 +654,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -670,8 +670,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-276",
-      "ref": "N-276",
+      "@id": "N-274",
+      "ref": "N-274",
       "name": "Dan Flood",
       "type": "person",
       "description": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story).",
@@ -736,8 +736,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-498",
-      "ref": "N-498",
+      "@id": "N-493",
+      "ref": "N-493",
       "name": "Rick Cutler",
       "type": "person",
       "description": "Named by the host at 00:12:02 in episode 123; first introduced in episode 121.",
@@ -752,8 +752,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-503",
-      "ref": "N-503",
+      "@id": "N-498",
+      "ref": "N-498",
       "name": "Justin Davis",
       "type": "person",
       "description": "Named by the host at 00:12:13 in episode 147; first introduced in episode 124.",
@@ -782,7 +782,7 @@
       "claim_timestamp": "00:01:19",
       "investigative_direction": "Verify identity via personnel records, PGL employment records, and cross-reference with prior on-screen identifications.",
       "mentions_person_refs": [
-        "N-275"
+        "N-273"
       ]
     },
     {
@@ -799,7 +799,7 @@
       "claim_timestamp": "00:02:11",
       "investigative_direction": "Confirm employment history via LinkedIn, PGL corporate filings, or defense contracting databases (e.g., USASpending.gov).",
       "mentions_person_refs": [
-        "N-275"
+        "N-273"
       ]
     },
     {
@@ -816,7 +816,7 @@
       "claim_timestamp": "00:02:11",
       "investigative_direction": "Identify the other three members and verify each family connection to the global freight/trucking/shipping industry through public records or interviews.",
       "mentions_person_refs": [
-        "N-275"
+        "N-273"
       ]
     },
     {
@@ -850,7 +850,7 @@
       "claim_timestamp": "00:10:07",
       "investigative_direction": "Compare the Paramount statement with the Shawn Ryan \"car crash\" interview; obtain transcripts and verify continuity.",
       "mentions_person_refs": [
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -916,7 +916,7 @@
       "claim_timestamp": "00:18:51",
       "investigative_direction": "Cross-reference with security team testimony and hospital arrival records; identify when and how Blake reached the hospital.",
       "mentions_person_refs": [
-        "N-503"
+        "N-498"
       ]
     },
     {
@@ -948,7 +948,7 @@
       "claim_timestamp": "00:20:42",
       "investigative_direction": "Identify scrubs source; obtain hospital records/logs.",
       "mentions_person_refs": [
-        "N-498"
+        "N-493"
       ]
     },
     {
@@ -965,7 +965,7 @@
       "claim_timestamp": "00:20:42",
       "investigative_direction": "Identify scrubs source; cross-reference with hospital logs.",
       "mentions_person_refs": [
-        "N-503"
+        "N-498"
       ]
     },
     {
@@ -982,7 +982,7 @@
       "claim_timestamp": "00:20:42",
       "investigative_direction": "Identify scrubs source; cross-reference with hospital logs.",
       "mentions_person_refs": [
-        "N-276"
+        "N-274"
       ]
     },
     {
@@ -999,7 +999,7 @@
       "claim_timestamp": "00:25:02",
       "investigative_direction": "Higher-resolution frame analysis; cross-reference with clothing inventories.",
       "mentions_person_refs": [
-        "N-272"
+        "N-270"
       ]
     },
     {

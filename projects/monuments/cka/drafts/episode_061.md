@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 736008f55f0ceabc1d5654cd9436f3367fc919e2bfaca0ad6647aa8c3f74d006
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-896, N-897, N-898, N-899, N-900, N-901, N-902, N-11289, N-11290
-  - Hole-minted Nodes (reintro-ep061): N-553
+  - Tip-minted Nodes (supplement_2026-10e): N-889, N-890, N-891, N-892, N-893, N-894, N-895, N-11289, N-11290
+  - Hole-minted Nodes (reintro-ep061): N-548
   - Tip-minted Nodes (reintro-ep061): N-11180
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11114–C-11181
-  - New Nodes Introduced: N-491, N-492, N-493, N-494, N-497, N-10433, N-10435
-  - Reused Nodes Appearing: N-3, N-495, N-10434, N-10436, N-10437, N-496, N-10432, N-11, N-27, N-32, N-162, N-221, N-242, N-272, N-276, N-366, N-10000, N-10132, N-10267, N-10340, N-10417, N-10427, N-10661, N-10925, N-11035
+  - New Nodes Introduced: N-486, N-487, N-488, N-489, N-492, N-10433, N-10435
+  - Reused Nodes Appearing: N-3, N-490, N-10434, N-10436, N-10437, N-491, N-10432, N-11, N-27, N-32, N-162, N-221, N-241, N-270, N-274, N-363, N-10000, N-10132, N-10267, N-10340, N-10417, N-10427, N-10661, N-10925, N-11035
   - (see registers)
 
 ## 2. Executive Summary
@@ -105,7 +105,7 @@ Video Timestamp: 00:06:17–00:15:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2158, C-2159, C-2160, C-2161, C-2162, C-2163, C-2164, C-2165, C-2169, N-1, N-2, N-497, N-41, N-10432, N-10433, N-10435, N-10436*
+*Related: C-2158, C-2159, C-2160, C-2161, C-2162, C-2163, C-2164, C-2165, C-2169, N-1, N-2, N-492, N-41, N-10432, N-10433, N-10435, N-10436*
 
 ---
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:04:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2166, C-2167, N-283, N-10432, N-10433*
+*Related: C-2166, C-2167, N-281, N-10432, N-10433*
 
 ---
 
@@ -133,7 +133,7 @@ Video Timestamp: 00:34:18–00:40:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2171, C-2172, C-2173, C-2174, C-2175, N-491, N-492, N-493*
+*Related: C-2171, C-2172, C-2173, C-2174, C-2175, N-486, N-487, N-488*
 
 ---
 
@@ -147,7 +147,7 @@ Video Timestamp: 00:42:09–00:43:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2176, C-2177, N-491, N-492, N-493, N-494*
+*Related: C-2176, C-2177, N-486, N-487, N-488, N-489*
 
 ---
 
@@ -161,7 +161,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2178, N-495, N-496, N-497*
+*Related: C-2178, N-490, N-491, N-492*
 
 ---
 
@@ -175,7 +175,7 @@ Video Timestamp: 00:54:09–00:54:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: N-491*
+*Related: N-486*
 
 ---
 
@@ -189,7 +189,7 @@ Video Timestamp: 01:06:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2180, N-2, N-495, N-496*
+*Related: C-2180, N-2, N-490, N-491*
 
 ---
 
@@ -216,7 +216,7 @@ Video Timestamp: 00:49:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11164, C-11165, N-3, N-492, N-898*
+*Related: C-11164, C-11165, N-3, N-487, N-891*
 
 ---
 
@@ -235,7 +235,7 @@ Confidence Level: Low
 
 ## 4. Node Register
 
-**N-283** Tim Dillon
+**N-281** Tim Dillon
 
 Comedian whose on-air assessment that TPUSA is primarily motivated by money is read into the episode record and adopted by the host.
 
@@ -248,7 +248,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-491** Brooklyn Beckham
+**N-486** Brooklyn Beckham
 
 Source of the Instagram Stories artifact detailing family estrangement allegations.
 
@@ -257,11 +257,11 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1663.1, A-1664.1, A-1666.1, C-2171, C-2172, C-2173, C-2174, C-2175, N-492, N-493*
+*Related: A-1663.1, A-1664.1, A-1666.1, C-2171, C-2172, C-2173, C-2174, C-2175, N-487, N-488*
 
 ---
 
-**N-492** Nicola Peltz
+**N-487** Nicola Peltz
 
 Spouse of Brooklyn Beckham; central figure in the wedding-dress and brand-rights grievance as recounted via A-1663.1.
 
@@ -270,11 +270,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1663.1, A-1664.1, C-2172, N-491, N-493, N-17*
+*Related: A-1663.1, A-1664.1, C-2172, N-486, N-488, N-17*
 
 ---
 
-**N-493** Victoria Beckham
+**N-488** Victoria Beckham
 
 Mother of Brooklyn Beckham; subject of multiple allegations in Brooklyn's IG stories and a participant in the Vogue-reported wedding timeline.
 
@@ -283,11 +283,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1663.1, A-1664.1, C-2172, C-2174, C-2175, N-491*
+*Related: A-1663.1, A-1664.1, C-2172, C-2174, C-2175, N-486*
 
 ---
 
-**N-494** David Beckham
+**N-489** David Beckham
 
 Father of Brooklyn Beckham; appears in the Vogue article's account of the wedding speeches.
 
@@ -296,11 +296,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1664.1, N-491, N-493*
+*Related: A-1664.1, N-486, N-488*
 
 ---
 
-**N-495** Blake Lively
+**N-490** Blake Lively
 
 Named party in the Baldoni litigation; text-message correspondent with Taylor Swift per A-1665.1.
 
@@ -309,11 +309,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1665.1, A-1667.1, C-2178, C-2179, N-496, N-497*
+*Related: A-1665.1, A-1667.1, C-2178, C-2179, N-491, N-492*
 
 ---
 
-**N-496** Justin Baldoni
+**N-491** Justin Baldoni
 
 Named party in the Lively litigation; subject of Taylor Swift's December 2024 text per A-1665.1.
 
@@ -322,11 +322,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1665.1, C-2178, N-495, N-497*
+*Related: A-1665.1, C-2178, N-490, N-492*
 
 ---
 
-**N-497** Taylor Swift
+**N-492** Taylor Swift
 
 Correspondent in the released text messages and subject of the host's strategic assessment.
 
@@ -335,7 +335,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1661.1, A-1665.1, C-2178, N-495, N-496*
+*Related: A-1661.1, A-1665.1, C-2178, N-490, N-491*
 
 ---
 
@@ -399,7 +399,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1661.1, A-1662.1, C-2158, C-2159, C-2160, C-2163, C-2164, C-2165, C-2166, C-2167, N-1, N-2, N-497, N-41, N-14, N-15, N-190*
+*Related: A-1661.1, A-1662.1, C-2158, C-2159, C-2160, C-2163, C-2164, C-2165, C-2166, C-2167, N-1, N-2, N-492, N-41, N-14, N-15, N-190*
 
 ---
 
@@ -531,7 +531,7 @@ Eliza McCoy (transcribed Elizabeth McCoy); the host speculates about her rising 
 
 ---
 
-**N-242** Glenn Beck
+**N-241** Glenn Beck
 
 Glenn Beck; the host says Erika Kirk made her night-before statement to him.
 
@@ -539,7 +539,7 @@ Glenn Beck; the host says Erika Kirk made her night-before statement to him.
 
 ---
 
-**N-272** Brian Harpole
+**N-270** Brian Harpole
 
 Brian Harpole; named by the host as one of the sources of conflicting drone answers.
 
@@ -547,7 +547,7 @@ Brian Harpole; named by the host as one of the sources of conflicting drone answ
 
 ---
 
-**N-276** Dan Flood
+**N-274** Dan Flood
 
 Dan Flood; the host says TPUSA told her Charlie also messaged him the night before.
 
@@ -555,7 +555,7 @@ Dan Flood; the host says TPUSA told her Charlie also messaged him the night befo
 
 ---
 
-**N-366** Kim Kardashian
+**N-363** Kim Kardashian
 
 Kim Kardashian; the host says she released video receipts of the Kanye and Swift call.
 
@@ -563,7 +563,7 @@ Kim Kardashian; the host says she released video receipts of the Kanye and Swift
 
 ---
 
-**N-553** Bella Hadid
+**N-548** Bella Hadid
 
 Bella Hadid; named as the sister of Anwar Hadid.
 
@@ -651,7 +651,7 @@ Existing topic reused for claims about the cease and desist letter and the host'
 
 ---
 
-**N-896** Tree Paine
+**N-889** Tree Paine
 
 First named by the host at 00:24:22 in episode 61 (as 'Tree', Taylor Swift's publicist/agent). Surname inferred; the transcript gives only the first name.
 
@@ -661,7 +661,7 @@ Aliases: Tree
 
 ---
 
-**N-897** Marc Anthony
+**N-890** Marc Anthony
 
 First named by the host at 00:43:16 in episode 61 (transcribed 'Mark Anthony'). Singer the host says performed the late-night set at the Beckham wedding.
 
@@ -671,7 +671,7 @@ Aliases: Mark Anthony
 
 ---
 
-**N-898** Marty Singer
+**N-891** Marty Singer
 
 First named by the host at 00:49:30 in episode 61. Lawyer the host says Nicola Peltz hired to sue a dog-grooming company.
 
@@ -679,7 +679,7 @@ First named by the host at 00:49:30 in episode 61. Lawyer the host says Nicola P
 
 ---
 
-**N-899** Nelson Peltz
+**N-892** Nelson Peltz
 
 First named by the host at 00:51:35 in episode 61 (transcribed 'Nelson Pelts'). Father of Nicola Peltz; the host says he sued over a wedding contract.
 
@@ -689,7 +689,7 @@ Aliases: Nelson Pelts
 
 ---
 
-**N-900** Justin Anderson
+**N-893** Justin Anderson
 
 First named by the host at 00:50:27 in episode 61. Hair stylist the host says called Nicola Peltz awful.
 
@@ -697,7 +697,7 @@ First named by the host at 00:50:27 in episode 61. Hair stylist the host says ca
 
 ---
 
-**N-901** Selena Gomez
+**N-894** Selena Gomez
 
 First named by the host at 00:51:35 in episode 61. The host says her friendship with Nicola Peltz fell apart.
 
@@ -705,7 +705,7 @@ First named by the host at 00:51:35 in episode 61. The host says her friendship 
 
 ---
 
-**N-902** Anwar Hadid
+**N-895** Anwar Hadid
 
 First named by the host at 00:51:35 in episode 61 (transcribed 'Anoir Hadid'). The host says he dated Nicola Peltz.
 
@@ -859,7 +859,7 @@ Claim Timestamp: 00:04:39
 Claim: Tim Dylan stated on-air that TPUSA is primarily motivated by money – specifically, that they are "mad" because Owens told her audience not to give TPUSA money.
 
 Anchored Artifacts: A-1662.1
-Mentions: N-283
+Mentions: N-281
 
 Related Nodes: N-10432, N-10433
 
@@ -874,7 +874,7 @@ Claim Timestamp: 00:04:39–00:06:17
 Claim: Owens adopts Tim Dylon's assessment that TPUSA's principal concern is money/revenue, citing the cease and desist as confirmation.
 
 Anchored Artifacts: A-1661.1, A-1662.1
-Mentions: N-283, N-3
+Mentions: N-281, N-3
 
 Related Nodes: N-10432, N-10433
 
@@ -932,7 +932,7 @@ Claim Timestamp: 00:34:18
 Claim: Brooklyn Beckham, via Instagram Stories, states "I do not want to reconcile with my family."
 
 Anchored Artifacts: A-1663.1
-Mentions: N-491, N-493
+Mentions: N-486, N-488
 
 
 Investigative Direction: Obtain the original Stories frames before deletion if preservation has not yet occurred.
@@ -946,7 +946,7 @@ Claim Timestamp: 00:36:14–00:37:33
 Claim: Brooklyn Beckham alleges that his mother cancelled making Nicola Peltz's dress shortly before the wedding, forcing an urgent replacement.
 
 Anchored Artifacts: A-1663.1
-Mentions: N-491, N-492, N-493
+Mentions: N-486, N-487, N-488
 
 
 Investigative Direction: Obtain any contemporaneous communications or receipts relevant to the dress commission timeline.
@@ -960,7 +960,7 @@ Claim Timestamp: 00:36:14–00:37:33
 Claim: Brooklyn Beckham alleges that his parents "repeatedly pressured and attempted to bribe me into signing away the rights to my name" before his wedding.
 
 Anchored Artifacts: A-1663.1
-Mentions: N-491, N-493, N-494
+Mentions: N-486, N-488, N-489
 
 
 Investigative Direction: Identify and obtain any proposed trademark or brand-rights agreements between Beckham family entities and Brooklyn Beckham dated to the wedding window.
@@ -974,7 +974,7 @@ Claim Timestamp: 00:38:22
 Claim: Brooklyn Beckham alleges his mother called him "evil" because he and Nicola chose to seat their nannies' widowed grandparents at the head table.
 
 Anchored Artifacts: A-1663.1
-Mentions: N-491, N-493
+Mentions: N-486, N-488
 
 
 Investigative Direction: Identify any wedding guests who can corroborate or rebut the alleged remark.
@@ -988,7 +988,7 @@ Claim Timestamp: 00:40:27–00:41:23
 Claim: Brooklyn Beckham alleges that his mother, called to the stage by Marc Anthony, hijacked what had been planned as his romantic first dance with Nicola.
 
 Anchored Artifacts: A-1663.1, A-1664.1
-Mentions: N-491, N-493
+Mentions: N-486, N-488
 
 
 Investigative Direction: Compare the IG-stories allegation against the Vogue article's documented dance sequence, which describes a separate first dance to "Only Fools Rush In" preceding the alleged late-night incident.
@@ -1002,7 +1002,7 @@ Claim Timestamp: 00:42:09–00:43:16
 Claim: The Vogue wedding article reports that the first dance between Brooklyn and Nicola was to "Only Fools Rush In," performed by South African artist Lizo.
 
 Anchored Artifacts: A-1664.1
-Mentions: N-491, N-492, N-493, N-494
+Mentions: N-486, N-487, N-488, N-489
 
 
 Investigative Direction: Cross-reference with the original Vogue article text and any available wedding video.
@@ -1016,7 +1016,7 @@ Claim Timestamp: 00:42:09–00:43:16
 Claim: The Vogue wedding article reports that Marc Anthony took over the DJ decks at 11 p.m. to close out the wedding celebrations.
 
 Anchored Artifacts: A-1664.1
-Mentions: N-491, N-492
+Mentions: N-486, N-487
 
 
 Investigative Direction: Verify the 11 p.m. start time against any video of Marc Anthony's set, and identify any contemporaneous social media posts by attendees.
@@ -1030,7 +1030,7 @@ Claim Timestamp: 00:28:30–00:29:09
 Claim: Taylor Swift texted Blake Lively in early December 2024 stating, regarding the impending New York Times piece on Baldoni, "I think he knows something is coming because he's got out his tiny violin."
 
 Anchored Artifacts: A-1665.1
-Mentions: N-495, N-496, N-497
+Mentions: N-490, N-491, N-492
 
 
 Investigative Direction: Obtain the full unredacted text thread exhibits from the Baldoni–Lively litigation docket.
@@ -1044,7 +1044,7 @@ Claim Timestamp: 00:29:09
 Claim: Sony executives described Blake Lively as a "terrorist" in text messages supporting Justin Baldoni's account.
 
 Anchored Artifacts: A-1665.1
-Mentions: N-495, N-496
+Mentions: N-490, N-491
 
 
 Investigative Direction: Obtain the specific Sony executive text-message exhibits from the litigation record.
@@ -1136,7 +1136,7 @@ Claim Timestamp: 00:08:25
 
 Claim: The host says she had an 'open book' discussion with Erika Kirk and Justin Streiff, and that TPUSA's position is that she should afterwards have publicly said they were amazing.
 
-Transcript Snippet: I sat down with Erika and Justin Strife, but that I was supposed to come out and say they're amazing
+Transcript Snippet: I sat down with Erika and Justin Streiff, but that I was supposed to come out and say they're amazing
 
 Anchored Artifacts: A-1661.1
 Mentions: N-3, N-2, N-15
@@ -1267,7 +1267,7 @@ Claim: The host says Brian Harpole, Andrew Kolvet and TPUSA's lawyer each gave d
 Transcript Snippet: They have conflicting answers about the drones. Brian Harpole says this, Andrew Kovette says this, their lawyer says that.
 
 Anchored Artifacts: A-1661.1
-Mentions: N-3, N-272, N-14
+Mentions: N-3, N-270, N-14
 Related Nodes: N-10267, N-10427
 Tags: relevance:core
 Investigative Direction: Compile each TPUSA statement on drones with its date and speaker and compare them side by side.
@@ -1283,7 +1283,7 @@ Claim: The host says Erika Kirk came out and said she had Charlie's phone and he
 Transcript Snippet: "Charlie, I had his phone. He never said the night before that he was afraid he was gonna die."
 
 Anchored Artifacts: A-1661.1
-Mentions: N-2, N-1, N-242
+Mentions: N-2, N-1, N-241
 Related Nodes: N-10340
 Tags: relevance:core
 Investigative Direction: Obtain the Erika Kirk interview with Glenn Beck and the exact words used about Charlie's night-before messages.
@@ -1299,7 +1299,7 @@ Claim: The host says that after Erika Kirk's statement, TPUSA told her that Char
 Transcript Snippet: Yeah. No, he did. I didn't know cuz it was in a special, you know, app. Yeah. He also messaged Dan Fly.
 
 Anchored Artifacts: A-1661.1
-Mentions: N-1, N-2, N-276, N-3
+Mentions: N-1, N-2, N-274, N-3
 Related Nodes: N-10340
 Supports: C-6778
 Contradicts: C-11126
@@ -1494,7 +1494,7 @@ Claim: The host says her book Make Him a Sandwich has a whole chapter documentin
 Transcript Snippet: If you guys have my book, Make Him a Sandwich, I have a whole chapter on Taylor Swift just documenting the things that she does.
 
 Anchored Artifacts: 
-Mentions: N-3, N-497
+Mentions: N-3, N-492
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Check the book chapter text for the claims about Swift referenced here.
@@ -1510,7 +1510,7 @@ Claim: The host says Swift's publicist, 'Tree,' told her to cut that friend off 
 Transcript Snippet: Tree, her agent, is like, "Nope, cut that friend off. We're going to save you."
 
 Anchored Artifacts: A-1665.1
-Mentions: N-3, N-497, N-495, N-896
+Mentions: N-3, N-492, N-490, N-889
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Look for reporting or court exhibits showing Swift's team's communications with Lively's team.
@@ -1526,7 +1526,7 @@ Claim: The host says Kanye West had video of his call with Taylor Swift about th
 Transcript Snippet: turns out that Kanye had video of it and Kim Kardashian, who I don't even like, just started dropping the receipts.
 
 Anchored Artifacts: 
-Mentions: N-3, N-27, N-366, N-497
+Mentions: N-3, N-27, N-363, N-492
 Tags: relevance:tangential
 Investigative Direction: Review the 2020 call footage released by Kim Kardashian and Swift's public statements.
 
@@ -1541,7 +1541,7 @@ Claim: The host says Swift's statement asked 'where is the video of Kanye tellin
 Transcript Snippet: where is the video of Kanye telling me that he was going to call me that in his song?
 
 Anchored Artifacts: 
-Mentions: N-3, N-497, N-27
+Mentions: N-3, N-492, N-27
 Tags: relevance:tangential
 Investigative Direction: Compare Swift's 2016 statement text with the released call footage.
 
@@ -1556,7 +1556,7 @@ Claim: The host says Swift's released messages show she knew Blake Lively was go
 Transcript Snippet: And she knew that Blake Lively was going to file um that sexual harassment complaints to get these publishing rights, take over the movie.
 
 Anchored Artifacts: A-1665.1
-Mentions: N-3, N-497, N-495, N-496
+Mentions: N-3, N-492, N-490, N-491
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Review the message exhibits in the Lively and Baldoni docket for what Swift was told and when.
@@ -1572,7 +1572,7 @@ Claim: The host says that while Swift was on her way to the apartment, Blake Liv
 Transcript Snippet: Blake did text her over the script, the scene that she wanted to be replaced.
 
 Anchored Artifacts: A-1665.1
-Mentions: N-3, N-497, N-495
+Mentions: N-3, N-492, N-490
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Review the message exhibits for the timing and wording of the Lively to Swift script texts.
@@ -1588,7 +1588,7 @@ Claim: The host says Swift's messages joked that Baldoni would be smart not to l
 Transcript Snippet: this is basically going to give us an effective majority if Taylor Swift is involved because Taylor Swift has a lot of fans.
 
 Anchored Artifacts: A-1665.1
-Mentions: N-3, N-497, N-495, N-496
+Mentions: N-3, N-492, N-490, N-491
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Locate the specific message exhibit containing the joke about Swift's fans.
@@ -1604,7 +1604,7 @@ Claim: The host says it was known that Justin Baldoni ended up in a hospital bec
 Transcript Snippet: We knew that he ended up in a hospital. He was so stressed out by everything.
 
 Anchored Artifacts: A-1665.1
-Mentions: N-3, N-496
+Mentions: N-3, N-491
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Look for public reporting or filings about Baldoni's hospitalization.
@@ -1620,7 +1620,7 @@ Claim: The host says Brooklyn Beckham does not speak to his two brothers, his 14
 Transcript Snippet: Brooklyn Beckham doesn't speak to his two brothers. He doesn't speak to his sister who's 14 by the way.
 
 Anchored Artifacts: A-1663.1
-Mentions: N-3, N-491
+Mentions: N-3, N-486
 Related Nodes: N-11289
 Tags: relevance:tangential
 Investigative Direction: Check public reporting on the Beckham family unfollows and blocks.
@@ -1636,7 +1636,7 @@ Claim: The host says Nicola Peltz allegedly wanted Victoria Beckham to design he
 Transcript Snippet: Nicola wanted her dress allegedly to be designed by Victoria Beckham.
 
 Anchored Artifacts: A-1663.1
-Mentions: N-3, N-492, N-493
+Mentions: N-3, N-487, N-488
 Related Nodes: N-11289
 Tags: relevance:tangential
 Investigative Direction: Check reporting on the dress designer and the 2022 wedding.
@@ -1652,7 +1652,7 @@ Claim: The host says that last August Brooklyn and Nicola held a secondary weddi
 Transcript Snippet: Last August he decided to have a secondary wedding without any of the Beckhams.
 
 Anchored Artifacts: A-1663.1
-Mentions: N-3, N-491, N-492
+Mentions: N-3, N-486, N-487
 Related Nodes: N-11289
 Tags: relevance:tangential
 Investigative Direction: Check reporting on the vow renewal and its guest list.
@@ -1668,7 +1668,7 @@ Claim: The host says someone produced a receipt showing Nicola Peltz's dress had
 Transcript Snippet: Somebody then pulled up a receipt and her dress was in the making for a year.
 
 Anchored Artifacts: A-1663.1
-Mentions: N-3, N-491, N-492, N-493
+Mentions: N-3, N-486, N-487, N-488
 Related Nodes: N-11289
 Contradicts: C-2172
 Tags: relevance:tangential
@@ -1685,7 +1685,7 @@ Claim: According to Brooklyn Beckham's stories as read, his parents were adamant
 Transcript Snippet: He said they were adamant on me signing before my wedding date.
 
 Anchored Artifacts: A-1663.1
-Mentions: N-3, N-491, N-493, N-494
+Mentions: N-3, N-486, N-488, N-489
 Related Nodes: N-11289
 Tags: relevance:tangential
 Investigative Direction: Identify the agreement, the parties and any payment terms tied to the name rights.
@@ -1701,7 +1701,7 @@ Claim: According to Brooklyn Beckham's stories as read, both sets of parents had
 Transcript Snippet: Both of our parents had their own table equally adjacent to ours.
 
 Anchored Artifacts: A-1663.1
-Mentions: N-3, N-491
+Mentions: N-3, N-486
 Related Nodes: N-11289
 Tags: relevance:tangential
 Investigative Direction: Review wedding seating plans or guest accounts.
@@ -1717,7 +1717,7 @@ Claim: According to Brooklyn Beckham's stories as read, the night before the wed
 Transcript Snippet: The night before our wedding, members of my family told me that Nicola was not blood and not family.
 
 Anchored Artifacts: A-1663.1
-Mentions: N-3, N-491, N-492
+Mentions: N-3, N-486, N-487
 Related Nodes: N-11289
 Tags: relevance:tangential
 Investigative Direction: Find guests who could confirm or rebut the alleged remarks.
@@ -1733,7 +1733,7 @@ Claim: According to Brooklyn Beckham's stories as read, his parents sent endless
 Transcript Snippet: I've received endless attacks from my parents both privately and publicly that were sent to the press on their orders. No evidence of that.
 
 Anchored Artifacts: A-1663.1
-Mentions: N-3, N-491
+Mentions: N-3, N-486
 Related Nodes: N-11289
 Tags: relevance:tangential
 Investigative Direction: Identify the press items and social posts Brooklyn refers to.
@@ -1749,7 +1749,7 @@ Claim: According to Brooklyn Beckham's stories as read, in front of 500 wedding 
 Transcript Snippet: she danced very inappropriately on me in front of everyone.
 
 Anchored Artifacts: A-1663.1
-Mentions: N-3, N-491, N-493
+Mentions: N-3, N-486, N-488
 Related Nodes: N-11289
 Tags: relevance:tangential
 Investigative Direction: Review any wedding video of the dance.
@@ -1765,7 +1765,7 @@ Claim: The host says the Vogue article shows the couple had multiple dances and 
 Transcript Snippet: I'll tell you what's going on, guys. This was actually their third dance.
 
 Anchored Artifacts: A-1664.1
-Mentions: N-3, N-491, N-493
+Mentions: N-3, N-486, N-488
 Related Nodes: N-11289
 Contradicts: C-2175
 Tags: relevance:tangential
@@ -1782,7 +1782,7 @@ Claim: According to the Vogue article as read, speeches came from Brooklyn, the 
 Transcript Snippet: In addition to traditional speeches, including those from Brooklyn, best men, his brothers, Romeo and Cruz, the father of the groom, David Beckham, delivered a heartfelt tribute
 
 Anchored Artifacts: A-1664.1
-Mentions: N-3, N-491, N-494
+Mentions: N-3, N-486, N-489
 Related Nodes: N-11289
 Tags: relevance:tangential
 Investigative Direction: Check the Vogue article text for the speeches paragraph.
@@ -1798,7 +1798,7 @@ Claim: The host says that according to people at the wedding, there was a first 
 Transcript Snippet: they had their first dance and then she had a dance with her father and then her and Brooklyn had some other dance and then late night started at 11:00 p. m.
 
 Anchored Artifacts: A-1664.1
-Mentions: N-3, N-491, N-492
+Mentions: N-3, N-486, N-487
 Related Nodes: N-11289
 Tags: relevance:tangential
 Investigative Direction: Identify the attendees and any video that establishes the order.
@@ -1814,7 +1814,7 @@ Claim: The host says she does not doubt that Marc Anthony announced 'the most be
 Transcript Snippet: Mark Anthony said, "Now inviting the most beautiful woman to the floor." And then he said, "Victoria Beckham."
 
 Anchored Artifacts: A-1664.1
-Mentions: N-3, N-897, N-493
+Mentions: N-3, N-890, N-488
 Related Nodes: N-11289
 Supports: C-2175
 Tags: relevance:tangential
@@ -1831,7 +1831,7 @@ Claim: According to Brooklyn Beckham's stories as read, his mother repeatedly in
 Transcript Snippet: My mom has repeatedly invited women from my past into our lives in ways that clearly were intended to make us both uncomfortable.
 
 Anchored Artifacts: A-1663.1
-Mentions: N-3, N-491, N-493
+Mentions: N-3, N-486, N-488
 Related Nodes: N-11289
 Tags: relevance:tangential
 Investigative Direction: Identify the woman and the events referred to.
@@ -1847,7 +1847,7 @@ Claim: According to Brooklyn Beckham's stories as read, they traveled to London 
 Transcript Snippet: we still traveled to London for my dad's birthday and we were rejected for a week as we waited in in our hotel room trying to plan quality time with him.
 
 Anchored Artifacts: A-1663.1
-Mentions: N-3, N-491, N-494, N-492
+Mentions: N-3, N-486, N-489, N-487
 Related Nodes: N-11289
 Tags: relevance:tangential
 Investigative Direction: Check reporting on the timing of David Beckham's 50th birthday and the family's London schedule.
@@ -1863,7 +1863,7 @@ Claim: According to Brooklyn Beckham's stories as read, the one time Nicola aske
 Transcript Snippet: But the one time that my wife asked for my mom's support to save displaced dogs during the LA fires, my mom refused.
 
 Anchored Artifacts: A-1663.1
-Mentions: N-3, N-491, N-493, N-492
+Mentions: N-3, N-486, N-488, N-487
 Related Nodes: N-11289
 Tags: relevance:tangential
 Investigative Direction: Identify Nicola's LA fire dog effort and any request made to Victoria Beckham.
@@ -1879,7 +1879,7 @@ Claim: The host says Brooklyn apparently sent his family a legal letter saying t
 Transcript Snippet: He apparently sent his family uh maybe a cease and desist, whatever you want to call it, a legal letter telling them
 
 Anchored Artifacts: A-1663.1
-Mentions: N-3, N-491
+Mentions: N-3, N-486
 Related Nodes: N-11289
 Tags: relevance:tangential
 Investigative Direction: Look for reporting on the legal letter and its sender.
@@ -1895,7 +1895,7 @@ Claim: The host says Nicola Peltz hired Marty Singer to sue a small mobile dog-g
 Transcript Snippet: she hired Marty Singer to sue this little company because her Chihuahua died.
 
 Anchored Artifacts: A-3119.1
-Mentions: N-3, N-492, N-898
+Mentions: N-3, N-487, N-891
 Related Nodes: N-11290
 Tags: relevance:tangential
 Investigative Direction: Obtain the complaint and docket in the grooming company lawsuit.
@@ -1911,7 +1911,7 @@ Claim: The host says the dog's autopsy showed fluid on the brain, which she says
 Transcript Snippet: They got the autopsy. It turns out the dog had what Chihuahua get a lot of, which is fluid in the brains in the brain.
 
 Anchored Artifacts: A-3119.1
-Mentions: N-3, N-492
+Mentions: N-3, N-487
 Related Nodes: N-11290
 Tags: relevance:tangential
 Investigative Direction: Obtain the autopsy report from the court file.
@@ -1927,7 +1927,7 @@ Claim: The host says Nicola Peltz went through three different wedding contracts
 Transcript Snippet: She went through three different wedding contracts. One of which her father sued and they sued back
 
 Anchored Artifacts: 
-Mentions: N-3, N-492, N-899
+Mentions: N-3, N-487, N-892
 Related Nodes: N-11289
 Tags: relevance:tangential
 Investigative Direction: Search court dockets for the wedding contract suits involving Nelson Peltz.
@@ -1943,7 +1943,7 @@ Claim: The host says Nicola Peltz's hair stylist from the Transformers movie, Ju
 Transcript Snippet: Her hair stylist from when her dad put her in the Transformers movie, Justin Anderson, said she's awful.
 
 Anchored Artifacts: 
-Mentions: N-3, N-492, N-900
+Mentions: N-3, N-487, N-893
 Tags: relevance:tangential
 Investigative Direction: Locate Anderson's original statement and its context.
 
@@ -1958,7 +1958,7 @@ Claim: The host says Nicola Peltz's relationship with Selena Gomez has fallen ap
 Transcript Snippet: Her relationship with Selena Gomez has fallen apart.
 
 Anchored Artifacts: 
-Mentions: N-3, N-492, N-901
+Mentions: N-3, N-487, N-894
 Tags: relevance:tangential
 Investigative Direction: Check public reporting on the Peltz and Gomez friendship.
 
@@ -1973,7 +1973,7 @@ Claim: The host says Nicola Peltz was dating Anwar Hadid, that he stopped talkin
 Transcript Snippet: She was dating Anoir Hadid, Bella Hadid's brother
 
 Anchored Artifacts: 
-Mentions: N-3, N-492, N-902, N-553
+Mentions: N-3, N-487, N-895, N-548
 Tags: relevance:tangential
 Investigative Direction: Check reporting on the relationship and the Hadid family's reaction.
 
@@ -1988,7 +1988,7 @@ Claim: The host says David Beckham stood up at a dinner with no cameras and gave
 Transcript Snippet: But he stood up at this dinner. And he gave a toast. You should know this, Brooklyn, cuz there were no cameras there.
 
 Anchored Artifacts: 
-Mentions: N-3, N-494, N-491
+Mentions: N-3, N-489, N-486
 Related Nodes: N-11289
 Tags: relevance:tangential
 Investigative Direction: Ask the host for the date, venue and who was present.

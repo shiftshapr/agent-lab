@@ -461,7 +461,7 @@
           "@type": "Artifact",
           "@id": "A-2516.2",
           "ref": "A-2516.2",
-          "description": "Host statement that Netanyahu appeared on Patrick Bet-David's, Brendan Tatum's and the Nelk Boys' podcasts but not the Charlie Kirk Show (verbal reference; no displayed artifact)",
+          "description": "Host statement that Netanyahu appeared on Patrick Bet-David's, Brandon Tatum's and the Nelk Boys' podcasts but not the Charlie Kirk Show (verbal reference; no displayed artifact)",
           "related_claims": [
             "C-3722"
           ],
@@ -474,7 +474,7 @@
           ],
           "tags": [],
           "video_timestamp": "00:57:59–00:58:24",
-          "transcript_snippet": "He went on to Brendan Tatum's podcast. He went on to the Nel Boys podcast.",
+          "transcript_snippet": "He went on to Brandon Tatum's podcast. He went on to the Nel Boys podcast.",
           "confidence": "medium"
         },
         {
@@ -863,7 +863,7 @@
       "@type": "Person",
       "@id": "N-58",
       "ref": "N-58",
-      "name": "Brendan Tatum",
+      "name": "Brandon Tatum",
       "type": "person",
       "description": "Podcaster Netanyahu appeared on.",
       "related_artifacts": [
@@ -2061,7 +2061,7 @@
       "@id": "C-3722",
       "ref": "C-3722",
       "label": "Netanyahu podcast blitz skipped the Charlie Kirk Show",
-      "claim": "The host says Netanyahu did a podcast blitz in America, appearing on Patrick Bet-David's, Brendan Tatum's and the Nelk Boys' podcasts, and asks why he did not appear on the Charlie Kirk Show.",
+      "claim": "The host says Netanyahu did a podcast blitz in America, appearing on Patrick Bet-David's, Brandon Tatum's and the Nelk Boys' podcasts, and asks why he did not appear on the Charlie Kirk Show.",
       "anchored_artifacts": [
         "A-2516.2"
       ],
@@ -2069,7 +2069,7 @@
       "tags": [],
       "claim_timestamp": "00:58:04",
       "investigative_direction": "Build a timeline of Netanyahu's 2025 US podcast appearances and any Charlie Kirk Show invitation.",
-      "transcript_snippet": "He went on to Brendan Tatum's podcast. He went on to the Nel Boys podcast.",
+      "transcript_snippet": "He went on to Brandon Tatum's podcast. He went on to the Nel Boys podcast.",
       "confidence": "medium",
       "mentions_person_refs": [
         "N-1",

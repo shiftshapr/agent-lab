@@ -147,7 +147,7 @@
             "C-4615"
           ],
           "related_nodes": [
-            "N-695",
+            "N-689",
             "N-10678"
           ],
           "tags": [],
@@ -195,7 +195,7 @@
           "related_nodes": [
             "N-46",
             "N-7",
-            "N-696"
+            "N-690"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -441,8 +441,8 @@
             "C-4652"
           ],
           "related_nodes": [
-            "N-424",
-            "N-420"
+            "N-420",
+            "N-416"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -846,8 +846,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-265",
+      "ref": "N-265",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Transcript spellings \"Terrell\", \"Taral\" and \"Tara Farnsworth\". Removed the SD card from the camera behind Charlie Kirk's head; seen in the background of Erika Kirk's Zoom call.",
@@ -867,8 +867,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-284",
-      "ref": "N-284",
+      "@id": "N-282",
+      "ref": "N-282",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Interviewer to whom Erika Kirk said she believes Tyler Robinson acted alone.",
@@ -884,8 +884,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-420",
-      "ref": "N-420",
+      "@id": "N-416",
+      "ref": "N-416",
       "name": "Zachariah Karashy",
       "type": "person",
       "description": "Transcript spellings \"Zachariah Qureshi\" and \"Sam Qureshi\"; \"decoy boy number two.\" Long-time friend of Connor Henderson.",
@@ -904,8 +904,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-420",
+      "ref": "N-420",
       "name": "Connor Henderson",
       "type": "person",
       "description": "Transcript spelling also \"Conor\". The host says he interned in the Timpanogos emergency department.",
@@ -924,8 +924,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-694",
-      "ref": "N-694",
+      "@id": "N-688",
+      "ref": "N-688",
       "name": "Don Porter",
       "type": "person",
       "description": "First named by the host at 00:02:16 in episode 116. Friend of Corey Comperatore whose leads the host credits for her prior Butler episode.",
@@ -941,8 +941,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-695",
-      "ref": "N-695",
+      "@id": "N-689",
+      "ref": "N-689",
       "name": "Jon Bray",
       "type": "person",
       "description": "First named by the host at 00:03:00 in episode 116. X user the host credits with first positing the exploding-microphone theory. Aliases: John Braden; John Blake.",
@@ -962,8 +962,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-696",
-      "ref": "N-696",
+      "@id": "N-690",
+      "ref": "N-690",
       "name": "Spencer (Frank Turek's son)",
       "type": "person",
       "description": "First named at 00:37:19 in episode 116, in Frank Turek's Megyn Kelly clip. The 35-year-old son Turek says he was FaceTiming during the event.",
@@ -1711,7 +1711,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-267",
+        "N-265",
         "N-10000"
       ]
     },
@@ -1817,7 +1817,7 @@
       "investigative_direction": "Confirm Don Porter's relationship to Corey Comperatore and review the materials he provided.",
       "transcript_snippet": "It was Corey Comparators a friend who refused to let the circumstances go regarding the Butler assassination. He's actually the one that reached out to me and put together various pieces and leads for me to chase down.",
       "mentions_person_refs": [
-        "N-694",
+        "N-688",
         "N-106",
         "N-3"
       ]
@@ -1838,7 +1838,7 @@
       "investigative_direction": "Locate Jon Bray's X posts on the theory and their earliest dates.",
       "transcript_snippet": "It was a theory that was at first posited by an ex-user named John Bray and you should go down that rabbit hole. He has done so much work on this. Really truly he has worked on this since September.",
       "mentions_person_refs": [
-        "N-695",
+        "N-689",
         "N-1",
         "N-3"
       ]
@@ -1920,7 +1920,7 @@
       "investigative_direction": "Consult explosives experts on whether a microphone-sized shaped charge could produce the observed wound.",
       "transcript_snippet": "This would be what is known as a shaped charge. I've learned this recently, and John Braden was trying to explain it to me on X",
       "mentions_person_refs": [
-        "N-695",
+        "N-689",
         "N-1"
       ]
     },
@@ -2084,7 +2084,7 @@
       "investigative_direction": "Obtain Terrell Farnsworth's statements on when and with whom he discussed the footage.",
       "transcript_snippet": "it is now very compelling to me that Terrell says he spoke to Erika about that footage.",
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-2",
         "N-1"
       ]
@@ -2107,7 +2107,7 @@
         "C-2220"
       ],
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-2",
         "N-1"
       ]
@@ -2190,7 +2190,7 @@
       "investigative_direction": "Establish who instructed the SD card removal and its chain of custody.",
       "transcript_snippet": "why Tara Farnsworth was instructed specifically to take the SD card from the camera that was behind Charlie's head",
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-1"
       ]
     },
@@ -2209,7 +2209,7 @@
       "investigative_direction": "Obtain the original SD card file and compare its frame with what was shown to the host.",
       "transcript_snippet": "I think you are correct that he zoomed in on that that footage because it would have showed us more.",
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-3"
       ]
     },
@@ -2231,7 +2231,7 @@
       "investigative_direction": "Have the SUV shards forensically analyzed or obtain any FBI evidence log of debris recovered from the vehicle.",
       "transcript_snippet": "he said that my video was the missing piece to his theory that he was looking for what would have been shards of the ABS plastic that is used on the road bike.",
       "mentions_person_refs": [
-        "N-695",
+        "N-689",
         "N-3",
         "N-1"
       ]
@@ -2349,7 +2349,7 @@
       "investigative_direction": "Review the CBS town hall transcript for the exact question and answer.",
       "transcript_snippet": "Bari Weiss, do you believe it? Yes. Do you believe Tyler Robinson actually alone? Yes, I do. That's what she said.",
       "mentions_person_refs": [
-        "N-284",
+        "N-282",
         "N-2",
         "N-40"
       ]
@@ -2555,7 +2555,7 @@
       "mentions_person_refs": [
         "N-7",
         "N-46",
-        "N-696",
+        "N-690",
         "N-1"
       ]
     },
@@ -2596,7 +2596,7 @@
       "investigative_direction": "Request TPUSA's streaming platform logs for the September 10 event.",
       "transcript_snippet": "I've asked people at Turning Point USA, \"Do you remember seeing this live stream?\" Thus far, no one has confirmed watching this live stream at the office.",
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-1"
       ]
     },
@@ -3005,8 +3005,8 @@
         "C-2634"
       ],
       "mentions_person_refs": [
-        "N-424",
         "N-420",
+        "N-416",
         "N-42",
         "N-1"
       ]
@@ -3033,8 +3033,8 @@
         "C-2638"
       ],
       "mentions_person_refs": [
-        "N-420",
-        "N-424"
+        "N-416",
+        "N-420"
       ]
     }
   ],

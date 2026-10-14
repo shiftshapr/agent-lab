@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Reused Nodes Appearing: N-10814, N-10815, N-10816
  - New Nodes Introduced: N-10814, N-10815, N-10816
- - Reused Nodes Appearing: none (Wave 2: local ids removed), N-495
+ - Reused Nodes Appearing: none (Wave 2: local ids removed), N-490
  - (see registers)
 
 ---
@@ -257,7 +257,7 @@ Claim Timestamp: 00:13:27
 Claim: The host encountered Justin Baldoni, his wife, and two children at an Iceland airport during a layover from Sweden; the encounter is documented by an on-screen photograph.
 
 Anchored Artifacts: A-2310.1
-Mentions: N-496
+Mentions: N-491
 Related Nodes:
 Investigative Direction: Independent corroboration of the encounter is achievable via flight manifests or third-party witnesses.
 
@@ -270,7 +270,7 @@ Claim Timestamp: 00:14:29
 Claim: Justin Baldoni informed the host he was on a layover from Sweden, where his wife is from, when the encounter occurred.
 
 Anchored Artifacts: A-2310.1
-Mentions: N-496
+Mentions: N-491
 Related Nodes:
 Investigative Direction: Verify via flight records or independent statements from Baldoni or his representatives.
 
@@ -435,7 +435,7 @@ Claim Timestamp: 00:17:34
 Claim: The CCRD complaint filed by Blake Lively included the allegation that Jamie Heath approached Lively on set and began playing a video of a "fully nude woman with her legs spread apart," which Lively interpreted as pornography.
 
 Anchored Artifacts: A-2319.1
-Mentions: N-495
+Mentions: N-490
 Related Nodes:
 Investigative Direction: Obtain the full CCRD filing; verify the quoted passage in original context.
 
@@ -448,7 +448,7 @@ Claim Timestamp: 00:17:34
 Claim: Host asserts that further into the same filing, the video in question was identified as a birthing video shown to Lively to prepare her for a birthing scene.
 
 Anchored Artifacts: A-2319.1
-Mentions: N-495
+Mentions: N-490
 Related Nodes:
 Investigative Direction: Verify by reading the full CCRD filing; compare to subsequent court filings.
 

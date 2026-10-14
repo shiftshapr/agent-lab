@@ -132,8 +132,8 @@
             "C-2322"
           ],
           "related_nodes": [
-            "N-562",
-            "N-504",
+            "N-557",
+            "N-499",
             "N-10492"
           ],
           "tags": [],
@@ -161,7 +161,7 @@
             "C-2324"
           ],
           "related_nodes": [
-            "N-283",
+            "N-281",
             "N-2"
           ],
           "tags": [],
@@ -333,8 +333,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-562",
-      "ref": "N-562",
+      "@id": "N-557",
+      "ref": "N-557",
       "name": "Aubrey Lech",
       "type": "person",
       "description": "Former TPUSA public relations manager; spoke publicly about termination process in self-published video. Artifact-backed person new to the series record.",
@@ -353,14 +353,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-504",
+        "N-499",
         "N-10492"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-504",
-      "ref": "N-504",
+      "@id": "N-499",
+      "ref": "N-499",
       "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "Identified on-air as CMO of Turning Point USA; named by Aubrey Lech as present at her termination meeting.",
@@ -376,13 +376,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-562"
+        "N-557"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-283",
-      "ref": "N-283",
+      "@id": "N-281",
+      "ref": "N-281",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Comedian / podcaster; artifact-backed on-air clip commenting on Erika Kirk and political performance.",
@@ -425,8 +425,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-562",
-        "N-504"
+        "N-557",
+        "N-499"
       ]
     },
     {
@@ -764,8 +764,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-276",
-      "ref": "N-276",
+      "@id": "N-274",
+      "ref": "N-274",
       "name": "Dan Flood",
       "type": "person",
       "description": "Person the host says she warned Charlie Kirk about and who received his night-before text.",
@@ -890,8 +890,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-319",
-      "ref": "N-319",
+      "@id": "N-316",
+      "ref": "N-316",
       "name": "Pierre Falcone",
       "type": "person",
       "description": "The host guesses that the donor Pierre is Pierre Falcone ('Falconee' in the transcript).",
@@ -907,8 +907,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-747",
-      "ref": "N-747",
+      "@id": "N-741",
+      "ref": "N-741",
       "name": "Ike Perlmutter",
       "type": "person",
       "description": "Ike Perlmutter, named by the host for the Mar-a-Lago fundraising meeting (confirmed by the HappyScribe transcript of Candace Ep 303 at 00:04:58).",
@@ -1418,8 +1418,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-817",
-      "ref": "N-817",
+      "@id": "N-810",
+      "ref": "N-810",
       "name": "Don Orrico",
       "type": "person",
       "description": "Named by the host at 00:13:09 in episode 70 as a Turning Point USA contact in Tampa. Florida-based major-gifts fundraiser (formerly Mackinac Center director of strategic partnerships); TPUSA role unconfirmed.",
@@ -1594,7 +1594,7 @@
       "claim_timestamp": "00:24:02–00:28:28",
       "investigative_direction": "Verify Lech's employment dates and termination date via TPUSA / ATK records.",
       "mentions_person_refs": [
-        "N-562"
+        "N-557"
       ]
     },
     {
@@ -1613,8 +1613,8 @@
       "claim_timestamp": "00:24:02–00:28:28",
       "investigative_direction": "Identify the Turning Point executive referenced in the Uber driver conversation; verify whether the conversation occurred as described.",
       "mentions_person_refs": [
-        "N-504",
-        "N-562",
+        "N-499",
+        "N-557",
         "N-14"
       ]
     },
@@ -1634,7 +1634,7 @@
       "claim_timestamp": "00:24:02–00:28:28",
       "investigative_direction": "Compare the stated termination rationale (Uber-driver hearsay) against Lech's stated belief; seek additional former-employee testimony.",
       "mentions_person_refs": [
-        "N-562",
+        "N-557",
         "N-1"
       ]
     },
@@ -1652,8 +1652,8 @@
       "claim_timestamp": "00:24:02–00:28:28",
       "investigative_direction": "Verify Marina Munz's title and organizational role via TPUSA public records.",
       "mentions_person_refs": [
-        "N-504",
-        "N-562",
+        "N-499",
+        "N-557",
         "N-14"
       ]
     },
@@ -1671,7 +1671,7 @@
       "claim_timestamp": "00:33:22–00:35:00",
       "investigative_direction": "Identify the source episode of the Dillon clip and capture the full surrounding context.",
       "mentions_person_refs": [
-        "N-283"
+        "N-281"
       ]
     },
     {
@@ -1689,7 +1689,7 @@
       "investigative_direction": "Locate the unedited Dillon segment to determine whether the Erika line was delivered sarcastically, earnestly, or in mixed register.",
       "mentions_person_refs": [
         "N-2",
-        "N-283"
+        "N-281"
       ]
     },
     {
@@ -1807,11 +1807,11 @@
       ],
       "claim_timestamp": "00:05:03",
       "investigative_direction": "Ike Perlmutter is confirmed by the HappyScribe transcript of Candace Ep 303 (00:04:58, \"a meeting down in Florida with Ike Perlmutter at Mar-a-Lago\"). Check for records of a 2019 lunch or fundraising meeting with Charlie Kirk.",
-      "transcript_snippet": "Charlie had taken a meeting down in Florida with Ike Promoter at Mara Lago. It was a a fundraising meeting.",
+      "transcript_snippet": "Charlie had taken a meeting down in Florida with Ike Perlmutter at Mara Lago. It was a a fundraising meeting.",
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-747"
+        "N-741"
       ]
     },
     {
@@ -1833,7 +1833,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-747"
+        "N-741"
       ]
     },
     {
@@ -1879,7 +1879,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-276",
+        "N-274",
         "N-2"
       ]
     },
@@ -2116,7 +2116,7 @@
       ],
       "claim_timestamp": "00:12:18",
       "investigative_direction": "Obtain the written exchange in which Streiff denied knowing Pierre and the document the host says contradicts it.",
-      "transcript_snippet": "I now have verifiable proof in writing that Justin Strife and you lied to me.",
+      "transcript_snippet": "I now have verifiable proof in writing that Justin Streiff and you lied to me.",
       "mentions_person_refs": [
         "N-3",
         "N-15",
@@ -2196,11 +2196,11 @@
       ],
       "claim_timestamp": "00:13:09",
       "investigative_direction": "Identification as Don Orrico (Florida-based major-gifts fundraiser, formerly Mackinac Center director of strategic partnerships, Estero FL) is by name match; confirm his TPUSA role and obtain call records for the alleged calls.",
-      "transcript_snippet": "Pierre had a phone call with Justin Strife. He also had a phone call uh with Mr. Don Oro of Turning Point USA down in Tampa.",
+      "transcript_snippet": "Pierre had a phone call with Justin Streiff. He also had a phone call uh with Mr. Don Orrico of Turning Point USA down in Tampa.",
       "mentions_person_refs": [
         "N-3",
         "N-15",
-        "N-817"
+        "N-810"
       ]
     },
     {
@@ -2292,7 +2292,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-319"
+        "N-316"
       ]
     },
     {
@@ -2614,7 +2614,7 @@
       "investigative_direction": "Corroborate Lech's workload with TPUSA staff and press-office call logs, which she could produce.",
       "transcript_snippet": "My phone received hundreds of phone calls on September 10th, thousands of text messages.",
       "mentions_person_refs": [
-        "N-562"
+        "N-557"
       ]
     },
     {
@@ -2658,7 +2658,7 @@
       "transcript_snippet": "I think in the end there when she says that this was actually motivated by them going after people who they suspected were not loyal to Erika",
       "mentions_person_refs": [
         "N-3",
-        "N-562",
+        "N-557",
         "N-2"
       ]
     },
@@ -2791,7 +2791,7 @@
       ],
       "claim_timestamp": "00:39:39",
       "investigative_direction": "Same as the earlier Pierre claims: obtain the written proof and records of meetings.",
-      "transcript_snippet": "Erika and Justin Strife know exactly who Pierre is. Justin has met with Pierre. So is Erika.",
+      "transcript_snippet": "Erika and Justin Streiff know exactly who Pierre is. Justin has met with Pierre. So is Erika.",
       "supports_claim_refs": [
         "C-1815"
       ],
@@ -2903,7 +2903,7 @@
       "transcript_snippet": "they also then fired her fiance. So their entire uh income in one house was wiped out in one day.",
       "mentions_person_refs": [
         "N-3",
-        "N-562"
+        "N-557"
       ]
     },
     {
@@ -2973,7 +2973,7 @@
       "transcript_snippet": "Dan Flood and Andrew Kovette would have told her that.",
       "mentions_person_refs": [
         "N-3",
-        "N-276",
+        "N-274",
         "N-14",
         "N-2"
       ]

@@ -13,11 +13,11 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-11217, N-11218
-  - Hole-minted Nodes (reintro-ep012): N-137, N-332, N-10156, N-10180, N-10192, N-10840
+  - Hole-minted Nodes (reintro-ep012): N-137, N-329, N-10156, N-10180, N-10192, N-10840
   - Tip-minted Nodes (reintro-ep012): N-10908, N-11167
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9258–C-9323
-  - Tip-minted Nodes (reintro-ep012): N-798
+  - Tip-minted Nodes (reintro-ep012): N-792
   - New Nodes Introduced: N-133, N-134, N-135, N-10146, N-10147, N-10148, N-10149, N-10150, N-10151
   - Reused Nodes Appearing: N-40, N-42, N-60, N-98, N-127, N-10000, N-10006, N-10012, N-10025, N-10032, N-10047, N-10048, N-10056, N-10076, N-10085, N-10086, N-10094, N-10103, N-10106, N-10115, N-10141, N-10144
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:06:43–00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1328, N-61, N-133, N-798*---
+*Related: C-1328, N-61, N-133, N-792*---
 
 **A-1193** Gernot Omer LinkedIn profile
 
@@ -282,7 +282,7 @@ Confidence Level: Low
 
 ### People
 
-**N-798** Mike Lee
+**N-792** Mike Lee
 
 US Senator from Utah; first named in A-1192.2.
 
@@ -528,7 +528,7 @@ Hospital CEO and surgeon whose appointment the host says was announced just befo
 
 ---
 
-**N-332** Tim Ballard
+**N-329** Tim Ballard
 
 Former Operation Underground Railroad head; the host's source says Lyman met him in town, and she recalls interviewing him.
 
@@ -1082,7 +1082,7 @@ Claim: The host says that, according to a very strong source, Phil Lyman was in 
 Transcript Snippet: I am told according to a very strong source that what Phil Lyman was doing in town on Saturday was he was meeting with Tim Ballard.
 
 Anchored Artifacts: 
-Mentions: N-3, N-61, N-332
+Mentions: N-3, N-61, N-329
 Related Nodes: N-11167
 Tags: relevance:core
 Investigative Direction: Ask Ballard and Lyman whether they met that Saturday and for what purpose; compare with any public schedule.
@@ -1098,7 +1098,7 @@ Claim: The host says she remembers that the individuals who owned the plane with
 Transcript Snippet: the individuals that owned that plane were wearing an Operation Underground Railroad t-shirt.
 
 Anchored Artifacts: 
-Mentions: N-332, N-3
+Mentions: N-329, N-3
 Related Nodes: N-11167, N-10086
 Tags: relevance:core
 Investigative Direction: Identify the plane's owners from FAA records and find the image or report of the t-shirt that the host recalls.
@@ -1131,7 +1131,7 @@ Claim: The host says Shainer Broderick was chosen for an internship with Senator
 Transcript Snippet: chosen for an internship with Senator Mike Lee of Utah.
 
 Anchored Artifacts: A-1192.2
-Mentions: N-133, N-798, N-61
+Mentions: N-133, N-792, N-61
 Tags: relevance:context
 Investigative Direction: Confirm the internship dates with Senator Lee's office and whether the Lyman relationship was listed in the application.
 

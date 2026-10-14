@@ -1299,8 +1299,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-274",
-      "ref": "N-274",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Joe Rogan; host of the 2018 appearance Shapiro objected to.",
@@ -1316,8 +1316,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-387",
-      "ref": "N-387",
+      "@id": "N-383",
+      "ref": "N-383",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Emmanuel Macron; subject of a claim in the aired clip.",
@@ -1333,8 +1333,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-718",
-      "ref": "N-718",
+      "@id": "N-712",
+      "ref": "N-712",
       "name": "Sheldon Adelson",
       "type": "person",
       "description": "Sheldon Adelson; founder of the gambling empire the host cites.",
@@ -1350,8 +1350,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-723",
-      "ref": "N-723",
+      "@id": "N-717",
+      "ref": "N-717",
       "name": "Volodymyr Zelensky",
       "type": "person",
       "description": "Volodymyr Zelensky; listed in the aired clip.",
@@ -1757,8 +1757,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-852",
-      "ref": "N-852",
+      "@id": "N-845",
+      "ref": "N-845",
       "name": "Emma Goldman",
       "type": "person",
       "description": "First named by the host at 00:11:28 in episode 24. Historical anarchist the host credits with bringing feminism to America.",
@@ -1774,8 +1774,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-853",
-      "ref": "N-853",
+      "@id": "N-846",
+      "ref": "N-846",
       "name": "Al Goldstein",
       "type": "person",
       "description": "First named by the host at 00:12:45 in episode 24. Pornography publisher the host quotes on why Jews are in pornography.",
@@ -1791,8 +1791,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-854",
-      "ref": "N-854",
+      "@id": "N-847",
+      "ref": "N-847",
       "name": "Samuel Roth",
       "type": "person",
       "description": "First named by the host at 00:12:45 in episode 24. Publisher the host says fought in court for the decision making pornography free speech.",
@@ -1808,8 +1808,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-855",
-      "ref": "N-855",
+      "@id": "N-848",
+      "ref": "N-848",
       "name": "Magnus Hirschfeld",
       "type": "person",
       "description": "First named by the host at 00:13:28 in episode 24. Sexologist the host credits as the origin of transgenderism.",
@@ -1825,8 +1825,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-856",
-      "ref": "N-856",
+      "@id": "N-849",
+      "ref": "N-849",
       "name": "Adam Lanza",
       "type": "person",
       "description": "First named by the host at 00:45:55 in episode 24. Sandy Hook shooter the host cites in a pattern theory about standardized testing and government contact.",
@@ -2516,8 +2516,8 @@
       "transcript_snippet": "Emmanuel Macron, gay and married to a trans man who molested him when he was a child.",
       "mentions_person_refs": [
         "N-3",
-        "N-387",
-        "N-723",
+        "N-383",
+        "N-717",
         "N-82"
       ]
     },
@@ -2558,7 +2558,7 @@
       "transcript_snippet": "people like Emma Goldman on feminism. Sigmund Freud, the father of modern psychology.",
       "mentions_person_refs": [
         "N-3",
-        "N-852",
+        "N-845",
         "N-50"
       ]
     },
@@ -2580,7 +2580,7 @@
       "transcript_snippet": "The gambling empire uh is where the Adelson empire wealth comes from. Uh as are many pharmaceuticals like the Sackler family.",
       "mentions_person_refs": [
         "N-3",
-        "N-718"
+        "N-712"
       ]
     },
     {
@@ -2619,7 +2619,7 @@
       "transcript_snippet": "He's the one who notoriously said, \"The only reason that Jews are in pornography is that we think Christ sucks. Catholicism sucks.",
       "mentions_person_refs": [
         "N-3",
-        "N-853"
+        "N-846"
       ]
     },
     {
@@ -2638,7 +2638,7 @@
       "transcript_snippet": "That's because Jewish individuals in America fought for that. Samuel Roth, actually.",
       "mentions_person_refs": [
         "N-3",
-        "N-854"
+        "N-847"
       ]
     },
     {
@@ -2657,7 +2657,7 @@
       "transcript_snippet": "Transgenderism, go back and and try to figure out where that came from. Magnus Hirschfeld was the doctor and the sexologist.",
       "mentions_person_refs": [
         "N-3",
-        "N-855"
+        "N-848"
       ]
     },
     {
@@ -2766,7 +2766,7 @@
         "N-1",
         "N-97",
         "N-224",
-        "N-274"
+        "N-272"
       ]
     },
     {
@@ -3121,8 +3121,8 @@
       "@type": "Claim",
       "@id": "C-9490",
       "ref": "C-9490",
-      "label": "Host Says She Would Have Installed an Interim CEO Below Justin Stripe",
-      "claim": "The host says Justin Stripe, she thinks, was the CEO and that she would have advised an interim CEO rather than Erika moving from widow to CEO and chairman.",
+      "label": "Host Says She Would Have Installed an Interim CEO Below Justin Streiff",
+      "claim": "The host says Justin Streiff, she thinks, was the CEO and that she would have advised an interim CEO rather than Erika moving from widow to CEO and chairman.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11092"
@@ -3132,7 +3132,7 @@
       ],
       "claim_timestamp": "00:30:31",
       "investigative_direction": "TPUSA announcements of leadership changes after September 2025 to confirm who held the CEO title before Erika Kirk.",
-      "transcript_snippet": "Someone below Justin Stripe, I think was the CEO. I would have put in an interim CEO",
+      "transcript_snippet": "Someone below Justin Streiff, I think was the CEO. I would have put in an interim CEO",
       "mentions_person_refs": [
         "N-3",
         "N-2",
@@ -3532,7 +3532,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-856"
+        "N-849"
       ]
     },
     {

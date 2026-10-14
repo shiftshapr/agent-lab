@@ -31,7 +31,7 @@
             "C-1922"
           ],
           "related_nodes": [
-            "N-284",
+            "N-282",
             "N-2",
             "N-3",
             "N-10334"
@@ -52,7 +52,7 @@
             "C-1912"
           ],
           "related_nodes": [
-            "N-284",
+            "N-282",
             "N-2",
             "N-3"
           ],
@@ -109,8 +109,8 @@
             "C-1922"
           ],
           "related_nodes": [
-            "N-333",
-            "N-284",
+            "N-330",
+            "N-282",
             "N-10334"
           ],
           "tags": [],
@@ -137,7 +137,7 @@
             "C-1913"
           ],
           "related_nodes": [
-            "N-242",
+            "N-241",
             "N-2"
           ],
           "tags": [],
@@ -156,7 +156,7 @@
             "C-1917"
           ],
           "related_nodes": [
-            "N-242",
+            "N-241",
             "N-2"
           ],
           "tags": [],
@@ -175,7 +175,7 @@
             "C-1914"
           ],
           "related_nodes": [
-            "N-242",
+            "N-241",
             "N-2"
           ],
           "tags": [],
@@ -229,7 +229,7 @@
             "C-1919"
           ],
           "related_nodes": [
-            "N-232",
+            "N-231",
             "N-3"
           ],
           "tags": [],
@@ -248,7 +248,7 @@
             "C-1921"
           ],
           "related_nodes": [
-            "N-232",
+            "N-231",
             "N-3"
           ],
           "tags": [],
@@ -275,9 +275,9 @@
             "C-1920"
           ],
           "related_nodes": [
-            "N-232",
+            "N-231",
             "N-99",
-            "N-233",
+            "N-232",
             "N-97",
             "N-14"
           ],
@@ -303,7 +303,7 @@
           "description": "Commenter Alicia Yancey reading aloud Candace Owens' 2018 text to Charlie Kirk: \"the story of me and CK will be one for the ages. My hope is that our story will be about smashing limitations, a story of loyalty, trust, and imprinting the world if fearless enough.\"",
           "related_claims": [],
           "related_nodes": [
-            "N-334",
+            "N-331",
             "N-1",
             "N-3"
           ],
@@ -488,8 +488,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-284",
-      "ref": "N-284",
+      "@id": "N-282",
+      "ref": "N-282",
       "name": "Bari Weiss",
       "type": "person",
       "description": "CBS News editor/chief who moderated the Erika Kirk town hall; subject of host's pre-recording allegation and audience-member sourcing claims. Material to investigation of town-hall production integrity.",
@@ -513,8 +513,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-242",
-      "ref": "N-242",
+      "@id": "N-241",
+      "ref": "N-241",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Blaze TV host who interviewed Erika Kirk immediately after CBS town hall; framed \"the truth is very clear\" question and the jury-pool education framing.",
@@ -539,8 +539,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-232",
-      "ref": "N-232",
+      "@id": "N-231",
+      "ref": "N-231",
       "name": "Allie Beth Stuckey",
       "type": "person",
       "description": "Daily Wire host and public critic of Candace Owens; subject of artifact-anchored Instagram post (A-1536.1), Instagram comment (A-1536.2), and show clip (A-1537.1) defending named figures against the host's accusations.",
@@ -582,13 +582,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-232"
+        "N-231"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-233",
-      "ref": "N-233",
+      "@id": "N-232",
+      "ref": "N-232",
       "name": "Lila Rose",
       "type": "person",
       "description": "Live Action founder; subject of AllieBeth Stuckey defense (A-1537.1) and host's prior accusation regarding military connections.",
@@ -604,7 +604,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-232"
+        "N-231"
       ]
     },
     {
@@ -626,13 +626,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-232"
+        "N-231"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-333",
-      "ref": "N-333",
+      "@id": "N-330",
+      "ref": "N-330",
       "name": "Hunter Kozak",
       "type": "person",
       "description": "Audience member at CBS town hall identified by host as the questioner who asked Charlie Kirk his last question prior to the assassination.",
@@ -646,14 +646,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-284",
+        "N-282",
         "N-10334"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-334",
-      "ref": "N-334",
+      "@id": "N-331",
+      "ref": "N-331",
       "name": "Alicia Yancey",
       "type": "person",
       "description": "Commenter who quoted Candace Owens' 2018 text message to Charlie Kirk (A-1538.1).",
@@ -691,8 +691,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-284",
-        "N-333"
+        "N-282",
+        "N-330"
       ]
     },
     {
@@ -929,8 +929,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-265",
+      "ref": "N-265",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
@@ -947,8 +947,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -1127,8 +1127,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-615",
-      "ref": "N-615",
+      "@id": "N-610",
+      "ref": "N-610",
       "name": "Ian Miles Cheong",
       "type": "person",
       "description": "Named by the host as a recipient of out-of-context material.",
@@ -1852,7 +1852,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-284"
+        "N-282"
       ]
     },
     {
@@ -1870,7 +1870,7 @@
       "investigative_direction": "Obtain the unedited Blaze TV segment to verify exact phrasing and surrounding context.",
       "mentions_person_refs": [
         "N-2",
-        "N-242"
+        "N-241"
       ]
     },
     {
@@ -1888,7 +1888,7 @@
       "investigative_direction": "Compare this on-camera denial against any subsequent documentary disclosures or investigation findings that could contradict the explicit denial.",
       "mentions_person_refs": [
         "N-2",
-        "N-242"
+        "N-241"
       ]
     },
     {
@@ -1904,7 +1904,7 @@
       "investigative_direction": "Verify the exact context of the \"mental illness\" statement against the unedited interview and assess whether the framing was directed at named hosts or general public commentary.",
       "mentions_person_refs": [
         "N-2",
-        "N-242"
+        "N-241"
       ]
     },
     {
@@ -1922,7 +1922,7 @@
       "investigative_direction": "Document the recurrence of this framing across Erika Kirk's post-assassination appearances to map the consistency and evolution of the messaging.",
       "mentions_person_refs": [
         "N-2",
-        "N-242"
+        "N-241"
       ]
     },
     {
@@ -1940,7 +1940,7 @@
       "investigative_direction": "Track whether this \"education\" framing recurs in subsequent Erika Kirk appearances and whether any coordinated media campaigns explicitly call on influencers to refrain from commentary.",
       "mentions_person_refs": [
         "N-2",
-        "N-242"
+        "N-241"
       ]
     },
     {
@@ -1977,7 +1977,7 @@
       "investigative_direction": "Verify the post is still publicly available and capture a screenshot for permanent record; compare Stuckey's characterization against any prior host statements.",
       "mentions_person_refs": [
         "N-3",
-        "N-232"
+        "N-231"
       ]
     },
     {
@@ -1997,8 +1997,8 @@
         "N-55",
         "N-97",
         "N-99",
+        "N-231",
         "N-232",
-        "N-233",
         "N-3"
       ]
     },
@@ -2017,7 +2017,7 @@
       "investigative_direction": "Capture the comment thread for permanent record and identify the original commenter if investigatively relevant.",
       "mentions_person_refs": [
         "N-3",
-        "N-232"
+        "N-231"
       ]
     },
     {
@@ -2036,8 +2036,8 @@
       "claim_timestamp": "00:00:00–00:00:01",
       "investigative_direction": "Attempt to obtain leaked production documents, backstage emails, or testimony from audience members; cross-reference against CBS's own statements about the production.",
       "mentions_person_refs": [
-        "N-284",
-        "N-333",
+        "N-282",
+        "N-330",
         "N-2"
       ]
     },
@@ -2072,9 +2072,9 @@
       "transcript_snippet": "Lie. Charlie established a doge and it was not unusual. That's a lie. It was unusual.",
       "mentions_person_refs": [
         "N-3",
-        "N-267",
+        "N-265",
         "N-1",
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2205,7 +2205,7 @@
       "transcript_snippet": "And Bari is obviously just a Tel Aviv agent. Her entire background story, her rise, her studying in Tel Aviv, her family ties",
       "mentions_person_refs": [
         "N-3",
-        "N-284"
+        "N-282"
       ]
     },
     {
@@ -2232,7 +2232,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-284",
+        "N-282",
         "N-2"
       ]
     },
@@ -2255,7 +2255,7 @@
       "investigative_direction": "Compare the question as aired with the unedited CBS broadcast and any Candace Owens revenue figures that are public.",
       "transcript_snippet": "She has been one of the main peddlers of these conspiracies and she is making a huge amount of money on it. She is building her business off of these lies.",
       "mentions_person_refs": [
-        "N-284",
+        "N-282",
         "N-3",
         "N-1"
       ]
@@ -2278,7 +2278,7 @@
       "transcript_snippet": "Building her business, what are you talking about? I already had this business. I was already at top of the charts.",
       "mentions_person_refs": [
         "N-3",
-        "N-284"
+        "N-282"
       ]
     },
     {
@@ -2451,7 +2451,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2534,7 +2534,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2818,7 +2818,7 @@
       "transcript_snippet": "They also brought out Hunter Kozak who asked the last question to Charlie Kirk.",
       "mentions_person_refs": [
         "N-3",
-        "N-333",
+        "N-330",
         "N-1"
       ]
     },
@@ -2846,7 +2846,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-284"
+        "N-282"
       ]
     },
     {
@@ -2871,7 +2871,7 @@
         "N-3",
         "N-2",
         "N-1",
-        "N-242"
+        "N-241"
       ]
     },
     {
@@ -2895,7 +2895,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-242"
+        "N-241"
       ]
     },
     {
@@ -3222,7 +3222,7 @@
       "transcript_snippet": "by sending someone to follow me after I was no longer employed there to try to make me look bad on camera",
       "mentions_person_refs": [
         "N-3",
-        "N-232",
+        "N-231",
         "N-166",
         "N-225"
       ]
@@ -3245,8 +3245,8 @@
       "transcript_snippet": "She keeps files and cuts people out of context and then sends it to people like Ian Miles Cheong",
       "mentions_person_refs": [
         "N-3",
-        "N-232",
-        "N-615"
+        "N-231",
+        "N-610"
       ]
     },
     {
@@ -3267,7 +3267,7 @@
       "transcript_snippet": "I then did a documentary on it and I revealed to the world that these the media actually is to blame.",
       "mentions_person_refs": [
         "N-3",
-        "N-232"
+        "N-231"
       ]
     },
     {
@@ -3317,7 +3317,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-99",
-        "N-232"
+        "N-231"
       ]
     },
     {
@@ -3344,7 +3344,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-232"
+        "N-231"
       ]
     },
     {
@@ -3366,7 +3366,7 @@
       "investigative_direction": "Review the released texts and their dates to see how Stuckey's characterization compares.",
       "transcript_snippet": "because those texts didn't make Ben look bad.",
       "mentions_person_refs": [
-        "N-232",
+        "N-231",
         "N-97",
         "N-1",
         "N-3"
@@ -3389,8 +3389,8 @@
       "investigative_direction": "Locate the host's statements about Lila Rose and her husband and compare with Stuckey's summary.",
       "transcript_snippet": "she's kind of questioned Lila's military connections, I guess because her husband is a veteran",
       "mentions_person_refs": [
+        "N-231",
         "N-232",
-        "N-233",
         "N-3"
       ]
     },
@@ -3410,7 +3410,7 @@
       "transcript_snippet": "She is a Zionist, and she will defend people who are Zionists even when they're caught lying",
       "mentions_person_refs": [
         "N-3",
-        "N-232"
+        "N-231"
       ]
     },
     {
@@ -3484,7 +3484,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-334"
+        "N-331"
       ]
     },
     {
@@ -3570,7 +3570,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-284"
+        "N-282"
       ]
     },
     {

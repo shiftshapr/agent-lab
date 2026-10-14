@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 97c9fdd97666fe21235e0b78f317b571904b8f5954ceecd3a37e07ce8587fefb
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-563, N-564, N-565, N-566, N-10497, N-10498, N-10499, N-10500
+  - New Nodes Introduced:  N-558, N-559, N-560, N-561, N-10497, N-10498, N-10499, N-10500
   - Reused Nodes Appearing: 
   - (see registers), N-11
 
@@ -52,7 +52,7 @@ Artifact Families Introduced: A-1750, A-1751, A-1752, A-1753, A-1754, A-1755, A-
 
 Claim Range: C-2326–C-2350
 
-New Nodes Introduced:  N-563, N-564, N-565, N-566, N-10497, N-10498, N-10499, N-10500
+New Nodes Introduced:  N-558, N-559, N-560, N-561, N-10497, N-10498, N-10499, N-10500
 
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -80,7 +80,7 @@ Video Timestamp: 00:05:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2326, N-566*
+*Related: C-2326, N-561*
 
 **A-1751** Andrew Kolvet Interview Clip Bundle
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:08:37–00:10:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2327, C-2328, C-2329, N-566*
+*Related: C-2327, C-2328, C-2329, N-561*
 
 **A-1752** TPUSA Halftime YouTube Screenshot Bundle
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:20:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2336, N-563, N-10497*
+*Related: C-2336, N-558, N-10497*
 
 **A-1757.2** Thomas Martin ZoomInfo Listing (Deputy Chief Patrol Agent, DHS)
 
@@ -174,7 +174,7 @@ Video Timestamp: 00:22:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2337, N-563, N-10497*
+*Related: C-2337, N-558, N-10497*
 
 **A-1758** 1985 Times Union Article Bundle
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:22:02–00:24:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2338, C-2339, N-563, N-10497*
+*Related: C-2338, C-2339, N-558, N-10497*
 
 **A-1759** Tracy Martin Text Messages Bundle
 
@@ -198,7 +198,7 @@ Video Timestamp: 00:24:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2340, C-2341, N-556, N-564, N-10498*
+*Related: C-2340, C-2341, N-551, N-559, N-10498*
 
 **A-1760** Religious Liberty Commission Hearing Bundle
 
@@ -210,7 +210,7 @@ Video Timestamp: 00:30:34–00:40:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2342, C-2343, C-2344, C-2345, N-565, N-10500*
+*Related: C-2342, C-2343, C-2344, C-2345, N-560, N-10500*
 
 **A-1760.2** Carrie Prejean Bowler Questioning of Seth Dillon at Religious Liberty Commission Hearing
 
@@ -220,7 +220,7 @@ Video Timestamp: 00:31:24–00:32:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2346, N-565*
+*Related: C-2346, N-560*
 
 **A-1761** Tyler Bowyer Tweet Bundle
 
@@ -250,7 +250,7 @@ Confidence Level: High
 
 ## IV. Node Register
 
-**N-556** Tracy Martin
+**N-551** Tracy Martin
 
 Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.
 
@@ -259,9 +259,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1759.1, C-2340, C-2341, N-563, N-564, N-10497, N-10498*
+*Related: A-1759.1, C-2340, C-2341, N-558, N-559, N-10497, N-10498*
 
-**N-563** Thomas Martin (Tucson Border Patrol Director)
+**N-558** Thomas Martin (Tucson Border Patrol Director)
 
 Director / Deputy Chief Patrol Agent with US Border Patrol / DHS in Tucson since at least 1985; potentially same person as Tracy Martin's husband.
 
@@ -270,9 +270,9 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1757.1, A-1757.2, A-1758.1, C-2336, C-2337, C-2338, C-2339, N-556, N-10497*
+*Related: A-1757.1, A-1757.2, A-1758.1, C-2336, C-2337, C-2338, C-2339, N-551, N-10497*
 
-**N-564** Tracy Martin's Daughter (Unnamed)
+**N-559** Tracy Martin's Daughter (Unnamed)
 
 Allegedly Erica Kirk's assistant; reportedly scheduled to attend UVU on September 10, 2025.
 
@@ -281,9 +281,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1759.1, C-2340, C-2341, N-556, N-2, N-10498*
+*Related: A-1759.1, C-2340, C-2341, N-551, N-2, N-10498*
 
-**N-565** Carrie Prejean Bowler
+**N-560** Carrie Prejean Bowler
 
 Questioner of Seth Dillon at the Religious Liberty Commission hearing on antisemitism; Catholic activist.
 
@@ -294,7 +294,7 @@ Investigative Pressure: Low
 
 *Related: A-1760.2, C-2346*
 
-**N-566** Brian Kilmeade
+**N-561** Brian Kilmeade
 
 Interviewer of Andrew Kolvet on TPUSA halftime viewership.
 
@@ -314,7 +314,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1757.1, A-1757.2, A-1758.1, C-2336, C-2337, C-2338, C-2339, N-556, N-563*
+*Related: A-1757.1, A-1757.2, A-1758.1, C-2336, C-2337, C-2338, C-2339, N-551, N-558*
 
 **N-10498** Tracy's Daughter Erika Assistant Status Verification
 
@@ -325,7 +325,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1759.1, C-2340, C-2341, N-556, N-564, N-2*
+*Related: A-1759.1, C-2340, C-2341, N-551, N-559, N-2*
 
 **N-10499** TPUSA Halftime Viewership Authenticity
 
@@ -347,7 +347,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1760.1, C-2343, C-2344, C-2345, N-565*
+*Related: A-1760.1, C-2343, C-2344, C-2345, N-560*
 
 ---
 
@@ -511,7 +511,7 @@ Claim Timestamp: 00:20:59
 Claim: A LinkedIn profile lists Thomas Martin as Director, US Border Patrol, with location in the Greater Tucson area.
 
 Anchored Artifacts: A-1757.1
-Mentions: N-563
+Mentions: N-558
 
 Related Nodes: N-10497
 
@@ -526,7 +526,7 @@ Claim Timestamp: 00:22:02
 Claim: A ZoomInfo listing shows Thomas Martin as Deputy Chief Patrol Agent at the Department of Homeland Security, with 9 years in Customs and Border Protection.
 
 Anchored Artifacts: A-1757.2
-Mentions: N-563
+Mentions: N-558
 
 Related Nodes: N-10497
 
@@ -541,7 +541,7 @@ Claim Timestamp: 00:22:02–00:24:12
 Claim: A 1985 Times Union article identifies agent Thomas Martin of the Border Patrol in Tucson in the context of the sanctuary movement trial.
 
 Anchored Artifacts: A-1758.1
-Mentions: N-563
+Mentions: N-558
 
 Related Nodes: N-10497
 
@@ -556,7 +556,7 @@ Claim Timestamp: 00:22:02–00:24:12
 Claim: In the 1985 article, Thomas Martin is quoted writing to superiors about avoiding "border patrol baiting" related to invading churches.
 
 Anchored Artifacts: A-1758.1
-Mentions: N-563
+Mentions: N-558
 
 Related Nodes: N-10497
 
@@ -571,7 +571,7 @@ Claim Timestamp: 00:24:52
 Claim: Per Tracy Martin's text messages from September 11, Tracy's daughter (allegedly Erica Kirk's assistant) was scheduled to attend UVU on September 10, 2025.
 
 Anchored Artifacts: A-1759.1
-Mentions: N-2, N-556, N-564
+Mentions: N-2, N-551, N-559
 
 Related Nodes: N-10498
 
@@ -586,7 +586,7 @@ Claim Timestamp: 00:24:52
 Claim: Per Tracy Martin's text messages, Tracy had a "bad feeling" about September 10 and stopped her daughter from attending UVU.
 
 Anchored Artifacts: A-1759.1
-Mentions: N-556, N-564
+Mentions: N-551, N-559
 
 Related Nodes: N-10498
 
@@ -601,7 +601,7 @@ Claim Timestamp: 00:30:34–00:40:02
 Claim: Seth Dillon testified at a Religious Liberty Commission hearing on antisemitism.
 
 Anchored Artifacts: A-1760.1
-Mentions: N-565, N-38
+Mentions: N-560, N-38
 
 Related Nodes: N-10500
 
@@ -661,7 +661,7 @@ Claim Timestamp: 00:31:24–00:32:50
 Claim: Carrie Prejean Bowler questioned Seth Dillon at the Religious Liberty Commission hearing regarding antisemitism and the Hamptons meeting.
 
 Anchored Artifacts: A-1760.2
-Mentions: N-565, N-38
+Mentions: N-560, N-38
 
 Related Nodes: N-10500
 
@@ -733,8 +733,8 @@ Investigative Direction: Verify through any other public statements from Charlie
 - **Name uncertainty (A-1750.1, A-1751.1)**: Transcript renders "Neielson" – most likely Nielsen. Preserved as written. Probable transcription error.
 - **Name uncertainty (A-1751.1)**: Transcript renders "Andrew Kovvat" / "Andrew Coat" – most likely Andrew Kolvet. Preserved as written. Probable transcription error.
 - **Artifact verbally referenced but not shown**: The Instagram purge (June 19, 126 posts deleted) and the June 18 White House visit are referenced but not displayed as new artifacts in this episode; treated as historical context only.
-- **Requires human verification**: N-563 Thomas Martin identification requires confirmation against multiple federal personnel directories; the 1985 article attribution and the husband-of-Tracy identification both warrant independent verification.
-- **Requires human verification**: N-564 Tracy's daughter and the Erika assistant claim rely on text message authentication that has not been independently confirmed.
+- **Requires human verification**: N-558 Thomas Martin identification requires confirmation against multiple federal personnel directories; the 1985 article attribution and the husband-of-Tracy identification both warrant independent verification.
+- **Requires human verification**: N-559 Tracy's daughter and the Erika assistant claim rely on text message authentication that has not been independently confirmed.
 
 ---
 
@@ -745,7 +745,7 @@ Investigative Direction: Verify through any other public statements from Charlie
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-556 onward)
+- [x] People nodes use the global people ledger (N-551 onward)
 - [x] Non-person investigation targets use the 1000 series (N-10497 onward)
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly or uncertainty flagged

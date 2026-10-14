@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: e1354996fe0dca09feb5fcf6281cba63b17e90513ca05526f293f355bf11437c
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-875, N-11256, N-11257
-  - Hole-minted Nodes (reintro-ep086): N-428, N-10581, N-10624, N-10711
-  - Tip-minted Nodes (reintro-ep086): N-688, N-790, N-10975, N-11055, N-11068
+  - Tip-minted Nodes (supplement_2026-10d): N-868, N-11256, N-11257
+  - Hole-minted Nodes (reintro-ep086): N-424, N-10581, N-10624, N-10711
+  - Tip-minted Nodes (reintro-ep086): N-682, N-784, N-10975, N-11055, N-11068
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10299–C-10353
   - New Nodes Introduced: N-10569, N-10570, N-10571, N-10572
-  - Reused Nodes Appearing: N-10085, N-1, N-10573, N-6, N-15, N-22, N-30, N-36, N-199, N-267, N-272, N-337, N-610, N-10000, N-10006, N-10012, N-10014, N-10039, N-10100, N-10110, N-10162, N-10201, N-10300, N-10346, N-10360, N-10389, N-10447, N-10539, N-10621, N-10770, N-10797, N-11054, N-11149
+  - Reused Nodes Appearing: N-10085, N-1, N-10573, N-6, N-15, N-22, N-30, N-36, N-199, N-265, N-270, N-334, N-605, N-10000, N-10006, N-10012, N-10014, N-10039, N-10100, N-10110, N-10162, N-10201, N-10300, N-10346, N-10360, N-10389, N-10447, N-10539, N-10621, N-10770, N-10797, N-11054, N-11149
   - (see registers)
 
 ## I. Meta-Data
@@ -38,7 +38,7 @@
 - Claim Range: C-2609–C-2625, C-3750
 - New People Nodes Introduced: none (Wave 2: local ids removed)
 - New Investigation Target Nodes Introduced: N-10569, N-10570, N-10571, N-10572
-- Existing Nodes Reused: Charlie Kirk, Erica Kirk, Candace Owens, Tyler Robinson, Tarro Farnsworth, Andrew Kolb, Dr. Lee Trotter, Justin Strife, Frank Carney, Matt Robinson, Robinson roommate, FBI, ATF, Turning Point USA, Utah County Attorney's Office (UCAO), Kash Patel, Governor Cox
+- Existing Nodes Reused: Charlie Kirk, Erica Kirk, Candace Owens, Tyler Robinson, Tarro Farnsworth, Andrew Kolb, Dr. Lee Trotter, Justin Streiff, Frank Carney, Matt Robinson, Robinson roommate, FBI, ATF, Turning Point USA, Utah County Attorney's Office (UCAO), Kash Patel, Governor Cox
 
 ---
 
@@ -377,7 +377,7 @@ Benjamin Netanyahu; named in the host's account of Tucker Carlson's remarks.
 
 ---
 
-**N-610** Katherine Locastro
+**N-605** Katherine Locastro
 
 Katherine Locastro (transcribed Katherine Low Castro); named as a passenger on Erika's July 14 flight.
 
@@ -401,7 +401,7 @@ Federal Bureau of Investigation; alleged to have been calling TPUSA about the fo
 
 ---
 
-**N-428** Derek Niekerk
+**N-424** Derek Niekerk
 
 Derek Niekerk; named as a passenger on Erika's July 14 flight.
 
@@ -409,7 +409,7 @@ Derek Niekerk; named as a passenger on Erika's July 14 flight.
 
 ---
 
-**N-337** Baron Coleman
+**N-334** Baron Coleman
 
 Baron Coleman; cited for his explanation that the people involved are tied to each other.
 
@@ -425,7 +425,7 @@ Missing Text Message Timestamps; reused for the PDF text messages the defense sa
 
 ---
 
-**N-267** Terrell Farnsworth
+**N-265** Terrell Farnsworth
 
 Terrell Farnsworth (transcribed Tarro); AV contractor who removed the SD card and later showed the host the back footage.
 
@@ -433,7 +433,7 @@ Terrell Farnsworth (transcribed Tarro); AV contractor who removed the SD card an
 
 ---
 
-**N-272** Brian Harpole
+**N-270** Brian Harpole
 
 Brian Harpole; cited for his later account of where the bullet fragmented.
 
@@ -441,7 +441,7 @@ Brian Harpole; cited for his later account of where the bullet fragmented.
 
 ---
 
-**N-688** Jonathan Barcelo
+**N-682** Jonathan Barcelo
 
 Jonathan Barcelo (transcribed Barcello); named as a passenger on Erika's July 14 flight.
 
@@ -449,7 +449,7 @@ Jonathan Barcelo (transcribed Barcello); named as a passenger on Erika's July 14
 
 ---
 
-**N-790** Matt Robinson
+**N-784** Matt Robinson
 
 Matt Robinson; Tyler Robinson's father, expected to testify about the gun.
 
@@ -497,9 +497,9 @@ Charlie Kirk Burial / Funeral Narrative Discrepancy; reused for the September 20
 
 ---
 
-**N-10300** Justin Strife Post-Assassination Phone Call
+**N-10300** Justin Streiff Post-Assassination Phone Call
 
-Justin Strife Post-Assassination Phone Call; reused for the host's account of his contact with her husband.
+Justin Streiff Post-Assassination Phone Call; reused for the host's account of his contact with her husband.
 
 *Related: C-10309*
 
@@ -633,7 +633,7 @@ Tyler Robinson Preliminary Hearing and Motion to Dismiss; reused for the continu
 
 ---
 
-**N-875** Frank Carney
+**N-868** Frank Carney
 
 First named by the host at 00:08:17 in episode 86. Named as a TPUSA figure who, with Justin Streiff, was on the phone with the FBI about the back footage, per the host.
 
@@ -947,7 +947,7 @@ Claim: The host says that about four minutes after Charlie Kirk was carried to t
 Transcript Snippet: He returns to the crime scene and violates it. More specifically, he grabs the very chair that Charlie Kirk had just been sitting in
 
 Anchored Artifacts: 
-Mentions: N-267, N-1
+Mentions: N-265, N-1
 Related Nodes: N-10100, N-10162
 Supports: C-6475
 Tags: relevance:core
@@ -964,7 +964,7 @@ Claim: The host says Farnsworth runs the audio-visual company Turning Point empl
 Transcript Snippet: the man who runs the audio-visual company that Turning Point employs, maybe you've used them for over a decade for their big events, and he's never goes to these college events
 
 Anchored Artifacts: 
-Mentions: N-267
+Mentions: N-265
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Obtain TPUSA vendor contracts and prior event staffing records for the AV company.
@@ -980,7 +980,7 @@ Claim: The host says Andrew Kolvet later explained that Farnsworth acted heroica
 Transcript Snippet: Yeah, we we know Andrew Kolvats lying because Tarro did not take the expensive camera.
 
 Anchored Artifacts: 
-Mentions: N-14, N-267
+Mentions: N-14, N-265
 Related Nodes: N-10346, N-10100
 Supports: C-6480
 Tags: relevance:core
@@ -997,7 +997,7 @@ Claim: The host says she decided on September 17, exactly one week after the ass
 Transcript Snippet: I decided on September 17th, exactly 1 week after Charlie's assassination, to reach to reach out to him. I called him.
 
 Anchored Artifacts: 
-Mentions: N-267, N-3
+Mentions: N-265, N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Obtain the host's call log and any recording or notes of the September 17 call.
@@ -1013,7 +1013,7 @@ Claim: The host says Farnsworth was exceedingly nervous, stammered through nonse
 Transcript Snippet: I wanted to secure the footage for Erika so that uh she wouldn't have to see the footage of Charlie being shot in 4K
 
 Anchored Artifacts: 
-Mentions: N-267, N-2, N-1
+Mentions: N-265, N-2, N-1
 Related Nodes: N-10346
 Tags: relevance:core
 Investigative Direction: Ask Farnsworth to state under oath why he chose that camera and what instruction he acted on.
@@ -1029,7 +1029,7 @@ Claim: The host says that once she saw the footage from the camera behind Charli
 Transcript Snippet: once I actually saw the footage, it had no blood.
 
 Anchored Artifacts: 
-Mentions: N-1, N-267
+Mentions: N-1, N-265
 Related Nodes: N-10100
 Tags: relevance:core
 Investigative Direction: Obtain the original back-camera file and compare it with the front and side footage.
@@ -1045,7 +1045,7 @@ Claim: The host says she speculates the SD card was removed to hide that the bul
 Transcript Snippet: they were hiding was the fact that the bullet did not go through. Did not pierce through Charlie.
 
 Anchored Artifacts: 
-Mentions: N-1, N-267
+Mentions: N-1, N-265
 Related Nodes: N-10085, N-10100
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy report and the back-camera footage to establish whether there was an exit wound.
@@ -1061,7 +1061,7 @@ Claim: The host says that after she kept pressing him, and after he gave excuses
 Transcript Snippet: Tarro showed me the back footage 2 days later on September 19th cuz I kept pressing him.
 
 Anchored Artifacts: A-3072.1
-Mentions: N-267, N-3
+Mentions: N-265, N-3
 Related Nodes: N-10797
 Tags: relevance:core
 Investigative Direction: Obtain the host's screen recording of the September 19 FaceTime and any call metadata.
@@ -1077,23 +1077,23 @@ Claim: The host says she recorded the September 19 FaceTime call with Farnsworth
 Transcript Snippet: On September 19th, he did that and gratefully I moved to record that FaceTime call because his energy made me uncomfortable.
 
 Anchored Artifacts: A-3072.1
-Mentions: N-267, N-3
+Mentions: N-265, N-3
 Related Nodes: N-11256
 Tags: relevance:core
 Investigative Direction: Compare the host's September 19 episode with the recorded FaceTime.
 
 ---
 
-**C-10309** Justin Strife repeatedly asked the host's husband whether she recorded the FaceTime
+**C-10309** Justin Streiff repeatedly asked the host's husband whether she recorded the FaceTime
 
 Claim Timestamp: 00:06:53
 
-Claim: The host says that on September 20 Justin Strife contacted her husband several times asking whether she had recorded the FaceTime call with Farnsworth, and she reads this as a sign of panic at Turning Point USA.
+Claim: The host says that on September 20 Justin Streiff contacted her husband several times asking whether she had recorded the FaceTime call with Farnsworth, and she reads this as a sign of panic at Turning Point USA.
 
-Transcript Snippet: the very next day, on September 20th, Justin Strife was contacting my husband several times while asking him if I had recorded that FaceTime call with Tarro.
+Transcript Snippet: the very next day, on September 20th, Justin Streiff was contacting my husband several times while asking him if I had recorded that FaceTime call with Tarro.
 
 Anchored Artifacts: A-3072.1
-Mentions: N-15, N-30, N-267
+Mentions: N-15, N-30, N-265
 Related Nodes: N-11256, N-10300
 Tags: relevance:core
 Investigative Direction: Obtain George Farmer's message log with Justin Streiff for September 20, 2025.
@@ -1104,7 +1104,7 @@ Investigative Direction: Obtain George Farmer's message log with Justin Streiff 
 
 Claim Timestamp: 00:07:37
 
-Claim: The host says her husband told her Justin Strife was urgently asking whether she had recorded something, and she told him not to answer because she found the question itself weird.
+Claim: The host says her husband told her Justin Streiff was urgently asking whether she had recorded something, and she told him not to answer because she found the question itself weird.
 
 Transcript Snippet: Honey, don't answer the question. I find the question in and of itself to be weird.
 
@@ -1120,12 +1120,12 @@ Investigative Direction: Obtain the husband's account and the message thread wit
 
 Claim Timestamp: 00:08:17
 
-Claim: The host says she learned that the FBI was on the phone with Justin Strife and Frank Carney that day and that they were apparently discussing with the feds whether she had recorded the footage.
+Claim: The host says she learned that the FBI was on the phone with Justin Streiff and Frank Carney that day and that they were apparently discussing with the feds whether she had recorded the footage.
 
-Transcript Snippet: The FBI was on the phone with Justin Strife, Frank Carney, and they were apparently speaking to the feds that day about whether or not I had recorded the footage.
+Transcript Snippet: The FBI was on the phone with Justin Streiff, Frank Carney, and they were apparently speaking to the feds that day about whether or not I had recorded the footage.
 
 Anchored Artifacts: 
-Mentions: N-15, N-875
+Mentions: N-15, N-868
 Related Nodes: N-10014, N-11256
 Tags: relevance:core
 Investigative Direction: Identify the host's source for this account and request FBI contact logs with TPUSA leadership for September 20, 2025.
@@ -1237,7 +1237,7 @@ Claim: The host says the account moved from the bullet found beneath the skin, t
 Transcript Snippet: first they found the bullet uh beneath his skin. Now, suddenly, the bullet is fragmented in his thorax.
 
 Anchored Artifacts: 
-Mentions: N-272, N-14
+Mentions: N-270, N-14
 Related Nodes: N-10085
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's September 20 post, his September 23 account and Harpole's statement against the autopsy report.
@@ -1382,7 +1382,7 @@ Claim: The host says Matt Robinson is named as a witness and will be compelled t
 Transcript Snippet: They are naming him as a witness and he is going to be forced to answer questions under oath, likely, I would assume about the gun.
 
 Anchored Artifacts: A-1912.1
-Mentions: N-790, N-40
+Mentions: N-784, N-40
 Related Nodes: N-11149
 Tags: relevance:context
 Investigative Direction: Check the witness list and any proffer on what Matt Robinson is expected to testify to.
@@ -1688,7 +1688,7 @@ Claim: The host says Erika's July 14 flight was taken with Katherine Low Castro,
 Transcript Snippet: And that flight is she took with Katherine Low Castro and Derek Niekerk and Jonathan Barcello.
 
 Anchored Artifacts: A-1915.1
-Mentions: N-2, N-610, N-428, N-688
+Mentions: N-2, N-605, N-424, N-682
 Related Nodes: N-10571
 Tags: relevance:core
 Investigative Direction: Obtain the flight manifest or FAA flight tracking record for July 14, 2025.
@@ -1801,7 +1801,7 @@ Claim: The host says that if the cover-up theory is correct the people involved 
 Transcript Snippet: Make him Andrew the dunce and say, "Oh, he doesn't know what he was doing."
 
 Anchored Artifacts: 
-Mentions: N-14, N-337
+Mentions: N-14, N-334
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Seek documents or witnesses showing coordinated messaging among TPUSA leaders.
@@ -2006,7 +2006,7 @@ Confidence: high
 - **Artifact verbally referenced but not shown**: Frank Turek's actual hospital statement is referenced via Kim Haven's comment but is not displayed in this episode. (A-1916.1 frames the challenge but does not contain Turek's original text.)
 - **Artifact verbally referenced but not shown**: Elizabeth Lane's X post about the "other hospital and the strange lockdown" is referenced at 00:56:00 but is not displayed.
 - **Testimonial recount, no artifact displayed**: Andrew Kolb's reported September 23, 2025 verbal account to host (bullet traveled C2–C6, shattered in thorax) is not anchored to any artifact shown in this episode. Claim failure label: **Claim failed admission test**.
-- **Testimonial recount, no artifact displayed**: Host's recounting of FBI calls to Justin Strife and Frank Carney regarding the back-footage FaceTime recording is not artifact-anchored in this episode.
+- **Testimonial recount, no artifact displayed**: Host's recounting of FBI calls to Justin Streiff and Frank Carney regarding the back-footage FaceTime recording is not artifact-anchored in this episode.
 - **Testimonial recount, no artifact displayed**: Host's recounting of the September 19, 2025 FaceTime with Tarro Farnsworth is not artifact-anchored in this episode.
 - **Transcript ambiguity**: The Atlanta news clip's air date and originating station are not specified; "Chris Nakamoto" is identified by name only.
 - **Name preservation**: "Tarro Farnsworth" appears consistently across the transcript; "Andrew Kolvats" and "Andrew Kolb" both appear; "Dr. Lee Trotter" appears consistently; preserved as written.

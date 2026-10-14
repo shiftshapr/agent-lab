@@ -32,7 +32,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-348",
+            "N-345",
             "N-10026",
             "N-10618"
           ],
@@ -62,8 +62,8 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-272",
-            "N-276",
+            "N-270",
+            "N-274",
             "N-10396"
           ],
           "tags": [],
@@ -178,9 +178,9 @@
             "C-4033"
           ],
           "related_nodes": [
-            "N-629",
-            "N-630",
-            "N-631",
+            "N-624",
+            "N-625",
+            "N-626",
             "N-10920"
           ],
           "tags": [],
@@ -233,7 +233,7 @@
             "N-14",
             "N-15",
             "N-215",
-            "N-627",
+            "N-622",
             "N-10450",
             "N-10472",
             "N-10899"
@@ -257,7 +257,7 @@
             "N-2",
             "N-3",
             "N-14",
-            "N-627",
+            "N-622",
             "N-10472"
           ],
           "tags": [],
@@ -276,7 +276,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-627",
+            "N-622",
             "N-10472",
             "N-10899"
           ],
@@ -304,8 +304,8 @@
             "C-4050"
           ],
           "related_nodes": [
-            "N-434",
-            "N-632",
+            "N-430",
+            "N-627",
             "N-10000",
             "N-10921"
           ],
@@ -367,7 +367,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-500",
+            "N-495",
             "N-10388"
           ],
           "tags": [],
@@ -389,7 +389,7 @@
             "N-2",
             "N-3",
             "N-14",
-            "N-242",
+            "N-241",
             "N-10340"
           ],
           "tags": [],
@@ -656,7 +656,7 @@
       "ref": "N-15",
       "name": "Justin Streiff",
       "type": "person",
-      "description": "Transcript spelling \"Justin Streif\". The host says she texted him after the Paramount Tactical alibi aired.",
+      "description": "Transcript spelling \"Justin Streiff\". The host says she texted him after the Paramount Tactical alibi aired.",
       "related_artifacts": [
         "A-2570.2"
       ],
@@ -710,8 +710,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-242",
-      "ref": "N-242",
+      "@id": "N-241",
+      "ref": "N-241",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Erika Kirk's interview with him is cited for her statement that Charlie Kirk sent no night-before warning texts.",
@@ -729,8 +729,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "His court filing against the host says he was not told of the Charis Bible College visit.",
@@ -749,8 +749,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-276",
-      "ref": "N-276",
+      "@id": "N-274",
+      "ref": "N-274",
       "name": "Dan Flood",
       "type": "person",
       "description": "Named in Harpole's filing as Charlie Kirk's sole security on some university visits; recipient of Charlie Kirk's night-before iMessage.",
@@ -769,8 +769,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-348",
-      "ref": "N-348",
+      "@id": "N-345",
+      "ref": "N-345",
       "name": "Victor Marx",
       "type": "person",
       "description": "Colorado gubernatorial candidate; the host questions his early announcement of Charlie Kirk's death, his closeness to Erika Kirk and his IDF ties.",
@@ -794,8 +794,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-369",
-      "ref": "N-369",
+      "@id": "N-366",
+      "ref": "N-366",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Fort Huachuca eyewitness; the host says Gary Melton's guest, Mitch's son, inadvertently confirmed Mitch was there.",
@@ -811,8 +811,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-434",
-      "ref": "N-434",
+      "@id": "N-430",
+      "ref": "N-430",
       "name": "Marcus Wada",
       "type": "person",
       "description": "TPUSA staffer the host says uses AI voices in donor presentations and met with Hollywood deepfake companies, including VFX LA.",
@@ -832,8 +832,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-500",
-      "ref": "N-500",
+      "@id": "N-495",
+      "ref": "N-495",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Erika Kirk's mother; the host places her on the Superfeed board and ties her to the rumored Turning Point Action shortfall.",
@@ -852,8 +852,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-627",
-      "ref": "N-627",
+      "@id": "N-622",
+      "ref": "N-622",
       "name": "Gary Melton",
       "type": "person",
       "description": "First named by the host at 00:00:56 in episode 103. Self-described former Green Beret who runs the Paramount Tactical show and read Erika Kirk's September 9 alibi on air. Aliases: Gary Moulton; Gary Mountain.",
@@ -877,8 +877,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-628",
-      "ref": "N-628",
+      "@id": "N-623",
+      "ref": "N-623",
       "name": "Andrew Wommack",
       "type": "person",
       "description": "First named by the host at 00:09:26 in episode 103. Founder of Charis Bible College, described by the host as former military.",
@@ -894,8 +894,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-629",
-      "ref": "N-629",
+      "@id": "N-624",
+      "ref": "N-624",
       "name": "Desmond Holly",
       "type": "person",
       "description": "First named by the host at 00:13:00 in episode 103. The 16-year-old Evergreen High School student named in the official account as the September 10 shooter. Aliases: Deshaun Holly.",
@@ -915,8 +915,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-630",
-      "ref": "N-630",
+      "@id": "N-625",
+      "ref": "N-625",
       "name": "Matthew Silverstone",
       "type": "person",
       "description": "First named by the host at 00:13:00 in episode 103. The second Evergreen High School student shot near South Olive Road and Buffalo Park Road. Aliases: Matt Silverstone; Matthew Stone.",
@@ -934,8 +934,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-631",
-      "ref": "N-631",
+      "@id": "N-626",
+      "ref": "N-626",
       "name": "Delmer Martinez",
       "type": "person",
       "description": "First named by the host at 00:13:58 in episode 103. Roofer who filmed part of the Evergreen incident and was interviewed by CBS Colorado. Aliases: Delmer Martinez.",
@@ -955,8 +955,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-632",
-      "ref": "N-632",
+      "@id": "N-627",
+      "ref": "N-627",
       "name": "Skip Caray",
       "type": "person",
       "description": "First named by the host at 00:37:32 in episode 103. Deceased baseball commentator whose voice VFX LA says it cloned for Fanatics Collectibles.",
@@ -974,8 +974,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-489",
-      "ref": "N-489",
+      "@id": "N-484",
+      "ref": "N-484",
       "name": "Jessica Ghawi",
       "type": "person",
       "description": "First named by the host at 00:53:58 in episode 103. The host's name for an Aurora theater shooting victim who, she says, had survived an earlier shooting at a food court in Canada; the host is unsure of the name.",
@@ -1511,7 +1511,7 @@
       "investigative_direction": "Check the host's Instagram direct-message thread with Victor Marx and any later scheduled appearance.",
       "transcript_snippet": "He finally answered and so I'm going to set a time for him to at least attempt to set a time for him to appear on the show and answer some questions.",
       "mentions_person_refs": [
-        "N-348",
+        "N-345",
         "N-3"
       ]
     },
@@ -1533,7 +1533,7 @@
         "C-2748"
       ],
       "mentions_person_refs": [
-        "N-348",
+        "N-345",
         "N-1",
         "N-5"
       ]
@@ -1556,7 +1556,7 @@
         "C-2715"
       ],
       "mentions_person_refs": [
-        "N-348",
+        "N-345",
         "N-2"
       ]
     },
@@ -1576,7 +1576,7 @@
       "investigative_direction": "Check archived follower lists for Charlie Kirk's and Victor Marx's accounts for a period of mutual unfollowing.",
       "transcript_snippet": "it was apparently bad enough according to insiders at Turning Point USA that Charlie and Victor actually stopped following one another on social media for a period of time.",
       "mentions_person_refs": [
-        "N-348",
+        "N-345",
         "N-1"
       ]
     },
@@ -1598,7 +1598,7 @@
       "investigative_direction": "Review Charlie Kirk Show episode archives from 2023 to 2025 for any later Victor Marx appearance.",
       "transcript_snippet": "it appears that the last time Victor Marx had done anything publicly with Charlie, appeared on Charlie's show, it was in October of 2023.",
       "mentions_person_refs": [
-        "N-348",
+        "N-345",
         "N-1"
       ]
     },
@@ -1620,7 +1620,7 @@
       "investigative_direction": "Obtain the full October 2023 Charlie Kirk Show segment and any records of Marx's access arrangements in Israel.",
       "transcript_snippet": "the relationships that we have with special forces commanders here with the IDF um are extensive and they are taking us to places",
       "mentions_person_refs": [
-        "N-348"
+        "N-345"
       ]
     },
     {
@@ -1655,7 +1655,7 @@
       "investigative_direction": "Check Colorado Secretary of State candidate filings and Marx's campaign launch statements.",
       "transcript_snippet": "now we know Victor is running for governor of Colorado inspired by, according to him, Charlie's untimely death.",
       "mentions_person_refs": [
-        "N-348",
+        "N-345",
         "N-1"
       ]
     },
@@ -1716,8 +1716,8 @@
       "investigative_direction": "Obtain Harpole's filing in his suit against the host and TPUSA's internal itinerary for September 11, 2025.",
       "transcript_snippet": "Harpole did not coordinate with Charis Bible College nor the Woodland Police Department because he was not advised that Charlie would be visiting the school.",
       "mentions_person_refs": [
-        "N-272",
-        "N-276",
+        "N-270",
+        "N-274",
         "N-1",
         "N-3"
       ]
@@ -1741,7 +1741,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -1780,7 +1780,7 @@
       "investigative_direction": "Check Andrew Wommack's published biography and any military service records.",
       "transcript_snippet": "the founder of it is this guy Andrew Wommack and you're thinking is he former military? Of course.",
       "mentions_person_refs": [
-        "N-628"
+        "N-623"
       ]
     },
     {
@@ -1961,7 +1961,7 @@
       "investigative_direction": "Review the Jefferson County Sheriff's Office incident report and recent document release.",
       "transcript_snippet": "a 16-year-old student who attended Evergreen High School named Desmond Holly showed up to school with a Smith & Wesson.38 special revolver at 12:21.",
       "mentions_person_refs": [
-        "N-629"
+        "N-624"
       ]
     },
     {
@@ -1981,9 +1981,9 @@
       "investigative_direction": "Obtain Martinez's full footage and the sheriff's scene diagram.",
       "transcript_snippet": "And he does this at the intersection of South Olive Road and Buffalo Park Road. Uh a roofer, a guy who's literally working on roofs in construction, a man named Delmar Martinez, filmed this initial confrontation.",
       "mentions_person_refs": [
-        "N-629",
-        "N-630",
-        "N-631"
+        "N-624",
+        "N-625",
+        "N-626"
       ]
     },
     {
@@ -2001,7 +2001,7 @@
       "investigative_direction": "Review deputy body-camera footage and the coroner's report in the sheriff's document release.",
       "transcript_snippet": "The sheriff's office has since confirmed that only the deputies were the witnesses to Holly shooting himself after they gave their commands.",
       "mentions_person_refs": [
-        "N-629"
+        "N-624"
       ]
     },
     {
@@ -2055,7 +2055,7 @@
       "investigative_direction": "Obtain the full CBS Colorado interview and Martinez's employer details.",
       "transcript_snippet": "Martinez tells CBS Colorado he and another coworker were working a roofing job in Evergreen.",
       "mentions_person_refs": [
-        "N-631"
+        "N-626"
       ]
     },
     {
@@ -2073,7 +2073,7 @@
       "investigative_direction": "Search Jefferson County building-permit records for Evergreen roofing permits active on September 10, 2025.",
       "transcript_snippet": "locals, who were very interested in this, began searching and they could not determine what house he and his coworkers were working on or what contractor they were working for.",
       "mentions_person_refs": [
-        "N-631"
+        "N-626"
       ]
     },
     {
@@ -2180,7 +2180,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-14",
-        "N-627"
+        "N-622"
       ]
     },
     {
@@ -2204,7 +2204,7 @@
         "C-1997"
       ],
       "mentions_person_refs": [
-        "N-627",
+        "N-622",
         "N-2",
         "N-1"
       ]
@@ -2229,7 +2229,7 @@
         "C-2905"
       ],
       "mentions_person_refs": [
-        "N-627",
+        "N-622",
         "N-14",
         "N-2"
       ]
@@ -2239,7 +2239,7 @@
       "@id": "C-4043",
       "ref": "C-4043",
       "label": "Erika Kirk never claimed she was at the office on September 9 and told Jesse Watters otherwise",
-      "claim": "The host says Erika Kirk has never publicly claimed she was at the office with Charlie Kirk on September 9; she told Jesse Watters that Charlie Kirk was in the office all day. The host says she texted Kolvet and Justin Strife about the discrepancy.",
+      "claim": "The host says Erika Kirk has never publicly claimed she was at the office with Charlie Kirk on September 9; she told Jesse Watters that Charlie Kirk was in the office all day. The host says she texted Kolvet and Justin Streiff about the discrepancy.",
       "anchored_artifacts": [
         "A-2570.2"
       ],
@@ -2297,8 +2297,8 @@
       "investigative_direction": "Request Fort Huachuca and Sierra Vista police call records for September 8–9, 2025 involving Mitch Snow.",
       "transcript_snippet": "And then Mitch's son confirmed that he got a phone call on that day because the police were called and I guess he's kin",
       "mentions_person_refs": [
-        "N-369",
-        "N-627"
+        "N-366",
+        "N-622"
       ]
     },
     {
@@ -2322,7 +2322,7 @@
         "C-2906"
       ],
       "mentions_person_refs": [
-        "N-627",
+        "N-622",
         "N-2"
       ]
     },
@@ -2345,7 +2345,7 @@
         "C-2890"
       ],
       "mentions_person_refs": [
-        "N-434"
+        "N-430"
       ]
     },
     {
@@ -2364,7 +2364,7 @@
       "investigative_direction": "Obtain TPUSA vendor meeting records and correspondence with AI production companies after September 10, 2025.",
       "transcript_snippet": "Marcus was meeting with and communicating with Hollywood AI uh deep fake companies, okay? They specialize in creating deep fakes.",
       "mentions_person_refs": [
-        "N-434",
+        "N-430",
         "N-1"
       ]
     },
@@ -2386,7 +2386,7 @@
       "investigative_direction": "Ask VFX LA and TPUSA to confirm any meeting or contract, and check TPUSA expenditure filings for payments to the firm.",
       "transcript_snippet": "VFX Los Angeles. These guys uh were brought into Turning Point USA. Like I said, we can confirm that with Marcus Wada.",
       "mentions_person_refs": [
-        "N-434"
+        "N-430"
       ]
     },
     {
@@ -2406,7 +2406,7 @@
       "investigative_direction": "Archive the VFX LA voice-cloning page and the Fanatics Collectibles project.",
       "transcript_snippet": "this project for Fanatics Collectibles, where we had to reproduce the unique timbre and intonation of the deceased baseball commentator Skip Caray.",
       "mentions_person_refs": [
-        "N-632"
+        "N-627"
       ]
     },
     {
@@ -2506,7 +2506,7 @@
       "transcript_snippet": "the rumor is that Turning Point Action was missing $10 million, dollars Point Action actually built a back door. It has connections to Erika's mother.",
       "mentions_person_refs": [
         "N-2",
-        "N-500",
+        "N-495",
         "N-1"
       ]
     },
@@ -2527,7 +2527,7 @@
       "investigative_direction": "Check Superfeed's corporate filings for board members and the TPUSA app's terms of service and privacy policy.",
       "transcript_snippet": "the company that she is on the board of with Tyler Bowyer. Uh they act Superfeed. Superfeed actually powers the Turning Point USA website.",
       "mentions_person_refs": [
-        "N-500",
+        "N-495",
         "N-11",
         "N-2"
       ]
@@ -2553,7 +2553,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-242",
+        "N-241",
         "N-14",
         "N-1",
         "N-3"
@@ -2578,7 +2578,7 @@
         "C-2273"
       ],
       "mentions_person_refs": [
-        "N-276",
+        "N-274",
         "N-1",
         "N-2"
       ]
@@ -2617,7 +2617,7 @@
       "investigative_direction": "Check the Aurora victim list and Canadian news coverage of 2012 food-court shootings to confirm the victim's identity.",
       "transcript_snippet": "The fact that she had just survived another shooting. Um missed it in a food court up in Canada.",
       "mentions_person_refs": [
-        "N-489"
+        "N-484"
       ]
     },
     {

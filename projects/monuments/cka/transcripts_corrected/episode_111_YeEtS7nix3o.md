@@ -346,7 +346,7 @@ I wrote, "Hope you're well. We're seeking comment on two questions. Deadline is 
 
 [01:06:42]
 
-Now, I'll tell you why this is significant. I messaged Andrew Kolvet, I messaged Justin Streif, and I messaged the lawyer that they use to answer questions. These are, you know, top brass, so to speak, at Turning Point USA, who could give an official response. The last time somebody on X, who runs the TPUSA account, said something about Thomas Massie, Andrew Kolvet made a phone call and said, "Oh, we don't run our TPUSA account. An intern runs that." You If you can find this online, the back forth between Thomas Massie, that wasn't Turning Point USA. That's the They don't That account isn't run by anybody who's at the exact level, and we apologize for that. So, it's weird that they chose to reply by not replying about whether or not it was doctored on X right at the beginning of the show. Here is what they wrote.
+Now, I'll tell you why this is significant. I messaged Andrew Kolvet, I messaged Justin Streiff, and I messaged the lawyer that they use to answer questions. These are, you know, top brass, so to speak, at Turning Point USA, who could give an official response. The last time somebody on X, who runs the TPUSA account, said something about Thomas Massie, Andrew Kolvet made a phone call and said, "Oh, we don't run our TPUSA account. An intern runs that." You If you can find this online, the back forth between Thomas Massie, that wasn't Turning Point USA. That's the They don't That account isn't run by anybody who's at the exact level, and we apologize for that. So, it's weird that they chose to reply by not replying about whether or not it was doctored on X right at the beginning of the show. Here is what they wrote.
 
 [01:07:26]
 

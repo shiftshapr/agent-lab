@@ -833,8 +833,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-249",
-      "ref": "N-249",
+      "@id": "N-248",
+      "ref": "N-248",
       "name": "Mark Levin",
       "type": "person",
       "description": "Conservative commentator; named as defender of Alan Dershowitz.",
@@ -849,8 +849,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-274",
-      "ref": "N-274",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Host of The Joe Rogan Experience; clip (A-1443.1) discussing conspiracies.",
@@ -869,8 +869,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-504",
-      "ref": "N-504",
+      "@id": "N-499",
+      "ref": "N-499",
       "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "Marina (TPUSA CMO) (wave3 orphan mint).",
@@ -1072,8 +1072,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-266",
-      "ref": "N-266",
+      "@id": "N-264",
+      "ref": "N-264",
       "name": "Duncan Aviation",
       "type": "person",
       "description": "FBO the host calls unusual and military-leaning.",
@@ -1089,8 +1089,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-388",
-      "ref": "N-388",
+      "@id": "N-384",
+      "ref": "N-384",
       "name": "Dan Bongino",
       "type": "person",
       "description": "Named in a viewer comment as trying to link the host and Kent.",
@@ -1106,8 +1106,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-562",
-      "ref": "N-562",
+      "@id": "N-557",
+      "ref": "N-557",
       "name": "Aubrey Lech",
       "type": "person",
       "description": "Staffer who drafted the death statement and was later fired (host says over an Uber driver conversation).",
@@ -1130,8 +1130,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-603",
-      "ref": "N-603",
+      "@id": "N-598",
+      "ref": "N-598",
       "name": "Bret Weinstein",
       "type": "person",
       "description": "The host says he released messages about Iran.",
@@ -1776,7 +1776,7 @@
       "claim_timestamp": "00:24:14",
       "investigative_direction": "Confirm via call detail records and corroborate with Aubrey directly if possible.",
       "mentions_person_refs": [
-        "N-504"
+        "N-499"
       ]
     },
     {
@@ -1793,7 +1793,7 @@
       "claim_timestamp": "00:25:31",
       "investigative_direction": "Verify with Aubrey or HR/witness records.",
       "mentions_person_refs": [
-        "N-504"
+        "N-499"
       ]
     },
     {
@@ -1866,7 +1866,7 @@
       "investigative_direction": "Verify CIA documentary provenance and Erika's pageant participation against public records.",
       "mentions_person_refs": [
         "N-2",
-        "N-274"
+        "N-272"
       ]
     },
     {
@@ -1883,7 +1883,7 @@
       "claim_timestamp": "00:43:46",
       "investigative_direction": "Retrieve full tweet and any subsequent clarification.",
       "mentions_person_refs": [
-        "N-249"
+        "N-248"
       ]
     },
     {
@@ -1900,7 +1900,7 @@
       "claim_timestamp": "00:43:46",
       "investigative_direction": "Retrieve original tweet.",
       "mentions_person_refs": [
-        "N-274"
+        "N-272"
       ]
     },
     {
@@ -2467,7 +2467,7 @@
       "investigative_direction": "Locate Weinstein's release of messages and check what they say about Charlie Kirk and Iran.",
       "transcript_snippet": "Bret Weinstein has released his messages about Iran.",
       "mentions_person_refs": [
-        "N-603"
+        "N-598"
       ]
     },
     {
@@ -2577,7 +2577,7 @@
       ],
       "claim_timestamp": "00:14:26",
       "investigative_direction": "Obtain call logs or calendar entries for September 5 and ask Wolicki, Streiff and Kolvet what the call covered.",
-      "transcript_snippet": "On September 5th, while Charlie was away in Asia, that Rabbi Wolicki um and with Rabbi Pesach Wolicki, who was the one who Charlie to be out, he had a a call with Justin Streif and Andrew Kolvet.",
+      "transcript_snippet": "On September 5th, while Charlie was away in Asia, that Rabbi Wolicki um and with Rabbi Pesach Wolicki, who was the one who Charlie to be out, he had a a call with Justin Streiff and Andrew Kolvet.",
       "mentions_person_refs": [
         "N-167",
         "N-15",
@@ -2735,7 +2735,7 @@
       ],
       "claim_timestamp": "00:17:28",
       "investigative_direction": "Request the charter booking records Streiff arranged and the passenger lists for each leg.",
-      "transcript_snippet": "Justin Stripe told me that he he booked the planes. He said, \"Yeah, I booked the planes.\"",
+      "transcript_snippet": "Justin Streiff told me that he he booked the planes. He said, \"Yeah, I booked the planes.\"",
       "mentions_person_refs": [
         "N-15",
         "N-14",
@@ -2944,12 +2944,12 @@
       ],
       "claim_timestamp": "00:21:46",
       "investigative_direction": "Verify the member list from the chat export.",
-      "transcript_snippet": "In this group we have Justin Strieff, we have Andrew Kolvet, we have Marina Minnez, and we have Aubrey, who is later going to be fired over an Uber ride that Marina overhears.",
+      "transcript_snippet": "In this group we have Justin Streiff, we have Andrew Kolvet, we have Marina Minnez, and we have Aubrey, who is later going to be fired over an Uber ride that Marina overhears.",
       "mentions_person_refs": [
         "N-15",
         "N-14",
-        "N-504",
-        "N-562"
+        "N-499",
+        "N-557"
       ]
     },
     {
@@ -3089,8 +3089,8 @@
       "investigative_direction": "Ask Aubrey or Marina for the call content; the wording is the host's paraphrase.",
       "transcript_snippet": "because Andrew's currently on a plane and I don't have it within me to draft the statement.",
       "mentions_person_refs": [
-        "N-504",
-        "N-562",
+        "N-499",
+        "N-557",
         "N-14"
       ]
     },
@@ -3113,7 +3113,7 @@
       "investigative_direction": "Confirm Aubrey's age and role with her or with employment records.",
       "transcript_snippet": "Essentially, Aubrey, the what 26-year-old, is now responsible for the unbelievably emotionally heavy statement",
       "mentions_person_refs": [
-        "N-562"
+        "N-557"
       ]
     },
     {
@@ -3136,7 +3136,7 @@
         "C-9967"
       ],
       "mentions_person_refs": [
-        "N-562",
+        "N-557",
         "N-2"
       ]
     },
@@ -3157,7 +3157,7 @@
       "investigative_direction": "Request payroll or severance records through Aubrey and compare with TPUSA's reported post-assassination revenue.",
       "transcript_snippet": "only to then fire them and not even give them a bonus after they took in that much money.",
       "mentions_person_refs": [
-        "N-562"
+        "N-557"
       ]
     },
     {
@@ -3203,7 +3203,7 @@
       "investigative_direction": "Check the full chat export for the 3:49 message and its recipient.",
       "transcript_snippet": "At 3:49 Utah time, she's going to ask her boss, who's been unavailable, \"Should I confirm or deny?\"",
       "mentions_person_refs": [
-        "N-562",
+        "N-557",
         "N-14"
       ]
     },
@@ -3335,7 +3335,7 @@
       ],
       "claim_timestamp": "00:33:30",
       "investigative_direction": "Confirm the message and its timestamp in the chat export; ask Streiff who AK was on the ground from.",
-      "transcript_snippet": "Justin Strife says, \"You you may need to wait until AK is on the ground.\"",
+      "transcript_snippet": "Justin Streiff says, \"You you may need to wait until AK is on the ground.\"",
       "mentions_person_refs": [
         "N-15",
         "N-14"
@@ -3371,7 +3371,7 @@
       "claim": "The host says Duncan Aviation is not where people usually fly in, that they usually use Signature or Atlantic, and that Duncan has a bent toward military and is for fixing planes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-266",
+        "N-264",
         "N-10549"
       ],
       "tags": [
@@ -3447,8 +3447,8 @@
       "investigative_direction": "Obtain Aubrey's pay and schedule records and the account of what Marina said to the driver.",
       "transcript_snippet": "then work like 7-hour days, not sleep, only to then not get a raise and to be fired because Marina Mina's spoke to an Uber driver.",
       "mentions_person_refs": [
-        "N-562",
-        "N-504"
+        "N-557",
+        "N-499"
       ]
     },
     {
@@ -3468,7 +3468,7 @@
       "investigative_direction": "Locate the Uber driver and any statement from him; ask Aubrey for her account.",
       "transcript_snippet": "and she said she never did vent to the Uber driver. Uber driver says they vent.",
       "mentions_person_refs": [
-        "N-562"
+        "N-557"
       ]
     },
     {
@@ -3492,7 +3492,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-274"
+        "N-272"
       ]
     },
     {
@@ -3513,7 +3513,7 @@
       "transcript_snippet": "There's a video of her making demon eyes, and every time she makes the eyes, the music",
       "mentions_person_refs": [
         "N-2",
-        "N-274"
+        "N-272"
       ]
     },
     {
@@ -3537,7 +3537,7 @@
       "transcript_snippet": "Okay, yes, but the head of the CIA is in it. Okay, you got to get approval from the CIA to be in a CIA documentary.",
       "mentions_person_refs": [
         "N-2",
-        "N-274"
+        "N-272"
       ]
     },
     {
@@ -3720,7 +3720,7 @@
       "investigative_direction": "Find Bongino's on-air or posted remarks tying the host to Kent.",
       "transcript_snippet": "It is sad to see Bongino become a little man trying to link Candace and Joe.",
       "mentions_person_refs": [
-        "N-388",
+        "N-384",
         "N-3",
         "N-213"
       ]

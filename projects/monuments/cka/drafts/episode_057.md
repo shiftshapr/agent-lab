@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 9d571c5e39368da2d0dcbf89e5a2db6cd0af4a443b631215c547c80343eab731
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-730, N-11027, N-11028, N-11029, N-11030, N-11031, N-11032, N-11033
-  - Hole-minted Nodes (reintro-ep057): N-532, N-543
+  - Tip-minted Nodes (supplement_2026-10): N-724, N-11027, N-11028, N-11029, N-11030, N-11031, N-11032, N-11033
+  - Hole-minted Nodes (reintro-ep057): N-527, N-538
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5420–C-5484
-  - New Nodes Introduced: N-465, N-466, N-467, N-468, N-469, N-10413, N-10414, N-10415
+  - New Nodes Introduced: N-460, N-461, N-462, N-463, N-464, N-10413, N-10414, N-10415
   - Reused Nodes Appearing: N-5, N-22, N-30, N-82, N-205, N-10000, N-10063, N-10270, N-10385, N-10388, N-10404, N-10416, N-10422, N-11034, N-10424, N-10454
   - (see registers)
 
@@ -205,7 +205,7 @@ Video Timestamp: 00:08:22–00:09:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2097, C-2098, C-2099, N-10413, N-465*
+*Related: C-2097, C-2098, C-2099, N-10413, N-460*
 
 **A-1628.2** Be Inspired clip – Project Looking Glass segment with Bill Wood testimony
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:13:05–00:15:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2097, C-2098, N-10413, N-465*
+*Related: C-2097, C-2098, N-10413, N-460*
 
 **A-1628.3** Be Inspired clip – The Matrix / 2012 convergence / CIA document segment
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:43:34–00:44:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip explicitly played)
 
-*Related: C-2103, N-466*
+*Related: C-2103, N-461*
 
 **A-1633** Charlie Kirk Text Message Reference Bundle
 
@@ -308,7 +308,7 @@ Video Timestamp: 00:47:28–00:48:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (personal testimony)
 
-*Related: C-2106, N-468*
+*Related: C-2106, N-463*
 
 **A-1634.2** Read-aloud comment from "Marzy" (today's episode): claim that ICE agents receive training and recruitment from Israel/IDF
 
@@ -318,7 +318,7 @@ Video Timestamp: 00:51:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (unattributed)
 
-*Related: C-2107, N-469*
+*Related: C-2107, N-464*
 
 **A-1634.3** Read-aloud comment from "Anderson" (today's episode): personal testimony about sleep paralysis ("hatman shadow man"), being in a "gate" program as a child, and being given the "pink drink" (fluoride)
 
@@ -394,7 +394,7 @@ Confidence Level: Low
 ## 4. Node Register
 
 
-**N-465** Bill Wood
+**N-460** Bill Wood
 
 Former Navy Seal with high-level clearance; Project Camelot interviewee whose testimony about Project Looking Glass is the central source in the Be Inspired clip.
 
@@ -405,7 +405,7 @@ Investigative Pressure: Low
 
 *Related: A-1628.2, C-2097, N-10413*
 
-**N-466** Mike Pompeo
+**N-461** Mike Pompeo
 
 Former US Secretary of State / CIA director; presents in A-1632.1 advocating framing of Gaza history in textbooks to favor Israeli narrative.
 
@@ -416,7 +416,7 @@ Investigative Pressure: Medium
 
 *Related: A-1632.1, C-2103*
 
-**N-467** Bill Montgomery
+**N-462** Bill Montgomery
 
 Referenced by host as deceased military figure; alleged to have co-founded Turning Point USA with Charlie Kirk and to have orchestrated Charlie's early "Schaefer security."
 
@@ -429,7 +429,7 @@ Investigative Pressure: Low (requires verification of identity and TPUSA co-foun
 
 *Optional Flag: Name uncertainty – host identifies him as a Turning Point USA co-founder; this role attribution requires verification against public TPUSA founding records.*
 
-**N-468** Carly
+**N-463** Carly
 
 Commenter (previous episode); daughter of an MP who allegedly investigated pentagrams on a US military base in 1982.
 
@@ -440,7 +440,7 @@ Investigative Pressure: Low
 
 *Related: A-1634.1, C-2106*
 
-**N-469** Marzy
+**N-464** Marzy
 
 Commenter (today's episode); raises ICE/IDF training claim that the host then discusses.
 
@@ -471,7 +471,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1628.1, A-1628.2, A-1628.3, C-2097, C-2098, C-2099, N-465*
+*Related: A-1628.1, A-1628.2, A-1628.3, C-2097, C-2098, C-2099, N-460*
 
 **N-10414** CERN Satantic Ritual Claim
 
@@ -550,13 +550,13 @@ Subject of a commenter's report and the host's statement that he is a federal in
 
 *Related: C-5481, C-5482, C-5483*
 
-**N-532** Peter Thiel
+**N-527** Peter Thiel
 
 Named by the host (as 'Peter Teal') as giving interviews about the Antichrist.
 
 *Related: C-5445*
 
-**N-543** Julian Assange
+**N-538** Julian Assange
 
 Named in the Pompeo and CIA discussion.
 
@@ -616,7 +616,7 @@ Topic for the host's claim that Palestinian deaths would be written out of textb
 
 *Related: C-5464*
 
-**N-730** Kathy O'Brien
+**N-724** Kathy O'Brien
 
 First named by the host at 00:51:51 in episode 57, reading a comment recommending her and her book Transformation of America.
 
@@ -687,7 +687,7 @@ Claim Timestamp: 00:13:05
 Claim: The Be Inspired clip (A-1628.2) presents whistleblower Bill Wood's account that the US military operated a device called Project Looking Glass that could view potential future timelines and was shut down because all timelines converged on December 21, 2012.
 
 Anchored Artifacts: A-1628.2
-Mentions: N-465
+Mentions: N-460
 
 Related Nodes: N-10413
 
@@ -775,7 +775,7 @@ Claim Timestamp: 00:43:34
 Claim: Mike Pompeo is presented stating that future history books must not focus on "the victims of Gaza" but instead should frame Israel as the aggrieved party and Iran/Hamas as the aggressor, and that this requires real-time shaping of how adults talk to children about the war.
 
 Anchored Artifacts: A-1632.1
-Mentions: N-466
+Mentions: N-461
 
 
 Investigative Direction: Identify the original Pompeo interview (publication, host, date) and watch in full context; verify whether the quoted framing matches the full statement; check whether accompanying applause is from a single event or edited.
@@ -819,7 +819,7 @@ Claim Timestamp: 00:47:28
 Claim: Read-aloud commenter Carly presents testimony that her father was a Military Police officer stationed with "Lieutenant Aquino" in 1982, was investigating pentagrams on the base, and was forced off a subsequent child-abuse investigation under the rationale "MPs don't investigate felonies."
 
 Anchored Artifacts: A-1634.1
-Mentions: N-468
+Mentions: N-463
 
 
 Investigative Direction: Identify the military base, the "Lieutenant Aquino" referenced, and whether any contemporaneous investigation records (1982-era) can corroborate the pentagram and child-abuse investigation claims.
@@ -833,7 +833,7 @@ Claim Timestamp: 00:51:51
 Claim: Read-aloud commenter Marzy presents the claim that ICE agents receive training and recruitment directly from Israel via the IDF.
 
 Anchored Artifacts: A-1634.2
-Mentions: N-469
+Mentions: N-464
 
 
 Investigative Direction: Verify any documented ICE–Israeli-government training partnerships; check DHS, ICE, and Israeli Ministry of Public Security public records for formal training agreements.
@@ -895,7 +895,7 @@ Claim: The host says that in 2017-2018 Charlie Kirk was required to have securit
 Transcript Snippet: he was required to have security on him at all times. That was orchestrated. His security, Schaefer security was orchestrated uh by Bill Montgomery.
 
 Anchored Artifacts: 
-Mentions: N-1, N-467
+Mentions: N-1, N-462
 Related Nodes: N-10000, N-11034
 Investigative Direction: Identify who Bill Montgomery was and when he died; obtain records of who contracted Schaefer security for Charlie Kirk and Turning Point USA in 2017-2018.
 
@@ -910,7 +910,7 @@ Claim: The host says Bill Montgomery came from the military and founded Turning 
 Transcript Snippet: he was from the military, one of the he founded Turning Point USA with Charlie. Charlie wanted to go to West Point and then instead started Turning Point USA when he was 18 years old.
 
 Anchored Artifacts: 
-Mentions: N-1, N-467
+Mentions: N-1, N-462
 Related Nodes: N-10000, N-11034
 Investigative Direction: Check Turning Point USA founding documents, early IRS filings and contemporaneous press for the founders and whether Montgomery is named; confirm whether Charlie Kirk applied to or sought West Point.
 
@@ -1090,7 +1090,7 @@ Claim: The Be Inspired clip says multiple whistleblowers, including Bill Wood an
 Transcript Snippet: every time they ran the device, no matter what variables they changed, all future timelines converge to a single fixed point.
 
 Anchored Artifacts: A-1628.2
-Mentions: N-465
+Mentions: N-460
 Related Nodes: N-10413, N-11028
 Supports: C-2097
 Tags: relevance:tangential
@@ -1228,7 +1228,7 @@ Claim: The host says Peter Thiel is going around giving interviews asking about 
 Transcript Snippet: Maybe like people like Peter Teal, he's like going around giving interviews asking about the Antichrist.
 
 Anchored Artifacts: 
-Mentions: N-532
+Mentions: N-527
 Investigative Direction: Locate Peter Thiel's recorded lectures and interviews on the Antichrist, with dates, and see how the host characterizes them.
 
 ---
@@ -1492,7 +1492,7 @@ Claim: The host says Tucker Carlson had exposed that during his time at the CIA,
 Transcript Snippet: Tucker had exposed um that during his time at the CIA, I believe it was Mike Pompeo
 
 Anchored Artifacts: A-2757.1
-Mentions: N-3, N-22, N-466, N-543
+Mentions: N-3, N-22, N-461, N-538
 Related Nodes: N-11032
 Investigative Direction: Locate Tucker Carlson's broadcast on the CIA and Assange; check Yahoo News's 2021 reporting on CIA discussions of kidnapping or killing Assange and Pompeo's public response.
 
@@ -1507,7 +1507,7 @@ Claim: The host says after a producer fact check that she was correct and that P
 Transcript Snippet: I was correct. Yeah, he discussed options to take out Assange just to make sure we're above bar there.
 
 Anchored Artifacts: A-2757.1
-Mentions: N-3, N-466, N-543
+Mentions: N-3, N-461, N-538
 Related Nodes: N-11032
 Investigative Direction: Check Pompeo's on-record statements about whether he discussed killing Assange and the 2021 Yahoo News report that CIA officials considered it.
 
@@ -1522,7 +1522,7 @@ Claim: The host says Pompeo is discussing editing textbooks to remove the fact t
 Transcript Snippet: The part about how they murdered tens and thousands of Palestinian women and children and innocent men because it's just not good for their aims.
 
 Anchored Artifacts: A-1632.1
-Mentions: N-3, N-466
+Mentions: N-3, N-461
 Related Nodes: N-10454, N-10063
 Supports: C-2103
 Investigative Direction: Compare the full Pompeo remarks with the host's paraphrase; Pompeo speaks of history books and talking to children, not textbooks specifically.
@@ -1538,7 +1538,7 @@ Claim: In the clip Mike Pompeo says the next generation of young people will not
 Transcript Snippet: The next generation of of young people won't remember October 7th in the same way.
 
 Anchored Artifacts: A-1632.1
-Mentions: N-466
+Mentions: N-461
 Related Nodes: N-10063
 Supports: C-2103
 Investigative Direction: Find the original Pompeo event and full video to confirm the setting, date and wording.
@@ -1554,7 +1554,7 @@ Claim: In the clip Pompeo says there were victims in Gaza and civilian casualtie
 Transcript Snippet: There there were victims in Gaza, right? There it's true. Um there are civilian casualties in every war that's ever been fought, but the victims were the people of the nation state of Israel.
 
 Anchored Artifacts: A-1632.1
-Mentions: N-466
+Mentions: N-461
 Related Nodes: N-10063
 Supports: C-2103
 Investigative Direction: Compare against the full unedited Pompeo remarks; the clip as aired has a partial self-correction that the host omits.
@@ -1570,7 +1570,7 @@ Claim: The host says the audience started applauding after Pompeo's remarks abou
 Transcript Snippet: I just love that they started applauding.
 
 Anchored Artifacts: A-1632.1
-Mentions: N-3, N-466
+Mentions: N-3, N-461
 Supports: C-2103
 Investigative Direction: Watch the full video to see whether applause follows that line and what the event was.
 
@@ -1674,7 +1674,7 @@ Claim: Replying to commenter Alyssa, who recommended interviewing Kathy O'Brien,
 Transcript Snippet: I know about Project Monarch. We've spoken about it on this show um as being the precursor to what the Nazis did here
 
 Anchored Artifacts: A-2756.3
-Mentions: N-3, N-730
+Mentions: N-3, N-724
 Related Nodes: N-11033
 Tags: relevance:tangential
 Investigative Direction: Find the earlier episode where the host discussed Project Monarch; check historical sources on Operation Paperclip and the Monarch allegations, which are contested.

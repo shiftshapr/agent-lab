@@ -371,8 +371,8 @@
           ],
           "related_nodes": [
             "N-10750",
-            "N-498",
-            "N-503"
+            "N-493",
+            "N-498"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -636,7 +636,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-504",
+            "N-499",
             "N-3",
             "N-10752",
             "N-10075",
@@ -704,8 +704,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-498",
-        "N-503"
+        "N-493",
+        "N-498"
       ]
     },
     {
@@ -978,8 +978,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-537",
-      "ref": "N-537",
+      "@id": "N-532",
+      "ref": "N-532",
       "name": "Pastor Russell",
       "type": "person",
       "description": "First named by the host at 00:23:26 in episode 132. Aliases: Pastor Russ.",
@@ -995,8 +995,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-498",
-      "ref": "N-498",
+      "@id": "N-493",
+      "ref": "N-493",
       "name": "Rick Cutler",
       "type": "person",
       "description": "Named by the host at 00:12:02 in episode 123; first introduced in episode 121.",
@@ -1013,8 +1013,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-503",
-      "ref": "N-503",
+      "@id": "N-498",
+      "ref": "N-498",
       "name": "Justin Davis",
       "type": "person",
       "description": "Named by the host at 00:12:13 in episode 147; first introduced in episode 124.",
@@ -1176,8 +1176,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Brian Harpole; says in the host's lawsuit that a 911 call was made.",
@@ -1195,8 +1195,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-463",
-      "ref": "N-463",
+      "@id": "N-458",
+      "ref": "N-458",
       "name": "Lindsey Graham",
       "type": "person",
       "description": "Lindsey Graham; the host says Netanyahu is coming under the guise of his state funeral.",
@@ -1213,8 +1213,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-504",
-      "ref": "N-504",
+      "@id": "N-499",
+      "ref": "N-499",
       "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "Marina Medvin, TPUSA CMO; named in the host's White House tip.",
@@ -1231,8 +1231,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-505",
-      "ref": "N-505",
+      "@id": "N-500",
+      "ref": "N-500",
       "name": "\"Frank\" (TPUSA General Counsel)",
       "type": "person",
       "description": "Frank, TPUSA in-house lawyer; named in the host's White House tip.",
@@ -1248,8 +1248,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-648",
-      "ref": "N-648",
+      "@id": "N-643",
+      "ref": "N-643",
       "name": "Kouri Richins",
       "type": "person",
       "description": "Kouri Richins; mentioned in the host's remark about Utah wives.",
@@ -1265,8 +1265,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-723",
-      "ref": "N-723",
+      "@id": "N-717",
+      "ref": "N-717",
       "name": "Volodymyr Zelensky",
       "type": "person",
       "description": "Volodymyr Zelensky; mentioned alongside Netanyahu's trip.",
@@ -1282,8 +1282,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-751",
-      "ref": "N-751",
+      "@id": "N-745",
+      "ref": "N-745",
       "name": "Michael Jackson",
       "type": "person",
       "description": "Michael Jackson; named in the host's remark about psychological pressure.",
@@ -1753,8 +1753,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-813",
-      "ref": "N-813",
+      "@id": "N-807",
+      "ref": "N-807",
       "name": "Harris Faulkner",
       "type": "person",
       "description": "Fox News host who interviewed Erika Kirk about the burial location; first named by the host at 00:12:01 in episode 132.",
@@ -1770,8 +1770,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-836",
-      "ref": "N-836",
+      "@id": "N-829",
+      "ref": "N-829",
       "name": "Vivian Kubrick",
       "type": "person",
       "description": "Daughter of Stanley Kubrick whom the host says criticised the Make Heaven Crowded event on X; first named by the host at 00:26:09 in episode 132.",
@@ -1787,8 +1787,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-837",
-      "ref": "N-837",
+      "@id": "N-830",
+      "ref": "N-830",
       "name": "Devante West",
       "type": "person",
       "description": "Instagram account holder whose clip mocking Christian speak the host plays; first named by the host at 00:30:12 in episode 132 (spelled Devonte West once).",
@@ -1989,7 +1989,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-537"
+        "N-532"
       ]
     },
     {
@@ -2763,7 +2763,7 @@
       "investigative_direction": "Obtain the full Fox News segment and any pre-interview arrangements.",
       "transcript_snippet": "a book tour where Harris Faulkner on Fox News set her up with a question about how dark it would be.",
       "mentions_person_refs": [
-        "N-813",
+        "N-807",
         "N-2",
         "N-1"
       ]
@@ -2856,7 +2856,7 @@
         "C-4717"
       ],
       "mentions_person_refs": [
-        "N-272",
+        "N-270",
         "N-3"
       ]
     },
@@ -3042,7 +3042,7 @@
       "investigative_direction": "Clarify which packaging the host means (the transcript says \"36 ft of packaging\") and compare with Harpole's statements.",
       "transcript_snippet": "That doesn't really make sense because Brian's pretty clear that that went into him.",
       "mentions_person_refs": [
-        "N-272",
+        "N-270",
         "N-1"
       ]
     },
@@ -3092,9 +3092,9 @@
         "C-4717"
       ],
       "mentions_person_refs": [
-        "N-272",
+        "N-270",
+        "N-493",
         "N-498",
-        "N-503",
         "N-3"
       ]
     },
@@ -3137,7 +3137,7 @@
       "investigative_direction": "Confirm the church, sermon date and pastor's full name and denomination.",
       "transcript_snippet": "We are about to go to Pursuit Church in Washington state. I'm ready. We've got Pastor Russell.",
       "mentions_person_refs": [
-        "N-537",
+        "N-532",
         "N-2",
         "N-3"
       ]
@@ -3161,7 +3161,7 @@
       "investigative_direction": "Obtain the full sermon recording to see whether any person is named.",
       "transcript_snippet": "Beware of talking head personalities who pedal conspiracy theories to their room temperature IQ audiences in hopes of generating a few more clicks",
       "mentions_person_refs": [
-        "N-537"
+        "N-532"
       ]
     },
     {
@@ -3183,7 +3183,7 @@
       "investigative_direction": "Obtain the full sermon recording and any coordinated messaging with other TPUSA Faith pastors.",
       "transcript_snippet": "Beware of modern-day Ahabs and Jezebels who sit behind microphones in air-conditioned studios running their podcasts, monetizing tragedy",
       "mentions_person_refs": [
-        "N-537"
+        "N-532"
       ]
     },
     {
@@ -3203,7 +3203,7 @@
       "investigative_direction": "Find Erika's public statements about Pastor Russell or joint appearances.",
       "transcript_snippet": "Look at this. This is one of Erika's favorite pastors. Look at that.",
       "mentions_person_refs": [
-        "N-537",
+        "N-532",
         "N-2"
       ]
     },
@@ -3226,7 +3226,7 @@
       "investigative_direction": "Check the event listing and organizer for the Make Heaven Crowded tour stop.",
       "transcript_snippet": "Of course, it's a Turning Point Faith event. I'm sorry, guys. I tricked you. Close your Bibles.",
       "mentions_person_refs": [
-        "N-537"
+        "N-532"
       ]
     },
     {
@@ -3249,7 +3249,7 @@
       "transcript_snippet": "Anyway, Erika spoke at this event because this is the Make Kevin Crowded tour.",
       "mentions_person_refs": [
         "N-2",
-        "N-537"
+        "N-532"
       ]
     },
     {
@@ -3269,7 +3269,7 @@
       "investigative_direction": "Retrieve Vivian Kubrick's X post.",
       "transcript_snippet": "I was very happy to see Stanley Kubrick's daughter Vivian Kubrick actually. She's been amazing on X and she just took this event and was like no one knows what these people are saying.",
       "mentions_person_refs": [
-        "N-836",
+        "N-829",
         "N-3"
       ]
     },
@@ -3312,7 +3312,7 @@
       "investigative_direction": "Retrieve the Instagram post and confirm the account holder's name.",
       "transcript_snippet": "The account holder on Instagram is Devante West and he just mocks broadly speaking. So this is not about Erika.",
       "mentions_person_refs": [
-        "N-837",
+        "N-830",
         "N-2"
       ]
     },
@@ -3337,7 +3337,7 @@
       "transcript_snippet": "I said I received a tip from someone in Andrew's inner circle that he along with Turning Point in-house lawyer plus the CMO Marina Medvin are headed to the White House today.",
       "mentions_person_refs": [
         "N-14",
-        "N-504",
+        "N-499",
         "N-3"
       ]
     },
@@ -3527,8 +3527,8 @@
       "transcript_snippet": "meeting schedule at the White House you and and Marina Medias and Frank the in-house lawyer and I'm actually hearing there could be some more people.",
       "mentions_person_refs": [
         "N-14",
-        "N-504",
-        "N-505",
+        "N-499",
+        "N-500",
         "N-3"
       ]
     },
@@ -3550,7 +3550,7 @@
       "transcript_snippet": "it's particular that this he's coming under the guise of Lindsey Graham's funeral. A state funeral.",
       "mentions_person_refs": [
         "N-36",
-        "N-463",
+        "N-458",
         "N-3"
       ]
     },
@@ -3572,7 +3572,7 @@
       "transcript_snippet": "Bibi Netanyahu is saying that he is flying in for the same reason Zelensky is flying in.",
       "mentions_person_refs": [
         "N-36",
-        "N-723",
+        "N-717",
         "N-3"
       ]
     },
@@ -3594,7 +3594,7 @@
       "transcript_snippet": "we know Andrew Kobach is on record. He does not like Lindsey Graham.",
       "mentions_person_refs": [
         "N-14",
-        "N-463",
+        "N-458",
         "N-3"
       ]
     },
@@ -3659,7 +3659,7 @@
       "investigative_direction": "No checkable record; recorded as stated.",
       "transcript_snippet": "They they try to psychologically break you. That's what they did to Michael Jackson. It's what they did to Kanye West.",
       "mentions_person_refs": [
-        "N-751",
+        "N-745",
         "N-27",
         "N-3"
       ]
@@ -3726,7 +3726,7 @@
       "investigative_direction": "Consult the court record in the Kouri Richins case for the current legal status.",
       "transcript_snippet": "You know, we had that Kouri Richins girl who killed her husband. And people have questions.",
       "mentions_person_refs": [
-        "N-648",
+        "N-643",
         "N-3"
       ]
     },
@@ -3749,7 +3749,7 @@
       "investigative_direction": "Check CUFI staff and affiliate listings for Pastor Russell and Pursuit Church.",
       "transcript_snippet": "he's obviously works for every pro-Israel Christians United for Israel. Like, this is actually him. Like, all he cares about is Israel and that's why Erika's partnered with him",
       "mentions_person_refs": [
-        "N-537",
+        "N-532",
         "N-2"
       ]
     },

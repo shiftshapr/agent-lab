@@ -12,8 +12,8 @@
 
 - **Episode Ledger Summary**:
   - New Nodes Introduced: N-10666, N-10667
-  - Hole-minted Nodes (wave3): N-441
-  - Reused Nodes Appearing: N-11, N-10373, N-434, N-10664, N-442, N-10665
+  - Hole-minted Nodes (wave3): N-437
+  - Reused Nodes Appearing: N-11, N-10373, N-430, N-10664, N-438, N-10665
   - (see registers)
 
 # Episode Analysis: Monument Episode 102 – "Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336"
@@ -329,13 +329,13 @@ Confidence Level: Medium
 
 ## IV. Node Register
 
-**N-441** John Amanchukwu
+**N-437** John Amanchukwu
 
 First named by the host at 00:07:32 in episode 102.
 
 *Related: C-2890, C-2891*
 
-**N-442** Kimberly Klacik
+**N-438** Kimberly Klacik
 
 First named by the host at 00:09:42 in episode 102. Aliases: Kim Klacik.
 
@@ -508,7 +508,7 @@ Claim Timestamp: 00:07:32
 Claim: Per a source who came forward, Turning Point USA employee Marcus Wada offers AI voice generation services for TPUSA presentations.
 
 Anchored Artifacts: A-2068.1
-Mentions: N-441, N-434
+Mentions: N-437, N-430
 
 Related Nodes: N-10664
 
@@ -523,7 +523,7 @@ Claim Timestamp: 00:07:32
 Claim: Per the source, Turning Point USA presentations typically feature AI-generated voice-over using Pastor John Amanchukwu's voice (described as with his permission).
 
 Anchored Artifacts: A-2068.2
-Mentions: N-441
+Mentions: N-437
 
 Related Nodes: N-10664
 
@@ -553,7 +553,7 @@ Claim Timestamp: 00:09:42
 Claim: Kimberly Klacik publicly argued on X that since the TPUSA board elected Erika Kirk as CEO and no donors had publicly questioned the decision, the authenticity of the audio does not matter.
 
 Anchored Artifacts: A-2067.1
-Mentions: N-2, N-442
+Mentions: N-2, N-438
 
 Related Nodes: N-10664
 
@@ -630,7 +630,7 @@ Claim Timestamp: 00:18:59
 Claim: Per Baron Coleman and other online researchers, Arizona State University did not offer an international relations degree program at all in 2012, when Erika Kirk claims to have graduated.
 
 Anchored Artifacts: A-2072.1
-Mentions: N-337, N-2
+Mentions: N-334, N-2
 
 Related Nodes: N-10665
 
@@ -704,7 +704,7 @@ Claim Timestamp: 00:49:33
 Claim: According to flight records shown to Candace during her private interview with Erika, Brian Harpole's alibi flights on the 9th departed Dallas at 1:49 PM for Salt Lake City – a window that does not cover the morning timeframe when Mitch reported seeing him at Fort Huachuca.
 
 Anchored Artifacts: A-2075.1
-Mentions: N-272
+Mentions: N-270
 
 Related Nodes: N-10373
 
@@ -749,7 +749,7 @@ Claim Timestamp: 00:52:24
 Claim: Per host, Andrew Kolvet was the coordinator behind the Paramount Tactical and Valhalla YouTube efforts to push back on the Fort Huachuca allegations against Brian Harpole, despite Erika's claim that Kolvet was being moved off of PR responsibilities.
 
 Anchored Artifacts: A-2075.2, A-2075.3
-Mentions: N-14, N-272
+Mentions: N-14, N-270
 
 Related Nodes: N-10373
 
@@ -764,7 +764,7 @@ Claim Timestamp: 00:45:18
 Claim: During Candace's private interview with Erika Kirk, Erika volunteered Brian Harpole's flight records as his alibi – which Candace notes did not actually cover the timeframe of Mitch's sighting.
 
 Anchored Artifacts: A-2075.1
-Mentions: N-272, N-2
+Mentions: N-270, N-2
 
 Related Nodes: N-10373
 

@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep095): N-10759, N-10799, N-10801, N-10808, N-10812
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Tip-minted Nodes (skeleton): N-10907
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-9, N-15, N-22, N-30, N-40, N-41, N-46, N-48, N-54, N-60, N-69, N-93, N-162, N-194, N-267, N-290, N-348, N-349, N-372, N-397, N-500, N-575, N-10000, N-10006, N-10012, N-10022, N-10023, N-10070, N-10077, N-10300, N-10323, N-10346, N-10376, N-10570, N-10581, N-10590, N-10600, N-10613, N-10618, N-10626, N-10628, N-10664, N-10810, N-10870, N-10908, N-612, N-10751
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-9, N-15, N-22, N-30, N-40, N-41, N-46, N-48, N-54, N-60, N-69, N-93, N-162, N-194, N-265, N-287, N-345, N-346, N-369, N-393, N-495, N-570, N-10000, N-10006, N-10012, N-10022, N-10023, N-10070, N-10077, N-10300, N-10323, N-10346, N-10376, N-10570, N-10581, N-10590, N-10600, N-10613, N-10618, N-10626, N-10628, N-10664, N-10810, N-10870, N-10908, N-607, N-10751
   - Claim Range: C-3827–C-3883
   - (see registers)
 
@@ -42,7 +42,7 @@ Video Timestamp: 00:02:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3830, C-3831, C-3832, N-575, N-267, N-1, N-10799, N-10908*
+*Related: C-3830, C-3831, C-3832, N-570, N-265, N-1, N-10799, N-10908*
 
 ---
 
@@ -55,7 +55,7 @@ Video Timestamp: 00:06:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3835, C-3838, N-267, N-3, N-10808, N-10810*
+*Related: C-3835, C-3838, N-265, N-3, N-10808, N-10810*
 
 ---
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:12:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3843, C-3844, N-575, N-1, N-10908*
+*Related: C-3843, C-3844, N-570, N-1, N-10908*
 
 **A-2539.2** Photos of Charlie Kirk tabling on the 2024 Brainwashed tour (March 7, 2024; University of Wisconsin, September 5, 2024; Northern Arizona University, October 15, 2024) with no camera behind his head (shown)
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:15:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3847, C-3849, C-3850, C-3851, C-3852, C-3853, C-3854, N-500, N-397, N-2, N-10907*
+*Related: C-3847, C-3849, C-3850, C-3851, C-3852, C-3853, C-3854, N-495, N-393, N-2, N-10907*
 
 ---
 
@@ -302,55 +302,55 @@ Named among TPUSA employees who did not call 911.
 
 *Related: C-3828, C-3829*
 
-**N-267** Terrell Farnsworth
+**N-265** Terrell Farnsworth
 
 Transcript spellings "Terrell" and "Tarrio". Camera operator who took down the back camera, showed the host the footage over FaceTime and, she suspects, kept the SD card.
 
 *Related: C-3827, C-3828, C-3829, C-3830, C-3832, C-3833, C-3834, C-3835, C-3836, C-3837, C-3839, C-3841, A-2537.1, A-2538.1*
 
-**N-290** Xavier Poussard
+**N-287** Xavier Poussard
 
 Transcript spelling "Xavier Boussard". Credited by the host for journalism on Epstein's Iran-Contra link.
 
 *Related: C-3857*
 
-**N-348** Victor Marx
+**N-345** Victor Marx
 
 The host says he wanted the Fold AR patent for Israel, was later sued by the patent holder in the tip, and declined to appear with Corby Hall.
 
 *Related: C-3848, C-3855, C-3883*
 
-**N-349** Corby Hall
+**N-346** Corby Hall
 
 Fold AR patent holder whom Victor Marx sought to push out; scheduled for an interview the next day.
 
 *Related: C-3848, C-3883*
 
-**N-372** Cabot Phillips
+**N-369** Cabot Phillips
 
 The host says Erika Frantzve was dating him in late 2016.
 
 *Related: C-3854*
 
-**N-397** Larry Guinta
+**N-393** Larry Guinta
 
 Transcript spelling "Larry Ginta". Erika Kirk's stepfather; at the 2016 gun-patent dinner per the tip.
 
 *Related: C-3847, C-3849, C-3850, C-3851, A-2540.1*
 
-**N-500** Lori Frantzve
+**N-495** Lori Frantzve
 
 Transcript spelling "Lori Frantzbe". Erika Kirk's mother; per the tip she pursued a pending gun patent in 2016 while promoting G-Tech Industries.
 
 *Related: C-3847, C-3849, C-3850, C-3851, C-3852, C-3853, A-2540.1*
 
-**N-575** Nicey (YouTuber)
+**N-570** Nicey (YouTuber)
 
 Transcript spellings "Nicci" and "Niecy". Her analysis argues the back-camera footage was zoomed or cropped and documents the platform setup.
 
 *Related: C-3830, C-3831, C-3841, A-2537.1, A-2539.1*
 
-**N-612** Melania Trump
+**N-607** Melania Trump
 
 First named by the host at 00:36:45 in episode 095. Referred to as "Melania"; people in her circle are said to have called Laura Loomer the person most likely to harm Donald Trump.
 
@@ -398,7 +398,7 @@ The rifle-photo message and newly added "pooch" line in Robinson's messages.
 
 *Related: C-3860, C-3881, A-2541.3*
 
-**N-10300** Justin Strife Post-Assassination Phone Call
+**N-10300** Justin Streiff Post-Assassination Phone Call
 
 Streiff's call to the host's husband about whether she recorded the footage.
 
@@ -529,14 +529,14 @@ Transcript spelling "Wiyre Fy". The host ties the new back camera to the sponsor
 Node Type: Topic
 Investigation target: a tip that in late fall 2016 Lori Frantzve and Larry Ginta met two holders of a pending patent for an interchangeable-caliber gun. The tip says they met at a Salt Lake City expo where Lori was promoting G-Tech Industries' EMP technology. They then held a dinner in Scottsdale, offered an introduction to their G-Tech angel investor and claimed access to government contracts. According to the tip, Erika Frantzve arrived unannounced, and her mother mentioned that Erika was dating a man with big political connections. The host says nothing came of the deal, the patent is now approved, and the patent holder later had a lawsuit with Victor Marx.
 
-*Related: C-3847, C-3849, C-3850, C-3851, C-3852, C-3853, C-3854, C-3855, A-2540.1, N-500, N-397, N-2*
+*Related: C-3847, C-3849, C-3850, C-3851, C-3852, C-3853, C-3854, C-3855, A-2540.1, N-495, N-393, N-2*
 
 **N-10908** Back-Camera and Platform Setup Introduction (2025 Tour)
 
 Node Type: Topic
 Investigation target: when and why Turning Point USA began seating Charlie Kirk on a raised platform and placing a camera directly behind his head at tabling events. The host and Nicci say no such camera appears on the 2024 Brainwashed tour and that it arrived with the 2025 American Comeback Tour. The host says it coincided with the Why Refi sponsorship deal.
 
-*Related: C-3831, C-3843, C-3844, C-3845, C-3846, A-2537.1, A-2539.1, A-2539.2, N-1, N-575*
+*Related: C-3831, C-3843, C-3844, C-3845, C-3846, A-2537.1, A-2539.1, A-2539.2, N-1, N-570*
 
 ## 5. Claim Register
 
@@ -549,7 +549,7 @@ Claim: The host says Terrell raced to take down the back-camera footage minutes 
 Transcript Snippet: the one that Terrell raced the footage that he raced to take down just minutes after Charlie was struck. Literally I I think we estimated about 4 minutes after Charlie was struck.
 
 Anchored Artifacts: 
-Mentions: N-267, N-1
+Mentions: N-265, N-1
 Related Nodes: N-10346
 Investigative Direction: Time-sync the viral video of the camera takedown against the shot time on September 10, 2025.
 
@@ -564,7 +564,7 @@ Claim: The host says none of the Turning Point USA employees, including Mikey Mc
 Transcript Snippet: none of the Turning Point employees called 911. Not Mikey, not Blake, not Terrell.
 
 Anchored Artifacts: 
-Mentions: N-194, N-162, N-267
+Mentions: N-194, N-162, N-265
 Related Nodes: N-10000
 Investigative Direction: Obtain Utah County and UVU 911 call logs for September 10, 2025 and match caller numbers against TPUSA staff.
 
@@ -579,7 +579,7 @@ Claim: The host says Terrell recorded himself in a selfie video after the shooti
 Transcript Snippet: Terrell was perhaps the worst almost worse than Mikey walking away would be Terrell recording himself in a selfie video.
 
 Anchored Artifacts: 
-Mentions: N-267, N-194
+Mentions: N-265, N-194
 Supports: C-1464
 Investigative Direction: Archive the original selfie video with its metadata and posting time.
 
@@ -594,7 +594,7 @@ Claim: The host says the YouTuber Nicci discovered that the back-camera footage 
 Transcript Snippet: Nicci discovered that the camera footage which was shown to me on FaceTime was likely edited.
 
 Anchored Artifacts: A-2537.1
-Mentions: N-575, N-267, N-3, N-1
+Mentions: N-570, N-265, N-3, N-1
 Related Nodes: N-10799
 Investigative Direction: Obtain the original, unedited SD-card file and compare its frame dimensions and metadata with the version shown on FaceTime.
 
@@ -609,7 +609,7 @@ Claim: Nicci's video shows back-camera shots from American Comeback Tour stops, 
 Transcript Snippet: On February 28th, 2025, the American Comeback Tour did a stop at Florida State University and here is the back camera shot.
 
 Anchored Artifacts: A-2537.1
-Mentions: N-575
+Mentions: N-570
 Related Nodes: N-10799, N-10908
 Investigative Direction: Collect TPUSA livestream archives for each 2025 tour stop and compare back-camera framing.
 
@@ -624,7 +624,7 @@ Claim: Nicci's video says the back camera was always used as a wide-angle camera
 Transcript Snippet: The camera is a wide-angle camera and was always used as such. However, in the footage that Terrell has selectively shared with Candace, you cannot see the ground.
 
 Anchored Artifacts: A-2537.1
-Mentions: N-267
+Mentions: N-265
 Related Nodes: N-10799, N-10012
 Investigative Direction: Obtain the camera's recorded settings and the native file from September 10, 2025 to determine whether the zoom was optical at capture or applied in editing.
 
@@ -639,7 +639,7 @@ Claim: The host says she phoned Terrell on September 17 because footage of him t
 Transcript Snippet: I phoned him on September the 17th because the footage started going viral of him taking down the camera.
 
 Anchored Artifacts: 
-Mentions: N-267, N-3
+Mentions: N-265, N-3
 Related Nodes: N-10801
 Investigative Direction: Produce the host's call logs with Terrell Farnsworth for September 17–19, 2025.
 
@@ -654,7 +654,7 @@ Claim: The host says Terrell was hesitant on September 17, saying he wanted to p
 Transcript Snippet: And then on the 19th, he sort of broke and said, "Okay, no, let's just get on the call. I'm happy to show you the footage."
 
 Anchored Artifacts: 
-Mentions: N-267, N-2
+Mentions: N-265, N-2
 Related Nodes: N-10801
 Investigative Direction: Obtain Terrell's messages with the host and with Erika Kirk between September 17 and 19, 2025.
 
@@ -669,7 +669,7 @@ Claim: Showing the opening of her FaceTime call, the host says she suspects the 
 Transcript Snippet: It is my suspicion that that YOLO drive that you're seeing on the left-hand side is likely what he named his SD card.
 
 Anchored Artifacts: A-2538.1
-Mentions: N-267, N-3
+Mentions: N-265, N-3
 Related Nodes: N-10808, N-10810
 Investigative Direction: Have a forensic examiner review the FaceTime recording, and obtain the SD card's volume label and chain-of-custody records.
 
@@ -684,7 +684,7 @@ Claim: The host says that in their September 17 and 19 conversations Terrell nev
 Transcript Snippet: Terrell and I are speaking on the 17th and on the 19th and at no point in our conversations does he say to me, "I don't have the footage or I don't have the SD card."
 
 Anchored Artifacts: 
-Mentions: N-267, N-3
+Mentions: N-265, N-3
 Related Nodes: N-10810, N-10812, N-10801
 Investigative Direction: Request FBI evidence logs showing whether and when the back-camera SD card was collected.
 
@@ -699,7 +699,7 @@ Claim: The host says Terrell told her he removed the SD card and took the camera
 Transcript Snippet: And his answer was because he wanted to protect Erika. He didn't want Erika to see the footage.
 
 Anchored Artifacts: 
-Mentions: N-267, N-2
+Mentions: N-265, N-2
 Related Nodes: N-10346
 Investigative Direction: Obtain Terrell's communications with Erika Kirk on September 10–11, 2025.
 
@@ -729,7 +729,7 @@ Claim: The host says that, based on her conversation with Terrell and the FaceTi
 Transcript Snippet: Terrell was able to take that footage back to Arizona. He's opening that on his desktop in Arizona back in Scottsdale.
 
 Anchored Artifacts: A-2538.1
-Mentions: N-267
+Mentions: N-265
 Related Nodes: N-10808, N-10812
 Investigative Direction: Establish Terrell's travel from Utah to Arizona and the file-creation timestamps on his computer.
 
@@ -746,7 +746,7 @@ Transcript Snippet: that's why they started putting pressure on um Justin Streif
 Anchored Artifacts: 
 Mentions: N-15, N-30, N-3
 Related Nodes: N-10300
-Investigative Direction: Obtain the date and content of Justin Strife's call to the host's husband.
+Investigative Direction: Obtain the date and content of Justin Streiff's call to the host's husband.
 
 ---
 
@@ -759,7 +759,7 @@ Claim: The host agrees with Nicci that Terrell very likely zoomed in on the foot
 Transcript Snippet: So yes, Niecy, I I agree with you um that it is very likely that he zoomed in on that footage and I believe the reason he did that was to obscure our view of the ground
 
 Anchored Artifacts: A-2537.1
-Mentions: N-575, N-267
+Mentions: N-570, N-265
 Related Nodes: N-10799
 Investigative Direction: Subpoena the native back-camera file and compare its field of view with the FaceTime version.
 
@@ -848,7 +848,7 @@ Claim: According to a tip relayed by the host, Lori Frantzve and Larry Ginta wer
 Transcript Snippet: Similarly, Lori Frantzve and Larry were interested in a gun pending patent and this was going to be a gun that was and is today the only now patent approved weapon that features interchangeable calibers, okay?
 
 Anchored Artifacts: A-2540.1
-Mentions: N-500, N-397
+Mentions: N-495, N-393
 Related Nodes: N-10907
 Investigative Direction: Search USPTO records for interchangeable-caliber revolver patents filed around 2016 and their inventors.
 
@@ -863,7 +863,7 @@ Claim: The host says Victor Marx wanted Corby Hall's Fold AR patent for Israel a
 Transcript Snippet: Victor Marx wants the patent for Israel. Let me remind you, Victor Marx wanted the patent for Israel.
 
 Anchored Artifacts: 
-Mentions: N-348, N-349
+Mentions: N-345, N-346
 Related Nodes: N-10600, N-10618
 Investigative Direction: Obtain Marx–Hall correspondence on the proposed acquisition and any named Israeli buyer.
 
@@ -878,7 +878,7 @@ Claim: According to the tip, Lori Frantzve and Larry Ginta met the patent holder
 Transcript Snippet: Allegedly, at this time she and Larry um meet some the guys that have this patent pending and they offer to introduce these guys to their angel investor for G-Tech Industries.
 
 Anchored Artifacts: A-2540.1
-Mentions: N-500, N-397
+Mentions: N-495, N-393
 Related Nodes: N-10907
 Investigative Direction: Identify the 2016 Salt Lake City expo's exhibitor list and G-Tech Industries' corporate filings and investors.
 
@@ -893,7 +893,7 @@ Claim: According to the tip, a dinner was held in Scottsdale in late 2016 with L
 Transcript Snippet: So they set up a dinner back in Scottsdale, Arizona. Again, this is going to be late 2016. At this dinner you have Lori, you have Larry Ginta, and the two would-be company owners.
 
 Anchored Artifacts: A-2540.1
-Mentions: N-500, N-397
+Mentions: N-495, N-393
 Related Nodes: N-10907
 Investigative Direction: Interview the patent holders and identify the restaurant and date of the dinner.
 
@@ -908,7 +908,7 @@ Claim: According to the tip, what Lori Frantzve and Larry Ginta offered in excha
 Transcript Snippet: So they were there to discuss only the patent, a potential deal for it, um and what they could offer in exchange for it. The answer being, we have access to government contracts.
 
 Anchored Artifacts: A-2540.1
-Mentions: N-500, N-397
+Mentions: N-495, N-393
 Related Nodes: N-10907
 Investigative Direction: Search federal contracting databases for awards to Lori Frantzve-linked entities.
 
@@ -923,7 +923,7 @@ Claim: According to the tip, Erika Frantzve arrived unannounced and late at the 
 Transcript Snippet: My favorite part of the story is who strolls in unannounced at this dinner to sweeten up the potential deal. None other than Erika Frantzve.
 
 Anchored Artifacts: A-2540.1
-Mentions: N-2, N-500
+Mentions: N-2, N-495
 Related Nodes: N-10907
 Investigative Direction: Corroborate the tipster's account with the second patent holder or other diners.
 
@@ -938,7 +938,7 @@ Claim: According to the tip, Erika's mother said at the dinner that Erika was a 
 Transcript Snippet: Her mother says, "Oh, well, she's It's not known yet, but she's just now dating a guy that has some very big political connections.
 
 Anchored Artifacts: A-2540.1
-Mentions: N-500, N-2
+Mentions: N-495, N-2
 Related Nodes: N-10907
 Investigative Direction: Interview the tipster about the exact words used and the dinner date.
 
@@ -953,7 +953,7 @@ Claim: The host says the tipster assumed the boyfriend was Charlie Kirk, but by 
 Transcript Snippet: the person in retrospect thought that she was talking about Charlie Kirk, but she actually wasn't at this time, according to our timeline, Erika was dating Cabot Phillips.
 
 Anchored Artifacts: A-2540.1
-Mentions: N-2, N-372, N-1
+Mentions: N-2, N-369, N-1
 Related Nodes: N-10907
 Investigative Direction: Establish dates of Erika Frantzve's relationship with Cabot Phillips from contemporaneous social-media posts.
 
@@ -968,7 +968,7 @@ Claim: The host says nothing came of the dinner and that the person involved wit
 Transcript Snippet: the person that was involved with this patent, eventually got into a little uh lawsuit with Victor Marx.
 
 Anchored Artifacts: 
-Mentions: N-348
+Mentions: N-345
 Related Nodes: N-10907
 Investigative Direction: Search state and federal court dockets for litigation between Victor Marx and the patent holder.
 
@@ -998,7 +998,7 @@ Claim: The host says a former Mossad agent testified that Epstein was introduced
 Transcript Snippet: Because a former Mossad agent testified to that effect, that he was introduced by Robert Maxwell and brought into the Iran-Contra affair.
 
 Anchored Artifacts: 
-Mentions: N-9, N-48, N-290
+Mentions: N-9, N-48, N-287
 Related Nodes: N-10023
 Investigative Direction: Locate the testimony referenced (likely Ari Ben-Menashe's) and its original source.
 
@@ -1149,7 +1149,7 @@ Claim: The host says that, as she understands it, people in Melania Trump's circ
 Transcript Snippet: as I understand it, Melania is in her circle, have said this, that she would be the most likely person to harm Donald Trump.
 
 Anchored Artifacts: 
-Mentions: N-612, N-60, N-5
+Mentions: N-607, N-60, N-5
 Investigative Direction: Identify any on-record source from Melania Trump's staff or associates.
 
 ---
@@ -1384,7 +1384,7 @@ Claim: The host says Victor Marx did not want to join Corby Hall on the show, so
 Transcript Snippet: Obviously, you know, Victor Marx uh did not want to join with Corby Hall. So we kept our appointment with Corby Hall.
 
 Anchored Artifacts: 
-Mentions: N-348, N-349
+Mentions: N-345, N-346
 Related Nodes: N-10613
 Investigative Direction: Obtain the host's correspondence with Victor Marx on interview terms.
 
@@ -1519,7 +1519,7 @@ Confidence: medium
 
 - **Artifacts verbally referenced but not shown**: A-2540.1 (tip on the 2016 Scottsdale gun-patent dinner) and A-2543.1 (cremation tip request). The Aspen audio or video, Erika Kirk's Fox News burial answer, the MSN article, Trump's "mentally ill" post and the Robinson affidavits are referenced but not shown and have no artifact.
 - **DIA scan**: real hits at 00:49:03 and 00:49:43 are inscribed (C-3879, C-3880, A-2543.1, A-2543.2, M-12). Not DIA beats: "candaceowens. com" at 00:43:49 is a merch and subscription plug. "Our tips box" at 01:22 and "a stunning tip" at 00:01 and 15:52 describe tips already received rather than a solicitation; they are noted here but not inscribed as separate DIA beats.
-- **Name matching**: "Nicci"/"Niecy" are mapped to N-575 Nicey (YouTuber). "Terrell" and "Tarrio" (49:43; also "Tarrio Robinson" at 51:43–52:39, evidently Tyler Robinson) are mapped to N-267 Terrell Farnsworth only where the camera operator is meant. "Blake enough" (00:01) is read as Blake Neff (N-162). "Blake" among those who did not call 911 is assumed to be Blake Neff, which is uncertain. "Lori Frantzbe" and "Larry Ginta" are mapped to N-500 and N-397. "Xavier Boussard" is mapped to N-290 Xavier Poussard. "Ashley" (09:05, a producer) is unidentified and not mapped to the existing Ashley Rinzberg node. "Jillian" (01:22), the then 15-year-old in Nicci's earlier text-message investigation, is likely the existing Jillian Falcon node but is not cited in a claim. Paula White Cain, Hillary Clinton, Ben Shapiro, Judge Judy and Jimmy Barbecue (Jimmy Cherizier) are named only in passing or in jokes and are not cited.
+- **Name matching**: "Nicci"/"Niecy" are mapped to N-570 Nicey (YouTuber). "Terrell" and "Tarrio" (49:43; also "Tarrio Robinson" at 51:43–52:39, evidently Tyler Robinson) are mapped to N-265 Terrell Farnsworth only where the camera operator is meant. "Blake enough" (00:01) is read as Blake Neff (N-162). "Blake" among those who did not call 911 is assumed to be Blake Neff, which is uncertain. "Lori Frantzbe" and "Larry Ginta" are mapped to N-495 and N-393. "Xavier Boussard" is mapped to N-287 Xavier Poussard. "Ashley" (09:05, a producer) is unidentified and not mapped to the existing Ashley Rinzberg node. "Jillian" (01:22), the then 15-year-old in Nicci's earlier text-message investigation, is likely the existing Jillian Falcon node but is not cited in a claim. Paula White Cain, Hillary Clinton, Ben Shapiro, Judge Judy and Jimmy Barbecue (Jimmy Cherizier) are named only in passing or in jokes and are not cited.
 - **Transcription ambiguities**: "Wiyre Fy" is read as the Why Refi sponsor (N-10870). "send him some kid" is "kit". "maca hats" is "MACA hats" (Make America Christian Again). "Shayna FK" (44:48) is unclear. "that meaning" (20:24) is likely "that meeting". "I'm looking at you, Larry" (50:27, viewer comment) apparently refers to Laura Loomer. The viewer comment at 54:08 says "Blake Masters" where Blake Neff is meant.
 - **Tip reliability**: the 2016 dinner account (C-3847–C-3854) is a single unnamed tipster's account relayed with "allegedly"; neither the gun, the patent holders nor the restaurant is named.
 - **Cross-episode links left out**: C-3872 may restate C-2774 (ep 94, Trump post mentioning "mentally ill") or C-2669 (ep 89). C-3848 may restate C-2707 or C-2752 (ep 91/93, Marx's Fold AR and Israeli Defense Group). C-3837 relates to C-1940 (ep 47, TPUSA defended the camera removal). C-3875 relates to C-2789 (ep 94, Erika's speedy-trial motion). The propositions differ or the match is uncertain, so these links are omitted.

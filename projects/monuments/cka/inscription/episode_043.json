@@ -86,7 +86,7 @@
             "C-1866"
           ],
           "related_nodes": [
-            "N-319",
+            "N-316",
             "N-10317"
           ],
           "tags": [],
@@ -109,10 +109,10 @@
             "C-1871"
           ],
           "related_nodes": [
-            "N-319",
-            "N-320",
-            "N-321",
-            "N-322"
+            "N-316",
+            "N-317",
+            "N-318",
+            "N-319"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -139,7 +139,7 @@
             "C-1873"
           ],
           "related_nodes": [
-            "N-323",
+            "N-320",
             "N-10319",
             "N-66",
             "N-192"
@@ -168,7 +168,7 @@
             "C-1874"
           ],
           "related_nodes": [
-            "N-324"
+            "N-321"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -242,7 +242,7 @@
             "C-1877"
           ],
           "related_nodes": [
-            "N-284"
+            "N-282"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -363,8 +363,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-319",
-      "ref": "N-319",
+      "@id": "N-316",
+      "ref": "N-316",
       "name": "Pierre Falcone",
       "type": "person",
       "description": "French-born arms dealer convicted in Angolagate scandal; reportedly currently residing in Scottsdale, Arizona; introduced in this episode as a potential link between France, Israel, Angola, and the United States.",
@@ -384,16 +384,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-320",
-        "N-321",
-        "N-322",
+        "N-317",
+        "N-318",
+        "N-319",
         "N-10317"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-320",
-      "ref": "N-320",
+      "@id": "N-317",
+      "ref": "N-317",
       "name": "Arcadi Gaydamak",
       "type": "person",
       "description": "Israeli-Russian-Israeli businessman; co-conspirator in Angolagate via Brenco International; convicted in absentia in France.",
@@ -410,13 +410,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-319"
+        "N-316"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-321",
-      "ref": "N-321",
+      "@id": "N-318",
+      "ref": "N-318",
       "name": "Jean-Christophe Mitterrand",
       "type": "person",
       "description": "Son of former French president François Mitterrand; implicated in Angolagate as having \"special access\" to Angolan government.",
@@ -432,14 +432,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-319",
-        "N-322"
+        "N-316",
+        "N-319"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-322",
-      "ref": "N-322",
+      "@id": "N-319",
+      "ref": "N-319",
       "name": "François Mitterrand",
       "type": "person",
       "description": "Former President of France (term during Angolagate exposure); implicated via his son.",
@@ -455,13 +455,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-321"
+        "N-318"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-323",
-      "ref": "N-323",
+      "@id": "N-320",
+      "ref": "N-320",
       "name": "Jesse Kege",
       "type": "person",
       "description": "YouTuber (\"One Shot TV\") who produced the .30-06 ballistic dummy demonstration; no prior horse in the Charlie Kirk case per host's description.",
@@ -483,8 +483,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-276",
-      "ref": "N-276",
+      "@id": "N-274",
+      "ref": "N-274",
       "name": "Dan Flood",
       "type": "person",
       "description": "Security professional positioned to Charlie Kirk's right; per host's tip, received a message from Charlie the night before the assassination.",
@@ -517,8 +517,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-284",
-      "ref": "N-284",
+      "@id": "N-282",
+      "ref": "N-282",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Journalist; referenced by viewer comment as having Erika Kirk on her show on the 13th.",
@@ -536,8 +536,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-324",
-      "ref": "N-324",
+      "@id": "N-321",
+      "ref": "N-321",
       "name": "Hodge Twins",
       "type": "person",
       "description": "Commentator duo; tweet regarding Republican midterm losses read aloud by host.",
@@ -570,7 +570,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-323"
+        "N-320"
       ]
     },
     {
@@ -590,7 +590,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-323"
+        "N-320"
       ]
     },
     {
@@ -638,7 +638,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-319"
+        "N-316"
       ]
     },
     {
@@ -679,7 +679,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-323"
+        "N-320"
       ]
     },
     {
@@ -698,7 +698,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1",
-        "N-276"
+        "N-274"
       ]
     },
     {
@@ -792,7 +792,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-319",
+        "N-316",
         "N-10317"
       ]
     },
@@ -901,7 +901,7 @@
       "claim_timestamp": "00:14:36–00:15:38",
       "investigative_direction": "Obtain primary French court records or a contemporaneous news report of the conviction to confirm charges and dates.",
       "mentions_person_refs": [
-        "N-319"
+        "N-316"
       ]
     },
     {
@@ -920,7 +920,7 @@
       "claim_timestamp": "00:14:36–00:15:38",
       "investigative_direction": "Locate the appellate decision and confirm the precise revised sentence and the date it was imposed.",
       "mentions_person_refs": [
-        "N-319"
+        "N-316"
       ]
     },
     {
@@ -937,7 +937,7 @@
       "claim_timestamp": "00:17:26",
       "investigative_direction": "Verify Pierre Falcone's current residence via property records, business filings, or U.S. immigration records.",
       "mentions_person_refs": [
-        "N-319"
+        "N-316"
       ]
     },
     {
@@ -954,8 +954,8 @@
       "claim_timestamp": "00:14:36–00:15:38",
       "investigative_direction": "Locate the French court judgment against Gaydamak and confirm the conviction and date.",
       "mentions_person_refs": [
-        "N-319",
-        "N-320"
+        "N-316",
+        "N-317"
       ]
     },
     {
@@ -972,10 +972,10 @@
       "claim_timestamp": "00:15:38–00:17:26",
       "investigative_direction": "Cross-reference the March 25 Global Witness report \"All the President's Men\" with CorpWatch and the original French judicial findings.",
       "mentions_person_refs": [
-        "N-319",
-        "N-320",
-        "N-321",
-        "N-322"
+        "N-316",
+        "N-317",
+        "N-318",
+        "N-319"
       ]
     },
     {
@@ -992,9 +992,9 @@
       "claim_timestamp": "00:15:38–00:17:26",
       "investigative_direction": "Locate the original Global Witness report figures and the French prosecutor's findings on arms volumes.",
       "mentions_person_refs": [
-        "N-319",
-        "N-320",
-        "N-321"
+        "N-316",
+        "N-317",
+        "N-318"
       ]
     },
     {
@@ -1011,9 +1011,9 @@
       "claim_timestamp": "00:15:38–00:17:26",
       "investigative_direction": "Verify Jean-Christophe Mitterrand's role via French court records.",
       "mentions_person_refs": [
-        "N-319",
-        "N-321",
-        "N-322"
+        "N-316",
+        "N-318",
+        "N-319"
       ]
     },
     {
@@ -1032,7 +1032,7 @@
       "claim_timestamp": "00:32:46–00:33:21",
       "investigative_direction": "Obtain the full One Shot TV video, including any second-round test (150gr Hornady ballistic tip), and verify the exact penetration result shown.",
       "mentions_person_refs": [
-        "N-323"
+        "N-320"
       ]
     },
     {
@@ -1051,7 +1051,7 @@
       "claim_timestamp": "00:33:21",
       "investigative_direction": "Cross-reference the One Shot TV demonstration with official forensic findings released by authorities.",
       "mentions_person_refs": [
-        "N-323"
+        "N-320"
       ]
     },
     {
@@ -1068,7 +1068,7 @@
       "claim_timestamp": "00:29:16",
       "investigative_direction": "Obtain the original tweet and confirm the exact text.",
       "mentions_person_refs": [
-        "N-324"
+        "N-321"
       ]
     },
     {
@@ -1119,7 +1119,7 @@
       "claim_timestamp": "00:40:18–00:41:02",
       "investigative_direction": "Verify against publicly available event listings and episode announcements.",
       "mentions_person_refs": [
-        "N-284",
+        "N-282",
         "N-2"
       ]
     },

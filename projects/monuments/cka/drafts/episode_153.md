@@ -340,7 +340,7 @@ Investigative Direction: Retrieve Tuminez's original emailed statement to confir
 Claim Timestamp: 00:08:00
 Claim: Brian Harpole presented on the Shawn Ryan show that the security team included combat-proven Marines, SEALs, 22-year SWAT veterans, 30-year cop and SWAT commander, and world-renowned jiu-jitsu practitioners.
 Anchored Artifacts: A-2386.1
-Mentions: N-1, N-272, N-229
+Mentions: N-1, N-270, N-228
 Investigative Direction: Retrieve full unedited Shawn Ryan episode and verify Harpole's on-air list against TPUSA security contractor records.
 
 ---
@@ -360,7 +360,7 @@ Investigative Direction: Compare against TPUSA's security manifest and the event
 Claim Timestamp: 00:27:11
 Claim: The displayed text message exchange between Dan Flood and Chief Jeffrey Long specifically referenced the Sorenson Student Center staircases providing access to walkways on the roof above where CK would be set up.
 Anchored Artifacts: A-2387.1, A-2388.1
-Mentions: N-276
+Mentions: N-274
 Related Nodes: N-10835
 Investigative Direction: Verify the original text thread metadata (timestamps, sender numbers) and confirm the recipient list.
 
@@ -371,7 +371,7 @@ Investigative Direction: Verify the original text thread metadata (timestamps, s
 Claim Timestamp: 00:30:35
 Claim: Chief Jeffrey Long responded to Dan Flood's rooftop-access request with the message "I got you covered."
 Anchored Artifacts: A-2387.1
-Mentions: N-276
+Mentions: N-274
 Related Nodes: N-10835
 Investigative Direction: Verify against UVU PD records and text-message metadata.
 
@@ -382,7 +382,7 @@ Investigative Direction: Verify against UVU PD records and text-message metadata
 Claim Timestamp: 00:29:56
 Claim: The notice of claim's quotation of the Dan Flood / Chief Long text exchange omits the original line "I was told students have access above us," which materially narrows the rooftop reference to the specific walkway above Charlie's head.
 Anchored Artifacts: A-2384.1, A-2387.1
-Mentions: N-276
+Mentions: N-274
 Related Nodes: N-10835
 Investigative Direction: Obtain the filed notice of claim text and the underlying original text records to formally document the omission and contextual difference.
 
@@ -413,7 +413,7 @@ Investigative Direction: Compare against UVU venue capacity records, ticketing d
 Claim Timestamp: 00:19:44
 Claim: The notice of claim alleges that UVU Chief Jeff Long requested approval from then-UVU president Astrid Tuminez to allocate more than six officers.
 Anchored Artifacts: A-2384.1
-Mentions: N-277
+Mentions: N-275
 Related Nodes: N-10836
 Investigative Direction: Obtain UVU PD internal communications and presidential approval logs from September 2025.
 

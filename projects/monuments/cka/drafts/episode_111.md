@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq111
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (skeleton): N-660, N-662, N-663, N-664, N-665, N-666, N-667, N-668, N-669, N-670, N-671, N-672, N-10948, N-10949, N-10950, N-10951, N-10952
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-22, N-27, N-30, N-46, N-60, N-82, N-97, N-99, N-162, N-249, N-348, N-461, N-462, N-562, N-592, N-637, N-10000, N-10008, N-10026, N-10056, N-10070, N-10194, N-10350, N-10376, N-10401, N-10411, N-10437, N-10451, N-10538, N-10583, N-10584, N-10637, N-10664, N-10700, N-10888, N-10923, N-10954, N-10953, N-661
+  - Tip-minted Nodes (skeleton): N-655, N-657, N-658, N-659, N-660, N-661, N-662, N-663, N-664, N-665, N-666, N-10948, N-10949, N-10950, N-10951, N-10952
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-22, N-27, N-30, N-46, N-60, N-82, N-97, N-99, N-162, N-248, N-345, N-456, N-457, N-557, N-587, N-632, N-10000, N-10008, N-10026, N-10056, N-10070, N-10194, N-10350, N-10376, N-10401, N-10411, N-10437, N-10451, N-10538, N-10583, N-10584, N-10637, N-10664, N-10700, N-10888, N-10923, N-10954, N-10953, N-656
   - Claim Range: C-4322–C-4384
   - (see registers)
 
@@ -38,7 +38,7 @@ Video Timestamp: 00:01:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4322, N-3, N-637*
+*Related: C-4322, N-3, N-632*
 
 ---
 
@@ -53,7 +53,7 @@ Video Timestamp: 00:04:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4326, N-3, N-660, N-637, N-10948*
+*Related: C-4326, N-3, N-655, N-632, N-10948*
 
 **A-2618.2** Laura Loomer post alleging a Dugin meeting and calling for FARA registration and FinCEN flags (shown and read aloud)
 
@@ -64,7 +64,7 @@ Video Timestamp: 00:06:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4327, C-4329, N-60, N-3, N-30, N-660, N-661, N-10949*
+*Related: C-4327, C-4329, N-60, N-3, N-30, N-655, N-656, N-10949*
 
 ---
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:20:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4337, C-4338, N-663, N-664, N-10951*
+*Related: C-4337, C-4338, N-657, N-658, N-10951*
 
 **A-2620.2** New York Times article "The Riddle of Armand Hammer" (quoted aloud)
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:24:59
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4341, C-4342, N-666, N-667, N-668, N-669, N-670*
+*Related: C-4341, C-4342, N-660, N-661, N-662, N-663, N-664*
 
 ---
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:27:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4343, N-3, N-663, N-10952*
+*Related: C-4343, N-3, N-657, N-10952*
 
 **A-2621.2** Host's photos from the Russia trip (grocery stores, Christian icons, an old Bible)
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:41:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4351, N-671, N-10008*
+*Related: C-4351, N-665, N-10008*
 
 **A-2622.3** Clip of Alex Clark's summit speech on a "God-honoring single season" ending in her engagement announcement
 
@@ -179,7 +179,7 @@ Video Timestamp: 00:48:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4355, N-99, N-3, N-637*
+*Related: C-4355, N-99, N-3, N-632*
 
 **A-2623.2** Alex Clark post claiming credit for prompting Trump's rant against the host
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:51:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4360, N-99, N-562*
+*Related: C-4360, N-99, N-557*
 
 **A-2623.4** Supercut of Alex Clark on masculinity
 
@@ -223,7 +223,7 @@ Video Timestamp: 00:53:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4361, C-4362, N-672, N-10954*
+*Related: C-4361, C-4362, N-666, N-10954*
 
 ---
 
@@ -346,7 +346,7 @@ Transcript spellings "Andrew Kolb" and "Andrew Kolburt". Messaged by the host ab
 *Related: C-4360, C-4376, C-4377, C-4379*
 
 **N-15** Justin Streiff
-Transcript spelling "Justin Streif". Messaged by the host about the appointment video.
+Transcript spelling "Justin Streiff". Messaged by the host about the appointment video.
 
 *Related: C-4376*
 
@@ -404,121 +404,121 @@ Suggested by the host to have known why TPUSA said the video would be dismissed 
 
 *Related: C-4365*
 
-**N-249** Mark Levin
+**N-248** Mark Levin
 
 Megyn Kelly is cited as believing he would hurt her; the host questions his family's Russian origins.
 
 *Related: C-4344*
 
-**N-348** Victor Marx
+**N-345** Victor Marx
 
 An emailer told the host he named Greg Laurie as his mentor.
 
 *Related: C-4349*
 
-**N-461** Greg Laurie
+**N-456** Greg Laurie
 
 Pastor of Harvest church, with which Erika Kirk toured; the church faces a Romania lawsuit.
 
 *Related: C-4348, C-4349*
 
-**N-462** Paul Havsgaard
+**N-457** Paul Havsgaard
 
 Transcript spelling "Paul Habsgard". Per the host, Greg Laurie's defense is that Havsgaard acted alone in Romania.
 
 *Related: C-4348*
 
-**N-562** Aubrey Lech
+**N-557** Aubrey Lech
 
 "Aubrey" whose husband Alex Clark called weird; mapped with medium confidence.
 
 *Related: C-4360, A-2623.3*
 
-**N-592** Thomas Massie
+**N-587** Thomas Massie
 
 Said to be honoring USS Liberty survivors; earlier TPUSA X exchange with him led Kolvet to say an intern runs the account.
 
 *Related: C-4336, C-4377*
 
-**N-660** Alexander Dugin
+**N-655** Alexander Dugin
 
 First named by the host at 00:00:01 in episode 111. Russian philosopher whom Laura Loomer's source alleges met the host's husband in Italy; the host denies ever meeting him. Alias: Dugan.
 
 *Related: C-4326, C-4327, C-4328, C-4334, C-4350, A-2618.1, A-2618.2*
 
-**N-637** Vladimir Putin
+**N-632** Vladimir Putin
 
 First named by the host at 00:01:02 in episode 111. Russian president; the host says her interview request was denied and critics claim he invited her to speak.
 
 *Related: C-4322, C-4323, C-4326, C-4334, C-4350, C-4355, A-2617.1, A-2618.1, A-2623.1*
 
-**N-661** Marco Rubio
+**N-656** Marco Rubio
 
 First named by the host at 00:06:42 in episode 111. Tagged as "Secretary Rubio" in Laura Loomer's post calling for the host to be investigated.
 
 *Related: C-4329, A-2618.2*
 
-**N-662** Phil Tourney
+**N-504** Phil Tourney
 
 First named by the host at 00:14:26 in episode 111. USS Liberty survivor the host interviewed.
 
 *Related: C-4336*
 
-**N-663** Tsar Alexander II
+**N-657** Tsar Alexander II
 
 First named by the host at 00:19:26 in episode 111. Russian tsar assassinated in 1881 by the People's Will; the Church of the Savior on Spilled Blood marks the site.
 
 *Related: C-4337, C-4343, A-2620.1, A-2621.1*
 
-**N-664** Deborah Hertz
+**N-658** Deborah Hertz
 
 First named by the host at 00:20:16 in episode 111. Author of the article on Jewish women radicals in tsarist Russia that the host quotes.
 
 *Related: C-4338, A-2620.1*
 
-**N-665** Yakov Yurovsky
+**N-659** Yakov Yurovsky
 
 First named by the host at 00:22:27 in episode 111. Bolshevik executioner who, per the host, led the murder of the Romanov family.
 
 *Related: C-4339*
 
-**N-666** Vladimir Lenin
+**N-660** Vladimir Lenin
 
 First named by the host at 00:23:20 in episode 111. Soviet leader under whom, per the host, the communist regime and mass killings began; appointed Ludwig Martens per the NYT article.
 
 *Related: C-4340, C-4341, A-2620.2*
 
-**N-667** Armie Hammer
+**N-661** Armie Hammer
 
 First named by the host at 00:24:15 in episode 111. Actor whose family history the host introduces via the Hammer story.
 
 *Related: C-4341, A-2620.2*
 
-**N-668** Julius Hammer
+**N-662** Julius Hammer
 
 First named by the host at 00:24:59 in episode 111. Per the New York Times article read by the host, financed the Soviet Bureau and converted smuggled diamonds into cash.
 
 *Related: C-4341, C-4342, A-2620.2*
 
-**N-669** Armand Hammer
+**N-663** Armand Hammer
 
 First named by the host at 00:24:59 in episode 111. Subject of the New York Times article "The Riddle of Armand Hammer"; denies the diamond account.
 
 *Related: C-4341, C-4342, A-2620.2*
 
-**N-670** Ludwig Martens
+**N-664** Ludwig Martens
 
 First named by the host at 00:25:49 in episode 111. Russian-German engineer appointed by Lenin to head the unofficial Soviet Bureau in New York.
 
 *Related: C-4341, A-2620.2*
 
-**N-671** Dana Loesch
+**N-665** Dana Loesch
 
 First named by the host at 00:41:37 in episode 111. Transcript spelling "Dana Lash" (also addressed as "Dana" at 27:36 and 29:21). Summit speaker who recited widow verses and, per the host, said she was working with Putin and Dugin. Alias: Dana Lash.
 
 *Related: C-4350, C-4351, A-2622.2*
 
-**N-672** Vance Voetberg
+**N-666** Vance Voetberg
 
 First named by the host at 00:52:41 in episode 111. Alex Clark's fiancé; says he works for Alliance Defending Freedom and runs the blog Running on Butter.
 
@@ -705,7 +705,7 @@ Claim: The host says the photo on the episode thumbnail is AI-generated and that
 Transcript Snippet: The photo on our thumbnail is AI. President Putin is not, in fact, in studio today.
 
 Anchored Artifacts: A-2617.1
-Mentions: N-3, N-637
+Mentions: N-3, N-632
 Investigative Direction: Examine the thumbnail image file and its provenance metadata.
 
 ---
@@ -719,7 +719,7 @@ Claim: The host says she and her husband formally requested an interview with Vl
 Transcript Snippet: And so, we put in a formal request, and that request was denied, as it is every year. I've actually been trying to interview Vladimir Putin for like 5 years now.
 
 Anchored Artifacts:
-Mentions: N-3, N-30, N-637, N-22
+Mentions: N-3, N-30, N-632, N-22
 Investigative Direction: Obtain the host's interview request correspondence with the Kremlin press office and the denial.
 
 ---
@@ -763,7 +763,7 @@ Claim: In a montage of critics played by the host, one commentator says Putin hi
 Transcript Snippet: So, the latest is Putin himself has just asked Can- Candace Owens to speak today um at this convention.
 
 Anchored Artifacts: A-2618.1
-Mentions: N-3, N-637, N-660
+Mentions: N-3, N-632, N-655
 Related Nodes: N-10948
 Investigative Direction: Obtain the SPIEF program and the organizers' record of who invited the host to the family panel.
 
@@ -778,7 +778,7 @@ Claim: The host says Laura Loomer claimed that, according to her sources, Alexan
 Transcript Snippet: Laura Loomer who said that sources told her that Alexander Dugin, which they were all very focused on Alexander Dugin, actually met with my husband George in Italy a month ago in some secret meeting.
 
 Anchored Artifacts: A-2618.2
-Mentions: N-60, N-660, N-30, N-3
+Mentions: N-60, N-655, N-30, N-3
 Related Nodes: N-10949
 Investigative Direction: Ask Loomer for her source and compare Dugin's and George Farmer's travel records for Italy in that period.
 
@@ -793,7 +793,7 @@ Claim: The host says she has never met Alexander Dugin and did not know he was s
 Transcript Snippet: Because I've never met Alexander Dugin. We still don't know Alexander Dugin, but I would like to know Alexander Dugin. I had no idea he was speaking at this SPIEF conference.
 
 Anchored Artifacts:
-Mentions: N-3, N-660
+Mentions: N-3, N-655
 Related Nodes: N-10948, N-10949
 Contradicts: C-4327
 Investigative Direction: Review SPIEF session rosters and any photographic record of the host and Dugin together.
@@ -809,7 +809,7 @@ Claim: The host reads a Laura Loomer post saying the host should be forced to re
 Transcript Snippet: Candace should be forced to register with FARA. And her bank accounts and her husband George Farmer bank accounts should be flagged by FinCEN while she is in Russia.
 
 Anchored Artifacts: A-2618.2
-Mentions: N-60, N-3, N-30, N-661
+Mentions: N-60, N-3, N-30, N-656
 Related Nodes: N-10949
 Investigative Direction: Archive the original Loomer post with its timestamp and tags.
 
@@ -882,7 +882,7 @@ Claim: The host says the staffer received an immediate CAT scan and surgery in R
 Transcript Snippet: He's He's still in recovery. Uh, he is still in Russia.
 
 Anchored Artifacts:
-Mentions: N-3, N-637, N-660
+Mentions: N-3, N-632, N-655
 Investigative Direction: Confirm the staffer's current status through his family.
 
 ---
@@ -911,7 +911,7 @@ Claim: The host says Thomas Massie announced that he was doing something to hono
 Transcript Snippet: Then we have at the same time Thomas Massie announcing that he's doing something to honor the survivors of the USS Liberty Phil Tourney being the person that I interviewed.
 
 Anchored Artifacts:
-Mentions: N-592, N-662, N-3
+Mentions: N-587, N-504, N-3
 Related Nodes: N-10451
 Investigative Direction: Locate Massie's announcement (resolution, bill or event) and its date.
 
@@ -926,7 +926,7 @@ Claim: The host says the assassination of Tsar Alexander II was plotted by the t
 Transcript Snippet: Um we could can start with the assassination of Tsar Alexander II. It was plotted by a terrorist group in Russia, known in English as the People's Will.
 
 Anchored Artifacts: A-2620.1
-Mentions: N-663
+Mentions: N-657
 Related Nodes: N-10951
 Investigative Direction: Consult historical scholarship on the membership of Narodnaya Volya and the 1881 assassination.
 
@@ -941,7 +941,7 @@ Claim: The host reads Deborah Hertz's article, which says the People's Will had 
 Transcript Snippet: Among these 2,000, some radicals were 95 Jewish women who represented almost a third of the only 348 women that were in the party.
 
 Anchored Artifacts: A-2620.1
-Mentions: N-664
+Mentions: N-658
 Related Nodes: N-10951
 Investigative Direction: Locate the Hertz article and check the figures against its cited membership data.
 
@@ -956,7 +956,7 @@ Claim: The host says the murder of the Romanov family was led by the Bolshevik e
 Transcript Snippet: The assassination of the Romanov family was led by the Bolshevik executioner Yakov Yurovsky.
 
 Anchored Artifacts:
-Mentions: N-665
+Mentions: N-659
 Tags: relevance:tangential
 Investigative Direction: Consult historical records of the 1918 Yekaterinburg execution.
 
@@ -971,7 +971,7 @@ Claim: The host says that after the revolution, with the communist regime under 
 Transcript Snippet: The communist regime began under Vladimir Lenin. Uh the greatest genocide of all time began. Is a better way of saying it. More than 60 million Russian Christians were then ruthlessly murdered.
 
 Anchored Artifacts:
-Mentions: N-666
+Mentions: N-660
 Investigative Direction: Compare the figure with demographic and historical estimates of Soviet repression deaths.
 
 ---
@@ -985,7 +985,7 @@ Claim: The host reads a New York Times article, "The Riddle of Armand Hammer," s
 Transcript Snippet: But since Martens could not get control of the Russian funds immediately, he turned to Julius Hammer for interim financing.
 
 Anchored Artifacts: A-2620.2
-Mentions: N-666, N-667, N-668, N-669, N-670
+Mentions: N-660, N-661, N-662, N-663, N-664
 Investigative Direction: Retrieve the New York Times article and the historical record of the Russian Soviet Government Bureau in New York.
 
 ---
@@ -999,7 +999,7 @@ Claim: The host reads from the New York Times article that by 1918 the Soviet Un
 Transcript Snippet: By 1918, the Soviet Union was financing the Soviet Bureau by smuggling diamonds into New York.
 
 Anchored Artifacts: A-2620.2
-Mentions: N-668, N-669
+Mentions: N-662, N-663
 Investigative Direction: Check the article's source (a fellow party member's autobiography) and period customs and Lusk Committee records.
 
 ---
@@ -1013,7 +1013,7 @@ Claim: The host shows her video of the Church of the Savior on Spilled Blood and
 Transcript Snippet: The the church is called appropriately called the Church of the Savior on Spilled Blood and this is a video so you guys can see that's where his carriage was bombed.
 
 Anchored Artifacts: A-2621.1
-Mentions: N-663, N-3
+Mentions: N-657, N-3
 Related Nodes: N-10952
 Investigative Direction: Consult the church's construction history.
 
@@ -1028,7 +1028,7 @@ Claim: The host says Megyn Kelly has said she truly believes that Mark Levin wou
 Transcript Snippet: she truly believes that if Mark Levin could get away with it, he would hurt her.
 
 Anchored Artifacts:
-Mentions: N-46, N-249, N-97
+Mentions: N-46, N-248, N-97
 Investigative Direction: Locate the Megyn Kelly episode in which she made the statement.
 
 ---
@@ -1085,7 +1085,7 @@ Claim: The host says Erika Kirk went on tour with Greg Laurie's Harvest church. 
 Transcript Snippet: you would partner with a church that is quite literally being sued for the very same reasons. Now, the lawsuit is not over.
 
 Anchored Artifacts:
-Mentions: N-2, N-461, N-462
+Mentions: N-2, N-456, N-457
 Related Nodes: N-10411, N-10401
 Supports: C-2087
 Investigative Direction: Pull the docket of the Harvest Christian Fellowship Romania lawsuits and the Erika Kirk–Harvest tour schedule.
@@ -1101,7 +1101,7 @@ Claim: The host says someone emailed her that Victor Marx has said his mentor wa
 Transcript Snippet: And actually someone emailed me and said that Victor Marx said that his like mentor was Greg Laurie.
 
 Anchored Artifacts:
-Mentions: N-348, N-461
+Mentions: N-345, N-456
 Investigative Direction: Search Victor Marx's interviews and books for statements about Greg Laurie as a mentor.
 
 ---
@@ -1115,7 +1115,7 @@ Claim: The host says Dana Loesch said the host could not go to Russia and was wo
 Transcript Snippet: Which brings us to Dana Lash, the one who just said you can't go to Russia, and Candace is working with Putin and Dugan.
 
 Anchored Artifacts:
-Mentions: N-671, N-3, N-637, N-660
+Mentions: N-665, N-3, N-632, N-655
 Investigative Direction: Locate Loesch's broadcast or post making the statement.
 
 ---
@@ -1129,7 +1129,7 @@ Claim: In a clip played by the host, Dana Loesch recites Exodus 22:22 and other 
 Transcript Snippet: Exodus 22:22, "You shall not afflict any widow or fatherless child.
 
 Anchored Artifacts: A-2622.2
-Mentions: N-671
+Mentions: N-665
 Related Nodes: N-10008, N-10000
 Investigative Direction: Obtain the full speech recording from the summit.
 
@@ -1189,7 +1189,7 @@ Claim: The host reads Alex Clark's reply, which says the rename was already in t
 Transcript Snippet: I'd worry less about ours and more about the fact that yours seems to consist primarily primarily of leftists hate watching and Russian bots.
 
 Anchored Artifacts: A-2623.1
-Mentions: N-99, N-3, N-637
+Mentions: N-99, N-3, N-632
 Investigative Direction: Archive the original post.
 
 ---
@@ -1262,7 +1262,7 @@ Claim: The host says Alex Clark went after Aubrey, who used to work for Andrew K
 Transcript Snippet: describing her husband as weird sharing a private correspondence with Charlie just to hurt her
 
 Anchored Artifacts: A-2623.3
-Mentions: N-99, N-562, N-14, N-1
+Mentions: N-99, N-557, N-14, N-1
 Investigative Direction: Archive Alex Clark's posts and the correspondence she shared.
 
 ---
@@ -1276,7 +1276,7 @@ Claim: The host says Alex Clark is engaged to Vance Voetberg, seven years younge
 Transcript Snippet: they learned that she was engaged to a man seven years her junior, um who no person in their right mind would accuse of being masculine, a man named Vance Voytberg
 
 Anchored Artifacts: A-2623.5
-Mentions: N-99, N-672
+Mentions: N-99, N-666
 Investigative Direction: Public records and the couple's own announcements.
 
 ---
@@ -1290,7 +1290,7 @@ Claim: In clips played by the host, Vance Voetberg says he lives in Scottsdale, 
 Transcript Snippet: My name is Vance. I live in Scottsdale, Arizona. Um I'm here working for a Christian legal organization called Alliance Defending Freedom.
 
 Anchored Artifacts: A-2623.5
-Mentions: N-672
+Mentions: N-666
 Related Nodes: N-10954
 Investigative Direction: Check ADF staff listings and the Running on Butter site.
 
@@ -1496,9 +1496,9 @@ Investigative Direction: The email thread and any official TPUSA reply.
 
 Claim Timestamp: 01:06:42
 
-Claim: The host says she sent her questions to Andrew Kolvet, Justin Streif and TPUSA's lawyer, but the only response came from the TPUSA X account.
+Claim: The host says she sent her questions to Andrew Kolvet, Justin Streiff and TPUSA's lawyer, but the only response came from the TPUSA X account.
 
-Transcript Snippet: I messaged Andrew Kolvet, I messaged Justin Streif, and I messaged the lawyer that they use to answer questions.
+Transcript Snippet: I messaged Andrew Kolvet, I messaged Justin Streiff, and I messaged the lawyer that they use to answer questions.
 
 Anchored Artifacts: A-2626.1
 Mentions: N-3, N-14, N-15
@@ -1516,7 +1516,7 @@ Claim: The host says that after a TPUSA X post about Thomas Massie, Andrew Kolve
 Transcript Snippet: Andrew Kolvet made a phone call and said, "Oh, we don't run our TPUSA account. An intern runs that."
 
 Anchored Artifacts:
-Mentions: N-14, N-592
+Mentions: N-14, N-587
 Related Nodes: N-10538, N-10000
 Investigative Direction: Locate the Massie–TPUSA exchange and Kolvet's statement about it.
 
@@ -1861,7 +1861,7 @@ Confidence: high
 - **Duration mismatch**: the skeleton's Video Timestamp Range said 00:56:29, but the transcript front matter gives 1:22:06. The range is set to 01:22:06 per the spec. The skeleton's M-56 occurrence timestamp (00:07:43) and its truncated quote are kept verbatim, although the "Clown World" line sits in the [06:42] paragraph.
 - **DIA scan**: no real DIA beat. The only hits are "candaceowens. com" at 01:20:38 and 01:21:32, both merch plugs, not tip requests. The host's mention that "someone emailed me" about Victor Marx and Greg Laurie (00:40:20, C-4349) is a received tip but uses none of the scan phrases. She also says she reached out to the Aspen donors (C-4382). No M-12 or M-14 occurrences are added.
 - **Artifacts verbally referenced but not clearly shown**: A-2619.1 (the "Congress discreetly moves to merge US military" headline; the host says "you guys saw the headlines") and A-2627.1 (the White House FOIA response, a verbal reference only). The Daily Mail article on the video, the Megyn Kelly interview, Erika Kirk's fundraising email with Charlie's letter, and Trump's posts about the host are mentioned but not shown, so they are not inscribed as artifacts.
-- **Name matching**: "Dana Lash" (41:37) is minted as N-671 Dana Loesch. The context is the Turning Point summit speaker who attacked the host over Russia, and the host's earlier asides to "Dana" (27:36, 29:21) are taken to be her; nodes.tsv has no row for her. "Dugan" (41:37) is Alexander Dugin. "Paul Habsgard" is mapped to N-462 Paul Havsgaard through its alias. "Aubrey" (51:07) is mapped to N-562 Aubrey Lech with medium confidence. The transcript says "Aubrey, Aubrey's husband. Um the one who used to work uh for Andrew Kolb at", so it is ambiguous whether Aubrey or her husband worked for Kolvet. "Andrew Kolb"/"Andrew Kolburt" are mapped to N-14. "Justin Streif" is mapped to N-15. "Megan Kelly" is mapped to N-46. "Vladimir Putin" reuses the node title minted as N-660 in staging episode 105. "Vance Voetberg" spelling is unverified and kept as transcribed. "Secretary Rubio" is minted as N-661 Marco Rubio from the host's reading of Loomer's tags.
+- **Name matching**: "Dana Lash" (41:37) is minted as N-665 Dana Loesch. The context is the Turning Point summit speaker who attacked the host over Russia, and the host's earlier asides to "Dana" (27:36, 29:21) are taken to be her; nodes.tsv has no row for her. "Dugan" (41:37) is Alexander Dugin. "Paul Habsgard" is mapped to N-457 Paul Havsgaard through its alias. "Aubrey" (51:07) is mapped to N-557 Aubrey Lech with medium confidence. The transcript says "Aubrey, Aubrey's husband. Um the one who used to work uh for Andrew Kolb at", so it is ambiguous whether Aubrey or her husband worked for Kolvet. "Andrew Kolb"/"Andrew Kolburt" are mapped to N-14. "Justin Streiff" is mapped to N-15. "Megan Kelly" is mapped to N-46. "Vladimir Putin" reuses the node title minted as N-655 in staging episode 105. "Vance Voetberg" spelling is unverified and kept as transcribed. "Secretary Rubio" is minted as N-656 Marco Rubio from the host's reading of Loomer's tags.
 - **Topic reuse**: N-10923 reuses the exact title "White House Military Office Erika Kirk Amplification Email" from staging episode 105. M-95 reuses the title "Emotional Response Asset" from staging episode 105, although here the host says only "emotional asset."
 - **Transcription ambiguities**: "Dangerously Asens" and "Zarist Russia" in the Hertz article title are kept as transcribed. "Candace Tovia Moscowins" is a joke name. "WLS" in the email is the Women's Leadership Summit. "Conrad" in the TPUSA reply is likely "comrade." "Maxwell class" (01:11:42) probably means "Maxwell clan."
 - **Possible cross-episode links considered**: C-4373 Supports C-2889 (ep 102) and could also link C-2685 (ep 90, same audio line). C-4369 Supports C-2694 and C-2888. C-4363 Supports C-2657. C-4348 Supports C-2087. The host's mention of the clip as Erika's "walk out music" could link C-2656 (ep 88), but the summit setting differs from AmFest, so it is left out. C-4365 might relate to C-2661 (ep 88, Blake Neff refused to release the video) but is not the same proposition.

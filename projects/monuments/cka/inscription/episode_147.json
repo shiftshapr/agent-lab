@@ -633,8 +633,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-375",
-      "ref": "N-375",
+      "@id": "N-372",
+      "ref": "N-372",
       "name": "Danny Philip",
       "type": "person",
       "description": "Footage discussed by the host shows Danny Phillip running, meeting and ducking down with Mikey McCoy in front of Kirk's vehicle.",
@@ -781,8 +781,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-229",
-      "ref": "N-229",
+      "@id": "N-228",
+      "ref": "N-228",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Podcast host of the Brian Harpole interview that the independent review and this episode treat as contradictory to review-team findings.",
@@ -797,8 +797,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -829,8 +829,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-340",
-      "ref": "N-340",
+      "@id": "N-337",
+      "ref": "N-337",
       "name": "Viva Frey",
       "type": "person",
       "description": "Viva Frey (wave3 orphan mint).",
@@ -846,8 +846,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-503",
-      "ref": "N-503",
+      "@id": "N-498",
+      "ref": "N-498",
       "name": "Justin Davis",
       "type": "person",
       "description": "Named by the host at 00:12:13 in episode 147; first introduced in episode 124.",
@@ -867,8 +867,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-435",
-      "ref": "N-435",
+      "@id": "N-431",
+      "ref": "N-431",
       "name": "Richard Novak",
       "type": "person",
       "description": "First named by the host at 00:10:02 in episode 94. Aliases: Richard Novac.",
@@ -883,8 +883,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-515",
-      "ref": "N-515",
+      "@id": "N-510",
+      "ref": "N-510",
       "name": "Nate Walker",
       "type": "person",
       "description": "First named by the host at 00:03:16 in episode 126.",
@@ -1045,7 +1045,7 @@
       "investigative_direction": "Cross-reference vehicle key logs, security team statements, and any post-event interviews with Davis and Neff to confirm.",
       "mentions_person_refs": [
         "N-162",
-        "N-503"
+        "N-498"
       ]
     },
     {
@@ -1064,9 +1064,9 @@
       "claim_timestamp": "00:21:00",
       "investigative_direction": "Obtain original footage for frame-by-frame analysis; obtain statements from McCoy and Phillip regarding this movement.",
       "mentions_person_refs": [
-        "N-375",
+        "N-372",
         "N-194",
-        "N-503"
+        "N-498"
       ]
     },
     {
@@ -1104,7 +1104,7 @@
       "claim_timestamp": "00:22:38",
       "investigative_direction": "Identify the bag's owner; obtain receipt / loss-property reports if any.",
       "mentions_person_refs": [
-        "N-503"
+        "N-498"
       ]
     },
     {
@@ -1121,7 +1121,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-503"
+        "N-498"
       ]
     },
     {
@@ -1140,7 +1140,7 @@
       "claim_timestamp": "00:17:03",
       "investigative_direction": "Obtain original TikTok source footage with timestamp; obtain statements from Christopher and Walker regarding their location and purpose.",
       "mentions_person_refs": [
-        "N-515"
+        "N-510"
       ]
     },
     {
@@ -1198,7 +1198,7 @@
       "investigative_direction": "Obtain toll/transponder logs, security radio logs, or vehicle GPS records to verify arrival times.",
       "mentions_person_refs": [
         "N-1",
-        "N-503"
+        "N-498"
       ]
     },
     {
@@ -1270,7 +1270,7 @@
       "claim_timestamp": "00:40:25",
       "investigative_direction": "Locate the specific post; verify timestamp.",
       "mentions_person_refs": [
-        "N-340"
+        "N-337"
       ]
     },
     {
@@ -1309,7 +1309,7 @@
       "investigative_direction": "Confirm both posts remain on X; compare timestamps.",
       "mentions_person_refs": [
         "N-162",
-        "N-435"
+        "N-431"
       ]
     },
     {
@@ -1331,7 +1331,7 @@
       "investigative_direction": "Read Novac's full argument transcript; compare against Aug 11 filing page 32 and the state's responsive briefing.",
       "mentions_person_refs": [
         "N-40",
-        "N-435"
+        "N-431"
       ]
     },
     {
@@ -1493,8 +1493,8 @@
       "investigative_direction": "Locate the Shawn Ryan interview clip; obtain Harpole's full statement; cross-reference against Kirk's prior-night communications.",
       "mentions_person_refs": [
         "N-1",
-        "N-272",
-        "N-229"
+        "N-270",
+        "N-228"
       ]
     },
     {

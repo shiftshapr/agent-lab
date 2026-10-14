@@ -522,8 +522,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-229",
-      "ref": "N-229",
+      "@id": "N-228",
+      "ref": "N-228",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Podcast host of the Brian Harpole interview that the independent review and this episode treat as contradictory to review-team findings.",
@@ -538,8 +538,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -554,8 +554,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-276",
-      "ref": "N-276",
+      "@id": "N-274",
+      "ref": "N-274",
       "name": "Dan Flood",
       "type": "person",
       "description": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story).",
@@ -570,8 +570,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-277",
-      "ref": "N-277",
+      "@id": "N-275",
+      "ref": "N-275",
       "name": "Jeff Long",
       "type": "person",
       "description": "UVU police chief; Turek recounts Long saying he was thrown under the bus and arguing only the bridge roof was covered.",
@@ -655,8 +655,8 @@
       "investigative_direction": "Retrieve full unedited Shawn Ryan episode and verify Harpole's on-air list against TPUSA security contractor records.",
       "mentions_person_refs": [
         "N-1",
-        "N-272",
-        "N-229"
+        "N-270",
+        "N-228"
       ]
     },
     {
@@ -693,7 +693,7 @@
       "claim_timestamp": "00:27:11",
       "investigative_direction": "Verify the original text thread metadata (timestamps, sender numbers) and confirm the recipient list.",
       "mentions_person_refs": [
-        "N-276"
+        "N-274"
       ]
     },
     {
@@ -712,7 +712,7 @@
       "claim_timestamp": "00:30:35",
       "investigative_direction": "Verify against UVU PD records and text-message metadata.",
       "mentions_person_refs": [
-        "N-276"
+        "N-274"
       ]
     },
     {
@@ -732,7 +732,7 @@
       "claim_timestamp": "00:29:56",
       "investigative_direction": "Obtain the filed notice of claim text and the underlying original text records to formally document the omission and contextual difference.",
       "mentions_person_refs": [
-        "N-276"
+        "N-274"
       ]
     },
     {
@@ -783,7 +783,7 @@
       "claim_timestamp": "00:19:44",
       "investigative_direction": "Obtain UVU PD internal communications and presidential approval logs from September 2025.",
       "mentions_person_refs": [
-        "N-277"
+        "N-275"
       ]
     },
     {

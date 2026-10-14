@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: 5eb7035303a9a0f0c01956d1da545d902c17401379f1f211ba96808ff60e689b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-908, N-909, N-910, N-11299
-  - Hole-minted Nodes (reintro-ep098): N-382, N-440
+  - Tip-minted Nodes (supplement_2026-10e): N-901, N-902, N-903, N-11299
+  - Hole-minted Nodes (reintro-ep098): N-379, N-436
   - Tip-minted Nodes (reintro-ep098): N-10910, N-10914
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11492–C-11560
   - New Nodes Introduced: N-10652, N-10654, N-10655, N-10656
-  - Hole-minted Nodes (wave3): N-439
-  - Reused Nodes Appearing: N-10900, N-10653, N-10651, N-5, N-22, N-30, N-36, N-40, N-46, N-85, N-102, N-118, N-166, N-236, N-276, N-374, N-495, N-496, N-876, N-10000, N-10002, N-10131, N-10238, N-10379, N-10385, N-10406, N-10416, N-10487, N-10631, N-10637, N-10640, N-10661, N-10689, N-10694, N-11116
+  - Hole-minted Nodes (wave3): N-435
+  - Reused Nodes Appearing: N-10900, N-10653, N-10651, N-5, N-22, N-30, N-36, N-40, N-46, N-85, N-102, N-118, N-166, N-235, N-274, N-371, N-490, N-491, N-869, N-10000, N-10002, N-10131, N-10238, N-10379, N-10385, N-10406, N-10416, N-10487, N-10631, N-10637, N-10640, N-10661, N-10689, N-10694, N-11116
   - (see registers)
 
 ## 2. Executive Summary
@@ -523,7 +523,7 @@ Confidence Level: High
 
 ## 4. Node Register
 
-**N-439** Chad Schnitker
+**N-435** Chad Schnitker
 
 First named by the host at 00:37:02 in episode 98.
 
@@ -744,7 +744,7 @@ Gupta's post credits his documentary Am I Racist? as a top-grossing 2024 release
 
 ---
 
-**N-236** Andrew Klavan
+**N-235** Andrew Klavan
 
 The host wishes he had never made the Crisis King video.
 
@@ -752,7 +752,7 @@ The host wishes he had never made the Crisis King video.
 
 ---
 
-**N-272** Brian Harpole
+**N-270** Brian Harpole
 
 Plaintiff in the lawsuit against the host.
 
@@ -760,7 +760,7 @@ Plaintiff in the lawsuit against the host.
 
 ---
 
-**N-276** Dan Flood
+**N-274** Dan Flood
 
 The host says she did not believe he was involved and hopes for access to his phone.
 
@@ -768,7 +768,7 @@ The host says she did not believe he was involved and hopes for access to his ph
 
 ---
 
-**N-374** Jeremy Boreing
+**N-371** Jeremy Boreing
 
 Daily Wire co-founder (transcribed Jeremy Boring); stepped down as co-CEO per Gupta's post, and the host blames him for the debt.
 
@@ -776,7 +776,7 @@ Daily Wire co-founder (transcribed Jeremy Boring); stepped down as co-CEO per Gu
 
 ---
 
-**N-382** Harmeet Dhillon
+**N-379** Harmeet Dhillon
 
 DOJ Civil Rights head; the host discusses her law firm, her stake and her possible attorney general bid.
 
@@ -784,7 +784,7 @@ DOJ Civil Rights head; the host discusses her law firm, her stake and her possib
 
 ---
 
-**N-440** Brad Parscale
+**N-436** Brad Parscale
 
 Named in the Times of Israel article as holding a $1.5 million a month contract.
 
@@ -792,7 +792,7 @@ Named in the Times of Israel article as holding a $1.5 million a month contract.
 
 ---
 
-**N-495** Blake Lively
+**N-490** Blake Lively
 
 Party to the settled lawsuit the host discusses.
 
@@ -800,7 +800,7 @@ Party to the settled lawsuit the host discusses.
 
 ---
 
-**N-496** Justin Baldoni
+**N-491** Justin Baldoni
 
 Party to the settled lawsuit the host discusses.
 
@@ -808,7 +808,7 @@ Party to the settled lawsuit the host discusses.
 
 ---
 
-**N-876** Matt Slauson
+**N-869** Matt Slauson
 
 Lawyer who sent the Harpole lawsuit and the host's long-time arbitration opponent.
 
@@ -968,7 +968,7 @@ Existing topic reused for the Klavan claim.
 
 ---
 
-**N-908** Bryan Freedman
+**N-901** Bryan Freedman
 
 First named by the host at 00:55:14 in episode 98 (transcribed Brian Friedman). Lawyer the host congratulates for the Baldoni result.
 Aliases: Brian Friedman
@@ -977,7 +977,7 @@ Aliases: Brian Friedman
 
 ---
 
-**N-909** Melissa Nathan
+**N-902** Melissa Nathan
 
 First named by the host at 00:55:14 in episode 98. PR professional the host congratulates.
 
@@ -985,7 +985,7 @@ First named by the host at 00:55:14 in episode 98. PR professional the host cong
 
 ---
 
-**N-910** Zalman Shapiro
+**N-903** Zalman Shapiro
 
 First named by the host at 00:56:47 in episode 98. The host asks if he is Ben Shapiro's uncle who took uranium to Israel.
 
@@ -1135,7 +1135,7 @@ Claim Timestamp: 00:37:02
 Claim: A Times of Israel article reported Israel's Foreign Ministry plans to spend up to $4.1 million on a Christian-targeted marketing campaign via Show Faith by Works LLC, using geofencing technology.
 
 Anchored Artifacts: A-2035.1
-Mentions: N-439
+Mentions: N-435
 
 Related Nodes: N-10652, N-10653
 
@@ -1150,7 +1150,7 @@ Claim Timestamp: 00:36:00
 Claim: The FARA registration for Show Faith by Works LLC identifies Chad Schnitker, a California Christian conservative activist, as principal.
 
 Anchored Artifacts: A-2035.1, A-2036.1
-Mentions: N-439
+Mentions: N-435
 
 Related Nodes: N-10652
 
@@ -1163,7 +1163,7 @@ Claim Timestamp: 00:36:00
 Claim: Show Faith by Works LLC began its FARA contracting registration approximately eight days after Charlie Kirk's assassination.
 
 Anchored Artifacts: A-2036.1
-Mentions: N-1, N-439
+Mentions: N-1, N-435
 
 Related Nodes: N-10652
 
@@ -1176,7 +1176,7 @@ Claim Timestamp: 00:36:00
 Claim: Show Faith by Works LLC was contracted by Havoc Media on the 8th [day], followed by the public funeral of Charlie Kirk.
 
 Anchored Artifacts: A-2036.1, A-2044.1
-Mentions: N-1, N-439
+Mentions: N-1, N-435
 
 Related Nodes: N-10652, N-10653
 
@@ -1217,7 +1217,7 @@ Claim Timestamp: 00:31:50
 Claim: On his show, Baron Coleman read a viewer comment stating that a friend of the commenter's husband was contacted by "Larry L" to photograph the host at the Charlotte airport at the moment the lawsuit email arrived.
 
 Anchored Artifacts: A-2039.1
-Mentions: N-337, N-60
+Mentions: N-334, N-60
 
 Related Nodes: N-10656
 
@@ -1245,7 +1245,7 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: The Brian Harpole lawsuit's final page lists Jacob William Roth as partner of the firm; host states Roth has been married to Ben Shapiro's sister since 2018.
 
 Anchored Artifacts: A-2042.1
-Mentions: N-272, N-97
+Mentions: N-270, N-97
 
 Related Nodes: N-10651
 
@@ -1260,7 +1260,7 @@ Claim Timestamp: 00:33:10
 Claim: Jacob William Roth retweeted the Brian Harpole lawsuit document.
 
 Anchored Artifacts: A-2043.1
-Mentions: N-272
+Mentions: N-270
 
 Related Nodes: N-10651
 
@@ -1347,7 +1347,7 @@ Claim: The host says the Brian Harpole lawsuit was sent by Matt Slauson, the sam
 Transcript Snippet: it's been sent from the same lawyer who had already been suing me nonstop in arbitration on Ben Shapiro's behalf for 2 years.
 
 Anchored Artifacts: 
-Mentions: N-3, N-97, N-876, N-272
+Mentions: N-3, N-97, N-869, N-270
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Compare counsel of record on the Harpole filing with counsel in the host's Daily Wire arbitration filings.
@@ -1491,7 +1491,7 @@ Claim: In the Akash Gupta post the host reads, co-founder Jeremy Boring stepped 
 Transcript Snippet: Early 2025, co-founder Jeremy Boring stepped down as co-CEO and launched a solo podcast outside of the company that he co-founded.
 
 Anchored Artifacts: A-2031.1
-Mentions: N-374
+Mentions: N-371
 Related Nodes: N-10900
 Tags: relevance:context
 Investigative Direction: Verify the date of Boreing's change of role and the Bentkey shutdown from company announcements.
@@ -1602,7 +1602,7 @@ Claim: The host says she wanted to leave the Daily Wire quietly and that she wis
 Transcript Snippet: I wish Andrew Klavan never made the Crisis King video.
 
 Anchored Artifacts: 
-Mentions: N-3, N-236
+Mentions: N-3, N-235
 Related Nodes: N-11116
 Tags: relevance:context
 Investigative Direction: Identify the Klavan video and compare its date with the host's firing and the Christ is King dispute.
@@ -1789,7 +1789,7 @@ Claim: The host alleges that Ben Shapiro worked behind the scenes and publicly t
 Transcript Snippet: after working behind the scenes to encourage and in front of the scenes, as you saw, to encourage Erika Kirk to sue me, he likely landed upon Brian Harpole
 
 Anchored Artifacts: A-3138.1
-Mentions: N-97, N-2, N-272, N-3
+Mentions: N-97, N-2, N-270, N-3
 Related Nodes: N-10651
 Supports: C-9648
 Tags: relevance:core
@@ -1838,7 +1838,7 @@ Claim: The host says she was standing in the Charlotte airport when she received
 Transcript Snippet: but I was standing in the Charlotte airport when I received that email.
 
 Anchored Artifacts: A-2039.1
-Mentions: N-3, N-876
+Mentions: N-3, N-869
 Related Nodes: N-10656
 Supports: C-2849
 Tags: relevance:core
@@ -1855,7 +1855,7 @@ Claim: The host says Matt Slauson's firm first sent a demand saying a lawsuit wo
 Transcript Snippet: they had first sent this like I don't know demand thing at first and said we are filing this lawsuit in 4 days
 
 Anchored Artifacts: 
-Mentions: N-3, N-876
+Mentions: N-3, N-869
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Obtain the demand letter and its date.
@@ -1871,7 +1871,7 @@ Claim: The host alleges that Loomer's apparent knowledge of the email suggests c
 Transcript Snippet: That signals that there's some coordination between Matt Slauson, Ben Shapiro's lawyer, um and Laura Loomer.
 
 Anchored Artifacts: A-2039.1
-Mentions: N-876, N-97, N-60
+Mentions: N-869, N-97, N-60
 Related Nodes: N-10656, N-10651
 Tags: relevance:core
 Investigative Direction: Look for communications, payments or contacts between Loomer, Slauson and the person who allegedly tried to hire a photographer.
@@ -1902,7 +1902,7 @@ Claim: The host says Dhillon Law Group is Harmeet Dhillon's law firm and that Dh
 Transcript Snippet: Dhillon Law Group is Harmeet Dhillon's law firm. She currently works for the Department of Justice.
 
 Anchored Artifacts: 
-Mentions: N-382
+Mentions: N-379
 Related Nodes: N-10910
 Tags: relevance:context
 Investigative Direction: DOJ biography and confirmation records.
@@ -1918,7 +1918,7 @@ Claim: The host says she thinks Harmeet Dhillon transferred her stake in her fir
 Transcript Snippet: I think uh transferred the stake in her in the company to her brother while she's currently serving the Department of Justice.
 
 Anchored Artifacts: 
-Mentions: N-382
+Mentions: N-379
 Related Nodes: N-10910
 Tags: relevance:context
 Investigative Direction: Ethics disclosures and state business filings for the firm.
@@ -1934,7 +1934,7 @@ Claim: The host says Harmeet Dhillon is the frontrunner to replace Pam Bondi as 
 Transcript Snippet: She's also the frontrunner to replace Pam Bondi for Attorney General of the United States.
 
 Anchored Artifacts: 
-Mentions: N-382, N-85
+Mentions: N-379, N-85
 Tags: relevance:context
 Investigative Direction: News reporting on the attorney general succession.
 
@@ -1949,7 +1949,7 @@ Claim: The host says that, while Dhillon's firm has never been accused or charge
 Transcript Snippet: but her law firm is heavily involved in a lot of legal um issues on behalf of Israel, right?
 
 Anchored Artifacts: 
-Mentions: N-382
+Mentions: N-379
 Related Nodes: N-10910
 Tags: relevance:context
 Investigative Direction: FARA and court dockets listing the firm's clients.
@@ -2029,7 +2029,7 @@ Claim: The Times of Israel article the host reads says the campaign complements 
 Transcript Snippet: complementing a $1.5 million per a month contract for AI-driven social media activity with former Trump campaign strategist Brad Parscale
 
 Anchored Artifacts: A-2035.1
-Mentions: N-440
+Mentions: N-436
 Tags: relevance:context
 Investigative Direction: FARA filing for the Parscale contract.
 
@@ -2108,7 +2108,7 @@ Claim: The host says Andrew Kolvet happened to be sitting with Harmeet Dhillon a
 Transcript Snippet: Andrew Kolvet, who happened to actually be sitting with Harmeet Dhillon at the recent White House Correspondents Dinner shooting
 
 Anchored Artifacts: 
-Mentions: N-14, N-382
+Mentions: N-14, N-379
 Related Nodes: N-10637
 Tags: relevance:core
 Investigative Direction: Obtain the WHCD seating chart and table assignments.
@@ -2188,7 +2188,7 @@ Claim: The host says the recent events were on her birthday and that the Daily W
 Transcript Snippet: it was very Daily Wire coded cuz last time when they like sent it was like on Jeremy Boring's birthday.
 
 Anchored Artifacts: 
-Mentions: N-3, N-374
+Mentions: N-3, N-371
 Tags: relevance:tangential
 Investigative Direction: Compare dates of the earlier filing with Boreing's birthday.
 
@@ -2203,7 +2203,7 @@ Claim: The host says the reason the Daily Wire got into debt was Jeremy Boring, 
 Transcript Snippet: the reason they got into debt, he was just like maniacal.
 
 Anchored Artifacts: 
-Mentions: N-3, N-374
+Mentions: N-3, N-371
 Related Nodes: N-10900, N-10689
 Tags: relevance:context
 Investigative Direction: Daily Wire financing disclosures.
@@ -2219,7 +2219,7 @@ Claim: The host says she genuinely did not believe Brian Harpole or Dan Flood we
 Transcript Snippet: I genuinely did not believe that Brian Harpole or Dan Flood were involved when this went down. I defended them on this platform.
 
 Anchored Artifacts: 
-Mentions: N-3, N-272, N-276
+Mentions: N-3, N-270, N-274
 Related Nodes: N-10651, N-10694
 Tags: relevance:core
 Investigative Direction: Review the host's earlier statements about Harpole and Flood and her outreach message to Harpole.
@@ -2235,7 +2235,7 @@ Claim: The host says she had worked with Brian Harpole and generally can think o
 Transcript Snippet: because like I said I had worked with him.
 
 Anchored Artifacts: 
-Mentions: N-3, N-272
+Mentions: N-3, N-270
 Tags: relevance:core
 Investigative Direction: Identify events or work where the host's team and Harpole's security overlapped.
 
@@ -2250,7 +2250,7 @@ Claim: The host says she hopes the lawsuit will let her obtain access to Harpole
 Transcript Snippet: have access to his phone, have access to Dan Flood's phone, have access even to Erika's phone on that day, to have access to the footage.
 
 Anchored Artifacts: 
-Mentions: N-3, N-272, N-276, N-2
+Mentions: N-3, N-270, N-274, N-2
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Check discovery requests in the Harpole docket.
@@ -2298,7 +2298,7 @@ Claim: The host reads a viewer comment that Blake Lively just settled and says t
 Transcript Snippet: I know that settlement means like the case is over. And yes, they're going to keep settlement details quiet but it's a win for Justin Baldoni.
 
 Anchored Artifacts: A-2040.6
-Mentions: N-495, N-496
+Mentions: N-490, N-491
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Court docket entry of dismissal or settlement.
@@ -2314,7 +2314,7 @@ Claim: The host congratulates Brian Friedman (she was unsure of the lawyer's nam
 Transcript Snippet: Brian Friedman, congratulations to you. Also to Melissa Nathan and the people that were the PR team
 
 Anchored Artifacts: 
-Mentions: N-496, N-908, N-909
+Mentions: N-491, N-901, N-902
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Docket entries listing counsel for Baldoni and Wayfarer.
@@ -2330,7 +2330,7 @@ Claim: The host asks whether Ben Shapiro's uncle Zalman Shapiro was the one who 
 Transcript Snippet: What was his uncle Zalman Shapiro? Am I correct that he's the one that took all of the uranium to Israel?
 
 Anchored Artifacts: 
-Mentions: N-97, N-910
+Mentions: N-97, N-903
 Related Nodes: N-10654
 Tags: relevance:tangential
 Investigative Direction: Check the family relationship and the NUMEC records.
@@ -2346,7 +2346,7 @@ Claim: The host says she does not think Zalman Shapiro was ever found guilty and
 Transcript Snippet: I don't think he ever actually was found guilty because they I think he played like anti-Semitism or something like that.
 
 Anchored Artifacts: 
-Mentions: N-910
+Mentions: N-903
 Related Nodes: N-10654
 Tags: relevance:tangential
 Investigative Direction: Check the outcome of the NUMEC investigation.

@@ -15,8 +15,8 @@
   - Tip-minted Nodes (reintro-ep068): N-10922, N-10956
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10011–C-10058
-  - New Nodes Introduced: N-547, N-548, N-550, N-551, N-552, N-554, N-555, N-10478, N-10479, N-10480, N-10481, N-10483, N-10484
-  - Reused Nodes Appearing: N-10482, N-10477, N-3, N-9, N-11, N-50, N-203, N-374, N-508, N-545, N-10000, N-10197, N-10268, N-10397, N-10416, N-10435, N-10440, N-10441, N-10472, N-10473, N-10653, N-10900, N-10968, N-11099, N-11180, N-549, N-553
+  - New Nodes Introduced: N-542, N-543, N-545, N-546, N-547, N-549, N-550, N-10478, N-10479, N-10480, N-10481, N-10483, N-10484
+  - Reused Nodes Appearing: N-10482, N-10477, N-3, N-9, N-11, N-50, N-203, N-371, N-503, N-540, N-10000, N-10197, N-10268, N-10397, N-10416, N-10435, N-10440, N-10441, N-10472, N-10473, N-10653, N-10900, N-10968, N-11099, N-11180, N-544, N-548
   - (see registers)
 
 # Episode 68 Analysis – Bride of Charlie
@@ -72,7 +72,7 @@ Confidence: high
 
 - **Artifact Families Introduced:** A-1727, A-1728, A-1729, A-1730, A-1731, A-1732, A-1733, A-1734, A-1735, A-1736, A-1737
 - **Claim Range:** C-2283 – C-2297
-- **New People Nodes Introduced:** N-547, N-548, N-500, N-194, N-15, N-97, N-549, N-550, N-551, N-552, N-553, N-7, N-554, N-555
+- **New People Nodes Introduced:** N-542, N-543, N-495, N-194, N-15, N-97, N-544, N-545, N-546, N-547, N-548, N-7, N-549, N-550
 - **New Investigation Target Nodes Introduced:** N-10477, N-10478, N-10479, N-10480, N-10481, N-10482, N-10483, N-10484
 - **Existing Nodes Reused:** None specified in transcript for this episode; references to recurring figures (Charlie Kirk, Erika Kirk, Candace Owens, etc.) handled through the global people ledger (N-1 series per protocol)
 
@@ -117,7 +117,7 @@ Confidence: high
 
 Episode 68 advances two parallel evidentiary threads. The first is a Babylon/Iraq-War thread in which the host cites viewer correspondence, German geophysicists' tomb-finding coverage, a 2005 British Museum report, a 2009 United Nations article, an NBC News piece, and a BBC report concerning Gorg Fastbinder's discovery of the Gilgamesh/Nimrod tomb site, framing these as documentary anchors for her claim that the 2003 invasion of Iraq was functionally tied to an archaeological extraction operation at Babylon.
 
-The second thread is a direct attack on Erika Kirk's reported alibi for September 8 and September 10, 2025. The host anchors her skepticism to a specific Sept 7, 2025 Erika Kirk Instagram post (which the host reads aloud in detail), a New York Times article reporting Erika was at a hospital when Mikey McCoy called, described text messages from Justin Strife, and the New York Times's wording about the timing of the McCoy call. The host explicitly states she cannot confirm the hospital alibi and that Erika's mother was reportedly at a "holistic clinic" rather than a hospital.
+The second thread is a direct attack on Erika Kirk's reported alibi for September 8 and September 10, 2025. The host anchors her skepticism to a specific Sept 7, 2025 Erika Kirk Instagram post (which the host reads aloud in detail), a New York Times article reporting Erika was at a hospital when Mikey McCoy called, described text messages from Justin Streiff, and the New York Times's wording about the timing of the McCoy call. The host explicitly states she cannot confirm the hospital alibi and that Erika's mother was reportedly at a "holistic clinic" rather than a hospital.
 
 The episode also briefly inscribes two side artifacts: a Ben Shapiro All Access clip mocking the host's Hogwarts-chess dream, and a viewer comment + news lookup concerning William Stevenson (Jill Biden's ex-husband) and a first-degree murder indictment. Both are treated here as anchor artifacts for the claims they directly support.
 
@@ -135,7 +135,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:23:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
-*Related: C-2283, N-500, N-10477*
+*Related: C-2283, N-495, N-10477*
 
 **A-1727.2** Erika Kirk Instagram post, 2025-09-07, showing her mother in vulnerable position with "10 days until September 16th" countdown
 Event Timestamp: 00:00:00–00:00:01
@@ -143,7 +143,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:24:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2284, N-500, N-10479*
+*Related: C-2284, N-495, N-10479*
 
 ---
 
@@ -155,7 +155,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:25:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2285, N-500, N-194, N-10478*
+*Related: C-2285, N-495, N-194, N-10478*
 
 ---
 
@@ -167,7 +167,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:05:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (verbatim read)
-*Related: C-2286, N-552, N-10480, N-10484*
+*Related: C-2286, N-547, N-10480, N-10484*
 
 ---
 
@@ -207,7 +207,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:09:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2290, N-547, N-10484*
+*Related: C-2290, N-542, N-10484*
 
 **A-1731.2** Headline(s) describing German geophysicists Gorg Fastbinder and Helmet Becker of the Bavarian State Conservation Office using magnetic mapping to discover ancient Iraq and Gilgamesh's tomb, May 2002 – early 2003
 Event Timestamp: 00:00:00–00:00:01
@@ -215,7 +215,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host claims to display headline; specific publication not identified)
-*Related: C-2291, N-547, N-548*
+*Related: C-2291, N-542, N-543*
 
 ---
 
@@ -227,7 +227,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:09:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
-*Related: C-2292, N-549*
+*Related: C-2292, N-544*
 
 ---
 
@@ -255,15 +255,15 @@ Confidence Level: Medium (host-cited; underlying source not specified beyond imp
 
 ---
 
-**A-1735** Justin Strife Text Message Bundle
+**A-1735** Justin Streiff Text Message Bundle
 
-**A-1735.1** Text messages sent by Justin Strife to the host stating that Erika's mother was "very, very sick" and that Erika was spending her days in the hospital with her mother
+**A-1735.1** Text messages sent by Justin Streiff to the host stating that Erika's mother was "very, very sick" and that Erika was spending her days in the hospital with her mother
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (described by host; not displayed in transcript)
-*Related: C-2295, N-500, N-15, N-10483*
+*Related: C-2295, N-495, N-15, N-10483*
 
 ---
 
@@ -275,7 +275,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:46:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read from viewer comment; host pulls up article details)
-*Related: C-2296, N-550, N-554, N-555*
+*Related: C-2296, N-545, N-549, N-550*
 
 ---
 
@@ -287,7 +287,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:44:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host paraphrase)
-*Related: C-2297, N-551*
+*Related: C-2297, N-546*
 
 ---
 
@@ -381,7 +381,7 @@ Confidence Level: High
 
 ## IV. Node Register
 
-**N-547** Gorg Fastbinder
+**N-542** Gorg Fastbinder
 German geophysicist (Bavarian State Conservation Office, Munich) credited in the episode with discovering Gilgamesh's tomb via magnetic mapping between May 2002 and early 2003; subject of BBC follow-up coverage.
 Evidence Count: 1
 Claim Count: 2
@@ -389,7 +389,7 @@ Episode Count: 1
 Investigative Pressure: Medium
 *Related: A-1731.1, A-1731.2, C-2290, C-2291*
 
-**N-548** Helmut Becker
+**N-543** Helmut Becker
 German geophysicist working alongside Gorg Fastbinder on the magnetic-mapping survey that located the Gilgamesh tomb site.
 Evidence Count: 1
 Claim Count: 1
@@ -397,7 +397,7 @@ Episode Count: 1
 Investigative Pressure: Low
 *Related: A-1731.2, C-2291*
 
-**N-500** Lori Frantzve
+**N-495** Lori Frantzve
 Erika Kirk's mother; central figure in the Sept 8 / Sept 10 alibi narrative; subject of the Sept 7, 2025 Instagram post; reportedly receiving treatment at a "holistic clinic" rather than a hospital; described as having Lyme disease.
 Evidence Count: 3
 Claim Count: 4
@@ -429,7 +429,7 @@ Episode Count: 1
 Investigative Pressure: Low
 *Related: A-1733.1, C-2293*
 
-**N-549** Colin Powell
+**N-544** Colin Powell
 Former U.S. Secretary of State; subject of Feb 5, 2003 UN Security Council address cited in the episode.
 Evidence Count: 1
 Claim Count: 1
@@ -437,15 +437,15 @@ Episode Count: 1
 Investigative Pressure: Low
 *Related: A-1732.1, C-2292*
 
-**N-550** William Stevenson
+**N-545** William Stevenson
 77-year-old Wilmington resident, ex-husband of Jill Biden (1970–1975); indicted for first-degree murder of his ex-wife per news referenced in episode.
 Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
-*Related: A-1736.1, C-2296, N-554, N-555*
+*Related: A-1736.1, C-2296, N-549, N-550*
 
-**N-551** Kevin Sorbo
+**N-546** Kevin Sorbo
 Actor referenced via tweet about leaving Hollywood because participants were pedophiles.
 Evidence Count: 1
 Claim Count: 1
@@ -453,7 +453,7 @@ Episode Count: 1
 Investigative Pressure: Low
 *Related: A-1737.1, C-2297*
 
-**N-552** Robkea
+**N-547** Robkea
 Researcher cited in viewer email; per email, his work documents Gilgamesh/Nimrod tomb discovery, museum raid, and missing Nephilim/resurrection tablets.
 Evidence Count: 1
 Claim Count: 1
@@ -461,13 +461,13 @@ Episode Count: 1
 Investigative Pressure: Medium
 *Related: A-1729.1, C-2286, N-10480, N-10484*
 
-**N-553** Bella Hadid
+**N-548** Bella Hadid
 Public figure referenced re: Lyme disease treatment options overseas.
 Evidence Count: 0
 Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
-*Related: N-500, N-10483*
+*Related: N-495, N-10483*
 
 **N-7** Frank Turek
 Source of witness statement (cited by host) that Charlie Kirk was "dealing with the kids" on Sept 8, 2025.
@@ -477,21 +477,21 @@ Episode Count: 1
 Investigative Pressure: Medium
 *Related: N-10477, N-10482*
 
-**N-554** Amber Thurman (Victim in Stevenson case)
+**N-549** Amber Thurman (Victim in Stevenson case)
 Per host's read of article, the ex-wife of William Stevenson whose body was found unresponsive in the living room (Stevenson indicted for first-degree murder).
 Evidence Count: 0
 Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
-*Related: A-1736.1, C-2296, N-550*
+*Related: A-1736.1, C-2296, N-545*
 
-**N-555** Jill Biden
+**N-550** Jill Biden
 Subject of William Stevenson connection (Stevenson was her ex-husband, 1970–1975); declined to comment per host's read.
 Evidence Count: 0
 Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
-*Related: A-1736.1, C-2296, N-550*
+*Related: A-1736.1, C-2296, N-545*
 
 ---
 
@@ -501,7 +501,7 @@ Evidence Count: 1
 Claim Count: 0 (claim admission test currently failing due to lack of clear opposing artifact for Erika's Sept 8 location)
 Episode Count: 1
 Investigative Pressure: High
-*Related: N-500, N-7, A-1735.1, C-2295*
+*Related: N-495, N-7, A-1735.1, C-2295*
 
 **N-10478** Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy
 The NYT reports Erika was at the hospital; the host asserts she has confirmed for a fact that the mother was receiving treatment at a "holistic clinic," not a hospital.
@@ -509,7 +509,7 @@ Evidence Count: 2 (one per side)
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
-*Related: A-1728.1, A-1735.1, C-2285, C-2295, N-500, N-194, N-15*
+*Related: A-1728.1, A-1735.1, C-2285, C-2295, N-495, N-194, N-15*
 
 **N-10479** Sept 7, 2025 Erika Instagram Post – Manipulation Question
 The host asserts the post is exceptional in style (posting mother in vulnerable position, breaking a multi-year privacy pattern) and possibly deployed to preempt alibi scrutiny.
@@ -517,7 +517,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1727.2, C-2284, N-500*
+*Related: A-1727.2, C-2284, N-495*
 
 **N-10480** Nimrod / Gilgamesh Remains Extraction Question
 The host asserts that locals reported nighttime American digging and extraction operations at the tomb site; viewer email states tablets related to Nephilim/resurrection went missing from the museum after the raid.
@@ -525,7 +525,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1729.1, C-2286, N-552*
+*Related: A-1729.1, C-2286, N-547*
 
 **N-10481** Babylon Military Camp Activities
 Camp Alpha / coalition use of Babylon (April 2003 – December 2004); helicopter pad, sandbags filled with archaeological fragments, helicopter-induced roof collapse, museum looting; British Museum comparison to Great Pyramid / Stonehenge.
@@ -549,7 +549,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1735.1, C-2295, N-500, N-15, N-553*
+*Related: A-1735.1, C-2295, N-495, N-15, N-548*
 
 **N-10484** Babylon Library / Tablet Loss Discrepancy
 UN article acknowledges contents from Hammurabi and Nebuchadnezzar museums and the Babylon library/archive were stolen and destroyed; viewer email asserts tablets concerning reincarnation and the Nephilim were specifically excluded from what the military retrieved.
@@ -557,7 +557,7 @@ Evidence Count: 2
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1729.1, A-1730.1, C-2286, C-2287, N-552*
+*Related: A-1729.1, A-1730.1, C-2286, C-2287, N-547*
 
 ---
 
@@ -617,7 +617,7 @@ Subject of a moderator comment praised by the host.
 
 ---
 
-**N-545** Alan Dershowitz
+**N-540** Alan Dershowitz
 
 Transcribed 'Duruit' in the moderator comment read on air.
 
@@ -625,7 +625,7 @@ Transcribed 'Duruit' in the moderator comment read on air.
 
 ---
 
-**N-374** Jeremy Boreing
+**N-371** Jeremy Boreing
 
 Daily Wire co-founder, named as present when staff kept a clip file.
 
@@ -633,7 +633,7 @@ Daily Wire co-founder, named as present when staff kept a clip file.
 
 ---
 
-**N-508** Bassem Youssef
+**N-503** Bassem Youssef
 
 Transcribed 'Bassim Ysef'; subject of a remark in the Shapiro clip.
 
@@ -790,7 +790,7 @@ Existing topic reused for the cease-and-desist claim.
 Claim Timestamp: 00:23:15
 Claim: Erika Kirk had not posted anything about her mother on Instagram since April 2022 (Mother's Day) until the Sept 7, 2025 post.
 Anchored Artifacts: A-1727.1
-Mentions: N-500, N-2
+Mentions: N-495, N-2
 Related Nodes: N-10479
 Investigative Direction: Verify against archived Instagram data for Erika Kirk.
 
@@ -800,7 +800,7 @@ Investigative Direction: Verify against archived Instagram data for Erika Kirk.
 Claim Timestamp: 00:24:00
 Claim: On Sept 7, 2025, Erika Kirk posted on Instagram showing her mother in what appears to be a sick / vulnerable state, with a countdown reading "10 days until September 16th."
 Anchored Artifacts: A-1727.2
-Mentions: N-500, N-2
+Mentions: N-495, N-2
 Related Nodes: N-10479
 Investigative Direction: Obtain the original post screenshot/metadata and identify the countdown's intended referent.
 
@@ -810,7 +810,7 @@ Investigative Direction: Obtain the original post screenshot/metadata and identi
 Claim Timestamp: 00:25:00
 Claim: The New York Times reported that on Sept 10, 2025, Erika Kirk was at the hospital with her mother when Mikey McCoy called her, described as having happened "within seconds" of the shooting.
 Anchored Artifacts: A-1728.1
-Mentions: N-194, N-500, N-2
+Mentions: N-194, N-495, N-2
 Related Nodes: N-10478, N-10482
 Investigative Direction: Locate and quote the exact NYT passage to confirm wording.
 
@@ -820,7 +820,7 @@ Investigative Direction: Locate and quote the exact NYT passage to confirm wordi
 Claim Timestamp: 00:05:54
 Claim: A viewer email read on air asserted that Robkea's research documented: (1) the discovery of Gilgamesh/Nimrod's tomb; (2) the first U.S. base in Iraq was set up at the museum holding the relics; (3) the museum was "raided"; (4) everything was retrieved by the military except tablets concerning reincarnation and bringing back the Nephilim.
 Anchored Artifacts: A-1729.1
-Mentions: N-552
+Mentions: N-547
 Related Nodes: N-10480, N-10484
 Investigative Direction: Locate Robkea's published work ("Babylon Rising" et al.) and verify each factual component independently.
 
@@ -857,7 +857,7 @@ Investigative Direction: Locate the British Museum report and confirm quoted lan
 Claim Timestamp: 00:09:00
 Claim: The BBC reported that Gorg Fastinder had made the discovery of Gilgamesh's tomb, with the report surfacing a couple of weeks after the March 20, 2003 invasion of Iraq.
 Anchored Artifacts: A-1731.1
-Mentions: N-547
+Mentions: N-542
 Related Nodes: N-10484
 Investigative Direction: Locate the specific BBC report and confirm date.
 
@@ -867,7 +867,7 @@ Investigative Direction: Locate the specific BBC report and confirm date.
 Claim Timestamp: 00:07:30
 Claim: German geophysicists Gorg Fastbinder and Helmet Becker of the Bavarian State Conservation Office used magnetic mapping to discover ancient Iraq and became convinced they had located Gilgamesh's tomb between May 2002 and very early 2003.
 Anchored Artifacts: A-1731.2
-Mentions: N-547, N-548
+Mentions: N-542, N-543
 Investigative Direction: Locate primary publications or institutional releases confirming the timeline.
 
 ---
@@ -876,7 +876,7 @@ Investigative Direction: Locate primary publications or institutional releases c
 Claim Timestamp: 00:09:03
 Claim: Colin Powell publicly stated at the United Nations Security Council on Feb 5, 2003 that Iraq possessed weapons of mass destruction.
 Anchored Artifacts: A-1732.1
-Mentions: N-549
+Mentions: N-544
 Investigative Direction: Reference the UN Security Council record / transcript.
 
 ---
@@ -900,11 +900,11 @@ Investigative Direction: Obtain call log records or corroborating witness / phon
 
 ---
 
-**C-2295** Justin Strife Text Messages Asserted Erika's Mother Was Very Sick
+**C-2295** Justin Streiff Text Messages Asserted Erika's Mother Was Very Sick
 Claim Timestamp: 00:26:30
-Claim: Justin Strife sent text messages to the host asserting that Erika's mother was very, very sick and that Erika was spending her days in the hospital with her mother; the host asserts she has confirmed the mother was receiving treatment at a holistic clinic rather than a hospital.
+Claim: Justin Streiff sent text messages to the host asserting that Erika's mother was very, very sick and that Erika was spending her days in the hospital with her mother; the host asserts she has confirmed the mother was receiving treatment at a holistic clinic rather than a hospital.
 Anchored Artifacts: A-1735.1
-Mentions: N-15, N-500
+Mentions: N-15, N-495
 Related Nodes: N-10478, N-10483
 Investigative Direction: Obtain copies of the underlying text messages and verify the clinic vs. hospital distinction independently.
 
@@ -914,7 +914,7 @@ Investigative Direction: Obtain copies of the underlying text messages and verif
 Claim Timestamp: 00:46:39
 Claim: William Stevenson, 77, of Wilmington, Delaware – ex-husband of Jill Biden (married 1970–1975) – was indicted for first-degree murder of his ex-wife, whose body was reportedly found unresponsive in the living room with life-saving measures unsuccessful.
 Anchored Artifacts: A-1736.1
-Mentions: N-550, N-555
+Mentions: N-545, N-550
 Investigative Direction: Verify via Delaware court records and contemporaneous news coverage.
 
 ---
@@ -923,7 +923,7 @@ Investigative Direction: Verify via Delaware court records and contemporaneous n
 Claim Timestamp: 00:44:50
 Claim: Kevin Sorbo tweeted that he left Hollywood because the people involved were pedophiles.
 Anchored Artifacts: A-1737.1
-Mentions: N-551
+Mentions: N-546
 Investigative Direction: Locate the tweet and verify exact wording and date.
 
 ---
@@ -966,7 +966,7 @@ Claim: The host says the US military made its base at the exact location where F
 Transcript Snippet: they happen to make their b their military base at that exact location
 
 Anchored Artifacts: 
-Mentions: N-547
+Mentions: N-542
 Related Nodes: N-10481, N-10480
 Supports: C-2290
 Tags: relevance:context
@@ -1059,7 +1059,7 @@ Claim: The host says the people around the case have strong military ties, inclu
 Transcript Snippet: All these people with very strong ties to the military. Um, his wife included, right? Uh, her mother in particular.
 
 Anchored Artifacts: 
-Mentions: N-2, N-500
+Mentions: N-2, N-495
 Related Nodes: N-10197
 Tags: relevance:core
 Investigative Direction: Verify any military service or contracting history for Erika Kirk and Lori Frantzve.
@@ -1075,7 +1075,7 @@ Claim: The host says that, while building Erika's timeline, she found Erika's mo
 Transcript Snippet: she has a number of LLC's. And when I say a number, I mean it it's almost incalculable the amount of LLC's
 
 Anchored Artifacts: 
-Mentions: N-500, N-3
+Mentions: N-495, N-3
 Related Nodes: N-10440, N-10441
 Tags: relevance:core
 Investigative Direction: Pull Secretary of State filings for every entity listing Lori Frantzve as officer or agent.
@@ -1091,7 +1091,7 @@ Claim: The host says Erika's mother sits on the board of companies related to Tu
 Transcript Snippet: her mother sits on the board of companies related to Turning Point USA, despite the fact that her mother is involved with sort of the geo fencing
 
 Anchored Artifacts: 
-Mentions: N-500, N-2
+Mentions: N-495, N-2
 Related Nodes: N-10000, N-10922, N-10653
 Tags: relevance:core
 Investigative Direction: Check board and officer records for Superfeed and related TPUSA vendors.
@@ -1107,7 +1107,7 @@ Claim: The host says people at Turning Point USA do not know Erika's mother, tho
 Transcript Snippet: Actually, if you ask people at Turning Point USA, they don't know her mother.
 
 Anchored Artifacts: 
-Mentions: N-11, N-500, N-2
+Mentions: N-11, N-495, N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Ask TPUSA staff and Bowyer about their dealings with Lori Frantzve.
@@ -1123,7 +1123,7 @@ Claim: The host says Erika's mother was present next to Erika in 2015 when Erika
 Transcript Snippet: her mother was, you know, present next to Erika in 2015 when she was standing behind Trump
 
 Anchored Artifacts: 
-Mentions: N-500, N-2
+Mentions: N-495, N-2
 Tags: relevance:context
 Investigative Direction: Find 2015 event photos showing Erika and her mother behind Trump.
 
@@ -1138,7 +1138,7 @@ Claim: The host says that when she met Erika, the only time she sensed very stro
 Transcript Snippet: that was the only time that I sensed very strong emotion from her was in mentioning her mother
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-500
+Mentions: N-3, N-2, N-495
 Tags: relevance:core
 Investigative Direction: Compare with the host's earlier accounts of the private meeting with Erika.
 
@@ -1169,7 +1169,7 @@ Claim: The host says the McCoy and Erika call was brief, a couple of minutes, af
 Transcript Snippet: We know that they had a very brief call a couple of minutes and then we are told that she left her mother who was receiving a medical treatment and then she collapsed in the parking lot.
 
 Anchored Artifacts: 
-Mentions: N-194, N-2, N-500
+Mentions: N-194, N-2, N-495
 Related Nodes: N-10478, N-10482
 Supports: C-2294
 Tags: relevance:core
@@ -1197,9 +1197,9 @@ Investigative Direction: Find the original source of the claim that Charlie trai
 
 Claim Timestamp: 00:25:21
 
-Claim: The host says she contacted Justin Strife trying to learn what Erika was doing on September 8 and that his answer kept being delayed, with the mother's illness given as the reason.
+Claim: The host says she contacted Justin Streiff trying to learn what Erika was doing on September 8 and that his answer kept being delayed, with the mother's illness given as the reason.
 
-Transcript Snippet: when I was contacting Justin Strife trying to figure out what Erika was doing on September 8th just wanting some sort of an alibi and it kept getting delayed
+Transcript Snippet: when I was contacting Justin Streiff trying to figure out what Erika was doing on September 8th just wanting some sort of an alibi and it kept getting delayed
 
 Anchored Artifacts: A-1735.1
 Mentions: N-15, N-2, N-3
@@ -1235,7 +1235,7 @@ Claim: The host says Charlie told her he was flying Erika's mother overseas for 
 Transcript Snippet: he was flying out her mother to do treatments for Lyme disease overseas because there was better treatment in Europe options available
 
 Anchored Artifacts: 
-Mentions: N-1, N-500, N-3
+Mentions: N-1, N-495, N-3
 Related Nodes: N-10483
 Tags: relevance:core
 Investigative Direction: Verify any Charlie-funded European medical trips for Lori Frantzve.
@@ -1251,7 +1251,7 @@ Claim: The host says she has learned that on September 8 Charlie took Erika's mo
 Transcript Snippet: on September 8th, we can pull up the timeline here, that Charlie Charlie took Erika's mother for a treatment for Lyme disease at a clinic. I have the address, the name of the clinic.
 
 Anchored Artifacts: 
-Mentions: N-1, N-500, N-2, N-3
+Mentions: N-1, N-495, N-2, N-3
 Related Nodes: N-10483, N-10477, N-10473
 Tags: relevance:core
 Investigative Direction: Obtain clinic records or witness accounts for September 8 visits.
@@ -1315,7 +1315,7 @@ Claim: The host says that, accounting for driving time, the treatment would have
 Transcript Snippet: this treatment having to have taken place between 12 and 3:30.
 
 Anchored Artifacts: 
-Mentions: N-1, N-500
+Mentions: N-1, N-495
 Related Nodes: N-10473
 Tags: relevance:core
 Investigative Direction: Reconstruct Charlie's Sept 8 schedule against that window.
@@ -1360,7 +1360,7 @@ Claim Timestamp: 00:30:53
 
 Claim: The host says Erika's account that she made Charlie dinner has been the alibi for the Fort Huachuca question, and that the host has many questions about that timeline.
 
-Transcript Snippet: Erika says that she made Charlie dinner that has been the the alibi for Fort Wuka.
+Transcript Snippet: Erika says that she made Charlie dinner that has been the the alibi for Fort Huachuca.
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
@@ -1408,7 +1408,7 @@ Claim Timestamp: 00:30:53
 
 Claim: The host says a couple of days after she was finally given something, she received a cease and desist that mentioned Fort Huachuca.
 
-Transcript Snippet: a couple of days later they send me a cease and desist and they they mention Fort Wuka.
+Transcript Snippet: a couple of days later they send me a cease and desist and they they mention Fort Huachuca.
 
 Anchored Artifacts: 
 Mentions: N-3
@@ -1552,7 +1552,7 @@ Claim: In the clip, Shapiro says Candace interviewed Bassem Youssef and told him
 Transcript Snippet: Candace also interviewed Bassim Ysef and told him she thinks something bad happened in your childhood because you fixated and lack empathy.
 
 Anchored Artifacts: A-1733.1
-Mentions: N-97, N-508, N-3
+Mentions: N-97, N-503, N-3
 Tags: relevance:context
 Investigative Direction: Check the host's interview with Youssef for the childhood remark.
 
@@ -1567,7 +1567,7 @@ Claim: The host says that when Jeremy was at the Daily Wire, staff kept a file o
 Transcript Snippet: They used to keep a file and then they would send it around to all their influencers of clips of the show
 
 Anchored Artifacts: 
-Mentions: N-374, N-3
+Mentions: N-371, N-3
 Related Nodes: N-10900, N-10416
 Tags: relevance:context
 Investigative Direction: Obtain any internal clip files sent to influencers.
@@ -1674,7 +1674,7 @@ Claim: The host reads a moderator's comment that Epstein and Dershowitz ('Duruit
 Transcript Snippet: Epstein and Duruit contacted Finkelestein, but he called them pedophiles and threatened to hurt them.
 
 Anchored Artifacts: A-3049.1
-Mentions: N-203, N-9, N-545
+Mentions: N-203, N-9, N-540
 Tags: relevance:context
 Investigative Direction: Ask Finkelstein or find his published account of any contact.
 
@@ -1684,7 +1684,7 @@ Investigative Direction: Ask Finkelstein or find his published account of any co
 
 - Every claim (C-2283 – C-2297) carries at least one Anchored Artifact and at least one Related Node.
 - Every artifact family (A-1727 – A-1737) carries Related claims and Related nodes.
-- Every People Node (N-547 – N-555) and Investigation Target Node (N-10477 – N-10484) carries Related artifacts and Related claims.
+- Every People Node (N-542 – N-550) and Investigation Target Node (N-10477 – N-10484) carries Related artifacts and Related claims.
 - No episode-wide artifact bundle was created.
 - No speculative claims were inscribed; rhetoric-only statements about "muggles," "Babylonian magic," "Project Looking Glass," "Epstein," "Ben Shapiro secretly hates her," "God is real," etc., were excluded as framing premises / interpretive commentary.
 
@@ -1693,7 +1693,7 @@ Investigative Direction: Ask Finkelstein or find his published account of any co
 ## VII. Optional Flags
 
 - **Name uncertainty:** "Gorg Fastbinder" likely transcription of "Georg Fastbinder"; "Helmet Becker" likely transcription of "Helmut Becker."
-- **Name uncertainty:** "Justin Strife" appears in the transcript; may be a phonetic capture of "Justin Stiefel" or similar.
+- **Name uncertainty:** "Justin Streiff" appears in the transcript; may be a phonetic capture of "Justin Stiefel" or similar.
 - **Artifact verbally referenced but not shown:** A-1727.1 (April 2022 post), A-1728.1 (NYT article – name only, no image), A-1731.2 (German geophysicists headline – host says "I'm going to show you this headline" but no image present in source), A-1735.1 (text messages described, not displayed), A-1737.1 (Kevin Sorbo tweet referenced, not displayed).
 - **Transcript ambiguity:** Several instances of "Frank Turk" – context suggests it may be "Frank Turek" but preserved as "Frank Turk" per transcript.
 - **Possible transcription error:** "Air base," "so State Arm," "Fastinder" vs. "Fastbinder" (BBC report vs. German geophysicist name); preserved as appearing in transcript.
@@ -1709,7 +1709,7 @@ Investigative Direction: Ask Finkelstein or find his published account of any co
 - [x] Every artifact has a Related line.
 - [x] Every node has a Related line.
 - [x] No episode-wide artifact bundle exists.
-- [x] People nodes use the global people ledger (N-547 onward per ledger continuation).
+- [x] People nodes use the global people ledger (N-542 onward per ledger continuation).
 - [x] Non-person investigation targets use the 1000-series (N-10477 onward per ledger continuation).
 - [x] No speculative claims inscribed as evidence-backed claims.
 - [x] Names preserved exactly per transcript; uncertainties flagged.

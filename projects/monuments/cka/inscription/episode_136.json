@@ -430,8 +430,8 @@
           ],
           "related_nodes": [
             "N-10737",
-            "N-272",
-            "N-498"
+            "N-270",
+            "N-493"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -458,7 +458,7 @@
           "related_nodes": [
             "N-10681",
             "N-10737",
-            "N-272",
+            "N-270",
             "N-3"
           ],
           "tags": [],
@@ -485,7 +485,7 @@
           ],
           "related_nodes": [
             "N-10772",
-            "N-763"
+            "N-757"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -512,7 +512,7 @@
           "related_nodes": [
             "N-10774",
             "N-3",
-            "N-763"
+            "N-757"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -784,8 +784,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-567",
-      "ref": "N-567",
+      "@id": "N-562",
+      "ref": "N-562",
       "name": "Christopher Hawk",
       "type": "person",
       "description": "First named by the host at 00:17:52 in episode 136.",
@@ -803,8 +803,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-388",
-      "ref": "N-388",
+      "@id": "N-384",
+      "ref": "N-384",
       "name": "Dan Bongino",
       "type": "person",
       "description": "Reused; first introduced in episode 15.",
@@ -819,8 +819,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-517",
-      "ref": "N-517",
+      "@id": "N-512",
+      "ref": "N-512",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "First named by the host at 00:04:45 in episode 127. Aliases: Officer Bagley, Officer Christopher Bagley.",
@@ -841,8 +841,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-763",
-      "ref": "N-763",
+      "@id": "N-757",
+      "ref": "N-757",
       "name": "Allan Robertson",
       "type": "person",
       "description": "Named by the host as the red-hat man on the Losee rooftop (C-3199).",
@@ -1038,8 +1038,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-265",
+      "ref": "N-265",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Terrell Farnsworth; named by the host in connection with the rooftop command question.",
@@ -1055,8 +1055,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Brian Harpole; his accounts of the car ride and ER are examined.",
@@ -1076,8 +1076,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-498",
-      "ref": "N-498",
+      "@id": "N-493",
+      "ref": "N-493",
       "name": "Rick Cutler",
       "type": "person",
       "description": "Rick Cutler; his role in the car and at the hospital is discussed.",
@@ -1501,7 +1501,7 @@
       "investigative_direction": "Verify the 12:39 PM arrival timestamp against UVU campus entry logs, FBI case file timestamps, and Patel/Dan Bonino interview transcripts.",
       "mentions_person_refs": [
         "N-69",
-        "N-388"
+        "N-384"
       ]
     },
     {
@@ -1521,7 +1521,7 @@
       "claim_timestamp": "00:12:18",
       "investigative_direction": "Obtain the body cam file metadata and manufacturer battery-life specifications to verify whether 27 minutes is plausible as a battery depletion event.",
       "mentions_person_refs": [
-        "N-517"
+        "N-512"
       ]
     },
     {
@@ -1540,7 +1540,7 @@
       "claim_timestamp": "00:10:33",
       "investigative_direction": "Cross-reference Bagley's testimony against UVU campus credentialing logs and the bystander footage in A-2227.1.",
       "mentions_person_refs": [
-        "N-517"
+        "N-512"
       ]
     },
     {
@@ -1560,7 +1560,7 @@
       "claim_timestamp": "00:10:33",
       "investigative_direction": "Compare Bagley's badge-and-handgun description with the bystander footage to verify whether the same individual matches both Bagley's testimony and the visual identification.",
       "mentions_person_refs": [
-        "N-517"
+        "N-512"
       ]
     },
     {
@@ -1579,8 +1579,8 @@
       "claim_timestamp": "00:15:40",
       "investigative_direction": "Authenticate the bystander clip's timestamp and original camera metadata, and run the red-hat figure against UVU/USU event credentialing records.",
       "mentions_person_refs": [
-        "N-567",
-        "N-517"
+        "N-562",
+        "N-512"
       ]
     },
     {
@@ -1600,8 +1600,8 @@
       "claim_timestamp": "00:16:47",
       "investigative_direction": "Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements.",
       "mentions_person_refs": [
-        "N-567",
-        "N-763"
+        "N-562",
+        "N-757"
       ]
     },
     {
@@ -1621,7 +1621,7 @@
       "claim_timestamp": "00:18:43",
       "investigative_direction": "Verify Hawk's presence and role through credential records and follow-up witness interviews.",
       "mentions_person_refs": [
-        "N-567"
+        "N-562"
       ]
     },
     {
@@ -1791,7 +1791,7 @@
       "claim_timestamp": "00:18:43",
       "investigative_direction": "Re-listen to Bagley's preliminary-hearing testimony in full and cross-check against UVU campus surveillance for any pre-rooftop interaction.",
       "mentions_person_refs": [
-        "N-517"
+        "N-512"
       ]
     },
     {
@@ -1885,8 +1885,8 @@
         "C-3089"
       ],
       "mentions_person_refs": [
-        "N-272",
-        "N-498"
+        "N-270",
+        "N-493"
       ]
     },
     {
@@ -1906,7 +1906,7 @@
       "investigative_direction": "Locate the Harpole interview where the nurse account is given and identify the nurse and hospital staff present.",
       "transcript_snippet": "He tells a story about how the nurse wiped it off of his face.",
       "mentions_person_refs": [
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -1931,8 +1931,8 @@
         "C-2951"
       ],
       "mentions_person_refs": [
-        "N-498",
-        "N-272"
+        "N-493",
+        "N-270"
       ]
     },
     {
@@ -1952,7 +1952,7 @@
       "investigative_direction": "Ask hospital staff and the group to confirm who changed clothes, and obtain any hospital security video of the entrance.",
       "transcript_snippet": "Now, we also told you that Rick was among those who allegedly stripped down his clothes at the hospital.",
       "mentions_person_refs": [
-        "N-498",
+        "N-493",
         "N-7"
       ]
     },
@@ -1974,7 +1974,7 @@
       "investigative_direction": "Request FBI evidence-receipt records for clothing taken from Cutler and others at the hospital.",
       "transcript_snippet": "we uh were also told that the feds were the ones who allegedly took those clothes thereafter down to his boxer briefs allegedly.",
       "mentions_person_refs": [
-        "N-498",
+        "N-493",
         "N-3"
       ]
     },
@@ -1998,7 +1998,7 @@
         "C-5785"
       ],
       "mentions_person_refs": [
-        "N-272",
+        "N-270",
         "N-7"
       ]
     },
@@ -2022,7 +2022,7 @@
       "investigative_direction": "Pull the Sean Ryan interview and transcribe Harpole's exact words about the medical response.",
       "transcript_snippet": "Even when he describes things in that Sean Ryan interview, he's like, \"We're doing the medical.",
       "mentions_person_refs": [
-        "N-272",
+        "N-270",
         "N-3"
       ]
     },
@@ -2091,7 +2091,7 @@
         "C-7284"
       ],
       "mentions_person_refs": [
-        "N-517"
+        "N-512"
       ]
     },
     {
@@ -2117,7 +2117,7 @@
         "C-3194"
       ],
       "mentions_person_refs": [
-        "N-517",
+        "N-512",
         "N-69"
       ]
     },
@@ -2189,7 +2189,7 @@
       "transcript_snippet": "I went combing through all the footage that was sent to me on September 10th",
       "mentions_person_refs": [
         "N-3",
-        "N-517"
+        "N-512"
       ]
     },
     {
@@ -2211,7 +2211,7 @@
       "investigative_direction": "Review the early scene footage for Robertson giving directions and compare to the incident command roster.",
       "transcript_snippet": "Alan Robertson, as we're going through all that early footage, he actually seems like he's the person that's immediately in charge.",
       "mentions_person_refs": [
-        "N-763",
+        "N-757",
         "N-3"
       ]
     },
@@ -2235,7 +2235,7 @@
       "investigative_direction": "Obtain the livestream source and review it for the red-hat man's phone use and any other officers' behavior.",
       "transcript_snippet": "You see him walking around and texting and making calls.",
       "mentions_person_refs": [
-        "N-763"
+        "N-757"
       ]
     },
     {
@@ -2258,7 +2258,7 @@
       "investigative_direction": "Obtain the UVU police body-camera model specifications and the device's battery and docking logs.",
       "transcript_snippet": "He says the battery died, but the camera had only been running for 27 minutes and these body cameras are supposed to last around 10 hours.",
       "mentions_person_refs": [
-        "N-517"
+        "N-512"
       ]
     },
     {
@@ -2280,9 +2280,9 @@
       "investigative_direction": "Interview officers at the scene about who directed the rooftop response and obtain the command roster.",
       "transcript_snippet": "there seems to be an immediate understanding that this Alan Robertson character who shall not be named is calling the shots.",
       "mentions_person_refs": [
-        "N-763",
-        "N-267",
-        "N-517"
+        "N-757",
+        "N-265",
+        "N-512"
       ]
     },
     {
@@ -2304,7 +2304,7 @@
       "investigative_direction": "Obtain Robertson's San Bernardino PD employment dates through a California public records request.",
       "transcript_snippet": "But he was also a police officer just before going to Utah in San Bernardino, California.",
       "mentions_person_refs": [
-        "N-763"
+        "N-757"
       ]
     },
     {
@@ -2349,7 +2349,7 @@
       "investigative_direction": "Search the Brady List site for officers from other departments to confirm that not all officers are listed.",
       "transcript_snippet": "I searched online and said nope that's not what they do.",
       "mentions_person_refs": [
-        "N-763"
+        "N-757"
       ]
     },
     {
@@ -2369,7 +2369,7 @@
       "investigative_direction": "Review public reporting, DOJ findings and court records about San Bernardino PD misconduct.",
       "transcript_snippet": "Obviously, you guys also know there's a lot of corruption in the San Bernardino, California Police Department.",
       "mentions_person_refs": [
-        "N-763",
+        "N-757",
         "N-3"
       ]
     },
@@ -2392,7 +2392,7 @@
       "investigative_direction": "Obtain USU hiring and lateral-transfer paperwork showing Robertson's start date and prior employer.",
       "transcript_snippet": "he decided to go in August 2024 despite the fact that his entire life has been in California.",
       "mentions_person_refs": [
-        "N-763",
+        "N-757",
         "N-3"
       ]
     },
@@ -2415,7 +2415,7 @@
       "investigative_direction": "Seek the underlying Brady disclosure or personnel records for Robertson via public-records requests and defense-bar contacts.",
       "transcript_snippet": "it is definitely what I would assert is a plausibility uh that Alan E. Robertson was involved in something in San Bernardino.",
       "mentions_person_refs": [
-        "N-763",
+        "N-757",
         "N-3"
       ]
     },
@@ -2440,7 +2440,7 @@
       "transcript_snippet": "please send us tips to more tips at candacewowens. com",
       "mentions_person_refs": [
         "N-3",
-        "N-763"
+        "N-757"
       ]
     },
     {
@@ -2484,7 +2484,7 @@
       "investigative_direction": "Ask prosecutors whether Robertson is on any witness list and obtain the chain of custody for who recovered the screwdriver.",
       "transcript_snippet": "I think it's plausible that the person who actually found the screwdriver was Alan Robertson.",
       "mentions_person_refs": [
-        "N-763",
+        "N-757",
         "N-3"
       ]
     },

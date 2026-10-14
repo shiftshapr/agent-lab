@@ -651,7 +651,7 @@
             "C-11851"
           ],
           "related_nodes": [
-            "N-337",
+            "N-334",
             "N-3",
             "N-11313"
           ],
@@ -1095,8 +1095,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-337",
-      "ref": "N-337",
+      "@id": "N-334",
+      "ref": "N-334",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Baron Coleman; the host says he will take over her show while she is on leave.",
@@ -1112,8 +1112,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-277",
-      "ref": "N-277",
+      "@id": "N-275",
+      "ref": "N-275",
       "name": "Jeff Long",
       "type": "person",
       "description": "Utah Valley University police chief; quoted in the ABC article on attendance and officer numbers.",
@@ -1163,8 +1163,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-604",
-      "ref": "N-604",
+      "@id": "N-599",
+      "ref": "N-599",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Pete Hegseth; named in the host's sarcastic list of TPUSA 2.0 connections (transcribed \"Hegsmith\").",
@@ -1180,8 +1180,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-745",
-      "ref": "N-745",
+      "@id": "N-739",
+      "ref": "N-739",
       "name": "Stu Peters",
       "type": "person",
       "description": "Stu Peters; the host says Blake Neff worked for him before the Charlie Kirk show job.",
@@ -1197,8 +1197,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-600",
-      "ref": "N-600",
+      "@id": "N-595",
+      "ref": "N-595",
       "name": "Matt Tardio",
       "type": "person",
       "description": "Matt Tardio; the host says TPUSA welcomes him despite his conduct near ICE facilities.",
@@ -2069,7 +2069,7 @@
       "investigative_direction": "Obtain the UVU police staffing plan and the press conference recording.",
       "transcript_snippet": "noting that they had six officers working at the event and Kirk had his own security team.",
       "mentions_person_refs": [
-        "N-277",
+        "N-275",
         "N-1",
         "N-3"
       ]
@@ -2569,7 +2569,7 @@
       "transcript_snippet": "We know Kash Patel. We know Pete Hegsmith. We got We got the Exec office on speed dial.",
       "mentions_person_refs": [
         "N-69",
-        "N-604",
+        "N-599",
         "N-3"
       ]
     },
@@ -2822,7 +2822,7 @@
       "transcript_snippet": "He was actually working for Stu Peters and he calls in effectively a favor to get him this job with Charlie Kirk.",
       "mentions_person_refs": [
         "N-162",
-        "N-745",
+        "N-739",
         "N-22",
         "N-1"
       ]
@@ -3054,7 +3054,7 @@
       "investigative_direction": "Host's own announcement; confirm leave dates and fill-in schedule from the show.",
       "transcript_snippet": "They were probably so excited. Like she's gone for like eight weeks.",
       "mentions_person_refs": [
-        "N-337",
+        "N-334",
         "N-3"
       ]
     },
@@ -3165,7 +3165,7 @@
       "investigative_direction": "Identify the incident involving Tardio and ICE facilities and the TPUSA appearances referred to.",
       "transcript_snippet": "while you are chasing young women down alleys in front of ICE facilities.",
       "mentions_person_refs": [
-        "N-600",
+        "N-595",
         "N-2",
         "N-3"
       ]

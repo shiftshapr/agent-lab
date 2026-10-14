@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: bf83885e7ed25e55d64fb92daad61c1729233894484548da93484ca3b9d1514e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-911, N-912, N-11301, N-11302, N-11303, N-11304, N-11305
+  - Tip-minted Nodes (supplement_2026-10e): N-904, N-905, N-11301, N-11302, N-11303, N-11304, N-11305
   - Hole-minted Nodes (reintro-ep135): N-10790
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11635–C-11701
   - New Nodes Introduced: N-10766, N-10767
-  - Reused Nodes Appearing: N-1, N-2, N-10768, N-10769, N-10770, N-3, N-5, N-7, N-40, N-54, N-69, N-179, N-194, N-498, N-695, N-10002, N-10013, N-10014, N-10021, N-10155, N-10183, N-10196, N-10217, N-10229, N-10239, N-10344, N-10362, N-10572, N-10573, N-10621, N-10640, N-10679, N-10687, N-10688, N-10699, N-10703, N-10737, N-10749, N-10751, N-10754, N-10759, N-10761, N-10897, N-10975, N-10987, N-11039, N-11055, N-11135, N-10765
+  - Reused Nodes Appearing: N-1, N-2, N-10768, N-10769, N-10770, N-3, N-5, N-7, N-40, N-54, N-69, N-179, N-194, N-493, N-689, N-10002, N-10013, N-10014, N-10021, N-10155, N-10183, N-10196, N-10217, N-10229, N-10239, N-10344, N-10362, N-10572, N-10573, N-10621, N-10640, N-10679, N-10687, N-10688, N-10699, N-10703, N-10737, N-10749, N-10751, N-10754, N-10759, N-10761, N-10897, N-10975, N-10987, N-11039, N-11055, N-11135, N-10765
   - (see registers)
 
 ---
@@ -377,7 +377,7 @@ Mikey McCoy; the host says he got the security team scrubs.
 
 ---
 
-**N-272** Brian Harpole
+**N-270** Brian Harpole
 
 Brian Harpole; his ER account is contrasted with Turek's.
 
@@ -385,7 +385,7 @@ Brian Harpole; his ER account is contrasted with Turek's.
 
 ---
 
-**N-498** Rick Cutler
+**N-493** Rick Cutler
 
 Rick Cutler (transcribed Rob Cutler); security team member in the vehicle account.
 
@@ -393,7 +393,7 @@ Rick Cutler (transcribed Rob Cutler); security team member in the vehicle accoun
 
 ---
 
-**N-695** Jon Bray
+**N-689** Jon Bray
 
 Jon Bray (transcribed John Bray); cited in the anesthesiologist's email as supporting the exploding mic theory.
 
@@ -673,7 +673,7 @@ Existing topic node reused for new claims in this episode.
 
 ---
 
-**N-911** Andrew Guajardo
+**N-904** Andrew Guajardo
 
 First named by the host at 00:00:50 in episode 135 as Dr. Andrew Guajardo, the deputy chief medical examiner who signed off on Charlie Kirk's autopsy. Transcript spellings: Gohardo, Gerhardt, Guajardo.
 
@@ -683,7 +683,7 @@ Aliases: Andrew Gohardo; Andrew Gerhardt; Dr. Andrew Guajardo
 
 ---
 
-**N-912** Ashley Brown Guajardo
+**N-905** Ashley Brown Guajardo
 
 First named by the host at 00:05:07 in episode 135 as Dr. Ashley Brown Guajardo, a sociologist and game-culture researcher married to Dr. Andrew Guajardo. Transcript also spells her Kowhardo.
 
@@ -771,7 +771,7 @@ Claim Timestamp: 00:19:46
 Claim: Brian Harpole's preliminary hearing testimony, as played in the episode, states he cut Charlie Kirk's shirt with scissors, then discussed drug administration with the medical staff, then exited the room and guarded the door.
 
 Anchored Artifacts: A-2219.1
-Mentions: N-1, N-272
+Mentions: N-1, N-270
 
 Related Nodes:
 
@@ -1037,7 +1037,7 @@ Claim: The host says the person who signed off on Charlie Kirk's autopsy was Dr.
 Transcript Snippet: The person who signed off on it though is one that we are going to be speaking about, Dr. Andrew Guajardo.
 
 Anchored Artifacts: 
-Mentions: N-911, N-1
+Mentions: N-904, N-1
 Related Nodes: N-10183
 Tags: relevance:core
 Investigative Direction: Check the signature block of the Kirk autopsy report (once released) for the signing pathologist.
@@ -1085,7 +1085,7 @@ Claim: The host says Dr. Andrew Guajardo is from New York, moved to Utah in 2018
 Transcript Snippet: He is from New York. He moved to Utah in 2018 and was working as an assistant at the medical examiner's office.
 
 Anchored Artifacts: 
-Mentions: N-911
+Mentions: N-904
 Related Nodes: N-10183
 Tags: relevance:context
 Investigative Direction: Verify Guajardo's employment history through Utah state personnel records or his published CV.
@@ -1101,7 +1101,7 @@ Claim: The host says that when Dr. Deidra Amaro became chief medical examiner in
 Transcript Snippet: she decided to select him as her deputy, so he was promoted in 2024 when she got there to the role of deputy chief examiner.
 
 Anchored Artifacts: 
-Mentions: N-179, N-911
+Mentions: N-179, N-904
 Related Nodes: N-10183
 Tags: relevance:context
 Investigative Direction: Check Utah Department of Health and Human Services announcements for the 2024 appointment of a deputy chief medical examiner.
@@ -1197,7 +1197,7 @@ Claim: The host says Dr. Andrew Guajardo is married to Dr. Ashley Brown Guajardo
 Transcript Snippet: He's married to a woman named Dr. Ashley Brown Guajardo.
 
 Anchored Artifacts: 
-Mentions: N-911, N-912
+Mentions: N-904, N-905
 Related Nodes: N-11303
 Tags: relevance:tangential
 Investigative Direction: Confirm the marriage through public records or the couple's own biographies.
@@ -1213,7 +1213,7 @@ Claim: The host asserts that the wife of the medical examiner encourages, suppor
 Transcript Snippet: he's married to someone who encourages, supports, works with, and propagates the culture of furries, and occasionally dresses up as one herself.
 
 Anchored Artifacts: A-3146.1
-Mentions: N-911, N-912
+Mentions: N-904, N-905
 Related Nodes: N-11303
 Tags: relevance:tangential
 Investigative Direction: Locate the original posts or video the host showed and establish date, account and whether the person shown is Dr. Ashley Brown Guajardo.
@@ -1229,7 +1229,7 @@ Claim: The host says the video shows Dr. Ashley Brown Guajardo dancing as a furr
 Transcript Snippet: she was dancing as a furry, and she was promoting uh her book, and she used the hashtag, you know, furry.
 
 Anchored Artifacts: A-3146.1
-Mentions: N-912
+Mentions: N-905
 Related Nodes: N-11303
 Tags: relevance:tangential
 Investigative Direction: Find the original social media post, its date and the account that published it.
@@ -1245,7 +1245,7 @@ Claim: The host says Dr. Ashley Brown Guajardo earned her degree at Arizona Stat
 Transcript Snippet: she then earned her PhD in sociology overseas at the University of Manchester and then she became a teacher.
 
 Anchored Artifacts: A-3147.1
-Mentions: N-912
+Mentions: N-905
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Check her published CV or university profile for degrees and institutions.
@@ -1261,7 +1261,7 @@ Claim: The host reads from Dr. Ashley Brown Guajardo's bio that she was previous
 Transcript Snippet: previously Dr. Kowhardo was faculty at Brunel University in London and then the University of Utah.
 
 Anchored Artifacts: A-3147.1
-Mentions: N-912
+Mentions: N-905
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Compare against her university faculty page and CV.
@@ -1277,7 +1277,7 @@ Claim: The host reads from the bio that since 2017 Dr. Ashley Brown Guajardo has
 Transcript Snippet: Since 2017, she's hosted a weekly educational Twitch stream on games user research models.
 
 Anchored Artifacts: A-3147.1
-Mentions: N-912
+Mentions: N-905
 Related Nodes: N-11303
 Tags: relevance:tangential
 Investigative Direction: Find the Twitch channel and verify the start date and the content of the streams.
@@ -1293,7 +1293,7 @@ Claim: The host says Dr. Ashley Brown Guajardo was vice president of the Global 
 Transcript Snippet: She was vice president of the Global Game Jam conference, co-director of IGDA's games user research special interest group.
 
 Anchored Artifacts: A-3147.1
-Mentions: N-912
+Mentions: N-905
 Related Nodes: N-11302
 Tags: relevance:tangential
 Investigative Direction: Check the organizations' leadership pages and archived rosters for her titles and dates.
@@ -1309,7 +1309,7 @@ Claim: The host says Dr. Ashley Brown Guajardo currently serves as president of 
 Transcript Snippet: And currently serves as the president of the Digital Games Research Association.
 
 Anchored Artifacts: A-3147.1
-Mentions: N-912
+Mentions: N-905
 Related Nodes: N-11301
 Tags: relevance:tangential
 Investigative Direction: Check the association's website and filings for its current officers.
@@ -1325,7 +1325,7 @@ Claim: The host says Dr. Ashley Brown Guajardo is the author of a book on sexual
 Transcript Snippet: and she's currently working on a book which explores how fantasy can shape your sexual desire.
 
 Anchored Artifacts: A-3147.1
-Mentions: N-912
+Mentions: N-905
 Related Nodes: N-11303
 Tags: relevance:tangential
 Investigative Direction: Check publisher and library catalogs for her authored titles and announced forthcoming book.
@@ -1357,7 +1357,7 @@ Claim: The host says Dr. Ashley Brown Guajardo spent 10 years as a University of
 Transcript Snippet: encouraging her students and her gamers to join her on her Discord, to follow her Twitch, her streamer account.
 
 Anchored Artifacts: 
-Mentions: N-912
+Mentions: N-905
 Related Nodes: N-10013, N-11303
 Tags: relevance:tangential
 Investigative Direction: Find the Discord server and syllabi or posts where students were invited, and compare membership against names in the Robinson case.
@@ -1389,7 +1389,7 @@ Claim: The host says Dr. Andrew Guajardo and Dr. Ashley Brown Guajardo have move
 Transcript Snippet: Now, he's going to be the chief medical examiner in New York, and she's going to be teaching at NYU.
 
 Anchored Artifacts: A-3148.1
-Mentions: N-911, N-912
+Mentions: N-904, N-905
 Related Nodes: N-11305
 Tags: relevance:core
 Investigative Direction: Check New York City announcements of the chief medical examiner appointment and NYU faculty listings.
@@ -1405,7 +1405,7 @@ Claim: The host says Dr. Ashley Brown Guajardo is now a full-time assistant arts
 Transcript Snippet: Now she's the assistant arts professor at NYU full-time.
 
 Anchored Artifacts: A-3148.1
-Mentions: N-912
+Mentions: N-905
 Related Nodes: N-11305
 Tags: relevance:tangential
 Investigative Direction: Check the NYU faculty directory and her LinkedIn history for titles and dates.
@@ -1437,7 +1437,7 @@ Claim: The host says Brian Harpole's account is that he did all of the work whil
 Transcript Snippet: he was doing all of the work while Rob Cutler was holding him, while Frank was praying in the back.
 
 Anchored Artifacts: 
-Mentions: N-272, N-498, N-7
+Mentions: N-270, N-493, N-7
 Related Nodes: N-10699
 Tags: relevance:core
 Investigative Direction: Obtain Harpole's preliminary hearing testimony and Turek's and Cutler's separate accounts and compare who did CPR.
@@ -1453,7 +1453,7 @@ Claim: The host says Frank Turek says he did CPR while Brian Harpole says Turek 
 Transcript Snippet: where Frank says he did CPR and Brian says he didn't?
 
 Anchored Artifacts: 
-Mentions: N-7, N-272
+Mentions: N-7, N-270
 Related Nodes: N-10699, N-10687, N-10737
 Tags: relevance:core
 Investigative Direction: Compare Turek's public statements with Harpole's testimony on who performed CPR in the vehicle.
@@ -1469,7 +1469,7 @@ Claim: The host says Turek's explanation is that Harpole was distracted for the 
 Transcript Snippet: Frank says Brian was distracted and just didn't realize what he had done for the last 30 seconds.
 
 Anchored Artifacts: 
-Mentions: N-7, N-272, N-1
+Mentions: N-7, N-270, N-1
 Related Nodes: N-10699
 Tags: relevance:core
 Investigative Direction: Locate Turek's statement on the distraction explanation and the vehicle ride duration from dashcam or 911 timelines.
@@ -1517,7 +1517,7 @@ Claim: The host says it is odd that there were no eyewitnesses to the ER scene B
 Transcript Snippet: many of us have noted how odd it is that there were no eyewitnesses to the extremely erratic, chaotic, and utterly improbable ER scene
 
 Anchored Artifacts: 
-Mentions: N-272
+Mentions: N-270
 Related Nodes: N-10573, N-10765
 Tags: relevance:core
 Investigative Direction: Identify the Timpanogos ER staff and patients present on September 10 and ask whether anyone observed Harpole's conduct.
@@ -1713,7 +1713,7 @@ Claim: The anesthesiologist's email, read by the host, says the writer agrees wi
 Transcript Snippet: I agree with you and John Bray that the exploding mic theory is the best explanation of what we could grasp from the limited footage available.
 
 Anchored Artifacts: A-2220.1
-Mentions: N-695, N-1
+Mentions: N-689, N-1
 Related Nodes: N-10768
 Tags: relevance:core
 Investigative Direction: Verify the emailer's board certification and obtain the full email.

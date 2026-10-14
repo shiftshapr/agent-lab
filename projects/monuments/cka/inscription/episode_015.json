@@ -853,8 +853,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-388",
-      "ref": "N-388",
+      "@id": "N-384",
+      "ref": "N-384",
       "name": "Dan Bongino",
       "type": "person",
       "description": "First named by the host at 00:38:08 in episode 15. Aliases: Dan Bonino.",
@@ -1582,7 +1582,7 @@
       "mentions_person_refs": [
         "N-99",
         "N-69",
-        "N-388"
+        "N-384"
       ]
     },
     {
@@ -2797,7 +2797,7 @@
       ],
       "claim_timestamp": "00:39:45",
       "investigative_direction": "Compare the full memo against the portions the host aired.",
-      "transcript_snippet": "I didn't read the paragraph where he announced that Justin Stripe would be the COO",
+      "transcript_snippet": "I didn't read the paragraph where he announced that Justin Streiff would be the COO",
       "supports_claim_refs": [
         "C-3632"
       ],

@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: 1ddb949014d21abea78d5fe7320464c1e305ba976511e526905ea0ce305924f1
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-834, N-835, N-11198, N-11199, N-11200, N-11201
+  - Tip-minted Nodes (supplement_2026-10c): N-827, N-828, N-11198, N-11199, N-11200, N-11201
   - Hole-minted Nodes (reintro-ep126): N-10755
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8932–C-9006
-  - Reused Nodes Appearing: N-10724, N-10719, N-10723, N-10717, N-3, N-5, N-14, N-40, N-42, N-97, N-105, N-106, N-162, N-272, N-276, N-284, N-463, N-533, N-10000, N-10026, N-10032, N-10051, N-10053, N-10098, N-10099, N-10121, N-10314, N-10334, N-10343, N-10358, N-10381, N-10447, N-10588, N-10625, N-10657, N-10662, N-10712, N-10715, N-10716, N-10730, N-10850, N-10975, N-10987, N-11017, N-11065, N-10754
+  - Reused Nodes Appearing: N-10724, N-10719, N-10723, N-10717, N-3, N-5, N-14, N-40, N-42, N-97, N-105, N-106, N-162, N-270, N-274, N-282, N-458, N-528, N-10000, N-10026, N-10032, N-10051, N-10053, N-10098, N-10099, N-10121, N-10314, N-10334, N-10343, N-10358, N-10381, N-10447, N-10588, N-10625, N-10657, N-10662, N-10712, N-10715, N-10716, N-10730, N-10850, N-10975, N-10987, N-11017, N-11065, N-10754
  - New Nodes Introduced: N-10718, N-10720, N-10721, N-10722, N-10724
- - Reused Nodes Appearing: N-11, N-440
- - Hole-minted Nodes (wave3): N-515, N-516
+ - Reused Nodes Appearing: N-11, N-436
+ - Hole-minted Nodes (wave3): N-510, N-511
  - (see registers)
 
 ---
@@ -77,7 +77,7 @@ Video Timestamp: 00:08:30–00:12:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3027, N-10717, N-10718, N-516*
+*Related: C-3027, N-10717, N-10718, N-511*
 
 **A-2139.2** Filomena Testimony on Communication to FBI/ATF Discontinuing Testing
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:09:25–00:11:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3028, N-10718, N-516*
+*Related: C-3028, N-10718, N-511*
 
 ---
 
@@ -292,7 +292,7 @@ Video Timestamp: 00:51:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9001, C-9002, C-9003, N-276, N-7, N-272, N-97*
+*Related: C-9001, C-9002, C-9003, N-274, N-7, N-270, N-97*
 
 **A-2976.5** FS Claire comment identifying the movement as IMT
 
@@ -314,7 +314,7 @@ Video Timestamp: 00:53:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9006, N-440*
+*Related: C-9006, N-436*
 
 ---
 
@@ -337,19 +337,19 @@ Confidence Level: High
 
 
 
-**N-516** Jennifer Faumuina
+**N-511** Jennifer Faumuina
 
 First named by the host at 00:08:30 in episode 126. Aliases: Jennifer Filomena, Jennifer Felomina, Jennifer Faumina.
 
 *Related: C-3027, C-3028, A-2139.1, A-2139.2*
 
-**N-515** Nate Walker
+**N-510** Nate Walker
 
 First named by the host at 00:03:16 in episode 126.
 
 *Related: C-3036, A-2138.1*
 
-**N-440** Brad Parscale
+**N-436** Brad Parscale
 
 Named by the host at 00:34:37 in episode 126; first introduced in episode 99.
 
@@ -741,7 +741,7 @@ Widow and TPUSA CEO; the host contrasts her conduct with Helen Comperatore's and
 
 ---
 
-**N-272** Brian Harpole
+**N-270** Brian Harpole
 
 Named in a viewer comment about what happened in the car.
 
@@ -749,7 +749,7 @@ Named in a viewer comment about what happened in the car.
 
 ---
 
-**N-276** Dan Flood
+**N-274** Dan Flood
 
 Viewer theory about his glasses being Meta glasses.
 
@@ -757,7 +757,7 @@ Viewer theory about his glasses being Meta glasses.
 
 ---
 
-**N-284** Bari Weiss
+**N-282** Bari Weiss
 
 The host contrasts Helen Comperatore with a widow who went on Bari Weiss's town hall.
 
@@ -789,7 +789,7 @@ Man arrested early; the witness and host say he was too old and not similarly dr
 
 ---
 
-**N-463** Lindsey Graham
+**N-458** Lindsey Graham
 
 Named in a rhetorical aside about succession.
 
@@ -805,7 +805,7 @@ Addressed in Helen Comperatore's appeal for answers.
 
 ---
 
-**N-533** Nicki Minaj
+**N-528** Nicki Minaj
 
 Named in the host's contrast about celebrity interviews.
 
@@ -837,7 +837,7 @@ First named by the host at 00:27:44 in episode 126 (spelled Corey Comparetor and
 
 ---
 
-**N-834** Helen Comperatore
+**N-827** Helen Comperatore
 
 First named by the host at 00:28:31 in episode 126 (spelled Helen Compator and Helen Gambadoro in the transcript). Widow of Corey Comperatore, interviewed on NewsNation. Aliases: Helen Compator; Helen Gambadoro.
 
@@ -845,7 +845,7 @@ First named by the host at 00:28:31 in episode 126 (spelled Helen Compator and H
 
 ---
 
-**N-835** Eyal Yakoby
+**N-828** Eyal Yakoby
 
 First named by the host at 00:34:37 in episode 126. Account the host says the Time article names and that she regards as paid.
 
@@ -898,7 +898,7 @@ Claim Timestamp: 00:08:30
 Claim: Sergeant Filomena testified that officers canvassing the scene seized unattended items – including a backpack, jacket, and gloves – near the Folsom (Fulton) Library bus stop.
 
 Anchored Artifacts: A-2139.1
-Mentions: N-516
+Mentions: N-511
 Related Nodes: N-10717, N-10718
 Investigative Direction: Obtain hearing transcript or video exhibits to verify item count (three vs. nine) and chain of custody.
 
@@ -911,7 +911,7 @@ Claim Timestamp: 00:09:25
 Claim: Sergeant Filomena acknowledged that items were sent to the FBI lab and that UVU eventually communicated to the lab that the items were not connected to the case and required no further testing.
 
 Anchored Artifacts: A-2139.2
-Mentions: N-516
+Mentions: N-511
 Related Nodes: N-10718
 Investigative Direction: Obtain FBI/ATF lab correspondence and UVU communications log for the testing discontinuation instruction.
 
@@ -1013,7 +1013,7 @@ Claim Timestamp: 00:03:16
 Claim: Nate Walker, Charlie's executive assistant, told Megyn Kelly that Charlie requested the "freedom shirt" from a small selection brought to the event because it "wasn't controversial"; Walker could not recall other shirt options.
 
 Anchored Artifacts: A-2138.1
-Mentions: N-1, N-46, N-515
+Mentions: N-1, N-46, N-510
 Related Nodes: N-10723
 Investigative Direction: Obtain full Megyn Kelly interview and any prior on-record statements by Walker.
 
@@ -1050,7 +1050,7 @@ Claim Timestamp: 00:34:37
 Claim: Time magazine reported that the Brad Parscale / Clock Tower X digital influence campaign on behalf of the Israeli foreign ministry backfired and failed to achieve its intended impact.
 
 Anchored Artifacts: A-2144.1
-Mentions: N-440
+Mentions: N-436
 Related Nodes: N-10722
 Investigative Direction: Obtain Time article in full; verify spend figures and named individuals (e.g., Eyal Yakoby).
 
@@ -1063,7 +1063,7 @@ Claim Timestamp: 00:35:39
 Claim: Per Time article reporting, the Israeli foreign ministry's contracted digital campaign via Clock Tower X was reportedly spending approximately $1.5 million per day.
 
 Anchored Artifacts: A-2144.1
-Mentions: N-440
+Mentions: N-436
 Related Nodes: N-10722
 Investigative Direction: Verify the $1.5M/day figure against the Time article text and any underlying contracts/filings cited.
 
@@ -1203,7 +1203,7 @@ Claim: Asked whether the seized items numbered nine, Sergeant Filomena said she 
 Transcript Snippet: Does that ring a bell? >> I don't remember. >> Uh those whatever was seized was sent to the FBI lab for processing. >> Yes.
 
 Anchored Artifacts: A-2139.1
-Mentions: N-516
+Mentions: N-511
 Related Nodes: N-10717, N-10718
 Tags: relevance:core
 Investigative Direction: Obtain the hearing transcript and the evidence item log for the library bus stop seizures to establish the item count.
@@ -1219,7 +1219,7 @@ Claim: Sergeant Filomena agreed with the questioner that she was requesting both
 Transcript Snippet: Was a decision at some time made and and you were requesting that both DNA and other type of analysis get done? >> Yes.
 
 Anchored Artifacts: A-2139.2
-Mentions: N-516
+Mentions: N-511
 Related Nodes: N-10718
 Tags: relevance:core
 Investigative Direction: Obtain the FBI lab request forms and chain-of-custody sheets for the items to see which analyses were requested.
@@ -1235,7 +1235,7 @@ Claim: Sergeant Filomena said 'I don't remember communicating that' when asked w
 Transcript Snippet: >> I don't remember communicating that. >> Okay. If that's in the notes of the FBI or the ATF, would that be inconsistent with what you know? >> Uh no.
 
 Anchored Artifacts: A-2139.2
-Mentions: N-516
+Mentions: N-511
 Related Nodes: N-10718, N-10975
 Qualifies: C-3028
 Tags: relevance:core
@@ -1252,7 +1252,7 @@ Claim: The host says that the questioner had established the person who jumped o
 Transcript Snippet: Just so you guys know, the library is not near Loews Center.
 
 Anchored Artifacts: A-2139.1
-Mentions: N-516
+Mentions: N-511
 Related Nodes: N-10717
 Tags: relevance:core
 Investigative Direction: Measure the walking distance from the Losee Center to the library bus stops and obtain the hearing testimony that set the route.
@@ -1535,7 +1535,7 @@ Claim: The host says that Sergeant Filomena made clear the route from the Losee 
 Transcript Snippet: in terms of that route, going the Losee Center over to the library, which she makes very clear that's the route that the uh the shooter took.
 
 Anchored Artifacts: A-2139.1
-Mentions: N-516
+Mentions: N-511
 Related Nodes: N-10717
 Tags: relevance:core
 Investigative Direction: Obtain the hearing transcript passage where the route was established and the evidence the officers used to draw it.
@@ -1629,7 +1629,7 @@ Claim: The host says Corey Comperatore's widow Helen still has questions, spoke 
 Transcript Snippet: His widow Helen still has questions and she spoke out and has made it very clear that she is unsatisfied with the investigation.
 
 Anchored Artifacts: A-2143.1
-Mentions: N-834, N-106
+Mentions: N-827, N-106
 Related Nodes: N-10588, N-10724
 Supports: C-4570
 Tags: relevance:context
@@ -1646,7 +1646,7 @@ Claim: The host contrasts Helen with Erika Kirk, saying Helen was not ready to g
 Transcript Snippet: She wasn't ready to go on Barry Weiss two weeks later and say she trusts everything 100% despite seeing nothing.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-284
+Mentions: N-3, N-2, N-282
 Related Nodes: N-10334
 Tags: relevance:core
 Investigative Direction: Retrieve the CBS town hall transcript and date and check what Erika Kirk said about trusting the investigation.
@@ -1662,7 +1662,7 @@ Claim: In the NewsNation clip, Helen Comperatore says she does not believe there
 Transcript Snippet: I don't believe there was another shooter there, but I believe that he was working with somebody.
 
 Anchored Artifacts: A-2143.1
-Mentions: N-834, N-105
+Mentions: N-827, N-105
 Related Nodes: N-10724, N-10721
 Supports: C-3037
 Tags: relevance:context
@@ -1679,7 +1679,7 @@ Claim: In the NewsNation clip, asked whether it was political, Helen Comperatore
 Transcript Snippet: And this was a political >> Oh, yeah. >> political >> Absolutely. Yep. >> Have you seen evidence to that?
 
 Anchored Artifacts: A-2143.1
-Mentions: N-834
+Mentions: N-827
 Related Nodes: N-10724
 Tags: relevance:context
 Investigative Direction: Obtain the full interview to see whether she names any political motive or actor.
@@ -1695,7 +1695,7 @@ Claim: Asked whether she has seen evidence of an inside plot, Helen Comperatore 
 Transcript Snippet: Oh, I've been told things, but I've had something that happened with me that just afterwards and you're starting to put the pieces together, it just made total sense.
 
 Anchored Artifacts: A-2143.1
-Mentions: N-834
+Mentions: N-827
 Related Nodes: N-10724, N-10721
 Tags: relevance:context
 Investigative Direction: Ask the Comperatore family and the interviewer what she was told and what event she referred to.
@@ -1711,7 +1711,7 @@ Claim: Asked what she would tell President Trump, Helen Comperatore says to not 
 Transcript Snippet: Just to don't forget us and remember what we went through that day. You know, we're still here and we need answers.
 
 Anchored Artifacts: A-2143.1
-Mentions: N-834, N-5
+Mentions: N-827, N-5
 Related Nodes: N-10724
 Tags: relevance:context
 Investigative Direction: Check whether the White House or Secret Service responded to the Comperatore family's request after the interview.
@@ -1727,7 +1727,7 @@ Claim: The host says Helen's pain needs no Department of Justice, 'an emotional 
 Transcript Snippet: You don't need uh the Department of Justice, an emotional asset, boosting a person, um interviews with famous people. You don't need Nicki Minaj.
 
 Anchored Artifacts: 
-Mentions: N-3, N-533, N-2
+Mentions: N-3, N-528, N-2
 Related Nodes: N-11017
 Tags: relevance:core
 Investigative Direction: Identify any DOJ amplification of Erika Kirk and the Nicki Minaj interview the host references.
@@ -1759,7 +1759,7 @@ Claim: The host says the FARA filings for the Israeli influence operation, with 
 Transcript Snippet: the bot campaign, the Israeli influence operation, the Faradox that were filed um following Charlie's assassination, almost immediately following Charlie's assassination, Clock Clock Tower X.
 
 Anchored Artifacts: A-2144.1
-Mentions: N-3, N-440
+Mentions: N-3, N-436
 Related Nodes: N-10722, N-10662
 Supports: C-2863
 Tags: relevance:context
@@ -1776,7 +1776,7 @@ Claim: The host says the Israeli foreign minister hired Brad Parscale's firm Clo
 Transcript Snippet: the Israeli foreign minister quite literally hiring uh Brad Parscale, the former Trump campaign manager, his firm Clock Tower X to conduct a digital campaign on behalf of the state of Israel
 
 Anchored Artifacts: A-2144.1
-Mentions: N-440
+Mentions: N-436
 Related Nodes: N-10722, N-10026
 Supports: C-2864
 Tags: relevance:context
@@ -1793,7 +1793,7 @@ Claim: The host says the Time article names Eyal Yakoby, whom she says she block
 Transcript Snippet: Eyal Yakoby, I blocked him so long ago. It was so obvious that he was a paid stooge. Every single post, like a 300 posts a day.
 
 Anchored Artifacts: A-2144.1
-Mentions: N-835, N-3
+Mentions: N-828, N-3
 Related Nodes: N-10722, N-11017
 Tags: relevance:context
 Investigative Direction: Read the Time article for how Yakoby is described and whether he or his representatives responded or confirmed payment.
@@ -1809,7 +1809,7 @@ Claim: The host says that, regarding the accounts named, 'he kind of had to own 
 Transcript Snippet: And they he kind of he had to own that. These Yeah, they're being paid. We know who they are.
 
 Anchored Artifacts: A-2144.1
-Mentions: N-835
+Mentions: N-828
 Related Nodes: N-10722
 Tags: relevance:context
 Investigative Direction: Read the article for the on-record responses of named accounts about payment.
@@ -1841,7 +1841,7 @@ Claim: The host says the Time article reports that Brad Parscale was the owner o
 Transcript Snippet: Brad Parscale was the owner or a part owner of the company Influencable.
 
 Anchored Artifacts: A-2144.1
-Mentions: N-440
+Mentions: N-436
 Related Nodes: N-11201, N-10722
 Tags: relevance:context
 Investigative Direction: Check corporate filings for Influencable and Time's sourcing for Parscale's ownership.
@@ -1857,7 +1857,7 @@ Claim: The host says the article describes Influencable texting people, offering
 Transcript Snippet: And that's when they essentially text everyone, they offer them money, and they say, "Go out and say this and we'll pay you depending on how many people you get to retweet you, how big your your post is.
 
 Anchored Artifacts: A-2144.1
-Mentions: N-440
+Mentions: N-436
 Related Nodes: N-11201, N-11017
 Tags: relevance:context
 Investigative Direction: Read the article's description of the payment model and obtain any sample texts it cites.
@@ -1873,7 +1873,7 @@ Claim: The host says that under the agreement Parscale was to produce 100 origin
 Transcript Snippet: under the agreement Parscale was meant to produce 100 original pieces of content each month and 80% of it was initially supposed to be aimed at Gen Z across TikTok, Instagram, YouTube
 
 Anchored Artifacts: A-2144.1
-Mentions: N-440
+Mentions: N-436
 Related Nodes: N-10722
 Tags: relevance:context
 Investigative Direction: Read the services agreement filed with FARA and compare the content quotas and audience targets.
@@ -1889,7 +1889,7 @@ Claim: The host says the services agreement pledged to amplify the campaign acro
 Transcript Snippet: they pledged to amplify the campaign all across social media and to integrate that message with the Salem media network properties which we have discussed on this show targeting Christians targeting MAGA supporters
 
 Anchored Artifacts: A-2144.1
-Mentions: N-440
+Mentions: N-436
 Related Nodes: N-10722, N-10657
 Supports: C-2865
 Tags: relevance:context
@@ -2134,7 +2134,7 @@ Claim: In a rhetorical contrast about succession, the host says Lindsey Graham i
 Transcript Snippet: He didn't believe in well, Lindsey Graham is dead, so now his sister becomes a senator.
 
 Anchored Artifacts: 
-Mentions: N-3, N-463
+Mentions: N-3, N-458
 Tags: relevance:tangential
 Investigative Direction: Verify against Senate records; the statement is made in a rhetorical aside.
 
@@ -2197,7 +2197,7 @@ Claim: Discussing a viewer theory, the host says Dan Flood's glasses do appear t
 Transcript Snippet: Dan flood with the meta glasses. They do appear to be meta glasses based on um they appear to be.
 
 Anchored Artifacts: A-2976.4
-Mentions: N-3, N-276
+Mentions: N-3, N-274
 Tags: relevance:core
 Investigative Direction: Identify the glasses model from clear photographs and confirm Flood's whereabouts when worn.
 
@@ -2228,7 +2228,7 @@ Claim: The host says the only other person on the line could be the driver, goin
 Transcript Snippet: the only other person could be the driver. Going 100 miles per an hour. Updating Ben's security on a 7-minute journey.
 
 Anchored Artifacts: A-2976.4
-Mentions: N-3, N-272, N-97
+Mentions: N-3, N-270, N-97
 Related Nodes: N-10712
 Tags: relevance:core
 Investigative Direction: Obtain vehicle telematics or driver identification for the 9/10 drive and the security contact log; the 'Ben' referent is unclear in the transcript.
@@ -2276,7 +2276,7 @@ Claim: The host says it is pretty obvious to her that many people are being paid
 Transcript Snippet: it is pretty obvious to me that many people are being paid to push this, and the thing about a lie is it's a it it just always kind of you can make a lot of money really fast
 
 Anchored Artifacts: A-2976.6
-Mentions: N-3, N-440, N-40
+Mentions: N-3, N-436, N-40
 Related Nodes: N-11017, N-10722
 Tags: relevance:context
 Investigative Direction: Seek disclosures or filings showing payments to the creators the host has in mind.

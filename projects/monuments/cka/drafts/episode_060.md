@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 4ff884e8b88d089e5a5ddcb0facbdda169075c76bb9db2e13f6bf6d6be1cad05
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-731, N-732, N-11035, N-11036, N-11037, N-11038, N-11039
+  - Tip-minted Nodes (supplement_2026-10): N-725, N-726, N-11035, N-11036, N-11037, N-11038, N-11039
   - Hole-minted Nodes (reintro-ep060): N-10437, N-10548, N-10560, N-10664, N-10694
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5485–C-5571
-  - New Nodes Introduced:  N-487, N-488, N-489, N-490, N-10430, N-10431
-  - Reused Nodes Appearing: N-17, N-22, N-27, N-36, N-37, N-46, N-82, N-118, N-194, N-276, N-532, N-10000, N-10004, N-10027, N-10117, N-10122, N-10131, N-10139, N-10149, N-10267, N-10340, N-10341, N-10342, N-10358, N-10367, N-10370, N-10417, N-10422, N-10426, N-10436
+  - New Nodes Introduced:  N-482, N-483, N-484, N-485, N-10430, N-10431
+  - Reused Nodes Appearing: N-17, N-22, N-27, N-36, N-37, N-46, N-82, N-118, N-194, N-274, N-527, N-10000, N-10004, N-10027, N-10117, N-10122, N-10131, N-10139, N-10149, N-10267, N-10340, N-10341, N-10342, N-10358, N-10367, N-10370, N-10417, N-10422, N-10426, N-10436
   - (see registers), N-11
 
 ## 2. Executive Summary
@@ -111,7 +111,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 00:46:48
-Speaker: N-337
+Speaker: N-334
 Quote: this sort of operation mocking pastor
 Context: Coleman uses the host's coinage for pastors repeating the same messaging.
 Tags: mocking pastor, influence op
@@ -267,7 +267,7 @@ Video Timestamp: 00:09:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2151, N-2, N-489*
+*Related: C-2151, N-2, N-484*
 
 ---
 
@@ -281,7 +281,7 @@ Video Timestamp: 00:19:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2152, C-2153, N-487, N-488*
+*Related: C-2152, C-2153, N-482, N-483*
 
 ---
 
@@ -309,7 +309,7 @@ Video Timestamp: 01:16:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2157, N-337*
+*Related: C-2157, N-334*
 
 ---
 
@@ -323,7 +323,7 @@ Video Timestamp: 01:18:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2157, N-337*
+*Related: C-2157, N-334*
 
 ---
 
@@ -337,7 +337,7 @@ Video Timestamp: 00:40:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2155, C-2156, N-490*
+*Related: C-2155, C-2156, N-485*
 
 ---
 
@@ -350,7 +350,7 @@ Video Timestamp: 00:33:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5521, C-5522, C-5523, N-3, N-32, N-532, N-27, N-10004*
+*Related: C-5521, C-5522, C-5523, N-3, N-32, N-527, N-27, N-10004*
 
 ---
 
@@ -410,7 +410,7 @@ Confidence Level: High
 
 ## 4. Node Register
 
-**N-337** Baron Coleman
+**N-334** Baron Coleman
 
 Independent investigator and YouTuber now working full-time on the Charlie Kirk assassination case. Co-host for this episode and recurring collaborator.
 
@@ -436,7 +436,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-487** Katherine Pollard Griggs
+**N-482** Katherine Pollard Griggs
 
 Wife of Colonel George Griggs. Subject of interview clip played in this episode describing U.S. military as a mind control operation.
 
@@ -445,11 +445,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1656.1, C-2152, C-2153, N-488*
+*Related: A-1656.1, C-2152, C-2153, N-483*
 
 ---
 
-**N-488** Colonel George Griggs
+**N-483** Colonel George Griggs
 
 U.S. Marine Corps officer; head of special operations under Admiral Kelso/NATO; intelligence career spanning Vietnam and continuing under General Wilhelm; husband of Katherine Pollard Griggs. Described in the clip as the source for Katherine Griggs's military claims.
 
@@ -458,11 +458,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1656.1, C-2152, N-487*
+*Related: A-1656.1, C-2152, N-482*
 
 ---
 
-**N-489** Jessica Ghawi
+**N-484** Jessica Ghawi
 
 Victim of the 2012 Aurora theater shooting; previously survived the Toronto Eaton Centre food court shooting weeks earlier; previously lived in New Braunfels, Texas.
 
@@ -475,7 +475,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-490** Ronald Lauder
+**N-485** Ronald Lauder
 
 President of the World Jewish Congress; named in Jerusalem Post headline as allegedly involved in Trump's push for Greenland.
 
@@ -592,7 +592,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-276** Dan Flood
+**N-274** Dan Flood
 
 Dan Flood; the host and Coleman discuss his role, promotion and the night-before text.
 
@@ -649,7 +649,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-731** Bill Cooper
+**N-725** Bill Cooper
 
 First named by the host at 00:14:50 in episode 60. Author the host calls the original conspiracy theorist who predicted military-linked mass shootings.
 
@@ -697,7 +697,7 @@ Marissa Strait, PragerU CEO, said by the host to be working on a documentary.
 
 ---
 
-**N-732** Shabbos Kestenbaum
+**N-726** Shabbos Kestenbaum
 
 First named by the host at 00:29:52 in episode 60 (spelled Shabazz, Shabos and Kestenbaum in the transcript). Filmmaker the host says is making a documentary with Marissa Strait.
 
@@ -713,7 +713,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-532** Peter Thiel
+**N-527** Peter Thiel
 
 Peter Thiel; subject of Rubin's photo post and the alleged bridge loan.
 
@@ -892,7 +892,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-369** Mitch Snow
+**N-366** Mitch Snow
 
 Mitch Snow; the Fort Huachuca witness at the center of Operation Debunk Mitch.
 
@@ -953,7 +953,7 @@ Claim Timestamp: 00:09:46
 Claim: During her Miss Arizona USA reign, Erika Kirk tweeted that one of her best friends was in the theater during the 2012 Aurora shooting.
 
 Anchored Artifacts: A-1655.1
-Mentions: N-2, N-489
+Mentions: N-2, N-484
 
 
 Investigative Direction: Identify the named friend; cross-reference with the published Aurora victim list; verify any prior connection between Erika Kirk and the Aurora theater victim cohort or New Braunfels, Texas.
@@ -967,7 +967,7 @@ Claim Timestamp: 00:19:31
 Claim: Katherine Pollard Griggs stated in a recorded interview that the U.S. military is literally a mind control operation run by sexual deviants who recruit individuals (citing Jeffrey Dahmer, Kaczynski, McVeigh, Oswald) into intelligence work because they are "easy to control."
 
 Anchored Artifacts: A-1656.1
-Mentions: N-487, N-488
+Mentions: N-482, N-483
 
 
 Investigative Direction: Locate the full unedited interview; verify the date and original broadcast; trace Colonel George Griggs's service record against cited commands (Admiral Kelso, General Wilhelm, NATO Defense College Rome, Princeton Class of 1959).
@@ -981,7 +981,7 @@ Claim Timestamp: 00:22:03
 Claim: Host concurs with Griggs's assessment that the U.S. military is corrupted at the command level and has been institutionally compromised since at least the JFK assassination.
 
 Anchored Artifacts: A-1656.1
-Mentions: N-487, N-488
+Mentions: N-482, N-483
 
 
 Investigative Direction: This is a host stance claim, not independently verifiable; document only as recorded concurrence against A-1656.1.
@@ -1010,7 +1010,7 @@ Claim Timestamp: 00:40:58
 Claim: The Jerusalem Post reports that World Jewish Congress President Ronald Lauder is involved in President Trump's push for Greenland.
 
 Anchored Artifacts: A-1660.1
-Mentions: N-490
+Mentions: N-485
 
 
 Investigative Direction: Retrieve the full Jerusalem Post article; identify the specific role attributed to Lauder; check for corroborating or contradictory reporting from other outlets.
@@ -1024,7 +1024,7 @@ Claim Timestamp: 00:41:54
 Claim: Host and guest concur that Trump's Greenland push is not consistent with America-first policy and is being driven by a donor or supporter's financial interest rather than national interest.
 
 Anchored Artifacts: A-1660.1
-Mentions: N-490
+Mentions: N-485
 
 
 Investigative Direction: Document host stance claim against A-1660.1; investigate reported financial interests of Lauder or associated parties in Greenland.
@@ -1038,7 +1038,7 @@ Claim Timestamp: 01:16:11
 Claim: A prior Baron Coleman YouTube video shows Coleman confronting commenter "Joe" over logic fallacies related to Mitch Snow and Fort Huachuca coverage.
 
 Anchored Artifacts: A-1658.1, A-1659.1
-Mentions: N-337, N-369
+Mentions: N-334, N-366
 
 
 Investigative Direction: Locate the full Coleman confrontation clip and the referenced "Operation Debunk Mitch" series; document context as part of Coleman's investigative output.
@@ -1068,7 +1068,7 @@ Claim: Baron Coleman says he heard that Turning Point USA purged 30 to 40 people
 Transcript Snippet: I heard there were 30 to 40 people purged, that they were looking for the leak.
 
 Anchored Artifacts: 
-Mentions: N-337, N-3
+Mentions: N-334, N-3
 Related Nodes: N-10000, N-11035
 Investigative Direction: Obtain TPUSA headcount and separation records or named former employees to confirm the size and timing of the reported purge.
 
@@ -1113,7 +1113,7 @@ Claim: Baron Coleman says TPUSA is an organization of only about 600 or 700 peop
 Transcript Snippet: if you can get rid of 40 people in an organization of only 6 or 700
 
 Anchored Artifacts: 
-Mentions: N-337
+Mentions: N-334
 Related Nodes: N-10000
 Investigative Direction: Check TPUSA's Form 990 and public headcount statements against the 600 to 700 figure.
 
@@ -1128,7 +1128,7 @@ Claim: The host and Coleman say the last YouTuber who suggested TPUSA might need
 Transcript Snippet: Last YouTuber that said that got a cease and desist letter. That's right.
 
 Anchored Artifacts: 
-Mentions: N-337, N-3
+Mentions: N-334, N-3
 Related Nodes: N-10000
 Investigative Direction: Identify the YouTuber and obtain the cease and desist letter and its date.
 
@@ -1143,7 +1143,7 @@ Claim: Baron Coleman says TPUSA's account of the drones has shifted until a lawy
 Transcript Snippet: finally a lawyer's like, "Okay, there were drones, but they were for the media only and not for his security team."
 
 Anchored Artifacts: 
-Mentions: N-337
+Mentions: N-334
 Related Nodes: N-10267, N-10000
 Supports: C-2141
 Investigative Direction: Compare TPUSA's cease and desist letter and public statements on drones with UVU's event approvals and any drone permits.
@@ -1159,7 +1159,7 @@ Claim: Baron Coleman says everyone in the film that was never released is relate
 Transcript Snippet: Then we sort of learned that everybody in this movie that never premiered or it never was released is related to Fort Huachuca and the Sierra Vista area
 
 Anchored Artifacts: 
-Mentions: N-337, N-2
+Mentions: N-334, N-2
 Related Nodes: N-10417
 Investigative Direction: Identify the film and its cast and crew and check each person's documented Sierra Vista or Fort Huachuca connection.
 
@@ -1174,7 +1174,7 @@ Claim: Baron Coleman says Erika Kirk has been very open that her mother had Depa
 Transcript Snippet: Erika has been very open about the fact that her mother DOD contracts
 
 Anchored Artifacts: 
-Mentions: N-337, N-2
+Mentions: N-334, N-2
 Related Nodes: N-10417
 Investigative Direction: Find Erika Kirk's own public statements about her mother's DOD work and federal contract records for the mother's employer.
 
@@ -1189,7 +1189,7 @@ Claim: Baron Coleman says he learned that Dan Flood's father ran Intel at Fort H
 Transcript Snippet: Dan Flood's father ran Intel at Fort Huachuca.
 
 Anchored Artifacts: 
-Mentions: N-337, N-276
+Mentions: N-334, N-274
 Related Nodes: N-10417, N-10694
 Investigative Direction: Check obituaries, military and law-enforcement records for Dan Flood's father and any Fort Huachuca assignment; compare with the Robert Flood biography in episode 59.
 
@@ -1204,7 +1204,7 @@ Claim: The host says she received a solid tip that Dan Flood has not been fired 
 Transcript Snippet: we received a solid tip yesterday that Dan Flood, not only has he not been fired, he's been promoted at Turning Point USA.
 
 Anchored Artifacts: 
-Mentions: N-3, N-276
+Mentions: N-3, N-274
 Related Nodes: N-10000, N-10694
 Investigative Direction: Ask TPUSA for Dan Flood's current title and start date in any security role; look for staff listings or event credentials.
 
@@ -1219,7 +1219,7 @@ Claim: Baron Coleman says that, in his opinion, Dan Flood's protectee told him w
 Transcript Snippet: you had a protectee of yours tell you within a few days that that someone was probably going to kill him. And then he died.
 
 Anchored Artifacts: 
-Mentions: N-337, N-276, N-1
+Mentions: N-334, N-274, N-1
 Related Nodes: N-10340, N-10694
 Investigative Direction: Obtain the night-before text messages and any security briefings showing what Charlie Kirk told Flood and when.
 
@@ -1234,7 +1234,7 @@ Claim: The host says her Turning Point insider told her that before Charlie Kirk
 Transcript Snippet: my Turning Point insider told me that before Charlie died, there was some sort of back and forth between him and Dan Flood where he was going to demote Dan Flood.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-276
+Mentions: N-3, N-1, N-274
 Related Nodes: N-10694, N-10000
 Investigative Direction: Seek internal TPUSA messages or a second source on any planned change to Flood's role in August or September 2025.
 
@@ -1249,7 +1249,7 @@ Claim: The host says Dan Flood was protecting Erika Kirk at the White House when
 Transcript Snippet: he was protecting her at the White House when they did the Charlie Kirk Day
 
 Anchored Artifacts: 
-Mentions: N-3, N-276, N-2
+Mentions: N-3, N-274, N-2
 Related Nodes: N-10694
 Supports: C-2147
 Investigative Direction: Review photos and press pool footage of the White House event for Flood and the rest of Erika Kirk's detail.
@@ -1279,7 +1279,7 @@ Claim: The host and Coleman read a tip that the reigning Miss Arizona USA contro
 Transcript Snippet: Miss Arizona USA has the same thing. That the Miss Arizona USA, whoever's the reigning Miss Arizona USA, gets control of that account.
 
 Anchored Artifacts: A-1655.1
-Mentions: N-337, N-2
+Mentions: N-334, N-2
 Investigative Direction: Confirm with the Miss Arizona USA organization how the account is handled each year and capture the archived timeline.
 
 ---
@@ -1338,7 +1338,7 @@ Claim: The host says she asked Coleman whether mass shootings could be targets w
 Transcript Snippet: I said to you what if there are just targets and the military is just going in and killing people and then blaming it on on some like at all times a transgender person
 
 Anchored Artifacts: 
-Mentions: N-3, N-337
+Mentions: N-3, N-334
 Related Nodes: N-11036
 Investigative Direction: This is a hypothesis, not a finding; test case by case against court records and ballistic and autopsy evidence for each named shooting.
 
@@ -1353,7 +1353,7 @@ Claim: Baron Coleman says Jessica Ghawi was in the Toronto mall food court in 20
 Transcript Snippet: Jessica Ghawi was in that food court. She paid her bill at like I don't remember 6:20 or something like that and 3 minutes later the shooting started
 
 Anchored Artifacts: 
-Mentions: N-337, N-489
+Mentions: N-334, N-484
 Related Nodes: N-11036
 Investigative Direction: Compare with Ghawi's own blog post about leaving the Eaton Centre food court and the Toronto police timeline.
 
@@ -1368,7 +1368,7 @@ Claim: Baron Coleman says Jessica Ghawi used to live in New Braunfels, Texas, an
 Transcript Snippet: she used to live in New Braunfels Texas of all places. Bam that's another thing
 
 Anchored Artifacts: 
-Mentions: N-337, N-489, N-276
+Mentions: N-334, N-484, N-274
 Related Nodes: N-11036, N-10426
 Investigative Direction: Check Ghawi's residence history and any link between her New Braunfels period and people named in the Kirk case.
 
@@ -1383,7 +1383,7 @@ Claim: Baron Coleman says the man who died with Jessica Ghawi had flown in from 
 Transcript Snippet: And he had flown in from New Braunfels Texas to see her to go to this movie in Aurora Colorado.
 
 Anchored Artifacts: 
-Mentions: N-337, N-489
+Mentions: N-334, N-484
 Related Nodes: N-11036, N-10426
 Investigative Direction: Identify the companion from the victim list and confirm his hometown and travel from public reporting.
 
@@ -1398,7 +1398,7 @@ Claim: Baron Coleman says that, rather than leaving her where she lay, two polic
 Transcript Snippet: rather than leaving her where she is two police officers go into the theater and they pull her into a police car and personally say that they take her to a hospital.
 
 Anchored Artifacts: 
-Mentions: N-337, N-489
+Mentions: N-334, N-484
 Related Nodes: N-11036
 Investigative Direction: Compare with the Aurora police report, 911 logs and the coroner's findings on Ghawi's death.
 
@@ -1413,7 +1413,7 @@ Claim: Baron Coleman says Aurora, Colorado had the Buckley Air Force Base from t
 Transcript Snippet: It was the Buckley Air Force Base from the year 2000 to 2021.
 
 Anchored Artifacts: 
-Mentions: N-337
+Mentions: N-334
 Related Nodes: N-11036
 Investigative Direction: Check Buckley's service history and the date it was redesignated a Space Force base.
 
@@ -1428,7 +1428,7 @@ Claim: Baron Coleman says that in the Aurora theater alone there were a ton of m
 Transcript Snippet: in that theater alone there were a ton of military guys that were victims of the shooting
 
 Anchored Artifacts: 
-Mentions: N-337
+Mentions: N-334
 Related Nodes: N-11036
 Investigative Direction: Tabulate the military service of the 12 killed and 70 wounded from the court victim list.
 
@@ -1443,7 +1443,7 @@ Claim: Baron Coleman says Jessica Ghawi's father's obituary did not mention her 
 Transcript Snippet: His daughter who was tragically murdered not terribly long before he died was not mentioned in his obituary.
 
 Anchored Artifacts: 
-Mentions: N-337, N-489
+Mentions: N-334, N-484
 Related Nodes: N-11036
 Investigative Direction: Retrieve the father's obituary and Ghawi's obituary and any adoption record.
 
@@ -1472,7 +1472,7 @@ Claim: The host says Bill Cooper, whom she calls the original conspiracy theoris
 Transcript Snippet: Bill Cooper had made a lot of predictions who was supposed to be the original conspiracy theorist who before there were any mass shootings was speaking about the military
 
 Anchored Artifacts: 
-Mentions: N-3, N-731
+Mentions: N-3, N-725
 Investigative Direction: Locate Cooper's recorded lectures and the dates and wording of any statement about future mass shootings.
 
 ---
@@ -1501,7 +1501,7 @@ Claim: In the clip, the interviewer states and Katherine Griggs affirms that her
 Transcript Snippet: And in fact he told you that they knew the bombing was coming down in Beirut before it occurred.
 
 Anchored Artifacts: A-1656.1
-Mentions: N-487, N-488
+Mentions: N-482, N-483
 Investigative Direction: Locate the full interview and test the claim against the Long Commission report on the 1983 Beirut barracks bombing.
 
 ---
@@ -1577,7 +1577,7 @@ Claim: The host says Marissa Strait, the Prager University CEO, is working on a 
 Transcript Snippet: And uh he's going around telling everybody it's going to be a takedown of Candace Owens and that's what her new focus is at Prager University
 
 Anchored Artifacts: 
-Mentions: N-3, N-118, N-732
+Mentions: N-3, N-118, N-726
 Related Nodes: N-10131
 Investigative Direction: Ask PragerU and the filmmaker to confirm the project's existence and subject; the host spells the name variously.
 
@@ -1606,7 +1606,7 @@ Claim: The host says Dave Rubin posted a picture of himself and her with a capti
 Transcript Snippet: He posts a picture of me and him and he says, "And as long as we are doing this, here we are at Peter Thiel's house in LA.
 
 Anchored Artifacts: A-2758.1
-Mentions: N-3, N-32, N-532
+Mentions: N-3, N-32, N-527
 Investigative Direction: Capture Rubin's post and the photo's metadata to confirm date and location.
 
 ---
@@ -1635,7 +1635,7 @@ Claim: The host says she did not know Peter Thiel before then, that Eric Weinste
 Transcript Snippet: I don't know Peter Thiel. I literally don't know Peter Thiel. So I met him at his LA he was having a party or whatever.
 
 Anchored Artifacts: A-2758.1
-Mentions: N-3, N-532, N-27
+Mentions: N-3, N-527, N-27
 Investigative Direction: Check photographs and other attendee accounts of the 2018 gathering.
 
 ---
@@ -1694,7 +1694,7 @@ Claim: The host says that story is the reason she stopped being friends with Dav
 Transcript Snippet: That's the reason I stopped being friends with Dave Rubin. I never shared that story until the audacity of this person who has told me about how he's done drugs with Peter Thiel.
 
 Anchored Artifacts: 
-Mentions: N-3, N-32, N-532
+Mentions: N-3, N-32, N-527
 Related Nodes: N-11037
 Investigative Direction: Compare with earlier episodes in which the host described her break with Rubin.
 
@@ -1723,7 +1723,7 @@ Claim: The host says Dave Rubin asked billionaire Peter Thiel for $5 million to 
 Transcript Snippet: he went to his friend, billionaire Peter Thiel, and asked for $5 million and they wrote it as like a bridge loan or whatever.
 
 Anchored Artifacts: 
-Mentions: N-3, N-32, N-532
+Mentions: N-3, N-32, N-527
 Investigative Direction: Check property and lien records for Rubin's purchase and ask either party to confirm or deny the loan terms.
 
 ---
@@ -1767,7 +1767,7 @@ Claim: Baron Coleman says Protestant and Evangelical churches are definitely exp
 Transcript Snippet: the Protestant churches the Evangelical churches are definitely uh experi- experiencing a mass exodus.
 
 Anchored Artifacts: 
-Mentions: N-337
+Mentions: N-334
 Investigative Direction: Compare with Pew, Gallup and denominational membership data for 2025.
 
 ---
@@ -1991,7 +1991,7 @@ Claim: The host says that Erika Kirk told her the take-over statement was made i
 Transcript Snippet: I was told by Erika it was Aspen.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-337
+Mentions: N-3, N-2, N-334
 Related Nodes: N-10431, N-10027
 Investigative Direction: Pin down Erika Kirk's own account of venue and date, and compare it with the Hamptons attendee accounts.
 
@@ -2021,7 +2021,7 @@ Claim: Baron Coleman says Charlie Kirk did military-style training drills with M
 Transcript Snippet: he's like, "If anything happens, just go. Walk. Run." They were doing They were like doing rehearsals. They were They were running drills.
 
 Anchored Artifacts: 
-Mentions: N-337, N-1, N-194
+Mentions: N-334, N-1, N-194
 Supports: C-1499
 Investigative Direction: Obtain Mikey McCoy's and Kolvet's own descriptions of the drills and any video of them.
 
@@ -2036,7 +2036,7 @@ Claim: The host says that first TPUSA would say she was a liar, then had to conf
 Transcript Snippet: first they were going to say I was a liar, then they had to confirm that it was true that Charlie messaged not only Andrew Kolodny, but Dan Flood the night before and said that he was worried he was going to be assassinated.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-14, N-276
+Mentions: N-3, N-1, N-14, N-274
 Related Nodes: N-10340
 Supports: C-1926
 Investigative Direction: Obtain the texts or TPUSA's public confirmation, with timestamps; the transcript spells Kolvet as Kolodny.
@@ -2186,24 +2186,24 @@ Investigative Direction: Compare the flight manifest with Kolvet's own statement
 
 Claim Timestamp: 01:09:42
 
-Claim: The host says that when she asked Erika Kirk and Justin Strieff who was on the planes, and whether Kolvet flew with his wife, Erika sat quietly as if she did not know, though the host says Erika would have seen the wife if she waited on the tarmac.
+Claim: The host says that when she asked Erika Kirk and Justin Streiff who was on the planes, and whether Kolvet flew with his wife, Erika sat quietly as if she did not know, though the host says Erika would have seen the wife if she waited on the tarmac.
 
 Transcript Snippet: And Erika sat quietly like she didn't know the answer to whether or not he flew with his wife.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-15, N-14
 Related Nodes: N-10560
-Investigative Direction: Ask Erika Kirk and Justin Strieff for their accounts of that exchange and the date it happened.
+Investigative Direction: Ask Erika Kirk and Justin Streiff for their accounts of that exchange and the date it happened.
 
 ---
 
-**C-5561** Host Says Justin Strieff Confirmed Kolvet Flew With His Wife
+**C-5561** Host Says Justin Streiff Confirmed Kolvet Flew With His Wife
 
 Claim Timestamp: 01:10:18
 
-Claim: The host says Justin Strieff said he would find out whether Kolvet flew with his wife, and then came back and said yes, Kolvet flew with his wife.
+Claim: The host says Justin Streiff said he would find out whether Kolvet flew with his wife, and then came back and said yes, Kolvet flew with his wife.
 
-Transcript Snippet: And so Justin Strieff then said to me I'll get back to you and I'll find out if Andrew flew with his wife and he did.
+Transcript Snippet: And so Justin Streiff then said to me I'll get back to you and I'll find out if Andrew flew with his wife and he did.
 
 Anchored Artifacts: A-1657.1
 Mentions: N-3, N-15, N-14
@@ -2270,7 +2270,7 @@ Claim: The host says the person who gave her the tip about Dan Flood said money 
 Transcript Snippet: said that money is being funneled that it's just a money laundering operation to pay off dirty cops through the Cattlemen's Ball, Cattle Baron's Ball um if you will
 
 Anchored Artifacts: 
-Mentions: N-3, N-276
+Mentions: N-3, N-274
 Related Nodes: N-10426
 Supports: C-2135
 Investigative Direction: Review the Cattle Baron's Ball's filings and American Cancer Society grants; the allegation is unverified and the host says to investigate it.
@@ -2286,7 +2286,7 @@ Claim: The host says that during Operation Debunk Mitch critics tried to stop Ba
 Transcript Snippet: This is when they were running Operation Debunk Mitch and they were basically being like, you can't even prod the narrative on Fort Wackachuca because Mitch's baby mama from 20 years ago has something to say
 
 Anchored Artifacts: A-1658.1
-Mentions: N-3, N-337, N-369
+Mentions: N-3, N-334, N-366
 Related Nodes: N-10367
 Supports: C-2157
 Investigative Direction: Locate the Operation Debunk Mitch posts and the baby mama's statement.
@@ -2302,7 +2302,7 @@ Claim: Baron Coleman says the host verified that Mitch Snow was at the base, tha
 Transcript Snippet: She had the police report. His son later confirmed the police report was So that's number one. Two. What about the building he said he used?
 
 Anchored Artifacts: A-1658.1
-Mentions: N-337, N-369
+Mentions: N-334, N-366
 Related Nodes: N-10367
 Supports: C-2157
 Investigative Direction: Obtain the police report and the son's confirmation as cited in the host's Fort Huachuca episodes.
@@ -2318,7 +2318,7 @@ Claim: Baron Coleman says the host called someone at the base who confirmed that
 Transcript Snippet: She called someone at the base and they said, yeah. Yeah. Um in fact they do use that building and they black out the windows and it's set up as sort of a a secure facility.
 
 Anchored Artifacts: A-1658.1
-Mentions: N-337, N-369
+Mentions: N-334, N-366
 Related Nodes: N-10367, N-10370
 Supports: C-2157
 Investigative Direction: Identify the base contact and obtain a written or on-record confirmation of the building and its use.
@@ -2334,7 +2334,7 @@ Claim: Baron Coleman says he has retired from his other job and is now doing his
 Transcript Snippet: as Candace mentioned, I I've retired from my other job and I'm doing this full-time now.
 
 Anchored Artifacts: 
-Mentions: N-337, N-3
+Mentions: N-334, N-3
 Investigative Direction: Confirm via Coleman's own channel announcements; this is self-reported.
 
 ---

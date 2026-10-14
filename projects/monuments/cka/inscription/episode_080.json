@@ -683,8 +683,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-249",
-      "ref": "N-249",
+      "@id": "N-248",
+      "ref": "N-248",
       "name": "Mark Levin",
       "type": "person",
       "description": "Conservative commentator; named as defender of Alan Dershowitz.",
@@ -699,8 +699,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-279",
-      "ref": "N-279",
+      "@id": "N-277",
+      "ref": "N-277",
       "name": "Mike Huckabee",
       "type": "person",
       "description": "Father of Sarah Huckabee Sanders; named by host as contextually relevant to Israel theme.",
@@ -715,8 +715,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-463",
-      "ref": "N-463",
+      "@id": "N-458",
+      "ref": "N-458",
       "name": "Lindsey Graham",
       "type": "person",
       "description": "US Senator; subject of critique in Charlie Kirk and Tucker Carlson audio clips.",
@@ -731,8 +731,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-545",
-      "ref": "N-545",
+      "@id": "N-540",
+      "ref": "N-540",
       "name": "Alan Dershowitz",
       "type": "person",
       "description": "Attorney and Epstein associate; cited as having recounted a massage from a woman named \"Olga\" at Epstein's place; defended by Mark Levin and Barry Weiss.",
@@ -747,8 +747,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-593",
-      "ref": "N-593",
+      "@id": "N-588",
+      "ref": "N-588",
       "name": "Sarah Huckabee Sanders",
       "type": "person",
       "description": "Governor of Arkansas; displayed signing proclamation with Erica Kirk for Club America in Arkansas high schools.",
@@ -881,7 +881,7 @@
       "claim_timestamp": "00:14:29",
       "investigative_direction": "Verify the exact X post text against Graham's verified account at the timestamp indicated.",
       "mentions_person_refs": [
-        "N-463"
+        "N-458"
       ]
     },
     {
@@ -900,7 +900,7 @@
       "claim_timestamp": "00:15:07",
       "investigative_direction": "Confirm against Levin's verified X account and compare with any subsequent official statements about Kent's separation.",
       "mentions_person_refs": [
-        "N-249"
+        "N-248"
       ]
     },
     {
@@ -919,7 +919,7 @@
       "claim_timestamp": "00:16:55",
       "investigative_direction": "Confirm against Levin's verified X account and monitor for any DOJ response.",
       "mentions_person_refs": [
-        "N-249"
+        "N-248"
       ]
     },
     {
@@ -958,7 +958,7 @@
       "claim_timestamp": "00:15:58",
       "investigative_direction": "Confirm exact text against Dershowitz's verified X account.",
       "mentions_person_refs": [
-        "N-545"
+        "N-540"
       ]
     },
     {
@@ -1219,7 +1219,7 @@
       "investigative_direction": "Confirm posting timestamp against official channels; subject video to production analysis.",
       "mentions_person_refs": [
         "N-36",
-        "N-279"
+        "N-277"
       ]
     },
     {
@@ -1255,7 +1255,7 @@
       "investigative_direction": "Verify event date and content against Governor Sanders's official schedule and TPUSA press materials.",
       "mentions_person_refs": [
         "N-2",
-        "N-593"
+        "N-588"
       ]
     },
     {
@@ -1275,7 +1275,7 @@
       "investigative_direction": "Obtain the actual proclamation text from the Arkansas Secretary of State's office.",
       "mentions_person_refs": [
         "N-2",
-        "N-593"
+        "N-588"
       ]
     },
     {

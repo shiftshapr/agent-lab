@@ -680,8 +680,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-251",
-      "ref": "N-251",
+      "@id": "N-250",
+      "ref": "N-250",
       "name": "Butch Hibbs",
       "type": "person",
       "description": "Brother of Jack Hibbs; alleged by host to have been in the bush at Kirk event prior to shooting and to have lingered at scene post-shooting during media interviews.",
@@ -717,8 +717,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-556",
-      "ref": "N-556",
+      "@id": "N-551",
+      "ref": "N-551",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
@@ -1024,8 +1024,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-265",
+      "ref": "N-265",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Terrell Farnsworth; the host restates his selfie video and SD card handling.",
@@ -1042,8 +1042,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-287",
-      "ref": "N-287",
+      "@id": "N-285",
+      "ref": "N-285",
       "name": "Jennica Pounds",
       "type": "person",
       "description": "Jennica Pounds (Data Republican); named in the host's opening resemblance remark.",
@@ -1059,8 +1059,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-375",
-      "ref": "N-375",
+      "@id": "N-372",
+      "ref": "N-372",
       "name": "Danny Philip",
       "type": "person",
       "description": "Danny Phillip; Charlie's assistant on the call log and at the tent.",
@@ -1078,8 +1078,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-496",
-      "ref": "N-496",
+      "@id": "N-491",
+      "ref": "N-491",
       "name": "Justin Baldoni",
       "type": "person",
       "description": "Justin Baldoni; named in the mathematician email and kombucha aside.",
@@ -1096,8 +1096,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-515",
-      "ref": "N-515",
+      "@id": "N-510",
+      "ref": "N-510",
       "name": "Nate Walker",
       "type": "person",
       "description": "Nate Walker; Charlie's assistant named in the 911 claim.",
@@ -1113,8 +1113,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-517",
-      "ref": "N-517",
+      "@id": "N-512",
+      "ref": "N-512",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "Officer Christopher Bagley (host says Baggley); hearing testimony relayed by hearsay.",
@@ -1130,8 +1130,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-580",
-      "ref": "N-580",
+      "@id": "N-575",
+      "ref": "N-575",
       "name": "David Hull",
       "type": "person",
       "description": "David Hull; officer named in the hearing hearsay example.",
@@ -1147,8 +1147,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-619",
-      "ref": "N-619",
+      "@id": "N-614",
+      "ref": "N-614",
       "name": "Graham Allen",
       "type": "person",
       "description": "Graham Allen; named as absent and as a Department of War consultant.",
@@ -1165,8 +1165,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-679",
-      "ref": "N-679",
+      "@id": "N-673",
+      "ref": "N-673",
       "name": "James Kaddis",
       "type": "person",
       "description": "James Cadis (James Kaddis); pastor spotted at the courthouse.",
@@ -1686,8 +1686,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-803",
-      "ref": "N-803",
+      "@id": "N-797",
+      "ref": "N-797",
       "name": "Todd Starns",
       "type": "person",
       "description": "First named by the host at 00:13:30 in episode 146 (spelled Starns; possibly Starnes). Fox News figure who interviewed Jack Hibbs on audio.",
@@ -1800,7 +1800,7 @@
       "investigative_direction": "Confirm UVU event seating assignments, verify whether the seat location matches photographs, and corroborate with event staff or seating manifests.",
       "mentions_person_refs": [
         "N-1",
-        "N-251",
+        "N-250",
         "N-212"
       ]
     },
@@ -1856,7 +1856,7 @@
       "claim_timestamp": "00:22:23",
       "investigative_direction": "Obtain original device with full metadata; determine total duration and any transmissions; compare timestamps to corroborate against other event footage.",
       "mentions_person_refs": [
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -1933,7 +1933,7 @@
       "claim_timestamp": "00:24:18",
       "investigative_direction": "Attempt to identify call recipient via phone records; cross-reference with Jack Hibbs's stated call timeline (cousin-Charlie call).",
       "mentions_person_refs": [
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -1951,7 +1951,7 @@
       "claim_timestamp": "00:09:43",
       "investigative_direction": "Confirm Butch Hibbs's date of birth and verify against any ID or background checks.",
       "mentions_person_refs": [
-        "N-251",
+        "N-250",
         "N-212"
       ]
     },
@@ -1990,7 +1990,7 @@
       "investigative_direction": "Compare timestamps across all Calvary Chapel-linked calls and messages to determine whether communication pattern reflects coordinated response or independent contact.",
       "mentions_person_refs": [
         "N-194",
-        "N-251",
+        "N-250",
         "N-212"
       ]
     },
@@ -2015,7 +2015,7 @@
         "N-2",
         "N-190",
         "N-14",
-        "N-556"
+        "N-551"
       ]
     },
     {
@@ -2036,7 +2036,7 @@
       "transcript_snippet": "It's an approximate the probability about one in 80 million chance that you met Justin Baldoni and his wife.",
       "mentions_person_refs": [
         "N-3",
-        "N-496"
+        "N-491"
       ]
     },
     {
@@ -2057,7 +2057,7 @@
       "transcript_snippet": "I have no positive evidence that it wasn't Jennica Pounds that was walking up that staircase at UVU.",
       "mentions_person_refs": [
         "N-3",
-        "N-287",
+        "N-285",
         "N-40"
       ]
     },
@@ -2080,7 +2080,7 @@
       "transcript_snippet": "No Graham Allen, no Benny Johnson to tell us how overwhelmed we should be.",
       "mentions_person_refs": [
         "N-3",
-        "N-619",
+        "N-614",
         "N-89"
       ]
     },
@@ -2104,7 +2104,7 @@
       "transcript_snippet": "Head of Turning Point USA donations and gifts, always there. Tracy Martin, I'm counting that as dad. She does Erika's PR dirty work.",
       "mentions_person_refs": [
         "N-190",
-        "N-556",
+        "N-551",
         "N-2"
       ]
     },
@@ -2128,7 +2128,7 @@
       "investigative_direction": "Check Calvary Chapel Signal Hill staff listings and TPUSA Faith advisory rosters for Cadis (transcript spelling).",
       "transcript_snippet": "He's the senior pastor of Calvary Chapel in Signal Hill, California. He is also one of Erika Kirk's many problematic TPUSA faith pastors.",
       "mentions_person_refs": [
-        "N-679",
+        "N-673",
         "N-2"
       ]
     },
@@ -2149,7 +2149,7 @@
       "investigative_direction": "Identify the show and brand by name and confirm Cadis' role from the brand's own channels.",
       "transcript_snippet": "He also hosts a show with her with that like fledgling, you know, fashion brand that she has, Bible and 365.",
       "mentions_person_refs": [
-        "N-679",
+        "N-673",
         "N-2"
       ]
     },
@@ -2222,7 +2222,7 @@
       "transcript_snippet": "Mikey McCoy, when he arrived at UVU with Charlie, also met up with a man named Butch Hibbs. They walked Charlie in together.",
       "mentions_person_refs": [
         "N-194",
-        "N-251",
+        "N-250",
         "N-1"
       ]
     },
@@ -2245,7 +2245,7 @@
       "investigative_direction": "Zoom on the high-resolution pre-event photo of Butch Hibbs' shirt pocket; the host attributes the theory to others and disclaims it.",
       "transcript_snippet": "a lot of conspiracies that were drummed up regarding whether or not he was in fact undercover, particularly whether or not, as some people speculated, he may have been carrying a road microphone in his top pocket.",
       "mentions_person_refs": [
-        "N-251",
+        "N-250",
         "N-3"
       ]
     },
@@ -2266,7 +2266,7 @@
       "investigative_direction": "Verify any public flight or residence record only if it can be sourced; the host explicitly sets these aside.",
       "transcript_snippet": "There were a lot of people looking into where he lives in Hebrew City, a flight that was potentially taken to Tennessee.",
       "mentions_person_refs": [
-        "N-251",
+        "N-250",
         "N-3"
       ]
     },
@@ -2292,7 +2292,7 @@
         "C-1673"
       ],
       "mentions_person_refs": [
-        "N-251",
+        "N-250",
         "N-212"
       ]
     },
@@ -2492,7 +2492,7 @@
       "mentions_person_refs": [
         "N-7",
         "N-212",
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -2516,7 +2516,7 @@
       "transcript_snippet": "some people would say that he is a covert military operative for the CIA >> and in conjunction with the MSAD.",
       "mentions_person_refs": [
         "N-212",
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -2542,7 +2542,7 @@
       ],
       "mentions_person_refs": [
         "N-212",
-        "N-251",
+        "N-250",
         "N-1"
       ]
     },
@@ -2678,7 +2678,7 @@
       "investigative_direction": "Check Calvary Chapel Utah church listings and filings for Butch or Burton Hibbs.",
       "transcript_snippet": "And Butch Hibbs, by the way, is um very much involved in the Calvary Chapel uh Utah.",
       "mentions_person_refs": [
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -2701,8 +2701,8 @@
       "transcript_snippet": "my brother's calling me and I can hear people screaming and yelling and I can hear my brother telling me, \"Charlie's just been shot.",
       "mentions_person_refs": [
         "N-212",
-        "N-251",
-        "N-803",
+        "N-250",
+        "N-797",
         "N-1"
       ]
     },
@@ -2727,7 +2727,7 @@
       "transcript_snippet": "it remains somewhat unclear to me whether Jack spoke to his brother Butch before or after he has a FaceTime session with Frank Turk from the hospital.",
       "mentions_person_refs": [
         "N-212",
-        "N-251",
+        "N-250",
         "N-7"
       ]
     },
@@ -2856,7 +2856,7 @@
       "transcript_snippet": "And he couldn't he just broke down. I actually hung up on him and I started making calls.",
       "mentions_person_refs": [
         "N-212",
-        "N-251",
+        "N-250",
         "N-1"
       ]
     },
@@ -2886,7 +2886,7 @@
         "N-221",
         "N-2",
         "N-17",
-        "N-375"
+        "N-372"
       ]
     },
     {
@@ -2960,7 +2960,7 @@
         "C-6100"
       ],
       "mentions_person_refs": [
-        "N-267",
+        "N-265",
         "N-1"
       ]
     },
@@ -2984,7 +2984,7 @@
         "C-3303"
       ],
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -3030,8 +3030,8 @@
         "C-3828"
       ],
       "mentions_person_refs": [
-        "N-375",
-        "N-515"
+        "N-372",
+        "N-510"
       ]
     },
     {
@@ -3101,7 +3101,7 @@
       "investigative_direction": "Locate Butch Hibbs in pre-shot frames from multiple angles to check his position relative to Charlie and the tent.",
       "transcript_snippet": "He's standing just to the right of Charlie and the tent when the explosive goes off.",
       "mentions_person_refs": [
-        "N-251",
+        "N-250",
         "N-1"
       ]
     },
@@ -3124,8 +3124,8 @@
       "investigative_direction": "Determine from video the backpack's size and contents if later opened or searched; the host only wonders what was in it.",
       "transcript_snippet": "He's standing next to Danny Phillip, Charlie's assistant, who's wearing a a very heavy backpack.",
       "mentions_person_refs": [
-        "N-251",
-        "N-375"
+        "N-250",
+        "N-372"
       ]
     },
     {
@@ -3147,7 +3147,7 @@
       "investigative_direction": "Look for any instruction, message or planning document directing staff or guests to film; the host calls this speculation.",
       "transcript_snippet": "I mean, if I didn't know any better, I would think that they were all told to gather footage from different angles and different points.",
       "mentions_person_refs": [
-        "N-251",
+        "N-250",
         "N-3"
       ]
     },
@@ -3170,7 +3170,7 @@
       "investigative_direction": "Frame-by-frame review of the full Butch Hibbs clip, plus his phone's call and recording metadata.",
       "transcript_snippet": "not in a phone call with his brother, not running for his life, not running toward the action to help Charlie Kirk, just calmly looking around and recording",
       "mentions_person_refs": [
-        "N-251",
+        "N-250",
         "N-1",
         "N-212"
       ]
@@ -3194,7 +3194,7 @@
       "investigative_direction": "Obtain the unedited clip and note total recording duration and any pause.",
       "transcript_snippet": "Oh, still recording. And he is just recording. I'm sorry, guys. He's still recording.",
       "mentions_person_refs": [
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -3264,7 +3264,7 @@
         "C-1712"
       ],
       "mentions_person_refs": [
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -3286,7 +3286,7 @@
       "investigative_direction": "Identify the witness and compare the described sound with the forensic caliber determination on the recovered bullet.",
       "transcript_snippet": "It sounded like a higher caliber, like a 9 millimeter. It didn't sound like a 45 or anything, but I don't know.",
       "mentions_person_refs": [
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -3308,7 +3308,7 @@
       "investigative_direction": "Identify both interviewees and obtain the full interview audio and times.",
       "transcript_snippet": "It didn't sound that deep to me. >> It almost sounded like a cherry bomb.",
       "mentions_person_refs": [
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -3331,7 +3331,7 @@
       "transcript_snippet": "Because Jack, we prowled the internet. We could not find any mention of him saying that his brother had captured this amazingly close footage.",
       "mentions_person_refs": [
         "N-212",
-        "N-251",
+        "N-250",
         "N-3"
       ]
     },
@@ -3440,8 +3440,8 @@
       "investigative_direction": "Read the hearing transcript of Bagley and Hull's testimony for the roadside-vehicle statement and its source.",
       "transcript_snippet": "when officer Baggley gets up there or officer Hull gets up there and says he was told by someone that this happened, that Tyler Robinson's vehicle pulled to the side of the road and he remembered the plates.",
       "mentions_person_refs": [
-        "N-517",
-        "N-580",
+        "N-512",
+        "N-575",
         "N-40"
       ]
     },
@@ -3868,7 +3868,7 @@
       "investigative_direction": "Look for Department of War contracts or disclosure forms naming Allen and TPUSA payroll or contract records.",
       "transcript_snippet": "Even Graham Allen, I told you that he's uh he was working as a consultant for the Department of War and then suddenly starts working for Turning Point USA and is doing so much propaganda for them.",
       "mentions_person_refs": [
-        "N-619",
+        "N-614",
         "N-3"
       ]
     },

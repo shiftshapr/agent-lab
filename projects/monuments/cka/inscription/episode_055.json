@@ -59,8 +59,8 @@
             "C-2050"
           ],
           "related_nodes": [
-            "N-447",
-            "N-449",
+            "N-443",
+            "N-445",
             "N-10402"
           ],
           "tags": [],
@@ -87,7 +87,7 @@
             "C-2051"
           ],
           "related_nodes": [
-            "N-454"
+            "N-450"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -114,7 +114,7 @@
             "C-2053"
           ],
           "related_nodes": [
-            "N-447",
+            "N-443",
             "N-10402"
           ],
           "tags": [],
@@ -133,7 +133,7 @@
             "C-2054"
           ],
           "related_nodes": [
-            "N-447",
+            "N-443",
             "N-10402"
           ],
           "tags": [],
@@ -160,7 +160,7 @@
             "C-2057"
           ],
           "related_nodes": [
-            "N-451",
+            "N-447",
             "N-10407"
           ],
           "tags": [],
@@ -356,8 +356,8 @@
             "C-2056"
           ],
           "related_nodes": [
-            "N-448",
-            "N-409",
+            "N-444",
+            "N-405",
             "N-10402"
           ],
           "tags": [],
@@ -444,8 +444,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-447",
-      "ref": "N-447",
+      "@id": "N-443",
+      "ref": "N-443",
       "name": "Johnny Moore",
       "type": "person",
       "description": "Former Liberty University lead pastor (left 2014); founder of Chyros Company; claimed in this episode to be a disciple of Ron Godwin. Self-identifies in audio as involved with ADL and Aspen Institute.",
@@ -467,15 +467,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-448",
-        "N-409",
+        "N-444",
+        "N-405",
         "N-10402"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-448",
-      "ref": "N-448",
+      "@id": "N-444",
+      "ref": "N-444",
       "name": "Ron Godwin",
       "type": "person",
       "description": "Identified in this episode as Johnny Moore's mentor and as a declared disciple of Sun Myung Moon; retired from Liberty University in October 2014.",
@@ -491,15 +491,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-447",
-        "N-409",
+        "N-443",
+        "N-405",
         "N-10402"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-409",
-      "ref": "N-409",
+      "@id": "N-405",
+      "ref": "N-405",
       "name": "Sun Myung Moon",
       "type": "person",
       "description": "Founder of the Unification Church (transcript spells inconsistently as \"Sunyong Moon\" / \"Sun Young Moon\" / \"Sun Myung Moon\"); source of the three disciples quotation.",
@@ -516,14 +516,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-448",
+        "N-444",
         "N-10402"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-449",
-      "ref": "N-449",
+      "@id": "N-445",
+      "ref": "N-445",
       "name": "Jerry Falwell Jr.",
       "type": "person",
       "description": "Identified in this episode as ousted from Liberty University; co-established the Falwell Center with Charlie Kirk in 2021; replaced by Jerry Prevo.",
@@ -537,14 +537,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-452",
+        "N-448",
         "N-10402"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-450",
-      "ref": "N-450",
+      "@id": "N-446",
+      "ref": "N-446",
       "name": "Mark Burnett",
       "type": "person",
       "description": "Reality TV producer named in this episode as Johnny Moore's employer in Hollywood (post-2015) and chairperson of MGM (acquired Summerhouse).",
@@ -559,13 +559,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-447"
+        "N-443"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-451",
-      "ref": "N-451",
+      "@id": "N-447",
+      "ref": "N-447",
       "name": "Unnamed Likud Knesset Speaker",
       "type": "person",
       "description": "Knesset member who delivered the speech declaring Tucker Carlson and Candace Owens enemies of Israel; name not stated in episode.",
@@ -586,8 +586,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-452",
-      "ref": "N-452",
+      "@id": "N-448",
+      "ref": "N-448",
       "name": "Jerry Prevo",
       "type": "person",
       "description": "Identified in this episode as named successor to Jerry Falwell Jr. at Liberty University; first act allegedly was firing Charlie Kirk and reinstating Johnny Moore on a monthly retainer.",
@@ -599,14 +599,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-449",
-        "N-447"
+        "N-445",
+        "N-443"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-453",
-      "ref": "N-453",
+      "@id": "N-449",
+      "ref": "N-449",
       "name": "Tetsuya Yamagami",
       "type": "person",
       "description": "Identified in this episode as the 41-year-old assassin of Shinzō Abe; stated to have been driven to destitution by the Unification Church's influence on his mother.",
@@ -618,14 +618,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-454",
-        "N-409"
+        "N-450",
+        "N-405"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-454",
-      "ref": "N-454",
+      "@id": "N-450",
+      "ref": "N-450",
       "name": "Shinzō Abe",
       "type": "person",
       "description": "Longtime Prime Minister of Japan; assassinated; family identified as having long-running ties to the Unification Church.",
@@ -639,7 +639,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-453"
+        "N-449"
       ]
     },
     {
@@ -668,9 +668,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-14",
-        "N-447",
-        "N-448",
-        "N-409"
+        "N-443",
+        "N-444",
+        "N-405"
       ]
     },
     {
@@ -772,7 +772,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-451",
+        "N-447",
         "N-10408"
       ]
     },
@@ -946,8 +946,8 @@
       "claim_timestamp": "00:23:45–00:24:10",
       "investigative_direction": "Retrieve the original Christianity Today article; identify author, publication date, and full article context.",
       "mentions_person_refs": [
-        "N-447",
-        "N-449"
+        "N-443",
+        "N-445"
       ]
     },
     {
@@ -966,7 +966,7 @@
       "claim_timestamp": "00:23:45–00:24:10",
       "investigative_direction": "Retrieve original Christianity Today article and corroborate against any independent biographical sources.",
       "mentions_person_refs": [
-        "N-447"
+        "N-443"
       ]
     },
     {
@@ -983,8 +983,8 @@
       "claim_timestamp": "00:12:48–00:13:40",
       "investigative_direction": "Locate the cited New York Times article; verify exact figures and any subsequent party responses.",
       "mentions_person_refs": [
-        "N-409",
-        "N-454"
+        "N-405",
+        "N-450"
       ]
     },
     {
@@ -1003,7 +1003,7 @@
       "claim_timestamp": "00:21:30–00:22:43",
       "investigative_direction": "Verify Moore's listed fellowships directly through ADL and Aspen Institute public records.",
       "mentions_person_refs": [
-        "N-447"
+        "N-443"
       ]
     },
     {
@@ -1022,7 +1022,7 @@
       "claim_timestamp": "00:21:30–00:22:43",
       "investigative_direction": "Verify advisory board membership through both organizations' published directories.",
       "mentions_person_refs": [
-        "N-447"
+        "N-443"
       ]
     },
     {
@@ -1041,7 +1041,7 @@
       "claim_timestamp": "00:22:43–00:23:15",
       "investigative_direction": "Identify the original venue and date of this speech; verify exact wording through primary source.",
       "mentions_person_refs": [
-        "N-447"
+        "N-443"
       ]
     },
     {
@@ -1060,8 +1060,8 @@
       "claim_timestamp": "00:25:34–00:26:20",
       "investigative_direction": "Retrieve the primary source (Unification Church publication, sermon, or recorded address) containing this declaration; verify date and venue.",
       "mentions_person_refs": [
-        "N-409",
-        "N-448"
+        "N-405",
+        "N-444"
       ]
     },
     {
@@ -1080,8 +1080,8 @@
       "claim_timestamp": "00:25:34–00:26:20",
       "investigative_direction": "Retrieve primary source; verify whether this directive was organizational doctrine or rhetorical.",
       "mentions_person_refs": [
-        "N-409",
-        "N-448"
+        "N-405",
+        "N-444"
       ]
     },
     {
@@ -1100,7 +1100,7 @@
       "claim_timestamp": "00:34:41–00:35:36",
       "investigative_direction": "Identify the Knesset speaker; obtain Knesset record of the speech; verify date and verbatim transcript.",
       "mentions_person_refs": [
-        "N-451",
+        "N-447",
         "N-22",
         "N-3"
       ]
@@ -1312,8 +1312,8 @@
       "claim_timestamp": "00:19:23–00:20:09",
       "investigative_direction": "Verify employment relationship through public records or business registries. *Flag: Claim failed artifact anchor test; inscribed under host assertion only.*",
       "mentions_person_refs": [
-        "N-447",
-        "N-450"
+        "N-443",
+        "N-446"
       ]
     },
     {
@@ -1328,7 +1328,7 @@
       "claim_timestamp": "00:20:09",
       "investigative_direction": "Verify MGM chairmanship and Summerhouse acquisition through public corporate records. *Flag: Claim failed artifact anchor test; inscribed under host assertion only.*",
       "mentions_person_refs": [
-        "N-450"
+        "N-446"
       ]
     },
     {

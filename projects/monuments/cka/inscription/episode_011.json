@@ -237,7 +237,7 @@
           "@type": "Artifact",
           "@id": "A-1177.1",
           "ref": "A-1177.1",
-          "description": "Audio/video clip of Phil Lyman speaking to Kaye McAney about his aunt's driveway being in the TMZ footage, his gray CRV being parked there ~10 minutes before the shooter walked by, and his return to the house with a friend afterward; describes family ownership of approximately twelve homes on the street.",
+          "description": "Audio/video clip of Phil Lyman speaking to Kayleigh McEnany about his aunt's driveway being in the TMZ footage, his gray CRV being parked there ~10 minutes before the shooter walked by, and his return to the house with a friend afterward; describes family ownership of approximately twelve homes on the street.",
           "related_claims": [
             "C-1307",
             "C-1308"
@@ -611,7 +611,7 @@
       "@type": "Person",
       "@id": "N-131",
       "ref": "N-131",
-      "name": "Ian Carol",
+      "name": "Ian Carroll",
       "type": "person",
       "description": "Independent investigator conducting parallel Utah-based investigation; reportedly offered a tour by Phil Lyman.",
       "related_artifacts": [],
@@ -1009,7 +1009,7 @@
       "@id": "C-1307",
       "ref": "C-1307",
       "label": "Phil Lyman's vehicle was in the driveway of the TMZ footage location 10–19 minutes before the shooter walked by",
-      "claim": "In his Kaye McAney interview, Phil Lyman stated that his aunt's driveway (visible in the TMZ footage) is where he parked his gray CRV approximately 10 minutes before the shooter walked past; Lyman separately described the driveway as being 19 minutes away from the shooter's walk-by.",
+      "claim": "In his Kayleigh McEnany interview, Phil Lyman stated that his aunt's driveway (visible in the TMZ footage) is where he parked his gray CRV approximately 10 minutes before the shooter walked past; Lyman separately described the driveway as being 19 minutes away from the shooter's walk-by.",
       "anchored_artifacts": [
         "A-1176.1",
         "A-1177.1"
@@ -1030,7 +1030,7 @@
       "@id": "C-1308",
       "ref": "C-1308",
       "label": "Phil Lyman's family owns approximately twelve homes on the relevant street",
-      "claim": "In the Kaye McAney interview, Phil Lyman describes the area as his childhood neighborhood and his relatives' neighborhood; host counts approximately twelve homes as owned by the Lyman family in the area.",
+      "claim": "In the Kayleigh McEnany interview, Phil Lyman describes the area as his childhood neighborhood and his relatives' neighborhood; host counts approximately twelve homes as owned by the Lyman family in the area.",
       "anchored_artifacts": [
         "A-1177.1"
       ],
@@ -1167,15 +1167,15 @@
       "@type": "Claim",
       "@id": "C-1315",
       "ref": "C-1315",
-      "label": "Phil Lyman offered independent investigator Ian Carol a tour of the area",
-      "claim": "Per Nick's account, Phil Lyman offered a tour of the area to Ian Carol, who was conducting a separate on-the-ground investigation; Nick found this \"weird\" given that Lyman lives four hours away.",
+      "label": "Phil Lyman offered independent investigator Ian Carroll a tour of the area",
+      "claim": "Per Nick's account, Phil Lyman offered a tour of the area to Ian Carroll, who was conducting a separate on-the-ground investigation; Nick found this \"weird\" given that Lyman lives four hours away.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10144"
       ],
       "tags": [],
       "claim_timestamp": "00:38:30–00:39:00",
-      "investigative_direction": "Confirm via Ian Carol's own public statements and any travel/timeline records.",
+      "investigative_direction": "Confirm via Ian Carroll's own public statements and any travel/timeline records.",
       "mentions_person_refs": [
         "N-61",
         "N-131"

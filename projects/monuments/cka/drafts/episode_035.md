@@ -16,8 +16,8 @@
   - Tip-minted Nodes (reintro-ep035): N-10911, N-11061
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-7978–C-8065
-  - New Nodes Introduced: N-271, N-10265, N-10266, N-10269
-  - Reused Nodes Appearing: N-2, N-272, N-273, N-10267, N-10268, N-9, N-11, N-14, N-46, N-50, N-69, N-82, N-190, N-194, N-221, N-283, N-10000, N-10001, N-10002, N-10014, N-10047, N-10074, N-10085, N-10113, N-10116, N-10132, N-10155, N-10180, N-10202, N-10229, N-10248, N-10253, N-10263, N-10270, N-10324, N-10338, N-10427, N-10434, N-11011, N-274, N-10341
+  - New Nodes Introduced: N-269, N-10265, N-10266, N-10269
+  - Reused Nodes Appearing: N-2, N-270, N-271, N-10267, N-10268, N-9, N-11, N-14, N-46, N-50, N-69, N-82, N-190, N-194, N-221, N-281, N-10000, N-10001, N-10002, N-10014, N-10047, N-10074, N-10085, N-10113, N-10116, N-10132, N-10155, N-10180, N-10202, N-10229, N-10248, N-10253, N-10263, N-10270, N-10324, N-10338, N-10427, N-10434, N-11011, N-272, N-10341
   - (see registers)
 
 # Episode Analysis: Monument Ep 35 / Candace Ep 268
@@ -205,7 +205,7 @@ Video Timestamp: 00:17:46–00:18:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1751, N-271, N-10265*
+*Related: C-1751, N-269, N-10265*
 
 **A-1441** Frank Turk Interview Bundle
 
@@ -229,7 +229,7 @@ Video Timestamp: 00:30:52–00:31:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1753, N-272, N-10267*
+*Related: C-1753, N-270, N-10267*
 
 **A-1442.2** Brian Harpole on Shawn Ryan repeating the "3,000 lbs of energy" / "C6 vertebra" bullet-trajectory description
 
@@ -239,7 +239,7 @@ Video Timestamp: 00:33:46–00:36:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1754, N-272*
+*Related: C-1754, N-270*
 
 **A-1443** Joe Rogan / Theo Von Conversation Bundle
 
@@ -251,7 +251,7 @@ Video Timestamp: 00:36:19–00:41:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1755, N-274, N-149*
+*Related: C-1755, N-272, N-149*
 
 **A-1444** Tim Pool Video Bundle
 
@@ -263,7 +263,7 @@ Video Timestamp: 00:42:03–00:44:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1756, N-2, N-273*
+*Related: C-1756, N-2, N-271*
 
 **A-1444.2** Tim Pool clip stating he was told he couldn't come to AmFest and speculating it was due to his statements on stopping funding Israel and not giving money to Ukraine
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:44:03–00:44:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1757, N-273, N-10268*
+*Related: C-1757, N-271, N-10268*
 
 ---
 
@@ -399,7 +399,7 @@ Investigative Pressure: High
 
 *Related: A-1435.1, A-1436.2, A-1441.1, A-1442.1, A-1442.2*
 
-**N-271** Christopher Wray
+**N-269** Christopher Wray
 
 FBI Director quoted in A-1440.1 press release regarding partnerships.
 
@@ -410,7 +410,7 @@ Investigative Pressure: Low
 
 *Related: A-1440.1, C-1751*
 
-**N-272** Brian Harpole
+**N-270** Brian Harpole
 
 TPUSA security figure whose statements on drones (A-1442.1) and bullet trajectory (A-1442.2) are presented.
 
@@ -432,7 +432,7 @@ Investigative Pressure: Medium
 
 *Related: A-1441.1, C-1752, N-10267*
 
-**N-273** Tim Pool
+**N-271** Tim Pool
 
 Independent commentator; clips (A-1444.1, A-1444.2) regarding podcast narrative and AmFest exclusion.
 
@@ -443,7 +443,7 @@ Investigative Pressure: Low
 
 *Related: A-1444.1, A-1444.2, C-1756, C-1757*
 
-**N-274** Joe Rogan
+**N-272** Joe Rogan
 
 Host of The Joe Rogan Experience; clip (A-1443.1) discussing conspiracies.
 
@@ -756,7 +756,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-229** Shawn Ryan
+**N-228** Shawn Ryan
 
 Interviewer of Brian Harpole in the clip.
 
@@ -860,7 +860,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-283** Tim Dillon
+**N-281** Tim Dillon
 
 Comedian whose clip the host showed, which drew a copyright claim.
 
@@ -1015,7 +1015,7 @@ Claim Timestamp: 00:17:46–00:18:30
 Claim: An FBI press release dated December 5, 2024 includes Director Christopher Wray emphasizing "key partners" and describing partnerships as closer than 5 or 10 years prior.
 
 Anchored Artifacts: A-1440.1
-Mentions: N-271
+Mentions: N-269
 
 Related Nodes: N-10265
 
@@ -1045,7 +1045,7 @@ Claim Timestamp: 00:30:52–00:31:42
 Claim: Brian Harpole, on the Shawn Ryan interview, stated TPUSA did not have drones at the event because he "wasn't allowed to have drones."
 
 Anchored Artifacts: A-1442.1
-Mentions: N-272, N-229
+Mentions: N-270, N-228
 
 Related Nodes: N-10267
 
@@ -1060,7 +1060,7 @@ Claim Timestamp: 00:33:46–00:36:45
 Claim: Brian Harpole, on the Shawn Ryan interview, repeated the bullet-trajectory description involving entry, C6 vertebra crush, and 3,000 lbs of energy.
 
 Anchored Artifacts: A-1442.2
-Mentions: N-272, N-229
+Mentions: N-270, N-228
 
 
 Investigative Direction: Obtain the full interview clip; confirm exact wording and timestamps.
@@ -1074,7 +1074,7 @@ Claim Timestamp: 00:42:03–00:44:03
 Claim: Tim Pool stated in a video that the narrative from the number one podcast had turned into "conspiracy drama about Charlie Kirk if Turning Point was involved in it," with references to "Jewish donors pulling out" and "Erika knew everything."
 
 Anchored Artifacts: A-1444.1
-Mentions: N-2, N-273, N-3, N-1
+Mentions: N-2, N-271, N-3, N-1
 
 
 Investigative Direction: Locate Tim Pool's original video and timestamp the quoted language.
@@ -1088,7 +1088,7 @@ Claim Timestamp: 00:44:03–00:44:52
 Claim: Tim Pool stated in a video that he had been told he couldn't come to AmFest, speculating it might be due to his statements on funding Israel and giving money to Ukraine.
 
 Anchored Artifacts: A-1444.2
-Mentions: N-273
+Mentions: N-271
 
 Related Nodes: N-10268
 
@@ -1103,7 +1103,7 @@ Claim Timestamp: 00:36:19–00:41:35
 Claim: On The Joe Rogan Experience, Joe Rogan and Theo Von stated that conspiracies are real, common, and especially effective when conducted by people in positions of extreme power running intelligence agencies.
 
 Anchored Artifacts: A-1443.1
-Mentions: N-149, N-274
+Mentions: N-149, N-272
 
 
 Investigative Direction: Identify the specific Rogan episode by number and date; preserve timestamp of the cited segment.
@@ -1527,7 +1527,7 @@ Claim: The host reads the email arguing that Christopher Wray's press-release re
 Transcript Snippet: They chose to mention partners. They didn't say that he met with agents that were assigned in Wilmington.
 
 Anchored Artifacts: A-1440.1
-Mentions: N-271, N-3
+Mentions: N-269, N-3
 Related Nodes: N-10265, N-10014
 Supports: C-1752
 Tags: relevance:context
@@ -1544,7 +1544,7 @@ Claim: The host reads the email quoting Christopher Wray as saying partnerships 
 Transcript Snippet: We have an entire generation of law enforcement and the private sector working together trying to figure out how to help each other
 
 Anchored Artifacts: A-1440.1
-Mentions: N-271, N-3
+Mentions: N-269, N-3
 Related Nodes: N-10014, N-10265
 Supports: C-1752
 Tags: relevance:context
@@ -1919,7 +1919,7 @@ Claim: The host says many viewers emailed to say Brian Harpole's statement that 
 Transcript Snippet: A lot of people, a lot of you emailed us and said that was a lie.
 
 Anchored Artifacts: A-1442.1
-Mentions: N-272, N-3
+Mentions: N-270, N-3
 Related Nodes: N-10267
 Supports: C-1754
 Tags: relevance:context
@@ -1984,7 +1984,7 @@ Claim: The host concludes from the Turek clip that Charlie's team had drones and
 Transcript Snippet: His team had drones. They were texting him footage when he was in the car. So Brian Harpole lied.
 
 Anchored Artifacts: A-1441.1, A-1442.1
-Mentions: N-272, N-7, N-3
+Mentions: N-270, N-7, N-3
 Related Nodes: N-10267, N-10427
 Supports: C-1753
 Contradicts: C-1754
@@ -2035,7 +2035,7 @@ Claim: The host says the feds have told a ton of lies and are sending out a secu
 Transcript Snippet: The reason they're sending you out to do it is because they don't want to be caught lying themselves.
 
 Anchored Artifacts: A-1442.2
-Mentions: N-272, N-229, N-3
+Mentions: N-270, N-228, N-3
 Related Nodes: N-10862
 Tags: relevance:context
 Investigative Direction: Identify which lies the host attributes to the feds and who directed Harpole's interview appearance.
@@ -2051,7 +2051,7 @@ Claim: The host says that if Harpole's account is true, Charlie was not shot by 
 Transcript Snippet: If what he is saying is true, Charlie wasn't shot by a 300 6, which we've been telling you from the beginning.
 
 Anchored Artifacts: A-1442.2
-Mentions: N-3, N-272, N-1
+Mentions: N-3, N-270, N-1
 Related Nodes: N-10180, N-10085
 Supports: C-1755
 Tags: relevance:core
@@ -2068,7 +2068,7 @@ Claim: The host says that on Harpole's account the bullet came from 150 yards wi
 Transcript Snippet: that bullet came out from 150 yards, 3,000 lbs of energy, and it just pinged off the back of his neck and went down into his stomach.
 
 Anchored Artifacts: A-1442.2
-Mentions: N-3, N-272, N-1
+Mentions: N-3, N-270, N-1
 Related Nodes: N-10180, N-10085
 Supports: C-1755
 Tags: relevance:core
@@ -2085,7 +2085,7 @@ Claim: The host says that it is a conspiracy and that she was glad Joe Rogan ack
 Transcript Snippet: I was so happy to hear Joe Rogan spell out and acknowledge that not only are conspiracies real, but they're actually common.
 
 Anchored Artifacts: A-1443.1
-Mentions: N-3, N-274, N-149
+Mentions: N-3, N-272, N-149
 Supports: C-1758
 Tags: relevance:context
 Investigative Direction: Identify the Rogan and Theo Von episode and timestamp.
@@ -2101,7 +2101,7 @@ Claim: In the Rogan and Von clip, a speaker says officials claim it would compro
 Transcript Snippet: It's like the Jeffrey Epstein files. Like they're out there saying it would really compromise national security if we told you.
 
 Anchored Artifacts: A-1443.1
-Mentions: N-9, N-274, N-149
+Mentions: N-9, N-272, N-149
 Related Nodes: N-10324
 Tags: relevance:tangential
 Investigative Direction: Identify the speaker and episode; the claim is rhetorical characterization of Epstein file secrecy.
@@ -2149,7 +2149,7 @@ Claim: In the clip, Joe Rogan says he thinks the Macrons are at least threatenin
 Transcript Snippet: I think they're at least threatening a lawsuit. It's like for like 50 million bucks.
 
 Anchored Artifacts: A-1443.1
-Mentions: N-274, N-149, N-3, N-82
+Mentions: N-272, N-149, N-3, N-82
 Related Nodes: N-11011, N-10270
 Tags: relevance:context
 Investigative Direction: Compare with the Macron complaint filed in Delaware and its claimed damages.
@@ -2165,7 +2165,7 @@ Claim: In the clip, a speaker remarks on the age gap between the French presiden
 Transcript Snippet: Or when the he was like 40 and the kid was 15 >> or she was 40, even if it was a she.
 
 Anchored Artifacts: A-1443.1
-Mentions: N-274, N-149
+Mentions: N-272, N-149
 Related Nodes: N-10316
 Tags: relevance:tangential
 Investigative Direction: Public records on the Macrons' ages; the remark is comedic commentary.
@@ -2245,7 +2245,7 @@ Claim: The host says Tim Pool, who was always invited to speak at AmFest, was cu
 Transcript Snippet: Tim P, who is always invited to speak at Turning Point USA's Amfest, they cut him because of his seemingly because of his um anti-Israel
 
 Anchored Artifacts: A-1444.2
-Mentions: N-273, N-3
+Mentions: N-271, N-3
 Related Nodes: N-10268, N-10000
 Supports: C-1757
 Tags: relevance:context
@@ -2451,7 +2451,7 @@ Claim: The host says YouTube gave her team a copyright claim, not a strike, over
 Transcript Snippet: A copyright claim for her sensational music. And so, we might have to trim out that sensational song from the Tim Dylan clip that we showed of him listening to it.
 
 Anchored Artifacts: A-2916.1
-Mentions: N-3, N-283
+Mentions: N-3, N-281
 Related Nodes: N-10530
 Tags: relevance:context
 Investigative Direction: Obtain the copyright claim notice and identify the clip and rights holder.

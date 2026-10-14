@@ -86,10 +86,10 @@
             "C-1762"
           ],
           "related_nodes": [
-            "N-272",
-            "N-276",
-            "N-277",
-            "N-229",
+            "N-270",
+            "N-274",
+            "N-275",
+            "N-228",
             "N-10272"
           ],
           "tags": [],
@@ -117,9 +117,9 @@
             "C-1763"
           ],
           "related_nodes": [
-            "N-272",
-            "N-276",
-            "N-277",
+            "N-270",
+            "N-274",
+            "N-275",
             "N-10272"
           ],
           "tags": [],
@@ -148,7 +148,7 @@
             "C-1766"
           ],
           "related_nodes": [
-            "N-278",
+            "N-276",
             "N-10271"
           ],
           "tags": [],
@@ -233,7 +233,7 @@
           "related_nodes": [
             "N-3",
             "N-82",
-            "N-387",
+            "N-383",
             "N-11011"
           ],
           "tags": [],
@@ -312,7 +312,7 @@
             "C-5054"
           ],
           "related_nodes": [
-            "N-724",
+            "N-718",
             "N-1",
             "N-3"
           ],
@@ -379,8 +379,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Turning Point USA head of security; appeared on Shawn Ryan show and is alleged by host to have misrepresented the provenance of text messages read during that interview.",
@@ -402,8 +402,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-276",
-      "ref": "N-276",
+      "@id": "N-274",
+      "ref": "N-274",
       "name": "Dan Flood",
       "type": "person",
       "description": "Turning Point USA security figure identified as the author of the text exchange to Chief Jeff Long about Sorenson Center rooftop access.",
@@ -424,8 +424,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-277",
-      "ref": "N-277",
+      "@id": "N-275",
+      "ref": "N-275",
       "name": "Jeff Long",
       "type": "person",
       "description": "UVU Police Chief identified as correspondent in the Flood text exchange; subject of host's allegation that Harpole misrepresented the communication channel.",
@@ -446,8 +446,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-229",
-      "ref": "N-229",
+      "@id": "N-228",
+      "ref": "N-228",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Host of the interview platform on which Brian Harpole appeared; identified by host as having \"got played\" by the Harpole appearance.",
@@ -461,13 +461,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-272"
+        "N-270"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-278",
-      "ref": "N-278",
+      "@id": "N-276",
+      "ref": "N-276",
       "name": "Nate Brooksby",
       "type": "person",
       "description": "Washington County Sheriff who held the September 17, 2025 press conference at which he stated \"Our job was not to interview. Our job was just to get him here\" and that \"my friend drove Tyler and his parents to my office where he was greeted by plain clothes detectives.\"",
@@ -533,7 +533,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-278"
+        "N-276"
       ]
     },
     {
@@ -557,9 +557,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-272",
-        "N-276",
-        "N-277"
+        "N-270",
+        "N-274",
+        "N-275"
       ]
     },
     {
@@ -857,8 +857,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-290",
-      "ref": "N-290",
+      "@id": "N-287",
+      "ref": "N-287",
       "name": "Xavier Poussard",
       "type": "person",
       "description": "Author of the Becoming Brigitte book whom the host interviewed in London on December 21, 2024.",
@@ -879,8 +879,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-336",
-      "ref": "N-336",
+      "@id": "N-333",
+      "ref": "N-333",
       "name": "Tulsi Gabbard",
       "type": "person",
       "description": "Named in the host's comment about Kash Patel blocking her office.",
@@ -896,8 +896,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-387",
-      "ref": "N-387",
+      "@id": "N-383",
+      "ref": "N-383",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Named in the cease and desist, the July legal threat and the Delaware suit.",
@@ -1510,8 +1510,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-722",
-      "ref": "N-722",
+      "@id": "N-716",
+      "ref": "N-716",
       "name": "Tom Claire",
       "type": "person",
       "description": "First named by the host at 00:09:25 in episode 36. Described as having sent a December 18, 2024 follow-up email about the cease and desist; his role is not stated in the episode.",
@@ -1527,8 +1527,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-723",
-      "ref": "N-723",
+      "@id": "N-717",
+      "ref": "N-717",
       "name": "Volodymyr Zelensky",
       "type": "person",
       "description": "First named by the host at 00:20:40 in episode 36, transcribed as \"Zilinski\" and \"Zalinski\". Identification as Volodymyr Zelensky is inferred from \"President\" and the Ukraine leaders' meeting.",
@@ -1544,8 +1544,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-724",
-      "ref": "N-724",
+      "@id": "N-718",
+      "ref": "N-718",
       "name": "Ron Paul",
       "type": "person",
       "description": "First named in a viewer comment read by the host at 00:51:14 in episode 36.",
@@ -1739,10 +1739,10 @@
       "claim_timestamp": "00:34:36",
       "investigative_direction": "Compare full Shawn Ryan interview transcript with authenticated text-message records; verify who authored and received the communications.",
       "mentions_person_refs": [
-        "N-229",
-        "N-272",
-        "N-276",
-        "N-277"
+        "N-228",
+        "N-270",
+        "N-274",
+        "N-275"
       ]
     },
     {
@@ -1761,8 +1761,8 @@
       "claim_timestamp": "00:34:36",
       "investigative_direction": "Authenticate text records via UVU and Turning Point; cross-reference with UVU Police event-day access logs and rooftop control measures.",
       "mentions_person_refs": [
-        "N-276",
-        "N-277"
+        "N-274",
+        "N-275"
       ]
     },
     {
@@ -1781,7 +1781,7 @@
       "claim_timestamp": "00:41:28",
       "investigative_direction": "Submit additional GRAMA requests; check for court-issued preservation orders; verify chain-of-custody with other involved agencies.",
       "mentions_person_refs": [
-        "N-278",
+        "N-276",
         "N-40"
       ]
     },
@@ -1801,7 +1801,7 @@
       "claim_timestamp": "00:41:28",
       "investigative_direction": "Obtain Washington County's written retention policy; verify standard practice for high-profile cases; check whether Utah County or any other agency holds preserved copies.",
       "mentions_person_refs": [
-        "N-278"
+        "N-276"
       ]
     },
     {
@@ -1820,7 +1820,7 @@
       "claim_timestamp": "00:41:28",
       "investigative_direction": "Cross-reference Brooksby's account with charging documents, defense filings, witness statements, and any subsequent corrections.",
       "mentions_person_refs": [
-        "N-278",
+        "N-276",
         "N-40"
       ]
     },
@@ -2138,8 +2138,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-387",
-        "N-290"
+        "N-383",
+        "N-287"
       ]
     },
     {
@@ -2155,7 +2155,7 @@
       "investigative_direction": "Check French and US court records for any defamation suit naming Poussard.",
       "transcript_snippet": "Xavier Bousard is a person who wrote the becoming Breijit book. Uh he has never been sued for defamation",
       "mentions_person_refs": [
-        "N-290",
+        "N-287",
         "N-3"
       ]
     },
@@ -2199,7 +2199,7 @@
       "investigative_direction": "Identify the Satis CEO by name and document the claimed acquaintance with Macron; obtain the lease terms.",
       "transcript_snippet": "the CEO who knows Emanuel Mcronone, we've confirmed that, decides they're going to sign a two-year lease for an airport hanger to do what?",
       "mentions_person_refs": [
-        "N-387"
+        "N-383"
       ]
     },
     {
@@ -2240,7 +2240,7 @@
       "investigative_direction": "Obtain the December 18, 2024 email and its delivery headers; confirm the sender's identity and role.",
       "transcript_snippet": "on December 18th, Tom Claire sends another follow-up email regarding the cease and desist. And again, I don't receive it because he's sending it to this random box.",
       "mentions_person_refs": [
-        "N-722",
+        "N-716",
         "N-3"
       ]
     },
@@ -2262,7 +2262,7 @@
       "transcript_snippet": "I think my suspicion is they knew that I was moving to interview Xavier Bousard which I then did as you can see on the timeline on December 21st.",
       "mentions_person_refs": [
         "N-3",
-        "N-290"
+        "N-287"
       ]
     },
     {
@@ -2302,7 +2302,7 @@
       "investigative_direction": "Confirm the premiere date from the upload record.",
       "transcript_snippet": "on February 17th, we premiere my sitdown with Xavier Busousard.",
       "mentions_person_refs": [
-        "N-290",
+        "N-287",
         "N-3"
       ]
     },
@@ -2348,7 +2348,7 @@
       "transcript_snippet": "This is the day that Donald Trump meets with Emanuel Mcronone.",
       "mentions_person_refs": [
         "N-5",
-        "N-387",
+        "N-383",
         "N-1"
       ]
     },
@@ -2427,7 +2427,7 @@
       "investigative_direction": "Obtain the July 1, 2025 legal letter and its addressee.",
       "transcript_snippet": "on July 1st, Mcronone sends another legal threat",
       "mentions_person_refs": [
-        "N-387",
+        "N-383",
         "N-3"
       ]
     },
@@ -2524,7 +2524,7 @@
       "investigative_direction": "Compare the Financial Times article's publication time with the plane's July 20 to 26 stay.",
       "transcript_snippet": "the period that Bregie and Emanuel Mcronone released to the Financial Times that they are suing me in a Delaware court.",
       "mentions_person_refs": [
-        "N-387",
+        "N-383",
         "N-82",
         "N-3"
       ]
@@ -2685,7 +2685,7 @@
       "transcript_snippet": "Breijit Mcronone welcomes President Zalinski into Paris on September 3rd because there is this remarkable and I would assume rare, I don't know, but 35 state leaders meet to discuss Ukraine",
       "mentions_person_refs": [
         "N-82",
-        "N-723"
+        "N-717"
       ]
     },
     {
@@ -2761,7 +2761,7 @@
       "investigative_direction": "Count the MK Ultra references in the Delaware complaint.",
       "transcript_snippet": "Emanuel mentioning MK Ultra in the lawsuit to us 18 times struck us as odd",
       "mentions_person_refs": [
-        "N-387",
+        "N-383",
         "N-3"
       ]
     },
@@ -2800,7 +2800,7 @@
       "investigative_direction": "Ask Poussard for evidence of account compromise or forensic review of his devices.",
       "transcript_snippet": "Xavier Busousar's messages have been being read and tracked for longer than I even realized",
       "mentions_person_refs": [
-        "N-290",
+        "N-287",
         "N-3"
       ]
     },
@@ -2840,7 +2840,7 @@
       "transcript_snippet": "we thought that we had perhaps identified Breijgit Mcronone at Stanford University. A possibility is what I would say. We were maybe at a 50-50%",
       "mentions_person_refs": [
         "N-82",
-        "N-290",
+        "N-287",
         "N-3"
       ]
     },
@@ -2992,9 +2992,9 @@
         "C-1762"
       ],
       "mentions_person_refs": [
-        "N-272",
-        "N-229",
-        "N-277"
+        "N-270",
+        "N-228",
+        "N-275"
       ]
     },
     {
@@ -3071,7 +3071,7 @@
       "investigative_direction": "Obtain the security plan and vehicle staging diagram; interview staff who attended the advance meetings.",
       "transcript_snippet": "the only thing that Dan Flood apparently cared about was making sure that their SUVs had clear access behind Charlie, in-n-out access.",
       "mentions_person_refs": [
-        "N-276",
+        "N-274",
         "N-1",
         "N-3"
       ]
@@ -3232,7 +3232,7 @@
       "investigative_direction": "Obtain the full press-conference recording and transcript to confirm context and to whom 'him' refers.",
       "transcript_snippet": "Our job was not to interview. Our job was just to get him here",
       "mentions_person_refs": [
-        "N-278",
+        "N-276",
         "N-40"
       ]
     },
@@ -3428,7 +3428,7 @@
       "investigative_direction": "Find the Ron Paul statement or broadcast and its date.",
       "transcript_snippet": "Just know that Ron Paul has used his platform to speak about it. His friend Charlie Kirk questioning the official narrative",
       "mentions_person_refs": [
-        "N-724",
+        "N-718",
         "N-1",
         "N-3"
       ]
@@ -3448,7 +3448,7 @@
       "investigative_direction": "Ask the host whether the package was sent and what it contained.",
       "transcript_snippet": "he's another person that I should probably get some stuff out to send him another insurance package as I'm now terming it",
       "mentions_person_refs": [
-        "N-724",
+        "N-718",
         "N-3"
       ]
     },
@@ -3484,7 +3484,7 @@
       "transcript_snippet": "I once I saw the article that he was blocking Tulsi's office, I lost all faith in Cash and I think he's a part of the corruption, plain and simple.",
       "mentions_person_refs": [
         "N-69",
-        "N-336",
+        "N-333",
         "N-3"
       ]
     },

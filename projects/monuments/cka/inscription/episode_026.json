@@ -221,7 +221,7 @@
           ],
           "related_nodes": [
             "N-225",
-            "N-229"
+            "N-228"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -625,7 +625,7 @@
         "N-107",
         "N-226",
         "N-56",
-        "N-229"
+        "N-228"
       ]
     },
     {
@@ -795,8 +795,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-229",
-      "ref": "N-229",
+      "@id": "N-228",
+      "ref": "N-228",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Host of the Shawn Ryan Show, on which Brett Cooper appeared.",
@@ -1374,8 +1374,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-606",
-      "ref": "N-606",
+      "@id": "N-601",
+      "ref": "N-601",
       "name": "Jordan Peterson",
       "type": "person",
       "description": "Jordan Peterson; subject of a viewer comment.",
@@ -1797,8 +1797,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-857",
-      "ref": "N-857",
+      "@id": "N-850",
+      "ref": "N-850",
       "name": "Andrew Cuomo",
       "type": "person",
       "description": "First named by the host at 00:09:05 in episode 26. Former New York governor who ran against Zohran Mamdani in the 2025 NYC mayoral race; the host says Republicans earlier called him corrupt.",
@@ -1815,8 +1815,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-858",
-      "ref": "N-858",
+      "@id": "N-851",
+      "ref": "N-851",
       "name": "Michael Bloomberg",
       "type": "person",
       "description": "First named by the host at 00:10:00 in episode 26. Billionaire the host says gave $8.3 million to a Cuomo-affiliated super PAC opposing Mamdani.",
@@ -1832,8 +1832,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-859",
-      "ref": "N-859",
+      "@id": "N-852",
+      "ref": "N-852",
       "name": "Joe Gebbia",
       "type": "person",
       "description": "First named by the host at 00:10:00 in episode 26 as the Airbnb co-founder \"Joseph Gbia\", whom she says gave $3.1 million against Mamdani.",
@@ -1849,8 +1849,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-860",
-      "ref": "N-860",
+      "@id": "N-853",
+      "ref": "N-853",
       "name": "Jeffrey Moussaieff Masson",
       "type": "person",
       "description": "First named by the host at 00:56:15 in episode 26 (transcribed \"Jeffrey Mason\" and \"Jeffrey Mone\"). Author of The Assault on Truth, whom the host cites on Freud and the Freud archives.",
@@ -1867,8 +1867,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-861",
-      "ref": "N-861",
+      "@id": "N-854",
+      "ref": "N-854",
       "name": "Theodor Herzl",
       "type": "person",
       "description": "First named by the host at 00:54:27 in episode 26 (transcribed \"Theodore Herzel\"). Founder of political Zionism whom the host links to Freud.",
@@ -2112,7 +2112,7 @@
       "investigative_direction": "Locate the full Shawn Ryan Show episode for complete context and date verification.",
       "mentions_person_refs": [
         "N-225",
-        "N-229"
+        "N-228"
       ]
     },
     {
@@ -2537,7 +2537,7 @@
       "transcript_snippet": "He won pretty handily against Andrew Cuomo, which like 5 minutes ago, the Republican party was telling us he was unbelievably corrupt and that he should be in prison.",
       "mentions_person_refs": [
         "N-227",
-        "N-857",
+        "N-850",
         "N-3"
       ]
     },
@@ -2579,8 +2579,8 @@
       "investigative_direction": "Check NYC Campaign Finance Board and super PAC filings for each donor's contribution.",
       "transcript_snippet": "He gave $8.3 million to Stop Mand Donnie and it didn't matter.",
       "mentions_person_refs": [
-        "N-858",
-        "N-859",
+        "N-851",
+        "N-852",
         "N-227"
       ]
     },
@@ -2601,7 +2601,7 @@
       "investigative_direction": "Locate the unedited mayoral debate video and confirm which candidate gave each answer.",
       "transcript_snippet": "given the hostility and the anti-semitism that has been uh shown in New York, I would go to Israel.",
       "mentions_person_refs": [
-        "N-857"
+        "N-850"
       ]
     },
     {
@@ -2933,7 +2933,7 @@
       "transcript_snippet": "she was able to speak to Don, her first husband, to hear from him.",
       "mentions_person_refs": [
         "N-225",
-        "N-229"
+        "N-228"
       ]
     },
     {
@@ -2954,7 +2954,7 @@
       "transcript_snippet": "one of her twin brothers dropped dead from a heart attack unexpectedly.",
       "mentions_person_refs": [
         "N-225",
-        "N-229"
+        "N-228"
       ]
     },
     {
@@ -3645,9 +3645,9 @@
       "investigative_direction": "None: reading recommendation recorded as said on air.",
       "transcript_snippet": "I would start with the assault on truth from by Jeffrey Mason and then move on to this most critical book uh which is Sigman Freud in the Jewish Mystical Tradition.",
       "mentions_person_refs": [
-        "N-860",
+        "N-853",
         "N-50",
-        "N-861",
+        "N-854",
         "N-3"
       ]
     },
@@ -3667,7 +3667,7 @@
       "transcript_snippet": "That is why they celebrate Sigman Freud is because he mainstreamed gaslighting people that they harmed.",
       "mentions_person_refs": [
         "N-50",
-        "N-860"
+        "N-853"
       ]
     },
     {
@@ -3687,7 +3687,7 @@
       "investigative_direction": "None: host states no knowledge; a viewer comment prompted it.",
       "transcript_snippet": "I did not know that he got sick while he was in Israel.",
       "mentions_person_refs": [
-        "N-606",
+        "N-601",
         "N-3"
       ]
     },

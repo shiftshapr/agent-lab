@@ -61,8 +61,8 @@
             "C-1825"
           ],
           "related_nodes": [
-            "N-309",
-            "N-310"
+            "N-306",
+            "N-307"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -89,7 +89,7 @@
             "C-1827"
           ],
           "related_nodes": [
-            "N-311"
+            "N-308"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -277,8 +277,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-309",
-      "ref": "N-309",
+      "@id": "N-306",
+      "ref": "N-306",
       "name": "Cam Higby",
       "type": "person",
       "description": "Pentagon-credentialed journalist who asked the press secretary about a French military plot to assassinate Candace Owens at the December 3 briefing.",
@@ -296,8 +296,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-310",
-      "ref": "N-310",
+      "@id": "N-307",
+      "ref": "N-307",
       "name": "Kingsley Wilson",
       "type": "person",
       "description": "Pentagon press secretary who answered Cam Higby's question at the December 3 briefing.",
@@ -315,8 +315,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-311",
-      "ref": "N-311",
+      "@id": "N-308",
+      "ref": "N-308",
       "name": "The Game",
       "type": "person",
       "description": "Rapper with an upcoming mixtape containing \"The Assassination of Candace Owens\" track.",
@@ -1141,8 +1141,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-229",
-      "ref": "N-229",
+      "@id": "N-228",
+      "ref": "N-228",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Shawn Ryan, host of the interview in which Harpole discussed first aid.",
@@ -1175,8 +1175,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Brian Harpole, security figure whose Shawn Ryan statement is cited.",
@@ -1192,8 +1192,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-385",
-      "ref": "N-385",
+      "@id": "N-381",
+      "ref": "N-381",
       "name": "Ryan Reynolds",
       "type": "person",
       "description": "Ryan Reynolds, named by the host with Blake Lively.",
@@ -1209,8 +1209,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-387",
-      "ref": "N-387",
+      "@id": "N-383",
+      "ref": "N-383",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Emmanuel Macron, party to the September 10 call with Trump.",
@@ -1246,8 +1246,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-495",
-      "ref": "N-495",
+      "@id": "N-490",
+      "ref": "N-490",
       "name": "Blake Lively",
       "type": "person",
       "description": "Blake Lively, named by the host among her prior investigations.",
@@ -1263,11 +1263,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-509",
-      "ref": "N-509",
-      "name": "Phil Turney",
+      "@id": "N-504",
+      "ref": "N-504",
+      "name": "Phil Tourney",
       "type": "person",
-      "description": "Phil Turney, USS Liberty interview guest the host praises.",
+      "description": "Phil Tourney, USS Liberty interview guest the host praises.",
       "related_artifacts": [],
       "related_claims": [
         "C-5144"
@@ -1391,8 +1391,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-725",
-      "ref": "N-725",
+      "@id": "N-719",
+      "ref": "N-719",
       "name": "Kamala Harris",
       "type": "person",
       "description": "First named by the host (as 'Camala') at 00:26:31 in episode 40.",
@@ -1408,8 +1408,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-726",
-      "ref": "N-726",
+      "@id": "N-720",
+      "ref": "N-720",
       "name": "Russell Brand",
       "type": "person",
       "description": "First named by the host (as 'Russell Brandon') at 00:57:05 in episode 40.",
@@ -1425,8 +1425,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-727",
-      "ref": "N-727",
+      "@id": "N-721",
+      "ref": "N-721",
       "name": "Chuck Smith",
       "type": "person",
       "description": "First named by the host at 00:11:15 in episode 40, as the Calvary Chapel founder whose history she cites.",
@@ -1580,8 +1580,8 @@
       "claim_timestamp": "00:41:49",
       "investigative_direction": "Confirm the briefing date and credentialing record; obtain full transcript of the briefing exchange.",
       "mentions_person_refs": [
-        "N-309",
-        "N-310",
+        "N-306",
+        "N-307",
         "N-3"
       ]
     },
@@ -1599,7 +1599,7 @@
       "claim_timestamp": "00:43:00",
       "investigative_direction": "Track any follow-up statement from DoD or law enforcement regarding the underlying allegation.",
       "mentions_person_refs": [
-        "N-310",
+        "N-307",
         "N-3"
       ]
     },
@@ -1617,7 +1617,7 @@
       "claim_timestamp": "00:50:53–00:51:42",
       "investigative_direction": "Verify the track listing against the released mixtape; obtain the song lyrics and release date.",
       "mentions_person_refs": [
-        "N-311",
+        "N-308",
         "N-3"
       ]
     },
@@ -1635,7 +1635,7 @@
       "claim_timestamp": "00:51:42–00:52:23",
       "investigative_direction": "Confirm the artist's stated intent against the released song lyrics.",
       "mentions_person_refs": [
-        "N-311"
+        "N-308"
       ]
     },
     {
@@ -2025,8 +2025,8 @@
       "investigative_direction": "Check the Shawn Ryan interview for the exact Harpole statement on first aid.",
       "transcript_snippet": "In a sitdown with Shawn Ryan, Brian Harpole said it was because of the severity of the injury.",
       "mentions_person_refs": [
-        "N-272",
-        "N-229"
+        "N-270",
+        "N-228"
       ]
     },
     {
@@ -2171,7 +2171,7 @@
       "transcript_snippet": "I do believe the Calvary Chapel uh their history with Chuck Smith, the evidence that it was a militant CIA effort to infiltrate the Christian faith",
       "mentions_person_refs": [
         "N-3",
-        "N-727"
+        "N-721"
       ]
     },
     {
@@ -2621,9 +2621,9 @@
       "transcript_snippet": "Sometimes it's Blake Lively and Ryan Reynolds when they try to destroy a man's life who's not even on my quote unquote political team.",
       "mentions_person_refs": [
         "N-3",
-        "N-495",
-        "N-385",
-        "N-725",
+        "N-490",
+        "N-381",
+        "N-719",
         "N-82"
       ]
     },
@@ -2946,7 +2946,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-60",
-        "N-309"
+        "N-306"
       ]
     },
     {
@@ -2983,8 +2983,8 @@
       "investigative_direction": "Track whether the Pentagon later sent a follow-up answer.",
       "transcript_snippet": "I can try to find out and maybe let you know.",
       "mentions_person_refs": [
-        "N-310",
-        "N-309"
+        "N-307",
+        "N-306"
       ]
     },
     {
@@ -3022,7 +3022,7 @@
       "transcript_snippet": "because the president played of France allegedly paid $1.5 million for my assassination.",
       "mentions_person_refs": [
         "N-3",
-        "N-387"
+        "N-383"
       ]
     },
     {
@@ -3060,7 +3060,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-387"
+        "N-383"
       ]
     },
     {
@@ -3105,7 +3105,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-387",
+        "N-383",
         "N-1"
       ]
     },
@@ -3131,7 +3131,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-387"
+        "N-383"
       ]
     },
     {
@@ -3151,7 +3151,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-311"
+        "N-308"
       ]
     },
     {
@@ -3172,7 +3172,7 @@
         "C-1827"
       ],
       "mentions_person_refs": [
-        "N-311",
+        "N-308",
         "N-3"
       ]
     },
@@ -3223,7 +3223,7 @@
       "transcript_snippet": "I spoke about it more at length with Russell Brandon uh on his show. So that should be coming out soon.",
       "mentions_person_refs": [
         "N-3",
-        "N-726"
+        "N-720"
       ]
     },
     {
@@ -3321,19 +3321,19 @@
       "@type": "Claim",
       "@id": "C-5144",
       "ref": "C-5144",
-      "label": "Host Says the USS Liberty Interview With Phil Turney Was the Best She Has Given",
-      "claim": "The host says the interview with Phil Turney of the USS Liberty was the best interview they have ever given.",
+      "label": "Host Says the USS Liberty Interview With Phil Tourney Was the Best She Has Given",
+      "claim": "The host says the interview with Phil Tourney of the USS Liberty was the best interview they have ever given.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10451"
       ],
       "tags": [],
       "claim_timestamp": "01:03:36",
-      "investigative_direction": "Find the Phil Turney interview episode and its view count.",
-      "transcript_snippet": "you could feel a spiritual movement in this room when we interviewed Phil Turney of the USS Liberty.",
+      "investigative_direction": "Find the Phil Tourney interview episode and its view count.",
+      "transcript_snippet": "you could feel a spiritual movement in this room when we interviewed Phil Tourney of the USS Liberty.",
       "mentions_person_refs": [
         "N-3",
-        "N-509"
+        "N-504"
       ]
     },
     {

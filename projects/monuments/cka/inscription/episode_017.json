@@ -1477,7 +1477,7 @@
       "ref": "N-141",
       "name": "Konstantin Kisin",
       "type": "person",
-      "description": "Konstantin Kisin (transcribed Constantin Kissin); the host says he told Megyn Kelly to make a statement against Candace and Tucker.",
+      "description": "Konstantin Kisin (transcribed Konstantin Kisin); the host says he told Megyn Kelly to make a statement against Candace and Tucker.",
       "related_artifacts": [],
       "related_claims": [
         "C-9397"
@@ -1545,8 +1545,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-384",
-      "ref": "N-384",
+      "@id": "N-131",
+      "ref": "N-131",
       "name": "Ian Carroll",
       "type": "person",
       "description": "Ian Carroll; named by the JTV host and Hammer.",
@@ -2767,7 +2767,7 @@
       "mentions_person_refs": [
         "N-55",
         "N-3",
-        "N-384",
+        "N-131",
         "N-174"
       ]
     },
@@ -4010,8 +4010,8 @@
       "@type": "Claim",
       "@id": "C-9397",
       "ref": "C-9397",
-      "label": "Host Says Constantin Kissin Urged Megyn Kelly to Make a Statement Against Candace and Tucker",
-      "claim": "The host says Constantin Kissin told Megyn Kelly she needed to make a statement against Candace and Tucker, and that someone else told Kelly Candace doesn't even hate the left anymore.",
+      "label": "Host Says Konstantin Kisin Urged Megyn Kelly to Make a Statement Against Candace and Tucker",
+      "claim": "The host says Konstantin Kisin told Megyn Kelly she needed to make a statement against Candace and Tucker, and that someone else told Kelly Candace doesn't even hate the left anymore.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -4019,7 +4019,7 @@
       ],
       "claim_timestamp": "01:12:42",
       "investigative_direction": "Find Kissin's public statements and any reporting of his exchange with Kelly.",
-      "transcript_snippet": "Constantin Kissin, when he was like, \"You need to make a statement against Candace and Tucker.\" Um somebody else was saying to her, \"Candace doesn't",
+      "transcript_snippet": "Konstantin Kisin, when he was like, \"You need to make a statement against Candace and Tucker.\" Um somebody else was saying to her, \"Candace doesn't",
       "mentions_person_refs": [
         "N-141",
         "N-46",

@@ -1132,8 +1132,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-317",
-      "ref": "N-317",
+      "@id": "N-314",
+      "ref": "N-314",
       "name": "Emmanuel Beerer",
       "type": "person",
       "description": "Likely the witness the host calls Emmanuel who works at Domo (uncertain match).",
@@ -1149,8 +1149,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-384",
-      "ref": "N-384",
+      "@id": "N-131",
+      "ref": "N-131",
       "name": "Ian Carroll",
       "type": "person",
       "description": "Host says he discussed arbitration courts on her show.",
@@ -1166,8 +1166,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-721",
-      "ref": "N-721",
+      "@id": "N-715",
+      "ref": "N-715",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "JFK; the host compares his assassination to the Kirk case.",
@@ -1585,8 +1585,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-806",
-      "ref": "N-806",
+      "@id": "N-800",
+      "ref": "N-800",
       "name": "Leo Frank",
       "type": "person",
       "description": "First named by the host at 00:03:10 in episode 14. Atlanta factory owner convicted in 1913 whom the host says the ADL was formed to defend.",
@@ -1605,8 +1605,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-807",
-      "ref": "N-807",
+      "@id": "N-801",
+      "ref": "N-801",
       "name": "Mary Phagan",
       "type": "person",
       "description": "First named by the host at 00:03:10 in episode 14 (Mary Phagan in the historical record). Victim the host says was a 13-year-old pencil factory worker.",
@@ -1624,8 +1624,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-808",
-      "ref": "N-808",
+      "@id": "N-802",
+      "ref": "N-802",
       "name": "Scott Robbins",
       "type": "person",
       "description": "First named by the host at 00:22:48 in episode 14. Witness in the USA Today clip whom the host says ran for Utah governor in 2024.",
@@ -1641,8 +1641,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-809",
-      "ref": "N-809",
+      "@id": "N-803",
+      "ref": "N-803",
       "name": "Greta Thunberg",
       "type": "person",
       "description": "First named by the host at 00:46:04 in episode 14, via a viewer comment. Activist the host says Israel's influence made out to be Hamas.",
@@ -2123,7 +2123,7 @@
       "investigative_direction": "Compare ADL and B'nai B'rith founding records (1913) with the Frank case history; note the host's characterization is hers alone.",
       "transcript_snippet": "Well, because they put the organization together to defend a pedophile and a murderer. His name is Leo Frank.",
       "mentions_person_refs": [
-        "N-806",
+        "N-800",
         "N-3"
       ]
     },
@@ -2144,8 +2144,8 @@
       "investigative_direction": "Check 1913 Georgia court and newspaper records of the Phagan case.",
       "transcript_snippet": "And Mary Fagan was a 13-year-old girl who worked at his pencil factory. She was found brutally raped.",
       "mentions_person_refs": [
-        "N-807",
-        "N-806"
+        "N-801",
+        "N-800"
       ]
     },
     {
@@ -2165,8 +2165,8 @@
       "investigative_direction": "Review the 1913 trial record and appeals to the US Supreme Court.",
       "transcript_snippet": "he was so guilty of what happened that despite the fact that he tried to pin it on a poor black janitor.",
       "mentions_person_refs": [
-        "N-806",
-        "N-807"
+        "N-800",
+        "N-801"
       ]
     },
     {
@@ -2191,7 +2191,7 @@
         "C-7841"
       ],
       "mentions_person_refs": [
-        "N-806",
+        "N-800",
         "N-3"
       ]
     },
@@ -2214,7 +2214,7 @@
       "investigative_direction": "Confirm the book, its author and relationship to the victim.",
       "transcript_snippet": "there's a book called The Murder of Little Mary Fagan, and it is written by a relative of hers.",
       "mentions_person_refs": [
-        "N-807",
+        "N-801",
         "N-3"
       ]
     },
@@ -2736,7 +2736,7 @@
       "investigative_direction": "Confirm the witness's identity and employment at Domo through LinkedIn and company records.",
       "transcript_snippet": "he works for Domo Incorporated. History is that he is a software engineer, a technic advis technical adviser.",
       "mentions_person_refs": [
-        "N-317"
+        "N-314"
       ]
     },
     {
@@ -2780,7 +2780,7 @@
       "investigative_direction": "Check Utah 2024 gubernatorial filings for Scott Robbins.",
       "transcript_snippet": "well, he was also a gubernatorial candidate. He ran for governor of Utah in 2024.",
       "mentions_person_refs": [
-        "N-808"
+        "N-802"
       ]
     },
     {
@@ -2863,7 +2863,7 @@
       "investigative_direction": "Compare with documented JFK-era records; note the FARA link is the host's characterization.",
       "transcript_snippet": "I think he was surrounded. I think he was infiltrated and then they got rid of him because of wrong think.",
       "mentions_person_refs": [
-        "N-721",
+        "N-715",
         "N-3"
       ]
     },
@@ -3064,7 +3064,7 @@
       "investigative_direction": "Review the Carroll episode and the arbitration clause discussed.",
       "transcript_snippet": "Arbitration courts, so they get you to sign a contract and you agree.",
       "mentions_person_refs": [
-        "N-384",
+        "N-131",
         "N-3"
       ]
     },
@@ -3383,7 +3383,7 @@
       "investigative_direction": "Find the Time cover and the octopus image controversy.",
       "transcript_snippet": "they like put her on the cover of Time and then suddenly they were like she had an octopus in a picture and they basically said she's Hamas",
       "mentions_person_refs": [
-        "N-809"
+        "N-803"
       ]
     },
     {

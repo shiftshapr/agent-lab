@@ -15,15 +15,14 @@
 - **Transcript SHA-256**: 05c80b0f23bab3431b8d277251cd2231ddfdd801d28cb34d1e440687aa0c59f5
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep007): N-99, N-289, N-10094, N-10110, N-10134, N-10297, N-10341
+  - Hole-minted Nodes (reintro-ep007): N-99, N-10094, N-10110, N-10134, N-10297, N-10341
   - Tip-minted Nodes (reintro-ep007): N-10900, N-11116
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-10717–C-10770
   - Artifact Families Introduced: A-1134, A-1135, A-1136, A-1137, A-1138, A-1139, A-1140, A-1141, A-1142, A-1143, A-1144, A-1145
   - Claim Range: C-1228-C-1244, C-3717
   - New Nodes Introduced: N-93, N-94, N-95, N-96, N-97, N-98, N-10082, N-10083, N-10084, N-10085, N-10086, N-10087, N-10088, N-10089, N-10090, N-10091
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-32, N-36, N-37, N-40, N-42, N-60, N-69, N-10000, N-10012, N-10014, N-7, N-64, N-38, N-46, N-55, N-82, N-83, N-10011, N-10024, N-10027, N-10032, N-10036, N-10047, N-10053, N-10054, N-10060, N-10063, N-10070, N-10076, N-10080, N-10104, N-10139, N-10268, N-10342, N-11004
-
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-32, N-36, N-37, N-40, N-42, N-60, N-69, N-10000, N-10012, N-10014, N-7, N-64, N-38, N-46, N-55, N-82, N-83, N-10011, N-10024, N-10027, N-10032, N-10036, N-10047, N-10053, N-10054, N-10060, N-10063, N-10070, N-10076, N-10080, N-10104, N-10139, N-10268, N-10342, N-11004, N-72
 ## 2. Executive Summary
 
 Episode opens with reflection on Erika Kirk's memorial forgiveness speech, then pivots to alleged discrepancies in the official Charlie Kirk shooting narrative. Andrew Kolvet's TPUSA miracle statement, Kash Patel's FBI tweet, and Derek Maxfield's plane-transponder Instagram rebuttal are presented as artifact-anchored contradictions. Host introduces underground-tunnel/pipeline hypothesis beneath UVU and shows footage of rapid repaving. Later segment defends Candace from Laura Loomer's CIA-merch complaint and addresses leaked 2023 Charlie Kirk text messages and the alleged Candace–Charlie falling-out narrative.
@@ -627,7 +626,7 @@ Alex Clark; host whose show Erika is said to be appearing on.
 
 ---
 
-**N-289** Eric Bolling
+**N-72** Eric Bolling
 
 Eric Bolling; the host says he claimed a breakup and had interviewed her in 2020.
 
@@ -1462,11 +1461,11 @@ Claim Timestamp: 00:28:56
 
 Claim: The host says Eric Bolling said on his program that she and Charlie had a breakup and that he had not seen her since 2015, which she notes is odd because he interviewed her in 2020.
 
-Transcript Snippet: Right. Eric Bowling did this. He said I even I don't know if if he was even sober on that program because he said he hadn't seen me.
+Transcript Snippet: Right. Eric Bolling did this. He said I even I don't know if if he was even sober on that program because he said he hadn't seen me.
 
 Anchored Artifacts:
 
-Mentions: N-3, N-289, N-1
+Mentions: N-3, N-72, N-1
 
 Related Nodes: N-10297
 

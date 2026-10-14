@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: d8e6f28a51d5ce3dd1d87baacd78a256a41af58e5088968e02eb7b3dd5527107
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-784, N-786, N-787, N-11128, N-11131, N-11132, N-11133
+  - Tip-minted Nodes (supplement_2026-10b): N-778, N-780, N-781, N-11128, N-11131, N-11132, N-11133
   - Hole-minted Nodes (reintro-ep075): N-10539
   - Tip-minted Nodes (reintro-ep075): N-11072
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-4, N-6, N-9, N-37, N-40, N-46, N-50, N-69, N-119, N-203, N-215, N-276, N-305, N-565, N-686, N-10000, N-10063, N-10113, N-10209, N-10324, N-10403, N-10406, N-10414, N-10415, N-10436, N-10447, N-10451, N-10505, N-10694, N-10905, N-10962, N-10968, N-11130, N-785, N-11129
+  - Reused Nodes Appearing: N-4, N-6, N-9, N-37, N-40, N-46, N-50, N-69, N-119, N-203, N-215, N-274, N-302, N-560, N-680, N-10000, N-10063, N-10113, N-10209, N-10324, N-10403, N-10406, N-10414, N-10415, N-10436, N-10447, N-10451, N-10505, N-10694, N-10905, N-10962, N-10968, N-11130, N-779, N-11129
   - Claim Range (supplement_2026-10b): C-7053–C-7142
-  - Hole-minted Nodes (wave1): N-331
+  - Hole-minted Nodes (wave1): N-328
   - Hole-minted Nodes (w2_1-ep75): N-10856, N-10857, N-10858
   - (see registers)
 
@@ -32,7 +32,7 @@
 - Transcript Completeness Status: Complete (sections after [55:16] are comment reads; transcript ends at [01:09:02])
 - Analyst: Investigation Agent (Episode Analysis Protocol)
 - Analysis Date: 2026-03-11
-- Ledger Continuation: Beginning at A-2436 / C-3568 / N-331 (people) / N-10856 (targets)
+- Ledger Continuation: Beginning at A-2436 / C-3568 / N-328 (people) / N-10856 (targets)
 
 ---
 
@@ -85,7 +85,7 @@ Video Timestamp: 00:15:10
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (clip excerpted; full source not identified in episode)
 
-*Related: C-3570, N-331 (Father Ripperger)*
+*Related: C-3570, N-328 (Father Ripperger)*
 
 ---
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:26:00
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (comedy segment; clearly framed by host as supporting analysis)
 
-*Related: C-3583, N-2 (Erica Kirk), N-283 (Tim Dillon – reuse if exists)*
+*Related: C-3583, N-2 (Erica Kirk), N-281 (Tim Dillon – reuse if exists)*
 
 ---
 
@@ -249,7 +249,7 @@ Video Timestamp: 00:48:30
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed)
 
-*Related: C-3582, N-5 (Donald Trump), N-286 (Karoline Leavitt – reuse if exists)*
+*Related: C-3582, N-5 (Donald Trump), N-284 (Karoline Leavitt – reuse if exists)*
 
 ---
 
@@ -322,7 +322,7 @@ Confidence Level: High
 
 ## IV. Node Register
 
-**N-331** Father Ripperger
+**N-328** Father Ripperger
 
 Catholic priest whose audio clip on "the revealing of the method" is presented by the host as documentary support for an occult-influence thesis applied to Charlie Kirk's assassination and subsequent TPUSA behavior.
 
@@ -335,7 +335,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-283** Tim Dillon
+**N-281** Tim Dillon
 
 Comedian whose on-camera segment speculating that Erika Kirk functioned as a "Mossad handler" for Charlie Kirk is presented by the host as confirming public intuition.
 
@@ -532,7 +532,7 @@ Norman Finkelstein; the host cites his account of mowing the lawn.
 
 ---
 
-**N-276** Dan Flood
+**N-274** Dan Flood
 
 Dan Flood; the host says Erika offered him a raise.
 
@@ -540,7 +540,7 @@ Dan Flood; the host says Erika offered him a raise.
 
 ---
 
-**N-286** Karoline Leavitt
+**N-284** Karoline Leavitt
 
 Karoline Leavitt; White House press secretary in the played briefing.
 
@@ -548,7 +548,7 @@ Karoline Leavitt; White House press secretary in the played briefing.
 
 ---
 
-**N-305** Miriam Adelson
+**N-302** Miriam Adelson
 
 Miriam Adelson; subject of Trump's remark and the host's donation claim.
 
@@ -556,7 +556,7 @@ Miriam Adelson; subject of Trump's remark and the host's donation claim.
 
 ---
 
-**N-565** Carrie Prejean Bowler
+**N-560** Carrie Prejean Bowler
 
 Carrie Prejean Bowler; the host says Trump removed her from the religious committee.
 
@@ -564,7 +564,7 @@ Carrie Prejean Bowler; the host says Trump removed her from the religious commit
 
 ---
 
-**N-686** Nicolás Maduro
+**N-680** Nicolás Maduro
 
 Nicolas Maduro; removed by the US operation the host cites.
 
@@ -716,7 +716,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-784** Marina Abramovic
+**N-778** Marina Abramovic
 
 First named by the host at 00:04:00 in episode 75 (spelled Abramović). Performance artist the host cites for spirit cooking and a 1974 pentagram performance.
 
@@ -724,7 +724,7 @@ First named by the host at 00:04:00 in episode 75 (spelled Abramović). Performa
 
 ---
 
-**N-785** Aleister Crowley
+**N-779** Aleister Crowley
 
 First named by the host at 00:13:52 in episode 75. Occultist the host says wrote books of pentacles meant to summon spirits.
 
@@ -740,7 +740,7 @@ First named by the host at 00:23:52 in episode 75 (spelled Jesse Waters). Fox Ne
 
 ---
 
-**N-786** Benny Gantz
+**N-780** Benny Gantz
 
 First named by the host at 00:46:20 in episode 75. Israeli politician whose interview clip the host plays on boots on the ground in Iran.
 
@@ -748,7 +748,7 @@ First named by the host at 00:46:20 in episode 75. Israeli politician whose inte
 
 ---
 
-**N-787** Paula White
+**N-781** Paula White
 
 First named by the host at 01:01:46 in episode 75. Pastor the host groups with Christian Zionists surrounding Trump.
 
@@ -853,7 +853,7 @@ Claim Timestamp: 00:15:10
 Claim: Father Ripperger, in an audio clip played by the host, stated that Satanists and Freemasons tend to "reveal the method" of their operations even while remaining hidden, and that this has a sadistic dimension in which "they still want to show themselves in some way."
 
 Anchored Artifacts: A-2438.1
-Mentions: N-331
+Mentions: N-328
 Investigative Direction: Identify the full source interview (date, program, outlet) and review for context outside the excerpt.
 
 ---
@@ -1000,7 +1000,7 @@ Claim Timestamp: 00:48:30
 Claim: White House Press Secretary Karoline Leavitt stated on camera that "President Trump wisely does not remove options off of the table" with respect to troops on the ground, characterizing the campaign as "largely an air campaign" but noting a draft is not off the table.
 
 Anchored Artifacts: A-2450.1
-Mentions: N-5, N-286
+Mentions: N-5, N-284
 Investigative Direction: Identify press briefing date and full transcript; review whether Levitt explicitly addressed a draft or only troops on the ground.
 
 ---
@@ -1012,7 +1012,7 @@ Claim Timestamp: 00:26:00
 Claim: Comedian Tim Dillon stated on camera that "there's a very good chance that this woman was his handler" and that "she may have loved him… even though she was his Mossad handler and probably had him killed."
 
 Anchored Artifacts: A-2444.1
-Mentions: N-2, N-283, N-1
+Mentions: N-2, N-281, N-1
 Investigative Direction: Identify the original podcast episode (Tim Dillon Show) and date; confirm language is unedited.
 
 ---
@@ -1094,7 +1094,7 @@ Transcript Snippet: She does spirit cooking, literally. That was what was in tho
 
 Anchored Artifacts: 
 
-Mentions: N-784, N-3
+Mentions: N-778, N-3
 Tags: relevance:tangential
 Investigative Direction: Check the leaked email set the host refers to for the spirit cooking references and who attended the events named.
 
@@ -1110,7 +1110,7 @@ Transcript Snippet: Performances like in 1974 when she sought to, quote, re-evok
 
 Anchored Artifacts: 
 
-Mentions: N-784
+Mentions: N-778
 Tags: relevance:tangential
 Investigative Direction: Check the performance record for the date, title and wording of Abramovic's 1974 petroleum-soaked star piece against the host's description.
 
@@ -1398,7 +1398,7 @@ Transcript Snippet: Aleister Crowley was master cultist created an entire religi
 
 Anchored Artifacts: 
 
-Mentions: N-785, N-3
+Mentions: N-779, N-3
 Tags: relevance:tangential
 Investigative Direction: Check Crowley's published works and the history of Thelema; the host does not link him to any named current official.
 
@@ -1414,7 +1414,7 @@ Transcript Snippet: First book he wrote was called the book of evil spirits. Wow
 
 Anchored Artifacts: A-2854.1
 
-Mentions: N-785, N-3
+Mentions: N-779, N-3
 Tags: relevance:tangential
 Investigative Direction: Identify the book and edition shown; Crowley's earliest books are not known by this title, so check bibliographic records.
 
@@ -1447,7 +1447,7 @@ Transcript Snippet: he's not saying this to be clear in the context of Charlie K
 
 Anchored Artifacts: A-2438.1
 
-Mentions: N-331, N-1, N-3
+Mentions: N-328, N-1, N-3
 Qualifies: C-3570
 Tags: relevance:context
 Investigative Direction: Identify the full Ripperger interview and confirm the date and subject discussed before the excerpt and after it.
@@ -1464,7 +1464,7 @@ Transcript Snippet: it can be connected to a curse. They could like they could c
 
 Anchored Artifacts: A-2438.1
 
-Mentions: N-331
+Mentions: N-328
 Tags: relevance:context
 Investigative Direction: Obtain the original recording and check what 'the thing' refers to in Ripperger's own answer.
 
@@ -1633,7 +1633,7 @@ Transcript Snippet: offer a raise to Dan Flood, the security guard who failed Ch
 
 Anchored Artifacts: 
 
-Mentions: N-2, N-276, N-1, N-3
+Mentions: N-2, N-274, N-1, N-3
 Related Nodes: N-10694, N-10505
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA payroll or personnel records or a TPUSA statement on Flood's pay and title after September 10, 2025.
@@ -1789,7 +1789,7 @@ Transcript Snippet: 3 weeks after the guy's dead, she's out there with sparklers
 
 Anchored Artifacts: A-2444.1
 
-Mentions: N-283, N-2
+Mentions: N-281, N-2
 Related Nodes: N-10403
 Tags: relevance:context
 Investigative Direction: Identify the event Dillon means and compare its date with the Charlie Kirk memorial and AmFest dates.
@@ -1806,7 +1806,7 @@ Transcript Snippet: This guy found all the laundered money and now he knows I'm 
 
 Anchored Artifacts: A-2444.1
 
-Mentions: N-283, N-2, N-1
+Mentions: N-281, N-2, N-1
 Related Nodes: N-10403
 Qualifies: C-3583
 Tags: relevance:context
@@ -1824,7 +1824,7 @@ Transcript Snippet: And I'm not saying any of that happened. I'm saying that's m
 
 Anchored Artifacts: A-2444.1
 
-Mentions: N-283
+Mentions: N-281
 Related Nodes: N-10403
 Qualifies: C-3583
 Tags: relevance:context
@@ -1943,7 +1943,7 @@ Transcript Snippet: the person that he took a hundred million, two hundred milli
 
 Anchored Artifacts: A-2443.1
 
-Mentions: N-5, N-305, N-3
+Mentions: N-5, N-302, N-3
 Tags: relevance:context
 Investigative Direction: Check FEC filings for Adelson contributions to Trump committees and super PACs.
 
@@ -1959,7 +1959,7 @@ Transcript Snippet: She served in the IDF. That's what he's saying to you.
 
 Anchored Artifacts: A-2443.1
 
-Mentions: N-305, N-5, N-3
+Mentions: N-302, N-5, N-3
 Tags: relevance:context
 Investigative Direction: Check Adelson's biography for her Israeli military service; the played clip does not contain this statement.
 
@@ -2026,7 +2026,7 @@ Transcript Snippet: until Bibi Netanyahu said, "Venezuela's anti-Semitic." Then 
 
 Anchored Artifacts: A-2445.1
 
-Mentions: N-36, N-686, N-3
+Mentions: N-36, N-680, N-3
 Related Nodes: N-10962
 Tags: relevance:context
 Investigative Direction: Find any Netanyahu statement about Venezuela before January 2026 and the dates of the operation against Maduro.
@@ -2230,7 +2230,7 @@ Transcript Snippet: Here is Israel's defense minister, Benny Gantz, discussing t
 
 Anchored Artifacts: A-2449.1
 
-Mentions: N-786, N-3
+Mentions: N-780, N-3
 Qualifies: C-3581
 Tags: relevance:context
 Investigative Direction: Check Gantz's office at the date of the interview and the interview's actual date; the host does not date the clip.
@@ -2247,7 +2247,7 @@ Transcript Snippet: Currently, we are neutralizing Iran's uh command and control
 
 Anchored Artifacts: A-2449.1
 
-Mentions: N-786
+Mentions: N-780
 Related Nodes: N-11128
 Tags: relevance:context
 Investigative Direction: Identify the interviewer, outlet and date of the full interview.
@@ -2264,7 +2264,7 @@ Transcript Snippet: we have Karoline Leavitt signaling that a a draft is not off
 
 Anchored Artifacts: A-2450.1
 
-Mentions: N-286, N-5, N-3
+Mentions: N-284, N-5, N-3
 Related Nodes: N-11128
 Qualifies: C-3582
 Tags: relevance:context
@@ -2282,7 +2282,7 @@ Transcript Snippet: It's not part of the current plan right now, but the preside
 
 Anchored Artifacts: A-2450.1
 
-Mentions: N-286, N-5
+Mentions: N-284, N-5
 Related Nodes: N-11128
 Tags: relevance:context
 Investigative Direction: Pull the White House briefing transcript and date.
@@ -2299,7 +2299,7 @@ Transcript Snippet: that's why he took this historic action by launching Operati
 
 Anchored Artifacts: A-2450.1
 
-Mentions: N-286, N-5
+Mentions: N-284, N-5
 Related Nodes: N-11128
 Tags: relevance:context
 Investigative Direction: Check the Department of War or White House announcement naming Operation Epic Fury and its start date.
@@ -2316,7 +2316,7 @@ Transcript Snippet: They have killed and maimed thousands of American soldiers.
 
 Anchored Artifacts: A-2450.1
 
-Mentions: N-286
+Mentions: N-284
 Related Nodes: N-11128
 Tags: relevance:context
 Investigative Direction: Compare with Department of Defense casualty figures attributed to Iran-backed attacks.
@@ -2384,7 +2384,7 @@ Transcript Snippet: Trump recently firing Carrie Prejean Boller from the religio
 
 Anchored Artifacts: 
 
-Mentions: N-565, N-5, N-3
+Mentions: N-560, N-5, N-3
 Supports: C-2370
 Tags: relevance:context
 Investigative Direction: Check the removal notice from the Religious Liberty Commission and any stated reason.
@@ -2471,7 +2471,7 @@ Transcript Snippet: similarly you had this movement of people similar to the Chr
 
 Anchored Artifacts: 
 
-Mentions: N-787, N-3
+Mentions: N-781, N-3
 Related Nodes: N-10209
 Tags: relevance:tangential
 Investigative Direction: No source is cited; compare historians' accounts of Frankism with the host's analogy.
@@ -2679,8 +2679,8 @@ Confidence: high
 **Claim Range:** C-3568–C-3583
 
 **New Nodes Introduced:**
-- N-331 Father Ripperger
-- N-283 Tim Dillon
+- N-328 Father Ripperger
+- N-281 Tim Dillon
 - N-10856 Pentagon Seating Geometry Claim (investigation target)
 - N-10857 "Freemason Bible" Document Authentication (investigation target)
 - N-10858 Erika Kirk Presidential Viability Narrative (investigation target)

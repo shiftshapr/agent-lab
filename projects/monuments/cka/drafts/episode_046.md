@@ -15,8 +15,8 @@
   - Hole-minted Nodes (reintro-ep046): N-10349, N-10377, N-10416, N-10493, N-10566
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6677–C-6741
-  - New Nodes Introduced: N-333, N-334, N-10335
-  - Reused Nodes Appearing: N-3, N-267, N-1, N-272, N-10336, N-17, N-82, N-102, N-119, N-166, N-194, N-225, N-10012, N-10014, N-10021, N-10028, N-10030, N-10039, N-10040, N-10051, N-10085, N-10100, N-10130, N-10162, N-10164, N-10165, N-10169, N-10180, N-10181, N-10187, N-10193, N-10198, N-10237, N-10250, N-10253, N-10271, N-10282, N-10311, N-10350, N-10434, N-10853, N-11012, N-10334, N-10447, N-615, N-10346, N-11107
+  - New Nodes Introduced: N-330, N-331, N-10335
+  - Reused Nodes Appearing: N-3, N-265, N-1, N-270, N-10336, N-17, N-82, N-102, N-119, N-166, N-194, N-225, N-10012, N-10014, N-10021, N-10028, N-10030, N-10039, N-10040, N-10051, N-10085, N-10100, N-10130, N-10162, N-10164, N-10165, N-10169, N-10180, N-10181, N-10187, N-10193, N-10198, N-10237, N-10250, N-10253, N-10271, N-10282, N-10311, N-10350, N-10434, N-10853, N-11012, N-10334, N-10447, N-610, N-10346, N-11107
   N-40, N-14
 
 # Episode Analysis: Monument 46
@@ -37,7 +37,7 @@
 
 - **Artifact Families Introduced:** A-1533, A-1534, A-1535, A-1536, A-1537, A-1538
 - **Claim Range:** C-1912 – C-1923, C-3757
-- **New Nodes Introduced:** N-333, N-334, N-10334, N-10335, N-10336
+- **New Nodes Introduced:** N-330, N-331, N-10334, N-10335, N-10336
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), N-40 (Tyler Robinson), N-14 (Andrew Kolvet)
 
 ---
@@ -62,7 +62,7 @@ Video Timestamp: 00:06:58–00:07:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1912, C-1922, N-284, N-2, N-3, N-10334*
+*Related: C-1912, C-1922, N-282, N-2, N-3, N-10334*
 
 **A-1533.2** Erika Kirk on-camera response: "Stop. That's it. That's all I have to say. Stop."
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:07:58–00:08:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1912, N-284, N-2, N-3*
+*Related: C-1912, N-282, N-2, N-3*
 
 **A-1533.3** Erika Kirk statement: "I think mental illness is involved in some of this stuff that is online."
 
@@ -102,7 +102,7 @@ Video Timestamp: 00:14:44–00:15:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1922, N-333, N-284, N-10334*
+*Related: C-1922, N-330, N-282, N-10334*
 
 ---
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:16:29–00:17:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1913, N-242, N-2*
+*Related: C-1913, N-241, N-2*
 
 **A-1534.2** Erika Kirk on-court-system framing: "we need to do a better job of educating our citizens about our court systems"; "I want a tainted jury pool. I want justice for my husband. Anytime we have leads, anytime we hear anything, we send it to the authorities."
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:19:20–00:20:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1917, N-242, N-2*
+*Related: C-1917, N-241, N-2*
 
 **A-1534.3** Erika Kirk denial of involvement: "None of us are involved in my husband's murder. None of us. Turning Point USA, myself, any of these other crazy accusations, none of us."
 
@@ -136,7 +136,7 @@ Video Timestamp: 00:19:20–00:20:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1914, N-242, N-2*
+*Related: C-1914, N-241, N-2*
 
 ---
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:35:58–00:39:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1919, N-232, N-3*
+*Related: C-1919, N-231, N-3*
 
 **A-1536.2** AllieBeth Stuckey Instagram comment reply: "You don't see value in learning how to decipher truth logically and biblically, and that's okay. My content is not for you then."
 
@@ -174,7 +174,7 @@ Video Timestamp: 00:40:13–00:41:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1921, N-232, N-3*
+*Related: C-1921, N-231, N-3*
 
 ---
 
@@ -188,7 +188,7 @@ Video Timestamp: 00:43:28–00:45:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1920, N-232, N-99, N-233, N-97, N-14*
+*Related: C-1920, N-231, N-99, N-232, N-97, N-14*
 
 ---
 
@@ -202,7 +202,7 @@ Video Timestamp: 00:54:02–00:55:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1923 (host's later response), N-334, N-1, N-3*
+*Related: C-1923 (host's later response), N-331, N-1, N-3*
 
 ---
 
@@ -297,7 +297,7 @@ Confidence Level: High
 
 ## IV. Node Register
 
-**N-284** Bari Weiss
+**N-282** Bari Weiss
 
 CBS News editor/chief who moderated the Erika Kirk town hall; subject of host's pre-recording allegation and audience-member sourcing claims. Material to investigation of town-hall production integrity.
 
@@ -310,7 +310,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-242** Glenn Beck
+**N-241** Glenn Beck
 
 Blaze TV host who interviewed Erika Kirk immediately after CBS town hall; framed "the truth is very clear" question and the jury-pool education framing.
 
@@ -323,7 +323,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-232** Allie Beth Stuckey
+**N-231** Allie Beth Stuckey
 
 Daily Wire host and public critic of Candace Owens; subject of artifact-anchored Instagram post (A-1536.1), Instagram comment (A-1536.2), and show clip (A-1537.1) defending named figures against the host's accusations.
 
@@ -345,11 +345,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1537.1, C-1920, N-232*
+*Related: A-1537.1, C-1920, N-231*
 
 ---
 
-**N-233** Lila Rose
+**N-232** Lila Rose
 
 Live Action founder; subject of AllieBeth Stuckey defense (A-1537.1) and host's prior accusation regarding military connections.
 
@@ -358,7 +358,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1537.1, C-1920, N-232*
+*Related: A-1537.1, C-1920, N-231*
 
 ---
 
@@ -371,11 +371,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1537.1, C-1920, N-232*
+*Related: A-1537.1, C-1920, N-231*
 
 ---
 
-**N-333** Hunter Kozak
+**N-330** Hunter Kozak
 
 Audience member at CBS town hall identified by host as the questioner who asked Charlie Kirk his last question prior to the assassination.
 
@@ -384,11 +384,11 @@ Claim Count: 0 (mentioned only)
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1533.5, N-284, N-10334*
+*Related: A-1533.5, N-282, N-10334*
 
 ---
 
-**N-334** Alicia Yancey
+**N-331** Alicia Yancey
 
 Commenter who quoted Candace Owens' 2018 text message to Charlie Kirk (A-1538.1).
 
@@ -410,7 +410,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1533.1, A-1533.5, C-1922, N-284, N-333*
+*Related: A-1533.1, A-1533.5, C-1922, N-282, N-330*
 
 ---
 
@@ -536,7 +536,7 @@ Named among Daily Wire hosts in the host's Stuckey remarks.
 
 ---
 
-**N-267** Terrell Farnsworth
+**N-265** Terrell Farnsworth
 
 Camera and SD card figure; the host says he told her police did not tell him to remove the card.
 
@@ -544,7 +544,7 @@ Camera and SD card figure; the host says he told her police did not tell him to 
 
 ---
 
-**N-272** Brian Harpole
+**N-270** Brian Harpole
 
 TPUSA security figure; the host disputes his drone and rooftop statements.
 
@@ -552,7 +552,7 @@ TPUSA security figure; the host disputes his drone and rooftop statements.
 
 ---
 
-**N-615** Ian Miles Cheong
+**N-610** Ian Miles Cheong
 
 Named by the host as a recipient of out-of-context material.
 
@@ -891,7 +891,7 @@ Claim Timestamp: 00:07:58
 Claim: During a Bari Weiss CBS town hall, when asked what she wanted to say to Candace Owens and others "putting these lies out into the world," Erika Kirk responded: "Stop. That's it. That's all I have to say. Stop."
 
 Anchored Artifacts: A-1533.1, A-1533.2
-Mentions: N-2, N-3, N-284
+Mentions: N-2, N-3, N-282
 
 
 Investigative Direction: Confirm the verbatim exchange against the published CBS video and check whether the question appears in any released pre-production packet.
@@ -905,7 +905,7 @@ Claim Timestamp: 00:17:23
 Claim: In a Blaze TV interview with Glenn Beck, Erika Kirk affirmed the host's framing that "the truth is very clear" regarding her husband's assassination.
 
 Anchored Artifacts: A-1534.1
-Mentions: N-2, N-242
+Mentions: N-2, N-241
 
 
 Investigative Direction: Obtain the unedited Blaze TV segment to verify exact phrasing and surrounding context.
@@ -919,7 +919,7 @@ Claim Timestamp: 00:19:20
 Claim: In the Glenn Beck interview, Erika Kirk stated: "None of us are involved in my husband's murder. None of us. Turning Point USA, myself, any of these other crazy accusations, none of us."
 
 Anchored Artifacts: A-1534.3
-Mentions: N-2, N-242
+Mentions: N-2, N-241
 
 
 Investigative Direction: Compare this on-camera denial against any subsequent documentary disclosures or investigation findings that could contradict the explicit denial.
@@ -933,7 +933,7 @@ Claim Timestamp: 00:23:04
 Claim: In the Glenn Beck interview, Erika Kirk stated: "I think mental illness is involved in some of this stuff that is online. I think it's really honestly I feel bad it's mental illness."
 
 Anchored Artifacts: A-1534.3 (extended context), A-1533.3 (related phrasing)
-Mentions: N-2, N-242
+Mentions: N-2, N-241
 
 
 Investigative Direction: Verify the exact context of the "mental illness" statement against the unedited interview and assess whether the framing was directed at named hosts or general public commentary.
@@ -947,7 +947,7 @@ Claim Timestamp: 00:23:04
 Claim: In the Glenn Beck interview, Erika Kirk stated: "My husband's legacy is not about his murder. My husband's legacy is what he left behind."
 
 Anchored Artifacts: A-1534.3 (context), A-1533.4
-Mentions: N-2, N-242
+Mentions: N-2, N-241
 
 
 Investigative Direction: Document the recurrence of this framing across Erika Kirk's post-assassination appearances to map the consistency and evolution of the messaging.
@@ -961,7 +961,7 @@ Claim Timestamp: 00:19:20
 Claim: In the Glenn Beck interview, Erika Kirk stated: "A lot of people don't and I think that we need to do a better job of educating our citizens about our court systems. … I don't want a tainted jury pool. I want justice for my husband."
 
 Anchored Artifacts: A-1534.2
-Mentions: N-2, N-242
+Mentions: N-2, N-241
 
 
 Investigative Direction: Track whether this "education" framing recurs in subsequent Erika Kirk appearances and whether any coordinated media campaigns explicitly call on influencers to refrain from commentary.
@@ -990,7 +990,7 @@ Claim Timestamp: 00:35:58
 Claim: In an Instagram post, AllieBeth Stuckey asserted that "Candace has taken a page out of their [BLM's] book," characterizing the host's insistence that critics are part of a psyop or are paid as a 2020-style Kafka trap.
 
 Anchored Artifacts: A-1536.1
-Mentions: N-3, N-232
+Mentions: N-3, N-231
 
 
 Investigative Direction: Verify the post is still publicly available and capture a screenshot for permanent record; compare Stuckey's characterization against any prior host statements.
@@ -1004,7 +1004,7 @@ Claim Timestamp: 00:43:28
 Claim: In a show clip, AllieBeth Stuckey defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations, stating she knows them personally and that they do not deserve to be "implicated in this way" or "called out when they're lying."
 
 Anchored Artifacts: A-1537.1
-Mentions: N-55, N-97, N-99, N-232, N-233, N-3
+Mentions: N-55, N-97, N-99, N-231, N-232, N-3
 
 
 Investigative Direction: Catalog each prior host accusation against these five individuals and verify against any underlying evidence the host has produced; assess consistency of Stuckey's defense with the underlying evidence.
@@ -1018,7 +1018,7 @@ Claim Timestamp: 00:40:13
 Claim: In an Instagram comment reply, AllieBeth Stuckey wrote: "You don't see value in learning how to decipher truth logically and biblically, and that's okay. My content is not for you then."
 
 Anchored Artifacts: A-1536.2
-Mentions: N-3, N-232
+Mentions: N-3, N-231
 
 
 Investigative Direction: Capture the comment thread for permanent record and identify the original commenter if investigatively relevant.
@@ -1032,7 +1032,7 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: The host asserts that the Bari Weiss / Erika Kirk CBS town hall was pre-recorded in the 11:00 AM – 4:00 PM window the day prior to airing, that Bari Weiss read from a prompter, that questions were pre-selected by CBS, and that audience members were emailing the host during recording.
 
 Anchored Artifacts: A-1533.1, A-1533.5 (visual evidence of controlled production), host testimonial confirmation of insider sources
-Mentions: N-284, N-333, N-2
+Mentions: N-282, N-330, N-2
 
 Related Nodes: N-10334
 
@@ -1064,7 +1064,7 @@ Claim: The host lists statements she calls lies: that Terrell Farnsworth was tol
 Transcript Snippet: Lie. Charlie established a doge and it was not unusual. That's a lie. It was unusual.
 
 Anchored Artifacts: 
-Mentions: N-3, N-267, N-1, N-272
+Mentions: N-3, N-265, N-1, N-270
 Related Nodes: N-10000
 Investigative Direction: Compare Farnsworth's account, the DOGE timeline and the drone and rooftop statements against police and UVU records.
 
@@ -1160,7 +1160,7 @@ Claim: The host says Bari Weiss is "just a Tel Aviv agent," citing her studies i
 Transcript Snippet: And Bari is obviously just a Tel Aviv agent. Her entire background story, her rise, her studying in Tel Aviv, her family ties
 
 Anchored Artifacts: 
-Mentions: N-3, N-284
+Mentions: N-3, N-282
 Related Nodes: N-10282
 Tags: relevance:tangential
 Investigative Direction: Check Bari Weiss's published biography and CBS News appointment record; the "agent" characterization is the host's opinion, recorded as said.
@@ -1176,7 +1176,7 @@ Claim: The host says the question Bari Weiss asked Erika Kirk was likely reviewe
 Transcript Snippet: this question, like I said, has likely, by the way, been reviewed and marked up by lawyers, but she still is not even convincing despite having it ahead of time
 
 Anchored Artifacts: A-1533.1
-Mentions: N-3, N-284, N-2
+Mentions: N-3, N-282, N-2
 Related Nodes: N-10334, N-10282
 Supports: C-1922
 Tags: relevance:core
@@ -1193,7 +1193,7 @@ Claim: The clip played has Bari Weiss describing Candace Owens as a former frien
 Transcript Snippet: She has been one of the main peddlers of these conspiracies and she is making a huge amount of money on it. She is building her business off of these lies.
 
 Anchored Artifacts: A-1533.1
-Mentions: N-284, N-3, N-1
+Mentions: N-282, N-3, N-1
 Related Nodes: N-10334
 Tags: relevance:core
 Investigative Direction: Compare the question as aired with the unedited CBS broadcast and any Candace Owens revenue figures that are public.
@@ -1209,7 +1209,7 @@ Claim: The host says she was already at the top of the charts and already had he
 Transcript Snippet: Building her business, what are you talking about? I already had this business. I was already at top of the charts.
 
 Anchored Artifacts: A-1533.1
-Mentions: N-3, N-284
+Mentions: N-3, N-282
 Tags: relevance:context
 Investigative Direction: Compare podcast chart rankings, book release dates and merch launch dates before and after September 10, 2025.
 
@@ -1320,7 +1320,7 @@ Claim: The host says Terrell Farnsworth personally told her it was not true that
 Transcript Snippet: Taro Farnsworth personally told me that that was not true. Taro removed the SD cards because people were stealing hats.
 
 Anchored Artifacts: A-2831.1
-Mentions: N-3, N-267
+Mentions: N-3, N-265
 Related Nodes: N-10100, N-10162, N-10346
 Supports: C-3757
 Tags: relevance:core
@@ -1371,7 +1371,7 @@ Claim: The host says Brian Harpole's statement that security communicated with U
 Transcript Snippet: That was a lie. It was actually the walkway behind.
 
 Anchored Artifacts: A-2831.1
-Mentions: N-3, N-272
+Mentions: N-3, N-270
 Related Nodes: N-10012
 Supports: C-3757
 Tags: relevance:core
@@ -1555,7 +1555,7 @@ Claim: The host says CBS brought out Hunter Kozak, who asked the last question t
 Transcript Snippet: They also brought out Hunter Kozak who asked the last question to Charlie Kirk.
 
 Anchored Artifacts: A-1533.5
-Mentions: N-3, N-333, N-1
+Mentions: N-3, N-330, N-1
 Related Nodes: N-10334, N-10377
 Tags: relevance:core
 Investigative Direction: Compare Kozak's identity with the questioner in the September 10 footage; note the existing Cosgrove and Kozak identity discrepancy topic.
@@ -1571,7 +1571,7 @@ Claim: The host says CBS filled the audience with people it selected, College Re
 Transcript Snippet: They filled the audience with people selected by CBS, College Republicans with questions selected by CBS.
 
 Anchored Artifacts: A-1533.5
-Mentions: N-3, N-284
+Mentions: N-3, N-282
 Related Nodes: N-10334, N-10282
 Supports: C-1922
 Tags: relevance:core
@@ -1588,7 +1588,7 @@ Claim: The host says the Erika Kirk interviews are all part of a PR blitz for Ch
 Transcript Snippet: this is all a part of a PR blitz for Charlie's upcoming book on honoring the Shabbat
 
 Anchored Artifacts: A-1534.1
-Mentions: N-3, N-2, N-1, N-242
+Mentions: N-3, N-2, N-1, N-241
 Related Nodes: N-11107
 Tags: relevance:core
 Investigative Direction: Verify the title, publisher and release date of the book and who is promoting it.
@@ -1604,7 +1604,7 @@ Claim: The host says she has not seen a commentator explicitly accuse Erika Kirk
 Transcript Snippet: I've seen a lot, somebody come out and say Ericka Kirk murdered Charlie.
 
 Anchored Artifacts: A-1534.1
-Mentions: N-3, N-2, N-242
+Mentions: N-3, N-2, N-241
 Related Nodes: N-11107
 Tags: relevance:core
 Investigative Direction: Survey high-profile commentators for any explicit accusation to test the host's statement; compare with later statements by TPUSA allies.
@@ -1833,7 +1833,7 @@ Claim: The host alleges that Allie Beth Stuckey has hired a "monster" PR agent w
 Transcript Snippet: by sending someone to follow me after I was no longer employed there to try to make me look bad on camera
 
 Anchored Artifacts: 
-Mentions: N-3, N-232, N-166, N-225
+Mentions: N-3, N-231, N-166, N-225
 Related Nodes: N-10416
 Tags: relevance:context
 Investigative Direction: The host names no agent; identify the PR agent and the person who followed her through recordings or witnesses.
@@ -1849,7 +1849,7 @@ Claim: The host alleges that the same PR agent keeps files, cuts people out of c
 Transcript Snippet: She keeps files and cuts people out of context and then sends it to people like Ian Miles Cheong
 
 Anchored Artifacts: 
-Mentions: N-3, N-232, N-615
+Mentions: N-3, N-231, N-610
 Related Nodes: N-10416
 Tags: relevance:context
 Investigative Direction: Identify any such materials as published by Cheong and trace their source.
@@ -1865,7 +1865,7 @@ Claim: The host says she made a documentary on BLM and George Floyd after disrup
 Transcript Snippet: I then did a documentary on it and I revealed to the world that these the media actually is to blame.
 
 Anchored Artifacts: A-1536.1
-Mentions: N-3, N-232
+Mentions: N-3, N-231
 Tags: relevance:tangential
 Investigative Direction: Reference the documentary and the claims it made about George Floyd and the BLM charity.
 
@@ -1896,7 +1896,7 @@ Claim: The host says Alex Clark's episode saying Charlie only liked Catholic arc
 Transcript Snippet: Alex Clark, that whole little episode saying Charlie only liked architecture for what it's worth, it wasn't true.
 
 Anchored Artifacts: A-1537.1
-Mentions: N-3, N-99, N-232
+Mentions: N-3, N-99, N-231
 Related Nodes: N-10164, N-10350
 Tags: relevance:core
 Investigative Direction: Obtain the Alex Clark episode and compare with Charlie's documented Catholic contacts.
@@ -1912,7 +1912,7 @@ Claim: The host says Ben Shapiro lied when he said he never had any issues with 
 Transcript Snippet: when Ben Shapiro lied and said that he never had any issues with uh Charlie, and I said that's not true.
 
 Anchored Artifacts: A-1537.1
-Mentions: N-3, N-97, N-232
+Mentions: N-3, N-97, N-231
 Related Nodes: N-10237
 Supports: C-6690
 Tags: relevance:core
@@ -1929,7 +1929,7 @@ Claim: In the Stuckey clip, Stuckey says the host released texts between Charlie
 Transcript Snippet: because those texts didn't make Ben look bad.
 
 Anchored Artifacts: A-1537.1
-Mentions: N-232, N-97, N-1, N-3
+Mentions: N-231, N-97, N-1, N-3
 Related Nodes: N-10237
 Tags: relevance:context
 Investigative Direction: Review the released texts and their dates to see how Stuckey's characterization compares.
@@ -1945,7 +1945,7 @@ Claim: In the Stuckey clip, Stuckey says the host has questioned Lila Rose's mil
 Transcript Snippet: she's kind of questioned Lila's military connections, I guess because her husband is a veteran
 
 Anchored Artifacts: A-1537.1
-Mentions: N-232, N-233, N-3
+Mentions: N-231, N-232, N-3
 Tags: relevance:context
 Investigative Direction: Locate the host's statements about Lila Rose and her husband and compare with Stuckey's summary.
 
@@ -1960,7 +1960,7 @@ Claim: The host says Stuckey is a Zionist and will defend people who are Zionist
 Transcript Snippet: She is a Zionist, and she will defend people who are Zionists even when they're caught lying
 
 Anchored Artifacts: 
-Mentions: N-3, N-232
+Mentions: N-3, N-231
 Tags: relevance:tangential
 Investigative Direction: Review Stuckey's public statements on Israel; the host's characterization is her opinion, recorded as said.
 
@@ -2009,7 +2009,7 @@ Claim: The host reads Alicia Yancey's comment quoting a 2018 message in which sh
 Transcript Snippet: As you said in 2018, the story of me and CK will be one for the ages.
 
 Anchored Artifacts: A-1538.1
-Mentions: N-3, N-1, N-334
+Mentions: N-3, N-1, N-331
 Tags: relevance:context
 Investigative Direction: Locate the original 2018 message the commenter paraphrased.
 
@@ -2070,7 +2070,7 @@ Claim: The host says Erika Kirk's Weiss piece will also mention the maroon boys 
 Transcript Snippet: And apparently they also mentioned the maroon boys in Erika's uh propagandized piece
 
 Anchored Artifacts: A-2833.3
-Mentions: N-3, N-2, N-284
+Mentions: N-3, N-2, N-282
 Related Nodes: N-10335, N-10311
 Supports: C-1923
 Tags: relevance:core

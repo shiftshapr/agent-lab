@@ -1717,8 +1717,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-851",
-      "ref": "N-851",
+      "@id": "N-844",
+      "ref": "N-844",
       "name": "Casey Baugh",
       "type": "person",
       "description": "First named by the host at 00:03:53 in episode 22 as a co-owner of the Maxfield plane and as having his name on the Baugh Entrepreneurship Institute at UVU.",
@@ -2199,7 +2199,7 @@
       "mentions_person_refs": [
         "N-94",
         "N-204",
-        "N-851",
+        "N-844",
         "N-3"
       ]
     },
@@ -2221,7 +2221,7 @@
       "investigative_direction": "UVU website and records for the Baugh Entrepreneurship Institute and its location.",
       "transcript_snippet": "the Baugh Entrepreneurship Institute, which operates out of the Woodbury Business Building, okay?",
       "mentions_person_refs": [
-        "N-851",
+        "N-844",
         "N-3"
       ]
     },
@@ -2244,7 +2244,7 @@
       "transcript_snippet": "of course, now we know that Tyler Robinson was not on the Woodbury building or on campus at all, for that matter.",
       "mentions_person_refs": [
         "N-40",
-        "N-851",
+        "N-844",
         "N-3"
       ]
     },

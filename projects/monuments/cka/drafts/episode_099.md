@@ -30,8 +30,8 @@
   - Artifact Families Introduced: A-2045, A-2046, A-2047, A-2048, A-2049, A-2050, A-2051, A-2052, A-2053, A-2054, A-2055, A-2056, A-2057, A-2058, A-2059, A-2060, A-2061
   - Claim Range: C-2856–C-2883
   - New Nodes Introduced: N-10657, N-10658, N-10659, N-10660, N-10663
-  - Reused Nodes Appearing: N-385, N-10662, N-384, N-10661, N-383, N-382, N-440
-  - Hole-minted Nodes (wave2): N-386
+  - Reused Nodes Appearing: N-381, N-10662, N-131, N-10661, N-380, N-379, N-436
+  - Hole-minted Nodes (wave2): N-382
   - Tip-minted Nodes (wave2): N-10901
   - Existing Nodes Reused (referenced by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump
 
@@ -71,7 +71,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:06:41
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2858, N-337 (Baron Coleman)*
+*Related: C-2858, N-334 (Baron Coleman)*
 
 ---
 
@@ -154,7 +154,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:31:21
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2868, C-2869, N-33 (Donald Trump Jr.), N-383*
+*Related: C-2868, C-2869, N-33 (Donald Trump Jr.), N-380*
 
 ---
 
@@ -167,7 +167,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:34:17
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2870, C-2871, N-85 (Pam Bondi), N-384*
+*Related: C-2870, C-2871, N-85 (Pam Bondi), N-131*
 
 ---
 
@@ -193,7 +193,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:54
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2861, C-2863, C-2866, C-2870, C-2872, C-2873, C-2875, N-85 (Pam Bondi), N-382*
+*Related: C-2861, C-2863, C-2866, C-2870, C-2872, C-2873, C-2875, N-85 (Pam Bondi), N-379*
 
 ---
 
@@ -219,7 +219,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:47:29
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2877, C-2878, N-495 (Blake Lively), N-496 (Justin Baldoni)*
+*Related: C-2877, C-2878, N-490 (Blake Lively), N-491 (Justin Baldoni)*
 
 ---
 
@@ -232,7 +232,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:48:28
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2879, N-495 (Blake Lively)*
+*Related: C-2879, N-490 (Blake Lively)*
 
 ---
 
@@ -245,7 +245,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:50:04
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2880, N-496 (Justin Baldoni), N-495 (Blake Lively)*
+*Related: C-2880, N-491 (Justin Baldoni), N-490 (Blake Lively)*
 
 **A-2058.2** Deadpool & Wolverine deleted scenes with continued Baldoni mockery (podcast-hosting character)
 
@@ -254,7 +254,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:50:30
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2881, N-496 (Justin Baldoni)*
+*Related: C-2881, N-491 (Justin Baldoni)*
 
 ---
 
@@ -267,7 +267,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:51:57
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2882, N-496 (Justin Baldoni), N-495 (Blake Lively)*
+*Related: C-2882, N-491 (Justin Baldoni), N-490 (Blake Lively)*
 
 ---
 
@@ -299,7 +299,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 ## IV. Node Register
 
-**N-440** Brad Parscale
+**N-436** Brad Parscale
 
 First named by the host at 00:16:06 in episode 99.
 
@@ -307,7 +307,7 @@ First named by the host at 00:16:06 in episode 99.
 
 ### People (New)
 
-**N-382** Harmeet Dhillon
+**N-379** Harmeet Dhillon
 
 Node Type: Person
 
@@ -322,7 +322,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-383** Lara Trump
+**N-380** Lara Trump
 
 Node Type: Person
 
@@ -337,7 +337,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-384** Ian Carroll
+**N-131** Ian Carroll
 
 Node Type: Person
 
@@ -352,7 +352,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-385** Ryan Reynolds
+**N-381** Ryan Reynolds
 
 Node Type: Person
 
@@ -367,7 +367,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-386** Hugh Jackman
+**N-382** Hugh Jackman
 
 Node Type: Person
 
@@ -463,7 +463,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2056.1, A-2057.1, C-2877, C-2878, C-2879, N-495 (Blake Lively), N-496 (Justin Baldoni)*
+*Related: A-2056.1, A-2057.1, C-2877, C-2878, C-2879, N-490 (Blake Lively), N-491 (Justin Baldoni)*
 
 ---
 
@@ -530,7 +530,7 @@ Claim Timestamp: 00:06:41
 Claim: In an audio clip played on the episode, Baron Coleman stated that those co-opting Christian language do not answer to a human and that the events around Charlie Kirk's death constitute a "spiritual war" with demonic authorship.
 
 Anchored Artifacts: A-2046.1
-Mentions: N-337, N-1
+Mentions: N-334, N-1
 
 Related Nodes:
 
@@ -617,7 +617,7 @@ Claim Timestamp: 00:16:57
 Claim: According to the FARA filing and the host, Clock Tower X LLC is run by Brad Parscale.
 
 Anchored Artifacts: A-2049.1
-Mentions: N-440
+Mentions: N-436
 
 Related Nodes: N-10657
 
@@ -646,7 +646,7 @@ Claim Timestamp: 00:16:57
 Claim: Brad Parscale became Chief Strategy Officer of Salem Media Network in January 2025, placing him simultaneously at Clock Tower X and Salem.
 
 Anchored Artifacts: A-2049.1, A-2054.1
-Mentions: N-440
+Mentions: N-436
 
 Related Nodes: N-10657
 
@@ -676,7 +676,7 @@ Claim Timestamp: 00:31:21
 Claim: In April 2025, Salem Media Group announced a landmark deal with Donald Trump Jr. and Lara Trump, including acquisition of a 30% stake in M-News and long-term strategic services agreements.
 
 Anchored Artifacts: A-2051.1
-Mentions: N-33, N-383
+Mentions: N-33, N-380
 
 Related Nodes: N-10657
 
@@ -706,7 +706,7 @@ Claim Timestamp: 00:34:17
 Claim: Pam Bondi, on her first day as Attorney General, signed an order disbanding the DOJ Foreign Influence Task Force.
 
 Anchored Artifacts: A-2052.1, A-2053.1, A-2054.1
-Mentions: N-85, N-384
+Mentions: N-85, N-131
 
 Related Nodes: N-10659, N-10662
 
@@ -736,7 +736,7 @@ Claim Timestamp: 00:36:54
 Claim: Harmeet Dhillon was sworn in on April 7, 2025 as Assistant Attorney General for Civil Rights at the U.S. Department of Justice.
 
 Anchored Artifacts: A-2054.1
-Mentions: N-382
+Mentions: N-379
 
 Related Nodes: N-10662
 
@@ -808,7 +808,7 @@ Claim Timestamp: 00:47:29
 Claim: On April 2, a judge dismissed 10 of 13 claims Blake Lively had asserted against Justin Baldoni, leaving only breach of contract, retaliation, and aiding-and-abetting retaliation.
 
 Anchored Artifacts: A-2056.1
-Mentions: N-495, N-496
+Mentions: N-490, N-491
 
 Related Nodes: N-10661
 
@@ -823,7 +823,7 @@ Claim Timestamp: 00:47:29
 Claim: Following the April 2 ruling, Blake Lively issued a public statement asserting that the ruling "allows the heart of my case to be presented to a jury next month."
 
 Anchored Artifacts: A-2056.1
-Mentions: N-495
+Mentions: N-490
 
 Related Nodes: N-10661
 
@@ -838,7 +838,7 @@ Claim Timestamp: 00:48:28
 Claim: Community Notes appended to Blake Lively's statement characterized her framing as "misleading the public and lying by omission with this truncated cherry-picked snippets."
 
 Anchored Artifacts: A-2057.1
-Mentions: N-495
+Mentions: N-490
 
 Related Nodes: N-10661
 
@@ -853,7 +853,7 @@ Claim Timestamp: 00:50:04
 Claim: Deadpool & Wolverine included a "Nice Pool" character and scene mocking Justin Baldoni, with Blake Lively playing "Mrs. Pool."
 
 Anchored Artifacts: A-2058.1
-Mentions: N-495, N-496, N-385, N-386
+Mentions: N-490, N-491, N-381, N-382
 
 Related Nodes:
 
@@ -868,7 +868,7 @@ Claim Timestamp: 00:50:30
 Claim: Deleted scenes from Deadpool & Wolverine contained additional content mocking Justin Baldoni, including a "podcast that monetizes the women's movement" line.
 
 Anchored Artifacts: A-2058.2
-Mentions: N-496
+Mentions: N-491
 
 Related Nodes:
 
@@ -883,7 +883,7 @@ Claim Timestamp: 00:51:57
 Claim: At the It Ends With Us premiere, Justin Baldoni was seated in the basement of the theater while A-list attendees were upstairs, per footage displayed on the episode.
 
 Anchored Artifacts: A-2059.1
-Mentions: N-495, N-496, N-386
+Mentions: N-490, N-491, N-382
 
 Related Nodes:
 
@@ -913,7 +913,7 @@ Investigative Direction: Obtain the original McCoy message screenshot; verify th
 - **Name uncertainty:** Transcript uses both "Andrew Kolbe" (29:32, 30:23) and "Andrew Kolvet" (28:36, 57:03) – **Andrew Kolvet** is the correct name per prior episodes.
 - **Name uncertainty:** Transcript uses "Erica Kirk" once (07:55); **Erika Kirk** is the canonical name.
 - **Artifact verbally referenced but not shown:** A-2060.1 (Charlie Kirk Sept 9 group text) and A-2061.1 (Mikey McCoy message) are referenced by the host but not displayed in this episode.
-- **Claim failed admission test (artifact anchor):** The host's recollection that hospital staff told her Charlie had "no neck left" is recorded as a discrepancy node (N-10660) but is NOT inscribed as a Claim because no artifact in this episode anchors it. Same applies to claims about (a) Justin Strife organizing all planes, (b) Mikey McCoy being "a mess at the hospital," and (c) Andrew Kolvet allegedly telling family that Charlie's refusal to Netanyahu cost him millions.
+- **Claim failed admission test (artifact anchor):** The host's recollection that hospital staff told her Charlie had "no neck left" is recorded as a discrepancy node (N-10660) but is NOT inscribed as a Claim because no artifact in this episode anchors it. Same applies to claims about (a) Justin Streiff organizing all planes, (b) Mikey McCoy being "a mess at the hospital," and (c) Andrew Kolvet allegedly telling family that Charlie's refusal to Netanyahu cost him millions.
 - **Timestamp uncertainty (internal inconsistency):** Host first states Josh Hammer show was announced on Salem "October 15th" (24:03) but later the timeline reads "October 23rd" as the join date (37:55). Both dates preserved as host stated.
 - **Possible transcription error:** "Crain & Co" (1:03:14) appears to refer to **Crain & Company** (sports talent agency) referenced in prior episode.
 - **Interpretive commentary, not inscribed:** Host's broader thesis that Israel "killed" or orchestrated Charlie Kirk's assassination is a framing premise, not an artifact-anchored claim in this episode. C-2858 records Coleman's stated view; C-2859 records Netanyahu's denial; neither proves the underlying assertion.
@@ -927,12 +927,12 @@ A-2045, A-2046, A-2047, A-2048, A-2049, A-2050, A-2051, A-2052, A-2053, A-2054, 
 
 Claim Range: C-2856–C-2883
 
-New Nodes Introduced (People): N-382, N-383, N-384, N-385, N-386
+New Nodes Introduced (People): N-379, N-380, N-131, N-381, N-382
 
 New Nodes Introduced (Investigation Targets): N-10657, N-10658, N-10659, N-10660, N-10661, N-10662, N-10663
 
 New Nodes Introduced (Organizations): N-10901
 
-Existing Nodes Referred To (by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump, Lara Trump, Donald Trump (additional references), Brian Harpole, Courtney Love, Cardi B, Bryan Freedman, Melissa Nathan, Tara Farnsworth, Justin Strife
+Existing Nodes Referred To (by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump, Lara Trump, Donald Trump (additional references), Brian Harpole, Courtney Love, Cardi B, Bryan Freedman, Melissa Nathan, Tara Farnsworth, Justin Streiff
 
 Legal Matter Placeholders: CASE_1 / LM-1000 (Blake Lively v. Justin Baldoni) – pending Phase 2 assignment

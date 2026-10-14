@@ -365,7 +365,7 @@
             "C-1907"
           ],
           "related_nodes": [
-            "N-326"
+            "N-323"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -528,8 +528,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-326",
-      "ref": "N-326",
+      "@id": "N-323",
+      "ref": "N-323",
       "name": "Captain Adam Nef",
       "type": "person",
       "description": "Positively identified in this episode as the U.S. Army captain of the 10th Mountain Division who interrogated the Fort Huachuca witness (\"Harry\") on September 9, 2025. Distinct from Blake Nef (Fox News personality mentioned in same episode).",
@@ -747,8 +747,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-813",
-      "ref": "N-813",
+      "@id": "N-807",
+      "ref": "N-807",
       "name": "Harris Faulkner",
       "type": "person",
       "description": "First named by the host at 00:00:00 in episode 45 (transcript spells it Harris Falner and Harris Faulner). Fox News anchor who interviewed Erika Kirk.",
@@ -799,8 +799,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-284",
-      "ref": "N-284",
+      "@id": "N-282",
+      "ref": "N-282",
       "name": "Bari Weiss",
       "type": "person",
       "description": "CBS interviewer for Erika Kirk's town hall.",
@@ -837,8 +837,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-273",
-      "ref": "N-273",
+      "@id": "N-271",
+      "ref": "N-271",
       "name": "Tim Pool",
       "type": "person",
       "description": "Host says he told critics they are evil.",
@@ -905,8 +905,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-368",
-      "ref": "N-368",
+      "@id": "N-365",
+      "ref": "N-365",
       "name": "Harry",
       "type": "person",
       "description": "The Fort Huachuca witness whose account, documentation and identification of Captain Nef are discussed.",
@@ -936,8 +936,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "The person Harry says he saw at the Fort Huachuca meeting.",
@@ -1474,7 +1474,7 @@
       "claim_timestamp": "00:40:00",
       "investigative_direction": "Verify Adam Nef's command assignment through official Army biographies, unit press releases, and any publicly available 10th Mountain Division rosters.",
       "mentions_person_refs": [
-        "N-326"
+        "N-323"
       ]
     },
     {
@@ -1561,7 +1561,7 @@
       "investigative_direction": "Obtain the Fox News broadcast date, transcript and video of the Faulkner interview.",
       "transcript_snippet": "she just gave an interview live with Harris Falner on Fox News where she finally addressed the quote unquote conspiracy theories.",
       "mentions_person_refs": [
-        "N-813",
+        "N-807",
         "N-2",
         "N-3"
       ]
@@ -1606,7 +1606,7 @@
       "mentions_person_refs": [
         "N-224",
         "N-1",
-        "N-813"
+        "N-807"
       ]
     },
     {
@@ -1716,7 +1716,7 @@
       "transcript_snippet": "She has also made time for an upcoming CBS News town hall sit down with Barry Weiss which was filmed today.",
       "mentions_person_refs": [
         "N-2",
-        "N-284"
+        "N-282"
       ]
     },
     {
@@ -1882,7 +1882,7 @@
       "investigative_direction": "Locate the Tim Pool broadcast and check what he said about the host's coverage.",
       "transcript_snippet": "Tim Pool jumping on the airwaves with big estrogen energy telling us we're evil",
       "mentions_person_refs": [
-        "N-273",
+        "N-271",
         "N-3"
       ]
     },
@@ -2109,7 +2109,7 @@
       "transcript_snippet": "One, Erika said she was pregnant when the Egyptian planes were flying and following her, so she wasn't on them. She said she has photo proof.",
       "mentions_person_refs": [
         "N-2",
-        "N-284"
+        "N-282"
       ]
     },
     {
@@ -2156,7 +2156,7 @@
       "transcript_snippet": "Erika said, \"Stop.\" No.",
       "mentions_person_refs": [
         "N-2",
-        "N-284"
+        "N-282"
       ]
     },
     {
@@ -2178,7 +2178,7 @@
       "transcript_snippet": "she talked about Israel and said good things about Jews and how TPUSA is having Shabbat dinner.",
       "mentions_person_refs": [
         "N-2",
-        "N-284"
+        "N-282"
       ]
     },
     {
@@ -2226,7 +2226,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-368"
+        "N-365"
       ]
     },
     {
@@ -2247,7 +2247,7 @@
       "transcript_snippet": "it was over a 1-hour phone call",
       "mentions_person_refs": [
         "N-3",
-        "N-368"
+        "N-365"
       ]
     },
     {
@@ -2271,7 +2271,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-368"
+        "N-365"
       ]
     },
     {
@@ -2294,8 +2294,8 @@
         "C-1907"
       ],
       "mentions_person_refs": [
-        "N-326",
-        "N-368",
+        "N-323",
+        "N-365",
         "N-3"
       ]
     },
@@ -2319,7 +2319,7 @@
         "C-1907"
       ],
       "mentions_person_refs": [
-        "N-326"
+        "N-323"
       ]
     },
     {
@@ -2365,7 +2365,7 @@
       "transcript_snippet": "his old passport, his new passport, his military ID card, hotels, books, times, text messages, phone call logs with his wife",
       "mentions_person_refs": [
         "N-3",
-        "N-368"
+        "N-365"
       ]
     },
     {
@@ -2388,7 +2388,7 @@
         "C-1880"
       ],
       "mentions_person_refs": [
-        "N-368"
+        "N-365"
       ]
     },
     {
@@ -2408,7 +2408,7 @@
       "investigative_direction": "Obtain the military police incident report and ask Captain Nef about the stated reason for detaining him.",
       "transcript_snippet": "It also, by the way, does provide an explanation for why they panicked when he just walked in there",
       "mentions_person_refs": [
-        "N-368"
+        "N-365"
       ]
     },
     {
@@ -2431,8 +2431,8 @@
         "C-1888"
       ],
       "mentions_person_refs": [
-        "N-368",
-        "N-326"
+        "N-365",
+        "N-323"
       ]
     },
     {
@@ -2455,7 +2455,7 @@
         "C-1886"
       ],
       "mentions_person_refs": [
-        "N-368",
+        "N-365",
         "N-3"
       ]
     },
@@ -2530,7 +2530,7 @@
         "C-1885"
       ],
       "mentions_person_refs": [
-        "N-368",
+        "N-365",
         "N-3"
       ]
     },
@@ -2551,7 +2551,7 @@
       "investigative_direction": "Follow later episodes and podcasts for the witness's public appearances.",
       "transcript_snippet": "having spoken to this individual who is planning to come out and do podcasts and speak about that.",
       "mentions_person_refs": [
-        "N-368",
+        "N-365",
         "N-3"
       ]
     },
@@ -2575,8 +2575,8 @@
         "C-1907"
       ],
       "mentions_person_refs": [
-        "N-326",
-        "N-368",
+        "N-323",
+        "N-365",
         "N-3"
       ]
     },
@@ -2622,7 +2622,7 @@
       ],
       "claim_timestamp": "00:47:10",
       "investigative_direction": "Search historical flight data for other visits of tail 99-044 to Fort Huachuca.",
-      "transcript_snippet": "This is the only time that I have noticed that this plane was in Fort Wuka."
+      "transcript_snippet": "This is the only time that I have noticed that this plane was in Fort Huachuca."
     },
     {
       "@type": "Claim",
@@ -2641,7 +2641,7 @@
       "investigative_direction": "Ask the witness what words and documents led him to call it a finalization meeting.",
       "transcript_snippet": "he described it uh as a meeting that when the operation is being finalized a finalization meeting",
       "mentions_person_refs": [
-        "N-368",
+        "N-365",
         "N-3"
       ]
     },
@@ -2662,7 +2662,7 @@
       ],
       "claim_timestamp": "00:48:38",
       "investigative_direction": "Obtain the full call-sign column from the flight log shown on screen.",
-      "transcript_snippet": "the call sign from Tucson to Fort Wuka is a standard reach. Everything before that is as well.",
+      "transcript_snippet": "the call sign from Tucson to Fort Huachuca is a standard reach. Everything before that is as well.",
       "supports_claim_refs": [
         "C-1906"
       ],
@@ -2844,8 +2844,8 @@
         "C-1887"
       ],
       "mentions_person_refs": [
-        "N-368",
-        "N-272",
+        "N-365",
+        "N-270",
         "N-3"
       ]
     },
@@ -2868,7 +2868,7 @@
       "investigative_direction": "Ask the witness whom he believes he saw in the truck.",
       "transcript_snippet": "Harry thinks he has an idea and he should come out and he should share his story.",
       "mentions_person_refs": [
-        "N-368"
+        "N-365"
       ]
     },
     {

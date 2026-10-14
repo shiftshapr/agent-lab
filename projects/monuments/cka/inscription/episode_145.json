@@ -498,8 +498,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-495",
-      "ref": "N-495",
+      "@id": "N-490",
+      "ref": "N-490",
       "name": "Blake Lively",
       "type": "person",
       "description": "Named party in the Baldoni litigation; text-message correspondent with Taylor Swift per A-1665.1.",
@@ -514,8 +514,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-496",
-      "ref": "N-496",
+      "@id": "N-491",
+      "ref": "N-491",
       "name": "Justin Baldoni",
       "type": "person",
       "description": "Named party in the Lively litigation; subject of Taylor Swift's December 2024 text per A-1665.1.",
@@ -579,7 +579,7 @@
       "claim_timestamp": "00:13:27",
       "investigative_direction": "Independent corroboration of the encounter is achievable via flight manifests or third-party witnesses.",
       "mentions_person_refs": [
-        "N-496"
+        "N-491"
       ]
     },
     {
@@ -596,7 +596,7 @@
       "claim_timestamp": "00:14:29",
       "investigative_direction": "Verify via flight records or independent statements from Baldoni or his representatives.",
       "mentions_person_refs": [
-        "N-496"
+        "N-491"
       ]
     },
     {
@@ -825,7 +825,7 @@
       "claim_timestamp": "00:17:34",
       "investigative_direction": "Obtain the full CCRD filing; verify the quoted passage in original context.",
       "mentions_person_refs": [
-        "N-495"
+        "N-490"
       ]
     },
     {
@@ -842,7 +842,7 @@
       "claim_timestamp": "00:17:34",
       "investigative_direction": "Verify by reading the full CCRD filing; compare to subsequent court filings.",
       "mentions_person_refs": [
-        "N-495"
+        "N-490"
       ]
     },
     {

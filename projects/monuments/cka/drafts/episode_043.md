@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: a0bc3eb2ea2af5020423c10e7e02d4d3bb05ac5892b4c56a9ad9bdc3ed449838
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-319, N-320, N-321, N-322, N-323, N-324, N-10317, N-10318, N-10320, N-10321, N-10322, N-10325
+  - New Nodes Introduced: N-316, N-317, N-318, N-319, N-320, N-321, N-10317, N-10318, N-10320, N-10321, N-10322, N-10325
   - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10316, N-10324, N-10319, N-10323
   - (see registers)
 
@@ -89,7 +89,7 @@ Video Timestamp: 00:14:36–00:15:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1865, C-1866, N-319, N-10317*
+*Related: C-1865, C-1866, N-316, N-10317*
 
 **A-1515.2** Read-aloud quote from a website identified as "CorpWatch" describing the Angolagate scandal, citing a March 25 Global Witness report ("All the President's Men")
 
@@ -99,7 +99,7 @@ Video Timestamp: 00:15:38–00:17:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1867, C-1868, C-1869, C-1870, C-1871, N-319, N-320, N-321, N-322*
+*Related: C-1867, C-1868, C-1869, C-1870, C-1871, N-316, N-317, N-318, N-319*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:30:18–00:33:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (video exists; result of test as shown)
 
-*Related: C-1872, C-1873, N-323, N-10319, N-66, N-192*
+*Related: C-1872, C-1873, N-320, N-10319, N-66, N-192*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:29:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1874, N-324*
+*Related: C-1874, N-321*
 
 ---
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:40:18–00:41:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (dates as stated by commenter)
 
-*Related: C-1877, N-284*
+*Related: C-1877, N-282*
 
 **A-1518.5** Viewer comment from "CCXX": references life insurance taken out on Charlie Kirk and $1.5 million routing; mentions Daily Mail story on life insurance
 
@@ -237,7 +237,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-319** Pierre Falcone
+**N-316** Pierre Falcone
 
 French-born arms dealer convicted in Angolagate scandal; reportedly currently residing in Scottsdale, Arizona; introduced in this episode as a potential link between France, Israel, Angola, and the United States.
 
@@ -246,11 +246,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1515.1, A-1515.2, C-1865, C-1866, C-1867, C-1870, N-320, N-321, N-322, N-10317*
+*Related: A-1515.1, A-1515.2, C-1865, C-1866, C-1867, C-1870, N-317, N-318, N-319, N-10317*
 
 ---
 
-**N-320** Arcadi Gaydamak
+**N-317** Arcadi Gaydamak
 
 Israeli-Russian-Israeli businessman; co-conspirator in Angolagate via Brenco International; convicted in absentia in France.
 
@@ -259,11 +259,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1515.2, C-1868, C-1870, N-319*
+*Related: A-1515.2, C-1868, C-1870, N-316*
 
 ---
 
-**N-321** Jean-Christophe Mitterrand
+**N-318** Jean-Christophe Mitterrand
 
 Son of former French president François Mitterrand; implicated in Angolagate as having "special access" to Angolan government.
 
@@ -272,11 +272,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1515.2, C-1871, N-319, N-322*
+*Related: A-1515.2, C-1871, N-316, N-319*
 
 ---
 
-**N-322** François Mitterrand
+**N-319** François Mitterrand
 
 Former President of France (term during Angolagate exposure); implicated via his son.
 
@@ -285,11 +285,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1515.2, C-1871, N-321*
+*Related: A-1515.2, C-1871, N-318*
 
 ---
 
-**N-323** Jesse Kege
+**N-320** Jesse Kege
 
 YouTuber ("One Shot TV") who produced the .30-06 ballistic dummy demonstration; no prior horse in the Charlie Kirk case per host's description.
 
@@ -302,7 +302,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-276** Dan Flood
+**N-274** Dan Flood
 
 Security professional positioned to Charlie Kirk's right; per host's tip, received a message from Charlie the night before the assassination.
 
@@ -328,7 +328,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-284** Bari Weiss
+**N-282** Bari Weiss
 
 Journalist; referenced by viewer comment as having Erika Kirk on her show on the 13th.
 
@@ -341,7 +341,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-324** Hodge Twins
+**N-321** Hodge Twins
 
 Commentator duo; tweet regarding Republican midterm losses read aloud by host.
 
@@ -363,7 +363,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1516.1, N-323*
+*Related: A-1516.1, N-320*
 
 ---
 
@@ -376,7 +376,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1516.1, N-323*
+*Related: A-1516.1, N-320*
 
 ---
 
@@ -404,7 +404,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1515.1, A-1515.2, C-1865, C-1866, C-1867, N-319*
+*Related: A-1515.1, A-1515.2, C-1865, C-1866, C-1867, N-316*
 
 ---
 
@@ -430,7 +430,7 @@ Claim Count: 2
 Episode Count: (existing)
 Investigative Pressure: High
 
-*Related: A-1516.1, C-1872, C-1873, N-323*
+*Related: A-1516.1, C-1872, C-1873, N-320*
 
 ---
 
@@ -443,7 +443,7 @@ Claim Count: 1
 Episode Count: (existing)
 Investigative Pressure: High
 
-*Related: N-1, N-276*
+*Related: N-1, N-274*
 
 ---
 
@@ -508,7 +508,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1515.1, A-1515.2, N-319, N-10317*
+*Related: A-1515.1, A-1515.2, N-316, N-10317*
 
 ---
 
@@ -561,7 +561,7 @@ Claim Timestamp: 00:14:36–00:15:38
 Claim: According to source material read aloud by the host and attributed to "Corruption Tracker," Pierre Falcone was convicted of arms trafficking, breach of trust, misuse of corporate assets, and bribery.
 
 Anchored Artifacts: A-1515.1
-Mentions: N-319
+Mentions: N-316
 Related Nodes: N-10317
 
 Investigative Direction: Obtain primary French court records or a contemporaneous news report of the conviction to confirm charges and dates.
@@ -575,7 +575,7 @@ Claim Timestamp: 00:14:36–00:15:38
 Claim: According to source material read aloud, Pierre Falcone's original six-year sentence was overturned on appeal and replaced with a 2.5-year sentence.
 
 Anchored Artifacts: A-1515.1
-Mentions: N-319
+Mentions: N-316
 Related Nodes: N-10317
 
 Investigative Direction: Locate the appellate decision and confirm the precise revised sentence and the date it was imposed.
@@ -589,7 +589,7 @@ Claim Timestamp: 00:17:26
 Claim: The host states that Pierre Falcone reappeared in Scottsdale, Arizona, the same location as Turning Point USA.
 
 Anchored Artifacts: A-1515.2 (host read-aloud of source)
-Mentions: N-319
+Mentions: N-316
 
 *Note: This claim is sourced from the host's framing rather than from the read-aloud source text. Capture as host claim tied to read-aloud artifact; requires verification.*
 Related Nodes: N-10317
@@ -605,7 +605,7 @@ Claim Timestamp: 00:14:36–00:15:38
 Claim: According to source material read aloud, Arcadi Gaydamak was convicted (without appearing in France) of arms trafficking, tax fraud, bribery, and money laundering.
 
 Anchored Artifacts: A-1515.1
-Mentions: N-319, N-320
+Mentions: N-316, N-317
 
 Investigative Direction: Locate the French court judgment against Gaydamak and confirm the conviction and date.
 
@@ -618,7 +618,7 @@ Claim Timestamp: 00:15:38–00:17:26
 Claim: According to a CorpWatch source read aloud by the host, the Angolagate scandal involved France, Israel, Angola, Russia, Slovakia, and the United States.
 
 Anchored Artifacts: A-1515.2
-Mentions: N-319, N-320, N-321, N-322
+Mentions: N-316, N-317, N-318, N-319
 
 Investigative Direction: Cross-reference the March 25 Global Witness report "All the President's Men" with CorpWatch and the original French judicial findings.
 
@@ -631,7 +631,7 @@ Claim Timestamp: 00:15:38–00:17:26
 Claim: According to a CorpWatch article citing a March 25 Global Witness report, Brenco International and the Mitterrand access channel transferred approximately $463 million in arms to Angola.
 
 Anchored Artifacts: A-1515.2
-Mentions: N-319, N-320, N-321
+Mentions: N-316, N-317, N-318
 
 Investigative Direction: Locate the original Global Witness report figures and the French prosecutor's findings on arms volumes.
 
@@ -644,7 +644,7 @@ Claim Timestamp: 00:15:38–00:17:26
 Claim: According to a CorpWatch source, Jean-Christophe Mitterrand (son of former French president François Mitterrand) was implicated in Angolagate as having provided access to the Angolan government.
 
 Anchored Artifacts: A-1515.2
-Mentions: N-319, N-321, N-322
+Mentions: N-316, N-318, N-319
 
 Investigative Direction: Verify Jean-Christophe Mitterrand's role via French court records.
 
@@ -657,7 +657,7 @@ Claim Timestamp: 00:32:46–00:33:21
 Claim: In the demonstration shown, a 180gr FMJ .30-06 round penetrated a ballistic dummy, separated its head, and continued through three 5-gallon water jugs placed behind.
 
 Anchored Artifacts: A-1516.1
-Mentions: N-323
+Mentions: N-320
 Related Nodes: N-10319
 
 Investigative Direction: Obtain the full One Shot TV video, including any second-round test (150gr Hornady ballistic tip), and verify the exact penetration result shown.
@@ -671,7 +671,7 @@ Claim Timestamp: 00:33:21
 Claim: The host characterizes the One Shot TV result – that the dummy's head was severed and the round continued through water jugs – as evidence that the official story's depiction of a .30-06 ricochet is implausible.
 
 Anchored Artifacts: A-1516.1
-Mentions: N-323
+Mentions: N-320
 Related Nodes: N-10319
 
 Investigative Direction: Cross-reference the One Shot TV demonstration with official forensic findings released by authorities.
@@ -685,7 +685,7 @@ Claim Timestamp: 00:29:16
 Claim: According to a tweet from the Hodge Twins read aloud by the host, Republicans will lose midterms because no deep state criminals have been held accountable, money is sent to corrupt foreign countries, and establishment figures are being promoted.
 
 Anchored Artifacts: A-1517.1
-Mentions: N-324
+Mentions: N-321
 
 Investigative Direction: Obtain the original tweet and confirm the exact text.
 
@@ -724,7 +724,7 @@ Claim Timestamp: 00:40:18–00:41:02
 Claim: A viewer comment provides dates for upcoming Erika Kirk media appearances (Bari Weiss on the 13th, TPUSA podcast on the 15th, AmFest on the 18th).
 
 Anchored Artifacts: A-1518.4
-Mentions: N-284, N-2
+Mentions: N-282, N-2
 Related Nodes:
 
 Investigative Direction: Verify against publicly available event listings and episode announcements.
@@ -797,7 +797,7 @@ A-1513, A-1514, A-1515, A-1516, A-1517, A-1518
 **Claim Range:** C-1862–C-1879
 
 **New Nodes Introduced (people):**
-N-69 (Kash Patel), N-46 (Megyn Kelly), N-319 (Pierre Falcone), N-320 (Arcadi Gaydamak), N-321 (Jean-Christophe Mitterrand), N-322 (François Mitterrand), N-323 (Jesse Kege),  (Milo Yiannopoulos),  (Tim Pool),  (George Santos), N-276 (Dan Flood),  (Frank Turek),  (Nick Fuentes), N-157 (John Mappin), N-284 (Bari Weiss), N-324 (Hodge Twins),  (Tucker Carlson), N-66 (Mel / Village Crazy Lady), N-192 (Ryan Matta)
+N-69 (Kash Patel), N-46 (Megyn Kelly), N-316 (Pierre Falcone), N-317 (Arcadi Gaydamak), N-318 (Jean-Christophe Mitterrand), N-319 (François Mitterrand), N-320 (Jesse Kege),  (Milo Yiannopoulos),  (Tim Pool),  (George Santos), N-274 (Dan Flood),  (Frank Turek),  (Nick Fuentes), N-157 (John Mappin), N-282 (Bari Weiss), N-321 (Hodge Twins),  (Tucker Carlson), N-66 (Mel / Village Crazy Lady), N-192 (Ryan Matta)
 
 **New Nodes Introduced (investigation targets):**
 N-10316, N-10317, N-10319, N-10320, N-10321, N-10322, N-10323, N-10324, N-10325

@@ -429,7 +429,7 @@ Claim Timestamp: 00:14:29
 Claim: Senator Lindsey Graham publicly stated that Kent's resignation "could not have come at a better time" and that Kent's statement was echoing "Democratic talking points."
 
 Anchored Artifacts: A-1863.1
-Mentions: N-463
+Mentions: N-458
 
 Related Nodes: N-10546
 
@@ -444,7 +444,7 @@ Claim Timestamp: 00:15:07
 Claim: Mark Levin publicly speculated that Kent "was about to be fired but quickly resigned first."
 
 Anchored Artifacts: A-1864.1
-Mentions: N-249
+Mentions: N-248
 
 Related Nodes: N-10546
 
@@ -459,7 +459,7 @@ Claim Timestamp: 00:16:55
 Claim: Mark Levin publicly called for the DOJ to open a criminal investigation to determine if Kent leaked classified information.
 
 Anchored Artifacts: A-1864.2
-Mentions: N-249
+Mentions: N-248
 
 Related Nodes: N-10546
 
@@ -489,7 +489,7 @@ Claim Timestamp: 00:15:58
 Claim: Alan Dershowitz publicly referred to Kent as a "neo-Nazi Jew hating Israel basher" who had quit the administration.
 
 Anchored Artifacts: A-1866.1
-Mentions: N-545
+Mentions: N-540
 
 Related Nodes: N-10546
 
@@ -706,7 +706,7 @@ Claim Timestamp: 00:53:23
 Claim: Benjamin Netanyahu posted a hyper-produced HD video with U.S. Ambassador Mike Huckabee on March 15, ostensibly to prove he is alive.
 
 Anchored Artifacts: A-1876.1
-Mentions: N-36, N-279
+Mentions: N-36, N-277
 
 Related Nodes: N-10544
 
@@ -735,7 +735,7 @@ Claim Timestamp: 00:31:39
 Claim: Erica Kirk visited Arkansas shortly before the disaffiliation announcement and appeared with Governor Sarah Huckabee Sanders.
 
 Anchored Artifacts: A-1869.1
-Mentions: N-2, N-593
+Mentions: N-2, N-588
 
 Related Nodes: N-10545
 
@@ -750,7 +750,7 @@ Claim Timestamp: 00:31:39
 Claim: Governor Sarah Huckabee Sanders signed a proclamation endorsing TPUSA chapters in schools statewide.
 
 Anchored Artifacts: A-1869.1
-Mentions: N-2, N-593
+Mentions: N-2, N-588
 
 Related Nodes: N-10545
 

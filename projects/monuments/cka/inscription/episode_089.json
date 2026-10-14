@@ -825,8 +825,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-280",
-      "ref": "N-280",
+      "@id": "N-278",
+      "ref": "N-278",
       "name": "Jonathan Pollard",
       "type": "person",
       "description": "Convicted Israeli spy (30-year U.S. prison sentence, espionage); met with Huckabee per episode.",
@@ -841,8 +841,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-429",
-      "ref": "N-429",
+      "@id": "N-425",
+      "ref": "N-425",
       "name": "Monica Lewinsky",
       "type": "person",
       "description": "First named by the host at 00:26:31 in episode 89.",
@@ -951,8 +951,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-249",
-      "ref": "N-249",
+      "@id": "N-248",
+      "ref": "N-248",
       "name": "Mark Levin",
       "type": "person",
       "description": "Mark Levin, named in a played voter clip.",
@@ -968,8 +968,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-305",
-      "ref": "N-305",
+      "@id": "N-302",
+      "ref": "N-302",
       "name": "Miriam Adelson",
       "type": "person",
       "description": "Miriam Adelson, the donor in the host's account of the alleged meeting.",
@@ -987,8 +987,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-692",
-      "ref": "N-692",
+      "@id": "N-686",
+      "ref": "N-686",
       "name": "Joe Biden",
       "type": "person",
       "description": "Joe Biden, discussed in the host's comment on dementia.",
@@ -1004,8 +1004,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-718",
-      "ref": "N-718",
+      "@id": "N-712",
+      "ref": "N-712",
       "name": "Sheldon Adelson",
       "type": "person",
       "description": "Sheldon Adelson, whose gambling fortune the host references.",
@@ -1369,7 +1369,7 @@
         "N-36",
         "N-208",
         "N-46",
-        "N-429"
+        "N-425"
       ]
     },
     {
@@ -1386,9 +1386,9 @@
       "claim_timestamp": "00:26:31–00:28:46",
       "investigative_direction": "Retrieve the original Carlson newsletter post and verify the exact wording; assess sourcing and historical basis for the Clinton-Lewinsky blackmail claim independently.",
       "mentions_person_refs": [
-        "N-280",
+        "N-278",
         "N-22",
-        "N-429"
+        "N-425"
       ]
     },
     {
@@ -1895,7 +1895,7 @@
       "transcript_snippet": "Bibi is your master. Maybe it's Miriam Adelson that lights the fire and Bibi that makes the shadows on the wall",
       "mentions_person_refs": [
         "N-36",
-        "N-305",
+        "N-302",
         "N-5",
         "N-3"
       ]
@@ -1918,7 +1918,7 @@
       "transcript_snippet": "Half of the people that I grew up with in this movement are not on Ben Shapiro and Mark Levin's team, okay?",
       "mentions_person_refs": [
         "N-97",
-        "N-249",
+        "N-248",
         "N-3"
       ]
     },
@@ -2222,7 +2222,7 @@
         "C-7107"
       ],
       "mentions_person_refs": [
-        "N-305",
+        "N-302",
         "N-5",
         "N-3"
       ]
@@ -2345,8 +2345,8 @@
       "investigative_direction": "This is the host's speculation and characterization; no evidence is offered that the remark reached the Adelsons.",
       "transcript_snippet": "If it maybe got back to the Adelsons that Trump said that. You don't take $100 million from a uh a family of I would say gangsters, right?",
       "mentions_person_refs": [
-        "N-718",
-        "N-305",
+        "N-712",
+        "N-302",
         "N-5",
         "N-3"
       ]
@@ -2680,7 +2680,7 @@
       "investigative_direction": "Opinion about two public figures; no medical record is cited.",
       "transcript_snippet": "I genuinely believe that Joe Biden had dementia, and at least he can say that.",
       "mentions_person_refs": [
-        "N-692",
+        "N-686",
         "N-5",
         "N-3"
       ]

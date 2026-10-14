@@ -174,7 +174,7 @@ Confidence Level: Medium
 
 **A-1902** Elizabeth Kravchuk McCoy Account of September 10
 
-**A-1902.1** Per McCoy's account: present at TPUSA Scottsdale offices when shot rang out at 12:23 p.m. MST; Mikey McCoy called her first and then conferenced in Erika; she alerted Frank (TPUSA counsel) and Justin Streif; Lauren Tonchech drove her ~30 minutes to Scottsdale airport
+**A-1902.1** Per McCoy's account: present at TPUSA Scottsdale offices when shot rang out at 12:23 p.m. MST; Mikey McCoy called her first and then conferenced in Erika; she alerted Frank (TPUSA counsel) and Justin Streiff; Lauren Tonchech drove her ~30 minutes to Scottsdale airport
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01

@@ -95,7 +95,7 @@ Okay? Our minute-by-minute timeline uh from, you know, leading up to when the sh
 
 [13:38]
 
-I mean yeah but have that tarmac hug with Erika. And then there's this mysterious flight that I know nothing about uh but I think it's relevant. We saw it today that departs from Page, Arizona for Provo because I remember that Page, Arizona uh that was that also that N888 flight uh that was very strange. That was it was also going back and forth from Page. So I I just wonder what was what was going on in Page, Arizona on that day. Then we know that Marina Medvin is going to ask Aubrey to draft the death death statement. She says that Andrew is on a plane. I think actually they he had his phone off. I think they had their phones off. Uh Justin Stripe is going to send the email that was drafted by Aubrey announcing Charlie's death to the entire Turning Point USA staff staff at 2:27.
+I mean yeah but have that tarmac hug with Erika. And then there's this mysterious flight that I know nothing about uh but I think it's relevant. We saw it today that departs from Page, Arizona for Provo because I remember that Page, Arizona uh that was that also that N888 flight uh that was very strange. That was it was also going back and forth from Page. So I I just wonder what was what was going on in Page, Arizona on that day. Then we know that Marina Medvin is going to ask Aubrey to draft the death death statement. She says that Andrew is on a plane. I think actually they he had his phone off. I think they had their phones off. Uh Justin Streiff is going to send the email that was drafted by Aubrey announcing Charlie's death to the entire Turning Point USA staff staff at 2:27.
 
 [14:28]
 

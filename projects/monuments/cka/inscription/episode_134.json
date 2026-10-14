@@ -796,8 +796,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-273",
-      "ref": "N-273",
+      "@id": "N-271",
+      "ref": "N-271",
       "name": "Tim Pool",
       "type": "person",
       "description": "Made two contradictory statements about Candace's security within one week.",
@@ -920,8 +920,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-375",
-      "ref": "N-375",
+      "@id": "N-372",
+      "ref": "N-372",
       "name": "Danny Philip",
       "type": "person",
       "description": "Person the host says Blake Neff excludes from his account of Sept 10 driving.",
@@ -937,8 +937,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-517",
-      "ref": "N-517",
+      "@id": "N-512",
+      "ref": "N-512",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "Officer Bagley; the host sarcastically references his body-cam footage and the screwdriver.",
@@ -1478,7 +1478,7 @@
       "investigative_direction": "Verify original tweet content and timing.",
       "mentions_person_refs": [
         "N-93",
-        "N-273"
+        "N-271"
       ]
     },
     {
@@ -1696,7 +1696,7 @@
       "transcript_snippet": "Effectively, we were saying this person was a decoy and never fired a shot.",
       "mentions_person_refs": [
         "N-3",
-        "N-273",
+        "N-271",
         "N-93"
       ]
     },
@@ -2653,7 +2653,7 @@
       "investigative_direction": "Obtain Bagley's body-cam records and activation logs for that day.",
       "transcript_snippet": "Officer Bagley, oh just it just it went off. I don't know. I don't know what happened to my body cam footage",
       "mentions_person_refs": [
-        "N-517",
+        "N-512",
         "N-162"
       ]
     },
@@ -2989,7 +2989,7 @@
       "transcript_snippet": "why Blake seems to have this convenient amnesia about certain events that day and why he continues to exclude Danny Philip from the equation.",
       "mentions_person_refs": [
         "N-162",
-        "N-375",
+        "N-372",
         "N-3"
       ]
     },

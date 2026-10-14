@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 9206e4edc77e48ae3eeb53cccbdeaa31474f55c3c4251722fc813b659bce0c5e
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-556, N-557, N-558, N-559, N-560, N-561, N-10485, N-10486, N-10487, N-10488, N-10489, N-10490, N-10491
-  - Reused Nodes Appearing: N-2, N-387
+  - New Nodes Introduced: N-551, N-552, N-553, N-554, N-555, N-556, N-10485, N-10486, N-10487, N-10488, N-10489, N-10490, N-10491
+  - Reused Nodes Appearing: N-2, N-383
   - (see registers)
 
 # Meta-Data
@@ -29,9 +29,9 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1738, A-1739, A-1740, A-1741, A-1742, A-1743
   - Claim Range: C-2298–C-2311
-  - New Nodes Introduced (people): N-556, N-557, N-558, N-559, N-560
+  - New Nodes Introduced (people): N-551, N-552, N-553, N-554, N-555
   - New Nodes Introduced (investigation targets): N-10485, N-10486, N-10487, N-10488
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-387 (Emmanuel Macron)
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-383 (Emmanuel Macron)
 
 ---
 
@@ -59,7 +59,7 @@ Confidence Level: Medium (text read aloud by host)
 
 *Display/Read content: "The 23 and me kits arrived and will be delivered to Woody and Suni to their home today."*
 
-*Related: C-2298, N-9 (Epstein), N-560 (Woody Allen)*
+*Related: C-2298, N-9 (Epstein), N-555 (Woody Allen)*
 
 **A-1738.2** Epstein email to "Sultan" re: James Miller / 9E71st Street shipping
 
@@ -87,7 +87,7 @@ Confidence Level: High (audio played in full)
 
 *Display/Read content: Book of Enoch; 200 fallen angels (Watchers) landing at Mount Hermon, southern Lebanon; topographic outline resembling a goat; Aazil/goat association in Leviticus 16; David Flynn research; coordinate 33.33°N × 33.33°E from Paris prime meridian; "devil's line."*
 
-*Related: C-2300, C-2311, N-552 (Robkea), N-559 (David Flynn), N-10489 (Mount Hermon 33.33 Coordinate Investigation)*
+*Related: C-2300, C-2311, N-547 (Robkea), N-554 (David Flynn), N-10489 (Mount Hermon 33.33 Coordinate Investigation)*
 
 **A-1739.2** Robkea segment on Gilgamesh / CERN / 666
 
@@ -99,7 +99,7 @@ Confidence Level: High (audio played in full)
 
 *Display/Read content: Gilgamesh as 1/3 man and 2/3 God (33.33% / 66.6%); carbon molecule 6/6/6 → "666"; CERN Hadron Collider stated goal of recreating Big Bang; CERN logo resembling three 6s; Shiva statue at CERN.*
 
-*Related: C-2301, C-2311, N-552 (Robkea)*
+*Related: C-2301, C-2311, N-547 (Robkea)*
 
 ---
 
@@ -115,7 +115,7 @@ Confidence Level: High (audio played in full)
 
 *Display/Read content: 2003 find of Gilgamesh body in Iraq; Tom Horn interjection citing a "special operations general" who stated remains were "in a state of remarkable preservation"; proposition that the U.S. military took possession of the dig; Steve Quail's claim that "the whole point was to extract the DNA" and that the human genome project was oriented toward "locate specific genetic markers for the disembodied spirits to reanimate their host body that's brought back."*
 
-*Related: C-2302, C-2303, N-557 (Tom Horn), N-558 (Steve Quail), N-10490 (Gilgamesh Remains DNA Extraction Claim)*
+*Related: C-2302, C-2303, N-552 (Tom Horn), N-553 (Steve Quail), N-10490 (Gilgamesh Remains DNA Extraction Claim)*
 
 ---
 
@@ -131,7 +131,7 @@ Confidence Level: High (video clip played in full)
 
 *Display/Read content: "Erika Kirk has been a dear friend of mine for almost 15 years. We have done multiple projects together. She wrote the forward to my book. The photo that has been circulating around that says a left eye club. Um this is the cuff that she's wearing. I designed it. Those are my um jewelry pieces. This was an editorial shot that I actually styled…"; description of "Romanian Angels" gift project organized by Erika.*
 
-*Related: C-2304, C-2305, N-556 (Tracy Martin), N-2 (Erica Kirk), N-10486 (Tracy Martin Background and Husband Verification), N-10485 (Erika Kirk September 10 Alibi Investigation)*
+*Related: C-2304, C-2305, N-551 (Tracy Martin), N-2 (Erica Kirk), N-10486 (Tracy Martin Background and Husband Verification), N-10485 (Erika Kirk September 10 Alibi Investigation)*
 
 ---
 
@@ -147,7 +147,7 @@ Confidence Level: Low (verbally referenced; not visually confirmed as displayed 
 
 *Display/Read content: Host states she has reviewed text chains discussing "Mcronone's boyfriend" and that she was "shown a photo of Mcronone's boyfriend"; states additional emails reference Macron's sexuality; host references a Steve Bannon chat in the same set.*
 
-*Related: C-2306, N-387 (Emmanuel Macron)*
+*Related: C-2306, N-383 (Emmanuel Macron)*
 
 ---
 
@@ -199,7 +199,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Hi Ben, team Candace for Life."*
 
-*Related: C-2310, N-561 (Benjamin – flag)*
+*Related: C-2310, N-556 (Benjamin – flag)*
 
 **A-1743.5** AZ Masterbaker comment re: COVID tests as DNA collection for Nimrod descendants
 
@@ -211,7 +211,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Fully believe the CO tests were just to collect DNA. That's why it doesn't matter if they were accurate. Also, maybe the collecting of DNA is to find Nimrod's descendants."*
 
-*Related: C-2311, N-552 (Robkea), N-10491 (COVID Test DNA Collection Hypothesis)*
+*Related: C-2311, N-547 (Robkea), N-10491 (COVID Test DNA Collection Hypothesis)*
 
 **A-1743.6** Bobby comment re: Satan as counterfeiter
 
@@ -235,14 +235,14 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Rob was amazing and I'm so glad that you found his work. We are in a battle um thousands of years long and it is all about the Babylonian ascension."*
 
-*Related: C-2313, N-552 (Robkea)*
+*Related: C-2313, N-547 (Robkea)*
 
 ---
 
 # Node Register
 
 
-**N-556** Tracy Martin
+**N-551** Tracy Martin
 
 Self-identified friend of Erica Kirk for approximately 15 years; styled the "left eye club" editorial photograph; designed the cuff worn by Erica; reported to have been with Erika on September 10, 2025. Husband's first name given by host as Thomas (uncertain).
 
@@ -253,7 +253,7 @@ Investigative Pressure: High
 
 *Related: A-1741.1, C-2304, C-2305, N-2 (Erica Kirk), N-10485, N-10486*
 
-**N-552** Robkea
+**N-547** Robkea
 
 Lecturer whose "Babylon Rising" speech is played at length in this episode; posits Tower of Babel as technology, Mount Hermon at 33.33°N 33.33°E as fallen-angel landing site, Gilgamesh/Nimrod identification, and CERN/666 symbolism. Host reports an email from the lecturer's son thanking her.
 
@@ -262,9 +262,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1739.1, A-1739.2, A-1743.5, A-1743.7, C-2300, C-2301, N-559 (David Flynn), N-10489, N-10491*
+*Related: A-1739.1, A-1739.2, A-1743.5, A-1743.7, C-2300, C-2301, N-554 (David Flynn), N-10489, N-10491*
 
-**N-557** Tom Horn
+**N-552** Tom Horn
 
 Radio host cited via Omega Man Radio clip; states a "special operations general" validated Gilgamesh remains in "remarkable preservation."
 
@@ -273,9 +273,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1740.1, C-2302, N-558 (Steve Quail), N-10490*
+*Related: A-1740.1, C-2302, N-553 (Steve Quail), N-10490*
 
-**N-558** Steve Quail
+**N-553** Steve Quail
 
 Radio co-host cited via Omega Man Radio clip; asserts human genome project was oriented toward genetic markers for disembodied spirits reanimating Nimrod/Gilgamesh.
 
@@ -284,9 +284,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1740.1, C-2303, N-557 (Tom Horn), N-10490*
+*Related: A-1740.1, C-2303, N-552 (Tom Horn), N-10490*
 
-**N-559** David Flynn
+**N-554** David Flynn
 
 Researcher cited by Robkea as having identified the Mount Hermon coordinate (33.33°N 33.33°E from Paris prime meridian) and the "devil's line." Reported by Robkea as recently deceased.
 
@@ -295,9 +295,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1739.1, N-552 (Robkea), N-10489*
+*Related: A-1739.1, N-547 (Robkea), N-10489*
 
-**N-500** Lori Frantzve
+**N-495** Lori Frantzve
 
 Erica Kirk's mother, identified by host as the person Erika was reportedly with on September 10. Host now disputes this alibi.
 
@@ -306,7 +306,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2 (Erica Kirk), N-10485, N-556 (Tracy Martin)*
+*Related: N-2 (Erica Kirk), N-10485, N-551 (Tracy Martin)*
 
 **N-9** Jeffrey Epstein
 
@@ -317,9 +317,9 @@ Claim Count: 0 (as subject, not author of any claim in this episode)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1738.1, A-1738.2, A-1743.2, N-560 (Woody Allen), N-387 (Emmanuel Macron)*
+*Related: A-1738.1, A-1738.2, A-1743.2, N-555 (Woody Allen), N-383 (Emmanuel Macron)*
 
-**N-560** Woody Allen
+**N-555** Woody Allen
 
 Named recipient of Epstein 23andMe kit email (along with "Suni").
 
@@ -330,7 +330,7 @@ Investigative Pressure: Low
 
 *Related: A-1738.1, N-9 (Epstein)*
 
-**N-387** Emmanuel Macron
+**N-383** Emmanuel Macron
 
 Subject of Epstein-files text chains cited by host; host asserts he has a "boyfriend" and is gay. Host consistently renders name as "Mcronone."
 
@@ -350,7 +350,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1743.3, A-1743.6, C-2309, C-2312, N-552 (Robkea)*
+*Related: A-1743.3, A-1743.6, C-2309, C-2312, N-547 (Robkea)*
 
 **N-17** Rob McCoy
 
@@ -363,7 +363,7 @@ Investigative Pressure: Low
 
 *Related: N-10487 (Dream City Church Investigation), N-2 (Erica Kirk)*
 
-**N-561** Benjamin
+**N-556** Benjamin
 
 Addressee of Angie comment ("Hi Ben"); host addresses as "Benjamin." Possible production-staff figure. Insufficient identifying information to confirm role.
 
@@ -385,7 +385,7 @@ Claim Count: 0 (this episode's alibi claim fails admission test; not inscribed)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1741.1, N-2 (Erica Kirk), N-556 (Tracy Martin), N-500 (Lorie Fonfe)*
+*Related: A-1741.1, N-2 (Erica Kirk), N-551 (Tracy Martin), N-495 (Lorie Fonfe)*
 
 **N-10486** Tracy Martin Background and Husband Verification
 
@@ -396,7 +396,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-556 (Tracy Martin)*
+*Related: N-551 (Tracy Martin)*
 
 **N-10487** Dream City Church Connection Investigation
 
@@ -407,7 +407,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-556 (Tracy Martin), N-17 (Rob McCoy), (Pastor Luke)*
+*Related: N-551 (Tracy Martin), N-17 (Rob McCoy), (Pastor Luke)*
 
 **N-10488** Egyptian Plane Communication Investigation
 
@@ -429,7 +429,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1739.1, N-552 (Robkea), N-559 (David Flynn)*
+*Related: A-1739.1, N-547 (Robkea), N-554 (David Flynn)*
 
 **N-10490** Gilgamesh Remains DNA Extraction Claim
 
@@ -440,7 +440,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1740.1, N-557 (Tom Horn), N-558 (Steve Quail)*
+*Related: A-1740.1, N-552 (Tom Horn), N-553 (Steve Quail)*
 
 **N-10491** COVID Test DNA Collection Hypothesis
 
@@ -451,7 +451,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1743.5, N-552 (Robkea), N-50 (Sigmund Freud)*
+*Related: A-1743.5, N-547 (Robkea), N-50 (Sigmund Freud)*
 
 ---
 
@@ -464,7 +464,7 @@ Claim Timestamp: 00:01:18
 Claim: A Jeffrey Epstein-authored email states that 23andMe kits had arrived and would be delivered that day to "Woody and Suni" at their home.
 
 Anchored Artifacts: A-1738.1
-Mentions: N-9, N-560
+Mentions: N-9, N-555
 
 
 Investigative Direction: Locate the email within the public Epstein files (jmail.world or DOJ releases) to verify recipient identity, date, and full text.
@@ -492,7 +492,7 @@ Claim Timestamp: 00:05:43
 Claim: In a lecture clip, Robkea states that the Book of Enoch identifies 200 Watchers / fallen angels as landing at Mount Hermon in southern Lebanon, and that David Flynn identified this location as 33.33°N by 33.33°E from the Paris prime meridian.
 
 Anchored Artifacts: A-1739.1
-Mentions: N-552, N-559
+Mentions: N-547, N-554
 
 Related Nodes: N-10489
 
@@ -507,7 +507,7 @@ Claim Timestamp: 00:10:17
 Claim: Robkea states that Gilgamesh was described as two-thirds God and one-third man, that the carbon molecule's 6/6/6 structure equates to the number of man, and that CERN's logo resembles three stacked 6s.
 
 Anchored Artifacts: A-1739.2
-Mentions: N-552
+Mentions: N-547
 
 
 Tags: relevance:tangential
@@ -522,7 +522,7 @@ Claim Timestamp: 00:15:37
 Claim: Tom Horn states on Omega Man Radio that a "special operations general" validated that Gilgamesh's remains were in a state of "remarkable preservation" and that the military took possession of the dig site.
 
 Anchored Artifacts: A-1740.1
-Mentions: N-557, N-558
+Mentions: N-552, N-553
 
 Related Nodes: N-10490
 
@@ -537,7 +537,7 @@ Claim Timestamp: 00:15:55
 Claim: Steve Quail states on Omega Man Radio that "the whole point" of the Iraq dig and the human genome project was to locate genetic markers that would allow disembodied spirits to "reanimate" Nimrod/Gilgamesh's host body.
 
 Anchored Artifacts: A-1740.1
-Mentions: N-558
+Mentions: N-553
 
 Related Nodes: N-10490
 
@@ -552,7 +552,7 @@ Claim Timestamp: 00:27:48
 Claim: Tracy Martin states in a video clip that Erika Kirk has been a "dear friend" of hers for "almost 15 years," that they have "done multiple projects together," that Erika wrote the foreword to Martin's book, and that Martin participated in the Romanian Angels gift-distribution project organized by Erika.
 
 Anchored Artifacts: A-1741.1
-Mentions: N-2, N-556
+Mentions: N-2, N-551
 
 Related Nodes: N-10485
 
@@ -567,7 +567,7 @@ Claim Timestamp: 00:28:05
 Claim: Tracy Martin states she styled the editorial photograph featuring the "left eye club" cuff that has been circulating, and that the cuff and jewelry pieces pictured are her designs.
 
 Anchored Artifacts: A-1741.1
-Mentions: N-2, N-556
+Mentions: N-2, N-551
 
 
 Investigative Direction: Identify the original editorial publication to confirm styling credit; identify the cuff's commercial availability and Martin's business.
@@ -581,7 +581,7 @@ Claim Timestamp: 00:31:49
 Claim: The host states she has reviewed text chains discussing "Mcronone's boyfriend," that she was shown a photo of the boyfriend, and that other emails reference Macron's sexuality.
 
 Anchored Artifacts: A-1742.1
-Mentions: N-9, N-387
+Mentions: N-9, N-383
 
 
 Investigative Direction: Locate the specific text chain and photo within public Epstein files; verify any reference to Macron and an unnamed partner.
@@ -637,7 +637,7 @@ Claim Timestamp: 00:39:16
 Claim: A viewer comment (Angie) greets "Ben" as part of "team Candace for Life." Host addresses the recipient as "Benjamin" and states he watches every episode.
 
 Anchored Artifacts: A-1743.4
-Mentions: N-561
+Mentions: N-556
 
 
 Investigative Direction: Identify the production-staff role, if any, of "Benjamin" referenced by host; resolve the Ben / Benjamin discrepancy.
@@ -651,7 +651,7 @@ Claim Timestamp: 00:39:30
 Claim: A viewer comment (AZ Masterbaker) asserts that COVID tests were conducted for DNA collection rather than diagnostic accuracy, and that the collection aimed to identify descendants of Nimrod. Host concurs.
 
 Anchored Artifacts: A-1743.5
-Mentions: N-552
+Mentions: N-547
 
 Related Nodes: N-10491
 
@@ -680,7 +680,7 @@ Claim Timestamp: 00:40:23
 Claim: A viewer comment (American Jetet) endorses Robkea's work and frames the underlying conflict as a millennia-long battle over "Babylonian ascension."
 
 Anchored Artifacts: A-1743.7
-Mentions: N-552
+Mentions: N-547
 
 
 Investigative Direction: Document the convergence of host and viewer framing; assess whether "Babylonian ascension" originates with Robkea, Flynn, or earlier esoteric sources.
@@ -696,7 +696,7 @@ Investigative Direction: Document the convergence of host and viewer framing; as
 - **Host spelling variant (Emmanuel Macron → "Mcronone"):** Preserved host's spelling in claim text and flagged here.
 - **Possible transcription error ("Sigman Freud"):** Transcript renders "Sigmund Freud" as "Sigman Freud" throughout. Preserved as transcribed; flag notes this is a host pronunciation / spelling variant of "Sigmund."
 - **Possible transcription error ("counterfeitterter"):** Bobby's comment contains a duplicated syllable in the source transcript; preserved as transcribed.
-- **Transcript ambiguity (Ben / Benjamin):** Angie comment addresses "Ben"; host addresses "Benjamin." Insufficient context to confirm whether these refer to the same individual. Flagged on N-561.
+- **Transcript ambiguity (Ben / Benjamin):** Angie comment addresses "Ben"; host addresses "Benjamin." Insufficient context to confirm whether these refer to the same individual. Flagged on N-556.
 - **Tip-based claim not inscribed:** Host's central assertion that Erika Kirk was with Tracy Martin (not Lorie Fonfe) on September 10, 2025 is based on viewer tips referenced in this episode but is not anchored to any artifact in this episode. Per the Claim Admission Test (artifact anchor + falsifiability + rhetoric removal), it fails the artifact anchor test and is therefore not inscribed in the Claim Register. The persistent target N-10485 carries it forward for future artifact anchoring.
 - **Egyptian-plane assertion not inscribed:** Host's claim that a plane transponded on the tarmac with active communication is presented as host assertion, not anchored to a displayed artifact in this episode. Not inscribed.
 - **23andMe-kit email authenticity:** Emails are read aloud by host; underlying screenshots, headers, or DOJ attribution are not independently confirmed in this episode. Confidence Level: Medium.

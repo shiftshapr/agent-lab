@@ -45,9 +45,9 @@
             "C-1697"
           ],
           "related_nodes": [
-            "N-255",
+            "N-254",
             "N-225",
-            "N-256"
+            "N-255"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -72,8 +72,8 @@
             "C-1698"
           ],
           "related_nodes": [
-            "N-255",
-            "N-257"
+            "N-254",
+            "N-256"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -98,8 +98,8 @@
             "C-1699"
           ],
           "related_nodes": [
-            "N-255",
-            "N-257"
+            "N-254",
+            "N-256"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -124,9 +124,9 @@
             "C-1700"
           ],
           "related_nodes": [
-            "N-255",
-            "N-258",
-            "N-259"
+            "N-254",
+            "N-257",
+            "N-258"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -151,9 +151,9 @@
             "C-1697"
           ],
           "related_nodes": [
-            "N-257",
-            "N-255",
-            "N-256"
+            "N-256",
+            "N-254",
+            "N-255"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -178,9 +178,9 @@
             "C-1701"
           ],
           "related_nodes": [
-            "N-260",
-            "N-261",
-            "N-255"
+            "N-259",
+            "N-765",
+            "N-254"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -205,8 +205,8 @@
             "C-1702"
           ],
           "related_nodes": [
+            "N-254",
             "N-255",
-            "N-256",
             "N-10248"
           ],
           "tags": [],
@@ -235,8 +235,8 @@
             "C-1706"
           ],
           "related_nodes": [
-            "N-258",
-            "N-262",
+            "N-257",
+            "N-260",
             "N-10248",
             "N-10249"
           ],
@@ -263,8 +263,8 @@
             "C-1707"
           ],
           "related_nodes": [
-            "N-263",
-            "N-255"
+            "N-261",
+            "N-254"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -289,7 +289,7 @@
             "C-1708"
           ],
           "related_nodes": [
-            "N-263"
+            "N-261"
           ],
           "tags": [],
           "source_timestamp": "00:00:00–00:00:01",
@@ -356,7 +356,7 @@
             "C-1711"
           ],
           "related_nodes": [
-            "N-264",
+            "N-262",
             "N-10250"
           ],
           "tags": [],
@@ -383,7 +383,7 @@
             "C-1712"
           ],
           "related_nodes": [
-            "N-251",
+            "N-250",
             "N-1"
           ],
           "tags": [],
@@ -410,7 +410,7 @@
             "C-1713"
           ],
           "related_nodes": [
-            "N-232",
+            "N-231",
             "N-2"
           ],
           "tags": [],
@@ -436,7 +436,7 @@
             "C-1714"
           ],
           "related_nodes": [
-            "N-232",
+            "N-231",
             "N-2"
           ],
           "tags": [],
@@ -562,8 +562,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-255",
-      "ref": "N-255",
+      "@id": "N-254",
+      "ref": "N-254",
       "name": "Lou Taylor",
       "type": "person",
       "description": "Business manager associated with Britney Spears' conservatorship; allegedly began career at Calvary Chapel Brentwood alongside her then-pastor husband; founder/principal of Tri Star (referenced as \"Tristar\" in transcript).",
@@ -597,8 +597,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
+        "N-255",
         "N-256",
-        "N-257",
         "N-10248"
       ]
     },
@@ -626,8 +626,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-256",
-      "ref": "N-256",
+      "@id": "N-255",
+      "ref": "N-255",
       "name": "Robin Taylor",
       "type": "person",
       "description": "Lou Taylor's husband; pastor at Calvary Chapel Brentwood per Brett Cooper segment. Transcript renders the name in three different forms (Robin, Rob, Luke); the same individual is plainly referenced. Multiple occurrences warrant separate recording correction.",
@@ -644,13 +644,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-255"
+        "N-254"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-257",
-      "ref": "N-257",
+      "@id": "N-256",
+      "ref": "N-256",
       "name": "Jamie Spears (Jamie Lynn Spears's father; Britney Spears's father)",
       "type": "person",
       "description": "Conservator and conservatorship income recipient; tithing donor to Calvary Chapel Brentwood per 2010 financial document.",
@@ -672,8 +672,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-258",
-      "ref": "N-258",
+      "@id": "N-257",
+      "ref": "N-257",
       "name": "Courtney Love",
       "type": "person",
       "description": "Musician; subject of allegation that Lou Taylor attempted to place her under conservatorship (per New Yorker); source of January 2025 text messages describing alleged \"Mormon mafia\" and Haight-Ashbury experimentation.",
@@ -698,8 +698,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-259",
-      "ref": "N-259",
+      "@id": "N-258",
+      "ref": "N-258",
       "name": "Lindsay Lohan",
       "type": "person",
       "description": "Subject referenced in connection with Lou Taylor conservatorship allegations (New Yorker) and Michael Lohan press statement (Morning Star rehab leak).",
@@ -717,13 +717,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-260"
+        "N-259"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-260",
-      "ref": "N-260",
+      "@id": "N-259",
+      "ref": "N-259",
       "name": "Michael Lohan",
       "type": "person",
       "description": "Father of Lindsay Lohan; press statement cited accusing Lou Taylor and associates of leaking rehab information.",
@@ -739,16 +739,16 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-259"
+        "N-258"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-261",
-      "ref": "N-261",
+      "@id": "N-765",
+      "ref": "N-765",
       "name": "Bob Coy",
       "type": "person",
-      "description": "Referenced as mentor of the Taylor family in Brentwood, Tennessee; subject of prior-day discussion in Episode 31; allegedly involved in sexual abuse scandal. Transcript renders the name as \"Bob Koy.\"",
+      "description": "Referenced as mentor of the Taylor family in Brentwood, Tennessee; subject of prior-day discussion in Episode 31; allegedly involved in sexual abuse scandal. Transcript renders the name as \"Bob Coy.\"",
       "related_artifacts": [
         "A-1405.1"
       ],
@@ -759,14 +759,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-255",
+        "N-254",
         "N-10248"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-262",
-      "ref": "N-262",
+      "@id": "N-260",
+      "ref": "N-260",
       "name": "R. Todd Nielson",
       "type": "person",
       "description": "Named in Courtney Love text screenshots as a \"corrupt Fed\" and as an LDS apostle. Single-source; unverified.",
@@ -780,13 +780,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-258"
+        "N-257"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-263",
-      "ref": "N-263",
+      "@id": "N-261",
+      "ref": "N-261",
       "name": "Bob Bryar",
       "type": "person",
       "description": "Drummer, My Chemical Romance; deceased; cause of death ruled undetermined per People magazine; per his own public Twitter post, was Lou Taylor's business manager for 18 years through September (year unspecified in transcript).",
@@ -804,13 +804,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-255"
+        "N-254"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-264",
-      "ref": "N-264",
+      "@id": "N-262",
+      "ref": "N-262",
       "name": "Samir",
       "type": "person",
       "description": "On-scene videographer at Kirk event; allegedly BYU alumnus; per host posted photo with maroon shirt person; allegedly permitted to interview Astrid Tuminez.",
@@ -832,8 +832,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-251",
-      "ref": "N-251",
+      "@id": "N-250",
+      "ref": "N-250",
       "name": "Butch Hibbs",
       "type": "person",
       "description": "Brother of Jack Hibbs; alleged by host to have been in the bush at Kirk event prior to shooting and to have lingered at scene post-shooting during media interviews.",
@@ -855,8 +855,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-232",
-      "ref": "N-232",
+      "@id": "N-231",
+      "ref": "N-231",
       "name": "Allie Beth Stuckey",
       "type": "person",
       "description": "Subject of Daily Mail and Wall Street Journal headlines framing her as TPUSA \"heir\" or \"heir apparent.\" Host disputes framing on air.",
@@ -902,8 +902,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-255",
-        "N-256"
+        "N-254",
+        "N-255"
       ]
     },
     {
@@ -925,7 +925,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-258"
+        "N-257"
       ]
     },
     {
@@ -951,8 +951,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-264",
-        "N-251",
+        "N-262",
+        "N-250",
         "N-1"
       ]
     },
@@ -1038,8 +1038,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-366",
-      "ref": "N-366",
+      "@id": "N-363",
+      "ref": "N-363",
       "name": "Kim Kardashian",
       "type": "person",
       "description": "Named in Courtney Love's January 2025 text messages, read on air, as connected to Lou Taylor.",
@@ -1096,8 +1096,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-766",
-      "ref": "N-766",
+      "@id": "N-760",
+      "ref": "N-760",
       "name": "Astrid Tuminez",
       "type": "person",
       "description": "UVU president (also transcribed \"Tumz\"); first named in C-1711.",
@@ -1196,8 +1196,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-387",
-      "ref": "N-387",
+      "@id": "N-383",
+      "ref": "N-383",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1269,8 +1269,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-231",
-      "ref": "N-231",
+      "@id": "N-230",
+      "ref": "N-230",
       "name": "Harvey Weinstein",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1308,8 +1308,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-887",
-      "ref": "N-887",
+      "@id": "N-880",
+      "ref": "N-880",
       "name": "Britney Spears",
       "type": "person",
       "description": "First named by the host at 00:00:44 in episode 32. Singer whose 2008 conservatorship the host connects to Lou Taylor and Calvary Chapel.",
@@ -1357,8 +1357,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-888",
-      "ref": "N-888",
+      "@id": "N-881",
+      "ref": "N-881",
       "name": "Jamie Lynn Spears",
       "type": "person",
       "description": "First named by the host (reading Brett Cooper) at 00:06:05 in episode 32. Britney Spears's younger sister, whom Lou Taylor was first hired to help manage.",
@@ -1427,8 +1427,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-889",
-      "ref": "N-889",
+      "@id": "N-882",
+      "ref": "N-882",
       "name": "Tony Blair",
       "type": "person",
       "description": "First named at 00:15:42 in episode 32 in an email read by the host. Former UK prime minister linked in the email to the house where Britney Spears was held in 2019.",
@@ -1480,8 +1480,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-252",
-      "ref": "N-252",
+      "@id": "N-251",
+      "ref": "N-251",
       "name": "Elijah Schaefer",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1497,8 +1497,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-751",
-      "ref": "N-751",
+      "@id": "N-745",
+      "ref": "N-745",
       "name": "Michael Jackson",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1516,8 +1516,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-890",
-      "ref": "N-890",
+      "@id": "N-883",
+      "ref": "N-883",
       "name": "Paris Jackson",
       "type": "person",
       "description": "First named by the host at 00:23:46 in episode 32. Daughter of Michael Jackson, said to have lost in court over his legacy.",
@@ -1533,8 +1533,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-883",
-      "ref": "N-883",
+      "@id": "N-876",
+      "ref": "N-876",
       "name": "Justin Bieber",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1607,8 +1607,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-891",
-      "ref": "N-891",
+      "@id": "N-884",
+      "ref": "N-884",
       "name": "Spencer Pratt",
       "type": "person",
       "description": "First named by the host at 00:35:52 in episode 32. Reality-TV figure the host praises for work on the Malibu fires.",
@@ -1727,8 +1727,8 @@
       "claim_timestamp": "00:11:07",
       "investigative_direction": "Verify Calvary Chapel Brentwood staff records circa 2005–2008 to confirm Lou Taylor's husband's pastoral role and tenure dates.",
       "mentions_person_refs": [
+        "N-254",
         "N-255",
-        "N-256",
         "N-225"
       ]
     },
@@ -1746,7 +1746,7 @@
       "claim_timestamp": "00:11:07",
       "investigative_direction": "Confirm via business filings (Tri Star / Tristar) and professional licensing records whether Lou Taylor held relevant financial credentials.",
       "mentions_person_refs": [
-        "N-255",
+        "N-254",
         "N-225"
       ]
     },
@@ -1767,8 +1767,8 @@
       "claim_timestamp": "00:11:07",
       "investigative_direction": "Obtain the 2010 financial document referenced and confirm donor records at Calvary Chapel Brentwood.",
       "mentions_person_refs": [
-        "N-255",
-        "N-257",
+        "N-254",
+        "N-256",
         "N-225"
       ]
     },
@@ -1786,8 +1786,8 @@
       "claim_timestamp": "00:12:02",
       "investigative_direction": "Locate and review the LA Times article and underlying email exhibits cited therein.",
       "mentions_person_refs": [
-        "N-255",
-        "N-257"
+        "N-254",
+        "N-256"
       ]
     },
     {
@@ -1804,8 +1804,8 @@
       "claim_timestamp": "00:12:02",
       "investigative_direction": "Review the underlying Daily Mail reporting and court documents cited; corroborate against any trial filings from Britney Spears's conservatorship termination proceedings.",
       "mentions_person_refs": [
-        "N-255",
-        "N-257"
+        "N-254",
+        "N-256"
       ]
     },
     {
@@ -1822,9 +1822,9 @@
       "claim_timestamp": "00:12:38",
       "investigative_direction": "Locate the underlying New Yorker article and review primary sourcing for both alleged conservatorship attempts.",
       "mentions_person_refs": [
-        "N-255",
-        "N-258",
-        "N-259"
+        "N-254",
+        "N-257",
+        "N-258"
       ]
     },
     {
@@ -1841,9 +1841,9 @@
       "claim_timestamp": "00:13:53",
       "investigative_direction": "Compare Lohan's public statement against contemporaneous press coverage of Morning Star / UCLA rehabs; review any subsequent litigation.",
       "mentions_person_refs": [
-        "N-255",
-        "N-259",
-        "N-260"
+        "N-254",
+        "N-258",
+        "N-259"
       ]
     },
     {
@@ -1862,8 +1862,8 @@
       "claim_timestamp": "00:14:40",
       "investigative_direction": "Identify sender through unredacted metadata; cross-reference Thousand Oaks property records and Black Cube Security client roster.",
       "mentions_person_refs": [
+        "N-254",
         "N-255",
-        "N-256",
         "N-17"
       ]
     },
@@ -1883,7 +1883,7 @@
       "claim_timestamp": "00:28:30",
       "investigative_direction": "Court Love is reportedly writing a book on this topic; verify against any forthcoming publication and corroborate via Haight-Ashbury Clinic / CIA program historical records.",
       "mentions_person_refs": [
-        "N-258"
+        "N-257"
       ]
     },
     {
@@ -1900,7 +1900,7 @@
       "claim_timestamp": "00:28:30",
       "investigative_direction": "Standalone claim only; no corroborating artifact in this episode.",
       "mentions_person_refs": [
-        "N-258"
+        "N-257"
       ]
     },
     {
@@ -1920,7 +1920,7 @@
       "claim_timestamp": "00:28:30",
       "investigative_direction": "Single-source; corroboration required before inscription as fact.",
       "mentions_person_refs": [
-        "N-258"
+        "N-257"
       ]
     },
     {
@@ -1939,9 +1939,9 @@
       "claim_timestamp": "00:28:30",
       "investigative_direction": "Review corporate filings of the named \"church home\" entity; cross-reference any disclosed business relationships.",
       "mentions_person_refs": [
-        "N-255",
-        "N-366",
-        "N-258"
+        "N-254",
+        "N-363",
+        "N-257"
       ]
     },
     {
@@ -1958,8 +1958,8 @@
       "claim_timestamp": "00:25:41",
       "investigative_direction": "Locate Bryar's original tweet; cross-reference with any business filings linking Bryar to Tri Star.",
       "mentions_person_refs": [
-        "N-255",
-        "N-263"
+        "N-254",
+        "N-261"
       ]
     },
     {
@@ -1976,7 +1976,7 @@
       "claim_timestamp": "00:25:41",
       "investigative_direction": "Obtain full autopsy / coroner's report; review toxicology findings.",
       "mentions_person_refs": [
-        "N-263"
+        "N-261"
       ]
     },
     {
@@ -1998,7 +1998,7 @@
       "investigative_direction": "Obtain high-resolution copies of all photos/video from multiple angles; cross-reference with FBI / state investigative files.",
       "mentions_person_refs": [
         "N-1",
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -2017,7 +2017,7 @@
       "claim_timestamp": "00:44:05",
       "investigative_direction": "Identify the second individual in the Samir photo; confirm BYU attendance.",
       "mentions_person_refs": [
-        "N-264"
+        "N-262"
       ]
     },
     {
@@ -2032,8 +2032,8 @@
       "claim_timestamp": "00:44:05",
       "investigative_direction": "Locate the published Samir / Tuminez interview and review sourcing/conditions.",
       "mentions_person_refs": [
-        "N-264",
-        "N-766"
+        "N-262",
+        "N-760"
       ]
     },
     {
@@ -2051,7 +2051,7 @@
       "investigative_direction": "Confirm Butch Hibbs's official role/access at the event; review any post-event investigative interviews.",
       "mentions_person_refs": [
         "N-1",
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -2069,7 +2069,7 @@
       "investigative_direction": "Obtain the article and verify framing language; host disputes framing on air.",
       "mentions_person_refs": [
         "N-2",
-        "N-232",
+        "N-231",
         "N-84"
       ]
     },
@@ -2088,7 +2088,7 @@
       "investigative_direction": "Locate the WSJ article and verify framing language.",
       "mentions_person_refs": [
         "N-2",
-        "N-232"
+        "N-231"
       ]
     },
     {
@@ -2129,7 +2129,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-387"
+        "N-383"
       ]
     },
     {
@@ -2172,7 +2172,7 @@
       "transcript_snippet": "It was very weird that they took out Harvey Weinstein. That is a fact. Via the Me Too movement. And I had posited to the audiences that that movement may have been about hostile takeovers of companies.",
       "mentions_person_refs": [
         "N-3",
-        "N-231"
+        "N-230"
       ]
     },
     {
@@ -2194,7 +2194,7 @@
       "transcript_snippet": "telling me to stay the course because the Calvary Chapel was also involved in Britney Spears's conservatorship.",
       "mentions_person_refs": [
         "N-3",
-        "N-887"
+        "N-880"
       ]
     },
     {
@@ -2215,8 +2215,8 @@
       "transcript_snippet": "Lou Taylor uh apparently was very much involved. That is what has been heavily insinuated and even by Britney Spears herself.",
       "mentions_person_refs": [
         "N-3",
-        "N-255",
-        "N-887"
+        "N-254",
+        "N-880"
       ]
     },
     {
@@ -2239,9 +2239,9 @@
       "transcript_snippet": "Lou Taylor became involved with Britney Spears in 2007 after she was hired to help manage Jaime Lynn Spears.",
       "mentions_person_refs": [
         "N-225",
-        "N-255",
-        "N-887",
-        "N-888"
+        "N-254",
+        "N-880",
+        "N-881"
       ]
     },
     {
@@ -2264,9 +2264,9 @@
       "transcript_snippet": "her mom stated in her memoir, Through the Storm, that Lou and Britney's father had discussed putting her in a conservatorship shortly after that happened.",
       "mentions_person_refs": [
         "N-225",
-        "N-255",
-        "N-257",
-        "N-887"
+        "N-254",
+        "N-256",
+        "N-880"
       ]
     },
     {
@@ -2289,8 +2289,8 @@
       "transcript_snippet": "Jaime Senior had around this time allegedly filed for bankruptcy. He had done this multiple times, and Lou Taylor's firm gave Britney's dad a loan of $40,000.",
       "mentions_person_refs": [
         "N-225",
-        "N-255",
-        "N-257"
+        "N-254",
+        "N-256"
       ]
     },
     {
@@ -2313,8 +2313,8 @@
       "transcript_snippet": "Tristar, that is L. Taylor's company, was hired to serve as the tour's business manager, handling its finances and accounting. And the tour grossed an estimated $130 million.",
       "mentions_person_refs": [
         "N-225",
-        "N-255",
-        "N-887"
+        "N-254",
+        "N-880"
       ]
     },
     {
@@ -2382,7 +2382,7 @@
       "transcript_snippet": "two other people reached out to me who worked with Lou Taylor and described exactly what she's referring to.",
       "mentions_person_refs": [
         "N-3",
-        "N-255"
+        "N-254"
       ]
     },
     {
@@ -2405,7 +2405,7 @@
       "transcript_snippet": "I've also heard that Lou has connections and ties to Glen Maxwell and Epstein, etc.",
       "mentions_person_refs": [
         "N-3",
-        "N-255",
+        "N-254",
         "N-47",
         "N-9"
       ]
@@ -2430,8 +2430,8 @@
       "transcript_snippet": "they told me that the house that Britney was being held out in 2019 was tied to Epstein somehow via Tony Blair.",
       "mentions_person_refs": [
         "N-3",
-        "N-887",
-        "N-889",
+        "N-880",
+        "N-882",
         "N-9"
       ]
     },
@@ -2455,7 +2455,7 @@
       "transcript_snippet": "I know Lou Taylor built a house there and would find it very hard to believe that she does not know Rob McCoy, seeing that he was the mayor of Thousand Oaks",
       "mentions_person_refs": [
         "N-3",
-        "N-255",
+        "N-254",
         "N-17"
       ]
     },
@@ -2477,12 +2477,12 @@
       ],
       "claim_timestamp": "00:15:42",
       "investigative_direction": "Check Calvary Chapel Fort Lauderdale and Brentwood church histories for the Taylors and Coy.",
-      "transcript_snippet": "they lived in Fort Lauderdale, Florida and attended a very large Calvary Chapel church there. And they were mentored by a man named Bob Koy.",
+      "transcript_snippet": "they lived in Fort Lauderdale, Florida and attended a very large Calvary Chapel church there. And they were mentored by a man named Bob Coy.",
       "mentions_person_refs": [
         "N-3",
+        "N-254",
         "N-255",
-        "N-256",
-        "N-261"
+        "N-765"
       ]
     },
     {
@@ -2504,7 +2504,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-17",
-        "N-255"
+        "N-254"
       ]
     },
     {
@@ -2548,7 +2548,7 @@
       "transcript_snippet": "when companies or individuals get too big and become too powerful, they send their agents to control them",
       "mentions_person_refs": [
         "N-3",
-        "N-258"
+        "N-257"
       ]
     },
     {
@@ -2573,9 +2573,9 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-887",
+        "N-880",
         "N-27",
-        "N-366"
+        "N-363"
       ]
     },
     {
@@ -2596,7 +2596,7 @@
       "transcript_snippet": "another way that they accomplish this is via lawfare, they will bankrupt you. Okay, this is why what's happening to Elijah Schaefer, this is relevant.",
       "mentions_person_refs": [
         "N-3",
-        "N-252"
+        "N-251"
       ]
     },
     {
@@ -2617,7 +2617,7 @@
       "transcript_snippet": "Michael Jackson, despite the fact that he was beating Sony, he was owning his own catalog and almost owned the Beatles catalog.",
       "mentions_person_refs": [
         "N-3",
-        "N-751"
+        "N-745"
       ]
     },
     {
@@ -2636,8 +2636,8 @@
       "transcript_snippet": "I saw Paris Jackson was in the news today. She's lost in court and she's still fighting over her father's legacy.",
       "mentions_person_refs": [
         "N-3",
-        "N-890",
-        "N-751"
+        "N-883",
+        "N-745"
       ]
     },
     {
@@ -2659,8 +2659,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-751",
-        "N-263"
+        "N-745",
+        "N-261"
       ]
     },
     {
@@ -2683,9 +2683,9 @@
       "transcript_snippet": "It looks like she owns or sat on the bar board of church home.",
       "mentions_person_refs": [
         "N-3",
-        "N-255",
-        "N-258",
-        "N-883"
+        "N-254",
+        "N-257",
+        "N-876"
       ]
     },
     {
@@ -2709,8 +2709,8 @@
       "transcript_snippet": "Christian, non-denominational, but she's LDS, born and raised, LDS.",
       "mentions_person_refs": [
         "N-3",
-        "N-258",
-        "N-255"
+        "N-257",
+        "N-254"
       ]
     },
     {
@@ -2734,8 +2734,8 @@
       "transcript_snippet": "he had to then go be one of the 12 apostle apostles to the new prophet in Salt Lake",
       "mentions_person_refs": [
         "N-3",
-        "N-258",
-        "N-262"
+        "N-257",
+        "N-260"
       ]
     },
     {
@@ -2757,8 +2757,8 @@
       "transcript_snippet": "now of course we learn that this church that Lou Taylor's husband is a is a pastor at has this background that involves the CIA.",
       "mentions_person_refs": [
         "N-3",
-        "N-255",
-        "N-256"
+        "N-254",
+        "N-255"
       ]
     },
     {
@@ -2862,7 +2862,7 @@
       "transcript_snippet": "Spencer Pratt from The Hills did some fantastic work showing up. This was actually government conspiracy.",
       "mentions_person_refs": [
         "N-3",
-        "N-891"
+        "N-884"
       ]
     },
     {
@@ -2902,7 +2902,7 @@
       "transcript_snippet": "We see him near the bush by himself. We have no evidence to show that he was actually talking to the bush. This is these are eyewitness accounts on that day.",
       "mentions_person_refs": [
         "N-3",
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -3008,7 +3008,7 @@
       "transcript_snippet": "he was not a Charlie Kirk fan. He somehow has a lot of footage and somehow immediately gave this footage to the media.",
       "mentions_person_refs": [
         "N-3",
-        "N-264"
+        "N-262"
       ]
     },
     {
@@ -3078,7 +3078,7 @@
       "transcript_snippet": "But he wasn't the only person, by the way, who was in that bush before the event.",
       "mentions_person_refs": [
         "N-3",
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -3102,7 +3102,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -3267,7 +3267,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-232"
+        "N-231"
       ]
     },
     {

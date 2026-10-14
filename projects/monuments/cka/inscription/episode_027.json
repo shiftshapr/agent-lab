@@ -142,7 +142,7 @@
             "C-1625"
           ],
           "related_nodes": [
-            "N-232",
+            "N-231",
             "N-10228"
           ],
           "tags": [],
@@ -162,7 +162,7 @@
             "C-3740"
           ],
           "related_nodes": [
-            "N-232",
+            "N-231",
             "N-10228"
           ],
           "tags": [],
@@ -190,7 +190,7 @@
             "C-1628"
           ],
           "related_nodes": [
-            "N-233",
+            "N-232",
             "N-10228"
           ],
           "tags": [],
@@ -262,7 +262,7 @@
             "C-1631"
           ],
           "related_nodes": [
-            "N-234",
+            "N-233",
             "N-10231"
           ],
           "tags": [],
@@ -315,7 +315,7 @@
             "C-1633"
           ],
           "related_nodes": [
-            "N-235",
+            "N-234",
             "N-10232"
           ],
           "tags": [],
@@ -372,7 +372,7 @@
           "related_nodes": [
             "N-2",
             "N-99",
-            "N-236",
+            "N-235",
             "N-10234",
             "N-10235"
           ],
@@ -392,7 +392,7 @@
             "C-1635"
           ],
           "related_nodes": [
-            "N-238"
+            "N-237"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -530,8 +530,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-232",
-      "ref": "N-232",
+      "@id": "N-231",
+      "ref": "N-231",
       "name": "Allie Beth Stuckey",
       "type": "person",
       "description": "Author of two artifact-anchored tweets disputing host's UVU event-approval claim.",
@@ -554,8 +554,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-233",
-      "ref": "N-233",
+      "@id": "N-232",
+      "ref": "N-232",
       "name": "Lila Rose",
       "type": "person",
       "description": "Author of one artifact-anchored tweet pair referencing Stanford/Yale speaking events; relevance is to the UVU event-approval dispute.",
@@ -626,8 +626,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-234",
-      "ref": "N-234",
+      "@id": "N-233",
+      "ref": "N-233",
       "name": "Alyssa Cordova",
       "type": "person",
       "description": "Author of one artifact-anchored tweet referencing TPUSA/Blexit NDA speculation.",
@@ -667,8 +667,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-235",
-      "ref": "N-235",
+      "@id": "N-234",
+      "ref": "N-234",
       "name": "Colby Sessions",
       "type": "person",
       "description": "UVU student who self-identified as the \"green hoodie\" figure at the event; artifact resolves N-10232.",
@@ -689,8 +689,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-236",
-      "ref": "N-236",
+      "@id": "N-235",
+      "ref": "N-235",
       "name": "Andrew Klavan",
       "type": "person",
       "description": "Referenced in Tom Paul viewer comment as having discussed Charlie's heartbeat on the Alex Clark show.",
@@ -729,8 +729,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-237",
-      "ref": "N-237",
+      "@id": "N-236",
+      "ref": "N-236",
       "name": "Tom Paul",
       "type": "person",
       "description": "Author of substantive viewer comment (A-1354.1) referencing external commentary; tracked as source node.",
@@ -748,8 +748,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-238",
-      "ref": "N-238",
+      "@id": "N-237",
+      "ref": "N-237",
       "name": "Arm Hanna",
       "type": "person",
       "description": "Author of viewer comment (A-1354.2) reinforcing host's framing on forgiveness; tracked as source node.",
@@ -789,8 +789,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-232",
-        "N-233"
+        "N-231",
+        "N-232"
       ]
     },
     {
@@ -858,7 +858,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-234"
+        "N-233"
       ]
     },
     {
@@ -880,7 +880,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-235"
+        "N-234"
       ]
     },
     {
@@ -926,7 +926,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-236",
+        "N-235",
         "N-99",
         "N-2",
         "N-7"
@@ -1135,8 +1135,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-374",
-      "ref": "N-374",
+      "@id": "N-371",
+      "ref": "N-371",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Jeremy Boreing; named in the host's thanks for her Daily Wire firing.",
@@ -1169,8 +1169,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-862",
-      "ref": "N-862",
+      "@id": "N-855",
+      "ref": "N-855",
       "name": "Tony Burke",
       "type": "person",
       "description": "First named by the host at 00:03:43 in episode 027 as the Australian official she says banned her from the country.",
@@ -1620,8 +1620,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-615",
-      "ref": "N-615",
+      "@id": "N-610",
+      "ref": "N-610",
       "name": "Ian Miles Cheong",
       "type": "person",
       "description": "Ian Miles Cheong; named as a recipient of Cordova's clips, per host allegation.",
@@ -1809,8 +1809,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-384",
-      "ref": "N-384",
+      "@id": "N-131",
+      "ref": "N-131",
       "name": "Ian Carroll",
       "type": "person",
       "description": "Ian Carroll; named as a regular text contact.",
@@ -1843,8 +1843,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-863",
-      "ref": "N-863",
+      "@id": "N-856",
+      "ref": "N-856",
       "name": "Jimmy Dore",
       "type": "person",
       "description": "First named by the host at 01:04:09 in episode 027 as a commentator a viewer suggested she team up with.",
@@ -2037,7 +2037,7 @@
       "claim_timestamp": "00:35:13",
       "investigative_direction": "Obtain Allie's underlying text message exchange with Charlie to verify the quoted framing; cross-reference against host's previously displayed email.",
       "mentions_person_refs": [
-        "N-232"
+        "N-231"
       ]
     },
     {
@@ -2056,7 +2056,7 @@
       "claim_timestamp": "00:36:03",
       "investigative_direction": "Obtain the underlying text thread to verify Allie's characterization of venue status.",
       "mentions_person_refs": [
-        "N-232"
+        "N-231"
       ]
     },
     {
@@ -2078,7 +2078,7 @@
         "C-1626"
       ],
       "mentions_person_refs": [
-        "N-232"
+        "N-231"
       ],
       "transcript_snippet": "She says, \"Since some of you guys are struggling, no venue yet, 2 months out.\"",
       "confidence": "high"
@@ -2099,7 +2099,7 @@
       "claim_timestamp": "00:37:49",
       "investigative_direction": "Verify Lila Rose's Stanford invitation claim against the host's stated Stanford event-planning baseline.",
       "mentions_person_refs": [
-        "N-233"
+        "N-232"
       ]
     },
     {
@@ -2118,7 +2118,7 @@
       "claim_timestamp": "00:37:49",
       "investigative_direction": "Identify the Yale debate date and verify against Yale Political Union scheduling records.",
       "mentions_person_refs": [
-        "N-233"
+        "N-232"
       ]
     },
     {
@@ -2172,7 +2172,7 @@
       "claim_timestamp": "00:55:21",
       "investigative_direction": "Confirm or refute the existence of any such NDA through document disclosure or direct party confirmation.",
       "mentions_person_refs": [
-        "N-234",
+        "N-233",
         "N-3"
       ]
     },
@@ -2209,7 +2209,7 @@
       "claim_timestamp": "00:25:41",
       "investigative_direction": "Verify Colby Sessions's UVU student status and the existence of the underlying social media post.",
       "mentions_person_refs": [
-        "N-235"
+        "N-234"
       ]
     },
     {
@@ -2230,8 +2230,8 @@
       "mentions_person_refs": [
         "N-2",
         "N-99",
-        "N-236",
-        "N-237"
+        "N-235",
+        "N-236"
       ]
     },
     {
@@ -2248,7 +2248,7 @@
       "claim_timestamp": "1:03:27",
       "investigative_direction": "None – viewer opinion, not an investigative target.",
       "mentions_person_refs": [
-        "N-238"
+        "N-237"
       ]
     },
     {
@@ -2310,7 +2310,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-374"
+        "N-371"
       ]
     },
     {
@@ -2348,7 +2348,7 @@
       "transcript_snippet": "Tony Burke, thank you for banning us from an entire country, even though I didn't do nothing.",
       "mentions_person_refs": [
         "N-3",
-        "N-862"
+        "N-855"
       ]
     },
     {
@@ -2754,7 +2754,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-185",
-        "N-235"
+        "N-234"
       ]
     },
     {
@@ -2775,7 +2775,7 @@
       "transcript_snippet": "I think he's on the soccer team at UVU.",
       "mentions_person_refs": [
         "N-3",
-        "N-235"
+        "N-234"
       ]
     },
     {
@@ -2820,7 +2820,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-232",
+        "N-231",
         "N-1"
       ]
     },
@@ -2841,7 +2841,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-166",
-        "N-232"
+        "N-231"
       ]
     },
     {
@@ -2956,7 +2956,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-232",
+        "N-231",
         "N-1"
       ]
     },
@@ -2978,7 +2978,7 @@
       "transcript_snippet": "They did not start planning that event when Charlie texted you. I can guarantee you that, okay?",
       "mentions_person_refs": [
         "N-3",
-        "N-232",
+        "N-231",
         "N-1"
       ]
     },
@@ -3021,7 +3021,7 @@
       "transcript_snippet": "So, that Yale event that Lila Rose spoke at was with the Yale Political Union. So, it is It's existed since 1934.",
       "mentions_person_refs": [
         "N-3",
-        "N-233"
+        "N-232"
       ]
     },
     {
@@ -3044,7 +3044,7 @@
       "transcript_snippet": "she's comparing this 70 people that attended this debate to Turning Point USA hosting a debate with thousands of people",
       "mentions_person_refs": [
         "N-3",
-        "N-233"
+        "N-232"
       ]
     },
     {
@@ -3129,7 +3129,7 @@
       "transcript_snippet": "Well, even if these are written by the Feds, I still think he was murdered by Tyler Robinson.",
       "mentions_person_refs": [
         "N-3",
-        "N-232",
+        "N-231",
         "N-40"
       ]
     },
@@ -3149,8 +3149,8 @@
       "transcript_snippet": "Alyssa Cordova was formerly the PR person, head PR person at Daily Wire.",
       "mentions_person_refs": [
         "N-3",
-        "N-232",
-        "N-234"
+        "N-231",
+        "N-233"
       ]
     },
     {
@@ -3169,8 +3169,8 @@
       "transcript_snippet": "she intentionally has out of context clips, which she then sends to people um a whole little orbit of bees online like Ian Miles Chong",
       "mentions_person_refs": [
         "N-3",
-        "N-234",
-        "N-615"
+        "N-233",
+        "N-610"
       ]
     },
     {
@@ -3485,7 +3485,7 @@
       "transcript_snippet": "She can treat you really evil, but there's an NDA preventing you, so she got to allow her to abuse you.",
       "mentions_person_refs": [
         "N-3",
-        "N-234"
+        "N-233"
       ]
     },
     {
@@ -3616,9 +3616,9 @@
       "transcript_snippet": "Ian Carroll we text regularly. Dave Smith we text regularly when we're sharing information.",
       "mentions_person_refs": [
         "N-3",
-        "N-384",
+        "N-131",
         "N-39",
-        "N-863"
+        "N-856"
       ]
     },
     {

@@ -193,7 +193,7 @@ Felt like I was being a bad mother. Was, "Man, I'm sure glad Donald Trump is pre
 
 [39:45]
 
-But anyways, I I I just I don't know why. I don't know why, but the people that are critiquing us for investigating the murder are not critiquing themselves, are not holding a mirror to themselves. Anyways, Alex has decided to share a total half-truth PR spin on another tweet from Tyler Bowyer where he responds to someone asking about Charlie establishing a DoJ department. Again, we presented that to the public. We showed the internal email, the internal memo that went out. It was Charlie in his own words. We showed the whole email. I didn't read the paragraph where he announced that Justin Stripe would be the COO, but we read the entirety related to the DoJ department. And here's what Tyler says about that.
+But anyways, I I I just I don't know why. I don't know why, but the people that are critiquing us for investigating the murder are not critiquing themselves, are not holding a mirror to themselves. Anyways, Alex has decided to share a total half-truth PR spin on another tweet from Tyler Bowyer where he responds to someone asking about Charlie establishing a DoJ department. Again, we presented that to the public. We showed the internal email, the internal memo that went out. It was Charlie in his own words. We showed the whole email. I didn't read the paragraph where he announced that Justin Streiff would be the COO, but we read the entirety related to the DoJ department. And here's what Tyler says about that.
 
 [40:21]
 

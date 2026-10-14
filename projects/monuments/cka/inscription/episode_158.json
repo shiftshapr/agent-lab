@@ -131,7 +131,7 @@
           ],
           "related_nodes": [
             "N-10218",
-            "N-507",
+            "N-502",
             "N-194",
             "N-1",
             "N-2"
@@ -536,8 +536,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-242",
-      "ref": "N-242",
+      "@id": "N-241",
+      "ref": "N-241",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Referenced regarding Erika’s December interview claim that Charlie was unconcerned about death threats the night before (contrast with DeGroot framing).",
@@ -553,8 +553,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-284",
-      "ref": "N-284",
+      "@id": "N-282",
+      "ref": "N-282",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Named among fall-2025 public appearances in the host’s wardrobe catalog rebutting “only thing that fit.”",
@@ -589,8 +589,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Referenced in post-review segment as heavily debunked by Lake Force relative to Shawn Ryan narrative.",
@@ -625,8 +625,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-507",
-      "ref": "N-507",
+      "@id": "N-502",
+      "ref": "N-502",
       "name": "Doug DeGroot",
       "type": "person",
       "description": "Board member / couple’s financial adviser quoted on will appointment and on media pressure driving 48-hour CEO vote.",
@@ -983,8 +983,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-337",
-      "ref": "N-337",
+      "@id": "N-334",
+      "ref": "N-334",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Guest co-host in earlier episodes; the host says he had the scoop that the UVU review would be bad for TPUSA.",
@@ -1017,8 +1017,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-229",
-      "ref": "N-229",
+      "@id": "N-228",
+      "ref": "N-228",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Podcaster on whose show the host says Brian Harpole gave the narrative the review debunks.",
@@ -1034,8 +1034,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-533",
-      "ref": "N-533",
+      "@id": "N-528",
+      "ref": "N-528",
       "name": "Nicki Minaj",
       "type": "person",
       "description": "Named by the host among Erika Kirk's December appearances.",
@@ -1462,7 +1462,7 @@
       "investigative_direction": "Build dated outfit plate from primary video stills; keep claim scoped to contradiction vs “only thing that fit.”",
       "mentions_person_refs": [
         "N-2",
-        "N-284"
+        "N-282"
       ]
     },
     {
@@ -1485,7 +1485,7 @@
         "N-1",
         "N-2",
         "N-194",
-        "N-507"
+        "N-502"
       ]
     },
     {
@@ -1610,7 +1610,7 @@
       "investigative_direction": "Timestamp board vote vs public announce vs contemporaneous press queries; seek board minutes if ever produced.",
       "mentions_person_refs": [
         "N-2",
-        "N-507"
+        "N-502"
       ]
     },
     {
@@ -1953,7 +1953,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-16",
-        "N-284"
+        "N-282"
       ]
     },
     {
@@ -1978,7 +1978,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-10",
-        "N-533"
+        "N-528"
       ]
     },
     {
@@ -2091,7 +2091,7 @@
       "investigative_direction": "Identify the pastor and the security team's written recommendations; compare with Charlie not wearing a vest on September 10.",
       "transcript_snippet": "The night before Charlie was killed, he had been discussing with Erika and their pastor recommendations from his security team, which included bulletproof glass shields and vests.",
       "mentions_person_refs": [
-        "N-507",
+        "N-502",
         "N-1",
         "N-2"
       ]
@@ -2113,7 +2113,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-242",
+        "N-241",
         "N-1"
       ]
     },
@@ -2223,7 +2223,7 @@
       "investigative_direction": "Confirm the quote in the published profile and request board minutes on the succession decision.",
       "transcript_snippet": "Degrroot says Erika saved Turning Point two or three years of searching for and training a new CEO from outside the organization.",
       "mentions_person_refs": [
-        "N-507",
+        "N-502",
         "N-2"
       ]
     },
@@ -2240,7 +2240,7 @@
       "investigative_direction": "Identify the earlier episode where the host first said this and any messages from DeGroot to media contacts.",
       "transcript_snippet": "he was, I told you early on, one of the people that was like crazy behind the scenes and wanting me to be crushed in the media.",
       "mentions_person_refs": [
-        "N-507",
+        "N-502",
         "N-3"
       ]
     },
@@ -2307,7 +2307,7 @@
         "C-3489"
       ],
       "mentions_person_refs": [
-        "N-337",
+        "N-334",
         "N-3"
       ]
     },
@@ -2330,8 +2330,8 @@
         "C-3589"
       ],
       "mentions_person_refs": [
-        "N-272",
-        "N-229",
+        "N-270",
+        "N-228",
         "N-3"
       ]
     },

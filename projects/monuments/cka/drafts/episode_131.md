@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: b0fbc9640382faeba544f3948f17586f7fd4a74b047aceb20faed50921bccc36
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (wave3): N-522
+  - Hole-minted Nodes (wave3): N-517
   - Reused Nodes Appearing: N-10748
   - (see registers)
 
@@ -231,7 +231,7 @@ Confidence Level: High
 
 ## 4. Node Register
 
-**N-522** Gayle King
+**N-517** Gayle King
 
 First named by the host at 00:43:01 in episode 131.
 
@@ -302,7 +302,7 @@ Claim Timestamp: 00:10:44
 Claim: The November 15, 2023 thread contains Charlie Kirk writing: "Jeremy Boring [transcript spelling], who knew exactly what Jeremy was, 100% workshopped this. This is not Ben acting alone. This is a hit."
 
 Anchored Artifacts: A-2180.1
-Mentions: N-1, N-3, N-374
+Mentions: N-1, N-3, N-371
 
 
 Investigative Direction: Verify name spelling against device-extracted SMS records; cross-reference with public statements by Jeremy Boreing.
@@ -402,7 +402,7 @@ Claim Timestamp: 00:06:03
 Claim: In an audio clip from AmFest in December 2025, Steve Bannon states: "Ben Shapiro is like a cancer and that cancer spreads … He tried to take over Breitbart and I ran him out of there. He tried to take over David Horowitz's who was his mentor."
 
 Anchored Artifacts: A-2182.1
-Mentions: N-197, N-399, N-97
+Mentions: N-197, N-395, N-97
 
 Related Nodes:
 
@@ -417,7 +417,7 @@ Claim Timestamp: 00:33:45
 Claim: In an audio clip played in the episode (Paramount Tactical), Tracy Martin states: "Absolutely not. No, absolutely not" in response to a question about whether she was the person the Daily Mail contacted and provided information from.
 
 Anchored Artifacts: A-2183.1
-Mentions: N-2, N-556
+Mentions: N-2, N-551
 
 
 Investigative Direction: Obtain the full Paramount Tactical segment; cross-reference with any Daily Mail editorial correspondence.
@@ -487,7 +487,7 @@ Claim Timestamp: 00:41:38
 Claim: In an audio clip played in the episode, Allison Holker states that while cleaning out the closet to pick out a funeral outfit, she discovered "a lot of things I did not know existed" hidden in the home, including substances – even though the autopsy (per host narration from news reports) found no drugs or alcohol in his system.
 
 Anchored Artifacts: A-2185.1
-Mentions: N-522
+Mentions: N-517
 
 Related Nodes:
 
@@ -502,7 +502,7 @@ Claim Timestamp: 00:44:07
 Claim: In a CBS / Gayle King audio clip, Twitch's family members state that they received a phone call stating "We need you guys to sign non-disclosure agreements" in order to attend his memorial.
 
 Anchored Artifacts: A-2186.1
-Mentions: N-522
+Mentions: N-517
 
 Related Nodes:
 
@@ -517,7 +517,7 @@ Claim Timestamp: 00:44:07
 Claim: In a CBS / Gayle King audio clip, Twitch's family members state: "If you don't sign, you will not be able to see him and you will not be able to participate."
 
 Anchored Artifacts: A-2186.1
-Mentions: N-522
+Mentions: N-517
 
 Related Nodes:
 
@@ -532,7 +532,7 @@ Claim Timestamp: 00:39:35
 Claim: A YouTube comment posted on the prior day's episode lists parallels between the Twitch / Allison Holker case and the Charlie / Erica Kirk case, including: "Mormon wife who chased him at dancing events until he marries her," "The family iced out," "Mysterious death," "His family asked to sign an NDA to attend the memorial," and "The wife back at work and in business mode a few days later making deals and publishing books."
 
 Anchored Artifacts: A-2188.1
-Mentions: N-1, N-2, N-522
+Mentions: N-1, N-2, N-517
 
 Related Nodes:
 

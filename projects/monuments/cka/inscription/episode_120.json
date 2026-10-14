@@ -225,7 +225,7 @@
           "description": "Tim Dillon clip – parody reading titled \"God chose me by J. D. Vance,\" with Baal-sacrifice framing",
           "related_claims": [],
           "related_nodes": [
-            "N-283",
+            "N-281",
             "N-3"
           ],
           "tags": [],
@@ -472,8 +472,8 @@
             "C-5851"
           ],
           "related_nodes": [
-            "N-744",
-            "N-656"
+            "N-738",
+            "N-651"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -708,8 +708,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -943,8 +943,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-229",
-      "ref": "N-229",
+      "@id": "N-228",
+      "ref": "N-228",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Podcast host (rendered \"Shawn Ryan\" and \"Sean Ryan\"); interviewed Brian Harpole.",
@@ -960,8 +960,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-267",
-      "ref": "N-267",
+      "@id": "N-265",
+      "ref": "N-265",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "TPUSA-linked camera operator (rendered \"Teryl Farnsworth\" in the transcript); the host says he removed the back footage.",
@@ -977,8 +977,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-283",
-      "ref": "N-283",
+      "@id": "N-281",
+      "ref": "N-281",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Comedian whose parody reading of a purported JD Vance book the host plays.",
@@ -995,8 +995,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-337",
-      "ref": "N-337",
+      "@id": "N-334",
+      "ref": "N-334",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Researcher whom the host credits with having reported on the shirt's fate early on.",
@@ -1012,8 +1012,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-540",
-      "ref": "N-540",
+      "@id": "N-535",
+      "ref": "N-535",
       "name": "Jean-Luc Brunel",
       "type": "person",
       "description": "Modeling agent named by the host as an Epstein-linked trafficking route in France.",
@@ -1029,8 +1029,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-581",
-      "ref": "N-581",
+      "@id": "N-576",
+      "ref": "N-576",
       "name": "Faith Kates",
       "type": "person",
       "description": "Next Model Management owner, described by the host as very close to Jeffrey Epstein.",
@@ -1048,8 +1048,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-594",
-      "ref": "N-594",
+      "@id": "N-589",
+      "ref": "N-589",
       "name": "Mark Epstein",
       "type": "person",
       "description": "Jeffrey Epstein's brother; the host says she could not confirm that he owned the Upper East Side building.",
@@ -1065,8 +1065,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-656",
-      "ref": "N-656",
+      "@id": "N-651",
+      "ref": "N-651",
       "name": "Mario Nawfal",
       "type": "person",
       "description": "Host of programming on which, per a viewer comment, Larry Johnson appears.",
@@ -1082,8 +1082,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-695",
-      "ref": "N-695",
+      "@id": "N-689",
+      "ref": "N-689",
       "name": "Jon Bray",
       "type": "person",
       "description": "Analyst the host credits with identifying the mic as a possible shaped-charge source (rendered \"John Bray\" in the transcript).",
@@ -1705,8 +1705,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-743",
-      "ref": "N-743",
+      "@id": "N-737",
+      "ref": "N-737",
       "name": "Sarah Tool",
       "type": "person",
       "description": "First named by the host at 00:17:36 in episode 120 (rendered \"Sarah uh Tool\" in the transcript). Front-row student witness who gave three successive media interviews about the shot.",
@@ -1724,8 +1724,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-744",
-      "ref": "N-744",
+      "@id": "N-738",
+      "ref": "N-738",
       "name": "Larry Johnson",
       "type": "person",
       "description": "First named by the host at 00:57:35 in episode 120, while reading a viewer comment. Described in that comment as ex-CIA and a frequent guest on Mario Nawfal's programming.",
@@ -1829,7 +1829,7 @@
       "claim_timestamp": "00:05:20",
       "investigative_direction": "Obtain Sean Ryan show audio/video; cross-reference against hospital records, gurney handling logs, and ER staff testimony to verify or falsify Harpole's account.",
       "mentions_person_refs": [
-        "N-272",
+        "N-270",
         "N-1"
       ]
     },
@@ -2044,7 +2044,7 @@
       "investigative_direction": "Locate Coleman's early posts or videos on the shirt and compare them with Harpole's later Sean Ryan account.",
       "transcript_snippet": "someone pointed out to me that Baron Coleman had already furnished the answer to it as well as other people a long time ago actually in his early days of covering the case.",
       "mentions_person_refs": [
-        "N-337",
+        "N-334",
         "N-1"
       ]
     },
@@ -2125,8 +2125,8 @@
       "investigative_direction": "Obtain the complaint and identify which statements about the Sean Ryan interview are at issue.",
       "transcript_snippet": "according to Brian Harpole, who joined Shawn Ryan for a car crash interview, for which I'm being sued over.",
       "mentions_person_refs": [
-        "N-272",
-        "N-229",
+        "N-270",
+        "N-228",
         "N-3"
       ]
     },
@@ -2150,7 +2150,7 @@
         "C-2935"
       ],
       "mentions_person_refs": [
-        "N-272",
+        "N-270",
         "N-1"
       ]
     },
@@ -2171,7 +2171,7 @@
       "investigative_direction": "Interview ER staff on duty about whether an unauthorized person directed care or guarded the door; obtain the hospital security log.",
       "transcript_snippet": "stood outside uh the room and held guard on the outside door of the room so nobody else could come in there.",
       "mentions_person_refs": [
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2190,7 +2190,7 @@
       "investigative_direction": "Request the dispatch record and audio for the Sept 10, 2025 911 call from Utah County dispatch.",
       "transcript_snippet": "We still can't figure out who in the car called 911, and we can't find that 911 call, but they say someone did call 911.",
       "mentions_person_refs": [
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2211,7 +2211,7 @@
       "investigative_direction": "Compare Harpole's earlier statements on CPR with the Sean Ryan transcript and Frank Turek's own account of the ride.",
       "transcript_snippet": "you told us that you didn't even do CPR. It was an 8-minute car ride. Now you're you're you want to defibrillate and bring his heart back online.",
       "mentions_person_refs": [
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2253,7 +2253,7 @@
       "investigative_direction": "Find Turek's own statement about changing clothes and the hospital's record of scrubs issued; ask what happened to the clothing he removed.",
       "transcript_snippet": "According to Brian, he was just praying in the back seat. But for some reason, Frank notes that when he got to the hospital, he got changed.",
       "mentions_person_refs": [
-        "N-272",
+        "N-270",
         "N-7",
         "N-194"
       ]
@@ -2274,7 +2274,7 @@
       "investigative_direction": "Check the State's exhibit and evidence lists in the Robinson case for clothing worn by Charlie Kirk, and the hospital's patient-belongings record.",
       "transcript_snippet": "Cuz I don't see it in evidence. I don't see it marked as evidence. I haven't seen it in the court case filings that they have this shirt anywhere.",
       "mentions_person_refs": [
-        "N-272",
+        "N-270",
         "N-1"
       ]
     },
@@ -2314,7 +2314,7 @@
         "C-4613"
       ],
       "mentions_person_refs": [
-        "N-695"
+        "N-689"
       ]
     },
     {
@@ -2391,7 +2391,7 @@
       "investigative_direction": "Compare with the event video to establish the topic being discussed at the moment of the shot.",
       "transcript_snippet": "the second student to get up was talking about transgenderism and how um gun violence has been very frequent with that community, and that is when it happened.",
       "mentions_person_refs": [
-        "N-743"
+        "N-737"
       ]
     },
     {
@@ -2412,7 +2412,7 @@
       "investigative_direction": "Obtain broadcast metadata for both interviews to verify air times.",
       "transcript_snippet": "That's what she said at 1:17 p. m. But then just 50 minutes later, she gives another interview, and her story has changed. This is given at around 2:08 p. m.",
       "mentions_person_refs": [
-        "N-743"
+        "N-737"
       ]
     },
     {
@@ -2432,7 +2432,7 @@
       "investigative_direction": "Measure the distance from the courtyard seat to the Losee Center roof position and compare with Tool's figure.",
       "transcript_snippet": "She's even able to confirm how many yards away the bullet was fired from, and it incredibly matches the distance to Loews Center.",
       "mentions_person_refs": [
-        "N-743"
+        "N-737"
       ]
     },
     {
@@ -2502,7 +2502,7 @@
       "investigative_direction": "Obtain the original camera files, chain-of-custody records and police statements about Farnsworth's access to the scene.",
       "transcript_snippet": "It explains why Teryl Farnsworth violated the crime scene to remove the back footage.",
       "mentions_person_refs": [
-        "N-267"
+        "N-265"
       ]
     },
     {
@@ -2737,7 +2737,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-581"
+        "N-576"
       ]
     },
     {
@@ -2758,7 +2758,7 @@
         "C-2423"
       ],
       "mentions_person_refs": [
-        "N-581",
+        "N-576",
         "N-9"
       ]
     },
@@ -2813,7 +2813,7 @@
       "investigative_direction": "Check New York property records for buildings owned by Mark Epstein on the Upper East Side.",
       "transcript_snippet": "we were not able to confirm, if that white Upper East Side in the '60s of the Upper East Side may have been the one that was owned by Mark Epstein, Jeffrey Epstein's brother.",
       "mentions_person_refs": [
-        "N-594",
+        "N-589",
         "N-9"
       ]
     },
@@ -2897,7 +2897,7 @@
       "transcript_snippet": "This was his thing of how he trafficked a lot of women from the Eastern Europe through modeling agencies like the one with Jean-Luc Brunel in France.",
       "mentions_person_refs": [
         "N-9",
-        "N-540"
+        "N-535"
       ]
     },
     {
@@ -2915,7 +2915,7 @@
       "investigative_direction": "Gather press coverage and released emails showing Kates's statements and actions after 2008.",
       "transcript_snippet": "Faith Kates was his loyal defender and it ended up costing her um her entire reputation, her career really.",
       "mentions_person_refs": [
-        "N-581",
+        "N-576",
         "N-9"
       ]
     },
@@ -3269,7 +3269,7 @@
       "transcript_snippet": "and then J. D. Vance drops a book about his Catholicism.",
       "mentions_person_refs": [
         "N-4",
-        "N-283"
+        "N-281"
       ]
     },
     {
@@ -3289,7 +3289,7 @@
       "investigative_direction": "Locate the original Tim Dillon episode and confirm the segment is presented as comedy.",
       "transcript_snippet": "we have here an excerpt from the book God chose me by J. D. Vance. Here we are. After sacrificing Charlie Kirk to the entity Baal, I began to think about my faith.",
       "mentions_person_refs": [
-        "N-283",
+        "N-281",
         "N-4",
         "N-1"
       ]
@@ -3310,7 +3310,7 @@
       "transcript_snippet": "many people are going to say, \"Well, that's not technically in his book.\" It's the essence of the book.",
       "mentions_person_refs": [
         "N-4",
-        "N-283"
+        "N-281"
       ]
     },
     {
@@ -3443,8 +3443,8 @@
       "investigative_direction": "Locate the Nawfal appearance and Johnson's actual statements.",
       "transcript_snippet": "Larry Johnson is ex-CIA and often on with Mario Nawfal discussing he says the 30-odd-6 narrative is BS and the Egyptian planes could be intelligence related.",
       "mentions_person_refs": [
-        "N-744",
-        "N-656"
+        "N-738",
+        "N-651"
       ]
     },
     {

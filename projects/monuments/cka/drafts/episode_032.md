@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 0a9c6fafefe14c0d1f54417389a169941d6dc03778a4ff62159f241b54a502b4
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-887, N-888, N-889, N-890, N-891, N-11275, N-11276
-  - Hole-minted Nodes (reintro-ep032): N-231, N-10311
-  - Tip-minted Nodes (reintro-ep032): N-751, N-766, N-883, N-11117
+  - Tip-minted Nodes (supplement_2026-10e): N-880, N-881, N-882, N-883, N-884, N-11275, N-11276
+  - Hole-minted Nodes (reintro-ep032): N-230, N-10311
+  - Tip-minted Nodes (reintro-ep032): N-745, N-760, N-876, N-11117
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-10837–C-10890
   - (see registers)
@@ -34,9 +34,9 @@
 - **Episode Ledger Summary:**
   - Artifact Families Introduced: A-1399, A-1400, A-1401, A-1402, A-1403, A-1404, A-1405, A-1406, A-1407, A-1408, A-1409, A-1410, A-1411, A-1412, A-1413, A-1414
   - Claim Range: C-1695–C-1715
-  - New Nodes Introduced: N-255, N-256, N-257, N-258, N-259, N-260, N-261, N-262, N-263, N-264, N-10249, N-10250
-  - Reused Nodes Appearing: N-10251, N-10252, N-10248, N-9, N-27, N-47, N-82, N-252, N-387, N-10000, N-10001, N-10094, N-10116, N-10137, N-10164, N-10180, N-10246, N-10247, N-10465, N-11223
-  - Hole-minted Nodes (wave1b): N-366
+  - New Nodes Introduced: N-254, N-255, N-256, N-257, N-258, N-259, N-260, N-261, N-262, N-10249, N-10250
+  - Reused Nodes Appearing: N-10251, N-10252, N-10248, N-9, N-27, N-47, N-82, N-251, N-383, N-10000, N-10001, N-10094, N-10116, N-10137, N-10164, N-10180, N-10246, N-10247, N-10465, N-11223
+  - Hole-minted Nodes (wave1b): N-363
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -67,7 +67,7 @@ Video Timestamp: 00:11:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1695, C-1696, C-1697, N-255, N-225, N-256*
+*Related: C-1695, C-1696, C-1697, N-254, N-225, N-255*
 
 ---
 
@@ -80,7 +80,7 @@ Video Timestamp: 00:12:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (headline read aloud)
 
-*Related: C-1698, N-255, N-257*
+*Related: C-1698, N-254, N-256*
 
 ---
 
@@ -93,7 +93,7 @@ Video Timestamp: 00:12:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (headline read aloud)
 
-*Related: C-1699, N-255, N-257*
+*Related: C-1699, N-254, N-256*
 
 ---
 
@@ -106,7 +106,7 @@ Video Timestamp: 00:12:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (referenced on air)
 
-*Related: C-1700, N-255, N-258, N-259*
+*Related: C-1700, N-254, N-257, N-258*
 
 ---
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:11:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (cited by Brett Cooper)
 
-*Related: C-1697, N-257, N-255, N-256*
+*Related: C-1697, N-256, N-254, N-255*
 
 ---
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:13:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played)
 
-*Related: C-1701, N-260, N-261, N-255*
+*Related: C-1701, N-259, N-765, N-254*
 
 ---
 
@@ -145,7 +145,7 @@ Video Timestamp: 00:14:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single-source, redacted, unverified)
 
-*Related: C-1702, N-255, N-256, N-10248*
+*Related: C-1702, N-254, N-255, N-10248*
 
 ---
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:28:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single source; host claims to have in writing)
 
-*Related: C-1703, C-1704, C-1705, C-1706, N-258, N-262, N-10248, N-10249*
+*Related: C-1703, C-1704, C-1705, C-1706, N-257, N-260, N-10248, N-10249*
 
 ---
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:25:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (verbatim read aloud)
 
-*Related: C-1707, N-263, N-255*
+*Related: C-1707, N-261, N-254*
 
 ---
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:25:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (headline read aloud)
 
-*Related: C-1708, N-263*
+*Related: C-1708, N-261*
 
 ---
 
@@ -220,7 +220,7 @@ Video Timestamp: 00:44:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1710, C-1711, N-264, N-10250*
+*Related: C-1710, C-1711, N-262, N-10250*
 
 ---
 
@@ -234,7 +234,7 @@ Video Timestamp: 00:45:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1712, N-251, N-1*
+*Related: C-1712, N-250, N-1*
 
 ---
 
@@ -247,7 +247,7 @@ Video Timestamp: 00:56:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (article referenced by host)
 
-*Related: C-1713, N-232, N-2*
+*Related: C-1713, N-231, N-2*
 
 ---
 
@@ -260,7 +260,7 @@ Video Timestamp: 00:57:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (referenced on air)
 
-*Related: C-1714, N-232, N-2*
+*Related: C-1714, N-231, N-2*
 
 ---
 
@@ -334,7 +334,7 @@ Confidence Level: Medium
 
 ### People
 
-**N-766** Astrid Tuminez
+**N-760** Astrid Tuminez
 
 UVU president (also transcribed "Tumz"); first named in C-1711.
 
@@ -342,7 +342,7 @@ UVU president (also transcribed "Tumz"); first named in C-1711.
 
 ---
 
-**N-255** Lou Taylor
+**N-254** Lou Taylor
 
 Business manager associated with Britney Spears' conservatorship; allegedly began career at Calvary Chapel Brentwood alongside her then-pastor husband; founder/principal of Tri Star (referenced as "Tristar" in transcript).
 
@@ -351,7 +351,7 @@ Claim Count: 8
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1399.1, A-1399.2, A-1400.1, A-1401.1, A-1402.1, A-1403.1, A-1404.1, A-1405.1, A-1406.1, A-1407.1, C-1695, C-1696, C-1697, C-1698, C-1699, C-1700, C-1701, C-1702, C-1706, C-1707, N-256, N-257, N-10248*
+*Related: A-1399.1, A-1399.2, A-1400.1, A-1401.1, A-1402.1, A-1403.1, A-1404.1, A-1405.1, A-1406.1, A-1407.1, C-1695, C-1696, C-1697, C-1698, C-1699, C-1700, C-1701, C-1702, C-1706, C-1707, N-255, N-256, N-10248*
 
 ---
 
@@ -368,7 +368,7 @@ Investigative Pressure: Low (as source only)
 
 ---
 
-**N-256** Robin Taylor
+**N-255** Robin Taylor
 
 Lou Taylor's husband; pastor at Calvary Chapel Brentwood per Brett Cooper segment. Transcript renders the name in three different forms (Robin, Rob, Luke); the same individual is plainly referenced. Multiple occurrences warrant separate recording correction.
 
@@ -377,11 +377,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1399.2, A-1405.1, C-1695, N-255*
+*Related: A-1399.2, A-1405.1, C-1695, N-254*
 
 ---
 
-**N-257** Jamie Spears (Jamie Lynn Spears's father; Britney Spears's father)
+**N-256** Jamie Spears (Jamie Lynn Spears's father; Britney Spears's father)
 
 Conservator and conservatorship income recipient; tithing donor to Calvary Chapel Brentwood per 2010 financial document.
 
@@ -394,7 +394,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-258** Courtney Love
+**N-257** Courtney Love
 
 Musician; subject of allegation that Lou Taylor attempted to place her under conservatorship (per New Yorker); source of January 2025 text messages describing alleged "Mormon mafia" and Haight-Ashbury experimentation.
 
@@ -407,7 +407,7 @@ Investigative Pressure: High
 
 ---
 
-**N-259** Lindsay Lohan
+**N-258** Lindsay Lohan
 
 Subject referenced in connection with Lou Taylor conservatorship allegations (New Yorker) and Michael Lohan press statement (Morning Star rehab leak).
 
@@ -416,11 +416,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1402.1, A-1404.1, C-1700, C-1701, N-260*
+*Related: A-1402.1, A-1404.1, C-1700, C-1701, N-259*
 
 ---
 
-**N-260** Michael Lohan
+**N-259** Michael Lohan
 
 Father of Lindsay Lohan; press statement cited accusing Lou Taylor and associates of leaking rehab information.
 
@@ -429,24 +429,24 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1404.1, C-1701, N-259*
+*Related: A-1404.1, C-1701, N-258*
 
 ---
 
-**N-261** Bob Coy
+**N-765** Bob Coy
 
-Referenced as mentor of the Taylor family in Brentwood, Tennessee; subject of prior-day discussion in Episode 31; allegedly involved in sexual abuse scandal. Transcript renders the name as "Bob Koy."
+Referenced as mentor of the Taylor family in Brentwood, Tennessee; subject of prior-day discussion in Episode 31; allegedly involved in sexual abuse scandal. Transcript renders the name as "Bob Coy."
 
 Evidence Count: 1
 Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1405.1, N-255, N-10248*
+*Related: A-1405.1, N-254, N-10248*
 
 ---
 
-**N-262** R. Todd Nielson
+**N-260** R. Todd Nielson
 
 Named in Courtney Love text screenshots as a "corrupt Fed" and as an LDS apostle. Single-source; unverified.
 
@@ -455,11 +455,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1406.1, N-258*
+*Related: A-1406.1, N-257*
 
 ---
 
-**N-263** Bob Bryar
+**N-261** Bob Bryar
 
 Drummer, My Chemical Romance; deceased; cause of death ruled undetermined per People magazine; per his own public Twitter post, was Lou Taylor's business manager for 18 years through September (year unspecified in transcript).
 
@@ -468,11 +468,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1407.1, A-1408.1, C-1707, C-1708, N-255*
+*Related: A-1407.1, A-1408.1, C-1707, C-1708, N-254*
 
 ---
 
-**N-264** Samir
+**N-262** Samir
 
 On-scene videographer at Kirk event; allegedly BYU alumnus; per host posted photo with maroon shirt person; allegedly permitted to interview Astrid Tuminez.
 
@@ -485,7 +485,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-251** Butch Hibbs
+**N-250** Butch Hibbs
 
 Brother of Jack Hibbs; alleged by host to have been in the bush at Kirk event prior to shooting and to have lingered at scene post-shooting during media interviews.
 
@@ -498,7 +498,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-232** Allie Beth Stuckey
+**N-231** Allie Beth Stuckey
 
 Subject of Daily Mail and Wall Street Journal headlines framing her as TPUSA "heir" or "heir apparent." Host disputes framing on air.
 
@@ -511,7 +511,7 @@ Investigative Pressure: Low (framing dispute; not asserted by host as fact)
 
 ---
 
-**N-366** Kim Kardashian
+**N-363** Kim Kardashian
 
 Named in Courtney Love's January 2025 text messages, read on air, as connected to Lou Taylor.
 
@@ -535,7 +535,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1399.2, A-1403.1, A-1405.1, A-1406.1, C-1697, C-1702, C-1705, C-1706, N-255, N-256*
+*Related: A-1399.2, A-1403.1, A-1405.1, A-1406.1, C-1697, C-1702, C-1705, C-1706, N-254, N-255*
 
 ---
 
@@ -548,7 +548,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1406.1, C-1705, N-258*
+*Related: A-1406.1, C-1705, N-257*
 
 ---
 
@@ -561,7 +561,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1409.1, A-1409.2, A-1410.1, A-1411.1, C-1709, C-1710, N-264, N-251, N-1*
+*Related: A-1409.1, A-1409.2, A-1410.1, A-1411.1, C-1709, C-1710, N-262, N-250, N-1*
 
 ---
 
@@ -607,7 +607,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-387** Emmanuel Macron
+**N-383** Emmanuel Macron
 
 Existing node reused for new claims in this episode.
 
@@ -639,7 +639,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-231** Harvey Weinstein
+**N-230** Harvey Weinstein
 
 Existing node reused for new claims in this episode.
 
@@ -656,7 +656,7 @@ The host's relay of Courtney Love's thesis that powerful people and companies ar
 
 ---
 
-**N-887** Britney Spears
+**N-880** Britney Spears
 
 First named by the host at 00:00:44 in episode 32. Singer whose 2008 conservatorship the host connects to Lou Taylor and Calvary Chapel.
 
@@ -673,7 +673,7 @@ The host's and Brett Cooper's account of Lou Taylor's role in setting up the 200
 
 ---
 
-**N-888** Jamie Lynn Spears
+**N-881** Jamie Lynn Spears
 
 First named by the host (reading Brett Cooper) at 00:06:05 in episode 32. Britney Spears's younger sister, whom Lou Taylor was first hired to help manage.
 
@@ -713,7 +713,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-889** Tony Blair
+**N-882** Tony Blair
 
 First named at 00:15:42 in episode 32 in an email read by the host. Former UK prime minister linked in the email to the house where Britney Spears was held in 2019.
 
@@ -737,7 +737,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-252** Elijah Schaefer
+**N-251** Elijah Schaefer
 
 Existing node reused for new claims in this episode.
 
@@ -745,7 +745,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-751** Michael Jackson
+**N-745** Michael Jackson
 
 Existing node reused for new claims in this episode.
 
@@ -753,7 +753,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-890** Paris Jackson
+**N-883** Paris Jackson
 
 First named by the host at 00:23:46 in episode 32. Daughter of Michael Jackson, said to have lost in court over his legacy.
 
@@ -769,7 +769,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-883** Justin Bieber
+**N-876** Justin Bieber
 
 Existing node reused for new claims in this episode.
 
@@ -801,7 +801,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-891** Spencer Pratt
+**N-884** Spencer Pratt
 
 First named by the host at 00:35:52 in episode 32. Reality-TV figure the host praises for work on the Malibu fires.
 
@@ -866,7 +866,7 @@ Claim Timestamp: 00:11:07
 Claim: According to Brett Cooper (read on air), Lou Taylor began her career working alongside her husband, who at the time was a pastor at Calvary Church in Brentwood, California.
 
 Anchored Artifacts: A-1399.2
-Mentions: N-255, N-256, N-225
+Mentions: N-254, N-255, N-225
 
 
 Investigative Direction: Verify Calvary Chapel Brentwood staff records circa 2005–2008 to confirm Lou Taylor's husband's pastoral role and tenure dates.
@@ -880,7 +880,7 @@ Claim Timestamp: 00:11:07
 Claim: Brett Cooper states Lou Taylor had no financial background and was not an accountant, despite serving as a business manager.
 
 Anchored Artifacts: A-1399.2
-Mentions: N-255, N-225
+Mentions: N-254, N-225
 
 
 Investigative Direction: Confirm via business filings (Tri Star / Tristar) and professional licensing records whether Lou Taylor held relevant financial credentials.
@@ -894,7 +894,7 @@ Claim Timestamp: 00:11:07
 Claim: Per Brett Cooper citing a 2010 financial document, Mr. Spears gave approximately 10% of his conservatorship income to Calvary Chapel Brentwood, "tens of thousands of dollars" in one year.
 
 Anchored Artifacts: A-1399.2, A-1403.1
-Mentions: N-255, N-257, N-225
+Mentions: N-254, N-256, N-225
 
 Related Nodes: N-10248
 
@@ -909,7 +909,7 @@ Claim Timestamp: 00:12:02
 Claim: LA Times headline (read on air) reports Britney Spears's lawyer emails show her ex-business manager (Lou Taylor) helped set up the conservatorship.
 
 Anchored Artifacts: A-1400.1
-Mentions: N-255, N-257
+Mentions: N-254, N-256
 
 
 Investigative Direction: Locate and review the LA Times article and underlying email exhibits cited therein.
@@ -923,7 +923,7 @@ Claim Timestamp: 00:12:02
 Claim: Per Daily Mail headline read on air, Britney Spears has accused her father Jamie and Lou Taylor of having an affair and of using estate funds for joint travel (Holy Land baptism trip).
 
 Anchored Artifacts: A-1401.1
-Mentions: N-255, N-257
+Mentions: N-254, N-256
 
 
 Investigative Direction: Review the underlying Daily Mail reporting and court documents cited; corroborate against any trial filings from Britney Spears's conservatorship termination proceedings.
@@ -937,7 +937,7 @@ Claim Timestamp: 00:12:38
 Claim: Per host reference, The New Yorker reported that Lou Taylor also attempted to place Courtney Love and Lindsay Lohan into conservatorships.
 
 Anchored Artifacts: A-1402.1
-Mentions: N-255, N-258, N-259
+Mentions: N-254, N-257, N-258
 
 
 Investigative Direction: Locate the underlying New Yorker article and review primary sourcing for both alleged conservatorship attempts.
@@ -951,7 +951,7 @@ Claim Timestamp: 00:13:53
 Claim: Michael Lohan (audio clip) states Lou Taylor and associates leaked to the press information about Lindsay Lohan's rehab, allegedly to redirect her to UCLA.
 
 Anchored Artifacts: A-1404.1
-Mentions: N-255, N-259, N-260
+Mentions: N-254, N-258, N-259
 
 
 Investigative Direction: Compare Lohan's public statement against contemporaneous press coverage of Morning Star / UCLA rehabs; review any subsequent litigation.
@@ -965,7 +965,7 @@ Claim Timestamp: 00:14:40
 Claim: Per partially redacted viewer email read on air, the sender alleges the Calvary Chapel associated with Lou Taylor is a front for the Taylors and "Aruse" (uncertain transcription), and that Lou Taylor has alleged ties to CIA, Mossad, Black Cube Security, and a property in Thousand Oaks tied to Tony Blair. Host flags all of this as unverified.
 
 Anchored Artifacts: A-1405.1
-Mentions: N-255, N-256, N-17
+Mentions: N-254, N-255, N-17
 
 Related Nodes: N-10248
 
@@ -980,7 +980,7 @@ Claim Timestamp: 00:28:30
 Claim: Per Courtney Love text messages to host (Jan 2025), she was given LSD as a toddler at the Haight-Ashbury Clinic during the era of CIA mass experimentation on hippies.
 
 Anchored Artifacts: A-1406.1
-Mentions: N-258
+Mentions: N-257
 
 Related Nodes: N-10249
 
@@ -995,7 +995,7 @@ Claim Timestamp: 00:28:30
 Claim: Per Courtney Love text messages (Jan 2025), she states she did not kill Kurt Cobain and that his death was a "psychological operation" intended to redirect public attention away from CIA activity.
 
 Anchored Artifacts: A-1406.1
-Mentions: N-258
+Mentions: N-257
 
 
 Investigative Direction: Standalone claim only; no corroborating artifact in this episode.
@@ -1009,7 +1009,7 @@ Claim Timestamp: 00:28:30
 Claim: Per Courtney Love text messages (Jan 2025), she alleges a "Mormon mafia" operates above Hollywood and above "many Zionist Jews."
 
 Anchored Artifacts: A-1406.1
-Mentions: N-258
+Mentions: N-257
 
 Related Nodes: N-10248, N-10249
 
@@ -1024,7 +1024,7 @@ Claim Timestamp: 00:28:30
 Claim: Per Courtney Love text messages (Jan 2025), she states Lou Taylor is connected to Kim Kardashian, Diddy, Jay-Z, and Beyoncé, and that Lou Taylor owns or sat on the board of a "church home" associated with Hillsong / Justin Bieber.
 
 Anchored Artifacts: A-1406.1
-Mentions: N-255, N-366, N-258
+Mentions: N-254, N-363, N-257
 
 Related Nodes: N-10248
 
@@ -1039,7 +1039,7 @@ Claim Timestamp: 00:25:41
 Claim: Per Bob Bryar's public Twitter/X post (October 2024 per host), Lou Taylor was his business manager for 18 years until separation in September (year not stated in transcript).
 
 Anchored Artifacts: A-1407.1
-Mentions: N-255, N-263
+Mentions: N-254, N-261
 
 
 Investigative Direction: Locate Bryar's original tweet; cross-reference with any business filings linking Bryar to Tri Star.
@@ -1053,7 +1053,7 @@ Claim Timestamp: 00:25:41
 Claim: Per People magazine article (read on air), My Chemical Romance drummer Bob Bryar's cause of death was ruled undetermined, with nitrous oxide found near his body.
 
 Anchored Artifacts: A-1408.1
-Mentions: N-263
+Mentions: N-261
 
 
 Investigative Direction: Obtain full autopsy / coroner's report; review toxicology findings.
@@ -1067,7 +1067,7 @@ Claim Timestamp: 00:41:29
 Claim: Per host description of viewer-submitted photo and clip, an individual wearing a maroon shirt was partially concealed in shrubbery at the Kirk event; when shots were fired, the crowd ducked but he did not, and he calmly walked away.
 
 Anchored Artifacts: A-1409.1, A-1409.2, A-1411.1
-Mentions: N-1, N-251
+Mentions: N-1, N-250
 
 Related Nodes: N-10250
 
@@ -1082,7 +1082,7 @@ Claim Timestamp: 00:44:05
 Claim: Per host, "Samir" publicly posted a photo alongside the maroon shirt individual from the Kirk event and identified them both as BYU alumni.
 
 Anchored Artifacts: A-1410.1
-Mentions: N-264
+Mentions: N-262
 
 Related Nodes: N-10250
 
@@ -1097,7 +1097,7 @@ Claim Timestamp: 00:44:05
 Claim: Per host, "Samir" was granted an interview with UVU president Astrid Tuminez despite the host's own inability to obtain basic contact information from him.
 
 Anchored Artifacts: A-1410.1 (contextual reference)
-Mentions: N-264, N-766
+Mentions: N-262, N-760
 
 
 Investigative Direction: Locate the published Samir / Tuminez interview and review sourcing/conditions.
@@ -1111,7 +1111,7 @@ Claim Timestamp: 00:45:56
 Claim: Per video clip played on air, Butch Hibbs remained in the background during another individual's media interview at the scene after the Kirk shooting.
 
 Anchored Artifacts: A-1411.1
-Mentions: N-1, N-251
+Mentions: N-1, N-250
 
 
 Investigative Direction: Confirm Butch Hibbs's official role/access at the event; review any post-event investigative interviews.
@@ -1125,7 +1125,7 @@ Claim Timestamp: 00:56:52
 Claim: Per host reference, Daily Mail (Victoria Churchill, APAC reporter) published a headline framing Ali Stucky as TPUSA's "heir" or equivalent.
 
 Anchored Artifacts: A-1412.1
-Mentions: N-2, N-232, N-84
+Mentions: N-2, N-231, N-84
 
 
 Investigative Direction: Obtain the article and verify framing language; host disputes framing on air.
@@ -1139,7 +1139,7 @@ Claim Timestamp: 00:57:40
 Claim: Per host reference, Wall Street Journal repeated the "heir apparent" framing of TPUSA succession.
 
 Anchored Artifacts: A-1413.1
-Mentions: N-2, N-232
+Mentions: N-2, N-231
 
 
 Investigative Direction: Locate the WSJ article and verify framing language.
@@ -1170,7 +1170,7 @@ Claim: The host says Brigitte Macron and Emmanuel Macron reacted badly when she 
 Transcript Snippet: They brought it up 18 times in the lawsuit against me.
 
 Anchored Artifacts: 
-Mentions: N-3, N-82, N-387
+Mentions: N-3, N-82, N-383
 Related Nodes: N-10001
 Tags: relevance:context
 Investigative Direction: Count MK Ultra references in the Macron complaint as filed.
@@ -1202,7 +1202,7 @@ Claim: The host says it was very weird that Harvey Weinstein was taken out via t
 Transcript Snippet: It was very weird that they took out Harvey Weinstein. That is a fact. Via the Me Too movement. And I had posited to the audiences that that movement may have been about hostile takeovers of companies.
 
 Anchored Artifacts: 
-Mentions: N-3, N-231
+Mentions: N-3, N-230
 Related Nodes: N-11275
 Tags: relevance:tangential
 Investigative Direction: Trace ownership changes at Miramax and The Weinstein Company after the 2017 allegations.
@@ -1218,7 +1218,7 @@ Claim: The host says a flurry of emails told her to stay the course because Calv
 Transcript Snippet: telling me to stay the course because the Calvary Chapel was also involved in Britney Spears's conservatorship.
 
 Anchored Artifacts: 
-Mentions: N-3, N-887
+Mentions: N-3, N-880
 Related Nodes: N-11276, N-10248
 Tags: relevance:context
 Investigative Direction: Obtain the viewer emails and conservatorship filings showing any Calvary Chapel role.
@@ -1234,7 +1234,7 @@ Claim: The host says it has been alleged, and heavily insinuated even by Britney
 Transcript Snippet: Lou Taylor uh apparently was very much involved. That is what has been heavily insinuated and even by Britney Spears herself.
 
 Anchored Artifacts: 
-Mentions: N-3, N-255, N-887
+Mentions: N-3, N-254, N-880
 Related Nodes: N-11276
 Tags: relevance:context
 Investigative Direction: Check Britney Spears's court statements and the 2021 LA Times emails for Lou Taylor's role.
@@ -1250,7 +1250,7 @@ Claim: Brett Cooper (clip played) says Lou Taylor became involved with Britney S
 Transcript Snippet: Lou Taylor became involved with Britney Spears in 2007 after she was hired to help manage Jaime Lynn Spears.
 
 Anchored Artifacts: A-1399.1
-Mentions: N-225, N-255, N-887, N-888
+Mentions: N-225, N-254, N-880, N-881
 Related Nodes: N-11276
 Tags: relevance:context
 Investigative Direction: Check 2007 to 2008 press coverage and the Spears family accounts for when Lou Taylor was hired.
@@ -1266,7 +1266,7 @@ Claim: Brett Cooper (clip played) says Britney's mother wrote in her memoir Thro
 Transcript Snippet: her mom stated in her memoir, Through the Storm, that Lou and Britney's father had discussed putting her in a conservatorship shortly after that happened.
 
 Anchored Artifacts: A-1399.1
-Mentions: N-225, N-255, N-257, N-887
+Mentions: N-225, N-254, N-256, N-880
 Related Nodes: N-11276
 Tags: relevance:context
 Investigative Direction: Check the passage in Lynn Spears's memoir Through the Storm.
@@ -1282,7 +1282,7 @@ Claim: Brett Cooper (clip played) says Jamie Spears had allegedly filed for bank
 Transcript Snippet: Jaime Senior had around this time allegedly filed for bankruptcy. He had done this multiple times, and Lou Taylor's firm gave Britney's dad a loan of $40,000.
 
 Anchored Artifacts: A-1399.1
-Mentions: N-225, N-255, N-257
+Mentions: N-225, N-254, N-256
 Related Nodes: N-11276
 Tags: relevance:context
 Investigative Direction: Look for bankruptcy filings and loan records for Jamie Spears and Lou Taylor's firm around 2007 and 2008.
@@ -1298,7 +1298,7 @@ Claim: Brett Cooper (clip played) says Spears committed Britney to an eight-mont
 Transcript Snippet: Tristar, that is L. Taylor's company, was hired to serve as the tour's business manager, handling its finances and accounting. And the tour grossed an estimated $130 million.
 
 Anchored Artifacts: A-1399.1
-Mentions: N-225, N-255, N-887
+Mentions: N-225, N-254, N-880
 Related Nodes: N-11276
 Tags: relevance:context
 Investigative Direction: Check conservatorship accountings for Circus tour gross and Tri Star fees.
@@ -1347,7 +1347,7 @@ Claim: The host says two other people who worked with Lou Taylor contacted her a
 Transcript Snippet: two other people reached out to me who worked with Lou Taylor and described exactly what she's referring to.
 
 Anchored Artifacts: 
-Mentions: N-3, N-255
+Mentions: N-3, N-254
 Related Nodes: N-11276, N-10248
 Tags: relevance:context
 Investigative Direction: Interview the two sources and obtain client agreements or payment records showing tithing and undisclosed investments.
@@ -1363,7 +1363,7 @@ Claim: The host reads an email tip saying the writer has heard that Lou Taylor h
 Transcript Snippet: I've also heard that Lou has connections and ties to Glen Maxwell and Epstein, etc.
 
 Anchored Artifacts: A-1405.1
-Mentions: N-3, N-255, N-47, N-9
+Mentions: N-3, N-254, N-47, N-9
 Related Nodes: N-11276
 Tags: relevance:context
 Investigative Direction: Ask the email's author for the basis; search Epstein and Maxwell records for Lou Taylor.
@@ -1379,7 +1379,7 @@ Claim: The email read by the host says a reporter told the writer that the house
 Transcript Snippet: they told me that the house that Britney was being held out in 2019 was tied to Epstein somehow via Tony Blair.
 
 Anchored Artifacts: A-1405.1
-Mentions: N-3, N-887, N-889, N-9
+Mentions: N-3, N-880, N-882, N-9
 Related Nodes: N-11276
 Tags: relevance:context
 Investigative Direction: Identify the reporter and the property and check ownership records.
@@ -1395,7 +1395,7 @@ Claim: The email read by the host says Lou Taylor built a house in Thousand Oaks
 Transcript Snippet: I know Lou Taylor built a house there and would find it very hard to believe that she does not know Rob McCoy, seeing that he was the mayor of Thousand Oaks
 
 Anchored Artifacts: A-1405.1
-Mentions: N-3, N-255, N-17
+Mentions: N-3, N-254, N-17
 Related Nodes: N-10248
 Tags: relevance:context
 Investigative Direction: Check Ventura County property records and any McCoy and Taylor connection.
@@ -1408,10 +1408,10 @@ Claim Timestamp: 00:15:42
 
 Claim: The email read by the host says Robin and Lou Taylor lived in Fort Lauderdale, attended a very large Calvary Chapel there and were mentored by Bob Coy, who later stepped down amid sexual allegations and mentored them in starting their Brentwood, Tennessee church.
 
-Transcript Snippet: they lived in Fort Lauderdale, Florida and attended a very large Calvary Chapel church there. And they were mentored by a man named Bob Koy.
+Transcript Snippet: they lived in Fort Lauderdale, Florida and attended a very large Calvary Chapel church there. And they were mentored by a man named Bob Coy.
 
 Anchored Artifacts: A-1405.1
-Mentions: N-3, N-255, N-256, N-261
+Mentions: N-3, N-254, N-255, N-765
 Related Nodes: N-10248, N-10246
 Tags: relevance:context
 Investigative Direction: Check Calvary Chapel Fort Lauderdale and Brentwood church histories for the Taylors and Coy.
@@ -1427,7 +1427,7 @@ Claim: The host says Rob McCoy has been pastoring the Thousand Oaks church for a
 Transcript Snippet: he's been pastoring that church up until July of this year for a very long time.
 
 Anchored Artifacts: 
-Mentions: N-3, N-17, N-255
+Mentions: N-3, N-17, N-254
 Related Nodes: N-10248
 Tags: relevance:context
 Investigative Direction: Verify the date McCoy left Calvary Chapel Thousand Oaks and who succeeded him.
@@ -1459,7 +1459,7 @@ Claim: The host says Courtney Love told her in messages that when companies or i
 Transcript Snippet: when companies or individuals get too big and become too powerful, they send their agents to control them
 
 Anchored Artifacts: A-1406.1
-Mentions: N-3, N-258
+Mentions: N-3, N-257
 Related Nodes: N-11275
 Tags: relevance:context
 Investigative Direction: Obtain the Courtney Love messages and ask Love to confirm what she meant.
@@ -1475,7 +1475,7 @@ Claim: The host says Britney Spears was put on a psych 5150 hold and that Kanye 
 Transcript Snippet: Britney's been put on a psych 5150 hold. Kanye, he said he was just reading a Bible and Harley Pastnic and we got into his backstory and MK Ultra. uh suddenly puts him in a hospital on a psych 5150 hold and somehow his wife I guess was cool with that
 
 Anchored Artifacts: 
-Mentions: N-3, N-887, N-27, N-366
+Mentions: N-3, N-880, N-27, N-363
 Related Nodes: N-11275, N-10116
 Supports: C-10838
 Tags: relevance:tangential
@@ -1492,7 +1492,7 @@ Claim: The host says another way critics are controlled is lawfare that bankrupt
 Transcript Snippet: another way that they accomplish this is via lawfare, they will bankrupt you. Okay, this is why what's happening to Elijah Schaefer, this is relevant.
 
 Anchored Artifacts: 
-Mentions: N-3, N-252
+Mentions: N-3, N-251
 Related Nodes: N-11275
 Tags: relevance:context
 Investigative Direction: Review the legal actions against Elijah Schaefer and their funding.
@@ -1508,7 +1508,7 @@ Claim: The host says Michael Jackson, despite beating Sony, owned his own catalo
 Transcript Snippet: Michael Jackson, despite the fact that he was beating Sony, he was owning his own catalog and almost owned the Beatles catalog.
 
 Anchored Artifacts: 
-Mentions: N-3, N-751
+Mentions: N-3, N-745
 Related Nodes: N-11275
 Tags: relevance:tangential
 Investigative Direction: Review the history of the Sony/ATV catalog and Michael Jackson's finances at death.
@@ -1524,7 +1524,7 @@ Claim: The host says Paris Jackson was in the news that day, had lost in court a
 Transcript Snippet: I saw Paris Jackson was in the news today. She's lost in court and she's still fighting over her father's legacy.
 
 Anchored Artifacts: 
-Mentions: N-3, N-890, N-751
+Mentions: N-3, N-883, N-745
 Tags: relevance:tangential
 Investigative Direction: Check the court ruling reported on or about 2025-11-14 involving Paris Jackson.
 
@@ -1539,7 +1539,7 @@ Claim: The host says the last way to take over a company is an untimely death, a
 Transcript Snippet: the last way that they can hostly take over your company is with an untimely death, Kurt Cobain, uh, Prince, Michael Jackson, Charlie Kirk, and I should also mention Bob Brier.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-751, N-263
+Mentions: N-3, N-1, N-745, N-261
 Related Nodes: N-11275
 Tags: relevance:core
 Investigative Direction: Treat as a theory: check who gained control of TPUSA, and of the other listed estates, after each death.
@@ -1555,7 +1555,7 @@ Claim: The host says that after reading Courtney Love's text, she looked it up a
 Transcript Snippet: It looks like she owns or sat on the bar board of church home.
 
 Anchored Artifacts: A-1406.1
-Mentions: N-3, N-255, N-258, N-883
+Mentions: N-3, N-254, N-257, N-876
 Related Nodes: N-11276
 Tags: relevance:context
 Investigative Direction: Check Church Home's incorporation and board records for Lou Taylor.
@@ -1571,7 +1571,7 @@ Claim: The host reads a Courtney Love text saying Lou Taylor is Christian non-de
 Transcript Snippet: Christian, non-denominational, but she's LDS, born and raised, LDS.
 
 Anchored Artifacts: A-1406.1
-Mentions: N-3, N-258, N-255
+Mentions: N-3, N-257, N-254
 Related Nodes: N-10249, N-10094
 Tags: relevance:tangential
 Investigative Direction: Confirm Lou Taylor's religious background from public interviews or records.
@@ -1587,7 +1587,7 @@ Claim: The host reads from the Courtney Love text that R. Todd Nielsen's firm is
 Transcript Snippet: he had to then go be one of the 12 apostle apostles to the new prophet in Salt Lake
 
 Anchored Artifacts: A-1406.1
-Mentions: N-3, N-258, N-262
+Mentions: N-3, N-257, N-260
 Related Nodes: N-10249, N-10094
 Tags: relevance:tangential
 Investigative Direction: Check LDS Church leadership rosters for any R. Todd Nielsen or Nielson.
@@ -1603,7 +1603,7 @@ Claim: The host says the church where Lou Taylor's husband is a pastor has a bac
 Transcript Snippet: now of course we learn that this church that Lou Taylor's husband is a is a pastor at has this background that involves the CIA.
 
 Anchored Artifacts: 
-Mentions: N-3, N-255, N-256
+Mentions: N-3, N-254, N-255
 Related Nodes: N-10465, N-10248
 Tags: relevance:context
 Investigative Direction: Document the claimed CIA link of Calvary Chapel's origins with named sources.
@@ -1683,7 +1683,7 @@ Claim: The host says she has not looked into cloud seeding or the Malibu home fi
 Transcript Snippet: Spencer Pratt from The Hills did some fantastic work showing up. This was actually government conspiracy.
 
 Anchored Artifacts: 
-Mentions: N-3, N-891
+Mentions: N-3, N-884
 Tags: relevance:tangential
 Investigative Direction: Check the official Malibu fire investigation findings and Pratt's evidence.
 
@@ -1713,7 +1713,7 @@ Claim: The host says eyewitnesses said Butch Hibbs was talking to the bush, but 
 Transcript Snippet: We see him near the bush by himself. We have no evidence to show that he was actually talking to the bush. This is these are eyewitness accounts on that day.
 
 Anchored Artifacts: 
-Mentions: N-3, N-251
+Mentions: N-3, N-250
 Related Nodes: N-10137
 Tags: relevance:core
 Investigative Direction: Identify the eyewitnesses and match their accounts to video of Butch Hibbs at the bush.
@@ -1793,7 +1793,7 @@ Claim: The host says Samir, who she describes as Indian, supplied a lot of foota
 Transcript Snippet: he was not a Charlie Kirk fan. He somehow has a lot of footage and somehow immediately gave this footage to the media.
 
 Anchored Artifacts: 
-Mentions: N-3, N-264
+Mentions: N-3, N-262
 Related Nodes: N-10250
 Tags: relevance:core
 Investigative Direction: Check Samir's public posts and the first outlets that aired his footage.
@@ -1841,7 +1841,7 @@ Claim: The host says Butch Hibbs was not the only person in the bush before the 
 Transcript Snippet: But he wasn't the only person, by the way, who was in that bush before the event.
 
 Anchored Artifacts: A-1409.2
-Mentions: N-3, N-251
+Mentions: N-3, N-250
 Related Nodes: N-10137, N-10250
 Tags: relevance:core
 Investigative Direction: Identify the second man in the photo and its time and source.
@@ -1857,7 +1857,7 @@ Claim: The host says she received many videos of Butch Hibbs after the shooting 
 Transcript Snippet: we got a flurry of videos of him after this shooting takes place. He's kind of just like crawling the area.
 
 Anchored Artifacts: 
-Mentions: N-3, N-251
+Mentions: N-3, N-250
 Related Nodes: N-10137
 Supports: C-6639
 Tags: relevance:core
@@ -1985,7 +1985,7 @@ Claim: The host says calling Allie Beth Stuckey the heir to Turning Point USA is
 Transcript Snippet: she quite literally was the heir to Turning Point USA. Like she became the chairman.
 
 Anchored Artifacts: A-1412.1
-Mentions: N-3, N-2, N-232
+Mentions: N-3, N-2, N-231
 Tags: relevance:context
 Investigative Direction: Check the Daily Mail and WSJ articles' wording and Erika Kirk's formal TPUSA titles.
 
@@ -2149,8 +2149,8 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty (N-256):** Transcript renders Lou Taylor's husband's name as "Robin," "Rob," and "Luke" Taylor. Treated as single node with flag; primary source required.
-- **Name uncertainty (N-261):** Transcript uses "Bob Koy" – likely phonetic. Preserved as written.
+- **Name uncertainty (N-255):** Transcript renders Lou Taylor's husband's name as "Robin," "Rob," and "Luke" Taylor. Treated as single node with flag; primary source required.
+- **Name uncertainty (N-765):** Transcript uses "Bob Coy" – likely phonetic. Preserved as written.
 - **Possible transcription error (A-1405.1):** Sender email references "Aruse" – unclear transcription; possibly a name. Verify against raw email.
 - **Possible transcription error (A-1406.1):** "Nsign and NGO" – uncertain. Possibly "Ensign" or other proper noun. Verify against raw screenshot.
 - **Artifact verbally referenced but not shown (A-1405.1, A-1406.1):** Both artifacts were displayed in partially redacted form; raw verification pending.
@@ -2167,7 +2167,7 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-255 onward)
+- [x] People nodes use the global people ledger (N-254 onward)
 - [x] Non-person investigation targets use the 1000 series (N-10248 onward)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly or uncertainty noted
