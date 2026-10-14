@@ -672,7 +672,7 @@
       "ref": "N-10435",
       "name": "Fort Huachuca Erika Kirk Location Investigation",
       "type": "investigation_target",
-      "description": "Persistent allegation referenced in the cease and desist letter that Owens claims Erika Kirk was present at or near a \"secret meeting\" at Fort Wuka linked to the Kirk assassination.",
+      "description": "Persistent allegation referenced in the cease and desist letter that Owens claims Erika Kirk was present at or near a \"secret meeting\" at Fort Huachuca linked to the Kirk assassination.",
       "related_artifacts": [
         "A-1661.1"
       ],
@@ -1135,7 +1135,7 @@
       "ref": "N-10417",
       "name": "Fort Huachuca Erika Presence Investigation",
       "type": "investigation_target",
-      "description": "Existing topic reused for the host's requests about Erika Kirk's whereabouts (the letter's 'Fort Wuka' is this Fort Huachuca question).",
+      "description": "Existing topic reused for the host's requests about Erika Kirk's whereabouts (the letter's 'Fort Huachuca' is this Fort Huachuca question).",
       "related_artifacts": [],
       "related_claims": [
         "C-11130",
@@ -1477,8 +1477,8 @@
       "@type": "Claim",
       "@id": "C-2160",
       "ref": "C-2160",
-      "label": "TPUSA alleges Owens accused employee of evasiveness re Erika Kirk at \"Fort Wuka\"",
-      "claim": "The TPUSA letter alleges that Owens accused a TPUSA employee of being \"intentionally evasive\" about whether Erica Kirk was at \"Fort Wuka\" in or around an alleged secret meeting Owens has linked to the assassination.",
+      "label": "TPUSA alleges Owens accused employee of evasiveness re Erika Kirk at \"Fort Huachuca\"",
+      "claim": "The TPUSA letter alleges that Owens accused a TPUSA employee of being \"intentionally evasive\" about whether Erica Kirk was at \"Fort Huachuca\" in or around an alleged secret meeting Owens has linked to the assassination.",
       "anchored_artifacts": [
         "A-1661.1"
       ],
@@ -1487,7 +1487,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:13:00–00:14:10",
-      "investigative_direction": "Identify the unnamed TPUSA employee, obtain the underlying correspondence, and verify whether any Fort Wuka meeting is independently documented.",
+      "investigative_direction": "Identify the unnamed TPUSA employee, obtain the underlying correspondence, and verify whether any Fort Huachuca meeting is independently documented.",
       "mentions_person_refs": [
         "N-2"
       ]
@@ -2276,7 +2276,7 @@
       "@id": "C-11130",
       "ref": "C-11130",
       "label": "Host says she asked for something about Erika Kirk's whereabouts multiple times over weeks and got excuses",
-      "claim": "The host says she requested the Fort 'Wuka' confirmation multiple times over weeks and each time was given an excuse, including that Erika Kirk was busy and then appeared at a game.",
+      "claim": "The host says she requested the Fort 'Huachuca' confirmation multiple times over weeks and each time was given an excuse, including that Erika Kirk was busy and then appeared at a game.",
       "anchored_artifacts": [
         "A-1661.1"
       ],

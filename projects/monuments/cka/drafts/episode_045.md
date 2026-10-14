@@ -1575,7 +1575,7 @@ Mentions: N-3
 Related Nodes: N-10332
 Qualifies: C-1905
 Tags: relevance:core
-Investigative Direction: Both times come from the same tipster email: at 00:44:18 the host reads "at 12:31 p.m. on September 9th, it flies from Fort Wuka to El Paso"; at 00:47:10 the email's conclusion gives "leaving at 11:43 a.m.". A Fort Huachuca to El Paso Gulfstream V hop is about 45-50 minutes, so 11:43 is most likely the departure and 12:31 the El Paso arrival (or the tracker's leg time), not two conflicting departures. Confirm against ADS-B Exchange history for 99-044.
+Investigative Direction: Both times come from the same tipster email: at 00:44:18 the host reads "at 12:31 p.m. on September 9th, it flies from Fort Huachuca to El Paso"; at 00:47:10 the email's conclusion gives "leaving at 11:43 a.m.". A Fort Huachuca to El Paso Gulfstream V hop is about 45-50 minutes, so 11:43 is most likely the departure and 12:31 the El Paso arrival (or the tracker's leg time), not two conflicting departures. Confirm against ADS-B Exchange history for 99-044.
 
 ---
 
@@ -1975,7 +1975,7 @@ Confidence: high
 
 - **Name preservation**: "Erica" vs. "Erika" usage alternates throughout (including host's own introduction "Erikica Kirk"); protocol preserves both as appearing in source.
 
-- **Possible transcription error**: "Wuka" appears multiple times in the transcript where context indicates "Huachuca" (Fort Huachuca); preserved as transcribed.
+- **Possible transcription error**: "Huachuca" appears multiple times in the transcript where context indicates "Huachuca" (Fort Huachuca); preserved as transcribed.
 
 ---
 
@@ -1989,6 +1989,6 @@ Confidence: high
 - [x] People nodes use global people ledger (N-2, N-67, N-326)
 - [x] Non-person investigation targets use 1000 series (N-10332, N-10333)
 - [x] No speculative claims inscribed as evidence-backed
-- [x] Names preserved exactly or uncertainty noted (Nef, Wuka/Huachuca, Erika/Erica)
+- [x] Names preserved exactly or uncertainty noted (Nef, Huachuca/Huachuca, Erika/Erica)
 - [x] Formatting consistent across registers
 - [x] Rhetoric, framing, and host opinion distinguished from artifact-anchored claims

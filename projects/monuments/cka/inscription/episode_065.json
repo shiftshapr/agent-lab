@@ -683,7 +683,7 @@
           "@type": "Artifact",
           "@id": "A-2770.1",
           "ref": "A-2770.1",
-          "description": "Host verbal reference to her earlier podcast coverage of Michael Aquino and the Temple of Set at Fort Wuka (not shown)",
+          "description": "Host verbal reference to her earlier podcast coverage of Michael Aquino and the Temple of Set at Fort Huachuca (not shown)",
           "related_claims": [
             "C-5658",
             "C-5659"
@@ -1582,7 +1582,7 @@
       "ref": "N-460",
       "name": "Michael Aquino",
       "type": "person",
-      "description": "Subject of the host's Temple of Set and Fort Wuka statements. Transcript spelling: Michael Aino.",
+      "description": "Subject of the host's Temple of Set and Fort Huachuca statements. Transcript spelling: Michael Aino.",
       "related_artifacts": [],
       "related_claims": [
         "C-5658",
@@ -1881,7 +1881,7 @@
       "ref": "N-10435",
       "name": "Fort Huachuca Erika Kirk Location Investigation",
       "type": "investigation_target",
-      "description": "Topic related to the host's Fort Wuka statement.",
+      "description": "Topic related to the host's Fort Huachuca statement.",
       "related_artifacts": [],
       "related_claims": [
         "C-5658"
@@ -4089,8 +4089,8 @@
       "@type": "Claim",
       "@id": "C-5658",
       "ref": "C-5658",
-      "label": "Host says Temple of Set was at Fort Wuka and Aquino was hired because he was an avowed Satanist",
-      "claim": "The host says the Temple of Set was at Fort Wuka and that an avowed Satanist who started his own Temple of Set, Michael Aquino, was hired for that reason to run psychological operations.",
+      "label": "Host says Temple of Set was at Fort Huachuca and Aquino was hired because he was an avowed Satanist",
+      "claim": "The host says the Temple of Set was at Fort Huachuca and that an avowed Satanist who started his own Temple of Set, Michael Aquino, was hired for that reason to run psychological operations.",
       "anchored_artifacts": [
         "A-2770.1"
       ],

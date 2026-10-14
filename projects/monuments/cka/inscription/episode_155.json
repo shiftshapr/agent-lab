@@ -43,13 +43,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2406",
       "family_ref": "A-2406",
-      "bundle_name": "Bobby Saucelito Prediction Audio Bundle",
+      "bundle_name": "Bobby Sausalito Prediction Audio Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2406.1",
           "ref": "A-2406.1",
-          "description": "Audio clip of Bobby Saucelito delivering pre-release predictions about the Neff/Boring podcast, played on air",
+          "description": "Audio clip of Bobby Sausalito delivering pre-release predictions about the Neff/Boring podcast, played on air",
           "related_claims": [
             "C-3514",
             "C-3515"
@@ -1359,7 +1359,7 @@
       "@type": "Person",
       "@id": "N-914",
       "ref": "N-914",
-      "name": "Bobby Saucelito",
+      "name": "Bobby Sausalito",
       "type": "person",
       "description": "First named by the host at 00:00:46 in episode 155. Comedian and political commentator whose pre-release predictions about the Neff and Boreing podcast the host plays.",
       "related_artifacts": [],
@@ -1444,7 +1444,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:00:00–00:00:01",
-      "investigative_direction": "Obtain the full released episode and compare its content against Saucelito's pre-release predictions and the host's commentary.",
+      "investigative_direction": "Obtain the full released episode and compare its content against Sausalito's pre-release predictions and the host's commentary.",
       "mentions_person_refs": [
         "N-162"
       ]
@@ -1453,15 +1453,15 @@
       "@type": "Claim",
       "@id": "C-3514",
       "ref": "C-3514",
-      "label": "Saucelito Predicted Podcast Content Pre-Release",
-      "claim": "Bobby Saucelito predicted, prior to release, that the Neff/Boring podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erica Kirk, Mikey McCoy, Frank Turk), and calls for lawsuits/jail time against the host.",
+      "label": "Sausalito Predicted Podcast Content Pre-Release",
+      "claim": "Bobby Sausalito predicted, prior to release, that the Neff/Boring podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erica Kirk, Mikey McCoy, Frank Turk), and calls for lawsuits/jail time against the host.",
       "anchored_artifacts": [
         "A-2406.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:23–00:36:12",
-      "investigative_direction": "Compare Saucelito's specific predictions against the released episode segment-by-segment.",
+      "investigative_direction": "Compare Sausalito's specific predictions against the released episode segment-by-segment.",
       "mentions_person_refs": [
         "N-22",
         "N-3",
@@ -1474,8 +1474,8 @@
       "@type": "Claim",
       "@id": "C-3515",
       "ref": "C-3515",
-      "label": "Host Concurs Saucelito's Predictions Were \"Almost Spot On\"",
-      "claim": "The host explicitly concurs that Saucelito's pre-release predictions were \"almost spot on\" relative to the released promo clip.",
+      "label": "Host Concurs Sausalito's Predictions Were \"Almost Spot On\"",
+      "claim": "The host explicitly concurs that Sausalito's pre-release predictions were \"almost spot on\" relative to the released promo clip.",
       "anchored_artifacts": [
         "A-2406.1",
         "A-2407.1"
@@ -1483,7 +1483,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:12",
-      "investigative_direction": "Document the host's specific concurrence with each item of Saucelito's prediction list once the full episode is available."
+      "investigative_direction": "Document the host's specific concurrence with each item of Sausalito's prediction list once the full episode is available."
     },
     {
       "@type": "Claim",
@@ -2742,8 +2742,8 @@
       "@type": "Claim",
       "@id": "C-11900",
       "ref": "C-11900",
-      "label": "Saucelito Says Charlie Called Neff His Secret Weapon",
-      "claim": "In the clip the host plays, Bobby Saucelito says there is a reason Charlie called Blake Neff his secret weapon, joking that a weapon is supposed to damage the other person and not yourself.",
+      "label": "Sausalito Says Charlie Called Neff His Secret Weapon",
+      "claim": "In the clip the host plays, Bobby Sausalito says there is a reason Charlie called Blake Neff his secret weapon, joking that a weapon is supposed to damage the other person and not yourself.",
       "anchored_artifacts": [
         "A-2406.1"
       ],
@@ -2764,8 +2764,8 @@
       "@type": "Claim",
       "@id": "C-11901",
       "ref": "C-11901",
-      "label": "Saucelito Predicts Boreing Is Securing the Bag From Turning Point",
-      "claim": "In the clip the host plays, Saucelito predicts that Boreing wants to continue getting paid by Turning Point, so he needs to run cover for everything they say and rebrand their speakers.",
+      "label": "Sausalito Predicts Boreing Is Securing the Bag From Turning Point",
+      "claim": "In the clip the host plays, Sausalito predicts that Boreing wants to continue getting paid by Turning Point, so he needs to run cover for everything they say and rebrand their speakers.",
       "anchored_artifacts": [
         "A-2406.1"
       ],
@@ -2787,8 +2787,8 @@
       "@type": "Claim",
       "@id": "C-11902",
       "ref": "C-11902",
-      "label": "Host Says Saucelito Got Only the Motive Wrong, Saying Boreing Is Not Doing It for Money",
-      "claim": "The host says that the only thing Saucelito got wrong is that Boreing is not doing it for money, and that Boreing is a deranged man stalking her instead.",
+      "label": "Host Says Sausalito Got Only the Motive Wrong, Saying Boreing Is Not Doing It for Money",
+      "claim": "The host says that the only thing Sausalito got wrong is that Boreing is not doing it for money, and that Boreing is a deranged man stalking her instead.",
       "anchored_artifacts": [
         "A-2406.1"
       ],

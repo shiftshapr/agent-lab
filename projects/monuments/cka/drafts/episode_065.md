@@ -451,7 +451,7 @@ Confidence Level: Medium
 
 **A-2770** Aquino Temple of Set Reference Bundle
 
-**A-2770.1** Host verbal reference to her earlier podcast coverage of Michael Aquino and the Temple of Set at Fort Wuka (not shown)
+**A-2770.1** Host verbal reference to her earlier podcast coverage of Michael Aquino and the Temple of Set at Fort Huachuca (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 01:39:55
@@ -896,7 +896,7 @@ Daily Wire head the host says sent her the lawsuit on his birthday. Transcript s
 
 **N-460** Michael Aquino
 
-Subject of the host's Temple of Set and Fort Wuka statements. Transcript spelling: Michael Aino.
+Subject of the host's Temple of Set and Fort Huachuca statements. Transcript spelling: Michael Aino.
 
 *Related: C-5658, C-5659*
 
@@ -1023,7 +1023,7 @@ Topic related to the host's Aquino and Temple of Set statements.
 ---
 
 **N-10435** Fort Huachuca Erika Kirk Location Investigation
-Topic related to the host's Fort Wuka statement.
+Topic related to the host's Fort Huachuca statement.
 
 *Related: C-5658*
 
@@ -2643,11 +2643,11 @@ Investigative Direction: Find the lecture videos and transcribe the passages.
 
 ---
 
-**C-5658** Host says Temple of Set was at Fort Wuka and Aquino was hired because he was an avowed Satanist
+**C-5658** Host says Temple of Set was at Fort Huachuca and Aquino was hired because he was an avowed Satanist
 
 Claim Timestamp: 01:39:55
 
-Claim: The host says the Temple of Set was at Fort Wuka and that an avowed Satanist who started his own Temple of Set, Michael Aquino, was hired for that reason to run psychological operations.
+Claim: The host says the Temple of Set was at Fort Huachuca and that an avowed Satanist who started his own Temple of Set, Michael Aquino, was hired for that reason to run psychological operations.
 
 Transcript Snippet: literally Temple of Set was at Fort Wuka like they an avowed started his own Temple of Set everything and that was the reason they hired him.
 

@@ -954,7 +954,7 @@
       "ref": "N-10435",
       "name": "Fort Huachuca Erika Kirk Location Investigation",
       "type": "investigation_target",
-      "description": "Existing topic reused for the Fort Wuka reference.",
+      "description": "Existing topic reused for the Fort Huachuca reference.",
       "related_artifacts": [],
       "related_claims": [
         "C-10502"
@@ -1852,7 +1852,7 @@
       "ref": "N-816",
       "name": "David Frodsham",
       "type": "person",
-      "description": "First named by the host at 00:03:34 in episode 152. Civilian commander at Fort Wuka the host says was charged with running a child sex abuse ring. Real spelling unconfirmed.",
+      "description": "First named by the host at 00:03:34 in episode 152. Civilian commander at Fort Huachuca the host says was charged with running a child sex abuse ring. Real spelling unconfirmed.",
       "related_artifacts": [],
       "related_claims": [
         "C-10502"
@@ -2402,8 +2402,8 @@
       "@type": "Claim",
       "@id": "C-10502",
       "ref": "C-10502",
-      "label": "Host Says David Fraudsham Was Charged at Fort Wuka With Running a Child Sex Abuse Ring",
-      "claim": "The host says David Fraudsham was the civilian commander stationed at Fort Wuka who was charged with running a child sex abuse ring.",
+      "label": "Host Says David Fraudsham Was Charged at Fort Huachuca With Running a Child Sex Abuse Ring",
+      "claim": "The host says David Fraudsham was the civilian commander stationed at Fort Huachuca who was charged with running a child sex abuse ring.",
       "anchored_artifacts": [
         "A-2382.1"
       ],

@@ -43,7 +43,7 @@
 
 ## II. Executive Summary
 
-The episode advances two parallel threads. The first extends the host's ongoing scrutiny of the Sept 10 prosecution narrative by introducing footage artifacts displayed in the episode (parking garage stills depicting the "Maroon Boy" vehicle sitting at the top level for ~8 minutes, and TMZ timestamped 8:07 AM footage showing Robinson already parked off campus) and by formally logging the host's stated correction that prior-episode timeline data was sourced from the Sept 15 search warrant rather than Agent Hull's preliminary-hearing testimony. The second thread is the introduction of a new adversarial podcast pairing (Blake Neff / Jeremy Boring), anchored by their promotional photo, their pre-release promo clip, a separate Bobby Saucelito prediction clip played and endorsed as "almost spot on" by the host, and a Jeremy Boring X post read on air. Two additional clusters are introduced: Woodbury Building / Baugh family / N88 plane framing (host-stated research only, no displayed artifact) and a midterm-electability commentary cluster anchored by four read-aloud X posts and a JD Vance video clip. Structurally, the episode's evidentiary center of mass is the Neff/Boring interview material; investigative structural importance lies in the new Sept 10 footage and the formally logged warrant-vs-testimony narrative shift.
+The episode advances two parallel threads. The first extends the host's ongoing scrutiny of the Sept 10 prosecution narrative by introducing footage artifacts displayed in the episode (parking garage stills depicting the "Maroon Boy" vehicle sitting at the top level for ~8 minutes, and TMZ timestamped 8:07 AM footage showing Robinson already parked off campus) and by formally logging the host's stated correction that prior-episode timeline data was sourced from the Sept 15 search warrant rather than Agent Hull's preliminary-hearing testimony. The second thread is the introduction of a new adversarial podcast pairing (Blake Neff / Jeremy Boring), anchored by their promotional photo, their pre-release promo clip, a separate Bobby Sausalito prediction clip played and endorsed as "almost spot on" by the host, and a Jeremy Boring X post read on air. Two additional clusters are introduced: Woodbury Building / Baugh family / N88 plane framing (host-stated research only, no displayed artifact) and a midterm-electability commentary cluster anchored by four read-aloud X posts and a JD Vance video clip. Structurally, the episode's evidentiary center of mass is the Neff/Boring interview material; investigative structural importance lies in the new Sept 10 footage and the formally logged warrant-vs-testimony narrative shift.
 
 ---
 
@@ -63,9 +63,9 @@ Confidence Level: High
 
 ---
 
-**A-2406** Bobby Saucelito Prediction Audio Bundle
+**A-2406** Bobby Sausalito Prediction Audio Bundle
 
-**A-2406.1** Audio clip of Bobby Saucelito delivering pre-release predictions about the Neff/Boring podcast, played on air
+**A-2406.1** Audio clip of Bobby Sausalito delivering pre-release predictions about the Neff/Boring podcast, played on air
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -633,11 +633,11 @@ Aliases: Miss Noble
 
 ---
 
-**N-914** Bobby Saucelito
+**N-914** Bobby Sausalito
 
 First named by the host at 00:00:46 in episode 155. Comedian and political commentator whose pre-release predictions about the Neff and Boreing podcast the host plays.
 
-Aliases: Bobby Saucelito; Bobby Sauce
+Aliases: Bobby Sausalito; Bobby Sauce
 
 *Related: C-11900, C-11901, C-11902*
 
@@ -684,36 +684,36 @@ Mentions: N-162
 
 Related Nodes:
 
-Investigative Direction: Obtain the full released episode and compare its content against Saucelito's pre-release predictions and the host's commentary.
+Investigative Direction: Obtain the full released episode and compare its content against Sausalito's pre-release predictions and the host's commentary.
 
 ---
 
-**C-3514** Saucelito Predicted Podcast Content Pre-Release
+**C-3514** Sausalito Predicted Podcast Content Pre-Release
 
 Claim Timestamp: 00:33:23–00:36:12
 
-Claim: Bobby Saucelito predicted, prior to release, that the Neff/Boring podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erica Kirk, Mikey McCoy, Frank Turk), and calls for lawsuits/jail time against the host.
+Claim: Bobby Sausalito predicted, prior to release, that the Neff/Boring podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erica Kirk, Mikey McCoy, Frank Turk), and calls for lawsuits/jail time against the host.
 
 Anchored Artifacts: A-2406.1
 Mentions: N-22, N-3, N-194, N-2, N-7
 
 Related Nodes:
 
-Investigative Direction: Compare Saucelito's specific predictions against the released episode segment-by-segment.
+Investigative Direction: Compare Sausalito's specific predictions against the released episode segment-by-segment.
 
 ---
 
-**C-3515** Host Concurs Saucelito's Predictions Were "Almost Spot On"
+**C-3515** Host Concurs Sausalito's Predictions Were "Almost Spot On"
 
 Claim Timestamp: 00:36:12
 
-Claim: The host explicitly concurs that Saucelito's pre-release predictions were "almost spot on" relative to the released promo clip.
+Claim: The host explicitly concurs that Sausalito's pre-release predictions were "almost spot on" relative to the released promo clip.
 
 Anchored Artifacts: A-2406.1, A-2407.1
 
 Related Nodes:
 
-Investigative Direction: Document the host's specific concurrence with each item of Saucelito's prediction list once the full episode is available.
+Investigative Direction: Document the host's specific concurrence with each item of Sausalito's prediction list once the full episode is available.
 
 ---
 
@@ -1628,11 +1628,11 @@ Investigative Direction: Locate Boreing's original post and the live-show clip i
 
 ---
 
-**C-11900** Saucelito Says Charlie Called Neff His Secret Weapon
+**C-11900** Sausalito Says Charlie Called Neff His Secret Weapon
 
 Claim Timestamp: 00:33:23
 
-Claim: In the clip the host plays, Bobby Saucelito says there is a reason Charlie called Blake Neff his secret weapon, joking that a weapon is supposed to damage the other person and not yourself.
+Claim: In the clip the host plays, Bobby Sausalito says there is a reason Charlie called Blake Neff his secret weapon, joking that a weapon is supposed to damage the other person and not yourself.
 
 Transcript Snippet: So, there's a reason Charlie called him his secret weapon.
 
@@ -1643,11 +1643,11 @@ Investigative Direction: Find any Kirk statement in which he called Neff a secre
 
 ---
 
-**C-11901** Saucelito Predicts Boreing Is Securing the Bag From Turning Point
+**C-11901** Sausalito Predicts Boreing Is Securing the Bag From Turning Point
 
 Claim Timestamp: 00:34:27
 
-Claim: In the clip the host plays, Saucelito predicts that Boreing wants to continue getting paid by Turning Point, so he needs to run cover for everything they say and rebrand their speakers.
+Claim: In the clip the host plays, Sausalito predicts that Boreing wants to continue getting paid by Turning Point, so he needs to run cover for everything they say and rebrand their speakers.
 
 Transcript Snippet: Germs wants to get paid by Turning Point.
 
@@ -1659,11 +1659,11 @@ Investigative Direction: Seek any contract, sponsorship or payment record betwee
 
 ---
 
-**C-11902** Host Says Saucelito Got Only the Motive Wrong, Saying Boreing Is Not Doing It for Money
+**C-11902** Host Says Sausalito Got Only the Motive Wrong, Saying Boreing Is Not Doing It for Money
 
 Claim Timestamp: 00:36:12
 
-Claim: The host says that the only thing Saucelito got wrong is that Boreing is not doing it for money, and that Boreing is a deranged man stalking her instead.
+Claim: The host says that the only thing Sausalito got wrong is that Boreing is not doing it for money, and that Boreing is a deranged man stalking her instead.
 
 Transcript Snippet: The only thing that he got wrong in that assessment is that he's not doing it for money.
 
@@ -2041,7 +2041,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** Transcript renders the podcaster's name inconsistently – "Blake Neff" in the show title and at 36:51; "Blake Nef" elsewhere in the transcript body (e.g., 00:46, 29:12, 33:23, 40:52); "Blake Snuff" appears as Bobby Saucelito's pronunciation/joke (33:23). Title spelling "Neff" used here pending verification.
+- **Name uncertainty:** Transcript renders the podcaster's name inconsistently – "Blake Neff" in the show title and at 36:51; "Blake Nef" elsewhere in the transcript body (e.g., 00:46, 29:12, 33:23, 40:52); "Blake Snuff" appears as Bobby Sausalito's pronunciation/joke (33:23). Title spelling "Neff" used here pending verification.
 - **Name uncertainty:** "Erica Kirk" appears as "Erika Kirk" at multiple points (e.g., 31:12, 36:12). Both spellings preserved where appearing.
 - **Name uncertainty:** "Officer Go forth" appears with varying spacing/capitalization (sometimes "Goforth"). Preserved as transcribed.
 - **Name uncertainty:** "Andrew Kolvit" appears as "Andrew Kulevit" / "Kulvit" at varying points. Preserved as transcribed.

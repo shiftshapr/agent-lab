@@ -83,7 +83,7 @@ Confidence: high
 Video Timestamp: 00:11:11
 Speaker: N-914
 Quote: he so desperately wanted to say yanking and baking right there
-Context: Bobby Saucelito, in the clip, jokes about Turek's phrase.
+Context: Bobby Sausalito, in the clip, jokes about Turek's phrase.
 Tags: turek, cpr
 Confidence: high
 
@@ -182,7 +182,7 @@ Confidence: high
 
 ## II. Executive Summary
 
-Episode 151 is a multi-segment episode anchored on the one-year anniversary of the September 10, 2025 event. The episode presents several new artifact families: enhanced footage of a figure (alleged to be Tyler Robinson) walking, texting, and bending the right foot; enhanced footage of Terrell Farnsworth in a Mercedes Sprinter van working on a laptop at approximately 1:00 PM; the Frank Turek / Jeremy Boreing interview segment (with overlaid Bobby Saucelito commentary) addressing the Frank Turek–Brian Harpole CPR discrepancy; and Alex Clark's trailer dropped on 9/10 invoking 2 Timothy 3:6-7 against Candace Owens.
+Episode 151 is a multi-segment episode anchored on the one-year anniversary of the September 10, 2025 event. The episode presents several new artifact families: enhanced footage of a figure (alleged to be Tyler Robinson) walking, texting, and bending the right foot; enhanced footage of Terrell Farnsworth in a Mercedes Sprinter van working on a laptop at approximately 1:00 PM; the Frank Turek / Jeremy Boreing interview segment (with overlaid Bobby Sausalito commentary) addressing the Frank Turek–Brian Harpole CPR discrepancy; and Alex Clark's trailer dropped on 9/10 invoking 2 Timothy 3:6-7 against Candace Owens.
 
 The episode also registers a cluster of Turning Point USA and adjacent social-media artifacts posted in response to the alleged September 13, 2026 vandalism of a Charlie Kirk statue at TPUSA headquarters, including statements from Andrew Kolvet, Tyler Bowyer, and Erica Kirk that pivot toward fundraising via TP Action's Commit 100 / ballot-chasing program. Candace rejects the partisan attribution and the fundraising pivot, and demands the release of on-campus surveillance footage.
 
@@ -276,9 +276,9 @@ Confidence Level: High
 
 ---
 
-### A-2368 Bobby Saucelito Instagram Commentary Clip (displayed)
+### A-2368 Bobby Sausalito Instagram Commentary Clip (displayed)
 
-**A-2368.1** Instagram segment by @take.naps (Bobby Saucelito) overlaid on the Frank Turek interview; commentary includes "you can't both be telling the truth," "it's an irrelevant consequence or an irrelevant u detail," and a false-binary critique of Turek's "doesn't impact who killed Charlie" framing.
+**A-2368.1** Instagram segment by @take.naps (Bobby Sausalito) overlaid on the Frank Turek interview; commentary includes "you can't both be telling the truth," "it's an irrelevant consequence or an irrelevant u detail," and a false-binary critique of Turek's "doesn't impact who killed Charlie" framing.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -855,7 +855,7 @@ First named by the host at 00:01:49 in episode 151 (spelled Harif, Hariff and He
 
 ---
 
-**N-914** Bobby Saucelito
+**N-914** Bobby Sausalito
 
 First named by the host at 00:07:25 in episode 151. Commentator (Instagram handle take.naps) whose clip about Turek the host plays.
 
@@ -986,15 +986,15 @@ Investigative Direction: Pull the full Boreing/Turek episode; compare to prior T
 
 ---
 
-**C-3434** Bobby Saucelito: "You can't both be telling the truth"
+**C-3434** Bobby Sausalito: "You can't both be telling the truth"
 
 Claim Timestamp: 00:11:11
 
-Claim: Bobby Saucelito, in the Instagram clip displayed by host, explicitly stated "you can't both be telling the truth" regarding Turek and Harpole, and critiqued Turek's "irrelevant detail" framing as a false binary.
+Claim: Bobby Sausalito, in the Instagram clip displayed by host, explicitly stated "you can't both be telling the truth" regarding Turek and Harpole, and critiqued Turek's "irrelevant detail" framing as a false binary.
 
 Anchored Artifacts: A-2368.1
 Related Nodes:
-Investigative Direction: Pull original Saucelito clip; verify quotation.
+Investigative Direction: Pull original Sausalito clip; verify quotation.
 
 ---
 
@@ -1112,11 +1112,11 @@ Investigative Direction: Note as host stance against displayed source; cross-ref
 
 ---
 
-**C-3444** Host concurs with Bobby Saucelito's interpretation of Turek contradiction
+**C-3444** Host concurs with Bobby Sausalito's interpretation of Turek contradiction
 
 Claim Timestamp: 00:11:11–00:14:18
 
-Claim: Host explicitly endorses Bobby Saucelito's framing that Turek's escalating list of euphemisms (discrepancy, incongruity, irrelevant detail, irrelevant consequence) is not a satisfying response to a documented contradiction, and rejects Turek's claim that the contradiction does not matter.
+Claim: Host explicitly endorses Bobby Sausalito's framing that Turek's escalating list of euphemisms (discrepancy, incongruity, irrelevant detail, irrelevant consequence) is not a satisfying response to a documented contradiction, and rejects Turek's claim that the contradiction does not matter.
 
 Anchored Artifacts: A-2368.1, A-2369.1
 Related Nodes:
@@ -1362,11 +1362,11 @@ Investigative Direction: Identify the court proceedings between the host and Bor
 
 ---
 
-**C-11771** Saucelito asks how Turek could do CPR from the trunk without Harpole noticing
+**C-11771** Sausalito asks how Turek could do CPR from the trunk without Harpole noticing
 
 Claim Timestamp: 00:11:11
 
-Claim: In the clip the host plays, Bobby Saucelito asks how Frank Turek could have given CPR if he was in the trunk, and how Brian Harpole would not remember him jumping over the seat to do it.
+Claim: In the clip the host plays, Bobby Sausalito asks how Frank Turek could have given CPR if he was in the trunk, and how Brian Harpole would not remember him jumping over the seat to do it.
 
 Transcript Snippet: If you were in the trunk, how did you do that? And how would Brian not remember you jumping over the seat to do it?
 

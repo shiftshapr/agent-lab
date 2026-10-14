@@ -261,7 +261,7 @@ Confidence Level: High
 
 **A-2931** Pierre Proof Claims Bundle
 
-**A-2931.1** Host verbal reference to unshown written proof that Justin Streiff and Erika Kirk lied about knowing Pierre, and to call records tying Pierre to Streiff and Don Oro (not shown)
+**A-2931.1** Host verbal reference to unshown written proof that Justin Streiff and Erika Kirk lied about knowing Pierre, and to call records tying Pierre to Streiff and Don Orrico (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:12:18
@@ -539,7 +539,7 @@ The host guesses that the donor Pierre is Pierre Falcone ('Falconee' in the tran
 
 **N-747** Ike Perlmutter
 
-Reused for the 'Ike Promoter' at Mar-a-Lago named by the host (transcribed form; identity unconfirmed).
+Ike Perlmutter, named by the host for the Mar-a-Lago fundraising meeting (confirmed by the HappyScribe transcript of Candace Ep 303 at 00:04:58).
 
 *Related: C-8379, C-8380*
 
@@ -763,7 +763,7 @@ Existing organization; the host's 'Schaefer security' in the transcript.
 
 **N-817** Don Orrico
 
-First named by the host at 00:13:09 in episode 70 as 'Mr. Don Oro of Turning Point USA down in Tampa'. Spelling unconfirmed.
+Named by the host at 00:13:09 in episode 70 as a Turning Point USA contact in Tampa. Florida-based major-gifts fundraiser (formerly Mackinac Center director of strategic partnerships); TPUSA role unconfirmed.
 
 *Related: C-8396*
 
@@ -989,7 +989,7 @@ Investigative Direction: Look for contemporaneous press accounts of the host's 2
 
 Claim Timestamp: 00:05:03
 
-Claim: The host says Charlie Kirk took a fundraising meeting in Florida with Ike Perlmutter (transcribed 'Ike Promoter') at Mar-a-Lago and did not want her to know about it, which was strange because they always took such meetings together.
+Claim: The host says Charlie Kirk took a fundraising meeting in Florida with Ike Perlmutter at Mar-a-Lago and did not want her to know about it, which was strange because they always took such meetings together.
 
 Transcript Snippet: Charlie had taken a meeting down in Florida with Ike Promoter at Mara Lago. It was a a fundraising meeting.
 
@@ -1260,7 +1260,7 @@ Investigative Direction: Obtain the host's documents on the deal; confirm Pierre
 
 Claim Timestamp: 00:13:09
 
-Claim: The host says Pierre had a phone call with Justin Streiff and another with Don Orrico (transcribed 'Don Oro'; HappyScribe 'Don O'Reco') of Turning Point USA down in Tampa.
+Claim: The host says Pierre had a phone call with Justin Streiff and another with Don Orrico of Turning Point USA down in Tampa.
 
 Transcript Snippet: Pierre had a phone call with Justin Strife. He also had a phone call uh with Mr. Don Oro of Turning Point USA down in Tampa.
 

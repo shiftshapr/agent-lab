@@ -186,7 +186,7 @@
           "@type": "Artifact",
           "@id": "A-2368.1",
           "ref": "A-2368.1",
-          "description": "Instagram segment by @take.naps (Bobby Saucelito) overlaid on the Frank Turek interview; commentary includes \"you can't both be telling the truth,\" \"it's an irrelevant consequence or an irrelevant u detail,\" and a false-binary critique of Turek's \"doesn't impact who killed Charlie\" framing.",
+          "description": "Instagram segment by @take.naps (Bobby Sausalito) overlaid on the Frank Turek interview; commentary includes \"you can't both be telling the truth,\" \"it's an irrelevant consequence or an irrelevant u detail,\" and a false-binary critique of Turek's \"doesn't impact who killed Charlie\" framing.",
           "related_claims": [
             "C-3434",
             "C-3444"
@@ -1443,7 +1443,7 @@
       "@type": "Person",
       "@id": "N-914",
       "ref": "N-914",
-      "name": "Bobby Saucelito",
+      "name": "Bobby Sausalito",
       "type": "person",
       "description": "First named by the host at 00:07:25 in episode 151. Commentator (Instagram handle take.naps) whose clip about Turek the host plays.",
       "related_artifacts": [],
@@ -1646,15 +1646,15 @@
       "@type": "Claim",
       "@id": "C-3434",
       "ref": "C-3434",
-      "label": "Bobby Saucelito: \"You can't both be telling the truth\"",
-      "claim": "Bobby Saucelito, in the Instagram clip displayed by host, explicitly stated \"you can't both be telling the truth\" regarding Turek and Harpole, and critiqued Turek's \"irrelevant detail\" framing as a false binary.",
+      "label": "Bobby Sausalito: \"You can't both be telling the truth\"",
+      "claim": "Bobby Sausalito, in the Instagram clip displayed by host, explicitly stated \"you can't both be telling the truth\" regarding Turek and Harpole, and critiqued Turek's \"irrelevant detail\" framing as a false binary.",
       "anchored_artifacts": [
         "A-2368.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:11:11",
-      "investigative_direction": "Pull original Saucelito clip; verify quotation."
+      "investigative_direction": "Pull original Sausalito clip; verify quotation."
     },
     {
       "@type": "Claim",
@@ -1817,8 +1817,8 @@
       "@type": "Claim",
       "@id": "C-3444",
       "ref": "C-3444",
-      "label": "Host concurs with Bobby Saucelito's interpretation of Turek contradiction",
-      "claim": "Host explicitly endorses Bobby Saucelito's framing that Turek's escalating list of euphemisms (discrepancy, incongruity, irrelevant detail, irrelevant consequence) is not a satisfying response to a documented contradiction, and rejects Turek's claim that the contradiction does not matter.",
+      "label": "Host concurs with Bobby Sausalito's interpretation of Turek contradiction",
+      "claim": "Host explicitly endorses Bobby Sausalito's framing that Turek's escalating list of euphemisms (discrepancy, incongruity, irrelevant detail, irrelevant consequence) is not a satisfying response to a documented contradiction, and rejects Turek's claim that the contradiction does not matter.",
       "anchored_artifacts": [
         "A-2368.1",
         "A-2369.1"
@@ -2157,8 +2157,8 @@
       "@type": "Claim",
       "@id": "C-11771",
       "ref": "C-11771",
-      "label": "Saucelito asks how Turek could do CPR from the trunk without Harpole noticing",
-      "claim": "In the clip the host plays, Bobby Saucelito asks how Frank Turek could have given CPR if he was in the trunk, and how Brian Harpole would not remember him jumping over the seat to do it.",
+      "label": "Sausalito asks how Turek could do CPR from the trunk without Harpole noticing",
+      "claim": "In the clip the host plays, Bobby Sausalito asks how Frank Turek could have given CPR if he was in the trunk, and how Brian Harpole would not remember him jumping over the seat to do it.",
       "anchored_artifacts": [
         "A-2368.1",
         "A-2369.1"
@@ -2959,7 +2959,7 @@
           "video_timestamp": "00:11:11",
           "speaker_node_ref": "N-914",
           "quote": "he so desperately wanted to say yanking and baking right there",
-          "context": "Bobby Saucelito, in the clip, jokes about Turek's phrase.",
+          "context": "Bobby Sausalito, in the clip, jokes about Turek's phrase.",
           "confidence": "high",
           "tags": [
             "turek",

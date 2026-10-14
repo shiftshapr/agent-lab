@@ -234,7 +234,7 @@
           "@type": "Artifact",
           "@id": "A-2931.1",
           "ref": "A-2931.1",
-          "description": "Host verbal reference to unshown written proof that Justin Streiff and Erika Kirk lied about knowing Pierre, and to call records tying Pierre to Streiff and Don Oro (not shown)",
+          "description": "Host verbal reference to unshown written proof that Justin Streiff and Erika Kirk lied about knowing Pierre, and to call records tying Pierre to Streiff and Don Orrico (not shown)",
           "related_claims": [
             "C-8393",
             "C-8394",
@@ -911,7 +911,7 @@
       "ref": "N-747",
       "name": "Ike Perlmutter",
       "type": "person",
-      "description": "Reused for the 'Ike Promoter' at Mar-a-Lago named by the host (transcribed form; identity unconfirmed).",
+      "description": "Ike Perlmutter, named by the host for the Mar-a-Lago fundraising meeting (confirmed by the HappyScribe transcript of Candace Ep 303 at 00:04:58).",
       "related_artifacts": [],
       "related_claims": [
         "C-8379",
@@ -1422,7 +1422,7 @@
       "ref": "N-817",
       "name": "Don Orrico",
       "type": "person",
-      "description": "First named by the host at 00:13:09 in episode 70 as 'Mr. Don Oro of Turning Point USA down in Tampa'. Spelling unconfirmed.",
+      "description": "Named by the host at 00:13:09 in episode 70 as a Turning Point USA contact in Tampa. Florida-based major-gifts fundraiser (formerly Mackinac Center director of strategic partnerships); TPUSA role unconfirmed.",
       "related_artifacts": [],
       "related_claims": [
         "C-8396"
@@ -1797,7 +1797,7 @@
       "@id": "C-8379",
       "ref": "C-8379",
       "label": "Host Says Charlie Met Ike Perlmutter at Mar-a-Lago in a Concealed Fundraising Meeting",
-      "claim": "The host says Charlie Kirk took a fundraising meeting in Florida with Ike Perlmutter (transcribed 'Ike Promoter') at Mar-a-Lago and did not want her to know about it, which was strange because they always took such meetings together.",
+      "claim": "The host says Charlie Kirk took a fundraising meeting in Florida with Ike Perlmutter at Mar-a-Lago and did not want her to know about it, which was strange because they always took such meetings together.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11185"
@@ -2183,7 +2183,7 @@
       "@id": "C-8396",
       "ref": "C-8396",
       "label": "Host Says Pierre Spoke by Phone With Justin Streiff and Don Orrico in Tampa",
-      "claim": "The host says Pierre had a phone call with Justin Streiff and another with Don Orrico (transcribed 'Don Oro'; HappyScribe 'Don O'Reco') of Turning Point USA down in Tampa.",
+      "claim": "The host says Pierre had a phone call with Justin Streiff and another with Don Orrico of Turning Point USA down in Tampa.",
       "anchored_artifacts": [
         "A-2931.1"
       ],

@@ -138,7 +138,7 @@ Confidence Level: High
 
 **A-2840.1** Viewer comment read aloud by the host about AZ Tech and E3 Tech holding DoD EMP contracts
 
-Quoted text: "Looking into Erika's mom's company, AZ Tech and E3 Tech, having contracts with the DoD for EMP hardening and the testing that is done at Fort Wuka."
+Quoted text: "Looking into Erika's mom's company, AZ Tech and E3 Tech, having contracts with the DoD for EMP hardening and the testing that is done at Fort Huachuca."
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 01:04:15

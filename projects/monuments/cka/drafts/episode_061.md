@@ -430,7 +430,7 @@ Investigative Pressure: Medium
 ---
 
 **N-10435** Fort Huachuca Erika Kirk Location Investigation
-Persistent allegation referenced in the cease and desist letter that Owens claims Erika Kirk was present at or near a "secret meeting" at Fort Wuka linked to the Kirk assassination.
+Persistent allegation referenced in the cease and desist letter that Owens claims Erika Kirk was present at or near a "secret meeting" at Fort Huachuca linked to the Kirk assassination.
 
 Evidence Count: 1
 Claim Count: 1
@@ -605,7 +605,7 @@ Existing topic reused for claims about Charlie's night-before messages.
 
 **N-10417** Fort Huachuca Erika Presence Investigation
 
-Existing topic reused for the host's requests about Erika Kirk's whereabouts (the letter's 'Fort Wuka' is this Fort Huachuca question).
+Existing topic reused for the host's requests about Erika Kirk's whereabouts (the letter's 'Fort Huachuca' is this Fort Huachuca question).
 
 *Related: C-11130, C-11131*
 
@@ -765,18 +765,18 @@ Investigative Direction: Compare the prohibited scope articulated in the letter 
 
 ---
 
-**C-2160** TPUSA alleges Owens accused employee of evasiveness re Erika Kirk at "Fort Wuka"
+**C-2160** TPUSA alleges Owens accused employee of evasiveness re Erika Kirk at "Fort Huachuca"
 
 Claim Timestamp: 00:13:00–00:14:10
 
-Claim: The TPUSA letter alleges that Owens accused a TPUSA employee of being "intentionally evasive" about whether Erica Kirk was at "Fort Wuka" in or around an alleged secret meeting Owens has linked to the assassination.
+Claim: The TPUSA letter alleges that Owens accused a TPUSA employee of being "intentionally evasive" about whether Erica Kirk was at "Fort Huachuca" in or around an alleged secret meeting Owens has linked to the assassination.
 
 Anchored Artifacts: A-1661.1
 Mentions: N-2
 
 Related Nodes: N-10435
 
-Investigative Direction: Identify the unnamed TPUSA employee, obtain the underlying correspondence, and verify whether any Fort Wuka meeting is independently documented.
+Investigative Direction: Identify the unnamed TPUSA employee, obtain the underlying correspondence, and verify whether any Fort Huachuca meeting is independently documented.
 
 ---
 
@@ -1345,7 +1345,7 @@ Investigative Direction: Ask the host which individuals she means and what docum
 
 Claim Timestamp: 00:13:19
 
-Claim: The host says she requested the Fort 'Wuka' confirmation multiple times over weeks and each time was given an excuse, including that Erika Kirk was busy and then appeared at a game.
+Claim: The host says she requested the Fort 'Huachuca' confirmation multiple times over weeks and each time was given an excuse, including that Erika Kirk was busy and then appeared at a game.
 
 Transcript Snippet: I said that I requested this multiple times over weeks and each time I was given an excuse.
 

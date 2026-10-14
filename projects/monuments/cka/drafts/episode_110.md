@@ -37,7 +37,7 @@
 
 ## II. Executive Summary
 
-This episode presents the host's announcement that Bradley Hansel, the Under Secretary of War for Intelligence and Security, has been identified as a VIP aboard the Air Force designation SAM702 on the morning of September 9, 2025, departing Fort Huachuca (transcribed as "Fort Wuka") for El Paso, Texas. Hansel's prior career at the Boston Consulting Group (BCG) is positioned alongside the host's prior assertions that Mitt Romney and Benjamin Netanyahu both worked at BCG, and Bain Capital was seeded by Robert Maxwell.
+This episode presents the host's announcement that Bradley Hansel, the Under Secretary of War for Intelligence and Security, has been identified as a VIP aboard the Air Force designation SAM702 on the morning of September 9, 2025, departing Fort Huachuca (transcribed as "Fort Huachuca") for El Paso, Texas. Hansel's prior career at the Boston Consulting Group (BCG) is positioned alongside the host's prior assertions that Mitt Romney and Benjamin Netanyahu both worked at BCG, and Bain Capital was seeded by Robert Maxwell.
 
 The host reads at length from a website summarizing Financial Times reporting on BCG's "Project Aurora" – a consultancy for the Gaza Humanitarian Foundation that produced relocation models for Palestinians (totaling $2.5–5 billion) – and references a Times of Israel article on Johnny Moore's appointment to chair the foundation after Jake Wood's resignation and BCG's withdrawal. A displayed connection graphic and an internal working timeline (June–September 2025) accompany the discussion, the latter anchoring dates such as Erika Kirk's June 19 Instagram purge of 126 posts and Palantir's July 30 announcement of a $10B military software deal with Fort Huachuca stationing. Mitt Romney's June 16, 1968 France car crash is presented via a NYT article, and a viewer comment referencing Romney's "Pierre Deleto" burner X account is read.
 
@@ -127,7 +127,7 @@ Confidence Level: High (government source)
 
 **A-2080.1** Article (host references "elsewhere"): $10B Palantir military software enterprise deal and stationing at Fort Huachuca
 
-Host reads/quote-marks: "Big shakeup in software buying practices starting with a new $10 billion enterprise deal with Palantir. And it tells us elsewhere that they will be moving on to Fort Wuka's base."
+Host reads/quote-marks: "Big shakeup in software buying practices starting with a new $10 billion enterprise deal with Palantir. And it tells us elsewhere that they will be moving on to Fort Huachuca's base."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -741,7 +741,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-1. **Name uncertainty – "Fort Wuka" / "Fort Huachuca":** Host consistently transcribes Fort Huachuca as "Fort Wuka." Preserved as "Fort Wuka" where quoting host; standard spelling used elsewhere.
+1. **Name uncertainty – "Fort Huachuca" / "Fort Huachuca":** Host consistently transcribes Fort Huachuca as "Fort Huachuca." Preserved as "Fort Huachuca" where quoting host; standard spelling used elsewhere.
 
 2. **Name uncertainty – "Pete Hexath" / "Pete Hexths":** Host transcribes Pete Hegseth as "Pete Hexath" / "Pete Hexths." Preserved with flag; standard spelling Pete Hegseth used for node name with notation.
 
