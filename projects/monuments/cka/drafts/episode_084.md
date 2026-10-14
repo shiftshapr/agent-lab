@@ -14,8 +14,8 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep084): N-10582, N-10631, N-10641
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-608, N-609, N-610, N-611, N-612, N-10903, N-10904, N-10906
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-11, N-14, N-15, N-30, N-40, N-60, N-82, N-107, N-190, N-194, N-213, N-215, N-221, N-248, N-251, N-272, N-337, N-369, N-504, N-563, N-10000, N-10074, N-10108, N-10186, N-10203, N-10212, N-10367, N-10373, N-10378, N-10450, N-10478, N-10479, N-10483, N-10496, N-10508, N-10547, N-10548, N-10551, N-10554, N-10560, N-10905, N-10587
+  - Tip-minted Nodes (skeleton): N-607, N-608, N-609, N-610, N-611, N-10903, N-10904, N-10906
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-11, N-14, N-15, N-30, N-40, N-60, N-82, N-107, N-190, N-194, N-213, N-215, N-221, N-248, N-251, N-272, N-337, N-369, N-504, N-562, N-10000, N-10074, N-10108, N-10186, N-10203, N-10212, N-10367, N-10373, N-10378, N-10450, N-10478, N-10479, N-10483, N-10496, N-10508, N-10547, N-10548, N-10551, N-10554, N-10560, N-10905, N-10587
   - Claim Range: C-3777–C-3826
   - (see registers)
 
@@ -42,7 +42,7 @@ Video Timestamp: 00:02:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3779, C-3780, C-3781, N-609, N-2, N-10108, N-10074*
+*Related: C-3779, C-3780, C-3781, N-608, N-2, N-10108, N-10074*
 
 ---
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:12:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3785, C-3792, C-3793, C-3794, C-3795, C-3796, C-3797, C-3798, C-3799, N-14, N-504, N-563, N-15, N-10547*
+*Related: C-3785, C-3792, C-3793, C-3794, C-3795, C-3796, C-3797, C-3798, C-3799, N-14, N-504, N-562, N-15, N-10547*
 
 ---
 
@@ -176,7 +176,7 @@ Video Timestamp: 00:27:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3809, N-608, N-2*
+*Related: C-3809, N-607, N-2*
 
 **A-2533.2** Grok reply on X identifying Erika Kirk as the actress in the skit
 
@@ -196,7 +196,7 @@ Video Timestamp: 00:30:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3811, N-107, N-608*
+*Related: C-3811, N-107, N-607*
 
 **A-2533.4** Andrew Kolvet comment on the skit
 
@@ -222,7 +222,7 @@ Video Timestamp: 00:31:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3813, N-612, N-10000*
+*Related: C-3813, N-611, N-10000*
 
 ---
 
@@ -303,8 +303,7 @@ Transcript spelling "Andrew Kolb" / "Andrew Kolvets". The host theorizes he flew
 
 *Related: C-3780, C-3781, C-3782, C-3783, C-3784, C-3785, C-3786, C-3787, C-3788, C-3789, C-3790, C-3792, C-3795, C-3800, C-3812, C-3814, C-3822, A-2526.1, A-2526.2, A-2527.1, A-2528.1, A-2533.4*
 
-**N-15** Justin Strife
-
+**N-15** Justin Streiff
 Transcript spelling "Justin Stripe". Placed on the host's timeline as sending the staff-wide death email at 2:27.
 
 *Related: C-3796, A-2528.1*
@@ -405,37 +404,37 @@ Transcript spelling "Marina Medvin". Placed on the timeline as asking Aubrey to 
 
 *Related: C-3795, A-2528.1*
 
-**N-563** Aubrey Lech
+**N-562** Aubrey Lech
 
 Named only as "Aubrey"; drafted the death statement and staff email per the host's timeline.
 
 *Related: C-3795, C-3796, A-2528.1*
 
-**N-608** Druski
+**N-607** Druski
 
 First named by the host at 00:00:46 in episode 084. Comedian whose viral skit mocking conservative women is played. Aliases: Drewski; Drew Ski; Jurski.
 
 *Related: C-3809, C-3811, A-2533.1, A-2533.3*
 
-**N-609** Sergeant Dupey
+**N-608** Sergeant Dupey
 
 First named by the host at 00:01:24 in episode 084. Provo police sergeant named on the September 10 scanner recording as en route to Provo Airport for the victim's wife.
 
 *Related: C-3779, A-2525.1*
 
-**N-610** Jamie (Charlie Kirk's pilot)
+**N-609** Jamie (Charlie Kirk's pilot)
 
 First named by the host at 00:11:05 in episode 084. Known to the host only by first name; possibly from Texas.
 
 *Related: C-3791*
 
-**N-611** Katherine Locastro
+**N-610** Katherine Locastro
 
 First named by the host at 00:14:28 in episode 084. Named among those escorted to Timpanogos Hospital and entering with Erika Kirk. Aliases: Cat.
 
 *Related: C-3799, C-3800*
 
-**N-612** Scott Bessent
+**N-611** Scott Bessent
 
 First named by the host at 00:31:19 in episode 084. Host says he issued a letter stating Turning Point is in great financial standing.
 
@@ -597,7 +596,7 @@ Investigation target: a plane with tail number N582MM, which Baron Coleman says 
 Node Type: Topic
 Investigation target: the identity of Charlie Kirk's pilot, known to the host only as "Jamie" and possibly from Texas, whom the host considers a crucial unidentified witness to the September 10 flights.
 
-*Related: C-3791, N-610, N-1*
+*Related: C-3791, N-609, N-1*
 
 **N-10905** New York Times Erika Kirk Interview Account Discrepancies
 
@@ -656,7 +655,7 @@ Claim: According to a September 10 Provo police scanner recording played by the 
 Transcript Snippet: Uh myself and Sergeant Dupey are uh in route to Provo Airport. Uh victim's wife is arriving at 3:30.
 
 Anchored Artifacts: A-2525.1
-Mentions: N-609, N-2
+Mentions: N-608, N-2
 Related Nodes: N-10108, N-10074, N-10560
 Investigative Direction: Obtain the archived Provo Police Department radio traffic for September 10, 2025 and the dispatch/CAD log for the airport pickup, and confirm the identity of Sergeant Dupey.
 
@@ -842,7 +841,7 @@ Transcript Snippet: I know that his first name is Jamie, but that's all I know. 
 
 Anchored Artifacts: 
 
-Mentions: N-610, N-1
+Mentions: N-609, N-1
 Related Nodes: N-10904
 Investigative Direction: Identify the charter operator of Charlie Kirk's aircraft and its pilot roster for September 10, 2025.
 
@@ -902,7 +901,7 @@ Claim: The host says Marina Medvin asked Aubrey to draft the death statement and
 Transcript Snippet: Then we know that Marina Medvin is going to ask Aubrey to draft the death death statement. She says that Andrew is on a plane.
 
 Anchored Artifacts: A-2528.1
-Mentions: N-504, N-563, N-14
+Mentions: N-504, N-562, N-14
 Related Nodes: N-10554, N-10000
 Supports: C-2535
 Investigative Direction: Obtain the TPUSA PR group chat messages with timestamps from September 10, 2025.
@@ -918,7 +917,7 @@ Claim: The host says Justin Strife sent the email drafted by Aubrey announcing C
 Transcript Snippet: Justin Stripe is going to send the email that was drafted by Aubrey announcing Charlie's death to the entire Turning Point USA staff staff at 2:27.
 
 Anchored Artifacts: A-2528.1
-Mentions: N-15, N-563, N-1
+Mentions: N-15, N-562, N-1
 Related Nodes: N-10000
 Investigative Direction: Obtain the staff-wide email with header timestamps.
 
@@ -963,7 +962,7 @@ Claim: The host says the police scanner indicates Erika Kirk, Elizabeth (McCoy),
 Transcript Snippet: from the police scanner that Erika, Elizabeth, and Tyler, and Stacy Sheridan, and Cat are going to be escorted to Timpanogos Hospital.
 
 Anchored Artifacts: A-2528.1
-Mentions: N-2, N-221, N-11, N-190, N-611
+Mentions: N-2, N-221, N-11, N-190, N-610
 Related Nodes: N-10108, N-10582
 Investigative Direction: Obtain the full scanner recording and police escort logs for the hospital transfer.
 
@@ -979,7 +978,7 @@ Transcript Snippet: I believe she then lands on that 4:36 plane from Santa Barba
 
 Anchored Artifacts: 
 
-Mentions: N-14, N-2, N-221, N-190, N-611, N-11
+Mentions: N-14, N-2, N-221, N-190, N-610, N-11
 Related Nodes: N-10554, N-10560
 Investigative Direction: Obtain the 4:36 Santa Barbara-to-Provo flight manifest and hospital entrance footage or visitor logs.
 
@@ -1117,7 +1116,7 @@ Claim: The host plays a viral skit by comedian Druski which she says mocks conse
 Transcript Snippet: Here is Drew Ski Drew Ski uh mocking conservative women, namely Erika Kirk.
 
 Anchored Artifacts: A-2533.1
-Mentions: N-608, N-2
+Mentions: N-607, N-2
 Investigative Direction: Archive the original skit post with its date and view counts.
 
 ---
@@ -1145,7 +1144,7 @@ Claim: The host says Ted Cruz tweeted that the Druski skit was "beneath contempt
 Transcript Snippet: Ted Cruz tweeted that this was beneath contempt.
 
 Anchored Artifacts: A-2533.3
-Mentions: N-107, N-608
+Mentions: N-107, N-607
 Investigative Direction: Archive Ted Cruz's post with its exact wording and date.
 
 ---
@@ -1173,7 +1172,7 @@ Claim: The host says TPUSA was able to get Scott Bessent to issue a letter stati
 Transcript Snippet: You can get Scott Bessent to issue a letter and say, "Turning Point is in great financial standing."
 
 Anchored Artifacts: A-2534.1
-Mentions: N-612
+Mentions: N-611
 Related Nodes: N-10000, N-10212
 Investigative Direction: Locate the letter, its date, its author and the Treasury or personal capacity in which it was issued.
 
@@ -1423,8 +1422,8 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2529.1 (TPUSA cease and desist), A-2531.1 (Erika Kirk's Instagram video of her mother), A-2534.1 (Scott Bessent letter) and A-2536.1 (online piece and insurance claim about the host's husband; the host says it will be shown next week).
 - **Date discrepancy**: the host dates Erika Kirk's frail-mother Instagram post to September 8 ("2 days before"), while prior claim C-2284 and node N-10479 date it September 7. C-3803 is linked as Supports C-2284 on the shared proposition; the date difference is preserved.
-- **Name matching**: "Elizabeth McCord" (19:56, 20:52) and "Elizabeth McCoy" (15:29) are both mapped to N-221 Eliza McCoy (alias Elizabeth McCoy). The context (the airport story and Mikey McCoy's wife) indicates the same person, but McCord may be a transcription error. "Cat" (14:28) and "Katherine Locastro" (15:29) are treated as one new person, N-611. Episodes 083, 085 and 086 spell her LoCastro, LaCastro and Low Castro, but she has no row in nodes.tsv, so the integrator should dedupe. "Marina Medvin" is matched to N-504 Marina (TPUSA CMO) through its alias.
-- **Transcription ambiguities**: The comedian is spelled "Drewski", "Drew Ski" and "Jurski"; these are kept as written and aliased to N-608 Druski. Kolvet appears as "Andrew Kolb" and "Andrew Kolvets". The tail number is first read as "N28 9 MM" and then corrected on air to N582MM. The scanner line "2J436 436" is a unit or cruiser identifier per the host. "Sergeant Dupey" spelling is unverified.
+- **Name matching**: "Elizabeth McCord" (19:56, 20:52) and "Elizabeth McCoy" (15:29) are both mapped to N-221 Eliza McCoy (alias Elizabeth McCoy). The context (the airport story and Mikey McCoy's wife) indicates the same person, but McCord may be a transcription error. "Cat" (14:28) and "Katherine Locastro" (15:29) are treated as one new person, N-610. Episodes 083, 085 and 086 spell her LoCastro, LaCastro and Low Castro, but she has no row in nodes.tsv, so the integrator should dedupe. "Marina Medvin" is matched to N-504 Marina (TPUSA CMO) through its alias.
+- **Transcription ambiguities**: The comedian is spelled "Drewski", "Drew Ski" and "Jurski"; these are kept as written and aliased to N-607 Druski. Kolvet appears as "Andrew Kolb" and "Andrew Kolvets". The tail number is first read as "N28 9 MM" and then corrected on air to N582MM. The scanner line "2J436 436" is a unit or cruiser identifier per the host. "Sergeant Dupey" spelling is unverified.
 - **Timing ambiguity**: the host says Kolvet was "on the flight that landed at 4:30 p. m." (05:56) but elsewhere says "about 4:40 p. m." (02:15) and "4:36 plane" (14:28). All are preserved as spoken.
 - **Not inscribed as claims (admission test)**: Several statements fail falsifiability or rhetoric removal:
   - "Erika's always lying"

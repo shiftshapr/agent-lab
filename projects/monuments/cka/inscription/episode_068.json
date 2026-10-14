@@ -104,7 +104,7 @@
             "C-2286"
           ],
           "related_nodes": [
-            "N-553",
+            "N-552",
             "N-10480",
             "N-10484"
           ],
@@ -195,7 +195,7 @@
             "C-2290"
           ],
           "related_nodes": [
-            "N-548",
+            "N-547",
             "N-10484"
           ],
           "tags": [],
@@ -214,8 +214,8 @@
             "C-2291"
           ],
           "related_nodes": [
-            "N-548",
-            "N-549"
+            "N-547",
+            "N-548"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -241,7 +241,7 @@
             "C-2292"
           ],
           "related_nodes": [
-            "N-550"
+            "N-549"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -348,9 +348,9 @@
             "C-2296"
           ],
           "related_nodes": [
-            "N-551",
-            "N-555",
-            "N-556"
+            "N-550",
+            "N-554",
+            "N-555"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -376,7 +376,7 @@
             "C-2297"
           ],
           "related_nodes": [
-            "N-552"
+            "N-551"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -533,8 +533,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-548",
-      "ref": "N-548",
+      "@id": "N-547",
+      "ref": "N-547",
       "name": "Gorg Fastbinder",
       "type": "person",
       "description": "German geophysicist (Bavarian State Conservation Office, Munich) credited in the episode with discovering Gilgamesh's tomb via magnetic mapping between May 2002 and early 2003; subject of BBC follow-up coverage.",
@@ -554,8 +554,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-549",
-      "ref": "N-549",
+      "@id": "N-548",
+      "ref": "N-548",
       "name": "Helmut Becker",
       "type": "person",
       "description": "German geophysicist working alongside Gorg Fastbinder on the magnetic-mapping survey that located the Gilgamesh tomb site.",
@@ -630,7 +630,7 @@
       "@type": "Person",
       "@id": "N-15",
       "ref": "N-15",
-      "name": "Justin Strife",
+      "name": "Justin Streiff",
       "type": "person",
       "description": "TPUSA-affiliated intermediary; sent text messages to the host stating Erika's mother was very sick; per host, also revised the location of Erika's sighting from \"basketball game\" to \"football game.\"",
       "related_artifacts": [
@@ -669,8 +669,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-550",
-      "ref": "N-550",
+      "@id": "N-549",
+      "ref": "N-549",
       "name": "Colin Powell",
       "type": "person",
       "description": "Former U.S. Secretary of State; subject of Feb 5, 2003 UN Security Council address cited in the episode.",
@@ -688,8 +688,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-551",
-      "ref": "N-551",
+      "@id": "N-550",
+      "ref": "N-550",
       "name": "William Stevenson",
       "type": "person",
       "description": "77-year-old Wilmington resident, ex-husband of Jill Biden (1970–1975); indicted for first-degree murder of his ex-wife per news referenced in episode.",
@@ -705,14 +705,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-555",
-        "N-556"
+        "N-554",
+        "N-555"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-552",
-      "ref": "N-552",
+      "@id": "N-551",
+      "ref": "N-551",
       "name": "Kevin Sorbo",
       "type": "person",
       "description": "Actor referenced via tweet about leaving Hollywood because participants were pedophiles.",
@@ -730,8 +730,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-553",
-      "ref": "N-553",
+      "@id": "N-552",
+      "ref": "N-552",
       "name": "Robkea",
       "type": "person",
       "description": "Researcher cited in viewer email; per email, his work documents Gilgamesh/Nimrod tomb discovery, museum raid, and missing Nephilim/resurrection tablets.",
@@ -753,8 +753,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-554",
-      "ref": "N-554",
+      "@id": "N-553",
+      "ref": "N-553",
       "name": "Bella Hadid",
       "type": "person",
       "description": "Public figure referenced re: Lyme disease treatment options overseas.",
@@ -791,8 +791,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-555",
-      "ref": "N-555",
+      "@id": "N-554",
+      "ref": "N-554",
       "name": "Amber Thurman (Victim in Stevenson case)",
       "type": "person",
       "description": "Per host's read of article, the ex-wife of William Stevenson whose body was found unresponsive in the living room (Stevenson indicted for first-degree murder).",
@@ -808,13 +808,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-551"
+        "N-550"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-556",
-      "ref": "N-556",
+      "@id": "N-555",
+      "ref": "N-555",
       "name": "Jill Biden",
       "type": "person",
       "description": "Subject of William Stevenson connection (Stevenson was her ex-husband, 1970–1975); declined to comment per host's read.",
@@ -830,7 +830,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-551"
+        "N-550"
       ]
     },
     {
@@ -923,7 +923,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-553"
+        "N-552"
       ]
     },
     {
@@ -993,7 +993,7 @@
       "related_nodes": [
         "N-500",
         "N-15",
-        "N-554"
+        "N-553"
       ]
     },
     {
@@ -1017,7 +1017,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-553"
+        "N-552"
       ]
     },
     {
@@ -1192,8 +1192,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-546",
-      "ref": "N-546",
+      "@id": "N-545",
+      "ref": "N-545",
       "name": "Alan Dershowitz",
       "type": "person",
       "description": "Transcribed 'Duruit' in the moderator comment read on air.",
@@ -1226,8 +1226,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-509",
-      "ref": "N-509",
+      "@id": "N-508",
+      "ref": "N-508",
       "name": "Bassem Youssef",
       "type": "person",
       "description": "Transcribed 'Bassim Ysef'; subject of a remark in the Shapiro clip.",
@@ -1639,7 +1639,7 @@
       "claim_timestamp": "00:05:54",
       "investigative_direction": "Locate Robkea's published work (\"Babylon Rising\" et al.) and verify each factual component independently.",
       "mentions_person_refs": [
-        "N-553"
+        "N-552"
       ]
     },
     {
@@ -1707,7 +1707,7 @@
       "claim_timestamp": "00:09:00",
       "investigative_direction": "Locate the specific BBC report and confirm date.",
       "mentions_person_refs": [
-        "N-548"
+        "N-547"
       ]
     },
     {
@@ -1724,8 +1724,8 @@
       "claim_timestamp": "00:07:30",
       "investigative_direction": "Locate primary publications or institutional releases confirming the timeline.",
       "mentions_person_refs": [
-        "N-548",
-        "N-549"
+        "N-547",
+        "N-548"
       ]
     },
     {
@@ -1742,7 +1742,7 @@
       "claim_timestamp": "00:09:03",
       "investigative_direction": "Reference the UN Security Council record / transcript.",
       "mentions_person_refs": [
-        "N-550"
+        "N-549"
       ]
     },
     {
@@ -1817,8 +1817,8 @@
       "claim_timestamp": "00:46:39",
       "investigative_direction": "Verify via Delaware court records and contemporaneous news coverage.",
       "mentions_person_refs": [
-        "N-551",
-        "N-556"
+        "N-550",
+        "N-555"
       ]
     },
     {
@@ -1835,7 +1835,7 @@
       "claim_timestamp": "00:44:50",
       "investigative_direction": "Locate the tweet and verify exact wording and date.",
       "mentions_person_refs": [
-        "N-552"
+        "N-551"
       ]
     },
     {
@@ -1848,7 +1848,9 @@
         "A-3045.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:03:21",
       "investigative_direction": "Identify the original 2001 broadcast and the FBI statement on the passport.",
       "transcript_snippet": "the FBI announcing that it has found the passport of one of the hijackers who were on who was on board one of those two planes that hit the Twin Towers on Tuesday morning"
@@ -1863,7 +1865,9 @@
       "related_nodes": [
         "N-10480"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:04:56",
       "investigative_direction": "Compare scholarly sources on any Gilgamesh and Nimrod identification.",
       "transcript_snippet": "the epic of Gilgamesh of Aruk understood to be actually the story of Nimrod in the Bible"
@@ -1879,7 +1883,9 @@
         "N-10481",
         "N-10480"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:09:03",
       "investigative_direction": "Compare the coordinates of the Fastbinder survey with the coalition camp at Babylon.",
       "transcript_snippet": "they happen to make their b their military base at that exact location",
@@ -1887,7 +1893,7 @@
         "C-2290"
       ],
       "mentions_person_refs": [
-        "N-548"
+        "N-547"
       ]
     },
     {
@@ -1900,7 +1906,9 @@
       "related_nodes": [
         "N-10481"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:10:00",
       "investigative_direction": "Check Camp Alpha records and the 2005 British Museum report on its siting.",
       "transcript_snippet": "set up our military base, Camp Alpha, right on top of ancient Babylon",
@@ -1919,7 +1927,9 @@
         "N-10480",
         "N-10481"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:11:55",
       "investigative_direction": "Locate the original reports by Iraqi locals or archaeologists describing night digging.",
       "transcript_snippet": "Locals reported that at night Americans were digging and they were extracting in military operations."
@@ -1932,7 +1942,9 @@
       "claim": "The host says that in Masonic tradition Nimrod is considered the first grandmaster, even before Solomon, and that Freemasons revere him.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:13:08",
       "investigative_direction": "Check Masonic sources such as the Old Charges for Nimrod's role.",
       "transcript_snippet": "In Masonic tradition, Nimrod is considered to be the first grandmaster even before Solomon."
@@ -1947,7 +1959,9 @@
       "related_nodes": [
         "N-10480"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:14:09",
       "investigative_direction": "Locate the State Department FOIA log entry and the requester.",
       "transcript_snippet": "there was this still never quite explained FOIA request that went through um to the state department requesting documents pertaining to the resurrection chamber of Gilgamesh"
@@ -1963,7 +1977,9 @@
         "N-10000",
         "N-10197"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:33",
       "investigative_direction": "Document the military service records of TPUSA staff and associates.",
       "transcript_snippet": "I said I don't know when turning point just became a literal military operation, but indeed it did.",
@@ -1981,7 +1997,9 @@
       "related_nodes": [
         "N-10197"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:12",
       "investigative_direction": "Verify any military service or contracting history for Erika Kirk and Lori Frantzve.",
       "transcript_snippet": "All these people with very strong ties to the military. Um, his wife included, right? Uh, her mother in particular.",
@@ -2001,7 +2019,9 @@
         "N-10440",
         "N-10441"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:12",
       "investigative_direction": "Pull Secretary of State filings for every entity listing Lori Frantzve as officer or agent.",
       "transcript_snippet": "she has a number of LLC's. And when I say a number, I mean it it's almost incalculable the amount of LLC's",
@@ -2022,7 +2042,9 @@
         "N-10922",
         "N-10653"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:16",
       "investigative_direction": "Check board and officer records for Superfeed and related TPUSA vendors.",
       "transcript_snippet": "her mother sits on the board of companies related to Turning Point USA, despite the fact that her mother is involved with sort of the geo fencing",
@@ -2041,7 +2063,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:16",
       "investigative_direction": "Ask TPUSA staff and Bowyer about their dealings with Lori Frantzve.",
       "transcript_snippet": "Actually, if you ask people at Turning Point USA, they don't know her mother.",
@@ -2059,7 +2083,9 @@
       "claim": "The host says Erika's mother was present next to Erika in 2015 when Erika was standing behind Trump.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:22:16",
       "investigative_direction": "Find 2015 event photos showing Erika and her mother behind Trump.",
       "transcript_snippet": "her mother was, you know, present next to Erika in 2015 when she was standing behind Trump",
@@ -2076,7 +2102,9 @@
       "claim": "The host says that when she met Erika, the only time she sensed very strong emotion from her was when her mother was mentioned.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:16",
       "investigative_direction": "Compare with the host's earlier accounts of the private meeting with Erika.",
       "transcript_snippet": "that was the only time that I sensed very strong emotion from her was in mentioning her mother",
@@ -2097,7 +2125,9 @@
         "N-10000",
         "N-10479"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:34",
       "investigative_direction": "Confirm the date of Erika's first CEO Zoom with TPUSA announcements.",
       "transcript_snippet": "December 16th 10 as actually when she hosted her first Zoom call with um as the new CEO and chairman",
@@ -2116,7 +2146,9 @@
         "N-10478",
         "N-10482"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:21",
       "investigative_direction": "Obtain the account of the parking lot collapse and the name of the facility.",
       "transcript_snippet": "We know that they had a very brief call a couple of minutes and then we are told that she left her mother who was receiving a medical treatment and then she collapsed in the parking lot.",
@@ -2139,7 +2171,9 @@
       "related_nodes": [
         "N-10482"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:21",
       "investigative_direction": "Find the original source of the claim that Charlie trained McCoy on emergency calls.",
       "transcript_snippet": "So much for that training that Charlie allegedly gave him.",
@@ -2161,7 +2195,9 @@
       "related_nodes": [
         "N-10477"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:21",
       "investigative_direction": "Obtain the full Strife thread with timestamps.",
       "transcript_snippet": "when I was contacting Justin Strife trying to figure out what Erika was doing on September 8th just wanting some sort of an alibi and it kept getting delayed",
@@ -2186,7 +2222,9 @@
       "related_nodes": [
         "N-10478"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:21",
       "investigative_direction": "Examine any images in the Strife messages and their metadata.",
       "transcript_snippet": "I can confirm at the messages that he sent me certainly the lighting does not look like she is in a hospital.",
@@ -2206,7 +2244,9 @@
       "related_nodes": [
         "N-10483"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:11",
       "investigative_direction": "Verify any Charlie-funded European medical trips for Lori Frantzve.",
       "transcript_snippet": "he was flying out her mother to do treatments for Lyme disease overseas because there was better treatment in Europe options available",
@@ -2228,7 +2268,9 @@
         "N-10477",
         "N-10473"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:00",
       "investigative_direction": "Obtain clinic records or witness accounts for September 8 visits.",
       "transcript_snippet": "on September 8th, we can pull up the timeline here, that Charlie Charlie took Erika's mother for a treatment for Lyme disease at a clinic. I have the address, the name of the clinic.",
@@ -2249,7 +2291,9 @@
       "related_nodes": [
         "N-10483"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:28:00",
       "investigative_direction": "Ask the clinic about its typical session length.",
       "transcript_snippet": "I am told that these treatments last between one to two hours.",
@@ -2268,7 +2312,9 @@
         "N-10397",
         "N-10473"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:00",
       "investigative_direction": "Obtain flight and landing records for the return from Asia.",
       "transcript_snippet": "Charlie came back from Korea and Tokyo, his trip very late, almost early morning on September 8th, very late on the 7th.",
@@ -2286,7 +2332,9 @@
       "related_nodes": [
         "N-10473"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:33",
       "investigative_direction": "Check the Sept 8 show metadata and studio location.",
       "transcript_snippet": "he's at home when he appears uh in his home studio for the Charlie Kirk show. He does not go to the office on this day",
@@ -2304,7 +2352,9 @@
       "related_nodes": [
         "N-10473"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:33",
       "investigative_direction": "Reconstruct Charlie's Sept 8 schedule against that window.",
       "transcript_snippet": "this treatment having to have taken place between 12 and 3:30.",
@@ -2323,7 +2373,9 @@
       "related_nodes": [
         "N-10477"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:33",
       "investigative_direction": "Obtain Turek's original statement and its date.",
       "transcript_snippet": "because of Frank Turk's statement where he says Charlie was dealing with the kids",
@@ -2344,7 +2396,9 @@
         "N-10477",
         "N-10521"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:33",
       "investigative_direction": "Interview residents and review building access records.",
       "transcript_snippet": "I can't find a single person in this complex that they live that can verify that they saw Erika on this day and they know her.",
@@ -2363,7 +2417,9 @@
         "N-10435",
         "N-10472"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:53",
       "investigative_direction": "Find where Erika or TPUSA stated the dinner account.",
       "transcript_snippet": "Erika says that she made Charlie dinner that has been the the alibi for Fort Wuka.",
@@ -2383,7 +2439,9 @@
         "N-10477",
         "N-10435"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:53",
       "investigative_direction": "Locate independent evidence of Erika's Sept 8 location.",
       "transcript_snippet": "It is pointing to uh the possibility that Erika was just not there on the ETH at all.",
@@ -2402,7 +2460,9 @@
       "related_nodes": [
         "N-10477"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:53",
       "investigative_direction": "Obtain the thread and identify the fan sighting.",
       "transcript_snippet": "And then it was like, \"Oh, oh yeah, a was it a football game, Skyler? A football game.\"",
@@ -2423,7 +2483,9 @@
         "N-11180",
         "N-10435"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:53",
       "investigative_direction": "Obtain the letter, its sender and its date.",
       "transcript_snippet": "a couple of days later they send me a cease and desist and they they mention Fort Wuka.",
@@ -2442,7 +2504,9 @@
         "N-10483",
         "N-10477"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:16",
       "investigative_direction": "Request records for both named clinics.",
       "transcript_snippet": "I do have the names of two different clinics, by the way, because they were two different clinics, the one on the 10th versus the one on the ETH.",
@@ -2460,7 +2524,10 @@
         "A-3046.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "dia"
+      ],
       "claim_timestamp": "00:33:16",
       "investigative_direction": "Review tips received at the tip address.",
       "transcript_snippet": "please email us more tips at candace Owens. com",
@@ -2478,7 +2545,9 @@
       "related_nodes": [
         "N-10956"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:12",
       "investigative_direction": "Check the conference program for the date.",
       "transcript_snippet": "I will be speaking at the Catholics for Catholics conference on March 19th in Washington DC.",
@@ -2496,7 +2565,9 @@
       "related_nodes": [
         "N-11099"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:12",
       "investigative_direction": "Obtain the Australian visa decision.",
       "transcript_snippet": "I was supposed to go on that tour in Australia, but I got blocked by the Zionist lobby of Australia.",
@@ -2512,7 +2583,9 @@
       "claim": "The host says she was supposed to be on tour with Charlie before he died but was blocked by Zionists in America.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:12",
       "investigative_direction": "Find tour announcements or correspondence about a planned joint tour.",
       "transcript_snippet": "I was supposed to be on tour with Charlie before he died, but I got blocked by Zionists here in America.",
@@ -2533,7 +2606,9 @@
       "related_nodes": [
         "N-10956"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:14",
       "investigative_direction": "Identify who is speaking in the promo and the basis for the prediction.",
       "transcript_snippet": "Charlie predicted that one day when he himself would die young that Candace would become a David in the fight for America.",
@@ -2552,7 +2627,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:23",
       "investigative_direction": "Ask former Daily Wire staff about All Access practice.",
       "transcript_snippet": "a producer will just kind of write in some questions like before people jump online",
@@ -2571,7 +2648,9 @@
         "A-1733.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:16",
       "investigative_direction": "View the All Access video segment.",
       "transcript_snippet": "other Nazi breakfast foods besides blitzk eggs which may include luft waffles",
@@ -2589,13 +2668,15 @@
         "A-1733.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:16",
       "investigative_direction": "Check the host's interview with Youssef for the childhood remark.",
       "transcript_snippet": "Candace also interviewed Bassim Ysef and told him she thinks something bad happened in your childhood because you fixated and lack empathy.",
       "mentions_person_refs": [
         "N-97",
-        "N-509",
+        "N-508",
         "N-3"
       ]
     },
@@ -2610,7 +2691,9 @@
         "N-10900",
         "N-10416"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:18",
       "investigative_direction": "Obtain any internal clip files sent to influencers.",
       "transcript_snippet": "They used to keep a file and then they would send it around to all their influencers of clips of the show",
@@ -2627,7 +2710,9 @@
       "claim": "The host says there is a signed bundle of hard copies of Make a Sandwich and Blackout, each signed by her.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:44:15",
       "investigative_direction": "Check the merch listing.",
       "transcript_snippet": "you can buy an autographed bundle, hard copy, available of Make a Sandwich and Blackout, both hands signed by me",
@@ -2643,7 +2728,9 @@
       "claim": "The host says her subscription tiers were merged into one tier at $1.99 a month or $120 a year.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:44:15",
       "investigative_direction": "Check the subscription pricing page.",
       "transcript_snippet": "We've also merged our subscription tiers into one club canist tier for $1.99 a month or $120 for a year.",
@@ -2662,7 +2749,9 @@
         "N-10968",
         "N-10268"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:36",
       "investigative_direction": "Compile who bought AmFest speaking slots and Charlie's past statements on them.",
       "transcript_snippet": "the first thing I clocked was letting people that your husband didn't like into your zone right after he died. like whether it's New York Times, whether it's allowing them to buy slots to speak",
@@ -2682,7 +2771,10 @@
         "A-3046.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "dia"
+      ],
       "claim_timestamp": "00:45:36",
       "investigative_direction": "Review the tip inbox.",
       "transcript_snippet": "You might know something. You can message me more tips.",
@@ -2700,7 +2792,9 @@
         "A-3048.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:46:39",
       "investigative_direction": "Review the Zoom recordings for that phrase.",
       "transcript_snippet": "Ariel writes about the zooms. I don't understand why Erika kept saying we need to stay humble.",
@@ -2716,7 +2810,9 @@
       "claim": "The host says Sigmund Freud outwardly said he had to be Satan and Lucifer.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:50:17",
       "investigative_direction": "Locate any Freud quote matching this.",
       "transcript_snippet": "Sigman Freud outwardly said, \"I have to be Satan. I have to be Lucifer.",
@@ -2734,14 +2830,16 @@
         "A-3049.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:50:17",
       "investigative_direction": "Ask Finkelstein or find his published account of any contact.",
       "transcript_snippet": "Epstein and Duruit contacted Finkelestein, but he called them pedophiles and threatened to hurt them.",
       "mentions_person_refs": [
         "N-203",
         "N-9",
-        "N-546"
+        "N-545"
       ]
     }
   ],

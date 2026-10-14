@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: f464e8e712994efb56bee93a7c7a23da86a3df5028517114a2bdb3d80e5688a8
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-811, N-812, N-813, N-11158
+  - Tip-minted Nodes (supplement_2026-10c): N-810, N-811, N-812, N-11158
   - Hole-minted Nodes (reintro-ep029): N-230, N-462, N-10251, N-10401, N-10434, N-10436, N-10447, N-10573, N-10576, N-10887
   - Tip-minted Nodes (reintro-ep029): N-11064, N-11147
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -638,7 +638,7 @@ Existing topic reused.
 
 ---
 
-**N-811** Loren Cunningham
+**N-810** Loren Cunningham
 
 Founder of Youth With A Mission; first named in the Wallnau clip at 00:13:31 in episode 29.
 
@@ -646,7 +646,7 @@ Founder of Youth With A Mission; first named in the Wallnau clip at 00:13:31 in 
 
 ---
 
-**N-812** Bill Bright
+**N-811** Bill Bright
 
 Named in the Wallnau clip at 00:13:31 in episode 29 as the other party to the 2000 conversation.
 
@@ -654,7 +654,7 @@ Named in the Wallnau clip at 00:13:31 in episode 29 as the other party to the 20
 
 ---
 
-**N-813** Carl Wallnau
+**N-812** Carl Wallnau
 
 Father of Lance Wallnau; first named by the host at 00:17:09 in episode 29.
 
@@ -1331,7 +1331,7 @@ Claim: In the clip played on air, Lance Wallnau says the Seven Mountain Mandate 
 Transcript Snippet: it started with a conversation I had in the year 2000. I had been talking to Loren Cunningham, who's the founder of Youth With A Mission.
 
 Anchored Artifacts: A-1365.1
-Mentions: N-245, N-811, N-812
+Mentions: N-245, N-810, N-811
 Related Nodes: N-10242
 Supports: C-1653
 Tags: relevance:context
@@ -1397,7 +1397,7 @@ Claim: The host says Lance Wallnau's father Carl Wallnau was a major in the US A
 Transcript Snippet: His father, Carl Wallnau, was a major in the United States Air Force, okay? Wallnau served under General Patton. After the war, he then continued his adventures as a field engineer for Standard Oil
 
 Anchored Artifacts: 
-Mentions: N-245, N-813
+Mentions: N-245, N-812
 Related Nodes: N-10436
 Tags: relevance:context
 Investigative Direction: Locate Carl Wallnau's service record or obituary and any Standard Oil employment record.

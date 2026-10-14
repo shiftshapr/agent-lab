@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-11143
   - Claim Range (supplement_2026-10b): C-7400–C-7473
-  - Reused Nodes Appearing: N-10759, N-10762, N-7, N-40, N-190, N-221, N-375, N-518, N-10104, N-10110, N-10164, N-10172, N-10201, N-10233, N-10323, N-10341, N-10343, N-10350, N-10687, N-10715, N-10719, N-10725, N-10751, N-10768, N-10769, N-11065, N-10764
+  - Reused Nodes Appearing: N-10759, N-10762, N-7, N-40, N-190, N-221, N-375, N-517, N-10104, N-10110, N-10164, N-10172, N-10201, N-10233, N-10323, N-10341, N-10343, N-10350, N-10687, N-10715, N-10719, N-10725, N-10751, N-10768, N-10769, N-11065, N-10764
  - (see registers)
 
 ## I. Meta-Data
@@ -477,7 +477,7 @@ Person the host says Blake Neff excludes from his account of Sept 10 driving.
 
 ---
 
-**N-518** Christopher Bagley
+**N-517** Christopher Bagley
 
 Officer Bagley; the host sarcastically references his body-cam footage and the screwdriver.
 
@@ -1646,7 +1646,7 @@ Claim: Speaking sarcastically, the host suggests Officer Bagley's body-camera fo
 Transcript Snippet: Officer Bagley, oh just it just it went off. I don't know. I don't know what happened to my body cam footage
 
 Anchored Artifacts: 
-Mentions: N-518, N-162
+Mentions: N-517, N-162
 Related Nodes: N-10725, N-11143
 Tags: relevance:core
 Investigative Direction: Obtain Bagley's body-cam records and activation logs for that day.

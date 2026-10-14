@@ -938,8 +938,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-516",
-      "ref": "N-516",
+      "@id": "N-515",
+      "ref": "N-515",
       "name": "Nate Walker",
       "type": "person",
       "description": "First named by the host at 00:03:16 in episode 126.",
@@ -2027,8 +2027,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-518",
-      "ref": "N-518",
+      "@id": "N-517",
+      "ref": "N-517",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -2044,8 +2044,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-647",
-      "ref": "N-647",
+      "@id": "N-646",
+      "ref": "N-646",
       "name": "Charlie Spearing",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -2078,8 +2078,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-791",
-      "ref": "N-791",
+      "@id": "N-790",
+      "ref": "N-790",
       "name": "Matt Robinson",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -2113,8 +2113,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-831",
-      "ref": "N-831",
+      "@id": "N-830",
+      "ref": "N-830",
       "name": "David Sprag",
       "type": "person",
       "description": "First named by the host at 00:02:40 in episode 138 as the man who started the USA chant after the shot; the host says he was formerly James Rollinsson (transcribed Rollinsson).",
@@ -2130,8 +2130,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-839",
-      "ref": "N-839",
+      "@id": "N-838",
+      "ref": "N-838",
       "name": "Kassy Akiva",
       "type": "person",
       "description": "First named by the host at 00:18:45 in episode 138 as a Daily Wire employee who collaborated with the group chat organizer.",
@@ -2147,8 +2147,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-840",
-      "ref": "N-840",
+      "@id": "N-839",
+      "ref": "N-839",
       "name": "Perez Hilton",
       "type": "person",
       "description": "First named by the host at 00:30:40 in episode 138 as the celebrity blogger in the news over a live-streamed self-harm incident.",
@@ -2169,8 +2169,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-841",
-      "ref": "N-841",
+      "@id": "N-840",
+      "ref": "N-840",
       "name": "Khloe Kardashian",
       "type": "person",
       "description": "First named by the host at 00:31:00 in episode 138 as a celebrity Perez Hilton targeted.",
@@ -2186,8 +2186,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-842",
-      "ref": "N-842",
+      "@id": "N-841",
+      "ref": "N-841",
       "name": "Miley Cyrus",
       "type": "person",
       "description": "First named by the host at 00:31:15 in episode 138 as the subject of an alleged Perez Hilton photo post at age 17.",
@@ -2354,7 +2354,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-276",
-        "N-516"
+        "N-515"
       ]
     },
     {
@@ -2584,7 +2584,9 @@
       "related_nodes": [
         "N-10605"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:50",
       "investigative_direction": "Obtain the Piers Morgan interview and public records of Victor Marx's advisory role to Erika Kirk or TPUSA.",
       "transcript_snippet": "Piers Morgan interviewed one of her spiritual adviserss, Victor Marx, the man that we interviewed.",
@@ -2607,13 +2609,15 @@
       "related_nodes": [
         "N-10784"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:37",
       "investigative_direction": "Obtain Utah County Sheriff's Office personnel and assignment records for Christopher Bagley and his UVU hiring file.",
       "transcript_snippet": "He worked for a Utah County Sheriff's Office, but specifically he worked in the sex crimes detective unit.",
       "mentions_person_refs": [
         "N-3",
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -2626,7 +2630,9 @@
       "related_nodes": [
         "N-10097"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:10",
       "investigative_direction": "Obtain the Zinn arrest record, charging documents and booking date to confirm the charge and compare with the confession episode.",
       "transcript_snippet": "Various decoys like George Zinn arrested for child pornography. Seems like he was put up for this job uh of saying, \"I did it. I did it.\"",
@@ -2646,13 +2652,15 @@
       "claim": "The host says the man who started the 'USA, USA' chant goes by David Sprag, used to be James Rollinsson, and confessed to her that his father was mixed up in sex abuse crimes against children.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:40",
       "investigative_direction": "Verify a legal name change and any court record concerning the father, and obtain the host's source for the confession.",
       "transcript_snippet": "He goes by David Sprag, but he actually changed his name. It used to be James Rollinsson.",
       "mentions_person_refs": [
         "N-3",
-        "N-831"
+        "N-830"
       ]
     },
     {
@@ -2665,7 +2673,9 @@
       "related_nodes": [
         "N-10151"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:10",
       "investigative_direction": "Match the detective's service record and photographs against the Boy Scouts leader Mike Mitchell and his Washington County retirement.",
       "transcript_snippet": "we were able to find an undercover detective who was involved in Utah with cyber sex crime unit by that same name",
@@ -2689,7 +2699,9 @@
         "N-10598",
         "N-10106"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:03:40",
       "investigative_direction": "Identify any documented case of the Utah cyber crimes unit recruiting suspects and any link to persons in this case.",
       "transcript_snippet": "feds do turn would be criminals into assets. You catch them uh touching the wrong link",
@@ -2708,7 +2720,9 @@
         "N-10022",
         "N-10782"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:05",
       "investigative_direction": "Compare the charging documents and the surrender timeline with the father's account to determine who initiated contact with police.",
       "transcript_snippet": "Tyler's father turned him in. I have disputed this from the very beginning.",
@@ -2717,7 +2731,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-791",
+        "N-790",
         "N-40"
       ]
     },
@@ -2732,7 +2746,9 @@
         "N-10022",
         "N-10037"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:40",
       "investigative_direction": "Locate Kolvet's on-air or written statement and Ackman's original reward tweet.",
       "transcript_snippet": "I believe Andrew Kovette admitted that Bill Aman did not give him $1 million and Matt Robinson, his father did not turn him in.",
@@ -2740,7 +2756,7 @@
         "N-3",
         "N-37",
         "N-14",
-        "N-791"
+        "N-790"
       ]
     },
     {
@@ -2753,7 +2769,9 @@
       "related_nodes": [
         "N-10782"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:15",
       "investigative_direction": "Collect the influencers' original 4K video statements and compare them with exhibits entered at the preliminary hearing.",
       "transcript_snippet": "there is a video of Tyler Robinson taking the shot in 4K by the influencers. That is a lie.",
@@ -2775,7 +2793,9 @@
         "N-10825",
         "N-10679"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:40",
       "investigative_direction": "Obtain the preliminary hearing transcript of Lance's testimony on motive and political discussions.",
       "transcript_snippet": "Then suddenly the the boyfriend Lance testifies that he's never spoken to him about LGBTQ issues.",
@@ -2799,7 +2819,9 @@
         "N-10825",
         "N-10679"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:32",
       "investigative_direction": "Obtain Lance's preliminary hearing testimony and compare it with the text messages attributed to Tyler.",
       "transcript_snippet": "He had never mentioned the name Charlie Kirk to him ever. Where's their motive now?",
@@ -2821,7 +2843,9 @@
         "N-10020",
         "N-10782"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:45",
       "investigative_direction": "Obtain Neff's original and edited post and any exhibit list from the preliminary hearing.",
       "transcript_snippet": "We were told that there is footage of Tyler Robinson assembling the rifle on the roof. That is a lie.",
@@ -2841,7 +2865,9 @@
       "related_nodes": [
         "N-10782"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:10",
       "investigative_direction": "Obtain the car footage exhibits and the vehicle registration data presented at the preliminary hearing.",
       "transcript_snippet": "What we have been presented with is blurry footage of a car that resembles Tyler Robinson's car.",
@@ -2860,7 +2886,9 @@
       "related_nodes": [
         "N-11012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:35",
       "investigative_direction": "Compare the indictment and Utah County filings that describe a father reporting suicidal ideation.",
       "transcript_snippet": "We were told Tyler Robinson was suicidal. That is a lie.",
@@ -2880,7 +2908,9 @@
         "N-11012",
         "N-10031"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:50",
       "investigative_direction": "Identify the host's source and obtain the surrender timeline and any police communication log.",
       "transcript_snippet": "He agreed to go in peaceibly rather than subject himself to the possibility of an accidental death by SWAT team banging down his door.",
@@ -2903,7 +2933,9 @@
         "N-10319",
         "N-10975"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:51",
       "investigative_direction": "Obtain the ATF examiner's preliminary hearing testimony and lab report on caliber and class characteristics.",
       "transcript_snippet": "And in fact, it didn't cover a 3006. It didn't cover a 306.",
@@ -2926,7 +2958,9 @@
         "N-10711",
         "N-10782"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:10",
       "investigative_direction": "Obtain the latent print and DNA report from the preliminary hearing record.",
       "transcript_snippet": "every time they said this in the public, they refused to say, but five other sets of prints minimally were also found on the gun.",
@@ -2949,7 +2983,9 @@
         "N-10711",
         "N-10598"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:30",
       "investigative_direction": "Obtain the print comparison results naming each contributor.",
       "transcript_snippet": "of which one were his owned by his father and the other by Lance.",
@@ -2971,7 +3007,9 @@
         "N-10162",
         "N-10810"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:55",
       "investigative_direction": "Obtain the chain-of-custody log for the Farnsworth footage and the device type recorded by police.",
       "transcript_snippet": "because Terrell Farnworth took out we watched him take out an SD card. And actually what the police were given was not an SD card.",
@@ -2990,7 +3028,9 @@
       "related_nodes": [
         "N-10810"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:25",
       "investigative_direction": "Compare the original camera file metadata with the version entered into evidence.",
       "transcript_snippet": "this tells me that it is plausible that that footage was edited, zoomed in perhaps",
@@ -3012,7 +3052,9 @@
         "N-10713",
         "N-10077"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:17",
       "investigative_direction": "Obtain the preliminary hearing exhibits showing the extraction of the messages.",
       "transcript_snippet": "all they're left with right now is a text message confession, right?",
@@ -3031,7 +3073,9 @@
       "related_nodes": [
         "N-10598"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:40",
       "investigative_direction": "Review Lance's testimony on alibi and any immunity or cooperation agreement.",
       "transcript_snippet": "Mind you, Lance should be a suspect in this. His prints are everywhere.",
@@ -3053,7 +3097,9 @@
         "N-10039",
         "N-10030"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:05",
       "investigative_direction": "Obtain the exhibit images and the extraction report metadata.",
       "transcript_snippet": "And those messages were presented without any time stamps.",
@@ -3075,7 +3121,9 @@
         "N-10713",
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:30",
       "investigative_direction": "Obtain the testimony identifying the extraction vendor and the extraction report.",
       "transcript_snippet": "we also saw testimony in court that the police moved to use an Israeli tech firm to extract the messages.",
@@ -3094,7 +3142,9 @@
         "N-10026",
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:55",
       "investigative_direction": "No evidence is offered on air; request any record supporting Israeli involvement, which the host does not supply.",
       "transcript_snippet": "we all kind of think Israel killed Charlie Kirk just based on the actions and the mood of the Israeli government leaders, BB Netanyahu",
@@ -3116,7 +3166,9 @@
       "related_nodes": [
         "N-10038"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:27",
       "investigative_direction": "Obtain the full message text and run a linguistic comparison against Tyler's known writing.",
       "transcript_snippet": "In Tyler Robinson's text messages, we actual American English speakers, we don't say pooch and bad sniffer in casual language.",
@@ -3136,7 +3188,9 @@
         "N-10713",
         "N-10077"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:45",
       "investigative_direction": "Request iCloud access logs and device identifiers for the message account.",
       "transcript_snippet": "it is of course entirely plausible that someone gained access to Tyler Robinson's iCloud.",
@@ -3157,7 +3211,9 @@
         "N-10570",
         "N-11149"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:55",
       "investigative_direction": "Obtain defense discovery motions and the court's rulings before the hearing.",
       "transcript_snippet": "Tyler's legal team, despite reasonable protestations, were not granted their discovery requests leading up to the preliminary hearing.",
@@ -3179,7 +3235,9 @@
         "N-10623",
         "N-11068"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:13",
       "investigative_direction": "Obtain the extension request and the transcript of the ruling on hearsay.",
       "transcript_snippet": "They testified that they had not even been given access to their client's phone when they were requesting an extension.",
@@ -3198,7 +3256,9 @@
       "related_nodes": [
         "N-11065"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:35",
       "investigative_direction": "Obtain the court seating and press credential records for the preliminary hearing.",
       "transcript_snippet": "the victim on this case, Erika Kirk, is inviting influencers into the courtroom.",
@@ -3218,7 +3278,9 @@
         "N-10000",
         "N-11017"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:50",
       "investigative_direction": "Obtain TPUSA payment and contract records for the influencers named.",
       "transcript_snippet": "is contracting the services of and platforming people who are meant to lie about this investigation full-time.",
@@ -3238,7 +3300,9 @@
       "related_nodes": [
         "N-10780"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:25",
       "investigative_direction": "Locate the archived X Spaces recording and identify the host.",
       "transcript_snippet": "this person hosted uh a spaces on X and went on record admitting that they gather intel.",
@@ -3263,7 +3327,9 @@
         "N-10670",
         "N-10780"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:45",
       "investigative_direction": "Identify the organizer, the Spaces recording and any public record of the files described.",
       "transcript_snippet": "Uh they collaborated with a Daily Wire employee Cassie Akiva, the Gaza Humanitarian Fund, then run by Johnny Moore, to create files on people",
@@ -3272,7 +3338,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-839",
+        "N-838",
         "N-447",
         "N-22"
       ]
@@ -3289,7 +3355,9 @@
       "related_nodes": [
         "N-10780"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:12",
       "investigative_direction": "Obtain the original posts and any screenshots of the chat activity.",
       "transcript_snippet": "sharing information, background checks, reporting accounts, whining and complaining all day about Candace Owens",
@@ -3309,7 +3377,9 @@
       "related_nodes": [
         "N-10780"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:40",
       "investigative_direction": "Compare the member list against each account's observed activity.",
       "transcript_snippet": "However, I will say that not everyone here participated. Some just lurked.",
@@ -3330,7 +3400,9 @@
         "N-10899",
         "N-10780"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:07",
       "investigative_direction": "Obtain the full member list from the original post and match handles to the accounts.",
       "transcript_snippet": "Milk Bar TV, No Soup for Nles, Paramount, Not So Tactical, Bria Dale, Fake Catholic, Insurrection, Barbie",
@@ -3348,7 +3420,9 @@
       "related_nodes": [
         "N-10780"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:35",
       "investigative_direction": "Obtain the host's contact records with outside researchers if the claim is disputed.",
       "transcript_snippet": "Baron Coleman, hey, did you did you see this video? Give him a call.",
@@ -3369,13 +3443,15 @@
         "N-10070",
         "N-10743"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:20",
       "investigative_direction": "Identify the Daily Mail article and the video it relied on.",
       "transcript_snippet": "the one who worked on the Trust Us, bro. Charlie definitely wanted Erika to take over the company because I watched the video.",
       "mentions_person_refs": [
         "N-3",
-        "N-647",
+        "N-646",
         "N-1",
         "N-2"
       ]
@@ -3392,7 +3468,9 @@
       "related_nodes": [
         "N-10780"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:10",
       "investigative_direction": "Obtain the provenance of the rooftop video and car interior pictures from the host's tip submissions.",
       "transcript_snippet": "Foreign operatives sending me the video of the rooftop?",
@@ -3412,7 +3490,9 @@
       "claim": "The host says that deep down everyone senses the state murdered Charlie Kirk and that it must have had Trump's permission, offering no document on air.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:25",
       "investigative_direction": "No evidence is offered; request any record of federal involvement in the shooting.",
       "transcript_snippet": "deep down we all have a sense that the state murdered Charlie Kirk. um that clearly it must have had Trump's permission",
@@ -3430,7 +3510,9 @@
       "claim": "The host says Trump is doing nothing to get to the bottom of what happened to his friend who helped elect him twice.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:40",
       "investigative_direction": "Review public White House and DOJ statements and actions on the investigation.",
       "transcript_snippet": "because he's doing nothing to try to get to the bottom of what happened to his dear friend who helped to get him elected twice",
@@ -3451,7 +3533,9 @@
         "N-11208",
         "N-10573"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:30",
       "investigative_direction": "Obtain hospital entry video and staff accounts of who arrived together and by what vehicle.",
       "transcript_snippet": "you, Danny Phillip, Mikey McCoy, and uh Nate Walker all walked into Temponogus Hospital together.",
@@ -3460,7 +3544,7 @@
         "N-162",
         "N-375",
         "N-194",
-        "N-516"
+        "N-515"
       ]
     },
     {
@@ -3476,13 +3560,15 @@
         "N-10723",
         "N-10781"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:55",
       "investigative_direction": "Obtain purchase or supply records for the shirt and Walker's employment start date.",
       "transcript_snippet": "just a new assistant the one who supplied Charles with that freedom t-shirt.",
       "mentions_person_refs": [
         "N-3",
-        "N-516",
+        "N-515",
         "N-1"
       ]
     },
@@ -3494,14 +3580,16 @@
       "claim": "The host says Perez Hilton targeted Khloe Kardashian and repeatedly referred to her as a transvestite.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:31:00",
       "investigative_direction": "Review archived Perez Hilton posts about Khloe Kardashian.",
       "transcript_snippet": "he really targeted her and referred to her as a transvestite over and over again.",
       "mentions_person_refs": [
         "N-3",
-        "N-840",
-        "N-841"
+        "N-839",
+        "N-840"
       ]
     },
     {
@@ -3512,14 +3600,16 @@
       "claim": "The host says Perez Hilton posted an upskirt photo of Miley Cyrus when she was 17.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:31:15",
       "investigative_direction": "Review contemporaneous news coverage of the incident.",
       "transcript_snippet": "he posted an upskirt photo of Miley Cyrus, who was then just 17 years old.",
       "mentions_person_refs": [
         "N-3",
-        "N-840",
-        "N-842"
+        "N-839",
+        "N-841"
       ]
     },
     {
@@ -3532,13 +3622,15 @@
       "related_nodes": [
         "N-11209"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:34:30",
       "investigative_direction": "Review Hilton's public statements on his children.",
       "transcript_snippet": "He chose to have three children, one in 2013, one in 2015, and one in 2017.",
       "mentions_person_refs": [
         "N-3",
-        "N-840"
+        "N-839"
       ]
     },
     {
@@ -3551,13 +3643,15 @@
       "related_nodes": [
         "N-11209"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:35:30",
       "investigative_direction": "Locate the March 23 posts.",
       "transcript_snippet": "on March 23rd, he posted videos of himself from a hospital bed and said he almost died from severe sepsis and infections.",
       "mentions_person_refs": [
         "N-3",
-        "N-840"
+        "N-839"
       ]
     },
     {
@@ -3573,13 +3667,15 @@
         "N-11209",
         "N-11103"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:36:10",
       "investigative_direction": "Rely on NBC and sheriff's office reporting rather than the video.",
       "transcript_snippet": "which ran live on TikTok, Perez Hilton was fully naked, drenched in blood with multiple cuts all over his body and he was cutting himself.",
       "mentions_person_refs": [
         "N-3",
-        "N-840"
+        "N-839"
       ]
     },
     {
@@ -3594,13 +3690,15 @@
       "related_nodes": [
         "N-11209"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:36:20",
       "investigative_direction": "Rely on police and media reporting of the incident.",
       "transcript_snippet": "He's on video and he's saying things like, \"I am doing this for my children.\"",
       "mentions_person_refs": [
         "N-3",
-        "N-840"
+        "N-839"
       ]
     },
     {
@@ -3613,7 +3711,9 @@
       "related_nodes": [
         "N-11121"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:40:10",
       "investigative_direction": "No supporting record is cited; this is the host's thesis.",
       "transcript_snippet": "how Hollywood was set up truly, it was meant to be a cult. It's meant to be demonic.",
@@ -3631,7 +3731,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:55",
       "investigative_direction": "Review TPUSA's high school chapter programs and public statements.",
       "transcript_snippet": "This is the plan. They're supposed to get your children. They want to be inside of the high schools.",
@@ -3649,7 +3751,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:15",
       "investigative_direction": "Request any first-hand account or document; none is cited.",
       "transcript_snippet": "at, you know, Turning Point USA events there are having gay orgies and that this person is cheating on this person, this person is sleeping with this person",
@@ -3668,7 +3772,9 @@
         "N-10000",
         "N-11017"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:35",
       "investigative_direction": "Identify the firms and contracts; none is named.",
       "transcript_snippet": "The same vicious crisis PR firms uh that employed Hollywood is now employing these groups like Turning Point USA",
@@ -3688,7 +3794,9 @@
       "related_nodes": [
         "N-10785"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:47",
       "investigative_direction": "Locate Piers Morgan's tweet.",
       "transcript_snippet": "Piers Morgan interviewed Victor Marks and tweeted that it was one of the most bizarre interviews of his career.",
@@ -3706,7 +3814,9 @@
       "claim": "The host says Piers Morgan always accepts the pro-Erika line at first and a year later admits that she was right.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:44:00",
       "investigative_direction": "Review Morgan's statements on the host over time.",
       "transcript_snippet": "He always accepts the slop up in the beginning and then a year on he admits that I was right.",
@@ -3728,7 +3838,9 @@
       "related_nodes": [
         "N-10785"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:55",
       "investigative_direction": "Verify the figure against the full interview.",
       "transcript_snippet": "I studied false memories and had 123 visits to a trauma specialist",
@@ -3748,7 +3860,9 @@
       "claim": "The host says that everything about Erika's past, when examined, leads into a dark hole and that what she presented to Charlie is not true.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:35",
       "investigative_direction": "Pursue the specific biographical points the host has raised across episodes.",
       "transcript_snippet": "Everything about Erika's past, you start looking into it and you're just falling through a dark hole.",
@@ -3768,7 +3882,9 @@
       "related_nodes": [
         "N-10091"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:07",
       "investigative_direction": "Locate the Turek statement the host refers to.",
       "transcript_snippet": "You got Frank Turk hoping you saying signaling that I should be struck down.",
@@ -3789,7 +3905,9 @@
       "related_nodes": [
         "N-10751"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:51:30",
       "investigative_direction": "Review the Church document the emailer cited.",
       "transcript_snippet": "I was a bit uneducated when I said that I believed that you were not allowed to be cremated as a Catholic.",
@@ -3813,7 +3931,9 @@
         "N-10564",
         "N-11210"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:53:20",
       "investigative_direction": "Compare Catholic convert and Southern Baptist membership statistics for 2025 and 2026.",
       "transcript_snippet": "The Catholic Church grew so much after Charlie's assassination.",
@@ -3834,7 +3954,9 @@
       "related_nodes": [
         "N-10780"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:54:40",
       "investigative_direction": "Identify the posts and accounts that published the vehicles.",
       "transcript_snippet": "when they were publishing my kids' cars and stuff that and it was it was meant to scare me and it is scary.",
@@ -3852,7 +3974,9 @@
         "A-2253.5"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:56:10",
       "investigative_direction": "Review the Romanian case outcome.",
       "transcript_snippet": "I was very much involved in reading through his Romanian documents when the charges were against him. And I said, \"This case is going to fall apart.\"",
@@ -3871,7 +3995,9 @@
         "A-2253.5"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:56:54",
       "investigative_direction": "Verify custody conditions via court or press reports.",
       "transcript_snippet": "Andrew and Tristan Tate are in solitary confinement",
@@ -3892,7 +4018,9 @@
       "related_nodes": [
         "N-10324"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:57:05",
       "investigative_direction": "Review Epstein file releases and prosecutions to date.",
       "transcript_snippet": "nobody that is a part of the Pepsi network has been taken down.",
@@ -3912,7 +4040,9 @@
         "A-2253.6"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:57:55",
       "investigative_direction": "Confirm the leave dates when announced.",
       "transcript_snippet": "Yes, maternity leave always comes with the news of the new baby.",
@@ -3930,7 +4060,9 @@
       "related_nodes": [
         "N-11149"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:58:20",
       "investigative_direction": "Check the court docket for the September 1 date and the hearing outcome.",
       "transcript_snippet": "that they're supposed to be saying whether or not they're going to go through with the Tyler Robinson trial.",
@@ -3949,7 +4081,9 @@
       "related_nodes": [
         "N-10782"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:58:45",
       "investigative_direction": "Await trial evidence; this is the host's stated belief.",
       "transcript_snippet": "certainly don't think Tyler Robinson killed Charlie Kirk on a rooftop and acted alone",

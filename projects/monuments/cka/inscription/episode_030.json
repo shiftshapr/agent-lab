@@ -1769,8 +1769,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-866",
-      "ref": "N-866",
+      "@id": "N-865",
+      "ref": "N-865",
       "name": "Austin Erickson",
       "type": "person",
       "description": "First named by the host at 00:22:40 in episode 30 (spelled Austin Ericson in the transcript). TPUSA staffer addressed with Dylan Erickson.",
@@ -2182,7 +2182,9 @@
       "related_nodes": [
         "N-10237"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:51",
       "investigative_direction": "Review Shapiro's posts, shows and statements from the days after the tour stop for any correction or retraction.",
       "transcript_snippet": "because in the days following it, he didn't recant. He did not modify. He did not correct.",
@@ -2206,7 +2208,9 @@
       "related_nodes": [
         "N-10237"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:04",
       "investigative_direction": "Obtain the full tour recording of the Shapiro stop to confirm the exchange and wording.",
       "transcript_snippet": "Asked again like, \"Are you sure she said that?\" And he says, \"Yes.\" Yes, she said that.",
@@ -2231,7 +2235,9 @@
       "related_nodes": [
         "N-10237"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:04",
       "investigative_direction": "Obtain the full tour Q&A recording to verify Kelly's wording.",
       "transcript_snippet": "which I had not heard and I was taken back because that seems like something I would have heard.",
@@ -2257,7 +2263,9 @@
       "related_nodes": [
         "N-10237"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:04",
       "investigative_direction": "Review Owens's public statements about Erika Kirk up to the date of the Kelly Q&A to test Kelly's characterization.",
       "transcript_snippet": "if you read her comments, she's under pressure to make comments about Erika. And so far, what I've seen, she hasn't.",
@@ -2280,7 +2288,9 @@
         "A-1380.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:40",
       "investigative_direction": "Obtain the full Dave Rubin segment and its date to confirm the wording.",
       "transcript_snippet": "We were great friends for a long time. She has been to this house for dinner.",
@@ -2300,7 +2310,9 @@
         "A-1380.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:07:28",
       "investigative_direction": "Corroborate with Rubin or third parties who attended; low-stakes and confirmable by either party.",
       "transcript_snippet": "I can fact check true. I have been to his house for dinner and I do really love Chicken Farm and I had a good one at his house.",
@@ -2320,7 +2332,9 @@
       "claim": "The host says Megyn Kelly did not invite Ben Shapiro to a debate but invited him to her tour to have a conversation about their values in front of her audience.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:07:28",
       "investigative_direction": "Ask Kelly's team for the invitation terms for the Shapiro appearance.",
       "transcript_snippet": "She did not invite him to have a debate. She invited him to come on her tour and to introduce, you know, to to have him in front of her audience",
@@ -2340,7 +2354,9 @@
       "related_nodes": [
         "N-10047"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:35",
       "investigative_direction": "Collect Kirk's own statements, texts and donor communications from July to September 2025 describing the pressure.",
       "transcript_snippet": "And he was feeling a lot of peer pressure in the weeks leading up to his death. And Zionists were claiming that's all a lie.",
@@ -2367,7 +2383,9 @@
         "N-11080",
         "N-10047"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:38",
       "investigative_direction": "Obtain Tucker's full unedited remarks and any witness or recording from backstage at the July Student Action Summit.",
       "transcript_snippet": "I'll never forget it, and said, \"Go all the way. Do it. Go all the way.\"",
@@ -2393,7 +2411,9 @@
         "N-10023",
         "N-10015"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:09:38",
       "investigative_direction": "Ask Carlson for the sources of his Epstein work; compare with released Epstein records.",
       "transcript_snippet": "Epstein clearly had contact with Israeli intelligence and American intelligence and French intelligence",
@@ -2413,7 +2433,9 @@
         "N-10000",
         "N-11080"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:00",
       "investigative_direction": "Request TPUSA's July 2025 Student Action Summit audio and video archive and ask whether it holds the backstage exchange.",
       "transcript_snippet": "Turning Point captured that and they could have easily released it to give me a little bit of backup",
@@ -2433,7 +2455,9 @@
         "A-1382.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:50",
       "investigative_direction": "Preserve the original video with metadata and compare it with Carlson's account of the exchange.",
       "transcript_snippet": "It's quick. It's just happens to be on tape and it backs up what Tucker said.",
@@ -2458,7 +2482,9 @@
         "N-10047",
         "N-11080"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:50",
       "investigative_direction": "Identify the donor and any witnesses from the host's source; the host has not named her.",
       "transcript_snippet": "which donor was waiting for him once Tucker got off stage and yelled at Charlie. That was a female uh Jewish donor.",
@@ -2478,7 +2504,9 @@
         "A-3029.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:26",
       "investigative_direction": "Locate the original Taylor Lorenz post and its date.",
       "transcript_snippet": "It's wild that Candace is the only right-wing ring figure that I've seen posting in a way where she seems genuinely devastated to have lost Charlie as a friend.",
@@ -2498,7 +2526,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:56",
       "investigative_direction": "Collect TPUSA or ally statements asking that the organization not be scrutinized.",
       "transcript_snippet": "This is what they're trying to struggle session us into because Erika Kirk is now the CEO. So they're off limits.",
@@ -2518,7 +2548,9 @@
         "N-10193",
         "N-10198"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:32",
       "investigative_direction": "Compare Rob McCoy's account with Mikey McCoy's phone call log for September 10, 2025.",
       "transcript_snippet": "Lie number five, the magnificent Mikey McCoy called his dad first. That's a lie. Rob McCoy told that lie.",
@@ -2539,7 +2571,9 @@
         "N-10346",
         "N-10100"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:32",
       "investigative_direction": "Obtain police body-camera or CAD records showing whether any officer gave a camera or SD card instruction.",
       "transcript_snippet": "Terrell, the AV guy, uh, was told to remove the cameras by police. That's not true. I have every second of his moves.",
@@ -2563,7 +2597,9 @@
         "N-10100",
         "N-10162"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:32",
       "investigative_direction": "Obtain the original Kolvet statement and any report of hat or equipment theft at the event.",
       "transcript_snippet": "Terrell moved the SD cards because people were stealing hats. Andrew Kovette, what if you were scared about people stealing?",
@@ -2585,7 +2621,9 @@
       "related_nodes": [
         "N-11064"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:32",
       "investigative_direction": "Review the Alex Clark episode featuring Shapiro and documented Shapiro-Kirk disagreements.",
       "transcript_snippet": "Ben Shapiro and Charlie Kirk never had any bad blood between them. The offender there was Alex Clark.",
@@ -2607,7 +2645,9 @@
         "N-10434",
         "N-11171"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:32",
       "investigative_direction": "Obtain TPUSA audited financial statements and Form 990s for 2012 to 2024 and any internal DOGE memos.",
       "transcript_snippet": "Charlie established Doge and that wasn't unusual. Turning Point financially audits the company every year since its inception. Lie.",
@@ -2629,7 +2669,9 @@
         "N-10193",
         "N-10198"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:32",
       "investigative_direction": "Obtain Mikey McCoy's call log and the 911 call records for September 10, 2025.",
       "transcript_snippet": "to be a hero, you can't just make quick phone calls. I don't know. I I mean, and not include 911 in that list.",
@@ -2647,7 +2689,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:18:00",
       "investigative_direction": "Check TPUSA tour schedules and past event listings for the host's appearances through June 2024.",
       "transcript_snippet": "I was on tour every single semester, okay, up until June of 2024",
@@ -2669,7 +2713,9 @@
       "related_nodes": [
         "N-10243"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:14",
       "investigative_direction": "Compare lead times of past TPUSA campus events using ticketing and promotion dates.",
       "transcript_snippet": "That is very late in the day for a request. They're usually backed up entire semesters.",
@@ -2694,7 +2740,9 @@
         "N-10243",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:14",
       "investigative_direction": "Obtain TPUSA travel and expense records and UVU campus-visit logs for early August 2025.",
       "transcript_snippet": "Within two weeks, they had boots on the ground and they were scouting for a location.",
@@ -2718,7 +2766,9 @@
         "N-10243",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:14",
       "investigative_direction": "Obtain UVU event-services emails and site-visit notes listing the venues offered.",
       "transcript_snippet": "after UVU showed them multiple options inside and outside, UVU recommended to Turning Point that they not hold the event in the amphitheater",
@@ -2742,7 +2792,9 @@
         "N-10243",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:57",
       "investigative_direction": "Receive tips and identify the TPUSA events staff who scouted UVU in August 2025.",
       "transcript_snippet": "please send us an email to more tips at candacewowens. com.",
@@ -2762,7 +2814,9 @@
         "N-10000",
         "N-10243"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:57",
       "investigative_direction": "Check TPUSA staff listings and obtain the events department org chart for 2025.",
       "transcript_snippet": "I know, by the way, that Mikey McCoy's wife is one of the events directors.",
@@ -2781,7 +2835,9 @@
       "related_nodes": [
         "N-11233"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:40",
       "investigative_direction": "Interview Thousand Oaks church members and check school and church records for Rob McCoy's children.",
       "transcript_snippet": "some of us have been speaking and we had never heard of a Mikey McCoy, like his son Mikey McCoy.",
@@ -2801,7 +2857,9 @@
       "related_nodes": [
         "N-11233"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:40",
       "investigative_direction": "Check birth, school and licensing records for the legal name of Rob McCoy's son.",
       "transcript_snippet": "somebody on the inside of Turning Point told me that Mikey or or Michael rather uh is not his first name. It's a middle name",
@@ -2822,7 +2880,9 @@
       "related_nodes": [
         "N-11233"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:40",
       "investigative_direction": "Receive tips on Mikey McCoy's legal name.",
       "transcript_snippet": "So, if you have that information, please email more tips@canniswowens. com.",
@@ -2841,13 +2901,15 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:40",
       "investigative_direction": "Verify employment status of both brothers with TPUSA and review the host's file.",
       "transcript_snippet": "I have known every word that you have said about me, okay? And I have been investigating you guys for two months straight.",
       "mentions_person_refs": [
         "N-20",
-        "N-866",
+        "N-865",
         "N-3"
       ]
     },
@@ -2862,13 +2924,15 @@
         "N-10870",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:35",
       "investigative_direction": "Obtain the sponsorship contracts and identify who introduced the sponsor; transcript spelling 'Rei' is possibly Why Refi.",
       "transcript_snippet": "your involvement with bringing that sponsor on. Things got a little different once they were brought on. Demands got interesting.",
       "mentions_person_refs": [
         "N-20",
-        "N-866",
+        "N-865",
         "N-1"
       ]
     },
@@ -2883,7 +2947,9 @@
         "N-10027",
         "N-10345"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:35",
       "investigative_direction": "Compare the Ericksons' public statements about the Hamptons retreat with calendars, flight and attendee records.",
       "transcript_snippet": "the lie, the alibi lie for the Hampton's retreat with Seth Dylan. Um, you lied.",
@@ -2892,7 +2958,7 @@
       ],
       "mentions_person_refs": [
         "N-20",
-        "N-866",
+        "N-865",
         "N-38",
         "N-3"
       ]
@@ -2908,7 +2974,9 @@
         "N-10027",
         "N-10345"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:35",
       "investigative_direction": "Locate Kirk's own description of the Hamptons event as an intervention and witnesses who heard it.",
       "transcript_snippet": "Seth Dylan did press Charlie. Charlie himself described the Hampton's um event as an intervention",
@@ -2932,7 +3000,9 @@
         "N-10000",
         "N-11084"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:35",
       "investigative_direction": "Not independently testable beyond the host's sources; look for corroborating reporting by other outlets.",
       "transcript_snippet": "I know a lot of you guys are leaking to different people.",
@@ -2952,7 +3022,9 @@
         "N-10000",
         "N-11084"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:35",
       "investigative_direction": "Have a technical expert compare leaked TPUSA emails for per-recipient wording differences.",
       "transcript_snippet": "it looks like TurningPoint has implemented a software to track your email verbiage. Essentially, they can make it so like everybody's email, one word is different.",
@@ -2970,7 +3042,9 @@
         "A-3027.3"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:16",
       "investigative_direction": "Receive tips sent to the address.",
       "transcript_snippet": "More tips at candacewowens. com. Beyond that, I would like to follow up with you guys on something.",
@@ -2989,7 +3063,9 @@
         "N-10770",
         "N-10196"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:22",
       "investigative_direction": "Confirm ownership and electronic health record systems of both hospitals from public records; the transcribed 'VDI' needs checking.",
       "transcript_snippet": "Utah Valley Hospital is owned by IHC and they run on a system called Epic",
@@ -3008,7 +3084,9 @@
         "N-10770",
         "N-10196"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:21",
       "investigative_direction": "Ask both hospital systems or a health-records expert whether any records exchange existed in September 2025.",
       "transcript_snippet": "These two hospitals do not speak to each other.",
@@ -3027,7 +3105,9 @@
         "N-10770",
         "N-10196"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:21",
       "investigative_direction": "Obtain the Utah Valley Hospital access-audit log for the file and the nurse notification.",
       "transcript_snippet": "We don't know why this anomaly occurred where Charlie Kirk had a file and when nurses were notified not to touch the file.",
@@ -3046,7 +3126,9 @@
       "related_nodes": [
         "N-10244"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:21",
       "investigative_direction": "Interview the students and review set-up footage for the bush area.",
       "transcript_snippet": "some students on the ground described witnessing an old man talking to a bush",
@@ -3066,7 +3148,9 @@
       "related_nodes": [
         "N-10244"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:02",
       "investigative_direction": "Obtain the original video file with metadata and the source's account of when and where it was filmed.",
       "transcript_snippet": "We absolutely cannot definitively confirm from this video that he is speaking to a bush, but we can at the at very least confirm that he's near the bush and he's alone.",
@@ -3089,7 +3173,9 @@
       "related_nodes": [
         "N-10248"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:57",
       "investigative_direction": "Identify Butch Hibbs's church and role from Calvary Chapel directories.",
       "transcript_snippet": "Butch Hibbs is also his brother who's involved in a Calvary Chapel church in Utah.",
@@ -3112,7 +3198,9 @@
         "N-10817",
         "N-10244"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:57",
       "investigative_direction": "Review arrival footage at the UVU drop-off area to confirm who was beside and behind Kirk.",
       "transcript_snippet": "he's behind Charlie when he gets out of the car. Like Charlie comes out of his car, arrives for the event. He's with the amazing Mikey McCoy.",
@@ -3132,7 +3220,9 @@
         "A-1383.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:57",
       "investigative_direction": "Obtain Turek's full interview and arrival photos with metadata to establish the sequence.",
       "transcript_snippet": "So we get there, we pray, we get out of the car, there's a whole bunch of TPUSA leaders there that want to pose for pictures.",
@@ -3152,7 +3242,9 @@
       "related_nodes": [
         "N-10436"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:09",
       "investigative_direction": "Search military service records for any Hibbs family members.",
       "transcript_snippet": "Hibs are from a military family. Okay. Uh Butch senior was in the Navy.",
@@ -3171,7 +3263,9 @@
       "related_nodes": [
         "N-10131"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:09",
       "investigative_direction": "Ask the host for the original communication from PragerU about Hibbs.",
       "transcript_snippet": "Jack Hibbs was somebody that Marissa Flag for me that she wanted me to have on my show",
@@ -3192,7 +3286,9 @@
         "N-11167",
         "N-10131"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:00",
       "investigative_direction": "Confirm the introduction timeline between PragerU, Streit and Ballard from the host's records.",
       "transcript_snippet": "also was introduced to me by Visha Stray.",
@@ -3214,7 +3310,9 @@
       "related_nodes": [
         "N-10245"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:39",
       "investigative_direction": "Check public reporting on Patel's marital status and the start of the relationship.",
       "transcript_snippet": "Like you left your wife, you've been with this girl for like a year and a half.",
@@ -3236,7 +3334,9 @@
         "N-10245",
         "N-10015"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:38",
       "investigative_direction": "Obtain the filed complaint and verify the quoted paragraph and filing date.",
       "transcript_snippet": "Ever since Kash Patel was appointed as director of the FBI in February of 2025, the conspiratorial corners of the internet and social media have been spreading a false narrative that Ms. Wilkins is an Israeli MSAD agent",
@@ -3260,7 +3360,9 @@
       "related_nodes": [
         "N-10245"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:38",
       "investigative_direction": "Compare each defendant's alleged conduct in the complaint with the original posts.",
       "transcript_snippet": "they didn't even explicitly call her a honeypot. They just posted a picture.",
@@ -3284,7 +3386,9 @@
       "related_nodes": [
         "N-10245"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:38",
       "investigative_direction": "Seek any Patel statement on whether he knew of or approved the filing; the host offers this as an inference.",
       "transcript_snippet": "means that she did this with the blessing of her quote unquote life partner, Kash Patel. He knew this was happening.",
@@ -3303,7 +3407,9 @@
       "related_nodes": [
         "N-10245"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:30",
       "investigative_direction": "Review the host's earlier remarks about Wilkins for any statement that conflicts with this disclaimer.",
       "transcript_snippet": "I don't know. I've never made that claim.",
@@ -3323,7 +3429,9 @@
         "N-10131",
         "N-10245"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:30",
       "investigative_direction": "Check Wilkins's employment history and Streit's biography for any PragerU role or IDF service.",
       "transcript_snippet": "people saying she works for Marissa Strait Prageru who uh you know she's formerly of the IDF intelligence unit.",
@@ -3344,7 +3452,9 @@
       "related_nodes": [
         "N-11234"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:44:55",
       "investigative_direction": "Verify through Oaks Christian alumni listings or yearbooks.",
       "transcript_snippet": "It looks like Mikey McCoy went to Oaks Christian in Thousand Oaks.",
@@ -3364,7 +3474,9 @@
       "related_nodes": [
         "N-11234"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:44:55",
       "investigative_direction": "Check school leadership records for Rob McCoy and the school's actual name and type.",
       "transcript_snippet": "Rob McCoy ran that school. He ran Little Oaks. It's like a boarding school.",
@@ -3386,7 +3498,9 @@
         "N-11234",
         "N-10248"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:59",
       "investigative_direction": "Locate the news article and county or corporate records of the purchase.",
       "transcript_snippet": "Outright purchased uh the Christian Academy in 2009, I believe it was.",
@@ -3406,7 +3520,9 @@
       "related_nodes": [
         "N-11234"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:59",
       "investigative_direction": "Search federal docket records for the teachers' case against the Christian Academy of Thousand Oaks and its outcome.",
       "transcript_snippet": "the teachers were suing Rob because he fired them and then Rob was suing them saying, \"Well, I fired you because you weren't Christian enough and you didn't come to church on Sundays.\"",
@@ -3424,7 +3540,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:46:30",
       "investigative_direction": "Opinion framing; no direct test, retained for context.",
       "transcript_snippet": "And they're just trying to gaslight us to pretend like their behavior is normal.",
@@ -3445,13 +3563,15 @@
         "N-10000",
         "N-11084"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:44",
       "investigative_direction": "Not independently testable beyond the host's file; seek corroboration from other former TPUSA staff.",
       "transcript_snippet": "who have intimately let me know the things that the Ericson brothers are doing and saying and texting, and I I just have a file of all of it because of people at Turning Point USA",
       "mentions_person_refs": [
         "N-20",
-        "N-866",
+        "N-865",
         "N-3",
         "N-1"
       ]
@@ -3468,7 +3588,9 @@
       "related_nodes": [
         "N-10004"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:13",
       "investigative_direction": "Retrieve the original tweet and Kanye's follow-up explanations to settle the exact wording.",
       "transcript_snippet": "he wrote death. He meant defcon 3 because it's a defensive position.",
@@ -3493,7 +3615,9 @@
         "N-10004",
         "N-11121"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:13",
       "investigative_direction": "Review Kanye's contemporaneous statements about who he was referring to.",
       "transcript_snippet": "I think he was talking about some Zionists in Hollywood and he did mean to see to say Defcon 3",
@@ -3514,7 +3638,9 @@
       "related_nodes": [
         "N-10004"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:13",
       "investigative_direction": "Retrieve the archived tweet text.",
       "transcript_snippet": "you guys have toyed with me and tried to blackball anyone who ever opposes your agenda",
@@ -3532,7 +3658,9 @@
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:50:14",
       "investigative_direction": "Assertion about a country and group recorded as said; compare with US-Israel aid and troop-strength figures.",
       "transcript_snippet": "Yeah, they don't have enough bodies. They need us. So, they play psychological games with us so that we convince our sons to go die for them.",
@@ -3548,7 +3676,9 @@
       "claim": "The host says the Iraq war killed about a million Iraqi civilians.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:52:05",
       "investigative_direction": "Compare with published Iraq war civilian death estimates, which vary widely.",
       "transcript_snippet": "We just killed like a million Iraqi civilians, by the way.",
@@ -3566,7 +3696,9 @@
       "related_nodes": [
         "N-10063"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:52:05",
       "investigative_direction": "Review reporting on Gaza redevelopment proposals and Kushner's business interests.",
       "transcript_snippet": "Trump needs a casino, right? Uh Jared's doing deals. They want they want beachfront properties.",
@@ -3583,7 +3715,9 @@
       "claim": "The host says that, looking at the history of speech laws, passing them seems to be a general thing Zionists like to do in order to rewrite history.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:54:04",
       "investigative_direction": "Sweeping group claim recorded as said; no specific record.",
       "transcript_snippet": "it does seem like a a general thing that Zionists like to do so that they can rewrite history.",

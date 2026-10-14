@@ -1717,8 +1717,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-852",
-      "ref": "N-852",
+      "@id": "N-851",
+      "ref": "N-851",
       "name": "Casey Baugh",
       "type": "person",
       "description": "First named by the host at 00:03:53 in episode 22 as a co-owner of the Maxfield plane and as having his name on the Baugh Entrepreneurship Institute at UVU.",
@@ -2143,7 +2143,9 @@
         "N-10074",
         "N-10204"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:00",
       "investigative_direction": "Government or airport records of any Egyptian military personnel in Utah on September 10, 2025, and the basis for the host's claim.",
       "transcript_snippet": "there were some Egyptian military men that were on the ground on September 10th in Utah on the day of Charlie Kirk's assassination",
@@ -2165,7 +2167,9 @@
         "N-10203",
         "N-10074"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:01",
       "investigative_direction": "FlightRadar history of the plane showing the Kalispell stop duration and return track.",
       "transcript_snippet": "it continued on to Kalispell, Montana, and then it lands for just under an hour before it again departs back for Texas.",
@@ -2186,14 +2190,16 @@
       "related_nodes": [
         "N-10849"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:03:53",
       "investigative_direction": "FAA aircraft registration and ownership records for the Maxfield plane.",
       "transcript_snippet": "Someone who didn't hit internet radar who also co-owns that plane with them is a person named Casey Baugh, B A U G H.",
       "mentions_person_refs": [
         "N-94",
         "N-204",
-        "N-852",
+        "N-851",
         "N-3"
       ]
     },
@@ -2208,12 +2214,14 @@
         "N-10849",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:03:53",
       "investigative_direction": "UVU website and records for the Baugh Entrepreneurship Institute and its location.",
       "transcript_snippet": "the Baugh Entrepreneurship Institute, which operates out of the Woodbury Business Building, okay?",
       "mentions_person_refs": [
-        "N-852",
+        "N-851",
         "N-3"
       ]
     },
@@ -2228,13 +2236,15 @@
         "N-10028",
         "N-10849"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:53",
       "investigative_direction": "Charging documents and campus video establishing where Robinson was relative to the Woodbury Business Building.",
       "transcript_snippet": "of course, now we know that Tyler Robinson was not on the Woodbury building or on campus at all, for that matter.",
       "mentions_person_refs": [
         "N-40",
-        "N-852",
+        "N-851",
         "N-3"
       ]
     },
@@ -2249,7 +2259,9 @@
         "N-10205",
         "N-10549"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:46",
       "investigative_direction": "ADS-B and FlightRadar coverage records for N888KG after the 1:20 p.m. departure.",
       "transcript_snippet": "they seemingly turned their transponder off. That alarmed the public.",
@@ -2274,7 +2286,9 @@
       "related_nodes": [
         "N-10205"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:12",
       "investigative_direction": "Flight logs and FAA records for N888KG's Provo-Page-Provo legs on September 10.",
       "transcript_snippet": "We departed that PGA Airport in Arizona at approximately 1:40 and arrived at PVU at approximately 3:15 p. m. Mountain time.",
@@ -2299,7 +2313,9 @@
       "related_nodes": [
         "N-10205"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:12",
       "investigative_direction": "Utah or federal law-enforcement confirmation of whether the N888KG crew or passengers were interviewed.",
       "transcript_snippet": "To our knowledge, no one associated with yesterday's flight by N888KG has been contacted by law enforcement for any reason.",
@@ -2319,7 +2335,9 @@
         "N-10205",
         "N-10203"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:22",
       "investigative_direction": "Identification of the pilots and airport staff, and any instruction given to airport personnel about the flight.",
       "transcript_snippet": "Even airport personnel had been instructed to lie actually.",
@@ -2340,7 +2358,9 @@
         "N-10190",
         "N-10074"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:26",
       "investigative_direction": "FBO arrival records and ramp logs for Provo for September 10, 2025.",
       "transcript_snippet": "there was one person who said they were supposed to land at Millionaire FBO, but then suddenly they shifted to another FBO",
@@ -2356,7 +2376,9 @@
       "claim": "The host says that in the Brigitte Macron case she went after people for defamation over a side claim, such as stealing her sister's ID, and the media then said the main claim had been debunked.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:11:14",
       "investigative_direction": "The court filings in the Macron defamation actions.",
       "transcript_snippet": "She started going after people for defamation, not people that wasn't attacking them for the substance of the claim",
@@ -2378,7 +2400,9 @@
         "N-10204",
         "N-10207"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:09",
       "investigative_direction": "FlightRadar or FAA records of SU-BTT's US arrivals from September 2024 to September 2025.",
       "transcript_snippet": "that Egyptian military plane had previously only ever been to the United States twice in that past year and both times it was in the lead up in the weeks leading up to Charlie Kirk's assassination",
@@ -2403,7 +2427,9 @@
         "N-10853",
         "N-10207"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:53",
       "investigative_direction": "Original FlightRadar record of SU-BTT's Provo departure time in UTC and local time.",
       "transcript_snippet": "I thought that I was looking at Mountain Time like a local time on Flight Radar. As Mark just explained, no, they do it according to Universal Time.",
@@ -2426,7 +2452,9 @@
         "N-11020",
         "N-10299"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:12:53",
       "investigative_direction": "Engagement and amplification data for the account and post that claimed the debunk.",
       "transcript_snippet": "Then I saw that the one random Twitter user that caught that mistake suddenly got boosted in the algorithm and they made it a trending story.",
@@ -2446,7 +2474,9 @@
       "related_nodes": [
         "N-10204"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:07",
       "investigative_direction": "Verification of the tipster's identity and relationship to the flight, without exposing the source.",
       "transcript_snippet": "it was someone from a foreign country. They wrote us claiming to have intimate knowledge regarding the flight.",
@@ -2470,7 +2500,9 @@
         "N-10204",
         "N-10299"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:53",
       "investigative_direction": "Passenger and crew manifests and customs records for SU-BTT on September 4 and 10-11, 2025.",
       "transcript_snippet": "Well, I'm telling you that for a fact that plane was carrying military subcontractors and for a fact they were dropped off in Provo, okay?",
@@ -2495,7 +2527,9 @@
         "N-10202",
         "N-10204"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:59",
       "investigative_direction": "Any FBI or DOJ public statement about the purpose of SU-BTT's Provo visit.",
       "transcript_snippet": "That aircraft was not in Utah for any routine servicing, okay?",
@@ -2518,7 +2552,9 @@
         "N-10277",
         "N-10074"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:38",
       "investigative_direction": "FlightRadar business-account history for SU-BTT, September 2025.",
       "transcript_snippet": "it went from Cairo to Paris to France to Minot, North Dakota. On September 10th, it departed Provo.",
@@ -2541,7 +2577,9 @@
       "related_nodes": [
         "N-10204"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:31",
       "investigative_direction": "Follow-up with the tipster on the mission's nature, and any official explanation.",
       "transcript_snippet": "this individual never ever said that the mission, the secret mission, was related to Charlie Kirk.",
@@ -2566,7 +2604,9 @@
         "N-10202",
         "N-10355"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:18",
       "investigative_direction": "Patel's public statements about who is authorized to investigate and the reported feud with the counterterrorism chief.",
       "transcript_snippet": "There's absolutely no reason for Kash Patel to say, \"Only I'm the person that's supposed to be looking into this.\"",
@@ -2591,7 +2631,9 @@
         "N-10204",
         "N-10074"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:23",
       "investigative_direction": "Tips received at the address on the Egyptian flight and its passengers.",
       "transcript_snippet": "If you have information, please email us at moretips@candaceowens. com pertaining to this this Egyptian flight, this military flight.",
@@ -2610,7 +2652,9 @@
         "N-10000",
         "N-10268"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:01",
       "investigative_direction": "The Tucker Carlson-Nick Fuentes interview and statements from TPUSA about Tucker's future events.",
       "transcript_snippet": "Tucker Carlson, in case you missed it, hosted Nick Fuentes on his show.",
@@ -2632,7 +2676,9 @@
       "related_nodes": [
         "N-10070"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:52",
       "investigative_direction": "The published Daily Mail op-ed text.",
       "transcript_snippet": "Tucker Carlson just hit a new low with this heinous betrayal of my friend Charlie Kirk who is surely now rolling in his grave.",
@@ -2658,7 +2704,9 @@
       "related_nodes": [
         "N-10070"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:31:36",
       "investigative_direction": "The published Daily Mail op-ed text.",
       "transcript_snippet": "They hope to burn down MAGA and build a neo-pagan, anti-Western, anti-biblical movement in its stead.",
@@ -2680,7 +2728,9 @@
       "related_nodes": [
         "N-10187"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:36",
       "investigative_direction": "Hammer's public statements about Charlie's Israel views compared with the text-chain messages.",
       "transcript_snippet": "who lied about Charlie's views on Israel changing even though he was on the text message chain.",
@@ -2706,7 +2756,9 @@
         "N-11220",
         "N-10452"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:30",
       "investigative_direction": "The Stop Antisemitism account's 2024 list and any award announcement.",
       "transcript_snippet": "That account awarded me last year the top anti-Semite of the year.",
@@ -2727,7 +2779,9 @@
         "N-10345",
         "N-10027"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:20",
       "investigative_direction": "Attendee accounts of the Hamptons summit and Seth Dillon's statements about it.",
       "transcript_snippet": "this is the same Seth Dillon at that notorious Hampton's summit who I told you pressed Charlie and a couple weeks before he died was horrific to Charlie",
@@ -2752,7 +2806,9 @@
       "related_nodes": [
         "N-10454"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:53",
       "investigative_direction": "The full Piers Morgan or related interview with Dave Smith.",
       "transcript_snippet": "And the reason why they got so much support behind them is cuz they were against this destruction of Gaza",
@@ -2774,7 +2830,9 @@
       "related_nodes": [
         "N-10209"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:02",
       "investigative_direction": "The full clip and context of Smith's remarks.",
       "transcript_snippet": "Yeah, I disagreed with Charlie on that, too.",
@@ -2798,7 +2856,9 @@
         "N-10148",
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:47",
       "investigative_direction": "The source of Charlie's reported statement two days before his death (messages or recorded remarks).",
       "transcript_snippet": "2 days before Charlie Kirk was killed, he was explicit in saying he was left with no choice but to leave the pro-Israel cause",
@@ -2819,7 +2879,9 @@
         "N-10134",
         "N-10673"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:32",
       "investigative_direction": "Calendar, travel and attendee records for the Hamptons gathering in early August 2025.",
       "transcript_snippet": "was it August 5th and 6th, pressing him on the things that he said about Bibi Netanyahu.",
@@ -2841,7 +2903,9 @@
         "N-10268",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:06",
       "investigative_direction": "The text-chain messages showing Charlie's instruction to keep Tucker on the roster.",
       "transcript_snippet": "He fought tooth and nail to make sure that Tucker Carlson stayed on the Turning Point USA speaking list.",
@@ -2867,7 +2931,9 @@
         "N-10106",
         "N-10268"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:06",
       "investigative_direction": "The original episode or message from which the clip is drawn and its source text.",
       "transcript_snippet": "I don't appreciate being morally blackmailed.\" And, you know, and every time people would say that to him, he would dig his heels in.",
@@ -2889,7 +2955,9 @@
         "A-1298.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:49",
       "investigative_direction": "The original message in which Charlie used the David reference.",
       "transcript_snippet": "What do you think Charlie meant when he said he wanted you to be his David?\" And I took the obvious answer, which was to slay a Goliath",
@@ -2911,7 +2979,9 @@
         "A-1298.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:43:34",
       "investigative_direction": "The biblical text (1 Samuel) and scholarship on the Jonathan-David covenant.",
       "transcript_snippet": "an act that has been interpreted as a transfer of succession.",
@@ -2930,7 +3000,9 @@
         "N-10345",
         "N-10047"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:21",
       "investigative_direction": "Text-chain messages and Hamptons attendee accounts documenting the pressure.",
       "transcript_snippet": "the very same people that were making Charlie ill with the threats, with the money, uh who were pressing him at the Hampton, Seth Dillon, Josh Hammer on the text",
@@ -2954,7 +3026,9 @@
         "A-1295.3"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:05",
       "investigative_direction": "The original broadcast and date of the Seth Dillon clip about Nick Fuentes.",
       "transcript_snippet": "Okay, it wasn't on Piers Morgan, right, Skyler?",
@@ -2978,7 +3052,9 @@
       "related_nodes": [
         "N-11221"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:00",
       "investigative_direction": "Newsweek's masthead for Josh Hammer.",
       "transcript_snippet": "Josh Hammer is actually the editor-at-large at Newsweek.",
@@ -2997,7 +3073,9 @@
         "A-3011.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:47",
       "investigative_direction": "The statements by those she names later, compared against the evidence she holds.",
       "transcript_snippet": "I am trying to figure out who the rats are on the ship and that is why I've been intentionally setting bait",
@@ -3016,7 +3094,9 @@
         "A-3011.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:47",
       "investigative_direction": "Identification of the individuals the host has in mind and her evidence.",
       "transcript_snippet": "I know that there's rats on the ship. Some I know for certain",
@@ -3033,7 +3113,9 @@
       "claim": "The host says her book Make Him a Sandwich is out and available at makehimasandwich.com to support her independent work.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:53:47",
       "investigative_direction": "The book's publication record.",
       "transcript_snippet": "Also, the book I am so happy. Make Him a Sandwich is finally out.",
@@ -3051,7 +3133,9 @@
       "related_nodes": [
         "N-10048"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:55:17",
       "investigative_direction": "Later statements by the host on a shooter and on the betrayal question.",
       "transcript_snippet": "I don't know actually who pulled the trigger and killed Charlie Kirk, right?",
@@ -3073,7 +3157,9 @@
         "N-10185",
         "N-11222"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:55:55",
       "investigative_direction": "FAA registration of N1098L and its owner LSA LLC, and any link to defense contractors.",
       "transcript_snippet": "So, that second plane is the LSA LLC one.",
@@ -3097,7 +3183,9 @@
         "N-10185",
         "N-10203"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:56:45",
       "investigative_direction": "FlightRadar track for N1098L around 9:35 to 10:05 a.m. Mountain time.",
       "transcript_snippet": "here's a screenshot of where that plane was at the moment Charlie was shot.",
@@ -3121,7 +3209,9 @@
         "N-10047",
         "N-10467"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:59:13",
       "investigative_direction": "Erika Kirk and TPUSA's donor communications about Tucker Carlson's future appearances.",
       "transcript_snippet": "it's going to be tough for Erika. It's got to be tough for Erika in this moment because she's going to be feeling that pressure",
@@ -3142,7 +3232,9 @@
       "claim": "Discussing the book Assault on Truth, the host says Sigmund Freud was factually defending his pedophile friends and that modern psychology was brought to America and Hollywood.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:00:34",
       "investigative_direction": "The book Assault on Truth and its sourcing.",
       "transcript_snippet": "Sigmund Freud was factually defending his pedophile friends.",
@@ -3161,7 +3253,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:01:23",
       "investigative_direction": "Footage of the Hammer-Dave Smith TPUSA exchange and the later struggle-session clips.",
       "transcript_snippet": "Josh Hammer was angry after he got destroyed by Dave Smith on Turning Point USA stage, so he privately started the struggle section uh session",
@@ -3181,7 +3275,9 @@
         "A-3010.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:02:15",
       "investigative_direction": "The interview's release date and video.",
       "transcript_snippet": "tomorrow is a Norm Finkelstein interview.",

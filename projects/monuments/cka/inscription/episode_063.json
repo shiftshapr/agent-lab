@@ -67,7 +67,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-506",
+            "N-15",
             "N-10444"
           ],
           "tags": [],
@@ -166,7 +166,7 @@
             "C-2203"
           ],
           "related_nodes": [
-            "N-507",
+            "N-506",
             "N-10445"
           ],
           "tags": [],
@@ -192,7 +192,7 @@
             "C-2203"
           ],
           "related_nodes": [
-            "N-507",
+            "N-506",
             "N-10445"
           ],
           "tags": [],
@@ -218,7 +218,7 @@
             "C-2204"
           ],
           "related_nodes": [
-            "N-507"
+            "N-506"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -472,8 +472,8 @@
           ],
           "related_nodes": [
             "N-3",
+            "N-780",
             "N-781",
-            "N-782",
             "N-467",
             "N-481"
           ],
@@ -501,7 +501,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-782"
+            "N-781"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -527,7 +527,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-507"
+            "N-506"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -554,8 +554,8 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-507",
-            "N-784"
+            "N-506",
+            "N-783"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -581,7 +581,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-784"
+            "N-783"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -635,16 +635,18 @@
     },
     {
       "@type": "Person",
-      "@id": "N-506",
-      "ref": "N-506",
-      "name": "Justin (TPUSA COO)",
+      "@id": "N-15",
+      "ref": "N-15",
+      "name": "Justin Streiff",
       "type": "person",
       "description": "Referenced in Erika Kirk's on-call statements (A-1676.3) as newly appointed COO who was working with Charlie on Vision 2030.",
       "related_artifacts": [
         "A-1676.3"
       ],
       "related_claims": [
-        "C-2197"
+        "C-2197",
+        "C-7006",
+        "C-7007"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -657,8 +659,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-507",
-      "ref": "N-507",
+      "@id": "N-506",
+      "ref": "N-506",
       "name": "Lorie Cardardoza Moore",
       "type": "person",
       "description": "Identified via audio match as the author of the Christian Zionist threat message (A-1680.1, A-1681.1) and as having a prior acting/romance hotline background (A-1682.1); described by host as evangelical Zionist who learned later that she is Jewish.",
@@ -726,7 +728,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-506"
+        "N-15"
       ]
     },
     {
@@ -749,7 +751,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-507"
+        "N-506"
       ]
     },
     {
@@ -888,24 +890,6 @@
     },
     {
       "@type": "Person",
-      "@id": "N-15",
-      "ref": "N-15",
-      "name": "Justin Strife",
-      "type": "person",
-      "description": "TPUSA COO; named by Erika Kirk on the call as the person Charlie worked with on Vision 2030 and with whom the board and she are implementing the plans. Transcript renders only 'Justin'.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-7006",
-        "C-7007"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 2,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
       "@id": "N-22",
       "ref": "N-22",
       "name": "Tucker Carlson",
@@ -1029,8 +1013,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-781",
-      "ref": "N-781",
+      "@id": "N-780",
+      "ref": "N-780",
       "name": "Helen Barts",
       "type": "person",
       "description": "First named by the host at 00:29:53 in episode 063. Founder of Creative Children's Academy per the host; later said to have run the Shaklee Center in Arlington Heights. Transcript variants: Helen Arts.",
@@ -1049,8 +1033,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-782",
-      "ref": "N-782",
+      "@id": "N-781",
+      "ref": "N-781",
       "name": "Edith Walker Montgomery",
       "type": "person",
       "description": "First named by the host at 00:29:53 in episode 063. Wife of Bill Montgomery, goes by Edith Walker; alleged immigrant from Germany and psychiatric nurse. Alias: Edith Marie Walker, Edith Walker.",
@@ -1070,8 +1054,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-783",
-      "ref": "N-783",
+      "@id": "N-782",
+      "ref": "N-782",
       "name": "Michelle Bachmann",
       "type": "person",
       "description": "First named by Lorie Cardardoza Moore in the audio at 00:39:08 in episode 063. Spoke for five minutes at the TPUSA Tampa conference per Moore.",
@@ -1088,8 +1072,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-784",
-      "ref": "N-784",
+      "@id": "N-783",
+      "ref": "N-783",
       "name": "Stanley Clark Moore",
       "type": "person",
       "description": "First named by the host at 00:41:47 in episode 063. Husband of Lorie Cardardoza Moore with an Air Force background per the host.",
@@ -1644,7 +1628,7 @@
       "investigative_direction": "Obtain TPUSA board minutes, executive announcements regarding Justin's appointment, and any Vision 2030 documents; compare timeline against Charlie's known 2025 public statements.",
       "mentions_person_refs": [
         "N-2",
-        "N-506"
+        "N-15"
       ]
     },
     {
@@ -1753,7 +1737,7 @@
       "claim_timestamp": "00:39:08",
       "investigative_direction": "Obtain independent forensic voice comparison; verify Lorie Cardardoza Moore's identity, contact details, and any prior communications with TPUSA staff or affiliates.",
       "mentions_person_refs": [
-        "N-507"
+        "N-506"
       ]
     },
     {
@@ -1770,7 +1754,7 @@
       "claim_timestamp": "00:41:47",
       "investigative_direction": "Establish provenance and dating of the romance hotline recording; obtain Lorie Cardardoza Moore's professional résumé or acting credits for corroboration.",
       "mentions_person_refs": [
-        "N-507"
+        "N-506"
       ]
     },
     {
@@ -1817,7 +1801,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:51",
       "investigative_direction": "Confirm the call date and invitee list through TPUSA internal calendar invitations or the leaked recording's metadata.",
       "transcript_snippet": "She headed up this conference call about 12 days after Charlie was assassinated, just after the memorial event.",
@@ -1837,7 +1823,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:02:23",
       "investigative_direction": "Track the subsequent episodes in the series and compare each stated background fact against primary records.",
       "transcript_snippet": "We are doing a couple of episodes to separate fact from fiction when it comes to the background of Erika Kirk because the public deserves to know",
@@ -1856,7 +1844,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:23",
       "investigative_direction": "Compare the figure against TPUSA and Turning Point Action donation disclosures, Form 990 filings and any public statements by the organization.",
       "transcript_snippet": "a charitable organization which happened to have raised over a quarter of a billion dollars following the assassination of its founder",
@@ -1879,7 +1869,9 @@
         "N-10439",
         "N-10492"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:47",
       "investigative_direction": "Obtain termination notices or severance paperwork for staff who worked on the memorial and check the stated reasons and dates.",
       "transcript_snippet": "especially the recent bout of paranoia where we had a bunch of employees who factually worked 20our days.",
@@ -1898,7 +1890,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:04:44",
       "investigative_direction": "Obtain copies of any cease and desist letters from TPUSA or its counsel and identify the recipients.",
       "transcript_snippet": "They are allowed to ask questions even if you want to send out a bunch of cease and desist letters.",
@@ -1918,7 +1912,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:44",
       "investigative_direction": "Verify the call date from recording metadata or the Zoom invitation and identify who recorded and leaked it.",
       "transcript_snippet": "So for clarity, this call took took place on Monday, uh, September 22nd.",
@@ -1938,7 +1934,9 @@
       "related_nodes": [
         "N-10323"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:44",
       "investigative_direction": "Establish the date, venue and attendee list of the funeral mass through the church or TPUSA statements.",
       "transcript_snippet": "it's also less than 48 hours about 48 hours after his uh private Catholic funeral mass which the public was not privy to.",
@@ -1958,7 +1956,9 @@
         "N-10323",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:44",
       "investigative_direction": "Identify which donors attended the funeral mass and how invitations were issued.",
       "transcript_snippet": "Um but top paying donors were that's also odd.",
@@ -1976,7 +1976,9 @@
       "related_nodes": [
         "N-10905"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:05:53",
       "investigative_direction": "Check the host's own timeline of travel and posting during September 2025 against public posts.",
       "transcript_snippet": "You remember I had to go away to Wyoming just to breathe.",
@@ -1998,7 +2000,9 @@
         "N-10905",
         "N-10968"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:45",
       "investigative_direction": "Locate the original New York Times article and confirm the wording and the date of the interview.",
       "transcript_snippet": "The president's tone she said was soft and embracing. I could tell he wanted to hug me.",
@@ -2020,7 +2024,9 @@
         "N-10905",
         "N-10968"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:07:45",
       "investigative_direction": "Confirm the children's ages in the published article and against other reporting.",
       "transcript_snippet": "now left to care for a three-year-old daughter and a one-year-old son.",
@@ -2039,7 +2045,9 @@
         "N-10323",
         "N-10002"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:30",
       "investigative_direction": "Confirm the funeral mass date, time and venue through the church or contemporaneous reporting.",
       "transcript_snippet": "On the 20th, we have the funeral mass which is held at a church at 11:00 a. m.",
@@ -2058,7 +2066,9 @@
       "related_nodes": [
         "N-10002"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:09:30",
       "investigative_direction": "Verify against stadium and event records and contemporaneous coverage (publicly documented).",
       "transcript_snippet": "On the 21st is the public memorial event that is held at State Farm Stadium.",
@@ -2079,7 +2089,9 @@
       "related_nodes": [
         "N-10002"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:30",
       "investigative_direction": "Identify the restaurant and attendees via receipts, reservations or the host's email source.",
       "transcript_snippet": "There's a private dinner. Not going to mention what restaurant it's at, but the McCoys are there. Elizabeth, Mikey, Erika, uh, and they're in joyous spirits",
@@ -2102,7 +2114,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:16",
       "investigative_direction": "Obtain the full 15-minute recording and compare the aired excerpts against it for context.",
       "transcript_snippet": "Now, the entirety of this call, which we're not going to play, is 15 minutes long.",
@@ -2122,7 +2136,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:24",
       "investigative_direction": "Compare the stated voter registration and merch figures with TPUSA sales data and later disclosures.",
       "transcript_snippet": "We had thousands that were registered to vote. I think we're at like over 200,000 for merch sales. Don't quote me on that",
@@ -2143,7 +2159,9 @@
         "N-10000",
         "N-10439"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:42",
       "investigative_direction": "Interview staff who worked on the memorial about hours and sleep, and compare with payroll or badge records.",
       "transcript_snippet": "I know several staff that didn't even sleep.",
@@ -2163,7 +2181,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:37",
       "investigative_direction": "Establish whether internal TPUSA conflicts existed at the time and who the message was aimed at.",
       "transcript_snippet": "I don't care if any of you have beef with each other from the past",
@@ -2184,7 +2204,9 @@
         "N-10000",
         "N-10002"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:15:47",
       "investigative_direction": "Obtain travel and expense records showing who flew in for the memorial and who paid.",
       "transcript_snippet": "I was I was really adamant about making sure that we paid for your flights for your spouses to be there.",
@@ -2204,7 +2226,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:47",
       "investigative_direction": "Compare the call's stated work pace with TPUSA event and staffing records after September 10.",
       "transcript_snippet": "Charlie would want us to get back to work and that's what we're doing and that's what we did with the memorial",
@@ -2225,7 +2249,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:47",
       "investigative_direction": "Compare the claimed chapter requests and new donors with TPUSA's own later statements, filings and donor-platform data.",
       "transcript_snippet": "since his assassination, uh, we have 100,000 chapter 100,000 chapter requests. Uh, we have 300,000 new donors.",
@@ -2246,7 +2272,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:18:49",
       "investigative_direction": "Compare with TPUSA merchandise fulfillment records and AmFest registration counts reported later.",
       "transcript_snippet": "I think we have 50,000 plus hat orders to fulfill.",
@@ -2267,7 +2295,9 @@
         "N-10000",
         "N-10443"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:49",
       "investigative_direction": "Interview employees who were on the call, preferably on the record, about how the paid time off message was received.",
       "transcript_snippet": "So basically what the employees said to me was that they got onto this call and you know everyone's exhausted",
@@ -2288,7 +2318,9 @@
       "related_nodes": [
         "N-10444"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:47",
       "investigative_direction": "Ask Justin Streiff and TPUSA board members to confirm the 2030 planning conversations and the timing of his COO appointment.",
       "transcript_snippet": "I remember phone calls when Charlie and I would take our night walks and it would be 10:00 at night and him and Justin would just be talking about the plans.",
@@ -2311,7 +2343,9 @@
         "N-10444",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:52",
       "investigative_direction": "Obtain board minutes and executive team announcements on the 2030 plan.",
       "transcript_snippet": "the board and I are working with Justin and the executive leadership teams to make sure that all of those plans come into effect 2030 and beyond.",
@@ -2333,7 +2367,9 @@
         "N-10000",
         "N-10443"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:52",
       "investigative_direction": "Compare Erika's tone on this call with her public statements from the same period.",
       "transcript_snippet": "And it's weird to say I'm excited. I I really hesitate saying that.",
@@ -2352,7 +2388,9 @@
         "N-10000",
         "N-10439"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:32",
       "investigative_direction": "Interview former staff about Erika's office attendance in September 2025, and check badge or calendar records and Sheridan's role at TPUSA.",
       "transcript_snippet": "She was in the office every day with Stacy Sheridan, running around with Stacy Sheridan, taking phone calls with Stacy Sheridan.",
@@ -2373,7 +2411,9 @@
         "N-10422",
         "N-10413"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:25:45",
       "investigative_direction": "Identify any documentation that a military or intelligence program tracked GATE or gifted children in the Chicago area; the host presents this as a theory.",
       "transcript_snippet": "On my episode, I posited that the military was keeping its eye on quote unquote gate children",
@@ -2390,7 +2430,9 @@
       "claim": "The host says she previously told viewers that street lights used to go out when Charlie ran, that there is a term for it, and that commenters said many people experience it.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:25:45",
       "investigative_direction": "Ask people close to Charlie Kirk to confirm or deny the anecdote; the host reports it second-hand.",
       "transcript_snippet": "I told you guys also that street lights used to go out when he ran.",
@@ -2411,7 +2453,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:33",
       "investigative_direction": "Compare with published founding accounts of TPUSA and Charlie Kirk's own statements on West Point.",
       "transcript_snippet": "The story the public knows and the story that I was told is that Charlie was this teenager, didn't get into West Point.",
@@ -2429,7 +2473,9 @@
       "claim": "The host says Bill Montgomery has since passed, that she met him and that he was very kind to her, and that she is raising his role only because she is now interested in the TPUSA origin story.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:32",
       "investigative_direction": "Confirm Montgomery's death date and obituary details.",
       "transcript_snippet": "He has since passed. I've met Bill Montgomery. He's very kind to me.",
@@ -2448,7 +2494,9 @@
       "related_nodes": [
         "N-10211"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:36",
       "investigative_direction": "Obtain Montgomery's military service record, obituary and Nebraska residence history.",
       "transcript_snippet": "Bill Montgomery was Air Force. He's in the Air Force reserves. Uh, Bill Montgomery also happened to be from Lincoln, Nebraska.",
@@ -2467,7 +2515,9 @@
       "related_nodes": [
         "N-11122"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:36",
       "investigative_direction": "Establish when and why Montgomery moved to the Chicago area using public records and obituaries.",
       "transcript_snippet": "we do know that he moved to the Chicago area thereafter, which obviously in the area where Charlie's X-Men School was.",
@@ -2488,7 +2538,9 @@
         "N-11122",
         "N-10422"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:28:36",
       "investigative_direction": "Confirm the school's founding year, rename and Charlie Kirk's enrollment through school records, state filings or alumni statements.",
       "transcript_snippet": "was actually called Creative Children's Academy. It opened in 1982 for the academically gifted.",
@@ -2507,7 +2559,9 @@
       "related_nodes": [
         "N-11122"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:28:36",
       "investigative_direction": "Locate the article and the school's tax filings and donor lists to identify corporate funders.",
       "transcript_snippet": "It tells us uh on its website or I'm sorry, in a past article that it receives corporate and private funding from who?",
@@ -2526,7 +2580,9 @@
         "N-11122",
         "N-11123"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Map the academy's address against Northrop Grumman facilities and check for any funding or personnel link.",
       "transcript_snippet": "What we do know is that it's a stones throw from Northrup Grumman",
@@ -2544,13 +2600,15 @@
       "related_nodes": [
         "N-11122"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Verify the founders through Illinois corporation filings and school history sources.",
       "transcript_snippet": "was founded by a woman named Helen Barts. Okay. Her husband is a Reverend Robert Barts of Arlington Heights.",
       "mentions_person_refs": [
         "N-3",
-        "N-781"
+        "N-780"
       ]
     },
     {
@@ -2565,15 +2623,17 @@
       "related_nodes": [
         "N-11122"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Obtain independent corroboration, such as church, business or social records, linking Barts and the Montgomerys.",
       "transcript_snippet": "Helen Barts was actually good friends with Bill Montgomery and his wife Edith Montgomery.",
       "mentions_person_refs": [
         "N-3",
-        "N-781",
+        "N-780",
         "N-467",
-        "N-782"
+        "N-781"
       ]
     },
     {
@@ -2586,13 +2646,15 @@
         "A-2847.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Search immigration, nursing licensure and employment records for Edith Marie Walker; the host asks viewers for help.",
       "transcript_snippet": "Edith Walker, who I've since learned immigrated from Germany after World War II, and I can't really find much else about her",
       "mentions_person_refs": [
         "N-3",
-        "N-782"
+        "N-781"
       ]
     },
     {
@@ -2607,14 +2669,16 @@
       "related_nodes": [
         "N-11122"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Compare school founding documents and archived web pages for any mention of Edith Walker.",
       "transcript_snippet": "she was actually the person that started the school with Helen Arts and that's has since virtually been wiped from public record.",
       "mentions_person_refs": [
         "N-3",
-        "N-782",
-        "N-781"
+        "N-781",
+        "N-780"
       ]
     },
     {
@@ -2629,14 +2693,16 @@
       "related_nodes": [
         "N-11124"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Seek Shaklee employment records or distributor histories for Montgomery, his wife and Robert Flood, and confirm any family link to Dan Flood.",
       "transcript_snippet": "The person claims that Bill and his wife and a certain Robert Flood who is in Dan Flood's family, this is what they claim",
       "mentions_person_refs": [
         "N-3",
         "N-467",
-        "N-782",
+        "N-781",
         "N-481",
         "N-276"
       ]
@@ -2651,7 +2717,9 @@
       "related_nodes": [
         "N-11124"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:31:47",
       "investigative_direction": "Check Shaklee's corporate history for the multivitamin claim.",
       "transcript_snippet": "The Shackley Corporation was the first company that ever created a multivitamin in America.",
@@ -2670,7 +2738,9 @@
         "N-11124",
         "N-11125"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:31:47",
       "investigative_direction": "Search NASA contract archives and Shaklee corporate history for any 25-year supplement contract.",
       "transcript_snippet": "it grew to be a massive company that engaged in a 25-year contract with NASA.",
@@ -2689,13 +2759,15 @@
         "N-11124",
         "N-11122"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:47",
       "investigative_direction": "Request the host's confirming source and look for Shaklee distributor or center records in Arlington Heights.",
       "transcript_snippet": "I confirmed that she did indeed prior to worked at Shackley. She actually ran the Shackley Center in Arlington Heights.",
       "mentions_person_refs": [
         "N-3",
-        "N-781"
+        "N-780"
       ]
     },
     {
@@ -2709,7 +2781,9 @@
         "N-11122",
         "N-10422"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:47",
       "investigative_direction": "Seek confirmation from Charlie's family or school records; the host relays a private conversation.",
       "transcript_snippet": "Charlie told me the story that they wanted to drug him when he was a kid, but his mom said no.",
@@ -2733,13 +2807,15 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:24",
       "investigative_direction": "Review incoming tip responses to the request; this is a call for crowd research.",
       "transcript_snippet": "email, send us an email at more tips@canacewowens. com.",
       "mentions_person_refs": [
         "N-3",
-        "N-782"
+        "N-781"
       ]
     },
     {
@@ -2752,7 +2828,9 @@
       "related_nodes": [
         "N-11126"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:36:41",
       "investigative_direction": "Operation Paperclip is historically documented; verify any link to the specific people discussed against primary records.",
       "transcript_snippet": "Operation Paperclip was when we went over and we got these quote unquote scientists scientist Nazis from Germany and we brought him here",
@@ -2771,7 +2849,9 @@
         "N-11125",
         "N-11126"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:36:41",
       "investigative_direction": "Host's stated belief; contrary to extensive public documentation of the Apollo missions.",
       "transcript_snippet": "because I don't believe we went to the moon",
@@ -2790,7 +2870,9 @@
         "N-11033",
         "N-10001"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:36:41",
       "investigative_direction": "Project Monarch is contested in the historical record; verify against declassified MKUltra documents.",
       "transcript_snippet": "project Monarch which was the precursor to MK Ultra",
@@ -2811,13 +2893,15 @@
         "N-10445",
         "N-10209"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:41",
       "investigative_direction": "Locate the Brave Report posts and Moore's own statements on her background.",
       "transcript_snippet": "Lorie Cardardoza Moore The Brave Report pulled up as an evangelical Zionist who said that she then learned later on that she's Jewish but she is still an evangelical.",
       "mentions_person_refs": [
         "N-3",
-        "N-507"
+        "N-506"
       ]
     },
     {
@@ -2833,14 +2917,16 @@
         "N-10445",
         "N-10209"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:08",
       "investigative_direction": "Identify the date of the Tampa conference and compare the account with video of Carlson's and Bachmann's sessions.",
       "transcript_snippet": "I had three couples reach out to me who had been to the Turning Point USA conference and this was in Tampa a couple weeks ago.",
       "mentions_person_refs": [
-        "N-507",
+        "N-506",
         "N-22",
-        "N-783"
+        "N-782"
       ]
     },
     {
@@ -2856,13 +2942,15 @@
         "N-10445",
         "N-10209"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:40:07",
       "investigative_direction": "Review the Tampa conference footage for the booing, walkouts and any remarks by Charlie Kirk afterward.",
       "transcript_snippet": "She said 10% in the room got up and walked out on her.",
       "mentions_person_refs": [
-        "N-507",
-        "N-783",
+        "N-506",
+        "N-782",
         "N-1",
         "N-22"
       ]
@@ -2877,14 +2965,16 @@
         "A-2850.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:47",
       "investigative_direction": "Search public records and the Wikipedia article for Stanley Clark Moore's biography and family.",
       "transcript_snippet": "married to a man named Stanley Clark Moore. He has an Air Force background.",
       "mentions_person_refs": [
         "N-3",
-        "N-507",
-        "N-784"
+        "N-506",
+        "N-783"
       ]
     },
     {
@@ -2899,13 +2989,15 @@
       "related_nodes": [
         "N-11125"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:47",
       "investigative_direction": "Read the Wikipedia article and its sources for the NASA employment claim.",
       "transcript_snippet": "Uh, also went to go work for NASA if if his Wikipedia is to be believed for a little bit.",
       "mentions_person_refs": [
         "N-3",
-        "N-784"
+        "N-783"
       ]
     },
     {
@@ -2920,13 +3012,15 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:01",
       "investigative_direction": "Review incoming tip responses; this is a call for crowd research.",
       "transcript_snippet": "Message us more tips at candacewowens. com.",
       "mentions_person_refs": [
         "N-3",
-        "N-784"
+        "N-783"
       ]
     },
     {
@@ -2940,7 +3034,9 @@
         "N-10000",
         "N-10197"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:01",
       "investigative_direction": "Identify the production company and its CEO's biography; confirm TPUSA's Super Bowl advertising plans.",
       "transcript_snippet": "Turning Point is, you know, shooting their Super Bowl commercial here in Tennessee in Nashville",
@@ -2956,7 +3052,9 @@
       "claim": "The host says she feels the military cult has been in power since LBJ helped murder JFK and put in his own people in the military.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:43:01",
       "investigative_direction": "Host's stated belief; historical sources on the JFK assassination would be the test.",
       "transcript_snippet": "the military cult has been in power since LBJ helped murder uh JFK set him up and then um I think cleaned house",
@@ -2976,7 +3074,9 @@
       "related_nodes": [
         "N-11127"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:58",
       "investigative_direction": "Locate the Wall Street Journal ad and confirm its date and text.",
       "transcript_snippet": "about Kanye taking out a full page in the Wall Street Journal to apologize",
@@ -2997,7 +3097,9 @@
       "related_nodes": [
         "N-11127"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:58",
       "investigative_direction": "Obtain the Vanity Fair piece and check the quoted statements.",
       "transcript_snippet": "He speaks about his bipolar episode. Said that he is on new meds",
@@ -3016,7 +3118,9 @@
       "related_nodes": [
         "N-11127"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:44:40",
       "investigative_direction": "Host's stated position; compare against her prior statements about Ye.",
       "transcript_snippet": "this has nothing to do with my viewpoints whatsoever on Israel",
@@ -3036,7 +3140,9 @@
         "N-10419",
         "N-10428"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:20",
       "investigative_direction": "Compare Erika's recorded statements about China with her documented residences; the host presents this as a lie.",
       "transcript_snippet": "I lived in China. No, I didn't live I never lived in China.",
@@ -3053,7 +3159,9 @@
       "claim": "The host says Erika said she did not date anybody for five years, that people then cleaned it up as meaning in New York City, and that she finds the reframing ridiculous and says the claim is just not true.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:20",
       "investigative_direction": "Locate Erika's original statement and any clarification; test it against known relationships in the period.",
       "transcript_snippet": "you don't say, I didn't date for five years if you did date for five years.",
@@ -3072,7 +3180,9 @@
       "related_nodes": [
         "N-10899"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:20",
       "investigative_direction": "Review the earlier episode on the Paramount Tactical tweet and Kolvet's response.",
       "transcript_snippet": "since we caught Andrew Kovette with the parent tact parent paramount tactical tweet",
@@ -3092,7 +3202,9 @@
       "related_nodes": [
         "N-10439"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:20",
       "investigative_direction": "Interview former employees about access to Erika; the host relays second-hand accounts.",
       "transcript_snippet": "They had no access to her. It didn't feel like Charlie.",
@@ -3112,7 +3224,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:45",
       "investigative_direction": "Anecdote from the host's own acquaintance with Charlie; hard to verify externally.",
       "transcript_snippet": "even when he had the money, just buy himself a suit, go to a tailor, and things of that nature",
@@ -3131,7 +3245,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:45",
       "investigative_direction": "Compare with TPUSA's donor breakdown in Form 990 filings and public disclosures.",
       "transcript_snippet": "obviously the majority of the money comes from small pocket donors",
@@ -3148,7 +3264,9 @@
       "claim": "The host says her book now ships to Canada, in reply to a viewer comment.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:49:45",
       "investigative_direction": "Check the store listing for Canadian shipping; promotional statement.",
       "transcript_snippet": "We now ship to Canada.",
@@ -3166,7 +3284,9 @@
       "related_nodes": [
         "N-11125"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:52:26",
       "investigative_direction": "Host's stated belief; test against historical records of NASA's founding.",
       "transcript_snippet": "the true reason that NASA came together, mass poisoning people.",
@@ -3184,7 +3304,9 @@
       "related_nodes": [
         "N-10340"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:45",
       "investigative_direction": "Ask Kolvet, Flood and the FBI when Erika was told of Charlie's night-before messages and fears.",
       "transcript_snippet": "I'm less inclined to believe that Andrew Kovat and Dan Flood didn't tell her afterward that she had to rely on his text messages.",
@@ -3208,7 +3330,9 @@
       "related_nodes": [
         "N-10002"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:45",
       "investigative_direction": "Identify the restaurant and the host's source for the account of the dinner.",
       "transcript_snippet": "when that person said they were joyous and giddy at Charlie's favorite restaurant which I chose not to name.",

@@ -1760,8 +1760,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-850",
-      "ref": "N-850",
+      "@id": "N-849",
+      "ref": "N-849",
       "name": "Macklemore",
       "type": "person",
       "description": "First named by the host at 00:44:26 in episode 160 (spelled McLemore in the transcript). Rapper the host says said Free Palestine on stage at the Gillette Stadium Ed Sheeran show.",
@@ -1777,8 +1777,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-851",
-      "ref": "N-851",
+      "@id": "N-850",
+      "ref": "N-850",
       "name": "Ed Sheeran",
       "type": "person",
       "description": "First named by the host at 00:44:26 in episode 160. Singer whose Gillette Stadium show Macklemore opened and whose attendance record the host says Zach Bryan broke.",
@@ -2192,7 +2192,9 @@
         "N-10839",
         "N-10876"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Compare the timing of each pushed narrative against the release dates of the UVU review and Epstein-file news.",
       "transcript_snippet": "there is a SCOP that is taking place. You may not be aware of it. I need to draw your attention to it. One that is meant to distract you from the UVU independent review.",
@@ -2215,7 +2217,9 @@
       "related_nodes": [
         "N-10875"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:01:13",
       "investigative_direction": "Locate any Loomer post or report about a second Owens property and the original Nose and Kraus posts.",
       "transcript_snippet": "Remember the second mansion that Laura Luma reported on?",
@@ -2235,7 +2239,9 @@
       "related_nodes": [
         "N-10867"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:02:25",
       "investigative_direction": "Find the original posts making the DUI payoff allegation and any police or court record of such an accident.",
       "transcript_snippet": "maybe second only to me paying off someone less than $5,000 after my husband hit them in a DUI accident.",
@@ -2251,7 +2257,9 @@
       "claim": "The host says it is obvious the media has been working in conjunction with the state at least since the JFK assassination, and that when the state wants a story forgotten the media can make it crash on the shore of societal ADHD.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:03:51",
       "investigative_direction": "Primary sources on media and intelligence-agency relationships since 1963, for example the Church Committee record.",
       "transcript_snippet": "it's obvious that the media has been working with the state in conjunction with the state at least since the JFK assassination, right?",
@@ -2271,7 +2279,9 @@
         "N-10015",
         "N-10082"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:07:18",
       "investigative_direction": "Identify what evidence, if any, the host relies on for CIA or Mossad involvement in the 2017 Las Vegas shooting.",
       "transcript_snippet": "within five days nobody was speaking about the Las Vegas shooting which appeared to be a CIA MSAD operation.",
@@ -2294,7 +2304,9 @@
         "N-10083",
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:25",
       "investigative_direction": "Check FEC and OpenSecrets records for AIPAC-linked contributions to Mace.",
       "transcript_snippet": "Nancy Mace, who has accepted over six figures from Apac and cannot utter a single bad word about Israel.",
@@ -2314,7 +2326,9 @@
       "related_nodes": [
         "N-10876"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:12:36",
       "investigative_direction": "Locate the original Mace interview and confirm the exact wording and date of the clip.",
       "transcript_snippet": "I just don't know why all these moms are trying to kill their kids. I don't know what's going on.",
@@ -2338,7 +2352,9 @@
         "N-10876",
         "N-10898"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:54",
       "investigative_direction": "Pull the Mace posts and the New York Post stories to confirm text and dates.",
       "transcript_snippet": "Also, perhaps the South Carolina legislature could make an exception to the death penalty by firing squad.",
@@ -2359,7 +2375,9 @@
         "N-11213",
         "N-10876"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:54",
       "investigative_direction": "Retrieve the Libs of TikTok post and the South Carolina arrest record for the named woman.",
       "transcript_snippet": "Meet Tanisha Lache Jones, who was arrested and charged in South Carolina with homicide after her infant daughter was found with dead and lethal amounts of morphine in her system.",
@@ -2379,7 +2397,9 @@
         "N-10876",
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:54",
       "investigative_direction": "Ask what documentation, if any, shows funding or coordination between the account and any Israeli entity.",
       "transcript_snippet": "And of course, this is being echoed by Libs of Tik Tok, another committed Israel, Israeli operative.",
@@ -2400,7 +2420,9 @@
         "N-11096",
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:50",
       "investigative_direction": "Review the TikTok divestiture ownership filings and investor list.",
       "transcript_snippet": "We all know Israel took over Tik Tok. That was very, that was just done in our face.",
@@ -2423,7 +2445,9 @@
         "N-10898",
         "N-10015"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:14:50",
       "investigative_direction": "Review the New York Post's Epstein and Maxwell coverage and any ownership or sourcing links the host alleges.",
       "transcript_snippet": "the New York Post in particular, the MSAD's rag, uh the one that had everything to do with Galain Maxwell and Jeffrey Epstein",
@@ -2442,7 +2466,9 @@
       "related_nodes": [
         "N-10876"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:01",
       "investigative_direction": "Check filicide studies by offender sex and victim age against the host's statement.",
       "transcript_snippet": "Men are more likely to kill the child if the child is over 5 years old. Women are more likely to kill the child if the child is beneath the age of five.",
@@ -2461,7 +2487,9 @@
         "N-10056",
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:59",
       "investigative_direction": "Obtain the donor texts and messages the host has cited about Charlie leaving the pro-Israel cause.",
       "transcript_snippet": "The same people who were not at all curious about Charlie having abandoned the pro-Rio cause shortly before his death, facing all these fights with people.",
@@ -2482,7 +2510,9 @@
       "related_nodes": [
         "N-10110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:59",
       "investigative_direction": "Compare the prosecution's evidence list at the preliminary hearing against the host's assessment.",
       "transcript_snippet": "who were overwhelmed by the virtually non-existent evidence pointing to Tyler Robinson's guilt.",
@@ -2500,7 +2530,9 @@
       "related_nodes": [
         "N-10876"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:59",
       "investigative_direction": "Collect early public reaction posts from the days after the assassination to test the host's account.",
       "transcript_snippet": "People sense something was off almost immediately with the widow, the administration, and also the fireworks.",
@@ -2519,7 +2551,9 @@
         "N-10064",
         "N-10876"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:59",
       "investigative_direction": "Ask which record would show Pentagon involvement in the case and what the host means by covering tracks.",
       "transcript_snippet": "because of the failure, the astonishing failure of the Pentagon to cover their own tracks regarding the assassination of Charlie.",
@@ -2539,7 +2573,9 @@
       "claim": "The host says her coverage showed discrepancies in the narrative, a timeline, photos of the car Charlie was transported to the hospital in, what was done differently because she toured with Charlie, and never-before-seen videos and pictures.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:11",
       "investigative_direction": "Index the earlier episodes where the car photos and tour comparisons were shown.",
       "transcript_snippet": "Here are the photos of the car that he was transported into the hospital. Here is what I know about what was done differently because I tooured with Charlie.",
@@ -2559,7 +2595,9 @@
         "N-10888",
         "N-11020"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:11",
       "investigative_direction": "Request platform data on coordinated inauthentic activity targeting the host.",
       "transcript_snippet": "which means that the Department of War controlling our algorithm and launching an infinite amount of bots is not working.",
@@ -2578,7 +2616,9 @@
         "N-10839",
         "N-10874"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:00",
       "investigative_direction": "Map attack posts against the review's release date.",
       "transcript_snippet": "The reason they went insane is because of the release of UVU's independent review.",
@@ -2599,7 +2639,9 @@
         "N-10699",
         "N-10737"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:00",
       "investigative_direction": "Re-listen to the Harpole interview to check whether he excluded hospital CPR or only CPR in the car.",
       "transcript_snippet": "Brian Harpole said that um CPR actually was not administered in the car or anywhere else for that matter",
@@ -2624,7 +2666,9 @@
       "related_nodes": [
         "N-10699"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:00",
       "investigative_direction": "Compare Harpole's interview wording with hospital staff and bodycam accounts.",
       "transcript_snippet": "He grabs a gurnie. He hops on top of that gurnie. He cuts off Charlie's Kirk. He's prepping Charlie uh for a defibrillator before he's uh talking through the medications that Charlie is going to need.",
@@ -2643,7 +2687,9 @@
       "related_nodes": [
         "N-10730"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:00",
       "investigative_direction": "Obtain Hibbs and Turek call logs and any recording of the FaceTime.",
       "transcript_snippet": "We are to assume that Frank was facetiming Jack Hibbs on the basis of the story that they both told.",
@@ -2668,7 +2714,9 @@
       "related_nodes": [
         "N-10874"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:07",
       "investigative_direction": "Obtain the full dispatch log and audio from the dispatch center.",
       "transcript_snippet": "Copy. Switching to 3J. We got officers in route to the hospital to be with the victim."
@@ -2685,7 +2733,9 @@
       "related_nodes": [
         "N-10874"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:30",
       "investigative_direction": "Review incoming tips for roster or dispatch records naming the Station 2 captain.",
       "transcript_snippet": "So, please email us at more tips@canniswowens. com if you know the answer to who the fire captain was that um provided CPR to Charlie",
@@ -2705,7 +2755,9 @@
         "N-10074",
         "N-10874"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:30:30",
       "investigative_direction": "Check public records on the flood victim's employment and whether he was on duty on 2025-09-10.",
       "transcript_snippet": "for those of you guys who are going to email me about some of the conspiracies regarding a different fire captain who perished with his entire family in a flash flood, I am aware of that information.",
@@ -2724,7 +2776,9 @@
         "N-11215",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:28",
       "investigative_direction": "Obtain the TPUSA security roster and service records, and compare with the 12-member count cited in an earlier episode.",
       "transcript_snippet": "Charlie's security team, which was made up of about 13 members, all of them SEALs, a former, you know, former SEALs and having these long military records, did virtually nothing.",
@@ -2743,7 +2797,9 @@
         "N-11215",
         "N-10839"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:28",
       "investigative_direction": "Review UVU police communication logs and the review's account of contact with the TPUSA team.",
       "transcript_snippet": "I mean, didn't even get try to get in touch with the police. The police had to uh play offense on that.",
@@ -2763,7 +2819,9 @@
         "N-10839",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:28",
       "investigative_direction": "Check the review's ticketing and crowd-estimate exchange between TPUSA and UVUPD.",
       "transcript_snippet": "And then of course we learned that headquarters was not sharing the ticket count.",
@@ -2786,7 +2844,9 @@
         "N-10000",
         "N-10646"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:28",
       "investigative_direction": "Compile TPUSA statements blaming Long and compare with the review findings.",
       "transcript_snippet": "how despicable it is that Turning Point has been trying to shift the narrative to blame Chief Jeff Long um for the absence of what they deem to be acceptable security",
@@ -2809,7 +2869,9 @@
       "related_nodes": [
         "N-10646"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:45",
       "investigative_direction": "Compare with the actual Flood and Long text thread and the review's rooftop findings.",
       "transcript_snippet": "Well, that bridge that was above you, that roof above, we had that cuz we didn't want people throwing stuff down on Charlie.",
@@ -2834,7 +2896,9 @@
       "related_nodes": [
         "N-10646"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:45",
       "investigative_direction": "Check the team's actual arrival and advance-visit timeline against the review.",
       "transcript_snippet": "Well, they got here the day of. They should have been here the day before.",
@@ -2856,7 +2920,9 @@
       "related_nodes": [
         "N-10243"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:45",
       "investigative_direction": "Ask whether any pre-event message or witness confirms Turek's statement.",
       "transcript_snippet": "And coming into this place, I said, \"Charlie, I don't like this place. There's too many buildings.\"",
@@ -2877,7 +2943,9 @@
         "N-10000",
         "N-10839"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:36",
       "investigative_direction": "Locate the attendance figures TPUSA gave UVUPD and compare with actual attendance.",
       "transcript_snippet": "They did not communicate to them how many people were going to be there. In fact, they communicated the exact wrong number of who who was going to be there.",
@@ -2901,7 +2969,9 @@
         "N-10000",
         "N-10839"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:36",
       "investigative_direction": "Check the review's venue-recommendation exchange.",
       "transcript_snippet": "Uh they ignored their suggestion to have this event be indoor.",
@@ -2922,7 +2992,9 @@
       "related_nodes": [
         "N-11087"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:39",
       "investigative_direction": "Compare Turek's statements with the language of the notice of intent to sue.",
       "transcript_snippet": "he's just repeating the talking points in Erika's intent to sue, the Kirk family's intent to sue",
@@ -2943,7 +3015,9 @@
       "related_nodes": [
         "N-10877"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:13",
       "investigative_direction": "Locate Andre's whistleblower filings and public statements.",
       "transcript_snippet": "And so he's now dead a after he was saying, \"Hey, there was some money laundering that was happening.\"",
@@ -2965,7 +3039,9 @@
       "related_nodes": [
         "N-10877"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:13",
       "investigative_direction": "Collect Lutnick's dated statements on the island visit and any correction.",
       "transcript_snippet": "because earlier on Howard Lutnik said he had never visited the island. He'd never visit.",
@@ -2984,7 +3060,9 @@
       "related_nodes": [
         "N-10324"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:00",
       "investigative_direction": "Find Bondi's original remarks and context.",
       "transcript_snippet": "Pam Bondi saying that it would lead to global economic catastrophe if the files were released.",
@@ -3004,7 +3082,9 @@
         "N-10324",
         "N-10015"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:43:00",
       "investigative_direction": "Ask what documents the host relies on for this speculation.",
       "transcript_snippet": "an entire MSAD network, I think, of women who are pretending to love men who are going through like MK Ultra programming from the time that they're young.",
@@ -3022,7 +3102,9 @@
       "related_nodes": [
         "N-10324"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:52",
       "investigative_direction": "Collect Trump's dated statements telling supporters to move on from Epstein.",
       "transcript_snippet": "That's why Trump wanted us to just turn around and move on.",
@@ -3041,7 +3123,9 @@
       "related_nodes": [
         "N-10878"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:05",
       "investigative_direction": "Verify the booking announcement and Macklemore's remarks.",
       "transcript_snippet": "Ed Sheeran knew what he was getting into when he offered for McLemore, who he has been friends with for a long time, to open for him.",
@@ -3049,8 +3133,8 @@
         "C-3458"
       ],
       "mentions_person_refs": [
-        "N-850",
-        "N-851"
+        "N-849",
+        "N-850"
       ]
     },
     {
@@ -3063,7 +3147,9 @@
       "related_nodes": [
         "N-10878"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:05",
       "investigative_direction": "Check the Florida court record for the dismissed case.",
       "transcript_snippet": "Robert Craft kind of, you know, on a technicality got a case dropped against him.",
@@ -3083,7 +3169,9 @@
       "related_nodes": [
         "N-10887"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:51:05",
       "investigative_direction": "Obtain the article and identify any funders it names.",
       "transcript_snippet": "Tomorrow, by the way, we're going to get into the economics behind smearing people.",
@@ -3101,7 +3189,9 @@
       "related_nodes": [
         "N-10872"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:40",
       "investigative_direction": "Review the charging documents and the recorded interrogation.",
       "transcript_snippet": "The feds are blaming something on a black autistic kid.",
@@ -3120,7 +3210,9 @@
         "N-10885",
         "N-10888"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:54:01",
       "investigative_direction": "Verify the resignation and any employer statement.",
       "transcript_snippet": "we got to talk about uh the resignation of data Republican who was literally hired to go after me.",
@@ -3141,7 +3233,9 @@
       "related_nodes": [
         "N-11216"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:54:40",
       "investigative_direction": "Obtain the text messages and compare with unfollow timing and the book announcement.",
       "transcript_snippet": "One of the ones being Charlie unfollowed Ken unfollowed Charlie. It was a book announcement. I have all of the text message and receipts about when I unfollowed everybody.",

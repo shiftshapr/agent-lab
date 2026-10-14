@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 736008f55f0ceabc1d5654cd9436f3367fc919e2bfaca0ad6647aa8c3f74d006
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-897, N-898, N-899, N-900, N-901, N-902, N-903, N-11289, N-11290
-  - Hole-minted Nodes (reintro-ep061): N-554
+  - Tip-minted Nodes (supplement_2026-10e): N-896, N-897, N-898, N-899, N-900, N-901, N-902, N-11289, N-11290
+  - Hole-minted Nodes (reintro-ep061): N-553
   - Tip-minted Nodes (reintro-ep061): N-11180
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11114–C-11181
@@ -216,7 +216,7 @@ Video Timestamp: 00:49:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11164, C-11165, N-3, N-492, N-899*
+*Related: C-11164, C-11165, N-3, N-492, N-898*
 
 ---
 
@@ -365,8 +365,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-15** Justin Strife
-
+**N-15** Justin Streiff
 TPUSA executive reported by host as participating in a sit-down with Owens and Erica Kirk to discuss Owens's allegations. First-name spelling uncertain.
 
 Evidence Count: 0
@@ -564,7 +563,7 @@ Kim Kardashian; the host says she released video receipts of the Kanye and Swift
 
 ---
 
-**N-554** Bella Hadid
+**N-553** Bella Hadid
 
 Bella Hadid; named as the sister of Anwar Hadid.
 
@@ -652,7 +651,7 @@ Existing topic reused for claims about the cease and desist letter and the host'
 
 ---
 
-**N-897** Tree Paine
+**N-896** Tree Paine
 
 First named by the host at 00:24:22 in episode 61 (as 'Tree', Taylor Swift's publicist/agent). Surname inferred; the transcript gives only the first name.
 
@@ -662,7 +661,7 @@ Aliases: Tree
 
 ---
 
-**N-898** Marc Anthony
+**N-897** Marc Anthony
 
 First named by the host at 00:43:16 in episode 61 (transcribed 'Mark Anthony'). Singer the host says performed the late-night set at the Beckham wedding.
 
@@ -672,7 +671,7 @@ Aliases: Mark Anthony
 
 ---
 
-**N-899** Marty Singer
+**N-898** Marty Singer
 
 First named by the host at 00:49:30 in episode 61. Lawyer the host says Nicola Peltz hired to sue a dog-grooming company.
 
@@ -680,7 +679,7 @@ First named by the host at 00:49:30 in episode 61. Lawyer the host says Nicola P
 
 ---
 
-**N-900** Nelson Peltz
+**N-899** Nelson Peltz
 
 First named by the host at 00:51:35 in episode 61 (transcribed 'Nelson Pelts'). Father of Nicola Peltz; the host says he sued over a wedding contract.
 
@@ -690,7 +689,7 @@ Aliases: Nelson Pelts
 
 ---
 
-**N-901** Justin Anderson
+**N-900** Justin Anderson
 
 First named by the host at 00:50:27 in episode 61. Hair stylist the host says called Nicola Peltz awful.
 
@@ -698,7 +697,7 @@ First named by the host at 00:50:27 in episode 61. Hair stylist the host says ca
 
 ---
 
-**N-902** Selena Gomez
+**N-901** Selena Gomez
 
 First named by the host at 00:51:35 in episode 61. The host says her friendship with Nicola Peltz fell apart.
 
@@ -706,7 +705,7 @@ First named by the host at 00:51:35 in episode 61. The host says her friendship 
 
 ---
 
-**N-903** Anwar Hadid
+**N-902** Anwar Hadid
 
 First named by the host at 00:51:35 in episode 61 (transcribed 'Anoir Hadid'). The host says he dated Nicola Peltz.
 
@@ -1511,7 +1510,7 @@ Claim: The host says Swift's publicist, 'Tree,' told her to cut that friend off 
 Transcript Snippet: Tree, her agent, is like, "Nope, cut that friend off. We're going to save you."
 
 Anchored Artifacts: A-1665.1
-Mentions: N-3, N-497, N-495, N-897
+Mentions: N-3, N-497, N-495, N-896
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Look for reporting or court exhibits showing Swift's team's communications with Lively's team.
@@ -1815,7 +1814,7 @@ Claim: The host says she does not doubt that Marc Anthony announced 'the most be
 Transcript Snippet: Mark Anthony said, "Now inviting the most beautiful woman to the floor." And then he said, "Victoria Beckham."
 
 Anchored Artifacts: A-1664.1
-Mentions: N-3, N-898, N-493
+Mentions: N-3, N-897, N-493
 Related Nodes: N-11289
 Supports: C-2175
 Tags: relevance:tangential
@@ -1896,7 +1895,7 @@ Claim: The host says Nicola Peltz hired Marty Singer to sue a small mobile dog-g
 Transcript Snippet: she hired Marty Singer to sue this little company because her Chihuahua died.
 
 Anchored Artifacts: A-3119.1
-Mentions: N-3, N-492, N-899
+Mentions: N-3, N-492, N-898
 Related Nodes: N-11290
 Tags: relevance:tangential
 Investigative Direction: Obtain the complaint and docket in the grooming company lawsuit.
@@ -1928,7 +1927,7 @@ Claim: The host says Nicola Peltz went through three different wedding contracts
 Transcript Snippet: She went through three different wedding contracts. One of which her father sued and they sued back
 
 Anchored Artifacts: 
-Mentions: N-3, N-492, N-900
+Mentions: N-3, N-492, N-899
 Related Nodes: N-11289
 Tags: relevance:tangential
 Investigative Direction: Search court dockets for the wedding contract suits involving Nelson Peltz.
@@ -1944,7 +1943,7 @@ Claim: The host says Nicola Peltz's hair stylist from the Transformers movie, Ju
 Transcript Snippet: Her hair stylist from when her dad put her in the Transformers movie, Justin Anderson, said she's awful.
 
 Anchored Artifacts: 
-Mentions: N-3, N-492, N-901
+Mentions: N-3, N-492, N-900
 Tags: relevance:tangential
 Investigative Direction: Locate Anderson's original statement and its context.
 
@@ -1959,7 +1958,7 @@ Claim: The host says Nicola Peltz's relationship with Selena Gomez has fallen ap
 Transcript Snippet: Her relationship with Selena Gomez has fallen apart.
 
 Anchored Artifacts: 
-Mentions: N-3, N-492, N-902
+Mentions: N-3, N-492, N-901
 Tags: relevance:tangential
 Investigative Direction: Check public reporting on the Peltz and Gomez friendship.
 
@@ -1974,7 +1973,7 @@ Claim: The host says Nicola Peltz was dating Anwar Hadid, that he stopped talkin
 Transcript Snippet: She was dating Anoir Hadid, Bella Hadid's brother
 
 Anchored Artifacts: 
-Mentions: N-3, N-492, N-903, N-554
+Mentions: N-3, N-492, N-902, N-553
 Tags: relevance:tangential
 Investigative Direction: Check reporting on the relationship and the Hadid family's reaction.
 

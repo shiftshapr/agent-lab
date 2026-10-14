@@ -35,7 +35,7 @@
 
 - **Artifact Families Introduced:** A-1607, A-1608, A-1609, A-1610, A-1611, A-1612, A-1613, A-1614, A-1615, A-1616
 - **Claim Range:** C-2047–C-2072
-- **New Nodes Introduced (people):** , N-447, N-448, N-449, N-450, N-451, N-452, N-453, N-454
+- **New Nodes Introduced (people):**, N-447, N-448, N-449, N-450, N-451, N-452, N-453, N-454
 - **New Nodes Introduced (investigation targets):** N-10402, N-10403, N-10404, N-10405, N-10406, N-10407, N-10408
 - **Existing Nodes Reused:** Charlie Kirk, Candace Owens, Erica Kirk, Tucker Carlson, Megyn Kelly, Ben Shapiro, Dennis Prager, Netanyahu, Mark Burnett, Jordan Peterson, Nick Fuentes, Seth Dylan, Jerry Falwell Jr. (referenced by name without new ID)
 

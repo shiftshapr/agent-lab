@@ -106,7 +106,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-508"
+            "N-507"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -387,8 +387,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-508",
-      "ref": "N-508",
+      "@id": "N-507",
+      "ref": "N-507",
       "name": "Doug DeGroot",
       "type": "person",
       "description": "TPUSA board member. Author of the September 17, 2025 board letter (A-1687.1) announcing Erika Kirk as CEO and Chair of Turning Point USA.",
@@ -1424,8 +1424,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-509",
-      "ref": "N-509",
+      "@id": "N-508",
+      "ref": "N-508",
       "name": "Bassem Youssef",
       "type": "person",
       "description": "Next-day guest; Daily Wire allegedly denied the host's request to host him.",
@@ -1460,8 +1460,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-871",
-      "ref": "N-871",
+      "@id": "N-870",
+      "ref": "N-870",
       "name": "Bob Ferguson",
       "type": "person",
       "description": "First named by the host at 00:01:26 in episode 64. Iowa man wrongly pictured in the prior episode as Bob Flood; the host says he has nothing to do with the story and apologizes.",
@@ -1674,7 +1674,7 @@
       "claim_timestamp": "00:09:08",
       "investigative_direction": "Obtain original signed letter; verify Doug DeGroot's role on the TPUSA board at the time of issuance.",
       "mentions_person_refs": [
-        "N-508",
+        "N-507",
         "N-2"
       ]
     },
@@ -1692,7 +1692,7 @@
       "claim_timestamp": "00:09:08",
       "investigative_direction": "Verify exact wording against original letter; document all subsequent TPUSA communications invoking similar framing.",
       "mentions_person_refs": [
-        "N-508"
+        "N-507"
       ]
     },
     {
@@ -1887,7 +1887,9 @@
         "N-10000",
         "N-10448"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:00",
       "investigative_direction": "Obtain the full recording of the September 16 call and search the transcript for the phrase 'grieves differently'; compare with the first public use by TPUSA-aligned accounts.",
       "transcript_snippet": "who actually uttered that expression first over at Turning Point USA, before Charlie's memorial. In a corporate-wide phone call",
@@ -1907,7 +1909,9 @@
       "claim": "The host says Jeremy Boreing publicly attacked Tucker Carlson and her, correlating them to antifa thugs, and also compared her show to pornography.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:52",
       "investigative_direction": "Locate the Boreing podcast interview and check whether he used the word antifa about the host and Carlson.",
       "transcript_snippet": "publicly attacking Tucker Carlson and yours truly, correlating us to antifa thugs. And also this show to pornography.",
@@ -1925,13 +1929,15 @@
       "claim": "The host says the previous episode showed a picture of a man she believed was Bob Flood of Chicago, but he is Bob Ferguson of Iowa and has nothing to do with the story; she says the image was removed and she apologizes.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:01:26",
       "investigative_direction": "Compare the removed segment of the prior episode with the corrected version and confirm the image is gone from all uploads.",
       "transcript_snippet": "His name was actually Bob Fergus- Ferguson. He's from Iowa. He has nothing to do with the story.",
       "mentions_person_refs": [
         "N-481",
-        "N-871",
+        "N-870",
         "N-3"
       ]
     },
@@ -1946,7 +1952,9 @@
         "N-11084",
         "N-10492"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:22",
       "investigative_direction": "Obtain the names of the separated employees (from the host or former staff) and TPUSA separation records to test whether any leaked to the host.",
       "transcript_snippet": "after now speaking with employees who were let go in this recent string of aggressive firings, employees that did nothing",
@@ -1967,7 +1975,9 @@
       "related_nodes": [
         "N-11182"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:22",
       "investigative_direction": "Identify the PR firm or agency engaged by TPUSA and any messages or contracts showing Erika Kirk approved statements about the host.",
       "transcript_snippet": "I do believe firmly from the beginning that Erika was intimately involved in the PR messaging and the PR campaign at different times against me",
@@ -1987,7 +1997,9 @@
         "N-10447",
         "N-10341"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:22",
       "investigative_direction": "Compare the host's notes or recording of the private meeting with Erika Kirk against Kolvet's surgeon post and any statement from Dr. Trotter.",
       "transcript_snippet": "She lied to my face actually regarding the Superman neck. She blamed that on Andrew Kolbint, said that he went rogue, that Dr. Lee Trotter also went rogue",
@@ -2011,7 +2023,9 @@
       "related_nodes": [
         "N-10447"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:22",
       "investigative_direction": "Obtain the recording or notes of the private meeting and any hospital HIPAA complaint or response regarding Dr. Trotter.",
       "transcript_snippet": "violated HIPAA, that they hopped on the phone and did this without her consent or knowledge",
@@ -2033,7 +2047,9 @@
         "N-10447",
         "N-10341"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:22",
       "investigative_direction": "Obtain call records for the three-way call and the surgeon's account, and compare with the wording of Kolvet's post.",
       "transcript_snippet": "It was actually a three-way call and the statement pertaining to Superman neck came from her.",
@@ -2057,7 +2073,9 @@
       "related_nodes": [
         "N-10447"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:22",
       "investigative_direction": "Look for messages between Kolvet and Erika Kirk around the surgeon call that show who authorized the post.",
       "transcript_snippet": "Andrew Kolbint in that regard was doing Erika's bidding. He was taking a figurative bullet for her.",
@@ -2080,7 +2098,9 @@
       "related_nodes": [
         "N-10447"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:39",
       "investigative_direction": "Interview the surgeon or his intermediary and obtain phone records for the day of the call.",
       "transcript_snippet": "She lied to the doctor, a surgeon, and she knew that she was on that call.",
@@ -2104,7 +2124,9 @@
         "N-10027",
         "N-10446"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:39",
       "investigative_direction": "Obtain the attendee list and travel records for the August 2025 Hamptons retreat and the call log for the Netanyahu call.",
       "transcript_snippet": "We've also now confirmed that she was at the Hamptons retreat, the now infamous uh Hamptons retreat.",
@@ -2125,7 +2147,9 @@
         "N-10342",
         "N-10446"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:39",
       "investigative_direction": "Obtain the two confirming sources' accounts (anonymized if necessary) and Kolvet's original statement.",
       "transcript_snippet": "I have since confirmed what Andrew Kolbenschlag said with two people that are not related to Andrew Kolbenschlag at all.",
@@ -2148,7 +2172,9 @@
       "related_nodes": [
         "N-10446"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:25",
       "investigative_direction": "Compare Erika Kirk's account with Kolvet's and with the May 2025 letter released by Netanyahu's office.",
       "transcript_snippet": "She says that there was not an offer that was made and that Bibi was calling about the letter that Charlie wrote him back in May.",
@@ -2173,7 +2199,9 @@
         "N-10027",
         "N-10446"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:25",
       "investigative_direction": "Obtain Kolvet's original account and any contemporaneous messages in which Charlie Kirk characterized the summit.",
       "transcript_snippet": "Andrew uh confirmed to me that Charlie described that summit as like an intervention was being staged over Israel.",
@@ -2196,7 +2224,9 @@
       "related_nodes": [
         "N-10450"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:18",
       "investigative_direction": "Identify who drafted and approved the Fort Huachuca response and obtain the messages coordinating it.",
       "transcript_snippet": "We have also confirmed that Erika and Andrew are working together on that Fort Huachuca PR response.",
@@ -2217,7 +2247,9 @@
         "N-10899",
         "N-10450"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:18",
       "investigative_direction": "Obtain communications between TPUSA and Paramount Tactical and the date of the host's meeting with Erika Kirk.",
       "transcript_snippet": "Rather than going directly to me after we sat down, that to me seems like a pretty uh strong violation of a well-meaning conversation that I had with her for 4 hours.",
@@ -2236,7 +2268,9 @@
       "related_nodes": [
         "N-10899"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:05:18",
       "investigative_direction": "Confirm which Mitch is meant (Mitch Snow is the likely reference) and review Paramount Tactical's videos about him.",
       "transcript_snippet": "that was the same YouTuber despite, you know, also going into Mitch's entire past",
@@ -2256,7 +2290,9 @@
         "N-10899",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:09",
       "investigative_direction": "Find the Charlie Kirk Show episode with Paramount Tactical and its air date relative to the host's meeting.",
       "transcript_snippet": "they welcomed Paramount Tactical onto Charlie Kirk's podcast show while I was in this hotel room to debunk me.",
@@ -2275,7 +2311,9 @@
       "related_nodes": [
         "N-10450"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:09",
       "investigative_direction": "Identify the livestream in which Kolvet was seen messaging and the content and timing of the message.",
       "transcript_snippet": "him being caught live, Andrew Kolb at live messaging something from Erika after she told me that they were disappointed in Andrew, that he wasn't going to be involved in PR anymore.",
@@ -2297,7 +2335,9 @@
         "N-10074",
         "N-10554"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:09",
       "investigative_direction": "Obtain airport video, flight records and eyewitness accounts of the September 10 tarmac meeting at Provo.",
       "transcript_snippet": "when he stepped off of the plane in Provo on September 10th, he basically collapsed into Erika's arms crying on the tarmac",
@@ -2318,7 +2358,9 @@
         "N-10554",
         "N-10548"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:09",
       "investigative_direction": "Obtain the passenger manifest for Kolvet's September 10 flight to Provo.",
       "transcript_snippet": "the impression that I got was that Andrew was on that plane alone. But then we were later told that Andrew was accompanied by his wife.",
@@ -2338,7 +2380,9 @@
         "N-10548",
         "N-10560"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:17",
       "investigative_direction": "Compare with the manifest and eyewitness accounts; ask Erika Kirk's office to confirm or deny.",
       "transcript_snippet": "Erika during our face-to-face meeting had no recollection of his wife stepping off of the plane.",
@@ -2359,7 +2403,9 @@
         "N-10560",
         "N-10548"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:17",
       "investigative_direction": "Reconcile Erika Kirk's September 10 movements with flight arrival times at Provo.",
       "transcript_snippet": "if Andrew is to be believed, then she waited for an hour on the tarmac for Andrew's flight to land.",
@@ -2378,7 +2424,9 @@
       "related_nodes": [
         "N-10560"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:17",
       "investigative_direction": "Obtain hospital entrance accounts from staff present on September 10, 2025.",
       "transcript_snippet": "Andrew went through the front main entry a main entrance where there were other TPUSA staff there, people that were there on that day, and Erika went in through a back or side entrance.",
@@ -2398,7 +2446,9 @@
         "N-11092",
         "N-11000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:56",
       "investigative_direction": "Obtain TPUSA board minutes or written consent recording the date of the CEO vote.",
       "transcript_snippet": "Andrew Kolvet told me before the public knew that the board had selected Erika with within about 72 hours of Charlie's death.",
@@ -2419,7 +2469,9 @@
       "related_nodes": [
         "N-11092"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:40",
       "investigative_direction": "Obtain the board resolution and any record of when Erika Kirk agreed to be nominated.",
       "transcript_snippet": "She had to give her consent for that to go up for a board vote.",
@@ -2442,7 +2494,9 @@
         "N-11092",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:49",
       "investigative_direction": "Locate the host's earlier public statement calling for an interim CEO.",
       "transcript_snippet": "Turning Point USA should have waited and instead appointed an interim CEO to allow Erika the time that she needed to grieve",
@@ -2461,7 +2515,9 @@
       "related_nodes": [
         "N-11243"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:57",
       "investigative_direction": "Obtain accounts from Erika Kirk's relatives and hospital staff on who accompanied her on September 10.",
       "transcript_snippet": "it is stunning to me that Erika chose not to bring a single member of her actual family with her to Utah.",
@@ -2480,7 +2536,9 @@
       "related_nodes": [
         "N-11243"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:12:57",
       "investigative_direction": "Confirm the Kirk family's travel and arrival times with the family or the hospital.",
       "transcript_snippet": "Charlie Kirk's mother, father, sister, they all raced to Utah to be with him at the hospital",
@@ -2499,7 +2557,9 @@
       "related_nodes": [
         "N-11243"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:12:57",
       "investigative_direction": "Verify the residence of Erika Kirk's relatives through public records and her own statements.",
       "transcript_snippet": "Dad also lives in Scottsdale. Sister, yes, she does have one.",
@@ -2519,7 +2579,9 @@
         "N-11243",
         "N-10561"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:57",
       "investigative_direction": "Confirm Sheridan's travel to Utah via flight records or staff accounts.",
       "transcript_snippet": "Instead, she was joined by Stacy Sheridan, who was playing the part of her mother.",
@@ -2542,7 +2604,9 @@
       "related_nodes": [
         "N-11243"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:50",
       "investigative_direction": "Locate any video of Charlie Kirk in the casket and identify who recorded and published it.",
       "transcript_snippet": "it was Stacy Sheridan who concerns herself with Turning Point raising money, who filmed Charlie in the casket.",
@@ -2562,7 +2626,9 @@
       "related_nodes": [
         "N-11243"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:50",
       "investigative_direction": "Review the arrival footage and photos at the airport to identify who stood beside Erika Kirk.",
       "transcript_snippet": "She's holding her hand as Charlie's casket was coming off of Air Force 2.",
@@ -2580,7 +2646,9 @@
       "claim": "The host says she has said since day one that she personally warned Charlie Kirk about Stacy Sheridan.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:50",
       "investigative_direction": "Look for the host's messages or recollections to Charlie Kirk about Sheridan and any third-party confirmation.",
       "transcript_snippet": "I personally warned Charlie about her.",
@@ -2600,7 +2668,9 @@
       "related_nodes": [
         "N-11243"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:50",
       "investigative_direction": "Interview hospital personnel or review visitor logs for who accompanied Erika Kirk.",
       "transcript_snippet": "I've checked with people at the hospital. No no family was there.",
@@ -2624,7 +2694,9 @@
       "related_nodes": [
         "N-11243"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:00",
       "investigative_direction": "Identify the source and date of the car clip and who filmed it.",
       "transcript_snippet": "Crucial uh to coming and being beside beside Erika at all moments. Car rides, everything.",
@@ -2645,7 +2717,9 @@
         "N-10000",
         "N-10492"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:51",
       "investigative_direction": "Obtain statements from current and former employees about workplace conditions after September 10.",
       "transcript_snippet": "the employees that are still there and upset with the manner in which people were fired are saying that they feel like they were they was like a cult.",
@@ -2664,7 +2738,9 @@
         "N-10000",
         "N-10492"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:46",
       "investigative_direction": "Compare TPUSA's post-assassination fundraising totals with separation dates and numbers.",
       "transcript_snippet": "to drive them to work like horses only to then fire them after a quarter billion is raised is wild.",
@@ -2687,7 +2763,9 @@
       "related_nodes": [
         "N-10346"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:46",
       "investigative_direction": "Confirm Farnsworth's role in removing the cameras from earlier reporting and the camera records.",
       "transcript_snippet": "that is Teo Farnsworth, the guy who took down the cameras.",
@@ -2711,7 +2789,9 @@
       "related_nodes": [
         "N-10448"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:35",
       "investigative_direction": "Verify wording against the unedited recording of the call.",
       "transcript_snippet": "Turning Point USA will continue like my husband always wanted and it'll be bigger than ever.",
@@ -2732,7 +2812,9 @@
       "related_nodes": [
         "N-10448"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:23",
       "investigative_direction": "Verify wording against the unedited recording of the call.",
       "transcript_snippet": "But he's here. He's more alive than ever and he is um he's going to guide us.",
@@ -2753,7 +2835,9 @@
       "related_nodes": [
         "N-10448"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:00",
       "investigative_direction": "Verify wording against the unedited recording and identify the person Erika names as 'Justin'.",
       "transcript_snippet": "everything before September 10th, I mean you know you were working on any project you were working on is it's not that it's irrelevant now, it's just things have changed",
@@ -2773,7 +2857,9 @@
       "related_nodes": [
         "N-10448"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:47",
       "investigative_direction": "Verify wording against the unedited recording.",
       "transcript_snippet": "I feel so blessed. And honored.",
@@ -2795,7 +2881,9 @@
         "N-11084",
         "N-10492"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:04",
       "investigative_direction": "Identify the employee and obtain her account and any termination paperwork.",
       "transcript_snippet": "She never leaked anything. She never spoke to me. Nothing. Gets fired and for asking a simple question, like literally, why am I fired?",
@@ -2818,7 +2906,9 @@
       "related_nodes": [
         "N-10448"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:29",
       "investigative_direction": "Compare the audio with later separation records to test the sincerity of the job-security promise.",
       "transcript_snippet": "hearing her sound like she's about to cry when she discusses specifically them keeping their jobs, not Charlie",
@@ -2842,7 +2932,9 @@
         "N-10492",
         "N-11084"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:29",
       "investigative_direction": "Obtain a count and list of separations with dates and stated reasons.",
       "transcript_snippet": "she's going to fire a boatload of them without cause or even conversation",
@@ -2866,7 +2958,9 @@
       "related_nodes": [
         "N-10448"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:13",
       "investigative_direction": "Verify wording against the unedited recording.",
       "transcript_snippet": "if there's anything or anyone who tries to divide your team or you or that's just the enemy, and just rebuke it",
@@ -2886,7 +2980,9 @@
       "related_nodes": [
         "N-10448"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:13",
       "investigative_direction": "Verify wording against the unedited recording.",
       "transcript_snippet": "The fact that a lot of you guys are here in office, that's what you should do.",
@@ -2906,7 +3002,9 @@
         "N-10000",
         "N-11014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:41",
       "investigative_direction": "Obtain employee accounts and any internal messages asking for weekend merchandise work.",
       "transcript_snippet": "they were then asked to come in on the weekends to pack t-shirts because it's what Charlie would want.",
@@ -2926,7 +3024,9 @@
         "N-10000",
         "N-10492"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:41",
       "investigative_direction": "Obtain statements from the employees who spoke to the host.",
       "transcript_snippet": "and they said that they felt like they were being emotionally manipulated.",
@@ -2947,7 +3047,9 @@
       "related_nodes": [
         "N-11182"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:30",
       "investigative_direction": "Obtain the host's sources' documents or messages showing Erika Kirk directing PR statements.",
       "transcript_snippet": "I do believe with all of the new information that I am getting and it is a lot that she has been orchestrating this entire PR campaign from the back",
@@ -2970,7 +3072,9 @@
       "related_nodes": [
         "N-10447"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:30",
       "investigative_direction": "Compare Kolvet's public statements with the surgeon's account and call records.",
       "transcript_snippet": "to allow people to think that it was just him acting rogue when it wasn't. It factually was not. We were lied to.",
@@ -2993,7 +3097,9 @@
       "related_nodes": [
         "N-10447"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:41",
       "investigative_direction": "Obtain phone records for the September 20, 2025 date and the timing of Kolvet's post.",
       "transcript_snippet": "That was on the day of Charlie's actual funeral mass.",
@@ -3019,7 +3125,9 @@
         "N-10341",
         "N-10447"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:41",
       "investigative_direction": "Match the time stamp of Kolvet's X post to the host's episode release time.",
       "transcript_snippet": "So we don't have to imagine when that was. The day after my episode when people were going",
@@ -3039,7 +3147,9 @@
         "N-10492",
         "N-10439"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:40",
       "investigative_direction": "Identify Marina's exact title and the employees allegedly dismissed after remarks overheard by drivers.",
       "transcript_snippet": "being let go for no reason other than loyalty tests that are being conducted by Marina, the COO, who's talking to Uber drivers for the tea.",
@@ -3062,7 +3172,9 @@
         "N-11180",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:28",
       "investigative_direction": "Obtain the cease and desist letter and its date and demands.",
       "transcript_snippet": "I don't like when they send me cease and desist because I told the truth.",
@@ -3085,7 +3197,9 @@
       "related_nodes": [
         "N-11191"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:33:28",
       "investigative_direction": "Check Pre-Born's published annual figures for the claimed number.",
       "transcript_snippet": "last year Pre-Born helped rescue over 80,000 babies",
@@ -3105,7 +3219,9 @@
       "related_nodes": [
         "N-11116"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:00",
       "investigative_direction": "Identify the podcast and date and view the full clip.",
       "transcript_snippet": "I had misgivings about Candace, but I it wasn't a completely cynical decision.",
@@ -3124,7 +3240,9 @@
         "A-1688.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:00",
       "investigative_direction": "Verify wording against the full source interview.",
       "transcript_snippet": "Candace is the most talented person I've ever met, not just in conservative media, but in in any media.",
@@ -3143,7 +3261,9 @@
         "A-1688.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:30",
       "investigative_direction": "Verify wording against the full source interview.",
       "transcript_snippet": "all those same gifts that she has at various times used for good, She's now using for ill",
@@ -3165,7 +3285,9 @@
         "A-1688.3"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:59",
       "investigative_direction": "Verify wording and context against the full source interview.",
       "transcript_snippet": "I would just respond by say telling her fun things that you saw in some porno video that you watched.",
@@ -3187,7 +3309,9 @@
         "A-1688.3"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:56",
       "investigative_direction": "Verify wording against the full source interview.",
       "transcript_snippet": "It titillates, it stimulates, it's slightly naughty. Uh it's great for getting clicks, and it makes tons of money on the internet.",
@@ -3209,7 +3333,9 @@
       "related_nodes": [
         "N-11116"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:56",
       "investigative_direction": "Compare with Boreing's own stated reasons for the firing in earlier interviews.",
       "transcript_snippet": "one of the reasons I got fired is I said we should look into the history of pornography.",
@@ -3230,7 +3356,9 @@
         "A-1688.4"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:44:36",
       "investigative_direction": "Verify wording against the full source interview.",
       "transcript_snippet": "she's essentially she's articulating audience capture as a virtue.",
@@ -3252,7 +3380,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:59",
       "investigative_direction": "Seek accounts from former Daily Wire staff on grooming and office routines.",
       "transcript_snippet": "Making talent, people who had shows, wait outside while you close the room. Had people wash your hair, do your makeup, and style you.",
@@ -3272,7 +3402,9 @@
         "N-10900",
         "N-10689"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:59",
       "investigative_direction": "Seek Daily Wire expense records or former finance staff accounts.",
       "transcript_snippet": "Hundreds of thousands of dollars on a clothing rack so you could go sit in the office and take phone calls like a CEO.",
@@ -3292,7 +3424,9 @@
         "N-10449",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:46:51",
       "investigative_direction": "Obtain Daily Wire production budget and travel records for the Hungary shoot.",
       "transcript_snippet": "He flew out virtually the entire company to Hungary to bring a book that he read in middle school to life on a budget that would make HBO blush.",
@@ -3315,7 +3449,9 @@
         "N-10449",
         "N-10689"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:46:51",
       "investigative_direction": "Seek budget documents or credible reporting on the production cost.",
       "transcript_snippet": "I am told last number I heard was $67 million spent on a high school dream.",
@@ -3334,7 +3470,9 @@
       "related_nodes": [
         "N-10689"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:46:51",
       "investigative_direction": "Seek confirmation from Daily Wire insiders or financial filings.",
       "transcript_snippet": "he had to borrow, empty his savings account, borrow money personally from Ben Shapiro to make ends meet",
@@ -3356,7 +3494,9 @@
       "related_nodes": [
         "N-10449"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:28",
       "investigative_direction": "Identify the Bulwark episode and the project's release status.",
       "transcript_snippet": "Well, that might explain some of this departure agreement where you're spending millions on a bizarre project set in Roman era Britain, but filmed in Hungary involving Italian bulls maybe from Spain.",
@@ -3377,7 +3517,9 @@
       "related_nodes": [
         "N-10449"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:28",
       "investigative_direction": "Check distribution announcements or buyer statements about the project.",
       "transcript_snippet": "realizing this failed, nobody wanted to buy it and nobody wanted anything to do with it",
@@ -3396,7 +3538,9 @@
       "related_nodes": [
         "N-11116"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:32",
       "investigative_direction": "Seek contemporaneous messages or accounts of the post-October 7 conversations with Boreing.",
       "transcript_snippet": "When she came to me 8 and 1/2 months pregnant, hands open, and willing to discuss and fix things or agree to amicably go our separate ways if we couldn't",
@@ -3415,7 +3559,9 @@
       "related_nodes": [
         "N-11116"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:32",
       "investigative_direction": "Seek eyewitness accounts or recordings of the meeting.",
       "transcript_snippet": "Ben jumped up on a table and accused her of being a faux sophisticate",
@@ -3434,7 +3580,9 @@
       "related_nodes": [
         "N-11116"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:32",
       "investigative_direction": "Seek the host's contemporaneous messages or witnesses to the suspicion.",
       "transcript_snippet": "they suspected that I might have been secretly working with Nick Fuentes and Tucker Carlson",
@@ -3455,7 +3603,9 @@
       "related_nodes": [
         "N-11116"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:32",
       "investigative_direction": "Seek Daily Wire internal communications from the weeks before the firing.",
       "transcript_snippet": "My next big plan is to do what we did to Breitbart. We'll create a fake scandal.",
@@ -3475,7 +3625,9 @@
         "N-11116",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:52",
       "investigative_direction": "Compare Daily Wire subscription data around March 2024.",
       "transcript_snippet": "Over having said Christ is king, we'll do this during Lent because surely that will lead to more Daily Wire sign-ups.",
@@ -3497,7 +3649,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:52",
       "investigative_direction": "Identify the Klavan episode and seek editorial approval records.",
       "transcript_snippet": "Jeremy actually personally reviewed Andrew Klavan's episode before it went out",
@@ -3517,7 +3671,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:51:39",
       "investigative_direction": "Identify the press reports based on former Daily Wire staff.",
       "transcript_snippet": "many of whom uh subsequently left and leaked to the press what had happened.",
@@ -3537,7 +3693,9 @@
         "N-10238",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:26",
       "investigative_direction": "Obtain the Daily Wire email and the intern's account and any recording from the event.",
       "transcript_snippet": "having sent an intern on a secret mission to stalk the woman that you just fired to Dallas, to Turning Point USA, to put her on a plane, an intern.",
@@ -3560,7 +3718,9 @@
         "N-10416",
         "N-10238"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:26",
       "investigative_direction": "Obtain the email from former Daily Wire staff.",
       "transcript_snippet": "to then author a maniacal, almost five-page-long email to the entire company admitting to the act",
@@ -3583,7 +3743,9 @@
         "N-10416",
         "N-10238"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:26",
       "investigative_direction": "Obtain the email and verify the quoted wording.",
       "transcript_snippet": "It's my right. It's my right to know what she's saying.",
@@ -3606,7 +3768,9 @@
         "N-11244",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:26",
       "investigative_direction": "Seek Brett Cooper's own account of the conversation.",
       "transcript_snippet": "sitting her down and telling her that she should she shouldn't do that because you had big plans and you were going to turn her into a star cuz you're the magic.",
@@ -3627,7 +3791,9 @@
         "N-11244",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:57",
       "investigative_direction": "Seek the maid of honor's account and any contract or offer documents.",
       "transcript_snippet": "offering an obscene amount of money to her maid of honor at that wedding that you didn't want her to have, to hurt her.",
@@ -3648,7 +3814,9 @@
         "N-11244",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:57",
       "investigative_direction": "Locate the articles or posts that attacked Cooper over the like and trace their sources.",
       "transcript_snippet": "to try to smear her, the friendly pop culture young girl, as an anti-Semite, over an Instagram like because she liked a year-end roundup of my podcast.",
@@ -3669,7 +3837,9 @@
         "N-11244",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:54:52",
       "investigative_direction": "Search court dockets for the Daily Wire suit against the host.",
       "transcript_snippet": "And when you sued me for that, for standing up for Brett Cooper",
@@ -3689,7 +3859,9 @@
       "related_nodes": [
         "N-10449"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:55:36",
       "investigative_direction": "Seek corroboration from Daily Wire staff present in Hungary.",
       "transcript_snippet": "You admitted to me that you had a mental break in Hungary. You didn't sleep for days",
@@ -3708,7 +3880,9 @@
         "A-3044.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:58:01",
       "investigative_direction": "Check the website pricing page.",
       "transcript_snippet": "one Club Candace tier for $11.99 a month, or you can pay $120 for the entire year",
@@ -3726,7 +3900,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:58:47",
       "investigative_direction": "Obtain employee accounts of Erika Kirk's daily presence and role in September 2025.",
       "transcript_snippet": "she was in the office every day, and she was making informed decisions alongside Stacie Sheridan and this Marina Medvin",
@@ -3751,7 +3927,9 @@
         "N-10000",
         "N-11084"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:58:47",
       "investigative_direction": "Identify the employee and obtain termination records.",
       "transcript_snippet": "Turning Point USA watches this show live in the office, and then fired someone for screenshotting the show in the office.",
@@ -3770,7 +3948,9 @@
       "claim": "The host says she has since learned that Erika Kirk told her a lot of fibs during their sit-down.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:59:24",
       "investigative_direction": "Compare the host's notes of the meeting with later verified facts.",
       "transcript_snippet": "she did tell me a lot of uh fibs during our sit-down",
@@ -3792,7 +3972,9 @@
       "related_nodes": [
         "N-10447"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:59:24",
       "investigative_direction": "Identify the other sources and compare their accounts with Erika Kirk's.",
       "transcript_snippet": "the consistent throwing Andrew Kolb under the bus and then me learning that Andrew told the truth from other people.",
@@ -3816,7 +3998,9 @@
         "N-11180",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:01:07",
       "investigative_direction": "Obtain the tour agreement and the cease and desist letter and compare their wording.",
       "transcript_snippet": "You don't have a a right to ask questions about his murder because our contract covers everybody and their mamas.",
@@ -3833,7 +4017,9 @@
       "claim": "The host says she told her priest she would chill and that it has been about 7 weeks since she spoke to him.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:01:57",
       "investigative_direction": "No external record available.",
       "transcript_snippet": "it's been a probably like 7 weeks since I've spoken to him",
@@ -3851,7 +4037,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:03:27",
       "investigative_direction": "Seek contemporaneous messages or witnesses to the threats.",
       "transcript_snippet": "If you tell anybody what we're doing to you, we'll bankrupt you.",
@@ -3870,7 +4058,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:04:05",
       "investigative_direction": "Find footage or photos of the caged mic and the fundraiser dinner with the place setting.",
       "transcript_snippet": "even keeping the mic and putting it in a cage and setting up his dinner at a fundraiser",
@@ -3891,7 +4081,9 @@
         "N-11116",
         "N-10452"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:04:56",
       "investigative_direction": "Review the original tweet and the coverage characterizing it.",
       "transcript_snippet": "I tweeted Christ is king not at anybody. And um they went ahead and tried to spin that into an anti-Semitic attack.",
@@ -3909,13 +4101,15 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:07:49",
       "investigative_direction": "Seek confirmation from Daily Wire staff or messages regarding the request.",
       "transcript_snippet": "The Daily Wire denied my request while I was there to have him on my show.",
       "mentions_person_refs": [
         "N-3",
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -3926,13 +4120,15 @@
       "claim": "The host says Bassem Youssef will join her live on the next day's episode.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:07:49",
       "investigative_direction": "Check the following episode's guest.",
       "transcript_snippet": "Bassem Youssef is going to be joining me live",
       "mentions_person_refs": [
         "N-3",
-        "N-509"
+        "N-508"
       ]
     }
   ],

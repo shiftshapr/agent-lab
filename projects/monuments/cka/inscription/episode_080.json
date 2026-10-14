@@ -731,8 +731,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-546",
-      "ref": "N-546",
+      "@id": "N-545",
+      "ref": "N-545",
       "name": "Alan Dershowitz",
       "type": "person",
       "description": "Attorney and Epstein associate; cited as having recounted a massage from a woman named \"Olga\" at Epstein's place; defended by Mark Levin and Barry Weiss.",
@@ -747,8 +747,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-594",
-      "ref": "N-594",
+      "@id": "N-593",
+      "ref": "N-593",
       "name": "Sarah Huckabee Sanders",
       "type": "person",
       "description": "Governor of Arkansas; displayed signing proclamation with Erica Kirk for Club America in Arkansas high schools.",
@@ -958,7 +958,7 @@
       "claim_timestamp": "00:15:58",
       "investigative_direction": "Confirm exact text against Dershowitz's verified X account.",
       "mentions_person_refs": [
-        "N-546"
+        "N-545"
       ]
     },
     {
@@ -1255,7 +1255,7 @@
       "investigative_direction": "Verify event date and content against Governor Sanders's official schedule and TPUSA press materials.",
       "mentions_person_refs": [
         "N-2",
-        "N-594"
+        "N-593"
       ]
     },
     {
@@ -1275,7 +1275,7 @@
       "investigative_direction": "Obtain the actual proclamation text from the Arkansas Secretary of State's office.",
       "mentions_person_refs": [
         "N-2",
-        "N-594"
+        "N-593"
       ]
     },
     {

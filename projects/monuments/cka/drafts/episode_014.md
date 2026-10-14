@@ -12,9 +12,9 @@
 - **Transcript SHA-256**: 9c5eaae09f60b1222748149513f2956bb4921fb32cb85837a09931b9ec7b9bff
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-807, N-808, N-809, N-810, N-11154, N-11155, N-11156, N-11157
+  - Tip-minted Nodes (supplement_2026-10c): N-806, N-807, N-808, N-809, N-11154, N-11155, N-11156, N-11157
   - Hole-minted Nodes (reintro-ep014): N-317, N-384, N-10270, N-10315, N-10324, N-10662
-  - Tip-minted Nodes (reintro-ep014): N-722, N-11011, N-11059, N-11130
+  - Tip-minted Nodes (reintro-ep014): N-721, N-11011, N-11059, N-11130
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-7836–C-7910
   - New Nodes Introduced: N-146, N-147, N-148, N-149, N-150, N-151, N-152, N-10161
@@ -456,7 +456,7 @@ Host says he discussed arbitration courts on her show.
 
 ---
 
-**N-722** John F. Kennedy
+**N-721** John F. Kennedy
 
 JFK; the host compares his assassination to the Kirk case.
 
@@ -640,7 +640,7 @@ Organization the host says gave rise to the ADL.
 
 ---
 
-**N-807** Leo Frank
+**N-806** Leo Frank
 
 First named by the host at 00:03:10 in episode 14. Atlanta factory owner convicted in 1913 whom the host says the ADL was formed to defend.
 
@@ -648,7 +648,7 @@ First named by the host at 00:03:10 in episode 14. Atlanta factory owner convict
 
 ---
 
-**N-808** Mary Phagan
+**N-807** Mary Phagan
 
 First named by the host at 00:03:10 in episode 14 (Mary Phagan in the historical record). Victim the host says was a 13-year-old pencil factory worker.
 
@@ -656,7 +656,7 @@ First named by the host at 00:03:10 in episode 14 (Mary Phagan in the historical
 
 ---
 
-**N-809** Scott Robbins
+**N-808** Scott Robbins
 
 First named by the host at 00:22:48 in episode 14. Witness in the USA Today clip whom the host says ran for Utah governor in 2024.
 
@@ -664,7 +664,7 @@ First named by the host at 00:22:48 in episode 14. Witness in the USA Today clip
 
 ---
 
-**N-810** Greta Thunberg
+**N-809** Greta Thunberg
 
 First named by the host at 00:46:04 in episode 14, via a viewer comment. Activist the host says Israel's influence made out to be Hamas.
 
@@ -1183,7 +1183,7 @@ Claim: The host says the ADL was put together by B'nai B'rith to defend Leo Fran
 Transcript Snippet: Well, because they put the organization together to defend a pedophile and a murderer. His name is Leo Frank.
 
 Anchored Artifacts: 
-Mentions: N-807, N-3
+Mentions: N-806, N-3
 Related Nodes: N-11153, N-11130, N-11156
 Tags: relevance:tangential
 Investigative Direction: Compare ADL and B'nai B'rith founding records (1913) with the Frank case history; note the host's characterization is hers alone.
@@ -1199,7 +1199,7 @@ Claim: The host says Mary Fagan (Mary Phagan in the record) was a 13-year-old Ca
 Transcript Snippet: And Mary Fagan was a 13-year-old girl who worked at his pencil factory. She was found brutally raped.
 
 Anchored Artifacts: 
-Mentions: N-808, N-807
+Mentions: N-807, N-806
 Related Nodes: N-11156
 Tags: relevance:tangential
 Investigative Direction: Check 1913 Georgia court and newspaper records of the Phagan case.
@@ -1215,7 +1215,7 @@ Claim: The host says Frank, despite wealth, top lawyers and connections to the S
 Transcript Snippet: he was so guilty of what happened that despite the fact that he tried to pin it on a poor black janitor.
 
 Anchored Artifacts: 
-Mentions: N-807, N-808
+Mentions: N-806, N-807
 Related Nodes: N-11156
 Tags: relevance:tangential
 Investigative Direction: Review the 1913 trial record and appeals to the US Supreme Court.
@@ -1231,7 +1231,7 @@ Claim: The host says Frank's associates in the B'nai B'rith lodge assembled the 
 Transcript Snippet: What happened then is that his buddies over at the Freemasonic Lodge, Benber, assembled the ADL to gaslight the public.
 
 Anchored Artifacts: 
-Mentions: N-807, N-3
+Mentions: N-806, N-3
 Related Nodes: N-11153, N-11130, N-11156
 Supports: C-7841
 Tags: relevance:tangential
@@ -1248,7 +1248,7 @@ Claim: The host says the book The Murder of Little Mary Fagan was written by a r
 Transcript Snippet: there's a book called The Murder of Little Mary Fagan, and it is written by a relative of hers.
 
 Anchored Artifacts: A-2906.1
-Mentions: N-808, N-3
+Mentions: N-807, N-3
 Related Nodes: N-11156
 Tags: relevance:tangential
 Investigative Direction: Confirm the book, its author and relationship to the victim.
@@ -1667,7 +1667,7 @@ Claim: The host says Scott Robbins, who appears in the USA Today clip looking li
 Transcript Snippet: well, he was also a gubernatorial candidate. He ran for governor of Utah in 2024.
 
 Anchored Artifacts: A-1215.1
-Mentions: N-809
+Mentions: N-808
 Related Nodes: N-10161
 Tags: relevance:core
 Investigative Direction: Check Utah 2024 gubernatorial filings for Scott Robbins.
@@ -1731,7 +1731,7 @@ Claim: The host says she thinks JFK was surrounded and infiltrated by his own pe
 Transcript Snippet: I think he was surrounded. I think he was infiltrated and then they got rid of him because of wrong think.
 
 Anchored Artifacts: 
-Mentions: N-722, N-3
+Mentions: N-721, N-3
 Related Nodes: N-10662
 Tags: relevance:tangential
 Investigative Direction: Compare with documented JFK-era records; note the FARA link is the host's characterization.
@@ -2115,7 +2115,7 @@ Claim: The host says Israel's power is shown by Greta Thunberg being put on the 
 Transcript Snippet: they like put her on the cover of Time and then suddenly they were like she had an octopus in a picture and they basically said she's Hamas
 
 Anchored Artifacts: A-1219.4
-Mentions: N-810
+Mentions: N-809
 Related Nodes: N-10026
 Tags: relevance:tangential
 Investigative Direction: Find the Time cover and the octopus image controversy.

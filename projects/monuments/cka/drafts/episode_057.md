@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 9d571c5e39368da2d0dcbf89e5a2db6cd0af4a443b631215c547c80343eab731
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-731, N-11027, N-11028, N-11029, N-11030, N-11031, N-11032, N-11033
-  - Hole-minted Nodes (reintro-ep057): N-533, N-544
+  - Tip-minted Nodes (supplement_2026-10): N-730, N-11027, N-11028, N-11029, N-11030, N-11031, N-11032, N-11033
+  - Hole-minted Nodes (reintro-ep057): N-532, N-543
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5420–C-5484
   - New Nodes Introduced: N-465, N-466, N-467, N-468, N-469, N-10413, N-10414, N-10415
@@ -550,13 +550,13 @@ Subject of a commenter's report and the host's statement that he is a federal in
 
 *Related: C-5481, C-5482, C-5483*
 
-**N-533** Peter Thiel
+**N-532** Peter Thiel
 
 Named by the host (as 'Peter Teal') as giving interviews about the Antichrist.
 
 *Related: C-5445*
 
-**N-544** Julian Assange
+**N-543** Julian Assange
 
 Named in the Pompeo and CIA discussion.
 
@@ -616,7 +616,7 @@ Topic for the host's claim that Palestinian deaths would be written out of textb
 
 *Related: C-5464*
 
-**N-731** Kathy O'Brien
+**N-730** Kathy O'Brien
 
 First named by the host at 00:51:51 in episode 57, reading a comment recommending her and her book Transformation of America.
 
@@ -1228,7 +1228,7 @@ Claim: The host says Peter Thiel is going around giving interviews asking about 
 Transcript Snippet: Maybe like people like Peter Teal, he's like going around giving interviews asking about the Antichrist.
 
 Anchored Artifacts: 
-Mentions: N-533
+Mentions: N-532
 Investigative Direction: Locate Peter Thiel's recorded lectures and interviews on the Antichrist, with dates, and see how the host characterizes them.
 
 ---
@@ -1492,7 +1492,7 @@ Claim: The host says Tucker Carlson had exposed that during his time at the CIA,
 Transcript Snippet: Tucker had exposed um that during his time at the CIA, I believe it was Mike Pompeo
 
 Anchored Artifacts: A-2757.1
-Mentions: N-3, N-22, N-466, N-544
+Mentions: N-3, N-22, N-466, N-543
 Related Nodes: N-11032
 Investigative Direction: Locate Tucker Carlson's broadcast on the CIA and Assange; check Yahoo News's 2021 reporting on CIA discussions of kidnapping or killing Assange and Pompeo's public response.
 
@@ -1507,7 +1507,7 @@ Claim: The host says after a producer fact check that she was correct and that P
 Transcript Snippet: I was correct. Yeah, he discussed options to take out Assange just to make sure we're above bar there.
 
 Anchored Artifacts: A-2757.1
-Mentions: N-3, N-466, N-544
+Mentions: N-3, N-466, N-543
 Related Nodes: N-11032
 Investigative Direction: Check Pompeo's on-record statements about whether he discussed killing Assange and the 2021 Yahoo News report that CIA officials considered it.
 
@@ -1674,7 +1674,7 @@ Claim: Replying to commenter Alyssa, who recommended interviewing Kathy O'Brien,
 Transcript Snippet: I know about Project Monarch. We've spoken about it on this show um as being the precursor to what the Nazis did here
 
 Anchored Artifacts: A-2756.3
-Mentions: N-3, N-731
+Mentions: N-3, N-730
 Related Nodes: N-11033
 Tags: relevance:tangential
 Investigative Direction: Find the earlier episode where the host discussed Project Monarch; check historical sources on Operation Paperclip and the Monarch allegations, which are contested.

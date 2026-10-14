@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 0fb4e3ded28d3185653763304cd5207553aba7096b0c1f6c7d7d26295daa5ee4
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-726, N-727, N-11013, N-11015
-  - Hole-minted Nodes (reintro-ep040): N-385, N-495, N-510, N-10387, N-10683
+  - Tip-minted Nodes (supplement_2026-10): N-725, N-726, N-11013, N-11015
+  - Hole-minted Nodes (reintro-ep040): N-385, N-495, N-509, N-10387, N-10683
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5062–C-5146
   - New Nodes Introduced: N-309, N-310, N-311, N-10307, N-10308
-  - Reused Nodes Appearing: N-7, N-14, N-17, N-27, N-39, N-55, N-60, N-68, N-71, N-82, N-170, N-194, N-229, N-272, N-387, N-10000, N-10012, N-10064, N-10078, N-10087, N-10100, N-10132, N-10162, N-10198, N-10213, N-10232, N-10248, N-10253, N-10270, N-10290, N-10294, N-10316, N-10482, N-10862, N-728, N-10434, N-10465, N-10311, N-10451, N-10628, N-11014
+  - Reused Nodes Appearing: N-7, N-14, N-17, N-27, N-39, N-55, N-60, N-68, N-71, N-82, N-170, N-194, N-229, N-272, N-387, N-10000, N-10012, N-10064, N-10078, N-10087, N-10100, N-10132, N-10162, N-10198, N-10213, N-10232, N-10248, N-10253, N-10270, N-10290, N-10294, N-10316, N-10482, N-10862, N-727, N-10434, N-10465, N-10311, N-10451, N-10628, N-11014
   - (see registers), N-11
 
 # Episode 40 – Ledger Summary
@@ -618,7 +618,7 @@ Donald Trump, party to the September 10 phone call with Macron per the host.
 
 ---
 
-**N-510** Phil Turney
+**N-509** Phil Turney
 
 Phil Turney, USS Liberty interview guest the host praises.
 
@@ -674,7 +674,7 @@ Brigitte Macron, subject of the host's lawsuit and schedule-gap questions.
 
 ---
 
-**N-726** Kamala Harris
+**N-725** Kamala Harris
 
 First named by the host (as 'Camala') at 00:26:31 in episode 40.
 Aliases: Camala
@@ -683,7 +683,7 @@ Aliases: Camala
 
 ---
 
-**N-727** Russell Brand
+**N-726** Russell Brand
 
 First named by the host (as 'Russell Brandon') at 00:57:05 in episode 40.
 Aliases: Russell Brandon
@@ -692,7 +692,7 @@ Aliases: Russell Brandon
 
 ---
 
-**N-728** Chuck Smith
+**N-727** Chuck Smith
 
 First named by the host at 00:11:15 in episode 40, as the Calvary Chapel founder whose history she cites.
 
@@ -1218,7 +1218,7 @@ Claim: The host says she believes the evidence shows Calvary Chapel's history un
 Transcript Snippet: I do believe the Calvary Chapel uh their history with Chuck Smith, the evidence that it was a militant CIA effort to infiltrate the Christian faith
 
 Anchored Artifacts: 
-Mentions: N-3, N-728
+Mentions: N-3, N-727
 Related Nodes: N-10465, N-10248
 Investigative Direction: Identify the documents or historical sources for a CIA role in Calvary Chapel's founding.
 
@@ -1560,7 +1560,7 @@ Claim: The host lists prior investigations: Kamala Harris's genealogy, Blake Liv
 Transcript Snippet: Sometimes it's Blake Lively and Ryan Reynolds when they try to destroy a man's life who's not even on my quote unquote political team.
 
 Anchored Artifacts: 
-Mentions: N-3, N-495, N-385, N-726, N-82
+Mentions: N-3, N-495, N-385, N-725, N-82
 Investigative Direction: Cross-check the host's earlier episodes on Harris, Lively and Reynolds.
 
 ---
@@ -2008,7 +2008,7 @@ Claim: The host says she spoke at length with Russell Brand on his show, which s
 Transcript Snippet: I spoke about it more at length with Russell Brandon uh on his show. So that should be coming out soon.
 
 Anchored Artifacts: 
-Mentions: N-3, N-727
+Mentions: N-3, N-726
 Investigative Direction: Find the Russell Brand episode featuring the host and its air date.
 
 ---
@@ -2094,7 +2094,7 @@ Claim: The host says the interview with Phil Turney of the USS Liberty was the b
 Transcript Snippet: you could feel a spiritual movement in this room when we interviewed Phil Turney of the USS Liberty.
 
 Anchored Artifacts: 
-Mentions: N-3, N-510
+Mentions: N-3, N-509
 Related Nodes: N-10451
 Investigative Direction: Find the Phil Turney interview episode and its view count.
 

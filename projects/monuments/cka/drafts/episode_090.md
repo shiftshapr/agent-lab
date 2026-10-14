@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: ccc088e1afd1c59b5e5cc5c2b2958206b92ce5ce72a69a6b3b4672840c3aa324
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-827, N-828
+  - Tip-minted Nodes (supplement_2026-10c): N-826, N-827
   - Hole-minted Nodes (reintro-ep090): N-10679, N-10703
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8689–C-8754
   - New Nodes Introduced: N-10593, N-10595, N-10596, N-10597, N-10598
   - Hole-minted Nodes (wave3): N-430, N-431
-  - Tip-minted Nodes (skeleton-caleb): N-617
-  - Reused Nodes Appearing: N-10169, N-3, N-40, N-41, N-69, N-135, N-5, N-38, N-46, N-60, N-97, N-126, N-162, N-166, N-208, N-249, N-278, N-369, N-372, N-374, N-388, N-788, N-10000, N-10013, N-10024, N-10027, N-10029, N-10031, N-10271, N-10372, N-10416, N-10431, N-10568, N-10584, N-10628, N-10664, N-10900, N-10936, N-11002, N-11129, N-10594, N-10954
+  - Tip-minted Nodes (skeleton-caleb): N-616
+  - Reused Nodes Appearing: N-10169, N-3, N-40, N-41, N-69, N-135, N-5, N-38, N-46, N-60, N-97, N-126, N-162, N-166, N-208, N-249, N-278, N-369, N-372, N-374, N-388, N-787, N-10000, N-10013, N-10024, N-10027, N-10029, N-10031, N-10271, N-10372, N-10416, N-10431, N-10568, N-10584, N-10628, N-10664, N-10900, N-10936, N-11002, N-11129, N-10594, N-10954
   - (see registers)
 
 # EVOLUTION 90 ANALYSIS
@@ -281,7 +281,7 @@ Confidence Level: Medium
 
 ## 4. Node Register
 
-**N-617** Caleb Robinson
+**N-616** Caleb Robinson
 
 Daily Wire chief executive; first named by the host at 00:23:21 in episode 90 (ADF board seat).
 
@@ -564,7 +564,7 @@ Named in the episode; cited by new claims.
 
 ---
 
-**N-788** Paula White
+**N-787** Paula White
 
 Named in the episode; cited by new claims.
 
@@ -740,7 +740,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-827** Mike Smith
+**N-826** Mike Smith
 
 Utah County Sheriff; first named by the host at 00:38:30 in episode 90 (Brooksby's call about Mike Mitchell).
 
@@ -748,7 +748,7 @@ Utah County Sheriff; first named by the host at 00:38:30 in episode 90 (Brooksby
 
 ---
 
-**N-828** Bishop Barron
+**N-827** Bishop Barron
 
 Bishop; first named by the host at 00:55:46 in episode 90 (stood beside Paula White during the prayer). Transcript spelling: Bishop Barron.
 
@@ -855,7 +855,7 @@ Claim Timestamp: 00:23:21
 Claim: According to host testimony supported by an ADF internal presentation, Daily Wire CEO Caleb Robinson sits on the ADF board of directors (one of approximately eight seats).
 
 Anchored Artifacts: A-1951.2
-Mentions: N-617
+Mentions: N-616
 
 Related Nodes: N-10596
 
@@ -1366,7 +1366,7 @@ Claim: The host says that after Charlie's death Ben Shapiro had Caleb Robinson n
 Transcript Snippet: they wanted to have only Matt Walsh on the show, and Caleb said, "Well, how about a two-for-one special?" Andrew Kolvet agreed to do that.
 
 Anchored Artifacts: 
-Mentions: N-3, N-97, N-617, N-166, N-14, N-1
+Mentions: N-3, N-97, N-616, N-166, N-14, N-1
 Related Nodes: N-10900
 Tags: relevance:core
 Investigative Direction: Obtain the booking communications between Daily Wire and the Charlie Kirk Show for the Walsh and Shapiro appearances.
@@ -1431,7 +1431,7 @@ Claim: The host says her ADF sources told her the public is not aware that Daily
 Transcript Snippet: they informed me that the public is not aware, but that they quietly took a board seat.
 
 Anchored Artifacts: A-1951.2
-Mentions: N-3, N-617
+Mentions: N-3, N-616
 Related Nodes: N-10954, N-10900, N-10596
 Supports: C-2688
 Tags: relevance:core
@@ -1448,7 +1448,7 @@ Claim: The host says that ADF sources told her Ben was driving the bus and gunni
 Transcript Snippet: And they said that Ben was driving the bus um gunning for me through Alliance Defending Freedom.
 
 Anchored Artifacts: A-1951.2
-Mentions: N-3, N-97, N-617
+Mentions: N-3, N-97, N-616
 Related Nodes: N-10954, N-10596
 Supports: C-2688
 Tags: relevance:core
@@ -1676,7 +1676,7 @@ Claim: The host says Sheriff Brooksby then called the Utah County Sheriff Mike S
 Transcript Snippet: And um then Sheriff Broxby calls the Utah County Sheriff Mike Smith to tell him about the call that he just got from Mike Mitchell.
 
 Anchored Artifacts: 
-Mentions: N-3, N-278, N-827, N-126
+Mentions: N-3, N-278, N-826, N-126
 Related Nodes: N-10029
 Tags: relevance:core
 Investigative Direction: Obtain call logs and sheriff statements from both offices for the evening of September 11.
@@ -1921,7 +1921,7 @@ Claim: The host says Laura Loomer has been forcibly placed on 5150 holds and is 
 Transcript Snippet: Laura Loomer who have has been forcibly placed on site 5150 holds as his number one or one advisor.
 
 Anchored Artifacts: 
-Mentions: N-3, N-60, N-5, N-788
+Mentions: N-3, N-60, N-5, N-787
 Related Nodes: N-10628
 Tags: relevance:tangential
 Investigative Direction: Check public court and medical-hold records, if any, and Loomer's own statements on the matter.
@@ -1971,7 +1971,7 @@ Claim: The host says Bishop Barron stood beside Paula White during the prayer fo
 Transcript Snippet: Bishop Barron standing beside Paula White during that prayer, and his excuse is why he was there.
 
 Anchored Artifacts: 
-Mentions: N-3, N-828, N-788, N-5
+Mentions: N-3, N-827, N-787, N-5
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Locate the event video and Bishop Barron's published explanation.

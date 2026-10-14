@@ -400,7 +400,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-514",
+            "N-513",
             "N-1"
           ],
           "tags": [],
@@ -420,7 +420,7 @@
           "related_nodes": [
             "N-3",
             "N-1",
-            "N-514"
+            "N-513"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -817,8 +817,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-515",
-      "ref": "N-515",
+      "@id": "N-514",
+      "ref": "N-514",
       "name": "Eliot Spitzer",
       "type": "person",
       "description": "First named by the host at 00:21:23 in episode 125.",
@@ -834,8 +834,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-514",
-      "ref": "N-514",
+      "@id": "N-513",
+      "ref": "N-513",
       "name": "Thomas Patrick",
       "type": "person",
       "description": "First named by the host at 00:19:38 in episode 125.",
@@ -1160,8 +1160,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-541",
-      "ref": "N-541",
+      "@id": "N-540",
+      "ref": "N-540",
       "name": "Jean-Luc Brunel",
       "type": "person",
       "description": "Jean-Luc Brunel; founder of the modeling firm the host mentions.",
@@ -1535,8 +1535,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-746",
-      "ref": "N-746",
+      "@id": "N-745",
+      "ref": "N-745",
       "name": "Stu Peters",
       "type": "person",
       "description": "First named by the host at 00:09:26 in episode 125. Employer of Blake Neff before Turning Point per the host.",
@@ -1552,8 +1552,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-747",
-      "ref": "N-747",
+      "@id": "N-746",
+      "ref": "N-746",
       "name": "John McGovern",
       "type": "person",
       "description": "First named by the host at 00:11:42 in episode 125 (also Johnny McGovern, McGovern). Works in gifts and fundraising at Turning Point USA per the host.",
@@ -1570,8 +1570,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-748",
-      "ref": "N-748",
+      "@id": "N-747",
+      "ref": "N-747",
       "name": "Ike Perlmutter",
       "type": "person",
       "description": "First named by the host at 00:19:38 in episode 125. Subject of the 2019 check dispute.",
@@ -1587,8 +1587,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-749",
-      "ref": "N-749",
+      "@id": "N-748",
+      "ref": "N-748",
       "name": "Stephen Phillip",
       "type": "person",
       "description": "First named by the host at 00:22:09 in episode 125 (Steven Phillip, Stephen Phillip). Father of Danny Philip.",
@@ -1604,8 +1604,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-750",
-      "ref": "N-750",
+      "@id": "N-749",
+      "ref": "N-749",
       "name": "Dennis Frantzve",
       "type": "person",
       "description": "First named by the host at 00:24:41 in episode 125. Erika Kirk's cousin per the host.",
@@ -1621,8 +1621,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-751",
-      "ref": "N-751",
+      "@id": "N-750",
+      "ref": "N-750",
       "name": "Leon Black",
       "type": "person",
       "description": "First named by the host at 00:25:34 in episode 125. Epstein associate whose wealth Bank of America Merrill Lynch managed per the host.",
@@ -1830,8 +1830,8 @@
       "investigative_direction": "Genealogical records, family-tree confirmation, public obituaries, or corporate filings would verify the claimed relationship.",
       "mentions_person_refs": [
         "N-375",
-        "N-515",
-        "N-514"
+        "N-514",
+        "N-513"
       ]
     },
     {
@@ -2049,7 +2049,7 @@
       "transcript_snippet": "He then work went to work for Stu Peters um and then he moved on to start working with Charlie after Tucker Carlson recommended him because he's loyal.",
       "mentions_person_refs": [
         "N-162",
-        "N-746",
+        "N-745",
         "N-22",
         "N-1"
       ]
@@ -2126,7 +2126,7 @@
         "N-194",
         "N-1",
         "N-7",
-        "N-747"
+        "N-746"
       ]
     },
     {
@@ -2301,7 +2301,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-748"
+        "N-747"
       ]
     },
     {
@@ -2320,7 +2320,7 @@
       "transcript_snippet": "Suddenly, there's this smear campaign calling me anti-Semitic. Um and at virtually the exact same time, Turning Point had this major donor.",
       "mentions_person_refs": [
         "N-3",
-        "N-514"
+        "N-513"
       ]
     },
     {
@@ -2343,7 +2343,7 @@
         "C-3021"
       ],
       "mentions_person_refs": [
-        "N-514",
+        "N-513",
         "N-1",
         "N-3",
         "N-375"
@@ -2368,7 +2368,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-514"
+        "N-513"
       ]
     },
     {
@@ -2387,8 +2387,8 @@
         "C-3021"
       ],
       "mentions_person_refs": [
-        "N-514",
-        "N-515"
+        "N-513",
+        "N-514"
       ]
     },
     {
@@ -2406,7 +2406,7 @@
       "investigative_direction": "Patrick's communications with the host and with Kirk or Turning Point about the Perlmutter dispute.",
       "transcript_snippet": "And he was so powerful at it's stunning for me to process that he played a big role in convincing me that Charlie was moving behind my back.",
       "mentions_person_refs": [
-        "N-514",
+        "N-513",
         "N-3",
         "N-1"
       ]
@@ -2530,7 +2530,7 @@
         "C-3022"
       ],
       "mentions_person_refs": [
-        "N-749",
+        "N-748",
         "N-375"
       ]
     },
@@ -2555,7 +2555,7 @@
         "C-3024"
       ],
       "mentions_person_refs": [
-        "N-750",
+        "N-749",
         "N-2"
       ]
     },
@@ -2574,7 +2574,7 @@
       "investigative_direction": "Court filings in the Epstein victims' suit against Bank of America and the settlement announcement.",
       "transcript_snippet": "they were sued because they were managing wealth, Bank of America Merrill Lynch, of the major Epstein associate Leon Black.",
       "mentions_person_refs": [
-        "N-751",
+        "N-750",
         "N-9"
       ]
     },
@@ -2673,7 +2673,7 @@
       "transcript_snippet": "it was confirmed that Charlie was in the green room and he had three people with him. We know for a fact Johnny McGovern was with him. We know Mikey McCoy was with him",
       "mentions_person_refs": [
         "N-1",
-        "N-747",
+        "N-746",
         "N-194",
         "N-7"
       ]
@@ -3231,7 +3231,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-9",
-        "N-541"
+        "N-540"
       ]
     },
     {

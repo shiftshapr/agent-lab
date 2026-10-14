@@ -941,8 +941,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-729",
-      "ref": "N-729",
+      "@id": "N-728",
+      "ref": "N-728",
       "name": "Abdel Fattah el-Sisi",
       "type": "person",
       "description": "First named by the host as the Egyptian president (transcript spelling Elsis, Elsisi) at 00:17:13 in episode 41.",
@@ -1582,7 +1582,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-729"
+        "N-728"
       ]
     },
     {
@@ -1602,7 +1602,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-312",
-        "N-729"
+        "N-728"
       ]
     },
     {

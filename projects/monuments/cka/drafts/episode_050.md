@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: d0819324ac9bf4a628c1d097391bbba74d4957e0b633e777ad84956f4db99630
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-730, N-11024, N-11025, N-11026
-  - Hole-minted Nodes (reintro-ep050): N-587, N-10393
+  - Tip-minted Nodes (supplement_2026-10): N-729, N-11024, N-11025, N-11026
+  - Hole-minted Nodes (reintro-ep050): N-586, N-10393
   - Tip-minted Nodes (reintro-ep050): N-10912
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5349–C-5419
@@ -642,7 +642,7 @@ Named by the host as the Army captain who questioned Mitch.
 
 ---
 
-**N-587** Nicole Rothstein
+**N-586** Nicole Rothstein
 
 Named as Erika Kirk's cousin commenting that Erika is half Jewish.
 
@@ -778,7 +778,7 @@ Reused topic cited by new claims in this episode.
 
 ---
 
-**N-730** Hank Berrien
+**N-729** Hank Berrien
 
 First named by the host at 00:22:56 in episode 050. Pen name the host says Ben Shapiro's father uses for Daily Wire and earlier Breitbart articles.
 
@@ -1464,7 +1464,7 @@ Claim: The host says Ben Shapiro's father writes articles for the Daily Wire und
 Transcript Snippet: How many more articles is his father going to write under a pen name, Hank Berrien of the Daily Wire, under the pen name, Hank Berrien, as he wrote while Ben was at Breitbart
 
 Anchored Artifacts: 
-Mentions: N-97, N-730
+Mentions: N-97, N-729
 Investigative Direction: Compare Hank Berrien bylines at Breitbart and the Daily Wire with public statements by Shapiro or his father about the name.
 
 ---
@@ -1879,7 +1879,7 @@ Claim: The host says Nicole Rothstein, whom she calls Erika's cousin, defended h
 Transcript Snippet: Nicole Rothstein was like, "I'm her cousin. She's half Jewish."
 
 Anchored Artifacts: A-2752.2
-Mentions: N-3, N-587, N-2
+Mentions: N-3, N-586, N-2
 Investigative Direction: Locate the comment and the account; confirm the kinship and whether the comment was posted by the person named.
 
 ---

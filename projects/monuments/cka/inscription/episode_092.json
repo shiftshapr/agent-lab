@@ -1148,8 +1148,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-905",
-      "ref": "N-905",
+      "@id": "N-904",
+      "ref": "N-904",
       "name": "Savannah Hernandez",
       "type": "person",
       "description": "First named by the host at 00:07:17 in episode 92 (via the Kolvet clip). TPUSA front-lines reporter in the Minneapolis incident cited by Kolvet and Vance.",
@@ -1258,8 +1258,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-906",
-      "ref": "N-906",
+      "@id": "N-905",
+      "ref": "N-905",
       "name": "Bettina Anderson",
       "type": "person",
       "description": "First named by the host at 00:16:56 in episode 92 (spelled Betina). Fiancee of Donald Trump Jr. whose bridal shower the host says Erika Kirk attended.",
@@ -1345,8 +1345,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-612",
-      "ref": "N-612",
+      "@id": "N-611",
+      "ref": "N-611",
       "name": "Scott Bessent",
       "type": "person",
       "description": "Treasury Secretary the host says issued a letter on demand.",
@@ -1454,8 +1454,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-907",
-      "ref": "N-907",
+      "@id": "N-906",
+      "ref": "N-906",
       "name": "David J. Harris",
       "type": "person",
       "description": "First named by the host at 00:40:01 in episode 92 (David Harris). Business partner in the Marx supplements, per the host.",
@@ -1525,8 +1525,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-702",
-      "ref": "N-702",
+      "@id": "N-701",
+      "ref": "N-701",
       "name": "Otto Busher",
       "type": "person",
       "description": "Colonel the host links to Fort Huachuca and Romanian Angels.",
@@ -1627,8 +1627,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-816",
-      "ref": "N-816",
+      "@id": "N-815",
+      "ref": "N-815",
       "name": "Andrew Piscatello",
       "type": "person",
       "description": "Transcribed Andrew Pascadlo; detained photographer who raises trafficking alarms.",
@@ -2402,7 +2402,9 @@
       "related_nodes": [
         "N-10607"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:28",
       "investigative_direction": "Obtain Erika Kirk's April 14, 2026 travel records or private-aviation flight data and the time the decision was communicated to TPUSA event staff.",
       "transcript_snippet": "She was back home, which means that decision had to have already been made long before those students made that video.",
@@ -2426,7 +2428,9 @@
       "related_nodes": [
         "N-10607"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:32",
       "investigative_direction": "Obtain the full video of the UGA stage remarks and check who, if anyone, Kolvet named as the critics.",
       "transcript_snippet": "Some of the people that have made you know part-time jobs out of attacking Erika and this is the net result.",
@@ -2446,7 +2450,9 @@
       "related_nodes": [
         "N-10541"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:30",
       "investigative_direction": "Check the Vice President's April 2026 public schedule and reporting on the Iran negotiations.",
       "transcript_snippet": "he just got back doing negotiations with Iran overseas.",
@@ -2467,13 +2473,15 @@
       "related_nodes": [
         "N-10607"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:17",
       "investigative_direction": "Obtain the Fox News segment and reporting on the Savannah Hernandez Minneapolis incident, and check TPUSA's history of cancelled appearances.",
       "transcript_snippet": "which I think is the first time that we've ever had to make that decision in Turning Point history.",
       "mentions_person_refs": [
         "N-14",
-        "N-905",
+        "N-904",
         "N-2"
       ]
     },
@@ -2490,7 +2498,9 @@
         "N-10900",
         "N-10607"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:41",
       "investigative_direction": "Compile Daily Wire reports sourced to TPUSA officials since September 2025 and identify the officials cited.",
       "transcript_snippet": "since Charlie's passing, the Daily Wire, you will note, always has the inside scoop on what's going on with Erika Kirk for some reason.",
@@ -2512,7 +2522,9 @@
       "related_nodes": [
         "N-10607"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:16",
       "investigative_direction": "Collect earlier plane-tracking coverage of Erika Kirk's travel and compare it with her cancelled appearances.",
       "transcript_snippet": "People had been actually tracking Erika's plane since the very beginning. People were doing entire shows about where she was going and how much she was traveling and how ridiculous it was. And she never canled a single thing.",
@@ -2530,7 +2542,9 @@
       "related_nodes": [
         "N-10608"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:12:38",
       "investigative_direction": "Check the venue's published capacity and UGA enrollment figures.",
       "transcript_snippet": "at the Classic Center, which is near the University of Georgia. The stadium holds just 7,000 people.",
@@ -2549,7 +2563,9 @@
         "N-10608",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:38",
       "investigative_direction": "Obtain the event registration page, ticket terms and registration counts.",
       "transcript_snippet": "to make matters easier for them, they also opened the tickets, the free tickets to the general public.",
@@ -2570,7 +2586,9 @@
       "related_nodes": [
         "N-10608"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:38",
       "investigative_direction": "Obtain the event's ticket registration totals and any internal TPUSA attendance projections.",
       "transcript_snippet": "Reality, nobody wanted to attend. The ticket numbers were abysmal.",
@@ -2595,7 +2613,9 @@
         "N-10615",
         "N-10006"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:13",
       "investigative_direction": "Identify the source events of the three spliced B-roll clips and obtain the original Fox broadcast.",
       "transcript_snippet": "they actually spliced together three separate events so that they could show something of substance when Andrew spoke.",
@@ -2614,7 +2634,9 @@
       "related_nodes": [
         "N-10608"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:12",
       "investigative_direction": "Locate the DC event's registration and attendance data and ask the volunteers' sources for corroboration.",
       "transcript_snippet": "similarly had a very hard time uh moving tickets for her event in Washington DC with Karoline Leavitt.",
@@ -2637,7 +2659,9 @@
         "N-10608",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:12",
       "investigative_direction": "Compare the UGA attendance estimate against TPUSA's other event turnout figures.",
       "transcript_snippet": "And yesterday, it looks like was the worst audience turnout in Turning Point's history.",
@@ -2660,7 +2684,9 @@
         "N-10000",
         "N-10608"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:03",
       "investigative_direction": "Check TPUSA's Believers Summit announcements and date changes against registration reports.",
       "transcript_snippet": "they had to move the believers summit, something that they advertised for last year.",
@@ -2680,7 +2706,9 @@
       "related_nodes": [
         "N-10607"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:03",
       "investigative_direction": "Compare the timestamp of Erika Kirk's X post with the start of the event and the stage announcement.",
       "transcript_snippet": "Erika knew that she was not coming long before Andrew Kovette made the announcement on stage. Yet she did not make a statement herself until after the event began.",
@@ -2703,14 +2731,16 @@
       "related_nodes": [
         "N-10607"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:56",
       "investigative_direction": "Check reporting and guest accounts of the bridal shower and Erika Kirk's White House visit that weekend.",
       "transcript_snippet": "She was at Betina Betina at Mara Lago, the one who's marrying Don Trump Jr., she was at her bridal shower.",
       "mentions_person_refs": [
         "N-2",
         "N-33",
-        "N-906"
+        "N-905"
       ]
     },
     {
@@ -2723,7 +2753,9 @@
       "related_nodes": [
         "N-10607"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:56",
       "investigative_direction": "Identify the Nashville event date and any police record of the escaped patient.",
       "transcript_snippet": "They alerted us and I was doing an event in Nashville with Charlie. We had to alert the security team.",
@@ -2744,7 +2776,9 @@
       "related_nodes": [
         "N-10612"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:37",
       "investigative_direction": "Obtain the school's communications and the time the Parent Alert was sent.",
       "transcript_snippet": "But on Monday at noon, she had already informed the high school that she was not going to be in attendance a full day before her last minute onstage cancellation",
@@ -2767,7 +2801,9 @@
       "related_nodes": [
         "N-10612"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:05",
       "investigative_direction": "Obtain parent and school-administration communications from the week of April 6 to April 13, 2026.",
       "transcript_snippet": "I am told the truth is again that there was immediate parental backlash already that kept happening because she was announced",
@@ -2786,7 +2822,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:22:57",
       "investigative_direction": "Identify the influencers and any sponsorship disclosures or payment records.",
       "transcript_snippet": "It is ridiculous. They are now paying influencers. Oh, if only everyone would just leave her alone. No one would track her plane.",
@@ -2807,14 +2845,16 @@
       "related_nodes": [
         "N-10607"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:49",
       "investigative_direction": "Obtain the full Vance remarks and check whether the plural was scripted or an error.",
       "transcript_snippet": "not the left-wing radicals who are assaulting Savannah or not the people who shot Charlie Kirk",
       "mentions_person_refs": [
         "N-4",
         "N-1",
-        "N-905"
+        "N-904"
       ]
     },
     {
@@ -2828,7 +2868,9 @@
         "N-11145",
         "N-10541"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:26:19",
       "investigative_direction": "Check the Minab school strike casualty reports and official US statements.",
       "transcript_snippet": "Like when you guys blew up that school, 150 Iranian school girls were killed and then you lied about it.",
@@ -2844,7 +2886,9 @@
       "claim": "The host says that Donald Trump, not even two days earlier, said he thought Jesus was a Red Cross doctor.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:26:19",
       "investigative_direction": "Locate the transcript and date of the Trump remarks about Jesus.",
       "transcript_snippet": "was not just even two days ago that Trump said that he thought Jesus was a Red Cross doctor.",
@@ -2860,7 +2904,9 @@
       "claim": "The host says that Trump attacked a pope for calling for peace and said that Brigitte Macron is hot.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:26:19",
       "investigative_direction": "Locate the Trump statements on Pope Leo XIV and on Brigitte Macron and their dates.",
       "transcript_snippet": "How about Trump just generally attacking a pope because he's calling for peace? How about Trump saying that Breijit Mcronone is hot?",
@@ -2880,7 +2926,9 @@
       "related_nodes": [
         "N-10541"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:26:19",
       "investigative_direction": "Check shipping-traffic data for the Strait of Hormuz before the war and the administration's stated war aims.",
       "transcript_snippet": "Going to war with the explicit aim of opening the straight of Hormuse, which was already opened before you began the war, is pretty preposterous.",
@@ -2898,13 +2946,15 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:21",
       "investigative_direction": "Obtain the Bessent letter and its recipient and date, and any Treasury statement about TPUSA finances.",
       "transcript_snippet": "She can get uh the Secretary Scott Bessence to issue a letter on demand demanding you stop looking into their finances.",
       "mentions_person_refs": [
         "N-2",
-        "N-612",
+        "N-611",
         "N-3"
       ]
     },
@@ -2916,7 +2966,9 @@
       "claim": "The host says Erika Kirk can get Trump to say in his Easter speech how much Charlie Kirk loved her.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:21",
       "investigative_direction": "Locate the transcript of Trump's Easter 2026 remarks.",
       "transcript_snippet": "She can get Trump to say how much Charlie loved her in his Easter speech.",
@@ -2937,7 +2989,9 @@
         "N-10076",
         "N-10346"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:08",
       "investigative_direction": "Obtain 911 call logs for the UVU shooting and timestamped footage of the camera removal.",
       "transcript_snippet": "company employees who witnessed the shooting and for some incomprehensible reason neglect to call 911, but instead rush to remove cameras within minutes.",
@@ -2956,7 +3010,9 @@
         "N-11297",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:13",
       "investigative_direction": "Obtain school district communications and student or parent accounts of mandatory attendance at TPUSA events.",
       "transcript_snippet": "middle schoolers and high schoolers are being forced in some scenarios to sit in these events. It's mandatory.",
@@ -2977,7 +3033,9 @@
       "related_nodes": [
         "N-10607"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:13",
       "investigative_direction": "Obtain the Charlie Kirk Show segment and the Secret Service's statement on its role.",
       "transcript_snippet": "And so we thought, you know, we got the Secret Service, everything should be fine at the main event.",
@@ -2998,7 +3056,9 @@
       "related_nodes": [
         "N-10607"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:09",
       "investigative_direction": "Obtain itinerary or booking changes for the Georgia trip and the date they were made.",
       "transcript_snippet": "something we were actively trying to navigate and change itineraries, move locations.",
@@ -3017,7 +3077,9 @@
       "related_nodes": [
         "N-10340"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:57",
       "investigative_direction": "Obtain the security-team text thread from September 9, 2025 and identify who received the messages (transcript wording is garbled).",
       "transcript_snippet": "when Charlie multiple times texted me on the security team day before saying he thought he was going to be killed",
@@ -3039,7 +3101,9 @@
       "related_nodes": [
         "N-10604"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:10",
       "investigative_direction": "Locate the daughter's original public statements and the retraction.",
       "transcript_snippet": "very public back forth that went on where she was accusing him of abuse and um there's a lot of that. And then she retracted her statement after they began speaking again",
@@ -3058,7 +3122,9 @@
       "related_nodes": [
         "N-10604"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:10",
       "investigative_direction": "Identify the woman and the shows on which she spoke, and look for any police or court filing.",
       "transcript_snippet": "We didn't include the young woman who alleges that Victor Marx kidnapped her from Canada.",
@@ -3079,7 +3145,9 @@
       "related_nodes": [
         "N-10604"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:07",
       "investigative_direction": "Ask the host for the volume of tips received and review a sample of the tip content.",
       "transcript_snippet": "we have never received more emails and more tips about anyone. Actually um in our tips inbox it was a recurring theme.",
@@ -3098,7 +3166,9 @@
       "related_nodes": [
         "N-10604"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:07",
       "investigative_direction": "Find archived copies of the Marx post, its timestamp relative to the official announcement, and any deletion record.",
       "transcript_snippet": "Victor Marks allegedly was the first person who announced that Charlie Kirk had died and then he deleted that post.",
@@ -3118,7 +3188,9 @@
       "related_nodes": [
         "N-10604"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:52",
       "investigative_direction": "Check church registrations or ministry records for Victor Marx and Corby Hall's statement.",
       "transcript_snippet": "I realized he doesn't have a church. I don't know why he says he's a pastor.",
@@ -3138,13 +3210,15 @@
       "related_nodes": [
         "N-10604"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:01",
       "investigative_direction": "Identify the supplement brand and its ownership records.",
       "transcript_snippet": "You had supplements that you were doing with David Harris.",
       "mentions_person_refs": [
         "N-348",
-        "N-907",
+        "N-906",
         "N-3"
       ]
     },
@@ -3158,13 +3232,15 @@
       "related_nodes": [
         "N-10604"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:47",
       "investigative_direction": "Obtain the supplement marketing claims and any charity disbursement records.",
       "transcript_snippet": "David Harris calls God Papa. I don't know. And he like you guys said that like proceed the supplements were going to help human sex trafficking victims.",
       "mentions_person_refs": [
         "N-348",
-        "N-907",
+        "N-906",
         "N-3"
       ]
     },
@@ -3180,7 +3256,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:41",
       "investigative_direction": "Ask the host for the number of such offers and whether any tip has been verified.",
       "transcript_snippet": "we have people that are saying that they will get jobs at Turning Point USA just to give us information from the inside.",
@@ -3200,7 +3278,9 @@
       "related_nodes": [
         "N-10609"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:03",
       "investigative_direction": "Identify the brother and obtain a first-hand account of what Wada said to colleagues.",
       "transcript_snippet": "Marcus Wada also says that his brother is still involved in the game somehow in the industry in some way.",
@@ -3224,7 +3304,9 @@
       "related_nodes": [
         "N-10609"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:03",
       "investigative_direction": "Confirm the family relationship through public records and obtain the consulting firm's registration.",
       "transcript_snippet": "Anyway, I did end up finding the guy. I'm proddding that narrative. There seems to be something there. I'm assuming it must be a half brother because he has a different last name",
@@ -3248,7 +3330,9 @@
       "related_nodes": [
         "N-10401"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:09",
       "investigative_direction": "Check the Maxfields' charity filings (Saprea) and the plane ownership records.",
       "transcript_snippet": "Derek and Chellain Maxfield, that was that plane that left and went to Paige, Arizona that day. They run a child abuse charity um a trafficking charity uh Sapria",
@@ -3274,12 +3358,14 @@
         "N-11165",
         "N-10401"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:09",
       "investigative_direction": "Obtain Army and court records for the charge against Busher and any Romanian Angels staff or board listing.",
       "transcript_snippet": "he worked with Romanian Angels which was her charity uh the civilian commander stationed at Fort Wuka charged with running a child sex abuse ring",
       "mentions_person_refs": [
-        "N-702",
+        "N-701",
         "N-2",
         "N-3"
       ]
@@ -3297,7 +3383,9 @@
         "N-10411",
         "N-10401"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:09",
       "investigative_direction": "Review the lawsuit filings against Harvest Christian Fellowship and Erika Kirk's tour appearances with Laurie.",
       "transcript_snippet": "Greg Lorie uh whose church Erika went right on tour with him Harvest Church is currently being accused of trafficking ch children from Romania.",
@@ -3319,7 +3407,9 @@
       "related_nodes": [
         "N-10097"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:09",
       "investigative_direction": "Obtain the Zinn charging documents and booking records.",
       "transcript_snippet": "George Zinn, our decoy boy, was arrested for having pornographic images of children on his phone.",
@@ -3343,7 +3433,9 @@
       "related_nodes": [
         "N-10325"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:09",
       "investigative_direction": "Obtain Piscatello's public statements on the subject and the detention record.",
       "transcript_snippet": "Andrew Pascadlo, uh that was the person who was detained that day, uh works to ring the alarm on military Ukrainian sex trafficking in the United States.",
@@ -3351,7 +3443,7 @@
         "C-8161"
       ],
       "mentions_person_refs": [
-        "N-816",
+        "N-815",
         "N-3"
       ]
     },
@@ -3367,7 +3459,9 @@
       "related_nodes": [
         "N-10246"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:46:09",
       "investigative_direction": "Compile court and press records on Calvary Chapel pastor abuse cases.",
       "transcript_snippet": "Calvary Chapel Church is obviously riddled with pastor abuse stories.",
@@ -3391,7 +3485,9 @@
       "related_nodes": [
         "N-11167"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:09",
       "investigative_direction": "Identify the source for the meeting claim and any record of Ballard's schedule on September 10, 2025.",
       "transcript_snippet": "Glenn Beck, Tim Ballard, that's Operation Underground. Tim Ballard. Um his name come in the mix early on as someone who was being met with that day.",
@@ -3413,7 +3509,9 @@
       "related_nodes": [
         "N-10419"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:11",
       "investigative_direction": "Obtain Erika Kirk's earlier statements on China and any records of the charity she worked with.",
       "transcript_snippet": "Erika Kirk says that she lived in China and worked with child sex trafficking victims but she's mum on that now.",
@@ -3437,7 +3535,9 @@
       "related_nodes": [
         "N-11238"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:11",
       "investigative_direction": "Confirm the advisory-board listing for Paul Vallely and the authorship of Mind War.",
       "transcript_snippet": "The TPUSA adviser, Paul Vali, retired Army general who ran psychological operations and co-wrote the book with Michael Aino, the Satanist and founder of the Temple of Set.",
@@ -3462,7 +3562,9 @@
       "related_nodes": [
         "N-11238"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:11",
       "investigative_direction": "Review the 1986-87 San Francisco police and Army records on the Aquino investigation.",
       "transcript_snippet": "He was accused, I'm referring to Michael Aino, was accused of abusing children at Army Child Development Centers.",
@@ -3486,7 +3588,9 @@
       "related_nodes": [
         "N-10604"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:11",
       "investigative_direction": "Check the charity's IRS filings and program description.",
       "transcript_snippet": "Victor Marks, as we learned, runs a charity for child sex abuse.",
@@ -3507,7 +3611,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:23",
       "investigative_direction": "Check the Buckman foundation's filings and donations to child-rescue organizations.",
       "transcript_snippet": "Nell debuckman, the number one donor to Turning Point USA, is extensively involved in rescuing children that are being sexually abused and trafficked.",
@@ -3528,7 +3634,9 @@
       "related_nodes": [
         "N-10609"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:23",
       "investigative_direction": "Seek independent corroboration of Wada's testimony about arms trafficking in Poland.",
       "transcript_snippet": "I should probably change that to more responsibly say formerly involved in trafficking arms in Poland according to Turning Point USA current employees and past employees",
@@ -3553,7 +3661,9 @@
         "N-10127",
         "N-10609"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:01",
       "investigative_direction": "Capture Wada's LinkedIn page and compare the Poland residence with the dates in his TPUSA biography.",
       "transcript_snippet": "it's on his LinkedIn. He lived in Poland, so he maybe he just speaks Polish.",
@@ -3573,7 +3683,9 @@
       "claim": "The host says she believes multiple people were involved in killing Charlie Kirk and that she does not believe Tyler Robinson acted alone on the rooftop.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:54:46",
       "investigative_direction": "Review the court filings and forensic evidence for any additional participant.",
       "transcript_snippet": "I do believe that there were people involved, multiple people involved in killing Charlie Kirk. And I do not believe that it was Tyler Robinson alone on a rooftop.",
@@ -3597,7 +3709,9 @@
         "N-10751",
         "N-10201"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:54:46",
       "investigative_direction": "Find Erika Kirk's own public statements on the burial site.",
       "transcript_snippet": "because now she can't she can't share the details because she says people are are going to come and try to destroy.",
@@ -3617,7 +3731,9 @@
       "related_nodes": [
         "N-10751"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:54:46",
       "investigative_direction": "Obtain the death certificate, cemetery or crematorium records, and funeral details.",
       "transcript_snippet": "I ask myself occasionally whether or not they cremated Charlie because that is starting to make sense to me that they would do that.",
@@ -3636,7 +3752,9 @@
       "related_nodes": [
         "N-11298"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:00:04",
       "investigative_direction": "Identify the event organizers and anyone Erika Kirk contacted, and obtain the call or message records.",
       "transcript_snippet": "Erika personally made phone calls trying to get people not to go to the Catholic event that I spoke at the other week.",
@@ -3656,7 +3774,9 @@
         "N-11182",
         "N-10607"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:00:04",
       "investigative_direction": "Identify the fired employees and compare their accounts with TPUSA's communications records.",
       "transcript_snippet": "The people who were fired told me who was behind this PR push. Erika was behind this stuff the entire time.",
@@ -3673,7 +3793,9 @@
       "claim": "The host says part of why Erika Kirk is on her list of suspicious people is her anger at Joe Kent for trying to investigate foreign involvement in the case.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:00:49",
       "investigative_direction": "Find any public statement by Erika Kirk about Joe Kent and the date of the host's source.",
       "transcript_snippet": "her anger at Joe Kent for trying to investigate foreign involvement.",

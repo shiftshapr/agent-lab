@@ -2037,7 +2037,9 @@
         "N-10253",
         "N-10266"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:00",
       "investigative_direction": "Obtain the original email with its received date and compare it with the first episode in which the host tied the Egyptian planes to Erika Kirk and Charlie Kirk.",
       "transcript_snippet": "this individual who works with or for government sent it before I had figured out that the Egyptian planes were tracking Erika and Charlie.",
@@ -2060,7 +2062,9 @@
         "N-10266",
         "N-10672"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:03",
       "investigative_direction": "Pull the full SUBTT flight history from independent ADS-B and FAA sources and count Wilmington stops and ground times.",
       "transcript_snippet": "the yellow jet tail number SUBTT which kept overlaying sometimes even for days in Delaware.",
@@ -2081,7 +2085,9 @@
         "N-10266",
         "N-10074"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:32",
       "investigative_direction": "Compare the September 4 Provo arrival record for SUBTT with the September 10 departure record to confirm it is the same airframe and passenger count.",
       "transcript_snippet": "the plane that had initially carried over the 12 or 14 quote unquote unquote Egyptians six days earlier, that plane departed, the yellow plane departed on the morning at 7:14 a. m. local time from Provo, Utah",
@@ -2104,7 +2110,9 @@
       "related_nodes": [
         "N-10266"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:32",
       "investigative_direction": "Check the SUBTT wheels-down time at Wilmington against the shooting time established in the official timeline.",
       "transcript_snippet": "Charlie's going to get shot at 12:23. This plane has landed into Wilmington at what would be 9:51 a. m. So about 2 and 1 half hours before Charlie is shot.",
@@ -2128,7 +2136,9 @@
       "related_nodes": [
         "N-10265"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:32",
       "investigative_direction": "Ask the host to identify the agencies and offices consulted, or have independent sources with access to the same agencies test the email's premises.",
       "transcript_snippet": "people that were working in federal agencies and people that work at the State Department to confirm what he had said. And I did.",
@@ -2148,7 +2158,9 @@
       "related_nodes": [
         "N-10265"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:32",
       "investigative_direction": "Request the names, roles or agencies of the vetting sources, or independent corroboration of the email's central claims.",
       "transcript_snippet": "We vetted it across multiple government agencies and to really the highest levels of government. So, this is legit.",
@@ -2170,7 +2182,9 @@
         "N-11160",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:16",
       "investigative_direction": "Obtain Wilmington airport and hangar service records for SUBTT and compare with the flight timeline.",
       "transcript_snippet": "Some people may tell you that SUBTT stopped at Wilmington because it was quote unquote just maintenance. That is not true.",
@@ -2190,7 +2204,9 @@
       "related_nodes": [
         "N-10266"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:16",
       "investigative_direction": "Ask CBP, FAA and Wilmington airport authorities how diplomatic arrivals are logged and whether SUBTT's September 10 arrival appears.",
       "transcript_snippet": "I tried to pull non-public movement data and it came up empty for me. This means that the arrival was processed under a diplomatic and dignitary category",
@@ -2210,7 +2226,9 @@
       "related_nodes": [
         "N-11161"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:20",
       "investigative_direction": "Identify the redacted entity from the original email and seek airport gate logs or vehicle access records.",
       "transcript_snippet": "I can confirm that blank uses vehicles which often leave and enter that airport when they do covert handoffs.",
@@ -2230,7 +2248,9 @@
       "related_nodes": [
         "N-11161"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:20",
       "investigative_direction": "Obtain Wilmington airport security and tenant rules on gate access for foreign government aircraft.",
       "transcript_snippet": "Government vehicles either pick up, monitor, or escort every government plane that lands there.",
@@ -2251,7 +2271,9 @@
         "N-11161",
         "N-10265"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:20",
       "investigative_direction": "Seek airport gate logs, camera footage or witness statements for vehicle movements at SUBTT's Wilmington arrival on September 10, 2025.",
       "transcript_snippet": "I can guarantee you that the vehicles affiliated with this workspace arrived and left inside the same window as SUBTT.",
@@ -2272,7 +2294,9 @@
         "N-10265",
         "N-11161"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:41",
       "investigative_direction": "Check the fleet and parking arrangements at 920 North King Street through public records and building tenant information.",
       "transcript_snippet": "Nearly every federal vehicle that visits the airport will pass through King Street at least once because that is where the majority of the vehicles are ultimately stationed.",
@@ -2292,7 +2316,9 @@
       "related_nodes": [
         "N-11161"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:41",
       "investigative_direction": "Seek Delaware DMV or toll-camera plate records for vehicles at the airport on September 10, 2025.",
       "transcript_snippet": "they most likely immediately swapped the plates for local, but they still had federal clearance.",
@@ -2313,7 +2339,9 @@
         "N-10266",
         "N-10265"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:41",
       "investigative_direction": "Look for any record of where SUBTT passengers went after landing, such as hotel, ground transport or building access logs.",
       "transcript_snippet": "a meeting that's not in a car. That is what I am telling you happened with SUBTT.",
@@ -2333,7 +2361,9 @@
       "related_nodes": [
         "N-10265"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:48",
       "investigative_direction": "Seek on-record or documentary confirmation from any insider named in the email chain; treat the claim as unverified until then.",
       "transcript_snippet": "this is known among insiders. And if you want confirmation, you can ask intel insiders of yours and they will confirm that that is exactly what happened.",
@@ -2354,7 +2384,9 @@
         "N-10265",
         "N-10911"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:45",
       "investigative_direction": "Retrieve the Secret Service 2025 field office list and the DEA directory entry for Wilmington and compare addresses and suite numbers.",
       "transcript_snippet": "In the Secret Service case, the AY's own 2025 field office list still shows Wilmington, Delaware.",
@@ -2377,7 +2409,9 @@
       "related_nodes": [
         "N-10265"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:45",
       "investigative_direction": "Review GSA lease and building tenant records for 920 North King Street from 1997 to date.",
       "transcript_snippet": "That means the suites that the Department of Justice owned in the '90s never actually went away. This eventually evolved into a multi- agency space in a commercial building.",
@@ -2398,7 +2432,9 @@
       "related_nodes": [
         "N-10265"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:10:45",
       "investigative_direction": "Compare photographs of both buildings; the resemblance has no bearing on tenancy.",
       "transcript_snippet": "It looks exactly like a mini version of the thing. The only difference is that 920 North King has glass windows.",
@@ -2417,7 +2453,9 @@
         "N-11160",
         "N-10266"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:10:45",
       "investigative_direction": "Locate the original X posts and any documentation of a Falcon maintenance arrangement at Wilmington.",
       "transcript_snippet": "SUBTT has an alibi because it quote unquote aligns with a longstanding Falcon maintenance arrangement out of Wilmington that dates back to 1999.",
@@ -2438,7 +2476,9 @@
         "N-10269",
         "N-11160"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:23",
       "investigative_direction": "Confirm the closure date through Dassault Falcon service-center listings and Wilmington airport tenant records.",
       "transcript_snippet": "Wilmington used to have a Dissult Falcon authorized center but it shut down around 2021.",
@@ -2461,7 +2501,9 @@
       "related_nodes": [
         "N-10269"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:22",
       "investigative_direction": "Review DRBA's enabling compact and federal oversight to test whether its airport lease decisions fall under any federal chain of authority.",
       "transcript_snippet": "The chain here that would report from the people who control the rivers would be DRBA to the Army Corps of Engineers, the Secretary of the Army and the Secretary of Defense to the President.",
@@ -2487,7 +2529,9 @@
         "N-11160",
         "N-10266"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:22",
       "investigative_direction": "Line up SUBTT's France stops and Wilmington stops against the January 2024 DRBA resolution and December 2024 SATIDS announcement.",
       "transcript_snippet": "your own timeline shows how they traveled to France before the deal was even made. It proves that the maintenance story is nothing but a cover.",
@@ -2509,7 +2553,9 @@
         "N-10289",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:22",
       "investigative_direction": "Archive current and historical Google Business and FBI field office listings for both Wilmington addresses.",
       "transcript_snippet": "you will likely get 920 North King Street with the label Federal Bureau of Investigation instead of the public FBI address that's at 500 Delaware Avenue, Sweet 300",
@@ -2534,7 +2580,9 @@
         "N-10911",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:50",
       "investigative_direction": "Survey federal multi-agency leased suites through GSA and agency directories to test whether the arrangement is unusual.",
       "transcript_snippet": "this actually seems to be a joint DOJ DHS site which verifiably houses three different agencies and possibly more all at the same time.",
@@ -2557,7 +2605,9 @@
       "related_nodes": [
         "N-10265"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:45",
       "investigative_direction": "Ask former federal law enforcement officials and GSA staff whether such co-location is routine.",
       "transcript_snippet": "Multiple agents of multiple different agencies in one suite is not common or typical in the slightest.",
@@ -2578,7 +2628,9 @@
         "N-10265",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:45",
       "investigative_direction": "Read the December 5, 2024 FBI release in full to see where Wray met the partners and whom the release names.",
       "transcript_snippet": "They chose to mention partners. They didn't say that he met with agents that were assigned in Wilmington.",
@@ -2603,7 +2655,9 @@
         "N-10014",
         "N-10265"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:46",
       "investigative_direction": "Locate the FBI release and confirm the exact wording and location context of Wray's remarks.",
       "transcript_snippet": "We have an entire generation of law enforcement and the private sector working together trying to figure out how to help each other",
@@ -2629,7 +2683,9 @@
         "N-10265",
         "N-10266"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:46",
       "investigative_direction": "Seek camera, toll or witness evidence of vehicle movements between the airport and 920 North King Street on September 10, 2025.",
       "transcript_snippet": "Within an hour, federal SUVs move from that airport to 920 North King Street.",
@@ -2651,7 +2707,9 @@
         "N-10014",
         "N-10269"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:18:59",
       "investigative_direction": "Confirm that the December 2024 FBI release concerns Wilmington and check the hangar reactivation date.",
       "transcript_snippet": "The FBI also publicly talks about key partners in Wilmington on the same year that the hanger reactivates.",
@@ -2676,7 +2734,9 @@
         "N-10074",
         "N-10266"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:59",
       "investigative_direction": "Compile the dated SUBTT stops in each listed city from independent flight data and check for Egyptian diplomatic or business presence there.",
       "transcript_snippet": "Omaha, Lincoln, Willist, May not and Provo. None of these are standard diplomatic hubs.",
@@ -2697,7 +2757,9 @@
         "N-10265",
         "N-10266"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:41",
       "investigative_direction": "Test alternative explanations such as maintenance, fueling or crew rest against flight and ground-time data.",
       "transcript_snippet": "Wilmington is undeniably a terminal point and the only logical reason points to 920 North King Street.",
@@ -2717,7 +2779,9 @@
       "related_nodes": [
         "N-10202"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:30",
       "investigative_direction": "Establish what the host means by out, with the dated FBI personnel record, and what link she draws to the Wilmington site.",
       "transcript_snippet": "I think we know why Kash Patel is out, right? I mean, I read this, checked it, verified it",
@@ -2736,7 +2800,9 @@
       "related_nodes": [
         "N-10002"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:30",
       "investigative_direction": "Ask the host which friends she means and what evidence of approval she relies on; no evidence is presented in this episode.",
       "transcript_snippet": "A decision that very clearly had to be approved by Charlie's friends.",
@@ -2760,7 +2826,9 @@
         "N-10014",
         "N-10911"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:40",
       "investigative_direction": "Demand documentary proof tying SUBTT's passengers to the tenants at 920 North King Street.",
       "transcript_snippet": "Secret Service, the FBI, the DEA being involved, why this plane, the quote unquote Egyptian plane landed into Wilmington. That checks out.",
@@ -2778,7 +2846,9 @@
       "related_nodes": [
         "N-10180"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:40",
       "investigative_direction": "Request any contracts, grants or budget lines the host believes fund such an operation; none is cited.",
       "transcript_snippet": "are we just going to keep spending hundreds of millions of dollars trying to see how much money can be spent on a psychological operation",
@@ -2798,7 +2868,9 @@
         "N-10002",
         "N-10047"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:41",
       "investigative_direction": "Identify what Charlie Kirk is alleged to have learned, using his messages, meetings and the donor-pressure record.",
       "transcript_snippet": "Charlie found something out and it cost him his life. That's the truth.",
@@ -2820,7 +2892,9 @@
         "N-10263",
         "N-10074"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:09",
       "investigative_direction": "Match the tail number and manifest of this flight, which the host later ties to TWW Lewis, with FAA and FlightAware history.",
       "transcript_snippet": "That's the one that departed from Scottsdale at 8 o'clock a. m. landed into Provo at 10:06 a. m. and then it immediately departed for Santa Barbara.",
@@ -2844,7 +2918,9 @@
       "related_nodes": [
         "N-10263"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:09",
       "investigative_direction": "Check the Santa Barbara turnaround time and passengers using airport and FBO records.",
       "transcript_snippet": "Landed into Santa Barbara and immediately departed for Scottsdale, landing into Scottsdale at 12:44 p. m. So just um after Charlie got shot",
@@ -2869,7 +2945,9 @@
         "N-10263",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:10",
       "investigative_direction": "Archive the foundation website and check Form 990 filings for grants to Turning Point USA.",
       "transcript_snippet": "Turning Point USA is featured on TWW Lewis's foundation website. They are partners. They have given to Turning Point USA",
@@ -2889,7 +2967,9 @@
       "related_nodes": [
         "N-10263"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:10",
       "investigative_direction": "Identify the tail number, operator and passengers for the Beechcraft departure.",
       "transcript_snippet": "The next flight uh is a Beachcraft that departed Scottsdale at 12:27 p. m. local",
@@ -2909,7 +2989,9 @@
       "related_nodes": [
         "N-11061"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:10",
       "investigative_direction": "Compare with the N102DZ flight records and the Restaurantology interview schedule.",
       "transcript_snippet": "That was Charlie's plane that day. First took him to Salt Lake City for the restauranttology um interview that he did, his last interview.",
@@ -2934,7 +3016,9 @@
         "N-10338",
         "N-10263"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:10",
       "investigative_direction": "Obtain the charter or ownership record, the passenger manifest and any records of who arranged the post-shooting routing.",
       "transcript_snippet": "I'm assuming this might have been what Mikey McCoy coordinated, sent it straight to Scottsdale. And I would like to know who specifically got onto this plane.",
@@ -2958,7 +3042,9 @@
       "related_nodes": [
         "N-10074"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:28:10",
       "investigative_direction": "Identify which aircraft landed in Provo at 3:31 p.m. and check its origin; the host's phrasing is ambiguous.",
       "transcript_snippet": "And then they land into Provo at 3:31 p. m.",
@@ -2978,7 +3064,9 @@
       "related_nodes": [
         "N-10263"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:10",
       "investigative_direction": "Identify the aircraft and passengers on the 2:19 p.m. Santa Barbara departure.",
       "transcript_snippet": "The last plane that we have here is one that departed Santa Barbara at 2:19 p. m. local.",
@@ -3002,7 +3090,9 @@
       "related_nodes": [
         "N-10263"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:34",
       "investigative_direction": "Match each named person to a specific flight with manifests or credible travel accounts; the host does not say which plane carried whom.",
       "transcript_snippet": "Here are the passengers that we know came from Arizona and uh potentially Santa Barbara.",
@@ -3026,7 +3116,9 @@
         "N-10338",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:34",
       "investigative_direction": "Identify the source and timing of the account and compare with Mikey McCoy's post-shooting call log.",
       "transcript_snippet": "Elizabeth McCoy screamed. She grabbed her phone. She ran out.",
@@ -3047,7 +3139,9 @@
         "N-10338",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:25",
       "investigative_direction": "Compare phone records with the 12:23 shooting time and map the HQ-to-airport drive time.",
       "transcript_snippet": "Mikey probably called her. That would make sense. And that's about 30 minutes away from the airport.",
@@ -3069,7 +3163,10 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "dia"
+      ],
       "claim_timestamp": "00:30:25",
       "investigative_direction": "Collect and verify tips received through the tip line against interview transcripts and timestamps.",
       "transcript_snippet": "Please send that at more tips@candicewowens. com.",
@@ -3089,7 +3186,9 @@
       "related_nodes": [
         "N-10699"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:52",
       "investigative_direction": "Compare Turek's accounts of the SUV and hospital with other eyewitness statements.",
       "transcript_snippet": "Frank Turk, who was with Charlie on the day that he died with Charlie in the hospital and carried Charlie into the waiting SUV",
@@ -3111,7 +3210,9 @@
       "related_nodes": [
         "N-10267"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:52",
       "investigative_direction": "Review the viewer emails and early TPUSA interviews they cite.",
       "transcript_snippet": "A lot of people, a lot of you emailed us and said that was a lie.",
@@ -3135,7 +3236,9 @@
       "related_nodes": [
         "N-10267"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:52",
       "investigative_direction": "Obtain the full Megyn Kelly interview clip to confirm context.",
       "transcript_snippet": "this is the first event I've gone to a college campus with Charlie.",
@@ -3157,7 +3260,9 @@
       "related_nodes": [
         "N-10267"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:31:42",
       "investigative_direction": "Compare with crowd estimates from official and independent sources.",
       "transcript_snippet": "and there's thousands of people there an hour before the the start",
@@ -3177,7 +3282,9 @@
       "related_nodes": [
         "N-10267"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:42",
       "investigative_direction": "Obtain the full clip and ask Turek whether he raised the concern with security staff.",
       "transcript_snippet": "I said, \"Charlie, I don't like this place. There's too many buildings.\"",
@@ -3200,7 +3307,9 @@
         "N-10267",
         "N-10427"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:42",
       "investigative_direction": "Obtain drone logs, FAA airspace restrictions and TPUSA security records for September 10, 2025; reconcile with Harpole's statement that drones were not allowed.",
       "transcript_snippet": "His team had drones. They were texting him footage when he was in the car. So Brian Harpole lied.",
@@ -3229,7 +3338,9 @@
         "N-10000",
         "N-10267"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:39",
       "investigative_direction": "Publish the list with each item's source so every entry can be checked independently.",
       "transcript_snippet": "we can add that to our list now of verifiable turning point lies. Um, this list is, by the way, we're we're on two pages. Here's a second page.",
@@ -3248,7 +3359,9 @@
         "N-10155",
         "N-10229"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:46",
       "investigative_direction": "Review the Utah statute on autopsy report release and any waiver or request Erika Kirk has filed.",
       "transcript_snippet": "the only person that can actually release his autopsy report is Erika Next of Kin. That's given to the next ofkin. That's like the Utah state policy.",
@@ -3273,7 +3386,9 @@
       "related_nodes": [
         "N-10862"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:46",
       "investigative_direction": "Identify which lies the host attributes to the feds and who directed Harpole's interview appearance.",
       "transcript_snippet": "The reason they're sending you out to do it is because they don't want to be caught lying themselves.",
@@ -3296,7 +3411,9 @@
         "N-10180",
         "N-10085"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:46",
       "investigative_direction": "Compare the autopsy findings, recovered bullet and ATF analysis with the caliber alleged.",
       "transcript_snippet": "If what he is saying is true, Charlie wasn't shot by a 300 6, which we've been telling you from the beginning.",
@@ -3322,7 +3439,9 @@
         "N-10180",
         "N-10085"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:35",
       "investigative_direction": "Obtain the wound path from the autopsy, shot distance data and ballistic energy calculations for the alleged rifle and cartridge.",
       "transcript_snippet": "that bullet came out from 150 yards, 3,000 lbs of energy, and it just pinged off the back of his neck and went down into his stomach.",
@@ -3345,7 +3464,9 @@
         "A-1443.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:19",
       "investigative_direction": "Identify the Rogan and Theo Von episode and timestamp.",
       "transcript_snippet": "I was so happy to hear Joe Rogan spell out and acknowledge that not only are conspiracies real, but they're actually common.",
@@ -3370,7 +3491,9 @@
       "related_nodes": [
         "N-10324"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:37:12",
       "investigative_direction": "Identify the speaker and episode; the claim is rhetorical characterization of Epstein file secrecy.",
       "transcript_snippet": "It's like the Jeffrey Epstein files. Like they're out there saying it would really compromise national security if we told you.",
@@ -3390,7 +3513,9 @@
       "related_nodes": [
         "N-10324"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:38:28",
       "investigative_direction": "Treat as an opinion about Epstein; no sourcing is given on air.",
       "transcript_snippet": "That's why there's been so much protection over Jeffrey Epstein. Uh because that is who rules over us.",
@@ -3409,7 +3534,9 @@
       "related_nodes": [
         "N-10316"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:38:28",
       "investigative_direction": "Treat as the host's characterization; no new Macron evidence is presented here.",
       "transcript_snippet": "any person who actually watched the Breijit Mcronone story knows that that was a story about pedophiles in power.",
@@ -3431,7 +3558,9 @@
         "N-11011",
         "N-10270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:11",
       "investigative_direction": "Compare with the Macron complaint filed in Delaware and its claimed damages.",
       "transcript_snippet": "I think they're at least threatening a lawsuit. It's like for like 50 million bucks.",
@@ -3454,7 +3583,9 @@
       "related_nodes": [
         "N-10316"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:39:57",
       "investigative_direction": "Public records on the Macrons' ages; the remark is comedic commentary.",
       "transcript_snippet": "Or when the he was like 40 and the kid was 15 >> or she was 40, even if it was a she.",
@@ -3474,7 +3605,9 @@
         "N-11011",
         "N-10270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:57",
       "investigative_direction": "Review the Macron defamation filing and the host's evidence for her statements.",
       "transcript_snippet": "I told the truth about the Bridget Mcronone story, right?",
@@ -3493,7 +3626,9 @@
       "related_nodes": [
         "N-10002"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:57",
       "investigative_direction": "Ask the host what evidence indicates a decision-maker chose a public killing.",
       "transcript_snippet": "I will never get over the fact, by the way, that the decision was made to execute Charlie Kirk publicly.",
@@ -3512,7 +3647,9 @@
       "related_nodes": [
         "N-10002"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:35",
       "investigative_direction": "Request evidence of any funded messaging campaign; none is cited.",
       "transcript_snippet": "they wanted us to see it and then they wanted to spend money on a psychological campaign to tell us that we were wrong for seeing it",
@@ -3531,7 +3668,9 @@
       "related_nodes": [
         "N-10047"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:03",
       "investigative_direction": "Identify the donors and dated communications showing anger or pressure, as in the host's earlier episodes.",
       "transcript_snippet": "donors were getting very angry with Charlie.",
@@ -3553,7 +3692,9 @@
         "N-10268",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:03",
       "investigative_direction": "Ask TPUSA for its AmFest speaker decisions and Pool's account of the invitation.",
       "transcript_snippet": "Tim P, who is always invited to speak at Turning Point USA's Amfest, they cut him because of his seemingly because of his um anti-Israel",
@@ -3575,7 +3716,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:03",
       "investigative_direction": "Ask the host to specify who infiltrated TPUSA and by what means; no documents are shown here.",
       "transcript_snippet": "there was an infiltration happening at Turning Point USA. It's still happening. Obviously, Charlie was in the way.",
@@ -3595,7 +3738,9 @@
         "N-10268",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:44:03",
       "investigative_direction": "Compare with the host's earlier account that donors demanded she not speak at AmFest.",
       "transcript_snippet": "Not like funny that you didn't get invited. It happened to me the year before.",
@@ -3613,7 +3758,9 @@
       "related_nodes": [
         "N-10047"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:03",
       "investigative_direction": "Seek the donor communications and dated threats that the host's sources describe.",
       "transcript_snippet": "you get put on a list, threat, financial threats are made and Charlie was standing up for himself.",
@@ -3635,7 +3782,9 @@
       "related_nodes": [
         "N-10113"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:56",
       "investigative_direction": "Locate the episode where the host first described the vision and its date.",
       "transcript_snippet": "I know what I saw in that vision that I told you guys I had um in the days leading up to Charlie's assassination that made me pull my kids out of school.",
@@ -3652,7 +3801,9 @@
       "claim": "The host says she believes children are at risk in government schools and that she effectively feels there are sleeper cells all across the nation.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:48:56",
       "investigative_direction": "No evidence is offered on air; treat as the host's opinion.",
       "transcript_snippet": "what I effectively feel are sleeper cells all across the nation.",
@@ -3668,7 +3819,9 @@
       "claim": "The host says that powerful people are trained psychopaths, that experiments were conducted to figure out how to make someone grow up to be a psychopath, and that Sigmund Freud spells this out.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:48:56",
       "investigative_direction": "Ask the host for the book club source she cites; no document is shown.",
       "transcript_snippet": "they conducted experiments to figure out how to make somebody grow up to be a psychopath and that's what we're seeing",
@@ -3690,7 +3843,9 @@
         "N-10341",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:56",
       "investigative_direction": "Locate Kolvet's on-air statements about the vertebra injury and the commenter's dated donation record.",
       "transcript_snippet": "Up until Andrew Kovette told us that we had to believe in Miracle Vertebra. I was a devoted TPUA donor and a show member.",
@@ -3711,7 +3866,9 @@
       "related_nodes": [
         "N-10248"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:51:08",
       "investigative_direction": "Verify the Calvary Global Network founding date from its own materials and public records.",
       "transcript_snippet": "Calvary Global Network branched off from Calvary Chapel Association in 2017.",
@@ -3731,7 +3888,9 @@
       "related_nodes": [
         "N-10248"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:51:08",
       "investigative_direction": "Verify church affiliations in Thousand Oaks with Calvary Global Network membership lists.",
       "transcript_snippet": "Thousand Oaks is a part of Calvary Global Network.",
@@ -3747,7 +3906,9 @@
       "claim": "The host says she wishes she had been there because she always warned Charlie about certain people.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:51:08",
       "investigative_direction": "Identify the people and dated messages in which the host warned Charlie.",
       "transcript_snippet": "I just wish I was there because I always warned him about certain people.",
@@ -3766,7 +3927,9 @@
       "related_nodes": [
         "N-10047"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:04",
       "investigative_direction": "Compare with donor correspondence and TPUSA fundraising records.",
       "transcript_snippet": "I think that he equated more dollars with more success and didn't equate it necessarily with more of a threat.",
@@ -3783,7 +3946,9 @@
       "claim": "The host says she is not voting until officials tell the public what happened to Charlie, why it happened and why it had to happen.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:04",
       "investigative_direction": "None required; a stated personal position.",
       "transcript_snippet": "I'm not voting until they tell us what happened to Charlie, why it happened to Charlie, why it had to happen to Charlie.",
@@ -3804,7 +3969,9 @@
       "related_nodes": [
         "N-10530"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:47",
       "investigative_direction": "Obtain the copyright claim notice and identify the clip and rights holder.",
       "transcript_snippet": "A copyright claim for her sensational music. And so, we might have to trim out that sensational song from the Tim Dylan clip that we showed of him listening to it.",
@@ -3825,7 +3992,9 @@
       "related_nodes": [
         "N-10316"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:47",
       "investigative_direction": "Treat as viewer speculation; look for any documentary link between the Macron story and the killing.",
       "transcript_snippet": "a lot of people wrote that instantly that they did this intentionally because you were on the track of Breijit Mcronone.",
@@ -3847,7 +4016,9 @@
         "N-10116",
         "N-10001"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:52:47",
       "investigative_direction": "Locate the earlier episode on prisoner 2093 and clarify the person named.",
       "transcript_snippet": "that MK Ultra experiment that happened that I believe it it looked very much like prisoner 2093 could have been Jean Michelle Tro.",
@@ -3868,7 +4039,9 @@
         "N-10269",
         "N-10316"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:47",
       "investigative_direction": "Trace SATIDS ownership and any ties to French state entities, and compare the deal dates with SUBTT's France trips.",
       "transcript_snippet": "But this French angle is weird. I will say that this like now learning about how the French whatever purchased the hanger and did this deal",
@@ -3890,7 +4063,9 @@
         "N-10316",
         "N-10253"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:54:10",
       "investigative_direction": "Ask the host to list the evidence supporting an international operation and test each piece independently.",
       "transcript_snippet": "I think we have enough evidence to suggest that this was multinational. At the very least, we can accept that this was an international operation.",
@@ -3912,7 +4087,9 @@
         "N-10434",
         "N-10132"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:54:10",
       "investigative_direction": "Review Charlie Kirk's DOGE department plans and its audit scope.",
       "transcript_snippet": "What was Charlie's plan after the Doge investigation? There is the answer. Could be.",

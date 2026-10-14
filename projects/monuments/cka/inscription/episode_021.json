@@ -268,7 +268,7 @@
           "related_nodes": [
             "N-5",
             "N-1",
-            "N-770"
+            "N-769"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1007,8 +1007,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-674",
-      "ref": "N-674",
+      "@id": "N-673",
+      "ref": "N-673",
       "name": "Ivanka Trump",
       "type": "person",
       "description": "Named by the host regarding Israel investments.",
@@ -1111,8 +1111,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-770",
-      "ref": "N-770",
+      "@id": "N-769",
+      "ref": "N-769",
       "name": "Breland Holland",
       "type": "person",
       "description": "First named by the host at 00:18:15 in episode 21. Boy the host says Charlie Kirk interviewed in fourth grade, referenced in Trump's memorial speech.",
@@ -1382,7 +1382,9 @@
       "claim": "The host says that as a child Charlie Kirk was so hyperactive that doctors wanted to put him on ADHD medicine, that his parents refused and sent him to a school for the gifted, and that Charlie told her this story multiple times.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:01:24",
       "investigative_direction": "Ask the Kirk family or early associates to confirm the childhood schooling and the ADHD medication decision; look for school records or biographies that mention it.",
       "transcript_snippet": "of course doctors immediately wanted to put him on ADHD medicine because well why is he so hyperactive?",
@@ -1399,7 +1401,9 @@
       "claim": "The host says she truly believes Charlie Kirk was probably assigned 'life handlers' from the time he entered a school for gifted children, and speculates that standardized tests exist so the government can track high performers.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:01:24",
       "investigative_direction": "No document is cited; the claim is speculation and would need records of any monitoring programme tied to Kirk's schooling.",
       "transcript_snippet": "I truly believe that he was probably assigned like life handlers from that moment on.",
@@ -1420,7 +1424,9 @@
       "related_nodes": [
         "N-10353"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:03",
       "investigative_direction": "Pull the revision of the TPUSA Wikipedia article saved on 11 September 2025 and compare the exact wording and cited sources with what the host read.",
       "transcript_snippet": "McCoy is the co-chairman of TPUs faith, aligned with the Christian right, McCoy inspired Kirk to amalgamate Christianity and social conservatism.",
@@ -1443,7 +1449,9 @@
         "N-11101",
         "N-10200"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:48",
       "investigative_direction": "Search the host's saved messages with Charlie Kirk for the Wikipedia-cleanup contact, and compare Wikipedia edit histories of TPUSA pages for paid-editor disclosures.",
       "transcript_snippet": "I know he told me that they Turning Point USA's organization had found a guy that could help clean up the Wikipedia pages.",
@@ -1464,7 +1472,9 @@
       "related_nodes": [
         "N-10200"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:58",
       "investigative_direction": "Compare the Wikipedia edit timestamp of 10:34 PM ET on 11 September 2025 with the TPUSA announcement of Erika Kirk as CEO and with the date Kirk's body returned to Arizona.",
       "transcript_snippet": "I don't even think they had even yet announced that Erika Kirk was the chairman and the CEO 36 hours later.",
@@ -1484,7 +1494,9 @@
       "related_nodes": [
         "N-10166"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:58",
       "investigative_direction": "Request TPUSA Faith contracts, speaker agreements or IRS Form 990 compensation disclosures showing payments to McCoy.",
       "transcript_snippet": "I know that he gets paid um by TP US faith upcoming uh pastor summits",
@@ -1502,7 +1514,9 @@
         "A-2818.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:02",
       "investigative_direction": "Locate the original Truth Social post, its date and the image, and verify whether the image is AI generated and contains a Star of David.",
       "transcript_snippet": "when Trump rushed to tweet out that or social truth social out that photo, that AI photo of him and Charlie with the star of David in the background.",
@@ -1522,7 +1536,9 @@
       "related_nodes": [
         "N-10025"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:02",
       "investigative_direction": "Survey public statements by prominent pro-Israel commentators on the Robinson case to test the host's challenge.",
       "transcript_snippet": "Find me one, just one real life pro-Israel individual who is expressing that they don't believe that Charlie Kirk was killed by Tyler Robinson.",
@@ -1541,7 +1557,9 @@
       "related_nodes": [
         "N-10319"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:02",
       "investigative_direction": "Compare the host's cited evidence with the charging documents, the ballistics report and the recovered rifle record.",
       "transcript_snippet": "The evidence is overwhelming that Tyler Robinson didn't act alone, that Tyler Robinson didn't fire the shot, that Tyler Robinson didn't use a 30 odd six.",
@@ -1558,7 +1576,9 @@
       "claim": "The host says Turning Point USA is clearing about a hundred million dollars a year and still asks the public to give more.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:10",
       "investigative_direction": "Check TPUSA's Form 990 filings for total annual revenue and compare with the host's later figure of 70 million in the last year.",
       "transcript_snippet": "Clearing like a hundred million a year. They don't have enough.",
@@ -1574,7 +1594,9 @@
       "claim": "The host says that when the feds line up to give someone a holiday it is never good, and that she thinks the feds definitely killed Martin Luther King Jr.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:13:10",
       "investigative_direction": "Off-topic historical assertion recorded as said; no document is cited.",
       "transcript_snippet": "I think maybe the feds definitely killed Martin Luther King Jr.",
@@ -1592,7 +1614,9 @@
         "A-2819.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:18:15",
       "investigative_direction": "Compare the transcript of Trump's memorial speech with footage and dates of Charlie's interview with Breland Holland to see who attended.",
       "transcript_snippet": "Even Trump's speech, remember when he just kind of worked in the story about uh Charlie interviewing a fourth grader and he was referring to Breland Holland?",
@@ -1600,7 +1624,7 @@
         "N-5",
         "N-1",
         "N-3",
-        "N-770"
+        "N-769"
       ]
     },
     {
@@ -1611,7 +1635,9 @@
       "claim": "The host says Kash Patel showed his face at Charlie Kirk's memorial, and says she would have died of shame before attending as Patel.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:19:09",
       "investigative_direction": "Check the memorial attendee list and event footage for Patel.",
       "transcript_snippet": "I would pass away right immediately from shame before I would show up to that event if I was Kash Patel.",
@@ -1630,7 +1656,9 @@
       "related_nodes": [
         "N-10202"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:58",
       "investigative_direction": "Request FBI organizational records or congressional testimony describing who has access to the Kirk case file.",
       "transcript_snippet": "he's got a very small team of people at the FBI that are allowed to touch anything pertaining to the Charlie Kirk case",
@@ -1649,7 +1677,9 @@
       "related_nodes": [
         "N-10202"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:45",
       "investigative_direction": "Ask the host to identify the evidence behind the suspicion of foreign involvement, and compare with the Kent inquiry reported by the New York Times.",
       "transcript_snippet": "I'm getting the suspicion that there were some foreign entities involved.",
@@ -1667,7 +1697,9 @@
       "claim": "The host says Mikey McCoy, who took the seat after Charlie, is missing from the Charlie Kirk Show and that Andrew Kolvet was missing from the episode of that day.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:26:49",
       "investigative_direction": "Check the Charlie Kirk Show episode listing and host roster for the date of this episode.",
       "transcript_snippet": "Mikey McCoy is missing um from the Charlie Kirk show.",
@@ -1686,7 +1718,9 @@
       "related_nodes": [
         "N-11100"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:49",
       "investigative_direction": "Find Kolvet's original statement and who heard Charlie say it; ask security and staff whether any such instruction existed.",
       "transcript_snippet": "Charlie said, \"If I ever get shot at an event, the left side of my neck, the first thing I want you to do is not help me.\"",
@@ -1708,7 +1742,9 @@
       "related_nodes": [
         "N-11100"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:36",
       "investigative_direction": "Review the close-up videos and medical records and interview the security team on first aid steps taken before transport.",
       "transcript_snippet": "He was not administered any first aid. I have the close-up videos of that.",
@@ -1729,7 +1765,9 @@
       "related_nodes": [
         "N-10350"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:08",
       "investigative_direction": "Locate the Alex Clark interview and check what Kolvet and Erika Kirk said about Catholicism.",
       "transcript_snippet": "Alex Clark released that interview with her and Andrew Kovette and they struggle sessioned through that.",
@@ -1753,7 +1791,9 @@
       "related_nodes": [
         "N-10139"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:08",
       "investigative_direction": "Collect the public denials from evangelical influencers and compare dates with the host's earlier statements.",
       "transcript_snippet": "operation mocking pastor or mocking evangelical influencer went out and they all were like, \"That's not true.",
@@ -1776,7 +1816,9 @@
         "N-10323",
         "N-10201"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:08",
       "investigative_direction": "Check parish and cemetery records, the funeral program and public notices for the rite and burial location.",
       "transcript_snippet": "Charlie had a Catholic funeral mass and he is buried in a Catholic cemetery.",
@@ -1795,7 +1837,9 @@
       "related_nodes": [
         "N-10047"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:22",
       "investigative_direction": "Obtain TPUSA's Form 990 and donor records for the year and verify the 70 million total and the 2 million withdrawal.",
       "transcript_snippet": "Like Bob Showman took $2 million away. That's got to mean something.",
@@ -1815,7 +1859,9 @@
         "N-10047",
         "N-10025"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:22",
       "investigative_direction": "Identify the sources the host says she is hearing from and any messages from donors asking TPUSA to maintain a pro-Israel framing.",
       "transcript_snippet": "I think they insisted and are pressuring them as we are hearing to maintain the idea that Charlie died pro-Israel.",
@@ -1832,7 +1878,9 @@
       "claim": "The host says Donald Trump Jr. helped build Turning Point USA, did many college campus events with her and Charlie, and was the most committed Trump family member to TPUSA's early story.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:32:12",
       "investigative_direction": "Check TPUSA campus event schedules and photos from 2016 to 2018 for Don Jr. appearances.",
       "transcript_snippet": "Don Jr., by the way, I would say was one of the people who very much helped to build Turning Point USA.",
@@ -1854,7 +1902,9 @@
       "related_nodes": [
         "N-10202"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:50",
       "investigative_direction": "Obtain the unedited Kelly interview and ask Don Jr. which people and what information he based his confidence on.",
       "transcript_snippet": "but I've spoken to everyone, you know, around and, you know, Erika and like like I I I do have confidence",
@@ -1874,7 +1924,9 @@
         "A-1287.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:48",
       "investigative_direction": "Obtain the full clip and ask which accounts or claims Don Jr. meant by the cottage industry.",
       "transcript_snippet": "there there is a cottage industry of just clicks and people that are more than happy to you know to profiteer you know off of that.",
@@ -1891,7 +1943,9 @@
       "claim": "The host says Don Jr. was one of the most vocal people about the Jeffrey Epstein files until his father said, 'Are we still talking about Jeffrey Epstein?'",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:31",
       "investigative_direction": "Compare Don Jr.'s public posts on the Epstein files over time with Trump's remarks.",
       "transcript_snippet": "He was actually one of the people that was the most vocal about the Jeffrey Epste files until dad said, \"Are we still talking about Jeffrey Epstein?\"",
@@ -1909,7 +1963,9 @@
       "claim": "The host says her favorite fishing experience was with Don Jr., fighting back sea lions or seals in British Columbia, and that he taught her about hunting and the wild.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:36:46",
       "investigative_direction": "Personal anecdote recorded as said; trip dates would be needed to verify.",
       "transcript_snippet": "my favorite fishing experience is actually with you, right? fighting back uh the sea lions or the seals in British Columbia.",
@@ -1928,13 +1984,15 @@
       "related_nodes": [
         "N-10025"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:46",
       "investigative_direction": "Review disclosures of Kushner and Ivanka Trump investments in Israel and any contact with Don Jr. on the Kirk case.",
       "transcript_snippet": "They understand Jared, Ivanka and their investments in Israel and the pressure that's coming from the Zionists to simply be quiet",
       "mentions_person_refs": [
         "N-182",
-        "N-674",
+        "N-673",
         "N-33"
       ]
     },
@@ -1948,7 +2006,9 @@
         "A-1288.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:39:19",
       "investigative_direction": "Compare the release date of the Finkelstein interview with the host's stated Friday.",
       "transcript_snippet": "have a conversation which we will be releasing on Friday uh with Norman Finkelestein.",
@@ -1965,7 +2025,9 @@
       "claim": "The host says Norman Finkelstein was the reason she had him on her show shortly after October 7, when she worked at the Daily Wire, and what he told her pushed her to learn more about Gaza.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:40:13",
       "investigative_direction": "Locate the Daily Wire episode with Finkelstein and check its date.",
       "transcript_snippet": "was the reason I had him on my show right after October 7th, sometime shortly thereafter when I was at the Daily Wire.",
@@ -1982,7 +2044,9 @@
       "claim": "The host says that when they were in Wyoming her family traveled with priests, something she and her husband began doing a year or two ago, and explains the new relic behind her.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:46:07",
       "investigative_direction": "Personal statement recorded as said; no document is cited.",
       "transcript_snippet": "when we were in Wyoming, we traveled with priests.",
@@ -1998,7 +2062,9 @@
       "claim": "The host says a young woman at Turning Point emailed her that the week before the assassination she had a vivid dream of six snakes around a colleague, and that many people dreamed of the number six.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:48:45",
       "investigative_direction": "Anecdote from unnamed email recorded as said; unverifiable without the email.",
       "transcript_snippet": "I had a very vivid dream about so and so at the company and six snakes that were around him.",
@@ -2014,7 +2080,9 @@
       "claim": "The host says she is going by a vibe that six people may have betrayed Charlie because there were so many dreams involving the number six.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:49:42",
       "investigative_direction": "Speculation from dreams recorded as said; no evidentiary basis offered.",
       "transcript_snippet": "I'm kind of going by a vibe that there may be six people who betrayed him by the end of this",
@@ -2031,7 +2099,9 @@
       "claim": "The host says Charlie knew his life was going to be short and knew that she would be the only one to defend him publicly and go to war with everyone.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:50:36",
       "investigative_direction": "Look for Charlie's messages or recorded remarks indicating he expected a short life and expected the host's defense.",
       "transcript_snippet": "he knew his life was going to be short.",
@@ -2050,7 +2120,9 @@
       "related_nodes": [
         "N-10047"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:51:23",
       "investigative_direction": "Compare with Charlie's own messages about donor pressure referenced in earlier episodes, and TPUSA donor records.",
       "transcript_snippet": "the big donors, the Jewish donors at Turning Point USA who are pressuring Charlie",
@@ -2072,7 +2144,9 @@
         "A-2822.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:53:20",
       "investigative_direction": "Verify Robert Maxwell's ownership of Macmillan Publishers and the textbook imprints published under it; the host says 'don't quote me'.",
       "transcript_snippet": "Gileian Maxwell's father did indeed uh begin alongside I think it was McMillan, don't quote me, uh it was like Maxwell McMillan publishing our textbooks",
@@ -2092,7 +2166,9 @@
       "related_nodes": [
         "N-10200"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:53:20",
       "investigative_direction": "Identify the clip the host refers to and the speaker, then verify what the clip actually shows.",
       "transcript_snippet": "he showed how they were training people to edit articles in Wikipedia so that it favored Zionist and the Zionist cause",
@@ -2111,7 +2187,9 @@
       "related_nodes": [
         "N-10081"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:54:40",
       "investigative_direction": "Identify the reporting the host refers to when she says 'as we learned' about bot buying.",
       "transcript_snippet": "Uh they're buying so many bots on the internet. It's a stake that Israel is taking.",
@@ -2127,7 +2205,9 @@
       "claim": "While promoting her book, the host says the feminist movement had nothing to do with supporting women and was a government initiative sponsored by the children of Bolsheviks.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:55:42",
       "investigative_direction": "Historical assertion recorded as said; see the sources in the host's book.",
       "transcript_snippet": "it was a government initiative uh sponsored by the children of Bolsheviks obviously",

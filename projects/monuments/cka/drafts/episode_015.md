@@ -527,8 +527,7 @@ Donald Trump; the host criticizes his post pairing Kirk with an Israeli flag.
 
 ---
 
-**N-15** Justin Strife
-
+**N-15** Justin Streiff
 Named by the host as the COO announced in Charlie Kirk's internal email (transcript spells it Stripe).
 
 *Related: C-6496*

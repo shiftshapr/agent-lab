@@ -781,8 +781,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-518",
-      "ref": "N-518",
+      "@id": "N-517",
+      "ref": "N-517",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "First named by the host at 00:04:45 in episode 127. Aliases: Officer Bagley, Officer Christopher Bagley.",
@@ -800,8 +800,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-517",
-      "ref": "N-517",
+      "@id": "N-516",
+      "ref": "N-516",
       "name": "Jennifer Faumuina",
       "type": "person",
       "description": "Named by the host at 00:15:24 in episode 128; first introduced in episode 126.",
@@ -1099,8 +1099,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-697",
-      "ref": "N-697",
+      "@id": "N-696",
+      "ref": "N-696",
       "name": "Spencer (Frank Turek's son)",
       "type": "person",
       "description": "Turek's son named as FaceTiming during the event.",
@@ -1119,8 +1119,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-752",
-      "ref": "N-752",
+      "@id": "N-751",
+      "ref": "N-751",
       "name": "Michael Jackson",
       "type": "person",
       "description": "Cited in the host's account of her Daily Wire firing.",
@@ -1137,8 +1137,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-753",
-      "ref": "N-753",
+      "@id": "N-752",
+      "ref": "N-752",
       "name": "Harley Pasternak",
       "type": "person",
       "description": "Named by the host as the trainer in the Kanye 5150 account.",
@@ -1616,8 +1616,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-792",
-      "ref": "N-792",
+      "@id": "N-791",
+      "ref": "N-791",
       "name": "Amanda Baker",
       "type": "person",
       "description": "First named by the host at 00:19:25 in episode 127. FBI agent who testified about exhibit nine, the backpack.",
@@ -1634,8 +1634,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-793",
-      "ref": "N-793",
+      "@id": "N-792",
+      "ref": "N-792",
       "name": "Zach Turek",
       "type": "person",
       "description": "First named by the host at 00:38:14 in episode 127. Aliases: Zachary Turek, Frank Zachary Turek, Pentagon Zack.",
@@ -1653,8 +1653,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-794",
-      "ref": "N-794",
+      "@id": "N-793",
+      "ref": "N-793",
       "name": "Mark Meckler",
       "type": "person",
       "description": "First named by the host at 00:47:56 in episode 127. Convention of States figure, called the snake-ler by the host.",
@@ -1710,7 +1710,7 @@
       "claim_timestamp": "00:05:36–00:06:28",
       "investigative_direction": "Obtain full Axon Body Cam 4 battery-log metadata for Bagley's device on Sept. 10, 2025, including dock-cycle history.",
       "mentions_person_refs": [
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -1729,7 +1729,7 @@
       "claim_timestamp": "00:09:06–00:10:43",
       "investigative_direction": "Identify the badge-holder from rooftop footage, radio traffic logs, and officer roster records for Sept. 10, 2025.",
       "mentions_person_refs": [
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -1748,7 +1748,7 @@
       "claim_timestamp": "00:10:05–00:11:27",
       "investigative_direction": "Locate the 20-minute footage gap referenced and obtain any UVU or law-enforcement video from that window.",
       "mentions_person_refs": [
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -1784,7 +1784,7 @@
       "claim_timestamp": "00:15:19–00:16:23",
       "investigative_direction": "Obtain Felomina's September 22, 2025 crime-scene overview report and the seizure item numbers she could not recall.",
       "mentions_person_refs": [
-        "N-517"
+        "N-516"
       ]
     },
     {
@@ -1994,7 +1994,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:01:21",
       "investigative_direction": "Confirm Blake Neff's current employment and role with TPUSA through public staff listings or his own statements.",
       "transcript_snippet": "He's working at Turning Point.",
@@ -2013,7 +2015,9 @@
       "related_nodes": [
         "N-10727"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:21",
       "investigative_direction": "Review the preliminary hearing transcript for the Felomina and Baker testimony Coleman flagged and compare with the host's reading.",
       "transcript_snippet": "the preliminary hearing that Baron Coleman flagged to me over the weekend because we were sharing notes",
@@ -2033,7 +2037,9 @@
         "N-10090",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:06",
       "investigative_direction": "Compare the dates of Patel's public DNA announcement, the earlier media leaks and the FBI lab report on the screwdriver.",
       "transcript_snippet": "That was announced by Kash Patel a couple of days later, but they had kind of already leaked that they were looking",
@@ -2054,7 +2060,9 @@
         "N-10090",
         "N-10754"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:53",
       "investigative_direction": "Obtain the eyewitness's recorded statements and any FBI interview notes for mention of a towel or screwdriver.",
       "transcript_snippet": "has maintained his story and has absolutely no recollection of having seen a towel or a screwdriver",
@@ -2073,12 +2081,14 @@
         "N-10090",
         "N-10731"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:45",
       "investigative_direction": "Obtain Bagley's report and evidence log for the screwdriver recovery time and location, and the footage the influencers say they saw.",
       "transcript_snippet": "He's up there at 12:44 p. m. and he finds that screwdriver.",
       "mentions_person_refs": [
-        "N-518",
+        "N-517",
         "N-3"
       ]
     },
@@ -2094,7 +2104,9 @@
       "related_nodes": [
         "N-10725"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:36",
       "investigative_direction": "Obtain Bagley's device dock log and the UVU police body-cam retention records for September 10.",
       "transcript_snippet": "Usually dock it, but no, I didn't go back.",
@@ -2102,7 +2114,7 @@
         "C-3042"
       ],
       "mentions_person_refs": [
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -2118,7 +2130,9 @@
         "N-10725",
         "N-10773"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:12",
       "investigative_direction": "Subpoena Axon evidence-system audit logs for Bagley's camera showing battery state, power-off events and upload times.",
       "transcript_snippet": "it stores that data, and so we will be able to find out eventually um how that battery died so quickly or if it was manually turned off",
@@ -2126,7 +2140,7 @@
         "C-3045"
       ],
       "mentions_person_refs": [
-        "N-518",
+        "N-517",
         "N-3"
       ]
     },
@@ -2143,7 +2157,9 @@
         "N-10726",
         "N-10772"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:06",
       "investigative_direction": "Identify the armed person in civilian clothing from the body-cam frames and the radio log of who entered the building with Bagley.",
       "transcript_snippet": "I had somebody with me to back me up as I ran up the stairs to make sure I had somebody with me.",
@@ -2151,7 +2167,7 @@
         "C-3043"
       ],
       "mentions_person_refs": [
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -2167,7 +2183,9 @@
         "N-10778",
         "N-10726"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:05",
       "investigative_direction": "Obtain dispatch audio and CAD entries on the north-heading report and the roster of officers who cleared the building before 12:44.",
       "transcript_snippet": "there was people up there looking for an individual that ran that way because when I first got told the individual ran heading north",
@@ -2175,7 +2193,7 @@
         "C-3044"
       ],
       "mentions_person_refs": [
-        "N-518"
+        "N-517"
       ]
     },
     {
@@ -2189,12 +2207,14 @@
         "N-10731",
         "N-11065"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:54",
       "investigative_direction": "Identify which influencers attended the hearing and what footage they say they saw; compare with the exhibit list and the footage actually entered into evidence.",
       "transcript_snippet": "A ton of influencers just confirmed that that very rooftop that you were on, they are now able to get 4K HD footage.",
       "mentions_person_refs": [
-        "N-518",
+        "N-517",
         "N-3"
       ]
     },
@@ -2209,7 +2229,9 @@
         "N-10090",
         "N-10736"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:11",
       "investigative_direction": "Review the evidence chain for the screwdriver: first officer to see it, photographs in place and any footage showing it on the roof before 12:44.",
       "transcript_snippet": "I don't think there ever was a screwdriver up there. I think that that screwdriver was planted there at a different time.",
@@ -2228,7 +2250,9 @@
         "N-10754",
         "N-10090"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:11",
       "investigative_direction": "Obtain the eyewitness video and any enhanced stills of the swung object and compare with the evidence inventory.",
       "transcript_snippet": "that he had a towel. I think it was just a bag. A bag that we are seeing him swing and they are telling us it was his towel.",
@@ -2246,12 +2270,14 @@
       "related_nodes": [
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:11",
       "investigative_direction": "Confirm Felomina's employing agency and title from the preliminary hearing record.",
       "transcript_snippet": "I think I said she was UVU Sergeant. I meant to say she's from the Utah Bureau of Investigations",
       "mentions_person_refs": [
-        "N-517",
+        "N-516",
         "N-3"
       ]
     },
@@ -2267,7 +2293,9 @@
       "related_nodes": [
         "N-10727"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:19",
       "investigative_direction": "Request all Felomina reports from the hearing exhibit list, especially the September 22 overview and any report naming the library items.",
       "transcript_snippet": "nine of those reports in that larger body of reports was written by you, correct? >> Yes.",
@@ -2275,7 +2303,7 @@
         "C-3046"
       ],
       "mentions_person_refs": [
-        "N-517"
+        "N-516"
       ]
     },
     {
@@ -2291,7 +2319,9 @@
         "N-10727",
         "N-10717"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:19",
       "investigative_direction": "Obtain the canvass notes and officer body-cam from the library bus stop showing who first flagged the items and when.",
       "transcript_snippet": "they determined that the Fulton Library stood out because there were um unattended items there at the bus stops that were away from the courtyard area.",
@@ -2299,7 +2329,7 @@
         "C-3046"
       ],
       "mentions_person_refs": [
-        "N-517"
+        "N-516"
       ]
     },
     {
@@ -2314,7 +2344,9 @@
       "related_nodes": [
         "N-10727"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:06",
       "investigative_direction": "Obtain the FBI lab request form and any later communication about the items from state investigators.",
       "transcript_snippet": "Um at the time when it was already sent, we didn't have more information as far as whether or not uh whe- or not the evidence that were collected there were probative.",
@@ -2322,7 +2354,7 @@
         "C-3048"
       ],
       "mentions_person_refs": [
-        "N-517"
+        "N-516"
       ]
     },
     {
@@ -2337,7 +2369,9 @@
       "related_nodes": [
         "N-10727"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:53",
       "investigative_direction": "Identify who made the unrelated determination, on what information, and where it is recorded in the state and FBI files.",
       "transcript_snippet": "Yeah, that would be fair. >> Okay, so the relevant thing is she doesn't remember communicating that, but she's saying the SLED determination was that it was not relevant to this case.",
@@ -2345,7 +2379,7 @@
         "C-3048"
       ],
       "mentions_person_refs": [
-        "N-517",
+        "N-516",
         "N-3"
       ]
     },
@@ -2361,7 +2395,9 @@
       "related_nodes": [
         "N-10727"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:53",
       "investigative_direction": "Compare the item descriptions in the lab inventory with the eyewitness video and statements about the shooter's clothing and gloves.",
       "transcript_snippet": "which sound like they could match the description of the person who I spoke to, who recorded the video and said, \"Yeah, he was in all black, everything was covered.",
@@ -2382,7 +2418,9 @@
         "N-10727",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:25",
       "investigative_direction": "Obtain the FBI lab DNA results, if any, for exhibit nine and the items from the backpack, with dates of processing.",
       "transcript_snippet": "Not having any information from the investigators, we processed them for DNA.",
@@ -2390,7 +2428,7 @@
         "C-3049"
       ],
       "mentions_person_refs": [
-        "N-792"
+        "N-791"
       ]
     },
     {
@@ -2405,7 +2443,9 @@
       "related_nodes": [
         "N-10727"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:30",
       "investigative_direction": "Check the Baker testimony transcript to see whether she said the items were initially treated as shooter-discarded or whether this is the host's inference.",
       "transcript_snippet": "similarly that they initially thought that it was abandoned by the rooftop shooter, which means that they found this along the route that the alleged rooftop shooter took, right?",
@@ -2413,7 +2453,7 @@
         "C-3046"
       ],
       "mentions_person_refs": [
-        "N-792",
+        "N-791",
         "N-3"
       ]
     },
@@ -2430,7 +2470,9 @@
         "N-10717",
         "N-10727"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:15",
       "investigative_direction": "Map the Fulton Library bus stop against the shooter route, the Losee Center and the security detail posts, and identify any detail member there.",
       "transcript_snippet": "Why on Earth was this individual up at a library bus stop that's nowhere near um Loews Center, nowhere near the amphitheater?",
@@ -2452,7 +2494,9 @@
       "related_nodes": [
         "N-10727"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:07",
       "investigative_direction": "Check the figure against FBI Uniform Crime Reporting and Bureau of Justice Statistics data on victim-offender relationships.",
       "transcript_snippet": "70 to 80% of homicide victims are killed by people that they know.",
@@ -2472,7 +2516,9 @@
         "N-10727",
         "N-10717"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:14",
       "investigative_direction": "Ask UVU, the transit authority and nearby buildings whether cameras covered the library bus stop and request retained footage.",
       "transcript_snippet": "Surely, surely there was a surveillance camera that was uh trained on the bus stop.",
@@ -2490,7 +2536,9 @@
       "related_nodes": [
         "N-10728"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:23",
       "investigative_direction": "Ask the hospital and county EMS for the pre-arrival notification procedure and the log of any notification for September 10.",
       "transcript_snippet": "they explained to me that procedurally what happens when you do that, when you make that call, is that there's a place in the hospital that then receives and preps and is expecting you to arrive.",
@@ -2511,7 +2559,9 @@
       "related_nodes": [
         "N-10729"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:23",
       "investigative_direction": "Identify the caller from the released 911 records and compare with each car occupant's account.",
       "transcript_snippet": "nobody wants to take credits for calling 911.",
@@ -2531,14 +2581,15 @@
       "label": "Harpole Said Hospital Staff Did Not Know They Were Coming",
       "claim": "In a clip the host plays, Brian Harpole says he felt bad for the hospital staff because they showed up looking like that and the staff did not know they were coming, even though they had called 911.",
       "anchored_artifacts": [
-        "A-2866.1",
         "A-2866.1"
       ],
       "related_nodes": [
         "N-10728",
         "N-10692"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:17",
       "investigative_direction": "Obtain the full Harpole interview and hospital arrival records to test his statement against the 911 pre-notification claim.",
       "transcript_snippet": "Well, I feel bad for the hospital staff cuz we showed up looking like that and and they didn't know we were coming.",
@@ -2556,14 +2607,15 @@
       "label": "Host Says Harpole Could Not Have Called 911 and Someone Was on the Phone With Shapiro's Security",
       "claim": "The host says Harpole was busy with gauze and his brother with the tattoo was holding him, so he could not have made the call, and that somebody was on the phone with Ben Shapiro's security.",
       "anchored_artifacts": [
-        "A-2866.1",
         "A-2866.1"
       ],
       "related_nodes": [
         "N-10712",
         "N-10729"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:17",
       "investigative_direction": "Identify who in the vehicle was on the phone with Shapiro's security and obtain the phone records for the ride.",
       "transcript_snippet": "You were busy with 9,000 ft of gauze. Your brother with the tattoo was holding you. Somebody was on the phone with Ben Shapiro's security.",
@@ -2582,7 +2634,9 @@
       "related_nodes": [
         "N-10729"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:17",
       "investigative_direction": "Compare dispatch time, vehicle departure time and hospital arrival time from CAD and EMS records.",
       "transcript_snippet": "Who called 911 in this 7-minute short journey?",
@@ -2601,7 +2655,9 @@
         "N-10729",
         "N-10692"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:17",
       "investigative_direction": "Review the released 911 audio and logs for a call from the vehicle between 12:23 and 12:30 and publish the identifier of any matching call.",
       "transcript_snippet": "That's public information. The calls have been released. People have gone through them.",
@@ -2622,7 +2678,9 @@
       "related_nodes": [
         "N-11138"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:49",
       "investigative_direction": "Document Turek family military service from public biographies, which the host says she will cover later.",
       "transcript_snippet": "He's kind of the leader of the Christian grift. It's kind of his entire brand and really kind of the legacy I would say of his family's involvement in the military.",
@@ -2642,7 +2700,9 @@
         "N-10209",
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:30:49",
       "investigative_direction": "The host offers no document here; identify which pastors and which funding or government ties she means.",
       "transcript_snippet": "it is just so obvious to me that all these pastors were a part of the broader psychological operation against Christians to tie us to Israel.",
@@ -2661,7 +2721,9 @@
         "A-2151.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:32:53",
       "investigative_direction": "Obtain the original episode of Turek's show and confirm the letter's wording and whether it was verified.",
       "transcript_snippet": "She has come to believe that you are dishonest and you are a false teacher. And even that you are involved in criminal wrongdoing.",
@@ -2683,7 +2745,9 @@
       "related_nodes": [
         "N-10209"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:34:40",
       "investigative_direction": "The host names no unit or program here; ask for the specific military operations and pastors she means.",
       "transcript_snippet": "And you're part of like of like I said that movement of Christian pastors who hail hail from literal military operations designed to target Christians.",
@@ -2706,13 +2770,15 @@
         "N-11138",
         "N-10730"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:43",
       "investigative_direction": "Confirm each son's rank, branch and assignment from public military records or professional profiles.",
       "transcript_snippet": "Frank's grown adult male children, two of whom I should mention served as captains in the Air Force, one of whom, I don't know if you know this, um served particularly in intelligence",
       "mentions_person_refs": [
         "N-7",
-        "N-697",
+        "N-696",
         "N-3"
       ]
     },
@@ -2729,7 +2795,9 @@
         "N-10818",
         "N-10730"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:38",
       "investigative_direction": "Obtain Turek's and Hibbs's call records for the hospital period and compare with Hibbs's own account.",
       "transcript_snippet": "That's that's when I I called Jack Hibbs to pray. And I I I said Dylan called me because he had heard what had happened.",
@@ -2750,7 +2818,9 @@
       "related_nodes": [
         "N-10730"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:30",
       "investigative_direction": "Obtain FaceTime call-detail records showing the order, start and end times of the wife and Spencer calls.",
       "transcript_snippet": "First I I was FaceTiming my wife and then I said, \"Ah, let me call Spencer.\" And so, I started FaceTiming him.",
@@ -2759,7 +2829,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-697"
+        "N-696"
       ]
     },
     {
@@ -2775,12 +2845,14 @@
         "N-10064",
         "N-11138"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:14",
       "investigative_direction": "Verify Zachary Turek's Joint Staff title and dates from Department of Defense directories or biographies.",
       "transcript_snippet": "Zach was working at the Pentagon. He is today employed in Washington, D. C. at the Pentagon serving as the deputy division chief of the Joint Staff.",
       "mentions_person_refs": [
-        "N-793",
+        "N-792",
         "N-7"
       ]
     },
@@ -2794,7 +2866,9 @@
       "related_nodes": [
         "N-10712"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:06",
       "investigative_direction": "Identify the updates relayed to the vehicle and who passed them on, using security communications logs and the occupants' accounts.",
       "transcript_snippet": "Frank decided to sit in the backseat, pray, and listen to Ben Shapiro's security team receive updates.",
@@ -2815,7 +2889,9 @@
         "N-10729",
         "N-10888"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:06",
       "investigative_direction": "Obtain Turek's outbound call log for September 10 to test whether he called 911 or his son.",
       "transcript_snippet": "Frank didn't call 911, nor did he think to phone his son who works for the most powerful, most funded, and most corrupt division of our government, the Department of Defense?",
@@ -2824,7 +2900,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-793",
+        "N-792",
         "N-3"
       ]
     },
@@ -2838,12 +2914,14 @@
       "related_nodes": [
         "N-11138"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:56",
       "investigative_direction": "Verify Spencer Turek's role, location and duty schedule from public profiles or Air Force records.",
       "transcript_snippet": "He works as a branch chief pilot for the Air Force.",
       "mentions_person_refs": [
-        "N-697",
+        "N-696",
         "N-3"
       ]
     },
@@ -2859,12 +2937,14 @@
       "related_nodes": [
         "N-10730"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:56",
       "investigative_direction": "Obtain the call-detail records and duty rosters that would show where Spencer and his wife were and what they were doing at 2:23 p.m. Eastern.",
       "transcript_snippet": "So, why at 2:23 p. m. in the afternoon is he with his wife clearing out his military schedule to make availability to watch Charlie Kirk answer questions",
       "mentions_person_refs": [
-        "N-697",
+        "N-696",
         "N-1",
         "N-3"
       ]
@@ -2879,13 +2959,15 @@
       "related_nodes": [
         "N-11138"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:47",
       "investigative_direction": "Check the book's publication record for authorship and date.",
       "transcript_snippet": "Frank and his son Zack, Pentagon Zack, actually wrote a book together entitled Hollywood Heroes.",
       "mentions_person_refs": [
         "N-7",
-        "N-793",
+        "N-792",
         "N-3"
       ]
     },
@@ -2896,13 +2978,14 @@
       "label": "Host Quotes Kolvet's Initial Tweet as a Modern-Day Miracle",
       "claim": "The host says Andrew Kolvet's initial tweet called it a modern-day miracle and said that even in death Charlie saved lives, which she likens to a bad superhero script.",
       "anchored_artifacts": [
-        "A-2871.1",
         "A-2871.1"
       ],
       "related_nodes": [
         "N-10447"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:38",
       "investigative_direction": "Retrieve Kolvet's earliest posts from September 10 and 11 and check the exact wording and time.",
       "transcript_snippet": "Everything about that initial tweet that went out by Andrew Kolvet, it was a modern-day miracle. Even in death, Charlie saved lives.",
@@ -2921,7 +3004,9 @@
       "related_nodes": [
         "N-10730"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:38",
       "investigative_direction": "Request FaceTime and carrier records for Turek, Spencer and the wife for 12:00 to 15:00 Mountain on September 10.",
       "transcript_snippet": "I would be interested in all of these call logs because a 35-year-old man at 2:23 p. m.",
@@ -2940,13 +3025,14 @@
       "label": "Host Says the Video Shown as Robinson Turning Himself In Is an Interrogation Room",
       "claim": "The host says influencers showed a video of the back of Tyler Robinson in a room and called it him turning himself in, but it is Robinson in an interrogation room and we do not know how he got there.",
       "anchored_artifacts": [
-        "A-2872.1",
         "A-2872.1"
       ],
       "related_nodes": [
         "N-10021"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:23",
       "investigative_direction": "Identify the video, its source, time and location, and the surrender timeline from the sheriff and county attorney.",
       "transcript_snippet": "That's Tyler Robinson in an interrogation room. We've no idea how he got into this interrogation room.",
@@ -2962,13 +3048,14 @@
       "label": "Host Says No Footage of Robinson Confessing Has Been Shown",
       "claim": "The host says she would like to see footage of Robinson turning himself in or confessing, which many influencers stated before it was shown.",
       "anchored_artifacts": [
-        "A-2872.1",
         "A-2872.1"
       ],
       "related_nodes": [
         "N-10566"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:23",
       "investigative_direction": "Determine whether any recording of a confession exists and which influencers claimed one before the hearing.",
       "transcript_snippet": "We'd like to see footage of him confessing to the crime, which many influencers stated before we got here.",
@@ -2989,7 +3076,9 @@
       "related_nodes": [
         "N-10731"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:07",
       "investigative_direction": "Obtain the chain of custody for the rooftop video, any enhancement logs and the version history between Bongino's September 15 remark and the hearing.",
       "transcript_snippet": "That sounds to me like it was tampered with.",
@@ -3009,13 +3098,15 @@
       "claim": "The host says Jeremy Boreing hosted Mark Meckler, who told an obscure story that she was mean to him, and that she had a giggle about it.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:47:56",
       "investigative_direction": "Locate the Boreing and Meckler appearance and compare Meckler's story with the host's message archive.",
       "transcript_snippet": "he's particularly hosted this guy Mark Meckler and I had such a giggle about Mark Meckler telling this obscure story um that I was like mean to him.",
       "mentions_person_refs": [
         "N-374",
-        "N-794",
+        "N-793",
         "N-3"
       ]
     },
@@ -3026,18 +3117,19 @@
       "label": "Host Says Meckler Urged Donors to Push Charlie to Attach Convention of the States to TPUSA",
       "claim": "The host says Mark Meckler was working on getting donors to force Charlie Kirk to attach Convention of the States to Turning Point USA, while wining and dining donors rather than doing work.",
       "anchored_artifacts": [
-        "A-2870.1",
         "A-2870.1"
       ],
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:47:56",
       "investigative_direction": "Review the host's messages with Charlie, TPUSA donor communications and Convention of the States records for the proposed attachment.",
       "transcript_snippet": "telling donors to like force Charlie to uh just attach Convention of the States to Turning Point USA.",
       "mentions_person_refs": [
-        "N-794",
+        "N-793",
         "N-1",
         "N-3"
       ]
@@ -3049,19 +3141,20 @@
       "label": "Host Says She and Charlie Messaged About Meckler as the Snake-ler",
       "claim": "The host says all of her messages with Charlie, which she still has, referred to Meckler as the snake-ler, with a running joke asking each other to do absurd tasks.",
       "anchored_artifacts": [
-        "A-2870.1",
         "A-2870.1"
       ],
       "related_nodes": [
         "N-10177"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:47:56",
       "investigative_direction": "Obtain the message thread for forensic confirmation of the nickname, dates and contents.",
       "transcript_snippet": "Charlie and me literally all of our messages which I still have of course were just just referred to him as the snake-ler instead of Meckler",
       "mentions_person_refs": [
         "N-1",
-        "N-794",
+        "N-793",
         "N-3"
       ]
     },
@@ -3072,13 +3165,14 @@
       "label": "Host Says She Never Deletes Anything on Her Phone",
       "claim": "The host says she never deletes anything on her phone, that she still has an email from third grade, and that this lets her remember everything with Charlie.",
       "anchored_artifacts": [
-        "A-2870.1",
         "A-2870.1"
       ],
       "related_nodes": [
         "N-10177"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:49",
       "investigative_direction": "Request preservation and forensic imaging of the host's phone and cloud backups for the Charlie Kirk message archive.",
       "transcript_snippet": "I'm so grateful that I never delete anything on my phone which drives my husband crazy.",
@@ -3093,19 +3187,20 @@
       "label": "Host Says Chats With Tyler Bowyer Also Discussed Meckler",
       "claim": "The host says Tyler Bowyer is also in the chats because they would also chat about Mark Meckler.",
       "anchored_artifacts": [
-        "A-2870.1",
         "A-2870.1"
       ],
       "related_nodes": [
         "N-10177"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:49",
       "investigative_direction": "Review the group chats with Bowyer for the dates and content of the Meckler discussions.",
       "transcript_snippet": "by the way Tyler Bowyer is even that the chats cuz we would also chat about Mark Meckler",
       "mentions_person_refs": [
         "N-11",
-        "N-794",
+        "N-793",
         "N-3"
       ]
     },
@@ -3116,14 +3211,15 @@
       "label": "Host Cites a Time.com Piece on Israel's Spending on Bots and Influencers",
       "claim": "The host says a time.com piece reports how much Israel is spending on bots and influencers and tells viewers to read it.",
       "anchored_artifacts": [
-        "A-2867.1",
         "A-2867.1"
       ],
       "related_nodes": [
         "N-10026",
         "N-11017"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:39",
       "investigative_direction": "Locate the Time article and check the spending figures and sourcing it gives.",
       "transcript_snippet": "that time. com piece about how much they are spending on these bots and influencers.",
@@ -3138,13 +3234,14 @@
       "label": "Host Says the Oldest Christian Village Is Being Burned and Settlers Sent In",
       "claim": "The host says the oldest Christian village, Taybeh, in Israel (the West Bank), is being burned while settlers are sent in, and she predicts the same fate for America.",
       "anchored_artifacts": [
-        "A-2868.1",
         "A-2868.1"
       ],
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:51:03",
       "investigative_direction": "Check reporting on Taybeh settler attacks and arson incidents and the village's history.",
       "transcript_snippet": "You may have seen that village like oldest Christian village just being burned and they're sending in the settlers.",
@@ -3159,13 +3256,14 @@
       "label": "Trailer Interviewee Says a Settler Tried to Choke Him and His Mother",
       "claim": "In the played trailer an interviewer asks a man whether a settler tried to choke him and his mother and whether police arrested him and his mother after they called them, and he answers yes.",
       "anchored_artifacts": [
-        "A-2868.1",
         "A-2868.1"
       ],
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:51:03",
       "investigative_direction": "Find the full documentary and corroborating police or press records for the incident.",
       "transcript_snippet": "a settler tried to choke you and your mother, you called the police and the police arrested you and your mother?",
@@ -3183,13 +3281,14 @@
       "label": "Host Says the Shawn Ryan Interview Reached About 6 Million Views in a Week",
       "claim": "The host says her Shawn Ryan interview is the most successful Shawn Ryan episode ever in raw numbers, at about 6 million views in a week.",
       "anchored_artifacts": [
-        "A-2869.1",
         "A-2869.1"
       ],
       "related_nodes": [
         "N-10681"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:53:07",
       "investigative_direction": "Check the YouTube view count and publication date of the Shawn Ryan episode.",
       "transcript_snippet": "I do believe it's also the most successful Shawn Ryan episode ever in terms of just raw numbers it climbing to like 6 million views in what? A week already?",
@@ -3205,11 +3304,12 @@
       "label": "Host Says She Believes Charlie Was Murdered in a Freemasonic Occult Ritual",
       "claim": "The host says she believes Charlie was murdered and that it was a Freemasonic ritual, an occult ritual, which she calls her opinion and says she is sticking to until proven otherwise.",
       "anchored_artifacts": [
-        "A-2869.1",
         "A-2869.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:54:11",
       "investigative_direction": "The host cites no document here; ask what evidence she holds for a ritual motive.",
       "transcript_snippet": "my belief that Charlie was murdered and it was a Freemasonic ritual, occult ritual and I that's my opinion and I'm sticking to it until proven otherwise",
@@ -3226,13 +3326,15 @@
       "claim": "The host says Kanye West was put on a 5150 hold after his trainer Harley Pasternak had an ambulance called, and that a drug cocktail can cause mental issues for life.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:57:13",
       "investigative_direction": "Check Los Angeles reporting and hospital records, if public, on the 2016 hospitalization of Kanye West.",
       "transcript_snippet": "Harley Pasternak, your gym trainer says so and they do a cocktail that can cause you to then have mental issues for life.",
       "mentions_person_refs": [
         "N-27",
-        "N-753",
+        "N-752",
         "N-3"
       ]
     },
@@ -3244,12 +3346,14 @@
       "claim": "The host says Michael Jackson said \"Jew me, screw me\" in his songs and laid out specific Jews in Hollywood who were toying with his life.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:58:01",
       "investigative_direction": "Check the lyric source (They Don't Care About Us), the 1996 controversy and Jackson's own statements about it.",
       "transcript_snippet": "What did he say? \"Jew me, screw me\" in his songs.",
       "mentions_person_refs": [
-        "N-752",
+        "N-751",
         "N-3"
       ]
     },
@@ -3261,13 +3365,15 @@
       "claim": "The host says one reason she was fired from Daily Wire was for suggesting Michael Jackson could have been telling the truth and that it might be time to listen to whether a Jewish gang operates in Hollywood.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:58:01",
       "investigative_direction": "Compare with Daily Wire's and the host's other accounts of the firing reasons.",
       "transcript_snippet": "One of the reasons I was fired from Daily Wire was for suggesting that Michael Jackson could have been telling the truth",
       "mentions_person_refs": [
         "N-3",
-        "N-752"
+        "N-751"
       ]
     },
     {
@@ -3278,7 +3384,9 @@
       "claim": "The host says she has since learned that Hollywood was literally established by Jewish gangs, as recorded on air.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:58:40",
       "investigative_direction": "The host cites no source; this broad group claim is recorded as said and needs historical sources to test.",
       "transcript_snippet": "I've since learned all about how Hollywood was literally established by Jewish gangs.",
@@ -3294,7 +3402,9 @@
       "claim": "The host says Andrew Klavan's Christ is King video made as an obscure point that he was upset she mentioned Sigmund Freud.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:59:17",
       "investigative_direction": "Watch the Klavan video and check whether he objects to the Freud mention.",
       "transcript_snippet": "even Andrew Klavan's Christ is King video because one of the more obscure points was he was upset that I mentioned Sigmund Freud",
@@ -3312,7 +3422,9 @@
       "claim": "The host says that without learning about Sigmund Freud and how he mainstreamed gaslighting she does not know she would have survived the psychiatric attacks, which she says increased after Charlie's death.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:59:17",
       "investigative_direction": "The host cites no specific attack here; identify the incidents she calls psychiatric attacks.",
       "transcript_snippet": "if I did not learn about Sigmund Freud and how he basically just mainstreamed gaslighting people, I don't know that I would have survived the what were psychiatric attacks.",
@@ -3332,7 +3444,9 @@
       "related_nodes": [
         "N-11065"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:00:53",
       "investigative_direction": "Review Kelly's recent shows for which influencers she hosted and what they said about the footage.",
       "transcript_snippet": "I did see people pinging me about Megan Kelly and saying she's hosting these people.",
@@ -3352,7 +3466,9 @@
         "N-10731",
         "N-11065"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:01:29",
       "investigative_direction": "Identify the leak and its source and compare the footage shown in court with the original at 12.4.",
       "transcript_snippet": "I don't know that she caught the what then was leaked afterward about the it actually just being a zoomed-in version of 12.4 that they saw.",
@@ -3372,7 +3488,9 @@
       "claim": "The host says Megyn Kelly stood up to all of these people and told the truth about what Charlie was fearing in his last days, and was attacked for it.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:01:29",
       "investigative_direction": "Compare Kelly's statements about Charlie's last days with the messages and accounts the host cites elsewhere.",
       "transcript_snippet": "Megyn Kelly stood up to all of these people and told the truth about what Charlie was fearing in her last days.",
@@ -3392,7 +3510,9 @@
       "related_nodes": [
         "N-11065"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:02:17",
       "investigative_direction": "Check the court's scheduling order for the date of the September ruling and what it decides.",
       "transcript_snippet": "when they make the decision in September that this is going to go through and more evidence is presented",
@@ -3409,7 +3529,9 @@
       "claim": "The host says she feels Megyn Kelly and Tucker Carlson were the only two people with the courage to tell the truth about what Charlie was going through.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:02:57",
       "investigative_direction": "Compare the Kelly and Carlson accounts with other public statements about Charlie's last weeks.",
       "transcript_snippet": "I feel like her and Tucker Carlson were the only two people that had the courage to tell the truth about what Charlie was going through.",
@@ -3428,7 +3550,9 @@
       "claim": "The host says she is in the process of getting a priest known to come on the show to discuss theology.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:04:38",
       "investigative_direction": "Watch for the announced priest guest on the show.",
       "transcript_snippet": "I am in the process of getting a priest uh who is known to come on the show",
@@ -3444,7 +3568,9 @@
       "claim": "The host reads a viewer comment saying the first movie pushed by Influential was Sound of Freedom, with the same messaging as Frank's book, and that Brad Parscale pushed it; the host replies yes.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:05:30",
       "investigative_direction": "Check Influential's and Parscale's roles in promoting Sound of Freedom.",
       "transcript_snippet": "First movie pushed by Influential was Sound of Freedom, the same messaging as Frank's book.",
@@ -3465,7 +3591,9 @@
       "related_nodes": [
         "N-10131"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:05:30",
       "investigative_direction": "Identify which of the people she met through PragerU she means and the dates.",
       "transcript_snippet": "Yeah, I have a lot to think now about Tim Ballard, how I met all of these people sort of through PragerU and I reconsider that.",
@@ -3484,7 +3612,9 @@
       "related_nodes": [
         "N-10024"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:07:41",
       "investigative_direction": "Ask the host to specify the military personnel, units or documents behind the position and track the trial evidence against it.",
       "transcript_snippet": "I maintain my position that the Charlie Kirk assassination, until I'm presented with true evidence to the contrary and not influencers, looks to me like it was a military operation.",

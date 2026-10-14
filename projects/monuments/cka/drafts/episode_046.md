@@ -16,7 +16,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6677–C-6741
   - New Nodes Introduced: N-333, N-334, N-10335
-  - Reused Nodes Appearing: N-3, N-267, N-1, N-272, N-10336, N-17, N-82, N-102, N-119, N-166, N-194, N-225, N-10012, N-10014, N-10021, N-10028, N-10030, N-10039, N-10040, N-10051, N-10085, N-10100, N-10130, N-10162, N-10164, N-10165, N-10169, N-10180, N-10181, N-10187, N-10193, N-10198, N-10237, N-10250, N-10253, N-10271, N-10282, N-10311, N-10350, N-10434, N-10853, N-11012, N-10334, N-10447, N-616, N-10346, N-11107
+  - Reused Nodes Appearing: N-3, N-267, N-1, N-272, N-10336, N-17, N-82, N-102, N-119, N-166, N-194, N-225, N-10012, N-10014, N-10021, N-10028, N-10030, N-10039, N-10040, N-10051, N-10085, N-10100, N-10130, N-10162, N-10164, N-10165, N-10169, N-10180, N-10181, N-10187, N-10193, N-10198, N-10237, N-10250, N-10253, N-10271, N-10282, N-10311, N-10350, N-10434, N-10853, N-11012, N-10334, N-10447, N-615, N-10346, N-11107
   N-40, N-14
 
 # Episode Analysis: Monument 46
@@ -552,7 +552,7 @@ TPUSA security figure; the host disputes his drone and rooftop statements.
 
 ---
 
-**N-616** Ian Miles Cheong
+**N-615** Ian Miles Cheong
 
 Named by the host as a recipient of out-of-context material.
 
@@ -1849,7 +1849,7 @@ Claim: The host alleges that the same PR agent keeps files, cuts people out of c
 Transcript Snippet: She keeps files and cuts people out of context and then sends it to people like Ian Miles Cheong
 
 Anchored Artifacts: 
-Mentions: N-3, N-232, N-616
+Mentions: N-3, N-232, N-615
 Related Nodes: N-10416
 Tags: relevance:context
 Investigative Direction: Identify any such materials as published by Cheong and trace their source.

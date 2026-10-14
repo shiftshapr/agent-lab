@@ -959,7 +959,7 @@
       "@type": "Person",
       "@id": "N-15",
       "ref": "N-15",
-      "name": "Justin Strife",
+      "name": "Justin Streiff",
       "type": "person",
       "description": "Justin Strife; present in the host's meeting with Erika Kirk where she raised Terryl Farnsworth.",
       "related_artifacts": [],
@@ -2019,8 +2019,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-780",
-      "ref": "N-780",
+      "@id": "N-779",
+      "ref": "N-779",
       "name": "Trent Franks",
       "type": "person",
       "description": "First named by the host at 00:33:30 in episode 052 as the congressman who supported David Farnsworth's EMP bill.",
@@ -2417,7 +2417,9 @@
       "claim": "The host says Tyler Robinson, in the story she is retelling, had never been arrested, had never committed any crimes, and has a perfect ACT score.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:20",
       "investigative_direction": "Obtain court and school records on Robinson's criminal history and ACT score to confirm or refute the host's description.",
       "transcript_snippet": "Uh he'd never been arrested, had never committed any crimes. He has a perfect ACT score",
@@ -2436,7 +2438,9 @@
       "related_nodes": [
         "N-10051"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:41",
       "investigative_direction": "Obtain the Dairy Queen transaction and camera records and the charging document's description of the post-shooting texts.",
       "transcript_snippet": "not exactly pop over to a nearby Dairy Queen to have lunch, calmly, have lunch, and just begin texting his lover.",
@@ -2460,7 +2464,9 @@
       "related_nodes": [
         "N-10381"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:34",
       "investigative_direction": "Interview the three servers and obtain the itemised receipt and the restaurant's staffing roster for the night.",
       "transcript_snippet": "Tyler Robinson ordered a steak medium rare with mashed potatoes and vegetables. There were three servers that were working that night.",
@@ -2480,7 +2486,9 @@
       "related_nodes": [
         "N-10381"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:34",
       "investigative_direction": "Confirm with the restaurant and neighbouring businesses that no camera covered the bar or entrance on September 10, and obtain the card transaction record.",
       "transcript_snippet": "they don't have any cameras at this restaurant. So, what they decided to do was to verify that he was in the building",
@@ -2499,7 +2507,9 @@
       "claim": "The host recites a message attributed to Robinson telling his roommate to delete the letter under the keyboard, but to photograph it first and then read it and destroy it.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:04:45",
       "investigative_direction": "Compare the host's recitation with the text messages released in the charging documents.",
       "transcript_snippet": "Will make sure you delete this letter that's under the keyboard, but take a picture of it before you delete it, but read it and then destroy it.",
@@ -2521,7 +2531,9 @@
         "N-10381",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:45",
       "investigative_direction": "Request the FBI's tip log and any record of when and how it learned of the Pangitch purchase.",
       "transcript_snippet": "They didn't do that. Instead, they were contacted days later um by this restaurant.",
@@ -2542,7 +2554,9 @@
       "related_nodes": [
         "N-10381"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:53",
       "investigative_direction": "Interview the servers directly about Robinson's demeanor and obtain the phone records for his texting that evening.",
       "transcript_snippet": "He seemed absolutely fine and normal and was texting on his phone.",
@@ -2559,7 +2573,9 @@
       "claim": "The host says she previously spoke with a lawyer whom she takes to be Erika Kirk's lawyer because Erika is listed as the victim, and that the lawyer described investigators separate from Erika gathering information to prove Robinson acted alone.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:20",
       "investigative_direction": "Identify the lawyer and the date of the call; ask Erika Kirk's representatives to confirm the conversation.",
       "transcript_snippet": "Now, remember I told you guys that I spoke with the lawyer. Um, this would obviously be Erika's lawyer because she's listed as the victim.",
@@ -2579,7 +2595,9 @@
         "N-10051",
         "N-10381"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:15",
       "investigative_direction": "Obtain the Dairy Queen transaction time, any camera timestamps and the photo metadata to fix the real time of the stop.",
       "transcript_snippet": "the Dairy Queen stop because it had to have occurred earlier than we had initially documented.",
@@ -2604,7 +2622,9 @@
         "N-10381",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:20",
       "investigative_direction": "Ask the FBI and the restaurant whether the receipt was handed over and on what date.",
       "transcript_snippet": "there was a literal receipt and the FBI knows about it um and has that in their possession.",
@@ -2626,7 +2646,9 @@
       "related_nodes": [
         "N-10024"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:10",
       "investigative_direction": "Retrieve the original Patel posts with their timestamps and compare with the host's 5:30 and 5:59 figures.",
       "transcript_snippet": "We have that press conference that happens at 5:30. At 559, Kash Patel tweets that the subject erroneously tweets the subject in custody has been uh released",
@@ -2646,7 +2668,9 @@
         "N-10077",
         "N-10024"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:30",
       "investigative_direction": "Compare the host's 6:00 p.m. estimate with the message timestamps in the released Robinson-Lance chain.",
       "transcript_snippet": "After 6:00 p. m. is when we are gauging the first correspondence to have taken place between Tyler and Lance",
@@ -2667,7 +2691,9 @@
         "N-10051",
         "N-10853"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:58",
       "investigative_direction": "Obtain the original photo's metadata and the Dairy Queen's transaction logs to resolve the time zone question.",
       "transcript_snippet": "Maybe it was actually 5:38 p. m. and time zones were wrong.",
@@ -2694,7 +2720,9 @@
       "related_nodes": [
         "N-10381"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:58",
       "investigative_direction": "Obtain the card transaction time and the server's account to confirm arrival and departure times.",
       "transcript_snippet": "That's the time approximately that Tyler turned up in Panguitch, Utah. Again, that is 3 hours away from Orum. He has a meal at the bar counter and then he leaves around 9:30 p. m.",
@@ -2717,7 +2745,9 @@
         "N-11115",
         "N-10381"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:30",
       "investigative_direction": "Identify the grandmother's residence and whether anyone saw Robinson or a vehicle there on the night of September 10.",
       "transcript_snippet": "he may have gone to his grandma's house afterwards because apparently that's where his grandmother is from and she lives nearby.",
@@ -2736,7 +2766,9 @@
       "related_nodes": [
         "N-11115"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:50",
       "investigative_direction": "Locate the grandmother's original public statement and its date and venue.",
       "transcript_snippet": "Tyler Robinson's grandmother was one of the first people to speak out and she said, \"You have the wrong person.\"",
@@ -2757,7 +2789,9 @@
       "related_nodes": [
         "N-10381"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:03",
       "investigative_direction": "Check whether any nearby business responds with camera footage covering the restaurant on September 10.",
       "transcript_snippet": "Please, we are inviting you to send us an email to more tips@candice. com",
@@ -2777,7 +2811,9 @@
         "N-10230",
         "N-10323"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:50",
       "investigative_direction": "Compile the earlier episodes' receipts on Kirk's mass attendance, rosary and funeral arrangements.",
       "transcript_snippet": "I also broke the story about Charlie's Catholic considerations. I didn't even mean to break that one, but then I had to present the receipts",
@@ -2796,7 +2832,9 @@
       "related_nodes": [
         "N-10346"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:10",
       "investigative_direction": "Review the original footage of Farnsworth's actions in the minutes after the shot.",
       "transcript_snippet": "I also broke the story regarding Terara Farnsworth's strange behavior moments after the assassination.",
@@ -2817,7 +2855,9 @@
       "related_nodes": [
         "N-10085"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:20",
       "investigative_direction": "Obtain the unedited back-view video and have a forensic pathologist assess wound path and bleeding.",
       "transcript_snippet": "was because I broke the story that there was no blood on the back of Charlie as he went down. that the bullet did not pass through.",
@@ -2839,7 +2879,9 @@
       "related_nodes": [
         "N-10740"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:40",
       "investigative_direction": "Request the SUV chain-of-custody and impound records from Utah authorities and the FBI.",
       "transcript_snippet": "I also presented to you guys the photos from inside Charlie's SUV after assassination. I broke the story that the feds did not impound that vehicle.",
@@ -2861,7 +2903,9 @@
       "related_nodes": [
         "N-10239"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:05",
       "investigative_direction": "Obtain the hospital's and the FBI's records of any camera or footage seizure.",
       "transcript_snippet": "Broke a story that the feds seized the cameras inside the hospital",
@@ -2882,7 +2926,9 @@
       "related_nodes": [
         "N-10359"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:10",
       "investigative_direction": "Identify the person who received the DC call through hospital and FBI call logs.",
       "transcript_snippet": "the feds blocked Dr. Troder from returning to his operating room, and that a phone call was then placed to DC.",
@@ -2901,7 +2947,9 @@
       "related_nodes": [
         "N-10447"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:25",
       "investigative_direction": "Ask Kolvet and Dr. Trotter's representatives for the source of the quotation.",
       "transcript_snippet": "We broke the story that Andrew Kovette lied about the Superman neck. That quotation never came from Dr. Lee Trotter at all.",
@@ -2925,7 +2973,9 @@
       "related_nodes": [
         "N-10340"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:35",
       "investigative_direction": "Obtain the text thread from Kolvet, Flood or Erika Kirk and compare it to the host's description.",
       "transcript_snippet": "We broke the story that Charlie texted Dan Flood and Andrew Kovette the night before saying that he was afraid that they were going to kill him.",
@@ -2949,7 +2999,9 @@
       "related_nodes": [
         "N-10340"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:40",
       "investigative_direction": "Ask Erika Kirk's team to confirm publicly what she told the host about the text.",
       "transcript_snippet": "This has now been confirmed by Erikaru. At least it was confirmed to me from Erika.",
@@ -2973,7 +3025,9 @@
         "N-10342",
         "N-10018"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:50",
       "investigative_direction": "Obtain Kirk's phone records for the Netanyahu call and statements by Erika Kirk on the offer.",
       "transcript_snippet": "We broke the story that Netanyahu called Charlie to make an offer to take Turning Point to the next level. That story is being disputed by Erika.",
@@ -2997,7 +3051,9 @@
       "related_nodes": [
         "N-10342"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:10",
       "investigative_direction": "Identify the independent source, directly or through the host, and the nature of their knowledge.",
       "transcript_snippet": "I confirmed that separately from Andrew Kovette with someone that did not have communication with Andrew Kovette.",
@@ -3020,7 +3076,9 @@
       "related_nodes": [
         "N-10367"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:25",
       "investigative_direction": "Obtain the incident report (861-1-2025-MPC446) through Fort Huachuca or a FOIA request.",
       "transcript_snippet": "We presented the military police report, backed that up with evidence uh that Mitch was telling the truth about what happened on September 9th.",
@@ -3042,7 +3100,9 @@
       "related_nodes": [
         "N-10253"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:35",
       "investigative_direction": "Obtain flight-tracking logs and the document the host says is forthcoming.",
       "transcript_snippet": "Um that document we still have for you which is coming forward. We will be proven correct on that as well.",
@@ -3063,7 +3123,9 @@
       "related_nodes": [
         "N-11054"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:45",
       "investigative_direction": "Obtain police reports naming the officers who located the rifle and who directed them.",
       "transcript_snippet": "We broke a story about the bomb dogs failing to detect the recently discharged weapon on September 10th and that it was actually the feds that then directed a rookie police officer, three rookie police officers to find it.",
@@ -3086,7 +3148,9 @@
         "N-10298",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:55",
       "investigative_direction": "Identify the donor behind the reported check through TPUSA donor records or sources.",
       "transcript_snippet": "Is it Pierre Dupont? Is it Pierre Falconee? I think it's Pierre Falconee. I really do believe it's Pierre Falconee for a lot of reasons.",
@@ -3107,7 +3171,9 @@
       "claim": "The host says she wants to know who killed Charlie Kirk and does not believe it was Tyler Robinson.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:11",
       "investigative_direction": "Obtain the full forensic and ballistic record the prosecution relies on to evaluate the host's position.",
       "transcript_snippet": "I want to know who killed Charlie Kirk and I don't believe it was Tyler Robinson.",
@@ -3128,7 +3194,9 @@
         "N-10376",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:40",
       "investigative_direction": "Obtain TPUSA's written statement on the tent concept and its planned tour use.",
       "transcript_snippet": "the idea from them was that at future tour stops, people would use that tent to grieve and to share their thoughts about how Charlie had changed their lives.",
@@ -3149,7 +3217,9 @@
       "claim": "The host says that after receiving the redacted text on December 28 she followed up about four to five times asking to see the contact number.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:40",
       "investigative_direction": "Obtain the host's request messages and the intermediary's replies.",
       "transcript_snippet": "I followed up about four to five times just trying to get that before we came back um onto the podcast.",
@@ -3169,7 +3239,9 @@
       "claim": "The host says she is working through a third party who said Erika was tied up with something personal and that six sick kids over the holiday explained the delay in getting the text.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:40",
       "investigative_direction": "Identify the intermediary and obtain a direct statement from Erika Kirk's side.",
       "transcript_snippet": "they made it clear that Erika has been tied up with something personal. So that's the reason for the delay. There were six sick kids as well throughout the holiday.",
@@ -3188,7 +3260,9 @@
       "related_nodes": [
         "N-10373"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:50",
       "investigative_direction": "Ask Harpole through a representative whether he received the host's outreach.",
       "transcript_snippet": "No response at all from Brian Harpole. I've told you that several times.",
@@ -3207,7 +3281,9 @@
       "related_nodes": [
         "N-10373"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:00",
       "investigative_direction": "Obtain the Flood-Harpole message record and Flood's September 8-9 location data.",
       "transcript_snippet": "Now, Dan Flood was not seen at Fort Wuka, but he does have communication with Brian Harpole.",
@@ -3227,7 +3303,9 @@
       "related_nodes": [
         "N-10371"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:15",
       "investigative_direction": "Compare Amodei's public height and appearance with Mitch's recorded description.",
       "transcript_snippet": "I told you that we looked up a congressman that fit the description of what he was telling us. 5'9, glasses, grayish white hair.",
@@ -3250,7 +3328,9 @@
       "related_nodes": [
         "N-10371"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:30",
       "investigative_direction": "Obtain Mitch's own account of how he identified the photo and his stated confidence.",
       "transcript_snippet": "And he said that that face looks familiar.",
@@ -3276,7 +3356,9 @@
         "N-10382",
         "N-10371"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:40",
       "investigative_direction": "Obtain the House Clerk's roll-call record for the date.",
       "transcript_snippet": "Then Mark Ammedday came out and he had dropped a YouTube video of a live stream of him on a committee. And then X came back and said um he actually missed the first two roll calls.",
@@ -3299,7 +3381,9 @@
         "N-10367",
         "N-10373"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:30",
       "investigative_direction": "Review Mitch's original contact with the host and what he said about each person.",
       "transcript_snippet": "Mitch initially contacted me about just Erika Kirk um, and Brian Harpole.",
@@ -3321,7 +3405,9 @@
         "N-10370",
         "N-10326"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:45",
       "investigative_direction": "Obtain Mitch's full account and the identities of those in the meeting.",
       "transcript_snippet": "this hands-on meeting that looked like mission, mission is on the table. Let's go break right before a mission. That's how it was described to me.",
@@ -3344,7 +3430,9 @@
         "N-10797",
         "N-10346"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:15",
       "investigative_direction": "Obtain a recording or notes of the call, and Farnsworth's account of what was said.",
       "transcript_snippet": "Told you guys he just started lying to me repeatedly. Weird. His energy was weird.",
@@ -3363,7 +3451,9 @@
       "related_nodes": [
         "N-10797"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:10",
       "investigative_direction": "Ask Farnsworth to explain the statement and how the camera files were later handled.",
       "transcript_snippet": "I don't know how to send a file. What do you mean? You run an entire AV company. You know how to send a file over the internet? Well, I'm scared Google might hack me.",
@@ -3382,7 +3472,9 @@
       "related_nodes": [
         "N-10346"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:30",
       "investigative_direction": "Ask Erika Kirk and Justin Strife to confirm what was said about Farnsworth in the meeting.",
       "transcript_snippet": "I also expressed that to Erika and Justin Strife when we were sitting in the meeting.",
@@ -3401,7 +3493,9 @@
       "claim": "The host says she was told Farnsworth is receiving death threats because people want answers, and that she does not want viewers to harass him or his family.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:50",
       "investigative_direction": "Ask Farnsworth or TPUSA whether threats were reported to police and obtain any report.",
       "transcript_snippet": "that was told to me that he's receiving death threats because people want answers.",
@@ -3423,7 +3517,9 @@
         "N-10085",
         "N-10180"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:56",
       "investigative_direction": "Obtain the full video and have independent analysts review it frame by frame.",
       "transcript_snippet": "Not only did the bullet not go through, it didn't even cause any sort of destruction. And I follow that video until he goes down.",
@@ -3448,7 +3544,9 @@
         "N-10085",
         "N-10180"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:15",
       "investigative_direction": "Have a forensic pathologist review the video for the blood in the hand and its source.",
       "transcript_snippet": "And the only blood that I saw was blood in his hand on which was spurting forward.",
@@ -3467,7 +3565,9 @@
       "related_nodes": [
         "N-11111"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:45",
       "investigative_direction": "Check Arizona court dockets and the pardon record for Bowyer.",
       "transcript_snippet": "Uh he's also been indicted for crimes by the state of Arizona, federal crimes for which he was recently pardoned by President Donald Trump.",
@@ -3488,7 +3588,9 @@
         "N-11111",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:26:10",
       "investigative_direction": "Obtain court garnishment records and TPUSA's Form 990 compensation filings.",
       "transcript_snippet": "A person that seems motivated by money, a person who factually was in debt and uh was having his payments garnished at Turning Point USA who then blinks and becomes a millionaire working for a charity",
@@ -3507,7 +3609,9 @@
       "related_nodes": [
         "N-11111"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:26:30",
       "investigative_direction": "State the factual basis (court records, financial filings) for the host's conclusion.",
       "transcript_snippet": "I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character.",
@@ -3526,7 +3630,9 @@
       "related_nodes": [
         "N-11110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:48",
       "investigative_direction": "Ask Erika Kirk's team to confirm the question and her answer.",
       "transcript_snippet": "I decided to ask Erika in person during our sitdown how she met Tyler.",
@@ -3546,7 +3652,9 @@
       "related_nodes": [
         "N-11110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:40",
       "investigative_direction": "Review rally footage and the public statements in which each described attending.",
       "transcript_snippet": "Both she and Tyler have been honest about that fact, particularly citing Trump's 2015 presidential rally as an event where the two of them attended together",
@@ -3567,7 +3675,9 @@
       "related_nodes": [
         "N-11110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:00",
       "investigative_direction": "Review footage of the July 2015 Arizona rally and identify who stood where.",
       "transcript_snippet": "So the three of them have known each other since at least July 2015 publicly.",
@@ -3589,7 +3699,9 @@
       "related_nodes": [
         "N-11110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:10",
       "investigative_direction": "Ask Erika Kirk's representatives to confirm her account of how she met Bowyer.",
       "transcript_snippet": "So I asked Erika how she met him. Her answer was that she met him at the 2015 rally because they were both standing behind Trump.",
@@ -3612,7 +3724,9 @@
       "related_nodes": [
         "N-11110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:20",
       "investigative_direction": "Compare the memorial remarks with Erika Kirk's own accounts of how they met.",
       "transcript_snippet": "I immediately corrected her. I said, \"That's not possible.",
@@ -3635,7 +3749,9 @@
       "related_nodes": [
         "N-11110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:30",
       "investigative_direction": "Ask Erika Kirk's team whether she located the old messages and what they show.",
       "transcript_snippet": "she doesn't remember how she met him, but she said that she would look back through old messages",
@@ -3656,7 +3772,9 @@
         "N-11110",
         "N-10383"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:50",
       "investigative_direction": "Identify which senator or congressman Erika meant and any link to the Farnsworths.",
       "transcript_snippet": "they had a a connection in politics via a a senator or a congressman. That's what she said.",
@@ -3676,7 +3794,9 @@
       "related_nodes": [
         "N-10383"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:10",
       "investigative_direction": "Check yearbooks and public records for the two families in Chandler.",
       "transcript_snippet": "Terrell Farnsworth par Farnsworth's parents went to high school with Tyler Bowyer's parents. They're all from Chandler, Arizona.",
@@ -3696,7 +3816,9 @@
       "related_nodes": [
         "N-10383"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:40",
       "investigative_direction": "Check Gilbert High School yearbooks and graduation lists.",
       "transcript_snippet": "They graduated um it looks like two years apart uh from Gilbert High School.",
@@ -3714,7 +3836,9 @@
       "claim": "The host says that at the 2015 rally Tyler Bowyer introduced himself as the youngest chairman of the Republican party.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:50",
       "investigative_direction": "Review the 2015 rally recording for Bowyer's introduction.",
       "transcript_snippet": "Tyler Bowyer introduces himself as the youngest chairman of the Republican party.",
@@ -3733,7 +3857,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:31:10",
       "investigative_direction": "Review Bowyer's memorial remarks and TPUSA history of the Arizona relocation.",
       "transcript_snippet": "He was the reason that Charlie moved to decided to put Turning Point USA's campus in Arizona.",
@@ -3756,7 +3882,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:31:25",
       "investigative_direction": "Compare hires attributed to Bowyer in earlier claims with TPUSA staff records.",
       "transcript_snippet": "Tyler has been driving this bus and like I said hiring the people around Charlie Kirk except for me",
@@ -3776,7 +3904,9 @@
       "related_nodes": [
         "N-10383"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:40",
       "investigative_direction": "Verify the Farnsworth family tree from Arizona public records and obituaries.",
       "transcript_snippet": "Terrell's father is a man named Dwayne Farnsworth and his first cousins are longtime Arizona Congressman Eddie Farnsworth.",
@@ -3798,7 +3928,9 @@
       "related_nodes": [
         "N-10383"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:32:20",
       "investigative_direction": "Search Arizona court dockets for cases naming both Eddie Farnsworth and Tyler Bowyer as defendants.",
       "transcript_snippet": "In fact, Eddie has actually been sued in the past with Tyler. Like they're on the same side.",
@@ -3820,7 +3952,9 @@
       "related_nodes": [
         "N-10383"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:00",
       "investigative_direction": "Check the Arizona legislature's 2014 record for the bill's outcome.",
       "transcript_snippet": "They got it passed through. So, the three of these people knew each other.",
@@ -3846,7 +3980,9 @@
       "related_nodes": [
         "N-10383"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:30",
       "investigative_direction": "Pull the 2014 record and Franks's public statements on the EMP bill.",
       "transcript_snippet": "And he got support from Congressman Trent Franks.",
@@ -3856,7 +3992,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-391",
-        "N-780"
+        "N-779"
       ]
     },
     {
@@ -3871,7 +4007,9 @@
       "related_nodes": [
         "N-10383"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:40",
       "investigative_direction": "Confirm the family relationship with marriage and public records for Lori Frantzve.",
       "transcript_snippet": "Larry Ginta, by the way, or Gwenta, I don't know if I'm saying that right, is Erika's stepfather.",
@@ -3896,7 +4034,9 @@
       "related_nodes": [
         "N-10383"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:50",
       "investigative_direction": "Look for documents earlier than 2014 linking the families.",
       "transcript_snippet": "The Finesworths, the Boyers, and the France fees have known each other um at least since 2014 on paper.",
@@ -3921,7 +4061,9 @@
       "related_nodes": [
         "N-10383"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:10",
       "investigative_direction": "Ask the host to identify the indication or source, then verify it with records.",
       "transcript_snippet": "Um I have an indication that it was actually earlier, but this is on paper, so let's stick to the facts.",
@@ -3943,7 +4085,9 @@
         "N-11112",
         "N-10832"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:20",
       "investigative_direction": "Check the Arizona House Judiciary Committee agenda and press coverage of the 2013 bill.",
       "transcript_snippet": "he blocked a hearing on a bill to prevent child sex trafficking.",
@@ -3962,7 +4106,9 @@
       "related_nodes": [
         "N-11112"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:40",
       "investigative_direction": "Check Arizona court records and news archives for the case against Albert Farnsworth.",
       "transcript_snippet": "his nephew, Albert Farnsworth, um had raped a 13-year-old.",
@@ -3983,7 +4129,9 @@
         "N-10186",
         "N-10832"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:10",
       "investigative_direction": "Identify the plane owners and the charity, and check their public profile photos.",
       "transcript_snippet": "they run uh an anti-child sex trafficking charity. Also, in their profile pictures, they're wearing a t-shirt from another child sex trafficking charity, Operation Underground.",
@@ -4001,7 +4149,9 @@
       "related_nodes": [
         "N-10832"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:30",
       "investigative_direction": "Locate the Lyman-Ballard conversation, its date and venue.",
       "transcript_snippet": "following the assassination, Phil Lyman was speaking to the guy that used to run, I'm blanking on his name, Tim Ballard, that's his name, Tim Ballard.",
@@ -4021,7 +4171,9 @@
       "related_nodes": [
         "N-10832"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:55",
       "investigative_direction": "Check Operation Underground's and Beck's public statements on the support.",
       "transcript_snippet": "he had gotten u donation and support from Glenn Beck for Operation Underground.",
@@ -4042,7 +4194,9 @@
         "N-10832",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:50",
       "investigative_direction": "Verify the location of TPUSA's campus relative to Arizona Mills and any law enforcement data on trafficking there.",
       "transcript_snippet": "literally across the way there's a place known as Arizona Mills which is like the number one place for child sex trafficking just like across the street.",
@@ -4061,7 +4215,9 @@
         "N-10832",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:11",
       "investigative_direction": "Treat as a hedge on the host's trafficking-theme claims; test whether those claims rest on documents.",
       "transcript_snippet": "I am not suggesting that Turning Point USA is trafficking children.",
@@ -4084,7 +4240,9 @@
         "N-10371",
         "N-10383"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:25",
       "investigative_direction": "Show Mitch photos of Farnsworth and Amodei side by side and compare with his recorded description.",
       "transcript_snippet": "I am wondering regarding Eddie Farnsworth if it is possible that Mitch saw him because he's a dead ringer.",
@@ -4106,7 +4264,9 @@
         "N-10371",
         "N-10383"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:40",
       "investigative_direction": "Obtain Mitch's own statement on the photo and whether he can place Farnsworth at the base.",
       "transcript_snippet": "I sent it to Mitch and he said, \"Yes, this man looks very familiar.",
@@ -4126,7 +4286,9 @@
       "related_nodes": [
         "N-10383"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:50",
       "investigative_direction": "Identify Farnsworth family members' military service and contracts.",
       "transcript_snippet": "because the Farnsworth family has deep military ties as well.",
@@ -4146,7 +4308,9 @@
       "related_nodes": [
         "N-10384"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:30",
       "investigative_direction": "Check the road distance between Davis-Monthan AFB and Fort Huachuca.",
       "transcript_snippet": "Uh, it's a little over an hour north in Tucson.",
@@ -4167,7 +4331,9 @@
         "N-10384",
         "N-10383"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:55",
       "investigative_direction": "Obtain the summit's attendee list and agenda.",
       "transcript_snippet": "Again, that could obviously just be a coincidence, but it's interesting. it would give them an excuse to be in that region.",
@@ -4189,7 +4355,9 @@
         "N-10256",
         "N-10383"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:10",
       "investigative_direction": "Verify the family relationship and Bert's role through corporate and marriage records.",
       "transcript_snippet": "His father-in-law is Thomas Bert, who ran Duncan Aviation. The FBO, I told you, that rented the cars for the feds.",
@@ -4213,7 +4381,9 @@
       "related_nodes": [
         "N-10256"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:27",
       "investigative_direction": "Check Duncan Aviation press releases and filings for Bert's title and retirement date.",
       "transcript_snippet": "He actually ran Duncan Aviation as the executive vice president and COO for 22 years now. He did retire. He retired in in 2019.",
@@ -4233,7 +4403,9 @@
       "related_nodes": [
         "N-10379"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:30",
       "investigative_direction": "Obtain screenshots of the reactivated accounts and posts and their dates.",
       "transcript_snippet": "it looked like a Daily Wire was teasing something on my channels, which they brought back, and then they released stuff on my old Instagram channels.",
@@ -4254,7 +4426,9 @@
       "related_nodes": [
         "N-10385"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:15",
       "investigative_direction": "Ask the host for the tipsters' basis, and confirm casting through Daily Wire or the people named.",
       "transcript_snippet": "They tossed around three other people. They even considered doing a combination show with a person who had played the baiff on Matt Walsh's Judged",
@@ -4276,7 +4450,9 @@
       "related_nodes": [
         "N-10114"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:47:30",
       "investigative_direction": "Check USDA honey production rankings for Utah.",
       "transcript_snippet": "In fact, in terms of making honey or bee related products, they rank number 24.",
@@ -4296,7 +4472,9 @@
       "related_nodes": [
         "N-10114"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:47:35",
       "investigative_direction": "Check Utah state history sources on the beehive symbol and its adoption.",
       "transcript_snippet": "It's actually the beehive state. It's relates to the uh Mormon church, the Church of Latter-day Saints.",
@@ -4315,7 +4493,9 @@
         "N-10238",
         "N-10416"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:51:00",
       "investigative_direction": "Identify the intern incidents, the events and any recorded evidence of the cancelled speaking events.",
       "transcript_snippet": "laws that prevent employers from sending interns to stalk you at events from trying to get you canled from speaking events for buying your friends.",
@@ -4336,7 +4516,9 @@
       "related_nodes": [
         "N-11113"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:36",
       "investigative_direction": "Obtain the French court judgment listing the defendants and charges.",
       "transcript_snippet": "Eight men and two women between the ages of 41 and 65.",
@@ -4357,7 +4539,9 @@
       "related_nodes": [
         "N-11113"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:54:05",
       "investigative_direction": "Obtain the French court judgment and press reports for the sentences.",
       "transcript_snippet": "of the 10 defendants, eight were given suspended sentences between four to eight months. and a ninth was sentenced to six months in jail because that person just didn't even attend the hearing.",
@@ -4378,7 +4562,9 @@
       "related_nodes": [
         "N-11113"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:54:30",
       "investigative_direction": "Obtain the French court judgment for the account suspension orders.",
       "transcript_snippet": "Three of the individuals were described as the instigators and they were then ordered to have their social media accounts suspended for 6 months.",
@@ -4399,7 +4585,9 @@
       "related_nodes": [
         "N-11113"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:54:50",
       "investigative_direction": "Obtain the French court judgment for the course order.",
       "transcript_snippet": "all of them were ordered to attend an online course regarding hate speech.",
@@ -4420,7 +4608,9 @@
       "related_nodes": [
         "N-11113"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:55:00",
       "investigative_direction": "Obtain the French court judgment for the damages order and amount.",
       "transcript_snippet": "And they have to collectively pay Rajit Mcronone what's known as moral damages around $12,000.",
@@ -4439,7 +4629,9 @@
       "related_nodes": [
         "N-10270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:55:20",
       "investigative_direction": "Follow the Delaware docket and any French or US speech legislation the host links to the suit.",
       "transcript_snippet": "evil people are getting caught doing evil things and those evil people still have enough power to pass through legislation and to establish new laws to make it so that they never get caught again.",
@@ -4461,7 +4653,9 @@
       "related_nodes": [
         "N-10270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:55:40",
       "investigative_direction": "Ask the host for the historical basis for the France-Delaware assertion.",
       "transcript_snippet": "in Delaware, a place where I'm pretty sure France has been running the game since the Revolutionary War",
@@ -4480,7 +4674,9 @@
         "N-11113",
         "N-10270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:56:20",
       "investigative_direction": "Read the French judgment's reasoning on whether truth of the statements was considered.",
       "transcript_snippet": "But this is not defamation. She's not making the argument that these things are untrue.",
@@ -4497,7 +4693,9 @@
       "claim": "The host says she reached out to Baron Coleman and that they will make a conversation happen, likely on a Friday, though she does not know when.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:01:00",
       "investigative_direction": "Check whether a Coleman conversation is later published and its date.",
       "transcript_snippet": "Yeah, I reached out to him and we are going to make that happen. When? I don't know.",
@@ -4514,7 +4712,9 @@
       "claim": "The host says that instead of an episode on Friday she will hold a two-hour book club finishing the book Sigman Freud and the Jewish mystical tradition.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:01:30",
       "investigative_direction": "Confirm the Friday book club date and its length from the host's channel.",
       "transcript_snippet": "So instead, we will be doing our book club on Friday for 2 hours as we finish the book Sigman Freud and the Jewish mystical tradition.",
@@ -4535,7 +4735,9 @@
       "related_nodes": [
         "N-11114"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:04:15",
       "investigative_direction": "Search federal contract databases (SAM.gov, USASpending) for AZ Tech and E3 Tech and their Fort Huachuca testing work.",
       "transcript_snippet": "Looking into Erika's mom's company, AZ Tech and E3 Tech, having contracts with the DoD for EMP hardening and the testing that is done at Fort Wuka.",
@@ -4555,7 +4757,9 @@
       "related_nodes": [
         "N-11114"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:04:35",
       "investigative_direction": "Locate the interview in which Erika Kirk says this and confirm the wording.",
       "transcript_snippet": "She's like on camera saying that she moved to Arizona because her mother got defense contracts.",

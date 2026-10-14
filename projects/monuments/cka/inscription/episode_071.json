@@ -30,7 +30,7 @@
             "C-2326"
           ],
           "related_nodes": [
-            "N-567"
+            "N-566"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -58,7 +58,7 @@
             "C-2329"
           ],
           "related_nodes": [
-            "N-567"
+            "N-566"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -215,7 +215,7 @@
             "C-2336"
           ],
           "related_nodes": [
-            "N-564",
+            "N-563",
             "N-10497"
           ],
           "tags": [],
@@ -234,7 +234,7 @@
             "C-2337"
           ],
           "related_nodes": [
-            "N-564",
+            "N-563",
             "N-10497"
           ],
           "tags": [],
@@ -262,7 +262,7 @@
             "C-2339"
           ],
           "related_nodes": [
-            "N-564",
+            "N-563",
             "N-10497"
           ],
           "tags": [],
@@ -290,8 +290,8 @@
             "C-2341"
           ],
           "related_nodes": [
-            "N-557",
-            "N-565",
+            "N-556",
+            "N-564",
             "N-10498"
           ],
           "tags": [],
@@ -321,7 +321,7 @@
             "C-2345"
           ],
           "related_nodes": [
-            "N-566",
+            "N-565",
             "N-10500"
           ],
           "tags": [],
@@ -340,7 +340,7 @@
             "C-2346"
           ],
           "related_nodes": [
-            "N-566"
+            "N-565"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -407,8 +407,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-557",
-      "ref": "N-557",
+      "@id": "N-556",
+      "ref": "N-556",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
@@ -425,16 +425,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
+        "N-563",
         "N-564",
-        "N-565",
         "N-10497",
         "N-10498"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-564",
-      "ref": "N-564",
+      "@id": "N-563",
+      "ref": "N-563",
       "name": "Thomas Martin (Tucson Border Patrol Director)",
       "type": "person",
       "description": "Director / Deputy Chief Patrol Agent with US Border Patrol / DHS in Tucson since at least 1985; potentially same person as Tracy Martin's husband.",
@@ -455,14 +455,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-557",
+        "N-556",
         "N-10497"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-565",
-      "ref": "N-565",
+      "@id": "N-564",
+      "ref": "N-564",
       "name": "Tracy Martin's Daughter (Unnamed)",
       "type": "person",
       "description": "Allegedly Erica Kirk's assistant; reportedly scheduled to attend UVU on September 10, 2025.",
@@ -479,15 +479,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-557",
+        "N-556",
         "N-2",
         "N-10498"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-566",
-      "ref": "N-566",
+      "@id": "N-565",
+      "ref": "N-565",
       "name": "Carrie Prejean Bowler",
       "type": "person",
       "description": "Questioner of Seth Dillon at the Religious Liberty Commission hearing on antisemitism; Catholic activist.",
@@ -505,8 +505,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-567",
-      "ref": "N-567",
+      "@id": "N-566",
+      "ref": "N-566",
       "name": "Brian Kilmeade",
       "type": "person",
       "description": "Interviewer of Andrew Kolvet on TPUSA halftime viewership.",
@@ -549,8 +549,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-557",
-        "N-564"
+        "N-556",
+        "N-563"
       ]
     },
     {
@@ -573,8 +573,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-557",
-        "N-565",
+        "N-556",
+        "N-564",
         "N-2"
       ]
     },
@@ -627,7 +627,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-566"
+        "N-565"
       ]
     },
     {
@@ -915,7 +915,7 @@
       "claim_timestamp": "00:20:59",
       "investigative_direction": "Attempt to retrieve LinkedIn snapshot via archive; cross-check against federal personnel directories.",
       "mentions_person_refs": [
-        "N-564"
+        "N-563"
       ]
     },
     {
@@ -934,7 +934,7 @@
       "claim_timestamp": "00:22:02",
       "investigative_direction": "Retrieve ZoomInfo archive; cross-check federal personnel records.",
       "mentions_person_refs": [
-        "N-564"
+        "N-563"
       ]
     },
     {
@@ -953,7 +953,7 @@
       "claim_timestamp": "00:22:02–00:24:12",
       "investigative_direction": "Obtain full text of the 1985 Times Union article and verify Thomas Martin's role and tenure.",
       "mentions_person_refs": [
-        "N-564"
+        "N-563"
       ]
     },
     {
@@ -972,7 +972,7 @@
       "claim_timestamp": "00:22:02–00:24:12",
       "investigative_direction": "Obtain full text and verify direct quote attribution.",
       "mentions_person_refs": [
-        "N-564"
+        "N-563"
       ]
     },
     {
@@ -992,8 +992,8 @@
       "investigative_direction": "Authenticate text messages; verify daughter's attendance plans through UVU records or eyewitnesses.",
       "mentions_person_refs": [
         "N-2",
-        "N-557",
-        "N-565"
+        "N-556",
+        "N-564"
       ]
     },
     {
@@ -1012,8 +1012,8 @@
       "claim_timestamp": "00:24:52",
       "investigative_direction": "Authenticate text messages; cross-reference with daughter's subsequent statements or activities.",
       "mentions_person_refs": [
-        "N-557",
-        "N-565"
+        "N-556",
+        "N-564"
       ]
     },
     {
@@ -1032,7 +1032,7 @@
       "claim_timestamp": "00:30:34–00:40:02",
       "investigative_direction": "Obtain official hearing transcript or recording.",
       "mentions_person_refs": [
-        "N-566",
+        "N-565",
         "N-38"
       ]
     },
@@ -1110,7 +1110,7 @@
       "claim_timestamp": "00:31:24–00:32:50",
       "investigative_direction": "Obtain full hearing transcript.",
       "mentions_person_refs": [
-        "N-566",
+        "N-565",
         "N-38"
       ]
     },

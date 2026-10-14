@@ -1169,8 +1169,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-863",
-      "ref": "N-863",
+      "@id": "N-862",
+      "ref": "N-862",
       "name": "Tony Burke",
       "type": "person",
       "description": "First named by the host at 00:03:43 in episode 027 as the Australian official she says banned her from the country.",
@@ -1620,8 +1620,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-616",
-      "ref": "N-616",
+      "@id": "N-615",
+      "ref": "N-615",
       "name": "Ian Miles Cheong",
       "type": "person",
       "description": "Ian Miles Cheong; named as a recipient of Cordova's clips, per host allegation.",
@@ -1843,8 +1843,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-864",
-      "ref": "N-864",
+      "@id": "N-863",
+      "ref": "N-863",
       "name": "Jimmy Dore",
       "type": "person",
       "description": "First named by the host at 01:04:09 in episode 027 as a commentator a viewer suggested she team up with.",
@@ -2280,7 +2280,9 @@
       "related_nodes": [
         "N-11228"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:01:19",
       "investigative_direction": "Compare Podscribe ranking data for the date with any ad-spend disclosures from the show.",
       "transcript_snippet": "which means we have not spent, since we started this podcast a year and a half ago, a single dollar on advertising, okay?",
@@ -2299,7 +2301,9 @@
       "claim": "The host says Ben Shapiro and Jeremy Boreing fired her, thanking them sarcastically for the firing and its publicity.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:02:10",
       "investigative_direction": "Review the 2024 separation announcements from the host and Daily Wire for the stated reason and date.",
       "transcript_snippet": "I thank Ben Shapiro. I thank Jeremy Boring. I thank the direction of travel, and they realizing it before I did, um that I should be fired.",
@@ -2317,7 +2321,9 @@
       "claim": "The host says there came a point when she no longer wanted to do the pro-Israel thing and did not follow the crowd, comparing herself to the Kanye West song Power.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:02:10",
       "investigative_direction": "Compare the host's pre-2024 statements on Israel with later ones to date the change.",
       "transcript_snippet": "I know the crowd is doing this, but I'm not doing it.\" And that was me when I no longer wanted to do the pro-Israel thing.",
@@ -2334,13 +2340,15 @@
       "claim": "The host says Australian minister Tony Burke banned her from the entire country, and at 01:01:57 says she can reapply in about a year.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:03:43",
       "investigative_direction": "Check the Australian Home Affairs visa decision and the stated reason and reapplication period.",
       "transcript_snippet": "Tony Burke, thank you for banning us from an entire country, even though I didn't do nothing.",
       "mentions_person_refs": [
         "N-3",
-        "N-863"
+        "N-862"
       ]
     },
     {
@@ -2353,7 +2361,9 @@
       "related_nodes": [
         "N-11228"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:04:22",
       "investigative_direction": "Compare with the staff the host later describes or lists in company filings.",
       "transcript_snippet": "There's just four of us, uh that work on the actual podcast every day.",
@@ -2374,7 +2384,9 @@
         "N-10006",
         "N-10233"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:17",
       "investigative_direction": "Obtain the Ole Miss event date, the Fox News Primetime broadcast date and any pooled footage.",
       "transcript_snippet": "also trailed her at the event that she did with J. D. Vance at the University of Mississippi.",
@@ -2393,7 +2405,9 @@
       "claim": "The host says Erika Kirk said on stage, quite quickly after the assassination, that she forgave him.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:26",
       "investigative_direction": "Pull the memorial-service video and transcript for the forgiveness statement and its timing.",
       "transcript_snippet": "she got up on stage, and she said that I forgive him pretty pretty instantly.",
@@ -2410,7 +2424,9 @@
       "claim": "The host says, after a correction from her director, that the memorial event was on the 21st, nine days after the assassination.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:07:26",
       "investigative_direction": "Confirm the memorial service date; the host's arithmetic of nine days does not match the 21st if the shooting was September 10, so check against the official date.",
       "transcript_snippet": "Nine days after he was assassinated. Oh, sorry, the 21st. Mansplained in my ear.",
@@ -2430,7 +2446,9 @@
       "related_nodes": [
         "N-10337"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:23",
       "investigative_direction": "Compare with the prosecution's evidence base and any filings naming co-participants.",
       "transcript_snippet": "I don't believe that he was the lone person involved. I don't even think this person that killed Charlie Kirk.",
@@ -2448,7 +2466,9 @@
       "claim": "The host says she cannot forgive Tyler Robinson because she does not know what she would be forgiving until she knows what happened.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:10",
       "investigative_direction": "Opinion framing; track whether the host later states what she believes happened.",
       "transcript_snippet": "it's because I cannot forgive until I know what happened. I don't know what I'm forgiving actually until I know what happened.",
@@ -2467,7 +2487,9 @@
       "related_nodes": [
         "N-10229"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:00",
       "investigative_direction": "Check whether the Utah autopsy record has been released or sealed.",
       "transcript_snippet": "Obviously, we have none of us have seen the autopsy report.",
@@ -2489,7 +2511,9 @@
       "related_nodes": [
         "N-10055"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:46",
       "investigative_direction": "Find Bowyer's original statement and ask TPUSA what 4K footage exists and who holds it.",
       "transcript_snippet": "Tyler Bowyer said, we have footage in 4K all of the stuff when he was tweeting.",
@@ -2509,7 +2533,9 @@
         "N-10012",
         "N-10175"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:46",
       "investigative_direction": "Identify who made the claim and obtain the UVU camera inventory and retention records.",
       "transcript_snippet": "not the university, but somebody else was was saying that you know, at every angle, every area of the university is covered.",
@@ -2527,7 +2553,9 @@
       "related_nodes": [
         "N-10055"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:46",
       "investigative_direction": "Find the official statements giving the reason and the timing of any footage releases during the manhunt.",
       "transcript_snippet": "Their excuse for not showing the public was they didn't want it to in any way impact the case.",
@@ -2546,7 +2574,9 @@
         "N-10104",
         "N-10164"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:02",
       "investigative_direction": "Check the tribute video and the influencers' responses against what was said.",
       "transcript_snippet": "we were all hoping that he was going to take the step and become Catholic. Gave no details",
@@ -2566,7 +2596,9 @@
         "N-10104",
         "N-10164"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:02",
       "investigative_direction": "Ask Charlie's priests and Church records whether he was baptized or received into the Church.",
       "transcript_snippet": "Like I said from the beginning, he didn't convert to Catholicism.",
@@ -2587,7 +2619,9 @@
       "related_nodes": [
         "N-10006"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:10",
       "investigative_direction": "Compare with Erika's public posting and contact record in the weeks after September 10.",
       "transcript_snippet": "my phone died. It became a black hole. I just didn't turn it on for weeks on end.",
@@ -2605,7 +2639,9 @@
       "related_nodes": [
         "N-10319"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:31",
       "investigative_direction": "Obtain the ballistics report, caliber finding and wound description from the official record.",
       "transcript_snippet": "Number one being that he was shot by a.30-06 and stopped the bullet when in a normal circumstance it would have decapitated him.",
@@ -2625,7 +2661,9 @@
         "N-11104",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:44",
       "investigative_direction": "Find the Liberty University convocation schedule and any TPUSA announcement of McCoy as replacement.",
       "transcript_snippet": "Mikey's going to take over for Charlie at his Liberty convocate or Liberty event that he has which is is going to be sold out",
@@ -2643,7 +2681,9 @@
       "claim": "The host says she went away for two weeks to collect her thoughts about the trauma of having watched the shooting and took the show off the air for a couple of days.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:22:40",
       "investigative_direction": "Compare with the show's publishing record in September 2025.",
       "transcript_snippet": "I had to go away for 2 weeks to collect my thoughts about the trauma that I saw having watched it.",
@@ -2661,7 +2701,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:14",
       "investigative_direction": "Allegation stated without evidence on air; ask the host what documents support it.",
       "transcript_snippet": "Tyler Bowyer is a sexual deviant, right?",
@@ -2680,7 +2722,9 @@
       "related_nodes": [
         "N-11098"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:54",
       "investigative_direction": "Identify the WSJ piece and Clark's statements about Catholicism that the host calls untrue.",
       "transcript_snippet": "Alex Clark wanted to do the Wall Street Journal thing until I caught like this little lie",
@@ -2701,7 +2745,9 @@
       "related_nodes": [
         "N-10232"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:01",
       "investigative_direction": "Retrieve the original post thread with timestamps.",
       "transcript_snippet": "I then respond and I'm like, \"Here's a clear image of this person, the actual person wearing the green hoodie.\"",
@@ -2721,7 +2767,9 @@
       "related_nodes": [
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:01",
       "investigative_direction": "Check the UVU athletics roster for Sessions.",
       "transcript_snippet": "I think he's on the soccer team at UVU.",
@@ -2740,7 +2788,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:41",
       "investigative_direction": "Collect dated interviews and posts from TPUSA staff on September 11-12.",
       "transcript_snippet": "they were like back on their feet the next day and giddy and sharing memories and talking about what happened on that day in detail.",
@@ -2759,7 +2809,9 @@
         "N-10230",
         "N-10164"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:15",
       "investigative_direction": "Ask the priests and parishes involved for attendance records; examine the pendant in evidence inventory.",
       "transcript_snippet": "he was going to mass sometimes daily. He was going on Sundays. Uh he died with the pendant.",
@@ -2780,7 +2832,9 @@
       "claim": "The host says Matt Walsh recently said he views it as a form of disloyalty to go on your platform about someone you could ask directly.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:30:15",
       "investigative_direction": "Find Walsh's statement.",
       "transcript_snippet": "This is one of the things that Matt Walsh recently said that he views it as such a form of disloyalty",
@@ -2800,7 +2854,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:32:15",
       "investigative_direction": "Compare TPUSA tour rosters 2018-2024 for headliner counts.",
       "transcript_snippet": "I headlined more tour Turning Point USA um uh campus tours than Candace Owens.",
@@ -2820,7 +2876,9 @@
         "N-10228",
         "N-10224"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:15",
       "investigative_direction": "Obtain TPUSA event-booking lead times for past semesters; the host offers semester-by-semester emails.",
       "transcript_snippet": "these events are booked the semester before, okay? There's a long waiting list.",
@@ -2838,7 +2896,9 @@
       "claim": "The host says that when she and Charlie spoke at Stanford, the student organizer, whose family name was on a Stanford building, still had a hard time putting the event together.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:06",
       "investigative_direction": "Identify the Stanford event, date and organizer.",
       "transcript_snippet": "the girl who put the student who put the event together, her grandfather owned one of the buildings at Stanford.",
@@ -2859,7 +2919,9 @@
         "N-10224",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:06",
       "investigative_direction": "Obtain the UVU request email, its dates, and TPUSA's calendar entry date.",
       "transcript_snippet": "it's never happened that a college makes a request over the summer when school is closed",
@@ -2883,7 +2945,9 @@
       "related_nodes": [
         "N-10228"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:13",
       "investigative_direction": "Obtain the full screenshot with date and sender; confirm the Auburn and South Alabama event dates.",
       "transcript_snippet": "November 3rd at 6:30 p. m. Either Auburn, which has 5,000 seats, or the University of Southern Alabama.",
@@ -2906,7 +2970,9 @@
       "related_nodes": [
         "N-10228"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:03",
       "investigative_direction": "Ask the Auburn and South Alabama TPUSA chapters when they submitted requests.",
       "transcript_snippet": "They did not start planning that event when Charlie texted you. I can guarantee you that, okay?",
@@ -2926,7 +2992,9 @@
       "related_nodes": [
         "N-10228"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:03",
       "investigative_direction": "Check the TPUSA fall 2025 tour listing for the two Alabama events.",
       "transcript_snippet": "I will guarantee you, and I checked, they did both of these this semester.",
@@ -2945,7 +3013,9 @@
       "related_nodes": [
         "N-11229"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:56",
       "investigative_direction": "Confirm the Yale Political Union's founding date and Rose's debate date.",
       "transcript_snippet": "So, that Yale event that Lila Rose spoke at was with the Yale Political Union. So, it is It's existed since 1934.",
@@ -2966,7 +3036,9 @@
       "related_nodes": [
         "N-11229"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:56",
       "investigative_direction": "Obtain attendance from the Yale Political Union.",
       "transcript_snippet": "she's comparing this 70 people that attended this debate to Turning Point USA hosting a debate with thousands of people",
@@ -2985,7 +3057,9 @@
       "related_nodes": [
         "N-10228"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:44",
       "investigative_direction": "Await the promised semester-by-semester documentation.",
       "transcript_snippet": "I can do every semester from 2018 until 2024.",
@@ -3005,7 +3079,9 @@
         "N-10224",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:28",
       "investigative_direction": "Identify who at TPUSA or UVU approved the event and when.",
       "transcript_snippet": "would like to know who that somebody was that made that event come together very quickly",
@@ -3023,7 +3099,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:41:28",
       "investigative_direction": "Find news coverage of the Knowles effigy incident.",
       "transcript_snippet": "They will burn you an effigy as they did uh to Michael Knowles at a Turning Point USA event.",
@@ -3043,7 +3121,9 @@
         "N-10013",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:32",
       "investigative_direction": "Find the Stuckey clip and confirm her wording.",
       "transcript_snippet": "Well, even if these are written by the Feds, I still think he was murdered by Tyler Robinson.",
@@ -3061,7 +3141,9 @@
       "claim": "The host says Allie Beth Stuckey has hired Alyssa Cordova, who was formerly the head PR person at the Daily Wire.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:44:35",
       "investigative_direction": "Confirm Cordova's current role with Stuckey and her Daily Wire title.",
       "transcript_snippet": "Alyssa Cordova was formerly the PR person, head PR person at Daily Wire.",
@@ -3079,14 +3161,16 @@
       "claim": "The host alleges Alyssa Cordova keeps out-of-context clips and sends them to online accounts such as Ian Miles Cheong with a call to attack the target.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:44:35",
       "investigative_direction": "Allegation only; ask the host for the messages or sources behind it.",
       "transcript_snippet": "she intentionally has out of context clips, which she then sends to people um a whole little orbit of bees online like Ian Miles Chong",
       "mentions_person_refs": [
         "N-3",
         "N-234",
-        "N-616"
+        "N-615"
       ]
     },
     {
@@ -3099,7 +3183,9 @@
       "related_nodes": [
         "N-11098"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:46:06",
       "investigative_direction": "Obtain the WSJ article, photo date and Clark's podcast launch date.",
       "transcript_snippet": "she wasn't traumatized when she like wore boots and stood outside for Wall Street Journal to click a picture of her a couple days after Charlie died.",
@@ -3118,7 +3204,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:00",
       "investigative_direction": "Identify the father's and TPUSA people's statements, with dates.",
       "transcript_snippet": "And we heard these things from his father. We heard these things from people at Turning Point USA.",
@@ -3138,7 +3226,9 @@
       "related_nodes": [
         "N-11104"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:02",
       "investigative_direction": "Confirm via Liberty University's convocation schedule and event coverage.",
       "transcript_snippet": "he took over for Charlie who was slated to speak at Liberty University. Okay, that's just a fact.",
@@ -3159,7 +3249,9 @@
         "N-10000",
         "N-11014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:02",
       "investigative_direction": "Find TPUSA financial disclosures or reporting on post-assassination donations and sales.",
       "transcript_snippet": "I think uh first heard it was 70 million.",
@@ -3178,7 +3270,9 @@
         "N-10000",
         "N-11014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:47",
       "investigative_direction": "Find photos or reporting of merchandise sales at the State Farm Stadium memorial.",
       "transcript_snippet": "They were selling like T-shirts at the memorial event, like freedom Charlie T-shirts.",
@@ -3197,7 +3291,9 @@
       "related_nodes": [
         "N-11230"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:47",
       "investigative_direction": "Check the tribute episode's monetization status in YouTube Studio.",
       "transcript_snippet": "on our tribute episode, we ran absolutely zero ads. We didn't even let YouTube run ads on that episode.",
@@ -3215,7 +3311,9 @@
       "related_nodes": [
         "N-11230"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:47",
       "investigative_direction": "Review Clark's later episodes for make-good ad reads and her statements about them.",
       "transcript_snippet": "You postponed having to read ads and said that you made them up later.",
@@ -3237,7 +3335,9 @@
       "related_nodes": [
         "N-10104"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:50:20",
       "investigative_direction": "Compare Clark's podcast statements about the host's Catholic claims with the record.",
       "transcript_snippet": "She's mad because she lied about me on her podcast and I called it out.",
@@ -3257,7 +3357,9 @@
         "N-10132",
         "N-11171"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:20",
       "investigative_direction": "Find Clark's original statement and any pre-2025 TPUSA financial-audit unit.",
       "transcript_snippet": "No, you don't do a Dodge every year. You want to know how I know that? Because Dodge didn't exist before Elon Musk.",
@@ -3278,7 +3380,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:20",
       "investigative_direction": "Review earlier episodes for the host's exact words about McCoy.",
       "transcript_snippet": "Yes, I did say that. I didn't say that Mikey murdered Charlie Kirk.",
@@ -3303,7 +3407,9 @@
         "N-10209",
         "N-10104"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:51:26",
       "investigative_direction": "Seek donor communications about Charlie's Catholic interest; the host frames the preceding clause sarcastically.",
       "transcript_snippet": "It was because likely um you guys were more concerned with your Christian Zionist donors and also pressure from your Jewish donors.",
@@ -3330,7 +3436,9 @@
         "N-10012",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:54:40",
       "investigative_direction": "Follow up on any tips received about the UVU event request.",
       "transcript_snippet": "please email us at moretips@candaceowens. com and let us know how that event came together, who requested it specifically.",
@@ -3349,7 +3457,9 @@
         "N-10253",
         "N-10228"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:54:40",
       "investigative_direction": "Pattern claim; compare TPUSA's responses across the episodes.",
       "transcript_snippet": "When they overreact, it's cuz we hit a nerve.",
@@ -3367,7 +3477,9 @@
       "related_nodes": [
         "N-10432"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:55:59",
       "investigative_direction": "Allegation only; ask the host for the sources behind it.",
       "transcript_snippet": "She can treat you really evil, but there's an NDA preventing you, so she got to allow her to abuse you.",
@@ -3384,7 +3496,9 @@
       "claim": "The host says that after watching her Brigitte Macron series people will know she is a man, and that the media has lied about it.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:56:47",
       "investigative_direction": "Fringe assertion recorded as said; see the Macron defamation filings for the factual record.",
       "transcript_snippet": "You're like, she's a dude, obviously.",
@@ -3403,7 +3517,9 @@
       "related_nodes": [
         "N-10229"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:59:00",
       "investigative_direction": "Check the Utah victim-rights statute on access to evidence for next of kin.",
       "transcript_snippet": "She can see what evidence they actually have and what they're building their case upon.",
@@ -3427,7 +3543,9 @@
       "related_nodes": [
         "N-10235"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:59:56",
       "investigative_direction": "Check Charlie's and the host's 2018 travel against the Jerusalem embassy opening.",
       "transcript_snippet": "I think I was with Charlie by the way. That might have been for the embassy opening.",
@@ -3448,7 +3566,9 @@
         "N-10234",
         "N-10687"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:00:34",
       "investigative_direction": "Find the stage remarks by Turek and compare with accounts of Charlie's care.",
       "transcript_snippet": "Frank Turek said it on stage that he knew in the car that he was gone.",
@@ -3468,7 +3588,9 @@
       "related_nodes": [
         "N-10234"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:00:34",
       "investigative_direction": "Obtain hospital and EMS records on pulse, time of death and any surgery.",
       "transcript_snippet": "Because they explained that he had died instantly. It wasn't just Erika by the way.",
@@ -3486,7 +3608,9 @@
       "claim": "The host says she texts Ian Carroll and Dave Smith regularly to share information and ask for guidance, but has not done so with Jimmy Dore.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:04:09",
       "investigative_direction": "Context on the host's network; no confirmation needed.",
       "transcript_snippet": "Ian Carroll we text regularly. Dave Smith we text regularly when we're sharing information.",
@@ -3494,7 +3618,7 @@
         "N-3",
         "N-384",
         "N-39",
-        "N-864"
+        "N-863"
       ]
     },
     {
@@ -3507,7 +3631,9 @@
       "related_nodes": [
         "N-11228"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:06:06",
       "investigative_direction": "No verification needed beyond the host's account.",
       "transcript_snippet": "We can't offer you cannot offer you health insurance in the first year.",

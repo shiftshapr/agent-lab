@@ -937,8 +937,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-518",
-      "ref": "N-518",
+      "@id": "N-517",
+      "ref": "N-517",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "Officer Bagley; the host sarcastically references his body-cam footage and the screwdriver.",
@@ -1557,7 +1557,9 @@
       "related_nodes": [
         "N-10110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Locate the original interview in which Erika Kirk was asked this question and confirm date and outlet.",
       "transcript_snippet": "Do you believe that Tyler Robinson murdered your husband? >> Yes, I do.",
@@ -1576,7 +1578,9 @@
       "related_nodes": [
         "N-10110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Compare the host's private interview with Erika to the evidence presented at the preliminary hearing.",
       "transcript_snippet": "After I sat down with her, there was no evidence which indicated that.",
@@ -1598,7 +1602,9 @@
       "related_nodes": [
         "N-10769"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Obtain the released video and its provenance; compare with the preliminary hearing exhibits.",
       "transcript_snippet": "Internet, I can say definitively, especially after the exclusive video that we released yesterday, has a lot of questions.",
@@ -1618,7 +1624,9 @@
       "related_nodes": [
         "N-10761"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:56",
       "investigative_direction": "Pull the filed memorandum from the court docket and identify which party filed it and when.",
       "transcript_snippet": "I'm sorry, Tyler's defense filed the memorandum. They highlighted some injuries that Charlie had in his autopsy.",
@@ -1637,7 +1645,9 @@
       "related_nodes": [
         "N-11065"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:44",
       "investigative_direction": "Identify which influencers attended the preliminary hearing and who invited them; compare their public accounts with the exhibits.",
       "transcript_snippet": "but they're bringing literal influencers to court and lying.",
@@ -1655,7 +1665,9 @@
       "related_nodes": [
         "N-11065"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:44",
       "investigative_direction": "Find who coordinated influencer attendance at the hearing and any instructions given to them.",
       "transcript_snippet": "bringing influencers into a courtroom and then instructing those influencers to put on these bizarre over-the-top dramatic performances",
@@ -1676,7 +1688,9 @@
         "N-10172",
         "N-10769"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:39",
       "investigative_direction": "Compare the rooftop footage frame by frame with the position, angle and timing of the fatal shot.",
       "transcript_snippet": "Effectively, we were saying this person was a decoy and never fired a shot.",
@@ -1696,7 +1710,9 @@
       "related_nodes": [
         "N-10769"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:33",
       "investigative_direction": "Have a ballistics expert assess whether muzzle blast would disturb roof gravel at that position and distance.",
       "transcript_snippet": "You would have seen the gravel kick up if he had shot a.30-06.",
@@ -1714,7 +1730,9 @@
       "related_nodes": [
         "N-10769"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:33",
       "investigative_direction": "Interview the person who recorded the rooftop video and review the raw file for any weapon.",
       "transcript_snippet": "Even our source, the person who recorded, in that recording, he doesn't say or show a gun.",
@@ -1734,7 +1752,9 @@
       "related_nodes": [
         "N-10769"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:40",
       "investigative_direction": "Check the docket for the defense motion seeking to limit public release of the rooftop exhibit.",
       "transcript_snippet": "it is the defense that demanded that it be kept from the public on the grounds that it would prejudice Tyler.",
@@ -1756,7 +1776,9 @@
       "related_nodes": [
         "N-10762"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:30",
       "investigative_direction": "Ask the prosecution and court whether a second rooftop angle exists in the exhibit list.",
       "transcript_snippet": "I've never heard anybody make the claim that there's another angle of a video where we can see him pull the rifle out of his pants.",
@@ -1780,7 +1802,9 @@
       "related_nodes": [
         "N-10769"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:30",
       "investigative_direction": "Measure resolvable detail in the rooftop clip at the camera-to-subject distance.",
       "transcript_snippet": "The individual does not look like Tyler Robinson because they literally don't look like anyone at that distance.",
@@ -1801,7 +1825,9 @@
       "related_nodes": [
         "N-10110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:30",
       "investigative_direction": "Obtain the campus footage exhibits and any statement from Tyler Robinson's parents about identification.",
       "transcript_snippet": "We have close-up footage of the person who looks enough like Tyler that his own parents identified him as such.",
@@ -1820,7 +1846,9 @@
       "related_nodes": [
         "N-10110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:30",
       "investigative_direction": "Check charging documents and hearing testimony for any parental identification from footage.",
       "transcript_snippet": "There's zero proof his parents said that.",
@@ -1845,7 +1873,9 @@
       "related_nodes": [
         "N-10343"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:19",
       "investigative_direction": "Review the car-arrival footage exhibit and any plate or vehicle-match analysis.",
       "transcript_snippet": "the footage that also captured a match of Tyler's car arriving on campus, those plates were blurry. The car was blurry.",
@@ -1867,7 +1897,9 @@
       "related_nodes": [
         "N-10761"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:19",
       "investigative_direction": "Compare the autopsy's wound trajectory description with the rooftop and Charlie's seat positions.",
       "transcript_snippet": "we know a gun was fired from the spot because a bullet coming from that direction was what killed Charlie, as confirmed in the medical examiner's report.",
@@ -1888,7 +1920,9 @@
       "related_nodes": [
         "N-10769"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:19",
       "investigative_direction": "Consult a firearms expert on visible recoil of a rifle fired prone from a rooftop.",
       "transcript_snippet": "Recoil from a prone firing position can easily be minimal",
@@ -1908,7 +1942,9 @@
       "related_nodes": [
         "N-10762"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:19",
       "investigative_direction": "Identify the show and speakers, and obtain the court exhibit list to see whether a second angle was admitted.",
       "transcript_snippet": "I did check with people inside the courtroom that day, and they're um they're saying that this clip that was shown",
@@ -1929,7 +1965,9 @@
       "related_nodes": [
         "N-11065"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:19",
       "investigative_direction": "Collect the influencers' original posts describing the footage as 4K and identifying Tyler.",
       "transcript_snippet": "we platformed them as they said that it was in 4K and it was Tyler Robinson",
@@ -1948,7 +1986,9 @@
       "related_nodes": [
         "N-10201"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:48",
       "investigative_direction": "Collect early TPUSA and family statements and posts about Charlie's body, transport and viewing.",
       "transcript_snippet": "they were initially very open about Charlie's body.",
@@ -1967,7 +2007,9 @@
       "related_nodes": [
         "N-10201"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:48",
       "investigative_direction": "Ask Elizabeth McCoy or Erika's team who filmed the casket video, and check the metadata of the posted clip.",
       "transcript_snippet": "I've actually been told that it was allegedly Elizabeth McCoy that was recording Erika in Charlie's open casket in Utah.",
@@ -1988,7 +2030,9 @@
       "related_nodes": [
         "N-10201"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:48",
       "investigative_direction": "Check the casket video's capture time and location against the Sept 10 to 12 travel records.",
       "transcript_snippet": "in Charlie's open casket in Utah. That's September 11th, midday-ish.",
@@ -2009,7 +2053,9 @@
       "related_nodes": [
         "N-10201"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:41",
       "investigative_direction": "Compare the post date with the capture date and where the casket was on each day.",
       "transcript_snippet": "Erika moves to post the footage that Elizabeth actually captured the day before in Utah.",
@@ -2031,7 +2077,9 @@
       "related_nodes": [
         "N-10323"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:41",
       "investigative_direction": "Confirm the date, church and officiant of the funeral mass from parish and TPUSA announcements.",
       "transcript_snippet": "He is now having a Catholic funeral mass that is held at a Catholic church that Charlie regularly attends.",
@@ -2049,7 +2097,9 @@
       "related_nodes": [
         "N-10323"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:38",
       "investigative_direction": "Obtain parish schedule and accounts from parishioners who saw the hearse.",
       "transcript_snippet": "obviously was not open to the public, but it was not hidden from the public",
@@ -2068,7 +2118,9 @@
         "N-10104",
         "N-10350"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:38",
       "investigative_direction": "Collect the host's original statement on Charlie's conversion and the coordinated responses that followed.",
       "transcript_snippet": "there was an entire mockingbird campaign which was launched to attack me after I publicly um asserted that there were rumblings that Charlie was close to converting",
@@ -2088,7 +2140,9 @@
         "N-10164",
         "N-10350"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:27",
       "investigative_direction": "Look for messages or witnesses to the host's conversations with Charlie about Catholicism.",
       "transcript_snippet": "It was a conversation that was happening even between me and Charlie.",
@@ -2107,7 +2161,9 @@
       "related_nodes": [
         "N-10104"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:27",
       "investigative_direction": "Compile TPUSA's early statements on Charlie's faith and their timing.",
       "transcript_snippet": "It was something that was a high priority in the immediate aftermath of Charlie's assassination for Turning Point to come out and to clarify.",
@@ -2128,7 +2184,9 @@
       "related_nodes": [
         "N-10350"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:27",
       "investigative_direction": "Obtain the full Alex Clark interview.",
       "transcript_snippet": "No. But he really loved Catholic mass. He loved the ritual of it.",
@@ -2153,7 +2211,9 @@
       "related_nodes": [
         "N-10104"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:22",
       "investigative_direction": "Obtain the unedited recording and Kolvet's and Erika's messages during the taping.",
       "transcript_snippet": "Andrew was texting with Erika throughout this recording to ensure that he was okay with what she was what he was saying and what he was sharing.",
@@ -2175,7 +2235,9 @@
       "related_nodes": [
         "N-10323"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:22",
       "investigative_direction": "Establish the recording date of the Alex Clark episode against the Sept 20 funeral mass.",
       "transcript_snippet": "it was a pre-record which took place before Charlie's Catholic funeral mass. A day later, after saying this, you move to have a Catholic funeral mass.",
@@ -2196,7 +2258,9 @@
       "related_nodes": [
         "N-10760"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:09",
       "investigative_direction": "Identify what in the tip has been independently verified and by whom.",
       "transcript_snippet": "We received a tip. And this tip has checked out in a major way.",
@@ -2217,7 +2281,9 @@
         "N-10760",
         "N-10763"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:09",
       "investigative_direction": "Ask Hansen Mortuary whether it was asked to host or arrange a mock burial; obtain the text messages the host says she read.",
       "transcript_snippet": "the person alleged with proof that I deem to be credible, um that the reason that Charlie was brought to Hansen and was ultimately moved was because the company refused to take part in a",
@@ -2238,7 +2304,9 @@
       "related_nodes": [
         "N-10760"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:19",
       "investigative_direction": "Obtain or have an independent party review the text messages the host describes.",
       "transcript_snippet": "it's because I read through text messages uh that were sent to this effect from the people that would have knowledge of this.",
@@ -2259,7 +2327,9 @@
         "N-10760",
         "N-10763"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:19",
       "investigative_direction": "Identify which funeral homes or churches TPUSA contacted and what was requested.",
       "transcript_snippet": "So, I am told that Hansen declined to participate in a mock burial. So, Turning Point USA then had to shop around.",
@@ -2278,7 +2348,9 @@
         "N-10323",
         "N-10233"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:19",
       "investigative_direction": "Identify the priest and the arrangements made between the family and the parish.",
       "transcript_snippet": "they landed upon the Catholic Church because of Erika's very strong ties to the priest.",
@@ -2296,7 +2368,9 @@
       "related_nodes": [
         "N-10233"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:21",
       "investigative_direction": "Check flight and travel records for the priest and for Erika's family members on Sept 10 to 11.",
       "transcript_snippet": "rather than flying her family members out there, she coordinated to bring the priest.",
@@ -2314,7 +2388,9 @@
       "related_nodes": [
         "N-10233"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:06",
       "investigative_direction": "Review event footage and credential lists for the priest at Ole Miss.",
       "transcript_snippet": "There was that Turning Point event in October, which featured the vice president at Ole Miss on October 29th. Uh the priest was with her.",
@@ -2335,7 +2411,9 @@
       "related_nodes": [
         "N-10323"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:06",
       "investigative_direction": "Interview attendees of the funeral mass about the casket's condition.",
       "transcript_snippet": "On the day of that Catholic funeral mass, Charlie's casket was closed. It's a fact.",
@@ -2355,7 +2433,9 @@
         "N-10759",
         "N-10323"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:17",
       "investigative_direction": "Identify the cemetery and attendees and obtain interment permits.",
       "transcript_snippet": "Afterward, it was in fact taken to a Catholic cemetery and close friends and family and high net worth donors gathered around that casket one last time.",
@@ -2374,7 +2454,9 @@
         "N-10759",
         "N-10751"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:17",
       "investigative_direction": "Request cemetery plot, grave opening and interment records.",
       "transcript_snippet": "They did not see Charlie lowered into a ground. There was no grave that was dug out.",
@@ -2394,7 +2476,9 @@
         "N-10759",
         "N-10751"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:17",
       "investigative_direction": "Interview attendees about what they were told at the cemetery and who told them.",
       "transcript_snippet": "Rather, they were told, \"You leave and we'll handle the rest.\"",
@@ -2416,7 +2500,9 @@
         "N-10759",
         "N-10751"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:17",
       "investigative_direction": "Ask funeral attendees whether any witnessed interment.",
       "transcript_snippet": "No one who attended Charlie's actual funeral on that day can make a counter claim that they saw him buried.",
@@ -2435,7 +2521,9 @@
       "related_nodes": [
         "N-10760"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:34",
       "investigative_direction": "Identify the friend and the cemetery or church role in the ceremony.",
       "transcript_snippet": "I am led to believe that it was indeed a mock burial done as a favor by a friend.",
@@ -2455,7 +2543,9 @@
         "N-10759",
         "N-10751"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:34",
       "investigative_direction": "Seek cremation authorization or death certificate disposition fields.",
       "transcript_snippet": "I am led to believe that he was either before or after cremated.",
@@ -2475,7 +2565,9 @@
         "N-10760",
         "N-10323"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:34",
       "investigative_direction": "Compare the family's stated reasons for the Catholic mass with the parish record.",
       "transcript_snippet": "that is the reason that I believe Erika chose to do a Catholic funeral mass",
@@ -2494,7 +2586,9 @@
       "related_nodes": [
         "N-10201"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:34",
       "investigative_direction": "Check public records on those burials and any TPUSA statement of its reason for privacy.",
       "transcript_snippet": "Go look up anybody recently who has died. You can find where they've been buried.",
@@ -2510,7 +2604,9 @@
       "claim": "The host says she knows too much right now and her team is working out when to present certain things.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:30",
       "investigative_direction": "Track which later episodes release the material she says is being held back.",
       "transcript_snippet": "I know too much right now and we're trying to figure out, obviously as always, when to present certain things",
@@ -2528,7 +2624,9 @@
       "related_nodes": [
         "N-11143"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:31",
       "investigative_direction": "Review the exhibit list and item logs for any screwdriver recovered from the roof.",
       "transcript_snippet": "With a screwdriver, what are you talking about? Where is that in the evidence? Doesn't exist.",
@@ -2548,12 +2646,14 @@
         "N-10725",
         "N-11143"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:31",
       "investigative_direction": "Obtain Bagley's body-cam records and activation logs for that day.",
       "transcript_snippet": "Officer Bagley, oh just it just it went off. I don't know. I don't know what happened to my body cam footage",
       "mentions_person_refs": [
-        "N-518",
+        "N-517",
         "N-162"
       ]
     },
@@ -2565,7 +2665,9 @@
       "claim": "The host says the show has run late because her team is debating when to drop things, since TPUSA is making mistakes now and has to be allowed to keep making them.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:31",
       "investigative_direction": "Observe later episodes for the material she says is being timed.",
       "transcript_snippet": "we have been running late because we're debating of when to drop things, but they're making the mistakes right now and we have to allow them to continue to make these mistakes.",
@@ -2585,7 +2687,9 @@
       "related_nodes": [
         "N-10761"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:31",
       "investigative_direction": "Check the docket to confirm the filing party and date.",
       "transcript_snippet": "It was in fact my producer corrected the prosecution that filed the memorandum.",
@@ -2611,7 +2715,9 @@
         "N-10341",
         "N-10761"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:25",
       "investigative_direction": "Find Kolvet's earlier description and compare to the autopsy trajectory.",
       "transcript_snippet": "he told us it went in this way just to make this make sense, hit the back, and then went down his vertebrae, right?",
@@ -2632,7 +2738,9 @@
       "related_nodes": [
         "N-10761"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:21",
       "investigative_direction": "Ask an independent forensic pathologist whether post-mortem hemorrhage of this kind can occur.",
       "transcript_snippet": "You can do a cursory search and determine that your heart and lungs can't hemorrhage if there is no heartbeat.",
@@ -2654,7 +2762,9 @@
       "related_nodes": [
         "N-10687"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:21",
       "investigative_direction": "Obtain Turek's original statement and the CPR timeline.",
       "transcript_snippet": "we have Frank Turek who tells us he realized in those critical minutes that Charlie had did not have a pulse.",
@@ -2673,7 +2783,9 @@
       "related_nodes": [
         "N-10761"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:25",
       "investigative_direction": "Locate Erika's statement and compare it with medical and EMS timelines.",
       "transcript_snippet": "also heard from Erika that, you know, he died instantly.",
@@ -2692,7 +2804,9 @@
       "related_nodes": [
         "N-10761"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:25",
       "investigative_direction": "Review the hospital records and treatment timeline.",
       "transcript_snippet": "But then we've also heard a scenario where they get his heart back going again at the hospital",
@@ -2711,7 +2825,9 @@
         "N-10768",
         "N-10761"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:25",
       "investigative_direction": "Examine the microphone, shirt and chest injuries for blast or impact evidence.",
       "transcript_snippet": "I am a person who does believe that the microphone exploded on him.",
@@ -2731,7 +2847,9 @@
         "N-10761",
         "N-10768"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:25",
       "investigative_direction": "Review autopsy photographs and external examination notes.",
       "transcript_snippet": "it would be interesting to know if he had bruising on his chest, things of that nature.",
@@ -2750,7 +2868,9 @@
       "related_nodes": [
         "N-10769"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:25",
       "investigative_direction": "Reconstruct the shot geometry and compare with the rooftop footage.",
       "transcript_snippet": "now that I have fully rinsed out any chance that the person on Lozi shot Charlie in his neck",
@@ -2773,7 +2893,9 @@
         "N-10172",
         "N-10769"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:25",
       "investigative_direction": "Identify the rooftop person and any military or contractor ties.",
       "transcript_snippet": "I think that military man was tasked with being an acrobat.",
@@ -2791,7 +2913,9 @@
       "related_nodes": [
         "N-10719"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:01",
       "investigative_direction": "Ask the prosecution and the witnesses whether any contact has occurred.",
       "transcript_snippet": "there is a reason why they don't want to bring in these witnesses in the courtroom, why they haven't even been contacted by the prosecution.",
@@ -2811,7 +2935,9 @@
       "related_nodes": [
         "N-11143"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:01",
       "investigative_direction": "Pull exhibits 12.1 and 12.4 from the hearing record.",
       "transcript_snippet": "they cite the exhibits 12.1 and 12.4 as proof of that.",
@@ -2832,7 +2958,9 @@
         "N-11143",
         "N-10769"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:01",
       "investigative_direction": "Compare exhibits and property logs with that claim.",
       "transcript_snippet": "We have seen no evidence of either a screwdriver or a gun on the rooftop of the Lozi building.",
@@ -2853,7 +2981,9 @@
       "related_nodes": [
         "N-10715"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:05",
       "investigative_direction": "Review Neff's accounts of Sept 10 against vehicle and driver records.",
       "transcript_snippet": "why Blake seems to have this convenient amnesia about certain events that day and why he continues to exclude Danny Philip from the equation.",
@@ -2871,7 +3001,9 @@
       "claim": "The host says that after a dream set in Israel she woke up and texted Andrew Kolvet that Charlie told her he had betrayed him.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:17",
       "investigative_direction": "Obtain the text and any reply from Kolvet.",
       "transcript_snippet": "The fact that I woke up and texted Andrew and I said Charlie told me that you betrayed him.",
@@ -2892,7 +3024,9 @@
       "claim": "The host says that in the dream Charlie said he was betrayed, she could not hear what else he said, and then she saw Kolvet's face.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:17",
       "investigative_direction": "Personal account; no document would verify it beyond the text message.",
       "transcript_snippet": "And Charlie said he was betrayed and then I couldn't hear what he was saying and then I saw Andrew Colvin's face.",
@@ -2910,7 +3044,9 @@
       "claim": "The host says that after Charlie's death she spoke to her priest, feeling he might be in purgatory because of the vivid dreams, which later stopped.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:43:27",
       "investigative_direction": "Personal account only.",
       "transcript_snippet": "I remember talking to my priest cuz I I said to I feel like he must he must be in purgatory",
@@ -2927,7 +3063,9 @@
       "claim": "The host says the memorial convention was thrown like a concert, and that people so happy at the memorial event clinking glasses are now very bitter and angry.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:40",
       "investigative_direction": "Review footage of the memorial event and later public statements by attendees.",
       "transcript_snippet": "those people who were so happy, so happy at the memorial event clinking glasses thereafter are very bitter",
@@ -2944,7 +3082,9 @@
       "claim": "The host says Tyler Robinson is up for the death penalty.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:37",
       "investigative_direction": "Check the charging documents and prosecutor's notice regarding capital charges.",
       "transcript_snippet": "Tyler Robinson is up for the death penalty.",
@@ -2961,7 +3101,9 @@
       "claim": "The host says Blake Neff has said to convict Tyler Robinson, and characterizes this as calling for the state to kill him.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:37",
       "investigative_direction": "Locate Neff's original statements calling for conviction.",
       "transcript_snippet": "When you see Blake Neff who is an evil man saying convict Tyler Robinson",
@@ -2984,7 +3126,9 @@
         "N-10761",
         "N-10768"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:51:30",
       "investigative_direction": "Have a physicist or forensic expert analyze the shot video.",
       "transcript_snippet": "Oh, no, Charlie did not go back. You are correct. He went up and to the side.",
@@ -3001,7 +3145,9 @@
       "claim": "The host says her book club is discussing the Pale of Settlement in Russia, and characterizes people who migrated west from there, which she links to Ukraine and Lithuania, as running countries.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:52:26",
       "investigative_direction": "Tangential assertion recorded as said; no case-relevant verification.",
       "transcript_snippet": "We are talking right now um about the Pale of Settlement in Russia.",
@@ -3017,7 +3163,9 @@
       "claim": "The host says she knew instantly Charlie had been betrayed, though not by whom, and that they would not get away with it.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:53:58",
       "investigative_direction": "Personal assertion; look for contemporaneous messages.",
       "transcript_snippet": "I knew that Charlie was betrayed instantly. Didn't know by who.",

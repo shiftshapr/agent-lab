@@ -58,7 +58,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-588"
+            "N-587"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -185,7 +185,7 @@
             "C-2442"
           ],
           "related_nodes": [
-            "N-586",
+            "N-585",
             "N-10525"
           ],
           "tags": [],
@@ -237,8 +237,8 @@
             "C-2452"
           ],
           "related_nodes": [
-            "N-589",
-            "N-591",
+            "N-588",
+            "N-590",
             "N-10529"
           ],
           "tags": [],
@@ -265,7 +265,7 @@
             "C-2445"
           ],
           "related_nodes": [
-            "N-590",
+            "N-589",
             "N-10529"
           ],
           "tags": [],
@@ -292,8 +292,8 @@
             "C-2446"
           ],
           "related_nodes": [
-            "N-589",
-            "N-590"
+            "N-588",
+            "N-589"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -494,8 +494,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-586",
-      "ref": "N-586",
+      "@id": "N-585",
+      "ref": "N-585",
       "name": "Larissa",
       "type": "person",
       "description": "Author of email (A-1827.1) recounting personal placement at Antonio Placement Center in Constanta, Romania; presents as formerly adopted child with direct knowledge of institutional practices.",
@@ -516,8 +516,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-587",
-      "ref": "N-587",
+      "@id": "N-586",
+      "ref": "N-586",
       "name": "Nicole Rothstein",
       "type": "person",
       "description": "Real-estate professional referenced as Erika's New York roommate during the Next Model Management period; daughter of Alan Rothstein.",
@@ -529,14 +529,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-588",
+        "N-587",
         "N-2"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-588",
-      "ref": "N-588",
+      "@id": "N-587",
+      "ref": "N-587",
       "name": "Alan Rothstein",
       "type": "person",
       "description": "Chairman (or former chairman) of Win Haven Real Estate; subject of Erika's 2017 Instagram tribute referring to him as \"Uncle Allan.\"",
@@ -552,13 +552,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-587"
+        "N-586"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-589",
-      "ref": "N-589",
+      "@id": "N-588",
+      "ref": "N-588",
       "name": "Jake Hoffman",
       "type": "person",
       "description": "Arizona State Senator; introduced SB 1439 supporter; defended the bill on Fox News after veto.",
@@ -576,14 +576,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-590",
+        "N-589",
         "N-10529"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-590",
-      "ref": "N-590",
+      "@id": "N-589",
+      "ref": "N-589",
       "name": "Katie Hobbs",
       "type": "person",
       "description": "Governor of Arizona; vetoed SB 1439; subject of Hoffman's Fox News criticism.",
@@ -600,13 +600,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-589"
+        "N-588"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-591",
-      "ref": "N-591",
+      "@id": "N-590",
+      "ref": "N-590",
       "name": "AJ Copp",
       "type": "person",
       "description": "Introduced SB 1439 in the Arizona House on January 28 (year implied 2026).",
@@ -644,7 +644,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-586"
+        "N-585"
       ]
     },
     {
@@ -737,9 +737,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
+        "N-588",
         "N-589",
-        "N-590",
-        "N-591"
+        "N-590"
       ]
     },
     {
@@ -802,8 +802,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-533",
-      "ref": "N-533",
+      "@id": "N-532",
+      "ref": "N-532",
       "name": "Peter Thiel",
       "type": "person",
       "description": "Tech billionaire and JD Vance political patron; identified in Epstein emails and discussed on Rogan regarding his Epstein relationship.",
@@ -839,8 +839,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-904",
-      "ref": "N-904",
+      "@id": "N-903",
+      "ref": "N-903",
       "name": "Fran Rothschild",
       "type": "person",
       "description": "First named by the host at 00:03:16 in episode 77 (also 'Francis Rothschild'). Described by the host as co-founder of Wilhelmina Models.",
@@ -1016,8 +1016,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-532",
-      "ref": "N-532",
+      "@id": "N-531",
+      "ref": "N-531",
       "name": "Rothschild Family",
       "type": "person",
       "description": "Host speculates on a Rothstein-Rothschild link.",
@@ -1033,8 +1033,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-582",
-      "ref": "N-582",
+      "@id": "N-581",
+      "ref": "N-581",
       "name": "Faith Kates",
       "type": "person",
       "description": "Next Model Management co-founder and former Wilhelmina vice president, per the host.",
@@ -1052,8 +1052,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-613",
-      "ref": "N-613",
+      "@id": "N-612",
+      "ref": "N-612",
       "name": "Melania Trump",
       "type": "person",
       "description": "Host relays what Next-circle sources said about her.",
@@ -1070,8 +1070,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-750",
-      "ref": "N-750",
+      "@id": "N-749",
+      "ref": "N-749",
       "name": "Dennis Frantzve",
       "type": "person",
       "description": "Named by the host at 00:23:16 as 'Dennis Brantsbay' in Romania when the military base was set up.",
@@ -1434,7 +1434,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-9",
-        "N-533"
+        "N-532"
       ]
     },
     {
@@ -1452,7 +1452,7 @@
       "investigative_direction": "Confirm the post via Instagram archives or third-party captures; verify Alan Rothstein's role at Win Haven Real Estate through corporate filings.",
       "mentions_person_refs": [
         "N-2",
-        "N-588"
+        "N-587"
       ]
     },
     {
@@ -1550,7 +1550,7 @@
       "investigative_direction": "Verify Larissa's identity and adoption record; locate Erika Kirk's 2012–2014 promotional materials referencing Antonio Placement Center; obtain Romanian government or NGO documentation of center's operational history.",
       "mentions_person_refs": [
         "N-2",
-        "N-586"
+        "N-585"
       ]
     },
     {
@@ -1589,8 +1589,8 @@
       "investigative_direction": "Retrieve full SB 1439 text from Arizona Legislature archives; identify statutory fund recipient and allocation mechanism.",
       "mentions_person_refs": [
         "N-1",
-        "N-589",
-        "N-591"
+        "N-588",
+        "N-590"
       ]
     },
     {
@@ -1610,8 +1610,8 @@
       "investigative_direction": "Retrieve full veto letter and accompanying Arizona legislative record; identify any subsequent legislation reintroducing the plate.",
       "mentions_person_refs": [
         "N-1",
-        "N-589",
-        "N-590"
+        "N-588",
+        "N-589"
       ]
     },
     {
@@ -1630,8 +1630,8 @@
       "claim_timestamp": "00:34:21",
       "investigative_direction": "Obtain full Fox News clip with date; verify Hoffman's claimed chairmanship of the Arizona Nominations Committee and prior vetoes cited.",
       "mentions_person_refs": [
+        "N-588",
         "N-589",
-        "N-590",
         "N-1"
       ]
     },
@@ -1652,7 +1652,7 @@
       "investigative_direction": "Capture original X post URL and timestamp; verify whether post remains live or has been edited/deleted.",
       "mentions_person_refs": [
         "N-11",
-        "N-590"
+        "N-589"
       ]
     },
     {
@@ -1742,8 +1742,8 @@
       "claim_timestamp": "00:31:36",
       "investigative_direction": "Retrieve full bill text; cross-reference fund descriptors against Turning Point USA's founding date, mission, and Arizona activities.",
       "mentions_person_refs": [
-        "N-589",
-        "N-591"
+        "N-588",
+        "N-590"
       ]
     },
     {
@@ -1756,7 +1756,9 @@
       "related_nodes": [
         "N-10519"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:47",
       "investigative_direction": "Retain the first Next Model inquiry email and any reply or non-reply record to show the comment history.",
       "transcript_snippet": "we did not go out to Erika for comment regarding today's episode because it makes very little sense if someone ignores your first email question",
@@ -1776,13 +1778,15 @@
         "N-10532",
         "N-10524"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:28",
       "investigative_direction": "Obtain named eyewitnesses or visitor and email records placing Epstein at Next's offices and on what dates.",
       "transcript_snippet": "Jeffrey Epstein was around this office a lot. He frequented the office as you would if it was your friends. All of this is a fact.",
       "mentions_person_refs": [
         "N-9",
-        "N-582"
+        "N-581"
       ]
     },
     {
@@ -1795,7 +1799,9 @@
       "related_nodes": [
         "N-10532"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:28",
       "investigative_direction": "Check agency press and model-biography records for Kates's Eastern European signings and dates.",
       "transcript_snippet": "She's actually known for having made the careers of various Eastern European models.",
@@ -1803,7 +1809,7 @@
         "C-10269"
       ],
       "mentions_person_refs": [
-        "N-582"
+        "N-581"
       ]
     },
     {
@@ -1816,14 +1822,16 @@
       "related_nodes": [
         "N-11291"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:16",
       "investigative_direction": "Verify Kates's Wilhelmina title and dates and the Wilhelmina founding record; test the host's claim that she knew Epstein in that period.",
       "transcript_snippet": "she was actually the vice president of the women's division over at Wilhelmina Models first.",
       "mentions_person_refs": [
-        "N-582",
+        "N-581",
         "N-9",
-        "N-904"
+        "N-903"
       ]
     },
     {
@@ -1836,7 +1844,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:13",
       "investigative_direction": "Identify the donors, dates and amounts withdrawn from TPUSA in 2025 through donor records, filings or named sources.",
       "transcript_snippet": "Zionists were also the people that were squeezing Charlie Kirk at the end of his life.",
@@ -1852,7 +1862,9 @@
       "claim": "The host says Charlie Kirk himself said he was done with the pro-Israel cause.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:13",
       "investigative_direction": "Locate the recorded or written statements, or witnesses, to Kirk saying he was finished with the pro-Israel cause, with dates.",
       "transcript_snippet": "Charlie himself said that he was done with the pro-Israel cause.",
@@ -1870,7 +1882,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:04:13",
       "investigative_direction": "Check the AmFest 2025 program and stage footage for speaker order and Shapiro's appearance.",
       "transcript_snippet": "Immediately, Ben Shapiro, who was in fact an enemy to her husband, effectively open and Amfest, she came out first, and then Ben Shapiro came out second.",
@@ -1888,7 +1902,9 @@
       "claim": "The host says Ben Shapiro was allowed onto Charlie Kirk's show and appeared in person in his studio, which she calls very odd.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:04:13",
       "investigative_direction": "Find the Charlie Kirk Show episode with Shapiro in the studio and its date.",
       "transcript_snippet": "He was also allowed onto Charlie Kirk's uh uh show and appeared in person rather in his studio.",
@@ -1905,7 +1921,9 @@
       "claim": "The host says Erika Kirk never came out to say anything about Josh Hammer lying when he said Charlie never blinked on Israel.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:00",
       "investigative_direction": "Search Erika Kirk's public statements after Hammer's remarks for any reference to Hammer or to Charlie's Israel position.",
       "transcript_snippet": "She never came out and said anything about Josh Hammer lying when he said Charlie effectively that Charlie never blinked on Israel.",
@@ -1923,7 +1941,9 @@
       "claim": "The host says Erika Kirk set up interviews with the likes of Bari Weiss and pushed Charlie's final book, Shabbat Shalom, without ever saying Charlie's donor took money from him.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:05:11",
       "investigative_direction": "Compile Erika's interview schedule and book-promotion appearances after September 2025 and compare against any comment on donor pressure.",
       "transcript_snippet": "She was setting up interviews with the likes of Bari Weiss, uh pushing Charlie's final book, Shabbat Shalom, Shabbat Shalom.",
@@ -1943,7 +1963,9 @@
       "related_nodes": [
         "N-10519"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:11",
       "investigative_direction": "Review Erika's published bios and interviews for any mention of employment at Next or another modeling agency.",
       "transcript_snippet": "she's actually never made the claim to have worked for a modeling agency.",
@@ -1962,7 +1984,9 @@
         "N-10519",
         "N-10532"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:58",
       "investigative_direction": "Obtain the eyewitnesses' names, dates and the apartments they associate with Erika; seek corroborating emails or leases.",
       "transcript_snippet": "they recall Erika because she was taking meetings at the office and those office were pertaining to real estate.",
@@ -1986,7 +2010,9 @@
         "N-10532",
         "N-11194"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:05:58",
       "investigative_direction": "Cross-check against reporting and the class action on Next and MC2 model housing for the housing practices described.",
       "transcript_snippet": "Younger girls, when they first get to New York City, they pack them in like cattle into one apartment.",
@@ -2005,7 +2031,9 @@
         "N-11292",
         "N-10519"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:13",
       "investigative_direction": "Identify the building through the eyewitnesses and check Manhattan property, lease and broker-of-record records for Erika's name.",
       "transcript_snippet": "Erika Franceway was the contact. Specifically, what they recall is she was the contact for a white building on the Upper East Side, around 68th Street and 2nd and 3rd Avenue.",
@@ -2024,7 +2052,9 @@
         "N-10501",
         "N-10526"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:13",
       "investigative_direction": "Pin down the dates of the Next-office recollections and compare with the license issue date of October 24, 2018 from the NY Department of State record.",
       "transcript_snippet": "the issue that I'm having here is that Erika did not actually have her real estate license yet.",
@@ -2042,14 +2072,16 @@
       "related_nodes": [
         "N-10501"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:22",
       "investigative_direction": "Ask the people who heard this to identify the family and the deals; look for deeds, listings or broker records tied to the Rothsteins.",
       "transcript_snippet": "Erika told people specifically during that time that she was doing real estate deals with her family.",
       "mentions_person_refs": [
         "N-2",
-        "N-587",
-        "N-588"
+        "N-586",
+        "N-587"
       ]
     },
     {
@@ -2062,13 +2094,15 @@
       "related_nodes": [
         "N-10501"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:22",
       "investigative_direction": "Confirm the shared residence and dates with leases or witnesses, and Nicole Rothstein's licensing and company records.",
       "transcript_snippet": "Erika at this time was living with Nicole Rothstein and it is a fact that Nicole Rothstein did work in real estate",
       "mentions_person_refs": [
         "N-2",
-        "N-587"
+        "N-586"
       ]
     },
     {
@@ -2083,12 +2117,14 @@
       "related_nodes": [
         "N-11293"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:22",
       "investigative_direction": "Check New York corporate filings and Win Haven's own materials for Rothstein's chairmanship and dates.",
       "transcript_snippet": "Alan Rothstein, Erika is extremely close with him. She calls him uncle. He was the chairman, uh might still be the chairman of Win Haven Real Estates",
       "mentions_person_refs": [
-        "N-588",
+        "N-587",
         "N-2"
       ]
     },
@@ -2100,14 +2136,16 @@
       "claim": "The host speculates, while saying she does not know it is true, that if the Rothsteins are related to the Rothstein who fixed the White Sox game, that figure's mother was a Rothschild, which would make them Rothschild relatives.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:09:32",
       "investigative_direction": "Genealogical records of the Rothstein family would confirm or refute any relationship; none has been shown.",
       "transcript_snippet": "if they are at all related to Allan uh to the Rothstein that was involved with fixing the White Sox game, that's a Roth child That's a Rothschild family member.",
       "mentions_person_refs": [
-        "N-588",
         "N-587",
-        "N-532"
+        "N-586",
+        "N-531"
       ]
     },
     {
@@ -2118,7 +2156,9 @@
       "claim": "The host says that at this time Erika was trying to be booked onto reality TV shows, including The American Race and dating shows, while pivoting into real estate.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:37",
       "investigative_direction": "Collect casting and audition records and dates for The American Race and any dating show to place them against the real estate timeline.",
       "transcript_snippet": "trying to be booked onto reality TV shows for fashion or or really anything, The American Race, Dating, whatever she could",
@@ -2138,7 +2178,9 @@
       "related_nodes": [
         "N-10527"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:25",
       "investigative_direction": "Identify any developer employer or project Erika worked with in New York before her 2018 license.",
       "transcript_snippet": "Her experience working on the developer side of the New York City real estate industry is a tremendous asset to her role as an agent.",
@@ -2159,7 +2201,9 @@
         "N-11166",
         "N-11165"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:36",
       "investigative_direction": "Pull IRS Form 990s and any USMC acknowledgment for Everyday Heroes and verify the China, Costa Rica and Constanta activities.",
       "transcript_snippet": "The organization celebrates their 12th year and their long-standing partnership with the United States Marine Corps by expanding into China and Costa Rica",
@@ -2180,7 +2224,9 @@
         "N-11104",
         "N-10527"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:36",
       "investigative_direction": "Check pageant and NCAA rosters and request Liberty enrollment confirmation for the Juris Master program.",
       "transcript_snippet": "from being a former NCAA women's basketball athlete to Miss Arizona USA 2012",
@@ -2199,7 +2245,9 @@
         "N-11104",
         "N-10501"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:31",
       "investigative_direction": "Build a dated timeline of each activity from licensing, enrollment, Everyday Heroes and Turning Point records and test for overlap; verify the 77-hour requirement with the NY Department of State.",
       "transcript_snippet": "also in school full-time to get her Juris Masters followed by her law degree at Liberty",
@@ -2218,7 +2266,9 @@
         "N-11165",
         "N-10525"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:40",
       "investigative_direction": "Find Erika's own recent statements describing Romanian Angels and compare them with the audition-tape description of opening and sustaining an orphanage.",
       "transcript_snippet": "Oh, I was just, you know, helping to send Christmas gifts to kids in need in an orphanage.",
@@ -2237,7 +2287,9 @@
         "N-10525",
         "N-11165"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:02",
       "investigative_direction": "Establish which US base the host means and whether Romanian Angels' beneficiaries were housed at the center through Romanian child-protection or NGO records.",
       "transcript_snippet": "the Romanian Angels so to speak were living at Antonio's Placement Center in Constanta, Romania where our base was.",
@@ -2257,12 +2309,14 @@
       "related_nodes": [
         "N-10525"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:02",
       "investigative_direction": "Identify which fact-checks the writer means and what they actually examined.",
       "transcript_snippet": "While independent fact-checkers have found no evidence linking Ms. Kirk's work to illicit activities, I believe the history of the Antonio Placement Center warrants further investigation.",
       "mentions_person_refs": [
-        "N-586",
+        "N-585",
         "N-2"
       ]
     },
@@ -2276,7 +2330,9 @@
       "related_nodes": [
         "N-11110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:28",
       "investigative_direction": "Collect each of Erika's and Bowyer's accounts of the first meeting and compare them.",
       "transcript_snippet": "Tyler Bowyer, Erika's friend, her dear friend, who introduced her to her husband, but for the life of her, she cannot remember how they met.",
@@ -2299,13 +2355,15 @@
         "N-10395",
         "N-10528"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:16",
       "investigative_direction": "Establish the dates of the base setup, Frantzve's Romania posting and Bowyer's trip, which another node dates to 2011.",
       "transcript_snippet": "I don't think it is just ironic that you happen to go right when the military base got set up and when Dennis Brantsbay was there.",
       "mentions_person_refs": [
         "N-11",
-        "N-750"
+        "N-749"
       ]
     },
     {
@@ -2319,7 +2377,9 @@
         "N-11248",
         "N-10528"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:16",
       "investigative_direction": "Check ASU's catalog and other US universities' Romanian programs.",
       "transcript_snippet": "Arizona State University is actually the only university in America that you can even achieve a minor in Romanian studies.",
@@ -2338,7 +2398,9 @@
         "N-11248",
         "N-10528"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:16",
       "investigative_direction": "Verify the consulate's founding date and location and the lectorate through ASU and Romanian foreign ministry announcements.",
       "transcript_snippet": "Arizona State University became the site of an honorary consulate general of Romania in Arizona.",
@@ -2357,7 +2419,9 @@
         "N-11248",
         "N-10528"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:24:28",
       "investigative_direction": "Find the funding body (host does not name it) and the collaborative's founding documents.",
       "transcript_snippet": "the first in an American academic environment. And it was funded by a Romanian language institute.",
@@ -2375,7 +2439,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:26",
       "investigative_direction": "Find lease, site-selection and board records showing who chose the Phoenix headquarters site.",
       "transcript_snippet": "Turning Point headquarters a location picked by Tyler Bowyer Charlie Kirk didn't even open the organization so started in in in Chicago.",
@@ -2395,7 +2461,9 @@
         "N-10000",
         "N-10401"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:26",
       "investigative_direction": "Identify the campus location meant and the trafficking data (arrest or hotline statistics) the host relies on.",
       "transcript_snippet": "choose a a spot for their campus that is a trafficking hotbed factually",
@@ -2416,7 +2484,9 @@
         "N-10922",
         "N-10530"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:26",
       "investigative_direction": "Pull Super Feed's Arizona Corporation Commission filings for directors and officers.",
       "transcript_snippet": "Super Feed Incorporated where Erika's mother is serving as a board member with Tyler Bowyer",
@@ -2436,7 +2506,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:36",
       "investigative_direction": "Look for TPUSA or affiliated entity property purchases, LLC filings or real-estate program announcements and Bowyer's role.",
       "transcript_snippet": "Turning Point allegedly getting into real estate Tyler Bowyer being at the forefront of that according to the tips that we've received",
@@ -2458,7 +2530,9 @@
         "N-11171",
         "N-10434"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:36",
       "investigative_direction": "Obtain the memo or message creating the internal audit or DOGE effort and its date.",
       "transcript_snippet": "Charlie establishing a doge 7 days before he died",
@@ -2480,12 +2554,14 @@
         "N-10000",
         "N-10529"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:37",
       "investigative_direction": "Check business filings showing shared entities between Hoffman and Bowyer and Hoffman's TPUSA employment dates.",
       "transcript_snippet": "Jake Hoffman is a dear friend of Tyler Bowyer, a partner of Tyler Bowyer. He formerly used to work at Turning Point USA.",
       "mentions_person_refs": [
-        "N-589",
+        "N-588",
         "N-11"
       ]
     },
@@ -2501,12 +2577,14 @@
       "related_nodes": [
         "N-10529"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:42",
       "investigative_direction": "Confirm the introduction date and sponsors on the Arizona Legislature bill history for SB 1439.",
       "transcript_snippet": "AJ Copp back on January 28th introduced a bill for a state license plate to honor Charlie Kirk.",
       "mentions_person_refs": [
-        "N-591",
+        "N-590",
         "N-1"
       ]
     },
@@ -2522,7 +2600,9 @@
       "related_nodes": [
         "N-10529"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:42",
       "investigative_direction": "Retrieve the plate design submitted with the bill.",
       "transcript_snippet": "And below the license plate, as you just saw, the words were going to read for Charlie",
@@ -2542,7 +2622,9 @@
       "related_nodes": [
         "N-10529"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:36",
       "investigative_direction": "Check roll-call votes for SB 1439 on the Arizona Legislature site.",
       "transcript_snippet": "They passed the bill 16 to and then the House of Reps also voted in favor of the bill 31 to 23."
@@ -2559,12 +2641,14 @@
       "related_nodes": [
         "N-10529"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:00",
       "investigative_direction": "Check attendance reports for State Farm Stadium and the second venue on the memorial date.",
       "transcript_snippet": "the only time in Arizona history that we filled two professional sports stadiums to honor and run tribute to the life of an Arizona citizen.",
       "mentions_person_refs": [
-        "N-589",
+        "N-588",
         "N-1"
       ]
     },
@@ -2581,7 +2665,9 @@
         "N-10954",
         "N-10529"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:23",
       "investigative_direction": "Check the Arizona MVD specialty plate list for those plates and their approval dates.",
       "transcript_snippet": "We have Choose Life. That's from the Arizona Life Coalition and its mission to promote anti-abortion advocacy. We have one from Alliance Defending Freedom.",
@@ -2601,13 +2687,15 @@
       "related_nodes": [
         "N-10529"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:23",
       "investigative_direction": "Check Hobbs's veto letters from 2025 for the cited bill and wording.",
       "transcript_snippet": "she used the acronym of the committee as her reason for the veto.",
       "mentions_person_refs": [
-        "N-589",
-        "N-590"
+        "N-588",
+        "N-589"
       ]
     },
     {
@@ -2623,7 +2711,9 @@
         "N-10000",
         "N-10529"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:30",
       "investigative_direction": "Determine the intended fund recipient from the bill's fund text and any TPUSA statement.",
       "transcript_snippet": "Who's that money going to? It's going to his wife's organization now.",
@@ -2642,7 +2732,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:32",
       "investigative_direction": "Compare the Charlie Kirk Show archive on YouTube and podcast platforms before and after September 2025 for removed episodes.",
       "transcript_snippet": "We got to take down all of his episodes. We have to make sure we hide interviews of things he said.",
@@ -2662,7 +2754,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:25",
       "investigative_direction": "Find the dated public or private invitations and any TPUSA reply.",
       "transcript_snippet": "I wish they'd just come on the show. I've made the offer. I mean it.",
@@ -2683,7 +2777,9 @@
       "related_nodes": [
         "N-10929"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:24",
       "investigative_direction": "Check the Air Force Academy Board of Visitors roster and the White House appointment announcement.",
       "transcript_snippet": "being on the board of the US Air Force Academy sounds like the kind of job that you would need a background check for.",
@@ -2707,7 +2803,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:44:21",
       "investigative_direction": "Find the Hawaii Turning Point event date and video.",
       "transcript_snippet": "Obviously remember going to Hawaii with Charlie and it was a great time.",
@@ -2724,7 +2822,9 @@
       "claim": "The host says she and Charlie Kirk always had each other's back, that they disagreed on some topics, and that they were meeting back up in the middle on the topic of Zionism.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:21",
       "investigative_direction": "Look for dated public or private statements by Kirk on Zionism and Israel that show the convergence.",
       "transcript_snippet": "we were certainly meeting back up in the middle on the topic of Zionism.",
@@ -2741,7 +2841,9 @@
       "claim": "The host says Charlie Kirk was sick of being bullied and made that clear.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:11",
       "investigative_direction": "Identify the specific statements by Kirk and who he said was bullying him.",
       "transcript_snippet": "He was sick of being bullied. He made that clear.",
@@ -2759,12 +2861,14 @@
       "related_nodes": [
         "N-10532"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:46:05",
       "investigative_direction": "Identify the sources and their relationship to Melania Trump's modeling years.",
       "transcript_snippet": "they actually quite liked Melania and said that people who thought that she actually wanted to be the first lady probably had it very wrong",
       "mentions_person_refs": [
-        "N-613"
+        "N-612"
       ]
     },
     {
@@ -2777,13 +2881,15 @@
       "related_nodes": [
         "N-10532"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:46:05",
       "investigative_direction": "Review Melania Trump's modeling agency records for any Next Model Management association.",
       "transcript_snippet": "Melania's name came up with this next modeling thing they were they were speaking about cuz you know Melania came from Serbia and she was a model and she was in circles in their orbit.",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-613"
+        "N-612"
       ]
     }
   ],

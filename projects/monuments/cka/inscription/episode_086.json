@@ -647,7 +647,7 @@
       "@type": "Person",
       "@id": "N-15",
       "ref": "N-15",
-      "name": "Justin Strife",
+      "name": "Justin Streiff",
       "type": "person",
       "description": "Justin Streiff (transcribed Strife); TPUSA COO, said by the host to have asked her husband about the FaceTime recording.",
       "related_artifacts": [],
@@ -698,8 +698,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-611",
-      "ref": "N-611",
+      "@id": "N-610",
+      "ref": "N-610",
       "name": "Katherine Locastro",
       "type": "person",
       "description": "Katherine Locastro (transcribed Katherine Low Castro); named as a passenger on Erika's July 14 flight.",
@@ -846,8 +846,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-689",
-      "ref": "N-689",
+      "@id": "N-688",
+      "ref": "N-688",
       "name": "Jonathan Barcelo",
       "type": "person",
       "description": "Jonathan Barcelo (transcribed Barcello); named as a passenger on Erika's July 14 flight.",
@@ -863,8 +863,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-791",
-      "ref": "N-791",
+      "@id": "N-790",
+      "ref": "N-790",
       "name": "Matt Robinson",
       "type": "person",
       "description": "Matt Robinson; Tyler Robinson's father, expected to testify about the gun.",
@@ -1279,8 +1279,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-876",
-      "ref": "N-876",
+      "@id": "N-875",
+      "ref": "N-875",
       "name": "Frank Carney",
       "type": "person",
       "description": "First named by the host at 00:08:17 in episode 86. Named as a TPUSA figure who, with Justin Streiff, was on the phone with the FBI about the back footage, per the host.",
@@ -1647,7 +1647,9 @@
       "claim": "The host says Charlie Kirk was shot on September 10 at 12:23 p.m. Mountain Time.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:18",
       "investigative_direction": "Compare against the 911 log, CAD records and event video timestamps for the time of the shot.",
       "transcript_snippet": "Charlie Kirk was shot on September 10th, 12:23 p. m. uh in the afternoon Mountain Time.",
@@ -1666,7 +1668,9 @@
         "N-10100",
         "N-10162"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:18",
       "investigative_direction": "Obtain scene video showing Farnsworth's movements and the chain of custody of the SD card from that camera.",
       "transcript_snippet": "He returns to the crime scene and violates it. More specifically, he grabs the very chair that Charlie Kirk had just been sitting in",
@@ -1688,7 +1692,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:02:18",
       "investigative_direction": "Obtain TPUSA vendor contracts and prior event staffing records for the AV company.",
       "transcript_snippet": "the man who runs the audio-visual company that Turning Point employs, maybe you've used them for over a decade for their big events, and he's never goes to these college events",
@@ -1707,7 +1713,9 @@
         "N-10346",
         "N-10100"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:32",
       "investigative_direction": "Compare Kolvet's public explanation with the scene video showing which items were on the table and what was taken.",
       "transcript_snippet": "Yeah, we we know Andrew Kolvats lying because Tarro did not take the expensive camera.",
@@ -1727,7 +1735,9 @@
       "claim": "The host says she decided on September 17, exactly one week after the assassination, to call Farnsworth.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:32",
       "investigative_direction": "Obtain the host's call log and any recording or notes of the September 17 call.",
       "transcript_snippet": "I decided on September 17th, exactly 1 week after Charlie's assassination, to reach to reach out to him. I called him.",
@@ -1746,7 +1756,9 @@
       "related_nodes": [
         "N-10346"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:18",
       "investigative_direction": "Ask Farnsworth to state under oath why he chose that camera and what instruction he acted on.",
       "transcript_snippet": "I wanted to secure the footage for Erika so that uh she wouldn't have to see the footage of Charlie being shot in 4K",
@@ -1766,7 +1778,9 @@
       "related_nodes": [
         "N-10100"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:21",
       "investigative_direction": "Obtain the original back-camera file and compare it with the front and side footage.",
       "transcript_snippet": "once I actually saw the footage, it had no blood.",
@@ -1786,7 +1800,9 @@
         "N-10085",
         "N-10100"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:21",
       "investigative_direction": "Obtain the autopsy report and the back-camera footage to establish whether there was an exit wound.",
       "transcript_snippet": "they were hiding was the fact that the bullet did not go through. Did not pierce through Charlie.",
@@ -1807,7 +1823,9 @@
       "related_nodes": [
         "N-10797"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:19",
       "investigative_direction": "Obtain the host's screen recording of the September 19 FaceTime and any call metadata.",
       "transcript_snippet": "Tarro showed me the back footage 2 days later on September 19th cuz I kept pressing him.",
@@ -1828,7 +1846,9 @@
       "related_nodes": [
         "N-11256"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:53",
       "investigative_direction": "Compare the host's September 19 episode with the recorded FaceTime.",
       "transcript_snippet": "On September 19th, he did that and gratefully I moved to record that FaceTime call because his energy made me uncomfortable.",
@@ -1850,7 +1870,9 @@
         "N-11256",
         "N-10300"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:53",
       "investigative_direction": "Obtain George Farmer's message log with Justin Streiff for September 20, 2025.",
       "transcript_snippet": "the very next day, on September 20th, Justin Strife was contacting my husband several times while asking him if I had recorded that FaceTime call with Tarro.",
@@ -1870,7 +1892,9 @@
       "related_nodes": [
         "N-11256"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:37",
       "investigative_direction": "Obtain the husband's account and the message thread with Justin Streiff.",
       "transcript_snippet": "Honey, don't answer the question. I find the question in and of itself to be weird.",
@@ -1891,13 +1915,15 @@
         "N-10014",
         "N-11256"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:17",
       "investigative_direction": "Identify the host's source for this account and request FBI contact logs with TPUSA leadership for September 20, 2025.",
       "transcript_snippet": "The FBI was on the phone with Justin Strife, Frank Carney, and they were apparently speaking to the feds that day about whether or not I had recorded the footage.",
       "mentions_person_refs": [
         "N-15",
-        "N-876"
+        "N-875"
       ]
     },
     {
@@ -1910,7 +1936,9 @@
       "related_nodes": [
         "N-10201"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:17",
       "investigative_direction": "Confirm the date and nature of the private burial with the funeral home or family spokesperson.",
       "transcript_snippet": "this was also the exact day of Charlie's private burial. And yet, this is what they were consumed with.",
@@ -1929,7 +1957,9 @@
       "related_nodes": [
         "N-10447"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:09",
       "investigative_direction": "Obtain phone records for the Erika Kirk, Andrew Kolvet and Dr. Trotter call and ask Dr. Trotter to confirm who participated.",
       "transcript_snippet": "They peeled off to the side and they conferenced the surgeon on the day of Charlie's actual funeral.",
@@ -1949,7 +1979,9 @@
       "related_nodes": [
         "N-10447"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:09",
       "investigative_direction": "Obtain any recording or notes of the host's conversation with Erika Kirk on this point.",
       "transcript_snippet": "She would insist to my face and I did not believe her for 1 second and I politely pushed back that Andrew went rogue that day.",
@@ -1969,7 +2001,9 @@
       "related_nodes": [
         "N-10447"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:57",
       "investigative_direction": "Ask Dr. Trotter or his counsel whether he authorized the call and whether any HIPAA complaint was filed.",
       "transcript_snippet": "Dr. Lee Trotter did not violate HIPAA. In fact, he could sue her for defamation, in my personal opinion.",
@@ -1988,7 +2022,9 @@
       "related_nodes": [
         "N-10447"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:57",
       "investigative_direction": "Identify the host's source for who said what on the call and compare with Kolvet's September 20 post.",
       "transcript_snippet": "it was Erika Kirk that said that Charlie ate healthy, and she bet he had he had he had a neck like Superman.",
@@ -2011,7 +2047,9 @@
       "related_nodes": [
         "N-10085"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:48",
       "investigative_direction": "Obtain the host's September 23 notes and ask Kolvet to confirm or deny the description.",
       "transcript_snippet": "it traveled from C2, okay? Think about the entry point. It's almost upward. Down to C6, and then it moved downward into Charlie's thorax, where it was shattered.",
@@ -2031,7 +2069,9 @@
       "related_nodes": [
         "N-10085"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:04",
       "investigative_direction": "Compare Kolvet's September 20 post, his September 23 account and Harpole's statement against the autopsy report.",
       "transcript_snippet": "first they found the bullet uh beneath his skin. Now, suddenly, the bullet is fragmented in his thorax.",
@@ -2051,7 +2091,9 @@
         "N-10014",
         "N-10085"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:04",
       "investigative_direction": "Seek federal communications between September 19 and 20, 2025 about the footage and the bullet account.",
       "transcript_snippet": "It's cuz at some point the feds realized that their initial plan was completely ruined by the back footage that they They had to pivot.",
@@ -2070,7 +2112,9 @@
         "N-10621",
         "N-10572"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:04",
       "investigative_direction": "Identify the ammunition type recovered and required by the rifle and compare with ATF and FBI reports.",
       "transcript_snippet": "that family heirloom gun takes special bullets. In fact, I was told that there was no way the prosecution was going to be able to connect the bullets to that gun.",
@@ -2089,7 +2133,9 @@
         "N-11055",
         "N-10621"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:08",
       "investigative_direction": "Check discovery and lab reports for any GSR swabs of Robinson's hands or clothing.",
       "transcript_snippet": "Did they conduct that 33 hours later to see if Tyler Robinson had fired a weapon?",
@@ -2107,7 +2153,9 @@
       "related_nodes": [
         "N-11054"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:57",
       "investigative_direction": "Obtain K-9 deployment logs and handler reports for September 10 to 12, 2025.",
       "transcript_snippet": "You remember the the bomb dogs went into the field where the weapon was found. I broke that story, and they didn't find the weapon.",
@@ -2127,7 +2175,9 @@
         "N-10621",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:57",
       "investigative_direction": "Obtain the recovery chain of custody, the bore and chamber residue findings and the timeline of who found the weapon.",
       "transcript_snippet": "which my sources say they are convinced that the feds planted it when they arrived, was not fired on September 10th, okay?",
@@ -2146,7 +2196,9 @@
         "N-10110",
         "N-10621"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:40",
       "investigative_direction": "Obtain the latent print report identifying the six sets and their donors.",
       "transcript_snippet": "is that they found a total of six sets of prints on the gun.",
@@ -2168,7 +2220,9 @@
         "N-10014",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:27",
       "investigative_direction": "Ask the host to identify, even anonymously and with corroboration, which of these groups made the statements.",
       "transcript_snippet": "I have spoken to SWAT, local police departments, sources close to the accused, UVU students, um people that work at UVU.",
@@ -2188,7 +2242,9 @@
       "related_nodes": [
         "N-11149"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:18",
       "investigative_direction": "Check the record for any confession, including statements to family, police or the discord messages.",
       "transcript_snippet": "I think we can all readily dismiss the repeated lie that Tyler Robinson confessed to his crime, right?",
@@ -2208,12 +2264,14 @@
       "related_nodes": [
         "N-11149"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:30",
       "investigative_direction": "Check the witness list and any proffer on what Matt Robinson is expected to testify to.",
       "transcript_snippet": "They are naming him as a witness and he is going to be forced to answer questions under oath, likely, I would assume about the gun.",
       "mentions_person_refs": [
-        "N-791",
+        "N-790",
         "N-40"
       ]
     },
@@ -2230,7 +2288,9 @@
         "N-10570",
         "N-10581"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:51",
       "investigative_direction": "Obtain the exhibits to the motion listing each discovery request and the state's responses.",
       "transcript_snippet": "Mr. Robinson has diligently requested the disclosure of forensic case files and the data underlying the laboratory reports",
@@ -2251,7 +2311,9 @@
         "N-11257",
         "N-10570"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:31",
       "investigative_direction": "Obtain the January hearing transcript and the February 3, 2026 defense letter.",
       "transcript_snippet": "informed the defense that they too were awaiting the files and we memorialized that for the state in our February 3rd letter",
@@ -2271,7 +2333,9 @@
       "related_nodes": [
         "N-11149"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:35",
       "investigative_direction": "Obtain the December 11, 2025 hearing transcript or minute entry.",
       "transcript_snippet": "I do not find there's any prejudice in setting a date for a preliminary hearing. It's not set in stone. It certainly can be moved.",
@@ -2293,7 +2357,9 @@
         "N-10624",
         "N-10975"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:33",
       "investigative_direction": "Obtain the filed motion and exhibits at page 11 and compare with later disclosures.",
       "transcript_snippet": "validation studies, crucial electronic data files, the report, the case file for comparative bullet analysis, the the bullet lead analysis that is still in progress at the FBI",
@@ -2314,7 +2380,9 @@
         "N-10570",
         "N-11068"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:26",
       "investigative_direction": "Obtain the filed motion at page 18 and the state's witness disclosure.",
       "transcript_snippet": "the state indicated that it intended to introduce the autopsy report into evidence without any supporting expert testimony.",
@@ -2334,7 +2402,9 @@
       "related_nodes": [
         "N-10006"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:09",
       "investigative_direction": "Locate the Fox News interview and quote in context.",
       "transcript_snippet": "Please, I just want the case to be fast, she said on Fox News.",
@@ -2355,7 +2425,9 @@
         "N-10110",
         "N-10711"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:59",
       "investigative_direction": "Obtain the FBI and ATF DNA reports and the underlying electronic data.",
       "transcript_snippet": "both agencies recovered minute quantities of DNA on various items of evidence, which the reports opine consist of mixtures of up to five or more individuals.",
@@ -2376,7 +2448,9 @@
         "N-10572",
         "N-10975"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:11",
       "investigative_direction": "Obtain the ATF summary report and the filed motion at the firearm evidence paragraph.",
       "transcript_snippet": "Although the state has not indicated an intent to produce this report at the preliminary hearing, the defense may very well decide to offer the testimony of the ATF firearm analyst as exculpatory evidence.",
@@ -2400,7 +2474,9 @@
         "N-10572",
         "N-10975"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:13",
       "investigative_direction": "Obtain the March 12 conference notes between the parties.",
       "transcript_snippet": "they're like, it doesn't matter. We're not going to We're not even going to bring up the ATF thing.",
@@ -2418,7 +2494,9 @@
       "related_nodes": [
         "N-10569"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:30",
       "investigative_direction": "Cross-check with the 2004 National Academy of Sciences report on bullet lead analysis and the FBI's 2005 announcement.",
       "transcript_snippet": "analyzed trace elements, uh copper, arsenic in lead to link crime scene bullets to suspects. It was primarily used by the FBI from the 1980s until 2004",
@@ -2436,7 +2514,9 @@
       "related_nodes": [
         "N-10569"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:25",
       "investigative_direction": "Cite the specific exoneration cases involving bullet lead analysis.",
       "transcript_snippet": "They literally put the wrong people in prison using this technology until it became so obvious that nobody would even stand trial and back it anymore."
@@ -2453,7 +2533,9 @@
       "related_nodes": [
         "N-10569"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:49",
       "investigative_direction": "Identify the station, reporter and the case's court records, noting the transcript spelling of the surname.",
       "transcript_snippet": "In 1991, 45-year-old Norma Jean Aids was found inside this home, shot to death seven times."
@@ -2471,7 +2553,9 @@
         "N-11068",
         "N-11149"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:52",
       "investigative_direction": "Obtain the filed motion at page 22.",
       "transcript_snippet": "the state cannot consistent with federal due process, uh the fourth and the eighth amendments and separate separation of powers",
@@ -2491,7 +2575,9 @@
       "related_nodes": [
         "N-10570"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:42",
       "investigative_direction": "Obtain the defense correspondence exhibits attached to the motion.",
       "transcript_snippet": "this is not our fault. We did not contribute to the delay resulting in the request.",
@@ -2512,7 +2598,9 @@
         "N-11068",
         "N-11149"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:50",
       "investigative_direction": "Obtain the filed motion's concluding request and the court's ruling.",
       "transcript_snippet": "unless the materials that we are requesting have been produced to us by April 17th 2026, and if that does happen, then we can set a hearing um uh you know, 6 months out.",
@@ -2533,7 +2621,9 @@
         "N-10039",
         "N-10581"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:58",
       "investigative_direction": "Obtain the extraction reports and carrier records for the text messages cited by the state.",
       "transcript_snippet": "You can't just send a PDF and then say we we got them.",
@@ -2551,7 +2641,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:51",
       "investigative_direction": "Obtain corroboration from at least two former employees on the specific statements said to be lies.",
       "transcript_snippet": "having had communication with Turning Point USA with their former employees about the lies that they were told",
@@ -2571,7 +2663,9 @@
       "related_nodes": [
         "N-10571"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:51",
       "investigative_direction": "Review the original APB post and the full emailed tip.",
       "transcript_snippet": "there was a woman and she was responding to the APB that I put out yesterday regarding Erika's flight on July 14th.",
@@ -2592,15 +2686,17 @@
       "related_nodes": [
         "N-10571"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:51",
       "investigative_direction": "Obtain the flight manifest or FAA flight tracking record for July 14, 2025.",
       "transcript_snippet": "And that flight is she took with Katherine Low Castro and Derek Niekerk and Jonathan Barcello.",
       "mentions_person_refs": [
         "N-2",
-        "N-611",
+        "N-610",
         "N-428",
-        "N-689"
+        "N-688"
       ]
     },
     {
@@ -2613,7 +2709,9 @@
       "related_nodes": [
         "N-10539"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:51",
       "investigative_direction": "Obtain the date and transcript of the Tucker Carlson remarks and any documents showing a decision in that window.",
       "transcript_snippet": "I feel very much that between June and July 13th uh is when they made a decision to kill Charlie on the basis of the Iran war",
@@ -2636,7 +2734,9 @@
       "related_nodes": [
         "N-10571"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:50:51",
       "investigative_direction": "Check public records of flights using Los Alamitos on July 14, 2025.",
       "transcript_snippet": "It also is not visible to heavy traffic as the entrance to the base is located in a housing subdivision."
@@ -2651,7 +2751,9 @@
       "related_nodes": [
         "N-10389"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:54:43",
       "investigative_direction": "Ask the host for dated messages or notes of the conversations in which Charlie said this.",
       "transcript_snippet": "it could very well be that deep sense of knowing came from the fact that he had so carefully explained to me that he was going to die.",
@@ -2671,7 +2773,9 @@
         "N-10573",
         "N-10770"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:55:57",
       "investigative_direction": "Obtain hospital admission, ambulance and security records for both hospitals on September 10, 2025.",
       "transcript_snippet": "I have maintained from the beginning that there was more evidence that Charlie was at Utah Valley uh initially, and then at some point got transported to Timpanogos",
@@ -2691,7 +2795,9 @@
         "A-1916.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:58:46",
       "investigative_direction": "Obtain Turek's full account and the hospital's time of death record.",
       "transcript_snippet": "Within 30 minutes, they tell us that he's declared dead. How did he know Erika was his wife's name?",
@@ -2711,7 +2817,9 @@
       "related_nodes": [
         "N-10447"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:02:28",
       "investigative_direction": "Obtain the host's notes of the conversation with Erika Kirk.",
       "transcript_snippet": "I guess they didn't technically tweet that. She told me that. Um but that she didn't she had no part in it.",
@@ -2734,7 +2842,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:02:28",
       "investigative_direction": "Seek documents or witnesses showing coordinated messaging among TPUSA leaders.",
       "transcript_snippet": "Make him Andrew the dunce and say, \"Oh, he doesn't know what he was doing.\"",

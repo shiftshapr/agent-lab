@@ -960,8 +960,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-617",
-      "ref": "N-617",
+      "@id": "N-616",
+      "ref": "N-616",
       "name": "Caleb Robinson",
       "type": "person",
       "description": "Daily Wire chief executive; first named by the host at 00:23:21 in episode 90 (ADF board seat).",
@@ -1255,8 +1255,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-788",
-      "ref": "N-788",
+      "@id": "N-787",
+      "ref": "N-787",
       "name": "Paula White",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1673,8 +1673,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-827",
-      "ref": "N-827",
+      "@id": "N-826",
+      "ref": "N-826",
       "name": "Mike Smith",
       "type": "person",
       "description": "Utah County Sheriff; first named by the host at 00:38:30 in episode 90 (Brooksby's call about Mike Mitchell).",
@@ -1690,8 +1690,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-828",
-      "ref": "N-828",
+      "@id": "N-827",
+      "ref": "N-827",
       "name": "Bishop Barron",
       "type": "person",
       "description": "Bishop; first named by the host at 00:55:46 in episode 90 (stood beside Paula White during the prayer). Transcript spelling: Bishop Barron.",
@@ -1839,7 +1839,7 @@
       "claim_timestamp": "00:23:21",
       "investigative_direction": "Cross-check ADF public filings (Form 990, board roster) for Caleb Robinson's name and tenure.",
       "mentions_person_refs": [
-        "N-617"
+        "N-616"
       ]
     },
     {
@@ -2040,7 +2040,9 @@
         "N-10900",
         "N-10372"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:38",
       "investigative_direction": "Obtain Phillips's employment record and any statement from him or from the witness Mitch confirming or denying that the description matched him.",
       "transcript_snippet": "Erika's ex-boyfriend, one of the many, uh current Daily Wire employee, who was featured on my podcast when Mitch gave a description of the guy that he believed that he saw with Erika at Fort Huachuca",
@@ -2061,7 +2063,9 @@
       "related_nodes": [
         "N-10372"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:38",
       "investigative_direction": "Obtain the host's text thread with Phillips and any later statement from Phillips about his whereabouts in September 2025.",
       "transcript_snippet": "You will recall that I texted Cabot Phillips before we mentioned him on the podcast, looking for a simple yes or no response.",
@@ -2078,7 +2082,9 @@
       "claim": "The host says that on a toddler playground Cabot Phillips confronted her, said of his child that \"because of you, people don't believe that he is my son,\" and pulled down his lip to show a tattoo; she says she has never discussed his tattoos or the child's paternity on the show.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:05:41",
       "investigative_direction": "Only the host and Phillips can confirm the encounter; Phillips's own account would be the test.",
       "transcript_snippet": "he goes, oh, really? Because of you, people don't believe that he is my son. Okay.",
@@ -2095,7 +2101,9 @@
       "claim": "The host says she believes the child is Cabot Phillips's, says she never made a claim otherwise, and asks listeners to consider the matter closed.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:08:15",
       "investigative_direction": "Review earlier episodes for any host statement about the child's parentage to test 'never made the claim otherwise'.",
       "transcript_snippet": "I want to also state that I believe that that is Cabot Phillips' child. I never made the claim otherwise",
@@ -2118,7 +2126,9 @@
         "N-10431",
         "N-10664"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:44",
       "investigative_direction": "Obtain the retreat date, attendee list and program to establish when and where the remark was said to be made.",
       "transcript_snippet": "took the stage in Aspen um at this investor retreat where he was giving an update on the company, and he stood in front of a bunch of donors",
@@ -2142,7 +2152,9 @@
         "N-10000",
         "N-10936"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:52",
       "investigative_direction": "Ask Turning Point whether video exists and obtain the original recording with metadata.",
       "transcript_snippet": "When pushed, Turning Point declined to show the video. Instead, they chose only to release the audio.",
@@ -2165,7 +2177,9 @@
         "N-10000",
         "N-10936"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:37",
       "investigative_direction": "Locate the Neff statements (posts or messages) the host is paraphrasing and confirm the wording.",
       "transcript_snippet": "He said that I was a psychopathic subway killer that was wielding a knife.",
@@ -2185,7 +2199,9 @@
         "N-10027",
         "N-10431"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:37",
       "investigative_direction": "Compare earlier TPUSA and Erika Kirk statements for the claimed venue of the remark.",
       "transcript_snippet": "I guess I hadn't appreciated that we had never said that that happened in Aspen. Most people were assuming that that happened in the Hamptons. It did not happen in the Hamptons.",
@@ -2208,7 +2224,9 @@
         "N-10594",
         "N-10584"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:25",
       "investigative_direction": "Identify the donors through the host and compare their account with the AmFest remarks and the claimed venue.",
       "transcript_snippet": "they were not aware that Turning Point was making the claim that the statement occurred at that event.",
@@ -2233,7 +2251,9 @@
       "related_nodes": [
         "N-10597"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:17",
       "investigative_direction": "Retrieve the Kolvet interview and search earlier public uses of the term Charlie GPT.",
       "transcript_snippet": "A term, by the way, that you should know was first uttered, Charlie GPT, in an interview by none other than our guy, Andrew Kolvet.",
@@ -2256,7 +2276,9 @@
       "related_nodes": [
         "N-10597"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:10",
       "investigative_direction": "The host would need to identify who pitched her; no external check beyond her records.",
       "transcript_snippet": "I've certainly been in places where they've pitched me on like AI Candace, hologram Candace because it helps you not have to go to so many places at once.",
@@ -2276,7 +2298,9 @@
         "N-10597",
         "N-10664"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:10",
       "investigative_direction": "Ask Turning Point and its vendors whether any Charlie voice or AI product was commissioned, and request contracts or invoices.",
       "transcript_snippet": "My question is, did they take someone up on their offer to create a Charlie GPT because I cannot stress this enough, the donors who were in attendance in Aspen are telling me that Charlie never said this.",
@@ -2301,7 +2325,9 @@
         "N-10594",
         "N-10584"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:19",
       "investigative_direction": "Obtain the dinner guest list and the schedule of Erika Kirk's movements in Aspen from attendees.",
       "transcript_snippet": "Apparently Erika was up in Aspen, but was not at this exact presentation when the questions were asked.",
@@ -2327,7 +2353,9 @@
         "N-10000",
         "N-10936"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:19",
       "investigative_direction": "Request the Aspen video from Turning Point and corroboration from additional attendees.",
       "transcript_snippet": "It would be very easy for them to drop this video, and they want it dropped.",
@@ -2347,7 +2375,9 @@
         "N-10664",
         "N-10597"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:01",
       "investigative_direction": "Forensic audio analysis of the Aspen clip; request the original device recording and chain of custody.",
       "transcript_snippet": "If true, that they used an AI program, which Blake Neff's reaction to me, I've been around, suggests that they did because it's just so much easier.",
@@ -2371,7 +2401,9 @@
         "N-10664",
         "N-10597"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:01",
       "investigative_direction": "This is the host's inference; the test is authentication of the audio and its origin.",
       "transcript_snippet": "Because the notion signifies that there that there was a plot, a plot to remove Charlie, and then to use Charlie GPT to convince the world",
@@ -2391,7 +2423,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:01",
       "investigative_direction": "Collect the interviews where the single-mother description was used and compare with family and public records.",
       "transcript_snippet": "they also kept insisting immediately and through various interviews that Erika was raised by a single mother.",
@@ -2408,7 +2442,9 @@
       "claim": "The host says she has proven that Charlie hated Ben Shapiro, that everyone knows it, and that Erika Kirk and Andrew Kolvet knew it.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:07",
       "investigative_direction": "Review Charlie-Ben communications and public statements (see earlier episode material) and ask Kolvet and Erika Kirk.",
       "transcript_snippet": "First and foremost, I have told you, I have proven to you many times over that Charlie hated Ben. Everybody knows that.",
@@ -2428,7 +2464,9 @@
       "claim": "The host says Jeremy Boreing, the former CEO of Daily Wire, on his Candace tour appearance on Piers Morgan, hedged and tried to make it sound good that Charlie and Ben did not get along.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:18:07",
       "investigative_direction": "Locate the Piers Morgan interview with Boreing and read his statement on Charlie and Shapiro.",
       "transcript_snippet": "even Jeremy Boring when he went on his like Candace tour, uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on Piers Morgan.",
@@ -2450,7 +2488,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:18:07",
       "investigative_direction": "Identify donors or writers who pressed Charlie in 2024 and obtain any contemporaneous messages.",
       "transcript_snippet": "Ben then set to work behind the scenes getting like the Jewish network of donors and writers to peer pressure Charlie to distance from me because of anti-Semitism.",
@@ -2473,7 +2513,9 @@
         "A-1950.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:05",
       "investigative_direction": "Retrieve the Times interview and check Kolvet's exact words about the Shapiro interview; ask Kolvet to confirm Charlie's reaction.",
       "transcript_snippet": "Andrew admitted in that same New York Times interview that we just showed you that he effectively forced Charlie to interview Ben a few days before his death.",
@@ -2494,14 +2536,16 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:05",
       "investigative_direction": "Obtain the booking communications between Daily Wire and the Charlie Kirk Show for the Walsh and Shapiro appearances.",
       "transcript_snippet": "they wanted to have only Matt Walsh on the show, and Caleb said, \"Well, how about a two-for-one special?\" Andrew Kolvet agreed to do that.",
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-617",
+        "N-616",
         "N-166",
         "N-14",
         "N-1"
@@ -2517,7 +2561,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:37",
       "investigative_direction": "Locate the Shapiro show segment and quote his statement on Erika suing.",
       "transcript_snippet": "He went on his show and he demanded that Erika sue me for dropping a 2-minute trailer.",
@@ -2537,7 +2583,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:37",
       "investigative_direction": "Arbitration is generally non-public; confirm existence of the proceeding through the parties or any court filings to compel or confirm arbitration.",
       "transcript_snippet": "This is after he's been suing me for 2 years, okay? In arbitration court so people can't read",
@@ -2559,7 +2607,9 @@
         "N-10954",
         "N-10596"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:37",
       "investigative_direction": "Obtain the emails and identify the senders; ask ADF to confirm or deny any coordination with Shapiro or Erika Kirk.",
       "transcript_snippet": "you know, Ben is working with Erika on ways to sue you. He's He's become suddenly very influential in Alliance Defending Freedom.",
@@ -2587,7 +2637,9 @@
         "N-10900",
         "N-10596"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:31",
       "investigative_direction": "Compare ADF's published board list and Form 990 with the internal slide.",
       "transcript_snippet": "they informed me that the public is not aware, but that they quietly took a board seat.",
@@ -2596,7 +2648,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-617"
+        "N-616"
       ]
     },
     {
@@ -2612,7 +2664,9 @@
         "N-10954",
         "N-10596"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:21",
       "investigative_direction": "Identify the ADF sources and obtain board minutes or communications on any litigation involving the host.",
       "transcript_snippet": "And they said that Ben was driving the bus um gunning for me through Alliance Defending Freedom.",
@@ -2622,7 +2676,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-617"
+        "N-616"
       ]
     },
     {
@@ -2636,7 +2690,9 @@
         "N-10900",
         "N-10416"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:21",
       "investigative_direction": "Document specific cancelled speeches and advertiser contacts and any evidence linking them to Daily Wire.",
       "transcript_snippet": "trying to stop speeches, trying to get people to say things about me, having articles written, uh you know, trying to have other people reach out and go after my advertisers.",
@@ -2652,7 +2708,9 @@
       "claim": "The host says Megyn Kelly said of Mark Levin that part of her feels he genuinely wants to hurt her and would be happy if someone killed her, and says that is exactly how she feels about Ben Shapiro.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:24:20",
       "investigative_direction": "Locate the Megyn Kelly show segment about Mark Levin to confirm what she actually said.",
       "transcript_snippet": "There is a piece of her that feels like he genuinely wants to like hurt her.",
@@ -2676,7 +2734,9 @@
         "N-10954",
         "N-10596"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:40",
       "investigative_direction": "Identify and independently interview the four ADF sources.",
       "transcript_snippet": "one of them mentioned Seth Dillon. The other three people at Alliance Defending Freedom all said Ben Shapiro.",
@@ -2697,7 +2757,9 @@
         "N-10593",
         "N-10024"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:32",
       "investigative_direction": "Obtain dispatch and text records from September 11 for Washington County law enforcement.",
       "transcript_snippet": "it was known to the police that Tyler Robinson was the their guy before 7:00 p. m. on September 11th.",
@@ -2719,7 +2781,9 @@
       "related_nodes": [
         "N-10593"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:32",
       "investigative_direction": "Compare booking photographs and property inventory with Cox's and police statements about clothing.",
       "transcript_snippet": "Governor Cox and uh uh the police, they were lying about the clothing that he was wearing when he was brought in.",
@@ -2740,7 +2804,9 @@
         "N-11002",
         "N-10593"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:32",
       "investigative_direction": "Check firearms retailers or private sales in the Warner Valley area for September 10 to 11, 2025, and any ATF trace records.",
       "transcript_snippet": "that he was buying a gun, that Tyler Robinson had been buying a gun in Warner Valley.",
@@ -2760,7 +2826,9 @@
         "N-11002",
         "N-10593"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:45",
       "investigative_direction": "Reconstruct the sequence of calls between the Robinson family, the family friend and law enforcement on the evening of September 11.",
       "transcript_snippet": "But then suddenly there was some sea change and they learned that he was coming in cooperatively.",
@@ -2781,7 +2849,9 @@
       "related_nodes": [
         "N-10024"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:37",
       "investigative_direction": "Obtain the Maverick surveillance footage and its time stamp.",
       "transcript_snippet": "At 7:15, Tyler Robinson is captured on camera filling up his gas at the Maverick gas station in Cedar City.",
@@ -2802,7 +2872,9 @@
       "related_nodes": [
         "N-10024"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:37",
       "investigative_direction": "Compare the Post's gun photo with the recovered rifle's serial number and make and model in court records.",
       "transcript_snippet": "But I also should say this was not actually Tyler Robinson's gun. They're going to tell us it was a similar weapon.",
@@ -2823,7 +2895,9 @@
       "related_nodes": [
         "N-10024"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:24",
       "investigative_direction": "Check Patel's and Bongino's travel logs and the time stamp of the FBI Salt Lake City post.",
       "transcript_snippet": "5:30 p. m. Kash Patel and Dan Bongino arrive on the scene. At 6:17, the FBI Salt Lake City releases another round of photos of the alleged shooter on X.",
@@ -2847,7 +2921,9 @@
         "N-10593",
         "N-10024"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:13",
       "investigative_direction": "Obtain the exhibit video and its metadata cited in the motion to establish the actual time of the interview.",
       "transcript_snippet": "in order for that interview to start, we should assume he arrived at the police station before 6:17 p. m.",
@@ -2871,7 +2947,9 @@
       "related_nodes": [
         "N-10593"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:13",
       "investigative_direction": "Ask the defense or the court to clarify the date of the video exhibit; check the booking record for the date and time.",
       "transcript_snippet": "I can't fathom that they would be referring to the next day because uh he was already in custody.",
@@ -2894,7 +2972,9 @@
         "N-10029",
         "N-10593"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:41",
       "investigative_direction": "Obtain the press conference transcript and the sheriff's office phone records for the call.",
       "transcript_snippet": "then we have uh Sheriff Broxby, which we will get from a a later press conference. He will say that that's when he received the phone call from Mike Mitchell",
@@ -2915,14 +2995,16 @@
       "related_nodes": [
         "N-10029"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:30",
       "investigative_direction": "Obtain call logs and sheriff statements from both offices for the evening of September 11.",
       "transcript_snippet": "And um then Sheriff Broxby calls the Utah County Sheriff Mike Smith to tell him about the call that he just got from Mike Mitchell.",
       "mentions_person_refs": [
         "N-3",
         "N-278",
-        "N-827",
+        "N-826",
         "N-126"
       ]
     },
@@ -2938,7 +3020,9 @@
         "N-10593",
         "N-10031"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:30",
       "investigative_direction": "Compare the press conference transcript with the 10:26 p.m. search warrant time and booking records.",
       "transcript_snippet": "They tell us that 9:00 that Tyler arrives at the police station. That's according to the press conference that is given by Sheriff Nate Broxby.",
@@ -2960,7 +3044,9 @@
         "N-10031",
         "N-11129"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:30",
       "investigative_direction": "Retrieve Patel's statement on the 33rd hour and compute the interval from the shooting to booking.",
       "transcript_snippet": "Kash Patel will later say that. They're all saying in the 33rd hour.",
@@ -2985,7 +3071,9 @@
         "N-10568",
         "N-10031"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:39:16",
       "investigative_direction": "Review the French Athanor Lodge trial reporting and Neff's statement on 33 symbolism.",
       "transcript_snippet": "France, assassin squads tied to Freemasonry. So, we can stop pretending that that's a figment of anyone's imagination, least of all mine.",
@@ -3008,7 +3096,9 @@
         "N-10271",
         "N-10593"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:16",
       "investigative_direction": "File a records request for the sheriff's office lobby and sally-port footage for September 11 and ask for the retention log.",
       "transcript_snippet": "by the way the tape is apparently lost of when he arrived.",
@@ -3033,7 +3123,9 @@
         "N-10013",
         "N-10598"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:45",
       "investigative_direction": "Obtain the full search warrant affidavit and the photographs of the roommate's screen.",
       "transcript_snippet": "He opened it and showed several messages to investigators and allowed investigators to take photos of the screen as each message was shown by Robinson's roommate.",
@@ -3055,7 +3147,9 @@
       "related_nodes": [
         "N-10013"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:45",
       "investigative_direction": "Compare the affidavit's paraphrase with the full message thread released by the FBI.",
       "transcript_snippet": "stating a need to retrieve a rifle from a drop point, leaving the rifle in a bush, messages related to a to visually watching the area where a rifle was left, and a message referring to having left the rifle wrapped in a towel.",
@@ -3077,7 +3171,9 @@
       "related_nodes": [
         "N-10013"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:44",
       "investigative_direction": "Compare with the released text chain and with the bullet engraving evidence in the charging documents.",
       "transcript_snippet": "The messages also referred to engraving bullets and a mention of a scope and the rifle being unique.",
@@ -3100,7 +3196,9 @@
         "N-10595",
         "N-10679"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:24",
       "investigative_direction": "Review defense discovery motions and rulings in the Robinson docket.",
       "transcript_snippet": "They're in discovery. They're not getting what they're asking for and now the prosecution is explicitly saying",
@@ -3124,7 +3222,9 @@
         "N-10598",
         "N-10703"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:16",
       "investigative_direction": "This is the host's inference; a records request for any informant or cooperation agreement with Twiggs, or a court filing disclosing one, would test it.",
       "transcript_snippet": "Lance to me is very obviously a federal informant. He's working for and on behalf of the feds.",
@@ -3144,7 +3244,9 @@
       "related_nodes": [
         "N-10598"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:16",
       "investigative_direction": "Obtain booking and release records, or sheriff's statements on Twiggs's detention.",
       "transcript_snippet": "They said to me it was completely insane that Lance was not taken in for taken into custody. It was completely insane that he was basically there for a couple of hours",
@@ -3166,7 +3268,9 @@
       "related_nodes": [
         "N-10598"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:16",
       "investigative_direction": "Interview family members on the record and review property records for the townhome.",
       "transcript_snippet": "They own the house that Tyler Robinson and Lance live in and they are telling you that the relationship between Lance and the feds is unnatural.",
@@ -3190,7 +3294,9 @@
         "N-10598",
         "N-10679"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:23",
       "investigative_direction": "Check the preliminary hearing witness lists and public dockets for any testimony or statements from Twiggs.",
       "transcript_snippet": "Now their number one claim to we have evidence is Lance Twiggs but we don't know anything about Lance Twiggs. He seems to have just completely disappeared.",
@@ -3212,7 +3318,9 @@
       "related_nodes": [
         "N-10595"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:08",
       "investigative_direction": "Obtain the filing and check each listed item's disclosure date against the discovery log.",
       "transcript_snippet": "With the exception of a photograph of a burnt note which was provided on January 9th, doorbell surveillance from a single property, a DNA report regarding items found in the defendant's apartment and tool marks report",
@@ -3234,7 +3342,9 @@
       "related_nodes": [
         "N-10595"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:08",
       "investigative_direction": "Obtain the filing and the discovery log to confirm the October 2025 production date.",
       "transcript_snippet": "Most of the evidence to be presented at the preliminary hearing including the DNA report regarding the rifle found at the scene was provided to the defense in October of 2025.",
@@ -3253,7 +3363,9 @@
       "related_nodes": [
         "N-10628"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:51:06",
       "investigative_direction": "Check public court and medical-hold records, if any, and Loomer's own statements on the matter.",
       "transcript_snippet": "Laura Loomer who have has been forcibly placed on site 5150 holds as his number one or one advisor.",
@@ -3261,7 +3373,7 @@
         "N-3",
         "N-60",
         "N-5",
-        "N-788"
+        "N-787"
       ]
     },
     {
@@ -3274,7 +3386,9 @@
         "A-1952.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:54",
       "investigative_direction": "Retrieve the original Truth Social post.",
       "transcript_snippet": "\"I like his brother Louis much better than I like him.\" Oh, okay. Because Louis is all MAGA.",
@@ -3297,7 +3411,9 @@
         "A-1952.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:54:07",
       "investigative_direction": "Retrieve the original post for exact text.",
       "transcript_snippet": "If I wasn't in the White House, Leo wouldn't be in the Vatican.",
@@ -3318,14 +3434,16 @@
       "claim": "The host says Bishop Barron stood beside Paula White during the prayer for Trump and offered an excuse for why he was there, and says he should have made a statement afterward that the prayer was wrong.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:55:46",
       "investigative_direction": "Locate the event video and Bishop Barron's published explanation.",
       "transcript_snippet": "Bishop Barron standing beside Paula White during that prayer, and his excuse is why he was there.",
       "mentions_person_refs": [
         "N-3",
-        "N-828",
-        "N-788",
+        "N-827",
+        "N-787",
         "N-5"
       ]
     },
@@ -3339,7 +3457,9 @@
         "A-2960.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:58:29",
       "investigative_direction": "Obtain the press conference transcript and date.",
       "transcript_snippet": "I don't think he's doing a very good job. He likes crime, I guess.",
@@ -3359,7 +3479,9 @@
         "A-2960.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:59:24",
       "investigative_direction": "Obtain the press conference transcript.",
       "transcript_snippet": "He's a very liberal person. And he's a man that doesn't believe in stopping crime.",
@@ -3379,7 +3501,9 @@
         "A-2961.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:59:24",
       "investigative_direction": "Retrieve the original post and contemporaneous reactions from Protestant leaders.",
       "transcript_snippet": "he then dropped a picture of himself as Jesus Christ on top of that and got even backlash from the Protestants",
@@ -3401,7 +3525,9 @@
         "A-1954.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:01:34",
       "investigative_direction": "Trivially checkable against Trump's biography; no record of medical training is known.",
       "transcript_snippet": "it's not coming up for us that uh Trump was ever a doctor.",
@@ -3424,7 +3550,9 @@
         "N-10431",
         "N-10664"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:06:51",
       "investigative_direction": "The host would need to publish the attendee list or identify the person who asked the question; an Aspen retreat guest list is the confirming record.",
       "transcript_snippet": "I will get to the bottom of that. I know who was at that event now. I'm working on that.",
@@ -3443,7 +3571,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:07:36",
       "investigative_direction": "Gather the videos and emails the host cites and compare against recordings of the events.",
       "transcript_snippet": "they're faking the question and answer segment like they're pre-planned. I've seen people doing videos about that. We have received emails.",
@@ -3462,7 +3592,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:07:36",
       "investigative_direction": "Compare Charlie's stated positions with current Turning Point positions on specific issues.",
       "transcript_snippet": "they have reversed course on all of his perspectives and they continue to gaslight us about it.",

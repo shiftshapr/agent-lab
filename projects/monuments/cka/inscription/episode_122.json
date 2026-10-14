@@ -1012,8 +1012,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-831",
-      "ref": "N-831",
+      "@id": "N-830",
+      "ref": "N-830",
       "name": "David Sprag",
       "type": "person",
       "description": "First named by the host at 00:05:36 in episode 122 (David Sprag; later James Norman Rawlinson Jr., also spelled James Rawlinson, David L. Rawlinson and James Rolleston in the transcript). Man who stood and cheered after the shot and whom the host links to the Utah National Guard and the 19th Special Forces.",
@@ -1083,8 +1083,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-703",
-      "ref": "N-703",
+      "@id": "N-702",
+      "ref": "N-702",
       "name": "Curtis Kolvet",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1117,8 +1117,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-700",
-      "ref": "N-700",
+      "@id": "N-699",
+      "ref": "N-699",
       "name": "Philip Goldsberry Jr.",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1134,8 +1134,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-701",
-      "ref": "N-701",
+      "@id": "N-700",
+      "ref": "N-700",
       "name": "Dr. Philip Goldsberry",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1217,8 +1217,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-541",
-      "ref": "N-541",
+      "@id": "N-540",
+      "ref": "N-540",
       "name": "Jean-Luc Brunel",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1241,8 +1241,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-705",
-      "ref": "N-705",
+      "@id": "N-704",
+      "ref": "N-704",
       "name": "Virginia Giuffre",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1276,8 +1276,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-832",
-      "ref": "N-832",
+      "@id": "N-831",
+      "ref": "N-831",
       "name": "Arnaud Brunel",
       "type": "person",
       "description": "First named by the host at 00:19:15 in episode 122. Brother of Jean-Luc Brunel whom the host names as co-founder of a New York modeling agency.",
@@ -1294,8 +1294,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-582",
-      "ref": "N-582",
+      "@id": "N-581",
+      "ref": "N-581",
       "name": "Faith Kates",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1335,8 +1335,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-595",
-      "ref": "N-595",
+      "@id": "N-594",
+      "ref": "N-594",
       "name": "Mark Epstein",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1372,8 +1372,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-532",
-      "ref": "N-532",
+      "@id": "N-531",
+      "ref": "N-531",
       "name": "Rothschild Family",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1485,8 +1485,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-620",
-      "ref": "N-620",
+      "@id": "N-619",
+      "ref": "N-619",
       "name": "Graham Allen",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1666,8 +1666,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-744",
-      "ref": "N-744",
+      "@id": "N-743",
+      "ref": "N-743",
       "name": "Sarah Tool",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1722,8 +1722,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-833",
-      "ref": "N-833",
+      "@id": "N-832",
+      "ref": "N-832",
       "name": "Ehud Barak",
       "type": "person",
       "description": "First named by the host at 00:36:21 in episode 122. The host says he created Carbyne.",
@@ -1809,8 +1809,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-834",
-      "ref": "N-834",
+      "@id": "N-833",
+      "ref": "N-833",
       "name": "Nicole Rothchild",
       "type": "person",
       "description": "First named by the host at 00:38:54 in episode 122. The host says she is probably not Erika Kirk's blood cousin but was involved in real estate with that family.",
@@ -1845,8 +1845,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-569",
-      "ref": "N-569",
+      "@id": "N-568",
+      "ref": "N-568",
       "name": "Lynn Forester de Rothschild",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -2605,7 +2605,9 @@
         "N-10275",
         "N-10311"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:03",
       "investigative_direction": "Identify the maroon-shirted attendees from event footage and compare them with military rosters or unit assignments.",
       "transcript_snippet": "And it did look to me like our army regiments were organizing by color, but in plain clothes.",
@@ -2629,7 +2631,9 @@
       "related_nodes": [
         "N-10275"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:03",
       "investigative_direction": "Obtain the emails and verify the senders' service records and whether the practice they describe is documented doctrine.",
       "transcript_snippet": "when we do things overseas and we're being we're undercover, we do organize in that manner.",
@@ -2650,7 +2654,9 @@
       "related_nodes": [
         "N-10048"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:03",
       "investigative_direction": "Treat as a stated belief; test it against the maroon-shirt identifications and the Rawlinson service records.",
       "transcript_snippet": "And no one will ever convince me that the deep state did not organize Charlie Kirk's assassination after this.",
@@ -2669,7 +2675,9 @@
       "related_nodes": [
         "N-10311"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:03",
       "investigative_direction": "Compare audience age data from event footage, ticketing or UVU attendance counts with the host's impression.",
       "transcript_snippet": "there were way too many older people, not enough students.",
@@ -2688,7 +2696,9 @@
       "related_nodes": [
         "N-10275"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:03",
       "investigative_direction": "Review the host's folders of audience stills and test whether the hat and sock patterns are statistically unusual for a campus event.",
       "transcript_snippet": "there was a large presence of people that were wearing bright colored hats, not the ones that Charlie uh threw out",
@@ -2708,7 +2718,9 @@
         "N-10012",
         "N-10311"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:03:24",
       "investigative_direction": "Check Utah Valley University's official brand colors and any maroon campus apparel.",
       "transcript_snippet": "But nope, UVU's colors, it turns out, are green and white.",
@@ -2729,7 +2741,9 @@
       "related_nodes": [
         "N-10311"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:24",
       "investigative_direction": "Identify the footage supplier (unnamed in this episode) and corroborate the son's attire from the supplied footage.",
       "transcript_snippet": "this guy who gave us all the footage, I found him to be remarkably suspect, and his son was wearing a maroon shirt.",
@@ -2748,7 +2762,9 @@
         "N-10275",
         "N-10311"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:06",
       "investigative_direction": "Collect clear stills of each maroon-shirted man and compare them to the host's athletic-build observation; identify them independently.",
       "transcript_snippet": "the men that were alone, they had a particularly athletic build.",
@@ -2766,13 +2782,15 @@
       "related_nodes": [
         "N-10696"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:36",
       "investigative_direction": "Trace how the cheering clip was amplified (accounts, dates, reach) and whether amplification was organic.",
       "transcript_snippet": "To be frank, in retrospect, it registers to me as another major distraction point.",
       "mentions_person_refs": [
         "N-3",
-        "N-831"
+        "N-830"
       ]
     },
     {
@@ -2787,7 +2805,9 @@
       "related_nodes": [
         "N-10696"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:15",
       "investigative_direction": "Locate Sprag's interview and compare his explanation with the clip.",
       "transcript_snippet": "He came out, he did an interview clarifying that he wasn't cheering because Charlie was hurt.",
@@ -2796,7 +2816,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-831",
+        "N-830",
         "N-1"
       ]
     },
@@ -2812,7 +2832,9 @@
       "related_nodes": [
         "N-10696"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:15",
       "investigative_direction": "Identify the companion and compare Sprag's stated age with public records.",
       "transcript_snippet": "They who were emailing us saying you need to look into these umbrella boys.",
@@ -2821,7 +2843,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-831"
+        "N-830"
       ]
     },
     {
@@ -2836,13 +2858,15 @@
       "related_nodes": [
         "N-11193"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:09",
       "investigative_direction": "Obtain the court name-change record and compare it with the host's report.",
       "transcript_snippet": "We learned that his actual birth name is James Norman Rawlinson Jr.",
       "mentions_person_refs": [
         "N-3",
-        "N-831"
+        "N-830"
       ]
     },
     {
@@ -2857,13 +2881,15 @@
       "related_nodes": [
         "N-11193"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:09",
       "investigative_direction": "Retrieve the name-change petition and its filing date from the relevant court.",
       "transcript_snippet": "he claimed that he had legally changed his name uh recently because he wanted separation from his father.",
       "mentions_person_refs": [
         "N-3",
-        "N-831"
+        "N-830"
       ]
     },
     {
@@ -2878,13 +2904,15 @@
       "related_nodes": [
         "N-11193"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:07:09",
       "investigative_direction": "Search court and sex-offender registries for any matching record; the host reports she has found none.",
       "transcript_snippet": "he claimed that his father got in trouble for child abuse, for harming children.",
       "mentions_person_refs": [
         "N-3",
-        "N-831"
+        "N-830"
       ]
     },
     {
@@ -2899,13 +2927,15 @@
       "related_nodes": [
         "N-11193"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:07:09",
       "investigative_direction": "Search civil and military court records for the father; the host suggests an air base prosecution may not appear in ordinary searches.",
       "transcript_snippet": "I can't seem to find that anywhere registered.",
       "mentions_person_refs": [
         "N-3",
-        "N-831"
+        "N-830"
       ]
     },
     {
@@ -2918,13 +2948,15 @@
       "related_nodes": [
         "N-10697"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:38",
       "investigative_direction": "Request Rawlinson's service record (DD-214 or National Guard personnel file) to confirm enlistment and promotion dates.",
       "transcript_snippet": "he joined Army boot camp in 2011. He was promoted to a corporal and/or specialist at the beginning of 2014 for the Utah National Guard.",
       "mentions_person_refs": [
         "N-3",
-        "N-831"
+        "N-830"
       ]
     },
     {
@@ -2937,7 +2969,9 @@
       "related_nodes": [
         "N-10697"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:10:42",
       "investigative_direction": "Confirm the unit's headquarters and the distance from Camp Williams to the UVU venue.",
       "transcript_snippet": "Camp Williams is 20 minutes down the road from where Charlie was murdered.",
@@ -2956,7 +2990,9 @@
       "related_nodes": [
         "N-10697"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:30",
       "investigative_direction": "Verify Army qualification pathways for Special Forces candidates with a doctrine source; the host says she is unsure she has it right.",
       "transcript_snippet": "cannot be a green beret without having received the maroon beret certification.",
@@ -2975,7 +3011,9 @@
         "N-10697",
         "N-10401"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:30",
       "investigative_direction": "Check DoD and National Guard releases on 19th SFG rotations to Romania and their dates.",
       "transcript_snippet": "the US Army's 19th Special Forces Airborne uh routinely deploy of all places to Romania to conduct unconventional warfare.",
@@ -2993,7 +3031,9 @@
       "related_nodes": [
         "N-10697"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:22",
       "investigative_direction": "Obtain Nevada National Guard deployment orders or press releases for Lt. Col. Curtis Kolvet and the dates of his Romania service.",
       "transcript_snippet": "Curtis Colvett, Andrew Kolvet's brother, uh who was, I believe, Nevada National Guard, running the as a lieutenant colonel for the Nevada National Guard",
@@ -3001,9 +3041,9 @@
         "C-4693"
       ],
       "mentions_person_refs": [
-        "N-703",
+        "N-702",
         "N-14",
-        "N-831"
+        "N-830"
       ]
     },
     {
@@ -3017,13 +3057,15 @@
         "N-10697",
         "N-11193"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:17",
       "investigative_direction": "Obtain the host's message exchange with Rawlinson and Rawlinson's own statement on any Romania service.",
       "transcript_snippet": "I asked him five separate times if he had served overseas uh in Romania, whether his father had served overseas.",
       "mentions_person_refs": [
         "N-3",
-        "N-831"
+        "N-830"
       ]
     },
     {
@@ -3038,7 +3080,9 @@
       "related_nodes": [
         "N-10697"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:10",
       "investigative_direction": "Check whether National Guard soldiers wearing maroon berets were attached to Task Force 82 and what the unit's readiness standard is.",
       "transcript_snippet": "he would particularly have been a part of the 82nd Airborne Task Force 82, an elite rapidly deployable unit capable of deploying anywhere in the world in just 18 hours",
@@ -3047,7 +3091,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-831"
+        "N-830"
       ]
     },
     {
@@ -3061,7 +3105,9 @@
         "N-10275",
         "N-10311"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:00",
       "investigative_direction": "Request unit rosters, orders or authorizations for any military personnel present at UVU on September 10.",
       "transcript_snippet": "there were in fact military units that were in plain clothes that were organized by colors, by hats",
@@ -3083,7 +3129,9 @@
       "related_nodes": [
         "N-10401"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:00",
       "investigative_direction": "Pull FAA registration history and passenger records for the aircraft the host calls Plane 888.",
       "transcript_snippet": "we never got to learn who was aboard that plane, the plane that was previously registered in Romania",
@@ -3104,7 +3152,9 @@
       "related_nodes": [
         "N-10401"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:00",
       "investigative_direction": "Obtain Romanian Angels project records and any Marine or Black Sea Rotational Force documentation of cooperation.",
       "transcript_snippet": "Erika herself setting up a charity in Romania orphanages working with the military to do so, uh with the Marines on that very base",
@@ -3126,7 +3176,9 @@
       "related_nodes": [
         "N-10395"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:07",
       "investigative_direction": "Find the earlier Bowyer statements the host references (she says 'we showed you that') and verify his Romania residence dates.",
       "transcript_snippet": "Tyler Bowyer having lived in Romania, particularly partying with models.",
@@ -3145,7 +3197,9 @@
       "related_nodes": [
         "N-10401"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:07",
       "investigative_direction": "Obtain ministry filings and mission reports for Dr. Philip Goldsberry's Romania work.",
       "transcript_snippet": "We then learn his dad began a global ministry that worked with orphans in Romania, teaching them basic hygiene.",
@@ -3153,8 +3207,8 @@
         "C-4787"
       ],
       "mentions_person_refs": [
-        "N-700",
-        "N-701"
+        "N-699",
+        "N-700"
       ]
     },
     {
@@ -3167,7 +3221,9 @@
       "related_nodes": [
         "N-10401"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:58",
       "investigative_direction": "Run a country-frequency count on the released Epstein email corpus and review any Romania trafficking evidence.",
       "transcript_snippet": "Him having trafficked girls from Romania, a country that I think is named the most um in his emails.",
@@ -3186,7 +3242,9 @@
       "related_nodes": [
         "N-10871"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:58",
       "investigative_direction": "Identify the source (the host does not say) for Trump's displeasure and any Kirk statements on Epstein.",
       "transcript_snippet": "Even Trump being upset with Charlie wanting him to stop talking about Jeffrey Epstein.",
@@ -3205,12 +3263,14 @@
       "claim": "The host says Jean-Luc Brunel was arrested at Charles de Gaulle Airport in Paris in December 2020 on counts including rape and sexual assault of minors, human trafficking of minors and criminal association.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:46",
       "investigative_direction": "Check French judicial and press records for the date and charges of Brunel's arrest.",
       "transcript_snippet": "in December of 2020, Jean-Luc Brunel was arrested at the Charles de Gaulle Airport in Paris.",
       "mentions_person_refs": [
-        "N-541",
+        "N-540",
         "N-9",
         "N-3"
       ]
@@ -3223,15 +3283,17 @@
       "claim": "The host says that when Virginia Giuffre's case against Ghislaine Maxwell was unsealed, it showed she said Epstein bragged that he had slept with over 1,000 of Brunel's girls.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:46",
       "investigative_direction": "Locate the specific unsealed Giuffre v. Maxwell filing containing the 1,000-girls statement.",
       "transcript_snippet": "she said that Epstein had bragged that he had slept with over 1,000 of Brunel's girls",
       "mentions_person_refs": [
-        "N-705",
+        "N-704",
         "N-47",
         "N-9",
-        "N-541"
+        "N-540"
       ]
     },
     {
@@ -3242,12 +3304,14 @@
       "claim": "The host says that for Jeffrey Epstein's birthday, Jean-Luc Brunel flew out 12-year-old triplets from Paris to Epstein.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:46",
       "investigative_direction": "Locate the court or investigative document that describes the triplets allegation.",
       "transcript_snippet": "Jean-Luc Brunel flew out 12-year-old triplets from Paris to Epstein",
       "mentions_person_refs": [
-        "N-541",
+        "N-540",
         "N-9"
       ]
     },
@@ -3259,13 +3323,15 @@
       "claim": "The host says that in 2005 Jeffrey Epstein gave Jean-Luc Brunel the seed money to start the modeling agency MC2 in Paris.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:19:15",
       "investigative_direction": "Check financial records and court filings for Epstein's funding of MC2 Model Management.",
       "transcript_snippet": "in 2005, Jeffrey Epstein gave him the seed money for him to start the modeling agency MC2 in Paris",
       "mentions_person_refs": [
         "N-9",
-        "N-541"
+        "N-540"
       ]
     },
     {
@@ -3278,14 +3344,16 @@
       "related_nodes": [
         "N-10532"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:15",
       "investigative_direction": "Check New York corporate records and press for the founders of Next Model Management; Faith Kates is usually named as its founder.",
       "transcript_snippet": "He was actually the founder alongside his brother, Arnaud Brunel, of a modeling agency in New York City.",
       "mentions_person_refs": [
-        "N-541",
-        "N-832",
-        "N-582",
+        "N-540",
+        "N-831",
+        "N-581",
         "N-3"
       ]
     },
@@ -3299,14 +3367,16 @@
       "related_nodes": [
         "N-10532"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:08",
       "investigative_direction": "Obtain Next Model corporate formation records and ownership history.",
       "transcript_snippet": "Jean-Luc Brunel and his brother founded the Next Model Corporation. And from that spun the Next Model Management modeling agency.",
       "mentions_person_refs": [
-        "N-541",
-        "N-832",
-        "N-582"
+        "N-540",
+        "N-831",
+        "N-581"
       ]
     },
     {
@@ -3319,13 +3389,15 @@
       "related_nodes": [
         "N-10532"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:08",
       "investigative_direction": "Review court filings and property records identifying the apartments and their owners.",
       "transcript_snippet": "underage um foreign models that who were recruited from MC2 were being housed in apartments that were owned by Jeffrey Epstein and Jeffrey Epstein's brother.",
       "mentions_person_refs": [
         "N-9",
-        "N-595"
+        "N-594"
       ]
     },
     {
@@ -3338,12 +3410,14 @@
       "related_nodes": [
         "N-10532"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:08",
       "investigative_direction": "Pull New York property records for Mark Epstein's Upper East Side holdings and compare with the building the host's sources describe.",
       "transcript_snippet": "we discovered that Mark Epstein owned just such a building.",
       "mentions_person_refs": [
-        "N-595",
+        "N-594",
         "N-2",
         "N-3"
       ]
@@ -3361,7 +3435,9 @@
         "N-11194",
         "N-10532"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:31",
       "investigative_direction": "Identify the docket, court and filing date of the class action and confirm the defendants.",
       "transcript_snippet": "there is a a current class action lawsuit that's making its way through the court system right now against Next Model Management.",
@@ -3381,7 +3457,9 @@
       "related_nodes": [
         "N-11194"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:31",
       "investigative_direction": "Read the class action complaint for the specific pay-deduction allegations and percentages.",
       "transcript_snippet": "paychecks deducted up to 70%, which kept them dependent as underaged workers",
@@ -3402,7 +3480,9 @@
         "N-11194",
         "N-10532"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:19",
       "investigative_direction": "Compare the complaint's covered period with any documentation of Erika Kirk's dates at Next.",
       "transcript_snippet": "It also covers the time in which Erika was allegedly working with the firm.",
@@ -3410,8 +3490,8 @@
         "C-4729"
       ],
       "mentions_person_refs": [
-        "N-541",
-        "N-582",
+        "N-540",
+        "N-581",
         "N-2",
         "N-3"
       ]
@@ -3424,12 +3504,14 @@
       "claim": "The host says Jean-Luc Brunel's model agency still operates in Tel Aviv.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:08",
       "investigative_direction": "Check whether an MC2 or Brunel-linked agency is registered or operating in Tel Aviv.",
       "transcript_snippet": "Jean-Luc Brunel's model agency, by the way, I should mention, still operates in Tel Aviv, by the way.",
       "mentions_person_refs": [
-        "N-541",
+        "N-540",
         "N-3"
       ]
     },
@@ -3441,12 +3523,14 @@
       "claim": "The host says the Rothschilds were Jeffrey Epstein's employers and that they take pride in having created the modern state of Israel.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:08",
       "investigative_direction": "Identify the documentary basis (the host cites none here) for the Rothschild employment of Epstein.",
       "transcript_snippet": "The Rothschilds being Jeffrey Epstein's employers.",
       "mentions_person_refs": [
-        "N-532",
+        "N-531",
         "N-9",
         "N-3"
       ]
@@ -3459,7 +3543,9 @@
       "claim": "The host says she is now firm that she does not believe Charlie Kirk's relationship with Erika Kirk was ever real.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:08",
       "investigative_direction": "Treat as stated belief; test against the Erika Kirk and Charlie Kirk timeline of meeting, courtship and marriage records.",
       "transcript_snippet": "I do not believe, and I want to be clear here, that his relationship with Erika Kirk was ever real.",
@@ -3483,7 +3569,9 @@
         "N-10978",
         "N-10015"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:08",
       "investigative_direction": "Locate the 60 Minutes segment and verify the speakers' identities and the Gold Apollo statements.",
       "transcript_snippet": "Gold Apollo had zero clue that they are working with the Mossad.",
@@ -3507,7 +3595,9 @@
       "related_nodes": [
         "N-10704"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:08",
       "investigative_direction": "List the people who entered Kirk's circle and when, and test the infiltration theory against employment and donor records.",
       "transcript_snippet": "he had no idea that he was living the Truman Show.",
@@ -3529,7 +3619,9 @@
       "related_nodes": [
         "N-10704"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:26:07",
       "investigative_direction": "The host provides no document for this link; seek evidence of any Israeli-directed role in the events.",
       "transcript_snippet": "A script that runs back to Tel Aviv.",
@@ -3549,7 +3641,9 @@
         "N-10888",
         "N-11195"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:07",
       "investigative_direction": "Seek contracts, task orders or payments tying DoD funds to creators of content about the host.",
       "transcript_snippet": "they are deploying people and have been steady deploying people full-time in an information war against me. That's our Department of War that's behind that.",
@@ -3568,12 +3662,14 @@
         "N-10888",
         "N-11195"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:07",
       "investigative_direction": "Request Department of War personnel or consulting records for Graham Allen and his dates of service.",
       "transcript_snippet": "His official title was senior consultant to the Department of War.",
       "mentions_person_refs": [
-        "N-620",
+        "N-619",
         "N-1",
         "N-3"
       ]
@@ -3589,12 +3685,14 @@
         "N-10000",
         "N-11195"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:07",
       "investigative_direction": "Ask TPUSA and Allen to confirm or deny any relocation or engagement; look for contracts or payroll records.",
       "transcript_snippet": "Now, he's allegedly moved to Arizona to full-time assist Turning Point USA in their information war regarding Charlie's assassination.",
       "mentions_person_refs": [
-        "N-620",
+        "N-619",
         "N-3"
       ]
     },
@@ -3609,7 +3707,9 @@
         "N-10888",
         "N-10923"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:07",
       "investigative_direction": "Obtain the email through the pending FOIA requests and confirm its origin and wording.",
       "transcript_snippet": "Department of War being the same department which referred to Erika as their emotional assets mysteriously on the night of the White House Correspondents Dinner shooting",
@@ -3633,7 +3733,9 @@
         "N-10937",
         "N-10888"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:07",
       "investigative_direction": "Check USAspending or DoD disbursement records for the payments to the Paramount Tactical entity.",
       "transcript_snippet": "the same department which we've discovered paid Paramount not so tactical another full-time trying to dilute the masses a former Green Beret",
@@ -3654,7 +3756,9 @@
       "related_nodes": [
         "N-10888"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:33",
       "investigative_direction": "Treat as the host's conclusion; identify the specific evidence of military participation she relies on.",
       "transcript_snippet": "Charlie was killed in a military operation that part seems very evident to me.",
@@ -3673,7 +3777,9 @@
       "related_nodes": [
         "N-10110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:33",
       "investigative_direction": "Compare against the prosecution's evidence summary and defense filings.",
       "transcript_snippet": "Everyone knows that Tyler Robinson didn't do it.",
@@ -3692,7 +3798,9 @@
       "related_nodes": [
         "N-10048"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:27",
       "investigative_direction": "Identify the documentary basis for a trafficking-ring motive; the host offers the Next Model and Epstein links as support.",
       "transcript_snippet": "We think Charlie Kirk was taken out because a global trafficking ring had to be protected.",
@@ -3711,7 +3819,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:27",
       "investigative_direction": "Find the original Kirk statement (date, venue, recording) to confirm the wording.",
       "transcript_snippet": "He said that he was going to die young. It would be tied to Turning Point USA, but also it would save the world.",
@@ -3732,7 +3842,9 @@
       "related_nodes": [
         "N-10699"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:32",
       "investigative_direction": "Retrieve both Harpole podcast appearances and compare the exact words with Turek's.",
       "transcript_snippet": "Brian has twice gone onto podcasts and explained that they never conducted CPR because they were so focused on the wound.",
@@ -3758,7 +3870,9 @@
         "N-10699",
         "N-10687"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:32",
       "investigative_direction": "List each Turek appearance and the CPR wording used in each.",
       "transcript_snippet": "Frank Turek has now gone on multiple shows and claimed that he did do CPR.",
@@ -3782,7 +3896,9 @@
       "related_nodes": [
         "N-10737"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:32",
       "investigative_direction": "Obtain a vehicle interior diagram and witness descriptions of Kirk's position during the drive.",
       "transcript_snippet": "I'm inclined to believe that Frank Turek is lying because of the way Charlie was in the car.",
@@ -3802,7 +3918,9 @@
       "related_nodes": [
         "N-10737"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:29",
       "investigative_direction": "Compare the host's 6-minute ride figure with the 8-minute figure used in other episodes and with the vehicle GPS or dispatch logs.",
       "transcript_snippet": "Brian Harpole would not forget getting Charlie within a 6-minute ride down in a car into a CPR position",
@@ -3822,7 +3940,9 @@
       "related_nodes": [
         "N-10737"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:29",
       "investigative_direction": "Measure the interior of the same model SUV with a person of Kirk's height and test the host's claim.",
       "transcript_snippet": "There's just just no way in that cramped car could CPR have been conducted.",
@@ -3839,7 +3959,9 @@
       "claim": "The host says Frank Turek is supposed to be a pastor but has a military background, which she says gives psychological-operations vibes.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:29",
       "investigative_direction": "Check Turek's public biography for any military service; the host provides no document.",
       "transcript_snippet": "You're supposed to be a pastor, but of course you have a military background.",
@@ -3859,7 +3981,9 @@
         "N-10888",
         "N-10923"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:29",
       "investigative_direction": "Track the FOIA outcome and any authenticated copy of the email.",
       "transcript_snippet": "That email we shared with you was real.",
@@ -3881,7 +4005,9 @@
         "N-10888",
         "N-10032"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:29",
       "investigative_direction": "Obtain the email and any DoD media-amplification tasking that names these witnesses.",
       "transcript_snippet": "who I now know it's plausible were being artificially inflated by our Department of War.",
@@ -3899,7 +4025,9 @@
       "related_nodes": [
         "N-10677"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:29",
       "investigative_direction": "Transcribe all of Sarah Tool's interviews and compare the wording of each account.",
       "transcript_snippet": "the young woman that we showed you who changed her story three times, definitively saw him get hit in the chest",
@@ -3908,7 +4036,7 @@
         "C-2937"
       ],
       "mentions_person_refs": [
-        "N-744",
+        "N-743",
         "N-1",
         "N-3"
       ]
@@ -3923,12 +4051,14 @@
       "related_nodes": [
         "N-11196"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:21",
       "investigative_direction": "Identify the family, the company and its Utah dispatch contracts from business filings and county contracts.",
       "transcript_snippet": "The family she married into, yes, it is correct, controlled all of the dispatching services for the emergency dispatching services",
       "mentions_person_refs": [
-        "N-744",
+        "N-743",
         "N-3"
       ]
     },
@@ -3943,13 +4073,15 @@
         "N-11196",
         "N-11197"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:21",
       "investigative_direction": "Verify Carbyne's founders and any partnership or contract with the dispatch company the host means.",
       "transcript_snippet": "of course in partnership with Israel with Carbyne created by Ehud Barak",
       "mentions_person_refs": [
-        "N-744",
-        "N-833",
+        "N-743",
+        "N-832",
         "N-3"
       ]
     },
@@ -3963,13 +4095,15 @@
       "related_nodes": [
         "N-10677"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:21",
       "investigative_direction": "Build the promised witness tree with each witness's affiliations sourced.",
       "transcript_snippet": "Is there anybody in the witness tree who's just like, \"Yeah, I'm a student and I'm not connected and I saw this.\" It doesn't doesn't appear to be that way.",
       "mentions_person_refs": [
         "N-3",
-        "N-744"
+        "N-743"
       ]
     },
     {
@@ -3984,7 +4118,9 @@
       "related_nodes": [
         "N-10698"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:01",
       "investigative_direction": "Count and triage the tips received on Erika Kirk and Next Model Management.",
       "transcript_snippet": "you can email us at moretips@candaceowens. com, you can email us at tips@candaceowens. com.",
@@ -4004,7 +4140,9 @@
         "N-10698",
         "N-10501"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:01",
       "investigative_direction": "Obtain the named sources' statements and any documents (leases, payments) tying Erika Kirk to the apartments.",
       "transcript_snippet": "I think there is now enough compelling evidence to suggest that this is what she was doing.",
@@ -4028,7 +4166,9 @@
         "N-10698",
         "N-10501"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:01",
       "investigative_direction": "Compare the sources' dates with the New York licensing record for Erika Kirk.",
       "transcript_snippet": "the people are telling me that she was doing this before she was licensed. Their timeline predates her getting licensed.",
@@ -4048,7 +4188,9 @@
         "N-10501",
         "N-10526"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:01",
       "investigative_direction": "Check New York Department of State licensing records and Erika Kirk and Charlie Kirk's first-meeting date; the host herself is unsure of the year.",
       "transcript_snippet": "I believe she was licensed in 2019 the same month that she met Charlie.",
@@ -4069,12 +4211,14 @@
       "related_nodes": [
         "N-10520"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:54",
       "investigative_direction": "Identify Nicole Rothchild, her relation to Erika Kirk and any shared real estate ventures.",
       "transcript_snippet": "it doesn't actually seem like Nicole Rothchild is her blood cousin but she certainly was involved in real estate with that family.",
       "mentions_person_refs": [
-        "N-834",
+        "N-833",
         "N-2",
         "N-3"
       ]
@@ -4090,13 +4234,15 @@
         "N-10502",
         "N-10523"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:54",
       "investigative_direction": "Re-check the Epstein email for Lynn de Rothschild's role at Corcoran; earlier episodes described her as president rather than founder.",
       "transcript_snippet": "the Corcoran group which we had already showed you established according to Jeffrey Epstein's emails by Lynn de Rothschild.",
       "mentions_person_refs": [
         "N-2",
-        "N-569",
+        "N-568",
         "N-9",
         "N-3"
       ]
@@ -4112,7 +4258,9 @@
         "N-10502",
         "N-10520"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:40",
       "investigative_direction": "Search Corcoran and MLS listing histories for any listing agent named Erika Frantzve or Kirk.",
       "transcript_snippet": "we only ever confined two listings that have ever gone up under Erika Foxface.",
@@ -4135,7 +4283,9 @@
         "N-10502",
         "N-10520"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:40",
       "investigative_direction": "Ask Corcoran about its hiring requirements for new agents in 2018 to 2019.",
       "transcript_snippet": "when you just become an agent you wouldn't be able to work for Corcoran.",
@@ -4152,7 +4302,9 @@
       "claim": "The host says Erika's mother is working with the CIA, involved in tech, and that Erika is lying about her resume.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:40",
       "investigative_direction": "The host gives no document; seek employment records for Erika Kirk's mother and compare Erika's stated resume with verifiable history.",
       "transcript_snippet": "Mom's working with the CIA involved in tech. She's lying about her resume.",
@@ -4171,7 +4323,9 @@
       "related_nodes": [
         "N-10015"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:39:40",
       "investigative_direction": "Find the interviews in the host's Epstein series that make this statement and corroborate with outside reporting.",
       "transcript_snippet": "that he was brought in to get involved with weapons trafficking, the Iran-Contra scandal, brought in by Ghislaine Maxwell's father, um Robert Maxwell.",
@@ -4192,7 +4346,9 @@
       "related_nodes": [
         "N-10401"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:38",
       "investigative_direction": "Review Epstein case records on recruitment pipelines from Eastern Europe.",
       "transcript_snippet": "he entered the world of blackmail and trafficking young women from the Eastern Corridor and modeling.",
@@ -4211,7 +4367,9 @@
       "related_nodes": [
         "N-10988"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:38",
       "investigative_direction": "Confirm Trump's ownership history of Miss Universe-related pageants and any modeling agency ties.",
       "transcript_snippet": "Trump also is involved in the modeling world via the pageant world.",
@@ -4230,7 +4388,9 @@
       "related_nodes": [
         "N-10871"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:38",
       "investigative_direction": "Obtain White House schedule and reporting on the Situation Room meeting about Epstein.",
       "transcript_snippet": "Why they were suddenly in the situation room trying to figure out how to deal with the Epstein scandal.",
@@ -4251,7 +4411,9 @@
         "N-10923",
         "N-10700"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:11",
       "investigative_direction": "Check the NSA FOIA portal response and the Department of War follow-up.",
       "transcript_snippet": "we have one out to the NSA regarding that Erika emotional asset email.",
@@ -4273,7 +4435,9 @@
       "related_nodes": [
         "N-10700"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:11",
       "investigative_direction": "Track the DHS, Secret Service and EOP FOIA responses for Erika Kirk's visit dates.",
       "transcript_snippet": "every time you go into the White House, you have to basically be given a link to fill out your information and be waved in",
@@ -4292,7 +4456,9 @@
       "related_nodes": [
         "N-10929"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:11",
       "investigative_direction": "Review the Air Force Academy Board of Visitors appointment record and member qualifications.",
       "transcript_snippet": "why Erika was put on that board, which she's not qualified for, the Air Force board.",
@@ -4312,7 +4478,9 @@
       "claim": "The host says she knows for a fact that Erika Kirk has made personal phone calls trying to stop events at which the host is appearing, referring to her and others as the 'woke right'.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:06",
       "investigative_direction": "Ask the venues and organizers the host has appeared at whether they received calls from Erika Kirk.",
       "transcript_snippet": "I know for a fact that she has made personal phone calls um trying to effectively stop events that I'm at",
@@ -4332,7 +4500,9 @@
         "N-10971",
         "N-10700"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:06",
       "investigative_direction": "Check the FBI FOIA queue status for the request and any later release.",
       "transcript_snippet": "Um and we have not yet received a response.",
@@ -4357,7 +4527,9 @@
         "N-10700",
         "N-10888"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:23",
       "investigative_direction": "Obtain the FOIA correspondence showing the denial and queue position.",
       "transcript_snippet": "Moved to the back of the queue, right? We're number 3 534. Is that legal?",
@@ -4381,7 +4553,9 @@
         "N-10276",
         "N-10700"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:23",
       "investigative_direction": "Match FAA/ADS-B data for the FBI plane with the Egyptian aircraft times and landing locations.",
       "transcript_snippet": "it landed at the same time um as our Egyptian planes in Nebraska in the lead-up to this.",
@@ -4403,7 +4577,9 @@
         "N-10701",
         "N-10324"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:23",
       "investigative_direction": "Track the Secret Service and DHS visitor-log FOIA responses for the date.",
       "transcript_snippet": "Um we are also asking the Secret Service and the DHS for Andrew Kolbenschlag's White House meeting that we told you about",
@@ -4426,7 +4602,9 @@
         "N-10324",
         "N-10701"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:23",
       "investigative_direction": "Pin the exact date of the Charlie Kirk Show episode and the Epstein files release.",
       "transcript_snippet": "And then sure enough the next day the Epstein files get dropped.",
@@ -4446,7 +4624,9 @@
       "related_nodes": [
         "N-10701"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:46:13",
       "investigative_direction": "Check EEOB office assignments and visitor logs for the date.",
       "transcript_snippet": "Susie Wiles, I believe, has an office down that way. Um J. D. Vance has an office down that way.",
@@ -4467,7 +4647,9 @@
       "related_nodes": [
         "N-10290"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:09",
       "investigative_direction": "Ask French and US authorities whether Legion personnel were in Utah on September 10.",
       "transcript_snippet": "I have always said also that the French Foreign Legion was there on the ground that day. This has never been disputed by any authority.",
@@ -4489,7 +4671,9 @@
         "N-10290",
         "N-10401"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:09",
       "investigative_direction": "Check Foreign Legion deployments to Mihail Kogalniceanu air base.",
       "transcript_snippet": "has been at various times based in Romania on that very base",
@@ -4508,7 +4692,9 @@
         "N-10311",
         "N-10275"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:09",
       "investigative_direction": "Seek identifications of the maroon-shirted men and compare to name-change or alias records.",
       "transcript_snippet": "I believe all of these people were using fake names.",
@@ -4526,7 +4712,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:09",
       "investigative_direction": "Compare TPUSA's recent hires with public military and NATO affiliations.",
       "transcript_snippet": "people who were on Turning Point USA's team who were recently hired as they were boiling that frog could also be potentially working for the United States military or working for NATO",
@@ -4544,7 +4732,9 @@
       "related_nodes": [
         "N-10290"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:13",
       "investigative_direction": "Check Foreign Legion anonymat rules and whether US military programs provide cover identities.",
       "transcript_snippet": "that is a facet of being in the French Foreign Legion is that you get a new identity.",
@@ -4564,7 +4754,9 @@
       "related_nodes": [
         "N-10696"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:13",
       "investigative_direction": "Collect and triage the identifications submitted for the maroon-shirted men.",
       "transcript_snippet": "please email us at moretips@candaceowens. com at and also tips at candaceowens. com.",
@@ -4582,7 +4774,9 @@
       "related_nodes": [
         "N-10107"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:00",
       "investigative_direction": "Obtain FBI arrival logs and the UVU incident timeline to test the 'too early' claim.",
       "transcript_snippet": "you'd be arresting FBI agents. Who were there way too early, by the way.",
@@ -4600,7 +4794,9 @@
       "related_nodes": [
         "N-10897"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:00",
       "investigative_direction": "Collect Erika Kirk's public replies to Project Constitution and any response to the host's inquiries.",
       "transcript_snippet": "She'll always reply when Project Constitution gets something wrong, but something this serious and this heavy, she stays quiet about.",
@@ -4622,7 +4818,9 @@
       "related_nodes": [
         "N-10239"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:40",
       "investigative_direction": "Check defense discovery requests and FBI evidence logs for Timpanogos hospital footage.",
       "transcript_snippet": "we would be able to request anything inside because Kash Patel has those tapes.",
@@ -4645,7 +4843,9 @@
       "related_nodes": [
         "N-10768"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:37",
       "investigative_direction": "Read the autopsy report for chest findings and ask the hospital whether defibrillation was attempted.",
       "transcript_snippet": "I wonder also if that part of him saying that was to prepare us for bruising that we're going to learn was on Charlie's chest in the autopsy.",
@@ -4665,7 +4865,9 @@
       "related_nodes": [
         "N-10888"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:55:38",
       "investigative_direction": "Treat as the host's stated opinion; seek documents showing the military's role in the event.",
       "transcript_snippet": "Because I think that they had everything to do with what happened on September 10th.",
@@ -4687,7 +4889,9 @@
         "N-10230",
         "N-10768"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:56:38",
       "investigative_direction": "Examine autopsy photos and the pendant's condition for any injury tied to it.",
       "transcript_snippet": "That the St. Michael pendant could have caused an injury that allowed us to know that something happened um and they were lying about it.",
@@ -4706,7 +4910,9 @@
       "related_nodes": [
         "N-11011"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:57:38",
       "investigative_direction": "Clarify which president the host means and any public statement supporting Macron's lawsuit.",
       "transcript_snippet": "You have a president that wants me to be bankrupted by Brigitte Macron who harmed a child.",
@@ -4727,7 +4933,9 @@
       "related_nodes": [
         "N-10663"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:58:37",
       "investigative_direction": "Treat as an unverified viewer comment; seek credentialed emergency physicians' assessments.",
       "transcript_snippet": "I've been an ER nurse for over 20 years and the tale told by Brian Harpole is patently ridiculous. It did not happen.",
@@ -4749,7 +4957,9 @@
         "N-10168",
         "N-10598"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:00:41",
       "investigative_direction": "Request FBI and prosecution records about Twiggs's interviews and any protection arrangements.",
       "transcript_snippet": "And Lance Twiggs is being protected. I believe it was Lance Twiggs that was walking in the video.",
@@ -4771,7 +4981,9 @@
       "related_nodes": [
         "N-10703"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:00:41",
       "investigative_direction": "Check the living arrangement and access to Robinson's rifle or belongings in discovery.",
       "transcript_snippet": "He would have been able to access all of his roommates' stuff.",
@@ -4794,7 +5006,9 @@
       "related_nodes": [
         "N-10061"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:01:34",
       "investigative_direction": "Review the Church Committee report and archives on Operation Mockingbird.",
       "transcript_snippet": "Pentagon getting involved in the media. Operation Mockingbird. That was when they first did it.",
@@ -4810,7 +5024,9 @@
       "claim": "The host says there are occult elements in the assassination, which she says she covered, and that she believes everything about what happened to him was occult.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:02:26",
       "investigative_direction": "Recorded as the host's belief; no checkable document is offered in this segment.",
       "transcript_snippet": "I believe everything about what happened to him was occult.",
@@ -4829,7 +5045,9 @@
       "related_nodes": [
         "N-10768"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:05:30",
       "investigative_direction": "Await autopsy and forensic evidence on the cause of death and any explosive residue.",
       "transcript_snippet": "Given what I've learned about the explosive, I do believe he was taken out by an explosive",
@@ -4849,7 +5067,9 @@
         "N-10740",
         "N-10737"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:05:30",
       "investigative_direction": "Inventory SUV contents and compare to witness descriptions of care provided.",
       "transcript_snippet": "I also don't think he was given the medical care in the car that they are all pretending that he was given, either.",
@@ -4869,7 +5089,9 @@
         "N-10691",
         "N-11053"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:05:30",
       "investigative_direction": "Ask Utah County officials who released the microphone and other items to Erika Kirk, and when.",
       "transcript_snippet": "that tip we received about only a district attorney would have been able to release those sorts of things like the microphone",

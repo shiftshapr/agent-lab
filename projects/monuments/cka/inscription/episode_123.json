@@ -903,8 +903,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-620",
-      "ref": "N-620",
+      "@id": "N-619",
+      "ref": "N-619",
       "name": "Graham Allen",
       "type": "person",
       "description": "Named by the host among those she says tried to delude the public.",
@@ -920,8 +920,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-696",
-      "ref": "N-696",
+      "@id": "N-695",
+      "ref": "N-695",
       "name": "Jon Bray",
       "type": "person",
       "description": "Source of the microphone-rigging theory and glass photos; transcript spells John Bray.",
@@ -1568,7 +1568,9 @@
       "claim": "The host says Baron Coleman convinced her the evidence had to be shared before the show went away for two weeks.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Ask the host's team or Coleman to describe the call and why the timing was disputed.",
       "transcript_snippet": "I spoke with Baron Coleman yesterday evening and he convinced me that some evidence that he knew that I had positively needed to be shared before we went away for 2 weeks.",
@@ -1585,7 +1587,9 @@
       "claim": "The host says her team has had information that it intentionally did not release early and sat on, as a strategy.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:20",
       "investigative_direction": "Ask the host which items were withheld and on what dates they were received.",
       "transcript_snippet": "we have had information that we have intentionally not released early that we have sat on",
@@ -1607,7 +1611,9 @@
         "N-10000",
         "N-10699"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:20",
       "investigative_direction": "List the specific statements by Harpole and Turek the host says are false and the records that would refute them.",
       "transcript_snippet": "just because Frank Turk tells a lie, does not mean that every single person at Turning Point USA is implicated",
@@ -1627,7 +1633,9 @@
       "related_nodes": [
         "N-10699"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:43",
       "investigative_direction": "Compare the transcripts of Turek's and Harpole's interviews point by point on duration, CPR and who did what in the vehicle.",
       "transcript_snippet": "People like Frank Turk, his car ride, which is told differently than it is by Brian Harpole",
@@ -1644,7 +1652,9 @@
       "claim": "The host says she unequivocally does not believe Tyler Robinson was on campus on top of the Losee Center firing a shot at Charlie Kirk's neck.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:27",
       "investigative_direction": "Test against the prosecution's rooftop evidence, forensic reports and any footage placing Robinson on the roof.",
       "transcript_snippet": "I do not believe that he was on campus on top of Loi Center firing a shot at Charlie Kirk's neck. I can say that unequivocally.",
@@ -1667,7 +1677,9 @@
       "related_nodes": [
         "N-10051"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:27",
       "investigative_direction": "Check the Dairy Queen photo, receipts, and the recovered clothing and chain of custody in the prosecution file.",
       "transcript_snippet": "Certainly believe he did pick up clothes and bury them at Dairy Queen.",
@@ -1688,12 +1700,14 @@
         "N-10987",
         "N-10705"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:27",
       "investigative_direction": "Obtain John Bray's written analysis and the source photos he supplied.",
       "transcript_snippet": "He was convinced from the very beginning, John Bray, that Charlie's microphone was rigged beneath him and that it subsequently shattered.",
       "mentions_person_refs": [
-        "N-696",
+        "N-695",
         "N-1"
       ]
     },
@@ -1705,7 +1719,9 @@
       "claim": "The host says her team had the car photos and was working on them in the background but had not released all of them, in order to see how audacious people would be.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:27",
       "investigative_direction": "Establish when the host received the full photo set and from whom.",
       "transcript_snippet": "We obviously had those car pics, had been working on that in the background, but what we did not do um was release all of the car photos.",
@@ -1727,7 +1743,9 @@
         "N-10369",
         "N-10678"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:26",
       "investigative_direction": "Identify who offered the sunglasses and blood-drops explanations and in what posts or broadcasts.",
       "transcript_snippet": "That's not the road microphone. That's something else. It's a pair of sunglasses and lie they did.",
@@ -1748,7 +1766,9 @@
       "related_nodes": [
         "N-10705"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:16",
       "investigative_direction": "Review every public statement by Turek, Harpole and TPUSA for any mention of the shirt being lifted or cut in the car.",
       "transcript_snippet": "Nobody's story told anything about even lifting Charlie's shirt.",
@@ -1769,7 +1789,9 @@
         "A-2110.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:11",
       "investigative_direction": "Compare seating positions from Harpole and Turek accounts and test the bag for blood sources.",
       "transcript_snippet": "I think it's likely given where Frank Turk was sitting that that is him.",
@@ -1790,7 +1812,9 @@
       "related_nodes": [
         "N-10074"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:11",
       "investigative_direction": "Identify the interview's publisher and date and confirm the timing against Charlie's September 10 itinerary.",
       "transcript_snippet": "he went to Salt Lake City and he give gave an interview to restauranttology I think was the name of the company uh before he drove to Provo for this event.",
@@ -1808,7 +1832,9 @@
       "related_nodes": [
         "N-10707"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:01",
       "investigative_direction": "Trace the t-shirt through the hospital, the vehicle and evidence logs; compare with Harpole's claim he cut the shirt off at the hospital.",
       "transcript_snippet": "Obviously, he was in a t-shirt that stayed in the car.",
@@ -1827,7 +1853,9 @@
         "N-10688",
         "N-10706"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:01",
       "investigative_direction": "Locate the Turek statement about changing clothes and compare with the jacket's return to Erika's apartment.",
       "transcript_snippet": "the story that Frank Turk tells us is he changed in part because he didn't want Erika to see him bloodied.",
@@ -1848,7 +1876,9 @@
       "related_nodes": [
         "N-10705"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:58",
       "investigative_direction": "Obtain full-resolution originals and have a forensic examiner map the glass distribution.",
       "transcript_snippet": "there is tempered shattered glass with white bits all over the center of this car and into the back seat",
@@ -1866,7 +1896,9 @@
       "related_nodes": [
         "N-10686"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:06",
       "investigative_direction": "Reconstruct the route and timing from 911, dispatch and hospital arrival records.",
       "transcript_snippet": "They had about 6 minutes on the clock weaving through traffic at 40, 60, 100 miles per an hour for a ride that Google Map says is 8 minutes away.",
@@ -1891,7 +1923,9 @@
       "related_nodes": [
         "N-10714"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:02",
       "investigative_direction": "Obtain higher-resolution images and a forensic read of the bags and the separate piece.",
       "transcript_snippet": "the two bags, the Uber bags are are together um and on the other side and not that drenched."
@@ -1908,7 +1942,9 @@
       "related_nodes": [
         "N-10707"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:12:02",
       "investigative_direction": "Enhance the image and compare against known items, including the missing shirt.",
       "transcript_snippet": "somebody literally just said that to us in our marketing department. Said that looks like a shirt."
@@ -1923,7 +1959,9 @@
       "related_nodes": [
         "N-10714"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:02",
       "investigative_direction": "Review footage of Cutler entering the vehicle for what he carried.",
       "transcript_snippet": "I did remember that Rick Cutler had something on his back when he was running in there",
@@ -1941,7 +1979,9 @@
         "A-2856.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:12:02",
       "investigative_direction": "Identify the item's brand and dimensions from higher-resolution images.",
       "transcript_snippet": "Skylar is saying is that it could be a a pulse for what' you say for O2."
@@ -1959,7 +1999,9 @@
         "N-10899",
         "N-10862"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:10",
       "investigative_direction": "Locate the exact Harpole statement in the Paramount Tactical and Shawn Ryan interviews.",
       "transcript_snippet": "He did say I believe in the Paramount Tactical interview or maybe actually it was in the Shawn Ryan interview that he had that stuff but it wasn't relevant to what he was doing.",
@@ -1980,7 +2022,9 @@
       "related_nodes": [
         "N-10768"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:12",
       "investigative_direction": "Obtain an independent explosives or ordnance expert opinion on the piece and the foil.",
       "transcript_snippet": "I'm assuming you're referring to that little cardboard piece that it could be a part of the shape charge but as you guys know I don't know anything about that stuff",
@@ -1998,7 +2042,9 @@
       "related_nodes": [
         "N-10688"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:12",
       "investigative_direction": "Compare with Turek's CPR claims, Harpole's shirt-cutting claim and hospital records.",
       "transcript_snippet": "I had whipped up a scenario where rather than providing CPR they may have uh Frank may have been doing which got blood in his hands was trying to get Charlie's shirt off of him",
@@ -2020,7 +2066,9 @@
       "related_nodes": [
         "N-10686"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:12",
       "investigative_direction": "Establish where the shirt was removed using hospital intake records and the Harpole and Turek accounts.",
       "transcript_snippet": "I do not believe for a single second that that scene took place at the hospital",
@@ -2040,7 +2088,9 @@
       "related_nodes": [
         "N-10705"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:16",
       "investigative_direction": "Have a forensic lab compare the fragments with the vehicle's glazing and with a Rode-type microphone.",
       "transcript_snippet": "It's definitely definitively not the car glass."
@@ -2057,7 +2107,9 @@
       "related_nodes": [
         "N-10705"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:26",
       "investigative_direction": "Ask a materials expert whether a rode-type microphone's glass could carry adhesive and cling to clothing.",
       "transcript_snippet": "I had no idea that this is sticky glass that there's an adhesive that is attached to it."
@@ -2074,12 +2126,14 @@
       "related_nodes": [
         "N-10705"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:36",
       "investigative_direction": "Obtain Bray's photos with metadata and compare against the UVU stage footage.",
       "transcript_snippet": "there is some that actually fell in front of Charlie and John Bray's getting me those photos",
       "mentions_person_refs": [
-        "N-696",
+        "N-695",
         "N-1"
       ]
     },
@@ -2093,7 +2147,9 @@
       "related_nodes": [
         "N-10651"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:36",
       "investigative_direction": "Pull the Harpole complaint and docket to confirm claims and filing date.",
       "transcript_snippet": "The audacity of Brian Harpole to sue me over his incompetence.",
@@ -2117,7 +2173,9 @@
       "related_nodes": [
         "N-11134"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:36",
       "investigative_direction": "Obtain the full sequence of frames and have a trauma clinician assess handling.",
       "transcript_snippet": "His neck was literally flopping. Okay, we have those images.",
@@ -2137,7 +2195,9 @@
       "related_nodes": [
         "N-11134"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:23",
       "investigative_direction": "Identify each carrier and review all angles of the carry for the shirt position.",
       "transcript_snippet": "they're concerned with his shirt almost like his shirt is actually almost it's coming up. You can see his torso.",
@@ -2158,7 +2218,9 @@
         "N-11134",
         "N-10705"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:23",
       "investigative_direction": "Examine the footage of the carry and of Charlie's shirt for debris and compare with the later car photos.",
       "transcript_snippet": "you would bunch up that shirt like it was a purse to make sure it wasn't seen by the public",
@@ -2176,7 +2238,9 @@
       "related_nodes": [
         "N-10705"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:48",
       "investigative_direction": "Ask Coleman and the Tim in question to state what alternative explanation they offered.",
       "transcript_snippet": "because I've run this with Baron. I've run it with Tim.",
@@ -2194,7 +2258,9 @@
       "related_nodes": [
         "N-10198"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:20",
       "investigative_direction": "Find the podium remarks and the original statement and compare with hospital witnesses.",
       "transcript_snippet": "them saying that Mikey was amazing. Erika the first to say it at the podium.",
@@ -2213,7 +2279,9 @@
       "related_nodes": [
         "N-10198"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:09",
       "investigative_direction": "Identify the host's source and any hospital staff who saw Mikey McCoy that day.",
       "transcript_snippet": "Mikey was the most emotionally impacted. He did not have it together.",
@@ -2234,7 +2302,9 @@
       "related_nodes": [
         "N-10226"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:09",
       "investigative_direction": "Compare with McCoy's call log and phone call timing in the other investigative targets.",
       "transcript_snippet": "Mikey was impacted by this in a way that leads me to believe that Mikey did not know that Charlie was going to die on that day.",
@@ -2255,7 +2325,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:10",
       "investigative_direction": "Obtain the email and verify the sender and date.",
       "transcript_snippet": "I received an email last that you guys knew I was going to be a problem from the beginning.",
@@ -2271,7 +2343,9 @@
       "claim": "The host says it is the most important thing to her that no harm comes to Erika Kirk and that she wants Erika to outlive everyone.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:24",
       "investigative_direction": "Not independently testable; record as the host's stated intent.",
       "transcript_snippet": "It is the most important thing to me that no harm comes to Erika.",
@@ -2290,7 +2364,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:01",
       "investigative_direction": "Examine succession documents and corporate records showing who gained control and when.",
       "transcript_snippet": "They had to they wanted to take over Turning Point USA. That's what I think anyway.",
@@ -2308,13 +2384,15 @@
       "related_nodes": [
         "N-10899"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:49",
       "investigative_direction": "List the specific public statements by each that the host says are false.",
       "transcript_snippet": "Did you really think Blake Nef, Graham Allen, and Paramount not so tactical? We're going to delude the public into the absurd story that you tried to spin.",
       "mentions_person_refs": [
         "N-162",
-        "N-620"
+        "N-619"
       ]
     },
     {
@@ -2328,7 +2406,9 @@
         "N-10724",
         "N-10507"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:05",
       "investigative_direction": "Confirm the day of the Butler shooting and Charlie's Shabbat practice from his earlier statements.",
       "transcript_snippet": "Did you guys know that the butler shoot happened on a Saturday? On Saturdays, Charlie turned his phone off",
@@ -2348,7 +2428,9 @@
       "related_nodes": [
         "N-10507"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:51",
       "investigative_direction": "Identify the original interview, date and outlet.",
       "transcript_snippet": "And yet I had my phone on because I was trying to help make JD Vance the vice president of the United States.",
@@ -2369,7 +2451,9 @@
       "related_nodes": [
         "N-10724"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:51",
       "investigative_direction": "Identify the interview source and verify his stated whereabouts.",
       "transcript_snippet": "we went down to our like our our complex has this big gym and I had my daughter in my arms and I just like turned to the television.",
@@ -2385,7 +2469,9 @@
       "claim": "The host says she knows more than she has released, saying yes, of course she does.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:25",
       "investigative_direction": "Track future episodes for the undisclosed material.",
       "transcript_snippet": "Do I know more stuff? Yes, of course I do.",
@@ -2401,7 +2487,9 @@
       "claim": "The host says Charlie always texted her asking whether she could go down and get a latte at 5 a.m.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:45:00",
       "investigative_direction": "Not testable beyond the host's own messages.",
       "transcript_snippet": "Can you go down and get a latte? Can you go down and get a latte?",
@@ -2418,7 +2506,9 @@
       "claim": "The host says she wanted to believe Charlie was in witness protection in New Zealand and that it took her until Q1 of this year to accept he is gone.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:45:53",
       "investigative_direction": "Not testable; recorded as the host's account.",
       "transcript_snippet": "I wanted to believe that he was in like witness protection in like New Zealand or something.",
@@ -2439,7 +2529,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:53",
       "investigative_direction": "Review the early interviews of Charlie's associates for demeanor and statements.",
       "transcript_snippet": "how I was stunned by how quickly they moved toward acceptance",
@@ -2459,7 +2551,9 @@
       "related_nodes": [
         "N-10401"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:47:26",
       "investigative_direction": "Seek documented cases and official inquiries, which the commenter does not cite.",
       "transcript_snippet": "The baby was then taken away for quote unquote testing by the doctors only to tell the mother a few hours later that her baby did not make it."
@@ -2476,7 +2570,9 @@
       "related_nodes": [
         "N-10705"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:41",
       "investigative_direction": "Review all ground-level angles behind the table at the time of the shot.",
       "transcript_snippet": "I am now revisiting that footage and we are going to spend time looking at that as well as we develop the witness tree"
@@ -2492,12 +2588,14 @@
         "N-10705",
         "N-10768"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:41",
       "investigative_direction": "Compare Bray's evidence compilation with the prosecution's exhibits.",
       "transcript_snippet": "I think John Bray's theory has infinitely more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives.",
       "mentions_person_refs": [
-        "N-696"
+        "N-695"
       ]
     },
     {
@@ -2510,7 +2608,9 @@
       "related_nodes": [
         "N-10686"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:36",
       "investigative_direction": "Obtain police dispatch logs and bodycam from the pursuing units.",
       "transcript_snippet": "Brian Harpole said that they caught a tail. They were going so fast and so there were police behind them",
@@ -2531,7 +2631,9 @@
       "related_nodes": [
         "N-10686"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:36",
       "investigative_direction": "Obtain GPS or CAD data for the vehicle's route to the hospital.",
       "transcript_snippet": "I heard the grape vine they did not even take the highway which was right there and they instead went on back roads",
@@ -2552,7 +2654,9 @@
         "N-10026",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:51:30",
       "investigative_direction": "The commenter offers no evidence; look for funding or communication records of any such incentive.",
       "transcript_snippet": "100% Israel incentivized a select few to take over TPUSA uh to kill Charlie and to get him out of the way. It's a sense that we all have.",
@@ -2570,7 +2674,9 @@
         "A-2860.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:17",
       "investigative_direction": "relevance:context",
       "transcript_snippet": "No, he said Candace Owens. Candace Owens is the most vile person of the year.",
@@ -2591,7 +2697,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:53:09",
       "investigative_direction": "Confirm the building and tenants from property and TPUSA lease records.",
       "transcript_snippet": "You guys are all in the same building, the Charlie Kirk building, the Fineberg building.",
@@ -2607,7 +2715,9 @@
       "claim": "The host says Mikey McCoy has an arranged marriage and refers to his wife as a Bolevik princess.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:54:34",
       "investigative_direction": "Confirm from public records or McCoy's own statements; no source named.",
       "transcript_snippet": "I get someone who was born into I he has an arranged marriage.",
@@ -2623,7 +2733,9 @@
       "claim": "The host says an earlier remark that the show would return August 13 was wrong and that it will be off air until July 13, with a surprise show today.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:55:29",
       "investigative_direction": "Check the next episode's date.",
       "transcript_snippet": "It's actually July 13th. So, we will be off air until July 13th",
@@ -2639,7 +2751,9 @@
       "claim": "The host says she consciously decided in Wyoming, after prayer and writing an open letter to Charlie, that she would do the investigation, and that a bald eagle flew close to her head when she opened her eyes.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:57:54",
       "investigative_direction": "Not testable; recorded as the host's account.",
       "transcript_snippet": "there was a particular moment in Wyoming where I consciously made the decision that I was going to do it.",
@@ -2658,7 +2772,9 @@
       "related_nodes": [
         "N-10401"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:59:13",
       "investigative_direction": "Identify the data center projects and Utah-Romania links the host refers to.",
       "transcript_snippet": "I don't know what's going on with these data centers I don't know what's going on with Utah I don't know why they're so tied to Romania",
@@ -2677,7 +2793,10 @@
         "A-2862.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "DIA"
+      ],
       "claim_timestamp": "01:00:07",
       "investigative_direction": "Check whether the tip address received material relevant to the car-interior photos.",
       "transcript_snippet": "If you guys want to compete uh continue to support us, send us emails tips@cennison. com. More tips at canennison. com.",
@@ -2695,7 +2814,10 @@
         "A-2862.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context",
+        "DIA"
+      ],
       "claim_timestamp": "01:00:07",
       "investigative_direction": "Ask the host whether any tipster has been identified or disciplined.",
       "transcript_snippet": "I protect people obviously don't want any person to lose their jobs. I have not had that situation happen.",

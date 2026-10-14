@@ -1809,7 +1809,9 @@
         "N-10039",
         "N-10046"
       ],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:03:33",
       "investigative_direction": "FOIA or subpoena the underlying device data and Discord metadata to recover timestamps.",
       "transcript_snippet": "the obvious thing, there's no timestamps. Right away, major red flag.",
@@ -1905,7 +1907,9 @@
       "related_nodes": [
         "N-10042"
       ],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:12:07",
       "investigative_direction": "Cross-reference text account with forensic recovery location of the rifle and any clothing/bush evidence.",
       "transcript_snippet": "I had to leave it in a bush where I changed outfits… only thing I left was the rifle wrapped in a towel.",

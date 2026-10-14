@@ -877,8 +877,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-581",
-      "ref": "N-581",
+      "@id": "N-580",
+      "ref": "N-580",
       "name": "David Hull",
       "type": "person",
       "description": "First named by the host at 00:04:56 in episode 142. Aliases: Agent Hull, Agent David Hull.",
@@ -1155,8 +1155,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-715",
-      "ref": "N-715",
+      "@id": "N-714",
+      "ref": "N-714",
       "name": "Robert Golow",
       "type": "person",
       "description": "Robert Golow; operator of the front-left camera per the host.",
@@ -1513,8 +1513,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-843",
-      "ref": "N-843",
+      "@id": "N-842",
+      "ref": "N-842",
       "name": "Jordan Wilson",
       "type": "person",
       "description": "First named by the host at 00:08:20 in episode 142. Camera operator the host says ran the blue-circled camera at the UVU event.",
@@ -1530,8 +1530,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-844",
-      "ref": "N-844",
+      "@id": "N-843",
+      "ref": "N-843",
       "name": "Kathy Nester",
       "type": "person",
       "description": "First named in this episode by the host at 00:24:49 (transcribed Kathy Netor). Defense attorney in the Tyler Robinson case, as recorded in episode 94.",
@@ -1547,8 +1547,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-845",
-      "ref": "N-845",
+      "@id": "N-844",
+      "ref": "N-844",
       "name": "John Kiriakou",
       "type": "person",
       "description": "First named by the host at 00:31:29 in episode 142 (transcribed Kirao, Kuraku). Former CIA officer and whistleblower shown on the Danny Jones podcast.",
@@ -1565,8 +1565,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-846",
-      "ref": "N-846",
+      "@id": "N-845",
+      "ref": "N-845",
       "name": "Danny Jones",
       "type": "person",
       "description": "First named by the host at 00:31:29 in episode 142. Podcast host on whose show Kirraou questions the FBI role.",
@@ -1582,9 +1582,26 @@
     },
     {
       "@type": "Person",
+      "@id": "N-846",
+      "ref": "N-846",
+      "name": "Mark Normand",
+      "type": "person",
+      "description": "First named by the host at 00:34:33 in episode 142. Comedian the host names as a Rogan guest.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9192"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
       "@id": "N-847",
       "ref": "N-847",
-      "name": "Mark Normand",
+      "name": "Shane Gillis",
       "type": "person",
       "description": "First named by the host at 00:34:33 in episode 142. Comedian the host names as a Rogan guest.",
       "related_artifacts": [],
@@ -1601,23 +1618,6 @@
       "@type": "Person",
       "@id": "N-848",
       "ref": "N-848",
-      "name": "Shane Gillis",
-      "type": "person",
-      "description": "First named by the host at 00:34:33 in episode 142. Comedian the host names as a Rogan guest.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-9192"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-849",
-      "ref": "N-849",
       "name": "Ari Shaffir",
       "type": "person",
       "description": "First named by the host at 00:34:33 in episode 142 (spelled Ari Schaefer in the transcript). Comedian the host names as a Rogan guest.",
@@ -1723,7 +1723,7 @@
       "claim_timestamp": "00:12:35",
       "investigative_direction": "Obtain certified preliminary-hearing transcript; confirm whether SD cards were ever handed over directly and to whom.",
       "mentions_person_refs": [
-        "N-581"
+        "N-580"
       ]
     },
     {
@@ -1913,7 +1913,9 @@
       "related_nodes": [
         "N-11212"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Identify the CEO and the show episode in question; obtain the broadcast and any statement from the host's household or Crowder's team on how access was arranged.",
       "transcript_snippet": "having the permanent creep Steven Crowder sneak his CEO into my home to join uh Steven's show from my children's playroom without my consent, without my knowledge.",
@@ -1934,7 +1936,9 @@
         "N-10346",
         "N-10991"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:28",
       "investigative_direction": "Compare the timestamp of the first shot with the timestamps of Farnsworth's own recording and of the camera-removal footage.",
       "transcript_snippet": "And this turned out was less than four minutes after Charlie was hit. We know he went up uh and he recorded himself.",
@@ -1956,7 +1960,9 @@
       "related_nodes": [
         "N-10100"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:28",
       "investigative_direction": "Obtain Farnsworth's self-recorded announcement and its metadata; sequence it against the camera-removal video.",
       "transcript_snippet": "We know he went up uh and he recorded himself. He announced that Charlie was dead. He went down and he began removing that camera in particular.",
@@ -1975,7 +1981,9 @@
       "related_nodes": [
         "N-10346"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:01:28",
       "investigative_direction": "Confirm the host's prior relationship with Farnsworth and the date of first contact after September 10, 2025.",
       "transcript_snippet": "I knew Terl. You'll recall this, right? I reached out to him. I've known him for years",
@@ -1994,7 +2002,9 @@
       "related_nodes": [
         "N-10346"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:05",
       "investigative_direction": "Obtain the host's September 18 call recording or notes, and ask Farnsworth to confirm this stated reason.",
       "transcript_snippet": "and he said he didn't want to share it because he didn't want Erika to see Charlie get hit in 4K.",
@@ -2015,7 +2025,9 @@
       "related_nodes": [
         "N-10797"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:03",
       "investigative_direction": "Obtain the September 18 call recording; compare Farnsworth's two stated reasons for withholding the file.",
       "transcript_snippet": "And then he admitted that he did know how to send a file, but he didn't want to do it for fear that Google might hack him.",
@@ -2041,7 +2053,9 @@
         "N-10799",
         "N-10991"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:47",
       "investigative_direction": "Obtain the authenticated 1102 statement and TPUSA's camera plot for the UVU event.",
       "transcript_snippet": "Our camera setup consisted of three angles. An angle directly on Charlie, an angle on the individual asking questions and a wider angle behind Charlie that showed the audience and the crowd reaction.",
@@ -2065,7 +2079,9 @@
         "N-10012",
         "N-10810"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:46",
       "investigative_direction": "Obtain the 1102 and ask SBI which version of each video it received and how authenticity was assessed.",
       "transcript_snippet": "These videos as they were provided to SBI are a true and correct representation of what took place at UVU.",
@@ -2085,7 +2101,9 @@
       "related_nodes": [
         "N-10810"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:46",
       "investigative_direction": "Identify the source of each of the four videos and the operator of any moving camera at the event.",
       "transcript_snippet": "Now, let's understand that first portion first. He says that there are four videos that he sent to them. He says that there are three cameras.",
@@ -2106,12 +2124,14 @@
         "N-10991",
         "N-10998"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:46",
       "investigative_direction": "Confirm camera operator assignments with Visual Impulse crew records or with Golow directly.",
       "transcript_snippet": "Now, we have one to the front left side of Charlie that is being operated by Robert Golo.",
       "mentions_person_refs": [
-        "N-715"
+        "N-714"
       ]
     },
     {
@@ -2127,13 +2147,15 @@
         "N-10991",
         "N-10799"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:20",
       "investigative_direction": "Confirm Jordan Wilson's role and camera position, and whether that camera's footage was among the four videos sent to SBI.",
       "transcript_snippet": "Right? That's the one that was being operated by uh Jordan Wilson. In other words, if I were trying to gather evidence very quickly within minutes of Charlie Kirk being shot, I'd go blue.",
       "mentions_person_refs": [
         "N-1",
-        "N-843"
+        "N-842"
       ]
     },
     {
@@ -2148,7 +2170,9 @@
       "related_nodes": [
         "N-10799"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:20",
       "investigative_direction": "Review rear-camera frames from earlier American Comeback Tour stops to establish the usual framing.",
       "transcript_snippet": "A, it's facing downward. B, it's behind Charlie. And traditionally, in case you're wondering or need reminding, all it showed was a view of what was happening below and around Charlie's feet",
@@ -2171,7 +2195,9 @@
       "related_nodes": [
         "N-10799"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:44",
       "investigative_direction": "Establish when and in what form Farnsworth showed the host the footage; obtain the file shown to her and its metadata.",
       "transcript_snippet": "Terl Farnsworth when he finally did show me the completely non-graphic footage from behind Charlie's head presented to me what appeared to her to be a zoomedin shot from that camera",
@@ -2196,7 +2222,9 @@
         "N-10808",
         "N-10810"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:31",
       "investigative_direction": "Obtain the preliminary-hearing transcript and forensic metadata of the flash-drive and Google-link copies to show how they were created.",
       "transcript_snippet": "This means that Terl inserted that SD card into a computer and then copied the footage onto a flash drive and similarly created Google links.",
@@ -2205,7 +2233,7 @@
       ],
       "mentions_person_refs": [
         "N-267",
-        "N-581"
+        "N-580"
       ]
     },
     {
@@ -2220,7 +2248,9 @@
       "related_nodes": [
         "N-10162"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:25",
       "investigative_direction": "Collect TPUSA statements on the significance of the rear camera and compare them with the 1102 account of the 80704 clip.",
       "transcript_snippet": "And then people were gas lit. We were told no, there was nothing unique about that camera. There was nothing unique about that footage in particular.",
@@ -2244,7 +2274,9 @@
         "N-10810",
         "N-10202"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:25",
       "investigative_direction": "Ask the FBI and SBI whether and when they took custody of any original SD card; compare with Agent Hull's testimony that the 1102 was collected, not the SD card.",
       "transcript_snippet": "Well, first of all, they're in the possession of the FBI.",
@@ -2268,7 +2300,9 @@
       "related_nodes": [
         "N-10162"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:25",
       "investigative_direction": "Obtain the full Tucker Carlson segment; ask Kolvet and Farnsworth when and where the exchange took place.",
       "transcript_snippet": "I asked him personally. I said, \"Why did you do that?\" And he looked at me and this was his answer.",
@@ -2292,7 +2326,9 @@
       "related_nodes": [
         "N-10162"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:54",
       "investigative_direction": "Review Sept 10 footage of all camera positions to count how many cards Farnsworth removed and when.",
       "transcript_snippet": "But you said cards. And what we noticed was that it was card. It was that one first.",
@@ -2316,7 +2352,9 @@
         "N-10800",
         "N-10810"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:08",
       "investigative_direction": "Obtain the 1102 and the four source files; compare durations and metadata with the 80704 clip.",
       "transcript_snippet": "One is 26 minutes, another one is 26 minutes, another is 26 minutes, and a fourth one is 23 minutes.",
@@ -2336,7 +2374,9 @@
       "related_nodes": [
         "N-10800"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:08",
       "investigative_direction": "Obtain the metadata and creation log for clip 80704 and the identity of whoever produced it.",
       "transcript_snippet": "Like I said, we're not sure if Terl clipped it or if it was SBI that clipped it. We do know that Terrell was the first to touch that footage",
@@ -2360,7 +2400,9 @@
         "N-10799",
         "N-10625"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:08",
       "investigative_direction": "Obtain the preliminary-hearing transcript for exhibits 12.1 and 12.4 and the objections raised about zoom and cropping.",
       "transcript_snippet": "We learned that during the whole back and forth regarding 12.1 and 12.4 before um in the courtroom when they were debating."
@@ -2378,7 +2420,9 @@
         "N-10800",
         "N-10799"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:08",
       "investigative_direction": "Compare the 80704 clip frame by frame against the full rear-camera file to test for cropping or digital zoom.",
       "transcript_snippet": "It's plausible that the only reason they would have to clip that out is because it was zoomed in.",
@@ -2402,7 +2446,9 @@
         "N-10100",
         "N-10162"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:08",
       "investigative_direction": "Review footage of the other camera positions for any removal of cards from other cameras.",
       "transcript_snippet": "because he did not instantly grab all of the SD cards. He grabbed that one and he did it nervously.",
@@ -2426,7 +2472,9 @@
         "N-10100",
         "N-10162"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:54",
       "investigative_direction": "Obtain the original unedited video and the timestamp of the removal.",
       "transcript_snippet": "If you're worried about theft, take the whole camera. It's pretty small. It's in your hand. He doesn't do that. He takes it apart and he takes the SD card out.",
@@ -2449,7 +2497,9 @@
       "related_nodes": [
         "N-10100"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:11",
       "investigative_direction": "Review the video frame by frame to document where Farnsworth looks and what is in his sight line.",
       "transcript_snippet": "And he looks around. He wants to see who's looking at him.",
@@ -2469,7 +2519,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:20",
       "investigative_direction": "The host would need to say how many sources, which agencies and how the exclusive footage reached her; the claim itself is unverifiable without her sources.",
       "transcript_snippet": "there was a network of government employees that were fighting to get the truth out and wondering who they could trust as well.",
@@ -2492,7 +2544,9 @@
       "related_nodes": [
         "N-10801"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:26",
       "investigative_direction": "Review the complete Sept 10 footage from all angles to confirm no other camera was touched in that period.",
       "transcript_snippet": "He doesn't run to the other cameras and try to grab the SD card. Instead, what he does is he whips out his phone and he begins texting with someone.",
@@ -2516,7 +2570,9 @@
         "N-10346",
         "N-10162"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:34",
       "investigative_direction": "Ask UVU police, SBI and FBI whether any officer instructed Farnsworth to remove a card, and ask Bowyer for the source of his account.",
       "transcript_snippet": "Maybe there was some police officer who told him to take that footage in particular. I'm told that didn't happen.",
@@ -2540,13 +2596,15 @@
       "related_nodes": [
         "N-10810"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:49",
       "investigative_direction": "Obtain the preliminary-hearing transcript for Nester's questions about editing of the Visual Impulse footage.",
       "transcript_snippet": "The questions that Kathy Netor asked thereafter um things that she asserted about they don't know whether or not that footage was edited.",
       "mentions_person_refs": [
         "N-267",
-        "N-844"
+        "N-843"
       ]
     },
     {
@@ -2560,7 +2618,9 @@
         "N-10651",
         "N-10810"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:45",
       "investigative_direction": "Check the docket for the Harpole suit and any discovery requests covering Visual Impulse footage.",
       "transcript_snippet": "But I need that footage. I'm being sued by Brian Harpole.",
@@ -2580,7 +2640,9 @@
         "N-11211",
         "N-10346"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:45",
       "investigative_direction": "Obtain the host's call recording; ask Erika Kirk and Farnsworth whether and when they discussed the rear-camera footage.",
       "transcript_snippet": "why did Terl tell me that he spoke with Erika about that footage specifically?",
@@ -2601,7 +2663,9 @@
         "N-10802",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:02",
       "investigative_direction": "Obtain the written agreement or request under which the FBI assumed evidence custody and the legal basis cited.",
       "transcript_snippet": "The FBI under the law is allowed to assist, but they don't have jurisdiction over the crime over the state.",
@@ -2622,7 +2686,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:05",
       "investigative_direction": "Identify the posts publishing the vehicle details and any link between their authors and TPUSA.",
       "transcript_snippet": "torment us, publishing things about my children's cars and the vehicles that they travel in.",
@@ -2644,7 +2710,9 @@
         "N-10802",
         "N-10202"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:29",
       "investigative_direction": "Locate Patel's original statement on the FBI's role and compare it with the FBI's actual deployment.",
       "transcript_snippet": "So, Kash Patel was asked this early on and he said, \"We're just offering the FBI's expertise to the Utah State Police.\"",
@@ -2652,8 +2720,8 @@
         "C-3297"
       ],
       "mentions_person_refs": [
+        "N-844",
         "N-845",
-        "N-846",
         "N-69"
       ]
     },
@@ -2670,12 +2738,14 @@
         "N-10802",
         "N-10202"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:49",
       "investigative_direction": "Obtain Patel's travel records and the number of FBI personnel deployed to Utah in September 2025.",
       "transcript_snippet": "You don't have the FBI director fly out there with a with a plane load of FBI agents. It's not a federal case.",
       "mentions_person_refs": [
-        "N-845",
+        "N-844",
         "N-69"
       ]
     },
@@ -2689,7 +2759,9 @@
       "related_nodes": [
         "N-10355"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:49",
       "investigative_direction": "Seek Joe Kent's on-record account and documents on the halted NCTC inquiry.",
       "transcript_snippet": "it's very strange that Kash Patel apparently shut down um Joe Kent who wanted to investigate whether or not there are foreign ties.",
@@ -2713,7 +2785,9 @@
         "N-10000",
         "N-10355"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:32:49",
       "investigative_direction": "Compile TPUSA public statements about Kent and Patel and a list of joint appearances.",
       "transcript_snippet": "And then we had Turning Point USA who's upset with the person who wanted to investigate those ties but not upset with Kash Patel going to events with Kash Patel.",
@@ -2733,7 +2807,9 @@
         "N-10000",
         "N-11066"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:32:49",
       "investigative_direction": "Review the debate agreement, the questions put to her and any legal communications around the debate for evidence of an intent to provoke a suit.",
       "transcript_snippet": "Uh but as I said as um they were intentionally trying to trip me into a lawsuit. You can see they're all salivating for me to be sued.",
@@ -2752,16 +2828,18 @@
         "A-2290.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:33",
       "investigative_direction": "Identify the Rogan episode number and date and verify its guest list.",
       "transcript_snippet": "whether that's Shawn Ryan or more recently Joe Rogan who had a laugh alongside his guests Mark Normand, Shane Gillis and Ari Schaefer",
       "mentions_person_refs": [
         "N-229",
         "N-274",
+        "N-846",
         "N-847",
         "N-848",
-        "N-849",
         "N-40",
         "N-2"
       ]
@@ -2776,7 +2854,9 @@
         "A-2290.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:31",
       "investigative_direction": "Identify the speaker from the Rogan episode audio.",
       "transcript_snippet": "The more the more time goes on, the more I'm leaning towards Candace Owens.",
@@ -2795,7 +2875,9 @@
         "A-2290.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:36:48",
       "investigative_direction": "Match the remark to a specific Erika Kirk appearance with pyrotechnics and its date.",
       "transcript_snippet": "You don't think it's weird the lady comes out to sparkers behind her?",
@@ -2818,7 +2900,9 @@
         "N-10340",
         "N-10611"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:16",
       "investigative_direction": "Find Erika Kirk's December 2025 press-tour statements on the night before and compare them with the text messages TPUSA later confirmed.",
       "transcript_snippet": "I only weighed in beginning in December when she went on to a press tour and explicitly shared something that was untrue that the night before Charlie was not sending messages saying that he feared for his life.",
@@ -2841,7 +2925,9 @@
       "related_nodes": [
         "N-10611"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:16",
       "investigative_direction": "Locate the Erika Kirk interview in which she says this and its date.",
       "transcript_snippet": "When she says he was just so excited to do what he's always done, so excited to go to UVU, he couldn't sleep.",
@@ -2863,7 +2949,9 @@
       "related_nodes": [
         "N-10611"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:22",
       "investigative_direction": "Collect accounts from people who traveled with Charlie about his sleep habits before tour stops.",
       "transcript_snippet": "Never known Charlie to to not sleep over a tour stop of a place that he's already been.",
@@ -2885,7 +2973,9 @@
       "related_nodes": [
         "N-10807"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:11",
       "investigative_direction": "Track the specific corrections the group has issued and which claims remain disputed.",
       "transcript_snippet": "Sure, I'm sure we have made some errors, but we did not make them knowingly.",
@@ -2906,7 +2996,9 @@
         "N-11066",
         "N-10796"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:11",
       "investigative_direction": "Review the debate recording for Wilson's remarks about texts, Signal or Telegram.",
       "transcript_snippet": "Andrew Wilson by the end of it into a conspiracy theorist who thought that I was receiving text messages on my phone uh to remind me of what the charges were",
@@ -2925,7 +3017,9 @@
       "related_nodes": [
         "N-11066"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:11",
       "investigative_direction": "Confirm from the debate recording the exchange about the phone.",
       "transcript_snippet": "What did I do? At first, I said I said, \"Here's my phone.",
@@ -2944,7 +3038,9 @@
       "related_nodes": [
         "N-10795"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:58",
       "investigative_direction": "Ask Wilson and TPUSA to release the text message and state its source and date.",
       "transcript_snippet": "you pick Andrew Wilson and you give him a text message. Never before seen, by the way.",
@@ -2964,7 +3060,9 @@
       "related_nodes": [
         "N-10795"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:40",
       "investigative_direction": "Watch for release of the message and compare it with the night-before messages TPUSA has acknowledged.",
       "transcript_snippet": "It's still never before seen because we haven't seen it. He's teasing it.",
@@ -2983,7 +3081,9 @@
       "related_nodes": [
         "N-11212"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:51",
       "investigative_direction": "Not independently checkable without a sweep report; the claim is the host's own statement.",
       "transcript_snippet": "of course, George has already had the house swept for bugs. That was like the first thing he did",
@@ -3005,7 +3105,9 @@
       "related_nodes": [
         "N-11066"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:47:11",
       "investigative_direction": "Find the Crucible post and the attached community note and compare against the probable cause affidavit text.",
       "transcript_snippet": "Twitter just had to come in and explain to him, no, this this is not a direct quotation from the mom.",
@@ -3024,7 +3126,9 @@
         "N-10804",
         "N-10796"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:27",
       "investigative_direction": "Collect TPUSA statements disclaiming Wilson and any communications or payments between TPUSA and Wilson or Crucible.",
       "transcript_snippet": "I knew that it was Turning Point's horse. Even just them saying we we have nothing to do with him and then his opening statement, it just is incredible.",
@@ -3046,7 +3150,9 @@
       "related_nodes": [
         "N-10805"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:16",
       "investigative_direction": "Review the debate transcript for the length and content of the Israel passage in Wilson's opening.",
       "transcript_snippet": "His opening statement, he starts talking about Israel. Why?",
@@ -3064,7 +3170,9 @@
       "related_nodes": [
         "N-10805"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:55",
       "investigative_direction": "Compare the debate resolution as agreed with Wilson's actual arguments.",
       "transcript_snippet": "He wanted to absolve Israel from any guilt without having to prove his statement. Weird focus.",
@@ -3083,7 +3191,9 @@
       "related_nodes": [
         "N-10340"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:43",
       "investigative_direction": "Ask Joe Kent and Kolvet exactly which messages were provided to Kent and when.",
       "transcript_snippet": "Of course, if he was handing messages that hand messages over as he was uh of people that Charlie felt threatened by or anything that could be significant, that would have been the first message that was handed over.",
@@ -3106,7 +3216,9 @@
         "N-10340",
         "N-10611"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:51:38",
       "investigative_direction": "Locate the Glenn Beck interview segment and any earlier TPUSA statements on the messages.",
       "transcript_snippet": "Instead, they denied it for four months and then had Erika deny it on Glenn Beck or rather stayed mum on it for four months",
@@ -3129,7 +3241,9 @@
       "related_nodes": [
         "N-10340"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:51:38",
       "investigative_direction": "Obtain the full text of the night-before messages and the dates TPUSA first acknowledged them.",
       "transcript_snippet": "And then when it backfired, they were like, \"Oh, no, there's messages, but like it says the left.\"",

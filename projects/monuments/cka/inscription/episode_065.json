@@ -31,7 +31,7 @@
             "C-2230"
           ],
           "related_nodes": [
-            "N-509",
+            "N-508",
             "N-10453"
           ],
           "tags": [],
@@ -59,7 +59,7 @@
             "C-2227"
           ],
           "related_nodes": [
-            "N-509",
+            "N-508",
             "N-10452"
           ],
           "tags": [],
@@ -122,7 +122,7 @@
             "C-2231"
           ],
           "related_nodes": [
-            "N-513",
+            "N-512",
             "N-10458"
           ],
           "tags": [],
@@ -192,9 +192,9 @@
             "C-2229"
           ],
           "related_nodes": [
-            "N-510",
-            "N-511",
             "N-509",
+            "N-510",
+            "N-508",
             "N-10460",
             "N-10464"
           ],
@@ -222,7 +222,7 @@
             "C-2237"
           ],
           "related_nodes": [
-            "N-509",
+            "N-508",
             "N-10459"
           ],
           "tags": [],
@@ -249,7 +249,7 @@
             "C-2229"
           ],
           "related_nodes": [
-            "N-510",
+            "N-509",
             "N-10464"
           ],
           "tags": [],
@@ -277,7 +277,7 @@
             "C-2233"
           ],
           "related_nodes": [
-            "N-512",
+            "N-511",
             "N-10460",
             "N-10461"
           ],
@@ -453,7 +453,7 @@
             "C-5585"
           ],
           "related_nodes": [
-            "N-510",
+            "N-509",
             "N-3",
             "N-10451",
             "N-10900"
@@ -553,7 +553,7 @@
             "C-5601"
           ],
           "related_nodes": [
-            "N-509",
+            "N-508",
             "N-1",
             "N-10063"
           ],
@@ -573,7 +573,7 @@
             "C-5603"
           ],
           "related_nodes": [
-            "N-509",
+            "N-508",
             "N-1",
             "N-14",
             "N-10455"
@@ -661,8 +661,8 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-736",
-            "N-509",
+            "N-735",
+            "N-508",
             "N-10900"
           ],
           "tags": [],
@@ -706,8 +706,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-509",
-      "ref": "N-509",
+      "@id": "N-508",
+      "ref": "N-508",
       "name": "Bassem Youssef",
       "type": "person",
       "description": "Egyptian-born comedian, former cardiothoracic surgeon, immigrant who became U.S. citizen in December 2019. Central interview subject of this episode. Source of multiple artifact-backed and testimonial claims regarding Israel, the USS Liberty, and Charlie Kirk.",
@@ -734,8 +734,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-510",
-      "ref": "N-510",
+      "@id": "N-509",
+      "ref": "N-509",
       "name": "Phil Turney",
       "type": "person",
       "description": "USS Liberty survivor, subject of Candace Owens' prior sit-down interview referenced in this episode. According to host, Turney gave her his Purple Heart and cried during the conversation.",
@@ -758,8 +758,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-511",
-      "ref": "N-511",
+      "@id": "N-510",
+      "ref": "N-510",
       "name": "Ward Boston",
       "type": "person",
       "description": "Navy Judge Advocate General who investigated the USS Liberty incident. Per viewer comment A-1694.1, published a notarized statement in the San Diego Union Tribune asserting the investigation was a cover-up and the attack was deliberate.",
@@ -780,8 +780,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-512",
-      "ref": "N-512",
+      "@id": "N-511",
+      "ref": "N-511",
       "name": "Victor Ostrovsky",
       "type": "person",
       "description": "Mossad agent (per Youssef) and author of *By Way of Deception*. Alleged by Youssef to have written in his book that Mossad had advance knowledge of the 1982 Beirut barracks bombing.",
@@ -804,8 +804,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-513",
-      "ref": "N-513",
+      "@id": "N-512",
+      "ref": "N-512",
       "name": "Arson Arstrovski",
       "type": "person",
       "description": "Claimed October 7th survivor. Subject of two on-screen photos (A-1693.1, A-1693.2). Host remarks on authenticity concerns: bandage photo lacks blood despite bloody face.",
@@ -862,7 +862,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -887,8 +887,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-510",
-        "N-511"
+        "N-509",
+        "N-510"
       ]
     },
     {
@@ -911,7 +911,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -933,7 +933,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-509",
+        "N-508",
         "N-208"
       ]
     },
@@ -1003,7 +1003,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-10451",
-        "N-510"
+        "N-509"
       ]
     },
     {
@@ -1026,7 +1026,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-513"
+        "N-512"
       ]
     },
     {
@@ -1048,7 +1048,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -1070,7 +1070,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-512"
+        "N-511"
       ]
     },
     {
@@ -1092,7 +1092,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-512"
+        "N-511"
       ]
     },
     {
@@ -1133,7 +1133,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-511",
+        "N-510",
         "N-10451"
       ]
     },
@@ -1157,7 +1157,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-510"
+        "N-509"
       ]
     },
     {
@@ -1613,8 +1613,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-533",
-      "ref": "N-533",
+      "@id": "N-532",
+      "ref": "N-532",
       "name": "Peter Thiel",
       "type": "person",
       "description": "Named by Youssef among billionaires he says donate to the IDF. Transcript spelling: Peter Teal.",
@@ -1935,8 +1935,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-734",
-      "ref": "N-734",
+      "@id": "N-733",
+      "ref": "N-733",
       "name": "Matt Leeb",
       "type": "person",
       "description": "First named by Youssef at 00:18:27 in episode 65. Comedian and friend of Youssef who, per Youssef, changed from liberal Zionist to anti-Zionist after a Birthright trip. Transcript spelling: Matt Leeb.",
@@ -1952,8 +1952,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-735",
-      "ref": "N-735",
+      "@id": "N-734",
+      "ref": "N-734",
       "name": "Joseph Cornis",
       "type": "person",
       "description": "First named by Youssef at 01:04:37 in episode 65. Described as an ex-IDF spokesman who appeared on Piers Morgan's show. The name is spelled phonetically in the transcript.",
@@ -1969,8 +1969,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-736",
-      "ref": "N-736",
+      "@id": "N-735",
+      "ref": "N-735",
       "name": "Rabbi Barlay",
       "type": "person",
       "description": "First named by the host at 01:32:22 in episode 65. Rabbi the host says she interviewed near the end of her Daily Wire tenure. Spelled phonetically in the transcript.",
@@ -1988,8 +1988,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-737",
-      "ref": "N-737",
+      "@id": "N-736",
+      "ref": "N-736",
       "name": "Rabbi Ysef MRI",
       "type": "person",
       "description": "First named by Youssef at 01:35:56 in episode 65. Rabbi whose lectures Youssef describes. Spelled phonetically in the transcript.",
@@ -2005,8 +2005,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-738",
-      "ref": "N-738",
+      "@id": "N-737",
+      "ref": "N-737",
       "name": "Jack Parsons",
       "type": "person",
       "description": "First named by the host at 01:41:10 in episode 65. Described by the host as an avowed Satanist connected to the Apollo-era program.",
@@ -2176,7 +2176,7 @@
       "investigative_direction": "Verify against original Piers Morgan broadcast; cross-check 2014 OCHA/UN OPt casualty figures.",
       "mentions_person_refs": [
         "N-208",
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -2195,7 +2195,7 @@
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Verify with Anti-Semite of the Year award organization records.",
       "mentions_person_refs": [
-        "N-509",
+        "N-508",
         "N-3"
       ]
     },
@@ -2235,7 +2235,7 @@
       "claim_timestamp": "01:21:47",
       "investigative_direction": "Obtain the original San Diego Union Tribune publication and Ward Boston's notarized statement; verify date and text.",
       "mentions_person_refs": [
-        "N-511"
+        "N-510"
       ]
     },
     {
@@ -2256,7 +2256,7 @@
       "claim_timestamp": "01:23:21",
       "investigative_direction": "Verify view count via YouTube analytics or platform data.",
       "mentions_person_refs": [
-        "N-510",
+        "N-509",
         "N-3"
       ]
     },
@@ -2272,7 +2272,7 @@
       "claim_timestamp": "00:00:54–00:01:21",
       "investigative_direction": "Verify with public records / naturalization records if available.",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -2291,7 +2291,7 @@
       "claim_timestamp": "00:15:48",
       "investigative_direction": "Obtain original high-resolution images; verify with forensic photo analysis or contextual corroboration.",
       "mentions_person_refs": [
-        "N-513"
+        "N-512"
       ]
     },
     {
@@ -2308,7 +2308,7 @@
       "claim_timestamp": "01:27:19",
       "investigative_direction": "Verify the book's actual contents against published editions.",
       "mentions_person_refs": [
-        "N-512"
+        "N-511"
       ]
     },
     {
@@ -2325,7 +2325,7 @@
       "claim_timestamp": "01:28:11",
       "investigative_direction": "Verify with publishing industry records and court records.",
       "mentions_person_refs": [
-        "N-512"
+        "N-511"
       ]
     },
     {
@@ -2377,7 +2377,7 @@
       "claim_timestamp": "01:23:21",
       "investigative_direction": "Monitor NYT for upcoming USS Liberty coverage.",
       "mentions_person_refs": [
-        "N-510"
+        "N-509"
       ]
     },
     {
@@ -2396,7 +2396,7 @@
       "claim_timestamp": "01:46:20–01:47:10",
       "investigative_direction": "Verify with Youssef's official tour pages and ticketing platforms.",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -2419,7 +2419,7 @@
         "C-2226"
       ],
       "mentions_person_refs": [
-        "N-509",
+        "N-508",
         "N-3"
       ]
     },
@@ -2482,7 +2482,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-509",
+        "N-508",
         "N-208"
       ]
     },
@@ -2502,7 +2502,7 @@
       "transcript_snippet": "And the answer I got was because you hurt Ben's feelings. I'm not kidding.",
       "mentions_person_refs": [
         "N-3",
-        "N-509",
+        "N-508",
         "N-97"
       ]
     },
@@ -2525,7 +2525,7 @@
       "transcript_snippet": "he started to say well there has been investigation and it was obviously wrong and it was obvious and it was it was proved beyond any doubt that it was a mistake",
       "mentions_person_refs": [
         "N-97",
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -2564,7 +2564,7 @@
       "investigative_direction": "Verify the compensation amounts and payment dates in US State Department and Israeli government records.",
       "transcript_snippet": "$6 million for damages in the USS liberties and $6 million for the victims of the USS Liberty.",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -2601,7 +2601,7 @@
       "transcript_snippet": "this clip had an Arabic narration. It has Hamas officials talking over it.",
       "mentions_person_refs": [
         "N-97",
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -2623,7 +2623,7 @@
       "investigative_direction": "Obtain the Turney interview, the Daily Wire complaint and the court docket to confirm the order of events.",
       "transcript_snippet": "cried with this with him he gave me his purple heart and then I got sued by the Daily Wire.",
       "mentions_person_refs": [
-        "N-510",
+        "N-509",
         "N-3"
       ]
     },
@@ -2646,7 +2646,7 @@
       "investigative_direction": "Watch the Turney interview at the point where he names them and compare with the Daily Wire complaint.",
       "transcript_snippet": "And Ben Shapiro said something.\" And they sued me.",
       "mentions_person_refs": [
-        "N-510",
+        "N-509",
         "N-1",
         "N-97",
         "N-3"
@@ -2669,7 +2669,7 @@
       "investigative_direction": "Obtain any declaration or testimony from Turney filed in the Daily Wire case.",
       "transcript_snippet": "could you would you be willing to testify that I didn't put you up to say something",
       "mentions_person_refs": [
-        "N-510",
+        "N-509",
         "N-3"
       ]
     },
@@ -2766,7 +2766,7 @@
       "investigative_direction": "Check historical sources on the 1946 attack (casualty count and the attackers' group and disguise).",
       "transcript_snippet": "like 92 British soldiers were killed and the people who did it were people from the Hagana gang and they were dressed as Palestinians.",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -2785,7 +2785,7 @@
       "investigative_direction": "Review historical scholarship and records on the 1950-51 Baghdad bombings and who was responsible.",
       "transcript_snippet": "Israel sends a Musad agent and then he leads four to five different bomb attacks on Jewish synagogues and Jewish communities.",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -2804,7 +2804,7 @@
       "investigative_direction": "Verify the 2005 certificate ceremony in Israeli government or press records.",
       "transcript_snippet": "and then in 2005 they finally acknowledged it by giving the participants in the Lavoon affair operation participation certificates",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -2823,7 +2823,7 @@
       "investigative_direction": "Review British court records on the 1994 London bombing convictions and any evidence on Mossad involvement.",
       "transcript_snippet": "1994 the bombing of the Israeli embassy in London. It was done by Musad and then they nailed they kind of nailed two Palestinians for it.",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -2842,7 +2842,7 @@
       "investigative_direction": "Search Mexican press and government records for any October 2001 incident at the parliament and any Israeli suspects.",
       "transcript_snippet": "there was an attack of the Mexican parliament by two Musad uh individuals and they were also like being they they pretended to be Palestinians but they were discovered before the bombing.",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -2858,10 +2858,10 @@
       "investigative_direction": "Ask Matt Leeb for the date of the Birthright trip and check Netanyahu's and Adelson's schedules for that date.",
       "transcript_snippet": "we find that the main speaker in our event was Benjamin Netanyahu accompanied by Miam Idlen.",
       "mentions_person_refs": [
-        "N-734",
+        "N-733",
         "N-36",
         "N-305",
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -2974,7 +2974,7 @@
       "investigative_direction": "Watch Kirk's PBD podcast appearance and check whether he asked about response time and stand-down orders.",
       "transcript_snippet": "I do agree that he was kind of starting to wake up towards the end because he started asking the question especially on the PBD podcast",
       "mentions_person_refs": [
-        "N-509",
+        "N-508",
         "N-1",
         "N-57",
         "N-208"
@@ -2997,7 +2997,7 @@
       "investigative_direction": "Locate the Kirk clip and transcribe his exact words and the date.",
       "transcript_snippet": "now there's no high buildings in Gaza anymore like stupid Muslims.",
       "mentions_person_refs": [
-        "N-509",
+        "N-508",
         "N-1"
       ]
     },
@@ -3016,7 +3016,7 @@
       "investigative_direction": "Retrieve the tweet from Kirk's account history for September 9, 2025 and check its wording.",
       "transcript_snippet": "the day before he died, he tweeted saying that Islam is the sword the left is using to slit America's throat.",
       "mentions_person_refs": [
-        "N-509",
+        "N-508",
         "N-1"
       ]
     },
@@ -3037,7 +3037,7 @@
       "investigative_direction": "Ask TPUSA or former staff who had access to and posted from Kirk's account; check account login or management records if obtainable.",
       "transcript_snippet": "Charlie didn't run his Twitter feed. Andrew Kovette did.",
       "mentions_person_refs": [
-        "N-509",
+        "N-508",
         "N-14",
         "N-1"
       ]
@@ -3164,7 +3164,7 @@
       "investigative_direction": "Find Patel's pre-appointment statement on Israel and confirm its wording and date.",
       "transcript_snippet": "Mr. Kash Patel who even before he got into office he said America needs to wake up and prioritize Israel which is a very weird thing to say.",
       "mentions_person_refs": [
-        "N-509",
+        "N-508",
         "N-69"
       ]
     },
@@ -3183,7 +3183,7 @@
       "investigative_direction": "Search Las Vegas police and court records and press for the arrest and name of the official; confirm the date.",
       "transcript_snippet": "the head of the cyber security in Netanyahu's office. He comes to Las Vegas and just like you know to pass time he was found with a minor and it was a sting operation but then he was allowed to leave.",
       "mentions_person_refs": [
-        "N-509",
+        "N-508",
         "N-36"
       ]
     },
@@ -3205,7 +3205,7 @@
         "C-5610"
       ],
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -3291,7 +3291,7 @@
       "investigative_direction": "Check historical sources on the 1940 Patria sinking for casualties and responsibility.",
       "transcript_snippet": "And then the Hagana, which is like is one of the Israeli the Zionist gang, they blew it up because the British authorities wouldn't let it go",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -3314,7 +3314,7 @@
         "C-2225"
       ],
       "mentions_person_refs": [
-        "N-509",
+        "N-508",
         "N-208"
       ]
     },
@@ -3338,7 +3338,7 @@
         "C-2225"
       ],
       "mentions_person_refs": [
-        "N-509",
+        "N-508",
         "N-208"
       ]
     },
@@ -3359,7 +3359,7 @@
       "investigative_direction": "Compare UN and Gaza Health Ministry child casualty data for the three weeks after the ceasefire with cumulative Israeli child deaths since 1948.",
       "transcript_snippet": "3 weeks they killed more children from the Palestinian side more than Israeli kids were killed all through 75 years.",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -3377,7 +3377,7 @@
       "investigative_direction": "Check DHS and ICE office listings for any ICE presence at the US Embassy in Tel Aviv and its status.",
       "transcript_snippet": "they find that the location of one of their field office is in Tel Aviv.",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -3395,8 +3395,8 @@
       "investigative_direction": "Check public filings and charitable donation records for donations to the IDF by those individuals and companies, and company addresses in Israel.",
       "transcript_snippet": "They they openly donate to the IDF. They openly have their headquarters in Israel.",
       "mentions_person_refs": [
-        "N-509",
-        "N-533",
+        "N-508",
+        "N-532",
         "N-143"
       ]
     },
@@ -3431,7 +3431,7 @@
       "investigative_direction": "Obtain police training and liaison program records for NYPD and LAPD with Israeli counterparts.",
       "transcript_snippet": "NYPDs and LAPDs is having Israeli special operations officers on site with them.",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -3466,7 +3466,7 @@
       "investigative_direction": "Count the state anti-BDS laws against current state statutes.",
       "transcript_snippet": "People are losing government contracts. You have 37, 38 states that have laws",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -3484,7 +3484,7 @@
       "investigative_direction": "Identify the sanctioned ICC judges, their nationalities and the Treasury designation notices.",
       "transcript_snippet": "they sanctioned the judge. He's in in he's a he's he's Dutch. This guy cannot have access to his bank account.",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -3516,7 +3516,7 @@
       "investigative_direction": "Ask Youssef to identify the incident; compare with police and court records of shootings of Palestinian students in the US.",
       "transcript_snippet": "I have a friend of mine Palestinian. He and two of his friends they were shot and now he's he's paralyzed from waist down.",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -3550,7 +3550,7 @@
       "investigative_direction": "Check US military and other aid appropriations to Israel for the years the speaker means.",
       "transcript_snippet": "they can take $28 billion or $30 billion from your tax money and give it to a different country.",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -3585,9 +3585,9 @@
       "investigative_direction": "Identify the guest, whose name is spelled phonetically, and the episode of the show; check the transcript for the statement.",
       "transcript_snippet": "they brought someone called Joseph Cornis who was like the ex IDF spokesman and out of nowhere it's like there is no famine in Gaza.",
       "mentions_person_refs": [
-        "N-509",
+        "N-508",
         "N-208",
-        "N-735"
+        "N-734"
       ]
     },
     {
@@ -3622,7 +3622,7 @@
       "investigative_direction": "Review French investigation records on the Syrian passports found at the Stade de France.",
       "transcript_snippet": "oh here it is a Syrian passport found near a suicide bomber at near a suicide bomber at November 2015",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -3685,7 +3685,7 @@
       "investigative_direction": "Review the Florida case record and Epstein's travel records for 2008 and 2009.",
       "transcript_snippet": "he was indicted 2008 and he was allowed to go to Israel during his",
       "mentions_person_refs": [
-        "N-509",
+        "N-508",
         "N-9"
       ]
     },
@@ -3800,7 +3800,7 @@
       "investigative_direction": "Review Breaking the Silence's published testimonies.",
       "transcript_snippet": "breaking the silence which is like the group of the IDF soldiers who they have a movement called breaking the silence ex IDF soldiers who speaks about the atrocities that they did",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -3819,7 +3819,7 @@
       "investigative_direction": "Review published staff biographies for military or intelligence service in Israel.",
       "transcript_snippet": "its editorial team are full of people from XIDF and and and ex Musad",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -3838,7 +3838,7 @@
       "investigative_direction": "Find the New York Times article and compare the stated tunnel length with the subway system length.",
       "transcript_snippet": "there is more tunnels inside the underneath Gaza more than the length of the New York time the New York subway system.",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -3857,7 +3857,7 @@
       "investigative_direction": "Review the New York Times article, the sources it named and any retractions or follow-ups.",
       "transcript_snippet": "they had like a whole piece about the rape the rape hoax which was completely fabricated.",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -3917,7 +3917,7 @@
       "investigative_direction": "Check the Turney interview for exactly what he said was aboard the ship.",
       "transcript_snippet": "we had Star of David's IDF uh sorry, IDF Star of David Israeli flags inside the ship because we were going out there to go protect them.",
       "mentions_person_refs": [
-        "N-510",
+        "N-509",
         "N-3"
       ]
     },
@@ -3938,7 +3938,7 @@
       "investigative_direction": "Compare this retelling with Turney's own words in the interview and with his published written accounts.",
       "transcript_snippet": "that IDF soldier then gives him the middle finger made eye contact and to this day people are gaslighting him they didn't know",
       "mentions_person_refs": [
-        "N-510",
+        "N-509",
         "N-3"
       ]
     },
@@ -3963,8 +3963,8 @@
         "C-2232"
       ],
       "mentions_person_refs": [
-        "N-509",
-        "N-512"
+        "N-508",
+        "N-511"
       ]
     },
     {
@@ -3982,7 +3982,7 @@
       "investigative_direction": "Review the publishing history of Hollywood Babylon and the claim of a gag order.",
       "transcript_snippet": "Also, actually, there was Hollywood Babylon, too. And there's a reason for that. They then changed it.",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -4003,8 +4003,8 @@
       "investigative_direction": "Locate the Ostrovsky interview and the exact words he used about Epstein.",
       "transcript_snippet": "Victor Achovsky also uh was on camera speaking about how Jeffrey Epste worked for them.",
       "mentions_person_refs": [
-        "N-509",
-        "N-512",
+        "N-508",
+        "N-511",
         "N-9"
       ]
     },
@@ -4026,8 +4026,8 @@
       "transcript_snippet": "It was what I think it was my very last. It was my very last. It was or of the second to last Rabbi Barlay.",
       "mentions_person_refs": [
         "N-3",
-        "N-736",
-        "N-509"
+        "N-735",
+        "N-508"
       ]
     },
     {
@@ -4046,7 +4046,7 @@
       "transcript_snippet": "being like, \"Okay, can I get a definition of anti-mitism?\" And he was like, \"Whatever we want.\" Oh my god.",
       "mentions_person_refs": [
         "N-3",
-        "N-736"
+        "N-735"
       ]
     },
     {
@@ -4065,7 +4065,7 @@
       "transcript_snippet": "he told me that I could have a private screening of October 7th. He was going to they were going to bring the laptop to me",
       "mentions_person_refs": [
         "N-3",
-        "N-736"
+        "N-735"
       ]
     },
     {
@@ -4081,8 +4081,8 @@
       "investigative_direction": "Find the lecture videos and transcribe the passages.",
       "transcript_snippet": "first of all he doesn't call him Jesus Christ. He he call him JC Penney.",
       "mentions_person_refs": [
-        "N-509",
-        "N-737"
+        "N-508",
+        "N-736"
       ]
     },
     {
@@ -4142,7 +4142,7 @@
       "transcript_snippet": "Jack Parsons. What was he? He was he was a committed a vowed Satanist or throwing sexual rituals. He was trying to summon demons.",
       "mentions_person_refs": [
         "N-3",
-        "N-738"
+        "N-737"
       ]
     },
     {
@@ -4158,7 +4158,7 @@
       "investigative_direction": "Check Youssef's publicly stated medical career dates against his own biography.",
       "transcript_snippet": "Yeah, I was a heart surgeon for 20 years before all of this.",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -4174,7 +4174,7 @@
       "investigative_direction": "Rely on Youssef's account; no document is offered.",
       "transcript_snippet": "2001 in the summer, my return ticket from Miami was 17th of September, 6 days before after 9/11.",
       "mentions_person_refs": [
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -4216,7 +4216,7 @@
       "transcript_snippet": "And now she's in control of Param Plus which actually have Lionus which I have like a great scene there.",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-509",
+        "N-508",
         "N-284"
       ]
     }
@@ -4246,7 +4246,7 @@
         {
           "episode": 65,
           "video_timestamp": "00:15:00",
-          "speaker_node_ref": "N-509",
+          "speaker_node_ref": "N-508",
           "quote": "one month after 911 which is the biggest full flag operation in October 2001",
           "context": "Youssef lists false-flag examples; the transcript has 'full flag'.",
           "confidence": "high",
@@ -4334,7 +4334,7 @@
         {
           "episode": 65,
           "video_timestamp": "00:24:31",
-          "speaker_node_ref": "N-509",
+          "speaker_node_ref": "N-508",
           "quote": "I went through a rabbit hole watching a lot of these pastors",
           "context": "Youssef on watching pastors preach about Israel.",
           "confidence": "high",

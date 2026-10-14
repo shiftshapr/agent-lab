@@ -883,8 +883,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-516",
-      "ref": "N-516",
+      "@id": "N-515",
+      "ref": "N-515",
       "name": "Nate Walker",
       "type": "person",
       "description": "First named by the host at 00:03:16 in episode 126.",
@@ -1140,7 +1140,7 @@
       "claim_timestamp": "00:17:03",
       "investigative_direction": "Obtain original TikTok source footage with timestamp; obtain statements from Christopher and Walker regarding their location and purpose.",
       "mentions_person_refs": [
-        "N-516"
+        "N-515"
       ]
     },
     {

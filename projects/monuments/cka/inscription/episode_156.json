@@ -787,8 +787,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-806",
-      "ref": "N-806",
+      "@id": "N-805",
+      "ref": "N-805",
       "name": "Angel Castro",
       "type": "person",
       "description": "First named by the host at 00:01:40 in episode 156 (spelled \"Angel Castro Castro\" in the transcript). Person the host places near the van in the tent footage.",
@@ -1487,7 +1487,9 @@
       "claim": "The host says she spoke with Baron Coleman that day and that the two of them will produce a chronological sizzle reel putting all of the released footage in one place.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Check whether a combined chronological footage compilation from the host and Coleman was later published and whether it matches the clips already aired.",
       "transcript_snippet": "I spoke with Baron Coleman today and we are going to get you guys over a sizzle reel of sorts of our own so that it's all in one spot",
@@ -1506,7 +1508,9 @@
         "A-2416.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:40",
       "investigative_direction": "Compare the cropped clip from the prior episode with the wider version to see what the crop removed.",
       "transcript_snippet": "I realized only after the fact that the clip we aired was cropped.",
@@ -1529,7 +1533,9 @@
       "related_nodes": [
         "N-10860"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:40",
       "investigative_direction": "Identify the person in red by the van through event photographs or attendee lists and confirm the clothing.",
       "transcript_snippet": "He was wearing red that day.",
@@ -1539,7 +1545,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-10",
-        "N-806"
+        "N-805"
       ]
     },
     {
@@ -1552,7 +1558,9 @@
         "A-2416.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:31",
       "investigative_direction": "Watch for the promised labeled version of the tent footage and check which people are named.",
       "transcript_snippet": "I'm going to take some time over the weekend to start putting names on everyone",
@@ -1570,7 +1578,9 @@
         "A-2417.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:11",
       "investigative_direction": "Obtain the unblurred full-length footage and a list of who stood around the black SUV in the first minutes.",
       "transcript_snippet": "There's a lot that bothers me that is happening near that black SUV.",
@@ -1590,7 +1600,9 @@
         "A-2417.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:47",
       "investigative_direction": "Identify each person recording near the black car and compare against later news interviews.",
       "transcript_snippet": "The amount of people that seem to be intentionally recording by that black car is bothersome.",
@@ -1609,7 +1621,9 @@
       "claim": "The host says she will hand everything over to Baron Coleman before going on maternity leave.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:01",
       "investigative_direction": "Confirm any handover arrangement for the show and investigation between the host and Coleman.",
       "transcript_snippet": "Obviously, I'll be handing over everything to Baron",
@@ -1626,7 +1640,9 @@
       "claim": "The host says she is considering publishing an interactive version of the official timeline, with hyperlinks to sources, on her website.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:01",
       "investigative_direction": "Check whether the hyperlinked timeline was published and whether its sources match the aired claims.",
       "transcript_snippet": "maybe we'll put it on the website on on canson. com and uh it would also include all the hyperlinks",
@@ -1646,7 +1662,9 @@
       "related_nodes": [
         "N-10051"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:38",
       "investigative_direction": "Trace the first publication of the Dairy Queen photo and its original source.",
       "transcript_snippet": "We were the first to break that story",
@@ -1671,7 +1689,9 @@
         "N-10051",
         "N-10853"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:38",
       "investigative_direction": "Identify who first read and relayed the 6:38 timestamp and obtain the Dairy Queen system settings.",
       "transcript_snippet": "we were not communicated that time by the owner of Dairy Queen",
@@ -1694,7 +1714,9 @@
         "N-10381",
         "N-10051"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:47",
       "investigative_direction": "Obtain the Panguitch receipt and its time stamp and compare it against the Orem to Panguitch drive time.",
       "transcript_snippet": "It wasn't until after the Panguitch receipt that we went back and we realized that something had to be off with the Dairy Queen timing",
@@ -1718,7 +1740,9 @@
       "related_nodes": [
         "N-10853"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:47",
       "investigative_direction": "Ask the franchise owner or manager about the camera clock settings and when they were last checked.",
       "transcript_snippet": "Surveillance equipment easily could have fallen backward on time.",
@@ -1736,7 +1760,9 @@
       "related_nodes": [
         "N-10853"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:41",
       "investigative_direction": "Establish through footage or records where Tyler Robinson was on campus on September 10 and who the cemetery source was.",
       "transcript_snippet": "the real Tyler, who we know was in fact around campus on that day",
@@ -1758,7 +1784,9 @@
         "N-10051",
         "N-10168"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:34",
       "investigative_direction": "Check the cemetery dumpsters and nearby cameras and compare the Dairy Queen photo subject with images of Lance Twiggs.",
       "transcript_snippet": "somebody that was a Tyler Robinson lookalike, maybe it's Lance, who knows?",
@@ -1776,7 +1804,9 @@
       "claim": "The host says her current belief is that Tyler Robinson's role was not on campus, that this is trending on Twitter, and that she is open to being proven wrong.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:34",
       "investigative_direction": "Locate any footage or records that place Tyler Robinson on campus during the shooting.",
       "transcript_snippet": "That is my current belief. I am open to being proven wrong.",
@@ -1797,7 +1827,9 @@
       "related_nodes": [
         "N-10851"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:34",
       "investigative_direction": "Identify the critics' stated rebuttal and compare it with the full set of garage footage.",
       "transcript_snippet": "We've got a lot more of that footage and we've checked it on every floor.",
@@ -1822,7 +1854,9 @@
         "N-10851",
         "N-10855"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:24",
       "investigative_direction": "Ask for service or modification records for the Challenger and the source of the 33-hour window.",
       "transcript_snippet": "tasked with coming up with a compelling narrative as to how exactly Tyler Robinson in 33 hours managed to alter his car's exhaust system.",
@@ -1847,7 +1881,11 @@
         "N-10051",
         "N-10853"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "dia",
+        "tip line"
+      ],
       "claim_timestamp": "00:13:31",
       "investigative_direction": "Obtain the Dairy Queen police report, the footage and the text chain the host refers to.",
       "transcript_snippet": "We ask that you please email us at more tips@caniswowens. com.",
@@ -1865,7 +1903,9 @@
       "related_nodes": [
         "N-11151"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:31",
       "investigative_direction": "Obtain the warrant text and the shopping-center camera footage for the 12:44 sighting.",
       "transcript_snippet": "we know this per the search warrants that uh Tyler Robinson's vehicle is spotted at the Mountain Shadows Shopping Center",
@@ -1884,7 +1924,9 @@
       "related_nodes": [
         "N-11151"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:31",
       "investigative_direction": "Ask Ryan Mata for the original source and date of the shopping-center sighting report.",
       "transcript_snippet": "I actually called Ryan Mata today.",
@@ -1904,7 +1946,9 @@
         "N-11151",
         "N-10852"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:38",
       "investigative_direction": "Obtain the warrant applications to see what the car wash warrant cited as probable cause.",
       "transcript_snippet": "because the public finds out about this, the FBI uh is able to file a warrant which brings them to discovering that Tyler Robinson went to the car wash.",
@@ -1924,7 +1968,9 @@
         "N-11151",
         "N-10852"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:38",
       "investigative_direction": "Obtain the shopping center surveillance footage cited in the narrative.",
       "transcript_snippet": "Shopping Center surveillance footage then backs up this departure.",
@@ -1947,7 +1993,9 @@
         "N-10811",
         "N-10625"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:05",
       "investigative_direction": "Compare the exhibits as shown at the hearing with the originals to confirm any aspect ratio or quality alteration.",
       "transcript_snippet": "we got nothing that was clear. Everything was the aspect ratio was adjusted.",
@@ -1966,7 +2014,9 @@
         "N-10852",
         "N-10850"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:50",
       "investigative_direction": "Seek the Quick Quack footage and license plate capture through records requests or discovery.",
       "transcript_snippet": "So, that tells me that we need to explore this car wash theory more because it's possible that it's not Tyler Robinson's car.",
@@ -1988,7 +2038,9 @@
       "related_nodes": [
         "N-11152"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:10",
       "investigative_direction": "Request device and account login records for Tyler Robinson's accounts for September 10.",
       "transcript_snippet": "I've always wondered if he was simply the person that was awake and logging into all of Tyler's accounts from a different device.",
@@ -2008,7 +2060,9 @@
       "related_nodes": [
         "N-10598"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:10",
       "investigative_direction": "Check the court record for any immunity agreement or terms given to Lance Twiggs.",
       "transcript_snippet": "That didn't register to me as a reason that you would need use immunity when you're testifying.",
@@ -2028,7 +2082,9 @@
         "N-11152",
         "N-10852"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:10",
       "investigative_direction": "Test reproducibility and check whether the warrant's route record was tagged to a device or account session.",
       "transcript_snippet": "sure enough, it is simply because she's logged into the same account.",
@@ -2047,7 +2103,9 @@
       "related_nodes": [
         "N-10598"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:19",
       "investigative_direction": "Interview Lance's family and review the investigative record on his questioning.",
       "transcript_snippet": "his own family doesn't understand why he was not investigated more",
@@ -2067,7 +2125,9 @@
       "claim": "The host says Lance was at least moderately involved in the furry community and had a furry name, which she says she explained to viewers earlier.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:22:19",
       "investigative_direction": "Locate the earlier aired material on Lance's online avatar name and its source.",
       "transcript_snippet": "at least moderately involved in the furry community",
@@ -2084,7 +2144,9 @@
       "claim": "The host says Tyler Robinson has the opposite record from Lance, kind of squeaky clean.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:06",
       "investigative_direction": "Pull criminal and school records for both men to compare.",
       "transcript_snippet": "His record's kind of squeaky clean.",
@@ -2106,7 +2168,9 @@
       "related_nodes": [
         "N-10852"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:06",
       "investigative_direction": "Obtain the full warrant and the Quick Quack transaction records.",
       "transcript_snippet": "It does not go so far as to say that he actually got a car wash, only that he went to the car wash and they got the surveillance footage.",
@@ -2128,7 +2192,9 @@
       "related_nodes": [
         "N-10090"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:06",
       "investigative_direction": "Check the charging documents and lab reports for the towel and screwdriver evidence.",
       "transcript_snippet": "They're trying to get us to imagine that he used the towel to wipe off his DNA.",
@@ -2147,7 +2213,9 @@
       "related_nodes": [
         "N-11151"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:06",
       "investigative_direction": "Reconstruct the chain of contacts from the original shopping center witness to Ryan Mata.",
       "transcript_snippet": "I was talking to Ryan, you know, he got reached out to somebody who got reached out to somebody got reached out to by somebody else.",
@@ -2169,7 +2237,11 @@
         "N-10852",
         "N-11151"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "dia",
+        "tip line"
+      ],
       "claim_timestamp": "00:23:06",
       "investigative_direction": "Collect the emailed information on the Quick Quack car wash and the Mountain Shadows shopping center.",
       "transcript_snippet": "We are back to the beginning of this investigation. You can email us more tips@canniswens. com.",
@@ -2187,7 +2259,11 @@
         "A-2904.3"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "dia",
+        "tip line"
+      ],
       "claim_timestamp": "00:26:05",
       "investigative_direction": "Audit the tip inbox delivery failures the host describes.",
       "transcript_snippet": "50,000 plus emails. A lot didn't go through.",
@@ -2203,7 +2279,9 @@
       "claim": "The host says she needs to sit down, assemble the timeline and list clear questions to answer before going on maternity leave.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:26:05",
       "investigative_direction": "Check for the promised timeline and question list.",
       "transcript_snippet": "I really think that I need to sit down, get this timeline together, and have a clear list of questions",
@@ -2223,7 +2301,9 @@
         "N-10850",
         "N-10851"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:32",
       "investigative_direction": "Check Tyler Robinson's registration and VIN for the engine type.",
       "transcript_snippet": "Tyler's vehicle is a V6, which we have confirmed it is indeed a V6",
@@ -2245,7 +2325,9 @@
         "N-10850",
         "N-10851"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:32",
       "investigative_direction": "Have a vehicle expert examine the wheels and exhaust in the garage footage.",
       "transcript_snippet": "the car that's going into the garage is a V8 and that you can actually determine that by the wheels. I don't know if that's true",
@@ -2264,7 +2346,9 @@
       "claim": "The host says that when Charlie Kirk died the best Donald Trump did was an AI photo of Kirk hugging a combined Israeli and American flag, and a speech, with no investigation.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:13",
       "investigative_direction": "Check the White House and Trump posts after September 10 for the AI image and any announced investigation.",
       "transcript_snippet": "the best Trump could do was an AI photo of him hugging an Israeli flag mixed with the American flag and a speech.",
@@ -2282,7 +2366,9 @@
       "claim": "The host says that, when asked the day before whether she would run, her answer was no, because she does not want to waste her life around these people.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:31:35",
       "investigative_direction": "Check the prior episode for the viewer question about running.",
       "transcript_snippet": "No, I don't. I don't want to waste my life around these people.",
@@ -2300,7 +2386,9 @@
         "A-2422.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:38",
       "investigative_direction": "Verify against the UN transcript of the September 2025 Netanyahu address.",
       "transcript_snippet": "Proportionately, this is equal to 40,000 innocent Americans slaughtered in less than 24 hours.",
@@ -2318,7 +2406,9 @@
         "A-2422.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:35:38",
       "investigative_direction": "Recorded as stated; no evidence presented on air; compare against the 9/11 Commission record.",
       "transcript_snippet": "Israel was behind 911. Everybody knows it.",
@@ -2337,7 +2427,9 @@
         "A-2901.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:38",
       "investigative_direction": "Verify against the UN transcript.",
       "transcript_snippet": "The Houthis, Iran, militias in Iraq, militias in Syria, Palestinian terrorists in Judea, Samaria, they all ganged up on us",
@@ -2355,7 +2447,9 @@
         "A-2422.3"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:38",
       "investigative_direction": "Verify against the UN transcript and independent damage assessments.",
       "transcript_snippet": "We crushed Iran's army, navy, air force, and nuclear facilities.",
@@ -2375,7 +2469,9 @@
       "related_nodes": [
         "N-10977"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:50",
       "investigative_direction": "Verify against the UN video and transcript.",
       "transcript_snippet": "You remember the beepers? Remember these things? Remember them?",
@@ -2395,7 +2491,9 @@
       "related_nodes": [
         "N-10980"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:44",
       "investigative_direction": "Pull the Reuters article and confirm the headline and date.",
       "transcript_snippet": "Israeli bulldozers smashed Palestinian olive trees ahead of annual harvest.",
@@ -2411,7 +2509,9 @@
       "claim": "The host alleges that Benjamin Netanyahu knows the American military is his military because he has blackmailed all of the country's politicians.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:44",
       "investigative_direction": "The host offers no evidence on air; ask her for the basis of the blackmail allegation.",
       "transcript_snippet": "because he's blackmailed all of our politicians.",
@@ -2432,7 +2532,9 @@
       "related_nodes": [
         "N-11091"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:02",
       "investigative_direction": "Locate the Where Forbidden video and the Blake Neff interview it parodies.",
       "transcript_snippet": "he did a uh AI video which really covered the basis on what took place during that interview.",
@@ -2451,7 +2553,9 @@
       "related_nodes": [
         "N-10417"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:10",
       "investigative_direction": "Obtain the video, its provenance and how it came to be released through Wilson.",
       "transcript_snippet": "she gives him something as precious as a video what is supposed to be as they're presenting it the last video.",
@@ -2472,7 +2576,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:44",
       "investigative_direction": "Obtain the donation email and compare its date with the note's origin.",
       "transcript_snippet": "And the worst part is she puts it in a an email for donations.",
@@ -2490,7 +2596,9 @@
       "claim": "The host says Andrew Wilson is a drunk addicted to chain smoking, citing late-night content of him drinking whiskey.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:44",
       "investigative_direction": "Review the cited late-night content and attribute it; no evidence is shown on air.",
       "transcript_snippet": "there's like late night stuff of him just like downing whiskey",
@@ -2509,7 +2617,9 @@
       "related_nodes": [
         "N-10417"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:44",
       "investigative_direction": "Check whether the Wilson video was offered as evidence of where Erika was on September 9.",
       "transcript_snippet": "to prove a point that you weren't at Fort Wuka",
@@ -2530,7 +2640,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:00",
       "investigative_direction": "Compare with the host's earlier episodes on TPUSA to date this change of view.",
       "transcript_snippet": "at the beginning of this, I thought that they were Charlie's true friends and were going to try to help fight for justice.",
@@ -2549,7 +2661,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:38",
       "investigative_direction": "Watch for any filed suit by TPUSA against the host.",
       "transcript_snippet": "Don't worry about the lawsuits if it is something that they are planning or what they're trying to entrap me.",
@@ -2565,7 +2679,9 @@
       "claim": "The host says Charlie Kirk's favorite biblical proverb was iron sharpens iron and that he texted her about it all the time.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:38",
       "investigative_direction": "Locate the texts with that proverb if the host publishes them.",
       "transcript_snippet": "Charlie's favorite biblical proverb was iron sharpens iron. He's texted me all the time",
@@ -2588,7 +2704,11 @@
         "N-10852",
         "N-11151"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "dia",
+        "tip line"
+      ],
       "claim_timestamp": "00:49:38",
       "investigative_direction": "Collect and triage tips on Dairy Queen, the shopping center and the car wash.",
       "transcript_snippet": "Email us more tips. com. Again, we're revisiting Dairy Queen.",
@@ -2609,7 +2729,9 @@
       "related_nodes": [
         "N-10541"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:38",
       "investigative_direction": "Pull the NPR interview and confirm the wording.",
       "transcript_snippet": "Carlson recounts a meeting with Trump in which he says Trump dismissed his concerns about the Iran war by saying we're all gonna we're all gonna die anyway.",
@@ -2631,7 +2753,9 @@
       "related_nodes": [
         "N-10854"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:24",
       "investigative_direction": "Review the hearing testimony for each reference to partial plates.",
       "transcript_snippet": "every time they talk about the plates, they effectively say that they were able to confirm the first part of the plate.",
@@ -2654,7 +2778,9 @@
         "N-10854",
         "N-10850"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:24",
       "investigative_direction": "Obtain any garage footage showing the Challenger's plate.",
       "transcript_snippet": "I certainly don't have a footage that confirms it",
@@ -2676,7 +2802,9 @@
         "N-10854",
         "N-10850"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:24",
       "investigative_direction": "Compare plate numbers in both vehicles' images against registration records.",
       "transcript_snippet": "It means the feds are printing out fake plates or matching plates",

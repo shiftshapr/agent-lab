@@ -11,10 +11,10 @@
 - **Transcript SHA-256**: 4a7df4953927c48a49d7120e7fa31a7ac76cd464f006ffebfaad184d8fa0f1ee
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-754, N-755, N-756, N-757, N-758, N-759, N-760, N-761, N-762, N-11062, N-11063
+  - Tip-minted Nodes (supplement_2026-10): N-753, N-754, N-755, N-756, N-757, N-758, N-759, N-760, N-761, N-11062, N-11063
   - Hole-minted Nodes (reintro-ep130): N-359, N-360
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-11, N-17, N-27, N-30, N-36, N-37, N-38, N-40, N-89, N-97, N-138, N-194, N-205, N-258, N-266, N-267, N-284, N-305, N-337, N-500, N-557, N-620, N-719, N-10000, N-10018, N-10027, N-10070, N-10132, N-10249, N-10253, N-10256, N-10259, N-10311, N-10341, N-10345, N-10383, N-10388, N-10398, N-10447, N-10550, N-10712, N-10714, N-10740, N-10741, N-10815, N-10900, N-10925, N-10938, N-752, N-753, N-11065, N-11064, N-10745
+  - Reused Nodes Appearing: N-11, N-17, N-27, N-30, N-36, N-37, N-38, N-40, N-89, N-97, N-138, N-194, N-205, N-258, N-266, N-267, N-284, N-305, N-337, N-500, N-556, N-619, N-718, N-10000, N-10018, N-10027, N-10070, N-10132, N-10249, N-10253, N-10256, N-10259, N-10311, N-10341, N-10345, N-10383, N-10388, N-10398, N-10447, N-10550, N-10712, N-10714, N-10740, N-10741, N-10815, N-10900, N-10925, N-10938, N-751, N-752, N-11065, N-11064, N-10745
   - Claim Range (supplement_2026-10): C-5920–C-6007
  - New Nodes Introduced: N-10744, N-10746, N-10747
  - Reused Nodes Appearing: N-28
@@ -179,7 +179,7 @@ Video Timestamp: 00:17:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5944, C-5945, C-5946, N-757*
+*Related: C-5944, C-5945, C-5946, N-756*
 
 ---
 
@@ -207,7 +207,7 @@ Video Timestamp: 00:09:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5931, C-5933, C-5934, N-757*
+*Related: C-5931, C-5933, C-5934, N-756*
 
 ---
 
@@ -710,7 +710,7 @@ Erika Kirk's mother; transcript spells her Laura Lori Fronsway.
 
 ---
 
-**N-557** Tracy Martin
+**N-556** Tracy Martin
 
 Possible referent of the host's guess that Tracy was the Daily Mail's family-friend source.
 
@@ -718,7 +718,7 @@ Possible referent of the host's guess that Tracy was the Daily Mail's family-fri
 
 ---
 
-**N-620** Graham Allen
+**N-619** Graham Allen
 
 Named in the host's remark on influencers.
 
@@ -726,7 +726,7 @@ Named in the host's remark on influencers.
 
 ---
 
-**N-719** Sheldon Adelson
+**N-718** Sheldon Adelson
 
 Named as the late Sheldon Adelson who held the Sands.
 
@@ -750,7 +750,7 @@ Subject of the friendship dispute and the million-dollar check claim.
 
 ---
 
-**N-752** Michael Jackson
+**N-751** Michael Jackson
 
 First named by the host at 00:02:09 in episode 130. Cited as having alluded to a Zionist mafia before his death and as the subject of the coverage the host says contributed to her Daily Wire firing.
 
@@ -758,7 +758,7 @@ First named by the host at 00:02:09 in episode 130. Cited as having alluded to a
 
 ---
 
-**N-753** Harley Pasternak
+**N-752** Harley Pasternak
 
 First named by the host at 00:02:09 in episode 130. Kanye West's former gym trainer, whom the host says threatened to drug him and take his children away.
 
@@ -766,7 +766,7 @@ First named by the host at 00:02:09 in episode 130. Kanye West's former gym trai
 
 ---
 
-**N-754** Benjamin Emanuel
+**N-753** Benjamin Emanuel
 
 First named by the host at 00:06:31 in episode 130. Described as an Irgun member and the father of Ari and Rahm Emanuel.
 
@@ -774,7 +774,7 @@ First named by the host at 00:06:31 in episode 130. Described as an Irgun member
 
 ---
 
-**N-755** Ari Emanuel
+**N-754** Ari Emanuel
 
 First named by the host at 00:06:31 in episode 130. Described as one of the most powerful men in Hollywood and son of Benjamin Emanuel.
 
@@ -782,7 +782,7 @@ First named by the host at 00:06:31 in episode 130. Described as one of the most
 
 ---
 
-**N-756** Rahm Emanuel
+**N-755** Rahm Emanuel
 
 First named by the host at 00:06:31 in episode 130. Described as a Clinton adviser, Obama chief of staff and mayor of Chicago, and son of Benjamin Emanuel.
 
@@ -790,7 +790,7 @@ First named by the host at 00:06:31 in episode 130. Described as a Clinton advis
 
 ---
 
-**N-757** Howard Hughes
+**N-756** Howard Hughes
 
 First named by the host at 00:08:56 in episode 130. Billionaire whose last years and death anchor the host's Mormon Mafia history. Aliases (transcript spellings): Howard Robert Hughes Jr..
 
@@ -798,7 +798,7 @@ First named by the host at 00:08:56 in episode 130. Billionaire whose last years
 
 ---
 
-**N-758** Frank William Gay
+**N-757** Frank William Gay
 
 First named by the host at 00:13:06 in episode 130. LDS member who ran a Hughes subsidiary, led his Mormon aides and later became trustee of the Howard Hughes Medical Institute. Aliases (transcript spellings): Bill Gay.
 
@@ -806,7 +806,7 @@ First named by the host at 00:13:06 in episode 130. LDS member who ran a Hughes 
 
 ---
 
-**N-759** Robert Graf
+**N-758** Robert Graf
 
 First named by the host at 00:16:30 in episode 130. Owner of the jet on which Howard Hughes died and founder of Robert Graf Inc., later Duncan Aviation. Aliases (transcript spellings): Robert Kraft (transcript misspelling).
 
@@ -814,7 +814,7 @@ First named by the host at 00:16:30 in episode 130. Owner of the jet on which Ho
 
 ---
 
-**N-760** Robert Gay
+**N-759** Robert Gay
 
 First named by the host at 00:22:19 in episode 130. Son of Frank William Gay and a former managing director of Bain Capital.
 
@@ -822,7 +822,7 @@ First named by the host at 00:22:19 in episode 130. Son of Frank William Gay and
 
 ---
 
-**N-761** Jon Kyl
+**N-760** Jon Kyl
 
 First named by the host at 00:25:03 in episode 130. Senator through whom Erika Kirk told the host she may have met Tyler Bowyer. Aliases (transcript spellings): Senator Jon Kyl.
 
@@ -830,7 +830,7 @@ First named by the host at 00:25:03 in episode 130. Senator through whom Erika K
 
 ---
 
-**N-762** Taylor Marshall
+**N-761** Taylor Marshall
 
 First named by the host at 00:51:48 in episode 130. Catholic commentator the host calls a friend of her husband. Aliases (transcript spellings): Dr. Taylor Marshall.
 
@@ -1042,7 +1042,7 @@ Claim: The host says Kanye West alluded to a Zionist mafia after his gym trainer
 Transcript Snippet: Kanye West alluded to that after his gym trainer, Harley Pasternak, threatened to drug him and take his children away.
 
 Anchored Artifacts: 
-Mentions: N-27, N-753, N-752, N-3
+Mentions: N-27, N-752, N-751, N-3
 Investigative Direction: Locate the Kanye West messages concerning Harley Pasternak that the host refers to and any response from Pasternak.
 
 ---
@@ -1056,7 +1056,7 @@ Claim: The host says one specific reason the Daily Wire listed for firing her wa
 Transcript Snippet: one of the reasons among many that I was fired from The Daily Wire, a specific reason that they listed was I suggested that there could be a Jewish mafia in Hollywood
 
 Anchored Artifacts: 
-Mentions: N-3, N-752
+Mentions: N-3, N-751
 Related Nodes: N-10900
 Investigative Direction: Obtain the host's termination paperwork or contemporaneous Daily Wire statements stating the reasons given for her separation.
 
@@ -1116,7 +1116,7 @@ Claim: The host says Benjamin Emanuel was a member of Irgun and is the father of
 Transcript Snippet: One of its members was a man named Benjamin Emanuel. That is the father of Ari Emanuel, one of the most powerful, if not the most powerful man in Hollywood.
 
 Anchored Artifacts: 
-Mentions: N-754, N-755, N-756
+Mentions: N-753, N-754, N-755
 Related Nodes: N-11062
 Investigative Direction: Verify Benjamin Emanuel's Irgun membership against biographies of Rahm and Ari Emanuel and Israeli archival records.
 
@@ -1131,7 +1131,7 @@ Claim: The host says Rahm Emanuel was director of public affairs and then senior
 Transcript Snippet: Rahm was also the chief of staff under Barack Obama and then he became the mayor of Chicago.
 
 Anchored Artifacts: 
-Mentions: N-756
+Mentions: N-755
 Investigative Direction: Check Rahm Emanuel's official biography for the Clinton White House titles and dates.
 
 ---
@@ -1159,7 +1159,7 @@ Claim: The host reads from a Google search result that the Mormon Mafia is a col
 Transcript Snippet: the trusted Latter-Day Saints inner circle of businessmen businessmen and accountants who were hired by billionaire Howard Hughes in Las Vegas during the 1960s.
 
 Anchored Artifacts: 
-Mentions: N-757
+Mentions: N-756
 Related Nodes: N-10249
 Investigative Direction: Capture the exact Google snippet and its cited source and compare with encyclopedic definitions of the term.
 
@@ -1174,7 +1174,7 @@ Claim: The host says Howard Hughes made his name as a film producer behind Scarf
 Transcript Snippet: To make Hell's Angels, he actually assembled the largest private air force in the world.
 
 Anchored Artifacts: A-2788.1
-Mentions: N-757
+Mentions: N-756
 Investigative Direction: Verify against Hughes biographies and film-production records for Hell's Angels.
 
 ---
@@ -1188,7 +1188,7 @@ Claim: The host says Howard Hughes founded the Hughes Aircraft Company in 1932, 
 Transcript Snippet: In 1932, Howard Hughes founded the Hughes Aircraft Company.
 
 Anchored Artifacts: A-2788.1
-Mentions: N-757
+Mentions: N-756
 Investigative Direction: Check corporate histories of Hughes Aircraft for the founding date and the Lockheed hangar arrangement.
 
 ---
@@ -1202,7 +1202,7 @@ Claim: The host says Howard Hughes formed the Howard Hughes Medical Institute in
 Transcript Snippet: formed that in 1953 to fund basic medical research.
 
 Anchored Artifacts: A-2788.1
-Mentions: N-757
+Mentions: N-756
 Related Nodes: N-11063
 Investigative Direction: Review HHMI founding documents and IRS and court records on the transfer of Hughes Aircraft stock to the institute.
 
@@ -1217,7 +1217,7 @@ Claim: The host says that in the last ten years of his life Howard Hughes bought
 Transcript Snippet: Howard Hughes in the last 10 years of his life began buying up casinos and hotels and restaurants in Las Vegas including the Desert Inn
 
 Anchored Artifacts: A-2788.1
-Mentions: N-757
+Mentions: N-756
 Investigative Direction: Check Nevada gaming-commission records for the dates of Hughes's Desert Inn and Sands acquisitions.
 
 ---
@@ -1231,7 +1231,7 @@ Claim: The host says Howard Hughes was not a drinker, not a partier and did not 
 Transcript Snippet: Howard Hughes himself was not a drinker, he was not a partier, he did not do drugs.
 
 Anchored Artifacts: 
-Mentions: N-757
+Mentions: N-756
 Investigative Direction: Compare with biographies' accounts of Hughes's painkiller use earlier in life.
 
 ---
@@ -1245,7 +1245,7 @@ Claim: The host says that after acquiring RKO, Howard Hughes shut the studio dow
 Transcript Snippet: he shut down his film studio after he acquired it acquired it, RKO, for 6 months.
 
 Anchored Artifacts: 
-Mentions: N-757
+Mentions: N-756
 Investigative Direction: Verify the 1948 RKO shutdown and its stated purpose in studio histories and trade press.
 
 ---
@@ -1259,7 +1259,7 @@ Claim: The host says Howard Hughes trusted Frank William Gay, a member of the LD
 Transcript Snippet: One person who he trusted was a man named Frank William Gay. He was a member of the LDS Church, Latter-Day Saints, uh who he initially hired just to run a subsidiary of his tool business.
 
 Anchored Artifacts: 
-Mentions: N-758, N-757
+Mentions: N-757, N-756
 Related Nodes: N-10249
 Investigative Direction: Check Summa Corporation and Hughes Tool Company records for Gay's hiring date and role.
 
@@ -1274,7 +1274,7 @@ Claim: The host says the public was told Howard Hughes became a recluse because 
 Transcript Snippet: he was in pain from injuries that he had endured over his lifetime, so he began taking painkillers.
 
 Anchored Artifacts: 
-Mentions: N-757
+Mentions: N-756
 Investigative Direction: Compare with contemporaneous press accounts and later biographies for the official explanation of Hughes's seclusion.
 
 ---
@@ -1288,7 +1288,7 @@ Claim: The host reads from the 1976 Time article that the aides had no lavish su
 Transcript Snippet: They were, with a single exception, adherence to Mormonism, a religion that embodies Howard Hughes's aversion to drinking and smoking
 
 Anchored Artifacts: A-2173.1
-Mentions: N-757
+Mentions: N-756
 Related Nodes: N-10747
 Supports: C-3109
 
@@ -1319,7 +1319,7 @@ Claim: The host says the official cause of Howard Hughes's death was kidney fail
 Transcript Snippet: Officially, Howard Hughes died of kidney failure on April 5th, 1976. He was aboard a jet, actually.
 
 Anchored Artifacts: 
-Mentions: N-757
+Mentions: N-756
 Related Nodes: N-10744
 Investigative Direction: Obtain the Hughes death certificate and autopsy summaries for date, place and stated cause.
 
@@ -1334,7 +1334,7 @@ Claim: The host says the jet was owned by Robert Graf, founder of Robert Graf In
 Transcript Snippet: he was the founder of Robert Graf Inc., which became Duncan Aviation. His business partner was Donald Duncan.
 
 Anchored Artifacts: 
-Mentions: N-759, N-138, N-266, N-40
+Mentions: N-758, N-138, N-266, N-40
 Related Nodes: N-10256
 Investigative Direction: Check Duncan Aviation corporate history and records of the aircraft that carried Hughes on 5 April 1976.
 
@@ -1364,7 +1364,7 @@ Claim: The host reads that after 18 months of investigation it was discovered th
 Transcript Snippet: Someone administered a deadly injection of the painkiller codeine to this virtually comatose man.
 
 Anchored Artifacts: A-2786.1
-Mentions: N-757
+Mentions: N-756
 Related Nodes: N-10744
 Investigative Direction: Identify the investigation (probate or Texas and Nevada inquiries) and read the original findings on cause of death.
 
@@ -1379,7 +1379,7 @@ Claim: The host reads that malnutrition, bed sores and kidney damage were found 
 Transcript Snippet: X-rays revealed five broken-off hypodermic needles needles that were inside the flesh of his arms.
 
 Anchored Artifacts: A-2786.1
-Mentions: N-757
+Mentions: N-756
 Related Nodes: N-10744
 Investigative Direction: Check the 1976 autopsy reports and later biographies for the needle finding.
 
@@ -1394,7 +1394,7 @@ Claim: The host says that at death Howard Hughes's body was so thin that observe
 Transcript Snippet: his body was so thin that observers likened him to a captive from a Japanese prisoner-of-war camp.
 
 Anchored Artifacts: A-2786.1
-Mentions: N-757
+Mentions: N-756
 Related Nodes: N-10744
 Investigative Direction: Compare with autopsy descriptions and testimony from the estate proceedings.
 
@@ -1409,7 +1409,7 @@ Claim: The host says a mysterious handwritten note filed by the Church of Latter
 Transcript Snippet: There was a mysterious handwritten note, which was filed by the Church of a Latter-day Saints, which they claimed was his last will and testament.
 
 Anchored Artifacts: 
-Mentions: N-757
+Mentions: N-756
 Related Nodes: N-10744
 Investigative Direction: Check court records of the Mormon will (Melvin Dummar will) litigation and who filed it.
 
@@ -1424,7 +1424,7 @@ Claim: The host says the fight over Howard Hughes's $2.5 billion estate lasted 3
 Transcript Snippet: It was a 34-year legal battle. Until eventually it was decided that the majority of his fortune, around $1.5 billion, would be controlled by the Howard Hughes Medical Institute
 
 Anchored Artifacts: 
-Mentions: N-757
+Mentions: N-756
 Related Nodes: N-11063
 Investigative Direction: Verify the estate value, settlement timeline and the HHMI share against probate and IRS records.
 
@@ -1439,7 +1439,7 @@ Claim: The host says that when Howard Hughes died the trustee of his charity's b
 Transcript Snippet: the trustee of the board became Frank William Gay. His trusted Mormon. Who, it would be discovered later, was at one point working with the CIA.
 
 Anchored Artifacts: 
-Mentions: N-758, N-757
+Mentions: N-757, N-756
 Related Nodes: N-11063
 Investigative Direction: Check HHMI trustee records and CIA-related reporting on Gay's work with the agency.
 
@@ -1454,7 +1454,7 @@ Claim: The host says the Hughes-era Las Vegas Sands resort and casino is today c
 Transcript Snippet: Today, his Las Vegas Sands Resort, obviously, and casino is controlled and operated by Miriam Adelson.
 
 Anchored Artifacts: 
-Mentions: N-305, N-719, N-757
+Mentions: N-305, N-718, N-756
 Investigative Direction: Distinguish the Hughes-era Sands Hotel from the Las Vegas Sands Corporation and verify current ownership.
 
 ---
@@ -1468,7 +1468,7 @@ Claim: The host says Steve Wynn controls the Frontier Hotel and the Desert Inn, 
 Transcript Snippet: Steve Wynn eventually demolished that, and today it is the famed Wynn Las Vegas Hotel.
 
 Anchored Artifacts: 
-Mentions: N-360, N-757
+Mentions: N-360, N-756
 Investigative Direction: Verify ownership history of the Desert Inn and Frontier sites and the Wynn Las Vegas build on the Desert Inn land.
 
 ---
@@ -1510,7 +1510,7 @@ Claim: The host says Frank William Gay had a son, Robert Gay, who became managin
 Transcript Snippet: he had a son, Robert Gay, who became the managing director of Mitt Romney's Bain Capital for 16 years.
 
 Anchored Artifacts: 
-Mentions: N-760, N-758, N-28
+Mentions: N-759, N-757, N-28
 Investigative Direction: Check Bain Capital biographies for Robert Gay's tenure and family relationship to Frank Gay.
 
 ---
@@ -1524,7 +1524,7 @@ Claim: The host says that while researching one of the "maroon boys," whom she i
 Transcript Snippet: when I was researching one of the maroon boys maroon boys I who I'm not naming at this time I did discover that he was a relative of the Hughes family empire
 
 Anchored Artifacts: 
-Mentions: N-3, N-757
+Mentions: N-3, N-756
 Related Nodes: N-10311
 Investigative Direction: Ask the host or her source to identify the person and the documented family link to the Hughes family.
 
@@ -1631,7 +1631,7 @@ Claim: The host says Tyler Bowyer brought Erika into the organization, that both
 Transcript Snippet: She told me maybe through Senator Jon Kyl, maybe uh that's what she told me in our face-to-face meeting
 
 Anchored Artifacts: 
-Mentions: N-11, N-2, N-761, N-3
+Mentions: N-11, N-2, N-760, N-3
 Investigative Direction: Compare with Erika Kirk's public accounts of how she was introduced to Charlie Kirk and to Bowyer.
 
 ---
@@ -1919,7 +1919,7 @@ Claim: The host says the Daily Mail article used direct quotes from a family fri
 Transcript Snippet: Direct quotes coming from a family friend who I speculated was Tracy uh because that is the only person I know that is friends with Erika's family who has been vocally speaking to people in the press.
 
 Anchored Artifacts: 
-Mentions: N-557, N-2, N-3
+Mentions: N-556, N-2, N-3
 Related Nodes: N-10745, N-10070
 Supports: C-3083
 
@@ -2253,7 +2253,7 @@ Claim: The host says Taylor Marshall is a good friend of her husband George and 
 Transcript Snippet: He's a good friends with my husband, George. And we have hosted him here in Nashville before.
 
 Anchored Artifacts: A-2179.4
-Mentions: N-762, N-30, N-3
+Mentions: N-761, N-30, N-3
 Investigative Direction: Confirm the planned project and its cancellation with Marshall's team.
 
 ---
@@ -2267,7 +2267,7 @@ Claim: The host says it was an atrocious idea for the PR team to have Erika Kirk
 Transcript Snippet: What an atrocious idea if you're the PR team to have Erika invite influencers into the courtroom.
 
 Anchored Artifacts: 
-Mentions: N-2, N-620, N-89
+Mentions: N-2, N-619, N-89
 Related Nodes: N-11065
 Investigative Direction: Identify which influencers attended the preliminary hearing and who invited them.
 

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-14T17:16:22Z",
+  "generated_at": "2026-10-14T18:12:11Z",
   "vocabulary_version": "2.0.0",
   "vocabulary_dateModified": "2026-10-07",
   "edge_counts": {
     "contradicts": 85,
     "isCorroboratedBy": 1660,
     "isMemberOf": 16143,
-    "isQualifiedBy": 94,
+    "isQualifiedBy": 95,
     "isSupportedBy": 6669
   },
   "revises_candidate_rows": 3366,
@@ -14,6 +14,6 @@
     "isQualifiedBy": 1672,
     "extends": 11
   },
-  "bridge_count": 24651,
+  "bridge_count": 24652,
   "node_count": 16144
 }

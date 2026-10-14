@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Reused Nodes Appearing: N-10825, N-10820
  - New Nodes Introduced: N-10821, N-10822, N-10823, N-10824, N-10826
- - Reused Nodes Appearing: N-375, N-435, N-503, N-516
+ - Reused Nodes Appearing: N-375, N-435, N-503, N-515
  - (see registers)
 
 ---
@@ -528,7 +528,7 @@ Claim Timestamp: 00:17:03
 Claim: Christopher (Kirk's main security person / driver) and Nate Walker were observed walking toward the Sorensen building, upstairs, in the minutes before the shot.
 
 Anchored Artifacts: A-2329.4
-Mentions: N-516
+Mentions: N-515
 
 Related Nodes: N-10821
 

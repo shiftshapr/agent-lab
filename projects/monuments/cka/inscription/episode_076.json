@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-9",
-            "N-583"
+            "N-582"
           ],
           "tags": [],
           "event_timestamp": "2012",
@@ -89,7 +89,7 @@
             "C-2434"
           ],
           "related_nodes": [
-            "N-584"
+            "N-583"
           ],
           "tags": [],
           "event_timestamp": "Unknown (prior to 2026-03-10)",
@@ -126,7 +126,7 @@
           ],
           "related_nodes": [
             "N-9",
-            "N-582"
+            "N-581"
           ],
           "tags": [],
           "event_timestamp": "Prior to Epstein's 2019 arrest",
@@ -153,8 +153,8 @@
           ],
           "related_nodes": [
             "N-9",
-            "N-569",
-            "N-585"
+            "N-568",
+            "N-584"
           ],
           "tags": [],
           "event_timestamp": "Prior to 2019",
@@ -180,8 +180,8 @@
             "C-2426"
           ],
           "related_nodes": [
-            "N-569",
-            "N-585"
+            "N-568",
+            "N-584"
           ],
           "tags": [],
           "event_timestamp": "Prior to 2026-03-10",
@@ -446,7 +446,7 @@
             "N-155",
             "N-3",
             "N-69",
-            "N-874"
+            "N-873"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -562,7 +562,7 @@
             "N-10698",
             "N-2",
             "N-3",
-            "N-582",
+            "N-581",
             "N-9"
           ],
           "tags": [],
@@ -585,7 +585,7 @@
             "N-10519",
             "N-10532",
             "N-2",
-            "N-582",
+            "N-581",
             "N-9"
           ],
           "tags": [],
@@ -774,8 +774,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-582",
-      "ref": "N-582",
+      "@id": "N-581",
+      "ref": "N-581",
       "name": "Faith Kates",
       "type": "person",
       "description": "Co-founder of Next Model Management (NYC) referenced as central to Epstein's email network (~4,000 emails) and as the subject of A-1812 artifacts.",
@@ -799,8 +799,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-583",
-      "ref": "N-583",
+      "@id": "N-582",
+      "ref": "N-582",
       "name": "Martha Louise of Norway",
       "type": "person",
       "description": "Norwegian princess; correspondent with Jeffrey Epstein (A-1809.1).",
@@ -821,8 +821,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-584",
-      "ref": "N-584",
+      "@id": "N-583",
+      "ref": "N-583",
       "name": "Father Chad Ripberger",
       "type": "person",
       "description": "Catholic exorcist referenced in A-1811.1 discussing occult pedigree families.",
@@ -933,8 +933,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-585",
-      "ref": "N-585",
+      "@id": "N-584",
+      "ref": "N-584",
       "name": "Pam Lehman",
       "type": "person",
       "description": "Per host, featured in the Epstein files and described as helping Epstein with real estate deals; context unclear.",
@@ -948,7 +948,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-569"
+        "N-568"
       ]
     },
     {
@@ -971,7 +971,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-582"
+        "N-581"
       ]
     },
     {
@@ -990,8 +990,8 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-585",
-        "N-569"
+        "N-584",
+        "N-568"
       ]
     },
     {
@@ -1072,7 +1072,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-569"
+        "N-568"
       ]
     },
     {
@@ -1096,7 +1096,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-582",
+        "N-581",
         "N-9"
       ]
     },
@@ -1180,8 +1180,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-569",
-      "ref": "N-569",
+      "@id": "N-568",
+      "ref": "N-568",
       "name": "Lynn Forester de Rothschild",
       "type": "person",
       "description": "Subject of Epstein document entry listing her as Corcoran Group Inc. President.",
@@ -1343,8 +1343,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-532",
-      "ref": "N-532",
+      "@id": "N-531",
+      "ref": "N-531",
       "name": "Rothschild Family",
       "type": "person",
       "description": "The host says Epstein worked directly for the Rothschilds.",
@@ -1360,8 +1360,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-541",
-      "ref": "N-541",
+      "@id": "N-540",
+      "ref": "N-540",
       "name": "Jean-Luc Brunel",
       "type": "person",
       "description": "Paris modeling agent (MC2) the host ties to Epstein's modeling-agency trafficking and a Tel Aviv office.",
@@ -1377,8 +1377,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-557",
-      "ref": "N-557",
+      "@id": "N-556",
+      "ref": "N-556",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Neighbors reportedly saw the Kirk children with her husband.",
@@ -1394,8 +1394,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-605",
-      "ref": "N-605",
+      "@id": "N-604",
+      "ref": "N-604",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Defense Secretary to whom the Air Force Academy board reports, per the host.",
@@ -1411,8 +1411,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-702",
-      "ref": "N-702",
+      "@id": "N-701",
+      "ref": "N-701",
       "name": "Otto Busher",
       "type": "person",
       "description": "Colonel the host links to the Constanta Marine rotation and later trafficking accusations; transcribed Otto Boucher and Otto Buscher.",
@@ -1429,8 +1429,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-726",
-      "ref": "N-726",
+      "@id": "N-725",
+      "ref": "N-725",
       "name": "Kamala Harris",
       "type": "person",
       "description": "Compared by the host to Erika and linked to her mother's alleged MK Ultra involvement.",
@@ -1446,8 +1446,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-750",
-      "ref": "N-750",
+      "@id": "N-749",
+      "ref": "N-749",
       "name": "Dennis Frantzve",
       "type": "person",
       "description": "Erika Kirk's cousin, transcribed Dennis Fronkvey, whom the host names as leading the Black Sea Rotational Force in Constanta in 2010.",
@@ -1888,8 +1888,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-874",
-      "ref": "N-874",
+      "@id": "N-873",
+      "ref": "N-873",
       "name": "Stephen Miller",
       "type": "person",
       "description": "First named by the host at 00:12:57 in episode 76. White House official named by the host's sources as a possible occupant of the West Wing offices.",
@@ -1905,8 +1905,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-875",
-      "ref": "N-875",
+      "@id": "N-874",
+      "ref": "N-874",
       "name": "Les Wexner",
       "type": "person",
       "description": "First named by the host at 00:16:53 in episode 76. Retail executive the host says handed Epstein the keys to a casting role for Victoria's Secret.",
@@ -1974,7 +1974,7 @@
       "investigative_direction": "Obtain the underlying 2012 email(s) from the Epstein files release and verify both authorship and the quoted text.",
       "mentions_person_refs": [
         "N-9",
-        "N-583"
+        "N-582"
       ]
     },
     {
@@ -2053,7 +2053,7 @@
       "investigative_direction": "Search the publicly released Epstein email corpus for Kates-name frequency counts and sample contents.",
       "mentions_person_refs": [
         "N-9",
-        "N-582"
+        "N-581"
       ]
     },
     {
@@ -2073,7 +2073,7 @@
       "investigative_direction": "Locate the specific Epstein-files email containing the bar mitzvah invitation and verify sender/recipient.",
       "mentions_person_refs": [
         "N-9",
-        "N-582"
+        "N-581"
       ]
     },
     {
@@ -2091,8 +2091,8 @@
       "investigative_direction": "Search Epstein-files email corpus for Corcoran/Linda Rothschild references.",
       "mentions_person_refs": [
         "N-9",
-        "N-569",
-        "N-585"
+        "N-568",
+        "N-584"
       ]
     },
     {
@@ -2111,7 +2111,7 @@
       "claim_timestamp": "00:28:26",
       "investigative_direction": "Verify Linda Rothschild's Corcoran role via corporate filings; obtain the background document referenced.",
       "mentions_person_refs": [
-        "N-569"
+        "N-568"
       ]
     },
     {
@@ -2262,7 +2262,7 @@
       "claim_timestamp": "00:10:14–00:11:17",
       "investigative_direction": "Obtain the full Ripberger clip and surrounding podcast context for verification.",
       "mentions_person_refs": [
-        "N-584",
+        "N-583",
         "N-229"
       ]
     },
@@ -2314,7 +2314,9 @@
       "related_nodes": [
         "N-10929"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:43",
       "investigative_direction": "Obtain the White House or Air Force Academy announcement of the appointment and its date.",
       "transcript_snippet": "Erika Kirk has been appointed to the Air Force Academy board.",
@@ -2334,13 +2336,15 @@
       "related_nodes": [
         "N-10929"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:43",
       "investigative_direction": "Check the Board of Visitors roster and its charter for membership size and who it reports to.",
       "transcript_snippet": "With this appointment, Erika joins just 15 other members.",
       "mentions_person_refs": [
         "N-2",
-        "N-605"
+        "N-604"
       ]
     },
     {
@@ -2353,7 +2357,9 @@
       "related_nodes": [
         "N-10929"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:39",
       "investigative_direction": "Compare against the statutory duties of the Air Force Academy Board of Visitors.",
       "transcript_snippet": "They're also tasked with providing an annual annual report regarding the military institute's morale, its finances, its financial state, and its academics.",
@@ -2369,7 +2375,9 @@
       "claim": "The host says Charlie Kirk is alleged to have said Erika will be president one day, and that the original source of the statement cannot be seen.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:27",
       "investigative_direction": "Ask TPUSA for the recording or document in which Kirk is said to have made the remark.",
       "transcript_snippet": "Yeah, obviously we can't see where he said it, but he did say it.",
@@ -2387,7 +2395,9 @@
       "claim": "The host says Charlie Kirk's initial plan was to get into West Point before he founded Turning Point.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:04:12",
       "investigative_direction": "Check Kirk's earlier biographical interviews for the West Point plan.",
       "transcript_snippet": "Remember his plan initially was to get into West Point, but then he established Turning Point and it drove his life into a different direction.",
@@ -2405,7 +2415,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:04:12",
       "investigative_direction": "Check TPUSA Form 990 revenue figures against the $100 million claim.",
       "transcript_snippet": "And sure, that organization was taking $100 million in annually.",
@@ -2423,7 +2435,9 @@
       "related_nodes": [
         "N-10929"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:12",
       "investigative_direction": "Find the March 2025 appointment notice for Charlie Kirk and any press backlash.",
       "transcript_snippet": "He had earned that appointment in March of 2025, so just 6 months before he was assassinated.",
@@ -2442,7 +2456,9 @@
       "related_nodes": [
         "N-10541"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:05:06",
       "investigative_direction": "Compare the dates of the strikes with the Epstein files release schedule.",
       "transcript_snippet": "They're distracting us from the Epstein files and just doing whatever Israel wants like always",
@@ -2461,7 +2477,9 @@
         "A-1809.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:07:57",
       "investigative_direction": "Record as the host's opinion; compare with Sanger's published writings.",
       "transcript_snippet": "This was always about eugenics. The goal was eugenics.",
@@ -2477,7 +2495,9 @@
       "claim": "The host says women's fertility problems are by design and that IVF is part of an elite goal to make people dependent on the government to have families.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:08:41",
       "investigative_direction": "No documentary basis aired; test against published fertility research.",
       "transcript_snippet": "A lot of women today are struggling with fertility issues. That's a real thing and that is not by accident, that is by design.",
@@ -2493,7 +2513,9 @@
       "claim": "The host says these people are literally summoning demons and making blood sacrifices, and that the world now recognizes it.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:09:29",
       "investigative_direction": "No evidence aired; the claim is recorded as stated.",
       "transcript_snippet": "These people are literally summing summoning demons and they're making blood sacrifices.",
@@ -2513,7 +2535,9 @@
       "related_nodes": [
         "N-11192"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:11:17",
       "investigative_direction": "Ask the host for any Epstein document or witness tying him to Frankist practice.",
       "transcript_snippet": "Epstein was definitive definitively of the mystic Frankist ilk. He was practicing mystical Judaism.",
@@ -2534,7 +2558,9 @@
       "related_nodes": [
         "N-10522"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:14",
       "investigative_direction": "Request White House visitor logs and the identity of the host's correspondents.",
       "transcript_snippet": "Andrew Kolb Mikey McVoy and a couple of women uh look like Mikey McVoy's wife. They were in the West Wing.",
@@ -2561,13 +2587,15 @@
         "N-10522",
         "N-10075"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:57",
       "investigative_direction": "Verify the West Wing layout and who maintains offices off that lobby.",
       "transcript_snippet": "the offices in that general region are senior White House staff. It could be Susie Wiles, Stephen Miller, James Braid.",
       "mentions_person_refs": [
         "N-132",
-        "N-874",
+        "N-873",
         "N-155",
         "N-3"
       ]
@@ -2584,7 +2612,9 @@
       "related_nodes": [
         "N-10522"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:57",
       "investigative_direction": "Check the January 29, 2026 cabinet meeting schedule and end time.",
       "transcript_snippet": "The cabinet meeting had just let out 15 minutes prior to.",
@@ -2605,7 +2635,9 @@
       "related_nodes": [
         "N-10522"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:53",
       "investigative_direction": "Ask the host to identify the White House sources who asked her to release the information.",
       "transcript_snippet": "People in the White House and Donald on the World think Andrew was shady and intentionally wanted the public to think that he was in Arizona for some reason.",
@@ -2628,7 +2660,9 @@
       "related_nodes": [
         "N-10522"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:37",
       "investigative_direction": "Locate the host's January 29, 2026 reply on X and its timestamp.",
       "transcript_snippet": "I'm trying to figure out why Andrew Kolvet's in the White House.",
@@ -2649,7 +2683,9 @@
       "related_nodes": [
         "N-10522"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:37",
       "investigative_direction": "Compare the episode audio metadata with the stated air time.",
       "transcript_snippet": "Sometimes when traveling, Andrew even calls in for a segment, but this was for some reason pre-recorded and intentionally presented to the public as though it was live.",
@@ -2675,7 +2711,9 @@
         "N-10075",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:15:10",
       "investigative_direction": "Survey TPUSA posts from White House visits to test the pattern.",
       "transcript_snippet": "They normally love to promote the fact that they are involved with Trump, throwing flashy events at the White House, Mar-a-Lago, posing all glammed up.",
@@ -2694,7 +2732,9 @@
       "related_nodes": [
         "N-10988"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:55",
       "investigative_direction": "Verify which pageant Erika won (the host also says Miss Arizona USA) and the ownership of that pageant in 2011.",
       "transcript_snippet": "Donald Trump was actually the 50% owner of Miss America alongside NBC Universal when Erika was crowned.",
@@ -2715,7 +2755,9 @@
       "related_nodes": [
         "N-10988"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:55",
       "investigative_direction": "Identify the 1997 case from court dockets and read the statement about Epstein.",
       "transcript_snippet": "There was even a lawsuit that was filed back in 1997 over a a pageant company wherein one of the guys had said that it during a meeting for his company that Jeffrey Epstein was there.",
@@ -2732,7 +2774,9 @@
       "claim": "The host says Trump has never denied hanging out with Epstein, that he says he never went to the island, and that photos exist.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:15:55",
       "investigative_direction": "Collect Trump's statements on Epstein and the photo record.",
       "transcript_snippet": "Trump has never denied that he hung out with Epstein. He said, \"I never went to the island.\" But there are obviously photos.",
@@ -2751,7 +2795,9 @@
       "related_nodes": [
         "N-10401"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:53",
       "investigative_direction": "Cite court records and survivor testimony on Epstein's model recruiting.",
       "transcript_snippet": "Jeffrey Epstein was specifically trafficking women from Eastern Europe through modeling agencies.",
@@ -2767,13 +2813,15 @@
       "claim": "The host says Les Wexner handed Epstein the keys and he became a casting director for Victoria's Secret models.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:53",
       "investigative_direction": "Review court filings on Epstein's role with L Brands and Wexner.",
       "transcript_snippet": "Whether he was working with uh Victoria's Secret, you know, Les Wexner hands him the keys and all of a sudden he's like a casting director looking at all of these models.",
       "mentions_person_refs": [
         "N-9",
-        "N-875"
+        "N-874"
       ]
     },
     {
@@ -2786,12 +2834,14 @@
       "related_nodes": [
         "N-10698"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:53",
       "investigative_direction": "Check corporate records for MC2 offices in Tel Aviv.",
       "transcript_snippet": "John Luke Brunel in Paris, his agency MC2 modeling, John Luke Brunel kills himself. Lamia doesn't want to mention the fact that they also had offices in in Tel Aviv.",
       "mentions_person_refs": [
-        "N-541",
+        "N-540",
         "N-9"
       ]
     },
@@ -2807,7 +2857,9 @@
       "related_nodes": [
         "N-10988"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:44",
       "investigative_direction": "Find the Epstein emails mentioning pageants and Miss North Carolina.",
       "transcript_snippet": "it seems like he's also handpicking girls for certain pageants.",
@@ -2829,7 +2881,9 @@
         "N-10401",
         "N-10528"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:25",
       "investigative_direction": "Search the Epstein email corpus for Romania model requests dated 2010.",
       "transcript_snippet": "in 2010, we know Jeffrey Epstein, based on the emails, begins procuring models from Romania.",
@@ -2848,7 +2902,9 @@
       "related_nodes": [
         "N-10990"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:38",
       "investigative_direction": "Check Marine Corps records for the 2010 BSRF commander.",
       "transcript_snippet": "the Black Sea Rotational Force in Constanta, Romania, is being led by Erika's cousin, Lieutenant Colonel Dennis Fronkvey.",
@@ -2856,7 +2912,7 @@
         "C-8146"
       ],
       "mentions_person_refs": [
-        "N-750",
+        "N-749",
         "N-2"
       ]
     },
@@ -2871,12 +2927,14 @@
         "N-10990",
         "N-10401"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:38",
       "investigative_direction": "Find the accusation source and any investigation of the Constanta rotation.",
       "transcript_snippet": "It's the first time America is operating a base in Romania, which is later going to be accused of prostituting underage Romanian children. Brothel. Colonel Otto Boucher.",
       "mentions_person_refs": [
-        "N-702"
+        "N-701"
       ]
     },
     {
@@ -2890,7 +2948,9 @@
         "N-10395",
         "N-10990"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:38",
       "investigative_direction": "Reconcile the 2010 date with earlier statements dating Bowyer's Romania work to 2011.",
       "transcript_snippet": "Tyler Bowyer goes out to Constanta, Romania, and he's hanging out, and he's partying, and he's drinking with Romanian models and parliament politicians.",
@@ -2908,7 +2968,9 @@
       "related_nodes": [
         "N-11248"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:38",
       "investigative_direction": "Check ASU and Origins Project donor records for Epstein gifts.",
       "transcript_snippet": "that same year Jeffrey Epstein begins giving money to Arizona State University, specifically for their Origins Project.",
@@ -2926,7 +2988,9 @@
       "related_nodes": [
         "N-11248"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:25",
       "investigative_direction": "Obtain the governor's 2011 appointment record for Bowyer.",
       "transcript_snippet": "in May of 2011, Tyler Bowyer is going to get unusually elected to the Board of Regents",
@@ -2944,7 +3008,9 @@
       "related_nodes": [
         "N-11248"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:25",
       "investigative_direction": "Check ASU enrollment dates and the Miss Arizona USA 2011 result.",
       "transcript_snippet": "Erika is going to enroll into ASU for her final year of college. From 2011 to 2012, and immediately 2 months after that, after the semester begins, she wins Miss Arizona USA, right? In November.",
@@ -2965,7 +3031,9 @@
         "N-11165",
         "N-11166"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:25",
       "investigative_direction": "Obtain Everyday Heroes filings and Marine Corps press items on the project.",
       "transcript_snippet": "we know she is going to establish this working partnership with the US Marines Black Sea Rotational Force in Constanta, teaming up with them to run the Romanian Angels Project through her 501c3 Everyday Heroes.",
@@ -2987,7 +3055,9 @@
         "N-11165",
         "N-10401"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:25",
       "investigative_direction": "Identify the source and status of any accusation against the colonel.",
       "transcript_snippet": "She's working with uh Colonel Otto Buscher, that same colonel who's going to be accused of trafficking and prostituting underage Romanians, apparently up and through Tel Aviv.",
@@ -2995,7 +3065,7 @@
         "C-8147"
       ],
       "mentions_person_refs": [
-        "N-702",
+        "N-701",
         "N-2"
       ]
     },
@@ -3007,7 +3077,9 @@
       "claim": "The host says that from July 2014 to 2015 Erika began tweeting that she was a casting director or casting recruiter in Los Angeles.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:19",
       "investigative_direction": "Retrieve the archived tweets from 2014 and 2015.",
       "transcript_snippet": "Erika begins tweeting uh that she's a casting casting director or casting recruiter in Los Angeles.",
@@ -3023,7 +3095,9 @@
       "claim": "The host says Erika was found floating around Mark Burnett, who was running Burnett Productions and Trump's Apprentice.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:19",
       "investigative_direction": "Find photos, credits or posts putting Erika with Burnett.",
       "transcript_snippet": "we find her floating around Mark Burnett. Mark Burnett is also running uh Mark Burnett Productions. He's running Trump's Apprentice show.",
@@ -3041,7 +3115,9 @@
       "claim": "The host says she believes Erika knew Donald Trump before she ever met Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:19",
       "investigative_direction": "Seek any record of an Erika and Trump meeting before 2018.",
       "transcript_snippet": "I do believe it Erika knew Donald Trump before she ever met Charlie Kirk.",
@@ -3061,7 +3137,9 @@
       "related_nodes": [
         "N-11164"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:19",
       "investigative_direction": "Check Kairos and Burnett business filings and Moore's roles.",
       "transcript_snippet": "Kairos company is working with Mark Burnett's via Johnny Moore.",
@@ -3085,12 +3163,14 @@
       "related_nodes": [
         "N-10532"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:10",
       "investigative_direction": "Confirm Kates' departure date and stated reason from Next Model Management announcements.",
       "transcript_snippet": "Faith Kates, who was the co-founder of it, had to step down because of her involvement with Jeffrey Epstein.",
       "mentions_person_refs": [
-        "N-582",
+        "N-581",
         "N-9"
       ]
     },
@@ -3106,12 +3186,14 @@
       "related_nodes": [
         "N-10524"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:10",
       "investigative_direction": "Find the post-2008 or post-2019 Kates email in the Epstein files.",
       "transcript_snippet": "Even after he got arrested for pedophilia, she's like, 'I will never betray you. I will never ever betray you.",
       "mentions_person_refs": [
-        "N-582",
+        "N-581",
         "N-9"
       ]
     },
@@ -3128,7 +3210,9 @@
         "N-10519",
         "N-10532"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:10",
       "investigative_direction": "Corroborate through Next Model staff or contracts.",
       "transcript_snippet": "this person said, 'Just so you know, Erika was involved with Next Model Management.' Right? So, this is a tip.",
@@ -3149,12 +3233,14 @@
       "related_nodes": [
         "N-10698"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:57",
       "investigative_direction": "Seek former Next staff accounts and the Epstein emails on Next.",
       "transcript_snippet": "Next Model Management apparently um had tons of Eastern European girls all around the office",
       "mentions_person_refs": [
-        "N-582",
+        "N-581",
         "N-9"
       ]
     },
@@ -3171,13 +3257,15 @@
         "N-10519",
         "N-10532"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:37",
       "investigative_direction": "Obtain visitor logs or testimony from Next staff; ask Erika Kirk's office.",
       "transcript_snippet": "with people with direct knowledge that Erika Kirk was a multiple times taking office uh taking meetings at Next Model Management",
       "mentions_person_refs": [
         "N-2",
-        "N-582"
+        "N-581"
       ]
     },
     {
@@ -3192,14 +3280,16 @@
       "related_nodes": [
         "N-10519"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:37",
       "investigative_direction": "Test against Epstein visitor and travel records for the same period.",
       "transcript_snippet": "Now, they did not say they saw her meeting with Jeffrey Epstein, but they said essentially Jeffrey Epstein was always there because he was so close with Faith.",
       "mentions_person_refs": [
         "N-2",
         "N-9",
-        "N-582"
+        "N-581"
       ]
     },
     {
@@ -3214,7 +3304,9 @@
       "related_nodes": [
         "N-10519"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:37",
       "investigative_direction": "Ask Erika Kirk's office for the nature of the meetings.",
       "transcript_snippet": "and nobody knew what the context of these meetings were.",
@@ -3233,7 +3325,9 @@
         "N-10502",
         "N-10520"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:56",
       "investigative_direction": "Check New York Department of State license records.",
       "transcript_snippet": "she also unusually receives her New York real estate license to work with Corcoran real estate.",
@@ -3254,12 +3348,14 @@
       "related_nodes": [
         "N-10502"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:56",
       "investigative_direction": "Verify Lehman's Corcoran role and the Epstein files reference.",
       "transcript_snippet": "that is under the stewardship the stewardship of of of Pam Lehman featured in the Epstein files was helping him with real estate deals",
       "mentions_person_refs": [
-        "N-585",
+        "N-584",
         "N-2",
         "N-9"
       ]
@@ -3275,7 +3371,9 @@
         "N-10502",
         "N-10520"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:56",
       "investigative_direction": "Request Corcoran sales records and listings credited to Erika Kirk.",
       "transcript_snippet": "we can't find any real estate deals that Erika completed in New York.",
@@ -3298,7 +3396,9 @@
       "related_nodes": [
         "N-10502"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:56",
       "investigative_direction": "Interview Corcoran agents about hiring requirements.",
       "transcript_snippet": "real estate agents are reaching out to me saying, \"You can't just get a license and work for Corcoran.",
@@ -3317,9 +3417,11 @@
         "A-1814.1"
       ],
       "related_nodes": [
-        "N-532"
+        "N-531"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:39",
       "investigative_direction": "Provide the Epstein email or filing establishing the employment.",
       "transcript_snippet": "Jeffrey Epstein is working directly for the Rothschilds.",
@@ -3328,7 +3430,7 @@
       ],
       "mentions_person_refs": [
         "N-9",
-        "N-569"
+        "N-568"
       ]
     },
     {
@@ -3341,7 +3443,9 @@
       "related_nodes": [
         "N-11248"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:46",
       "investigative_direction": "Ask ASU to confirm Erika Kirk's degree and honors; compare archived bios.",
       "transcript_snippet": "no one can even confirm that she did graduate summa laude from ASU. Uh, but by the way, she has since removed that from her bio.",
@@ -3359,7 +3463,9 @@
       "related_nodes": [
         "N-11255"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:31:46",
       "investigative_direction": "Check the Hillsdale event schedule and any student statements.",
       "transcript_snippet": "She is slated to speak at Hillsdale College and the students have all messaged me about it because they don't want her there",
@@ -3378,7 +3484,9 @@
       "related_nodes": [
         "N-10417"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:25",
       "investigative_direction": "Obtain the Candlewood Suites footage and other records for September 8.",
       "transcript_snippet": "I'm leaning towards Mitch. Allegedly, Erika he saw her on September 8th.",
@@ -3401,7 +3509,9 @@
       "related_nodes": [
         "N-10417"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:25",
       "investigative_direction": "Seek ad spend, contractor payments or coordinated posting records.",
       "transcript_snippet": "Fort Huachuca it caused mass panic. They spent tons of money getting people to attack me",
@@ -3421,7 +3531,9 @@
         "N-10477",
         "N-11180"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:25",
       "investigative_direction": "Obtain the original Erika statement and any corroborating witnesses or texts.",
       "transcript_snippet": "Erika's claim before they sent me a cease and desist was that she was making dinner for Charlie that night, but no one else has been able to independently confirm that.",
@@ -3444,7 +3556,9 @@
       "related_nodes": [
         "N-10477"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:25",
       "investigative_direction": "Ask Turek who was at the Monday dinner.",
       "transcript_snippet": "Frank Turick does make the claim that Charlie had dinner with his family, but he doesn't mention Erika. He doesn't say his wife",
@@ -3469,7 +3583,9 @@
       "related_nodes": [
         "N-10521"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:30",
       "investigative_direction": "Obtain the group chat message and its timestamp.",
       "transcript_snippet": "I even put in my group chat. I said, \"The Bears are winning by 14 points.",
@@ -3489,7 +3605,9 @@
       "related_nodes": [
         "N-10521"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:35",
       "investigative_direction": "Establish when the clip aired and whether it matches September 8.",
       "transcript_snippet": "And then some rocket scientist on the Bears I'm screaming at my TV. I woke up everyone.",
@@ -3509,7 +3627,9 @@
       "related_nodes": [
         "N-10521"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:58",
       "investigative_direction": "Review Erika's posting history on X before September 8.",
       "transcript_snippet": "Exactly 1 hour later to the minute, Erika breaks her years-long Twitter silence and she tweets out a Bible verse.",
@@ -3533,7 +3653,9 @@
         "N-10473",
         "N-10521"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:58",
       "investigative_direction": "Identify the clinic and source for the alleged meeting.",
       "transcript_snippet": "At 10:45 a. m. Lori France Faye has an appointment at the clinic and Charlie allegedly meets up with her, accompanies her.",
@@ -3555,7 +3677,9 @@
         "N-10477",
         "N-10473"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:40:08",
       "investigative_direction": "Obtain Erika's stated timeline source and any phone location data.",
       "transcript_snippet": "Um but Erika will allege that that's she arrives home at 5:24.",
@@ -3576,7 +3700,9 @@
         "N-10477",
         "N-10473"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:40:08",
       "investigative_direction": "Request the original text messages with metadata.",
       "transcript_snippet": "at 5:41 Charlie is allegedly as she's coming up she's already upstairs Charlie then's allegedly going to text her and ask her what time dinner is despite being in close quarters.",
@@ -3598,7 +3724,9 @@
         "N-10477",
         "N-10521"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:03",
       "investigative_direction": "Seek neighbor or caregiver accounts of who was home that evening.",
       "transcript_snippet": "I have a strong inkling and it's not a fact but it is a strong inkling that Charlie was at home alone with the kids.",
@@ -3620,7 +3748,9 @@
       "related_nodes": [
         "N-10473"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:03",
       "investigative_direction": "Match the Bears game clock with the challenge play and GG's wake-up in Turek's account.",
       "transcript_snippet": "uh around when is when is he shouting at the challenge around 7:16",
@@ -3645,7 +3775,9 @@
         "N-10473",
         "N-10476"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:19",
       "investigative_direction": "Check the game end time and Turek's stated times for the walk.",
       "transcript_snippet": "That game ended at 8:30, so he definitely was not walking with Charlie at 8:00 because he uh is very clear that he was screaming.",
@@ -3670,7 +3802,9 @@
         "N-10476",
         "N-10473"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:19",
       "investigative_direction": "Identify the neighbors who saw the walk and the tall man.",
       "transcript_snippet": "Charlie is then going to be seen at 9:00 walking with his bodyguard Heath and accompanied by a tall man who is not Frank Turek.",
@@ -3691,7 +3825,9 @@
       "related_nodes": [
         "N-10476"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:19",
       "investigative_direction": "Interview the neighbor Charlie spoke with.",
       "transcript_snippet": "So, locals did not see Frank Turek on this walk with Charlie. They did see Charlie on a walk.",
@@ -3713,7 +3849,9 @@
         "N-10477",
         "N-10521"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:08",
       "investigative_direction": "Canvass neighbors and store staff and check card or location data.",
       "transcript_snippet": "And no one can confirm that they saw Erika Kirk on the 8th.",
@@ -3732,12 +3870,14 @@
       "related_nodes": [
         "N-10486"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:08",
       "investigative_direction": "Ask Tracy Martin's husband when he was with the children.",
       "transcript_snippet": "they saw the kids with Tracy Martin's husband.",
       "mentions_person_refs": [
-        "N-557",
+        "N-556",
         "N-3"
       ]
     },
@@ -3751,7 +3891,9 @@
       "related_nodes": [
         "N-10417"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:00",
       "investigative_direction": "Compare the dates of the first Fort Huachuca mention, the host's publication and the legal letters.",
       "transcript_snippet": "and I had not yet dropped the fact that he thought he saw Erika. We were actually holding that back",
@@ -3771,13 +3913,15 @@
       "related_nodes": [
         "N-10116"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:52:08",
       "investigative_direction": "No source aired; check the host's earlier Kamala episodes.",
       "transcript_snippet": "then we kind of learned that her mother was involved with potentially the MK Ultra project.",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-726",
+        "N-725",
         "N-3"
       ]
     }

@@ -1609,7 +1609,9 @@
       "related_nodes": [
         "N-10030"
       ],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:19:22",
       "investigative_direction": "Obtain unredacted text logs with metadata from discovery materials.",
       "transcript_snippet": "They're not telling us the time. I don't like that",
@@ -1718,7 +1720,9 @@
       "related_nodes": [
         "N-10033"
       ],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:50:24",
       "investigative_direction": "Cross-reference attendee statements with published itinerary.",
       "transcript_snippet": "Bill Ackman just confirmed that he hosted his meeting with Charlie on August 4th and 5th",
@@ -2004,7 +2008,9 @@
         "N-10000",
         "N-10036"
       ],
-      "tags": [],
+      "tags": [
+        "calls_for_tips"
+      ],
       "claim_timestamp": "00:57:19",
       "investigative_direction": "Identify donors; obtain internal TPUSA communications; verify building-donor naming history.",
       "transcript_snippet": "his top Jewish donors were pulling funding from him, demanding that Charlie take their name off of the building",

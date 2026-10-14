@@ -427,7 +427,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-906"
+            "N-905"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1333,8 +1333,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-512",
-      "ref": "N-512",
+      "@id": "N-511",
+      "ref": "N-511",
       "name": "Victor Ostrovsky",
       "type": "person",
       "description": "Victor Ostrovsky; former Mossad officer whose claims about Epstein the host relays.",
@@ -1351,8 +1351,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-608",
-      "ref": "N-608",
+      "@id": "N-607",
+      "ref": "N-607",
       "name": "Druski",
       "type": "person",
       "description": "Druski; comedian whose video mocking Erika is cited as a factor in the cancellation.",
@@ -1369,8 +1369,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-662",
-      "ref": "N-662",
+      "@id": "N-661",
+      "ref": "N-661",
       "name": "Marco Rubio",
       "type": "person",
       "description": "Marco Rubio; a commenter says donors have chosen him for 2028.",
@@ -1386,8 +1386,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-674",
-      "ref": "N-674",
+      "@id": "N-673",
+      "ref": "N-673",
       "name": "Ivanka Trump",
       "type": "person",
       "description": "Ivanka Trump; the host says she attended the bridal shower.",
@@ -1405,8 +1405,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-722",
-      "ref": "N-722",
+      "@id": "N-721",
+      "ref": "N-721",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "John F. Kennedy; the host compares prosecution tactics to those after his killing.",
@@ -1819,8 +1819,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-906",
-      "ref": "N-906",
+      "@id": "N-905",
+      "ref": "N-905",
       "name": "Bettina Anderson",
       "type": "person",
       "description": "First named by the host at 00:07:27 in episode 93 as Bettina, soon-to-be Trump, whose bridal shower Erika attended.",
@@ -1839,8 +1839,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-908",
-      "ref": "N-908",
+      "@id": "N-907",
+      "ref": "N-907",
       "name": "Adnan Khashoggi",
       "type": "person",
       "description": "First named by the host at 00:39:19 in episode 93 as the arms dealer Epstein was initially brought in to deal with, per Ostrovsky.",
@@ -2235,7 +2235,9 @@
       "related_nodes": [
         "N-10622"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:40",
       "investigative_direction": "Archive captures (Wayback, screenshots with timestamps) of the post and its deletion time; ask Marx when and why it was removed.",
       "transcript_snippet": "In a post that he subsequently deleted, he left it up actually for quite a long time",
@@ -2257,7 +2259,9 @@
         "N-10617",
         "N-10616"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:09",
       "investigative_direction": "Obtain the full CBS article and Secret Service on-record statement; ask TPUSA to produce the threat messages it relied on.",
       "transcript_snippet": "Now, while Kirk may have received hostile messages including on social media, those were not part of any identified or actionable threat stream that was monitored by federal authorities.",
@@ -2282,7 +2286,9 @@
       "related_nodes": [
         "N-10616"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:17",
       "investigative_direction": "Identify the tipster and obtain flight-tracking and airport records placing Erika's aircraft in Athens.",
       "transcript_snippet": "we received a tip that Erika was indeed in Georgia already",
@@ -2305,7 +2311,9 @@
       "related_nodes": [
         "N-10616"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:21",
       "investigative_direction": "Obtain Secret Service advance-team protocol for the Athens stop and any public statement on when the airport and venue were secured.",
       "transcript_snippet": "at least 48 hours before he arrives the airports the venue in which he is going to fly into everything is going to be swept and secured.",
@@ -2326,15 +2334,17 @@
       "related_nodes": [
         "N-10616"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:07:27",
       "investigative_direction": "Obtain the photos and event coverage of the shower and flight records for the Saturday arrival into Palm Beach.",
       "transcript_snippet": "Erika Kirk flew into Palm Beach because she was attending Bettina's bridal shower which took place on Sunday.",
       "mentions_person_refs": [
         "N-2",
-        "N-906",
+        "N-905",
         "N-33",
-        "N-674"
+        "N-673"
       ]
     },
     {
@@ -2349,7 +2359,9 @@
       "related_nodes": [
         "N-10616"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:27",
       "investigative_direction": "Obtain airport FBO and Secret Service records showing which terminal each aircraft used at Athens-Ben Epps.",
       "transcript_snippet": "she therefore flew into the already secured by the Secret Service, the federal government had already secured this days earlier, the private airport and the terminal, the very same one that the vice president was due to arrive in",
@@ -2373,7 +2385,9 @@
       "related_nodes": [
         "N-10616"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:44",
       "investigative_direction": "Cross-check ADS-B tracks of the Vance aircraft with Vance's phone and schedule records; ask the Vice President's office when he learned Erika might not appear.",
       "transcript_snippet": "At 3:53 p. m., J. D. Vance's plane begins circling in the air above North Carolina because this is when he receives the phone call that Erika doesn't want to do the event.",
@@ -2397,7 +2411,9 @@
       "related_nodes": [
         "N-10616"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:45",
       "investigative_direction": "Obtain full event video showing the opening remarks and any backstage or green-room access logs.",
       "transcript_snippet": "he opened this event at 5:00 p. m. And it looks certainly like he acknowledges Erika on stage and looks to the left.",
@@ -2417,7 +2433,9 @@
       "related_nodes": [
         "N-10616"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:46",
       "investigative_direction": "Obtain event photos and video of Kolvet's attire and any staffer accounts of where Erika was between 2:40 and 6:39.",
       "transcript_snippet": "I am with Baron on this. She was in the building and she was backstage where people could not see her.",
@@ -2444,7 +2462,9 @@
         "N-10616",
         "N-10607"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:54",
       "investigative_direction": "Ask the Vice President's office what threat information he was given and by whom.",
       "transcript_snippet": "Well, first of all, I love Erika and I know that she did get some threats and, you know, about 2 hours ago, as you know, Andrew,",
@@ -2467,7 +2487,9 @@
         "N-10616",
         "N-10617"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:54",
       "investigative_direction": "Obtain the full Vance remarks and ask the Secret Service whether it advised on Erika's cancellation.",
       "transcript_snippet": "I talked to the Secret Service and obviously these guys do a very good job and I said, \"You know what? Let's let Erika do what she needs to do for herself and her family.\"",
@@ -2491,7 +2513,9 @@
       "related_nodes": [
         "N-10616"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:49",
       "investigative_direction": "Pull flight-tracking records of the Erika aircraft departing Athens and its destination.",
       "transcript_snippet": "She departed Athens and she headed back for Scottsdale.",
@@ -2512,7 +2536,9 @@
       "related_nodes": [
         "N-10956"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:09",
       "investigative_direction": "Identify the people who received the calls and obtain their accounts and any call logs or messages.",
       "transcript_snippet": "We're literally it was a prayer. She made personal phone calls, and she cried on the phone.",
@@ -2533,7 +2559,9 @@
       "related_nodes": [
         "N-10616"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:09",
       "investigative_direction": "Ask Vance's office whether he spoke with Erika before the event and obtain call records.",
       "transcript_snippet": "I think that when J. D. Vance's plane was circling, of course Erika would have called him directly.",
@@ -2559,7 +2587,9 @@
         "N-11182",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:18:55",
       "investigative_direction": "Identify any new TPUSA communications hire or agency and compare the Daily Mail insider language with TPUSA's earlier statements.",
       "transcript_snippet": "uh they got they have some crisis PR person and Andrew was sort of made to step aside",
@@ -2581,12 +2611,14 @@
         "N-10070",
         "N-10616"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:55",
       "investigative_direction": "Obtain the Daily Mail article and identify the confidant; confirm the date and content of the Druski video.",
       "transcript_snippet": "The Druski video showed her what people thought of her. She's really hurt that people are feeling this way about her, that they're mocking her.",
       "mentions_person_refs": [
-        "N-608",
+        "N-607",
         "N-2",
         "N-3"
       ]
@@ -2604,7 +2636,9 @@
         "N-10070",
         "N-10608"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:34",
       "investigative_direction": "Obtain the Daily Mail article text and the earlier episode in which the host raised low ticket sales.",
       "transcript_snippet": "Far-right commentator Candace Owens, who has peddled outlandish conspiracy theories about Charlie's death, suggested that Kirk's no-show was due to low ticket sales.",
@@ -2629,7 +2663,9 @@
         "N-10443",
         "N-10070"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:20",
       "investigative_direction": "Identify the insider; collect the advice Erika reportedly received about her public appearances.",
       "transcript_snippet": "She says that she was putting on a face, a brave face, and that's why she was doing what she was doing. I agree that it was a bad look. Everyone told her it was a bad look, but she did it anyway.",
@@ -2649,7 +2685,9 @@
       "related_nodes": [
         "N-10622"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:43",
       "investigative_direction": "Locate the Marx video and comment thread and the Glenn Beck post, and compare their timestamps.",
       "transcript_snippet": "And he did a video, and he announced that Charlie had died, and people in the comments were like, \"But Glenn Beck posted he's stable.",
@@ -2674,7 +2712,9 @@
       "related_nodes": [
         "N-10622"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:43",
       "investigative_direction": "Obtain the original screenshots with metadata and confirm the timezone conversion to 1:13 p.m. Mountain.",
       "transcript_snippet": "the person who sent this to us, they sent it to us in Eastern Standard Time. Fortunately, they had it screenshots, their buddy sent it to them",
@@ -2695,7 +2735,9 @@
       "related_nodes": [
         "N-10622"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:01",
       "investigative_direction": "Fix the shooting time (about 12:23 MT) against the Marx post metadata; ask Marx for his source.",
       "transcript_snippet": "That's just 50 minutes after Charlie was shot. Who told him?",
@@ -2719,7 +2761,9 @@
       "related_nodes": [
         "N-10622"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:01",
       "investigative_direction": "Confirm the time of Trump's Truth Social or X announcement and the earliest confirmed public reports of death.",
       "transcript_snippet": "So, the public didn't officially find out until President Trump announced it um at 2:40 p. m. on X.",
@@ -2742,7 +2786,9 @@
       "related_nodes": [
         "N-10622"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:01",
       "investigative_direction": "Retrieve the time of Netanyahu's statement or post about the shooting and compare it with the first official US confirmation.",
       "transcript_snippet": "it's kind of like how Bebe knew a little too soon that he had been shot, commented too soon just before the President of the United States",
@@ -2763,7 +2809,9 @@
       "related_nodes": [
         "N-10622"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:01",
       "investigative_direction": "Obtain Erika's call logs and the hospital timeline for when she was told, and compare against the Marx post time.",
       "transcript_snippet": "That should be when Erika found out, when she got off the phone with the doctor about.",
@@ -2784,7 +2832,9 @@
       "related_nodes": [
         "N-10622"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:57",
       "investigative_direction": "Receive and verify any tip about Safadi or Sarfati; plot it on the minute-by-minute timeline.",
       "transcript_snippet": "but if it is, please do send us an email to more tips@candaceowens. com.",
@@ -2808,7 +2858,9 @@
       "related_nodes": [
         "N-10622"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:57",
       "investigative_direction": "Verify who Amir Safadi or Sarfati is, his church roles and any IDF service, from public records and the tipster.",
       "transcript_snippet": "That would be interesting cuz I think he is in the IDF.",
@@ -2830,7 +2882,9 @@
       "related_nodes": [
         "N-10613"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:28",
       "investigative_direction": "Preserve the host's message records to Marx and any reply; ask Marx's representatives to confirm.",
       "transcript_snippet": "Victor Marx still has not answered my messages, by the way, despite doing the rounds in the press almost immediately.",
@@ -2852,7 +2906,9 @@
       "related_nodes": [
         "N-10613"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:28",
       "investigative_direction": "Obtain the message or public statement in which Marx set these conditions.",
       "transcript_snippet": "one of the conditions is that he wants to be able to bring his wife, Eileen, but he does not want Corby Hall to be present",
@@ -2878,7 +2934,9 @@
       "related_nodes": [
         "N-10613"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:20",
       "investigative_direction": "Locate the full interview and compare with Corby Hall's account of the visit.",
       "transcript_snippet": "I ended up taking him into the training center and teaching him how to punch",
@@ -2900,7 +2958,9 @@
       "related_nodes": [
         "N-10601"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:57",
       "investigative_direction": "Obtain Corby Hall's full account and any documents showing the Israel sale request.",
       "transcript_snippet": "Corby asserted that Victor Marx wanted guns sold in Israel.",
@@ -2919,7 +2979,9 @@
       "related_nodes": [
         "N-10602"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:57",
       "investigative_direction": "Obtain Corby Hall's account and any written exchange about Haiti; ask federal export-control authorities whether any inquiry exists.",
       "transcript_snippet": "He asserted that the Haitian arms deal would have been illegal since you are not allowed to do those sorts of transactions with Haiti.",
@@ -2940,7 +3002,9 @@
       "related_nodes": [
         "N-10618"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:10",
       "investigative_direction": "Authenticate the message with full thread metadata; ask Marx whether he sent it.",
       "transcript_snippet": "I think the state of Colorado might want to know all of who you are.",
@@ -2965,7 +3029,9 @@
         "N-10618",
         "N-10600"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:17",
       "investigative_direction": "Authenticate the thread; obtain any term sheet or patent-purchase offers connected to Fold AR.",
       "transcript_snippet": "You won't be sending 1,000 units to anyone in the IDF. You will get a paycheck for the patent and possibly your company and then on to your next adventure.",
@@ -2989,7 +3055,9 @@
       "related_nodes": [
         "N-10622"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:02",
       "investigative_direction": "Establish Marx's source through his own statement, call logs or the people who contacted him on September 10.",
       "transcript_snippet": "How he knew, initially, before anybody else, virtually at the same time as Erika Kirk, that Charlie Kirk had died.",
@@ -3012,7 +3080,9 @@
       "related_nodes": [
         "N-10613"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:02",
       "investigative_direction": "Track whether Marx accepts any of the offered formats.",
       "transcript_snippet": "Otherwise, I am happy to have just Victor on my show alone one-on-one.",
@@ -3035,7 +3105,9 @@
       "related_nodes": [
         "N-10023"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:19",
       "investigative_direction": "Identify which former Mossad officer made the claim and where, and test it against Epstein and Maxwell records.",
       "transcript_snippet": "he's the one who brought Epstein together with Ghislaine, got him involved in arms trafficking first.",
@@ -3043,7 +3115,7 @@
         "N-48",
         "N-9",
         "N-47",
-        "N-512"
+        "N-511"
       ]
     },
     {
@@ -3056,7 +3128,9 @@
       "related_nodes": [
         "N-10023"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:19",
       "investigative_direction": "Locate the Ostrovsky statement or interview and compare it with documented Epstein and Khashoggi dealings.",
       "transcript_snippet": "He was initially brought in regarding the Iran-Contra deal in the '80s.",
@@ -3064,9 +3138,9 @@
         "C-8207"
       ],
       "mentions_person_refs": [
-        "N-512",
+        "N-511",
         "N-9",
-        "N-908"
+        "N-907"
       ]
     },
     {
@@ -3081,7 +3155,9 @@
       "related_nodes": [
         "N-10619"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:19",
       "investigative_direction": "Retrieve the 2012 Los Angeles Times article and Bain Capital early-investor records.",
       "transcript_snippet": "Robert Maxwell, Ghislaine's father, uh was one of the early investors into Bain Capital, Mitt Romney's company.",
@@ -3107,7 +3183,9 @@
         "N-10619",
         "N-10574"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:19",
       "investigative_direction": "Check biographical records on whether Netanyahu and Romney overlapped at BCG and on documented Maxwell-Netanyahu ties.",
       "transcript_snippet": "And then he's best friends at this time with Netanyahu? Mitt Romney, they're at Boston Consulting Group",
@@ -3130,7 +3208,9 @@
         "N-10621",
         "N-10110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:38",
       "investigative_direction": "Review the ATF and state lab disclosures for residue, bore and swab testing of the rifle and of Robinson.",
       "transcript_snippet": "They have not yet proven that Tyler Robinson's weapon was even fired on September 10th.",
@@ -3152,7 +3232,9 @@
       "related_nodes": [
         "N-10598"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:19",
       "investigative_direction": "Obtain Twiggs' statements, devices and any informant or agency relationship records; test through discovery.",
       "transcript_snippet": "Lance Twiggs is way more involved. I believe he's a federal asset. I believe as his roommate, he got Tyler Robinson's gun.",
@@ -3174,7 +3256,9 @@
         "N-10621",
         "N-10598"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:19",
       "investigative_direction": "Establish the rifle's chain of custody and location in the days before September 10; obtain bomb dog deployment records.",
       "transcript_snippet": "maybe the day before or on September 10th, that gun was dropped off and then it was found.",
@@ -3198,7 +3282,9 @@
       "related_nodes": [
         "N-10620"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:08",
       "investigative_direction": "Compare the defense filing with the ATF summary text and any discovery cover letters.",
       "transcript_snippet": "it just basically verifies exactly what the defense laid out in their filing, that all they got was this. They got a summary report",
@@ -3218,7 +3304,9 @@
       "related_nodes": [
         "N-10110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:51",
       "investigative_direction": "Obtain the latent print examination report and the identification of each print set.",
       "transcript_snippet": "I knew that it had his prints on it and it also had six sets of other prints.",
@@ -3242,12 +3330,14 @@
       "related_nodes": [
         "N-10620"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:44:37",
       "investigative_direction": "Identify which comparison techniques the host means and any published validation or challenges to them.",
       "transcript_snippet": "They want to bring back old FBI tactics that were first put in place after JFK was shot because they lied about that as well.",
       "mentions_person_refs": [
-        "N-722",
+        "N-721",
         "N-3"
       ]
     },
@@ -3262,7 +3352,9 @@
         "N-11128",
         "N-10539"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:37",
       "investigative_direction": "Establish Kirk's documented position on Iran and who inside the administration or its backers objected to it.",
       "transcript_snippet": "and that Charlie Kirk was removed as a barrier to the Iranian war.",
@@ -3283,7 +3375,9 @@
       "related_nodes": [
         "N-10694"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:20",
       "investigative_direction": "Obtain Flood's advance-work records and the accounts of UVU and TPUSA staff about any site walk-through.",
       "transcript_snippet": "after he failed um to protect Charlie, didn't even as I am told from our sources, did not even do a walk-through.",
@@ -3307,7 +3401,9 @@
       "related_nodes": [
         "N-10694"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:20",
       "investigative_direction": "Obtain the event security plan and the vehicle staging and exit route documents.",
       "transcript_snippet": "All he cared about in the lead-up to that was ensuring that they had a clean exit behind Charlie.",
@@ -3332,7 +3428,9 @@
         "N-10646",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:20",
       "investigative_direction": "Obtain UVU and campus police correspondence on the site selection and any security recommendations.",
       "transcript_snippet": "They ignored the security concerns that were expressed by the school.",
@@ -3352,7 +3450,9 @@
       "related_nodes": [
         "N-10340"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:20",
       "investigative_direction": "Obtain the night-before text thread from Kirk's or Flood's phone.",
       "transcript_snippet": "They were receiving his messages. Dan Flood was receiving his messages",
@@ -3376,7 +3476,9 @@
       "related_nodes": [
         "N-10694"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:20",
       "investigative_direction": "Obtain TPUSA compensation and payroll records for Flood and the date the bonus or raise was offered.",
       "transcript_snippet": "Dan Dan Flood gets offered a bonus and a raise from Erika.",
@@ -3398,13 +3500,15 @@
       "related_nodes": [
         "N-10616"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:50:57",
       "investigative_direction": "Review Coleman's broadcast and the Druski video timeline against the cancellation.",
       "transcript_snippet": "It's actually funny cuz Baron clocked that on his show last night. He was like, I think she canceled the appearance because of Drewski.",
       "mentions_person_refs": [
         "N-337",
-        "N-608",
+        "N-607",
         "N-2"
       ]
     },
@@ -3420,7 +3524,9 @@
       "related_nodes": [
         "N-10237"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:02",
       "investigative_direction": "Find the Shapiro statement the commenter refers to and confirm its wording and date.",
       "transcript_snippet": "James the least writes, I saw Ben Shapiro blaming you and your viewers for the threats against Erika.",
@@ -3440,7 +3546,9 @@
       "related_nodes": [
         "N-10616"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:54:42",
       "investigative_direction": "Review the Village Crazy Lady posts and any donor reporting on 2028 preferences.",
       "transcript_snippet": "Village Crazy Lady is her handle, and she thinks that that they were trying to make J. D. Vance look bad.",
@@ -3448,7 +3556,7 @@
         "N-66",
         "N-4",
         "N-2",
-        "N-662"
+        "N-661"
       ]
     },
     {
@@ -3464,7 +3572,9 @@
         "N-10608",
         "N-10616"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:55:26",
       "investigative_direction": "Obtain ticketing and attendance data for the Akins Ford Arena event.",
       "transcript_snippet": "But, I do truly believe that it was the ticket sales last night because she went in.",
@@ -3486,7 +3596,9 @@
       "related_nodes": [
         "N-10608"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:55:26",
       "investigative_direction": "Seek student accounts of paid or incentivized attendance for the event.",
       "transcript_snippet": "They probably had those students running around just saying like, \"It will pay you to be there.\"",

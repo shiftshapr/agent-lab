@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: b80f9093f2282419ffd666e804a85974657a8f4308c82ae5bfd6902b9b9bdcdf
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-829, N-830
+  - Tip-minted Nodes (supplement_2026-10c): N-828, N-829
   - Hole-minted Nodes (reintro-ep096): N-10647
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8755–C-8820
-  - Reused Nodes Appearing: N-10641, N-22, N-30, N-46, N-69, N-82, N-162, N-199, N-224, N-348, N-349, N-387, N-430, N-608, N-10000, N-10194, N-10202, N-10270, N-10349, N-10358, N-10406, N-10447, N-10552, N-10587, N-10590, N-10601, N-10607, N-10613, N-10616, N-10664
+  - Reused Nodes Appearing: N-10641, N-22, N-30, N-46, N-69, N-82, N-162, N-199, N-224, N-348, N-349, N-387, N-430, N-607, N-10000, N-10194, N-10202, N-10270, N-10349, N-10358, N-10406, N-10447, N-10552, N-10587, N-10590, N-10601, N-10607, N-10613, N-10616, N-10664
   - (see registers)
 
 # Meta-Data
@@ -36,7 +36,7 @@
   - New Nodes Introduced: N-10637, N-10638, N-10639, N-10640, N-10641, N-10642
   - Reused Nodes Appearing: 
   - Hole-minted Nodes (wave2): N-376, N-378, N-379, N-381
-- Existing Nodes Reused: N-1, N-2, N-3, N-14, N-60, N-5, N-284, N-97, N-337, N-267, N-87, N-132, N-205, N-563
+- Existing Nodes Reused: N-1, N-2, N-3, N-14, N-60, N-5, N-284, N-97, N-337, N-267, N-87, N-132, N-205, N-562
 
 ## 6. Meme Register
 
@@ -414,7 +414,7 @@ Video Timestamp: 01:04:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2806, N-3, N-60, N-205, N-381, N-563*
+*Related: C-2806, N-3, N-60, N-205, N-381, N-562*
 
 **A-2012.4** AI-generated photo joke of Candace, Aubrey, and another figure on a scooter in Rome
 
@@ -424,7 +424,7 @@ Video Timestamp: 01:05:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (acknowledged as AI)
 
-*Related: C-2806, N-3, N-60, N-563*
+*Related: C-2806, N-3, N-60, N-562*
 
 ## A-2013 Candace Owens Prior Public Statements Bundle
 
@@ -900,7 +900,7 @@ Donald Trump; his Truth Social post about the host and the WHCD are discussed.
 
 ---
 
-**N-563** Aubrey Lech
+**N-562** Aubrey Lech
 
 Aubrey Lech; the host says she spoke with her after the firing and denies seeing her in Rome.
 
@@ -916,7 +916,7 @@ Laura Loomer; the host alleges she drove the Trump post and cites her tweets and
 
 ---
 
-**N-608** Druski
+**N-607** Druski
 
 Druski; named by Erika Kirk in her statement.
 
@@ -940,7 +940,7 @@ Brigitte Macron; named in Trump's earlier comments and Loomer's trust and lawsui
 
 ---
 
-**N-829** Dan Scavino
+**N-828** Dan Scavino
 
 First named by the host at 00:23:21 in episode 096, as the person who sent Trump's tweets during his first term.
 
@@ -948,7 +948,7 @@ First named by the host at 00:23:21 in episode 096, as the person who sent Trump
 
 ---
 
-**N-830** Natalie Harp
+**N-829** Natalie Harp
 
 First named by the host at 00:23:21 in episode 096, as the person widely reported to send Trump's Truth Social posts.
 
@@ -1151,7 +1151,7 @@ Claim Timestamp: 01:04:56
 Claim: Laura Loomer tweeted that Candace Owens, Nick Fuentes, and Aubrey Laitsch converged in Rome for a "secret anti-Trump summit," with implied funding from Qatar.
 
 Anchored Artifacts: A-2012.3, A-2012.4
-Mentions: N-3, N-60, N-205, N-381, N-563
+Mentions: N-3, N-60, N-205, N-381, N-562
 Investigative Direction: Verify the tweet; cross-reference against actual attendees in Rome during the relevant dates.
 
 **C-2807** Candace traveled to Rome with her family for confirmation
@@ -1506,7 +1506,7 @@ Claim: The host says Trump has never pushed send on his own tweets, that this wa
 Transcript Snippet: Trump, who has never, by the way, pushed send on his own tweets, that was the job initially of Dan Scavino during his first term.
 
 Anchored Artifacts:
-Mentions: N-5, N-829, N-830
+Mentions: N-5, N-828, N-829
 Related Nodes: N-10640
 Tags: relevance:context
 Investigative Direction: Identify who operates the Truth Social account (reporting on Harp and Scavino) and who posted the April 2026 message.
@@ -1718,7 +1718,7 @@ Claim: The host says Erika Kirk name-dropped Druski and the host near the end of
 Transcript Snippet: she name-dropped Drewski and she name-dropped me
 
 Anchored Artifacts: A-2009.4
-Mentions: N-2, N-608, N-3
+Mentions: N-2, N-607, N-3
 Related Nodes: N-10639
 Tags: relevance:context
 Investigative Direction: Review the full statement transcript for the Druski reference.
@@ -1867,7 +1867,7 @@ Claim: The host says she has had many conversations with Aubrey Lech after Lech'
 Transcript Snippet: I've had many conversations with her, but nothing was leaked to me about their that I presented on this show about anything that was going on internal.
 
 Anchored Artifacts:
-Mentions: N-563, N-3, N-14
+Mentions: N-562, N-3, N-14
 Related Nodes: N-10552
 Tags: relevance:core
 Investigative Direction: Aubrey Lech's own account, and a comparison of the host's reporting against what Lech could have known.
@@ -2126,7 +2126,7 @@ Claim: The host says Aubrey Lech posted an obvious AI photo joke saying "Happy b
 Transcript Snippet: An obvious AI photo joke from Aubrey saying, "Happy birthday, Candace."
 
 Anchored Artifacts: A-2012.4
-Mentions: N-563, N-3
+Mentions: N-562, N-3
 Tags: relevance:context
 Investigative Direction: Aubrey Lech's original post.
 
@@ -2157,7 +2157,7 @@ Claim: The host says she did not see Aubrey Lech, Nick Fuentes or David Axelrod 
 Transcript Snippet: No, I did not see Aubrey. I did not see Nick Fuentes. I did not see David Axelrod.
 
 Anchored Artifacts: A-2012.3
-Mentions: N-563, N-205, N-381, N-3
+Mentions: N-562, N-205, N-381, N-3
 Contradicts: C-2806
 Tags: relevance:context
 Investigative Direction: Travel records or statements from the three named people.

@@ -13,12 +13,12 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-11109
   - Hole-minted Nodes (reintro-ep051): N-396, N-10382, N-10385, N-10477
-  - Tip-minted Nodes (reintro-ep051): N-687, N-10962
+  - Tip-minted Nodes (reintro-ep051): N-686, N-10962
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6742–C-6800
   - Tip-minted Nodes (valhalla-split): N-11001
   - New Nodes Introduced: N-377, N-380, N-10375, N-10376, N-10378, N-10379, N-10380
-  - Reused Nodes Appearing: N-2, N-5, N-15, N-36, N-38, N-49, N-82, N-97, N-194, N-221, N-276, N-371, N-372, N-722, N-10001, N-10026, N-10116, N-10134, N-10282, N-10300, N-10305, N-10326, N-10327, N-10333, N-10340, N-10341, N-10342, N-10349, N-10367, N-10371, N-10372, N-10373, N-10416, N-10447, N-10643, N-10377, N-10900, N-384, N-10446
+  - Reused Nodes Appearing: N-2, N-5, N-15, N-36, N-38, N-49, N-82, N-97, N-194, N-221, N-276, N-371, N-372, N-721, N-10001, N-10026, N-10116, N-10134, N-10282, N-10300, N-10305, N-10326, N-10327, N-10333, N-10340, N-10341, N-10342, N-10349, N-10367, N-10371, N-10372, N-10373, N-10416, N-10447, N-10643, N-10377, N-10900, N-384, N-10446
   - Tip-minted Nodes (wave2): N-10899
   - (see registers)
 
@@ -465,8 +465,7 @@ Donald Trump; named in the Charlie Kirk clip about intel agencies.
 
 ---
 
-**N-15** Justin Strife
-
+**N-15** Justin Streiff
 Justin Strife; the host says he spoke with her and offered a message as Erika's alibi.
 
 *Related: C-6789, C-6790, C-6791*
@@ -569,7 +568,7 @@ Maddie (Daily Wire host); the host calls her Madison Brandford and says the Dail
 
 ---
 
-**N-687** Nicolás Maduro
+**N-686** Nicolás Maduro
 
 Nicolas Maduro; subject of a viewer comment and the host's remarks on the operation.
 
@@ -577,7 +576,7 @@ Nicolas Maduro; subject of a viewer comment and the host's remarks on the operat
 
 ---
 
-**N-722** John F. Kennedy
+**N-721** John F. Kennedy
 
 John F. Kennedy; named in the Charlie Kirk clip.
 
@@ -1201,7 +1200,7 @@ Claim: In the clip, Charlie Kirk says Trump was the first candidate since JFK to
 Transcript Snippet: Because Trump was the first candidate since JFK to actually want to declare war on the intel agencies and bring the power back to the sovereign. And both him and uh Kennedy got shot.
 
 Anchored Artifacts: A-1571.1
-Mentions: N-1, N-5, N-722
+Mentions: N-1, N-5, N-721
 Tags: relevance:context
 Investigative Direction: Verify the passage against the original interview recording.
 
@@ -1863,7 +1862,7 @@ Claim: The host says Israel openly said the Maduro operation was good for it and
 Transcript Snippet: Israel is always good to come right out and say, "Yay, this was good for us." Netanyahu was calling him anti-Semitic.
 
 Anchored Artifacts: 
-Mentions: N-36, N-687, N-3
+Mentions: N-36, N-686, N-3
 Related Nodes: N-10962, N-10026
 Tags: relevance:context
 Investigative Direction: Check Netanyahu's statements about Maduro and Israeli government comments on the operation.

@@ -592,7 +592,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-287",
-        "N-605"
+        "N-604"
       ]
     },
     {
@@ -1440,8 +1440,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-566",
-      "ref": "N-566",
+      "@id": "N-565",
+      "ref": "N-565",
       "name": "Carrie Prejean Bowler",
       "type": "person",
       "description": "Traveling with Candace in Spain when coordinated smear wave hit.",
@@ -1460,8 +1460,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-605",
-      "ref": "N-605",
+      "@id": "N-604",
+      "ref": "N-604",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Pounds resignation praises Hegseth leadership; DoW framing.",
@@ -1679,8 +1679,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-886",
-      "ref": "N-886",
+      "@id": "N-885",
+      "ref": "N-885",
       "name": "Dana White",
       "type": "person",
       "description": "First named by the host at 00:30:50 in episode 161 (reading the Atlantic article). UFC CEO listed among those Blake Wynn says sat near Trump at Mar-a-Lago on election night 2024.",
@@ -1696,8 +1696,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-887",
-      "ref": "N-887",
+      "@id": "N-886",
+      "ref": "N-886",
       "name": "Steve Witkoff",
       "type": "person",
       "description": "First named by the host at 00:30:50 in episode 161 (transcribed \"Steve Witco\"). Trump's friend and special envoy, listed in the same Mar-a-Lago election-night account.",
@@ -1768,8 +1768,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-757",
-      "ref": "N-757",
+      "@id": "N-756",
+      "ref": "N-756",
       "name": "Howard Hughes",
       "type": "person",
       "description": "Las Vegas billionaire whose company the host says was chopped up.",
@@ -1906,7 +1906,7 @@
       "investigative_direction": "Preserve resignation post; confirm SGE appointment dates vs thread timestamps.",
       "mentions_person_refs": [
         "N-287",
-        "N-605"
+        "N-604"
       ]
     },
     {
@@ -2394,7 +2394,9 @@
       "related_nodes": [
         "N-10815"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:10",
       "investigative_direction": "Compare the autopsy and ballistic reports with .30-06 energy tables and the video of his movement.",
       "transcript_snippet": "we are meant to believe that not only did it not penetrate his neck but the force of the bullet which is 1,500 lb of energy coming at you uh that did not send Charlie backward.",
@@ -2416,13 +2418,15 @@
       "related_nodes": [
         "N-10883"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:05:45",
       "investigative_direction": "Compare the dates of the show hiatus with the Discord campaign windows and the volume of anti-Candace posts that week.",
       "transcript_snippet": "You remember um I was away in Spain. That's why it was even more odd. The show was off air two weeks and despite this I was being inundated from every direction with these sorts of attacks.",
       "mentions_person_refs": [
         "N-3",
-        "N-566"
+        "N-565"
       ]
     },
     {
@@ -2438,7 +2442,9 @@
         "N-10888",
         "N-10883"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:40",
       "investigative_direction": "Identify any PR firm contracts that touch the clipping platforms and Pounds' special government employee pay records.",
       "transcript_snippet": "in the case of Genica, the Department of War is paying Genica. Um, in many other circumstances, it's a PR firm that's in the middle.",
@@ -2460,7 +2466,9 @@
         "N-10013",
         "N-10566"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:07:55",
       "investigative_direction": "Obtain the Discord message records cited in the charging documents and the platform's preservation request.",
       "transcript_snippet": "that's apparently the place that Tyler Robinson published his alleged confession",
@@ -2481,7 +2489,9 @@
         "N-10880",
         "N-10013"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:09:20",
       "investigative_direction": "Archive the Monster Lab campaign list and the Discord onboarding messages.",
       "transcript_snippet": "if you're an editor, you can pick one of these campaigns. And when you pick one, you are then thrown into uh Discord.",
@@ -2502,7 +2512,9 @@
         "N-10880",
         "N-10881"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:09:50",
       "investigative_direction": "Count campaign creators on the Monster Lab site and confirm Servius's account in Discord.",
       "transcript_snippet": "He is also the number one person that is creating these campaigns on the website.",
@@ -2522,7 +2534,9 @@
       "related_nodes": [
         "N-10880"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:10:15",
       "investigative_direction": "Obtain the payout rules and sample bio-code registrations.",
       "transcript_snippet": "People make edits on videos and then they get paid by Monster Labs based on how many impressions those videos get."
@@ -2539,7 +2553,9 @@
       "related_nodes": [
         "N-10881"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:30",
       "investigative_direction": "Capture the Discord message with its timestamp and moderator.",
       "transcript_snippet": "That is not allowed this week until August 23rd. The only thing you can clip is this debate.",
@@ -2560,7 +2576,9 @@
         "N-10889",
         "N-10013"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:25",
       "investigative_direction": "Read the published Atlantic article and its sourcing note.",
       "transcript_snippet": "a journalist over at the Atlantic did a deep dive after they also received a tip. In addition, they received access because this group is closed on Discord by someone who wanted to expose what was happening.",
@@ -2580,7 +2598,9 @@
       "related_nodes": [
         "N-10886"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:35",
       "investigative_direction": "Check the Atlantic article for who supplied videos and whether the friend is identified.",
       "transcript_snippet": "it is going to be an operation with strong ties to Eastern Europe. And the videos are being supplied by a very close friend of Erika Kirks.",
@@ -2600,7 +2620,9 @@
       "related_nodes": [
         "N-10889"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:15:30",
       "investigative_direction": "View Servius's recruitment video and quote it in full.",
       "transcript_snippet": "If you're not from the USA, like what the f is even Republicans like me, then simply go to Gemini or chat GPT.",
@@ -2621,7 +2643,9 @@
       "related_nodes": [
         "N-10880"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:20",
       "investigative_direction": "Search for LLC or DBA filings behind Monster Lab and Clipit.",
       "transcript_snippet": "we cannot confirm that this is his company. And the website itself makes it clear that Clippet is not the true company name, but rather the trade name",
@@ -2642,7 +2666,9 @@
         "N-10889",
         "N-10013"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:20",
       "investigative_direction": "Confirm with the reporter how access was granted and what was visible.",
       "transcript_snippet": "I was able to access its Discord server and other related political clipping campaign chats chats just by clicking join",
@@ -2663,7 +2689,9 @@
         "N-10881",
         "N-10889"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:50",
       "investigative_direction": "Locate the Servius video and its upload date.",
       "transcript_snippet": "Discord records for Elephant Clipping's budget go back only to April, but the campaign has been going on for about a year now, Cervius said in a video posted that month.",
@@ -2685,7 +2713,9 @@
       "related_nodes": [
         "N-10891"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:00",
       "investigative_direction": "Compare Google Drive upload dates with the date of the memorial speech and first campaign payouts.",
       "transcript_snippet": "Why did she need to be sold to the public 5 days after her husband's assassination? This is before we knew anything about her, right? This is even before the I forgive him speech.",
@@ -2709,7 +2739,9 @@
       "related_nodes": [
         "N-10891"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:00",
       "investigative_direction": "Obtain the Google Drive file list and compare with the clips in circulation Sept 10-20.",
       "transcript_snippet": "I think it's the one of Charlie and her walking with the kids. I think it's her in the casket. Everything we saw in those early days was by design.",
@@ -2731,7 +2763,9 @@
       "related_nodes": [
         "N-10882"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:30",
       "investigative_direction": "Check Nevada corporate filings for Enclave and Key officers.",
       "transcript_snippet": "Enclave Keys CEO and founder is Blake Wyn, the 26-year-old nephew of the billionaire and conservative mega donor Steve Wyn.",
@@ -2752,7 +2786,9 @@
       "related_nodes": [
         "N-10882"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:50",
       "investigative_direction": "Request the specific inaccuracies and the full Enclave and Key statement.",
       "transcript_snippet": "he responded, quote, \"There are a number of inaccuracies,\" end quote, but declined to offer further clarification",
@@ -2773,7 +2809,9 @@
         "N-11266",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:40",
       "investigative_direction": "Collect photos and guest lists for each event.",
       "transcript_snippet": "uh Turning Point USA's annual winter gala. Uh she was he was there as well also for the opening of Club America in Little Rock, Arkansas March 11th, 2026.",
@@ -2795,7 +2833,9 @@
         "N-11266",
         "N-10923"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:20",
       "investigative_direction": "Identify everyone visible in the exit video and who recorded it.",
       "transcript_snippet": "He was there by her side walking out with her holding her bag next to Kash Patel and they were outside by the cars.",
@@ -2817,7 +2857,9 @@
       "related_nodes": [
         "N-10882"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:30",
       "investigative_direction": "Watch the Bring the Juice interview and request any Patel contact logs.",
       "transcript_snippet": "he said that he and Enclave and Key do a lot of work in politics. Wyn also said that he regularly speaks with FBI director Kash Patel and that he was good friends with Kirk.",
@@ -2839,7 +2881,9 @@
       "related_nodes": [
         "N-10882"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:50",
       "investigative_direction": "Verify seating accounts in the Bring the Juice interview.",
       "transcript_snippet": "recounted sitting next to Trump at Mara Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witco, Trump's friend and special envoy.",
@@ -2847,8 +2891,8 @@
         "N-359",
         "N-5",
         "N-119",
-        "N-886",
-        "N-887"
+        "N-885",
+        "N-886"
       ]
     },
     {
@@ -2863,7 +2907,9 @@
       "related_nodes": [
         "N-10882"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:31:20",
       "investigative_direction": "Archive the Instagram posts with dates.",
       "transcript_snippet": "he's posted pictures of himself on Instagram at small gatherings, the White House, and at Mara Lago alongside the Kirks and Tulsi Gabbard, the former director of national intelligence.",
@@ -2887,7 +2933,9 @@
         "N-10881",
         "N-10889"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:40",
       "investigative_direction": "Obtain the campaign rule sheet listing banned and approved subjects.",
       "transcript_snippet": "Banned subjects include the January 6th, 2021 attack on the capital and cryptocurrencies that members of the Trump family have promoted",
@@ -2907,7 +2955,9 @@
       "related_nodes": [
         "N-10882"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:32:30",
       "investigative_direction": "Ask Crowder and Shapiro representatives about the campaigns.",
       "transcript_snippet": "And Crowder's campaign also links to Enclave and Key connected to the Google Drive.",
@@ -2924,7 +2974,9 @@
       "claim": "The host tells Andrew Kolvet to ask his friend Blake Wynn about the Latvian operator, saying the two have been on a private plane together.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:10",
       "investigative_direction": "Identify the flight and passenger manifest she refers to.",
       "transcript_snippet": "You guys have been on a private plane before together. Feel like you guys know each other.",
@@ -2943,7 +2995,9 @@
       "related_nodes": [
         "N-10882"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:56",
       "investigative_direction": "Check Romanian company registries for Enclave and Key entities.",
       "transcript_snippet": "Romania. Romania. I kid you not. I kid you not.",
@@ -2961,7 +3015,9 @@
       "related_nodes": [
         "N-10883"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:50",
       "investigative_direction": "Compare with account lists and any payments by her company to clipping services.",
       "transcript_snippet": "What you see on my socials is an employee that is being paid to create clips on my socials that are identifiable.",
@@ -2977,7 +3033,9 @@
       "claim": "The host says Steven Crowder effectively snuck in his producer, would not say who was coming, to back up Andrew Wilson at her house.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:35",
       "investigative_direction": "Identify the producer and the debate-day arrival list.",
       "transcript_snippet": "Steven Crowder, we told you he uh effectively snuck in his producer, wouldn't tell us who was coming into my house to back up Andrew Wilson.",
@@ -2999,7 +3057,9 @@
         "N-10884",
         "N-10880"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:40:30",
       "investigative_direction": "Pull WHOIS history and CDX captures for the domain.",
       "transcript_snippet": "It stayed like this for beginning May 3rd, 2024. if you want to call this a a a splash page of sorts.",
@@ -3020,7 +3080,9 @@
       "related_nodes": [
         "N-10884"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:40",
       "investigative_direction": "Locate Patel's statement on archive.ph.",
       "transcript_snippet": "Kash Patel, who we've learned is is friends with all these people, was talking about how they needed to go out and figure out who was running archive uh. ph",
@@ -3040,7 +3102,9 @@
       "related_nodes": [
         "N-10884"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:30",
       "investigative_direction": "Ask Internet Archive whether captures were restricted and on whose request.",
       "transcript_snippet": "Somebody said I don't I don't know who owns Wayback Machine and said, \"I see that you have all these archives. We just wanted to say loading.",
@@ -3060,7 +3124,9 @@
       "related_nodes": [
         "N-10880"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:50",
       "investigative_direction": "Search state LLC filings and DBA registrations for the trade names.",
       "transcript_snippet": "When you go to the website and you look at the terms and conditions and the about section it just tells us that they are using the trade name monster lab and clip it."
@@ -3077,7 +3143,9 @@
       "related_nodes": [
         "N-10881"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:15",
       "investigative_direction": "Check whether Trump and Vance appear in the Atlantic article or only in the host's chart.",
       "transcript_snippet": "People in the campaign we learned the article Tulsi Gabbard, Ben Shapiro, Steven Crowder, Vik Ramoswami, President Trump, JD Vance.",
@@ -3100,12 +3168,14 @@
       "related_nodes": [
         "N-10249"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:46:00",
       "investigative_direction": "Verify the post-Hughes ownership history of Hughes Summa assets in Las Vegas.",
       "transcript_snippet": "after his company got chopped up. Adlesen got a piece. The Wind family got a piece.",
       "mentions_person_refs": [
-        "N-757"
+        "N-756"
       ]
     },
     {
@@ -3116,7 +3186,9 @@
       "claim": "The host speculates RFK Jr. is banned from clipping because big-pharma wealth is a large part of the syndicate's money, calling it a cross-contamination of pharma and Las Vegas interests.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:47:50",
       "investigative_direction": "None beyond the banned-subject list.",
       "transcript_snippet": "I guess that's why they can't clip RFK because, you know, big pharma is a big piece of that wealth.",
@@ -3134,7 +3206,9 @@
       "related_nodes": [
         "N-10880"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:50",
       "investigative_direction": "Search New York DOS filings for the trade names.",
       "transcript_snippet": "we should be able to figure it out because this person is claim purports to be based in New York."
@@ -3151,7 +3225,9 @@
       "related_nodes": [
         "N-10890"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:51:50",
       "investigative_direction": "Confirm the platform ban status of Fuentes' accounts.",
       "transcript_snippet": "Nick Fuentes is banned from Instagram. He's banned from YouTube.",
@@ -3170,7 +3246,9 @@
         "N-10000",
         "N-10880"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:55",
       "investigative_direction": "Document flight records and campaign payments linked to TPUSA.",
       "transcript_snippet": "Turning Point USA is obviously in cahoots with them. They were taking her around private planes and they are they were trying to get Erika um into a position where they were selling her to us.",
@@ -3191,7 +3269,9 @@
       "related_nodes": [
         "N-11267"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:10",
       "investigative_direction": "Collect Erika's statements and staff reports about political plans.",
       "transcript_snippet": "And I think ultimately because she wanted the White House. I genuinely believe Erika had high political ambitions.",
@@ -3209,7 +3289,9 @@
       "related_nodes": [
         "N-11267"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:20",
       "investigative_direction": "Establish the board appointment date and the site's go-live date.",
       "transcript_snippet": "If this site went live on September 12th, are we supposed to believe she didn't know about this? She was CEO and chairman by September 12th.",
@@ -3230,7 +3312,9 @@
       "related_nodes": [
         "N-11268"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:40",
       "investigative_direction": "Pull WHOIS registration history for vancekirk.com.",
       "transcript_snippet": "I think actually September 12th is also the day that vancekirk. com was purchased. We don't know who purchased it, but it was purchased."
@@ -3245,7 +3329,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:56:35",
       "investigative_direction": "Compare with any past TPUSA payments to the host.",
       "transcript_snippet": "I'm not getting paid. I've never taken a single dollar from Turning Point USA.",
@@ -3264,7 +3350,9 @@
         "N-10728",
         "N-10874"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:57:50",
       "investigative_direction": "Obtain dispatch audio and hospital intake logs with times.",
       "transcript_snippet": "Now, Brian did say that the hospital didn't know they were coming, but it certainly sounds like the hospital knew someone was coming because we're listening now to the audio and the chats and they're redirecting to Teenogos.",
@@ -3287,7 +3375,9 @@
       "related_nodes": [
         "N-10884"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:59:40",
       "investigative_direction": "Track tips on Wayback captures.",
       "transcript_snippet": "So, hit your girl up at more tips at candace. com.",
@@ -3307,7 +3397,9 @@
       "related_nodes": [
         "N-10884"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:59:55",
       "investigative_direction": "Recover archived September 12 pages from other sources.",
       "transcript_snippet": "They don't want us to see what campaign was live on September 12th. That is a cleaning up of the tracks.",
@@ -3330,7 +3422,9 @@
       "related_nodes": [
         "N-10883"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:01:00",
       "investigative_direction": "Trace the origin posts of each smear.",
       "transcript_snippet": "They're like, \"She's funded by the Saudis. The Pakistanis are funding her. She's a Russian speaking lesbian. Her husband's gay. She's madly in love with Charlie.\"",
@@ -3346,7 +3440,9 @@
       "claim": "The host says her episode with Theo Von was released the previous day on his channel and passed one million views.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:04:00",
       "investigative_direction": "Check view counts on Theo Von's channel.",
       "transcript_snippet": "Anyway, uh that was released yesterday on Theon's channel and people have really loved it. I think it I saw that it passed a million views",
@@ -3364,7 +3460,9 @@
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:05:55",
       "investigative_direction": "Identify funders of Monster Lab and confirm any such alignment.",
       "transcript_snippet": "look, it's it's Israeli aligned interest. There's no question about it."
@@ -3377,7 +3475,9 @@
       "claim": "The host says she is about a couple of weeks from meeting her fifth child.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:07:50",
       "investigative_direction": "None.",
       "transcript_snippet": "I'm so excited to meet him. I will say that. Just a couple more weeks here.",
@@ -3397,7 +3497,9 @@
       "related_nodes": [
         "N-10880"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:08:40",
       "investigative_direction": "Collect corporate documents for Monster Lab.",
       "transcript_snippet": "Email us more tips@candice. com with any information.",
@@ -3413,7 +3515,9 @@
       "claim": "The host says those who look past the flaws in the assassination story were funded into the positions they hold.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:09:20",
       "investigative_direction": "None; sweeping group characterization.",
       "transcript_snippet": "These people were funded uh into the positions that they're in today."
@@ -3426,7 +3530,9 @@
       "claim": "The host says what Charlie was fighting in the end was people giving money to control his voice.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:11:50",
       "investigative_direction": "Find Charlie's statements on donor influence.",
       "transcript_snippet": "it is the very thing that Charlie was fighting in the end was the idea of people giving money to control his voice.",

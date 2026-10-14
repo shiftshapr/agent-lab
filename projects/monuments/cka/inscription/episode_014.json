@@ -1166,8 +1166,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-722",
-      "ref": "N-722",
+      "@id": "N-721",
+      "ref": "N-721",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "JFK; the host compares his assassination to the Kirk case.",
@@ -1585,8 +1585,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-807",
-      "ref": "N-807",
+      "@id": "N-806",
+      "ref": "N-806",
       "name": "Leo Frank",
       "type": "person",
       "description": "First named by the host at 00:03:10 in episode 14. Atlanta factory owner convicted in 1913 whom the host says the ADL was formed to defend.",
@@ -1605,8 +1605,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-808",
-      "ref": "N-808",
+      "@id": "N-807",
+      "ref": "N-807",
       "name": "Mary Phagan",
       "type": "person",
       "description": "First named by the host at 00:03:10 in episode 14 (Mary Phagan in the historical record). Victim the host says was a 13-year-old pencil factory worker.",
@@ -1624,8 +1624,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-809",
-      "ref": "N-809",
+      "@id": "N-808",
+      "ref": "N-808",
       "name": "Scott Robbins",
       "type": "person",
       "description": "First named by the host at 00:22:48 in episode 14. Witness in the USA Today clip whom the host says ran for Utah governor in 2024.",
@@ -1641,8 +1641,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-810",
-      "ref": "N-810",
+      "@id": "N-809",
+      "ref": "N-809",
       "name": "Greta Thunberg",
       "type": "person",
       "description": "First named by the host at 00:46:04 in episode 14, via a viewer comment. Activist the host says Israel's influence made out to be Hamas.",
@@ -2004,7 +2004,9 @@
       "related_nodes": [
         "N-10161"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:00",
       "investigative_direction": "Obtain the footage and identify the woman; compare any named individual against the tip and her public statements.",
       "transcript_snippet": "we received a few tips regarding the woman who is missing from the footage. And while we certainly cannot confirm that it's actually this individual",
@@ -2025,7 +2027,9 @@
         "N-10000",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:01:15",
       "investigative_direction": "Locate the ADL's extremism listing of Kirk/TPUSA and the FBI statement tying the break to it.",
       "transcript_snippet": "yesterday the FBI made a rather curious announcement. They announced that they were going to cut ties with the ADL, right?",
@@ -2047,7 +2051,9 @@
         "N-11153",
         "N-11130"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:01:15",
       "investigative_direction": "Compare with the ADL's own founding history and B'nai B'rith records.",
       "transcript_snippet": "The reality is the ADL was born out of a Jewish Freemason organization known as Benith.",
@@ -2067,7 +2073,9 @@
       "related_nodes": [
         "N-11130"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:01:15",
       "investigative_direction": "Check Freud biographies for B'nai B'rith membership records (Vienna lodge).",
       "transcript_snippet": "but Sigman Freud was a member of Bonai Barith.",
@@ -2086,7 +2094,9 @@
         "A-2905.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:02:25",
       "investigative_direction": "Review the seduction-theory history and the cited book for the documented basis.",
       "transcript_snippet": "him and all of his homies were covering up for incestuous child abuse. That is a fact.",
@@ -2106,12 +2116,14 @@
         "N-11130",
         "N-11156"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:03:10",
       "investigative_direction": "Compare ADL and B'nai B'rith founding records (1913) with the Frank case history; note the host's characterization is hers alone.",
       "transcript_snippet": "Well, because they put the organization together to defend a pedophile and a murderer. His name is Leo Frank.",
       "mentions_person_refs": [
-        "N-807",
+        "N-806",
         "N-3"
       ]
     },
@@ -2125,13 +2137,15 @@
       "related_nodes": [
         "N-11156"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:03:10",
       "investigative_direction": "Check 1913 Georgia court and newspaper records of the Phagan case.",
       "transcript_snippet": "And Mary Fagan was a 13-year-old girl who worked at his pencil factory. She was found brutally raped.",
       "mentions_person_refs": [
-        "N-808",
-        "N-807"
+        "N-807",
+        "N-806"
       ]
     },
     {
@@ -2144,13 +2158,15 @@
       "related_nodes": [
         "N-11156"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:03:10",
       "investigative_direction": "Review the 1913 trial record and appeals to the US Supreme Court.",
       "transcript_snippet": "he was so guilty of what happened that despite the fact that he tried to pin it on a poor black janitor.",
       "mentions_person_refs": [
-        "N-807",
-        "N-808"
+        "N-806",
+        "N-807"
       ]
     },
     {
@@ -2165,7 +2181,9 @@
         "N-11130",
         "N-11156"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:04:25",
       "investigative_direction": "Compare the host's chronology with the documented timing of the ADL's founding (1913) and Frank's 1915 lynching.",
       "transcript_snippet": "What happened then is that his buddies over at the Freemasonic Lodge, Benber, assembled the ADL to gaslight the public.",
@@ -2173,7 +2191,7 @@
         "C-7841"
       ],
       "mentions_person_refs": [
-        "N-807",
+        "N-806",
         "N-3"
       ]
     },
@@ -2189,12 +2207,14 @@
       "related_nodes": [
         "N-11156"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:04:25",
       "investigative_direction": "Confirm the book, its author and relationship to the victim.",
       "transcript_snippet": "there's a book called The Murder of Little Mary Fagan, and it is written by a relative of hers.",
       "mentions_person_refs": [
-        "N-808",
+        "N-807",
         "N-3"
       ]
     },
@@ -2208,7 +2228,9 @@
       "related_nodes": [
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:05:30",
       "investigative_direction": "Identify the specific press pieces and federal statements the host is referring to.",
       "transcript_snippet": "gaslight and diagnose seeing it happen in real time pertaining to the Charlie Kirk case. We watched him be murdered and then we watched the feds lie to us",
@@ -2229,7 +2251,9 @@
         "N-10158",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:40",
       "investigative_direction": "Obtain the ADL-FBI training and liaison records and the extremism listings.",
       "transcript_snippet": "They label people who tell the truth extremists. They put them on a list. I think it effectively works as a hit list.",
@@ -2245,7 +2269,9 @@
       "claim": "The host says critics respond to her questions by claiming she must be suffering from postpartum psychosis.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:40",
       "investigative_direction": "Collect the press pieces that make the postpartum psychosis suggestion.",
       "transcript_snippet": "Candace is they always say this. She must be suffering from postpartum psychosis.",
@@ -2265,7 +2291,9 @@
         "N-10026",
         "N-10025"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:01",
       "investigative_direction": "Identify the neocon figures and any documented name-sharing with the ADL.",
       "transcript_snippet": "The neocons on the right side work arm in-armm with the ADL and feed them names primarily of anyone, I should say, who is an enemy to the state of Israel.",
@@ -2284,7 +2312,9 @@
         "N-11153",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:45",
       "investigative_direction": "Find Musk's post and its date relative to Patel's announcement.",
       "transcript_snippet": "I think Elon Musk tweeted about Charlie Kirk and TPUSA being on the list and then it kind of caught fire",
@@ -2305,7 +2335,9 @@
         "N-10158",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:45",
       "investigative_direction": "Obtain FBI-ADL training agreements, course rosters and information-sharing records.",
       "transcript_snippet": "Yes, the ADL was training FBI agents and sharing intelligence in partnership uh with the FBI.",
@@ -2327,7 +2359,9 @@
         "N-11153",
         "N-11154"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:10:50",
       "investigative_direction": "Check the ADL's Glossary of Extremism entry for Azov and its edit history.",
       "transcript_snippet": "they curiously removed the AOV battalion. They're carving swastikas on their head. The Ukrainians uh murdering people. They removed them from the hate list.",
@@ -2345,7 +2379,9 @@
       "related_nodes": [
         "N-11153"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:10:50",
       "investigative_direction": "Verify the ADL listing of Candace Owens.",
       "transcript_snippet": "Candace Owens is on there, though. I'm sure you guys go to bed and you're worried about Candace Owens",
@@ -2365,7 +2401,9 @@
         "N-10014",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:03",
       "investigative_direction": "Request the FBI's deployment roster for UVU and confirm which field offices sent personnel.",
       "transcript_snippet": "I received a rather stunning tip which I have been able to corroborate that out of all of the FBI bureaus in the United States regarding which there are 55 main bureaus and over 350 satellite bureaus.",
@@ -2388,7 +2426,9 @@
         "N-10095",
         "N-10315"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:41",
       "investigative_direction": "Verify each named witness's employer, residence and affiliation from public records.",
       "transcript_snippet": "That they had strange connections to the government or like weren't from UVU at all, were coming from overseas.",
@@ -2406,7 +2446,9 @@
       "related_nodes": [
         "N-10161"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:41",
       "investigative_direction": "Request any such footage and the tipster's basis; compare against the Lyman family clip.",
       "transcript_snippet": "I got that one tip from an individual, completely unrelated, said yes, there was footage of a person helping the shooter change clothes.",
@@ -2424,7 +2466,9 @@
       "related_nodes": [
         "N-10161"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:52",
       "investigative_direction": "Confirm the tip's origin and whether other eyewitnesses reported seeing the limp.",
       "transcript_snippet": "Anyways, the name uh that we had received was it turned out somebody that actually provided the only eyewitness testimony of having seen the shooter up close limping.",
@@ -2443,7 +2487,9 @@
       "related_nodes": [
         "N-10161"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:52",
       "investigative_direction": "Review the footage the woman recorded and any police statement she gave.",
       "transcript_snippet": "it's possible just to run the other side of things that this woman captured both of them walking back to back and she just was walking near him",
@@ -2466,7 +2512,9 @@
         "N-10129",
         "N-11155"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:53",
       "investigative_direction": "Confirm Bishop's employment with the Orem Police Department through department staffing records.",
       "transcript_snippet": "It turns out that she works for the Oram Police Department. She's a record specialist.",
@@ -2488,7 +2536,9 @@
         "N-10129",
         "N-11155"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:53",
       "investigative_direction": "Locate the department's Facebook post and its staffing change roster for August 2025.",
       "transcript_snippet": "in August, you're going to believe this, they kind of lost a lot of people that were working at the department.",
@@ -2506,7 +2556,9 @@
       "related_nodes": [
         "N-10129"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:53",
       "investigative_direction": "Identify the sources and any public records or complaints about Orem Police corruption.",
       "transcript_snippet": "we're hearing a lot of stuff about uh some plausible corruption that might be going on there.",
@@ -2525,7 +2577,9 @@
         "N-10129",
         "N-11155"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:48",
       "investigative_direction": "Check Bishop's work schedule and leave records for September 10, 2025.",
       "transcript_snippet": "Another thing that we were able to learn is that she met up with her husband.",
@@ -2545,7 +2599,9 @@
         "N-10129",
         "N-11155"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:48",
       "investigative_direction": "Obtain the text exchange and any statement Bishop gave to investigators.",
       "transcript_snippet": "She says that was it. She just wanted to speak right there. Give her testimony and that she gave the appropriate information to the appropriate authorities.",
@@ -2564,7 +2620,9 @@
       "related_nodes": [
         "N-10161"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:48",
       "investigative_direction": "Confirm Barker's family tie to Lyman's 2024 running mate and the nieces' identities.",
       "transcript_snippet": "Tiffany Barker, of course, she's with the nieces. Her sister was Phil Lyman's running mate.",
@@ -2583,7 +2641,9 @@
       "related_nodes": [
         "N-10060"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:03",
       "investigative_direction": "Check GMA broadcast logs and booking records for the September 11 interview.",
       "transcript_snippet": "She spoke to Good Morning America in the we morning we hours of the morning after.",
@@ -2601,7 +2661,9 @@
       "related_nodes": [
         "N-10144"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:03",
       "investigative_direction": "Archive the Lyman campaign site from 2024 and check for the Zinn endorsement.",
       "transcript_snippet": "He ran for Utah governor in 2024. He featured George Zinn on his website at that time.",
@@ -2623,7 +2685,9 @@
       "related_nodes": [
         "N-10144"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:03",
       "investigative_direction": "Catalog Lyman's media appearances after September 10.",
       "transcript_snippet": "spoke to Alec Jones, Fox News, News Nation, really anybody that would have him.",
@@ -2642,7 +2706,9 @@
       "related_nodes": [
         "N-10144"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:03",
       "investigative_direction": "Locate Lyman's public statements about the host.",
       "transcript_snippet": "He wants me to know that he thinks I'm I'm shady, that I'm an accomplice to something.",
@@ -2663,7 +2729,9 @@
       "related_nodes": [
         "N-10161"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:48",
       "investigative_direction": "Confirm the witness's identity and employment at Domo through LinkedIn and company records.",
       "transcript_snippet": "he works for Domo Incorporated. History is that he is a software engineer, a technic advis technical adviser.",
@@ -2681,7 +2749,9 @@
       "related_nodes": [
         "N-10161"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:48",
       "investigative_direction": "Match the Gauer name to the previously identified Gernot Omer and review the Shainer Instagram posts.",
       "transcript_snippet": "He we learned was a software engineer from Austria. So, Austria, Germany.",
@@ -2703,12 +2773,14 @@
       "related_nodes": [
         "N-10161"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:48",
       "investigative_direction": "Check Utah 2024 gubernatorial filings for Scott Robbins.",
       "transcript_snippet": "well, he was also a gubernatorial candidate. He ran for governor of Utah in 2024.",
       "mentions_person_refs": [
-        "N-809"
+        "N-808"
       ]
     },
     {
@@ -2724,7 +2796,9 @@
         "N-10161",
         "N-10315"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:22:48",
       "investigative_direction": "Review the original USA Today and AP witness interviews.",
       "transcript_snippet": "I guess all of these USA Today or AP, nobody asked them like who they were or if they were college students.",
@@ -2742,7 +2816,9 @@
       "related_nodes": [
         "N-10161"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:48",
       "investigative_direction": "Document the host's public requests for witness contact and responses.",
       "transcript_snippet": "none of them have reached out to me. Like, from the minute that this all happened, I asked for information,",
@@ -2760,7 +2836,9 @@
       "related_nodes": [
         "N-10153"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:46",
       "investigative_direction": "Verify Hild's reported Cayman Islands and Spain ties through corporate and travel records.",
       "transcript_snippet": "We've got Robbie Hild in Spain. We've got Robbie Hild all over.",
@@ -2778,12 +2856,14 @@
       "related_nodes": [
         "N-10662"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:27:37",
       "investigative_direction": "Compare with documented JFK-era records; note the FARA link is the host's characterization.",
       "transcript_snippet": "I think he was surrounded. I think he was infiltrated and then they got rid of him because of wrong think.",
       "mentions_person_refs": [
-        "N-722",
+        "N-721",
         "N-3"
       ]
     },
@@ -2797,7 +2877,9 @@
       "related_nodes": [
         "N-10110"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:37",
       "investigative_direction": "Review the charging documents, ballistic tie to the gun and Robinson's ownership records.",
       "transcript_snippet": "It's his gun. There's weird stuff going on there. I don't believe he pulled the trigger.",
@@ -2816,7 +2898,9 @@
       "related_nodes": [
         "N-10160"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:37",
       "investigative_direction": "Review how Robinson's defense counsel was selected and any role of the prosecutor.",
       "transcript_snippet": "if they're going to make that stick, then you got to have you got to have a lawyer that's working for the prosecution, right?",
@@ -2840,7 +2924,9 @@
       "related_nodes": [
         "N-10160"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:07",
       "investigative_direction": "Identify the firm and obtain any written communication with Lane about the offer.",
       "transcript_snippet": "we don't believe that what happened to Charlie Cork was remotely a case of just a single, you know, crazy kid going up and shooting the guy in the neck.",
@@ -2862,7 +2948,9 @@
       "related_nodes": [
         "N-10160"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:25",
       "investigative_direction": "Identify the local lawyer and the firms Lane means.",
       "transcript_snippet": "do not get in touch with the firms in Utah that are the most powerful because they are in on it with the state.",
@@ -2882,7 +2970,9 @@
       "related_nodes": [
         "N-10160"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:28",
       "investigative_direction": "Identify the firm and call date.",
       "transcript_snippet": "They started screaming on the phone and I was like why do you even care?",
@@ -2902,7 +2992,9 @@
       "related_nodes": [
         "N-10160"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:28",
       "investigative_direction": "Identify the New York lawyer and any consent request filed.",
       "transcript_snippet": "there is a lawyer who's qualified and he's actually very famous in New York wants to represent this kid.",
@@ -2923,7 +3015,9 @@
       "related_nodes": [
         "N-10160"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:15",
       "investigative_direction": "Check Skordas's campaign site and official role; confirm spelling and title.",
       "transcript_snippet": "So, what I know is that Scordies is running as a state prosecutor. He's running. Everyone can look it up. It's on his website.",
@@ -2945,7 +3039,9 @@
       "related_nodes": [
         "N-10160"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:32:15",
       "investigative_direction": "Not independently testable; look for specific rulings or appointments.",
       "transcript_snippet": "this gang that's running everything, okay, they also are controlling the courts.",
@@ -2961,7 +3057,9 @@
       "claim": "The host says Ian Carroll discussed on her show, in connection with Justin Bieber, that arbitration courts are private courts where the judge does not have to follow the law.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:33:08",
       "investigative_direction": "Review the Carroll episode and the arbitration clause discussed.",
       "transcript_snippet": "Arbitration courts, so they get you to sign a contract and you agree.",
@@ -2981,7 +3079,9 @@
         "N-10270",
         "N-11011"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:54",
       "investigative_direction": "Check for earlier suits by sitting heads of state against foreign journalists.",
       "transcript_snippet": "Never in the history of the world ever has there been a sitting leader of a foreign country that has sued a podcaster or a news member even even a journalist in a foreign country for defamation.",
@@ -3001,7 +3101,9 @@
         "N-10270",
         "N-11011"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:45",
       "investigative_direction": "Review the court docket for the Macron counsel appearances.",
       "transcript_snippet": "Breit Mcronone has hired feds federal former federal prosecutors and she's hiring a firm here.",
@@ -3018,7 +3120,9 @@
       "claim": "The host says people who get too close face being smeared, bankrupted or dying in rather mysterious circumstances.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:34:45",
       "investigative_direction": "Sweeping claim; look for specific named examples.",
       "transcript_snippet": "it's either you're smeared, you are bankrupt, bankrupted, or you die in rather mysterious circumstances.",
@@ -3036,7 +3140,9 @@
       "related_nodes": [
         "N-10324"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:04",
       "investigative_direction": "Check the congressional vote record for September 10, 2025 on the Epstein files.",
       "transcript_snippet": "I think actually it was the day that uh Charlie was killed, quietly voted. We're not going to actually release any Epstein files.",
@@ -3057,7 +3163,9 @@
       "related_nodes": [
         "N-10324"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:30",
       "investigative_direction": "Review Greene's public statements on the Epstein files.",
       "transcript_snippet": "Taylor Green has been very loud about how she is against that as she has grown increasingly vocal",
@@ -3080,7 +3188,9 @@
         "N-11153",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:30",
       "investigative_direction": "Verify the entries on the ADL's lists.",
       "transcript_snippet": "Why the ADL creates a list that features people like Charlie Kirk and Turning Point USA and Candace Owens.",
@@ -3102,7 +3212,9 @@
       "related_nodes": [
         "N-11059"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:41",
       "investigative_direction": "Identify the Ukrainian connections the host promises.",
       "transcript_snippet": "show to you the the Ukrainian connections that are coming across in this that are very strange",
@@ -3120,7 +3232,9 @@
       "related_nodes": [
         "N-11059"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:41",
       "investigative_direction": "Review the official evidence from the Annunciation Catholic School shooting.",
       "transcript_snippet": "the Catholic school shooting for no the person was scribbling in their notebook recently the shooter in Cerrillic.",
@@ -3140,7 +3254,9 @@
       "related_nodes": [
         "N-10153"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:35",
       "investigative_direction": "Confirm the tip address and track the volume of submissions; the Decentralized Intelligence Agency beat.",
       "transcript_snippet": "we did open another tips line uh because we need to we're just we are at max capacity.",
@@ -3158,7 +3274,9 @@
         "A-2909.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:42:16",
       "investigative_direction": "Not investigable.",
       "transcript_snippet": "My sister took her four-year-old out of school yesterday. Literally started homeschooling this morning.",
@@ -3174,7 +3292,9 @@
       "claim": "The host says sleeper cells exist in public schools and private schools.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:42:52",
       "investigative_direction": "Sweeping claim; ask for specific named cases.",
       "transcript_snippet": "these sleeper cells exist in public schools, private schools.",
@@ -3192,7 +3312,9 @@
       "related_nodes": [
         "N-10406"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:52",
       "investigative_direction": "Find the Kelly appearance and the clip shown.",
       "transcript_snippet": "And then they showed her a clip of me saying that it's not left or right anymore.",
@@ -3211,7 +3333,9 @@
       "related_nodes": [
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:44:01",
       "investigative_direction": "Look for documented influencer payments tied to this narrative.",
       "transcript_snippet": "psychological operation, paying influencers to say that's crazy.",
@@ -3227,7 +3351,9 @@
       "claim": "The host says she handles the morning homeschooling, just started this week and feels more joyful, and was inspired by her accountant sister.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:45:00",
       "investigative_direction": "Not investigable.",
       "transcript_snippet": "I do the the morning stuff for homeschooling. And it obviously I just started this week",
@@ -3250,12 +3376,14 @@
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:46:04",
       "investigative_direction": "Find the Time cover and the octopus image controversy.",
       "transcript_snippet": "they like put her on the cover of Time and then suddenly they were like she had an octopus in a picture and they basically said she's Hamas",
       "mentions_person_refs": [
-        "N-810"
+        "N-809"
       ]
     },
     {
@@ -3271,7 +3399,9 @@
         "N-10161",
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:47:20",
       "investigative_direction": "Collect similar public statements by other figures.",
       "transcript_snippet": "If you have influence and you're speaking out against Israel, you do have to kind of make that statement.",
@@ -3293,7 +3423,9 @@
       "related_nodes": [
         "N-11153"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:12",
       "investigative_direction": "Check YouTube enforcement actions against the host in 2024 and any ADL involvement.",
       "transcript_snippet": "the ADL after this episode is going to do what they do and uh call use their powerful influence to call YouTube like you know last year what happened to me",
@@ -3313,7 +3445,9 @@
       "related_nodes": [
         "N-10161"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:12",
       "investigative_direction": "Not verifiable; commenter's identity unknown.",
       "transcript_snippet": "I'm in the private security sector. I see a lot of investigations. There is not only one group involved here, and they don't all want the same things.",
@@ -3333,7 +3467,9 @@
         "N-10148",
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:12",
       "investigative_direction": "Find Kirk's own statements or messages showing his stance.",
       "transcript_snippet": "he was explicit that he was left with no choice but to become anti-Israel because of their behavior and what they were doing to him",
@@ -3352,7 +3488,9 @@
       "related_nodes": [
         "N-11157"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:02",
       "investigative_direction": "Date the Trump Hotel conversation and identify corroboration.",
       "transcript_snippet": "you have to be very careful who you take money from and what you are doing what you are willing to do for a check.",
@@ -3371,7 +3509,9 @@
       "related_nodes": [
         "N-10406"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:50:02",
       "investigative_direction": "Find the articles after the October 1 episode targeting Kelly.",
       "transcript_snippet": "It's starting. The hornets nest has been kicked. The bees are buzzing around Megan Kelly.",
@@ -3390,7 +3530,9 @@
       "related_nodes": [
         "N-11157"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:51:04",
       "investigative_direction": "Gather Kirk's later statements about donors.",
       "transcript_snippet": "I don't think Charlie believed that or saw that until it was I think too late.",
@@ -3410,7 +3552,9 @@
       "claim": "The host says Germany does not allow homeschooling and parents get arrested for keeping their kids home.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:51:04",
       "investigative_direction": "Check German compulsory school attendance law.",
       "transcript_snippet": "don't forget Germany, they're not allowed to do it. Germany, Germany, they won.",
@@ -3426,7 +3570,9 @@
       "claim": "The host says 97 vaccines are required in order for children to be allowed to go to public school.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:51:04",
       "investigative_direction": "Check state school immunization schedules.",
       "transcript_snippet": "And we say 97 vaccines in order for them to be allowed to go to public school.",
@@ -3444,7 +3590,9 @@
       "related_nodes": [
         "N-10270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:35",
       "investigative_direction": "Track costs and filings in the Macron suit.",
       "transcript_snippet": "Mrs. Mcronone's got some pretty big balls. She's going to bankrupt me for exposing it.",
@@ -3466,7 +3614,9 @@
       "related_nodes": [
         "N-10161"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:17",
       "investigative_direction": "Document witness outreach attempts.",
       "transcript_snippet": "And the witness tree has gone silent, has never reached out to me.",

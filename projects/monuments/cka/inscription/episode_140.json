@@ -314,7 +314,7 @@
             "C-3272"
           ],
           "related_nodes": [
-            "N-573",
+            "N-572",
             "N-18"
           ],
           "tags": [],
@@ -407,7 +407,7 @@
           "description": "Lady Di comment: requests Rachel Wilson not attend the upcoming debate",
           "related_claims": [],
           "related_nodes": [
-            "N-573"
+            "N-572"
           ],
           "tags": [],
           "video_timestamp": "00:54:01",
@@ -558,7 +558,7 @@
             "C-10472"
           ],
           "related_nodes": [
-            "N-573"
+            "N-572"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -575,7 +575,7 @@
             "C-10473"
           ],
           "related_nodes": [
-            "N-573"
+            "N-572"
           ],
           "tags": [],
           "video_timestamp": "00:37:15",
@@ -591,7 +591,7 @@
             "C-10474"
           ],
           "related_nodes": [
-            "N-573"
+            "N-572"
           ],
           "tags": [],
           "video_timestamp": "00:37:56",
@@ -863,8 +863,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-573",
-      "ref": "N-573",
+      "@id": "N-572",
+      "ref": "N-572",
       "name": "Rachel Wilson",
       "type": "person",
       "description": "First named by the host at 00:39:29 in episode 140.",
@@ -1454,8 +1454,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-878",
-      "ref": "N-878",
+      "@id": "N-877",
+      "ref": "N-877",
       "name": "Agent Hoole",
       "type": "person",
       "description": "First named by the host at 00:17:43 in episode 140. Investigator whose court testimony about a vehicle is played and analysed.",
@@ -1472,8 +1472,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-879",
-      "ref": "N-879",
+      "@id": "N-878",
+      "ref": "N-878",
       "name": "Officer Goforth",
       "type": "person",
       "description": "First named by the host at 00:18:42 in episode 140. Security-detail officer identified in Agent Hoole's testimony as the officer a vehicle made contact with.",
@@ -1490,8 +1490,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-880",
-      "ref": "N-880",
+      "@id": "N-879",
+      "ref": "N-879",
       "name": "Haim Braverman",
       "type": "person",
       "description": "First named by the host at 00:29:36 in episode 140. Man the host says was arrested and pled guilty after plotting against her from a group chat.",
@@ -1507,8 +1507,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-881",
-      "ref": "N-881",
+      "@id": "N-880",
+      "ref": "N-880",
       "name": "Britta Widener",
       "type": "person",
       "description": "First named by the host at 00:31:45 in episode 140 (spelled Britta Whitener and Brita in the transcript). Owner of the No Soup For You / No Soup for Noels X account.",
@@ -1835,7 +1835,7 @@
       "investigative_direction": "Obtain the full debate recording and date; verify whether this was a sanctioned call-in.",
       "mentions_person_refs": [
         "N-18",
-        "N-573"
+        "N-572"
       ]
     },
     {
@@ -1917,7 +1917,9 @@
         "N-11066",
         "N-11067"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Obtain the negotiation emails between the host's team and Wilson's team and the draft debate terms.",
       "transcript_snippet": "Like just some straight paranoia coming from his side about possibilities of my team muting them, lowering the volume, stealing the funds, and then canceling the debate.",
@@ -1936,7 +1938,9 @@
       "related_nodes": [
         "N-11259"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Wait for the moderator's own announcement and the debate's actual air date to confirm the arrangement.",
       "transcript_snippet": "we have secured a moderator, a good one, and the moderator is already stepping in to moderate to get to this debate over the finish line.",
@@ -1955,7 +1959,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:45",
       "investigative_direction": "Review the account's posting history and follows for Daily Wire fan content and confirm the owner through public records.",
       "transcript_snippet": "It was essentially a Daily Wire super fan account, which most people reasonably assumed was like a 13-year-old teenager",
@@ -1974,7 +1980,9 @@
       "claim": "The host says Tyler Robinson had a GPA above 4.0, which she uses to argue he was too intelligent to wear a favorite shirt to a crime.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:05",
       "investigative_direction": "Obtain Robinson's school transcripts or the court filing that states his GPA.",
       "transcript_snippet": "remember Tyler Robinson had above a 4.0 GPA",
@@ -1994,7 +2002,9 @@
       "related_nodes": [
         "N-10077"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:05",
       "investigative_direction": "Compare the wording and timestamp of this message in the charging documents and the extracted text exhibits.",
       "transcript_snippet": "\"To be honest, I had hoped to keep this secret till I died of old age.\"",
@@ -2011,7 +2021,9 @@
       "claim": "The host says the media immediately reminding the public how much Charlie Kirk loved Israel (hugging the flag, saying Shabbat Shalom) was a psychological operation of the same kind as the maroon seeding.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:04",
       "investigative_direction": "Catalogue the Israel-related images of Kirk that circulated in the first days after the shooting and their sources.",
       "transcript_snippet": "It reminds me of sort of the same psychological operation of them immediately trying to remind us of how much Charlie loved Israel.",
@@ -2030,7 +2042,9 @@
         "N-11260",
         "N-10791"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:04",
       "investigative_direction": "Establish who first distributed the maroon-shirt photos and when, and compare with the timing of the TMZ neighbor footage.",
       "transcript_snippet": "The outfit was pre-selected. They selected a maroon shirt if that is the alternative narrative.",
@@ -2052,7 +2066,9 @@
         "N-10791",
         "N-10793"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:04",
       "investigative_direction": "Review last week's episode stills against the full stairwell footage frame by frame.",
       "transcript_snippet": "he's actually putting his phone in his left hand",
@@ -2073,7 +2089,9 @@
       "related_nodes": [
         "N-10791"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:04",
       "investigative_direction": "Ask the court and the prosecutors which exhibit was shown to the influencers and request the original-resolution file.",
       "transcript_snippet": "today we have more exclusive stills from the 4K undeniable footage that was shown um in the courtroom to influencers."
@@ -2090,7 +2108,9 @@
       "related_nodes": [
         "N-10791"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:04",
       "investigative_direction": "Measure the subject against reference objects in the garage and compare with Robinson's booking height and weight.",
       "transcript_snippet": "you might realize that he's kind of a bit broad",
@@ -2110,7 +2130,9 @@
       "related_nodes": [
         "N-10791"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:07",
       "investigative_direction": "Obtain the stills' source file and metadata to confirm no processing was applied.",
       "transcript_snippet": "we did not edit these in any way. Okay? This is no editing."
@@ -2127,7 +2149,9 @@
         "N-11261",
         "N-10052"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:09",
       "investigative_direction": "Obtain the neighbor-camera clip with its metadata and the charging documents' departure time for the drive from St. George.",
       "transcript_snippet": "he had to leave his house in St. George before 4:00 a. m. to make it up to campus when they then catch him on walking by the neighbor's house at 8:07 a. m.",
@@ -2149,7 +2173,9 @@
         "N-10000",
         "N-11261"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:02",
       "investigative_direction": "Identify the employee in the witness list and obtain her statement to investigators.",
       "transcript_snippet": "I can't wait to hear her testify.",
@@ -2168,7 +2194,9 @@
         "N-10012",
         "N-11261"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:44",
       "investigative_direction": "Request the Chick-fil-A surveillance footage and receipts from the prosecution or a records request.",
       "transcript_snippet": "To Chick-fil-A on campus. We haven't seen any footage from that yet.",
@@ -2186,7 +2214,9 @@
       "related_nodes": [
         "N-11261"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:44",
       "investigative_direction": "Identify the footage or testimony establishing the black shirt and blue jeans and where he changed.",
       "transcript_snippet": "changes his outfit, puts on a long-sleeve black shirt, puts on blue jeans",
@@ -2204,7 +2234,9 @@
       "related_nodes": [
         "N-11261"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:44",
       "investigative_direction": "Check the extracted message exhibit for the 11:28 Wordle message and its time zone.",
       "transcript_snippet": "At 11:28, he sent his Wordle score to his friends.",
@@ -2222,7 +2254,9 @@
       "related_nodes": [
         "N-11261"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:44",
       "investigative_direction": "Compare against the charging documents and any footage of the limp, hat and backpack.",
       "transcript_snippet": "he shoves a broken-down German 98 Mauser into his pants, and he starts limping back onto campus with a new hat, new backpack",
@@ -2241,7 +2275,9 @@
         "N-10051",
         "N-11261"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:41",
       "investigative_direction": "Obtain the Dairy Queen photo with its metadata and the prosecution's account of where the clothing change occurred.",
       "transcript_snippet": "he then changes back into his maroon shirt, but he leaves the jeans on. He's then spotted at Dairy Queen.",
@@ -2261,7 +2297,9 @@
         "N-10062",
         "N-11261"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:41",
       "investigative_direction": "Obtain the restaurant's receipt, timestamp and any camera footage and compare with the manhunt timeline.",
       "transcript_snippet": "He then departs Orem and drives 3 hours down to Panguitch to the Cowboy Steak House, where he seats himself at the bar and he orders a steak combo with a soft drink.",
@@ -2280,7 +2318,9 @@
         "N-10062",
         "N-11261"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:43",
       "investigative_direction": "Identify the vehicle-tracking, license-plate or camera evidence that places him back at Orem and the time.",
       "transcript_snippet": "he drives back up to Orem. I mean, woo, long drive. Another 3 hours. This time because he wants to retrieve his rifle",
@@ -2300,7 +2340,9 @@
       "related_nodes": [
         "N-11261"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:43",
       "investigative_direction": "Obtain the full Hoole testimony transcript and the officer's report to determine who initiated the contact.",
       "transcript_snippet": "I wrongly assumed that he had been pulled over.",
@@ -2309,7 +2351,7 @@
       ],
       "mentions_person_refs": [
         "N-40",
-        "N-878"
+        "N-877"
       ]
     },
     {
@@ -2324,13 +2366,15 @@
       "related_nodes": [
         "N-11261"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:42",
       "investigative_direction": "Obtain the exhibit map and video Hoole was describing and the full transcript of this testimony.",
       "transcript_snippet": "that vehicle is now pulling away and heading east on 800 South.",
       "mentions_person_refs": [
-        "N-878",
-        "N-879"
+        "N-877",
+        "N-878"
       ]
     },
     {
@@ -2345,12 +2389,14 @@
       "related_nodes": [
         "N-11261"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:39",
       "investigative_direction": "Request the security officer's body-camera footage and report for the contact.",
       "transcript_snippet": "We've not seen any footage from that.",
       "mentions_person_refs": [
-        "N-879"
+        "N-878"
       ]
     },
     {
@@ -2364,7 +2410,9 @@
         "N-10052",
         "N-11261"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:39",
       "investigative_direction": "Compare the text-message times and doorbell footage metadata with the host's 1:35 a.m. departure estimate.",
       "transcript_snippet": "Earliest he got back home was 5:00 a. m. That's just based on his text messages to Lance and when he was captured on other doorbell footage.",
@@ -2383,7 +2431,9 @@
       "related_nodes": [
         "N-11261"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:24",
       "investigative_direction": "Sum the drive legs from the charging documents and map-estimated times to check the host's totals.",
       "transcript_snippet": "he's been awake for 25 hours straight, of which he has driven during which he has driven an approximate 13 hours and 20 minutes.",
@@ -2401,7 +2451,9 @@
       "related_nodes": [
         "N-11261"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:20",
       "investigative_direction": "Obtain the Cedar City gas station footage, receipt and timestamp.",
       "transcript_snippet": "this time driving about an hour away to Cedar City, because that's where he's captured on gas station footage filling up his tank",
@@ -2419,7 +2471,9 @@
       "related_nodes": [
         "N-11261"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:20",
       "investigative_direction": "Review Lance's statements to investigators and any witness-list summary of his expected testimony.",
       "transcript_snippet": "This is according to Lance's testimony. Lance will testify that he sees him when he wakes up.",
@@ -2438,7 +2492,9 @@
       "related_nodes": [
         "N-11261"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:04",
       "investigative_direction": "Obtain the arrest photographs and booking inventory of clothing.",
       "transcript_snippet": "No, he doesn't, because we know he's going to be wearing that when he gets arrested.",
@@ -2458,7 +2514,9 @@
         "N-10381",
         "N-11261"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:04",
       "investigative_direction": "Compare the indictment and hearing testimony with the Dairy Queen and Panguitch evidence.",
       "transcript_snippet": "The Feds don't even want to address or answer or respond to him being in Dairy Queen or at the Steak House or leaving out all sorts of things.",
@@ -2476,7 +2534,9 @@
       "related_nodes": [
         "N-10792"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:22",
       "investigative_direction": "Obtain the arrest video and high-resolution photographs the researcher used and their source.",
       "transcript_snippet": "there is a a young woman who reached out to me and said, \"Hey, you need to check this out with George Zinn.",
@@ -2497,7 +2557,9 @@
       "related_nodes": [
         "N-10097"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:22",
       "investigative_direction": "Obtain police body-camera footage and reports of Zinn's statements at the scene and his charging papers.",
       "transcript_snippet": "He's decoy boy number one. Obviously, he said, \"I did it. I did it.\"",
@@ -2517,7 +2579,10 @@
       "related_nodes": [
         "N-10792"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context",
+        "dia"
+      ],
       "claim_timestamp": "00:27:21",
       "investigative_direction": "Review the emails received at the tips address for identifications of the device.",
       "transcript_snippet": "You can send us an email to moretips@candaceowens. com.",
@@ -2539,7 +2604,9 @@
       "related_nodes": [
         "N-10780"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:28:34",
       "investigative_direction": "Confirm the member's account and the group's creation date and moderation through the host's source.",
       "transcript_snippet": "yes, I participated in this and actually just wanted to say sorry",
@@ -2561,7 +2628,9 @@
       "related_nodes": [
         "N-10780"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:28:34",
       "investigative_direction": "Locate the group-chat messages that raised the house purchase.",
       "transcript_snippet": "I can't believe they legitimately thought that we were purchasing a house for our eight nannies.",
@@ -2579,7 +2648,9 @@
       "related_nodes": [
         "N-10780"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:36",
       "investigative_direction": "Obtain the federal charging documents and court record for the case the host describes.",
       "transcript_snippet": "It was only 26 members, and the same thing happened.",
@@ -2595,12 +2666,14 @@
       "claim": "The host says that after the FBI became involved the group member, whom she names as Haim Braverman, was arrested, pled guilty and is in prison, and that the media did not want to cover it.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:36",
       "investigative_direction": "Search federal court dockets and DOJ press releases for a plea by Haim Braverman and the sentence.",
       "transcript_snippet": "he got arrested, he pled guilty, his name is Haim Braverman, and he is in prison, you can look that up.",
       "mentions_person_refs": [
-        "N-880",
+        "N-879",
         "N-3"
       ]
     },
@@ -2614,7 +2687,9 @@
       "related_nodes": [
         "N-10780"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:19",
       "investigative_direction": "Identify the founder from the group's records and verify her public advocacy history.",
       "transcript_snippet": "we discovered that a Jewish woman put together this group, and she has been very involved on pro-Israel causes long before Charlie was assassinated",
@@ -2632,7 +2707,9 @@
       "related_nodes": [
         "N-10780"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:19",
       "investigative_direction": "Check for any complaint or legal filing by the host's team concerning the group and its members.",
       "transcript_snippet": "And so, we will be filing something, and we have found out more information about other group members",
@@ -2650,7 +2727,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:30:19",
       "investigative_direction": "Ask the Daily Wire or former staff about fan visits and who attended.",
       "transcript_snippet": "it turned out that the then CEO flew these people out to the Daily Wire to meet these super fans",
@@ -2669,12 +2748,14 @@
         "N-10900",
         "N-11182"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:31:45",
       "investigative_direction": "Look for coordination evidence between the account and Daily Wire staff or PR, such as shared posts, direct messages or timings.",
       "transcript_snippet": "obviously I knew that their PR agent and Jeremy Boring were working through her",
       "mentions_person_refs": [
-        "N-881",
+        "N-880",
         "N-374",
         "N-3"
       ]
@@ -2690,12 +2771,14 @@
         "N-10780",
         "N-10416"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:31:45",
       "investigative_direction": "Compile the April posts about the host's husband and identify which accounts amplified them.",
       "transcript_snippet": "she's been going after my family, my husband. She was part of people perpetuating the lies about my husband",
       "mentions_person_refs": [
-        "N-881",
+        "N-880",
         "N-3"
       ]
     },
@@ -2707,13 +2790,15 @@
       "claim": "The host says that a couple of weeks earlier she showed that Laura Loomer sent about 1,800 tweets about her, a figure she contrasts with Widener's count.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:32:30",
       "investigative_direction": "Obtain the tweet-counter output shown in the earlier episode and re-run the count on Loomer's account.",
       "transcript_snippet": "I think I showed you a couple of weeks ago that like Laura Loomer sent like 1,800 tweets about me",
       "mentions_person_refs": [
         "N-60",
-        "N-881",
+        "N-880",
         "N-3"
       ]
     },
@@ -2729,7 +2814,10 @@
       "related_nodes": [
         "N-10780"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context",
+        "dia"
+      ],
       "claim_timestamp": "00:34:13",
       "investigative_direction": "Review the tips inbox for messages identifying group members and verify each independently.",
       "transcript_snippet": "people who know other people in the group began emailing our tips line",
@@ -2750,7 +2838,9 @@
       "related_nodes": [
         "N-10780"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:13",
       "investigative_direction": "Obtain the member list and employer records and verify each person's role in the unnamed company.",
       "transcript_snippet": "We just learned about a conservative company company, conservative corporation, um who have top people at the company that are involved in this group chat.",
@@ -2769,7 +2859,9 @@
         "N-10899",
         "N-10780"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:07",
       "investigative_direction": "Confirm the membership list, including whether a Paramount Tactical account was in the group.",
       "transcript_snippet": "Paramount Not Tactical was the only virtually the only male that's in that group",
@@ -2788,7 +2880,9 @@
         "N-11066",
         "N-11067"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:17",
       "investigative_direction": "Compare the public negotiation posts with the emails exchanged afterward.",
       "transcript_snippet": "I have had no new demands since the in public negotiation that he insisted on.",
@@ -2807,7 +2901,9 @@
       "related_nodes": [
         "N-11259"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:00",
       "investigative_direction": "Ask Wilson's team and Knowles's representatives to confirm the request and decline.",
       "transcript_snippet": "It was Andrew's pick, a second pick. Michael Knowles declined to do it respectfully, as I knew he would.",
@@ -2827,7 +2923,9 @@
         "N-11066",
         "N-11067"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:00",
       "investigative_direction": "Obtain the proposed debate terms exchanged between the teams.",
       "transcript_snippet": "negotiate a clause that says he automatically wins if there's any ad hominem attacks",
@@ -2846,13 +2944,15 @@
       "related_nodes": [
         "N-11067"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:00",
       "investigative_direction": "Review the debate terms for the studio smoking rule and the messages about it.",
       "transcript_snippet": "you can't smoke cigarettes in my home",
       "mentions_person_refs": [
         "N-18",
-        "N-573",
+        "N-572",
         "N-3"
       ]
     },
@@ -2868,12 +2968,14 @@
       "related_nodes": [
         "N-11067"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:36:00",
       "investigative_direction": "Obtain the original post or message from Rachel Wilson.",
       "transcript_snippet": "typical woman nonsense. I'm surprised she hasn't me too'd anyone.",
       "mentions_person_refs": [
-        "N-573",
+        "N-572",
         "N-3"
       ]
     },
@@ -2889,12 +2991,14 @@
       "related_nodes": [
         "N-11067"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:37:15",
       "investigative_direction": "Obtain the original post from Rachel Wilson.",
       "transcript_snippet": "Yeah, who clutches their pearls about smoking? Zoomer soy boys maybe or the type of woman who reports everything to HR.",
       "mentions_person_refs": [
-        "N-573",
+        "N-572",
         "N-3"
       ]
     },
@@ -2910,12 +3014,14 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:37:56",
       "investigative_direction": "Locate the photos Rachel Wilson posted and their dates.",
       "transcript_snippet": "She just kept going and going. Then she was like showing photos of me pregnant while I was doing backstage with the Daily Wire.",
       "mentions_person_refs": [
-        "N-573",
+        "N-572",
         "N-3"
       ]
     },
@@ -2929,7 +3035,9 @@
         "A-2274.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:40:18",
       "investigative_direction": "Verify the marriage and relationship timeline through public records and the full debate clip.",
       "transcript_snippet": "I've spent my entire adult life only in three long-term committed relationships",
@@ -2937,7 +3045,7 @@
         "C-3272"
       ],
       "mentions_person_refs": [
-        "N-573",
+        "N-572",
         "N-18"
       ]
     },
@@ -2951,12 +3059,14 @@
         "A-2274.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:41:05",
       "investigative_direction": "Search public court records for the earlier marriage and any case referenced; treat as the speaker's own account.",
       "transcript_snippet": "because he uh beat the crap out of me and was being pursued by the law and left the state",
       "mentions_person_refs": [
-        "N-573"
+        "N-572"
       ]
     },
     {
@@ -2969,12 +3079,14 @@
         "A-2274.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:41:05",
       "investigative_direction": "Treat as the speaker's own account; no external verification is needed for the case.",
       "transcript_snippet": "The first one was my high school boyfriend who I knew my whole life, who I was with for 5 years. We had two children.",
       "mentions_person_refs": [
-        "N-573"
+        "N-572"
       ]
     },
     {
@@ -2987,12 +3099,14 @@
         "A-2274.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:41:56",
       "investigative_direction": "Identify the speaker and the show from the full debate clip.",
       "transcript_snippet": "If she had slept with three men, but had aborted all of the children, would she still be promiscuous?",
       "mentions_person_refs": [
-        "N-573"
+        "N-572"
       ]
     },
     {
@@ -3005,7 +3119,9 @@
         "A-2274.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:41:56",
       "investigative_direction": "Review the full clip to attribute the shut-up lines to a specific speaker.",
       "transcript_snippet": "And she jumps right in and she speaks on behalf of her husband. He tells her to shut up.",
@@ -3013,7 +3129,7 @@
         "C-3272"
       ],
       "mentions_person_refs": [
-        "N-573",
+        "N-572",
         "N-18"
       ]
     },
@@ -3027,12 +3143,14 @@
       "related_nodes": [
         "N-11067"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:43:01",
       "investigative_direction": "Obtain the exchange in which the host made the remark.",
       "transcript_snippet": "To be fair, I did tell his wife to I suggested she should shut up.",
       "mentions_person_refs": [
-        "N-573",
+        "N-572",
         "N-3"
       ]
     },
@@ -3044,12 +3162,14 @@
       "claim": "The host says Rachel Wilson has authored 37,000 tweets and has been finding photos of the host to try to portray her as a hypocrite over smoking.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:43:01",
       "investigative_direction": "Run a tweet count on Rachel Wilson's account.",
       "transcript_snippet": "why are you online authoring 37,000 tweets and finding photos of me trying to pretend that I'm a hypocrite.",
       "mentions_person_refs": [
-        "N-573",
+        "N-572",
         "N-3"
       ]
     },
@@ -3063,13 +3183,15 @@
       "related_nodes": [
         "N-11067"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:43:01",
       "investigative_direction": "Compare the negotiation messages for any smoking request by Andrew Wilson.",
       "transcript_snippet": "And uh he did not try to negotiate being able to smoke cigarettes",
       "mentions_person_refs": [
         "N-18",
-        "N-573"
+        "N-572"
       ]
     },
     {
@@ -3080,7 +3202,9 @@
       "claim": "The host says she knew nothing about Andrew Wilson until he went on Joe Rogan, after which her team began researching him.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:01",
       "investigative_direction": "Identify the Rogan appearance date and the host's earliest mention of Wilson.",
       "transcript_snippet": "I knew nothing about this guy until he went on Joe Rogan",
@@ -3100,7 +3224,9 @@
         "N-10000",
         "N-11262"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:01",
       "investigative_direction": "Request TPUSA contracts, invoices or event schedules showing payments to Wilson for debate training.",
       "transcript_snippet": "Like we we brought him in and paid him to teach our students to debate.",
@@ -3116,7 +3242,9 @@
       "claim": "The host says Charlie Kirk was always respectful in his debates no matter how fired up they got and that never denigrating opponents was one of his rules.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:44:21",
       "investigative_direction": "Review Kirk's debate footage and public statements on rules for debate conduct.",
       "transcript_snippet": "Always respectful in his debates no matter how fired up they got. It was one of his rules.",
@@ -3134,7 +3262,9 @@
       "related_nodes": [
         "N-10338"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:41",
       "investigative_direction": "Obtain the phone records or court exhibit showing the first call McCoy made and who received it.",
       "transcript_snippet": "initially, like I said, they told us that he instantly called Erika. Then we learned that he didn't call Erika, he actually called his wife.",
@@ -3156,7 +3286,9 @@
       "related_nodes": [
         "N-10338"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:41",
       "investigative_direction": "Obtain the call-detail records for the calls among McCoy, Erika Kirk and others on September 10.",
       "transcript_snippet": "Then there was like all of these three-way calls, and the call with Erika, in my opinion, was way too short.",
@@ -3178,7 +3310,9 @@
       "related_nodes": [
         "N-10338"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:41",
       "investigative_direction": "Obtain call logs and hospital-arrival records for McCoy and Phillip and the vehicle manifests for the convoy.",
       "transcript_snippet": "And then he's like on the phone with Danny Phillip for 10 minutes, but they should be together, but now we're thinking actually they went into two different cars to the hospital.",
@@ -3197,7 +3331,9 @@
       "related_nodes": [
         "N-10198"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:41",
       "investigative_direction": "List the public statements by TPUSA figures about McCoy's calls and compare them with phone records.",
       "transcript_snippet": "they are on record lying about what happened there.",
@@ -3218,7 +3354,9 @@
       "related_nodes": [
         "N-10139"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:47:57",
       "investigative_direction": "Identify the pastors and the public statements the host refers to.",
       "transcript_snippet": "There are pastors that are complaining saying that oh like you know we our church members are just getting caught in the cult of Candace.",
@@ -3234,7 +3372,9 @@
       "claim": "The host says an NBC article, in which Blake Neff shares what they are saying, effectively claims that conservatives would have united after being fractured over Epstein if it were not for Candace, and that Charlie's death would have united them.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:33",
       "investigative_direction": "Read the NBC article and compare its wording with the host's paraphrase.",
       "transcript_snippet": "Blakely Neff is sharing what they're saying cuz they're effectively saying like the current conservatives would have been united after being fractured over Epstein.",
@@ -3255,7 +3395,9 @@
         "A-3082.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:56",
       "investigative_direction": "Locate the 2018 tweet in Kirk's archive and compare its text with the host's paraphrase.",
       "transcript_snippet": "Like he tweeted back in 2018, I won't be here, but you see this thing to the end.",
@@ -3276,7 +3418,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:30",
       "investigative_direction": "Find Neff's original post or message offering money and the date.",
       "transcript_snippet": "Blake Neff instantly said, \"If you want to I would love to throw money towards you debating Candace.\"",
@@ -3294,7 +3438,9 @@
       "claim": "The host says Andrew Wilson has also peddled the talking point that the evidence against Tyler Robinson is overwhelming, and has said on record that conspiracy theorists are scared to debate.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:50:30",
       "investigative_direction": "Collect Wilson's public statements on the Robinson evidence and on debating conspiracy theorists.",
       "transcript_snippet": "he has also peddled the talking point that the evidence against Tyler Robinson is overwhelming",
@@ -3314,7 +3460,9 @@
         "N-10000",
         "N-11262"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:08",
       "investigative_direction": "Request TPUSA payment records and statements about Wilson's role.",
       "transcript_snippet": "You guys are already paying him to debate.",
@@ -3333,7 +3481,9 @@
         "N-10793",
         "N-10791"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:51",
       "investigative_direction": "Compare court exhibits on Robinson's handedness with the stair footage hand use.",
       "transcript_snippet": "The person I believe uh that was coming down these steps and doing all this made a mistake because you can't rewire your brain for a morning",
@@ -3354,7 +3504,9 @@
       "related_nodes": [
         "N-10787"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:51",
       "investigative_direction": "Review the forensic reports and any immunity agreement for Lance.",
       "transcript_snippet": "with all of the evidence of Lance and his fingerprints everywhere where they say Tyler's is, it doesn't make sense to me that he would suddenly get federal immunity",
@@ -3373,12 +3525,14 @@
       "related_nodes": [
         "N-11067"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:51",
       "investigative_direction": "Check the final debate terms for any limits on who attends.",
       "transcript_snippet": "I am not going to be putting up any boundaries at all.",
       "mentions_person_refs": [
-        "N-573",
+        "N-572",
         "N-3"
       ]
     },
@@ -3390,7 +3544,9 @@
       "claim": "The host says there was a random week where it seemed that somebody had taken over Andrew Kolvet's phone and was tweeting on his behalf.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:54:04",
       "investigative_direction": "Identify the week and review Kolvet's posts for the change in style and for any statement about who posted.",
       "transcript_snippet": "somebody took over Andrew Kolvek's phone and was tweeting on his behalf",

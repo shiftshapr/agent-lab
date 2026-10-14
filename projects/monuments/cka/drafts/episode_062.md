@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-11176, N-11177, N-11178, N-11179, N-11181
   - Hole-minted Nodes (reintro-ep062): N-10869
-  - Tip-minted Nodes (reintro-ep062): N-783, N-10984
+  - Tip-minted Nodes (reintro-ep062): N-782, N-10984
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8252–C-8316
   - New Nodes Introduced: N-499, N-501, N-502, N-504, N-505, N-10438, N-10439, N-10440, N-10441, N-10442
@@ -448,7 +448,7 @@ Referenced via a viewer's comparison to the host's Brigitte Macron series.
 
 ---
 
-**N-783** Michelle Bachmann
+**N-782** Michelle Bachmann
 
 Michele Bachmann; named in the donor text as booed at the Tampa event (the transcript spells it Michele).
 
@@ -1057,7 +1057,7 @@ Claim: As read by the host, the donor's message says the TPUSA Tampa event was a
 Transcript Snippet: Your TPUSA Tampa event was a disaster. Michele Bachmann was booed and about 10% walked out on her when she talked about standing with Israel.
 
 Anchored Artifacts: A-1669.1
-Mentions: N-783
+Mentions: N-782
 Related Nodes: N-11080, N-10438
 Tags: relevance:context
 Investigative Direction: Check video and attendee accounts of Michele Bachmann's July 2025 Tampa appearance for booing and walkouts.

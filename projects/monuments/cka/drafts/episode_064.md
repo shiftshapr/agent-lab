@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 6dd179617c93d9b189013177ccf6a13ebe005629aa7ab4b3c03e97804d4d7234
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-871, N-11243, N-11244
-  - Hole-minted Nodes (reintro-ep064): N-509, N-10554, N-10561, N-10689
+  - Tip-minted Nodes (supplement_2026-10d): N-870, N-11243, N-11244
+  - Hole-minted Nodes (reintro-ep064): N-508, N-10554, N-10561, N-10689
   - Tip-minted Nodes (reintro-ep064): N-11000, N-11182
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9913–C-10010
@@ -34,7 +34,7 @@
 
 - Artifact Families Introduced: A-1686, A-1687, A-1688, A-1689
 - Claim Range: C-2206–C-2224
-  - New Nodes Introduced: N-508, N-10448, N-10449, N-10450
+  - New Nodes Introduced: N-507, N-10448, N-10449, N-10450
   - Reused Nodes Appearing: N-10447, N-10446, N-14, N-22, N-36, N-97, N-199, N-205, N-225, N-236, N-369, N-481, N-504, N-10000, N-10027, N-10074, N-10238, N-10341, N-10342, N-10346, N-10416, N-10439, N-10452, N-10492, N-10548, N-10560, N-10899, N-10900, N-11014, N-11084, N-11092, N-11116, N-11180, N-11191
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk – preserved as N-2 series entry; note: transcript renders "Erika" – see Optional Flags); N-267 (Terrell Farnsworth)
 
@@ -275,7 +275,7 @@ Video Timestamp: 00:09:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2213, C-2214, N-2, N-508*
+*Related: C-2213, C-2214, N-2, N-507*
 
 **A-1688** Jeremy Boreing Interview Clip Bundle
 
@@ -415,7 +415,7 @@ Investigative Pressure: Medium
 
 *Related: A-1686.2, C-2208*
 
-**N-508** Doug DeGroot
+**N-507** Doug DeGroot
 
 TPUSA board member. Author of the September 17, 2025 board letter (A-1687.1) announcing Erika Kirk as CEO and Chair of Turning Point USA.
 
@@ -806,7 +806,7 @@ Host calls her Marina, the COO, and Marina Medvin; accused of loyalty-test firin
 
 ---
 
-**N-509** Bassem Youssef
+**N-508** Bassem Youssef
 
 Next-day guest; Daily Wire allegedly denied the host's request to host him.
 
@@ -822,7 +822,7 @@ Named in the host's account of her Daily Wire exit and Boreing's loan.
 
 ---
 
-**N-871** Bob Ferguson
+**N-870** Bob Ferguson
 
 First named by the host at 00:01:26 in episode 64. Iowa man wrongly pictured in the prior episode as Bob Flood; the host says he has nothing to do with the story and apologizes.
 
@@ -948,7 +948,7 @@ Claim Timestamp: 00:09:08
 Claim: The September 17, 2025 public letter announcing Erika Kirk as Turning Point USA's new CEO and Chair was authored by Doug DeGroot as a board member.
 
 Anchored Artifacts: A-1687.1
-Mentions: N-508, N-2
+Mentions: N-507, N-2
 
 
 Investigative Direction: Obtain original signed letter; verify Doug DeGroot's role on the TPUSA board at the time of issuance.
@@ -960,7 +960,7 @@ Claim Timestamp: 00:09:08
 Claim: The September 17, 2025 board letter opens with a citation to Ecclesiastes, attributing the quote to King Solomon, and frames Kirk's appointment as a divinely ordained test: "mankind is to be tested by God."
 
 Anchored Artifacts: A-1687.1
-Mentions: N-508
+Mentions: N-507
 
 
 Investigative Direction: Verify exact wording against original letter; document all subsequent TPUSA communications invoking similar framing.
@@ -1131,7 +1131,7 @@ Claim: The host says the previous episode showed a picture of a man she believed
 Transcript Snippet: His name was actually Bob Fergus- Ferguson. He's from Iowa. He has nothing to do with the story.
 
 Anchored Artifacts: 
-Mentions: N-481, N-871, N-3
+Mentions: N-481, N-870, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Compare the removed segment of the prior episode with the corrected version and confirm the image is gone from all uploads.
@@ -2674,7 +2674,7 @@ Claim: The host says that while at Daily Wire her request to have Bassem Youssef
 Transcript Snippet: The Daily Wire denied my request while I was there to have him on my show.
 
 Anchored Artifacts: 
-Mentions: N-3, N-509
+Mentions: N-3, N-508
 Related Nodes: N-10900
 Tags: relevance:context
 Investigative Direction: Seek confirmation from Daily Wire staff or messages regarding the request.
@@ -2690,7 +2690,7 @@ Claim: The host says Bassem Youssef will join her live on the next day's episode
 Transcript Snippet: Bassem Youssef is going to be joining me live
 
 Anchored Artifacts: 
-Mentions: N-3, N-509
+Mentions: N-3, N-508
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Check the following episode's guest.

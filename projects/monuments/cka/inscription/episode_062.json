@@ -880,8 +880,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-783",
-      "ref": "N-783",
+      "@id": "N-782",
+      "ref": "N-782",
       "name": "Michelle Bachmann",
       "type": "person",
       "description": "Michele Bachmann; named in the donor text as booed at the Tampa event (the transcript spells it Michele).",
@@ -1594,8 +1594,8 @@
       "@type": "Claim",
       "@id": "C-2193",
       "ref": "C-2193",
-      "label": "A TPUSA employee was terminated at her home by the general counsel during a Zoom meeting, with her work computer retrieved",
-      "claim": "Marina Minas allegedly received non-stop calls from an unrecognized number while on a Zoom meeting, and upon answering was told by the general counsel that he was outside her home, that she was fired, and to surrender her work computer (with warning that deletions would be detected).",
+      "label": "A part-time TPUSA employee was terminated at her home by the general counsel during a fake Zoom meeting, with her work computer retrieved",
+      "claim": "The host alleges that a part-time TPUSA employee (unnamed) was put into a fake Zoom meeting, received non-stop calls from an unrecognized number, and on answering was told by the general counsel that he was outside her home, that she was fired, and to surrender her work computer (with a warning that deletions would be detected). The host names Marina Minas separately as someone involved in the firings; Minas is not the employee in this account.",
       "anchored_artifacts": [
         "A-1675.2"
       ],
@@ -1604,9 +1604,8 @@
       ],
       "tags": [],
       "claim_timestamp": "00:32:06",
-      "investigative_direction": "Obtain direct on-record confirmation from Marina Minas; obtain any contemporaneous communications (texts, voicemails) memorializing the home-visit termination.",
+      "investigative_direction": "Identify the part-time employee and obtain on-record confirmation and contemporaneous communications (texts, voicemails) of the home-visit termination; Marina Minas (N-504) is discussed in C-8304.",
       "mentions_person_refs": [
-        "N-504",
         "N-505"
       ]
     },
@@ -1620,7 +1619,9 @@
       "related_nodes": [
         "N-11084"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Check Arizona employment law and the terms of each terminated employee's contract or separation agreement.",
       "transcript_snippet": "Arizona, you should know, is an at-will employment state. What that means is that employers can fire you for any reason at all.",
@@ -1639,7 +1640,9 @@
         "N-10000",
         "N-11097"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Obtain TPUSA and Turning Point Action financial filings and donation reports for September 2025 onward to confirm or refute the 250 million dollar figure.",
       "transcript_snippet": "the company rakes in 250 million dollars off the back of its founder's assassination and employees are working overtime to help make that happen",
@@ -1659,7 +1662,9 @@
         "N-10047",
         "N-10209"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:18",
       "investigative_direction": "Identify the donors and the communications (texts, emails, call logs) in which funding was threatened to Charlie Kirk in 2025.",
       "transcript_snippet": "Charlie was threatened. He was threatened a lot, I would say, threatened financially. And I want to be clear, it wasn't just by Jewish donors, but also by Christian Zionist donors.",
@@ -1681,7 +1686,9 @@
       "related_nodes": [
         "N-11080"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:18",
       "investigative_direction": "Compare the July 2025 Student Action Summit schedule and later donor communications with the timing of the reported donor backlash.",
       "transcript_snippet": "In July, we know that's when things went sideways for Charlie Kirk, right? He stepped out of line because he hosted Tucker Carlson at their SAS event in July.",
@@ -1705,7 +1712,9 @@
       "related_nodes": [
         "N-10023"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:13",
       "investigative_direction": "Find the full video of Carlson's July 2025 speech and verify the quoted passage and the biographical facts about Epstein.",
       "transcript_snippet": "How does a guy go from being a math teacher at the Dalton School in the late '70s with no college degree to having multiple airplanes, a private island, and the largest residential house in Manhattan?",
@@ -1730,7 +1739,9 @@
         "N-10015",
         "N-10023"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:45",
       "investigative_direction": "Find the full video of the speech; check which former Israeli prime minister Carlson referred to and the documentation of that residence.",
       "transcript_snippet": "Were you working on behalf of Mossad? Were you running a blackmail operation on behalf of foreign government?",
@@ -1755,7 +1766,9 @@
         "N-10320",
         "N-10268"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:37",
       "investigative_direction": "Obtain the September 9, 2025 text thread and its recipient list from one of the employees on it; compare with the earlier-shown text about inviting her.",
       "transcript_snippet": "on September 9th, amongst a smaller pool of TPUSA employees, Charlie sent a text saying, the day before he died, that he wanted to invite me to AmFest",
@@ -1778,7 +1791,9 @@
         "N-10268",
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:37",
       "investigative_direction": "Identify who decided against the invitation and when, through AmFest speaker-planning records and the staff on the September 9 text.",
       "transcript_snippet": "Yeah, no. That wasn't allowed to happen because this Tucker speech wasn't allowed to happen. That speech was disobedient, disobedient to Israel's aims.",
@@ -1803,7 +1818,9 @@
         "N-10000",
         "N-10047"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:34",
       "investigative_direction": "Compare TPUSA leadership's public statements on donor pressure with the donor communications the host has displayed.",
       "transcript_snippet": "Not from Charlie's closest friends over at Turning Point USA who report to care about what happened to him, report to want the truth to get out",
@@ -1823,7 +1840,9 @@
         "N-11180",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:34",
       "investigative_direction": "Survey TPUSA's publicly known legal demands and cease-and-desist letters to see to whom they were addressed.",
       "transcript_snippet": "They're not going to send any legal letters over to anybody that is pro-Israel.",
@@ -1843,7 +1862,9 @@
       "related_nodes": [
         "N-10438"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:34",
       "investigative_direction": "Independent confirmation of the message's authenticity from a recipient or from Charlie Kirk's phone records.",
       "transcript_snippet": "I have copy and pasted this message and sent it to my team and sent it back because I want to make sure that where and who this message came from is not obvious, but this is a real message.",
@@ -1866,7 +1887,9 @@
       "related_nodes": [
         "N-10438"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:27",
       "investigative_direction": "Obtain the original message and metadata to identify the sender and confirm the wording.",
       "transcript_snippet": "All of the people that trusted you, Jews and Christians, including me, why would you platform anti-Semites like Candace and Tucker?",
@@ -1892,12 +1915,14 @@
         "N-11080",
         "N-10438"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:14",
       "investigative_direction": "Check video and attendee accounts of Michele Bachmann's July 2025 Tampa appearance for booing and walkouts.",
       "transcript_snippet": "Your TPUSA Tampa event was a disaster. Michele Bachmann was booed and about 10% walked out on her when she talked about standing with Israel.",
       "mentions_person_refs": [
-        "N-783"
+        "N-782"
       ]
     },
     {
@@ -1912,7 +1937,9 @@
       "related_nodes": [
         "N-10438"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:14",
       "investigative_direction": "Obtain the original message to confirm the wording of the scriptural warnings.",
       "transcript_snippet": "You have accomplished so much by the all by the hand of the almighty, but he is going to lift his hand from you.",
@@ -1933,7 +1960,9 @@
         "N-10438",
         "N-10047"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:18",
       "investigative_direction": "Find Charlie's replies to the donor, or accounts from people he spoke to about the message.",
       "transcript_snippet": "No, he wasn't chill with that. He did feel threatened by that.",
@@ -1953,7 +1982,9 @@
         "N-10063",
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:09:18",
       "investigative_direction": "Compare with satellite damage assessments and UN reports on Gaza.",
       "transcript_snippet": "They've effectively have turned Gaza into a parking lot.",
@@ -1972,7 +2003,9 @@
         "N-10023",
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:10:13",
       "investigative_direction": "Assess the documentary record on any Epstein intelligence ties, including released Epstein files.",
       "transcript_snippet": "And he is being protected because he did that on behalf of Israel. He did that for Israel. Blackmail operation for Israel.",
@@ -1994,7 +2027,9 @@
         "N-10000",
         "N-10438"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:13",
       "investigative_direction": "Ask TPUSA directly whether it has identified the sender and whether it has any record of the message.",
       "transcript_snippet": "It is becoming increasingly difficult to imagine how Turning Point is not naming and shaming these people. I give them an opportunity here.",
@@ -2013,7 +2048,9 @@
         "N-10000",
         "N-11084"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:13",
       "investigative_direction": "Obtain termination records, headcount data and employee accounts to establish who was let go, when, and on what stated grounds.",
       "transcript_snippet": "You're lining up employees and firing them for literally no reason. We have proof of that later.",
@@ -2034,7 +2071,9 @@
       "related_nodes": [
         "N-10440"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:22",
       "investigative_direction": "Ask the host to publish the list and the tip; verify each entry against court records.",
       "transcript_snippet": "we received a very interesting tip which unfortunately means that our established column that we built on our Excel sheet",
@@ -2054,7 +2093,9 @@
       "related_nodes": [
         "N-10440"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:22",
       "investigative_direction": "Search state corporation records for every entity listing Frantzve, Guinta, Lyle Reems or Shelly Reems as members or agents.",
       "transcript_snippet": "And they have a repeat business partner, a repeat business couple Shelly and Lyle Reems meaning they form businesses with these people.",
@@ -2076,7 +2117,9 @@
       "related_nodes": [
         "N-11178"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:22",
       "investigative_direction": "Verify tribal enrollment through the Nation or through court records identifying Reems.",
       "transcript_snippet": "Now Lyle Reems ostensibly is Native American a part of the and excuse me if I'm saying this wrong Tohono O'odham Nation.",
@@ -2096,7 +2139,9 @@
       "related_nodes": [
         "N-10440"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:12:31",
       "investigative_direction": "Ask Frantzve and Guinta whether they knew of the 1998 case when they formed the LLC.",
       "transcript_snippet": "it was apparently not a bar to entry for Lori and Larry to pursue a business with Lyle",
@@ -2116,7 +2161,9 @@
       "related_nodes": [
         "N-11177"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:25",
       "investigative_direction": "Compare with US Census figures for Sacaton, Arizona.",
       "transcript_snippet": "Sacaton for reference has a population today of just 3,254 people. 40% of those people are children. 95% are yeah, Native American.",
@@ -2137,7 +2184,9 @@
         "N-10984",
         "N-11177"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:25",
       "investigative_direction": "Verify Frantzve's employer or contractor status in 2017 and the date she moved to Arizona.",
       "transcript_snippet": "Remember this is at a time when Lori is doing defense work for the Department of Justice. That's what she moved to Arizona for.",
@@ -2158,7 +2207,9 @@
       "related_nodes": [
         "N-10440"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:19",
       "investigative_direction": "Pull the filing from the Arizona Corporation Commission and compare the name with her other filings.",
       "transcript_snippet": "Her name here is now Lorin l o r i n rather than Lori which is other business documents.",
@@ -2179,7 +2230,9 @@
         "N-10442",
         "N-11177"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:19",
       "investigative_direction": "Check Pinal County and Gila River Indian Community address records and the Arizona Corporation Commission filing for the listed address.",
       "transcript_snippet": "Well, that address does not appear to exist. Rose and Thobe is an an intersection.",
@@ -2201,7 +2254,9 @@
         "N-11179",
         "N-10442"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:08",
       "investigative_direction": "Obtain Generation Seven Farms' registration and any tribal business licence, and map its address.",
       "transcript_snippet": "which is called Generation Seven Farms. In theory it should be right next door to Lori and Larry's Spirit Tech as its address is 21 Rose and Thobe.",
@@ -2227,7 +2282,9 @@
       "related_nodes": [
         "N-10440"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:15:08",
       "investigative_direction": "Confirm the Arizona LLC publication requirement (A.R.S. 29-3201 and related) and what the notice must contain.",
       "transcript_snippet": "when you form an LLC, you have to then publicize that you are doing so in a local newspaper and provide a general description of your intended business operations.",
@@ -2248,7 +2305,9 @@
         "N-11176",
         "N-10440"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:59",
       "investigative_direction": "Check the Arizona Corporation Commission's list of approved publications and obtain the 2017 issue from the publisher.",
       "transcript_snippet": "It's recognized by the state as an optional publication to meet the requirement but as far as publications go, it's a bit obscure.",
@@ -2268,7 +2327,9 @@
       "related_nodes": [
         "N-11176"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:16:59",
       "investigative_direction": "Check the publisher's website and Arizona incorporation records.",
       "transcript_snippet": "For reference per their website, the the Chinese News Agency was founded in Phoenix, Arizona in April of 1990.",
@@ -2289,7 +2350,9 @@
         "N-10440",
         "N-11176"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:59",
       "investigative_direction": "Review the tips received at the address and verify each against filings.",
       "transcript_snippet": "please email me at moretips@candaceowens. com cuz I would like to know what this tech easy tech desert tech euro tech all of these tech companies do exactly",
@@ -2307,7 +2370,9 @@
       "related_nodes": [
         "N-10441"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:52",
       "investigative_direction": "Pull Ohio Secretary of State records for Euro Tech and identify all co-filers; the host does not name the person.",
       "transcript_snippet": "back when Lori Frantzve formed Euro Tech, there was another shady character involved back in Cincinnati, Ohio.",
@@ -2326,7 +2391,9 @@
       "related_nodes": [
         "N-11181"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:18:41",
       "investigative_direction": "Sponsor claim; check Magisterium AI's published documentation for its sources and the 'number one' ranking.",
       "transcript_snippet": "Magisterium AI actually brings the receipts meaning every single answer is backed by original sources, citations that you can click and verify for yourself.",
@@ -2346,7 +2413,9 @@
         "N-10436",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:30",
       "investigative_direction": "Obtain the text of the letter and compare its listed statements with the host's earlier episodes.",
       "transcript_snippet": "I received a legal letter in part for noting that a bunch of military men seem to have infiltrated Turning Point USA.",
@@ -2370,7 +2439,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:30",
       "investigative_direction": "Establish Bowyer's titles and dates at Turning Point USA and Turning Point Action; the host does not say which organization.",
       "transcript_snippet": "this is a fun tweet that somebody pulled up from Tyler Bowyer, the former CEO. He wrote this um September 25th, 2018.",
@@ -2390,7 +2461,9 @@
       "related_nodes": [
         "N-10197"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:30",
       "investigative_direction": "Retrieve the tweet and its thread to see the question it answered.",
       "transcript_snippet": "We can only do as much as police on campus will allow and also working with police or private security in a given venue.",
@@ -2414,7 +2487,9 @@
         "N-10436",
         "N-10197"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:30",
       "investigative_direction": "Determine whether 'that background' in the tweet means military service, and how many TPUSA staff have it.",
       "transcript_snippet": "Oh. So, I told the truth. Okay, great. Just wanted to make sure.",
@@ -2437,7 +2512,9 @@
         "N-10439",
         "N-11084"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:28",
       "investigative_direction": "Obtain direct statements from TPUSA or from the fired staff on the reasons given.",
       "transcript_snippet": "So, I still don't understand what caused it. I can't get to the root of what happened.",
@@ -2457,7 +2534,9 @@
       "related_nodes": [
         "N-10439"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:22",
       "investigative_direction": "Identify the employee and the CMO and confirm with them whether the Uber conversation took place.",
       "transcript_snippet": "the employee was like, \"I have literally have no idea what you're talking about.\"",
@@ -2481,7 +2560,9 @@
       "related_nodes": [
         "N-10439"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:22",
       "investigative_direction": "Identify the employee and confirm with them the sequence of the meeting.",
       "transcript_snippet": "gets hauled into the office by the general counsel, thinks that they are being brought in because they're going to get a raise or a bonus",
@@ -2500,7 +2581,9 @@
         "N-10000",
         "N-10869"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:22",
       "investigative_direction": "Confirm the Mar-a-Lago donor event and staff compensation through employee accounts and payroll data.",
       "transcript_snippet": "They had AmFest. They had a huge donor thing at Mar-a-Lago.",
@@ -2520,7 +2603,9 @@
         "N-11097",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:22",
       "investigative_direction": "Obtain the source's basis for the figure and match it against TPUSA financial filings.",
       "transcript_snippet": "yet, according to this person, Turning Point USA has brought in $250 million since Charlie's assassination.",
@@ -2543,7 +2628,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:21",
       "investigative_direction": "Interview current and former TPUSA staff about access to Erika Kirk.",
       "transcript_snippet": "That Erika doesn't even know their names. That only a couple a handful of people even have access to her.",
@@ -2564,7 +2651,9 @@
         "N-10439",
         "N-11084"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:21",
       "investigative_direction": "Confirm with the employee the dates and what Kolvet said in the meeting.",
       "transcript_snippet": "if you want to know my actual opinion about Erika, you can just ask me.",
@@ -2588,7 +2677,9 @@
       "related_nodes": [
         "N-10439"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:36",
       "investigative_direction": "Obtain the full recording and identify the employee and the date.",
       "transcript_snippet": "You don't get to have an explanation. Security's outside. Leave.",
@@ -2611,7 +2702,9 @@
       "related_nodes": [
         "N-10439"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:36",
       "investigative_direction": "The transcript is ambiguous about the following words 'One of my sources'; ask the host whether the employee is a source.",
       "transcript_snippet": "I never spoke to this employee once. Never anything at all.",
@@ -2631,7 +2724,9 @@
       "related_nodes": [
         "N-10439"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:24",
       "investigative_direction": "Obtain the employee's separation paperwork and final paycheck to confirm the bonus.",
       "transcript_snippet": "And you will receive your your year-end bonus for your performance for the year.",
@@ -2651,7 +2746,9 @@
       "related_nodes": [
         "N-10439"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:24",
       "investigative_direction": "Identify Dylan and Justin; the recording gives no surnames.",
       "transcript_snippet": "So, do I get to have a conversation with Dylan? Do I get to have a talk conversation with Justin or anybody or Nope. No.",
@@ -2671,7 +2768,9 @@
       "related_nodes": [
         "N-10439"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:03",
       "investigative_direction": "Ask the employee what 'that whole GC situation' and the job refer to, and corroborate with others in the office.",
       "transcript_snippet": "if you don't get that job you're going to be the first I think to be screwed over",
@@ -2691,7 +2790,9 @@
       "related_nodes": [
         "N-10439"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:41",
       "investigative_direction": "Identify who decided on the termination and how it was documented.",
       "transcript_snippet": "I only speak for the organization.",
@@ -2709,7 +2810,9 @@
       "related_nodes": [
         "N-11084"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:31:18",
       "investigative_direction": "Review the separation terms and any non-disparagement clauses.",
       "transcript_snippet": "what Turning Point is doing is legal, but it's also immoral.",
@@ -2729,7 +2832,9 @@
       "related_nodes": [
         "N-10439"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:06",
       "investigative_direction": "Confirm Marina Minas's role at TPUSA and her connection to the Uber conversation.",
       "transcript_snippet": "Marina Minas, this is the the Uber chick.",
@@ -2752,7 +2857,9 @@
       "related_nodes": [
         "N-10439"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:06",
       "investigative_direction": "Identify the employee and who arranged the Zoom meeting; the host's wording is unclear about who it was set up by.",
       "transcript_snippet": "This employee is part-time. It kind of set up this fake Zoom meeting",
@@ -2772,7 +2879,9 @@
       "related_nodes": [
         "N-10439"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:10",
       "investigative_direction": "Confirm directly with the employee.",
       "transcript_snippet": "She's home with her kids alone with her kids. There's no she doesn't have her husband there, nothing.",
@@ -2796,7 +2905,9 @@
         "N-11035",
         "N-10439"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:10",
       "investigative_direction": "Ask TPUSA what monitoring software it installed and whether any investigation of leaks was carried out.",
       "transcript_snippet": "My sense when I hear that story is they thought they were going to find something.",
@@ -2819,7 +2930,9 @@
       "related_nodes": [
         "N-10439"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:54",
       "investigative_direction": "Confirm with the employee.",
       "transcript_snippet": "Again, same exact situation. I had never once spoken to that person, not through a third party, nothing.",
@@ -2837,7 +2950,9 @@
       "related_nodes": [
         "N-10344"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:01",
       "investigative_direction": "Context only; no verification beyond the host's account.",
       "transcript_snippet": "we definitely obviously went through some changes on the security front which makes sense",
@@ -2856,7 +2971,9 @@
       "related_nodes": [
         "N-82"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:12",
       "investigative_direction": "Check subsequent episodes for the promised Erika Kirk documentation.",
       "transcript_snippet": "I do want to do perhaps not entire series, but a couple of episodes dedicated to that, which we have been working on in the background",
@@ -2873,7 +2990,9 @@
       "claim": "The host reads a viewer comment (Rosario) saying Erika Kirk never says Jesus Christ, only the Lord or God.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:41:39",
       "investigative_direction": "Search Erika Kirk's public speeches for her use of the name Jesus Christ.",
       "transcript_snippet": "Reminds me of how Erika never says Jesus Christ. She just can't say it.",
@@ -2892,7 +3011,9 @@
         "N-10398",
         "N-10209"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:31",
       "investigative_direction": "Compare TPUSA's mission statements and event programming before and after September 2025.",
       "transcript_snippet": "it then dramatically changed, and it seems like they are now pretending to be a faith organization",
@@ -2915,7 +3036,9 @@
         "N-10007",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:45",
       "investigative_direction": "Opinion; compare TPUSA's post-September 2025 political spending and programming.",
       "transcript_snippet": "now it seems like, in the wake of his assassination, it's becoming the new RNC, but with a faith bent.",
@@ -2935,7 +3058,9 @@
         "N-11180",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:44:30",
       "investigative_direction": "Opinion; compare with the letter's stated purposes.",
       "transcript_snippet": "I think that's really what these legal letters are about. You You cannot, however, sue your way into relevancy.",
@@ -2954,7 +3079,9 @@
         "N-11097",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:30",
       "investigative_direction": "Obtain the underlying financial statements for the period.",
       "transcript_snippet": "you raked in 250 million dollars in a couple of weeks.",
@@ -2977,7 +3104,9 @@
         "N-11084",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:44:30",
       "investigative_direction": "Obtain TPUSA headcount and hiring data for late 2025 to early 2026.",
       "transcript_snippet": "especially as you're now getting rid of a bunch of people on your payroll.",

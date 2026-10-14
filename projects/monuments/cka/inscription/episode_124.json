@@ -1709,8 +1709,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-620",
-      "ref": "N-620",
+      "@id": "N-619",
+      "ref": "N-619",
       "name": "Graham Allen",
       "type": "person",
       "description": "Graham Allen; an influencer the host says was invited to the courthouse.",
@@ -1744,8 +1744,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-789",
-      "ref": "N-789",
+      "@id": "N-788",
+      "ref": "N-788",
       "name": "Caitlyn Oliver",
       "type": "person",
       "description": "First named by the host at 00:30:07 in episode 124. ATF forensic biologist who testified on DNA at the preliminary hearing.",
@@ -1765,8 +1765,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-790",
-      "ref": "N-790",
+      "@id": "N-789",
+      "ref": "N-789",
       "name": "Samantha Carner",
       "type": "person",
       "description": "First named by the host at 00:37:36 in episode 124. ATF ballistics expert who testified on day four about bullet fragment 6A.",
@@ -1783,8 +1783,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-791",
-      "ref": "N-791",
+      "@id": "N-790",
+      "ref": "N-790",
       "name": "Matt Robinson",
       "type": "person",
       "description": "First named by the host at 00:06:50 in episode 124. Tyler Robinson's father, whose prints the host says were on the gun. Aliases: Matt Robinson.",
@@ -2229,7 +2229,9 @@
       "related_nodes": [
         "N-11065"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:50",
       "investigative_direction": "Obtain the hearing attendance and seating list and any invitation messages from Erika Kirk's office to the named influencers.",
       "transcript_snippet": "did not choose to invite to Charlie's private funeral mass, but extended an invitation for them to come to the courthouse.",
@@ -2237,7 +2239,7 @@
         "N-3",
         "N-2",
         "N-89",
-        "N-620",
+        "N-619",
         "N-228",
         "N-1"
       ]
@@ -2252,7 +2254,9 @@
       "related_nodes": [
         "N-11065"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:00",
       "investigative_direction": "Locate Benny Johnson's original post or video stating that Erika Kirk asked him to attend.",
       "transcript_snippet": "Benny Johnson came right out of the gate and said, \"Erika asked me to be here.\"",
@@ -2274,7 +2278,9 @@
       "related_nodes": [
         "N-10022"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:31",
       "investigative_direction": "Identify the commentator and compare each claimed confession against what was actually entered into evidence at the hearing.",
       "transcript_snippet": "So, we have three confessions here. one to his parents, one to his roommate, and one on Discord.",
@@ -2290,7 +2296,9 @@
       "claim": "The host recaps the pre-hearing narrative that Tyler Robinson killed Charlie Kirk in broad daylight in a burning rage over LGBTQ and trans rights, because he has a trans furry boyfriend named Lance Twigs.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:27",
       "investigative_direction": "Compare the motive narrative against the indictment, the charging documents and Lance Twigs's hearing testimony on politics.",
       "transcript_snippet": "in a burning rage over LGBTQ rights, particularly trans rights because he has a trans furry boyfriend named Lance Twigs.",
@@ -2309,7 +2317,9 @@
       "claim": "The host says that before the hearing the public was constantly reminded that there was footage of Tyler Robinson taking the shot, and that it had simply not been presented to the public yet.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:27",
       "investigative_direction": "Collect the official statements promising footage of the shot and check whether any such footage was entered as an exhibit.",
       "transcript_snippet": "we were constantly reminded uh that there was going to be footage also of Tyler Robinson taking that shot, that it had simply not been presented to the public yet",
@@ -2326,7 +2336,9 @@
       "claim": "The host says Erika Kirk told viewers back in November or December that she had seen the evidence and was convinced it was Tyler Robinson, and that by her interview with Barry Weiss her mind was made up.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:27",
       "investigative_direction": "Review the Erika Kirk interview with Bari Weiss and any earlier Erika Kirk statements about having seen evidence.",
       "transcript_snippet": "Erika herself told us back in November or December that she had seen the evidence and she was convinced it was Tyler Robinson.",
@@ -2347,7 +2359,9 @@
       "related_nodes": [
         "N-10711"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:16",
       "investigative_direction": "Compare earlier official and media statements about prints and DNA with the ATF laboratory reports.",
       "transcript_snippet": "Now, we were also told that Tyler's fingerprints and his DNA were found on the gun and that was presented rather exclusively.",
@@ -2366,7 +2380,9 @@
       "related_nodes": [
         "N-10022"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:16",
       "investigative_direction": "Obtain the Washington County Sheriff's Office arrest narrative and search warrant records on how and with whom Robinson arrived.",
       "transcript_snippet": "I maintained that Tyler Robinson's parents did parents did not turn him in. Okay, that was a mainstreamed lie.",
@@ -2388,7 +2404,9 @@
       "related_nodes": [
         "N-10022"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:16",
       "investigative_direction": "Interview Mike Mitchell or the Robinson family about the surrender; obtain police records of who contacted the family before Robinson went in.",
       "transcript_snippet": "I said rather he was peer pressured to come in by Mike Mitchell, the former undercover detective with the police force and also a family friend of the Robinsons",
@@ -2406,7 +2424,9 @@
       "claim": "The host says she told viewers that Tyler Robinson was not political and came from a family of Trump supporters.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:24",
       "investigative_direction": "Pull voter registration and donation records for the Robinson household and compare with Lance Twigs's testimony.",
       "transcript_snippet": "Um, I also expressed to you that Tyler Robinson was not political, crucial, and that he came from a family of Trumpers.",
@@ -2428,7 +2448,9 @@
       "related_nodes": [
         "N-10572"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:24",
       "investigative_direction": "Obtain ATF test-fire and bullet comparison reports and the chain of custody for the rifle.",
       "transcript_snippet": "I have never denied that the gun found was indeed Tyler Robinson's gun, but rather I have asserted that the gun was not fired on that day and was not used to kill Charlie Kirk.",
@@ -2446,7 +2468,9 @@
       "claim": "The host says Tyler Robinson was more of a fisherman, and that it was his brothers who were the hunters.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:24",
       "investigative_direction": "Seek licensing records or family testimony on who in the Robinson household hunted and used the rifle.",
       "transcript_snippet": "but that Tyler himself was actually more of a fisherman. His brothers were the hunters.",
@@ -2466,7 +2490,9 @@
         "N-10598",
         "N-10703"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:24",
       "investigative_direction": "Look for court filings or records on any agreement with Lance Twigs and on the alleged dark web activity; no document has been shown on air.",
       "transcript_snippet": "I also have suggested heavily from the beginning that Lance Twigs is a federal asset who gathered Tyler's belongings to pin the crime on him.",
@@ -2487,7 +2513,9 @@
         "N-10679",
         "N-10598"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:24",
       "investigative_direction": "Obtain the immunity or cooperation agreement and the hearing transcript rulings on hearsay and cross-examination of Lance Twigs.",
       "transcript_snippet": "who for some reason was immediately granted immunity by the feds and was not allowed to even be cross-examined at this stage for this hearing.",
@@ -2506,7 +2534,9 @@
       "related_nodes": [
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:24",
       "investigative_direction": "Compare the host's published decoy footage with campus video entered at the hearing to count distinct individuals in similar clothing.",
       "transcript_snippet": "we suggested that the feds intentionally flooded the zone with multiple decoys, different young men, all brunette, all wearing similar outfits. We termed these our maroon boys, right?",
@@ -2526,7 +2556,9 @@
         "N-10012",
         "N-10028"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:24",
       "investigative_direction": "Establish Robinson's movements through campus access logs, parking records and phone location data.",
       "transcript_snippet": "was that Tyler Robinson did not step foot onto campus on that day.",
@@ -2547,7 +2579,9 @@
       "related_nodes": [
         "N-10028"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:07",
       "investigative_direction": "Review Exhibit 12.4 frame by frame and any other exhibit offered to place Robinson on campus.",
       "transcript_snippet": "What we got instead was footage of unidentifiable brunette males, brunette males walking up and down the Loy Center steps at various points throughout the day.",
@@ -2567,7 +2601,9 @@
         "N-10012",
         "N-10028"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:22",
       "investigative_direction": "Check UVU building directories for the MASH center location and its relationship to the Loy Center.",
       "transcript_snippet": "on the top floor of the Loy Center of all things, it's uh UVU's military affiliated student hub known as their MASH center.",
@@ -2587,7 +2623,9 @@
       "related_nodes": [
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:00",
       "investigative_direction": "Obtain the Nest and Ring video with metadata and the police interview with the woman who captured it.",
       "transcript_snippet": "a witness confirmed that they saw someone else driving a gray Challenger, particularly uh a bald guy driving the Challenger late at 12:47 a. m.",
@@ -2609,7 +2647,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:42",
       "investigative_direction": "Review the Blake Neff X live and compare his account of September 10 with receipts, photos and location records.",
       "transcript_snippet": "Apparently, a few of the people at Turning Point USA, despite Charlie dying, went out later that night and don't necessarily recall what they were doing.",
@@ -2631,7 +2671,9 @@
       "related_nodes": [
         "N-10381"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:42",
       "investigative_direction": "Obtain the Penguitch restaurant receipt and card transaction record and the establishment's own timestamps.",
       "transcript_snippet": "because we broke the story that Tyler was eating a steak down in Penguitch. He concluded and and paid at 9:47 p. m.",
@@ -2656,7 +2698,9 @@
         "N-10077",
         "N-10381"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:55",
       "investigative_direction": "Obtain the full carrier and device records for both phones to establish where each handset was when each message was sent.",
       "transcript_snippet": "He could not have been doing what he said he was doing, texting Lance after 11 p. m.",
@@ -2678,7 +2722,9 @@
       "related_nodes": [
         "N-10077"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:55",
       "investigative_direction": "Obtain the extraction report and native message database showing time fields for each message.",
       "transcript_snippet": "The messages are problematic, and that's why they're not timestamped.",
@@ -2705,7 +2751,9 @@
         "N-10713",
         "N-10077"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:55",
       "investigative_direction": "Identify the extraction vendor and the examiner named in the forensic report; the host names no company.",
       "transcript_snippet": "the messages were apparently extracted uh by a company based in Tel Aviv. Israel is taking care of the Lance messages.",
@@ -2726,7 +2774,9 @@
       "related_nodes": [
         "N-10077"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:20",
       "investigative_direction": "Compare the message text with other statements about Robinson's state of mind from family and the roommate.",
       "transcript_snippet": "He shouldn't have said old age because um the fed narrative is that he was suicidal.",
@@ -2747,7 +2797,9 @@
       "related_nodes": [
         "N-10077"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:33",
       "investigative_direction": "Have independent linguists compare the messages with Robinson's known writing; obtain the authentic original message database.",
       "transcript_snippet": "this feels to me like a person who is not native to speaking English, American English, is translating.",
@@ -2768,7 +2820,9 @@
       "related_nodes": [
         "N-10077"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:33",
       "investigative_direction": "Collect tip-line submissions and agency records on the K9 deployment time at the scene for comparison with message content.",
       "transcript_snippet": "if you have information related to when the kines were brought on to the scene, please email us tips at kennace. com.",
@@ -2787,7 +2841,9 @@
       "related_nodes": [
         "N-10022"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:09",
       "investigative_direction": "Review the hearing witness list and transcripts for any testimony by deputies or family on the first statements.",
       "transcript_snippet": "Anyway, uh noticeably missing was any of that shock testimony regarding Tyler's parents' statements turning their son in.",
@@ -2810,7 +2866,9 @@
       "related_nodes": [
         "N-10598"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:09",
       "investigative_direction": "Obtain the latent print and DNA reports itemizing the items on which Lance Twigs's prints or DNA were found.",
       "transcript_snippet": "there was plenty of testimony regarding how Lance Twigs's prints were on everything. The towel, the gun, the Dremel that was used to carve out the messages on the cartridges.",
@@ -2829,7 +2887,9 @@
       "related_nodes": [
         "N-10598"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:09",
       "investigative_direction": "Check the roommate's phone, building access and other records for activity before 1 p.m. that day.",
       "transcript_snippet": "Lance claims that he slept in until 100 p. m.",
@@ -2851,13 +2911,15 @@
       "related_nodes": [
         "N-10975"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:07",
       "investigative_direction": "Compare the dates of the influencer videos with Oliver's testimony and the court's rulings on release of video.",
       "transcript_snippet": "I believe that the reason they did it, the reason why they went insane was to overcome the testimony of Caitlyn Oliver.",
       "mentions_person_refs": [
         "N-3",
-        "N-789",
+        "N-788",
         "N-40"
       ]
     },
@@ -2873,14 +2935,16 @@
       "related_nodes": [
         "N-10975"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:59",
       "investigative_direction": "Read the cross-examination transcript and the ATF DNA report to see whether this statement was made and what it applied to.",
       "transcript_snippet": "since 1996 they actually don't rely on mixed samples for that very reason because it confuses matters.",
       "mentions_person_refs": [
         "N-3",
         "N-40",
-        "N-789"
+        "N-788"
       ]
     },
     {
@@ -2895,15 +2959,17 @@
       "related_nodes": [
         "N-10975"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:22",
       "investigative_direction": "Obtain the DNA report listing contributor counts and any reference samples compared, including the father's.",
       "transcript_snippet": "which of course included Lance Twigs. Uh it also included Matt Robinson, Tyler's father.",
       "mentions_person_refs": [
         "N-3",
-        "N-789",
+        "N-788",
         "N-54",
-        "N-791",
+        "N-790",
         "N-40"
       ]
     },
@@ -2920,12 +2986,14 @@
         "N-10975",
         "N-10711"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:20",
       "investigative_direction": "Obtain the evidence photographs, collection notes and the identity of who performed the swabs.",
       "transcript_snippet": "So, they were swabbed together. So, I wouldn't be able to say um where the DNA came from.",
       "mentions_person_refs": [
-        "N-789",
+        "N-788",
         "N-40"
       ]
     },
@@ -2941,13 +3009,15 @@
       "related_nodes": [
         "N-10711"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:46",
       "investigative_direction": "Collect the original media and official statements about DNA on the trigger and compare with the laboratory report wording.",
       "transcript_snippet": "because they kept saying that his DNA was on the trigger. And she's admitting it could be the trigger guard.",
       "mentions_person_refs": [
         "N-3",
-        "N-789",
+        "N-788",
         "N-40"
       ]
     },
@@ -2964,7 +3034,9 @@
         "N-10711",
         "N-10703"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:36",
       "investigative_direction": "Ask independent forensic DNA experts to review the degradation finding and storage and handling conditions of the rifle.",
       "transcript_snippet": "It does not seem to me that DNA would suddenly degrade immediately after someone shoots a person, jumps off a rooftop, and tosses the gun into a nearby bush.",
@@ -2991,13 +3063,15 @@
         "N-10975",
         "N-10710"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:36",
       "investigative_direction": "Obtain the medical examiner's evidence log and the ATF receipt for fragments to reconcile seven recovered with four received.",
       "transcript_snippet": "it was weird off the bat that they said they took seven bullet uh seven fragments from Charlie's body. She testifies that she only received four of them in an envelope",
       "mentions_person_refs": [
         "N-3",
-        "N-790",
+        "N-789",
         "N-1"
       ]
     },
@@ -3014,7 +3088,9 @@
         "N-10710",
         "N-10572"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:40:31",
       "investigative_direction": "Check SAAMI specifications and Carner's report on whether fragment diameter ranges permit a .30-06 bullet.",
       "transcript_snippet": "The reason why that matters is because it's too small for Tyler's 306.",
@@ -3023,7 +3099,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-790",
+        "N-789",
         "N-40"
       ]
     },
@@ -3040,7 +3116,9 @@
         "N-10012",
         "N-10028"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:26",
       "investigative_direction": "Review Exhibit 12.4 and the witness's notes to see the basis for identifying each movement as Robinson.",
       "transcript_snippet": "Uh arriving and leaving in a vehicle, arriving and leaving on foot, and then returning and leaving, and then attempting to gain access again in a vehicle.",
@@ -3063,7 +3141,9 @@
       "related_nodes": [
         "N-11065"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:12",
       "investigative_direction": "Obtain the court order on public release of the video and the hearing record of what was shown in the gallery.",
       "transcript_snippet": "And the judge ruled that you can't see the highdefin quality video 4K of Tyler Robinson committing the murder of Charlie Kirk, but we saw it",
@@ -3086,7 +3166,9 @@
         "A-2126.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:12",
       "investigative_direction": "Compare with courtroom sketch, pool reporter and Court TV accounts of Robinson's demeanor and the gallery.",
       "transcript_snippet": "Erika Kirk was sobbing in the arms of her mother-in-law, Charlie's mother, Mrs. Kirk, feet away as Tyler Robinson, pale, salow, bony, emaciated, staring at the floor the whole time",
@@ -3106,7 +3188,9 @@
         "A-2126.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:12",
       "investigative_direction": "Check the hearing record for a 20 minute exhibit and compare with the Exhibit 12.1 runtime and Court TV coverage.",
       "transcript_snippet": "The judge played all 20 minutes of the highde security footage and the whole courthouse gasped when it was over.",
@@ -3129,7 +3213,9 @@
       "related_nodes": [
         "N-11065"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:12",
       "investigative_direction": "Find any message or statement from Erika Kirk's team requesting the influencers' public messaging.",
       "transcript_snippet": "Please pray. Erika Kirk asked us to do this.",
@@ -3150,7 +3236,9 @@
       "related_nodes": [
         "N-11065"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:51:50",
       "investigative_direction": "Collect the later statements by Benny Johnson and others describing the footage and compare with their first posts.",
       "transcript_snippet": "being like oh no it doesn't actually show him gets shot but it shows him getting into the prone position",
@@ -3170,7 +3258,9 @@
       "related_nodes": [
         "N-11065"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:34",
       "investigative_direction": "Determine who attended the day five viewing and whether the footage shown in the gallery matches any filed exhibit.",
       "transcript_snippet": "Everyone else was spending nine hours a day watching every day of the hearing, but they waited till the end to give this gift to the same influencers",
@@ -3192,7 +3282,9 @@
       "related_nodes": [
         "N-11017"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:34",
       "investigative_direction": "Search FARA registrations and payment records for the influencers named; no document is cited on air.",
       "transcript_snippet": "And now I get why they had to file for FAR, right? Like I mean, people are getting paid.",
@@ -3212,7 +3304,9 @@
         "N-10598",
         "N-10679"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:54:18",
       "investigative_direction": "Obtain the DNA report quantifying each contributor's share and any statement of the prosecution on Lance Twigs's status.",
       "transcript_snippet": "Somebody's going to have to explain why Lance Twigs is not being considered a suspect when his DNA is on everything more of his DNA than Tyler's on the gun.",
@@ -3232,7 +3326,9 @@
       "related_nodes": [
         "N-10386"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:59:00",
       "investigative_direction": "Collect statements from Kirk's associates and past exchanges between Kirk and Shapiro to test the relationship claim.",
       "transcript_snippet": "Anybody who knows Charlie Kirk knows that he did not like Ben Shapiro because Ben Shapiro attempted to stop Charlie from rising.",
@@ -3251,7 +3347,9 @@
       "claim": "The host says that apparently Ben Shapiro's father controls accounts, uses pen names to write nice stuff about his son, and follows him wherever he works.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:59:57",
       "investigative_direction": "Identify any accounts or bylines the host attributes to the father; no source is cited on air.",
       "transcript_snippet": "apparently it has a lot to do with his father who controls accounts and uses um pen names to write nice stuff about his son and follows him wherever he works.",
@@ -3271,7 +3369,9 @@
         "N-10000",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:59:57",
       "investigative_direction": "Look for TPUSA donor records or announcements of a Shapiro or Daily Wire gift and its date.",
       "transcript_snippet": "He races to give a million dollars. The com his company is suffering, but he's giving a million dollars Turning Point USA.",
@@ -3292,7 +3392,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:59:57",
       "investigative_direction": "Establish Shapiro's whereabouts and Walsh's call timing for the date; the host defers details to another episode.",
       "transcript_snippet": "Then there was this really strange phone call that I had with Matt Walsh and I did not know that Ben Shapiro was in town on this date when I had the phone call.",
@@ -3312,7 +3414,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:01:00",
       "investigative_direction": "Review the complaint's signature block for counsel of record and their relationship to Shapiro.",
       "transcript_snippet": "which Brian Harpole is suing me over and using Ben Shapiro's lawyers and Ben Shapiro's brother-in-law to do so.",
@@ -3336,7 +3440,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:01:37",
       "investigative_direction": "Pull the dockets for the Daily Wire and Owens litigation and identify counsel and plaintiffs.",
       "transcript_snippet": "Ben Shapiro lawyers, who have been suing me and my family for years because he can't earn.",
@@ -3358,7 +3464,9 @@
         "N-10748",
         "N-10712"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:01:37",
       "investigative_direction": "Establish where Shapiro was and with whom at the time; compare with his schedule and the host's bounty request.",
       "transcript_snippet": "I was in Los Angeles. I had sort of a breakfast slunch meeting with somebody",
@@ -3380,7 +3488,9 @@
       "related_nodes": [
         "N-10712"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:02:37",
       "investigative_direction": "Compare Harpole's account of treatment with his lawsuit filing, interviews and any photographs or video from the vehicle.",
       "transcript_snippet": "Brian Harpole stipulates that it couldn't have been him that was providing those updates because he was just packing like 40 feet of gauze into Charlie's neck.",
@@ -3400,7 +3510,9 @@
       "related_nodes": [
         "N-10712"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:02:37",
       "investigative_direction": "Interview Cutler and review vehicle video or photographs to confirm his position and use of his phone.",
       "transcript_snippet": "And it couldn't have been Rick Cutler because Rick Cutler had him.",
@@ -3420,7 +3532,9 @@
       "related_nodes": [
         "N-10712"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:03:20",
       "investigative_direction": "Compare Frank Turek's and Brian Harpole's recorded accounts of what was done in the vehicle.",
       "transcript_snippet": "Frank says that he started CPR, but Brian Harpell says no such thing took place because CPR would have been the wrong thing to do uh while he was bleeding.",
@@ -3441,7 +3555,9 @@
       "related_nodes": [
         "N-10712"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:03:20",
       "investigative_direction": "Obtain vehicle telematics, GPS or dashcam data for the transport and Davis's phone records.",
       "transcript_snippet": "Justin Davis was driving upwards to 100 miles per hour.",
@@ -3460,7 +3576,9 @@
       "related_nodes": [
         "N-10712"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:04:18",
       "investigative_direction": "Ask Turek for his call log and statement about the FaceTime call during the transport.",
       "transcript_snippet": "Remember his phone. He just didn't even realize while he was praying out loud. His kids were just left on the phone on FaceTime because that's what he was doing.",
@@ -3480,7 +3598,9 @@
         "N-10729",
         "N-10692"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:04:18",
       "investigative_direction": "Obtain the CAD log and all 911 audio for the incident and match callers to numbers.",
       "transcript_snippet": "Which one of you guys called 911? Because they've never said who called 911 because the 911 calls that were released show that neither of them called 911.",
@@ -3505,7 +3625,9 @@
         "N-10712",
         "N-10748"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:05:11",
       "investigative_direction": "Establish the timestamp of the first Shapiro-side call and compare it with the first public posts of the video.",
       "transcript_snippet": "so Ben knew what was happening before the rest of the world found out around 12:38 p. m.",
@@ -3528,7 +3650,9 @@
       "related_nodes": [
         "N-10712"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:07:02",
       "investigative_direction": "Identify Shapiro's security provider and personnel and their backgrounds from licensing or public records.",
       "transcript_snippet": "So, who on Ben's IDF Israeli Msad Security apparatus team, former IDF, was receiving updates about Charlie's condition and why?",
@@ -3548,7 +3672,9 @@
       "related_nodes": [
         "N-10495"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:07:02",
       "investigative_direction": "Pin down the exact Kolvet statement and when it was made; the host's follow-up questions are speculation.",
       "transcript_snippet": "the statement from Andrew Colbeat it was supposed to be you",
@@ -3572,7 +3698,9 @@
         "N-10495",
         "N-10018"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:08:31",
       "investigative_direction": "Obtain statements from others present at the Hamptons gathering and records of the call.",
       "transcript_snippet": "I only got an acknowledgement that it happened from Erika in person who then said, \"Oh, he was just following up on a letter that Charlie wrote in May.\"",
@@ -3597,7 +3725,9 @@
         "N-10495",
         "N-10027"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:08:31",
       "investigative_direction": "Establish who arranged the call, its date and length, from phone records and attendees; the transcript here is garbled.",
       "transcript_snippet": "Really, Bill Aman? put BB9 and Yahoo on the phone and he's just like, \"Hey, I got your letter.",
@@ -3621,7 +3751,9 @@
         "N-11136",
         "N-10712"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:09:21",
       "investigative_direction": "Publish the tip and the underlying photo or witness; identify which image the host is describing.",
       "transcript_snippet": "We got an unbelievable tip about that piece which we describe as looking like cardboard that was in the back.",
@@ -3642,7 +3774,9 @@
         "N-11136",
         "N-11017"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:09:21",
       "investigative_direction": "Establish timing of the tip and the first attacks on the host to test any causal link.",
       "transcript_snippet": "I believe this is what has caused the mass panic, the reports, the influencers attacking, naming me.",
@@ -3660,7 +3794,9 @@
       "related_nodes": [
         "N-10598"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:16:57",
       "investigative_direction": "Find the Kolvet statements about Lance Twigs the commenter refers to.",
       "transcript_snippet": "Now, Andrew Kulat is reviving it, likely due to growing support for Tyler Robinson throwing Lance Twigs to the wolves. Yeah, I saw that, too.",
@@ -3681,7 +3817,9 @@
       "related_nodes": [
         "N-10381"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:16:57",
       "investigative_direction": "Obtain the waiter's account and the restaurant's order and payment times.",
       "transcript_snippet": "Diligent Dennison went and spoke to the waiter uh down at in Penguish. More was going to be coming out about that.",
@@ -3703,7 +3841,9 @@
       "related_nodes": [
         "N-10389"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:17:50",
       "investigative_direction": "No external record is available for the dreams; compare with her earlier on-air accounts of them.",
       "transcript_snippet": "Dreams he was having in 2018 that were vivid. I started having vivid dreams right after he was taken out.",
@@ -3723,7 +3863,9 @@
         "N-11137",
         "N-10692"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:18:37",
       "investigative_direction": "Get an independent trauma or EMS opinion on first-aid priorities for such an injury.",
       "transcript_snippet": "Yep, we mentioned that the order should have been call 911 and stop bleeding, stabilize the neck.",
@@ -3741,7 +3883,9 @@
       "related_nodes": [
         "N-11137"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:18:37",
       "investigative_direction": "Check Utah EMS licensing records and the National Registry for Harpole's credential history.",
       "transcript_snippet": "I think somebody emailed me and said they dug up Brian's and it was from like 1996 and that he should have had one in the state of Utah.",
@@ -3760,7 +3904,9 @@
       "related_nodes": [
         "N-11137"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:18:37",
       "investigative_direction": "Review the complaint's causes of action and the host's answer for the incompetence statements at issue.",
       "transcript_snippet": "Obviously, I'm being sued for saying that what they did was incompetent.",
@@ -3784,7 +3930,9 @@
         "N-11137",
         "N-10692"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:18:37",
       "investigative_direction": "Identify the specific photographs and have a medical expert assess hand placement.",
       "transcript_snippet": "Just looking at the photos of how they didn't hold his neck at all because I think they were trying to hold his shirt.",
@@ -3804,7 +3952,9 @@
         "N-10051",
         "N-10028"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:19:42",
       "investigative_direction": "Compare the host's statement with her earlier positions on the Dairy Queen photo and the campus presence.",
       "transcript_snippet": "I do believe that Tyler Robinson was around campus on that day. I I do believe he was at the Dairy Queen, that he was depositing clothes",
@@ -3822,7 +3972,9 @@
       "claim": "The host says she does not want any harm to come to Erika Kirk and has never called for people to harm her.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:20:56",
       "investigative_direction": "Review the host's past statements on Erika Kirk for any call to harm; the record is her own broadcasts.",
       "transcript_snippet": "I don't want any harm to happen to Erika Kirk. I have never call called for people to harm Erika Kirk.",
@@ -3839,7 +3991,9 @@
       "claim": "Answering a question, the host says it is possible that people could try to harm Erika Kirk and then blame the host, saying desperate feds take desperate measures and that she would want her own security if she were Erika.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:21:38",
       "investigative_direction": "This is host speculation; no document or source is cited on air.",
       "transcript_snippet": "Yeah, it is possible. Desperate feds, desperate measures. So, if I was Erika, I wouldn't be trusting the people around me.",

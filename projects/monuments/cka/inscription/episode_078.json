@@ -33,7 +33,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-595",
+            "N-594",
             "N-10531",
             "N-10532"
           ],
@@ -61,9 +61,9 @@
             "C-2456"
           ],
           "related_nodes": [
+            "N-597",
             "N-598",
             "N-599",
-            "N-600",
             "N-182"
           ],
           "tags": [],
@@ -91,7 +91,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-594",
+            "N-593",
             "N-279",
             "N-10533"
           ],
@@ -121,7 +121,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-596",
+            "N-595",
             "N-10534"
           ],
           "tags": [],
@@ -141,7 +141,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-596",
+            "N-595",
             "N-10534"
           ],
           "tags": [],
@@ -170,8 +170,8 @@
             "C-2475"
           ],
           "related_nodes": [
+            "N-595",
             "N-596",
-            "N-597",
             "N-10534"
           ],
           "tags": [],
@@ -198,8 +198,8 @@
             "C-2461"
           ],
           "related_nodes": [
-            "N-602",
-            "N-597",
+            "N-601",
+            "N-596",
             "N-10534"
           ],
           "tags": [],
@@ -379,7 +379,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-593"
+            "N-592"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -405,7 +405,7 @@
             "C-2467"
           ],
           "related_nodes": [
-            "N-593",
+            "N-592",
             "N-41",
             "N-10538"
           ],
@@ -425,7 +425,7 @@
             "C-2468"
           ],
           "related_nodes": [
-            "N-593",
+            "N-592",
             "N-10538"
           ],
           "tags": [],
@@ -453,7 +453,7 @@
             "C-2474"
           ],
           "related_nodes": [
-            "N-593",
+            "N-592",
             "N-10538"
           ],
           "tags": [],
@@ -495,8 +495,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-593",
-      "ref": "N-593",
+      "@id": "N-592",
+      "ref": "N-592",
       "name": "Thomas Massie",
       "type": "person",
       "description": "Kentucky congressman; central to Turning Point Action disavowal incident; displayed video shows Charlie Kirk naming him a favorite congressman on multiple occasions.",
@@ -523,8 +523,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-594",
-      "ref": "N-594",
+      "@id": "N-593",
+      "ref": "N-593",
       "name": "Sarah Huckabee Sanders",
       "type": "person",
       "description": "Governor of Arkansas; displayed signing proclamation with Erica Kirk for Club America in Arkansas high schools.",
@@ -546,8 +546,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-595",
-      "ref": "N-595",
+      "@id": "N-594",
+      "ref": "N-594",
       "name": "Mark Epstein",
       "type": "person",
       "description": "Jeffrey Epstein's brother; named by host as owner of building matching the white-building description and as inheritor of Jeffrey Epstein's wealth (host attribution, not cited within displayed NY Post article text).",
@@ -567,8 +567,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-596",
-      "ref": "N-596",
+      "@id": "N-595",
+      "ref": "N-595",
       "name": "Renee Crossman",
       "type": "person",
       "description": "President of United Hands Romania Association; partner of Erica Kirk on the Remnant/Romanian Angels project; per displayed Romanian investigative article, originated from the Children of God / The Family religious sect.",
@@ -593,8 +593,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-597",
-      "ref": "N-597",
+      "@id": "N-596",
+      "ref": "N-596",
       "name": "David Berg",
       "type": "person",
       "description": "Founder of Children of God / The Family; historical figure named in displayed Romanian investigative article as advocate of sexual relations with minors including his own daughter at age 12.",
@@ -616,8 +616,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-598",
-      "ref": "N-598",
+      "@id": "N-597",
+      "ref": "N-597",
       "name": "Oren Alexander",
       "type": "person",
       "description": "Real-estate broker; per displayed news clip, found guilty on all 10 counts including sex trafficking in Manhattan federal trial.",
@@ -638,8 +638,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-599",
-      "ref": "N-599",
+      "@id": "N-598",
+      "ref": "N-598",
       "name": "Tal Alexander",
       "type": "person",
       "description": "Real-estate broker; per displayed news clip, found guilty of sex trafficking and sex trafficking of a minor.",
@@ -660,8 +660,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-600",
-      "ref": "N-600",
+      "@id": "N-599",
+      "ref": "N-599",
       "name": "Alon Alexander",
       "type": "person",
       "description": "Private security executive; per displayed news clip, found guilty of sex trafficking of a minor and sexual abuse.",
@@ -695,7 +695,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-594",
+        "N-593",
         "N-10533"
       ]
     },
@@ -716,15 +716,15 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
+        "N-597",
         "N-598",
-        "N-599",
-        "N-600"
+        "N-599"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-582",
-      "ref": "N-582",
+      "@id": "N-581",
+      "ref": "N-581",
       "name": "Faith Kates",
       "type": "person",
       "description": "Founder of Next Model Management, the Rothschild spin-out modeling agency with which Erica Kirk is alleged to have dealt.",
@@ -742,8 +742,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-602",
-      "ref": "N-602",
+      "@id": "N-601",
+      "ref": "N-601",
       "name": "Christina Babin",
       "type": "person",
       "description": "Former Children of God member interviewed by Megyn Kelly in 2018; described childhood sexual instruction by adult cult members.",
@@ -759,7 +759,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-597"
+        "N-596"
       ]
     },
     {
@@ -784,7 +784,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-595",
+        "N-594",
         "N-10532"
       ]
     },
@@ -806,7 +806,7 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-582",
+        "N-581",
         "N-10531"
       ]
     },
@@ -830,7 +830,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-594",
+        "N-593",
         "N-279"
       ]
     },
@@ -859,9 +859,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
+        "N-595",
         "N-596",
-        "N-597",
-        "N-602"
+        "N-601"
       ]
     },
     {
@@ -969,7 +969,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-593",
+        "N-592",
         "N-41"
       ]
     },
@@ -1190,9 +1190,9 @@
       "investigative_direction": "Obtain federal court docket for the Southern District of New York case, cross-reference Epstein-file redaction entries, and document Kushner/White House visit records for the brothers.",
       "mentions_person_refs": [
         "N-182",
+        "N-597",
         "N-598",
-        "N-599",
-        "N-600"
+        "N-599"
       ]
     },
     {
@@ -1212,7 +1212,7 @@
       "investigative_direction": "Obtain the official proclamation text and any associated Arkansas Department of Education guidance; verify whether the proclamation is symbolic or carries operational force.",
       "mentions_person_refs": [
         "N-2",
-        "N-594"
+        "N-593"
       ]
     },
     {
@@ -1232,7 +1232,7 @@
       "investigative_direction": "Locate original 2017 article source and verify the Antonio Placement Center in Constanta; cross-check Romanian nonprofit registration records for United Hands Romania.",
       "mentions_person_refs": [
         "N-2",
-        "N-596"
+        "N-595"
       ]
     },
     {
@@ -1252,7 +1252,7 @@
       "investigative_direction": "Identify the interview source and date; obtain statements from orphanage staff or volunteers regarding Crossman's access to children.",
       "mentions_person_refs": [
         "N-2",
-        "N-596"
+        "N-595"
       ]
     },
     {
@@ -1271,7 +1271,7 @@
       "claim_timestamp": "00:18:27",
       "investigative_direction": "Cross-reference with established historical documentation of the Children of God / The Family movement's teachings on minor sexual activity.",
       "mentions_person_refs": [
-        "N-597"
+        "N-596"
       ]
     },
     {
@@ -1290,8 +1290,8 @@
       "claim_timestamp": "00:21:19",
       "investigative_direction": "Locate the 2018 Megyn Kelly episode and Babin's full interview; corroborate with other documented survivor testimony regarding Berg's \"sexual sharing\" directive.",
       "mentions_person_refs": [
-        "N-597",
-        "N-602",
+        "N-596",
+        "N-601",
         "N-46"
       ]
     },
@@ -1389,7 +1389,7 @@
       "investigative_direction": "Identify date and program of the clip; corroborate via multiple Charlie Kirk video instances praising Massie (per host, spanning 2016 through 2023).",
       "mentions_person_refs": [
         "N-1",
-        "N-593"
+        "N-592"
       ]
     },
     {
@@ -1408,7 +1408,7 @@
       "claim_timestamp": "00:43:29",
       "investigative_direction": "Preserve original tweet (including any subsequent edits/deletions); identify the author of the TP Action account; document timing relative to Massie Committee work.",
       "mentions_person_refs": [
-        "N-593"
+        "N-592"
       ]
     },
     {
@@ -1427,7 +1427,7 @@
       "claim_timestamp": "00:43:29",
       "investigative_direction": "Preserve community note metadata; identify raters and any subsequent updates to the note.",
       "mentions_person_refs": [
-        "N-593",
+        "N-592",
         "N-1"
       ]
     },
@@ -1449,7 +1449,7 @@
       "investigative_direction": "Compile and date-stamp all public Charlie Kirk video appearances praising Massie; document the platform and audience of each.",
       "mentions_person_refs": [
         "N-1",
-        "N-593"
+        "N-592"
       ]
     },
     {
@@ -1468,7 +1468,7 @@
       "claim_timestamp": "00:18:27",
       "investigative_direction": "Locate the full investigative article; verify Crossman's documented affiliation independently; examine United Hands Romania registration and operational history.",
       "mentions_person_refs": [
-        "N-596"
+        "N-595"
       ]
     },
     {
@@ -1488,7 +1488,7 @@
       "investigative_direction": "Verify Antonio Placement Center in Constanta exists as documented; obtain Romanian-language records and Constantine base access logs referenced by Kirk.",
       "mentions_person_refs": [
         "N-2",
-        "N-596"
+        "N-595"
       ]
     },
     {
@@ -1547,7 +1547,7 @@
       "claim_timestamp": "00:44:27",
       "investigative_direction": "Preserve full reply-tweet thread; identify any subsequent TPUSA responses and document the public dispute timeline.",
       "mentions_person_refs": [
-        "N-593"
+        "N-592"
       ]
     },
     {
@@ -1566,7 +1566,7 @@
       "claim_timestamp": "00:19:11",
       "investigative_direction": "Cross-reference with documented post-1970s directives from David Berg and successor leadership regarding dispersal strategy; examine nonprofit registration patterns of former members.",
       "mentions_person_refs": [
-        "N-597"
+        "N-596"
       ]
     }
   ],

@@ -1299,8 +1299,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-800",
-      "ref": "N-800",
+      "@id": "N-799",
+      "ref": "N-799",
       "name": "Hasan Piker",
       "type": "person",
       "description": "Streamer whose praise of the host is played in the episode. First named by the host at 00:01:32 in episode 143.",
@@ -1318,8 +1318,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-801",
-      "ref": "N-801",
+      "@id": "N-800",
+      "ref": "N-800",
       "name": "Lane Schamberger",
       "type": "person",
       "description": "Man visible washing his hands in the footage who the host says helped carry Charlie. First named by the host at 00:09:43 in episode 143.",
@@ -1335,8 +1335,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-791",
-      "ref": "N-791",
+      "@id": "N-790",
+      "ref": "N-790",
       "name": "Matt Robinson",
       "type": "person",
       "description": "Tyler Robinson's father, whom the host's source says did not think his son was guilty. First named by the host at 00:30:06 in episode 143.",
@@ -1352,8 +1352,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-802",
-      "ref": "N-802",
+      "@id": "N-801",
+      "ref": "N-801",
       "name": "Brian Davis",
       "type": "person",
       "description": "Person the host says signed off the charging document. First named by the host at 00:30:06 in episode 143.",
@@ -1369,8 +1369,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-803",
-      "ref": "N-803",
+      "@id": "N-802",
+      "ref": "N-802",
       "name": "Brandi Zadrozny",
       "type": "person",
       "description": "Journalist whose article the host paraphrases. First named by the host at 00:36:06 in episode 143.",
@@ -1646,7 +1646,9 @@
       "claim": "The host says Blake Neff is speaking to reporters and wants everyone to know that she is just jealous of Erika Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:47",
       "investigative_direction": "Identify the reporters Neff spoke to and obtain the published or unpublished statements attributed to him.",
       "transcript_snippet": "Blake Neff is now entering the fray. Um he's speaking to reporters and wants everyone to know that I'm just jealous of Erika.",
@@ -1667,13 +1669,15 @@
         "N-10000",
         "N-11146"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:01:32",
       "investigative_direction": "Collect the TPUSA-side statements and articles that make the Hasan-coordination claim and compare their wording with the Piker clip.",
       "transcript_snippet": "They're also now pushing the same talking point that I'm now somehow working in coordination or support of I guess the aims of Hasan",
       "mentions_person_refs": [
         "N-3",
-        "N-800"
+        "N-799"
       ]
     },
     {
@@ -1686,7 +1690,9 @@
       "related_nodes": [
         "N-10810"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:09",
       "investigative_direction": "Compare the host's account of the conversation with Farnsworth with the Google Drive transmission records for the September 10 videos.",
       "transcript_snippet": "yesterday I demonstrated to you all that Terrence lied to me. That's just a fact. He lied to me about not knowing how to send a clip.",
@@ -1709,7 +1715,9 @@
       "related_nodes": [
         "N-10810"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:40",
       "investigative_direction": "Identify who made the statement and ask the SBI and Utah authorities whether any instruction not to release the footage was given.",
       "transcript_snippet": "And he said, \"That's in the preview of law enforcement.\" He meant in the purview of law enforcement.",
@@ -1726,7 +1734,9 @@
       "claim": "The host says a police officer cannot simply declare a private person's phone to be in the purview of law enforcement, can ask them to share footage willingly, and cannot demand it without a warrant.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:02",
       "investigative_direction": "Check Utah and federal law on compelled production of personal recordings without a warrant and whether any warrant covered the camera operator's devices.",
       "transcript_snippet": "They can't demand it without a warrant, right?",
@@ -1746,7 +1756,9 @@
       "related_nodes": [
         "N-10808"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:02",
       "investigative_direction": "Establish from witness statements and video who first pronounced Charlie dead and at what time.",
       "transcript_snippet": "Um it's hard to forget that he is the first one who declared Charlie's dead.",
@@ -1767,7 +1779,9 @@
       "related_nodes": [
         "N-10808"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:42",
       "investigative_direction": "Establish when and from whom the host obtained the footage and the date of her conversation with Farnsworth.",
       "transcript_snippet": "Well, today we can share with you my very own October surprise. I call it an October surprise because I've had it since October.",
@@ -1791,7 +1805,9 @@
       "related_nodes": [
         "N-10808"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:42",
       "investigative_direction": "Identify the government-side source and check the footage timestamp against the laptop opening.",
       "transcript_snippet": "And what I learned is that after he pocketed that, he then pretty immediately opened up his laptop.",
@@ -1815,13 +1831,15 @@
       "related_nodes": [
         "N-10808"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:43",
       "investigative_direction": "Confirm Schamberger's role in carrying Charlie to the vehicle from other video and witness accounts.",
       "transcript_snippet": "yes, some people might be noting that Lane Schamberger is on the side washing his hands. That makes sense. Don't think too hard about it. He did help carry Charlie into the car.",
       "mentions_person_refs": [
         "N-3",
-        "N-801",
+        "N-800",
         "N-1"
       ]
     },
@@ -1837,7 +1855,9 @@
       "related_nodes": [
         "N-10808"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:43",
       "investigative_direction": "Obtain the full unedited footage and the phone records identifying who Farnsworth was texting and what was done on the laptop.",
       "transcript_snippet": "He picks up the laptop and what happens thereafter is he sits facing the other direction and continues on to his laptop doing what I don't know.",
@@ -1862,7 +1882,9 @@
         "N-10100",
         "N-10810"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:42",
       "investigative_direction": "Locate Kolvet's original statement and compare it with Bowyer's different account of why the cards were removed.",
       "transcript_snippet": "We were told from Andrew he was doing this because people can be evil.",
@@ -1886,7 +1908,9 @@
       "related_nodes": [
         "N-10100"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:38",
       "investigative_direction": "Identify who told the host the camera was unremarkable and compare with Farnsworth's and Kolvet's accounts of why it was taken first.",
       "transcript_snippet": "we were told that there was nothing special about the camera behind Charlie's head and I would argue that there clearly was.",
@@ -1908,7 +1932,9 @@
         "N-10809",
         "N-11068"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:38",
       "investigative_direction": "Obtain Farnsworth's statement and check what it says about each camera's assignment and coverage.",
       "transcript_snippet": "according to Taral's 1102 statement, we know that that's filming the audience in particular the individuals that are asking questions.",
@@ -1928,7 +1954,9 @@
       "related_nodes": [
         "N-10809"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:47",
       "investigative_direction": "Time-stamp the camera fall and Farnsworth's arrival in the original footage.",
       "transcript_snippet": "So when Taral appears approximately 3 minutes later to take the SD card from behind from the camera behind Charlie's head he steps over it.",
@@ -1951,7 +1979,9 @@
         "N-10000",
         "N-11146"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:15:55",
       "investigative_direction": "Identify the articles and the TPUSA contacts that supplied them to the journalists.",
       "transcript_snippet": "even though they are seeding the narrative and asking their media friends to put articles, like we're I'm some digital assassin for sharing the truth",
@@ -1971,7 +2001,9 @@
       "related_nodes": [
         "N-10340"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:33",
       "investigative_direction": "Obtain the Glenn Beck interview and compare Erika's statement with the night-before messages the host describes.",
       "transcript_snippet": "when Erika publicly stated with confidence on Glenn Beck's show that Charlie was not sending text messages the night before signaling that he was worried he was going to be killed",
@@ -1993,7 +2025,9 @@
       "related_nodes": [
         "N-10340"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:33",
       "investigative_direction": "Check whether Erika Kirk or TPUSA has issued any correction of the Glenn Beck statement.",
       "transcript_snippet": "it then becomes incumbent upon Erika herself to correct the record publicly when we learn that that isn't true.",
@@ -2012,7 +2046,9 @@
         "N-10000",
         "N-11065"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:18:07",
       "investigative_direction": "Compare each Neff post about a Robinson filing with the filing text and the invitation list for influencers at the hearings.",
       "transcript_snippet": "Why are they bringing influencers into the courtroom? Why are they, as Blake Neff has done repeatedly, completely misrepresenting court filings to the public in order to do just that?",
@@ -2032,7 +2068,9 @@
         "A-2294.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:18:07",
       "investigative_direction": "Capture the tweet and its Community Note with timestamps before any edit or removal.",
       "transcript_snippet": "He's already been community noted on it for its intentional misrepresentation.",
@@ -2052,7 +2090,9 @@
       "related_nodes": [
         "N-11068"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:19:08",
       "investigative_direction": "Retrieve the full Community Note text and compare it with Utah Rule 1102 and the defense filing.",
       "transcript_snippet": "it says preliminary hearings decide only probable cause. Under the Utah 1102 standard, um uh reliable hearsay is allowed. Defense counsel often skip alternative theories to avoid previewing their strategy before the trial.",
@@ -2073,7 +2113,9 @@
         "A-2294.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:19:08",
       "investigative_direction": "Obtain the prosecution response and the defense filing to see which theories, if any, each addresses.",
       "transcript_snippet": "If there was any merit at all to any of the theories that Candace and them have pushed the last 11 months, why didn't the defense bring them up?",
@@ -2096,7 +2138,9 @@
         "N-11068",
         "N-11065"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:00",
       "investigative_direction": "Check Utah criminal procedure on the purpose and standard of a preliminary hearing against the host's description.",
       "transcript_snippet": "Yes, preliminary hearings are not about discovering guilt or innocence. It is about arguing whether or not the filing itself is defective, okay?",
@@ -2115,7 +2159,9 @@
       "related_nodes": [
         "N-10661"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:21:25",
       "investigative_direction": "Check the court order on Baldoni's motion to dismiss for the number of claims dismissed.",
       "transcript_snippet": "And the court came back and decided, \"Actually, yes, Justin, you're you're correct that 10 of these causes of action are inactionable.",
@@ -2135,7 +2181,9 @@
       "related_nodes": [
         "N-10651"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:25",
       "investigative_direction": "Pull the Harpole complaint and the host's motion to dismiss from the court docket.",
       "transcript_snippet": "Same with me and Brian Harpole. There's another example. Again, these are civil examples. He filed a lawsuit.",
@@ -2155,7 +2203,9 @@
         "N-10651",
         "N-10862"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:22:24",
       "investigative_direction": "Check the complaint for the Shawn Ryan interview claim and the host's opinion-is-protected-speech argument.",
       "transcript_snippet": "So, he's suing me for saying I found his interview with Shawn Ryan to be unconvincing.",
@@ -2175,7 +2225,9 @@
       "related_nodes": [
         "N-10270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:09",
       "investigative_direction": "Read the motion to dismiss in the Delaware case for the jurisdiction and venue grounds.",
       "transcript_snippet": "That's what I'm arguing. She's not even supposed to be here. What are we even talking about? She's in Delaware. I'm in Tennessee.",
@@ -2194,7 +2246,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:13",
       "investigative_direction": "Compile TPUSA and Erika Kirk public statements about Robinson's guilt after the memorial.",
       "transcript_snippet": "since the moment Erika forgave Tyler Robinson on the stage.",
@@ -2214,7 +2268,9 @@
       "claim": "The host says that, in the debate, Wilson's side needed her to clearly accuse Erika of killing her husband, and that they know she has never actually done so.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:57",
       "investigative_direction": "Review the host's prior episodes and the debate transcript for any explicit accusation of this kind.",
       "transcript_snippet": "Like they needed me to clearly accuse Erika of killing her husband cuz they know that I've never actually done that",
@@ -2235,7 +2291,9 @@
         "N-10000",
         "N-11146"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:24:57",
       "investigative_direction": "Identify the journalists and articles carrying this framing and any TPUSA contact with them.",
       "transcript_snippet": "they're they're seemingly also working with journalists to try to get that narrative out there so they can maybe point in a lawsuit",
@@ -2254,7 +2312,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:58",
       "investigative_direction": "Compare Erika Kirk's public statements on Robinson with the timing of the hearing.",
       "transcript_snippet": "she is uh certainly complicit in helping to seed the narrative that Tommy Robinson is guilty or was guilty before we even got to the probative hearing.",
@@ -2274,7 +2334,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:58",
       "investigative_direction": "Review the vice president's remarks at the TPUSA event for what he said about Robinson.",
       "transcript_snippet": "The vice president I also said was complicit in that when he was on stage at Turning Point USA talking about Tommy Robinson.",
@@ -2293,7 +2355,9 @@
       "related_nodes": [
         "N-10022"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:06",
       "investigative_direction": "Find the primary source for the claim that the parents turned Robinson in and check it against the probable-cause documents.",
       "transcript_snippet": "They have not produced any proof of that, and I tried and made a great effort to explain to Andrew Wilson where he got that from.",
@@ -2313,7 +2377,9 @@
       "related_nodes": [
         "N-10022"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:06",
       "investigative_direction": "Read the charging document and probable-cause statement for the sourcing of the identification and the parents' statements.",
       "transcript_snippet": "we cannot tell from the charging document, which seems to be the basis for all of those rumors, whether or not they heard that from Mike Mitchell",
@@ -2335,7 +2401,9 @@
       "related_nodes": [
         "N-10022"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:06",
       "investigative_direction": "Obtain Brooksby's original statement or interview and its date.",
       "transcript_snippet": "Sheriff Brooksby was like, \"I got a call from Mike Mitchell saying that, you know, Tyler Robinson was the guy.\"",
@@ -2360,7 +2428,9 @@
       "related_nodes": [
         "N-10022"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:06",
       "investigative_direction": "Establish from the sheriff's statement and affidavits who accompanied Robinson to the sheriff's office and who visited the family first.",
       "transcript_snippet": "And then we have Mike Mitchell being the one who went over to the parents' house.",
@@ -2378,7 +2448,9 @@
       "related_nodes": [
         "N-10022"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:06",
       "investigative_direction": "Seek on-record confirmation from the Robinson family or counsel of what Matt Robinson said and when.",
       "transcript_snippet": "I had a source uh within the Robinson family orbit who was very clear on this, that it was not true, that Matt Robinson did not think his son was guilty",
@@ -2387,7 +2459,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-791",
+        "N-790",
         "N-126"
       ]
     },
@@ -2401,12 +2473,14 @@
       "related_nodes": [
         "N-10022"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:06",
       "investigative_direction": "Pull the charging document and confirm the signing prosecutor.",
       "transcript_snippet": "and the charging document rather, which was signed off by Brian Davis.",
       "mentions_person_refs": [
-        "N-802"
+        "N-801"
       ]
     },
     {
@@ -2421,7 +2495,9 @@
       "related_nodes": [
         "N-10151"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:32",
       "investigative_direction": "Verify Mitchell's scouting role and undercover assignments from employment records and the cited 1999 reporting.",
       "transcript_snippet": "Mike Mitchell is not just his Boy Scout leader. He's not just the former police officer, undercover police officer, and all the evidence points to the fact that he did work undercover in sex crimes",
@@ -2445,7 +2521,9 @@
       "related_nodes": [
         "N-10151"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:32",
       "investigative_direction": "Confirm Mitchell's church role through church records or public listings.",
       "transcript_snippet": "but he is also a minister at the Mormon Church.",
@@ -2465,7 +2543,9 @@
       "related_nodes": [
         "N-10022"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:06",
       "investigative_direction": "Compare the host's earlier episodes on Mitchell with the Trump clip.",
       "transcript_snippet": "and I had not even seen that, and I had told you guys this exact same narrative.",
@@ -2490,12 +2570,14 @@
       "related_nodes": [
         "N-11146"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:06",
       "investigative_direction": "Verify the full Piker stream and whether the host's account blocked him.",
       "transcript_snippet": "I can't like her tweets cuz she blocked me many, many years ago. This is before she became our hero.",
       "mentions_person_refs": [
-        "N-800",
+        "N-799",
         "N-3"
       ]
     },
@@ -2511,13 +2593,15 @@
       "related_nodes": [
         "N-11146"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:06",
       "investigative_direction": "Obtain the Zadrozny article and compare its wording with the host's paraphrase.",
       "transcript_snippet": "the running themes of what we are seeing in Brandi Zadrozny's article is that essentially they are saying Candace ruined an opportunity to pin this on the left",
       "mentions_person_refs": [
         "N-3",
-        "N-803"
+        "N-802"
       ]
     },
     {
@@ -2532,7 +2616,9 @@
       "related_nodes": [
         "N-10324"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:06",
       "investigative_direction": "Check polling and reporting on Republican division over the Epstein files at the time.",
       "transcript_snippet": "after Republicans were kind of fractured because people actually care about pedophilia on the right. The Epstein files mattered.",
@@ -2551,7 +2637,9 @@
       "related_nodes": [
         "N-10324"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:19",
       "investigative_direction": "Collect the campaign and administration statements on releasing the Epstein files.",
       "transcript_snippet": "Here's what we're going to do with the Epstein files, Kash Patel. His administration was running on something that we cared about.",
@@ -2570,7 +2658,9 @@
       "claim": "The host says she pursued truth for her friend Charlie Kirk to know who killed him, and is not convinced the killing had anything to do with LGBTQ rights.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:19",
       "investigative_direction": "Compare against the motive evidence in the prosecution's filings.",
       "transcript_snippet": "And I am not convinced this had anything to do with LGBTQ rights.",
@@ -2589,13 +2679,15 @@
       "related_nodes": [
         "N-11147"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:37:19",
       "investigative_direction": "Review the January 6 investigation findings on any federal informants or provocateurs.",
       "transcript_snippet": "we had an event that could potentially, I'll say allegedly, be coordinated by the Feds, which was meant to cause a left-right war.",
       "mentions_person_refs": [
         "N-3",
-        "N-800"
+        "N-799"
       ]
     },
     {
@@ -2608,7 +2700,9 @@
       "related_nodes": [
         "N-11147"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:38:37",
       "investigative_direction": "Review court records and inspector general findings on January 6 arrests and any official encouragement.",
       "transcript_snippet": "And people were wrongly arrested. People who were encouraged to go into the capital on that day.",
@@ -2626,7 +2720,9 @@
       "related_nodes": [
         "N-11147"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:38:37",
       "investigative_direction": "This is a sweeping assertion recorded as said; no single record confirms or refutes it.",
       "transcript_snippet": "a very powerful minority who doesn't actually care about left or right, to seize power from citizens, full stop, by allowing something terrible to take place",
@@ -2642,7 +2738,9 @@
       "claim": "The host says she cares about what happened on September 10th because her friend was killed and she has the sense that people are being lied to about it, particularly by the federal government.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:37",
       "investigative_direction": "Identify the specific federal statements the host considers false and test them against the case record.",
       "transcript_snippet": "I have the sense that we are being lied to about it, particularly by the federal government.",
@@ -2659,7 +2757,9 @@
       "claim": "The host says she is still conservative but has issues with calling herself Republican.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:40:50",
       "investigative_direction": "None needed beyond the host's own statements.",
       "transcript_snippet": "I am still conservative. Um I have issues with calling myself Republican.",
@@ -2675,7 +2775,9 @@
       "claim": "The host says there is so much corruption and Satanism on both sides, Democrats and Republican, among a minor few who rule over people.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:40:50",
       "investigative_direction": "This is a sweeping assertion recorded as said; the host names no evidence here.",
       "transcript_snippet": "I just think there's so much corruption and there's Satanism um on both sides.",
@@ -2695,7 +2797,9 @@
       "related_nodes": [
         "N-10810"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:12",
       "investigative_direction": "Seek the legal standard for evidence tampering and who owned the SD cards and cameras.",
       "transcript_snippet": "I will say I don't know that. I can't I cannot assert that. I can just show everyone what happened",
@@ -2714,7 +2818,9 @@
       "related_nodes": [
         "N-10810"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:12",
       "investigative_direction": "Obtain SBI correspondence showing the date and content of the first Google link and compare with the September 10 transmissions.",
       "transcript_snippet": "when you had already sent a Google link to the SBI and and why pretend that you don't know how to send a big file when you had already sent that Google link over 8 days earlier.",
@@ -2739,7 +2845,9 @@
       "related_nodes": [
         "N-10799"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:29",
       "investigative_direction": "Compare the full back-camera view with what was given to the SBI.",
       "transcript_snippet": "I think that is why the footage was really important. I don't think that that footage mattered so much otherwise.",
@@ -2760,7 +2868,9 @@
       "related_nodes": [
         "N-10799"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:29",
       "investigative_direction": "Obtain the statement and the file metadata for each video provided to the SBI.",
       "transcript_snippet": "it tells you how long the videos that he gave were and all of them are 26 minutes plus some seconds except for one of them which is 23 minutes.",
@@ -2780,7 +2890,9 @@
       "claim": "The host says she actually lived in Dubrovnik, Croatia, for a couple of months, back when she worked in private equity.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:47:23",
       "investigative_direction": "Not related to the case; a biographical remark recorded as said.",
       "transcript_snippet": "Actually lived there for a couple of months randomly in Dubrovnik. Back when I worked in private equity.",
@@ -2796,7 +2908,9 @@
       "claim": "The host says she did Dave Smith's show the day before.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:48:21",
       "investigative_direction": "Locate the Dave Smith episode and its air date.",
       "transcript_snippet": "I even did um Dave's show yesterday, Dave Smith's show.",
@@ -2813,7 +2927,9 @@
       "claim": "The host says she did not spend time watching Andrew Wilson's previous debates and instead prepared arguments for what she thought they would debate.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:21",
       "investigative_direction": "Cross-check with the host's earlier account of her debate preparation.",
       "transcript_snippet": "I obviously you guys know I didn't spend time watching uh all of his previous stuff and debates.",
@@ -2832,7 +2948,9 @@
       "related_nodes": [
         "N-11091"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:48:21",
       "investigative_direction": "Find the Where Forbidden video and the merchandise listing.",
       "transcript_snippet": "you can also support us by buying the stop anti-Candacism bug, which was featured in the Wear Forbidden Debate Trix video.",
@@ -2850,7 +2968,9 @@
       "related_nodes": [
         "N-10544"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:50:06",
       "investigative_direction": "The host says she has not explored the theory; no record is cited.",
       "transcript_snippet": "I don't think he is. I think when all that stuff was happening, he was probably hiding and being a coward and using AI.",
@@ -2869,7 +2989,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:50:06",
       "investigative_direction": "Collect TPUSA statements threatening or implying litigation.",
       "transcript_snippet": "they have just been so heavily heavily implying that they want to sue me.",
@@ -2887,7 +3009,9 @@
       "related_nodes": [
         "N-10741"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:50:58",
       "investigative_direction": "Compare search and social metrics for the two events.",
       "transcript_snippet": "The world is is much more up to date and speaking about the details of the Charlie Kirk case than they ever were about Sandy Hook.",
@@ -2908,7 +3032,9 @@
       "related_nodes": [
         "N-10795"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:51:49",
       "investigative_direction": "Check whether Wilson published the promised message and when.",
       "transcript_snippet": "Did Andrew Wilson release the proof text yet? It's been 3 days or did he lose the SIM card in the phone that he had the proof in?",
@@ -2929,7 +3055,9 @@
       "claim": "The host says it is the last episode before she goes away with her husband for their anniversary, that the show takes every sixth week off, and that book club is the next day.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:52:29",
       "investigative_direction": "Check the episode schedule for the following week.",
       "transcript_snippet": "it's our anniversary and also we just take every sixth week off so that we can regroup or study",

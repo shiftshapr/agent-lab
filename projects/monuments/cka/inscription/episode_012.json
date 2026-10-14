@@ -293,7 +293,7 @@
           "related_nodes": [
             "N-133",
             "N-61",
-            "N-799"
+            "N-798"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -870,8 +870,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-799",
-      "ref": "N-799",
+      "@id": "N-798",
+      "ref": "N-798",
       "name": "Mike Lee",
       "type": "person",
       "description": "US Senator from Utah; first named in A-1192.2.",
@@ -1838,7 +1838,9 @@
         "N-10056",
         "N-10047"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Identify the specific people and statements the host means and compare their pre-September 10 conduct toward Kirk with their post-assassination tributes.",
       "transcript_snippet": "the very people who were threatening him reputationally and financially are now trying to memorialize him as having died as a friend of Israel.",
@@ -1857,7 +1859,9 @@
       "related_nodes": [
         "N-10147"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Obtain Shainer Broderick's original posts describing the two companions and the retrace video, and archive them before further deletion.",
       "transcript_snippet": "yesterday we asked for the public's help in identifying two individuals who Phil Lyman's nephew described as his close friends who decided to retrace the path of Charlie's killer.",
@@ -1880,7 +1884,9 @@
         "N-10000",
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:30",
       "investigative_direction": "Establish who supplied the letter to the Prime Minister's office and to the press, and whether anyone at Turning Point USA coordinated its release.",
       "transcript_snippet": "It took him a little over 2 weeks but now BB Netanyahu, with maybe a little help from Turning Point USA I'm thinking, is releasing the letter",
@@ -1903,7 +1909,9 @@
         "N-10006",
         "N-10144"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:39",
       "investigative_direction": "Locate the Fox News interview and compare Lyman's stated arrival time with the doorbell-camera footage of his vehicle.",
       "transcript_snippet": "20 minutes before I pulled into the driveway, my aunt's house and I parked my car and then 20 minutes later the killer killer was limping by.",
@@ -1924,7 +1932,9 @@
       "related_nodes": [
         "N-10144"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:39",
       "investigative_direction": "Identify which outlets published Broderick's map and how he determined the route.",
       "transcript_snippet": "Shainer even created a map where exactly the killer walked and the media used his map.",
@@ -1944,7 +1954,9 @@
       "related_nodes": [
         "N-10144"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:03:35",
       "investigative_direction": "Obtain the text exchange between the host and Lyman, and ask Nick how he described his relationship to the campaign.",
       "transcript_snippet": "Phil would like me to clarify that Nick never worked on his campaign and by the way, I looked back and that was actually my mistake, not Nick's.",
@@ -1966,7 +1978,9 @@
       "related_nodes": [
         "N-10144"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:45",
       "investigative_direction": "Ask Nick and Lyman what, if anything, Lyman learned about the white vehicle and why that was a reason to visit on that Saturday.",
       "transcript_snippet": "Nick was particularly asking him to determine who owned a white vehicle that was parked in the neighborhood which was nearby where the shooter had walked.",
@@ -1989,7 +2003,9 @@
       "related_nodes": [
         "N-11167"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:45",
       "investigative_direction": "Ask Ballard and Lyman whether they met that Saturday and for what purpose; compare with any public schedule.",
       "transcript_snippet": "I am told according to a very strong source that what Phil Lyman was doing in town on Saturday was he was meeting with Tim Ballard.",
@@ -2010,7 +2026,9 @@
         "N-11167",
         "N-10086"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:58",
       "investigative_direction": "Identify the plane's owners from FAA records and find the image or report of the t-shirt that the host recalls.",
       "transcript_snippet": "the individuals that owned that plane were wearing an Operation Underground Railroad t-shirt.",
@@ -2031,7 +2049,9 @@
       "related_nodes": [
         "N-10144"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:43",
       "investigative_direction": "Obtain Lyman family records or public genealogy showing the relationship; compare with Broderick's earlier posts.",
       "transcript_snippet": "Actually maybe Shainer's confused.",
@@ -2054,13 +2074,15 @@
         "A-1192.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:43",
       "investigative_direction": "Confirm the internship dates with Senator Lee's office and whether the Lyman relationship was listed in the application.",
       "transcript_snippet": "chosen for an internship with Senator Mike Lee of Utah.",
       "mentions_person_refs": [
         "N-133",
-        "N-799",
+        "N-798",
         "N-61"
       ]
     },
@@ -2074,7 +2096,9 @@
       "related_nodes": [
         "N-10147"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:30",
       "investigative_direction": "Retrieve archived copies of the deleted pages and note the dates of deletion relative to the host's outreach.",
       "transcript_snippet": "He's also completely wiped his Facebook page entirely. And regarding his Instagram, he's privatized it but he privatized it and then removed all of the photos of his investigation",
@@ -2095,7 +2119,9 @@
       "related_nodes": [
         "N-10147"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:30",
       "investigative_direction": "Obtain the text thread showing each request and Lyman's replies.",
       "transcript_snippet": "I asked Phil Lyman three times via text whether or not he could help us, more importantly, identify the two individuals that were in the photo with his nephew or cousin",
@@ -2117,7 +2143,9 @@
       "related_nodes": [
         "N-10147"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:25",
       "investigative_direction": "Obtain the text thread with Lyman and ask Broderick who the two companions were.",
       "transcript_snippet": "And then finally he said that he had no idea who those two individuals were at all.",
@@ -2136,7 +2164,9 @@
       "related_nodes": [
         "N-10147"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:25",
       "investigative_direction": "Review the tip-line log to confirm no identification arrived and test whether the two are from outside the United States.",
       "transcript_snippet": "no one emailed us to say that they knew either of those two individuals, neither the blonde that's with Shainer or the person that is wearing the blue hat",
@@ -2155,7 +2185,9 @@
       "related_nodes": [
         "N-10147"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:25",
       "investigative_direction": "Compare the blue-hat man's height and build with the blurred stairs frame and with Robinson using a calibrated photogrammetric comparison.",
       "transcript_snippet": "He kind of resembles certainly more so than Tyler Robinson does, the blurred image of the individual that was coming up the stairs.",
@@ -2176,7 +2208,9 @@
       "related_nodes": [
         "N-10147"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:47",
       "investigative_direction": "Verify Gernot Omer's nationality and Utah residency through public records and his employer.",
       "transcript_snippet": "We were able to identify one of those individuals in the photo and he is Austrian.",
@@ -2200,7 +2234,9 @@
       "related_nodes": [
         "N-10146"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:29",
       "investigative_direction": "Review the Alex Jones segment to determine whether Lyman himself drew that implication.",
       "transcript_snippet": "suggesting that {quote} {unquote} gothic girls might have been suspicious that they maybe could have been responsible or aware at least that the shooting was going to occur.",
@@ -2224,7 +2260,9 @@
       "related_nodes": [
         "N-10146"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:20",
       "investigative_direction": "Run audio analysis on the original file to count discrete shots and compare with the shot count in other recordings.",
       "transcript_snippet": "gratefully, Phil Lyman did send us footage of him after the shots rang out and I am saying shots plural for a reason because we will show you that video.",
@@ -2245,7 +2283,9 @@
       "related_nodes": [
         "N-10146"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:20",
       "investigative_direction": "Obtain the full Alex Jones interview and ask Lyman who told him about the video and which route he meant.",
       "transcript_snippet": "Well, that's not the story that came was that he that he escaped another route. And there's there are people who are coordinating this thing.",
@@ -2267,7 +2307,9 @@
         "N-10146",
         "N-10180"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:16",
       "investigative_direction": "Compare Lyman's statement with the official account of where the rifle was recovered and with the evidence logs.",
       "transcript_snippet": "I do not believe that that.30-06 that they showed recovered in the bushes was ever on the roof.",
@@ -2289,7 +2331,9 @@
       "related_nodes": [
         "N-10146"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:40",
       "investigative_direction": "Obtain the NewsNation segment and compare with Lyman's Alex Jones account of where the shot came from.",
       "transcript_snippet": "in hindsight, I think it was probably above me on the roof.",
@@ -2309,7 +2353,9 @@
       "related_nodes": [
         "N-10146"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:46",
       "investigative_direction": "Review the original video with clean audio to establish the order of the remark and the conversation.",
       "transcript_snippet": "When he hears them say something about FU, it's before he has a conversation with him.",
@@ -2329,7 +2375,9 @@
       "related_nodes": [
         "N-10146"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:35",
       "investigative_direction": "Obtain enhanced audio of the exchange and, if possible, identify the two people to ask what they heard.",
       "transcript_snippet": "So he says, \"Did you see where that came from?\" It seems like a normal conversation.",
@@ -2352,7 +2400,9 @@
       "related_nodes": [
         "N-10147"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:58",
       "investigative_direction": "Have an independent facial examiner compare the two images and identify the person named on the Buzzard and Bees page.",
       "transcript_snippet": "I am certain can't say 100%, okay? Because we need to find this person's name, but this is a match, okay?",
@@ -2374,7 +2424,9 @@
         "N-10094",
         "N-10141"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:53",
       "investigative_direction": "Verify with LDS Church and Scouting records whether the Mike Mitchell involved in the case holds a Scout leadership role.",
       "transcript_snippet": "he's a Boy Scout leader uh in the LDS church",
@@ -2394,7 +2446,9 @@
         "N-10141",
         "N-10151"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:53",
       "investigative_direction": "Obtain Mitchell's service record to reconcile a 1999 start with a 1999 article saying he had already worked internet cases for about a year.",
       "transcript_snippet": "he was on the force for 25 years. This individual began his career in 1999.",
@@ -2417,7 +2471,9 @@
         "N-10151",
         "N-10032"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:45",
       "investigative_direction": "Establish what the fake bed messages were and who had authorship access, then test any link to Mitchell by records.",
       "transcript_snippet": "Just because he's creating messages online first and foremost doesn't necessarily mean that he's the person that authored the fake bed messages",
@@ -2439,7 +2495,9 @@
       "related_nodes": [
         "N-10032"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:45",
       "investigative_direction": "Pull the court filings and charging documents for Zinn's arrest and the device evidence.",
       "transcript_snippet": "he gets arrested because he has children being sexually abused on his phone, absolutely despicable person",
@@ -2461,7 +2519,9 @@
       "related_nodes": [
         "N-10032"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:45",
       "investigative_direction": "Examine Zinn's phone, court filings and any police interview for evidence of coercion before or during the decoy episode.",
       "transcript_snippet": "whether or not he had been blackmailed in some capacity to play the decoy boy and to give the shooter time to get away.",
@@ -2480,7 +2540,9 @@
       "related_nodes": [
         "N-10147"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:38",
       "investigative_direction": "Search overseas social media and gothic-scene networks for the Provo prom attendee, and obtain the Buzzard and Bees page history.",
       "transcript_snippet": "I would I would venture a guess that he is not from Utah because I've never seen uh no hits come in",
@@ -2500,7 +2562,9 @@
       "related_nodes": [
         "N-10147"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:38",
       "investigative_direction": "Review the tip-line inbox for submissions naming the goth person, and log any that can be verified independently.",
       "transcript_snippet": "that's what I want you to focus your attention on, tips@candaceowens. com.",
@@ -2518,7 +2582,9 @@
       "related_nodes": [
         "N-10048"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:32",
       "investigative_direction": "Identify the specific advisers and decisions she suggests were part of a betrayal, and the documents that would show them.",
       "transcript_snippet": "I'm starting to think that the assassination of Charlie Kirk uh was something akin to a regicide, right?",
@@ -2539,7 +2605,9 @@
       "related_nodes": [
         "N-10103"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:21",
       "investigative_direction": "Check autopsy and clothing evidence for any body armor, and the footage of Charlie before the event.",
       "transcript_snippet": "even though I don't think he was actually wearing a bullet vest on that day.",
@@ -2563,7 +2631,9 @@
         "N-11217",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:10",
       "investigative_direction": "Obtain the tour schedule and booking correspondence for both campuses showing who proposed the dates.",
       "transcript_snippet": "why Charlie was set to do two events in Utah a mere 20 days apart, okay? He was supposed to do UVU, and then today was scheduled to do, just 20 days later, USU.",
@@ -2582,7 +2652,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:10",
       "investigative_direction": "Compare earlier tour schedules for other states to test whether back-to-back scheduling is the norm.",
       "transcript_snippet": "If you're going to do uh two stops in one state, they make it happen back-to-back",
@@ -2600,7 +2672,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:04",
       "investigative_direction": "Corroborate the host's past tour participation with archived tour schedules and appearances.",
       "transcript_snippet": "I have toured with them every year with the exception of this year",
@@ -2620,7 +2694,9 @@
         "N-10149",
         "N-10156"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:04",
       "investigative_direction": "Obtain trauma-center designations and drive-time data from the campus to the candidate hospitals, plus the EMS run sheet.",
       "transcript_snippet": "the hospital that Charlie was taken to is not the closest hospital and it also would not have been the number one choice hospital",
@@ -2640,7 +2716,9 @@
         "N-11218",
         "N-10149"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:55",
       "investigative_direction": "Confirm the date and press release of the CEO announcement and his appointment dates.",
       "transcript_snippet": "that hospital had just announced that they had a a brand new CEO and had surgeon named Andrew Zenger.",
@@ -2659,7 +2737,9 @@
       "related_nodes": [
         "N-10840"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:55",
       "investigative_direction": "Check Utah event-safety rules and the event permit for medical-standby requirements, and ask UVU whether an ambulance was present.",
       "transcript_snippet": "that there wouldn't have been an ambulance on standby.",
@@ -2678,7 +2758,9 @@
         "N-11218",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:30:55",
       "investigative_direction": "Compare the hospital's press release date with the tour announcement date.",
       "transcript_snippet": "that was also the day that they announced Charlie's tour. They announced five dates and two of them were in Utah",
@@ -2701,7 +2783,9 @@
         "N-10076",
         "N-10192"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:40",
       "investigative_direction": "Compare the camera-removal timing with the video timeline and obtain the footage showing it.",
       "transcript_snippet": "the individual who I told you guys that I recognized had taken down the cameras minute, what was it, minute four after Charlie was shot",
@@ -2724,7 +2808,9 @@
       "related_nodes": [
         "N-10192"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:40",
       "investigative_direction": "Establish the man's assigned role at the event and review stage footage of his position.",
       "transcript_snippet": "I thought it was weird that he was there in general, actually, that he was behind Charlie the entire time.",
@@ -2745,7 +2831,9 @@
       "related_nodes": [
         "N-10192"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:40",
       "investigative_direction": "Obtain the footage of the call and, through lawful process, the call record to identify the recipient.",
       "transcript_snippet": "the mysterious phone call that he was seen making in like minute three after Charlie, uh, was assassinated",
@@ -2766,7 +2854,9 @@
         "N-10908",
         "N-10076"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:40",
       "investigative_direction": "Ask TPUSA what the new AV setup was, where the feed went, and whether the feed was recorded.",
       "transcript_snippet": "Charlie's super ambitious and on the AVs thing, they were trying something new and they wanted to be able to feed it back instantly, uh, to Arizona.",
@@ -2785,7 +2875,9 @@
         "N-10056",
         "N-10148"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:44",
       "investigative_direction": "Gather Kirk's private messages, donor communications and on-air statements from 2025 showing his position.",
       "transcript_snippet": "Charlie Kirk's perspective on Israel was not starting to shift, it had shifted entirely, okay?",
@@ -2805,7 +2897,9 @@
         "N-10000",
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:44",
       "investigative_direction": "Ask TPUSA staff who heard Kirk state his position and whether any statements were recorded.",
       "transcript_snippet": "Israel knew that. Turning Point USA knew that because Charlie was explicit.",
@@ -2826,7 +2920,9 @@
       "related_nodes": [
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:37",
       "investigative_direction": "Obtain the letter and compare the number given with Kirk's known numbers and with Netanyahu's contact records.",
       "transcript_snippet": "Netanyahu said they were close, but in the letter, Charlie puts his number, which apparently Netanyahu didn't have his number.",
@@ -2851,7 +2947,9 @@
       "related_nodes": [
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:37",
       "investigative_direction": "Request the original message with headers or the postal record from the Prime Minister's office or TPUSA.",
       "transcript_snippet": "Can somebody clarify, was that an email they were sharing or did he send it in the mail to him?",
@@ -2871,7 +2969,9 @@
         "N-10000",
         "N-10047"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:21",
       "investigative_direction": "Ask the host for the basis of her knowledge and cross-check with TPUSA donor and board correspondence.",
       "transcript_snippet": "I think the same people that were pressuring Charlie are pressuring them. In fact, I know that for a fact.",
@@ -2891,7 +2991,9 @@
         "N-10000",
         "N-10148"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:21",
       "investigative_direction": "Monitor TPUSA statements for any explicit denial or confirmation.",
       "transcript_snippet": "I'm going to challenge Turning Point USA executives to issue a very clean statement saying that I am lying if this is not true.",
@@ -2910,7 +3012,9 @@
         "N-10148",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:10",
       "investigative_direction": "Identify the staff, donors and rabbi present and obtain contemporaneous notes, messages or testimony.",
       "transcript_snippet": "About 48 hours before Charlie Kirk died, Charlie informed people at Turning Point, as well as Jewish donors and a rabbi, that he had no choice but to abandon the pro-Israel cause outright",
@@ -2930,7 +3034,9 @@
         "N-10047",
         "N-10106"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:10",
       "investigative_direction": "Seek witnesses and recordings of the statement and compare with Kirk's earlier remarks on donor pressure.",
       "transcript_snippet": "He said it explicitly that he refused to be bullied anymore by the Jewish donors.",
@@ -2949,7 +3055,9 @@
       "related_nodes": [
         "N-10148"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:10",
       "investigative_direction": "Obtain any scheduling or communications between Kirk and the host about a joint appearance.",
       "transcript_snippet": "just 48 hours later, conveniently catch a bullet to the throat before our on-stage reunion could happen?",
@@ -2968,7 +3076,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:42",
       "investigative_direction": "Identify the payday referred to and review TPUSA funding and donor pledges around September 2025.",
       "transcript_snippet": "unless, as I am hearing, unless it is true that there was a big, big, big payday that was on the line.",
@@ -2987,7 +3097,9 @@
         "N-10056",
         "N-10047"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:40",
       "investigative_direction": "Gather Kirk's statements and communications from the weeks before his death showing the pressure described.",
       "transcript_snippet": "In fact, the friends of Israel were pressuring him really badly and he was done and he finally stood up for himself",
@@ -3004,7 +3116,9 @@
       "claim": "The host says Laura Loomer is funded by one of Charlie's donors, Bob Shuman, who then did a 180 and is now pretending she is morally fighting the host to stop research into the murder.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:32",
       "investigative_direction": "Check disclosed contributions and employment ties between Bob Shuman and Loomer, and any change in his stance toward the host.",
       "transcript_snippet": "and she's funded by the one of Charlie's donors, Bob Shuman, who then does a 180 and is now pretending that she is morally fighting me to stop researching into Charlie's murder",
@@ -3023,7 +3137,9 @@
       "claim": "The host says that a couple of days before Charlie Kirk died, Laura Loomer was calling her anti-Semitic.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:32",
       "investigative_direction": "Locate Loomer's posts from September 7 to 9, 2025 and their timing relative to Kirk's death.",
       "transcript_snippet": "a couple of days before Charlie Kirk died, someone like Laura Loomer is calling me anti-Semite",
@@ -3045,7 +3161,9 @@
       "related_nodes": [
         "N-10025"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:23",
       "investigative_direction": "Identify any contracts or Foreign Agents Registration Act filings tying creators to an agent of Israel.",
       "transcript_snippet": "People that are accepting money through an agent of Israel somehow.",
@@ -3063,7 +3181,9 @@
       "related_nodes": [
         "N-10115"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:44:16",
       "investigative_direction": "No concrete record is cited; ask the host for the organizations and documents she means.",
       "transcript_snippet": "There is a real underground. It is a communist underground.",
@@ -3079,7 +3199,9 @@
       "claim": "The host says that she has started homeschooling her kids, that it began this week and has been two days.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:45:10",
       "investigative_direction": "Personal statement; no record needed beyond the host's own account.",
       "transcript_snippet": "I'm waking up and I'm homeschooling my kids.",
@@ -3099,7 +3221,9 @@
       "related_nodes": [
         "N-10180"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:10",
       "investigative_direction": "Have a forensic ballistics expert review the wound and autopsy record to say whether keyholing or internal deflection is consistent.",
       "transcript_snippet": "Keyholing is if the bullet is too slow and tumbles and has external impact.",
@@ -3120,7 +3244,9 @@
       "related_nodes": [
         "N-10085"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:56",
       "investigative_direction": "Obtain the autopsy report and medical records and compare with the paralysis narrative.",
       "transcript_snippet": "the idea that Charlie was paralyzed when he died ends today.",
@@ -3139,7 +3265,9 @@
       "related_nodes": [
         "N-10147"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:25",
       "investigative_direction": "Identify the person via the Buzzard and Bees prom organizers and attendee lists.",
       "transcript_snippet": "We are still working to identify our goth suspect. It is not the girl who's wearing black, but rather the person that was in the photos with nephew cousin Broderick.",
@@ -3163,7 +3291,9 @@
       "related_nodes": [
         "N-10147"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:25",
       "investigative_direction": "Review incoming tips for any naming the person pictured in the Buzzard and Bees prom page.",
       "transcript_snippet": "If you know something, please send us tips@candaceowens. com.",
@@ -3181,7 +3311,9 @@
       "related_nodes": [
         "N-10085"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:25",
       "investigative_direction": "Await the follow-up episode and compare with the autopsy and medical records.",
       "transcript_snippet": "Some other stuff that I've been holding close to my chest about where we are hearing uh Charlie's wounds were.",

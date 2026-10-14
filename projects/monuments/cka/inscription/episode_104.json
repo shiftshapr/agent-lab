@@ -40,8 +40,8 @@
             "N-10923",
             "N-2",
             "N-163",
-            "N-634",
-            "N-635"
+            "N-633",
+            "N-634"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -169,7 +169,7 @@
             "C-4097"
           ],
           "related_nodes": [
-            "N-624",
+            "N-623",
             "N-217",
             "N-3"
           ],
@@ -205,7 +205,7 @@
             "C-4099"
           ],
           "related_nodes": [
-            "N-624",
+            "N-623",
             "N-217",
             "N-3",
             "N-1"
@@ -255,7 +255,7 @@
           "related_nodes": [
             "N-82",
             "N-387",
-            "N-637",
+            "N-636",
             "N-10928"
           ],
           "tags": [],
@@ -445,7 +445,7 @@
       "@type": "Person",
       "@id": "N-15",
       "ref": "N-15",
-      "name": "Justin Strife",
+      "name": "Justin Streiff",
       "type": "person",
       "description": "Transcript spellings \"Justin Strife\" and \"Justin Streiff\" (chapter title). TPUSA COO promoted seven days before the assassination. He allegedly called \"Pierre\" and a book printer on September 10 and also runs Winning Team Publishing.",
       "related_artifacts": [
@@ -962,8 +962,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-634",
-      "ref": "N-634",
+      "@id": "N-633",
+      "ref": "N-633",
       "name": "Ryan Rippeon",
       "type": "person",
       "description": "First named by the host at 00:04:55 in episode 104. Named as copied on the White House Military Office email.",
@@ -981,8 +981,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-635",
-      "ref": "N-635",
+      "@id": "N-634",
+      "ref": "N-634",
       "name": "Gustav Anderly",
       "type": "person",
       "description": "First named by the host at 00:04:55 in episode 104. Copied on the email; described as information systems manager at the White House Communications Agency in Arlington, Virginia.",
@@ -1001,8 +1001,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-636",
-      "ref": "N-636",
+      "@id": "N-635",
+      "ref": "N-635",
       "name": "Jared Isaacman",
       "type": "person",
       "description": "First named by the host at 00:22:23 in episode 104. Described as Elon Musk's pick whose appointment Sergio Gor allegedly blocked.",
@@ -1018,8 +1018,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-624",
-      "ref": "N-624",
+      "@id": "N-623",
+      "ref": "N-623",
       "name": "Jessica Reed Kraus",
       "type": "person",
       "description": "First named by the host at 00:29:22 in episode 104. Writer whose posts relayed praise from Nick Shirley's teachers. Aliases: Jessica Reed Krauss; House and Drinking Habit.",
@@ -1039,8 +1039,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-637",
-      "ref": "N-637",
+      "@id": "N-636",
+      "ref": "N-636",
       "name": "Golshifteh Farahani",
       "type": "person",
       "description": "First named by the host at 00:35:22 in episode 104. Exiled Iranian actress named in the Times account of the Macron slap. Aliases: Gosh Farani; Gosh Fani; Farhani; Verahani; Verhani.",
@@ -1086,8 +1086,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-163",
-        "N-634",
-        "N-635"
+        "N-633",
+        "N-634"
       ]
     },
     {
@@ -1211,7 +1211,7 @@
       "related_nodes": [
         "N-82",
         "N-387",
-        "N-637"
+        "N-636"
       ]
     },
     {
@@ -1400,8 +1400,8 @@
       "transcript_snippet": "Uh Steven Cheung was copied on the email. Um, Ryan Ripian was copied on the email and gentleman named Gustav Anderly was copied on the email.",
       "mentions_person_refs": [
         "N-163",
+        "N-633",
         "N-634",
-        "N-635",
         "N-3"
       ]
     },
@@ -1422,7 +1422,7 @@
       "investigative_direction": "Verify Gustav Anderly's title through White House Communications Agency staff directories or public profiles.",
       "transcript_snippet": "it just says he's the information systems manager um at the White House communications agency in Arlington, Virginia.",
       "mentions_person_refs": [
-        "N-635"
+        "N-634"
       ]
     },
     {
@@ -1885,7 +1885,7 @@
       "mentions_person_refs": [
         "N-16",
         "N-119",
-        "N-636",
+        "N-635",
         "N-5"
       ]
     },
@@ -1972,7 +1972,7 @@
       "investigative_direction": "Archive the post with its date and URL.",
       "transcript_snippet": "Two of Nick Shirley's elementary school teachers reached out to me recently to praise Nick, recounting what a smart, sweet, kind kid he was throughout his early years.",
       "mentions_person_refs": [
-        "N-624",
+        "N-623",
         "N-217"
       ]
     },
@@ -2013,7 +2013,7 @@
       "investigative_direction": "Archive the post and any screenshots of the DMs it includes.",
       "transcript_snippet": "It's why Candace Owens is targeting him now. Nick is wildly respected. wildly widely respected, pardon me, among conservative media, carrying forward what Charlie Kirk led",
       "mentions_person_refs": [
-        "N-624",
+        "N-623",
         "N-217",
         "N-3",
         "N-1"
@@ -2060,7 +2060,7 @@
       "mentions_person_refs": [
         "N-82",
         "N-387",
-        "N-637"
+        "N-636"
       ]
     },
     {

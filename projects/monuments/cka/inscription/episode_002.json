@@ -2074,7 +2074,9 @@
       "related_nodes": [
         "N-10018"
       ],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:16:06",
       "investigative_direction": "Cross-reference Netanyahu's Fox News statement with text messages from that period.",
       "transcript_snippet": "It was at this time that BB Netanyahu was called and Charlie was invited to Israel.",
@@ -2237,7 +2239,9 @@
       "related_nodes": [
         "N-10024"
       ],
-      "tags": [],
+      "tags": [
+        "open_source_investigation"
+      ],
       "claim_timestamp": "00:42:47",
       "investigative_direction": "Cross-reference official timeline and autopsy report.",
       "transcript_snippet": "At 12:23 p.m. is when Charlie Kirk is shot.",
@@ -2451,7 +2455,9 @@
       "claim": "The host says that, because of her anger over how people are speaking for Charlie Kirk, she had to speak with a priest and go to confession.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:03:19",
       "investigative_direction": "Identify the priest only if the host volunteers it; otherwise treat as a personal statement with no document to check.",
       "transcript_snippet": "It has taken much restraint and prayer and I had to speak with a priest.",
@@ -2468,7 +2474,9 @@
       "claim": "The host says that, after scrolling through her messages with Charlie Kirk and rewatching videos of them dancing to the song Power, she felt it appropriate to reach out to Kanye West (\"Yay\") about the song.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:03:51",
       "investigative_direction": "Ask the host to show the message to Kanye West and any reply; compare with her later accounts of contact with West.",
       "transcript_snippet": "it felt appropriate to uh to reach out to to Yay speaking about things,",
@@ -2488,7 +2496,9 @@
       "related_nodes": [
         "N-10005"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:44",
       "investigative_direction": "Locate the earlier episode where the host first hinted at the transformation and the attacks she cites; document what Kirk said or did that she treats as evidence.",
       "transcript_snippet": "I told you guys that uh Charlie was going through a spiritual transformation at the end and all of the usual suspects were really angry that I hinted towards that.",
@@ -2507,7 +2517,9 @@
         "A-3091.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:05:09",
       "investigative_direction": "Obtain the full text thread with date stamps to confirm the lyrics were exchanged and that Kirk named them his favorite.",
       "transcript_snippet": "Charlie's favorite portion of the song. I'll show you the text between him and I because this feels very relevant right now.",
@@ -2526,7 +2538,9 @@
       "related_nodes": [
         "N-10025"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:00",
       "investigative_direction": "Ask for the messages or conversations from which the host draws this conclusion; compare with Kirk's public statements in the Megyn Kelly clip.",
       "transcript_snippet": "Charlie was fighting for custody of himself. I want to say that. I want to say that plainly.",
@@ -2543,7 +2557,9 @@
       "claim": "The host says the person acting like a widow, whom she then identifies as Benjamin Netanyahu, was tweeting first about what happened to Charlie Kirk and following it minute to minute.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:17",
       "investigative_direction": "Compare the time stamp of Netanyahu's first post about the shooting against other world leaders and TPUSA's own first statements.",
       "transcript_snippet": "just saying the absolute most, tweeting first about what happened to Charlie, following it minute to minute,",
@@ -2561,7 +2577,9 @@
       "claim": "The host says she does not recall Erika Kirk mentioning Benjamin Netanyahu in her speech after the assassination.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:43",
       "investigative_direction": "Check the full transcript of Erika Kirk's remarks for any mention of Netanyahu or Israel.",
       "transcript_snippet": "But I will say I don't recall Erika mentioning BB Netanyahu in her speech.",
@@ -2583,7 +2601,9 @@
       "related_nodes": [
         "N-10006"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:07:22",
       "investigative_direction": "Verify the 2019 Israel visit and lunch from Fox News footage of the interview, Israeli government records or photos of the meeting.",
       "transcript_snippet": "actually, and his 2019 visit to Israel. had lunch with him >> and his wife Erika.",
@@ -2606,7 +2626,9 @@
         "N-10018",
         "N-10006"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:54",
       "investigative_direction": "Obtain phone records or an Israeli or TPUSA scheduling record for the call and for the invitation.",
       "transcript_snippet": "A few weeks before the tragedy yesterday, I I called him and I spoke to him and I said,",
@@ -2627,7 +2649,9 @@
       "related_nodes": [
         "N-10006"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:14",
       "investigative_direction": "Compare with Kirk's own public statements about visiting Israel and with TPUSA's trip planning.",
       "transcript_snippet": "He was unbelievably excited to walk in the footsteps of Jesus here.",
@@ -2649,7 +2673,9 @@
         "N-10006",
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:48",
       "investigative_direction": "Compare with the facts later released about the suspect's motive; the host immediately asks who \"they\" refers to.",
       "transcript_snippet": "you know, on the extremes, the the Islamist, the radical Islamists and the their union with the ultr progressives,",
@@ -2670,7 +2696,9 @@
       "related_nodes": [
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:09:39",
       "investigative_direction": "Locate the original post on Trump's account and archive it to confirm the image, the flags and whether it was AI-generated.",
       "transcript_snippet": "I mean, Trump's account even tweeted out a photo of Charlie and an an American flag and also an Israeli flag.",
@@ -2691,7 +2719,9 @@
         "N-10025",
         "N-10268"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:00",
       "investigative_direction": "Identify who told Kirk which speakers to exclude; request messages or emails from TPUSA staff and donors.",
       "transcript_snippet": "but flat out telling him that he was not allowed to invite certain people to his events.",
@@ -2715,7 +2745,9 @@
         "N-10025",
         "N-10106"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:11",
       "investigative_direction": "Obtain the text messages the host says she can release and corroborate with donor communications to TPUSA.",
       "transcript_snippet": "They were threatening to pull out money. Uh Charlie was getting a lot of really nasty text messages and many of them pertaining to Tucker Carlson and Candace Owens,",
@@ -2739,7 +2771,9 @@
         "N-10268",
         "N-10025"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:13:29",
       "investigative_direction": "Check the AmFest 2025 programming and any donor complaints about Smith's appearance.",
       "transcript_snippet": "How could he allow Dave Smith, who by the way is Jewish,",
@@ -2761,7 +2795,9 @@
         "N-10025",
         "N-10037"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:11",
       "investigative_direction": "Obtain Ackman's communications with Kirk or TPUSA after the AmFest stage remarks.",
       "transcript_snippet": "And Bill Ackman was on Charlie about comments that Tucker Carlson had made on that stage.",
@@ -2783,7 +2819,9 @@
         "N-10025",
         "N-10268"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:21",
       "investigative_direction": "Check the video of Carlson's AmFest remarks for the exact wording and date.",
       "transcript_snippet": "Tucker Carlson specifically asked the question, where does Bill Ackman's money come from?",
@@ -2804,7 +2842,9 @@
         "N-10016",
         "N-10446"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:40",
       "investigative_direction": "Identify attendees of the Hamptons meeting and obtain their account or contemporaneous messages.",
       "transcript_snippet": "Uh, Bill Ackman was very upset and threats were made.",
@@ -2828,7 +2868,9 @@
         "N-10037",
         "N-10016"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:08",
       "investigative_direction": "Ask Blumenthal for the exchange with Ackman and ask Ackman to publish the receipts he referred to.",
       "transcript_snippet": "\"I I have receipts. I can show you.\" And he did not provide the receipts and this is not how it went down.",
@@ -2848,7 +2890,9 @@
       "related_nodes": [
         "N-10025"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:55",
       "investigative_direction": "Ask the host to say who invited her, to where and when, and whether any message survives.",
       "transcript_snippet": "I was invited somewhere else. And when this arrived to me, it felt like a threat.",
@@ -2868,7 +2912,9 @@
         "N-10342",
         "N-10018"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:18",
       "investigative_direction": "Identify the source of the offer and the amount; obtain messages sent after the meeting that reference it.",
       "transcript_snippet": "Um, and I know that Charlie was offered a ton of money in this moment.",
@@ -2892,7 +2938,9 @@
         "N-10016",
         "N-10446"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:23",
       "investigative_direction": "Obtain the messages sent immediately after the meeting that the host says are circulating and verify their date and sender.",
       "transcript_snippet": "it's solid. Okay, there were conversations that took place, messages that were sent at that time and they are solid.",
@@ -2916,7 +2964,9 @@
         "N-10037",
         "N-10016"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:14",
       "investigative_direction": "Archive the Ackman tweet with its timestamp and compare with the host's account of the meeting.",
       "transcript_snippet": "I feel incredibly privileged to have spent a day and shared a meal with Charlie Kirk this summer.",
@@ -2940,7 +2990,9 @@
         "N-10345",
         "N-10016"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:40",
       "investigative_direction": "Ask Dillon whether he attended the Hamptons meeting and whether he disputes the host's description.",
       "transcript_snippet": "You were present when Aman lost his mind on Charlie and when BB invited him to Israel and Charlie refused.",
@@ -2966,7 +3018,9 @@
         "N-10000",
         "N-10345"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:09",
       "investigative_direction": "Ask TPUSA staff and Dillon about calls between them in the days after the shooting.",
       "transcript_snippet": "he was unable to speak to me, but he did place some frantic calls to Turning Point USA.",
@@ -2986,7 +3040,9 @@
         "N-10016",
         "N-10345"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:23",
       "investigative_direction": "Identify the two other attendees the host says she contacted and whether any of them has since spoken.",
       "transcript_snippet": "and nobody is willing to go on record. They're all messaging each other trying to figure out a coordinated response to say that no,",
@@ -3006,7 +3062,9 @@
         "N-10016",
         "N-10027"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:31",
       "investigative_direction": "Identify the leak source through the host's sources; check later attendee statements.",
       "transcript_snippet": "this was all quite cordial, but no one wants to go on record and describe it as cordial because they know someone's leaking because someone's got a guilty conscience about what happened at the Hamptons.",
@@ -3025,7 +3083,9 @@
         "N-10104",
         "N-10350"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:09",
       "investigative_direction": "Identify witnesses or objects (rosary, Mass attendance records) corroborating Kirk's Catholic practice.",
       "transcript_snippet": "I can tell you factually Charlie was praying the rosary.",
@@ -3045,7 +3105,9 @@
         "N-10104",
         "N-10350"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:29",
       "investigative_direction": "Ask for the message thread of that conversation; identify the church or priest if Kirk attended Mass.",
       "transcript_snippet": "Charlie was going to mass. One of my last conversations with Charlie was me joking with him saying just make the last step.",
@@ -3065,7 +3127,9 @@
         "N-10104",
         "N-10350"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:43",
       "investigative_direction": "Obtain the text or voice exchange to confirm the wording and date.",
       "transcript_snippet": "He says, \"Haha, you're speaking about uh Mary.\"",
@@ -3085,7 +3149,9 @@
         "N-10025",
         "N-10106"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:23",
       "investigative_direction": "Ask the host to name the donors and release the messages she says document the pressure.",
       "transcript_snippet": "because I was in communication with Charlie at this time because I knew exactly which donors were pressuring him and why.",
@@ -3105,7 +3171,9 @@
         "N-10025",
         "N-10268"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:22:39",
       "investigative_direction": "Identify the speakers and the donors involved; compare with AmFest speaker lists and removals.",
       "transcript_snippet": "Exactly which people that they were insisting Charlie allowed to speak at his event and why when Charlie did not necessarily want those people to speak at his event.",
@@ -3125,7 +3193,9 @@
         "N-10000",
         "N-10268"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:04",
       "investigative_direction": "Ask TPUSA to confirm whether audio of Kirk's pre-stage exchange with Carlson exists and to release it.",
       "transcript_snippet": "Charlie was miked. Surely Tucker Carlson was miked. I know Charlie's miked the entire time at those events.",
@@ -3146,7 +3216,9 @@
         "N-10026",
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:13",
       "investigative_direction": "Record the host's later statements on Israeli involvement to see whether this position changes.",
       "transcript_snippet": "No, we have no evidence of that. We can't say that because there is no evidence of that.",
@@ -3168,7 +3240,9 @@
         "N-10106",
         "N-10025"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:05",
       "investigative_direction": "Obtain Kirk's post-meeting messages that the host says contain this sentiment and identify who received them.",
       "transcript_snippet": "pointing out the fact that Charlie was having a change of heart about the tactics that Israel was using in America and that he felt when he had left that meeting that he had effectively been blackmailed.",
@@ -3189,7 +3263,9 @@
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:26:55",
       "investigative_direction": "Obtain the full video of the interview and its airdate to check the exact wording.",
       "transcript_snippet": "That's insane. That's insane. Israel uh also changes the uh the orbit of the moon.",
@@ -3210,7 +3286,9 @@
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:14",
       "investigative_direction": "Match against the interview airdate and the status of the suspect's arrest at that time.",
       "transcript_snippet": "They just found the perpetrator. They'll get to the bottom of this, but uh uh they they go,",
@@ -3231,7 +3309,9 @@
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:47",
       "investigative_direction": "Check the full interview for the exact wording; compare with the host's reaction at 00:28:14.",
       "transcript_snippet": "We were poisoning the wells. We were drinking the blood of Christian children. You name it.",
@@ -3252,7 +3332,9 @@
       "related_nodes": [
         "N-10023"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:52",
       "investigative_direction": "Identify the original Kirk broadcast and the videos or interviews Kirk is describing.",
       "transcript_snippet": "they said he was awfully unimpressive when it came to finance and markets and economics.",
@@ -3274,7 +3356,9 @@
         "N-10023",
         "N-10015"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:16",
       "investigative_direction": "Identify the original Kirk broadcast and date; the clip lists several possible sponsors, which narrows the Israeli-only claim.",
       "transcript_snippet": "Israeli intelligence, American intelligence, Saudi intelligence, or maybe he was just a hired gun.",
@@ -3299,7 +3383,9 @@
         "N-10023",
         "N-10106"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:28",
       "investigative_direction": "Identify the original broadcast and any evidence Kirk cited for current blackmail of members of Congress.",
       "transcript_snippet": "Members of Congress are actively being blackmailed.",
@@ -3319,7 +3405,9 @@
         "N-10000",
         "N-10025"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:32:12",
       "investigative_direction": "Ask the host to identify the senders and release the messages she says she will publish.",
       "transcript_snippet": "I know exactly who you are. I know exactly who you were that were exerting pressure.",
@@ -3341,7 +3429,9 @@
         "N-10020",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:03",
       "investigative_direction": "Obtain the FBI's stated account of the rifle's disassembly and a firearms expert assessment of the time needed.",
       "transcript_snippet": "They're trying to claim he removed the barrel from the mouser and fit the receiver and stock in his backpack and barrel in his pants like all in two seconds.",
@@ -3362,7 +3452,9 @@
         "N-10020",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:21",
       "investigative_direction": "Obtain the FBI photo of the recovered rifle and the evidence log describing its condition when found.",
       "transcript_snippet": "And by the way, the photo of the rifle allegedly left in the woods has the barrel installed.",
@@ -3384,7 +3476,9 @@
         "N-10014",
         "N-10024"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:20",
       "investigative_direction": "Find the FBI statement or briefing in which this was said and its date.",
       "transcript_snippet": "The FBI, I will say, has recently come out and said they're looking for another person.",
@@ -3400,7 +3494,9 @@
       "claim": "The host says she insisted everyone read the book Chaos about the Charles Manson murders, and that she learned from it that governments hiding something give out so much information that people do not know what is real.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:38:41",
       "investigative_direction": "No case evidence to check; treat as the host's interpretation of the book's thesis.",
       "transcript_snippet": "what they do is they give you so much information that you can't pro you don't even know what's real.",
@@ -3422,7 +3518,9 @@
         "N-10011",
         "N-10024"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:09",
       "investigative_direction": "Obtain the original TMZ video with metadata and the UVU parking and surveillance records for the Challenger.",
       "transcript_snippet": "So, what's interesting already confusing to me is that TMZ shows him already walking.",
@@ -3445,7 +3543,9 @@
         "N-10024",
         "N-10754"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:04",
       "investigative_direction": "Obtain the original rooftop footage with metadata and verify that the figure is the shooter and the time of the clip.",
       "transcript_snippet": "the shooter runs across the rooftop. I'm going to tell you why that's significant.",
@@ -3467,7 +3567,9 @@
         "N-10020",
         "N-10754"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:42",
       "investigative_direction": "Obtain the official timeline of disassembly and the frame-by-frame rooftop footage.",
       "transcript_snippet": "is that their narrative is that he disassembled the gun and then started running.",
@@ -3488,7 +3590,9 @@
       "related_nodes": [
         "N-10020"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:03",
       "investigative_direction": "Collect expert firearms analyses of the Mauser's field-strip time.",
       "transcript_snippet": "An unbelievable amount of um hunters, guns, people that reach out to me and said that just didn't happen.",
@@ -3508,7 +3612,9 @@
         "N-10097",
         "N-10024"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:29",
       "investigative_direction": "Obtain police dispatch logs, arrest records and video for Zinn and the 12:52 announcement.",
       "transcript_snippet": "He's signaling that he's somehow shot the guy. And at 12:52, it gets announced that the suspect is in custody.",
@@ -3530,7 +3636,9 @@
         "N-10014",
         "N-10019"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:45",
       "investigative_direction": "Obtain the original FBI release with date and camera location, and build the timeline for the outfit change.",
       "transcript_snippet": "We don't know exactly where that stairwell is. He's in outfit number two, so the outfit change has happened.",
@@ -3551,7 +3659,9 @@
         "N-10019",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:46:51",
       "investigative_direction": "Review the stairwell photos in full resolution to see whether the clothing shows a concealed object.",
       "transcript_snippet": "we can discern that there is no weapon that is in his uh pant leg because uh we can see him bending one leg in one photo and we can see him bending the other leg in another photo.",
@@ -3571,7 +3681,9 @@
         "N-10028",
         "N-10165"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:06",
       "investigative_direction": "Obtain the UVU camera inventory and the authorities' reasons for withholding higher-resolution footage.",
       "transcript_snippet": "What is clear is that there is a ton of cameras on this campus.",
@@ -3590,7 +3702,9 @@
         "N-10019",
         "N-10024"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:49",
       "investigative_direction": "Obtain the arrest report or booking photo describing what Robinson was wearing and the time of arrest.",
       "transcript_snippet": "it is communicated to us that he is wearing the maroon outfit.",
@@ -3609,7 +3723,9 @@
       "related_nodes": [
         "N-10022"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:26",
       "investigative_direction": "Identify the pastor and the official account of how Robinson came into custody.",
       "transcript_snippet": "the story that we were told was that Tyler Robinson allegedly um after speaking with the pastor,",
@@ -3629,7 +3745,9 @@
         "N-10022",
         "N-10037"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:49:39",
       "investigative_direction": "Check whether Ackman or any other party announced a reward, its amount and who received it.",
       "transcript_snippet": "that money is now going to the father of this child who after prayer and speaking to a pastor,",
@@ -3651,7 +3769,9 @@
       "related_nodes": [
         "N-10021"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:50",
       "investigative_direction": "Obtain the original reporting and any messages in which Robinson allegedly admitted it to acquaintances.",
       "transcript_snippet": "It was it was all joking until until he uh you know until he admitted that it it it actually was him.",
@@ -3673,7 +3793,9 @@
       "related_nodes": [
         "N-10021"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:51:08",
       "investigative_direction": "Identify who is cooperating from court filings and statements from the prosecutor.",
       "transcript_snippet": "Uh but uh but but all the people around him are cooperating and I I think that's uh that's that's very important.",
@@ -3695,7 +3817,9 @@
         "N-10013",
         "N-10021"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:52:42",
       "investigative_direction": "Obtain the investigators' photos of the roommate's screen from the charging documents and verify the account name.",
       "transcript_snippet": "He opened it and showed several messages to investigators and allowed investigators to take photos of the screen as each message was shown by Robinson's roommate.",
@@ -3717,7 +3841,9 @@
         "N-10013",
         "N-10020"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:03",
       "investigative_direction": "Obtain the message exhibits from the charging documents and compare timestamps with the shooting timeline.",
       "transcript_snippet": "The content of these messages included messages affiliated with the contact Tyler stating a need to retrieve a rifle from a drop point,",
@@ -3741,7 +3867,9 @@
       "related_nodes": [
         "N-10013"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:22",
       "investigative_direction": "Compare with the ammunition and engravings described in the charging documents and recovered evidence.",
       "transcript_snippet": "The messages also refer to engraving bullets and a mention of a scope and the rifle being unique.",
@@ -3763,7 +3891,9 @@
         "N-10013",
         "N-10019"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:35",
       "investigative_direction": "Obtain the message with its timestamp to place the outfit change in the timeline.",
       "transcript_snippet": "Messages from the contact Tyler also mentioned that he had changed outfits.",
@@ -3782,7 +3912,9 @@
       "related_nodes": [
         "N-10019"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:53:58",
       "investigative_direction": "Identify the classmate through the host's source and corroborate with other classmates or photos from the days around the shooting.",
       "transcript_snippet": "They told me that that was the strangest part, the 33-hour putting on an outfit that he had on 33 hours early because they described him as remarkably tidy.",
@@ -3803,7 +3935,9 @@
       "related_nodes": [
         "N-10268"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:59:33",
       "investigative_direction": "Treat as an unverified viewer anecdote; no document available.",
       "transcript_snippet": "At the end of the conversation, she let me know uh that she she let me know she is Charlie's wife,",
@@ -3822,7 +3956,9 @@
       "related_nodes": [
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:00:48",
       "investigative_direction": "Find video or eyewitness accounts of anyone cheering at UVU after the shooting.",
       "transcript_snippet": "someone stood up and cheered.",
@@ -3839,7 +3975,9 @@
       "claim": "The host says there is an underground communist movement that is at all schools and urges parents to take their children out and homeschool.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:00:53",
       "investigative_direction": "Sweeping assertion with no evidence offered; no case record to check.",
       "transcript_snippet": "understanding there's an underground communist movement and it is at all schools.",
@@ -3855,7 +3993,9 @@
       "claim": "The host recommends The Assault on Truth, which she says is in her book club, as a good start for understanding the lies being told.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:01:49",
       "investigative_direction": "Identify the book and edition the host means; no case record to check.",
       "transcript_snippet": "I would say right now my book club and you don't need to join that but you should read the assault on truth.",
@@ -3871,7 +4011,9 @@
       "claim": "The host says that Sigmund Freud's psychoanalytic movement covered for parents who were raping their toddlers, and cites it as evidence of the evil people are confronted with.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:02:17",
       "investigative_direction": "Historical claim about Freud and the seduction theory; compare with scholarly accounts, no case record to check.",
       "transcript_snippet": "I'm talking about parents that were raping their toddlers he was covering for.",
@@ -3888,7 +4030,9 @@
       "claim": "The host says she believes Shlomo Sand, author of The Invention of the Jewish People, is a professor historian at Tel Aviv University.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:03:07",
       "investigative_direction": "Check Sand's university affiliation; host hedges with \"I believe.\"",
       "transcript_snippet": "He was uh I believe a professor historian at Tel Aviv University.",
@@ -3908,7 +4052,9 @@
       "claim": "The host says all the books she recommends were written by Jewish authors, so readers know they are not diving into something that can be labeled anti-Semitic, and she says these people were like in the IDF with no incentive to lie.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:03:17",
       "investigative_direction": "Check each author's biography and military service; no case record to check.",
       "transcript_snippet": "um were written by Jewish authors cuz that makes you aware of the fact that you're not diving into something that is can be labeled anti-Semitic because I mean these people were like in the IDF,",
@@ -3929,7 +4075,9 @@
       "claim": "Responding to a viewer's recommendation of The 13th Tribe, the host says that Ashkenazi Jews' own books said they were Khazars, and that she has covered the topic extensively on her show.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:07:02",
       "investigative_direction": "Check the earlier episodes the host refers to and the scholarship on the Khazar hypothesis; no case record to check.",
       "transcript_snippet": "and they said they were the Khazars. So, you know, I've covered that on my show extensively.",
@@ -3951,7 +4099,9 @@
         "A-3094.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "01:08:46",
       "investigative_direction": "Record tip volume and any follow-up in later episodes where the host cites emailed tips.",
       "transcript_snippet": "If you have any more information, please send them to tips@candis umcandisens.",
@@ -3970,7 +4120,9 @@
       "claim": "The host says her operation is entirely independent and takes money from nobody, so nobody can threaten her.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:09:02",
       "investigative_direction": "Compare with her disclosed funding and sponsor reads in later episodes.",
       "transcript_snippet": "We take money from nobody so nobody can threaten me.",

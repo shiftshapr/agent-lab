@@ -132,7 +132,7 @@
             "C-2322"
           ],
           "related_nodes": [
-            "N-563",
+            "N-562",
             "N-504",
             "N-10492"
           ],
@@ -333,8 +333,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-563",
-      "ref": "N-563",
+      "@id": "N-562",
+      "ref": "N-562",
       "name": "Aubrey Lech",
       "type": "person",
       "description": "Former TPUSA public relations manager; spoke publicly about termination process in self-published video. Artifact-backed person new to the series record.",
@@ -376,7 +376,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-563"
+        "N-562"
       ]
     },
     {
@@ -425,7 +425,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-563",
+        "N-562",
         "N-504"
       ]
     },
@@ -712,7 +712,7 @@
       "@type": "Person",
       "@id": "N-15",
       "ref": "N-15",
-      "name": "Justin Strife",
+      "name": "Justin Streiff",
       "type": "person",
       "description": "TPUSA chief operating officer (Justin Streiff); the host says he lied about not knowing Pierre.",
       "related_artifacts": [],
@@ -907,8 +907,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-748",
-      "ref": "N-748",
+      "@id": "N-747",
+      "ref": "N-747",
       "name": "Ike Perlmutter",
       "type": "person",
       "description": "Reused for the 'Ike Promoter' at Mar-a-Lago named by the host (transcribed form; identity unconfirmed).",
@@ -1418,9 +1418,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-818",
-      "ref": "N-818",
-      "name": "Don Oro",
+      "@id": "N-817",
+      "ref": "N-817",
+      "name": "Don Orrico",
       "type": "person",
       "description": "First named by the host at 00:13:09 in episode 70 as 'Mr. Don Oro of Turning Point USA down in Tampa'. Spelling unconfirmed.",
       "related_artifacts": [],
@@ -1594,7 +1594,7 @@
       "claim_timestamp": "00:24:02–00:28:28",
       "investigative_direction": "Verify Lech's employment dates and termination date via TPUSA / ATK records.",
       "mentions_person_refs": [
-        "N-563"
+        "N-562"
       ]
     },
     {
@@ -1614,7 +1614,7 @@
       "investigative_direction": "Identify the Turning Point executive referenced in the Uber driver conversation; verify whether the conversation occurred as described.",
       "mentions_person_refs": [
         "N-504",
-        "N-563",
+        "N-562",
         "N-14"
       ]
     },
@@ -1634,7 +1634,7 @@
       "claim_timestamp": "00:24:02–00:28:28",
       "investigative_direction": "Compare the stated termination rationale (Uber-driver hearsay) against Lech's stated belief; seek additional former-employee testimony.",
       "mentions_person_refs": [
-        "N-563",
+        "N-562",
         "N-1"
       ]
     },
@@ -1653,7 +1653,7 @@
       "investigative_direction": "Verify Marina Munz's title and organizational role via TPUSA public records.",
       "mentions_person_refs": [
         "N-504",
-        "N-563",
+        "N-562",
         "N-14"
       ]
     },
@@ -1735,7 +1735,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:02:48",
       "investigative_direction": "Hard to test directly; former staff such as Aubrey Lech could confirm the practice.",
       "transcript_snippet": "I know that Turning Point USA watches every episode of this podcast and that people then take what I say back to her and they give her notation.",
@@ -1755,7 +1757,9 @@
         "N-10000",
         "N-11184"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:03:38",
       "investigative_direction": "Compare the host's announced departure date and wording with contemporaneous TPUSA and press statements about her resignation.",
       "transcript_snippet": "A few months later on May 1st, the public was informed that I was resigning from my position as the communications director of Turning Point USA.",
@@ -1776,7 +1780,9 @@
         "N-11184",
         "N-10004"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:03:38",
       "investigative_direction": "Look for contemporaneous press accounts of the host's 2019 departure and any messages or witnesses to the money disagreement.",
       "transcript_snippet": "Charlie and I had a disagreement uh which fractured my trust in him. He did something that he had never done before. He lied to my face about money.",
@@ -1790,20 +1796,22 @@
       "@type": "Claim",
       "@id": "C-8379",
       "ref": "C-8379",
-      "label": "Host Says Charlie Met Ike at Mar-a-Lago in a Concealed Fundraising Meeting",
-      "claim": "The host says Charlie Kirk took a fundraising meeting in Florida with 'Ike Promoter' (transcribed form) at Mar-a-Lago and did not want her to know about it, which was strange because they always took such meetings together.",
+      "label": "Host Says Charlie Met Ike Perlmutter at Mar-a-Lago in a Concealed Fundraising Meeting",
+      "claim": "The host says Charlie Kirk took a fundraising meeting in Florida with Ike Perlmutter (transcribed 'Ike Promoter') at Mar-a-Lago and did not want her to know about it, which was strange because they always took such meetings together.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11185"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:05:03",
-      "investigative_direction": "Identify the Ike at Mar-a-Lago (the host may mean Ike Perlmutter) and check for records of a 2019 lunch or fundraising meeting with Charlie Kirk.",
+      "investigative_direction": "Ike Perlmutter is confirmed by the HappyScribe transcript of Candace Ep 303 (00:04:58, \"a meeting down in Florida with Ike Perlmutter at Mar-a-Lago\"). Check for records of a 2019 lunch or fundraising meeting with Charlie Kirk.",
       "transcript_snippet": "Charlie had taken a meeting down in Florida with Ike Promoter at Mara Lago. It was a a fundraising meeting.",
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-748"
+        "N-747"
       ]
     },
     {
@@ -1811,19 +1819,21 @@
       "@id": "C-8380",
       "ref": "C-8380",
       "label": "Host Says Charlie Denied Hearing From Ike Though They Lunched the Day Before",
-      "claim": "The host says that in an elevator at the Trump Hotel in DC Charlie Kirk told her he had not heard from Ike in two weeks, and when she said he had lunch with him at Mar-a-Lago the day before, his face dropped and he tried to explain it away.",
+      "claim": "The host says that in an elevator at the Trump Hotel in DC Charlie Kirk told her he had not heard from Ike (Perlmutter) in two weeks, and when she said he had lunch with him at Mar-a-Lago the day before, his face dropped and he tried to explain it away.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11185"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:05:03",
       "investigative_direction": "Seek corroboration (calendar entries, photos, staff) of the Mar-a-Lago lunch and of the elevator exchange; only the host and Charlie Kirk were present.",
       "transcript_snippet": "Because you had you had lunch with him yesterday at Mara Lago.",
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-748"
+        "N-747"
       ]
     },
     {
@@ -1837,7 +1847,9 @@
         "N-10000",
         "N-10004"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:26",
       "investigative_direction": "Identify which staff or advisers joined TPUSA after the Kanye West tweet and their role in fundraising decisions.",
       "transcript_snippet": "a lot of the new hires that were coming into Turning Point USA post Kanye tweet.",
@@ -1858,7 +1870,9 @@
         "N-11038",
         "N-10806"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:26",
       "investigative_direction": "Obtain the host's text messages to Charlie Kirk warning about the security firm and Dan Flood; compare with her earlier claims about Scheper Security.",
       "transcript_snippet": "I also warned him about Schaefer security and Dan Flood. You can check the text messages because you have them.",
@@ -1879,7 +1893,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:26",
       "investigative_direction": "Establish who 'Tyler' is (the host elsewhere discusses Tyler Bowyer) and what Sheridan's role in the 2019 fundraising was; this is the host's suspicion, not shown evidence.",
       "transcript_snippet": "And I suspected she and Tyler had something to do with it.",
@@ -1898,7 +1914,9 @@
       "claim": "The host tells Erika Kirk that she lied to the host's face when they sat down in a hotel and spoke for four hours.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:49",
       "investigative_direction": "Pin down the date and location of the four-hour hotel meeting and which statements by Erika the host now says were false.",
       "transcript_snippet": "You lied to my face as we sat down in that hotel and we spoke for four hours.",
@@ -1917,7 +1935,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:49",
       "investigative_direction": "Look for documents, payments or messages showing Erika Kirk's authorization of the campaign against the host; the host offers no artifact here.",
       "transcript_snippet": "You knew that every single evil thing that was done to me was done with your blessing.",
@@ -1935,7 +1955,9 @@
       "claim": "The host says Erika Kirk allowed people to claim that Charlie Kirk and the host had not spoken since 2019, which the host says was a lie because they had a deep friendship.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:49",
       "investigative_direction": "Compare TPUSA-aligned public statements that the two had not spoken since 2019 with the host's call and message records with Charlie Kirk.",
       "transcript_snippet": "You allowed these people to lie and to say that Charlie and I hadn't spoken since 2019.",
@@ -1956,7 +1978,9 @@
         "N-10806",
         "N-10816"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:16",
       "investigative_direction": "Establish custody of Charlie Kirk's phone after September 10 and whether the messages the host showed earlier match the device's records.",
       "transcript_snippet": "maybe it's also because you have his phone. And when I revealed to the public that he had predicted his own death in remarkable detail, maybe you went back",
@@ -1977,7 +2001,9 @@
         "N-10806",
         "N-10816"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:16",
       "investigative_direction": "The host has not released these messages; ask her team to publish them or have a forensic examiner verify their metadata.",
       "transcript_snippet": "the ones that I haven't yet revealed to the public, because in retrospect, those messages are they're pretty terrifying",
@@ -1998,7 +2024,9 @@
         "N-10117",
         "N-10806"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:21",
       "investigative_direction": "Identify the priest and the dates of any call, and obtain the written messages in which Charlie Kirk expressed fear of being killed.",
       "transcript_snippet": "Didn't make him call a priest to pray over him. He thought someone was going to kill him. Did express that in writing.",
@@ -2018,7 +2046,9 @@
       "related_nodes": [
         "N-10422"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:10:21",
       "investigative_direction": "No documentary record is offered; this is the host's recollection of private conversations.",
       "transcript_snippet": "We spoke about the fact that we could both astral project.",
@@ -2036,7 +2066,9 @@
       "claim": "The host says she pulled her children out of school days before Charlie Kirk was murdered because she sensed danger was coming.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:23",
       "investigative_direction": "Ask for school withdrawal dates or other dated records showing when the host removed her children.",
       "transcript_snippet": "I pulled my kids out of school days before he was murdered because I sensed danger was coming.",
@@ -2055,7 +2087,9 @@
       "related_nodes": [
         "N-10905"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:23",
       "investigative_direction": "Locate the interview (the host's source for the wedding band detail is not named) and confirm Erika Kirk's exact words.",
       "transcript_snippet": "I also thought what was interesting is that you said the next morning when he snuck in, he grabbed his wedding band.",
@@ -2077,7 +2111,9 @@
       "related_nodes": [
         "N-10493"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:18",
       "investigative_direction": "Obtain the written exchange in which Streiff denied knowing Pierre and the document the host says contradicts it.",
       "transcript_snippet": "I now have verifiable proof in writing that Justin Strife and you lied to me.",
@@ -2099,7 +2135,9 @@
       "related_nodes": [
         "N-10493"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:18",
       "investigative_direction": "Seek calendars, travel or visitor records showing a meeting between Erika Kirk or Streiff and a donor named Pierre after September 10.",
       "transcript_snippet": "You've personally met with Pierre. Um, Erika, you've met with him in the wake of Charlie's death.",
@@ -2126,7 +2164,9 @@
         "N-10493",
         "N-10317"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:09",
       "investigative_direction": "Obtain the host's documents on the deal; confirm Pierre's identity and compare with TPUSA donor and pledge records.",
       "transcript_snippet": "there was a deal on the table with Pierre who yes is from France born in France and that deal was worth billions",
@@ -2142,8 +2182,8 @@
       "@type": "Claim",
       "@id": "C-8396",
       "ref": "C-8396",
-      "label": "Host Says Pierre Spoke by Phone With Justin Streiff and Don Oro in Tampa",
-      "claim": "The host says Pierre had a phone call with Justin Streiff and another with 'Mr. Don Oro' (transcribed form) of Turning Point USA down in Tampa.",
+      "label": "Host Says Pierre Spoke by Phone With Justin Streiff and Don Orrico in Tampa",
+      "claim": "The host says Pierre had a phone call with Justin Streiff and another with Don Orrico (transcribed 'Don Oro'; HappyScribe 'Don O'Reco') of Turning Point USA down in Tampa.",
       "anchored_artifacts": [
         "A-2931.1"
       ],
@@ -2151,14 +2191,16 @@
         "N-10493",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:09",
-      "investigative_direction": "Identify the TPUSA official the host calls Don Oro and obtain call records for the alleged calls.",
+      "investigative_direction": "Identification as Don Orrico (Florida-based major-gifts fundraiser, formerly Mackinac Center director of strategic partnerships, Estero FL) is by name match; confirm his TPUSA role and obtain call records for the alleged calls.",
       "transcript_snippet": "Pierre had a phone call with Justin Strife. He also had a phone call uh with Mr. Don Oro of Turning Point USA down in Tampa.",
       "mentions_person_refs": [
         "N-3",
         "N-15",
-        "N-818"
+        "N-817"
       ]
     },
     {
@@ -2171,7 +2213,9 @@
       "related_nodes": [
         "N-10493"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:09",
       "investigative_direction": "Establish when Pierre first learned of the shooting (call logs, messages) and whether he had given to TPUSA before September 10.",
       "transcript_snippet": "he knew that Charlie was dead before the rest of the world did.",
@@ -2190,7 +2234,9 @@
       "related_nodes": [
         "N-10493"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:09",
       "investigative_direction": "Check TPUSA financial statements and donor disclosures for large gifts received after September 2025.",
       "transcript_snippet": "I uh I know that after Charlie died, that deal went through.",
@@ -2212,7 +2258,9 @@
         "N-10493",
         "N-10075"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:13",
       "investigative_direction": "Obtain the host's inquiry to the White House and any response; compare with her earlier French Foreign Legion claims.",
       "transcript_snippet": "this might be the reason that the White House never got back to me regarding the French Foreign Legion being involved with Charlie's assassination",
@@ -2233,7 +2281,9 @@
         "N-10317",
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:04",
       "investigative_direction": "Verify whether Pierre Falcone had any contact with TPUSA officials after September 10; the host offers only a guess here.",
       "transcript_snippet": "My best guess is that it was Pierre Falconee all along of Angola Gate.",
@@ -2256,7 +2306,9 @@
         "N-10496",
         "N-10342"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:03",
       "investigative_direction": "Identify which of Erika Kirk's statements the host says were false and what evidence ties them to Netanyahu.",
       "transcript_snippet": "you were lying to cover BB Netanyahu's tracks.",
@@ -2279,7 +2331,9 @@
         "N-10027",
         "N-10446"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:03",
       "investigative_direction": "Seek attendee lists, photos or staff accounts of the Hamptons dinner and Kolvet's own statements about the offer.",
       "transcript_snippet": "Andrew told me that BB offered to take Turning Point USA to the next level and that Charlie turned him down in the Hamptons at the dinner that you were a part of.",
@@ -2301,7 +2355,9 @@
       "related_nodes": [
         "N-10018"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:03",
       "investigative_direction": "Locate Erika Kirk's public statement about the Netanyahu call and the letter, and compare with the host's Hamptons account.",
       "transcript_snippet": "You say he's just calling about a letter that Charlie wrote.",
@@ -2323,7 +2379,9 @@
         "N-10027",
         "N-10446"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:02",
       "investigative_direction": "Collect the influencer posts denying the Hamptons dinner and compare them with any attendee records.",
       "transcript_snippet": "the dinner that you thereafter allowed an army of influencers to claim never actually happened.",
@@ -2342,7 +2400,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:02",
       "investigative_direction": "No evidence is offered; test by identifying who coordinated and funded the attacks on the host.",
       "transcript_snippet": "the real motivation was you just thought you could psychologically break me.",
@@ -2362,7 +2422,9 @@
       "related_nodes": [
         "N-10456"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:49",
       "investigative_direction": "Ask Kolvet or show staff to confirm whether a Netanyahu appearance was requested and declined.",
       "transcript_snippet": "Charlie didn't want to have him on the podcast according to Andrew.",
@@ -2383,7 +2445,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:49",
       "investigative_direction": "Check TPUSA Form 990 and audited financials for annual revenue and net assets.",
       "transcript_snippet": "Turning Point was all already worth a hundred million dollars. Pulls in $100 million annually.",
@@ -2403,7 +2467,9 @@
         "N-10316",
         "N-10493"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:49",
       "investigative_direction": "This is the host's inference; no evidence is shown. Test by seeking the documents she says she holds on Pierre and the Netanyahu offer.",
       "transcript_snippet": "I think France and Israel are involved in Charlie Kirk's assassination.",
@@ -2424,7 +2490,9 @@
       "related_nodes": [
         "N-10494"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:49",
       "investigative_direction": "Obtain the evidence the host says contradicts Erika Kirk's account and compare with flight, phone and appointment records.",
       "transcript_snippet": "very strong evidence which suggests that you lied about your whereabouts on the morning of September 10th.",
@@ -2446,7 +2514,9 @@
         "N-10494",
         "N-10483"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:49",
       "investigative_direction": "Find where Erika Kirk made the statement about her mother's treatment and the treatment's date and location.",
       "transcript_snippet": "You said that you were accompanying your mother as she was receiving a treatment.",
@@ -2466,7 +2536,9 @@
         "N-10548",
         "N-10560"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:42",
       "investigative_direction": "Compare with Kolvet's public statements and airport or aircraft records for arrival times on the tarmac.",
       "transcript_snippet": "Andrew told me that when he deplaned, you guys embraced on the tarmac and he boohoo cried in your arms because he had so much pent up anxiety.",
@@ -2490,7 +2562,9 @@
         "N-10548",
         "N-10560"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:42",
       "investigative_direction": "Pull tail numbers and landing and wheels-down times for both flights to Provo on September 10 and test the one-hour gap.",
       "transcript_snippet": "which you confirmed to me which plane he was on and which plane you were on, that would mean that you had to wait for Andrew to land for an hour.",
@@ -2511,7 +2585,9 @@
         "N-10496",
         "N-10549"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:42",
       "investigative_direction": "Examine ADS-B and transponder logs for the Egyptian aircraft around September 10, 2025 and the Delaware departure the host mentions.",
       "transcript_snippet": "Who took off of Delaware? Who stayed behind to uh communicate on that second plane that was transponding for no reason?",
@@ -2531,12 +2607,14 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:10",
       "investigative_direction": "Corroborate Lech's workload with TPUSA staff and press-office call logs, which she could produce.",
       "transcript_snippet": "My phone received hundreds of phone calls on September 10th, thousands of text messages.",
       "mentions_person_refs": [
-        "N-563"
+        "N-562"
       ]
     },
     {
@@ -2549,7 +2627,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:05",
       "investigative_direction": "Check TPUSA donation totals reported after September 10, 2025 against the quarter-billion figure.",
       "transcript_snippet": "after pulling in a quarter of a billion dollars say we got a hold for a year",
@@ -2570,13 +2650,15 @@
       "related_nodes": [
         "N-10492"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:05",
       "investigative_direction": "Collect accounts from other fired employees about the stated and unstated reasons for their dismissals.",
       "transcript_snippet": "I think in the end there when she says that this was actually motivated by them going after people who they suspected were not loyal to Erika",
       "mentions_person_refs": [
         "N-3",
-        "N-563",
+        "N-562",
         "N-2"
       ]
     },
@@ -2591,7 +2673,9 @@
         "N-10026",
         "N-10386"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:08",
       "investigative_direction": "This is the host's inference from Shapiro's public conduct; identify the Shapiro and Kelly exchange she refers to.",
       "transcript_snippet": "Why is Ben pressing Megan Kelly pretending that he he cares about Charlie Kirk?",
@@ -2613,7 +2697,9 @@
         "N-10026",
         "N-10268"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:08",
       "investigative_direction": "Obtain AmFest sponsor, speaker-fee and ticketing records to test whether any foreign-linked payments were made.",
       "transcript_snippet": "it just seemed like a a paytoplay is what Amfest looked like.",
@@ -2631,7 +2717,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:31:39",
       "investigative_direction": "Compare Charlie Kirk's public statements about Loomer, Shapiro, Carlson and the host with TPUSA's post-assassination messaging.",
       "transcript_snippet": "Laura Loomer and Ben Shapiro were now the friends of Charlie Kirk and the people that were actually his friends were his enemies",
@@ -2655,7 +2743,9 @@
       "related_nodes": [
         "N-10493"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:47",
       "investigative_direction": "Follow up on tips received about the donor Pierre and verify identity and residence.",
       "transcript_snippet": "If you know something, more tips at candace oowens. com.",
@@ -2673,7 +2763,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:47",
       "investigative_direction": "Wait for the promised material the following week and test it against the people and organizations she names.",
       "transcript_snippet": "Charlie was completely and utterly infiltrated.",
@@ -2694,7 +2786,9 @@
       "related_nodes": [
         "N-10493"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:39",
       "investigative_direction": "Same as the earlier Pierre claims: obtain the written proof and records of meetings.",
       "transcript_snippet": "Erika and Justin Strife know exactly who Pierre is. Justin has met with Pierre. So is Erika.",
@@ -2715,7 +2809,9 @@
       "claim": "The host says her documentary What a Woman Is is available free on her website until 9:00 p.m. Eastern that night.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:39:39",
       "investigative_direction": "Verify the promotion on the host's website for the stated window.",
       "transcript_snippet": "Uh also a documentary, What a Woman Is available for free on our website until 9:00 p. m. Eastern tonight.",
@@ -2735,7 +2831,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:40:26",
       "investigative_direction": "Ask Kolvet about the remark and its context; the host does not say when or where he said it.",
       "transcript_snippet": "That's why Andrew said, \"Candace, it was supposed to be you.\"",
@@ -2754,7 +2852,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:26",
       "investigative_direction": "Look for payment records or disclosures tying influencer campaigns against the host to TPUSA or its allies.",
       "transcript_snippet": "You get all these uh influencers taking money.",
@@ -2773,7 +2873,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:42:45",
       "investigative_direction": "Tally legal letters or demands TPUSA has sent to the host or others since September 2025.",
       "transcript_snippet": "Now you have to rely on lawyers and legal letters",
@@ -2793,13 +2895,15 @@
       "related_nodes": [
         "N-10492"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:34",
       "investigative_direction": "Confirm the fiance's employment and dismissal with Lech or TPUSA records.",
       "transcript_snippet": "they also then fired her fiance. So their entire uh income in one house was wiped out in one day.",
       "mentions_person_refs": [
         "N-3",
-        "N-563"
+        "N-562"
       ]
     },
     {
@@ -2813,7 +2917,9 @@
         "N-10000",
         "N-10492"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:34",
       "investigative_direction": "Compare with TPUSA's reported post-assassination fundraising totals.",
       "transcript_snippet": "an organization that made $250 million in a couple of months.",
@@ -2834,7 +2940,9 @@
         "N-10806",
         "N-10816"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:20",
       "investigative_direction": "A forensic examination of the iMessage database on Charlie Kirk's phone and the recipients' devices would show whether the messages existed and were deleted.",
       "transcript_snippet": "Those messages were sent on iMessage.",
@@ -2857,7 +2965,9 @@
         "N-10340",
         "N-10806"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:38",
       "investigative_direction": "Ask Flood and Kolvet whether they received the text and whether they informed Erika Kirk.",
       "transcript_snippet": "Dan Flood and Andrew Kovette would have told her that.",
@@ -2879,7 +2989,9 @@
         "N-10510",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:38",
       "investigative_direction": "Check TPUSA's announcement and the dates of the alternative halftime show.",
       "transcript_snippet": "I forgot they made the announcement about that halftime show.",
@@ -2897,7 +3009,9 @@
         "A-2933.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:46:39",
       "investigative_direction": "Check Acts 7:43 and scholarly readings of the star of Remphan.",
       "transcript_snippet": "That's correct. Um, that's a six-pointed star.",

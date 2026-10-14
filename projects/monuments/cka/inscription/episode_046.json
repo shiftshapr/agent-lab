@@ -1127,8 +1127,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-616",
-      "ref": "N-616",
+      "@id": "N-615",
+      "ref": "N-615",
       "name": "Ian Miles Cheong",
       "type": "person",
       "description": "Named by the host as a recipient of out-of-context material.",
@@ -2087,7 +2087,9 @@
       "related_nodes": [
         "N-11107"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:00:56",
       "investigative_direction": "Identify who organized the Erika Kirk media rollout (CBS, Blaze TV) and any PR firm engaged by Turning Point USA.",
       "transcript_snippet": "I guess this is kind of the final stop. I'm hoping it's the final stop of this PR campaign where they are now pivoting and bringing Erika out",
@@ -2107,7 +2109,9 @@
         "N-11107",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:11",
       "investigative_direction": "Compile the three framings as they appear across Erika Kirk, Turning Point USA and influencer statements with dates, to test whether the wording is coordinated.",
       "transcript_snippet": "Another talking point. It's going to ruin the trial. If you guys keep thinking that things don't make sense, you could ruin the case.",
@@ -2125,7 +2129,9 @@
       "related_nodes": [
         "N-10180"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:55",
       "investigative_direction": "Obtain the autopsy and ballistic findings on bullet caliber, path and whether the bullet was recovered.",
       "transcript_snippet": "There's not a number that is going to convince the masses uh that his neck, human neck, stopped a.30-06 bullet, okay?",
@@ -2148,7 +2154,9 @@
         "N-10085",
         "N-10180"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:56",
       "investigative_direction": "Review the autopsy and medical-examiner description of the entry wound and the surgeon accounts of the wound.",
       "transcript_snippet": "But not only are they saying that they stopped it, but I want to remind you that there was minimal damage to to the front of Charlie's neck as well, okay?",
@@ -2168,7 +2176,9 @@
         "N-10085",
         "N-10180"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:39",
       "investigative_direction": "Confirm from the autopsy report or official statements whether a downward ricochet into the abdomen is the stated trajectory.",
       "transcript_snippet": "So, it didn't even cause a lot of, you know, damage as it went in. It just cleanly went in and then ricocheted downward into his stomach.",
@@ -2187,7 +2197,9 @@
       "related_nodes": [
         "N-10282"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:05:39",
       "investigative_direction": "Check Bari Weiss's published biography and CBS News appointment record; the \"agent\" characterization is the host's opinion, recorded as said.",
       "transcript_snippet": "And Bari is obviously just a Tel Aviv agent. Her entire background story, her rise, her studying in Tel Aviv, her family ties",
@@ -2209,7 +2221,9 @@
         "N-10334",
         "N-10282"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:58",
       "investigative_direction": "Obtain CBS legal-review or production records for the town hall question set; none is shown on air.",
       "transcript_snippet": "this question, like I said, has likely, by the way, been reviewed and marked up by lawyers, but she still is not even convincing despite having it ahead of time",
@@ -2234,7 +2248,9 @@
       "related_nodes": [
         "N-10334"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:58",
       "investigative_direction": "Compare the question as aired with the unedited CBS broadcast and any Candace Owens revenue figures that are public.",
       "transcript_snippet": "She has been one of the main peddlers of these conspiracies and she is making a huge amount of money on it. She is building her business off of these lies.",
@@ -2254,7 +2270,9 @@
         "A-1533.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:55",
       "investigative_direction": "Compare podcast chart rankings, book release dates and merch launch dates before and after September 10, 2025.",
       "transcript_snippet": "Building her business, what are you talking about? I already had this business. I was already at top of the charts.",
@@ -2276,7 +2294,9 @@
         "N-10193",
         "N-10198"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:19",
       "investigative_direction": "Compare Rob McCoy's statements about whom Mikey McCoy called first with Mikey McCoy's statement that his father was confused, and with call logs if released.",
       "transcript_snippet": "Mikey has offered that his dad was confused. I'll accept that. I didn't lie about that. Rob McCoy lied.",
@@ -2300,7 +2320,9 @@
         "N-10447",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:19",
       "investigative_direction": "Identify who first offered the strong-bones explanation and whether the surgeon or medical examiner endorsed it.",
       "transcript_snippet": "Charlie's neck stopping a.30-06 bullet because he ate healthy and had strong bones. It was a modern-day Christian miracle.",
@@ -2321,7 +2343,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:19",
       "investigative_direction": "Collect Charlie Kirk's own public statements and private texts on Israel from 2024 and 2025 to compare with the statement.",
       "transcript_snippet": "Charlie never wavered in his support for Israel was a nasty lie.",
@@ -2344,7 +2368,9 @@
         "N-10350",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:07",
       "investigative_direction": "Find the original Turning Point USA or Alex Clark statement on Charlie's interest in Catholic architecture and compare with Charlie's documented Catholic inquiries.",
       "transcript_snippet": "Turning Point USA lied about that and I was attacked for telling you",
@@ -2365,7 +2391,9 @@
       "related_nodes": [
         "N-10237"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:07",
       "investigative_direction": "Review the texts the host cited and Shapiro's original statement to compare dates and wording.",
       "transcript_snippet": "Ben Shapiro said they never had any bad blood between them. I proved that that was not true.",
@@ -2388,7 +2416,9 @@
         "N-10000",
         "N-10187"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:07",
       "investigative_direction": "List each instance where a text was released after an accusation of lying and the response that followed.",
       "transcript_snippet": "how dare you reveal a personal text message to defend yourself from being called a liar",
@@ -2410,7 +2440,9 @@
         "N-10162",
         "N-10346"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:47",
       "investigative_direction": "Obtain Terrell Farnsworth's own account on record and police statements on the SD card removal.",
       "transcript_snippet": "Taro Farnsworth personally told me that that was not true. Taro removed the SD cards because people were stealing hats.",
@@ -2435,7 +2467,9 @@
         "N-10100",
         "N-10162"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:47",
       "investigative_direction": "Document which cameras had SD cards removed and which were left in place, with equipment logs.",
       "transcript_snippet": "you would have taken the cameras and not just the SD card particularly from the camera behind his head",
@@ -2461,7 +2495,9 @@
         "N-10434",
         "N-10130"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:11:47",
       "investigative_direction": "Establish when the Turning Point USA internal DOGE was created and who proposed the name.",
       "transcript_snippet": "Doge didn't even exist. Prior to Elon Musk making that a thing about government accountability.",
@@ -2487,7 +2523,9 @@
       "related_nodes": [
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:27",
       "investigative_direction": "Compare Harpole's statement with UVU police and security coordination records for rooftops and the rear walkway.",
       "transcript_snippet": "That was a lie. It was actually the walkway behind.",
@@ -2512,7 +2550,9 @@
         "N-10039",
         "N-10030"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:27",
       "investigative_direction": "Obtain the full charging-document exhibits to see whether message metadata exists.",
       "transcript_snippet": "The lover text messages mysteriously presented without any timestamps.",
@@ -2538,7 +2578,9 @@
         "N-10566",
         "N-11012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:14",
       "investigative_direction": "Compare the probable cause statement and press briefings with the father's account of the call to authorities.",
       "transcript_snippet": "They claimed that he confessed and turned himself in. That's not what happened.",
@@ -2563,7 +2605,9 @@
         "N-10051",
         "N-10853"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:14",
       "investigative_direction": "Authenticate the Dairy Queen photo, its timestamp and any official acknowledgement of the stop.",
       "transcript_snippet": "Never revealed that Tyler Robinson was at the Dairy Queen following the assassination.",
@@ -2588,7 +2632,9 @@
         "N-10311",
         "N-10250"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:14",
       "investigative_direction": "Obtain the booking photograph, arrest report and clothing inventory.",
       "transcript_snippet": "They said Tyler Robinson was arrested wearing a maroon shirt. That actually was also not true.",
@@ -2612,7 +2658,9 @@
       "related_nodes": [
         "N-11012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:14",
       "investigative_direction": "Compare the father's and pastor's accounts of the call with the charging document language.",
       "transcript_snippet": "They said Tyler Robinson was suicidal but also turned himself in because he was afraid of being shot by police.",
@@ -2637,7 +2685,9 @@
         "N-10271",
         "N-11012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:57",
       "investigative_direction": "File records requests for surrender-site footage and the sheriff's office retention policy.",
       "transcript_snippet": "And the footage mysteriously missing of Tyler Robinson turning himself in.",
@@ -2659,7 +2709,9 @@
         "N-10253",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:57",
       "investigative_direction": "Cross-check flight-tracking data for the Egyptian-registered aircraft against Kirk and Turning Point USA event dates.",
       "transcript_snippet": "which is the Egyptian planes. Tracking Charlie, following Ericka throughout years. They said they're laughing at these things.",
@@ -2684,7 +2736,9 @@
       "related_nodes": [
         "N-10253"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:57",
       "investigative_direction": "Identify the specific time-zone correction her critics cited and which flight or event it concerned.",
       "transcript_snippet": "Not made a molecular or a mi- minor mistake. We got a time zone wrong.",
@@ -2706,7 +2760,9 @@
         "N-10349",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:44",
       "investigative_direction": "Compare the aired Saturday broadcast with the host's insider account of which questions were pre-submitted.",
       "transcript_snippet": "setting the stage for her to condemn anti-Semitism.",
@@ -2731,7 +2787,9 @@
         "N-10334",
         "N-10282"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:15:32",
       "investigative_direction": "Identify the audience member by name from the CBS broadcast and check his background; the host herself flags uncertainty.",
       "transcript_snippet": "I think that that was an IDF soldier. I might be wrong about that.",
@@ -2752,7 +2810,9 @@
         "N-10334",
         "N-10377"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:32",
       "investigative_direction": "Compare Kozak's identity with the questioner in the September 10 footage; note the existing Cosgrove and Kozak identity discrepancy topic.",
       "transcript_snippet": "They also brought out Hunter Kozak who asked the last question to Charlie Kirk.",
@@ -2775,7 +2835,9 @@
         "N-10334",
         "N-10282"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:32",
       "investigative_direction": "Obtain the audience recruitment communications and question submission process from CBS or from attendees.",
       "transcript_snippet": "They filled the audience with people selected by CBS, College Republicans with questions selected by CBS.",
@@ -2799,7 +2861,9 @@
       "related_nodes": [
         "N-11107"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:29",
       "investigative_direction": "Verify the title, publisher and release date of the book and who is promoting it.",
       "transcript_snippet": "this is all a part of a PR blitz for Charlie's upcoming book on honoring the Shabbat",
@@ -2822,7 +2886,9 @@
       "related_nodes": [
         "N-11107"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:20",
       "investigative_direction": "Survey high-profile commentators for any explicit accusation to test the host's statement; compare with later statements by TPUSA allies.",
       "transcript_snippet": "I've seen a lot, somebody come out and say Ericka Kirk murdered Charlie.",
@@ -2844,7 +2910,9 @@
       "related_nodes": [
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:03",
       "investigative_direction": "The host offers no document; identify which department communications she regards as propaganda.",
       "transcript_snippet": "the government is implicated, otherwise it wouldn't require every department of the government using propaganda to convince us against common sense",
@@ -2869,7 +2937,9 @@
       "related_nodes": [
         "N-10349"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:26:17",
       "investigative_direction": "Compare Erika Kirk's wording across interviews for repeated phrases.",
       "transcript_snippet": "We're 3 months in now. Okay? We are still getting rehearsed answers",
@@ -2886,7 +2956,9 @@
       "claim": "The host says anyone who has interviewed her can confirm that she never asks for questions ahead of time, never gives them anything and never says a topic is off the record.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:51",
       "investigative_direction": "Ask past interviewers of the host whether pre-interview question lists were requested or offered.",
       "transcript_snippet": "I never ask for questions ahead of time. I don't want to know.",
@@ -2907,7 +2979,9 @@
         "N-10349",
         "N-10334"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:41",
       "investigative_direction": "Seek the pre-submitted question list from CBS or Erika Kirk's team.",
       "transcript_snippet": "It has to be rehearsed. You got the questions ahead of time.",
@@ -2929,7 +3003,9 @@
       "related_nodes": [
         "N-10193"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:28:41",
       "investigative_direction": "Check whether any prosecutor or court has restricted release of the McCoy call log and under what rule.",
       "transcript_snippet": "letting us see Mikey MacColl's phone records, just one example",
@@ -2953,7 +3029,9 @@
         "N-10253",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:29:52",
       "investigative_direction": "Compile the event-by-event overlap of aircraft arrivals with Turning Point USA faith events.",
       "transcript_snippet": "why it's a statistical anomaly for these Egyptian planes to be surrounding Turning Point USA faith events",
@@ -2976,7 +3054,9 @@
         "A-2832.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:31:24",
       "investigative_direction": "Verify Pre-Born's published statistics and the matching-gift terms.",
       "transcript_snippet": "when a mother sees her baby on an ultrasound and hears that tiny heartbeat her chance of choosing life doubles",
@@ -2994,7 +3074,9 @@
       "related_nodes": [
         "N-10181"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:07",
       "investigative_direction": "Identify which additional participants the host believes were involved; no names are given in this segment.",
       "transcript_snippet": "I think Tyler Robinson was involved on that day I think there were multiple people that were involved on that day obviously multiple were involved",
@@ -3013,7 +3095,9 @@
       "related_nodes": [
         "N-10051"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:07",
       "investigative_direction": "Locate the cemetery clothing recovery in police evidence logs.",
       "transcript_snippet": "I think he took clothes and hid them in the cemetery whatever next to the Dairy Queen",
@@ -3036,7 +3120,9 @@
         "N-10040",
         "N-10028"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:07",
       "investigative_direction": "Examine campus footage and any evidence placing Robinson on campus; the host gives no basis in this segment.",
       "transcript_snippet": "I do not believe Tyler Robinson was on campus that day",
@@ -3055,7 +3141,9 @@
       "related_nodes": [
         "N-10165"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:07",
       "investigative_direction": "Ask the prosecution or UVU which video of the shooter is held and whether a release would be restricted.",
       "transcript_snippet": "how if they just released a photo a video of him taking the shot cuz there's there's video of that",
@@ -3076,7 +3164,9 @@
       "related_nodes": [
         "N-10336"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:27",
       "investigative_direction": "Review the courtroom video and reporters' descriptions of his demeanor.",
       "transcript_snippet": "kind of seemed like he was smiling I did not get the energy of someone who is worried about getting the electric chair",
@@ -3100,7 +3190,9 @@
       "related_nodes": [
         "N-10336"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:27",
       "investigative_direction": "Check the docket for media requests and the court's order on transcript access.",
       "transcript_snippet": "media organizations even for this case are requesting the transcript of the hearing",
@@ -3122,7 +3214,9 @@
       "related_nodes": [
         "N-10416"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:58",
       "investigative_direction": "The host names no agent; identify the PR agent and the person who followed her through recordings or witnesses.",
       "transcript_snippet": "by sending someone to follow me after I was no longer employed there to try to make me look bad on camera",
@@ -3143,14 +3237,16 @@
       "related_nodes": [
         "N-10416"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:58",
       "investigative_direction": "Identify any such materials as published by Cheong and trace their source.",
       "transcript_snippet": "She keeps files and cuts people out of context and then sends it to people like Ian Miles Cheong",
       "mentions_person_refs": [
         "N-3",
         "N-232",
-        "N-616"
+        "N-615"
       ]
     },
     {
@@ -3163,7 +3259,9 @@
         "A-1536.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:39:08",
       "investigative_direction": "Reference the documentary and the claims it made about George Floyd and the BLM charity.",
       "transcript_snippet": "I then did a documentary on it and I revealed to the world that these the media actually is to blame.",
@@ -3185,7 +3283,9 @@
         "N-10187",
         "N-10169"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:41:15",
       "investigative_direction": "Compare Hammer's podcast statements with the text message the host released.",
       "transcript_snippet": "Josh Hammer explicitly lied about Charlie's state of mind.",
@@ -3208,7 +3308,9 @@
         "N-10164",
         "N-10350"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:30",
       "investigative_direction": "Obtain the Alex Clark episode and compare with Charlie's documented Catholic contacts.",
       "transcript_snippet": "Alex Clark, that whole little episode saying Charlie only liked architecture for what it's worth, it wasn't true.",
@@ -3230,7 +3332,9 @@
       "related_nodes": [
         "N-10237"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:42:30",
       "investigative_direction": "Compare Shapiro's statements with released texts between Charlie and the host about Shapiro.",
       "transcript_snippet": "when Ben Shapiro lied and said that he never had any issues with uh Charlie, and I said that's not true.",
@@ -3255,7 +3359,9 @@
       "related_nodes": [
         "N-10237"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:28",
       "investigative_direction": "Review the released texts and their dates to see how Stuckey's characterization compares.",
       "transcript_snippet": "because those texts didn't make Ben look bad.",
@@ -3276,7 +3382,9 @@
         "A-1537.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:44:33",
       "investigative_direction": "Locate the host's statements about Lila Rose and her husband and compare with Stuckey's summary.",
       "transcript_snippet": "she's kind of questioned Lila's military connections, I guess because her husband is a veteran",
@@ -3294,7 +3402,9 @@
       "claim": "The host says Stuckey is a Zionist and will defend people who are Zionists even when they are caught lying, which the host calls dishonesty rather than friendship.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:46:41",
       "investigative_direction": "Review Stuckey's public statements on Israel; the host's characterization is her opinion, recorded as said.",
       "transcript_snippet": "She is a Zionist, and she will defend people who are Zionists even when they're caught lying",
@@ -3315,7 +3425,9 @@
       "related_nodes": [
         "N-11108"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:50:39",
       "investigative_direction": "Check whether Erika Kirk or Turning Point USA later named specific false statements.",
       "transcript_snippet": "as soon as she tells me what it is I've lied about, I will cease lying immediately.",
@@ -3339,7 +3451,9 @@
       "related_nodes": [
         "N-11107"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:51:28",
       "investigative_direction": "Identify the accounts that repeated the \"stop\" line after the broadcast and whether they were coordinated or paid.",
       "transcript_snippet": "It's very obvious to me that was part of like the dress rehearsal, right?",
@@ -3361,7 +3475,9 @@
         "A-1538.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:54:02",
       "investigative_direction": "Locate the original 2018 message the commenter paraphrased.",
       "transcript_snippet": "As you said in 2018, the story of me and CK will be one for the ages.",
@@ -3379,7 +3495,9 @@
       "claim": "The host says that when she and Charlie were on the road together she had a whole boyfriend the entire time, that she was nowhere near Charlie's type and he was nowhere near hers, and that he was a little brother.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:54:02",
       "investigative_direction": "The claim concerns the host's own history; no document is shown.",
       "transcript_snippet": "I had a whole boyfriend that entire time.",
@@ -3398,7 +3516,9 @@
       "related_nodes": [
         "N-10493"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:55:00",
       "investigative_direction": "Review the prior episode's Pierre segment and the timing of attack posts that followed.",
       "transcript_snippet": "suddenly we start talking about Pierre and that billion-dollar incentive and they went crazy",
@@ -3414,7 +3534,9 @@
       "claim": "The host says nobody in the English-speaking West was talking about Brigitte before her series, and that critics now say she does it for money and clicks.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:55:47",
       "investigative_direction": "Check English-language coverage of the Brigitte Macron claims before the host's series began.",
       "transcript_snippet": "Nobody was talking about that in the West in in in the English-speaking world.",
@@ -3436,7 +3558,9 @@
         "N-10335",
         "N-10311"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:56:27",
       "investigative_direction": "Watch the Saturday broadcast for any maroon-shirt mention and check the host's military color claims against official records.",
       "transcript_snippet": "And apparently they also mentioned the maroon boys in Erika's uh propagandized piece",
@@ -3459,7 +3583,9 @@
         "A-2834.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:00:21",
       "investigative_direction": "Confirm the price and availability on the host's site.",
       "transcript_snippet": "you can just watch that on pay-per-view for $1.99 uh if you're not a subscriber.",
@@ -3477,7 +3603,9 @@
         "A-2834.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:00:21",
       "investigative_direction": "Sweeping group claim with no document shown, recorded as said.",
       "transcript_snippet": "And of course it is government sanctioned CIA. Actually, a lot of homosexual men that are behind it if I'm being explicit.",
@@ -3493,7 +3621,9 @@
       "claim": "The host says her beef is not with Erika, that critics push the idea that questioning is going against Erika, and that this resembles how she stood up to her own community on BLM.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:01:13",
       "investigative_direction": "Compare the host's statement with her repeated critiques of Erika Kirk in prior episodes.",
       "transcript_snippet": "my beef is not with Erika. That is that is what they're pushing now that if you question it you're up against Erika.",

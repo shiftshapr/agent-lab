@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 270e4d6bd7c7e45e5b54085cd242a98cd8703f80aa479f990d94ccfcff20d864
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-723, N-11008, N-11012
+  - Tip-minted Nodes (supplement_2026-10): N-722, N-11008, N-11012
   - Hole-minted Nodes (reintro-ep036): N-290, N-10284, N-10294
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-4975–C-5061
   - New Nodes Introduced: N-276, N-278, N-10271, N-10272
-  - Reused Nodes Appearing: N-5, N-9, N-14, N-16, N-36, N-37, N-38, N-42, N-69, N-82, N-336, N-10000, N-10001, N-10012, N-10020, N-10028, N-10029, N-10045, N-10051, N-10116, N-10134, N-10145, N-10175, N-10197, N-10224, N-10243, N-10246, N-10253, N-10261, N-10265, N-10266, N-10268, N-10269, N-10355, N-277, N-725, N-387, N-10270, N-11009, N-10316, N-10862, N-11011, N-724, N-10336, N-10337, N-10345, N-10853, N-11010, N-10342
+  - Reused Nodes Appearing: N-5, N-9, N-14, N-16, N-36, N-37, N-38, N-42, N-69, N-82, N-336, N-10000, N-10001, N-10012, N-10020, N-10028, N-10029, N-10045, N-10051, N-10116, N-10134, N-10145, N-10175, N-10197, N-10224, N-10243, N-10246, N-10253, N-10261, N-10265, N-10266, N-10268, N-10269, N-10355, N-277, N-724, N-387, N-10270, N-11009, N-10316, N-10862, N-11011, N-723, N-10336, N-10337, N-10345, N-10853, N-11010, N-10342
   - (see registers)
 
 ## 6. Meme Register
@@ -268,7 +268,7 @@ Video Timestamp: 00:51:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5053, C-5054, N-725, N-1, N-3*
+*Related: C-5053, C-5054, N-724, N-1, N-3*
 
 ---
 
@@ -811,7 +811,7 @@ Existing topic on Harpole's Shawn Ryan statements.
 
 ---
 
-**N-723** Tom Claire
+**N-722** Tom Claire
 
 First named by the host at 00:09:25 in episode 36. Described as having sent a December 18, 2024 follow-up email about the cease and desist; his role is not stated in the episode.
 
@@ -819,7 +819,7 @@ First named by the host at 00:09:25 in episode 36. Described as having sent a De
 
 ---
 
-**N-724** Volodymyr Zelensky
+**N-723** Volodymyr Zelensky
 
 First named by the host at 00:20:40 in episode 36, transcribed as "Zilinski" and "Zalinski". Identification as Volodymyr Zelensky is inferred from "President" and the Ukraine leaders' meeting.
 
@@ -827,7 +827,7 @@ First named by the host at 00:20:40 in episode 36, transcribed as "Zilinski" and
 
 ---
 
-**N-725** Ron Paul
+**N-724** Ron Paul
 
 First named in a viewer comment read by the host at 00:51:14 in episode 36.
 
@@ -1301,7 +1301,7 @@ Claim: The host says that on December 18, 2024, Tom Claire sent a follow-up emai
 Transcript Snippet: on December 18th, Tom Claire sends another follow-up email regarding the cease and desist. And again, I don't receive it because he's sending it to this random box.
 
 Anchored Artifacts: A-2723.1
-Mentions: N-723, N-3
+Mentions: N-722, N-3
 Related Nodes: N-11011
 Investigative Direction: Obtain the December 18, 2024 email and its delivery headers; confirm the sender's identity and role.
 
@@ -1635,7 +1635,7 @@ Claim: The host says Brigitte Macron greeted President Zelensky (spelled Zilinsk
 Transcript Snippet: Breijit Mcronone welcomes President Zalinski into Paris on September 3rd because there is this remarkable and I would assume rare, I don't know, but 35 state leaders meet to discuss Ukraine
 
 Anchored Artifacts: 
-Mentions: N-82, N-724
+Mentions: N-82, N-723
 Related Nodes: N-10294
 Investigative Direction: Check Elysee schedules and press coverage for the September 3, 2025 Ukraine leaders' meeting and Brigitte Macron's attendance.
 
@@ -2209,7 +2209,7 @@ Claim: A viewer comment read on air says Ron Paul used his platform to question 
 Transcript Snippet: Just know that Ron Paul has used his platform to speak about it. His friend Charlie Kirk questioning the official narrative
 
 Anchored Artifacts: A-2727.1
-Mentions: N-725, N-1, N-3
+Mentions: N-724, N-1, N-3
 Related Nodes: 
 Investigative Direction: Find the Ron Paul statement or broadcast and its date.
 
@@ -2224,7 +2224,7 @@ Claim: The host says Ron Paul is another person she should send an 'insurance pa
 Transcript Snippet: he's another person that I should probably get some stuff out to send him another insurance package as I'm now terming it
 
 Anchored Artifacts: A-2727.1
-Mentions: N-725, N-3
+Mentions: N-724, N-3
 Related Nodes: 
 Investigative Direction: Ask the host whether the package was sent and what it contained.
 

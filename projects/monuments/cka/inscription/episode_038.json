@@ -1524,8 +1524,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-893",
-      "ref": "N-893",
+      "@id": "N-892",
+      "ref": "N-892",
       "name": "Jean-Michel Trogneux",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 38. The name the host uses for Brigitte Macron's alleged earlier male identity; the host asserts, without a document shown, that this person was born male. All claims here are the host's allegations.",
@@ -2565,7 +2565,9 @@
       "claim": "The host asserts that Brigitte Macron, whom she calls Jean-Michel Trogneux, was born male and has been protected so thoroughly that multiple nation-states collude to hide it.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:30",
       "investigative_direction": "Obtain Brigitte Macron's birth and civil records and the Trogneux family registry entries; the host presents no document in this episode.",
       "transcript_snippet": "Imagine being so protected that you force multiple nation-states to collude to hide the obvious fact that you were born with a penis, right?",
@@ -2575,7 +2577,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-893"
+        "N-892"
       ]
     },
     {
@@ -2590,7 +2592,9 @@
         "N-10290",
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:01:20",
       "investigative_direction": "Ask the French Ministry of the Armed Forces and Utah authorities whether any Foreign Legion personnel entered the United States for or around September 10, 2025; obtain UVU event staffing and credential lists.",
       "transcript_snippet": "and that the French Foreign Legion was apparently involved and on the ground at UVU on the day of Charlie Kirk's assassination.",
@@ -2611,7 +2615,9 @@
       "related_nodes": [
         "N-10316"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:50",
       "investigative_direction": "Obtain the host's original post and any record of what the source told her about US government awareness; ask the host which US officials she contacted.",
       "transcript_snippet": "I do not know who in the American government can be trusted since this source claims that our leaders are aware",
@@ -2631,7 +2637,9 @@
       "related_nodes": [
         "N-10316"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:03:55",
       "investigative_direction": "Ask Poussard whether he received threats or any warning in November 2025 and whether he reported them to French or US authorities.",
       "transcript_snippet": "Journalist Xavier Poussard's life is also at risk.",
@@ -2652,7 +2660,9 @@
       "related_nodes": [
         "N-10316"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:20",
       "investigative_direction": "Ask the host's source for the transfer records; any bank or transfer document would confirm or refute the amount and the payer.",
       "transcript_snippet": "I said there was a paper trail that Macron allegedly paid $1.5 million",
@@ -2675,7 +2685,9 @@
       "related_nodes": [
         "N-10316"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:55",
       "investigative_direction": "Ask the host's source to identify the two individuals; check French and Canadian travel and law enforcement records only if a name is supplied.",
       "transcript_snippet": "Two assassins were hired, one Israeli, one French-Canadian woman, okay?",
@@ -2696,7 +2708,9 @@
       "related_nodes": [
         "N-10316"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:05:05",
       "investigative_direction": "Identify the club the host means (the name is as transcribed) and request membership or banking records from the host's source.",
       "transcript_snippet": "I also said that the money ran through the elite gentlemen's club des Fontes.",
@@ -2714,7 +2728,9 @@
         "A-1461.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:05:50",
       "investigative_direction": "Check the post's public engagement counts on X or archived copies.",
       "transcript_snippet": "the tweet alone had over 100,000 retweets and 45 million impressions on X alone",
@@ -2730,7 +2746,9 @@
       "claim": "The host says the Macrons hired a private investigator to see whether she was colluding with other state actors, and that they insinuated she might be working with Russia.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:20",
       "investigative_direction": "Look for the investigator's engagement in the Delaware litigation record or discovery filings; ask the host's lawyers for the basis of the claim.",
       "transcript_snippet": "they even hired a private investigator to try to see if I was colluding with other state actors.",
@@ -2752,7 +2770,9 @@
       "related_nodes": [
         "N-11280"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:00",
       "investigative_direction": "Search Elysee communique archives and French press for any reaction between November 25 and December 1, 2025.",
       "transcript_snippet": "It's now been a full week since I made that announcement. And here is the official response issued by the Élysée Palace.",
@@ -2774,7 +2794,9 @@
         "N-10075",
         "N-11280"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:00",
       "investigative_direction": "Check White House press briefings and statements between November 25 and December 1, 2025 for any comment on the host's claim.",
       "transcript_snippet": "Press the White House for a response, right? The White House is the ball's very firmly in their court and a week later, this is the official White House response.",
@@ -2797,7 +2819,9 @@
         "N-10088",
         "N-11280"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:30",
       "investigative_direction": "Request the host's report records (dates, recipients, channels) and FOIA the FBI and counterterrorism intake logs for late November 2025.",
       "transcript_snippet": "Did I report it to the White House? Of course, I reported it to the White House. Did I report to the FBI? Of course, I reported it to the FBI.",
@@ -2815,7 +2839,9 @@
         "A-1462.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:10:50",
       "investigative_direction": "Find Charlie Kirk's original statement or post about tariffs on France over Durov's arrest and confirm the 300% figure and date.",
       "transcript_snippet": "Charlie even called for 300% tariffs on France until the charges against me were dropped.",
@@ -2840,7 +2866,9 @@
         "N-10075",
         "N-11280"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:20",
       "investigative_direction": "Ask the host for the White House reply and its date; request the correspondence record from the White House.",
       "transcript_snippet": "I did hear back from the White House confirming that that message had been delivered on Trump's desk",
@@ -2862,7 +2890,9 @@
         "N-10014",
         "N-11280"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:40",
       "investigative_direction": "Ask the host who received the text and when; FBI records of any contact from the host in late November 2025 would confirm or refute it.",
       "transcript_snippet": "but the FBI left me on red.",
@@ -2884,7 +2914,9 @@
         "N-10150",
         "N-11280"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:10",
       "investigative_direction": "Ask the FBI Salt Lake City field office whether anyone attempted to contact the host after November 25, 2025.",
       "transcript_snippet": "No phone calls even from Utah's FBI branch have come in to me either.",
@@ -2907,7 +2939,9 @@
         "N-10277",
         "N-10290"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:30",
       "investigative_direction": "Obtain Minnesota National Guard and Air Force press releases on Operation Valhalla at Camp Ripley, with dates, units and civilian participants.",
       "transcript_snippet": "It was a joint exercise with civilians, which included um uh military men from the Minot Air Force Base.",
@@ -2923,14 +2957,16 @@
       "claim": "The host says the military will not release the military file of Jean-Michel Trogneux and that what he was doing in the military is unknown.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:18:10",
       "investigative_direction": "Obtain any French military records request and denial concerning Jean-Michel Trogneux; the host cites no specific request here.",
       "transcript_snippet": "the military won't release your file, and we don't know what you were doing in the military as Jean-Michel Trogneux.",
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-893"
+        "N-892"
       ]
     },
     {
@@ -2945,7 +2981,9 @@
         "N-10145",
         "N-11279"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:00",
       "investigative_direction": "Interview attending UVU students and compare the event announcement timing with TPUSA's social posts and UVU event records.",
       "transcript_snippet": "the UVU students who attended said that they felt like they didn't recognize anybody that was there.",
@@ -2964,7 +3002,9 @@
         "N-10012",
         "N-11279"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:19:30",
       "investigative_direction": "Survey national coverage from September 10-14, 2025 for on-record interviews with UVU students and compare to adults interviewed.",
       "transcript_snippet": "It looks like they're almost trying not to interview any UVU students, right?",
@@ -2985,7 +3025,9 @@
         "N-10292",
         "N-10290"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:22:45",
       "investigative_direction": "Check the Legion's regiment list and the August 2025 command-change notices to confirm the regiment count and the six units.",
       "transcript_snippet": "we found that they have 12 regiments that are known of, and you're telling me that they gutted leadership of six",
@@ -3008,7 +3050,9 @@
         "N-10266",
         "N-10074"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:20",
       "investigative_direction": "Pull SU-BTT ADS-B and FAA flight records for September 10, 2025 for departure time, origin and destination.",
       "transcript_snippet": "we were trying to track the Egyptian plane, SUBTT, our yellow plane, which departed on the morning of Charlie Kirk's assassination from Provo",
@@ -3028,7 +3072,9 @@
         "N-11008",
         "N-10269"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:35",
       "investigative_direction": "Obtain the hangar lease, Delaware filings and Satis investment announcements to confirm the amount, term and stated purpose.",
       "transcript_snippet": "Satys, which is a French company, injected $1.5 million ostensibly to paint planes, okay, in Wilmington, Delaware.",
@@ -3050,7 +3096,9 @@
         "N-11008",
         "N-11011"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:50",
       "investigative_direction": "Compare the cease-and-desist date with the Satis announcement and lease execution dates in public filings.",
       "transcript_snippet": "they sign off on that the very week that I get sent this cease and desist",
@@ -3075,7 +3123,9 @@
         "N-10284",
         "N-10269"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:30",
       "investigative_direction": "Identify the source's basis (witness, video or vehicle records) and check airport ground-transport and security logs for September 10, 2025.",
       "transcript_snippet": "a foreign dignitary was escorted, right, from that hangar to 920 North King Street in Wilmington, Delaware",
@@ -3099,7 +3149,9 @@
         "N-10265",
         "N-10284"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:50",
       "investigative_direction": "Review GSA lease and federal tenant records for 920 North King Street to identify which agencies occupy it.",
       "transcript_snippet": "a place that we learned and confirmed had three federal agencies working together in one building.",
@@ -3123,7 +3175,9 @@
         "N-10265",
         "N-10270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:00",
       "investigative_direction": "Check the Delaware docket for counsel of record and their addresses.",
       "transcript_snippet": "it is also a place which houses the attorneys that are filing my paperwork in the Brigitte lawsuit.",
@@ -3145,7 +3199,9 @@
         "N-10265",
         "N-10270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:20",
       "investigative_direction": "Compare counsel-of-record addresses on the Delaware docket for both parties.",
       "transcript_snippet": "Brigitte's lawyers in my lawsuit are directly across the street from that firm, okay? Confirmed.",
@@ -3166,7 +3222,9 @@
       "related_nodes": [
         "N-10285"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:28:40",
       "investigative_direction": "Check New Castle County property records and Wilmington commercial real estate coverage for the complex's size, builder and ownership history.",
       "transcript_snippet": "It spans over 1 million square feet."
@@ -3183,7 +3241,9 @@
       "related_nodes": [
         "N-10287"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:29:40",
       "investigative_direction": "Check DuPont corporate history for Kevlar's development; the military-tie assertion is general and would need specific contracts.",
       "transcript_snippet": "they are the original manufacturers of Kevlar",
@@ -3203,7 +3263,9 @@
       "related_nodes": [
         "N-10289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:31:10",
       "investigative_direction": "Check New Castle County deed and tax records for the owner of 500 Delaware Avenue.",
       "transcript_snippet": "And that is also somehow owned by France.",
@@ -3223,7 +3285,9 @@
       "related_nodes": [
         "N-10289"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:32:30",
       "investigative_direction": "Identify the firm (the transcript renders it as MGM) and check its lease date and staff biographies.",
       "transcript_snippet": "MGM and M has many employees that are either fluent in French or connected or are connected to France altogether.",
@@ -3247,7 +3311,9 @@
         "N-10286",
         "N-10285"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:00",
       "investigative_direction": "Check Delaware permits and Incyte filings for ownership of the 1100 North King Street site.",
       "transcript_snippet": "apparently a global biopharmaceutical company called Incyte owns it, okay?"
@@ -3265,7 +3331,9 @@
         "N-10286",
         "N-10285"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:30",
       "investigative_direction": "Review the May 2024 article and Wilmington building permits for the project schedule and any stated purpose.",
       "transcript_snippet": "On May 2024, they say that construction is expected to take about a year.",
@@ -3285,7 +3353,9 @@
       "related_nodes": [
         "N-10286"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:33:50",
       "investigative_direction": "Check Incyte SEC filings for the CEO-to-advisor transition date and the Bracebridge acquisition approvals.",
       "transcript_snippet": "He is directly responsible for this construction at Bracebridge, and he was the one that finalized the deal.",
@@ -3310,7 +3380,9 @@
       "related_nodes": [
         "N-10286"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:30",
       "investigative_direction": "Check federal procurement records (USAspending, VA contracts) for Incyte.",
       "transcript_snippet": "is also plugged directly into the federal medical supply chains, which include our VA systems"
@@ -3325,7 +3397,9 @@
       "related_nodes": [
         "N-11277"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:20",
       "investigative_direction": "Identify the callers and dates through the host's phone records; compare with the February 25-26 calls she previously described.",
       "transcript_snippet": "I get a call from federal government asking me to stop speaking about Brigitte.",
@@ -3348,7 +3422,9 @@
       "related_nodes": [
         "N-10015"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:50",
       "investigative_direction": "Ask the host for the tip's origin and any corroboration; no document is shown in this episode.",
       "transcript_snippet": "Brigitte might be an asset to the Mossad, which is what we had received a tip regarding",
@@ -3370,14 +3446,16 @@
         "N-11277",
         "N-10270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:30",
       "investigative_direction": "Review the Delaware docket for the timing of filing and any federal involvement; the host offers no direct evidence of agency coordination.",
       "transcript_snippet": "I feel like I was set up by the federal government in terms of this lawsuit.",
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-893"
+        "N-892"
       ]
     },
     {
@@ -3388,14 +3466,16 @@
       "claim": "The host says Brigitte Macron says Jean-Michel Trogneux was in America in the 1960s at least for the moon landing, with no details given, and that she believes this was a psychological operation.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:36:50",
       "investigative_direction": "Find the original statement by Brigitte Macron about being in America and the moon landing and check its wording.",
       "transcript_snippet": "because Brigitte says he was in America, we know Brigitte was in America in the '60s at least for the moon landing.",
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-893"
+        "N-892"
       ]
     },
     {
@@ -3409,7 +3489,9 @@
         "N-10001",
         "N-10116"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:20",
       "investigative_direction": "Count MK Ultra references in the complaint and compare Brigitte Macron's stated birth date with the program's start date.",
       "transcript_snippet": "the mentioning of MK Ultra 18 times absurdly in my lawsuit",
@@ -3434,7 +3516,9 @@
         "N-11008",
         "N-11278"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:38:10",
       "investigative_direction": "Check Satys shareholder disclosures and Ace Partners' portfolio page.",
       "transcript_snippet": "They are the second largest shareholder to Satys.",
@@ -3454,7 +3538,9 @@
       "related_nodes": [
         "N-11278"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:30",
       "investigative_direction": "Archive and read the Ace Partners website text; note it differs from the on-air mission statement wording (global focus with a specific focus on Israel).",
       "transcript_snippet": "They are explicit, they only invest in companies and organizations that benefit Israel. That's on their website.",
@@ -3477,7 +3563,9 @@
       "related_nodes": [
         "N-10294"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:40:00",
       "investigative_direction": "Review Elysee schedules, press photos and French news for any appearance by Brigitte Macron between September 5 and 10, 2025.",
       "transcript_snippet": "after that Brigitte just falls off a cliff for 6 days. Brigitte's just gone for 6 days.",
@@ -3498,7 +3586,9 @@
       "related_nodes": [
         "N-10283"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:41:10",
       "investigative_direction": "This is a source-email generalization with no bearing on the case; no verification path beyond public records on local services.",
       "transcript_snippet": "Our first ever trans congressman, you guys, guess where? Wilmington, Delaware.",
@@ -3519,7 +3609,9 @@
         "N-11277",
         "N-10270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:46:20",
       "investigative_direction": "Check State Department and White House statements on the Macron lawsuit in 2025.",
       "transcript_snippet": "which would explain why they never commented on the absurdity of a foreign nation coming after our speech",
@@ -3537,7 +3629,9 @@
         "A-1473.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:50",
       "investigative_direction": "Compare public statements by the host and Crowder about their relationship over time.",
       "transcript_snippet": "I have never been friends with Steven Crowder.",
@@ -3559,7 +3653,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:49:00",
       "investigative_direction": "Ask named Daily Wire colleagues whether they remain in contact with the host.",
       "transcript_snippet": "I am still friends with every single one of my colleagues that I was friends when I went in there.",
@@ -3581,7 +3677,9 @@
         "N-10297",
         "N-10059"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:51:00",
       "investigative_direction": "Review the PBD episode for Bolling's exact words about 2017 and compare with Kirk and Owens messages and appearances after 2017.",
       "transcript_snippet": "it was notoriously Eric Bolling that sat across from Adam when they attacked me over Charlie and lied and said I hadn't been friends with Charlie Kirk since 2017.",
@@ -3600,7 +3698,9 @@
       "claim": "The host says she thinks there is another identity in between, potentially in the 1980s, before Brigitte emerges as a woman.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:54:50",
       "investigative_direction": "The host offers no evidence; any civil or military record from the 1980s would be the only test.",
       "transcript_snippet": "I think there's another identity in between there that happens potentially in the 80s",
@@ -3621,7 +3721,9 @@
       "related_nodes": [
         "N-11010"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:55:40",
       "investigative_direction": "Obtain the host's and Kolvet's phone records for September 10, 2025 and ask Kolvet to describe the call.",
       "transcript_snippet": "Andrew Kolvet called me from the hospital and basically said you and Tucker should shut up because you guys are on a list.",
@@ -3646,7 +3748,9 @@
       "related_nodes": [
         "N-11010"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:55:50",
       "investigative_direction": "Review charging documents and public filings for any mention of a list of targets; ask prosecutors whether one exists.",
       "transcript_snippet": "Nobody mentioned that Tyler Robinson had a list.",
@@ -3665,7 +3769,9 @@
       "claim": "The host says she believes the world is run by the military, which she calls the global state military, and that democracy is a delusion.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:56:00",
       "investigative_direction": "Opinion about world governance with no testable record.",
       "transcript_snippet": "I do believe that we are a run by the military",
@@ -3685,7 +3791,9 @@
       "related_nodes": [
         "N-10297"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:57:00",
       "investigative_direction": "Check Bolling's later broadcasts or posts for any public correction about the Kirk friendship.",
       "transcript_snippet": "Keep the same energy. Do it publicly. Say I lied or I misspoke whichever it is. He's not done that.",
@@ -3705,7 +3813,9 @@
         "N-10012",
         "N-11279"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:58:40",
       "investigative_direction": "Request UVU and Utah National Guard deployment and credential records for September 10, 2025.",
       "transcript_snippet": "the fact that they didn't recognize anybody indicates that we might be looking at military regiments that were there.",
@@ -3725,7 +3835,9 @@
         "N-10222",
         "N-10290"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:59:20",
       "investigative_direction": "Obtain the cell-site data behind the 12 phones claim and Utah National Guard activation orders for September 10, 2025.",
       "transcript_snippet": "I think there were some national guard national guard regiments that were there, some French Foreign Legionnaires that were there and yes, some Israelis that were there",
@@ -3741,13 +3853,15 @@
       "claim": "The host says the Trogneux family claim of running a chocolatier factory without interruption from the 1880s is not possible because the Nazis bombed and occupied Amiens.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:00:05",
       "investigative_direction": "Check Amiens municipal and Trogneux company records for wartime operations and dates.",
       "transcript_snippet": "They just ran this this chocolatier factory from like the 1880s all the way through to now. Not possible. Nazis uh did an aerial bombardment. They occupied the city of Amiens.",
       "mentions_person_refs": [
         "N-3",
-        "N-893"
+        "N-892"
       ]
     },
     {
@@ -3758,13 +3872,15 @@
       "claim": "The host says she thinks the Trogneux identity was created for the family and that the true family is very powerful, which is why it protects the secret.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:00:20",
       "investigative_direction": "Speculation with no document; genealogical and civil records are the only test.",
       "transcript_snippet": "This seems to me to be an identity that was just created and materialized for this family, and that the true family is a very powerful family",
       "mentions_person_refs": [
         "N-3",
-        "N-893",
+        "N-892",
         "N-82"
       ]
     }

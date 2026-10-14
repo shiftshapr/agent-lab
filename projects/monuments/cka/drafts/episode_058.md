@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: f2711e85e7a5dac6180d0330f718521458d116b136a35e9d84389c67776a7492
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-868, N-869, N-870, N-11237, N-11238, N-11239, N-11240, N-11241, N-11242
-  - Hole-minted Nodes (reintro-ep058): N-541, N-10428, N-10472
-  - Tip-minted Nodes (reintro-ep058): N-738, N-786, N-11126
+  - Tip-minted Nodes (supplement_2026-10d): N-867, N-868, N-869, N-11237, N-11238, N-11239, N-11240, N-11241, N-11242
+  - Hole-minted Nodes (reintro-ep058): N-540, N-10428, N-10472
+  - Tip-minted Nodes (reintro-ep058): N-737, N-785, N-11126
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9830–C-9912
   - New Nodes Introduced: N-470, N-471, N-472, N-473, N-474, N-475, N-476, N-477, N-478, N-479, N-480, N-10418, N-10419, N-10420, N-10421, N-10423
-  - Reused Nodes Appearing: N-15, N-10417, N-10422, N-10424, N-1, N-14, N-17, N-42, N-61, N-242, N-284, N-332, N-369, N-461, N-462, N-467, N-767, N-815, N-10000, N-10001, N-10012, N-10023, N-10028, N-10032, N-10144, N-10209, N-10268, N-10365, N-10367, N-10368, N-10375, N-10380, N-10386, N-10401, N-10411, N-10413, N-10900, N-11104, N-11166, N-11167
+  - Reused Nodes Appearing: N-15, N-10417, N-10422, N-10424, N-1, N-14, N-17, N-42, N-61, N-242, N-284, N-332, N-369, N-461, N-462, N-467, N-766, N-814, N-10000, N-10001, N-10012, N-10023, N-10028, N-10032, N-10144, N-10209, N-10268, N-10365, N-10367, N-10368, N-10375, N-10380, N-10386, N-10401, N-10411, N-10413, N-10900, N-11104, N-11166, N-11167
   - (see registers)
 
 ## 2. Executive Summary
@@ -875,7 +875,7 @@ Media figure; the host says he funded Operation Underground.
 
 ---
 
-**N-815** Paul Vallely
+**N-814** Paul Vallely
 
 Retired Army general on the TPUSA advisory board.
 
@@ -971,7 +971,7 @@ Operation Paperclip, cited by the host.
 
 ---
 
-**N-767** Astrid Tuminez
+**N-766** Astrid Tuminez
 
 UVU president; the host says she stepped down and was absent on September 10.
 
@@ -995,7 +995,7 @@ Utah Valley University campus.
 
 ---
 
-**N-541** Jean-Luc Brunel
+**N-540** Jean-Luc Brunel
 
 Modeling agent linked to Epstein; the host says he flew 12-year-old triplets to him.
 
@@ -1011,7 +1011,7 @@ Epstein as Israeli intelligence asset allegation.
 
 ---
 
-**N-738** Jack Parsons
+**N-737** Jack Parsons
 
 Rocket scientist and occultist the host cites as a Crowley student.
 
@@ -1019,7 +1019,7 @@ Rocket scientist and occultist the host cites as a Crowley student.
 
 ---
 
-**N-786** Aleister Crowley
+**N-785** Aleister Crowley
 
 Occultist cited by the host.
 
@@ -1043,7 +1043,7 @@ Air Force reservist the host says co-founded TPUSA.
 
 ---
 
-**N-868** Pete McCormick
+**N-867** Pete McCormick
 
 First named by the host at 00:06:05 in episode 58 as Colonel Pete McCormick, grandfather of cast member Payton McCormick.
 
@@ -1051,7 +1051,7 @@ First named by the host at 00:06:05 in episode 58 as Colonel Pete McCormick, gra
 
 ---
 
-**N-869** Allan McCormick
+**N-868** Allan McCormick
 
 First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca, father of cast member Payton McCormick.
 
@@ -1059,7 +1059,7 @@ First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allan Mc
 
 ---
 
-**N-870** Myron Gaines
+**N-869** Myron Gaines
 
 First named by the host at 01:02:10 in episode 58 as the interviewer in an interview with her dropping the next day.
 
@@ -1574,7 +1574,7 @@ Claim: The host says cast member Payton McCormick's grandfather is Colonel Pete 
 Transcript Snippet: Her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.
 
 Anchored Artifacts: 
-Mentions: N-474, N-868, N-869
+Mentions: N-474, N-867, N-868
 Related Nodes: N-10417, N-10418
 Tags: relevance:context
 Investigative Direction: Confirm the family relationships and Allan McCormick's Fort Huachuca assignment through Army records or public obituaries.
@@ -1866,7 +1866,7 @@ Claim: The host says that on an earlier episode she said Retired Army General Pa
 Transcript Snippet: I think on that episode I said he was on the board, I meant to say he's on the advisory board.
 
 Anchored Artifacts: 
-Mentions: N-815, N-3
+Mentions: N-814, N-3
 Related Nodes: N-10000
 Supports: C-8245
 Tags: relevance:core
@@ -1883,7 +1883,7 @@ Claim: The host says Vallely, a retired Army general who ran psychological opera
 Transcript Snippet: We got this retired Army general who actually ran psychological operations and happened to co-write a book with this guy who was an avowed Satanist and started his own kind of Church of Satan called the Temple of Set
 
 Anchored Artifacts: 
-Mentions: N-815, N-3
+Mentions: N-814, N-3
 Related Nodes: N-11238
 Supports: C-8246
 Tags: relevance:context
@@ -2269,7 +2269,7 @@ Claim: The host says Astrid Tuminez has just stepped down from Utah Valley Unive
 Transcript Snippet: who by the way has just stepped down from Utah Valley University. It was just announced
 
 Anchored Artifacts: 
-Mentions: N-767, N-3
+Mentions: N-766, N-3
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: Check the UVU announcement and its date.
@@ -2285,7 +2285,7 @@ Claim: The host says Tuminez was not at UVU on the day of Charlie's assassinatio
 Transcript Snippet: she was not there on the day of Charlie's assassination.
 
 Anchored Artifacts: 
-Mentions: N-767, N-1, N-3
+Mentions: N-766, N-1, N-3
 Related Nodes: N-10012, N-10028
 Tags: relevance:core
 Investigative Direction: Obtain Tuminez's September 10, 2025 whereabouts and travel; previously claimed absences can be compared.
@@ -2301,7 +2301,7 @@ Claim: The host says Tuminez looks to have been involved in color revolution wor
 Transcript Snippet: Looks like she was involved in some color revolution stuff for the CIA. She was a fostered child, was rescued from the Philippines.
 
 Anchored Artifacts: 
-Mentions: N-767, N-3
+Mentions: N-766, N-3
 Related Nodes: N-10012
 Tags: relevance:context
 Investigative Direction: Check Tuminez's published biography and memoir for her childhood and career; the CIA work claim has no cited source.
@@ -2332,7 +2332,7 @@ Claim: The host says Epstein, for his own birthday, found 12-year-old triplets w
 Transcript Snippet: his friend uh Jean-Luc Brunel in Paris flew these 12-year-old triplets to Jeffrey Epstein
 
 Anchored Artifacts: 
-Mentions: N-9, N-541, N-3
+Mentions: N-9, N-540, N-3
 Tags: relevance:core
 Investigative Direction: Search the unsealed Giuffre and Maxwell filings and the Brunel investigation for the triplets allegation.
 
@@ -2459,7 +2459,7 @@ Claim: The host asks whether Jack Parsons, whom she says established the Apollo 
 Transcript Snippet: Did Jackson did Jack Parsons exist the who established the Apollo program at NASA? Was he similarly conducting occult sexual rituals to establish a moon child?
 
 Anchored Artifacts: 
-Mentions: N-738, N-786, N-3
+Mentions: N-737, N-785, N-3
 Tags: relevance:tangential
 Investigative Direction: Parsons is documented as a JPL co-founder and Thelema follower; historians do not credit him with founding the Apollo program.
 
@@ -2716,7 +2716,7 @@ Claim: The host says an interview between her and Myron Gaines drops the next da
 Transcript Snippet: we have an interview dropping tomorrow between me and Myron Gaines
 
 Anchored Artifacts: 
-Mentions: N-870, N-3
+Mentions: N-869, N-3
 Tags: relevance:tangential
 Investigative Direction: Check the release of the interview on the following day.
 

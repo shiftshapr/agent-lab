@@ -637,8 +637,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-725",
-      "ref": "N-725",
+      "@id": "N-724",
+      "ref": "N-724",
       "name": "Ron Paul",
       "type": "person",
       "description": "Libertarian former congressman; named in C-1649 (Shapiro imagery).",
@@ -885,8 +885,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-674",
-      "ref": "N-674",
+      "@id": "N-673",
+      "ref": "N-673",
       "name": "Ivanka Trump",
       "type": "person",
       "description": "Named in the host's remarks on Kushner's deals.",
@@ -1149,8 +1149,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-865",
-      "ref": "N-865",
+      "@id": "N-864",
+      "ref": "N-864",
       "name": "Lauren Chen",
       "type": "person",
       "description": "First named by the host at 00:12:33 in episode 28. Host of the X Space where Boring spoke with Fuentes.",
@@ -1466,7 +1466,7 @@
       "claim_timestamp": "00:02:12",
       "investigative_direction": "Locate the original tweets via web archives to verify wording, date, and any subsequent deletion or apology.",
       "mentions_person_refs": [
-        "N-725",
+        "N-724",
         "N-97"
       ]
     },
@@ -1520,7 +1520,9 @@
       "related_nodes": [
         "N-10406"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:12",
       "investigative_direction": "Obtain full video of the Kelly tour stop and compare Shapiro's questions to Kelly with what the host and Carlson actually said.",
       "transcript_snippet": "I'm going to peer pressure Megan Kelly myself. I'm going to make her disavow me. Make her disavow Candace Owens.",
@@ -1541,7 +1543,9 @@
       "related_nodes": [
         "N-10237"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:12",
       "investigative_direction": "Trace the earliest accounts and posts pushing the 'Candace attacked Erika' framing and test the host's assertion of coordination with account-level and timing data.",
       "transcript_snippet": "you saw this narrative circulating amongst people who were just absurdly making claims that I attacked Erika. And I know what these organic movements look like.",
@@ -1561,7 +1565,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:02:12",
       "investigative_direction": "Obtain a Daily Wire separation agreement or a former employee's account confirming a six-month restriction on working for Carlson's outlet.",
       "transcript_snippet": "people at the Daily Wire when they're leaving the Daily Wire have to sign agreements that they're not going to go work for Tucker Carlson for 6 months.",
@@ -1580,7 +1586,9 @@
         "A-1357.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:02:12",
       "investigative_direction": "Compare with Shapiro's own account of the call and text in the Kelly tour clip and any published text screenshots.",
       "transcript_snippet": "Tucker and him had a nice conversation on the day that Charlie Kirk died and Tucker then sent a nice text because Ben had called him",
@@ -1603,7 +1611,9 @@
         "A-1356.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:06:24",
       "investigative_direction": "Pull the full Carlson and Greene episode and Shapiro's stage remarks to see whether Carlson praised or merely explained Mamdani's win.",
       "transcript_snippet": "But to the insinuation that Tucker somehow supported Mandani and said like nice things about him when he sat down with Marjgerie Taylor Green, here's actually what Tucker said",
@@ -1627,7 +1637,9 @@
         "A-1356.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:07:30",
       "investigative_direction": "Confirm the date of the Carlson and Greene episode against the June 2025 New York Democratic primary and the Iran news cycle.",
       "transcript_snippet": "And I just can't get over what happened in our biggest city this week, the very same week, that everybody in DC is focused thousands of miles away on the greatest threat we face",
@@ -1649,7 +1661,9 @@
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:20",
       "investigative_direction": "Check the debate transcript for the foreign-country question and each candidate's answer.",
       "transcript_snippet": "They were all the candidates were asked, \"If you could visit a foreign country, what would it be?\" And they of course all had an answer. I think most said Israel.",
@@ -1671,7 +1685,9 @@
       "related_nodes": [
         "N-10406"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:56",
       "investigative_direction": "Compare with Kelly's later public statements on the Owens investigation, including those around the same tour stop.",
       "transcript_snippet": "but my my position is it's really none of my business.",
@@ -1693,7 +1709,9 @@
       "related_nodes": [
         "N-10237"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:33",
       "investigative_direction": "Search the host's episode transcripts for any statement tying Seth Dillon to the killing, as opposed to the Hamptons pressure claims.",
       "transcript_snippet": "I never once accused Seth Dylan of murdering Charlie Kirk.",
@@ -1717,7 +1735,9 @@
         "N-10345",
         "N-10016"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:33",
       "investigative_direction": "Compare Dillon's public statements about the Hamptons meeting with attendee accounts, emails and calendar records of the August 2025 retreat.",
       "transcript_snippet": "Seth Dylan, I told the truth that Seth Dylan lied about the Hampton's meeting and that he was pushing uh he was pressuring Charlie about the topic of Israel.",
@@ -1740,7 +1760,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:10:33",
       "investigative_direction": "Review the host's earlier episodes for coverage of Erika's background to test the claim that she deliberately held it back.",
       "transcript_snippet": "I actually was getting flack from my audience for not covering Erika's past or speaking about her parents.",
@@ -1761,7 +1783,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:12:33",
       "investigative_direction": "Check the date of the X Space (HuffPost cites March 25) against the date of the host's Daily Wire exit.",
       "transcript_snippet": "I distinctly remember the week that I was gloriously fired from the Daily Wire. And during that week, the CEO of the Daily Wire, at the time it was Jeremy Boring, jumped onto an Xspace hosted by Lauren Chen",
@@ -1771,7 +1795,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-374",
-        "N-865"
+        "N-864"
       ]
     },
     {
@@ -1787,7 +1811,9 @@
       "related_nodes": [
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:04",
       "investigative_direction": "Confirm the year of the X Space; the existing claim C-1640 gives March 25, 2025, which the transcript does not state.",
       "transcript_snippet": "when the Daily Wire position in 2024 was that their CEO could talk to Nick Fuentes publicly, praise Nick Fuentes publicly",
@@ -1809,7 +1835,9 @@
         "A-1359.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:04",
       "investigative_direction": "Obtain the full X Space recording and confirm the speaker and wording.",
       "transcript_snippet": "I don't like that guys like Shapiro cannot will not say Christ is king. America first. I think they forfeit their ability to lead.",
@@ -1829,7 +1857,9 @@
         "A-1360.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:15:45",
       "investigative_direction": "Obtain the host's text threads with Kirk and corroboration from third parties about Shapiro's actions.",
       "transcript_snippet": "it is just a fact that Ben Shapiro did a lot of things behind the scenes to stop the rise of Charlie Kirk.",
@@ -1851,7 +1881,9 @@
       "related_nodes": [
         "N-11231"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:27",
       "investigative_direction": "Examine the message archive and the cited YAF-linked articles for authorship and timing.",
       "transcript_snippet": "I have literal hundreds of them pertaining to Ben sending his YAF boys, the AF boys, National Review peeps that were coming after us writing articles.",
@@ -1874,7 +1906,9 @@
         "A-1360.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:16:27",
       "investigative_direction": "Corroborate the call through Kirk's phone records or the text exchange that refers to it; compare with Shapiro's account.",
       "transcript_snippet": "Ben called Charlie and he was lamenting the fact that Charlie and I had this friendship and warning him that he shouldn't have him.",
@@ -1894,7 +1928,9 @@
         "A-1360.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:50",
       "investigative_direction": "Authenticate the text via the original device or metadata and date it relative to Shapiro's call.",
       "transcript_snippet": "He views you as my slave 100%. Control her is what he really was saying to me when he called.",
@@ -1917,7 +1953,9 @@
       "related_nodes": [
         "N-10406"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:50",
       "investigative_direction": "Review Kelly's public statements about Kirk's last weeks and what he told her.",
       "transcript_snippet": "Megan who was actually a very good friend to Charlie. Charlie deeply respected her and towards the end obviously she took a very principled position on telling the truth about what he was going through",
@@ -1939,7 +1977,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:50",
       "investigative_direction": "Check TPUSA payroll, board and org records for Erika Kirk's role before September 10, 2025, including the September 2 internal memo.",
       "transcript_snippet": "Erika who wasn't even working for Turning Point USA uh when Charlie died because now she's the CEO",
@@ -1957,7 +1997,9 @@
       "claim": "The host says Ben Shapiro supports and congratulated Randy Fine, who she says tweeted laughing at photos of dead Palestinian babies.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:19:00",
       "investigative_direction": "Locate Shapiro's post congratulating Fine and the Fine tweet the host describes.",
       "transcript_snippet": "He supports and congratulated Randy Fine who has literally tweeted laughing at photos of dead Palestinian babies.",
@@ -1974,7 +2016,9 @@
       "claim": "The host says Ben Shapiro sat down with Benjamin Netanyahu the previous month and asks whether he pressed Netanyahu on the point of genocide, which she says Netanyahu is being tried for.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:19:46",
       "investigative_direction": "Find the date and transcript of Shapiro's Netanyahu interview and check what was asked about Gaza.",
       "transcript_snippet": "BB Netanyahu is committing a genocide and Ben Shapiro sat down with him last month.",
@@ -1993,7 +2037,9 @@
         "A-1359.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:35",
       "investigative_direction": "Review the Boring and Fuentes X Space and Fuentes's own account of his dismissal to see what Boring and Shapiro actually conceded.",
       "transcript_snippet": "He started asking questions about Israel and he got artificially pushed out of the market when he had his whole life ahead of him.",
@@ -2013,7 +2059,9 @@
         "A-1359.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:20:35",
       "investigative_direction": "Search Shapiro's public statements for any denial or response to Fuentes's account.",
       "transcript_snippet": "Ben has never come out and denied anything that Nick Fuentes has said",
@@ -2030,7 +2078,9 @@
       "claim": "The host says Nick Fuentes survived without advertisers, sponsors or connections and was put on the ADL's list.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:22:08",
       "investigative_direction": "Check the ADL's published listings for Fuentes and the date he was added.",
       "transcript_snippet": "with the entire media writing things about him, being put on the ADL's list, he has proven to be quite resilient.",
@@ -2050,7 +2100,9 @@
       "related_nodes": [
         "N-10106"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:09",
       "investigative_direction": "Find Kirk's own statements using the phrase moral blackmail and the context in which he used it.",
       "transcript_snippet": "That is exactly the moral blackmail that Charlie was speaking about in the last days of his life.",
@@ -2075,7 +2127,9 @@
       "related_nodes": [
         "N-10236"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:24:09",
       "investigative_direction": "Obtain the ticketing, seating and attendee data for the Kelly tour stop to test whether the audience reaction was coordinated.",
       "transcript_snippet": "It is pre-planned. It is not organic. The supporters are not organic.",
@@ -2096,7 +2150,9 @@
       "related_nodes": [
         "N-10238"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:16",
       "investigative_direction": "Identify the original tipster at the Daily Wire and any message showing the plan to circulate the clip.",
       "transcript_snippet": "they were going to pass around a clip, but they were going to make it look like she was just a a random student.",
@@ -2119,7 +2175,9 @@
       "related_nodes": [
         "N-10238"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:26:34",
       "investigative_direction": "Seek the intern's identity, flight and email records, or attendee-list evidence from the event.",
       "transcript_snippet": "apparently she got an email at 10 p. m., hopped on a plane, is pretending to be a student.",
@@ -2143,7 +2201,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:36",
       "investigative_direction": "Find any Kirk or TPUSA confirmation of the offer and whether Shapiro replied.",
       "transcript_snippet": "Charlie Kirk says he will fly you out. He will fly you out next week to Detroit and we can do the debates on his stage.",
@@ -2166,7 +2226,9 @@
         "N-10238",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:36",
       "investigative_direction": "Ask Cordova or former Daily Wire staff about the intern assignment and confirm Cordova's departure date.",
       "transcript_snippet": "That was orchestrated by Alyssa Cordova now that she's not at the Daily Wire.",
@@ -2185,7 +2247,9 @@
       "related_nodes": [
         "N-10236"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:36",
       "investigative_direction": "Obtain the audience-question sources and any payment or organizational links for the people who asked questions.",
       "transcript_snippet": "That is not organic. Okay? That is pro-Israel people that are paid to do it.",
@@ -2205,7 +2269,9 @@
         "N-10236",
         "N-11231"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:28:34",
       "investigative_direction": "Compare any available ticket-holder list for the tour stop with YAF membership and staff rosters.",
       "transcript_snippet": "I will find the people from they will be from YAF. They will be from some organization.",
@@ -2224,7 +2290,9 @@
       "related_nodes": [
         "N-10025"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:59",
       "investigative_direction": "Compare with Kirk's own statements about Israel-lobby pressure in the weeks before his death.",
       "transcript_snippet": "exact same process by which the pro-Israel lobby lost Charlie Kirk because eventually you just get tired of being bullied",
@@ -2248,7 +2316,9 @@
       "related_nodes": [
         "N-11159"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:32:51",
       "investigative_direction": "Check CNN and the host's team for booking emails and the interview date.",
       "transcript_snippet": "it was a couple of days after Charlie was killed. First interview I was giving. Just worked out that it was CNN. It wasn't about Charlie Kirk that we were we had set this up before.",
@@ -2273,7 +2343,9 @@
       "related_nodes": [
         "N-11159"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:32:51",
       "investigative_direction": "Check Reeve's and CNN's social accounts for who first posted the clip.",
       "transcript_snippet": "Anyways, she's the one passing around this clip because she thinks it totally embarrasses me and shows that I'm a white nationalist.",
@@ -2294,7 +2366,9 @@
       "related_nodes": [
         "N-11159"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:36:43",
       "investigative_direction": "Review the full CNN interview for the exact exchange on 'they'.",
       "transcript_snippet": "Who is they? And it's like >> because it sounds like you're saying Jews.",
@@ -2315,7 +2389,9 @@
       "related_nodes": [
         "N-11159"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:23",
       "investigative_direction": "Compare with the host's other statements on media ownership and the full CNN transcript.",
       "transcript_snippet": "When I say Zionists run the media, I mean Zionists run the media. People that support the political ideology of Israel run the media.",
@@ -2334,7 +2410,9 @@
         "A-1363.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:12",
       "investigative_direction": "Compare with the June 2025 timeline of Israeli and US strikes on Iran and public statements of what Trump advised.",
       "transcript_snippet": "During the summer against Iran, even though he advised against it, Israel still attacked Iran and the US still bombed on behalf of Israel.",
@@ -2353,7 +2431,9 @@
         "A-1363.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:03",
       "investigative_direction": "Identify the televised remark the student refers to and its date.",
       "transcript_snippet": "Your father's frustrations with the Netanyahu have been made clear when he cursed on national TV over the situation.",
@@ -2375,7 +2455,9 @@
       "related_nodes": [
         "N-10451"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:40:03",
       "investigative_direction": "The attack on the USS Liberty is generally dated to 1967; record the student's date as said and verify against the historical record.",
       "transcript_snippet": "Israel has not been a great ally to the US all the way since 1960 when they bombed the USS Liberty.",
@@ -2394,7 +2476,9 @@
         "A-1363.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:42",
       "investigative_direction": "Cross-check against public statements by Donald Trump about frustration with Netanyahu and with Iran.",
       "transcript_snippet": "There's no question my my father's had frustration. In fact, I think he says frustration throughout the whole conflict with with both sides.",
@@ -2413,7 +2497,9 @@
         "A-1363.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:41:34",
       "investigative_direction": "Verify the durations and outcomes of the cited conflicts and the speaker's identity in the full clip.",
       "transcript_snippet": "whether we're talking about a 40-year war like Armenia and Azeraijan, as Eric just pointed out, a five-day war in Thailand and Cambodia.",
@@ -2432,7 +2518,9 @@
       "related_nodes": [
         "N-10063"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:27",
       "investigative_direction": "Review Kushner's Affinity Partners Middle East investments and public statements on Gaza redevelopment.",
       "transcript_snippet": "they know about Jared uh and his deals with Ivanka and the Middle East and how much money they're set to make and you know Gaza being destroyed is actually beneficial uh to their bank accounts.",
@@ -2440,7 +2528,7 @@
         "N-34",
         "N-383",
         "N-182",
-        "N-674"
+        "N-673"
       ]
     },
     {
@@ -2453,7 +2541,9 @@
       "related_nodes": [
         "N-10081"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:11",
       "investigative_direction": "Identify specific campus arrests or state anti-semitism laws the host may be referring to.",
       "transcript_snippet": "we get to get lectured and told that we're not even allowed to bring up Israel on college campuses or risk being like um arrested getting stricter on anti-semitism laws.",
@@ -2472,7 +2562,9 @@
       "related_nodes": [
         "N-11096"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:43:11",
       "investigative_direction": "Verify what the host means; check reporting on the TikTok US ownership deal and any Netanyahu statement about TikTok.",
       "transcript_snippet": "you thought that this generation was going to get behind it because what BB bought TikTok.",
@@ -2492,7 +2584,9 @@
       "related_nodes": [
         "N-10025"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:48:20",
       "investigative_direction": "Compile the public figures who have demanded the host stop or disavow the investigation and test their ties to Kirk.",
       "transcript_snippet": "people that weren't friends with Charlie, okay, are trying to struggle session us into no longer investigating",
@@ -2513,7 +2607,9 @@
         "N-10026",
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:08",
       "investigative_direction": "Find the dated Israeli official statements after September 10, 2025 denying involvement and compare timing with other governments' statements.",
       "transcript_snippet": "We didn't do it immediately. It wasn't us. Oh, that's kind of weird. That's kind of weird that you're just jumping up and saying that it wasn't you.",
@@ -2532,7 +2628,9 @@
         "A-3026.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:49:08",
       "investigative_direction": "Find Shapiro's post-assassination statement containing the bloodstained microphone line and its date.",
       "transcript_snippet": "That is right. Ben did say that right after Charlie died",
@@ -2553,7 +2651,9 @@
       "related_nodes": [
         "N-10424"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:50:35",
       "investigative_direction": "Compare the host's account of the interview planning with Fuentes's own account and any messages between their teams.",
       "transcript_snippet": "the sense that I got with how he reacted and lied about how we treated him is the first thing that made me think he was an op",
@@ -2570,7 +2670,9 @@
       "claim": "The host says that even when they debate, they do what they did to Charlie Kirk and afterwards get so angry that they lost that they try to squeeze him and tell him he can never host this person again.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:52:55",
       "investigative_direction": "Identify the debate and the guest the host means and any messages from Shapiro's side to Kirk afterward; the referent of 'they' is not specified.",
       "transcript_snippet": "even when they do debate, they then do what they did to Charlie Kirk and afterwards get so angry that they lost the debate that they try to squeeze him and tell him he can never host this person ever again because they lost.",

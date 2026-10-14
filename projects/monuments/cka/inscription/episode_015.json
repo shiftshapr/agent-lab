@@ -891,7 +891,7 @@
       "@type": "Person",
       "@id": "N-15",
       "ref": "N-15",
-      "name": "Justin Strife",
+      "name": "Justin Streiff",
       "type": "person",
       "description": "Named by the host as the COO announced in Charlie Kirk's internal email (transcript spells it Stripe).",
       "related_artifacts": [],
@@ -1709,7 +1709,9 @@
       "claim": "The host says there is no definitive understanding of what happened on the day Charlie Kirk was assassinated, but that what is known definitively is that the feds are lying to the public.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:02:53",
       "investigative_direction": "Compile the specific federal statements the host considers false and test each against court filings and the charging documents.",
       "transcript_snippet": "We have at this moment no definitive understanding of what happened on the day that he was assassinated, but what we do know definitively is that the feds are lying to us.",
@@ -1730,7 +1732,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:03:42",
       "investigative_direction": "Locate the original X post; compare TPUSA leaders' public statements on the official narrative and on forgiveness.",
       "transcript_snippet": "So, they want us to forgive Tyler Robinson, but to attack the people that are trying to solve the murder of Charlie Kirk?",
@@ -1750,7 +1754,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:46",
       "investigative_direction": "Collect the influencer statements that cite Erika's grief and any statement from Erika herself on questions about the case.",
       "transcript_snippet": "She has not explicitly said that, but the influencers are invoking that.",
@@ -1769,7 +1775,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:06:37",
       "investigative_direction": "Compare the host's earlier episodes with this one to see which TPUSA statements she previously let pass.",
       "transcript_snippet": "I was feeling like even though I knew that they were telling white lies, that I should just allow it and to instead focus my entire attention on just unpacking the federal lies.",
@@ -1788,7 +1796,9 @@
         "N-10104",
         "N-10350"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:02",
       "investigative_direction": "Review the host's earlier statements on Kirk and Catholicism and the videos that disputed them.",
       "transcript_snippet": "I never said he converted because he didn't. That would have been dishonest.",
@@ -1808,7 +1818,9 @@
         "N-10104",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:02",
       "investigative_direction": "Identify the videos, their authors and posting dates and check for common sourcing or coordination.",
       "transcript_snippet": "Suddenly a bunch of videos were being made disputing the narrative.",
@@ -1828,7 +1840,9 @@
         "N-10164",
         "N-10350"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:02",
       "investigative_direction": "Seek parish records, priests or attendees who saw Kirk at weekly or daily mass.",
       "transcript_snippet": "Charlie was attending mass weekly. He was sometimes even attending mass daily.",
@@ -1846,7 +1860,9 @@
       "related_nodes": [
         "N-10164"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:42",
       "investigative_direction": "Ask McCoy's church and Kirk's associates whether Kirk was a current congregant.",
       "transcript_snippet": "He was not attending Pastor Rob McCoy's church.",
@@ -1865,7 +1881,9 @@
       "related_nodes": [
         "N-10230"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:42",
       "investigative_direction": "Check photographs and evidence inventories for the pendant and prior reporting that it was worn.",
       "transcript_snippet": "Charlie, in fact, was wearing the Saint Michael pendant when he died, okay?",
@@ -1883,7 +1901,9 @@
       "related_nodes": [
         "N-10164"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:42",
       "investigative_direction": "Identify the bishop and the publication that reported the visit; confirm the date and location.",
       "transcript_snippet": "Erika took a Catholic bishop with her to pray over his body on the day that he died.",
@@ -1902,7 +1922,9 @@
       "related_nodes": [
         "N-10117"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:42",
       "investigative_direction": "Review Megyn Kelly's broadcast for the priest account and its sourcing.",
       "transcript_snippet": "a few weeks before his death, Erika had a priest come over to pray over them when some witches thought it would be funny",
@@ -1925,7 +1947,9 @@
         "N-10000",
         "N-10104"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:29",
       "investigative_direction": "Establish what TPUSA staff knew about Kirk's mass attendance and when each statement was made.",
       "transcript_snippet": "They knew for a fact. So, I was a bit astonished when Andrew Kolvet and Alex Clark similarly jumped in in this inauthentic attempt to dissuade the idea that Charlie was softening on Catholicism.",
@@ -1948,7 +1972,9 @@
       "related_nodes": [
         "N-10104"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:09:29",
       "investigative_direction": "Locate the original Kolvet interview and date; compare with mass-attendance accounts.",
       "transcript_snippet": "Was he becoming Catholic? No. But, he really loved Catholic mass. He loved the ritual of it.",
@@ -1973,7 +1999,9 @@
       "related_nodes": [
         "N-10104"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:10:36",
       "investigative_direction": "Find Erika Kirk's original Instagram post and comment reply; the clip speaker is not named on air at this point.",
       "transcript_snippet": "And she said, \"No, we just like attending sometimes.\" So, she herself had said no publicly.",
@@ -1995,7 +2023,9 @@
       "related_nodes": [
         "N-10350"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:10:36",
       "investigative_direction": "Find the Kirk-Knowles Protestant versus Catholic debate videos.",
       "transcript_snippet": "You can go check the videos out him debating with uh Michael Knowles.",
@@ -2019,7 +2049,9 @@
       "related_nodes": [
         "N-10104"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:11:26",
       "investigative_direction": "Test the account against witnesses to Kirk's mass attendance.",
       "transcript_snippet": "Like that's not That's not fully honest and it registered to me like a cover-up of sorts",
@@ -2040,7 +2072,9 @@
       "related_nodes": [
         "N-10350"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:12",
       "investigative_direction": "Obtain the message thread with metadata to confirm the date (February 2024 versus 2025) and exact wording.",
       "transcript_snippet": "Catholicism is sounding better and better.",
@@ -2060,7 +2094,9 @@
         "N-10026",
         "N-10350"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:12:12",
       "investigative_direction": "Obtain the chart and the message exchange from the host.",
       "transcript_snippet": "I then offered back to him a chart just showing how the phrase Judeo-Christianity kind of is really associated with the dawn of the nation of Israel, right?",
@@ -2081,7 +2117,9 @@
       "related_nodes": [
         "N-10166"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:08",
       "investigative_direction": "Compare McCoy's full Instagram text with the host's interpretation.",
       "transcript_snippet": "effectively asked me to, you know, stop looking into all of the things that had happened in the lead-up to Charlie Kirk's assassination or at least asking me to pause it",
@@ -2104,7 +2142,9 @@
         "N-10166",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:40",
       "investigative_direction": "Check TPUSA staff pages and filings for the family members and McCoy's faith division title.",
       "transcript_snippet": "both his son and his daughter-in-law work for Turning Point USA",
@@ -2126,7 +2166,9 @@
         "N-10166",
         "N-10398"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:14:40",
       "investigative_direction": "Review the faith division's funding and structure for dependence on Kirk's evangelical positioning.",
       "transcript_snippet": "It would have financial implications.",
@@ -2149,7 +2191,9 @@
         "N-10163",
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:44",
       "investigative_direction": "Authenticate the group chat and McCoy's participation; ask McCoy about what he knew.",
       "transcript_snippet": "But Rob in particular knew for an absolute fact that Charlie was done with Israel bullying him.",
@@ -2171,7 +2215,9 @@
       "related_nodes": [
         "N-10163"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:15:44",
       "investigative_direction": "Forensic review of the chat export for membership, numbers and handles.",
       "transcript_snippet": "There were nine people in total on this chat including Charlie uh and Rob McCoy.",
@@ -2194,7 +2240,9 @@
         "N-10016",
         "N-10163"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:50",
       "investigative_direction": "Compare attendees' accounts of the Hamptons meeting with the chat and other records.",
       "transcript_snippet": "he did not back down not in that Hamptons meeting which they're all lying about, nor in this text thread.",
@@ -2215,7 +2263,9 @@
       "related_nodes": [
         "N-10163"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:18:23",
       "investigative_direction": "Identify chat members' roles; the host has not named the rabbi.",
       "transcript_snippet": "It's also a rabbi in that chat.",
@@ -2233,7 +2283,9 @@
       "related_nodes": [
         "N-10025"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:18:23",
       "investigative_direction": "Survey statements by other conservative hosts about donor pressure on Kirk.",
       "transcript_snippet": "Why are you hearing it though from me and Tucker Carlson and Megyn Kelly? Isn't that weird?",
@@ -2255,7 +2307,9 @@
         "N-10100",
         "N-10810"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:20:16",
       "investigative_direction": "Obtain video timing of the SD card removal and identify the staffer; compare against crime-scene entry logs.",
       "transcript_snippet": "4 minutes after Charlie was shot, someone on their team nervously raced to grab the SD cards, uh specifically from the camera that is behind Charlie's head.",
@@ -2279,7 +2333,9 @@
       "related_nodes": [
         "N-10100"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:03",
       "investigative_direction": "Obtain the full Kolvet-Carlson interview and compare framing.",
       "transcript_snippet": "Not only are they pretending that that was completely normal, but they're also presenting it as though it was a heroic act.",
@@ -2302,7 +2358,9 @@
         "N-10100",
         "N-10810"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:21:03",
       "investigative_direction": "Identify the staffer and role at TPUSA; the host later says she spoke with him.",
       "transcript_snippet": "One of our dear friends that literally from the very beginning started with us and loved Charlie like a brother, he grabbed the SD cards out of the camera afterwards.",
@@ -2323,7 +2381,9 @@
       "related_nodes": [
         "N-10100"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:03",
       "investigative_direction": "Compare with Bowyer's and the staffer's own stated motivations.",
       "transcript_snippet": "I know I wanted I mean, you know, you're recording in like 4K, you know?",
@@ -2341,7 +2401,9 @@
         "A-1221.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:03",
       "investigative_direction": "Obtain the full Carlson interview.",
       "transcript_snippet": "I think they don't trust the authorities. They have every reason to feel that way.",
@@ -2362,7 +2424,9 @@
         "N-10162",
         "N-10100"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:23:06",
       "investigative_direction": "Ask TPUSA why the card was removed and the camera left, and who authorized it.",
       "transcript_snippet": "but also you took the SD card out and not the very expensive camera, which is if you were worried about stealing and theft, maybe you would take the camera.",
@@ -2385,7 +2449,9 @@
         "N-10000",
         "N-10810"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:23:06",
       "investigative_direction": "Ask the host which footage she saw and from whom; request TPUSA's retained footage inventory.",
       "transcript_snippet": "Turning Point does have the footage. That's very clear. I saw partially the footage",
@@ -2405,7 +2471,9 @@
       "related_nodes": [
         "N-10167"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:24:03",
       "investigative_direction": "Check TP Action filings and public bios for Bowyer's title.",
       "transcript_snippet": "he's a COO of Turning Point Action and he went on this kind of bender, worst kind of bender, Twitter bender, defending the organization.",
@@ -2426,7 +2494,9 @@
       "related_nodes": [
         "N-10162"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:25:39",
       "investigative_direction": "Request UVU police and FBI records on any instruction to TPUSA staff; compare Bowyer's tweet with earlier statements.",
       "transcript_snippet": "No one's ever heard police officers ask them to secure the footage before lockdown until Tyler Bowyer tweeted this weekend.",
@@ -2450,7 +2520,9 @@
       "related_nodes": [
         "N-10167"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:25:39",
       "investigative_direction": "Identify the posts Bowyer was answering and any explicit accusations.",
       "transcript_snippet": "I haven't read anybody that's explicitly accused them of murder.",
@@ -2472,7 +2544,9 @@
       "related_nodes": [
         "N-10165"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:26:20",
       "investigative_direction": "Locate the original post and any FOIA or evidence requests for this footage.",
       "transcript_snippet": "Please, I beg you, focus on getting the security footage of the sequence pre-jump off the Loews building",
@@ -2493,7 +2567,9 @@
       "related_nodes": [
         "N-10165"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:27:14",
       "investigative_direction": "Compare the FBI's manhunt-era releases with the footage inventory later cited by Bowyer.",
       "transcript_snippet": "why only release a blurry image when there is, as he mentioned, footage everywhere, all over that campus, every inch?",
@@ -2515,7 +2591,9 @@
       "related_nodes": [
         "N-10165"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:14",
       "investigative_direction": "Ask UVU, TPUSA and the FBI for resolution specifications of retained footage.",
       "transcript_snippet": "some of it in 4K, which they do, this is why we've been saying the feds are lying from day one",
@@ -2533,7 +2611,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:28",
       "investigative_direction": "Collect the specific TPUSA statements and legal letters the host refers to.",
       "transcript_snippet": "name-calling, threats to sue, um calling people demonic, possessed by demonic spirits because they're rightfully asking questions",
@@ -2553,7 +2633,9 @@
       "related_nodes": [
         "N-10132"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:33:36",
       "investigative_direction": "Compare the host's earlier on-air email with the September 2 memo and Clark's post.",
       "transcript_snippet": "tried to make it seem like I lied about the new DOJ department when I literally shared the email from Charlie.",
@@ -2577,7 +2659,9 @@
         "N-11097",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:23",
       "investigative_direction": "Look for TPUSA and TP Action fundraising disclosures covering September 10-24, 2025.",
       "transcript_snippet": "Do you guys understand the tens of millions of dollars that Turning Point USA made in the 2 weeks following Charlie Kirk's assassination?",
@@ -2598,7 +2682,9 @@
       "related_nodes": [
         "N-11098"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:35:49",
       "investigative_direction": "Obtain the WSJ article, photographer credit and shoot date.",
       "transcript_snippet": "invite the Wall Street Journal a literal week after Charlie is murdered to photograph like me in high boots standing over his memorial site at the office",
@@ -2620,7 +2706,9 @@
       "related_nodes": [
         "N-11098"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:36:29",
       "investigative_direction": "Check the WSJ original image and caption data.",
       "transcript_snippet": "This is literally her being shot in front of the gifts that people are dropping off for Charlie.",
@@ -2637,7 +2725,9 @@
       "claim": "The host says she has not spoken to the press about Charlie Kirk and has not given a single interview about him, focusing only on investigating his murder.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:10",
       "investigative_direction": "Review the host's interview record for any interview about Kirk since September 10, 2025.",
       "transcript_snippet": "I still haven't spoken to the press about Charlie Kirk, actually.",
@@ -2658,7 +2748,9 @@
       "related_nodes": [
         "N-11098"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:37:10",
       "investigative_direction": "Verify against the WSJ article text.",
       "transcript_snippet": "Alex Clark was about to head to the airport for a work trip to celebrate the first anniversary of her podcast when she heard the news.",
@@ -2677,7 +2769,9 @@
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:39:04",
       "investigative_direction": "Retrieve the Trump and Netanyahu posts from September 10-11, 2025 with timestamps.",
       "transcript_snippet": "when Trump moved to kind of like do a same-time post with Netanyahu and then like publishes a picture of Charlie with an Israeli flag behind.",
@@ -2698,7 +2792,9 @@
       "related_nodes": [
         "N-10132"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:39:45",
       "investigative_direction": "Compare the full memo against the portions the host aired.",
       "transcript_snippet": "I didn't read the paragraph where he announced that Justin Stripe would be the COO",
@@ -2723,7 +2819,9 @@
       "related_nodes": [
         "N-10132"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:40:21",
       "investigative_direction": "Ask Bowyer for the basis of the eight-times figure.",
       "transcript_snippet": "It operates eight times more effectively than any other similar operation.",
@@ -2743,7 +2841,9 @@
       "related_nodes": [
         "N-10132"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:21",
       "investigative_direction": "Check state audit thresholds and TPUSA's audited financial statements.",
       "transcript_snippet": "I actually think that for organizations of a certain size, you're required by law to do an annual audit if you're 501c3.",
@@ -2765,7 +2865,9 @@
       "related_nodes": [
         "N-10132"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:41:21",
       "investigative_direction": "Identify the lawyer and meeting date; the host may be able to confirm.",
       "transcript_snippet": "I shared a 501c3 lawyer with them. So, I met her in her offices with Charlie",
@@ -2785,7 +2887,9 @@
         "N-10132",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:18",
       "investigative_direction": "Ask the host for any documents; review TPUSA vendor payments in Form 990 Schedule disclosures.",
       "transcript_snippet": "And I'm hearing some stuff, okay? A lot of contractors, that's something that you can do as just one example",
@@ -2803,7 +2907,9 @@
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:43:46",
       "investigative_direction": "Identify who the host means and any documented trips or payments.",
       "transcript_snippet": "People quoting scripture to actually fulfill what became quite obvious to me was just their political ends. And yeah, people taking money to do that.",
@@ -2824,7 +2930,9 @@
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:45:52",
       "investigative_direction": "Locate the Carlson and Kelly interview and the exact statement.",
       "transcript_snippet": "Everyone under 30 in America is against Israel. Older generation's not.",
@@ -2845,7 +2953,9 @@
       "related_nodes": [
         "N-10139"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:48:48",
       "investigative_direction": "Obtain the full sermon recording and identify the church.",
       "transcript_snippet": "you're going to block them because they're anti what scripture says.",
@@ -2864,7 +2974,9 @@
       "related_nodes": [
         "N-11096"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:50:49",
       "investigative_direction": "Locate the headline and any Netanyahu statement on TikTok; verify moderation team composition claims.",
       "transcript_snippet": "their moderation team, like IDF soldiers uh and Benjamin Netanyahu saying like we're taking over TikTok.",
@@ -2886,7 +2998,9 @@
       "related_nodes": [
         "N-11096"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:50:49",
       "investigative_direction": "Find TikTok's policy notice or the reporting about the emoji moderation.",
       "transcript_snippet": "Apparently, they're going to ban the juice box emoji, right?",
@@ -2902,7 +3016,9 @@
       "claim": "The host says the book club starts the next day with David Bakan's Sigmund Freud and the Jewish Mystical Tradition, after finishing The Assault on Truth.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:57:20",
       "investigative_direction": "Check the book club schedule announcement.",
       "transcript_snippet": "Sigmund Freud and the Jewish Mystical Tradition is the name of that book by David Bakan that we will be starting on tomorrow's book club.",
@@ -2922,7 +3038,9 @@
         "A-2817.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:58:55",
       "investigative_direction": "Compile start dates of the officials involved; verify the Dallas chief's April appointment.",
       "transcript_snippet": "You mentioned the suspicious way so many of the individuals surrounding Charlie's case are new to their role.",
@@ -2940,7 +3058,9 @@
         "A-2817.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:01:50",
       "investigative_direction": "Retrieve the Piers Morgan episode with O'Neill and his exact remarks.",
       "transcript_snippet": "Rob O'Neill, the guy who shot Bin Laden, questions the story of Charlie on Piers Morgan's show.",
@@ -2959,7 +3079,9 @@
         "A-2817.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:01:50",
       "investigative_direction": "Verify against French and South African government statements and press reports.",
       "transcript_snippet": "Also, the South African ambassador to France was found dead in a Paris hotel.",
@@ -2977,7 +3099,9 @@
       "related_nodes": [
         "N-11099"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "01:01:50",
       "investigative_direction": "Check Australian court and Department of Home Affairs records for the visa review.",
       "transcript_snippet": "we are still awaiting a decision.",
@@ -2996,7 +3120,9 @@
         "N-10026",
         "N-10662"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "01:02:37",
       "investigative_direction": "The host should identify the people and FARA actions she means.",
       "transcript_snippet": "All of the money in the world that Israel has, the money they spend on influencers, people that have been assassinated by trying to get them to register under FARA",

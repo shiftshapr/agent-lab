@@ -329,8 +329,7 @@ Investigative Pressure: High
 
 ---
 
-**N-15** Justin Strife
-
+**N-15** Justin Streiff
 TPUSA executive present throughout the meeting; framed opening question on aim; described as having "reffed" the conversation.
 
 Evidence Count: 1

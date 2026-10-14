@@ -17,7 +17,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11561–C-11634
   - New Nodes Introduced: N-10742, N-10743
-  - Reused Nodes Appearing: N-1, N-2, N-375, N-498, N-516, N-10740, N-10741, N-14, N-15, N-36, N-60, N-97, N-166, N-215, N-251, N-272, N-284, N-447, N-557, N-10000, N-10070, N-10110, N-10270, N-10300, N-10312, N-10334, N-10336, N-10338, N-10342, N-10362, N-10651, N-10664, N-10684, N-10707, N-10715, N-10905, N-10934, N-10936, N-10956, N-10968, N-11014, N-11061, N-11218
+  - Reused Nodes Appearing: N-1, N-2, N-375, N-498, N-515, N-10740, N-10741, N-14, N-15, N-36, N-60, N-97, N-166, N-215, N-251, N-272, N-284, N-447, N-556, N-10000, N-10070, N-10110, N-10270, N-10300, N-10312, N-10334, N-10336, N-10338, N-10342, N-10362, N-10651, N-10664, N-10684, N-10707, N-10715, N-10905, N-10934, N-10936, N-10956, N-10968, N-11014, N-11061, N-11218
   - (see registers)
 
 ## 2. Executive Summary
@@ -504,8 +504,7 @@ Andrew Kolvet (spelled Kolb, Kolburt in the transcript); TPUSA spokesperson the 
 
 ---
 
-**N-15** Justin Strife
-
+**N-15** Justin Streiff
 Justin Streiff (spelled Strife), TPUSA COO; the host says he and Erika gave her the Danny Philip call account.
 
 *Related: C-11581*
@@ -648,7 +647,7 @@ Johnny Moore; the host says he is dropping digital assassin articles at her.
 
 ---
 
-**N-516** Nate Walker
+**N-515** Nate Walker
 
 Existing node reused for new claims in this episode.
 
@@ -656,7 +655,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-557** Tracy Martin
+**N-556** Tracy Martin
 
 Tracy Martin; the host's guess for the Daily Mail family friend.
 
@@ -1075,7 +1074,7 @@ Claim Timestamp: 00:18:17
 Claim: A Fox 5 Atlanta newsroom feed shows Blake Neff, Danny Philip, Mikey McCoy, and Nate Walker walking into Timpanogos Regional Hospital; timing is anchored to Donald Trump's 1:02 PM local tweet shown during the broadcast.
 
 Anchored Artifacts: A-2166.2, A-2166.1
-Mentions: N-375, N-5, N-194, N-162, N-516
+Mentions: N-375, N-5, N-194, N-162, N-515
 
 Related Nodes:
 
@@ -1382,7 +1381,7 @@ Claim: The host says Mikey McCoy rented two SUVs in Salt Lake City, that Blake N
 Transcript Snippet: So two SUVs were rented by Mikey McCoy in Salt Lake City.
 
 Anchored Artifacts: 
-Mentions: N-194, N-162, N-375, N-516, N-1
+Mentions: N-194, N-162, N-375, N-515, N-1
 Related Nodes: N-11061
 Supports: C-5862
 Tags: relevance:core
@@ -1624,7 +1623,7 @@ Claim: The host says the Fox 5 Atlanta live feed shows Blake Neff, Danny Philip,
 Transcript Snippet: because they don't seem to be shaken. They're all just kind of walking uh casually
 
 Anchored Artifacts: A-2166.2
-Mentions: N-337, N-162, N-375, N-194, N-516
+Mentions: N-337, N-162, N-375, N-194, N-515
 Related Nodes: N-11208
 Tags: relevance:core
 Investigative Direction: Obtain the unedited newsroom feed and review the men's demeanor and pace on entry.
@@ -1849,7 +1848,7 @@ Claim: The host says her guess is Tracy Martin, the one person she knows who is 
 Transcript Snippet: My guess would be Tracy Martin because she's also been the driver behind other wacky pieces, that Us Magazine one, but who knows?
 
 Anchored Artifacts: A-2164.1
-Mentions: N-557, N-3
+Mentions: N-556, N-3
 Related Nodes: N-10743
 Tags: relevance:core
 Investigative Direction: Treat as the host's speculation; ask the Daily Mail reporter whether the source can be confirmed or denied.

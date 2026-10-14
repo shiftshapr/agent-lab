@@ -2563,7 +2563,9 @@
       "related_nodes": [
         "N-10406"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:00:00",
       "investigative_direction": "Collect the public posts demanding that Megyn Kelly denounce Candace Owens and Tucker Carlson and establish whether the accounts are coordinated.",
       "transcript_snippet": "the agents like I think of them as like Mr. Smith in the Matrix have around I guess they're surrounding Megan Kelly and demanding that she makes a statement against me and Tucker Carlson.",
@@ -2583,7 +2585,9 @@
         "A-1197.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:03:55",
       "investigative_direction": "Interview the locals and check county and state Republican event records for George Zinn's attendance.",
       "transcript_snippet": "other locals told us that George Zinn, for whatever reason, is very in involved in Republican politics.",
@@ -2602,7 +2606,9 @@
       "related_nodes": [
         "N-10156"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:04:53",
       "investigative_direction": "Map hospital distances from the campus and compare published trauma-level designations of the nearer hospitals with the hospital used.",
       "transcript_snippet": "although that was not the nearest hospital from the university and it also ranked extremely low in terms of the most uh best equipped hospital",
@@ -2623,7 +2629,10 @@
       "related_nodes": [
         "N-10156"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "dia"
+      ],
       "claim_timestamp": "00:04:53",
       "investigative_direction": "Obtain the surgical team roster from the hospital or the death certificate and records through the family.",
       "transcript_snippet": "I think it would be interesting to learn whether or not that new CEO and surgeon worked on Charlie.",
@@ -2643,7 +2652,9 @@
       "related_nodes": [
         "N-11274"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:07:35",
       "investigative_direction": "Compare archived captures of his accounts against the current state and ask him directly why he deleted them.",
       "transcript_snippet": "just deleted his Facebook and just outright deleted his LinkedIn page because I asked him a question before we even went live.",
@@ -2666,7 +2677,9 @@
         "N-10052",
         "N-10135"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:08:42",
       "investigative_direction": "Retrieve the earlier paid message and the tipster's identity, and compare her description with the doorbell footage released by TMZ.",
       "transcript_snippet": "someone paid money uh to inform us that there was footage that the FBI was hiding.",
@@ -2685,7 +2698,9 @@
       "related_nodes": [
         "N-10144"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:08:42",
       "investigative_direction": "Check county property records for Lyman family parcels on the route.",
       "transcript_snippet": "He has been forthcoming about the fact that his family owned that property.",
@@ -2703,7 +2718,9 @@
       "related_nodes": [
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:09:40",
       "investigative_direction": "Search Utah County deed and university land-acquisition records for the Lyman family transaction.",
       "transcript_snippet": "UVU in many ways purchased uh the university from his family, right? That the the acreage from his family for that university.",
@@ -2722,7 +2739,9 @@
         "N-10011",
         "N-10052"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:15",
       "investigative_direction": "Establish TMZ's first publication time and source for the doorbell footage.",
       "transcript_snippet": "you should recall that the very next morning on September the 11th, TMZ already had the doorbell cam footage.",
@@ -2743,7 +2762,9 @@
         "N-10152",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:12:15",
       "investigative_direction": "Confirm the aunt's identity and whether she gave footage to the FBI and, if so, which files.",
       "transcript_snippet": "now we have actually the woman who handed over her footage to the FBI saying, \"I wondered if that woman was an accomplice, ladies and gentlemen.",
@@ -2764,7 +2785,9 @@
         "N-10014",
         "N-10152"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:31",
       "investigative_direction": "Review FBI press briefings from September 10 to 12 for any mention of a second person.",
       "transcript_snippet": "during this 33-hour manhunt, not to inform the public that they were also looking for a woman",
@@ -2782,7 +2805,9 @@
       "related_nodes": [
         "N-10144"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:13:31",
       "investigative_direction": "Obtain the text or message exchange between the host and Phil Lyman.",
       "transcript_snippet": "He's angry. I mean, he said really not nice things to me. He started asking me if I had something to do with the shooting.",
@@ -2803,7 +2828,9 @@
         "N-10011",
         "N-10146"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:14:45",
       "investigative_direction": "Pull the Fox News segment and compare Lyman's statements about where he was with the footage timeline.",
       "transcript_snippet": "You were watching it live with Kaylee Mcaney on Fox News. That's what you said during that segment, right?",
@@ -2824,7 +2851,9 @@
         "N-10011",
         "N-10052"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:01",
       "investigative_direction": "Ask TMZ about its source and check the footage's chain of custody.",
       "transcript_snippet": "Either your cousin gave it to TMZ or the feds gave a portion of it to TMZ",
@@ -2845,7 +2874,10 @@
       "related_nodes": [
         "N-10152"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "dia"
+      ],
       "claim_timestamp": "00:16:01",
       "investigative_direction": "Cross-check submissions to the tip line against the footage and the Lyman family network.",
       "transcript_snippet": "if you have any tips pertaining to who the woman was that was caught, uh, please let me know.",
@@ -2863,7 +2895,10 @@
         "A-3100.3"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "dia"
+      ],
       "claim_timestamp": "00:16:58",
       "investigative_direction": "Confirm whether a second tip line was opened in later episodes.",
       "transcript_snippet": "there's only so much data that an inbox can take and we might have to just make a second a second line is what I think we should do.",
@@ -2881,7 +2916,9 @@
       "related_nodes": [
         "N-10147"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:58",
       "investigative_direction": "Identify the Austrian national and verify his link to the Lyman family.",
       "transcript_snippet": "We discover that one person was from Austria.",
@@ -2900,7 +2937,9 @@
       "related_nodes": [
         "N-10147"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:16:58",
       "investigative_direction": "Compare Lyman's statements on who the two people were across interviews and messages.",
       "transcript_snippet": "Phil Lemon does not know this individual.",
@@ -2920,7 +2959,9 @@
         "N-10153",
         "N-10147"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:50",
       "investigative_direction": "Verify the Robbie Hild identity through school, social media and residence records.",
       "transcript_snippet": "A person going by the name Robbie Hild who is allegedly from Washington.",
@@ -2941,7 +2982,9 @@
         "N-10012",
         "N-10115"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:50",
       "investigative_direction": "Check the UVU president's published biography and degrees.",
       "transcript_snippet": "even the president, I'm I'm blanking on her name, it like majored in Soviet studies.",
@@ -2959,7 +3002,9 @@
       "related_nodes": [
         "N-10012"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:17:50",
       "investigative_direction": "Identify any documentary evidence for foreign operatives; none is cited on air.",
       "transcript_snippet": "I'm starting to get a stronger than a theory and more of a hunch that this was a a military operation and people that executed this are actually from overseas.",
@@ -2979,7 +3024,9 @@
         "N-10898",
         "N-11273"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:17:50",
       "investigative_direction": "Locate the New York Times article the host refers to.",
       "transcript_snippet": "the New York Times has reported on uh Russian Ukrainian spies that are building new lives from themselves with new IDs uh in America, in Brazil",
@@ -2998,7 +3045,9 @@
         "N-10012",
         "N-10082"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:17:50",
       "investigative_direction": "Identify the documented CIA recruitment or partnership programs at UVU.",
       "transcript_snippet": "when you look at UVU campus and their strong ties um to the CIA, things start to get really interesting",
@@ -3018,7 +3067,9 @@
       "related_nodes": [
         "N-11273"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:21:48",
       "investigative_direction": "Find the original Russian article and check its claims against declassified material.",
       "transcript_snippet": "it is telling about white lotus sect of all things.",
@@ -3036,7 +3087,9 @@
       "related_nodes": [
         "N-11269"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:21:48",
       "investigative_direction": "Establish which list is meant and obtain it.",
       "transcript_snippet": "Charlie was on a um a hit list. I also was on that hit list.",
@@ -3055,7 +3108,9 @@
       "related_nodes": [
         "N-11269"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:22:56",
       "investigative_direction": "Identify the Alex Jones employee and the Ukrainian list referenced.",
       "transcript_snippet": "I forgot the name of the individual that worked for Alex Jones who got killed, but he was similarly on a Ukrainian hit list.",
@@ -3075,7 +3130,9 @@
         "A-1200.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:00",
       "investigative_direction": "Obtain the full clip and Lee's background and past public statements about Kirk.",
       "transcript_snippet": "who was a big mentor of mine, he's my first mentor in the space.",
@@ -3096,7 +3153,9 @@
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:27:00",
       "investigative_direction": "Obtain the full clip and the event details.",
       "transcript_snippet": "evangelicals are the reason that Israel has been supported in public sphere outside of just Jews.",
@@ -3119,7 +3178,9 @@
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:28:34",
       "investigative_direction": "Verify the full exchange in the original clip, including who spoke each line.",
       "transcript_snippet": "A lot of this is done with money. Money of NOS's vast money of governments faster.",
@@ -3137,7 +3198,9 @@
         "A-1200.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Verify the line and speaker in the full clip.",
       "transcript_snippet": "give direction to the Jewish people and give direction to our non-Jewish friends",
@@ -3155,7 +3218,9 @@
       "related_nodes": [
         "N-11103"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:49",
       "investigative_direction": "Compare Trump statements on the TikTok deal with the final ownership structure.",
       "transcript_snippet": "No, you wanted to hand it over to your Zionist friends.",
@@ -3174,7 +3239,9 @@
       "related_nodes": [
         "N-11103"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:49",
       "investigative_direction": "Find Ellison's exact public statement and the TikTok deal terms.",
       "transcript_snippet": "it's Larry Ellison who has made he's very clear about the fact that he's a agent of Israel.",
@@ -3193,7 +3260,9 @@
         "N-10131",
         "N-11103"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:49",
       "investigative_direction": "Identify which Horowitz is meant and check the TikTok deal investor list.",
       "transcript_snippet": "Horowitz, the son of David Harowitz, David Harowitz from which all of uh the connections Prageru",
@@ -3213,7 +3282,9 @@
         "N-11153",
         "N-11103"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:30:49",
       "investigative_direction": "Find the recording of the ADL spokesperson.",
       "transcript_snippet": "just like the ADL spokesperson said when he was caught um on the mic was like, \"We need to do something about Tik Tok",
@@ -3232,7 +3303,9 @@
         "N-11096",
         "N-11103"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:31:58",
       "investigative_direction": "Obtain the strike notices and the executive's identity and statements.",
       "transcript_snippet": "we saw instantly that our content was getting strikes you can't say anything bad right now about Israel on TikTok",
@@ -3252,7 +3325,9 @@
       "related_nodes": [
         "N-10026"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:31:58",
       "investigative_direction": "Obtain and authenticate the text messages.",
       "transcript_snippet": "was very worried about what Israel was doing to come inward on speech and I have those text messages with him",
@@ -3273,7 +3348,9 @@
       "related_nodes": [
         "N-10406"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:34:10",
       "investigative_direction": "Locate Kelly's original post and the reply chain.",
       "transcript_snippet": "Megan Kelly tweeted her episode and said, \"Listen to Charlie in his own words about what he was going through.\"",
@@ -3294,7 +3371,9 @@
       "related_nodes": [
         "N-10406"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:34:10",
       "investigative_direction": "Corroborate through Charlie's messages or associates describing similar pressure.",
       "transcript_snippet": "I lived what uh Charlie was going through where suddenly you realize these people that are pretending to be your friends",
@@ -3315,7 +3394,9 @@
       "related_nodes": [
         "N-10406"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:01",
       "investigative_direction": "Capture the full original Kelly post.",
       "transcript_snippet": "He's a close friend and she is under enough pressure without gratuitous shots from me. My fight is with the left, not these two.",
@@ -3335,7 +3416,9 @@
         "A-1203.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:51",
       "investigative_direction": "Obtain the text message and compare it with the Kisin post.",
       "transcript_snippet": "almost verbatim a text message that I received from Marissa Stright when I like retweeted Max Blumenthal",
@@ -3354,7 +3437,9 @@
       "claim": "The host says that when she retweeted Max Blumenthal, agents such as Dave Rubin told her she did not see what she had done.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:35:51",
       "investigative_direction": "Obtain the messages from Rubin and others.",
       "transcript_snippet": "and then like all of the agents like Dave Rubin all them were like don't you see what you did",
@@ -3376,7 +3461,9 @@
       "related_nodes": [
         "N-10406"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:37:44",
       "investigative_direction": "Identify when and to whom Charlie expressed this.",
       "transcript_snippet": "This was Charlie. He was like, \"I'm done. I'm just done. I'm digging my heels in because they know what this is.\"",
@@ -3395,7 +3482,9 @@
         "A-1203.2"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:30",
       "investigative_direction": "Capture the full thread.",
       "transcript_snippet": "I demand nothing of you. And in coming from a position of great respect",
@@ -3414,7 +3503,9 @@
       "related_nodes": [
         "N-10406"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:38:30",
       "investigative_direction": "Monitor media coverage of Kelly after October 1, 2025.",
       "transcript_snippet": "Then they will send the next layer which is a full-blown press attack.",
@@ -3437,7 +3528,9 @@
         "N-10000",
         "N-11217"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:34",
       "investigative_direction": "Obtain those emails.",
       "transcript_snippet": "I got received other emails of people saying that um they felt that it was very much controlled",
@@ -3459,7 +3552,9 @@
         "N-10209",
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:42:34",
       "investigative_direction": "Obtain the packet and count the Israel references.",
       "transcript_snippet": "they're handing out TPUSA faith packets and like Israel is mentioned eight times. Someone submitted it to me.",
@@ -3480,7 +3575,9 @@
         "N-10157",
         "N-10209"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:43:16",
       "investigative_direction": "Ask the host for the person she means and verify authorship.",
       "transcript_snippet": "It's ridiculous. And I know who's behind that. I do.",
@@ -3499,7 +3596,9 @@
         "N-10026",
         "N-10056"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:16",
       "investigative_direction": "Establish the dates and participants of the trip.",
       "transcript_snippet": "Charlie authentically when we started out loved Israel for the the same reasons we went to Israel together.",
@@ -3519,7 +3618,9 @@
         "N-10026",
         "N-10148"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:43:16",
       "investigative_direction": "Corroborate with Charlie's messages and public statements.",
       "transcript_snippet": "And it was their behavior that turned him against them.",
@@ -3537,7 +3638,9 @@
         "A-3103.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:44:30",
       "investigative_direction": "None needed beyond the audio; check whether any debate was later scheduled.",
       "transcript_snippet": "I would debate PBD. I would debate Ben Shapiro. I wouldn't de debate Brandon Tatum because I love Brandon Tatum like a brother.",
@@ -3558,7 +3661,9 @@
       "related_nodes": [
         "N-10003"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:44:30",
       "investigative_direction": "Compare with public statements by either to check for disputes.",
       "transcript_snippet": "Charlie and I never threw each other under any buses publicly. And when we did disagree, we had those disagreements uh privately.",
@@ -3579,7 +3684,9 @@
       "related_nodes": [
         "N-11271"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:57",
       "investigative_direction": "Review event video of the security team's reaction and TPUSA's security plan.",
       "transcript_snippet": "Uh yes, I think it is strange actually. I thought about that after the fact and they seem to know that not more was coming.",
@@ -3599,7 +3706,9 @@
         "N-10000",
         "N-11271"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:45:57",
       "investigative_direction": "Review TPUSA contracts and payments to the security vendor.",
       "transcript_snippet": "the amount of money that they were making off of Charlie because Charlie ended up buying Turning Point USA, ended up taking on that security firm.",
@@ -3617,7 +3726,9 @@
         "A-1206.1"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:46:36",
       "investigative_direction": "Check jail records for 1987.",
       "transcript_snippet": "Ramirez was in the same jail as Sean Penn in 1987, who was serving 33 days."
@@ -3634,7 +3745,9 @@
       "related_nodes": [
         "N-10160"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:46:36",
       "investigative_direction": "Check later episodes for follow-up.",
       "transcript_snippet": "I have not explored that.",
@@ -3658,7 +3771,9 @@
         "N-11153",
         "N-10014"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:47:19",
       "investigative_direction": "Verify the address of any FBI facility and ADL office in Connecticut.",
       "transcript_snippet": "I hope you guys uh know that they share a building, I think, in Connecticut.",
@@ -3678,7 +3793,9 @@
       "related_nodes": [
         "N-11270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:47:19",
       "investigative_direction": "Check ownership records of ExpressVPN and other VPN companies.",
       "transcript_snippet": "Israel is taking over ExpressVPN and other VPN websites"
@@ -3694,7 +3811,9 @@
         "N-11270",
         "N-10900"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:47:19",
       "investigative_direction": "Check ad schedules from the Daily Wire era.",
       "transcript_snippet": "I used to read ads for them, ExpressVPN, when I was uh working for Daily Wire.",
@@ -3712,7 +3831,9 @@
       "related_nodes": [
         "N-11270"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:tangential"
+      ],
       "claim_timestamp": "00:47:19",
       "investigative_direction": "Verify ExpressVPN founders and owners from corporate filings.",
       "transcript_snippet": "once I found that it was started by an Israeli billionaire",
@@ -3733,7 +3854,9 @@
         "N-10898",
         "N-10017"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:19",
       "investigative_direction": "Authenticate the letter and trace its release.",
       "transcript_snippet": "Now they planted a fake letter in the same New York Post and their minions.",
@@ -3753,7 +3876,9 @@
         "N-11272",
         "N-10078"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:19",
       "investigative_direction": "Identify the laptop custodian and access logs.",
       "transcript_snippet": "Yeah, I know who had access to Charlie's laptop and I have questions about that",
@@ -3772,7 +3897,9 @@
       "related_nodes": [
         "N-10000"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:core"
+      ],
       "claim_timestamp": "00:47:19",
       "investigative_direction": "Ask which people.",
       "transcript_snippet": "And I got question marks about a couple of people over at Turning Point USA.",
@@ -3791,7 +3918,9 @@
         "N-11170",
         "N-10139"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:47:19",
       "investigative_direction": "Review IFCJ grants and donor filings.",
       "transcript_snippet": "they take money from an agent of Israel or an organization like the you know international fellowship of Christian and Jews",
@@ -3810,7 +3939,9 @@
         "N-11170",
         "N-10139"
       ],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:47:19",
       "investigative_direction": "Review IFCJ expenditure.",
       "transcript_snippet": "but then they have you like um gathering pastors and paying off people.",
@@ -3828,7 +3959,10 @@
         "A-3100.4"
       ],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:core",
+        "dia"
+      ],
       "claim_timestamp": "00:50:28",
       "investigative_direction": "Review tip line submissions.",
       "transcript_snippet": "only if you have a tip uh that can help us crack this mystery",
@@ -3844,7 +3978,9 @@
       "claim": "The host says the show is not funded by any outside groups.",
       "anchored_artifacts": [],
       "related_nodes": [],
-      "tags": [],
+      "tags": [
+        "relevance:context"
+      ],
       "claim_timestamp": "00:50:28",
       "investigative_direction": "Review show sponsorship and funding disclosures.",
       "transcript_snippet": "We actually are not funded uh by any outside groups.",
