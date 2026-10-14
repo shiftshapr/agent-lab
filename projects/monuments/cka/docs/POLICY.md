@@ -54,13 +54,14 @@ The rules for building and changing the Candace Kirk Archive. These are Daveed's
 - Search and AI answer only from the archive and cite claim ids with timestamped clips. They decline to answer when they cannot cite.
 
 ## 7. Batch integration checklist (supplements and new episodes)
-1. Agents write placeholder ids (`C-L`, `A-L`, `N-P`, `N-T`, `M-N`) to staging; each file passes `check_supplement.py`.
-2. Fuzzy-check every staged new node and meme against `canonical/` (and run a whole-graph person-duplicate scan). Map duplicates through a title-merge JSON.
-3. Run `scripts/supplement_integrate.py STAGING --batch NAME --merges JSON`.
-4. Verify, per episode, that the claim, artifact sub-item and meme-occurrence counts match the staging files.
-5. Fix preflight findings: ground or drop Mentions, accept named-before-intro pairs with a reason, add aliases only per section 4.
-6. Run `apply_name_corrections.py` for any mis-transcriptions the agents flagged, merge inscriptions, run `supplement_memes_backfill.py` for meme definitions, run `sync_claim_tags.py`, and regenerate the companion.
-7. Run the gate suite (section 9). Write `audits/<batch>/README.md` with the result table and review items (section 8). Open the PR, and merge it when green.
+Scripts are in `scripts/supplement/` plus `scripts/supplement_integrate.py`. Agent instructions are in `docs/supplement/`.
+1. `supplement/build_pack.py PACK --staging NAME` writes the reference tables, the specs, the filled-in `AGENT_PROMPT.md` and `batch.json`. Run one agent per episode: "Follow PACK/AGENT_PROMPT.md exactly. SEQ=n, TRANSCRIPT=file". Each staging file must pass `check_supplement.py`.
+2. **Wait for every agent.** `supplement/verify_batch.py STAGING --pre --expect PACK/batch.json` refuses to proceed while any file is missing, and lists exact and near-duplicate nodes and memes. Map the duplicates through a title-merge JSON.
+3. Run `supplement_integrate.py STAGING --batch NAME --merges JSON`, then `supplement/verify_batch.py STAGING --post`. Every episode's claim, artifact and meme-occurrence counts must equal the staged counts.
+4. Name corrections. Turn the agents' MISTRANSCRIPTION reports into rules in `config/transcript_name_corrections.json`. Scope a rule to its episodes whenever the wrong rendering is a real name or a common word elsewhere, and check each scoped rule's hit count in its episode first. Preview the alias drops and renames, then run `apply_name_corrections.py`.
+5. Fix the preflight findings: ground or drop Mentions, accept named-before-intro pairs with a reason, and add aliases only per section 4.
+6. Run `supplement/merge_inscriptions.py STAGING` (it must report 0 lost ids), then `supplement_memes_backfill.py STAGING` (meme definitions; it should add no occurrences), `sync_claim_tags.py` and the companion generator.
+7. Run the gate suite (section 9). Write `audits/<batch>/README.md` with the result table and review items (section 8), and include the agents' MISTRANSCRIPTION reports. Open the PR, run `gh pr update-branch`, and merge it when green.
 
 ## 8. Review items
 Each item that needs Daveed's eyes includes:

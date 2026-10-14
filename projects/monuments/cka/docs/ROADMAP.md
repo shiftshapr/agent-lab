@@ -16,9 +16,9 @@ The full execution plan from here to a verified, published and promoted archive.
 
 | # | Task | Done when |
 |---|---|---|
-| 0.1 | Policy document and roadmap | merged (this PR) |
-| 0.2 | CI gate workflow with the derived-files freshness check | merged; the check runs on every PR |
-| 0.3 | Move the integration tooling from the scratchpad to `cka/scripts/supplement/`: agent spec, `check_supplement.py`, inscription merge, staging fuzzy-duplicate check, per-episode count verification | one `integrate_batch.py STAGING` command runs steps 2–7 of POLICY §7, and tests cover the batch 2–3 meme drop and the uppercase-header case |
+| 0.1 | ✅ Policy document and roadmap | merged (#74) |
+| 0.2 | ✅ CI gate workflow with the derived-files freshness check | merged (#74, #75); required on `main` |
+| 0.3 | ✅ 2026-10-14 (as `build_pack.py`, `verify_batch.py --pre/--post` and `merge_inscriptions.py`, with tests in `test_supplement_tools.py`; steps chained per POLICY §7). Move the integration tooling from the scratchpad to `cka/scripts/supplement/`: agent spec, `check_supplement.py`, inscription merge, staging fuzzy-duplicate check, per-episode count verification | one `integrate_batch.py STAGING` command runs steps 2–7 of POLICY §7, and tests cover the batch 2–3 meme drop and the uppercase-header case |
 | 0.4 | Make the inscription builder copy claim `Tags:` itself | `sync_claim_tags.py` reports 0 on a fresh build |
 | 0.5 | **Timestamp verifier.** Every claim's timestamp falls inside the transcript block that contains its snippet, so the `?t=` link lands on the sentence | it runs as a CI step and fails on any drift |
 | 0.6 | **Spot-check QA harness.** Opus re-checks a random 2–3% of each batch's claims against the transcript and HappyScribe, scoring attribution, accuracy, person, timestamp and relevance | it reports a material-error rate per batch to `audits/<batch>/qa.md`; target < 2% |
@@ -30,8 +30,8 @@ The full execution plan from here to a verified, published and promoted archive.
 
 | # | Task | Done when |
 |---|---|---|
-| 1.1 | Supplement batch 6 (20 episodes) | merged; QA rate reported |
-| 1.2 | Supplement batch 7 (the last ~22 episodes) | every episode is at or above about 0.9 claims/min, or explained |
+| 1.1 | ✅ Supplement batch 6 (20 episodes) | merged (#76) |
+| 1.2 | ✅ Supplement batch 7 (the last 22 episodes) | merged (#77); all 161 episodes filled or supplemented |
 | 1.3 | Catch up on new episodes: Ep 399, Ep 400 and later | the manifest matches the channel |
 | 1.4 | **Automated daily pipeline**, Mon–Thu at 4 p.m. PT: watch the channel feed → fetch our transcript and the HappyScribe one → apply name corrections, and flag any HappyScribe name differences for review → extract → integrate → QA sample → PR → merge when CI is green → push notification to Daveed with that day's review items | runs unattended for a week |
 | 1.5 | Daily X ingest from Daveed's account; tweet-to-claim, node and artifact linking for the 13-month backfill | every tweet is linked or explicitly unlinked |
