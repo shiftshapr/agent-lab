@@ -12,12 +12,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-845, N-846, N-847, N-848, N-849, N-11223, N-11224, N-11225
-  - Hole-minted Nodes (reintro-ep024): N-224, N-226, N-272, N-10236, N-10336, N-10337
+  - Hole-minted Nodes (reintro-ep024): N-224, N-226, N-10236, N-10336, N-10337
   - Tip-minted Nodes (reintro-ep024): N-712, N-10917, N-11092, N-11107
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9447–C-9512
   - New Nodes Introduced: N-214, N-215, N-216, N-218, N-219, N-220, N-10216, N-10217
-  - Reused Nodes Appearing: N-15, N-17, N-46, N-50, N-82, N-99, N-157, N-158, N-194, N-10006, N-10025, N-10033, N-10047, N-10077, N-10083, N-10104, N-10139, N-10148, N-10164, N-10167, N-10202, N-10206, N-10406, N-11099, N-383, N-717, N-10543
+  - Reused Nodes Appearing: N-15, N-17, N-46, N-50, N-82, N-99, N-157, N-158, N-194, N-10006, N-10025, N-10033, N-10047, N-10077, N-10083, N-10104, N-10139, N-10148, N-10164, N-10167, N-10202, N-10206, N-10406, N-11099, N-383, N-717, N-10543, N-272
   - Tip-minted Nodes (wave2): N-10894, N-10895
   - (see registers), N-11
 

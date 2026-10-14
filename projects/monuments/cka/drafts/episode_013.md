@@ -14,7 +14,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-11269, N-11270, N-11271, N-11272, N-11273, N-11274
   - Hole-minted Nodes (reintro-ep013): N-197, N-10158, N-10159, N-10160, N-10209, N-10406
-  - Tip-minted Nodes (reintro-ep013): N-11096, N-11103, N-11153, N-11170
+  - Tip-minted Nodes (reintro-ep013): N-11153, N-11170
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-10771–C-10836
   - (see registers)
@@ -39,7 +39,7 @@
 - Artifact Families Introduced: A-1196, A-1197, A-1198, A-1199, A-1200, A-1201, A-1202, A-1203, A-1204, A-1205, A-1206, A-1207, A-1208
 - Claim Range: C-1337–C-1353, C-3754
   - New Nodes Introduced: N-136, N-138, N-139, N-140, N-141, N-142, N-143, N-144, N-145, N-10152, N-10153, N-10154, N-10155, N-10157
-  - Reused Nodes Appearing: N-3, N-40, N-126, N-137, N-10156, N-5, N-32, N-49, N-57, N-93, N-97, N-118, N-130, N-10000, N-10003, N-10006, N-10011, N-10012, N-10014, N-10017, N-10026, N-10052, N-10056, N-10078, N-10082, N-10115, N-10131, N-10135, N-10139, N-10144, N-10146, N-10147, N-10148, N-10898, N-10900, N-11217
+  - Reused Nodes Appearing: N-3, N-40, N-126, N-137, N-10156, N-5, N-32, N-49, N-57, N-93, N-97, N-118, N-130, N-10000, N-10003, N-10006, N-10011, N-10012, N-10014, N-10017, N-10026, N-10052, N-10056, N-10078, N-10082, N-10115, N-10131, N-10135, N-10139, N-10144, N-10146, N-10147, N-10148, N-10898, N-10900, N-11217, N-11096, N-11103
 
 Third, a Phil Lyman campaign endorsement by George Zinn is documented via Wayback Machine dating back to at least June 6, 2024; this is presented to address earlier speculation rather than to advance new claims.
 

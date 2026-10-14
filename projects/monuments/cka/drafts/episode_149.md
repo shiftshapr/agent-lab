@@ -11,6 +11,11 @@
 - **Transcript SHA-256**: d083233973ad6e9fb8ef03f80dd5b5b650e1276ba782aca655d4b16cef72c1cd
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10g): N-11407, N-11408, N-11409
+  - Hole-minted Nodes (reintro-ep149): N-10828
+  - Tip-minted Nodes (reintro-ep149): N-906, N-909, N-11310
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10g): C-14854–C-14945
   - Hole-minted Nodes (fixall-ep149): N-273
   - (see registers)
 
@@ -31,7 +36,7 @@
   - Artifact Families Introduced: A-2426, A-2427, A-2428, A-2429, A-2430, A-2431, A-2432, A-2433, A-2434, A-2435
   - Claim Range: C-3543–C-3567
   - New Nodes Introduced: (none)
-  - Reused Nodes Appearing: N-493, N-498
+  - Reused Nodes Appearing: N-493, N-498, N-2, N-14, N-27, N-38, N-46, N-54, N-55, N-162, N-167, N-194, N-228, N-333, N-366, N-370, N-438, N-855, N-10024, N-10062, N-10077, N-10148, N-10187, N-10337, N-10373, N-10375, N-10381, N-10573, N-10576, N-10581, N-10688, N-10737, N-10888, N-10953, N-11017, N-11191, N-11262
   - Existing Nodes Reused: 
 
 ## 6. Meme Register
@@ -47,8 +52,34 @@ Context: DIA / DCIA brand line from corrected transcript (CKA seq 149).
 Tags: tips_network, brand_joke, transcript_backfill
 Confidence: high
 
----
+### Occurrence 2
 
+Video Timestamp: 00:01:19
+Speaker: N-3
+Quote: Thanks to our tips inbox, we can correct the record.
+Context: Host credits her tips inbox for correcting the security team identification.
+Tags: tips_network, dia
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:51:15
+Speaker: N-3
+Quote: Email us more tips at kennace. com. Tell us what you know.
+Context: Host asks viewers to email more tips right after the DIA line.
+Tags: tips_network, dia
+Confidence: high
+
+### Occurrence 4
+
+Video Timestamp: 00:52:16
+Speaker: N-3
+Quote: Email us more tips canoners. com.
+Context: Host repeats the tip request aimed at Hariff-related information and offers source protection.
+Tags: tips_network, dia
+Confidence: high
+
+---
 
 **M-25** (meme) Iron Sharpens Iron
 
@@ -74,6 +105,67 @@ Speaker: N-3
 Quote: f the ride when we're pulling into the hospital parking lot and we're yanking and banking our way there. Yeah. And then he goes on to say that Bria...
 Context: Yanking and banking gag. (CKA seq 149)
 Tags: reuse, pass2
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:00:01
+Speaker: N-3
+Quote: where in Yankin Bankin Franken Turk keeps calling me out
+Context: Host nicknames Turek in the cold open.
+Tags: nickname, turek
+Confidence: high
+
+---
+
+**M-19** (meme) Go Max
+
+### Occurrence 1
+
+Video Timestamp: 00:00:01
+Speaker: N-3
+Quote: we are going to continue to go max with more neverbeforeseen footage from September 10th
+Context: Host opens with the Go Max refrain.
+Tags: opener, catchphrase
+Confidence: high
+
+---
+
+**M-107** (meme) Stop Anti-Candaceism
+
+### Occurrence 1
+
+Video Timestamp: 00:50:27
+Speaker: N-3
+Quote: we cannot allow anti-cannonism to continue to spread
+Context: Host promotes the sold-out cups and the anti-Candaceism bit.
+Tags: merch, bit
+Confidence: high
+
+---
+
+**M-220** (meme) Candicism
+
+### Occurrence 1
+
+Video Timestamp: 00:51:15
+Speaker: N-3
+Quote: so you too can join the social movement and seek justice for candism
+Context: Host continues the Candaceism bit alongside restock news.
+Tags: merch, bit
+Confidence: high
+
+---
+
+**M-305** (meme) Shoot My Shot
+
+### Occurrence 1
+
+Video Timestamp: 00:52:16
+Speaker: N-3
+Quote: I got to shoot my shot.
+Context: Host admits her offer to Hariff and Cutler is a long shot.
+Tags: long_shot, sources
 Confidence: high
 
 ---
@@ -350,6 +442,98 @@ Confidence: medium
 
 ---
 
+**A-3348** Tips Inbox Correction Bundle
+
+**A-3348.1** Host verbal reference to her tips inbox as the source of the correction of the security team member's identity (no document shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:01:19
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14857, N-3, N-273*
+
+---
+
+**A-3349** Harpole Shawn Ryan Interview Bundle
+
+**A-3349.1** Host verbal reference to Brian Harpole's Shawn Ryan Show interview in which he says Turek prayed in the back (not played here)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:10:55
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14876, N-270, N-228, N-7*
+
+---
+
+**A-3350** Timpanogos Doctor Recusal Tip Bundle
+
+**A-3350.1** Host verbal reference to a tip about an unnamed Timpanogos doctor who allegedly recused himself and asked to be removed from the records (no document shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:29:37
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14904, C-14905, N-10828, N-10573, N-10576*
+
+---
+
+**A-3351** Andrew Wilson Receipt Signature Bundle
+
+**A-3351.1** Host verbal reference to the signature Andrew Wilson posted as a debunking of the Cowboy Smokehouse receipt (described, not clearly shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:33:40
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14915, C-14916, N-18, N-40, N-11262, N-10381, N-3*
+
+---
+
+**A-3352** Tip Line Appeal Bundle
+
+**A-3352.1** Host verbal call to email more tips to the show address
+
+Quoted text: "Email us more tips at kennace. com. Tell us what you know."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:51:15
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-14942, N-3*
+
+---
+
+**A-3352.2** Host verbal call to email more tips about Blake Hariff, with an offer to protect sources
+
+Quoted text: "Email us more tips canoners. com."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:52:16
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-14943, C-14944, N-906, N-3, N-11310, N-493*
+
+---
+
+**A-3353** Unreleased Hospital Interior Footage Bundle
+
+**A-3353.1** Host verbal reference to footage from inside the hospital that she has but is not yet showing
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:18:08
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14892, N-3, N-10573*
+
+---
 
 ## IV. Node Register
 
@@ -375,6 +559,424 @@ Investigative Pressure: High
 
 *Related: C-3543, C-3544, C-3545, A-2426.1*
 
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-14854, C-14855, C-14857, C-14860, C-14861, C-14862, C-14863, C-14864, C-14865, C-14869, C-14892, C-14902, C-14906, C-14907, C-14916, C-14921, C-14931, C-14933, C-14934, C-14938, C-14940, C-14941, C-14942, C-14943, C-14944, C-14945*
+
+---
+
+**N-7** Frank Turek
+
+Pastor and apologist who rode in the SUV; the host disputes his CPR, scrubs and blood accounts.
+
+*Related: C-14855, C-14863, C-14864, C-14865, C-14866, C-14867, C-14873, C-14875, C-14876, C-14877, C-14878, C-14879, C-14880, C-14881, C-14882, C-14883, C-14885, C-14887, C-14890, C-14894, C-14902, C-14932*
+
+---
+
+**N-11407** Integrity Solutions
+
+Node Type: Organization
+Organization the host says she had mistakenly believed the security team member she first named as Chester Barnes worked for.
+
+*Related: C-14856*
+
+---
+
+**N-11408** Perimeter Global Logistics
+
+Node Type: Organization
+PGL, a government defense contractor specializing in global freight and cross-border shipping, where the host says Derek Pepper Williams worked after the Navy.
+
+*Related: C-14859*
+
+---
+
+**N-10888** Department of War
+
+Department of War, formerly Department of Defense.
+
+*Related: C-14860, C-14910*
+
+---
+
+**N-11017** TPUSA Influencer Payment Campaign Allegation
+
+TPUSA influencer payment campaign allegation topic.
+
+*Related: C-14860, C-14910*
+
+---
+
+**N-438** Kimberly Klacik
+
+Former Maryland Republican congressional nominee; the host recounts her defamation suit.
+
+*Related: C-14861, C-14862*
+
+---
+
+**N-1** Charlie Kirk
+
+Subject of the assassination; the host discusses his Israel position, the Zoom call and his texts.
+
+*Related: C-14866, C-14867, C-14868, C-14869, C-14870, C-14871, C-14872, C-14874, C-14878, C-14882, C-14884, C-14945*
+
+---
+
+**N-167** Rabbi Pesach Wolicki
+
+Rabbi the host says was on the Zoom call with Charlie.
+
+*Related: C-14867, C-14868*
+
+---
+
+**N-55** Josh Hammer
+
+Commentator; the host says he was on the Zoom call and was caught lying about Charlie's Israel views.
+
+*Related: C-14867, C-14869*
+
+---
+
+**N-162** Blake Neff
+
+Charlie's aide also called Blakey; named on the Zoom call and as the likely Blakey of the lobby comment.
+
+*Related: C-14867, C-14931*
+
+---
+
+**N-14** Andrew Kolvet
+
+TPUSA spokesperson; the host says he was on the Zoom call and gave Gabbard's office a false account.
+
+*Related: C-14867, C-14871*
+
+---
+
+**N-10169** Josh Hammer Pre-Death Zoom Call Verification
+
+Verification topic for the Josh Hammer Zoom call.
+
+*Related: C-14867, C-14868*
+
+---
+
+**N-10187** Josh Hammer Text Messages Context
+
+Josh Hammer text message context topic.
+
+*Related: C-14869*
+
+---
+
+**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim
+
+Charlie's pre-death Israel position topic.
+
+*Related: C-14870*
+
+---
+
+**N-333** Tulsi Gabbard
+
+Director of National Intelligence; the host says Kolvet gave her office a false account.
+
+*Related: C-14871*
+
+---
+
+**N-270** Brian Harpole
+
+Security team member and medic-trained team member in the SUV; says no CPR was done.
+
+*Related: C-14873, C-14876, C-14877, C-14879, C-14880, C-14883, C-14888, C-14898, C-14899, C-14924*
+
+---
+
+**N-10737** CPR Narrative Contradiction (Turek / Harpole)
+
+Turek and Harpole CPR narrative contradiction topic.
+
+*Related: C-14874, C-14875*
+
+---
+
+**N-228** Shawn Ryan
+
+Podcaster whose show interviewed Harpole about the ride.
+
+*Related: C-14876*
+
+---
+
+**N-10688** Frank Turek Clothing Disposal
+
+Frank Turek clothing disposal topic.
+
+*Related: C-14881*
+
+---
+
+**N-11310** Security Team Timpanogos Scrubs Question
+
+Security team Timpanogos scrubs question topic.
+
+*Related: C-14881, C-14891, C-14897, C-14901, C-14943*
+
+---
+
+**N-493** Rick Cutler
+
+Security team member; the host says he carried Charlie and wore head-to-toe scrubs.
+
+*Related: C-14883, C-14895, C-14899, C-14944*
+
+---
+
+**N-212** Jack Hibbs
+
+Pastor Jack Hibbs; Turek FaceTimed him from the hospital and he says Mikey called.
+
+*Related: C-14885, C-14886, C-14887*
+
+---
+
+**N-194** Mikey McCoy
+
+Charlie's staffer who, per the host, provided the scrubs and phoned Jack Hibbs.
+
+*Related: C-14886, C-14891, C-14901*
+
+---
+
+**N-10573** Timpanogos Hospital Evidence Question
+
+Timpanogos hospital evidence question topic.
+
+*Related: C-14889, C-14892, C-14897, C-14898, C-14904*
+
+---
+
+**N-498** Justin Davis
+
+Security team member; the host says he drove the SUV and wore scrubs.
+
+*Related: C-14893, C-14896*
+
+---
+
+**N-906** Blake Hariff
+
+Security team member; the host says he stayed behind, was clean and later wore scrubs.
+
+*Related: C-14893, C-14894, C-14896, C-14943, C-14944*
+
+---
+
+**N-274** Dan Flood
+
+Security staffer who carried Charlie and wore scrubs at the UVU return.
+
+*Related: C-14895*
+
+---
+
+**N-11191** Pre-Born
+
+Pre-Born, sponsor named in the host's ad read.
+
+*Related: C-14903*
+
+---
+
+**N-10828** Timpanogos Doctor Recusal Mystery
+
+Timpanogos doctor recusal mystery topic.
+
+*Related: C-14904, C-14905*
+
+---
+
+**N-10576** Timpanogos Hospital Records / Chain of Custody
+
+Timpanogos hospital records and chain of custody topic.
+
+*Related: C-14905*
+
+---
+
+**N-2** Erika Kirk
+
+Widow and TPUSA CEO; named in connection with Andrew Wilson and Mitch Snow's Fort Huachuca account.
+
+*Related: C-14906, C-14924*
+
+---
+
+**N-11262** Andrew Wilson TPUSA Debate Training Engagement
+
+Andrew Wilson TPUSA debate training engagement topic.
+
+*Related: C-14906, C-14907, C-14915, C-14935*
+
+---
+
+**N-10381** Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification
+
+Tyler Robinson's Panguitch Cowboy Smokehouse visit verification topic.
+
+*Related: C-14907, C-14908, C-14909, C-14912, C-14913, C-14914, C-14915, C-14916, C-14919, C-14922, C-14925, C-14926, C-14927, C-14928*
+
+---
+
+**N-40** Tyler Robinson
+
+Accused in the Kirk case; subject of the Panguitch receipt and the text message timeline.
+
+*Related: C-14908, C-14915, C-14916, C-14917, C-14918, C-14919, C-14920, C-14925, C-14927, C-14928*
+
+---
+
+**N-370** Diligent Dennison
+
+Citizen journalist who released a waiter interview and the receipt.
+
+*Related: C-14911*
+
+---
+
+**N-54** Lance Twiggs
+
+Recipient of the Robinson text messages on which the host says the case hinges.
+
+*Related: C-14917, C-14918, C-14919*
+
+---
+
+**N-10062** Orem, Utah
+
+Utah city where the host places Robinson's texts by 11:45 p.m.
+
+*Related: C-14917*
+
+---
+
+**N-10077** Robinson-Lance Text Chain Authenticity
+
+Authenticity of the Robinson to Lance text chain on which the host says the case hinges.
+
+*Related: C-14917, C-14918, C-14919*
+
+---
+
+**N-10337** Tyler Robinson Prosecution Evidence Base
+
+Topic on the evidence base of the prosecution.
+
+*Related: C-14918*
+
+---
+
+**N-909** Miss Noble
+
+Neighbor who the host says saw a bald man driving with two other people.
+
+*Related: C-14920*
+
+---
+
+**N-366** Mitch Snow
+
+Fort Huachuca eyewitness; the host says she cannot confirm he saw Erika or Harpole.
+
+*Related: C-14923, C-14924*
+
+---
+
+**N-10375** Fort Huachuca Sighting Verification
+
+Fort Huachuca sighting verification topic.
+
+*Related: C-14923, C-14924*
+
+---
+
+**N-10373** Brian Harpole Fort Huachuca Presence Verification
+
+Harpole's Fort Huachuca presence verification topic.
+
+*Related: C-14924*
+
+---
+
+**N-10024** Kirk Assassination Investigation Timeline
+
+Host's investigation timeline topic.
+
+*Related: C-14926*
+
+---
+
+**N-10581** Tyler Robinson Defense – Chain of Custody / Documents
+
+Defense chain of custody and documents topic.
+
+*Related: C-14928*
+
+---
+
+**N-10953** Paleo Valley
+
+Sponsor named in the host's ad read.
+
+*Related: C-14929*
+
+---
+
+**N-11409** Fatty15
+
+Node Type: Organization
+Sponsor named in the host's ad read for C15 supplements.
+
+*Related: C-14930*
+
+---
+
+**N-46** Megyn Kelly
+
+Commentator; viewer comment says Turek was on her show that day.
+
+*Related: C-14932*
+
+---
+
+**N-27** Kanye West
+
+Rapper Ye; host's concert and the Australia ban are mentioned.
+
+*Related: C-14933, C-14939*
+
+---
+
+**N-38** Seth Dillon
+
+Babylon Bee CEO; the host recalls his complaint about a thumbnail.
+
+*Related: C-14937*
+
+---
+
+**N-855** Tony Burke
+
+Australian minister the host says banned her.
+
+*Related: C-14938*
+
+---
 
 ## V. Claim Register
 
@@ -671,6 +1273,1511 @@ Mentions: N-3
 Related Nodes: 
 Confidence: high
 Investigative Direction: Keep as DIA structure metaphor claim alongside M-12 brand cites.
+
+---
+
+**C-14854** Host Says She Is a Few Weeks From Giving Birth
+
+Claim Timestamp: 00:00:01
+
+Claim: The host says she is only a few weeks away from giving birth.
+
+Transcript Snippet: I'm only a few weeks away from giving birth.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: Personal statement recorded as said; no checkable external record is needed for the investigation.
+
+---
+
+**C-14855** Host Says Turek Keeps Calling Her Out in Sermon Clips
+
+Claim Timestamp: 00:00:01
+
+Claim: The host says people keep finding clips of what she calls biblically based sermons in which Frank Turek keeps calling her out.
+
+Transcript Snippet: people keep finding these clips, or rather what we are to imagine are biblically based sermons where in Yankin Bankin Franken Turk keeps calling me out.
+
+Anchored Artifacts: 
+Mentions: N-3, N-7
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Collect the dated Turek sermon and podcast appearances in which he names the host and compare the wording with the clips aired here.
+
+---
+
+**C-14856** Host Says Williams Was First Named as Chester Barnes of Integrity Solutions
+
+Claim Timestamp: 00:01:19
+
+Claim: The host says the TPUSA security team member in the hat and plaid shirt had been named earlier on her show as Chester Barnes, believed to be working with Integrity Solutions, and that the identification was wrong.
+
+Transcript Snippet: This individual who we initially named as Chester Barnes, someone that we thought was working with Integrity Solutions
+
+Anchored Artifacts: 
+Mentions: N-273
+Related Nodes: N-11407
+Tags: relevance:core
+Investigative Direction: Pull the earlier episode where the Chester Barnes and Integrity Solutions identification was made and check Integrity Solutions staff and contractor lists for any Barnes or Williams.
+
+---
+
+**C-14857** Host Says Tips Inbox Enabled the Security Team Correction
+
+Claim Timestamp: 00:01:19
+
+Claim: The host says the correction of the security team member's identity was possible thanks to her tips inbox.
+
+Transcript Snippet: Thanks to our tips inbox, we can correct the record.
+
+Anchored Artifacts: A-3348.1
+Mentions: N-3, N-273
+Related Nodes: 
+Tags: relevance:context, dia
+Investigative Direction: Obtain the tip email that supplied the Pepper Williams identification and any supporting employment record to confirm the correction.
+
+---
+
+**C-14858** Host Says Williams Is a Former Navy SEAL
+
+Claim Timestamp: 00:01:19
+
+Claim: The host says Derek Pepper Williams is a former Navy SEAL who worked in Naval Special Warfare Operations.
+
+Transcript Snippet: Derek Pepper Williams, a former Navy Seal who worked in Naval Special Warfare Operations.
+
+Anchored Artifacts: 
+Mentions: N-273
+Related Nodes: 
+Tags: relevance:core
+Investigative Direction: Request Williams's DD-214 or Navy service record summary, or an authoritative biography confirming SEAL service.
+
+---
+
+**C-14859** Host Says PGL Specializes in Border Freight and Williams Is Based in Texas
+
+Claim Timestamp: 00:02:11
+
+Claim: The host says Perimeter Global Logistics specializes in global freight shipping and over-the-border shipping in Texas, where she says Williams is based.
+
+Transcript Snippet: They specialize in global freight shipping, over the border shipping down in Texas where he is based.
+
+Anchored Artifacts: 
+Mentions: N-273
+Related Nodes: N-11408
+Supports: C-3544
+Tags: relevance:core
+Investigative Direction: Check PGL corporate registrations, Texas filings and Williams's residence or work location in public business records.
+
+---
+
+**C-14860** Host Says the Defense Department Instructed Influencers to Attack Her
+
+Claim Timestamp: 00:02:11
+
+Claim: The host says the Department of Defense, which she says is oddly tied to the Kirk assassination in unexpected ways, has been instructing influencers to attack her over her investigation.
+
+Transcript Snippet: the same department that we have learned is oddly married to the Charlie Kirk assassination in ways that we didn't expect, instructing influencers to attack me over our investigation.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10888, N-11017
+Tags: relevance:core
+Investigative Direction: Identify the source of the host's claim and any contracts, payments or communications between the Department of Defense and the influencers who criticized her.
+
+---
+
+**C-14861** Host Says Kim Klacik Hid That She Worked as a Stripper
+
+Claim Timestamp: 00:03:17
+
+Claim: The host says that when she looked into Maryland Republican congressional nominee Kim Klacik she found Klacik had been hiding that she was a stripper.
+
+Transcript Snippet: I found out that she was like hiding the fact that she was a whole stripper.
+
+Anchored Artifacts: 
+Mentions: N-438, N-3
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: Public reporting and records on Klacik's earlier employment; treat as a personal-history allegation recorded as said.
+
+---
+
+**C-14862** Host Says Klacik Sued Her for Defamation, Lost and Had to Pay Her
+
+Claim Timestamp: 00:04:51
+
+Claim: The host says Klacik's then husband managed the strip club, that Klacik sued the host for defamation, lost the case, and had to pay the host in Tennessee under its anti-SLAPP law.
+
+Transcript Snippet: sued me for def defamation and she subsequently lost that defamation lawsuit and she had to pay me here in Tennessee because we have anti-SLAP laws gratefully.
+
+Anchored Artifacts: 
+Mentions: N-438, N-3
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: Pull the Tennessee court docket and any fee award order in the Klacik v. Owens case; compare with the earlier claim that the suit was dropped in discovery.
+
+---
+
+**C-14863** Host Says Turek Was the Only Person Who Reacted Normally to the Shot
+
+Claim Timestamp: 00:04:51
+
+Claim: The host says Frank Turek was not on her radar early on and that she repeatedly said he appeared to be the only person who reacted normally in the moments after the shot, ducking down and appearing fearful and surprised.
+
+Transcript Snippet: he appeared to be the only person that reacted normally in those immediate moments following the explosive going off. He ducked down. He appeared fearful.
+
+Anchored Artifacts: 
+Mentions: N-7, N-3
+Related Nodes: 
+Supports: C-1481
+Tags: relevance:core
+Investigative Direction: Review frame-by-frame event footage of Turek at the shot and the host's earlier episodes where she called his reaction normal.
+
+---
+
+**C-14864** Turek Clips Call the Host's Questions Lies, Slander and Demonic
+
+Claim Timestamp: 00:06:06
+
+Claim: In the clips played, Frank Turek says that there have been lies, accusations and slander with no evidence and that this is spiritual warfare and demonic activity, naming Candace Owens.
+
+Transcript Snippet: This is spiritual warfare. This is demonic activity. Yeah, I'm talking about Candace Owens.
+
+Anchored Artifacts: A-2427.3
+Mentions: N-7, N-3
+Related Nodes: 
+Supports: C-7478
+Tags: relevance:context
+Investigative Direction: Obtain the full original Turek appearances to confirm wording, date and host, as the clips are edited together.
+
+---
+
+**C-14865** Host Says She Has Repeatedly Invited Turek and Offered to Appear on His Show
+
+Claim Timestamp: 00:06:53
+
+Claim: The host says she has offered many times for Frank Turek to come on her show and has offered to go on his.
+
+Transcript Snippet: By the way, I've offered many times for you to come on the show. Offer to go on your show, actually.
+
+Anchored Artifacts: 
+Mentions: N-7, N-3
+Related Nodes: 
+Supports: C-6603, C-8360
+Tags: relevance:context
+Investigative Direction: Locate the dated invitations and any Turek or representative replies.
+
+---
+
+**C-14866** Host Recounts Turek's Account That the Sept 8 Walk Was for Debate Tips
+
+Claim Timestamp: 00:06:53
+
+Claim: The host recounts Turek's version that he was with Charlie in Arizona in the 48 hours before the death and went on a walk on September 8 because Charlie needed debate tips.
+
+Transcript Snippet: we are to believe that he went on this walk with him on September 8th because Charlie just needed debate tips, right?
+
+Anchored Artifacts: 
+Mentions: N-7, N-1
+Related Nodes: 
+Tags: relevance:core
+Investigative Direction: Compare Turek's own stated reason for the Sept 8 walk across his interviews, and check Scottsdale location and phone records for the walk.
+
+---
+
+**C-14867** Host Says Turek, Hammer, Wolicki, Neff and Kolvet Were on the Next-Day Zoom
+
+Claim Timestamp: 00:06:53
+
+Claim: The host says Frank Turek joined Charlie the next day for the Zoom call, which she says included two Israeli officials, Rabbi Wolicki, Josh Hammer, Blake Neff and Andrew Kolvet, supposedly to help with debating.
+
+Transcript Snippet: Frank would then join Charlie the next day for that now infamous Zoom call because Charlie desperately needed help with debating from namely two Israeli officials
+
+Anchored Artifacts: 
+Mentions: N-7, N-1, N-167, N-55, N-162, N-14
+Related Nodes: N-10169
+Supports: C-7756, C-7765, C-9340
+Tags: relevance:core
+Investigative Direction: Obtain Zoom participant logs or invitations for the Sept 9 call and statements from each named attendee.
+
+---
+
+**C-14868** Host Says the Zoom Call Took Place at 4 a.m. Israel Time
+
+Claim Timestamp: 00:06:53
+
+Claim: The host says the call was at 4:00 a.m. in the morning Israel time for the two Israeli officials on it.
+
+Transcript Snippet: from namely two Israeli officials at 4:00 a. m. in the morning their time
+
+Anchored Artifacts: 
+Mentions: N-1, N-167
+Related Nodes: N-10169
+Supports: C-10068
+Tags: relevance:core
+Investigative Direction: Verify the call time against Zoom logs and Hammer's and Wolicki's own accounts of when it occurred.
+
+---
+
+**C-14869** Host Says Hammer Was Caught Lying About Charlie's Views on Israel
+
+Claim Timestamp: 00:06:53
+
+Claim: The host says Josh Hammer was caught lying about whether Charlie's views on Israel had shifted, repeatedly insisting that Charlie never flinched until she released a text message.
+
+Transcript Snippet: I've never seen someone caught lying in the way that he was caught lying about Charlie's views shifting over Israel day in and day out he kept saying oh no he never flinched until I dropped the text message.
+
+Anchored Artifacts: 
+Mentions: N-55, N-1, N-3
+Related Nodes: N-10187
+Tags: relevance:core
+Investigative Direction: Compare Hammer's public statements on Charlie's Israel position with the released text message and its date.
+
+---
+
+**C-14870** Host Says Charlie Announced Abandoning the Pro-Israel Cause Two Hours Before the Zoom
+
+Claim Timestamp: 00:06:53
+
+Claim: The host says Charlie announced he was abandoning the pro-Israel cause roughly two hours before the Zoom call, something she says the others felt the need to lie about.
+
+Transcript Snippet: That two hours after he announced he was abandoning the pro-Israel cause, something that they all felt the need to lie about
+
+Anchored Artifacts: 
+Mentions: N-1
+Related Nodes: N-10148
+Supports: C-12931
+Tags: relevance:core
+Investigative Direction: Identify the message or statement by Charlie that the host treats as the announcement and its timestamp relative to the Zoom call.
+
+---
+
+**C-14871** Host Says Kolvet Gave Tulsi Gabbard's Office a Lie About Charlie's Israel Position
+
+Claim Timestamp: 00:06:53
+
+Claim: The host says Andrew Kolvet felt the need to lie to Tulsi Gabbard's office after Charlie's death about his changing views on Israel.
+
+Transcript Snippet: something that Andrew Kolvet felt the need to give Tulsi Gabbard's office following his death.
+
+Anchored Artifacts: 
+Mentions: N-14, N-333, N-1
+Related Nodes: 
+Tags: relevance:core
+Investigative Direction: Ask Gabbard's office for communications from Kolvet after Sept 10 and compare with the host's source for the account.
+
+---
+
+**C-14872** Host Says Charlie Texted He Feared Being Killed During the Zoom Call Period
+
+Claim Timestamp: 00:06:53
+
+Claim: The host says that during the call Charlie was texting people that he was worried he would be killed the next day.
+
+Transcript Snippet: And during that call, he was texting people that he was worried that he was going to be killed uh the next day.
+
+Anchored Artifacts: 
+Mentions: N-1
+Related Nodes: 
+Supports: C-7754, C-9358
+Tags: relevance:core
+Investigative Direction: Obtain the texts and recipients with timestamps relative to the call and verify authenticity.
+
+---
+
+**C-14873** Host Says Harpole Has Said Multiple Times No CPR Was Done
+
+Claim Timestamp: 00:09:21
+
+Claim: The host says Brian Harpole has said multiple times that no CPR was performed during the extremely short ride to the hospital.
+
+Transcript Snippet: Brian Harpole, who has said multiple times they did not perform CPR during that extremely short ride over to the hospital
+
+Anchored Artifacts: 
+Mentions: N-270, N-7
+Related Nodes: 
+Supports: C-8876, C-5788
+Tags: relevance:core
+Investigative Direction: Compile all Harpole statements on CPR by date and outlet and compare with Turek's.
+
+---
+
+**C-14874** Host Says the Team Said Charlie Was So Long the Door Stayed Open and Legs Hung Out
+
+Claim Timestamp: 00:09:21
+
+Claim: The host says the team told the public that Charlie was so long that they had to leave the door open and his legs hung out.
+
+Transcript Snippet: Consider them telling us that Charlie was so long that they had to leave the door open and his legs had to hang out.
+
+Anchored Artifacts: 
+Mentions: N-1
+Related Nodes: N-10737
+Tags: relevance:core
+Investigative Direction: Locate the team statements about Charlie's legs hanging out and compare with footage of the SUV leaving the scene.
+
+---
+
+**C-14875** Host Doubts Turek Could Move Charlie Into CPR Position Unnoticed
+
+Claim Timestamp: 00:09:21
+
+Claim: The host says she cannot accept that Turek shifted Charlie by himself in a couple of minutes and performed CPR without anyone noticing, given the limited space in the vehicle.
+
+Transcript Snippet: we're now supposed to believe that they somehow then shifted him or Frank Turek shifted him by himself and nobody noticed
+
+Anchored Artifacts: 
+Mentions: N-7
+Related Nodes: N-10737
+Supports: C-8879, C-8880
+Tags: relevance:core
+Investigative Direction: Obtain the SUV interior dimensions, seat configuration and a reconstruction by a paramedic or emergency physician.
+
+---
+
+**C-14876** Host Says Harpole Told Shawn Ryan That Turek Prayed and Did Not Get Involved
+
+Claim Timestamp: 00:10:55
+
+Claim: The host says Harpole told Shawn Ryan in the car-crash interview that Frank Turek was praying in the back and did not get involved, leaving Harpole alone to provide emergency care.
+
+Transcript Snippet: he told Shawn Ryan in the car crash interview that Frank was praying in the back. He didn't get involved.
+
+Anchored Artifacts: A-3349.1
+Mentions: N-270, N-228, N-7
+Related Nodes: 
+Supports: C-2950
+Tags: relevance:core
+Investigative Direction: Pull the Shawn Ryan Show interview transcript and timestamp where Harpole describes the ride.
+
+---
+
+**C-14877** Turek Says Harpole Is Correct That Most of the Ride Had No CPR
+
+Claim Timestamp: 00:11:50
+
+Claim: In the clip Turek says Brian is correct that most of the ride they were not doing any CPR because they were trying to stop the bleeding.
+
+Transcript Snippet: Brian is correct that most of the ride we weren't doing any CPR. We couldn't do CPR. We're trying to stop the bleeding.
+
+Anchored Artifacts: A-2429.1
+Mentions: N-7, N-270
+Related Nodes: 
+Tags: relevance:core
+Investigative Direction: Obtain the full original Turek statement and the date and outlet to compare with his earlier CPR claims.
+
+---
+
+**C-14878** Turek Says Charlie Was Not Breathing and Had No Heartbeat in the Car
+
+Claim Timestamp: 00:11:50
+
+Claim: In the clip Turek says that by the last part of the ride he thought Charlie was not breathing and had no heartbeat, which is why he tried CPR.
+
+Transcript Snippet: he's not breathing and there's no heartbeat. I've got to at least try.
+
+Anchored Artifacts: A-2429.1
+Mentions: N-7, N-1
+Related Nodes: 
+Supports: C-7454
+Tags: relevance:core
+Investigative Direction: Compare with Harpole's and the hospital's account of Charlie's vital signs on arrival.
+
+---
+
+**C-14879** Host Says Turek Claimed Harpole Was Just Distracted and Missed the CPR
+
+Claim Timestamp: 00:11:50
+
+Claim: The host says Turek goes on to say that Brian Harpole was just distracted, and that she does not accept that Harpole failed to notice 30 seconds of seated CPR.
+
+Transcript Snippet: And then he goes on to say that Brian was just distracted. 30 seconds to seated CPR.
+
+Anchored Artifacts: 
+Mentions: N-7, N-270
+Related Nodes: 
+Supports: C-11665
+Tags: relevance:core
+Investigative Direction: Locate the Turek interview passage where he says Harpole was distracted and compare with Harpole's account.
+
+---
+
+**C-14880** Host Says She Believes Turek Is Lying and Harpole Is Truthful
+
+Claim Timestamp: 00:11:50
+
+Claim: The host says she believes Frank Turek is lying and Brian Harpole is telling the truth, and that Harpole's consistent statements across interviews mean it is not just a discrepancy.
+
+Transcript Snippet: Frank is lying and that Brian is telling the truth, which is what I believe, and I don't believe it's just a discrepancy because Brian said it across multiple interviews
+
+Anchored Artifacts: 
+Mentions: N-7, N-270
+Related Nodes: 
+Supports: C-13072
+Tags: relevance:core
+Investigative Direction: Cross-check the Turek and Harpole accounts against any bodycam, dispatch or hospital arrival records of the ride.
+
+---
+
+**C-14881** Host Theorizes Turek's CPR Story Justifies His Surgical Scrubs
+
+Claim Timestamp: 00:13:02
+
+Claim: The host theorizes that Turek needs a reason for why he changed into surgical scrubs, and that the CPR story gives him one.
+
+Transcript Snippet: he needs to come up with a reason as to why he changed his clothes into surgical scrubs because that's another bizarre fact of the story.
+
+Anchored Artifacts: 
+Mentions: N-7
+Related Nodes: N-10688, N-11310
+Supports: C-13073
+Tags: relevance:core
+Investigative Direction: Obtain hospital records of scrub distribution and footage of Turek's clothing at the hospital.
+
+---
+
+**C-14882** Host Says Turek Jumped Into the Trunk and Did Not Touch Charlie
+
+Claim Timestamp: 00:13:02
+
+Claim: The host says everyone can see Frank Turek jumped into the trunk of the car and actually did not touch Charlie.
+
+Transcript Snippet: when everyone can see that Frank jumped into the trunk of the car and actually did not touch Charlie.
+
+Anchored Artifacts: 
+Mentions: N-7, N-1
+Related Nodes: 
+Supports: C-13074, C-2954
+Tags: relevance:core
+Investigative Direction: Review the Farnsworth footage frame by frame of Turek entering the SUV.
+
+---
+
+**C-14883** Host Says Harpole Did Not Credit Cutler or Turek With Helping
+
+Claim Timestamp: 00:13:46
+
+Claim: The host says Harpole used the first person singular and did not suggest Rick Cutler got involved, noting that Cutler was just holding Charlie because his feet were hanging out.
+
+Transcript Snippet: He did not, like I said, even suggest that Rick Cutler got involved. Rick Cutler was just holding him because Charlie's feet, they caught a tail.
+
+Anchored Artifacts: 
+Mentions: N-270, N-493, N-7
+Related Nodes: 
+Supports: C-11663
+Tags: relevance:core
+Investigative Direction: Compare Harpole's and Cutler's own accounts of who did what in the SUV.
+
+---
+
+**C-14884** Host Says Police Came Because Charlie's Feet Were Hanging Out
+
+Claim Timestamp: 00:13:46
+
+Claim: The host says police came to the vehicle because Charlie's feet were hanging out.
+
+Transcript Snippet: The police came because Charlie's feet were hanging out.
+
+Anchored Artifacts: 
+Mentions: N-1
+Related Nodes: 
+Tags: relevance:core
+Investigative Direction: Obtain police dispatch logs and bodycam covering the SUV departure and any vehicle contact.
+
+---
+
+**C-14885** Host Says Turek FaceTimed Jack Hibbs Immediately on Reaching the Hospital
+
+Claim Timestamp: 00:13:46
+
+Claim: The host says Frank Turek immediately FaceTimed Pastor Jack Hibbs when he got to the hospital.
+
+Transcript Snippet: we know that Frank when he got to the hospital, he immediately facetimed Pastor Jack Hibbs
+
+Anchored Artifacts: A-2430.1
+Mentions: N-7, N-212
+Related Nodes: 
+Supports: C-7630
+Tags: relevance:core
+Investigative Direction: Obtain the Turek and Hibbs call logs and FaceTime timestamps.
+
+---
+
+**C-14886** Hibbs Clip: Mikey McCoy Called Him Saying There Was So Much Blood
+
+Claim Timestamp: 00:14:55
+
+Claim: In the clip Jack Hibbs says Mikey called and said to get everyone in the world praying because there was so much blood.
+
+Transcript Snippet: "Jack, get everyone in the world praying. >> There's so much blood.
+
+Anchored Artifacts: A-2430.1
+Mentions: N-212, N-194
+Related Nodes: 
+Supports: C-7632, C-3386
+Tags: relevance:core
+Investigative Direction: Obtain Hibbs's and McCoy's phone records for the call sequence on Sept 10.
+
+---
+
+**C-14887** Host Says the Blood-on-Me Memory Was Turek's Not Hibbs's
+
+Claim Timestamp: 00:15:52
+
+Claim: The host says that when Turek says 'You saw I had blood on me' it seemed to be Frank's memory, not Jack's.
+
+Transcript Snippet: It seemed like that was Frank's memory, not Jack's.
+
+Anchored Artifacts: A-2430.1
+Mentions: N-7, N-212
+Related Nodes: 
+Supports: C-7633
+Tags: relevance:core
+Investigative Direction: Compare the full FaceTime interview audio with Hibbs's own account.
+
+---
+
+**C-14888** Host Says Only One Eyewitness Came Forward to Describe the Hospital Arrival
+
+Claim Timestamp: 00:15:52
+
+Claim: The host says that after searching the internet she found only one eyewitness who claimed to see the group arriving at the hospital, who posted his testimony in September, before Harpole gave interviews.
+
+Transcript Snippet: there was just one eyewitness that came forward that we could find who claimed to see them arriving at the hospital.
+
+Anchored Artifacts: A-2431.1
+Mentions: N-270
+Related Nodes: 
+Tags: relevance:core
+Investigative Direction: Locate the original eyewitness post and verify date, account identity and the claimed vantage point.
+
+---
+
+**C-14889** Eyewitness Says He Was Eating Lunch in the Hospital Parking Lot
+
+Claim Timestamp: 00:16:20
+
+Claim: The host says the eyewitness claimed he was sitting in the parking lot eating lunch at the hospital and described seeing a man get out of the trunk.
+
+Transcript Snippet: he was sitting in the parking lot eating his lunch at Timpanogos and he described seeing a man get out of crucially the trunk.
+
+Anchored Artifacts: A-2431.1
+Mentions: 
+Related Nodes: N-10573
+Tags: relevance:core
+Investigative Direction: Verify the witness's presence through his original post metadata and any lot or camera footage.
+
+---
+
+**C-14890** Host Says the Eyewitness Account Would Mean Turek Never Left the Trunk Area
+
+Claim Timestamp: 00:16:39
+
+Claim: The host says that if the eyewitness account is accurate, Frank Turek never left the trunk area during the ride, raising the question of how he got so much blood on him that he needed scrubs.
+
+Transcript Snippet: that would suggest that Frank actually never left the trunk area during that short ride.
+
+Anchored Artifacts: A-2431.1
+Mentions: N-7
+Related Nodes: 
+Supports: C-13076
+Tags: relevance:core
+Investigative Direction: Match the witness's description to the hospital's exterior camera footage and the SUV layout.
+
+---
+
+**C-14891** Host Says Scrubs Were Provided by Mikey Rather Than Given by Hospital Staff
+
+Claim Timestamp: 00:16:39
+
+Claim: The host says the team's account is that the surgical scrubs were provided by Mikey, and she finds it strange that hospital staff would not give them out themselves but gave them to Charlie's young assistant who arrived later.
+
+Transcript Snippet: which we then learned were provided by Mikey. Another strange development that the hospital staff would just give them out
+
+Anchored Artifacts: 
+Mentions: N-194
+Related Nodes: N-11310
+Supports: C-11639, C-4711
+Tags: relevance:core
+Investigative Direction: Obtain hospital supply logs and staff statements on who issued scrubs and when.
+
+---
+
+**C-14892** Host Says She Has Footage From Inside the Hospital She Is Not Yet Releasing
+
+Claim Timestamp: 00:18:08
+
+Claim: The host says she has footage from inside the hospital that she is not revealing yet.
+
+Transcript Snippet: We aren't going to reveal to you footage from inside of the hospital. Not yet, at least.
+
+Anchored Artifacts: A-3353.1
+Mentions: N-3
+Related Nodes: N-10573
+Tags: relevance:core
+Investigative Direction: Ask the host for the provenance and chain of custody of the hospital footage when it is released.
+
+---
+
+**C-14893** Host Says Justin Davis Drove the SUV to the Hospital While Hariff Stayed Behind
+
+Claim Timestamp: 00:18:51
+
+Claim: The host says Justin Davis drove to the hospital but Blake Hariff stayed behind, so he could not have gotten Charlie's blood on him in the vehicle.
+
+Transcript Snippet: Justin drives to the hospital, but Blake Hariff stays behind.
+
+Anchored Artifacts: A-2432.2
+Mentions: N-498, N-906
+Related Nodes: 
+Supports: C-3551
+Tags: relevance:core
+Investigative Direction: Confirm the driver and passenger list for the first SUV from footage and team statements.
+
+---
+
+**C-14894** Footage Shows Turek Getting Into the Boot of the SUV
+
+Claim Timestamp: 00:19:48
+
+Claim: The host says that after Hariff and Davis opened the car door the footage shows Frank Turek come around and get into the boot.
+
+Transcript Snippet: Thereafter, he comes around. He gets into the boot. Frank Turek.
+
+Anchored Artifacts: A-2432.2
+Mentions: N-7, N-906
+Related Nodes: 
+Supports: C-2954
+Tags: relevance:core
+Investigative Direction: Review the original footage frame by frame to confirm who enters the rear cargo area and when.
+
+---
+
+**C-14895** Host Says Flood and Cutler Carried Charlie and Cutler Was in the Vehicle
+
+Claim Timestamp: 00:22:13
+
+Claim: The host says Dan Flood carried Charlie and Rick Cutler certainly carried Charlie and was in the vehicle, so scrubs on them are less puzzling than on Hariff.
+
+Transcript Snippet: Dan Flood is also wearing surgical scrubs, but we know he carried Charlie. Rick Cutler certainly carried Charlie and was in the vehicle.
+
+Anchored Artifacts: A-2432.3
+Mentions: N-274, N-493
+Related Nodes: 
+Tags: relevance:core
+Investigative Direction: Review footage of Charlie being carried to the SUV to establish who bore weight.
+
+---
+
+**C-14896** Host Says Hariff and Davis Did Not Touch Charlie While He Was Loaded
+
+Claim Timestamp: 00:22:13
+
+Claim: The host says Blake Hariff did not touch Charlie while getting into the vehicle, and neither did Justin Davis, though she gives Davis the benefit of the doubt that he touched Charlie at the hospital.
+
+Transcript Snippet: He didn't touch Charlie while getting into the vehicle. Neither Justin Davis, by the way.
+
+Anchored Artifacts: A-2432.1
+Mentions: N-906, N-498
+Related Nodes: 
+Tags: relevance:core
+Investigative Direction: Confirm Davis's role at the hospital from footage and team statements.
+
+---
+
+**C-14897** Host Says Hospital Handing Out Scrubs Departs From Protocol
+
+Claim Timestamp: 00:22:59
+
+Claim: The host says it seems a risk and unusual for a hospital to hand out surgical scrubs to everyone for no reason and suggests the hospital should be investigated.
+
+Transcript Snippet: It seems like a risk to just be handing out surgical scrubs to everyone apparently uh for no reason.
+
+Anchored Artifacts: 
+Mentions: 
+Related Nodes: N-11310, N-10573
+Tags: relevance:core
+Investigative Direction: Request Timpanogos policies on scrub issue to non-staff and any log of scrubs issued Sept 10.
+
+---
+
+**C-14898** Host Says Staff Let Harpole Cut Shirts, Order Medications and a Man Guarded the Door
+
+Claim Timestamp: 00:22:59
+
+Claim: The host says hospital staff were allowing Brian Harpole to jump on patients and cut their shirts, to shout medications to give, and that she asks why a man was guarding the door.
+
+Transcript Snippet: They're also allowing Brian Harpole to jump on patients and cut their shirts. That doesn't seem to follow protocol.
+
+Anchored Artifacts: 
+Mentions: N-270
+Related Nodes: N-10573
+Tags: relevance:core
+Investigative Direction: Obtain the hospital footage and staff statements on Harpole's conduct in the trauma bay.
+
+---
+
+**C-14899** Host Identifies a Man Harpole Hugged at the UVU Return as Alex Fria
+
+Claim Timestamp: 00:25:14
+
+Claim: The host identifies the man Brian Harpole just hugged in the UVU return footage as Alex Fria, with the name as transcribed.
+
+Transcript Snippet: That's Alex Fria who he just hugged. That there in the corner in the white hat is Rick Cutler.
+
+Anchored Artifacts: A-2432.3
+Mentions: N-270, N-493
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Confirm the correct spelling and identity of the man hugged from the original footage and tips.
+
+---
+
+**C-14900** Host Names a Man in Surgical Scrubs at the Top of the Frame as Blake Gibson
+
+Claim Timestamp: 00:25:29
+
+Claim: The host names a man in surgical scrubs at the top of the frame as Blake Gibson, with the name as transcribed.
+
+Transcript Snippet: Blake Gibson and surgical scrubs. That's who you see up in the top there.
+
+Anchored Artifacts: A-2432.3
+Mentions: 
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Confirm the correct name from the footage; it may be a different name for Blake Hariff or another team member.
+
+---
+
+**C-14901** Host Doubts the Story of Mikey Handing Out Scrubs
+
+Claim Timestamp: 00:25:38
+
+Claim: The host says she does not know about the story of Mikey handing out surgical scrubs and asks why they would put on scrubs if they had no blood on them.
+
+Transcript Snippet: I don't know about this story about Mikey handing out surgical scrubs.
+
+Anchored Artifacts: A-2432.3
+Mentions: N-194
+Related Nodes: N-11310
+Tags: relevance:core
+Investigative Direction: Obtain hospital records and statements from Mikey McCoy on whether he issued the scrubs.
+
+---
+
+**C-14902** Host Repeats Her Offer to Turek to Appear Together
+
+Claim Timestamp: 00:25:38
+
+Claim: The host again offers Frank Turek to come on her show or to appear on his own to talk through the events of September 10.
+
+Transcript Snippet: I can just toss out another offer for you to come join me on my show or I can join you on yours.
+
+Anchored Artifacts: 
+Mentions: N-7, N-3
+Related Nodes: 
+Supports: C-8360
+Tags: relevance:context
+Investigative Direction: Check whether Turek or his representatives respond to the offer.
+
+---
+
+**C-14903** Pre-Born Ad Read: Nearly 60,000 Babies Saved This Year
+
+Claim Timestamp: 00:26:38
+
+Claim: In a sponsor read the host says Pre-Born has saved nearly 60,000 babies from abortion this year.
+
+Transcript Snippet: this year alone, God has used pre-born to save nearly 60,000 babies from abortion
+
+Anchored Artifacts: 
+Mentions: 
+Related Nodes: N-11191
+Tags: relevance:tangential
+Investigative Direction: Check Pre-Born published annual figures against the 60,000 claim; sponsor read recorded as said.
+
+---
+
+**C-14904** Host Says a Timpanogos Doctor Allegedly Recused Himself After a Disagreement
+
+Claim Timestamp: 00:29:37
+
+Claim: The host says a doctor at Timpanogos Hospital who worked on Charlie allegedly had a disagreement during or right after the surgery and felt the need to recuse himself and remove himself from the situation.
+
+Transcript Snippet: there was allegedly a disagreement uh during or immediately after the surg surgery where this doctor felt the need to recuse himself and completely remove himself from the situation altogether.
+
+Anchored Artifacts: A-3350.1
+Mentions: 
+Related Nodes: N-10828, N-10573
+Tags: relevance:core
+Investigative Direction: Identify the physician through hospital staffing and records and ask the hospital whether any provider requested removal from the chart.
+
+---
+
+**C-14905** Host Says the Doctor Asked to Be Removed From All Records and Is Uncomfortable
+
+Claim Timestamp: 00:29:37
+
+Claim: The host says she is told the doctor asked to have his name removed from everything to do with the case, is out of character, and becomes uncomfortable when asked about September 10.
+
+Transcript Snippet: he asked to have all of his name his name removed from anything to do with it off all of the records
+
+Anchored Artifacts: A-3350.1
+Mentions: 
+Related Nodes: N-10828, N-10576
+Tags: relevance:core
+Investigative Direction: Request hospital records of any name-removal or amendment request and the date it was made.
+
+---
+
+**C-14906** Host Says Andrew Wilson Was Sent to Entrap Her and Defend Israel and Erika
+
+Claim Timestamp: 00:30:47
+
+Claim: The host says Andrew Wilson was not sent to debate her on evidence but to entrap her in a lawsuit with out-of-context clips and to defend Israel and Erika Kirk.
+
+Transcript Snippet: He was sent to try to entrap me in a lawsuit via out of context clips, trying to get me to say something defamatory on record.
+
+Anchored Artifacts: 
+Mentions: N-18, N-3, N-2
+Related Nodes: N-11262
+Tags: relevance:context
+Investigative Direction: Identify who engaged or paid Wilson for the debate and any communications about legal strategy.
+
+---
+
+**C-14907** Host Says Wilson Demanded She Remove the Panguitch Visit From Her Timeline
+
+Claim Timestamp: 00:30:47
+
+Claim: The host says one of Wilson's aims was to demand she remove the Panguitch steakhouse visit from her official timeline.
+
+Transcript Snippet: most obscurely, to demand that I remove the Panguitch steakhouse visit from our official timeline.
+
+Anchored Artifacts: 
+Mentions: N-18, N-3
+Related Nodes: N-10381, N-11262
+Tags: relevance:context
+Investigative Direction: Obtain the debate recording to verify Wilson's demand about the timeline.
+
+---
+
+**C-14908** Host Says She Covered the Cowboy Smokehouse Story on January 6
+
+Claim Timestamp: 00:31:30
+
+Claim: The host says her show covered Tyler Robinson's alleged Cowboy Smokehouse visit on January 6 and that she spoke to the owner at that time.
+
+Transcript Snippet: It was literally January 6th when we covered this.
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-10381
+Supports: C-2003
+Tags: relevance:core
+Investigative Direction: Retrieve the January 6 episode and transcript of the owner conversation.
+
+---
+
+**C-14909** Host Says the Six-Month-Old Story Suddenly Became a Focus Before the Preliminary Hearing
+
+Claim Timestamp: 00:32:09
+
+Claim: The host says the six-month-old Cowboy Smokehouse story suddenly became a focal point ahead of the preliminary hearing with a bunch of people trying to debunk it.
+
+Transcript Snippet: Suddenly, this six-month-old story became a focal point ahead of the preliminary hearing.
+
+Anchored Artifacts: 
+Mentions: 
+Related Nodes: N-10381
+Tags: relevance:core
+Investigative Direction: Map the dates of influencer posts attempting to debunk the receipt against the preliminary hearing date.
+
+---
+
+**C-14910** Host Says the Defense Department Was Involved in Getting Influencers and Money Trail Is Coming
+
+Claim Timestamp: 00:32:09
+
+Claim: The host says the Department of Defense was somehow involved in getting these influencers to act and that she has figured out how people are getting paid, promising more later.
+
+Transcript Snippet: Now, we learned the Department of Defense was somehow involved in getting all of these influencers. More on that later because we have figured out how people are getting paid.
+
+Anchored Artifacts: 
+Mentions: 
+Related Nodes: N-10888, N-11017
+Supports: C-14860
+Tags: relevance:core
+Investigative Direction: Obtain the payment records or contracts the host says she has found.
+
+---
+
+**C-14911** Host Says Diligent Dennison Released a Waiter Interview and Receipt After Being Accused of Lying
+
+Claim Timestamp: 00:32:09
+
+Claim: The host says the citizen journalist Diligent Denisen released an interview with one of the waiters working that night and then the receipt because people were saying he was lying.
+
+Transcript Snippet: Diligent Denisen who dropped an interview with one of the waiters that was working that night and he then released a receipt to go along with it because people were saying that he was lying
+
+Anchored Artifacts: A-2433.4
+Mentions: N-370
+Related Nodes: 
+Supports: C-6119
+Tags: relevance:core
+Investigative Direction: Obtain the waiter interview and the receipt original from Dennison and confirm how he obtained them.
+
+---
+
+**C-14912** Host Says Skeptics Insisted the Receipt Was Fake or Non-Existent
+
+Claim Timestamp: 00:33:02
+
+Claim: The host says many people insisted at various times that the receipt was fake, non-existent, or that the story had been debunked.
+
+Transcript Snippet: a bunch of people then insisting at various times that the receipt was fake, that the receipt was non-existent, that the story had somehow been debunked
+
+Anchored Artifacts: 
+Mentions: 
+Related Nodes: N-10381
+Tags: relevance:core
+Investigative Direction: Collect the named debunking posts and what evidence each cited.
+
+---
+
+**C-14913** Host Says the Owner Did Not Claim to Be There That Night
+
+Claim Timestamp: 00:33:02
+
+Claim: The host says the Cowboy Smokehouse owner did not claim to be there that night and basically relayed what his servers told him.
+
+Transcript Snippet: he didn't claim to be there that night. He basically told the story.
+
+Anchored Artifacts: 
+Mentions: 
+Related Nodes: N-10381
+Tags: relevance:core
+Investigative Direction: Interview the owner and the servers on shift to establish who personally served the customer.
+
+---
+
+**C-14914** Host Guesses Feds Sloppers Are Behind the Bad Reviews of the Restaurant
+
+Claim Timestamp: 00:33:40
+
+Claim: The host says she guesses the people behind the bad reviews written about the restaurant since July are the feds sloppers, who she says want the story debunked.
+
+Transcript Snippet: My guess would be it would be the feds sloppers doing that.
+
+Anchored Artifacts: 
+Mentions: 
+Related Nodes: N-10381
+Tags: relevance:context
+Investigative Direction: Analyze the review accounts' creation dates and activity patterns; the host offers this as a guess.
+
+---
+
+**C-14915** Host Says Andrew Wilson Dropped the Receipt Signature as a Debunking
+
+Claim Timestamp: 00:33:40
+
+Claim: The host says Andrew Wilson posted a signature pulled from the receipt as a debunking, saying it is not Tyler Robinson's signature.
+
+Transcript Snippet: Andrew Wilson drops this signature as a debunking.
+
+Anchored Artifacts: A-3351.1
+Mentions: N-18, N-40
+Related Nodes: N-11262, N-10381
+Tags: relevance:core
+Investigative Direction: Obtain the receipt image Wilson used and exemplars of Robinson's signature for comparison.
+
+---
+
+**C-14916** Host Says the Receipt Signature Is an Ordinary Electronic-Pad Scribble
+
+Claim Timestamp: 00:33:40
+
+Claim: The host says the signature is the standard scribble people make on electronic signature pads such as at CVS and is not a meaningful comparison.
+
+Transcript Snippet: this is your standard when you get those like CVS electronic signature things
+
+Anchored Artifacts: A-3351.1
+Mentions: N-40, N-3
+Related Nodes: N-10381
+Tags: relevance:core
+Investigative Direction: Consult a forensic document examiner on whether electronic pad signatures are comparable to handwritten exemplars.
+
+---
+
+**C-14917** Host Says Tyler's Texts to Lance Put Him in Orem by 11:45 p.m.
+
+Claim Timestamp: 00:35:39
+
+Claim: The host says Tyler's messages to Lance that evening put him in Orem by 11:45 p.m.
+
+Transcript Snippet: You will recall that Tyler's messages to Lance that evening put him in Orum by 11 11:45 p. m.
+
+Anchored Artifacts: 
+Mentions: N-40, N-54
+Related Nodes: N-10062, N-10077
+Tags: relevance:core
+Investigative Direction: Obtain the Robinson-Lance message timestamps and the cell-site or app metadata placing the sender.
+
+---
+
+**C-14918** Host Says the Case Hinges Almost Entirely on the Texts to Lance
+
+Claim Timestamp: 00:35:39
+
+Claim: The host says the case currently hinges almost entirely on the text messages to Lance.
+
+Transcript Snippet: currently the case hinges almost entirely on these text messages to Lance, right?
+
+Anchored Artifacts: 
+Mentions: N-40, N-54
+Related Nodes: N-10337, N-10077
+Tags: relevance:core
+Investigative Direction: Review the prosecution's exhibit list for corroborating evidence beyond the texts.
+
+---
+
+**C-14919** Host Says a Confirmed Receipt Would Rule Out Robinson Sending the Texts
+
+Claim Timestamp: 00:35:39
+
+Claim: The host says that if the steakhouse receipt is confirmed, it removes any possibility that the text messages were sent from Tyler Robinson, with the caveat that he could have lied about where he was.
+
+Transcript Snippet: If the steakhouse receipt is confirmed, it removes any possibility that the text messages were sent from Tyler Robinson.
+
+Anchored Artifacts: 
+Mentions: N-40, N-54
+Related Nodes: N-10077, N-10381
+Supports: C-3559
+Tags: relevance:core
+Investigative Direction: Obtain the receipt timestamp and the messages' device metadata to compare the locations.
+
+---
+
+**C-14920** Host Says the Neighbor Saw a Bald Man Driving With Two Other People
+
+Claim Timestamp: 00:37:12
+
+Claim: The host says that if the receipt is confirmed, it explains why the neighbor, Mrs. Noble, saw a bald man driving with two other people rather than Tyler Robinson.
+
+Transcript Snippet: That would be why she saw a bald man [snorts] driving with two other people because it wouldn't be Tyler Robinson that was driving.
+
+Anchored Artifacts: 
+Mentions: N-909, N-40
+Related Nodes: 
+Tags: relevance:core
+Investigative Direction: Obtain Mrs. Noble's statement and any doorbell or street camera footage of the vehicle at 12:38 a.m.
+
+---
+
+**C-14921** Host Says Her Sources Have Been Validated While Opponents Pull Back
+
+Claim Timestamp: 00:37:12
+
+Claim: The host says her sources have been validated, that her opponents are now pulling back on their narrative, and that she has not had to pull back anything.
+
+Transcript Snippet: they're now pulling back on their narrative and I haven't pulled back one inch on mine.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: List specific official narratives that have been revised and compare with the host's earlier claims.
+
+---
+
+**C-14922** Host Concedes the Receipt Claim Relies on the Servers' Memory
+
+Claim Timestamp: 00:37:12
+
+Claim: The host says the receipt claim has a blind spot because it relies on the memory of the server or servers, who could be sincere but mistaken, so she never said she was 100 percent sure.
+
+Transcript Snippet: this relies on the memory of the server, right? Or the servers. It doesn't necessarily make it true.
+
+Anchored Artifacts: 
+Mentions: 
+Related Nodes: N-10381
+Tags: relevance:core
+Investigative Direction: Obtain the bank or card-network record of the transaction to remove reliance on witness memory.
+
+---
+
+**C-14923** Host Says She Confirmed Mitch Snow Was at Fort Huachuca
+
+Claim Timestamp: 00:37:12
+
+Claim: The host says she confirmed Mitch Snow was at Fort Huachuca and which hotel he stayed at, and confirmed he had a dust-up with the military police.
+
+Transcript Snippet: We confirmed he was there, what hotel he was at.
+
+Anchored Artifacts: 
+Mentions: N-366
+Related Nodes: N-10375
+Supports: C-3888
+Tags: relevance:core
+Investigative Direction: Obtain Snow's hotel folio and the military police incident record.
+
+---
+
+**C-14924** Host Says She Cannot Confirm Snow Saw Erika or Harpole Because It Relies on His Memory
+
+Claim Timestamp: 00:37:12
+
+Claim: The host says she cannot confirm that Mitch Snow actually saw Erika Kirk in the lobby or Brian Harpole, because that relies on his memory.
+
+Transcript Snippet: But can we confirm that he actually saw Erika Kirk in the lobby or that he actually saw Brian Harpole? No, because that relies on his memory, right?
+
+Anchored Artifacts: 
+Mentions: N-366, N-2, N-270
+Related Nodes: N-10373, N-10375
+Tags: relevance:core
+Investigative Direction: Look for lobby camera footage, guest registration or third-party witnesses to corroborate Snow's sighting.
+
+---
+
+**C-14925** Host Allows That Someone Else Could Have Used Robinson's Card
+
+Claim Timestamp: 00:39:48
+
+Claim: The host says it is possible someone else had Robinson's card and was dressed like him or looked like him.
+
+Transcript Snippet: Was somebody dressed like him, looked like him, but had his credit card? That's a possibility I'm open to.
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-10381
+Tags: relevance:core
+Investigative Direction: Compare the card-holder identity on the transaction record with Robinson's and obtain surveillance of the person at the restaurant.
+
+---
+
+**C-14926** Host Says She Is Now Bolding the Smokehouse Entry on Her Timeline
+
+Claim Timestamp: 00:39:48
+
+Claim: The host says she is no longer just putting the Cowboy Smokehouse visit on the unofficial timeline but is bolding it.
+
+Transcript Snippet: So, I'm not just putting this on the timeline, unofficial timeline. I'm bolding that now.
+
+Anchored Artifacts: 
+Mentions: 
+Related Nodes: N-10024, N-10381
+Tags: relevance:context
+Investigative Direction: Compare the host's current timeline version with earlier versions for the Smokehouse entry.
+
+---
+
+**C-14927** Host Predicts It Will Come Out at Trial That the Card Was Robinson's
+
+Claim Timestamp: 00:39:48
+
+Claim: The host says she expects it will come out during the trial that it was Tyler Robinson's card swiped at the Cowboy Smokehouse that night.
+
+Transcript Snippet: what I am going to suggest will come out uh during this trial that it was Tyler Robinson's card that was swiped at the cowboy smokehouse on that night.
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-10381
+Tags: relevance:core
+Investigative Direction: Watch the trial exhibit lists and defense disclosures for the card transaction record.
+
+---
+
+**C-14928** Host Says the Defense Team Can Confirm or Deny the Electronic Record
+
+Claim Timestamp: 00:40:53
+
+Claim: The host says it is now the job of Robinson's defense team to confirm or deny her account and that an electronic record cannot be simply lied about and wiped away.
+
+Transcript Snippet: It is now the job of Tyler Robinson's defense team to confirm or deny what I am saying. Electronic record is not something that can just be lied about and wiped away.
+
+Anchored Artifacts: 
+Mentions: N-40
+Related Nodes: N-10581, N-10381
+Tags: relevance:core
+Investigative Direction: Check whether the defense subpoenaed card-network or merchant records for the Cowboy Smokehouse transaction.
+
+---
+
+**C-14929** Paleo Valley Ad Read: Beef Sticks Use 100 Percent Grass-Fed Beef
+
+Claim Timestamp: 00:41:00
+
+Claim: In a sponsor read the host says Paleo Valley uses 100 percent grass-fed and grass-finished beef sourced from American family farms.
+
+Transcript Snippet: Paleo Valley uses 100% grass-fed and grass-finish beef sourced from American Family Farms.
+
+Anchored Artifacts: 
+Mentions: 
+Related Nodes: N-10953
+Tags: relevance:tangential
+Investigative Direction: Check Paleo Valley's published sourcing claims; sponsor read recorded as said.
+
+---
+
+**C-14930** Fatty15 Ad Read: Low C15 Levels May Affect Cell Aging
+
+Claim Timestamp: 00:42:29
+
+Claim: In a sponsor read the host says researchers have found that low levels of C15 may impact how well cells age and function over time.
+
+Transcript Snippet: Researchers have found that low levels of C-15 may impact how well our cells age and function over time.
+
+Anchored Artifacts: 
+Mentions: 
+Related Nodes: N-11409
+Tags: relevance:tangential
+Investigative Direction: Check the cited research on C15 and cellular aging; sponsor read recorded as said.
+
+---
+
+**C-14931** Host Says the Hospital-Lobby Remark Implies the Team Were Not Open to a Conspiracy
+
+Claim Timestamp: 00:44:10
+
+Claim: The host says that if Blake said in the hospital lobby that Candace would figure this out, it means they had full confidence it was not a conspiracy right after learning Charlie had died, which she finds strange.
+
+Transcript Snippet: they had full confidence that it wasn't a conspiracy and they had just found out that Charlie had died.
+
+Anchored Artifacts: A-2434.1
+Mentions: N-162, N-3
+Related Nodes: 
+Tags: relevance:core
+Investigative Direction: Identify who Blakey is (the host's wording suggests Blake Neff) and ask others in the lobby what was said.
+
+---
+
+**C-14932** Commenter Says Megyn Kelly Had Frank Turek on Her Show That Day
+
+Claim Timestamp: 00:46:02
+
+Claim: A viewer comment read aloud says Megyn Kelly has Frank Turek on her show today, which the host says she has not seen.
+
+Transcript Snippet: Megyn Kelly has Frank Turek on her show today.
+
+Anchored Artifacts: A-2435.6
+Mentions: N-46, N-7
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Locate the Megyn Kelly Show episode with Turek and check for statements on the ride and CPR.
+
+---
+
+**C-14933** Host Says She Did Not See Charlie's Family in Chicago, Only Attended a Concert
+
+Claim Timestamp: 00:46:30
+
+Claim: The host says she did not see Charlie's family in Chicago and that the commenter may mean her attending the concert (transcribed as the A concert, probably the Ye concert).
+
+Transcript Snippet: I did not see Charlie's family in Chicago. if you're speaking about me going to the A concert.
+
+Anchored Artifacts: 
+Mentions: N-3, N-27
+Related Nodes: 
+Supports: C-3403
+Tags: relevance:tangential
+Investigative Direction: Concert listings and attendee reports for the Chicago show.
+
+---
+
+**C-14934** Host Says She Does Not Believe a .30-06 Was Used
+
+Claim Timestamp: 00:46:30
+
+Claim: The host says she already does not believe a .30-06 was used and does not believe in neck-stopped bullet claims.
+
+Transcript Snippet: I already do not believe a 306 was used.
+
+Anchored Artifacts: A-2435.2
+Mentions: N-3
+Related Nodes: 
+Supports: C-6520, C-6580
+Tags: relevance:core
+Investigative Direction: Obtain the wound ballistics, recovered fragments and lab reports to determine the caliber used.
+
+---
+
+**C-14935** Host Says TPUSA Has Andrew Wilson Training Students
+
+Claim Timestamp: 00:47:55
+
+Claim: The host says she finds it crazy that Turning Point has Andrew Wilson training students.
+
+Transcript Snippet: It's so crazy that they would even have him training students.
+
+Anchored Artifacts: A-2435.4
+Mentions: N-18
+Related Nodes: N-11262
+Tags: relevance:context
+Investigative Direction: Confirm Wilson's role with TPUSA training programs through TPUSA announcements.
+
+---
+
+**C-14936** Host Says Wilson Mainly Speaks to Women and OnlyFans Models
+
+Claim Timestamp: 00:47:55
+
+Claim: The host says her understanding is that Wilson speaks to many OnlyFans models on his podcast and that he has not had an adult debate in a long time.
+
+Transcript Snippet: he speaks to a lot of Only Fans models.
+
+Anchored Artifacts: A-2435.4
+Mentions: N-18
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: Review Wilson's podcast guest list; the host presents this as her understanding.
+
+---
+
+**C-14937** Host Says Seth Dillon Complained of Death Threats Over a Thumbnail
+
+Claim Timestamp: 00:47:55
+
+Claim: The host says Seth Dillon cried about the I Know What You Did Last Summer graphic and said he got death threats because of a thumbnail.
+
+Transcript Snippet: Remember when Seth Dillon cried about that and was like, I got death threats because of a thumbnail?
+
+Anchored Artifacts: A-2435.5
+Mentions: N-38
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Find Dillon's post describing the death threats and the thumbnail.
+
+---
+
+**C-14938** Host Says Tony Burke Banned Her From Australia After Zionist Lobbying
+
+Claim Timestamp: 00:49:31
+
+Claim: The host says Tony Burke banned her from Australia because the Zionist lobby lobbied, that the ban is not permanent, and that she hopes to go someday.
+
+Transcript Snippet: Tony Burke banned me because the Zionist lobby lobbied and it was sad that that got cancelceled.
+
+Anchored Artifacts: A-2435.7
+Mentions: N-855, N-3
+Related Nodes: 
+Supports: C-7714, C-13108, C-10045
+Tags: relevance:context
+Investigative Direction: Obtain the Australian Home Affairs decision and any lobbying correspondence.
+
+---
+
+**C-14939** Host Says Kanye Is Also Banned From Australia
+
+Claim Timestamp: 00:49:31
+
+Claim: The host says Kanye is the other person banned from Australia.
+
+Transcript Snippet: Kanye also is the other person who's banned there.
+
+Anchored Artifacts: A-2435.7
+Mentions: N-27
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: Check Australian government records on Ye's visa status.
+
+---
+
+**C-14940** Host Praises Tom O'Neill's Book Chaos
+
+Claim Timestamp: 00:50:27
+
+Claim: The host says she deeply respected Tom O'Neill's dedication in writing the book Chaos and learning that nothing officials told was true and that the government was involved.
+
+Transcript Snippet: I really um respected deeply the dedication and the persistence of Tom O'Neill and writing the book Chaos
+
+Anchored Artifacts: A-2435.8
+Mentions: N-3
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: Book reference recorded as said; no verification needed for the Kirk case.
+
+---
+
+**C-14941** Host Says Anti-Candaceism Cups Sold Out and Will Be Restocked
+
+Claim Timestamp: 00:50:27
+
+Claim: The host says the Anti-Candaceism cups have sold out and will hopefully be restocked by tomorrow or early next week.
+
+Transcript Snippet: Anti-cannism cups are sold out as they should be because people are activists
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: 
+Tags: relevance:tangential
+Investigative Direction: Merch store listing; recorded as said.
+
+---
+
+**C-14942** Host Asks Viewers to Email More Tips
+
+Claim Timestamp: 00:51:15
+
+Claim: The host asks viewers who saw something to email more tips at the show address and tell her what they know.
+
+Transcript Snippet: Email us more tips at kennace. com. Tell us what you know.
+
+Anchored Artifacts: A-3352.1
+Mentions: N-3
+Related Nodes: 
+Tags: relevance:context, dia
+Investigative Direction: Confirm the tip address is moretips@candaceowens.com and review the tip intake process.
+
+---
+
+**C-14943** Host Asks for Tips on Blake Hariff Changing Into Surgical Scrubs
+
+Claim Timestamp: 00:52:16
+
+Claim: The host asks viewers who might have seen Blake Hariff take his shirt off and put on surgical scrubs to email more tips, noting he is not a doctor.
+
+Transcript Snippet: Email us more tips canoners. com. Maybe you are Blake Hariff and you just want to talk.
+
+Anchored Artifacts: A-3352.2
+Mentions: N-906, N-3
+Related Nodes: N-11310
+Tags: relevance:core, dia
+Investigative Direction: Review incoming tips about scrub changes at the hospital or UVU and corroborate with footage.
+
+---
+
+**C-14944** Host Offers to Protect Hariff and Cutler as Sources
+
+Claim Timestamp: 00:52:16
+
+Claim: The host says that if Blake Hariff or Rick Cutler want to talk she will protect them as sources, while saying the chance of that is virtually zero.
+
+Transcript Snippet: Maybe you're Rick Cutler and you want to talk. I'll protect you guys as sources.
+
+Anchored Artifacts: A-3352.2
+Mentions: N-906, N-493, N-3
+Related Nodes: 
+Tags: relevance:core, dia
+Investigative Direction: Check for any response from Hariff or Cutler to the standing offer.
+
+---
+
+**C-14945** Host Announces a Special Episode in Memoriam of Charlie the Next Day
+
+Claim Timestamp: 00:52:57
+
+Claim: The host says the next day's episode will be a special one in memoriam of Charlie Kirk, the anniversary of his death.
+
+Transcript Snippet: we will of course be having a special episode tomorrow um in memoriam of my dear friend Charlie Kirk.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: 
+Tags: relevance:context
+Investigative Direction: Locate the Sept 10, 2026 episode of the show.
 
 ---
 

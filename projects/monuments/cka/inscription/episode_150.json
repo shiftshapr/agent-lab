@@ -401,6 +401,57 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3354",
+      "family_ref": "A-3354",
+      "bundle_name": "Charlie Kirk Founding Audio Montage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3354.1",
+          "ref": "A-3354.1",
+          "description": "Audio montage played by the host with Charlie Kirk describing starting the organization at 18 in Chicago, plus the escalator clip",
+          "related_claims": [
+            "C-14958"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:09:00",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3355",
+      "family_ref": "A-3355",
+      "bundle_name": "Host Closing Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3355.1",
+          "ref": "A-3355.1",
+          "description": "Clip of the host speaking about Charlie Kirk, played after the final journal entry",
+          "related_claims": [
+            "C-14978"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:27:35",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -442,7 +493,31 @@
       "type": "person",
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14946",
+        "C-14947",
+        "C-14948",
+        "C-14949",
+        "C-14951",
+        "C-14952",
+        "C-14957",
+        "C-14959",
+        "C-14960",
+        "C-14962",
+        "C-14963",
+        "C-14964",
+        "C-14965",
+        "C-14966",
+        "C-14967",
+        "C-14970",
+        "C-14971",
+        "C-14972",
+        "C-14973",
+        "C-14975",
+        "C-14976",
+        "C-14977",
+        "C-14978"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -474,7 +549,12 @@
       "type": "person",
       "description": "Concert performer; subject of BBC interview clip (A-2342), Avengers meme (A-2343), concert footage (A-2341), and TMZ clip (A-2344).",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14966",
+        "C-14968",
+        "C-14969",
+        "C-14975"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -522,7 +602,12 @@
       "type": "person",
       "description": "Referenced by viewer comment \"fam\"; author of \"The Perfumed Pervert\" essay.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14954",
+        "C-14955",
+        "C-14956",
+        "C-14957"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -538,12 +623,290 @@
       "type": "person",
       "description": "Erika Kirk",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14959",
+        "C-14960",
+        "C-14961",
+        "C-14962",
+        "C-14963",
+        "C-14965"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-30",
+      "ref": "N-30",
+      "name": "George (Candace's husband)",
+      "type": "person",
+      "description": "Host's husband, named as present when she said Charlie was betrayed and as the person she met on the 2018 London trip.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14948",
+        "C-14952",
+        "C-14967"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-158",
+      "ref": "N-158",
+      "name": "Arena Mappin",
+      "type": "person",
+      "description": "Co-author of the open letter; named with John Mappin as attending the memorial (the host also says Irina).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14954",
+        "C-14955",
+        "C-14956",
+        "C-14957"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-60",
+      "ref": "N-60",
+      "name": "Laura Loomer",
+      "type": "person",
+      "description": "Named in the host's sarcastic list of new friendships attributed to Charlie.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14973"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Named in the host's remark that Charlie did not favor him, so she is told.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14973"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "organization",
+      "description": "Organization whose founding the Charlie Kirk montage describes.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14958",
+        "C-14961"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10002",
+      "ref": "N-10002",
+      "name": "Charlie Kirk Death and Memorial",
+      "type": "topic",
+      "description": "Existing topic reused for the broadcast, memorial and betrayal claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14949",
+        "C-14950",
+        "C-14954",
+        "C-14972",
+        "C-14976",
+        "C-14978"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10004",
+      "ref": "N-10004",
+      "name": "Kanye Tweet About Candace Owens",
+      "type": "topic",
+      "description": "Existing topic reused for the 2018 tweet timeline.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14966"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-10026",
+      "ref": "N-10026",
+      "name": "Israel",
+      "type": "place",
+      "description": "Place reused for the 2018 trip and the pressure claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14965",
+        "C-14966",
+        "C-14970"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10056",
+      "ref": "N-10056",
+      "name": "Kirk-Israel Narrative Dispute",
+      "type": "topic",
+      "description": "Existing topic reused for the political pressure claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14970"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10118",
+      "ref": "N-10118",
+      "name": "Candace UK Premonition / Husband Meeting",
+      "type": "topic",
+      "description": "Existing topic reused for the unplanned London trip.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14967"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10389",
+      "ref": "N-10389",
+      "name": "Charlie Kirk Premonition Dreams",
+      "type": "topic",
+      "description": "Existing topic reused for Kirk's alleged dreams of his death.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14948",
+        "C-14964"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10415",
+      "ref": "N-10415",
+      "name": "Charlie Kirk Premonition Pattern",
+      "type": "topic",
+      "description": "Existing topic reused for the 2018 statements and the written choice.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14964",
+        "C-14977"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10704",
+      "ref": "N-10704",
+      "name": "Mossad \"Truman Show\" Analogy Application",
+      "type": "topic",
+      "description": "Existing topic reused for the Truman Show remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14970"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11014",
+      "ref": "N-11014",
+      "name": "TPUSA Post-Assassination Merchandise Revenue Claim",
+      "type": "topic",
+      "description": "Existing topic reused for the sale of items in Kirk's name.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14953",
+        "C-14974"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11059",
+      "ref": "N-11059",
+      "name": "Russian-Speaking Turning Point Network",
+      "type": "topic",
+      "description": "Existing topic reused for the Russian speakers at the memorial.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14954"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -905,7 +1268,788 @@
       "mentions_person_refs": [
         "N-27"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14946",
+      "ref": "C-14946",
+      "label": "Host Says Charlie Ignored Her Warning That Running 10 Miles Daily Would Injure His Back",
+      "claim": "The host says in her journal that she warned Charlie Kirk that running 10 miles every day was too much for his body and that he later injured his back.",
+      "anchored_artifacts": [
+        "A-2351.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:00:42",
+      "investigative_direction": "Look for contemporaneous accounts or Kirk's own public remarks about a back injury and his running routine.",
+      "transcript_snippet": "When I told you that running 10 miles every single day was too much on your body, that you were going to get injured.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14947",
+      "ref": "C-14947",
+      "label": "Host Says Her Priest Told Her Charlie Is Likely in Purgatory",
+      "claim": "The host says her priest told her Charlie Kirk is likely in purgatory and that she needs to pray for his soul.",
+      "anchored_artifacts": [
+        "A-2351.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:02:11",
+      "investigative_direction": "Personal religious statement; only the host can confirm what her priest said.",
+      "transcript_snippet": "My priest tells me that you're likely in purgatory, and that I need to pray for your soul.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14948",
+      "ref": "C-14948",
+      "label": "Host Says She Told George Charlie Was Betrayed Before His Death Was Confirmed",
+      "claim": "The host says that before it was confirmed Charlie Kirk had died, she told her husband George while they prayed in his office that they had betrayed him, and that George replied they did not know anything yet.",
+      "anchored_artifacts": [
+        "A-2351.1"
+      ],
+      "related_nodes": [
+        "N-10389"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:11",
+      "investigative_direction": "Ask the host and George for the date and circumstances of the conversation, and look for any message or call log from that morning.",
+      "transcript_snippet": "You know, before we even found out that you didn't make it, I knew you were betrayed.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-30"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14949",
+      "ref": "C-14949",
+      "label": "Host Says She Senses They Wanted Her to See Charlie Die",
+      "claim": "The host says she has a deep sense that unnamed persons wanted her to see Charlie Kirk die and that the way the footage was broadcast globally makes no sense.",
+      "anchored_artifacts": [
+        "A-2351.1"
+      ],
+      "related_nodes": [
+        "N-10002"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:08",
+      "investigative_direction": "Ask the host what evidence supports the sense that the broadcast was intended; compare with platform moderation statements and viral spread timelines for the footage.",
+      "transcript_snippet": "I have this deep sense that uh they wanted me to see you die.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14950",
+      "ref": "C-14950",
+      "label": "Host Says Platform Violence Filters Malfunctioned on September 10",
+      "claim": "The host says the footage of Charlie Kirk's shooting defied algorithmic norms and that Facebook, TikTok and X all failed at the same time to remove violent content they are built to catch.",
+      "anchored_artifacts": [
+        "A-2351.1"
+      ],
+      "related_nodes": [
+        "N-10002"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:08",
+      "investigative_direction": "Request moderation logs, takedown timelines and policy statements from Meta, TikTok and X for the first hours after the shooting; check whether they published any account of the failure.",
+      "transcript_snippet": "Facebook, TikTok, X, suddenly all of their preventative measures that are designed to catch and remove violence from their platforms immediately malfunctioned that day.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14951",
+      "ref": "C-14951",
+      "label": "Host Says She Stopped Eating After Charlie's Death",
+      "claim": "The host says she had not had a spell of anorexia since her early twenties but stopped eating after Charlie Kirk's death and went to Wyoming to get away.",
+      "anchored_artifacts": [
+        "A-2351.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:03:08",
+      "investigative_direction": "Personal health disclosure by the host about herself; no investigative record applies.",
+      "transcript_snippet": "I had not had a spell of anorexia since my early 20s, but the very first thing I did was I just stopped eating.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14952",
+      "ref": "C-14952",
+      "label": "Host Says She Floated Witness Protection to George Before Accepting Charlie Was Dead",
+      "claim": "The host says she told George that perhaps Charlie Kirk was in witness protection and that George answered that he thought Charlie was dead.",
+      "anchored_artifacts": [
+        "A-2351.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:03:59",
+      "investigative_direction": "Personal recollection by the host; only the host and George can confirm it.",
+      "transcript_snippet": "Maybe he's in witness protection.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-30"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14953",
+      "ref": "C-14953",
+      "label": "Host Says People Who Hated Charlie Sold T-Shirts and Mugs in His Name",
+      "claim": "The host says people in the political sphere who hated Charlie Kirk sold t-shirts and mugs in his name after his death.",
+      "anchored_artifacts": [
+        "A-2351.1"
+      ],
+      "related_nodes": [
+        "N-11014"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:59",
+      "investigative_direction": "Identify the vendors and products the host means; compare with the existing TPUSA post-assassination merchandise revenue claim.",
+      "transcript_snippet": "people who hated you, selling t-shirts and mugs in your name.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14954",
+      "ref": "C-14954",
+      "label": "Host Says Arena and John Mappin Attended the Memorial and Irina Heard Many Russian Speakers",
+      "claim": "The host says Arena and John Mappin attended Charlie Kirk's memorial and that Irina told her she had never seen so many people speaking her native Russian in Arizona.",
+      "anchored_artifacts": [
+        "A-2351.1"
+      ],
+      "related_nodes": [
+        "N-11059",
+        "N-10002"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:05:08",
+      "investigative_direction": "Ask the Mappins for a first-hand account; compare with attendee lists, seating and credentialing for the Glendale memorial.",
+      "transcript_snippet": "she told me that she had never seen so many people speaking her native language, Russian, in Arizona.",
+      "mentions_person_refs": [
+        "N-157",
+        "N-158"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14955",
+      "ref": "C-14955",
+      "label": "Mappin Letter Says Crime Scene Was Destroyed in Days",
+      "claim": "The host reads a letter from the Mappins saying a crime scene was apparently completely destroyed in days and that there is plenty of evidence that does not add up.",
+      "anchored_artifacts": [
+        "A-2352.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:08",
+      "investigative_direction": "Obtain the published letter and compare the wording; check Utah Valley University scene-release and cleanup records.",
+      "transcript_snippet": "A crime scene apparently completely destroyed in days, and plenty of evidence that simply does not add up.",
+      "supports_claim_refs": [
+        "C-12135"
+      ],
+      "mentions_person_refs": [
+        "N-157",
+        "N-158"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14956",
+      "ref": "C-14956",
+      "label": "Mappin Letter Says Convicting Anyone With Any Doubt Is Anathema to Christ",
+      "claim": "The host reads a letter saying that a conviction and death sentence while any shadow of doubt remains would be anathema to the teachings of Christ.",
+      "anchored_artifacts": [
+        "A-2352.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:06:08",
+      "investigative_direction": "Obtain the published letter; record whether the signers name Tyler Robinson or the Utah prosecution directly.",
+      "transcript_snippet": "The very idea that someone could be convicted and could receive the death penalty when there remains even the slightest shadow of doubt",
+      "mentions_person_refs": [
+        "N-157",
+        "N-158"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14957",
+      "ref": "C-14957",
+      "label": "Mappin Letter Says Candace Has an Army of Truth Seekers Worldwide",
+      "claim": "The host reads a letter saying she has an army of truth seekers worldwide helping her search and research, which the letter calls new and modern.",
+      "anchored_artifacts": [
+        "A-2352.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:07:20",
+      "investigative_direction": "Obtain the published letter; the claim about volunteer contributors can be compared with the host's tip submissions.",
+      "transcript_snippet": "She has an army of truth seekers worldwide who are helping her in her search and research.",
+      "mentions_person_refs": [
+        "N-157",
+        "N-158",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14958",
+      "ref": "C-14958",
+      "label": "Charlie Kirk Clip Says He Started the Organization at 18 and Was Raised in Chicago",
+      "claim": "An audio montage played by the host includes Charlie Kirk saying he started the organization at 18 years old and was born and raised in Chicago, Illinois.",
+      "anchored_artifacts": [
+        "A-3354.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:09:00",
+      "investigative_direction": "Identify the source interview of the clip and its date; the facts match Kirk's public biography.",
+      "transcript_snippet": "So, I started this organization when I was 18 years old. Born and raised in Chicago, Illinois.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14959",
+      "ref": "C-14959",
+      "label": "Host Says Investigating Erika Kirk Made Her Public Enemy Number One",
+      "claim": "The host says that since the first entry she has become public enemy number one for investigating Charlie Kirk's wife.",
+      "anchored_artifacts": [
+        "A-2351.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:09:50",
+      "investigative_direction": "Compile the public attacks on the host by TPUSA figures and allies after the investigation began.",
+      "transcript_snippet": "I'm also public enemy number one for investigating your wife.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14960",
+      "ref": "C-14960",
+      "label": "Host Says the World Was Right About Erika Kirk",
+      "claim": "The host says she wanted the world to be wrong about Erika Kirk but that they were right, and that coming to terms with it broke her.",
+      "anchored_artifacts": [
+        "A-2351.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:50",
+      "investigative_direction": "Ask the host what specific findings she means; map to the claims in the earlier registers.",
+      "transcript_snippet": "I really wanted the world to be wrong about her, but they they were not. They were right.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14961",
+      "ref": "C-14961",
+      "label": "Charlie Text Says Erika Putting Him in a Weird Cage Gave TPUSA Its Most Successful Months",
+      "claim": "The host reads a text she attributes to Charlie Kirk saying his future wife's treatment of him had given Turning Point the most successful few months ever and that it was an effort to impress the girl across the street, like the Tom Sawyer story.",
+      "anchored_artifacts": [
+        "A-2353.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:38",
+      "investigative_direction": "Obtain the full text thread and its date from the host; compare with TPUSA fundraising and growth reporting for the period.",
+      "transcript_snippet": "In a funny way, her putting me in this weird cage and box actually has given to TPOSA the most successful few months ever.",
+      "supports_claim_refs": [
+        "C-3409"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14962",
+      "ref": "C-14962",
+      "label": "Host Says a Wife Would Not Partner With Your Enemies",
+      "claim": "The host says she does not know what Erika Kirk is but knows that a wife would not partner with Charlie Kirk's enemies.",
+      "anchored_artifacts": [
+        "A-2351.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:38",
+      "investigative_direction": "Ask the host which partnerships she means; compare with Erika Kirk's dealings with people the host says opposed Charlie.",
+      "transcript_snippet": "I know that a wife would not partner with your enemies.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14963",
+      "ref": "C-14963",
+      "label": "Host Says Erika Kirk Has Chased Power Her Whole Life",
+      "claim": "The host says Erika Kirk has been chasing power her entire life and that this is why she will never have the real kind.",
+      "anchored_artifacts": [
+        "A-2351.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:38",
+      "investigative_direction": "Opinion about Erika Kirk's character; check biographical record for the career moves the host may be citing.",
+      "transcript_snippet": "I know now that her entire life she has been chasing power.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14964",
+      "ref": "C-14964",
+      "label": "Host Says Charlie Told Her They Would Not Kill Him but Would Make Stuff Up and Attack Family",
+      "claim": "The host says that in spring 2018 Charlie Kirk told her not to fear death, that she was sent to fix things, that they would not kill her, and that they would make things up and then try to attack family, which would not work either.",
+      "anchored_artifacts": [
+        "A-2351.3"
+      ],
+      "related_nodes": [
+        "N-10389",
+        "N-10415"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:50",
+      "investigative_direction": "Look for a contemporaneous message, recording or third party who heard Kirk say this in April or May 2018.",
+      "transcript_snippet": "Don't fear death. Embrace it or else you'll lose your mind. You were sent here to fix things. They won't let it happen. They won't kill you.",
+      "supports_claim_refs": [
+        "C-3421"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14965",
+      "ref": "C-14965",
+      "label": "Host Says Erika Kirk Claims She First Saw Charlie at an Airport",
+      "claim": "The host says that Erika Kirk claims the first time she laid eyes on Charlie Kirk was at an airport but that she chose not to approach him and the host.",
+      "anchored_artifacts": [
+        "A-2351.3"
+      ],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:12:38",
+      "investigative_direction": "Find Erika Kirk's own telling of how she first saw Charlie; locate the 2018 Israel trip dates and flight records.",
+      "transcript_snippet": "Your future wife claims that this is the first time she laid eyes on you at an airport, but she chose not to go up to us.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14966",
+      "ref": "C-14966",
+      "label": "Host Says She and Charlie Were in Israel About Two Weeks After Kanye's Tweet",
+      "claim": "The host says that about two weeks after Kanye West's tweet about her in 2018, she and Charlie Kirk flew out to see him and were standing in Israel.",
+      "anchored_artifacts": [
+        "A-2351.3"
+      ],
+      "related_nodes": [
+        "N-10026",
+        "N-10004"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:12:38",
+      "investigative_direction": "Check dates of the Kanye tweet and the 2018 Israel trip with travel records or photographs.",
+      "transcript_snippet": "We fly out to see him in just 2 weeks after that, you and I are standing in Israel.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14967",
+      "ref": "C-14967",
+      "label": "Host Says Meeting George on an Unplanned London Trip Saved Her Life",
+      "claim": "The host says she felt a spiritual pull to be in London in 2018, that Charlie arranged a reason to go, and that meeting George on that unplanned trip saved her life.",
+      "anchored_artifacts": [
+        "A-2351.3"
+      ],
+      "related_nodes": [
+        "N-10118"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:12:38",
+      "investigative_direction": "Compare with the host's earlier accounts of how she met George and the dates of the 2018 London trip.",
+      "transcript_snippet": "Meeting George in unplanned trip saved my life.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-30"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14968",
+      "ref": "C-14968",
+      "label": "Host Says Kanye Won the Grammy for Best Rap Album for My Beautiful Dark Twisted Fantasy",
+      "claim": "The host says Kanye West's album soared to number one and took home a Grammy for best rap album for My Beautiful Dark Twisted Fantasy.",
+      "anchored_artifacts": [
+        "A-2351.3"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:15:44",
+      "investigative_direction": "Verify against Grammy Awards records for the 2012 ceremony.",
+      "transcript_snippet": "He took home a Grammy for best rap album, for My Beautiful Dark Twisted Fan- Fantasy.",
+      "mentions_person_refs": [
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14969",
+      "ref": "C-14969",
+      "label": "Host Says the Word Exciting in Power Turns Into Suicide",
+      "claim": "The host says that listening closely, the word exciting in the Power lyric turns into suicide, which she reads as Kanye West's struggle to stay true to himself.",
+      "anchored_artifacts": [
+        "A-2351.3"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:16:44",
+      "investigative_direction": "Interpretive reading of a song lyric; compare with the album's lyric sheet and audio.",
+      "transcript_snippet": "the word exciting actually turns into suicide.",
+      "mentions_person_refs": [
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14970",
+      "ref": "C-14970",
+      "label": "Host Says the Whole World Knows Charlie Was Under Immense Political Pressure With Israel",
+      "claim": "The host says the whole world knows Charlie Kirk was under immense political pressure with Israel, that he was surrounded and that his life became the Truman Show.",
+      "anchored_artifacts": [
+        "A-2351.3"
+      ],
+      "related_nodes": [
+        "N-10026",
+        "N-10056",
+        "N-10704"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:20:25",
+      "investigative_direction": "Compile documents or witnesses on pressure applied to Kirk about Israel; compare with the host's earlier claims about donor and Netanyahu contacts.",
+      "transcript_snippet": "the whole world knows that you were under immense political pressure with Israel.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14971",
+      "ref": "C-14971",
+      "label": "Host Says Charlie Never Let Her Drive and Set the Restroom Stops",
+      "claim": "The host says she will miss Charlie Kirk never letting her drive and mandating when they could stop for restroom breaks.",
+      "anchored_artifacts": [
+        "A-2359.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:22:59",
+      "investigative_direction": "Personal anecdote; the played clip is the only corroboration.",
+      "transcript_snippet": "mandating when we were allowed to stop for restroom breaks.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14972",
+      "ref": "C-14972",
+      "label": "Host Relays a Person's Remark That Charlie Knew He Had Helped Create a Monster",
+      "claim": "The host relays what an unnamed person told her a couple of weeks earlier: that in the end Charlie Kirk knew he had accidentally helped create a monster and was unsure he had the strength to do what needed to be done, and she reflects on the pressure of his final days and a final decision.",
+      "anchored_artifacts": [
+        "A-2351.4"
+      ],
+      "related_nodes": [
+        "N-10002"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:59",
+      "investigative_direction": "Identify who made the remark and what monster and decision they meant; compare with the host's other accounts of Kirk's last days.",
+      "transcript_snippet": "in the end you knew that you had accidentally helped create a monster and you weren't sure if you had the strength to do what needed to be done",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14973",
+      "ref": "C-14973",
+      "label": "Host Says the New Narrative Portrays Charlie as Loomer's Friend and a Neocon Fan",
+      "claim": "The host says in a sarcastic passage that those reimagining Charlie Kirk's life now portray him as friends with Laura Loomer, as having loved neocons and as not favoring Tucker Carlson, while he hated her.",
+      "anchored_artifacts": [
+        "A-2351.4"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:24:27",
+      "investigative_direction": "Compare with Kirk's recorded statements about Loomer, Carlson and the host, and with TPUSA's post-death messaging.",
+      "transcript_snippet": "I think you're now friends with Laura Loomer, Charlie.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-60",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14974",
+      "ref": "C-14974",
+      "label": "Host Says Personal Letters, the Tent and the Microphone Were Put Up for Sale",
+      "claim": "The host says there is not a piece of Charlie Kirk that they did not try to sell, citing personal letters he wrote, the tent he died beneath and the microphone he was holding.",
+      "anchored_artifacts": [
+        "A-2351.4"
+      ],
+      "related_nodes": [
+        "N-11014"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:24:27",
+      "investigative_direction": "Find listings, auctions or announcements of the letters, tent and microphone; identify who offered them.",
+      "transcript_snippet": "the tent that you died beneath, the microphone that you were holding.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14975",
+      "ref": "C-14975",
+      "label": "Host Says Charlie Flew Her to Wyoming Where Ye Recorded His Album",
+      "claim": "The host says Charlie Kirk flew her out to Wyoming where Kanye West recorded the album that contains Ghost Town.",
+      "anchored_artifacts": [
+        "A-2351.4"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:25:15",
+      "investigative_direction": "Check 2018 listening-event coverage and travel records for Kirk and the host in Wyoming.",
+      "transcript_snippet": "And you remember when you flew me out to Wyoming where he recorded that.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14976",
+      "ref": "C-14976",
+      "label": "Host Says the Whole World Knows Charlie's Assassination Was Ordered by the Most Powerful People",
+      "claim": "The host says the whole world knows that Charlie Kirk's assassination was ordered by the most powerful people in the world.",
+      "anchored_artifacts": [
+        "A-2351.4"
+      ],
+      "related_nodes": [
+        "N-10002"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:26:04",
+      "investigative_direction": "Ask the host to name the people and show the evidence; this is an assertion of fact with no document presented in the episode.",
+      "transcript_snippet": "The whole world knows that your assassination was ordered by the most powerful people in the world.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14977",
+      "ref": "C-14977",
+      "label": "Host Says Charlie Wrote That He Would Have to Choose Between Loved Ones and His Mission",
+      "claim": "The host says Charlie Kirk wrote that he would have to choose between those he loves and his mission, and that his death came early and he did nothing to stop it.",
+      "anchored_artifacts": [
+        "A-2351.4"
+      ],
+      "related_nodes": [
+        "N-10415"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:26:51",
+      "investigative_direction": "Ask the host for the writing, its date and medium; compare with other Kirk messages the host has read.",
+      "transcript_snippet": "You were right when you wrote that you would have to choose between those you love and your mission.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14978",
+      "ref": "C-14978",
+      "label": "Host Clip Says She Will Never Unsee the Footage of Charlie's Shooting",
+      "claim": "A clip of the host played at the end of the episode says Charlie Kirk was her best friend and brother, that she will never unsee the footage of what she saw, and that there is no Candace without Charlie.",
+      "anchored_artifacts": [
+        "A-3355.1"
+      ],
+      "related_nodes": [
+        "N-10002"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:27:35",
+      "investigative_direction": "Date the clip; compare with the host's first statements after the shooting.",
+      "transcript_snippet": "And I will never unsee the footage of what I saw.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-350",
+      "ref": "M-350",
+      "canonical_term": "Mad at You for Being Dead",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 150,
+          "video_timestamp": "00:00:42",
+          "speaker_node_ref": "N-3",
+          "quote": "Dear Charlie, um I'm really mad at you for being dead.",
+          "context": "Host opens the first journal entry with the running line.",
+          "confidence": "high",
+          "tags": [
+            "journal",
+            "grief",
+            "opener"
+          ]
+        },
+        {
+          "episode": 150,
+          "video_timestamp": "00:22:59",
+          "speaker_node_ref": "N-3",
+          "quote": "Yeah, I'm still pretty mad at you for being dead",
+          "context": "Host closes the road trip passage by repeating the line from the opening entry.",
+          "confidence": "high",
+          "tags": [
+            "journal",
+            "grief",
+            "callback"
+          ]
+        }
+      ]
+    }
+  ]
 }

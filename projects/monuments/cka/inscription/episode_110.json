@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-2076.1",
           "ref": "A-2076.1",
-          "description": "On-screen connection graphic: Bradley Hansel (Under Secretary of War for Intelligence and Security), Benjamin Netanyahu, Mitt Romney, Boston Consulting Group, Project Aurora, Gaza Humanitarian Foundation, Orbis, Tacit/Taclith Institute, Phil Riley",
+          "description": "On-screen connection graphic: Bradley Hansel (Under Secretary of War for Intelligence and Security), Benjamin Netanyahu, Mitt Romney, Boston Consulting Group, Project Aurora, Gaza Humanitarian Foundation, Orbis, Tacit/Tachlith Institute, Phil Reilly",
           "related_claims": [
             "C-2911",
             "C-2913",
@@ -299,6 +299,156 @@
           "confidence": "low"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3334",
+      "family_ref": "A-3334",
+      "bundle_name": "Decentralized Intelligence Agency Tip Request Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3334.1",
+          "ref": "A-3334.1",
+          "description": "Host verbal reference to the tip email addresses tips@candaceowens.com and moretips@candaceowens.com (verbal call for tips; no screen shown)",
+          "related_claims": [
+            "C-14698"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:43:50",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3335",
+      "family_ref": "A-3335",
+      "bundle_name": "Viewer Comments Read On Air Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3335.1",
+          "ref": "A-3335.1",
+          "description": "Viewer comment from Abdullah on Tom Artiom Alexandrovich's release, and the host's remarks on the Israeli biolab defendant",
+          "related_claims": [
+            "C-14701",
+            "C-14702"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:48:22",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3335.2",
+          "ref": "A-3335.2",
+          "description": "Viewer comment from Jenny Jen about a text from a Virginia area code asking how Utah folks feel about Israel",
+          "related_claims": [
+            "C-14704",
+            "C-14705"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:49:56",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3335.3",
+          "ref": "A-3335.3",
+          "description": "Viewer comment from Zamut on JFK and Bobby Kennedy being Catholic until the dates of their deaths",
+          "related_claims": [
+            "C-14706",
+            "C-14707"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:51:48",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3335.4",
+          "ref": "A-3335.4",
+          "description": "Viewer comment from Ali768 on Erika Kirk's media tour and the CBS interview",
+          "related_claims": [
+            "C-14708",
+            "C-14709",
+            "C-14710"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:52:45",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3336",
+      "family_ref": "A-3336",
+      "bundle_name": "Host Inbox Record of Episode Removal Alerts Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3336.1",
+          "ref": "A-3336.1",
+          "description": "Host verbal reference to her email inbox showing the first alert, on November 3, that episodes were removed from the Charlie Kirk Show (not shown)",
+          "related_claims": [
+            "C-14692",
+            "C-14694",
+            "C-14695"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:42:15",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3337",
+      "family_ref": "A-3337",
+      "bundle_name": "Netanyahu Podcast Schedule Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3337.1",
+          "ref": "A-3337.1",
+          "description": "Host verbal reference to the release dates of Netanyahu's summer 2025 podcast interviews (not shown)",
+          "related_claims": [
+            "C-14633"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:03:10",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -356,7 +506,7 @@
       "ref": "N-10670",
       "name": "Gaza Humanitarian Foundation Leadership/Operational Pipeline",
       "type": "investigation_target",
-      "description": "Persistent investigation target: BCG built the foundation's logistics; Johnny Moore replaced Jake Wood as chairman after BCG withdrawal; foundation operates US/Israel-backed food distribution sites characterized by host as \"killing fields\"; Phil Riley / Orbis / Tacit Institute connection.",
+      "description": "Persistent investigation target: BCG built the foundation's logistics; Johnny Moore replaced Jake Wood as chairman after BCG withdrawal; foundation operates US/Israel-backed food distribution sites characterized by host as \"killing fields\"; Phil Reilly / Orbis / Tachlith Institute connection.",
       "related_artifacts": [
         "A-2076.1",
         "A-2076.2",
@@ -482,7 +632,31 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14631",
+        "C-14632",
+        "C-14634",
+        "C-14637",
+        "C-14658",
+        "C-14662",
+        "C-14663",
+        "C-14666",
+        "C-14673",
+        "C-14674",
+        "C-14676",
+        "C-14677",
+        "C-14680",
+        "C-14681",
+        "C-14683",
+        "C-14684",
+        "C-14685",
+        "C-14686",
+        "C-14692",
+        "C-14693",
+        "C-14697",
+        "C-14699",
+        "C-14700"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -498,7 +672,16 @@
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14671",
+        "C-14673",
+        "C-14691",
+        "C-14693",
+        "C-14699",
+        "C-14708",
+        "C-14709",
+        "C-14710"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -514,7 +697,10 @@
       "type": "person",
       "description": "TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14654",
+        "C-14710"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -530,7 +716,12 @@
       "type": "person",
       "description": "Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-2925",
+        "C-2927",
+        "C-2930",
+        "C-2931"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -545,7 +736,18 @@
       "type": "person",
       "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14632",
+        "C-14633",
+        "C-14634",
+        "C-14635",
+        "C-14636",
+        "C-14637",
+        "C-14643",
+        "C-14662",
+        "C-14686",
+        "C-14700"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -593,7 +795,11 @@
       "type": "person",
       "description": "Takes chair of Gaza Humanitarian Aid Project June 3; host ties to Kolvet/Chyros partnership.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14654",
+        "C-14655",
+        "C-14659"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -663,6 +869,884 @@
       "tags": [],
       "evidence_count": 2,
       "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself throughout.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14630",
+        "C-14631",
+        "C-14638",
+        "C-14639",
+        "C-14640",
+        "C-14641",
+        "C-14642",
+        "C-14645",
+        "C-14647",
+        "C-14648",
+        "C-14692",
+        "C-14695",
+        "C-14697",
+        "C-14698",
+        "C-14699",
+        "C-14703",
+        "C-14705",
+        "C-14708",
+        "C-14710",
+        "C-14711"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 20,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Named in the host's account of Tucker Carlson's July 11 speech.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14669"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-17",
+      "ref": "N-17",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Pastor whose resignation from Calvary Church the host places on July 2.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14667"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Spoke at the TPUSA conference on July 11 per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14669",
+        "C-14670"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Named in the host's account of Tucker Carlson's July 11 speech.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14670"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-46",
+      "ref": "N-46",
+      "name": "Megyn Kelly",
+      "type": "person",
+      "description": "Hosted Kirk after the Hamptons weekend and, per the host, met Erika Kirk on November 22.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14681",
+        "C-14691",
+        "C-14693"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-55",
+      "ref": "N-55",
+      "name": "Josh Hammer",
+      "type": "person",
+      "description": "Per the host, on a Zoom call with Charlie Kirk and a rabbi on September 9.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14684"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-57",
+      "ref": "N-57",
+      "name": "Patrick Bet-David",
+      "type": "person",
+      "description": "Hosted Netanyahu, interview recorded and released August 26 per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14633"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-58",
+      "ref": "N-58",
+      "name": "Brandon Tatum",
+      "type": "person",
+      "description": "Hosted Netanyahu, interview released September 4 per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14633"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-59",
+      "ref": "N-59",
+      "name": "Nelk Boys",
+      "type": "person",
+      "description": "Hosted Netanyahu, interview released July 21 per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14633"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Joined the Kirks in Maine for the first time per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14677"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-270",
+      "ref": "N-270",
+      "name": "Brian Harpole",
+      "type": "person",
+      "description": "Man the host says a witness thinks he saw leaving a Fort Huachuca meeting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14646"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-282",
+      "ref": "N-282",
+      "name": "Bari Weiss",
+      "type": "person",
+      "description": "Named in a viewer comment about Erika Kirk's CBS interview.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14709"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-283",
+      "ref": "N-283",
+      "name": "Bob Evan",
+      "type": "person",
+      "description": "Nebraska Secretary of State named in the host's Nebraska-Egypt trade trip claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14678"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-309",
+      "ref": "N-309",
+      "name": "Wed Mahmoud",
+      "type": "person",
+      "description": "Egyptian-plane passenger the host calls Wed Mahmoud.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14657",
+        "C-14658"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-366",
+      "ref": "N-366",
+      "name": "Mitch Snow",
+      "type": "person",
+      "description": "Eyewitness at the center of the Fort Huachuca sighting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14646",
+        "C-14647"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-598",
+      "ref": "N-598",
+      "name": "Bret Weinstein",
+      "type": "person",
+      "description": "Credited by the host for confirming the June 18 White House dates.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14662"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-673",
+      "ref": "N-673",
+      "name": "James Kaddis",
+      "type": "person",
+      "description": "Calvary Chapel pastor and head of the TPUSA faith department per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14671",
+        "C-14672"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-762",
+      "ref": "N-762",
+      "name": "Claire Ginan",
+      "type": "person",
+      "description": "Jezebel writer the host links to the Etsy curse.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14665",
+        "C-14666"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14674"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10027",
+      "ref": "N-10027",
+      "name": "The Hamptons",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14637",
+        "C-14680"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10117",
+      "ref": "N-10117",
+      "name": "Jezebel/Etsy Hex on Charlie Kirk",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14665",
+        "C-14666"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10122",
+      "ref": "N-10122",
+      "name": "Jezebel",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14665",
+        "C-14666"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10123",
+      "ref": "N-10123",
+      "name": "Etsy",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14666"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10220",
+      "ref": "N-10220",
+      "name": "Rob McCoy Relocation and Timing Pattern",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14667"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10264",
+      "ref": "N-10264",
+      "name": "Calvary Chapel Pro-Israel Coordination",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14673"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10276",
+      "ref": "N-10276",
+      "name": "Nebraska–Egypt Trade Mission / BTT Plane Overlap",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14675",
+        "C-14678"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10310",
+      "ref": "N-10310",
+      "name": "SU-BTU May 27 – June 2, 2025 Provo Visit with Wedi Machmood Aboard",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14657",
+        "C-14658"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10334",
+      "ref": "N-10334",
+      "name": "CBS Bari Weiss Town Hall Production Integrity",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14709"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10347",
+      "ref": "N-10347",
+      "name": "Egyptian Planes Israel Flight Pattern",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14638",
+        "C-14639"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10367",
+      "ref": "N-10367",
+      "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14646"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10370",
+      "ref": "N-10370",
+      "name": "Fort Huachuca Morning Meeting Investigation",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14648"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10373",
+      "ref": "N-10373",
+      "name": "Brian Harpole Fort Huachuca Presence Verification",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14646"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10378",
+      "ref": "N-10378",
+      "name": "Andrew Kolbet Coordination with Attackers of Mitch Snow",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14647"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10456",
+      "ref": "N-10456",
+      "name": "Charlie Kirk BB Netanyahu Show Refusal",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14632",
+        "C-14637"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10571",
+      "ref": "N-10571",
+      "name": "July 14, 2025 Long Beach Flight",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14671"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10575",
+      "ref": "N-10575",
+      "name": "BYU Jerusalem CIA Recruitment Question",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14644"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10652",
+      "ref": "N-10652",
+      "name": "Dhillon Law Group / Show Faith by Works Connection",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14682"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10653",
+      "ref": "N-10653",
+      "name": "Turning Point Geofencing / Show Faith by Works Link",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14682",
+        "C-14704",
+        "C-14705"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10664",
+      "ref": "N-10664",
+      "name": "Charlie Kirk Aspen Audio Authenticity Question",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14693",
+        "C-14699"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10722",
+      "ref": "N-10722",
+      "name": "Clock Tower X / Israeli Influence Operation",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14682"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10870",
+      "ref": "N-10870",
+      "name": "Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14679"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10901",
+      "ref": "N-10901",
+      "name": "Havas Media",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14682"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10910",
+      "ref": "N-10910",
+      "name": "Dhillon Law Group",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14682",
+        "C-14705"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11079",
+      "ref": "N-11079",
+      "name": "Operation Midnight Hammer",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14664"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11123",
+      "ref": "N-11123",
+      "name": "Northrop Grumman",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14660"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11324",
+      "ref": "N-11324",
+      "name": "Raytheon",
+      "type": "investigation_target",
+      "description": "Existing node reused in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14660"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11400",
+      "ref": "N-11400",
+      "name": "Charlie Kirk Show Episode Removal Question",
+      "type": "topic",
+      "description": "The host's allegation that Turning Point removed episodes, tweets and Q&As from the Charlie Kirk Show beginning November 3, 2025, and that TPUSA denied it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14692",
+        "C-14693",
+        "C-14694",
+        "C-14695",
+        "C-14696",
+        "C-14697"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11401",
+      "ref": "N-11401",
+      "name": "Netanyahu 2025 American Podcast Tour",
+      "type": "topic",
+      "description": "The host's account of Netanyahu's summer 2025 run of American podcast interviews in the run-up to the assassination, after Kirk refused to host him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14633",
+        "C-14634",
+        "C-14635",
+        "C-14636"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
       "episode_count": 1,
       "investigative_pressure": "high"
     }
@@ -1117,8 +2201,8 @@
       "@type": "Claim",
       "@id": "C-2933",
       "ref": "C-2933",
-      "label": "Orbis prepared the Project Aurora study on behalf of the Tacit/Taclith Institute (Israeli think tank)",
-      "claim": "Per the displayed on-screen graphic and host description, Orbis was prepping the study on behalf of the Tacit/Taclith Institute, an Israeli think tank.",
+      "label": "Orbis prepared the Project Aurora study on behalf of the Tacit/Tachlith Institute (Israeli think tank)",
+      "claim": "Per the displayed on-screen graphic and host description, Orbis was prepping the study on behalf of the Tacit/Tachlith Institute, an Israeli think tank.",
       "anchored_artifacts": [
         "A-2076.1"
       ],
@@ -1127,15 +2211,15 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:00",
-      "investigative_direction": "Verify the existence and nature of the Tacit/Taclith Institute; flag uncertain spelling.",
+      "investigative_direction": "Verify the existence and nature of the Tacit/Tachlith Institute; flag uncertain spelling.",
       "mentions_person_refs": []
     },
     {
       "@type": "Claim",
       "@id": "C-2934",
       "ref": "C-2934",
-      "label": "BCG was selected for Project Aurora due to its long-standing relationship with Phil Riley, ex-CIA operative at Orbis",
-      "claim": "Per the displayed on-screen graphic and host description, BCG was chosen as Project Aurora consultant because of its long-standing relationship with Phil Riley, an ex-CIA operative who worked for Orbis.",
+      "label": "BCG was selected for Project Aurora due to its long-standing relationship with Phil Reilly, ex-CIA operative at Orbis",
+      "claim": "Per the displayed on-screen graphic and host description, BCG was chosen as Project Aurora consultant because of its long-standing relationship with Phil Reilly, an ex-CIA operative who worked for Orbis.",
       "anchored_artifacts": [
         "A-2076.1"
       ],
@@ -1144,11 +2228,1900 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:00",
-      "investigative_direction": "Verify Phil Riley's CIA and Orbis employment; cross-check BCG-Riley relationship in FT reporting.",
+      "investigative_direction": "Verify Phil Reilly's CIA and Orbis employment; cross-check BCG-Riley relationship in FT reporting.",
       "mentions_person_refs": [
         "N-440"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14630",
+      "ref": "C-14630",
+      "label": "Host Says Channel Reached Six Million Subscribers With No Ad Spend or Outside Funding",
+      "claim": "The host says her channel reached six million subscribers with zero dollars spent on advertising, no outside investors and no secret funding from foreign countries.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Check the channel's public subscriber count and any disclosed advertising or financing; the funding denial can only be tested against the host's financial records.",
+      "transcript_snippet": "Without a single dollar spent on advertising, zero dollars. That's actually just an incredible feat. No outside investors, no secret funding from foreign countries",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14631",
+      "ref": "C-14631",
+      "label": "Host Says She Has Identified the Official Aboard the Plane That Left Fort Huachuca September 9",
+      "claim": "The host says her team has identified a high ranking US government official in this administration who was aboard the plane that left Fort Huachuca on the morning of September 9, and that this will not put conspiracy theories about Charlie Kirk's death to bed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10671"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:01:40",
+      "investigative_direction": "Obtain the SAM702 flight manifest and passenger list for September 8-9, 2025 (FOIA, Air Mobility Command, Fort Huachuca flight operations).",
+      "transcript_snippet": "We have identified our passenger, our high ranking US government official uh part of this administration that was aboard the plane which left Fort Huachuca on the morning of September 9th.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14632",
+      "ref": "C-14632",
+      "label": "Host Says Netanyahu Asked to Appear on Charlie Kirk's Show in July 2025 and Charlie Refused",
+      "claim": "The host says that in July 2025, while Benjamin Netanyahu was doing American podcasts, he asked to be on Charlie Kirk's show and Charlie refused him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10456"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:30",
+      "investigative_direction": "Ask Charlie Kirk Show staff or TPUSA for the booking request; look for contemporaneous reporting of Netanyahu's team approaching the Kirk show.",
+      "transcript_snippet": "He wanted to come on Charlie Kirk's show and Charlie refused him.",
+      "supports_claim_refs": [
+        "C-3722"
+      ],
+      "mentions_person_refs": [
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14633",
+      "ref": "C-14633",
+      "label": "Host Lists Netanyahu's Summer 2025 American Podcast Appearances With Release Dates",
+      "claim": "The host lists Benjamin Netanyahu's 2025 American podcast interviews: Nelk Boys released July 21, Trigonometry August 20, Patrick Bet-David recorded and released August 26, Officer Tatum and a TBN interview with Eric Stakelbeck both released September 4.",
+      "anchored_artifacts": [
+        "A-3337.1"
+      ],
+      "related_nodes": [
+        "N-11401"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:10",
+      "investigative_direction": "Check publication dates of each episode on YouTube and podcast platforms against the dates the host gives.",
+      "transcript_snippet": "He did the Nelk Boys that was released on July 21st. He did uh Trigonometry that was released on August 20th. He also did the Patrick Bet David show that was recorded and then released on August 26th.",
+      "supports_claim_refs": [
+        "C-3722"
+      ],
+      "mentions_person_refs": [
+        "N-36",
+        "N-59",
+        "N-57",
+        "N-58"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14634",
+      "ref": "C-14634",
+      "label": "Host Says Netanyahu Is on an American Public Relations Tour in the Run-Up to the Assassination",
+      "claim": "The host says that Netanyahu, amid a war, is effectively on an American public relations tour in the run-up to Charlie Kirk's assassination, which she calls abnormal for a sitting prime minister.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11401"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:04:11",
+      "investigative_direction": "Compile all Netanyahu US media appearances in 2025 and any Israeli government statements explaining the outreach.",
+      "transcript_snippet": "Uh suddenly though he is BB Netanyahu is overcome with the need to hit that podcast circuit. He's effectively on what can be described an American public relations tour in the run-up to Charlie's assassination?",
+      "mentions_person_refs": [
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14635",
+      "ref": "C-14635",
+      "label": "Host Says Netanyahu Had Not Done an American Podcast Since Lex Fridman in 2023",
+      "claim": "The host says Netanyahu had not sat down with an American podcaster in years before this tour, since Lex Fridman in 2023, and that he made Fridman fly to his office in Israel for that interview.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11401"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:05:06",
+      "investigative_direction": "Check the date and location of the Lex Fridman interview with Netanyahu and list his US podcast appearances 2023 to 2025.",
+      "transcript_snippet": "not sat down with an American podcaster in years since 2023 to be precise when he sat down with Lex Fridman. And I should make it clear that he made Lex Fridman fly to his office in Israel",
+      "mentions_person_refs": [
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14636",
+      "ref": "C-14636",
+      "label": "Host Says Netanyahu's Last American Media Tour Was 2022 to Promote His Book",
+      "claim": "The host says Netanyahu's last comparable American press tour was in 2022, when he was not the sitting prime minister and was promoting his book, whereas in 2025 he had no product to sell.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11401"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:05:50",
+      "investigative_direction": "Check Netanyahu's 2022 book-tour appearances (his memoir) and confirm none were while in office.",
+      "transcript_snippet": "And there was a more appropriate context. He was hawking his crappy book.",
+      "mentions_person_refs": [
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14637",
+      "ref": "C-14637",
+      "label": "Host Says Charlie Declined Netanyahu Because of a Change of Heart on Israel and the Hamptons Intervention",
+      "claim": "The host says the answer to why Charlie Kirk refused to host Netanyahu is that Charlie had a change of heart about Israel, and that the Hamptons intervention the weekend of August 5 furthered his resentment of their strong-arming influence.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10456",
+        "N-10673",
+        "N-10027"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:30",
+      "investigative_direction": "Obtain statements from Kirk's circle, Hamptons attendees or messages showing Kirk's stated reasons for declining the Netanyahu appearance.",
+      "transcript_snippet": "the answer is because Charlie had a change of heart regarding Israel and the Hampton's quote unquote intervention, which took place the the weekend of August 5th, only furthered Charlie's growing resentment against their strong arming influence.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14638",
+      "ref": "C-14638",
+      "label": "Host Says Egyptian Planes Turn Off Transponders on Roughly Ninety-Minute Trips Around Cairo",
+      "claim": "The host says the Egyptian planes she tracks tend to turn off their transponders on short trips from Cairo of about an hour and a half and then return to Cairo.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10672",
+        "N-10347"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:07:15",
+      "investigative_direction": "Pull ADS-B archive data for the Egyptian-registered Falcon aircraft she names and check for short Cairo round trips with transponder gaps.",
+      "transcript_snippet": "they tend to turn off their transponders when they're making short trips around Cairo, about an hour and a half flights, and then they return back uh to Cairo",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14639",
+      "ref": "C-14639",
+      "label": "Host Says Distance and Time of Those Egyptian Flights Point to Israel or Jordan",
+      "claim": "The host says when she calculates the distance these planes could cover in the time allotted, she keeps coming up with either Israel or Jordan.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10672",
+        "N-10347"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:07:35",
+      "investigative_direction": "Reproduce the range calculation using the recorded departure and return times of the Cairo round trips.",
+      "transcript_snippet": "when I calculate that distance precisely of where these planes could be going in the amount of in the allotted time frame, I keep coming up with either Israel or Jordan.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14640",
+      "ref": "C-14640",
+      "label": "Host Says Egyptian Plane SUBTU Left Cairo at 8:50 a.m. on October 7, 2023",
+      "claim": "The host says the Egyptian plane SUBTU left Cairo at 8:50 a.m. on October 7, 2023, shortly after the attacks began.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10672"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:10",
+      "investigative_direction": "Check flight-tracking history for the SU-BT* aircraft on October 7, 2023 (departure time from Cairo).",
+      "transcript_snippet": "the Egyptian plane SUBTU, which I describe as my purple plane, uh flew from Cairo at 8:50 a. m. shortly after the attacks began.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14641",
+      "ref": "C-14641",
+      "label": "Host Says That Plane Flew Cairo to Paris to St. Louis and Stayed Five Days",
+      "claim": "The host says that same plane flew from Cairo to Paris, then from Paris to St. Louis, Missouri, where it stayed for five days.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10672"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:25",
+      "investigative_direction": "Check flight history and airport records for the aircraft in St. Louis in October 2023.",
+      "transcript_snippet": "They flew to P they flew from Cairo to Paris and Okay, random fact. Then it flew from Paris to St. Louis, Missouri. Stays for 5 days.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14642",
+      "ref": "C-14642",
+      "label": "Host Says the Same Egyptian Plane Flew Cairo to Paris for Six Days During Operation True Promise",
+      "claim": "The host says that on April 14, 2024 (Operation True Promise, which she describes as Iran and Hezbollah bombing Israel in retaliation for the Damascus embassy strike), the same Egyptian plane flew from Cairo to Paris and stayed six days.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10672"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:05",
+      "investigative_direction": "Check flight history for the aircraft around April 14, 2024; confirm the Paris stay length.",
+      "transcript_snippet": "that same Egyptian plane took off, flew from Cairo always to Paris, and it stayed there for six days.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14643",
+      "ref": "C-14643",
+      "label": "Host Says Mitt Romney and Netanyahu Have Been Best Friends for Over Fifty Years",
+      "claim": "The host says Mitt Romney is best friends with Netanyahu, a documented bromance of over 50 years, and that the Romney family holds considerable political power in Utah.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:10",
+      "investigative_direction": "Check press coverage of the Romney-Netanyahu friendship (both worked at Boston Consulting Group in the 1970s).",
+      "transcript_snippet": "Mitt Romney, as it turns out, is best friends with BB Netanyahu. They have a bromance. It's been documented for years in the press for over 50 years, longer than I have been alive.",
+      "mentions_person_refs": [
+        "N-28",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14644",
+      "ref": "C-14644",
+      "label": "Host Says Romney's Campaign Team Went to BYU Jerusalem, Where CIA Agents Are Recruited",
+      "claim": "The host says Mitt Romney's presidential campaign team went to BYU Jerusalem, where she says many CIA agents are recruited while studying, and that she has confirmed this.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10575"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:45",
+      "investigative_direction": "Locate reporting on the Romney campaign's BYU Jerusalem visit and any source on CIA recruitment from the program.",
+      "transcript_snippet": "I told you guys that Mitt Romney's presidential campaign team actually went over to BYU Jerusalem where, as it turns out, a lot of CIA agents are recruited from.",
+      "mentions_person_refs": [
+        "N-28"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14645",
+      "ref": "C-14645",
+      "label": "Host Says Air Force Planes Get the SAM Designation When Carrying a VIP",
+      "claim": "The host says an Air Force plane is given the call-sign designation SAM when it is carrying a VIP such as the president, vice president, cabinet members, commanders, Congress members, other high ranking officials or foreign dignitaries.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10671"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:11:20",
+      "investigative_direction": "Check Air Mobility Command and FAA documentation for SAM call-sign use, and who may authorize it.",
+      "transcript_snippet": "Air Force plane given the designation SAM because it is carrying a VIP.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14646",
+      "ref": "C-14646",
+      "label": "Host Says a Man Thinks He Saw Brian Harpole Leave a Meeting and Harpole Will Not Answer Yes or No",
+      "claim": "The host says her team found a man who thinks he saw Brian Harpole walking out of a meeting at Fort Huachuca, and that Harpole has been extremely reticent to say yes or no on whether he was there.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10373",
+        "N-10367"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:50",
+      "investigative_direction": "Obtain Harpole's direct answer or contracting records for Fort Huachuca on September 8-9, 2025; reinterview the witness.",
+      "transcript_snippet": "We just found a guy who thinks he saw Brian Harpole walking out of a meeting and for whatever reason, Brian Harpole has been extremely reticent",
+      "mentions_person_refs": [
+        "N-270",
+        "N-366"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14647",
+      "ref": "C-14647",
+      "label": "Host Says an Influencer Campaign With Special Forces Figures Threatened to Take Her Down",
+      "claim": "The host says that after the Fort Huachuca sighting, an influencer campaign with many special forces figures suddenly appeared, with screaming threats that they would take her down and would platform Mitch's baby mamas.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10378"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:12:30",
+      "investigative_direction": "Identify the accounts and dates of the posts the host refers to and who coordinated them.",
+      "transcript_snippet": "Uh, we got an influence an influencer campaign with a lot of special forces guys suddenly in the mix. Very strange screaming threats. They're going to take you down. We're going to platform Mitch's baby mamas.",
+      "mentions_person_refs": [
+        "N-366",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14648",
+      "ref": "C-14648",
+      "label": "Host Says Her Team Searched for Flights From Fort Huachuca to El Paso in the Window of the Alleged Meeting",
+      "claim": "The host says her team looked for who left Fort Huachuca for El Paso, Texas in a time frame that would fit the alleged morning meeting on September 9.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10671",
+        "N-10370"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:12:50",
+      "investigative_direction": "Review flight-tracking and FOIA records of departures from Libby Army Airfield on September 9, 2025.",
+      "transcript_snippet": "who who's leaving um Fort Huachuca and heading for El Paso, Texas in a time frame that would work with this alleged meeting um on the morning of September 9th.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14649",
+      "ref": "C-14649",
+      "label": "Host Says Bradley Hansel Was Aboard the Plane With Four Other People",
+      "claim": "The host says one of the VIPs aboard the Fort Huachuca-to-El Paso plane, apparently with four other people, was Bradley Hansel.",
+      "anchored_artifacts": [
+        "A-2076.1"
+      ],
+      "related_nodes": [
+        "N-10671"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:10",
+      "investigative_direction": "Obtain the SAM702 manifest and Hansell's travel calendar through FOIA; the host says her request is pending (see later episodes).",
+      "transcript_snippet": "now we can reveal the name of one of those VIPs who was aboard the plane apparently with four other people. His name is Bradley Hansel.",
+      "mentions_person_refs": [
+        "N-439"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14650",
+      "ref": "C-14650",
+      "label": "Host Says Boston Consulting Group Had a Massive Scandal the Month Hansel Was Sworn In",
+      "claim": "The host says that in the same month Bradley Hansel was sworn in (July 2025), Boston Consulting Group had a massive scandal uncovered by Financial Times reporting from whistleblowers.",
+      "anchored_artifacts": [
+        "A-2077.1"
+      ],
+      "related_nodes": [
+        "N-10668",
+        "N-10669"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:15:35",
+      "investigative_direction": "Compare Hansell's swearing-in date (July 25, 2025) with the Financial Times Project Aurora publication dates.",
+      "transcript_snippet": "in the very month that Mr. Hansel was sworn in, the Boston Consulting Group had a massive scandal which was uncovered due to the reporting over at the Financial Times.",
+      "mentions_person_refs": [
+        "N-439"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14651",
+      "ref": "C-14651",
+      "label": "Host Says BCG Leadership Claimed It Halted Project Aurora but Two Partners Continued Billing",
+      "claim": "Per the website the host reads, by April 2025 BCG leadership said it had issued guidance to halt the project, but the firm then said two senior partners continued it in defiance, with an unofficial team and billing through alternative structures.",
+      "anchored_artifacts": [
+        "A-2077.1"
+      ],
+      "related_nodes": [
+        "N-10669"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:18:10",
+      "investigative_direction": "Check the Financial Times and BCG statements of July 2025 for the halt order and the partners' conduct.",
+      "transcript_snippet": "But the firm would then say that two senior partners continued the project in defiance of their directives uh maintaining an unofficial team and billing through alternative structures."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14652",
+      "ref": "C-14652",
+      "label": "Host Says Project Aurora Continued Through May 2025 When the Financial Times Story Broke",
+      "claim": "Per the website the host reads, Project Aurora continued through May 2025 when the Financial Times story broke.",
+      "anchored_artifacts": [
+        "A-2077.1"
+      ],
+      "related_nodes": [
+        "N-10669"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:18:28",
+      "investigative_direction": "Find the first Financial Times publication date on Project Aurora; the host's own timeline later gives July 4.",
+      "transcript_snippet": "Project continued through May of 2025 when the Financial Times story broke."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14653",
+      "ref": "C-14653",
+      "label": "Host Says the Gaza Humanitarian Foundation Sites Were Killing Fields",
+      "claim": "The host says it was discovered that the Gaza Humanitarian Foundation distribution sites were effectively killing fields, with videos showing the IDF firing on starving Palestinians.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10670"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:19:50",
+      "investigative_direction": "Review UN, medical and press records on shootings at GHF distribution sites and the videos she refers to.",
+      "transcript_snippet": "you might recall that it was that it was then discovered these were effectively just killing fields. The videos are horrific."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14654",
+      "ref": "C-14654",
+      "label": "Host Says Johnny Moore Is Andrew Kolvet's Partner in the Kairos Company",
+      "claim": "The host says Reverend Johnny Moore is one half of the duo behind the Kairos Company with Andrew Kolvet, that Kolvet comes from there, and that Moore became chairman of the Gaza Humanitarian Foundation.",
+      "anchored_artifacts": [
+        "A-2078.1"
+      ],
+      "related_nodes": [
+        "N-10670"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:20:10",
+      "investigative_direction": "Check corporate records and bios for the Kairos Company and Kolvet's and Moore's roles.",
+      "transcript_snippet": "Reverend Johnny Moore, one half of the Kairos Company duo with Andrew Kolvet. Once upon a time, that's where Andrew Kolvet's from.",
+      "mentions_person_refs": [
+        "N-443",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14655",
+      "ref": "C-14655",
+      "label": "Host Says Johnny Moore Abandoned the Gaza Humanitarian Foundation in November",
+      "claim": "The host says Johnny Moore eventually abandoned the Gaza Humanitarian Foundation project in November (2025).",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10670"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:21:00",
+      "investigative_direction": "Check news reports on Moore's departure from the GHF and its date.",
+      "transcript_snippet": "He would eventually abandon the project November. There was no fixing it.",
+      "mentions_person_refs": [
+        "N-443"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14656",
+      "ref": "C-14656",
+      "label": "Host Says Her Timeline Shows BCG Abandoning the Gaza Humanitarian Foundation in June",
+      "claim": "The host says her working timeline records Boston Consulting Group abandoning the Gaza Humanitarian Foundation in June 2025.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [
+        "N-10670"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:25:55",
+      "investigative_direction": "Check news coverage of BCG's exit from the GHF (the Times of Israel piece she cites).",
+      "transcript_snippet": "Boston Consulting Group abandoning the Gaza Humanitarian Foundation in June."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14657",
+      "ref": "C-14657",
+      "label": "Host Says Wedi Machmood Was Aboard the Egyptian Plane in Provo on June 2, 2025",
+      "claim": "The host says a person on the Egyptian plane who goes by Wed Mahmoud was aboard on June 2, 2025, flying in on an SU-BT* aircraft to Provo and then departing Provo.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [
+        "N-10310"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:26:15",
+      "investigative_direction": "Check flight tracking and any manifest for SU-BTU on May 27-June 2, 2025 and the passenger name.",
+      "transcript_snippet": "this person on the Egyptian plane who goes by Wed Mahmoud. Okay, he is aboard on June 2nd, 2025.",
+      "mentions_person_refs": [
+        "N-309"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14658",
+      "ref": "C-14658",
+      "label": "Host Says Wed Mahmoud Will Return and Be Aboard the Plane Leaving Wilmington on Assassination Day",
+      "claim": "The host says the same Wed Mahmoud will also be on the plane that leaves Wilmington on the day of Charlie Kirk's assassination, and that this feels to her like a VIP, though she does not know it to be true.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [
+        "N-10310"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:26:44",
+      "investigative_direction": "Obtain passenger and handling records for the Egyptian aircraft at Wilmington on September 10, 2025.",
+      "transcript_snippet": "So, he is going to come back and he will also be on this plane um that departs on the which leaves Wilmington on the day of Charlie's assassination.",
+      "mentions_person_refs": [
+        "N-309",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14659",
+      "ref": "C-14659",
+      "label": "Host Says Johnny Moore Was Announced as GHF Chairman on June 3",
+      "claim": "The host says her timeline has Reverend Johnny Moore announced on June 3, 2025 as chairman of the Gaza Humanitarian Aid Project.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [
+        "N-10670"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:26:50",
+      "investigative_direction": "Check the announcement date in the Times of Israel and GHF press release.",
+      "transcript_snippet": "On June 3rd, Reverend Johnny Moore is announced to take over as chairman of the Gaza Humanitarian Aid Project",
+      "mentions_person_refs": [
+        "N-443"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14660",
+      "ref": "C-14660",
+      "label": "Host Says a Tucson to Fort Huachuca Flight on September 8 Was Linked to a Flight School With a New CEO",
+      "claim": "The host says a flight from Tucson to Fort Huachuca on September 8 looked associated with a flight training school that recently got a new CEO, named by her as Matt Bramberg, who is connected to Raytheon and Northrop Grumman, adding that it could be nothing.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [
+        "N-10671",
+        "N-11324",
+        "N-11123"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:27:32",
+      "investigative_direction": "Identify the flight school, its operator on the Tucson-Fort Huachuca leg, and the CEO's correct name.",
+      "transcript_snippet": "it looked like it was a flight uh that was associated with a flight training school. So I just noted that that flight training school did get a new CEO um named Matt Bramberg who is connected to Raytheon and Northrop Grumman."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14661",
+      "ref": "C-14661",
+      "label": "Host Says Iran and Israel's Twelve-Day War Began June 13, 2025",
+      "claim": "The host says her timeline records the start of the Iran-Israel twelve-day war on June 13, 2025.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:27:50",
+      "investigative_direction": "Check the public record for the start of the June 2025 Iran-Israel war.",
+      "transcript_snippet": "June 13th, we have Iran and Israel's 12day war."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14662",
+      "ref": "C-14662",
+      "label": "Host Says Charlie Went to the White House on June 18 to Argue Against US Involvement in Israel's War With Iran",
+      "claim": "The host says that on June 18, 2025 Charlie Kirk went to the White House and argued against the US getting involved in Israel's war with Iran, debating pro-Israel lobbyists acting on Netanyahu's behalf, with the dates confirmed thanks to Bret Weinstein.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [
+        "N-10674"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:10",
+      "investigative_direction": "Obtain White House visitor logs or participants' accounts for June 18-19, 2025 and Weinstein's source for the dates.",
+      "transcript_snippet": "June 18th. That is when Charlie goes into the White House. We have confirmed those dates thanks to Brett Weinstein. Goes into the White House and he is arguing for us not to get involved in Israel's war with Iran.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-598",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14663",
+      "ref": "C-14663",
+      "label": "Host Says Charlie Emerged the Temporary Winner and Trump Moved to Limit Involvement",
+      "claim": "The host says Charlie Kirk emerged as the temporary winner of the White House debate and that Trump then moved to limit his involvement.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [
+        "N-10674"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:30",
+      "investigative_direction": "Compare Trump's statements and actions between June 18 and June 21, 2025 with accounts of the meeting.",
+      "transcript_snippet": "and Charlie emerges the temporary winner of that. Trump moves to limit his involvement.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14664",
+      "ref": "C-14664",
+      "label": "Host Says Operation Midnight Hammer Struck Iran's Nuclear Sites on June 22",
+      "claim": "The host says that on June 22, 2025, in Operation Midnight Hammer, America bombed Iran's nuclear sites, a limited military involvement that Trump had agreed to.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [
+        "N-11079"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:28:50",
+      "investigative_direction": "Public record: US strikes on Iranian nuclear sites, June 22, 2025.",
+      "transcript_snippet": "On June 22nd, uh, Operation Midnight Hammer, which is when America bombs U Iran nuclear sites, that's limited military"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14665",
+      "ref": "C-14665",
+      "label": "Host Says Claire Ginan Wrote Her First Ever Article for Jezebel in June After Charlie's Debate",
+      "claim": "The host says writer Claire Ginan, who had never published and has no writing profile, wrote her first article for Jezebel in June 2025, after Charlie Kirk won the debate against Netanyahu's lobbyists.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [
+        "N-10122",
+        "N-10117"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:29:30",
+      "investigative_direction": "Check Ginan's byline history at Jezebel and elsewhere; ask Jezebel for her hire date.",
+      "transcript_snippet": "This writer, Claire Ginan, who had never published before, she has no writing profile at all, writes her first article for Jezebel.",
+      "supports_claim_refs": [
+        "C-1274"
+      ],
+      "mentions_person_refs": [
+        "N-762"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14666",
+      "ref": "C-14666",
+      "label": "Host Says Ginan Bought an Etsy Curse on Charlie Kirk Less Than Ten Days After the White House Debate",
+      "claim": "The host says Claire Ginan went on Etsy, found a new witch profile and bought a spell to curse Charlie Kirk, and that this was less than 10 days after Charlie won the debate against Netanyahu's lobbyists.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [
+        "N-10117",
+        "N-10123",
+        "N-10122"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:50",
+      "investigative_direction": "Obtain Jezebel's published piece and Etsy order dates for the curse purchase to compare with June 18-19.",
+      "transcript_snippet": "buy a spell about harming Charlie Kirk, putting a curse onto Charlie Kirk. It's very unusual. We paid some Etsy witches to curse Charlie Kirk. That was just um less than 10 days after Charlie won this debate",
+      "supports_claim_refs": [
+        "C-1274"
+      ],
+      "mentions_person_refs": [
+        "N-762",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14667",
+      "ref": "C-14667",
+      "label": "Host Says Rob McCoy Formally Resigned as Lead Pastor of Calvary Church on July 2",
+      "claim": "The host says Rob McCoy formally resigned as lead pastor of Calvary Church on July 2, 2025, intending to move to Arizona.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [
+        "N-10220"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:30:15",
+      "investigative_direction": "Check Calvary Chapel Thousand Oaks announcements and church records for McCoy's resignation date.",
+      "transcript_snippet": "On July 2nd, Rob McCoy formerly resigns as the lead pastor of Calvary Church. He's intending to move to Arizona.",
+      "mentions_person_refs": [
+        "N-17"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14668",
+      "ref": "C-14668",
+      "label": "Host Says the Financial Times Published the Boston Consulting Group Project Aurora Story on July 4",
+      "claim": "The host says her timeline has the Financial Times article on Boston Consulting Group and Project Aurora coming out July 4, 2025.",
+      "anchored_artifacts": [
+        "A-2076.2",
+        "A-2077.1"
+      ],
+      "related_nodes": [
+        "N-10669"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:30:25",
+      "investigative_direction": "Check the first Financial Times publication date for the Project Aurora story; the host states May earlier in the episode.",
+      "transcript_snippet": "Uh July 4th, the Financial Times article comes out about the Boston Consulting Group and Project Aurora.",
+      "contradicts_claim_refs": [
+        "C-14652"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14669",
+      "ref": "C-14669",
+      "label": "Host Says Tucker Carlson Spoke at the TPUSA Conference on July 11 and Called Out Epstein on Stage",
+      "claim": "The host says that on July 11, 2025 Tucker Carlson spoke at the Turning Point USA conference, calling out Jeffrey Epstein on stage and asking where the money comes from, and that donors lost their minds.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:30:40",
+      "investigative_direction": "Watch the full speech video and check donor reaction reporting.",
+      "transcript_snippet": "On July 11th is Tucker Gates. Tucker Carlson speaks at the Turning Point USA conference and the donors lose their mind. Uh he calls out Tucker calls out Jeffrey Epstein on stage.",
+      "supports_claim_refs": [
+        "C-1559"
+      ],
+      "mentions_person_refs": [
+        "N-22",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14670",
+      "ref": "C-14670",
+      "label": "Host Says Tucker Said Foreign-Army Service Should Cost Citizenship and Mused About Bill Ackman's Wealth",
+      "claim": "The host says that in the speech Tucker Carlson said that if you serve in a foreign army you should be stripped of your citizenship, and mused about where Bill Ackman's wealth comes from.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:30:50",
+      "investigative_direction": "Check the speech transcript for the foreign-army and Ackman remarks.",
+      "transcript_snippet": "If you are serving in a foreign army, you should be stripped of your citizenship. He muses about where Bill Ackman's wealth comes from as well.",
+      "supports_claim_refs": [
+        "C-6566"
+      ],
+      "mentions_person_refs": [
+        "N-22",
+        "N-37"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14671",
+      "ref": "C-14671",
+      "label": "Host Says Erika Spoke at James Catis' Calvary Chapel in Long Beach on July 14",
+      "claim": "The host says that on July 14, 2025 Erika Kirk traveled to Long Beach, California to speak at James Catis' Calvary Chapel for its Women's Summer of Psalms retreat.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [
+        "N-10571"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:30:55",
+      "investigative_direction": "Find the retreat program or video and flight records for July 14, 2025.",
+      "transcript_snippet": "Erika travels to Long Beach, California to speak at James Catis' Calvary Chapel Church for their Women's Summer of Psalms retreat.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-673"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14672",
+      "ref": "C-14672",
+      "label": "Host Says James Catis Heads the Turning Point USA Faith Department",
+      "claim": "The host says James Catis heads up the Turning Point USA faith department.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:31:00",
+      "investigative_direction": "Check TPUSA staff pages for the faith department head and Catis' role.",
+      "transcript_snippet": "That's interesting because James Catis heads up the Turning Point USA faith department.",
+      "mentions_person_refs": [
+        "N-673"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14673",
+      "ref": "C-14673",
+      "label": "Host Says Erika's Long Beach Speech Called Her That Church Her Sunday Church and Was Strongly Pro-Israel",
+      "claim": "The host says that in the Long Beach speech Erika called the church her Sunday church and gave a remarkably pro-Israel call to arms, which the host found odd while Charlie was under donor pressure and holding the line against Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10264"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:10",
+      "investigative_direction": "Obtain the recording or transcript of Erika's July 14 remarks.",
+      "transcript_snippet": "But in this speech, Erika says that this is her Sunday church. And I found it bizarre or strange that the speech was remarkably pro- Israel about a call to arms for Israel.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14674",
+      "ref": "C-14674",
+      "label": "Host Says a Campus Tour Stop Is Normally Booked at Least a Semester Ahead",
+      "claim": "The host says that, from touring with Charlie every year, a campus tour event does not come together by submitting and instantly being honored: there is a long waiting list that begins at least the semester before.",
+      "anchored_artifacts": [
+        "A-2084.1"
+      ],
+      "related_nodes": [
+        "N-10675",
+        "N-10012"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:32:05",
+      "investigative_direction": "Compare the UVU event request timeline with TPUSA's other fall 2025 stops; ask TPUSA for typical lead times.",
+      "transcript_snippet": "This is not when a campus tour comes together. You don't submit and then you're instantly honored. There is a very long waiting list um to get Charlie to speak",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14675",
+      "ref": "C-14675",
+      "label": "Host Says the Yellow Egyptian Plane Flew Cairo to Paris to Omaha and Lincoln in July",
+      "claim": "The host says the yellow Egyptian plane then flew from Cairo through Paris, as always, to Omaha, Nebraska and then Lincoln, Nebraska.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [
+        "N-10276",
+        "N-10672"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:32:20",
+      "investigative_direction": "Check SU-BTT flight history for the July 2025 Omaha and Lincoln legs.",
+      "transcript_snippet": "We have our yellow plane then comes in from Cairo to through to Paris as always uh to Omaha, Nebraska and then to Lincoln, Nebraska.",
+      "supports_claim_refs": [
+        "C-9776"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14676",
+      "ref": "C-14676",
+      "label": "Host Says Charlie Vacationed in Maine for a Couple of Weeks From July 20 and Went Off Radar",
+      "claim": "The host says that from July 20, 2025 Charlie Kirk vacationed with his family in Maine for a couple of weeks and went off radar.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:30",
+      "investigative_direction": "Check Kirk's public posts and travel for July 20 to early August 2025.",
+      "transcript_snippet": "On July 20th, Charlie then vacations in Maine for a couple of weeks with his family. He goes off radar.",
+      "supports_claim_refs": [
+        "C-10980"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14677",
+      "ref": "C-14677",
+      "label": "Host Says Mikey McCoy and His Wife Joined the Kirks in Maine for the First Time",
+      "claim": "The host says Mikey McCoy and his wife Elizabeth joined the Kirk family in Maine for the first time, when the behind-the-scenes content of Charlie walking with his children was captured.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:45",
+      "investigative_direction": "Check McCoy's and the Kirks' posts from the Maine trip.",
+      "transcript_snippet": "Mikey McCoy and his wife Eliza uh Elizabeth join them for the first time and that's when this BTS content is being caught of Charlie walking with his children.",
+      "supports_claim_refs": [
+        "C-10980"
+      ],
+      "mentions_person_refs": [
+        "N-194",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14678",
+      "ref": "C-14678",
+      "label": "Host Says Nebraska Announced a Trade Trip With Egypt and a Private Off-Record Meeting on July 22",
+      "claim": "The host says that on July 22, 2025 it was announced Nebraska would do a trade and investment trip with Egypt, and that local media reported a private off-record meeting with international professionals whom Secretary of State Bob Evnen met and who are not named.",
+      "anchored_artifacts": [
+        "A-2083.1"
+      ],
+      "related_nodes": [
+        "N-10276"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:00",
+      "investigative_direction": "Obtain the Nebraska Secretary of State's calendar and trade-mission announcement for July 2025 and names of the Egyptian participants.",
+      "transcript_snippet": "it is announced that Nebraska is going to do a trade and investment trip with Egypt. There was some private off-record meeting that took place with international professionals per the local media.",
+      "mentions_person_refs": [
+        "N-283"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14679",
+      "ref": "C-14679",
+      "label": "Host Says Refi Became the Number One Sponsor of Charlie's Fall Tour on July 25 Despite an Existing Yearlong Contract",
+      "claim": "The host says that on July 25, 2025 the sponsor she calls Refi became the number one sponsor of Charlie Kirk's fall tour even though it had already signed a contract covering all of 2025 (AmFest, YWLS and the spring tour), so it was done as a late addendum.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [
+        "N-10870"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:33:28",
+      "investigative_direction": "Obtain the sponsorship contract and addendum and compare with the tour announcements.",
+      "transcript_snippet": "It's weird because they had already signed a contract for the entire year. What I mean by that is they signed a contract which included Amfest, included YWLS."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14680",
+      "ref": "C-14680",
+      "label": "Host Says the Hamptons Retreat and Intervention Ran August 5 to 7 and Charlie Held the Line",
+      "claim": "The host says the Hamptons retreat and, in Charlie's words, 'intervention' over Israel took place August 5 through 7, 2025, where Charlie held the line.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [
+        "N-10673",
+        "N-10027"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:34:40",
+      "investigative_direction": "Compare with other accounts of the retreat dates (earlier episodes give August 4-5); obtain attendee schedules.",
+      "transcript_snippet": "August 5th through to the 7th is the now infamous Hampton's retreat and quote unquote intervention. Charlie's words not mine over Israel where Charlie held the line",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14681",
+      "ref": "C-14681",
+      "label": "Host Says Charlie Told Megyn Kelly in the Following Days That People Called Him Anti-Semitic",
+      "claim": "The host says Charlie Kirk appeared on Megyn Kelly's podcast in the days after the Hamptons retreat upset, saying people were calling him anti-Semitic and that they were going to lose everybody.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [
+        "N-10673"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:00",
+      "investigative_direction": "Review the Megyn Kelly Show episode with Kirk after the Hamptons weekend for the quoted remarks.",
+      "transcript_snippet": "when he appeared on Megyn Kelly's um podcast in the following days where he was upset and saying people were calling him anti-Semitic and that they were going to lose everybody.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-46"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14682",
+      "ref": "C-14682",
+      "label": "Host Says Dhillon Law Group Drafted Paperwork for Havas Media on Behalf of Clock Tower LLC on August 27",
+      "claim": "The host says that on August 27 Dhillon Law Group drafted paperwork for Havas Media on behalf of Clock Tower LLC, which she describes as legally geofencing and spreading propaganda on behalf of Israel.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [
+        "N-10910",
+        "N-10901",
+        "N-10722",
+        "N-10652",
+        "N-10653"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:35:20",
+      "investigative_direction": "Retrieve the FARA registration or filing for Havas Media and Clock Tower LLC and its date.",
+      "transcript_snippet": "August 27th, we told you about Dhillon Law Group drafting paperwork for uh Havas Media on behalf of Clock Tower LLC."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14683",
+      "ref": "C-14683",
+      "label": "Host Says Charlie Sent a Message on September 9 Declaring He Had Left the Pro-Israel Cause",
+      "claim": "The host says that on September 9, 2025 Charlie Kirk sent a message declaring he had left the pro-Israel cause because of intense bullying and financial pressure.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:30",
+      "investigative_direction": "Obtain the group-chat message and its timestamp.",
+      "transcript_snippet": "September 9th is when Charlie sends a message declaring he has left the pro-Israel cause due to their intense bullying and financial pressure.",
+      "supports_claim_refs": [
+        "C-1376"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14684",
+      "ref": "C-14684",
+      "label": "Host Says Charlie Had a Zoom With Josh Hammer and a Rabbi, Then Texted That They Were Going to Kill Him",
+      "claim": "The host says that after the message Charlie Kirk had a Zoom call with Josh Hammer and a rabbi from Israel, and later that evening sent messages saying an unknown party was going to kill him.",
+      "anchored_artifacts": [
+        "A-2076.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:40",
+      "investigative_direction": "Obtain the Zoom invite and the text messages with timestamps from recipients.",
+      "transcript_snippet": "Afterward, he has a Zoom call with Josh Hammer and a rabbi from Israel. Sometime later that evening, he sends out messages declaring that an unknown they are going to kill him.",
+      "supports_claim_refs": [
+        "C-9340"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-55"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14685",
+      "ref": "C-14685",
+      "label": "Host Says Turning Point Claims the Kill Message Meant a Rooftop and She Rejects It",
+      "claim": "The host says Turning Point says Charlie's message that they were going to kill him referred to a rooftop, and that she does not believe it or that he was worried about transgender people, until the actual messages are produced.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:50",
+      "investigative_direction": "Obtain the actual messages; ask TPUSA to state where the rooftop explanation originated.",
+      "transcript_snippet": "Turning Point says he meant on a rooftop. That's what he meant. I I don't think so. I don't think that he was worried about transgendered people.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14686",
+      "ref": "C-14686",
+      "label": "Host Says Netanyahu Declared in a Post-Assassination PR Blitz That Israel Did Not Kill Charlie",
+      "claim": "The host says that after the assassination Netanyahu declared, in another PR blitz, that Israel did not kill Charlie Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:36:10",
+      "investigative_direction": "Locate Netanyahu's statements denying Israeli involvement and their dates.",
+      "transcript_snippet": "after Charlie's assassinated and BB declares again in another little PR blitz that Israel didn't kill him.",
+      "mentions_person_refs": [
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14687",
+      "ref": "C-14687",
+      "label": "NYT Says Six People Rode in a Five-Seat Car Driven by 21-Year-Old Romney",
+      "claim": "Per the New York Times article the host reads, H. Dwayne Anderson took his wife, two missionaries and a French Mormon couple, six people in a car that comfortably seats five, driven by 21-year-old missionary Mitt Romney.",
+      "anchored_artifacts": [
+        "A-2081.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:37:50",
+      "investigative_direction": "Read the New York Times article on the 1968 France crash.",
+      "transcript_snippet": "He took his wife and two missionaries and a French Mormon couple, six people in a car that would have comfortably sat just five.",
+      "mentions_person_refs": [
+        "N-28",
+        "N-454"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14688",
+      "ref": "C-14688",
+      "label": "NYT Says Romney Was Seriously Injured and Briefly Thought Dead in the 1968 Crash",
+      "claim": "Per the New York Times article, Mitt Romney was seriously injured in the June 16, 1968 crash and was briefly thought to have been killed.",
+      "anchored_artifacts": [
+        "A-2081.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:38:33",
+      "investigative_direction": "Read the New York Times article on the 1968 France crash.",
+      "transcript_snippet": "Romney, who was seriously injured in the crash on June 16th, 1968, uh was briefly thought to have been killed",
+      "mentions_person_refs": [
+        "N-28"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14689",
+      "ref": "C-14689",
+      "label": "NYT Says Survivors Largely Confirm Romney's Account That He Could Not Have Avoided the Crash",
+      "claim": "Per the New York Times article, Romney has long said nothing could have been done to avoid the tragedy, and interviews with survivors and people involved in the aftermath largely confirm his description.",
+      "anchored_artifacts": [
+        "A-2081.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:38:40",
+      "investigative_direction": "Read the New York Times article on the 1968 France crash.",
+      "transcript_snippet": "has long said that there was nothing that he could have done to avoid the tragedy. Interviews with survivors and people who were directly involved in the accident aftermath largely confirm his description.",
+      "mentions_person_refs": [
+        "N-28"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14690",
+      "ref": "C-14690",
+      "label": "NYT Says Some Mormons Believe the Priest May Have Been Inebriated but It Is Unconfirmed",
+      "claim": "Per the New York Times article, many Mormons familiar with the accident believe the other driver, a Catholic priest, could have been inebriated, but that could not be confirmed.",
+      "anchored_artifacts": [
+        "A-2081.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:38:55",
+      "investigative_direction": "Read the New York Times article on the 1968 France crash; check French records on the priest.",
+      "transcript_snippet": "many of the Mormons that are familiar with the accident say they believe that the priest could have been inebriated, but that assertion could not be confirmed.",
+      "mentions_person_refs": [
+        "N-28"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14691",
+      "ref": "C-14691",
+      "label": "Host Says Erika Kirk Met With Megyn Kelly on November 22",
+      "claim": "The host says Erika Kirk met with Megyn Kelly on November 22, 2025.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:42:05",
+      "investigative_direction": "Check the date of the Megyn Kelly-Erika Kirk interview.",
+      "transcript_snippet": "That date where she met with Megyn Kelly was November 22nd.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-46"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14692",
+      "ref": "C-14692",
+      "label": "Host Says Her Inbox Shows the First Alert of Charlie Kirk Show Episodes Being Removed Was November 3",
+      "claim": "The host says she went through her inbox to find when she was first alerted that episodes were being removed from the Charlie Kirk Show, and that it began November 3, 2025.",
+      "anchored_artifacts": [
+        "A-3336.1"
+      ],
+      "related_nodes": [
+        "N-11400"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:42:15",
+      "investigative_direction": "Obtain the host's earliest emails and Wayback/Apple Podcasts captures of the Charlie Kirk Show feed before and after November 3.",
+      "transcript_snippet": "I went through my inbox and I went through to figure out when was the first day that we were alerted that they began removing episodes from the Charlie Kirk show. and they began that on November 3rd.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14693",
+      "ref": "C-14693",
+      "label": "Host Says Erika's Appointment Story Reversed Charlie's Public Views on Women Staying Home",
+      "claim": "The host says that just before Erika Kirk told, on Megyn Kelly, the story of Charlie appointing her, Turning Point deleted episodes, and she says the story reverses everything Charlie believed publicly about women staying home with their children and has him becoming a feminist weeks before he died.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10664",
+        "N-11400"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:42:27",
+      "investigative_direction": "Compare Charlie's public statements on women and work with the Aspen appointment story as Erika told it.",
+      "transcript_snippet": "Erika Kirk uh going out there and telling a story about Charlie appointing her, reversing course on everything he had ever believed in publicly about women staying at home with their children.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-46"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14694",
+      "ref": "C-14694",
+      "label": "Host Says Turning Point Deleted Episodes, Tweets and Q&A Sessions",
+      "claim": "The host says Turning Point moved to delete episodes of the Charlie Kirk Show, certain tweets and Q&A sessions from the internet, and calls it a fact.",
+      "anchored_artifacts": [
+        "A-3336.1"
+      ],
+      "related_nodes": [
+        "N-11400"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:42:50",
+      "investigative_direction": "Compare archived feeds and platform listings before and after November 2025 to identify removed episodes, tweets and Q&As.",
+      "transcript_snippet": "Turning Point moved to mysteriously delete all of these episodes. They deleted certain tweets. They deleted Q&A sessions from the internet. That is a fact, by the way."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14695",
+      "ref": "C-14695",
+      "label": "Host Says TPUSA Insiders and Viewers Alerted Her When Episodes Disappeared",
+      "claim": "The host says people at Turning Point told her they found the deletions strange, and a flurry of emails came from viewers who had saved links to Charlie episodes that were now gone.",
+      "anchored_artifacts": [
+        "A-3336.1"
+      ],
+      "related_nodes": [
+        "N-11400"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:05",
+      "investigative_direction": "Collect the emailed dead links and match them against platform archives.",
+      "transcript_snippet": "People at Turning Point told me when they began deleting episodes, they thought it was so strange. And then a flurry of emails came in of people alerting me that they had saved a link of Charlie cuz they had loved this episode and now it's gone and they can't access it.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14696",
+      "ref": "C-14696",
+      "label": "Host Says TPUSA Denied Deleting Anything and Blamed Apple's 100-Episode Limit",
+      "claim": "The host says Turning Point responded that the content is still on Rumble, nothing was deleted, and Apple only allows a hundred episodes at a time, and she says this is a lie because large catalogs like Joe Rogan's are available there.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11400"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:25",
+      "investigative_direction": "Check Apple Podcasts' actual per-feed episode limits, and compare the Charlie Kirk Show feed history.",
+      "transcript_snippet": "this stuff is still up on Rumble. We didn't delete anything. Apple has a limit. You can only put a hundred episodes at a time."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14697",
+      "ref": "C-14697",
+      "label": "Host Says Someone Sent Her an Archive of Charlie's Q&As That She Lost",
+      "claim": "The host says someone once sent her a link to a website that had archived all of Charlie's Q&As, and that she has lost the link.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11400"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:43:40",
+      "investigative_direction": "Search for public archives of Charlie Kirk campus Q&A recordings; ask the tipster to resend.",
+      "transcript_snippet": "I actually remember somebody sending me a link of someone who had archived all of Charlie's Q&As's and I lost it somewhere.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14698",
+      "ref": "C-14698",
+      "label": "Host Asks Viewers to Email Tips About the Charlie Q&A Archive",
+      "claim": "The host asks viewers who know of the Charlie Kirk Q&A archive to email tips@candaceowens.com or moretips@candaceowens.com.",
+      "anchored_artifacts": [
+        "A-3334.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:50",
+      "investigative_direction": "Track responses to the tip request; verify any archive link submitted.",
+      "transcript_snippet": "So if you have access or you are familiar with what I'm talking about, please email us tips@canniswowens. com or more tips@canniswowens. com.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14699",
+      "ref": "C-14699",
+      "label": "Host Says Some Believe Charlie Said Erika Would Do a Great Job in a 2022 Q&A About Politics",
+      "claim": "The host says some people believe Charlie said in a 2022 Q&A that Erika would do a great job, but that it concerned politics and had nothing to do with her taking over as CEO, and that she wants to find that alleged clip.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10664"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:44:09",
+      "investigative_direction": "Locate the 2022 Charlie Kirk Q&A video and transcript containing the remark and compare with the Aspen audio.",
+      "transcript_snippet": "Some people believe that Charlie said it in a Q&A uh back in 2022 that Erika would do a great job, but it was pertaining to uh politics and it had nothing to do with her taking over his place as CEO.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14700",
+      "ref": "C-14700",
+      "label": "Host Says the Charlie Kirk Show Now Presents Views Opposite to What Charlie Held at the End",
+      "claim": "The host says the Charlie Kirk Show continues to gaslight and is anything but the perspectives that Charlie Kirk held, especially at the end, and that BB Netanyahu's lying added to the anger.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:47:50",
+      "investigative_direction": "Compare Charlie Kirk Show episodes since September 2025 with Kirk's own statements on Israel in 2025.",
+      "transcript_snippet": "if we were not continuing to be gaslit by the Charlie Kirk show, which is anything but uh the perspectives that Charlie Kirk held, especially in the end, then maybe things would be different.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14701",
+      "ref": "C-14701",
+      "label": "Viewer Comment Says Tom Artiom Alexandrovich Left the US After a Nevada Child-Luring Arrest",
+      "claim": "A viewer comment read by the host says Tom Artiom Alexandrovich was allowed to leave the United States and return to Israel after being arrested in Nevada on felony child-luring charges, and the host agrees it happened because he is Israeli.",
+      "anchored_artifacts": [
+        "A-3335.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:48:22",
+      "investigative_direction": "Check Nevada court and DOJ records for the arrest, release and departure of Alexandrovich.",
+      "transcript_snippet": "Why was Tom Artiom Alexandrovich allowed to leave the United States and return to Israel after being arrested in in Nevada on felony childuring charges"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14702",
+      "ref": "C-14702",
+      "label": "Host Says the Israeli Citizen Caught Operating Illegal Biolabs Was Released With Charges Dropped",
+      "claim": "The host says she saw the previous day that the Israeli citizen caught operating illegal biolabs was released, and that the DOJ dropped all charges against him.",
+      "anchored_artifacts": [
+        "A-3335.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:48:50",
+      "investigative_direction": "Identify the defendant and check federal court dockets and DOJ statements on dismissal.",
+      "transcript_snippet": "In fact, didn't I just see yesterday that they also released the Israeli citizen that was caught operating illegal biolabs?"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14703",
+      "ref": "C-14703",
+      "label": "Host Says Accusations of Foreign Funding Have Cycled Through Qatar, Russia, Iran and Pakistan Without Proof",
+      "claim": "The host says critics have accused her of being funded by Qatar, Russia, Iran and Pakistan and never bring proof.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:49:40",
+      "investigative_direction": "Collect the original accusations and any documentation offered by the accusers.",
+      "transcript_snippet": "It was Qatar for a very long time. I was working for Russia, Qatar, Iran, Pakistan. They never bring a shred of proof because they can't.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14704",
+      "ref": "C-14704",
+      "label": "Viewer Says She Received a Text From a Virginia Area Code Asking How Utah Folks Feel About Israel",
+      "claim": "A viewer comment read by the host says the viewer received a text from a Virginia area code asking how Utah folks feel about the US relationship with Israel.",
+      "anchored_artifacts": [
+        "A-3335.2"
+      ],
+      "related_nodes": [
+        "N-10653"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:50:15",
+      "investigative_direction": "Collect the screenshot of the text and sender number; check political-texting vendors.",
+      "transcript_snippet": "Over this past weekend, I received a text from a Virginia area code asking how Utah folks feel about the United States relationship with Israel."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14705",
+      "ref": "C-14705",
+      "label": "Host Links the Unsolicited Israel Texts to FARA Filings and Geofencing",
+      "claim": "The host says that, per the FARA documents, such texts are what the geofencing is about: people are located and then followed up with.",
+      "anchored_artifacts": [
+        "A-3335.2"
+      ],
+      "related_nodes": [
+        "N-10653",
+        "N-10910"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:50:25",
+      "investigative_direction": "Read the FARA filings she refers to for geofencing and text-message scope and target states.",
+      "transcript_snippet": "Well, read those FARA docs. This is what it's about. You're somewhere. They're geofencing you. They're following up.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14706",
+      "ref": "C-14706",
+      "label": "Host Implies the Same Forces Took Out JFK, RFK and Other Catholics",
+      "claim": "Responding to a viewer comment noting JFK and Bobby Kennedy were Catholic until their assassination dates, the host says 'we definitely know who' is taking out all these Catholics, without naming anyone.",
+      "anchored_artifacts": [
+        "A-3335.3"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:52:00",
+      "investigative_direction": "Ask the host to name the actors; no document is cited.",
+      "transcript_snippet": "Yeah, we definitely know who is uh taking out all these Catholics for sure."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14707",
+      "ref": "C-14707",
+      "label": "Host Says the Plan Needed America to Be Protestant and Zionist and That Project Is Failing",
+      "claim": "The host says that Catholics remember what happened in Europe, that 'they' needed America to be Protestant and Zionist, and that the project is now failing as people wake up to the Zionist agenda in mega churches.",
+      "anchored_artifacts": [
+        "A-3335.3"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:52:45",
+      "investigative_direction": "Ask the host to specify who 'they' are; no document is cited.",
+      "transcript_snippet": "Needed America to be Protestant and Zionist. And now that broader project seems to be failing and people are waking up uh to the Zionist agenda in many of these mega churches."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14708",
+      "ref": "C-14708",
+      "label": "Viewer Comment Says Erika Went on a Scripted Media Tour Attacking the Host Instead of Texting Her",
+      "claim": "A viewer comment read by the host, with host agreement, says that instead of Erika texting her to stop, Erika went on a scripted media tour attacking the host and calling her a liar.",
+      "anchored_artifacts": [
+        "A-3335.4"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:52:55",
+      "investigative_direction": "List Erika Kirk's media appearances since the Blake Neff exchange and compare with the host's account.",
+      "transcript_snippet": "Since Blakey slithered into your comments last night, instead of Erika texting you to stop, she went on a scripted media tour attacking you and calling you a liar.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14709",
+      "ref": "C-14709",
+      "label": "Viewer Comment Says Erika Chose Bari Weiss's CBS to Declare Charlie's Support for Israel",
+      "claim": "A viewer comment read by the host says it was shady for Erika to pick Bari Weiss's CBS and declare Charlie's support for Israel; the host says she could not agree more.",
+      "anchored_artifacts": [
+        "A-3335.4"
+      ],
+      "related_nodes": [
+        "N-10334"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:53:00",
+      "investigative_direction": "Review the CBS interview with Erika Kirk and what she said about Charlie's position on Israel.",
+      "transcript_snippet": "Also, super shady for her to pick Bari Weiss's CBS and declared Charlie's support for Israel.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-282"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14710",
+      "ref": "C-14710",
+      "label": "Host Says Erika and Turning Point Have Her Number and She Was in Communication With Kolvet",
+      "claim": "The host says Erika Kirk and Turning Point have her number, and sarcastically says she 'wasn't in communication with Andrew Kolvet', implying that she was.",
+      "anchored_artifacts": [
+        "A-3335.4"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:53:10",
+      "investigative_direction": "Ask Kolvet whether he communicated with the host; the host holds the message history.",
+      "transcript_snippet": "Erika acting like Erika doesn't have my number. Turning Point doesn't have my number. Like, I wasn't in communication with Andrew Kolvet.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14711",
+      "ref": "C-14711",
+      "label": "Host Says She Will Be Off Air Next Week Because She Will Be in St. Petersburg",
+      "claim": "The host says her show will be off air next week because she will be in St. Petersburg.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:55:10",
+      "investigative_direction": "Check the host's travel and the show's release schedule for the week after May 27, 2026.",
+      "transcript_snippet": "reminding you that next week I will be dark uh because I will be in St. Petersburg.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-47",
+      "ref": "M-47",
+      "canonical_term": "Megachurches Look Funny",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 110,
+          "video_timestamp": "00:52:45",
+          "speaker_node_ref": "N-3",
+          "quote": "ng and people are waking up uh to the Zionist agenda in many of these mega churches. Ali768 wrote, \"Since Blakey slithered into your comments last ...",
+          "context": "Later reuse of Megachurches Look Funny in CKA seq 110.",
+          "confidence": "high",
+          "tags": [
+            "church",
+            "sarcasm",
+            "money",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 110,
+          "video_timestamp": "00:43:50",
+          "speaker_node_ref": "N-3",
+          "quote": "please email us tips@canniswowens. com or more tips@canniswowens. com.",
+          "context": "Host asks viewers to email tips about a lost archive of Charlie Kirk Q&As.",
+          "confidence": "high",
+          "tags": [
+            "tip line",
+            "DIA"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-81",
+      "ref": "M-81",
+      "canonical_term": "Bibi Net and Yahoo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 110,
+          "video_timestamp": "00:02:30",
+          "speaker_node_ref": "N-3",
+          "quote": "BBNet and Yahoo was making the rounds doing a ton of American podcasts",
+          "context": "Host's Netanyahu nickname as she opens the July 2025 podcast tour segment.",
+          "confidence": "high",
+          "tags": [
+            "nickname",
+            "Netanyahu"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-83",
+      "ref": "M-83",
+      "canonical_term": "Lo and Behold",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 110,
+          "video_timestamp": "00:09:05",
+          "speaker_node_ref": "N-3",
+          "quote": "Well, lo and behold, that same Egyptian plane took off, flew from Cairo always to Paris",
+          "context": "Ironic reveal marker before the April 2024 Cairo to Paris flight.",
+          "confidence": "high",
+          "tags": [
+            "sarcasm",
+            "planes"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-30",
+      "ref": "M-30",
+      "canonical_term": "Nothing to See Here",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 110,
+          "video_timestamp": "00:36:10",
+          "speaker_node_ref": "N-3",
+          "quote": "Nothing to see there.",
+          "context": "Host's sarcasm after Netanyahu's denial that Israel killed Charlie.",
+          "confidence": "high",
+          "tags": [
+            "sarcasm",
+            "Netanyahu"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-26",
+      "ref": "M-26",
+      "canonical_term": "Gaslight",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 110,
+          "video_timestamp": "00:43:10",
+          "speaker_node_ref": "N-3",
+          "quote": "And then Turning Point began lying and gaslighting as they always do, pretending that they didn't do this.",
+          "context": "Host accuses TPUSA of gaslighting over the deleted episodes.",
+          "confidence": "high",
+          "tags": [
+            "gaslight",
+            "TPUSA"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-342",
+      "ref": "M-342",
+      "canonical_term": "Tangled Web We Weave",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 110,
+          "video_timestamp": "00:22:56",
+          "speaker_node_ref": "N-3",
+          "quote": "it's quite a tangled web we weave",
+          "context": "Host closes the BCG and Gaza Humanitarian Foundation segment with the phrase.",
+          "confidence": "high",
+          "tags": [
+            "sarcasm",
+            "web"
+          ]
+        },
+        {
+          "episode": 110,
+          "video_timestamp": "00:46:39",
+          "speaker_node_ref": "N-3",
+          "quote": "it is a tangled web that we all weave",
+          "context": "Host reuses the phrase over the Pierre Delecto comment.",
+          "confidence": "high",
+          "tags": [
+            "sarcasm",
+            "web"
+          ]
+        }
+      ]
+    }
+  ]
 }

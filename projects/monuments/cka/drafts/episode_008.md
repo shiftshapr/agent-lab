@@ -1117,13 +1117,13 @@ Investigative Direction: Build a list of every early eyewitness and video sharer
 
 ---
 
-**C-12002** Host Says Calera Engineering Employees Live on the Block
+**C-12002** Host Says Caldera Engineering Employees Live on the Block
 
 Claim Timestamp: 00:02:43
 
 Claim: The host says her re-examination of the early witnesses led her to Caldera Engineering (transcribed Calera/Calira), whose owner owned a couple of houses on that block, and that many of its employees live on that block.
 
-Transcript Snippet: And we found out that Calera Engineering, a lot of the employees live on that block.
+Transcript Snippet: And we found out that Caldera Engineering, a lot of the employees live on that block.
 
 Anchored Artifacts: 
 Mentions: N-3

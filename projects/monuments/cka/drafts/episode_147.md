@@ -11,7 +11,12 @@
 - **Transcript SHA-256**: db9aacd73c214666d6ea30eb8af985ba56f6e0ed6eeeeaaef2eeae0d410df01e
 
 - **Episode Ledger Summary**:
-  - Reused Nodes Appearing: N-10825, N-10820
+  - Tip-minted Nodes (supplement_2026-10g): N-11406
+  - Hole-minted Nodes (reintro-ep147): N-10845
+  - Tip-minted Nodes (reintro-ep147): N-11215
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10g): C-14797–C-14853
+  - Reused Nodes Appearing: N-10825, N-10820, N-17, N-18, N-138, N-206, N-274, N-334, N-491, N-10021, N-10025, N-10198, N-10320, N-10338, N-10389, N-10550, N-10566, N-10632, N-10651, N-10686, N-10715, N-10818, N-10888, N-11061, N-11208, N-11262, N-11321
  - New Nodes Introduced: N-10821, N-10822, N-10823, N-10824, N-10826
  - Reused Nodes Appearing: N-372, N-431, N-498, N-510
  - (see registers)
@@ -262,6 +267,33 @@ Confidence: medium
 
 ---
 
+**A-3346** Decentralized Intelligence Agency Tip Line Bundle
+
+**A-3346.1** Host verbal reference to the tips email address tips@candaceowens.com asking viewers to identify unidentified security team members
+
+Quoted text: "send us a email to tips@candaceowens. com"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:11:45
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-14807, N-3, N-11321*
+
+---
+
+**A-3347** Justin Davis Photo Bundle
+
+**A-3347.1** Photo of Justin Davis shown on screen, which the host says shows him in a navy blue or black shirt
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:12:54
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-14809, N-498, N-3*
+
+---
 
 ## IV. Node Register
 
@@ -364,6 +396,335 @@ Episode Count: 1
 Investigative Pressure: High
 
 *Related: A-2327, A-2327.1, C-3358, C-3359, C-3360, C-3361, N-40*
+
+---
+
+**N-1** Charlie Kirk
+
+Subject of the assassination; the host reports his fears, predictions and the testimony about the security response.
+
+*Related: C-14806, C-14809, C-14810, C-14811, C-14813, C-14815, C-14816, C-14817, C-14819, C-14823, C-14826, C-14834, C-14836, C-14839, C-14841, C-14843, C-14844, C-14845, C-14846, C-14847, C-14851, C-14853*
+
+---
+
+**N-2** Erika Kirk
+
+Widow and TPUSA CEO; the host says she has not acknowledged lies and is doing the opposite of what Kirk expressed.
+
+*Related: C-14824, C-14850, C-14851*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: A-3346, A-3347, C-14797, C-14798, C-14799, C-14800, C-14803, C-14805, C-14807, C-14814, C-14818, C-14819, C-14831, C-14833, C-14837, C-14840, C-14844, C-14845, C-14847, C-14848, C-14849, C-14850, C-14852, C-14853*
+
+---
+
+**N-17** Rob McCoy
+
+Rob McCoy; Mikey McCoy's father, called by Mikey per Neff's testimony (rendered 'Robin McCoy' in the transcript).
+
+*Related: C-14829*
+
+---
+
+**N-18** Andrew Wilson
+
+Andrew Wilson; the host says TPUSA changed his opinions.
+
+*Related: C-14840*
+
+---
+
+**N-40** Tyler Robinson
+
+Defendant; the plea, the family's belief in his innocence and the defense arguments about political motive.
+
+*Related: C-14798, C-14799, C-14801, C-14802, C-14803, C-14804, C-14805, C-14831, C-14835, C-14836, C-14837, C-14838, C-14839, C-14847*
+
+---
+
+**N-54** Lance Twiggs
+
+Lance Twiggs; the recipient of the texts behind Counts 5 and 6 and the subject of the defense's description of his evidence.
+
+*Related: C-14804, C-14835, C-14838*
+
+---
+
+**N-126** Mike Mitchell
+
+Mike Mitchell; named in the claim that Robinson confessed to him.
+
+*Related: C-14802*
+
+---
+
+**N-138** Judge Tony F. Graf Jr.
+
+Judge who issued the bindover ruling.
+
+*Related: C-14800*
+
+---
+
+**N-162** Blake Neff
+
+Blake Neff; his testimony about the shot and the aftermath and the host's questions about his account.
+
+*Related: C-14812, C-14813, C-14822, C-14825, C-14826, C-14827, C-14828, C-14829, C-14830, C-14842*
+
+---
+
+**N-166** Matt Walsh
+
+Matt Walsh; the host says she rebuked him over his post about the defense lawyer.
+
+*Related: C-14797, C-14832*
+
+---
+
+**N-194** Mikey McCoy
+
+Mikey McCoy; his calls and movements after the shot, per Neff's testimony and the footage.
+
+*Related: C-14811, C-14822, C-14824, C-14825, C-14826, C-14827, C-14828, C-14829, C-14841*
+
+---
+
+**N-206** Lindsay Clancy
+
+Lindsay Clancy; the host explains why she does not cover the case.
+
+*Related: C-14848*
+
+---
+
+**N-212** Jack Hibbs
+
+Jack Hibbs; his statements about Israel are cited in the Patio comment and the 'so much blood' attribution.
+
+*Related: C-14846*
+
+---
+
+**N-270** Brian Harpole
+
+Brian Harpole; placed in the Navigator and cited for his no-threats statement.
+
+*Related: C-14808, C-14852, C-14853*
+
+---
+
+**N-274** Dan Flood
+
+Dan Flood; placed by the host in the Navigator.
+
+*Related: C-14808*
+
+---
+
+**N-334** Baron Coleman
+
+Baron Coleman; he received the TikTok clip and showed it to the host.
+
+*Related: C-14818*
+
+---
+
+**N-431** Richard Novak
+
+Defense counsel whose probable-cause argument was clipped on X.
+
+*Related: C-14832, C-14834, C-14835, C-14836*
+
+---
+
+**N-491** Justin Baldoni
+
+Justin Baldoni; cited with the Lively case as a past series.
+
+*Related: C-14849*
+
+---
+
+**N-510** Nate Walker
+
+Nate Walker; seen upstairs with Christopher and counted among those at the hospital.
+
+*Related: C-14818, C-14825*
+
+---
+
+**N-10021** Robinson Confession and Arrest Discrepancy
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14802, C-14803*
+
+---
+
+**N-10025** Israel Lobby Pressure on Conservative Figures
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14846*
+
+---
+
+**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14841*
+
+---
+
+**N-10320** Charlie Kirk's Pre-Death Messages (Night Before Assassination)
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14816, C-14853*
+
+---
+
+**N-10338** Mikey McCoy Post-Shooting Phone Call Sequence
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14824, C-14829*
+
+---
+
+**N-10389** Charlie Kirk Premonition Dreams
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14844, C-14845*
+
+---
+
+**N-10550** Blake Neff "Two Phones" Implication
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14828*
+
+---
+
+**N-10566** Tyler Robinson Confession Narrative Discrepancy
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14798, C-14799, C-14802, C-14804*
+
+---
+
+**N-10632** Tyler Robinson's Grandfather's Position vs. Family Narrative
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14805*
+
+---
+
+**N-10651** Brian Harpole Lawsuit Coordination Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14852*
+
+---
+
+**N-10686** Hospital Transport Sequence Discrepancy
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14809*
+
+---
+
+**N-10715** Blake Neff September 10th Movement Discrepancy
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14812, C-14813, C-14822, C-14826, C-14827*
+
+---
+
+**N-10818** Jack Hibbs Sequence-of-Events Discrepancy
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14846*
+
+---
+
+**N-10845** Blake Neff Censorship Statement
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14842*
+
+---
+
+**N-10888** Department of War
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14798*
+
+---
+
+**N-11061** Restaurantology Event Green Room Attendance Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14810*
+
+---
+
+**N-11208** Timpanogos Hospital Group Arrival Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14825*
+
+---
+
+**N-11215** UVU Security Team Conduct and Ticket-Count Communication
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14819*
+
+---
+
+**N-11262** Andrew Wilson TPUSA Debate Training Engagement
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-14840*
+
+---
+
+**N-11321** Kirk Security Team Name Identification
+
+Existing topic reused for new claims in this episode.
+
+*Related: A-3346, C-14806, C-14807*
+
+---
+
+**N-11406** Security Vehicle Block-In Question
+
+Node Type: Topic
+The host's argument that the security detail parked its own vehicles in a way that blocked them in at UVU, while Kirk's vehicle could leave.
+
+*Related: C-14823*
 
 ---
 
@@ -873,6 +1234,919 @@ Investigative Direction: Keep as DIA structure metaphor claim alongside M-12 bra
 
 ---
 
+**C-14797** Host Says She Rebuked Matt Walsh on X Over a Disingenuous Narrative
+
+Claim Timestamp: 00:00:30
+
+Claim: The host says that on the day before the episode she publicly rebuked her former colleague Matt Walsh on X over what she calls one of the more disingenuous narratives about the Tyler Robinson case.
+
+Transcript Snippet: I did actually have to slap down my former colleague Matt Walsh when he perpetuated one of the more disingenuous narratives out there.
+
+Anchored Artifacts: 
+Mentions: N-3, N-166
+Related Nodes: N-10824
+Tags: relevance:context
+Investigative Direction: Capture the host's X reply to Walsh from the day before and Walsh's original post.
+
+---
+
+**C-14798** Host Says the Not-Guilty Plea Contradicts the Claim That Tyler's Father Turned Him In Over a Confession
+
+Claim Timestamp: 00:01:10
+
+Claim: The host says Robinson's not-guilty plea runs counter to claims from what she calls Department of War propagandists that Tyler's father turned him in because Tyler confessed.
+
+Transcript Snippet: runs counter to the extraordinary claims made by the Department of War propagandists that Tyler's dad turned him in because Tyler confessed to his crime
+
+Anchored Artifacts: 
+Mentions: N-40, N-3
+Related Nodes: N-10888, N-10566
+Supports: C-5041
+Tags: relevance:core
+Investigative Direction: Collect the original statements from the named influencers that the father turned Robinson in over a confession and compare them with the plea record.
+
+---
+
+**C-14799** Host Says Tyler Told His Father He Was Not Guilty and His Father Believes Him
+
+Claim Timestamp: 00:01:40
+
+Claim: The host says Tyler Robinson told his father he was not guilty, that his father believes him, and that Tyler went to the police station peaceably after being told he would be brought in either way.
+
+Transcript Snippet: Tyler told his father that he was not guilty. His father believes him.
+
+Anchored Artifacts: 
+Mentions: N-40, N-3
+Related Nodes: N-10566
+Supports: C-5041
+Tags: relevance:core
+Investigative Direction: Identify the host's source for the father's account and look for any on-record statement by the Robinson family.
+
+---
+
+**C-14800** Host Says Reliable Hearsay Was Permissible at the Bindover Stage
+
+Claim Timestamp: 00:02:30
+
+Claim: The host says the court's finding was unsurprising because reliable hearsay is the standard at this stage and was permissible.
+
+Transcript Snippet: reliable hearsay is the standard. It was permissible at that stage.
+
+Anchored Artifacts: 
+Mentions: N-3, N-138
+Related Nodes: N-10825
+Supports: C-7656
+Tags: relevance:context
+Investigative Direction: Check Utah Rule 1102 and the bindover order for the hearsay standard applied.
+
+---
+
+**C-14801** Host Says the Defense Moved to Dismiss Only Three of the Seven Charges
+
+Claim Timestamp: 00:02:40
+
+Claim: The host says the defense filed to have only three of the seven charges dismissed on the basis of the laws on the books, because at the dismissal stage the defense engages only with the state's arguments.
+
+Transcript Snippet: the defense only filed to have three of the seven charges dismissed based on the laws on the books
+
+Anchored Artifacts: 
+Mentions: N-40
+Tags: relevance:context
+Investigative Direction: Obtain the defense motion to dismiss and confirm which three counts it targeted.
+
+---
+
+**C-14802** Host Says Influencers Claimed Robinson Confessed to His Parents and That They Admitted It in Written Statements
+
+Claim Timestamp: 00:08:55
+
+Claim: The host says influencers told the audience that Tyler Robinson confessed to his parents when he got home and that his parents admitted this in written statements supporting the prosecution, and that she has said none of this is true.
+
+Transcript Snippet: He confessed it to his parents when he got to his house. At other points you were told that his like his parents admitted this in written statements in support of their son's prosecution.
+
+Anchored Artifacts: 
+Mentions: N-40, N-126
+Related Nodes: N-10566, N-10021
+Supports: C-5041
+Tags: relevance:core
+Investigative Direction: Locate the written parental statements, if any exist in the court record, and the posts first making the claim.
+
+---
+
+**C-14803** Host Says the Family Went to the Police Station After Being Told They Had No Other Choice
+
+Claim Timestamp: 00:09:30
+
+Claim: The host says Tyler Robinson's father went with him to the police station only after the family was told the choice was to come in the nice way or have SWAT at the door, and that the father believes his son is innocent.
+
+Transcript Snippet: Yes, he went with his son to the police station after they were told they had no other choice.
+
+Anchored Artifacts: 
+Mentions: N-40, N-3
+Related Nodes: N-10021
+Supports: C-5041
+Tags: relevance:core
+Investigative Direction: Seek the probable-cause affidavit or police reports for the circumstances and timing of the surrender and any SWAT staging.
+
+---
+
+**C-14804** Host Says Influencers Now Claim They Only Ever Said Robinson Confessed to Lance
+
+Claim Timestamp: 00:09:50
+
+Claim: The host says influencers are now pivoting to the position that they only ever said Robinson confessed to Lance Twiggs, which she says is false.
+
+Transcript Snippet: we only ever said that he confessed to Lance
+
+Anchored Artifacts: 
+Mentions: N-40, N-54
+Related Nodes: N-10566
+Tags: relevance:core
+Investigative Direction: Compare earlier posts and shows by the influencers with this later framing; check the charging documents for any alleged confession to Twiggs.
+
+---
+
+**C-14805** Host Says Robinson's Parents and Grandparents Do Not Believe He Is Guilty
+
+Claim Timestamp: 00:10:20
+
+Claim: The host says she has told viewers that Tyler Robinson would plead not guilty and that his parents and grandparents do not think he is guilty.
+
+Transcript Snippet: his parents don't think he's guilty and his grandparents don't think he's guilty
+
+Anchored Artifacts: 
+Mentions: N-40, N-3
+Related Nodes: N-10632
+Tags: relevance:core
+Investigative Direction: Find on-record statements from the parents and grandparents; the grandfather's courthouse remarks are covered in earlier episodes.
+
+---
+
+**C-14806** Host Says Alex Faria Rode in the Lead Black Jeep Wagoneer Security Vehicle
+
+Claim Timestamp: 00:11:40
+
+Claim: The host says the lead security vehicle on the left of the UVU lot diagram was a black Jeep Wagoneer carrying Alex Faria and other members of Charlie Kirk's security team.
+
+Transcript Snippet: Alex Faria is in this vehicle. That's one of the security members plus other members on the Charlie's security team.
+
+Anchored Artifacts: A-2330
+Mentions: N-1
+Related Nodes: N-10820, N-11321
+Tags: relevance:core
+Investigative Direction: Match the named security members to vehicles using the security testimony, TPUSA staff lists and the video; confirm the spelling of Faria.
+
+---
+
+**C-14807** Host Solicits Tips to Identify Unidentified Security Team Members
+
+Claim Timestamp: 00:11:45
+
+Claim: The host asks viewers to send her the identity of an unidentified man in a bright blue short-sleeve shirt in the security team photo, via X or the tips email address, and says she wants to complete the chart to keep tracking people on that day.
+
+Transcript Snippet: send us a email to tips@candaceowens. com
+
+Anchored Artifacts: A-3346.1
+Mentions: N-3
+Related Nodes: N-11321, N-10820
+Tags: relevance:core
+Investigative Direction: Check whether tips arrived identifying the men and whether later episodes name them.
+
+---
+
+**C-14808** Host Says Justin Davis Drove the Lincoln Navigator With Dan Flood and Brian Harpole Aboard
+
+Claim Timestamp: 00:12:30
+
+Claim: The host says the Lincoln Navigator behind the Wagoneer was driven by Justin Davis, with Dan Flood and Brian Harpole in that vehicle.
+
+Transcript Snippet: The driver of that Lincoln Navigator is Justin Davis, okay? Justin, this is extremely important. Dan Flood's in that vehicle, Brian Harpole is in that vehicle
+
+Anchored Artifacts: A-2330
+Mentions: N-498, N-274, N-270
+Related Nodes: N-10820
+Tags: relevance:core
+Investigative Direction: Cross-check the vehicle assignments against Harpole's and Flood's own accounts and against hospital arrival video.
+
+---
+
+**C-14809** Host Says Justin Davis Is the Driver Who Takes Charlie to the Hospital
+
+Claim Timestamp: 00:12:40
+
+Claim: The host says Justin Davis is the security vehicle driver who will eventually take Charlie Kirk to the hospital, and shows a photo of him.
+
+Transcript Snippet: he's going to eventually be the driver that takes Charlie to the hospital.
+
+Anchored Artifacts: A-3347.1
+Mentions: N-498, N-1
+Related Nodes: N-10823, N-10686
+Tags: relevance:core
+Investigative Direction: Compare against testimony and hospital footage about who drove Kirk and in which vehicle.
+
+---
+
+**C-14810** Host Says the Core Security Team Traveled Separately From Charlie Kirk
+
+Claim Timestamp: 00:13:20
+
+Claim: The host says the core security team was not with Charlie Kirk in Salt Lake City and arrived independently of him, while he attended the restaurantology event.
+
+Transcript Snippet: the core security team was was not with Charlie Kirk in Salt Lake City
+
+Anchored Artifacts: A-2330
+Mentions: N-1
+Related Nodes: N-10820, N-11061
+Tags: relevance:core
+Investigative Direction: Obtain security testimony on who traveled with Kirk and who was already at UVU.
+
+---
+
+**C-14811** Host Says Kirk Arrived in a Denali With Mikey McCoy and a Driver Named Christopher
+
+Claim Timestamp: 00:14:10
+
+Claim: The host says the front Yukon Denali was the one Charlie Kirk arrived and departed in, that Mikey McCoy arrived in it, and that its driver is known only by the first name Christopher.
+
+Transcript Snippet: we know that he shows up with Mikey McCoy in that vehicle. And we also know that the person driving it, we only have a first name for this guy, but his name is Christopher
+
+Anchored Artifacts: A-2330
+Mentions: N-1, N-194
+Related Nodes: N-10820, N-10821
+Tags: relevance:core
+Investigative Direction: Identify Christopher's full name and role through TPUSA security rosters and testimony.
+
+---
+
+**C-14812** Host Says Danny Phillip Drove the Second Denali With Blake Neff in the Back Seat
+
+Claim Timestamp: 00:14:20
+
+Claim: The host says the second Denali was driven by Danny Phillip with Blake Neff in the back seat, not the front passenger seat.
+
+Transcript Snippet: when they pull up, you have Danny Phillip driving, and you have Blake Neff in the back seat.
+
+Anchored Artifacts: A-2330
+Mentions: N-372, N-162
+Related Nodes: N-10820, N-10715
+Tags: relevance:core
+Investigative Direction: Confirm seating from arrival video and from Neff's and Phillip's testimony.
+
+---
+
+**C-14813** Host Says Blake Neff Is Evasive About Who He Arrived With and What He Did in Salt Lake City
+
+Claim Timestamp: 00:14:50
+
+Claim: The host says Blake Neff is weird in discussing how he arrived at UVU and who he was with, and does not remember what they did in Salt Lake City with Charlie.
+
+Transcript Snippet: Blake is very weird about discussing their arrival, who he was with. And also, when they were in Salt Lake City with Charlie, he doesn't remember what they did
+
+Anchored Artifacts: A-2330
+Mentions: N-162, N-372, N-1
+Related Nodes: N-10715
+Tags: relevance:core
+Investigative Direction: Compare Neff's testimony and public statements about his arrival with his itinerary records.
+
+---
+
+**C-14814** Host Says the Hyundai Palisade Was the TPUSA Vehicle Parked on the Far Right
+
+Claim Timestamp: 00:15:10
+
+Claim: The host says that based on footage she has examined, the Hyundai Palisade on the far right of the diagram is the TPUSA vehicle and stayed parked there; she does not know who drove it.
+
+Transcript Snippet: that is the TPUSA vehicle and that kind of stays parked on the far right side
+
+Anchored Artifacts: A-2330
+Mentions: N-3
+Related Nodes: N-10820
+Tags: relevance:core
+Investigative Direction: Identify the Palisade's driver and registration from video and TPUSA vehicle records.
+
+---
+
+**C-14815** Host Says Kirk Was in the Vehicle Within 45 Seconds, So Keys Would Have Had to Be Found
+
+Claim Timestamp: 00:15:50
+
+Claim: The host says Charlie Kirk was put in the vehicle within 45 seconds, and that a car carrying his belongings would normally be locked, so Justin Davis would have had to find Christopher and get his keys.
+
+Transcript Snippet: they get Charlie in that car within 45 seconds, right?
+
+Anchored Artifacts: A-2330
+Mentions: N-1, N-498
+Related Nodes: N-10822
+Tags: relevance:core
+Investigative Direction: Time the sequence from the shot to loading using the available footage.
+
+---
+
+**C-14816** Host Says TPUSA Side Now Claims Kirk Told Security to Be on Him and No One Else
+
+Claim Timestamp: 00:16:40
+
+Claim: The host says people are now saying Charlie Kirk went further and told his security personnel they needed to be on him and no one else.
+
+Transcript Snippet: now they're saying that Charlie even took it a step further and said he wanted to make sure his security pers- people knew that they needed to be on him and no one else.
+
+Anchored Artifacts: 
+Mentions: N-1
+Related Nodes: N-10320
+Supports: C-3368
+Tags: relevance:core
+Investigative Direction: Identify who is making the claim and when it first appeared.
+
+---
+
+**C-14817** Host Says Christopher Was Charlie's Main Security Person
+
+Claim Timestamp: 00:16:50
+
+Claim: The host says the person Charlie Kirk's main security person arrived with that day was Christopher, the driver of Kirk's Denali.
+
+Transcript Snippet: Charlie's main security person who he shows up with is this person, Christopher.
+
+Anchored Artifacts: 
+Mentions: N-1
+Related Nodes: N-10821
+Tags: relevance:core
+Investigative Direction: Confirm Christopher's role on Kirk's detail from security testimony.
+
+---
+
+**C-14818** Host Says the Upstairs Clip Reached Her via TikTok and Baron Coleman
+
+Claim Timestamp: 00:17:30
+
+Claim: The host says the clip showing Christopher and Nate Walker heading upstairs was captured by someone on TikTok who she thinks sent it to Baron Coleman, who then showed it to her.
+
+Transcript Snippet: somebody on Tik Tok, I think, sent it to Baron Coleman, and then Baron showed it to me
+
+Anchored Artifacts: A-2329.4
+Mentions: N-334, N-510, N-3
+Related Nodes: N-10821
+Tags: relevance:core
+Investigative Direction: Obtain the original TikTok post and uploader and verify date and location metadata.
+
+---
+
+**C-14819** Host Says She Has Never Seen This Much Security at a Single Campus Event
+
+Claim Timestamp: 00:18:55
+
+Claim: The host says she has never seen this much security at an event except at the large events such as end-of-year AmFest or SAS, and notes that Kirk feared for his life.
+
+Transcript Snippet: I've never seen this much security unless it was end of year Amfest, uh end of year SAS, like one of the big events that they do.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10820, N-11215
+Tags: relevance:core
+Investigative Direction: Compare headcount of the security team at UVU with prior campus events using security rosters and event photos.
+
+---
+
+**C-14820** Host Says the Keys Were Apparently Waiting in the Car or Given to Justin Davis Beforehand
+
+Claim Timestamp: 00:19:35
+
+Claim: The host says the keys were apparently either waiting in the car or somehow given to Justin Davis before the sequence in the footage.
+
+Transcript Snippet: That keys were apparently either waiting in the car or somehow given to Justin Davis before this, I don't know.
+
+Anchored Artifacts: A-2329.1
+Mentions: N-498
+Related Nodes: N-10822
+Tags: relevance:core
+Investigative Direction: Ask Davis and Christopher where the keys were and who handed them over.
+
+---
+
+**C-14821** Host Says Nobody Asked for Chris or the Keys and the Car Was Open and Ready
+
+Claim Timestamp: 00:22:45
+
+Claim: The host says that in the footage nobody asks where Chris is or for the keys, and the vehicle is open and ready for them.
+
+Transcript Snippet: No nobody's going, "Hey, where's Chris? We need the keys." It's just open and ready for them.
+
+Anchored Artifacts: A-2329.1
+Mentions: N-498
+Related Nodes: N-10822
+Tags: relevance:core
+Investigative Direction: Frame-by-frame review of the footage for any exchange of keys or request for them.
+
+---
+
+**C-14822** Host Says Blake Neff Leaves Danny Phillip Out of His Account of the Day
+
+Claim Timestamp: 00:23:50
+
+Claim: The host says that when Blake Neff tells the story of what happened he mysteriously keeps leaving Danny Phillip out, despite footage showing Danny running with Mikey while Blake is ahead.
+
+Transcript Snippet: he just mysteriously keeps leaving Danny Philip out of everything.
+
+Anchored Artifacts: A-2329.2
+Mentions: N-162, N-372, N-194
+Related Nodes: N-10715
+Tags: relevance:core
+Investigative Direction: Compare each of Neff's retellings with the footage and note when Phillip is and is not mentioned.
+
+---
+
+**C-14823** Host Says the Security Vehicles Blocked Themselves In
+
+Claim Timestamp: 00:25:30
+
+Claim: The host says the security team blocked in its own vehicles, which she calls incompetence, since the silver car on the right could have been arranged differently.
+
+Transcript Snippet: You're the security, you should not be blocked in, your vehicle should be able to get out to just as easily as Charlie's vehicle can get out.
+
+Anchored Artifacts: A-2330
+Mentions: N-1
+Related Nodes: N-11406
+Tags: relevance:core
+Investigative Direction: Review the parking footage to see who parked where and in what order.
+
+---
+
+**C-14824** Host Says Mikey McCoy as Chief of Staff Was Tasked With Updating Erika Kirk
+
+Claim Timestamp: 00:27:20
+
+Claim: The host says that, as told on air by Blake Neff's account, Mikey McCoy as Kirk's chief of staff was tasked with giving updates to Kirk's wife.
+
+Transcript Snippet: you're the his chief of staff and you are being tasked with providing updates to his wife as we were told
+
+Anchored Artifacts: A-2338
+Mentions: N-194, N-2
+Related Nodes: N-10338
+Supports: C-1547
+Tags: relevance:core
+Investigative Direction: Check Neff's testimony and Erika Kirk's own accounts of who told her and when.
+
+---
+
+**C-14825** Host Says Nate Walker, Blake Neff, Danny Phillip and Mikey McCoy Arrived at the Hospital
+
+Claim Timestamp: 00:27:40
+
+Claim: The host says it is known that Nate Walker, Blake Neff, Danny Phillip and Mikey McCoy were the four who arrived at the hospital.
+
+Transcript Snippet: We know that it's going to be Nate Walker and Blake and Danny Phillip and Mikey McCoy that arrived to the hospital.
+
+Anchored Artifacts: 
+Mentions: N-510, N-162, N-372, N-194
+Related Nodes: N-10823, N-11208
+Tags: relevance:core
+Investigative Direction: Pull hospital arrival footage and testimony to confirm who arrived and in what vehicle.
+
+---
+
+**C-14826** Neff Testifies the Security Team Went Into Action and Got Charlie Out
+
+Claim Timestamp: 00:29:05
+
+Claim: In testimony played on air, Blake Neff says he and Mikey leaving was not abandoning Charlie because Charlie had a security team that left immediately into action and got Charlie out.
+
+Transcript Snippet: Charlie had a security team. They all left immediately into action and they got Charlie out of there, which is what their job was to do.
+
+Anchored Artifacts: A-2338
+Mentions: N-162, N-1, N-194
+Related Nodes: N-10715
+Tags: relevance:core
+Investigative Direction: Obtain the full transcript of the Neff testimony and the hearing in which it was given.
+
+---
+
+**C-14827** Neff Testifies He Was Not With Mikey and Believes He Was Ahead of Him
+
+Claim Timestamp: 00:29:30
+
+Claim: In testimony played on air, Blake Neff says he does not remember being with Mikey as they ran, and thinks he was ahead of him as they left.
+
+Transcript Snippet: So, I was not with Mikey imme- or I don't remember being with him. I think I was ahead of him as we left.
+
+Anchored Artifacts: A-2338
+Mentions: N-162, N-194
+Related Nodes: N-10715
+Tags: relevance:core
+Investigative Direction: Compare against footage of Neff and McCoy in the first seconds after the shot.
+
+---
+
+**C-14828** Neff Testifies He Called His Mother After the Shooting
+
+Claim Timestamp: 00:30:50
+
+Claim: In testimony played on air, Blake Neff says that around the time Mikey called Erika he pulled out his phone and called his mother to say there had been a shooting.
+
+Transcript Snippet: I pull out my phone and I call my mom just to say Mom, there's been a a shooting you're going to see it on the news.
+
+Anchored Artifacts: A-2338
+Mentions: N-162, N-194
+Related Nodes: N-10550
+Tags: relevance:core
+Investigative Direction: Check Neff's call log for the time and duration of the call.
+
+---
+
+**C-14829** Neff Testifies Mikey Told His Father to Call All His Pastor Friends
+
+Claim Timestamp: 00:31:10
+
+Claim: In testimony played on air, Blake Neff says Mikey McCoy called his father and said someone had shot Charlie, that his father needed to call all of his pastor friends, and that everyone needed to pray right now.
+
+Transcript Snippet: Dad, someone's shot Charlie. You need to call all of your pastor friends.
+
+Anchored Artifacts: A-2338
+Mentions: N-162, N-194, N-17
+Related Nodes: N-10338
+Tags: relevance:core
+Investigative Direction: Check pastors' accounts for the time they first heard from McCoy's father and compare it with the call log.
+
+---
+
+**C-14830** Host Says Neff and Phillip Had a Big SUV That Was Rented
+
+Claim Timestamp: 00:32:00
+
+Claim: The host says the SUV that Blake Neff and Danny Phillip used was a big SUV that had been rented, and asks why it was not taken to the hospital.
+
+Transcript Snippet: you have this big SUV that you rented
+
+Anchored Artifacts: 
+Mentions: N-162, N-372
+Related Nodes: N-10823
+Tags: relevance:core
+Investigative Direction: Obtain rental records for the Denalis and identify who rented them.
+
+---
+
+**C-14831** Host Says Many People Tweeted the Same Claim About Robinson's Lawyer the Day Before
+
+Claim Timestamp: 00:39:05
+
+Claim: The host says she saw a bunch of people all tweeting the same thing the previous day, that Tyler Robinson's lawyer was arguing that political assassinations are okay.
+
+Transcript Snippet: Yesterday, I see a bunch of people all tweeting the same thing, that Tyler Robinson's lawyer is arguing that political assassinations are okay.
+
+Anchored Artifacts: 
+Mentions: N-3, N-40
+Related Nodes: N-10824
+Tags: relevance:context
+Investigative Direction: Build a timeline of the posts to test whether they shared a common source.
+
+---
+
+**C-14832** Host Says the Court Clip Was Sent Out for Many People to Share
+
+Claim Timestamp: 00:39:50
+
+Claim: The host says the video Matt Walsh shared was clearly sent out for a bunch of people to share in order to delude the public into believing the lawyer was endorsing political assassination.
+
+Transcript Snippet: he shares this video, which was clearly sent out for a bunch of people to share and to try to delude the public into believing that that is what was happening
+
+Anchored Artifacts: A-2332
+Mentions: N-166, N-431
+Related Nodes: N-10824
+Tags: relevance:context
+Investigative Direction: Trace the clip's first posting account and its spread.
+
+---
+
+**C-14833** Host Predicts More Out-of-Context Clips Will Be Pushed to Outrage the Public
+
+Claim Timestamp: 00:41:55
+
+Claim: The host says viewers should expect to keep seeing a mandate in which things are taken out of context to outrage them, which does not reflect what is happening in the case.
+
+Transcript Snippet: You're going to keep seeing this mandate go out where things are going to be taken out of context and it's supposed to outrage you.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10824
+Tags: relevance:context
+Investigative Direction: Track later clips in the case and compare their full context.
+
+---
+
+**C-14834** Novac Tells the Court It Is True Kirk Spoke Hatefully of Certain Groups
+
+Claim Timestamp: 00:42:20
+
+Claim: Defense counsel Richard Novac says in the audio played that it is true Mr. Kirk spoke hatefully of certain groups of people, including people who do not have traditional gender identities, are not strictly heterosexual, or have sexual relationships out of marriage.
+
+Transcript Snippet: It is true that Mr. Kirk spoke hatefully of certain groups of people.
+
+Anchored Artifacts: A-2336
+Mentions: N-431, N-1
+Related Nodes: N-10824, N-10825
+Tags: relevance:core
+Investigative Direction: Obtain the full hearing transcript to verify the wording and context.
+
+---
+
+**C-14835** Novac Says the Evidence From Twiggs Is That He Identified as Non-Gender-Conforming and Was in a Relationship With Robinson
+
+Claim Timestamp: 00:42:45
+
+Claim: Novac says in the audio played that the evidence from Mr. Twiggs is that he identified in a non-gender-conforming way to his friends and was in a romantic relationship with Mr. Robinson.
+
+Transcript Snippet: it is true that the evidence from Mr. Twiggs is that um he identified in a non-gender-conforming way to his friends, and that he was in a romantic relationship with Mr. Robinson.
+
+Anchored Artifacts: A-2336
+Mentions: N-431, N-54, N-40
+Related Nodes: N-10825
+Tags: relevance:core
+Investigative Direction: Check the hearing record for what Twiggs's evidence consisted of and whether it was hearsay.
+
+---
+
+**C-14836** Novac Argues There Is a Gap Between Kirk's Expression and Robinson's Feelings That Lets the State Make It Up
+
+Claim Timestamp: 00:43:35
+
+Claim: Novac says in the audio played that there is a significant gap between what Kirk said and stood for and what Robinson felt about him, which allows the state to make up a motive and amounts to an inference without evidence.
+
+Transcript Snippet: And it's a significant gap because what it allows the state to do is to make it up.
+
+Anchored Artifacts: A-2336
+Mentions: N-431, N-1, N-40
+Related Nodes: N-10825
+Tags: relevance:core
+Investigative Direction: Read the defense filing on political expression and the statutory wording cited.
+
+---
+
+**C-14837** Host Says at a Probable Cause Hearing the Defense Does Not Argue Guilt
+
+Claim Timestamp: 00:44:25
+
+Claim: The host says the defense's job at a probable cause hearing is not to argue about the client's guilt or whether the client sent the text, but to engage the state's arguments.
+
+Transcript Snippet: is the job of the defense in this this phase, when you talk about a probable cause hearing, is not to make any arguments.
+
+Anchored Artifacts: 
+Mentions: N-3, N-40
+Related Nodes: N-10825
+Tags: relevance:context
+Investigative Direction: Confirm with Utah procedure rules and the defense's filing on scope.
+
+---
+
+**C-14838** Host Says the Defense Is Not Conceding Robinson Sent the Message
+
+Claim Timestamp: 00:45:30
+
+Claim: The host says that on a motion like Count 6 the defense is not saying whether Tyler sent the message, only that even if he did, telling someone to lawyer up would be constitutional.
+
+Transcript Snippet: We're not even going to tell you whether or not he sent the message.
+
+Anchored Artifacts: A-2327.1
+Mentions: N-40, N-54
+Related Nodes: N-10826
+Tags: relevance:context
+Investigative Direction: Read the defense's motion on Count 6 to see whether any fact is conceded.
+
+---
+
+**C-14839** Host Says the Prosecution Argues Robinson Is a Member of the LGBTQ Community
+
+Claim Timestamp: 00:47:20
+
+Claim: The host says the prosecution is arguing that Charlie Kirk's statements were perceived as hateful by Tyler Robinson, whom the prosecution argues is a member of the LGBTQ community.
+
+Transcript Snippet: the prosecution is the one that is arguing that Charlie's statements were perceived as hateful to Tyler Robinson, who they are arguing is a member of the LGBTQ community.
+
+Anchored Artifacts: A-2337
+Mentions: N-40, N-1
+Related Nodes: N-10825
+Tags: relevance:core
+Investigative Direction: Check the political motivation filing for the statements used to support this argument.
+
+---
+
+**C-14840** Host Says Andrew Wilson Changed His Opinions After a Call From Turning Point USA
+
+Claim Timestamp: 00:51:40
+
+Claim: The host says Andrew Wilson, whom she hoped to talk with about the case, got a call from Turning Point USA, changed all of his opinions and did not know what was going on in the case.
+
+Transcript Snippet: Obviously, he just is another fed slapper, got a call from Turning Point USA, changed all of his opinions and didn't know what was going on in the case at all.
+
+Anchored Artifacts: 
+Mentions: N-18, N-3
+Related Nodes: N-11262
+Tags: relevance:context
+Investigative Direction: Compare Wilson's earlier and later public statements on the case and any record of contact with TPUSA.
+
+---
+
+**C-14841** Host Says Mikey McCoy Turned Around for About 0.75 of a Second and Stayed Ahead of Charlie
+
+Claim Timestamp: 00:55:30
+
+Claim: The host says Mikey McCoy turns around for about 0.75 of a second, stays ahead of Charlie, and so could not have seen much, and that this alarmed people and calls into question the idea that he saw a lot of blood.
+
+Transcript Snippet: it is literally a split second that Mikey turns around. I think it's like 0.75 of a second.
+
+Anchored Artifacts: A-2339
+Mentions: N-194, N-1
+Related Nodes: N-10198
+Supports: C-3386
+Tags: relevance:core
+Investigative Direction: Measure McCoy's head turn in frame-by-frame footage.
+
+---
+
+**C-14842** Host Says Blake Neff Is the Most Community-Noted Employee of the Charlie Kirk Show
+
+Claim Timestamp: 00:56:20
+
+Claim: The host says Blake Neff is easily the most community-noted employee of the Charlie Kirk Show and that nobody has been clocked faster as a liar online.
+
+Transcript Snippet: when he is easily the most community noted employee of the Charlie Kirk Show.
+
+Anchored Artifacts: 
+Mentions: N-162
+Related Nodes: N-10845
+Tags: relevance:context
+Investigative Direction: Count Community Notes attached to Neff's posts compared with other staff.
+
+---
+
+**C-14843** Commenter Nick Quotes Kirk That Gut Instincts Are Usually Right and Host Agrees
+
+Claim Timestamp: 00:56:30
+
+Claim: The host reads a comment from Nick that quotes Charlie Kirk as saying that when a story does not click, our guts are usually right, and says Kirk held that perspective.
+
+Transcript Snippet: When I see a story and it doesn't click, our guts are usually right.
+
+Anchored Artifacts: A-2339
+Mentions: N-1
+Tags: relevance:context
+Investigative Direction: Find the original Kirk statement and its date.
+
+---
+
+**C-14844** Host Says Charlie Correctly Predicted His Death and Its Link to Turning Point USA
+
+Claim Timestamp: 00:57:10
+
+Claim: The host says Charlie Kirk correctly predicted his death and that it would be associated with Turning Point USA.
+
+Transcript Snippet: Charlie correctly predicted his death and that it would be associated with Turning Point USA.
+
+Anchored Artifacts: A-2340
+Mentions: N-1, N-3
+Related Nodes: N-10389
+Tags: relevance:core
+Investigative Direction: Look for dated statements by Kirk linking his death to Turning Point USA.
+
+---
+
+**C-14845** Host Says Kirk Foresaw a Young Death the Moment He Signed
+
+Claim Timestamp: 00:57:25
+
+Claim: The host says that the moment Charlie Kirk signed the dotted line he said he foresaw his death and that he would die young, and that it would be tied to a wider awakening.
+
+Transcript Snippet: The moment he signed the dotted line he said he foresaw his death. That he would be young.
+
+Anchored Artifacts: A-2340
+Mentions: N-1, N-3
+Related Nodes: N-10389
+Tags: relevance:core
+Investigative Direction: Identify what was signed and the source of the statement.
+
+---
+
+**C-14846** Host Says the People Kirk Argued With About Israel the Day Before Were the First to Know He Was Dead
+
+Claim Timestamp: 00:59:50
+
+Claim: The host says the people Charlie Kirk was arguing with the day before, and the cause he was leaving, also happen to be the first people who knew he was dead, prompted by a comment about Jack Hibbs's statements about Israel.
+
+Transcript Snippet: the people that Charlie is arguing with the day before and the cause that he is leaving also happen to be the first people that knew that he was dead.
+
+Anchored Artifacts: A-2340
+Mentions: N-1, N-212
+Related Nodes: N-10818, N-10025
+Tags: relevance:core
+Investigative Direction: Identify who is meant and when each person first learned of Kirk's death.
+
+---
+
+**C-14847** Host Says It Is Known the Person Facing Death Is Not the Individual Who Murdered Charlie
+
+Claim Timestamp: 01:00:50
+
+Claim: The host says that if a person is put to death, everyone knows that person is not involved or at least not the individual who murdered Charlie, and this would cause an awakening.
+
+Transcript Snippet: we all know that that person is not involved or at least is not the individual who murdered Charlie
+
+Anchored Artifacts: A-2340
+Mentions: N-1, N-3
+Tags: relevance:core
+Investigative Direction: Ask the host for the basis; compare with the evidence record.
+
+---
+
+**C-14848** Host Says She Gave Her Verdict on Lindsay Clancy Before Trial
+
+Claim Timestamp: 01:02:00
+
+Claim: The host says she issued her verdict on the Lindsay Clancy case early on before it went to trial, looked at the prescription Clancy was on, and has stayed out of the case to focus on Kirk.
+
+Transcript Snippet: I told you very early on I had issued my verdict before this ever went to trial.
+
+Anchored Artifacts: A-2340
+Mentions: N-206, N-3
+Tags: relevance:tangential
+Investigative Direction: Locate the host's earlier statement on Clancy.
+
+---
+
+**C-14849** Host Says She Covered Baldoni and the Kamala Chronicles Fully
+
+Claim Timestamp: 01:02:10
+
+Claim: The host says she does not do things halfway and treated the Blake Lively and Justin Baldoni case and the Kamala Chronicles the way she now treats the Charlie Kirk case.
+
+Transcript Snippet: Like it was with the Blake and Justin Baldoni case, as it it was with the Kamala Chronicles, and as it is now with the Charlie Kirk case.
+
+Anchored Artifacts: A-2340
+Mentions: N-3, N-491
+Tags: relevance:tangential
+Investigative Direction: Review the host's prior series for comparable depth.
+
+---
+
+**C-14850** Host Says Erika Kirk Has Not Acknowledged the Lies She Told
+
+Claim Timestamp: 01:02:40
+
+Claim: The host says Erika Kirk has not come out and acknowledged the lies she told, and that if she had meaningfully misunderstood she could have corrected them.
+
+Transcript Snippet: she hasn't even come and acknowledge the lies that she told us
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Tags: relevance:core
+Investigative Direction: List the specific statements the host considers false and check for any corrections by Erika Kirk.
+
+---
+
+**C-14851** Host Says Erika Kirk Is Doing the Opposite of What Her Husband Expressed
+
+Claim Timestamp: 01:03:00
+
+Claim: The host says Erika Kirk is doing the opposite of what her husband expressed.
+
+Transcript Snippet: Ignore the fact that she's doing the opposite of what her husband expressed.
+
+Anchored Artifacts: 
+Mentions: N-2, N-1
+Tags: relevance:core
+Investigative Direction: Specify which of Kirk's expressed wishes the host has in mind and compare with Erika's actions.
+
+---
+
+**C-14852** Host Says She Is Holding Material Back Because of the Brian Harpole Case
+
+Claim Timestamp: 01:04:20
+
+Claim: The host says there are things she is holding back because of the Brian Harpole case.
+
+Transcript Snippet: obviously there's some stuff I'm holding back cuz of the Brian Harpole case
+
+Anchored Artifacts: 
+Mentions: N-3, N-270
+Related Nodes: N-10651
+Tags: relevance:context
+Investigative Direction: Check the docket for the Harpole case and the host's earlier mentions of it.
+
+---
+
+**C-14853** Host Says TPUSA-Side Voices Now Say Kirk Thought He Was Going to Die
+
+Claim Timestamp: 01:04:40
+
+Claim: The host says people are now arguing that Charlie did think he was going to die, which she contrasts with Brian Harpole saying there were no threats the night before and with a conflict between what security and TPUSA recall.
+
+Transcript Snippet: they're like, "Oh, Charlie did think he was going to die."
+
+Anchored Artifacts: 
+Mentions: N-1, N-270, N-3
+Related Nodes: N-10320
+Supports: C-3368, C-11320
+Tags: relevance:core
+Investigative Direction: Find the TPUSA-side statements that Kirk feared he would die and compare dates with Harpole's interview.
+
+---
 
 ## 6. Meme Register
 
@@ -887,12 +2161,196 @@ Context: DIA / DCIA brand line from corrected transcript (CKA seq 147).
 Tags: tips_network, brand_joke, transcript_backfill
 Confidence: high
 
+### Occurrence 2
+
+Video Timestamp: 00:11:45
+Speaker: N-3
+Quote: send us a email to tips@candaceowens. com
+Context: Host asks viewers to identify unidentified members of Kirk's security team through the tips address.
+Tags: tips_network, tip_request
+Confidence: high
+
+---
+
+**M-14** (meme) Candace Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 01:03:55
+Speaker: N-3
+Quote: buy a CIA hat
+Context: Merch plug for the CIA hat before the Decentralized Intelligence Agency riff.
+Tags: merch, brand_joke
+Confidence: high
+
+---
+
+**M-154** (meme) Second Favorite Shirt
+
+### Occurrence 1
+
+Video Timestamp: 01:03:55
+Speaker: N-3
+Quote: Buy your second favorite shirt, not your first favorite shirt.
+Context: Merch plug saying only the second favorite shirt is available on the site.
+Tags: merch
+Confidence: medium
+
+---
+
+**M-185** (meme) Amnesia
+
+### Occurrence 1
+
+Video Timestamp: 00:09:26
+Speaker: N-3
+Quote: it relies on all of us developing Blake Neff's amnesia to pretend that it's true
+Context: Host uses amnesia as a jab at Neff over the influencers' retreat from the confession claim.
+Tags: blake_neff, amnesia
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:23:27
+Speaker: N-3
+Quote: He always develops Danny Philip amnesia in particular.
+Context: Host says Neff leaves Danny Phillip out of his accounts.
+Tags: blake_neff, amnesia
+Confidence: high
+
+---
+
+**M-144** (meme) The Preggo
+
+### Occurrence 1
+
+Video Timestamp: 00:36:16
+Speaker: N-3
+Quote: I am pregnant, it is summer in Tennessee, and my patience is growing thin.
+Context: Host opens the podcast-bros segment by citing her pregnancy.
+Tags: pregnancy, opener
+Confidence: high
+
+---
+
+**M-344** (meme) Conservabros
+
+### Occurrence 1
+
+Video Timestamp: 00:47:55
+Speaker: N-3
+Quote: if you want me to do your homework, Conservabros
+Context: Host tells conservative commentators to read the August 11 filing.
+Tags: label, conservatives
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 01:02:29
+Speaker: N-3
+Quote: The reason why so many conserve-a-bros love it
+Context: Host on conservative commentators drawing a line between Erika skeptics and Clancy supporters.
+Tags: label, conservatives
+Confidence: medium
+
+---
+
+**M-345** (meme) Pentagon Influencers
+
+### Occurrence 1
+
+Video Timestamp: 00:01:00
+Speaker: N-3
+Quote: it's going to be a long few years of Pentagon propaganda
+Context: Host frames the neocon response to the bindover as Pentagon propaganda.
+Tags: label, pentagon
+Confidence: medium
+
+### Occurrence 2
+
+Video Timestamp: 00:07:40
+Speaker: N-3
+Quote: the orbit of Pentagon influencers
+Context: Host on who told the public Robinson was guilty.
+Tags: label, pentagon
+Confidence: high
+
+---
+
+**M-346** (meme) What Luck
+
+### Occurrence 1
+
+Video Timestamp: 00:21:22
+Speaker: N-3
+Quote: And what luck? What falls out of that vehicle at the end there?
+Context: Host sarcastically calls the vehicle footage lucky.
+Tags: sarcasm, luck
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:58:42
+Speaker: N-3
+Quote: Oh, what luck. There's so much luck in this story.
+Context: Host on the people who first knew Kirk was dead.
+Tags: sarcasm, luck
+Confidence: high
+
+---
+
+**M-347** (meme) Dip and Meet
+
+### Occurrence 1
+
+Video Timestamp: 00:20:06
+Speaker: N-3
+Quote: like a perfect little dip and meet, as if they all knew to go there
+Context: Host describes McCoy, Phillip and Davis meeting at Kirk's vehicle.
+Tags: footage, sarcasm
+Confidence: high
+
+---
+
+**M-348** (meme) Lies Have an Expiration Date
+
+### Occurrence 1
+
+Video Timestamp: 00:09:26
+Speaker: N-3
+Quote: Remember, lies have an expiration date, the truth does not.
+Context: Host on the influencers' confession narrative.
+Tags: refrain
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:38:59
+Speaker: N-3
+Quote: lies have an expiration date.
+Context: Host repeats the line when explaining her case-study approach.
+Tags: refrain
+Confidence: high
+
+---
+
+**M-349** (meme) Freeze or Film
+
+### Occurrence 1
+
+Video Timestamp: 00:57:51
+Speaker: N-3
+Quote: there is also freeze or film
+Context: Host reads a comment adding freeze or film to fight or flight.
+Tags: comment, neff
+Confidence: high
+
 ---
 
 ## VI. Optional Flags
 
 - **Name uncertainty (A-2329.1)**: "Danny Phillip" vs "Danny Philip" – both spellings appear in the transcript. Preserve as appearing; do not normalize.
-- **Name uncertainty**: "Mikey McCoy" vs "Mikey McQuaid" – both appear in the transcript. The "McQuaid" spelling appears once and may be a transcription error.
+- **Name uncertainty**: "Mikey McCoy" vs "Mikey McCoy" – both appear in the transcript. The "McQuaid" spelling appears once and may be a transcription error.
 - **Name uncertainty (A-2327.1)**: Transcript renders "Lance Twiggs" as "Twigs" in one location within the judge's bench ruling. Preserve as appearing.
 - **Name uncertainty (A-2327.1)**: Transcript renders "Lance Twiggs" as "Twiggs" in most locations; treat Twiggs / Twiggs as the same person.
 - **Transcript ambiguity (A-2327.1)**: The bench ruling transcript includes the phrase "to risk request counsel" which appears to be a transcription artifact for "to [a person to] request counsel" or similar. Flag for verification against the official court transcript.

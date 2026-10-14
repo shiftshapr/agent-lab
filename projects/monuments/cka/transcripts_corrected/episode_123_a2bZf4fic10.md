@@ -147,7 +147,7 @@ Yeah. And I'm sure they also have it in that like more color. Yeah. Different co
 
 [29:24]
 
-What does this mean for Turning Point USA? Andrew Kolvet, the spokesperson. This would require a response. Andrew, this would be a nice The public wants to know why or how it shattered and also why and how Frank and Brian Harple seem to have forgotten about that in their many retellings of what took place in that car across multiple interviews. Why nobody mentioned this? Where is Charlie Shirt? Andrew Kolvet, you're the spokesperson of Turning Point USA. Where is Charlie's ski shirt? To the people that are working at at Turning Point USA. Any of this strike you was odd. Do you really think that by putting stickers on the ground that say for Charlie? You guys are for Charlie. We have t-shirts that says for Charlie.
+What does this mean for Turning Point USA? Andrew Kolvet, the spokesperson. This would require a response. Andrew, this would be a nice The public wants to know why or how it shattered and also why and how Frank and Brian Harpole seem to have forgotten about that in their many retellings of what took place in that car across multiple interviews. Why nobody mentioned this? Where is Charlie Shirt? Andrew Kolvet, you're the spokesperson of Turning Point USA. Where is Charlie's ski shirt? To the people that are working at at Turning Point USA. Any of this strike you was odd. Do you really think that by putting stickers on the ground that say for Charlie? You guys are for Charlie. We have t-shirts that says for Charlie.
 
 [30:20]
 

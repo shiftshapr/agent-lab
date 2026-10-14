@@ -15,8 +15,8 @@
   - Hole-minted Nodes (reintro-ep036): N-287, N-10284, N-10294
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-4975–C-5061
-  - New Nodes Introduced: N-274, N-276, N-10271, N-10272
-  - Reused Nodes Appearing: N-5, N-9, N-14, N-16, N-36, N-37, N-38, N-42, N-69, N-82, N-333, N-10000, N-10001, N-10012, N-10020, N-10028, N-10029, N-10045, N-10051, N-10116, N-10134, N-10145, N-10175, N-10197, N-10224, N-10243, N-10246, N-10253, N-10261, N-10265, N-10266, N-10268, N-10269, N-10355, N-275, N-718, N-383, N-10270, N-11009, N-10316, N-10862, N-11011, N-717, N-10336, N-10337, N-10345, N-10853, N-11010, N-10342
+  - New Nodes Introduced: N-274, N-10271, N-10272
+  - Reused Nodes Appearing: N-5, N-9, N-14, N-16, N-36, N-37, N-38, N-42, N-69, N-82, N-333, N-10000, N-10001, N-10012, N-10020, N-10028, N-10029, N-10045, N-10051, N-10116, N-10134, N-10145, N-10175, N-10197, N-10224, N-10243, N-10246, N-10253, N-10261, N-10265, N-10266, N-10268, N-10269, N-10355, N-275, N-718, N-383, N-10270, N-11009, N-10316, N-10862, N-11011, N-717, N-10336, N-10337, N-10345, N-10853, N-11010, N-10342, N-276
   - (see registers)
 
 ## 6. Meme Register

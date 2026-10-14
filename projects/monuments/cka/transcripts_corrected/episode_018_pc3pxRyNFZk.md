@@ -46,7 +46,7 @@ All right, you guys. Where to begin? Obviously, we have a lot to unpack before I
 
 [02:11]
 
-Um we also want to make sure that we are presenting evidence and debunking one another where we can so that all of us can collectively zero in and build upon whatever facts we have in this decentralized investigation. This is about the injury, okay? So Andrew Kolbatz was, I can tell you, telling the truth in part when he wrote that very long tweet in which he tried to explain why there was no exit wound. Do you recall this? Uh long story short, he said, I'm going to read it. I want to address some of the things that the lack of an exit wound uh about the lack of an exit wound with Charlie. I'm usually not interested in delving into most of this kind of online chatter and I apologize if this is somewhat graphic, but in this case the fact that there wasn't an exit wound is probably another miracle and I want people to know.
+Um we also want to make sure that we are presenting evidence and debunking one another where we can so that all of us can collectively zero in and build upon whatever facts we have in this decentralized investigation. This is about the injury, okay? So Andrew Kolvet was, I can tell you, telling the truth in part when he wrote that very long tweet in which he tried to explain why there was no exit wound. Do you recall this? Uh long story short, he said, I'm going to read it. I want to address some of the things that the lack of an exit wound uh about the lack of an exit wound with Charlie. I'm usually not interested in delving into most of this kind of online chatter and I apologize if this is somewhat graphic, but in this case the fact that there wasn't an exit wound is probably another miracle and I want people to know.
 
 [03:01]
 
@@ -142,7 +142,7 @@ Tiffany Barker on Good Morning America, Vibes were weird there. Okay, not assign
 
 [23:49]
 
-Um and so you couldn't be right above where you were at, but if I had to guess, and again, it's still raw, but if I had to guess and give a police statement right here, right now, today, see where that water is? It looked to me like it was in great in close proximity straight ahead right in that area. >> Yeah, we're looking at If I had to guess, again, >> Quite interesting. And then elsewhere when he's on Fox News and people are saying the shot was from like the Lozi building, he doesn't believe that. He doesn't believe that. By the way, Jason Jason Chaffetz, he's been honest about his background. His parents are in the government. They're literally in the FBI. So he's telling you that shot was closer.
+Um and so you couldn't be right above where you were at, but if I had to guess, and again, it's still raw, but if I had to guess and give a police statement right here, right now, today, see where that water is? It looked to me like it was in great in close proximity straight ahead right in that area. >> Yeah, we're looking at If I had to guess, again, >> Quite interesting. And then elsewhere when he's on Fox News and people are saying the shot was from like the Losee building, he doesn't believe that. He doesn't believe that. By the way, Jason Jason Chaffetz, he's been honest about his background. His parents are in the government. They're literally in the FBI. So he's telling you that shot was closer.
 
 [24:35]
 
@@ -270,7 +270,7 @@ I do want to get to speaking on the topic of Israel. Um there was a very good vi
 
 [47:29]
 
-At the center of it was Steve Witcoff and Jared Kushner. They arrived on Wednesday morning to represent the US negotiators from Israel and Hamas and the mediators from Qatar and Egypt and Turkey also participated and we're supposed to go, "Wow, that's amazing." Trump put a statement out on Truth Social. He wrote, "I'm very proud to announce that Israel and Hamas have both signed off on the first phase of our peace plan. This means that all the hostages will be released very soon and Israel will withdraw their troops to an agreed-upon line as the first steps towards a strong, durable, and everlasting peace that all parties will be treated fairly. I can't even finish it because it makes me sick that they think we're this dumb.
+At the center of it was Steve Witkoff and Jared Kushner. They arrived on Wednesday morning to represent the US negotiators from Israel and Hamas and the mediators from Qatar and Egypt and Turkey also participated and we're supposed to go, "Wow, that's amazing." Trump put a statement out on Truth Social. He wrote, "I'm very proud to announce that Israel and Hamas have both signed off on the first phase of our peace plan. This means that all the hostages will be released very soon and Israel will withdraw their troops to an agreed-upon line as the first steps towards a strong, durable, and everlasting peace that all parties will be treated fairly. I can't even finish it because it makes me sick that they think we're this dumb.
 
 [48:09]
 

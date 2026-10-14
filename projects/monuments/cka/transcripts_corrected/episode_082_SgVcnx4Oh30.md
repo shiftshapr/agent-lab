@@ -239,7 +239,7 @@ Um the second plane, actually, I guess I haven't named this. This is a very inte
 
 [40:05]
 
-We have obviously Charlie's plane. Uh we have the alleged passengers. I I don't buy that. I think it is way more likely that the messages reveal we have enough evidence to at least suggest um suggest that Andrew Colvert flew on that plane alone. Actually, uh and then uh that would mean that Erika landed by the way almost at the exact If she's on go back up. If she's on the navy plane um that would be that lands at 2:29. This one lands that would be that would still be an hour wait. But if she's on that first plane, go back up. If she's on the Wi-Fi plane or if uh yeah, then she would have landed into Provo. Oh no, that one doesn't land in Provo. Go down. I'm sorry. We're getting to that fourth plane.
+We have obviously Charlie's plane. Uh we have the alleged passengers. I I don't buy that. I think it is way more likely that the messages reveal we have enough evidence to at least suggest um suggest that Andrew Kolvet flew on that plane alone. Actually, uh and then uh that would mean that Erika landed by the way almost at the exact If she's on go back up. If she's on the navy plane um that would be that lands at 2:29. This one lands that would be that would still be an hour wait. But if she's on that first plane, go back up. If she's on the Wi-Fi plane or if uh yeah, then she would have landed into Provo. Oh no, that one doesn't land in Provo. Go down. I'm sorry. We're getting to that fourth plane.
 
 [40:55]
 
@@ -265,7 +265,7 @@ Hate happen toward Joe Kent. He wants to make that fetch toward Joe Kent cuz the
 
 [44:43]
 
-And so if they called you to testify, if they called me to testify in the defense okay. Hey Candace, did you hear that Erika Yes, I did hear that. Hey Candace, did you hear Yes, I did hear that. The truth doesn't play offense or defense. It's just the truth. So Blake Neff and Andrew Colvert worst actors ever are about to try to sell to you with their absolute best emotion that No, oh my god. If you were called to testify and tell the truth for the defense you would betray Charlie. The truth would betray Charlie. Let's see if you can be convinced by their raw emotion in this clip. Blake is just unleashed. He lets his hair He doesn't have a lot of hair down in this clip. Take a listen. Like let's refresh people.
+And so if they called you to testify, if they called me to testify in the defense okay. Hey Candace, did you hear that Erika Yes, I did hear that. Hey Candace, did you hear Yes, I did hear that. The truth doesn't play offense or defense. It's just the truth. So Blake Neff and Andrew Kolvet worst actors ever are about to try to sell to you with their absolute best emotion that No, oh my god. If you were called to testify and tell the truth for the defense you would betray Charlie. The truth would betray Charlie. Let's see if you can be convinced by their raw emotion in this clip. Blake is just unleashed. He lets his hair He doesn't have a lot of hair down in this clip. Take a listen. Like let's refresh people.
 
 [45:31]
 

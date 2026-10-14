@@ -404,6 +404,58 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3346",
+      "family_ref": "A-3346",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3346.1",
+          "ref": "A-3346.1",
+          "description": "Host verbal reference to the tips email address tips@candaceowens.com asking viewers to identify unidentified security team members",
+          "related_claims": [
+            "C-14807"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-11321"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:11:45",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3347",
+      "family_ref": "A-3347",
+      "bundle_name": "Justin Davis Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3347.1",
+          "ref": "A-3347.1",
+          "description": "Photo of Justin Davis shown on screen, which the host says shows him in a navy blue or black shirt",
+          "related_claims": [
+            "C-14809"
+          ],
+          "related_nodes": [
+            "N-498",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:12:54",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -591,7 +643,30 @@
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14806",
+        "C-14809",
+        "C-14810",
+        "C-14811",
+        "C-14813",
+        "C-14815",
+        "C-14816",
+        "C-14817",
+        "C-14819",
+        "C-14823",
+        "C-14826",
+        "C-14834",
+        "C-14836",
+        "C-14839",
+        "C-14841",
+        "C-14843",
+        "C-14844",
+        "C-14845",
+        "C-14846",
+        "C-14847",
+        "C-14851",
+        "C-14853"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -607,7 +682,11 @@
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14824",
+        "C-14850",
+        "C-14851"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -623,7 +702,22 @@
       "type": "person",
       "description": "Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14798",
+        "C-14799",
+        "C-14801",
+        "C-14802",
+        "C-14803",
+        "C-14804",
+        "C-14805",
+        "C-14831",
+        "C-14835",
+        "C-14836",
+        "C-14837",
+        "C-14838",
+        "C-14839",
+        "C-14847"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -691,7 +785,11 @@
       "type": "person",
       "description": "Robinson's partner; recipient of FBI-released text chain",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14804",
+        "C-14835",
+        "C-14838"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -707,7 +805,9 @@
       "type": "person",
       "description": "Salt Lake County Sheriff's Office detective; per a 1999 article, conducts online undercover work creating personas to identify suspected pedophiles. Flag: this entity is likely to already possess a node ID from prior episodes covering his role in the Charlie Kirk case; verify ledger and merge if confirmed.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14802"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -723,7 +823,18 @@
       "type": "person",
       "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14812",
+        "C-14813",
+        "C-14822",
+        "C-14825",
+        "C-14826",
+        "C-14827",
+        "C-14828",
+        "C-14829",
+        "C-14830",
+        "C-14842"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -739,7 +850,10 @@
       "type": "person",
       "description": "Daily Wire personality referenced (hearsay) by the host as the subject of an outreach to host Charlie Kirk's show after his death, conditioned on inviting Ben Shapiro.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14797",
+        "C-14832"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -755,7 +869,17 @@
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14811",
+        "C-14822",
+        "C-14824",
+        "C-14825",
+        "C-14826",
+        "C-14827",
+        "C-14828",
+        "C-14829",
+        "C-14841"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -771,7 +895,9 @@
       "type": "person",
       "description": "Referenced as Facetime counterpart in Turek hospital narrative the host contrasts with missing fire-captain CPR.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14846"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -803,7 +929,11 @@
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14808",
+        "C-14852",
+        "C-14853"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -818,8 +948,34 @@
       "name": "Candace Owens",
       "type": "person",
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-3346",
+        "A-3347"
+      ],
+      "related_claims": [
+        "C-14797",
+        "C-14798",
+        "C-14799",
+        "C-14800",
+        "C-14803",
+        "C-14805",
+        "C-14807",
+        "C-14814",
+        "C-14818",
+        "C-14819",
+        "C-14831",
+        "C-14833",
+        "C-14837",
+        "C-14840",
+        "C-14844",
+        "C-14845",
+        "C-14847",
+        "C-14848",
+        "C-14849",
+        "C-14850",
+        "C-14852",
+        "C-14853"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -831,9 +987,9 @@
       "@type": "Person",
       "@id": "N-337",
       "ref": "N-337",
-      "name": "Viva Frey",
+      "name": "Viva Frei",
       "type": "person",
-      "description": "Viva Frey (wave3 orphan mint).",
+      "description": "Viva Frei (wave3 orphan mint).",
       "related_artifacts": [],
       "related_claims": [
         "C-3376"
@@ -873,7 +1029,12 @@
       "type": "person",
       "description": "First named by the host at 00:10:02 in episode 94. Aliases: Richard Novac.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14832",
+        "C-14834",
+        "C-14835",
+        "C-14836"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -889,13 +1050,506 @@
       "type": "person",
       "description": "First named by the host at 00:03:16 in episode 126.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14818",
+        "C-14825"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-17",
+      "ref": "N-17",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Rob McCoy; Mikey McCoy's father, called by Mikey per Neff's testimony (rendered 'Robin McCoy' in the transcript).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14829"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-18",
+      "ref": "N-18",
+      "name": "Andrew Wilson",
+      "type": "person",
+      "description": "Andrew Wilson; the host says TPUSA changed his opinions.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14840"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-138",
+      "ref": "N-138",
+      "name": "Judge Tony F. Graf Jr.",
+      "type": "person",
+      "description": "Judge who issued the bindover ruling.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14800"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-206",
+      "ref": "N-206",
+      "name": "Lindsay Clancy",
+      "type": "person",
+      "description": "Lindsay Clancy; the host explains why she does not cover the case.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14848"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-274",
+      "ref": "N-274",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Dan Flood; placed by the host in the Navigator.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14808"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-334",
+      "ref": "N-334",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Baron Coleman; he received the TikTok clip and showed it to the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14818"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-491",
+      "ref": "N-491",
+      "name": "Justin Baldoni",
+      "type": "person",
+      "description": "Justin Baldoni; cited with the Lively case as a past series.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14849"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10021",
+      "ref": "N-10021",
+      "name": "Robinson Confession and Arrest Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14802",
+        "C-14803"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10025",
+      "ref": "N-10025",
+      "name": "Israel Lobby Pressure on Conservative Figures",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14846"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10198",
+      "ref": "N-10198",
+      "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14841"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10320",
+      "ref": "N-10320",
+      "name": "Charlie Kirk's Pre-Death Messages (Night Before Assassination)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14816",
+        "C-14853"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10338",
+      "ref": "N-10338",
+      "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14824",
+        "C-14829"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10389",
+      "ref": "N-10389",
+      "name": "Charlie Kirk Premonition Dreams",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14844",
+        "C-14845"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10550",
+      "ref": "N-10550",
+      "name": "Blake Neff \"Two Phones\" Implication",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14828"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10566",
+      "ref": "N-10566",
+      "name": "Tyler Robinson Confession Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14798",
+        "C-14799",
+        "C-14802",
+        "C-14804"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10632",
+      "ref": "N-10632",
+      "name": "Tyler Robinson's Grandfather's Position vs. Family Narrative",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14805"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10651",
+      "ref": "N-10651",
+      "name": "Brian Harpole Lawsuit Coordination Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14852"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10686",
+      "ref": "N-10686",
+      "name": "Hospital Transport Sequence Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14809"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10715",
+      "ref": "N-10715",
+      "name": "Blake Neff September 10th Movement Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14812",
+        "C-14813",
+        "C-14822",
+        "C-14826",
+        "C-14827"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10818",
+      "ref": "N-10818",
+      "name": "Jack Hibbs Sequence-of-Events Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14846"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10845",
+      "ref": "N-10845",
+      "name": "Blake Neff Censorship Statement",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14842"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10888",
+      "ref": "N-10888",
+      "name": "Department of War",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14798"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11061",
+      "ref": "N-11061",
+      "name": "Restaurantology Event Green Room Attendance Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14810"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11208",
+      "ref": "N-11208",
+      "name": "Timpanogos Hospital Group Arrival Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14825"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11215",
+      "ref": "N-11215",
+      "name": "UVU Security Team Conduct and Ticket-Count Communication",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14819"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11262",
+      "ref": "N-11262",
+      "name": "Andrew Wilson TPUSA Debate Training Engagement",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14840"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11321",
+      "ref": "N-11321",
+      "name": "Kirk Security Team Name Identification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [
+        "A-3346"
+      ],
+      "related_claims": [
+        "C-14806",
+        "C-14807"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11406",
+      "ref": "N-11406",
+      "name": "Security Vehicle Block-In Question",
+      "type": "topic",
+      "description": "The host's argument that the security detail parked its own vehicles in a way that blocked them in at UVU, while Kirk's vehicle could leave.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14823"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1637,7 +2291,1599 @@
       "mentions_person_refs": [
         "N-3"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14797",
+      "ref": "C-14797",
+      "label": "Host Says She Rebuked Matt Walsh on X Over a Disingenuous Narrative",
+      "claim": "The host says that on the day before the episode she publicly rebuked her former colleague Matt Walsh on X over what she calls one of the more disingenuous narratives about the Tyler Robinson case.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10824"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:00:30",
+      "investigative_direction": "Capture the host's X reply to Walsh from the day before and Walsh's original post.",
+      "transcript_snippet": "I did actually have to slap down my former colleague Matt Walsh when he perpetuated one of the more disingenuous narratives out there.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-166"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14798",
+      "ref": "C-14798",
+      "label": "Host Says the Not-Guilty Plea Contradicts the Claim That Tyler's Father Turned Him In Over a Confession",
+      "claim": "The host says Robinson's not-guilty plea runs counter to claims from what she calls Department of War propagandists that Tyler's father turned him in because Tyler confessed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10888",
+        "N-10566"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:01:10",
+      "investigative_direction": "Collect the original statements from the named influencers that the father turned Robinson in over a confession and compare them with the plea record.",
+      "transcript_snippet": "runs counter to the extraordinary claims made by the Department of War propagandists that Tyler's dad turned him in because Tyler confessed to his crime",
+      "supports_claim_refs": [
+        "C-5041"
+      ],
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14799",
+      "ref": "C-14799",
+      "label": "Host Says Tyler Told His Father He Was Not Guilty and His Father Believes Him",
+      "claim": "The host says Tyler Robinson told his father he was not guilty, that his father believes him, and that Tyler went to the police station peaceably after being told he would be brought in either way.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10566"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:01:40",
+      "investigative_direction": "Identify the host's source for the father's account and look for any on-record statement by the Robinson family.",
+      "transcript_snippet": "Tyler told his father that he was not guilty. His father believes him.",
+      "supports_claim_refs": [
+        "C-5041"
+      ],
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14800",
+      "ref": "C-14800",
+      "label": "Host Says Reliable Hearsay Was Permissible at the Bindover Stage",
+      "claim": "The host says the court's finding was unsurprising because reliable hearsay is the standard at this stage and was permissible.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10825"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:02:30",
+      "investigative_direction": "Check Utah Rule 1102 and the bindover order for the hearsay standard applied.",
+      "transcript_snippet": "reliable hearsay is the standard. It was permissible at that stage.",
+      "supports_claim_refs": [
+        "C-7656"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-138"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14801",
+      "ref": "C-14801",
+      "label": "Host Says the Defense Moved to Dismiss Only Three of the Seven Charges",
+      "claim": "The host says the defense filed to have only three of the seven charges dismissed on the basis of the laws on the books, because at the dismissal stage the defense engages only with the state's arguments.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:02:40",
+      "investigative_direction": "Obtain the defense motion to dismiss and confirm which three counts it targeted.",
+      "transcript_snippet": "the defense only filed to have three of the seven charges dismissed based on the laws on the books",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14802",
+      "ref": "C-14802",
+      "label": "Host Says Influencers Claimed Robinson Confessed to His Parents and That They Admitted It in Written Statements",
+      "claim": "The host says influencers told the audience that Tyler Robinson confessed to his parents when he got home and that his parents admitted this in written statements supporting the prosecution, and that she has said none of this is true.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10566",
+        "N-10021"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:55",
+      "investigative_direction": "Locate the written parental statements, if any exist in the court record, and the posts first making the claim.",
+      "transcript_snippet": "He confessed it to his parents when he got to his house. At other points you were told that his like his parents admitted this in written statements in support of their son's prosecution.",
+      "supports_claim_refs": [
+        "C-5041"
+      ],
+      "mentions_person_refs": [
+        "N-40",
+        "N-126"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14803",
+      "ref": "C-14803",
+      "label": "Host Says the Family Went to the Police Station After Being Told They Had No Other Choice",
+      "claim": "The host says Tyler Robinson's father went with him to the police station only after the family was told the choice was to come in the nice way or have SWAT at the door, and that the father believes his son is innocent.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10021"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:30",
+      "investigative_direction": "Seek the probable-cause affidavit or police reports for the circumstances and timing of the surrender and any SWAT staging.",
+      "transcript_snippet": "Yes, he went with his son to the police station after they were told they had no other choice.",
+      "supports_claim_refs": [
+        "C-5041"
+      ],
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14804",
+      "ref": "C-14804",
+      "label": "Host Says Influencers Now Claim They Only Ever Said Robinson Confessed to Lance",
+      "claim": "The host says influencers are now pivoting to the position that they only ever said Robinson confessed to Lance Twiggs, which she says is false.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10566"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:50",
+      "investigative_direction": "Compare earlier posts and shows by the influencers with this later framing; check the charging documents for any alleged confession to Twiggs.",
+      "transcript_snippet": "we only ever said that he confessed to Lance",
+      "mentions_person_refs": [
+        "N-40",
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14805",
+      "ref": "C-14805",
+      "label": "Host Says Robinson's Parents and Grandparents Do Not Believe He Is Guilty",
+      "claim": "The host says she has told viewers that Tyler Robinson would plead not guilty and that his parents and grandparents do not think he is guilty.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10632"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:20",
+      "investigative_direction": "Find on-record statements from the parents and grandparents; the grandfather's courthouse remarks are covered in earlier episodes.",
+      "transcript_snippet": "his parents don't think he's guilty and his grandparents don't think he's guilty",
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14806",
+      "ref": "C-14806",
+      "label": "Host Says Alex Faria Rode in the Lead Black Jeep Wagoneer Security Vehicle",
+      "claim": "The host says the lead security vehicle on the left of the UVU lot diagram was a black Jeep Wagoneer carrying Alex Faria and other members of Charlie Kirk's security team.",
+      "anchored_artifacts": [
+        "A-2330"
+      ],
+      "related_nodes": [
+        "N-10820",
+        "N-11321"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:40",
+      "investigative_direction": "Match the named security members to vehicles using the security testimony, TPUSA staff lists and the video; confirm the spelling of Faria.",
+      "transcript_snippet": "Alex Faria is in this vehicle. That's one of the security members plus other members on the Charlie's security team.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14807",
+      "ref": "C-14807",
+      "label": "Host Solicits Tips to Identify Unidentified Security Team Members",
+      "claim": "The host asks viewers to send her the identity of an unidentified man in a bright blue short-sleeve shirt in the security team photo, via X or the tips email address, and says she wants to complete the chart to keep tracking people on that day.",
+      "anchored_artifacts": [
+        "A-3346.1"
+      ],
+      "related_nodes": [
+        "N-11321",
+        "N-10820"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:45",
+      "investigative_direction": "Check whether tips arrived identifying the men and whether later episodes name them.",
+      "transcript_snippet": "send us a email to tips@candaceowens. com",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14808",
+      "ref": "C-14808",
+      "label": "Host Says Justin Davis Drove the Lincoln Navigator With Dan Flood and Brian Harpole Aboard",
+      "claim": "The host says the Lincoln Navigator behind the Wagoneer was driven by Justin Davis, with Dan Flood and Brian Harpole in that vehicle.",
+      "anchored_artifacts": [
+        "A-2330"
+      ],
+      "related_nodes": [
+        "N-10820"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:12:30",
+      "investigative_direction": "Cross-check the vehicle assignments against Harpole's and Flood's own accounts and against hospital arrival video.",
+      "transcript_snippet": "The driver of that Lincoln Navigator is Justin Davis, okay? Justin, this is extremely important. Dan Flood's in that vehicle, Brian Harpole is in that vehicle",
+      "mentions_person_refs": [
+        "N-498",
+        "N-274",
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14809",
+      "ref": "C-14809",
+      "label": "Host Says Justin Davis Is the Driver Who Takes Charlie to the Hospital",
+      "claim": "The host says Justin Davis is the security vehicle driver who will eventually take Charlie Kirk to the hospital, and shows a photo of him.",
+      "anchored_artifacts": [
+        "A-3347.1"
+      ],
+      "related_nodes": [
+        "N-10823",
+        "N-10686"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:12:40",
+      "investigative_direction": "Compare against testimony and hospital footage about who drove Kirk and in which vehicle.",
+      "transcript_snippet": "he's going to eventually be the driver that takes Charlie to the hospital.",
+      "mentions_person_refs": [
+        "N-498",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14810",
+      "ref": "C-14810",
+      "label": "Host Says the Core Security Team Traveled Separately From Charlie Kirk",
+      "claim": "The host says the core security team was not with Charlie Kirk in Salt Lake City and arrived independently of him, while he attended the restaurantology event.",
+      "anchored_artifacts": [
+        "A-2330"
+      ],
+      "related_nodes": [
+        "N-10820",
+        "N-11061"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:20",
+      "investigative_direction": "Obtain security testimony on who traveled with Kirk and who was already at UVU.",
+      "transcript_snippet": "the core security team was was not with Charlie Kirk in Salt Lake City",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14811",
+      "ref": "C-14811",
+      "label": "Host Says Kirk Arrived in a Denali With Mikey McCoy and a Driver Named Christopher",
+      "claim": "The host says the front Yukon Denali was the one Charlie Kirk arrived and departed in, that Mikey McCoy arrived in it, and that its driver is known only by the first name Christopher.",
+      "anchored_artifacts": [
+        "A-2330"
+      ],
+      "related_nodes": [
+        "N-10820",
+        "N-10821"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:10",
+      "investigative_direction": "Identify Christopher's full name and role through TPUSA security rosters and testimony.",
+      "transcript_snippet": "we know that he shows up with Mikey McCoy in that vehicle. And we also know that the person driving it, we only have a first name for this guy, but his name is Christopher",
+      "mentions_person_refs": [
+        "N-1",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14812",
+      "ref": "C-14812",
+      "label": "Host Says Danny Phillip Drove the Second Denali With Blake Neff in the Back Seat",
+      "claim": "The host says the second Denali was driven by Danny Phillip with Blake Neff in the back seat, not the front passenger seat.",
+      "anchored_artifacts": [
+        "A-2330"
+      ],
+      "related_nodes": [
+        "N-10820",
+        "N-10715"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:20",
+      "investigative_direction": "Confirm seating from arrival video and from Neff's and Phillip's testimony.",
+      "transcript_snippet": "when they pull up, you have Danny Phillip driving, and you have Blake Neff in the back seat.",
+      "mentions_person_refs": [
+        "N-372",
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14813",
+      "ref": "C-14813",
+      "label": "Host Says Blake Neff Is Evasive About Who He Arrived With and What He Did in Salt Lake City",
+      "claim": "The host says Blake Neff is weird in discussing how he arrived at UVU and who he was with, and does not remember what they did in Salt Lake City with Charlie.",
+      "anchored_artifacts": [
+        "A-2330"
+      ],
+      "related_nodes": [
+        "N-10715"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:50",
+      "investigative_direction": "Compare Neff's testimony and public statements about his arrival with his itinerary records.",
+      "transcript_snippet": "Blake is very weird about discussing their arrival, who he was with. And also, when they were in Salt Lake City with Charlie, he doesn't remember what they did",
+      "mentions_person_refs": [
+        "N-162",
+        "N-372",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14814",
+      "ref": "C-14814",
+      "label": "Host Says the Hyundai Palisade Was the TPUSA Vehicle Parked on the Far Right",
+      "claim": "The host says that based on footage she has examined, the Hyundai Palisade on the far right of the diagram is the TPUSA vehicle and stayed parked there; she does not know who drove it.",
+      "anchored_artifacts": [
+        "A-2330"
+      ],
+      "related_nodes": [
+        "N-10820"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:10",
+      "investigative_direction": "Identify the Palisade's driver and registration from video and TPUSA vehicle records.",
+      "transcript_snippet": "that is the TPUSA vehicle and that kind of stays parked on the far right side",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14815",
+      "ref": "C-14815",
+      "label": "Host Says Kirk Was in the Vehicle Within 45 Seconds, So Keys Would Have Had to Be Found",
+      "claim": "The host says Charlie Kirk was put in the vehicle within 45 seconds, and that a car carrying his belongings would normally be locked, so Justin Davis would have had to find Christopher and get his keys.",
+      "anchored_artifacts": [
+        "A-2330"
+      ],
+      "related_nodes": [
+        "N-10822"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:50",
+      "investigative_direction": "Time the sequence from the shot to loading using the available footage.",
+      "transcript_snippet": "they get Charlie in that car within 45 seconds, right?",
+      "mentions_person_refs": [
+        "N-1",
+        "N-498"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14816",
+      "ref": "C-14816",
+      "label": "Host Says TPUSA Side Now Claims Kirk Told Security to Be on Him and No One Else",
+      "claim": "The host says people are now saying Charlie Kirk went further and told his security personnel they needed to be on him and no one else.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10320"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:40",
+      "investigative_direction": "Identify who is making the claim and when it first appeared.",
+      "transcript_snippet": "now they're saying that Charlie even took it a step further and said he wanted to make sure his security pers- people knew that they needed to be on him and no one else.",
+      "supports_claim_refs": [
+        "C-3368"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14817",
+      "ref": "C-14817",
+      "label": "Host Says Christopher Was Charlie's Main Security Person",
+      "claim": "The host says the person Charlie Kirk's main security person arrived with that day was Christopher, the driver of Kirk's Denali.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10821"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:50",
+      "investigative_direction": "Confirm Christopher's role on Kirk's detail from security testimony.",
+      "transcript_snippet": "Charlie's main security person who he shows up with is this person, Christopher.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14818",
+      "ref": "C-14818",
+      "label": "Host Says the Upstairs Clip Reached Her via TikTok and Baron Coleman",
+      "claim": "The host says the clip showing Christopher and Nate Walker heading upstairs was captured by someone on TikTok who she thinks sent it to Baron Coleman, who then showed it to her.",
+      "anchored_artifacts": [
+        "A-2329.4"
+      ],
+      "related_nodes": [
+        "N-10821"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:30",
+      "investigative_direction": "Obtain the original TikTok post and uploader and verify date and location metadata.",
+      "transcript_snippet": "somebody on Tik Tok, I think, sent it to Baron Coleman, and then Baron showed it to me",
+      "mentions_person_refs": [
+        "N-334",
+        "N-510",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14819",
+      "ref": "C-14819",
+      "label": "Host Says She Has Never Seen This Much Security at a Single Campus Event",
+      "claim": "The host says she has never seen this much security at an event except at the large events such as end-of-year AmFest or SAS, and notes that Kirk feared for his life.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10820",
+        "N-11215"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:55",
+      "investigative_direction": "Compare headcount of the security team at UVU with prior campus events using security rosters and event photos.",
+      "transcript_snippet": "I've never seen this much security unless it was end of year Amfest, uh end of year SAS, like one of the big events that they do.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14820",
+      "ref": "C-14820",
+      "label": "Host Says the Keys Were Apparently Waiting in the Car or Given to Justin Davis Beforehand",
+      "claim": "The host says the keys were apparently either waiting in the car or somehow given to Justin Davis before the sequence in the footage.",
+      "anchored_artifacts": [
+        "A-2329.1"
+      ],
+      "related_nodes": [
+        "N-10822"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:19:35",
+      "investigative_direction": "Ask Davis and Christopher where the keys were and who handed them over.",
+      "transcript_snippet": "That keys were apparently either waiting in the car or somehow given to Justin Davis before this, I don't know.",
+      "mentions_person_refs": [
+        "N-498"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14821",
+      "ref": "C-14821",
+      "label": "Host Says Nobody Asked for Chris or the Keys and the Car Was Open and Ready",
+      "claim": "The host says that in the footage nobody asks where Chris is or for the keys, and the vehicle is open and ready for them.",
+      "anchored_artifacts": [
+        "A-2329.1"
+      ],
+      "related_nodes": [
+        "N-10822"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:45",
+      "investigative_direction": "Frame-by-frame review of the footage for any exchange of keys or request for them.",
+      "transcript_snippet": "No nobody's going, \"Hey, where's Chris? We need the keys.\" It's just open and ready for them.",
+      "mentions_person_refs": [
+        "N-498"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14822",
+      "ref": "C-14822",
+      "label": "Host Says Blake Neff Leaves Danny Phillip Out of His Account of the Day",
+      "claim": "The host says that when Blake Neff tells the story of what happened he mysteriously keeps leaving Danny Phillip out, despite footage showing Danny running with Mikey while Blake is ahead.",
+      "anchored_artifacts": [
+        "A-2329.2"
+      ],
+      "related_nodes": [
+        "N-10715"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:50",
+      "investigative_direction": "Compare each of Neff's retellings with the footage and note when Phillip is and is not mentioned.",
+      "transcript_snippet": "he just mysteriously keeps leaving Danny Philip out of everything.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-372",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14823",
+      "ref": "C-14823",
+      "label": "Host Says the Security Vehicles Blocked Themselves In",
+      "claim": "The host says the security team blocked in its own vehicles, which she calls incompetence, since the silver car on the right could have been arranged differently.",
+      "anchored_artifacts": [
+        "A-2330"
+      ],
+      "related_nodes": [
+        "N-11406"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:25:30",
+      "investigative_direction": "Review the parking footage to see who parked where and in what order.",
+      "transcript_snippet": "You're the security, you should not be blocked in, your vehicle should be able to get out to just as easily as Charlie's vehicle can get out.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14824",
+      "ref": "C-14824",
+      "label": "Host Says Mikey McCoy as Chief of Staff Was Tasked With Updating Erika Kirk",
+      "claim": "The host says that, as told on air by Blake Neff's account, Mikey McCoy as Kirk's chief of staff was tasked with giving updates to Kirk's wife.",
+      "anchored_artifacts": [
+        "A-2338"
+      ],
+      "related_nodes": [
+        "N-10338"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:20",
+      "investigative_direction": "Check Neff's testimony and Erika Kirk's own accounts of who told her and when.",
+      "transcript_snippet": "you're the his chief of staff and you are being tasked with providing updates to his wife as we were told",
+      "supports_claim_refs": [
+        "C-1547"
+      ],
+      "mentions_person_refs": [
+        "N-194",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14825",
+      "ref": "C-14825",
+      "label": "Host Says Nate Walker, Blake Neff, Danny Phillip and Mikey McCoy Arrived at the Hospital",
+      "claim": "The host says it is known that Nate Walker, Blake Neff, Danny Phillip and Mikey McCoy were the four who arrived at the hospital.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10823",
+        "N-11208"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:40",
+      "investigative_direction": "Pull hospital arrival footage and testimony to confirm who arrived and in what vehicle.",
+      "transcript_snippet": "We know that it's going to be Nate Walker and Blake and Danny Phillip and Mikey McCoy that arrived to the hospital.",
+      "mentions_person_refs": [
+        "N-510",
+        "N-162",
+        "N-372",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14826",
+      "ref": "C-14826",
+      "label": "Neff Testifies the Security Team Went Into Action and Got Charlie Out",
+      "claim": "In testimony played on air, Blake Neff says he and Mikey leaving was not abandoning Charlie because Charlie had a security team that left immediately into action and got Charlie out.",
+      "anchored_artifacts": [
+        "A-2338"
+      ],
+      "related_nodes": [
+        "N-10715"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:05",
+      "investigative_direction": "Obtain the full transcript of the Neff testimony and the hearing in which it was given.",
+      "transcript_snippet": "Charlie had a security team. They all left immediately into action and they got Charlie out of there, which is what their job was to do.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-1",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14827",
+      "ref": "C-14827",
+      "label": "Neff Testifies He Was Not With Mikey and Believes He Was Ahead of Him",
+      "claim": "In testimony played on air, Blake Neff says he does not remember being with Mikey as they ran, and thinks he was ahead of him as they left.",
+      "anchored_artifacts": [
+        "A-2338"
+      ],
+      "related_nodes": [
+        "N-10715"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:30",
+      "investigative_direction": "Compare against footage of Neff and McCoy in the first seconds after the shot.",
+      "transcript_snippet": "So, I was not with Mikey imme- or I don't remember being with him. I think I was ahead of him as we left.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14828",
+      "ref": "C-14828",
+      "label": "Neff Testifies He Called His Mother After the Shooting",
+      "claim": "In testimony played on air, Blake Neff says that around the time Mikey called Erika he pulled out his phone and called his mother to say there had been a shooting.",
+      "anchored_artifacts": [
+        "A-2338"
+      ],
+      "related_nodes": [
+        "N-10550"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:30:50",
+      "investigative_direction": "Check Neff's call log for the time and duration of the call.",
+      "transcript_snippet": "I pull out my phone and I call my mom just to say Mom, there's been a a shooting you're going to see it on the news.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14829",
+      "ref": "C-14829",
+      "label": "Neff Testifies Mikey Told His Father to Call All His Pastor Friends",
+      "claim": "In testimony played on air, Blake Neff says Mikey McCoy called his father and said someone had shot Charlie, that his father needed to call all of his pastor friends, and that everyone needed to pray right now.",
+      "anchored_artifacts": [
+        "A-2338"
+      ],
+      "related_nodes": [
+        "N-10338"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:10",
+      "investigative_direction": "Check pastors' accounts for the time they first heard from McCoy's father and compare it with the call log.",
+      "transcript_snippet": "Dad, someone's shot Charlie. You need to call all of your pastor friends.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-194",
+        "N-17"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14830",
+      "ref": "C-14830",
+      "label": "Host Says Neff and Phillip Had a Big SUV That Was Rented",
+      "claim": "The host says the SUV that Blake Neff and Danny Phillip used was a big SUV that had been rented, and asks why it was not taken to the hospital.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10823"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:32:00",
+      "investigative_direction": "Obtain rental records for the Denalis and identify who rented them.",
+      "transcript_snippet": "you have this big SUV that you rented",
+      "mentions_person_refs": [
+        "N-162",
+        "N-372"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14831",
+      "ref": "C-14831",
+      "label": "Host Says Many People Tweeted the Same Claim About Robinson's Lawyer the Day Before",
+      "claim": "The host says she saw a bunch of people all tweeting the same thing the previous day, that Tyler Robinson's lawyer was arguing that political assassinations are okay.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10824"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:39:05",
+      "investigative_direction": "Build a timeline of the posts to test whether they shared a common source.",
+      "transcript_snippet": "Yesterday, I see a bunch of people all tweeting the same thing, that Tyler Robinson's lawyer is arguing that political assassinations are okay.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14832",
+      "ref": "C-14832",
+      "label": "Host Says the Court Clip Was Sent Out for Many People to Share",
+      "claim": "The host says the video Matt Walsh shared was clearly sent out for a bunch of people to share in order to delude the public into believing the lawyer was endorsing political assassination.",
+      "anchored_artifacts": [
+        "A-2332"
+      ],
+      "related_nodes": [
+        "N-10824"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:39:50",
+      "investigative_direction": "Trace the clip's first posting account and its spread.",
+      "transcript_snippet": "he shares this video, which was clearly sent out for a bunch of people to share and to try to delude the public into believing that that is what was happening",
+      "mentions_person_refs": [
+        "N-166",
+        "N-431"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14833",
+      "ref": "C-14833",
+      "label": "Host Predicts More Out-of-Context Clips Will Be Pushed to Outrage the Public",
+      "claim": "The host says viewers should expect to keep seeing a mandate in which things are taken out of context to outrage them, which does not reflect what is happening in the case.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10824"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:41:55",
+      "investigative_direction": "Track later clips in the case and compare their full context.",
+      "transcript_snippet": "You're going to keep seeing this mandate go out where things are going to be taken out of context and it's supposed to outrage you.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14834",
+      "ref": "C-14834",
+      "label": "Novac Tells the Court It Is True Kirk Spoke Hatefully of Certain Groups",
+      "claim": "Defense counsel Richard Novac says in the audio played that it is true Mr. Kirk spoke hatefully of certain groups of people, including people who do not have traditional gender identities, are not strictly heterosexual, or have sexual relationships out of marriage.",
+      "anchored_artifacts": [
+        "A-2336"
+      ],
+      "related_nodes": [
+        "N-10824",
+        "N-10825"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:42:20",
+      "investigative_direction": "Obtain the full hearing transcript to verify the wording and context.",
+      "transcript_snippet": "It is true that Mr. Kirk spoke hatefully of certain groups of people.",
+      "mentions_person_refs": [
+        "N-431",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14835",
+      "ref": "C-14835",
+      "label": "Novac Says the Evidence From Twiggs Is That He Identified as Non-Gender-Conforming and Was in a Relationship With Robinson",
+      "claim": "Novac says in the audio played that the evidence from Mr. Twiggs is that he identified in a non-gender-conforming way to his friends and was in a romantic relationship with Mr. Robinson.",
+      "anchored_artifacts": [
+        "A-2336"
+      ],
+      "related_nodes": [
+        "N-10825"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:42:45",
+      "investigative_direction": "Check the hearing record for what Twiggs's evidence consisted of and whether it was hearsay.",
+      "transcript_snippet": "it is true that the evidence from Mr. Twiggs is that um he identified in a non-gender-conforming way to his friends, and that he was in a romantic relationship with Mr. Robinson.",
+      "mentions_person_refs": [
+        "N-431",
+        "N-54",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14836",
+      "ref": "C-14836",
+      "label": "Novac Argues There Is a Gap Between Kirk's Expression and Robinson's Feelings That Lets the State Make It Up",
+      "claim": "Novac says in the audio played that there is a significant gap between what Kirk said and stood for and what Robinson felt about him, which allows the state to make up a motive and amounts to an inference without evidence.",
+      "anchored_artifacts": [
+        "A-2336"
+      ],
+      "related_nodes": [
+        "N-10825"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:35",
+      "investigative_direction": "Read the defense filing on political expression and the statutory wording cited.",
+      "transcript_snippet": "And it's a significant gap because what it allows the state to do is to make it up.",
+      "mentions_person_refs": [
+        "N-431",
+        "N-1",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14837",
+      "ref": "C-14837",
+      "label": "Host Says at a Probable Cause Hearing the Defense Does Not Argue Guilt",
+      "claim": "The host says the defense's job at a probable cause hearing is not to argue about the client's guilt or whether the client sent the text, but to engage the state's arguments.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10825"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:44:25",
+      "investigative_direction": "Confirm with Utah procedure rules and the defense's filing on scope.",
+      "transcript_snippet": "is the job of the defense in this this phase, when you talk about a probable cause hearing, is not to make any arguments.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14838",
+      "ref": "C-14838",
+      "label": "Host Says the Defense Is Not Conceding Robinson Sent the Message",
+      "claim": "The host says that on a motion like Count 6 the defense is not saying whether Tyler sent the message, only that even if he did, telling someone to lawyer up would be constitutional.",
+      "anchored_artifacts": [
+        "A-2327.1"
+      ],
+      "related_nodes": [
+        "N-10826"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:45:30",
+      "investigative_direction": "Read the defense's motion on Count 6 to see whether any fact is conceded.",
+      "transcript_snippet": "We're not even going to tell you whether or not he sent the message.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14839",
+      "ref": "C-14839",
+      "label": "Host Says the Prosecution Argues Robinson Is a Member of the LGBTQ Community",
+      "claim": "The host says the prosecution is arguing that Charlie Kirk's statements were perceived as hateful by Tyler Robinson, whom the prosecution argues is a member of the LGBTQ community.",
+      "anchored_artifacts": [
+        "A-2337"
+      ],
+      "related_nodes": [
+        "N-10825"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:47:20",
+      "investigative_direction": "Check the political motivation filing for the statements used to support this argument.",
+      "transcript_snippet": "the prosecution is the one that is arguing that Charlie's statements were perceived as hateful to Tyler Robinson, who they are arguing is a member of the LGBTQ community.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14840",
+      "ref": "C-14840",
+      "label": "Host Says Andrew Wilson Changed His Opinions After a Call From Turning Point USA",
+      "claim": "The host says Andrew Wilson, whom she hoped to talk with about the case, got a call from Turning Point USA, changed all of his opinions and did not know what was going on in the case.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11262"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:51:40",
+      "investigative_direction": "Compare Wilson's earlier and later public statements on the case and any record of contact with TPUSA.",
+      "transcript_snippet": "Obviously, he just is another fed slapper, got a call from Turning Point USA, changed all of his opinions and didn't know what was going on in the case at all.",
+      "mentions_person_refs": [
+        "N-18",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14841",
+      "ref": "C-14841",
+      "label": "Host Says Mikey McCoy Turned Around for About 0.75 of a Second and Stayed Ahead of Charlie",
+      "claim": "The host says Mikey McCoy turns around for about 0.75 of a second, stays ahead of Charlie, and so could not have seen much, and that this alarmed people and calls into question the idea that he saw a lot of blood.",
+      "anchored_artifacts": [
+        "A-2339"
+      ],
+      "related_nodes": [
+        "N-10198"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:55:30",
+      "investigative_direction": "Measure McCoy's head turn in frame-by-frame footage.",
+      "transcript_snippet": "it is literally a split second that Mikey turns around. I think it's like 0.75 of a second.",
+      "supports_claim_refs": [
+        "C-3386"
+      ],
+      "mentions_person_refs": [
+        "N-194",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14842",
+      "ref": "C-14842",
+      "label": "Host Says Blake Neff Is the Most Community-Noted Employee of the Charlie Kirk Show",
+      "claim": "The host says Blake Neff is easily the most community-noted employee of the Charlie Kirk Show and that nobody has been clocked faster as a liar online.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10845"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:56:20",
+      "investigative_direction": "Count Community Notes attached to Neff's posts compared with other staff.",
+      "transcript_snippet": "when he is easily the most community noted employee of the Charlie Kirk Show.",
+      "mentions_person_refs": [
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14843",
+      "ref": "C-14843",
+      "label": "Commenter Nick Quotes Kirk That Gut Instincts Are Usually Right and Host Agrees",
+      "claim": "The host reads a comment from Nick that quotes Charlie Kirk as saying that when a story does not click, our guts are usually right, and says Kirk held that perspective.",
+      "anchored_artifacts": [
+        "A-2339"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:56:30",
+      "investigative_direction": "Find the original Kirk statement and its date.",
+      "transcript_snippet": "When I see a story and it doesn't click, our guts are usually right.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14844",
+      "ref": "C-14844",
+      "label": "Host Says Charlie Correctly Predicted His Death and Its Link to Turning Point USA",
+      "claim": "The host says Charlie Kirk correctly predicted his death and that it would be associated with Turning Point USA.",
+      "anchored_artifacts": [
+        "A-2340"
+      ],
+      "related_nodes": [
+        "N-10389"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:57:10",
+      "investigative_direction": "Look for dated statements by Kirk linking his death to Turning Point USA.",
+      "transcript_snippet": "Charlie correctly predicted his death and that it would be associated with Turning Point USA.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14845",
+      "ref": "C-14845",
+      "label": "Host Says Kirk Foresaw a Young Death the Moment He Signed",
+      "claim": "The host says that the moment Charlie Kirk signed the dotted line he said he foresaw his death and that he would die young, and that it would be tied to a wider awakening.",
+      "anchored_artifacts": [
+        "A-2340"
+      ],
+      "related_nodes": [
+        "N-10389"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:57:25",
+      "investigative_direction": "Identify what was signed and the source of the statement.",
+      "transcript_snippet": "The moment he signed the dotted line he said he foresaw his death. That he would be young.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14846",
+      "ref": "C-14846",
+      "label": "Host Says the People Kirk Argued With About Israel the Day Before Were the First to Know He Was Dead",
+      "claim": "The host says the people Charlie Kirk was arguing with the day before, and the cause he was leaving, also happen to be the first people who knew he was dead, prompted by a comment about Jack Hibbs's statements about Israel.",
+      "anchored_artifacts": [
+        "A-2340"
+      ],
+      "related_nodes": [
+        "N-10818",
+        "N-10025"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:59:50",
+      "investigative_direction": "Identify who is meant and when each person first learned of Kirk's death.",
+      "transcript_snippet": "the people that Charlie is arguing with the day before and the cause that he is leaving also happen to be the first people that knew that he was dead.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-212"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14847",
+      "ref": "C-14847",
+      "label": "Host Says It Is Known the Person Facing Death Is Not the Individual Who Murdered Charlie",
+      "claim": "The host says that if a person is put to death, everyone knows that person is not involved or at least not the individual who murdered Charlie, and this would cause an awakening.",
+      "anchored_artifacts": [
+        "A-2340"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:00:50",
+      "investigative_direction": "Ask the host for the basis; compare with the evidence record.",
+      "transcript_snippet": "we all know that that person is not involved or at least is not the individual who murdered Charlie",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14848",
+      "ref": "C-14848",
+      "label": "Host Says She Gave Her Verdict on Lindsay Clancy Before Trial",
+      "claim": "The host says she issued her verdict on the Lindsay Clancy case early on before it went to trial, looked at the prescription Clancy was on, and has stayed out of the case to focus on Kirk.",
+      "anchored_artifacts": [
+        "A-2340"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "01:02:00",
+      "investigative_direction": "Locate the host's earlier statement on Clancy.",
+      "transcript_snippet": "I told you very early on I had issued my verdict before this ever went to trial.",
+      "mentions_person_refs": [
+        "N-206",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14849",
+      "ref": "C-14849",
+      "label": "Host Says She Covered Baldoni and the Kamala Chronicles Fully",
+      "claim": "The host says she does not do things halfway and treated the Blake Lively and Justin Baldoni case and the Kamala Chronicles the way she now treats the Charlie Kirk case.",
+      "anchored_artifacts": [
+        "A-2340"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "01:02:10",
+      "investigative_direction": "Review the host's prior series for comparable depth.",
+      "transcript_snippet": "Like it was with the Blake and Justin Baldoni case, as it it was with the Kamala Chronicles, and as it is now with the Charlie Kirk case.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-491"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14850",
+      "ref": "C-14850",
+      "label": "Host Says Erika Kirk Has Not Acknowledged the Lies She Told",
+      "claim": "The host says Erika Kirk has not come out and acknowledged the lies she told, and that if she had meaningfully misunderstood she could have corrected them.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:02:40",
+      "investigative_direction": "List the specific statements the host considers false and check for any corrections by Erika Kirk.",
+      "transcript_snippet": "she hasn't even come and acknowledge the lies that she told us",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14851",
+      "ref": "C-14851",
+      "label": "Host Says Erika Kirk Is Doing the Opposite of What Her Husband Expressed",
+      "claim": "The host says Erika Kirk is doing the opposite of what her husband expressed.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:03:00",
+      "investigative_direction": "Specify which of Kirk's expressed wishes the host has in mind and compare with Erika's actions.",
+      "transcript_snippet": "Ignore the fact that she's doing the opposite of what her husband expressed.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14852",
+      "ref": "C-14852",
+      "label": "Host Says She Is Holding Material Back Because of the Brian Harpole Case",
+      "claim": "The host says there are things she is holding back because of the Brian Harpole case.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10651"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "01:04:20",
+      "investigative_direction": "Check the docket for the Harpole case and the host's earlier mentions of it.",
+      "transcript_snippet": "obviously there's some stuff I'm holding back cuz of the Brian Harpole case",
+      "mentions_person_refs": [
+        "N-3",
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14853",
+      "ref": "C-14853",
+      "label": "Host Says TPUSA-Side Voices Now Say Kirk Thought He Was Going to Die",
+      "claim": "The host says people are now arguing that Charlie did think he was going to die, which she contrasts with Brian Harpole saying there were no threats the night before and with a conflict between what security and TPUSA recall.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10320"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:04:40",
+      "investigative_direction": "Find the TPUSA-side statements that Kirk feared he would die and compare dates with Harpole's interview.",
+      "transcript_snippet": "they're like, \"Oh, Charlie did think he was going to die.\"",
+      "confidence": "high",
+      "supports_claim_refs": [
+        "C-3368",
+        "C-11320"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-270",
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 147,
+          "video_timestamp": "01:03:55",
+          "speaker_node_ref": "N-3",
+          "quote": "...he CIA hat out. Um and it is we know actually the decentralized intelligence agency. There's just no There's no nucleus. Everybody is sharing in the background. We're all meaningfully...",
+          "context": "DIA / DCIA brand line from corrected transcript (CKA seq 147).",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "brand_joke",
+            "transcript_backfill"
+          ]
+        },
+        {
+          "episode": 147,
+          "video_timestamp": "00:11:45",
+          "speaker_node_ref": "N-3",
+          "quote": "send us a email to tips@candaceowens. com",
+          "context": "Host asks viewers to identify unidentified members of Kirk's security team through the tips address.",
+          "confidence": "high",
+          "tags": [
+            "tips_network",
+            "tip_request"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-14",
+      "ref": "M-14",
+      "canonical_term": "Candace Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 147,
+          "video_timestamp": "01:03:55",
+          "speaker_node_ref": "N-3",
+          "quote": "buy a CIA hat",
+          "context": "Merch plug for the CIA hat before the Decentralized Intelligence Agency riff.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "brand_joke"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-154",
+      "ref": "M-154",
+      "canonical_term": "Second Favorite Shirt",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 147,
+          "video_timestamp": "01:03:55",
+          "speaker_node_ref": "N-3",
+          "quote": "Buy your second favorite shirt, not your first favorite shirt.",
+          "context": "Merch plug saying only the second favorite shirt is available on the site.",
+          "confidence": "medium",
+          "tags": [
+            "merch"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-185",
+      "ref": "M-185",
+      "canonical_term": "Amnesia",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 147,
+          "video_timestamp": "00:09:26",
+          "speaker_node_ref": "N-3",
+          "quote": "it relies on all of us developing Blake Neff's amnesia to pretend that it's true",
+          "context": "Host uses amnesia as a jab at Neff over the influencers' retreat from the confession claim.",
+          "confidence": "high",
+          "tags": [
+            "blake_neff",
+            "amnesia"
+          ]
+        },
+        {
+          "episode": 147,
+          "video_timestamp": "00:23:27",
+          "speaker_node_ref": "N-3",
+          "quote": "He always develops Danny Philip amnesia in particular.",
+          "context": "Host says Neff leaves Danny Phillip out of his accounts.",
+          "confidence": "high",
+          "tags": [
+            "blake_neff",
+            "amnesia"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-144",
+      "ref": "M-144",
+      "canonical_term": "The Preggo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 147,
+          "video_timestamp": "00:36:16",
+          "speaker_node_ref": "N-3",
+          "quote": "I am pregnant, it is summer in Tennessee, and my patience is growing thin.",
+          "context": "Host opens the podcast-bros segment by citing her pregnancy.",
+          "confidence": "high",
+          "tags": [
+            "pregnancy",
+            "opener"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-344",
+      "ref": "M-344",
+      "canonical_term": "Conservabros",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 147,
+          "video_timestamp": "00:47:55",
+          "speaker_node_ref": "N-3",
+          "quote": "if you want me to do your homework, Conservabros",
+          "context": "Host tells conservative commentators to read the August 11 filing.",
+          "confidence": "high",
+          "tags": [
+            "label",
+            "conservatives"
+          ]
+        },
+        {
+          "episode": 147,
+          "video_timestamp": "01:02:29",
+          "speaker_node_ref": "N-3",
+          "quote": "The reason why so many conserve-a-bros love it",
+          "context": "Host on conservative commentators drawing a line between Erika skeptics and Clancy supporters.",
+          "confidence": "medium",
+          "tags": [
+            "label",
+            "conservatives"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-345",
+      "ref": "M-345",
+      "canonical_term": "Pentagon Influencers",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 147,
+          "video_timestamp": "00:01:00",
+          "speaker_node_ref": "N-3",
+          "quote": "it's going to be a long few years of Pentagon propaganda",
+          "context": "Host frames the neocon response to the bindover as Pentagon propaganda.",
+          "confidence": "medium",
+          "tags": [
+            "label",
+            "pentagon"
+          ]
+        },
+        {
+          "episode": 147,
+          "video_timestamp": "00:07:40",
+          "speaker_node_ref": "N-3",
+          "quote": "the orbit of Pentagon influencers",
+          "context": "Host on who told the public Robinson was guilty.",
+          "confidence": "high",
+          "tags": [
+            "label",
+            "pentagon"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-346",
+      "ref": "M-346",
+      "canonical_term": "What Luck",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 147,
+          "video_timestamp": "00:21:22",
+          "speaker_node_ref": "N-3",
+          "quote": "And what luck? What falls out of that vehicle at the end there?",
+          "context": "Host sarcastically calls the vehicle footage lucky.",
+          "confidence": "high",
+          "tags": [
+            "sarcasm",
+            "luck"
+          ]
+        },
+        {
+          "episode": 147,
+          "video_timestamp": "00:58:42",
+          "speaker_node_ref": "N-3",
+          "quote": "Oh, what luck. There's so much luck in this story.",
+          "context": "Host on the people who first knew Kirk was dead.",
+          "confidence": "high",
+          "tags": [
+            "sarcasm",
+            "luck"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-347",
+      "ref": "M-347",
+      "canonical_term": "Dip and Meet",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 147,
+          "video_timestamp": "00:20:06",
+          "speaker_node_ref": "N-3",
+          "quote": "like a perfect little dip and meet, as if they all knew to go there",
+          "context": "Host describes McCoy, Phillip and Davis meeting at Kirk's vehicle.",
+          "confidence": "high",
+          "tags": [
+            "footage",
+            "sarcasm"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-348",
+      "ref": "M-348",
+      "canonical_term": "Lies Have an Expiration Date",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 147,
+          "video_timestamp": "00:09:26",
+          "speaker_node_ref": "N-3",
+          "quote": "Remember, lies have an expiration date, the truth does not.",
+          "context": "Host on the influencers' confession narrative.",
+          "confidence": "high",
+          "tags": [
+            "refrain"
+          ]
+        },
+        {
+          "episode": 147,
+          "video_timestamp": "00:38:59",
+          "speaker_node_ref": "N-3",
+          "quote": "lies have an expiration date.",
+          "context": "Host repeats the line when explaining her case-study approach.",
+          "confidence": "high",
+          "tags": [
+            "refrain"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-349",
+      "ref": "M-349",
+      "canonical_term": "Freeze or Film",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 147,
+          "video_timestamp": "00:57:51",
+          "speaker_node_ref": "N-3",
+          "quote": "there is also freeze or film",
+          "context": "Host reads a comment adding freeze or film to fight or flight.",
+          "confidence": "high",
+          "tags": [
+            "comment",
+            "neff"
+          ]
+        }
+      ]
+    }
+  ]
 }

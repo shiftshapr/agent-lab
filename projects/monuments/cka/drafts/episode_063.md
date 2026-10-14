@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 66587d7a4421da88738bff5bc6b5a63723d99c10368f6539b5cddd00de9e63f1
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-774, N-775, N-777, N-11122, N-11123, N-11124, N-11125, N-11127
+  - Tip-minted Nodes (supplement_2026-10b): N-774, N-775, N-777, N-11123, N-11124, N-11125, N-11127
   - Hole-minted Nodes (reintro-ep063): N-10492
   - Tip-minted Nodes (reintro-ep063): N-10905
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6983–C-7052
   - New Nodes Introduced: N-501, N-10443, N-10444, N-10445
-  - Reused Nodes Appearing: N-2, N-14, N-15, N-22, N-27, N-190, N-194, N-221, N-274, N-476, N-10000, N-10001, N-10002, N-10197, N-10209, N-10211, N-10323, N-10340, N-10413, N-10419, N-10422, N-10428, N-10439, N-10899, N-11033, N-776, N-10968, N-11126
+  - Reused Nodes Appearing: N-2, N-14, N-15, N-22, N-27, N-190, N-194, N-221, N-274, N-476, N-10000, N-10001, N-10002, N-10197, N-10209, N-10211, N-10323, N-10340, N-10413, N-10419, N-10422, N-10428, N-10439, N-10899, N-11033, N-776, N-10968, N-11126, N-11122
   - (see registers)
 
 # Episode 63 – Analysis Record

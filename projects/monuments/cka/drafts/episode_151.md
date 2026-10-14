@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 7bb121d0ec2fb6f7ef5f449856c387ad97b4f7d167aa9b95601e197b3fa147dc
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-906, N-907, N-11310, N-11311
+  - Tip-minted Nodes (supplement_2026-10e): N-907, N-11311
   - Hole-minted Nodes (reintro-ep151): N-10864
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11757–C-11803
@@ -33,8 +33,8 @@
 - Episode 151 Ledger Summary
   - Artifact Families Introduced: A-2362, A-2363, A-2364, A-2365, A-2366, A-2367, A-2368, A-2369, A-2370, A-2371, A-2372, A-2373, A-2521
   - Claim Range: C-3426–C-3444, C-3746
-  - New Nodes Introduced: N-10827, N-10828, N-10829, N-10830
-  - Reused Nodes Appearing: N-11, N-512, N-250, N-3, N-60, N-371, N-612, N-618, N-10000, N-10014, N-10040, N-10043, N-10100, N-10104, N-10107, N-10164, N-10172, N-10398, N-10416, N-10447, N-10537, N-10573, N-10651, N-10699, N-10737, N-10797, N-10810, N-10900, N-10925, N-10974, N-11053
+  - New Nodes Introduced: N-10827, N-10829, N-10830
+  - Reused Nodes Appearing: N-11, N-512, N-250, N-3, N-60, N-371, N-612, N-618, N-10000, N-10014, N-10040, N-10043, N-10100, N-10104, N-10107, N-10164, N-10172, N-10398, N-10416, N-10447, N-10537, N-10573, N-10651, N-10699, N-10737, N-10797, N-10810, N-10900, N-10925, N-10974, N-11053, N-906, N-10828, N-11310
   - Existing Nodes Reused (by name – IDs require ledger resolution): Charlie Kirk, Erica Kirk, Frank Turek, Brian Harpole, Blake Harif/Hariff, Tyler Robinson, Terrell Farnsworth, Jeremy Boreing, Andrew Kolvet, Tyler Bowyer, Blake Neff, Officer Bagley, Candace Owens
 
 ---
@@ -1194,7 +1194,7 @@ Claim Timestamp: 00:03:52
 
 Claim: The host argues the feds would not have taken Blake Hariff's blood-free shirt while leaving Charlie Kirk's bloodied necklace and bloodied microphone uncollected.
 
-Transcript Snippet: why would the feds collect Blake Heriff's shirt, which had no blood in it, but not collect Charlie Kirk's bloodied necklace and the bloodied microphone.
+Transcript Snippet: why would the feds collect Blake Hariff's shirt, which had no blood in it, but not collect Charlie Kirk's bloodied necklace and the bloodied microphone.
 
 Anchored Artifacts: 
 Mentions: N-1, N-906
@@ -1785,7 +1785,7 @@ Claim Timestamp: 00:48:25
 
 Claim: The host says she is still looking for a second person to confirm that an unnamed doctor, who she is told was in the room during Charlie's surgery at Timpanogos, recused himself from all files due to something that took place in the room.
 
-Transcript Snippet: who we are told uh was in the room when surgery was being conducted on Charlie at Tempenogus and who recused himself from all files due to something that took place in the room.
+Transcript Snippet: who we are told uh was in the room when surgery was being conducted on Charlie at Timpanogos and who recused himself from all files due to something that took place in the room.
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
@@ -1817,7 +1817,7 @@ Claim Timestamp: 00:52:56
 
 Claim: The host says she has pending lawsuits with Brian Harpole and will not share some material because of them.
 
-Transcript Snippet: Some stuff we're not going to share, obviously, because I do have pending lawsuits with Brian Harple
+Transcript Snippet: Some stuff we're not going to share, obviously, because I do have pending lawsuits with Brian Harpole
 
 Anchored Artifacts: 
 Mentions: N-270, N-3

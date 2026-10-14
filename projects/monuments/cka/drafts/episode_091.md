@@ -15,9 +15,9 @@
   - Hole-minted Nodes (reintro-ep091): N-345, N-346, N-347, N-348, N-353, N-10613
   - Tip-minted Nodes (reintro-ep091): N-648, N-732, N-733, N-734
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-9, N-15, N-36, N-40, N-162, N-194, N-213, N-225, N-456, N-10000, N-10026, N-10246, N-10253, N-10276, N-10299, N-10325, N-10398, N-10401, N-10411, N-10572, N-10975, N-11186, N-11244
+  - Reused Nodes Appearing: N-9, N-15, N-36, N-40, N-162, N-194, N-213, N-225, N-456, N-10000, N-10026, N-10246, N-10253, N-10276, N-10299, N-10325, N-10398, N-10401, N-10411, N-10572, N-10975, N-11186, N-11244, N-10606
   - Claim Range (supplement_2026-10f): C-12818–C-12895
- - New Nodes Introduced: N-10599, N-10600, N-10601, N-10602, N-10603, N-10604, N-10605, N-10606
+ - New Nodes Introduced: N-10599, N-10600, N-10601, N-10602, N-10603, N-10604, N-10605
  - Hole-minted Nodes (wave3): N-428, N-429
  - Reused Nodes Appearing: none (Wave 2: local ids removed)
  - (see registers)

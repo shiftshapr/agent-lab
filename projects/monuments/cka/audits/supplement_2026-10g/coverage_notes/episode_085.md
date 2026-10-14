@@ -1,0 +1,22 @@
+# Coverage notes, episode 85
+
+- Existing draft held 28 claims (C-2581 to C-2608, plus the Patsy occurrence); this supplement adds 100 new claims (C-14450 to C-14549), 1 new artifact family (A-3324), 1 new topic node (N-11397), 2 new memes (M-340, M-341) and 6 occurrences of existing memes (M-83, M-235, M-80 twice, M-23, M-18).
+- About 24 beats were judged covered: the Guardian article contents, the Weiss "Yes, I do" and autopsy lines, the Turek clip (informed, Sheridan and LoCastro, plane), the November tweet, the Cox clip (family member, friend, "confessed or implied"), the Brooksby clips (8:02 call, suicidal ideation, parents, drive to the office, SWAT fear), the NYT "gorgeous" quote, and the resignation, Friday, 30 years and website-removal items.
+- The five most important beats the earlier pass missed: (1) 00:17:32 the host says Erika's lawyer confirmed to her that they have nothing more than the public has seen, against Erika's Weiss line; (2) 00:22:43-00:24:59 the July 14 Long Beach trip of Erika, LoCastro, Barcello and Niekerk, with the host's Barcello military, PI and TPUSA background; (3) 00:29:40-00:37:57 the host's source account that Mitchell gave Robinson a SWAT-or-surrender choice, and her points that no signed statement exists and the father never said his son did it; (4) 00:31:45-00:33:15 and 00:53:09 the planted-gun, bomb-dog, seven-print-sets and 99.9 percent claims; (5) 00:20:50 the host says Justin Streiff told her he arranged all the planes, against Turek's account that Mikey arranged the plane.
+- DIA hits: none. The transcript has no "tips at", "moretips", "tip line", "bounty" or "decentralized intelligence" strings.
+- Rejected under the admission test: the "Freemasons sacrifice people" opener, "all roads lead to France and Israel" (00:00:50), the host's speculation that Brooksby's resignation is corruption or tied to the Robinson case (00:29:07), "that is why Erika must be complicit" (00:18:36), the rhetorical Robinson-plea questions (00:42:54), "Cox is a bad man" (00:39:39), the Lindsey Graham character remarks (00:44:51), and the sponsor reads (00:25:40, 00:44:51, 00:45:57).
+- Existing-node note: Katherine LoCastro is N-605 (the transcript spells it LaCastro). Jonathan Barcello is N-682 (node name Barcelo).
+- Doubts:
+  - MISTRANSCRIPTION: "Frank Churik" -> "Frank Turek" (00:13:45, 00:18:36; the draft also flags it; N-7 aliases already contain "Frank Churik", which should be purged)
+  - MISTRANSCRIPTION: "Andrew Colvert" -> "Andrew Kolvet" (00:13:45)
+  - MISTRANSCRIPTION: "Mikey McQuaid" -> "Mikey McCoy" (00:22:43; McQuaid is a real surname elsewhere; N-194 aliases already contain it)
+  - MISTRANSCRIPTION: "Katherine LaCastro" -> "Katherine LoCastro" (00:20:50, 00:22:43; spelling per N-605, unverified)
+  - MISTRANSCRIPTION: "Jonathan Barcello" -> "Jonathan Barcelo" (00:22:43; per N-682, unverified)
+  - MISTRANSCRIPTION: "Cash" -> "Kash Patel" (00:39:39; "cash" is a common word)
+  - MISTRANSCRIPTION: "House in Habit" / "House in needs" -> "House Inhabit" (00:55:11)
+  - MISTRANSCRIPTION: "NG intervention group" -> "GIGN intervention group" (00:14:38; likely the French gendarmerie unit, unverified)
+  - MISTRANSCRIPTION: "ball worship" -> "Baal worship" (00:04:42; "ball" is a common word)
+  - MISTRANSCRIPTION: "sexual rights" -> "sexual rites" (00:04:42; "rights" is a common word)
+  - MISTRANSCRIPTION: "A parent suicide attempt" -> "An apparent suicide attempt" (00:11:16; "parent" is a common word)
+  - MISTRANSCRIPTION: "Koreshi person" -> unresolved, possibly "Qureshi" (00:38:44)
+  - Unresolved: "Robby Hild" (00:37:57) versus the topic spelling "Robbie Hild" (N-10153; no person node). "Frederick Vaglio", "Jean-Luc Baguer" and "Marie-Hélène Dini" are kept as transcribed and not verified. The speakers of the 00:02:36 clip are unnamed. The draft's N-276 is Nate Brooksby while the episode 60 supplement uses N-276 for Dan Flood; check one of them at integration.

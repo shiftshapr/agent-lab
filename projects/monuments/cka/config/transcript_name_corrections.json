@@ -474,6 +474,849 @@
       [
         131
       ]
+    ],
+    [
+      "\\bAndrew (?:Colvert|Colbett|Kovvat|Kolbatz|Kolvetz|Kova)\\b",
+      "Andrew Kolvet"
+    ],
+    [
+      "\\bMiss Erika Francancy\\b",
+      "Erika Frantzve"
+    ],
+    [
+      "\\bKavanaaugh\\b",
+      "Kavanaugh"
+    ],
+    [
+      "\\bJohnny Yapp\\b",
+      "Johnny Yep"
+    ],
+    [
+      "\\bRenee Croftsman\\b",
+      "Renee Crossman"
+    ],
+    [
+      "\\bgrassy null\\b",
+      "grassy knoll"
+    ],
+    [
+      "\\bCory Lundowski\\b",
+      "Corey Lewandowski"
+    ],
+    [
+      "\\bSergy Brin\\b",
+      "Sergey Brin"
+    ],
+    [
+      "\\bFrank (?:Tur|Churik|Churick|Cherik|Czernecki|Turik)\\b",
+      "Frank Turek"
+    ],
+    [
+      "\\bCanis Owens\\b",
+      "Candace Owens"
+    ],
+    [
+      "\\bKaye Mcaney\\b",
+      "Kayleigh McEnany"
+    ],
+    [
+      "\\bPhil Lman\\b",
+      "Phil Lyman"
+    ],
+    [
+      "\\bideiations\\b",
+      "ideations"
+    ],
+    [
+      "\\bLynen Baines\\b",
+      "Lyndon Baines"
+    ],
+    [
+      "\\bgoldir\\b",
+      "Golda Meir"
+    ],
+    [
+      "\\b(?:Arth, Texas)\\b",
+      "Erath, Texas"
+    ],
+    [
+      "\\bAith County\\b",
+      "Erath County"
+    ],
+    [
+      "\\bOperation Mocking Faster\\b",
+      "Operation Mocking Pastor"
+    ],
+    [
+      "\\bNew (?:Bron Falls|Bronals|Bronzeville)\\b",
+      "New Braunfels"
+    ],
+    [
+      "\\bPalentine\\b",
+      "Palatine"
+    ],
+    [
+      "\\bNeelk Boys\\b",
+      "Nelk Boys"
+    ],
+    [
+      "\\bNel Boys\\b",
+      "Nelk Boys"
+    ],
+    [
+      "\\bEric (?:Stacleback|Stelbach)\\b",
+      "Eric Stakelbeck"
+    ],
+    [
+      "\\bKier Starmer\\b",
+      "Keir Starmer"
+    ],
+    [
+      "\\bLex (?:Freriedman|Freedman)\\b",
+      "Lex Fridman"
+    ],
+    [
+      "\\bRomneyy\\b",
+      "Romney"
+    ],
+    [
+      "\\bPete Hexath\\b",
+      "Pete Hegseth"
+    ],
+    [
+      "\\bCyros Company\\b",
+      "Kairos Company"
+    ],
+    [
+      "\\bChyros company\\b",
+      "Kairos Company"
+    ],
+    [
+      "\\bTa(?:cit|clith) Institute\\b",
+      "Tachlith Institute"
+    ],
+    [
+      "\\bRathon\\b",
+      "Raytheon"
+    ],
+    [
+      "\\bNorth Brunman\\b",
+      "Northrop Grumman"
+    ],
+    [
+      "\\bCalvary Capell\\b",
+      "Calvary Chapel"
+    ],
+    [
+      "\\bTom RTM Alexandrovich\\b",
+      "Tom Artiom Alexandrovich"
+    ],
+    [
+      "\\bJazelle Bunchon\\b",
+      "Gisele Bundchen"
+    ],
+    [
+      "\\bMatthew Krooks\\b",
+      "Matthew Crooks"
+    ],
+    [
+      "\\bKrooks\\b",
+      "Crooks"
+    ],
+    [
+      "\\b(?:Cal )?Cal(?:ira|era|derira) [Ee]ngineering\\b",
+      "Caldera Engineering"
+    ],
+    [
+      "\\bhydroxychloricquin\\b",
+      "hydroxychloroquine"
+    ],
+    [
+      "\\bivormectin\\b",
+      "ivermectin"
+    ],
+    [
+      "\\bNextplenon\\b",
+      "Nexplanon"
+    ],
+    [
+      "\\bAstra Timunes\\b",
+      "Astrid Tuminez"
+    ],
+    [
+      "\\bAstred (?:Tum Tuminez|Tumz|Humanez)\\b",
+      "Astrid Tuminez"
+    ],
+    [
+      "\\bBrian (?:Harpull|Harple)\\b",
+      "Brian Harpole"
+    ],
+    [
+      "\\bNell (?:debuckman|DeBuckman)\\b",
+      "Nelda Buckman"
+    ],
+    [
+      "\\bScripts Media\\b",
+      "Scripps Media"
+    ],
+    [
+      "\\bScriptscripts News\\b",
+      "Scripps News"
+    ],
+    [
+      "\\bHow the west was one\\b",
+      "How the West Won"
+    ],
+    [
+      "\\bABFest\\b",
+      "AmFest"
+    ],
+    [
+      "\\bHarley Pastnick\\b",
+      "Harley Pasternak"
+    ],
+    [
+      "\\bfchette\\b",
+      "flechette"
+    ],
+    [
+      "\\bKovitt\\b",
+      "Kolvet"
+    ],
+    [
+      "\\bCanis Intelligence Agency\\b",
+      "Candace Intelligence Agency"
+    ],
+    [
+      "\\bshakeddown\\b",
+      "shakedown"
+    ],
+    [
+      "\\bYuron Lachinsky\\b",
+      "Yaron Lischinsky"
+    ],
+    [
+      "\\bFort Wuga\\b",
+      "Fort Huachuca"
+    ],
+    [
+      "\\b(?:Camp|Fort) Wa ?[Cc]huka\\b",
+      "Fort Huachuca"
+    ],
+    [
+      "\\bWachuka\\b",
+      "Huachuca"
+    ],
+    [
+      "\\bCabbat Phillips\\b",
+      "Cabot Phillips"
+    ],
+    [
+      "\\bNeielson\\b",
+      "Nielsen"
+    ],
+    [
+      "\\bCamala Harris\\b",
+      "Kamala Harris"
+    ],
+    [
+      "\\bCarrie (?:Peen|Prejean) Bowler\\b",
+      "Carrie Prejean Bowler"
+    ],
+    [
+      "\\bChristian Ronaldo\\b",
+      "Cristiano Ronaldo"
+    ],
+    [
+      "\\bKatherine LaCastro\\b",
+      "Katherine Locastro"
+    ],
+    [
+      "\\bJonathan Barcello\\b",
+      "Jonathan Barcelo"
+    ],
+    [
+      "\\bHouse in (?:Habit|needs)\\b",
+      "House Inhabit"
+    ],
+    [
+      "\\bSteve Witcoff\\b",
+      "Steve Witkoff"
+    ],
+    [
+      "\\bSun(?:yong| Young) Moon\\b",
+      "Sun Myung Moon"
+    ],
+    [
+      "\\bJerry Fwell\\b",
+      "Jerry Falwell"
+    ],
+    [
+      "\\b(?:Fall Kirk|Fallerk|Falerkerk|Falerk) Center\\b",
+      "Falkirk Center"
+    ],
+    [
+      "\\bMooneyies\\b",
+      "Moonies"
+    ],
+    [
+      "\\bMark Bernett\\b",
+      "Mark Burnett"
+    ],
+    [
+      "\\bRabbi Wicki\\b",
+      "Rabbi Wolicki"
+    ],
+    [
+      "\\bPenguish\\b",
+      "Panguitch"
+    ],
+    [
+      "\\b(?:Tempenogus|Tipponogus|Hipponogo|Tanogus|Tempanog)\\b",
+      "Timpanogos"
+    ],
+    [
+      "\\bBlake (?:Heriff|Cariff)\\b",
+      "Blake Hariff"
+    ],
+    [
+      "\\bKidui\\b",
+      "Kid Cudi"
+    ],
+    [
+      "\\bBB Netany and Yahoo\\b",
+      "BB Netanyahu"
+    ],
+    [
+      "\\bRoie Wade\\b",
+      "Roe v. Wade"
+    ],
+    [
+      "\\bJennifer (?:Faumina|Fauverna)\\b",
+      "Jennifer Faumuina"
+    ],
+    [
+      "\\bNesset\\b",
+      "Knesset"
+    ],
+    [
+      "\\bErika Kolfage\\b",
+      "Erika Kirk"
+    ],
+    [
+      "\\bBlake and Eff\\b",
+      "Blake Neff"
+    ],
+    [
+      "\\bDB Netanyahu\\b",
+      "BB Netanyahu"
+    ],
+    [
+      "\\bViva Frey\\b",
+      "Viva Frei"
+    ],
+    [
+      "\\bNatasha Housedorf\\b",
+      "Natasha Hausdorff"
+    ],
+    [
+      "\\bPragerview\\b",
+      "PragerU"
+    ],
+    [
+      "\\bOrum Police Department\\b",
+      "Orem Police Department"
+    ],
+    [
+      "\\bV Ramaswami\\b",
+      "Vivek Ramaswamy"
+    ],
+    [
+      "\\bvitrial\\b",
+      "vitriol"
+    ],
+    [
+      "\\bBill Abbit\\b",
+      "Bill Ackman"
+    ],
+    [
+      "\\bCarly Kirk show\\b",
+      "Charlie Kirk Show"
+    ],
+    [
+      "\\bkurluffle\\b",
+      "kerfuffle"
+    ],
+    [
+      "\\bLance Twig's\\b",
+      "Lance Twiggs's"
+    ],
+    [
+      "\\bStanber\\b",
+      "Stanford",
+      [
+        1
+      ]
+    ],
+    [
+      "\\bhimoto\\b",
+      "him too",
+      [
+        1
+      ]
+    ],
+    [
+      "\\bboy, wander\\b",
+      "boy wonder",
+      [
+        1
+      ]
+    ],
+    [
+      "\\brunning on fees\\b",
+      "running on fumes",
+      [
+        1
+      ]
+    ],
+    [
+      "\\bJohnny Depp\\b",
+      "Johnny Yep",
+      [
+        80
+      ]
+    ],
+    [
+      "\\bDallas Airport\\b",
+      "Dulles Airport",
+      [
+        80
+      ]
+    ],
+    [
+      "\\bKennice\\b",
+      "Candace",
+      [
+        80
+      ]
+    ],
+    [
+      "\\bFoster (?:F's|Free)\\b",
+      "Foster Friess",
+      [
+        19
+      ]
+    ],
+    [
+      "\\bWii transfer\\b",
+      "WeTransfer",
+      [
+        19
+      ]
+    ],
+    [
+      "\\bLoy Center\\b",
+      "Losee Center",
+      [
+        11,
+        153
+      ]
+    ],
+    [
+      "\\bMiss Mike Mitchell\\b",
+      "Mike Mitchell",
+      [
+        11
+      ]
+    ],
+    [
+      "\\bNDA and Carl Buckman\\b",
+      "Nelda and Karl Buckman",
+      [
+        59
+      ]
+    ],
+    [
+      "\\bStevensville\\b",
+      "Stephenville",
+      [
+        59
+      ]
+    ],
+    [
+      "\\bFFA\\b",
+      "FAA",
+      [
+        59
+      ]
+    ],
+    [
+      "\\bCameron Owens\\b",
+      "Candace Owens",
+      [
+        59
+      ]
+    ],
+    [
+      "\\bMr\\. Council\\b",
+      "Mr. Hansell",
+      [
+        110
+      ]
+    ],
+    [
+      "\\bPhil Riley\\b",
+      "Phil Reilly",
+      [
+        110
+      ]
+    ],
+    [
+      "\\bOJ dropped all charges\\b",
+      "DOJ dropped all charges",
+      [
+        110
+      ]
+    ],
+    [
+      "\\bfar docs\\b",
+      "FARA docs",
+      [
+        110
+      ]
+    ],
+    [
+      "\\bComparator\\b",
+      "Comperatore",
+      [
+        9
+      ]
+    ],
+    [
+      "\\bRan Paul\\b",
+      "Rand Paul",
+      [
+        9
+      ]
+    ],
+    [
+      "\\bThomas Soul\\b",
+      "Thomas Sowell",
+      [
+        9
+      ]
+    ],
+    [
+      "\\bBaggley\\b",
+      "Bagley",
+      [
+        153
+      ]
+    ],
+    [
+      "\\b(?:Zack Castello|Zach Cassell|Zachello)\\b",
+      "Zack Costello",
+      [
+        153
+      ]
+    ],
+    [
+      "\\bAnaka (?:Casparian|Sparian)\\b",
+      "Ana Kasparian",
+      [
+        153
+      ]
+    ],
+    [
+      "\\bCharting Point\\b",
+      "Turning Point",
+      [
+        6
+      ]
+    ],
+    [
+      "\\blogical error\\b",
+      "logical heir",
+      [
+        6
+      ]
+    ],
+    [
+      "\\bLee Bryce\\b",
+      "Lee Brice",
+      [
+        71
+      ]
+    ],
+    [
+      "\\bAndrew Coat\\b",
+      "Andrew Kolvet",
+      [
+        71
+      ]
+    ],
+    [
+      "\\bThomas Moore\\b",
+      "Thomas More",
+      [
+        71
+      ]
+    ],
+    [
+      "\\bCharlie Cook\\b",
+      "Charlie Kirk",
+      [
+        71
+      ]
+    ],
+    [
+      "\\bMikey McQuaid\\b",
+      "Mikey McCoy",
+      [
+        85,
+        67,
+        147
+      ]
+    ],
+    [
+      "\\bball worship\\b",
+      "Baal worship",
+      [
+        85
+      ]
+    ],
+    [
+      "\\bsexual rights\\b",
+      "sexual rites",
+      [
+        85
+      ]
+    ],
+    [
+      "\\bLozi\\b",
+      "Losee",
+      [
+        18,
+        128
+      ]
+    ],
+    [
+      "\\bJerry Po\\b",
+      "Jerry Prevo",
+      [
+        55
+      ]
+    ],
+    [
+      "\\bour Carlson\\b",
+      "Tucker Carlson",
+      [
+        55
+      ]
+    ],
+    [
+      "\\bTrucker\\b",
+      "Tucker",
+      [
+        55
+      ]
+    ],
+    [
+      "\\bMleofsky\\b",
+      "Milei",
+      [
+        55
+      ]
+    ],
+    [
+      "\\bNick Wentz\\b",
+      "Nick Fuentes",
+      [
+        55
+      ]
+    ],
+    [
+      "\\bLo(?:od|ot) party\\b",
+      "Likud party",
+      [
+        55
+      ]
+    ],
+    [
+      "\\bKamas\\b",
+      "Hamas",
+      [
+        55
+      ]
+    ],
+    [
+      "\\bKim Clay\\b",
+      "Kim Klacik",
+      [
+        149
+      ]
+    ],
+    [
+      "\\bGo forth\\b",
+      "Goforth",
+      [
+        149
+      ]
+    ],
+    [
+      "\\bTom O'Neal\\b",
+      "Tom O'Neill",
+      [
+        149
+      ]
+    ],
+    [
+      "\\bJason Massone\\b",
+      "Jeffrey Moussaieff Masson",
+      [
+        67
+      ]
+    ],
+    [
+      "\\bWojicki\\b",
+      "Wolicki",
+      [
+        67
+      ]
+    ],
+    [
+      "\\bIngram Angle\\b",
+      "Ingraham Angle",
+      [
+        67
+      ]
+    ],
+    [
+      "\\bJennifer Fahlman\\b",
+      "Jennifer Faumuina",
+      [
+        128
+      ]
+    ],
+    [
+      "\\bFaualima\\b",
+      "Faumuina",
+      [
+        128
+      ]
+    ],
+    [
+      "\\bLieutenant Colvett\\b",
+      "Lieutenant Colonel Kolvet",
+      [
+        128
+      ]
+    ],
+    [
+      "\\bAndrew Kovacs\\b",
+      "Andrew Kolvet",
+      [
+        128
+      ]
+    ],
+    [
+      "\\bDana Lash\\b",
+      "Dana Loesch",
+      [
+        128
+      ]
+    ],
+    [
+      "\\bBlake Herrif\\b",
+      "Blake Neff",
+      [
+        147
+      ]
+    ],
+    [
+      "\\bDanny McCoy\\b",
+      "Danny Phillip",
+      [
+        147
+      ]
+    ],
+    [
+      "\\bTaylor Robinson\\b",
+      "Tyler Robinson",
+      [
+        87
+      ]
+    ],
+    [
+      "\\bRobbie Hill\\b",
+      "Robbie Hild",
+      [
+        87
+      ]
+    ],
+    [
+      "\\b(?:Terra|Teal) Farnsworth\\b",
+      "Terrell Farnsworth",
+      [
+        87
+      ]
+    ],
+    [
+      "\\bBrian Harpool\\b",
+      "Brian Harpole",
+      [
+        47
+      ]
+    ],
+    [
+      "\\bRyan Ruth\\b",
+      "Ryan Routh",
+      [
+        47
+      ]
+    ],
+    [
+      "\\bNAI video\\b",
+      "AI video",
+      [
+        47
+      ]
+    ],
+    [
+      "\\bXavier (?:Daruso|Duso)\\b",
+      "Xaviaer DuRousseau",
+      [
+        10
+      ]
+    ],
+    [
+      "\\bTaylor (?:Lorent|Ren|Loren)\\b",
+      "Taylor Lorenz",
+      [
+        10
+      ]
+    ],
+    [
+      "\\bBill Blackman\\b",
+      "Bill Ackman",
+      [
+        3
+      ]
+    ],
+    [
+      "\\bBrian Mass\\b",
+      "Brian Mast",
+      [
+        3
+      ]
+    ],
+    [
+      "\\bGary Ham\\b",
+      "Gary Hamrick"
+    ],
+    [
+      "\\bWed (?:Makmoud|Machmood|Makmood)\\b",
+      "Wed Mahmoud"
     ]
   ]
 }

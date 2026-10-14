@@ -12,13 +12,13 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-924, N-925, N-926, N-927, N-11349, N-11350
-  - Hole-minted Nodes (reintro-ep094): N-10640, N-10713
+  - Hole-minted Nodes (reintro-ep094): N-10640
   - Tip-minted Nodes (reintro-ep094): N-836
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-13346–C-13445
   - New Nodes Introduced: N-10623, N-10625, N-10626, N-10627, N-10629, N-10632, N-10633, N-10634, N-10636
   - Hole-minted Nodes (wave3): N-431, N-432
-  - Reused Nodes Appearing: N-10631, N-10628, N-10635, N-10630, N-10624, N-4, N-6, N-30, N-54, N-69, N-197, N-272, N-276, N-282, N-539, N-607, N-10013, N-10014, N-10021, N-10022, N-10034, N-10077, N-10110, N-10142, N-10168, N-10202, N-10239, N-10271, N-10319, N-10360, N-10487, N-10570, N-10587, N-10590, N-10598, N-10604, N-10607, N-10608, N-10610, N-10616, N-10617, N-10660, N-10665, N-10770, N-10975, N-11149, N-11218
+  - Reused Nodes Appearing: N-10631, N-10628, N-10635, N-10630, N-10624, N-4, N-6, N-30, N-54, N-69, N-197, N-272, N-276, N-282, N-539, N-607, N-10013, N-10014, N-10021, N-10022, N-10034, N-10077, N-10110, N-10142, N-10168, N-10202, N-10239, N-10271, N-10319, N-10360, N-10487, N-10570, N-10587, N-10590, N-10598, N-10604, N-10607, N-10608, N-10610, N-10616, N-10617, N-10660, N-10665, N-10770, N-10975, N-11149, N-11218, N-10713
   - (see registers)
 
 ---

@@ -339,7 +339,7 @@
       "ref": "N-10571",
       "name": "July 14, 2025 Long Beach Flight",
       "type": "investigation_target",
-      "description": "Investigation target referenced by host as a \"crucial date\" tied to a flight involving Erica Kirk, Katherine Low Castro, Derek Niekerk, and Jonathan Barcello to Long Beach; viewer email adds geographic context via proximity to Los Alamitos Joint Forces Air Base.",
+      "description": "Investigation target referenced by host as a \"crucial date\" tied to a flight involving Erica Kirk, Katherine Low Castro, Derek Niekerk, and Jonathan Barcelo to Long Beach; viewer email adds geographic context via proximity to Los Alamitos Joint Forces Air Base.",
       "related_artifacts": [
         "A-1915.1"
       ],
@@ -2679,7 +2679,7 @@
       "@id": "C-10346",
       "ref": "C-10346",
       "label": "Host says Erika flew to Long Beach on July 14 with Locastro, Niekerk and Barcello",
-      "claim": "The host says Erika's July 14 flight was taken with Katherine Low Castro, Derek Niekerk and Jonathan Barcello, and that it goes to Long Beach.",
+      "claim": "The host says Erika's July 14 flight was taken with Katherine Low Castro, Derek Niekerk and Jonathan Barcelo, and that it goes to Long Beach.",
       "anchored_artifacts": [
         "A-1915.1"
       ],
@@ -2691,7 +2691,7 @@
       ],
       "claim_timestamp": "00:50:51",
       "investigative_direction": "Obtain the flight manifest or FAA flight tracking record for July 14, 2025.",
-      "transcript_snippet": "And that flight is she took with Katherine Low Castro and Derek Niekerk and Jonathan Barcello.",
+      "transcript_snippet": "And that flight is she took with Katherine Low Castro and Derek Niekerk and Jonathan Barcelo.",
       "mentions_person_refs": [
         "N-2",
         "N-605",

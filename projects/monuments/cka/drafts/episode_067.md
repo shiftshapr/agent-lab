@@ -11,8 +11,13 @@
 - **Transcript SHA-256**: d5118abb6ad6ec2bcd690c539ec2d59272e03045bac365ac901d9017dac21a9a
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10g): N-943, N-944, N-945, N-946, N-11389, N-11390
+  - Hole-minted Nodes (reintro-ep067): N-10480, N-10701
+  - Tip-minted Nodes (reintro-ep067): N-697, N-825, N-11351
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10g): C-14238–C-14309
   - New Nodes Introduced: N-525, N-528, N-529, N-530, N-531, N-533, N-534, N-536, N-537, N-539, N-540, N-541, N-10470, N-10471, N-10473, N-10474, N-10475, N-10476
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-527, N-538, N-535, N-10472, N-526
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-527, N-538, N-535, N-10472, N-526, N-36, N-69, N-82, N-167, N-182, N-230, N-302, N-587, N-619, N-779, N-800, N-801, N-853, N-10000, N-10006, N-10014, N-10015, N-10023, N-10075, N-10117, N-10122, N-10169, N-10187, N-10198, N-10268, N-10270, N-10324, N-10340, N-10397, N-10414, N-10417, N-10493, N-10694, N-11011, N-11029, N-11130, N-11153, N-11156
   - (see registers)
 
 ## I. Meta-Data
@@ -286,6 +291,44 @@ Confidence: medium
 
 ---
 
+**A-3309** Baalbek Baal Temple Relics Bundle
+
+**A-3309.1** Images the host asks producer Skyler to pull up of Baal temple relics at Baalbek, Lebanon and another temple, showing the six-pointed star (on-screen images, described but not captured in the transcript)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:36:08
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14279, N-3, N-779*
+
+---
+
+**A-3310** Charlie Kirk September 9 Schedule Graphic Bundle
+
+**A-3310.1** On-screen schedule graphic the host builds for September 9, 2025 (Will Cain appearance, 3:54 p.m. chat text, 6:00 p.m. Zoom, dinner, kill-me text); the host says 'Let's go to September 9th first' (graphic not captured in the transcript)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:40:20
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14283, C-14284, C-14285, N-3, N-1, N-2*
+
+---
+
+**A-3311** Charlie Kirk September 8 Schedule Graphic Bundle
+
+**A-3311.1** On-screen schedule graphic for September 8, 2025 (10-11 a.m. show, Fox News hit, Ingraham Angle, Erika's 5:24 p.m. arrival, 6:06 p.m. dinner text, 8:00 p.m. Turek walk); the host says 'Let's go to the 8th, September 8th' (graphic not captured in the transcript)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:44:45
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-14292, C-14293, C-14294, C-14295, C-14296, C-14297, C-14298, N-3, N-1, N-2, N-7*
+
+---
 
 ## IV. Node Register
 
@@ -590,7 +633,7 @@ Investigative Pressure: Medium
 
 **N-194** Mikey McCoy
 
-Named by host as having traveled to meet the White House alongside Andrew Kolbatz; subject of neighbor sightings reported by host.
+Named by host as having traveled to meet the White House alongside Andrew Kolvet; subject of neighbor sightings reported by host.
 
 Evidence Count: 0
 Claim Count: 0
@@ -722,6 +765,432 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-1722.2, A-1726.2, C-2270, C-2275, N-1, N-7*
+
+---
+
+**N-943** Ulysses S. Grant
+
+First named by the host at 00:08:11 in episode 67. Union general and US president whom the host says expelled Jews from his military district.
+
+*Related: C-14243*
+
+---
+
+**N-944** Peggy Siegal
+
+First named by the host at 00:10:32 in episode 67. Publicist named in the compilation's Epstein email about an event guest list.
+
+*Related: C-14248*
+
+---
+
+**N-945** Alex Acosta
+
+First named by the host at 00:28:29 in episode 67. Former US Attorney in Miami who approved Epstein's 2008 plea deal.
+
+*Related: C-14266*
+
+---
+
+**N-946** Will Cain
+
+First named by the host at 00:41:12 in episode 67. Fox News host whose show Charlie Kirk appeared on September 9, 2025.
+
+*Related: C-14283*
+
+---
+
+**N-11389** Palantir Technologies
+
+Node Type: Organization
+Data-analytics and defense contractor tied to Peter Thiel; the host says Palantir staff were put onto Fort Huachuca in July.
+
+*Related: C-14265*
+
+---
+
+**N-11390** Kolvet and McCoy White House Meeting (Late January 2026)
+
+Node Type: Topic
+The host's claim that Andrew Kolvet, Mikey McCoy and his wife met the White House on the Thursday before this episode while the public was led to believe they were in Arizona.
+
+*Related: C-14271, C-14272*
+
+---
+
+**N-5** Donald Trump
+
+President; the host says he is caught up in Epstein modeling-industry links and receives Adelson money.
+
+*Related: C-14256, C-14274*
+
+---
+
+**N-36** Benjamin Netanyahu
+
+Israeli prime minister; named in the Epstein-email meeting claim.
+
+*Related: C-14268*
+
+---
+
+**N-55** Josh Hammer
+
+Commentator whose clip says Charlie's text was an out-of-context screenshot and describes the Sept 9 Zoom.
+
+*Related: C-14281, C-14284*
+
+---
+
+**N-69** Kash Patel
+
+FBI director; the host says his interview ran on the Charlie Kirk Show.
+
+*Related: C-14272*
+
+---
+
+**N-82** Brigitte Macron
+
+The host says she is suing the host.
+
+*Related: C-14309*
+
+---
+
+**N-167** Rabbi Pesach Wolicki
+
+Israel-based rabbi on the September 9 Zoom, whom the host calls 'Wolicki' (see Doubts).
+
+*Related: C-14284*
+
+---
+
+**N-182** Jared Kushner
+
+The host says she expects the Kushners in the Epstein files.
+
+*Related: C-14268*
+
+---
+
+**N-230** Harvey Weinstein
+
+Named in the Jay-Z Epstein email context.
+
+*Related: C-14257*
+
+---
+
+**N-272** Joe Rogan
+
+Host of the podcast where Thiel discusses Epstein.
+
+*Related: C-14263*
+
+---
+
+**N-278** Jonathan Pollard
+
+Named in the Shapiro/Bennett Mossad claim.
+
+*Related: C-14255*
+
+---
+
+**N-302** Miriam Adelson
+
+Donor the host says is giving Trump $200 million.
+
+*Related: C-14256*
+
+---
+
+**N-587** Thomas Massie
+
+Congressman demanding more release.
+
+*Related: C-14270*
+
+---
+
+**N-619** Dennis Prager
+
+Named as Kirk's apparent Shabbat Shalom book partner.
+
+*Related: C-14282*
+
+---
+
+**N-697** Laura Ingraham
+
+Host of The Ingraham Angle, which the host says Kirk appeared on from home.
+
+*Related: C-14295*
+
+---
+
+**N-779** Aleister Crowley
+
+Occultist the host links to the Star of David.
+
+*Related: C-14279*
+
+---
+
+**N-800** Leo Frank
+
+Lynched man in the Phagan case.
+
+*Related: C-14244*
+
+---
+
+**N-801** Mary Phagan
+
+Murder victim the host links to the ADL origin.
+
+*Related: C-14244*
+
+---
+
+**N-825** Ehud Barak
+
+Former Israeli prime minister named in Epstein emails per the host.
+
+*Related: C-14268*
+
+---
+
+**N-853** Jeffrey Moussaieff Masson
+
+Author of The Assault on Truth, named by the host as 'Jeffrey Moussaieff Masson'.
+
+*Related: C-14240*
+
+---
+
+**N-10000** Turning Point USA
+
+Organization the host says Erika is bringing bad people into.
+
+*Related: C-14306, C-14307*
+
+---
+
+**N-10006** Fox News
+
+Network of the Sept 8 Kirk segments.
+
+*Related: C-14294, C-14295*
+
+---
+
+**N-10014** Federal Bureau of Investigation
+
+FBI named in the pizza code word claim.
+
+*Related: C-14251*
+
+---
+
+**N-10015** Mossad
+
+Israeli intelligence service in the Epstein discussion.
+
+*Related: C-14254, C-14255*
+
+---
+
+**N-10023** Epstein Israeli Intelligence Asset Allegation
+
+Persistent target for the Mossad-Epstein claims.
+
+*Related: C-14254, C-14268*
+
+---
+
+**N-10075** White House
+
+Venue of the alleged late-January meeting.
+
+*Related: C-14271*
+
+---
+
+**N-10117** Jezebel/Etsy Hex on Charlie Kirk
+
+The curse article and priest prayer account.
+
+*Related: C-14287, C-14296, C-14303*
+
+---
+
+**N-10122** Jezebel
+
+Publisher of the witch's curse article.
+
+*Related: C-14287, C-14296*
+
+---
+
+**N-10169** Josh Hammer Pre-Death Zoom Call Verification
+
+Zoom call verification target.
+
+*Related: C-14284*
+
+---
+
+**N-10187** Josh Hammer Text Messages Context
+
+Hammer's account of the screenshot.
+
+*Related: C-14281*
+
+---
+
+**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)
+
+Mikey McCoy's sightings versus Erika's.
+
+*Related: C-14300*
+
+---
+
+**N-10268** AmFest Speaker Removal Pattern
+
+AmFest event context.
+
+*Related: C-14275*
+
+---
+
+**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+
+Macron lawsuit context.
+
+*Related: C-14309*
+
+---
+
+**N-10324** Epstein Files Release Status
+
+Persistent target for the file releases.
+
+*Related: C-14246, C-14247, C-14248, C-14249, C-14252, C-14253, C-14257, C-14260, C-14268, C-14269, C-14270, C-14273, C-14274*
+
+---
+
+**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+
+The kill-me message.
+
+*Related: C-14289, C-14290, C-14304*
+
+---
+
+**N-10397** Charlie Kirk Korea Trip / Pastor Yoon Connection
+
+Kirk's Korea trip.
+
+*Related: C-14293*
+
+---
+
+**N-10414** CERN Satantic Ritual Claim
+
+CERN ritual claim.
+
+*Related: C-14258*
+
+---
+
+**N-10417** Fort Huachuca Erika Presence Investigation
+
+Existing topic reused.
+
+*Related: C-14276, C-14302*
+
+---
+
+**N-10480** Nimrod / Gilgamesh Remains Extraction Question
+
+Gilgamesh topic.
+
+*Related: C-14277*
+
+---
+
+**N-10493** Pierre / French Donor Investigation
+
+Existing topic reused.
+
+*Related: C-14307*
+
+---
+
+**N-10694** Dan Flood Role and Behavior Assessment
+
+Existing topic reused.
+
+*Related: C-14305*
+
+---
+
+**N-10701** Andrew Kolvet EEOB Presence / Kash Patel Connection
+
+Kolvet and Patel context.
+
+*Related: C-14271, C-14272*
+
+---
+
+**N-11011** Macron Cease and Desist and Legal Timeline
+
+Macron legal fight.
+
+*Related: C-14309*
+
+---
+
+**N-11029** CERN
+
+CERN organization.
+
+*Related: C-14258*
+
+---
+
+**N-11130** B'nai B'rith
+
+Organization named in the host's claims.
+
+*Related: C-14243, C-14244, C-14250*
+
+---
+
+**N-11153** Anti-Defamation League
+
+ADL origin claim.
+
+*Related: C-14244*
+
+---
+
+**N-11156** Leo Frank Case and ADL Origin Claim
+
+ADL origin claim.
+
+*Related: C-14244*
+
+---
+
+**N-11351** Salem Media Group
+
+Network of the Charlie Kirk Show.
+
+*Related: C-14292*
 
 ---
 
@@ -1168,6 +1637,1162 @@ Investigative Direction: Confirm in the James Lee clip that the shirt is the sho
 
 ---
 
+**C-14238** Host says the Moroccan flag was a six-pointed star before 1914
+
+Claim Timestamp: 00:02:40
+
+Claim: The host says the Star of David was on the flag of Morocco before 1914, and asks what that symbol 'actually symbolize[s]', answering 'occult mysticism'.
+
+Transcript Snippet: Well, how how could you have the Star of David once upon a time, what was it before 1914, that was the flag of Morocco?
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Check flag histories of Morocco (the Alaouite-era flag carried a green seal of Solomon on red) and the symbol's attested uses.
+
+---
+
+**C-14239** Host says Wilhelm Fliess molested his son Robert
+
+Claim Timestamp: 00:03:44
+
+Claim: The host says Wilhelm Fliess molested his own son Robert Fliess, and that Robert Fliess spoke about it when he got older.
+
+Transcript Snippet: Wilhelm Fliess also um molested his own son, Robert Fliess. Robert Fliess spoke about that when he got older.
+
+Anchored Artifacts: 
+Mentions: N-3, N-525, N-50
+Tags: relevance:tangential
+Investigative Direction: Check Robert Fliess's published psychoanalytic writings and biographies of Wilhelm Fliess for any statement that his father abused him.
+
+---
+
+**C-14240** Host says the Freud Archives director concluded Freud knew children were abused
+
+Claim Timestamp: 00:03:44
+
+Claim: The host says the book's author, a former director of the Freud Archives, read Freud's unpublished works and determined that Freud knew children were being abused in Vienna and created a psychology to gaslight them. She names the author at 00:05:31 as 'Jeffrey Moussaieff Masson'.
+
+Transcript Snippet: This book was written by a guy who was the director of the Freud Archives. He read Freud's unpublished works and determined that, yeah, Freud knew that the children were being abused in Vienna
+
+Anchored Artifacts: 
+Mentions: N-3, N-50, N-853
+Supports: C-7840, C-9576
+Tags: relevance:tangential
+Investigative Direction: Read Jeffrey Moussaieff Masson, The Assault on Truth, and the scholarly reception of its claims about Freud's seduction theory; check the author's actual role at the Freud Archives. Name as transcribed is 'Jeffrey Moussaieff Masson' (see Doubts).
+
+---
+
+**C-14241** Host says Freud was initiated into an occult club at age 36 and changed his mind
+
+Claim Timestamp: 00:06:25
+
+Claim: The host says that at age 36 Freud partook in a ritual that welcomed him into 'the club', after which he changed his mind and wrote to Wilhelm Fliess that he now understood.
+
+Transcript Snippet: Then remarkably, at the age of 36, he partakes in a ritual during which he's welcomed into the club, and he changes his mind, and he writes to Wilhelm Fliess that he now understands.
+
+Anchored Artifacts: 
+Mentions: N-3, N-50, N-525
+Supports: C-2253
+Tags: relevance:tangential
+Investigative Direction: Check Freud's biography for the 1896-97 period and the letters to Fliess; there is no known documentation of an initiation ritual at 36.
+
+---
+
+**C-14242** Host says the Khazars adopted Judaism in the 8th century
+
+Claim Timestamp: 00:07:19
+
+Claim: The host says the Khazars were a nomadic Turkic tribe who adopted Judaism in the 8th century, and that the people she opposes have worn the cloak of Judaism since the fall of the Khazarian empire.
+
+Transcript Snippet: The Khazars were a nomadic Turkic tribe who adopted Judaism in the 8th century.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Compare with the historical record of Khazar conversion (the extent and date are debated) and with genetic studies on the supposed descent of Ashkenazi Jews; the host's wider link to present-day people is an unsupported sweeping claim.
+
+---
+
+**C-14243** Host says Ulysses S. Grant expelled Jews from his military district
+
+Claim Timestamp: 00:08:11
+
+Claim: The host says Ulysses S. Grant 'notoriously expelled Jews from his military district, Tennessee, Mississippi, Kentucky', and that it had to do with what was being 'cooked up' at B'nai B'rith lodges.
+
+Transcript Snippet: Ulysses S. Grant notoriously expelled Jews from his military district, Tennessee, Mississippi, Kentucky.
+
+Anchored Artifacts: 
+Mentions: N-3, N-943
+Related Nodes: N-11130
+Tags: relevance:tangential
+Investigative Direction: Check General Orders No. 11 (Dec. 1862), which Lincoln revoked; no source ties the order to B'nai B'rith lodge planning.
+
+---
+
+**C-14244** Host says B'nai B'rith became the ADL after the ritualistic murder of Mary Phagan
+
+Claim Timestamp: 00:08:11
+
+Claim: The host says B'nai B'rith subsequently became the ADL after 'the ritualistic murder of a Catholic girl named Mary Phagan', and that the pattern recurs on the same dates and holiday season throughout history.
+
+Transcript Snippet: Um that then subsequently became the ADL after the ritualistic murder of a Catholic girl named Mary Phagan.
+
+Anchored Artifacts: 
+Mentions: N-3, N-801, N-800
+Related Nodes: N-11130, N-11153, N-11156
+Tags: relevance:tangential
+Investigative Direction: The ADL was founded by B'nai B'rith in 1913 after the Leo Frank trial; Phagan was a Protestant (not Catholic) factory worker. No evidence of a ritual murder exists; check the Frank case record and the 1986 Alonzo Mann/Georgia pardon history.
+
+---
+
+**C-14245** Host says women in Israel report ritual abuse in a forest by rabbis
+
+Claim Timestamp: 00:09:45
+
+Claim: The host says Israel is the nation-state 'having a bunch of women say that they were ritualistically abused in a forest by rabbis', and that this is happening in the Knesset right now.
+
+Transcript Snippet: Israel, the same nation-state that is having a bunch of women say that they were ritualistically abused in a forest by rabbis. That's happening in the Knesset right now.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Find the Knesset committee hearing or Israeli media coverage the host is alluding to and the date; none is named on air.
+
+---
+
+**C-14246** Compilation says Rothschild family paid Epstein $25 million for algorithms
+
+Claim Timestamp: 00:10:32
+
+Claim: According to the compilation the host plays, the Rothschild family paid Epstein $25 million for certain algorithms.
+
+Transcript Snippet: The Rothschild family paid Epstein $25 million for certain algorithms.
+
+Anchored Artifacts: A-1715.1
+Mentions: N-9, N-526
+Related Nodes: N-10324
+Tags: relevance:context
+Investigative Direction: Search the DOJ Epstein email release for a payment from a Rothschild entity and any algorithm or risk-model consulting arrangement.
+
+---
+
+**C-14247** Compilation says Epstein told Rothschilds a Ukraine overthrow would bring opportunities
+
+Claim Timestamp: 00:10:32
+
+Claim: According to the compilation, in a discussion with the Rothschild family Epstein said that if they overthrew the Ukrainian government there would be great opportunities.
+
+Transcript Snippet: In a discussion with the Rothschild family, Epstein says if they overthrew the Ukrainian government, there would be great opportunities.
+
+Anchored Artifacts: A-1715.1
+Mentions: N-9, N-526
+Related Nodes: N-10324
+Tags: relevance:context
+Investigative Direction: Locate the underlying email (sender, recipient, date, context) in the DOJ release and read it unredacted.
+
+---
+
+**C-14248** Compilation says Epstein asked Peggy Siegal whether an event would be 100% Jewish
+
+Claim Timestamp: 00:10:32
+
+Claim: According to the compilation, on August 7, 2010 Peggy Siegal asked Epstein if an event was going to be 100% Jewish and he replied that there would be 'in abundance' of them but 'brilliant wasps from J. P. Morgan' too.
+
+Transcript Snippet: While talking to Peggy Siegal August 7th of 2010, she asks if an event is going to be 100% Jewish. He says no, they'll have in abundance.
+
+Anchored Artifacts: A-1715.1
+Mentions: N-9, N-944
+Related Nodes: N-10324
+Tags: relevance:context
+Investigative Direction: Locate the August 7, 2010 Siegal-Epstein exchange in the DOJ release and confirm the wording.
+
+---
+
+**C-14249** Compilation says Epstein advised hiring only people who can prove they are Jewish
+
+Claim Timestamp: 00:11:37
+
+Claim: According to the compilation, in 2017 Epstein had a conversation saying that to hire the best people you must hire only Jews, and only those who can prove they are genetically Jewish.
+
+Transcript Snippet: In 2017, Epstein has a conversation talking about if you want to hire the best people, you have to hire only Jews. Only hire those who can prove they are genetically Jewish.
+
+Anchored Artifacts: A-1715.1
+Mentions: N-9
+Related Nodes: N-10324
+Tags: relevance:context
+Investigative Direction: Locate the 2017 email or message in the DOJ release and confirm sender, recipient and wording.
+
+---
+
+**C-14250** Host says Ben Shapiro's and Bari Weiss's ancestors were B'nai B'rith
+
+Claim Timestamp: 00:13:04
+
+Claim: The host says Ben Shapiro's family ancestors and Bari Weiss were B'nai B'rith, and that this is why they differ from Dave Smith.
+
+Transcript Snippet: Uh Ben Shapiro's family ancestors, B'nai B'rith, okay? Bari Weiss, B'nai B'rith.
+
+Anchored Artifacts: 
+Mentions: N-3, N-97, N-282
+Related Nodes: N-11130
+Tags: relevance:tangential
+Investigative Direction: No source is cited; check public genealogy of both people before treating as fact. Treat as a sweeping group claim.
+
+---
+
+**C-14251** Host says the FBI has acknowledged pizza as a code word among pedophiles
+
+Claim Timestamp: 00:14:46
+
+Claim: The host says the FBI has formally acknowledged that pizza is used as a code word among pedophiles.
+
+Transcript Snippet: Well, I should let you know the FBI has already formally uh formally acknowledged that pizza is used as a code word amongst pedophiles.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10014
+Tags: relevance:context
+Investigative Direction: Locate the FBI document (a 2007 FBI Symbols and Logos guide lists cheese pizza/c.p.) and check its status and context.
+
+---
+
+**C-14252** Host says Epstein emails contain 900-plus references to pizza
+
+Claim Timestamp: 00:15:32
+
+Claim: The host says there are 900-plus Epstein emails referring to pizza 'in real ways' and invites viewers to search them.
+
+Transcript Snippet: What are we to make of these 900-plus emails referring to pizza in real ways?
+
+Anchored Artifacts: 
+Mentions: N-3, N-9
+Related Nodes: N-10324
+Tags: relevance:context
+Investigative Direction: Run a text search of the DOJ Epstein release for 'pizza' and count and read the hits in context.
+
+---
+
+**C-14253** Host says Todd Blanche said they are sparing the public the videos
+
+Claim Timestamp: 00:15:32
+
+Claim: The host says Todd Blanche has already said they are 'sparing us the videos', and infers from this that there are graphic videos pertaining to death.
+
+Transcript Snippet: Todd Blanche has already come out and said that they're sparing us the videos. So, we should just assume that there are graphic videos that pertain to death based on his statement.
+
+Anchored Artifacts: 
+Mentions: N-3, N-541, N-9
+Related Nodes: N-10324
+Supports: C-2261
+Tags: relevance:context
+Investigative Direction: Find Blanche's actual public statement on withheld videos and compare its wording with the host's inference.
+
+---
+
+**C-14254** Host says Tucker Carlson asserted that Mossad ran Epstein
+
+Claim Timestamp: 00:19:29
+
+Claim: The host says Tucker Carlson asserted that it was Mossad running Jeffrey Epstein, which she says he did without evidence.
+
+Transcript Snippet: Here is Tucker then asserting that it was actually Mossad. Again, without evidence that not not a shock.
+
+Anchored Artifacts: 
+Mentions: N-3, N-22, N-9
+Related Nodes: N-10023, N-10015
+Contradicts: C-2263
+Tags: relevance:context
+Investigative Direction: Find the Tucker Carlson statement and date; identify what, if anything, he cited as evidence.
+
+---
+
+**C-14255** Clip has Shapiro saying Bennett told him Mossad has not spied on the US since Pollard
+
+Claim Timestamp: 00:19:29
+
+Claim: In the clip, Ben Shapiro says he followed up with Naftali Bennett, who told him that the Mossad has not been active in the United States since the Jonathan Pollard scandal of 1987. (The existing claim C-2264 attributes this to a host-read Bennett statement; here it is Shapiro relaying Bennett.)
+
+Transcript Snippet: And in fact, I followed up with the former Prime Minister Naftali Bennett, and what he told me is the Mossad has not been active in the United States since the war against the United States since the Jonathan Pollard scandal of 1987
+
+Anchored Artifacts: A-1717.1
+Mentions: N-97, N-530, N-278
+Related Nodes: N-10015
+Supports: C-2264
+Tags: relevance:context
+Investigative Direction: Locate the Shapiro segment and ask Bennett's office whether he said this; compare with documented post-1987 Israeli intelligence activity in the US.
+
+---
+
+**C-14256** Host says Miriam Adelson is giving Trump $200 million
+
+Claim Timestamp: 00:20:38
+
+Claim: The host says Miriam Adelson is giving Trump $200 million. (An earlier episode gave the figure as $100 million.)
+
+Transcript Snippet: Uh she's doing her thing and she's giving Trump $200 million, but it ain't got nothing to do with the facade.
+
+Anchored Artifacts: 
+Mentions: N-3, N-302, N-5
+Tags: relevance:context
+Investigative Direction: Check FEC filings for Adelson contributions to Trump-aligned committees for the 2024 and 2026 cycles.
+
+---
+
+**C-14257** Host says Jay-Z appears in an Epstein email alongside Harvey Weinstein watching an assault
+
+Claim Timestamp: 00:21:28
+
+Claim: The host says Jay-Z was mentioned in an Epstein email in the context of being with Harvey Weinstein watching somebody be assaulted, but she is waiting for more information because some emails reportedly arrived later when people flooded the FBI with reports.
+
+Transcript Snippet: But, the point is is Jay-Z was mentioned here and uh it was in the context of being with Harvey Weinstein, watching somebody be assaulted.
+
+Anchored Artifacts: 
+Mentions: N-3, N-529, N-230, N-9
+Related Nodes: N-10324
+Tags: relevance:context
+Investigative Direction: Locate the email in the DOJ release, check its provenance (original Epstein file or later FBI tip) and whether Jay-Z is a named participant.
+
+---
+
+**C-14258** Host says CERN responded to the recorded ritual by saying they were faking
+
+Claim Timestamp: 00:22:23
+
+Claim: The host says that when the CERN activity somebody caught on tape was shown, CERN 'came out and were like, Oh, we were just faking', which she compares to scientists dressing up and pretending to stab women before a statue of Shiva.
+
+Transcript Snippet: even when we showed you the CERN activity that was happening, which somebody caught on tape, they just came out and were like, "Oh, we were just faking."
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10414, N-11029
+Tags: relevance:tangential
+Investigative Direction: Find CERN's 2016 statement about the staged 'sacrifice' video (a spoof by CERN staff) and compare with the host's description.
+
+---
+
+**C-14259** Host says Hollywood was founded by people imported from Vienna to destroy Christianity
+
+Claim Timestamp: 00:24:02
+
+Claim: The host says that, as discussed in her book club, people were imported from Vienna, where Freud was, and made directors, actors and actresses and tasked with destroying Christianity in Hollywood.
+
+Transcript Snippet: they quite literally imported people from Vienna, where Sigmund Freud was or his boys were. They imported them and they made them directors, they made them actors, they made them actresses
+
+Anchored Artifacts: 
+Mentions: N-3, N-50
+Tags: relevance:tangential
+Investigative Direction: Check film-history sources on the Vienna-born emigre directors and studio founders; no source supports a mandate to destroy Christianity.
+
+---
+
+**C-14260** Host says Peter Thiel was thrown under the bus while others are protected
+
+Claim Timestamp: 00:24:42
+
+Claim: The host says the released files are protecting people who are still in power, which is why she found it 'super interesting' that Peter Thiel was thrown 'under the bus'.
+
+Transcript Snippet: which is why it was super interesting to see them sort of throw Peter Thiel under the bus.
+
+Anchored Artifacts: 
+Mentions: N-3, N-527
+Related Nodes: N-10474, N-10324
+Tags: relevance:context
+Investigative Direction: Compare which Thiel-Epstein emails were in the release versus withheld or redacted; identify who 'them' is.
+
+---
+
+**C-14261** Host says Peter Thiel funded JD Vance's career and likely arranged the Hillbilly Elegy deal
+
+Claim Timestamp: 00:25:24
+
+Claim: The host says everyone knows Peter Thiel effectively funded JD Vance's career and probably had something to do with Vance getting the Netflix deal for Hillbilly Elegy.
+
+Transcript Snippet: but everyone knows that Peter Thiel effectively funded J. D. Vance's career. He probably had something to do with J. D. Vance getting the deal with Netflix to do his book, Hillbilly Elegy, I think it was called.
+
+Anchored Artifacts: 
+Mentions: N-3, N-527, N-4
+Related Nodes: N-10475
+Tags: relevance:context
+Investigative Direction: Check Vance's 2022 Senate campaign filings for Thiel contributions (about $15 million via Protect Ohio Values) and the production credits for the Hillbilly Elegy film.
+
+---
+
+**C-14262** Host says Thiel's Epstein emails are the most consequential release for JD Vance
+
+Claim Timestamp: 00:25:24
+
+Claim: The host says the Thiel emails are 'plausibly the biggest scandal' and the most consequential thing in the releases she can see so far, and 'ain't good for J. D. Vance', who she says is likely to run in 2028.
+
+Transcript Snippet: I think this is plausibly the biggest scandal to come out of the I I guess I should say the most consequential thing to come out of these emails that I can see right now.
+
+Anchored Artifacts: 
+Mentions: N-3, N-527, N-4
+Related Nodes: N-10475, N-10474
+Tags: relevance:context
+Investigative Direction: Read the Thiel-Epstein email thread in the release and track Vance's or Thiel's responses.
+
+---
+
+**C-14263** Thiel says he assumed Epstein's 2008 case was not as serious as alleged
+
+Claim Timestamp: 00:27:02
+
+Claim: In the Rogan clip, Thiel says he knew Epstein had been arrested in 2008 but assumed, since Epstein 'didn't go to jail that long', that the case was 'probably not as serious as alleged'.
+
+Transcript Snippet: And so but you know, you you assume um he didn't go to jail for that long. >> Right. >> It was probably not not as serious as alleged.
+
+Anchored Artifacts: A-1720.1
+Mentions: N-527, N-9, N-272
+Related Nodes: N-10474
+Tags: relevance:context
+Investigative Direction: Compare against Thiel's email record with Epstein and public details of the 2008 Florida plea deal.
+
+---
+
+**C-14264** Host says Thiel emailed and met Epstein frequently and invited him to the island
+
+Claim Timestamp: 00:27:43
+
+Claim: The host says that, contrary to Thiel's account on Rogan, he was emailing Epstein a lot, meeting up with him a lot, and inviting him to the island and for a weekend, and that the two were together all over New York.
+
+Transcript Snippet: he was emailing Jeffrey Epstein a lot, meeting up with him a lot, uh definitely sounds like they were very close, inviting him to the island
+
+Anchored Artifacts: A-1720.1
+Mentions: N-3, N-527, N-9
+Related Nodes: N-10474
+Tags: relevance:context
+Investigative Direction: Count and date the Thiel-Epstein emails in the release and identify which island is meant.
+
+---
+
+**C-14265** Host says Palantir staff were put onto Fort Huachuca in July
+
+Claim Timestamp: 00:28:29
+
+Claim: The host says that 'Palantir boys' were put onto Fort Huachuca airbase in July, and that she will 'get into that later'.
+
+Transcript Snippet: He also had Palantir boys were put onto Fort Huachuca airbase in July. We'll get into that later.
+
+Anchored Artifacts: 
+Mentions: N-3, N-527
+Related Nodes: N-11389, N-10472
+Tags: relevance:context
+Investigative Direction: Look for Army/Fort Huachuca Palantir contracts, delivery orders or press releases in June-July 2025 and the base's public affairs notices.
+
+---
+
+**C-14266** Host says Epstein's plea deal came via Acosta, who was told to leave Epstein alone
+
+Claim Timestamp: 00:28:29
+
+Claim: The host says Epstein got a plea deal through Alex Acosta, who was told to leave Epstein alone, 'if Acosta is to be believed'.
+
+Transcript Snippet: He caught a plea deal uh via Acosta who was told to leave Epstein alone. That's if if Acosta is to be believed.
+
+Anchored Artifacts: 
+Mentions: N-3, N-9, N-945
+Tags: relevance:context
+Investigative Direction: Check Acosta's 2019 statements that he was told Epstein 'belonged to intelligence' and the 2020 DOJ OPR report.
+
+---
+
+**C-14267** Host predicts JD Vance will not make a statement on Peter Thiel
+
+Claim Timestamp: 00:29:06
+
+Claim: The host says JD Vance 'is going to have to answer for this' and that she does not think he will make a statement on Peter Thiel.
+
+Transcript Snippet: And I don't think he is going to make a statement on Peter Thiel. I I think that that that's going to be interesting.
+
+Anchored Artifacts: 
+Mentions: N-3, N-4, N-527
+Related Nodes: N-10475
+Tags: relevance:context
+Investigative Direction: Monitor Vance's public statements after the January 2026 releases for any comment on Thiel.
+
+---
+
+**C-14268** Host says Epstein emails show him setting up Netanyahu and Barak meetings and Maxwell jokes
+
+Claim Timestamp: 00:29:06
+
+Claim: The host says the emails show Epstein setting up meetings with Benjamin Netanyahu and Ehud Barak 'all over it', and making jokes about Robert Maxwell, and that she expects the Kushners to appear.
+
+Transcript Snippet: He's setting up meetings. Bibi Netanyahu, Ehud Barak's all over it. Um he's writing emails and making kind of some jokes which suggest like about Robert Maxwell
+
+Anchored Artifacts: 
+Mentions: N-3, N-9, N-36, N-825, N-48, N-182
+Related Nodes: N-10324, N-10023
+Tags: relevance:context
+Investigative Direction: Search the release for Netanyahu, Barak and Robert Maxwell references and read the surrounding threads.
+
+---
+
+**C-14269** Host says she expected the files to name people closer to solving the Kirk murder
+
+Claim Timestamp: 00:29:47
+
+Claim: The host says she expected to see names in the files that would bring her 'a little closer to solving the Charlie Kirk murder', and that the release is not near everything.
+
+Transcript Snippet: I also expected to see uh some other names which would bring us a little closer to solving the Charlie Kirk murder, in my opinion.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10324
+Tags: relevance:core
+Investigative Direction: Ask the host which names she expected and why; check any Epstein-release names that overlap with the Kirk investigation.
+
+---
+
+**C-14270** Host says Thomas Massie is demanding more release and unredacted files
+
+Claim Timestamp: 00:29:47
+
+Claim: The host says Thomas Massie is demanding more release and that the files should be unredacted, especially passages about killing people or ritual acts on children.
+
+Transcript Snippet: that's why Thomas Massie is demanding for there to be more release. And also these should be unredacted.
+
+Anchored Artifacts: 
+Mentions: N-3, N-587
+Related Nodes: N-10324
+Tags: relevance:context
+Investigative Direction: Find Massie's statements, letters or floor actions on Epstein file release in late January 2026.
+
+---
+
+**C-14271** Host says Kolvet, McCoy and his wife met the White House last Thursday while the public was told Arizona
+
+Claim Timestamp: 00:29:47
+
+Claim: The host says that last week on Thursday Andrew Kolvet, 'alleged' Mikey McCoy and his wife went to meet with the White House while wanting the public to think they were in Arizona, and that she is looking for details of the meeting.
+
+Transcript Snippet: last week on Thursday, the timing of this is incredible, but Andrew Kolvet and alleged Mikey McCoy and his wife went down to meet with the White House. And they wanted the public to think that they were in Arizona.
+
+Anchored Artifacts: 
+Mentions: N-3, N-14, N-194
+Related Nodes: N-11390, N-10075, N-10701
+Tags: relevance:core
+Investigative Direction: Request White House visitor logs for late January 2026 and ask TPUSA for the meeting purpose; check the names as transcribed (see Doubts).
+
+---
+
+**C-14272** Host says a Kash Patel interview ran on the Charlie Kirk Show while they were at the White House
+
+Claim Timestamp: 00:29:47
+
+Claim: The host says TPUSA ran an interview with Kash Patel on Charlie Kirk's show, 'supposed to be live every day', and suggests it was pre-recorded while the team was meeting top brass at the White House.
+
+Transcript Snippet: They ran this interview with Kash Patel on Charlie Kirk's show, which is supposed to be live every day. You can fake a live. You can make it a pre-record.
+
+Anchored Artifacts: 
+Mentions: N-3, N-69, N-1, N-14
+Related Nodes: N-11390, N-10701
+Tags: relevance:core
+Investigative Direction: Compare the air date and time of the Patel episode with the White House meeting date; check the show's published run-of-show.
+
+---
+
+**C-14273** Host says Epstein emails are heavily about pageantry and picking pageant winners
+
+Claim Timestamp: 00:29:47
+
+Claim: The host says there is a lot about pageantry in the emails and that it seems Epstein was practically picking girls to win pageants.
+
+Transcript Snippet: There's a lot about um uh pageantry in these emails. It seems like Jeffrey Epstein was practically picking these girls to win pageants.
+
+Anchored Artifacts: 
+Mentions: N-3, N-9
+Related Nodes: N-10324
+Tags: relevance:context
+Investigative Direction: Search the release for Miss Universe, Miss USA and pageant-related threads and the people named.
+
+---
+
+**C-14274** Host says beauty queen names are redacted and Epstein trafficked through modeling organizations
+
+Claim Timestamp: 00:30:59
+
+Claim: The host says the names of some beauty queens have been conveniently redacted, that Epstein moved through industries like Victoria's Secret and Miss Universe with Jean-Luc Brunel, that the organizations were used for trafficking 'for a fact' via M Model Management, and that this is how Trump is caught up and 'rinsed out' of the files.
+
+Transcript Snippet: They were trafficking through these organizations. We know this for a fact, modeling organizations like M Model Management with Jean-Luc Brunel.
+
+Anchored Artifacts: 
+Mentions: N-3, N-535, N-9, N-5
+Related Nodes: N-10324
+Supports: C-9888
+Tags: relevance:context
+Investigative Direction: Check Brunel's 2020 French investigation record and the unredacted release for pageant names.
+
+---
+
+**C-14275** Host says Erika wants JD Vance in the White House and pushed it at AmFest
+
+Claim Timestamp: 00:30:59
+
+Claim: The host says Erika Kirk made clear she first and foremost wants Vance in the White House, and that this was a bizarre push at AmFest right away.
+
+Transcript Snippet: she made it clear that uh she first and foremost wants Shady Vance in the White House. That was kind of a bizarre push at AmFest right away.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-4
+Related Nodes: N-10268
+Tags: relevance:context
+Investigative Direction: Review the AmFest (December 2025) program and Erika Kirk's remarks on 2028; the name 'Shady Vance' is as transcribed (see Doubts).
+
+---
+
+**C-14276** Host says her team has major problems verifying Erika's Fort Huachuca alibi
+
+Claim Timestamp: 00:30:59
+
+Claim: The host says her team has been working to verify Erika Kirk's Fort Huachuca alibi and, after the sponsor break (00:32:06), that they are 'having some major problems'; the details are deferred.
+
+Transcript Snippet: And we have been working to verify her Fort Huachuca alibi.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2
+Related Nodes: N-10472, N-10417
+Tags: relevance:core
+Investigative Direction: Follow the later episodes in which the host details the alibi problems; obtain the alibi's claimed dates, location and witnesses.
+
+---
+
+**C-14277** Host says Hillary Clinton's WikiLeaks emails sought Gilgamesh's tomb before the Iraq invasion
+
+Claim Timestamp: 00:33:57
+
+Claim: The host says Hillary Clinton in the WikiLeaks emails was asking, a few days before the Iraq invasion, to locate Gilgamesh's tomb, and that Gilgamesh is suspected to be Nimrod.
+
+Transcript Snippet: Do you guys ever wonder why Hillary Clinton in those WikiLeaks emails was asking, a few days before we um invaded Iraq, she was trying to locate Gilgamesh's tomb.
+
+Anchored Artifacts: 
+Mentions: N-3, N-539
+Related Nodes: N-10480
+Tags: relevance:tangential
+Investigative Direction: Search the WikiLeaks Clinton emails for 'Gilgamesh'; the Iraq invasion was in March 2003 and Clinton's State Dept. emails date from 2009 onward, so the timing is doubtful.
+
+---
+
+**C-14278** Host says the Star of David did not appear as a Jewish symbol until the 17th century
+
+Claim Timestamp: 00:33:57
+
+Claim: The host says the Kiddush cup is the traditional symbol of Judaism and that, per Wikipedia, the Star of David did not emerge until the 17th century, when a mystic who declared himself Messiah in 1666 adopted it from Solomon's seal.
+
+Transcript Snippet: The Kiddush cup, that is the traditional symbol of Judaism. It even says this on Wikipedia that this did not emerge until the 17th century, right, 1666 was when that guy who was a mystic declared himself to be the Messiah
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: Check the Wikipedia article on the Star of David and scholarship (e.g. Scholem); the symbol is attested in Jewish contexts well before 1666 and Sabbatai Zevi's 1666 messianic claim is separate.
+
+---
+
+**C-14279** Host says Baal temple relics at Baalbek show the Star of David also used by Aleister Crowley
+
+Claim Timestamp: 00:36:08
+
+Claim: The host shows relics at Baalbek, Lebanon and another Baal temple, says they show the 'star of David' which is also all over Aleister Crowley's books on ritualistic magic, and says the symbolism means everything to 'them'.
+
+Transcript Snippet: Here you can see that star of David, which is also all over Aleister Crowley, not a Jew, all over his books on ritualistic magic
+
+Anchored Artifacts: A-3309.1
+Mentions: N-3, N-779
+Tags: relevance:tangential
+Investigative Direction: Identify the images shown; check the Baalbek reliefs for hexagram iconography and its dating.
+
+---
+
+**C-14280** Host says Jacob Frank was long speculated to be funded by the Rothschilds and Epstein said he was
+
+Claim Timestamp: 00:37:13
+
+Claim: The host says the Frankist cult leader Jacob Frank was long speculated to have been funded by the Rothschild family, and that Jeffrey Epstein was 'according to him' funded by the Rothschilds, so the rumors are 'probably not rumors'.
+
+Transcript Snippet: the Frankist cult long speculated that Jacob Frank was funded by the Rothschild's family. Well, we certainly know Jeffrey Epstein was according to him.
+
+Anchored Artifacts: 
+Mentions: N-3, N-9, N-526
+Supports: C-2258
+Tags: relevance:tangential
+Investigative Direction: Check Epstein's email statements about the Rothschilds; Frank died in 1791 and the Rothschild bank was founded later, so the historical claim needs primary-source support.
+
+---
+
+**C-14281** Hammer says the screenshot showed Charlie upset a Jewish donor was withholding $2 million
+
+Claim Timestamp: 00:39:29
+
+Claim: In the clip, Josh Hammer says Candace Owens used a screenshot 'totally out of context' of Charlie Kirk being very upset that a Jewish donor was withholding his $2 million donation.
+
+Transcript Snippet: Candace Owens seized on this totally out of context screenshot of Charlie Kirk being very upset that a Jewish donor was withholding his $2 million donation.
+
+Anchored Artifacts: A-1721.1
+Mentions: N-55, N-1, N-3
+Related Nodes: N-10187
+Supports: C-6533
+Tags: relevance:core
+Investigative Direction: Compare Hammer's description with the full chat screenshot and its timestamps.
+
+---
+
+**C-14282** Host says Charlie was apparently writing a Shabbat Shalom book with Dennis Prager
+
+Claim Timestamp: 00:40:20
+
+Claim: The host says Charlie Kirk was 'apparently writing a Shabbat Shalom book' with Dennis Prager, and argues he would have called Prager instead of Hammer and a rabbi for messaging advice.
+
+Transcript Snippet: You're not going to just call like Dennis Prager, who you're apparently writing a Shabbat Shalom book with.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-619
+Tags: relevance:context
+Investigative Direction: Confirm the book project with Prager's or Kirk's publishers or public announcements.
+
+---
+
+**C-14283** Host says Charlie appeared on the Will Cain show from his TPUSA office on Sept 9
+
+Claim Timestamp: 00:41:12
+
+Claim: The host says she has confirmed Charlie Kirk made an appearance on the Will Cain show on September 9, 2025 from his TPUSA office.
+
+Transcript Snippet: we know, which I've been able to confirm, that Charlie had an appearance in the Will Cain show. That's from his TPUSA office.
+
+Anchored Artifacts: A-3310.1
+Mentions: N-3, N-1, N-946
+Related Nodes: N-10473
+Tags: relevance:core
+Investigative Direction: Get the Fox News air log or video of the Will Cain Show appearance and its origin location.
+
+---
+
+**C-14284** Host says Charlie's chat text was sent at 3:54 p.m. and the Zoom call was at about 6:00 p.m.
+
+Claim Timestamp: 00:41:12
+
+Claim: The host places Charlie Kirk's 'leaving the pro-Israel cause' chat message at 3:54 p.m. Arizona time and, from Hammer's 'two hours later', the Zoom call with Hammer and an Israel-based rabbi at about 6:00 p.m.
+
+Transcript Snippet: Again, this is according to Josh Hammer cuz he says 2 hours later, which would have been 5:54 p. m. 6:00 p. m. Josh Hammer and this rabbi that literally is based in Israel have a Zoom call with Charlie.
+
+Anchored Artifacts: A-3310.1
+Mentions: N-3, N-1, N-55, N-167
+Related Nodes: N-10473, N-10169
+Supports: C-2269
+Tags: relevance:core
+Investigative Direction: Obtain the chat screenshot metadata, Hammer's calendar or Zoom logs, and Kirk's phone records for September 9.
+
+---
+
+**C-14285** Host says Erika told her in person she was getting her nails done around this time
+
+Claim Timestamp: 00:41:12
+
+Claim: The host says Erika Kirk told her in person that she was getting her nails done around the time of the Sept 9 events she is listing (the referent of 'this time' is unclear in the transcript).
+
+Transcript Snippet: That she was getting her nails done around this time. That's what she told me in person.
+
+Anchored Artifacts: A-3310.1
+Mentions: N-3, N-2
+Related Nodes: N-10473
+Tags: relevance:core
+Investigative Direction: Find the nail salon or appointment record for September 9 and ask Erika which time she meant.
+
+---
+
+**C-14286** Host says Shillman and other donors pulled their money on Sept 9 as Charlie messaged in the chat
+
+Claim Timestamp: 00:42:15
+
+Claim: The host says Charlie Kirk was getting messages from Bob Shillman and 'everyone's pulling out their money' on September 9, and that Shillman 'takes out his money'.
+
+Transcript Snippet: He's getting messages from Bob Shillman. Everyone's pulling out their money.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-98
+Related Nodes: N-10473
+Supports: C-6533
+Tags: relevance:core
+Investigative Direction: Get Shillman's donation records and the chat export; ask Shillman or TPUSA when funds were withdrawn.
+
+---
+
+**C-14287** Host says Erika told her Charlie had dinner with the family and a priest to pray over him
+
+Claim Timestamp: 00:42:15
+
+Claim: The host says that, according to Erika, Charlie Kirk had dinner on September 9 with Erika, the kids and a priest who prayed over him, and that Erika ties the prayer to the Jezebel article.
+
+Transcript Snippet: And then we know that after that, he's going to have dinner with Erika and the kids and a priest to pray over him, according to Erika.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-2
+Related Nodes: N-10117, N-10122, N-10473
+Supports: C-5553
+Tags: relevance:core
+Investigative Direction: Identify the priest and ask for his account; compare with the earlier Megyn Kelly report of a priest praying over the Kirks.
+
+---
+
+**C-14288** Host says Charlie wrote in the chat and to others 'I want Candace back', confirmed Sept 9
+
+Claim Timestamp: 00:43:00
+
+Claim: The host says Charlie Kirk said in the chat 'I want Candace back. I want to have her' and was also texting other people that he wanted her back, and that she has confirmed both on September 9.
+
+Transcript Snippet: He's in the chat. He's saying, "I want Candace back." Confirmed. This happened on September 9th now.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10473
+Supports: C-12043
+Tags: relevance:core
+Investigative Direction: Obtain the chat export and the recipients of the separate messages; ask the host for the names of the recipients.
+
+---
+
+**C-14289** Host says the Zoom call was followed by dinner with family and a priest, then the 'kill me' message
+
+Claim Timestamp: 00:43:44
+
+Claim: The host sequences September 9 as: the Zoom call ends, Charlie has dinner with his family and a priest (which she says she has confirmed), and then messages Dan Flood and Andrew Kolvet that 'they're going to kill me'.
+
+Transcript Snippet: He ends this call. He has to have dinner in this hour, which I've confirmed he did have dinner with his family and the priest uh to pray over him, this priest at dinner.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-14, N-274
+Related Nodes: N-10473, N-10340
+Supports: C-9358
+Tags: relevance:core
+Investigative Direction: Establish the timestamp of the 'kill me' message and of the dinner from device records and witnesses.
+
+---
+
+**C-14290** Host says Erika first said Charlie never texted Dan Flood and that she has his phone
+
+Claim Timestamp: 00:43:44
+
+Claim: The host says that Erika Kirk first said Charlie never texted Dan Flood and that she has his phone, after which the host answered that her source had access to Dan Flood's messages.
+
+Transcript Snippet: First she said, "Oh, he never texted D- he never texted Dan Flood or whatever. I have his phone."
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-274, N-14
+Related Nodes: N-10470, N-10340
+Supports: C-12500
+Tags: relevance:core
+Investigative Direction: Find Erika Kirk's original public or private statement denying the message and the date it was made.
+
+---
+
+**C-14291** Host says Erika later said the message was on a Telegram chat that clears
+
+Claim Timestamp: 00:44:45
+
+Claim: The host says Erika then admitted Dan Flood received a message but said it was on a Telegram chat that Charlie had set to clear, so she never saw it, which the host calls a lie because her source said it was an iMessage.
+
+Transcript Snippet: First she said it didn't exist, then she said maybe it did exist but actually it was on Telegram which Charlie had set to clear and that's why she never saw it.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-274
+Related Nodes: N-10470
+Supports: C-2273
+Tags: relevance:core
+Investigative Direction: Obtain Erika Kirk's statement about the Telegram chat and Dan Flood's device logs; compare with the source's iMessage claim.
+
+---
+
+**C-14292** Host says Charlie hosted his show from his home studio on Sept 8 and the broadcast hour
+
+Claim Timestamp: 00:45:27
+
+Claim: The host says that on September 8, 2025 Charlie Kirk hosted a full hour of his show on the Salem Network from his home studio (10 to 11 a.m. Arizona time, per the previous paragraph).
+
+Transcript Snippet: Charlie appears from his home studio. Again, this is all reflecting Arizona local time. Um on the Charlie Kirk show, that's a full hour on the Salem Network.
+
+Anchored Artifacts: A-3311.1
+Mentions: N-3, N-1
+Related Nodes: N-11351, N-10473
+Tags: relevance:core
+Investigative Direction: Get the Salem Network broadcast log and the episode's recorded origin metadata for September 8.
+
+---
+
+**C-14293** Host says Charlie had just returned from Korea late the night before Sept 8
+
+Claim Timestamp: 00:45:27
+
+Claim: The host says Charlie Kirk 'had just gotten back late late late the night before from Korea', so a nap on the afternoon of September 8 made sense.
+
+Transcript Snippet: Makes sense cuz he had just gotten back late late late the night before from Korea.
+
+Anchored Artifacts: A-3311.1
+Mentions: N-3, N-1
+Related Nodes: N-10397, N-10473
+Tags: relevance:core
+Investigative Direction: Get the flight records and landing time for Kirk's return from Korea; compare with the host's earlier statements about his Asia trip dates.
+
+---
+
+**C-14294** Host says Erika told her she woke Charlie from a nap for his Fox News hit
+
+Claim Timestamp: 00:45:27
+
+Claim: The host says Erika told her she woke Charlie Kirk up from a nap for his Fox News hit on September 8, and adds that this is only according to Erika.
+
+Transcript Snippet: She said she woke him up from a nap for his Fox News hit. Again, that's just according to Erika.
+
+Anchored Artifacts: A-3311.1
+Mentions: N-3, N-1, N-2
+Related Nodes: N-10006, N-10473
+Tags: relevance:core
+Investigative Direction: Obtain the Fox News booking record and the time of the segment.
+
+---
+
+**C-14295** Host says Charlie did The Ingraham Angle from his house because he was exhausted and jet-lagged
+
+Claim Timestamp: 00:45:27
+
+Claim: The host says Charlie Kirk appeared on 'the Ingraham Angle' on September 8, shot from his house instead of the office because he was exhausted and jet-lagged.
+
+Transcript Snippet: Then we know Charlie Kirk appears from his home studio on the Ingraham Angle. And the show he shoots it from his house.
+
+Anchored Artifacts: A-3311.1
+Mentions: N-3, N-1, N-697
+Related Nodes: N-10006, N-10473
+Tags: relevance:core
+Investigative Direction: Get the air date and origin location of the segment from Fox News.
+
+---
+
+**C-14296** Host says the Jezebel witch's curse article appeared on Sept 8
+
+Claim Timestamp: 00:45:27
+
+Claim: The host says September 8, 2025 is also the day the Jezebel article about a witch's curse appeared.
+
+Transcript Snippet: Uh this is also the day that the article appears in Jezebel regarding that witch's curse.
+
+Anchored Artifacts: A-3311.1
+Mentions: N-3, N-1
+Related Nodes: N-10117, N-10122
+Tags: relevance:core
+Investigative Direction: Check the Jezebel article's publication date and time; the priest dinner is placed on September 9 elsewhere.
+
+---
+
+**C-14297** Host says Erika's alibi had her just arriving home at 5:24 p.m. on Sept 8
+
+Claim Timestamp: 00:46:12
+
+Claim: The host says that at 5:24 p.m. on September 8 Erika Kirk's alibi to her was that she was just arriving back home, 'presumably with groceries'.
+
+Transcript Snippet: At 5:24 p. m., Erika's alibi to me was that she was just arriving back home, presumably with groceries, but just arriving back home.
+
+Anchored Artifacts: A-3311.1
+Mentions: N-3, N-2
+Related Nodes: N-10473
+Tags: relevance:core
+Investigative Direction: Obtain Erika's stated itinerary for September 8 and any receipts, parking or building access logs.
+
+---
+
+**C-14298** Host says Erika texted Charlie that dinner was ready at 6:06 p.m. on Sept 8
+
+Claim Timestamp: 00:46:12
+
+Claim: The host says that at 6:06 p.m. on September 8 Erika texted Charlie that dinner was ready.
+
+Transcript Snippet: At 6:06 p. m., she texts to Charlie and says dinner is ready.
+
+Anchored Artifacts: A-3311.1
+Mentions: N-3, N-2, N-1
+Related Nodes: N-10473
+Tags: relevance:core
+Investigative Direction: Obtain the text-message thread for September 8 and its timestamps.
+
+---
+
+**C-14299** Host says residents confirmed seeing Charlie and Erika eating on the 9th and Charlie in an elevator
+
+Claim Timestamp: 00:48:34
+
+Claim: The host says people in the Kirks' building confirmed that they saw Charlie, where they saw him, and 'Charlie and Erika eating on the 9th', including seeing Charlie in an elevator, and that everything about Charlie is adding up.
+
+Transcript Snippet: they confirmed that they saw Charlie and where they saw Charlie and Erika eating on the 9th. Seeing Charlie in an elevator.
+
+Anchored Artifacts: A-1726.2
+Mentions: N-3, N-1, N-2
+Related Nodes: N-10473
+Tags: relevance:core
+Investigative Direction: Obtain written, named statements from the residents and the building's security and elevator logs for September 8-10.
+
+---
+
+**C-14300** Host says no one can confirm seeing Erika on Sept 10 while Mikey McCoy was seen
+
+Claim Timestamp: 00:49:30
+
+Claim: The host says people in the building know each other and have reported seeing Mikey McCoy on that date, but no one can confirm seeing Erika Kirk on September 10, and she says Erika was 'behaving super shady'.
+
+Transcript Snippet: People have said I've seen Mikey McCoy on this date, blah blah blah. No one can confirm that they saw Erika on this date where she was behaving super shady
+
+Anchored Artifacts: A-1726.2
+Mentions: N-3, N-2, N-194
+Related Nodes: N-10471, N-10198
+Tags: relevance:core
+Investigative Direction: Canvass building residents and review lobby and garage camera footage for September 10, 2025.
+
+---
+
+**C-14301** Host says no one has seen Erika collapse in the parking lot
+
+Claim Timestamp: 00:49:30
+
+Claim: The host says Erika Kirk says she collapsed in the parking lot (and screamed in a doctor's office) but no one has seen that, and nobody in her building has, adding that a doctor's office with people in it would have someone who heard a giant scream.
+
+Transcript Snippet: She also says that she collapsed in the parking lot. No one thus far has seen that. Nobody in her building has a has and they all know each other.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2
+Related Nodes: N-10471
+Tags: relevance:core
+Investigative Direction: Identify the doctor's office and parking lot Erika named and interview staff and patients present on September 10.
+
+---
+
+**C-14302** Host says Erika gave a straightforward Fort Huachuca alibi but pretended not to understand its instructions
+
+Claim Timestamp: 00:49:30
+
+Claim: The host says Erika Kirk gave her 'a very straightforward alibi' and then pretended not to understand the instructions of the alibi for Fort Huachuca.
+
+Transcript Snippet: just giving me a very straightforward alibi and pretending like they didn't understand the instructions of this alibi for Fort Huachuca.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2
+Related Nodes: N-10472, N-10417
+Tags: relevance:core
+Investigative Direction: Obtain the written alibi instructions and the host's exchange with Erika about Fort Huachuca.
+
+---
+
+**C-14303** Host says she thinks Charlie feared for his life over Israel pressure, not a Jezebel curse
+
+Claim Timestamp: 00:50:13
+
+Claim: The host says she thinks Charlie Kirk was fearful of his life, that it was not about a Jezebel curse, and that his day reveals stress from pressure on him regarding Israel.
+
+Transcript Snippet: I think Charlie was fearful of his life. I don't think it was about a Jezebel curse.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10117, N-10473
+Tags: relevance:core
+Investigative Direction: Treat as the host's stated belief; test it against the group-chat export and witnesses to Kirk's mood on September 9.
+
+---
+
+**C-14304** Host says she believes 'they' in the kill-me text meant 'the Jews'
+
+Claim Timestamp: 00:50:53
+
+Claim: The host says it follows that Charlie Kirk sent Andrew Kolvet and Dan Flood a message that 'they, meaning the Jews, were going to kill him', which she says is what she believes happened.
+
+Transcript Snippet: It would it would follow that he then sent to Andrew Kolvet and Dan Flood that they, meaning the Jews, were going to kill him. That's what I believe.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-14, N-274
+Related Nodes: N-10473, N-10340
+Supports: C-6825
+Tags: relevance:core
+Investigative Direction: Obtain the exact wording of the message from Kolvet or Flood; the host's reading of 'they' is her inference and not stated in the message as reported.
+
+---
+
+**C-14305** Host says Erika is lying to cover for Dan Flood
+
+Claim Timestamp: 00:50:53
+
+Claim: The host says that Erika Kirk is lying and covering for Dan Flood, that these are 'big lies', and that she will get to the bottom of why.
+
+Transcript Snippet: And as far as why Erika is lying and covering for Dan Flood, we're going to we're going to get to the bottom of that.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2, N-274
+Related Nodes: N-10694, N-10470
+Tags: relevance:core
+Investigative Direction: Compare Erika's statements about the message with Dan Flood's own account and device records.
+
+---
+
+**C-14306** Host says Erika is welcoming bad people into TPUSA for money
+
+Claim Timestamp: 00:50:53
+
+Claim: The host says Erika Kirk is covering for bad people and is welcoming bad people into the fray of Turning Point USA for money.
+
+Transcript Snippet: She's covering up for bad people and doesn't make any sense. She's welcoming bad people into the fray of Turning Point USA for money.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Ask the host to name the people and the payments; review TPUSA donor and hiring disclosures.
+
+---
+
+**C-14307** Host says a confirmed big money check with a Pierre came in alongside recent firings and Erika knows who Pierre is
+
+Claim Timestamp: 00:53:49
+
+Claim: The host says that, alongside the recent firings, there is a confirmed fact of a big money check coming in with a Pierre, and that Erika Kirk knows who Pierre is.
+
+Transcript Snippet: What I told you another confirmed fact with all of these recent firings a big money check coming in with a Pierre. Erika knows who Pierre is. I'll tell you that for free.
+
+Anchored Artifacts: 
+Mentions: N-3, N-2
+Related Nodes: N-10493, N-10000
+Supports: C-1815, C-6832
+Tags: relevance:core
+Investigative Direction: Identify the donor and check TPUSA donation records and any press reports tying a Pierre to recent gifts.
+
+---
+
+**C-14308** Host says the Club Candace tiers are merged into one at $11.99 a month or $120 a year
+
+Claim Timestamp: 00:55:24
+
+Claim: The host says the subscription tiers have been merged into one Club Candace tier for $11.99 a month or $120 a year.
+
+Transcript Snippet: We've also merged our subscription tiers into one Club Candace tier for $11.99 a month or $120 a year.
+
+Anchored Artifacts: 
+Mentions: N-3
+Supports: C-9999
+Tags: relevance:tangential
+Investigative Direction: Check the Club Candace subscription page for the merged tier's price.
+
+---
+
+**C-14309** Host says Brigitte Macron is suing her
+
+Claim Timestamp: 01:00:34
+
+Claim: The host says that Brigitte Macron is suing her 'for knowing' and describes this as the new tactic of suing for knowing they are devil worshipers.
+
+Transcript Snippet: Just going to sue me for knowing it. So this is their new thing. We're just going to sue you for knowing.
+
+Anchored Artifacts: 
+Mentions: N-3, N-82
+Related Nodes: N-11011, N-10270
+Supports: C-7885
+Tags: relevance:context
+Investigative Direction: Check the Delaware docket for Macron v. Owens and its current status.
+
+---
 
 ## 6. Meme Register
 
@@ -1182,14 +2807,44 @@ Context: Reuse of Pass the Sniff Test (first introduced in episode 7 at 00:11:53
 Tags: wave3, reuse
 Confidence: high
 
+**M-332** (meme) A Pastor, a Priest and a Rabbi
+
+### Occurrence 1
+
+Video Timestamp: 00:43:00
+Speaker: N-3
+Quote: They want us to believe he he needed a rabbi, a priest, and a pastor in the last 24 hours of his life all helping him with talking points.
+Context: Host mocks the account of Charlie's final-day advisers as the start of a joke.
+Tags: running-bit, timeline
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:46:12
+Speaker: N-3
+Quote: It literally sounds like the beginning of a joke. A pastor, a priest, and a rabbi walked into a bar.
+Context: Host applies the joke format to Turek, the priest and the rabbi.
+Tags: running-bit, timeline
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:50:13
+Speaker: N-3
+Quote: I don't buy Charlie suddenly need advice from a pastor, a priest, and a rabbi.
+Context: Host rejects the pastor, priest and rabbi explanation.
+Tags: running-bit, timeline
+Confidence: high
+
+---
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** "Andrew Kolvet" / "Andrew Kolvetz" / "Kolbatz" – transcript shows multiple spellings across instances. Original TPUSA communications should be consulted to determine canonical spelling. N-14 (Kolvet) and N-14 (Kolbatz) are preserved as separate node identifiers pending resolution; this may indicate transcription error or two separate individuals.
+- **Name:** Kolvet appears under several transcript spellings; all are corrected to Andrew Kolvet (N-14).
 - **Artifact verbally referenced but not shown:** A-1724.1 (Jezebel article) – referenced by host as context for Charlie Kirk's behavior but not displayed on screen.
 - **Source unnamed:** A-1726.1, A-1726.2 – host's "source" with access to Dan Flood's messages and the building-neighbor sighting are referenced without on-air identification. Requires human verification.
 - **Transcript ambiguity:** C-2268 / C-2269 – host states Hammer confirmed Sept 9 for the text message but does not specify whether Hammer cited the screenshot timestamp directly or relied on memory.
-- **Possible transcription error:** "Kolbatz" (likely "Kolvet" / "Kolvetz") appears in the chapter "Andrew Kolbatz and alleged Mikey McQuaid"; appears again later as "Andrew Kolvetz." N-14 records "Kolvet" as canonical; N-14 records "Kolbatz" as transcribed.
+- **Possible transcription error:** "Kolbatz" (likely "Kolvet" / "Kolvetz") appears in the chapter "Andrew Kolvet and alleged Mikey McCoy"; appears again later as "Andrew Kolvet." N-14 records "Kolvet" as canonical; N-14 records "Kolbatz" as transcribed.
 - **Claim failed admission test:** Multiple host-stated claims about Freemasons, B'nai B'rith, Khazarian Empire, Baal worship, ritual sacrifice by "them," Star of David origins, CERN ritual activity, and WikiLeaks pizza code words (the latter asserted without artifact display) have not been inscribed as evidentiary claims per the Framing Premise and Rhetoric Removal tests. They appear in the source commentary but not in the Claim Register.
 - **Spelling preservation:** "Alaouite" dynasty spelling preserved exactly as in transcript (host acknowledged uncertainty).
 - **Spelling preservation:** "Wilhelm Fliess" preserved (host said "Fliess" not "Fleiss"); "Kabbalah" preserved; "Khazarian" preserved.

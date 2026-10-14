@@ -383,6 +383,234 @@
           "confidence": "low"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3325",
+      "family_ref": "A-3325",
+      "bundle_name": "Built Incorporated App Description Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3325.1",
+          "ref": "A-3325.1",
+          "description": "Host reads Built Incorporated's description of its 3D and XR guided-instruction app",
+          "related_claims": [
+            "C-14571"
+          ],
+          "related_nodes": [
+            "N-10577"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:10:27",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3326",
+      "family_ref": "A-3326",
+      "bundle_name": "Built Incorporated Connections Chart Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3326.1",
+          "ref": "A-3326.1",
+          "description": "Host chart showing the people and companies connected to Built Incorporated (Qureshi, Henderson, Romney Henderson, sons)",
+          "related_claims": [
+            "C-14580",
+            "C-14581",
+            "C-14582",
+            "C-14583"
+          ],
+          "related_nodes": [
+            "N-10577"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:19:43",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3327",
+      "family_ref": "A-3327",
+      "bundle_name": "Tyler Robinson and Connor Henderson Comparison Photos Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3327.1",
+          "ref": "A-3327.1",
+          "description": "Host shows pictures of Tyler Robinson and Connor Henderson as 'factual pictures of the players'",
+          "related_claims": [
+            "C-14584"
+          ],
+          "related_nodes": [
+            "N-40",
+            "N-420"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:22:43",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3328",
+      "family_ref": "A-3328",
+      "bundle_name": "Zenger Roommate Name Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3328.1",
+          "ref": "A-3328.1",
+          "description": "Host has the name of Andrew Zenger's roommate pulled up on screen",
+          "related_claims": [
+            "C-14591"
+          ],
+          "related_nodes": [
+            "N-137",
+            "N-423"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:27:39",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3329",
+      "family_ref": "A-3329",
+      "bundle_name": "Prior-Day Document Footprint Reference Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3329.1",
+          "ref": "A-3329.1",
+          "description": "Host verbal reference to a document released the day before that mentions a footprint (document not shown)",
+          "related_claims": [
+            "C-14597"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:28:49",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3330",
+      "family_ref": "A-3330",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3330.1",
+          "ref": "A-3330.1",
+          "description": "Host verbal call for tips at the more tips address about the Hild-Romney family link",
+          "related_claims": [
+            "C-14598"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-952"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:29:30",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3331",
+      "family_ref": "A-3331",
+      "bundle_name": "Mark Wilding Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3331.1",
+          "ref": "A-3331.1",
+          "description": "Viewer comment from Mark Wilding read aloud about Farnsworth taking a chair to reach the camera",
+          "related_claims": [
+            "C-14617"
+          ],
+          "related_nodes": [
+            "N-265"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:42:19",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3332",
+      "family_ref": "A-3332",
+      "bundle_name": "Libby Vargas Comment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3332.1",
+          "ref": "A-3332.1",
+          "description": "Viewer comment from Libby Vargas read aloud about reading Chaos and the parallels to this investigation",
+          "related_claims": [
+            "C-14623",
+            "C-14624"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:48:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3333",
+      "family_ref": "A-3333",
+      "bundle_name": "Charlie Abandon-the-Cause Message Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3333.1",
+          "ref": "A-3333.1",
+          "description": "Host verbal quotation of Charlie Kirk's message about abandoning the pro-Israel cause (message not shown)",
+          "related_claims": [
+            "C-14626"
+          ],
+          "related_nodes": [
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:49:11",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -394,7 +622,13 @@
       "type": "investigation_target",
       "description": "X-handle candidate allegedly from Washington; named by viewer's reverse-image search. Per host, no one has come forward to personally identify him, raising the possibility of a synthetic identity.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14592",
+        "C-14596",
+        "C-14598",
+        "C-14599",
+        "C-14608"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -568,8 +802,26 @@
       "name": "Charlie Kirk",
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-3333.1"
+      ],
+      "related_claims": [
+        "C-14550",
+        "C-14551",
+        "C-14552",
+        "C-14555",
+        "C-14556",
+        "C-14563",
+        "C-14572",
+        "C-14579",
+        "C-14610",
+        "C-14611",
+        "C-14624",
+        "C-14625",
+        "C-14626",
+        "C-14628",
+        "C-14629"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -585,7 +837,12 @@
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14562",
+        "C-14618",
+        "C-14627",
+        "C-14629"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -601,7 +858,9 @@
       "type": "person",
       "description": "Former US senator and presidential candidate. Host recalls his BCG advisory tie to Benjamin Netanyahu.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-2626"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -636,7 +895,9 @@
       "type": "person",
       "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14610"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -652,7 +913,16 @@
       "type": "person",
       "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14550",
+        "C-14551",
+        "C-14552",
+        "C-14553",
+        "C-14555",
+        "C-14556",
+        "C-14613",
+        "C-14625"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -667,8 +937,17 @@
       "name": "Tyler Robinson",
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-3327.1"
+      ],
+      "related_claims": [
+        "C-14584",
+        "C-14594",
+        "C-14606",
+        "C-14607",
+        "C-14608",
+        "C-14616"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -684,7 +963,11 @@
       "type": "person",
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14559",
+        "C-14565",
+        "C-14569"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -699,8 +982,14 @@
       "name": "Andrew Zanger",
       "type": "person",
       "description": "Andrew Zanger (wave3 orphan mint).",
-      "related_artifacts": [],
+      "related_artifacts": [
+        "A-3328.1"
+      ],
       "related_claims": [
+        "C-14588",
+        "C-14590",
+        "C-14591",
+        "C-14601",
         "C-2639",
         "C-2640",
         "C-2641",
@@ -889,6 +1178,1272 @@
       "claim_count": 7,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself throughout.",
+      "related_artifacts": [
+        "A-3330.1"
+      ],
+      "related_claims": [
+        "C-14550",
+        "C-14551",
+        "C-14552",
+        "C-14553",
+        "C-14554",
+        "C-14555",
+        "C-14556",
+        "C-14557",
+        "C-14558",
+        "C-14559",
+        "C-14560",
+        "C-14561",
+        "C-14562",
+        "C-14563",
+        "C-14564",
+        "C-14565",
+        "C-14566",
+        "C-14567",
+        "C-14568",
+        "C-14569",
+        "C-14570",
+        "C-14571",
+        "C-14572",
+        "C-14573",
+        "C-14574",
+        "C-14575",
+        "C-14576",
+        "C-14577",
+        "C-14578",
+        "C-14579",
+        "C-14580",
+        "C-14581",
+        "C-14582",
+        "C-14583",
+        "C-14584",
+        "C-14585",
+        "C-14586",
+        "C-14587",
+        "C-14588",
+        "C-14589",
+        "C-14590",
+        "C-14591",
+        "C-14592",
+        "C-14593",
+        "C-14594",
+        "C-14595",
+        "C-14596",
+        "C-14597",
+        "C-14598",
+        "C-14599",
+        "C-14600",
+        "C-14601",
+        "C-14602",
+        "C-14603",
+        "C-14604",
+        "C-14605",
+        "C-14606",
+        "C-14607",
+        "C-14608",
+        "C-14609",
+        "C-14610",
+        "C-14611",
+        "C-14612",
+        "C-14613",
+        "C-14614",
+        "C-14615",
+        "C-14616",
+        "C-14617",
+        "C-14618",
+        "C-14619",
+        "C-14620",
+        "C-14621",
+        "C-14622",
+        "C-14623",
+        "C-14624",
+        "C-14625",
+        "C-14626",
+        "C-14627",
+        "C-14628",
+        "C-14629"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 80,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-6",
+      "ref": "N-6",
+      "name": "Elizabeth Lane",
+      "type": "person",
+      "description": "Journalist whom the host says was on the ground at Utah Valley hospital on September 10.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14560",
+        "C-14561",
+        "C-14562"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-14",
+      "ref": "N-14",
+      "name": "Andrew Kolvet",
+      "type": "person",
+      "description": "TPUSA spokesperson; the host says TPUSA attacked Joe Kent instead of disclosing Charlie's position.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14627"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-42",
+      "ref": "N-42",
+      "name": "George Zinn",
+      "type": "person",
+      "description": "George Zinn, spelled Zin in the transcript; the first decoy per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14566",
+        "C-14567"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-54",
+      "ref": "N-54",
+      "name": "Lance Twiggs",
+      "type": "person",
+      "description": "Lance Twiggs; the host says the footage figure looks more like him than Tyler Robinson.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14594"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-61",
+      "ref": "N-61",
+      "name": "Phil Lyman",
+      "type": "person",
+      "description": "Phil Lyman; the host says his family owned the block near the shooting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14592",
+        "C-14593",
+        "C-14595"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-129",
+      "ref": "N-129",
+      "name": "Shane Lyman",
+      "type": "person",
+      "description": "Shane Lyman; the Lyman relative the host says Robbie Hild stood alongside.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14592",
+        "C-14595",
+        "C-14596"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-213",
+      "ref": "N-213",
+      "name": "Joe Kent",
+      "type": "person",
+      "description": "Joe Kent; the host says TPUSA attacked him instead of disclosing Charlie's position.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14627"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-265",
+      "ref": "N-265",
+      "name": "Terrell Farnsworth",
+      "type": "person",
+      "description": "Terrell Farnsworth, spelled Teal and Terra in the transcript; camera-takedown figure the host links to the Mormon colony families.",
+      "related_artifacts": [
+        "A-3331.1"
+      ],
+      "related_claims": [
+        "C-14609",
+        "C-14617",
+        "C-14618",
+        "C-14619"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-334",
+      "ref": "N-334",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Baron Coleman; co-analyst of Built's federal contracts.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14575",
+        "C-14576",
+        "C-14577",
+        "C-14578",
+        "C-14579",
+        "C-14584"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-366",
+      "ref": "N-366",
+      "name": "Mitch Snow",
+      "type": "person",
+      "description": "Mitch Snow; the host recalls his account of O5s and O6s at Fort Huachuca.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14570"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-715",
+      "ref": "N-715",
+      "name": "John F. Kennedy",
+      "type": "person",
+      "description": "John F. Kennedy; subject of the CBLA history and Texas comparison.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14573",
+        "C-14602",
+        "C-14605"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-718",
+      "ref": "N-718",
+      "name": "Ron Paul",
+      "type": "person",
+      "description": "Ron Paul; subject of the 2012 convention comment.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14620",
+        "C-14621"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "organization",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14553",
+        "C-14554",
+        "C-14556"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10007",
+      "ref": "N-10007",
+      "name": "Republican National Committee (RNC)",
+      "type": "organization",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14620",
+        "C-14621"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "organization",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14578"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10014",
+      "ref": "N-10014",
+      "name": "Federal Bureau of Investigation",
+      "type": "organization",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14603"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10032",
+      "ref": "N-10032",
+      "name": "Decoy Boy Operation Analysis",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14566",
+        "C-14568"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10048",
+      "ref": "N-10048",
+      "name": "Charlie Kirk Assassination Investigation",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14579"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10065",
+      "ref": "N-10065",
+      "name": "Caldera Engineering",
+      "type": "organization",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14593"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Place",
+      "@id": "N-10074",
+      "ref": "N-10074",
+      "name": "Provo, Utah",
+      "type": "place",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14557",
+        "C-14612",
+        "C-14613",
+        "C-14615"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10076",
+      "ref": "N-10076",
+      "name": "Cameragate Investigation",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14617"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10078",
+      "ref": "N-10078",
+      "name": "TPUSA Financial Apparatus Investigation",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14554"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10082",
+      "ref": "N-10082",
+      "name": "CIA",
+      "type": "organization",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14573",
+        "C-14591",
+        "C-14600",
+        "C-14605",
+        "C-14623",
+        "C-14624"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10092",
+      "ref": "N-10092",
+      "name": "Brigham Young University",
+      "type": "organization",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14581",
+        "C-14588",
+        "C-14589"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10106",
+      "ref": "N-10106",
+      "name": "Moral Blackmail by Donors",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14626",
+        "C-14628"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10110",
+      "ref": "N-10110",
+      "name": "Tyler Robinson Evidence Gaps",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14597",
+        "C-14606",
+        "C-14616"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10144",
+      "ref": "N-10144",
+      "name": "Phil Lyman Proximity and Behavior Investigation",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14592",
+        "C-14593",
+        "C-14595",
+        "C-14596"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10168",
+      "ref": "N-10168",
+      "name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14594"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10184",
+      "ref": "N-10184",
+      "name": "Caldera Engineering Background Investigation",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14593"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10202",
+      "ref": "N-10202",
+      "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14559",
+        "C-14565",
+        "C-14569"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10223",
+      "ref": "N-10223",
+      "name": "George Zinn Hospital Payment Claim",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14567"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10239",
+      "ref": "N-10239",
+      "name": "Timpanogos Hospital Footage Seizure Verification",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14559"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10253",
+      "ref": "N-10253",
+      "name": "Egyptian Military Plane Tracking Investigation",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14557",
+        "C-14572",
+        "C-14587",
+        "C-14612",
+        "C-14614"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10326",
+      "ref": "N-10326",
+      "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14570"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10337",
+      "ref": "N-10337",
+      "name": "Tyler Robinson Prosecution Evidence Base",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14597",
+        "C-14606"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10342",
+      "ref": "N-10342",
+      "name": "Bibi Netanyahu TPUSA Funding Offer",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14550",
+        "C-14552",
+        "C-14553"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10346",
+      "ref": "N-10346",
+      "name": "Terrell Farnsworth Camera Removal Justification",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14617",
+        "C-14618",
+        "C-14619"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10347",
+      "ref": "N-10347",
+      "name": "Egyptian Planes Israel Flight Pattern",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14557",
+        "C-14612",
+        "C-14613",
+        "C-14614"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10354",
+      "ref": "N-10354",
+      "name": "George Zin Self-Incriminating Hospital Statement",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14567"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10355",
+      "ref": "N-10355",
+      "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14627"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10367",
+      "ref": "N-10367",
+      "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14570"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10370",
+      "ref": "N-10370",
+      "name": "Fort Huachuca Morning Meeting Investigation",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14570",
+        "C-14572"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10383",
+      "ref": "N-10383",
+      "name": "Farnsworth Family Political-Military Network",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14609"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10446",
+      "ref": "N-10446",
+      "name": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14550",
+        "C-14551",
+        "C-14552",
+        "C-14628"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10456",
+      "ref": "N-10456",
+      "name": "Charlie Kirk BB Netanyahu Show Refusal",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14625"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10495",
+      "ref": "N-10495",
+      "name": "BB Netanyahu Hamptons Dinner Allegation",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14551"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10535",
+      "ref": "N-10535",
+      "name": "9/10 Behind Charlie Video Analysis",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14618"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10539",
+      "ref": "N-10539",
+      "name": "Charlie Kirk Iran War Opposition (June 2025)",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14555",
+        "C-14556",
+        "C-14610",
+        "C-14611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10543",
+      "ref": "N-10543",
+      "name": "Charlie Kirk Legacy Control Dispute",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14556",
+        "C-14624",
+        "C-14625",
+        "C-14626",
+        "C-14629"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10551",
+      "ref": "N-10551",
+      "name": "Joe Kent Leak Accusation Chain",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14627"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10572",
+      "ref": "N-10572",
+      "name": "ATF Bullet-to-Gun Inconclusive Finding",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14604"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10573",
+      "ref": "N-10573",
+      "name": "Timpanogos Hospital Evidence Question",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14558",
+        "C-14560",
+        "C-14561",
+        "C-14563"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10620",
+      "ref": "N-10620",
+      "name": "ATF Bullet Comparison Methodology",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14604"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-10674",
+      "ref": "N-10674",
+      "name": "June 18 White House Meeting on Iran Involvement",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14610"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10888",
+      "ref": "N-10888",
+      "name": "Department of War",
+      "type": "organization",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14574"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-10975",
+      "ref": "N-10975",
+      "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
+      "type": "organization",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14604"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11128",
+      "ref": "N-11128",
+      "name": "US and Israel Iran War Betrayal Thesis",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14555",
+        "C-14611"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11142",
+      "ref": "N-11142",
+      "name": "Zachariah Karashy Detention and Release Question",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14564"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11199",
+      "ref": "N-11199",
+      "name": "Library 911 Calls and Lockdown",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14563"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11208",
+      "ref": "N-11208",
+      "name": "Timpanogos Hospital Group Arrival Question",
+      "type": "topic",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14558"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11325",
+      "ref": "N-11325",
+      "name": "Utah Valley Hospital",
+      "type": "organization",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14560",
+        "C-14561"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-952",
+      "ref": "N-952",
+      "name": "Robbie Hild",
+      "type": "person",
+      "description": "First named by the host at 00:27:39 in episode 87 (spelled Robbie Hild and Robbie Hild in the transcript). Person the host says she put an APB out for because he stood alongside a Lyman relative; she says he attended BYU, played lacrosse and graduated around 2020.",
+      "related_artifacts": [
+        "A-3330.1"
+      ],
+      "related_claims": [
+        "C-14592",
+        "C-14596",
+        "C-14598",
+        "C-14599",
+        "C-14608"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11398",
+      "ref": "N-11398",
+      "name": "Utah Mormon Colony Family Ties Inquiry",
+      "type": "topic",
+      "description": "The host's examination of marriage and migration ties among the Romney, Farnsworth, Robinson and Hild families, including the Mormon colonies in Chihuahua, Mexico.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14586",
+        "C-14607",
+        "C-14608",
+        "C-14609"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11399",
+      "ref": "N-11399",
+      "name": "2012 RNC Convention Rule Changes",
+      "type": "topic",
+      "description": "The host reads that the RNC altered 2012 convention rules to bind delegates and refused to recognize Ron Paul's Maine delegates.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14620",
+        "C-14621"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1428,7 +2983,2091 @@
       "mentions_person_refs": [
         "N-40"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14550",
+      "ref": "C-14550",
+      "label": "Host Says TPUSA Tweets Vetted by Lawyers and PR Agents Never Addressed the Netanyahu Call",
+      "claim": "The host says the long tweets TPUSA put out explaining that it did nothing wrong were overseen by lawyers and PR agents, and that none of them addressed Charlie Kirk's final call with Benjamin Netanyahu.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10446",
+        "N-10342"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:00:54",
+      "investigative_direction": "Collect TPUSA's public statements since 2025-09-10 and check whether any mentions the Netanyahu call; ask TPUSA whether lawyers or a PR firm reviewed them.",
+      "transcript_snippet": "Tweets that were overseen by lawyers and PR agents. No one wanted to address BB Netanyahu's call.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14551",
+      "ref": "C-14551",
+      "label": "Host Says Charlie's Final Call With Netanyahu Took Place in the Hamptons",
+      "claim": "The host says Charlie Kirk's final phone call with Benjamin Netanyahu was the one that took place in the Hamptons.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10446",
+        "N-10495"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:00:54",
+      "investigative_direction": "Establish whether the Hamptons gathering and the Netanyahu call were one event or two (host elsewhere calls the Hamptons event a summit or meeting); obtain attendee accounts and Kirk's phone records.",
+      "transcript_snippet": "is that final phone call that Charlie had with BB Netanyahu. The one that took place in the Hamptons",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14552",
+      "ref": "C-14552",
+      "label": "Host Says Charlie Described the Netanyahu Call as an Intervention Over Israel",
+      "claim": "The host says Charlie Kirk described his final call with Netanyahu as an intervention over the topic of Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10446",
+        "N-10342"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:01:37",
+      "investigative_direction": "Identify who Kirk described the call to and obtain their account; compare with Hamptons attendees' accounts and Kirk's messages from August 2025.",
+      "transcript_snippet": "Charlie described it, as I told you, as an intervention over the topic of Israel.",
+      "supports_claim_refs": [
+        "C-12314"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14553",
+      "ref": "C-14553",
+      "label": "Host Says Netanyahu Offered to Take Turning Point to the Next Level",
+      "claim": "The host says Netanyahu offered to take Turning Point USA 'to the next level' and that she does not know what he asked for in exchange.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10342",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:01:37",
+      "investigative_direction": "Obtain the source of the offer (host elsewhere names Andrew Kolvet) and any TPUSA or Israeli government records of a funding proposal.",
+      "transcript_snippet": "BB offered, as I said, to take Turning Point to the next level, and what troubles me is not knowing the answer in exchange for what?",
+      "supports_claim_refs": [
+        "C-1562",
+        "C-10767"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14554",
+      "ref": "C-14554",
+      "label": "Host Says Turning Point Already Brings In $100 Million Per Year",
+      "claim": "The host says Turning Point USA is already pulling in $100 million per year.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10078"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:01:37",
+      "investigative_direction": "Check TPUSA's IRS Form 990 filings and annual reports for total annual revenue.",
+      "transcript_snippet": "an organization that is already pulling in $100 million per year to the next level?",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14555",
+      "ref": "C-14555",
+      "label": "Host Says Charlie and Netanyahu Were Butting Heads Over War in Iran",
+      "claim": "The host says war in Iran was the particular issue on which Netanyahu and Charlie Kirk were butting heads.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10539",
+        "N-11128"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:01:37",
+      "investigative_direction": "Collect Kirk's June 2025 public and private statements on Iran and Netanyahu's contacts with him.",
+      "transcript_snippet": "War in Iran, particularly the issue that BB and Charlie were butting heads about.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14556",
+      "ref": "C-14556",
+      "label": "Host Says TPUSA Is Recasting Charlie's Legacy as Pro-War in the Middle East",
+      "claim": "The host says Turning Point USA is trying to twist and reimagine Charlie Kirk's legacy as pro-war in the Middle East and the war in Iran.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10543",
+        "N-10539",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:32",
+      "investigative_direction": "Compare TPUSA statements and events since September 2025 on Iran and Israel with Kirk's recorded positions before his death.",
+      "transcript_snippet": "Turning Point USA is trying to twist and reimagine his legacy as pro-war in the Middle East, war in Iran, and BB is doing the most",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14557",
+      "ref": "C-14557",
+      "label": "Host Says the Egyptian Planes Revealed a Connection Between Israel and Utah",
+      "claim": "The host says that when she began probing the Egyptian planes narrative she was shown a clear connection between Israel and Utah.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253",
+        "N-10347",
+        "N-10074"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:32",
+      "investigative_direction": "Obtain the flight-tracking records for the Egyptian-registered aircraft and the host's spreadsheet to see which legs touch Israel and Provo.",
+      "transcript_snippet": "as I began prodding the narrative of the Egyptian planes, it was revealed to me that there clearly is a connection to Israel and Utah",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14558",
+      "ref": "C-14558",
+      "label": "Host Says There Are No Eyewitnesses From Inside Timpanogos Hospital on September 10",
+      "claim": "The host says it is increasingly strange that there are no eyewitnesses from inside the hospital regarding September 10, even though Turning Point staff went to the ER lobby and an ER normally has people in it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10573",
+        "N-11208"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:22",
+      "investigative_direction": "Seek accounts from Timpanogos ER patients, visitors and staff present on 2025-09-10 and the hospital's visitor and admission logs.",
+      "transcript_snippet": "increasingly strange to me that we have no eyewitnesses inside of the hospital regarding September 10th.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14559",
+      "ref": "C-14559",
+      "label": "Host Says Kash Patel Had the FBI Seize Hospital Footage on Arrival",
+      "claim": "The host says that when Kash Patel arrived, he had the FBI immediately seize the footage from inside the hospital.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10239",
+        "N-10202"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:38",
+      "investigative_direction": "Obtain the FBI evidence receipt or legal process for the hospital footage and Patel's travel record for 2025-09-10.",
+      "transcript_snippet": "when Kash Patel arrived, he had the FBI immediately seize the footage from inside the hospital.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14560",
+      "ref": "C-14560",
+      "label": "Host Says Elizabeth Lane Was on the Ground at Utah Valley Hospital and Sent a Colleague to Timpanogos",
+      "claim": "The host says journalist Elizabeth Lane was on the ground on September 10, went to Utah Valley hospital and sent a colleague to Timpanogos, and posted about it at length on X.",
+      "anchored_artifacts": [
+        "A-1925.1"
+      ],
+      "related_nodes": [
+        "N-11325",
+        "N-10573"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:05:38",
+      "investigative_direction": "Read Lane's X post and ask her which hospital staff and officers she observed and when.",
+      "transcript_snippet": "she was actually a journalist that was on the ground that day. She went to Utah Valley hospital, and she sent her colleague over to Timpanogos",
+      "mentions_person_refs": [
+        "N-3",
+        "N-6"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14561",
+      "ref": "C-14561",
+      "label": "Host Says Both Hospitals Were Locked Down",
+      "claim": "The host says Lane remarked on how odd it was that both Utah Valley and Timpanogos hospitals had been locked down, something the host says she had raised earlier.",
+      "anchored_artifacts": [
+        "A-1925.1"
+      ],
+      "related_nodes": [
+        "N-11325",
+        "N-10573"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:38",
+      "investigative_direction": "Obtain lockdown orders, hospital security logs and Orem and Provo police dispatch records for 2025-09-10.",
+      "transcript_snippet": "how odd it was that they had locked down both hospitals, something that I brought up to you, right? They locked down both hospitals.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-6"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14562",
+      "ref": "C-14562",
+      "label": "Host Says Elizabeth Lane Has Been Positing That Erika Kirk Is a Psychopath",
+      "claim": "The host says Elizabeth Lane has been positing that Erika Kirk is a psychopath.",
+      "anchored_artifacts": [
+        "A-1925.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:05:38",
+      "investigative_direction": "Locate Lane's X posts making this characterization and confirm her exact wording.",
+      "transcript_snippet": "Elizabeth Lane, that's the one who has been positing that Erika Kirk is a psychopath.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-6",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14563",
+      "ref": "C-14563",
+      "label": "Host Says the Public Reason for the Lockdown Was the Shooter Seeking Kirk at Hospitals, Never Clarified",
+      "claim": "The host says the excuse given to the public for the lockdowns was that the shooter was going from hospital to hospital looking for Charlie Kirk, and that it has never been clarified who exactly was being referred to.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10573",
+        "N-11199"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:41",
+      "investigative_direction": "Find the first public statement giving this reason (police, hospital or FBI) and the source of the hospital-to-hospital report.",
+      "transcript_snippet": "The excuse that was given to the public was because the shooter was going from hospital to hospital looking for Charlie Kirk.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14564",
+      "ref": "C-14564",
+      "label": "Host Says Police Moved to Detain Zachariah Karashy After Scanner Traffic About Hospitals",
+      "claim": "The host says police scanner traffic suggested the shooter might be going from hospital to hospital and that shortly afterward police moved to detain a young man named Zachariah (spelled Karashy in the transcript; the host later ties him to Ahmed Qureshi).",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10578",
+        "N-11142"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:41",
+      "investigative_direction": "Obtain the police scanner audio and CAD log for 2025-09-10 and the detention record naming the young man.",
+      "transcript_snippet": "What we do know is that shortly after came over the police scanner or might be going from hospital to hospital, they moved to detain a young man named Zachariah Karashy.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-416"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14565",
+      "ref": "C-14565",
+      "label": "Host Says Patel's Custody Tweet Came After Zachariah Was Detained and Ended the Manhunt Prematurely",
+      "claim": "The host says it was after Zachariah was detained that Kash Patel issued the tweet that effectively ended the manhunt prematurely.",
+      "anchored_artifacts": [
+        "A-1918.1"
+      ],
+      "related_nodes": [
+        "N-10202",
+        "N-10578"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:41",
+      "investigative_direction": "Compare the detention time of the young man with Patel's 4:21 p.m. post and any search-scaling decisions by Utah agencies.",
+      "transcript_snippet": "it was after Zachariah was detained that Kash Patel rather gloriously issued a tweet which effectively ended the manhunt prematurely.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-69",
+        "N-416"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14566",
+      "ref": "C-14566",
+      "label": "Host Calls Zachariah Karashy Decoy Boy Number Two After George Zin",
+      "claim": "The host says Zachariah should be thought of as 'decoy boy number two,' with George Zin as the first decoy who immediately said he did it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10032",
+        "N-10578"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:41",
+      "investigative_direction": "Obtain booking and release records for both men and establish whether any evidence links their detentions to one another.",
+      "transcript_snippet": "we should start to think of Zachariah Karashy as decoy boy number two, okay? First, it was George Zin.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-416",
+        "N-42"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14567",
+      "ref": "C-14567",
+      "label": "Host Says Zin Later Told People at Utah Valley Hospital He Was Paid",
+      "claim": "The host says George Zin later told people at Utah Valley, where he was being treated, that he was paid to claim responsibility.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10223",
+        "N-10354"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:07:33",
+      "investigative_direction": "Identify hospital staff or patients who heard Zin and obtain any incident or police report of the statement.",
+      "transcript_snippet": "He would later tell people at Utah Valley, where he was being treated, that he was paid to do that.",
+      "supports_claim_refs": [
+        "C-1402"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-42"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14568",
+      "ref": "C-14568",
+      "label": "Host Says Responding Officers Felt They Were Intentionally Sent All Around",
+      "claim": "The host says responding police officers said they felt they were intentionally being sent all around and were sent off the trail of the true assassin.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10032"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:07:33",
+      "investigative_direction": "Identify the officers quoted, their dispatch assignments and radio traffic on 2025-09-10.",
+      "transcript_snippet": "the responding police officers, who said they felt like they were intentionally being sent all around, were sent essentially off of the trail of the true assassin.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14569",
+      "ref": "C-14569",
+      "label": "Host Says Patel's Mistake Gave the True Assassin or Assassins an Hour and a Half Buffer",
+      "claim": "The host says Kash Patel's custody announcement stayed up for about an hour and a half, which she says gave the true assassin or assassins a buffer to get away because police wrapped up their search.",
+      "anchored_artifacts": [
+        "A-1918.1",
+        "A-1918.2"
+      ],
+      "related_nodes": [
+        "N-10202",
+        "N-10578"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:11",
+      "investigative_direction": "Obtain search-operation logs showing when roadblocks and patrols were stood down after the 4:21 p.m. post and re-established after 5:59 p.m.",
+      "transcript_snippet": "Kash Patel's mistake provided the true assassin or the assassins an hour and a half buffer to get away.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14570",
+      "ref": "C-14570",
+      "label": "Host Says Mitch Snow Saw O5s and O6s Leaving a Meeting at Fort Huachuca",
+      "claim": "The host recalls that Mitch Snow said he saw a meeting conclude with a bunch of O5s and O6s coming out of Fort Huachuca.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10370",
+        "N-10326",
+        "N-10367"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:45",
+      "investigative_direction": "Re-interview Mitch Snow on the meeting date, location and participants; request Fort Huachuca visitor and meeting records for September 8 to 9, 2025.",
+      "transcript_snippet": "Mitch Snow, he said he saw this meeting conclude with a bunch of O5s and O6s coming out of Fort Huachuca.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-366",
+        "N-417"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14571",
+      "ref": "C-14571",
+      "label": "Host Reads Built Incorporated's Description of Its XR Instruction App",
+      "claim": "The host reads that the award-winning Built app provides 3D interactive and XR immersive intelligent instructions that are voice and text guided, and says Built is based in Dallas-Fort Worth.",
+      "anchored_artifacts": [
+        "A-3325.1"
+      ],
+      "related_nodes": [
+        "N-10577"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:27",
+      "investigative_direction": "Capture the Built Incorporated website or app-store page and Texas registration records to confirm the product description and location.",
+      "transcript_snippet": "the award-winning Built app provides 3D interactive and XR immersive intelligent instructions that are voice and text guided.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-417"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14572",
+      "ref": "C-14572",
+      "label": "Host Says Planes From Fort Huachuca Fuel Suspicion of a Texas Play",
+      "claim": "The host says she and others suspect a Texas component to the assassination, given the planes traveling on September 10 and the day before from Fort Huachuca.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253",
+        "N-10370",
+        "N-10577"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:27",
+      "investigative_direction": "Pull flight-tracking records for the September 9 and 10 aircraft from Fort Huachuca and identify their Texas origins or destinations.",
+      "transcript_snippet": "given the planes traveling that day, also the planes the day before from Fort Huachuca, that there may be a Texas play in Charlie Kirk's assassination",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14573",
+      "ref": "C-14573",
+      "label": "Host Says the CIA Ran the JFK Operation Out of Texas",
+      "claim": "The host says the CIA ran the JFK assassination operation out of Texas.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10082"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:10:27",
+      "investigative_direction": "Cite the historical record (Warren Commission, Church Committee, HSCA) on any CIA operational role in Dallas; the host offers no source.",
+      "transcript_snippet": "just like there was a Texas play in JFK's assassination, I might add. CIA ran that operation out of Texas.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-715"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14574",
+      "ref": "C-14574",
+      "label": "Host Says Built Receives Contracts From the Department of Defense",
+      "claim": "The host says Built Incorporated receives funding from the Department of Defense through contracts.",
+      "anchored_artifacts": [
+        "A-1920.1"
+      ],
+      "related_nodes": [
+        "N-10577",
+        "N-10888"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:12:44",
+      "investigative_direction": "Query USAspending.gov by Built's UEI for all DoD awards and agency of record.",
+      "transcript_snippet": "you should know that this company receives funding from the Department of Defense. Okay, contracts from the Department of Defense.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-417"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14575",
+      "ref": "C-14575",
+      "label": "Coleman Says Built's First Contract Was $50,000 in 2019 With a Three-Month Period",
+      "claim": "Baron Coleman says, from USAspending data, that Built's first contract was a $50,000 award in 2019 with a three-month period of performance.",
+      "anchored_artifacts": [
+        "A-1920.2"
+      ],
+      "related_nodes": [
+        "N-10577"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:43",
+      "investigative_direction": "Pull the 2019 award record on USAspending.gov and confirm amount, agency and period of performance.",
+      "transcript_snippet": "2019, they just get a little $50,000 contract. Got a three-month pop. Period of performance is three months, $50,000",
+      "mentions_person_refs": [
+        "N-3",
+        "N-334"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14576",
+      "ref": "C-14576",
+      "label": "Coleman Says Built Got a $3.1 Million Contract in 2020",
+      "claim": "Baron Coleman says Built received a large $3.1 million contract in 2020, followed by several smaller awards of 185,000 and 49,000 dollars.",
+      "anchored_artifacts": [
+        "A-1920.2"
+      ],
+      "related_nodes": [
+        "N-10577"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:43",
+      "investigative_direction": "Pull the 2020 award on USAspending.gov and list all Built awards 2019 to 2025 with amounts and dates.",
+      "transcript_snippet": "but we get this big $3.1 million contract way back in 2020.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-334"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14577",
+      "ref": "C-14577",
+      "label": "Coleman Says the 2025 Contracts Came After Years Without a Contract of Any Value",
+      "claim": "Baron Coleman says the roughly $7.5 million in 2025 contracts went to a company that had not had much more than one single contract of any value in the previous four or five years.",
+      "anchored_artifacts": [
+        "A-1920.2"
+      ],
+      "related_nodes": [
+        "N-10577"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:35",
+      "investigative_direction": "Compute Built's annual federal obligations 2019 to 2025 from USAspending and compare with the host's characterization.",
+      "transcript_snippet": "So when were these massive $7.5 million worth of contracts on a company who had not had much more than one single contract of any value in the previous four or five years?",
+      "mentions_person_refs": [
+        "N-3",
+        "N-334"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14578",
+      "ref": "C-14578",
+      "label": "Coleman Says the UVU Event Was Probably Being Planned Around June",
+      "claim": "Baron Coleman says he and the host previously said the Utah Valley University event was probably beginning to be planned around June.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-10577"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:35",
+      "investigative_direction": "Obtain UVU and TPUSA records of when the event was first scheduled and the date of the first booking or contract.",
+      "transcript_snippet": "we said the Utah Valley University event was probably beginning to be planned around June.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-334"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14579",
+      "ref": "C-14579",
+      "label": "Coleman Says the Planning of Charlie's Removal Began Around March or April and Heated Up in June and July",
+      "claim": "Baron Coleman says their investigation estimated that the 'exiting' of Charlie Kirk began around March or April and really heated up in June and July.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10577",
+        "N-10048"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:35",
+      "investigative_direction": "Ask Coleman which records support the March to April and June to July estimates.",
+      "transcript_snippet": "The exiting of Charlie Kirk from this mortal plane, we believe we estimated, based on our investigation, started around March or April and really heated up in June and July.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-334",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14580",
+      "ref": "C-14580",
+      "label": "Host Says Nathan Henderson Is Married to Gina Romney",
+      "claim": "The host says Built co-founder Nathan Henderson is married to a woman named Gina Romney.",
+      "anchored_artifacts": [
+        "A-3326.1"
+      ],
+      "related_nodes": [
+        "N-10574",
+        "N-10577"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:55",
+      "investigative_direction": "Check marriage records and corporate filings; establish whether Gina Romney Henderson is related to Mitt Romney's family.",
+      "transcript_snippet": "And that Nathan Henderson, the co-founder, is married to a woman named Gina Romney.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-418",
+        "N-419"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14581",
+      "ref": "C-14581",
+      "label": "Host Says Connor Henderson and Zachariah Qureshi Attended the Same School at the Same Time",
+      "claim": "The host says the Hendersons' son Connor attended the same school (BYU) at the same time as Zachariah Qureshi and that they graduated within a year of each other.",
+      "anchored_artifacts": [
+        "A-3326.1"
+      ],
+      "related_nodes": [
+        "N-10092",
+        "N-10574"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:17:51",
+      "investigative_direction": "Confirm enrollment and graduation years through BYU records or public profiles.",
+      "transcript_snippet": "Connor went to the same school at the same time as Zacharias Qureshi.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-420",
+        "N-416",
+        "N-418",
+        "N-419"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14582",
+      "ref": "C-14582",
+      "label": "Host Says the Henderson and Qureshi Sons Both Interned at Built",
+      "claim": "The host says Connor Henderson and Zachariah Qureshi both interned at the Built company.",
+      "anchored_artifacts": [
+        "A-3326.1"
+      ],
+      "related_nodes": [
+        "N-10577"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:17:51",
+      "investigative_direction": "Check LinkedIn profiles and Built staff pages for internship entries.",
+      "transcript_snippet": "And their sons both interned at the Built company.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-420",
+        "N-416"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14583",
+      "ref": "C-14583",
+      "label": "Host Says This Is the Third Time the Romney Name Has Come Up in the Investigation",
+      "claim": "The host says Gina Romney's name is the third time in this investigation that the Romney name has come up, and that she had not discussed it earlier because the Romney family is big in Utah.",
+      "anchored_artifacts": [
+        "A-3326.1"
+      ],
+      "related_nodes": [
+        "N-10574"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:19:43",
+      "investigative_direction": "Identify the earlier two Romney-name occurrences in prior episodes and check whether the same family is meant.",
+      "transcript_snippet": "that is the third time in this investigation that the Romney name has come up.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-419",
+        "N-28"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14584",
+      "ref": "C-14584",
+      "label": "Host Says Viewers and Baron Coleman Noted That Tyler Robinson Looks Like Connor Henderson",
+      "claim": "The host says viewers in chat, and Baron Coleman, noted that Tyler Robinson looks a lot like Connor Henderson, and that she is only showing pictures and leaving it at the facts.",
+      "anchored_artifacts": [
+        "A-3327.1"
+      ],
+      "related_nodes": [
+        "N-10574"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:22:43",
+      "investigative_direction": "A resemblance in photographs is not evidence of a link; no record connects the two men beyond the host's school and Timpanogos claims.",
+      "transcript_snippet": "I see a lot of you guys in the chat noting that Tyler Robinson looks a lot like Connor. That was something that Baron pointed out",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40",
+        "N-420",
+        "N-334"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14585",
+      "ref": "C-14585",
+      "label": "Host Says the Romneys Are an Exceedingly Powerful Family in Utah With Generational Power",
+      "claim": "The host says the Romneys are an exceedingly powerful family in Utah with generational power and wealth.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10574"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:22:43",
+      "investigative_direction": "Document the family's public holdings, offices and philanthropy in Utah from public records.",
+      "transcript_snippet": "a fact is that the Romneys are an exceedingly powerful family in Utah, okay? I am talking generational power.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-28"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14586",
+      "ref": "C-14586",
+      "label": "Host Says the Romneys Are Also Powerful in Mexico Through a Mormon Colony",
+      "claim": "The host says the Romney family is also extraordinarily powerful in Mexico because a Mormon colony moved down there.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11398"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:22:43",
+      "investigative_direction": "Cite the historical record of the Mormon colonies in Chihuahua and the Romney family's current holdings there, if any.",
+      "transcript_snippet": "Uh and they're also extraordinarily pow- powerful in Mexico as well cuz there was a a Mormon colony that moved down there.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-28"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14587",
+      "ref": "C-14587",
+      "label": "Host Says the Qureshis, the Hendersons and the Planes All Came Out of Texas",
+      "claim": "The host says the Karashi (Qureshi) and Henderson families came out of Texas and that the planes did too.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253",
+        "N-10577"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:22:43",
+      "investigative_direction": "Confirm the Texas residence history of both families and the Texas legs of the flights the host cites.",
+      "transcript_snippet": "And so, we have the Karashis, the Hendersons that are coming out of Texas, our planes are coming out of Texas.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-417",
+        "N-418"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14588",
+      "ref": "C-14588",
+      "label": "Host Says Zenger, Karashi, Henderson and Gina Romney All Attended BYU",
+      "claim": "The host says Andrew Zenger, like Karashi (Qureshi), Henderson and Gina Romney, attended BYU.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10092",
+        "N-10574"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:23:46",
+      "investigative_direction": "Verify each person's BYU attendance from alumni or public profile records.",
+      "transcript_snippet": "Now, of course, Andrew Zenger, just like Karashi and Henderson and our Gina Romney, he attended BYU.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-137",
+        "N-417",
+        "N-418",
+        "N-419"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14589",
+      "ref": "C-14589",
+      "label": "Host Says a Source Told Her the Jerusalem Center Is Where Elite Mormon Youth Are Introduced to Powerful Circles",
+      "claim": "The host says a person told her the BYU Jerusalem Center is where the elite of Mormon culture are introduced to one another and to Israeli, Hollywood and political circles (the transcript renders 'Knesset' as 'Knesset').",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10575",
+        "N-10092"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:24:39",
+      "investigative_direction": "Single unnamed source; obtain corroboration from alumni or program documents.",
+      "transcript_snippet": "this person told me is where the elite of the Mormon culture, the the cream of the pie, they get introduced to one another.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14590",
+      "ref": "C-14590",
+      "label": "Host Says Zenger Was Good Friends With Jeffrey Knuckles in Jerusalem",
+      "claim": "The host says Andrew Zenger was good friends with Jeffrey Knuckles, who was also in Jerusalem and later served as an advisor to the Romney campaign.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10574",
+        "N-10575"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:25:43",
+      "investigative_direction": "Find public posts or photos tying Zenger and Knuckles together and verify Knuckles's campaign role.",
+      "transcript_snippet": "He was also good friends with a guy named Jeffrey Knuckles, who was out there as well, who later served as an advisor to the Romney campaign.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-137",
+        "N-421"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14591",
+      "ref": "C-14591",
+      "label": "Host Says Zenger's Roommates Were Recruited and One Did CIA Contract Work for a CIA Department of Education",
+      "claim": "The host says Andrew Zenger's roommates were recruited and that one roommate went on to do contract work for the CIA, which she describes as the CIA's Department of Education.",
+      "anchored_artifacts": [
+        "A-3328.1"
+      ],
+      "related_nodes": [
+        "N-10580",
+        "N-10082"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:26:30",
+      "investigative_direction": "Single-source assertion; request the source's documentation and check federal contract databases for the roommate.",
+      "transcript_snippet": "I am telling you that his roommates were. He's got a roommate who did a contract work, went on to do contract work for the CIA as well.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-137"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14592",
+      "ref": "C-14592",
+      "label": "Host Says She Put Out an APB for Robbie Hild Because He Stood Alongside Shane Lyman",
+      "claim": "The host says Robbie Hild was one of the first people she put an APB out for because he was bizarrely standing alongside Shane Lyman.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10153",
+        "N-10144"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:39",
+      "investigative_direction": "Locate the original episode and the photo of Hild with the Lyman relative; confirm the person's identity (the host later spells the name Hill and Hild).",
+      "transcript_snippet": "one of the first people that I put an APB out for because he was bizarrely standing alongside Shane Lyman.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-952",
+        "N-129",
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14593",
+      "ref": "C-14593",
+      "label": "Host Says Phil Lyman's Family Owned the Block and the Walkers on Camera Were Tied to Caldera Engineering",
+      "claim": "The host says the Lyman family owned the block and that the people walking on camera were all tied to Caldera Engineering.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10065",
+        "N-10184",
+        "N-10144"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:39",
+      "investigative_direction": "Pull Utah County property records for the block and Caldera Engineering's ownership and employee ties.",
+      "transcript_snippet": "Remember, we learned like Phil Lyman's whole family owned that block. You know, the cameras of people walking, they were all tied to Caldera Engineering walking down the block.",
+      "supports_claim_refs": [
+        "C-1308"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14594",
+      "ref": "C-14594",
+      "label": "Host Says the Figure on the Footage Looks More Like Lance Than Tyler Robinson",
+      "claim": "The host says she does not think the person on the footage is Tyler Robinson and that it looks to her much more like Lance.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10168"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:39",
+      "investigative_direction": "Identify which footage is meant and compare the figure's build with photos of Lance Twiggs and Tyler Robinson.",
+      "transcript_snippet": "I don't even think that's Tyler Robinson. Looks to me much more like Lance.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40",
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14595",
+      "ref": "C-14595",
+      "label": "Host Says Phil Lyman Calls the Relative a Cousin",
+      "claim": "The host says the Lyman relative is a nephew and or cousin, and that Phil Lyman says it is a cousin (while the relative says nephew).",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10144"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:27:39",
+      "investigative_direction": "Compare the relative's own posts with Phil Lyman's statements on the relationship.",
+      "transcript_snippet": "Phil Lyman's nephew and or cousin, Phil Lyman says it's a cousin.",
+      "supports_claim_refs": [
+        "C-9267"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-61",
+        "N-129"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14596",
+      "ref": "C-14596",
+      "label": "Host Says Hild and Friends Posted Instagram Content Retracing the Killer's Steps and a Footprint",
+      "claim": "The host says the Lyman relative and some friends traced the steps of the killer on Instagram, showing a footprint and saying it was on their property.",
+      "anchored_artifacts": [
+        "A-1924.1"
+      ],
+      "related_nodes": [
+        "N-10153",
+        "N-10144"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:49",
+      "investigative_direction": "Archive the Instagram posts with timestamps and compare against the official evidence log for the footprint.",
+      "transcript_snippet": "he and some friends uniquely traced the steps of the killer and showed people, \"This is the footprint.",
+      "supports_claim_refs": [
+        "C-9259",
+        "C-1312"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-952",
+        "N-129"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14597",
+      "ref": "C-14597",
+      "label": "Host Says the Footprint Is Mentioned in the Document Released the Day Before",
+      "claim": "The host says the footprint is mentioned in the document released yesterday.",
+      "anchored_artifacts": [
+        "A-3329.1"
+      ],
+      "related_nodes": [
+        "N-10337",
+        "N-10110"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:49",
+      "investigative_direction": "Identify the court filing or probable-cause document released on 2026-03-31 and check what it says about a footprint.",
+      "transcript_snippet": "That footprint is mentioned in the document yesterday. The footprint.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14598",
+      "ref": "C-14598",
+      "label": "Host Asks Viewers for the Hild-Romney Family Link at the More Tips Address",
+      "claim": "The host asks viewers who know how the Hild family is related to the Romney family to email the tips address, saying she thinks she accidentally deleted her own email on the topic.",
+      "anchored_artifacts": [
+        "A-3330.1"
+      ],
+      "related_nodes": [
+        "N-10579",
+        "N-10153"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:30",
+      "investigative_direction": "Collect viewer tips on Hild-Romney marriage records or genealogy and verify with public records.",
+      "transcript_snippet": "please email us at more tips at candaceowens. com.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-952",
+        "N-28"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14599",
+      "ref": "C-14599",
+      "label": "Host Says the Investigation Into Robbie Hild Is Open Again",
+      "claim": "The host says that with the BYU and lacrosse details, the investigation into Robbie Hild is now opened again.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10153",
+        "N-10579"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:30:18",
+      "investigative_direction": "Track subsequent episodes for new findings on Hild's identity and family ties.",
+      "transcript_snippet": "but the investigation into Robbie Hild is now opened again.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-952"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14600",
+      "ref": "C-14600",
+      "label": "Host Says the Sears Company Is Also Involved in How the CIA Approaches These People",
+      "claim": "The host says the Sears company is also involved in how the CIA is paying and approaching these people, and that someone has come forward with proof.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10082"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:30:18",
+      "investigative_direction": "Single-source assertion with no document shown; ask the host for the proof she says exists. The company name may be mis-transcribed.",
+      "transcript_snippet": "You're not going to believe me, but the Sears company is also involved.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14601",
+      "ref": "C-14601",
+      "label": "Host Says Many Romney Campaign People Were Stationed in Jerusalem in 2011",
+      "claim": "The host says that around 2011, when Zenger was there, many Romney campaign advisors and others were stationed in Jerusalem.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10574",
+        "N-10575"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:31:16",
+      "investigative_direction": "Obtain Romney 2012 campaign staff lists and travel or bios placing named staff in Jerusalem in 2011.",
+      "transcript_snippet": "But it's interesting that so many Romney campaign people during the time that his campaign was going on, this is like 2011 when Andrew Zenger is there and you've got advisors and all these people are stationed in Jerusalem.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-137",
+        "N-28"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14602",
+      "ref": "C-14602",
+      "label": "Washington Post Says Comparative Bullet Lead Analysis Was First Used After JFK's Assassination",
+      "claim": "The host reads a 2007 Washington Post article stating comparative bullet lead analysis was first used after President Kennedy's assassination in 1963.",
+      "anchored_artifacts": [
+        "A-1922.1"
+      ],
+      "related_nodes": [
+        "N-10569"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:26",
+      "investigative_direction": "Retrieve the 2007 Washington Post article and the 2004 NAS report to confirm the history of the technique.",
+      "transcript_snippet": "comparative bullet lead analysis was first used after President John F. Kennedy's assassination in 1963.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-715"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14603",
+      "ref": "C-14603",
+      "label": "Washington Post Reports NAS Found FBI Jury Testimony on Bullet Lead Overstated and Misleading",
+      "claim": "The host reads that the National Academy of Sciences said decades of FBI statements to jurors linking a bullet to a suspect's gun or cartridge box were so overstated that such testimony should be considered misleading under the federal rules of evidence.",
+      "anchored_artifacts": [
+        "A-1922.1"
+      ],
+      "related_nodes": [
+        "N-10569",
+        "N-10014"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:26",
+      "investigative_direction": "Read the 2004 NAS report 'Forensic Analysis: Weighing Bullet Lead Evidence' for the exact conclusion.",
+      "transcript_snippet": "decades of FBI statements to jurors linking a particular bullet to those found in a suspect's gun or cartridge box were so overstated that such testimony should be considered misleading under the federal rules of evidence.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14604",
+      "ref": "C-14604",
+      "label": "Host Says the ATF Found the Bullet Comparison Inconclusive",
+      "claim": "The host says the ATF says its bullet comparison is inconclusive, which she calls the best they could do.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10572",
+        "N-10975",
+        "N-10620"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:30",
+      "investigative_direction": "Obtain the ATF laboratory report or court filing stating the bullet-to-rifle finding.",
+      "transcript_snippet": "The ATF says it's inconclusive which is the best they could do",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14605",
+      "ref": "C-14605",
+      "label": "Host Says We All Know Who Killed JFK and It Was Not Lee Harvey Oswald",
+      "claim": "The host says everyone knows who killed JFK and that it was not Lee Harvey Oswald.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10082"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:33:30",
+      "investigative_direction": "Assertion without a named alternative; refer to the Warren Commission and HSCA findings.",
+      "transcript_snippet": "cuz we all know who killed JFK. And it wasn't Lee Harvey Oswald.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-715"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14606",
+      "ref": "C-14606",
+      "label": "Host Says the Authorities Know Tyler Robinson Did Not Do It",
+      "claim": "The host says that 'they' know Tyler Robinson (spelled Taylor in the transcript) did not do it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10110",
+        "N-10337"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:34:18",
+      "investigative_direction": "Identify the 'they' and the evidence the host believes shows knowledge of innocence; compare with the prosecution's evidence disclosures.",
+      "transcript_snippet": "Um they know Tyler Robinson didn't do it.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14607",
+      "ref": "C-14607",
+      "label": "Host Says the Romney Family Is Married Into the Robinson Family but Not Necessarily a Tie",
+      "claim": "The host says Robinson is also a last name that the Romney family is married into, which does not necessarily mean there is a tie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11398",
+        "N-10574"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:34:18",
+      "investigative_direction": "Genealogical records would show whether any Romney-Robinson marriage exists and whether it involves Tyler Robinson's line.",
+      "transcript_snippet": "is a last name that the Romney family is married into. Doesn't necessarily mean there is a tie.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-28",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14608",
+      "ref": "C-14608",
+      "label": "Host Says the Hild Family Is Married Into the Robinsons",
+      "claim": "The host says the Hild family is married into the Robinsons as well and that she needs to trace the family connections.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11398",
+        "N-10153"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:34:18",
+      "investigative_direction": "Genealogical and marriage records for the Hild and Robinson families.",
+      "transcript_snippet": "Certainly, the Hild family is married into the Robinsons as well",
+      "mentions_person_refs": [
+        "N-3",
+        "N-952",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14609",
+      "ref": "C-14609",
+      "label": "Host Says the Farnsworth and Romney Families Were Among Those Who Went to Chihuahua",
+      "claim": "The host says the Farnsworth family (the camera-takedown family) and the Romney family were among the families in the Mormon group that went to Chihuahua, Mexico after polygamy was outlawed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11398",
+        "N-10383"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:34:18",
+      "investigative_direction": "Historical records of the Mormon colonies in Chihuahua (for example Colonia Juarez) and genealogy for both families.",
+      "transcript_snippet": "I know the Farnsworth family and the Romney family were part of the families that went down there.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-265",
+        "N-28"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14610",
+      "ref": "C-14610",
+      "label": "Host Says Charlie Told Trump Not to Go to War With Iran",
+      "claim": "The host says Charlie Kirk put his foot down and told Trump 'Do not go to war with Iran.'",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10539",
+        "N-10674"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:18",
+      "investigative_direction": "Find the source of Kirk's statement to Trump (Kirk's own words, aides, or Trump's account) and its date.",
+      "transcript_snippet": "when Charlie uh put his foot down and said to Trump, \"Do not go to war with Iran.\"",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14611",
+      "ref": "C-14611",
+      "label": "Host Says Charlie Stepped on the Toes of People Who Trade on War and Do Real Estate Deals Before Wars",
+      "claim": "The host says Charlie Kirk stepped on the toes of people who trade on war and who do real estate deals before wars even start.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11128",
+        "N-10539"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:35:18",
+      "investigative_direction": "The host names no persons or deals; identify which deals she means and their timing.",
+      "transcript_snippet": "Charlie stepped on people's toes who trade on war, who do real estate deals before the wars even start",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14612",
+      "ref": "C-14612",
+      "label": "Host Says Egyptian Planes Repeatedly Carried Someone From Israel to Provo During Israeli Conflicts",
+      "claim": "The host says that every time there was a conflict in Israel, the Egyptian planes were carrying someone from Israel to Provo.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10347",
+        "N-10253",
+        "N-10074"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:18",
+      "investigative_direction": "Release the flight-by-flight table and cross-check each Israel-to-Provo leg with dated conflict events.",
+      "transcript_snippet": "every time there was like a kerfuffle in Israel, little war, Israel people are are bombing Israel, it suddenly these Egyptian planes were carrying someone from Israel to Provo.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14613",
+      "ref": "C-14613",
+      "label": "Host Says Her Sense Was That the Passenger Is Netanyahu Hiding in Provo but She Is Not Saying It Is",
+      "claim": "The host says her sense was that the person on the Egyptian planes was Benjamin Netanyahu hiding in Provo, while saying she is not claiming it is him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10347",
+        "N-10074"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:36:18",
+      "investigative_direction": "Check Netanyahu's documented whereabouts on the dates of the relevant flights.",
+      "transcript_snippet": "And my sense was this is BB. This is BB hiding in Provo.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14614",
+      "ref": "C-14614",
+      "label": "Host Says Her Egyptian Plane Spreadsheet Shows Flights in Sync With Bombing Campaigns Toward Israel",
+      "claim": "The host says her Egyptian plane spreadsheet is locking in and shows a lot of evidence that the planes are in sync with the pattern of bombing campaigns toward Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10347",
+        "N-10253"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:36:18",
+      "investigative_direction": "Publish the spreadsheet and test the alignment statistically against a dated list of attacks on Israel.",
+      "transcript_snippet": "there's a lot of evidence that these planes are in sync with the pattern of when there's bombing campaigns happening toward Israel.",
+      "supports_claim_refs": [
+        "C-14612"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14615",
+      "ref": "C-14615",
+      "label": "Host Says Provo Has a Whole Underground City",
+      "claim": "The host says Provo has a whole underground city and promises more on that later.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10074"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:36:18",
+      "investigative_direction": "Ask the host for the source; check public records on underground facilities near Provo.",
+      "transcript_snippet": "They've got a whole underground city in Provo. More on that later.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14616",
+      "ref": "C-14616",
+      "label": "Host Says Tyler Robinson's Defense Is Asking How the Prosecution Got Its Technology and Wants the Chain of Custody",
+      "claim": "The host says Tyler Robinson's defense is asking how the prosecution obtained its technology, and says the defense wants to see receipts and the chain of custody.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10581",
+        "N-10110"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:41:09",
+      "investigative_direction": "Read the defense's discovery motions for requests about forensic technology and chain of custody.",
+      "transcript_snippet": "We can do exactly what Tyler Robinson's defense is doing, saying, \"How did you uh get this technology?\"",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14617",
+      "ref": "C-14617",
+      "label": "Commenter Says Terrell Farnsworth Took a Chair From the Crime Scene to Mess With the Camera",
+      "claim": "The host reads a comment from Mark Wilding saying Farnsworth took a chair from the crime scene to stand on to mess around with the camera, moments after a man was murdered there.",
+      "anchored_artifacts": [
+        "A-3331.1"
+      ],
+      "related_nodes": [
+        "N-10346",
+        "N-10076"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:42:19",
+      "investigative_direction": "Compare the video of the camera removal with Farnsworth's account and the crime-scene log.",
+      "transcript_snippet": "the guy taking a chair from a crime scene to stand on to mess around with the camera, also part of a crime scene that a man was murdered in moments before",
+      "supports_claim_refs": [
+        "C-1205"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-265"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14618",
+      "ref": "C-14618",
+      "label": "Host Says Someone Spoke to Erika Days After Charlie Died About the Behind-the-Head Footage",
+      "claim": "The host says there was a conversation with Erika about the footage from behind Charlie's head a couple of days after Charlie died (the transcript reads 'I spoke to Erika'; context suggests she is describing Farnsworth), and questions those priorities.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10535",
+        "N-10346"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:05",
+      "investigative_direction": "Clarify who spoke to Erika, when, and what was said (Farnsworth's account, Erika's account, text or call logs).",
+      "transcript_snippet": "So, I I spoke to Erika. Why'd you speak to Erika about like the behind of his head footage? It's weird. It's like a couple days after Charlie died.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-265"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14619",
+      "ref": "C-14619",
+      "label": "Host Says Terrell Farnsworth Was All Crazy on the Phone",
+      "claim": "The host says Terrell Farnsworth was all crazy on the phone.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10346"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:05",
+      "investigative_direction": "Identify the phone call or video the host means, its date and who recorded it.",
+      "transcript_snippet": "And then Terrell was all crazy on the phone.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-265"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14620",
+      "ref": "C-14620",
+      "label": "Host Says Her Producer Notes the RNC Altered Convention Rules to Bind Delegates in 2012",
+      "claim": "The host says her producer has a note that the RNC altered the convention rules to bind delegates in future elections to vote for the candidate who wins their state's primary or caucus.",
+      "anchored_artifacts": [
+        "A-1926.2"
+      ],
+      "related_nodes": [
+        "N-10007",
+        "N-11399"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:45:16",
+      "investigative_direction": "Read the RNC 2012 Rules (Rule 16 and the Rules Committee actions) and contemporaneous reporting.",
+      "transcript_snippet": "my producer has a note that the RNC altered the convention rules to bind delegates in future elections to vote for the candidate who wins their state's primary caucus or caucus.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-718",
+        "N-28"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14621",
+      "ref": "C-14621",
+      "label": "Host Says the RNC Refused to Recognize Ron Paul's Delegates From Maine",
+      "claim": "The host says the RNC also refused to recognize Ron Paul's delegates from Maine at the 2012 convention.",
+      "anchored_artifacts": [
+        "A-1926.2"
+      ],
+      "related_nodes": [
+        "N-10007",
+        "N-11399"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:45:16",
+      "investigative_direction": "Check 2012 convention credentials rulings on the Maine delegation.",
+      "transcript_snippet": "The RNC also refused to recognize Paul's delegates from Maine.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-718"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14622",
+      "ref": "C-14622",
+      "label": "Host Says LDS Community Members Describe the Romney Family as Powerful, Disliked and Considered Corrupt",
+      "claim": "The host says people in the LDS community describe the Romney family as very powerful, not well liked and considered remarkably corrupt by people familiar with them, while she says she is not saying they are corrupt.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10574"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:46:09",
+      "investigative_direction": "Anonymous reputational hearsay; no document is cited. Treat as unverified.",
+      "transcript_snippet": "They're considered remarkably corrupt according to people familiar with them.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-28"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14623",
+      "ref": "C-14623",
+      "label": "Host Says the Manson Narrative Was the Opposite of What Happened With a CIA Apparatus Behind It",
+      "claim": "Responding to a comment about reading Chaos, the host says the official Manson murders narrative did not happen that way and that behind it is a CIA apparatus.",
+      "anchored_artifacts": [
+        "A-3332.1"
+      ],
+      "related_nodes": [
+        "N-10082"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:48:01",
+      "investigative_direction": "Refer to the sources for Chaos (Tom O'Neill) and the criminal record for the Manson case.",
+      "transcript_snippet": "With the Manson murders, this is what the narrative was. Then you're like, \"Wait, but everything did not happen that way. It's like the opposite.\"",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14624",
+      "ref": "C-14624",
+      "label": "Host Says the Goal Was to Socially Engineer Society Toward Support for Israel",
+      "claim": "The host says that, similarly in this case, the goal was to socially engineer society, ironically, toward support for Israel.",
+      "anchored_artifacts": [
+        "A-3332.1"
+      ],
+      "related_nodes": [
+        "N-10082",
+        "N-10543"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:48:01",
+      "investigative_direction": "Define the 'they' and the operation alleged; identify any documents about narrative management after September 10.",
+      "transcript_snippet": "What was the goal? To socially engineer us remarkably and ironically toward support for Israel.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14625",
+      "ref": "C-14625",
+      "label": "Host Says the Public Narrative Held That Charlie's Last Words Were Shabbat Shalom and I Love Israel",
+      "claim": "The host recounts that the public narrative was that Charlie's very last breath was 'Shabbat Shalom. I love Israel' and that he had just written a letter about how much he loved Israel, which she says made her think something was wrong.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10543",
+        "N-10456"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:48:01",
+      "investigative_direction": "Trace who first reported the 'Shabbat Shalom' last words and compare with witnesses' accounts.",
+      "transcript_snippet": "He died. His very last breath, \"Shabbat Shalom. I love Israel.\"",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14626",
+      "ref": "C-14626",
+      "label": "Host Says Charlie Wrote That He Had No Choice but to Abandon the Pro-Israel Cause",
+      "claim": "The host quotes Charlie Kirk as saying 'You've left me no choice but to abandon the pro-Israel cause.'",
+      "anchored_artifacts": [
+        "A-3333.1"
+      ],
+      "related_nodes": [
+        "N-10106",
+        "N-10543"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:11",
+      "investigative_direction": "Obtain the full message and its date and recipients from the original chat.",
+      "transcript_snippet": "You've left me no choice but to abandon the pro-Israel cause.",
+      "supports_claim_refs": [
+        "C-9309",
+        "C-9356",
+        "C-9428"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14627",
+      "ref": "C-14627",
+      "label": "Host Says TPUSA Attacked Joe Kent Instead of Disclosing That Charlie Was Abandoning the Cause",
+      "claim": "The host says it would have been nice if TPUSA (Andrew and Erika) had come out with that information themselves rather than attacking Joe Kent.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10551",
+        "N-10355"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:11",
+      "investigative_direction": "Collect TPUSA statements about Joe Kent and the timing relative to Kent's resignation.",
+      "transcript_snippet": "Would have been nice if uh rather than attacking Joe Kent, they um themselves came out with that information",
+      "mentions_person_refs": [
+        "N-3",
+        "N-213",
+        "N-14",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14628",
+      "ref": "C-14628",
+      "label": "Host Says Charlie Was Under Immense Pressure With Money Pulled and Financial Threats and Felt Morally Blackmailed",
+      "claim": "The host says that in the end Charlie Kirk was under immense pressure: people were pulling money from him, threatening him financially, he felt morally blackmailed, and they were telling him who he could speak to and who his friends could be.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10106",
+        "N-10446"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:11",
+      "investigative_direction": "Identify the donors and the messages or witnesses supporting each element, especially any record of conditions on who he could speak to.",
+      "transcript_snippet": "because they were pulling money from him and they were threatening him, you know, financially, and he felt morally blackmailed by them and they were telling him who he could speak to and who his friends could be.",
+      "supports_claim_refs": [
+        "C-1258",
+        "C-11966",
+        "C-9431"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14629",
+      "ref": "C-14629",
+      "label": "Host Says Erika Is Being Forced to Reverse Charlie's Positions Like LBJ After JFK",
+      "claim": "The host says Erika Kirk is forced to assume Charlie's role and reverse everything he did, as LBJ did after JFK's death.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10543"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:50:08",
+      "investigative_direction": "List Charlie's pre-death positions versus TPUSA positions after September 2025 on Israel, Iran and donors.",
+      "transcript_snippet": "And she's forced to assume his role and reverse um everything that he did like LBJ did after JFK's death.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2",
+        "N-1"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-48",
+      "ref": "M-48",
+      "canonical_term": "Big Mad",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 87,
+          "video_timestamp": "00:41:51",
+          "speaker_node_ref": "N-3",
+          "quote": "to cut through that illusion with truth. And so they're mad. They're big mad. ## Comments. Anyway, you guys, if you would like to support our show,...",
+          "context": "Later reuse of Big Mad in CKA seq 87.",
+          "confidence": "high",
+          "tags": [
+            "chat_elevate",
+            "roast",
+            "comedy",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 87,
+          "video_timestamp": "00:29:30",
+          "speaker_node_ref": "N-3",
+          "quote": "please email us at more tips at candaceowens. com.",
+          "context": "Host asks viewers for the Hild-Romney family link at the tips address.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-14",
+      "ref": "M-14",
+      "canonical_term": "Candace Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 87,
+          "video_timestamp": "00:42:19",
+          "speaker_node_ref": "N-3",
+          "quote": "I want to tell you guys the CIA tumblers.",
+          "context": "Host announces the CIA tumblers will be restocked on April 13.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "cia"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 87,
+          "video_timestamp": "00:42:19",
+          "speaker_node_ref": "N-3",
+          "quote": "Make Him a Sandwich and Blackout both hands signed by me, so no two copies are the same.",
+          "context": "Host plugs the autographed hard-copy bundle.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "book"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-34",
+      "ref": "M-34",
+      "canonical_term": "Deep State",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 87,
+          "video_timestamp": "00:30:18",
+          "speaker_node_ref": "N-3",
+          "quote": "some people who are in the deep state are freaking out right now.",
+          "context": "Host says deep state people are upset that she named Metro One Talent and Sears.",
+          "confidence": "high",
+          "tags": [
+            "deep state",
+            "cia"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-52",
+      "ref": "M-52",
+      "canonical_term": "Patsy",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 87,
+          "video_timestamp": "00:31:40",
+          "speaker_node_ref": "N-3",
+          "quote": "about this obvious patsy set up with Tyler Robinson.",
+          "context": "Host calls Robinson's role an obvious patsy setup.",
+          "confidence": "high",
+          "tags": [
+            "patsy",
+            "robinson"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-75",
+      "ref": "M-75",
+      "canonical_term": "I'll Say Allegedly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 87,
+          "video_timestamp": "00:20:31",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm not going to say allegedly in this next portion because I know it for a fact.",
+          "context": "Host says she will not hedge about the BYU and CIA material.",
+          "confidence": "high",
+          "tags": [
+            "allegedly",
+            "hedge"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-80",
+      "ref": "M-80",
+      "canonical_term": "Jog Your Memory",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 87,
+          "video_timestamp": "00:28:49",
+          "speaker_node_ref": "N-3",
+          "quote": "Let's see those Instagram posts to jog your memory.",
+          "context": "Host recalls the Lyman relative's Instagram posts.",
+          "confidence": "high",
+          "tags": [
+            "jog your memory"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-100",
+      "ref": "M-100",
+      "canonical_term": "Epstein Class",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 87,
+          "video_timestamp": "00:43:39",
+          "speaker_node_ref": "N-3",
+          "quote": "that are not being answered by the Epstein class.",
+          "context": "Host says her questions are not being answered by the Epstein class.",
+          "confidence": "high",
+          "tags": [
+            "epstein class"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-139",
+      "ref": "M-139",
+      "canonical_term": "High IQ Outfit",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 87,
+          "video_timestamp": "00:00:54",
+          "speaker_node_ref": "N-3",
+          "quote": "Baron Coleman often says on his show that it's a high IQ outfit.",
+          "context": "Host extends Coleman's high IQ outfit joke to her show.",
+          "confidence": "high",
+          "tags": [
+            "high iq",
+            "coleman"
+          ]
+        },
+        {
+          "episode": 87,
+          "video_timestamp": "00:52:05",
+          "speaker_node_ref": "N-3",
+          "quote": "we were a high IQ outfit here today.",
+          "context": "Host closes the show with the high IQ outfit line.",
+          "confidence": "high",
+          "tags": [
+            "high iq",
+            "closing"
+          ]
+        }
+      ]
+    }
+  ]
 }

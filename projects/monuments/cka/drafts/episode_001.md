@@ -14,10 +14,15 @@
 - **Transcript SHA-256**: 4e6d0208251c90a7fbd3a8be5f2caaf0ebe78bfeb35177af48f4b0ff29ff2356
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10g): N-939, N-11364, N-11365
+  - Hole-minted Nodes (reintro-ep001): N-82, N-10026
+  - Tip-minted Nodes (reintro-ep001): N-11322
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10g): C-13446–C-13490
   - Artifact Families Introduced: A-1077, A-1078, A-1079, A-1080, A-2514
   - Claim Range: C-1115-C-1124, C-3719
   - New Nodes Introduced: N-30, N-31, N-32, N-33, N-34, N-35, N-10002, N-10003, N-10004, N-10005, N-10006, N-10007, N-10008, N-10009, N-10010
-  - Reused Nodes Appearing: N-1, N-2, N-14, N-27, N-10000, N-3
+  - Reused Nodes Appearing: N-1, N-2, N-14, N-27, N-10000, N-3, N-5
 
 ## 3. Artifact Register
 
@@ -114,6 +119,51 @@ Video Timestamp: 00:08:00–00:08:34
 *Related: C-3719, N-1, N-33, N-34*
 Transcript Snippet: Don and Eric got him a gift certificate. I think it was for his birthday to a fancy suit place to go get fitted.
 Confidence: medium
+
+---
+
+**A-3264** Instagram Followers Goal Text Bundle
+
+**A-3264.1** Host verbal reference to a text in which she told Charlie her goal was 50,000 Instagram followers by the end of the year (read from memory of messages, not shown)
+
+Quoted text: "Charlie, my goal is to have 50,000 followers on Instagram."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:05:18
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-13455, N-3, N-1*
+
+---
+
+**A-3265** Charlie Favorite Song Text Bundle
+
+**A-3265.1** Host verbal reference to a text from Charlie saying a Kanye song was his new favorite (not shown)
+
+Quoted text: "Yes, it's my new f it's my new favorite song."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:09:52
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-13463, N-3, N-1, N-27*
+
+---
+
+**A-3266** Kanye Tweet Bundle
+
+**A-3266.1** Host verbal reference to Kanye West's tweet saying he loves the way Candace Owens thinks (not shown)
+
+Quoted text: "I love the way Candace Owens thinks."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:10:16
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-13464, N-3, N-27, N-10004*
 
 ---
 
@@ -333,6 +383,64 @@ Site of first planning session between Charlie and Candace at Macaroni Grill res
 
 ---
 
+**N-5** Donald Trump
+
+Named by the host as the caller about Brigitte Macron for whom Charlie Kirk was the intermediary.
+
+*Related: C-13483*
+
+---
+
+**N-82** Brigitte Macron
+
+The subject of the call the host says Trump made through Charlie Kirk.
+
+*Related: C-13483*
+
+---
+
+**N-10026** Israel
+
+The host says she and Charlie travelled there, and that her position on Israel did not end their friendship.
+
+*Related: C-13467, C-13485, C-13486*
+
+---
+
+**N-11322** Blexit
+
+The movement the host says she started with Charlie by her side.
+
+*Related: C-13476*
+
+---
+
+**N-939** Brett Kavanaugh
+
+Named on a T-shirt slogan the host recalls; first named by the host at 00:13:32 in episode 001.
+
+*Related: C-13468*
+
+---
+
+**N-11364** TPUSA Staff Departures Over Me Too Controversy
+
+Node Type: Topic
+The host says young women at Turning Point threatened to quit, and some quit, over her 2018 Me Too comments.
+
+*Related: C-13470, C-13471*
+
+---
+
+**N-11365** Trump Call to Candace Owens About Brigitte Macron via Charlie Kirk
+
+Node Type: Topic
+The host says Charlie Kirk was the intermediary when Trump called her about Brigitte Macron, and that Trump-world used Charlie as the channel for calls to her.
+
+*Related: C-13483, C-13484*
+
+---
+
 ## 5. Claim Register
 
 **C-1115** Kanye tweet about Candace was celebrated backstage
@@ -483,6 +591,714 @@ Investigative Direction: Corroborate the gift anecdote with any public statement
 
 ---
 
+**C-13446** Host Says 150,000 Watched and the Stream Crashed
+
+Claim Timestamp: 00:00:06
+
+Claim: The host says 150,000 viewers were watching her Charlie Kirk tribute broadcast and that the system crashed.
+
+Transcript Snippet: 150,000 of you guys were watching and uh the the system just sort of crashed
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Tags: relevance:tangential
+Investigative Direction: Platform viewership or outage records for the broadcast would confirm the figure.
+
+---
+
+**C-13447** Host Says She Did Not Want the Moment of His Death to Be the Last Image of Charlie
+
+Claim Timestamp: 00:00:20
+
+Claim: The host says she held this tribute because she did not want the last thing people had in mind about Charlie Kirk to be the moment he lost his life.
+
+Transcript Snippet: I didn't want the last thing that people had in their minds about Charlie to be the moment he lost his life.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10002
+Tags: relevance:context
+Investigative Direction: The host's own statement of purpose; compare with the framing of later episodes about the death footage.
+
+---
+
+**C-13448** Host Says She Met Charlie in 2017 When TPUSA Was Very Young
+
+Claim Timestamp: 00:01:18
+
+Claim: The host says she met Charlie Kirk in 2017, when Turning Point USA was a very young organization and nobody knew who she or Charlie was.
+
+Transcript Snippet: I met him back in 2017 when Turning Point was this very young organization.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Dated public records of her first appearances with TPUSA in 2017 would corroborate the timeline.
+
+---
+
+**C-13449** Host Says Charlie Hired Her on the Spot at a Florida Conference
+
+Claim Timestamp: 00:01:42
+
+Claim: The host says Charlie Kirk hired her on the spot at a conference in Florida.
+
+Transcript Snippet: He hired me on the spot. We were at this conference in Florida.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Identify the Florida conference and the date of her TPUSA hiring from event listings and her early employment records.
+
+---
+
+**C-13450** Host Says Their First Planning Session Was at the Chicago O'Hare Macaroni Grill
+
+Claim Timestamp: 00:02:06
+
+Claim: The host says their first planning session on their first trip together took place at a Macaroni Grill restaurant in Chicago O'Hare airport, where Charlie drew on a paper menu a map of what Turning Point would become.
+
+Transcript Snippet: He flips over this little paper menu as we're waiting for our flight.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10010, N-10000
+Supports: C-1122
+Tags: relevance:tangential
+Investigative Direction: Travel records of that first trip would place both at O'Hare; the menu itself is not shown.
+
+---
+
+**C-13451** Host Says Charlie Wrote That TPUSA Was a 501(c)(3) at the Time
+
+Claim Timestamp: 00:02:42
+
+Claim: The host says that on the menu Charlie wrote that Turning Point's structure was then a 501(c)(3), alongside his aim for it to become the biggest conservative student organization in the world.
+
+Transcript Snippet: not just in the nation, by the way, but in the world. He kind of squabbled and squibbled and wrote that the structure is currently a 501c3.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: IRS filings for Turning Point USA would show its tax status and any later restructuring.
+
+---
+
+**C-13452** Host Says Charlie Adored Rush Limbaugh and Wanted a Show Like His
+
+Claim Timestamp: 00:03:13
+
+Claim: The host says the person Charlie adored most was Rush Limbaugh, that Charlie was raised on Limbaugh's show, and that his ultimate goal was to have a show like it, which she says happened.
+
+Transcript Snippet: was Rush Limbaugh. He was really raised on Rush Limbaugh,
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-31
+Tags: relevance:tangential
+Investigative Direction: Charlie's earlier interviews on Limbaugh would corroborate the admiration.
+
+---
+
+**C-13453** Host Says Her Rule Was That the Team Should Not Drink
+
+Claim Timestamp: 00:03:54
+
+Claim: The host says her rule was that she and Charlie should not drink, and that they did not drink, because everybody in politics is drinking and she considered it a disadvantage.
+
+Transcript Snippet: My rule was like I was like, we shouldn't drink. Everybody in politics is drinking.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Tags: relevance:tangential
+Investigative Direction: Former TPUSA staff could confirm whether the no-drinking practice applied on the road in 2017 to 2019.
+
+---
+
+**C-13454** Host Says Charlie's Motto Was They Could Always Outwork Their Opponents
+
+Claim Timestamp: 00:04:07
+
+Claim: The host says Charlie's motto, which she says came directly from him, was that they could always outwork their opponents.
+
+Transcript Snippet: Charlie's was we can always outwork our opponents.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Tags: relevance:tangential
+Investigative Direction: Public Charlie Kirk speeches using the phrase would corroborate the attribution.
+
+---
+
+**C-13455** Host Says She Told Charlie Her Goal Was 50,000 Instagram Followers
+
+Claim Timestamp: 00:05:18
+
+Claim: The host says that going through her text messages the day before she found one in which she told Charlie her goal was 50,000 Instagram followers by the end of the year.
+
+Transcript Snippet: Charlie, my goal is to have 50,000 followers on Instagram. I think we can do it by the end of the year.
+
+Anchored Artifacts: A-3264.1
+Mentions: N-3, N-1
+Tags: relevance:tangential
+Investigative Direction: The text itself, with its date, would confirm the follower goal and its timing.
+
+---
+
+**C-13456** Host Says Charlie Was Already Running a California Campus Tour When He Hired Her
+
+Claim Timestamp: 00:05:29
+
+Claim: The host says that after Charlie hired her he had been working hard on a campus tour throughout California, which he called the big three: UCLA, Stanford and Berkeley.
+
+Transcript Snippet: And after he hired me, he had been working already really hard on doing this campus tour throughout California.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Campus event calendars for UCLA, Stanford and Berkeley would date the tour.
+
+---
+
+**C-13457** Host Says a Bigger Name Texted That He Would Not Share the Stage With the New Girl
+
+Claim Timestamp: 00:06:07
+
+Claim: The host says she saw messages light up the phone of a better-known headliner, who is not named, saying he did not want to do the event with the new girl Charlie had hired.
+
+Transcript Snippet: "I I don't want to do this event with that new girl you hired." Like,
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Tags: relevance:context
+Investigative Direction: The headliner is unnamed; the host or the original ticketing for the California event would identify him.
+
+---
+
+**C-13458** Host Says Charlie Cancelled the Event Rather Than Drop Her
+
+Claim Timestamp: 00:07:00
+
+Claim: The host says Charlie decided against the easy choice and told the headliner that if he would not do the event with Candace they would not do the event, and that he and Candace would do it alone.
+
+Transcript Snippet: Candace, then we're not going to do the event." And Candace and I will do it alone.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Tags: relevance:context
+Investigative Direction: Event records from the California tour would show who spoke at the event in question.
+
+---
+
+**C-13459** Host Says Dave Rubin Joined That Event
+
+Claim Timestamp: 00:07:12
+
+Claim: The host says she thinks Dave Rubin hopped on for that particular event after Charlie and she went at it alone.
+
+Transcript Snippet: Dave Rubin hopped on and the rest was future.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-32
+Tags: relevance:context
+Investigative Direction: Event programs or press from the early California tour would show whether Rubin appeared.
+
+---
+
+**C-13460** Host Says She and Charlie Flew Around the World for Two Years on Hundreds of Flights
+
+Claim Timestamp: 00:07:16
+
+Claim: The host says that for two years straight she and Charlie flew around the world together, taking hundreds of flights.
+
+Transcript Snippet: Straight, Charlie and I flew around the world together on very little sleep. We were always exhausted.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Tags: relevance:tangential
+Investigative Direction: Airline itineraries or TPUSA travel expense records for 2017 to 2019 would test the claim.
+
+---
+
+**C-13461** Host Says Charlie Was Frugal and Aware His Salary Came From Donors
+
+Claim Timestamp: 00:08:15
+
+Claim: The host says Don Jr. and Eric Trump told Charlie they knew he was very frugal and aware that his salary came from donors, and that Charlie wanted to be a good steward of their capital.
+
+Transcript Snippet: they're like, you know, Charlie, I know you're very frugal. We know that you're very aware that your salary comes from donors.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-33, N-34
+Supports: C-3719
+Tags: relevance:context
+Investigative Direction: Charlie Kirk's reported TPUSA compensation in public filings would test the frugality account.
+
+---
+
+**C-13462** Host Says Charlie Took Up Running 10 Miles a Day After Getting Into Kanye
+
+Claim Timestamp: 00:09:44
+
+Claim: The host says that after she introduced Charlie to Kanye West's music he began running 10 miles a day and texting her about it.
+
+Transcript Snippet: Charlie's really getting into some Kanye West music. He's running 10 miles a day.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-27
+Tags: relevance:tangential
+Investigative Direction: Charlie's running habit is attested elsewhere; the host's text messages would place the time.
+
+---
+
+**C-13463** Host Says Charlie Texted That Power Was His New Favorite Song
+
+Claim Timestamp: 00:09:52
+
+Claim: The host says there is a text in which Charlie wrote that Kanye's song was his new favorite song, which she says became the tour's hype song.
+
+Transcript Snippet: He's like, "Yes, it's my new f it's my new favorite song." And he he just loved it.
+
+Anchored Artifacts: A-3265.1
+Mentions: N-3, N-1, N-27
+Related Nodes: N-10004
+Supports: C-1121
+Tags: relevance:tangential
+Investigative Direction: The text itself would confirm Charlie's wording and date.
+
+---
+
+**C-13464** Host Says Kanye Tweeted That He Loved the Way Candace Owens Thinks
+
+Claim Timestamp: 00:10:16
+
+Claim: The host says that a couple of months after they started listening to Kanye's old albums on repeat, Kanye West tweeted "I love the way Candace Owens thinks".
+
+Transcript Snippet: Suddenly, Kanye West tweets, "I love the way Candace Owens thinks." The excitement. Okay,
+
+Anchored Artifacts: A-3266.1
+Mentions: N-3, N-1, N-27
+Related Nodes: N-10004
+Supports: C-1115
+Tags: relevance:context
+Investigative Direction: Kanye West's archived tweets would date the post; the draft's Event Timestamp for the backstage clip says May 2022.
+
+---
+
+**C-13465** Host Says Charlie Repeatedly Texted Her Photos Asking Whether He Looked Cool
+
+Claim Timestamp: 00:11:01
+
+Claim: The host says Charlie often texted her a picture asking whether it looked cool, and describes a screen recording of them discussing a pair of sunglasses.
+
+Transcript Snippet: Does this look cool? Does this look cool? Do I look cool?
+
+Anchored Artifacts: A-1079.1
+Mentions: N-3, N-1
+Tags: relevance:tangential
+Investigative Direction: The screen recording shown would confirm the exchange.
+
+---
+
+**C-13466** Host Says Charlie Drilled Her on Debates by Playing a Protester
+
+Claim Timestamp: 00:11:40
+
+Claim: The host says Charlie hammered her on debate preparation, told her to know opponents' arguments backward and forward, and pretended to be a protester or radical while she memorized statistics.
+
+Transcript Snippet: he was just pretending to be a protester,.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Tags: relevance:tangential
+Investigative Direction: Second-hand accounts from TPUSA staff of their debate preparation sessions would corroborate it.
+
+---
+
+**C-13467** Host Says They Travelled to All 50 States, Canada, the UK and Israel
+
+Claim Timestamp: 00:13:27
+
+Claim: The host says that she and Charlie went all 50 states, Canada, down to the border, the United Kingdom and Israel.
+
+Transcript Snippet: all 50 states, Canada, down to the border, the United Kingdom, Israel, you name it,
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10026
+Tags: relevance:context
+Investigative Direction: Dated event listings for Charlie Kirk and Candace Owens in the UK and Israel would test the claim.
+
+---
+
+**C-13468** Host Says They Printed a Justice for Brett Kavanaugh T-Shirt
+
+Claim Timestamp: 00:13:32
+
+Claim: The host says they were always printing new T-shirts and names a Justice for Brett Kavanaugh shirt among them.
+
+Transcript Snippet: we were there. And there was always a new t-shirt to print out. Justice for Brett Kavanaugh.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-939
+Tags: relevance:tangential
+Investigative Direction: Contemporary TPUSA merchandise listings or photos would confirm the shirt.
+
+---
+
+**C-13469** Host Says She Immediately Called the Me Too Movement Awful
+
+Claim Timestamp: 00:13:49
+
+Claim: The host says that when the Me Too hashtag started going viral and people were emotional she immediately said Me Too was awful, terrible for women and for men, and that people attacked her for saying due process was needed.
+
+Transcript Snippet: I won't forget it because that me too hashtag it just started going viral and people were emotional and right away I was like me too is awful.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10008
+Tags: relevance:context
+Investigative Direction: Her 2017 to 2018 posts and interviews on Me Too would date the first statements.
+
+---
+
+**C-13470** Host Says Young Women at TPUSA Threatened to Quit Over Her Statements
+
+Claim Timestamp: 00:14:09
+
+Claim: The host says young women working at Turning Point were threatening to quit and crying in the office over her Me Too comments.
+
+Transcript Snippet: We're talking about rape. And I remember he had young women at Turning Point who were threatening to quit crying in the office.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10000, N-11364
+Tags: relevance:context
+Investigative Direction: TPUSA staff from 2018 could confirm the reaction in the office.
+
+---
+
+**C-13471** Host Says Some of the Young Women Did Quit
+
+Claim Timestamp: 00:14:16
+
+Claim: The host says that some of the young women at Turning Point who objected to her Me Too stance did quit.
+
+Transcript Snippet: How could she not support me too women who young women who did quit?
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10000, N-11364
+Tags: relevance:context
+Investigative Direction: Departures from TPUSA in 2018 would identify the staff who quit and their stated reasons.
+
+---
+
+**C-13472** Host Says People Demanded Charlie Fire Her and He Refused
+
+Claim Timestamp: 00:14:41
+
+Claim: The host says that people demanded Charlie fire her over her Me Too statements and that he did not, because he agreed with her and held the line.
+
+Transcript Snippet: People, you've got to fire her. How could she say this? And he didn't.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Supports: C-1123
+Tags: relevance:context
+Investigative Direction: Press coverage of calls for her dismissal in 2018 and any TPUSA statement would test the account.
+
+---
+
+**C-13473** Host Says She, Charlie and Sarah Played Kanye as Hype Music Before the Event
+
+Claim Timestamp: 00:15:12
+
+Claim: The host says that before every such event, including the Him Too event, the prep was Kanye, and describes a clip of her, Charlie and Sarah, his assistant at the time, playing the hype music.
+
+Transcript Snippet: Just literally me, Charlie, and uh Sarah, who was his assistant at the time,
+
+Anchored Artifacts: A-1080.1
+Mentions: N-3, N-1, N-35, N-27
+Related Nodes: N-10008
+Supports: C-1121
+Tags: relevance:tangential
+Investigative Direction: The clip shown would date the prep session; Sarah's surname is not given.
+
+---
+
+**C-13474** Host Says Antifa Assembled Quickly After Learning Which Restaurant They Were At
+
+Claim Timestamp: 00:15:41
+
+Claim: The host says they were amazed at how quickly the Antifa crowd had assembled once it found out which Philadelphia restaurant they were at.
+
+Transcript Snippet: We were just amazed at how quickly they had assembled once they found out what restaurant we were at.
+
+Anchored Artifacts: A-1077.3
+Mentions: N-3, N-1
+Related Nodes: N-10009
+Supports: C-1118
+Tags: relevance:context
+Investigative Direction: News reports and restaurant staff accounts of the Philadelphia incident would test how the crowd learned the location.
+
+---
+
+**C-13475** Clip Shows a Protester Telling the Host Charlie Kirk Is Not Your Friend
+
+Claim Timestamp: 00:16:34
+
+Claim: In a clip the host plays, a protester says that if you aren't wealthy, white and male, Charlie Kirk is not your friend, after which the host and Charlie banter with the protester.
+
+Transcript Snippet: If you aren't wealthy, white and male, Charlie Kirk is not your friend.
+
+Anchored Artifacts: A-1077.4
+Mentions: N-3, N-1
+Tags: relevance:tangential
+Investigative Direction: The host says she does not know which campus event it is; the full video would identify it.
+
+---
+
+**C-13476** Host Says Charlie Was by Her Side When She Started Blexit
+
+Claim Timestamp: 00:17:03
+
+Claim: The host says Charlie was right by her side when she started Blexit.
+
+Transcript Snippet: Charlie was right by my side when I started Blexit obviously.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-11322
+Tags: relevance:context
+Investigative Direction: Blexit launch coverage from 2018 would show whether and how Charlie Kirk appeared.
+
+---
+
+**C-13477** Host Says Charlie Was There the Night She Met Her Husband in the UK
+
+Claim Timestamp: 00:17:10
+
+Claim: The host says Charlie was present the night she met her husband, in the UK, and that it was an incredible night she did not expect.
+
+Transcript Snippet: Um he was also there the night that I met my husband which was absolutely an incredible night and uh in the UK which I didn't expect to happen.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-30
+Supports: C-1119
+Tags: relevance:tangential
+Investigative Direction: Event records for a Charlie Kirk and Candace Owens UK appearance would date the evening.
+
+---
+
+**C-13478** Host Says Charlie Asked Whether Marrying George Would Be Good for Her Brand
+
+Claim Timestamp: 00:17:28
+
+Claim: The host says that when she told Charlie she thought she would marry George he first asked whether it would be good for her brand, and that she answered it was love, not a brand decision.
+
+Transcript Snippet: He's like wait like is this going to be good for your brand? Like Charlie this is love.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-30
+Tags: relevance:tangential
+Investigative Direction: The corresponding text exchange would show his wording.
+
+---
+
+**C-13479** Host Says Charlie Was by Her Side the Day She Married George
+
+Claim Timestamp: 00:17:54
+
+Claim: The host says Charlie was by her side the day that she married George.
+
+Transcript Snippet: Charlie was by my side the day that I got married.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-30
+Tags: relevance:tangential
+Investigative Direction: Wedding photos or guest lists would confirm Charlie Kirk's attendance.
+
+---
+
+**C-13480** Host Says Charlie Texted That He and Erika Would Be the Power Couple of the Century
+
+Claim Timestamp: 00:18:42
+
+Claim: The host reads a text from Charlie saying it is going to be the power couple of the century and that he needs to continue to pray about it, in the exchange about how he should pursue Erika.
+
+Transcript Snippet: "It's going to be the power couple of the century. I need to continue to pray about it."
+
+Anchored Artifacts: A-1079.3
+Mentions: N-3, N-1, N-2
+Supports: C-1120
+Tags: relevance:context
+Investigative Direction: The text chain itself, with dates, would show when Charlie wrote it relative to the Kirk and Frantzve wedding.
+
+---
+
+**C-13481** Host Says Charlie Really Loved Erika From the Texts She Reread
+
+Claim Timestamp: 00:19:12
+
+Claim: The host says that in the texts she reread the day of the broadcast Charlie really loved Erika and loved his family.
+
+Transcript Snippet: Children. You know, Charlie really loved really, really loved Erika from a time I'm reading through the text today.
+
+Anchored Artifacts: A-1079.3
+Mentions: N-3, N-1, N-2
+Tags: relevance:context
+Investigative Direction: The texts themselves would show how Charlie wrote about Erika.
+
+---
+
+**C-13482** Host Says She and Charlie Never Stopped Being Friends
+
+Claim Timestamp: 00:19:26
+
+Claim: The host says that she and Charlie never for a single minute stopped being friends, even when the world demanded it from both of them.
+
+Transcript Snippet: Never for a single minute ever did Charlie and I stop being friends. Even when the world demanded that from both of us.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10003
+Tags: relevance:core
+Investigative Direction: Later episodes' texts and accounts of the 2023 to 2025 relationship would test the claim of continuity.
+
+---
+
+**C-13483** Host Says Charlie Was the Intermediary When Trump Called About Brigitte
+
+Claim Timestamp: 00:19:57
+
+Claim: The host says that people guessed correctly that the intermediary when Trump called about Brigitte was Charlie Kirk, and confirms it was Charlie.
+
+Transcript Snippet: Of course, people guessed it correctly when they said, "Oh, the person who probably was the intermediary when Trump called about Brigitte was Charlie Kirk." Of course,
+
+Anchored Artifacts: 
+Mentions: N-3, N-1, N-5, N-82
+Related Nodes: N-11365
+Tags: relevance:core
+Investigative Direction: The host's phone logs and messages with Charlie around the Trump call would date it; Trump-side accounts would confirm or refute the call.
+
+---
+
+**C-13484** Host Says They Would Never Send Anyone Else to Call Her Because Charlie Was Like a Brother
+
+Claim Timestamp: 00:20:05
+
+Claim: The host says that they would never send anybody else to call her with anything because they knew Charlie was a brother to her.
+
+Transcript Snippet: They would never send anybody else to call me with anything because they knew that Charlie was a brother to me.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-11365
+Tags: relevance:context
+Investigative Direction: Her call records and the identities of those who used Charlie as a channel would test the claim.
+
+---
+
+**C-13485** Host Says People Wrongly Thought Her Israel Position Ended Her Friendship With Charlie
+
+Claim Timestamp: 00:20:13
+
+Claim: The host says people were wrong to think that when she made up her mind about Israel she and Charlie fell apart, and that they laughed at how wrong it was.
+
+Transcript Snippet: we laughed at how wrong it was when people thought that when I had made up my mind about Israel that Charlie and me fell apart.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10026, N-10003
+Tags: relevance:context
+Investigative Direction: Public commentary on the Owens and Kirk split and later texts between them would test the account.
+
+---
+
+**C-13486** Host Says She Told Charlie There Was No Room for Movement on Israel
+
+Claim Timestamp: 00:20:33
+
+Claim: The host says she told Charlie where she stood on Israel, that there was no room for movement, and that he should tell whoever needed to hear it whatever he needed to tell them.
+
+Transcript Snippet: I said, "Charlie, this is this is where I'm at, and there's no room for movement,
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10026
+Tags: relevance:core
+Investigative Direction: Who asked Charlie to relay her position, and when, is the line to pursue; the texts or calls would carry it.
+
+---
+
+**C-13487** Host Says Charlie Was Going Through a Spiritual Transformation
+
+Claim Timestamp: 00:21:05
+
+Claim: The host says that in the end Charlie was going through a spiritual transformation, adding that she knows it, and that he was going through a lot.
+
+Transcript Snippet: I think um I think in the end Charlie Charlie was going through a spiritual transformation.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10005
+Tags: relevance:core
+Investigative Direction: The host does not say what the transformation was; her texts with Charlie from 2025 and his public remarks on faith would test it.
+
+---
+
+**C-13488** Host Says Charlie Was Under a Lot of Pressure From People Now Speaking About Him
+
+Claim Timestamp: 00:21:20
+
+Claim: The host says there was a lot of pressure on Charlie and that it is hard for her to watch the people who were pressuring him say what they are saying, which she finds fake.
+
+Transcript Snippet: There was a lot of pressure and it's hard for me to watch the people who were pressuring him I don't know just say the things that they're saying,
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10005
+Tags: relevance:core
+Investigative Direction: The host does not name those pressuring him here; later episodes naming them and any messages Charlie sent about pressure would test the claim.
+
+---
+
+**C-13489** Host Says Those Pressuring Charlie Would Have Let Him Lose Everything Over Modifying an Opinion
+
+Claim Timestamp: 00:21:37
+
+Claim: The host says the unnamed people who pressured Charlie would have allowed him to lose, and wanted him to lose everything, for changing or even slightly modifying an opinion.
+
+Transcript Snippet: And um they would have allowed him to lose and wanted him to lose everything for changing or even slightly modifying an opinion.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10005
+Tags: relevance:core
+Investigative Direction: Identify which opinion and which donors or allies are meant, via the host's later episodes and Charlie's donors' statements.
+
+---
+
+**C-13490** Host Says She Has Seen the Footage of the Shooting and Will Never Unsee It
+
+Claim Timestamp: 00:22:00
+
+Claim: The host says Charlie was her best friend and brother and that she will never unsee the footage of what she saw, the violence of it.
+
+Transcript Snippet: he was he was my best friend and my brother and I will never unsee the footage of what I saw,
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10002
+Tags: relevance:core
+Investigative Direction: The host does not specify which footage; the public videos of the September 10, 2025 shooting are the candidates.
+
+---
+
 ## 6. Meme Register
 
 **M-1** (meme) Grieving Widow
@@ -564,6 +1380,37 @@ Speaker: N-3
 Quote: he used to always say, "Iron sharpens iron."
 Context: Host remembers Charlie's debate mantra while describing practice rounds.
 Tags: charlie, debate, memorial
+Confidence: high
+
+---
+
+**M-314** (meme) The Rest Is Future
+
+### Occurrence 1
+
+Video Timestamp: 00:01:53
+Speaker: N-3
+Quote: We say the rest is future.
+Context: Host says she and Charlie replaced "the rest is history" with their own catchphrase.
+Tags: charlie, catchphrase, memorial
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:07:12
+Speaker: N-3
+Quote: Dave Rubin hopped on and the rest was future.
+Context: Host closes the cancelled-event anecdote with the shared catchphrase.
+Tags: charlie, catchphrase, memorial
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:08:34
+Speaker: N-3
+Quote: And um, the rest the rest is future, right?
+Context: Host closes the suit gift certificate anecdote with the shared catchphrase.
+Tags: charlie, catchphrase, memorial
 Confidence: high
 
 ---

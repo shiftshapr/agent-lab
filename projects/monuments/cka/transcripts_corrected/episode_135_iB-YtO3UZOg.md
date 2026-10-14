@@ -106,7 +106,7 @@ Moving on from that, interesting little tidbit for you. Remember how Frank Turek
 
 [15:48]
 
-Like I said, Brian doesn't recall Frank doing CPR. Frank says Brian was distracted and just didn't realize what he had done for the last 30 seconds. He just got distracted on this remarkably short car ride to the office and didn't see him lay Charlie down flat and start doing mouth-to-mouth CPR. Okay. But I'd wondered, we had all sort of wondered aloud, what exactly happened to their clothes then, right? Brian said, "I cut Charlie. I took the shirt." What happened to the clothes? Well, I will say Frank Turik's name was not explicitly mentioned, but uh I did hear that the feds, the FBI, took the clothes from certain members of Charlie's security team security team down to their boxer briefs, took their clothes.
+Like I said, Brian doesn't recall Frank doing CPR. Frank says Brian was distracted and just didn't realize what he had done for the last 30 seconds. He just got distracted on this remarkably short car ride to the office and didn't see him lay Charlie down flat and start doing mouth-to-mouth CPR. Okay. But I'd wondered, we had all sort of wondered aloud, what exactly happened to their clothes then, right? Brian said, "I cut Charlie. I took the shirt." What happened to the clothes? Well, I will say Frank Turek's name was not explicitly mentioned, but uh I did hear that the feds, the FBI, took the clothes from certain members of Charlie's security team security team down to their boxer briefs, took their clothes.
 
 [16:40]
 

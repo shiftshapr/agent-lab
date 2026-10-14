@@ -629,9 +629,9 @@ Baron Coleman; his coverage of the group's hospital walk-in is cited.
 
 ---
 
-**N-337** Viva Frey
+**N-337** Viva Frei
 
-Viva Frei (spelled Viva Frey in the register); his Charlie Kirk Show remarks on conspiracy theories.
+Viva Frei (spelled Viva Frei in the register); his Charlie Kirk Show remarks on conspiracy theories.
 
 *Related: C-11621, C-11622*
 

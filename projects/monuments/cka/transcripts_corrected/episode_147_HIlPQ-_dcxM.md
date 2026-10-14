@@ -102,7 +102,7 @@ Uh I believe that you have a really clear one of Justin Davis. He's wearing uh y
 
 [13:39]
 
-Now, to the right of them, we have back-to-back Yukon Denalis. You of course know that that one of the front is going to be the one that Charlie Kirk shows up in and that Charlie Kirk is going to depart in um after he is hit with an explosive. And we know that he shows up with Mikey McCoy in that vehicle. And we also know that the person driving it, we only have a first name for this guy, but his name is Christopher, okay? We're going to talk more about this Chris guy in a second. Um and then we have behind that vehicle the mysterious, and I'm saying mysterious because Blake Neff made it mysterious by pretending he didn't know what he did, who he was with. This is the vehicle that just Danny McCoy is driving. And he has not I'm sorry, Danny Phillip. Danny Phillip is driving.
+Now, to the right of them, we have back-to-back Yukon Denalis. You of course know that that one of the front is going to be the one that Charlie Kirk shows up in and that Charlie Kirk is going to depart in um after he is hit with an explosive. And we know that he shows up with Mikey McCoy in that vehicle. And we also know that the person driving it, we only have a first name for this guy, but his name is Christopher, okay? We're going to talk more about this Chris guy in a second. Um and then we have behind that vehicle the mysterious, and I'm saying mysterious because Blake Neff made it mysterious by pretending he didn't know what he did, who he was with. This is the vehicle that just Danny Phillip is driving. And he has not I'm sorry, Danny Phillip. Danny Phillip is driving.
 
 [14:35]
 
@@ -130,7 +130,7 @@ What could there be to do toward the Sorensen Sorensen building on a campus that
 
 [19:29]
 
-That keys were apparently either waiting in the car or somehow given to Justin Davis before this, I don't know. But, I'm going to show you this footage multiple times, and I'm going to highlight different portions throughout it. First off, let's highlight Justin Davis. Um, again, this is not Justin Davis's car, but he immediately sprints ahead to the vehicle and opens the passenger side door alongside Blake Herrif, who is also not in this vehicle. Take a look at this.
+That keys were apparently either waiting in the car or somehow given to Justin Davis before this, I don't know. But, I'm going to show you this footage multiple times, and I'm going to highlight different portions throughout it. First off, let's highlight Justin Davis. Um, again, this is not Justin Davis's car, but he immediately sprints ahead to the vehicle and opens the passenger side door alongside Blake Neff, who is also not in this vehicle. Take a look at this.
 
 [20:06]
 
@@ -154,7 +154,7 @@ They just knew that that none of of Rick, Frank, none of these people came in th
 
 [23:27]
 
-I I I think, again, I will say not 100% certain that it's his bag, but given the fact that Mikey McQuaid showed up with a bag and has it on his back, uh just process of elimination here, I think that's going to be the security person's bag. But again, this is all just luck that Danny and Mikey fortunately met. For some reason, Blake is really weird about mentioning Danny as a part of the story. When he tells the story, and he says, which you're going to hear in a little bit, everything that happened, he just mysteriously keeps leaving Danny Philip out of everything. He always develops Danny Philip amnesia in particular. Every time, he's just like, "Whoa, no, this is what happened. Danny was But Danny's there." Danny's running with Mikey. Blake is already up ahead.
+I I I think, again, I will say not 100% certain that it's his bag, but given the fact that Mikey McCoy showed up with a bag and has it on his back, uh just process of elimination here, I think that's going to be the security person's bag. But again, this is all just luck that Danny and Mikey fortunately met. For some reason, Blake is really weird about mentioning Danny as a part of the story. When he tells the story, and he says, which you're going to hear in a little bit, everything that happened, he just mysteriously keeps leaving Danny Philip out of everything. He always develops Danny Philip amnesia in particular. Every time, he's just like, "Whoa, no, this is what happened. Danny was But Danny's there." Danny's running with Mikey. Blake is already up ahead.
 
 [24:12]
 

@@ -158,7 +158,7 @@
           ],
           "tags": [],
           "video_timestamp": "00:15:24–00:16:47",
-          "transcript_snippet": "He walked in and gave the footage to the Orum Police Department… the feds never reached out to him until the 15th.",
+          "transcript_snippet": "He walked in and gave the footage to the Orem Police Department… the feds never reached out to him until the 15th.",
           "confidence": "high"
         }
       ]
@@ -385,7 +385,7 @@
           ],
           "tags": [],
           "video_timestamp": "00:05:05–00:05:25",
-          "transcript_snippet": "Natasha Housedorf was there. Seth Dillon was there. And Seth Dillon was the one that was applying pressure to him.",
+          "transcript_snippet": "Natasha Hausdorff was there. Seth Dillon was there. And Seth Dillon was the one that was applying pressure to him.",
           "confidence": "medium"
         },
         {
@@ -418,7 +418,7 @@
           ],
           "tags": [],
           "video_timestamp": "00:39:29–00:39:42",
-          "transcript_snippet": "Actually, a shout out to Taylor Lorent.",
+          "transcript_snippet": "Actually, a shout out to Taylor Lorenz.",
           "confidence": "medium"
         },
         {
@@ -436,6 +436,217 @@
           "video_timestamp": "00:41:46–00:42:03",
           "transcript_snippet": "Like Nikki Haley signing bombs.",
           "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3276",
+      "family_ref": "A-3276",
+      "bundle_name": "Viewer Comments Read on Air Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3276.1",
+          "ref": "A-3276.1",
+          "description": "Host verbal reading of a viewer comment from Renee about an Amazon listing for a book about Charlie dated September 9",
+          "related_claims": [
+            "C-13812",
+            "C-13813"
+          ],
+          "related_nodes": [
+            "N-10140",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:40:34",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3276.2",
+          "ref": "A-3276.2",
+          "description": "Host verbal reading of a viewer comment from Ben Autton about etchings on bullet casings",
+          "related_claims": [
+            "C-13816"
+          ],
+          "related_nodes": [
+            "N-10138"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:43:10",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3276.3",
+          "ref": "A-3276.3",
+          "description": "Host verbal reading of an X post attributed to Taylor Lorenz",
+          "related_claims": [
+            "C-13811"
+          ],
+          "related_nodes": [
+            "N-121",
+            "N-3",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:40:06",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3276.4",
+          "ref": "A-3276.4",
+          "description": "Host verbal reading of a viewer comment from Miranda New about Erika Kirk",
+          "related_claims": [
+            "C-13817"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:43:30",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3277",
+      "family_ref": "A-3277",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3277.1",
+          "ref": "A-3277.1",
+          "description": "Host verbal reference to the tips address when asking viewers with other rooftop footage to send it in",
+          "related_claims": [
+            "C-13814"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:42:28",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3277.2",
+          "ref": "A-3277.2",
+          "description": "Host verbal reference to the tips inbox and tips line and what it should be used for",
+          "related_claims": [
+            "C-13815"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:42:44",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3277.3",
+          "ref": "A-3277.3",
+          "description": "Host verbal reference to the tips email address in a closing call for tips from police officers and federal employees",
+          "related_claims": [
+            "C-13821"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:45:15",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3278",
+      "family_ref": "A-3278",
+      "bundle_name": "Host Verbal References to TPUSA Finance Sources Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3278.1",
+          "ref": "A-3278.1",
+          "description": "Host verbal reference to an insider who said they were present when Charlie raised concerns about where the money was going (not shown)",
+          "related_claims": [
+            "C-13772"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:18:42",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3278.2",
+          "ref": "A-3278.2",
+          "description": "Host verbal reference to preliminary forensic-accountant findings she says she has been shown (not shown)",
+          "related_claims": [
+            "C-13781"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:23:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3279",
+      "family_ref": "A-3279",
+      "bundle_name": "TPUSA Fundraising Email and Text Messages Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3279.1",
+          "ref": "A-3279.1",
+          "description": "Host verbal reference to fundraising email and text messages sent after Charlie's death (described, not shown)",
+          "related_claims": [
+            "C-13797",
+            "C-13799",
+            "C-13802"
+          ],
+          "related_nodes": [
+            "N-2",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:32:16",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
         }
       ]
     }
@@ -472,10 +683,10 @@
         "A-1168.1"
       ],
       "related_claims": [
-        "C-3632",
         "C-1286",
         "C-1288",
-        "C-1292"
+        "C-1292",
+        "C-3632"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -938,8 +1149,8 @@
         "A-1162.1"
       ],
       "related_claims": [
-        "C-3632",
-        "C-1286"
+        "C-1286",
+        "C-3632"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1036,8 +1247,8 @@
         "A-1162.1"
       ],
       "related_claims": [
-        "C-3632",
-        "C-1286"
+        "C-1286",
+        "C-3632"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1244,6 +1455,294 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "place_kind": "city"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-54",
+      "ref": "N-54",
+      "name": "Lance Twiggs",
+      "type": "person",
+      "description": "Roommate of Tyler Robinson; the host says there has been no update on the raid of his house.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13756"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-173",
+      "ref": "N-173",
+      "name": "Tate Brothers (Andrew and Tristan)",
+      "type": "person",
+      "description": "Andrew Tate is named by the host among claimed funders; no claim is made about his actual conduct.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13808"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10018",
+      "ref": "N-10018",
+      "name": "Netanyahu Israel Invitation Phone Call",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's restatement of the call and invitation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13732"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10033",
+      "ref": "N-10033",
+      "name": "Hamptons Donor Pressure Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the financial threats claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13749"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10052",
+      "ref": "N-10052",
+      "name": "Doorbell-Cam Footage Provenance",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the doorbell footage tip.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13794"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10078",
+      "ref": "N-10078",
+      "name": "TPUSA Financial Apparatus Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the finance and leak claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13770",
+        "C-13771",
+        "C-13773",
+        "C-13774",
+        "C-13781",
+        "C-13785",
+        "C-13809"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10100",
+      "ref": "N-10100",
+      "name": "TPUSA SD Card Removal",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the footage-release claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13750",
+        "C-13751",
+        "C-13752"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10106",
+      "ref": "N-10106",
+      "name": "Moral Blackmail by Donors",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the moral blackmail remark and workshop framing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13738",
+        "C-13740",
+        "C-13741",
+        "C-13749"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10117",
+      "ref": "N-10117",
+      "name": "Jezebel/Etsy Hex on Charlie Kirk",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's hex and priest claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13803"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10324",
+      "ref": "N-10324",
+      "name": "Epstein Files Release Status",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Charlie's distrust of the feds.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13753"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10342",
+      "ref": "N-10342",
+      "name": "Bibi Netanyahu TPUSA Funding Offer",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the offer claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13734"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10345",
+      "ref": "N-10345",
+      "name": "Hampton Retreat Seth Dillon Confrontation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Dillon and Hammer claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13731",
+        "C-13742"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10434",
+      "ref": "N-10434",
+      "name": "Charlie Kirk DOGE Pre-Death Establishment",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the September 2 announcement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13777"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10537",
+      "ref": "N-10537",
+      "name": "Charlie Kirk Necklace / Magnet Clasp Examination",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the necklace claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13790"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11097",
+      "ref": "N-11097",
+      "name": "TPUSA Post-Assassination Fundraising Claim",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the fundraising email claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13797",
+        "C-13799",
+        "C-13800",
+        "C-13802"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11371",
+      "ref": "N-11371",
+      "name": "TPUSA Contractor Double-Dealing Allegation",
+      "type": "topic",
+      "description": "The host's report, from unnamed TPUSA sources, that contractors and other people around the organization took money both ways, earning commissions on both sides of contracts, which she links to Charlie's concern about disappearing money.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13780",
+        "C-13784"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1403,7 +1902,7 @@
       ],
       "claim_timestamp": "00:15:24",
       "investigative_direction": "Cross-reference Orem PD intake records, witness identity, and federal contact logs dated September 15.",
-      "transcript_snippet": "He walked in and gave the footage to the Orum Police Department… the feds never reached out to him until the 15th.",
+      "transcript_snippet": "He walked in and gave the footage to the Orem Police Department… the feds never reached out to him until the 15th.",
       "confidence": "high",
       "supports_claim_refs": [
         "C-1290"
@@ -1630,7 +2129,7 @@
       "@id": "C-3731",
       "ref": "C-3731",
       "label": "Host names Hamptons attendees Natasha Hausdorff, Seth Dillon and Josh Hammer",
-      "claim": "Responding to Xavier Deruso's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: \"Natasha Housedorf\") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.",
+      "claim": "Responding to Xavier Deruso's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: \"Natasha Hausdorff\") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.",
       "anchored_artifacts": [
         "A-2520.1"
       ],
@@ -1640,7 +2139,7 @@
       "tags": [],
       "claim_timestamp": "00:05:13",
       "investigative_direction": "Corroborate the attendee list and the exchange with other Hamptons weekend accounts.",
-      "transcript_snippet": "Natasha Housedorf was there. Seth Dillon was there. And Seth Dillon was the one that was applying pressure to him.",
+      "transcript_snippet": "Natasha Hausdorff was there. Seth Dillon was there. And Seth Dillon was the one that was applying pressure to him.",
       "confidence": "medium",
       "mentions_person_refs": [
         "N-1",
@@ -1655,7 +2154,7 @@
       "@id": "C-3739",
       "ref": "C-3739",
       "label": "Host names Hamptons attendees in response to Xaviaer DuRousseau's account (revises C-3731)",
-      "claim": "C-3731 spells the name 'Xavier Deruso'; the person is Xaviaer DuRousseau (N-116). Responding to DuRousseau's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: \"Natasha Housedorf\") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.",
+      "claim": "C-3731 spells the name 'Xavier Deruso'; the person is Xaviaer DuRousseau (N-116). Responding to DuRousseau's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: \"Natasha Hausdorff\") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.",
       "anchored_artifacts": [
         "A-2520.1"
       ],
@@ -1665,7 +2164,7 @@
       "tags": [],
       "claim_timestamp": "00:05:13",
       "investigative_direction": "Read with C-3731; corroborate the attendee list and the exchange with other Hamptons weekend accounts.",
-      "transcript_snippet": "Natasha Housedorf was there. Seth Dillon was there. And Seth Dillon was the one that was applying pressure to him.",
+      "transcript_snippet": "Natasha Hausdorff was there. Seth Dillon was there. And Seth Dillon was the one that was applying pressure to him.",
       "confidence": "medium",
       "revises_claim_refs": [
         "C-3731"
@@ -1702,7 +2201,7 @@
       "@id": "C-3733",
       "ref": "C-3733",
       "label": "Host credits Taylor Lorenz for noting her isolation",
-      "claim": "The host gives a shout out to Taylor Lorenz (transcript: \"Taylor Lorent\", also \"Taylor Ren\"), who she says asked on X why Candace seemed to be the only one speaking out.",
+      "claim": "The host gives a shout out to Taylor Lorenz (transcript: \"Taylor Lorenz\", also \"Taylor Lorenz\"), who she says asked on X why Candace seemed to be the only one speaking out.",
       "anchored_artifacts": [
         "A-2520.3"
       ],
@@ -1710,7 +2209,7 @@
       "tags": [],
       "claim_timestamp": "00:39:29",
       "investigative_direction": "Locate the Taylor Lorenz post on X.",
-      "transcript_snippet": "Actually, a shout out to Taylor Lorent.",
+      "transcript_snippet": "Actually, a shout out to Taylor Lorenz.",
       "confidence": "medium",
       "mentions_person_refs": [
         "N-3",
@@ -1734,6 +2233,2064 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-125"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13731",
+      "ref": "C-13731",
+      "label": "Host Says Hammer and Dillon Have Not Been Honest About the Pressure on Charlie",
+      "claim": "The host says Josh Hammer and Seth Dillon have not been honest or forthcoming about the pressure that they and others put on Charlie Kirk, and that she views lies by omission as lies.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10345",
+        "N-10134"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:19",
+      "investigative_direction": "Obtain Hammer's and Dillon's own public statements about the Hamptons weekend and compare them with the accounts of other attendees.",
+      "transcript_snippet": "I don't like that they have not yet been honest or forthcoming about the pressure that they and others were putting on Charlie Kirk.",
+      "supports_claim_refs": [
+        "C-1173"
+      ],
+      "mentions_person_refs": [
+        "N-55",
+        "N-38",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13732",
+      "ref": "C-13732",
+      "label": "Host Says Netanyahu Called Charlie and Invited Him to Israel",
+      "claim": "The host restates that Netanyahu phoned Charlie Kirk and invited him to Israel, a point she says she made in her earlier coverage of the Hamptons weekend.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10018",
+        "N-10134"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:55",
+      "investigative_direction": "Obtain Netanyahu's own account of the call (he told interviewers he phoned Kirk weeks before the shooting) and any contemporaneous message logs.",
+      "transcript_snippet": "I tell you about BB Netanyahu calling Charlie Kirk and inviting him to Israel.",
+      "supports_claim_refs": [
+        "C-1129"
+      ],
+      "mentions_person_refs": [
+        "N-36",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13733",
+      "ref": "C-13733",
+      "label": "Host Says Charlie Himself Described the Hamptons Weekend as an Intervention",
+      "claim": "The host says the word \"intervention\" for the Hamptons weekend is how Charlie himself described it, and that Bill Ackman's 959-word reply did not address that point.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10134"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:04",
+      "investigative_direction": "Find a first-hand source (message, recording or attendee) in which Charlie uses the word intervention about the weekend.",
+      "transcript_snippet": "my point about the quote unquote intervention which is how Charlie described it himself",
+      "supports_claim_refs": [
+        "C-1128"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-37",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13734",
+      "ref": "C-13734",
+      "label": "Host Says Netanyahu Offered to Take TPUSA to the Next Level Financially",
+      "claim": "The host says Netanyahu made an offer to take Turning Point to the next level financially, and that no one wants to address that point.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10342",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:04",
+      "investigative_direction": "Identify who relayed the offer to the host and obtain any written record of what was proposed and to whom.",
+      "transcript_snippet": "my point about BB Netanyahu and the offer to take Turning Point to the next level financially.",
+      "mentions_person_refs": [
+        "N-36",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13735",
+      "ref": "C-13735",
+      "label": "Host Says People Thought Charlie's Ideas Were Trending in the Wrong Direction",
+      "claim": "The host says that people around Charlie thought his ideas were trending in the wrong direction, and that no one wants to address her points because she was being honest.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10134"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:26",
+      "investigative_direction": "Ask attendees of the Hamptons weekend and TPUSA donors which positions of Charlie's they objected to.",
+      "transcript_snippet": "People thought that Charlie's ideas were trending in the wrong direction.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13736",
+      "ref": "C-13736",
+      "label": "Host Says the Hamptons Response Videos and Tweets Looked Like a PR Crisis",
+      "claim": "The host says the response videos and tweets that followed disclosure of the Hamptons weekend look as if a PR crisis was under way; at 00:08:25 she adds that you could sense there was a PR panic once people began speaking about the weekend.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10134"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:39",
+      "investigative_direction": "Collect the timestamps of the response videos and tweets and compare them with when the weekend first became public.",
+      "transcript_snippet": "which seems like there was some sort of a PR crisis going on",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13737",
+      "ref": "C-13737",
+      "label": "Host Says DuRousseau Messaged Her That He Was Speaking Out and Then Made a Video",
+      "claim": "The host says she reached out to Xaviaer DuRousseau, who instead of answering messaged her that he was speaking out about the weekend and then published a video addressing it.",
+      "anchored_artifacts": [
+        "A-1165.1"
+      ],
+      "related_nodes": [
+        "N-10134"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:52",
+      "investigative_direction": "Obtain the message exchange and the date of DuRousseau's video.",
+      "transcript_snippet": "rather than answering messaged me to say I am speaking out about that weekend,",
+      "mentions_person_refs": [
+        "N-116",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13738",
+      "ref": "C-13738",
+      "label": "DuRousseau Says the Moral Blackmail Remark Came in a Workshop Setting Like a Debate Club",
+      "claim": "The host relays DuRousseau's account that Charlie's remark about moral blackmail was made in a workshop setting, like a debate club in which attendees were strengthening their debates on the topic of Israel.",
+      "anchored_artifacts": [
+        "A-1165.1"
+      ],
+      "related_nodes": [
+        "N-10106",
+        "N-10134"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:09",
+      "investigative_direction": "Compare DuRousseau's workshop description with accounts from other attendees and with the agenda of the weekend.",
+      "transcript_snippet": "but this was done in more of a workshop setting essentially like like it was a debate club",
+      "mentions_person_refs": [
+        "N-116",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13739",
+      "ref": "C-13739",
+      "label": "DuRousseau Says Charlie Held Up His Phone With a Draft Tweet That BB Needs to Resign",
+      "claim": "In the clip, DuRousseau says the hit piece article describes Charlie raising his phone with a Twitter message saying something like BB needs to resign, and asking what would happen if he did it.",
+      "anchored_artifacts": [
+        "A-1165.1"
+      ],
+      "related_nodes": [
+        "N-10134"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:28",
+      "investigative_direction": "Locate the article DuRousseau calls the hit piece and any draft or deleted post matching the description.",
+      "transcript_snippet": "it talks about how Charlie raised up his phone and had written on Twitter and he said something like BB needs to resign or something like that.",
+      "mentions_person_refs": [
+        "N-116",
+        "N-1",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13740",
+      "ref": "C-13740",
+      "label": "DuRousseau Says a Woman Warned Charlie Posting It Would Indirectly Empower Hamas",
+      "claim": "In the clip, DuRousseau says one woman sitting in the back told Charlie that posting it would indirectly empower Hamas, and that Charlie replied that people have to stop saying that.",
+      "anchored_artifacts": [
+        "A-1165.1"
+      ],
+      "related_nodes": [
+        "N-10106",
+        "N-10134"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:44",
+      "investigative_direction": "Identify the woman and corroborate the exchange with other attendees.",
+      "transcript_snippet": "If you do that, you're indirectly going to empower Hamas.",
+      "mentions_person_refs": [
+        "N-116",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13741",
+      "ref": "C-13741",
+      "label": "DuRousseau Says Charlie Told the Room to Argue About Israel Logically and Factually",
+      "claim": "In the clip, DuRousseau says Charlie's lesson was that when debating Israel you must argue logically and factually, otherwise you lose the debate, and that calling criticism of a politician empowering a terrorist group is moral blackmail.",
+      "anchored_artifacts": [
+        "A-1165.1"
+      ],
+      "related_nodes": [
+        "N-10106",
+        "N-10134"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:52",
+      "investigative_direction": "Compare with Charlie's own words to Megyn Kelly the next day and with other attendees' recollections.",
+      "transcript_snippet": "you need to stop doing it emotionally. You need to do it logically and factually,",
+      "mentions_person_refs": [
+        "N-116",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13742",
+      "ref": "C-13742",
+      "label": "Host Says Dillon and Hammer Were Accusatory Because Charlie's Positions on Israel Were Moving",
+      "claim": "The host says Seth Dillon and Josh Hammer were unhappy with Charlie at the end of the Hamptons weekend because they saw his positions on Netanyahu and Israel shifting, and that they were being accusatory.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10345",
+        "N-10134"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:25",
+      "investigative_direction": "Corroborate the tone of the exchange with other attendees and with Dillon's and Hammer's own accounts.",
+      "transcript_snippet": "they saw which way the wind was traveling in terms of his positions on BB Netanyahu and Israel and they were in fact being accusatory.",
+      "supports_claim_refs": [
+        "C-1173"
+      ],
+      "mentions_person_refs": [
+        "N-38",
+        "N-55",
+        "N-1",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13743",
+      "ref": "C-13743",
+      "label": "Host Says Charlie Vented to Megyn Kelly the Day After the Weekend About Being Labeled Anti-Semitic",
+      "claim": "The host says that the day after the Hamptons weekend Charlie vented to Megyn Kelly about being wrongly labeled anti-Semitic, and that this was pushing him away and was not good for Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10134"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:48",
+      "investigative_direction": "Locate the Megyn Kelly recording the host says she has played several times and confirm its date.",
+      "transcript_snippet": "the day after this little weekend retreat where he vented to Megyn Kelly his frustrations with him being wrongly labeled anti-Semitic",
+      "supports_claim_refs": [
+        "C-1162"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-46"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13744",
+      "ref": "C-13744",
+      "label": "Host Says the Weekend Was Kept Hush Hush, Which Is Unusual for a TPUSA Event",
+      "claim": "The host says the Hamptons weekend was kept hush hush, which she calls extraordinarily unusual for a Turning Point event, and that this was one of the big questions she asked.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10134",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:02",
+      "investigative_direction": "Compare TPUSA's usual promotion of influencer events with the lack of coverage of this weekend.",
+      "transcript_snippet": "this weekend was kept hush hush which is extraordinarily unusual for a Turning Point event.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13745",
+      "ref": "C-13745",
+      "label": "Host Says Influencers Did Not Post About the Weekend Until It Was Exposed",
+      "claim": "The host says TPUSA flew influencers out for the Hamptons weekend, that they did not post about it until they were rumbled, and that DuRousseau offered an explanation for the delay.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10134",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:15",
+      "investigative_direction": "Collect the first public posts from each attendee and compare them with the date the weekend first surfaced.",
+      "transcript_snippet": "Xavier offered this explanation for why they didn't post about the weekend until they were rumbled about the weekend.",
+      "mentions_person_refs": [
+        "N-116",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13746",
+      "ref": "C-13746",
+      "label": "DuRousseau Says Photos Were Not Posted in Real Time Because of Safety",
+      "claim": "In the clip, DuRousseau says the photos were already on his Instagram and that they were not posted in real time because of safety, asking how many people would have loved to slaughter the whole hotel.",
+      "anchored_artifacts": [
+        "A-1165.2"
+      ],
+      "related_nodes": [
+        "N-10134"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:34",
+      "investigative_direction": "Check the dates of DuRousseau's Instagram photos and of other attendees' posts.",
+      "transcript_snippet": "The reason we didn't post that in the real time was because of safety.",
+      "mentions_person_refs": [
+        "N-116"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13747",
+      "ref": "C-13747",
+      "label": "Host Says the Posted Photos Were Never Publicly Connected to TPUSA",
+      "claim": "The host says that DuRousseau and the other attendees never publicly connected the Hamptons photos to Turning Point USA, and that being a conservative in the Hamptons is not a plausible safety reason for staying quiet.",
+      "anchored_artifacts": [
+        "A-1165.2"
+      ],
+      "related_nodes": [
+        "N-10134",
+        "N-10000",
+        "N-10027"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:51",
+      "investigative_direction": "Review the captions and tags on the attendees' posts for any mention of TPUSA.",
+      "transcript_snippet": "you guys never connected to Turning Point USA publicly.",
+      "mentions_person_refs": [
+        "N-116",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13748",
+      "ref": "C-13748",
+      "label": "Host Says Marissa Streit Has Been Open About Having Worked for IDF Intelligence",
+      "claim": "The host says Marissa Streit, the PragerU CEO, has always been open about the fact that she worked for IDF intelligence.",
+      "anchored_artifacts": [
+        "A-2520.2"
+      ],
+      "related_nodes": [
+        "N-10131"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:18",
+      "investigative_direction": "Check Streit's public biography and interviews for her IDF intelligence service.",
+      "transcript_snippet": "Marissa has never always been open about the fact that she worked for the IDF intelligence.",
+      "mentions_person_refs": [
+        "N-118",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13749",
+      "ref": "C-13749",
+      "label": "Host Says Charlie Was Facing Financial Threats Over His Speech",
+      "claim": "The host says Charlie was literally facing financial threats over his speech, and likens it to what happened to her a year earlier.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10106",
+        "N-10033"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:33",
+      "investigative_direction": "Identify which donors or groups made the threats, when, and in what form.",
+      "transcript_snippet": "I don't like the fact that Charlie was literally facing financial threats over his speech.",
+      "supports_claim_refs": [
+        "C-10656"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13750",
+      "ref": "C-13750",
+      "label": "Host Says Turning Point Will Not Release the Footage",
+      "claim": "The host says Turning Point USA will not release the footage and that every excuse she has been given makes no sense to her. The transcript does not name the footage, but the surrounding passage ties it to footage TPUSA holds that she says should vindicate the organization.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10100"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:54",
+      "investigative_direction": "Ask TPUSA to identify the footage in question and the stated reasons for withholding it.",
+      "transcript_snippet": "is the fact that Turning Point will not release the footage.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13751",
+      "ref": "C-13751",
+      "label": "Host Says People Suspect TPUSA From the SD Card Footage and TPUSA Has Footage That Should Vindicate It",
+      "claim": "The host says people, rightly or wrongly, suspect TPUSA had something to do with the assassination because they see footage of someone quickly removing SD cards, and that TPUSA has footage that in theory should vindicate it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10100"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:15",
+      "investigative_direction": "Obtain the SD card removal footage and the chain-of-custody record for the cards.",
+      "transcript_snippet": "they see this footage of someone quickly remove the SD cards that you guys had something to do with the assassination of Charlie Kirk",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13752",
+      "ref": "C-13752",
+      "label": "Host Says the Feds Cannot Charge TPUSA for Releasing Footage It Owns",
+      "claim": "The host says that if the excuse for not releasing the footage is that the feds are saying so, the feds cannot bring charges against an organization for releasing footage it owns.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10100"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:06",
+      "investigative_direction": "Obtain any request or instruction from law enforcement asking TPUSA not to release footage.",
+      "transcript_snippet": "Last I checked, the feds cannot bring charges against you for releasing footage that you own.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13753",
+      "ref": "C-13753",
+      "label": "Host Says Charlie Did Not Trust the Feds on the Epstein Files",
+      "claim": "The host says Charlie did not trust the feds and did not believe the public was getting the truth about the Epstein files.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:11",
+      "investigative_direction": "Locate Charlie's own on-air statements about the Epstein files and federal disclosure.",
+      "transcript_snippet": "Certainly Charlie didn't. He didn't believe we were getting a truth about the Epstein files and things of that nature.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13754",
+      "ref": "C-13754",
+      "label": "Host Says Kolvet Is Getting Vitriol Because He Is Doing Press and Carrying On Charlie's Show",
+      "claim": "The host says Andrew Kolvet is receiving a lot of vitriol because he is doing press and carrying on Charlie Kirk's show, on which he was already seated, and that she meant it when she said he is under a lot of pressure.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:34",
+      "investigative_direction": "Review Kolvet's public appearances after September 10 and the criticism directed at him.",
+      "transcript_snippet": "a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13755",
+      "ref": "C-13755",
+      "label": "Host Says Kolvet Was a Close Friend of Charlie's Who Still Has to Deal With the Same Donors",
+      "claim": "The host says Kolvet is a TPUSA spokesperson who is grieving someone he knew well, one of his best friends whom he saw every day on the Charlie Kirk show, and who still has to deal with the same donors that Charlie dealt with.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:55",
+      "investigative_direction": "Identify the donors Kolvet now manages and whether any were party to the 2025 donor pressure on Charlie.",
+      "transcript_snippet": "one of his best friends he saw every day doing the Charlie Kirk show and he's still got to deal with the same donors that Charlie was dealing with.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13756",
+      "ref": "C-13756",
+      "label": "Host Says There Has Been No Update on the Raid of Lance's House Where Robinson Lived",
+      "claim": "The host says there has been no update whatsoever on the raid of Lance's house, where Tyler Robinson was living at the time of the crime, and that Lance has completely fallen to the wayside.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10062"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:32",
+      "investigative_direction": "Request the search warrant, return and any charging or non-charging decision concerning Lance.",
+      "transcript_snippet": "we haven't received any updates whatsoever on the raid that took place of Lance's house where Tyler Robinson was living at the time of this crime.",
+      "mentions_person_refs": [
+        "N-54",
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13757",
+      "ref": "C-13757",
+      "label": "Host Says the Feds Injected Themselves Immediately Because They Were Staging a Cover-Up",
+      "claim": "The host says her instinct has always been that the feds injected themselves into the case immediately because they were staging a cover-up.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10133"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:45",
+      "investigative_direction": "Establish the date and agency of the first federal involvement and compare it with the local lead roles.",
+      "transcript_snippet": "my instinct has always been that the feds injected themselves immediately into this case because they were staging a cover up.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13758",
+      "ref": "C-13758",
+      "label": "Host Says New Information Lets Her Almost Establish the Federal Cover-Up as Fact",
+      "claim": "The host says that with the information she is about to give about the rooftop footage witnesses, she feels she can almost establish as a fact that the feds were staging a cover-up.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10133"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:55",
+      "investigative_direction": "Test the inference against the witness accounts and the federal contact records.",
+      "transcript_snippet": "And now I feel as though we can almost establish that as a fact when I tell you something else that happened here.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13759",
+      "ref": "C-13759",
+      "label": "Host Says the Rooftop Video Is the Only One of the Shooter Sprinting Seconds After the Shot",
+      "claim": "The host says the rooftop clip she is about to show is the only video that exists of the shooter sprinting across the rooftop mere seconds after the shot was fired.",
+      "anchored_artifacts": [
+        "A-1164.1"
+      ],
+      "related_nodes": [
+        "N-10133"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:12:34",
+      "investigative_direction": "Survey all publicly known rooftop footage to test whether this is the only recording.",
+      "transcript_snippet": "the only video that exists of the shooter sprinting across the rooftop a mere seconds after the shot was fired.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13760",
+      "ref": "C-13760",
+      "label": "Host Says She Is Showing the Rooftop Footage in Better Quality Than Ever Seen",
+      "claim": "The host says the rooftop footage she is about to show is of much clearer quality than any version the public has seen.",
+      "anchored_artifacts": [
+        "A-1164.1"
+      ],
+      "related_nodes": [
+        "N-10133"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:12:52",
+      "investigative_direction": "Compare the aired clip with the earlier viral versions and ask the filmer for the original file.",
+      "transcript_snippet": "I'm about to show it to you in a much clearer quality than you have ever seen it.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13761",
+      "ref": "C-13761",
+      "label": "Host Says Something Trails Behind the Runner and Wonders If It Is the Towel",
+      "claim": "Watching the rooftop clip, the host says it looks as if the runner has something trailing behind him and suggests it may be the towel that officials have described.",
+      "anchored_artifacts": [
+        "A-1164.1"
+      ],
+      "related_nodes": [
+        "N-10133"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:18",
+      "investigative_direction": "Compare the object in the clip with the towel described in the charging documents and the Discord messages.",
+      "transcript_snippet": "Maybe that's the towel that we've been told about.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13762",
+      "ref": "C-13762",
+      "label": "Host Says She Found the Footage and Its Filmer in About Two Hours Through a Twitter Contact",
+      "claim": "The host says it took her about two hours to track down the rooftop footage and the name of the person who filmed it, after a person on Twitter put her in touch with the filmer, who agreed to speak to her.",
+      "anchored_artifacts": [
+        "A-1164.2"
+      ],
+      "related_nodes": [
+        "N-10133"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:24",
+      "investigative_direction": "Identify the filmer and the Twitter contact and confirm the timeline of the outreach.",
+      "transcript_snippet": "It took me all of two hours uh to track down this footage,",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13763",
+      "ref": "C-13763",
+      "label": "Host Says Only Two People Have a Recording of the Shooter and the Feds Showed No Interest in the Filmer",
+      "claim": "The host says the filmer is one of only two people who have a recording of the shooter at all, and that the feds were simply not interested in contacting him during the manhunt.",
+      "anchored_artifacts": [
+        "A-1164.2"
+      ],
+      "related_nodes": [
+        "N-10133"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:59",
+      "investigative_direction": "Catalog the known recordings of the shooter and ask the FBI which witnesses it interviewed and when.",
+      "transcript_snippet": "You have one of two people who have a recording of the shooter at all.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13764",
+      "ref": "C-13764",
+      "label": "Host Says Investigators Should Have Sought the Viral Footage's Metadata to Fix the Exact Second",
+      "claim": "The host says investigators should have reached the person who made the footage go viral to obtain its metadata, which would show the exact second the person was running and let them check it against a federal timeline.",
+      "anchored_artifacts": [
+        "A-1164.2"
+      ],
+      "related_nodes": [
+        "N-10133"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:42",
+      "investigative_direction": "Ask the FBI whether it obtained the original file and metadata of the rooftop clip.",
+      "transcript_snippet": "meaning the metadata that exists, which will tell you the exact second that the person was running",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13765",
+      "ref": "C-13765",
+      "label": "Host Says the Second Witness Is the Person Who Filmed the Somebody Is on the Roof Footage",
+      "claim": "The host says she similarly reached out to the person who shot the footage she covered earlier that week under the heading that somebody is on the roof, and that he told her the exact same thing as the first filmer.",
+      "anchored_artifacts": [
+        "A-1164.3"
+      ],
+      "related_nodes": [
+        "N-10133"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:17",
+      "investigative_direction": "Match this witness to the footage covered earlier in the week and to the Orem police intake record.",
+      "transcript_snippet": "\"Somebody is on the roof.\" We spoke about that earlier this week.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13766",
+      "ref": "C-13766",
+      "label": "Host Says the Second Witness Saw the Person Getting Into Shooting Position and Was Not Contacted Until September 15",
+      "claim": "Speaking in the second witness's voice, the host says he saw the person getting into the shooting position and that the feds never reached out to him until September 15, which she calls the first time the federal government contacted the other person who saw the person climbing the roof.",
+      "anchored_artifacts": [
+        "A-1164.3"
+      ],
+      "related_nodes": [
+        "N-10133"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:07",
+      "investigative_direction": "Obtain the witness's police report and the FBI contact record dated September 15.",
+      "transcript_snippet": "I saw the person getting into the shooting position. You never reached out to him until September 15th.",
+      "supports_claim_refs": [
+        "C-1291"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13767",
+      "ref": "C-13767",
+      "label": "Host Says Not Contacting Both Witnesses Until September 15 Looks Like a Cover-Up",
+      "claim": "The host says the failure to reach the two rooftop footage witnesses until September 15 looks to her like a cover-up rather than an effort to get to the bottom of the crime, and that the feds' resources make it implausible they did not reach out.",
+      "anchored_artifacts": [
+        "A-1164.2",
+        "A-1164.3"
+      ],
+      "related_nodes": [
+        "N-10133"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:12",
+      "investigative_direction": "Compare the witnesses' accounts with FBI interview logs and Orem police records of footage intake.",
+      "transcript_snippet": "that looks to me like a cover up. Not like you're trying to get to the bottom of something.",
+      "supports_claim_refs": [
+        "C-1290"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13768",
+      "ref": "C-13768",
+      "label": "Host Says Her Next Piece Comes Largely From a Multitude of TPUSA Leaks",
+      "claim": "The host says the next piece of her reporting, on TPUSA finances, comes in large part from a multitude of leaks coming out of Turning Point USA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10132"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:26",
+      "investigative_direction": "Ask the host to identify the volume and roles of the leakers and corroborate any documents received.",
+      "transcript_snippet": "this next piece that I have is in large part thanks to um a multi multitude of leaks that are coming out of Turning Point USA.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13769",
+      "ref": "C-13769",
+      "label": "Host Says TPUSA Staff Feel the Organization Is Now Motivated Just by Money",
+      "claim": "The host says people working at Turning Point USA feel the organization is now being motivated just by money and that the company's priorities have somewhat shifted, because they are not getting answers about Charlie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:51",
+      "investigative_direction": "Interview current and former TPUSA staff about changes in priorities after September 10.",
+      "transcript_snippet": "They feel that the organization is now being motivated just by money and that this company's priorities have somewhat shifted",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13770",
+      "ref": "C-13770",
+      "label": "Host Says Many People Have Reached Out About the Finances at TPUSA",
+      "claim": "The host says many people have reached out to her to speak about the finances at Turning Point USA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10078"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:16",
+      "investigative_direction": "Ask the host whether the sources include current employees, vendors or donors and what documents they provided.",
+      "transcript_snippet": "so many people have reached out and they spoke about the finances at Turning Point USA.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13771",
+      "ref": "C-13771",
+      "label": "Host Says Other Journalists Receiving Leaks Have Handed the Finance Angle to Forensic Accountants",
+      "claim": "The host says other journalists who are similarly receiving leaks have become interested in the TPUSA finance angle and have passed it to forensic accountants, and that the material is getting very interesting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10078"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:27",
+      "investigative_direction": "Identify the journalists and the forensic accountants and track the reports the host says will follow.",
+      "transcript_snippet": "other journalists got really interested in this angle who were similarly receiving leaks and have pushed this off to forensic accountants and some of the stuff.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13772",
+      "ref": "C-13772",
+      "label": "Host Says an Insider Was Present When Charlie Expressed Concern About Where the Money Was Going",
+      "claim": "The host says she has an insider who said they were present when Charlie expressed concerns about where the money was going, which she calls at least a starting point.",
+      "anchored_artifacts": [
+        "A-3278.1"
+      ],
+      "related_nodes": [
+        "N-10132",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:42",
+      "investigative_direction": "Identify the insider and the meeting at which Charlie voiced the concern, and obtain any notes or messages.",
+      "transcript_snippet": "an insider um who said that they were there and present when Charlie had expressed some concerns about where the money was going.",
+      "supports_claim_refs": [
+        "C-1286"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13773",
+      "ref": "C-13773",
+      "label": "Host Says Charlie Had Stepped Back From Fundraising Specifics and Trusted His Lieutenants",
+      "claim": "The host says Charlie had by and large removed himself from fundraising, still showed up for top donor meetings as the face of the company, but trusted his lieutenants on accounting specifics.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10078"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:19:08",
+      "investigative_direction": "Establish who ran fundraising and accounting under Charlie and what he reviewed.",
+      "transcript_snippet": "but in terms of the accounting specifics, he trusted his lieutenants.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13774",
+      "ref": "C-13774",
+      "label": "Host Says TPUSA Clears About 100 Million Dollars a Year",
+      "claim": "The host says Turning Point USA is clearing about 100 million dollars a year.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10078"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:19:13",
+      "investigative_direction": "Check TPUSA's Form 990 filings for annual revenue.",
+      "transcript_snippet": "you're clearing $100 million a year, you got to have lieutenants, and you have to trust those lieutenants.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13775",
+      "ref": "C-13775",
+      "label": "Host Says Charlie Felt the Money Was Disappearing and the Excuses Did Not Add Up",
+      "claim": "The host says that, allegedly, Charlie came to feel that money was disappearing and that the excuses he was given did not add up, and that she thinks there is some proof of it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10132",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:19:35",
+      "investigative_direction": "Obtain the proof the host says she holds and identify to whom Charlie put the questions.",
+      "transcript_snippet": "the excuses that he was being given for the money disappearing wasn't adding up for Charlie.",
+      "supports_claim_refs": [
+        "C-1286"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13776",
+      "ref": "C-13776",
+      "label": "Host Says Per Sources Charlie Felt TPUSA Was Burning Through Cash Too Quickly",
+      "claim": "The host says, according to sources, that Charlie felt the company was burning through cash too quickly and set out to find out why and how.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10132",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:19:41",
+      "investigative_direction": "Compare TPUSA's expenditure growth in 2025 with the claim that cash was being spent too quickly.",
+      "transcript_snippet": "according to sources that the company was burning through cash too quickly and Charlie said about finding out why and how this was happening.",
+      "supports_claim_refs": [
+        "C-1286"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13777",
+      "ref": "C-13777",
+      "label": "Host Says Charlie Surprised the Company on September 2 by Announcing a DOGE Department",
+      "claim": "The host says that on September 2, one week before his death, Charlie surprised the company by announcing that he was putting together a DOGE department.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10434",
+        "N-10132",
+        "N-10130"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:20:01",
+      "investigative_direction": "Establish who received the announcement, how staff reacted and whether the DOGE team was ever staffed.",
+      "transcript_snippet": "Charlie surprised the company uh by announcing that he was putting together a Doge department.",
+      "supports_claim_refs": [
+        "C-3632"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-119",
+        "N-120"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13778",
+      "ref": "C-13778",
+      "label": "Memo Says Streiff Has Led the Fundraising Division Since Joining TPUSA in 2020",
+      "claim": "Reading the September 2 memo, the host says it states that since joining TPUSA in 2020 Justin Streiff has led the fundraising division and in recent years has been involved in organizational operations, filling the COO role in many ways before the title became official.",
+      "anchored_artifacts": [
+        "A-1162.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:21:19",
+      "investigative_direction": "Obtain the memo and compare Streiff's described role with TPUSA's filings and staff listings.",
+      "transcript_snippet": "Justin has led Turning Point's fundraising division and in more recent years has been involved in some organizational operations,",
+      "supports_claim_refs": [
+        "C-3632"
+      ],
+      "mentions_person_refs": [
+        "N-15",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13779",
+      "ref": "C-13779",
+      "label": "Host Says the Memo Suggests the Insider Tips Are Accurate",
+      "claim": "The host says that with the rumors she is hearing, the memo showing Charlie assembling a small team to look at money and efficiency suggests that the tips she receives from insiders are accurate.",
+      "anchored_artifacts": [
+        "A-1162.1"
+      ],
+      "related_nodes": [
+        "N-10132",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:20",
+      "investigative_direction": "Test whether the memo's efficiency language reflects a financial concern or routine reorganization by comparing with TPUSA staff accounts.",
+      "transcript_snippet": "all of these tips that we are receiving from insiders is accurate.",
+      "supports_claim_refs": [
+        "C-1286"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13780",
+      "ref": "C-13780",
+      "label": "Host Says There Were Contractors Taking Money Both Ways and Cutting Deals",
+      "claim": "The host says what she understands is that there were a lot of contractors and other people at TPUSA taking money both ways and cutting deals, and that the money simply looked funny.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11371",
+        "N-10132",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:27",
+      "investigative_direction": "Identify the contractors and review vendor contracts and payments for dual compensation.",
+      "transcript_snippet": "there were a lot of contractors and people essentially who were taking money both ways um who were bringing in money and cutting deals",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13781",
+      "ref": "C-13781",
+      "label": "Host Says She Has Been Shown Astonishing Preliminary Findings From Forensic Accountants",
+      "claim": "The host says journalists and forensic accountants have been hired to examine the finances, and that the preliminary findings she has been shown are quite astonishing.",
+      "anchored_artifacts": [
+        "A-3278.2"
+      ],
+      "related_nodes": [
+        "N-10132",
+        "N-10078"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:01",
+      "investigative_direction": "Obtain the preliminary findings and identify the accountants and their mandate.",
+      "transcript_snippet": "the preliminary findings are quite astonishing. Okay. And I will say this, my sources at Turning Point said something that I found",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13782",
+      "ref": "C-13782",
+      "label": "Host Says Her Sources Report Charlie Was Concerned About Where the Money Was Coming From",
+      "claim": "The host says her sources at Turning Point told her Charlie was concerned not just about where the money was going but also about where it was coming from.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10132",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:16",
+      "investigative_direction": "Identify the donors or companies Charlie questioned and the basis for his concern.",
+      "transcript_snippet": "but also where the money was coming from, where the money was coming from.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13783",
+      "ref": "C-13783",
+      "label": "Host Offers That Companies Flooding the Zone With Money Were the Concern",
+      "claim": "The host offers a possible meaning of the concern about where money came from: companies flooding the zone with money in order to gain more influence, about which Charlie had questions.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10132",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:23:29",
+      "investigative_direction": "Identify the corporate donors and the influence they sought.",
+      "transcript_snippet": "Either speaking about companies that were kind of flooding the zone with money so they could have more influence,",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13784",
+      "ref": "C-13784",
+      "label": "Host Says It Sounds Like Some People Were Double Agents Earning Commissions on Both Sides of a Contract",
+      "claim": "The host says it sounds like there were people at TPUSA who were effectively double agents making money on commissions on both sides of a contract.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11371",
+        "N-10132",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:34",
+      "investigative_direction": "Identify the contracts and review whether any intermediary was paid by both the organization and the counterparty.",
+      "transcript_snippet": "It sounds like there were people who were effectively double agents making money on commissions on both sides of a contract.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13785",
+      "ref": "C-13785",
+      "label": "Host Says Reports From Others Examining This Will Come Out Next Week",
+      "claim": "The host says she will allow reports from other people who have seized on the TPUSA finance question to come out the following week.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10132",
+        "N-10078"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:42",
+      "investigative_direction": "Monitor for the reports and identify their authors.",
+      "transcript_snippet": "I'm going to allow um the reports to come out next week that people who have really seized upon that and are looking at things.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13786",
+      "ref": "C-13786",
+      "label": "Host Says She Met the Riverbend Ranch CEO With Charlie Years Ago",
+      "claim": "The host says she met the CEO of Riverbend Ranch when she was with Charlie years ago and that they went out to meet him.",
+      "anchored_artifacts": [
+        "A-1168.1"
+      ],
+      "related_nodes": [
+        "N-10124"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:24:12",
+      "investigative_direction": "Confirm the meeting date with Riverbend Ranch.",
+      "transcript_snippet": "I met the CEO of this company when I was with Charlie years ago and we went out to meet him.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-124"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13787",
+      "ref": "C-13787",
+      "label": "Range Day Bro Says a Bullet Trail Is Visible and Lines Up With the Gunshot",
+      "claim": "In the clip, Range Day Bro says the same video shows what appears to be the bullet coming down, and that it lines up with the gunshot itself; the host introduces his argument as showing a muzzle flash.",
+      "anchored_artifacts": [
+        "A-1163.1"
+      ],
+      "related_nodes": [
+        "N-10136"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:26:56",
+      "investigative_direction": "Frame-by-frame review of the original video, with the audio waveform, to test the alignment.",
+      "transcript_snippet": "you can see the same what appears to be the bullet coming down and it does line up with the actual gunshot itself.",
+      "mentions_person_refs": [
+        "N-122",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13788",
+      "ref": "C-13788",
+      "label": "Range Day Bro Says a Marine Friend's Video Shows the Angle of the Shot and an Entry and Exit Wound",
+      "claim": "In the clip, Range Day Bro says a video made by a Marine friend shows the angle the shot came from and the circled area of Charlie's neck, with an exit wound following a split second after as from an entry and exit wound.",
+      "anchored_artifacts": [
+        "A-1163.2"
+      ],
+      "related_nodes": [
+        "N-10136"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:33",
+      "investigative_direction": "Obtain the Marine friend's video and the autopsy or wound-description records.",
+      "transcript_snippet": "So you'll see him circle the highlighted area right there and you'll see the exit wound corresponding after split second after as it would from an entry and exit wound.",
+      "mentions_person_refs": [
+        "N-122",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13789",
+      "ref": "C-13789",
+      "label": "Range Day Bro Says Charlie Was Shot From the Back With Blood Splatter From an Entry Wound",
+      "claim": "In the clip, Range Day Bro says the footage clearly shows Charlie shot from his back, with blood splatter coming out of the entry wound.",
+      "anchored_artifacts": [
+        "A-1163.2"
+      ],
+      "related_nodes": [
+        "N-10136"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:44",
+      "investigative_direction": "Compare against the autopsy or medical findings on entry and exit wounds and against multiple-angle footage.",
+      "transcript_snippet": "So in this footage you can clearly see that Charlie is shot from his back right and there is blood splatter coming out of the entry wound.",
+      "mentions_person_refs": [
+        "N-122",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13790",
+      "ref": "C-13790",
+      "label": "Host Says Her Clearer Front Footage Shows the Necklace Breaking and Whipping Up",
+      "claim": "The host says her clearer footage from the front shows the necklace going first, appearing to break and then whip up, and that this is what Range Day Bro read as blood splatter.",
+      "anchored_artifacts": [
+        "A-1163.2"
+      ],
+      "related_nodes": [
+        "N-10537"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:12",
+      "investigative_direction": "Obtain the frontal footage and the necklace itself, if recovered, to check the break point and timing.",
+      "transcript_snippet": "the necklace goes first and it I'm if I'm looking at it, it looks like it breaks from here and then it comes up and it whips up.",
+      "supports_claim_refs": [
+        "C-1288"
+      ],
+      "mentions_person_refs": [
+        "N-122",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13791",
+      "ref": "C-13791",
+      "label": "Host Says the Window in Question Is in the Flag Hall Zone Where the Runner Footage Was Filmed",
+      "claim": "The host says the window Range Day Bro points to is in the zone called the flag hall, which is where the person filmed the rooftop footage, on the other side of where the runner was seen, basically above the underpass.",
+      "anchored_artifacts": [
+        "A-1166.1"
+      ],
+      "related_nodes": [
+        "N-10136"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:49",
+      "investigative_direction": "Obtain a site plan of the UVU flag hall and the underpass and verify the filming position.",
+      "transcript_snippet": "that window is from that zone which they call like the flag hall which is where that person actually shot the footage.",
+      "supports_claim_refs": [
+        "C-1287"
+      ],
+      "mentions_person_refs": [
+        "N-122",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13792",
+      "ref": "C-13792",
+      "label": "Host Says She Has Not Been Able to Debunk the Suspicious-Bush Element and Is Sending Someone",
+      "claim": "The host says she has not been able to debunk the suspicious-bush element of Range Day Bro's video and is sending someone to the site to get similar footage.",
+      "anchored_artifacts": [
+        "A-1163.3"
+      ],
+      "related_nodes": [
+        "N-10137"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:28",
+      "investigative_direction": "Obtain the host's on-site photographs and compare them with the original footage.",
+      "transcript_snippet": "this part I have not been able to debunk, but I am sending someone there to get me similar footage,",
+      "mentions_person_refs": [
+        "N-122",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13793",
+      "ref": "C-13793",
+      "label": "Range Day Bro Says the Bush Contains a Human Head, Hair and an AR-15 With an Optic",
+      "claim": "In the clip, Range Day Bro says the bush in the top left of the photo shows a human skin tone, a human head and hair, and a rifle in the crucifix shape of an AR-15 with a mounted optic.",
+      "anchored_artifacts": [
+        "A-1163.3"
+      ],
+      "related_nodes": [
+        "N-10137"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:30:09",
+      "investigative_direction": "Compare the original unblurred photo with on-site photography from the same angle and lighting.",
+      "transcript_snippet": "this correlates with a human head and hair and a rifle in the exact kind of crucifix shape of an AR-15 with an optic on it mounted up.",
+      "mentions_person_refs": [
+        "N-122"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13794",
+      "ref": "C-13794",
+      "label": "Host Says a Commenter Tip Claimed the Doorbell Footage Was Intentionally Presented Only Partially",
+      "claim": "The host says that during the comment section the day before, a young woman gave a tip that the doorbell footage was intentionally presented to the public only partially.",
+      "anchored_artifacts": [
+        "A-1167.1"
+      ],
+      "related_nodes": [
+        "N-10135",
+        "N-10052"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:11",
+      "investigative_direction": "Identify the tipster and the full doorbell footage and compare it with the released clip.",
+      "transcript_snippet": "that doorbell footage was intentionally presented to the public only partially.",
+      "supports_claim_refs": [
+        "C-1294"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13795",
+      "ref": "C-13795",
+      "label": "Host Says She Has Established Contact With the Doorbell Tipster and Calls It a Solid Lead",
+      "claim": "The host says she has established a connection with the doorbell-footage tipster and calls it a solid lead that will become more interesting as to who is involved in a cover-up.",
+      "anchored_artifacts": [
+        "A-1167.1"
+      ],
+      "related_nodes": [
+        "N-10135"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:41",
+      "investigative_direction": "Corroborate the tipster's identity and her access to the footage.",
+      "transcript_snippet": "I have established connection with that individual and it's a solid lead",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13796",
+      "ref": "C-13796",
+      "label": "Host Says a Utah Person Was Involved in the Local Cover-Up",
+      "claim": "The host says the lead points to who was involved locally in the cover-up, a Utah person, which she calls another fascinating piece of the puzzle.",
+      "anchored_artifacts": [
+        "A-1167.1"
+      ],
+      "related_nodes": [
+        "N-10135",
+        "N-10133"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:53",
+      "investigative_direction": "Identify the person and the role they played in the handling of the doorbell footage.",
+      "transcript_snippet": "a Utah person involved in that cover up, which is another piece of this puzzle that I find to be fascinating.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13797",
+      "ref": "C-13797",
+      "label": "Host Says Fundraising Emails and Texts After Charlie's Death Drew Criticism as Fundraising Off His Death",
+      "claim": "The host says a fundraising email and text messages went out and that people found them distasteful and like fundraising off of Charlie's death.",
+      "anchored_artifacts": [
+        "A-3279.1"
+      ],
+      "related_nodes": [
+        "N-11097",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:32:16",
+      "investigative_direction": "Obtain the emails and texts and their send dates and senders.",
+      "transcript_snippet": "a fundraising email and text messages went out and people found it to be distasteful and like a fundraising off of his death.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13798",
+      "ref": "C-13798",
+      "label": "Host Says Erika Is CEO and Chairman of a Company That Got Bigger Than Charlie",
+      "claim": "The host says Erika is stepping into a role as CEO and chairman of a company that, by everything she understands and from having been there, got bigger than Charlie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:39",
+      "investigative_direction": "Verify Erika Kirk's titles and the date they took effect.",
+      "transcript_snippet": "a CEO and the chairman of a company, a company that got bigger than Charlie by everything that I am understanding and just having been there,",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13799",
+      "ref": "C-13799",
+      "label": "Host Says the Fundraising Emails Were Not Written by Erika Kirk",
+      "claim": "The host says the fundraising emails people saw were not written by Erika Kirk and were produced by an entire department.",
+      "anchored_artifacts": [
+        "A-3279.1"
+      ],
+      "related_nodes": [
+        "N-11097",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:32:52",
+      "investigative_direction": "Identify the TPUSA staff or vendor who authored and approved the messages.",
+      "transcript_snippet": "those emails that you saw are tech that was not written by Erika Kirk.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13800",
+      "ref": "C-13800",
+      "label": "Host Says Fundraising Emails Have Gone Out With Her Face and Name That She Did Not Author",
+      "claim": "The host says she has had fundraising emails go out with her face and her name on them that she did not author, and that such emails are the work of an entire department.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11097"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:58",
+      "investigative_direction": "Compare with known fundraising emails bearing the host's name.",
+      "transcript_snippet": "I've had fundraising emails go out with my face and my name on them.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13801",
+      "ref": "C-13801",
+      "label": "Host Says Erika Has Not Said Anything to Her That Makes Her Suspicious",
+      "claim": "The host says Erika Kirk has not come out and said anything to her that makes her suspicious.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:18",
+      "investigative_direction": "Compare with Erika Kirk's later statements and the host's later assessments of them.",
+      "transcript_snippet": "She has not come out and said anything to me that makes her suspicious",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13802",
+      "ref": "C-13802",
+      "label": "Host Says Fundraising Decisions Like These Are Not Made by Erika",
+      "claim": "The host says the decisions behind the fundraising emails are not made by Erika, which she says is what it means to step into a company of that size and scale.",
+      "anchored_artifacts": [
+        "A-3279.1"
+      ],
+      "related_nodes": [
+        "N-11097",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:50",
+      "investigative_direction": "Identify who approves fundraising campaigns at TPUSA after September 10.",
+      "transcript_snippet": "those decisions are not made by Erika that that's what it means to step into a company of that size and that scale.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13803",
+      "ref": "C-13803",
+      "label": "Host Says Erika Consulted a Priest and Prayed When She Felt Someone Had Put a Hex on Charlie",
+      "claim": "The host says Erika is a woman who consulted a priest and prayed when she felt that somebody had put a hex on her husband.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10117"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:34:35",
+      "investigative_direction": "Identify the priest and the date, and compare with Erika's own accounts of the hex.",
+      "transcript_snippet": "This is a a woman who consulted a priest and prayed when she felt that somebody had put a hex on her husband.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13804",
+      "ref": "C-13804",
+      "label": "Host Says Charlie Was Very Happy With Erika",
+      "claim": "The host says that, though she is not in their marriage, she knows Charlie was very happy with Erika.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:35:02",
+      "investigative_direction": "Compare with accounts from others close to the couple.",
+      "transcript_snippet": "I know that Charlie was very happy with Erika.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13805",
+      "ref": "C-13805",
+      "label": "Host Says Erika Pushed Charlie to Think Through His Ideas",
+      "claim": "The host says Erika was a reason Charlie thought through his ideas and what he believed, pushing him to do so as women do.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:35:10",
+      "investigative_direction": "Compare with accounts from others close to the couple.",
+      "transcript_snippet": "to really think through his ideas and think through what it was that he believed in one way or the other.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13806",
+      "ref": "C-13806",
+      "label": "Host Says Neither She Nor Charlie Was Married When They Traveled Together",
+      "claim": "The host says that neither she nor Charlie was married when they were hitting the road together, so she did not have the same relationship with Erika that she had with Charlie.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:35:22",
+      "investigative_direction": "Compare the dates of the host's and Charlie's marriages with their travel together.",
+      "transcript_snippet": "neither he or I were married when we were hitting the road together.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13807",
+      "ref": "C-13807",
+      "label": "Host Says She Has Read That Her Husband Is a Freemason and Her Marriage Is Fake and Staged",
+      "claim": "The host says she has read claims that her husband is Jewish, that he is a Freemason, and that her marriage is fake and staged.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:35:49",
+      "investigative_direction": "None; the host reports claims made about her.",
+      "transcript_snippet": "I've read that my husband is a Freemason. I've read that our marriage is fake and staged.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13808",
+      "ref": "C-13808",
+      "label": "Host Says She Has Read That She Is Funded by Russia, Qatar and Andrew Tate",
+      "claim": "The host says she has read claims that she is funded by Russia, Qatar and Andrew Tate, and that the Tate claim rests on the fact that her husband knew him before he met her, which she says means absolutely nothing.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:35:53",
+      "investigative_direction": "None; the host reports claims made about her.",
+      "transcript_snippet": "I'm funded by Andrew Tate because Andrew Tate is also from the UK and my husband knew him before he met me,",
+      "mentions_person_refs": [
+        "N-3",
+        "N-173"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13809",
+      "ref": "C-13809",
+      "label": "Host Says Many Pastors Around Charlie Were Not Honest About Being Financially Motivated",
+      "claim": "The host says that a lot of the pastors around Charlie were not exactly honest about whether they were financially motivated to say certain things, and that Christian and Jewish organizations and funds coming together have been interesting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10139",
+        "N-10078"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:38:33",
+      "investigative_direction": "Identify the pastors and review their financial ties to TPUSA and related funders.",
+      "transcript_snippet": "I think there were a lot of pastors that were around Charlie who weren't exactly honest about uh whether or not they were financially motivated to say some certain things.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13810",
+      "ref": "C-13810",
+      "label": "Host Says Operation Mocking Pastor Is a Real Thing",
+      "claim": "The host says Operation Mocking Pastor is a real thing, in the context of pastors around Charlie and the funds behind the organizations.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10139"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:38:49",
+      "investigative_direction": "Ask the host to define the alleged operation and name the documents or sources behind it.",
+      "transcript_snippet": "Operation Mocking Pastor is a real thing.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13811",
+      "ref": "C-13811",
+      "label": "Taylor Lorenz Wrote That Candace Is the Only Right-Wing Figure Who Seems Genuinely Devastated",
+      "claim": "The host reads an X post she attributes to Taylor Lorenz saying it is wild that Candace is the only right-wing figure she has seen posting in a way that seems genuinely devastated to lose Charlie as a friend.",
+      "anchored_artifacts": [
+        "A-3276.3"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:40:06",
+      "investigative_direction": "Locate the Taylor Lorenz post on X and confirm its text and date.",
+      "transcript_snippet": "It's wild that Candace is the only right-wing wing figure that I've seen posting in a way where she seems genuinely devastated to lose Charlie as a friend.",
+      "mentions_person_refs": [
+        "N-121",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13812",
+      "ref": "C-13812",
+      "label": "Viewer Comment Says an Amazon Listing From September 9 for a Book About Charlie Had Accurate Details of the 10th",
+      "claim": "A viewer comment read by the host says there was an Amazon listing from September 9 for a book about Charlie with details that were pretty accurate about what happened on the 10th, and that the commenter has a screenshot supposedly verified.",
+      "anchored_artifacts": [
+        "A-3276.1"
+      ],
+      "related_nodes": [
+        "N-10140"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:40:41",
+      "investigative_direction": "Obtain the Amazon listing history (page capture, ASIN record) and the publisher's account of the date error.",
+      "transcript_snippet": "which were pretty accurate, of what happened on the 10th. I have a picture of a screenshot supposedly verified.",
+      "supports_claim_refs": [
+        "C-1195"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13813",
+      "ref": "C-13813",
+      "label": "Host Says Amazon Said the Listing Was a Technical Error and She Did Not Look Into It",
+      "claim": "The host says she thinks Amazon came out and said the listing was a technical error, and that she did not look into it because she wanted to keep the pressure on the feds for information about the day.",
+      "anchored_artifacts": [
+        "A-3276.1"
+      ],
+      "related_nodes": [
+        "N-10140"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:40:46",
+      "investigative_direction": "Find Amazon's public statement and any publisher explanation of the listing date.",
+      "transcript_snippet": "I think Amazon came out and said that it was a technical error",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13814",
+      "ref": "C-13814",
+      "label": "Host Tells Viewers With Other Rooftop Footage to Send It to the Tips Address",
+      "claim": "In reply to a viewer asking what she would do with footage of someone else on the rooftop, the host says to send it to the tips address and notes that they are inundated.",
+      "anchored_artifacts": [
+        "A-3277.1"
+      ],
+      "related_nodes": [
+        "N-10133"
+      ],
+      "tags": [
+        "relevance:context",
+        "calls_for_tips",
+        "submissions_to_candace"
+      ],
+      "claim_timestamp": "00:42:28",
+      "investigative_direction": "Count the footage submissions received and which were verified.",
+      "transcript_snippet": "You can send it to us tips. com. You're inundated, guys.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13815",
+      "ref": "C-13815",
+      "label": "Host Says the Tips Inbox Is So Full It Takes a Lot of Time and Should Be Kept for Actual Tips",
+      "claim": "The host says the tips inbox is getting so full that it takes a lot of time to go through, and asks that the tips line be kept for actual tips related to the investigation, with videos and general comments going to social media instead.",
+      "anchored_artifacts": [
+        "A-3277.2"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context",
+        "calls_for_tips",
+        "submissions_to_candace"
+      ],
+      "claim_timestamp": "00:42:53",
+      "investigative_direction": "Ask the host for tip volumes and how tips are triaged.",
+      "transcript_snippet": "our tips inbox is getting so full that it's taking us a lot of time to go through it.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13816",
+      "ref": "C-13816",
+      "label": "Host Agrees Etchings on Bullet Casings Look Suspect and Like a Government Signature",
+      "claim": "Responding to a viewer comment about etchings on bullet casings found at recent violent crimes, the host says she agrees it is very suspect and that it is starting to feel like a government signature.",
+      "anchored_artifacts": [
+        "A-3276.2"
+      ],
+      "related_nodes": [
+        "N-10138"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:24",
+      "investigative_direction": "Compile the documented cases of inscribed casings and the investigating agencies' statements on them.",
+      "transcript_snippet": "You and this both agree that that is very suspect. Like I said, it's starting to feel like a government signature a little bit,",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13817",
+      "ref": "C-13817",
+      "label": "Host Replies That Is Correct to a Commenter Saying Erika Would Have Stopped Her by Now If She Disagreed",
+      "claim": "A viewer comment read by the host assumes Erika also thinks all of this is weird or she would have stopped Candace by now; the host replies that is correct.",
+      "anchored_artifacts": [
+        "A-3276.4"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:40",
+      "investigative_direction": "Compare with any message exchange between Erika and the host and with Erika's later public statements about the host.",
+      "transcript_snippet": "or she would have stopped you by now.\" All love. That is correct.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13818",
+      "ref": "C-13818",
+      "label": "Host Says Erika Has Her Number and Recently Started Following Her",
+      "claim": "The host says Erika Kirk has her phone number and recently started following the host on social media.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:44",
+      "investigative_direction": "Check the platform and date on which Erika's account started following the host.",
+      "transcript_snippet": "Erika has my number. Erika actually recently started following me.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13819",
+      "ref": "C-13819",
+      "label": "Host Says She Unfollowed Everyone Around Her Book Announcement and Did Not Refollow",
+      "claim": "The host says she unfollowed everybody when she announced her book and did not start refollowing people on her social media pages, which is why she follows very few accounts, and that critics pointed out she did not follow Charlie.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:43:53",
+      "investigative_direction": "Check the host's following list history against the book announcement date.",
+      "transcript_snippet": "I unfollowed everybody and then I didn't start refollowing people on all my social media pages.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13820",
+      "ref": "C-13820",
+      "label": "Host Says Erika Has Not Lied Publicly or Asked Her to Stay Quiet",
+      "claim": "The host says that if Erika had told her not to say anything, or had lied publicly, for example by saying Charlie was not attending mass, she would find it weird, but that Erika is not doing that.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:44:27",
+      "investigative_direction": "Compare with later Erika Kirk statements and the host's later claims about inconsistencies.",
+      "transcript_snippet": "Why is she massaging?\" But she's not doing that.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13821",
+      "ref": "C-13821",
+      "label": "Host Asks Police Officers and Federal Employees to Email Tips to the Tips Address",
+      "claim": "The host asks anyone with something pertaining to the investigation, including people who were there, police officers and federal or government employees who know she is telling the truth, to email tips to the tips address (transcribed as candacewowens. com).",
+      "anchored_artifacts": [
+        "A-3277.3"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context",
+        "calls_for_tips",
+        "submissions_to_candace"
+      ],
+      "claim_timestamp": "00:45:15",
+      "investigative_direction": "Ask the host how many substantiated tips from officers or federal employees have been received.",
+      "transcript_snippet": "please email us tips at candacewowens. com.",
+      "confidence": "medium",
+      "uncertainty_note": "Likely variant extension of 'Trust the Science' meme pattern applied to a different authority; not a verbatim M-3 deployment.",
+      "mentions_person_refs": [
+        "N-3"
       ]
     }
   ],
@@ -1777,6 +4334,238 @@
           "tags": [
             "self_defense",
             "rhetorical_reframe"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-13",
+      "ref": "M-13",
+      "canonical_term": "Fake and Gay",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 10,
+          "video_timestamp": "00:12:10",
+          "speaker_node_ref": "N-3",
+          "quote": "Some of it felt a little cheap and fake and gay",
+          "context": "Host applies Fake and Gay to cheap eulogizing after Charlie Kirk's death.",
+          "confidence": "high",
+          "tags": [
+            "catchphrase",
+            "memorial_tone"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-39",
+      "ref": "M-39",
+      "canonical_term": "Same Energy",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 10,
+          "video_timestamp": "00:17:18",
+          "speaker_node_ref": "N-3",
+          "quote": "you're still going to have that same energy behind you.",
+          "context": "Host warns that swapping faces does not keep the same movement energy.",
+          "confidence": "high",
+          "tags": [
+            "vibe",
+            "chat_elevate",
+            "comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-14",
+      "ref": "M-14",
+      "canonical_term": "Candace Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 10,
+          "video_timestamp": "00:45:24",
+          "speaker_node_ref": "N-3",
+          "quote": "k club, learn about vaccines if you're a parent, or buy yourself some CIA merch so that we can be arrested by Laura Loomer and her tweets reported ...",
+          "context": "CIA merch / Candace Intelligence Agency bit. (CKA seq 10)",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "pass2"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 10,
+          "video_timestamp": "00:42:28",
+          "speaker_node_ref": "N-3",
+          "quote": "You can send it to us tips. com.",
+          "context": "Host tells a viewer to send rooftop footage to the tips address.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips"
+          ]
+        },
+        {
+          "episode": 10,
+          "video_timestamp": "00:42:44",
+          "speaker_node_ref": "N-3",
+          "quote": "the tips line we want to keep for actual tips related to this investigation.",
+          "context": "Host explains the tips line is for actual investigation tips and the inbox is overflowing.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips"
+          ]
+        },
+        {
+          "episode": 10,
+          "video_timestamp": "00:45:15",
+          "speaker_node_ref": "N-3",
+          "quote": "please email us tips at candacewowens. com.",
+          "context": "Host asks insiders, police and federal employees to email tips.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-75",
+      "ref": "M-75",
+      "canonical_term": "I'll Say Allegedly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 10,
+          "video_timestamp": "00:19:29",
+          "speaker_node_ref": "N-3",
+          "quote": "Allegedly. I'll say allegedly here, but I think we have some proof that shows that.",
+          "context": "Host hedges the claim that Charlie felt money was disappearing.",
+          "confidence": "high",
+          "tags": [
+            "allegedly",
+            "hedge"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-77",
+      "ref": "M-77",
+      "canonical_term": "Operation Mocking Pastor",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 10,
+          "video_timestamp": "00:38:49",
+          "speaker_node_ref": "N-3",
+          "quote": "Operation Mocking Pastor is a real thing.",
+          "context": "Host asserts the coinage in the context of pastors around Charlie.",
+          "confidence": "high",
+          "tags": [
+            "mocking pastor"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-82",
+      "ref": "M-82",
+      "canonical_term": "Make That Make Sense",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 10,
+          "video_timestamp": "00:14:16",
+          "speaker_node_ref": "N-3",
+          "quote": "Make it make sense for me.",
+          "context": "Host demands an explanation for the feds not contacting the footage filmer.",
+          "confidence": "high",
+          "tags": [
+            "make sense"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-294",
+      "ref": "M-294",
+      "canonical_term": "Lie by Omission",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 10,
+          "video_timestamp": "00:02:41",
+          "speaker_node_ref": "N-3",
+          "quote": "I believe that there are lies by omission and I view them both to be liars.",
+          "context": "Host says Hammer and Dillon lie by omission about the pressure on Charlie.",
+          "confidence": "high",
+          "tags": [
+            "lie by omission"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-318",
+      "ref": "M-318",
+      "canonical_term": "A Lie Always Has to Sprint",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 10,
+          "video_timestamp": "00:38:59",
+          "speaker_node_ref": "N-3",
+          "quote": "a lie always has to sprint,",
+          "context": "Host says a lie must sprint because it is fearful, while the truth does not care.",
+          "confidence": "high",
+          "tags": [
+            "aphorism",
+            "truth"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-319",
+      "ref": "M-319",
+      "canonical_term": "The Math Wasn't Mathing",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 10,
+          "video_timestamp": "00:19:41",
+          "speaker_node_ref": "N-3",
+          "quote": "Said another way, the math wasn't mathing.",
+          "context": "Host restates that the excuses for the missing money did not add up.",
+          "confidence": "high",
+          "tags": [
+            "math",
+            "finance"
           ]
         }
       ]

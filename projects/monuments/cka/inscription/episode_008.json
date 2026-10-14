@@ -2253,7 +2253,7 @@
       "@type": "Claim",
       "@id": "C-12002",
       "ref": "C-12002",
-      "label": "Host Says Calera Engineering Employees Live on the Block",
+      "label": "Host Says Caldera Engineering Employees Live on the Block",
       "claim": "The host says her re-examination of the early witnesses led her to Caldera Engineering (transcribed Calera/Calira), whose owner owned a couple of houses on that block, and that many of its employees live on that block.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2266,7 +2266,7 @@
       ],
       "claim_timestamp": "00:02:43",
       "investigative_direction": "Check property records for the block and the Caldera Engineering owner's holdings and the employer addresses of the witnesses; compare with the earlier Caldera findings.",
-      "transcript_snippet": "And we found out that Calera Engineering, a lot of the employees live on that block.",
+      "transcript_snippet": "And we found out that Caldera Engineering, a lot of the employees live on that block.",
       "mentions_person_refs": [
         "N-3"
       ]

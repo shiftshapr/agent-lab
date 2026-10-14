@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: a4b004904bed5ceab067f894a05093601d086cf7f62b1dfdc6ccb961cbb2d709
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-11313, N-11314
-  - Hole-minted Nodes (reintro-ep154): N-10872, N-10873
+  - Tip-minted Nodes (supplement_2026-10e): N-11314
+  - Hole-minted Nodes (reintro-ep154): N-10872
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11804–C-11858
-  - New Nodes Introduced: N-10841, N-10842, N-10843, N-10844, N-10845, N-10846
-  - Reused Nodes Appearing: N-2, N-14, N-22, N-162, N-25, N-10840, N-18, N-69, N-275, N-334, N-595, N-599, N-739, N-10000, N-10003, N-10012, N-10028, N-10071, N-10075, N-10533, N-11057, N-11147, N-11221, N-11246, N-11312
+  - New Nodes Introduced: N-10841, N-10842, N-10843, N-10844, N-10846
+  - Reused Nodes Appearing: N-2, N-14, N-22, N-162, N-25, N-10840, N-18, N-69, N-275, N-334, N-595, N-599, N-739, N-10000, N-10003, N-10012, N-10028, N-10071, N-10075, N-10533, N-11057, N-11147, N-11221, N-11246, N-11312, N-10845, N-10873, N-11313
 
 ---
 

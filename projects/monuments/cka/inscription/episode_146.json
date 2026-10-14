@@ -71,7 +71,7 @@
           "@type": "Artifact",
           "@id": "A-2322.1",
           "ref": "A-2322.1",
-          "description": "Jack Hibbs interview with Frank Churik – brother Butch's night-before UVU ticket request and pre-event photo",
+          "description": "Jack Hibbs interview with Frank Turek – brother Butch's night-before UVU ticket request and pre-event photo",
           "related_claims": [
             "C-3347",
             "C-3355"
@@ -88,7 +88,7 @@
           "@type": "Artifact",
           "@id": "A-2322.2",
           "ref": "A-2322.2",
-          "description": "Jack Hibbs interview with Frank Churik – FaceTime sequence, Mikey McCoy call, \"cousin Charlie\" confusion, 12:30 PM prayer chain claim",
+          "description": "Jack Hibbs interview with Frank Turek – FaceTime sequence, Mikey McCoy call, \"cousin Charlie\" confusion, 12:30 PM prayer chain claim",
           "related_claims": [
             "C-3349",
             "C-3350",
@@ -443,7 +443,7 @@
       "ref": "N-10818",
       "name": "Jack Hibbs Sequence-of-Events Discrepancy",
       "type": "investigation_target",
-      "description": "Persistent discrepancy in Jack Hibbs's accounts: (a) who called him first (Mikey McCoy vs. Frank Churik), (b) \"cousin Charlie\" misidentification in the immediate post-shooting call, (c) 12:30 PM prayer-chain timestamp reportedly only ~7 minutes after the shooting.",
+      "description": "Persistent discrepancy in Jack Hibbs's accounts: (a) who called him first (Mikey McCoy vs. Frank Turek), (b) \"cousin Charlie\" misidentification in the immediate post-shooting call, (c) 12:30 PM prayer-chain timestamp reportedly only ~7 minutes after the shooting.",
       "related_artifacts": [
         "A-2322.2"
       ],
@@ -1827,7 +1827,7 @@
       "@id": "C-3347",
       "ref": "C-3347",
       "label": "Jack Hibbs stated his brother Butch called him the night before 9/10 to request a UVU ticket",
-      "claim": "In an interview with Frank Churik, Jack Hibbs described receiving a call from his brother Butch the night before the UVU event, asking to attend and be introduced to Charlie Kirk.",
+      "claim": "In an interview with Frank Turek, Jack Hibbs described receiving a call from his brother Butch the night before the UVU event, asking to attend and be introduced to Charlie Kirk.",
       "anchored_artifacts": [
         "A-2322.1"
       ],
@@ -1863,8 +1863,8 @@
       "@type": "Claim",
       "@id": "C-3349",
       "ref": "C-3349",
-      "label": "Jack Hibbs stated that Mikey McCoy called him before the FaceTime with Frank Churik",
-      "claim": "In a second interview clip with Frank Churik, Jack Hibbs stated he first received a call from Mikey McCoy, who said \"get everyone in the world praying,\" before the FaceTime with Churik began.",
+      "label": "Jack Hibbs stated that Mikey McCoy called him before the FaceTime with Frank Turek",
+      "claim": "In a second interview clip with Frank Turek, Jack Hibbs stated he first received a call from Mikey McCoy, who said \"get everyone in the world praying,\" before the FaceTime with Churik began.",
       "anchored_artifacts": [
         "A-2322.2"
       ],
@@ -1882,7 +1882,7 @@
       "@id": "C-3350",
       "ref": "C-3350",
       "label": "Jack Hibbs initially confused Charlie Kirk with a relative named \"cousin Charlie\"",
-      "claim": "During the FaceTime with Frank Churik, Jack Hibbs described briefly believing his brother was reporting that a cousin named Charlie – not Charlie Kirk – had been shot.",
+      "claim": "During the FaceTime with Frank Turek, Jack Hibbs described briefly believing his brother was reporting that a cousin named Charlie – not Charlie Kirk – had been shot.",
       "anchored_artifacts": [
         "A-2322.2"
       ],
@@ -1975,7 +1975,7 @@
       "@id": "C-3355",
       "ref": "C-3355",
       "label": "A prayer chain / coordinated Calvary Chapel communication may have begun during the active emergency window",
-      "claim": "Jack Hibbs's account suggests multiple Calvary Chapel-affiliated individuals (Mikey McCoy, Frank Churik via FaceTime, Butch Hibbs via phone) were in communication within minutes of the shooting, consistent with a coordinated prayer-chain response beginning around 12:30 PM.",
+      "claim": "Jack Hibbs's account suggests multiple Calvary Chapel-affiliated individuals (Mikey McCoy, Frank Turek via FaceTime, Butch Hibbs via phone) were in communication within minutes of the shooting, consistent with a coordinated prayer-chain response beginning around 12:30 PM.",
       "anchored_artifacts": [
         "A-2322.1",
         "A-2322.2",

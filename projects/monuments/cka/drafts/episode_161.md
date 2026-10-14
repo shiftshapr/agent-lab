@@ -12,10 +12,10 @@
 - **Model Version**: grok-manual-extract-seq161
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-878, N-879, N-11266, N-11267, N-11268
+  - Tip-minted Nodes (supplement_2026-10d): N-878, N-11266, N-11267, N-11268
   - Claim Range (supplement_2026-10d): C-10590–C-10642
-  - New Nodes Introduced: N-10880, N-10881, N-10882, N-10883, N-10884, N-10886, N-10889, N-10890, N-10891, N-10892
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-14, N-18, N-24, N-30, N-40, N-46, N-69, N-97, N-103, N-119, N-120, N-149, N-162, N-173, N-194, N-205, N-263, N-270, N-281, N-37, N-333, N-560, N-599, N-10000, N-10013, N-10026, N-10249, N-10744, N-10815, N-10874, N-10875, N-302, N-10887, N-10888, N-356, N-357, N-285, N-10885, N-750, N-10566, N-10728, N-10923
+  - New Nodes Introduced: N-10880, N-10881, N-10882, N-10884, N-10886, N-10889, N-10890, N-10891, N-10892
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-14, N-18, N-24, N-30, N-40, N-46, N-69, N-97, N-103, N-119, N-120, N-149, N-162, N-173, N-194, N-205, N-263, N-270, N-281, N-37, N-333, N-560, N-599, N-10000, N-10013, N-10026, N-10249, N-10744, N-10815, N-10874, N-10875, N-302, N-10887, N-10888, N-356, N-357, N-285, N-10885, N-750, N-10566, N-10728, N-10923, N-879, N-10883
   - Hole-minted Nodes (seq161): N-305
   - Hole-minted Nodes (wave1): N-355, N-358, N-359, N-360, N-361, N-362
   - (see registers)
@@ -551,7 +551,7 @@ Named among Elephant Clipping banned subjects.
 
 **N-30** George (Candace's husband)
 
-Comments satire about Oxford Hebrew class shame and House in Habit spin.
+Comments satire about Oxford Hebrew class shame and House Inhabit spin.
 
 *Related: prose comments*
 
@@ -2237,7 +2237,7 @@ Confidence: high
 - Near-DIA: no exact Decentralized Intelligence Agency / Candace Intelligence Agency brand line in this corrected transcript, so M-12 / M-14 are not forced as occurrences. Tip solicitation (C-3694 / A-2504), anti-Candace campaign exposure (C-3682..C-3689), and Conspiracy Girly merch (C-3695 / M-21 occurrence) are the near-DIA beats.
 
 - Sponsor reads (PreBorn, Wellness Company / spike detox, Cozy Earth, Tax Network USA, American Financing) left as non-claim content.
-- Jeff Fargo, Dana White, Steve Witkoff ("Witco"), Edson (clipping-economy interviewer), Jessica Reed Kraus / House in Habit, and assorted commenters appear in prose only (not minted as Person nodes).
+- Jeff Fargo, Dana White, Steve Witkoff ("Witco"), Edson (clipping-economy interviewer), Jessica Reed Kraus / House Inhabit, and assorted commenters appear in prose only (not minted as Person nodes).
 - Mark Herman (N-67) is not named; on-air "Chris" mapped to existing N-103 Chris.
 - Miriam Adelson minted at N-302 (ASR "Miriam Medson"); distinct from existing Miriam Deed N-291.
 - Title omits "| Ep N"; Candace Ep 398 inferred from sequence after Ep 397.

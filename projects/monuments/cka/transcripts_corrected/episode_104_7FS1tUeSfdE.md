@@ -140,7 +140,7 @@ Hickoff is the number one credit building app in the app store with plans starti
 
 [27:52]
 
-The last pandemic taught us something important that when a new virus appears, the health care system gets overwhelmed pretty fast. ies run out, prescriptions get delayed or denied, and clinics get slammed. That's why I recommend having the contagion emergency kit from the wellness company already at home before you need it. It's not about panic. It's about being prepared for uncertainty. So, order online now. It comes with doctor prescribed medications like ivormectin, hydroxychloricquin, tamlu, a zpac, even a nebulizer for respiratory symptoms. So, instead of scrambling when the new outbreak hits, you already have critical medications and respiratory tools on hand ready to use immediately.
+The last pandemic taught us something important that when a new virus appears, the health care system gets overwhelmed pretty fast. ies run out, prescriptions get delayed or denied, and clinics get slammed. That's why I recommend having the contagion emergency kit from the wellness company already at home before you need it. It's not about panic. It's about being prepared for uncertainty. So, order online now. It comes with doctor prescribed medications like ivermectin, hydroxychloroquine, tamlu, a zpac, even a nebulizer for respiratory symptoms. So, instead of scrambling when the new outbreak hits, you already have critical medications and respiratory tools on hand ready to use immediately.
 
 [28:26]
 

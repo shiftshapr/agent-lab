@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: e1354996fe0dca09feb5fcf6281cba63b17e90513ca05526f293f355bf11437c
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-868, N-11256, N-11257
-  - Hole-minted Nodes (reintro-ep086): N-424, N-10581, N-10624, N-10711
-  - Tip-minted Nodes (reintro-ep086): N-682, N-784, N-10975, N-11055, N-11068
+  - Tip-minted Nodes (supplement_2026-10d): N-868, N-11257
+  - Hole-minted Nodes (reintro-ep086): N-10581, N-10624, N-10711
+  - Tip-minted Nodes (reintro-ep086): N-10975, N-11055, N-11068
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10299–C-10353
-  - New Nodes Introduced: N-10569, N-10570, N-10571, N-10572
-  - Reused Nodes Appearing: N-10085, N-1, N-10573, N-6, N-15, N-22, N-30, N-36, N-199, N-265, N-270, N-334, N-605, N-10000, N-10006, N-10012, N-10014, N-10039, N-10100, N-10110, N-10162, N-10201, N-10300, N-10346, N-10360, N-10389, N-10447, N-10539, N-10621, N-10770, N-10797, N-11054, N-11149
+  - New Nodes Introduced: N-10569, N-10570
+  - Reused Nodes Appearing: N-10085, N-1, N-10573, N-6, N-15, N-22, N-30, N-36, N-199, N-265, N-270, N-334, N-605, N-10000, N-10006, N-10012, N-10014, N-10039, N-10100, N-10110, N-10162, N-10201, N-10300, N-10346, N-10360, N-10389, N-10447, N-10539, N-10621, N-10770, N-10797, N-11054, N-11149, N-424, N-682, N-784, N-10571, N-10572, N-11256
   - (see registers)
 
 ## I. Meta-Data
@@ -237,7 +237,7 @@ Investigative Pressure: High
 
 **N-10571** July 14, 2025 Long Beach Flight
 
-Investigation target referenced by host as a "crucial date" tied to a flight involving Erica Kirk, Katherine Low Castro, Derek Niekerk, and Jonathan Barcello to Long Beach; viewer email adds geographic context via proximity to Los Alamitos Joint Forces Air Base.
+Investigation target referenced by host as a "crucial date" tied to a flight involving Erica Kirk, Katherine Low Castro, Derek Niekerk, and Jonathan Barcelo to Long Beach; viewer email adds geographic context via proximity to Los Alamitos Joint Forces Air Base.
 
 Evidence Count: 1
 Claim Count: 1
@@ -1683,9 +1683,9 @@ Investigative Direction: Review the original APB post and the full emailed tip.
 
 Claim Timestamp: 00:50:51
 
-Claim: The host says Erika's July 14 flight was taken with Katherine Low Castro, Derek Niekerk and Jonathan Barcello, and that it goes to Long Beach.
+Claim: The host says Erika's July 14 flight was taken with Katherine Low Castro, Derek Niekerk and Jonathan Barcelo, and that it goes to Long Beach.
 
-Transcript Snippet: And that flight is she took with Katherine Low Castro and Derek Niekerk and Jonathan Barcello.
+Transcript Snippet: And that flight is she took with Katherine Low Castro and Derek Niekerk and Jonathan Barcelo.
 
 Anchored Artifacts: A-1915.1
 Mentions: N-2, N-605, N-424, N-682

@@ -484,6 +484,277 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3338",
+      "family_ref": "A-3338",
+      "bundle_name": "Host Description of Unaired O'Neill Screwdriver Remarks Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3338.1",
+          "ref": "A-3338.1",
+          "description": "Host verbal reference to the part of Robert O'Neill's Newsmax segment on the screwdriver (not played in this episode)",
+          "related_claims": [
+            "C-14724"
+          ],
+          "related_nodes": [
+            "N-10090",
+            "N-156",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:10:43",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3339",
+      "family_ref": "A-3339",
+      "bundle_name": "Host Rooftop Witness Account Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3339.1",
+          "ref": "A-3339.1",
+          "description": "Host verbal reference to her source who recorded the rooftop runner and described a black jacket, tactical gear and a backpack (nothing shown)",
+          "related_claims": [
+            "C-14731",
+            "C-14732",
+            "C-14734",
+            "C-14735"
+          ],
+          "related_nodes": [
+            "N-10019",
+            "N-10727",
+            "N-3",
+            "N-11402"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:14:25",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3340",
+      "family_ref": "A-3340",
+      "bundle_name": "Jennifer Faumuina Podcast Appearance Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3340.1",
+          "ref": "A-3340.1",
+          "description": "Host verbal reference to a podcast in which Jennifer Faumuina said her sister is a social worker in Utah (not played)",
+          "related_claims": [
+            "C-14746"
+          ],
+          "related_nodes": [
+            "N-10738",
+            "N-3",
+            "N-511"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:22:12",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3341",
+      "family_ref": "A-3341",
+      "bundle_name": "Host Courtney Love Messages Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3341.1",
+          "ref": "A-3341.1",
+          "description": "Host verbal reference to her past messages with Courtney Love about the Mormon mafia (not shown)",
+          "related_claims": [
+            "C-14752",
+            "C-14753"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-10249",
+            "N-257",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:26:25",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3342",
+      "family_ref": "A-3342",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3342.1",
+          "ref": "A-3342.1",
+          "description": "Host verbal call for tips from hotel workers at moretips@candaceowens.com",
+          "related_claims": [
+            "C-14770"
+          ],
+          "related_nodes": [
+            "N-10732",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:38:14",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3343",
+      "family_ref": "A-3343",
+      "bundle_name": "Andrew Kolvet X Reply Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3343.1",
+          "ref": "A-3343.1",
+          "description": "Host paraphrase of Andrew Kolvet's X reply to his brother's post saying he cannot pronounce Huachuca (reply not shown)",
+          "related_claims": [
+            "C-14776",
+            "C-14777"
+          ],
+          "related_nodes": [
+            "N-10435",
+            "N-10739",
+            "N-14",
+            "N-2",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:41:03",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3344",
+      "family_ref": "A-3344",
+      "bundle_name": "Viewer Comment Read Aloud Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3344.1",
+          "ref": "A-3344.1",
+          "description": "Viewer comment from North America First about Flock cameras and body cams, read aloud",
+          "related_claims": [
+            "C-14783",
+            "C-14784"
+          ],
+          "related_nodes": [
+            "N-10257",
+            "N-10271",
+            "N-3",
+            "N-40",
+            "N-11402",
+            "N-11405"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:48:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3344.2",
+          "ref": "A-3344.2",
+          "description": "Viewer comment from Intuition Jen about Mormons, TPUSA and the Tyler Bowyer family, read aloud",
+          "related_claims": [
+            "C-14787",
+            "C-14788"
+          ],
+          "related_nodes": [
+            "N-10249",
+            "N-10346",
+            "N-10383",
+            "N-11",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:49:37",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3344.3",
+          "ref": "A-3344.3",
+          "description": "Viewer comment from Ali about a clip of Erika Kirk on the Iran war, read aloud",
+          "related_claims": [
+            "C-14791"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-10539",
+            "N-2",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:51:15",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3345",
+      "family_ref": "A-3345",
+      "bundle_name": "Erika Kirk Iran War Remark Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3345.1",
+          "ref": "A-3345.1",
+          "description": "Host verbal reference to a clip of Erika Kirk saying we do not know how Charlie would feel about the Iran war (clip not shown)",
+          "related_claims": [
+            "C-14791"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-10539",
+            "N-2",
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:51:15",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -675,7 +946,24 @@
       "type": "person",
       "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14715",
+        "C-14716",
+        "C-14718",
+        "C-14743",
+        "C-14752",
+        "C-14754",
+        "C-14755",
+        "C-14757",
+        "C-14761",
+        "C-14767",
+        "C-14768",
+        "C-14785",
+        "C-14791",
+        "C-14792",
+        "C-14793",
+        "C-14794"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -691,7 +979,14 @@
       "type": "person",
       "description": "Comments revisit CPR narratives vs unnamed fire captain.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14756",
+        "C-14757",
+        "C-14758",
+        "C-14759",
+        "C-14761",
+        "C-14762"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -707,7 +1002,15 @@
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14714",
+        "C-14772",
+        "C-14773",
+        "C-14774",
+        "C-14775",
+        "C-14776",
+        "C-14777"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -723,7 +1026,10 @@
       "type": "person",
       "description": "Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14721",
+        "C-14722"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -739,7 +1045,10 @@
       "type": "person",
       "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14727",
+        "C-14728"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -755,7 +1064,10 @@
       "type": "person",
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14727",
+        "C-14744"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -771,7 +1083,10 @@
       "type": "person",
       "description": "Reported as the individual installed to lead the Utah FBI field office in August 2025 following Kash Patel's purge of prior leadership; described as based in DC for decades and in his first week on the job at the time of the shooting.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14744",
+        "C-14745"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -787,7 +1102,13 @@
       "type": "person",
       "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14763",
+        "C-14764",
+        "C-14765",
+        "C-14766",
+        "C-14768"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -803,7 +1124,12 @@
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-14756",
+        "C-14758",
+        "C-14759",
+        "C-14760"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -968,6 +1294,1008 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Erika Kirk; subject of O'Neill's remarks and the host's loyalty thesis.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14717",
+        "C-14777",
+        "C-14791",
+        "C-14793",
+        "C-14794"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself throughout.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14712",
+        "C-14713",
+        "C-14714",
+        "C-14717",
+        "C-14721",
+        "C-14722",
+        "C-14723",
+        "C-14724",
+        "C-14725",
+        "C-14726",
+        "C-14730",
+        "C-14731",
+        "C-14732",
+        "C-14733",
+        "C-14734",
+        "C-14735",
+        "C-14736",
+        "C-14737",
+        "C-14738",
+        "C-14739",
+        "C-14740",
+        "C-14741",
+        "C-14742",
+        "C-14743",
+        "C-14744",
+        "C-14745",
+        "C-14746",
+        "C-14747",
+        "C-14748",
+        "C-14749",
+        "C-14750",
+        "C-14751",
+        "C-14752",
+        "C-14753",
+        "C-14754",
+        "C-14755",
+        "C-14759",
+        "C-14760",
+        "C-14761",
+        "C-14767",
+        "C-14768",
+        "C-14769",
+        "C-14770",
+        "C-14771",
+        "C-14772",
+        "C-14773",
+        "C-14774",
+        "C-14776",
+        "C-14777",
+        "C-14778",
+        "C-14779",
+        "C-14780",
+        "C-14781",
+        "C-14782",
+        "C-14783",
+        "C-14784",
+        "C-14785",
+        "C-14786",
+        "C-14787",
+        "C-14788",
+        "C-14789",
+        "C-14790",
+        "C-14791",
+        "C-14792",
+        "C-14793",
+        "C-14794",
+        "C-14795",
+        "C-14796"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 68,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "JD Vance; the host speculates his expected arrival shaped where staff stayed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14769"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Donald Trump; named in the host's opening remarks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14713"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-11",
+      "ref": "N-11",
+      "name": "Tyler Bowyer",
+      "type": "person",
+      "description": "Tyler Bowyer; named in a viewer comment and in the host's loyalty thesis.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14788",
+        "C-14793"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Tucker Carlson; one of three people the host says confirmed Charlie opposed the Iran war.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14792"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Benjamin Netanyahu; named in the host's opening remarks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14712"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Tyler Robinson; the accused.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14717",
+        "C-14720",
+        "C-14721",
+        "C-14726",
+        "C-14783",
+        "C-14786",
+        "C-14789"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-89",
+      "ref": "N-89",
+      "name": "Benny Johnson",
+      "type": "person",
+      "description": "Benny Johnson; one of the influencers the host says later received sharp footage.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14730"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Ben Shapiro; subject of the lunch question.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14779"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-156",
+      "ref": "N-156",
+      "name": "Robert J. O'Neill",
+      "type": "person",
+      "description": "Robert O'Neill; former SEAL sniper interviewed on Newsmax.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14715",
+        "C-14716",
+        "C-14717",
+        "C-14718",
+        "C-14719",
+        "C-14720",
+        "C-14724",
+        "C-14785"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-168",
+      "ref": "N-168",
+      "name": "Howard Lutnick",
+      "type": "person",
+      "description": "Howard Lutnick; named in the host's opening remarks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14713"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-213",
+      "ref": "N-213",
+      "name": "Joe Kent",
+      "type": "person",
+      "description": "Joe Kent; named as confirming Charlie's Iran war opposition.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14792"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-228",
+      "ref": "N-228",
+      "name": "Shawn Ryan",
+      "type": "person",
+      "description": "Shawn Ryan; host of the show on which Turek spoke.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14762"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-257",
+      "ref": "N-257",
+      "name": "Courtney Love",
+      "type": "person",
+      "description": "Courtney Love; the host relays her Mormon mafia remarks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14752",
+        "C-14753"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-598",
+      "ref": "N-598",
+      "name": "Bret Weinstein",
+      "type": "person",
+      "description": "Bret Weinstein; named as confirming Charlie's Iran war opposition.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14792"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-614",
+      "ref": "N-614",
+      "name": "Graham Allen",
+      "type": "person",
+      "description": "Graham Allen; one of the influencers the host says received sharp footage.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14730"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-696",
+      "ref": "N-696",
+      "name": "Curtis Kolvet",
+      "type": "person",
+      "description": "Curtis Kolvet; reused for Andrew Kolvet's brother, a lieutenant colonel (the transcript says only Lieutenant Colonel Kolvet).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14714",
+        "C-14774",
+        "C-14775"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Turning Point USA; its team's lodging and staff.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14763",
+        "C-14768",
+        "C-14771",
+        "C-14772",
+        "C-14786"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10019",
+      "ref": "N-10019",
+      "name": "Robinson Outfit Change Discrepancy",
+      "type": "investigation_target",
+      "description": "Robinson Outfit Change Discrepancy; clothing questions.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14722",
+        "C-14731"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10032",
+      "ref": "N-10032",
+      "name": "Decoy Boy Operation Analysis",
+      "type": "investigation_target",
+      "description": "Decoy Boy Operation Analysis; the host's decoy theory.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14733"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10090",
+      "ref": "N-10090",
+      "name": "Screwdriver Evidence Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14724",
+        "C-14725",
+        "C-14726",
+        "C-14727",
+        "C-14790"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10094",
+      "ref": "N-10094",
+      "name": "LDS Church",
+      "type": "investigation_target",
+      "description": "LDS Church; context for the host's Mormon territory remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14755"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10249",
+      "ref": "N-10249",
+      "name": "\"Mormon Mafia\" Allegation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14752",
+        "C-14753",
+        "C-14755",
+        "C-14788"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10257",
+      "ref": "N-10257",
+      "name": "Flock LPR FOIA Investigation",
+      "type": "investigation_target",
+      "description": "Flock LPR FOIA Investigation; camera network context.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14783"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10271",
+      "ref": "N-10271",
+      "name": "Tyler Robinson Washington County Surveillance Footage Gap",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14783"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10346",
+      "ref": "N-10346",
+      "name": "Terrell Farnsworth Camera Removal Justification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14787"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10347",
+      "ref": "N-10347",
+      "name": "Egyptian Planes Israel Flight Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14781"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10383",
+      "ref": "N-10383",
+      "name": "Farnsworth Family Political-Military Network",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14787",
+        "C-14793"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10435",
+      "ref": "N-10435",
+      "name": "Fort Huachuca Erika Kirk Location Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14777"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10539",
+      "ref": "N-10539",
+      "name": "Charlie Kirk Iran War Opposition (June 2025)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14791",
+        "C-14792"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10651",
+      "ref": "N-10651",
+      "name": "Brian Harpole Lawsuit Coordination Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14759"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10681",
+      "ref": "N-10681",
+      "name": "Shawn Ryan Show Interview Clip Bundle",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14762"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10687",
+      "ref": "N-10687",
+      "name": "Frank Turek CPR Claim Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14757",
+        "C-14761"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10699",
+      "ref": "N-10699",
+      "name": "Brian Harpole vs Frank Turek CPR Contradiction",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14756",
+        "C-14760"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10715",
+      "ref": "N-10715",
+      "name": "Blake Neff September 10th Movement Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14764"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10727",
+      "ref": "N-10727",
+      "name": "Abandoned Backpack / Jacket / Gloves Non-Testing Decision",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14735",
+        "C-14736",
+        "C-14737"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10731",
+      "ref": "N-10731",
+      "name": "Screwdriver Footage Graininess Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14729",
+        "C-14730"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10748",
+      "ref": "N-10748",
+      "name": "Ben Shapiro 9/10 Lunch Meeting Identification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14779",
+        "C-14780"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10769",
+      "ref": "N-10769",
+      "name": "Losee Center Gun Verification Gap",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14725"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10777",
+      "ref": "N-10777",
+      "name": "Screwdriver Narrative Evolution",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14726"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11094",
+      "ref": "N-11094",
+      "name": "Kash Patel August 17 Omaha Trip FOIA Response",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14781"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11128",
+      "ref": "N-11128",
+      "name": "US and Israel Iran War Betrayal Thesis",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14792"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11143",
+      "ref": "N-11143",
+      "name": "Rooftop Screwdriver Claim",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14790"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11305",
+      "ref": "N-11305",
+      "name": "Utah Medical Examiner Office Departures to New York",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the claims below.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14742"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-953",
+      "ref": "N-953",
+      "name": "Itamar Ben-Gvir",
+      "type": "person",
+      "description": "First named by the host at 00:00:01 in episode 128, as 'Ben Gvir'.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14712"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-954",
+      "ref": "N-954",
+      "name": "Blaine Holt",
+      "type": "person",
+      "description": "Air Force Brigadier General who joined Robert O'Neill on Newsmax; first named by the host at 00:04:42 in episode 128.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14718",
+        "C-14719",
+        "C-14720"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11402",
+      "ref": "N-11402",
+      "name": "Rooftop Runner Black Jacket and Tactical Gear Account",
+      "type": "topic",
+      "description": "The host's account, from her own source, that the rooftop runner wore a black jacket, tactical gear and a backpack, with her theory that the object called a towel was a jacket and that the items were dropped near a bus stop by Fulton Library.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14731",
+        "C-14732",
+        "C-14733",
+        "C-14734",
+        "C-14735",
+        "C-14784"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11403",
+      "ref": "N-11403",
+      "name": "Faumuina Family 1995 Hawaii Homicide Case",
+      "type": "topic",
+      "description": "The 1995 Hawaii death of Misiona Faumuina, an uncle of Sgt. Jennifer Faumuina, which the host describes from news articles: an alleged gang initiation beating, manslaughter charges against three youths and conflicting accounts about his gang and church ties.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14747",
+        "C-14748",
+        "C-14749",
+        "C-14750",
+        "C-14751"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11404",
+      "ref": "N-11404",
+      "name": "Franklin Cover-Up Scandal",
+      "type": "topic",
+      "description": "The Franklin credit union scandal in Omaha, Nebraska, which the host describes as a widely debated conspiracy theory over a $40 million fraud with claims of abuse by politicians and satanic ritual abuse.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14782"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11405",
+      "ref": "N-11405",
+      "name": "Utah Statewide Camera Footage Gap",
+      "type": "topic",
+      "description": "The host's question why Utah's statewide camera network has produced no clear footage of Tyler Robinson on the day, his route on the rooftop or the shot itself.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-14783"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-137",
+      "ref": "N-137",
+      "name": "Andrew Zanger",
+      "type": "person",
+      "description": "Andrew Zenger; Timpanogos CEO whose BYU and Jerusalem history the host discusses.",
+      "related_artifacts": [],
+      "related_claims": [],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 0,
+      "episode_count": 1,
+      "investigative_pressure": "low",
+      "related_nodes": []
     }
   ],
   "claims": [
@@ -1458,7 +2786,2302 @@
       "mentions_person_refs": [
         "N-14"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14712",
+      "ref": "C-14712",
+      "label": "Host Says Netanyahu and Ben-Gvir Openly Rooted for Argentina Against Spain",
+      "claim": "The host says Itamar Ben-Gvir and Benjamin Netanyahu explicitly came out and said they were rooting for Argentina against Spain, and that this was not helpful to that team.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Locate the public statements or posts by Ben-Gvir and Netanyahu about the match and confirm which team they backed.",
+      "transcript_snippet": "having them explicitly come out and say that they were rooting uh for that team to win was not helpful.",
+      "mentions_person_refs": [
+        "N-953",
+        "N-36",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14713",
+      "ref": "C-14713",
+      "label": "Host Says Lutnick and Trump Got Involved With the US Team",
+      "claim": "The host says that Howard Lutnick and President Trump involved themselves in the US team's run, which made her root against the US.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:00:50",
+      "investigative_direction": "Identify what involvement by Lutnick and Trump with the team the host means and find contemporaneous coverage.",
+      "transcript_snippet": "But as soon as the corrupt Howard Lutnick and President Trump got involved and 9/11 crew getting back together, they stuck their noses in it.",
+      "mentions_person_refs": [
+        "N-168",
+        "N-5",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14714",
+      "ref": "C-14714",
+      "label": "Host Says Kolvet's Big Brother, a Lieutenant Colonel, Defended Him on X This Weekend",
+      "claim": "The host says Andrew Kolvet's big brother, a lieutenant colonel in the military, defended Andrew on X over the weekend before this episode.",
+      "anchored_artifacts": [
+        "A-2163.1"
+      ],
+      "related_nodes": [
+        "N-10739"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:01:46",
+      "investigative_direction": "Pull the brother's X post and its date, and confirm his rank and identity against Army records or earlier public statements.",
+      "transcript_snippet": "Andrew Kolvet's big brother, Lieutenant Colonel in the military, came to Andrew's defense on X this weekend.",
+      "supports_claim_refs": [
+        "C-8152"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-696",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14715",
+      "ref": "C-14715",
+      "label": "O'Neill Says Nobody Gave Kirk First Aid and Staff Were Pulling SIM Cards From Cameras",
+      "claim": "Robert O'Neill says on Newsmax that nobody started first aid on Charlie Kirk and that people were more concerned with getting SIM cards out of cameras, removing cameras and getting Kirk off the X.",
+      "anchored_artifacts": [
+        "A-2153.1"
+      ],
+      "related_nodes": [
+        "N-10734"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:29",
+      "investigative_direction": "Compare with the UVU and bystander video of the first minute after the shot, and ask O'Neill for his source on the SIM card and camera removal.",
+      "transcript_snippet": "The just the fact that no one started doing first aid to Charlie Kirk, they were more concerned about getting SIM cards out of cameras, removing cameras, and then getting him off the X somehow.",
+      "mentions_person_refs": [
+        "N-156",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14716",
+      "ref": "C-14716",
+      "label": "O'Neill Says He Was Told the Scene Was Paved Over a Couple Days Later",
+      "claim": "Robert O'Neill says he has been told that the crime scene was paved over a couple of days after the shooting.",
+      "anchored_artifacts": [
+        "A-2153.1"
+      ],
+      "related_nodes": [
+        "N-10734"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:29",
+      "investigative_direction": "Obtain UVU or contractor records of when the paving at the scene was done.",
+      "transcript_snippet": "I've been told they paved it over a couple days later",
+      "supports_claim_refs": [
+        "C-1386"
+      ],
+      "mentions_person_refs": [
+        "N-156",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14717",
+      "ref": "C-14717",
+      "label": "O'Neill Says Erika's Quick Forgiveness of the Alleged Shooter Implies It Was Him",
+      "claim": "Robert O'Neill says Erika Kirk was very quick to forgive the alleged shooter, which he says technically concedes that it was him, while she cannot forgive Candace Owens for asking questions.",
+      "anchored_artifacts": [
+        "A-2153.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:29",
+      "investigative_direction": "Review Erika Kirk's memorial remarks about forgiving the accused and the dates she criticized the host.",
+      "transcript_snippet": "she's really quick to forgive the alleged shooter, which technically says that was him cuz I forgive him",
+      "mentions_person_refs": [
+        "N-156",
+        "N-2",
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14718",
+      "ref": "C-14718",
+      "label": "General Holt Says Something Exploded on Kirk",
+      "claim": "Air Force Brigadier General Blaine Holt says on Newsmax that he is with Robert O'Neill and that something exploded on Kirk.",
+      "anchored_artifacts": [
+        "A-2153.2"
+      ],
+      "related_nodes": [
+        "N-10734"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:31",
+      "investigative_direction": "Ask Holt what he saw that supports an explosion and compare with the autopsy and wound descriptions.",
+      "transcript_snippet": "Absolutely not. I I I I'm with Rob. Something exploded on him.",
+      "mentions_person_refs": [
+        "N-954",
+        "N-156",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14719",
+      "ref": "C-14719",
+      "label": "Holt Says the Justice Department Solved the Case in About Eight Hot Seconds",
+      "claim": "General Holt says the explanation put out by the Justice Department that day was garbage and that they seemingly solved the case in about eight seconds, and that millions of veterans know better.",
+      "anchored_artifacts": [
+        "A-2153.2"
+      ],
+      "related_nodes": [
+        "N-10734"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:06:17",
+      "investigative_direction": "Pin down the time between the shooting and the first DOJ or FBI public attribution of the suspect.",
+      "transcript_snippet": "the garbage that was foisted upon us from the Justice Department that day where they seemingly solved the case in about eight hot seconds.",
+      "mentions_person_refs": [
+        "N-954",
+        "N-156"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14720",
+      "ref": "C-14720",
+      "label": "Holt Says a Kid Who Never Killed Would Not Be Sent Onto a Roof With a .30-06",
+      "claim": "General Holt says a young man who has never killed anyone would not take a .30-06 onto a roof and do the things O'Neill described.",
+      "anchored_artifacts": [
+        "A-2153.2"
+      ],
+      "related_nodes": [
+        "N-10734"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:06:17",
+      "investigative_direction": "Review Robinson's firearms and hunting history in the charging documents.",
+      "transcript_snippet": "You're not going to take a.30-06 with a kid who's never killed anybody up onto a roof.",
+      "mentions_person_refs": [
+        "N-954",
+        "N-156",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14721",
+      "ref": "C-14721",
+      "label": "Host Says Cox Described the Clothing Change After Robinson Was Arrested and His Texts Seized",
+      "claim": "The host says Governor Cox's statement about the rooftop clothing change came after Tyler Robinson had been arrested, his text messages seized and campus footage presumably reviewed.",
+      "anchored_artifacts": [
+        "A-2154.1"
+      ],
+      "related_nodes": [
+        "N-10735"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:44",
+      "investigative_direction": "Compare the dates of Robinson's arrest and the text message seizure with the September 12 briefing.",
+      "transcript_snippet": "this is after they arrested Tyler Robinson, seized the text messages, had the ability to review them, review the footage everywhere on campus, presumably.",
+      "mentions_person_refs": [
+        "N-41",
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14722",
+      "ref": "C-14722",
+      "label": "Host Says the Change Cox Described Was From a Maroon Shirt to a Long-Sleeve Shirt With an American Flag",
+      "claim": "The host says the clothing change described by Governor Cox was from a maroon shirt into a long-sleeve shirt with an American flag, performed on the rooftop.",
+      "anchored_artifacts": [
+        "A-2154.1"
+      ],
+      "related_nodes": [
+        "N-10735",
+        "N-10019"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:39",
+      "investigative_direction": "Check the charging documents and photos for the two garments Cox meant.",
+      "transcript_snippet": "what would be the point of changing from a maroon shirt into a long-sleeve shirt with an American flag on a rooftop?",
+      "mentions_person_refs": [
+        "N-41",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14723",
+      "ref": "C-14723",
+      "label": "Host Says She Previously Got a Time Zone Wrong by Using a Website That Gave UTC",
+      "claim": "The host says she once got a time zone calculation wrong after daylight saving time because a website she thought gave local time gave UTC, and influencers then called her an idiot.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:09:39",
+      "investigative_direction": "Locate the host's original post and the later correction to see which time was affected.",
+      "transcript_snippet": "Let me get a time zone calculation incorrect, right? After daylight saving time, let me use a website and think that it's giving me local time and share local time as I did, and then turns out it's not local time, it's UTC.",
+      "supports_claim_refs": [
+        "C-12353"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14724",
+      "ref": "C-14724",
+      "label": "Host Says O'Neill Said the Screwdriver Could Not Take the Gun Apart",
+      "claim": "The host says that in the part of his interview she did not play, Robert O'Neill said this is not the right screwdriver to take apart the gun the authorities say was taken apart.",
+      "anchored_artifacts": [
+        "A-3338.1"
+      ],
+      "related_nodes": [
+        "N-10090"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:43",
+      "investigative_direction": "Obtain the full Newsmax interview and compare with the evidence photo of the screwdriver and the rifle's fasteners.",
+      "transcript_snippet": "He he says, \"This isn't even the right screwdriver to take apart the gun that they're telling you that he took apart.",
+      "supports_claim_refs": [
+        "C-1243"
+      ],
+      "mentions_person_refs": [
+        "N-156",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14725",
+      "ref": "C-14725",
+      "label": "Host Says the Rooftop Man Neither Assembled nor Disassembled His Rifle on Losee",
+      "claim": "The host says that, as is now known, the rooftop man neither assembled nor disassembled his rifle on the Losee Center roof.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10090",
+        "N-10769"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:17",
+      "investigative_direction": "Review the investigative record on where and when the rifle was assembled.",
+      "transcript_snippet": "the rooftop man neither assembled or disassembled his rifle on Losee.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14726",
+      "ref": "C-14726",
+      "label": "Host Speculates the Screwdriver Was Planted Because It Carried Robinson's DNA",
+      "claim": "The host speculates that officials may have planted the screwdriver, and then had to make it fit the story, because it carried Tyler Robinson's DNA and was one of the only things tying him to the rooftop.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10090",
+        "N-10777"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:17",
+      "investigative_direction": "Obtain the FBI DNA report on the screwdriver and its chain of custody. (Speculation framed as a question by the host.)",
+      "transcript_snippet": "Did they already plant the evidence that and had to just sort of make it work after that because it had Tyler Robinson's DNA on it?",
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14727",
+      "ref": "C-14727",
+      "label": "Megyn Kelly Says Patel Said a Screwdriver With DNA Was Found on the Roof, Then the Rifle Was Found Assembled",
+      "claim": "In the September 15 interview, Megyn Kelly says Kash Patel said a screwdriver was found on top of the building with the suspect's DNA, leading many to think he had disassembled the gun, but that the rifle was found assembled in the woods.",
+      "anchored_artifacts": [
+        "A-2155.1"
+      ],
+      "related_nodes": [
+        "N-10736",
+        "N-10090"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:48",
+      "investigative_direction": "Locate Patel's original statement about the screwdriver and DNA and the date it was made.",
+      "transcript_snippet": "Cash said that they found his what we presume was his screwdriver on the top of the building, and they found his DNA on it",
+      "supports_claim_refs": [
+        "C-1140"
+      ],
+      "mentions_person_refs": [
+        "N-46",
+        "N-69",
+        "N-384"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14728",
+      "ref": "C-14728",
+      "label": "Bongino Says He Was Hesitant to Go Into Specifics on the Video and Where the Gun Was",
+      "claim": "Dan Bongino says that in a media appearance that morning he was a little hesitant to go into specifics, especially on the video and where the gun was.",
+      "anchored_artifacts": [
+        "A-2155.1"
+      ],
+      "related_nodes": [
+        "N-10736"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:12:43",
+      "investigative_direction": "Review Bongino's other September 15 appearance for what he withheld and the reason he gave.",
+      "transcript_snippet": "I was a little hesitant in a media appearance this morning to go into specifics on uh especially the video and where the gun was",
+      "mentions_person_refs": [
+        "N-384",
+        "N-46"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14729",
+      "ref": "C-14729",
+      "label": "Bongino Says He Has Been on That Roof and the Distant Camera Is Clearly Not the Best Video",
+      "claim": "Dan Bongino says he has been on that roof in that corner and that the camera in the distance is clearly not producing the best video.",
+      "anchored_artifacts": [
+        "A-2155.1"
+      ],
+      "related_nodes": [
+        "N-10731"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:12:43",
+      "investigative_direction": "Establish when Bongino visited the roof and which camera he meant.",
+      "transcript_snippet": "on that roof in that corner. And when you see the camera in the distance away, it's clearly not the best video.",
+      "mentions_person_refs": [
+        "N-384"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14730",
+      "ref": "C-14730",
+      "label": "Host Says Sharp Footage Reached Benny Johnson and Graham Allen 10 Months Later",
+      "claim": "The host says clear 4K footage of the rooftop was made available to Benny Johnson, Graham Allen, his wife and other influencers 10 months after the shooting, though officials called the footage grainy in September.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10731"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:41",
+      "investigative_direction": "Identify when and by whom the footage was shown to the influencers and compare the resolution with the September releases.",
+      "transcript_snippet": "that 4K HD 4D chest super duper crystal clear overwhelming footage that was made available to Benny Johnson, Graham Allen, and his wife 10 months later and some other influencers?",
+      "mentions_person_refs": [
+        "N-89",
+        "N-614",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14731",
+      "ref": "C-14731",
+      "label": "Host's Source Says the Rooftop Man Wore a Black Jacket and Tactical Gear",
+      "claim": "The host says her source, who recorded the rooftop man, described him in a black jacket and tactical gear, and all the source knows is that he was dressed in all black.",
+      "anchored_artifacts": [
+        "A-3339.1"
+      ],
+      "related_nodes": [
+        "N-11402",
+        "N-10019"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:25",
+      "investigative_direction": "Obtain the source's original recording and statement and compare it with the released rooftop footage.",
+      "transcript_snippet": "Said he was wearing a black jacket and tactical gear. All he knows is he was wearing all black.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14732",
+      "ref": "C-14732",
+      "label": "Host Says the Object Called a Towel in the Footage Was Likely a Black Jacket",
+      "claim": "The host says she thinks the blurry object that officials said was a towel in the rooftop runner's hand was likely a black jacket, and that the towel story was needed to match the rifle found wrapped in a towel.",
+      "anchored_artifacts": [
+        "A-3339.1"
+      ],
+      "related_nodes": [
+        "N-11402"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:25",
+      "investigative_direction": "Enhance the released rooftop frames and compare with the towel recovered with the rifle. (Theory of the host, not a finding.)",
+      "transcript_snippet": "I think it was never even actually a towel that we saw in the footage um that the rooftop jogger, the rooftop sprinter had. I think it was likely a black jacket",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14733",
+      "ref": "C-14733",
+      "label": "Host Theorizes the Rooftop Runner Was a Decoy Who Fired No Shot",
+      "claim": "The host says she thinks it is much more likely that the rooftop man was a decoy who never fired a gun and was tasked with sprinting away at the right time.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11402",
+        "N-10032"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:25",
+      "investigative_direction": "Compare the runner's timeline against the shot time and the recovery location of the rifle. (Theory of the host, not a finding.)",
+      "transcript_snippet": "I think it's much more likely that rooftop man was just a decoy who never fired any gun. He was tasked with sprinting away at the right time.",
+      "supports_claim_refs": [
+        "C-12114"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14734",
+      "ref": "C-14734",
+      "label": "Host Says She Is Told the Source Described a Backpack and Was Never Contacted",
+      "claim": "The host says her eyewitness, who recorded the rooftop man, described his backpack and was never contacted by investigators.",
+      "anchored_artifacts": [
+        "A-3339.1"
+      ],
+      "related_nodes": [
+        "N-11402"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:24",
+      "investigative_direction": "Ask the FBI and Utah investigators for contact logs of witnesses who submitted rooftop video.",
+      "transcript_snippet": "which was also described by my eyewitness who was never contacted for some reason.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14735",
+      "ref": "C-14735",
+      "label": "Host Theorizes the Runner Dumped Gloves, Jacket and Backpack Near a Bus Stop by Fulton Library",
+      "claim": "The host says she thinks the runner dumped tactical gloves, and that what is in his hand is a black jacket and backpack which he dropped by the bus stop near Fulton Library.",
+      "anchored_artifacts": [
+        "A-3339.1"
+      ],
+      "related_nodes": [
+        "N-11402",
+        "N-10727"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:24",
+      "investigative_direction": "Map the location of the recovered items against the bus stop and the runner's route. (Theory of the host, not a finding.)",
+      "transcript_snippet": "I think it's plausible that while he was running, he dumped his tactical gloves, and what's in his hand there is his black jacket and his backpack",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14736",
+      "ref": "C-14736",
+      "label": "Host Says Faumuina's Office Recovered the Abandoned Items",
+      "claim": "The host says the items left along the runner's path were recovered by Sergeant Jennifer Faumuina's office at the Utah State Bureau of Investigation.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10727"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:42",
+      "investigative_direction": "Obtain the evidence log showing who recovered the backpack, gloves and jacket and when.",
+      "transcript_snippet": "And those items, as we learned, were then recovered um by Sergeant Cha- Sergeant Jennifer Faumuina of the State Bureau of Investigations, her office.",
+      "mentions_person_refs": [
+        "N-511",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14737",
+      "ref": "C-14737",
+      "label": "Host Says Faumuina Answered I Don't Recall on Signing Off on the FBI Not Testing the Backpack and Gloves",
+      "claim": "The host says Sergeant Faumuina answered that she did not recall whether she signed off on the FBI not testing a backpack, gloves and possible tactical gear abandoned along the shooter's path.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10727"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:42",
+      "investigative_direction": "Pull Faumuina's testimony or interview where she said she did not recall and the evidence-handling forms.",
+      "transcript_snippet": "Oh, you don't recall whether you signed off on the FBI not testing a backpack, gloves, potential tactical gear that were abandoned upon the exact path that the shooter ran.",
+      "mentions_person_refs": [
+        "N-511",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14738",
+      "ref": "C-14738",
+      "label": "Host Says Faumuina Was Raised in Hawaii, Studied at Weber State and Weber Was Founded by the Mormon Church",
+      "claim": "The host says that Jennifer Faumuina was raised in Hawaii, moved to Ogden, Utah and studied criminal justice at Weber State University, which the host says was founded by the Mormon Church.",
+      "anchored_artifacts": [
+        "A-2157.2"
+      ],
+      "related_nodes": [
+        "N-10738"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:37",
+      "investigative_direction": "Check Weber State alumni and institutional history for Faumuina and the school's founding by the LDS church.",
+      "transcript_snippet": "she moved to Ogden, Utah where she studied studied criminal justice graduating from Weber State University which was founded by the Mormon Church",
+      "mentions_person_refs": [
+        "N-511",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14739",
+      "ref": "C-14739",
+      "label": "Host Says the RNC Article Is the Only Record Found Confirming Faumuina Was a State Trooper",
+      "claim": "The host says the 2016 RNC volunteer article is the only record she could find confirming Faumuina was a state trooper in the years before 2018.",
+      "anchored_artifacts": [
+        "A-2157.4"
+      ],
+      "related_nodes": [
+        "N-10738"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:38",
+      "investigative_direction": "Request Utah DPS employment history and certification records for Faumuina for 2013–2018.",
+      "transcript_snippet": "it is the only one that we can find that confirms that she was a state trooper.",
+      "mentions_person_refs": [
+        "N-511",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14740",
+      "ref": "C-14740",
+      "label": "Host Says No Article Mentions Faumuina Before 2018 and She Appears to Have Held a Part-Time Weber State Job",
+      "claim": "The host says she could not find an article that mentions Faumuina before 2018 and that she appears instead to have had a part-time job at Weber State University, possibly while still in school.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10738"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:29",
+      "investigative_direction": "Request Weber State employment records and Utah POST certifications for Faumuina.",
+      "transcript_snippet": "We couldn't find an article that mentions her before 2018 either aside from that. Instead she appears to be working some sort of a part-time gig at Weber State University.",
+      "mentions_person_refs": [
+        "N-511",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14741",
+      "ref": "C-14741",
+      "label": "Host Says Faumuina Is Paid Very Well From 2018",
+      "claim": "The host says that from 2018 Faumuina is officially working for the Utah Department of Public Safety and is paid very well, which the host takes to mean she had more schooling.",
+      "anchored_artifacts": [
+        "A-2157.5"
+      ],
+      "related_nodes": [
+        "N-10738"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:29",
+      "investigative_direction": "Check the Utah state salary database for Faumuina's pay and rank by year.",
+      "transcript_snippet": "in 2018 like I said we have her officially working for the Utah Department of Public Safety and she is paid very well.",
+      "mentions_person_refs": [
+        "N-511",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14742",
+      "ref": "C-14742",
+      "label": "Host Says Utah's Medical Examiner Is Newer, Appointed July 2024",
+      "claim": "The host says Utah's medical examiner is a newer appointee from July 2024, one of the new Utah officials ahead of the assassination.",
+      "anchored_artifacts": [
+        "A-2158.4"
+      ],
+      "related_nodes": [
+        "N-10733",
+        "N-11305"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:20:19",
+      "investigative_direction": "Confirm the appointment date and appointee through the Utah Department of Health and Human Services.",
+      "transcript_snippet": "We talked in the past about the new newer, I should say, medical examiner from July 2024.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14743",
+      "ref": "C-14743",
+      "label": "Host Says Many New Faces and Appointments Came to Utah Before the Assassination",
+      "claim": "The host says she has raised the pattern since early in the investigation that many Utah officials were new or newly appointed ahead of Charlie Kirk's assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10733"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:20:19",
+      "investigative_direction": "Build a table of Utah and federal appointments from 2024 to September 2025 with dates and appointing authorities.",
+      "transcript_snippet": "We have continually raised this pattern since early on in this investigation. There were so many new faces and new appointments in Utah ahead of Charlie Kirk's assassination.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14744",
+      "ref": "C-14744",
+      "label": "Host Says Patel Fired the Salt Lake City FBI Head and Installed Bowles From Virginia",
+      "claim": "The host says Special Agent Robert Bowles had served in an FBI office in Virginia, and that Kash Patel fired the person heading the FBI Salt Lake City office and installed Bowles.",
+      "anchored_artifacts": [
+        "A-2158.5"
+      ],
+      "related_nodes": [
+        "N-10733"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:21:14",
+      "investigative_direction": "Confirm the prior Salt Lake City special agent in charge, the date he left and Bowles's previous posting.",
+      "transcript_snippet": "Kash Patel fires the person that was heading up the FBI Salt Lake City office. He fires that person and installs Robert Bowles.",
+      "supports_claim_refs": [
+        "C-1329"
+      ],
+      "mentions_person_refs": [
+        "N-135",
+        "N-69",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14745",
+      "ref": "C-14745",
+      "label": "Host Says Bowles Had Almost 20 Years in the FBI Across the United States",
+      "claim": "The host says Robert Bowles had a very long tenure of almost 20 years with the FBI all over the United States before taking the Salt Lake City post.",
+      "anchored_artifacts": [
+        "A-2158.5"
+      ],
+      "related_nodes": [
+        "N-10733"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:21:14",
+      "investigative_direction": "Check FBI biographies and press releases for Bowles's career postings.",
+      "transcript_snippet": "he had a very long tenure up into that moment with the FBI all over the United States for almost 20 years.",
+      "mentions_person_refs": [
+        "N-135",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14746",
+      "ref": "C-14746",
+      "label": "Host Says Faumuina Said on a Podcast That Her Sister Is a Utah Social Worker",
+      "claim": "The host says Faumuina revealed in a podcast that her sister is a social worker in Utah, and notes Faumuina is doing podcasts.",
+      "anchored_artifacts": [
+        "A-3340.1"
+      ],
+      "related_nodes": [
+        "N-10738"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:22:12",
+      "investigative_direction": "Identify the podcast and the date of the appearance.",
+      "transcript_snippet": "She revealed that her sister was a social worker within the state of Utah.",
+      "mentions_person_refs": [
+        "N-511",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14747",
+      "ref": "C-14747",
+      "label": "Host Says Three Youths Were Charged With Second-Degree Manslaughter in the 1995 Case",
+      "claim": "The host says the defense in the 1995 Hawaii case argued the men were friends and it was an initiation ritual, and that three youths were charged with second-degree manslaughter.",
+      "anchored_artifacts": [
+        "A-2160.1"
+      ],
+      "related_nodes": [
+        "N-11403"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:24:14",
+      "investigative_direction": "Obtain Hawaii court records for the 1995 case and the charges and outcomes.",
+      "transcript_snippet": "the three kids that were involved got charged with like second-degree manslaughter.",
+      "mentions_person_refs": [
+        "N-515",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14748",
+      "ref": "C-14748",
+      "label": "Host Says Misiona Faumuina Was Part of Adult Friends for Youth, Run by Sid Rosen",
+      "claim": "The host says an article states that Misiona Faumuina was a member of Adult Friends for Youth, which is run by Sid Rosen.",
+      "anchored_artifacts": [
+        "A-2160.2"
+      ],
+      "related_nodes": [
+        "N-11403"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:24:14",
+      "investigative_direction": "Retrieve the article and any Hawaii nonprofit filings for Adult Friends for Youth.",
+      "transcript_snippet": "the brother was a member of this or part of this adult friends for youth which is run by Sid Rosen.",
+      "mentions_person_refs": [
+        "N-515",
+        "N-516",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14749",
+      "ref": "C-14749",
+      "label": "Host Says Sid Rosen Is Connected to Egypt and Israel but Declines to Elaborate",
+      "claim": "The host says, in a conditional she does not pursue, that Sid Rosen is connected to Egypt and Israel.",
+      "anchored_artifacts": [
+        "A-2160.2"
+      ],
+      "related_nodes": [
+        "N-11403"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:25:35",
+      "investigative_direction": "Ask the host for the basis of the Egypt and Israel connection and test it against public records on Rosen. (Stated by the host as a hypothetical she does not develop.)",
+      "transcript_snippet": "That Sid Rosen character, if I told you he was connected to Egypt and Israel, you wouldn't even believe me, so I'll skip that portion.",
+      "mentions_person_refs": [
+        "N-516",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14750",
+      "ref": "C-14750",
+      "label": "Host Says Faumuina's Father Later Claimed the Gang Was Upset About His Brother's Mormon Mission",
+      "claim": "The host says that in later articles Faumuina's father claimed the gang was upset because his brother was going on a Mormon mission.",
+      "anchored_artifacts": [
+        "A-2160.1"
+      ],
+      "related_nodes": [
+        "N-11403"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:25:35",
+      "investigative_direction": "Locate the later articles and the father's quoted words.",
+      "transcript_snippet": "In later articles, Jennifer's father would claim that the the gang was upset because he was going on his Mormon mission.",
+      "mentions_person_refs": [
+        "N-514",
+        "N-515",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14751",
+      "ref": "C-14751",
+      "label": "Host Says Ward Members Denied Misiona Faumuina Was in a Gang While His Older Brother Did Not",
+      "claim": "The host says ward members spoke out denying that Misiona Faumuina was in a gang, while his older brother did not deny it and said he fell into trouble.",
+      "anchored_artifacts": [
+        "A-2160.1"
+      ],
+      "related_nodes": [
+        "N-11403"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:25:35",
+      "investigative_direction": "Retrieve the 1995 and later articles with the ward members' and brother's statements.",
+      "transcript_snippet": "The ward members would speak out denying that he was in a gang, which is rather curious because his older brother is not denying it saying he fell into trouble, whatever.",
+      "mentions_person_refs": [
+        "N-515",
+        "N-514",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14752",
+      "ref": "C-14752",
+      "label": "Host Says Courtney Love Called the Mormon Mafia an Extension of the Zionist Mafia",
+      "claim": "The host says Courtney Love, whom she connected with before Charlie Kirk died, kept telling her the Mormon mafia is an extension of the Zionist mafia.",
+      "anchored_artifacts": [
+        "A-3341.1"
+      ],
+      "related_nodes": [
+        "N-10249"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:26:25",
+      "investigative_direction": "Review the host's messages with Courtney Love for the date and the exact words about the Mormon mafia.",
+      "transcript_snippet": "She kept saying it is an extension of the Zionist mafia, the Mormon mafia.",
+      "supports_claim_refs": [
+        "C-1705"
+      ],
+      "mentions_person_refs": [
+        "N-257",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14753",
+      "ref": "C-14753",
+      "label": "Host Says Rereading Love's Messages She Thinks Love Knew What She Was Talking About",
+      "claim": "The host says she has now reread Courtney Love's messages and thinks Love knew exactly what she was talking about regarding the Mormon mafia.",
+      "anchored_artifacts": [
+        "A-3341.1"
+      ],
+      "related_nodes": [
+        "N-10249"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:26:25",
+      "investigative_direction": "Ask the host to release the Love messages or describe which statements she means.",
+      "transcript_snippet": "And I go back now and I read those messages and I'm going, she knew exactly what she was talking about, I think.",
+      "mentions_person_refs": [
+        "N-257",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14754",
+      "ref": "C-14754",
+      "label": "Host Says She Has Not Abandoned Her Sense That Israel Was Involved in the Assassination",
+      "claim": "The host says she has not abandoned her deep sense that Israel was involved in the assassination of Charlie Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:26:25",
+      "investigative_direction": "Ask the host for the specific evidence tying Israel to the assassination; this is a stated belief. (A stated belief, not a finding.)",
+      "transcript_snippet": "I have not abandoned my deep sense that Israel was involved in the assassination of Charlie Kirk.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14755",
+      "ref": "C-14755",
+      "label": "Host Says the Assassination Took Place in Mormon Territory and Promises Connections Tomorrow",
+      "claim": "The host says the assassination took place in Mormon territory, which makes it curious, and that she will thread together connections the next day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10249",
+        "N-10094"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:27:21",
+      "investigative_direction": "Watch the next episode for the promised connections and test each against records.",
+      "transcript_snippet": "But that the assassination took place in Mormon territory makes it curious.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14756",
+      "ref": "C-14756",
+      "label": "Turek Says No CPR Was Done for Most of the Ride and Harpole Is Correct",
+      "claim": "Frank Turek says Brian Harpole is correct that most of the ride they were not doing CPR because they were trying to stop the bleeding, so no CPR was done during that time.",
+      "anchored_artifacts": [
+        "A-2161.1"
+      ],
+      "related_nodes": [
+        "N-10737",
+        "N-10699"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:07",
+      "investigative_direction": "Obtain the unedited Shawn Ryan audio and compare with Harpole's sworn statements.",
+      "transcript_snippet": "Brian is correct that most of the ride we weren't doing any CPR.",
+      "supports_claim_refs": [
+        "C-4709"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14757",
+      "ref": "C-14757",
+      "label": "Turek Says He Tried CPR for 20 to 30 Seconds Near the End After Eight or Nine Minutes",
+      "claim": "Frank Turek says that at about eight or nine minutes into the ride Charlie was not breathing and had no heartbeat, so he tried to start his heart for 20 to 30 seconds at the very end.",
+      "anchored_artifacts": [
+        "A-2161.1"
+      ],
+      "related_nodes": [
+        "N-10687",
+        "N-10737"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:07",
+      "investigative_direction": "Compare with the ambulance and hospital arrival times and the length of the ride in dispatch logs.",
+      "transcript_snippet": "We got to be nearing like 8 or 9 minutes, and he's not breathing, and there's no heartbeat.",
+      "supports_claim_refs": [
+        "C-4708"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14758",
+      "ref": "C-14758",
+      "label": "Turek Suggests Harpole Was Preoccupied as They Pulled Into the Parking Lot",
+      "claim": "Frank Turek says that as they pulled into the hospital parking lot Harpole may have been preoccupied or talking to someone else and did not see the CPR attempt, though he says maybe Harpole did.",
+      "anchored_artifacts": [
+        "A-2161.1"
+      ],
+      "related_nodes": [
+        "N-10737"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:32:13",
+      "investigative_direction": "Compare Harpole's account of the last minute of the ride with Turek's.",
+      "transcript_snippet": "Now, maybe as we're yanking and banking into the into the uh into the parking lot Brian was preoccupied thinking or talking to somebody else or whatever",
+      "mentions_person_refs": [
+        "N-7",
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14759",
+      "ref": "C-14759",
+      "label": "Turek Says Harpole Has a Lawsuit Against the Host and Probably Cannot Talk About It",
+      "claim": "Frank Turek says Brian Harpole has a lawsuit against Candace Owens, so he does not think Harpole can talk about any of this, though someone could call him.",
+      "anchored_artifacts": [
+        "A-2161.1"
+      ],
+      "related_nodes": [
+        "N-10651"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:13",
+      "investigative_direction": "Check the Harpole docket and any protective orders that would limit his public statements.",
+      "transcript_snippet": "In fact, he's got a lawsuit against Candace Owens right now. So, I don't think he can even talk about any of this.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-270",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14760",
+      "ref": "C-14760",
+      "label": "Host Says Harpole Told Them He Was Focused on Working the Whole Time",
+      "claim": "The host says Brian Harpole told her he just got to work the whole time, and that this was his number one focus.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10699"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:34:10",
+      "investigative_direction": "Compare Harpole's interview and deposition statements about what he was doing in the car.",
+      "transcript_snippet": "He told us he just got to work the whole time. That was his number one focus.",
+      "supports_claim_refs": [
+        "C-2968"
+      ],
+      "mentions_person_refs": [
+        "N-270",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14761",
+      "ref": "C-14761",
+      "label": "Host Says the Account Was That the Door Stayed Open Because Kirk's Legs Were Too Long",
+      "claim": "The host says the account was that the door was left open because Charlie's legs were too long, and that CPR requires the person to be lying flat.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10687"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:34:10",
+      "investigative_direction": "Identify who first said the door was open because of Kirk's legs and compare with the layout of the vehicle seats.",
+      "transcript_snippet": "because we were told the door was open because Charlie's legs were too long. You do have to have someone flat to conduct CPR.",
+      "supports_claim_refs": [
+        "C-13071"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-7",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14762",
+      "ref": "C-14762",
+      "label": "Host Says Turek Spoke for Three Hours on the Shawn Ryan Show",
+      "claim": "The host says Frank Turek spoke for three hours on the Shawn Ryan Show.",
+      "anchored_artifacts": [
+        "A-2161.1"
+      ],
+      "related_nodes": [
+        "N-10681"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:35:18",
+      "investigative_direction": "Check the Shawn Ryan Show episode length and date.",
+      "transcript_snippet": "You just spoke for 3 hours on the Shawn Ryan show.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-228"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14763",
+      "ref": "C-14763",
+      "label": "Host Says the Entire Turning Point Team Stayed in Salt Lake City",
+      "claim": "The host says the true version of events is that the entire Turning Point team stayed in Salt Lake City.",
+      "anchored_artifacts": [
+        "A-2162.2"
+      ],
+      "related_nodes": [
+        "N-10732",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:36:05",
+      "investigative_direction": "Obtain the TPUSA group booking, folio or expense records for September 10.",
+      "transcript_snippet": "The entire Turning Point team stayed in Salt Lake City.",
+      "mentions_person_refs": [
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14764",
+      "ref": "C-14764",
+      "label": "Interviewer Recalls Neff Said He Stayed at a Hotel in Orem and Left Once for Food",
+      "claim": "In the clip, the interviewer says that the first time they spoke, Blake Neff said he spent the night in Orem at a hotel and may have left the hotel once for food.",
+      "anchored_artifacts": [
+        "A-2162.1"
+      ],
+      "related_nodes": [
+        "N-10732",
+        "N-10715"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:36:05",
+      "investigative_direction": "Obtain the first interview recording or notes and compare with the second.",
+      "transcript_snippet": "The first time I talked to you, you said you spent the night in Orem. You stayed at a hotel. You may have left the hotel once for food.",
+      "mentions_person_refs": [
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14765",
+      "ref": "C-14765",
+      "label": "Neff Says He Took the Orem Question to Mean Utah Versus Returning to Phoenix",
+      "claim": "Blake Neff says he interpreted the question as whether he stayed in Utah, as opposed to returning to Phoenix, where he lives.",
+      "anchored_artifacts": [
+        "A-2162.2"
+      ],
+      "related_nodes": [
+        "N-10732"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:36:56",
+      "investigative_direction": "Compare with Neff's flight and return travel records for September 10 and 11.",
+      "transcript_snippet": "I interpreted as, \"Did you stay in Utah that night?\" as opposed to returning to Phoenix, where I live.",
+      "mentions_person_refs": [
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14766",
+      "ref": "C-14766",
+      "label": "Neff Says Everyone Stayed in Basically the Same Hotel, in Salt Lake He Thinks",
+      "claim": "Blake Neff says that to his knowledge everyone stayed in basically the same hotel and that he thinks it was in Salt Lake.",
+      "anchored_artifacts": [
+        "A-2162.2"
+      ],
+      "related_nodes": [
+        "N-10732"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:36:56",
+      "investigative_direction": "Get TPUSA's lodging list for the trip and the hotel's guest records through legal process.",
+      "transcript_snippet": "We were all in to my knowledge the basic the same hotel, and it was I think in Salt Lake.",
+      "mentions_person_refs": [
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14767",
+      "ref": "C-14767",
+      "label": "Host Says the Salt Lake Stay Is Confirmed by Where the Team Bought Clothes, About 50 Miles Out",
+      "claim": "The host says that the team staying in Salt Lake, about 50 miles from where Charlie was in Orem and Provo, is confirmed by where they bought clothes, and that she does not understand why they stayed so far away.",
+      "anchored_artifacts": [
+        "A-2162.2"
+      ],
+      "related_nodes": [
+        "N-10732"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:36:56",
+      "investigative_direction": "Identify the clothing purchases (stores, times, cardholders) referred to by the host.",
+      "transcript_snippet": "that's confirmed on the basis of where they bought clothes",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14768",
+      "ref": "C-14768",
+      "label": "Host Says Neff Flew With Charlie but Did Not Go to the Event and Other Staff Also Flew Into Salt Lake",
+      "claim": "The host says Blake Neff flew with Charlie Kirk but did not go to the Utah event, and that other Turning Point staffers also flew into Salt Lake City without attending.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10732",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:38:14",
+      "investigative_direction": "Obtain the flight manifest and TPUSA's travel list for September 9 and 10.",
+      "transcript_snippet": "But he flew with Charlie, but we know that he didn't go, and other Turning Point staffers also flew into Salt Lake City.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14769",
+      "ref": "C-14769",
+      "label": "Host Floats That Salt Lake Was the Hub Because the Vice President Was Expected to Fly In",
+      "claim": "The host speculates that Salt Lake City was the hub because the team anticipated that the vice president would fly in and Salt Lake was nearer to where he would land.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10732"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:38:14",
+      "investigative_direction": "Check the Vice President's September 10 and 11 schedule and Secret Service advance plans. (Speculation by the host.)",
+      "transcript_snippet": "Maybe it's because they were anticipating that um the vice president was going to fly in, and maybe that was nearer to where he was going to fly in.",
+      "mentions_person_refs": [
+        "N-4",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14770",
+      "ref": "C-14770",
+      "label": "Host Asks Hotel Workers Who Saw the Turning Point Group to Email moretips@candaceowens.com",
+      "claim": "The host asks anyone who worked at a hotel and saw the scene of the Turning Point employees to send information to moretips@candaceowens.com.",
+      "anchored_artifacts": [
+        "A-3342.1"
+      ],
+      "related_nodes": [
+        "N-10732"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:38:14",
+      "investigative_direction": "Record the tip volume and whether a hotel is later identified. (DIA tip line request.)",
+      "transcript_snippet": "Please send us something to moretips@candaceowens. com.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14771",
+      "ref": "C-14771",
+      "label": "Host Says the Feds' Hotel Is Known but Turning Point's Is Not and TPUSA Staff Do Not Know",
+      "claim": "The host says the hotel the feds stayed in is known but the hotel Turning Point USA stayed in is not, and that Turning Point staffers she contacted have no idea.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10732",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:39:09",
+      "investigative_direction": "Obtain the FBI hotel booking records and TPUSA group lodging records.",
+      "transcript_snippet": "We definitely know what hotel the feds were staying at. We don't know what hotel Turning Point USA was staying at, and I have gone out to Turning Point staffers. They have no idea.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14772",
+      "ref": "C-14772",
+      "label": "Host Says Kolvet Fired the Person Under Him, Letting Her Confirm More of His Lies",
+      "claim": "The host says Andrew Kolvet fired the person who worked under him, and that this let her confirm even more lies Kolvet was telling the public.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:39:40",
+      "investigative_direction": "Identify the staffer, the date of the firing and the statements the host says were lies.",
+      "transcript_snippet": "we got a gift in the form of him firing the person who worked under him, so I was able to confirm even more lies that Andrew Kolvet was telling to the public.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14773",
+      "ref": "C-14773",
+      "label": "Host Says Kolvet Claims His Show Is Doing Great While Hers Is Crashing",
+      "claim": "The host says Andrew Kolvet is telling people that his show is doing great while hers is crashing and her metrics are down.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:39:40",
+      "investigative_direction": "Compare public viewership figures for both shows over the same period.",
+      "transcript_snippet": "He's telling me that his show's doing great, my show's crashing. My metrics are down.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14774",
+      "ref": "C-14774",
+      "label": "Host Says No One Has Accused Andrew Kolvet or His Brother of Being at Fort Huachuca",
+      "claim": "The host says no one has ever accused Andrew Kolvet, or his brother, of being at Fort Huachuca, and that the brother responded to an obscure account.",
+      "anchored_artifacts": [
+        "A-2163.1"
+      ],
+      "related_nodes": [
+        "N-10739"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:40:21",
+      "investigative_direction": "Find the account the Lt. Col. was replying to and what it claimed.",
+      "transcript_snippet": "No one has ever accused Andrew Kolvet as at being as being at Fort Huachuca. No one ever accused his brother.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-696",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14775",
+      "ref": "C-14775",
+      "label": "Lt. Col. Kolvet Says Two of His Three Days at Huachuca Were Travel Days for MP Training",
+      "claim": "Lieutenant Colonel Kolvet writes on X that two of his three days at Fort Huachuca were travel days, and that he was visiting his military police unit training with the base military police.",
+      "anchored_artifacts": [
+        "A-2163.1"
+      ],
+      "related_nodes": [
+        "N-10739"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:41:03",
+      "investigative_direction": "Verify the unit, dates and orders for the trip through the Army or the National Guard.",
+      "transcript_snippet": "And two of those days were travel days as I visited my military police unit training with the base military police from Huachuca.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-696"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14776",
+      "ref": "C-14776",
+      "label": "Host Says Andrew Kolvet Replied That He Cannot Even Say Huachuca",
+      "claim": "The host says Andrew Kolvet chimed in on his brother's post saying he cannot even say the name and that people cannot pronounce it.",
+      "anchored_artifacts": [
+        "A-3343.1"
+      ],
+      "related_nodes": [
+        "N-10739"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:41:03",
+      "investigative_direction": "Pull Andrew Kolvet's reply on X with its date.",
+      "transcript_snippet": "And then Andrew chimes in like, \"Yeah, I can't even say it.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14777",
+      "ref": "C-14777",
+      "label": "Host Says She Believes Andrew Kolvet Has Heard of Fort Huachuca Given Where He Lives and Erika's Family",
+      "claim": "The host says she believes Andrew Kolvet has heard of Fort Huachuca given where he lives and what Erika's family does, and that she thinks he is lying about not knowing it.",
+      "anchored_artifacts": [
+        "A-3343.1"
+      ],
+      "related_nodes": [
+        "N-10739",
+        "N-10435"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:41:49",
+      "investigative_direction": "Check Kolvet's residence history and earlier public mentions of Fort Huachuca by him or the Frantzve family. (Host's inference, not a document.)",
+      "transcript_snippet": "I do think that Andrew has heard of Fort Huachuca. I do. Just by the nature of where he lives, by the nature of what Erika's family does",
+      "mentions_person_refs": [
+        "N-14",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14778",
+      "ref": "C-14778",
+      "label": "Host Says Fort Huachuca Is a Massive Intel Base Directing the Border Joint Task Force",
+      "claim": "The host says Fort Huachuca is a massive intelligence base that directs the joint task force at the border.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10739"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:41:49",
+      "investigative_direction": "Check the Army's description of Fort Huachuca's tenants and mission, including Joint Task Force Southern Border.",
+      "transcript_snippet": "this massive intel base, uh which directs what's going on at the border, joint task force at the border since forever.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14779",
+      "ref": "C-14779",
+      "label": "Host Says Her Team Found Who Told People He Was at Lunch With Ben Shapiro",
+      "claim": "The host says her team instantly found who had been telling people that he was at lunch with Ben Shapiro when he got the phone call, and that it opened a huge door that needs more research.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10748"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:45:25",
+      "investigative_direction": "Wait for the promised identification this week and check it against the September 10 call timeline.",
+      "transcript_snippet": "We instantly actually found out at least who went around and told people that he was at lunch with Ben Shapiro, and it opened >> >> a huge door",
+      "mentions_person_refs": [
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14780",
+      "ref": "C-14780",
+      "label": "Host Says the Person Is Willing to Go on Record and She Will Name Him This Week",
+      "claim": "The host says the person who can speak to this was willing to come forward on record and that she will reveal the information before the week is out.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10748"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:46:11",
+      "investigative_direction": "Check the following episodes of this week for the promised disclosure.",
+      "transcript_snippet": "the person was willing to come forward on record and say that.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14781",
+      "ref": "C-14781",
+      "label": "Host Says Omaha Was One of the Egyptian Plane Stops",
+      "claim": "The host says Omaha, Nebraska was one of the stops of the Egyptian planes she has tracked.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10347",
+        "N-11094"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:46:11",
+      "investigative_direction": "Review the Egyptian aircraft flight logs for Omaha stops.",
+      "transcript_snippet": "Uh Omaha, Nebraska, one of our Egyptian plane stops.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14782",
+      "ref": "C-14782",
+      "label": "Host Describes the Franklin Scandal as a $40 Million Fraud With Abuse and Satanic Ritual Abuse Claims",
+      "claim": "The host describes the Franklin scandal in Omaha as a widely debated conspiracy theory involving a $40 million financial fraud, claims of abuse by high-ranking politicians and satanic ritual abuse.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11404"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:46:11",
+      "investigative_direction": "Consult court records and the Nebraska legislative report on the Franklin Credit Union case.",
+      "transcript_snippet": "the scandal involving a $40 million financial fraud uh claims of abuse by high-ranking politicians and satanic ritual abuse.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14783",
+      "ref": "C-14783",
+      "label": "Host Says Utah Has Cameras Statewide Yet No Clear Shot of Tyler Robinson",
+      "claim": "The host says Utah has cameras all across the state and yet no clear shot of Tyler Robinson has been produced, and that the shooter's track on the rooftop cannot be followed.",
+      "anchored_artifacts": [
+        "A-3344.1"
+      ],
+      "related_nodes": [
+        "N-11405",
+        "N-10257",
+        "N-10271"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:48:01",
+      "investigative_direction": "Request the camera inventory and retained footage for Utah County from Flock, UDOT and UVU.",
+      "transcript_snippet": "Utah has cameras all throughout the state and yet we just can't get a clear shot of Tyler Robinson for some reason.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14784",
+      "ref": "C-14784",
+      "label": "Host Says There Is No Video of the Shot Being Taken and She Believes the Rooftop Man Never Took It",
+      "claim": "The host says no video can be found of the rooftop man taking the shot, and that she believes this is because he never took it, calling him another decoy.",
+      "anchored_artifacts": [
+        "A-3344.1"
+      ],
+      "related_nodes": [
+        "N-11402"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:48:01",
+      "investigative_direction": "Check whether any recorded video or audio places the rooftop man at the moment of the shot. (Belief of the host, not a finding.)",
+      "transcript_snippet": "we can't even get a video of him taking the shot. And that's I believe cuz he never took it.",
+      "supports_claim_refs": [
+        "C-12114"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14785",
+      "ref": "C-14785",
+      "label": "Host Says She Agrees With O'Neill That It Looks Like an Explosion Under the Shirt",
+      "claim": "The host says she agrees with Robert O'Neill that it looks like an explosion went up under Kirk's shirt, and that O'Neill knows what a shot looks like up close.",
+      "anchored_artifacts": [
+        "A-2153.1"
+      ],
+      "related_nodes": [
+        "N-10734"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:48:43",
+      "investigative_direction": "Commission an independent forensic analysis of the shirt motion in the published footage.",
+      "transcript_snippet": "And I agree with Robert O'Neill, it looks like an explosion went up a happened under his shirt.",
+      "supports_claim_refs": [
+        "C-3058"
+      ],
+      "mentions_person_refs": [
+        "N-156",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14786",
+      "ref": "C-14786",
+      "label": "Host Says She Has a Deep Sense of Which TPUSA Person Will Claim to Have Seen Robinson",
+      "claim": "The host says she has a deep sense of who at Turning Point USA will come forward as a person who says they saw Tyler Robinson, and that she is waiting for the name to be released.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:37",
+      "investigative_direction": "Monitor trial filings and witness lists for any TPUSA employee who claims to have seen Robinson before the shooting. (A prediction by the host.)",
+      "transcript_snippet": "I have a deep sense of who that person is going to be at Turning Point USA who's going to say that they saw Tyler Robinson.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14787",
+      "ref": "C-14787",
+      "label": "Host Says the Farnsworths Took Down the Cameras and Go Way Back",
+      "claim": "The host says the Farnsworth family, which she calls a big Mormon family, took down the cameras, and that they and others go way back.",
+      "anchored_artifacts": [
+        "A-3344.2"
+      ],
+      "related_nodes": [
+        "N-10383",
+        "N-10346"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:37",
+      "investigative_direction": "Obtain records of who removed the cameras at the site and who authorized it.",
+      "transcript_snippet": "Of course, Farnsworth's, big Mormon family, taking down the cameras.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14788",
+      "ref": "C-14788",
+      "label": "Viewer Comment Says the Web Around the Tyler Bowyer Family Is Mormon and Host Calls It Generational",
+      "claim": "A viewer comment read by the host says the web connected to the Tyler Bowyer family, who are Mormons, is the through-line, and the host replies that it is generational.",
+      "anchored_artifacts": [
+        "A-3344.2"
+      ],
+      "related_nodes": [
+        "N-10249"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:49:37",
+      "investigative_direction": "Check public records on the Bowyer family's religious affiliation and organizations, and whether this matters to the case.",
+      "transcript_snippet": "Today I say it keeps coming back to the Mormons and the web connected to the Tyler Bowyer family, who are Mormons.",
+      "mentions_person_refs": [
+        "N-11",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14789",
+      "ref": "C-14789",
+      "label": "Host Says She Would Testify for the Prosecution or the Defense",
+      "claim": "The host says that, as she has said many times, she would testify for the prosecution or the defense because the truth is the truth.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:50:21",
+      "investigative_direction": "Watch the witness lists in the Robinson case for any subpoena to the host.",
+      "transcript_snippet": "I would testify for the prosecution or the defense cuz the truth is the truth.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14790",
+      "ref": "C-14790",
+      "label": "Host Says the Screwdriver Apparently Cannot Unscrew the Weapon Said to Have Been Fired",
+      "claim": "The host says the screwdriver apparently cannot even unscrew the weapon that officials say was fired.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10090",
+        "N-11143"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:51:15",
+      "investigative_direction": "Test the recovered screwdriver against the rifle's fasteners.",
+      "transcript_snippet": "The screwdriver that apparently can't even unscrew the weapon that they're saying was fired.",
+      "supports_claim_refs": [
+        "C-1243"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14791",
+      "ref": "C-14791",
+      "label": "Viewer Comment Says Erika Said We Do Not Know How Charlie Would Feel About the Iran War",
+      "claim": "A viewer comment read by the host says Erika Kirk said in a clip that we do not know how Charlie would feel about the Iran war, and the host says she saw the clip.",
+      "anchored_artifacts": [
+        "A-3344.3",
+        "A-3345.1"
+      ],
+      "related_nodes": [
+        "N-10539"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:51:15",
+      "investigative_direction": "Locate the clip, its date and the exact words Erika Kirk used.",
+      "transcript_snippet": "Have you seen the clip where Erika says we don't know how Charlie would feel about the Iran war?",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14792",
+      "ref": "C-14792",
+      "label": "Host Says Tucker, Weinstein and Kent Confirmed Charlie Fought Hard Behind the Scenes Against the Iran War",
+      "claim": "The host says Tucker Carlson, Bret Weinstein and Joe Kent have all confirmed that Charlie Kirk was fighting hard behind the scenes to stop the Iran war.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10539",
+        "N-11128"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:51:15",
+      "investigative_direction": "Collect the specific statements by Carlson, Weinstein and Kent and their dates.",
+      "transcript_snippet": "Tucker, Brett Weinstein, Joe Kent have all confirmed that he was fighting hard behind the scenes to stop it.",
+      "supports_claim_refs": [
+        "C-2526"
+      ],
+      "mentions_person_refs": [
+        "N-22",
+        "N-598",
+        "N-213",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14793",
+      "ref": "C-14793",
+      "label": "Host Says Erika Was Loyal to Bowyer, the Farnsworths and Her Mother While Married to Charlie",
+      "claim": "The host says she believes Erika Kirk had more loyalty to the people who brought her in, naming Tyler Bowyer, the Farnsworths and her mother, and served them while married to Charlie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10383"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:52:08",
+      "investigative_direction": "Trace Erika Kirk's relationships and roles with Bowyer and the Farnsworths before and after the marriage. (Host's thesis.)",
+      "transcript_snippet": "I believe she had more loyalty to people that brought her in. Tyler Bowyer and the Farnsworths and her mother, they go back.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-11",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14794",
+      "ref": "C-14794",
+      "label": "Host Says Erika Brought In People Charlie Hated and Said They Were His Friends",
+      "claim": "The host says Erika Kirk reversed Charlie's positions, brought in people he hated, and tried to lie and say they were his friends.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:52:08",
+      "investigative_direction": "List the individuals the host means and document Charlie Kirk's own statements about each.",
+      "transcript_snippet": "the bringing the people that he hated, trying to lie and say they were his friends.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14795",
+      "ref": "C-14795",
+      "label": "Host Says the Pale of Settlement Emigrants Left Russia After Coordinating the Tsar's Assassination",
+      "claim": "The host says that, according to the book club chapter, the people who left the Pale of Settlement left Russia after they coordinated the assassination of the Tsar.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:52:53",
+      "investigative_direction": "Consult historians on the emigration from the Pale of Settlement and the 1881 assassination of Alexander II.",
+      "transcript_snippet": "the people who left the Pale of Settlement, left Russia after they coordinated the assassination of the Tsar.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-14796",
+      "ref": "C-14796",
+      "label": "Host Says She Does Not Employ Anyone to Go After Critics or Team Up Behind the Scenes",
+      "claim": "The host says she does not employ anybody to go after critics and does not team up behind the scenes, and that she investigates what interests her.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:53:34",
+      "investigative_direction": "Compare with the host's staff and contractor disclosures.",
+      "transcript_snippet": "who does not employ anybody to go after them at all. I don't team up behind the scenes, nothing.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-24",
+      "ref": "M-24",
+      "canonical_term": "Yanking and Banking",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 128,
+          "video_timestamp": "00:32:13",
+          "speaker_node_ref": "N-7",
+          "quote": "when we're pulling into the hospital parking lot, and we're yanking and banking our way there.",
+          "context": "Frank Turek clip first supplies the phrase the host later runs as a gag.",
+          "confidence": "high",
+          "tags": [
+            "frank_turek",
+            "hospital_ride"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 128,
+          "video_timestamp": "00:07:42",
+          "speaker_node_ref": "N-3",
+          "quote": "Bring on the grieving widow.",
+          "context": "Host sarcastically says officials will just bring on the grieving widow while ignoring experts.",
+          "confidence": "high",
+          "tags": [
+            "grieving widow",
+            "sarcasm"
+          ]
+        },
+        {
+          "episode": 128,
+          "video_timestamp": "00:52:08",
+          "speaker_node_ref": "N-3",
+          "quote": "There's no way that any actually grieving widow would allow that.",
+          "context": "Host says no actually grieving widow would reverse Charlie's positions and return to work.",
+          "confidence": "high",
+          "tags": [
+            "grieving widow",
+            "erika"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-6",
+      "ref": "M-6",
+      "canonical_term": "conspiracy theorist",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 128,
+          "video_timestamp": "00:10:43",
+          "speaker_node_ref": "N-3",
+          "quote": "And we're called the conspiracy theorists for noticing these discrepancies and keeping track of them.",
+          "context": "Host says people who track official discrepancies get called conspiracy theorists.",
+          "confidence": "high",
+          "tags": [
+            "conspiracy theorist"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 128,
+          "video_timestamp": "00:38:14",
+          "speaker_node_ref": "N-3",
+          "quote": "Please send us something to moretips@candaceowens. com.",
+          "context": "Host asks hotel workers who saw the Turning Point group to email tips.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tips",
+            "tip line"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-18",
+      "ref": "M-18",
+      "canonical_term": "Make Him a Sandwich",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 128,
+          "video_timestamp": "00:52:53",
+          "speaker_node_ref": "N-3",
+          "quote": "Make him a sandwich.",
+          "context": "Host plugs the book club chapter by naming her book while promoting the club.",
+          "confidence": "high",
+          "tags": [
+            "book club",
+            "merch"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-19",
+      "ref": "M-19",
+      "canonical_term": "Go Max",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 128,
+          "video_timestamp": "00:50:21",
+          "speaker_node_ref": "N-3",
+          "quote": "Go, Max.",
+          "context": "Host reads a viewer comment ending in the Go Max refrain.",
+          "confidence": "high",
+          "tags": [
+            "go max",
+            "viewer comment"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-33",
+      "ref": "M-33",
+      "canonical_term": "Just Asking Questions",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 128,
+          "video_timestamp": "00:03:29",
+          "speaker_node_ref": "N-156",
+          "quote": "Yeah, I'm a I'm a SEAL Team 6 sniper. I'm asking a lot of questions.",
+          "context": "O'Neill turns the mocking 'just asking questions' line on his critics.",
+          "confidence": "high",
+          "tags": [
+            "asking questions",
+            "o'neill"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-66",
+      "ref": "M-66",
+      "canonical_term": "Fed Slop",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 128,
+          "video_timestamp": "00:07:59",
+          "speaker_node_ref": "N-3",
+          "quote": "I'd argue it's actually a full-time job to keep track of Fed slop, but somebody's got to do it.",
+          "context": "Host says tracking official narratives is a full-time job.",
+          "confidence": "high",
+          "tags": [
+            "fed slop"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-87",
+      "ref": "M-87",
+      "canonical_term": "Military Bros",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 128,
+          "video_timestamp": "00:48:43",
+          "speaker_node_ref": "N-3",
+          "quote": "these little boys that are on YouTube all day telling us what to believe.",
+          "context": "Host mocks the veteran YouTubers who dismiss O'Neill's assessment.",
+          "confidence": "high",
+          "tags": [
+            "military bros",
+            "youtube"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-107",
+      "ref": "M-107",
+      "canonical_term": "Stop Anti-Candaceism",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 128,
+          "video_timestamp": "00:52:53",
+          "speaker_node_ref": "N-3",
+          "quote": "Stop anti-Candacism. It is spreading rapidly.",
+          "context": "Host plugs the Stand With Candace cup while parodying antisemitism rhetoric.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "anti-candacism"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-121",
+      "ref": "M-121",
+      "canonical_term": "Decoy Boy",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 128,
+          "video_timestamp": "00:48:43",
+          "speaker_node_ref": "N-3",
+          "quote": "He was another decoy boy that day.",
+          "context": "Host calls the rooftop man another decoy boy.",
+          "confidence": "high",
+          "tags": [
+            "decoy boy"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-147",
+      "ref": "M-147",
+      "canonical_term": "Crash Out",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 128,
+          "video_timestamp": "00:39:40",
+          "speaker_node_ref": "N-3",
+          "quote": "he's crashing out in a way that it's difficult",
+          "context": "Host says Andrew Kolvet is crashing out on X.",
+          "confidence": "high",
+          "tags": [
+            "crash out",
+            "kolvet"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-185",
+      "ref": "M-185",
+      "canonical_term": "Amnesia",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 128,
+          "video_timestamp": "00:36:05",
+          "speaker_node_ref": "N-3",
+          "quote": "everybody is somehow, I don't know, uh developing amnesia.",
+          "context": "Host jokes that figures in the case are developing amnesia, starting with Blake Neff.",
+          "confidence": "high",
+          "tags": [
+            "amnesia",
+            "neff"
+          ]
+        },
+        {
+          "episode": 128,
+          "video_timestamp": "00:39:09",
+          "speaker_node_ref": "N-3",
+          "quote": "It's a random detail that's now interesting because Blake has developed amnesia.",
+          "context": "Host says Neff's forgetfulness over the hotel makes the detail interesting.",
+          "confidence": "high",
+          "tags": [
+            "amnesia",
+            "neff"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-186",
+      "ref": "M-186",
+      "canonical_term": "Squishmallow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 128,
+          "video_timestamp": "00:47:19",
+          "speaker_node_ref": "N-3",
+          "quote": "Blake Neff acts like he lost his Squishmallow.",
+          "context": "Host reads a viewer comment comparing Neff to a child who lost a Squishmallow.",
+          "confidence": "high",
+          "tags": [
+            "squishmallow",
+            "neff"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-343",
+      "ref": "M-343",
+      "canonical_term": "Frank Versus Frank",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 128,
+          "video_timestamp": "00:30:22",
+          "speaker_node_ref": "N-3",
+          "quote": "Let's start with Frank Cheric versus Frank Cheric cuz that's my favorite UFC matchup.",
+          "context": "Host frames Frank Turek's new account against his earlier one as a fight card.",
+          "confidence": "high",
+          "tags": [
+            "frank turek",
+            "running bit"
+          ]
+        },
+        {
+          "episode": 128,
+          "video_timestamp": "00:47:19",
+          "speaker_node_ref": "N-3",
+          "quote": "How mad Frank Church can get at Frank Church.",
+          "context": "Host calls the Turek-versus-Turek anger a beat on the show after a viewer comment.",
+          "confidence": "high",
+          "tags": [
+            "frank turek",
+            "running bit"
+          ]
+        }
+      ]
+    }
+  ]
 }

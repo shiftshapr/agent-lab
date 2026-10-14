@@ -12,9 +12,9 @@
 - **Model Version**: grok-manual-extract-seq159
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-11093, N-11095
+  - Tip-minted Nodes (supplement_2026-10): N-11095
   - Claim Range (supplement_2026-10): C-6351–C-6448
-  - Reused Nodes Appearing: N-1, N-2, N-9, N-22, N-36, N-37, N-40, N-46, N-5, N-69, N-82, N-85, N-98, N-14, N-194, N-275, N-221, N-443, N-270, N-7, N-502, N-274, N-541, N-383, N-162, N-10033, N-10056, N-10324, N-10388, N-10839, N-10859, N-10860, N-10863, N-10864, N-10866, N-10868, N-10, N-13, N-18, N-8, N-19, N-20, N-21, N-23, N-24, N-25, N-26, N-28, N-29, N-132, N-153, N-163, N-10870, N-10871, N-16, N-47, N-48, N-89, N-95, N-99, N-287, N-369, N-384, N-425, N-439, N-499, N-535, N-576, N-673, N-10002, N-10012, N-10016, N-10018, N-10036, N-10070, N-10075, N-10132, N-10134, N-10194, N-10211, N-10253, N-10276, N-10347, N-10366, N-10412, N-10434, N-10443, N-10446, N-10519, N-10524, N-10539, N-10571, N-10664, N-10668, N-10670, N-10674, N-10795, N-10865, N-10867, N-10900, N-10925, N-10927, N-11076, N-10869, N-11092, N-155, N-10872, N-10873, N-11094
+  - Reused Nodes Appearing: N-1, N-2, N-9, N-22, N-36, N-37, N-40, N-46, N-5, N-69, N-82, N-85, N-98, N-14, N-194, N-275, N-221, N-443, N-270, N-7, N-502, N-274, N-541, N-383, N-162, N-10033, N-10056, N-10324, N-10388, N-10839, N-10859, N-10860, N-10863, N-10864, N-10866, N-10868, N-10, N-13, N-18, N-8, N-19, N-20, N-21, N-23, N-24, N-25, N-26, N-28, N-29, N-132, N-153, N-163, N-10870, N-10871, N-16, N-47, N-48, N-89, N-95, N-99, N-287, N-369, N-384, N-425, N-439, N-499, N-535, N-576, N-673, N-10002, N-10012, N-10016, N-10018, N-10036, N-10070, N-10075, N-10132, N-10134, N-10194, N-10211, N-10253, N-10276, N-10347, N-10366, N-10412, N-10434, N-10443, N-10446, N-10519, N-10524, N-10539, N-10571, N-10664, N-10668, N-10670, N-10674, N-10795, N-10865, N-10867, N-10900, N-10925, N-10927, N-11076, N-10869, N-11092, N-155, N-10872, N-10873, N-11094, N-11093
   - Hole-minted Nodes (remap-ep159): N-128, N-154, N-161
   - (see registers)
   - Person band: persons minted in this quality pass use N-8+ (see node register). Taylor Scornovako was not minted. Leah Thomas was not minted (phantom on the ep 158 true-new line only). Tim Dillon stays N-281 and N-281. Karoline Leavitt stays N-284. Pam Bondi, Todd Blanche, and Baron Coleman stay on their existing ids.
@@ -198,7 +198,7 @@ Confidence: high
 
 Video Timestamp: 00:34:39
 Speaker: N-3
-Quote: BB Netany and Yahoo who said we've got Monica Lewinsky
+Quote: BB Netanyahu who said we've got Monica Lewinsky
 Context: Host's pun in the Mega Maga story.
 Tags: netanyahu_pun, reuse
 Confidence: high
@@ -209,7 +209,7 @@ Confidence: high
 
 Video Timestamp: 01:00:00
 Speaker: N-3
-Quote: I don't even think about BB Netany and Yahoo.
+Quote: I don't even think about BB Netanyahu.
 Context: Host quotes Erika's Netanyahu line using the pun.
 Tags: netanyahu_pun, reuse
 Confidence: high
@@ -2383,7 +2383,7 @@ Investigative Direction: Verify the appointment date through GHF announcements a
 
 Claim Timestamp: 00:25:31
 
-Claim: The host says Johnny Moore is Andrew Kolvet's partner at the Chyros company, that Kolvet worked with Chyros before starting his own PR firm, and that TPUSA was taken on through Chyros, with Kolvet's email then at Chyros.
+Claim: The host says Johnny Moore is Andrew Kolvet's partner at the Kairos Company, that Kolvet worked with Chyros before starting his own PR firm, and that TPUSA was taken on through Chyros, with Kolvet's email then at Chyros.
 
 Transcript Snippet: Before Andrew started his own PR firm, he was working with Chyros.
 
@@ -2825,7 +2825,7 @@ Claim Timestamp: 00:34:39
 
 Claim: The host says her August 13 Epstein episode, 'Mega Maga and the MSAD', recounted that Bill Clinton stopped searching for a White House mole nicknamed Mega after Netanyahu allegedly blackmailed him with Monica Lewinsky tapes.
 
-Transcript Snippet: Bill Clinton set out to find until he got blackmailed by BB Netany and Yahoo who said we've got Monica Lewinsky um and you on tape
+Transcript Snippet: Bill Clinton set out to find until he got blackmailed by BB Netanyahu who said we've got Monica Lewinsky um and you on tape
 
 Anchored Artifacts: A-2469.1
 Mentions: N-3, N-36, N-425
@@ -3186,7 +3186,7 @@ Claim Timestamp: 01:00:00
 
 Claim: The host says Erika, after allegedly pushing her husband to be more against Israel's stance, now says she has no opinion and does not even think about Netanyahu.
 
-Transcript Snippet: I don't have an opinion. I don't even think about BB Netany and Yahoo.
+Transcript Snippet: I don't have an opinion. I don't even think about BB Netanyahu.
 
 Anchored Artifacts: A-2473.1
 Mentions: N-2, N-36

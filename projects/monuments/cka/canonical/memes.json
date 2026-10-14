@@ -2,7 +2,7 @@
   "version": 1,
   "description": "Canonical dictionary of memes, euphemisms, and codes \u2013 shared across monuments",
   "updated": "2026-10-08T19:40:19Z",
-  "next_id": 314,
+  "next_id": 355,
   "entries": {
     "M-1": {
       "canonical_term": "(meme) Grieving Widow",
@@ -2717,6 +2717,334 @@
       "definition": "Host riffs on the Eras Tour while describing Turning Point's conduct.",
       "context": "cka",
       "first_episode": 94
+    },
+    "M-314": {
+      "canonical_term": "(meme) The Rest Is Future",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host says she and Charlie replaced \"the rest is history\" with their own catchphrase.",
+      "context": "cka",
+      "first_episode": 1
+    },
+    "M-315": {
+      "canonical_term": "(meme) Agent Smith",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host likens the wave of critics who all reacted to her genocide tweet in the same way to Agent Smith multiplying in The Matrix.",
+      "context": "cka",
+      "first_episode": 3
+    },
+    "M-316": {
+      "canonical_term": "(meme) I Know What You Did This Summer",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host warns donors she will name more names about the Hamptons retreat.",
+      "context": "cka",
+      "first_episode": 3
+    },
+    "M-317": {
+      "canonical_term": "(meme) Little Lies",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host says she dislikes small lies about the Hamptons retreat and Charlie's position.",
+      "context": "cka",
+      "first_episode": 3
+    },
+    "M-318": {
+      "canonical_term": "(meme) A Lie Always Has to Sprint",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host says a lie must sprint because it is fearful, while the truth does not care.",
+      "context": "cka",
+      "first_episode": 10
+    },
+    "M-319": {
+      "canonical_term": "(meme) The Math Wasn't Mathing",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host restates that the excuses for the missing money did not add up.",
+      "context": "cka",
+      "first_episode": 10
+    },
+    "M-320": {
+      "canonical_term": "(meme) Didn't Kill Himself",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host cites the 'didn't kill himself' phrases as what people say when they expect the federal government is lying, and applies it to Tyler Robinson.",
+      "context": "cka",
+      "first_episode": 11
+    },
+    "M-321": {
+      "canonical_term": "(meme) Bullet Doing the Worm",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mocks any trajectory theory that requires the bullet to bend, asking ballistics people to map the straight path.",
+      "context": "cka",
+      "first_episode": 18
+    },
+    "M-322": {
+      "canonical_term": "(meme) Substitute Teachers",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host extends the high school class metaphor for the online investigation community to officials trying to calm it down.",
+      "context": "cka",
+      "first_episode": 18
+    },
+    "M-323": {
+      "canonical_term": "(meme) Fishing Takes Time",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's running fishing metaphor for waiting while her investigation draws responses.",
+      "context": "cka",
+      "first_episode": 19
+    },
+    "M-324": {
+      "canonical_term": "(meme) Charlie's David",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host reads Charlie's 2018 text asking her to be his David.",
+      "context": "cka",
+      "first_episode": 19
+    },
+    "M-325": {
+      "canonical_term": "(meme) I Am Not Governable",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host says she cannot be managed and compares herself to Kanye West.",
+      "context": "cka",
+      "first_episode": 47
+    },
+    "M-326": {
+      "canonical_term": "(meme) Israel Gets TikTok",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host jokes that TikTokers' antics will hand TikTok to Israel.",
+      "context": "cka",
+      "first_episode": 47
+    },
+    "M-327": {
+      "canonical_term": "(meme) Fan Fiction",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host calls the New York Post allegations fan fiction.",
+      "context": "cka",
+      "first_episode": 47
+    },
+    "M-328": {
+      "canonical_term": "(meme) Take Qatari Money",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host jokes she would take Qatari money and star in a Qatar Airways commercial.",
+      "context": "cka",
+      "first_episode": 47
+    },
+    "M-329": {
+      "canonical_term": "(meme) Here's Johnny",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host puns on The Shining (the episode title) while tying Johnny Moore to Kolvet and the Moonies.",
+      "context": "cka",
+      "first_episode": 55
+    },
+    "M-330": {
+      "canonical_term": "(meme) Mooney 2.0",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's label for Turning Point Faith as a successor to the Unification Church.",
+      "context": "cka",
+      "first_episode": 55
+    },
+    "M-331": {
+      "canonical_term": "(meme) Operation LOL, Candace Has Dreams",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's name for the campaign mocking her dreams, one of her series of named PR operations.",
+      "context": "cka",
+      "first_episode": 55
+    },
+    "M-332": {
+      "canonical_term": "(meme) A Pastor, a Priest and a Rabbi",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mocks the account of Charlie's final-day advisers as the start of a joke.",
+      "context": "cka",
+      "first_episode": 67
+    },
+    "M-333": {
+      "canonical_term": "(meme) The Righteous Gemstones",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's comparison of TPUSA to the satirical megachurch family from the HBO series.",
+      "context": "cka",
+      "first_episode": 71
+    },
+    "M-334": {
+      "canonical_term": "(meme) Purchased Reality",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's charge that TPUSA's money lets it buy a reality, such as inflated viewership.",
+      "context": "cka",
+      "first_episode": 71
+    },
+    "M-335": {
+      "canonical_term": "(meme) The Camala Thing",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's analogy that TPUSA is imposing Erika Kirk on the public as the Democrats imposed Kamala Harris.",
+      "context": "cka",
+      "first_episode": 71
+    },
+    "M-336": {
+      "canonical_term": "(meme) Red Heifer War",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host's label for the Iran war while opening the Kent segment.",
+      "context": "cka",
+      "first_episode": 80
+    },
+    "M-337": {
+      "canonical_term": "(meme) Finger Gate",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host names the six-fingers dispute over the March 14 Netanyahu video.",
+      "context": "cka",
+      "first_episode": 80
+    },
+    "M-338": {
+      "canonical_term": "(meme) Benjamin Button",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mocks Netanyahu's younger-looking March 15 video.",
+      "context": "cka",
+      "first_episode": 80
+    },
+    "M-339": {
+      "canonical_term": "(meme) Owens Flare-Up",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host names her pattern of crashing out and then calming down.",
+      "context": "cka",
+      "first_episode": 80
+    },
+    "M-340": {
+      "canonical_term": "(meme) Thirty-Three Signaling",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host mocks officials repeating 33 as Freemason signaling; she returns to it as 'cheesy like 33 33 33' and '33 behind her'.",
+      "context": "cka",
+      "first_episode": 85
+    },
+    "M-341": {
+      "canonical_term": "(meme) I'm So Good at Puzzles",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host brags about connecting the French trial to her earlier claims.",
+      "context": "cka",
+      "first_episode": 85
+    },
+    "M-342": {
+      "canonical_term": "(meme) Tangled Web We Weave",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host closes the BCG and Gaza Humanitarian Foundation segment with the phrase.",
+      "context": "cka",
+      "first_episode": 110
+    },
+    "M-343": {
+      "canonical_term": "(meme) Frank Versus Frank",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host frames Frank Turek's new account against his earlier one as a fight card.",
+      "context": "cka",
+      "first_episode": 128
+    },
+    "M-344": {
+      "canonical_term": "(meme) Conservabros",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host tells conservative commentators to read the August 11 filing.",
+      "context": "cka",
+      "first_episode": 147
+    },
+    "M-345": {
+      "canonical_term": "(meme) Pentagon Influencers",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host frames the neocon response to the bindover as Pentagon propaganda.",
+      "context": "cka",
+      "first_episode": 147
+    },
+    "M-346": {
+      "canonical_term": "(meme) What Luck",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host sarcastically calls the vehicle footage lucky.",
+      "context": "cka",
+      "first_episode": 147
+    },
+    "M-347": {
+      "canonical_term": "(meme) Dip and Meet",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host describes McCoy, Phillip and Davis meeting at Kirk's vehicle.",
+      "context": "cka",
+      "first_episode": 147
+    },
+    "M-348": {
+      "canonical_term": "(meme) Lies Have an Expiration Date",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host on the influencers' confession narrative.",
+      "context": "cka",
+      "first_episode": 147
+    },
+    "M-349": {
+      "canonical_term": "(meme) Freeze or Film",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host reads a comment adding freeze or film to fight or flight.",
+      "context": "cka",
+      "first_episode": 147
+    },
+    "M-350": {
+      "canonical_term": "(meme) Mad at You for Being Dead",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host opens the first journal entry with the running line.",
+      "context": "cka",
+      "first_episode": 150
+    },
+    "M-351": {
+      "canonical_term": "(meme) Bee in My Bonnet",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Introduces the bodycam question.",
+      "context": "cka",
+      "first_episode": 153
+    },
+    "M-352": {
+      "canonical_term": "(meme) Everybody Sues Candace",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host jokes about an AI thing.",
+      "context": "cka",
+      "first_episode": 153
+    },
+    "M-353": {
+      "canonical_term": "(meme) Coleman Sandwich Clause",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host announces the clause.",
+      "context": "cka",
+      "first_episode": 153
+    },
+    "M-354": {
+      "canonical_term": "(meme) Tricky Terrell",
+      "type": "meme",
+      "aliases": [],
+      "definition": "Host on Terrell.",
+      "context": "cka",
+      "first_episode": 153
     }
   },
   "types": {

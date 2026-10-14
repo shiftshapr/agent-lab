@@ -508,6 +508,123 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3280",
+      "family_ref": "A-3280",
+      "bundle_name": "Vetted Source Account Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3280.1",
+          "ref": "A-3280.1",
+          "description": "Host verbal reference to the account of a vetted anonymous source about Tyler Robinson's surrender, arrest and family (not shown)",
+          "related_claims": [
+            "C-13823",
+            "C-13822",
+            "C-13824",
+            "C-13825",
+            "C-13826",
+            "C-13828",
+            "C-13827",
+            "C-13829",
+            "C-13830",
+            "C-13831",
+            "C-13832",
+            "C-13834",
+            "C-13835",
+            "C-13841",
+            "C-13836",
+            "C-13837",
+            "C-13840"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:01:09",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3281",
+      "family_ref": "A-3281",
+      "bundle_name": "Tiffany Barker Footage Request Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3281.1",
+          "ref": "A-3281.1",
+          "description": "Host verbal reference to the footage she asked Tiffany Barker for and did not receive (not shown)",
+          "related_claims": [
+            "C-13846"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:26:58",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3282",
+      "family_ref": "A-3282",
+      "bundle_name": "Tiffany Barker Instagram Explanation Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3282.1",
+          "ref": "A-3282.1",
+          "description": "Host verbal reference to Tiffany Barker's Instagram explanation of why they went back that early in the morning (not shown)",
+          "related_claims": [
+            "C-13863"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:49:16",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3283",
+      "family_ref": "A-3283",
+      "bundle_name": "Kirk Microphone Side-Angle Image Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3283.1",
+          "ref": "A-3283.1",
+          "description": "Host verbal reference to the footage and side-angle image of the microphone on Charlie Kirk after the shot (not shown)",
+          "related_claims": [
+            "C-13867",
+            "C-13868"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:49:16",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -751,7 +868,23 @@
       "type": "person",
       "description": "Utah Lt. Gov. candidate; per host, the GMA connection was routed through his campaign to Tiffany Barker.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13844",
+        "C-13845",
+        "C-13848",
+        "C-13849",
+        "C-13850",
+        "C-13851",
+        "C-13852",
+        "C-13853",
+        "C-13854",
+        "C-13855",
+        "C-13856",
+        "C-13857",
+        "C-13858",
+        "C-13859",
+        "C-13866"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -782,7 +915,17 @@
       "type": "person",
       "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13829",
+        "C-13836",
+        "C-13839",
+        "C-13846",
+        "C-13853",
+        "C-13865",
+        "C-13867",
+        "C-13868",
+        "C-13869"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -798,7 +941,27 @@
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13822",
+        "C-13825",
+        "C-13826",
+        "C-13827",
+        "C-13828",
+        "C-13829",
+        "C-13830",
+        "C-13831",
+        "C-13832",
+        "C-13833",
+        "C-13834",
+        "C-13835",
+        "C-13836",
+        "C-13837",
+        "C-13838",
+        "C-13839",
+        "C-13840",
+        "C-13841",
+        "C-13856"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -814,13 +977,553 @@
       "type": "person",
       "description": "Source of declaration-of-war clip against Candace over Mitch Snow coverage.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13854",
+        "C-13855",
+        "C-13856"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself throughout.",
+      "related_artifacts": [
+        "A-3280.1",
+        "A-3281.1",
+        "A-3282.1",
+        "A-3283.1"
+      ],
+      "related_claims": [
+        "C-13822",
+        "C-13823",
+        "C-13824",
+        "C-13857",
+        "C-13858",
+        "C-13859",
+        "C-13860",
+        "C-13861",
+        "C-13862",
+        "C-13864",
+        "C-13865",
+        "C-13866",
+        "C-13867",
+        "C-13868",
+        "C-13869",
+        "C-13870"
+      ],
+      "tags": [],
+      "evidence_count": 4,
+      "claim_count": 16,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-41",
+      "ref": "N-41",
+      "name": "Spencer Cox",
+      "type": "person",
+      "description": "Utah governor; Phil Lyman's opponent in the gubernatorial race.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13844"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-49",
+      "ref": "N-49",
+      "name": "Max Blumenthal",
+      "type": "person",
+      "description": "Journalist the host credits with publishing articles on the case last week.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13864"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-75",
+      "ref": "N-75",
+      "name": "Tiffany Barker",
+      "type": "person",
+      "description": "Witness who appeared on Good Morning America; the host discusses her footage and her Lyman connection.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13846",
+        "C-13847",
+        "C-13848",
+        "C-13863"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-276",
+      "ref": "N-276",
+      "name": "Nate Brooksby",
+      "type": "person",
+      "description": "Washington County sheriff; the host plays his press-conference account.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13842",
+        "C-13843",
+        "C-13862"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10011",
+      "ref": "N-10011",
+      "name": "TMZ",
+      "type": "investigation_target",
+      "description": "Source of the neighborhood surveillance footage showing the shooter.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13850"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Site of the shooting; Robinson was reportedly not a student.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13838"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10021",
+      "ref": "N-10021",
+      "name": "Robinson Confession and Arrest Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13825"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10022",
+      "ref": "N-10022",
+      "name": "Robinson Father Turn-In Narrative",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13832",
+        "C-13833",
+        "C-13834"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10028",
+      "ref": "N-10028",
+      "name": "Utah Valley University Campus",
+      "type": "investigation_target",
+      "description": "Existing place reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13837",
+        "C-13839"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10029",
+      "ref": "N-10029",
+      "name": "Washington County Sheriff's Office",
+      "type": "investigation_target",
+      "description": "Brooksby's office; the retired friend's call came to him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13843"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10038",
+      "ref": "N-10038",
+      "name": "Text Message Language Anomaly",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13830",
+        "C-13831"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10047",
+      "ref": "N-10047",
+      "name": "Donor Intimidation of Charlie Kirk",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13865"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10048",
+      "ref": "N-10048",
+      "name": "Charlie Kirk Assassination Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13823",
+        "C-13860",
+        "C-13864",
+        "C-13870"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10051",
+      "ref": "N-10051",
+      "name": "Dairy Queen 6:38 Photo Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13824",
+        "C-13840"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10060",
+      "ref": "N-10060",
+      "name": "Good Morning America",
+      "type": "investigation_target",
+      "description": "Show on which Barker appeared; the host relays how she was booked.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13846",
+        "C-13848",
+        "C-13863"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10138",
+      "ref": "N-10138",
+      "name": "Bullet Casing Engraving Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13826"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10146",
+      "ref": "N-10146",
+      "name": "Phil Lyman Location Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13850",
+        "C-13851",
+        "C-13857"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10319",
+      "ref": "N-10319",
+      "name": ".30-06 Forensic Narrative Validity",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13855"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10343",
+      "ref": "N-10343",
+      "name": "Tyler Robinson Rooftop Access Timeline",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13839"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10566",
+      "ref": "N-10566",
+      "name": "Tyler Robinson Confession Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13825",
+        "C-13836"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10713",
+      "ref": "N-10713",
+      "name": "Tyler-Lance Text Message Extraction Source",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13830"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10768",
+      "ref": "N-10768",
+      "name": "Shaped Charge / Exploding Microphone Hypothesis",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13867",
+        "C-13868"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10987",
+      "ref": "N-10987",
+      "name": "Charlie Kirk Inside-Shirt Rode Mic Placement",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13867",
+        "C-13868",
+        "C-13869"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11053",
+      "ref": "N-11053",
+      "name": "Charlie Kirk Handheld Microphone Custody",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13867",
+        "C-13869"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11217",
+      "ref": "N-11217",
+      "name": "Utah State University",
+      "type": "investigation_target",
+      "description": "School the host says accepted Robinson.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13838"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11372",
+      "ref": "N-11372",
+      "name": "Robinson Rifle Family Heirloom Provenance",
+      "type": "topic",
+      "description": "The host's source's account that the rifle is a custom-made family heirloom inherited by Tyler Robinson as the firstborn son, and that he is not a gun enthusiast.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13827",
+        "C-13828"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11373",
+      "ref": "N-11373",
+      "name": "Food-Court Black-Suit Photo Provenance",
+      "type": "topic",
+      "description": "Where the photo of the person in a black suit and dark sunglasses in the UVU food court came from, per the host: sent by Nick, who learned it came from Tiffany Barker's mother.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13847"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11374",
+      "ref": "N-11374",
+      "name": "Kirk Assassination Military Operation Hypothesis",
+      "type": "topic",
+      "description": "The host's stated gut instinct that the assassination was a military operation, based on what she has seen, lingering questions and further leads.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13860"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1262,6 +1965,1127 @@
       "mentions_person_refs": [
         "N-61"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13822",
+      "ref": "C-13822",
+      "label": "Host Says Tyler Robinson Is Not Suicidal According to Her Source",
+      "claim": "The host says she wanted to get out quickly the information that Tyler Robinson is not suicidal, and that she knows this from her source.",
+      "anchored_artifacts": [
+        "A-3280.1"
+      ],
+      "related_nodes": [
+        "N-10142"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:00:14",
+      "investigative_direction": "Compare Washington County Sheriff's Office and court records of the surrender call (the 'suicidal ideations' remark) against the host's source. Ask whether the source can document the family's account.",
+      "transcript_snippet": "I genuinely&nbsp;&nbsp; wanted to get the information out as soon as&nbsp; possible that Tyler Robinson is not suicidal.&nbsp;&nbsp; And I'm going to tell you how I know that.",
+      "contradicts_claim_refs": [
+        "C-1301"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13823",
+      "ref": "C-13823",
+      "label": "Host Says a Vetted Source Contacted Her Last Week With Answers to Lingering Questions",
+      "claim": "The host says that last week she was contacted by a source she vetted, whose information answered some of the lingering questions about the investigation (how the surrender worked, the federal text messages, the Dairy Queen photo).",
+      "anchored_artifacts": [
+        "A-3280.1"
+      ],
+      "related_nodes": [
+        "N-10048"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:01:09",
+      "investigative_direction": "The source is unnamed and nothing was shown. Ask the host to describe how the source was vetted, or have the source go on record or provide documents.",
+      "transcript_snippet": "Last week, I have to tell&nbsp; you, I was contacted by a source who I vetted with&nbsp;&nbsp; information that answered a lot of the lingering&nbsp; questions that we've had about the investigation.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13824",
+      "ref": "C-13824",
+      "label": "Host Alleges Feds Withheld Dairy Queen Information and Are Watching the Dairy Queen",
+      "claim": "The host says the feds withheld information about the Dairy Queen and, as she puts it, are allegedly stalking the Dairy Queen to see who comes in and out. She presents the source's account as one that could answer both questions.",
+      "anchored_artifacts": [
+        "A-3280.1"
+      ],
+      "related_nodes": [
+        "N-10051"
+      ],
+      "tags": [
+        "relevance:core",
+        "framed-as-question"
+      ],
+      "claim_timestamp": "00:01:53",
+      "investigative_direction": "Ask the host to say what the 'withheld' information is. Ask the Dairy Queen's staff or owners whether law enforcement has been watching the store. FBI and Utah County records of the Dairy Queen photo handling would also help.",
+      "transcript_snippet": "And why exactly did the&nbsp;&nbsp; feds withhold that information at Dairy Queen? And&nbsp; why are they allegedly stalking the Dairy Queen to&nbsp;&nbsp; see who comes in and out?",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13825",
+      "ref": "C-13825",
+      "label": "Host Says Robinson Has Never Confessed and Is Still Pleading Innocence",
+      "claim": "The host says Tyler Robinson has never confessed, that 'they' acknowledge he has never confessed, and that he is still pleading innocence on the shooting.",
+      "anchored_artifacts": [
+        "A-3280.1"
+      ],
+      "related_nodes": [
+        "N-10566",
+        "N-10021"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:17",
+      "investigative_direction": "Check the charging documents and court filings for any confession or admission. Check Robinson's plea status and any statements by his defense counsel.",
+      "transcript_snippet": "First and foremost,&nbsp; Tyler Robinson has never confessed. They&nbsp;&nbsp; acknowledge that he has never confessed to this&nbsp; crime and he still uh is pleading innocence on the&nbsp;&nbsp; shooting.",
+      "supports_claim_refs": [
+        "C-1142"
+      ],
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13826",
+      "ref": "C-13826",
+      "label": "Source Says Robinson Was Bewildered by the Idea He Carved the Casings and Does Not Dispute the Gun Is His",
+      "claim": "The host says she was told Tyler Robinson was 'bewildered' by the idea that he carved the casings, and that he does not dispute the gun is his.",
+      "anchored_artifacts": [
+        "A-3280.1"
+      ],
+      "related_nodes": [
+        "N-10138"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:29",
+      "investigative_direction": "Compare with the casing engraving evidence in the charging documents and with Robinson's defense filings. Ask the host's source for corroboration.",
+      "transcript_snippet": "In fact, I was told that he was quote&nbsp; unquote bewildered by the idea that he carved&nbsp;&nbsp; casings. I should be clear, he does not dispute&nbsp; the fact that it is his gun at all.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13827",
+      "ref": "C-13827",
+      "label": "Source Says Robinson Is Not a Gun Enthusiast and Does Not Hunt Like His Brothers",
+      "claim": "The host says that, according to her source, Tyler Robinson is not a gun enthusiast, does not hunt like his brothers do, and is apparently a fisherman.",
+      "anchored_artifacts": [
+        "A-3280.1"
+      ],
+      "related_nodes": [
+        "N-11372"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:42",
+      "investigative_direction": "Check hunting and fishing licence records, firearm purchase records and Robinson's social media posts. Ask the Robinson family's counsel.",
+      "transcript_snippet": "but Tyler is not exactly a gun enthusiast. He&nbsp; doesn't hunt like his other brothers do. In fact,&nbsp;&nbsp; he's apparently a fisherman.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13828",
+      "ref": "C-13828",
+      "label": "Source Says the Rifle Is a Custom-Made Family Heirloom Inherited by the Firstborn Son",
+      "claim": "The host says that, according to her source, Tyler Robinson has the gun because it is a custom-made family heirloom and he inherited it as the firstborn son.",
+      "anchored_artifacts": [
+        "A-3280.1"
+      ],
+      "related_nodes": [
+        "N-11372"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:50",
+      "investigative_direction": "Look for the rifle's make, serial number and ownership history in the ATF trace and the charging documents. Check public statements by the Robinson family or their counsel about how the gun came to Tyler.",
+      "transcript_snippet": "The reason that he&nbsp; has that gun in the first place is because it is&nbsp;&nbsp; in fact a custommade family heirloom. Tyler is&nbsp; the firstborn son. So he inherited.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13829",
+      "ref": "C-13829",
+      "label": "Source Says the Robinson Family Are Fans of Charlie Kirk and Trump",
+      "claim": "The host says she is told the Robinson family are fans of Charlie Kirk and of Donald Trump, and that her source said Tyler, like many other conservatives, wished Trump would sometimes tone down his speech and rhetoric.",
+      "anchored_artifacts": [
+        "A-3280.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:17",
+      "investigative_direction": "Check Robinson family voter registration, donations and public statements. The source is unnamed, so independent corroboration is needed.",
+      "transcript_snippet": "I am told&nbsp; that they are fans of Charlie Kirk and they are&nbsp;&nbsp; fans of Donald Trump. Although this source noted&nbsp; that Tyler, like many other conservatives have&nbsp;&nbsp; um expressed,",
+      "mentions_person_refs": [
+        "N-1",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13830",
+      "ref": "C-13830",
+      "label": "Source Says Robinson Did Not Author the Federal Text Messages",
+      "claim": "The host says she is told that Tyler Robinson absolutely did not author the text messages, has no idea where they came from, and believes they are entirely fictionalized.",
+      "anchored_artifacts": [
+        "A-3280.1"
+      ],
+      "related_nodes": [
+        "N-10038",
+        "N-10713"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:36",
+      "investigative_direction": "Request the forensic extraction reports for the messages and the device they came from. Check for any defense motion challenging the messages' authenticity.",
+      "transcript_snippet": "I am told that Tyler absolutely&nbsp; did not author those text messages. What text&nbsp;&nbsp; messages? He has no idea where these messages&nbsp; came from. Uh believes that they are therefore&nbsp;&nbsp; entirely fictionalized.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13831",
+      "ref": "C-13831",
+      "label": "Host Says Robinson Does Not Use the Word Vehicle According to the Source",
+      "claim": "The host says it turns out, per her source, that Tyler Robinson does not actually use words like 'vehicle'.",
+      "anchored_artifacts": [
+        "A-3280.1"
+      ],
+      "related_nodes": [
+        "N-10038"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:49",
+      "investigative_direction": "Review a larger sample of Robinson's recorded and written speech for use of 'vehicle'. The 2022 bodycam clip aired later in the episode (A-1171.1) is one data point.",
+      "transcript_snippet": "It turns out, you're&nbsp; going to be shocked that he doesn't actually&nbsp;&nbsp; use words like vehicle.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13832",
+      "ref": "C-13832",
+      "label": "Source Says Robinson's Parents Do Not Believe Their Son Committed the Crime",
+      "claim": "The host says she has learned that Tyler Robinson's father, and his parents, do not believe their son committed the crime. She says this is a far cry from what the media has told us.",
+      "anchored_artifacts": [
+        "A-3280.1"
+      ],
+      "related_nodes": [
+        "N-10022"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:51",
+      "investigative_direction": "Look for public statements by the Robinson parents or their counsel on their view of Tyler's guilt. Compare with the media accounts, including statements by Governor Cox.",
+      "transcript_snippet": "of most interest to me. what I've learned is that&nbsp;&nbsp; his father uh does not believe his parents don't&nbsp; believe that their son committed this crime.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13833",
+      "ref": "C-13833",
+      "label": "Host Says the Media Story Was That the Father Realized His Son Was Guilty and Phoned a Friend to Persuade Him to Surrender",
+      "claim": "The host recounts the media narrative that Tyler Robinson's father realized his son was guilty and phoned a friend to help convince him to turn himself in.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10022"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:11",
+      "investigative_direction": "Trace the original media and official source for the father-phones-friend narrative (the Cox press briefings and reporting).",
+      "transcript_snippet": "the&nbsp; father realized his son was guilty. So it goes,&nbsp;&nbsp; right? And then he phoned over a friend to help&nbsp; him convince his son to turn himself in",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13834",
+      "ref": "C-13834",
+      "label": "Source Says the Family Friend, a Former Detective, Told the Family Tyler Had Been Identified as the Shooter",
+      "claim": "The host says her source told her the 'family friend' was a former detective with the police force and has strong ties to the police station, and that he was the in-between person who informed the Robinson family that Tyler had been identified as the shooter. She presents this as the opposite of the media story.",
+      "anchored_artifacts": [
+        "A-3280.1"
+      ],
+      "related_nodes": [
+        "N-10022"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:44",
+      "investigative_direction": "Identify the retired deputy or detective through court records and the sheriff's office. Compare the call timeline with Brooksby's press-conference account (A-1172.1).",
+      "transcript_snippet": "That quote unquote family friend&nbsp;&nbsp; uh who we learned was a former detective with&nbsp; the police force um at least and so therefore&nbsp;&nbsp; has strong ties with the police station informed&nbsp; the family.",
+      "supports_claim_refs": [
+        "C-1152"
+      ],
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13835",
+      "ref": "C-13835",
+      "label": "Source Says the Friend Told Tyler to Turn Himself In Peaceably or Face a SWAT Arrest",
+      "claim": "The host says she was told, and believes, that the family friend, neighbor and former detective told Tyler he had two options: turn himself in peaceably, or the SWAT team could come in and arrest him and things could get crazy.",
+      "anchored_artifacts": [
+        "A-3280.1"
+      ],
+      "related_nodes": [
+        "N-10142"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:28",
+      "investigative_direction": "Compare with Brooksby's statement that Tyler was 'fearful of a SWAT team hit' (A-1172.3) and with the surrender timeline in the charging documents and sheriff's logs.",
+      "transcript_snippet": "Either you turn&nbsp; yourself in and everything is peaceable,&nbsp;&nbsp; or you know, the SWAT team could come in here&nbsp; and arrest you and things could get crazy.",
+      "supports_claim_refs": [
+        "C-1302"
+      ],
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13836",
+      "ref": "C-13836",
+      "label": "Source Says Robinson Was Called Over, Was Bewildered and Disputed Having Murdered Charlie Kirk",
+      "claim": "The host says her source told her that Tyler was called over to the house of the family friend, was bewildered, and disputed the idea that he had murdered Charlie Kirk.",
+      "anchored_artifacts": [
+        "A-3280.1"
+      ],
+      "related_nodes": [
+        "N-10566"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:42",
+      "investigative_direction": "Look for sworn statements from the family friend, the parents and responding officers describing the conversation. The source is unnamed, so these records are the only route to corroboration.",
+      "transcript_snippet": "Tyler was called over.&nbsp;&nbsp; Tyler was bewildered. He disputed the idea&nbsp; that he had murdered Charlie Kirk.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13837",
+      "ref": "C-13837",
+      "label": "Source Says Robinson Has Never Stepped Foot on the UVU Campus",
+      "claim": "The host says that, according to her source, Tyler Robinson has never even stepped foot on the UVU campus.",
+      "anchored_artifacts": [
+        "A-3280.1"
+      ],
+      "related_nodes": [
+        "N-10145",
+        "N-10028"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:50",
+      "investigative_direction": "Check Robinson's phone location history, parking and ID records and campus camera footage for any earlier UVU visit. See the charging documents' account of how he reached the Losee Center roof.",
+      "transcript_snippet": "according uh to my source, Tyler has never even&nbsp; stepped foot on UVU campus.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13838",
+      "ref": "C-13838",
+      "label": "Host Says Robinson Was Accepted to Utah State University, Not Utah Valley",
+      "claim": "The host says Tyler Robinson was accepted into Utah State University, not Utah Valley University, and notes this had already been revealed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11217",
+        "N-10012"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:55",
+      "investigative_direction": "Check university admissions and enrollment records, subject to FERPA, and the reporting that first stated his Utah State admission.",
+      "transcript_snippet": "Tyler, it turns out,&nbsp;&nbsp; has which has already been revealed, um&nbsp; was accepted into Utah State University,&nbsp;&nbsp; not Utah Valley.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13839",
+      "ref": "C-13839",
+      "label": "Host Says Robinson's Familiarity With the UVU Rooftops and Kirk's Seating Position Is Unexplained",
+      "claim": "The host says it is unexplained how Tyler Robinson, if he had never been on the UVU campus, became so familiar with the rooftop layout that he knew how to scale across the rooftops to take an almost impossible shot at Charlie Kirk seated under a tent. She guesses that even current UVU students would not know it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10145",
+        "N-10028",
+        "N-10343"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:07:16",
+      "investigative_direction": "Review the prosecution's account of how Robinson accessed and traversed the roofs, and any earlier recorded visits to the campus. Interview UVU students and staff on whether the roof route was known.",
+      "transcript_snippet": "familiar with the rooftop layout of UVU campus. So&nbsp; familiar that he knew exactly how to scale across&nbsp;&nbsp; the rooftops",
+      "mentions_person_refs": [
+        "N-1",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13840",
+      "ref": "C-13840",
+      "label": "Source Says Robinson Was Nearby the Campus That Day and Host Wonders if This Explains the Dairy Queen Photo",
+      "claim": "The host says her source says Tyler Robinson was nearby the campus that day, and that she is wondering whether this explains the Dairy Queen photo, which never fit into her timeline. She says she is trying to learn more.",
+      "anchored_artifacts": [
+        "A-3280.1"
+      ],
+      "related_nodes": [
+        "N-10051"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:03",
+      "investigative_direction": "Compare with the Dairy Queen 6:38 photo timestamp reconciliation and the Washington County surveillance footage. Ask for the source's specifics on where Robinson was near the campus.",
+      "transcript_snippet": "my source says that Tyler Robinson was nearby the&nbsp; campus on that day. I'm wondering if that fact,&nbsp;&nbsp; which I'm trying to learn more information&nbsp; regarding, explains the Dairy Queen photo",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13841",
+      "ref": "C-13841",
+      "label": "Host Says Robinson Went to the Station So He Would Not Risk Being Shot by Police Swarming His Home",
+      "claim": "The host says Tyler Robinson wanted to go to the police station so that he did not risk accidentally getting shot by police swarming his home, and that the police were 'honest' on the point that he is not suicidal.",
+      "anchored_artifacts": [
+        "A-3280.1"
+      ],
+      "related_nodes": [
+        "N-10142"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:46",
+      "investigative_direction": "Compare with Brooksby's press-conference account and the sheriff's arrest log. Ask whether any SWAT or tactical team was staged at the Robinson home.",
+      "transcript_snippet": "Um, he wanted to go to the police station so&nbsp;&nbsp; that he didn't risk accidentally getting shot by&nbsp; the police swarming his home.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13842",
+      "ref": "C-13842",
+      "label": "Brooksby Clip: He Said It Was Not Unusual for the Retired Friend to Call Him",
+      "claim": "In the Brooksby press-conference clip aired by the host, Brooksby says he and the retired friend call each other and that it is not unusual for him to get a call from the friend or vice versa.",
+      "anchored_artifacts": [
+        "A-1172.1"
+      ],
+      "related_nodes": [
+        "N-10142"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:20",
+      "investigative_direction": "Obtain the unedited clip and the call logs for the 8:02 p.m. call the sheriff described.",
+      "transcript_snippet": "He he'll we'll call each&nbsp;&nbsp; other. It's not it's not unusual for me to get&nbsp; a call from him or vice versa.",
+      "mentions_person_refs": [
+        "N-276"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13843",
+      "ref": "C-13843",
+      "label": "Brooksby Clip: Friend Knows the Family Through Religious Association and Was Trying to Get Tyler to Come In",
+      "claim": "In the Brooksby press-conference clip aired by the host, Brooksby relays his friend's call: the friend said he knows the family through religious association, that Tyler is in Washington County, and that they were working on trying to get him to come in 'involuntarily' (probably 'voluntarily').",
+      "anchored_artifacts": [
+        "A-1172.1"
+      ],
+      "related_nodes": [
+        "N-10029",
+        "N-10142"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:50",
+      "investigative_direction": "Obtain the unedited press-conference audio to confirm whether Brooksby said 'voluntarily' or 'involuntarily'. Identify the friend's religious association with the family (court filings named him).",
+      "transcript_snippet": "I know the family through religious&nbsp; association and uh he's in he's in Washington&nbsp;&nbsp; County now and we're working on trying to get&nbsp; him to come involuntarily.",
+      "mentions_person_refs": [
+        "N-276"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13844",
+      "ref": "C-13844",
+      "label": "Host Says Nick Told Her on Day Two He Worked on Phil Lyman's Gubernatorial Campaign",
+      "claim": "The host says that on about day two of the investigation her UVU-student contact 'Nick' told her he worked on Phil Lyman's gubernatorial campaign, in which Lyman ran against Governor Cox and lost.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10144"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:25:48",
+      "investigative_direction": "Check Utah campaign finance and staff filings for Lyman's 2024 gubernatorial campaign. Nick is a pseudonym; confirm his role through the host.",
+      "transcript_snippet": "right away he&nbsp;&nbsp; told me on like day two of the investigation that&nbsp; he worked on Phil Lyman's gubernatorial campaign,&nbsp;&nbsp; Phil Lyman ran against Governor, the current&nbsp; Governor Cox, and he lost.",
+      "mentions_person_refs": [
+        "N-127",
+        "N-61",
+        "N-41"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13845",
+      "ref": "C-13845",
+      "label": "Host Says Nick Cold-Called Her With Phil Lyman on the Phone Around Day Three",
+      "claim": "The host says that around day three of the investigation Nick cold-called her with Phil Lyman on the line, and Nick insisted Lyman was a fantastic person with tons of resources who knew the area and could help.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10144"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:26:03",
+      "investigative_direction": "Obtain phone records or messages showing the call. Ask the host to confirm the date. Lyman's own account of why he joined the call would help.",
+      "transcript_snippet": "Nick cold calls me and Phil Lyman's on the phone,&nbsp;&nbsp; okay? Like I said, he ran for governor",
+      "mentions_person_refs": [
+        "N-127",
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13846",
+      "ref": "C-13846",
+      "label": "Host Says Tiffany Barker Gave Information but Never Sent Footage Showing She Was There",
+      "claim": "The host says Tiffany Barker gave her a ton of information but never sent her directly any footage that could verify she was there when Charlie Kirk was shot, and says metadata would show where and when a video was taken and on whose iPhone.",
+      "anchored_artifacts": [
+        "A-3281.1"
+      ],
+      "related_nodes": [
+        "N-10060"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:26:58",
+      "investigative_direction": "Ask Barker to share the original files with metadata. Check the Good Morning America segment and her public Instagram for the footage.",
+      "transcript_snippet": "She never sent&nbsp; me directly any footage that could verify that she&nbsp;&nbsp; was there when Charlie Kirk got shot.",
+      "mentions_person_refs": [
+        "N-75",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13847",
+      "ref": "C-13847",
+      "label": "Host Says Nick Learned the Black-Suit Food-Court Photo Came From Tiffany Barker's Mother",
+      "claim": "The host says she learned from Nick that the photo of the person in a black suit and dark sunglasses, which Nick had sent to her tips box, had come from Tiffany Barker's mother.",
+      "anchored_artifacts": [
+        "A-1175.1"
+      ],
+      "related_nodes": [
+        "N-11373",
+        "N-10144"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:35",
+      "investigative_direction": "Trace the photo's origin through the earliest social media posts and its metadata. Ask Nick and the Barker family how the image reached Nick.",
+      "transcript_snippet": "I learned from Nick that&nbsp; the photo of the person who was wearing that black&nbsp;&nbsp; suit in dark sunglasses had come from Tiffany&nbsp; Barker's mother.",
+      "mentions_person_refs": [
+        "N-127",
+        "N-75"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13848",
+      "ref": "C-13848",
+      "label": "Host Says Barker Told Her Phil Lyman Put Her on Good Morning America and Her Sister Ran With Him",
+      "claim": "The host says Tiffany Barker told her that Phil Lyman is the person who put her on Good Morning America, and that her sister ran with Lyman as lieutenant governor.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10060",
+        "N-10144"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:57",
+      "investigative_direction": "Check Utah election filings for Lyman's 2024 running mate. Ask ABC / Good Morning America how the Barker segment was booked.",
+      "transcript_snippet": "Well, then I told you she&nbsp; told us actually Phil Lyman is the person that&nbsp;&nbsp; put me on Good Morning America. My sister ran&nbsp; with him as Lieutenant Governor.",
+      "supports_claim_refs": [
+        "C-1245"
+      ],
+      "mentions_person_refs": [
+        "N-75",
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13849",
+      "ref": "C-13849",
+      "label": "Host Says Phil Lyman Was Very Involved in the Immediate Communications About the Shooting",
+      "claim": "The host says she learned that Phil Lyman himself was very involved in all the communications that immediately went out about the shooting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10144"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:17",
+      "investigative_direction": "Ask the host for the source of this. Look for Lyman's press statements and posts on September 10, and who he communicated with that day.",
+      "transcript_snippet": "but then I learned that Phil Lyman himself was&nbsp; very involved in all the communications that&nbsp;&nbsp; immediately went out about the shooting",
+      "mentions_person_refs": [
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13850",
+      "ref": "C-13850",
+      "label": "Host Says the TMZ Footage Shows the Shooter Walking Past the House Twice and Lyman Says He Just Missed Him",
+      "claim": "The host says the TMZ footage showed the shooter walking by the house twice that day, and that Phil Lyman says he had pulled into that driveway minutes earlier and had just missed the shooter.",
+      "anchored_artifacts": [
+        "A-1176.1"
+      ],
+      "related_nodes": [
+        "N-10011",
+        "N-10144",
+        "N-10146"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:28",
+      "investigative_direction": "Obtain the TMZ neighborhood-camera footage with its original timestamps, and compare against Lyman's account and the official timeline of the shooter's route.",
+      "transcript_snippet": "TMZ footage which showed the shooter walking twice&nbsp; that day by this house. In fact, Phil Lyman says&nbsp;&nbsp; that he had just pulled into that driveway minutes&nbsp; earlier and had just missed the shooter.",
+      "mentions_person_refs": [
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13851",
+      "ref": "C-13851",
+      "label": "Host Says McEnany Put Lyman's Parking at 11:30 and the Footage at 11:49, 19 Minutes Apart, While Lyman Says About 10 Minutes",
+      "claim": "In the clip, Kayleigh McEnany says Lyman told her he parked there at 11:30 a.m. and the footage was taken at 11:49 a.m., a gap of 19 minutes; Lyman answers that he parked there 'probably 10 minutes before he walked by.' The host reiterates the 19-minute figure.",
+      "anchored_artifacts": [
+        "A-1177.1"
+      ],
+      "related_nodes": [
+        "N-10146",
+        "N-10144"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:54",
+      "investigative_direction": "Reconcile the two numbers by timestamping the TMZ footage and Lyman's vehicle location data. Ask Lyman's office which figure is right.",
+      "transcript_snippet": "You said that in that footage is your&nbsp;&nbsp; driveway and you parked there at 11:30 a. m. We&nbsp; know this footage that you're looking at was&nbsp;&nbsp; taken at 11:49 a. m.",
+      "mentions_person_refs": [
+        "N-130",
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13852",
+      "ref": "C-13852",
+      "label": "Lyman Clip: Driveway Is His Aunt's, and He Returned There With a Friend After the Shooting",
+      "claim": "In the McEnany clip, Lyman says the driveway belongs to his aunt, not him, that he parked his gray CRV there, and that after the shooting he took a friend and went back to his aunt's house when they thought they had the shooter. He says people were combing the backyard and helicopters were overhead.",
+      "anchored_artifacts": [
+        "A-1177.1"
+      ],
+      "related_nodes": [
+        "N-10144"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:38",
+      "investigative_direction": "Identify the property owner and the date and time of Lyman's return. Check police records for the backyard search at that address.",
+      "transcript_snippet": "They thought they had the the shooter.&nbsp;&nbsp; Uh so I took a friend of mine. We went back to&nbsp; my aunt's house.",
+      "mentions_person_refs": [
+        "N-61",
+        "N-130"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13853",
+      "ref": "C-13853",
+      "label": "Lyman Clip: He Got Up at 6:00 to Drive Up and Meet Charlie and Had Not Been to Bed Since",
+      "claim": "In the McEnany clip, Lyman says he got up at 6:00 the previous morning to drive up and meet Charlie and has not been to bed since.",
+      "anchored_artifacts": [
+        "A-1177.1"
+      ],
+      "related_nodes": [
+        "N-10144"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:30:09",
+      "investigative_direction": "Compare with his stated drive from Blanding and with his later Instagram video about driving from Salt Lake to Blanding. Check his scheduled appearance and arrival time at UVU.",
+      "transcript_snippet": "I got up yesterday morning at at&nbsp; 6:00 to drive up and and meet Charlie and and I&nbsp;&nbsp; uh I haven't been I haven't been to bed since then",
+      "mentions_person_refs": [
+        "N-61",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13854",
+      "ref": "C-13854",
+      "label": "Lyman Clip: Someone Told Him There Was Video of the Shooter Coming Off the Roof and Driving Away With an Individual",
+      "claim": "In the Alex Jones clip, Lyman says someone came in and told him they had video of the shooter coming off the roof, walking to the parking lot, getting in a car with an individual and driving away. He says this is not the story that came out, that he escaped by another route, and that there are people coordinating this.",
+      "anchored_artifacts": [
+        "A-1178.1"
+      ],
+      "related_nodes": [
+        "N-10144"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:22",
+      "investigative_direction": "Ask Lyman who showed or described this video and obtain it. Compare with the official account of Robinson's escape route.",
+      "transcript_snippet": "He came&nbsp; off the roof. He walked up. He came up here to&nbsp;&nbsp; the uh parking lot, got in the car with with an&nbsp; individual and they and they drove away. Well,&nbsp;&nbsp; that's not the story that came.",
+      "mentions_person_refs": [
+        "N-61",
+        "N-93"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13855",
+      "ref": "C-13855",
+      "label": "Lyman Clip: He Does Not Believe the Recovered .30-06 Was Ever on the Roof",
+      "claim": "In the Alex Jones clip, Lyman says he does not believe that the 306 that was shown recovered in the bushes was ever on the roof, and that he thinks it was in the bushes to start with.",
+      "anchored_artifacts": [
+        "A-1178.1"
+      ],
+      "related_nodes": [
+        "N-10319",
+        "N-10144"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:39",
+      "investigative_direction": "Compare with the FBI's chain of custody and photographs of the rifle recovery and the charging documents. Ask Lyman the basis for this belief.",
+      "transcript_snippet": "I do not believe that that 306 that they showed&nbsp;&nbsp; recovered in the bushes was ever on the roof. I&nbsp; think it was in the bushes to start with.",
+      "mentions_person_refs": [
+        "N-61",
+        "N-93"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13856",
+      "ref": "C-13856",
+      "label": "Lyman Clip: He Says He Is Not Saying Robinson Was Not on the Roof or Did Not Pull a Trigger",
+      "claim": "In the Alex Jones clip, Lyman says he is not saying Tyler Robinson was not on the roof and not saying he did not pull a trigger.",
+      "anchored_artifacts": [
+        "A-1178.1"
+      ],
+      "related_nodes": [
+        "N-10144"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:47",
+      "investigative_direction": "Obtain the unedited Alex Jones segment. Clarify with Lyman what he is questioning.",
+      "transcript_snippet": "And now&nbsp;&nbsp; I'm not saying that that Tyler Robinson wasn't on&nbsp; the roof. I'm not saying he didn't pull a trigger.",
+      "mentions_person_refs": [
+        "N-61",
+        "N-93",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13857",
+      "ref": "C-13857",
+      "label": "Host Says Combining Lyman's Clips She Is Unclear Where He Was When the Shots Rang Out",
+      "claim": "The host says that when she combines Lyman's clips she is unclear where he was exactly when the shots rang out, whether he was close or felt bad that he was not. She earlier reads the Alex Jones clip as implying he was up high, looking down at the fleeing crowd.",
+      "anchored_artifacts": [
+        "A-1178.1",
+        "A-1179.1",
+        "A-1180.1"
+      ],
+      "related_nodes": [
+        "N-10146",
+        "N-10144"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:34:33",
+      "investigative_direction": "Place Lyman using event video, photographs and his phone-location data, and compare the three accounts (east end, next to the stage, 'up top').",
+      "transcript_snippet": "When I&nbsp;&nbsp; combine those clips, I'm kind of unclear as to&nbsp; where he was exactly when the shots rang out,&nbsp;&nbsp; if he was close or if he felt bad that he wasn't&nbsp; close.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13858",
+      "ref": "C-13858",
+      "label": "Host Says She Hopes Lyman Will Send Her Videos and That He May No Longer Want to Help",
+      "claim": "The host says she hopes Phil Lyman will answer and send her videos, which would be 'case closed', and that maybe he does not want to help anymore.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10144"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:16",
+      "investigative_direction": "Ask the host or Lyman's office whether the request was made and whether Lyman holds any video of the day.",
+      "transcript_snippet": "Um and again, hopefully he will answer and&nbsp;&nbsp; he will just send me some videos and uh that&nbsp; will be yeah, that'll be uh case closed",
+      "mentions_person_refs": [
+        "N-3",
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13859",
+      "ref": "C-13859",
+      "label": "Host Says Lyman Inserted Himself Into the Story and Now Claims to Be Under Attack When Asked Basic Questions",
+      "claim": "The host says Lyman cannot insert himself and then pretend he is under attack when people ask him basic questions. She says it is very weird for a gubernatorial candidate to arrive at a 20-year-old's house.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10144"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:16",
+      "investigative_direction": "Look for Lyman's public statements responding to questions about the case, and for the Nick visit described elsewhere (C-1314).",
+      "transcript_snippet": "But you can't insert yourself and then&nbsp;&nbsp; pretend you're under attack when people then go,&nbsp; \"Hey, can you answer some basic questions?\"",
+      "mentions_person_refs": [
+        "N-3",
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13860",
+      "ref": "C-13860",
+      "label": "Host Says Her Gut Instinct Is That This Was a Military Operation",
+      "claim": "The host says her gut instinct, based on everything she has seen, the lingering questions and other leads she is working on, is that the assassination was a military operation.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11374",
+        "N-10048"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:16",
+      "investigative_direction": "Ask the host which leads she is working on and which facts support the military reading, and compare with the documented military-adjacent personnel around the event.",
+      "transcript_snippet": "my gut instinct is that this was a military&nbsp; operation. Uh based off everything that I've seen&nbsp;&nbsp; and the lingering questions that I have and some&nbsp; other leads that we are working on, that's how&nbsp;&nbsp; I feel.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13861",
+      "ref": "C-13861",
+      "label": "Host Says the Mitchell Name in That Area Kept Coming Up for the Air Force",
+      "claim": "The host says that, while trying to find Mike Mitchell, she could find the Mitchell family, and while she does not know if it is his family, the Mitchell name in that area was coming up for the Air Force.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10141"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:49:16",
+      "investigative_direction": "Check Utah and Washington County Air Force and Hill AFB personnel and obituary records for Mitchell families. Confirm whether any relate to the retired detective.",
+      "transcript_snippet": "I could find the Mitchell&nbsp;&nbsp; family. I don't know if it's his family, but the&nbsp; Mitchell name in that area was coming up for like&nbsp;&nbsp; Air Force.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-126"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13862",
+      "ref": "C-13862",
+      "label": "Host Says Brooksby Showed Nervous Energy by Volunteering That the Call Was Not Unusual",
+      "claim": "The host says she thinks Brooksby shows some nervous energy when he says the retired friend's call to him was totally usual, since nobody had said it was weird.",
+      "anchored_artifacts": [
+        "A-1172.1"
+      ],
+      "related_nodes": [
+        "N-10142"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:16",
+      "investigative_direction": "Review the unedited press-conference video and compare with the sheriff's account of the call.",
+      "transcript_snippet": "I think Brooksby has some nervous energy&nbsp; there when he's like, \"Oh, he called me. That's&nbsp;&nbsp; just totally usual. That's not weird.\"",
+      "mentions_person_refs": [
+        "N-3",
+        "N-276"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13863",
+      "ref": "C-13863",
+      "label": "Host Says Barker Repeatedly Asked Her to Send Viewers to Her Instagram to Explain Why They Went Early",
+      "claim": "The host says Tiffany Barker has repeatedly asked her to send viewers to her Instagram, where Barker explains why they decided to go back that early in the morning. The host found the interview odd given the shooter was still at large.",
+      "anchored_artifacts": [
+        "A-3282.1"
+      ],
+      "related_nodes": [
+        "N-10060"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:16",
+      "investigative_direction": "Review Barker's Instagram explanation and her timeline for the Good Morning America appearance.",
+      "transcript_snippet": "She has asked us repeatedly to send&nbsp;&nbsp; you guys to her Instagram where she explains why&nbsp; uh her why they decided to go back that early in&nbsp;&nbsp; the morning.",
+      "mentions_person_refs": [
+        "N-75"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13864",
+      "ref": "C-13864",
+      "label": "Host Says Max Blumenthal Published a Bunch of Articles Last Week With More Coming",
+      "claim": "The host says Max Blumenthal published a bunch of articles on the Kirk case last week and she thinks he has more coming out.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10048"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:49:16",
+      "investigative_direction": "List Blumenthal's Grayzone articles for the week of September 22, 2025 and check what claims they make.",
+      "transcript_snippet": "Maybe uh Max Blumenthal dropping uh he dropped&nbsp;&nbsp; a bunch of articles last week and I think he's&nbsp; got more coming out.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-49"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13865",
+      "ref": "C-13865",
+      "label": "Host Says Those Close to Charlie Could Name the Donors Who Were Pressuring Him",
+      "claim": "The host says those close to Charlie Kirk could at the very least name the donors who were pressuring him and tell the truth about what was happening there, and that they will not.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10047"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:16",
+      "investigative_direction": "Compile the donor names reported in Kirk's texts and in reporting about the pressure campaign. Ask TPUSA staff whether they will comment.",
+      "transcript_snippet": "They could at the&nbsp;&nbsp; very least name the donors, get a little bit of&nbsp; revenge. Name the donors who were pressuring him.&nbsp;&nbsp; Tell the truth about what was happening there.",
+      "supports_claim_refs": [
+        "C-10673"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13866",
+      "ref": "C-13866",
+      "label": "Host Says She Called Ian to Say Lyman Is Unlikely to Give Him a Tour Because It Went Sideways With Nick",
+      "claim": "The host says she called Ian, who the existing draft identifies as Ian Carroll, to tell him she doubted Lyman would put him on a tour, because Lyman was not being kind to Nick, a Lyman supporter, and she thinks that relationship went sideways.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10144"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:49:16",
+      "investigative_direction": "Ask Ian Carroll whether Lyman offered him a tour and whether the host called him. Confirm the identity of 'Ian'.",
+      "transcript_snippet": "And I called&nbsp; Ian. I was like, \"Hey, Ian, just letting you know&nbsp;&nbsp; like um I don't know. I I don't think he's going&nbsp; to necessarily put you on a tour",
+      "supports_claim_refs": [
+        "C-1315"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-131",
+        "N-127",
+        "N-61"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13867",
+      "ref": "C-13867",
+      "label": "Host Says the Side Angle Shows the Microphone Still on Kirk Afterward, Not Struck Off",
+      "claim": "The host says that when she first saw the footage she thought something came upward, but when she looked at the image from the side the microphone is still on Charlie Kirk afterwards; it appears to disappear but shifts and stays on him, in the fold.",
+      "anchored_artifacts": [
+        "A-3283.1"
+      ],
+      "related_nodes": [
+        "N-10768",
+        "N-10987",
+        "N-11053"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:16",
+      "investigative_direction": "Obtain the original UVU event video from multiple angles, and the post-shooting photographs of the microphone's location on Kirk. Ask a forensic video analyst to compare frames.",
+      "transcript_snippet": "when I&nbsp;&nbsp; looked at image from the side, the microphone is&nbsp; still on him afterwards. So like when you see it&nbsp;&nbsp; for it looks like it kind of disappears but&nbsp; then it kind of shifts",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13868",
+      "ref": "C-13868",
+      "label": "Host Says Anything Slung Into Kirk With That Force Would Have Knocked the Microphone Off, and It Did Not",
+      "claim": "The host says she would imagine that if anything had slung into Kirk with that kind of force, the microphone would fall off, and says it does not fall off.",
+      "anchored_artifacts": [
+        "A-3283.1"
+      ],
+      "related_nodes": [
+        "N-10768",
+        "N-10987"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:16",
+      "investigative_direction": "Ask a weapons or ballistics expert how a microphone would behave under such force, and compare with the frame-by-frame video.",
+      "transcript_snippet": "But I would imagine if&nbsp; anything did sling into him uh with that kind of&nbsp;&nbsp; a force it would fall off. And I can tell you it&nbsp; doesn't fall off.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13869",
+      "ref": "C-13869",
+      "label": "Host Says Kirk Being Miked After He Sat Down Has Never Happened to Her at a TPUSA Event",
+      "claim": "The host says it is very weird that Charlie Kirk was miked after he sat down, that this never happened to her at a Turning Point event, and that they always mic you backstage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10987",
+        "N-11053"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:16",
+      "investigative_direction": "Review the event video of the microphone being placed on Kirk and the sound crew's account. Compare with other TPUSA events.",
+      "transcript_snippet": "I do think it's very weird&nbsp;&nbsp; that he was miked after he sat down. Tell you that&nbsp; that's never happened to me at a Turning Point&nbsp;&nbsp; event. They Mike you backstage always.",
+      "supports_claim_refs": [
+        "C-10675"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13870",
+      "ref": "C-13870",
+      "label": "Host Says Many Things Were Being Done for the First Time That Day and She Plans to Reveal Them",
+      "claim": "The host says there are a lot of things that were being done for the first time on the day of the shooting and that she plans to reveal all of them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10048"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:49:16",
+      "investigative_direction": "Hold the host to specifics: list each 'first time' item once revealed and check it against prior TPUSA events.",
+      "transcript_snippet": "There's a lot&nbsp;&nbsp; of things that were being done for the first time&nbsp; that day. And I'm going I'm planning on revealing&nbsp;&nbsp; all of them.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
   "memes": [
@@ -1282,6 +3106,27 @@
           "tags": [
             "reuse",
             "pass2"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-320",
+      "ref": "M-320",
+      "canonical_term": "Didn't Kill Himself",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 11,
+          "video_timestamp": "00:00:56",
+          "speaker_node_ref": "N-3",
+          "quote": "Jeffrey Epstein didn't kill himself. Tyler&nbsp; Robinson didn't kill himself.",
+          "context": "Host cites the 'didn't kill himself' phrases as what people say when they expect the federal government is lying, and applies it to Tyler Robinson.",
+          "confidence": "high",
+          "tags": [
+            "relevance:context",
+            "epstein"
           ]
         }
       ]
