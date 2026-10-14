@@ -52,6 +52,9 @@ jobs:
       - name: Unit tests
         if: steps.scope.outputs.run == 'true'
         run: python3 -m pytest -q projects/monuments/scripts
+      - name: Claim timestamps land on their snippets
+        if: steps.scope.outputs.run == 'true'
+        run: python3 projects/monuments/cka/scripts/check_claim_timestamps.py
 
       # Derived files must match the drafts: regenerate them and fail on any change
       # (the companion's generated_at timestamp is ignored).

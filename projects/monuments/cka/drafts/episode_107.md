@@ -1279,7 +1279,7 @@ Investigative Direction: Obtain the daughter's original social media post and th
 
 **C-5697** Marx family members told the show his stepfather backstory is untrue
 
-Claim Timestamp: 00:12:51
+Claim Timestamp: 00:13:38
 
 Claim: The host says the show was contacted by Marx's family members who claim his backstory about his stepfather is not true, that he was not forced to kill anybody, that there are no bodies in the backyards of the farms, and that Gloyce was a crazy man but did not abuse the children.
 

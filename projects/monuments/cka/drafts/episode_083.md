@@ -2044,7 +2044,7 @@ Investigative Direction: Check the thread text for the Dugin reference and its r
 
 **C-12809** Daily Wire Article Says Many Prominent Church Members Spoke Out About Civilians in Gaza
 
-Claim Timestamp: 00:40:56
+Claim Timestamp: 00:41:40
 
 Claim: The host reads from the Daily Wire article that many prominent members of the Catholic Church have spoken out about the plight of civilians in Gaza.
 

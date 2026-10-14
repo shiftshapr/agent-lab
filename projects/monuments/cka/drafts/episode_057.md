@@ -1387,7 +1387,7 @@ Investigative Direction: Check CERN's 4 July 2012 announcement of a Higgs-like b
 
 **C-5456** Host says the CERN ceremony took place under a Hindu deity statue
 
-Claim Timestamp: 00:36:29
+Claim Timestamp: 00:38:17
 
 Claim: The host says the ceremony in the CERN footage takes place under a Hindu deity and compares the statue to Shiva, and that it is a massive statue.
 

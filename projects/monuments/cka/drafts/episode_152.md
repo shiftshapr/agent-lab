@@ -2392,7 +2392,7 @@ Investigative Direction: A sweeping group claim; no checkable evidence is offere
 
 **C-10569** Host Says Robert Kraft Owns the New England Patriots and the Stadium
 
-Claim Timestamp: 00:41:34
+Claim Timestamp: 00:46:20
 
 Claim: The host says Robert Kraft is a billionaire who owns the New England Patriots and the entire Patriot Stadium, and says he mounted a peer pressure campaign over Macklemore's remarks.
 

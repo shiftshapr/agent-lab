@@ -1698,7 +1698,7 @@ Investigative Direction: Collect dated interviews and posts from TPUSA staff on 
 
 **C-9609** Host Says Charlie Went to Mass Sometimes Daily and Died With the Pendant
 
-Claim Timestamp: 00:29:15
+Claim Timestamp: 00:30:15
 
 Claim: The host says she would have told Allie Beth Stuckey privately that Charlie was going to Mass sometimes daily, was going on Sundays, and died with the pendant.
 
@@ -1794,7 +1794,7 @@ Investigative Direction: Obtain the UVU request email, its dates, and TPUSA's ca
 
 **C-9615** Host Says Stuckey's Shared Text Shows Charlie Offering Nov 3 at Auburn or South Alabama
 
-Claim Timestamp: 00:35:13
+Claim Timestamp: 00:36:03
 
 Claim: The host reads from the private chat Allie Beth Stuckey shared, in which Charlie Kirk offers a November 3rd 6:30 p.m. event at Auburn or the University of South Alabama.
 
@@ -1985,7 +1985,7 @@ Investigative Direction: Obtain the WSJ article, photo date and Clark's podcast 
 
 **C-9627** Host Says Mikey McCoy Was Being Primed to Take Over, Heard From His Father and TPUSA
 
-Claim Timestamp: 00:47:00
+Claim Timestamp: 00:48:02
 
 Claim: The host says that things said about Mikey McCoy after the assassination made people feel he was being primed to take over for Charlie, and that this was heard from his father and from people at TPUSA.
 

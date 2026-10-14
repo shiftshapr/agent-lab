@@ -2428,7 +2428,7 @@ Investigative Direction: Compile the named pastors' and Erika's mother's documen
 
 **C-7136** Host Reads a Viewer Comment Saying Many Gave Thousands Through GiveSendGo So Erika Could Stay Home
 
-Claim Timestamp: 00:59:43
+Claim Timestamp: 01:00:36
 
 Claim: The host reads a comment from viewer TJ Kurt saying many gave thousands of dollars through GiveSendGo so that Erika Kirk could stay home with her babies, and that Erika now says it is not enough and she must work.
 

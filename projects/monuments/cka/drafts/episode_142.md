@@ -1071,7 +1071,7 @@ Investigative Direction: Obtain full Tucker Carlson interview segment; identify 
 
 **C-3743** Andrew Kolvet is the 'Kolvet' of C-3294 (revises C-3294)
 
-Claim Timestamp: 00:14:25
+Claim Timestamp: 00:15:13
 
 Claim: C-3294 spells the speaker 'Andrew Kolvet' (auto-caption form). The speaker is Andrew Kolvet (N-14). He stated on Tucker Carlson that Farnsworth (N-265) removed the SD cards "because I know people can be evil," and described witnessing theft of hats from the table after the incident.
 
@@ -1452,7 +1452,7 @@ Investigative Direction: Ask the FBI and SBI whether and when they took custody 
 
 **C-9170** Kolvet Says He Personally Asked Farnsworth Why He Took the SD Cards
 
-Claim Timestamp: 00:14:25
+Claim Timestamp: 00:15:13
 
 Claim: In the Tucker Carlson clip, Kolvet says he personally asked the staffer why he grabbed the SD cards and that the answer was that he knew people can be evil.
 

@@ -1932,7 +1932,7 @@ Investigative Direction: Compare with TPUSA's donor breakdown in Form 990 filing
 
 **C-7049** Host Says Her Book Now Ships to Canada
 
-Claim Timestamp: 00:49:45
+Claim Timestamp: 00:50:40
 
 Claim: The host says her book now ships to Canada, in reply to a viewer comment.
 

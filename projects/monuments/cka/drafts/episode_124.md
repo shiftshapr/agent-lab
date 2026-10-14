@@ -2193,7 +2193,7 @@ Investigative Direction: Look for TPUSA donor records or announcements of a Shap
 
 **C-7253** Host Says Her December Call With Matt Walsh Occurred While Shapiro Was in Town
 
-Claim Timestamp: 00:59:57
+Claim Timestamp: 01:00:47
 
 Claim: The host says she had a strange phone call with Matt Walsh in December and did not know that Ben Shapiro was in town on that date, and told her team Daily Wire was somehow more involved.
 

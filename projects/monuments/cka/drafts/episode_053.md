@@ -1955,7 +1955,7 @@ Investigative Direction: Obtain the text and its date, and identify who arranged
 
 **C-6966** Host Dates the Oracle Conversation to Early 2018 Before the Kanye Tweet
 
-Claim Timestamp: 00:42:56
+Claim Timestamp: 00:43:37
 
 Claim: The host says Charlie's older Jewish contact from Chicago, whom Charlie called like the oracle, all but confirmed his death premonition, saying his death would save humanity, in early 2018 before the Kanye tweet.
 
@@ -2151,7 +2151,7 @@ Investigative Direction: Check French agriculture ministry announcements on lump
 
 **C-6978** Host Says Similar Cattle Actions Are Aimed at Taking Farmland
 
-Claim Timestamp: 00:56:19
+Claim Timestamp: 00:57:00
 
 Claim: The host says similar things are happening in the United States and that they want all the farmland, which is why farmers and ranchers are fighting the government.
 

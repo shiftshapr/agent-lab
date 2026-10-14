@@ -2368,7 +2368,7 @@ Investigative Direction: Ask TPUSA what evidence it offered to support Robinson'
 
 **C-14027** Host Says TPUSA Has Access to UVU Cameras
 
-Claim Timestamp: 00:16:04
+Claim Timestamp: 00:17:03
 
 Claim: The host says TPUSA has access to UVU cameras, so it is plausible they have seen clear footage of Tyler Robinson taking the shot, which she hoped to hear about.
 

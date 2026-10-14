@@ -1612,7 +1612,7 @@ Investigative Direction: This is the host's inference from Shapiro's public cond
 
 **C-8418** Host Says AmFest Looked Pay-to-Play With Israel Paying
 
-Claim Timestamp: 00:30:08
+Claim Timestamp: 00:31:39
 
 Claim: The host says AmericaFest looked like pay-to-play and like people were paying on behalf of Israel.
 
