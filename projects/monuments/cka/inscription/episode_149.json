@@ -226,7 +226,7 @@
           "@type": "Artifact",
           "@id": "A-2432.1",
           "ref": "A-2432.1",
-          "description": "Still image of Blake Hariff sliding across the table at the scene",
+          "description": "Still image of Blake Harreff sliding across the table at the scene",
           "related_claims": [],
           "related_nodes": [],
           "tags": [],
@@ -240,7 +240,7 @@
           "@type": "Artifact",
           "@id": "A-2432.2",
           "ref": "A-2432.2",
-          "description": "Footage of Blake Hariff running to the car with a visibly clean (no blood) shirt after the SUV departed",
+          "description": "Footage of Blake Harreff running to the car with a visibly clean (no blood) shirt after the SUV departed",
           "related_claims": [],
           "related_nodes": [],
           "tags": [],
@@ -254,7 +254,7 @@
           "@type": "Artifact",
           "@id": "A-2432.3",
           "ref": "A-2432.3",
-          "description": "Footage of team returning to UVU at ~8:30 PM showing Blake Hariff, Rick Cutler, Justin Davis, and Dan Flood wearing Timpanogos surgical scrubs; Brian Harpole holding a jacket and brown bag",
+          "description": "Footage of team returning to UVU at ~8:30 PM showing Blake Harreff, Rick Cutler, Justin Davis, and Dan Flood wearing Timpanogos surgical scrubs; Brian Harpole holding a jacket and brown bag",
           "related_claims": [
             "C-3550",
             "C-3551",
@@ -678,7 +678,7 @@
           "@type": "Artifact",
           "@id": "A-3352.2",
           "ref": "A-3352.2",
-          "description": "Host verbal call to email more tips about Blake Hariff, with an offer to protect sources",
+          "description": "Host verbal call to email more tips about Blake Harreff, with an offer to protect sources",
           "related_claims": [
             "C-14943",
             "C-14944"
@@ -1387,7 +1387,7 @@
       "@type": "Person",
       "@id": "N-906",
       "ref": "N-906",
-      "name": "Blake Hariff",
+      "name": "Blake Harreff",
       "type": "person",
       "description": "Security team member; the host says he stayed behind, was clean and later wore scrubs.",
       "related_artifacts": [],
@@ -1944,8 +1944,8 @@
       "@type": "Claim",
       "@id": "C-3550",
       "ref": "C-3550",
-      "label": "Blake Hariff's shirt was visibly free of blood after the SUV departed the scene",
-      "claim": "Footage shows Blake Hariff running after the SUV departed with no visible blood on his shirt.",
+      "label": "Blake Harreff's shirt was visibly free of blood after the SUV departed the scene",
+      "claim": "Footage shows Blake Harreff running after the SUV departed with no visible blood on his shirt.",
       "anchored_artifacts": [
         "A-2432.2"
       ],
@@ -1959,8 +1959,8 @@
       "@type": "Claim",
       "@id": "C-3551",
       "ref": "C-3551",
-      "label": "Blake Hariff did not help carry Charlie to the car and did not travel to the hospital in the initial SUV",
-      "claim": "Blake Hariff sprinted ahead with Justin Davis to open the car but did not help carry Charlie to the vehicle; he did not travel in the SUV to the hospital.",
+      "label": "Blake Harreff did not help carry Charlie to the car and did not travel to the hospital in the initial SUV",
+      "claim": "Blake Harreff sprinted ahead with Justin Davis to open the car but did not help carry Charlie to the vehicle; he did not travel in the SUV to the hospital.",
       "anchored_artifacts": [
         "A-2432.1",
         "A-2432.2"
@@ -1977,8 +1977,8 @@
       "@type": "Claim",
       "@id": "C-3552",
       "ref": "C-3552",
-      "label": "Blake Hariff was wearing Timpanogos surgical scrubs at the UVU return ~8:30 PM",
-      "claim": "Footage of the team returning to UVU after 8:30 PM on September 10 shows Blake Hariff wearing a Timpanogos surgical scrub top.",
+      "label": "Blake Harreff was wearing Timpanogos surgical scrubs at the UVU return ~8:30 PM",
+      "claim": "Footage of the team returning to UVU after 8:30 PM on September 10 shows Blake Harreff wearing a Timpanogos surgical scrub top.",
       "anchored_artifacts": [
         "A-2432.3"
       ],
@@ -3140,8 +3140,8 @@
       "@type": "Claim",
       "@id": "C-14893",
       "ref": "C-14893",
-      "label": "Host Says Justin Davis Drove the SUV to the Hospital While Hariff Stayed Behind",
-      "claim": "The host says Justin Davis drove to the hospital but Blake Hariff stayed behind, so he could not have gotten Charlie's blood on him in the vehicle.",
+      "label": "Host Says Justin Davis Drove the SUV to the Hospital While Harreff Stayed Behind",
+      "claim": "The host says Justin Davis drove to the hospital but Blake Harreff stayed behind, so he could not have gotten Charlie's blood on him in the vehicle.",
       "anchored_artifacts": [
         "A-2432.2"
       ],
@@ -3151,7 +3151,7 @@
       ],
       "claim_timestamp": "00:18:51",
       "investigative_direction": "Confirm the driver and passenger list for the first SUV from footage and team statements.",
-      "transcript_snippet": "Justin drives to the hospital, but Blake Hariff stays behind.",
+      "transcript_snippet": "Justin drives to the hospital, but Blake Harreff stays behind.",
       "supports_claim_refs": [
         "C-3551"
       ],
@@ -3165,7 +3165,7 @@
       "@id": "C-14894",
       "ref": "C-14894",
       "label": "Footage Shows Turek Getting Into the Boot of the SUV",
-      "claim": "The host says that after Hariff and Davis opened the car door the footage shows Frank Turek come around and get into the boot.",
+      "claim": "The host says that after Harreff and Davis opened the car door the footage shows Frank Turek come around and get into the boot.",
       "anchored_artifacts": [
         "A-2432.2"
       ],
@@ -3189,7 +3189,7 @@
       "@id": "C-14895",
       "ref": "C-14895",
       "label": "Host Says Flood and Cutler Carried Charlie and Cutler Was in the Vehicle",
-      "claim": "The host says Dan Flood carried Charlie and Rick Cutler certainly carried Charlie and was in the vehicle, so scrubs on them are less puzzling than on Hariff.",
+      "claim": "The host says Dan Flood carried Charlie and Rick Cutler certainly carried Charlie and was in the vehicle, so scrubs on them are less puzzling than on Harreff.",
       "anchored_artifacts": [
         "A-2432.3"
       ],
@@ -3209,8 +3209,8 @@
       "@type": "Claim",
       "@id": "C-14896",
       "ref": "C-14896",
-      "label": "Host Says Hariff and Davis Did Not Touch Charlie While He Was Loaded",
-      "claim": "The host says Blake Hariff did not touch Charlie while getting into the vehicle, and neither did Justin Davis, though she gives Davis the benefit of the doubt that he touched Charlie at the hospital.",
+      "label": "Host Says Harreff and Davis Did Not Touch Charlie While He Was Loaded",
+      "claim": "The host says Blake Harreff did not touch Charlie while getting into the vehicle, and neither did Justin Davis, though she gives Davis the benefit of the doubt that he touched Charlie at the hospital.",
       "anchored_artifacts": [
         "A-2432.1"
       ],
@@ -3292,8 +3292,8 @@
       "@type": "Claim",
       "@id": "C-14900",
       "ref": "C-14900",
-      "label": "Host Names a Man in Surgical Scrubs at the Top of the Frame as Blake Gibson",
-      "claim": "The host names a man in surgical scrubs at the top of the frame as Blake Gibson, with the name as transcribed.",
+      "label": "Host Names Blake Gibson of the Security Detail as the Man in Surgical Scrubs at the Top of the Frame",
+      "claim": "The host names the man in surgical scrubs at the top of the frame as Blake Gibson, a member of the security detail.",
       "anchored_artifacts": [
         "A-2432.3"
       ],
@@ -3302,7 +3302,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:25:29",
-      "investigative_direction": "Confirm the correct name from the footage; it may be a different name for Blake Hariff or another team member.",
+      "investigative_direction": "Confirm the correct name from the footage; it may be a different name for Blake Harreff or another team member.",
       "transcript_snippet": "Blake Gibson and surgical scrubs. That's who you see up in the top there."
     },
     {
@@ -4185,8 +4185,8 @@
       "@type": "Claim",
       "@id": "C-14943",
       "ref": "C-14943",
-      "label": "Host Asks for Tips on Blake Hariff Changing Into Surgical Scrubs",
-      "claim": "The host asks viewers who might have seen Blake Hariff take his shirt off and put on surgical scrubs to email more tips, noting he is not a doctor.",
+      "label": "Host Asks for Tips on Blake Harreff Changing Into Surgical Scrubs",
+      "claim": "The host asks viewers who might have seen Blake Harreff take his shirt off and put on surgical scrubs to email more tips, noting he is not a doctor.",
       "anchored_artifacts": [
         "A-3352.2"
       ],
@@ -4199,7 +4199,7 @@
       ],
       "claim_timestamp": "00:52:16",
       "investigative_direction": "Review incoming tips about scrub changes at the hospital or UVU and corroborate with footage.",
-      "transcript_snippet": "Email us more tips canoners. com. Maybe you are Blake Hariff and you just want to talk.",
+      "transcript_snippet": "Email us more tips canoners. com. Maybe you are Blake Harreff and you just want to talk.",
       "mentions_person_refs": [
         "N-906",
         "N-3"
@@ -4209,8 +4209,8 @@
       "@type": "Claim",
       "@id": "C-14944",
       "ref": "C-14944",
-      "label": "Host Offers to Protect Hariff and Cutler as Sources",
-      "claim": "The host says that if Blake Hariff or Rick Cutler want to talk she will protect them as sources, while saying the chance of that is virtually zero.",
+      "label": "Host Offers to Protect Harreff and Cutler as Sources",
+      "claim": "The host says that if Blake Harreff or Rick Cutler want to talk she will protect them as sources, while saying the chance of that is virtually zero.",
       "anchored_artifacts": [
         "A-3352.2"
       ],
@@ -4220,7 +4220,7 @@
         "dia"
       ],
       "claim_timestamp": "00:52:16",
-      "investigative_direction": "Check for any response from Hariff or Cutler to the standing offer.",
+      "investigative_direction": "Check for any response from Harreff or Cutler to the standing offer.",
       "transcript_snippet": "Maybe you're Rick Cutler and you want to talk. I'll protect you guys as sources.",
       "mentions_person_refs": [
         "N-906",
@@ -4298,7 +4298,7 @@
           "video_timestamp": "00:52:16",
           "speaker_node_ref": "N-3",
           "quote": "Email us more tips canoners. com.",
-          "context": "Host repeats the tip request aimed at Hariff-related information and offers source protection.",
+          "context": "Host repeats the tip request aimed at Harreff-related information and offers source protection.",
           "confidence": "high",
           "tags": [
             "tips_network",
@@ -4438,7 +4438,7 @@
           "video_timestamp": "00:52:16",
           "speaker_node_ref": "N-3",
           "quote": "I got to shoot my shot.",
-          "context": "Host admits her offer to Hariff and Cutler is a long shot.",
+          "context": "Host admits her offer to Harreff and Cutler is a long shot.",
           "confidence": "high",
           "tags": [
             "long_shot",

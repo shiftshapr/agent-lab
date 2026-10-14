@@ -16,7 +16,10 @@ host's allegation is true; the archive records what the host alleges. Do not edi
    (a reader would be misled about what was alleged).
 3. **person**: are the people in Mentions and Related Nodes, and the names in the claim, the right people? Watch for
    transcription errors that became names. If a name looks doubtful, you may check the HappyScribe transcript of the
-   same episode (search https://podcasts.happyscribe.com/candace by episode title). `ok` or `error`.
+   same episode (search https://podcasts.happyscribe.com/candace by episode title). An unfamiliar name is not
+   an error by itself: before calling it a mis-transcription, web-search `"<name>" "Charlie Kirk"` in "extended"
+   mode, with spelling variants (security staff and other minor figures are real people, often named only on
+   Instagram, Facebook or HappyScribe). An empty search proves nothing: report the name as unresolved, not wrong. `ok` or `error`.
 4. **timestamp**: is the snippet spoken within about 60 seconds after the Claim Timestamp, so a `?t=` link lands on
    it? `ok` or `error`. If the snippet is not in the excerpt at all, say so in the note and mark `error`.
 5. **relevance**: if the claim has a `relevance:` tag, is it right? `core` is about Charlie Kirk's assassination,

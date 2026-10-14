@@ -1361,6 +1361,10 @@
         92,
         155
       ]
+    ],
+    [
+      "\\b(?:Harif|Hariff|Heriff|Herriff|Harriff|Hareff)\\b",
+      "Harreff"
     ]
   ]
 }

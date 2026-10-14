@@ -35,7 +35,7 @@
   - Claim Range: C-3426–C-3444, C-3746
   - New Nodes Introduced: N-10827, N-10829, N-10830
   - Reused Nodes Appearing: N-11, N-512, N-250, N-3, N-60, N-371, N-612, N-618, N-10000, N-10014, N-10040, N-10043, N-10100, N-10104, N-10107, N-10164, N-10172, N-10398, N-10416, N-10447, N-10537, N-10573, N-10651, N-10699, N-10737, N-10797, N-10810, N-10900, N-10925, N-10974, N-11053, N-906, N-10828, N-11310
-  - Existing Nodes Reused (by name – IDs require ledger resolution): Charlie Kirk, Erica Kirk, Frank Turek, Brian Harpole, Blake Harif/Hariff, Tyler Robinson, Terrell Farnsworth, Jeremy Boreing, Andrew Kolvet, Tyler Bowyer, Blake Neff, Officer Bagley, Candace Owens
+  - Existing Nodes Reused (by name – IDs require ledger resolution): Charlie Kirk, Erica Kirk, Frank Turek, Brian Harpole, Blake Harreff, Tyler Robinson, Terrell Farnsworth, Jeremy Boreing, Andrew Kolvet, Tyler Bowyer, Blake Neff, Officer Bagley, Candace Owens
 
 ---
 
@@ -374,9 +374,9 @@ Confidence Level: Medium (emails described, not shown)
 
 ---
 
-**A-3158** Hariff Hospital Scrubs Footage Bundle
+**A-3158** Harreff Hospital Scrubs Footage Bundle
 
-**A-3158.1** Host verbal reference to last Wednesday's footage of Blake Hariff in what she presumes are Timpanogos Hospital scrubs by nighttime (not shown in this episode)
+**A-3158.1** Host verbal reference to last Wednesday's footage of Blake Harreff in what she presumes are Timpanogos Hospital scrubs by nighttime (not shown in this episode)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:01:49
@@ -525,7 +525,7 @@ Investigative Pressure: Medium
 
 **N-10830** Security Detail Electrical Hazard Footwear Question
 
-Investigation target: viewer emails (per host) claim the matching light-brown shoes worn by Blake Harif/Hariff, Butch Hibs, and other security personnel are models sold for electrical-hazard/labor-trade protection. Host surfaces this without confirmation.
+Investigation target: viewer emails (per host) claim the matching light-brown shoes worn by Blake Harreff, Butch Hibs, and other security personnel are models sold for electrical-hazard/labor-trade protection. Host surfaces this without confirmation.
 
 Evidence Count: 1 (in this episode)
 Claim Count: 1 (in this episode)
@@ -847,9 +847,9 @@ Alex Clark; trailer, blocking of commenters and the Catholic-remark episode.
 
 ---
 
-**N-906** Blake Hariff
+**N-906** Blake Harreff
 
-First named by the host at 00:01:49 in episode 151 (spelled Harif, Hariff and Heriff in the transcript). Member of Charlie Kirk's security detail on September 10.
+First named by the host at 00:01:49 in episode 151. Member of Charlie Kirk's security detail on September 10.
 
 *Related: C-11758, C-11759, C-11760, C-11762*
 
@@ -866,7 +866,7 @@ First named by the host at 00:07:25 in episode 151. Commentator (Instagram handl
 **N-11310** Security Team Timpanogos Scrubs Question
 
 Node Type: Topic
-The host's questions over why Blake Hariff and others from the security team were wearing hospital scrubs on returning to UVU on the evening of September 10.
+The host's questions over why Blake Harreff and others from the security team were wearing hospital scrubs on returning to UVU on the evening of September 10.
 
 *Related: C-11758, C-11759, C-11762, C-11783*
 
@@ -1155,11 +1155,11 @@ Investigative Direction: Identify the date of the unveiling and the police repor
 
 ---
 
-**C-11758** Host says Blake Hariff was in Timpanogos scrubs by nighttime despite no blood
+**C-11758** Host says Blake Harreff was in Timpanogos scrubs by nighttime despite no blood
 
 Claim Timestamp: 00:01:49
 
-Claim: The host says Blake Hariff, a member of Charlie Kirk's security detail on September 10, had no blood on him and did not help carry or transport Charlie, yet was later seen wearing what she presumes are Timpanogos Hospital scrubs.
+Claim: The host says Blake Harreff, a member of Charlie Kirk's security detail on September 10, had no blood on him and did not help carry or transport Charlie, yet was later seen wearing what she presumes are Timpanogos Hospital scrubs.
 
 Transcript Snippet: we discovered that rather mysteriously uh he's wearing scrubs from Temponogus Hospital. Presumably by nighttime he's wearing hospital scrubs.
 
@@ -1168,7 +1168,7 @@ Mentions: N-906, N-7, N-3
 Related Nodes: N-11310
 Supports: C-3552, C-3551, C-3550
 Tags: relevance:core
-Investigative Direction: Obtain the UVU-return footage, hospital visitor and scrub-issue records, and any statement from Hariff on when and why he changed.
+Investigative Direction: Obtain the UVU-return footage, hospital visitor and scrub-issue records, and any statement from Harreff on when and why he changed.
 
 ---
 
@@ -1176,7 +1176,7 @@ Investigative Direction: Obtain the UVU-return footage, hospital visitor and scr
 
 Claim Timestamp: 00:01:49
 
-Claim: The host says that, per stories shared by Frank Turek, everybody was being handed scrubs at the hospital, and that she cannot think of a reason Hariff in particular would wear them.
+Claim: The host says that, per stories shared by Frank Turek, everybody was being handed scrubs at the hospital, and that she cannot think of a reason Harreff in particular would wear them.
 
 Transcript Snippet: on the basis of the stories that have been shared by Frank Couturk. Everybody they were just handing these scrubs out.
 
@@ -1192,9 +1192,9 @@ Investigative Direction: Find Turek's original statement about scrubs being hand
 
 Claim Timestamp: 00:03:52
 
-Claim: The host argues the feds would not have taken Blake Hariff's blood-free shirt while leaving Charlie Kirk's bloodied necklace and bloodied microphone uncollected.
+Claim: The host argues the feds would not have taken Blake Harreff's blood-free shirt while leaving Charlie Kirk's bloodied necklace and bloodied microphone uncollected.
 
-Transcript Snippet: why would the feds collect Blake Hariff's shirt, which had no blood in it, but not collect Charlie Kirk's bloodied necklace and the bloodied microphone.
+Transcript Snippet: why would the feds collect Blake Harreff's shirt, which had no blood in it, but not collect Charlie Kirk's bloodied necklace and the bloodied microphone.
 
 Anchored Artifacts: 
 Mentions: N-1, N-906
@@ -1220,11 +1220,11 @@ Investigative Direction: Confirm with the family or TPUSA when the coat was retu
 
 ---
 
-**C-11762** Host relays a theory that Hariff's clothing was taken over explosive residue
+**C-11762** Host relays a theory that Harreff's clothing was taken over explosive residue
 
 Claim Timestamp: 00:04:38
 
-Claim: The host relays viewers' suggestion that Hariff's clothing was taken out of caution because he slid across the table and may have picked up explosive residue, and says that would fit the soil removal and emergency pavers if an explosive took Charlie out.
+Claim: The host relays viewers' suggestion that Harreff's clothing was taken out of caution because he slid across the table and may have picked up explosive residue, and says that would fit the soil removal and emergency pavers if an explosive took Charlie out.
 
 Transcript Snippet: Blake when he slid across the table may have got some explosive residue on him.
 
@@ -1892,7 +1892,7 @@ Investigative Direction: Find witnesses or messages in which Kirk questioned TPU
 
 ## VI. Optional Flags
 
-- Name uncertainty: "Blake Harif" vs "Blake Hariff" used inconsistently within the same segment; "Temponogus Hospital" / "Timpanogos" / "Tempenogo PD" appear interchangeably; "Erica Kirk" vs "Erika Kirk" used interchangeably by host.
+- Name uncertainty: "Blake Harreff" vs "Blake Harreff" used inconsistently within the same segment; "Temponogus Hospital" / "Timpanogos" / "Tempenogo PD" appear interchangeably; "Erica Kirk" vs "Erika Kirk" used interchangeably by host.
 - Artifact verbally referenced but not shown: the Timpanogos nurse's email regarding a chest saw request; the viewer emails identifying the matching security-detail shoes as electrical-hazard models; the unnamed doctor's recusal referenced as carry-over from prior episode; the original SD-card / thumb-drive chain-of-custody record.
 - Transcript ambiguity: host repeatedly references "agencies" and "the feds" without specifying FBI vs ATF vs other; "SBI" referenced in prior episodes – not re-identified in this episode.
 - Requires human verification: timestamps on displayed footage (e.g., ~11:53 AM, ~1:00 PM) are host characterizations; provenance and metadata of the "enhanced" footage was not disclosed in this episode.
