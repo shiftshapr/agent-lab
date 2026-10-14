@@ -17,8 +17,8 @@
 - **Episode Ledger Summary**:
   - Artifact Families Introduced: A-1162, A-1163, A-1164, A-1165, A-1166, A-1167, A-1168, A-1169, A-1170, A-2520
   - Claim Range: C-1286-C-1296, C-3731-C-3734, C-3737-C-3739
-  - New Nodes Introduced: N-116, N-117, N-118, N-119, N-120, N-121, N-122, N-123, N-124, N-125, N-10129, N-10130, N-10131, N-10132, N-10133, N-10134, N-10135, N-10136, N-10137, N-10138, N-10139, N-10140
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-36, N-37, N-38, N-40, N-44, N-46, N-5, N-41, N-55, N-60, N-10000, N-10027, N-10062, N-10124, N-15
+  - New Nodes Introduced: N-116, N-117, N-118, N-119, N-120, N-121, N-122, N-123, N-124, N-125, N-10129, N-10130, N-10131, N-10132, N-10133, N-10134, N-10135, N-10136, N-10137, N-10138, N-10140
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-36, N-37, N-38, N-40, N-44, N-46, N-5, N-41, N-55, N-60, N-10000, N-10027, N-10062, N-10124, N-15, N-10139
 
 ## 2. Executive Summary
 

@@ -11,7 +11,8 @@
 - **Transcript SHA-256**: 62ace5f4c4f18929f51b3252c3a6d15650b04715f45dfdc7d6bfb067b8b9d7ce
 
 - **Episode Ledger Summary**:
- - New Nodes Introduced: N-10847, N-10848, N-10849, N-10850
+  - Reused Nodes Appearing: N-10850
+ - New Nodes Introduced: N-10847, N-10848, N-10849
  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-581
 
 # Episode Analysis – Bride of Charlie 155

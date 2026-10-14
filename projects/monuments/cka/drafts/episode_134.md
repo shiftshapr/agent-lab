@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 498191448f0429779cb41d878bd4596c8d20c9fdcbb3d3ef271dbb2b7b27e70a
 
 - **Episode Ledger Summary**:
-  - Reused Nodes Appearing: N-10759
+  - Reused Nodes Appearing: N-10759, N-10762
  - (see registers)
 
 ## I. Meta-Data
@@ -28,7 +28,7 @@
 - Ledger continuation summary:
  - Artifact Families Introduced: A-2205, A-2206, A-2207, A-2208, A-2209, A-2210, A-2211, A-2212, A-2213, A-2214, A-2215, A-2216
  - Claim Range: C-3162–C-3174
- - New Nodes Introduced: N-10759, N-10760, N-10761, N-10762, N-10763, N-10764
+ - New Nodes Introduced: N-10759, N-10760, N-10761, N-10763, N-10764
  - Reused Nodes Appearing: N-2
  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens)
 

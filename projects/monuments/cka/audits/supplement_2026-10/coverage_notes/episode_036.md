@@ -1,0 +1,10 @@
+# Coverage notes, episode 36
+
+- Existing draft: 9 artifact-anchored claims (C-1759 to C-1767) plus 1 near-DIA claim (C-3650), 10 in all.
+- Beats judged covered by existing claims: 10 (Kirk text exchange, legal-team message, Flood-Long texts, Brooksby friend-drove statement, KUTV no records and 30-day retention, Tucker Carlson SAS clip, near-DIA wording).
+- New claims added: 87, with 7 new artifacts, new nodes N-723 to N-725 and N-11008 to N-11012, and 3 new memes plus 2 M-12 occurrences.
+- The earlier pass skipped the host's whole narrative as unanchored; each dated beat here is a stand-alone attributed claim.
+- Most important misses: (1) 00:02:24 and 00:03:45 Kolvet's "it was supposed to be you" and the lay-low list warnings, plus the CIA-contractor spouse; (2) 00:08:14 to 00:10:31 the December 3 and December 18 cease and desist letters sent to an unmonitored inbox and the Satis deal announced seven days after; (3) 00:11:24 to 00:13:25 the February 24 to 26 chain of Kirk, Gor and Trump requests tied to Ukraine and the Trump-Macron meeting; (4) 00:37:13 to 00:39:36 security did not walk the campus, only cared about SUV access and Hall of Flags access, and the two roof videos came through third parties from military-linked filmers; (5) 00:24:39 the tip that the hangar had no lease from 2021 to 2024 and the claim of a 50-50 Stanford identification of Brigitte Macron.
+- DIA beat: 00:54:41 tips email gets a claim, artifact A-2729.1 and an M-12 occurrence; the 00:51:14 "decentralized intelligence" line (existing C-3650) gets an M-12 occurrence only because that claim cannot be edited.
+- Not DIA: 00:29:30 "receiving a bunch of tips" and 00:53:24 "tips box" are claim material without a keyword hit.
+- Rejected as opinion or rhetorical: Bari Weiss and Kanye West commentary, the Tucker-as-bigger-problem question, the "utter psychopath" remark, "Did Tyler Robinson exist" musings, sponsor reads (ultrasound fundraiser, Beekeepers, Pure Talk) and the Elizabeth Jones comment about a message to Trump or Patel.

@@ -382,6 +382,139 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2783",
+      "family_ref": "A-2783",
+      "bundle_name": "Thomas Patrick Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2783.1",
+          "ref": "A-2783.1",
+          "description": "Host verbal reference to an email from Thomas Patrick telling her Charlie Kirk was lying about money (not shown)",
+          "related_claims": [
+            "C-5873",
+            "C-5872"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-514",
+            "N-1"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:19:38",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2783.2",
+          "ref": "A-2783.2",
+          "description": "Host verbal reference to text messages between her and Charlie Kirk about Patrick's email (not shown)",
+          "related_claims": [
+            "C-5874"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-1",
+            "N-514"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:20:25",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2784",
+      "family_ref": "A-2784",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2784.1",
+          "ref": "A-2784.1",
+          "description": "Host verbal call for tips on rented Dodge Challengers (tip email tips at CandaceOwens.com)",
+          "related_claims": [
+            "C-5887"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:30:07",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2784.2",
+          "ref": "A-2784.2",
+          "description": "Host verbal call for tips on a bald man seen on September 10 (tip email)",
+          "related_claims": [
+            "C-5888"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:30:53",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2784.3",
+          "ref": "A-2784.3",
+          "description": "Host verbal call for tips on Frank Turek's whereabouts (tip email)",
+          "related_claims": [
+            "C-5891"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:31:43",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2785",
+      "family_ref": "A-2785",
+      "bundle_name": "Erika Kanye Proof Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2785.1",
+          "ref": "A-2785.1",
+          "description": "Host verbal reference to proof, not shown, of Erika Kirk saying she had people inside the Kanye situation",
+          "related_claims": [
+            "C-5918"
+          ],
+          "related_nodes": [
+            "N-3",
+            "N-2",
+            "N-27"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:50:46",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -463,8 +596,43 @@
       "name": "Charlie Kirk",
       "type": "person",
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-2783.1",
+        "A-2783.2"
+      ],
+      "related_claims": [
+        "C-5854",
+        "C-5855",
+        "C-5856",
+        "C-5857",
+        "C-5858",
+        "C-5859",
+        "C-5862",
+        "C-5863",
+        "C-5864",
+        "C-5866",
+        "C-5867",
+        "C-5868",
+        "C-5870",
+        "C-5871",
+        "C-5873",
+        "C-5874",
+        "C-5876",
+        "C-5889",
+        "C-5893",
+        "C-5894",
+        "C-5901",
+        "C-5903",
+        "C-5905",
+        "C-5906",
+        "C-5907",
+        "C-5908",
+        "C-5909",
+        "C-5910",
+        "C-5912",
+        "C-5917",
+        "C-5918"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -479,8 +647,19 @@
       "name": "Erika Kirk",
       "type": "person",
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-2785.1"
+      ],
+      "related_claims": [
+        "C-5883",
+        "C-5897",
+        "C-5899",
+        "C-5903",
+        "C-5904",
+        "C-5915",
+        "C-5916",
+        "C-5918"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -495,8 +674,44 @@
       "name": "Candace Owens",
       "type": "person",
       "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-2783.1",
+        "A-2783.2",
+        "A-2784.1",
+        "A-2784.2",
+        "A-2784.3",
+        "A-2785.1"
+      ],
+      "related_claims": [
+        "C-5853",
+        "C-5855",
+        "C-5856",
+        "C-5859",
+        "C-5860",
+        "C-5871",
+        "C-5872",
+        "C-5873",
+        "C-5874",
+        "C-5876",
+        "C-5880",
+        "C-5887",
+        "C-5888",
+        "C-5891",
+        "C-5892",
+        "C-5895",
+        "C-5897",
+        "C-5898",
+        "C-5899",
+        "C-5900",
+        "C-5902",
+        "C-5903",
+        "C-5905",
+        "C-5906",
+        "C-5910",
+        "C-5917",
+        "C-5918",
+        "C-5919"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -512,7 +727,9 @@
       "type": "person",
       "description": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3023"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -550,7 +767,19 @@
       "type": "person",
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-5856",
+        "C-5894",
+        "C-5896",
+        "C-5902",
+        "C-5904",
+        "C-5905",
+        "C-5906",
+        "C-5909",
+        "C-5910",
+        "C-5911",
+        "C-5912"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -566,7 +795,19 @@
       "type": "person",
       "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-5856",
+        "C-5857",
+        "C-5858",
+        "C-5859",
+        "C-5861",
+        "C-5864",
+        "C-5865",
+        "C-5887",
+        "C-5888",
+        "C-5891",
+        "C-5898"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -609,6 +850,887 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-5",
+      "ref": "N-5",
+      "name": "Donald Trump",
+      "type": "person",
+      "description": "Donald Trump; a commenter cites his address to the nation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5919"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-7",
+      "ref": "N-7",
+      "name": "Frank Turek",
+      "type": "person",
+      "description": "Frank Turek; the host questions his FaceTime and restaurantology accounts.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5862",
+        "C-5889",
+        "C-5890",
+        "C-5891",
+        "C-5913",
+        "C-5914"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Jeffrey Epstein; subject of the Bank of America suit and the Brunel firm remark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5884",
+        "C-5885",
+        "C-5886",
+        "C-5916"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-17",
+      "ref": "N-17",
+      "name": "Rob McCoy",
+      "type": "person",
+      "description": "Pastor Rob McCoy; named in the host's list of Eastern European ties.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5881"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-22",
+      "ref": "N-22",
+      "name": "Tucker Carlson",
+      "type": "person",
+      "description": "Tucker Carlson; the host says he recommended Neff and is listed with her in a document.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5858",
+        "C-5900"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-27",
+      "ref": "N-27",
+      "name": "Kanye West",
+      "type": "person",
+      "description": "Kanye West; the host refers to the Kanye moment and Erika's alleged role.",
+      "related_artifacts": [
+        "A-2785.1"
+      ],
+      "related_claims": [
+        "C-5917",
+        "C-5918"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Benjamin Netanyahu; subject of the alleged TPUSA offer and show refusal.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5903",
+        "C-5904",
+        "C-5906",
+        "C-5907",
+        "C-5909"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-37",
+      "ref": "N-37",
+      "name": "Bill Ackman",
+      "type": "person",
+      "description": "Bill Ackman; the host says Netanyahu called at his house.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5903"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Tyler Robinson; defendant whose trial date the host ties to the NCRI report.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5895"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Ben Shapiro; subject of the lunch lead.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5892"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-157",
+      "ref": "N-157",
+      "name": "John Mappin",
+      "type": "person",
+      "description": "John Mappin; husband of Irina Mappin.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5880"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-158",
+      "ref": "N-158",
+      "name": "Arena Mappin",
+      "type": "person",
+      "description": "Irina Mappin (transcript Irina; node alias Arina Mappin); told the host about Russian speakers at the memorial.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5880"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Mikey McCoy; rented the SUVs and appears in the call logs.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5862",
+        "C-5866",
+        "C-5889"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-221",
+      "ref": "N-221",
+      "name": "Eliza McCoy",
+      "type": "person",
+      "description": "Elizabeth McCoy; named with her Ukrainian family.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5881"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-270",
+      "ref": "N-270",
+      "name": "Andrew K. Smith",
+      "type": "person",
+      "description": "Andrew K. Smith; interviewer of Kirk's last interview before UVU.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5863"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-337",
+      "ref": "N-337",
+      "name": "Baron Coleman",
+      "type": "person",
+      "description": "Baron Coleman; told the host the shirt was 100% polyester.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5855"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-447",
+      "ref": "N-447",
+      "name": "Johnny Moore",
+      "type": "person",
+      "description": "Johnny Moore; Kolvet's former partner and NCRI board member per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5894"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-541",
+      "ref": "N-541",
+      "name": "Jean-Luc Brunel",
+      "type": "person",
+      "description": "Jean-Luc Brunel; founder of the modeling firm the host mentions.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5916"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10006",
+      "ref": "N-10006",
+      "name": "Fox News",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5857"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10018",
+      "ref": "N-10018",
+      "name": "Netanyahu Israel Invitation Phone Call",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5902",
+        "C-5909"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10027",
+      "ref": "N-10027",
+      "name": "The Hamptons",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5903",
+        "C-5905"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10074",
+      "ref": "N-10074",
+      "name": "Provo, Utah",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5862",
+        "C-5863",
+        "C-5868",
+        "C-5887"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10193",
+      "ref": "N-10193",
+      "name": "Mikey McCoy Call Log Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5866"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10338",
+      "ref": "N-10338",
+      "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5866"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10340",
+      "ref": "N-10340",
+      "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5908",
+        "C-5912"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10342",
+      "ref": "N-10342",
+      "name": "Bibi Netanyahu TPUSA Funding Offer",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5904",
+        "C-5910",
+        "C-5911"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10403",
+      "ref": "N-10403",
+      "name": "Erika Kirk Handler Thesis",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5917",
+        "C-5918"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10446",
+      "ref": "N-10446",
+      "name": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5903",
+        "C-5905"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10456",
+      "ref": "N-10456",
+      "name": "Charlie Kirk BB Netanyahu Show Refusal",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5906",
+        "C-5907",
+        "C-5909"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10528",
+      "ref": "N-10528",
+      "name": "Arizona-Romania Pipeline Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5881"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10532",
+      "ref": "N-10532",
+      "name": "Next Model Management / Erica Kirk Connection",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5916"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10681",
+      "ref": "N-10681",
+      "name": "Sean Ryan Show Interview Clip Bundle",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5897"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10712",
+      "ref": "N-10712",
+      "name": "Ben Shapiro Car Ride Live Updates",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5892"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10730",
+      "ref": "N-10730",
+      "name": "Frank Turek FaceTime Story Inconsistency",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5890",
+        "C-5913",
+        "C-5914"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10748",
+      "ref": "N-10748",
+      "name": "Ben Shapiro 9/10 Lunch Meeting Identification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5892"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10815",
+      "ref": "N-10815",
+      "name": "NCRI Report Provenance and Authorship",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5893",
+        "C-5894",
+        "C-5895",
+        "C-5896",
+        "C-5897"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10850",
+      "ref": "N-10850",
+      "name": "Two Grey Dodge Challengers Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5887"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10990",
+      "ref": "N-10990",
+      "name": "Black Sea Rotational Force",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5883"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-746",
+      "ref": "N-746",
+      "name": "Stu Peters",
+      "type": "person",
+      "description": "First named by the host at 00:09:26 in episode 125. Employer of Blake Neff before Turning Point per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5858"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-747",
+      "ref": "N-747",
+      "name": "John McGovern",
+      "type": "person",
+      "description": "First named by the host at 00:11:42 in episode 125 (also Johnny McGovern, McGovern). Works in gifts and fundraising at Turning Point USA per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5862",
+        "C-5889"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-748",
+      "ref": "N-748",
+      "name": "Ike Perlmutter",
+      "type": "person",
+      "description": "First named by the host at 00:19:38 in episode 125. Subject of the 2019 check dispute.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5871"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-749",
+      "ref": "N-749",
+      "name": "Stephen Phillip",
+      "type": "person",
+      "description": "First named by the host at 00:22:09 in episode 125 (Steven Phillip, Stephen Phillip). Father of Danny Philip.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5882"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-750",
+      "ref": "N-750",
+      "name": "Dennis Frantzve",
+      "type": "person",
+      "description": "First named by the host at 00:24:41 in episode 125. Erika Kirk's cousin per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5883"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-751",
+      "ref": "N-751",
+      "name": "Leon Black",
+      "type": "person",
+      "description": "First named by the host at 00:25:34 in episode 125. Epstein associate whose wealth Bank of America Merrill Lynch managed per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5884"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11057",
+      "ref": "N-11057",
+      "name": "Blake Neff Employment History Account",
+      "type": "topic",
+      "description": "The host's account of Blake Neff's career: Fox News departure, Stu Peters, Marine Corps war gaming and hiring by Charlie Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5857",
+        "C-5858",
+        "C-5861"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11058",
+      "ref": "N-11058",
+      "name": "Thomas Patrick 2019 Email on Kirk Money",
+      "type": "topic",
+      "description": "The host's account that Thomas Patrick emailed her in 2019 that Charlie Kirk was lying to her about money, during the Perlmutter dispute and a smear campaign.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5872",
+        "C-5873",
+        "C-5874",
+        "C-5876"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11059",
+      "ref": "N-11059",
+      "name": "Russian-Speaking Turning Point Network",
+      "type": "topic",
+      "description": "The host's claims that many Turning Point people and relatives speak Russian or have Russian and Ukrainian ties.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5879",
+        "C-5880",
+        "C-5881"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11060",
+      "ref": "N-11060",
+      "name": "Bank of America Epstein Victims Settlement",
+      "type": "topic",
+      "description": "The Epstein victims' suit against Bank of America, the $170 million transfers and the settlement as described by the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5884",
+        "C-5885",
+        "C-5886"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11061",
+      "ref": "N-11061",
+      "name": "Restaurantology Event Green Room Attendance Question",
+      "type": "topic",
+      "description": "Who was in the restaurantology event green room and whether Frank Turek was there or in the second SUV.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5889",
+        "C-5890",
+        "C-5891"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
   "claims": [
@@ -805,7 +1927,1491 @@
         "N-2",
         "N-3"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5853",
+      "ref": "C-5853",
+      "label": "Emails From Fashion, Sewing and Medical Senders Identified Object as Shirt Remains",
+      "claim": "The host says she received many emails from people in the fashion industry, stay-at-home mothers who sew, doctors and plastic surgeons who insisted the burnt object in the SUV backseat is the remains of a t-shirt.",
+      "anchored_artifacts": [
+        "A-2131.1"
+      ],
+      "related_nodes": [
+        "N-10714"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:30",
+      "investigative_direction": "Review the full set of received emails and verify the senders' stated occupations before treating the pattern as independent expertise.",
+      "transcript_snippet": "people in the fashion industry reaching out, a ton of them, insisting immediately and persistently that what we were looking at was the remains of a t-shirt",
+      "supports_claim_refs": [
+        "C-3017"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5854",
+      "ref": "C-5854",
+      "label": "Emailed Nurse Says Object Is Kirk's Shirt and Charred Skin",
+      "claim": "An emailer who calls herself a plastic and reconstructive surgery nurse writes that the charred object is Charlie Kirk's shirt, its back scorched because electrical current heated polyester, with black areas being necrotic skin. The host reads the email aloud.",
+      "anchored_artifacts": [
+        "A-2131.2"
+      ],
+      "related_nodes": [
+        "N-10714"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:04:31",
+      "investigative_direction": "Verify the sender's credentials and have a burn specialist or textile forensic examiner assess the photograph; the recovered object itself would settle it.",
+      "transcript_snippet": "What is the charred burned thing on the ground? It is his shirt. I have taken care of multiple burns as a plastic and reconstructive surgery nurse and that is his shirt.",
+      "supports_claim_refs": [
+        "C-3017"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5855",
+      "ref": "C-5855",
+      "label": "Coleman Says Kirk's Shirt Was 100% Polyester",
+      "claim": "The host says Baron Coleman told her he thinks the shirt Charlie Kirk was wearing was 100% polyester, and that the best she could find for her burn test was a 50% polyester mixed shirt, with a fully polyester shirt on order.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10714"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:05:55",
+      "investigative_direction": "Obtain the shirt's brand and fabric composition from evidence logs, purchase records or photographs of Kirk wearing it that morning.",
+      "transcript_snippet": "Baron Coleman um was here the other day and he told me that he thinks that that particular shirt that Charlie was wearing was 100% polyester",
+      "mentions_person_refs": [
+        "N-337",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5856",
+      "ref": "C-5856",
+      "label": "Host Says Critics Shifted From 'Secretly Loved Charlie' to 'Secretly Hated Charlie'",
+      "claim": "The host says that while she was in Spain the mainstream talking point changed from her secretly loving Charlie Kirk to her secretly hating him, and that the new version came directly from Andrew Kolvet and Blake Neff.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:08:45",
+      "investigative_direction": "Compare dated public statements by Kolvet and Neff before and after the host's two-week absence.",
+      "transcript_snippet": "But now they've done a complete 180. While I was in Spain, they shifted gears and they said",
+      "mentions_person_refs": [
+        "N-3",
+        "N-14",
+        "N-162",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5857",
+      "ref": "C-5857",
+      "label": "Blake Neff Hired in 2022 After Leaving Fox News",
+      "claim": "The host says Blake Neff never worked for Turning Point USA if he is to be believed, and was not hired to work with Charlie Kirk in any capacity until 2022, after he was fired or had to move on from Fox News over racist comments.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11057",
+        "N-10006"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:26",
+      "investigative_direction": "Neff's employment history (Fox News departure, hiring date at Turning Point or the Charlie Kirk Show) from his own statements, press coverage and payroll or contract records.",
+      "transcript_snippet": "He didn't even get hired to work with Charlie at all in any capacity until 2022 after um he was fired from Fox News or had to move on from Fox News because of some racist comments.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5858",
+      "ref": "C-5858",
+      "label": "Neff Worked for Stu Peters Then Joined Charlie After Tucker Carlson Recommended Him",
+      "claim": "The host says Blake Neff went to work for Stu Peters and then started working with Charlie Kirk after Tucker Carlson recommended him as loyal.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11057"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:09:26",
+      "investigative_direction": "Neff's own account of how he was hired; statements by Carlson or Peters on the recommendation.",
+      "transcript_snippet": "He then work went to work for Stu Peters um and then he moved on to start working with Charlie after Tucker Carlson recommended him because he's loyal.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-746",
+        "N-22",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5859",
+      "ref": "C-5859",
+      "label": "Neff Tweeted He Briefly Turned on Candace and Called MASH Theory Enough",
+      "claim": "The host reads a tweet from Blake Neff saying he decided against his better judgment to briefly turn on Candace, that her theory about UVU's military-affiliated student hub, MASH, was enough for him, and that she privately envied and hated Charlie and wants his killer to get away with it.",
+      "anchored_artifacts": [
+        "A-2132.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:10:11",
+      "investigative_direction": "Retrieve Neff's original post from X with its timestamp and compare with the text read on air.",
+      "transcript_snippet": "I decided against my better judgment to briefly turn on Candace.\" Okay, Blakey. You watch every episode.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5860",
+      "ref": "C-5860",
+      "label": "MASH Military-Affiliated Student Center Is on the Third Floor of the Lozi Center",
+      "claim": "The host says that on the third floor of the Lozi Center, where video people were seen going up and down, is the MASH student center, the military-affiliated student center at UVU.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:10:11",
+      "investigative_direction": "UVU building directory and campus map for the Losee Center showing the location of the military and veterans student hub.",
+      "transcript_snippet": "That on the third floor of the Lozi Center, we were seeing all these video people going up and down, it is the MASH student center, the military-affiliated student center.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5861",
+      "ref": "C-5861",
+      "label": "Host Says Neff Supported Marine Corps War Gaming Before Removal",
+      "claim": "The host says Blake Neff's truer background is in military strategy: he supported war gaming exercises for the Marine Corps before he was removed from that position following racist commentary.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11057"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:15",
+      "investigative_direction": "Neff's biography, Marine Corps or contractor records of his role, and reporting on the racist-commentary incident.",
+      "transcript_snippet": "Blake's truer background is in military strategy. He supported war gaming exercises for the Marine Corps before he was removed from that position following racist commentary.",
+      "mentions_person_refs": [
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5862",
+      "ref": "C-5862",
+      "label": "Mikey McCoy Rented Two SUVs; First Carried Charlie, McCoy, Turek and McGovern",
+      "claim": "The host says Mikey McCoy rented two SUVs in Salt Lake City, and that one carried Charlie Kirk, Mikey McCoy, Frank Turek and John McGovern, who works in gifts at Turning Point USA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10074"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:42",
+      "investigative_direction": "Salt Lake City rental agreement(s) in McCoy's name and statements from Turek and McGovern about who rode in which vehicle.",
+      "transcript_snippet": "We know that one was carrying Charlie and Mikey McCoy and Frank Turrek and John McGovern who works in gifts at Turning Point USA, raises money for them.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-1",
+        "N-7",
+        "N-747"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5863",
+      "ref": "C-5863",
+      "label": "Kirk Flew Into Salt Lake City, Not Provo, for Restaurant Event and Andrew Smith Interview",
+      "claim": "The host says Charlie Kirk did a restaurant event and his last interview with Andrew Smith before UVU, flying into Salt Lake City rather than Provo.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10074"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:42",
+      "investigative_direction": "Flight records for the September 10 charter, and the published Andrew K. Smith interview with its recording date and location.",
+      "transcript_snippet": "He does this this restaurant event and does his last interview with a guy named Andrew Smith. He flies into Salt Lake City, not Provo.",
+      "supports_claim_refs": [
+        "C-3735"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5864",
+      "ref": "C-5864",
+      "label": "Neff Says He Is a Key Witness to Charlie's Life, Not to the Murder",
+      "claim": "In the X Space audio, Blake Neff says he would not be asked such questions by the authorities and describes himself as a key witness to Charlie's life but not a particularly important witness to the murder.",
+      "anchored_artifacts": [
+        "A-2133.1"
+      ],
+      "related_nodes": [
+        "N-10715"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:07",
+      "investigative_direction": "Whether investigators or the Utah prosecutors interviewed Neff, and any statement on file.",
+      "transcript_snippet": "I'm a key witness to Charlie's life. I'm not a particularly important witness to the murder.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5865",
+      "ref": "C-5865",
+      "label": "Neff Says SUV Parked and Marked Time Until the Utah Valley Event",
+      "claim": "In the X Space audio, Blake Neff says that because he was not going to the restaurant event, the SUV drove somewhere, parked, and marked time until the actual Utah Valley event.",
+      "anchored_artifacts": [
+        "A-2133.1"
+      ],
+      "related_nodes": [
+        "N-10715"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:14:43",
+      "investigative_direction": "Phone location data, SUV telematics and rental records for the second vehicle between landing and the UVU event.",
+      "transcript_snippet": "We drove somewhere, and because I wasn't going to that event, we just like parked, and we marked time until the actual Utah Valley event.",
+      "mentions_person_refs": [
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5866",
+      "ref": "C-5866",
+      "label": "McCoy Was on the Phone With Danny Philip Before and After the Shooting",
+      "claim": "The host says Mikey McCoy's call logs show him on the phone with Danny Philip before Charlie Kirk was shot at 12:02, and for 10 minutes after the shooting; she had first assumed the contact was Danny McCollum.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10193",
+        "N-10338"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:16:38",
+      "investigative_direction": "Mikey McCoy's carrier call detail records for September 10, 2025, and statements from McCoy and Philip about the calls.",
+      "transcript_snippet": "Before Charlie got shot at 12:02, Mikey McCoy was on the phone with Danny Philip. I thought they were just both at the event.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-375",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5867",
+      "ref": "C-5867",
+      "label": "Danny Philip Graduated College in May 2025 and Was Hired Straight Out for Charlie's Staff",
+      "claim": "The host says Danny Philip is very young, graduated college in May 2025 and was hired right out of college to work for Charlie Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:16:38",
+      "investigative_direction": "Turning Point USA hiring and payroll records for Philip, and his university graduation date.",
+      "transcript_snippet": "Danny Philip is is very young. He just graduated college in May of 2025. He gets hired right out of college, um to work for Charlie.",
+      "mentions_person_refs": [
+        "N-375",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5868",
+      "ref": "C-5868",
+      "label": "Danny Philip Was Charlie's Assistant, Interned the Prior Summer, and Flew Private to Salt Lake City",
+      "claim": "The host says Danny Philip was Charlie Kirk's assistant, had interned for the organization the previous summer, and was selected to fly privately with Charlie to Salt Lake City though apparently he did not assist Charlie there.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10074"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:27",
+      "investigative_direction": "Philip's job title and start date, the flight manifest for the September 10 charter, and his internship dates.",
+      "transcript_snippet": "Danny Phillip, Charlie Kirk's assistant, that's a pretty big job. You know, he had interned for them the previous summer.",
+      "supports_claim_refs": [
+        "C-3020"
+      ],
+      "mentions_person_refs": [
+        "N-375",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5869",
+      "ref": "C-5869",
+      "label": "Danny Philip's LinkedIn Says Ohio State; He Was in the Turning Point Chapter",
+      "claim": "The host says that according to his LinkedIn, Danny Philip graduated from Ohio State University, where he was running or part of the Turning Point chapter, before going straight to work for Turning Point USA.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:18:11",
+      "investigative_direction": "Philip's LinkedIn profile as archived, Ohio State registrar confirmation, and Ohio State Turning Point chapter rosters.",
+      "transcript_snippet": "According to his LinkedIn, he graduated from Ohio State University.",
+      "mentions_person_refs": [
+        "N-375"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5870",
+      "ref": "C-5870",
+      "label": "Turning Point Staff Told Host Philip Was a Family Friend",
+      "claim": "The host says people at Turning Point told her Danny Philip was a family friend who got a big job working for Charlie and is kind of quiet.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:18:54",
+      "investigative_direction": "Identify the Turning Point staff who said so and ask what they know of the Philip family relationship to Kirk.",
+      "transcript_snippet": "We're kind of told he was a family friend and he got this like big job working for Charlie.",
+      "mentions_person_refs": [
+        "N-375",
+        "N-1",
+        "N-11"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5871",
+      "ref": "C-5871",
+      "label": "Host Says 2019 Dispute With Charlie Over Ike Perlmutter Check Involved Forces Pulling Them Apart",
+      "claim": "The host says she and Charlie Kirk argued in 2019 about Ike Perlmutter, the check and the money, when she felt forces were intentionally pulling her and Charlie apart.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:19:38",
+      "investigative_direction": "Earlier episode statements on the Perlmutter check, and contemporaneous messages between the host and Kirk.",
+      "transcript_snippet": "We already discussed the argument that Charlie and I had regarding Ike Perlmutter, the check, the money. 2019 when I said I felt that people were intentionally forces were pulling me and Charlie apart.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-748"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5872",
+      "ref": "C-5872",
+      "label": "Host Says Anti-Semitism Smear Began at the Same Time Thomas Patrick Emailed Her",
+      "claim": "The host says that in 2019 a smear campaign calling her anti-Semitic started, and at virtually the same time a major Turning Point donor she thought was good to her, Thomas Patrick, intervened.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11058"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:38",
+      "investigative_direction": "Dated media coverage of the 2019 smear and the date of Patrick's email.",
+      "transcript_snippet": "Suddenly, there's this smear campaign calling me anti-Semitic. Um and at virtually the exact same time, Turning Point had this major donor.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-514"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5873",
+      "ref": "C-5873",
+      "label": "Thomas Patrick Emailed Host That Charlie Was Lying to Her About Money",
+      "claim": "The host says Thomas Patrick, a major Turning Point donor, personally informed her by email that Charlie Kirk was lying to her about money, and that Patrick is Danny Philip's grandfather.",
+      "anchored_artifacts": [
+        "A-2783.1"
+      ],
+      "related_nodes": [
+        "N-11058"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:19:38",
+      "investigative_direction": "The host's email from Patrick (headers, date, full text) and Patrick's relationship to Danny Philip.",
+      "transcript_snippet": "Thomas Patrick personally informed me via email that Charlie Kirk was lying to me about money. That is Danny Philip's granddaddy.",
+      "supports_claim_refs": [
+        "C-3021"
+      ],
+      "mentions_person_refs": [
+        "N-514",
+        "N-1",
+        "N-3",
+        "N-375"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5874",
+      "ref": "C-5874",
+      "label": "Host Kept Texts With Charlie About Patrick's Email",
+      "claim": "The host says she still has text messages between herself and Charlie Kirk about Thomas Patrick's email, in which she asked what was going on.",
+      "anchored_artifacts": [
+        "A-2783.2"
+      ],
+      "related_nodes": [
+        "N-11058"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:25",
+      "investigative_direction": "The text thread with timestamps and the Patrick email it refers to.",
+      "transcript_snippet": "I still have a text messages between me and Charlie regarding Thomas Patrick's email to me",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-514"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5875",
+      "ref": "C-5875",
+      "label": "Patrick Was Escorted Out of Merrill Lynch in 2003 Over an Alleged Spitzer Smear Campaign",
+      "claim": "The host says Thomas Patrick was unceremoniously escorted out of his Merrill Lynch office in 2003 for a scandal in which he was accused of orchestrating a political smear campaign against Eliot Spitzer.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:21:23",
+      "investigative_direction": "Contemporary 2003 press coverage of Patrick's exit from Merrill Lynch and the Spitzer allegations.",
+      "transcript_snippet": "he was unceremoniously escorted out of his office for a scandal in which he was accused of of all things orchestrating a political smear campaign against Eliot Spitzer, who he didn't like.",
+      "supports_claim_refs": [
+        "C-3021"
+      ],
+      "mentions_person_refs": [
+        "N-514",
+        "N-515"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5876",
+      "ref": "C-5876",
+      "label": "Host Says Patrick Played a Big Role in Convincing Her Charlie Was Moving Behind Her Back",
+      "claim": "The host says Thomas Patrick, a powerful Merrill Lynch executive, played a big role in convincing her that Charlie Kirk was moving behind her back.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11058"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:23",
+      "investigative_direction": "Patrick's communications with the host and with Kirk or Turning Point about the Perlmutter dispute.",
+      "transcript_snippet": "And he was so powerful at it's stunning for me to process that he played a big role in convincing me that Charlie was moving behind my back.",
+      "mentions_person_refs": [
+        "N-514",
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5877",
+      "ref": "C-5877",
+      "label": "Bank of America Acquired Merrill Lynch in 2008",
+      "claim": "The host says that in 2008, following the financial crisis, Merrill Lynch was acquired by Bank of America and became Bank of America Merrill Lynch.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10716"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:09",
+      "investigative_direction": "Public record: Bank of America's 2008-2009 acquisition of Merrill Lynch.",
+      "transcript_snippet": "in 2008 following the financial crisis, Merrill Lynch was acquired by Bank of America. So, it became Bank of America Merrill Lynch."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5878",
+      "ref": "C-5878",
+      "label": "Bowyer's Father Cleaned His LinkedIn and Graduated From Arizona State",
+      "claim": "The host says Tyler Bowyer's father, a major executive at Bank of America Merrill Lynch, has cleaned the internet of his LinkedIn and graduated from Arizona State University.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10716"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:09",
+      "investigative_direction": "Archived copies of the father's LinkedIn profile and Arizona State alumni or degree records.",
+      "transcript_snippet": "And he has cleaned the internet of his LinkedIn, graduated from Arizona State University.",
+      "supports_claim_refs": [
+        "C-3023"
+      ],
+      "mentions_person_refs": [
+        "N-11"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5879",
+      "ref": "C-5879",
+      "label": "Tyler Bowyer Speaks Russian and Majored in Russian Studies, as Did Philip's Father",
+      "claim": "The host says Tyler Bowyer speaks Russian and majored in Russian studies, and that the same is true of Danny Philip's father.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11059"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:09",
+      "investigative_direction": "Bowyer's educational record and public statements on Russian language ability; Stephen Phillip's degree.",
+      "transcript_snippet": "you know, Tyler speaks Russian, majored in Russian studies, same for Danny Phillip's dad.",
+      "supports_claim_refs": [
+        "C-3022"
+      ],
+      "mentions_person_refs": [
+        "N-11",
+        "N-375"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5880",
+      "ref": "C-5880",
+      "label": "Irina Mappin Told Host Everyone at the Memorial Event Was Speaking Russian",
+      "claim": "The host says Irina Mappin, married to John Mappin and fluent in Russian, told her in a private phone call that the odd thing about the memorial event was that everyone was speaking Russian, and that she was disturbed by how many Russian speakers were in the VIP area.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11059"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:00",
+      "investigative_direction": "Direct confirmation from Irina Mappin and a VIP guest list for the memorial event.",
+      "transcript_snippet": "she remarked to me in a private phone call that the thing that struck her as very odd about the memorial event was that everyone was speaking Russian.",
+      "mentions_person_refs": [
+        "N-158",
+        "N-157",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5881",
+      "ref": "C-5881",
+      "label": "Host Says Elizabeth McCoy Has a Ukrainian Family and Rob McCoy Adopted a Girl From Russia",
+      "claim": "The host says Elizabeth McCoy has an entire Ukrainian family and Rob McCoy adopted a girl from Russia, and lists them with Tyler Bowyer as Eastern European ties at Turning Point USA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11059",
+        "N-10528"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:00",
+      "investigative_direction": "Family statements, church or adoption announcements by the McCoys, and Elizabeth McCoy's family background.",
+      "transcript_snippet": "you've got Elizabeth McCoy and her entire Ukrainian family, you've got Rob McCoy who adopted a girl from Russia, remember?",
+      "mentions_person_refs": [
+        "N-221",
+        "N-17",
+        "N-11"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5882",
+      "ref": "C-5882",
+      "label": "Stephen Phillip Was a Vice President at Bank of America Merrill Lynch Chicago",
+      "claim": "Presenting her visual guide, the host says Danny Philip's father Stephen Phillip is a vice president in Chicago at Bank of America Merrill Lynch with a Russian studies background.",
+      "anchored_artifacts": [
+        "A-2134.1"
+      ],
+      "related_nodes": [
+        "N-10716"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:55",
+      "investigative_direction": "Bank of America Merrill Lynch directory or FINRA broker records for Stephen Phillip, and his stated job title.",
+      "transcript_snippet": "you've got Stephen Phillip, that's going to be Daniel Phillip's dad who is the vice president also in Chicago, Bank of America, Merrill Lynch, Russian studies.",
+      "supports_claim_refs": [
+        "C-3022"
+      ],
+      "mentions_person_refs": [
+        "N-749",
+        "N-375"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5883",
+      "ref": "C-5883",
+      "label": "Erika's Cousin Dennis Frantzve Showed Her Around Romania With the Black Sea Rotational Force",
+      "claim": "The host says Erika Kirk's cousin Dennis Frantzve, after leaving the military, worked at Bank of America Merrill Lynch in Chicago and then stopped to show Erika around Romania and the Black Sea Rotational Force.",
+      "anchored_artifacts": [
+        "A-2134.1"
+      ],
+      "related_nodes": [
+        "N-10990",
+        "N-10716"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:24:41",
+      "investigative_direction": "Romania trip records, Erika Kirk's own accounts of the visit, and Dennis Frantzve's military and employment history.",
+      "transcript_snippet": "Erika's cousin who showed her around Romania, the Black Sea Rotational Force.",
+      "supports_claim_refs": [
+        "C-3024"
+      ],
+      "mentions_person_refs": [
+        "N-750",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5884",
+      "ref": "C-5884",
+      "label": "Bank of America Was Sued Over Managing Leon Black's Wealth in the Epstein Case",
+      "claim": "The host says Bank of America, which she says settled with Epstein victims in March, was sued because Bank of America Merrill Lynch was managing the wealth of Epstein associate Leon Black.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11060"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:34",
+      "investigative_direction": "Court filings in the Epstein victims' suit against Bank of America and the settlement announcement.",
+      "transcript_snippet": "they were sued because they were managing wealth, Bank of America Merrill Lynch, of the major Epstein associate Leon Black.",
+      "mentions_person_refs": [
+        "N-751",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5885",
+      "ref": "C-5885",
+      "label": "Bank of America Moved $170 Million to Epstein and Was Sued for Not Flagging It",
+      "claim": "The host says Bank of America moved $170 million to Jeffrey Epstein and that victims sued the bank for not following its own protocols and flagging suspicious financial activity that would have revealed a trafficking ring.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11060"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:18",
+      "investigative_direction": "The complaint and docket in the Epstein victims' case against Bank of America for the $170 million figure.",
+      "transcript_snippet": "Bank of America moved $170 million to Epstein. The victims sued Bank of America for not following their own protocols and flagging the suspicious financial activities",
+      "mentions_person_refs": [
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5886",
+      "ref": "C-5886",
+      "label": "Host Says Bank of America Settled for About $79 Million",
+      "claim": "The host says, with hedging, that Bank of America settled the Epstein victims' suit for about $79 million.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11060"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:18",
+      "investigative_direction": "Settlement amount and date in court filings or press reports.",
+      "transcript_snippet": "Anyway, they settled for I think like $79 million.",
+      "mentions_person_refs": [
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5887",
+      "ref": "C-5887",
+      "label": "Host Asks for Tips on Rented Dodge Challengers Around Salt Lake City, Provo and Las Vegas",
+      "claim": "The host says she suspects a decoy vehicle was rented and asks people who work at rental places to check for Dodge Challengers rented in the Salt Lake City, Provo or Las Vegas area, directing tips to the tip line.",
+      "anchored_artifacts": [
+        "A-2784.1"
+      ],
+      "related_nodes": [
+        "N-10850",
+        "N-10074"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:07",
+      "investigative_direction": "Rental company records for Dodge Challengers checked out in Utah and Nevada around September 8-10, 2025, reached through tipsters or subpoena.",
+      "transcript_snippet": "maybe see if there were any cars checked out uh Dodge Challengers that may have been rented.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5888",
+      "ref": "C-5888",
+      "label": "Host Asks Public for Sightings of a Confused Bald Man on September 10",
+      "claim": "The host asks viewers who saw a bald man on September 10 who seemed to have amnesia and said he was marking time to send tips, tying the request to Blake Neff's lapse in memory.",
+      "anchored_artifacts": [
+        "A-2784.2"
+      ],
+      "related_nodes": [
+        "N-10715"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:53",
+      "investigative_direction": "Witness sightings and dashcam or roadside video from Orem, Provo and Salt Lake City on the morning of September 10.",
+      "transcript_snippet": "More tips at CandaceOwens. com cuz we've got a confused bald man who doesn't remember what he was doing on a very a day",
+      "mentions_person_refs": [
+        "N-3",
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5889",
+      "ref": "C-5889",
+      "label": "Host Says Green Room Had Charlie, McGovern, McCoy and a Cousin; Unclear if Turek Was There",
+      "claim": "The host says it was confirmed Charlie Kirk was in the restaurantology event green room with three people, including Johnny McGovern, Mikey McCoy and his cousin, and she is trying to work out whether Frank Turek went to the green room.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11061"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:30:53",
+      "investigative_direction": "Event staff, photos or video from the restaurantology event green room and statements by Turek, McGovern and McCoy.",
+      "transcript_snippet": "it was confirmed that Charlie was in the green room and he had three people with him. We know for a fact Johnny McGovern was with him. We know Mikey McCoy was with him",
+      "mentions_person_refs": [
+        "N-1",
+        "N-747",
+        "N-194",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5890",
+      "ref": "C-5890",
+      "label": "Host Says Turek Admits Leaving the Event Early and Keeps Changing His Story",
+      "claim": "The host says Frank Turek admits he left and went outside or left a little early, and that he keeps tripping over his stories.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11061",
+        "N-10730"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:43",
+      "investigative_direction": "Turek's dated interviews and posts about the restaurantology event compared side by side.",
+      "transcript_snippet": "He admits that he left and went outside or left a little early. And Frank Turek keeps tripping over his stories like quite a bit.",
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5891",
+      "ref": "C-5891",
+      "label": "Host Asks Whether Anyone Saw Turek at the Event or in the Car With Neff",
+      "claim": "The host asks whether anybody saw Frank Turek at the restaurantology event or whether he was in the car with Blake Neff, and asks for tips.",
+      "anchored_artifacts": [
+        "A-2784.3"
+      ],
+      "related_nodes": [
+        "N-11061"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:43",
+      "investigative_direction": "Attendee accounts and photos placing Turek at the event, and rider accounts for the second SUV.",
+      "transcript_snippet": "Was he in the car with Blake and Neff? Like I said, everybody's memory is hazy. We're here to help. More tips at CandaceOwens. com.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-162",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5892",
+      "ref": "C-5892",
+      "label": "Host Says She Has a Huge Lead on Who Ben Shapiro Lunched With in LA on September 10",
+      "claim": "The host says she has a huge lead on who Ben Shapiro was at lunch with in Los Angeles on the morning of September 10, is vetting it, and will deliver it the next day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10748",
+        "N-10712"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:43",
+      "investigative_direction": "Restaurant reservation, receipt or witness records for Shapiro's lunch that day; the follow-up episode.",
+      "transcript_snippet": "We got a huge lead on who Ben Shapiro was at lunch with um on the 10th the morning of the 10th in LA.",
+      "mentions_person_refs": [
+        "N-97",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5893",
+      "ref": "C-5893",
+      "label": "NCRI Released a Christ-Is-King Report During Lent That Charlie Kirk Criticized",
+      "claim": "The host says NCRI previously released a report calling Christ is King anti-Semitic during Lent, that it backfired, and that Charlie Kirk himself was among those most critical of it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10815"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:32",
+      "investigative_direction": "The original NCRI report with its date, and any Kirk public statement criticizing it.",
+      "transcript_snippet": "They released this port report during Lent. It backfired, obviously. Chief among people who were very critical of this report was Charlie Kirk himself.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5894",
+      "ref": "C-5894",
+      "label": "Johnny Moore, Kolvet's Old Partner, Sat on NCRI's Board",
+      "claim": "The host says Johnny Moore, Andrew Kolvet's old partner, was on NCRI's board when the Christ is King report was published and Charlie Kirk did not care.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10815"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:32",
+      "investigative_direction": "NCRI board listings from the report date and Moore's business history with Kolvet (the Kairos Company).",
+      "transcript_snippet": "Charlie didn't care that the NCRI had Johnny Moore on their board, Andrew Kolb's old partner Johnny Moore on the board of NCRI when the Crisis King report was published.",
+      "mentions_person_refs": [
+        "N-447",
+        "N-14",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5895",
+      "ref": "C-5895",
+      "label": "Host Says Permission to Kill Was Published on the First Day of the Robinson Trial",
+      "claim": "The host says the NCRI report accusing her of being a digital assassin was published on the first day of the Tyler Robinson trial.",
+      "anchored_artifacts": [
+        "A-2136.1"
+      ],
+      "related_nodes": [
+        "N-10815"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:32",
+      "investigative_direction": "Publication date of the NCRI report against the trial calendar.",
+      "transcript_snippet": "this report that was published about me accusing me on the day, the first day of a Taylor Robinson trial of being a digital assassin.",
+      "supports_claim_refs": [
+        "C-3026"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5896",
+      "ref": "C-5896",
+      "label": "Host Says Kolvet Was Pushing the NCRI Report",
+      "claim": "The host says Andrew Kolvet was pushing the NCRI Permission to Kill report.",
+      "anchored_artifacts": [
+        "A-2136.1"
+      ],
+      "related_nodes": [
+        "N-10815"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:32:32",
+      "investigative_direction": "Kolvet's posts and broadcasts sharing the NCRI report, with timestamps.",
+      "transcript_snippet": "I'm sure, even though Andrew Kolb was pushing this report, that he had no idea it was coming up.",
+      "supports_claim_refs": [
+        "C-3026"
+      ],
+      "mentions_person_refs": [
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5897",
+      "ref": "C-5897",
+      "label": "Host Says Many Media Groups, Including Politico, Asked Her to Comment on the NCRI Report",
+      "claim": "The host says many media groups reached out for comment on the NCRI report while she was away, including Politico, which asked about the report's point that her calling Erika Kirk a psychopath on the Sean Ryan show leads people to want to kill Erika.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10815",
+        "N-10681"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:25",
+      "investigative_direction": "The press inquiries received by the host's team and the NCRI report passage on the Sean Ryan interview.",
+      "transcript_snippet": "I got all of these emails, it wasn't just them, but tons of organizations while I was on I mean tons of media groups were reaching out asking me to comment on this.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5898",
+      "ref": "C-5898",
+      "label": "Host Says Neff Called Her a Knife-Wielding Psychopath on the Subway",
+      "claim": "The host says Blake Neff referred to her as a knife-wielding psychopath on the subway.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:34:32",
+      "investigative_direction": "Neff's original post or broadcast containing the phrase.",
+      "transcript_snippet": "I mean, Blake Nath referred to me as a knife-wielding psychopath on the subway.",
+      "mentions_person_refs": [
+        "N-162",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5899",
+      "ref": "C-5899",
+      "label": "Host Says Erika Phoned Priests to Tell Them Not to Attend an Event She Was At",
+      "claim": "The host says Erika Kirk made personal phone calls to priests telling them not to attend an event the host was at.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:35:20",
+      "investigative_direction": "Statements from the priests or event organizers who received the calls, and the event involved.",
+      "transcript_snippet": "Erika made personal phone calls to priests telling them not to attend an event that I was at cuz that's how she behaves behind the scenes",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5900",
+      "ref": "C-5900",
+      "label": "Host Says She and Tucker Carlson Are Named in a Document About Taking Them Down With Tens of Millions",
+      "claim": "The host says tens of millions of dollars are being spent against her, and that she and Tucker Carlson are listed in what the transcript renders as the Faradox, which she says admits they have to take them down.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:37:48",
+      "investigative_direction": "Identify the document the host means (transcript spelling unclear, possibly FARA-related) and the spending figure.",
+      "transcript_snippet": "Tens of millions of dollars is being spent. I am listed, me and Tucker Carlson, in the Faradox.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5901",
+      "ref": "C-5901",
+      "label": "Host Says Charlie Opposed the Idea That Speech Equals Violence",
+      "claim": "The host says Charlie Kirk was strongly opposed to the idea that speech equates to violence when one is not calling for violence but investigating real violence.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:38:34",
+      "investigative_direction": "Kirk's public statements on speech and violence.",
+      "transcript_snippet": "Charlie Kirk was so opposed to this this idea that speech equates to violence when you're not calling for violence",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5902",
+      "ref": "C-5902",
+      "label": "Host Says Her Source Was Kolvet and She Has Not Changed Her Story",
+      "claim": "The host says she has maintained since September or October that Andrew Kolvet called her and told her about the Netanyahu happenings, that Kolvet was her source, and that she has not changed her story.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10018"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:37",
+      "investigative_direction": "The host's earlier on-air statements naming Kolvet as source, compared with this account.",
+      "transcript_snippet": "I have maintained, I think since September, it might be October. I haven't changed my story once. That Andrew Kolb called me and he told me about the happenings.",
+      "supports_claim_refs": [
+        "C-1562"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5903",
+      "ref": "C-5903",
+      "label": "Host Says Erika Conceded Netanyahu Called at Ackman's House",
+      "claim": "The host says that when she met Erika Kirk face to face, Erika conceded that Benjamin Netanyahu did call at Bill Ackman's house, giving as the reason that Ackman was following up on Charlie's May letter.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10446",
+        "N-10027"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:37",
+      "investigative_direction": "Erika Kirk's account of the meeting, Bill Ackman's statements, and Kirk's May letter to Netanyahu.",
+      "transcript_snippet": "she conceded that yes, BB Netanyahu did call at Bill Ackman's house.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-36",
+        "N-37",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5904",
+      "ref": "C-5904",
+      "label": "Host Says Kolvet Told Her Netanyahu Offered to Take Turning Point to the Next Level",
+      "claim": "The host says Andrew Kolvet told her that Benjamin Netanyahu offered to take Turning Point to the next level, which is different from Erika's explanation.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10342"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:37",
+      "investigative_direction": "Direct confirmation or denial from Kolvet, Erika Kirk and others present at the Hamptons gathering.",
+      "transcript_snippet": "that's not what Andrew Kolb told me. He He me that BB offered to take Turning Point to the next level.",
+      "supports_claim_refs": [
+        "C-1562",
+        "C-1819",
+        "C-1937"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-36",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5905",
+      "ref": "C-5905",
+      "label": "Host Says Kolvet Called the Hampton Summit an Intervention",
+      "claim": "The host says Kolvet described the Hampton Summit as being like an intervention, and that she was not at the Hampton Summit herself.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10446",
+        "N-10027"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:20",
+      "investigative_direction": "Attendee accounts of the Hamptons summit and Kolvet's own description of it.",
+      "transcript_snippet": "And Charlie said no. That's all he said. And Charlie said no. He also described how he the Hampton Summit was like an intervention.",
+      "supports_claim_refs": [
+        "C-1128"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5906",
+      "ref": "C-5906",
+      "label": "Host Says Kolvet Told Her Charlie Declined to Have Netanyahu on His Show",
+      "claim": "The host says Kolvet communicated to her that Charlie Kirk had declined to have Netanyahu on his show, something she says only Kolvet could have known and that shows Kirk's state of mind toward Netanyahu.",
+      "anchored_artifacts": [
+        "A-2135.1"
+      ],
+      "related_nodes": [
+        "N-10456"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:20",
+      "investigative_direction": "Kirk Show booking records and Kolvet's tweet conceding the decline.",
+      "transcript_snippet": "But he also communicated communicated to me that Charlie had declined to have BB on his show.",
+      "supports_claim_refs": [
+        "C-3025",
+        "C-2235"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-1",
+        "N-36",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5907",
+      "ref": "C-5907",
+      "label": "Host Says Netanyahu Was Relegated to Smaller Influencers Because Charlie Would Not Have Him On",
+      "claim": "The host says Netanyahu was relegated to smaller influencers because Charlie Kirk did not want to have him on and was turning against Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10456"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:07",
+      "investigative_direction": "Netanyahu's media appearances in summer 2025 and any Kirk Show invitations declined.",
+      "transcript_snippet": "But instead, he was relegated to smaller influencers because Charlie didn't want to have him on.",
+      "supports_claim_refs": [
+        "C-3722"
+      ],
+      "mentions_person_refs": [
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5908",
+      "ref": "C-5908",
+      "label": "Host Says Charlie Texted the Night Before That He Was Done With Israel",
+      "claim": "The host says Charlie Kirk texted the night before his death that he was done with Israel, and that it was not a joke.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10340"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:07",
+      "investigative_direction": "The text thread in question, with sender, recipients and timestamp.",
+      "transcript_snippet": "It was not a joke when he texted the night before that he was done with Israel.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5909",
+      "ref": "C-5909",
+      "label": "Kolvet's Tweet: Netanyahu Was Politely Declined on the Show and Kirk Took His Call After a Letter",
+      "claim": "Reading Andrew Kolvet's tweet aloud, the host reports that Kolvet writes the team politely declined having Netanyahu on the show and that months later Charlie Kirk took a call from him after he wrote Kirk a letter, while calling the Netanyahu funding offer a lie.",
+      "anchored_artifacts": [
+        "A-2135.1"
+      ],
+      "related_nodes": [
+        "N-10456",
+        "N-10018"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:41:46",
+      "investigative_direction": "The original Kolvet tweet thread with timestamp, compared with the text read on air.",
+      "transcript_snippet": "Yes, we politely declined having Netanyahu on the show. So what? And yes, months later CK took a call from him after he wrote him a letter.",
+      "supports_claim_refs": [
+        "C-3025"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5910",
+      "ref": "C-5910",
+      "label": "Host Says a Kolvet Family Friend Wrote That He Lost Out on Millions When Charlie Said No",
+      "claim": "The host says her confirmation of the lost-income detail came from a family friend of Kolvet who wrote to say Kolvet said he lost out on millions when Charlie said no.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10342"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:32",
+      "investigative_direction": "The friend's email to the host, with identity verification, and Kolvet's response.",
+      "transcript_snippet": "it was confirmed from a family friend of Andrew Klavan who wrote me and said that Andrew said that he lost out on millions when Charlie said no.",
+      "supports_claim_refs": [
+        "C-1819"
+      ],
+      "mentions_person_refs": [
+        "N-14",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5911",
+      "ref": "C-5911",
+      "label": "Host Says Kolvet Vented About the Lost Income After Returning to California",
+      "claim": "The host says the friend confirmed that Kolvet lost out on residual income because he was venting about it when he came back to California.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10342"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:32",
+      "investigative_direction": "Travel records and witnesses for Kolvet's return to California, and the friend's account.",
+      "transcript_snippet": "And the fact that he lost out on some residual income came from somebody who confirmed that that yes, that did actually happen uh because he was venting about that when he came back to California.",
+      "supports_claim_refs": [
+        "C-1819"
+      ],
+      "mentions_person_refs": [
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5912",
+      "ref": "C-5912",
+      "label": "Host Says Kolvet Knew the Night Before That Charlie Feared Being Killed and Was Abandoning the Pro-Israel Cause",
+      "claim": "The host says Kolvet knew the night before that Charlie Kirk feared he would be killed and that Kirk was on a text thread saying he had no choice but to abandon the pro-Israel cause, and never told the public.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10340"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:43:28",
+      "investigative_direction": "The night-before text thread and its recipients.",
+      "transcript_snippet": "when you knew uh the night before that Charlie was a fearful that he was going to be killed, when you knew the night before that he was on uh a text thread saying that he had no choice but to abandon the pro-Israel call uh cause",
+      "mentions_person_refs": [
+        "N-14",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5913",
+      "ref": "C-5913",
+      "label": "Host Says Turek Claims He Was FaceTiming Grown Sons at 12:23",
+      "claim": "The host says Frank Turek's story is that he was FaceTiming his roughly 35-year-old sons in the middle of the day at 12:23 so they could hear Charlie Kirk, and she calls the story implausible.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10730"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:47:07",
+      "investigative_direction": "Turek's own interviews on the FaceTime call, phone records for the call and the recipients.",
+      "transcript_snippet": "that he was FaceTiming his like grown 35-year-old sons in the middle of the day at 12:23 because they just love Charlie Kirk so much.",
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5914",
+      "ref": "C-5914",
+      "label": "Host Says Turek Changed His Account of Being on the FaceTime Call",
+      "claim": "The host says Frank Turek said he was on the FaceTime call forever and now says he was not, and that he keeps getting caught changing his account.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10730"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:48:27",
+      "investigative_direction": "Turek's earlier and later statements about the FaceTime call, side by side.",
+      "transcript_snippet": "I said I was the on the FaceTime call forever and now I say I'm not. It's me versus me.",
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5915",
+      "ref": "C-5915",
+      "label": "Host Says Erika Also Had Amnesia About How She Knew Tyler Bowyer",
+      "claim": "The host says Erika Kirk also suffered from amnesia when it came to remembering how she knew Tyler Bowyer.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:49:10",
+      "investigative_direction": "Erika Kirk's statements on when and how she met Bowyer, compared with other records.",
+      "transcript_snippet": "Erika also suffered from amnesia when it came to remembering how she knew Tyler Bowyer.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-11"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5916",
+      "ref": "C-5916",
+      "label": "Host Says Erika Was Hanging Out at the Modeling Firm Founded by Jean-Luc Brunel",
+      "claim": "The host says she had begun pulling threads of Erika Kirk hanging out at a modeling firm where Epstein was hanging out, founded by Jean-Luc Brunel, and wondered about Erika's potential connections to Epstein's world.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10532"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:57",
+      "investigative_direction": "Erika Kirk's modeling-agency history and the agency's Brunel and Epstein ties.",
+      "transcript_snippet": "I had already began pulling up the threads of Erika hanging out at this modeling firm where Epstein was hanging out. Jean-Luc Brunel was the founder of it",
+      "mentions_person_refs": [
+        "N-2",
+        "N-9",
+        "N-541"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5917",
+      "ref": "C-5917",
+      "label": "Host Says Charlie Hired Her Organically and Handlers Appeared After the Kanye Moment",
+      "claim": "The host says she was the only person Charlie Kirk hired organically without Tyler Bowyer being present, and that she feels there were handlers around Kirk after the Kanye moment.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10403"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:46",
+      "investigative_direction": "Hiring history of Kirk's staff and who joined his circle after the Kanye episode.",
+      "transcript_snippet": "I was the only person that Charlie hired organically with Tyler not being present on the spot. And then I feel there were handlers after the Kanye moment",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-11",
+        "N-27"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5918",
+      "ref": "C-5918",
+      "label": "Host Says She Has Proof Erika Claimed to Have People Inside the Kanye Situation",
+      "claim": "The host says she has proof of Erika Kirk saying she had people inside the Kanye situation while Charlie and the host did not know, from the start of Erika and Charlie's relationship before they were officially dating, and she is trying to get the source to let her release it.",
+      "anchored_artifacts": [
+        "A-2785.1"
+      ],
+      "related_nodes": [
+        "N-10403"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:50:46",
+      "investigative_direction": "The proof itself (message or recording), its date and provenance, and the source's consent to release.",
+      "transcript_snippet": "it is literally Erika um saying that she's got people inside the Kanye thing and Charlie and I had no idea.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-27",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-5919",
+      "ref": "C-5919",
+      "label": "Commenter Says Trump's Address to the Nation Is Thursday at 9 p.m.",
+      "claim": "A viewer comment read by the host says Trump's address to the nation is at 9:00 p.m. on Thursday, and the host says she will have her producers watch it.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:53:10",
+      "investigative_direction": "White House schedule for the address.",
+      "transcript_snippet": "we can ask you to broadcast at 9:00 p. m. on Thursday. That is the time slot for Trump's address to the nation.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 125,
+          "video_timestamp": "00:30:07",
+          "speaker_node_ref": "N-3",
+          "quote": "If you know anything more tips at CandaceOwens. com.",
+          "context": "Host asks for rental-car tips on Dodge Challengers around Salt Lake City, Provo and Las Vegas.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia",
+            "rental cars"
+          ]
+        },
+        {
+          "episode": 125,
+          "video_timestamp": "00:30:53",
+          "speaker_node_ref": "N-3",
+          "quote": "More tips at CandaceOwens. com cuz we've got a confused bald man who doesn't remember what he was doing",
+          "context": "Host asks viewers for sightings of a bald man on September 10.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia",
+            "bald man"
+          ]
+        },
+        {
+          "episode": 125,
+          "video_timestamp": "00:31:43",
+          "speaker_node_ref": "N-3",
+          "quote": "We're here to help. More tips at CandaceOwens. com.",
+          "context": "Host asks whether anyone saw Frank Turek at the restaurantology event or in Neff's car.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia",
+            "Turek"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-146",
+      "ref": "M-146",
+      "canonical_term": "Marking Time",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 125,
+          "video_timestamp": "00:15:25",
+          "speaker_node_ref": "N-3",
+          "quote": "they drove off and they went somewhere unknown to, and I quote, \"Mark time.\"",
+          "context": "Host mocks Neff's phrase that his SUV just marked time before the UVU event.",
+          "confidence": "high",
+          "tags": [
+            "neff",
+            "mark time"
+          ]
+        },
+        {
+          "episode": 125,
+          "video_timestamp": "00:30:53",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm marking time. I'm marking time.",
+          "context": "Host imagines the confused bald man on the roadside repeating Neff's phrase.",
+          "confidence": "high",
+          "tags": [
+            "neff",
+            "mark time",
+            "bit"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-147",
+      "ref": "M-147",
+      "canonical_term": "Crash Out",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 125,
+          "video_timestamp": "00:00:56",
+          "speaker_node_ref": "N-3",
+          "quote": "there seems to be sort of a corporate-wide crash out that's happening right now.",
+          "context": "Host frames Turning Point and allied influencers as having a collective meltdown.",
+          "confidence": "high",
+          "tags": [
+            "crash out",
+            "turning point"
+          ]
+        },
+        {
+          "episode": 125,
+          "video_timestamp": "00:39:37",
+          "speaker_node_ref": "N-3",
+          "quote": "Andrew Kolb during his crash out",
+          "context": "Host says Kolvet's tweet during his crash out conceded the Netanyahu call.",
+          "confidence": "high",
+          "tags": [
+            "crash out",
+            "Kolvet"
+          ]
+        }
+      ]
+    }
+  ]
 }

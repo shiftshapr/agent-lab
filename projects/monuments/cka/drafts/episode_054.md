@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: a688ac8130f98ab72ed00abef6c15223a147808ac45c1eeb54514a119ae0d0de
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-408, N-409, N-410, N-411, N-412, N-413, N-414, N-415, N-416, N-417, N-445, N-446, N-10392, N-10393, N-10394, N-10395, N-10396, N-10397, N-10398, N-10399, N-10400, N-10401
-  - Reused Nodes Appearing: 
+  - New Nodes Introduced: N-408, N-409, N-410, N-411, N-412, N-413, N-414, N-415, N-416, N-417, N-445, N-446, N-10392, N-10394, N-10395, N-10396, N-10397, N-10398, N-10399, N-10400, N-10401
+  - Reused Nodes Appearing: N-10393
   - (see registers), N-11
 
 # Meta-Data

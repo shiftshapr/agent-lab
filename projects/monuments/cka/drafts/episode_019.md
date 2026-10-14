@@ -12,8 +12,8 @@
 - **Transcript SHA-256**: 8e12049f89e89a3afb605eb38161af512cd6a84eb73ff7723fadfa63f47de64d
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-183, N-184, N-185, N-186, N-187, N-188, N-189, N-190, N-191, N-192, N-10191, N-10192, N-10193, N-10194, N-10195
-  - Reused Nodes Appearing: 
+  - New Nodes Introduced: N-183, N-185, N-186, N-187, N-188, N-189, N-190, N-191, N-192, N-10191, N-10192, N-10193, N-10194, N-10195
+  - Reused Nodes Appearing: N-184
 - **Monument Episode:** 19, N-11
 - **Batch:** 9
 - **Channel / creator:** Candace Owens (@RealCandaceO)

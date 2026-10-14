@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 95f8b851983eeb6236c86655647510896988e621e75778a3c5ea5286c4493c32
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-548, N-549, N-550, N-551, N-552, N-553, N-554, N-555, N-556, N-10477, N-10478, N-10479, N-10480, N-10481, N-10482, N-10483, N-10484
-  - Reused Nodes Appearing: 
+  - New Nodes Introduced: N-548, N-549, N-550, N-551, N-552, N-553, N-554, N-555, N-556, N-10477, N-10478, N-10479, N-10480, N-10481, N-10483, N-10484
+  - Reused Nodes Appearing: N-10482
   - (see registers)
 
 # Episode 68 Analysis – Bride of Charlie

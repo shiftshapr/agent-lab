@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: d1ee383a35dcc78f44448bfd05192752c07b8dad1bd660ea78d735058d0f0c43
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-10547, N-10548, N-10549, N-10550, N-10551, N-10552
-  - Reused Nodes Appearing: 
+  - New Nodes Introduced: N-10547, N-10550, N-10551, N-10552
+  - Reused Nodes Appearing: N-10548, N-10549
   - (see registers)
 
 # Episode 81 Analysis

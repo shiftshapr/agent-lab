@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: e732d4846e15cd04e8fa5fe0225ed37b1a98e48a46de9708a0a96dd02665e880
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced:  N-333, N-334, N-10334, N-10335, N-10336
-  - Reused Nodes Appearing: N-3, N-267, N-1, N-272
+  - New Nodes Introduced: N-333, N-334, N-10334, N-10335
+  - Reused Nodes Appearing: N-3, N-267, N-1, N-272, N-10336
   N-40, N-14
 
 # Episode Analysis: Monument 46

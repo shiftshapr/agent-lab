@@ -29,8 +29,8 @@
 
 - Artifact Families Introduced: A-1895, A-1896, A-1897, A-1898, A-1899, A-1900, A-1901, A-1902
 - Claim Range: C-2560–C-2580
-  - New Nodes Introduced: N-10560, N-10561, N-10562, N-10563, N-10564, N-10565
-  - Reused Nodes Appearing: N-11
+  - New Nodes Introduced: N-10561, N-10562, N-10563, N-10564, N-10565
+  - Reused Nodes Appearing: N-11, N-10560
 - Existing Nodes Reused: N-1 Charlie Kirk; N-2 Erica Kirk; N-3 Candace Owens; Andrew Kolvet; Frank Turek; Frank (TPUSA counsel); Nick Searcy; Stacey Sheridan; Joe Rogan; Alexis Wilkins; Kash Patel; Joe Kent; General Michael Flynn; Tucker Carlson; Allie Stuckey; Yair Netanyahu; Tim Dillon; Tyler Bowyer; Pam Bondi; Thomas Massie; Vladimir Putin; Alexander Dugin; Bibi Netanyahu; Turning Point USA (institution)
 
 ## 6. Meme Register

@@ -237,6 +237,181 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2809",
+      "family_ref": "A-2809",
+      "bundle_name": "Host Verbal Tip and Source References Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2809.1",
+          "ref": "A-2809.1",
+          "description": "Host verbal reference to the unnamed person who fielded TPUSA's PR requests and wrote the death statement, whom the host says she fact-checked against Doug DeGroot's account (not shown)",
+          "related_claims": [
+            "C-6354",
+            "C-6353"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:02:39",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2809.2",
+          "ref": "A-2809.2",
+          "description": "Host verbal reference to an early-investigation tip from someone inside Turning Point USA saying the fall tour came together unusually and that Charlie agreed to the stops under financial pressure (not shown)",
+          "related_claims": [
+            "C-6360",
+            "C-6362",
+            "C-6366",
+            "C-6365"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:06:30",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2809.3",
+          "ref": "A-2809.3",
+          "description": "Host verbal reference to a viewer email reminding her that Erika Kirk attended daycare in the Scripps building in Cincinnati (not shown)",
+          "related_claims": [
+            "C-6442"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:53:52",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2809.4",
+          "ref": "A-2809.4",
+          "description": "Host verbal reference to TPUSA employees (past and present) who describe Why Refi as shady, say it rarely pays, and describe Dylan Erickson's dual role (not shown)",
+          "related_claims": [
+            "C-6368",
+            "C-6370"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:10:21",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2809.5",
+          "ref": "A-2809.5",
+          "description": "Host verbal reference to the government response to her FOIA request about Kash Patel's Omaha trip (neither confirm nor deny) (not shown)",
+          "related_claims": [
+            "C-6427"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:35:55",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2810",
+      "family_ref": "A-2810",
+      "bundle_name": "Daily Mail Why Refi Article Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2810.1",
+          "ref": "A-2810.1",
+          "description": "On-screen Daily Mail headline and article text read aloud on Why Refi paying Turning Point USA for speaking slots, its $750,000 state sanctions and Massachusetts regulatory issues",
+          "related_claims": [
+            "C-6372",
+            "C-6373",
+            "C-6374"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:11:10",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2811",
+      "family_ref": "A-2811",
+      "bundle_name": "Scripps News Segment Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2811.1",
+          "ref": "A-2811.1",
+          "description": "Scripps News segment with Lori Jane Gliha on 2024 Virginia crash bodycam of Brian J. Cole Jr., played on air",
+          "related_claims": [
+            "C-6440"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:51:47",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-2811.2",
+          "ref": "A-2811.2",
+          "description": "Scripps News segment with Lori Jane Gliha on 2022 accident bodycam of Tyler Robinson, played on air",
+          "related_claims": [
+            "C-6441"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:53:52",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-2812",
+      "family_ref": "A-2812",
+      "bundle_name": "Erika Daycare Photo Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-2812.1",
+          "ref": "A-2812.1",
+          "description": "On-screen photo of Erika Kirk as a child at daycare dressed as a bumblebee, shown by the host",
+          "related_claims": [
+            "C-6442",
+            "C-6443"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:55:31",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -1143,7 +1318,10 @@
       "type": "person",
       "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3615",
+        "C-3616"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -1158,7 +1336,10 @@
       "type": "person",
       "description": "Why Refi CEO. Host says he spoke briefly at the UVU pre-show and co-founded the sponsoring company.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3609",
+        "C-3610"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -1173,7 +1354,9 @@
       "type": "person",
       "description": "TPUSA sponsorship lead, described by the host as a former TPUSA employee with conflicts around the Why Refi deal.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3609"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -1188,7 +1371,9 @@
       "type": "person",
       "description": "Co-founder of Why Refi with Laine Schoneberger, as read from coverage of the sponsorship company (2017).",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3609"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -1203,7 +1388,9 @@
       "type": "person",
       "description": "Founder of Student Loan Justice. Host quotes him criticizing TPUSA's Why Refi sponsorship.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3609"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -1218,7 +1405,9 @@
       "type": "person",
       "description": "Athlete named as a Why Refi contracted appearance in the February 2025 TPUSA sponsorship agreement.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3609"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -1233,7 +1422,10 @@
       "type": "person",
       "description": "Man federal authorities present as the January 6 pipe-bomb suspect. Host argues the confession was coerced.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3613",
+        "C-3614"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -1247,8 +1439,12 @@
       "name": "Lori Jane Gliha",
       "type": "person",
       "description": "Scripps investigative correspondent who aired prior bodycam of Brian Cole Jr. and, the host says, of Tyler Robinson.",
-      "related_artifacts": [],
-      "related_claims": [],
+      "related_artifacts": [
+        "A-2472.1"
+      ],
+      "related_claims": [
+        "C-3614"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -1263,7 +1459,9 @@
       "type": "person",
       "description": "New York Times reporter. Host cites the Haberman and Swan book on Epstein-file meetings inside the White House.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3612"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -1278,7 +1476,9 @@
       "type": "person",
       "description": "New York Times reporter. Co-author, with Maggie Haberman, of the book the host cites on Epstein situation-room meetings.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3612"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -1293,7 +1493,9 @@
       "type": "person",
       "description": "White House chief of staff. Host questions her Kirk eulogy and names her in Epstein-file situation-room meetings.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3612"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -1308,7 +1510,9 @@
       "type": "person",
       "description": "Trump-world communications figure. Host cites his posts and names him among Epstein situation-room attendees.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3612"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -1323,7 +1527,9 @@
       "type": "person",
       "description": "Trump-world lawyer named by the host among Epstein-file situation-room attendees (and as absent from one later list).",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3612"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -1338,7 +1544,9 @@
       "type": "person",
       "description": "Trump-world aide named by the host among Epstein-file situation-room attendees.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3612"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -1353,7 +1561,9 @@
       "type": "person",
       "description": "Trump-world lawyer. Host's attendee read (ASR Woodwick) places him with Susie Wiles, Taylor Budowich, David Warrington, and James Blair.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3612"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -1368,7 +1578,9 @@
       "type": "person",
       "description": "White House communications aide. Named on the WHMO email CC list and in the Epstein situation-room attendee read (ASR Chung/Chong).",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3612"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -1383,7 +1595,9 @@
       "type": "person",
       "description": "Person Mitt Romney (N-28).",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-3611"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -1425,6 +1639,949 @@
       "related_nodes": [
         "N-82"
       ]
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11092",
+      "ref": "N-11092",
+      "name": "Erika CEO Appointment Timing Explanation (DeGroot versus TPUSA PR Source)",
+      "type": "topic",
+      "description": "Conflict between board member Doug DeGroot's account that journalist pressure forced a rapid CEO naming and the host's TPUSA PR source who told her otherwise.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6353",
+        "C-6354"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11093",
+      "ref": "N-11093",
+      "name": "Utah Back-to-Back Tour Stops Anomaly",
+      "type": "topic",
+      "description": "The host's observation that two UVU-area Utah stops were scheduled about 10 days apart against TPUSA's usual corridor routing, and the tip tying the routing to financial pressure.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6361",
+        "C-6362"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11094",
+      "ref": "N-11094",
+      "name": "Kash Patel August 17 Omaha Trip FOIA Response",
+      "type": "topic",
+      "description": "The host's FOIA request about Kash Patel's August 17, 2025 trip to Omaha while Egyptian planes were in Lincoln and Omaha, answered with neither confirm nor deny.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6427"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11076",
+      "ref": "N-11076",
+      "name": "Lake Forest Group",
+      "type": "organization",
+      "description": "Firm the host thanks alongside the UVU independent review; its exact role is not described on air.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6447"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11095",
+      "ref": "N-11095",
+      "name": "Host Epstein Episodes versus Situation-Room Meetings Pattern",
+      "type": "topic",
+      "description": "The host's claim that each of her July-August 2025 Epstein episodes was followed the next day by a White House Epstein meeting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6405",
+        "C-6406",
+        "C-6410",
+        "C-6411",
+        "C-6412",
+        "C-6421",
+        "C-6422"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-16",
+      "ref": "N-16",
+      "name": "Sergio Gor",
+      "type": "person",
+      "description": "Named by the host as the person who called her on February 25, 2025 about Brigitte Macron.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6388"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-47",
+      "ref": "N-47",
+      "name": "Ghislaine Maxwell",
+      "type": "person",
+      "description": "Named (transcribed Galileain Maxwell) in the host summary of the House of Maxwell episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6412"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-48",
+      "ref": "N-48",
+      "name": "Robert Maxwell",
+      "type": "person",
+      "description": "Named by the host in the 'House of Maxwell' episode summary about textbook printing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6412"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-89",
+      "ref": "N-89",
+      "name": "Benny Johnson",
+      "type": "person",
+      "description": "Listed among proposed influencers in the Why Refi social media blitz.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6380"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-95",
+      "ref": "N-95",
+      "name": "Jack Posobiec",
+      "type": "person",
+      "description": "Listed among proposed influencers in the Why Refi social media blitz (transcribed Jack Pobic).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6380"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-99",
+      "ref": "N-99",
+      "name": "Alex Clark",
+      "type": "person",
+      "description": "Listed among proposed influencers in the Why Refi social media blitz.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6380"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-290",
+      "ref": "N-290",
+      "name": "Xavier Poussard",
+      "type": "person",
+      "description": "Named as the reporter whose work the host's Epstein series is built on (transcribed Xavier Bousard).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6405"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-372",
+      "ref": "N-372",
+      "name": "Cabot Phillips",
+      "type": "person",
+      "description": "Daily Wire figure who asked on August 14 to speak at UVU (transcribed Kabat Phillips).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6423"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-388",
+      "ref": "N-388",
+      "name": "Dan Bongino",
+      "type": "person",
+      "description": "Named with Kash Patel as announcing the Brian Cole Jr. arrest (transcribed Dan Bonino).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6436"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-429",
+      "ref": "N-429",
+      "name": "Monica Lewinsky",
+      "type": "person",
+      "description": "Named in the host's account of the Mega mole story.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6421"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-443",
+      "ref": "N-443",
+      "name": "Bradley Hansell",
+      "type": "person",
+      "description": "Named in the timeline for his June 22 Senate confirmation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6397"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-504",
+      "ref": "N-504",
+      "name": "Marina (TPUSA CMO)",
+      "type": "person",
+      "description": "TPUSA CMO named as involved in organizing the August 14 photo shoot.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6424"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-541",
+      "ref": "N-541",
+      "name": "Jean-Luc Brunel",
+      "type": "person",
+      "description": "Named by the host as the founder of the modeling-apartments company.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6434"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-582",
+      "ref": "N-582",
+      "name": "Faith Kates",
+      "type": "person",
+      "description": "Named by the host in connection with the modeling group tied to Brunel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6434"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-680",
+      "ref": "N-680",
+      "name": "James Kaddis",
+      "type": "person",
+      "description": "Pastor whose Calvary Chapel hosted Erika's July 14 speech (transcribed James Catis).",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6403"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10002",
+      "ref": "N-10002",
+      "name": "Charlie Kirk Death and Memorial",
+      "type": "investigation_target",
+      "description": "Topic for the memorial, merchandise sales and microphone display.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6355",
+        "C-6356"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Venue of the September 10 event and the June 17 drill alleged by the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6361",
+        "C-6366",
+        "C-6371",
+        "C-6384",
+        "C-6394",
+        "C-6407",
+        "C-6423",
+        "C-6432",
+        "C-6433"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10016",
+      "ref": "N-10016",
+      "name": "Hamptons Meeting Pressure Investigation",
+      "type": "investigation_target",
+      "description": "Topic for the August 2025 Hamptons weekend.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6369",
+        "C-6414",
+        "C-6417"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10018",
+      "ref": "N-10018",
+      "name": "Netanyahu Israel Invitation Phone Call",
+      "type": "investigation_target",
+      "description": "Topic for the alleged Netanyahu call and invitation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6415",
+        "C-6416"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10036",
+      "ref": "N-10036",
+      "name": "Building Donor Withdrawal Investigation",
+      "type": "investigation_target",
+      "description": "Topic for donor withdrawals after SAS.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6363",
+        "C-6398"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10070",
+      "ref": "N-10070",
+      "name": "Daily Mail",
+      "type": "investigation_target",
+      "description": "Publisher of the Why Refi article read on air.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6372",
+        "C-6373",
+        "C-6374"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10075",
+      "ref": "N-10075",
+      "name": "White House",
+      "type": "investigation_target",
+      "description": "Place referenced for the February 24 Macron visit and June 18-19 meetings.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6387"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10132",
+      "ref": "N-10132",
+      "name": "TPUSA DOGE Department / Financial Audit",
+      "type": "investigation_target",
+      "description": "Topic for the DOGE audit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6376"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10134",
+      "ref": "N-10134",
+      "name": "Hamptons Weekend Retreat",
+      "type": "investigation_target",
+      "description": "Topic for the August 2025 retreat.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6369",
+        "C-6414",
+        "C-6417",
+        "C-6419"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10194",
+      "ref": "N-10194",
+      "name": "TPUSA Succession Plan Disclosure Timeline",
+      "type": "investigation_target",
+      "description": "Topic for when and how Erika's succession was disclosed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6352",
+        "C-6353",
+        "C-6425"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10211",
+      "ref": "N-10211",
+      "name": "Lincoln, Nebraska TPUSA Chapter Origin Question",
+      "type": "investigation_target",
+      "description": "Topic for the University of Nebraska-Lincoln chapter.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6386"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10253",
+      "ref": "N-10253",
+      "name": "Egyptian Military Plane Tracking Investigation",
+      "type": "investigation_target",
+      "description": "Topic for the Egyptian aircraft movements in the timeline.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6408",
+        "C-6413",
+        "C-6426",
+        "C-6427"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10276",
+      "ref": "N-10276",
+      "name": "Nebraska–Egypt Trade Mission / BTT Plane Overlap",
+      "type": "investigation_target",
+      "description": "Topic for the Nebraska overlap with the Egyptian plane.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6386",
+        "C-6408",
+        "C-6426"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10347",
+      "ref": "N-10347",
+      "name": "Egyptian Planes Israel Flight Pattern",
+      "type": "investigation_target",
+      "description": "Topic for the Egyptian plane route pattern.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6408",
+        "C-6413"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10366",
+      "ref": "N-10366",
+      "name": "Operation Valhalla Strike",
+      "type": "investigation_target",
+      "description": "Topic for the August 24 strike exercise named by the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6429"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10412",
+      "ref": "N-10412",
+      "name": "Erica Kirk June 19 Instagram Purge",
+      "type": "investigation_target",
+      "description": "Topic for the 126 deleted posts.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6396"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10434",
+      "ref": "N-10434",
+      "name": "Charlie Kirk DOGE Pre-Death Establishment",
+      "type": "investigation_target",
+      "description": "Topic for the DOGE set up seven days before the assassination.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6376"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10443",
+      "ref": "N-10443",
+      "name": "TPUSA Post-Assassination Leadership Tone/Timing Discrepancy",
+      "type": "investigation_target",
+      "description": "Topic for leadership conduct after the assassination.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6355"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10446",
+      "ref": "N-10446",
+      "name": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
+      "type": "investigation_target",
+      "description": "Topic for the Netanyahu offer during the Hamptons weekend.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6415"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10519",
+      "ref": "N-10519",
+      "name": "Erika Kirk Next Model Management Involvement",
+      "type": "investigation_target",
+      "description": "Topic for Erika's alleged control of modeling-linked entities.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6434"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10524",
+      "ref": "N-10524",
+      "name": "Faith Kates – Epstein Relationship Scope",
+      "type": "investigation_target",
+      "description": "Topic linking Faith Kates to the Epstein network.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6434"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10539",
+      "ref": "N-10539",
+      "name": "Charlie Kirk Iran War Opposition (June 2025)",
+      "type": "investigation_target",
+      "description": "Topic for Charlie's lobbying against involvement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6393",
+        "C-6395"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10571",
+      "ref": "N-10571",
+      "name": "July 14, 2025 Long Beach Flight",
+      "type": "investigation_target",
+      "description": "Topic for Erika's private flight to Long Beach.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6403",
+        "C-6404"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10664",
+      "ref": "N-10664",
+      "name": "Charlie Kirk Aspen Audio Authenticity Question",
+      "type": "investigation_target",
+      "description": "Topic for the Aspen succession statement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6425"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10668",
+      "ref": "N-10668",
+      "name": "Boston Consulting Group Government Pipeline",
+      "type": "investigation_target",
+      "description": "Topic for BCG's government roles.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6390"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10670",
+      "ref": "N-10670",
+      "name": "Gaza Humanitarian Foundation Leadership/Operational Pipeline",
+      "type": "investigation_target",
+      "description": "Topic for the Gaza Humanitarian Foundation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6390",
+        "C-6391"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10674",
+      "ref": "N-10674",
+      "name": "June 18 White House Meeting on Iran Involvement",
+      "type": "investigation_target",
+      "description": "Topic for Charlie's White House visit.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6395"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10795",
+      "ref": "N-10795",
+      "name": "Wilson's Promised Release of \"Never-Before-Seen Messages\"",
+      "type": "investigation_target",
+      "description": "Topic for the Andrew Wilson message leak.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6359",
+        "C-6446"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10865",
+      "ref": "N-10865",
+      "name": "Erika Heaven-Focused Political Non-Answers / CEO Fitness",
+      "type": "investigation_target",
+      "description": "Topic for Erika's heaven-focus quotes.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6444",
+        "C-6445"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10867",
+      "ref": "N-10867",
+      "name": "Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)",
+      "type": "investigation_target",
+      "description": "Topic for the smears against the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6418",
+        "C-6420",
+        "C-6435",
+        "C-6448"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10900",
+      "ref": "N-10900",
+      "name": "Daily Wire",
+      "type": "investigation_target",
+      "description": "Organization behind the Cabot Phillips request.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6423"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10925",
+      "ref": "N-10925",
+      "name": "Turning Point Action",
+      "type": "investigation_target",
+      "description": "Organization named in the missing-money claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6375"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10927",
+      "ref": "N-10927",
+      "name": "Sergio Gor White House Exit and India Ambassadorship",
+      "type": "investigation_target",
+      "description": "Topic for Gor's move to India.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-6388"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1641,7 +2798,2406 @@
         "N-14",
         "N-18"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6351",
+      "ref": "C-6351",
+      "label": "Host says newly received TPUSA 2025 contracts confirm her suspicion that Charlie's tour came together quickly under financial pressure",
+      "claim": "The host says that in one batch she received contracts Turning Point USA signed in 2025 and that, in her view, they confirm her suspicion that Charlie's tour came together rather quickly because he was put under financial pressure.",
+      "anchored_artifacts": [
+        "A-2467.1",
+        "A-2468.1"
+      ],
+      "related_nodes": [
+        "N-10863",
+        "N-10870"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Establish how and from whom the contracts were obtained; obtain the TPUSA fall 2025 tour booking timeline and compare it with prior tour cycles.",
+      "transcript_snippet": "we received contracts that Turning Point USA signed as well back in 2025, which in my view confirm uh my general suspicion that Charlie's tour came together rather quickly",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6352",
+      "ref": "C-6352",
+      "label": "Vanity Fair confirmed Erika took over as CEO and chairman within 48 hours",
+      "claim": "The host says Vanity Fair confirmed on the Monday that Erika assumed her husband's position as CEO and chairman within 48 hours of his death.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10864",
+        "N-10194"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:36",
+      "investigative_direction": "Pull the Vanity Fair profile passage and TPUSA board records or statements fixing the date Erika was named CEO and chairman.",
+      "transcript_snippet": "it was confirmed by Vanity Fair that yes, Erika assumed her husband's position as CEO and chairman within 48 hours of his untimely death.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6353",
+      "ref": "C-6353",
+      "label": "Doug DeGroot says journalists' pressure forced TPUSA to name a successor quickly",
+      "claim": "The host says board member and financial adviser Doug DeGroot attributes the rapid naming of Erika to journalists pressing Turning Point USA for who would replace Charlie rather than for updates on the unlocated shooter.",
+      "anchored_artifacts": [
+        "A-2809.1"
+      ],
+      "related_nodes": [
+        "N-11092",
+        "N-10194"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:01:36",
+      "investigative_direction": "Obtain DeGroot's original statement in the Vanity Fair piece and any TPUSA press-inquiry logs from September 10-12, 2025.",
+      "transcript_snippet": "according to Doug Degroot, the journalists were just pressuring them to know within that crucial time frame who's going to replace Charlie.",
+      "mentions_person_refs": [
+        "N-508",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6354",
+      "ref": "C-6354",
+      "label": "Host says the TPUSA staffer who fielded press requests told her something different from DeGroot",
+      "claim": "The host says she fact-checked DeGroot's account with the person directly responsible for fielding the PR requests and writing the death statement, and says it is not what she was told.",
+      "anchored_artifacts": [
+        "A-2809.1"
+      ],
+      "related_nodes": [
+        "N-11092"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:39",
+      "investigative_direction": "Identify the TPUSA communications staffer and obtain the press inquiries received in the first 48 hours; compare with DeGroot's account.",
+      "transcript_snippet": "I fact checked that with the person who was directly responsible for fielding the PR request, the same person who had to write the death statement uh to hand over to the media.",
+      "contradicts_claim_refs": [
+        "C-6353"
+      ],
+      "mentions_person_refs": [
+        "N-508",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6355",
+      "ref": "C-6355",
+      "label": "Host says Erika was in the office, on Zoom calls, announcing Turning Point 2.0 and celebrating merch sales within two weeks",
+      "claim": "The host says staff did not imagine that Erika was in the office taking Zoom calls, announcing Turning Point 2.0, giggling and celebrating the money made in merchandise sales at Charlie's memorial within the first two weeks.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10002",
+        "N-10443"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:39",
+      "investigative_direction": "Identify attendees of the Zoom calls from September 2025 and obtain recordings, calendar invites or notes referring to Turning Point 2.0 and memorial merchandise revenue.",
+      "transcript_snippet": "Nobody imagined that she was announcing Turning Point 2.0, giggling on Zoom calls, celebrating how much money that they had made at Charlie's Memorial in merch sales all within the first two weeks.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6356",
+      "ref": "C-6356",
+      "label": "Host says TPUSA encased Charlie's bloodied microphone as an emotional appeal to donors at the Mar-a-Lago event",
+      "claim": "The host says Turning Point USA decided to encase Charlie's bloodied microphone as an emotional appeal to donors at its annual Mar-a-Lago event and at AmFest.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10869",
+        "N-10002"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:39",
+      "investigative_direction": "Obtain event photos and programs from the Mar-a-Lago event and AmFest showing the encased microphone and identify who authorized displaying it.",
+      "transcript_snippet": "they eventually made the terribly crash decision to encase Charlie's bloodied microphone as an emotional appeal to donors at their annual Mara Lago event, also at Amfest.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6357",
+      "ref": "C-6357",
+      "label": "Host says TPUSA allegedly raised $40 million at the Mar-a-Lago event",
+      "claim": "The host says Turning Point USA allegedly raised $40 million at the Mar-a-Lago event, partly because of heartstring-pulling displays such as Erika photographed next to the microphone.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10869"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:39",
+      "investigative_direction": "Check TPUSA or Turning Point Action donor disclosures and press reports for the amount raised at the event; identify the source of the $40 million figure.",
+      "transcript_snippet": "They allegedly raised $40 million at that event in part due to things that were meant to pull at your heartstrings.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6358",
+      "ref": "C-6358",
+      "label": "Host says TPUSA staff feel lied to after the UVU independent review",
+      "claim": "The host says people at Turning Point USA are disgusted and feel lied to about many things, especially after the UVU independent review, and that this is why leaks are reaching her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10839",
+        "N-10859"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:02:39",
+      "investigative_direction": "Compare statements TPUSA leadership made about the UVU event with the independent review's findings to identify which claims staff regard as untrue.",
+      "transcript_snippet": "people at Turning Point USA are pretty disgusted um and feeling lied to about a lot of things.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6359",
+      "ref": "C-6359",
+      "label": "Host says Erika shared text messages with Andrew Wilson",
+      "claim": "The host says Erika Kirk shared text messages (and, as transcribed, the final moments of her children) with Andrew Wilson, which the host says cost Erika credibility.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10795"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:30",
+      "investigative_direction": "Obtain the Wilson-released messages and determine who supplied them; the transcript wording of 'final moments of her children' may be an ASR error and should be checked against audio.",
+      "transcript_snippet": "her sharing the final moments of her children with Andrew Wilson and text messages with the slob like Andrew Wilson.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-18"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6360",
+      "ref": "C-6360",
+      "label": "Host says she got an early tip from inside TPUSA that the tour came together unusually",
+      "claim": "The host says that very early in her investigation, while she was being attacked, she received a tip from someone within the organization who said the fall tour came together quite unusually.",
+      "anchored_artifacts": [
+        "A-2809.2"
+      ],
+      "related_nodes": [
+        "N-10863"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:06:30",
+      "investigative_direction": "Establish the date of the tip (e.g. from host emails or prior episodes) and compare the tipster's description with the documented tour booking sequence.",
+      "transcript_snippet": "I had received a tip from someone within the organization while I was being attacked and gaslit for just asserting my experience",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6361",
+      "ref": "C-6361",
+      "label": "Host says two Utah tour stops separated by 10 days made no sense by tour-routing norms",
+      "claim": "The host says that back-to-back Utah stops separated by 10 days did not make sense to her because TPUSA usually routes tours as corridors, e.g. consecutive California stops, and that the Utah universities are about 45 minutes apart.",
+      "anchored_artifacts": [
+        "A-2809.2"
+      ],
+      "related_nodes": [
+        "N-11093",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:32",
+      "investigative_direction": "List the fall 2025 tour stops and dates and compare Utah stop spacing and routing with earlier tour legs.",
+      "transcript_snippet": "even Utah doing back-to-back Utah stops separated by 10 days didn't make sense to me.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6362",
+      "ref": "C-6362",
+      "label": "Source says Charlie agreed to the Utah stops because he was under pressure to make money",
+      "claim": "According to the host's tipster, Charlie agreed to the Utah stops because he was under a lot of pressure to make more money.",
+      "anchored_artifacts": [
+        "A-2809.2"
+      ],
+      "related_nodes": [
+        "N-11093",
+        "N-10863"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:32",
+      "investigative_direction": "Obtain TPUSA fall 2025 revenue plans or sponsor communications indicating a revenue gap and any link to the stop selection.",
+      "transcript_snippet": "Charlie had agreed to doing those stops because he was under a lot of pressure to make more money.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6363",
+      "ref": "C-6363",
+      "label": "Host says Zionist donors pulled out in July over Charlie's shifting Israel stance, including Bob Shulman for millions",
+      "claim": "The host says Zionist donors pulled out in July because of Charlie's shifting stance on Israel, that Bob Shulman pulled millions, that others also pulled millions, and that Charlie wanted to make up the money elsewhere.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10036",
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:32",
+      "investigative_direction": "Identify the donors, amounts and dates of withdrawn gifts through TPUSA or Turning Point Action filings and donor-side confirmation.",
+      "transcript_snippet": "when Bob Showman pulled millions, and he wasn't the only one who pulled millions, others did as well, Charlie was wanting to make up that money elsewhere.",
+      "supports_claim_refs": [
+        "C-1559"
+      ],
+      "mentions_person_refs": [
+        "N-98",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6364",
+      "ref": "C-6364",
+      "label": "Host says TPUSA still will not acknowledge Charlie's shifting stance on Israel",
+      "claim": "The host says Turning Point USA still will not acknowledge that Charlie's stance on Israel was shifting, although she says everyone else including Vanity Fair has acknowledged it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10056",
+        "N-10864"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:32",
+      "investigative_direction": "Compile TPUSA's public statements on Charlie's Israel position since September 2025 and compare with Vanity Fair's description.",
+      "transcript_snippet": "A shifting stance that Turning Point USA still will not acknowledge, which is very strange.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6365",
+      "ref": "C-6365",
+      "label": "Tipster says Why Refi came in with extra money to offset lost revenue",
+      "claim": "According to the host's tip, the company Why Refi came in with a large amount of extra money in an offer to make up some of the lost donor revenue.",
+      "anchored_artifacts": [
+        "A-2809.2",
+        "A-2468.1"
+      ],
+      "related_nodes": [
+        "N-10870"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:32",
+      "investigative_direction": "Compare the timing of Bob Shulman's withdrawal with the July 25, 2025 addendum payment schedule and wire records.",
+      "transcript_snippet": "the company Y Refi came in with a ton a ton of extra money and they had also, you know, in this nice offer to make up some of the lost revenue.",
+      "supports_claim_refs": [
+        "C-6363"
+      ],
+      "mentions_person_refs": [
+        "N-98"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6366",
+      "ref": "C-6366",
+      "label": "Tipster alleges Why Refi had a say in tour stops; host says no evidence beyond hearsay",
+      "claim": "The host says the tipster alleged Why Refi was given a say over where Charlie's tour stops would be, but the host states she cannot demonstrate that Why Refi hand-selected UVU and that there is no evidence beyond hearsay.",
+      "anchored_artifacts": [
+        "A-2809.2"
+      ],
+      "related_nodes": [
+        "N-10870",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:32",
+      "investigative_direction": "Seek the stop-selection correspondence between TPUSA events staff and Why Refi; the host herself classes this as unconfirmed.",
+      "transcript_snippet": "while I still cannot demonstrate that why Rei hand selected Utah Valley University, there is actually no evidence for that outside of hearsay.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6367",
+      "ref": "C-6367",
+      "label": "Host says Why Refi became a massive TPUSA sponsor in 2024 right after she stopped touring with Charlie",
+      "claim": "The host says Why Refi came in as a massive sponsor of Turning Point USA in 2024, right after she stopped touring with Charlie Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10870"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:07:32",
+      "investigative_direction": "Obtain the 2024 TPUSA sponsor lists and Why Refi's first sponsorship agreement date.",
+      "transcript_snippet": "They came in as a massive sponsor for Turning Point USA in 2024, of course, right after Candace stopped touring with Charlie Kirk",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6368",
+      "ref": "C-6368",
+      "label": "Host alleges Dylan Erickson is a former TPUSA employee, now a contractor, also paid by Why Refi",
+      "claim": "The host says TPUSA's sponsorship lead Dylan Erickson was once a TPUSA employee, is allegedly now a contractor, and is also employed or paid by Why Refi, which she says would be a conflict of interest.",
+      "anchored_artifacts": [
+        "A-2809.4"
+      ],
+      "related_nodes": [
+        "N-10870"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:21",
+      "investigative_direction": "Obtain Erickson's contractor agreement with TPUSA and any Why Refi payroll or consulting records, and review the conflict-of-interest policy.",
+      "transcript_snippet": "he was once an employee of Turning Point uh of Turning Point USA. They say now he's a contractor, I'll say allegedly.",
+      "mentions_person_refs": [
+        "N-20"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6369",
+      "ref": "C-6369",
+      "label": "Host says Erickson runs the influencer management company that flew pro-Israel influencers to the Hamptons",
+      "claim": "The host says Dylan Erickson runs an influencer management company, the one that flew all of the pro-Israel influencers to the Hamptons for the ill-fated weekend.",
+      "anchored_artifacts": [
+        "A-2809.4"
+      ],
+      "related_nodes": [
+        "N-10134",
+        "N-10016"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:10:21",
+      "investigative_direction": "Identify the company, its principals and travel invoices for the August 2025 Hamptons weekend.",
+      "transcript_snippet": "Dylan also uh runs an influencer management company that the one that flew out all of the pro-Israel influencers to the Hamptons that one ill- fated weekend.",
+      "mentions_person_refs": [
+        "N-20"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6370",
+      "ref": "C-6370",
+      "label": "Host relays claim that Why Refi has many TPUSA contracts but does not pay",
+      "claim": "The host says employees told her Why Refi has a lot of contracts with Turning Point USA but never really pays up, which she says she cannot confirm and offers with 'allegedly'.",
+      "anchored_artifacts": [
+        "A-2809.4"
+      ],
+      "related_nodes": [
+        "N-10870"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:10",
+      "investigative_direction": "Compare executed contract totals with payments received in TPUSA ledgers; the host flags this as unconfirmed.",
+      "transcript_snippet": "Apparently, they have a lot of contracts, but they don't ever really pay up.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6371",
+      "ref": "C-6371",
+      "label": "Host says Laine Schoneberger, his daughter and Dylan Erickson were at UVU on the day of the assassination and flew in together",
+      "claim": "The host says Laine Schoneberger, his daughter and Dylan Erickson were all at UVU on the day of Charlie's assassination and flew in together.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-10870"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:10",
+      "investigative_direction": "Obtain flight and charter manifests for September 9-10, 2025 and UVU credential or guest lists for the sponsor group.",
+      "transcript_snippet": "Laine Schoneberger and his daughter and Dylan Erickson were all at UVU on the day of Charlie's assassination. They flew in together.",
+      "mentions_person_refs": [
+        "N-19",
+        "N-20",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6372",
+      "ref": "C-6372",
+      "label": "Daily Mail headline: Why Refi accused of paying TPUSA for speaking slots to pitch to college students",
+      "claim": "The host shows and reads a Daily Mail headline (also covered by the UK International Business Times) accusing a shady student loan refinancing company of paying Turning Point USA for speaking slots so it can pitch to college kids.",
+      "anchored_artifacts": [
+        "A-2810.1"
+      ],
+      "related_nodes": [
+        "N-10070",
+        "N-10870"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:10",
+      "investigative_direction": "Retrieve the Daily Mail article and confirm date, byline and the supplied documents about speaking slots.",
+      "transcript_snippet": "shady student loan refinance company accused of paying Turning Point USA for speaking slots so that it can pitch to college kids.",
+      "mentions_person_refs": [
+        "N-10870"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6373",
+      "ref": "C-6373",
+      "label": "Daily Mail reports Why Refi faced $750,000 in state sanctions last year",
+      "claim": "Reading the Daily Mail article, the host says Why Refi last year faced $750,000 in state sanctions in a settlement of accusations of deceptive marketing aimed at private funders, and that the company neither admitted nor denied them.",
+      "anchored_artifacts": [
+        "A-2810.1"
+      ],
+      "related_nodes": [
+        "N-10070",
+        "N-10870"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:11:10",
+      "investigative_direction": "Obtain the state regulator's consent order or settlement and verify amount, date and the no-admit clause.",
+      "transcript_snippet": "the Daily Mail can reveal Ryi last year faced $750,000 in state sanctions in a settlement of accusations of deceptive marketing and investment materials aimed at private funders",
+      "mentions_person_refs": [
+        "N-10870"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6374",
+      "ref": "C-6374",
+      "label": "Schoneberger tells the Daily Mail his firm changed its marketing materials and resolved up to $2.1 million in Massachusetts regulatory issues",
+      "claim": "The host reads that Why Refi co-founder Laine Schoneberger told the Daily Mail his company changed its investment marketing materials and put to bed potentially $2.1 million in regulatory woes in Massachusetts in 2025.",
+      "anchored_artifacts": [
+        "A-2810.1"
+      ],
+      "related_nodes": [
+        "N-10870",
+        "N-10070"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:56",
+      "investigative_direction": "Check Massachusetts Securities Division records for the 2025 matter and reconcile the $2.1 million figure with the $750,000 sanction.",
+      "transcript_snippet": "has put to bed potentially 2.1 million in regulatory woes that it had in Massachusetts in 2025.",
+      "mentions_person_refs": [
+        "N-19"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6375",
+      "ref": "C-6375",
+      "label": "Host says Charlie noticed money missing at Turning Point USA, particularly Turning Point Action, and TPUSA denies it",
+      "claim": "The host says Charlie noticed money was missing at Turning Point USA, with trouble specifically at Turning Point Action, that TPUSA has declined the claims but the claims came from TPUSA, and that she believes the people who say money was missing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10388",
+        "N-10925"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:56",
+      "investigative_direction": "Obtain Turning Point Action financial statements and any internal audit materials from 2025; identify the original sources of the missing-money claim.",
+      "transcript_snippet": "Charlie noticed that money was missing at Turning Point USA. Uh that there was trouble specifically with Turning Point action and Turning Point has declined those claims",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6376",
+      "ref": "C-6376",
+      "label": "Host says Charlie established a DOGE seven days before he died and she does not believe it was for no reason",
+      "claim": "The host says Charlie established a DOGE (efficiency department) seven days before he died and that she does not believe he did so for no reason.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10434",
+        "N-10132"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:13:56",
+      "investigative_direction": "Pull the September 2, 2025 internal memo announcing the DOGE audit and identify its stated purpose.",
+      "transcript_snippet": "I don't believe that Charlie established a Doge for no reason seven days before he died.",
+      "supports_claim_refs": [
+        "C-1563",
+        "C-3632"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6377",
+      "ref": "C-6377",
+      "label": "Host says the February 2025 contract voids and cancels all previous contracts",
+      "claim": "The host says the February 2025 Why Refi contract states explicitly that all previous contracts are voided and canceled, so its payment schedule (about $2.47 million by her count) should represent everything.",
+      "anchored_artifacts": [
+        "A-2467.1"
+      ],
+      "related_nodes": [
+        "N-10870"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:15:21",
+      "investigative_direction": "Read the contract's entire-agreement clause and total the payment schedule to test the $2.25 million versus $2.47 million difference.",
+      "transcript_snippet": "the contract says explicitly that all previous contracts are voided and canceled.",
+      "mentions_person_refs": [
+        "N-19"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6378",
+      "ref": "C-6378",
+      "label": "Host says the Believer Summit named in the contract was later cancelled",
+      "claim": "The host says the Believer Summit listed among the contract's sponsored events ended up being cancelled.",
+      "anchored_artifacts": [
+        "A-2467.1"
+      ],
+      "related_nodes": [
+        "N-10870"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:29",
+      "investigative_direction": "Check TPUSA announcements for the cancelled Believer Summit and whether any Why Refi payment was tied to it.",
+      "transcript_snippet": "You have the believer summit that ended up being cancelled, by the way."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6379",
+      "ref": "C-6379",
+      "label": "Contract lists Riley Gaines for multiple event appearances, social posts and video endorsements",
+      "claim": "The host reads that the contract gives Why Refi event appearances by Riley Gaines at the Winter Gala, AmFest and the spring investor retreat, a social post and IG story per event, and three video endorsements shot at TPUSA headquarters and events.",
+      "anchored_artifacts": [
+        "A-2467.1"
+      ],
+      "related_nodes": [
+        "N-10870"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:29",
+      "investigative_direction": "Compare Gaines's actual appearances and posts with the contract schedule; seek her engagement letter if any.",
+      "transcript_snippet": "event appearances, they want her for the Winter Gayla, America Fest, the spring investor retreat, the social media post, IG story for each event, three time video endorsements shot at Turning Point USA headquarters and events.",
+      "mentions_person_refs": [
+        "N-24"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6380",
+      "ref": "C-6380",
+      "label": "Contract's proposed influencer blitz lists Alex Clark, Riley Gaines, Benny Johnson, Jack Posobiec and others",
+      "claim": "The host reads the contract's list of proposed social media blitz influencers, subject to availability: Alex Clark, Riley, Morgan McMichael, Benny Johnson, Jack Posobiec, Anthony Watson, Isabelle Brown, Lauren Chen, Chrissy Clark and Savannah Hernandez, and says she cannot tell whether any besides Riley took up the offer.",
+      "anchored_artifacts": [
+        "A-2467.1"
+      ],
+      "related_nodes": [
+        "N-10870"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:29",
+      "investigative_direction": "Check each named influencer's posts for Why Refi promotion and any disclosure of sponsorship.",
+      "transcript_snippet": "These are their proposed influencers. May vary on availability. Alex Clark, Riley, Morgan Mcichael, Benny Johnson, Jack Pobic, Anthony Watson, Isabelle Brown, Lauren Chen, Chrissy Clark.",
+      "mentions_person_refs": [
+        "N-99",
+        "N-24",
+        "N-89",
+        "N-95"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6381",
+      "ref": "C-6381",
+      "label": "Contract gives Why Refi hotel rooms, six inauguration seats and 25 Turning Point Ball tickets",
+      "claim": "The host reads that the contract gives Why Refi four hotel rooms, six seated tickets to the inauguration and 25 tickets to the Turning Point Ball, plus naming of a Why Refi theater and the entire spring campus tour.",
+      "anchored_artifacts": [
+        "A-2467.1"
+      ],
+      "related_nodes": [
+        "N-10870"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:17:29",
+      "investigative_direction": "Verify the ticket and hotel allocations against inauguration-weekend event records.",
+      "transcript_snippet": "They get four hotel rooms, six seated tickets to the inauguration, 25 tickets to the Turning Point Ball"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6382",
+      "ref": "C-6382",
+      "label": "Host says the July 25 addendum is only one page and far less descriptive than the February contract",
+      "claim": "The host says the July 25, 2025 addendum is essentially one page, with the rest being boilerplate such as indemnification, and is much less descriptive than the February contract.",
+      "anchored_artifacts": [
+        "A-2468.1"
+      ],
+      "related_nodes": [
+        "N-10870",
+        "N-10863"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:20:10",
+      "investigative_direction": "Obtain the full addendum PDF and confirm signatories, execution date and page count.",
+      "transcript_snippet": "This contract, this agreement is going to be really just one page.",
+      "mentions_person_refs": [
+        "N-10863"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6383",
+      "ref": "C-6383",
+      "label": "Addendum covers premier branding at 12 evening campus events",
+      "claim": "The host says the addendum gives Why Refi a branded wall, presenting sponsorship title and premier branding for evening campus sessions across 12 events, plus five minutes of mainstage speaking and an email to attendees.",
+      "anchored_artifacts": [
+        "A-2468.1"
+      ],
+      "related_nodes": [
+        "N-10870"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:01",
+      "investigative_direction": "Cross-check the 12 events against the fall tour schedule and the deliverables TPUSA actually provided at each.",
+      "transcript_snippet": "So, they're looking to do this for 12 events. That makes that clear."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6384",
+      "ref": "C-6384",
+      "label": "Host says no mainstage video was possible at UVU despite the addendum benefit",
+      "claim": "The host says the addendum promised a mainstage video but there was no video opportunity at UVU, where Laine Schoneberger spoke for five minutes before the event kicked off.",
+      "anchored_artifacts": [
+        "A-2468.1"
+      ],
+      "related_nodes": [
+        "N-10870",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:21:01",
+      "investigative_direction": "Compare the addendum deliverables with UVU stage logistics and the pre-show run of show.",
+      "transcript_snippet": "There was no video opportunity of course at UVU and an email to all attendees.",
+      "mentions_person_refs": [
+        "N-19"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6385",
+      "ref": "C-6385",
+      "label": "Host says people claim Why Refi never actually pays the money on its contracts",
+      "claim": "The host says people told her Why Refi never actually gets or pays the money and that the contracts exist only on paper, which she says she cannot confirm.",
+      "anchored_artifacts": [
+        "A-2809.4"
+      ],
+      "related_nodes": [
+        "N-10870"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:22:13",
+      "investigative_direction": "Request evidence of payment (wires, invoices) for the Feb and July 2025 agreements.",
+      "transcript_snippet": "Also, people saying that they actually never actually get the money.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6386",
+      "ref": "C-6386",
+      "label": "Nebraska-Lincoln chapter reopened February 11 and Frank Turek spoke there February 12, 2025",
+      "claim": "In her timeline the host says TPUSA reopened its shuttered chapter at the University of Nebraska-Lincoln on February 11, 2025 and Frank Turek spoke there on February 12.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10211",
+        "N-10276"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:22",
+      "investigative_direction": "Verify chapter reactivation and the Turek event date via university and TPUSA chapter records.",
+      "transcript_snippet": "February 11th, we have that TPUSA reopens their shuttered chapter at the University of Nebraska. Lincoln. February 12th, Frank Turk speaks at the University of Nebraska Lincoln.",
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6387",
+      "ref": "C-6387",
+      "label": "Charlie told the host on February 24, 2025 that Macron asked the White House for her to stop discussing Brigitte",
+      "claim": "The host says that on February 24, 2025 Charlie Kirk contacted her and said Emmanuel Macron had asked the White House for her to stop discussing Brigitte, and that Macron was at the White House that day.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10075"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:22",
+      "investigative_direction": "Obtain the host's message or call records from February 24, 2025 and Macron's White House visit schedule.",
+      "transcript_snippet": "February 24th, Charlie Kirk contacts Canace and says Emanuel Mcronone has asked the White House for her to stop discussing Breijgit.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-387",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6388",
+      "ref": "C-6388",
+      "label": "Sergio Gor called the host on February 25 asking her to stop discussing Brigitte Macron as a favor to Trump",
+      "claim": "The host says that on February 25, 2025 Sergio Gor, whom she notes Erika later saw off to India, called her and asked her to stop discussing Brigitte Macron as a favor to President Trump.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10927"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:22",
+      "investigative_direction": "Obtain the host's call log and any contemporaneous messages or witnesses; ask Gor's office to confirm or deny the call.",
+      "transcript_snippet": "February 25th, Sergio Gor, one that Erika is going to see off to India following Charlie's assassination, calls Candace and asks her to stop discussing Breijgit Mcronone as a favor to President Trump.",
+      "mentions_person_refs": [
+        "N-16",
+        "N-3",
+        "N-5",
+        "N-2",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6389",
+      "ref": "C-6389",
+      "label": "Trump called the host on February 26 asking her to stop speaking about Brigitte Macron",
+      "claim": "The host says that on February 26, 2025 Donald Trump called her and asked her to stop speaking about Brigitte Macron.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:23:22",
+      "investigative_direction": "Obtain the host's call records for February 26, 2025 and any contemporaneous message or witness.",
+      "transcript_snippet": "February 26th, the Trump calls Candace and asks her to stop speaking about Breijgit Mcronone.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-3",
+        "N-82"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6390",
+      "ref": "C-6390",
+      "label": "Host says BCG abandoned the Gaza Humanitarian Foundation in early June 2025 because of scandal",
+      "claim": "The host says that in early June 2025 Boston Consulting Group had to get out of the Gaza Humanitarian Foundation because of scandal, and characterizes the foundation as corrupt.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10668",
+        "N-10670"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:22",
+      "investigative_direction": "Check BCG and GHF statements, press reports and contract end dates for June 2025.",
+      "transcript_snippet": "So, Boston Consulting Group has got to get out of that in early June of 2025 because of the scandal.",
+      "mentions_person_refs": [
+        "N-10670"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6391",
+      "ref": "C-6391",
+      "label": "Johnny Moore became chairman of the Gaza Humanitarian Aid Project on June 3",
+      "claim": "The host says that on June 3 Johnny Moore took over as chairman of the Gaza Humanitarian Aid Project.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10670"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:23:22",
+      "investigative_direction": "Verify the appointment date through GHF announcements and press coverage.",
+      "transcript_snippet": "On June 3, Johnny Moore actually takes over the chair as chairman of the Gaza Humanitarian Aid Project.",
+      "mentions_person_refs": [
+        "N-447"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6392",
+      "ref": "C-6392",
+      "label": "Host says Andrew Kolvet worked with Chyros, Johnny Moore's company, before starting his own PR firm",
+      "claim": "The host says Johnny Moore is Andrew Kolvet's partner at the Chyros company, that Kolvet worked with Chyros before starting his own PR firm, and that TPUSA was taken on through Chyros, with Kolvet's email then at Chyros.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:25:31",
+      "investigative_direction": "Obtain Kolvet's and TPUSA's vendor records with Chyros and the dates of his transition to his own firm.",
+      "transcript_snippet": "Before Andrew started his own PR firm, he was working with Chyros.",
+      "mentions_person_refs": [
+        "N-14",
+        "N-447"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6393",
+      "ref": "C-6393",
+      "label": "Host says Charlie was one of the few voices lobbying Trump against US involvement in the Iran-Israel war",
+      "claim": "The host says that after the June 13 start of the Iran-Israel war, Netanyahu and American partners lobbied hard for US troops to get involved while Charlie was one of the few voices in Trump's ear lobbying against it.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10539"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:31",
+      "investigative_direction": "Seek White House visitor logs and reporting from June 13-19, 2025 on who lobbied for and against involvement.",
+      "transcript_snippet": "Charlie is one of the few voices in Trump's ear lobbying against American involvement.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-5",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6394",
+      "ref": "C-6394",
+      "label": "Host says UVU hosted a mass-casualty drill with crisis actors on June 17",
+      "claim": "The host says that on June 17 Utah Valley University hosted a fake drill simulation with crisis actors for a mass-casualty event.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:31",
+      "investigative_direction": "Request UVU emergency-management records, public notices and participant lists for any June 2025 drill.",
+      "transcript_snippet": "June 17th, UVU hosts a fake drill simulation with crisis actors for a mass casualty event."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6395",
+      "ref": "C-6395",
+      "label": "Host says Charlie went to the White House June 18-19 and won the debate on Iran involvement",
+      "claim": "The host says that on June 18 and 19 Charlie physically went into the White House, won the debate against Zionists lobbying for involvement in Iran, and with others convinced Trump to limit action to a strike on Iranian nuclear sites.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10674",
+        "N-10539"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:25:31",
+      "investigative_direction": "Pull White House visitor and schedule records for June 18-19, 2025.",
+      "transcript_snippet": "Charlie physically goes into the White House and ultimately wins the debate against the Zionists that are lobbying for American involvement in Iran.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6396",
+      "ref": "C-6396",
+      "label": "Host says Erika purged her Instagram on June 19, deleting 126 posts",
+      "claim": "The host says that on June 19 Erika purged her Instagram, deleting 126 posts.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10412"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:26:34",
+      "investigative_direction": "Re-check the Social Blade or archive data for the June 19 deletions.",
+      "transcript_snippet": "On June 19th, Erika purges her Instagram. She deletes 126 posts.",
+      "supports_claim_refs": [
+        "C-2091"
+      ],
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6397",
+      "ref": "C-6397",
+      "label": "Host says Bradley Hansell was confirmed as undersecretary of defense for intelligence on June 22, term starting July 25",
+      "claim": "The host says that on June 22 Bradley Hansell was confirmed by the Senate as undersecretary of defense for intelligence, with his term set to begin on July 25.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:26:34",
+      "investigative_direction": "Check the Senate confirmation record and the DoD swearing-in date.",
+      "transcript_snippet": "Bradley Hansel is confirmed by the Senate as the under secretary of defense uh for intelligence. His term is set to begin on July 25th.",
+      "mentions_person_refs": [
+        "N-443"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6398",
+      "ref": "C-6398",
+      "label": "Host says Charlie told Tucker Carlson to go max on Epstein at the Student Action Summit and Zionist donors freaked out",
+      "claim": "The host says that at the July 11 Student Action Summit Charlie told Tucker Carlson to go max on Epstein and the Zionist owners freaked out, with Bob Shulman and others pulling millions.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10036"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:27:34",
+      "investigative_direction": "Obtain the SAS program and Tucker's remarks; identify donors who ended gifts after July 11, 2025.",
+      "transcript_snippet": "Charlie tells him to go max on the Epstein stuff and the Zionist owners freak out.",
+      "supports_claim_refs": [
+        "C-1669",
+        "C-1559"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-22",
+        "N-98",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6399",
+      "ref": "C-6399",
+      "label": "Host says Tucker Carlson at SAS said foreign-army servicemembers should lose citizenship and mused about Ackman's wealth",
+      "claim": "The host says Tucker Carlson at the Student Action Summit named Jeffrey Epstein, said people who serve in foreign armies should be stripped of their citizenship, and mused about where Bill Ackman's wealth comes from.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:27:34",
+      "investigative_direction": "Review the July 11, 2025 Tucker Carlson SAS speech video and transcript.",
+      "transcript_snippet": "He says that people who serve in foreign armies should be stripped of their citizenship. He muses about where Bill Aman's wealth comes from.",
+      "supports_claim_refs": [
+        "C-1559"
+      ],
+      "mentions_person_refs": [
+        "N-22",
+        "N-37",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6400",
+      "ref": "C-6400",
+      "label": "Host says Frank Turek deleted his website on July 11",
+      "claim": "The host says that on July 11 Frank Turek deleted his website.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:28:21",
+      "investigative_direction": "Check Wayback Machine captures of Turek's site around July 11, 2025.",
+      "transcript_snippet": "July 11th, we've noted that Frank Turk deletes his website, frank. com.",
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6401",
+      "ref": "C-6401",
+      "label": "Per the New York Times, Trump angrily called Charlie on July 12 calling SAS an Epstein grievance fest",
+      "claim": "The host says that, according to the New York Times, President Trump called Charlie Kirk angrily on July 12 to scold him about his event, claiming it was an Epstein grievance fest.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:21",
+      "investigative_direction": "Pull the New York Times report and check whether it names its sources for the call.",
+      "transcript_snippet": "July 12th, according to the New York Times, President Trump called Charlie Kirk angrily to scold him about his event, claims it was an Epstein grievance fest.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-1",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6402",
+      "ref": "C-6402",
+      "label": "Charlie announced on July 14 he would stop covering Epstein and trusted friends in the administration",
+      "claim": "The host says that on July 14 Charlie announced on his show that he would stop covering the Epstein story and that he trusted his friends in the administration, while being clear he had intended to go max on Epstein at SAS.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:21",
+      "investigative_direction": "Review the July 14, 2025 Charlie Kirk Show episode for the statement.",
+      "transcript_snippet": "On July 14th, Charlie Kirk announces on his show that he's going to stop covering the Epstein story and he trusts his friends in the administration.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6403",
+      "ref": "C-6403",
+      "label": "Erika flew privately to Long Beach on July 14 and spoke at James Kaddis's Calvary Chapel",
+      "claim": "The host says that on July 14 Erika Kirk traveled aboard a private flight to Long Beach, California and spoke at James Kaddis's Calvary Chapel church for the Women's Summer of Psalms retreat.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10571"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:21",
+      "investigative_direction": "Obtain the retreat program, flight records and any video of Erika's speech.",
+      "transcript_snippet": "Erika Kirk travels aboard a private flight to Long Beach, California, and she speaks at James Catis' Calvary Chapel Church for the Women's Summer of Psalms retreat.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-680"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6404",
+      "ref": "C-6404",
+      "label": "Host says Erika's Long Beach speech was pro-Israel and a call to arms",
+      "claim": "The host says Erika's July 14 speech at the retreat was pro-Israel and a call to arms despite what Charlie was going through with Zionist donors, unlike her husband's anti-Israel feeling.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10571",
+        "N-10056"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:28:21",
+      "investigative_direction": "Review the video or transcript of the Long Beach speech for its Israel content.",
+      "transcript_snippet": "The speech is pro-Israel, and it's about a call to arms despite what Charlie is going through with Zionist donors.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6405",
+      "ref": "C-6405",
+      "label": "Host premiered her Epstein series with Xavier Poussard's reporting, introduced by Dead Men Tell No Tales",
+      "claim": "The host says her Epstein series, done with Xavier Poussard's reporting, premiered with the introduction episode 'Dead Men Tell No Tales' on July 9 (she first says July 16 and then corrects it).",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-11095"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:19",
+      "investigative_direction": "Check the YouTube publish date of 'Dead Men Tell No Tales' to settle the July 9 versus July 16 discrepancy.",
+      "transcript_snippet": "So on July 9th on we start we premiere our Epstein series Dead Men Tell No Tales which is the introduction episode.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-290",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6406",
+      "ref": "C-6406",
+      "label": "Host says her 'Midas Touch' episode argued Epstein's money was unexplained and he rose via blackmail",
+      "claim": "The host says her Epstein episode 'The Midas Touch' covered where Epstein's money came from, argued he was not that smart but good at blackmailing people, and discussed the Department of Justice, Bill Barr's contributions and the Dalton school.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-11095"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:19",
+      "investigative_direction": "Compare the episode's sourcing with the documented record on Epstein's rise and the Dalton school.",
+      "transcript_snippet": "He wasn't that smart, but he was good at blackmailing people.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6407",
+      "ref": "C-6407",
+      "label": "Host says a formal request from the TPUSA UVU chapter was submitted July 18 and the event was set for UVU",
+      "claim": "The host says that on July 18 a formal request from Turning Point USA's UVU chapter was submitted, and the decision was made to hold the event at Utah Valley University.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10012",
+        "N-10839"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:19",
+      "investigative_direction": "Verify the July 18 date in the UVU independent review's event-application timeline.",
+      "transcript_snippet": "On July 18th, there was a formal request for Turning Point USA's UVU chapter that's submitted.",
+      "mentions_person_refs": [
+        "N-10839"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6408",
+      "ref": "C-6408",
+      "label": "Host says an Egyptian plane flew Cairo-Paris-Omaha-Lincoln on July 20",
+      "claim": "The host says that on July 20 an Egyptian plane flew from Cairo through Paris to Omaha, Nebraska and then on to Lincoln, Nebraska.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10253",
+        "N-10276",
+        "N-10347"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:29:19",
+      "investigative_direction": "Match the tail number's FlightAware or ADS-B history against the stated route and date.",
+      "transcript_snippet": "July 20th, the Egyptian plane flew from Cairo through to Paris onto Omaha, Nebraska, and then onward to Lincoln, Nebraska.",
+      "mentions_person_refs": [
+        "N-10276",
+        "N-10347"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6409",
+      "ref": "C-6409",
+      "label": "Host says the Kirks vacationed in Maine from July 20 with Mikey and Elizabeth McCoy, producing the final footage",
+      "claim": "The host says that from July 20 Charlie vacationed in Maine for a couple of weeks and went off radar, and that Mikey McCoy and Elizabeth McCoy joined Erika and Charlie for the first time, capturing what became the final footage distributed after the assassination.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:29:19",
+      "investigative_direction": "Obtain the McCoys' posts or the final-footage metadata to confirm date and location.",
+      "transcript_snippet": "Uh Mikey, McCoy, and Elizabeth join Erika and Charlie for the first time, according to them, capturing what's going to be the final footage",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2",
+        "N-194",
+        "N-221"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6410",
+      "ref": "C-6410",
+      "label": "Host says an Epstein situation-room meeting followed each of her Epstein episodes the next day",
+      "claim": "The host says that after each of her Epstein episodes there was an Epstein situation-room meeting the very next day, which she calls remarkable.",
+      "anchored_artifacts": [
+        "A-2470.1"
+      ],
+      "related_nodes": [
+        "N-11095",
+        "N-10324"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:52",
+      "investigative_direction": "Tabulate her episode publish dates against the meeting dates in the Haberman-Swan book and compare lags.",
+      "transcript_snippet": "Every one of my episodes the very next day there's an Epstein situation room meeting which is just remarkable.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6411",
+      "ref": "C-6411",
+      "label": "House Oversight voted July 23 to subpoena Epstein files, coinciding with a second situation-room meeting",
+      "claim": "The host says the second situation-room meeting coincided with the House oversight vote on July 23 to subpoena the Epstein files, which she says surprised the administration.",
+      "anchored_artifacts": [
+        "A-2470.1"
+      ],
+      "related_nodes": [
+        "N-10324",
+        "N-11095"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:52",
+      "investigative_direction": "Check the House Oversight Committee vote record of July 23, 2025 and exactly what was subpoenaed.",
+      "transcript_snippet": "this meeting coincided also with the House oversight meeting voting to subpoena the president on the Epstein files.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-9"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6412",
+      "ref": "C-6412",
+      "label": "Host says her House of Maxwell episode covered Robert Maxwell's textbook printing in American schools",
+      "claim": "The host says her second Epstein episode, 'House of Maxwell', covered how Robert Maxwell got into American schools printing textbooks and the Maxwell family's French connections.",
+      "anchored_artifacts": [
+        "A-2470.1"
+      ],
+      "related_nodes": [
+        "N-11095"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:31:52",
+      "investigative_direction": "Compare the episode's textbook-printing claim with Robert Maxwell biographies.",
+      "transcript_snippet": "Robert Maxwell got into schools in America printing textbooks",
+      "mentions_person_refs": [
+        "N-3",
+        "N-48",
+        "N-47"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6413",
+      "ref": "C-6413",
+      "label": "Host says the Egyptian plane left Wilmington, Delaware for Cairo on July 27, noting she needs to double check",
+      "claim": "The host says that on July 27 the Egyptian plane departed Wilmington, Delaware and headed back to Cairo, adding that she needs to double check she did not carry it over.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10253",
+        "N-10347"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:08",
+      "investigative_direction": "Verify the departure airport and date in ADS-B records; the host herself flags this as unverified.",
+      "transcript_snippet": "On July 27th, we know that the Egyptian plane um then departs Wilmington, Delaware, and heads back to Cairo on the 27th.",
+      "mentions_person_refs": [
+        "N-10347"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6414",
+      "ref": "C-6414",
+      "label": "Charlie and Erika landed in Bedford, New York on August 3 for the Hamptons retreat",
+      "claim": "The host says that on August 3 Charlie and Erika landed in Bedford, New York for the Hamptons retreat.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10134",
+        "N-10016"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:08",
+      "investigative_direction": "Check flight-tracking records for Bedford (HPN or a nearby airport) for August 3, 2025.",
+      "transcript_snippet": "On August 3rd, Charlie and Erika land in Bedford, New York for the Hampton's retreat.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6415",
+      "ref": "C-6415",
+      "label": "Host says Netanyahu's call to Erika during the Hamptons weekend is confirmed and offered to take TPUSA to the next level",
+      "claim": "The host says it has since been confirmed that Netanyahu called during the Hamptons weekend, that Erika was present for the call, and that she was told he offered to take Turning Point to the next level in exchange for something never specified.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10018",
+        "N-10446"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:08",
+      "investigative_direction": "Identify who confirmed the call and obtain the call time and participants.",
+      "transcript_snippet": "BB Netanyahu did in fact call Erika was present for this phone call and I was told that he offered to take turning point to the next level in exchange for what was never made",
+      "supports_claim_refs": [
+        "C-1129"
+      ],
+      "mentions_person_refs": [
+        "N-36",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6416",
+      "ref": "C-6416",
+      "label": "Host says Netanyahu invited Charlie to Israel, Charlie declined, and Kolvet has since admitted it",
+      "claim": "The host says she was told Netanyahu invited Charlie to Israel, that Charlie declined, and that she believes Andrew Kolvet has since admitted this.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10018"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:08",
+      "investigative_direction": "Locate Kolvet's statement acknowledging the invitation.",
+      "transcript_snippet": "I was also told that BB invited Charlie to Israel and Charlie declined to go to Israel.",
+      "supports_claim_refs": [
+        "C-1557",
+        "C-1129"
+      ],
+      "mentions_person_refs": [
+        "N-36",
+        "N-1",
+        "N-14"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6417",
+      "ref": "C-6417",
+      "label": "Host says the influencers present on August 5-6 were not part of the Netanyahu call",
+      "claim": "The host says influencers were at the Hamptons on August 5 and 6, and that they were not part of the meeting or the Netanyahu call, which she thinks was most likely on August 4.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10134",
+        "N-10016"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:08",
+      "investigative_direction": "Compare attendee lists and day-by-day schedules for the Hamptons weekend.",
+      "transcript_snippet": "they were not a part of this meeting they were not a part of BB Netanyahu calling",
+      "mentions_person_refs": [
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6418",
+      "ref": "C-6418",
+      "label": "Host says a fake MySpace account for her was archived on August 4",
+      "claim": "The host says that on August 4 a fake MySpace account was archived for her.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10868",
+        "N-10867"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:33:08",
+      "investigative_direction": "Check Wayback Machine capture dates for the MySpace profile and who requested archiving.",
+      "transcript_snippet": "also on August 4th, a fake MySpace account is archived for me.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6419",
+      "ref": "C-6419",
+      "label": "Charlie went on Megyn Kelly's show on August 6 and said people were calling him an anti-semite",
+      "claim": "The host says that on August 6 Charlie went on Megyn Kelly's show, alluded to what happened in the Hamptons, said people were calling him an anti-semite, and held up his phone, visibly frustrated.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10134",
+        "N-10033"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:39",
+      "investigative_direction": "Review the August 6, 2025 Megyn Kelly Show episode.",
+      "transcript_snippet": "August 6th, obviously Charlie goes on Megan Kelly show where he explains what happened or alludes to what happened in the Hamptons and says that people are calling him an anti-semite.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-46"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6420",
+      "ref": "C-6420",
+      "label": "Host says her 2015 Flickr account was archived for the first time on August 9",
+      "claim": "The host says that on August 9 a 2015 Candace Owens Flickr account, holding photos of her with family at a birthday party, was archived for the first time.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10868",
+        "N-10867"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:39",
+      "investigative_direction": "Check Wayback Machine capture history for the Flickr account.",
+      "transcript_snippet": "August 9th, a 2015 Candace Owens Flickr account is archived for the first time.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6421",
+      "ref": "C-6421",
+      "label": "Host says her Aug 13 episode said Clinton stopped hunting the 'Mega' mole after Netanyahu threatened to expose Lewinsky tapes",
+      "claim": "The host says her August 13 Epstein episode, 'Mega Maga and the MSAD', recounted that Bill Clinton stopped searching for a White House mole nicknamed Mega after Netanyahu allegedly blackmailed him with Monica Lewinsky tapes.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-11095"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:34:39",
+      "investigative_direction": "Check the episode's sources for the Mega mole story and the alleged Netanyahu-Clinton exchange.",
+      "transcript_snippet": "Bill Clinton set out to find until he got blackmailed by BB Netany and Yahoo who said we've got Monica Lewinsky um and you on tape",
+      "mentions_person_refs": [
+        "N-3",
+        "N-36",
+        "N-429"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6422",
+      "ref": "C-6422",
+      "label": "Per the book, the August 13 Epstein meeting ran about two hours, with Trump, Warrington and Woodward not named",
+      "claim": "The host says that, according to the book, the August 13 follow-up Epstein meeting ran about two hours from 6:00 to 8:00 p.m. Eastern, that Trump, David Warrington and Stanley Woodward are not named as participants, and that JD Vance joined by phone from Britain.",
+      "anchored_artifacts": [
+        "A-2470.1"
+      ],
+      "related_nodes": [
+        "N-10324",
+        "N-11095"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:55",
+      "investigative_direction": "Check the book passage for the meeting length and attendee methods.",
+      "transcript_snippet": "That meeting ran uh according to the book, approximately for 2 hours from 6:00 to 8:00 p. m. Eastern.",
+      "mentions_person_refs": [
+        "N-4",
+        "N-5",
+        "N-154",
+        "N-161"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6423",
+      "ref": "C-6423",
+      "label": "Cabot Phillips asked TPUSA on August 14 to speak for the Daily Wire at UVU in late September",
+      "claim": "The host says that on August 14 Cabot Phillips reached out to Turning Point USA at UVU asking to speak on behalf of the Daily Wire for the fall campus tour, requesting a late-September date because he planned to be in the area.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10900",
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:55",
+      "investigative_direction": "Check the UVU independent review and records for Phillips's request.",
+      "transcript_snippet": "Kabat Phillips reaches out to Turning Point USA at UVU and asks to speak on behalf of the Daily Wire for the fall campus tour.",
+      "mentions_person_refs": [
+        "N-372"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6424",
+      "ref": "C-6424",
+      "label": "Erika had a photo shoot with the children and Charlie at the Biltmore on August 14, organized with TPUSA's CMO",
+      "claim": "The host says that on August 14 Erika had a photo shoot with the children and Charlie at the Biltmore Hotel, with TPUSA's CMO Marina involved in organizing it.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [],
+      "tags": [],
+      "claim_timestamp": "00:35:55",
+      "investigative_direction": "Obtain the photographer's booking and publication details for the shoot.",
+      "transcript_snippet": "Marina Minez, the CMO of Turning Point USA, is involved with the organization of this shoot.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1",
+        "N-504"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6425",
+      "ref": "C-6425",
+      "label": "Host says the August 15-17 Aspen investor meeting is when Charlie reportedly appointed Erika successor",
+      "claim": "The host says that at a Turning Point USA Aspen investor meeting from August 15 to 17, Charlie reportedly appointed Erika to take over if he died unexpectedly.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10194",
+        "N-10664"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:55",
+      "investigative_direction": "Obtain the Aspen meeting attendee list and any recording or notes of the statement.",
+      "transcript_snippet": "We're told that that's when Charlie just appointed Erika to take over if he dies unexpectedly.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6426",
+      "ref": "C-6426",
+      "label": "Host says Egyptian planes landed in Lincoln at noon on August 17 and were also in Omaha",
+      "claim": "The host says that on August 17 the Egyptian planes came into Lincoln, Nebraska at noon and were also in Omaha.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10253",
+        "N-10276"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:55",
+      "investigative_direction": "Compare ADS-B arrival times and the airports against the host's description.",
+      "transcript_snippet": "We have our Egyptian planes that come in and they land into Lincoln all places. They are in Lincoln at noon um Lincoln, Nebraska.",
+      "mentions_person_refs": [
+        "N-10276"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6427",
+      "ref": "C-6427",
+      "label": "Host says FOIA about Kash Patel's Omaha trip drew a neither-confirm-nor-deny response",
+      "claim": "The host says Kash Patel went to Omaha while the Egyptian planes were there, that her team filed a FOIA request to learn why and who was aboard with him, and that the government replied it could neither confirm nor deny.",
+      "anchored_artifacts": [
+        "A-2809.5"
+      ],
+      "related_nodes": [
+        "N-11094",
+        "N-10253"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:35:55",
+      "investigative_direction": "Obtain the FOIA request number and response letter; check FBI Director travel disclosures for August 17, 2025.",
+      "transcript_snippet": "Now, we filed an FOIA request wanting to know why he was in Omaha.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6428",
+      "ref": "C-6428",
+      "label": "Host says Harpole claimed security planning began August 24 but UVU says it was not informed",
+      "claim": "The host says Brian Harpole claims security planning began on August 24, but UVU says it was not informed of or included in that planning, leaving open where the planning took place.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10839"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:16",
+      "investigative_direction": "Compare Harpole's account with the independent review's timeline and UVU police records.",
+      "transcript_snippet": "but UVU, we've now learned, says that they were not informed or included in this said planning.",
+      "supports_claim_refs": [
+        "C-1967"
+      ],
+      "mentions_person_refs": [
+        "N-272"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6429",
+      "ref": "C-6429",
+      "label": "Host says an Operation Valhalla strike began on August 24 between civilians and military training in Minnesota",
+      "claim": "The host says Operation Valhalla strike began around August 24 with civilians and the military training together in Minnesota.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10366"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:16",
+      "investigative_direction": "Identify the exercise, its dates and participants, and the source of the host's description.",
+      "transcript_snippet": "Then operation Valhava strike began between civilians and the military training in Minnesota."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6430",
+      "ref": "C-6430",
+      "label": "Host says TPUSA security was absent from the August 25 UVU major events call and Chief Long asked for a contact he did not get",
+      "claim": "Citing the independent review, the host says that on the August 25 UVU major events Teams meeting TPUSA insisted on the venue it wanted, TPUSA security was not on the call, and UVU police chief Jeff Long asked for a security contact and did not get one.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10839",
+        "N-10859"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:16",
+      "investigative_direction": "Verify the August 25 meeting entry and Long's contact request in the independent review.",
+      "transcript_snippet": "They are not the the the security of Turning Point USA is not on this call and yet UVU um police chief Jeff Long is asking for a contact which he doesn't actually get.",
+      "mentions_person_refs": [
+        "N-277"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6431",
+      "ref": "C-6431",
+      "label": "Host says September 2 was the first mention found of Charlie speaking in UVU's courtyard, and Long reached Dan Flood on September 3",
+      "claim": "The host says September 2 is the first time she could find the upcoming event mentioned, with Charlie to speak at UVU in the courtyard, that Chief Long then followed up with the club president and was given a contact, and that on September 3 he established a connection with Dan Flood.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10839",
+        "N-10860"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:16",
+      "investigative_direction": "Verify the September 2-3 entries in the independent review against the July 10 and July 18 requests, which she treats as earlier.",
+      "transcript_snippet": "September 2nd is the first time that this upcoming event that we could find is mentioned that Charlie is going to come to town and that he's going to be speaking at UVU in the courtyard.",
+      "mentions_person_refs": [
+        "N-277",
+        "N-276",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6432",
+      "ref": "C-6432",
+      "label": "Host says 3,000 people showed up despite the event being announced so late",
+      "claim": "The host says that although the event was apparently only mentioned on September 2, about 3,000 people were going to show up.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:38:16",
+      "investigative_direction": "Check attendance estimates and ticketing or RSVP data for the UVU event.",
+      "transcript_snippet": "And yet, remarkably, 3,000 people are going to show up."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6433",
+      "ref": "C-6433",
+      "label": "Host says the September 10 UVU event coincided with the university's military day",
+      "claim": "The host says the September 10 event coincided with UVU's military day, so many military people and civilians working with the military may have been present.",
+      "anchored_artifacts": [
+        "A-2469.1"
+      ],
+      "related_nodes": [
+        "N-10012"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:39:54",
+      "investigative_direction": "Check UVU's September 10, 2025 events calendar for military-day programming.",
+      "transcript_snippet": "it's going to coincide September 10th with their military day as well."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6434",
+      "ref": "C-6434",
+      "label": "Host says TPUSA was asked why former staff say Erika controlled the modeling-apartments company Jean-Luc Brunel started",
+      "claim": "The host says her team asked Turning Point USA why people who worked there say Erika was in control of the modeling-apartments company that Jean-Luc Brunel started, and got no answer.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10519",
+        "N-10524"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:40:55",
+      "investigative_direction": "Establish the company's corporate records and any role of Erika Kirk; identify the former staff and request TPUSA's response.",
+      "transcript_snippet": "we asked Turning Point USA explicitly why we have people that worked there saying that Erika was in control of the modeling apartments company that John Luke Brunell started",
+      "mentions_person_refs": [
+        "N-2",
+        "N-541",
+        "N-582"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6435",
+      "ref": "C-6435",
+      "label": "Host says her college final submitted and archived was about the Adderall epidemic on campus",
+      "claim": "The host says the college final she is seen submitting, the video archived in July, was about the Adderall epidemic on campus.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10868",
+        "N-10867"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:42:04",
+      "investigative_direction": "View the archived college video and compare its subject with the host's description.",
+      "transcript_snippet": "submitting my college final which I did on the Aderal epidemic on campus.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6436",
+      "ref": "C-6436",
+      "label": "Host says Patel and Bongino announced the arrest of autistic man Brian Cole Jr. five years after January 6",
+      "claim": "The host says Kash Patel and Dan Bongino found the J6 pipe-bomb suspect, an autistic black man named Brian Cole Jr., arrested five years after the events, and that the FBI says he confessed while his legal team says he has autism.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10872"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:54",
+      "investigative_direction": "Check the DOJ complaint and FBI announcement for arrest date and charges, and defense filings regarding autism.",
+      "transcript_snippet": "And suddenly Kash Patel and Dan Bonino, they found the guy and it's an autistic black man named Brian Cole Jr.",
+      "mentions_person_refs": [
+        "N-69",
+        "N-388",
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6437",
+      "ref": "C-6437",
+      "label": "Host says she received information that everyone on Capitol Hill knows the pipe bomber came out of Pelosi's office and was allegedly a woman",
+      "claim": "The host says she received information that everyone on Capitol Hill knows the individual was actually out of Nancy Pelosi's office and was allegedly a woman; this is her source's assertion, not demonstrated.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10872"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:45:54",
+      "investigative_direction": "Seek corroboration from named Capitol Police or congressional staff sources; the host provides no documents and hedges with 'allegedly'.",
+      "transcript_snippet": "everyone on Capitol Hill knows that the individual was actually out of Nancy Pelosy's office and it was a woman allegedly.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6438",
+      "ref": "C-6438",
+      "label": "Host says agents descended on Cole's home in December 2025 and he lives with his mother",
+      "claim": "The host says federal agents descended on Brian Cole Jr.'s home in December 2025, that he lives with his mother and other family members about 20 miles outside Washington DC, and that he works for a family bail bond company.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10872"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:42",
+      "investigative_direction": "Check the arrest affidavit and press reports for the arrest date, location and employer.",
+      "transcript_snippet": "And they descended upon his home, by the way, back in December of 2025. He lives with his mother and other family members.",
+      "mentions_person_refs": [
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6439",
+      "ref": "C-6439",
+      "label": "Host says Cole pleaded not guilty and was denied bond in January",
+      "claim": "The host says Brian Cole Jr. has pleaded not guilty and was denied bond in January.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10872"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:49:42",
+      "investigative_direction": "Check the docket for the plea and detention hearing.",
+      "transcript_snippet": "He has pleaded not guilty and yet despite that has been denied bond in January.",
+      "mentions_person_refs": [
+        "N-25"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6440",
+      "ref": "C-6440",
+      "label": "Scripps aired 2024 Virginia crash bodycam in which Cole was ticketed for following too closely",
+      "claim": "The host plays a Scripps News segment on 2024 Virginia crash bodycam in which Brian J. Cole Jr. rear-ended a truck in a blue Nissan Sentra and was ticketed that day for following too closely.",
+      "anchored_artifacts": [
+        "A-2811.1",
+        "A-2472.1"
+      ],
+      "related_nodes": [
+        "N-10873"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:51:47",
+      "investigative_direction": "Obtain the Virginia police record of the 2024 crash and Scripps's records request showing how it was obtained.",
+      "transcript_snippet": "Cole was driving the blue Nissan Sentra when he rearended the truck in front of him.",
+      "mentions_person_refs": [
+        "N-25",
+        "N-26"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6441",
+      "ref": "C-6441",
+      "label": "Scripps says it asked police departments near Robinson's home for reports and obtained his 2022 accident bodycam",
+      "claim": "In the Scripps clip Lori Jane Gliha says her team contacted police departments in the communities where Tyler Robinson lived asking for reports or videos and that this week they obtained body camera footage from an accident he had in 2022.",
+      "anchored_artifacts": [
+        "A-2811.2",
+        "A-2472.1"
+      ],
+      "related_nodes": [
+        "N-10873"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:52",
+      "investigative_direction": "Obtain the Scripps records request and the department's response, and compare the processes used for the Robinson and Cole requests.",
+      "transcript_snippet": "this week we obtained body camera footage from an accident he had in 2022.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-26"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6442",
+      "ref": "C-6442",
+      "label": "Host says Erika attended daycare in Cincinnati's Scripps building in 1991, built in 1990",
+      "claim": "The host says her team's earlier series found Erika attended daycare in 1991 at a corporate building built in 1990 that was the Scripps building in Cincinnati, Ohio, at 312 Walnut Street.",
+      "anchored_artifacts": [
+        "A-2809.3",
+        "A-2812.1"
+      ],
+      "related_nodes": [
+        "N-10873"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:53:52",
+      "investigative_direction": "Verify the daycare record, building construction date and the address 312 Walnut Street.",
+      "transcript_snippet": "the building was built in 1990 and Erika was attending daycare there in 1991 and um it was actually the Scripps building in Cincinnati, Ohio.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6443",
+      "ref": "C-6443",
+      "label": "Host says she found no evidence Erika's parents worked in the Scripps building",
+      "claim": "The host says her team could not figure out what Erika's parents were doing in the Scripps building and found no evidence that they worked there.",
+      "anchored_artifacts": [
+        "A-2812.1"
+      ],
+      "related_nodes": [
+        "N-10873"
+      ],
+      "tags": [],
+      "claim_timestamp": "00:55:31",
+      "investigative_direction": "Check employment history for Erika's parents against tenants of the building in 1991.",
+      "transcript_snippet": "we found no evidence that her parents worked in this corporate building.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6444",
+      "ref": "C-6444",
+      "label": "Host quotes Erika as saying she asks herself whether something brings her closer to or further from heaven",
+      "claim": "The host quotes Erika's statement 'All I do is I asked myself, will this bring me closer to heaven or further away from it?' as the basis of her claimed heaven focus.",
+      "anchored_artifacts": [
+        "A-2473.1"
+      ],
+      "related_nodes": [
+        "N-10865"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:00",
+      "investigative_direction": "Locate the original interview or post in which Erika made this statement.",
+      "transcript_snippet": "All I do is I asked myself, will this bring me closer to heaven or further away from it?",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6445",
+      "ref": "C-6445",
+      "label": "Host says Erika now says she has no opinion on and does not think about Netanyahu",
+      "claim": "The host says Erika, after allegedly pushing her husband to be more against Israel's stance, now says she has no opinion and does not even think about Netanyahu.",
+      "anchored_artifacts": [
+        "A-2473.1"
+      ],
+      "related_nodes": [
+        "N-10056",
+        "N-10865"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:00:00",
+      "investigative_direction": "Find Erika's public statements on Israel and Netanyahu since September 2025 and reconcile with the Vanity Fair quotes about her earlier views.",
+      "transcript_snippet": "I don't have an opinion. I don't even think about BB Netany and Yahoo.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6446",
+      "ref": "C-6446",
+      "label": "Host says Erika gave Vanity Fair four months of access",
+      "claim": "The host says Erika gave Vanity Fair four months of access and asks why she did not give it messages instead of sending them to Andrew Wilson.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10864",
+        "N-10795"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:04:59",
+      "investigative_direction": "Check the Vanity Fair article's description of access granted by Erika or TPUSA.",
+      "transcript_snippet": "You gave them four months of access.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-18"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6447",
+      "ref": "C-6447",
+      "label": "Host thanks Lake Forest Group, the UVU independent review and the Vanity Fair reporter for her vindication",
+      "claim": "The host thanks the UVU independent review, Lake Forest Group and the Vanity Fair reporter, saying she has had the most vindicated week.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10839",
+        "N-11076"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:04:59",
+      "investigative_direction": "Confirm Lake Forest Group's role as author of the independent review and its engagement terms with UVU.",
+      "transcript_snippet": "thank you to that UVU Independent Review, Lake Forest Group, and also to the Vanity Fair reporter",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-6448",
+      "ref": "C-6448",
+      "label": "Host says her highly identifying mark means fake porn cannot be made about her",
+      "claim": "The host says she has a highly identifying mark and so fake pornography cannot be made about her, in the context of the smear attempts against her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10867"
+      ],
+      "tags": [],
+      "claim_timestamp": "01:06:45",
+      "investigative_direction": "Identify the smear material the host refers to and any claim about its authenticity.",
+      "transcript_snippet": "I have a highly identifying mark and you can't make fake porn about me.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-60",
+      "ref": "M-60",
+      "canonical_term": "Crisis Actor",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 159,
+          "video_timestamp": "00:25:31",
+          "speaker_node_ref": "N-3",
+          "quote": "erican involvement. June 17th, UVU hosts a fake drill simulation with crisis actors for a mass casualty event. On the 18th and the 19th, Charlie ph...",
+          "context": "Later reuse of Crisis Actor in CKA seq 159.",
+          "confidence": "high",
+          "tags": [
+            "staged",
+            "media",
+            "tip_language",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-1",
+      "ref": "M-1",
+      "canonical_term": "Grieving Widow",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 159,
+          "video_timestamp": "00:06:30",
+          "speaker_node_ref": "N-3",
+          "quote": "We are just done with the grieving widow narrative.",
+          "context": "Host declares the grieving-widow narrative over after the Dominate 2.0 messages.",
+          "confidence": "high",
+          "tags": [
+            "grieving_widow",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-5",
+      "ref": "M-5",
+      "canonical_term": "happy coincidence",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 159,
+          "video_timestamp": "00:35:55",
+          "speaker_node_ref": "N-3",
+          "quote": "Once again, a strange coincidence.",
+          "context": "Host notes another coincidence between her Epstein episode and the administration meetings.",
+          "confidence": "medium",
+          "tags": [
+            "coincidence",
+            "timeline",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-11",
+      "ref": "M-11",
+      "canonical_term": "MSAD",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 159,
+          "video_timestamp": "00:34:39",
+          "speaker_node_ref": "N-3",
+          "quote": "Epstein Files episode entitled Mega Maga and the MSAD",
+          "context": "Host names her August 13 Epstein episode, whose title uses the MSAD shorthand.",
+          "confidence": "medium",
+          "tags": [
+            "msad",
+            "epstein",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 159,
+          "video_timestamp": "00:06:30",
+          "speaker_node_ref": "N-3",
+          "quote": "I had received a tip from someone within the organization",
+          "context": "Host cites an insider tip that the tour was put together unusually.",
+          "confidence": "medium",
+          "tags": [
+            "dia",
+            "tip_payoff",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 159,
+          "video_timestamp": "00:53:52",
+          "speaker_node_ref": "N-3",
+          "quote": "Somebody emailed me and reminded me that when we were doing our series on Erika Kirk",
+          "context": "Viewer email prompts the Scripps daycare observation.",
+          "confidence": "high",
+          "tags": [
+            "dia",
+            "tip_payoff",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-52",
+      "ref": "M-52",
+      "canonical_term": "Patsy",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 159,
+          "video_timestamp": "00:49:42",
+          "speaker_node_ref": "N-3",
+          "quote": "It's what you think happens when they set up a pathy.",
+          "context": "Host says the Cole interrogation looks like a patsy set-up (transcribed 'pathy').",
+          "confidence": "medium",
+          "tags": [
+            "patsy",
+            "cole",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-75",
+      "ref": "M-75",
+      "canonical_term": "I'll Say Allegedly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 159,
+          "video_timestamp": "00:07:32",
+          "speaker_node_ref": "N-3",
+          "quote": "and I'm going to say allegedly here",
+          "context": "Host hedges the tipster's claim that Why Refi had a say in tour stops.",
+          "confidence": "high",
+          "tags": [
+            "allegedly",
+            "hedge",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 159,
+          "video_timestamp": "00:10:21",
+          "speaker_node_ref": "N-3",
+          "quote": "They say now he's a contractor, I'll say allegedly.",
+          "context": "Host hedges on Dylan Erickson's contractor status.",
+          "confidence": "high",
+          "tags": [
+            "allegedly",
+            "hedge",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 159,
+          "video_timestamp": "00:11:10",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm going to say allegedly, cuz I can't confirm that",
+          "context": "Host hedges on Why Refi's payment record.",
+          "confidence": "high",
+          "tags": [
+            "allegedly",
+            "hedge",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-79",
+      "ref": "M-79",
+      "canonical_term": "Pass the Sniff Test",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 159,
+          "video_timestamp": "00:13:56",
+          "speaker_node_ref": "N-3",
+          "quote": "it just doesn't pass the sniff test for me",
+          "context": "Host on the idea that Charlie set up a DOGE for no reason.",
+          "confidence": "high",
+          "tags": [
+            "sniff_test",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-81",
+      "ref": "M-81",
+      "canonical_term": "Bibi Net and Yahoo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 159,
+          "video_timestamp": "00:25:31",
+          "speaker_node_ref": "N-3",
+          "quote": "BBNet and Yahoo and his American partners are lobbying hard in DC",
+          "context": "Host's Netanyahu pun in the June timeline.",
+          "confidence": "high",
+          "tags": [
+            "netanyahu_pun",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 159,
+          "video_timestamp": "00:34:39",
+          "speaker_node_ref": "N-3",
+          "quote": "BB Netany and Yahoo who said we've got Monica Lewinsky",
+          "context": "Host's pun in the Mega Maga story.",
+          "confidence": "high",
+          "tags": [
+            "netanyahu_pun",
+            "reuse"
+          ]
+        },
+        {
+          "episode": 159,
+          "video_timestamp": "01:00:00",
+          "speaker_node_ref": "N-3",
+          "quote": "I don't even think about BB Netany and Yahoo.",
+          "context": "Host quotes Erika's Netanyahu line using the pun.",
+          "confidence": "high",
+          "tags": [
+            "netanyahu_pun",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-162",
+      "ref": "M-162",
+      "canonical_term": "Heaven Focused",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 159,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "I hope everybody tried on their heaven focused excuse at work today",
+          "context": "Host opens by mocking Erika's heaven-focused framing.",
+          "confidence": "high",
+          "tags": [
+            "heaven_focused",
+            "erika_branding"
+          ]
+        },
+        {
+          "episode": 159,
+          "video_timestamp": "01:00:00",
+          "speaker_node_ref": "N-3",
+          "quote": "you're so heaven.",
+          "context": "Host mocks Erika's self-description while discussing Andrew Wilson.",
+          "confidence": "medium",
+          "tags": [
+            "heaven_focused",
+            "erika_branding"
+          ]
+        },
+        {
+          "episode": 159,
+          "video_timestamp": "01:08:12",
+          "speaker_node_ref": "N-3",
+          "quote": "but I'm heaven focused right now.",
+          "context": "Host jokes she can do whatever she wants because she is heaven focused.",
+          "confidence": "high",
+          "tags": [
+            "heaven_focused",
+            "joke"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-163",
+      "ref": "M-163",
+      "canonical_term": "Not Allowed to Believe in Coincidence",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 159,
+          "video_timestamp": "00:55:31",
+          "speaker_node_ref": "N-3",
+          "quote": "I actually am not allowed to believe in coincidence. I'm Catholic. We believe in providence.",
+          "context": "Host on why the Scripps bodycam parallels are not coincidences.",
+          "confidence": "high",
+          "tags": [
+            "providence",
+            "coincidence"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-164",
+      "ref": "M-164",
+      "canonical_term": "Dominate 2.0",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 159,
+          "video_timestamp": "00:02:39",
+          "speaker_node_ref": "N-3",
+          "quote": "She put together a telegram group that was entitled Dominate 2.0.",
+          "context": "Host introduces the Telegram group name.",
+          "confidence": "medium",
+          "tags": [
+            "dominate_2_0",
+            "tpusa_2_0"
+          ]
+        },
+        {
+          "episode": 159,
+          "video_timestamp": "00:13:00",
+          "speaker_node_ref": "N-3",
+          "quote": "And how do you dominate? Just by being shady, I think.",
+          "context": "Host mocks the Dominate 2.0 chat name while discussing TPUSA's silence.",
+          "confidence": "high",
+          "tags": [
+            "dominate_2_0",
+            "tpusa_2_0"
+          ]
+        }
+      ]
+    }
+  ]
 }
